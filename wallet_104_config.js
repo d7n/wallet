@@ -1,1 +1,1 @@
-var mnemonic = "surprise resource please peasant drift glad liquid face hello voice salad cram";
+var mnemonic = "update idea shield loud delay race forest common crew muscle citizen grid";

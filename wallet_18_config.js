@@ -1,1 +1,1 @@
-var mnemonic = "device acoustic because window double remove unveil about little cool legend barrel";
+var mnemonic = "slice expose flash ozone income stable sugar neck hint grocery game trade";

@@ -1,1 +1,1 @@
-var mnemonic = "coral manage depend wool avoid stairs follow sausage soul keep beef pulp";
+var mnemonic = "chicken pledge foil rib easy person news ivory attack just brick start";

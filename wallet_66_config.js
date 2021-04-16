@@ -1,1 +1,1 @@
-var mnemonic = "foil surface face maze hero flock this tissue weather symbol engage price";
+var mnemonic = "hello quantum vocal drip claw case stick drip lab seat pizza another";

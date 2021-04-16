@@ -1,1 +1,1 @@
-var mnemonic = "bronze weekend slam unfair elephant canyon nephew below organ melt hidden symbol";
+var mnemonic = "brave drum myself warm void physical badge dice ship hunt lamp insect";

@@ -1,1 +1,1 @@
-var mnemonic = "world hour among club giggle name segment mirror rough job inspire timber";
+var mnemonic = "carbon clean frost flush ladder remind rude era market slam multiply jump";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo olympic opinion head neither inflict require stable spend refuse catch wood";
+var mnemonic = "gasp castle mind coin reunion artwork orient robust furnace habit lottery honey";

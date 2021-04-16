@@ -1,1 +1,1 @@
-var mnemonic = "twist tide chat provide festival carry toe title lamp develop under pass";
+var mnemonic = "crowd mail smooth sail direct struggle orchard move beyond cigar unfold more";

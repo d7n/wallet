@@ -1,1 +1,1 @@
-var mnemonic = "task catch cruise number smart casino tobacco battle tongue print admit cheese";
+var mnemonic = "oil repeat nature spend differ effort roast fever sword ketchup govern top";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker join scheme until virus must spatial seed world garlic fame image";
+var mnemonic = "cereal vague just canal obey tourist expose catch disagree rose diet creek";

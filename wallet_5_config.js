@@ -1,1 +1,1 @@
-var mnemonic = "alone hedgehog cricket aisle indoor bubble toast federal dutch tunnel elegant link";
+var mnemonic = "omit rather vapor tobacco forget absent neutral car error erode stumble ethics";

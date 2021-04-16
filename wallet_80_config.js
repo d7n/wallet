@@ -1,1 +1,1 @@
-var mnemonic = "reveal there parent lift wait loyal refuse pitch logic spatial scene gap";
+var mnemonic = "mixture rapid ready cherry book coin rate vintage nice define chicken project";

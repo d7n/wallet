@@ -1,1 +1,1 @@
-var mnemonic = "history unable fitness slight frame detect cherry conduct random junk egg reopen";
+var mnemonic = "acquire tackle hour trial critic degree mail secret duty deliver tornado curve";

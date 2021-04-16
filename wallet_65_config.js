@@ -1,1 +1,1 @@
-var mnemonic = "police security wheat cereal brick random solve galaxy broccoli front dune need";
+var mnemonic = "drum milk say year come frequent few someone buyer cook universe weird";

@@ -1,1 +1,1 @@
-var mnemonic = "index great wait trade wrap vivid pizza intact kangaroo action possible culture";
+var mnemonic = "spice sight case acoustic again poem gym silent infant office summer cry";

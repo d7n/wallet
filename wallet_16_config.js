@@ -1,1 +1,1 @@
-var mnemonic = "version timber minor tape license amateur abuse disease file acquire snack level";
+var mnemonic = "live share surprise life sugar project crucial moon exist mixed floor price";

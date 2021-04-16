@@ -1,1 +1,1 @@
-var mnemonic = "middle census below oblige candy decade shop expand praise consider surround alley";
+var mnemonic = "average shove bone connect dream wait bright banner fish review muffin garbage";

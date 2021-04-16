@@ -1,1 +1,1 @@
-var mnemonic = "dilemma uncle spell trophy clarify elephant ill term wet mother guitar alley";
+var mnemonic = "ten remind post daring unusual stairs novel win kid minor arctic armed";

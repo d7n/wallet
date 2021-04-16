@@ -1,1 +1,1 @@
-var mnemonic = "since flush skill hello stay deer toddler until south walnut sport practice";
+var mnemonic = "coach snap wear inquiry exhaust dignity input ostrich pink bring evoke tuna";

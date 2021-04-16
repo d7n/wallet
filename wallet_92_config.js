@@ -1,1 +1,1 @@
-var mnemonic = "erode car million similar happy theory come garment brand road grace that";
+var mnemonic = "donor carbon provide country rough winner motion retreat effort system wonder movie";

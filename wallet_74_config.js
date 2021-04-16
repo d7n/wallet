@@ -1,1 +1,1 @@
-var mnemonic = "air opinion cherry chalk resource next wrap false sad window journey move";
+var mnemonic = "bring pet deer mom mandate garlic biology approve oval space flush stick";

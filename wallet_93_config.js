@@ -1,1 +1,1 @@
-var mnemonic = "month message puppy carry canal enjoy finger jump fluid bracket alien employ";
+var mnemonic = "prepare provide hawk cradle song science iron slim setup alcohol castle avoid";

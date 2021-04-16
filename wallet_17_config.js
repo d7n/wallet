@@ -1,1 +1,1 @@
-var mnemonic = "hunt arctic bone fat domain episode total mixed candy load action analyst";
+var mnemonic = "aisle gift exist deal proof alcohol bronze dinner oyster budget cake company";

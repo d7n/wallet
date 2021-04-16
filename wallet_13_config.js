@@ -1,1 +1,1 @@
-var mnemonic = "mixed spawn between duty brand brother junk sting acoustic shock catch page";
+var mnemonic = "month index team subject raven usage volume joke ladder inject once portion";

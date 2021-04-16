@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tennis retreat code column average capable diet bread lecture palace tenant";
+var mnemonic = "bitter rural acoustic convince used sweet sad abstract dignity tonight rally enable";

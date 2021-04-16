@@ -1,1 +1,1 @@
-var mnemonic = "broken work citizen universe soul enrich vote shop enact twelve setup sport";
+var mnemonic = "shoulder addict celery install buzz junior rookie catch donor wheel correct narrow";

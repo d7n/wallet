@@ -1,1 +1,1 @@
-var mnemonic = "panel shop orphan camp mechanic timber gas cement muffin earn ship violin";
+var mnemonic = "stable manual mesh smoke insane dream distance tortoise dove police cloud trim";

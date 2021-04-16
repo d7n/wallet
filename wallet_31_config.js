@@ -1,1 +1,1 @@
-var mnemonic = "differ develop chat bamboo derive critic rail flush desert slogan riot benefit";
+var mnemonic = "junk inflict hole fun market breeze edit expect proof flee six ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "chase time time much vote ripple chief swim crisp tissue build reduce";
+var mnemonic = "car trial perfect feature stamp ski flush outside act sphere legal method";

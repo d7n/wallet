@@ -1,1 +1,1 @@
-var mnemonic = "comfort off myth can public pony this invest route vapor season spring";
+var mnemonic = "mule cradle doll electric torch demise sun rude letter announce term you";

@@ -1,1 +1,1 @@
-var mnemonic = "image asset craft tribe ball sad buyer ocean renew slogan large plastic";
+var mnemonic = "estate valley youth mimic oyster ring income pattern excuse acoustic false strong";

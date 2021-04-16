@@ -1,1 +1,1 @@
-var mnemonic = "ordinary alter nurse arena ice leg blast gravity crush bring spy achieve";
+var mnemonic = "river mouse smooth whip border hero thrive grass chunk fresh pause opera";

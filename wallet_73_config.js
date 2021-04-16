@@ -1,1 +1,1 @@
-var mnemonic = "bench history remember learn direct notice wolf devote cage police any always";
+var mnemonic = "lesson caught absent boil zebra draft train dutch horse soldier pride shift";

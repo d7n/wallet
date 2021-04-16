@@ -1,1 +1,1 @@
-var mnemonic = "surround cactus crash plastic violin magnet rebel plastic night junk gasp barely";
+var mnemonic = "bind reduce vicious swap sponsor mountain eight hover bench deal lock flee";

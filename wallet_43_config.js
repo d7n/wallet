@@ -1,1 +1,1 @@
-var mnemonic = "suit nuclear culture try genre give truck candy crunch spirit device bless";
+var mnemonic = "popular crouch hand hamster card question strategy style oval brown you custom";

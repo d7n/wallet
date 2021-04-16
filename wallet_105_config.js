@@ -1,1 +1,1 @@
-var mnemonic = "peanut abandon nominee scare metal amazing twin timber age radar inner pause";
+var mnemonic = "kite enrich sadness hold flavor work exclude crisp glow whale wealth boy";

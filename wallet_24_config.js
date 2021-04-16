@@ -1,1 +1,1 @@
-var mnemonic = "panic pattern math dwarf plate wrist critic slender speed weasel verb west";
+var mnemonic = "recipe crunch noble decade sand give burden asthma impose below choice science";

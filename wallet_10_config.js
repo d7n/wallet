@@ -1,1 +1,1 @@
-var mnemonic = "advice buddy wrestle price virtual oyster trust diagram decide post catch moment";
+var mnemonic = "amount open siege romance logic similar verb section glimpse decrease common drama";

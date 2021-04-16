@@ -1,1 +1,1 @@
-var mnemonic = "height trip parent model identify slender drill one friend peanut protect venture";
+var mnemonic = "brass sunset off snack answer brother season wedding adapt naive target help";

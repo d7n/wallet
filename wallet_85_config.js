@@ -1,1 +1,1 @@
-var mnemonic = "afraid museum where master happy quarter potato recycle blood cloud kidney hood";
+var mnemonic = "leopard deal lottery diesel page trend friend unaware huge fruit gloom spell";

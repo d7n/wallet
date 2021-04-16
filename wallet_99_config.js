@@ -1,1 +1,1 @@
-var mnemonic = "satoshi forward sail horse swim wood such chimney describe middle street century";
+var mnemonic = "expect rent puzzle ridge bitter hurry dry letter concert swear alone emerge";

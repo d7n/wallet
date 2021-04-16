@@ -1,1 +1,1 @@
-var mnemonic = "giant avocado polar melt able region alien feature promote fall nurse wink";
+var mnemonic = "arrange bus badge depend field quantum iron truth pizza sport alpha guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "just daughter twelve elegant audit service enact opera abandon also result deny";
+var mnemonic = "glass connect try such pupil word harvest spy shaft trust shrug wine";

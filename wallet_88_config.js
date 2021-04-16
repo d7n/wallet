@@ -1,1 +1,1 @@
-var mnemonic = "topple light venue swift exist pumpkin minimum net lemon heavy around dawn";
+var mnemonic = "grain coral island tenant hill edge left census worth urge media crew";

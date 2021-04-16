@@ -1,1 +1,1 @@
-var mnemonic = "permit dentist faint bronze nephew assume spy seminar square skirt scene ghost";
+var mnemonic = "another chicken gown perfect sell purpose useful finish dog object cherry frame";

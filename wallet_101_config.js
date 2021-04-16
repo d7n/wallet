@@ -1,1 +1,1 @@
-var mnemonic = "wild elephant idea social fun ketchup hold amazing demise three hole meat";
+var mnemonic = "tribe casual mushroom rule lava tell trophy mail moment quick oval match";

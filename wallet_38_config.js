@@ -1,1 +1,1 @@
-var mnemonic = "fun clinic sausage fever arena claim payment peanut milk meadow trim say";
+var mnemonic = "view baby rotate reduce awake melt life reduce admit earth army garden";

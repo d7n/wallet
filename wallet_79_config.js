@@ -1,1 +1,1 @@
-var mnemonic = "make foam spoil evolve salt seven scout cheese panic flash nerve ethics";
+var mnemonic = "stay dial business magic can enrich key roast auction consider muffin hard";

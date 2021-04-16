@@ -1,1 +1,1 @@
-var mnemonic = "space what prize idle offer chimney grace matter aunt vivid river coffee";
+var mnemonic = "nuclear gallery crop access angry industry valve check science follow document brick";

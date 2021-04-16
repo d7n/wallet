@@ -1,1 +1,1 @@
-var mnemonic = "trash author impose pond motion salmon practice thought peasant maze direct polar";
+var mnemonic = "regret bike wing rabbit congress misery later scatter develop deer move measure";

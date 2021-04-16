@@ -1,1 +1,1 @@
-var mnemonic = "sentence prefer pupil grape rose vague exhaust feed farm usual proud demand";
+var mnemonic = "dwarf crash smooth amused tornado eight dizzy trial table borrow napkin original";

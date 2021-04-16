@@ -1,1 +1,1 @@
-var mnemonic = "crawl acoustic coast crowd innocent deposit board dial infant equal habit welcome";
+var mnemonic = "always bread wrist evoke hidden strike special special prison thunder math two";

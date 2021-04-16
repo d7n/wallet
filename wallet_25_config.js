@@ -1,1 +1,1 @@
-var mnemonic = "forget injury security mimic repeat feature apart ecology rather demand client patrol";
+var mnemonic = "deputy credit veteran grow mixed ghost dawn eight pig ankle transfer cool";

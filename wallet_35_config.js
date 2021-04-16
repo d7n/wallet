@@ -1,1 +1,1 @@
-var mnemonic = "sorry voice they slam educate own balance will endorse goose add fetch";
+var mnemonic = "state scrap fetch become certain shiver giggle caution toddler enhance genius borrow";

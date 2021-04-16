@@ -1,1 +1,1 @@
-var mnemonic = "under kitten fossil idea tuna fringe business suggest defy doctor train palm";
+var mnemonic = "dog detail antique end song cake notice source report chef carbon afraid";

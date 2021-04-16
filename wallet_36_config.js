@@ -1,1 +1,1 @@
-var mnemonic = "chaos popular income apology crop stuff walk bridge army dirt minimum cupboard";
+var mnemonic = "cute domain donor exhibit film miss aunt occur short kid memory cage";

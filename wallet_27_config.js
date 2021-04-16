@@ -1,1 +1,1 @@
-var mnemonic = "write motor gauge bleak obscure dove purpose answer town bridge drift town";
+var mnemonic = "cement until win phone leader portion slide seven general quote material better";

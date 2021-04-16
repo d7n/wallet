@@ -1,1 +1,1 @@
-var mnemonic = "ticket group stick valley enemy ginger comic clown surprise knee lottery slender";
+var mnemonic = "hub advice alarm ability purchase upgrade humor change correct window board crunch";

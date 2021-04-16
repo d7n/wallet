@@ -1,1 +1,1 @@
-var mnemonic = "always alpha benefit allow story differ gown shock doctor random distance frown";
+var mnemonic = "hospital pumpkin topic moral true tilt tape loop whisper sample congress square";

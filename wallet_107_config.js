@@ -1,1 +1,1 @@
-var mnemonic = "arrow cattle ice rifle average fuel lecture grab resemble balcony strong anger";
+var mnemonic = "impact spare need bridge match country rather couch climb thumb they light";

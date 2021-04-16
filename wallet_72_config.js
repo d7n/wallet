@@ -1,1 +1,1 @@
-var mnemonic = "element aware extra swift cigar pupil mother three hawk skin cloud service";
+var mnemonic = "resource series exclude misery neglect cook broom absorb lyrics buzz auction trim";

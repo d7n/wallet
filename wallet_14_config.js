@@ -1,1 +1,1 @@
-var mnemonic = "spare often harbor lyrics unusual put walk common holiday crumble walk budget";
+var mnemonic = "end impose expose another rain rapid cluster weapon modify reform walnut tone";

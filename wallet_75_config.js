@@ -1,1 +1,1 @@
-var mnemonic = "mule extend pony scrub buyer tribe family swap spray example success situate";
+var mnemonic = "retreat trouble iron opinion dove meadow finger primary tuna any assume bronze";

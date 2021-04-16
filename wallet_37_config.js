@@ -1,1 +1,1 @@
-var mnemonic = "roast catch earn palace diary inject surge stem shoulder noble cancel weapon";
+var mnemonic = "satisfy correct parent feature page boat blanket idea radio mutual antenna dirt";

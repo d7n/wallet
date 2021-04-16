@@ -1,1 +1,1 @@
-var mnemonic = "orbit bacon can farm biology elbow cradle fragile moral donor protect boat";
+var mnemonic = "shiver chuckle arrange drive someone knife foster brand yellow beef divorce have";

@@ -1,1 +1,1 @@
-var mnemonic = "hold castle street timber write danger nurse spoon involve timber project deny";
+var mnemonic = "cluster belt mosquito fade local brisk knife ecology fiber ribbon shop pill";

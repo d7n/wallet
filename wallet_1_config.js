@@ -1,1 +1,1 @@
-var mnemonic = "output dutch company sail tool change rib punch agree onion meadow aisle";
+var mnemonic = "soldier head noble human economy observe curve silent machine pelican drop tiger";

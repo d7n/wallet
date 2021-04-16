@@ -1,1 +1,1 @@
-var mnemonic = "onion attack verify legend citizen trim blade tunnel rookie toe tattoo essay";
+var mnemonic = "web input merry loud settle solution detail kiss traffic brown toss stomach";

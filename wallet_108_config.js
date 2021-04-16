@@ -1,1 +1,1 @@
-var mnemonic = "kiss dismiss best assume swallow maid upset exist flag laundry state scheme";
+var mnemonic = "ceiling panther nerve kiwi group guess daring hill garlic usual grid depend";

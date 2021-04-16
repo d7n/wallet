@@ -1,1 +1,1 @@
-var mnemonic = "comic anxiety build nominee alien whip arrive arena charge benefit tribe exact";
+var mnemonic = "supreme width verb milk shine electric spawn keep earn owner pull buyer";

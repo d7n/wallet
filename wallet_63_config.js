@@ -1,1 +1,1 @@
-var mnemonic = "practice fiscal vintage core dolphin bench high dolphin palm friend prefer tomorrow";
+var mnemonic = "cinnamon protect goat utility dose fatal shield aspect lion lyrics ring bench";

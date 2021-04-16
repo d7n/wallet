@@ -1,1 +1,1 @@
-var mnemonic = "buffalo dragon leader weather lunar cousin student ancient point firm cinnamon paddle";
+var mnemonic = "crane armed iron swift praise hollow novel claim bar unusual squeeze rain";

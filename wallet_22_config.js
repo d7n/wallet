@@ -1,1 +1,1 @@
-var mnemonic = "topple empty point toe polar keep afford bottom destroy off local blur";
+var mnemonic = "feed harvest mountain magnet alone cradle sausage learn skull love blade ozone";

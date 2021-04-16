@@ -1,1 +1,1 @@
-var mnemonic = "exhibit sea pizza powder tongue hidden spread inspire grab picnic camera quarter";
+var mnemonic = "hedgehog museum puzzle scare number kick inch mad edge moon clarify boost";

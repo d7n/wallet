@@ -1,1 +1,1 @@
-var mnemonic = "rhythm shuffle double model dismiss black tag feed shift anger sing valid";
+var mnemonic = "doll midnight shop direct fork seat tobacco common smoke tent invite hundred";

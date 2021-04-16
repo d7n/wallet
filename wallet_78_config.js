@@ -1,1 +1,1 @@
-var mnemonic = "stove jealous begin lava view coral together lawn good blush neutral security";
+var mnemonic = "expand derive catalog enrich walk pretty gain material noodle vapor draw gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "verb ancient relief about duty access victory burger grit patient pumpkin emotion";
+var mnemonic = "diet hint blossom broccoli usage reform glad now wreck trial system please";

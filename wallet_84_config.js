@@ -1,1 +1,1 @@
-var mnemonic = "copy install pipe general reduce pulse forward trick top polar tuition age";
+var mnemonic = "quick uncover remain club cream often coin topple kit behind fury note";

@@ -1,1 +1,1 @@
-var mnemonic = "security dawn phone saddle join congress dish grid item person kick damp";
+var mnemonic = "antique birth plastic drastic foster sunny horn grow toddler palm describe craft";

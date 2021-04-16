@@ -1,1 +1,1 @@
-var mnemonic = "merge hip among link fade garage order dilemma smooth thunder gift item";
+var mnemonic = "shell when humble hurdle ticket mystery split top cinnamon print kit couple";

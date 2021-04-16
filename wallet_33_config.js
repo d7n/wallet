@@ -1,1 +1,1 @@
-var mnemonic = "coin shed culture captain best isolate symptom spare aspect feed alien music";
+var mnemonic = "other buzz essence iron eyebrow echo key swamp access acid trick badge";

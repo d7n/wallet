@@ -1,1 +1,1 @@
-var mnemonic = "tilt off opera buyer shield cloud knock way uphold copy drop post";
+var mnemonic = "dutch betray frame mango prepare myth voyage scrap brass youth squeeze trim";

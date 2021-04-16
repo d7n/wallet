@@ -1,1 +1,1 @@
-var mnemonic = "humor swallow seven silent knock library south salad daughter purse twenty clay";
+var mnemonic = "elbow purchase worth much damage monitor desert snack sand job monitor dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse problem much weapon any empty avocado suggest quiz helmet scrub scrap";
+var mnemonic = "lyrics brown spike isolate three drill kite can test garment balcony news";

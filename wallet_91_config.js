@@ -1,1 +1,1 @@
-var mnemonic = "clay love elegant advance tent assist silly wild flavor joke model awesome";
+var mnemonic = "coast century cousin absent torch initial venture agent tide skirt slogan volcano";

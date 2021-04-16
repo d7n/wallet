@@ -1,1 +1,1 @@
-var mnemonic = "myself fury dentist similar airport bunker april trend style shuffle wise side";
+var mnemonic = "jacket either lava task divide weekend ball fold lobster stand book faint";

@@ -1,1 +1,1 @@
-var mnemonic = "planet jungle typical woman inhale burden bag stairs drastic path scare refuse";
+var mnemonic = "leaf million velvet milk umbrella device output piano shine olympic charge filter";

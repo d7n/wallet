@@ -1,1 +1,1 @@
-var mnemonic = "usage into emotion text isolate artwork picnic casino swing slam mountain check";
+var mnemonic = "bulb across universe stock bright rice physical reduce green candy three sponsor";

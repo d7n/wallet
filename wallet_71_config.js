@@ -1,1 +1,1 @@
-var mnemonic = "urge tell attitude pottery judge car pen broken museum emerge assist local";
+var mnemonic = "mosquito pass budget name unfold destroy style melt bounce author audit mansion";
