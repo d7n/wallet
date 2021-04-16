@@ -1,1 +1,1 @@
-var mnemonic = "nephew draft invest hollow vessel exhaust manage differ shine tonight crater sniff";
+var mnemonic = "next pluck advance episode clutch poem describe wait vivid funny door swallow";

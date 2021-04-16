@@ -1,1 +1,1 @@
-var mnemonic = "repeat depend alter edit stuff relief tonight blame lemon system napkin cash";
+var mnemonic = "satisfy cloud arm stem mystery tomorrow slender explain earn hair egg practice";

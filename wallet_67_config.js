@@ -1,1 +1,1 @@
-var mnemonic = "dignity vault rapid uncle apple glue panic tooth define ski soul snap";
+var mnemonic = "crew session cliff private refuse water swear large rabbit leisure rather rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "matter joke promote safe gold play space eye cycle twenty lyrics garbage";
+var mnemonic = "asset gold nature doctor glass pink current beach belt pelican fragile thing";

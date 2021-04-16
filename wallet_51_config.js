@@ -1,1 +1,1 @@
-var mnemonic = "jeans payment shadow bid tower slam amazing jealous auction mouse write twist";
+var mnemonic = "venture enter frog plug basket aim lemon display island area sort busy";

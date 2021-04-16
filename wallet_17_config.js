@@ -1,1 +1,1 @@
-var mnemonic = "devote happy carbon fossil clinic decide captain depend reunion travel reward network";
+var mnemonic = "intact health place excite tent disease spread flavor animal goose chaos multiply";

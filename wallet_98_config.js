@@ -1,1 +1,1 @@
-var mnemonic = "melt scare wild bracket segment dash exhibit year ship measure tourist grant";
+var mnemonic = "network release depart wolf rail utility promote tiny bronze museum sister horse";

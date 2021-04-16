@@ -1,1 +1,1 @@
-var mnemonic = "captain define uncover pilot hair equal foam winner seek segment eternal head";
+var mnemonic = "dolphin emerge arrange guard crack swamp bonus attack section call stove embrace";

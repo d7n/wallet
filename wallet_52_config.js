@@ -1,1 +1,1 @@
-var mnemonic = "impact sun company course antenna cheese noise train manual coconut slam unit";
+var mnemonic = "uncle series object often kick orange update blade fox bleak apple pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "danger circle fortune material observe jewel gain voyage bleak happy jeans item";
+var mnemonic = "nephew hour ball donate travel bring owner enter call another meat print";

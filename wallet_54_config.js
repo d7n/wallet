@@ -1,1 +1,1 @@
-var mnemonic = "couch enrich stone salad victory salon car guide initial change float mistake";
+var mnemonic = "capital turkey beyond cause super credit balcony bulb tray guilt tackle hello";

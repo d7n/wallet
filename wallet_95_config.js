@@ -1,1 +1,1 @@
-var mnemonic = "orient blast outer main loop canvas mushroom hole aim doctor refuse man";
+var mnemonic = "unaware sight leg worry injury roof torch crane open collect split couch";

@@ -1,1 +1,1 @@
-var mnemonic = "venture neglect outside chicken faint park intact loop armor solve parade need";
+var mnemonic = "nature marine wife walnut grief ghost involve square ceiling drastic shift fault";

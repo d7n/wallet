@@ -1,1 +1,1 @@
-var mnemonic = "palm attitude end giraffe student boy brain rebuild crumble job horror survey";
+var mnemonic = "grant book rather magnet banana venue pottery bacon flush shift nuclear try";

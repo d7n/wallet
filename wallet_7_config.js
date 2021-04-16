@@ -1,1 +1,1 @@
-var mnemonic = "agent stool narrow pass december six wreck gown glad game orchard vessel";
+var mnemonic = "field demand access addict require polar party castle stadium any raven donkey";

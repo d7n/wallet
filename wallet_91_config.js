@@ -1,1 +1,1 @@
-var mnemonic = "hawk price into obscure prize loop cream bread trim stove cabbage outer";
+var mnemonic = "ritual train spell version bubble deal describe this inherit ship stairs surround";

@@ -1,1 +1,1 @@
-var mnemonic = "army bench make burger below dad wrestle horse bar virus crop lonely";
+var mnemonic = "forward kiss minimum size account benefit oblige frequent couch doll cover ability";

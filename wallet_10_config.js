@@ -1,1 +1,1 @@
-var mnemonic = "keep element income denial creek spoon already problem ethics rabbit autumn error";
+var mnemonic = "judge inspire describe cabin nasty theory exhaust fluid glimpse mule ring home";

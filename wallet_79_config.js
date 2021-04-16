@@ -1,1 +1,1 @@
-var mnemonic = "very dove jewel dignity swift judge couple release reunion seat alley sort";
+var mnemonic = "jungle goddess dial view solar cloud prevent digital spice cake wealth bench";

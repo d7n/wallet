@@ -1,1 +1,1 @@
-var mnemonic = "chief comfort swim tongue tomorrow example view defy blame milk behind wrist";
+var mnemonic = "ticket lock dentist bulk mimic aim sick north walk slush source edit";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis glad faint setup law blind dinosaur stairs jazz whisper relax fee";
+var mnemonic = "swamp ankle grass guilt opinion stuff tired party library grace stem unfair";

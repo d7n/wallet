@@ -1,1 +1,1 @@
-var mnemonic = "aware hard total fetch start fox elegant rail dish copy dash grab";
+var mnemonic = "annual chat purchase rent shed connect wealth question dawn real toss prepare";

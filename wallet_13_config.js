@@ -1,1 +1,1 @@
-var mnemonic = "citizen ask pencil napkin dress world pony fade winner three fetch purse";
+var mnemonic = "march sand worth fancy ranch pony infant brown random sport wild boring";

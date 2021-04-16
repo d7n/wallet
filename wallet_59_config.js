@@ -1,1 +1,1 @@
-var mnemonic = "violin about alter bitter ill afford fat song replace urge common stairs";
+var mnemonic = "crouch festival property giraffe system inform bread silk normal mean daughter fiscal";

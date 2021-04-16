@@ -1,1 +1,1 @@
-var mnemonic = "industry image hope bus spoon journey action arctic address slow push advance";
+var mnemonic = "sound burden grid unusual trial proud since input fossil pet involve pill";

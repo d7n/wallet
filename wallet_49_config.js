@@ -1,1 +1,1 @@
-var mnemonic = "edit spirit evidence ripple refuse truck talk robust spirit giraffe wage rare";
+var mnemonic = "waste invest elephant scene member absorb cream replace clarify also walk way";

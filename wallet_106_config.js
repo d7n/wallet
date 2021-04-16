@@ -1,1 +1,1 @@
-var mnemonic = "foster upgrade tell result tree party ice aunt history win cement industry";
+var mnemonic = "swim now merry defense voyage symptom permit public rain either reject camera";

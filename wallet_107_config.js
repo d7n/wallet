@@ -1,1 +1,1 @@
-var mnemonic = "tail truly shoe flock six couch relax nut feature coffee lazy reason";
+var mnemonic = "avoid strong silly man aspect quote lazy theory royal exhibit math zone";

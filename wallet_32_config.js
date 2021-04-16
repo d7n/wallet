@@ -1,1 +1,1 @@
-var mnemonic = "useless south echo certain direct nurse hundred adjust shoe fame invite zero";
+var mnemonic = "visual bubble decade junior garbage taxi west edit black knee asthma crane";

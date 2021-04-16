@@ -1,1 +1,1 @@
-var mnemonic = "seek add false grace raise option chest shrimp travel glove never please";
+var mnemonic = "mutual concert asset reopen protect aunt sunny urban elbow air service acoustic";

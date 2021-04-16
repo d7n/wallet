@@ -1,1 +1,1 @@
-var mnemonic = "obtain bronze keen life quit lounge slide hood chicken misery tonight hungry";
+var mnemonic = "install cinnamon warfare sense oblige gun list power quit season guess observe";

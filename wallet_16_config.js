@@ -1,1 +1,1 @@
-var mnemonic = "trim butter couple reduce guard genius warrior cart awesome shed chalk crucial";
+var mnemonic = "purpose assume verify pull nut wife that avoid parrot gravity weird narrow";

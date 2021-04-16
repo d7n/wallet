@@ -1,1 +1,1 @@
-var mnemonic = "alien outdoor shoe agree refuse refuse achieve output initial olympic vicious great";
+var mnemonic = "produce they breeze spell muscle analyst cinnamon ladder empty setup bonus business";

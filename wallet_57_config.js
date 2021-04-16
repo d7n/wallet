@@ -1,1 +1,1 @@
-var mnemonic = "door mushroom spatial artefact essay soft unaware indoor mimic hat adapt humble";
+var mnemonic = "rhythm chest say menu shallow payment orbit language tone apple noodle broccoli";

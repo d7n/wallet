@@ -1,1 +1,1 @@
-var mnemonic = "shy submit end certain element climb alone empty deer slot table inmate";
+var mnemonic = "cake soul sense local husband slot inhale own indoor measure young prefer";

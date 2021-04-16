@@ -1,1 +1,1 @@
-var mnemonic = "royal delay inject remember brother mixed frog plate pelican cash devote give";
+var mnemonic = "brass target enact unknown empower sell skate coffee about govern ride story";

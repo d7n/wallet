@@ -1,1 +1,1 @@
-var mnemonic = "purchase core language fashion movie reopen huge armed sense upset abstract kangaroo";
+var mnemonic = "ripple slogan nice polar grape diet index blood finish suffer salute magnet";

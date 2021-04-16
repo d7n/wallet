@@ -1,1 +1,1 @@
-var mnemonic = "main expand cloud elephant depend small zone client execute flag label perfect";
+var mnemonic = "review hard page material donkey absent expand pond way result illness super";

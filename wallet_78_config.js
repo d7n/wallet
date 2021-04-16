@@ -1,1 +1,1 @@
-var mnemonic = "proud trust normal various urge tube slender mouse layer liberty lumber easily";
+var mnemonic = "sport damp noble wealth moon nephew aspect acid grant language humor require";

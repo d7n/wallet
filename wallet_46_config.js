@@ -1,1 +1,1 @@
-var mnemonic = "start verify spring spawn join screen runway unveil avoid negative discover enlist";
+var mnemonic = "carry blast blur confirm strike visual size industry wedding ivory private clinic";

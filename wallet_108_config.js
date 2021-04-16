@@ -1,1 +1,1 @@
-var mnemonic = "pencil puzzle arrest evidence trigger clean maze general evoke guilt mammal update";
+var mnemonic = "ginger today joke include miracle into salt daring permit aspect radar acquire";

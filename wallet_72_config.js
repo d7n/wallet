@@ -1,1 +1,1 @@
-var mnemonic = "test glass seminar spin increase arch radar awake course food tape habit";
+var mnemonic = "junk empower unaware patrol diet caution helmet sea vivid live chief space";

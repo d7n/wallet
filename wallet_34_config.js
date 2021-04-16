@@ -1,1 +1,1 @@
-var mnemonic = "loyal agent culture seven giraffe pipe noodle athlete absurd film warfare advance";
+var mnemonic = "thrive kite news normal blush frog innocent high play elder sorry vintage";

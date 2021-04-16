@@ -1,1 +1,1 @@
-var mnemonic = "immune fluid metal asthma marble hood craft crack town wine borrow denial";
+var mnemonic = "length into animal draft broom exit cotton shield right element verb average";

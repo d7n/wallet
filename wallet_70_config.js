@@ -1,1 +1,1 @@
-var mnemonic = "gaze wire danger athlete pumpkin stomach palm industry torch live swamp human";
+var mnemonic = "elbow second access bridge flight stuff once title bicycle track grant acid";

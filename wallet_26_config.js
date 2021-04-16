@@ -1,1 +1,1 @@
-var mnemonic = "venue private turkey marriage fetch armor autumn combine skin fun number balance";
+var mnemonic = "science gentle clump student zero exact moral expect job skate box transfer";

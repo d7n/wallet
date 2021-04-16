@@ -1,1 +1,1 @@
-var mnemonic = "sadness fault angry accident much point wait snack light amateur divert athlete";
+var mnemonic = "tilt blind develop between clump visa wing citizen juice extra welcome squeeze";

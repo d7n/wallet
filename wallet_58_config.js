@@ -1,1 +1,1 @@
-var mnemonic = "brick veteran either meat smart make tiny chief debris enact chimney buffalo";
+var mnemonic = "desert donate lava goat dad blanket weather puppy exhibit worry certain scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "post check crystal around snake claim bench define believe achieve suggest heart";
+var mnemonic = "screen radio often sight supply trophy flush control plunge moon warfare rail";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup gap nothing hammer limb jump shift feel gas combine bike evil";
+var mnemonic = "end shoot upset guilt area bounce gap enemy coach whip grass royal";

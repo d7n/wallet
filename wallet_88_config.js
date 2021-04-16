@@ -1,1 +1,1 @@
-var mnemonic = "knock account there tray potato response tribe flame eager artefact arrest bread";
+var mnemonic = "brisk actress dwarf obscure tribe enlist dwarf order slide fork decorate poem";

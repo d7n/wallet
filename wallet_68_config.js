@@ -1,1 +1,1 @@
-var mnemonic = "patch inside farm poet dish awesome any enact stone agree purse reward";
+var mnemonic = "harbor danger bronze catch box ice mention cream life keen cement mercy";

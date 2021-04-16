@@ -1,1 +1,1 @@
-var mnemonic = "reduce patrol struggle gesture gospel mule social shaft bubble tongue elegant trash";
+var mnemonic = "fringe cream regret grab cattle install then cruise awake peace detail polar";

@@ -1,1 +1,1 @@
-var mnemonic = "hope arrest globe infant bulk gesture ability sound sudden sand soft coil";
+var mnemonic = "pull prison powder twenty walk side glance plug position regular extra jungle";

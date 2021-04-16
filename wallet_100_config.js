@@ -1,1 +1,1 @@
-var mnemonic = "absurd trophy hint pelican rural force obscure banana plastic train gesture basket";
+var mnemonic = "fish number obvious evil slice involve toast enact heavy library fault relax";

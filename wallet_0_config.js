@@ -1,1 +1,1 @@
-var mnemonic = "old noise right switch myth candy day trim receive fringe crunch seven";
+var mnemonic = "illegal flash denial attract crisp lamp juice valid crisp husband second shoot";

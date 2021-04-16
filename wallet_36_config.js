@@ -1,1 +1,1 @@
-var mnemonic = "desert electric confirm distance despair organ fly cliff runway dose vintage gadget";
+var mnemonic = "fury predict champion lamp magnet fancy skill shrimp chicken frame tag okay";

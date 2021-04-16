@@ -1,1 +1,1 @@
-var mnemonic = "discover unhappy bench valve aware blade tomato hand rain finger make drive";
+var mnemonic = "wait idle avoid rice stadium blouse violin fat forget great suit north";

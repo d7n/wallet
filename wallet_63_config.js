@@ -1,1 +1,1 @@
-var mnemonic = "shoe distance capable coin card mansion stay brain derive pond plastic describe";
+var mnemonic = "foot drive omit shiver valve chaos kitten story dismiss artefact trend firm";

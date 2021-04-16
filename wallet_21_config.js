@@ -1,1 +1,1 @@
-var mnemonic = "fury buffalo cream smile resource involve great mouse powder job pizza dignity";
+var mnemonic = "palm document agent gauge elephant lunch also game impulse banana hidden belt";

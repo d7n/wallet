@@ -1,1 +1,1 @@
-var mnemonic = "legal supreme shy nasty mango bid bench rug bamboo pig kick long";
+var mnemonic = "renew used high snake client oblige win infant success struggle march wife";

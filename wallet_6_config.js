@@ -1,1 +1,1 @@
-var mnemonic = "luggage laptop net basic labor silk know often rifle already length lizard";
+var mnemonic = "jacket provide claim afford flash regular remove final come city exist slow";

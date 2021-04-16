@@ -1,1 +1,1 @@
-var mnemonic = "blue month action garlic unique dad proof love custom square require major";
+var mnemonic = "income position brass tube thank desk stage under gift arrest brave mosquito";

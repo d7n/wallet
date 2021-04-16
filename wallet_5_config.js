@@ -1,1 +1,1 @@
-var mnemonic = "begin accuse congress sustain noodle into average target hollow domain good report";
+var mnemonic = "venue escape bridge potato armor local chapter clerk pulse slice then cradle";

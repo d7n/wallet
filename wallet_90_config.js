@@ -1,1 +1,1 @@
-var mnemonic = "proof cry mandate tell program ill maple crater wear present news onion";
+var mnemonic = "now emotion muffin silk boil river drill fury final power solve traffic";

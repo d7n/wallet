@@ -1,1 +1,1 @@
-var mnemonic = "distance involve shy laptop uphold plunge glance urge idle offer term rain";
+var mnemonic = "label violin draw load gravity because evoke dad jazz hole mean parade";

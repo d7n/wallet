@@ -1,1 +1,1 @@
-var mnemonic = "panther mixture gospel carry elegant slide when laugh trick ordinary auction ocean";
+var mnemonic = "record hold easy raccoon extend seat solid grid earn loyal pink music";

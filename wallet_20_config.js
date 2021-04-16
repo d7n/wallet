@@ -1,1 +1,1 @@
-var mnemonic = "drift stamp category arrange sign cruise wire knife burden leg find able";
+var mnemonic = "real news put hold valley leader tool audit pattern insect friend disorder";

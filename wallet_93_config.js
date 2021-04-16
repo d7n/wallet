@@ -1,1 +1,1 @@
-var mnemonic = "indicate music okay online world civil appear husband water myself major ritual";
+var mnemonic = "fat olympic mirror wild genre require neck segment exclude shoulder aerobic robot";

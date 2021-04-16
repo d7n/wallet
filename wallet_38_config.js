@@ -1,1 +1,1 @@
-var mnemonic = "awkward orphan helmet bubble bike coast poet elbow follow industry barrel spy";
+var mnemonic = "knock rival fruit poem celery surface caution have bean glue edit maximum";

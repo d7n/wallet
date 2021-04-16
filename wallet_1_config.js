@@ -1,1 +1,1 @@
-var mnemonic = "square enemy oyster abuse gate turtle pass enjoy citizen hard amount insect";
+var mnemonic = "frog share expect fiber knock fault sell stereo orphan dress february rubber";

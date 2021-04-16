@@ -1,1 +1,1 @@
-var mnemonic = "first point film actress replace inmate figure damp stereo impose crouch average";
+var mnemonic = "crazy logic brief finger gasp battle wool urban speed culture fee celery";

@@ -1,1 +1,1 @@
-var mnemonic = "piano like exchange boy trash blast raccoon cannon domain cotton picnic mosquito";
+var mnemonic = "scatter patient bean task address neutral mule traffic system boost hello leg";

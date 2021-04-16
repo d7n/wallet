@@ -1,1 +1,1 @@
-var mnemonic = "artwork retreat unveil cruel liquid basic pact timber rotate region antenna ski";
+var mnemonic = "youth bracket breeze fee survey control unit toast security furnace clog false";

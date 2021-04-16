@@ -1,1 +1,1 @@
-var mnemonic = "couple trial decrease bicycle antenna party blue crane icon obscure habit vast";
+var mnemonic = "morning sorry lens primary suffer recycle exotic shove husband crouch empower age";

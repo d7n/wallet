@@ -1,1 +1,1 @@
-var mnemonic = "sight pledge atom skin arrest law screen differ title spatial turn cereal";
+var mnemonic = "praise city connect fun force view drink boring dream next jump merry";

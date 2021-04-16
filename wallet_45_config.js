@@ -1,1 +1,1 @@
-var mnemonic = "drink solar fantasy science science broken this crystal lesson actual garbage luggage";
+var mnemonic = "uniform tilt favorite poet visual arrest whip anxiety bench sick story token";

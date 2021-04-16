@@ -1,1 +1,1 @@
-var mnemonic = "damp couch east anger bulk shaft kite valley situate couch load vote";
+var mnemonic = "shoulder yellow dinner skate skirt lend improve athlete slender journey bunker random";

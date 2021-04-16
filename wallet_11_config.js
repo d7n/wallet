@@ -1,1 +1,1 @@
-var mnemonic = "despair defense wrist denial luxury tenant make asset pact bounce hold busy";
+var mnemonic = "teach satisfy brand ivory shrimp please retreat woman idle pond fat just";

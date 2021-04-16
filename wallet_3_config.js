@@ -1,1 +1,1 @@
-var mnemonic = "shoe deal tool choose sword emerge become hurry dilemma fresh brown hair";
+var mnemonic = "cheese boring soap multiply heavy want vehicle defense net predict trust robot";

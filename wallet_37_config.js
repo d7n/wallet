@@ -1,1 +1,1 @@
-var mnemonic = "short dirt pencil skirt fitness together usual lake rookie key decade iron";
+var mnemonic = "room true crazy call boat dizzy palm fine brass current same note";

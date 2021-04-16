@@ -1,1 +1,1 @@
-var mnemonic = "thought famous measure vicious sand merge concert vintage cake mask angle risk";
+var mnemonic = "loan index valley vintage boy gather bottom dolphin hat ethics odor quantum";

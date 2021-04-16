@@ -1,1 +1,1 @@
-var mnemonic = "debate wage spawn wool soccer chair index final nature member join unaware";
+var mnemonic = "allow case brother feel unknown useful chalk genius fun tired cancel member";
