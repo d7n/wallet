@@ -1,1 +1,1 @@
-var mnemonic = "ahead method valley clinic wreck float train filter defense hobby match bicycle";
+var mnemonic = "myth dove increase copy law cash theme cliff always craft vault into";

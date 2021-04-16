@@ -1,1 +1,1 @@
-var mnemonic = "physical couple calm sponsor junk escape certain alarm cotton marble earth aware";
+var mnemonic = "upon gasp top one autumn spawn elbow abandon cost person follow over";

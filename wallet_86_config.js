@@ -1,1 +1,1 @@
-var mnemonic = "police loyal normal soldier solution opera play head ten hour burst want";
+var mnemonic = "furnace party ask sleep prison live aim little ghost about escape hawk";

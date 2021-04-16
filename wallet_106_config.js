@@ -1,1 +1,1 @@
-var mnemonic = "display useless wife tag junk six later seek also century joke direct";
+var mnemonic = "convince clerk you rail like culture tongue bonus keep van noble bachelor";

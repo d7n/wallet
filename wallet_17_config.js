@@ -1,1 +1,1 @@
-var mnemonic = "extend certain again gospel anger valid glove turn perfect nothing file toward";
+var mnemonic = "write grit hidden insect clap shoot material lunch bind clog debate stem";

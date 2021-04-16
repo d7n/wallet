@@ -1,1 +1,1 @@
-var mnemonic = "taxi apology buzz spawn ethics brass chef brisk pave install tennis mass";
+var mnemonic = "mistake device unknown eager face luxury leopard upset stay disease earth when";

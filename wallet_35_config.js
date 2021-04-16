@@ -1,1 +1,1 @@
-var mnemonic = "try weather stand nurse robust mutual ill lesson spoil shine cross always";
+var mnemonic = "devote multiply feature isolate stool cross yellow surprise coffee stay round later";

@@ -1,1 +1,1 @@
-var mnemonic = "able similar habit opinion pizza ignore metal upset obey victory peace select";
+var mnemonic = "typical kick people vote script virus dial weather stone acquire twist dial";

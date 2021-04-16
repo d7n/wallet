@@ -1,1 +1,1 @@
-var mnemonic = "derive photo cross bottom potato purpose social bulk purpose focus mass method";
+var mnemonic = "stomach kid surprise dream vast atom asthma letter solid coffee neck average";

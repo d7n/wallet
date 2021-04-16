@@ -1,1 +1,1 @@
-var mnemonic = "figure weird capable puzzle soul fat drop arrange betray mirror nasty flat";
+var mnemonic = "exotic deputy diagram segment main way song deputy powder rich cave piece";

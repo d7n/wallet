@@ -1,1 +1,1 @@
-var mnemonic = "survey cup fan bachelor reject float between approve brave labor network track";
+var mnemonic = "work trap vibrant law arrange ozone lake violin between material weather shift";

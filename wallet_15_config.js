@@ -1,1 +1,1 @@
-var mnemonic = "tornado gesture settle play lion loan survey visit gossip swear frequent dune";
+var mnemonic = "physical guard napkin amount alien again already fork high adult boat marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "double gift doll only husband balance sketch pear repair across slab angry";
+var mnemonic = "sniff wife first smooth service honey doll duck meat duck float staff";

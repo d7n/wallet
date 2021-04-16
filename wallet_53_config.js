@@ -1,1 +1,1 @@
-var mnemonic = "cousin jelly acquire shield mansion blue there fashion comic twelve burden spice";
+var mnemonic = "ethics flee frozen reopen creek call basket blanket across spring erosion faculty";

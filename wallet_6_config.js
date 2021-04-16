@@ -1,1 +1,1 @@
-var mnemonic = "myself salmon blush cycle basket tooth doctor coyote shaft canal youth cricket";
+var mnemonic = "thrive wet imitate room derive sadness rebel panel awkward frown disease perfect";

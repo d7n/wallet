@@ -1,1 +1,1 @@
-var mnemonic = "they lucky mix excess limb silent license eye ivory either bullet rough";
+var mnemonic = "define cruise enroll trap walnut essay field family impulse loan board lift";

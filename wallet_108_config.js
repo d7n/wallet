@@ -1,1 +1,1 @@
-var mnemonic = "prefer hour tide industry town bounce hire another junior smart vague recall";
+var mnemonic = "appear evil egg pause bleak grunt host spirit banner lazy spider mushroom";

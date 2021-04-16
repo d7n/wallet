@@ -1,1 +1,1 @@
-var mnemonic = "april purse season initial illegal rocket beach consider rapid accuse mouse drill";
+var mnemonic = "monster romance loop near what panther uncle joke luxury wolf calm will";

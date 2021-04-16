@@ -1,1 +1,1 @@
-var mnemonic = "night siren entry punch stove pear can swallow accuse supply useful grass";
+var mnemonic = "same auction aisle addict unique bike innocent copy impact dice thunder more";

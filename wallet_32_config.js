@@ -1,1 +1,1 @@
-var mnemonic = "reflect absurd insane ranch husband muffin hammer keen whale one picnic nice";
+var mnemonic = "genuine virus elder fiction peace carry hospital close there artefact catch hurt";

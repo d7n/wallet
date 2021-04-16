@@ -1,1 +1,1 @@
-var mnemonic = "special fun daughter habit tribe retreat tourist grocery morning when card begin";
+var mnemonic = "proud awkward meadow wasp limit drama develop fiber among robust sort remind";

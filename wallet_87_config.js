@@ -1,1 +1,1 @@
-var mnemonic = "diagram veteran father vibrant canal two mesh derive fossil typical diamond cart";
+var mnemonic = "abstract reflect frequent hello cool either kidney foil wedding isolate other coil";

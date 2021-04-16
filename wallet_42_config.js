@@ -1,1 +1,1 @@
-var mnemonic = "invite kind pond twice denial wave marine collect tuna sniff accuse copper";
+var mnemonic = "sugar access teach bar stem radio route siren picnic bench language among";

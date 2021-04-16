@@ -1,1 +1,1 @@
-var mnemonic = "uncover receive fame shoe play sad view dress stick dream ribbon venture";
+var mnemonic = "gather abstract trigger cash dragon quick burst patch miracle pact siege ten";

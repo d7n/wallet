@@ -1,1 +1,1 @@
-var mnemonic = "wine jewel marine force tool response cinnamon memory cheap ripple maze nurse";
+var mnemonic = "reunion layer pond consider gadget define soap leisure visa melody frozen between";

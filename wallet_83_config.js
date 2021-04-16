@@ -1,1 +1,1 @@
-var mnemonic = "frozen divert picture infant actress potato pelican hub liberty million know pilot";
+var mnemonic = "reunion find life below surprise seat find waste pupil tobacco often alley";

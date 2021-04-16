@@ -1,1 +1,1 @@
-var mnemonic = "awful please rent erosion goat bubble gorilla strong usage unusual mobile crystal";
+var mnemonic = "idle woman sign siren wood scare famous around disorder endorse lion crumble";

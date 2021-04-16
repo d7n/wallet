@@ -1,1 +1,1 @@
-var mnemonic = "phrase universe acoustic logic wire universe pelican parent pole believe burger tuition";
+var mnemonic = "embrace eternal medal opera pioneer among fade total later result soda barrel";

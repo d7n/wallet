@@ -1,1 +1,1 @@
-var mnemonic = "spoil twice crisp normal rebel foster laugh stick tennis flower roast pond";
+var mnemonic = "wisdom tragic six execute below disorder arrow disagree despair awful tourist large";

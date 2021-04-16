@@ -1,1 +1,1 @@
-var mnemonic = "roof coast fitness bone forest buddy ritual body regular entire move aspect";
+var mnemonic = "cool choose inherit custom guard monster leader parade rude solve harvest century";

@@ -1,1 +1,1 @@
-var mnemonic = "birth glory plunge slow energy soccer visa curious romance emerge mention manage";
+var mnemonic = "width canvas brisk clock shiver pear leopard effort harbor provide genuine profit";

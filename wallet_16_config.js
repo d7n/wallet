@@ -1,1 +1,1 @@
-var mnemonic = "metal toilet suit abstract art pigeon silver clip oppose fan echo film";
+var mnemonic = "merit myth vital hawk goat walk general object angry off frame install";

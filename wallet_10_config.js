@@ -1,1 +1,1 @@
-var mnemonic = "sail quit nominee arm sport master dune hip remember mountain illness oblige";
+var mnemonic = "auto outdoor finger bamboo car assume diet tribe cloud hedgehog sock frozen";

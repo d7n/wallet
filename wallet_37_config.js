@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sure lottery rough planet element visa term timber rebuild beauty bag";
+var mnemonic = "under page access half sure turtle average vibrant trouble shrimp spring prize";

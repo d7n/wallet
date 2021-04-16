@@ -1,1 +1,1 @@
-var mnemonic = "model face social level avocado breeze shiver catch slow decrease question drink";
+var mnemonic = "chest lonely flip script word wheel weasel local amount draft stock finger";

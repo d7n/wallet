@@ -1,1 +1,1 @@
-var mnemonic = "fork rigid sight pact any response sorry angry hover limb discover grape";
+var mnemonic = "old amazing simple praise deliver project tide merge blossom muscle program inform";

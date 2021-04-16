@@ -1,1 +1,1 @@
-var mnemonic = "weasel okay cabin liberty vehicle venture anxiety deal exile vehicle mistake pluck";
+var mnemonic = "outdoor net cause produce left disease home crack object oblige execute tunnel";

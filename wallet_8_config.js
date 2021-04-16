@@ -1,1 +1,1 @@
-var mnemonic = "hurry wait satisfy infant head jealous educate pull pyramid shiver more spatial";
+var mnemonic = "puzzle burst shop cinnamon stairs empty loud unveil glove tip jaguar pelican";

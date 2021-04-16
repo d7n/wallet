@@ -1,1 +1,1 @@
-var mnemonic = "material muffin coyote boost salad cube foil brass seed pride educate kiwi";
+var mnemonic = "kid dutch gap excuse asthma enrich trumpet puzzle kick craft always grocery";

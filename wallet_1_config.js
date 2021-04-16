@@ -1,1 +1,1 @@
-var mnemonic = "dutch expose movie feature slam electric ticket tourist admit access gain find";
+var mnemonic = "elegant warfare must candy bird snap room guitar strong nation riot mercy";

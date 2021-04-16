@@ -1,1 +1,1 @@
-var mnemonic = "corn book average ask moment harvest extra attack subject hill scissors blouse";
+var mnemonic = "balance robust announce sadness stereo boring isolate little symbol parent reveal mandate";

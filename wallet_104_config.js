@@ -1,1 +1,1 @@
-var mnemonic = "science napkin purchase debate hollow circle change wink lamp anger oil federal";
+var mnemonic = "slow cage famous public field case play pave flip day hover recycle";

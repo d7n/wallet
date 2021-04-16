@@ -1,1 +1,1 @@
-var mnemonic = "sunny post cart glance cool north duty silver cotton patient law pizza";
+var mnemonic = "glad morning soul syrup speed oxygen manual soap later flame entry plastic";

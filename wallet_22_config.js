@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon sure save city proof sport term fetch warfare improve luggage disorder";
+var mnemonic = "laugh switch enforce little nose width syrup average wagon kind castle raccoon";

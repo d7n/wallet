@@ -1,1 +1,1 @@
-var mnemonic = "call camera clog hazard polar idle round dirt alpha season crawl measure";
+var mnemonic = "buyer this quarter history hub sea around piano salon meat gasp sure";

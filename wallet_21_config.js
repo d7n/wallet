@@ -1,1 +1,1 @@
-var mnemonic = "spatial wheat outside retire cram hover worth exist entire spread relief feed";
+var mnemonic = "exist always rebuild describe gift spike fit lesson capable cushion ramp aerobic";

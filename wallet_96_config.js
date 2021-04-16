@@ -1,1 +1,1 @@
-var mnemonic = "subway hat north fox punch business couch mountain diesel welcome pencil pluck";
+var mnemonic = "horn volcano pill pilot lonely crew fun evolve blood life flame scene";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow present segment alone wine rather peasant expose decade sight also near";
+var mnemonic = "mercy whisper belt holiday shock find riot man physical reward burger side";

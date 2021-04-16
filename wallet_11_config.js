@@ -1,1 +1,1 @@
-var mnemonic = "clinic legend pole federal feel umbrella vendor crawl flight green chunk board";
+var mnemonic = "remind width diamond diamond urge rebuild memory road muffin now raise camp";

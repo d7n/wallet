@@ -1,1 +1,1 @@
-var mnemonic = "north strategy paddle inhale acid nothing ozone laugh stock soap fringe glory";
+var mnemonic = "brush room fragile belt pepper that need rather crazy deny veteran badge";

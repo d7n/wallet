@@ -1,1 +1,1 @@
-var mnemonic = "feed spike jaguar outside property such margin vehicle eagle dilemma inject aunt";
+var mnemonic = "finish daughter curious twin acoustic ordinary pattern letter trial ordinary three exhaust";

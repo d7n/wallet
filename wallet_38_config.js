@@ -1,1 +1,1 @@
-var mnemonic = "volume feed faculty garbage school faint manage fiber control mimic music omit";
+var mnemonic = "fiber practice cram confirm praise style stick away all salad business issue";

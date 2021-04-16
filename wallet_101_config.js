@@ -1,1 +1,1 @@
-var mnemonic = "busy bag civil turn open tent priority rescue snack purpose short erupt";
+var mnemonic = "blade tag good unaware stuff oyster claw veteran onion decorate sock scan";

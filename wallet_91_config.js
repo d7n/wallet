@@ -1,1 +1,1 @@
-var mnemonic = "lottery camp thing bird review west ride range same wonder buffalo scale";
+var mnemonic = "master east never avoid tip spatial disease adapt state little enroll wild";

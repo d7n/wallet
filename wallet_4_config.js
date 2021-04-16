@@ -1,1 +1,1 @@
-var mnemonic = "repeat stool elder find swarm fit pluck mind strategy under vehicle various";
+var mnemonic = "angry metal nut chalk toe pass bracket catalog ring vanish panther faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "success cover reunion abstract artist similar employ drill trade room similar present";
+var mnemonic = "brush rough liar fork cost like crunch donate scene october duck sign";

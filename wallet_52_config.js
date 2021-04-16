@@ -1,1 +1,1 @@
-var mnemonic = "tent net three shiver moment lumber describe pigeon already endorse desert share";
+var mnemonic = "near volcano armor swamp tragic about lunch document glory blush coast limb";

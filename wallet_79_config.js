@@ -1,1 +1,1 @@
-var mnemonic = "various tower sponsor engage circle minute recall diagram delay trade kiwi runway";
+var mnemonic = "toast code point nice minimum enrich frost deputy fame police effort credit";

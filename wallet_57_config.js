@@ -1,1 +1,1 @@
-var mnemonic = "word priority relax cat warfare escape alert sister discover apology abandon wisdom";
+var mnemonic = "trap birth own fragile novel area gallery light cage spell wire license";

@@ -1,1 +1,1 @@
-var mnemonic = "joke ordinary assault host mango satisfy minor nose rally fun island nation";
+var mnemonic = "plug kangaroo coyote control input cactus horror clay young stomach dentist race";

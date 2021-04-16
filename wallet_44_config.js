@@ -1,1 +1,1 @@
-var mnemonic = "admit ugly slide nurse alarm alpha tower idea nose shrug alley teach";
+var mnemonic = "easy rule action lab genre firm dog ancient crouch state rotate tomorrow";

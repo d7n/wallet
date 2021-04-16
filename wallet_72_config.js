@@ -1,1 +1,1 @@
-var mnemonic = "humble dawn lab lab cross cave banana boost cry camp bleak human";
+var mnemonic = "this planet bright return jeans above magnet wink icon advance tank honey";

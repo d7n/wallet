@@ -1,1 +1,1 @@
-var mnemonic = "resource else reward pen resemble aunt elephant action extend evoke resist input";
+var mnemonic = "home blanket labor neck cluster uncle worth march street they bundle marriage";

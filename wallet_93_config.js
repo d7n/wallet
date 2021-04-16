@@ -1,1 +1,1 @@
-var mnemonic = "course cave they disorder close shift tip hammer parade mango push churn";
+var mnemonic = "because razor force spice scene kitten oyster almost alien cry glow tree";

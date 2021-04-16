@@ -1,1 +1,1 @@
-var mnemonic = "neck release rebuild jump unit south lazy biology decorate flash abuse diet";
+var mnemonic = "extend tag ill congress dilemma sheriff use happy connect slide tree arrow";

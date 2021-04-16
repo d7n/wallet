@@ -1,1 +1,1 @@
-var mnemonic = "recall remove online tone draw extend honey core minimum fresh amount knock";
+var mnemonic = "join coast blind quarter away quick poem chair hole broccoli forward object";

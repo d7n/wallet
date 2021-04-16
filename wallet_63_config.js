@@ -1,1 +1,1 @@
-var mnemonic = "enforce shuffle hat slab ten market gun smooth electric vote congress evolve";
+var mnemonic = "piano wet position heavy sunny describe between electric curve street shuffle planet";

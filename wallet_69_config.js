@@ -1,1 +1,1 @@
-var mnemonic = "cash remain coast spider holiday trophy similar hedgehog purse dignity much better";
+var mnemonic = "trumpet ritual talk october need october orange latin grit bench shoulder elite";

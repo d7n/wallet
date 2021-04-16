@@ -1,1 +1,1 @@
-var mnemonic = "boost hotel twenty cupboard honey grant tag fame strike release between profit";
+var mnemonic = "pluck always clean middle assume hub ability paddle human test miss grid";

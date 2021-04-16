@@ -1,1 +1,1 @@
-var mnemonic = "lady unfold verify tilt exhaust beach abstract noise coral fruit resist fiscal";
+var mnemonic = "inform energy one orbit orange attitude flee gas mystery parent river laugh";

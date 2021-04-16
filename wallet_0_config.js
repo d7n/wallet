@@ -1,1 +1,1 @@
-var mnemonic = "prison know grunt recall tenant pull onion empower ocean tell region earth";
+var mnemonic = "ridge clock mammal situate token shrug light half assist exile rebuild sheriff";

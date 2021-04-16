@@ -1,1 +1,1 @@
-var mnemonic = "armor priority silly door question alter satisfy kingdom glass proud viable knee";
+var mnemonic = "buddy save art cousin uncle permit captain mammal thumb tree quality steel";

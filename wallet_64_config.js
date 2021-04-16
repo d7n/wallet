@@ -1,1 +1,1 @@
-var mnemonic = "dinner tube warrior grow fiction enrich power pudding wing draw drip betray";
+var mnemonic = "parent print remind claim wrestle purity party evolve people snack wise across";

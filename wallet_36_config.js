@@ -1,1 +1,1 @@
-var mnemonic = "code scout palace screen erase evil cannon calm shrug will coin salt";
+var mnemonic = "warrior parade broccoli dirt fence clump bike middle order left sorry long";

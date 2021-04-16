@@ -1,1 +1,1 @@
-var mnemonic = "ivory inherit judge jazz diesel table meat library much pig demise solar";
+var mnemonic = "trumpet delay viable barely skull wire taxi hood movie reopen artwork suffer";

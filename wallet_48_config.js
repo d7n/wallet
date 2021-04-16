@@ -1,1 +1,1 @@
-var mnemonic = "assist light alley damage purse find bomb pyramid moon moment fever stock";
+var mnemonic = "forum fitness garage share blanket recipe elegant pill hurt rain evil desert";

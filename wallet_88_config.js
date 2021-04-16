@@ -1,1 +1,1 @@
-var mnemonic = "mixture wood jewel sign child recycle sister legend uphold belt lamp need";
+var mnemonic = "child grief habit cannon crane stay offer mixed wheel urban impact print";

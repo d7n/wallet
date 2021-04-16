@@ -1,1 +1,1 @@
-var mnemonic = "tonight fever envelope maid weird gun draft print dress cloud nature limb";
+var mnemonic = "extend section pioneer income purity thank ticket better blouse shock setup rally";

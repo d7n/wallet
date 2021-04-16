@@ -1,1 +1,1 @@
-var mnemonic = "during lift chimney sadness know add mixed clarify album coach once bronze";
+var mnemonic = "sample hybrid conduct entire vivid worry drastic same paper endorse humor enter";

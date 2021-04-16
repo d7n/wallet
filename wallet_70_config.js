@@ -1,1 +1,1 @@
-var mnemonic = "airport chair make fold crew squeeze child legal eyebrow purpose twist leaf";
+var mnemonic = "tennis fine join addict actual million pupil follow fortune loan one rival";

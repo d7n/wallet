@@ -1,1 +1,1 @@
-var mnemonic = "vacuum river upon pear find fiction space uncover slab thing ghost major";
+var mnemonic = "advice gentle assist advance snack skate cycle beach rain tower rose okay";

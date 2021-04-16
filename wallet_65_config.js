@@ -1,1 +1,1 @@
-var mnemonic = "swarm secret tuna stock shell miracle bring will betray muscle patch physical";
+var mnemonic = "room alert poet ocean empower spring media midnight attend annual february pupil";

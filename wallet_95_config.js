@@ -1,1 +1,1 @@
-var mnemonic = "angle chaos diagram bar horror exclude brisk process gate record proof hungry";
+var mnemonic = "shoot add assault bag rib lizard hammer ranch valve athlete buffalo prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "ten roast toilet token bubble feature equal envelope sword violin hire solar";
+var mnemonic = "safe test belt base crunch same tired fabric slow cattle rapid column";

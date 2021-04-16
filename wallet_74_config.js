@@ -1,1 +1,1 @@
-var mnemonic = "media suffer extend stereo cancel reflect cover carbon slide innocent paper ritual";
+var mnemonic = "virtual pond adapt before shoe vote tray swift disorder zebra lottery swift";

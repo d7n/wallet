@@ -1,1 +1,1 @@
-var mnemonic = "walk slot deer aware bamboo pottery square crucial canyon primary dash topic";
+var mnemonic = "edit field trip crater catch cycle dizzy exercise seat ship game frown";

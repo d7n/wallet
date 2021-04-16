@@ -1,1 +1,1 @@
-var mnemonic = "shed then banner concert fatal model story ladder team pattern rate tell";
+var mnemonic = "spray ladder piano eight wave zebra assault situate force sail seven possible";

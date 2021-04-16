@@ -1,1 +1,1 @@
-var mnemonic = "entire decline dust pave frown angry logic boat will wash jewel foot";
+var mnemonic = "purpose donor bitter ride scissors security install film clog top kid core";

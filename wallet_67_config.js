@@ -1,1 +1,1 @@
-var mnemonic = "toss acoustic venue reform fury design unhappy fetch inquiry biology eager cook";
+var mnemonic = "recipe shop crawl soul captain door trumpet silent suggest quarter light fatal";

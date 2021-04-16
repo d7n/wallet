@@ -1,1 +1,1 @@
-var mnemonic = "genius resemble ignore shrimp social drama sad radio return weapon shrimp unfair";
+var mnemonic = "survey return castle glad blur cupboard burden monkey major turkey metal steel";

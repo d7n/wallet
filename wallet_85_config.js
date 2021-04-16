@@ -1,1 +1,1 @@
-var mnemonic = "autumn unique summer bulk holiday timber cloud gallery kidney pair hover person";
+var mnemonic = "predict stable salmon jaguar devote length essay pride pioneer cliff concert cloud";
