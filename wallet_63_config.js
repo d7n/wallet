@@ -1,1 +1,1 @@
-var mnemonic = "ritual twice grunt this puzzle pulp smoke enact table climb roof taxi";
+var mnemonic = "action receive fit wing digital disagree mandate measure arrange earn wild rice";

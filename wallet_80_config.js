@@ -1,1 +1,1 @@
-var mnemonic = "tennis truck mammal draw hybrid business dinosaur bracket live chapter twelve half";
+var mnemonic = "hollow sight gospel copper wall eager proud visual tank spare twelve fury";

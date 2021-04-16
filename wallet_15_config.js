@@ -1,1 +1,1 @@
-var mnemonic = "depth draw image inflict park cry focus between torch way summer plug";
+var mnemonic = "dizzy two dawn hurry fold hybrid also series master water because shiver";

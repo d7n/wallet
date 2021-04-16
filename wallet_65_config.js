@@ -1,1 +1,1 @@
-var mnemonic = "oven observe stable advice model treat ability steel hard scrap dignity motor";
+var mnemonic = "present swallow artefact feel dismiss exile maze truth pond plastic notable antique";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor volume loud stable boil drip hurdle minimum ribbon verify ramp person";
+var mnemonic = "flock inch spice amused butter poet because nerve come midnight tenant obvious";

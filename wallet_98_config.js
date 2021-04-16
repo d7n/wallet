@@ -1,1 +1,1 @@
-var mnemonic = "super process flag transfer asset benefit festival merit under tissue plate foil";
+var mnemonic = "permit club sock drip company beef latin gun wide soon coconut hip";

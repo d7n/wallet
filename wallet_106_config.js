@@ -1,1 +1,1 @@
-var mnemonic = "price problem have film genius loop permit ankle explain angry crumble shy";
+var mnemonic = "emerge cup bacon vote music jar vessel sick eye salad have jaguar";

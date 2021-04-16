@@ -1,1 +1,1 @@
-var mnemonic = "vapor topple album bulk melody index speed aerobic pear topic cage youth";
+var mnemonic = "used cry double equal shine supply forget fiber potato craft run library";

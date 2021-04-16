@@ -1,1 +1,1 @@
-var mnemonic = "yard draw spring resist wave sense travel draw wine current dumb poet";
+var mnemonic = "settle door magic scale screen enroll wet mass size heart carbon audit";

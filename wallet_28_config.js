@@ -1,1 +1,1 @@
-var mnemonic = "good angry police tornado word cattle equip minute indicate rose domain seven";
+var mnemonic = "rigid auction urge cattle demand what spatial lumber apology salt proud lunch";

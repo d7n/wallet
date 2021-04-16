@@ -1,1 +1,1 @@
-var mnemonic = "approve pull believe casino place gloom mean crunch dismiss mutual waste like";
+var mnemonic = "marriage leader luggage slow deliver interest secret process tragic piano proof stand";

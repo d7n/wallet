@@ -1,1 +1,1 @@
-var mnemonic = "nothing edge can monster social leaf tide labor forum stock enter nothing";
+var mnemonic = "ketchup attend boy catch aunt category abandon pretty move diary athlete salt";

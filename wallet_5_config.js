@@ -1,1 +1,1 @@
-var mnemonic = "shop scan target divide fence insane capital garbage bind merge marble biology";
+var mnemonic = "state tape crane sleep snake swim kangaroo kangaroo cool noise material fork";

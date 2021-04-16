@@ -1,1 +1,1 @@
-var mnemonic = "eye buzz purse romance trim weird column junior night dose purchase tilt";
+var mnemonic = "bright breeze gown evidence travel carbon select please must need donkey print";

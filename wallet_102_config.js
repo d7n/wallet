@@ -1,1 +1,1 @@
-var mnemonic = "corn still cute reform car dentist kiwi mistake summer cotton soap frown";
+var mnemonic = "sail bottom relief creek few three trust tool fence shuffle thrive opera";

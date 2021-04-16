@@ -1,1 +1,1 @@
-var mnemonic = "place manual angle argue issue welcome proud what shoe side mango boat";
+var mnemonic = "enlist grid creek novel again noodle ignore hollow churn tell split chimney";

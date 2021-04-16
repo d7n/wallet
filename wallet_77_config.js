@@ -1,1 +1,1 @@
-var mnemonic = "maid cradle tissue inmate cloud lunar stock movie clock spray fuel funny";
+var mnemonic = "donor dirt hurry settle true minimum stock brush curve joy side snake";

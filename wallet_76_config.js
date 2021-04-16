@@ -1,1 +1,1 @@
-var mnemonic = "lunch life tooth easily cage vintage three unit tip fall wreck actual";
+var mnemonic = "accuse alley craft wage head danger benefit cousin claim excuse seminar travel";

@@ -1,1 +1,1 @@
-var mnemonic = "erode camp cage badge sorry dust upset uphold kick height ill practice";
+var mnemonic = "client genius slice mother earn name stem donkey turkey enough mule crucial";

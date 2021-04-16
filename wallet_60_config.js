@@ -1,1 +1,1 @@
-var mnemonic = "copper arrive radio spend glide grief original reveal across spike gasp document";
+var mnemonic = "horse huge bronze news gravity problem gallery tuna setup predict ripple correct";

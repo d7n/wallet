@@ -1,1 +1,1 @@
-var mnemonic = "survey legal bar weasel guilt visa cash balance raise region actress illegal";
+var mnemonic = "paper napkin patrol junk chunk sauce behave license blouse grocery extra pole";

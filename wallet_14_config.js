@@ -1,1 +1,1 @@
-var mnemonic = "diet assist wheel erode sea east adapt room chase budget bulb river";
+var mnemonic = "middle trade seat gate alpha clock saddle crush bracket excess slim marriage";

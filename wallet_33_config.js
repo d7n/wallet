@@ -1,1 +1,1 @@
-var mnemonic = "recipe drama galaxy park wink wreck hunt output apart festival title either";
+var mnemonic = "confirm bind between sun reward hole pet diagram wonder remember scheme genius";

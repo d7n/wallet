@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rocket rain label lecture student salmon access view insane genius average";
+var mnemonic = "develop vibrant canoe beauty explain fringe alone live toast mystery wage exhibit";

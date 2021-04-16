@@ -1,1 +1,1 @@
-var mnemonic = "wheat nominee crucial foster label pupil forest point vehicle define differ talk";
+var mnemonic = "shell lunch stick air post cross connect either coach target exclude fantasy";

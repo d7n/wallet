@@ -1,1 +1,1 @@
-var mnemonic = "person exile arrange amateur wrong snack dumb rocket armor feed poet rural";
+var mnemonic = "biology gown memory alcohol bless pigeon task robust verb crowd shoot tone";

@@ -1,1 +1,1 @@
-var mnemonic = "sun bridge sibling icon embrace provide beef romance trade shaft tell cause";
+var mnemonic = "jealous gold mango autumn off aisle silent mention social minor frown review";

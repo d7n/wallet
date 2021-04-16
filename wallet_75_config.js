@@ -1,1 +1,1 @@
-var mnemonic = "upset sting return congress dentist live spend want quiz text frame knock";
+var mnemonic = "table dolphin wine banana worry young walnut share believe vague gym stool";

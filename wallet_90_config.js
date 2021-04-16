@@ -1,1 +1,1 @@
-var mnemonic = "example come bus century tube chat only sister also mesh hunt naive";
+var mnemonic = "lazy girl tired sugar fuel replace armed essence life juice clerk jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "man write pupil father lock odor mad junk bread price rhythm bean";
+var mnemonic = "mutual sibling mix cook puzzle swallow brass symptom hole reduce then kingdom";

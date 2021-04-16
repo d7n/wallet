@@ -1,1 +1,1 @@
-var mnemonic = "neck awkward normal educate tobacco grief box grass image minor sport enforce";
+var mnemonic = "nut mixture nest october zoo market poet hub sunny glove uncover seat";

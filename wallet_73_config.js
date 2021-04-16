@@ -1,1 +1,1 @@
-var mnemonic = "brain shy illegal vast forget holiday absent awkward empower clutch spike rough";
+var mnemonic = "business almost creek minute balance wall cotton odor youth track alter mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "donate enroll method switch convince slogan flag pond obvious exclude fragile sibling";
+var mnemonic = "blood riot flat abstract gate humble label shallow cement morning swim address";

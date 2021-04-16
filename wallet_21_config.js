@@ -1,1 +1,1 @@
-var mnemonic = "pass grit pause garage artist order vapor sausage search engage lab occur";
+var mnemonic = "loop garage gentle garden habit yard brush then material october rookie poverty";

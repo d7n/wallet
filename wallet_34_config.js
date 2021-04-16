@@ -1,1 +1,1 @@
-var mnemonic = "nose supply swift dumb very obey photo duty length fruit indicate illness";
+var mnemonic = "benefit spy over afraid toe love question hurry exhaust chunk century text";

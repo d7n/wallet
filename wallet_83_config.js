@@ -1,1 +1,1 @@
-var mnemonic = "health lobster slow taxi alley slice tortoise asthma favorite recall sea robot";
+var mnemonic = "sword garage swear vital token torch whisper story cannon lottery antenna muscle";

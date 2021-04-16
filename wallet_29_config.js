@@ -1,1 +1,1 @@
-var mnemonic = "universe flock ugly bag rack hello staff gun pen flight shop poem";
+var mnemonic = "alert pipe margin inch estate salad file bean whip setup field differ";

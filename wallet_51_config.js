@@ -1,1 +1,1 @@
-var mnemonic = "wide flash joy suspect slot squirrel amateur casual garlic head crazy clerk";
+var mnemonic = "obvious year drink devote finish monster exclude clever sudden adjust search gravity";

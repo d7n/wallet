@@ -1,1 +1,1 @@
-var mnemonic = "visa high obtain window save symbol dish shoot bleak diagram pluck brief";
+var mnemonic = "popular mixed zone gloom prize nominee brisk melody raven various half sun";

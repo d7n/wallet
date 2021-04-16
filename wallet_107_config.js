@@ -1,1 +1,1 @@
-var mnemonic = "gasp despair belt rookie rude clog flock kitten riot foil account future";
+var mnemonic = "rally soup blame suspect tenant submit involve glory flag buffalo margin must";

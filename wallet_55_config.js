@@ -1,1 +1,1 @@
-var mnemonic = "velvet catch upset final napkin crater rug plate daughter soccer because convince";
+var mnemonic = "eternal pottery average wash track crush response over confirm gauge rival swift";

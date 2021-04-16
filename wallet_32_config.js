@@ -1,1 +1,1 @@
-var mnemonic = "rebel orchard peasant arm hundred issue force mesh dice hospital elephant lake";
+var mnemonic = "agree dial drink worry entry flag push permit wedding forget hurry few";

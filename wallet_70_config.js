@@ -1,1 +1,1 @@
-var mnemonic = "dizzy mask credit swing drip improve lemon captain exhaust raw decline blast";
+var mnemonic = "shaft breeze move rose ability hungry divide page section relief wide squirrel";

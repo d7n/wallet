@@ -1,1 +1,1 @@
-var mnemonic = "soul industry lab lift onion first legend fence raw novel south welcome";
+var mnemonic = "dilemma evidence push gesture aisle monitor rain company retreat blur lift catalog";

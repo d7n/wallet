@@ -1,1 +1,1 @@
-var mnemonic = "pig tunnel width rib top direct demise park chapter fiscal person warm";
+var mnemonic = "shift fiscal talk kangaroo all mandate north taxi canyon trash express eyebrow";

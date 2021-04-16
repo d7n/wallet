@@ -1,1 +1,1 @@
-var mnemonic = "gallery toilet double remain acid trim human claim dice village army any";
+var mnemonic = "spot peace clutch mask ocean believe clay miss eyebrow symbol spend current";

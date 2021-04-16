@@ -1,1 +1,1 @@
-var mnemonic = "length warm virtual rail lizard frequent stock boring shock fiscal gauge spread";
+var mnemonic = "coach wealth lemon knock bicycle road edit real side tired wild hover";

@@ -1,1 +1,1 @@
-var mnemonic = "spin gate lend dish trust proof zebra dirt team raven salt borrow";
+var mnemonic = "aspect motion fatal time burger piano history hungry royal ramp weekend arch";

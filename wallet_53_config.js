@@ -1,1 +1,1 @@
-var mnemonic = "lift expect put nest dismiss guilt expose clock town expire biology isolate";
+var mnemonic = "estate rebel feature unaware clarify hero legal bacon speak arrange screen life";

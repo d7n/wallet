@@ -1,1 +1,1 @@
-var mnemonic = "remain hedgehog broom capital copper repeat provide off floor gloom almost surge";
+var mnemonic = "umbrella you diamond truck quarter female dune letter pudding pond moon still";

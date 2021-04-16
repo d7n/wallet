@@ -1,1 +1,1 @@
-var mnemonic = "near pride special express spell firm again lava page caution drip satisfy";
+var mnemonic = "sight dance animal marble direct crop much century nephew cool beach hammer";

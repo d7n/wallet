@@ -1,1 +1,1 @@
-var mnemonic = "stick mirror exhibit pig peace click keen flower elite dwarf planet iron";
+var mnemonic = "impact shed shock laundry recipe shoe nice sausage solve lady hand torch";

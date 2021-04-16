@@ -1,1 +1,1 @@
-var mnemonic = "october rescue fashion weird equal gaze pink cry now mixed antenna witness";
+var mnemonic = "quit mutual nothing differ oxygen soccer palm mutual service shock amused cheese";

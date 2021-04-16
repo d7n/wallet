@@ -1,1 +1,1 @@
-var mnemonic = "spoon kidney jaguar jealous essay vapor organ proud claim various actress grow";
+var mnemonic = "trick height blast south thunder anger cigar pen accuse atom stay piano";

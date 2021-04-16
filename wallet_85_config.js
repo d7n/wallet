@@ -1,1 +1,1 @@
-var mnemonic = "lion uncle fluid issue also video agent dawn duty tide cupboard raise";
+var mnemonic = "leisure length hill tower bean sphere aware question diary used distance pact";

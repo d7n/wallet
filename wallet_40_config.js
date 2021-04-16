@@ -1,1 +1,1 @@
-var mnemonic = "brand hockey fog connect manual core must lemon lounge early cereal asthma";
+var mnemonic = "river prepare pear endorse drink vibrant cigar crush local enjoy squeeze guard";

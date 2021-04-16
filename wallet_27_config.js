@@ -1,1 +1,1 @@
-var mnemonic = "chest trust hello pact gaze arrest volcano velvet lazy wing mind depend";
+var mnemonic = "whisper title fan produce card face coffee soldier lady fog festival chalk";

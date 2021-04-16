@@ -1,1 +1,1 @@
-var mnemonic = "crack atom seven around cricket injury bracket feature enact strong hero ripple";
+var mnemonic = "vast cruise job depart gift ghost fall knife avocado collect replace dentist";

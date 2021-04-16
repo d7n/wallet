@@ -1,1 +1,1 @@
-var mnemonic = "bicycle verb recipe never wait simple original they diamond spirit tattoo dinner";
+var mnemonic = "swallow such idea enforce front agent list cube output song cost hero";

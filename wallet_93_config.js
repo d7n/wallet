@@ -1,1 +1,1 @@
-var mnemonic = "science usual thank image interest mixed member risk valley agree proof skull";
+var mnemonic = "later bone village spray illegal stereo drill hockey brave frozen attitude shrug";

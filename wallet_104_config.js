@@ -1,1 +1,1 @@
-var mnemonic = "artist obscure curtain double forward laptop broken shell warrior panel effort mass";
+var mnemonic = "recall universe erode merit wool impose butter venue coin hockey mix virus";

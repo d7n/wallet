@@ -1,1 +1,1 @@
-var mnemonic = "spray page radio runway punch material series lecture saddle connect cat soon";
+var mnemonic = "neck kit drip bean program enlist monitor violin field bulb until letter";

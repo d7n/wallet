@@ -1,1 +1,1 @@
-var mnemonic = "payment scare slab human spoil ocean quiz edge tomorrow mystery melt twin";
+var mnemonic = "warrior evolve task barely tiny fall brown garlic mountain twelve coconut speed";

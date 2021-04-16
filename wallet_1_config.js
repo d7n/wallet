@@ -1,1 +1,1 @@
-var mnemonic = "wine practice pause trumpet gossip heavy buzz alpha fine mean expire core";
+var mnemonic = "light bleak curtain write pull bird call kiwi record humor receive matter";

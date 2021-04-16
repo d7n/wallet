@@ -1,1 +1,1 @@
-var mnemonic = "ride mandate follow virus frog toy shed athlete airport embark cream gas";
+var mnemonic = "super supreme border tourist armor lucky spice fine general fork fortune inquiry";

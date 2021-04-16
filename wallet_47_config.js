@@ -1,1 +1,1 @@
-var mnemonic = "ladder nose chief song defy scare lend burst fatigue drift wear cement";
+var mnemonic = "wine fresh cover tide okay shrug level gloom grid ask easy change";

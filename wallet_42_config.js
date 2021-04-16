@@ -1,1 +1,1 @@
-var mnemonic = "fun element idea patrol ghost enroll antenna funny unable journey medal pink";
+var mnemonic = "sight burst define idea hip method ball flock train bar mind another";

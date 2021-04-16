@@ -1,1 +1,1 @@
-var mnemonic = "gate act human paper open couch tomorrow teach above spawn drill tonight";
+var mnemonic = "current despair image jelly fault sing question frozen school clay cancel ritual";

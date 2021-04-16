@@ -1,1 +1,1 @@
-var mnemonic = "unlock expose enforce other seed tilt opinion pyramid august cancel sponsor deal";
+var mnemonic = "pill belt warm virtual blade unit crane match produce club merry cup";

@@ -1,1 +1,1 @@
-var mnemonic = "peace benefit daring quote method pattern brush water ice pull orbit lumber";
+var mnemonic = "gauge possible cover put raise tower domain supply west supply hen public";

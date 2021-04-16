@@ -1,1 +1,1 @@
-var mnemonic = "danger kidney submit field tribe orbit deal wisdom aim fly insane oblige";
+var mnemonic = "alert spread industry grid problem tip album easy decade lesson school buffalo";

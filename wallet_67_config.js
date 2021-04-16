@@ -1,1 +1,1 @@
-var mnemonic = "mean banana oxygen eager any dad transfer abuse fade arctic friend danger";
+var mnemonic = "gain retreat father saddle upgrade motion attitude law weapon antique gain round";

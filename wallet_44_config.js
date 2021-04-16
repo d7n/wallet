@@ -1,1 +1,1 @@
-var mnemonic = "sure soup attract example shrug urge sleep parent train artefact develop dolphin";
+var mnemonic = "banner nose purchase photo tuition file liquid ladder start stick sunny glow";

@@ -1,1 +1,1 @@
-var mnemonic = "web rebuild summer better gather grass advance legend glass scorpion seminar pelican";
+var mnemonic = "lamp can fog ritual clinic visa member absurd that shuffle dragon celery";

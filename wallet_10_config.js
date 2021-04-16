@@ -1,1 +1,1 @@
-var mnemonic = "tackle sunny manage keen flush slim measure type pulse cycle cook left";
+var mnemonic = "milk wheat august number column cry position travel guitar equal elbow chapter";

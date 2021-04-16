@@ -1,1 +1,1 @@
-var mnemonic = "outdoor type weasel road when negative mandate come timber doll riot iron";
+var mnemonic = "year fade loud talent hunt ask surface stay bachelor blanket toy rule";

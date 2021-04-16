@@ -1,1 +1,1 @@
-var mnemonic = "chapter slogan normal angle spring indoor orphan chuckle smoke ski element people";
+var mnemonic = "subway agent stamp pottery situate print item umbrella aunt industry viable aware";

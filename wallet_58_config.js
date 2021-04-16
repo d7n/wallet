@@ -1,1 +1,1 @@
-var mnemonic = "process nose cherry crunch prosper test sniff student flip brush pulp web";
+var mnemonic = "chat orchard category lazy dish mean raw welcome reveal quantum blame shift";

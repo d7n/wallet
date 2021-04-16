@@ -1,1 +1,1 @@
-var mnemonic = "fish liquid subway firm exclude push rigid winter siren occur brave erosion";
+var mnemonic = "dance victory novel bronze guard employ glory reveal among father round trophy";

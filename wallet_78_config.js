@@ -1,1 +1,1 @@
-var mnemonic = "ancient gorilla laugh copy imitate attend iron comic history twenty absent flight";
+var mnemonic = "will edge tenant term theory dial certain bitter body sun situate office";

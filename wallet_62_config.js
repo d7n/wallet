@@ -1,1 +1,1 @@
-var mnemonic = "valid glad math vintage trap write together capital coin sell life december";
+var mnemonic = "nasty click time arm spoon put fossil punch silk nut help cousin";

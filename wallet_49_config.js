@@ -1,1 +1,1 @@
-var mnemonic = "glue tunnel usage canvas submit gravity gesture pig property analyst penalty nasty";
+var mnemonic = "someone reject buffalo nose grab urge harsh coconut miss expire impact monster";

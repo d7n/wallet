@@ -1,1 +1,1 @@
-var mnemonic = "pledge term discover furnace hundred surface fault grass lonely answer observe recall";
+var mnemonic = "key resemble engage warfare track shallow shaft flush unable welcome find element";

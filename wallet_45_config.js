@@ -1,1 +1,1 @@
-var mnemonic = "laugh wrestle swallow lounge venue now entry lyrics senior glove napkin decrease";
+var mnemonic = "make bunker arrow force robust repeat cradle know airport speak science eager";

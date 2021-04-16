@@ -1,1 +1,1 @@
-var mnemonic = "day trouble recycle ankle license club work flower industry inmate best board";
+var mnemonic = "open ball normal curious hat bubble rigid ginger arrest shoot level come";

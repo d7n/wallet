@@ -1,1 +1,1 @@
-var mnemonic = "cart junk pink lamp used account basket insect orient grass govern pelican";
+var mnemonic = "lumber script void chimney auto innocent logic seed letter anchor monster execute";

@@ -1,1 +1,1 @@
-var mnemonic = "can skin obscure coin permit pyramid vibrant lend coconut fat tank forget";
+var mnemonic = "into scout afford catalog march mule seed olive coin way affair drum";

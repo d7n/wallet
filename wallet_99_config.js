@@ -1,1 +1,1 @@
-var mnemonic = "armed tail any miracle fetch elbow believe ring length arena number major";
+var mnemonic = "cargo market unhappy wreck away pyramid obscure lecture truly lucky glance series";

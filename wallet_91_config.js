@@ -1,1 +1,1 @@
-var mnemonic = "cake chicken nose velvet path silly burger charge sample rebel depend awesome";
+var mnemonic = "finger tourist toilet leg sketch mimic area glare execute pencil trust shed";

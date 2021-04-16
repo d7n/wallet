@@ -1,1 +1,1 @@
-var mnemonic = "public require laptop refuse only label sunny wrestle finish air shadow van";
+var mnemonic = "shoot ring bubble spray stadium laundry what mixture notice someone mom coin";

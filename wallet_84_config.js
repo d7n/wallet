@@ -1,1 +1,1 @@
-var mnemonic = "dice want involve pilot board label pig horse subject galaxy slender roast";
+var mnemonic = "know panther chest syrup assault box real swift faculty unveil behind burden";

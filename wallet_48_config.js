@@ -1,1 +1,1 @@
-var mnemonic = "six ability glare audit heart lamp busy glory harsh endorse tuition check";
+var mnemonic = "bid staff receive dwarf still enhance agent arch vital enrich humor head";
