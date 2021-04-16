@@ -1,1 +1,1 @@
-var mnemonic = "spider either motor seek athlete family child error because usual nothing chalk";
+var mnemonic = "shell victory disease include unit amateur prepare rug solve indoor pass skull";

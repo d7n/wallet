@@ -1,1 +1,1 @@
-var mnemonic = "write shoulder liquid session device panic grow enough pigeon team wage bulk";
+var mnemonic = "okay degree ramp athlete million hurry afford media trophy update piece chicken";

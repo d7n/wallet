@@ -1,1 +1,1 @@
-var mnemonic = "flush envelope assist exile oblige noise such anchor vacant catalog obscure crime";
+var mnemonic = "reveal gloom supreme ready nuclear chimney gospel warm client rural duck real";

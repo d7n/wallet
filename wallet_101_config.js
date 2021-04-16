@@ -1,1 +1,1 @@
-var mnemonic = "eternal sad mandate ladder hurry race clog wasp night plate grow tool";
+var mnemonic = "own check avoid cattle comic left box captain charge alley blossom draw";

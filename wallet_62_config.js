@@ -1,1 +1,1 @@
-var mnemonic = "box coral illness blood auto turn blossom next island vessel above marriage";
+var mnemonic = "pepper elegant boost hundred oyster you exit crater wait water economy twin";

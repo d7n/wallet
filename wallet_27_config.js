@@ -1,1 +1,1 @@
-var mnemonic = "tiger tennis merry talk check swallow menu tail weather task actor earn";
+var mnemonic = "replace surge divorce asset west memory hurdle display peace canal always celery";

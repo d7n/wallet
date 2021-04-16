@@ -1,1 +1,1 @@
-var mnemonic = "alcohol glance close truly window twist gather mouse orphan flag true reopen";
+var mnemonic = "farm night hire eye evil swift web cactus absurd obvious ball tortoise";

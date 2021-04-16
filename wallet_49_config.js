@@ -1,1 +1,1 @@
-var mnemonic = "snow mango shine edge upgrade pledge evoke useful kitchen prefer cute veteran";
+var mnemonic = "ladder exist grunt throw diary echo ivory hollow prison require icon mad";

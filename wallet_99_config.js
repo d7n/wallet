@@ -1,1 +1,1 @@
-var mnemonic = "clutch dwarf calm stand hawk rule coral myself myth novel pulp that";
+var mnemonic = "critic side fiscal metal paper limb donor creek card badge loyal undo";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair primary float local slab tuition vacuum recycle judge six trim green";
+var mnemonic = "grace tank robot canvas off satisfy crush naive burger provide moon margin";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern armed copy blouse method pilot rely ramp gesture month cactus mistake";
+var mnemonic = "april noble side farm merit gym brush arch vast desert forward narrow";

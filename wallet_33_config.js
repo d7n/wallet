@@ -1,1 +1,1 @@
-var mnemonic = "kid confirm much seven proof large fiscal swamp actress dress nothing person";
+var mnemonic = "congress scheme enrich high gentle omit steak census stove blur bird pumpkin";

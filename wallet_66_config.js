@@ -1,1 +1,1 @@
-var mnemonic = "regret budget riot aerobic home happy local choice head grant add crystal";
+var mnemonic = "aware spread exotic music vanish click cake source hood category pause cargo";

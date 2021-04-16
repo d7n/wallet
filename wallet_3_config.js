@@ -1,1 +1,1 @@
-var mnemonic = "outside thunder entire dream fabric sock grit hurdle stem cloud board weapon";
+var mnemonic = "pumpkin candy rhythm wolf roast plunge bullet affair arena abuse follow rocket";

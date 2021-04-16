@@ -1,1 +1,1 @@
-var mnemonic = "ecology cable display clump stand wish fiber husband expand theme tennis lab";
+var mnemonic = "tide rescue like grant panda rally carpet bid sphere minute rebel coach";

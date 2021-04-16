@@ -1,1 +1,1 @@
-var mnemonic = "pyramid trip win vibrant hidden hammer story narrow tackle denial crazy welcome";
+var mnemonic = "fly dizzy crew thumb term luxury inherit desert link struggle lazy monster";

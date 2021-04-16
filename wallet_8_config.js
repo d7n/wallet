@@ -1,1 +1,1 @@
-var mnemonic = "beauty fox erase vanish brush fossil leader then quote liar work goat";
+var mnemonic = "suit poet radar elder hunt slab text split artist clay uphold glance";

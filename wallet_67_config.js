@@ -1,1 +1,1 @@
-var mnemonic = "flag unknown kick audit soda dad length armor summer woman purse wrong";
+var mnemonic = "shoot vital pumpkin quantum run cream glow sadness vehicle predict aerobic zebra";

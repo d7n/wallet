@@ -1,1 +1,1 @@
-var mnemonic = "silk option glass deal mother toward problem later calm element front strong";
+var mnemonic = "dose extend spirit clump deposit label then reject race melody forum bachelor";

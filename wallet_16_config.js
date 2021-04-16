@@ -1,1 +1,1 @@
-var mnemonic = "toast silver solve fitness photo panda skull crouch gloom possible bag media";
+var mnemonic = "length shrug clever universe oxygen knock miracle core depart wheat kite all";

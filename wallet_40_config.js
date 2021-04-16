@@ -1,1 +1,1 @@
-var mnemonic = "liquid climb upset position frozen volume decrease above smart cinnamon input use";
+var mnemonic = "disease torch share sustain run morning theory kiss garbage team mother slim";

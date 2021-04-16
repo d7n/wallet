@@ -1,1 +1,1 @@
-var mnemonic = "sibling wear blame educate artwork brush portion utility piece icon ask fossil";
+var mnemonic = "can include attract inquiry float caution above tower gas sudden trash anxiety";

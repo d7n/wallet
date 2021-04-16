@@ -1,1 +1,1 @@
-var mnemonic = "length pepper shallow budget stable music round suffer purpose drill distance blouse";
+var mnemonic = "kitten sample torch system remain utility true doll use tent wonder arrange";

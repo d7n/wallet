@@ -1,1 +1,1 @@
-var mnemonic = "friend kidney goose palm marine mistake achieve outer crucial slice vehicle eyebrow";
+var mnemonic = "core stool gift render vacant sort film fabric approve repeat like seven";

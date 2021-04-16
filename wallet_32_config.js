@@ -1,1 +1,1 @@
-var mnemonic = "lobster tackle second logic traffic recycle close glove season around lottery steel";
+var mnemonic = "rent now foot radar chef winner urge attend rescue author swing bread";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace scout rigid motion ivory pave wolf room gift fluid laundry work";
+var mnemonic = "like another symbol will excess stem garlic scare stumble snake stick vicious";

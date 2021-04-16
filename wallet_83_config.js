@@ -1,1 +1,1 @@
-var mnemonic = "kit festival acoustic sustain lecture trend vacant snake disorder anxiety mention wink";
+var mnemonic = "tent jazz able tilt digital robot note food able budget frequent oxygen";

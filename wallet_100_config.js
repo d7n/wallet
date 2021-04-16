@@ -1,1 +1,1 @@
-var mnemonic = "flock response response cement twin hover bounce universe list fire smart robust";
+var mnemonic = "message clap news subject control letter grape poverty fashion when odor describe";

@@ -1,1 +1,1 @@
-var mnemonic = "club breeze cram hedgehog music kitten patient future weasel gate reunion price";
+var mnemonic = "ostrich slush lunar august settle only edge cook bronze romance cabbage advice";

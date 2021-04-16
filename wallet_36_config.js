@@ -1,1 +1,1 @@
-var mnemonic = "between odor fit spare company catch violin cheese fade large fashion cruel";
+var mnemonic = "other section ring aisle purity tell below feel program delay donkey scout";

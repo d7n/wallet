@@ -1,1 +1,1 @@
-var mnemonic = "lizard doll just room beauty stage used analyst napkin burden limb excite";
+var mnemonic = "uphold collect supply page connect amused gather leisure hire render rescue jeans";

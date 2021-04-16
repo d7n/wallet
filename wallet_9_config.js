@@ -1,1 +1,1 @@
-var mnemonic = "spot cart awkward bamboo adjust clay woman try apart spring spring exercise";
+var mnemonic = "steel sign skirt mansion latin frown devote catch rabbit enroll three turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar win onion lonely group pioneer aerobic dance property tattoo primary basic";
+var mnemonic = "music eager kiwi disorder organ claw roof cupboard detail write clog deliver";

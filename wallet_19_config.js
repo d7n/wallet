@@ -1,1 +1,1 @@
-var mnemonic = "rain clinic unique broccoli orchard gallery sample turn else any raccoon raccoon";
+var mnemonic = "squeeze pink wolf phrase lazy point abuse symbol screen urban sentence cruise";

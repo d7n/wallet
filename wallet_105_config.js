@@ -1,1 +1,1 @@
-var mnemonic = "pitch public loop deputy act problem clog distance quality urban flower urban";
+var mnemonic = "mango stick sea ketchup lunar similar kite eager modify have bitter chalk";

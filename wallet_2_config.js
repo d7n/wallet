@@ -1,1 +1,1 @@
-var mnemonic = "bread student weapon vendor section fork cat sibling jealous scout volcano drip";
+var mnemonic = "day shrug glory during miracle act embark depth animal spell valid series";

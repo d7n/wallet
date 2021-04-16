@@ -1,1 +1,1 @@
-var mnemonic = "glad empty lyrics degree dizzy brand hockey come subject castle family gloom";
+var mnemonic = "genius dove under fever yellow loyal deny dog fox blood frequent face";

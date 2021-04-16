@@ -1,1 +1,1 @@
-var mnemonic = "true crucial power upper cause require surge genuine behave gown security seminar";
+var mnemonic = "mixture angry grunt lottery nut express eye total upgrade train dilemma melt";

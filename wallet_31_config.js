@@ -1,1 +1,1 @@
-var mnemonic = "onion chief obvious toss volume foot degree soft shadow sorry wreck grow";
+var mnemonic = "satisfy frame brush remain stereo escape cool toward true chaos flame void";

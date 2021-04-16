@@ -1,1 +1,1 @@
-var mnemonic = "edge theory menu song flight aware title network target index foot toy";
+var mnemonic = "share embody season write upon expose dutch bus design sunset brush advance";

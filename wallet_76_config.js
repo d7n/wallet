@@ -1,1 +1,1 @@
-var mnemonic = "huge tourist aunt upon fault unusual genuine weekend during eyebrow report boy";
+var mnemonic = "now bag decrease sunny crumble busy jacket universe tilt actual tiger piece";

@@ -1,1 +1,1 @@
-var mnemonic = "bike giggle tired talent shuffle usual viable shoulder tennis close copper alpha";
+var mnemonic = "digital clown ranch surprise bamboo park hurt report lazy employ people honey";

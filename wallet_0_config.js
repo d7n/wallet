@@ -1,1 +1,1 @@
-var mnemonic = "gold trip crunch tornado robust else eyebrow blade inflict island orange brass";
+var mnemonic = "belt harsh puzzle scene hurry tattoo blood butter mixture neither way lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors innocent inner globe service cool insane tent series fall gun tower";
+var mnemonic = "battle tongue hover spoil item master repeat ritual cabbage eagle spread column";

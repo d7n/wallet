@@ -1,1 +1,1 @@
-var mnemonic = "lady broken horn diary code table artwork clean final gate ahead boost";
+var mnemonic = "minimum congress climb assist hobby left expect neglect method diesel jewel duty";

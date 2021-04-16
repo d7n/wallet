@@ -1,1 +1,1 @@
-var mnemonic = "follow churn marine lock crash cube engine elbow hill mechanic casino thunder";
+var mnemonic = "lawn empower era neck enroll rug beef work dwarf version milk shallow";

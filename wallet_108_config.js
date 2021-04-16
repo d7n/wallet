@@ -1,1 +1,1 @@
-var mnemonic = "vivid pluck pledge fire unusual speed brown rather bird library target core";
+var mnemonic = "rocket awake mind suggest kind satoshi age organ parrot crazy exit alien";

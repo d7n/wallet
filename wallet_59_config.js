@@ -1,1 +1,1 @@
-var mnemonic = "angry fetch raise bird ramp famous eight pause crisp become hospital private";
+var mnemonic = "also wealth skate bundle naive cake rocket sign frost cost exchange provide";

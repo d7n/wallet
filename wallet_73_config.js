@@ -1,1 +1,1 @@
-var mnemonic = "sample blind case rely dutch lucky such devote casino mechanic flag diet";
+var mnemonic = "gloom valve cave easy moon popular clinic reason box steak resist sight";

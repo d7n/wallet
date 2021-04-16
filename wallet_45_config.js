@@ -1,1 +1,1 @@
-var mnemonic = "pear reason such unfair faith hover brother plate dog diamond umbrella quiz";
+var mnemonic = "term keep pudding matrix oil silk tired anxiety scrub hover wide surge";

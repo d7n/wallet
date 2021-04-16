@@ -1,1 +1,1 @@
-var mnemonic = "puppy camp material curtain work step idle hole child tool morning foster";
+var mnemonic = "viable joy record another nut price media will february stadium country shove";

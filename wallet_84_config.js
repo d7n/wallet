@@ -1,1 +1,1 @@
-var mnemonic = "crime echo keep move citizen style swarm combine purity bone share midnight";
+var mnemonic = "fan skill mansion ripple wire angry tree glimpse iron honey metal crack";

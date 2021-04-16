@@ -1,1 +1,1 @@
-var mnemonic = "antenna cheese whip inch arrange short crane chef labor say mansion famous";
+var mnemonic = "exit palace above sponsor baby jar inside camera magnet affair plate payment";

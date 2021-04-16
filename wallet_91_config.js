@@ -1,1 +1,1 @@
-var mnemonic = "grant fever fan search juice cool before april museum escape drive police";
+var mnemonic = "actor bind able switch negative ginger negative flag guard galaxy logic moon";

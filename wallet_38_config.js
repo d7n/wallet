@@ -1,1 +1,1 @@
-var mnemonic = "neck sugar mind boil erosion slender issue else electric oven youth wheel";
+var mnemonic = "mad profit gossip faculty marriage remove dawn target task visa useful quiz";

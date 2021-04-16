@@ -1,1 +1,1 @@
-var mnemonic = "modify tell clip lounge verb member dentist satoshi junior unlock wait what";
+var mnemonic = "february height giant strong private afford today era limb vague explain glow";

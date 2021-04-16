@@ -1,1 +1,1 @@
-var mnemonic = "fuel jeans orange oval sense label cream gorilla bright powder initial put";
+var mnemonic = "scare happy model already winner conduct catalog pitch symbol speed taste market";

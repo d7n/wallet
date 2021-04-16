@@ -1,1 +1,1 @@
-var mnemonic = "ocean brother odor range anxiety cake science tiger tag brain victory stereo";
+var mnemonic = "energy vacant direct party famous venture movie sustain escape capital rug notable";

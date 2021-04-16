@@ -1,1 +1,1 @@
-var mnemonic = "employ pear fatal lion shoulder trend tip jungle essay couple tomato fan";
+var mnemonic = "suspect ladder chicken seed pool drastic era match bachelor balance skull body";

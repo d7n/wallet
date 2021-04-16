@@ -1,1 +1,1 @@
-var mnemonic = "resemble key figure curious power voyage envelope display picnic document enter grid";
+var mnemonic = "rib sphere vanish chunk auto lock latin impulse brother chef purity room";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion leaf parade camera tool advance air torch manage brown search detail";
+var mnemonic = "tired come spawn old spoon ocean rib earn gym throw width brown";

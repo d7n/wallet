@@ -1,1 +1,1 @@
-var mnemonic = "scorpion rather essence soon dress unveil artwork census soul tourist uncover affair";
+var mnemonic = "glad kid bicycle water album please blush brisk grow weather evil undo";

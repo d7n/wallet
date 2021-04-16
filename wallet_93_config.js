@@ -1,1 +1,1 @@
-var mnemonic = "often brief faculty black iron sock element degree interest sheriff pilot rough";
+var mnemonic = "void trash sausage dry cool cage angry slide draw goat oak lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky mesh used off genius topic car sentence enlist game cook recycle";
+var mnemonic = "garment sock scout receive fatigue gospel broken sustain vapor flash chimney own";

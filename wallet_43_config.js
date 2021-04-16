@@ -1,1 +1,1 @@
-var mnemonic = "cycle aim vocal october track hobby attend vacuum yard cool erase will";
+var mnemonic = "obvious below forest elephant acquire half tattoo slight grape grocery large screen";

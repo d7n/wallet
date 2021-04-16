@@ -1,1 +1,1 @@
-var mnemonic = "grow away sketch number abandon rookie hat subway law about toddler spice";
+var mnemonic = "hero liar salmon worry unusual afford major round hip faculty hope brown";

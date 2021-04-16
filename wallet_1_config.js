@@ -1,1 +1,1 @@
-var mnemonic = "network skin spider dream tower pet ankle athlete path jaguar forward tattoo";
+var mnemonic = "ensure leg follow subway betray region result craft fatigue ridge cause leader";

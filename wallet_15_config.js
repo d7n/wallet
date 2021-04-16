@@ -1,1 +1,1 @@
-var mnemonic = "sock rent blade teach outdoor trouble desk baby parade visit adult behind";
+var mnemonic = "trophy liar lottery school panel where clump elbow group sad banana face";

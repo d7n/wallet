@@ -1,1 +1,1 @@
-var mnemonic = "best ancient trouble happy loud canoe orange eagle mystery bird sell labor";
+var mnemonic = "ladder tower wrong resemble wasp face either combine voyage gauge vicious neck";

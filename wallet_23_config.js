@@ -1,1 +1,1 @@
-var mnemonic = "penalty afford fetch carry nominee sight wage master dutch chat business fantasy";
+var mnemonic = "hundred skate name exclude average trade cost cake quarter snap media hospital";

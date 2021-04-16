@@ -1,1 +1,1 @@
-var mnemonic = "exile okay chest kiwi giggle scan grief cover found diesel hint kiwi";
+var mnemonic = "strategy entry fire mansion boil matter nominee worth arena canoe lion battle";

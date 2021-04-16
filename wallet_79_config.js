@@ -1,1 +1,1 @@
-var mnemonic = "indoor wool laundry machine summer company deposit hedgehog pioneer foil deliver always";
+var mnemonic = "siren affair eye notice cloth tank that mango salon faith remind zone";

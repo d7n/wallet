@@ -1,1 +1,1 @@
-var mnemonic = "soul work water alcohol tiger physical anxiety like history vague side panther";
+var mnemonic = "hybrid exotic invest dolphin govern wolf setup offer round inhale gold forget";

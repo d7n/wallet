@@ -1,1 +1,1 @@
-var mnemonic = "vote nurse join unique south fee purse merit stock leaf upper vocal";
+var mnemonic = "certain you miracle poem erode welcome knock movie thank spot cube sadness";

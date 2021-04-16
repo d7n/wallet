@@ -1,1 +1,1 @@
-var mnemonic = "cream cupboard smart champion worry retreat reason vehicle claim purity dignity mention";
+var mnemonic = "ripple dynamic raven town awful color grunt filter palace seminar note rhythm";

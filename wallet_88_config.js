@@ -1,1 +1,1 @@
-var mnemonic = "away leopard atom library possible amused street hill skate ritual rough teach";
+var mnemonic = "portion start race lemon jewel science frozen grass spin shrug stamp genius";

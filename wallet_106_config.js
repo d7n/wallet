@@ -1,1 +1,1 @@
-var mnemonic = "conduct mimic office long fix miracle flavor kiss pledge genuine know can";
+var mnemonic = "half muscle outside dutch quarter reason whale marble submit violin actress injury";

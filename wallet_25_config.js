@@ -1,1 +1,1 @@
-var mnemonic = "icon face outdoor concert ladder castle remain oval borrow story orphan salon";
+var mnemonic = "whip loop soccer flock timber differ happy minor oppose open use shy";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor filter goose gravity cable bullet ketchup celery type vast reflect pipe";
+var mnemonic = "train badge claw trial betray general raw abandon oyster myself give empty";

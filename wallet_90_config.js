@@ -1,1 +1,1 @@
-var mnemonic = "anger dentist system weird suit title spirit stay banner suspect master use";
+var mnemonic = "ankle virtual tomato room option script cross alpha husband rely pony taste";

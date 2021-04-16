@@ -1,1 +1,1 @@
-var mnemonic = "wheat maximum tornado cave cradle master quote unaware dinner hero minute basic";
+var mnemonic = "wage thank hip false recipe example napkin harbor brother style join gasp";

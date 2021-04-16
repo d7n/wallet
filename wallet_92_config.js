@@ -1,1 +1,1 @@
-var mnemonic = "amused story system submit cancel also surface inspire heavy thunder fiscal grunt";
+var mnemonic = "road cabbage ginger spice grant badge mad essay useless category minor inherit";

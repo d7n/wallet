@@ -1,1 +1,1 @@
-var mnemonic = "scheme often vocal smart icon violin film agree modify pyramid van knife";
+var mnemonic = "raccoon surround ancient dance light rubber employ food rebel chicken unique ramp";

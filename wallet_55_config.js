@@ -1,1 +1,1 @@
-var mnemonic = "vacuum sick twenty lonely bone solar birth drum chest deer abstract artefact";
+var mnemonic = "fragile garden glance unfair glow length brain room mean film scatter sudden";

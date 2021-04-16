@@ -1,1 +1,1 @@
-var mnemonic = "relax air artwork vehicle song sing arctic resource burger barrel chunk tunnel";
+var mnemonic = "unknown ocean super chalk turtle universe live frost indicate puzzle outer glide";

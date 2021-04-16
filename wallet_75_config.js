@@ -1,1 +1,1 @@
-var mnemonic = "focus south oyster blade neglect mosquito gentle fetch cart latin ski agent";
+var mnemonic = "update fix clown hair vocal swarm balcony reopen nothing mechanic unit crunch";

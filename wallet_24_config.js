@@ -1,1 +1,1 @@
-var mnemonic = "lock globe health vessel rice merit prison fly enforce pupil asset eye";
+var mnemonic = "derive awake fitness elbow common health east arrest unfair collect foil surge";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage know super volcano inhale series bubble pill gift yard myself since";
+var mnemonic = "inquiry lazy kid fun tragic elite number gun clever damp awkward answer";

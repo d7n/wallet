@@ -1,1 +1,1 @@
-var mnemonic = "escape kitten library rib solution pulp obey sniff inflict grow make sand";
+var mnemonic = "year type rescue edge chat celery volcano sun eye bulb bonus promote";

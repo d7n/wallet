@@ -1,1 +1,1 @@
-var mnemonic = "bridge mushroom liar wire essay between volcano face host north child reward";
+var mnemonic = "basket chaos cash office banner enroll scan garlic split twenty month educate";
