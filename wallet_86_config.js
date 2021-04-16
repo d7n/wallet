@@ -1,1 +1,1 @@
-var mnemonic = "cake spot doll okay option comic success reward blood guide album trumpet";
+var mnemonic = "point ocean april ostrich mixed drop gaze lecture tray light depend tube";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge west boring crack bridge slab farm expose below current cry cheese";
+var mnemonic = "smart tortoise boat lunar media false three bean duty salmon coffee market";

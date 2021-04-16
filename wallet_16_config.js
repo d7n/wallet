@@ -1,1 +1,1 @@
-var mnemonic = "cancel pyramid usage jewel coil era uphold snow attend orient scrub chimney";
+var mnemonic = "sniff message fluid second favorite couple slight loan year gain type small";

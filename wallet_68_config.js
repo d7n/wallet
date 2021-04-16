@@ -1,1 +1,1 @@
-var mnemonic = "stereo police wear hospital derive ask stomach gloom brick forget shed sheriff";
+var mnemonic = "brand immune master sadness slender thought recipe shield fall area zoo wedding";

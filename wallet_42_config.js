@@ -1,1 +1,1 @@
-var mnemonic = "duck open neck lesson fancy topic egg innocent clerk mutual ski weapon";
+var mnemonic = "border switch salon above common sustain wreck myself easily render excite bone";

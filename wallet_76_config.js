@@ -1,1 +1,1 @@
-var mnemonic = "recycle forget catalog scene shaft chicken either focus tackle aware copy question";
+var mnemonic = "sea bulk beach finish adjust seat liar toss original weekend cook candy";

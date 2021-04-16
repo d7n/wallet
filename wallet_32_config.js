@@ -1,1 +1,1 @@
-var mnemonic = "pink alter wealth walk quick record equal obvious kid shiver curve portion";
+var mnemonic = "decade butter engage easily goddess pony liquid cool decide gas boost control";

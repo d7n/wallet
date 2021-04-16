@@ -1,1 +1,1 @@
-var mnemonic = "welcome final way faith dilemma civil piece quit earth denial version slow";
+var mnemonic = "give harbor zebra alert roof dutch style join permit ability must lady";

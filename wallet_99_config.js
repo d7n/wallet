@@ -1,1 +1,1 @@
-var mnemonic = "fresh news donor reduce pact iron reason update earn train hotel angry";
+var mnemonic = "tool shed water client zero client thunder slogan eagle sunset adult churn";

@@ -1,1 +1,1 @@
-var mnemonic = "risk school boil secret baby brick knife awkward acid arrive agent wonder";
+var mnemonic = "energy tray bottom clutch width broken filter scare minor bright square quit";

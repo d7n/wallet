@@ -1,1 +1,1 @@
-var mnemonic = "raw salad genre much cigar attend cram cabin inform earth situate master";
+var mnemonic = "cause federal vintage normal morning swear divert patrol finish name patient horse";

@@ -1,1 +1,1 @@
-var mnemonic = "donate aisle club afford dignity awake harvest monitor void layer crew steak";
+var mnemonic = "album arena good advice bleak found spawn rude spot pet soon arctic";

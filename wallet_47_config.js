@@ -1,1 +1,1 @@
-var mnemonic = "humor fitness day knee clerk name boost position shallow soup report prefer";
+var mnemonic = "company soup dose century flat interest crawl cram any umbrella tribe town";

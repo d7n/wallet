@@ -1,1 +1,1 @@
-var mnemonic = "fitness melody idea drum code animal joy cloth rubber lift relief rough";
+var mnemonic = "agent yard provide salt edit rhythm canal crowd inmate nice rocket crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna path ill wall rice idle climb uphold funny staff object opera";
+var mnemonic = "system lock dismiss carpet list they expand wheel stairs elephant armed enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "dog glare nut you clerk soccer real cactus bid shoot fury cycle";
+var mnemonic = "already palace review entry tent million pattern bamboo crush issue bus wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "soda next eager style evil input category salon mixture permit tired pattern";
+var mnemonic = "wear cliff duty ten wage depend wonder laptop miracle globe suggest universe";

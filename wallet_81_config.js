@@ -1,1 +1,1 @@
-var mnemonic = "umbrella debris prize marble hard core add cash reward pledge tomato cross";
+var mnemonic = "expose lava caution raw level spawn elephant chase duty mansion army push";

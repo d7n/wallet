@@ -1,1 +1,1 @@
-var mnemonic = "grape harbor damage crouch tail tilt friend note eternal rival deposit wrist";
+var mnemonic = "flavor vintage vocal trip airport spike kind crush arrow wear oil edge";

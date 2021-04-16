@@ -1,1 +1,1 @@
-var mnemonic = "garage safe subject spoil baby unaware puzzle rookie couch panel result source";
+var mnemonic = "faculty twice live foster despair tragic trumpet olive month life thought vicious";

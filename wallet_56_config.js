@@ -1,1 +1,1 @@
-var mnemonic = "later acid blouse together wagon treat orient sibling destroy april present country";
+var mnemonic = "economy length aspect judge behind tone credit core drop organ proud observe";

@@ -1,1 +1,1 @@
-var mnemonic = "firm ocean color alpha wash scorpion uncover cloth liar soda neutral answer";
+var mnemonic = "discover bleak jewel original neck guess casual gold river lunch better buzz";

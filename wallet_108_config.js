@@ -1,1 +1,1 @@
-var mnemonic = "spin release model inherit life spray hold appear beauty wood dream assault";
+var mnemonic = "badge rigid pepper faint exercise film drink mandate drop alter flat split";

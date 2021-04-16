@@ -1,1 +1,1 @@
-var mnemonic = "inspire tail charge arrive fiscal prepare immune know horn fancy obscure erosion";
+var mnemonic = "hockey ocean chest they silver army alone buzz engine bomb connect book";

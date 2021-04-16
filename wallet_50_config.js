@@ -1,1 +1,1 @@
-var mnemonic = "nurse globe ceiling student mango oven exit bachelor forest tenant wise crawl";
+var mnemonic = "proud hedgehog emotion frozen moment wise warfare prize toy gloom fabric toy";

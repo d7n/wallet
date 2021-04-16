@@ -1,1 +1,1 @@
-var mnemonic = "shield winter guard equip entry vicious swift dignity devote fall crew antenna";
+var mnemonic = "scene below will cause ladder almost viable hair any village solar earth";

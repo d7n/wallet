@@ -1,1 +1,1 @@
-var mnemonic = "shoe anger transfer forward visit canoe enlist tired task boat spray potato";
+var mnemonic = "mule bird output jelly engine live lemon spare metal delay vendor toddler";

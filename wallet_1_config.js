@@ -1,1 +1,1 @@
-var mnemonic = "grain tumble vanish crucial key happy orchard summer pen boil limit absurd";
+var mnemonic = "escape legal capital detail dizzy priority blanket obscure body kit sun option";

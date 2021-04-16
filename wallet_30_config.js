@@ -1,1 +1,1 @@
-var mnemonic = "join true sport virus polar reunion crane charge waste waste broom relax";
+var mnemonic = "loan catalog unfold day work tragic chase dutch desert laptop pudding pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "escape orient wheel feature clever custom minor promote cube escape senior eyebrow";
+var mnemonic = "stock need town place woman unhappy chest acquire shadow stuff home film";

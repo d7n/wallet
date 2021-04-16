@@ -1,1 +1,1 @@
-var mnemonic = "town dose snow curtain rookie scrub already talk fossil able crumble firm";
+var mnemonic = "buyer echo smile shrimp movie truck verify crisp produce forest memory quick";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet normal domain neck final elevator leave flavor address scissors fence license";
+var mnemonic = "before exhaust spray toss month rose vehicle liberty jungle protect barely oven";

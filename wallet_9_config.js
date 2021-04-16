@@ -1,1 +1,1 @@
-var mnemonic = "nominee salmon access alpha ice nephew index inside brand stove shy vicious";
+var mnemonic = "potato jacket sniff blue project input drop air siren drill right over";

@@ -1,1 +1,1 @@
-var mnemonic = "jar magic original jump regret slender tide bright token sister burst write";
+var mnemonic = "width chest inhale hunt valve pluck glide artist engine bridge soldier cart";

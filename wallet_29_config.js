@@ -1,1 +1,1 @@
-var mnemonic = "defense glow glory globe favorite wing laptop want file ramp verb shoot";
+var mnemonic = "main nothing feature noise pioneer latin yard reward foot bachelor tape alley";

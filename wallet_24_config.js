@@ -1,1 +1,1 @@
-var mnemonic = "basic debris twice reward spot ethics bridge tank logic travel citizen symbol";
+var mnemonic = "useless teach symbol tattoo sure doctor damage exist rotate accuse spice genre";

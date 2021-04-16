@@ -1,1 +1,1 @@
-var mnemonic = "biology bless save pigeon liquid clock type imitate picture mansion wagon abuse";
+var mnemonic = "van best pass burst worry bicycle mystery sea message cruise try foam";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit empower wood improve cash vast axis clinic guard judge world scissors";
+var mnemonic = "tenant kid color lemon holiday memory hurdle silk man rigid under bleak";

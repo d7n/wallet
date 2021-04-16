@@ -1,1 +1,1 @@
-var mnemonic = "stereo buzz finger faint oppose remind guitar diet fiber census carpet physical";
+var mnemonic = "credit tobacco decrease bicycle entry gauge sock surge kiss behind shrug unlock";

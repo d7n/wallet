@@ -1,1 +1,1 @@
-var mnemonic = "reform cool panda plug general crucial file lesson fancy still gap rib";
+var mnemonic = "calm nice hole boss ugly flee balance edge drink focus life enroll";

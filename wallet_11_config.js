@@ -1,1 +1,1 @@
-var mnemonic = "bunker loop come mask kid print movie web assist gown notice express";
+var mnemonic = "jar wet blade table notice affair rule adapt debris range wall advice";

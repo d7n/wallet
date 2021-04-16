@@ -1,1 +1,1 @@
-var mnemonic = "sweet federal uphold casual swim advance faith coin skirt earth divorce puzzle";
+var mnemonic = "film corn eager detect upset spend family brother rigid magic muffin rely";

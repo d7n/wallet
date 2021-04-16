@@ -1,1 +1,1 @@
-var mnemonic = "orange market cactus cattle beauty hidden cream repeat slush eight film protect";
+var mnemonic = "sail paddle minor improve chunk hair oblige steel review myth run medal";

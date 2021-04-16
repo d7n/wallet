@@ -1,1 +1,1 @@
-var mnemonic = "eternal drive answer twist suspect upset inherit foil hurdle peasant lyrics guard";
+var mnemonic = "excuse crisp inside squirrel modify cream distance dust moon lawsuit spread bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "remain humble become dutch beauty voyage interest deposit hurdle wonder run sure";
+var mnemonic = "assist sniff purpose lake maze traffic harsh agree joy flock decrease tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor differ organ country electric junk play list wise toss boy key";
+var mnemonic = "warfare kangaroo liberty banner bread pole possible crack surround phone convince grain";

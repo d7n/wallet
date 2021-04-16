@@ -1,1 +1,1 @@
-var mnemonic = "trap grab capital lake wisdom renew december degree lion siren inherit rich";
+var mnemonic = "net element cabin person inch daring upper forget level elder ranch just";

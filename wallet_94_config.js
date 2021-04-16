@@ -1,1 +1,1 @@
-var mnemonic = "wrap vehicle motor stomach economy inhale jaguar success amazing frost cabbage grit";
+var mnemonic = "turkey garment duty engage phone open cube finger home harvest place laugh";

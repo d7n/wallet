@@ -1,1 +1,1 @@
-var mnemonic = "meadow furnace breeze female rude cushion ability motion icon marine doll clarify";
+var mnemonic = "vicious believe vacuum amused income nest gauge imitate palm crime spawn blind";

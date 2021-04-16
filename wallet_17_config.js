@@ -1,1 +1,1 @@
-var mnemonic = "typical tragic thumb track grace aim plug antique maximum bean target round";
+var mnemonic = "more food oyster apple dilemma mutual decorate vocal cup fatigue once stomach";

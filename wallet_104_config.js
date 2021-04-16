@@ -1,1 +1,1 @@
-var mnemonic = "wrist when joke banner real sketch execute carry canvas control science keep";
+var mnemonic = "can add clinic gasp fog faculty giggle snow coin craft attract spot";

@@ -1,1 +1,1 @@
-var mnemonic = "since enjoy equip away era only country charge want orange uncover joy";
+var mnemonic = "dawn chat valley method cushion fold jewel scale sing question toss april";

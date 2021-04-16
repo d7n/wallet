@@ -1,1 +1,1 @@
-var mnemonic = "busy leopard mind disagree whisper tackle old city disease until time girl";
+var mnemonic = "process fat trash pattern sentence decline soccer material mad update over electric";

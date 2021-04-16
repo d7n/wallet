@@ -1,1 +1,1 @@
-var mnemonic = "make notable spirit captain supply satisfy scorpion seat romance stereo coil couch";
+var mnemonic = "chunk next goose inspire patient second way kiwi weekend fitness pen asset";

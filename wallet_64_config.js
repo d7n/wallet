@@ -1,1 +1,1 @@
-var mnemonic = "gun type beyond exclude pitch maid capital brass cement street fancy credit";
+var mnemonic = "equip melt charge true tackle near slam retire grit struggle choice piano";

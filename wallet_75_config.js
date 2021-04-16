@@ -1,1 +1,1 @@
-var mnemonic = "hood put ball hover detect voyage hold upper fatal render belt tape";
+var mnemonic = "orbit always mom manage just hood gesture holiday soap once net impose";

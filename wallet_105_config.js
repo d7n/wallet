@@ -1,1 +1,1 @@
-var mnemonic = "scare kitchen subject usual cat dust hole torch meadow today smile maple";
+var mnemonic = "card kidney still explain sleep history guitar north across spawn pear holiday";

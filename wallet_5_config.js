@@ -1,1 +1,1 @@
-var mnemonic = "round direct install tray pave direct aerobic safe tree mistake cradle palace";
+var mnemonic = "length black weird verb elite company between poverty hazard genuine space daughter";

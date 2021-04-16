@@ -1,1 +1,1 @@
-var mnemonic = "boy uniform motion travel select success category disorder onion hint rifle final";
+var mnemonic = "only liberty address swear teach home main garlic solar apology anchor earth";

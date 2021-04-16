@@ -1,1 +1,1 @@
-var mnemonic = "cable keen great dance melody excuse slam vacant code twelve orchard cry";
+var mnemonic = "genre suspect flee cousin flower motor announce turkey buffalo drink moral labor";

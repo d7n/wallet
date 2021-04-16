@@ -1,1 +1,1 @@
-var mnemonic = "old woman buffalo local price elite leader click mean fault talent pizza";
+var mnemonic = "panel door abandon diamond science quit chase dinosaur peace six wreck draft";

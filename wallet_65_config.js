@@ -1,1 +1,1 @@
-var mnemonic = "sick memory mansion exotic actor excess shaft essence north doctor urban impose";
+var mnemonic = "female market letter people thunder frog debris cement wrestle dose answer drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "cover flush food nasty install fetch meat sell effort abandon leopard above";
+var mnemonic = "kitten voyage fossil alien tape ticket crisp update circle hammer neutral syrup";

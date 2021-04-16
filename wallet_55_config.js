@@ -1,1 +1,1 @@
-var mnemonic = "snow identify rubber vacuum rude marble myth cushion own impulse genius fame";
+var mnemonic = "pluck wash mention mother amused winter rail angle lamp rare umbrella crater";

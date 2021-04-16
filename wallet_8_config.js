@@ -1,1 +1,1 @@
-var mnemonic = "daring panther punch ginger true joy concert ten video kitten hand alcohol";
+var mnemonic = "bronze program long clip tomorrow theme disease liberty avoid meadow discover rough";

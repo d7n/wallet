@@ -1,1 +1,1 @@
-var mnemonic = "salmon evil twin ethics tobacco donkey weird isolate cradle key lunch you";
+var mnemonic = "one dwarf brush steak short practice peasant moral current whale story hurry";

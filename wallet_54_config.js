@@ -1,1 +1,1 @@
-var mnemonic = "dose cram kiwi place lesson slab toss entire inflict resemble armor crumble";
+var mnemonic = "derive crystal hover mean episode announce pave express puppy kiwi cross accuse";

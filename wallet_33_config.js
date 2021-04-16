@@ -1,1 +1,1 @@
-var mnemonic = "attend sun tumble poem despair earth gossip expose sweet online apple photo";
+var mnemonic = "airport disease shrimp state suggest inject maple captain effort pepper debate reform";

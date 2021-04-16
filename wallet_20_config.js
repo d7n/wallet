@@ -1,1 +1,1 @@
-var mnemonic = "blue quick bulb buddy bacon axis repeat cute prison spell scout social";
+var mnemonic = "air merit cheap convince push inch invite review matrix absurd favorite syrup";

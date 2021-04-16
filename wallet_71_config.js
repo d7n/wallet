@@ -1,1 +1,1 @@
-var mnemonic = "blue ship error voice giggle admit trend estate lunar alcohol pioneer mention";
+var mnemonic = "cattle venue gossip dash problem olive canyon garage vapor push fetch siren";

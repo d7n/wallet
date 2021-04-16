@@ -1,1 +1,1 @@
-var mnemonic = "message eagle ecology shift theme comic verify sell bean stage cousin manual";
+var mnemonic = "core dry rally raise flower then equip stone number shadow jealous zero";

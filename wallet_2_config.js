@@ -1,1 +1,1 @@
-var mnemonic = "usage angry traffic ocean mansion place mask crime situate benefit tape despair";
+var mnemonic = "extra blind pink mango issue soup file laundry crystal symbol goat giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "crack climb limit wisdom science ordinary match champion electric post fury fury";
+var mnemonic = "remain cheap viable demand denial devote rival toast cash happy civil drastic";

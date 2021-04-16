@@ -1,1 +1,1 @@
-var mnemonic = "mansion street bundle laptop total despair muscle garbage tail banana immune emotion";
+var mnemonic = "fan truly fossil assist vast riot only surface goose jeans chicken will";

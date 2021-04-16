@@ -1,1 +1,1 @@
-var mnemonic = "word top expose essay rough barrel rookie plunge orchard session very girl";
+var mnemonic = "dismiss client ugly cook old order salt vital predict palace crucial reject";

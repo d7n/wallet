@@ -1,1 +1,1 @@
-var mnemonic = "spring furnace used answer mystery bus tuna jump drum unit giant before";
+var mnemonic = "album act false stool stand hurry elegant unlock crater flower chair luxury";

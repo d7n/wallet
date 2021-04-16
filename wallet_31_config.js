@@ -1,1 +1,1 @@
-var mnemonic = "undo aspect barely aim noise drill mouse ignore board upset right dream";
+var mnemonic = "merit dizzy fine video obvious mandate beauty language path lend erosion retire";

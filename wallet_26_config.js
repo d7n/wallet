@@ -1,1 +1,1 @@
-var mnemonic = "border carbon image culture enhance clown supreme acoustic manage sauce develop february";
+var mnemonic = "theme smoke layer civil often voyage disagree stick clever change truck coffee";

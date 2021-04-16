@@ -1,1 +1,1 @@
-var mnemonic = "census put barrel pudding ugly life reward moral weekend symbol pipe arm";
+var mnemonic = "album leopard welcome brave film fury priority bone math child tonight steel";

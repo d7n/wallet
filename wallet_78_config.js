@@ -1,1 +1,1 @@
-var mnemonic = "profit tube veteran casual soup employ jelly famous elephant wrong dog lesson";
+var mnemonic = "loyal original fire cigar shoot spray right rubber credit satisfy display spring";

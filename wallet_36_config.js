@@ -1,1 +1,1 @@
-var mnemonic = "goddess almost ramp crucial evidence device pretty buffalo orphan street bamboo blush";
+var mnemonic = "vendor must history pattern any polar attitude elephant depth rescue limb atom";

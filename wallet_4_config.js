@@ -1,1 +1,1 @@
-var mnemonic = "flush book price remind vocal energy mirror radar machine excuse lava program";
+var mnemonic = "super gorilla problem bridge quality inherit cinnamon notable update invest dress group";

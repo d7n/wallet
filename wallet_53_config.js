@@ -1,1 +1,1 @@
-var mnemonic = "visa express move rebel theme october control farm drum discover aerobic rely";
+var mnemonic = "since catalog kiss marble relief recycle body illegal virtual goose fantasy sadness";

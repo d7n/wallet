@@ -1,1 +1,1 @@
-var mnemonic = "blue tourist token reopen where kangaroo squirrel language image struggle screen artist";
+var mnemonic = "perfect increase timber prepare acquire patrol nice bulb laugh laugh cruel palm";

@@ -1,1 +1,1 @@
-var mnemonic = "energy stairs rival roof speed powder forest fence viable nurse birth acoustic";
+var mnemonic = "vague laptop sand leader hen tumble screen burden tunnel warfare polar edit";

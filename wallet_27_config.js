@@ -1,1 +1,1 @@
-var mnemonic = "pipe attend build diet lava perfect celery finish obscure other novel machine";
+var mnemonic = "injury upgrade obtain smile bacon color tired peace unlock wish remove wide";

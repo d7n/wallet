@@ -1,1 +1,1 @@
-var mnemonic = "giggle retire six boss nominee about garage unveil paper they forget icon";
+var mnemonic = "write purse transfer type unable spider ivory inquiry scene pretty hover venue";

@@ -1,1 +1,1 @@
-var mnemonic = "invest hockey oval beauty envelope alter gym grab space hood wire company";
+var mnemonic = "three pluck hollow vessel resist fog embark taxi reflect zone husband base";

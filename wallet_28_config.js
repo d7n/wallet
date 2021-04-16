@@ -1,1 +1,1 @@
-var mnemonic = "yellow negative blanket breeze phone van tone pretty yard tell lock reunion";
+var mnemonic = "comfort later address strike waste produce almost lock eagle move forest insect";

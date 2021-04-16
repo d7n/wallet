@@ -1,1 +1,1 @@
-var mnemonic = "alert clump penalty riot bottom ice vacant figure infant future plunge code";
+var mnemonic = "festival broccoli buffalo paper state degree rabbit devote umbrella wedding sting estate";

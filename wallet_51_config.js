@@ -1,1 +1,1 @@
-var mnemonic = "october sure exact now drive village angry village patrol ivory mask fade";
+var mnemonic = "autumn short humble over divorce hurdle zoo noodle raven hair fold input";

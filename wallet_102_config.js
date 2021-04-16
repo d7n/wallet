@@ -1,1 +1,1 @@
-var mnemonic = "claw diary birth concert fiction drastic swarm thunder shed island best warfare";
+var mnemonic = "web kid gloom hawk net october degree cattle crawl prosper cup spring";

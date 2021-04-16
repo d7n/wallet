@@ -1,1 +1,1 @@
-var mnemonic = "blossom cover pulse stay this rude ankle cactus rival junk sheriff method";
+var mnemonic = "shell indicate stomach beef goat side want answer disagree lion flash arrest";

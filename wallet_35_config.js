@@ -1,1 +1,1 @@
-var mnemonic = "border way rally galaxy rug winner correct ignore source wheel thought cup";
+var mnemonic = "hand place gift genre filter slab airport panda true hope hedgehog panda";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke legal feed budget balance enhance salt wire fetch smoke crumble knee";
+var mnemonic = "client brave kiwi slight depend supply suggest avoid fox among bless piece";

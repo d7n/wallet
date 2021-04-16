@@ -1,1 +1,1 @@
-var mnemonic = "chief match gain loud gun three boring thumb tray nose creek envelope";
+var mnemonic = "cattle seek coach morning panel reject climb hawk shrimp hard senior obey";
