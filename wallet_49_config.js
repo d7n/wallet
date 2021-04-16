@@ -1,1 +1,1 @@
-var mnemonic = "load deputy pretty success ceiling slow broken setup menu pen page gossip";
+var mnemonic = "sugar inflict main twin blue mushroom fresh fashion bachelor wonder choice easy";

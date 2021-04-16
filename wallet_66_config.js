@@ -1,1 +1,1 @@
-var mnemonic = "survey cruise piece rally penalty era tower cousin pair wrestle diagram above";
+var mnemonic = "pigeon october duck art universe lecture future give emotion message ordinary space";

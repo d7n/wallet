@@ -1,1 +1,1 @@
-var mnemonic = "address wine zero peace riot unable sudden raccoon refuse glue avocado village";
+var mnemonic = "crisp deer nose sleep nominee romance salad diet fancy during video evoke";

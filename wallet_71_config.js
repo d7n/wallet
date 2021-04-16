@@ -1,1 +1,1 @@
-var mnemonic = "chicken coin lemon cave volcano genuine next glare mail fun loan inject";
+var mnemonic = "gold cute east tumble saddle romance year motor soup risk skill kiss";

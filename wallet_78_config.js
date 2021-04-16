@@ -1,1 +1,1 @@
-var mnemonic = "coin much peanut duty erase describe wrist sponsor once city super aunt";
+var mnemonic = "business route tennis shoulder stairs banner radio hammer humble apple gravity sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover february laugh tattoo early weekend enroll empty knee manage mango burger";
+var mnemonic = "decorate delay slide purpose resemble advance school relief toy trash insect such";

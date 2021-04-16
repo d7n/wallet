@@ -1,1 +1,1 @@
-var mnemonic = "deer direct action used unlock coast boy nose pretty initial metal fog";
+var mnemonic = "shoot beauty trophy enable clinic multiply permit wide supply capable drop motor";

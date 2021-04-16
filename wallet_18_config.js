@@ -1,1 +1,1 @@
-var mnemonic = "bread dinner jump tell blind shuffle advice kitchen video school forum script";
+var mnemonic = "young ranch tuna end result peace twenty trade verb wrist mass place";

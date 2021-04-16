@@ -1,1 +1,1 @@
-var mnemonic = "noise earn like stereo learn scrap pudding panther theme green bitter zone";
+var mnemonic = "umbrella agree invest spy mistake leader absorb tag oblige awkward add field";

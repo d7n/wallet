@@ -1,1 +1,1 @@
-var mnemonic = "elephant brown burger shield grow wedding ketchup twice rifle become brass news";
+var mnemonic = "kite margin able buffalo clap swap mammal giant luggage ski auction turn";

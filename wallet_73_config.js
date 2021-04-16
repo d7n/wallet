@@ -1,1 +1,1 @@
-var mnemonic = "daring target end danger reduce offer total agree dinosaur legend nuclear prevent";
+var mnemonic = "raccoon tenant shuffle shrug clever pelican two olympic car loop ring series";

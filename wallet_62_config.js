@@ -1,1 +1,1 @@
-var mnemonic = "puppy thought toy walk behave bronze kite shy matrix magnet grant step";
+var mnemonic = "verify turn wonder flag hamster nasty typical flower genre empty laugh kitchen";

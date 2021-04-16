@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur voyage alarm fetch rural correct lesson mad logic aspect network pet";
+var mnemonic = "burst guard fine cake surround vicious gown cross ranch marine radio sudden";

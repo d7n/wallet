@@ -1,1 +1,1 @@
-var mnemonic = "argue strategy mother wire raise allow energy forest truth grape refuse clip";
+var mnemonic = "miracle about lake you style fossil sauce lemon vessel mixture fitness tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "trend volcano office bracket hawk pole sunny issue alone finger pear sea";
+var mnemonic = "bench total round tomato orient skin wasp crazy trip hockey vacant champion";

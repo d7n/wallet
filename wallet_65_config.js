@@ -1,1 +1,1 @@
-var mnemonic = "defense crane staff goddess borrow odor truck shoulder face bamboo upgrade retire";
+var mnemonic = "educate spray erode produce switch toy estate logic fat circle typical glad";

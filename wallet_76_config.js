@@ -1,1 +1,1 @@
-var mnemonic = "bracket heart alien horror lunar volcano penalty mail science pair imitate scrub";
+var mnemonic = "abandon dust cream deliver nation involve attack tornado track urge leg attract";

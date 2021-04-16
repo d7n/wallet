@@ -1,1 +1,1 @@
-var mnemonic = "grocery fresh behind frozen myself brother virus monster earn seek marriage miss";
+var mnemonic = "pistol twenty apology elegant today kangaroo wreck gasp stamp accident resource gather";

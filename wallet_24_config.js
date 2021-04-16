@@ -1,1 +1,1 @@
-var mnemonic = "fruit limit wage burger talk scene cricket juice question clay dress amused";
+var mnemonic = "extra wood session warrior dizzy tuition excuse winter market ribbon clerk stove";

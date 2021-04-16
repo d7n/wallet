@@ -1,1 +1,1 @@
-var mnemonic = "matter grief congress volume clever sustain mass auction decide clerk stuff cash";
+var mnemonic = "receive autumn fish boy anger fade grain select bid crouch street edge";

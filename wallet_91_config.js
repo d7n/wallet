@@ -1,1 +1,1 @@
-var mnemonic = "suffer steel sunny spend art dwarf fashion rubber lava spoon labor chicken";
+var mnemonic = "carbon fatal boss ecology ill couch secret spice hurt brain inherit unfold";

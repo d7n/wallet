@@ -1,1 +1,1 @@
-var mnemonic = "grid fuel salon nest rhythm arrow win attend endless protect target menu";
+var mnemonic = "violin behave run member walnut real ketchup crime belt dish coffee fiscal";

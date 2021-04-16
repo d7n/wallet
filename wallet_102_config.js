@@ -1,1 +1,1 @@
-var mnemonic = "loud become grant month distance talk story viable bike ghost conduct dove";
+var mnemonic = "blouse art blush afford giraffe check unfold slogan avocado dawn clip can";

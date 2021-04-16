@@ -1,1 +1,1 @@
-var mnemonic = "genius lawsuit inform during cruise fee crystal winter corn slow rhythm drill";
+var mnemonic = "holiday project have body equal bullet fall session tunnel bus awesome plunge";

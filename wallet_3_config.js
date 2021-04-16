@@ -1,1 +1,1 @@
-var mnemonic = "tower cause fashion print merry above turtle risk couch deer voice police";
+var mnemonic = "junior immune love rely east number visa alarm normal limit drama thumb";

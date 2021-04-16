@@ -1,1 +1,1 @@
-var mnemonic = "pizza repeat debate athlete foster absorb hundred buddy toddler coconut eternal penalty";
+var mnemonic = "filter engage term must punch border green shadow start soul cruel there";

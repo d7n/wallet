@@ -1,1 +1,1 @@
-var mnemonic = "identify clinic verify artist govern aisle immense stairs flock giggle original tunnel";
+var mnemonic = "expand option pencil dish ball embody dinosaur response tattoo piece regular place";

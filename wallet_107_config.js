@@ -1,1 +1,1 @@
-var mnemonic = "infant forest any you enhance attack rule cherry crouch object ankle very";
+var mnemonic = "tape offer noodle enough educate harvest outer autumn demand hotel gospel property";

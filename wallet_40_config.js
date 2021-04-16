@@ -1,1 +1,1 @@
-var mnemonic = "stable dentist tone soap finger during defy rose race alley defy powder";
+var mnemonic = "pull country snack glad crouch bracket cushion diet group grocery tennis home";

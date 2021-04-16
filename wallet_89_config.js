@@ -1,1 +1,1 @@
-var mnemonic = "carry divorce nice enable fatigue predict ignore stumble actor wide cross audit";
+var mnemonic = "fault remain effort vibrant know nest portion myth vendor tribe waste rate";

@@ -1,1 +1,1 @@
-var mnemonic = "crater pool unfold shop fresh cereal powder auction chase parent pull survey";
+var mnemonic = "cloth plug mushroom luggage magnet still bright bean notice average trick expire";

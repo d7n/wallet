@@ -1,1 +1,1 @@
-var mnemonic = "slow awesome grocery relief grief promote park comic taste length much frozen";
+var mnemonic = "raw grit mutual amateur jungle setup praise razor buzz deliver marine pistol";

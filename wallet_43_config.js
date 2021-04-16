@@ -1,1 +1,1 @@
-var mnemonic = "farm parrot mixture puzzle combine sunset tank ladder arrow fuel negative hope";
+var mnemonic = "theme emotion later position employ evoke hole jar next flight wink differ";

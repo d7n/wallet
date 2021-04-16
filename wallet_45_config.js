@@ -1,1 +1,1 @@
-var mnemonic = "earn sunny blind page panel ecology year taxi uphold alien inspire area";
+var mnemonic = "clay jazz tray claim blanket plunge pencil mansion virus stand awake original";

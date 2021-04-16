@@ -1,1 +1,1 @@
-var mnemonic = "medal guess degree abstract luxury category until buzz sense journey pig mechanic";
+var mnemonic = "cloth trip clump over argue admit fossil crater height stuff grab screen";

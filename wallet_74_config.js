@@ -1,1 +1,1 @@
-var mnemonic = "arrest aspect tumble crucial april pottery early law damage summer million time";
+var mnemonic = "lizard legend sail federal inner image spider grace cream asthma warm belt";

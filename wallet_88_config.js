@@ -1,1 +1,1 @@
-var mnemonic = "general tragic priority defy gloom off fan buyer curious arrange vintage display";
+var mnemonic = "sport journey display picnic upgrade fix faint offer mail edge search weapon";

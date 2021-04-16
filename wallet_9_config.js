@@ -1,1 +1,1 @@
-var mnemonic = "glide bundle debate sad outside silk guard guess hawk boss happy cargo";
+var mnemonic = "warm impulse buffalo dwarf night tent section suit exclude pizza piano movie";

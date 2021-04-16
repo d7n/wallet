@@ -1,1 +1,1 @@
-var mnemonic = "that primary ranch border alley help donate forget pause volume robust toy";
+var mnemonic = "mandate prison gaze elephant blouse test come click shy dress cable skin";

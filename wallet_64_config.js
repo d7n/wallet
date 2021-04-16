@@ -1,1 +1,1 @@
-var mnemonic = "help print whisper merge tray surprise love swim before sail churn file";
+var mnemonic = "myself option logic void banana rule unveil unlock sand endless child permit";

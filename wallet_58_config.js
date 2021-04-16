@@ -1,1 +1,1 @@
-var mnemonic = "thing trouble wish sadness help rib clever page supply perfect jaguar unknown";
+var mnemonic = "segment entry note length cigar salute duty alley language escape penalty used";

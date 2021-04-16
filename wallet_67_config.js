@@ -1,1 +1,1 @@
-var mnemonic = "loop original hurdle such planet crowd pave verb riot purchase tomato okay";
+var mnemonic = "radar plastic swamp camp expire travel zone scout anxiety coconut feature resource";

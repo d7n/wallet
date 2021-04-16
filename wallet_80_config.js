@@ -1,1 +1,1 @@
-var mnemonic = "distance mad friend rebel ivory rail daring work again speak rebuild author";
+var mnemonic = "risk shell table journey easy sentence road control bomb long vanish hair";

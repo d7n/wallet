@@ -1,1 +1,1 @@
-var mnemonic = "scene drive couple turkey fix slow razor debris idle tiger diary whip";
+var mnemonic = "hello comic wife grocery announce test east title stumble daring hazard feature";

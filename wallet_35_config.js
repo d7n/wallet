@@ -1,1 +1,1 @@
-var mnemonic = "fashion analyst assume draw venture chunk swap spoil virus thought link grid";
+var mnemonic = "can jump iron uncover motor question joke chef yellow split canyon casino";

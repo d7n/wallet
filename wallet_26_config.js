@@ -1,1 +1,1 @@
-var mnemonic = "brave merry whisper lumber ketchup express refuse original trial all swarm man";
+var mnemonic = "borrow public verb quit country floor license release oxygen boring much element";

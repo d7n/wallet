@@ -1,1 +1,1 @@
-var mnemonic = "lecture picture current female spy vapor chronic stand that giggle tackle decrease";
+var mnemonic = "square use lava mask witness jelly afford faculty dynamic boat keep dwarf";

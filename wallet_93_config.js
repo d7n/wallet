@@ -1,1 +1,1 @@
-var mnemonic = "acquire gym fluid vendor hawk symptom electric enhance suffer aspect lunar gesture";
+var mnemonic = "lyrics october cargo crawl hand unhappy food fury never chest tongue crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "police office hen woman avocado endorse humble upgrade repeat rival thought oak";
+var mnemonic = "mom mansion trip bunker apology flip verify mobile dress punch extend shrug";

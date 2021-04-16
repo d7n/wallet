@@ -1,1 +1,1 @@
-var mnemonic = "dismiss amused recall solar imitate chicken vote cupboard runway oblige bullet rebel";
+var mnemonic = "video taste trim comfort sausage vague safe private alter alcohol estate raven";

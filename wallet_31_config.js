@@ -1,1 +1,1 @@
-var mnemonic = "output inherit you tobacco mechanic tumble scout behind slot error rival thunder";
+var mnemonic = "pistol jewel peanut marine live damage wealth math mass cost guilt roof";

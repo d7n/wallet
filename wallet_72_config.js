@@ -1,1 +1,1 @@
-var mnemonic = "income bitter draw release globe ivory mixture chalk clerk goose enough lecture";
+var mnemonic = "around famous heart glad gown recycle ribbon maple badge ranch chef toy";

@@ -1,1 +1,1 @@
-var mnemonic = "case during type climb obscure rate damage shrug sick fall dose affair";
+var mnemonic = "plug flash theory census usual absent text prevent void borrow good prepare";

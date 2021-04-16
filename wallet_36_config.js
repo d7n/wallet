@@ -1,1 +1,1 @@
-var mnemonic = "husband insane exile inflict intact usage baby ignore venture speed half muffin";
+var mnemonic = "speed coconut private mother arrive dinosaur forest april fantasy frozen penalty desk";

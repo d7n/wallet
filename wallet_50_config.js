@@ -1,1 +1,1 @@
-var mnemonic = "echo upon universe blue timber alien concert rapid add coyote now wish";
+var mnemonic = "advance mechanic primary rhythm occur skin citizen canoe six math lend exact";

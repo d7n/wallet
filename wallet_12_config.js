@@ -1,1 +1,1 @@
-var mnemonic = "symptom air open blush vapor cruel frost speak student journey fiber left";
+var mnemonic = "glimpse call gallery typical envelope kangaroo slim stay layer movie course jump";

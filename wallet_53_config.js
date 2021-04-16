@@ -1,1 +1,1 @@
-var mnemonic = "prosper weird cause hub live million van nose have mosquito balcony turn";
+var mnemonic = "miss cross nut craft modify empty please together rule during find fuel";

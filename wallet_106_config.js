@@ -1,1 +1,1 @@
-var mnemonic = "zone vibrant absorb faith curtain drastic pear kid risk tattoo tattoo endorse";
+var mnemonic = "draw shy tuna idea frozen tail history best medal power engine mass";

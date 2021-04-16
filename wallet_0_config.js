@@ -1,1 +1,1 @@
-var mnemonic = "heart retire eye mansion evidence acquire movie minor charge claim pulp squirrel";
+var mnemonic = "deputy salad below right east drop wife twenty edge insane accuse blast";

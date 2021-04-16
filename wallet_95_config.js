@@ -1,1 +1,1 @@
-var mnemonic = "radio poverty tilt carbon tide federal december engine crack hen sadness drum";
+var mnemonic = "stove funny sting blush cargo enable captain recycle culture truly camp connect";

@@ -1,1 +1,1 @@
-var mnemonic = "bird dove all illness pave dizzy lizard curve dream wisdom blast abandon";
+var mnemonic = "seat absurd stool harbor car drum face fire unusual usual fade damage";

@@ -1,1 +1,1 @@
-var mnemonic = "hold notable color banana educate dirt poverty dog jelly color until interest";
+var mnemonic = "relief lecture pioneer hedgehog goddess exclude pony rice best cause card glance";

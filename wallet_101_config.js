@@ -1,1 +1,1 @@
-var mnemonic = "ask undo blur plastic chunk suit smart unfold wrong burger thumb chuckle";
+var mnemonic = "olive wheel casino bamboo ivory omit agent ecology fiscal frame vicious call";

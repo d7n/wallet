@@ -1,1 +1,1 @@
-var mnemonic = "item slim there tiny federal hurdle visa cinnamon rubber pelican pond connect";
+var mnemonic = "major trial brand demand pear truth sponsor original future repeat resist local";

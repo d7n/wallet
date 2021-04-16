@@ -1,1 +1,1 @@
-var mnemonic = "kid permit regret staff draft turn dragon choose dolphin direct grid boring";
+var mnemonic = "pencil parrot pottery ranch exile fold among assault laugh pull dial health";

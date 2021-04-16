@@ -1,1 +1,1 @@
-var mnemonic = "thrive tornado code twin step tackle execute come kitchen pair drive powder";
+var mnemonic = "sight recall school seed admit priority leisure canyon crane develop snow point";

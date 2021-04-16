@@ -1,1 +1,1 @@
-var mnemonic = "awkward avocado museum camp genuine laptop penalty hungry girl review need correct";
+var mnemonic = "useless spawn decorate square surround sphere switch toward sniff carbon pig spell";

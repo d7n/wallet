@@ -1,1 +1,1 @@
-var mnemonic = "clean aisle taste gallery spy habit shop shine pulp become filter friend";
+var mnemonic = "flash giant sign kite price ritual control ordinary various private stock coral";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet seat range banner camera depend scare tribe crucial dinner regret song";
+var mnemonic = "maple unlock catch upper napkin primary usual depend pond tourist cover promote";

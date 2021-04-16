@@ -1,1 +1,1 @@
-var mnemonic = "snap anxiety green chaos never board curve canvas staff start tuna attend";
+var mnemonic = "girl region tank gorilla lunch stomach actor defense marble math grass salmon";

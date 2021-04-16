@@ -1,1 +1,1 @@
-var mnemonic = "skill camp matrix city travel soap under employ mystery give tourist dash";
+var mnemonic = "cash pink swift coral harbor gym arrive legal rich security father food";

@@ -1,1 +1,1 @@
-var mnemonic = "wise photo trip banana card dust snow still awkward sentence neither board";
+var mnemonic = "jump banana force unfair skirt pigeon wasp scrub shop buddy dilemma insect";

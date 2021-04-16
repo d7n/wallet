@@ -1,1 +1,1 @@
-var mnemonic = "abstract drip noodle basic stadium snap tragic day license once tragic ostrich";
+var mnemonic = "cool core anchor rail news ritual monster hurry zebra mobile term abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "certain lady exhaust mask tongue later effort ride rail celery act stove";
+var mnemonic = "arch clerk film return reason unlock credit ramp galaxy detail atom armed";

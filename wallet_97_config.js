@@ -1,1 +1,1 @@
-var mnemonic = "fix popular crash fence among gaze vacuum debris never since city between";
+var mnemonic = "goose fruit blue stereo love tattoo rain pottery novel twelve area dress";

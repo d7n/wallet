@@ -1,1 +1,1 @@
-var mnemonic = "segment shop strong fury barely example feed warm inch public valley arch";
+var mnemonic = "cube later shield vivid equal direct twin swear carbon diamond oyster iron";

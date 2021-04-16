@@ -1,1 +1,1 @@
-var mnemonic = "right mass broccoli title senior physical question tower awesome because biology wrist";
+var mnemonic = "vapor agree grape romance pyramid fever manual assault second unit flight boss";

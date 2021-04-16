@@ -1,1 +1,1 @@
-var mnemonic = "almost injury frame poverty mix income bracket kind awesome raw process always";
+var mnemonic = "piece consider sort clerk unlock order social rich kitchen apart orphan purpose";

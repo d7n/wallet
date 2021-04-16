@@ -1,1 +1,1 @@
-var mnemonic = "fetch enable endless evoke inside cloud invite excite march crumble air critic";
+var mnemonic = "distance genuine burger sting slam income wrong fence valid gasp slide edge";

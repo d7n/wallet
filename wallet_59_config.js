@@ -1,1 +1,1 @@
-var mnemonic = "clip half crime faculty aim hurdle asset wire hour twin noble street";
+var mnemonic = "wasp pepper violin include copy pool please predict utility tongue cart early";

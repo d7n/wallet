@@ -1,1 +1,1 @@
-var mnemonic = "chalk shove miracle carbon grunt shed sketch trumpet order region ancient enter";
+var mnemonic = "achieve ankle oblige twin olive chase pulp text power surface piece odor";

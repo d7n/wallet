@@ -1,1 +1,1 @@
-var mnemonic = "suggest change leisure reduce arrest term devote fragile shove subject toward ethics";
+var mnemonic = "modify amateur film capital dust pony sell comfort bunker crack spell pole";

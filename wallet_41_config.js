@@ -1,1 +1,1 @@
-var mnemonic = "object hollow century demise entire carpet decide nose field glue wide fuel";
+var mnemonic = "egg define wedding convince drum equip furnace sheriff identify torch excite birth";

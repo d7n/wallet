@@ -1,1 +1,1 @@
-var mnemonic = "attitude use stick goat gallery dilemma element either hole nest between outer";
+var mnemonic = "muffin merge one cotton peace camera venture loud birth diet crowd vague";

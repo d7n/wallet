@@ -1,1 +1,1 @@
-var mnemonic = "carry romance aerobic you cradle virtual tiger genre replace leader force friend";
+var mnemonic = "own peace always clog scan clutch final sleep join clown deal pledge";

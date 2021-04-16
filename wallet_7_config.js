@@ -1,1 +1,1 @@
-var mnemonic = "blast wage antenna open cage lens lucky usage recipe whale spoil saddle";
+var mnemonic = "puppy icon reopen solar valley what exhibit gaze march vapor grape speak";
