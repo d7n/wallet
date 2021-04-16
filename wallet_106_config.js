@@ -1,1 +1,1 @@
-var mnemonic = "pioneer like craft valid open neglect raccoon clap fatigue rely shadow pole";
+var mnemonic = "stem genius unknown bunker length wood nasty know tomato gather random fatal";

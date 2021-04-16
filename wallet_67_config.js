@@ -1,1 +1,1 @@
-var mnemonic = "matrix now rate job pause enrich other salon until enroll obvious avoid";
+var mnemonic = "view accuse salmon blade agent combine column dove awake success question bulb";

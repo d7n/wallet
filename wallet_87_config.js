@@ -1,1 +1,1 @@
-var mnemonic = "project awesome jar mimic such rely trap labor front middle list mom";
+var mnemonic = "note tomorrow trash stand excuse trial sting digital caught major dash range";

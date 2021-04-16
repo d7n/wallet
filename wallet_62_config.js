@@ -1,1 +1,1 @@
-var mnemonic = "slender inhale dentist desk taste jump picture provide suggest maid fade property";
+var mnemonic = "blue trend modify leave black smooth apple dinner device brick weapon usage";

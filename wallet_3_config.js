@@ -1,1 +1,1 @@
-var mnemonic = "square miracle hunt city scatter ski use van voyage snap lucky trigger";
+var mnemonic = "cloth deputy used cricket knife oven kangaroo crane ball abuse kid wasp";

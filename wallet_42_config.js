@@ -1,1 +1,1 @@
-var mnemonic = "assist genuine road range lottery paper melody unaware blouse song long horror";
+var mnemonic = "permit screen deer then since couch often refuse tail dance galaxy then";

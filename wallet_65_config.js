@@ -1,1 +1,1 @@
-var mnemonic = "drift eternal ramp donate bike swarm scrap east dove genre build avoid";
+var mnemonic = "vanish slush sock category wine able ball produce life receive recall speak";

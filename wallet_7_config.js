@@ -1,1 +1,1 @@
-var mnemonic = "enable wire permit ginger royal miracle end normal ozone dance equal tail";
+var mnemonic = "peasant kitten decrease able miss photo medal trend gas syrup very cradle";

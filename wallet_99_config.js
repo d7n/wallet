@@ -1,1 +1,1 @@
-var mnemonic = "culture problem immense embark monkey practice bacon creek wasp hill lemon social";
+var mnemonic = "crane same category error game dish ethics uncle annual awkward glare guitar";

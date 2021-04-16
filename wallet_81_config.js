@@ -1,1 +1,1 @@
-var mnemonic = "stadium immune lunch onion van enrich swamp hero hint bench need veteran";
+var mnemonic = "edit episode habit number dust room task tilt work balance chuckle frost";

@@ -1,1 +1,1 @@
-var mnemonic = "siege exclude boy people asset later claim lunar sound size tackle skin";
+var mnemonic = "disagree weekend tool embark link ranch approve craft yellow tired rule tag";

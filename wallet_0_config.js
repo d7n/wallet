@@ -1,1 +1,1 @@
-var mnemonic = "hybrid census obscure evidence detail voice street hunt more paddle distance dad";
+var mnemonic = "tobacco sponsor dish write curtain spider company chase elite cost party cactus";

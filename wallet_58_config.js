@@ -1,1 +1,1 @@
-var mnemonic = "provide misery polar diagram this trim accuse connect fence dirt large ten";
+var mnemonic = "thumb world mobile arm hundred sustain broken health crane april upper merit";

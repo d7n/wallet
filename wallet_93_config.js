@@ -1,1 +1,1 @@
-var mnemonic = "safe twenty dumb peanut start remember calm sand cute ranch clean during";
+var mnemonic = "window flee valid drop direct fit acoustic later bulk outside van scout";

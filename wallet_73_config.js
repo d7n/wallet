@@ -1,1 +1,1 @@
-var mnemonic = "guilt country castle crew series police cup fantasy mansion among grow shop";
+var mnemonic = "coffee yellow sudden polar virus join smooth comic fluid obvious follow push";

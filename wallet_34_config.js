@@ -1,1 +1,1 @@
-var mnemonic = "grunt melt eager bid ethics chronic merge moment discover dutch oval since";
+var mnemonic = "mention canvas wave beef member welcome later employ outside nerve summer suffer";

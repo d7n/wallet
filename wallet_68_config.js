@@ -1,1 +1,1 @@
-var mnemonic = "person dish skull arctic federal elegant tuna feed fork swallow away suggest";
+var mnemonic = "scrap warfare bitter exist razor ball assume live main ready embody puzzle";

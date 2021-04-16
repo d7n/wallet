@@ -1,1 +1,1 @@
-var mnemonic = "capital thought leader transfer two bike sudden pig modify onion man update";
+var mnemonic = "comfort elephant primary home rubber myself excess wood fame steak punch mosquito";

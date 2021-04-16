@@ -1,1 +1,1 @@
-var mnemonic = "thing pluck young dismiss horror suffer chalk nut hobby version advice must";
+var mnemonic = "rookie enlist brush yard accident quiz unveil farm define spice grape coin";

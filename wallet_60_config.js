@@ -1,1 +1,1 @@
-var mnemonic = "holiday dance sort language gospel business pill eye fault decade duty athlete";
+var mnemonic = "prevent double photo snow bottom wet panic obvious hundred either damp retire";

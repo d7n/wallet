@@ -1,1 +1,1 @@
-var mnemonic = "thrive okay maple body clock regret below domain motion merit credit wedding";
+var mnemonic = "mule alley rice fortune pause world tone coral warm purchase ghost symptom";

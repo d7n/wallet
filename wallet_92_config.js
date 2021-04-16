@@ -1,1 +1,1 @@
-var mnemonic = "garden leaf shy retreat crystal want begin action lyrics jacket finish midnight";
+var mnemonic = "enemy tired juice ring winner wealth patrol early unfold napkin sail year";

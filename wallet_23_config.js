@@ -1,1 +1,1 @@
-var mnemonic = "exile dignity test grass make patch interest raven oblige winter carbon lobster";
+var mnemonic = "future mule assist label soul rib photo grass soap inform fantasy risk";

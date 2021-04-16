@@ -1,1 +1,1 @@
-var mnemonic = "focus jewel vacuum cancel crime exchange spawn cloth pass immense boring cruise";
+var mnemonic = "chaos dry grain belt rebel spend always scrub ritual produce nurse host";

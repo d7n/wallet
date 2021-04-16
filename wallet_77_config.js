@@ -1,1 +1,1 @@
-var mnemonic = "spare media render stomach effort uncle warfare horn brick circle nature end";
+var mnemonic = "weekend ticket anxiety affair lemon such raccoon desert connect child mean final";

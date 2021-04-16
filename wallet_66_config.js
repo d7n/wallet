@@ -1,1 +1,1 @@
-var mnemonic = "earth copy range glass soul outdoor march wear car gown moon slim";
+var mnemonic = "glare climb park tragic number flavor salt arrest rebel neither wet estate";

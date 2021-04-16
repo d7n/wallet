@@ -1,1 +1,1 @@
-var mnemonic = "immune spoil hand bus neck front cake fringe palace bright observe bus";
+var mnemonic = "link fuel light catalog slight quantum spell civil right flower dutch floor";

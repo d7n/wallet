@@ -1,1 +1,1 @@
-var mnemonic = "rude extra fog dry aspect once special demand demand broccoli symbol venue";
+var mnemonic = "kick put shock vibrant yard win car sting royal garlic spare hurry";

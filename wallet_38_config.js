@@ -1,1 +1,1 @@
-var mnemonic = "harbor estate daughter add puzzle dentist toddler program before industry mutual toddler";
+var mnemonic = "exercise general fetch quantum copper account nation virus tornado reason program junior";

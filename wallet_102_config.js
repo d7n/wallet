@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bounce develop business kidney chat address jazz farm announce cram split";
+var mnemonic = "swift catch amount critic daring act naive tragic sunset oven prison example";

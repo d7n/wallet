@@ -1,1 +1,1 @@
-var mnemonic = "ribbon coral renew mango icon hunt away cry orbit certain smile demand";
+var mnemonic = "fiction avocado flush diet then diary print adapt grant avocado special brass";

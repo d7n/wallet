@@ -1,1 +1,1 @@
-var mnemonic = "dose feature unique mixture spoil lottery slender wagon gown earn piece arrow";
+var mnemonic = "absorb educate hidden mom inherit hurry life help yard nation prize faculty";

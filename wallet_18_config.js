@@ -1,1 +1,1 @@
-var mnemonic = "battle quality relax recipe void material field result castle unknown task shine";
+var mnemonic = "tell around travel test ancient mixture salon reason quality carpet tackle note";

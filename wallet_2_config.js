@@ -1,1 +1,1 @@
-var mnemonic = "wife drama rifle survey few news wolf distance monitor sibling opera ordinary";
+var mnemonic = "toast unveil kid distance occur meadow peasant unique hero annual aware indoor";

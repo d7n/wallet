@@ -1,1 +1,1 @@
-var mnemonic = "nominee include there foam steak gallery grain sound few capable gaze bounce";
+var mnemonic = "fantasy fish ship hard future airport obey virus sheriff food hole employ";

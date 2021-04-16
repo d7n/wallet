@@ -1,1 +1,1 @@
-var mnemonic = "abuse provide feature crash radar meat dust cargo panic misery profit twist";
+var mnemonic = "sleep grit abandon multiply add stadium segment floor involve artwork couple fee";

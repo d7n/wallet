@@ -1,1 +1,1 @@
-var mnemonic = "alpha bunker weekend segment pact raise dove permit step fault hub device";
+var mnemonic = "very actor earth helmet joke affair opera depend lock retreat topic scene";

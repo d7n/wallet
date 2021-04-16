@@ -1,1 +1,1 @@
-var mnemonic = "crunch miss dumb great unusual genuine script amused zoo burst attitude elder";
+var mnemonic = "reopen famous animal subject hub various bulb hammer maze museum thing trim";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican now side eternal labor flush embark machine interest orange permit curtain";
+var mnemonic = "since spend area beach rain letter oil gun unique dream join path";

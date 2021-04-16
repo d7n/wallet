@@ -1,1 +1,1 @@
-var mnemonic = "figure van figure candy scare argue add monster force tank embark elite";
+var mnemonic = "help shaft speak output purpose column secret proud rice easy fiber marble";

@@ -1,1 +1,1 @@
-var mnemonic = "find drift social foot manage quick orphan sun catch feel chef gun";
+var mnemonic = "distance drink trigger achieve omit orient jaguar hat best cash hole mesh";

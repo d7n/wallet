@@ -1,1 +1,1 @@
-var mnemonic = "slab gospel camp frost climb impose salon nominee earn pretty silly movie";
+var mnemonic = "age human october dinosaur zebra stove knife upset envelope sorry gentle often";

@@ -1,1 +1,1 @@
-var mnemonic = "erode write coil minute pond monkey jealous beauty salmon torch kingdom struggle";
+var mnemonic = "exact people plunge start drill north please wish foot purchase essence start";

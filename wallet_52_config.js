@@ -1,1 +1,1 @@
-var mnemonic = "twice broom put violin hen shadow penalty claw sudden over error plug";
+var mnemonic = "birth become zoo venue alert donkey nurse rhythm void estate asset catalog";

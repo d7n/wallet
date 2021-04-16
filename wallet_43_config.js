@@ -1,1 +1,1 @@
-var mnemonic = "try situate frost lounge lounge range hamster buzz boring promote fruit brush";
+var mnemonic = "dawn blast banner spoon among hunt brass lazy lamp luxury treat water";

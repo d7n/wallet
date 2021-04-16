@@ -1,1 +1,1 @@
-var mnemonic = "critic tool slow answer act dumb drop tell pattern sign april clump";
+var mnemonic = "much enrich coral napkin effort way property soon stool brush decorate minute";

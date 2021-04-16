@@ -1,1 +1,1 @@
-var mnemonic = "helmet pistol add embark refuse again twelve math master staff minor whip";
+var mnemonic = "normal capital used turtle useful version intact battle vote witness wide gate";

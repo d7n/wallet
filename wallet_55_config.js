@@ -1,1 +1,1 @@
-var mnemonic = "harsh sleep end bonus oil light miracle survey funny paper ladder cart";
+var mnemonic = "keep tray awkward comfort nephew ignore eye turtle venue leisure sorry velvet";

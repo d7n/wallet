@@ -1,1 +1,1 @@
-var mnemonic = "recycle digital baby you flower tortoise rookie melt cake shove interest cage";
+var mnemonic = "tape always palace ignore decrease champion dice iron record word arrest purchase";

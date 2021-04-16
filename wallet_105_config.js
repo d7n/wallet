@@ -1,1 +1,1 @@
-var mnemonic = "kidney smoke arrest predict umbrella between clutch inquiry learn elevator nurse fire";
+var mnemonic = "brown tool castle broccoli doll hospital champion logic club inspire slight vague";

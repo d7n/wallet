@@ -1,1 +1,1 @@
-var mnemonic = "fever shield across flat follow penalty police hover spy section carbon coach";
+var mnemonic = "message heavy census absurd rose quarter say often use island mass aim";

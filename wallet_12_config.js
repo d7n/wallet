@@ -1,1 +1,1 @@
-var mnemonic = "jelly among stand express method occur lunch exercise agent whisper train symptom";
+var mnemonic = "infant hood chaos moon slab crop sting provide radar culture chunk dove";

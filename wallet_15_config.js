@@ -1,1 +1,1 @@
-var mnemonic = "donate lady best acquire select earth abuse guess woman wave dice force";
+var mnemonic = "plate clog witness test game naive reward aspect mouse fault culture hip";

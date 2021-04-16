@@ -1,1 +1,1 @@
-var mnemonic = "ticket card off uncover maple lamp hurdle snow blade left combine toss";
+var mnemonic = "muffin plate suffer fix curious truth whale absent trim above alone actor";

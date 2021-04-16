@@ -1,1 +1,1 @@
-var mnemonic = "snap snap dash pencil person cloud scout rain garden room office armor";
+var mnemonic = "magic spread super loop boat achieve office genius venture holiday pulse month";

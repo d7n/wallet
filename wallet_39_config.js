@@ -1,1 +1,1 @@
-var mnemonic = "ensure monkey embark hybrid south aunt prepare negative parrot rigid clap drama";
+var mnemonic = "potato mail under cabbage solve diamond ticket total era give insane beyond";

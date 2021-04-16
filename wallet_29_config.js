@@ -1,1 +1,1 @@
-var mnemonic = "car just style abuse chef code wisdom plug series purse spoil company";
+var mnemonic = "hurt physical entry fatal marble crop farm modify hurdle blur matrix option";

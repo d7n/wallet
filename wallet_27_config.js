@@ -1,1 +1,1 @@
-var mnemonic = "best resource discover shoot link boss skin ridge oppose tennis spirit sadness";
+var mnemonic = "purity merge since renew breeze powder stuff sniff buddy skirt topple arctic";

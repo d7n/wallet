@@ -1,1 +1,1 @@
-var mnemonic = "clinic ill tomato february bounce leaf usage stone course obscure vehicle memory";
+var mnemonic = "brisk tunnel conduct pizza guide sleep vintage lion soul polar speak author";

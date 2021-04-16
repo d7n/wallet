@@ -1,1 +1,1 @@
-var mnemonic = "top power apple fault dawn supply trial misery cruel velvet amateur mask";
+var mnemonic = "tent shed silly size term twenty warm pulp tunnel pluck morning tube";

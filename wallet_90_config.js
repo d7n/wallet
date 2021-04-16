@@ -1,1 +1,1 @@
-var mnemonic = "barrel truly sponsor dry ridge eye buzz disease visual canal thought print";
+var mnemonic = "exhibit practice require useful bring almost claim deliver taste flag detect crystal";

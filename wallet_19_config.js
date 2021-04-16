@@ -1,1 +1,1 @@
-var mnemonic = "utility fury brother hunt detail bunker involve kiss old auto century car";
+var mnemonic = "drive visa term pencil hello possible fee swamp tired cheap tragic select";

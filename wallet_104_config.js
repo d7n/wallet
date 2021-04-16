@@ -1,1 +1,1 @@
-var mnemonic = "hour sight idle rib upset buzz unique legend rate evolve spawn tired";
+var mnemonic = "fresh shy panther leisure awful supreme cruel round embark task hungry path";

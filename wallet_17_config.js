@@ -1,1 +1,1 @@
-var mnemonic = "hidden resource caution piece plate issue pilot morning security glory wisdom illegal";
+var mnemonic = "foam soon guard turtle mimic mixture veteran next slide nuclear crazy enlist";

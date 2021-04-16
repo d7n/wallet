@@ -1,1 +1,1 @@
-var mnemonic = "worry mass sweet valley neglect cotton side review zebra warfare pet taxi";
+var mnemonic = "jar tide smile music hand promote pave dismiss whisper street inspire dinner";

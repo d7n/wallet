@@ -1,1 +1,1 @@
-var mnemonic = "blame online busy face pink rubber broken bargain mosquito nest breeze repeat";
+var mnemonic = "panther marine kiss pole oppose brush fix rigid moon all brain wood";

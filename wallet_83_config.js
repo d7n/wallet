@@ -1,1 +1,1 @@
-var mnemonic = "gift liquid account battle awake mango winter film repair toss illness rail";
+var mnemonic = "connect antenna level proof episode sentence uphold hollow twenty brave now impose";

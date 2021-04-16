@@ -1,1 +1,1 @@
-var mnemonic = "total hammer demise permit muffin strike health grass tunnel inquiry forest debris";
+var mnemonic = "traffic impulse orphan bundle canvas traffic sport lizard settle mixed shadow road";

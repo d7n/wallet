@@ -1,1 +1,1 @@
-var mnemonic = "arrow define park reject foil cream move weasel tornado spirit useless syrup";
+var mnemonic = "tide kingdom chalk deny flame move drip dismiss bench weapon afraid sing";

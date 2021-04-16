@@ -1,1 +1,1 @@
-var mnemonic = "funny planet term pipe alpha vague tunnel isolate crack loan kind train";
+var mnemonic = "cruel fall end forward adult banner swift burden lunar connect budget clean";

@@ -1,1 +1,1 @@
-var mnemonic = "elite one code inflict anxiety hole penalty stairs ankle mixture must car";
+var mnemonic = "black law chronic misery raccoon end simple spawn hat bullet snake second";

@@ -1,1 +1,1 @@
-var mnemonic = "state usual bracket various title move lens panel wish caution grain frost";
+var mnemonic = "river couple table index wait sunset miracle adjust museum clog plate vapor";

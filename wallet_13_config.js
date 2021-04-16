@@ -1,1 +1,1 @@
-var mnemonic = "taste arrange cycle athlete struggle vintage tone acoustic dream rifle super embody";
+var mnemonic = "main diary hurt sustain era firm crystal eternal crunch senior result animal";

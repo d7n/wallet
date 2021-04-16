@@ -1,1 +1,1 @@
-var mnemonic = "basket length space noble nephew lazy street season keen viable act alert";
+var mnemonic = "steak crack lyrics tribe grunt father weapon anxiety liar amateur panther double";

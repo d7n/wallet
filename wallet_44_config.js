@@ -1,1 +1,1 @@
-var mnemonic = "monster bonus hair pitch walk risk cannon scrub curve grocery window always";
+var mnemonic = "blossom universe crew dish priority sense example clock forest wire huge immense";

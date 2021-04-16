@@ -1,1 +1,1 @@
-var mnemonic = "they horse desk audit prosper era elbow also method camera genius visa";
+var mnemonic = "hollow expire cool dinner fold hair element junior april tired miracle disorder";

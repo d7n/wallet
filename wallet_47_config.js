@@ -1,1 +1,1 @@
-var mnemonic = "garbage penalty glory mammal rate snack sibling long return disagree bench flock";
+var mnemonic = "law toddler level ski horn same bachelor squirrel runway media primary note";

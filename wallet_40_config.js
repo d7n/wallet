@@ -1,1 +1,1 @@
-var mnemonic = "casual field secret reduce hint core increase stove logic verify polar expose";
+var mnemonic = "arrow describe kit monster calm twin copper spawn shop stage engage bachelor";

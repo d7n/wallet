@@ -1,1 +1,1 @@
-var mnemonic = "wheel estate dad humble target ready law combine pilot produce mammal shoe";
+var mnemonic = "budget bitter husband focus magic ski credit ride issue relax scrub torch";

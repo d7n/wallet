@@ -1,1 +1,1 @@
-var mnemonic = "awake curtain kid explain share tissue adjust unhappy symbol leg uncle casual";
+var mnemonic = "soon gallery unveil such govern dwarf path fit spawn canoe brief layer";

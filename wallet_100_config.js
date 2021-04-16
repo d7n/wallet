@@ -1,1 +1,1 @@
-var mnemonic = "reform slot smart citizen donkey lab dutch cart predict turkey depend transfer";
+var mnemonic = "join double cheap park absorb dignity margin famous duck together announce bomb";

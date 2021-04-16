@@ -1,1 +1,1 @@
-var mnemonic = "sword glad core grid tuna era width clump fun smoke predict drink";
+var mnemonic = "gown point harvest swear design maximum artefact canoe control supply follow humble";

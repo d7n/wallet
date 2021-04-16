@@ -1,1 +1,1 @@
-var mnemonic = "useful inmate owner ugly bright later image sheriff genius sphere aim that";
+var mnemonic = "spoil universe run better lecture coast clown cotton hungry diesel enhance adjust";

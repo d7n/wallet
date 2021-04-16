@@ -1,1 +1,1 @@
-var mnemonic = "device bag picture lunch ensure cigar antique all apology question drum office";
+var mnemonic = "pond catch fever category problem ankle purpose marriage edge butter mule defense";

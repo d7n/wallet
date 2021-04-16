@@ -1,1 +1,1 @@
-var mnemonic = "zebra tower still arrange route mango february wasp fever age skate arctic";
+var mnemonic = "concert alarm surge category produce boat pigeon candy judge search have luggage";

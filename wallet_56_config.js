@@ -1,1 +1,1 @@
-var mnemonic = "domain large tooth common furnace comfort hidden depend broken chuckle alter horse";
+var mnemonic = "clean heavy just captain scissors gate sunset betray soft sentence manual glide";

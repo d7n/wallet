@@ -1,1 +1,1 @@
-var mnemonic = "friend forum trust into rapid resist oppose envelope wrestle estate fury wise";
+var mnemonic = "habit position point topple nurse bread false that guess lift because rookie";

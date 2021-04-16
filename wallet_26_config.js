@@ -1,1 +1,1 @@
-var mnemonic = "betray fatal finger laundry target coil rocket approve original shine ability bubble";
+var mnemonic = "off harbor side oxygen almost noise super finish wasp local puppy camp";

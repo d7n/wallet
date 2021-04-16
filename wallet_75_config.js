@@ -1,1 +1,1 @@
-var mnemonic = "churn elephant cruel ring spy comfort frame coast drastic borrow unable lake";
+var mnemonic = "gown surround abandon slice review demise gap winter engage tank bright huge";

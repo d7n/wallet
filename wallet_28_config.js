@@ -1,1 +1,1 @@
-var mnemonic = "cement border frost round execute street correct pitch rely faith wire primary";
+var mnemonic = "settle keep ahead sell that board rate chunk reject main mushroom wrestle";

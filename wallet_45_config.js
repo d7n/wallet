@@ -1,1 +1,1 @@
-var mnemonic = "piano monster shift clay undo act scrub maximum loud borrow choice dinosaur";
+var mnemonic = "climb dice melody box bubble supreme hour sure rocket praise vintage spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal humor supreme program cloud spare render tribe push super quiz modify";
+var mnemonic = "right autumn powder imitate spoon balcony kite sure social butter shop social";

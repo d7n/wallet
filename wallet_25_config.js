@@ -1,1 +1,1 @@
-var mnemonic = "credit claim shoot hope few cement jacket expand giant clown bronze cheap";
+var mnemonic = "tent afford able east toilet wine cradle ritual floor eagle envelope first";

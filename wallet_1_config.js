@@ -1,1 +1,1 @@
-var mnemonic = "horror use bundle blanket pink east venture father total become actor boat";
+var mnemonic = "idea swing movie first peanut outdoor wide process feed swamp people rally";

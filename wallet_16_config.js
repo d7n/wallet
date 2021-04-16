@@ -1,1 +1,1 @@
-var mnemonic = "fat nurse ankle liquid desk river blur mimic castle pave filter beyond";
+var mnemonic = "alcohol sick private base grunt future dream crop old gorilla axis weird";

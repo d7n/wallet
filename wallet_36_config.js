@@ -1,1 +1,1 @@
-var mnemonic = "govern cargo power flush predict shell transfer pen express cash panther auto";
+var mnemonic = "case grape enter few chat various glove film divert brush brain diagram";
