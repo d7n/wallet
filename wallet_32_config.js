@@ -1,1 +1,1 @@
-var mnemonic = "space inherit proud wire people ticket survey metal roof swear property ginger";
+var mnemonic = "lobster tackle second logic traffic recycle close glove season around lottery steel";

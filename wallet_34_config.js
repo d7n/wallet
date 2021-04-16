@@ -1,1 +1,1 @@
-var mnemonic = "orange shove adapt topple dinosaur shuffle behave type company announce rebuild able";
+var mnemonic = "soul work water alcohol tiger physical anxiety like history vague side panther";

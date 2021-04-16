@@ -1,1 +1,1 @@
-var mnemonic = "rug legal smooth wing link west length gauge health shrug usual forest";
+var mnemonic = "club breeze cram hedgehog music kitten patient future weasel gate reunion price";

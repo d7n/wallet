@@ -1,1 +1,1 @@
-var mnemonic = "bronze craft escape rotate position tomorrow iron movie office cram key invite";
+var mnemonic = "lady broken horn diary code table artwork clean final gate ahead boost";

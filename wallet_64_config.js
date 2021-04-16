@@ -1,1 +1,1 @@
-var mnemonic = "spatial million rocket age fix monster inspire half rail clerk oven fantasy";
+var mnemonic = "cream cupboard smart champion worry retreat reason vehicle claim purity dignity mention";

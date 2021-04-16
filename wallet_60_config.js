@@ -1,1 +1,1 @@
-var mnemonic = "erase pelican adjust stem border prevent exile reveal balance waste rather decade";
+var mnemonic = "antenna cheese whip inch arrange short crane chef labor say mansion famous";

@@ -1,1 +1,1 @@
-var mnemonic = "solid devote clog thrive master few exotic royal glue security love tag";
+var mnemonic = "resemble key figure curious power voyage envelope display picnic document enter grid";

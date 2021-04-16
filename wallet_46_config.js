@@ -1,1 +1,1 @@
-var mnemonic = "sausage crack stamp dwarf deer will gospel oblige spot eager town earth";
+var mnemonic = "bridge mushroom liar wire essay between volcano face host north child reward";

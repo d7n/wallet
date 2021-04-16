@@ -1,1 +1,1 @@
-var mnemonic = "below material silly pink grunt they bubble deal swamp roast orbit marriage";
+var mnemonic = "quit result post tower material march before drum cement divorce visual file";

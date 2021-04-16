@@ -1,1 +1,1 @@
-var mnemonic = "alter depth artwork raccoon nest result west grace circle wreck magnet accident";
+var mnemonic = "pattern armed copy blouse method pilot rely ramp gesture month cactus mistake";

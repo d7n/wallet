@@ -1,1 +1,1 @@
-var mnemonic = "sentence safe rice nest idle great april bird midnight resource blur give";
+var mnemonic = "sample blind case rely dutch lucky such devote casino mechanic flag diet";

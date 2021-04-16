@@ -1,1 +1,1 @@
-var mnemonic = "moment shy film firm arctic nephew now effort laptop check uncover seat";
+var mnemonic = "gold trip crunch tornado robust else eyebrow blade inflict island orange brass";

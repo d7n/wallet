@@ -1,1 +1,1 @@
-var mnemonic = "invest raw twelve decorate business firm require digital average tribe talent deal";
+var mnemonic = "worry cargo mobile aunt copper electric office explain celery genuine quit saddle";

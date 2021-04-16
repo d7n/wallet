@@ -1,1 +1,1 @@
-var mnemonic = "copper coyote attitude ability normal sport indoor region crisp series seminar report";
+var mnemonic = "employ pear fatal lion shoulder trend tip jungle essay couple tomato fan";

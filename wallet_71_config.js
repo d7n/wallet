@@ -1,1 +1,1 @@
-var mnemonic = "panther camera material word poet arm sense switch cactus celery maid camp";
+var mnemonic = "spider either motor seek athlete family child error because usual nothing chalk";

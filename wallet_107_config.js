@@ -1,1 +1,1 @@
-var mnemonic = "blue team arctic broken inherit slender pilot piano decrease arrange unit number";
+var mnemonic = "sibling wear blame educate artwork brush portion utility piece icon ask fossil";

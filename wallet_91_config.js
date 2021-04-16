@@ -1,1 +1,1 @@
-var mnemonic = "dinner enlist lizard arrest twelve hint resist quick say guess vacuum inner";
+var mnemonic = "grant fever fan search juice cool before april museum escape drive police";

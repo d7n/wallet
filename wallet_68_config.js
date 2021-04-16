@@ -1,1 +1,1 @@
-var mnemonic = "garage defense rather ethics another indicate wing worry crowd estate pledge chase";
+var mnemonic = "cigar win onion lonely group pioneer aerobic dance property tattoo primary basic";

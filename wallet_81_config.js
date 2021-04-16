@@ -1,1 +1,1 @@
-var mnemonic = "inch heart project vast glimpse muscle accident lemon boss universe federal supply";
+var mnemonic = "foil grant lend mutual eight behind mass raise brown summer random shaft";

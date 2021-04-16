@@ -1,1 +1,1 @@
-var mnemonic = "grace thing hair team live source tumble junk congress machine slight twelve";
+var mnemonic = "unfair primary float local slab tuition vacuum recycle judge six trim green";

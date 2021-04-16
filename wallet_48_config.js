@@ -1,1 +1,1 @@
-var mnemonic = "drift junk damage armed matter orange woman page shrimp student luggage coast";
+var mnemonic = "flush envelope assist exile oblige noise such anchor vacant catalog obscure crime";

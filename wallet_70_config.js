@@ -1,1 +1,1 @@
-var mnemonic = "allow ribbon bomb supreme daring absurd guide mechanic agree resist moment barrel";
+var mnemonic = "exile okay chest kiwi giggle scan grief cover found diesel hint kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "coast jazz coach soup robust truly citizen judge machine turkey cliff cousin";
+var mnemonic = "edge theory menu song flight aware title network target index foot toy";

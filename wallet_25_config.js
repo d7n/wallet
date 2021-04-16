@@ -1,1 +1,1 @@
-var mnemonic = "laundry burst goat soap shiver can original video ignore surprise claw gun";
+var mnemonic = "icon face outdoor concert ladder castle remain oval borrow story orphan salon";

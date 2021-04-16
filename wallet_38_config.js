@@ -1,1 +1,1 @@
-var mnemonic = "seek top kite clinic agent bomb bitter usual injury saddle fish shoot";
+var mnemonic = "neck sugar mind boil erosion slender issue else electric oven youth wheel";

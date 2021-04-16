@@ -1,1 +1,1 @@
-var mnemonic = "edit pattern must essence inherit emerge stable label essay save monkey rubber";
+var mnemonic = "lizard doll just room beauty stage used analyst napkin burden limb excite";

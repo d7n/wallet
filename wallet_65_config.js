@@ -1,1 +1,1 @@
-var mnemonic = "steel exhibit tattoo shine sweet maple surface october brief second puzzle tackle";
+var mnemonic = "true crucial power upper cause require surge genuine behave gown security seminar";

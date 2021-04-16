@@ -1,1 +1,1 @@
-var mnemonic = "assist public cabin duty shock myself length throw rebuild rally price repeat";
+var mnemonic = "bike giggle tired talent shuffle usual viable shoulder tennis close copper alpha";

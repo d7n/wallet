@@ -1,1 +1,1 @@
-var mnemonic = "wage lamp bomb dove put over piano quote book give town local";
+var mnemonic = "kit festival acoustic sustain lecture trend vacant snake disorder anxiety mention wink";

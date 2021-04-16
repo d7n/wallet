@@ -1,1 +1,1 @@
-var mnemonic = "acquire save work cheap special dash whale unknown cloud metal visual scissors";
+var mnemonic = "lucky mesh used off genius topic car sentence enlist game cook recycle";

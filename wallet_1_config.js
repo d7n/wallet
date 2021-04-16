@@ -1,1 +1,1 @@
-var mnemonic = "supreme area fatal minute hen misery oval hour equal slice hello address";
+var mnemonic = "network skin spider dream tower pet ankle athlete path jaguar forward tattoo";

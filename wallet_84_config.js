@@ -1,1 +1,1 @@
-var mnemonic = "able magic mixed gallery garden hello lobster cart flight level actual during";
+var mnemonic = "crime echo keep move citizen style swarm combine purity bone share midnight";

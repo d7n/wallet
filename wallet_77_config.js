@@ -1,1 +1,1 @@
-var mnemonic = "attack banner awake sail price witness reduce truly spray scare priority submit";
+var mnemonic = "grow away sketch number abandon rookie hat subway law about toddler spice";

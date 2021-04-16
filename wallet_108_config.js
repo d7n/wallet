@@ -1,1 +1,1 @@
-var mnemonic = "excuse want wedding hold stand witness monitor depart exist borrow dumb head";
+var mnemonic = "vivid pluck pledge fire unusual speed brown rather bird library target core";

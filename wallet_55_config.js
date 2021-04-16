@@ -1,1 +1,1 @@
-var mnemonic = "helmet guide fringe force ice across clinic wife example foil host duty";
+var mnemonic = "vacuum sick twenty lonely bone solar birth drum chest deer abstract artefact";

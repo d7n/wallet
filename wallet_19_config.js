@@ -1,1 +1,1 @@
-var mnemonic = "reform make behave depart warrior inform that absent chase govern noise inject";
+var mnemonic = "rain clinic unique broccoli orchard gallery sample turn else any raccoon raccoon";

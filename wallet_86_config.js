@@ -1,1 +1,1 @@
-var mnemonic = "book female real finger worry tray manual like runway dream route course";
+var mnemonic = "burst emotion direct happy across trade exile violin submit enhance scrap basket";

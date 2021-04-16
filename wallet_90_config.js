@@ -1,1 +1,1 @@
-var mnemonic = "occur cradle october rubber search spoon orbit supply review imitate equal another";
+var mnemonic = "anger dentist system weird suit title spirit stay banner suspect master use";

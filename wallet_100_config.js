@@ -1,1 +1,1 @@
-var mnemonic = "ladder found kingdom peace wedding soup elevator rubber runway cave help fiction";
+var mnemonic = "flock response response cement twin hover bounce universe list fire smart robust";

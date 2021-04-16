@@ -1,1 +1,1 @@
-var mnemonic = "own give post injury endorse runway lake drama chase deputy business scare";
+var mnemonic = "friend essay panther caution narrow sick gaze argue again thrive wasp tomorrow";

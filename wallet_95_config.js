@@ -1,1 +1,1 @@
-var mnemonic = "repair elephant live away garlic essence puppy tide orchard flight lottery secret";
+var mnemonic = "ocean brother odor range anxiety cake science tiger tag brain victory stereo";

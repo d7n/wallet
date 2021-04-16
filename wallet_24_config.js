@@ -1,1 +1,1 @@
-var mnemonic = "asset keen twist winter ability input bridge path ginger letter explain buyer";
+var mnemonic = "lock globe health vessel rice merit prison fly enforce pupil asset eye";

@@ -1,1 +1,1 @@
-var mnemonic = "miss erode nominee ski mesh turtle maid volume income please angle order";
+var mnemonic = "glad empty lyrics degree dizzy brand hockey come subject castle family gloom";

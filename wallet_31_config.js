@@ -1,1 +1,1 @@
-var mnemonic = "engine endless misery obey mobile cannon shell ride planet truly manage welcome";
+var mnemonic = "onion chief obvious toss volume foot degree soft shadow sorry wreck grow";

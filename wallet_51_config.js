@@ -1,1 +1,1 @@
-var mnemonic = "vacant syrup wisdom endless amazing coil friend point walk today autumn fever";
+var mnemonic = "doctor filter goose gravity cable bullet ketchup celery type vast reflect pipe";

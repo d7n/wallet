@@ -1,1 +1,1 @@
-var mnemonic = "bargain artefact split during vanish wagon add genius august card age wrap";
+var mnemonic = "bonus song gain debris father ensure goddess weasel image apology strategy ring";

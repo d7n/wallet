@@ -1,1 +1,1 @@
-var mnemonic = "under hair club market hill humor loud enter fancy robust task outer";
+var mnemonic = "huge tourist aunt upon fault unusual genuine weekend during eyebrow report boy";

@@ -1,1 +1,1 @@
-var mnemonic = "science morning almost owner negative tribe noise tissue jar disagree fog exhibit";
+var mnemonic = "ceiling length human boil shallow second penalty layer supreme fiscal weather sport";

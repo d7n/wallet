@@ -1,1 +1,1 @@
-var mnemonic = "tone poverty mistake melt that liquid marine stock shop sudden middle year";
+var mnemonic = "minor lounge damp certain home deputy empty umbrella amazing among kangaroo tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "trade purity crop usage alter boat wisdom father ordinary use shine when";
+var mnemonic = "friend kidney goose palm marine mistake achieve outer crucial slice vehicle eyebrow";

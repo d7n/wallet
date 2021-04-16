@@ -1,1 +1,1 @@
-var mnemonic = "inner movie critic plastic explain mesh salute nothing kingdom plastic genius arrange";
+var mnemonic = "embrace scout rigid motion ivory pave wolf room gift fluid laundry work";

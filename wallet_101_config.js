@@ -1,1 +1,1 @@
-var mnemonic = "resist tray cry biology arena toast square critic know canyon describe chunk";
+var mnemonic = "eternal sad mandate ladder hurry race clog wasp night plate grow tool";

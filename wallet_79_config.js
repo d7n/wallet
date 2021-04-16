@@ -1,1 +1,1 @@
-var mnemonic = "torch motor swear choose canyon father remove start creek galaxy shift marine";
+var mnemonic = "indoor wool laundry machine summer company deposit hedgehog pioneer foil deliver always";

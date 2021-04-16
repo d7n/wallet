@@ -1,1 +1,1 @@
-var mnemonic = "solar reveal baby monitor gadget margin only abstract extend marine eight peanut";
+var mnemonic = "spot cart awkward bamboo adjust clay woman try apart spring spring exercise";

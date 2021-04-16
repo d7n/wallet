@@ -1,1 +1,1 @@
-var mnemonic = "symbol private stereo speed group train gesture crash gym degree beauty like";
+var mnemonic = "snow mango shine edge upgrade pledge evoke useful kitchen prefer cute veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub drill purchase juice lab spy thing already prefer whisper type police";
+var mnemonic = "fuel jeans orange oval sense label cream gorilla bright powder initial put";

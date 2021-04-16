@@ -1,1 +1,1 @@
-var mnemonic = "arena grain exact submit fetch fringe winner ride detect liar coast ball";
+var mnemonic = "wheat maximum tornado cave cradle master quote unaware dinner hero minute basic";

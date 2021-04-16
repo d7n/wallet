@@ -1,1 +1,1 @@
-var mnemonic = "entire check diagram credit valid breeze immense pass walk heart key wage";
+var mnemonic = "focus south oyster blade neglect mosquito gentle fetch cart latin ski agent";

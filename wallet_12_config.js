@@ -1,1 +1,1 @@
-var mnemonic = "nut couch debris panic convince garlic life term walnut uncover unfold frog";
+var mnemonic = "length pepper shallow budget stable music round suffer purpose drill distance blouse";

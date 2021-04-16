@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon glory major hero behind tide young heart clinic slab vanish swift";
+var mnemonic = "near end curve tobacco attitude thing better mercy hidden edge begin anger";

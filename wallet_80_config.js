@@ -1,1 +1,1 @@
-var mnemonic = "order slush walk vessel never under slow wife eyebrow captain twin device";
+var mnemonic = "ridge heavy senior before penalty hand alarm hospital process van key what";

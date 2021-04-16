@@ -1,1 +1,1 @@
-var mnemonic = "say nephew echo success tenant fury edit obvious narrow sudden economy hockey";
+var mnemonic = "modify tell clip lounge verb member dentist satoshi junior unlock wait what";

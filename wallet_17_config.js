@@ -1,1 +1,1 @@
-var mnemonic = "burst defense pudding cry cancel salmon frozen furnace idea flavor butter despair";
+var mnemonic = "scorpion rather essence soon dress unveil artwork census soul tourist uncover affair";

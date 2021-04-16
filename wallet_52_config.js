@@ -1,1 +1,1 @@
-var mnemonic = "mutual course direct wise long salon clog reason lounge match captain cake";
+var mnemonic = "ecology cable display clump stand wish fiber husband expand theme tennis lab";

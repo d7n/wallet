@@ -1,1 +1,1 @@
-var mnemonic = "square region motor skate buddy faculty hint sail gauge depend pepper fix";
+var mnemonic = "penalty afford fetch carry nominee sight wage master dutch chat business fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "account bar dawn argue maze grass recipe pelican disagree album vital upon";
+var mnemonic = "fortune mean erase movie melody buddy defense goat clump business sorry glory";

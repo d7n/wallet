@@ -1,1 +1,1 @@
-var mnemonic = "road raccoon suffer brisk prize praise viable usage climb true code crystal";
+var mnemonic = "relax air artwork vehicle song sing arctic resource burger barrel chunk tunnel";

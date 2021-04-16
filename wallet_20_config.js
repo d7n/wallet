@@ -1,1 +1,1 @@
-var mnemonic = "cement flame require rain slot drift hockey release tuition warrior gun head";
+var mnemonic = "find snow swap isolate inspire voice tape negative hobby uncover snap pencil";

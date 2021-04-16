@@ -1,1 +1,1 @@
-var mnemonic = "festival disorder coyote van emotion wink exotic later tilt copper exhaust because";
+var mnemonic = "long cricket luxury glue gauge carry sketch humor cover science lawn robot";

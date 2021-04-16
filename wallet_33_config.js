@@ -1,1 +1,1 @@
-var mnemonic = "above avocado slice matrix flower radio fiscal local gloom traffic small juice";
+var mnemonic = "kid confirm much seven proof large fiscal swamp actress dress nothing person";

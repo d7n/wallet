@@ -1,1 +1,1 @@
-var mnemonic = "matrix blade elephant bounce capital habit chicken sugar sample sell piano share";
+var mnemonic = "away leopard atom library possible amused street hill skate ritual rough teach";

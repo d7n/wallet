@@ -1,1 +1,1 @@
-var mnemonic = "ticket tool camp forest scheme hover keen various fashion found sphere sugar";
+var mnemonic = "reunion leaf parade camera tool advance air torch manage brown search detail";

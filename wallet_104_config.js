@@ -1,1 +1,1 @@
-var mnemonic = "cradle thunder prefer kangaroo false scatter salon yard circle silver army fever";
+var mnemonic = "silk option glass deal mother toward problem later calm element front strong";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow surface link warm notice desert museum caution chief fatigue barrel fatal";
+var mnemonic = "amused story system submit cancel also surface inspire heavy thunder fiscal grunt";

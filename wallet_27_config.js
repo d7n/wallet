@@ -1,1 +1,1 @@
-var mnemonic = "twelve culture addict floor above upgrade drink jungle piano truly age hurt";
+var mnemonic = "tiger tennis merry talk check swallow menu tail weather task actor earn";

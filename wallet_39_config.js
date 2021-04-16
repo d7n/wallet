@@ -1,1 +1,1 @@
-var mnemonic = "chronic exist evoke tuna jelly left animal crouch upset comic screen logic";
+var mnemonic = "sausage know super volcano inhale series bubble pill gift yard myself since";

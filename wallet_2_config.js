@@ -1,1 +1,1 @@
-var mnemonic = "bitter index ill spatial worth boy ecology notable casual grunt verify crystal";
+var mnemonic = "bread student weapon vendor section fork cat sibling jealous scout volcano drip";

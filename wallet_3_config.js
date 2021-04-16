@@ -1,1 +1,1 @@
-var mnemonic = "enlist fantasy bind danger brother plunge reopen slush common will six canyon";
+var mnemonic = "outside thunder entire dream fabric sock grit hurdle stem cloud board weapon";

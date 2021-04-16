@@ -1,1 +1,1 @@
-var mnemonic = "focus cupboard robust scatter romance cook august rude sorry uncover clay pupil";
+var mnemonic = "conduct mimic office long fix miracle flavor kiss pledge genuine know can";

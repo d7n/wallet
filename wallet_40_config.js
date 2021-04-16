@@ -1,1 +1,1 @@
-var mnemonic = "link scorpion miss erase oil yard album burger obtain capable sustain cloud";
+var mnemonic = "liquid climb upset position frozen volume decrease above smart cinnamon input use";

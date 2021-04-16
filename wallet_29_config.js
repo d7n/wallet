@@ -1,1 +1,1 @@
-var mnemonic = "casual gauge merry prepare memory width hope will rookie icon enable narrow";
+var mnemonic = "best ancient trouble happy loud canoe orange eagle mystery bird sell labor";

@@ -1,1 +1,1 @@
-var mnemonic = "problem vote fault valve fence guitar cool planet tape merry clip squeeze";
+var mnemonic = "space leave burger method divert sister genuine enroll medal penalty horse survey";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle reward gown year shy kangaroo board above inform barely offer marine";
+var mnemonic = "box coral illness blood auto turn blossom next island vessel above marriage";

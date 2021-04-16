@@ -1,1 +1,1 @@
-var mnemonic = "image frost puppy frost melt maximum letter village pave unaware chaos garment";
+var mnemonic = "toast silver solve fitness photo panda skull crouch gloom possible bag media";

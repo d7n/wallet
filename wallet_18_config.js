@@ -1,1 +1,1 @@
-var mnemonic = "film friend beauty project reduce noodle myth movie dog pulse nurse pistol";
+var mnemonic = "neither arrow curve adapt heart short hazard flee chronic vicious enact surround";

@@ -1,1 +1,1 @@
-var mnemonic = "wild zebra wasp screen upon still denial shrug parent oxygen glass pulse";
+var mnemonic = "between odor fit spare company catch violin cheese fade large fashion cruel";

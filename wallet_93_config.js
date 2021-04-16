@@ -1,1 +1,1 @@
-var mnemonic = "finger repeat appear upset planet unaware crucial common field genuine pass crouch";
+var mnemonic = "often brief faculty black iron sock element degree interest sheriff pilot rough";

@@ -1,1 +1,1 @@
-var mnemonic = "style space wrist couch pond mule wheat notable sound atom dinner flock";
+var mnemonic = "pitch public loop deputy act problem clog distance quality urban flower urban";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy aisle soldier hammer leave inner mail rough faith clock they spot";
+var mnemonic = "escape kitten library rib solution pulp obey sniff inflict grow make sand";

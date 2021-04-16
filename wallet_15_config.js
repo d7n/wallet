@@ -1,1 +1,1 @@
-var mnemonic = "balance state congress column island neck grain yellow universe execute glory convince";
+var mnemonic = "sock rent blade teach outdoor trouble desk baby parade visit adult behind";
