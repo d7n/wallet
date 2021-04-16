@@ -1,1 +1,1 @@
-var mnemonic = "banner general innocent visual patch enough tank foot taxi radar artefact flight";
+var mnemonic = "drift eternal ramp donate bike swarm scrap east dove genre build avoid";

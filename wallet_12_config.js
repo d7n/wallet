@@ -1,1 +1,1 @@
-var mnemonic = "cry approve fragile win emerge smile upper unknown runway crime volume photo";
+var mnemonic = "jelly among stand express method occur lunch exercise agent whisper train symptom";

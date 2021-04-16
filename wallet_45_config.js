@@ -1,1 +1,1 @@
-var mnemonic = "choice consider piece gospel pole credit wrong alien simple enjoy almost cereal";
+var mnemonic = "piano monster shift clay undo act scrub maximum loud borrow choice dinosaur";

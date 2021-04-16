@@ -1,1 +1,1 @@
-var mnemonic = "alcohol conduct master element ask endless sock axis story govern balance marine";
+var mnemonic = "snap snap dash pencil person cloud scout rain garden room office armor";

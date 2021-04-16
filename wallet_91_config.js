@@ -1,1 +1,1 @@
-var mnemonic = "cloud envelope scan absurd bullet equal original awkward tooth better dress always";
+var mnemonic = "high iron have settle hammer lake arch cable pelican assault express march";

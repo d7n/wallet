@@ -1,1 +1,1 @@
-var mnemonic = "enjoy zero capital senior faint key gate alone exchange alarm rain vacant";
+var mnemonic = "hidden resource caution piece plate issue pilot morning security glory wisdom illegal";

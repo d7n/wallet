@@ -1,1 +1,1 @@
-var mnemonic = "agent claw cart debris weekend civil beyond reveal song wing demise stage";
+var mnemonic = "device bag picture lunch ensure cigar antique all apology question drum office";

@@ -1,1 +1,1 @@
-var mnemonic = "meat faint brother strong hair park code suggest nest firm sunny pull";
+var mnemonic = "ensure monkey embark hybrid south aunt prepare negative parrot rigid clap drama";

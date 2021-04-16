@@ -1,1 +1,1 @@
-var mnemonic = "slogan track flight universe alien future keen stove amount remove napkin fit";
+var mnemonic = "square miracle hunt city scatter ski use van voyage snap lucky trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "swear record brick report install day regret coffee spend pigeon inch forest";
+var mnemonic = "zebra tower still arrange route mango february wasp fever age skate arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive fence amused version bunker section medal act stove sustain wrestle practice";
+var mnemonic = "culture problem immense embark monkey practice bacon creek wasp hill lemon social";

@@ -1,1 +1,1 @@
-var mnemonic = "undo spot music guilt gift glimpse fantasy never bone label gold royal";
+var mnemonic = "best resource discover shoot link boss skin ridge oppose tennis spirit sadness";

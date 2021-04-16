@@ -1,1 +1,1 @@
-var mnemonic = "actress volume kid total fork photo sustain auction age tonight neutral system";
+var mnemonic = "photo cannon solid skate issue chase truth evil fault tree rely aerobic";

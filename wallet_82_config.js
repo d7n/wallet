@@ -1,1 +1,1 @@
-var mnemonic = "waste recall autumn design dance advance parent gain reward pink rug nest";
+var mnemonic = "arrow define park reject foil cream move weasel tornado spirit useless syrup";

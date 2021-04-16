@@ -1,1 +1,1 @@
-var mnemonic = "unusual foil faint ridge sunny know dirt expire cousin lonely hundred basic";
+var mnemonic = "stadium immune lunch onion van enrich swamp hero hint bench need veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed unaware energy drive crush guilt bargain device salt maid smart copy";
+var mnemonic = "ribbon coral renew mango icon hunt away cry orbit certain smile demand";

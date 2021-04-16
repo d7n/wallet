@@ -1,1 +1,1 @@
-var mnemonic = "pulse day divide unaware cream increase view certain hero relief live undo";
+var mnemonic = "friend forum trust into rapid resist oppose envelope wrestle estate fury wise";

@@ -1,1 +1,1 @@
-var mnemonic = "marine series furnace eternal easily force sea broccoli salon chef bottom imitate";
+var mnemonic = "garden leaf shy retreat crystal want begin action lyrics jacket finish midnight";

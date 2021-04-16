@@ -1,1 +1,1 @@
-var mnemonic = "decade brick canal master slab inspire vacant celery tunnel honey come machine";
+var mnemonic = "horror use bundle blanket pink east venture father total become actor boat";

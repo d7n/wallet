@@ -1,1 +1,1 @@
-var mnemonic = "meat humble melody oyster polar mind gloom silly mansion wait mystery noise";
+var mnemonic = "capital thought leader transfer two bike sudden pig modify onion man update";

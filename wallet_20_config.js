@@ -1,1 +1,1 @@
-var mnemonic = "swear problem asthma pave toast alter fantasy trust uniform tortoise express meat";
+var mnemonic = "nominee include there foam steak gallery grain sound few capable gaze bounce";

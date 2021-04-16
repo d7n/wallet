@@ -1,1 +1,1 @@
-var mnemonic = "toe tomorrow door evolve disease gate silent cave deliver fat ignore movie";
+var mnemonic = "same scrap suffer giraffe vital six random foot skate creek orchard betray";

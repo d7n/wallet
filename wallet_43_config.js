@@ -1,1 +1,1 @@
-var mnemonic = "grief evil will blouse club sweet limb govern doll make stable raccoon";
+var mnemonic = "try situate frost lounge lounge range hamster buzz boring promote fruit brush";

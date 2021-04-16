@@ -1,1 +1,1 @@
-var mnemonic = "bacon feel produce witness parade reform can album veteran second beauty adjust";
+var mnemonic = "wheel estate dad humble target ready law combine pilot produce mammal shoe";

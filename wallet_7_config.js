@@ -1,1 +1,1 @@
-var mnemonic = "casual genre venue claw output carpet dolphin mercy celery swamp pigeon soul";
+var mnemonic = "enable wire permit ginger royal miracle end normal ozone dance equal tail";

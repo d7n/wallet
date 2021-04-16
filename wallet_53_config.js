@@ -1,1 +1,1 @@
-var mnemonic = "soon simple pistol radar pen attract open salad claim bread rose flee";
+var mnemonic = "total hammer demise permit muffin strike health grass tunnel inquiry forest debris";

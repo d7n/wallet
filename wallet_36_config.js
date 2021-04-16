@@ -1,1 +1,1 @@
-var mnemonic = "swarm wagon actress artefact tribe hire tackle execute good afford chronic express";
+var mnemonic = "govern cargo power flush predict shell transfer pen express cash panther auto";

@@ -1,1 +1,1 @@
-var mnemonic = "draw pudding like vapor mad thunder slow castle just pen capable person";
+var mnemonic = "pelican now side eternal labor flush embark machine interest orange permit curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "twin luggage defense napkin moral coast pause false swamp chunk truly play";
+var mnemonic = "wife drama rifle survey few news wolf distance monitor sibling opera ordinary";

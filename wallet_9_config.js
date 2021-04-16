@@ -1,1 +1,1 @@
-var mnemonic = "club village warm swear pond home vast battle priority zone index umbrella";
+var mnemonic = "crunch miss dumb great unusual genuine script amused zoo burst attitude elder";

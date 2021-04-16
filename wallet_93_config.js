@@ -1,1 +1,1 @@
-var mnemonic = "police luxury shine warrior birth position select want symbol toy egg express";
+var mnemonic = "safe twenty dumb peanut start remember calm sand cute ranch clean during";

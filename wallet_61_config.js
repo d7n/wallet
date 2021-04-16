@@ -1,1 +1,1 @@
-var mnemonic = "zero busy point nasty ridge lens cherry among elder exile situate math";
+var mnemonic = "reveal humor supreme program cloud spare render tribe push super quiz modify";

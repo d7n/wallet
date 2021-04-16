@@ -1,1 +1,1 @@
-var mnemonic = "torch forward black left census sample junior clump idle deliver refuse tennis";
+var mnemonic = "barrel truly sponsor dry ridge eye buzz disease visual canal thought print";

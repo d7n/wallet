@@ -1,1 +1,1 @@
-var mnemonic = "club liar riot figure style chair possible list used film year core";
+var mnemonic = "find drift social foot manage quick orphan sun catch feel chef gun";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil series manual office tuna aim acquire carpet permit elegant hotel wide";
+var mnemonic = "assist genuine road range lottery paper melody unaware blouse song long horror";

@@ -1,1 +1,1 @@
-var mnemonic = "black aisle drama creek misery tomorrow bridge material energy clean voyage echo";
+var mnemonic = "alpha bunker weekend segment pact raise dove permit step fault hub device";

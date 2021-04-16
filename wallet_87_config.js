@@ -1,1 +1,1 @@
-var mnemonic = "section stone harvest ginger easily roof face useful almost harsh unhappy west";
+var mnemonic = "project awesome jar mimic such rely trap labor front middle list mom";

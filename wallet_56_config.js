@@ -1,1 +1,1 @@
-var mnemonic = "old merry subject exact panel artist involve canoe giraffe soda jump sound";
+var mnemonic = "domain large tooth common furnace comfort hidden depend broken chuckle alter horse";

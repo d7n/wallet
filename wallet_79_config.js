@@ -1,1 +1,1 @@
-var mnemonic = "acid nasty cool void chapter cannon duty magic fashion skill column twenty";
+var mnemonic = "useful inmate owner ugly bright later image sheriff genius sphere aim that";

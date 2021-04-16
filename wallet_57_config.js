@@ -1,1 +1,1 @@
-var mnemonic = "tenant lyrics fever deal skirt property income chaos swing cluster view voyage";
+var mnemonic = "unusual fitness liberty oval auto occur twelve soup hundred junior soft evoke";

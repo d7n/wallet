@@ -1,1 +1,1 @@
-var mnemonic = "kit arm any vehicle fine throw shuffle tumble patch clever report cool";
+var mnemonic = "top power apple fault dawn supply trial misery cruel velvet amateur mask";

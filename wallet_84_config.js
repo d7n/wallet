@@ -1,1 +1,1 @@
-var mnemonic = "balance change ability smile zoo across gasp cram luxury tornado broken humble";
+var mnemonic = "state usual bracket various title move lens panel wish caution grain frost";

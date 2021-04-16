@@ -1,1 +1,1 @@
-var mnemonic = "prepare stable name seek angry canvas please maximum slight illness key baby";
+var mnemonic = "ticket card off uncover maple lamp hurdle snow blade left combine toss";

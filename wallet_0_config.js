@@ -1,1 +1,1 @@
-var mnemonic = "science claw three crack audit guard vicious collect pact crane quality razor";
+var mnemonic = "hybrid census obscure evidence detail voice street hunt more paddle distance dad";

@@ -1,1 +1,1 @@
-var mnemonic = "hill else custom poem rubber vote neutral enact critic drop firm ahead";
+var mnemonic = "immune spoil hand bus neck front cake fringe palace bright observe bus";

@@ -1,1 +1,1 @@
-var mnemonic = "latin proof brother fit attack basic know attract risk glove maid blouse";
+var mnemonic = "clinic ill tomato february bounce leaf usage stone course obscure vehicle memory";

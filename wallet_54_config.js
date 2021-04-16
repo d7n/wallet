@@ -1,1 +1,1 @@
-var mnemonic = "clump amateur crater rate tonight loyal roast coffee idle twist still pact";
+var mnemonic = "they horse desk audit prosper era elbow also method camera genius visa";

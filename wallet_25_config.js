@@ -1,1 +1,1 @@
-var mnemonic = "fiction spring judge unit emerge fold parrot female salute tide vague oak";
+var mnemonic = "credit claim shoot hope few cement jacket expand giant clown bronze cheap";

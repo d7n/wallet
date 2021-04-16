@@ -1,1 +1,1 @@
-var mnemonic = "neutral rookie offer device property either alert famous sunny adapt phone kingdom";
+var mnemonic = "thrive okay maple body clock regret below domain motion merit credit wedding";

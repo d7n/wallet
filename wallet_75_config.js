@@ -1,1 +1,1 @@
-var mnemonic = "prison laugh cattle half fine estate bracket still dinosaur tiger rose jacket";
+var mnemonic = "churn elephant cruel ring spy comfort frame coast drastic borrow unable lake";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern danger twice save already grief body rural cable rule grunt worth";
+var mnemonic = "kiwi bounce develop business kidney chat address jazz farm announce cram split";

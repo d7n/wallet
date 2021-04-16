@@ -1,1 +1,1 @@
-var mnemonic = "convince initial arrest female blood absorb empower minimum sure north vehicle model";
+var mnemonic = "utility fury brother hunt detail bunker involve kiss old auto century car";

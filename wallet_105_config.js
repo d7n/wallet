@@ -1,1 +1,1 @@
-var mnemonic = "click spice sand guide yard wave bulb globe fence actual phone purchase";
+var mnemonic = "kidney smoke arrest predict umbrella between clutch inquiry learn elevator nurse fire";

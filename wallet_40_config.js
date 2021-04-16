@@ -1,1 +1,1 @@
-var mnemonic = "bless force unknown basket mom catalog track almost nut easily danger atom";
+var mnemonic = "casual field secret reduce hint core increase stove logic verify polar expose";

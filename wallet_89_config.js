@@ -1,1 +1,1 @@
-var mnemonic = "donate reduce someone route pledge cousin pole hole prevent upgrade one below";
+var mnemonic = "abuse provide feature crash radar meat dust cargo panic misery profit twist";

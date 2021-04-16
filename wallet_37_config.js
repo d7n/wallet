@@ -1,1 +1,1 @@
-var mnemonic = "this educate limit bomb season turn sell spike stamp arrest fury canal";
+var mnemonic = "fiber plate divide issue ring repeat blanket same report process street virtual";

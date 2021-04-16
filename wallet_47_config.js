@@ -1,1 +1,1 @@
-var mnemonic = "cotton jaguar flock awesome strike yellow always remove wrap ugly south smart";
+var mnemonic = "garbage penalty glory mammal rate snack sibling long return disagree bench flock";

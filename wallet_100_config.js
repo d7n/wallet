@@ -1,1 +1,1 @@
-var mnemonic = "oppose hotel sauce cover toilet motion cement improve display wrong young soldier";
+var mnemonic = "reform slot smart citizen donkey lab dutch cart predict turkey depend transfer";

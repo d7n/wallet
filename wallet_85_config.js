@@ -1,1 +1,1 @@
-var mnemonic = "hockey super apology visit reflect pottery kick wish near warfare explain small";
+var mnemonic = "recycle digital baby you flower tortoise rookie melt cake shove interest cage";

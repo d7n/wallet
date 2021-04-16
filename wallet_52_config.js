@@ -1,1 +1,1 @@
-var mnemonic = "lawn public tobacco offer decade soup prepare taxi viable habit tell electric";
+var mnemonic = "twice broom put violin hen shadow penalty claw sudden over error plug";

@@ -1,1 +1,1 @@
-var mnemonic = "spread elephant kit tuna man weekend liberty arm prison weapon coral empty";
+var mnemonic = "focus jewel vacuum cancel crime exchange spawn cloth pass immense boring cruise";

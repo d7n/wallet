@@ -1,1 +1,1 @@
-var mnemonic = "garment exhaust leopard gloom cheese sunset render local legal bicycle human volume";
+var mnemonic = "swallow blast deal next negative worry welcome bonus buddy cube sphere gas";

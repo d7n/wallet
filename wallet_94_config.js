@@ -1,1 +1,1 @@
-var mnemonic = "become vivid say enact logic valid width file brief price rail clip";
+var mnemonic = "siege exclude boy people asset later claim lunar sound size tackle skin";

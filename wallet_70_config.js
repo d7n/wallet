@@ -1,1 +1,1 @@
-var mnemonic = "account couple gold beauty cage nothing else turtle blush wisdom guitar hair";
+var mnemonic = "sword glad core grid tuna era width clump fun smoke predict drink";

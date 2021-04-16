@@ -1,1 +1,1 @@
-var mnemonic = "paddle tomorrow easily tool flush kidney input unique eyebrow festival lend oil";
+var mnemonic = "thing pluck young dismiss horror suffer chalk nut hobby version advice must";

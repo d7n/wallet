@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit plastic globe piece indicate taxi private deputy scare eager cave certain";
+var mnemonic = "funny planet term pipe alpha vague tunnel isolate crack loan kind train";

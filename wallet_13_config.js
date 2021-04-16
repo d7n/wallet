@@ -1,1 +1,1 @@
-var mnemonic = "zero trouble orchard unhappy head woman battle feature buyer broccoli symptom mention";
+var mnemonic = "taste arrange cycle athlete struggle vintage tone acoustic dream rifle super embody";

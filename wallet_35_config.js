@@ -1,1 +1,1 @@
-var mnemonic = "step clever myself steel muffin black sock thunder summer army chat foil";
+var mnemonic = "fever shield across flat follow penalty police hover spy section carbon coach";

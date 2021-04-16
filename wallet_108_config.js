@@ -1,1 +1,1 @@
-var mnemonic = "craft vague spoil world quit wool rural promote squeeze rose visa sausage";
+var mnemonic = "elite one code inflict anxiety hole penalty stairs ankle mixture must car";

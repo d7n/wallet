@@ -1,1 +1,1 @@
-var mnemonic = "upper report blue lens budget note taxi fade clerk book cinnamon human";
+var mnemonic = "betray fatal finger laundry target coil rocket approve original shine ability bubble";

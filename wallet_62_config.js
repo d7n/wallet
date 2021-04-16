@@ -1,1 +1,1 @@
-var mnemonic = "cruise race shuffle unknown trap snow sort present receive kid carpet grocery";
+var mnemonic = "slender inhale dentist desk taste jump picture provide suggest maid fade property";

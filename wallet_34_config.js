@@ -1,1 +1,1 @@
-var mnemonic = "split hood dry nut rate teach nature garage eight nation budget write";
+var mnemonic = "grunt melt eager bid ethics chronic merge moment discover dutch oval since";

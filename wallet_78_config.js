@@ -1,1 +1,1 @@
-var mnemonic = "dragon day fringe earn easy tribe use thunder they author chef question";
+var mnemonic = "erode write coil minute pond monkey jealous beauty salmon torch kingdom struggle";

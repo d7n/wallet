@@ -1,1 +1,1 @@
-var mnemonic = "retire lonely wife echo village flock end coconut burden filter click broom";
+var mnemonic = "pioneer like craft valid open neglect raccoon clap fatigue rely shadow pole";

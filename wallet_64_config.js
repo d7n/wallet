@@ -1,1 +1,1 @@
-var mnemonic = "field glass little pelican kid build lens funny century rail apart sock";
+var mnemonic = "draw spice pulse aisle drastic strike olympic toast script repeat basket gate";

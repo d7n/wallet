@@ -1,1 +1,1 @@
-var mnemonic = "girl pole argue biology sauce climb puppy gap doll silver glare guide";
+var mnemonic = "holiday dance sort language gospel business pill eye fault decade duty athlete";

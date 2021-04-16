@@ -1,1 +1,1 @@
-var mnemonic = "connect master large sustain once life accuse hard option fall mind assume";
+var mnemonic = "matrix now rate job pause enrich other salon until enroll obvious avoid";

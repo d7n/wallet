@@ -1,1 +1,1 @@
-var mnemonic = "arrive absorb laundry another riot concert monitor issue virtual subway flavor junior";
+var mnemonic = "basket length space noble nephew lazy street season keen viable act alert";

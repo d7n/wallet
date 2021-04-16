@@ -1,1 +1,1 @@
-var mnemonic = "target all inform kiwi above list town uncle diary engine arrest rhythm";
+var mnemonic = "spare media render stomach effort uncle warfare horn brick circle nature end";

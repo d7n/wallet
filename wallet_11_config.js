@@ -1,1 +1,1 @@
-var mnemonic = "include arrest girl mixed trial idea amazing drift pet black make earth";
+var mnemonic = "artist raw suffer type plastic put pelican jar asthma claim shiver travel";

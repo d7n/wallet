@@ -1,1 +1,1 @@
-var mnemonic = "cigar blame frequent denial slogan cousin garage velvet include already rather base";
+var mnemonic = "guilt country castle crew series police cup fantasy mansion among grow shop";

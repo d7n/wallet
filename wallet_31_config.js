@@ -1,1 +1,1 @@
-var mnemonic = "mirror conduct moon summer stuff shaft river fitness bachelor brief settle oak";
+var mnemonic = "dirt cradle blame gift general tuna assault stereo clog alley staff inject";

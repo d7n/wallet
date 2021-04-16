@@ -1,1 +1,1 @@
-var mnemonic = "lumber miss cabin sword combine raw disease option onion dinner member keep";
+var mnemonic = "rude extra fog dry aspect once special demand demand broccoli symbol venue";

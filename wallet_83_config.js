@@ -1,1 +1,1 @@
-var mnemonic = "soft key room flower dynamic kit charge spike grass leader april corn";
+var mnemonic = "gift liquid account battle awake mango winter film repair toss illness rail";

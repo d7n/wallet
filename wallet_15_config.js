@@ -1,1 +1,1 @@
-var mnemonic = "hole fade artist quarter annual double submit gesture barely concert yellow isolate";
+var mnemonic = "donate lady best acquire select earth abuse guess woman wave dice force";

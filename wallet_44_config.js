@@ -1,1 +1,1 @@
-var mnemonic = "where entry coral circle absurd scrub screen egg force salute face toss";
+var mnemonic = "monster bonus hair pitch walk risk cannon scrub curve grocery window always";

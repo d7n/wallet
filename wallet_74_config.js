@@ -1,1 +1,1 @@
-var mnemonic = "surprise mad neck old dilemma spike trash style evil orient camp goddess";
+var mnemonic = "rent fog path ranch body quality common weekend soap dwarf turn danger";

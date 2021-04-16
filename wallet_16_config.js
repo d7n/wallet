@@ -1,1 +1,1 @@
-var mnemonic = "salmon diesel hockey pause blood cabin olympic rural winner wild cake diary";
+var mnemonic = "fat nurse ankle liquid desk river blur mimic castle pave filter beyond";

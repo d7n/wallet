@@ -1,1 +1,1 @@
-var mnemonic = "draw stem priority balance hundred tuna mango warfare nest round actor peanut";
+var mnemonic = "exile dignity test grass make patch interest raven oblige winter carbon lobster";

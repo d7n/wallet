@@ -1,1 +1,1 @@
-var mnemonic = "speak bachelor tiny silly assume bitter entry globe dizzy mule fluid elite";
+var mnemonic = "harsh sleep end bonus oil light miracle survey funny paper ladder cart";

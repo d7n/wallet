@@ -1,1 +1,1 @@
-var mnemonic = "trash away must hair couple pumpkin base shiver faith advice lady owner";
+var mnemonic = "blame online busy face pink rubber broken bargain mosquito nest breeze repeat";

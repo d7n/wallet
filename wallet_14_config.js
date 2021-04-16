@@ -1,1 +1,1 @@
-var mnemonic = "cabin armor camp pottery choose february high tent visit remind casino cliff";
+var mnemonic = "helmet pistol add embark refuse again twelve math master staff minor whip";

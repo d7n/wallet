@@ -1,1 +1,1 @@
-var mnemonic = "arm glimpse critic moon motor organ guide multiply wear obscure coyote volcano";
+var mnemonic = "crush silk buddy base hundred grow range search olympic strong raise mixture";
