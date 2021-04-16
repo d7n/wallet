@@ -1,1 +1,1 @@
-var mnemonic = "phrase bar say flower snake couch display battle vital plastic age pen";
+var mnemonic = "imitate current already ladder toe acoustic phone ride supply quarter cup genuine";

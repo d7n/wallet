@@ -1,1 +1,1 @@
-var mnemonic = "gun wage meadow barrel electric other deal poverty seed panel inspire such";
+var mnemonic = "snow trumpet lecture art weapon silent market accident present weird quote vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "recall ordinary slight velvet dinosaur one fury stereo lion dust hip rural";
+var mnemonic = "crush denial you cabin control gather typical then inherit easily eagle tonight";

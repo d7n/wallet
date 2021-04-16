@@ -1,1 +1,1 @@
-var mnemonic = "mouse route exotic layer document huge reunion column judge group pyramid gospel";
+var mnemonic = "bleak ankle like fish sick either horror bulb pond old rice already";

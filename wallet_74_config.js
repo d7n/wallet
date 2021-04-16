@@ -1,1 +1,1 @@
-var mnemonic = "famous casino concert hand upper reopen junk cereal segment live surprise bonus";
+var mnemonic = "patient inmate erupt iron bacon drip switch vote radio often dance because";

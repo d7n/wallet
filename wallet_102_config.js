@@ -1,1 +1,1 @@
-var mnemonic = "remember palace cushion holiday gym divert auction life position grass around second";
+var mnemonic = "ready breeze false impose grow crawl visual try choice stomach pelican seven";

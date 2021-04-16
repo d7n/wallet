@@ -1,1 +1,1 @@
-var mnemonic = "trade adult chalk sponsor fantasy pottery utility tribe toss final color display";
+var mnemonic = "often powder sleep pudding human captain nut hat vague flag narrow canyon";

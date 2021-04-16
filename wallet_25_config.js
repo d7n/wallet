@@ -1,1 +1,1 @@
-var mnemonic = "trumpet invest save caution helmet maid alert urban denial brand ecology system";
+var mnemonic = "girl mystery never future sad hawk immune transfer bring damage vote tomorrow";

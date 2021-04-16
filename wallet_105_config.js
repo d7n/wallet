@@ -1,1 +1,1 @@
-var mnemonic = "fade gate shield surface opinion program hollow empty morning crowd agree raccoon";
+var mnemonic = "cousin sugar clarify father dial float grocery trophy divorce tower quality embrace";

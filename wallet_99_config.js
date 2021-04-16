@@ -1,1 +1,1 @@
-var mnemonic = "evolve cloth lock camera stem lunar loyal achieve indoor arrive gaze absent";
+var mnemonic = "dutch please letter fashion people hazard army mention drink stove dust typical";

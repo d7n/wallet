@@ -1,1 +1,1 @@
-var mnemonic = "question fancy divorce olympic aunt future right depart umbrella actress wisdom index";
+var mnemonic = "chalk suggest similar example sting mansion office ugly law essence luxury exclude";

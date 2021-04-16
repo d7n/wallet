@@ -1,1 +1,1 @@
-var mnemonic = "shaft job calm about lion edge edge shy nose sound return young";
+var mnemonic = "recipe rubber ramp marble army hurdle crash gather spy crane fragile gallery";

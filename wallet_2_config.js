@@ -1,1 +1,1 @@
-var mnemonic = "help sustain tray spray goddess atom tag rhythm frog legend cactus deliver";
+var mnemonic = "waste boat view opinion nuclear what diamond purse any orange across air";

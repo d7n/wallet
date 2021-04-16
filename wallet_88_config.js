@@ -1,1 +1,1 @@
-var mnemonic = "salute rack wing admit update lecture click bring audit resource gospel slush";
+var mnemonic = "venue jazz luggage skin secret knife output anger gentle scorpion legal transfer";

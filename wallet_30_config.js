@@ -1,1 +1,1 @@
-var mnemonic = "boost ocean glove ten meadow rate change nuclear apology business magnet grit";
+var mnemonic = "glue fun myth allow tiny benefit census nice acid wolf mad just";

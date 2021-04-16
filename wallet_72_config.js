@@ -1,1 +1,1 @@
-var mnemonic = "square mention tomato bike magnet shiver property catalog outside ensure kind fun";
+var mnemonic = "repeat giggle volcano habit traffic choose tenant gadget expand knock blame cricket";

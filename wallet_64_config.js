@@ -1,1 +1,1 @@
-var mnemonic = "charge end dress wife broom wrestle afraid strike myself record clay world";
+var mnemonic = "dizzy slight rival eye wise tip tattoo person buffalo flock sword banana";

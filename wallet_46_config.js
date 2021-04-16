@@ -1,1 +1,1 @@
-var mnemonic = "juice crew theme inside cigar village upper tower noise try bone special";
+var mnemonic = "quality affair august column various used squeeze month grunt upper glance ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain involve child walnut tackle swap mosquito chase degree cement life dilemma";
+var mnemonic = "confirm weapon must door return august useful whip canoe picnic have federal";

@@ -1,1 +1,1 @@
-var mnemonic = "around organ rubber bicycle sign moral fault mechanic print devote tomorrow hour";
+var mnemonic = "video improve delay extend avoid tiger uncle answer garlic outdoor brush bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "feed truly lesson utility gasp tail panic consider brave shrug update steel";
+var mnemonic = "prison rookie stuff path kiwi winter improve rain tube hungry scheme limit";

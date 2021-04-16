@@ -1,1 +1,1 @@
-var mnemonic = "nephew unfair movie renew bicycle hood slush decline hedgehog galaxy sick hover";
+var mnemonic = "absorb gloom ritual right crush sleep diamond pig joy rather face bonus";

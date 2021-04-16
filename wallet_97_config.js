@@ -1,1 +1,1 @@
-var mnemonic = "endorse daughter give wise seven layer student habit essence crucial scissors arena";
+var mnemonic = "fix island banner sleep surface letter claim income sand okay garment interest";

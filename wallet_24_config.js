@@ -1,1 +1,1 @@
-var mnemonic = "quality stove direct cement dance surface swim risk bracket orphan phone demand";
+var mnemonic = "absorb riot visa liberty bless canoe change industry outdoor flash reward apple";

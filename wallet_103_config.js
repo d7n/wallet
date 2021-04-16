@@ -1,1 +1,1 @@
-var mnemonic = "spot guide female speak jazz erosion youth phrase evolve ostrich right crumble";
+var mnemonic = "property angle nature jazz raise laundry curtain icon vessel family spot stamp";

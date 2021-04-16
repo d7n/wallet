@@ -1,1 +1,1 @@
-var mnemonic = "fold science alone ivory loyal where pledge prison mandate erosion tenant sword";
+var mnemonic = "sausage junk siren barely want ugly doctor unable purpose happy defense strong";

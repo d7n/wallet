@@ -1,1 +1,1 @@
-var mnemonic = "profit index float supply panel hazard again mosquito boost proof garlic ticket";
+var mnemonic = "calm prepare juice brand pulp hold deliver useful belt there dwarf chuckle";

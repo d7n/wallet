@@ -1,1 +1,1 @@
-var mnemonic = "mystery field rigid wire trick fuel cement hawk stand buddy any tonight";
+var mnemonic = "vast symbol elite harbor increase enough hammer rare emerge record ceiling neglect";

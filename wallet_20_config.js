@@ -1,1 +1,1 @@
-var mnemonic = "rabbit despair gate hollow because chat decade produce cheese occur enrich edit";
+var mnemonic = "venture conduct car jeans health satisfy menu promote exist make stable ten";

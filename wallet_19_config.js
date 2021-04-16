@@ -1,1 +1,1 @@
-var mnemonic = "youth reopen onion work jump square silver report adapt mimic kite later";
+var mnemonic = "inch amateur satoshi that index theme clay rabbit report sense foam tide";

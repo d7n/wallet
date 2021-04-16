@@ -1,1 +1,1 @@
-var mnemonic = "drip satisfy hospital element table joy diet bike country all way rose";
+var mnemonic = "return latin usage half weekend movie leader gather benefit pledge brother kiss";

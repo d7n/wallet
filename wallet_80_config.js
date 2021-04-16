@@ -1,1 +1,1 @@
-var mnemonic = "breeze burden delay before wisdom urban you nominee pet room thought tennis";
+var mnemonic = "test quantum spike benefit wash upgrade vendor bleak market rescue wonder gravity";

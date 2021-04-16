@@ -1,1 +1,1 @@
-var mnemonic = "bring brush amazing tribe oven gun cinnamon palace friend wood destroy caution";
+var mnemonic = "traffic mistake front glad pact cost envelope tent length life belt napkin";

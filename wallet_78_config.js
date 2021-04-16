@@ -1,1 +1,1 @@
-var mnemonic = "bamboo friend impact around thrive student access monster cinnamon indicate old sentence";
+var mnemonic = "jeans child joy swear warrior charge stone pill grape subject vocal poem";

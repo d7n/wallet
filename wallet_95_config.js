@@ -1,1 +1,1 @@
-var mnemonic = "pioneer gather scorpion loan another plate fade ignore fall subway tuition transfer";
+var mnemonic = "twin panic staff pole elevator salute jaguar material since fruit ahead ethics";

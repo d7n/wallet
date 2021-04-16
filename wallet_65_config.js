@@ -1,1 +1,1 @@
-var mnemonic = "angry seminar rhythm dismiss image hire hamster frozen snow patrol wild gauge";
+var mnemonic = "gossip frequent web undo tennis any pigeon little negative rich magic pony";

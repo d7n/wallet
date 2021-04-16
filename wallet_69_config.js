@@ -1,1 +1,1 @@
-var mnemonic = "lab loan deputy horror benefit memory stumble stock fame slow title upset";
+var mnemonic = "liar crunch initial author air bicycle filter enable open category heavy journey";

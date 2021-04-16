@@ -1,1 +1,1 @@
-var mnemonic = "floor roof heart fly oppose smile giant detect retire kind word drum";
+var mnemonic = "police medal issue mouse process spawn tuition hover drama wheat bring rack";

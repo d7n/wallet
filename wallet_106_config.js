@@ -1,1 +1,1 @@
-var mnemonic = "lake yellow brain test unhappy middle latin alcohol quiz various december slab";
+var mnemonic = "visa suffer game island relief clock soap couple ethics sadness sea wink";

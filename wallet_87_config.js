@@ -1,1 +1,1 @@
-var mnemonic = "notable pear piece song armor comfort jacket leave motion stairs digital ill";
+var mnemonic = "morning vapor diesel seed kiwi worry shrimp dose about hire solution erode";

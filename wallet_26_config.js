@@ -1,1 +1,1 @@
-var mnemonic = "hello bachelor sword father raise afford grid exile sock thought stamp enemy";
+var mnemonic = "tube melody clerk draw bundle park fly sponsor dirt perfect flash problem";

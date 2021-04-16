@@ -1,1 +1,1 @@
-var mnemonic = "eager surround bounce day travel open float any surge civil impact prize";
+var mnemonic = "cat year artist lens glad father key mechanic coffee traffic photo chicken";

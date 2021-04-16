@@ -1,1 +1,1 @@
-var mnemonic = "brother sleep burden cinnamon exotic mix speed traffic muscle harvest produce soft";
+var mnemonic = "voyage special correct hunt hold river appear medal cotton gun unit purity";

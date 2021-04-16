@@ -1,1 +1,1 @@
-var mnemonic = "peace scout boy shaft sorry dust shield vapor vocal music mouse violin";
+var mnemonic = "purse sheriff catalog story penalty level onion venue bind deer parrot left";

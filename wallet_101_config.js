@@ -1,1 +1,1 @@
-var mnemonic = "ask multiply toast price side movie blue add code double magic rack";
+var mnemonic = "shop congress birth monkey never since divide wage code trap kick good";

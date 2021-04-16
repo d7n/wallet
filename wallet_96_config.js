@@ -1,1 +1,1 @@
-var mnemonic = "trick arrive outer believe gap stock thumb salad into rival alcohol next";
+var mnemonic = "skate dish render help glimpse carpet improve keep width volume drink hover";

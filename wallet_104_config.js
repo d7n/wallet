@@ -1,1 +1,1 @@
-var mnemonic = "cement grow celery oak appear glory embark punch belt six equip retire";
+var mnemonic = "found knock genius joke first speak crowd lunar future grape crouch stumble";

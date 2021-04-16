@@ -1,1 +1,1 @@
-var mnemonic = "wine prize betray pluck detail idle develop moral dad develop enroll nose";
+var mnemonic = "angle solar nature dynamic color ginger fossil like figure beef grit live";

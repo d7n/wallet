@@ -1,1 +1,1 @@
-var mnemonic = "payment path candy dial venue escape seminar come resemble length garlic law";
+var mnemonic = "fringe always crop truly during use lottery salad input jazz indoor return";

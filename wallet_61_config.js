@@ -1,1 +1,1 @@
-var mnemonic = "torch average hole keep legend renew key gold degree affair couple humble";
+var mnemonic = "muffin grunt mother enrich unknown gesture pencil plate image liar ocean apology";

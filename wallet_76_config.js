@@ -1,1 +1,1 @@
-var mnemonic = "dawn squirrel clutch hotel false fitness mercy sudden axis shed salon gate";
+var mnemonic = "isolate neutral used tone problem cluster alien desk wink crazy truck rent";

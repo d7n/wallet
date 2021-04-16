@@ -1,1 +1,1 @@
-var mnemonic = "travel ridge pole eternal verify matrix tooth glide hover organ add wedding";
+var mnemonic = "atom taste flight air carry off ticket purse wink pilot shuffle this";

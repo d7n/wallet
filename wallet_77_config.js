@@ -1,1 +1,1 @@
-var mnemonic = "hundred sadness cigar gravity air dilemma receive insane soft penalty glimpse answer";
+var mnemonic = "resist solution lunch fossil laptop session local reason mobile illness hungry museum";

@@ -1,1 +1,1 @@
-var mnemonic = "clay subject solar cluster assume busy theme source drip invite rely theory";
+var mnemonic = "admit intact seek fame move black holiday number uncle glory behave tilt";

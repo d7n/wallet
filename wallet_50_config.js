@@ -1,1 +1,1 @@
-var mnemonic = "great trigger crew click odor win cart opera leaf laundry half deer";
+var mnemonic = "glad arch build worry message desk frown until decorate sport crystal wasp";

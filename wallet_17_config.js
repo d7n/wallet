@@ -1,1 +1,1 @@
-var mnemonic = "panther hold because fade dwarf motor sphere slice alter glide veteran spare";
+var mnemonic = "client bone acquire weather happy doll oil attend poem help nuclear screen";

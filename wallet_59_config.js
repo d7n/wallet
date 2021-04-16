@@ -1,1 +1,1 @@
-var mnemonic = "tilt grass label buffalo believe oppose tilt behind cigar village crack advance";
+var mnemonic = "youth pass emotion mushroom split cloth avoid antenna great velvet replace sheriff";

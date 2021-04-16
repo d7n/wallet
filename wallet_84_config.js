@@ -1,1 +1,1 @@
-var mnemonic = "salt upgrade pencil fancy electric mixed cross original chicken sadness curious group";
+var mnemonic = "coast couch sport panda dignity gate initial alley original egg fence timber";

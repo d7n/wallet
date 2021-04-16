@@ -1,1 +1,1 @@
-var mnemonic = "metal axis kit frame peanut nominee size hello interest protect add vague";
+var mnemonic = "cousin long victory have crystal shock wood battle sample black agree diamond";

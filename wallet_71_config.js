@@ -1,1 +1,1 @@
-var mnemonic = "obvious above ridge surface fix salad ship visit dragon wet armor cattle";
+var mnemonic = "foster volcano knock thumb ladder depend lottery extend crunch film unknown clay";

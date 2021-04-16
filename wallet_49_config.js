@@ -1,1 +1,1 @@
-var mnemonic = "layer analyst client outer refuse carpet rule reduce replace pigeon wrestle define";
+var mnemonic = "select head bulb master river diary grunt digital park panther lizard simple";

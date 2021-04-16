@@ -1,1 +1,1 @@
-var mnemonic = "write royal thought surface advice merge tattoo churn pen car yard used";
+var mnemonic = "human empty insect jealous tree submit need tumble island dizzy anchor student";

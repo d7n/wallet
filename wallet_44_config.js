@@ -1,1 +1,1 @@
-var mnemonic = "heavy next oppose lumber ticket trade accident tape beyond toast wise state";
+var mnemonic = "surface route rug month verify double noise hundred whale outer omit repair";

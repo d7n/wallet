@@ -1,1 +1,1 @@
-var mnemonic = "wrist defy country sketch entire orange direct thunder coil obey diamond rookie";
+var mnemonic = "solar love word rural clog cargo stone credit bullet palace run next";

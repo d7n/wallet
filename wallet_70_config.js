@@ -1,1 +1,1 @@
-var mnemonic = "call eager stage lonely dawn range onion disagree multiply sail live vehicle";
+var mnemonic = "bounce relax photo exist couch nose jacket slight salad combine lens tree";

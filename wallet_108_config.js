@@ -1,1 +1,1 @@
-var mnemonic = "lesson liar chronic oven ketchup tree possible mail connect skate present symptom";
+var mnemonic = "member grid donate glimpse portion list never click lunch hold cute ice";

@@ -1,1 +1,1 @@
-var mnemonic = "basic wall lake world all quality purpose member exact inquiry magic genuine";
+var mnemonic = "ask member caution garbage token prison scheme book barrel tell half enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve relief explain muffin glow element twist admit fame blouse together shoe";
+var mnemonic = "torch jazz angle liar rebel filter oval wheat turtle olympic peasant frequent";

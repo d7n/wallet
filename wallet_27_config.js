@@ -1,1 +1,1 @@
-var mnemonic = "day minute claw frown faint alpha dignity track brief receive cereal join";
+var mnemonic = "mirror raccoon gallery habit wagon link escape click deal lend suggest bargain";

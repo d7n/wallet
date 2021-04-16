@@ -1,1 +1,1 @@
-var mnemonic = "hub hamster protect include blush bike hospital guide pair inject bonus airport";
+var mnemonic = "six traffic virus earth tomorrow fade outer live gather crystal crunch require";

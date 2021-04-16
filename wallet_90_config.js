@@ -1,1 +1,1 @@
-var mnemonic = "law empower expire myself powder monster auto frozen accident nerve pitch addict";
+var mnemonic = "alcohol old deliver swing syrup clog ripple west warfare differ project venture";

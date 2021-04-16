@@ -1,1 +1,1 @@
-var mnemonic = "elder orphan witness bunker celery rifle aware middle quarter uncle crucial plug";
+var mnemonic = "inflict orbit envelope symbol space border search galaxy airport bleak witness relax";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter vibrant amused hazard divert alley stairs fix company card snack bar";
+var mnemonic = "limit gauge ranch width critic truck veteran lamp view travel join marriage";

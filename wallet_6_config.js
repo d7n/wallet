@@ -1,1 +1,1 @@
-var mnemonic = "profit proud street day music culture adjust body fluid tobacco occur furnace";
+var mnemonic = "angle face act squeeze dose unlock apple pill share either seminar dad";

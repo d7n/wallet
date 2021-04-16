@@ -1,1 +1,1 @@
-var mnemonic = "jealous use boring team busy caught thumb whip demise pencil leisure engage";
+var mnemonic = "rose mask tape host firm fat crisp blanket add embark hover draw";

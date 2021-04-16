@@ -1,1 +1,1 @@
-var mnemonic = "build lottery aisle tree sleep mansion say fat enemy can toilet divorce";
+var mnemonic = "cactus all pave paddle test until tissue share mother isolate blade easily";

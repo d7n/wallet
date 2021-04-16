@@ -1,1 +1,1 @@
-var mnemonic = "describe repair hold tomato ancient pigeon tobacco myth fee spend duty weird";
+var mnemonic = "ill meadow remove neither heavy rapid patrol seminar state wonder enough vote";

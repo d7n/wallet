@@ -1,1 +1,1 @@
-var mnemonic = "opera mixed decade outdoor room maid bind major agree fiber battle brass";
+var mnemonic = "section ensure remove entry ritual resist way fold speed duck caution model";

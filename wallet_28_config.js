@@ -1,1 +1,1 @@
-var mnemonic = "dish human side author interest rail mirror pepper illegal museum bonus acid";
+var mnemonic = "total aspect nothing green swear aim swim lottery certain clean garment parent";

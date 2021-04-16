@@ -1,1 +1,1 @@
-var mnemonic = "connect orient blossom knife suspect indicate tragic blood game window fresh pepper";
+var mnemonic = "silly entire orbit diesel pioneer edit idea buzz theory pet stay decorate";

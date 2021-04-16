@@ -1,1 +1,1 @@
-var mnemonic = "mansion super car hunt leisure ice already disagree cluster road step rescue";
+var mnemonic = "runway excite subway more toast patient pond rocket slush describe cat faith";

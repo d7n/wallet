@@ -1,1 +1,1 @@
-var mnemonic = "attract dust rigid matter dentist before legend frost tissue gift chair erupt";
+var mnemonic = "keen advance burger chat galaxy obey family frown copy then test submit";

@@ -1,1 +1,1 @@
-var mnemonic = "eight congress shy motion frequent ramp venture huge pilot discover milk fish";
+var mnemonic = "interest aisle fix lady carpet able thunder field doctor napkin render find";
