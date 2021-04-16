@@ -1,1 +1,1 @@
-var mnemonic = "great rotate basic explain tell bounce humor pudding myself program mouse system";
+var mnemonic = "notable suit comfort badge dove talent recycle during rail coconut tape tail";

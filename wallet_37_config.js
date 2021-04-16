@@ -1,1 +1,1 @@
-var mnemonic = "core large nature history round faint accident palm fatal control police rookie";
+var mnemonic = "noise say antique desk goddess warm goddess isolate undo swarm wave winter";

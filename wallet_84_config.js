@@ -1,1 +1,1 @@
-var mnemonic = "cause transfer grow shoulder tornado garlic grief gas couple tell execute online";
+var mnemonic = "catch solar insect extend extra relax jelly woman stuff rebuild rotate antenna";

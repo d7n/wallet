@@ -1,1 +1,1 @@
-var mnemonic = "modify behind over excuse fetch guess excuse pretty useful margin mail muscle";
+var mnemonic = "mercy arrange taxi train festival wide treat boss cushion pottery office wish";

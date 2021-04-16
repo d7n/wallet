@@ -1,1 +1,1 @@
-var mnemonic = "icon river child slam mechanic modify black accident damp lady silly charge";
+var mnemonic = "hammer century rely sadness anger enrich recipe program age crazy seat solve";

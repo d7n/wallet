@@ -1,1 +1,1 @@
-var mnemonic = "lemon chimney gasp clog uncover use saddle dolphin child rural recipe industry";
+var mnemonic = "differ ocean deposit sound mountain mad kangaroo ankle unable shine avocado trophy";

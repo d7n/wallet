@@ -1,1 +1,1 @@
-var mnemonic = "apart vacuum wreck picture veteran reform city close novel liquid zero wolf";
+var mnemonic = "patient fence behave gold debate share wealth two despair other glory rally";

@@ -1,1 +1,1 @@
-var mnemonic = "sad elbow clerk script surge forget august birth term pass limit wire";
+var mnemonic = "depend doctor ranch rain gun size deposit wrist vibrant snack link hockey";

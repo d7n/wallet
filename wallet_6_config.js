@@ -1,1 +1,1 @@
-var mnemonic = "onion observe kid dry comfort choice confirm select recipe elephant just fluid";
+var mnemonic = "gain wisdom staff pattern nature taste sort direct you glue orchard photo";

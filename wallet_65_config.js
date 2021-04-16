@@ -1,1 +1,1 @@
-var mnemonic = "capable swim seek symbol fuel heart sand alone scout subway motor lyrics";
+var mnemonic = "frost ivory arctic traffic harsh hurt promote teach soldier bullet someone task";

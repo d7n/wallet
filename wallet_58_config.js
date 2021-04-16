@@ -1,1 +1,1 @@
-var mnemonic = "daring clap glass moral gift other kitten risk sense snow tissue ten";
+var mnemonic = "transfer relief combine material together tree analyst reward profit today occur capable";

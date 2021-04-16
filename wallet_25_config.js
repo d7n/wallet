@@ -1,1 +1,1 @@
-var mnemonic = "cash stamp kitchen blur flavor bless orbit they cousin joke insane glad";
+var mnemonic = "lawn garbage comfort filter day ivory calm utility govern rhythm place shaft";

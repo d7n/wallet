@@ -1,1 +1,1 @@
-var mnemonic = "blade kick carbon learn pattern pipe system sphere alone ozone clarify vault";
+var mnemonic = "hotel flat inside typical spray bunker salute rubber arena drum mountain work";

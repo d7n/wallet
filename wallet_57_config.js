@@ -1,1 +1,1 @@
-var mnemonic = "display between mail thunder sea fluid hill ship steak effort enlist web";
+var mnemonic = "lemon eternal scheme bachelor trust climb rigid about dice seed river foot";

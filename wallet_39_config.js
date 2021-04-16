@@ -1,1 +1,1 @@
-var mnemonic = "bamboo pioneer inflict huge guitar rack hollow section zebra write physical swarm";
+var mnemonic = "story tool fox sort stomach device glue essay dish riot fantasy frost";

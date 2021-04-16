@@ -1,1 +1,1 @@
-var mnemonic = "merit insect exact hold dizzy catch weasel stick kite camp pencil end";
+var mnemonic = "list near report trumpet forest write noble march walnut wing mind curtain";

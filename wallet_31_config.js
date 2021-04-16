@@ -1,1 +1,1 @@
-var mnemonic = "uncle century swim prevent talk bridge scare apple decide adult true reopen";
+var mnemonic = "evil visa magnet enrich quarter suffer glory shoe caution rough can elder";

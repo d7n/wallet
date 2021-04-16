@@ -1,1 +1,1 @@
-var mnemonic = "sing usage flash found face friend legend feature useful trash cancel decide";
+var mnemonic = "other pulse bulb attend predict burden foot jacket build woman blind popular";

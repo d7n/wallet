@@ -1,1 +1,1 @@
-var mnemonic = "milk phrase van cousin shove help peasant armed coast wealth have arrive";
+var mnemonic = "essay unlock depend dune ticket into napkin fog legal bean split educate";

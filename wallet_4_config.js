@@ -1,1 +1,1 @@
-var mnemonic = "quote wrist stage mother purpose enable dash never fiber humble erase spray";
+var mnemonic = "jelly shell ensure second rude company holiday disorder phone steel banner level";

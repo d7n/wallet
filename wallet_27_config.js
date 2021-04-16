@@ -1,1 +1,1 @@
-var mnemonic = "check near voyage pave raven decade lottery genuine win sand food brain";
+var mnemonic = "spend junior wisdom either immune nature night other inmate farm menu toss";

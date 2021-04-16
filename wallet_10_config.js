@@ -1,1 +1,1 @@
-var mnemonic = "audit input possible owner audit place liberty little layer vehicle uphold betray";
+var mnemonic = "usual pelican hand detect finish venture theme pudding steak thank voyage south";

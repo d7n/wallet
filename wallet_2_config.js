@@ -1,1 +1,1 @@
-var mnemonic = "home zone pottery jewel success head unfold size vessel clump furnace vacuum";
+var mnemonic = "current behave interest problem spatial empty grid rival extend daughter volume slim";

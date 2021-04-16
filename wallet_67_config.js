@@ -1,1 +1,1 @@
-var mnemonic = "fortune fiction replace cable badge leave boost gas interest copy artefact type";
+var mnemonic = "bus oyster target good settle fork penalty invest outdoor tribe kiss entry";

@@ -1,1 +1,1 @@
-var mnemonic = "warm cost secret immense heart treat away celery antenna drastic stage bright";
+var mnemonic = "swap reunion enter drip always empower beauty under awake grab mandate enemy";

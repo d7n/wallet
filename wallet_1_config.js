@@ -1,1 +1,1 @@
-var mnemonic = "weekend job great detail iron monster pencil response faculty foot crater dwarf";
+var mnemonic = "scheme core cargo economy heavy around blood unable connect elbow person sense";

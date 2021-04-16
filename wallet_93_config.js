@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur teach bitter stool inform glass height economy bicycle truck gather capable";
+var mnemonic = "music theory cage process image earn round market absurd valid present result";

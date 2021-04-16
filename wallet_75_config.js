@@ -1,1 +1,1 @@
-var mnemonic = "nothing exclude hood tray test pipe whip diary spatial panel cook electric";
+var mnemonic = "cousin profit hip ready grain alert wear cluster clay scare badge plunge";

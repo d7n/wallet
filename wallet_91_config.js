@@ -1,1 +1,1 @@
-var mnemonic = "couch betray ill trip view time lab label edit express age second";
+var mnemonic = "phone defense dove blast fall extend paper ill wine silent wool into";

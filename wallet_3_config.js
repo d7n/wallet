@@ -1,1 +1,1 @@
-var mnemonic = "amateur old person stick level depth bring pipe magnet circle renew legal";
+var mnemonic = "spoil apart ketchup reduce crash table field laugh ready rail father kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage convince evoke impulse lizard group faith maid observe impose upon auto";
+var mnemonic = "dutch finish column minute solve neither deer access balance forward payment identify";

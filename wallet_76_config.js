@@ -1,1 +1,1 @@
-var mnemonic = "loan remain flavor main dawn liberty lift cat allow wisdom uncover can";
+var mnemonic = "keen black jealous debate seat input boost neglect fever electric soup busy";

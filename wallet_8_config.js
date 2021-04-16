@@ -1,1 +1,1 @@
-var mnemonic = "notable depth ketchup attend female hold champion merge daring age erode nephew";
+var mnemonic = "flavor service random eye cement carry link network habit carbon culture patient";

@@ -1,1 +1,1 @@
-var mnemonic = "effort pear wire ready crater giggle more ugly soon raccoon spoil burst";
+var mnemonic = "snack web inmate razor physical slogan impact solve tonight blur power chunk";

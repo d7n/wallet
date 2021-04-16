@@ -1,1 +1,1 @@
-var mnemonic = "average force tree appear embark property start scorpion doll daring tray travel";
+var mnemonic = "cup floor supreme grit assume quick armor remove high grace report render";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital tip ridge cotton simple exit clever town pluck stage save fine";
+var mnemonic = "security grief cargo hungry evil half remove cycle all mix huge when";

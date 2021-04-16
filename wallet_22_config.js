@@ -1,1 +1,1 @@
-var mnemonic = "insect amateur trumpet imitate lake leave recipe limit gloom egg daughter egg";
+var mnemonic = "employ limit obvious churn bundle glove eager rent receive virus glad city";

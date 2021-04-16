@@ -1,1 +1,1 @@
-var mnemonic = "turn denial lava yellow fame install notable velvet ring inside unlock zebra";
+var mnemonic = "decrease kind boost tiger name strong sell dance spray clean baby atom";

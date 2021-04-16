@@ -1,1 +1,1 @@
-var mnemonic = "clump trick calm exhaust level patient shaft lobster primary ordinary gold ivory";
+var mnemonic = "tilt vibrant undo worry grain amateur area habit stock save rent vivid";

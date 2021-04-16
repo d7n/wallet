@@ -1,1 +1,1 @@
-var mnemonic = "humble payment about blouse write mirror ability crash worth breeze balance poet";
+var mnemonic = "glare liberty hover donkey feel cupboard agree pet tuna welcome pull drop";

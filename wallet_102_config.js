@@ -1,1 +1,1 @@
-var mnemonic = "raccoon civil identify orphan glimpse frequent churn west lesson install detect useful";
+var mnemonic = "fragile assume meadow winter term sleep blind robust car nation elbow quiz";

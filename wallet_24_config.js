@@ -1,1 +1,1 @@
-var mnemonic = "face action pigeon apple fun spider dinner churn pilot seek cruel bus";
+var mnemonic = "bundle amused kitten damp rabbit flush lunar renew squirrel sail earn scrub";

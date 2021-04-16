@@ -1,1 +1,1 @@
-var mnemonic = "garage one million treat thought calm volume decade glass property canal wheel";
+var mnemonic = "spatial message fringe cabin cement skirt rhythm effort want sleep okay canvas";

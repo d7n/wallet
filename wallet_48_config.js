@@ -1,1 +1,1 @@
-var mnemonic = "seven mirror blast joy start dish spring regular bind equal ramp increase";
+var mnemonic = "embark estate seed equal piano august spice useful debris raccoon vehicle crane";

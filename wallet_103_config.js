@@ -1,1 +1,1 @@
-var mnemonic = "elite walk limit tiger critic bone peace melody radar govern wagon circle";
+var mnemonic = "blouse system mimic scrub drink honey antenna village ensure country people effort";

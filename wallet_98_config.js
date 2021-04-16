@@ -1,1 +1,1 @@
-var mnemonic = "letter cave require virtual speak replace arrest echo seat leave buffalo expose";
+var mnemonic = "idea talent company disease license smooth common fence apple elevator kiwi hammer";

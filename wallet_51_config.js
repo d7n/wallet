@@ -1,1 +1,1 @@
-var mnemonic = "chronic loop dolphin chapter pool agent tilt giraffe trap keep avoid tree";
+var mnemonic = "away property acquire robot clarify adapt autumn crucial denial bargain much analyst";

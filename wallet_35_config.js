@@ -1,1 +1,1 @@
-var mnemonic = "case palm increase kangaroo stadium trap knock siren movie crouch another lyrics";
+var mnemonic = "ring art real ankle novel melt history cotton garment green energy couch";

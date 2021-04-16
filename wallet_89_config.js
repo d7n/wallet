@@ -1,1 +1,1 @@
-var mnemonic = "fringe mixed nurse address blue fatigue hawk salmon congress song outdoor priority";
+var mnemonic = "half garage vanish enforce tunnel copy great access stay pulse crunch judge";

@@ -1,1 +1,1 @@
-var mnemonic = "captain farm cage local song diesel bleak margin burden clap ripple chapter";
+var mnemonic = "funny relief process holiday salmon ship silk message chuckle immune ginger shiver";

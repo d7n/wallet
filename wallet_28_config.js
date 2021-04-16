@@ -1,1 +1,1 @@
-var mnemonic = "pact muscle soccer develop train fall rabbit season prosper simple attract traffic";
+var mnemonic = "iron enemy spare witness acquire path muffin once venue unknown embody cricket";

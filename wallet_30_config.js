@@ -1,1 +1,1 @@
-var mnemonic = "pizza sport argue proud saddle stamp dentist vocal merit wave nose maze";
+var mnemonic = "risk before anxiety wish large sad unusual debate half excite glad hospital";

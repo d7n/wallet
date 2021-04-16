@@ -1,1 +1,1 @@
-var mnemonic = "lounge resemble float stand drive discover subway sick loop fire enlist pony";
+var mnemonic = "gentle ill license primary ensure auto drink inherit silk route laundry umbrella";

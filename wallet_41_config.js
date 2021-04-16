@@ -1,1 +1,1 @@
-var mnemonic = "lion useful machine reject audit spirit waste general disorder cradle art bubble";
+var mnemonic = "enable chair occur convince business sort tail smoke myself banner road alert";

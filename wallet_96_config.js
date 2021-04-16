@@ -1,1 +1,1 @@
-var mnemonic = "engine conduct velvet ranch steak entire inflict saddle medal current patient early";
+var mnemonic = "cart awkward ridge angle speak gym connect between danger guess uniform supply";

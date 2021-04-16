@@ -1,1 +1,1 @@
-var mnemonic = "audit range peanut category dismiss notable sail famous caution play scene ensure";
+var mnemonic = "help warm pretty shrimp cloud jungle mass suggest silent stadium unit tank";

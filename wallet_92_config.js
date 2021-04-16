@@ -1,1 +1,1 @@
-var mnemonic = "topple author cruel despair morning skill gentle unable vast dynamic reason dance";
+var mnemonic = "close resist risk rice behind language swallow intact eye girl box advice";

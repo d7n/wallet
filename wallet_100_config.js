@@ -1,1 +1,1 @@
-var mnemonic = "secret exact comfort butter vibrant answer artist sense spike feed idle cushion";
+var mnemonic = "curtain put shoulder ranch coast duty pipe mistake zone pyramid coast dwarf";

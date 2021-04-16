@@ -1,1 +1,1 @@
-var mnemonic = "recall dose symptom donor oyster spatial stuff leg put together flock noodle";
+var mnemonic = "relax fall door ill hello curious curtain tiny size light enter slot";

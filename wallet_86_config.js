@@ -1,1 +1,1 @@
-var mnemonic = "curve crumble exchange gold avocado fruit soft patrol pink shy consider acoustic";
+var mnemonic = "uncle basic risk kite modify allow sound reflect leave impulse broken gym";

@@ -1,1 +1,1 @@
-var mnemonic = "vague crouch trophy fun chase jealous legend employ worry cruise choose hammer";
+var mnemonic = "strategy funny describe luggage spread price expire wood ticket mention net negative";

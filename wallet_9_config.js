@@ -1,1 +1,1 @@
-var mnemonic = "kind rose cotton snap garbage hospital essence regret present valve supreme wool";
+var mnemonic = "group sibling expand narrow dizzy lunch ball found slogan skin cactus scare";

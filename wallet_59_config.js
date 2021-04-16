@@ -1,1 +1,1 @@
-var mnemonic = "into rain excess side draft notable actual lunch knife cruise chat interest";
+var mnemonic = "powder canoe travel jewel boil learn urban judge seminar disorder knife february";

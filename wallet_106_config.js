@@ -1,1 +1,1 @@
-var mnemonic = "novel decrease receive innocent captain slice few novel tuition leave enforce orchard";
+var mnemonic = "tower fatigue lesson sad soda actual toy security dream spell tide essay";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy design cancel survey upset exhaust any regret short maze decline nominee";
+var mnemonic = "large index spatial laugh almost brush butter arrest resemble stadium hen blossom";

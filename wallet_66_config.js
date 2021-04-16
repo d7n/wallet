@@ -1,1 +1,1 @@
-var mnemonic = "mask decade struggle half sock abstract ceiling advice ice other reveal heavy";
+var mnemonic = "scrap evoke area olive coral rate duty border twist silver jeans canoe";

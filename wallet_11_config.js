@@ -1,1 +1,1 @@
-var mnemonic = "onion iron clarify cabbage miss cream hire hazard bar bless goat health";
+var mnemonic = "argue match decade leopard already clutch use magic energy unfair divide error";

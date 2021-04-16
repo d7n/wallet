@@ -1,1 +1,1 @@
-var mnemonic = "immune core slot drum veteran oppose select orphan erase rotate anger universe";
+var mnemonic = "glide robust group narrow syrup symbol monster machine emerge power van dream";

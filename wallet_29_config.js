@@ -1,1 +1,1 @@
-var mnemonic = "record junk payment arrange juice end sorry edge tragic volume such source";
+var mnemonic = "type wheel pet fish you fatal escape bike gospel cotton kiwi popular";

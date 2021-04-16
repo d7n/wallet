@@ -1,1 +1,1 @@
-var mnemonic = "priority marriage casual away brick stairs top bubble color thunder coast maze";
+var mnemonic = "coast casual rule clinic envelope sound foam hint lion boil throw never";

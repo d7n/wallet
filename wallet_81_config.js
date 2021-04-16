@@ -1,1 +1,1 @@
-var mnemonic = "behave dignity blame unfair scene bottom grow meadow mansion meat memory cotton";
+var mnemonic = "vacant news embody lyrics give debate license tell reject pelican merry dove";

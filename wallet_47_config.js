@@ -1,1 +1,1 @@
-var mnemonic = "leader swap hotel they forward lady voyage illegal stock ribbon noise act";
+var mnemonic = "below street plunge royal hammer happy goddess alien donor thank churn notable";

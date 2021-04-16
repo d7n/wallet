@@ -1,1 +1,1 @@
-var mnemonic = "captain pipe adapt hawk decline material zoo waste meadow endless truly false";
+var mnemonic = "crush trip venue lecture arrange system enlist maze quarter pencil blind loyal";

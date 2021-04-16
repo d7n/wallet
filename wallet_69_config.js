@@ -1,1 +1,1 @@
-var mnemonic = "grace pudding fire design scrap motor fiction you ride destroy dry gold";
+var mnemonic = "glow cook smart buffalo cushion taxi round hedgehog energy rose position detail";

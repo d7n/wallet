@@ -1,1 +1,1 @@
-var mnemonic = "put zebra toilet arena lamp glue lion rural total begin blood twist";
+var mnemonic = "hero left duck taste coast whisper control twice job knife exit error";

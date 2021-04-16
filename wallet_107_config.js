@@ -1,1 +1,1 @@
-var mnemonic = "cabbage analyst fork excite foam dutch banner other act cause tray better";
+var mnemonic = "remain biology rough asset salon ability tiger one omit region clog awesome";
