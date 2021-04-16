@@ -1,1 +1,1 @@
-var mnemonic = "advice gentle assist advance snack skate cycle beach rain tower rose okay";
+var mnemonic = "that alley leaf casino ghost kiss tornado effort tomorrow error cute motion";

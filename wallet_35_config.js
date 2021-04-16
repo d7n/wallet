@@ -1,1 +1,1 @@
-var mnemonic = "devote multiply feature isolate stool cross yellow surprise coffee stay round later";
+var mnemonic = "skirt buddy base stable follow patient ticket wire prize region crash prison";

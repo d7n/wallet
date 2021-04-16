@@ -1,1 +1,1 @@
-var mnemonic = "typical kick people vote script virus dial weather stone acquire twist dial";
+var mnemonic = "pizza jacket enough video omit mystery shadow street false violin yellow nominee";

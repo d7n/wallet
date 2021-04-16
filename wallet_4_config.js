@@ -1,1 +1,1 @@
-var mnemonic = "angry metal nut chalk toe pass bracket catalog ring vanish panther faculty";
+var mnemonic = "jacket monster attract super drama tooth course diesel tortoise earn detect hole";

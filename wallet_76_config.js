@@ -1,1 +1,1 @@
-var mnemonic = "scorpion stay solid blade easily conduct magnet drastic sniff response midnight anger";
+var mnemonic = "exchange focus sense plastic world exercise pattern trust grass zero flag track";

@@ -1,1 +1,1 @@
-var mnemonic = "merit myth vital hawk goat walk general object angry off frame install";
+var mnemonic = "social again father exercise taste broccoli kingdom year orient trim melt fat";

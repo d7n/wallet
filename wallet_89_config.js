@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tragic six execute below disorder arrow disagree despair awful tourist large";
+var mnemonic = "siren cousin fatal access cycle more defy garden cup praise blush jazz";

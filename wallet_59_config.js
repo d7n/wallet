@@ -1,1 +1,1 @@
-var mnemonic = "embrace eternal medal opera pioneer among fade total later result soda barrel";
+var mnemonic = "domain lend payment put type slim author afford legal warm afraid room";

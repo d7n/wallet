@@ -1,1 +1,1 @@
-var mnemonic = "recipe shop crawl soul captain door trumpet silent suggest quarter light fatal";
+var mnemonic = "salute clip zero hat ordinary lamp purse name empty action bid slogan";

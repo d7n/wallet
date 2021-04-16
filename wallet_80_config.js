@@ -1,1 +1,1 @@
-var mnemonic = "define cruise enroll trap walnut essay field family impulse loan board lift";
+var mnemonic = "woman cake ill season midnight bone priority moment bitter brick draw analyst";

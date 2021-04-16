@@ -1,1 +1,1 @@
-var mnemonic = "extend section pioneer income purity thank ticket better blouse shock setup rally";
+var mnemonic = "power dinner next door loud tip grant shed magic unaware embrace man";

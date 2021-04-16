@@ -1,1 +1,1 @@
-var mnemonic = "exist always rebuild describe gift spike fit lesson capable cushion ramp aerobic";
+var mnemonic = "limit survey emotion talk alpha car chef relax rent strike scene second";

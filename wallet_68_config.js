@@ -1,1 +1,1 @@
-var mnemonic = "pluck always clean middle assume hub ability paddle human test miss grid";
+var mnemonic = "emotion fat home relax network insane chase machine noble fruit guard glimpse";

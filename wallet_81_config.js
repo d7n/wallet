@@ -1,1 +1,1 @@
-var mnemonic = "safe test belt base crunch same tired fabric slow cattle rapid column";
+var mnemonic = "movie polar quality hammer shield unit album latin stone humor strong swim";

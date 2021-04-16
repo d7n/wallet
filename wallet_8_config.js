@@ -1,1 +1,1 @@
-var mnemonic = "puzzle burst shop cinnamon stairs empty loud unveil glove tip jaguar pelican";
+var mnemonic = "stick final north soft end appear crater genre crouch curtain unfold estate";

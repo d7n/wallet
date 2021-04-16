@@ -1,1 +1,1 @@
-var mnemonic = "gather abstract trigger cash dragon quick burst patch miracle pact siege ten";
+var mnemonic = "minute what finish snack squeeze dinosaur jar skin amateur receive boat unfair";

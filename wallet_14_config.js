@@ -1,1 +1,1 @@
-var mnemonic = "extend tag ill congress dilemma sheriff use happy connect slide tree arrow";
+var mnemonic = "nuclear exhibit bulb usual leg start school science ramp exhaust chuckle infant";

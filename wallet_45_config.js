@@ -1,1 +1,1 @@
-var mnemonic = "midnight manual effort extra fiscal rocket feed stamp trouble pond orbit happy";
+var mnemonic = "virus opera valid staff kid plunge board crunch height river finger fiction";

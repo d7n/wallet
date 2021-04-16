@@ -1,1 +1,1 @@
-var mnemonic = "width canvas brisk clock shiver pear leopard effort harbor provide genuine profit";
+var mnemonic = "climb december leg flavor cage address erupt bulk round organ enemy seed";

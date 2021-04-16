@@ -1,1 +1,1 @@
-var mnemonic = "member crater wear excuse away explain quick chief blossom actual always emerge";
+var mnemonic = "tiger doll praise keen magic citizen client donate mother network key grid";

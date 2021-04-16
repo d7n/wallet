@@ -1,1 +1,1 @@
-var mnemonic = "myth dove increase copy law cash theme cliff always craft vault into";
+var mnemonic = "banner clutch narrow accuse congress net hungry trend very ride pudding train";

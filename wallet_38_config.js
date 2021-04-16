@@ -1,1 +1,1 @@
-var mnemonic = "fiber practice cram confirm praise style stick away all salad business issue";
+var mnemonic = "summer girl unveil cargo ribbon warrior practice either angry fade stairs ozone";

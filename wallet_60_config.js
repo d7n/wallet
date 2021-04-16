@@ -1,1 +1,1 @@
-var mnemonic = "exotic deputy diagram segment main way song deputy powder rich cave piece";
+var mnemonic = "faint near vague theory clown depart weasel under little open prize favorite";

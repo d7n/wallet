@@ -1,1 +1,1 @@
-var mnemonic = "laugh switch enforce little nose width syrup average wagon kind castle raccoon";
+var mnemonic = "same thrive antique mandate object father silent slogan trust stairs mammal area";

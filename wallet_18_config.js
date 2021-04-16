@@ -1,1 +1,1 @@
-var mnemonic = "purpose donor bitter ride scissors security install film clog top kid core";
+var mnemonic = "tape reduce urge material saddle pen village clay panel soap tourist pyramid";

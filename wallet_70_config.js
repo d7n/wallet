@@ -1,1 +1,1 @@
-var mnemonic = "tennis fine join addict actual million pupil follow fortune loan one rival";
+var mnemonic = "owner first climb soon relax asthma safe rose dog garment infant acoustic";

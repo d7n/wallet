@@ -1,1 +1,1 @@
-var mnemonic = "easy rule action lab genre firm dog ancient crouch state rotate tomorrow";
+var mnemonic = "kingdom fish elbow design hidden grunt ordinary fever toilet artist fiction energy";

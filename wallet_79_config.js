@@ -1,1 +1,1 @@
-var mnemonic = "toast code point nice minimum enrich frost deputy fame police effort credit";
+var mnemonic = "quantum keep shrug reduce moment expose cigar bleak senior assault unhappy ski";

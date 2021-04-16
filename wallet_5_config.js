@@ -1,1 +1,1 @@
-var mnemonic = "balance robust announce sadness stereo boring isolate little symbol parent reveal mandate";
+var mnemonic = "mention tattoo text garbage rug stadium guitar aisle crush donate north enough";

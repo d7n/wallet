@@ -1,1 +1,1 @@
-var mnemonic = "sample hybrid conduct entire vivid worry drastic same paper endorse humor enter";
+var mnemonic = "excuse begin sniff leopard south goose else winter wing disorder shoot group";

@@ -1,1 +1,1 @@
-var mnemonic = "depth host grow flight enforce divorce chunk output rich myth abuse hollow";
+var mnemonic = "symbol combine endorse engage pretty initial topic setup drum turn civil volume";

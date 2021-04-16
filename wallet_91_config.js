@@ -1,1 +1,1 @@
-var mnemonic = "master east never avoid tip spatial disease adapt state little enroll wild";
+var mnemonic = "chase lazy life scissors regret oil genre peace burger music high credit";

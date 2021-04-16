@@ -1,1 +1,1 @@
-var mnemonic = "swim actor midnight account priority record season shadow cook donate weapon appear";
+var mnemonic = "blood brisk romance castle climb survey dignity digital rely add rigid cloud";

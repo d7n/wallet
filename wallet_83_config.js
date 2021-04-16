@@ -1,1 +1,1 @@
-var mnemonic = "reunion find life below surprise seat find waste pupil tobacco often alley";
+var mnemonic = "amateur bean buzz error defense cry melody blast grain copy aim topple";

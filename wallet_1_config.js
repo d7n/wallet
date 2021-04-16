@@ -1,1 +1,1 @@
-var mnemonic = "elegant warfare must candy bird snap room guitar strong nation riot mercy";
+var mnemonic = "utility tenant exclude shift pumpkin festival tourist saddle robot kick voice mail";

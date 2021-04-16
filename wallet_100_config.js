@@ -1,1 +1,1 @@
-var mnemonic = "dance more soon round myth belt hen inside harsh involve banner squirrel";
+var mnemonic = "thing erase link chaos globe wide curious style shrug shaft scorpion list";

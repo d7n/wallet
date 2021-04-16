@@ -1,1 +1,1 @@
-var mnemonic = "remind width diamond diamond urge rebuild memory road muffin now raise camp";
+var mnemonic = "prevent resist common promote easily runway again fruit trim bless put belt";

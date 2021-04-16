@@ -1,1 +1,1 @@
-var mnemonic = "old amazing simple praise deliver project tide merge blossom muscle program inform";
+var mnemonic = "fuel soul rookie mention laundry humor couch grace better brick soda alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "child grief habit cannon crane stay offer mixed wheel urban impact print";
+var mnemonic = "collect cradle spatial will rookie help loud among august parrot license clean";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot add assault bag rib lizard hammer ranch valve athlete buffalo prosper";
+var mnemonic = "spoon zero food fix motion fancy tennis slice pretty finger core crater";

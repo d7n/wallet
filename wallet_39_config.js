@@ -1,1 +1,1 @@
-var mnemonic = "same auction aisle addict unique bike innocent copy impact dice thunder more";
+var mnemonic = "borrow crawl fall step chase mutual buzz garbage talk stadium now end";

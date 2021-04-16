@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ritual talk october need october orange latin grit bench shoulder elite";
+var mnemonic = "task senior exit aerobic among dirt broom impulse gasp put funny hope";

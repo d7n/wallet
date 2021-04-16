@@ -1,1 +1,1 @@
-var mnemonic = "work trap vibrant law arrange ozone lake violin between material weather shift";
+var mnemonic = "noise cluster weekend lunch food resemble width chuckle zoo minor visit enjoy";

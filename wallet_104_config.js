@@ -1,1 +1,1 @@
-var mnemonic = "slow cage famous public field case play pave flip day hover recycle";
+var mnemonic = "scrap extend salt frame public pepper real typical viable twist kangaroo cupboard";

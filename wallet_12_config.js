@@ -1,1 +1,1 @@
-var mnemonic = "proud awkward meadow wasp limit drama develop fiber among robust sort remind";
+var mnemonic = "raise radar fringe jazz disorder puzzle road minor number father other census";

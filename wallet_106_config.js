@@ -1,1 +1,1 @@
-var mnemonic = "convince clerk you rail like culture tongue bonus keep van noble bachelor";
+var mnemonic = "dog horror salmon jump because detail clock gaze vacant truth able target";

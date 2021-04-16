@@ -1,1 +1,1 @@
-var mnemonic = "predict stable salmon jaguar devote length essay pride pioneer cliff concert cloud";
+var mnemonic = "word lemon mosquito reform bronze purchase erode three neutral fish student clarify";

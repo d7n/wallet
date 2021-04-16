@@ -1,1 +1,1 @@
-var mnemonic = "brush rough liar fork cost like crunch donate scene october duck sign";
+var mnemonic = "decline unaware radar brief laugh imitate melody very awesome drive raven luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion layer pond consider gadget define soap leisure visa melody frozen between";
+var mnemonic = "rare fun essence priority repeat require oven sentence cruise magic display bench";

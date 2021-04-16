@@ -1,1 +1,1 @@
-var mnemonic = "under page access half sure turtle average vibrant trouble shrimp spring prize";
+var mnemonic = "fetch icon grab receive occur opinion reason pair visit empty lesson obtain";

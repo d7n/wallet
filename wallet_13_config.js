@@ -1,1 +1,1 @@
-var mnemonic = "trumpet delay viable barely skull wire taxi hood movie reopen artwork suffer";
+var mnemonic = "course plunge claw pepper cliff crime useful system cycle total sadness tip";

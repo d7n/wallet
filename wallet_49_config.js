@@ -1,1 +1,1 @@
-var mnemonic = "little skull pelican bulb surge keen federal debate unhappy elegant arrange sense";
+var mnemonic = "bullet word forest tennis heart island gym spend prefer local property noodle";

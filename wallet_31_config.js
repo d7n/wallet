@@ -1,1 +1,1 @@
-var mnemonic = "join coast blind quarter away quick poem chair hole broccoli forward object";
+var mnemonic = "brain search raise push tent belt album outer curve basic leg resource";

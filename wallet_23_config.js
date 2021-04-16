@@ -1,1 +1,1 @@
-var mnemonic = "stomach kid surprise dream vast atom asthma letter solid coffee neck average";
+var mnemonic = "eyebrow resource claw table upper border faint license rifle feed atom hammer";

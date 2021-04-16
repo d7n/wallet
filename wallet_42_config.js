@@ -1,1 +1,1 @@
-var mnemonic = "sugar access teach bar stem radio route siren picnic bench language among";
+var mnemonic = "young empty fold betray neglect have dawn ensure neck weird habit embody";

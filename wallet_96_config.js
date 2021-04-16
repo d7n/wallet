@@ -1,1 +1,1 @@
-var mnemonic = "horn volcano pill pilot lonely crew fun evolve blood life flame scene";
+var mnemonic = "phrase dizzy rally brisk debris breeze leader slice quote forget army depart";

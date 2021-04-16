@@ -1,1 +1,1 @@
-var mnemonic = "mercy whisper belt holiday shock find riot man physical reward burger side";
+var mnemonic = "bitter front pattern want awful way demise judge wise chimney hybrid edge";

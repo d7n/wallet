@@ -1,1 +1,1 @@
-var mnemonic = "kid dutch gap excuse asthma enrich trumpet puzzle kick craft always grocery";
+var mnemonic = "subject warm cave finger draft minor assist tape over jelly tourist multiply";

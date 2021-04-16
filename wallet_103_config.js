@@ -1,1 +1,1 @@
-var mnemonic = "pull valid rifle amount guard creek grow spice rescue metal slender shed";
+var mnemonic = "tongue depth good casual tourist early pepper bag mansion unit behind endless";

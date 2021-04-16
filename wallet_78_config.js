@@ -1,1 +1,1 @@
-var mnemonic = "aim extend leg observe someone basket hurt guitar absurd credit salad time";
+var mnemonic = "have unit elder bulb party power fork raw call reduce path paddle";

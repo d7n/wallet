@@ -1,1 +1,1 @@
-var mnemonic = "physical guard napkin amount alien again already fork high adult boat marriage";
+var mnemonic = "own wisdom icon drive laundry slim elegant firm impulse style job design";

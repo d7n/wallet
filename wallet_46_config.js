@@ -1,1 +1,1 @@
-var mnemonic = "frame animal truck bronze relax hour draft fit range tomato document truly";
+var mnemonic = "arm meat person convince master ticket cricket keen twin gate drastic library";

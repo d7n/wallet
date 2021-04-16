@@ -1,1 +1,1 @@
-var mnemonic = "virtual pond adapt before shoe vote tray swift disorder zebra lottery swift";
+var mnemonic = "physical faith guide spy primary athlete wine debate detail eyebrow dad offer";

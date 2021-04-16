@@ -1,1 +1,1 @@
-var mnemonic = "trap birth own fragile novel area gallery light cage spell wire license";
+var mnemonic = "forum unveil jelly sail price inherit clip sheriff false bright tone awake";

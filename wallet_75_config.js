@@ -1,1 +1,1 @@
-var mnemonic = "nuclear oyster capable tail latin priority bitter cage power sustain spirit element";
+var mnemonic = "voyage thumb beyond drift sting organ blossom lab duty danger pledge cover";

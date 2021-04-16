@@ -1,1 +1,1 @@
-var mnemonic = "camp aspect favorite junior mesh oblige another true expose club near basket";
+var mnemonic = "clump army valley moral stand flee fever mention truly insane add false";

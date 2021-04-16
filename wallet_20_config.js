@@ -1,1 +1,1 @@
-var mnemonic = "coyote innocent desk bird august section giggle prefer dolphin pole image fine";
+var mnemonic = "essay never hybrid front topic fire liberty vote true guard lion face";

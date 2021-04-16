@@ -1,1 +1,1 @@
-var mnemonic = "room alert poet ocean empower spring media midnight attend annual february pupil";
+var mnemonic = "siege topic wedding two depart sell mean bronze scissors human bronze outdoor";

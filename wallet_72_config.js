@@ -1,1 +1,1 @@
-var mnemonic = "this planet bright return jeans above magnet wink icon advance tank honey";
+var mnemonic = "spike smooth brand fatal arrest hundred sell term riot spot tower elegant";

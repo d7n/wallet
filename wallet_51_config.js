@@ -1,1 +1,1 @@
-var mnemonic = "glad morning soul syrup speed oxygen manual soap later flame entry plastic";
+var mnemonic = "practice satisfy tell weasel sugar furnace tell mad name intact picture debate";

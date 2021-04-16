@@ -1,1 +1,1 @@
-var mnemonic = "sniff wife first smooth service honey doll duck meat duck float staff";
+var mnemonic = "marble honey glue mirror stomach simple blood mango wing accuse junk neutral";

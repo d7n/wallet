@@ -1,1 +1,1 @@
-var mnemonic = "because razor force spice scene kitten oyster almost alien cry glow tree";
+var mnemonic = "unaware rigid expect wrong keep add total holiday concert convince axis news";

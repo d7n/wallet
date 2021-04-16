@@ -1,1 +1,1 @@
-var mnemonic = "mistake device unknown eager face luxury leopard upset stay disease earth when";
+var mnemonic = "achieve flight file code you pair night smile seminar trend intact aim";

@@ -1,1 +1,1 @@
-var mnemonic = "brush room fragile belt pepper that need rather crazy deny veteran badge";
+var mnemonic = "clutch junior glide stool rude hollow describe chair panic suit mother ready";

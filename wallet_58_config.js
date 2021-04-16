@@ -1,1 +1,1 @@
-var mnemonic = "upon gasp top one autumn spawn elbow abandon cost person follow over";
+var mnemonic = "fitness music clump daring turn unlock update uphold enter merit blush kangaroo";

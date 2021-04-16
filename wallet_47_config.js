@@ -1,1 +1,1 @@
-var mnemonic = "idle woman sign siren wood scare famous around disorder endorse lion crumble";
+var mnemonic = "round census nose enjoy dry upgrade marine shoot sound clump rabbit nerve";

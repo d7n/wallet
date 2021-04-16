@@ -1,1 +1,1 @@
-var mnemonic = "blame exotic fire swamp list essence maid allow space speak fabric invite";
+var mnemonic = "awake loud odor wire minor valley valid govern silly subject stumble version";

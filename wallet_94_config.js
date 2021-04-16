@@ -1,1 +1,1 @@
-var mnemonic = "just fiber inside color inhale fruit donor child win equal tongue lumber";
+var mnemonic = "lesson clip loud inform today endorse gaze can above gossip egg artefact";

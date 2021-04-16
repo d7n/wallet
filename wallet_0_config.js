@@ -1,1 +1,1 @@
-var mnemonic = "ridge clock mammal situate token shrug light half assist exile rebuild sheriff";
+var mnemonic = "reduce march citizen cause destroy shock creek decline penalty agree sponsor valid";

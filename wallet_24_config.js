@@ -1,1 +1,1 @@
-var mnemonic = "pretty cliff thumb quarter surface seminar century verify file maid concert kangaroo";
+var mnemonic = "square market waste pelican caution whip dizzy inner immense depth easy power";

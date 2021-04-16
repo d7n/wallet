@@ -1,1 +1,1 @@
-var mnemonic = "survey return castle glad blur cupboard burden monkey major turkey metal steel";
+var mnemonic = "brother unveil strike little spoon brother fee collect student tilt welcome state";

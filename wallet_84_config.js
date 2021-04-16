@@ -1,1 +1,1 @@
-var mnemonic = "cool choose inherit custom guard monster leader parade rude solve harvest century";
+var mnemonic = "leave document narrow galaxy clog push senior green party mad valve few";

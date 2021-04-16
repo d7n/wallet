@@ -1,1 +1,1 @@
-var mnemonic = "finish daughter curious twin acoustic ordinary pattern letter trial ordinary three exhaust";
+var mnemonic = "latin harsh exchange biology subject coil session error frozen coyote unlock crush";

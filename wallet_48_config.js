@@ -1,1 +1,1 @@
-var mnemonic = "forum fitness garage share blanket recipe elegant pill hurt rain evil desert";
+var mnemonic = "work ginger vital laptop salon pool kiss daughter task chair scare system";
