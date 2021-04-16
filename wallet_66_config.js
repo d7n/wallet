@@ -1,1 +1,1 @@
-var mnemonic = "paper napkin patrol junk chunk sauce behave license blouse grocery extra pole";
+var mnemonic = "throw refuse spell diamond gallery climb slice bike inmate symptom ketchup whip";

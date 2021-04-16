@@ -1,1 +1,1 @@
-var mnemonic = "ketchup attend boy catch aunt category abandon pretty move diary athlete salt";
+var mnemonic = "media interest alley student immune proud north item keen run deal focus";

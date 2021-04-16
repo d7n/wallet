@@ -1,1 +1,1 @@
-var mnemonic = "spot peace clutch mask ocean believe clay miss eyebrow symbol spend current";
+var mnemonic = "quality catalog element someone tomorrow gas legend nose tip beauty inner expand";

@@ -1,1 +1,1 @@
-var mnemonic = "marble deliver tube donor deputy cream reward garment onion biology mixed mail";
+var mnemonic = "tank enemy weather drink inflict chat quality pear cake throw cliff artist";

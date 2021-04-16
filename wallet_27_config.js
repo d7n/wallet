@@ -1,1 +1,1 @@
-var mnemonic = "whisper title fan produce card face coffee soldier lady fog festival chalk";
+var mnemonic = "distance pumpkin suit cinnamon final list jungle broken clown stick dawn language";

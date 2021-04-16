@@ -1,1 +1,1 @@
-var mnemonic = "quit mutual nothing differ oxygen soccer palm mutual service shock amused cheese";
+var mnemonic = "nest soap coconut series march gown tiger bicycle story actress festival common";

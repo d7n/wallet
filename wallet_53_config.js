@@ -1,1 +1,1 @@
-var mnemonic = "estate rebel feature unaware clarify hero legal bacon speak arrange screen life";
+var mnemonic = "cheap useless cage network cloth brief crumble punch jar afford ring rapid";

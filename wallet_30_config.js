@@ -1,1 +1,1 @@
-var mnemonic = "warrior evolve task barely tiny fall brown garlic mountain twelve coconut speed";
+var mnemonic = "clown party jaguar cake chunk donate theme material wrist miss gadget pill";

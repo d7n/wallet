@@ -1,1 +1,1 @@
-var mnemonic = "light bleak curtain write pull bird call kiwi record humor receive matter";
+var mnemonic = "century accident school skill gossip own install rocket twice practice electric make";

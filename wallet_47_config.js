@@ -1,1 +1,1 @@
-var mnemonic = "wine fresh cover tide okay shrug level gloom grid ask easy change";
+var mnemonic = "suspect arena inject pudding leave undo cushion expire market wife embody analyst";

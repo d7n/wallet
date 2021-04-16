@@ -1,1 +1,1 @@
-var mnemonic = "jealous gold mango autumn off aisle silent mention social minor frown review";
+var mnemonic = "sad front alter cloth pond right cube change gallery light hood someone";

@@ -1,1 +1,1 @@
-var mnemonic = "derive mammal spare piano person scatter green defense panda caught issue pigeon";
+var mnemonic = "render intact peace view below cement mixture card chat edge left quit";

@@ -1,1 +1,1 @@
-var mnemonic = "state tape crane sleep snake swim kangaroo kangaroo cool noise material fork";
+var mnemonic = "viable between tag lazy guard pumpkin kiwi carbon asset ribbon silent ensure";

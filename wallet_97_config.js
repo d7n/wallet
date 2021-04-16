@@ -1,1 +1,1 @@
-var mnemonic = "lumber script void chimney auto innocent logic seed letter anchor monster execute";
+var mnemonic = "fresh grit strike empower orbit essence dwarf canoe crowd utility indoor old";

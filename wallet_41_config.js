@@ -1,1 +1,1 @@
-var mnemonic = "oxygen hole swing innocent more empower cinnamon aspect hockey suggest chimney hybrid";
+var mnemonic = "occur leisure puzzle gesture track copy pass fluid grow clean electric verify";

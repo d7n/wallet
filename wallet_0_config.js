@@ -1,1 +1,1 @@
-var mnemonic = "subway agent stamp pottery situate print item umbrella aunt industry viable aware";
+var mnemonic = "alley run food record find winter clown detail rule theme lion voyage";

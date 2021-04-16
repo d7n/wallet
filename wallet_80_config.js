@@ -1,1 +1,1 @@
-var mnemonic = "hollow sight gospel copper wall eager proud visual tank spare twelve fury";
+var mnemonic = "minute negative corn disagree include merit cloud speed book trigger round rain";

@@ -1,1 +1,1 @@
-var mnemonic = "loop garage gentle garden habit yard brush then material october rookie poverty";
+var mnemonic = "swap middle cream mention poem size describe warfare resemble maze bracket collect";

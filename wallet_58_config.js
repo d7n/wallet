@@ -1,1 +1,1 @@
-var mnemonic = "chat orchard category lazy dish mean raw welcome reveal quantum blame shift";
+var mnemonic = "dolphin destroy medal dog boring raven garlic service celery elite fence that";

@@ -1,1 +1,1 @@
-var mnemonic = "biology gown memory alcohol bless pigeon task robust verb crowd shoot tone";
+var mnemonic = "minor pear solve farm rotate trophy scorpion weapon buddy goose vacuum fire";

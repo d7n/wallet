@@ -1,1 +1,1 @@
-var mnemonic = "blood riot flat abstract gate humble label shallow cement morning swim address";
+var mnemonic = "excite art purse inmate permit afraid dose across day movie travel elite";

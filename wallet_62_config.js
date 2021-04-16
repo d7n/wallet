@@ -1,1 +1,1 @@
-var mnemonic = "nasty click time arm spoon put fossil punch silk nut help cousin";
+var mnemonic = "announce cattle try giraffe innocent aspect trouble fossil lobster report across gym";

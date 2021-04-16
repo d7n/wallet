@@ -1,1 +1,1 @@
-var mnemonic = "into scout afford catalog march mule seed olive coin way affair drum";
+var mnemonic = "leaf goddess infant swamp infant random clap gown inhale horse stem joy";

@@ -1,1 +1,1 @@
-var mnemonic = "finger tourist toilet leg sketch mimic area glare execute pencil trust shed";
+var mnemonic = "auction save moral eight load hill provide bind fix session toss stamp";

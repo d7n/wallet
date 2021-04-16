@@ -1,1 +1,1 @@
-var mnemonic = "middle trade seat gate alpha clock saddle crush bracket excess slim marriage";
+var mnemonic = "three steel cruel obscure ceiling fantasy monitor neglect face wish around mystery";

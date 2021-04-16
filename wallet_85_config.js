@@ -1,1 +1,1 @@
-var mnemonic = "leisure length hill tower bean sphere aware question diary used distance pact";
+var mnemonic = "enforce jump topple note unveil goose drama deer tooth ignore six harvest";

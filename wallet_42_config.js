@@ -1,1 +1,1 @@
-var mnemonic = "sight burst define idea hip method ball flock train bar mind another";
+var mnemonic = "one lottery vacuum disease cricket hamster nephew student deputy hospital dilemma finger";

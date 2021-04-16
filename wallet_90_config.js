@@ -1,1 +1,1 @@
-var mnemonic = "lazy girl tired sugar fuel replace armed essence life juice clerk jeans";
+var mnemonic = "cup rookie evolve spawn view cruel glad unhappy bulk palm farm melody";

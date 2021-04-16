@@ -1,1 +1,1 @@
-var mnemonic = "current despair image jelly fault sing question frozen school clay cancel ritual";
+var mnemonic = "kite clay marble various because gadget onion quiz into dismiss emotion retire";

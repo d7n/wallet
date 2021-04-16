@@ -1,1 +1,1 @@
-var mnemonic = "make bunker arrow force robust repeat cradle know airport speak science eager";
+var mnemonic = "horn hen one rival film morning mask region rather alter switch icon";

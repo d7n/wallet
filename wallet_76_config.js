@@ -1,1 +1,1 @@
-var mnemonic = "accuse alley craft wage head danger benefit cousin claim excuse seminar travel";
+var mnemonic = "cabin vendor leave endless digital series visit actress release whale summer mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra purity pet bomb equal bachelor minor charge foam upon play there";
+var mnemonic = "deliver kingdom way mandate own author under paddle turn kitten prize topple";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard clutch scissors gym hair lawn museum quick final ordinary space license";
+var mnemonic = "idea obvious hunt kind slogan height stable tower soda order exhaust name";

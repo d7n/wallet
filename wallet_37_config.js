@@ -1,1 +1,1 @@
-var mnemonic = "dance victory novel bronze guard employ glory reveal among father round trophy";
+var mnemonic = "admit rescue anchor similar myth sleep tornado clap plate adapt fly unit";

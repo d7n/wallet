@@ -1,1 +1,1 @@
-var mnemonic = "squirrel police height express rib hip two diet curve match auction client";
+var mnemonic = "crush engine potato follow rough keen harsh inhale fringe harbor embody planet";

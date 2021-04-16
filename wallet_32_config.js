@@ -1,1 +1,1 @@
-var mnemonic = "agree dial drink worry entry flag push permit wedding forget hurry few";
+var mnemonic = "number tip shiver stick repeat pony lounge quantum bless chicken master velvet";

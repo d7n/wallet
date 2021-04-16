@@ -1,1 +1,1 @@
-var mnemonic = "alert spread industry grid problem tip album easy decade lesson school buffalo";
+var mnemonic = "fitness fade moment grass strike theme author luxury motor surround quarter process";

@@ -1,1 +1,1 @@
-var mnemonic = "gain retreat father saddle upgrade motion attitude law weapon antique gain round";
+var mnemonic = "drift ripple this tomorrow edit retire exclude long vehicle tray cushion switch";

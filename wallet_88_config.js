@@ -1,1 +1,1 @@
-var mnemonic = "used cry double equal shine supply forget fiber potato craft run library";
+var mnemonic = "width manage salon laptop ordinary silent zero fever rib flavor faint nurse";

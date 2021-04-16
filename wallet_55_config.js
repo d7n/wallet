@@ -1,1 +1,1 @@
-var mnemonic = "eternal pottery average wash track crush response over confirm gauge rival swift";
+var mnemonic = "sight luggage scissors segment proud cover clutch develop print marriage purity employ";

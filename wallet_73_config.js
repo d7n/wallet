@@ -1,1 +1,1 @@
-var mnemonic = "business almost creek minute balance wall cotton odor youth track alter mandate";
+var mnemonic = "broom normal grape deliver arrest fresh expose gun battle common print planet";

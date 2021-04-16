@@ -1,1 +1,1 @@
-var mnemonic = "shift fiscal talk kangaroo all mandate north taxi canyon trash express eyebrow";
+var mnemonic = "olive when short skull urge brown iron can vibrant dizzy scatter hero";

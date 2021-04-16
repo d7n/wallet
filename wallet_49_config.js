@@ -1,1 +1,1 @@
-var mnemonic = "someone reject buffalo nose grab urge harsh coconut miss expire impact monster";
+var mnemonic = "marble web celery syrup link magnet ensure gadget property bean soon balcony";

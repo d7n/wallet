@@ -1,1 +1,1 @@
-var mnemonic = "bright breeze gown evidence travel carbon select please must need donkey print";
+var mnemonic = "lion kitten fiscal charge order solve lonely average you faith danger shed";

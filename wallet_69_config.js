@@ -1,1 +1,1 @@
-var mnemonic = "dilemma evidence push gesture aisle monitor rain company retreat blur lift catalog";
+var mnemonic = "medal license sentence orient snow squeeze lens slender jacket fiber match curve";

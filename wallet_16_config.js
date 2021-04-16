@@ -1,1 +1,1 @@
-var mnemonic = "sad join flavor media initial silent surge clarify scene wall squirrel dash";
+var mnemonic = "dust patient garbage member dutch twelve inflict boil sport legal online hidden";

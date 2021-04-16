@@ -1,1 +1,1 @@
-var mnemonic = "open ball normal curious hat bubble rigid ginger arrest shoot level come";
+var mnemonic = "extend age nasty option drift sphere humble absent girl antenna auto travel";

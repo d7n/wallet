@@ -1,1 +1,1 @@
-var mnemonic = "benefit spy over afraid toe love question hurry exhaust chunk century text";
+var mnemonic = "this modify inhale charge actress scrap asset eye cactus print pizza group";

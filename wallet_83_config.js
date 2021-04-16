@@ -1,1 +1,1 @@
-var mnemonic = "sword garage swear vital token torch whisper story cannon lottery antenna muscle";
+var mnemonic = "swing ignore notice swear true abstract castle move hen gorilla flee debate";

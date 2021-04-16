@@ -1,1 +1,1 @@
-var mnemonic = "swallow such idea enforce front agent list cube output song cost hero";
+var mnemonic = "tonight bind health blue acoustic capable figure replace unveil ethics solid jealous";

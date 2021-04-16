@@ -1,1 +1,1 @@
-var mnemonic = "neck kit drip bean program enlist monitor violin field bulb until letter";
+var mnemonic = "inner mother language intact twelve vibrant arctic afraid cash volume leopard stairs";

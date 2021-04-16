@@ -1,1 +1,1 @@
-var mnemonic = "risk sauce globe shuffle anger arctic mix snake review toss raise sheriff";
+var mnemonic = "glance kitchen educate alley dawn short renew anxiety wire puppy key bench";

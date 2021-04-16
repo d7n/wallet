@@ -1,1 +1,1 @@
-var mnemonic = "settle door magic scale screen enroll wet mass size heart carbon audit";
+var mnemonic = "predict bright elbow outer yellow insane danger rookie power march flip word";

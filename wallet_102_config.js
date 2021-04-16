@@ -1,1 +1,1 @@
-var mnemonic = "sail bottom relief creek few three trust tool fence shuffle thrive opera";
+var mnemonic = "express pen act trophy group gadget scan grass rich fiscal cost result";

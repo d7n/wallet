@@ -1,1 +1,1 @@
-var mnemonic = "client genius slice mother earn name stem donkey turkey enough mule crucial";
+var mnemonic = "sauce ice dad sponsor butter rug dish goose raw hero process hybrid";

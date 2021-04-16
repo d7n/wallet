@@ -1,1 +1,1 @@
-var mnemonic = "rally soup blame suspect tenant submit involve glory flag buffalo margin must";
+var mnemonic = "elegant bike vault diamond length you frog awkward riot wrong save avoid";

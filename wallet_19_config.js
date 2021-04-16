@@ -1,1 +1,1 @@
-var mnemonic = "possible middle jump quote panel bean lesson beauty animal because rocket canal";
+var mnemonic = "bar joke cactus target uphold pet helmet debris spawn book brave secret";

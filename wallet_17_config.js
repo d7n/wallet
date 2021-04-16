@@ -1,1 +1,1 @@
-var mnemonic = "enlist grid creek novel again noodle ignore hollow churn tell split chimney";
+var mnemonic = "gas behind train vault torch river doll happy gorilla destroy lonely envelope";

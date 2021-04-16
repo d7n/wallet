@@ -1,1 +1,1 @@
-var mnemonic = "develop vibrant canoe beauty explain fringe alone live toast mystery wage exhibit";
+var mnemonic = "episode avoid monkey siren ticket host sad butter tongue image again knife";

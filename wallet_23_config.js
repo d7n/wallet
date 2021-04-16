@@ -1,1 +1,1 @@
-var mnemonic = "pill belt warm virtual blade unit crane match produce club merry cup";
+var mnemonic = "job depend pumpkin direct increase van siege pluck bless erase increase conduct";

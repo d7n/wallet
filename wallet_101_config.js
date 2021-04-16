@@ -1,1 +1,1 @@
-var mnemonic = "popular mixed zone gloom prize nominee brisk melody raven various half sun";
+var mnemonic = "craft kiss decade wolf ozone carry fox inmate mean frame shallow people";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo market unhappy wreck away pyramid obscure lecture truly lucky glance series";
+var mnemonic = "quality equal plug fossil learn frozen air detail culture tunnel tell rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "stock robot manual wheat right dumb layer trick vessel vote buyer rice";
+var mnemonic = "velvet innocent wealth spy antique secret chimney divert pretty engage sunset couple";

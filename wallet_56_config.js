@@ -1,1 +1,1 @@
-var mnemonic = "sight dance animal marble direct crop much century nephew cool beach hammer";
+var mnemonic = "metal report comic gravity exist north group thank column glide repair view";

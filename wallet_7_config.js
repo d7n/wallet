@@ -1,1 +1,1 @@
-var mnemonic = "umbrella you diamond truck quarter female dune letter pudding pond moon still";
+var mnemonic = "relax flee tonight cost once perfect round guess miracle desert paper wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot ring bubble spray stadium laundry what mixture notice someone mom coin";
+var mnemonic = "penalty hill fever forum fire gown scheme tilt retire local issue meat";

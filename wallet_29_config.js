@@ -1,1 +1,1 @@
-var mnemonic = "alert pipe margin inch estate salad file bean whip setup field differ";
+var mnemonic = "father east dress cannon conduct muscle afford lava soon modify expire arrive";

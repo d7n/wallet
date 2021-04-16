@@ -1,1 +1,1 @@
-var mnemonic = "coach wealth lemon knock bicycle road edit real side tired wild hover";
+var mnemonic = "erode domain judge puzzle analyst radio elephant bright primary snake pupil exist";

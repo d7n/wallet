@@ -1,1 +1,1 @@
-var mnemonic = "vast cruise job depart gift ghost fall knife avocado collect replace dentist";
+var mnemonic = "distance panda brick midnight frog erase gown call scrap body fog film";

@@ -1,1 +1,1 @@
-var mnemonic = "bid staff receive dwarf still enhance agent arch vital enrich humor head";
+var mnemonic = "visual despair soda cost option model harvest service farm recycle ensure divert";

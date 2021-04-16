@@ -1,1 +1,1 @@
-var mnemonic = "later bone village spray illegal stereo drill hockey brave frozen attitude shrug";
+var mnemonic = "copper include charge age art tunnel helmet dolphin plug spirit coral wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect motion fatal time burger piano history hungry royal ramp weekend arch";
+var mnemonic = "hint fetch hedgehog slim strike begin start gossip estate engage ocean obscure";

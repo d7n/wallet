@@ -1,1 +1,1 @@
-var mnemonic = "lamp can fog ritual clinic visa member absurd that shuffle dragon celery";
+var mnemonic = "noodle extra tenant protect window squirrel since embrace what bamboo amazing dry";

@@ -1,1 +1,1 @@
-var mnemonic = "know panther chest syrup assault box real swift faculty unveil behind burden";
+var mnemonic = "shove ladder hungry engage merit ivory edit office vocal disease attitude moment";

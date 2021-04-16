@@ -1,1 +1,1 @@
-var mnemonic = "permit club sock drip company beef latin gun wide soon coconut hip";
+var mnemonic = "erosion disorder boil drink tell glow move lawn chef annual sight antique";

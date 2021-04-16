@@ -1,1 +1,1 @@
-var mnemonic = "shell lunch stick air post cross connect either coach target exclude fantasy";
+var mnemonic = "glass dynamic whisper best gold reduce syrup canvas offer pair minimum often";

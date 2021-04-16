@@ -1,1 +1,1 @@
-var mnemonic = "will edge tenant term theory dial certain bitter body sun situate office";
+var mnemonic = "season private coyote shaft marriage layer sleep choice giraffe feed process trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "impact shed shock laundry recipe shoe nice sausage solve lady hand torch";
+var mnemonic = "alone script mom cliff ensure fade symptom narrow action rude sleep hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "horse huge bronze news gravity problem gallery tuna setup predict ripple correct";
+var mnemonic = "wool swallow game remain document glance else salmon range connect rather couch";

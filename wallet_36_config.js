@@ -1,1 +1,1 @@
-var mnemonic = "fatal gadget muffin scan lend refuse join census olive deliver polar success";
+var mnemonic = "vessel pen hold latin exile jump view inside discover guard lizard true";

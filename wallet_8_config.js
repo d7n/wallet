@@ -1,1 +1,1 @@
-var mnemonic = "nut mixture nest october zoo market poet hub sunny glove uncover seat";
+var mnemonic = "rose flash truly left actual arctic chapter sunny fix weasel clerk random";

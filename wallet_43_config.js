@@ -1,1 +1,1 @@
-var mnemonic = "marriage leader luggage slow deliver interest secret process tragic piano proof stand";
+var mnemonic = "room head galaxy tilt response biology cake cushion client note spend jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "gym toward silk develop man link food dice bronze edit equip main";
+var mnemonic = "month orphan direct ginger use curve cannon proud dirt donkey toss floor";

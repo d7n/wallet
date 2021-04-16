@@ -1,1 +1,1 @@
-var mnemonic = "year fade loud talent hunt ask surface stay bachelor blanket toy rule";
+var mnemonic = "identify squirrel install hint dinosaur desk cloth city sorry maximum ride fever";

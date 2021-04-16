@@ -1,1 +1,1 @@
-var mnemonic = "tonight duck space finger arrive boy ahead owner scorpion exact derive silk";
+var mnemonic = "denial stool charge tell endless diet victory net word above response broom";

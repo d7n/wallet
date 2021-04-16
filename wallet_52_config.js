@@ -1,1 +1,1 @@
-var mnemonic = "trick height blast south thunder anger cigar pen accuse atom stay piano";
+var mnemonic = "guilt ramp begin guide universe nerve pave concert error worth upset work";

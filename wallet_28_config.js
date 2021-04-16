@@ -1,1 +1,1 @@
-var mnemonic = "rigid auction urge cattle demand what spatial lumber apology salt proud lunch";
+var mnemonic = "family fine add vibrant guard absorb giant civil fashion tunnel infant tent";

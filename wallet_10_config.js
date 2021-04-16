@@ -1,1 +1,1 @@
-var mnemonic = "milk wheat august number column cry position travel guitar equal elbow chapter";
+var mnemonic = "icon attack usual room debate crumble labor spatial wet faculty attend alcohol";

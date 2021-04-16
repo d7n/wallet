@@ -1,1 +1,1 @@
-var mnemonic = "donor dirt hurry settle true minimum stock brush curve joy side snake";
+var mnemonic = "strong above repeat happy alone erupt punch noble below sausage pigeon glad";

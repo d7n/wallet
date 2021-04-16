@@ -1,1 +1,1 @@
-var mnemonic = "stamp mechanic dwarf hunt renew unfold year boost shuffle trade enable slow";
+var mnemonic = "dismiss topic ozone pact tuna perfect lady glad force maid noise town";

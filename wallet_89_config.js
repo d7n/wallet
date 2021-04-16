@@ -1,1 +1,1 @@
-var mnemonic = "network february exist screen tumble citizen super leaf scout media park smooth";
+var mnemonic = "margin box food junk chat distance glide clarify predict hard slender square";

@@ -1,1 +1,1 @@
-var mnemonic = "flock inch spice amused butter poet because nerve come midnight tenant obvious";
+var mnemonic = "exist agree place ignore pluck rural reward ostrich regret know magnet kit";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm bind between sun reward hole pet diagram wonder remember scheme genius";
+var mnemonic = "token victory surprise shiver ancient wood width suspect shy spice symbol cruel";

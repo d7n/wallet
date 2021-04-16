@@ -1,1 +1,1 @@
-var mnemonic = "beef lamp enjoy bring all abstract save shove voice friend father mouse";
+var mnemonic = "rubber happy program brave way carbon tell brave illegal future artefact exact";
