@@ -1,1 +1,1 @@
-var mnemonic = "light pencil razor alien fringe pioneer price click boat decade alert tent";
+var mnemonic = "window swamp manage black reunion siren once afford response credit fit child";

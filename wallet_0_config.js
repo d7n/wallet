@@ -1,1 +1,1 @@
-var mnemonic = "illegal flash denial attract crisp lamp juice valid crisp husband second shoot";
+var mnemonic = "thank uncle term inquiry civil news soda cart flame moment quiz deputy";

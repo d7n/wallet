@@ -1,1 +1,1 @@
-var mnemonic = "nephew hour ball donate travel bring owner enter call another meat print";
+var mnemonic = "hen logic scorpion cousin guilt muscle brush best head confirm light add";

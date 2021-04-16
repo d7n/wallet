@@ -1,1 +1,1 @@
-var mnemonic = "dolphin emerge arrange guard crack swamp bonus attack section call stove embrace";
+var mnemonic = "chuckle suspect tiger that talent beach dog visit broken enforce current around";

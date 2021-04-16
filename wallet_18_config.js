@@ -1,1 +1,1 @@
-var mnemonic = "siren submit upper accident august iron riot noise glance lyrics marriage engage";
+var mnemonic = "enough wood nasty hundred need repeat aspect vapor door ball mail core";

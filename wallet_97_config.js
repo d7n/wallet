@@ -1,1 +1,1 @@
-var mnemonic = "protect dog fresh seven sketch phone spell reward sentence top fluid dirt";
+var mnemonic = "battle shoulder loyal trade scan able jewel remind fringe raven beyond damage";

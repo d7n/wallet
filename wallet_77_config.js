@@ -1,1 +1,1 @@
-var mnemonic = "nature marine wife walnut grief ghost involve square ceiling drastic shift fault";
+var mnemonic = "face truly scrap sunny beauty analyst power lady paddle shift nominee battle";

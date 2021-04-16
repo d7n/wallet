@@ -1,1 +1,1 @@
-var mnemonic = "ginger today joke include miracle into salt daring permit aspect radar acquire";
+var mnemonic = "junk balcony charge protect large answer squeeze network sustain atom stumble view";

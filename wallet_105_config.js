@@ -1,1 +1,1 @@
-var mnemonic = "crazy logic brief finger gasp battle wool urban speed culture fee celery";
+var mnemonic = "predict fruit raw scene catch endless ability copy skull kiwi vacant place";

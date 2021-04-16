@@ -1,1 +1,1 @@
-var mnemonic = "shallow method lizard member guitar renew daughter minimum orange slab favorite clog";
+var mnemonic = "blossom clown unfold bamboo join absent false notice buffalo during senior cement";

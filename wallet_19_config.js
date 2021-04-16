@@ -1,1 +1,1 @@
-var mnemonic = "tilt blind develop between clump visa wing citizen juice extra welcome squeeze";
+var mnemonic = "citizen wash shrimp bachelor horror cannon pen shield cement differ color chalk";

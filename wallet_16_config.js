@@ -1,1 +1,1 @@
-var mnemonic = "purpose assume verify pull nut wife that avoid parrot gravity weird narrow";
+var mnemonic = "venue cruel reject rich orchard invite cannon leaf steak lobster wild scene";

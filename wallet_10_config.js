@@ -1,1 +1,1 @@
-var mnemonic = "judge inspire describe cabin nasty theory exhaust fluid glimpse mule ring home";
+var mnemonic = "situate glad more novel joy cream inspire run beyond flag truth broken";

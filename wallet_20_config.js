@@ -1,1 +1,1 @@
-var mnemonic = "real news put hold valley leader tool audit pattern insect friend disorder";
+var mnemonic = "asthma quarter cruel snake dirt meat review kid thunder south sample turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "violin witness heavy debris layer fame barely broken stable bronze point scorpion";
+var mnemonic = "top lottery flight leave roof clog viable armed connect mountain depth giraffe";

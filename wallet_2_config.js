@@ -1,1 +1,1 @@
-var mnemonic = "shoulder yellow dinner skate skirt lend improve athlete slender journey bunker random";
+var mnemonic = "destroy move hobby pet chronic aspect dice rubber wolf repair idea dice";

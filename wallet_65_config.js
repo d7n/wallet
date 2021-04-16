@@ -1,1 +1,1 @@
-var mnemonic = "screen radio often sight supply trophy flush control plunge moon warfare rail";
+var mnemonic = "tunnel impulse upset smile cry hour profit mechanic math glare host phone";

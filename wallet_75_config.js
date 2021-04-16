@@ -1,1 +1,1 @@
-var mnemonic = "forward kiss minimum size account benefit oblige frequent couch doll cover ability";
+var mnemonic = "series ski income ritual carry crawl teach smile unique exclude critic cube";

@@ -1,1 +1,1 @@
-var mnemonic = "praise city connect fun force view drink boring dream next jump merry";
+var mnemonic = "actor mobile moment type attitude outdoor ship dirt armed chimney multiply tackle";

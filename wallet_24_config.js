@@ -1,1 +1,1 @@
-var mnemonic = "asset gold nature doctor glass pink current beach belt pelican fragile thing";
+var mnemonic = "remove teach squirrel sea nice rack eager weekend just swear blind race";

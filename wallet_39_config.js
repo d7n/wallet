@@ -1,1 +1,1 @@
-var mnemonic = "swamp ankle grass guilt opinion stuff tired party library grace stem unfair";
+var mnemonic = "file goat away buddy orphan dutch invest trick rapid happy helmet lizard";

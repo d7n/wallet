@@ -1,1 +1,1 @@
-var mnemonic = "sport damp noble wealth moon nephew aspect acid grant language humor require";
+var mnemonic = "execute dice pond collect update double magic bomb lounge base arrive share";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead call trim tomorrow select guard effort alley liar student room obey";
+var mnemonic = "regular alley merge abandon juice grief next peasant tell attend little digital";

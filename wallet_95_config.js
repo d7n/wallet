@@ -1,1 +1,1 @@
-var mnemonic = "unaware sight leg worry injury roof torch crane open collect split couch";
+var mnemonic = "begin destroy shop garage melt infant fatal gym tired target inherit miss";

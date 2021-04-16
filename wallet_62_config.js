@@ -1,1 +1,1 @@
-var mnemonic = "length into animal draft broom exit cotton shield right element verb average";
+var mnemonic = "crucial legend cushion goddess aunt autumn wage circle keen pen ginger false";

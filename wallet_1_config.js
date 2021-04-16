@@ -1,1 +1,1 @@
-var mnemonic = "frog share expect fiber knock fault sell stereo orphan dress february rubber";
+var mnemonic = "opera crater push kid miracle trophy tennis above potato match famous digital";

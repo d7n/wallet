@@ -1,1 +1,1 @@
-var mnemonic = "install cinnamon warfare sense oblige gun list power quit season guess observe";
+var mnemonic = "juice shove arm glove panda market riot escape unaware mask board pig";

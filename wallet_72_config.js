@@ -1,1 +1,1 @@
-var mnemonic = "junk empower unaware patrol diet caution helmet sea vivid live chief space";
+var mnemonic = "choice series affair flight ginger riot material wise capable rebel obscure bench";

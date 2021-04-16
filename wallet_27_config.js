@@ -1,1 +1,1 @@
-var mnemonic = "neck employ emerge mouse local flock tribe entire nuclear improve name liar";
+var mnemonic = "leaf foot equip misery fold country response noodle dolphin happy inject wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual concert asset reopen protect aunt sunny urban elbow air service acoustic";
+var mnemonic = "certain book junior lion anger total loop moment favorite pole modify fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform tilt favorite poet visual arrest whip anxiety bench sick story token";
+var mnemonic = "amazing chapter clever surface reason churn tilt exclude face confirm gun multiply";

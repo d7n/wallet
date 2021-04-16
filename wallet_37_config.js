@@ -1,1 +1,1 @@
-var mnemonic = "room true crazy call boat dizzy palm fine brass current same note";
+var mnemonic = "idea hurt noise nut same manage knife vocal scene record dizzy tiger";

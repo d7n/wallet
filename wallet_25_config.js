@@ -1,1 +1,1 @@
-var mnemonic = "bless boost nurse size north expect hand violin side ankle remove output";
+var mnemonic = "original rural champion weasel nice welcome magic cargo foil slot picture glue";

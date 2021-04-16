@@ -1,1 +1,1 @@
-var mnemonic = "book repeat theme enter unknown battle gym jump estate sure document slim";
+var mnemonic = "stand train craft juice expire three casino relief empower auction laugh salon";

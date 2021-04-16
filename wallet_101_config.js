@@ -1,1 +1,1 @@
-var mnemonic = "end shoot upset guilt area bounce gap enemy coach whip grass royal";
+var mnemonic = "awesome point later hand fatal wink tenant card page bread slow view";

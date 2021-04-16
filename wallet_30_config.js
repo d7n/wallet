@@ -1,1 +1,1 @@
-var mnemonic = "youth bracket breeze fee survey control unit toast security furnace clog false";
+var mnemonic = "blame anxiety nest early legend lady funny amateur craft metal people pig";

@@ -1,1 +1,1 @@
-var mnemonic = "fat olympic mirror wild genre require neck segment exclude shoulder aerobic robot";
+var mnemonic = "immense gravity silk garlic demand agree rough zoo peanut game will wild";

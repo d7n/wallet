@@ -1,1 +1,1 @@
-var mnemonic = "brisk actress dwarf obscure tribe enlist dwarf order slide fork decorate poem";
+var mnemonic = "skirt brick genius answer census wood junior violin clump push piano lend";

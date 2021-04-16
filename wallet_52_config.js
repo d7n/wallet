@@ -1,1 +1,1 @@
-var mnemonic = "uncle series object often kick orange update blade fox bleak apple pelican";
+var mnemonic = "paddle sleep cat snap pigeon crowd breeze tide cash drip huge enough";

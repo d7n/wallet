@@ -1,1 +1,1 @@
-var mnemonic = "jacket provide claim afford flash regular remove final come city exist slow";
+var mnemonic = "host uphold rhythm loop tourist modify reduce absorb piano casual same offer";

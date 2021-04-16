@@ -1,1 +1,1 @@
-var mnemonic = "cheese boring soap multiply heavy want vehicle defense net predict trust robot";
+var mnemonic = "jaguar asthma arrow true excite explain you menu flag steak hidden scene";

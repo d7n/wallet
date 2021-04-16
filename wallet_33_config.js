@@ -1,1 +1,1 @@
-var mnemonic = "review hard page material donkey absent expand pond way result illness super";
+var mnemonic = "define episode fit almost lion text pioneer patient valid float judge victory";

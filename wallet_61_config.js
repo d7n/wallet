@@ -1,1 +1,1 @@
-var mnemonic = "later pill evolve genius rare patient happy recipe swim resource boring quote";
+var mnemonic = "aerobic parent install limb source bid dizzy great either until husband wide";

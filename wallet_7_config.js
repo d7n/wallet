@@ -1,1 +1,1 @@
-var mnemonic = "field demand access addict require polar party castle stadium any raven donkey";
+var mnemonic = "obtain cushion food end target harsh yellow forward lift include reward tenant";

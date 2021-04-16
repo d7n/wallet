@@ -1,1 +1,1 @@
-var mnemonic = "network release depart wolf rail utility promote tiny bronze museum sister horse";
+var mnemonic = "mercy iron thank blanket cliff figure lemon cat bronze glow benefit pulp";

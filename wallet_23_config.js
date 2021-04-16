@@ -1,1 +1,1 @@
-var mnemonic = "lens april soul wish vital hard april business harbor rough catch sentence";
+var mnemonic = "green maximum soldier skirt joke slush people all reduce hospital joy brick";

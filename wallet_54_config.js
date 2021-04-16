@@ -1,1 +1,1 @@
-var mnemonic = "capital turkey beyond cause super credit balcony bulb tray guilt tackle hello";
+var mnemonic = "tongue yard wrestle orange begin close nest push reduce toy treat domain";

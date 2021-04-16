@@ -1,1 +1,1 @@
-var mnemonic = "corn episode tube zero lawn talk yard you maid picture museum wrist";
+var mnemonic = "syrup street business enact wave narrow chimney naive swap travel chuckle chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "swim now merry defense voyage symptom permit public rain either reject camera";
+var mnemonic = "tilt insane voice strong hobby robust quote silver soap blame scale pair";

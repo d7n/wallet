@@ -1,1 +1,1 @@
-var mnemonic = "ritual train spell version bubble deal describe this inherit ship stairs surround";
+var mnemonic = "grocery honey machine oppose zero approve broccoli latin blush kingdom sister harvest";

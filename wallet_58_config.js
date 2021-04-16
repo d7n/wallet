@@ -1,1 +1,1 @@
-var mnemonic = "desert donate lava goat dad blanket weather puppy exhibit worry certain scorpion";
+var mnemonic = "carbon crack reduce expand saddle alert worth foam note pulse salon acid";

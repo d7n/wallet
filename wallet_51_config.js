@@ -1,1 +1,1 @@
-var mnemonic = "venture enter frog plug basket aim lemon display island area sort busy";
+var mnemonic = "trap catalog voice race address weasel disagree meat forget risk style zone";

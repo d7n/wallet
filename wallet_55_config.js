@@ -1,1 +1,1 @@
-var mnemonic = "brass target enact unknown empower sell skate coffee about govern ride story";
+var mnemonic = "erode boss tower decade series exchange leave deny priority minor awake upset";

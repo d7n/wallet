@@ -1,1 +1,1 @@
-var mnemonic = "science gentle clump student zero exact moral expect job skate box transfer";
+var mnemonic = "profit frequent tobacco crack adjust concert pumpkin input hero chimney body transfer";

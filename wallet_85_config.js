@@ -1,1 +1,1 @@
-var mnemonic = "grant book rather magnet banana venue pottery bacon flush shift nuclear try";
+var mnemonic = "usual common prefer broccoli turtle arrive carbon major garlic home ticket lift";

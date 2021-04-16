@@ -1,1 +1,1 @@
-var mnemonic = "fury predict champion lamp magnet fancy skill shrimp chicken frame tag okay";
+var mnemonic = "animal novel mention echo strike question laugh attack parrot sausage inmate empty";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch festival property giraffe system inform bread silk normal mean daughter fiscal";
+var mnemonic = "swift limb multiply onion curious fiber announce clerk leopard wet that net";

@@ -1,1 +1,1 @@
-var mnemonic = "sound burden grid unusual trial proud since input fossil pet involve pill";
+var mnemonic = "oak parent grass vacant tribe image cram afford find truck kidney shed";

@@ -1,1 +1,1 @@
-var mnemonic = "now emotion muffin silk boil river drill fury final power solve traffic";
+var mnemonic = "write potato evidence unit coyote flush produce pride village shrug modify claw";

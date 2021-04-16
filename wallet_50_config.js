@@ -1,1 +1,1 @@
-var mnemonic = "obvious rookie example retire hunt today anxiety bicycle lamp spend coffee patient";
+var mnemonic = "any fame lizard resource reunion sad castle combine town gaze maximum mix";

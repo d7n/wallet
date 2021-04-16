@@ -1,1 +1,1 @@
-var mnemonic = "harbor danger bronze catch box ice mention cream life keen cement mercy";
+var mnemonic = "squirrel pen muffin asset scout bonus valley vessel champion oblige april history";

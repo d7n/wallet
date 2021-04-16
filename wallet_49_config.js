@@ -1,1 +1,1 @@
-var mnemonic = "waste invest elephant scene member absorb cream replace clarify also walk way";
+var mnemonic = "true tower review income inform law aspect garbage find asthma news scrub";

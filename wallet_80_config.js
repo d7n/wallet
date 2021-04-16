@@ -1,1 +1,1 @@
-var mnemonic = "dice powder viable toss execute parade blade faith host girl punch silent";
+var mnemonic = "original they hurt head family front live slow inch theme horn large";

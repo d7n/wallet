@@ -1,1 +1,1 @@
-var mnemonic = "love obtain hope marble tent true expire vacuum brother wing tennis oval";
+var mnemonic = "finish hedgehog stem panther spoil length scatter climb leisure normal mule novel";

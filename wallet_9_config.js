@@ -1,1 +1,1 @@
-var mnemonic = "electric oyster roof beach other smooth pledge option hurt review life unable";
+var mnemonic = "pole shock region scatter tuna depend disease power way alarm bitter sail";

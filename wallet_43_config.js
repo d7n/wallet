@@ -1,1 +1,1 @@
-var mnemonic = "renew used high snake client oblige win infant success struggle march wife";
+var mnemonic = "edge age dry job lunar trouble cycle annual edit popular imitate pizza";

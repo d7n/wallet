@@ -1,1 +1,1 @@
-var mnemonic = "record hold easy raccoon extend seat solid grid earn loyal pink music";
+var mnemonic = "congress ginger expect horror veteran capital merry theme seat hub estate together";

@@ -1,1 +1,1 @@
-var mnemonic = "crew session cliff private refuse water swear large rabbit leisure rather rocket";
+var mnemonic = "casual sunset jump pudding humble salmon grit wall palace annual clown desert";

@@ -1,1 +1,1 @@
-var mnemonic = "fish number obvious evil slice involve toast enact heavy library fault relax";
+var mnemonic = "glue inform sketch real sun mix flavor vault budget warm symptom card";

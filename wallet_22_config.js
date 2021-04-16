@@ -1,1 +1,1 @@
-var mnemonic = "income position brass tube thank desk stage under gift arrest brave mosquito";
+var mnemonic = "claim party indoor ready brand mad payment fiber scheme cat capital beyond";

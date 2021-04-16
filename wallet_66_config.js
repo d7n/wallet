@@ -1,1 +1,1 @@
-var mnemonic = "cake soul sense local husband slot inhale own indoor measure young prefer";
+var mnemonic = "faith north essay gasp seminar rifle sign pupil express lyrics home ketchup";

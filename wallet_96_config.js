@@ -1,1 +1,1 @@
-var mnemonic = "ripple slogan nice polar grape diet index blood finish suffer salute magnet";
+var mnemonic = "indoor fox gate simple noise butter biology lizard east middle glow work";

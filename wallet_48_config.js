@@ -1,1 +1,1 @@
-var mnemonic = "mandate junior true aerobic corn effort occur delay under cause net ahead";
+var mnemonic = "neck also odor analyst burst fabric divert shrimp spirit gun enhance park";

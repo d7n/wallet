@@ -1,1 +1,1 @@
-var mnemonic = "march sand worth fancy ranch pony infant brown random sport wild boring";
+var mnemonic = "indoor forget crush pole minute gossip buffalo manual quote disorder adult rich";

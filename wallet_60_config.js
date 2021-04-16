@@ -1,1 +1,1 @@
-var mnemonic = "pen brother novel uncle scale torch gate public action exchange rapid giggle";
+var mnemonic = "battle gravity crew garage change snap used fitness peanut swift relief drill";

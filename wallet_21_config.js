@@ -1,1 +1,1 @@
-var mnemonic = "palm document agent gauge elephant lunch also game impulse banana hidden belt";
+var mnemonic = "admit wrestle gown mind giant hospital develop resemble grocery gift parade pear";

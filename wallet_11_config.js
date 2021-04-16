@@ -1,1 +1,1 @@
-var mnemonic = "teach satisfy brand ivory shrimp please retreat woman idle pond fat just";
+var mnemonic = "sample mass border hamster sea polar fog goat fee village they crumble";

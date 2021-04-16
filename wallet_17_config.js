@@ -1,1 +1,1 @@
-var mnemonic = "intact health place excite tent disease spread flavor animal goose chaos multiply";
+var mnemonic = "royal draft reflect crush toddler magnet meat best cluster neither opera frown";

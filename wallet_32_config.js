@@ -1,1 +1,1 @@
-var mnemonic = "visual bubble decade junior garbage taxi west edit black knee asthma crane";
+var mnemonic = "cricket grocery brother know blade design segment update prevent crash reunion diary";

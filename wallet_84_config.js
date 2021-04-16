@@ -1,1 +1,1 @@
-var mnemonic = "program stairs main tent teach have banner tone silent private couch ginger";
+var mnemonic = "above head bleak vague original asset reflect zebra report pass bottom fresh";

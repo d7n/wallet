@@ -1,1 +1,1 @@
-var mnemonic = "allow case brother feel unknown useful chalk genius fun tired cancel member";
+var mnemonic = "online team remember army primary fury actual sing glue huge season jacket";

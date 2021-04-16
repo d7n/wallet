@@ -1,1 +1,1 @@
-var mnemonic = "ticket lock dentist bulk mimic aim sick north walk slush source edit";
+var mnemonic = "window evolve aunt soldier chapter win work keen sheriff account ride example";

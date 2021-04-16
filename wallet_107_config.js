@@ -1,1 +1,1 @@
-var mnemonic = "avoid strong silly man aspect quote lazy theory royal exhibit math zone";
+var mnemonic = "deer spring people ordinary you valve volcano brisk unit social nuclear shy";

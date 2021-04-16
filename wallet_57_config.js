@@ -1,1 +1,1 @@
-var mnemonic = "rhythm chest say menu shallow payment orbit language tone apple noodle broccoli";
+var mnemonic = "lady purse spell spot bulk neglect hazard talk capital spell soldier step";

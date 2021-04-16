@@ -1,1 +1,1 @@
-var mnemonic = "dentist husband close empower believe drive force recall naive disagree render hammer";
+var mnemonic = "betray crazy cattle electric demise ordinary parade mixture polar sound company gravity";

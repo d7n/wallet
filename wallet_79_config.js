@@ -1,1 +1,1 @@
-var mnemonic = "jungle goddess dial view solar cloud prevent digital spice cake wealth bench";
+var mnemonic = "twenty theme invest wrap yard comic home valid wild student hair material";

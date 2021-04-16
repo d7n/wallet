@@ -1,1 +1,1 @@
-var mnemonic = "pull prison powder twenty walk side glance plug position regular extra jungle";
+var mnemonic = "town outer pattern cricket creek crucial inflict gaze emotion fatigue alley floor";

@@ -1,1 +1,1 @@
-var mnemonic = "wait idle avoid rice stadium blouse violin fat forget great suit north";
+var mnemonic = "piano spirit web borrow flee juice fiction protect laundry anxiety weird appear";

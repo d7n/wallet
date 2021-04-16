@@ -1,1 +1,1 @@
-var mnemonic = "scatter patient bean task address neutral mule traffic system boost hello leg";
+var mnemonic = "clap naive anger elephant unfair scrub toss among excess novel citizen gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "final picture lava sock pull grape hero royal light vessel prison prosper";
+var mnemonic = "midnight clerk polar lend rack quit civil round favorite reason sure announce";

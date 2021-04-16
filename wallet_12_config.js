@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cloud arm stem mystery tomorrow slender explain earn hair egg practice";
+var mnemonic = "crystal road flip laptop library lucky industry sick gate tissue thrive thank";

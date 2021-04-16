@@ -1,1 +1,1 @@
-var mnemonic = "produce they breeze spell muscle analyst cinnamon ladder empty setup bonus business";
+var mnemonic = "profit act gas bicycle appear term zone photo outdoor demise resemble siege";

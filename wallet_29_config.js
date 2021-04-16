@@ -1,1 +1,1 @@
-var mnemonic = "extend dish helmet aerobic cover model entry style oak scatter sport affair";
+var mnemonic = "split glance collect toddler wonder clump weird put industry frost basic inform";

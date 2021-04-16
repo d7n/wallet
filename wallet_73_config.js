@@ -1,1 +1,1 @@
-var mnemonic = "label violin draw load gravity because evoke dad jazz hole mean parade";
+var mnemonic = "feed just bitter silk jewel heart truth wing reward envelope battle east";

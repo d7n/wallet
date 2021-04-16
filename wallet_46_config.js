@@ -1,1 +1,1 @@
-var mnemonic = "carry blast blur confirm strike visual size industry wedding ivory private clinic";
+var mnemonic = "assist burger chief economy garage split program harvest curtain ability gym flower";

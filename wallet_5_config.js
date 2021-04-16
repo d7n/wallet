@@ -1,1 +1,1 @@
-var mnemonic = "venue escape bridge potato armor local chapter clerk pulse slice then cradle";
+var mnemonic = "chuckle math useless trend expire certain pave airport mirror embrace suspect bulb";

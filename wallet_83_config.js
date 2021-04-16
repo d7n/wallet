@@ -1,1 +1,1 @@
-var mnemonic = "cricket flower office short amused guess arctic law tilt lucky word quick";
+var mnemonic = "begin catch place pause bag source become escape fury food frog cry";

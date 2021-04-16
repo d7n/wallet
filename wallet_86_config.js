@@ -1,1 +1,1 @@
-var mnemonic = "duty fame scrap width adjust sugar dismiss region other unhappy travel tilt";
+var mnemonic = "unhappy dutch sustain hire ski extend amazing bone predict engine seek wagon";
