@@ -1,1 +1,1 @@
-var mnemonic = "party grant tone curious bundle south hope path wool sentence jelly crystal";
+var mnemonic = "recall ordinary slight velvet dinosaur one fury stereo lion dust hip rural";

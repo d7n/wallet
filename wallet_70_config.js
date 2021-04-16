@@ -1,1 +1,1 @@
-var mnemonic = "muffin base game clinic casino better bottom pipe team suggest cry drama";
+var mnemonic = "call eager stage lonely dawn range onion disagree multiply sail live vehicle";

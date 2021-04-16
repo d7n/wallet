@@ -1,1 +1,1 @@
-var mnemonic = "law wage regular illegal equal tattoo ankle wire truth cotton labor muffin";
+var mnemonic = "build lottery aisle tree sleep mansion say fat enemy can toilet divorce";

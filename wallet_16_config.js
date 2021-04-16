@@ -1,1 +1,1 @@
-var mnemonic = "north spirit film live sell forget broccoli palace program crowd autumn gallery";
+var mnemonic = "suggest side fiction afraid enlist acoustic limit battle swift survey violin cash";

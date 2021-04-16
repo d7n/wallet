@@ -1,1 +1,1 @@
-var mnemonic = "top disagree south come fringe supreme aware sunny size real rookie stumble";
+var mnemonic = "crater series shy type frost useless cloud dinner duck broccoli depend page";

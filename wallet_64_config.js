@@ -1,1 +1,1 @@
-var mnemonic = "beef friend crisp mouse surprise member guard era muffin claw polar virus";
+var mnemonic = "charge end dress wife broom wrestle afraid strike myself record clay world";

@@ -1,1 +1,1 @@
-var mnemonic = "early sight notice dial online base march stereo grow syrup eyebrow grant";
+var mnemonic = "elder orphan witness bunker celery rifle aware middle quarter uncle crucial plug";

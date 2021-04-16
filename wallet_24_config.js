@@ -1,1 +1,1 @@
-var mnemonic = "thumb result pottery symbol captain venture only grant glass crush route oak";
+var mnemonic = "quality stove direct cement dance surface swim risk bracket orphan phone demand";

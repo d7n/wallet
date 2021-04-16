@@ -1,1 +1,1 @@
-var mnemonic = "possible whale east theory cry idea tag wrist expect lumber vicious thunder";
+var mnemonic = "evolve cloth lock camera stem lunar loyal achieve indoor arrive gaze absent";

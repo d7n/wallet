@@ -1,1 +1,1 @@
-var mnemonic = "foil giant chase clump tomato letter split puzzle produce medal fiber shrimp";
+var mnemonic = "attract dust rigid matter dentist before legend frost tissue gift chair erupt";

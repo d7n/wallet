@@ -1,1 +1,1 @@
-var mnemonic = "furnace wrestle boil prize little there alien quit myth luggage motor swarm";
+var mnemonic = "pioneer gather scorpion loan another plate fade ignore fall subway tuition transfer";

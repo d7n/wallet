@@ -1,1 +1,1 @@
-var mnemonic = "produce document shock movie time wear owner business shell bacon jungle battle";
+var mnemonic = "youth reopen onion work jump square silver report adapt mimic kite later";

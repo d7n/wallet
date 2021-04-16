@@ -1,1 +1,1 @@
-var mnemonic = "liberty essay welcome security regular salmon concert ritual right tribe thumb elevator";
+var mnemonic = "phrase bar say flower snake couch display battle vital plastic age pen";

@@ -1,1 +1,1 @@
-var mnemonic = "own rubber island soldier entry abstract joke bind loan clutch plunge prevent";
+var mnemonic = "great trigger crew click odor win cart opera leaf laundry half deer";

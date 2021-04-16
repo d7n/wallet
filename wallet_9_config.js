@@ -1,1 +1,1 @@
-var mnemonic = "state topic spray original physical brisk anger merge miss cost grant tooth";
+var mnemonic = "bind legal child uniform rifle gate culture seminar salad broom frog gadget";

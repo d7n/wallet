@@ -1,1 +1,1 @@
-var mnemonic = "actress file thank eager clock elephant cargo dwarf now rude lamp sail";
+var mnemonic = "obvious above ridge surface fix salad ship visit dragon wet armor cattle";

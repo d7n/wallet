@@ -1,1 +1,1 @@
-var mnemonic = "coast bulk dice dish erosion patch train oppose upon kiwi dinosaur opera";
+var mnemonic = "describe repair hold tomato ancient pigeon tobacco myth fee spend duty weird";

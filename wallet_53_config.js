@@ -1,1 +1,1 @@
-var mnemonic = "glow gate thing sheriff buyer suit gravity proud asthma acid helmet dynamic";
+var mnemonic = "fold science alone ivory loyal where pledge prison mandate erosion tenant sword";

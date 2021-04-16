@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fiscal enter spray nature marriage skin damage ugly innocent fury record";
+var mnemonic = "dish human side author interest rail mirror pepper illegal museum bonus acid";

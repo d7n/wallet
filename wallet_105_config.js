@@ -1,1 +1,1 @@
-var mnemonic = "assume tired play obtain sure wing marriage renew owner ginger six desert";
+var mnemonic = "fade gate shield surface opinion program hollow empty morning crowd agree raccoon";

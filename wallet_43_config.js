@@ -1,1 +1,1 @@
-var mnemonic = "jelly minimum road leopard away menu empower pigeon sense color tube ostrich";
+var mnemonic = "trade adult chalk sponsor fantasy pottery utility tribe toss final color display";

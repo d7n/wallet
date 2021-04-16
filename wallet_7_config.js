@@ -1,1 +1,1 @@
-var mnemonic = "pencil tiny burger loud valid sun draw wedding crawl slush source senior";
+var mnemonic = "chapter vibrant amused hazard divert alley stairs fix company card snack bar";

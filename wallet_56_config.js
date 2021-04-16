@@ -1,1 +1,1 @@
-var mnemonic = "middle people wheat live cargo hungry repeat chunk exit tell basic clock";
+var mnemonic = "write royal thought surface advice merge tattoo churn pen car yard used";

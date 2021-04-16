@@ -1,1 +1,1 @@
-var mnemonic = "sorry present three drill belt ride taste explain candy salt flock myth";
+var mnemonic = "panther hold because fade dwarf motor sphere slice alter glide veteran spare";

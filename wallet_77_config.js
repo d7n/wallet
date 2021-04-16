@@ -1,1 +1,1 @@
-var mnemonic = "bacon scheme access another sadness question denial prefer service hard page segment";
+var mnemonic = "hundred sadness cigar gravity air dilemma receive insane soft penalty glimpse answer";

@@ -1,1 +1,1 @@
-var mnemonic = "problem obtain mask harsh foster wet zero upper icon rack velvet cake";
+var mnemonic = "salute rack wing admit update lecture click bring audit resource gospel slush";

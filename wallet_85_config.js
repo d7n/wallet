@@ -1,1 +1,1 @@
-var mnemonic = "carbon lyrics razor inside detail gap hero gate into ocean wing pudding";
+var mnemonic = "profit index float supply panel hazard again mosquito boost proof garlic ticket";

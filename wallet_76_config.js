@@ -1,1 +1,1 @@
-var mnemonic = "intact avoid biology siren nominee have spin hawk jewel unique sick jeans";
+var mnemonic = "dawn squirrel clutch hotel false fitness mercy sudden axis shed salon gate";

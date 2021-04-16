@@ -1,1 +1,1 @@
-var mnemonic = "taste emerge blood also glad matrix choose expect width hood canoe company";
+var mnemonic = "hub hamster protect include blush bike hospital guide pair inject bonus airport";

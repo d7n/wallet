@@ -1,1 +1,1 @@
-var mnemonic = "tissue matrix model advice attitude razor join organ furnace improve cook zero";
+var mnemonic = "sample benefit program winter accident ice impact similar hub champion soon picture";

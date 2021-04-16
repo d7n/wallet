@@ -1,1 +1,1 @@
-var mnemonic = "toe palace labor cry birth grid unfold index cousin place promote action";
+var mnemonic = "magic nominee flip corn love ladder tone soon borrow action tree length";

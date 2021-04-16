@@ -1,1 +1,1 @@
-var mnemonic = "around situate frozen media gather exchange test easy age cause hobby client";
+var mnemonic = "key bag error pilot history novel roast early vocal enforce inhale agree";

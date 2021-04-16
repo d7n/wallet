@@ -1,1 +1,1 @@
-var mnemonic = "library twenty ketchup method glory basic peanut helmet asset domain sign valley";
+var mnemonic = "nephew unfair movie renew bicycle hood slush decline hedgehog galaxy sick hover";

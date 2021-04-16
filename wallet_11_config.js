@@ -1,1 +1,1 @@
-var mnemonic = "fog coin deputy evoke surprise midnight rug rare payment again frog awkward";
+var mnemonic = "shaft job calm about lion edge edge shy nose sound return young";

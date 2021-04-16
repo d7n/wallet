@@ -1,1 +1,1 @@
-var mnemonic = "glad library kiwi initial virus random marriage fold major burger quiz music";
+var mnemonic = "evolve relief explain muffin glow element twist admit fame blouse together shoe";

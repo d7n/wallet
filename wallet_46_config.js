@@ -1,1 +1,1 @@
-var mnemonic = "dentist robot aim dance flip warrior pair slam rich become rally cannon";
+var mnemonic = "juice crew theme inside cigar village upper tower noise try bone special";

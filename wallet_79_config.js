@@ -1,1 +1,1 @@
-var mnemonic = "solution region wool leader salon sunny space biology faint renew endorse blood";
+var mnemonic = "metal axis kit frame peanut nominee size hello interest protect add vague";

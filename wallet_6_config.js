@@ -1,1 +1,1 @@
-var mnemonic = "proof suspect mind witness inch stem shell royal tag panic rotate indoor";
+var mnemonic = "profit proud street day music culture adjust body fluid tobacco occur furnace";

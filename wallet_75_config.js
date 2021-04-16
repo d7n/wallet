@@ -1,1 +1,1 @@
-var mnemonic = "congress lucky private scrub wasp chuckle tooth raise announce discover runway filter";
+var mnemonic = "jelly exhaust high silent solid wish stable noble sunset obscure false surprise";

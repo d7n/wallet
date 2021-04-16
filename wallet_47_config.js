@@ -1,1 +1,1 @@
-var mnemonic = "journey stage stem garment alarm ritual soldier merit pilot news drop march";
+var mnemonic = "connect orient blossom knife suspect indicate tragic blood game window fresh pepper";

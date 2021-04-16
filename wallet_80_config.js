@@ -1,1 +1,1 @@
-var mnemonic = "beef indicate scorpion local shallow horror service praise vital motion air pottery";
+var mnemonic = "breeze burden delay before wisdom urban you nominee pet room thought tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle demise wish number gloom post maid web cause bitter high upon";
+var mnemonic = "peace scout boy shaft sorry dust shield vapor vocal music mouse violin";

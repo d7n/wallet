@@ -1,1 +1,1 @@
-var mnemonic = "crazy improve bird hand load river tissue alter slow burst garment wrestle";
+var mnemonic = "mystery field rigid wire trick fuel cement hawk stand buddy any tonight";

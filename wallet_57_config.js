@@ -1,1 +1,1 @@
-var mnemonic = "coyote glass bachelor alter auto misery collect winner cricket between patch flush";
+var mnemonic = "opera mixed decade outdoor room maid bind major agree fiber battle brass";

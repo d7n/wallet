@@ -1,1 +1,1 @@
-var mnemonic = "girl pitch faculty example own village history symptom agent leisure trust ranch";
+var mnemonic = "dolphin memory nerve submit bicycle exclude book puppy lawn finish duck south";

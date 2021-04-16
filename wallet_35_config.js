@@ -1,1 +1,1 @@
-var mnemonic = "survey energy pipe know police maximum dove mammal unknown depth alpha miracle";
+var mnemonic = "mansion super car hunt leisure ice already disagree cluster road step rescue";

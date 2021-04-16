@@ -1,1 +1,1 @@
-var mnemonic = "fat twenty loyal mask twin oval fog beef muscle paddle stairs crystal";
+var mnemonic = "ask multiply toast price side movie blue add code double magic rack";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor live term penalty reunion length exit kingdom sphere wealth skirt devote";
+var mnemonic = "help sustain tray spray goddess atom tag rhythm frog legend cactus deliver";

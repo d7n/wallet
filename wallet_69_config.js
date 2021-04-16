@@ -1,1 +1,1 @@
-var mnemonic = "lumber nose stand myth home gossip betray athlete ankle valid tiny first";
+var mnemonic = "lab loan deputy horror benefit memory stumble stock fame slow title upset";

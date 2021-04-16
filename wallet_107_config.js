@@ -1,1 +1,1 @@
-var mnemonic = "brisk welcome impulse diary shy eternal blade retreat radio seed grace phrase";
+var mnemonic = "payment path candy dial venue escape seminar come resemble length garlic law";

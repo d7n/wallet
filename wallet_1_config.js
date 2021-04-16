@@ -1,1 +1,1 @@
-var mnemonic = "cruel swing column fitness oblige reveal exit outside trophy still toss grass";
+var mnemonic = "wrist defy country sketch entire orange direct thunder coil obey diamond rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic write market situate false amount round segment human comfort friend rocket";
+var mnemonic = "spot guide female speak jazz erosion youth phrase evolve ostrich right crumble";

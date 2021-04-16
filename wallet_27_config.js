@@ -1,1 +1,1 @@
-var mnemonic = "worry hidden fault face purpose riot ready shoe stadium region chicken autumn";
+var mnemonic = "day minute claw frown faint alpha dignity track brief receive cereal join";

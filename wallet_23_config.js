@@ -1,1 +1,1 @@
-var mnemonic = "cheese heavy grief nature lumber symbol firm tree later paddle frozen clay";
+var mnemonic = "eight congress shy motion frequent ramp venture huge pilot discover milk fish";

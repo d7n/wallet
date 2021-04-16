@@ -1,1 +1,1 @@
-var mnemonic = "permit uncover follow appear eager sun suffer city guess morning bring autumn";
+var mnemonic = "satisfy also kidney adjust weather excuse super target purpose expose legend citizen";

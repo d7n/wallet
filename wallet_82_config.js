@@ -1,1 +1,1 @@
-var mnemonic = "extra core march small lesson rebel meadow laptop joke cliff coil bird";
+var mnemonic = "mouse route exotic layer document huge reunion column judge group pyramid gospel";

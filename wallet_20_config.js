@@ -1,1 +1,1 @@
-var mnemonic = "fun zone thunder derive cube key grain march cute embark magnet vendor";
+var mnemonic = "rabbit despair gate hollow because chat decade produce cheese occur enrich edit";

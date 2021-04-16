@@ -1,1 +1,1 @@
-var mnemonic = "blade exhibit profit wasp stove cigar rifle suggest hope filter tray blind";
+var mnemonic = "lesson liar chronic oven ketchup tree possible mail connect skate present symptom";

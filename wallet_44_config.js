@@ -1,1 +1,1 @@
-var mnemonic = "rare drive pledge hurry try expect hybrid during year retire version dose";
+var mnemonic = "heavy next oppose lumber ticket trade accident tape beyond toast wise state";

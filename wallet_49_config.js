@@ -1,1 +1,1 @@
-var mnemonic = "tiger brief bone sibling clean twist wife seven someone empty comfort deliver";
+var mnemonic = "layer analyst client outer refuse carpet rule reduce replace pigeon wrestle define";

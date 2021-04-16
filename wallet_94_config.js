@@ -1,1 +1,1 @@
-var mnemonic = "curious wife rack clump chase column clown orbit wagon what pair torch";
+var mnemonic = "basic strike kind carbon cart evoke claim crazy you pigeon mask bitter";

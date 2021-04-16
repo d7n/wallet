@@ -1,1 +1,1 @@
-var mnemonic = "peace deliver blast useful tilt rug discover balance oak ten talent asthma";
+var mnemonic = "glad spin please oak verify race surge verb fine steel drop primary";

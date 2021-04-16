@@ -1,1 +1,1 @@
-var mnemonic = "grass canyon toilet note jeans roast another deputy before major slogan birth";
+var mnemonic = "salt upgrade pencil fancy electric mixed cross original chicken sadness curious group";

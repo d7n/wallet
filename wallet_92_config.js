@@ -1,1 +1,1 @@
-var mnemonic = "armed source expect owner title census portion local economy author quit risk";
+var mnemonic = "travel ridge pole eternal verify matrix tooth glide hover organ add wedding";

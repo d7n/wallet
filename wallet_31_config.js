@@ -1,1 +1,1 @@
-var mnemonic = "small device chest tent tissue hidden civil merit tray goddess early govern";
+var mnemonic = "tilt lava subway always satisfy moon embody matter piece eager antenna embody";

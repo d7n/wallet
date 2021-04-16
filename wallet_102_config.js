@@ -1,1 +1,1 @@
-var mnemonic = "twin silent start birth length basket ask opera bundle nature client wolf";
+var mnemonic = "remember palace cushion holiday gym divert auction life position grass around second";

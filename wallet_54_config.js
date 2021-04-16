@@ -1,1 +1,1 @@
-var mnemonic = "light napkin close cushion forget screen various cabin adult outer cabin exit";
+var mnemonic = "basic wall lake world all quality purpose member exact inquiry magic genuine";

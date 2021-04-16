@@ -1,1 +1,1 @@
-var mnemonic = "differ fatigue pioneer multiply funny card drop flower good left armor battle";
+var mnemonic = "square mention tomato bike magnet shiver property catalog outside ensure kind fun";

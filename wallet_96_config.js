@@ -1,1 +1,1 @@
-var mnemonic = "badge ride boring demise bomb pretty eye dilemma put enough pool deal";
+var mnemonic = "trick arrive outer believe gap stock thumb salad into rival alcohol next";

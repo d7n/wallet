@@ -1,1 +1,1 @@
-var mnemonic = "output ugly pupil guilt mirror move whisper gospel awake carbon dirt diet";
+var mnemonic = "endorse daughter give wise seven layer student habit essence crucial scissors arena";

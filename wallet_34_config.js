@@ -1,1 +1,1 @@
-var mnemonic = "unfair service cat initial speak junior annual climb laundry ahead copper spot";
+var mnemonic = "obtain involve child walnut tackle swap mosquito chase degree cement life dilemma";

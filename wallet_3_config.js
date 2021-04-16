@@ -1,1 +1,1 @@
-var mnemonic = "draw elbow uphold deal camera office clip device foil analyst cement grief";
+var mnemonic = "feed truly lesson utility gasp tail panic consider brave shrug update steel";

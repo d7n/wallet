@@ -1,1 +1,1 @@
-var mnemonic = "fuel volcano venue sheriff profit interest they measure mushroom level notice smoke";
+var mnemonic = "eager surround bounce day travel open float any surge civil impact prize";

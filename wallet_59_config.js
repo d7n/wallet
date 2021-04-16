@@ -1,1 +1,1 @@
-var mnemonic = "domain police excite width caution twist sun learn guide travel apology north";
+var mnemonic = "tilt grass label buffalo believe oppose tilt behind cigar village crack advance";

@@ -1,1 +1,1 @@
-var mnemonic = "honey unlock bus liberty express coil glue steak hockey brand place sun";
+var mnemonic = "lake yellow brain test unhappy middle latin alcohol quiz various december slab";

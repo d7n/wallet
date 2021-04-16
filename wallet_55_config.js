@@ -1,1 +1,1 @@
-var mnemonic = "punch thank child glide giant affair organ sugar weird tooth husband genius";
+var mnemonic = "angry gown adapt clock private duck weapon ship inspire final extra boat";

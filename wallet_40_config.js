@@ -1,1 +1,1 @@
-var mnemonic = "kidney dove fragile tuna battle extend credit october scorpion program glue vault";
+var mnemonic = "fit artefact wagon credit fitness useful badge hurt design warfare goddess method";

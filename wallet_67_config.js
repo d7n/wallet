@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow wild betray rapid ill giant height metal celery wealth atom flight";
+var mnemonic = "ocean invite caution hidden offer garlic universe hill dismiss energy kidney ribbon";

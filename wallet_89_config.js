@@ -1,1 +1,1 @@
-var mnemonic = "habit rookie jewel fresh warm clap breeze noise solution time bounce evil";
+var mnemonic = "bring brush amazing tribe oven gun cinnamon palace friend wood destroy caution";

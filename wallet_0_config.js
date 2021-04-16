@@ -1,1 +1,1 @@
-var mnemonic = "junk fine good neutral burden abuse image angry calm exhibit cannon nose";
+var mnemonic = "lawsuit soda void modify bomb devote chair always actual fruit rookie have";

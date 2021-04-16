@@ -1,1 +1,1 @@
-var mnemonic = "arch butter travel broom grid century slide fan glimpse rice detect rail";
+var mnemonic = "jealous use boring team busy caught thumb whip demise pencil leisure engage";

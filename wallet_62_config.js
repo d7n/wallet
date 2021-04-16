@@ -1,1 +1,1 @@
-var mnemonic = "vintage inch immune wedding label carbon rubber have deputy surround verify october";
+var mnemonic = "cement property thought purse pigeon cheap minimum nephew bag viable dress junior";

@@ -1,1 +1,1 @@
-var mnemonic = "rack fossil rough mosquito thing rice clap kiwi oppose oyster base young";
+var mnemonic = "clay subject solar cluster assume busy theme source drip invite rely theory";

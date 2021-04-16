@@ -1,1 +1,1 @@
-var mnemonic = "book alpha again liquid impulse crush pulp kid life absorb program keen";
+var mnemonic = "armed host renew ready resource wine media robust ask proof young clog";
