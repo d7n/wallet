@@ -1,1 +1,1 @@
-var mnemonic = "still devote oxygen tell flash cruise pudding motion lizard welcome sibling denial";
+var mnemonic = "vintage answer cheese student salute ordinary aim word want laugh simple narrow";

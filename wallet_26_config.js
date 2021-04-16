@@ -1,1 +1,1 @@
-var mnemonic = "brass minute giraffe media depend six raw renew shallow pioneer now dwarf";
+var mnemonic = "upset pear kidney worry story secret message deer claw liberty planet degree";

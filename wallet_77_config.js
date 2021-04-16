@@ -1,1 +1,1 @@
-var mnemonic = "hip juice basic crowd angry effort crisp smart joke canal pride such";
+var mnemonic = "warfare barely language drum fun kit mixed prevent rate glide lady sketch";

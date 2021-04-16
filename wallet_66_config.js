@@ -1,1 +1,1 @@
-var mnemonic = "weapon goose sad sniff apology obscure caught chuckle feature trust expect loop";
+var mnemonic = "tiny economy can walnut stock health desert shiver light snack satisfy symptom";

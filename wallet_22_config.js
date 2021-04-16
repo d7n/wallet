@@ -1,1 +1,1 @@
-var mnemonic = "leg picnic elder sight wealth blind position drill odor online differ pet";
+var mnemonic = "just payment vacant taste coral can weekend muffin claw turtle siren fruit";

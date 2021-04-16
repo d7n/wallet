@@ -1,1 +1,1 @@
-var mnemonic = "category stereo fiction cry test theme chief clip rent melt dream cool";
+var mnemonic = "welcome soul zone confirm scrap school virtual shift view festival file response";

@@ -1,1 +1,1 @@
-var mnemonic = "toast green exercise letter narrow library radio gate hover acoustic retreat script";
+var mnemonic = "neglect ritual nature swarm cinnamon green evil nice possible fancy drip rice";

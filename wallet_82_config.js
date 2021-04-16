@@ -1,1 +1,1 @@
-var mnemonic = "area cactus hour awful apart leisure same program wing candy whip behave";
+var mnemonic = "boring coast fun reveal raise hundred helmet economy chimney bundle road what";

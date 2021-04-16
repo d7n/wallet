@@ -1,1 +1,1 @@
-var mnemonic = "world try unveil more win muffin embrace way mimic unveil evidence sugar";
+var mnemonic = "they trick between flat federal fire pupil jaguar sand pyramid grief action";

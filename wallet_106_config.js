@@ -1,1 +1,1 @@
-var mnemonic = "vivid design lava curve gallery loan voice armed carry skull clinic claim";
+var mnemonic = "matrix sugar prosper clean drink combine draft wrap merge obvious glance nature";

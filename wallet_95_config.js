@@ -1,1 +1,1 @@
-var mnemonic = "tortoise dizzy dutch quarter solve sight damp same settle hover fever pottery";
+var mnemonic = "earn unfair argue stand vicious window fine pool horn flight bicycle rubber";

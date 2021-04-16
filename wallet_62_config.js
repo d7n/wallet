@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ranch keen maple perfect flash museum pipe report swap find way";
+var mnemonic = "recycle essence woman story lucky doctor blade female twenty endorse enter title";

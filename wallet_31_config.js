@@ -1,1 +1,1 @@
-var mnemonic = "scorpion gaze cave hint lab identify struggle autumn negative what visit pair";
+var mnemonic = "arrive spoon decade hurdle level bind cruel cycle food grant join cross";

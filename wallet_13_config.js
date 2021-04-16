@@ -1,1 +1,1 @@
-var mnemonic = "ski news enter mixed before spice assault victory fire twin lounge simple";
+var mnemonic = "knee obtain easy news pipe pear route soap document state skull jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "essay chicken ancient daring harvest vintage purity disorder regret forum silk merge";
+var mnemonic = "inflict pet food aim because faint click sign surprise silver violin anger";

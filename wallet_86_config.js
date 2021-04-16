@@ -1,1 +1,1 @@
-var mnemonic = "cigar weekend swarm worry discover armor kit enable lizard case cushion wing";
+var mnemonic = "brain junior category hub paper guitar circle kidney cousin hurt artefact desk";

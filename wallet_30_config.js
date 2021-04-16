@@ -1,1 +1,1 @@
-var mnemonic = "churn insect auction glad stove play adult unfair goddess carpet unfold rocket";
+var mnemonic = "tuition rocket inch box chat cup airport hedgehog renew citizen quality air";

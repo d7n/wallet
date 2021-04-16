@@ -1,1 +1,1 @@
-var mnemonic = "remind derive fruit roast swear soul valve mansion hire blast pipe rice";
+var mnemonic = "turtle price skate north shadow tumble meat patient decorate please coast stairs";

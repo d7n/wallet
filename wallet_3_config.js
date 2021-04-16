@@ -1,1 +1,1 @@
-var mnemonic = "squeeze gaze capital brick undo flock hundred artwork session eye ice beyond";
+var mnemonic = "rain album pupil guard vessel army adapt recycle conduct stamp fury decade";

@@ -1,1 +1,1 @@
-var mnemonic = "hope put bulk kitchen pelican hen volume pattern giraffe absurd pulp physical";
+var mnemonic = "swamp option enhance twist alert arrange addict dish moon airport deny crucial";

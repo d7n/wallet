@@ -1,1 +1,1 @@
-var mnemonic = "ketchup arm smooth topic act fresh absurd unaware kit police citizen exhaust";
+var mnemonic = "deputy absent cube combine phone school solution maple pudding level reduce grain";

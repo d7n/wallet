@@ -1,1 +1,1 @@
-var mnemonic = "exist process universe top cabbage pear island program cabbage chair gospel bacon";
+var mnemonic = "baby cat notice produce pact drastic swallow penalty sure record soccer fame";

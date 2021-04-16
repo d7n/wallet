@@ -1,1 +1,1 @@
-var mnemonic = "guess include rich stool venture win social arena evil filter ridge elegant";
+var mnemonic = "solid maximum execute balance protect fiscal cherry hammer leader giraffe unusual giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "grass tone shallow guide rebuild matrix flat come oval gun embody domain";
+var mnemonic = "turn valve edit cliff comic diamond author pride tenant egg biology suspect";

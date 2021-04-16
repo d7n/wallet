@@ -1,1 +1,1 @@
-var mnemonic = "main swap turkey retire skate typical mixed reduce vapor crack cat conduct";
+var mnemonic = "lonely torch spend tribe pull mercy romance cushion choose shoe glory guitar";

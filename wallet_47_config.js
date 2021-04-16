@@ -1,1 +1,1 @@
-var mnemonic = "maximum pigeon brain funny gain filter music grid position million drink neither";
+var mnemonic = "town scout pole meadow piano patch scatter leave orphan review bubble toss";

@@ -1,1 +1,1 @@
-var mnemonic = "glad barrel exile canoe ten fresh soft click retreat tooth animal verb";
+var mnemonic = "erase example glory flat city network first aware number spell inhale rabbit";

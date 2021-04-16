@@ -1,1 +1,1 @@
-var mnemonic = "behave dilemma double manual horror hat awkward find tone force holiday job";
+var mnemonic = "addict cactus dentist zoo ticket pistol wide lottery blast engine destroy eternal";

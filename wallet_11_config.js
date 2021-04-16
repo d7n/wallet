@@ -1,1 +1,1 @@
-var mnemonic = "engage syrup stomach siren know island engine aunt toy multiply skull gun";
+var mnemonic = "steak size juice swing senior library blind during caution jazz evidence senior";

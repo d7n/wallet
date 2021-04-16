@@ -1,1 +1,1 @@
-var mnemonic = "situate month pyramid voyage vacant guess end pen advance file idea today";
+var mnemonic = "main scout mix sign artefact sugar bulb animal letter double receive today";

@@ -1,1 +1,1 @@
-var mnemonic = "elite model jump search long fitness awkward number found bicycle region vicious";
+var mnemonic = "siege biology approve elevator recycle bulk guard fame daughter silent diesel post";

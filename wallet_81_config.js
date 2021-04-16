@@ -1,1 +1,1 @@
-var mnemonic = "garage nothing question penalty remain canoe power sniff sustain dress iron gas";
+var mnemonic = "seven inherit office actual blouse sail hungry cattle south flush horse garbage";

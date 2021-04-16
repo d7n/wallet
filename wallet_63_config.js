@@ -1,1 +1,1 @@
-var mnemonic = "taste fatigue hamster hurry six acoustic flag old return member output north";
+var mnemonic = "biology close cake salt east flame inmate orient fiber require omit live";

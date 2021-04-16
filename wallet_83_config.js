@@ -1,1 +1,1 @@
-var mnemonic = "random unique bless maximum traffic stove donor sustain paddle scare main rural";
+var mnemonic = "ocean shell pencil used budget penalty sense become behind since solar soft";

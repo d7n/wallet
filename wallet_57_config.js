@@ -1,1 +1,1 @@
-var mnemonic = "whale nest dumb wrestle ask slender dress suit student print furnace october";
+var mnemonic = "buzz hat earn key oblige modify jaguar chunk drill law decorate spoon";

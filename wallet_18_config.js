@@ -1,1 +1,1 @@
-var mnemonic = "friend menu flame very spell skull large neither market sister west seat";
+var mnemonic = "toast between cry erase glass eternal jump they toddler scrap allow choice";

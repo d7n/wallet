@@ -1,1 +1,1 @@
-var mnemonic = "large narrow decline human blur promote raven across lock bird total debris";
+var mnemonic = "crucial avocado bullet host awful demise hidden torch daughter genre hip rack";

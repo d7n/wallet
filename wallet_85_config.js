@@ -1,1 +1,1 @@
-var mnemonic = "sustain notable swear photo father raccoon funny flip observe food female west";
+var mnemonic = "catalog frozen chef latin act detect razor such intact card when mosquito";

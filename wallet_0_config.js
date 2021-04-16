@@ -1,1 +1,1 @@
-var mnemonic = "elder beyond pact outdoor awesome purpose burst enrich grass banner direct pulp";
+var mnemonic = "write zone vacuum parrot say miss acquire secret nice pool goddess riot";

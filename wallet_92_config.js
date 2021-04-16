@@ -1,1 +1,1 @@
-var mnemonic = "else derive price sound suggest notable hole discover vocal demise peanut trick";
+var mnemonic = "moral pair tribe occur ivory shallow camera junior endless gift entry deny";

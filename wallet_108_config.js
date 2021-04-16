@@ -1,1 +1,1 @@
-var mnemonic = "cabbage brain addict clap weasel found amateur throw champion wood summer carbon";
+var mnemonic = "spread disorder tragic inside inflict vivid dragon couch weekend scheme clog cross";

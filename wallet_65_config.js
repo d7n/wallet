@@ -1,1 +1,1 @@
-var mnemonic = "sting cattle sister sadness famous resist skirt patient table sing earn boil";
+var mnemonic = "duck gap decide wedding argue pear roof electric job false apart pill";

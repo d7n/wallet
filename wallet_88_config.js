@@ -1,1 +1,1 @@
-var mnemonic = "wave diet catch math blood forward genius rely trick funny seat report";
+var mnemonic = "announce goddess card lawsuit clump orchard shine cabin display family lounge spot";

@@ -1,1 +1,1 @@
-var mnemonic = "demand eyebrow symbol pony senior hire ability fruit actual zoo skill transfer";
+var mnemonic = "sword shine lyrics wine shock couple uncover axis page giant fresh spy";

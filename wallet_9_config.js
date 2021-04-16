@@ -1,1 +1,1 @@
-var mnemonic = "bean deputy issue word live math disorder toilet creek manual please act";
+var mnemonic = "ozone civil buzz tiger layer document response twenty mother yard business involve";

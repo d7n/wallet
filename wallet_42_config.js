@@ -1,1 +1,1 @@
-var mnemonic = "humble planet acid mirror farm possible blur hurdle measure type salon solar";
+var mnemonic = "crater print annual rally dog frame input pony bundle stuff wrap approve";

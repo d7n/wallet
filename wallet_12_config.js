@@ -1,1 +1,1 @@
-var mnemonic = "someone scatter walk antenna comic reform nature robust electric olive walk ensure";
+var mnemonic = "gossip cancel tuition buddy poet bubble flight attract theory solution industry truly";

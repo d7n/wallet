@@ -1,1 +1,1 @@
-var mnemonic = "minimum rabbit chest plunge arrow order early rotate huge oppose curve crucial";
+var mnemonic = "hole release initial frozen rice comic wage pyramid base fashion hand holiday";

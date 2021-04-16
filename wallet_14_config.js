@@ -1,1 +1,1 @@
-var mnemonic = "repair inhale awesome wrestle arctic wear derive hat summer satisfy expand grunt";
+var mnemonic = "easily dress evoke mesh setup excess beauty road jelly dove enter verb";

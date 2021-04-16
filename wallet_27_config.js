@@ -1,1 +1,1 @@
-var mnemonic = "then vessel help copy gate essay ocean develop moral unique unusual claim";
+var mnemonic = "weasel sister appear provide gadget broccoli nasty empower city roast chalk kangaroo";

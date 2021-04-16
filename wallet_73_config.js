@@ -1,1 +1,1 @@
-var mnemonic = "employ yellow dove intact annual canyon album dove track glow write siege";
+var mnemonic = "monkey scan fruit judge light math organ kingdom worth manual amused owner";

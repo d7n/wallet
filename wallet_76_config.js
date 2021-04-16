@@ -1,1 +1,1 @@
-var mnemonic = "circle shoot sniff spirit spring hand fetch parrot path allow until attitude";
+var mnemonic = "can book palace sword mule ready diet elegant across borrow ready opinion";

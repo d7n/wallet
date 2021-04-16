@@ -1,1 +1,1 @@
-var mnemonic = "ring intact ginger tower wife spirit pill glare split cute adult cloth";
+var mnemonic = "short skin grain original trophy advice cycle venture another style stay soccer";

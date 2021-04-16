@@ -1,1 +1,1 @@
-var mnemonic = "poverty exotic element double scrap plunge quarter fiction exclude party bind hungry";
+var mnemonic = "catalog duty inner carry erase wood elite treat code couple true voice";

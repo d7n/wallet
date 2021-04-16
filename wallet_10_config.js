@@ -1,1 +1,1 @@
-var mnemonic = "blame sure chaos wash orphan three anchor skin punch check slot stand";
+var mnemonic = "path discover congress labor bag actress very recycle sponsor crater cigar similar";

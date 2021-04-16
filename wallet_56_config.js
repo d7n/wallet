@@ -1,1 +1,1 @@
-var mnemonic = "giant basic west accuse rocket two town gym piece friend ripple fruit";
+var mnemonic = "random chalk swim crew jacket sweet collect laugh survey payment mystery acid";

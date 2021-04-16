@@ -1,1 +1,1 @@
-var mnemonic = "satoshi can oppose hamster supreme mean morning remember tissue enjoy hair hospital";
+var mnemonic = "soft seminar fold plug insect shallow piano off diesel month spike debris";

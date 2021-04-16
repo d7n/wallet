@@ -1,1 +1,1 @@
-var mnemonic = "spirit laugh million post identify tonight soul shiver caution wrong pledge puppy";
+var mnemonic = "isolate robot frog volume cruel material cave stairs whisper advice unaware yard";

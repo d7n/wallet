@@ -1,1 +1,1 @@
-var mnemonic = "vicious feel rule flavor artefact cushion share rose squirrel chat nothing celery";
+var mnemonic = "twelve blanket combine chair youth critic load maximum marriage milk caution soap";

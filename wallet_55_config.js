@@ -1,1 +1,1 @@
-var mnemonic = "carpet define occur wealth liar situate kiwi dynamic fossil nephew require park";
+var mnemonic = "silly bar snack pretty tiger hat segment creek fall kid zero dash";

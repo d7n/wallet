@@ -1,1 +1,1 @@
-var mnemonic = "hawk fall enlist naive toilet science prevent live era sunset equip vicious";
+var mnemonic = "squeeze reflect arctic smoke milk eager unaware know kind certain vacuum inquiry";

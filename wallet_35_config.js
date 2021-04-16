@@ -1,1 +1,1 @@
-var mnemonic = "typical sample cargo force thumb edit chaos waste old ripple expose sugar";
+var mnemonic = "alpha immense home cradle allow chase duck poem veteran hidden window atom";

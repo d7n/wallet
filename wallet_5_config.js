@@ -1,1 +1,1 @@
-var mnemonic = "occur opinion box inch dust wagon pair arm neither two year jealous";
+var mnemonic = "exclude waste wet onion whale swarm assist weasel march wheat various permit";

@@ -1,1 +1,1 @@
-var mnemonic = "almost obscure deputy exclude vacuum stand can eager merit spread aerobic yard";
+var mnemonic = "current monkey buddy obvious eyebrow help butter first effort wolf toward lamp";

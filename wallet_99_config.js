@@ -1,1 +1,1 @@
-var mnemonic = "sick endless yard fresh improve shoe stand episode hill large betray ugly";
+var mnemonic = "churn observe local stuff enlist elbow admit ready raccoon candy speak kiwi";

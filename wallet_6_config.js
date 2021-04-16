@@ -1,1 +1,1 @@
-var mnemonic = "slide click base tape topple ostrich upset alien seek wink share damage";
+var mnemonic = "way charge custom welcome stay area brisk fish address liberty grunt margin";

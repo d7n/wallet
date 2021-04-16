@@ -1,1 +1,1 @@
-var mnemonic = "edge extra silk zebra minimum shallow zero truck raccoon double reason wrist";
+var mnemonic = "army door symbol wide flame inform shed ketchup clump chase habit mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle orphan uncle tuna kind amateur teach destroy ready summer forum slogan";
+var mnemonic = "leg kiss common elbow demise joy manage jealous cube van sight enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "waste diagram injury adjust wise love salon domain bomb expand similar report";
+var mnemonic = "conduct ice vicious guard write chuckle reject theory slot first issue where";

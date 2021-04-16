@@ -1,1 +1,1 @@
-var mnemonic = "example track fluid sport moment arctic movie alone warrior west misery reason";
+var mnemonic = "empower orient where work machine good use flight short sign typical hundred";

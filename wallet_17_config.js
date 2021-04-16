@@ -1,1 +1,1 @@
-var mnemonic = "skirt refuse gather express club swap impact goat income defense trend portion";
+var mnemonic = "pistol already prison sure cup element room slide main card crazy spin";

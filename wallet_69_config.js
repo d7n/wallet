@@ -1,1 +1,1 @@
-var mnemonic = "sustain casino gather sick airport length door exotic glimpse chalk girl invest";
+var mnemonic = "survey exact dune join pepper oval market subway police creek rib shift";

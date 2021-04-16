@@ -1,1 +1,1 @@
-var mnemonic = "burger innocent sketch horror answer prosper also runway clip diary text decorate";
+var mnemonic = "decide harsh rose reform adapt garage team color mosquito animal scale direct";

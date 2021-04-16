@@ -1,1 +1,1 @@
-var mnemonic = "arrest double focus camp neither power mechanic bullet wisdom chaos unable pyramid";
+var mnemonic = "neck climb regret project tragic hen soup artist brain nature excuse matrix";

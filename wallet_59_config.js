@@ -1,1 +1,1 @@
-var mnemonic = "erosion light flame drive throw rubber mobile crater result accident mistake flock";
+var mnemonic = "canyon light eagle surge alter tone hazard stuff view enjoy glare excite";

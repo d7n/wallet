@@ -1,1 +1,1 @@
-var mnemonic = "cotton dream peanut enjoy hunt become van write drink problem civil cube";
+var mnemonic = "midnight mind business denial real imitate garage cheap ahead eight inquiry zone";

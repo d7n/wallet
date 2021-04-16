@@ -1,1 +1,1 @@
-var mnemonic = "explain valid gain arrive master injury route lawn idea spider blossom emotion";
+var mnemonic = "fold ugly praise range sense caught gate chuckle segment gate pelican universe";

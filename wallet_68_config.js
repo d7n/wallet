@@ -1,1 +1,1 @@
-var mnemonic = "cool approve menu mom museum spread upgrade slab kangaroo mule alpha where";
+var mnemonic = "pair chase company fluid dutch supply observe bright over palm food frog";

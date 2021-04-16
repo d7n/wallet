@@ -1,1 +1,1 @@
-var mnemonic = "popular govern beach know valid orchard ethics crunch sell again offer axis";
+var mnemonic = "divert print task hawk office verify square update unable close poem silent";

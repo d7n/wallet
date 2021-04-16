@@ -1,1 +1,1 @@
-var mnemonic = "velvet artefact civil salute attack floor outdoor spread glass net rule tennis";
+var mnemonic = "oyster motion book virus enemy pause twist inside before life casual effort";

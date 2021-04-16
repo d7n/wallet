@@ -1,1 +1,1 @@
-var mnemonic = "deposit ready horror body erupt foam need swift weasel chunk broccoli math";
+var mnemonic = "crisp exchange candy rose friend clean caution invite crisp strike immune yard";

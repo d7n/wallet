@@ -1,1 +1,1 @@
-var mnemonic = "require few rebel velvet ladder trumpet hammer transfer mass nerve glare leopard";
+var mnemonic = "social frequent spare solve traffic announce safe mean rib address surround law";

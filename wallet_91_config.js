@@ -1,1 +1,1 @@
-var mnemonic = "earn beach height away pave width shift hand project explain obtain sunset";
+var mnemonic = "betray limb minimum crucial shoulder elder entire bulk below gauge final essay";

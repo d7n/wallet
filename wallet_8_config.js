@@ -1,1 +1,1 @@
-var mnemonic = "prosper morning lemon guess sail album donate waste hammer organ left lemon";
+var mnemonic = "decline silent silent globe tail ceiling spray olympic switch raise tenant vanish";

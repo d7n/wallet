@@ -1,1 +1,1 @@
-var mnemonic = "envelope display couple promote neglect erode apart process sting kit drum pilot";
+var mnemonic = "left approve surprise old cook truck merry blind setup doctor match search";

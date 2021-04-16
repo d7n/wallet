@@ -1,1 +1,1 @@
-var mnemonic = "run cake lawsuit practice vault notable inch sphere gorilla submit garment hub";
+var mnemonic = "they deer endless science donkey price zero riot upon merit aerobic ethics";

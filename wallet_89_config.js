@@ -1,1 +1,1 @@
-var mnemonic = "cool educate flag miss gate accuse stuff glad sense device ranch gun";
+var mnemonic = "dune talent raccoon divorce peasant govern chimney puppy parade surprise replace detail";

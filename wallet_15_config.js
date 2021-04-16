@@ -1,1 +1,1 @@
-var mnemonic = "borrow rain chat hard topple impose fuel seed panic omit quantum total";
+var mnemonic = "chimney once portion club olive palace category motion rubber hunt valley library";

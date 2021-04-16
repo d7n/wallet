@@ -1,1 +1,1 @@
-var mnemonic = "frost quit peace eagle daring fish clay old rich bread round write";
+var mnemonic = "raw salt wave success action two front renew wire exhaust antique admit";

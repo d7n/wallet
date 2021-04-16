@@ -1,1 +1,1 @@
-var mnemonic = "clarify type dial regular bar stadium will lesson waste title tomorrow glide";
+var mnemonic = "obscure rose suspect know tip soul universe brief inmate snap tent path";

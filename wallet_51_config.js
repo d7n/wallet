@@ -1,1 +1,1 @@
-var mnemonic = "wife badge fruit solar service mistake lake wait cargo vapor ship choice";
+var mnemonic = "athlete pioneer great drink say tribe base prosper person one ostrich delay";

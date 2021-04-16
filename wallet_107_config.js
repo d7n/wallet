@@ -1,1 +1,1 @@
-var mnemonic = "year blouse caution hundred mad police filter juice cereal avoid prevent laundry";
+var mnemonic = "attack slender scatter sadness vicious basket across spare lock lunar issue open";

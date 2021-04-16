@@ -1,1 +1,1 @@
-var mnemonic = "biology toward panel mad dawn possible bone success lobster possible receive card";
+var mnemonic = "rabbit boil economy method wild gentle city pill left hip upon become";

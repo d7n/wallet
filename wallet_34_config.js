@@ -1,1 +1,1 @@
-var mnemonic = "spike luxury junior lounge goat tourist install order what crowd endorse dry";
+var mnemonic = "picnic match thumb obtain unveil inhale orbit key dove cigar clog wrestle";
