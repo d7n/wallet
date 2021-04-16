@@ -1,1 +1,1 @@
-var mnemonic = "stock need town place woman unhappy chest acquire shadow stuff home film";
+var mnemonic = "toast author planet wear jacket shadow program inside slight nothing doctor dove";

@@ -1,1 +1,1 @@
-var mnemonic = "give harbor zebra alert roof dutch style join permit ability must lady";
+var mnemonic = "elephant suffer clean forest verify square smart isolate rug next faint strong";

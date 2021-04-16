@@ -1,1 +1,1 @@
-var mnemonic = "card kidney still explain sleep history guitar north across spawn pear holiday";
+var mnemonic = "surprise country escape slam memory fever broom tone genius warrior tooth quit";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare kangaroo liberty banner bread pole possible crack surround phone convince grain";
+var mnemonic = "flower solar gown promote guide shell grief lawn suspect buddy version million";

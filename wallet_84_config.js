@@ -1,1 +1,1 @@
-var mnemonic = "smart tortoise boat lunar media false three bean duty salmon coffee market";
+var mnemonic = "confirm guard reopen ensure notice satisfy beach exact stairs update critic deny";

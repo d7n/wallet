@@ -1,1 +1,1 @@
-var mnemonic = "genre suspect flee cousin flower motor announce turkey buffalo drink moral labor";
+var mnemonic = "bus order autumn potato eager fine ecology short parrot since wrap leg";

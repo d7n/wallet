@@ -1,1 +1,1 @@
-var mnemonic = "cattle seek coach morning panel reject climb hawk shrimp hard senior obey";
+var mnemonic = "gentle fresh plate forget day flee lemon rotate power tray mom soda";

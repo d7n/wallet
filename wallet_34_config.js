@@ -1,1 +1,1 @@
-var mnemonic = "palace shaft catalog sound census void present practice hat neutral bright narrow";
+var mnemonic = "frequent fault strong trust possible true artist wonder capable erode shiver blur";

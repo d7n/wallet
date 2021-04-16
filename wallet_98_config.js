@@ -1,1 +1,1 @@
-var mnemonic = "dizzy original clump town lady close cube inmate curve unaware fan hawk";
+var mnemonic = "garbage glimpse bicycle mechanic priority step bottom oyster october apology come harbor";

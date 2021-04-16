@@ -1,1 +1,1 @@
-var mnemonic = "more food oyster apple dilemma mutual decorate vocal cup fatigue once stomach";
+var mnemonic = "monkey invest balance forest steel badge garbage success near heavy begin gun";

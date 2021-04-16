@@ -1,1 +1,1 @@
-var mnemonic = "hockey ocean chest they silver army alone buzz engine bomb connect book";
+var mnemonic = "egg chicken injury lecture hair only lamp special echo debate gentle shuffle";

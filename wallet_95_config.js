@@ -1,1 +1,1 @@
-var mnemonic = "width chest inhale hunt valve pluck glide artist engine bridge soldier cart";
+var mnemonic = "problem glare unusual south escape noodle option swing zone style shift casino";

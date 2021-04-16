@@ -1,1 +1,1 @@
-var mnemonic = "system lock dismiss carpet list they expand wheel stairs elephant armed enhance";
+var mnemonic = "tackle slender abstract page field basket tumble infant security exile boat deer";

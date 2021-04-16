@@ -1,1 +1,1 @@
-var mnemonic = "expose lava caution raw level spawn elephant chase duty mansion army push";
+var mnemonic = "drive little crawl reveal napkin ginger genre away rib coconut curious dove";

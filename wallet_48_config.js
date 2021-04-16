@@ -1,1 +1,1 @@
-var mnemonic = "flavor vintage vocal trip airport spike kind crush arrow wear oil edge";
+var mnemonic = "vessel any brick truly city goose boring employ palace census almost final";

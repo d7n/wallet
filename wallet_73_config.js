@@ -1,1 +1,1 @@
-var mnemonic = "buyer echo smile shrimp movie truck verify crisp produce forest memory quick";
+var mnemonic = "decide inquiry ethics flat brass fat cage nature marriage anxiety ability vague";

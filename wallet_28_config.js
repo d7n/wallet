@@ -1,1 +1,1 @@
-var mnemonic = "comfort later address strike waste produce almost lock eagle move forest insect";
+var mnemonic = "symbol phone quote wasp gauge enough divorce clinic veteran segment soap saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant kid color lemon holiday memory hurdle silk man rigid under bleak";
+var mnemonic = "aisle soap ticket crew empower upgrade rally giant plate vast eternal crouch";

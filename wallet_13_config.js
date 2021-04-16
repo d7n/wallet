@@ -1,1 +1,1 @@
-var mnemonic = "chunk next goose inspire patient second way kiwi weekend fitness pen asset";
+var mnemonic = "exact broken frost east sausage actor trumpet artist mechanic rocket face erode";

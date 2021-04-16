@@ -1,1 +1,1 @@
-var mnemonic = "film corn eager detect upset spend family brother rigid magic muffin rely";
+var mnemonic = "nominee ready type sunny danger ticket voyage evoke version vapor blood sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "female market letter people thunder frog debris cement wrestle dose answer drastic";
+var mnemonic = "scatter math follow broken crumble travel tone mosquito start shine worth abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey garment duty engage phone open cube finger home harvest place laugh";
+var mnemonic = "increase arch tribe wine weird mosquito little quick acquire pepper illness ocean";

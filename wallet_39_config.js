@@ -1,1 +1,1 @@
-var mnemonic = "excuse crisp inside squirrel modify cream distance dust moon lawsuit spread bomb";
+var mnemonic = "express session police decrease clutch orient duty argue ensure pig blind useless";

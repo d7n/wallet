@@ -1,1 +1,1 @@
-var mnemonic = "sniff message fluid second favorite couple slight loan year gain type small";
+var mnemonic = "purity stereo husband silent know impulse wrong leg photo leave skill normal";

@@ -1,1 +1,1 @@
-var mnemonic = "bind all ten proof grow essay ceiling fossil fever improve lion essence";
+var mnemonic = "better screen hard retreat solar thank cruel pencil vibrant possible news vault";

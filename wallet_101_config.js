@@ -1,1 +1,1 @@
-var mnemonic = "bronze evolve toy cement decade little salmon enjoy bulb check blue grape";
+var mnemonic = "dentist stereo wait satisfy embark captain patient puppy duck group pyramid visit";

@@ -1,1 +1,1 @@
-var mnemonic = "process fat trash pattern sentence decline soccer material mad update over electric";
+var mnemonic = "limb toilet donkey firm common legal seven veteran admit cross cart jealous";

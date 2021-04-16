@@ -1,1 +1,1 @@
-var mnemonic = "dismiss client ugly cook old order salt vital predict palace crucial reject";
+var mnemonic = "road derive fly eager render firm purpose wedding comic enemy board baby";

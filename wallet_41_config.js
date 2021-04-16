@@ -1,1 +1,1 @@
-var mnemonic = "only liberty address swear teach home main garlic solar apology anchor earth";
+var mnemonic = "grass guide fiction again garbage warfare horn soul supreme open argue divert";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious believe vacuum amused income nest gauge imitate palm crime spawn blind";
+var mnemonic = "team tattoo fork bright cat avocado narrow rather easily electric fabric depend";

@@ -1,1 +1,1 @@
-var mnemonic = "agent yard provide salt edit rhythm canal crowd inmate nice rocket crazy";
+var mnemonic = "fun narrow picture nasty tuna riot pool novel emerge bitter axis cave";

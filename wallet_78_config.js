@@ -1,1 +1,1 @@
-var mnemonic = "loyal original fire cigar shoot spray right rubber credit satisfy display spring";
+var mnemonic = "broken impact kiwi pistol fossil crush forest leg multiply federal mixture inside";

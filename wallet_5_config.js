@@ -1,1 +1,1 @@
-var mnemonic = "length black weird verb elite company between poverty hazard genuine space daughter";
+var mnemonic = "barrel coin please change tissue spider creek tongue pond shine chronic major";

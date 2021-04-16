@@ -1,1 +1,1 @@
-var mnemonic = "faculty twice live foster despair tragic trumpet olive month life thought vicious";
+var mnemonic = "grid session shrug board author uncover recipe butter warrior degree hobby record";

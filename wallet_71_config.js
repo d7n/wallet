@@ -1,1 +1,1 @@
-var mnemonic = "cattle venue gossip dash problem olive canyon garage vapor push fetch siren";
+var mnemonic = "diary detail glimpse task resource absorb brand split nurse kick income school";

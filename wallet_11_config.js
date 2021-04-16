@@ -1,1 +1,1 @@
-var mnemonic = "jar wet blade table notice affair rule adapt debris range wall advice";
+var mnemonic = "chief ask obscure pact actor degree theory basic group toddler congress crunch";

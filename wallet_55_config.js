@@ -1,1 +1,1 @@
-var mnemonic = "pluck wash mention mother amused winter rail angle lamp rare umbrella crater";
+var mnemonic = "dragon blame matter thrive mesh blush dune swarm parade fancy devote jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze program long clip tomorrow theme disease liberty avoid meadow discover rough";
+var mnemonic = "boring hockey bottom sausage energy romance summer shed suspect patient barrel unable";

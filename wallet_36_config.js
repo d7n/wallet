@@ -1,1 +1,1 @@
-var mnemonic = "vendor must history pattern any polar attitude elephant depth rescue limb atom";
+var mnemonic = "negative empty tomorrow danger early desert hybrid artist short census meadow labor";

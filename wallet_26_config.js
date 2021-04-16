@@ -1,1 +1,1 @@
-var mnemonic = "theme smoke layer civil often voyage disagree stick clever change truck coffee";
+var mnemonic = "dwarf under tomato income time token fox turn enemy outer cabbage town";

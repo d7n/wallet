@@ -1,1 +1,1 @@
-var mnemonic = "calm nice hole boss ugly flee balance edge drink focus life enroll";
+var mnemonic = "sight swamp silver orchard cloth essence medal tourist cost cinnamon woman confirm";

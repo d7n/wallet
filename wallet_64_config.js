@@ -1,1 +1,1 @@
-var mnemonic = "equip melt charge true tackle near slam retire grit struggle choice piano";
+var mnemonic = "fall defense friend hip note unlock ridge sheriff about impose valid canvas";

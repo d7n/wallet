@@ -1,1 +1,1 @@
-var mnemonic = "client brave kiwi slight depend supply suggest avoid fox among bless piece";
+var mnemonic = "spin brand true country double velvet crush usage dial mosquito inform table";

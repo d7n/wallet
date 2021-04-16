@@ -1,1 +1,1 @@
-var mnemonic = "slogan melody loyal tool gun business history flag observe intact ripple crop";
+var mnemonic = "asthma drive aim husband drip unknown raccoon envelope matrix eyebrow exclude case";

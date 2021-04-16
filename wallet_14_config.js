@@ -1,1 +1,1 @@
-var mnemonic = "discover bleak jewel original neck guess casual gold river lunch better buzz";
+var mnemonic = "stomach alien grocery logic cube above subway negative acid fashion hat balance";

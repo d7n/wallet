@@ -1,1 +1,1 @@
-var mnemonic = "cause federal vintage normal morning swear divert patrol finish name patient horse";
+var mnemonic = "online design angle size exercise settle quiz rich fuel neutral crisp mix";

@@ -1,1 +1,1 @@
-var mnemonic = "web kid gloom hawk net october degree cattle crawl prosper cup spring";
+var mnemonic = "table armor carpet excuse park general egg cover symptom scene step horse";

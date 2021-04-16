@@ -1,1 +1,1 @@
-var mnemonic = "useless teach symbol tattoo sure doctor damage exist rotate accuse spice genre";
+var mnemonic = "hamster peanut render source siren enroll nature load stool voice write stove";

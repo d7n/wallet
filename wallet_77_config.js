@@ -1,1 +1,1 @@
-var mnemonic = "disorder gap alcohol shine idle village chalk solve area sheriff guide clever";
+var mnemonic = "tell inherit post logic huge always daughter ensure usual message consider fossil";

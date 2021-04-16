@@ -1,1 +1,1 @@
-var mnemonic = "potato jacket sniff blue project input drop air siren drill right over";
+var mnemonic = "pattern marriage jeans potato bench matter cruel squirrel castle hurry twist connect";

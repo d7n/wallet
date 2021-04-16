@@ -1,1 +1,1 @@
-var mnemonic = "proud hedgehog emotion frozen moment wise warfare prize toy gloom fabric toy";
+var mnemonic = "tent mutual key fragile head evidence kind foot element point vendor crystal";

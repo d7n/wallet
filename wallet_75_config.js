@@ -1,1 +1,1 @@
-var mnemonic = "orbit always mom manage just hood gesture holiday soap once net impose";
+var mnemonic = "van emotion hedgehog scheme shiver thrive quantum moon scrub crowd predict asset";

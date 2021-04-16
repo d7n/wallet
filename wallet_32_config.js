@@ -1,1 +1,1 @@
-var mnemonic = "decade butter engage easily goddess pony liquid cool decide gas boost control";
+var mnemonic = "ready involve wild caught square rookie area siren blouse pigeon blanket erupt";

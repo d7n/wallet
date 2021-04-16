@@ -1,1 +1,1 @@
-var mnemonic = "loan catalog unfold day work tragic chase dutch desert laptop pudding pretty";
+var mnemonic = "section forest cause monkey census gossip beef scrub bus gauge maple vacuum";

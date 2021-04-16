@@ -1,1 +1,1 @@
-var mnemonic = "three pluck hollow vessel resist fog embark taxi reflect zone husband base";
+var mnemonic = "wrong tray lonely clock unit front erupt grunt riot street misery patient";

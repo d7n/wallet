@@ -1,1 +1,1 @@
-var mnemonic = "since catalog kiss marble relief recycle body illegal virtual goose fantasy sadness";
+var mnemonic = "peanut inner butter raw prepare labor pause sock tomato camp relax east";

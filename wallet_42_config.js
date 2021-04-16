@@ -1,1 +1,1 @@
-var mnemonic = "border switch salon above common sustain wreck myself easily render excite bone";
+var mnemonic = "edit tomorrow you broom unaware solution science narrow caution two element ice";

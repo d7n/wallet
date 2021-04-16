@@ -1,1 +1,1 @@
-var mnemonic = "economy length aspect judge behind tone credit core drop organ proud observe";
+var mnemonic = "polar merit polar until state blush stadium swift mechanic mule unaware electric";

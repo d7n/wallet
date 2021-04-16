@@ -1,1 +1,1 @@
-var mnemonic = "one dwarf brush steak short practice peasant moral current whale story hurry";
+var mnemonic = "pattern taste retire purse easily aerobic fiscal people trash orient human organ";

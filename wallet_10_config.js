@@ -1,1 +1,1 @@
-var mnemonic = "before exhaust spray toss month rose vehicle liberty jungle protect barely oven";
+var mnemonic = "adapt air noble blur kick picnic food text brass knee hotel sword";

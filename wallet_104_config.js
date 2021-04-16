@@ -1,1 +1,1 @@
-var mnemonic = "can add clinic gasp fog faculty giggle snow coin craft attract spot";
+var mnemonic = "solve vital portion unusual size define loan purchase acoustic maze clap gossip";

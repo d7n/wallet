@@ -1,1 +1,1 @@
-var mnemonic = "vague laptop sand leader hen tumble screen burden tunnel warfare polar edit";
+var mnemonic = "crystal captain craft spring crane cross coast food gold fork fever hover";

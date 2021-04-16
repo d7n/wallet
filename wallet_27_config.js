@@ -1,1 +1,1 @@
-var mnemonic = "injury upgrade obtain smile bacon color tired peace unlock wish remove wide";
+var mnemonic = "catch fatal disease glare essence whip balcony praise extend spin reward noodle";

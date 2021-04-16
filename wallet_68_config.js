@@ -1,1 +1,1 @@
-var mnemonic = "brand immune master sadness slender thought recipe shield fall area zoo wedding";
+var mnemonic = "explain wrestle happy crystal wrestle bind chimney calm crisp own cannon raw";

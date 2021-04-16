@@ -1,1 +1,1 @@
-var mnemonic = "mule bird output jelly engine live lemon spare metal delay vendor toddler";
+var mnemonic = "airport middle country toy parade damage outer silver share virtual scrap wedding";

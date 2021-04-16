@@ -1,1 +1,1 @@
-var mnemonic = "tool shed water client zero client thunder slogan eagle sunset adult churn";
+var mnemonic = "grain live matter notice journey acid else uphold prosper yard ill tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn short humble over divorce hurdle zoo noodle raven hair fold input";
+var mnemonic = "debate quote alpha veteran kiwi kind excess lamp ocean elbow movie sun";

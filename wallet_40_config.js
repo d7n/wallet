@@ -1,1 +1,1 @@
-var mnemonic = "album arena good advice bleak found spawn rude spot pet soon arctic";
+var mnemonic = "video right quote casual card roast project engage crowd staff radar nothing";

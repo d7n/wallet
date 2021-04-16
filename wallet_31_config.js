@@ -1,1 +1,1 @@
-var mnemonic = "merit dizzy fine video obvious mandate beauty language path lend erosion retire";
+var mnemonic = "final stove whip aim switch remove capital math february polar train blanket";

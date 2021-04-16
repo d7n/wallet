@@ -1,1 +1,1 @@
-var mnemonic = "assist sniff purpose lake maze traffic harsh agree joy flock decrease tennis";
+var mnemonic = "taxi punch illegal glimpse tooth smoke actual inspire cup spider track chat";

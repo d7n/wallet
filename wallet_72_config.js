@@ -1,1 +1,1 @@
-var mnemonic = "credit tobacco decrease bicycle entry gauge sock surge kiss behind shrug unlock";
+var mnemonic = "broccoli swing shock tired winner knock end remove radio kiwi disagree any";

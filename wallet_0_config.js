@@ -1,1 +1,1 @@
-var mnemonic = "album leopard welcome brave film fury priority bone math child tonight steel";
+var mnemonic = "tenant frequent civil spare math luggage enemy time fault debris middle stove";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck virus tape mobile only crush close scheme kit off arctic blanket";
+var mnemonic = "hawk army use trick helmet tooth rack sail ladder glimpse boy render";

@@ -1,1 +1,1 @@
-var mnemonic = "weather garage rotate stable purity stem poverty indoor hip rose cycle scan";
+var mnemonic = "certain fly vault deliver picture hockey net interest amount rent ripple come";

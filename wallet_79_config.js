@@ -1,1 +1,1 @@
-var mnemonic = "scene below will cause ladder almost viable hair any village solar earth";
+var mnemonic = "purse hammer drive pottery deer raise note member position afraid talk cool";

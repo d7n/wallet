@@ -1,1 +1,1 @@
-var mnemonic = "tide live glide permit radar virus job town supply grape outside decline";
+var mnemonic = "category tennis enter sketch roof fatigue trim wine identify music eagle crater";

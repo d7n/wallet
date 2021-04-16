@@ -1,1 +1,1 @@
-var mnemonic = "escape legal capital detail dizzy priority blanket obscure body kit sun option";
+var mnemonic = "shine interest sauce cave smart palace mansion unhappy wool diamond vocal trumpet";

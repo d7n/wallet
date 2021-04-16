@@ -1,1 +1,1 @@
-var mnemonic = "remain cheap viable demand denial devote rival toast cash happy civil drastic";
+var mnemonic = "general blur police garment interest abstract grab hurdle wet dance skate title";

@@ -1,1 +1,1 @@
-var mnemonic = "derive crystal hover mean episode announce pave express puppy kiwi cross accuse";
+var mnemonic = "cat gun inspire fringe police maple hamster ripple tool nothing section amazing";

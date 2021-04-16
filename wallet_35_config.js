@@ -1,1 +1,1 @@
-var mnemonic = "hand place gift genre filter slab airport panda true hope hedgehog panda";
+var mnemonic = "cause plate human device blind place subway turkey year biology flavor coach";

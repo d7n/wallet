@@ -1,1 +1,1 @@
-var mnemonic = "badge rigid pepper faint exercise film drink mandate drop alter flat split";
+var mnemonic = "coast diet crush size recycle review admit concert banner tongue black world";

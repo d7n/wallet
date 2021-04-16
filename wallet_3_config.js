@@ -1,1 +1,1 @@
-var mnemonic = "wear cliff duty ten wage depend wonder laptop miracle globe suggest universe";
+var mnemonic = "destroy find adjust dilemma off just spice drive cancel animal crew gentle";

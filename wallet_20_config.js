@@ -1,1 +1,1 @@
-var mnemonic = "air merit cheap convince push inch invite review matrix absurd favorite syrup";
+var mnemonic = "oxygen lamp cheese captain interest clinic book bike edit lyrics best stick";

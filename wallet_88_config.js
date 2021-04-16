@@ -1,1 +1,1 @@
-var mnemonic = "shell indicate stomach beef goat side want answer disagree lion flash arrest";
+var mnemonic = "one track lock marble muffin stage program six pool power stable acquire";

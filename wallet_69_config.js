@@ -1,1 +1,1 @@
-var mnemonic = "sail paddle minor improve chunk hair oblige steel review myth run medal";
+var mnemonic = "crop acid strong scale equip inform issue opinion woman wagon video write";

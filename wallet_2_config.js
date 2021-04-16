@@ -1,1 +1,1 @@
-var mnemonic = "extra blind pink mango issue soup file laundry crystal symbol goat giggle";
+var mnemonic = "cloud layer easily mammal all gospel together student medal pioneer chat appear";

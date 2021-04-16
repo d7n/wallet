@@ -1,1 +1,1 @@
-var mnemonic = "embark afraid penalty style velvet attract robust gun wagon myself pledge rhythm";
+var mnemonic = "today arm ugly embody range music have can movie sustain vintage cat";

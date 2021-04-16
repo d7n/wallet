@@ -1,1 +1,1 @@
-var mnemonic = "panel door abandon diamond science quit chase dinosaur peace six wreck draft";
+var mnemonic = "inherit bulk grace accident floor lucky neither brave border multiply breeze size";

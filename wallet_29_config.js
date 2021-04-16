@@ -1,1 +1,1 @@
-var mnemonic = "main nothing feature noise pioneer latin yard reward foot bachelor tape alley";
+var mnemonic = "sketch invest busy flame champion arrest switch scrub rescue buyer grid improve";

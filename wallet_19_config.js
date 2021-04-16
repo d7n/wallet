@@ -1,1 +1,1 @@
-var mnemonic = "net element cabin person inch daring upper forget level elder ranch just";
+var mnemonic = "success element camera canyon first flag spot denial tilt total glove motor";

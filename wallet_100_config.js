@@ -1,1 +1,1 @@
-var mnemonic = "hill few expire affair world license pet focus awful since swallow frozen";
+var mnemonic = "outer shift exile custom situate survey crop mixed choose amazing direct warm";

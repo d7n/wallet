@@ -1,1 +1,1 @@
-var mnemonic = "kitten voyage fossil alien tape ticket crisp update circle hammer neutral syrup";
+var mnemonic = "kite client account below huge metal maze school half cash old globe";

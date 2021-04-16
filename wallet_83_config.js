@@ -1,1 +1,1 @@
-var mnemonic = "dawn chat valley method cushion fold jewel scale sing question toss april";
+var mnemonic = "join blanket turtle rose wrestle assist split tomato learn month naive utility";

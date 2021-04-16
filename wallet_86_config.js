@@ -1,1 +1,1 @@
-var mnemonic = "point ocean april ostrich mixed drop gaze lecture tray light depend tube";
+var mnemonic = "swallow object quality tonight ginger corn north skirt top insect empower toy";
