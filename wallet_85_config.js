@@ -1,1 +1,1 @@
-var mnemonic = "edge rookie indicate drive dune tank kitchen tower index fly salmon fade";
+var mnemonic = "crater pool unfold shop fresh cereal powder auction chase parent pull survey";

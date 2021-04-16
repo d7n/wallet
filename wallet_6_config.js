@@ -1,1 +1,1 @@
-var mnemonic = "either shine one crime obscure moment then cart forward north oak secret";
+var mnemonic = "that primary ranch border alley help donate forget pause volume robust toy";

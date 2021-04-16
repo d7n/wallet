@@ -1,1 +1,1 @@
-var mnemonic = "today path essence glory major document inspire useful old pride notable burst";
+var mnemonic = "veteran slot shrimp spawn hope brand misery black execute swift setup doctor";

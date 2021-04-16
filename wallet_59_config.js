@@ -1,1 +1,1 @@
-var mnemonic = "two infant project impulse smooth object recipe forget senior spring capable either";
+var mnemonic = "clip half crime faculty aim hurdle asset wire hour twin noble street";

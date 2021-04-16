@@ -1,1 +1,1 @@
-var mnemonic = "cabbage raise exhibit dash copper curious excuse blind tumble anchor pool runway";
+var mnemonic = "scene drive couple turkey fix slow razor debris idle tiger diary whip";

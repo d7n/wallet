@@ -1,1 +1,1 @@
-var mnemonic = "album ski arctic arm enhance concert adult reflect concert any obscure oil";
+var mnemonic = "heart retire eye mansion evidence acquire movie minor charge claim pulp squirrel";

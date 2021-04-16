@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow write census coach bright sad level peasant youth august pear squirrel";
+var mnemonic = "abstract drip noodle basic stadium snap tragic day license once tragic ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "drum fashion social satisfy all enrich army monkey mesh normal canal crash";
+var mnemonic = "celery essence hood embark firm better wagon chalk success define twelve chat";

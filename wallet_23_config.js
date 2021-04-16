@@ -1,1 +1,1 @@
-var mnemonic = "smart now federal climb entire rookie fiscal final among behind stadium crucial";
+var mnemonic = "general opinion device doctor earn eager trim edit laugh drop stool spoil";

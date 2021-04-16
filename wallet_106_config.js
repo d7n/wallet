@@ -1,1 +1,1 @@
-var mnemonic = "ghost renew best toss leave orchard mean busy leave copy zebra save";
+var mnemonic = "zone vibrant absorb faith curtain drastic pear kid risk tattoo tattoo endorse";

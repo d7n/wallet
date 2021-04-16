@@ -1,1 +1,1 @@
-var mnemonic = "cart clean elevator dress acquire shock congress quit grunt average never earn";
+var mnemonic = "exercise width owner dose leave bundle welcome inner exit filter stove box";

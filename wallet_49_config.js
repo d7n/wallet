@@ -1,1 +1,1 @@
-var mnemonic = "ahead infant fall club fun foil surprise skill owner rail act electric";
+var mnemonic = "load deputy pretty success ceiling slow broken setup menu pen page gossip";

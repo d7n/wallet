@@ -1,1 +1,1 @@
-var mnemonic = "theme keep goose season ritual away imitate scatter title shove cat coconut";
+var mnemonic = "slow awesome grocery relief grief promote park comic taste length much frozen";

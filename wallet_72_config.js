@@ -1,1 +1,1 @@
-var mnemonic = "ice rug tool measure space razor leg truly express crash jeans health";
+var mnemonic = "income bitter draw release globe ivory mixture chalk clerk goose enough lecture";

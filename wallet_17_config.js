@@ -1,1 +1,1 @@
-var mnemonic = "unusual shy recycle chat air entry kiwi breeze arrow emerge idle often";
+var mnemonic = "police office hen woman avocado endorse humble upgrade repeat rival thought oak";

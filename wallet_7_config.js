@@ -1,1 +1,1 @@
-var mnemonic = "assist aspect edit hold slight never cement morning observe balcony salmon language";
+var mnemonic = "blast wage antenna open cage lens lucky usage recipe whale spoil saddle";

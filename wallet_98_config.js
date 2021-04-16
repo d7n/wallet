@@ -1,1 +1,1 @@
-var mnemonic = "latin nation all honey main dog return forward gospel grain gadget nuclear";
+var mnemonic = "medal guess degree abstract luxury category until buzz sense journey pig mechanic";

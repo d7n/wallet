@@ -1,1 +1,1 @@
-var mnemonic = "mechanic average must motion ring priority tribe fiscal harvest alien output lady";
+var mnemonic = "chicken coin lemon cave volcano genuine next glare mail fun loan inject";

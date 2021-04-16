@@ -1,1 +1,1 @@
-var mnemonic = "remain area long robot pattern slice tube actual twenty execute judge tobacco";
+var mnemonic = "puppy thought toy walk behave bronze kite shy matrix magnet grant step";

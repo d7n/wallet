@@ -1,1 +1,1 @@
-var mnemonic = "chef desk library avocado solve life vapor suggest unique edge father own";
+var mnemonic = "hold notable color banana educate dirt poverty dog jelly color until interest";

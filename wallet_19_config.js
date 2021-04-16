@@ -1,1 +1,1 @@
-var mnemonic = "inject one regret copper extend dog mercy smile require hero spoil size";
+var mnemonic = "skill camp matrix city travel soap under employ mystery give tourist dash";

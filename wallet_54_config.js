@@ -1,1 +1,1 @@
-var mnemonic = "raise kick same sock laugh throw banana hunt pole update hand job";
+var mnemonic = "uncover february laugh tattoo early weekend enroll empty knee manage mango burger";

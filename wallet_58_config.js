@@ -1,1 +1,1 @@
-var mnemonic = "machine page fancy please chicken twenty world mansion soft river topic juice";
+var mnemonic = "thing trouble wish sadness help rib clever page supply perfect jaguar unknown";

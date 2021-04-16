@@ -1,1 +1,1 @@
-var mnemonic = "actual park clinic zero attract merge swarm venue mail december shaft taste";
+var mnemonic = "grocery fresh behind frozen myself brother virus monster earn seek marriage miss";

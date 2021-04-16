@@ -1,1 +1,1 @@
-var mnemonic = "train divert recycle spoil snap march body wink six village plunge remember";
+var mnemonic = "snap anxiety green chaos never board curve canvas staff start tuna attend";

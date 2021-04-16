@@ -1,1 +1,1 @@
-var mnemonic = "correct link regret laptop brown forum era worth fever fish input twelve";
+var mnemonic = "farm parrot mixture puzzle combine sunset tank ladder arrow fuel negative hope";

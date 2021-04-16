@@ -1,1 +1,1 @@
-var mnemonic = "narrow sort term sunset pass such lizard pool dentist test play used";
+var mnemonic = "grid fuel salon nest rhythm arrow win attend endless protect target menu";

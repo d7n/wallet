@@ -1,1 +1,1 @@
-var mnemonic = "ceiling know provide rhythm arctic inject armor enact hold swallow dutch wise";
+var mnemonic = "assist build nose lunch brief private negative episode call announce uncover coffee";

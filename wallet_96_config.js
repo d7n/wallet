@@ -1,1 +1,1 @@
-var mnemonic = "unable matter garage jealous piece travel razor fade attitude purpose invest involve";
+var mnemonic = "analyst govern away october favorite scale speed cinnamon walk hybrid art fatal";

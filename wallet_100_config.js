@@ -1,1 +1,1 @@
-var mnemonic = "reveal motion either harvest cotton brown hill hat frost question visit deliver";
+var mnemonic = "item slim there tiny federal hurdle visa cinnamon rubber pelican pond connect";

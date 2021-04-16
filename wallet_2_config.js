@@ -1,1 +1,1 @@
-var mnemonic = "shock embark rent screen catch left divide require drop claw super liar";
+var mnemonic = "owner matrix tool bamboo brain mansion grit awkward lumber diesel upper immune";

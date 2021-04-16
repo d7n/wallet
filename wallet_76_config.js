@@ -1,1 +1,1 @@
-var mnemonic = "notice cricket mobile leader nature drip guitar tomorrow system resemble shrug raise";
+var mnemonic = "bracket heart alien horror lunar volcano penalty mail science pair imitate scrub";

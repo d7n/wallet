@@ -1,1 +1,1 @@
-var mnemonic = "afraid employ ivory false zero frog test whisper enjoy brisk action mention";
+var mnemonic = "survey cruise piece rally penalty era tower cousin pair wrestle diagram above";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst tide coyote police alien enlist tray hollow title bundle pet believe";
+var mnemonic = "symptom air open blush vapor cruel frost speak student journey fiber left";

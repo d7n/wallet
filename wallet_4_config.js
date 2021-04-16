@@ -1,1 +1,1 @@
-var mnemonic = "common law rubber claw left inmate bread envelope explain timber cherry company";
+var mnemonic = "identify clinic verify artist govern aisle immense stairs flock giggle original tunnel";

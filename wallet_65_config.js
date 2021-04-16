@@ -1,1 +1,1 @@
-var mnemonic = "zoo scrap theory rocket butter hazard vanish stem inflict view soon shop";
+var mnemonic = "defense crane staff goddess borrow odor truck shoulder face bamboo upgrade retire";

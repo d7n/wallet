@@ -1,1 +1,1 @@
-var mnemonic = "narrow basket october burger pill skirt machine have wrestle bike bird nuclear";
+var mnemonic = "install interest clip outdoor same another prosper rate echo cruel chief fire";

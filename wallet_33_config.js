@@ -1,1 +1,1 @@
-var mnemonic = "mountain rack north define devote reject december certain much useless middle illness";
+var mnemonic = "matter grief congress volume clever sustain mass auction decide clerk stuff cash";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse select bleak satoshi solar opera bachelor empty school wagon broom eternal";
+var mnemonic = "bind rent brain satisfy prison conduct stool mind deer depth beef dinner";

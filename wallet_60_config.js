@@ -1,1 +1,1 @@
-var mnemonic = "control cost plate oven enforce brown sure mosquito normal sign near snow";
+var mnemonic = "path iron tank gym victory game lazy gesture airport fluid wash poet";

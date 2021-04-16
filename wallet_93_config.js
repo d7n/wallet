@@ -1,1 +1,1 @@
-var mnemonic = "canyon poet now rival south dream top unhappy dad settle real humble";
+var mnemonic = "acquire gym fluid vendor hawk symptom electric enhance suffer aspect lunar gesture";

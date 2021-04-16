@@ -1,1 +1,1 @@
-var mnemonic = "dentist gap aunt unusual case rocket latin shed canvas ocean fresh saddle";
+var mnemonic = "famous edit rocket birth double hurt estate traffic banana address story amateur";

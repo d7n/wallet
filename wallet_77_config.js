@@ -1,1 +1,1 @@
-var mnemonic = "object flash honey winner garage gospel strategy arm equal ski hockey sun";
+var mnemonic = "argue strategy mother wire raise allow energy forest truth grape refuse clip";

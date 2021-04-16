@@ -1,1 +1,1 @@
-var mnemonic = "fit ladder feed penalty festival stove opinion tiny fetch hurt drip piano";
+var mnemonic = "arrest aspect tumble crucial april pottery early law damage summer million time";

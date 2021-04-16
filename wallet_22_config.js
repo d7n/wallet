@@ -1,1 +1,1 @@
-var mnemonic = "carpet vacuum crystal quote jeans biology diary fringe glass evoke episode save";
+var mnemonic = "kid permit regret staff draft turn dragon choose dolphin direct grid boring";

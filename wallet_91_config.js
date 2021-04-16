@@ -1,1 +1,1 @@
-var mnemonic = "unknown rate siren cinnamon escape mixed skate receive kangaroo actor tunnel brush";
+var mnemonic = "suffer steel sunny spend art dwarf fashion rubber lava spoon labor chicken";

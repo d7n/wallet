@@ -1,1 +1,1 @@
-var mnemonic = "unique usual proud season draw priority into awful allow century cupboard cram";
+var mnemonic = "segment shop strong fury barely example feed warm inch public valley arch";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial ask unusual pudding response diet ocean stairs clap orient note stool";
+var mnemonic = "wisdom enact virus bottom hood clump hotel motor pottery bachelor plunge source";

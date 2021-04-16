@@ -1,1 +1,1 @@
-var mnemonic = "because soft flight soccer vessel cherry bunker clutch aisle film divorce bind";
+var mnemonic = "noise earn like stereo learn scrap pudding panther theme green bitter zone";

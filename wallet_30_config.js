@@ -1,1 +1,1 @@
-var mnemonic = "weapon fault engine fan mirror mercy pigeon trash drop woman awake wheel";
+var mnemonic = "case during type climb obscure rate damage shrug sick fall dose affair";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle cross slow mushroom sheriff never rude body size banner fault print";
+var mnemonic = "sell awful luggage depth senior junk friend taxi pulse pupil end ostrich";

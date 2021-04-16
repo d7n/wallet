@@ -1,1 +1,1 @@
-var mnemonic = "happy cream clutch journey flight jungle cool lucky moral fog raw dwarf";
+var mnemonic = "fever luxury quantum muffin cancel van price cream zebra toward champion ice";

@@ -1,1 +1,1 @@
-var mnemonic = "grain yellow boat old correct human three dial labor pass combine reduce";
+var mnemonic = "infant forest any you enhance attack rule cherry crouch object ankle very";

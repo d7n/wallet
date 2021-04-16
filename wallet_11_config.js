@@ -1,1 +1,1 @@
-var mnemonic = "chimney screen give clarify squirrel ancient letter nice photo combine behind uniform";
+var mnemonic = "bird dove all illness pave dizzy lizard curve dream wisdom blast abandon";

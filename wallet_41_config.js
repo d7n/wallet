@@ -1,1 +1,1 @@
-var mnemonic = "garbage intact nature memory among autumn gym find skirt actual labor hope";
+var mnemonic = "object hollow century demise entire carpet decide nose field glue wide fuel";

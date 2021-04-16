@@ -1,1 +1,1 @@
-var mnemonic = "chapter mixture face short pudding differ will year peasant borrow pencil supreme";
+var mnemonic = "clean aisle taste gallery spy habit shop shine pulp become filter friend";

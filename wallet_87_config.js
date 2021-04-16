@@ -1,1 +1,1 @@
-var mnemonic = "ready ski couple wave farm suggest nice purity rent middle crew junk";
+var mnemonic = "retire husband airport burst kiwi moon debate twelve hurry receive grief ritual";

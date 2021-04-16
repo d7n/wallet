@@ -1,1 +1,1 @@
-var mnemonic = "hour inform dish essence ranch matter kingdom moral crash spread pigeon curious";
+var mnemonic = "elephant brown burger shield grow wedding ketchup twice rifle become brass news";

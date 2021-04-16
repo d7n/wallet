@@ -1,1 +1,1 @@
-var mnemonic = "glad topple champion click pigeon identify meadow science enrich couple style rival";
+var mnemonic = "chalk shove miracle carbon grunt shed sketch trumpet order region ancient enter";

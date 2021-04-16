@@ -1,1 +1,1 @@
-var mnemonic = "defense exotic layer load own candy okay prison child claim poverty congress";
+var mnemonic = "hen joy output share cotton skirt afford nature month pet prevent nothing";

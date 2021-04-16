@@ -1,1 +1,1 @@
-var mnemonic = "attract mind galaxy sword candy anchor powder zebra erosion oak attend hello";
+var mnemonic = "address wine zero peace riot unable sudden raccoon refuse glue avocado village";

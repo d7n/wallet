@@ -1,1 +1,1 @@
-var mnemonic = "truth occur hint odor twice crash list slight rib ride father bracket";
+var mnemonic = "fruit limit wage burger talk scene cricket juice question clay dress amused";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry canvas pear pluck wear movie erupt return nasty wild position page";
+var mnemonic = "sand kitten smile quit sample tool happy want federal lecture time scatter";

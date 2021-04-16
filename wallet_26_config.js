@@ -1,1 +1,1 @@
-var mnemonic = "elevator carry excuse hint replace soup reform retire absurd video scrub wise";
+var mnemonic = "brave merry whisper lumber ketchup express refuse original trial all swarm man";

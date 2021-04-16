@@ -1,1 +1,1 @@
-var mnemonic = "huge cereal author section inspire course same shy trash visual goat pass";
+var mnemonic = "attitude use stick goat gallery dilemma element either hole nest between outer";

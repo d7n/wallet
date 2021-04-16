@@ -1,1 +1,1 @@
-var mnemonic = "pelican normal give advance depart invest misery idea dolphin gun marble forget";
+var mnemonic = "dismiss amused recall solar imitate chicken vote cupboard runway oblige bullet rebel";

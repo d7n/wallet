@@ -1,1 +1,1 @@
-var mnemonic = "glove card impose jealous abuse own dolphin jaguar polar mind stamp bar";
+var mnemonic = "trend volcano office bracket hawk pole sunny issue alone finger pear sea";

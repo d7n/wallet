@@ -1,1 +1,1 @@
-var mnemonic = "again release change deny tackle flower dumb inherit opinion tank leopard arm";
+var mnemonic = "bread dinner jump tell blind shuffle advice kitchen video school forum script";

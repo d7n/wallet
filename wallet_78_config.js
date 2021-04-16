@@ -1,1 +1,1 @@
-var mnemonic = "master legal expand judge lava bitter pave point law atom tragic lonely";
+var mnemonic = "coin much peanut duty erase describe wrist sponsor once city super aunt";

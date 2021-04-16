@@ -1,1 +1,1 @@
-var mnemonic = "smart industry noodle vault usual tackle pigeon earn humble stage car short";
+var mnemonic = "lecture picture current female spy vapor chronic stand that giggle tackle decrease";

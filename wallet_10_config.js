@@ -1,1 +1,1 @@
-var mnemonic = "magnet aim vocal run list staff major huge soul reform bless bind";
+var mnemonic = "wait stairs minimum deer main air shield invest media payment skirt expose";

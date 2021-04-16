@@ -1,1 +1,1 @@
-var mnemonic = "all illegal bonus must vibrant hollow inflict salon kit merge genius claim";
+var mnemonic = "fetch enable endless evoke inside cloud invite excite march crumble air critic";

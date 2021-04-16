@@ -1,1 +1,1 @@
-var mnemonic = "crisp mixture clay sure carbon doctor gasp brick avocado suggest student aisle";
+var mnemonic = "carry romance aerobic you cradle virtual tiger genre replace leader force friend";

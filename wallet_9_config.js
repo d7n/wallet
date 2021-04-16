@@ -1,1 +1,1 @@
-var mnemonic = "sure move weapon endorse nut casino defense egg inspire collect artefact kid";
+var mnemonic = "glide bundle debate sad outside silk guard guess hawk boss happy cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "begin boss moral clean hundred dawn dinner gadget indoor yard runway useless";
+var mnemonic = "turn uphold myself proud harbor bacon tide denial buzz expire menu thrive";

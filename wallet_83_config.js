@@ -1,1 +1,1 @@
-var mnemonic = "pony include flush health hour dry shallow divide pepper sand mother assume";
+var mnemonic = "amazing drive peasant mouse lobster climb actor loud toilet infant obscure film";

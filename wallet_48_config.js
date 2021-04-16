@@ -1,1 +1,1 @@
-var mnemonic = "planet rely crash reject fan update genre urge ketchup garbage spin hedgehog";
+var mnemonic = "expect maze exist dignity injury cereal aunt front rent matter proof wrist";

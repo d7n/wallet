@@ -1,1 +1,1 @@
-var mnemonic = "slice various arrive faint circle drink clown bleak fringe staff hour rebuild";
+var mnemonic = "fashion analyst assume draw venture chunk swap spoil virus thought link grid";

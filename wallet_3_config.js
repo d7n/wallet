@@ -1,1 +1,1 @@
-var mnemonic = "flavor concert arctic vanish live flavor holiday damp say syrup exit begin";
+var mnemonic = "tower cause fashion print merry above turtle risk couch deer voice police";

@@ -1,1 +1,1 @@
-var mnemonic = "join whip chef canoe thought ketchup monkey easily march goddess accuse echo";
+var mnemonic = "wise photo trip banana card dust snow still awkward sentence neither board";

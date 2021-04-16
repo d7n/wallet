@@ -1,1 +1,1 @@
-var mnemonic = "crash demand hidden phrase angry void rookie suspect dignity useful soap syrup";
+var mnemonic = "loud become grant month distance talk story viable bike ghost conduct dove";

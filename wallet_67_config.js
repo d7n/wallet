@@ -1,1 +1,1 @@
-var mnemonic = "raccoon walk season turtle struggle kite winter paper potato knock screen turkey";
+var mnemonic = "loop original hurdle such planet crowd pave verb riot purchase tomato okay";

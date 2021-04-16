@@ -1,1 +1,1 @@
-var mnemonic = "cradle capable replace panel perfect wink vacuum awesome fine outdoor pass say";
+var mnemonic = "helmet seat range banner camera depend scare tribe crucial dinner regret song";

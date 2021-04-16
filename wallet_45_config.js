@@ -1,1 +1,1 @@
-var mnemonic = "intact length accuse dance clever save grain glass father combine craft panther";
+var mnemonic = "earn sunny blind page panel ecology year taxi uphold alien inspire area";

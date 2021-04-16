@@ -1,1 +1,1 @@
-var mnemonic = "just picnic laundry casino powder deer away cube crystal weasel party zebra";
+var mnemonic = "awkward avocado museum camp genuine laptop penalty hungry girl review need correct";

@@ -1,1 +1,1 @@
-var mnemonic = "scare candy rapid attitude weather stage verify brief spray panda trial annual";
+var mnemonic = "organ fork mountain trial peasant crisp wasp hybrid side peanut paddle recycle";

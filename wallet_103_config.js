@@ -1,1 +1,1 @@
-var mnemonic = "actress popular quantum cloud minor must picnic crumble uncover budget vault carpet";
+var mnemonic = "genius lawsuit inform during cruise fee crystal winter corn slow rhythm drill";

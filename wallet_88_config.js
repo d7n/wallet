@@ -1,1 +1,1 @@
-var mnemonic = "civil finger valid furnace practice gate outer receive dance boy episode ten";
+var mnemonic = "general tragic priority defy gloom off fan buyer curious arrange vintage display";

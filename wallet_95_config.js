@@ -1,1 +1,1 @@
-var mnemonic = "punch expire exotic place pair virtual wet nurse produce bus father survey";
+var mnemonic = "radio poverty tilt carbon tide federal december engine crack hen sadness drum";
