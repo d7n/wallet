@@ -1,1 +1,1 @@
-var mnemonic = "office enforce arrange coast town inner moon shallow aunt salt weekend retire";
+var mnemonic = "effort pear wire ready crater giggle more ugly soon raccoon spoil burst";

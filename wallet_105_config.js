@@ -1,1 +1,1 @@
-var mnemonic = "kite enrich sadness hold flavor work exclude crisp glow whale wealth boy";
+var mnemonic = "average force tree appear embark property start scorpion doll daring tray travel";

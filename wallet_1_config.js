@@ -1,1 +1,1 @@
-var mnemonic = "soldier head noble human economy observe curve silent machine pelican drop tiger";
+var mnemonic = "weekend job great detail iron monster pencil response faculty foot crater dwarf";

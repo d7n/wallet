@@ -1,1 +1,1 @@
-var mnemonic = "drum milk say year come frequent few someone buyer cook universe weird";
+var mnemonic = "capable swim seek symbol fuel heart sand alone scout subway motor lyrics";

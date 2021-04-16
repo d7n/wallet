@@ -1,1 +1,1 @@
-var mnemonic = "dog detail antique end song cake notice source report chef carbon afraid";
+var mnemonic = "critic beef uphold omit when under network arch final inside blind advice";

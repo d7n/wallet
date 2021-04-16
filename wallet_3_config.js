@@ -1,1 +1,1 @@
-var mnemonic = "car trial perfect feature stamp ski flush outside act sphere legal method";
+var mnemonic = "amateur old person stick level depth bring pipe magnet circle renew legal";

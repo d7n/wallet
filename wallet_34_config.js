@@ -1,1 +1,1 @@
-var mnemonic = "crowd mail smooth sail direct struggle orchard move beyond cigar unfold more";
+var mnemonic = "hospital tip ridge cotton simple exit clever town pluck stage save fine";

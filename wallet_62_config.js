@@ -1,1 +1,1 @@
-var mnemonic = "shiver chuckle arrange drive someone knife foster brand yellow beef divorce have";
+var mnemonic = "put zebra toilet arena lamp glue lion rural total begin blood twist";

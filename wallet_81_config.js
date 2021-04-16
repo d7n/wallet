@@ -1,1 +1,1 @@
-var mnemonic = "lyrics brown spike isolate three drill kite can test garment balcony news";
+var mnemonic = "behave dignity blame unfair scene bottom grow meadow mansion meat memory cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter rural acoustic convince used sweet sad abstract dignity tonight rally enable";
+var mnemonic = "curve crumble exchange gold avocado fruit soft patrol pink shy consider acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "omit rather vapor tobacco forget absent neutral car error erode stumble ethics";
+var mnemonic = "salute year horse wrap bubble another valve legal short barely blouse such";

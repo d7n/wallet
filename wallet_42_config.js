@@ -1,1 +1,1 @@
-var mnemonic = "shoulder addict celery install buzz junior rookie catch donor wheel correct narrow";
+var mnemonic = "recall dose symptom donor oyster spatial stuff leg put together flock noodle";

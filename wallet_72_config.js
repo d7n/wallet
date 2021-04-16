@@ -1,1 +1,1 @@
-var mnemonic = "resource series exclude misery neglect cook broom absorb lyrics buzz auction trim";
+var mnemonic = "upset predict fix sign umbrella pumpkin stone easily glance enact fine position";

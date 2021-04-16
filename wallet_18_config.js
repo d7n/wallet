@@ -1,1 +1,1 @@
-var mnemonic = "slice expose flash ozone income stable sugar neck hint grocery game trade";
+var mnemonic = "fabric walnut mistake carbon sting vessel hood spatial above define matter armed";

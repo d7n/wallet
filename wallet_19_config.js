@@ -1,1 +1,1 @@
-var mnemonic = "bulb across universe stock bright rice physical reduce green candy three sponsor";
+var mnemonic = "vapor infant melody timber beyond glad lady ill work bitter alone notice";

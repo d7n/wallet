@@ -1,1 +1,1 @@
-var mnemonic = "supreme width verb milk shine electric spawn keep earn owner pull buyer";
+var mnemonic = "novel decrease receive innocent captain slice few novel tuition leave enforce orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "develop shine repeat outdoor hybrid erupt cause credit laugh twenty pave appear";
+var mnemonic = "record junk payment arrange juice end sorry edge tragic volume such source";

@@ -1,1 +1,1 @@
-var mnemonic = "voice paper timber stool gain limit race suit dove move fluid meadow";
+var mnemonic = "letter cave require virtual speak replace arrest echo seat leave buffalo expose";

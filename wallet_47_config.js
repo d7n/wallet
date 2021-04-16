@@ -1,1 +1,1 @@
-var mnemonic = "bamboo tray tone emerge dose move example run proud solve hip blame";
+var mnemonic = "leader swap hotel they forward lady voyage illegal stock ribbon noise act";

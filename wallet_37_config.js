@@ -1,1 +1,1 @@
-var mnemonic = "satisfy correct parent feature page boat blanket idea radio mutual antenna dirt";
+var mnemonic = "core large nature history round faint accident palm fatal control police rookie";

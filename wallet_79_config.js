@@ -1,1 +1,1 @@
-var mnemonic = "stay dial business magic can enrich key roast auction consider muffin hard";
+var mnemonic = "clump trick calm exhaust level patient shaft lobster primary ordinary gold ivory";

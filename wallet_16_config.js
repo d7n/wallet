@@ -1,1 +1,1 @@
-var mnemonic = "live share surprise life sugar project crucial moon exist mixed floor price";
+var mnemonic = "lonely liar art library heart over clock pill furnace frequent bracket rigid";

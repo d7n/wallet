@@ -1,1 +1,1 @@
-var mnemonic = "donor carbon provide country rough winner motion retreat effort system wonder movie";
+var mnemonic = "topple author cruel despair morning skill gentle unable vast dynamic reason dance";

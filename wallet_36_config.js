@@ -1,1 +1,1 @@
-var mnemonic = "cute domain donor exhibit film miss aunt occur short kid memory cage";
+var mnemonic = "garage one million treat thought calm volume decade glass property canal wheel";

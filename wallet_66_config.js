@@ -1,1 +1,1 @@
-var mnemonic = "hello quantum vocal drip claw case stick drip lab seat pizza another";
+var mnemonic = "mask decade struggle half sock abstract ceiling advice ice other reveal heavy";

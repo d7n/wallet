@@ -1,1 +1,1 @@
-var mnemonic = "grain coral island tenant hill edge left census worth urge media crew";
+var mnemonic = "rubber cluster smart solve panic member grab tortoise intact trophy kangaroo lawn";

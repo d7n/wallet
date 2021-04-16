@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog museum puzzle scare number kick inch mad edge moon clarify boost";
+var mnemonic = "give clown response found entry immense civil code penalty tired open word";

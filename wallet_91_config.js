@@ -1,1 +1,1 @@
-var mnemonic = "coast century cousin absent torch initial venture agent tide skirt slogan volcano";
+var mnemonic = "couch betray ill trip view time lab label edit express age second";

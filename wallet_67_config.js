@@ -1,1 +1,1 @@
-var mnemonic = "shell when humble hurdle ticket mystery split top cinnamon print kit couple";
+var mnemonic = "fortune fiction replace cable badge leave boost gas interest copy artefact type";

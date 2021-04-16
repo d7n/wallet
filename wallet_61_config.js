@@ -1,1 +1,1 @@
-var mnemonic = "acquire tackle hour trial critic degree mail secret duty deliver tornado curve";
+var mnemonic = "picture tilt abstract ignore potato pencil virtual melt orange husband unable round";

@@ -1,1 +1,1 @@
-var mnemonic = "early grit humble share dream team mad wall hawk slender turn bronze";
+var mnemonic = "bamboo pioneer inflict huge guitar rack hollow section zebra write physical swarm";

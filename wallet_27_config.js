@@ -1,1 +1,1 @@
-var mnemonic = "cement until win phone leader portion slide seven general quote material better";
+var mnemonic = "check near voyage pave raven decade lottery genuine win sand food brain";

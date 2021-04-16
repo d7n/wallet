@@ -1,1 +1,1 @@
-var mnemonic = "nuclear gallery crop access angry industry valve check science follow document brick";
+var mnemonic = "reason federal today student people matrix depth sausage patient camera mandate crucial";

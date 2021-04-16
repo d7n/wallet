@@ -1,1 +1,1 @@
-var mnemonic = "visa drama grass weather winter flash aware champion plastic brush pulp render";
+var mnemonic = "warfare error stock snack milk nuclear sting light leg piece lemon scale";

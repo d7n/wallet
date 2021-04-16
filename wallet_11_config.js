@@ -1,1 +1,1 @@
-var mnemonic = "cute absent height marriage camera fee rhythm rude midnight pyramid water fever";
+var mnemonic = "onion iron clarify cabbage miss cream hire hazard bar bless goat health";

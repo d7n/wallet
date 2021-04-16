@@ -1,1 +1,1 @@
-var mnemonic = "river mouse smooth whip border hero thrive grass chunk fresh pause opera";
+var mnemonic = "captain farm cage local song diesel bleak margin burden clap ripple chapter";

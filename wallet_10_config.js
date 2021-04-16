@@ -1,1 +1,1 @@
-var mnemonic = "amount open siege romance logic similar verb section glimpse decrease common drama";
+var mnemonic = "audit input possible owner audit place liberty little layer vehicle uphold betray";

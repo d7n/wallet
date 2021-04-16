@@ -1,1 +1,1 @@
-var mnemonic = "miracle dynamic neglect air orphan snap legal early gap radar skull february";
+var mnemonic = "notable depth ketchup attend female hold champion merge daring age erode nephew";

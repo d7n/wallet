@@ -1,1 +1,1 @@
-var mnemonic = "ostrich fiscal say hazard busy family audit account struggle tourist valve erode";
+var mnemonic = "milk phrase van cousin shove help peasant armed coast wealth have arrive";

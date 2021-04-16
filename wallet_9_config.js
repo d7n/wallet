@@ -1,1 +1,1 @@
-var mnemonic = "web input merry loud settle solution detail kiss traffic brown toss stomach";
+var mnemonic = "kind rose cotton snap garbage hospital essence regret present valve supreme wool";

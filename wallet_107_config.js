@@ -1,1 +1,1 @@
-var mnemonic = "impact spare need bridge match country rather couch climb thumb they light";
+var mnemonic = "cabbage analyst fork excite foam dutch banner other act cause tray better";

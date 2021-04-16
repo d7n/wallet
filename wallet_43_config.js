@@ -1,1 +1,1 @@
-var mnemonic = "popular crouch hand hamster card question strategy style oval brown you custom";
+var mnemonic = "install jacket notable extra midnight key climb stomach urban april company lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat trouble iron opinion dove meadow finger primary tuna any assume bronze";
+var mnemonic = "nothing exclude hood tray test pipe whip diary spatial panel cook electric";

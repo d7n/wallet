@@ -1,1 +1,1 @@
-var mnemonic = "crane armed iron swift praise hollow novel claim bar unusual squeeze rain";
+var mnemonic = "fringe mixed nurse address blue fatigue hawk salmon congress song outdoor priority";

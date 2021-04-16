@@ -1,1 +1,1 @@
-var mnemonic = "deputy credit veteran grow mixed ghost dawn eight pig ankle transfer cool";
+var mnemonic = "cash stamp kitchen blur flavor bless orbit they cousin joke insane glad";

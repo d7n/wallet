@@ -1,1 +1,1 @@
-var mnemonic = "doll midnight shop direct fork seat tobacco common smoke tent invite hundred";
+var mnemonic = "broom fade genre maze exhaust collect bike album coil cream achieve material";

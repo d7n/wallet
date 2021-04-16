@@ -1,1 +1,1 @@
-var mnemonic = "elbow purchase worth much damage monitor desert snack sand job monitor dinosaur";
+var mnemonic = "quote wrist stage mother purpose enable dash never fiber humble erase spray";

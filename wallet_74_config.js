@@ -1,1 +1,1 @@
-var mnemonic = "bring pet deer mom mandate garlic biology approve oval space flush stick";
+var mnemonic = "sound crack pass noble hollow guide still tribe endless trial piece asset";

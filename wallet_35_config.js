@@ -1,1 +1,1 @@
-var mnemonic = "state scrap fetch become certain shiver giggle caution toddler enhance genius borrow";
+var mnemonic = "case palm increase kangaroo stadium trap knock siren movie crouch another lyrics";

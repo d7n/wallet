@@ -1,1 +1,1 @@
-var mnemonic = "gasp castle mind coin reunion artwork orient robust furnace habit lottery honey";
+var mnemonic = "vague crouch trophy fun chase jealous legend employ worry cruise choose hammer";

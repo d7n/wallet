@@ -1,1 +1,1 @@
-var mnemonic = "mosquito pass budget name unfold destroy style melt bounce author audit mansion";
+var mnemonic = "differ visual bachelor loud awesome display favorite unfold damage canyon tooth lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf crash smooth amused tornado eight dizzy trial table borrow napkin original";
+var mnemonic = "display between mail thunder sea fluid hill ship steak effort enlist web";

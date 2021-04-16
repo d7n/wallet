@@ -1,1 +1,1 @@
-var mnemonic = "view baby rotate reduce awake melt life reduce admit earth army garden";
+var mnemonic = "pledge grape soccer blood warrior unveil head pumpkin blur carbon spray never";

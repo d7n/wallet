@@ -1,1 +1,1 @@
-var mnemonic = "stuff awful scrap whale struggle strategy rally spoil sentence mutual crush crater";
+var mnemonic = "daring clap glass moral gift other kitten risk sense snow tissue ten";

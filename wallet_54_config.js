@@ -1,1 +1,1 @@
-var mnemonic = "relax ghost insect world impose brick tired rain resource dumb then cash";
+var mnemonic = "field oppose barrel pole control floor guide robust ivory author outdoor differ";

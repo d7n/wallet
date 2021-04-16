@@ -1,1 +1,1 @@
-var mnemonic = "chicken pledge foil rib easy person news ivory attack just brick start";
+var mnemonic = "audit range peanut category dismiss notable sail famous caution play scene ensure";

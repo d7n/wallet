@@ -1,1 +1,1 @@
-var mnemonic = "cereal vague just canal obey tourist expose catch disagree rose diet creek";
+var mnemonic = "chronic loop dolphin chapter pool agent tilt giraffe trap keep avoid tree";

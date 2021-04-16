@@ -1,1 +1,1 @@
-var mnemonic = "stable manual mesh smoke insane dream distance tortoise dove police cloud trim";
+var mnemonic = "grace pudding fire design scrap motor fiction you ride destroy dry gold";

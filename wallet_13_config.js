@@ -1,1 +1,1 @@
-var mnemonic = "month index team subject raven usage volume joke ladder inject once portion";
+var mnemonic = "captain pipe adapt hawk decline material zoo waste meadow endless truly false";

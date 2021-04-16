@@ -1,1 +1,1 @@
-var mnemonic = "ten remind post daring unusual stairs novel win kid minor arctic armed";
+var mnemonic = "great rotate basic explain tell bounce humor pudding myself program mouse system";

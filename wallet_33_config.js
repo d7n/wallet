@@ -1,1 +1,1 @@
-var mnemonic = "other buzz essence iron eyebrow echo key swamp access acid trick badge";
+var mnemonic = "immune core slot drum veteran oppose select orphan erase rotate anger universe";

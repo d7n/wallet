@@ -1,1 +1,1 @@
-var mnemonic = "mule cradle doll electric torch demise sun rude letter announce term you";
+var mnemonic = "craft drill order feature almost online feel remember elevator simple duty idea";

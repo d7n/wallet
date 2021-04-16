@@ -1,1 +1,1 @@
-var mnemonic = "diet hint blossom broccoli usage reform glad now wreck trial system please";
+var mnemonic = "van express mix skill scrap always tourist write blast away rate sunny";

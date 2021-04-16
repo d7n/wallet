@@ -1,1 +1,1 @@
-var mnemonic = "feed harvest mountain magnet alone cradle sausage learn skull love blade ozone";
+var mnemonic = "insect amateur trumpet imitate lake leave recipe limit gloom egg daughter egg";

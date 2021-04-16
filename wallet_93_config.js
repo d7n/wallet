@@ -1,1 +1,1 @@
-var mnemonic = "prepare provide hawk cradle song science iron slim setup alcohol castle avoid";
+var mnemonic = "dinosaur teach bitter stool inform glass height economy bicycle truck gather capable";

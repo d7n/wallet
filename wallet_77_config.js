@@ -1,1 +1,1 @@
-var mnemonic = "boring comfort filter busy near space glue idea window indicate slow party";
+var mnemonic = "ice raw vital inspire journey tilt glare conduct hurry siren inch educate";

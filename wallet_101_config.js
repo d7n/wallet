@@ -1,1 +1,1 @@
-var mnemonic = "tribe casual mushroom rule lava tell trophy mail moment quick oval match";
+var mnemonic = "bacon lizard happy bulb dice morning much iron scare good luxury zoo";

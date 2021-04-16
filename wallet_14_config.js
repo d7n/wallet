@@ -1,1 +1,1 @@
-var mnemonic = "end impose expose another rain rapid cluster weapon modify reform walnut tone";
+var mnemonic = "oak neglect list east toilet globe cat spice raw woman manage cheap";

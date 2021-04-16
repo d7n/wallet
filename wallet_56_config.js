@@ -1,1 +1,1 @@
-var mnemonic = "debris that tent dinosaur caution mandate police into assist eyebrow spoil adapt";
+var mnemonic = "kiss olive exact shiver venture potato split hammer dutch inside bar ski";

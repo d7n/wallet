@@ -1,1 +1,1 @@
-var mnemonic = "east gather more slogan voyage recipe business tuition remain find concert mountain";
+var mnemonic = "apart vacuum wreck picture veteran reform city close novel liquid zero wolf";

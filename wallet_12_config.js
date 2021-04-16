@@ -1,1 +1,1 @@
-var mnemonic = "please summer because only short tongue wild neck thing endorse soda ranch";
+var mnemonic = "blade kick carbon learn pattern pipe system sphere alone ozone clarify vault";

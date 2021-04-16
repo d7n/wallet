@@ -1,1 +1,1 @@
-var mnemonic = "leaf million velvet milk umbrella device output piano shine olympic charge filter";
+var mnemonic = "warm cost secret immense heart treat away celery antenna drastic stage bright";

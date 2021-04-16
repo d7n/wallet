@@ -1,1 +1,1 @@
-var mnemonic = "spice sight case acoustic again poem gym silent infant office summer cry";
+var mnemonic = "turn denial lava yellow fame install notable velvet ring inside unlock zebra";

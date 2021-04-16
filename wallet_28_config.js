@@ -1,1 +1,1 @@
-var mnemonic = "bind reduce vicious swap sponsor mountain eight hover bench deal lock flee";
+var mnemonic = "pact muscle soccer develop train fall rabbit season prosper simple attract traffic";

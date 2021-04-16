@@ -1,1 +1,1 @@
-var mnemonic = "junk inflict hole fun market breeze edit expect proof flee six ancient";
+var mnemonic = "uncle century swim prevent talk bridge scare apple decide adult true reopen";

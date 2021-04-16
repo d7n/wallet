@@ -1,1 +1,1 @@
-var mnemonic = "mixture rapid ready cherry book coin rate vintage nice define chicken project";
+var mnemonic = "satisfy design cancel survey upset exhaust any regret short maze decline nominee";

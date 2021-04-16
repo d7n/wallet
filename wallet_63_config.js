@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon protect goat utility dose fatal shield aspect lion lyrics ring bench";
+var mnemonic = "abuse chase balcony lecture insane among vote flag energy pen abstract embrace";

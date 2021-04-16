@@ -1,1 +1,1 @@
-var mnemonic = "quick uncover remain club cream often coin topple kit behind fury note";
+var mnemonic = "cause transfer grow shoulder tornado garlic grief gas couple tell execute online";

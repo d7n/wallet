@@ -1,1 +1,1 @@
-var mnemonic = "crawl fluid jar debris people doctor push impulse science twelve arctic disorder";
+var mnemonic = "into rain excess side draft notable actual lunch knife cruise chat interest";

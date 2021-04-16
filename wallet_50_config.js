@@ -1,1 +1,1 @@
-var mnemonic = "mother spell regret bring canvas jelly grunt shuffle carbon steel exist banner";
+var mnemonic = "icon river child slam mechanic modify black accident damp lady silly charge";

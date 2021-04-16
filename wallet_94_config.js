@@ -1,1 +1,1 @@
-var mnemonic = "antique birth plastic drastic foster sunny horn grow toddler palm describe craft";
+var mnemonic = "priority marriage casual away brick stairs top bubble color thunder coast maze";

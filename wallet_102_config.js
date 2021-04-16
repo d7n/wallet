@@ -1,1 +1,1 @@
-var mnemonic = "dutch betray frame mango prepare myth voyage scrap brass youth squeeze trim";
+var mnemonic = "raccoon civil identify orphan glimpse frequent churn west lesson install detect useful";

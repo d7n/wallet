@@ -1,1 +1,1 @@
-var mnemonic = "cluster belt mosquito fade local brisk knife ecology fiber ribbon shop pill";
+var mnemonic = "lion useful machine reject audit spirit waste general disorder cradle art bubble";

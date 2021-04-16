@@ -1,1 +1,1 @@
-var mnemonic = "expect rent puzzle ridge bitter hurry dry letter concert swear alone emerge";
+var mnemonic = "luggage convince evoke impulse lizard group faith maid observe impose upon auto";

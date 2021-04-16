@@ -1,1 +1,1 @@
-var mnemonic = "brave drum myself warm void physical badge dice ship hunt lamp insect";
+var mnemonic = "merit insect exact hold dizzy catch weasel stick kite camp pencil end";

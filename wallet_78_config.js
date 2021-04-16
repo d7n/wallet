@@ -1,1 +1,1 @@
-var mnemonic = "expand derive catalog enrich walk pretty gain material noodle vapor draw gasp";
+var mnemonic = "blouse rough science mutual test cactus tooth goat property cargo cluster motor";

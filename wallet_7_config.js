@@ -1,1 +1,1 @@
-var mnemonic = "brass sunset off snack answer brother season wedding adapt naive target help";
+var mnemonic = "bike scatter accuse discover tiger dentist grid boost crater ability various zero";

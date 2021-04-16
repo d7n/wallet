@@ -1,1 +1,1 @@
-var mnemonic = "regret bike wing rabbit congress misery later scatter develop deer move measure";
+var mnemonic = "loan remain flavor main dawn liberty lift cat allow wisdom uncover can";

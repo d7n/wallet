@@ -1,1 +1,1 @@
-var mnemonic = "oil repeat nature spend differ effort roast fever sword ketchup govern top";
+var mnemonic = "home zone pottery jewel success head unfold size vessel clump furnace vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut word young roast gentle visit involve keep cactus unknown narrow tone";
+var mnemonic = "sad elbow clerk script surge forget august birth term pass limit wire";

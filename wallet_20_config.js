@@ -1,1 +1,1 @@
-var mnemonic = "estate valley youth mimic oyster ring income pattern excuse acoustic false strong";
+var mnemonic = "bulk flee future donate drastic boost million hello brave coyote uphold urge";
