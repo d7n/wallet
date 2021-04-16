@@ -1,1 +1,1 @@
-var mnemonic = "luxury breeze old stay retreat orphan ocean toast service turtle element ranch";
+var mnemonic = "bargain syrup cage cabin flame shadow chef traffic network lawn shoulder endorse";

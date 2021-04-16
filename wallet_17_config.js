@@ -1,1 +1,1 @@
-var mnemonic = "appear nominee news mother before rebuild flat arm snack poem galaxy gas";
+var mnemonic = "grief among basket tribe game divorce muscle achieve list regret wheel ski";

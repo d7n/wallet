@@ -1,1 +1,1 @@
-var mnemonic = "cluster credit toast range main cruel hover ivory earth firm indoor alter";
+var mnemonic = "cricket old ability dune various cannon gain noodle energy lake gather vendor";

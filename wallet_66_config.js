@@ -1,1 +1,1 @@
-var mnemonic = "nominee try cube feel planet grace find subject symbol waste true base";
+var mnemonic = "issue best ginger enact view unable tenant project conduct hurt have quit";

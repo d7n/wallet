@@ -1,1 +1,1 @@
-var mnemonic = "employ ensure oval slim panel movie circle fan rose enforce chapter soap";
+var mnemonic = "virtual build advice make spend nominee unaware leader civil this wear year";

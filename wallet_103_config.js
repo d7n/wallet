@@ -1,1 +1,1 @@
-var mnemonic = "impose spend mesh stage dirt border secret bread pumpkin tide crime regret";
+var mnemonic = "that country sadness payment history coffee pass raise follow hurdle airport crouch";

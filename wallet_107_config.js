@@ -1,1 +1,1 @@
-var mnemonic = "tone wise mom little pass noodle ketchup message motion fiscal argue ride";
+var mnemonic = "retreat dragon actor man catch ring grid east slice advance seed lake";

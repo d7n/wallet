@@ -1,1 +1,1 @@
-var mnemonic = "will trophy invest village spray intact echo wonder aspect borrow income route";
+var mnemonic = "lift lumber perfect hair cattle bamboo hurdle imitate squeeze lyrics clinic diesel";

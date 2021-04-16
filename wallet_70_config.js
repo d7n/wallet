@@ -1,1 +1,1 @@
-var mnemonic = "bring energy stem milk wagon autumn tent equal sign space welcome ghost";
+var mnemonic = "source pact surprise bullet dice legend flame property lizard actor emotion clog";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy bottom leisure together profit junior drum vibrant shock caught sand invest";
+var mnemonic = "spot voyage twelve improve possible vivid sugar version beach menu vital envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "rule harsh empty kiss still piano into lucky spread bachelor match winner";
+var mnemonic = "cave uniform flower desk forward quality live equal kit immense remind sausage";

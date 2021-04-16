@@ -1,1 +1,1 @@
-var mnemonic = "air analyst bacon shock faint page matter float bubble park dawn ethics";
+var mnemonic = "winter system kind right upset jaguar author link praise engage erosion cheese";

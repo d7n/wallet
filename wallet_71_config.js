@@ -1,1 +1,1 @@
-var mnemonic = "armed mushroom cute theory amused camera resemble inquiry orphan clerk universe early";
+var mnemonic = "regret can water mother museum penalty federal empower warfare cluster casino fog";

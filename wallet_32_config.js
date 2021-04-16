@@ -1,1 +1,1 @@
-var mnemonic = "pattern track stadium piece truth draw hello height use three champion rally";
+var mnemonic = "icon parrot tribe stadium file clap fun confirm vivid pulse blade spike";

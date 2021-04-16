@@ -1,1 +1,1 @@
-var mnemonic = "cereal level hole evil enrich zone spell trigger attend beauty evoke stock";
+var mnemonic = "vibrant lady runway library genre blast grace wear sugar coach orient fork";

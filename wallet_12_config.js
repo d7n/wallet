@@ -1,1 +1,1 @@
-var mnemonic = "brain scrub crucial region horror world gorilla laptop exit brown seed target";
+var mnemonic = "tissue arrange antenna section priority lobster harvest possible improve canvas gospel pole";

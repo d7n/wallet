@@ -1,1 +1,1 @@
-var mnemonic = "matter entire fit edge borrow riot stereo below grit north verb input";
+var mnemonic = "shed cement knock deer green tumble castle frequent turtle surge lend vanish";

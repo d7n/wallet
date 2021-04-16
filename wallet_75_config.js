@@ -1,1 +1,1 @@
-var mnemonic = "work forward improve taste river enable become error toast speak funny chase";
+var mnemonic = "inquiry true inquiry finish share shrug trial dash twenty teach purchase luggage";

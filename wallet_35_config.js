@@ -1,1 +1,1 @@
-var mnemonic = "wish wonder clog kiwi scorpion robust leave dice spatial ill hurry attend";
+var mnemonic = "creek sustain planet ethics coyote travel empower caution poem street planet ranch";

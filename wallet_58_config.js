@@ -1,1 +1,1 @@
-var mnemonic = "smooth battle menu sadness walk athlete dice opera shoulder treat street knock";
+var mnemonic = "load glare pigeon auction give much vessel either token stay cinnamon pill";

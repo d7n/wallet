@@ -1,1 +1,1 @@
-var mnemonic = "heavy toy merry trigger sport clever truly logic pledge track top industry";
+var mnemonic = "dragon finish crew way equip large blast real must grow nation slab";

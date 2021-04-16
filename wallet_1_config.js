@@ -1,1 +1,1 @@
-var mnemonic = "canyon ranch dream ribbon valley gravity bench sweet door pass casual merry";
+var mnemonic = "cricket cake affair abuse peasant tank dust whip athlete leopard capable onion";

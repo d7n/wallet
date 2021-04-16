@@ -1,1 +1,1 @@
-var mnemonic = "seven husband scrap tide story lecture man visit hen village hold minor";
+var mnemonic = "title ripple siren seat strike inspire patrol drama blossom already chase bar";

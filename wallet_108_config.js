@@ -1,1 +1,1 @@
-var mnemonic = "blossom train alter mail myself cross fiction battle uncle warm network dawn";
+var mnemonic = "damage stumble lady surround old journey mouse talk right finger right grunt";

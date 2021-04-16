@@ -1,1 +1,1 @@
-var mnemonic = "below used faint coast grain quit engine moment radio code grace angry";
+var mnemonic = "furnace royal dynamic inherit pencil trend social purity average fit wasp crucial";

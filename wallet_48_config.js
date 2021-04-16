@@ -1,1 +1,1 @@
-var mnemonic = "reunion staff unusual eternal patrol insect price luxury group shell anger differ";
+var mnemonic = "citizen uncle lesson receive spin charge typical elevator scrap nerve satoshi clip";

@@ -1,1 +1,1 @@
-var mnemonic = "social draw view wave gap vivid worry special puzzle paddle sad bird";
+var mnemonic = "hunt cloth congress hobby foil place farm square orchard congress leg usage";

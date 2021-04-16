@@ -1,1 +1,1 @@
-var mnemonic = "mention scorpion apart spy web gold jealous bottom token bid lion prize";
+var mnemonic = "voice logic pulse glory together grab cost pond answer mechanic merit into";

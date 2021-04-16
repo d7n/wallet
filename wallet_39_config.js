@@ -1,1 +1,1 @@
-var mnemonic = "black bachelor waste panic cream nurse auction borrow elite fire seek start";
+var mnemonic = "steak obscure damage spy jump damp orphan property release horror advice track";

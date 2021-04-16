@@ -1,1 +1,1 @@
-var mnemonic = "action organ ecology before chicken great skull control exotic smile era pipe";
+var mnemonic = "fiber reward solid noble planet upper acid win item device easy action";

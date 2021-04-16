@@ -1,1 +1,1 @@
-var mnemonic = "better cram demand bring burst rent skill circle drastic danger crash rescue";
+var mnemonic = "sustain census sorry turn insane pistol identify clean sheriff blind dignity uphold";

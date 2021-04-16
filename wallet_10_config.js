@@ -1,1 +1,1 @@
-var mnemonic = "venture elevator play earth pumpkin rural evoke citizen shock bounce finger sight";
+var mnemonic = "valve point exchange artwork rude patch nuclear gasp task inspire betray gaze";

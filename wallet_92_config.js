@@ -1,1 +1,1 @@
-var mnemonic = "ill river series century keep initial weasel oil pretty pistol rude grass";
+var mnemonic = "boring price armor tone glue thank galaxy puzzle cute collect sponsor club";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff goddess keen season unusual garden lesson donate insect cube walk benefit";
+var mnemonic = "lady rapid judge tunnel bundle slender monster history tell three merge jelly";

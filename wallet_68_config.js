@@ -1,1 +1,1 @@
-var mnemonic = "sort night like divide forward whip welcome almost chalk path metal wash";
+var mnemonic = "physical sauce pass file profit tragic leave over blade potato train crack";

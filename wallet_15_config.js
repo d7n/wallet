@@ -1,1 +1,1 @@
-var mnemonic = "noble length spread tornado thrive jelly rely flash circle fault girl produce";
+var mnemonic = "depend pluck usual news spoon shoe session proud sauce rabbit level broken";

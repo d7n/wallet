@@ -1,1 +1,1 @@
-var mnemonic = "still immense happy key rifle guilt below release reward waste address arena";
+var mnemonic = "erode alert parrot cart length please fury weapon family awake luggage cool";

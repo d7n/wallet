@@ -1,1 +1,1 @@
-var mnemonic = "sunset entire dice awesome slush pistol whip grass bomb draft eagle act";
+var mnemonic = "entire identify damp glue relief tilt sponsor badge staff spend fiscal tortoise";

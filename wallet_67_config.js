@@ -1,1 +1,1 @@
-var mnemonic = "draw utility wheat return manual situate cash canyon front accident relax curtain";
+var mnemonic = "text position flower exchange success wink toss unlock drop talent toilet judge";

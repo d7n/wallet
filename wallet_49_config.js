@@ -1,1 +1,1 @@
-var mnemonic = "industry tag galaxy diamond dash obscure finish rule rural infant awake scene";
+var mnemonic = "any float coconut rail airport enemy display zebra embody dolphin bind flip";

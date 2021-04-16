@@ -1,1 +1,1 @@
-var mnemonic = "pledge opera normal conduct about flag trip supreme whip marine social lonely";
+var mnemonic = "range nose puppy youth congress winner fence debate hint solve solve equal";

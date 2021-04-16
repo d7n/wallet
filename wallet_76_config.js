@@ -1,1 +1,1 @@
-var mnemonic = "purity rack oven matrix express soul wise spray menu place camp ancient";
+var mnemonic = "hammer mosquito taste spray sponsor trick eight gift town federal clock thank";

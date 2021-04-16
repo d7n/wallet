@@ -1,1 +1,1 @@
-var mnemonic = "armor ship verb silly undo marble early exchange member step lobster warfare";
+var mnemonic = "walk marble jaguar flee lemon vague spatial damage damp improve have loyal";

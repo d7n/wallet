@@ -1,1 +1,1 @@
-var mnemonic = "size attract forget palace caution clever basket lesson umbrella fee slice humble";
+var mnemonic = "stay suffer whip turkey shoot earn clean obey public trial outer improve";

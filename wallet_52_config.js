@@ -1,1 +1,1 @@
-var mnemonic = "daring buddy agree fatigue bike before camp place garment gesture genius first";
+var mnemonic = "dolphin album exhibit sleep path right alley cram vital pluck summer jelly";

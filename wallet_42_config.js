@@ -1,1 +1,1 @@
-var mnemonic = "drastic behind polar three snack dial people cactus unusual enable provide day";
+var mnemonic = "glow burst lemon burst ginger prison enable extend weasel soldier globe suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet when glare roof speak move chat glad trade space stove modify";
+var mnemonic = "tool cricket scale open goddess state game outer meat awesome survey butter";

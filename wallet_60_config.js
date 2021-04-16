@@ -1,1 +1,1 @@
-var mnemonic = "joke claim prepare mask birth stumble crack merry comic common warrior exhaust";
+var mnemonic = "police filter raccoon raw distance original salt upper hurt orchard slice disease";

@@ -1,1 +1,1 @@
-var mnemonic = "negative absorb early enough symptom draw kitten dice essence explain topic victory";
+var mnemonic = "mobile already return menu gift arrest wish able enact invest enhance uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise comic roast balance cute animal boat bike shell across pulse slogan";
+var mnemonic = "bring rapid cry thing flush number pause final chuckle coach lawsuit lens";

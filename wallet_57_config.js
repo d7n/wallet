@@ -1,1 +1,1 @@
-var mnemonic = "laundry dumb merit address group symbol wrap stage brick rocket lottery people";
+var mnemonic = "grant hair smoke install point hood rival boost blossom boring mind have";

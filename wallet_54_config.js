@@ -1,1 +1,1 @@
-var mnemonic = "start time umbrella truck ball rebuild digital monkey pen list badge version";
+var mnemonic = "dash elite punch civil hobby actor sock wide mirror common engine antenna";

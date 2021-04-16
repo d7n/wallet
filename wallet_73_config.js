@@ -1,1 +1,1 @@
-var mnemonic = "lady motor inject game unfair canyon topple whip column certain test floor";
+var mnemonic = "sign slight engage gate fetch promote collect lend shell twist evidence extra";

@@ -1,1 +1,1 @@
-var mnemonic = "blame coil jar crash citizen world desert fiber wine gallery ivory sun";
+var mnemonic = "hour reward minimum emotion cover jaguar goddess kiss rough craft hotel fence";

@@ -1,1 +1,1 @@
-var mnemonic = "search orange position rhythm music holiday unit sponsor slush youth citizen pony";
+var mnemonic = "runway describe airport six trumpet half sustain swallow clown neck man talent";

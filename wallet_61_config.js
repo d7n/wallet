@@ -1,1 +1,1 @@
-var mnemonic = "guard casino ginger ankle build chuckle column caution hungry gentle ripple distance";
+var mnemonic = "net auto magic need mirror produce disease floor volume runway clerk obscure";

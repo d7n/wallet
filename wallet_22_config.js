@@ -1,1 +1,1 @@
-var mnemonic = "era reopen nurse orange camp hurdle whale include square glad globe venture";
+var mnemonic = "choose caught yellow limit cannon bench mule acoustic uncover brand focus fork";

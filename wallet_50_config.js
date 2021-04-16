@@ -1,1 +1,1 @@
-var mnemonic = "move duty resist stable lend jar attend such carpet excess episode upon";
+var mnemonic = "candy vehicle call country million suit subway mechanic coconut garage patch shove";

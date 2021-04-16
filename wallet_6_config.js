@@ -1,1 +1,1 @@
-var mnemonic = "ghost verb arch wagon tenant world tray pond kiwi soul worth monkey";
+var mnemonic = "enjoy fancy scout fashion smoke light monster loop broken peace album mushroom";

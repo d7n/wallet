@@ -1,1 +1,1 @@
-var mnemonic = "essence mandate snack know warm skill clip start raven frequent cannon old";
+var mnemonic = "ghost pair squeeze thumb hope seat blanket dice camp inherit dust turn";

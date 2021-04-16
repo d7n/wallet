@@ -1,1 +1,1 @@
-var mnemonic = "narrow uncover humor industry tennis casual pride note notice sister achieve february";
+var mnemonic = "crane double rude multiply shadow tent mercy slot science oyster horn relief";

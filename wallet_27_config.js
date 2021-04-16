@@ -1,1 +1,1 @@
-var mnemonic = "dad riot bring obvious foil cry small fortune observe purchase baby churn";
+var mnemonic = "wet approve cotton labor note silver book neutral nest near trigger alley";

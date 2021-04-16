@@ -1,1 +1,1 @@
-var mnemonic = "victory mother athlete size again bitter dentist acid goat athlete sign shift";
+var mnemonic = "measure civil butter weather lawn wait next begin inflict priority empower solution";

@@ -1,1 +1,1 @@
-var mnemonic = "brave merry cushion earn wrestle luxury public aerobic security skirt erupt wrap";
+var mnemonic = "inhale bring area spell dinner wasp wish tomorrow alert cage swallow bracket";

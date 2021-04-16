@@ -1,1 +1,1 @@
-var mnemonic = "digital cotton lecture risk giant crazy army tonight beef treat leopard envelope";
+var mnemonic = "leopard invite item athlete portion join select habit agree vibrant banner bacon";

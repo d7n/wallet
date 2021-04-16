@@ -1,1 +1,1 @@
-var mnemonic = "rhythm flame castle kit glimpse tree enact rack carry business kite disorder";
+var mnemonic = "kit start card frame brief airport state pact build awful sun summer";

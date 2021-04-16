@@ -1,1 +1,1 @@
-var mnemonic = "same sight estate ancient side stick scrap alarm tell kiwi victory lazy";
+var mnemonic = "ability square always much armed strike fitness output decorate aunt screen violin";

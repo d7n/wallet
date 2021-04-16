@@ -1,1 +1,1 @@
-var mnemonic = "rival original pulse circle regular disorder subway couple attitude annual fuel service";
+var mnemonic = "auction feed twenty crazy phrase luxury grape bus conduct foster ozone feed";

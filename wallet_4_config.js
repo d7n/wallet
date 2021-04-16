@@ -1,1 +1,1 @@
-var mnemonic = "spell sock flower picnic fiscal cram sand session monster veteran render firm";
+var mnemonic = "symptom excuse lemon sniff discover gas turkey bean ice evoke mixed tuna";

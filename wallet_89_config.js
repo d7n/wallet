@@ -1,1 +1,1 @@
-var mnemonic = "luxury skill path mesh elder thunder utility nephew skirt engine rescue burst";
+var mnemonic = "security video taxi hazard bronze coyote same flame syrup change zone bargain";

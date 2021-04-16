@@ -1,1 +1,1 @@
-var mnemonic = "announce blossom settle purse settle suspect excite salt immune travel swift offer";
+var mnemonic = "people rail square gravity motor mirror lady female lemon weapon eagle setup";

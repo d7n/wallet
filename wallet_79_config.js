@@ -1,1 +1,1 @@
-var mnemonic = "toilet despair lonely subway certain cradle vital truck nothing hidden say evoke";
+var mnemonic = "pair core toe school siren old nose ankle lady faint better void";

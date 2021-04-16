@@ -1,1 +1,1 @@
-var mnemonic = "three feed acoustic rain soap sphere mandate bubble unaware joy elbow broom";
+var mnemonic = "impose rhythm embark spoil essence great slender split two senior cannon idle";

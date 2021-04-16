@@ -1,1 +1,1 @@
-var mnemonic = "angle virtual stool toilet cradle crack screen gold senior leave one hole";
+var mnemonic = "card quantum symbol praise pioneer end emotion robot goat remain glimpse kind";

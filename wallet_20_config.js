@@ -1,1 +1,1 @@
-var mnemonic = "style focus fiber rookie salad shrimp catalog upon risk speak trophy rug";
+var mnemonic = "fortune hair risk rigid sorry reason drip pool chaos later nation inhale";

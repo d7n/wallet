@@ -1,1 +1,1 @@
-var mnemonic = "swift effort plate payment ticket shift wire give lab initial ride shield";
+var mnemonic = "page tenant guitar author high still convince bag whale hat blade service";

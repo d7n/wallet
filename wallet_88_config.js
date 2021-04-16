@@ -1,1 +1,1 @@
-var mnemonic = "mad spy name void trumpet circle draw mom skate margin tiny laptop";
+var mnemonic = "garden venue kiss filter spin sheriff cause violin enjoy crater poverty place";

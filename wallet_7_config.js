@@ -1,1 +1,1 @@
-var mnemonic = "boil human slush scene crash stem patrol morning defense crumble pass coach";
+var mnemonic = "vacuum gate sense junior scan glare safe april mix hundred life theme";

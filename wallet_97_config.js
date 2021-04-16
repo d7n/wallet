@@ -1,1 +1,1 @@
-var mnemonic = "double mobile runway welcome tourist urban damp sadness bracket beyond noble erode";
+var mnemonic = "fade occur object royal neither judge three master april lyrics naive valve";

@@ -1,1 +1,1 @@
-var mnemonic = "caught length proud image obscure harsh include math unit water exit mouse";
+var mnemonic = "lake seminar swift alter virtual glad soul history climb assist buzz digital";

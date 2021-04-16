@@ -1,1 +1,1 @@
-var mnemonic = "witness apology weather huge gap exile goddess cash style hover rebel text";
+var mnemonic = "fatigue story canvas tattoo void deny dignity candy live then pelican explain";

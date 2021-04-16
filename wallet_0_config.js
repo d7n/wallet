@@ -1,1 +1,1 @@
-var mnemonic = "shed unlock lizard undo portion remember fold that jungle timber aunt acid";
+var mnemonic = "chunk trumpet sausage domain okay trial gauge silent steel spend position assume";

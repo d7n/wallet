@@ -1,1 +1,1 @@
-var mnemonic = "slow robust perfect feature tube girl absorb picnic provide midnight evidence insane";
+var mnemonic = "topple ticket dirt away remember nation ladder enrich real athlete isolate spirit";

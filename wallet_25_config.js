@@ -1,1 +1,1 @@
-var mnemonic = "original poverty enhance fabric exchange push liquid imitate notable drill pigeon broken";
+var mnemonic = "borrow erosion head critic engage swamp entire alley artwork meadow surprise hard";

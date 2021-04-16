@@ -1,1 +1,1 @@
-var mnemonic = "corn juice soft gun inside equip soup gun dragon advance profit foil";
+var mnemonic = "vault glue advice pool shell large share naive cat patient sort rich";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge female spoon legal false famous garlic marriage access either such increase";
+var mnemonic = "suggest sport tragic order way tell addict slow home hunt tomorrow photo";

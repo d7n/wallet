@@ -1,1 +1,1 @@
-var mnemonic = "rare assault filter bless toward supply item vibrant bird session april deputy";
+var mnemonic = "pen gift unfair border drum torch crisp aisle potato debate orange junior";

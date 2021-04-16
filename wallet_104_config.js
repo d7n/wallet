@@ -1,1 +1,1 @@
-var mnemonic = "domain page genuine recipe couch spawn suit method kick awkward stairs stool";
+var mnemonic = "aunt math onion cruise crop click atom bulb aerobic stuff reason shy";

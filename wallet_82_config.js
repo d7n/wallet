@@ -1,1 +1,1 @@
-var mnemonic = "oval scorpion aim gossip deal circle multiply cigar kitchen unfair fix amount";
+var mnemonic = "genuine mask weird buffalo bubble afford later alley first piece extend spawn";
