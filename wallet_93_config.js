@@ -1,1 +1,1 @@
-var mnemonic = "width urban auto region mix title electric scale mouse garment twenty agree";
+var mnemonic = "arrest estate divide monster friend add latin equip settle nerve pudding job";

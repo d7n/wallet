@@ -1,1 +1,1 @@
-var mnemonic = "series enemy matrix exclude vote winter dizzy museum model phone rotate cat";
+var mnemonic = "extra tomorrow odor exist cabbage decrease replace double culture wedding dream market";

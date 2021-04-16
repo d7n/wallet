@@ -1,1 +1,1 @@
-var mnemonic = "club today act squirrel amateur member figure advice broken banana fish ranch";
+var mnemonic = "ensure elevator repeat inform raw song enough federal please oak work syrup";

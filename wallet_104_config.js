@@ -1,1 +1,1 @@
-var mnemonic = "veteran together sport resource move toss layer lava cave name opinion future";
+var mnemonic = "van good original vanish leaf safe harsh shadow hybrid opera online sail";

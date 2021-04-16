@@ -1,1 +1,1 @@
-var mnemonic = "midnight afford catch tourist foster world duty wire sketch course cigar wealth";
+var mnemonic = "rural lift sad job diamond awkward bundle degree ten knee debris hero";

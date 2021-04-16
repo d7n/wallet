@@ -1,1 +1,1 @@
-var mnemonic = "mobile hidden long nation diagram divert tell panda wood inject metal price";
+var mnemonic = "much bottom engine minute cash frozen bar very maple theme recall glove";

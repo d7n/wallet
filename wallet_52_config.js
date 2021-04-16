@@ -1,1 +1,1 @@
-var mnemonic = "casual multiply rescue hungry sing vast estate today surface cave wrong cash";
+var mnemonic = "churn scale stereo cheese moral guilt word word level noodle chicken critic";

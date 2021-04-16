@@ -1,1 +1,1 @@
-var mnemonic = "ceiling recipe must exit winter cry swamp copper aware alien place gaze";
+var mnemonic = "recall vacant garment park broom inquiry judge charge seven torch clown smoke";

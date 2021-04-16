@@ -1,1 +1,1 @@
-var mnemonic = "dove weather tuna label love planet glass celery chuckle remove pass reopen";
+var mnemonic = "buzz cup loyal convince lava floor sauce pluck absent worth brush dance";

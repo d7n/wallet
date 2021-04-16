@@ -1,1 +1,1 @@
-var mnemonic = "diet cheese column frown grocery stock utility wonder business lift cause grass";
+var mnemonic = "master item piece thought isolate spider moment immense tuna army oak fury";

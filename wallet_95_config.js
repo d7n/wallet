@@ -1,1 +1,1 @@
-var mnemonic = "dream lava mansion print trick gossip until evolve insane famous huge admit";
+var mnemonic = "exhaust ranch copper dose lady grant member canyon coffee relax kitten retire";

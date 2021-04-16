@@ -1,1 +1,1 @@
-var mnemonic = "slab victory foster grocery road trial notable coconut rug sea box winter";
+var mnemonic = "worth employ advance ocean cram depth first sand lion asthma immune number";

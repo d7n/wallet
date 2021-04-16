@@ -1,1 +1,1 @@
-var mnemonic = "speed loud shrimp gadget elbow pledge local gentle aspect tonight fossil radio";
+var mnemonic = "scatter nuclear mystery autumn behind guess term banana tornado sting hidden hand";

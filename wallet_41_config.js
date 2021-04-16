@@ -1,1 +1,1 @@
-var mnemonic = "best provide fan coast flash science chase denial citizen purity evidence cradle";
+var mnemonic = "become chase sad empower into citizen version describe arm before bulb drill";

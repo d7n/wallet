@@ -1,1 +1,1 @@
-var mnemonic = "project shoot spoil tenant camp almost version universe elder approve ignore vessel";
+var mnemonic = "fragile layer develop twenty host increase assist desert favorite coconut salon basic";

@@ -1,1 +1,1 @@
-var mnemonic = "defy fabric great iron doctor pact brother gap orphan panther forest ahead";
+var mnemonic = "profit walk promote jewel glove blue parent tooth rebel media violin double";

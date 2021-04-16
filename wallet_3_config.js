@@ -1,1 +1,1 @@
-var mnemonic = "shiver analyst humble master satisfy melody certain torch climb acid still whale";
+var mnemonic = "because comfort manage ethics buzz shy large moment vast system dinner inform";

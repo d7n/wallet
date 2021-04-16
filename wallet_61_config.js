@@ -1,1 +1,1 @@
-var mnemonic = "merge aisle actress decline loop juice spend fantasy educate dish heavy book";
+var mnemonic = "fit ridge thrive shove quick give valve diet canyon oyster aim confirm";

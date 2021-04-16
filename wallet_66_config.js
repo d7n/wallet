@@ -1,1 +1,1 @@
-var mnemonic = "hero delay snap wood swear cross resource devote ship ability riot predict";
+var mnemonic = "elephant creek candy divide van junk shell current blue coyote shoe where";

@@ -1,1 +1,1 @@
-var mnemonic = "spring pride vehicle cloud run traffic range focus scheme muscle tape artefact";
+var mnemonic = "balance announce town merit pistol force gym pig heavy spare border turkey";

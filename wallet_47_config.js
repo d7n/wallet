@@ -1,1 +1,1 @@
-var mnemonic = "survey annual pass canal tiger history high grace fault cradle obtain rude";
+var mnemonic = "tired planet border will day squirrel rapid episode agree series invite tape";

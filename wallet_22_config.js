@@ -1,1 +1,1 @@
-var mnemonic = "ethics total hen victory pepper usual nerve road craft frame peace total";
+var mnemonic = "loyal anchor ramp expand helmet chase involve jeans canyon feature crime aim";

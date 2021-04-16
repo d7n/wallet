@@ -1,1 +1,1 @@
-var mnemonic = "tilt endless fee dish author car process post copy drama excite agree";
+var mnemonic = "crouch swift equip cherry script parent type all asthma buyer figure fresh";

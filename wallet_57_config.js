@@ -1,1 +1,1 @@
-var mnemonic = "elephant argue multiply useful know unit inform wave noise type grape install";
+var mnemonic = "evolve laundry minor sudden spot sign nurse cupboard lyrics orchard buddy destroy";

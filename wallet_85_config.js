@@ -1,1 +1,1 @@
-var mnemonic = "blame meadow mule wear dry permit laugh urge defense brown owner minor";
+var mnemonic = "explain ocean manual exchange seat gold share need edit borrow actor buddy";

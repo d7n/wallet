@@ -1,1 +1,1 @@
-var mnemonic = "purity prison hover milk scatter fever recipe silk sniff output limb lottery";
+var mnemonic = "elite card range photo lava mention install family middle unusual cherry violin";

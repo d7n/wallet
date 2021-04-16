@@ -1,1 +1,1 @@
-var mnemonic = "crystal space divert sample fringe fit sock away balance purity coach flee";
+var mnemonic = "promote spin movie uphold mixed type sweet parrot foil cargo shine drip";

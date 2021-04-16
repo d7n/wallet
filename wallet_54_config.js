@@ -1,1 +1,1 @@
-var mnemonic = "into sister surprise field open twice atom joy goddess script click obscure";
+var mnemonic = "patient rookie wrap boring teach explain owner destroy rebel excess give garlic";

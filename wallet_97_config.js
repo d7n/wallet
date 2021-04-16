@@ -1,1 +1,1 @@
-var mnemonic = "symbol devote front ridge joy logic expire glare guilt item fish senior";
+var mnemonic = "monkey sniff depart swamp cheap change flame task hill mountain organ word";

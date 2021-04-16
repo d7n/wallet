@@ -1,1 +1,1 @@
-var mnemonic = "endless clog wet protect talk risk arch cloth mixture urge copper dial";
+var mnemonic = "trash fit shoot swallow minimum awesome nature skull fringe deposit february kind";

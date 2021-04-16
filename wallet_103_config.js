@@ -1,1 +1,1 @@
-var mnemonic = "pizza sadness universe toddler almost panther enough loan job whale diet affair";
+var mnemonic = "deal solar protect lawn couch charge debris slim double mansion fetch ring";

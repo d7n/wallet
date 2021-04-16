@@ -1,1 +1,1 @@
-var mnemonic = "fetch job course record sudden idle lunch grocery chair caution divorce genuine";
+var mnemonic = "area blood hello build record liquid because flat approve feel priority two";

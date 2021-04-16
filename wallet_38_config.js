@@ -1,1 +1,1 @@
-var mnemonic = "enough common judge bomb news hungry cross reopen tribe conduct tape verb";
+var mnemonic = "ecology shrug kidney throw side voice badge agent any sure mystery will";

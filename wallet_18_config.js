@@ -1,1 +1,1 @@
-var mnemonic = "left like vanish report heavy hero width desert scrub grow shoot noodle";
+var mnemonic = "situate civil pond deer island luggage melt reward cheese injury leisure verify";

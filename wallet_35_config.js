@@ -1,1 +1,1 @@
-var mnemonic = "distance west chest company pitch skin hope daring large busy neutral fragile";
+var mnemonic = "museum safe empty census usual fit total famous cash correct perfect about";

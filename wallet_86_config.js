@@ -1,1 +1,1 @@
-var mnemonic = "copper hand diagram shaft present wheat pink volcano moment dragon hat regret";
+var mnemonic = "glow chat inmate burden name lock phrase dinner click trouble fee replace";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse own prevent crouch truly photo fringe winter scrap tongue report error";
+var mnemonic = "squirrel industry brand leader coin nothing pony spice what silk wedding health";

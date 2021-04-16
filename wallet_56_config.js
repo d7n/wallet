@@ -1,1 +1,1 @@
-var mnemonic = "myth ladder escape whisper ladder cruel injury task six donkey ketchup genre";
+var mnemonic = "salute window dutch give much fade boy tuition shed lava tip borrow";

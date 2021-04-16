@@ -1,1 +1,1 @@
-var mnemonic = "place iron travel apart old caught mom unaware fade stool gallery churn";
+var mnemonic = "slab lizard funny because like sure crumble usual interest canal cargo fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "father poverty pet equal athlete return youth stuff shine trip angry piano";
+var mnemonic = "flag pencil eternal tissue group two butter waste sadness bone adult foam";

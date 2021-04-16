@@ -1,1 +1,1 @@
-var mnemonic = "chief math renew horn estate group churn change slide outside fragile employ";
+var mnemonic = "joy friend unique member uniform raw island useful flavor ketchup bicycle brave";

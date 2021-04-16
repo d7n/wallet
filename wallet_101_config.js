@@ -1,1 +1,1 @@
-var mnemonic = "split monkey remain tool rack moment forest shop frozen woman hobby kangaroo";
+var mnemonic = "domain able silent garden half small afraid peace noodle click flavor betray";

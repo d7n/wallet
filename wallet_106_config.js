@@ -1,1 +1,1 @@
-var mnemonic = "skirt unfold noble mail remove nuclear like execute crawl vehicle quick wedding";
+var mnemonic = "boil soon tribe photo supreme foam peasant load thumb level eager quiz";

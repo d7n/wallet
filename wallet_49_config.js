@@ -1,1 +1,1 @@
-var mnemonic = "cable destroy slice oppose extra double govern recycle solve climb august couch";
+var mnemonic = "car alcohol orphan chronic corn need era harbor obey three sing genuine";

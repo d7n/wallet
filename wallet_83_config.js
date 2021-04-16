@@ -1,1 +1,1 @@
-var mnemonic = "wheat okay tunnel custom twin type cactus finish gift forward wealth seed";
+var mnemonic = "slab toss swallow spend legal scale bleak educate indoor horn long surge";

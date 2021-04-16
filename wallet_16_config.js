@@ -1,1 +1,1 @@
-var mnemonic = "diamond banana cinnamon shoulder machine occur globe dinner talk what defy tent";
+var mnemonic = "various fun canal cross few body promote random slim undo author fiscal";

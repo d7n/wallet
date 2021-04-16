@@ -1,1 +1,1 @@
-var mnemonic = "glove blame pilot prefer switch toe anger mask reflect leisure pencil remain";
+var mnemonic = "reopen link around repair horn audit arrange suffer add dragon rich oil";

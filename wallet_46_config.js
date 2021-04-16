@@ -1,1 +1,1 @@
-var mnemonic = "license scare source embody bar credit mountain strategy select wait scan pet";
+var mnemonic = "rare despair assist output vehicle jungle lake symptom flip indicate shy kangaroo";

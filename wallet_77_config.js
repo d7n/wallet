@@ -1,1 +1,1 @@
-var mnemonic = "ring arrow always shrimp skill arctic orange couple luggage health just genre";
+var mnemonic = "today bunker rent hidden spoil leaf lounge disease float boil million insane";

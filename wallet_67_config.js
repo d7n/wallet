@@ -1,1 +1,1 @@
-var mnemonic = "foam sight spare whisper first raccoon shed legend bid rib soldier curve";
+var mnemonic = "cook note vehicle buffalo vendor drop museum skirt frozen head benefit prevent";

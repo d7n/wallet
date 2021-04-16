@@ -1,1 +1,1 @@
-var mnemonic = "rate hard arch scheme allow mesh ribbon idle captain mammal iron bubble";
+var mnemonic = "coil stock grass educate frequent nest sugar load dismiss swarm access outside";

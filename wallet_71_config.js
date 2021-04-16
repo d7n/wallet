@@ -1,1 +1,1 @@
-var mnemonic = "chase replace occur brush science question talent view unusual invite aunt smile";
+var mnemonic = "domain mesh snap mad assume more raccoon wheat trend holiday balance width";

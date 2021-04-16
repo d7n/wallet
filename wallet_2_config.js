@@ -1,1 +1,1 @@
-var mnemonic = "salute catch hospital barrel they cradle derive profit general language fire candy";
+var mnemonic = "offer snow push assume blue argue happy police expose away awkward undo";

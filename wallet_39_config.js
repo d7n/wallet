@@ -1,1 +1,1 @@
-var mnemonic = "erupt giant super heavy bitter orbit hammer version index point unable express";
+var mnemonic = "recycle pig emerge express topic weekend ceiling stage green spider trouble pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "still match erode robot brief couple have dash safe reunion remind castle";
+var mnemonic = "weekend silent tail report dinosaur proud enjoy lyrics mean silent hen spare";

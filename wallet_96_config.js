@@ -1,1 +1,1 @@
-var mnemonic = "enhance erode detail return front treat angry climb fence grant fragile reform";
+var mnemonic = "stamp resource satisfy address glass write rice jewel damage hockey angry owner";

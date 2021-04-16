@@ -1,1 +1,1 @@
-var mnemonic = "again drum tired welcome crumble pill goddess nature unfair absurd solar green";
+var mnemonic = "harbor bus fall buzz welcome van federal reject radio simple glare question";

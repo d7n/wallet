@@ -1,1 +1,1 @@
-var mnemonic = "endorse health prepare sample apart autumn stairs erase outside hockey rail end";
+var mnemonic = "rubber guess machine earth cruel profit option use bunker forget spot stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "invite fiscal smile original useless neither reason run field cover obvious angry";
+var mnemonic = "tourist leader legend enemy dwarf tennis three tower ancient stamp neglect gift";

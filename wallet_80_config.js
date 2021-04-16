@@ -1,1 +1,1 @@
-var mnemonic = "food cheap lock raccoon token minor caught drift february bless adult option";
+var mnemonic = "inquiry leisure genre whisper canvas first guitar flavor clock skate flat save";

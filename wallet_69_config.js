@@ -1,1 +1,1 @@
-var mnemonic = "silver build theme amount ten squeeze junk cry sheriff material scatter execute";
+var mnemonic = "tag devote creek old roast junior logic rough drive spirit ceiling series";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth animal swamp report eye filter suggest shop athlete license select scissors";
+var mnemonic = "gold render sentence smile neglect fork supreme enable gather feel brother enough";

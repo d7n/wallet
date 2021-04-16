@@ -1,1 +1,1 @@
-var mnemonic = "thunder swim grace six accuse rocket dirt permit way caught staff drastic";
+var mnemonic = "abuse nose attend early sorry syrup tag dose busy smooth question relief";

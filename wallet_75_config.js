@@ -1,1 +1,1 @@
-var mnemonic = "parade accuse regular please defy cage sponsor month parent profit primary tool";
+var mnemonic = "increase obvious emerge digital trick alcohol wink fury what mad manual giggle";

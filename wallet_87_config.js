@@ -1,1 +1,1 @@
-var mnemonic = "giggle ocean into payment mimic glow manual damp any cactus canal limb";
+var mnemonic = "muffin flight gravity sorry leave lawsuit shift involve title road glass tongue";

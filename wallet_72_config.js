@@ -1,1 +1,1 @@
-var mnemonic = "coast eternal sail comic lake embrace flight allow possible bachelor tortoise nothing";
+var mnemonic = "famous provide verify kingdom tank general weird custom retreat junk decorate weird";

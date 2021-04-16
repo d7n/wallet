@@ -1,1 +1,1 @@
-var mnemonic = "year shaft bring mad decide bunker seven win attract frog arm blouse";
+var mnemonic = "can often tray ticket outer earn bleak exact will chunk fence fan";

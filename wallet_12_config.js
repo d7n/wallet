@@ -1,1 +1,1 @@
-var mnemonic = "media hunt erosion damage approve negative helmet shine anchor deliver garbage globe";
+var mnemonic = "piano purse swift arctic scale trade script illegal order twice present vibrant";

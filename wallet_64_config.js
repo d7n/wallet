@@ -1,1 +1,1 @@
-var mnemonic = "stereo copper clog zebra day youth color obvious odor demand fork hat";
+var mnemonic = "area antenna same odor toy pet describe drift distance depart peanut vague";

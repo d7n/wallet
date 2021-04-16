@@ -1,1 +1,1 @@
-var mnemonic = "observe impose weapon caution ask crowd cement marble maid increase aim maximum";
+var mnemonic = "current drip acid retreat prize endless armed crucial among wolf repeat cherry";

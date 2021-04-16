@@ -1,1 +1,1 @@
-var mnemonic = "rule dice custom speak post weasel domain dry guide rigid nerve various";
+var mnemonic = "reduce force dragon cash damp tobacco dream level price learn tiger milk";

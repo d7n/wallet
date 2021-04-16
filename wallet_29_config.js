@@ -1,1 +1,1 @@
-var mnemonic = "between birth drama atom airport verify slender rebuild frost inflict april wreck";
+var mnemonic = "unit they illegal nerve below nose panic turtle spray always news average";

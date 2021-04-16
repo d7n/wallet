@@ -1,1 +1,1 @@
-var mnemonic = "future liquid myself tooth busy camera average edit robot entire nerve track";
+var mnemonic = "quote zero buffalo define unfair abandon dress ladder recall tell rice start";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit chalk swap catch noble garage draft have metal void near park";
+var mnemonic = "panda fiscal project magic dance fitness dolphin nothing grab police crack goddess";

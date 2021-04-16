@@ -1,1 +1,1 @@
-var mnemonic = "spawn december crop grocery planet dial what reflect voyage flag merit autumn";
+var mnemonic = "hub jacket mirror hold device polar lesson spring else van scare breeze";

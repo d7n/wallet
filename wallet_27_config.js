@@ -1,1 +1,1 @@
-var mnemonic = "usage mother cheap bulb unable one pizza olive drama almost object omit";
+var mnemonic = "misery december bacon year easy foam ketchup aware spring cloth siege lunch";

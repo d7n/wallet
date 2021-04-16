@@ -1,1 +1,1 @@
-var mnemonic = "road smoke palm echo sing police confirm honey asthma symbol small cupboard";
+var mnemonic = "spatial dune retreat gain evolve project shaft kit media expand laundry sea";

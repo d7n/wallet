@@ -1,1 +1,1 @@
-var mnemonic = "night utility chase layer supply decorate cram kit pupil eye butter parade";
+var mnemonic = "unlock guard vague elevator animal raw ten flower pipe bulb swap bus";

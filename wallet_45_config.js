@@ -1,1 +1,1 @@
-var mnemonic = "deal early holiday omit drift pupil fiber try where pet buffalo yard";
+var mnemonic = "toe height price flip bean situate angle neither logic believe steak click";

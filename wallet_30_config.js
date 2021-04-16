@@ -1,1 +1,1 @@
-var mnemonic = "wrestle appear ethics search gain wink stage protect day ivory glue rifle";
+var mnemonic = "exhaust toward theory morning foster exhaust genius pill library produce admit top";

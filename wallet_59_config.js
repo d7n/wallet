@@ -1,1 +1,1 @@
-var mnemonic = "chicken brief seven cross flock turn surface large describe question avocado parade";
+var mnemonic = "connect human fee flip wise situate torch jealous index credit whisper silk";

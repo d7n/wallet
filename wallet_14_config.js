@@ -1,1 +1,1 @@
-var mnemonic = "collect occur chief light intact minimum smart van fatal employ potato result";
+var mnemonic = "blanket soda they coast rival comfort region shrug sadness forum oven recall";

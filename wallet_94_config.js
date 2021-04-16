@@ -1,1 +1,1 @@
-var mnemonic = "swift sort near cover cover lazy hotel traffic tape pipe upgrade scale";
+var mnemonic = "glow enable ribbon candy cancel guess panel fat drum copy afford scrap";

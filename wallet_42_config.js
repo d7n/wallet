@@ -1,1 +1,1 @@
-var mnemonic = "myth fossil guard balcony shy solution exist submit this garlic oak gauge";
+var mnemonic = "juice acoustic negative thunder glass quote begin ginger drip portion wire gesture";

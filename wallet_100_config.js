@@ -1,1 +1,1 @@
-var mnemonic = "chase tide item urban pudding beauty fold panic staff accuse royal grant";
+var mnemonic = "mule sweet dismiss brief tell slim anchor sibling pilot nose salad device";

@@ -1,1 +1,1 @@
-var mnemonic = "exact annual bomb indoor theme audit small palace tired fine name sting";
+var mnemonic = "lumber another state column inspire mechanic bacon base salt soul actor puzzle";

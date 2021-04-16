@@ -1,1 +1,1 @@
-var mnemonic = "abstract maze patch brief toilet sibling pact rescue cause rhythm refuse siege";
+var mnemonic = "estate camera pig paper stuff convince morning taste coconut they scheme phrase";

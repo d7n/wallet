@@ -1,1 +1,1 @@
-var mnemonic = "trap bright coffee result hospital fatal foam between live idle income lion";
+var mnemonic = "fall camp pause gadget decade empower hill sorry found shiver arena chaos";

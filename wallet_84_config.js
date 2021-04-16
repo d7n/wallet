@@ -1,1 +1,1 @@
-var mnemonic = "dove card grief keep town connect pill scale tiger junior ginger crouch";
+var mnemonic = "sea pilot together anchor very aware sample grace angry old disagree virus";

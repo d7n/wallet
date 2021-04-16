@@ -1,1 +1,1 @@
-var mnemonic = "thing snack boat beach flock tomato green travel burst symptom true shadow";
+var mnemonic = "adult beach truck figure ready wide utility session liar sail impact ranch";

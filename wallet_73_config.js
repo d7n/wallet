@@ -1,1 +1,1 @@
-var mnemonic = "gold pudding fix man spice shrimp kingdom clean secret hidden female jazz";
+var mnemonic = "nest napkin width jacket settle pave onion expand artwork viable tomorrow coconut";

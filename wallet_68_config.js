@@ -1,1 +1,1 @@
-var mnemonic = "zebra mouse learn learn gold gauge advance rabbit basic photo rose firm";
+var mnemonic = "wealth taste major mimic tail idle desk exercise salute night ghost diamond";

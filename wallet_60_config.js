@@ -1,1 +1,1 @@
-var mnemonic = "cause imitate extra alien sail glimpse base ketchup narrow smooth icon hair";
+var mnemonic = "found swarm area reopen vacuum photo season jewel possible innocent great humble";

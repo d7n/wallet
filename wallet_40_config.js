@@ -1,1 +1,1 @@
-var mnemonic = "just include canoe make rural dial outer stem eager scrap toast embark";
+var mnemonic = "wide mother armor message ask face wool beyond park circle thumb obscure";
