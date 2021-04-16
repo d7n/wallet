@@ -1,1 +1,1 @@
-var mnemonic = "slim absorb air divorce write tooth conduct cattle shallow survey attack flight";
+var mnemonic = "identify bulb grow click rely horse loan atom title diesel message wall";

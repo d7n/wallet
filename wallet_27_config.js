@@ -1,1 +1,1 @@
-var mnemonic = "jaguar blossom sorry win gate cattle isolate distance list room dress spend";
+var mnemonic = "nice hobby border boil size visual balcony race blind crunch inform club";

@@ -1,1 +1,1 @@
-var mnemonic = "song fiber salon upper sketch ritual own couch rose soul pass call";
+var mnemonic = "result outdoor burst yard mosquito forget improve pilot build oak possible gather";

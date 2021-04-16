@@ -1,1 +1,1 @@
-var mnemonic = "puppy tide shell cotton lady pool image maximum actor bright potato pitch";
+var mnemonic = "gloom fancy kiwi film crazy diary north invest assist riot ivory extend";

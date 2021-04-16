@@ -1,1 +1,1 @@
-var mnemonic = "random rhythm melt region lecture goddess next trim wife under easy comic";
+var mnemonic = "behind light reveal tunnel win feel glory exact vapor blanket subject scene";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious trend edge sustain timber decade dawn car position enable toilet address";
+var mnemonic = "spin since leg holiday powder erosion fragile alpha fan rich tone strike";

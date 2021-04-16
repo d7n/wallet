@@ -1,1 +1,1 @@
-var mnemonic = "amazing hobby acoustic bird wave unique cave erode turtle talent magnet dance";
+var mnemonic = "parrot base bachelor frog edit release what equip noise patch merge gather";

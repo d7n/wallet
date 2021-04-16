@@ -1,1 +1,1 @@
-var mnemonic = "body defy business stairs upset apple midnight sunset fuel indoor banner art";
+var mnemonic = "flavor special gossip climb dentist chat cross isolate strike mosquito morning issue";

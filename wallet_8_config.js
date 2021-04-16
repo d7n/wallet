@@ -1,1 +1,1 @@
-var mnemonic = "evoke rubber observe riot giggle rookie view moral volume blouse visa valley";
+var mnemonic = "eyebrow minor taxi reduce peace trash brain olympic proud solid gauge will";

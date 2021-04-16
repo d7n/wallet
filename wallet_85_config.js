@@ -1,1 +1,1 @@
-var mnemonic = "piece ghost spread feature file craft fluid element abstract portion method swear";
+var mnemonic = "swift very cable useless record super ocean crush please sniff must early";

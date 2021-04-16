@@ -1,1 +1,1 @@
-var mnemonic = "lens aware motion notice monitor tip tissue merry cake rookie disease harbor";
+var mnemonic = "current outer noodle squeeze elbow vanish fox laugh soccer animal neutral glove";

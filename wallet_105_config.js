@@ -1,1 +1,1 @@
-var mnemonic = "idea between ranch love force quiz split margin retreat upset blossom change";
+var mnemonic = "return citizen flash diary rifle lamp siren bundle viable wall tank kit";

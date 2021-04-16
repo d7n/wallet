@@ -1,1 +1,1 @@
-var mnemonic = "kiss picnic surface all grocery sentence voice conduct height leader man avocado";
+var mnemonic = "summer mixed trade phrase gain surround coffee best danger category truth describe";

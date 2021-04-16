@@ -1,1 +1,1 @@
-var mnemonic = "remember joy hover naive fit among drill water visa question borrow ball";
+var mnemonic = "seat swallow crucial riot indicate mule kidney income divert flame gorilla ladder";

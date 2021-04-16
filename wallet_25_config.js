@@ -1,1 +1,1 @@
-var mnemonic = "few three cliff limb vibrant then domain sauce glow elite aspect cry";
+var mnemonic = "drill setup suspect treat valid happy ginger matrix smooth rice bulb debris";

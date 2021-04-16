@@ -1,1 +1,1 @@
-var mnemonic = "exact reward load habit they stick start novel fabric cancel sun judge";
+var mnemonic = "donate shoe couple copy hurt blame property cage family venue collect muscle";

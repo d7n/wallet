@@ -1,1 +1,1 @@
-var mnemonic = "inside mother pistol badge motor blanket simple hollow oak stone peanut rent";
+var mnemonic = "raise open bulk veteran strategy theory shuffle lens photo fringe bomb original";

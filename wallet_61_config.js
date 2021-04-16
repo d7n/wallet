@@ -1,1 +1,1 @@
-var mnemonic = "stamp letter ahead sister spin anxiety diesel crane act camera ceiling craft";
+var mnemonic = "fever mention expand hunt expand apart hair taxi ugly tunnel suspect kiss";

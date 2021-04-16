@@ -1,1 +1,1 @@
-var mnemonic = "divide settle exercise expect inch almost wisdom corn minor cage casino sail";
+var mnemonic = "code tape picture umbrella obey prepare fiber way food enough time recycle";

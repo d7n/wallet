@@ -1,1 +1,1 @@
-var mnemonic = "long woman primary pride pulp dash cloth inmate cage august album grocery";
+var mnemonic = "blouse cluster caution mass dignity van burger admit renew fruit cash blush";

@@ -1,1 +1,1 @@
-var mnemonic = "trial useful doll shift artist bone right little soup helmet eye finger";
+var mnemonic = "jump inherit test clap orphan hobby mask tattoo lunar stock route census";

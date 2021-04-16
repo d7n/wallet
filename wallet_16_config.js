@@ -1,1 +1,1 @@
-var mnemonic = "stuff easy bench love trumpet base ready shop artefact debate area cancel";
+var mnemonic = "claim please struggle unaware team angry cotton diesel struggle obvious seek broken";

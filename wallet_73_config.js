@@ -1,1 +1,1 @@
-var mnemonic = "roof tool salmon market gas acid alarm dilemma bright danger boil actor";
+var mnemonic = "start say fatal devote plug payment valid oven spin battle famous wrist";

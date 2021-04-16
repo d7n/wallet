@@ -1,1 +1,1 @@
-var mnemonic = "common powder grow stove plastic kit pole foam neither gadget jar horn";
+var mnemonic = "laugh similar baby refuse utility lazy legal ivory tumble hub they knock";

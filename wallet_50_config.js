@@ -1,1 +1,1 @@
-var mnemonic = "embrace cook carry east chicken sudden gasp armed laundry chuckle amused law";
+var mnemonic = "blind obvious eagle know equip public answer scan height romance service initial";

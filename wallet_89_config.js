@@ -1,1 +1,1 @@
-var mnemonic = "prepare hope require scene harbor tip ability host garbage daring base minor";
+var mnemonic = "quarter coffee rail sketch fee trap tower sick alpha economy copy minute";

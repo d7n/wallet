@@ -1,1 +1,1 @@
-var mnemonic = "kitten exile wood wisdom stage ability antenna ship practice rent monkey panel";
+var mnemonic = "brother potato involve zone casual spell animal tooth vehicle reveal clarify nuclear";

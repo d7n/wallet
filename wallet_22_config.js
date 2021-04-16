@@ -1,1 +1,1 @@
-var mnemonic = "agree empower palace hand sail wise paper romance goddess wheat wrestle satisfy";
+var mnemonic = "mix news student still work valley nephew vivid shiver match ancient reason";

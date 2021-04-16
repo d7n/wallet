@@ -1,1 +1,1 @@
-var mnemonic = "move basket brave gloom science leopard grass canoe decorate love orbit abuse";
+var mnemonic = "finish buddy oval scale trust cheap famous rain either blast liar health";

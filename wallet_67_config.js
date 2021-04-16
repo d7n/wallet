@@ -1,1 +1,1 @@
-var mnemonic = "jump squirrel range robust service eagle easy design final resist grace good";
+var mnemonic = "various rough theme defense excuse service solve problem improve fossil clutch cat";

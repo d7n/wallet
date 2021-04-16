@@ -1,1 +1,1 @@
-var mnemonic = "odor crunch scout season impact morning bone tuition pony report happy breeze";
+var mnemonic = "scrub expect spin huge burst fox robot size jealous elbow accuse february";

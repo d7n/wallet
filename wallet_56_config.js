@@ -1,1 +1,1 @@
-var mnemonic = "kick squeeze rescue traffic cross position teach execute iron joy black cliff";
+var mnemonic = "canoe eight mule other salmon track demise fragile light solar vote profit";

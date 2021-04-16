@@ -1,1 +1,1 @@
-var mnemonic = "custom crisp earn ranch degree clown swim rally birth woman buddy wash";
+var mnemonic = "fix sock arctic brain funny argue couch blur friend idle second define";

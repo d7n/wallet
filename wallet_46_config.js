@@ -1,1 +1,1 @@
-var mnemonic = "path scan chunk crazy relax urban swim better canvas odor hole swing";
+var mnemonic = "captain afraid clinic include lumber birth artwork cover client blade ugly medal";

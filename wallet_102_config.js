@@ -1,1 +1,1 @@
-var mnemonic = "goddess rescue bleak fun solid cool soda type advance clean term cinnamon";
+var mnemonic = "tenant vintage enact lend system law bulb mad legend share dose brave";

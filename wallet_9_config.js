@@ -1,1 +1,1 @@
-var mnemonic = "apple banana cattle toy hello salmon someone flush crater play peasant survey";
+var mnemonic = "busy oblige garden oxygen core nephew monkey jazz diamond sponsor merry ill";

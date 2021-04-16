@@ -1,1 +1,1 @@
-var mnemonic = "siren case energy main enable cricket faith potato bus common tree exit";
+var mnemonic = "blossom brave trouble will upset turn perfect web kiss arm reason help";

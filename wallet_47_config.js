@@ -1,1 +1,1 @@
-var mnemonic = "satoshi behind panel runway maple decade kind code once silent salad legal";
+var mnemonic = "saddle pave business other mass purse envelope motor hunt car praise narrow";

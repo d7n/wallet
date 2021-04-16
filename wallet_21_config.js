@@ -1,1 +1,1 @@
-var mnemonic = "improve gold fan beyond stereo sight hedgehog near lady affair ask belt";
+var mnemonic = "image satisfy pear decrease torch battle moral anger bind gaze demand crisp";

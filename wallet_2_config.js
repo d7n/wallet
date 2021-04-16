@@ -1,1 +1,1 @@
-var mnemonic = "popular gentle rather common embark diamond rescue pencil alley cactus tiny myth";
+var mnemonic = "apart execute pact month juice movie manage skill imitate giggle film priority";

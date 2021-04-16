@@ -1,1 +1,1 @@
-var mnemonic = "course glimpse segment civil seminar bar jazz strike labor install throw sugar";
+var mnemonic = "bullet post snow bus regular index spray fall replace lesson match category";

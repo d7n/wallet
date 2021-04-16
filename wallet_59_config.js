@@ -1,1 +1,1 @@
-var mnemonic = "avoid win brain author devote kit social manage evolve shed boss equal";
+var mnemonic = "carbon sheriff simple fringe margin stairs ordinary range mammal bamboo river gown";

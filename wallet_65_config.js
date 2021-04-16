@@ -1,1 +1,1 @@
-var mnemonic = "purse pull fix bulb cheap theme kick donkey broken machine say armed";
+var mnemonic = "sound machine hidden science path drama jacket horror stadium burst more tornado";

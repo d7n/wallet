@@ -1,1 +1,1 @@
-var mnemonic = "subject emotion prize erosion speak carpet swift minute frost remove elevator alarm";
+var mnemonic = "phone warm rice acquire meat mother equip keen sentence sunny index online";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss remember spot glimpse fiction stage clown glory buzz ribbon life captain";
+var mnemonic = "awful under decline cinnamon border drum hope neglect orient angry hour keep";

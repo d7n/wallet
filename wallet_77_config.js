@@ -1,1 +1,1 @@
-var mnemonic = "capable year cupboard online screen vote right pioneer topic fox train initial";
+var mnemonic = "tent solution sock very stem clog country domain verify under have stool";

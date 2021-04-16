@@ -1,1 +1,1 @@
-var mnemonic = "lava elbow sadness sample process depart picture warrior narrow pulse town gas";
+var mnemonic = "giant icon make extend rice turn switch put slight skin rule collect";

@@ -1,1 +1,1 @@
-var mnemonic = "other keep clay dismiss rib scatter hero input pudding stable exotic budget";
+var mnemonic = "entire defense journey merit wear coconut night isolate avocado check eyebrow bitter";

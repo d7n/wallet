@@ -1,1 +1,1 @@
-var mnemonic = "second news soda able capital buddy vacant crunch electric weird tenant survey";
+var mnemonic = "art again involve gather vapor evoke reunion envelope claw fabric story size";

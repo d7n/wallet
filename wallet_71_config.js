@@ -1,1 +1,1 @@
-var mnemonic = "maid prosper scrap human roast town priority bus slam oblige extra unfair";
+var mnemonic = "inhale blush jazz pool fish good sorry dress lock say glare unknown";

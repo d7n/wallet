@@ -1,1 +1,1 @@
-var mnemonic = "holiday process citizen hard forward shoulder fish exile crisp dilemma wine slight";
+var mnemonic = "cement gate bronze reform flock verb pumpkin idle street clog maximum soldier";

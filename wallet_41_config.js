@@ -1,1 +1,1 @@
-var mnemonic = "cotton embrace possible draw salon person vehicle protect donkey tuition sword heart";
+var mnemonic = "rubber quit aisle employ easy vendor pave stereo false tobacco urge dragon";

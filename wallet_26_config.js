@@ -1,1 +1,1 @@
-var mnemonic = "minute detail crumble copy swamp mask square together devote curious setup rail";
+var mnemonic = "flame satisfy nerve smile carpet bird shiver keep approve sell saddle afford";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma asset swear real similar divide hello phrase illegal ugly awful initial";
+var mnemonic = "night boat novel correct mobile shoot melody grain tip ocean cage planet";

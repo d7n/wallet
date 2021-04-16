@@ -1,1 +1,1 @@
-var mnemonic = "sudden frown gloom crisp spin hat quit sea between lounge believe impulse";
+var mnemonic = "close release where evidence crash bachelor enact exchange leader poem ketchup doll";

@@ -1,1 +1,1 @@
-var mnemonic = "issue cigar consider gesture image vote loan cram jelly solution garment all";
+var mnemonic = "input source sign industry forest clerk stick success swing among diet erode";

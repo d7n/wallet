@@ -1,1 +1,1 @@
-var mnemonic = "once brisk damp cheese snack mutual olympic involve boss pact car hole";
+var mnemonic = "rebel mixed design talent target style chaos deer false almost success exchange";

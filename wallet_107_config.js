@@ -1,1 +1,1 @@
-var mnemonic = "rain athlete rigid inner major ten escape duty hotel letter clever correct";
+var mnemonic = "shiver fish apart luxury sponsor curtain interest clip produce lunar hammer warm";

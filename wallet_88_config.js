@@ -1,1 +1,1 @@
-var mnemonic = "loan roof world above marine submit brain uphold middle harvest quarter daring";
+var mnemonic = "gather only double ahead can dash cluster pumpkin hotel spring steak dream";

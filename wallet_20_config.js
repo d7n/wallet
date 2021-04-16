@@ -1,1 +1,1 @@
-var mnemonic = "marriage west model model first oppose amazing social man badge brief coin";
+var mnemonic = "behind cool bind rather inch forest tonight coin spend neglect day label";

@@ -1,1 +1,1 @@
-var mnemonic = "dove stock game roast write motion rookie three neck solution foster brain";
+var mnemonic = "lamp pulse friend rebuild such pigeon zoo impact kitchen rural quiz route";

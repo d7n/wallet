@@ -1,1 +1,1 @@
-var mnemonic = "tip soul awful expand decline kangaroo gossip rely two turtle era syrup";
+var mnemonic = "city catch soap afford soft prize fun maze initial genre jump frozen";

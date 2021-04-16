@@ -1,1 +1,1 @@
-var mnemonic = "network gauge entire collect exercise vapor trip climb love high disease split";
+var mnemonic = "play eight update fashion still flash pair rocket skate plate cereal salad";

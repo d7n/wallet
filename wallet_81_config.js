@@ -1,1 +1,1 @@
-var mnemonic = "very language method marble step rhythm garlic token under emotion useless medal";
+var mnemonic = "exotic squeeze ask vast begin vintage dismiss tenant coin utility adapt forward";

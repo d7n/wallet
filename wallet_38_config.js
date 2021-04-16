@@ -1,1 +1,1 @@
-var mnemonic = "permit village inquiry creek grow view buyer can kid soccer trade helmet";
+var mnemonic = "hedgehog renew foot train hood crazy lemon lens soon jaguar extend paper";

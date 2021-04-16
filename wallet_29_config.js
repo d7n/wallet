@@ -1,1 +1,1 @@
-var mnemonic = "hurdle silent army pretty hurt victory remove sheriff race pair arena magnet";
+var mnemonic = "perfect portion system frozen deputy what around eight debate tilt draw flag";

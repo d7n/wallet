@@ -1,1 +1,1 @@
-var mnemonic = "fragile unknown spring never length lounge harvest quantum enroll truth planet amused";
+var mnemonic = "wild space injury alert mask range special member view glad stem better";

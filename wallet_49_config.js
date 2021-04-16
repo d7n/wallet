@@ -1,1 +1,1 @@
-var mnemonic = "tunnel bleak release shine boost buyer proof library social throw erosion face";
+var mnemonic = "moon breeze antenna acquire near raccoon field drop edge renew beach ghost";

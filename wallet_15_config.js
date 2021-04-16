@@ -1,1 +1,1 @@
-var mnemonic = "accident live thumb inherit into brass cook cherry hedgehog bean master shift";
+var mnemonic = "naive burst omit shoe vast admit nut dog catalog attend holiday settle";

@@ -1,1 +1,1 @@
-var mnemonic = "famous awake risk approve opinion scare endorse lunch fringe rule soft want";
+var mnemonic = "miracle flee taxi wing stick praise swarm repair stamp garbage universe speed";

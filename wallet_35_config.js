@@ -1,1 +1,1 @@
-var mnemonic = "hole skate echo journey tuition walk canal beyond brick elegant number february";
+var mnemonic = "merge harvest dismiss pencil usual rookie injury sense south donkey risk swear";

@@ -1,1 +1,1 @@
-var mnemonic = "victory industry pistol guess idea ivory quick prefer zoo physical cave merge";
+var mnemonic = "close stereo mansion bronze come cute brass cash sick drink chimney come";

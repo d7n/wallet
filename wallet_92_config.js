@@ -1,1 +1,1 @@
-var mnemonic = "charge exhaust rabbit speed junk cloud invest slow family render armor gas";
+var mnemonic = "daring forum unit country loop inside shock pluck theory suspect congress dress";

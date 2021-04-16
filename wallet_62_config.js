@@ -1,1 +1,1 @@
-var mnemonic = "sing fit shuffle gain craft fiscal hard design inspire repair dawn beach";
+var mnemonic = "float dove stem animal kid picture blanket rival pioneer erupt honey stock";

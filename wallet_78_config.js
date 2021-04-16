@@ -1,1 +1,1 @@
-var mnemonic = "once theme alone embark sniff regret leader balance rice runway joy about";
+var mnemonic = "inspire gesture radio raise material wisdom model proud alley now lab sibling";

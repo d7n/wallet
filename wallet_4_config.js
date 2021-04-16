@@ -1,1 +1,1 @@
-var mnemonic = "same web creek tent upset cabbage deny taste split amused twice burst";
+var mnemonic = "cycle right behind coin guard art maximum conduct round success horror pool";

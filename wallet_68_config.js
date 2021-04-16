@@ -1,1 +1,1 @@
-var mnemonic = "ugly gym aware glimpse net feed skull jazz gorilla crisp guide admit";
+var mnemonic = "cycle model quarter learn twin replace kingdom timber ensure sense panda spare";

@@ -1,1 +1,1 @@
-var mnemonic = "lab pretty loyal robot kite cash brick medal purchase onion tennis you";
+var mnemonic = "reform upper spatial armor oval vault involve play else scout credit hedgehog";

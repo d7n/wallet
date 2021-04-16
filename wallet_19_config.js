@@ -1,1 +1,1 @@
-var mnemonic = "sadness modify empty hospital outer ability patient limit episode catch spirit elegant";
+var mnemonic = "calm gallery useful boss guilt family gallery lift cupboard evil drill future";

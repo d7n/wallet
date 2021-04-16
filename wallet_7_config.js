@@ -1,1 +1,1 @@
-var mnemonic = "caution exit depart minimum humble argue curious cement estate proud author wide";
+var mnemonic = "grit voyage napkin dice coast piano aware vast canyon vacant maximum kiwi";

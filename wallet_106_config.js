@@ -1,1 +1,1 @@
-var mnemonic = "toddler pyramid black fabric clog waste rigid afraid robust odor adjust hire";
+var mnemonic = "insect wonder opera december rule pitch report amateur same now head pupil";

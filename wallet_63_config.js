@@ -1,1 +1,1 @@
-var mnemonic = "dutch crawl grid pelican memory alert essence forum task enrich shop thought";
+var mnemonic = "walk school rubber notice casino describe silk flag hazard jewel local cheese";

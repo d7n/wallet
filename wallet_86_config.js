@@ -1,1 +1,1 @@
-var mnemonic = "change receive spawn twenty gun remain predict stuff concert earn egg start";
+var mnemonic = "absurd attend volcano clog earth typical collect photo stick defense cage frown";

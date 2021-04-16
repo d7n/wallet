@@ -1,1 +1,1 @@
-var mnemonic = "food chief flight reject trip priority grab hedgehog can unhappy scatter wheat";
+var mnemonic = "noodle census crunch throw cloth cake brown symptom capital eight other dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "dance video term legend desk scorpion banner slush pig friend tornado provide";
+var mnemonic = "oven detect setup one wool reveal grace swift travel indicate scrub machine";

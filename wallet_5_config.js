@@ -1,1 +1,1 @@
-var mnemonic = "parrot ship endorse busy reward because beef lens lava letter sister claw";
+var mnemonic = "text penalty scheme just media west child license grab garage degree slim";

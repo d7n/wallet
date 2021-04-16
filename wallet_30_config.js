@@ -1,1 +1,1 @@
-var mnemonic = "position refuse mass address little hill shove harvest never name turtle panel";
+var mnemonic = "zone torch pole armed misery august bike load baby sick faculty book";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock match shaft fruit clean tooth dash witness scheme fit gravity add";
+var mnemonic = "project squirrel guilt truck rival pair final only glass quit antique slide";

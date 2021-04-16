@@ -1,1 +1,1 @@
-var mnemonic = "fault detail now diesel suspect elephant chapter frequent awake eagle observe eagle";
+var mnemonic = "alert shift robot tent garage magic forum image scissors oil modify disease";

@@ -1,1 +1,1 @@
-var mnemonic = "glad swallow harsh move nature flag used tell usage patrol normal more";
+var mnemonic = "cruel salt control party measure half load sausage young avoid lemon drip";

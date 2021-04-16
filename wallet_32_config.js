@@ -1,1 +1,1 @@
-var mnemonic = "bus path actor gesture ticket rebuild call apple tell accuse salt recall";
+var mnemonic = "track soldier hurdle acoustic knock gift wall detect empty about plunge maximum";

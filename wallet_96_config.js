@@ -1,1 +1,1 @@
-var mnemonic = "domain radio fruit drastic gossip toilet flower detect embody width artefact shield";
+var mnemonic = "roof armed pink sugar dismiss sea gadget popular move family provide vintage";

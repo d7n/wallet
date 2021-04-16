@@ -1,1 +1,1 @@
-var mnemonic = "collect vintage gift ignore path output pony museum praise involve glad entry";
+var mnemonic = "regret brother orient defy bulk engine anxiety sudden peanut shadow uniform until";

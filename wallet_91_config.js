@@ -1,1 +1,1 @@
-var mnemonic = "better toy ship grief swap refuse steak crash arrest amused brain ticket";
+var mnemonic = "end observe renew valve scale effort brush bicycle avoid motion daughter bus";

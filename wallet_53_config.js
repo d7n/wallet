@@ -1,1 +1,1 @@
-var mnemonic = "spring fire exist couch weird rapid fog file wealth original worth thunder";
+var mnemonic = "index tone have home search usage burst issue pond assist banner song";

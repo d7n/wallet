@@ -1,1 +1,1 @@
-var mnemonic = "stick try zone upset alpha vast nominee trick crawl crush prosper call";
+var mnemonic = "bike cake knee bridge dash typical exotic fly warm verify swarm pig";

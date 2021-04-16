@@ -1,1 +1,1 @@
-var mnemonic = "search neutral together popular filter trumpet gown increase where brand rain cliff";
+var mnemonic = "upgrade doll peanut garment plastic icon divorce run together foam chuckle language";
