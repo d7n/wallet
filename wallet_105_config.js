@@ -1,1 +1,1 @@
-var mnemonic = "slot siege sunset monster gas loud lizard donkey love finish gun pilot";
+var mnemonic = "click spice sand guide yard wave bulb globe fence actual phone purchase";

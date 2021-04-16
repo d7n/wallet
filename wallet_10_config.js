@@ -1,1 +1,1 @@
-var mnemonic = "asset sphere height shy know sustain net split fruit name affair antique";
+var mnemonic = "inch cheap giggle tackle thank collect echo oven game clean slice claw";

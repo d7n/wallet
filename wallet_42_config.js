@@ -1,1 +1,1 @@
-var mnemonic = "spatial foil blind veteran rice sound auto cup adapt guide trap item";
+var mnemonic = "pencil series manual office tuna aim acquire carpet permit elegant hotel wide";

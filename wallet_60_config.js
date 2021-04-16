@@ -1,1 +1,1 @@
-var mnemonic = "remain rent search size current high phone orbit matter rose mean mad";
+var mnemonic = "girl pole argue biology sauce climb puppy gap doll silver glare guide";

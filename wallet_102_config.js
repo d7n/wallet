@@ -1,1 +1,1 @@
-var mnemonic = "garment family wide segment street change insect thunder head spoon guitar hole";
+var mnemonic = "pattern danger twice save already grief body rural cable rule grunt worth";

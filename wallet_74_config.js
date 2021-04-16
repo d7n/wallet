@@ -1,1 +1,1 @@
-var mnemonic = "thing summer tongue stock crane all family cross grocery token shoot opinion";
+var mnemonic = "surprise mad neck old dilemma spike trash style evil orient camp goddess";

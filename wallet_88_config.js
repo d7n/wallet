@@ -1,1 +1,1 @@
-var mnemonic = "ensure relief giant foster autumn snake deer wheel repeat south myth drive";
+var mnemonic = "arm glimpse critic moon motor organ guide multiply wear obscure coyote volcano";

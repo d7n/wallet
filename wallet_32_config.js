@@ -1,1 +1,1 @@
-var mnemonic = "shoot saddle someone fire enroll print reunion enhance drum note comic castle";
+var mnemonic = "attract fold pull conduct old cluster galaxy pilot below marble night decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "change physical tomato assault author bean basket genuine wrist upset wedding flame";
+var mnemonic = "field glass little pelican kid build lens funny century rail apart sock";

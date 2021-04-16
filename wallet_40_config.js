@@ -1,1 +1,1 @@
-var mnemonic = "ramp example small traffic hamster renew butter celery merge demise that eye";
+var mnemonic = "bless force unknown basket mom catalog track almost nut easily danger atom";

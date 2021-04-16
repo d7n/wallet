@@ -1,1 +1,1 @@
-var mnemonic = "stairs tuna burst review dial choose clutch load defense goose hedgehog town";
+var mnemonic = "capital unique behind glad rich ivory verb balcony luxury moon trade phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "drill race always nominee bread genuine anger wine always noble unhappy once";
+var mnemonic = "enjoy zero capital senior faint key gate alone exchange alarm rain vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "town apart muscle medal tree citizen evidence crew fury latin book nominee";
+var mnemonic = "cloud envelope scan absurd bullet equal original awkward tooth better dress always";

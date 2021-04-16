@@ -1,1 +1,1 @@
-var mnemonic = "point tired stay mansion inflict limb wasp glimpse opera pitch blade visual";
+var mnemonic = "mirror conduct moon summer stuff shaft river fitness bachelor brief settle oak";

@@ -1,1 +1,1 @@
-var mnemonic = "donor twist quote swarm unveil pull trust merge begin supply volcano make";
+var mnemonic = "fiction spring judge unit emerge fold parrot female salute tide vague oak";

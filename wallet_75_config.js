@@ -1,1 +1,1 @@
-var mnemonic = "shine bargain below coin orient spoil dismiss trap expire educate excuse bacon";
+var mnemonic = "prison laugh cattle half fine estate bracket still dinosaur tiger rose jacket";

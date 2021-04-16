@@ -1,1 +1,1 @@
-var mnemonic = "dawn space cigar swift mail final umbrella draw federal rotate sorry acoustic";
+var mnemonic = "parent grain coffee square settle turtle enlist battle taxi hobby wagon boring";

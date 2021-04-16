@@ -1,1 +1,1 @@
-var mnemonic = "make sting plastic alpha junk weekend dinner angle cliff similar crime trial";
+var mnemonic = "cigar blame frequent denial slogan cousin garage velvet include already rather base";

@@ -1,1 +1,1 @@
-var mnemonic = "arena equal crawl rural rude stay fine gym mechanic sea buyer glimpse";
+var mnemonic = "agent claw cart debris weekend civil beyond reveal song wing demise stage";

@@ -1,1 +1,1 @@
-var mnemonic = "depth coral seed verify cloth eagle alpha couple jacket trap pen almost";
+var mnemonic = "cram jar purchase blanket shell toy bid reflect doctor thunder genius alarm";

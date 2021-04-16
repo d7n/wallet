@@ -1,1 +1,1 @@
-var mnemonic = "review shoulder alien repeat boat entire reform pen salad occur meat joy";
+var mnemonic = "zero busy point nasty ridge lens cherry among elder exile situate math";

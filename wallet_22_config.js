@@ -1,1 +1,1 @@
-var mnemonic = "toss point item six drum rain celery title kidney all lake misery";
+var mnemonic = "draw pudding like vapor mad thunder slow castle just pen capable person";

@@ -1,1 +1,1 @@
-var mnemonic = "glass drift naive donate version toss infant tattoo punch blanket vehicle car";
+var mnemonic = "envelope nest rotate target weekend marriage month define client image tomorrow despair";

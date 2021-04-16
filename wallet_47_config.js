@@ -1,1 +1,1 @@
-var mnemonic = "empower stamp motion music suffer fun attend neither above doctor yard satisfy";
+var mnemonic = "cotton jaguar flock awesome strike yellow always remove wrap ugly south smart";

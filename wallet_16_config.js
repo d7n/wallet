@@ -1,1 +1,1 @@
-var mnemonic = "split route goose accuse bitter damage credit diagram bracket topic secret worth";
+var mnemonic = "salmon diesel hockey pause blood cabin olympic rural winner wild cake diary";

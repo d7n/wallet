@@ -1,1 +1,1 @@
-var mnemonic = "elephant nominee damage cool coral hire toward decorate antique mesh feed awful";
+var mnemonic = "clog figure flash consider real pepper bamboo fat drama dose depart use";

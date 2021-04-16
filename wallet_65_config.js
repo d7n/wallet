@@ -1,1 +1,1 @@
-var mnemonic = "neck warrior tip assume ship moment predict risk nose candy chunk equip";
+var mnemonic = "banner general innocent visual patch enough tank foot taxi radar artefact flight";

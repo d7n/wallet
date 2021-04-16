@@ -1,1 +1,1 @@
-var mnemonic = "solar renew panther cliff maximum salute grocery hub mass march celery lunar";
+var mnemonic = "donate reduce someone route pledge cousin pole hole prevent upgrade one below";

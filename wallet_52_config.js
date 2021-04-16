@@ -1,1 +1,1 @@
-var mnemonic = "biology present absent boring year rude warm air night enhance situate option";
+var mnemonic = "lawn public tobacco offer decade soup prepare taxi viable habit tell electric";

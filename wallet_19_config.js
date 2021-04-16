@@ -1,1 +1,1 @@
-var mnemonic = "speak hidden brief wonder cover urban more wait nothing supply prison vibrant";
+var mnemonic = "convince initial arrest female blood absorb empower minimum sure north vehicle model";

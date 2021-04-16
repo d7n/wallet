@@ -1,1 +1,1 @@
-var mnemonic = "later drift found put trial hard edge voyage orient season wall between";
+var mnemonic = "grief evil will blouse club sweet limb govern doll make stable raccoon";

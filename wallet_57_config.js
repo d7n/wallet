@@ -1,1 +1,1 @@
-var mnemonic = "fatal coil pill essay only slush switch base skull cheap coil decade";
+var mnemonic = "tenant lyrics fever deal skirt property income chaos swing cluster view voyage";

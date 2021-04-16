@@ -1,1 +1,1 @@
-var mnemonic = "december upset visa bracket minor cram base hidden card civil bottom anger";
+var mnemonic = "cry approve fragile win emerge smile upper unknown runway crime volume photo";

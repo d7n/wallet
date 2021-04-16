@@ -1,1 +1,1 @@
-var mnemonic = "pottery casino trophy drastic reunion recycle reunion flush dance sniff parent vote";
+var mnemonic = "code blur room orchard review mother poet essence snap depend bring harbor";

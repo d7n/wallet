@@ -1,1 +1,1 @@
-var mnemonic = "action modify rail snack asset style gentle slice another run local capital";
+var mnemonic = "arrive absorb laundry another riot concert monitor issue virtual subway flavor junior";

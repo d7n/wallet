@@ -1,1 +1,1 @@
-var mnemonic = "banana festival toast leaf inch say yard jungle climb nuclear advance salt";
+var mnemonic = "swear problem asthma pave toast alter fantasy trust uniform tortoise express meat";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken patient circle office seven tonight summer admit oil again cook size";
+var mnemonic = "latin proof brother fit attack basic know attract risk glove maid blouse";

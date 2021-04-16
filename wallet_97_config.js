@@ -1,1 +1,1 @@
-var mnemonic = "exercise acquire chief zone fury inner slight word feature circle oak ramp";
+var mnemonic = "paddle tomorrow easily tool flush kidney input unique eyebrow festival lend oil";

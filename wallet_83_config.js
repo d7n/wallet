@@ -1,1 +1,1 @@
-var mnemonic = "police prison silly any junk project hidden broom ugly remember ancient immune";
+var mnemonic = "soft key room flower dynamic kit charge spike grass leader april corn";

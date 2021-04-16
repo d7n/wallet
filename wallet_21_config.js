@@ -1,1 +1,1 @@
-var mnemonic = "unable spice purse mercy rally much price minor age horse heavy ridge";
+var mnemonic = "bacon feel produce witness parade reform can album veteran second beauty adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "sick juice bulk despair draft make royal old silent wrestle skill chat";
+var mnemonic = "oppose hotel sauce cover toilet motion cement improve display wrong young soldier";

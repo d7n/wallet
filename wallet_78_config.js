@@ -1,1 +1,1 @@
-var mnemonic = "regret budget winter pluck conduct exile develop resist window quantum inmate replace";
+var mnemonic = "dragon day fringe earn easy tribe use thunder they author chef question";

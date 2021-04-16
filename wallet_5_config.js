@@ -1,1 +1,1 @@
-var mnemonic = "harbor trophy awful tiger ensure provide knock special three champion calm journey";
+var mnemonic = "spread elephant kit tuna man weekend liberty arm prison weapon coral empty";

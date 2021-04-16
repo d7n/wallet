@@ -1,1 +1,1 @@
-var mnemonic = "hospital short romance jungle visit luggage absent pepper lamp early nice fault";
+var mnemonic = "vast demand dice banana program lock cargo gallery coconut six kid dry";

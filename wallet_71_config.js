@@ -1,1 +1,1 @@
-var mnemonic = "daring kitchen injury morning armed fox develop cool satisfy canyon rely cart";
+var mnemonic = "mixed unaware energy drive crush guilt bargain device salt maid smart copy";

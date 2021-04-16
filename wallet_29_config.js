@@ -1,1 +1,1 @@
-var mnemonic = "snake peanut boy exchange mosquito finger about vivid dentist bacon order hunt";
+var mnemonic = "check client flip title broom next body income prepare industry earth stand";

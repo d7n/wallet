@@ -1,1 +1,1 @@
-var mnemonic = "silly virtual arena pepper mule cheese amateur document sauce immense best property";
+var mnemonic = "thrive fence amused version bunker section medal act stove sustain wrestle practice";

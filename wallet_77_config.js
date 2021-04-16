@@ -1,1 +1,1 @@
-var mnemonic = "artwork hybrid coin patch sea horror leaf trouble spirit profit agent erosion";
+var mnemonic = "target all inform kiwi above list town uncle diary engine arrest rhythm";

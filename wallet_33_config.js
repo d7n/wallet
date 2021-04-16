@@ -1,1 +1,1 @@
-var mnemonic = "action human canoe gather sustain situate bottom liar decide banner resource sentence";
+var mnemonic = "trash away must hair couple pumpkin base shiver faith advice lady owner";

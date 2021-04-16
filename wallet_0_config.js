@@ -1,1 +1,1 @@
-var mnemonic = "barrel shuffle pen escape memory salad primary aisle upon angry proof paddle";
+var mnemonic = "science claw three crack audit guard vicious collect pact crane quality razor";

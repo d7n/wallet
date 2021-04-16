@@ -1,1 +1,1 @@
-var mnemonic = "science split fan together huge identify heart ill twelve laugh gift kiss";
+var mnemonic = "cabin armor camp pottery choose february high tent visit remind casino cliff";

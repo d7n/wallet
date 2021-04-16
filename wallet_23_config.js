@@ -1,1 +1,1 @@
-var mnemonic = "caution blossom spice series range jungle shove excite swim argue life music";
+var mnemonic = "draw stem priority balance hundred tuna mango warfare nest round actor peanut";

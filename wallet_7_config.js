@@ -1,1 +1,1 @@
-var mnemonic = "shoot hood coconut cruise hub rate sibling path fossil replace copper demand";
+var mnemonic = "casual genre venue claw output carpet dolphin mercy celery swamp pigeon soul";

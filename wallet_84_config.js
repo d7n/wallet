@@ -1,1 +1,1 @@
-var mnemonic = "fall vintage jacket shock faith fish sight path regret library snake inside";
+var mnemonic = "balance change ability smile zoo across gasp cram luxury tornado broken humble";

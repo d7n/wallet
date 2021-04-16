@@ -1,1 +1,1 @@
-var mnemonic = "dog yard jelly review cruel north offer swap dynamic tower stomach suspect";
+var mnemonic = "become vivid say enact logic valid width file brief price rail clip";

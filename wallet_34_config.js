@@ -1,1 +1,1 @@
-var mnemonic = "glue initial number monster point enter brave page lion subway flee deal";
+var mnemonic = "split hood dry nut rate teach nature garage eight nation budget write";

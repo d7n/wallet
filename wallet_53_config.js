@@ -1,1 +1,1 @@
-var mnemonic = "wave manual deposit digital current pulse under heart place half dutch organ";
+var mnemonic = "soon simple pistol radar pen attract open salad claim bread rose flee";

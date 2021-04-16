@@ -1,1 +1,1 @@
-var mnemonic = "glow reopen initial tennis cabin luxury head chuckle pattern flower boost pause";
+var mnemonic = "zero trouble orchard unhappy head woman battle feature buyer broccoli symptom mention";

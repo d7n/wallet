@@ -1,1 +1,1 @@
-var mnemonic = "weird valve pole alley spot culture dinner victory mule slogan loop concert";
+var mnemonic = "torch forward black left census sample junior clump idle deliver refuse tennis";

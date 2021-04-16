@@ -1,1 +1,1 @@
-var mnemonic = "hope drift theme skill regular pride fish orphan bone chimney gym spice";
+var mnemonic = "kit arm any vehicle fine throw shuffle tumble patch clever report cool";

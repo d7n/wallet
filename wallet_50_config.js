@@ -1,1 +1,1 @@
-var mnemonic = "mad first quick shadow time switch circle letter fame mushroom unknown gown";
+var mnemonic = "club liar riot figure style chair possible list used film year core";

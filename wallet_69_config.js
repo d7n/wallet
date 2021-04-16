@@ -1,1 +1,1 @@
-var mnemonic = "siren price cry logic limit together resist hundred want check observe model";
+var mnemonic = "swear record brick report install day regret coffee spend pigeon inch forest";

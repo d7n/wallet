@@ -1,1 +1,1 @@
-var mnemonic = "future never width afraid trigger estate capable local photo hover artist jazz";
+var mnemonic = "club village warm swear pond home vast battle priority zone index umbrella";

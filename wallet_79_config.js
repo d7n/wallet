@@ -1,1 +1,1 @@
-var mnemonic = "mix mobile winter yellow thumb life stairs vehicle photo deposit iron siege";
+var mnemonic = "acid nasty cool void chapter cannon duty magic fashion skill column twenty";

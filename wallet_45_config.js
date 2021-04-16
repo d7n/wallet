@@ -1,1 +1,1 @@
-var mnemonic = "purse mansion cry brown smile surround oxygen topple suspect unlock romance monkey";
+var mnemonic = "choice consider piece gospel pole credit wrong alien simple enjoy almost cereal";

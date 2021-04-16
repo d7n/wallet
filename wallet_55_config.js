@@ -1,1 +1,1 @@
-var mnemonic = "strong try sphere daughter together ranch frog early wink apple voyage act";
+var mnemonic = "speak bachelor tiny silly assume bitter entry globe dizzy mule fluid elite";

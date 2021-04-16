@@ -1,1 +1,1 @@
-var mnemonic = "skate embody absorb vintage cannon wheat surface emerge physical refuse kidney skin";
+var mnemonic = "swarm wagon actress artefact tribe hire tackle execute good afford chronic express";

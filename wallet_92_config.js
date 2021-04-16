@@ -1,1 +1,1 @@
-var mnemonic = "analyst bar nest dove squeeze excess negative mutual false clump segment thought";
+var mnemonic = "marine series furnace eternal easily force sea broccoli salon chef bottom imitate";

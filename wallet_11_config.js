@@ -1,1 +1,1 @@
-var mnemonic = "sheriff vocal regret claw system real abandon language either assault shed same";
+var mnemonic = "include arrest girl mixed trial idea amazing drift pet black make earth";

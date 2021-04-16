@@ -1,1 +1,1 @@
-var mnemonic = "hybrid gate perfect smart focus fly priority type alcohol law occur chef";
+var mnemonic = "craft vague spoil world quit wool rural promote squeeze rose visa sausage";

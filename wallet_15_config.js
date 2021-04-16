@@ -1,1 +1,1 @@
-var mnemonic = "salad original pool hip another junk situate debris crush move ring arrive";
+var mnemonic = "hole fade artist quarter annual double submit gesture barely concert yellow isolate";

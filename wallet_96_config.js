@@ -1,1 +1,1 @@
-var mnemonic = "bacon abuse wise air solve media average gaze give height cotton select";
+var mnemonic = "pulse day divide unaware cream increase view certain hero relief live undo";

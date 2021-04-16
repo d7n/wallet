@@ -1,1 +1,1 @@
-var mnemonic = "funny acoustic scheme infant dust citizen tomato relax wisdom order nothing helmet";
+var mnemonic = "meat faint brother strong hair park code suggest nest firm sunny pull";

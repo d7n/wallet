@@ -1,1 +1,1 @@
-var mnemonic = "opera sort response strong island symbol explain tuna sting safe adapt say";
+var mnemonic = "connect master large sustain once life accuse hard option fall mind assume";

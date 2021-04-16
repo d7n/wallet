@@ -1,1 +1,1 @@
-var mnemonic = "saddle blind recycle merit mistake sell ten slender success purse retire media";
+var mnemonic = "lumber miss cabin sword combine raw disease option onion dinner member keep";

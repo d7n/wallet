@@ -1,1 +1,1 @@
-var mnemonic = "add ticket swift foot lunar beef crisp music survey where laugh rely";
+var mnemonic = "section stone harvest ginger easily roof face useful almost harsh unhappy west";

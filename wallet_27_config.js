@@ -1,1 +1,1 @@
-var mnemonic = "bless wrestle legend category verify moment orient observe web chair credit earn";
+var mnemonic = "undo spot music guilt gift glimpse fantasy never bone label gold royal";

@@ -1,1 +1,1 @@
-var mnemonic = "shield scatter pigeon buffalo exist parade army claw permit evidence beach clutch";
+var mnemonic = "toe tomorrow door evolve disease gate silent cave deliver fat ignore movie";

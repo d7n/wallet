@@ -1,1 +1,1 @@
-var mnemonic = "knife symptom enact sister crucial hidden fix horse express comic general teach";
+var mnemonic = "account couple gold beauty cage nothing else turtle blush wisdom guitar hair";

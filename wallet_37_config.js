@@ -1,1 +1,1 @@
-var mnemonic = "avocado advice siege wreck front ancient angry awful park draw salad bicycle";
+var mnemonic = "this educate limit bomb season turn sell spike stamp arrest fury canal";

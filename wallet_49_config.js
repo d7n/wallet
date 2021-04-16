@@ -1,1 +1,1 @@
-var mnemonic = "cloud toward penalty shop tuna gesture knee fit install term hen unusual";
+var mnemonic = "garment exhaust leopard gloom cheese sunset render local legal bicycle human volume";

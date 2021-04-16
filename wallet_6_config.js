@@ -1,1 +1,1 @@
-var mnemonic = "honey owner jacket mystery various where mimic produce ignore pigeon expect fantasy";
+var mnemonic = "prepare stable name seek angry canvas please maximum slight illness key baby";

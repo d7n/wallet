@@ -1,1 +1,1 @@
-var mnemonic = "any turtle matrix pass rely cart kit ridge rather discover nest pledge";
+var mnemonic = "alcohol conduct master element ask endless sock axis story govern balance marine";

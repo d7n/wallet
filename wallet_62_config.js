@@ -1,1 +1,1 @@
-var mnemonic = "invest able return wrestle garbage edge comic position fun build script garage";
+var mnemonic = "cruise race shuffle unknown trap snow sort present receive kid carpet grocery";

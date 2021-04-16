@@ -1,1 +1,1 @@
-var mnemonic = "antique lesson brisk expect fold throw drip episode high garage parrot twin";
+var mnemonic = "account lobster desert bar fresh silk tumble catch mechanic time apart sail";

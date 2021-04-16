@@ -1,1 +1,1 @@
-var mnemonic = "icon coil candy hidden brush know length future practice strike input hollow";
+var mnemonic = "where entry coral circle absurd scrub screen egg force salute face toss";

@@ -1,1 +1,1 @@
-var mnemonic = "trip hold slight bracket purchase mercy roast knock lounge vehicle carry detail";
+var mnemonic = "meat humble melody oyster polar mind gloom silly mansion wait mystery noise";

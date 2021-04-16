@@ -1,1 +1,1 @@
-var mnemonic = "between artefact busy aisle pull candy loan pelican flower pact woman decrease";
+var mnemonic = "hockey super apology visit reflect pottery kick wish near warfare explain small";

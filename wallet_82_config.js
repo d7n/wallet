@@ -1,1 +1,1 @@
-var mnemonic = "sound staff duck fetch atom express loud survey enact bonus system youth";
+var mnemonic = "waste recall autumn design dance advance parent gain reward pink rug nest";

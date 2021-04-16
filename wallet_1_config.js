@@ -1,1 +1,1 @@
-var mnemonic = "original acoustic avoid trouble judge critic vanish man bracket hobby embark pink";
+var mnemonic = "decade brick canal master slab inspire vacant celery tunnel honey come machine";

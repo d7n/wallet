@@ -1,1 +1,1 @@
-var mnemonic = "forum property cousin horror ladder spell increase vocal motion perfect noble tone";
+var mnemonic = "steak paddle much escape piano never staff team apart symptom govern age";

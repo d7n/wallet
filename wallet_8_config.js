@@ -1,1 +1,1 @@
-var mnemonic = "diagram hover during title cancel screen profit excuse diet upper differ siren";
+var mnemonic = "protect health input protect luxury solar flavor meadow protect crush major sadness";
