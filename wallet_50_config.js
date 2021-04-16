@@ -1,1 +1,1 @@
-var mnemonic = "addict cactus dentist zoo ticket pistol wide lottery blast engine destroy eternal";
+var mnemonic = "survey cup fan bachelor reject float between approve brave labor network track";

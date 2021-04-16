@@ -1,1 +1,1 @@
-var mnemonic = "buzz hat earn key oblige modify jaguar chunk drill law decorate spoon";
+var mnemonic = "word priority relax cat warfare escape alert sister discover apology abandon wisdom";

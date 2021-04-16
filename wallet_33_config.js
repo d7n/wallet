@@ -1,1 +1,1 @@
-var mnemonic = "raw salt wave success action two front renew wire exhaust antique admit";
+var mnemonic = "fun ostrich series bind blue circle pottery report goose exhaust video toilet";

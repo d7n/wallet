@@ -1,1 +1,1 @@
-var mnemonic = "attack slender scatter sadness vicious basket across spare lock lunar issue open";
+var mnemonic = "corn enjoy major giant hamster toast kingdom judge beef media alley possible";

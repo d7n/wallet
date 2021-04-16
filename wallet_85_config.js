@@ -1,1 +1,1 @@
-var mnemonic = "catalog frozen chef latin act detect razor such intact card when mosquito";
+var mnemonic = "autumn unique summer bulk holiday timber cloud gallery kidney pair hover person";

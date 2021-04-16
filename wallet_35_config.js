@@ -1,1 +1,1 @@
-var mnemonic = "alpha immense home cradle allow chase duck poem veteran hidden window atom";
+var mnemonic = "try weather stand nurse robust mutual ill lesson spoil shine cross always";

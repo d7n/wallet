@@ -1,1 +1,1 @@
-var mnemonic = "make piece robust crush garment horn apart corn memory six dice evolve";
+var mnemonic = "mention combine cinnamon gather benefit diet catalog consider betray sort monitor inhale";

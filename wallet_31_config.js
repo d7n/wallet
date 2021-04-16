@@ -1,1 +1,1 @@
-var mnemonic = "arrive spoon decade hurdle level bind cruel cycle food grant join cross";
+var mnemonic = "recall remove online tone draw extend honey core minimum fresh amount knock";

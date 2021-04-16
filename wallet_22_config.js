@@ -1,1 +1,1 @@
-var mnemonic = "just payment vacant taste coral can weekend muffin claw turtle siren fruit";
+var mnemonic = "cinnamon sure save city proof sport term fetch warfare improve luggage disorder";

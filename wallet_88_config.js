@@ -1,1 +1,1 @@
-var mnemonic = "announce goddess card lawsuit clump orchard shine cabin display family lounge spot";
+var mnemonic = "mixture wood jewel sign child recycle sister legend uphold belt lamp need";

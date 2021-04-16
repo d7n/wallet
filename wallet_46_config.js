@@ -1,1 +1,1 @@
-var mnemonic = "beyond type bean below raccoon use capable surround control social bullet habit";
+var mnemonic = "defy feel tuna vivid add clinic put clown poet rule welcome loop";

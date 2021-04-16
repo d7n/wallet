@@ -1,1 +1,1 @@
-var mnemonic = "warfare barely language drum fun kit mixed prevent rate glide lady sketch";
+var mnemonic = "shed then banner concert fatal model story ladder team pattern rate tell";

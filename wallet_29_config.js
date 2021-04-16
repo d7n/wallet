@@ -1,1 +1,1 @@
-var mnemonic = "obscure rose suspect know tip soul universe brief inmate snap tent path";
+var mnemonic = "lady unfold verify tilt exhaust beach abstract noise coral fruit resist fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp option enhance twist alert arrange addict dish moon airport deny crucial";
+var mnemonic = "weasel okay cabin liberty vehicle venture anxiety deal exile vehicle mistake pluck";

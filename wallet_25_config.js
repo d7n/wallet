@@ -1,1 +1,1 @@
-var mnemonic = "neck climb regret project tragic hen soup artist brain nature excuse matrix";
+var mnemonic = "model face social level avocado breeze shiver catch slow decrease question drink";

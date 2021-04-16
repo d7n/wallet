@@ -1,1 +1,1 @@
-var mnemonic = "conduct ice vicious guard write chuckle reject theory slot first issue where";
+var mnemonic = "genius resemble ignore shrimp social drama sad radio return weapon shrimp unfair";

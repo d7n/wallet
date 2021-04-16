@@ -1,1 +1,1 @@
-var mnemonic = "way charge custom welcome stay area brisk fish address liberty grunt margin";
+var mnemonic = "myself salmon blush cycle basket tooth doctor coyote shaft canal youth cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "hole release initial frozen rice comic wage pyramid base fashion hand holiday";
+var mnemonic = "admit ugly slide nurse alarm alpha tower idea nose shrug alley teach";

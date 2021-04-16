@@ -1,1 +1,1 @@
-var mnemonic = "stock marine relax eagle pumpkin solve ask west enroll black visit visual";
+var mnemonic = "cousin jelly acquire shield mansion blue there fashion comic twelve burden spice";

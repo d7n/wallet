@@ -1,1 +1,1 @@
-var mnemonic = "earn unfair argue stand vicious window fine pool horn flight bicycle rubber";
+var mnemonic = "angle chaos diagram bar horror exclude brisk process gate record proof hungry";

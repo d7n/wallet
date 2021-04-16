@@ -1,1 +1,1 @@
-var mnemonic = "squeeze reflect arctic smoke milk eager unaware know kind certain vacuum inquiry";
+var mnemonic = "code scout palace screen erase evil cannon calm shrug will coin salt";

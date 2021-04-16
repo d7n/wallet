@@ -1,1 +1,1 @@
-var mnemonic = "neglect ritual nature swarm cinnamon green evil nice possible fancy drip rice";
+var mnemonic = "better anchor spoon airport clutch control display strong candy car junk letter";

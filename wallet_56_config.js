@@ -1,1 +1,1 @@
-var mnemonic = "random chalk swim crew jacket sweet collect laugh survey payment mystery acid";
+var mnemonic = "material muffin coyote boost salad cube foil brass seed pride educate kiwi";

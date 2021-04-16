@@ -1,1 +1,1 @@
-var mnemonic = "dune talent raccoon divorce peasant govern chimney puppy parade surprise replace detail";
+var mnemonic = "spoil twice crisp normal rebel foster laugh stick tennis flower roast pond";

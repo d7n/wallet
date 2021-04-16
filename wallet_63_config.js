@@ -1,1 +1,1 @@
-var mnemonic = "biology close cake salt east flame inmate orient fiber require omit live";
+var mnemonic = "enforce shuffle hat slab ten market gun smooth electric vote congress evolve";

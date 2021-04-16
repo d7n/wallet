@@ -1,1 +1,1 @@
-var mnemonic = "chimney once portion club olive palace category motion rubber hunt valley library";
+var mnemonic = "tornado gesture settle play lion loan survey visit gossip swear frequent dune";

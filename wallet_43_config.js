@@ -1,1 +1,1 @@
-var mnemonic = "decide harsh rose reform adapt garage team color mosquito animal scale direct";
+var mnemonic = "success cover reunion abstract artist similar employ drill trade room similar present";

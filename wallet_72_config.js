@@ -1,1 +1,1 @@
-var mnemonic = "they deer endless science donkey price zero riot upon merit aerobic ethics";
+var mnemonic = "humble dawn lab lab cross cave banana boost cry camp bleak human";

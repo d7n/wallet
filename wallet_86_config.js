@@ -1,1 +1,1 @@
-var mnemonic = "brain junior category hub paper guitar circle kidney cousin hurt artefact desk";
+var mnemonic = "police loyal normal soldier solution opera play head ten hour burst want";

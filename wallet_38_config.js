@@ -1,1 +1,1 @@
-var mnemonic = "enroll chapter fault rally purity birth fee rigid float lottery adjust velvet";
+var mnemonic = "volume feed faculty garbage school faint manage fiber control mimic music omit";

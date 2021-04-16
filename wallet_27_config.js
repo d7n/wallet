@@ -1,1 +1,1 @@
-var mnemonic = "weasel sister appear provide gadget broccoli nasty empower city roast chalk kangaroo";
+var mnemonic = "walk slot deer aware bamboo pottery square crucial canyon primary dash topic";

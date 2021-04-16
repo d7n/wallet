@@ -1,1 +1,1 @@
-var mnemonic = "solid maximum execute balance protect fiscal cherry hammer leader giraffe unusual giraffe";
+var mnemonic = "subway hat north fox punch business couch mountain diesel welcome pencil pluck";

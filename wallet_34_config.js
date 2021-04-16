@@ -1,1 +1,1 @@
-var mnemonic = "picnic match thumb obtain unveil inhale orbit key dove cigar clog wrestle";
+var mnemonic = "vacuum river upon pear find fiction space uncover slab thing ghost major";

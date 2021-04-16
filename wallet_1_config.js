@@ -1,1 +1,1 @@
-var mnemonic = "main scout mix sign artefact sugar bulb animal letter double receive today";
+var mnemonic = "dutch expose movie feature slam electric ticket tourist admit access gain find";

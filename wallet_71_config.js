@@ -1,1 +1,1 @@
-var mnemonic = "vintage answer cheese student salute ordinary aim word want laugh simple narrow";
+var mnemonic = "north strategy paddle inhale acid nothing ozone laugh stock soap fringe glory";

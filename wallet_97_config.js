@@ -1,1 +1,1 @@
-var mnemonic = "thrive donate donor dinner ankle man lottery ankle weekend action odor obscure";
+var mnemonic = "feed spike jaguar outside property such margin vehicle eagle dilemma inject aunt";

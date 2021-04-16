@@ -1,1 +1,1 @@
-var mnemonic = "seven inherit office actual blouse sail hungry cattle south flush horse garbage";
+var mnemonic = "ten roast toilet token bubble feature equal envelope sword violin hire solar";

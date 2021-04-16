@@ -1,1 +1,1 @@
-var mnemonic = "social frequent spare solve traffic announce safe mean rib address surround law";
+var mnemonic = "tent net three shiver moment lumber describe pigeon already endorse desert share";

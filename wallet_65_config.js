@@ -1,1 +1,1 @@
-var mnemonic = "duck gap decide wedding argue pear roof electric job false apart pill";
+var mnemonic = "swarm secret tuna stock shell miracle bring will betray muscle patch physical";

@@ -1,1 +1,1 @@
-var mnemonic = "frog mule box grit shield ability file repeat federal response nephew adapt";
+var mnemonic = "outer rough label embody tackle pink sibling powder crowd rally host mask";

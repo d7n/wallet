@@ -1,1 +1,1 @@
-var mnemonic = "rabbit boil economy method wild gentle city pill left hip upon become";
+var mnemonic = "taxi apology buzz spawn ethics brass chef brisk pave install tennis mass";

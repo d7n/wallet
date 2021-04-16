@@ -1,1 +1,1 @@
-var mnemonic = "isolate robot frog volume cruel material cave stairs whisper advice unaware yard";
+var mnemonic = "bachelor sure lottery rough planet element visa term timber rebuild beauty bag";

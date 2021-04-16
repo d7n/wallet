@@ -1,1 +1,1 @@
-var mnemonic = "short skin grain original trophy advice cycle venture another style stay soccer";
+var mnemonic = "spatial wheat outside retire cram hover worth exist entire spread relief feed";

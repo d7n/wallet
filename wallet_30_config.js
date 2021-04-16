@@ -1,1 +1,1 @@
-var mnemonic = "tuition rocket inch box chat cup airport hedgehog renew citizen quality air";
+var mnemonic = "use bulb main hope crystal lucky debris couch era tortoise laundry symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "pair chase company fluid dutch supply observe bright over palm food frog";
+var mnemonic = "boost hotel twenty cupboard honey grant tag fame strike release between profit";

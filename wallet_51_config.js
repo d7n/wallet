@@ -1,1 +1,1 @@
-var mnemonic = "athlete pioneer great drink say tribe base prosper person one ostrich delay";
+var mnemonic = "sunny post cart glance cool north duty silver cotton patient law pizza";

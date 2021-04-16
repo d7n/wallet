@@ -1,1 +1,1 @@
-var mnemonic = "moral pair tribe occur ivory shallow camera junior endless gift entry deny";
+var mnemonic = "tonight fever envelope maid weird gun draft print dress cloud nature limb";

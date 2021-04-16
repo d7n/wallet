@@ -1,1 +1,1 @@
-var mnemonic = "twelve blanket combine chair youth critic load maximum marriage milk caution soap";
+var mnemonic = "repeat stool elder find swarm fit pluck mind strategy under vehicle various";

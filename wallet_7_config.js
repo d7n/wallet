@@ -1,1 +1,1 @@
-var mnemonic = "deputy absent cube combine phone school solution maple pudding level reduce grain";
+var mnemonic = "resource else reward pen resemble aunt elephant action extend evoke resist input";

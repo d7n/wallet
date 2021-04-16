@@ -1,1 +1,1 @@
-var mnemonic = "antenna cradle because electric omit off review erupt there farm wine phrase";
+var mnemonic = "roof coast fitness bone forest buddy ritual body regular entire move aspect";

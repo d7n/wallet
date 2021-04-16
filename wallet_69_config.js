@@ -1,1 +1,1 @@
-var mnemonic = "survey exact dune join pepper oval market subway police creek rib shift";
+var mnemonic = "cash remain coast spider holiday trophy similar hedgehog purse dignity much better";

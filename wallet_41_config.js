@@ -1,1 +1,1 @@
-var mnemonic = "orient turn crop stage hour explain dose alcohol crucial confirm bounce segment";
+var mnemonic = "smile shift father grocery swing need hold system burst dice elephant flight";

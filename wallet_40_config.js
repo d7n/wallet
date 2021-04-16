@@ -1,1 +1,1 @@
-var mnemonic = "divert print task hawk office verify square update unable close poem silent";
+var mnemonic = "fork rigid sight pact any response sorry angry hover limb discover grape";

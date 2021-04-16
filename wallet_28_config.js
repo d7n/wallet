@@ -1,1 +1,1 @@
-var mnemonic = "siege biology approve elevator recycle bulk guard fame daughter silent diesel post";
+var mnemonic = "small tattoo remember broom laundry arena cliff gasp cage victory grain sword";

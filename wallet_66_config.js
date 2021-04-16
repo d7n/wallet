@@ -1,1 +1,1 @@
-var mnemonic = "tiny economy can walnut stock health desert shiver light snack satisfy symptom";
+var mnemonic = "uncover receive fame shoe play sad view dress stick dream ribbon venture";

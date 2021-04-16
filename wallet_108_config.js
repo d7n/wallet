@@ -1,1 +1,1 @@
-var mnemonic = "spread disorder tragic inside inflict vivid dragon couch weekend scheme clog cross";
+var mnemonic = "prefer hour tide industry town bounce hire another junior smart vague recall";

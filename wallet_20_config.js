@@ -1,1 +1,1 @@
-var mnemonic = "crucial avocado bullet host awful demise hidden torch daughter genre hip rack";
+var mnemonic = "mention blade glide end buzz casino scare jewel issue hole hurdle title";

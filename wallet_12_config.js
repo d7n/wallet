@@ -1,1 +1,1 @@
-var mnemonic = "gossip cancel tuition buddy poet bubble flight attract theory solution industry truly";
+var mnemonic = "special fun daughter habit tribe retreat tourist grocery morning when card begin";

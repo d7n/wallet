@@ -1,1 +1,1 @@
-var mnemonic = "crisp exchange candy rose friend clean caution invite crisp strike immune yard";
+var mnemonic = "busy bag civil turn open tent priority rescue snack purpose short erupt";

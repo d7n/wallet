@@ -1,1 +1,1 @@
-var mnemonic = "erase example glory flat city network first aware number spell inhale rabbit";
+var mnemonic = "airport chair make fold crew squeeze child legal eyebrow purpose twist leaf";

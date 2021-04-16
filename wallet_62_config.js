@@ -1,1 +1,1 @@
-var mnemonic = "recycle essence woman story lucky doctor blade female twenty endorse enter title";
+var mnemonic = "manage cube idea fade gentle ranch cake what exile sound beauty cigar";

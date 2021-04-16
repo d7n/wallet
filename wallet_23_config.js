@@ -1,1 +1,1 @@
-var mnemonic = "turtle price skate north shadow tumble meat patient decorate please coast stairs";
+var mnemonic = "derive photo cross bottom potato purpose social bulk purpose focus mass method";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict pet food aim because faint click sign surprise silver violin anger";
+var mnemonic = "various tower sponsor engage circle minute recall diagram delay trade kiwi runway";

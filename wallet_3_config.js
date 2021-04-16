@@ -1,1 +1,1 @@
-var mnemonic = "rain album pupil guard vessel army adapt recycle conduct stamp fury decade";
+var mnemonic = "ahead method valley clinic wreck float train filter defense hobby match bicycle";

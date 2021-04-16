@@ -1,1 +1,1 @@
-var mnemonic = "left approve surprise old cook truck merry blind setup doctor match search";
+var mnemonic = "document toast truck fashion mail snow risk install document eagle feel across";

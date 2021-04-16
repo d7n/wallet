@@ -1,1 +1,1 @@
-var mnemonic = "army door symbol wide flame inform shed ketchup clump chase habit mansion";
+var mnemonic = "dinner tube warrior grow fiction enrich power pudding wing draw drip betray";

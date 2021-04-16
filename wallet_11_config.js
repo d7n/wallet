@@ -1,1 +1,1 @@
-var mnemonic = "steak size juice swing senior library blind during caution jazz evidence senior";
+var mnemonic = "clinic legend pole federal feel umbrella vendor crawl flight green chunk board";

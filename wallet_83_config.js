@@ -1,1 +1,1 @@
-var mnemonic = "ocean shell pencil used budget penalty sense become behind since solar soft";
+var mnemonic = "frozen divert picture infant actress potato pelican hub liberty million know pilot";

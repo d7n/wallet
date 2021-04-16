@@ -1,1 +1,1 @@
-var mnemonic = "upset pear kidney worry story secret message deer claw liberty planet degree";
+var mnemonic = "double gift doll only husband balance sketch pear repair across slab angry";

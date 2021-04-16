@@ -1,1 +1,1 @@
-var mnemonic = "lonely torch spend tribe pull mercy romance cushion choose shoe glory guitar";
+var mnemonic = "toss acoustic venue reform fury design unhappy fetch inquiry biology eager cook";

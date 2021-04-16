@@ -1,1 +1,1 @@
-var mnemonic = "oyster motion book virus enemy pause twist inside before life casual effort";
+var mnemonic = "they lucky mix excess limb silent license eye ivory either bullet rough";

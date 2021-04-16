@@ -1,1 +1,1 @@
-var mnemonic = "matrix sugar prosper clean drink combine draft wrap merge obvious glance nature";
+var mnemonic = "display useless wife tag junk six later seek also century joke direct";

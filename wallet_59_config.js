@@ -1,1 +1,1 @@
-var mnemonic = "canyon light eagle surge alter tone hazard stuff view enjoy glare excite";
+var mnemonic = "phrase universe acoustic logic wire universe pelican parent pole believe burger tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "they trick between flat federal fire pupil jaguar sand pyramid grief action";
+var mnemonic = "metal toilet suit abstract art pigeon silver clip oppose fan echo film";

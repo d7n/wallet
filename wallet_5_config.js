@@ -1,1 +1,1 @@
-var mnemonic = "exclude waste wet onion whale swarm assist weasel march wheat various permit";
+var mnemonic = "corn book average ask moment harvest extra attack subject hill scissors blouse";

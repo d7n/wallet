@@ -1,1 +1,1 @@
-var mnemonic = "town scout pole meadow piano patch scatter leave orphan review bubble toss";
+var mnemonic = "awful please rent erosion goat bubble gorilla strong usage unusual mobile crystal";

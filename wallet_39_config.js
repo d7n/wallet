@@ -1,1 +1,1 @@
-var mnemonic = "baby cat notice produce pact drastic swallow penalty sure record soccer fame";
+var mnemonic = "night siren entry punch stove pear can swallow accuse supply useful grass";

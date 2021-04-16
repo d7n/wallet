@@ -1,1 +1,1 @@
-var mnemonic = "empower orient where work machine good use flight short sign typical hundred";
+var mnemonic = "physical couple calm sponsor junk escape certain alarm cotton marble earth aware";

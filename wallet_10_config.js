@@ -1,1 +1,1 @@
-var mnemonic = "path discover congress labor bag actress very recycle sponsor crater cigar similar";
+var mnemonic = "sail quit nominee arm sport master dune hip remember mountain illness oblige";

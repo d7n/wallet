@@ -1,1 +1,1 @@
-var mnemonic = "midnight mind business denial real imitate garage cheap ahead eight inquiry zone";
+var mnemonic = "call camera clog hazard polar idle round dirt alpha season crawl measure";

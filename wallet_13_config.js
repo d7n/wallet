@@ -1,1 +1,1 @@
-var mnemonic = "knee obtain easy news pipe pear route soap document state skull jeans";
+var mnemonic = "ivory inherit judge jazz diesel table meat library much pig demise solar";

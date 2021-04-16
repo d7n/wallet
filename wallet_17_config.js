@@ -1,1 +1,1 @@
-var mnemonic = "pistol already prison sure cup element room slide main card crazy spin";
+var mnemonic = "extend certain again gospel anger valid glove turn perfect nothing file toward";

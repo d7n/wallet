@@ -1,1 +1,1 @@
-var mnemonic = "toast between cry erase glass eternal jump they toddler scrap allow choice";
+var mnemonic = "entire decline dust pave frown angry logic boat will wash jewel foot";

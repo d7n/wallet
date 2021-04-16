@@ -1,1 +1,1 @@
-var mnemonic = "current monkey buddy obvious eyebrow help butter first effort wolf toward lamp";
+var mnemonic = "strong dumb renew animal coral main able bulb ranch loan task slight";

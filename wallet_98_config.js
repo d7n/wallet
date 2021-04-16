@@ -1,1 +1,1 @@
-var mnemonic = "fold ugly praise range sense caught gate chuckle segment gate pelican universe";
+var mnemonic = "april purse season initial illegal rocket beach consider rapid accuse mouse drill";

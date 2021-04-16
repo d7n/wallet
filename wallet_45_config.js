@@ -1,1 +1,1 @@
-var mnemonic = "play toilet cargo foster lake gas brand bargain annual issue transfer slow";
+var mnemonic = "actor brief step amount stick there issue appear despair holiday shine thank";

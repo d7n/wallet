@@ -1,1 +1,1 @@
-var mnemonic = "catalog duty inner carry erase wood elite treat code couple true voice";
+var mnemonic = "color panther tower often trust rebel tomato true pitch limb critic option";

@@ -1,1 +1,1 @@
-var mnemonic = "churn observe local stuff enlist elbow admit ready raccoon candy speak kiwi";
+var mnemonic = "joke ordinary assault host mango satisfy minor nose rally fun island nation";

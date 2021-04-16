@@ -1,1 +1,1 @@
-var mnemonic = "wrap lady lion vintage apple month sunny amateur science cactus shock blur";
+var mnemonic = "diagram veteran father vibrant canal two mesh derive fossil typical diamond cart";

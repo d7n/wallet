@@ -1,1 +1,1 @@
-var mnemonic = "decline silent silent globe tail ceiling spray olympic switch raise tenant vanish";
+var mnemonic = "hurry wait satisfy infant head jealous educate pull pyramid shiver more spatial";

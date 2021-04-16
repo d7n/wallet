@@ -1,1 +1,1 @@
-var mnemonic = "silly bar snack pretty tiger hat segment creek fall kid zero dash";
+var mnemonic = "able similar habit opinion pizza ignore metal upset obey victory peace select";

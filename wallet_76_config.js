@@ -1,1 +1,1 @@
-var mnemonic = "can book palace sword mule ready diet elegant across borrow ready opinion";
+var mnemonic = "argue cup topic list envelope solar crush float grunt humble tent twist";

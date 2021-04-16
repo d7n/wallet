@@ -1,1 +1,1 @@
-var mnemonic = "welcome soul zone confirm scrap school virtual shift view festival file response";
+var mnemonic = "figure weird capable puzzle soul fat drop arrange betray mirror nasty flat";

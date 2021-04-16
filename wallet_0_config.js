@@ -1,1 +1,1 @@
-var mnemonic = "write zone vacuum parrot say miss acquire secret nice pool goddess riot";
+var mnemonic = "prison know grunt recall tenant pull onion empower ocean tell region earth";

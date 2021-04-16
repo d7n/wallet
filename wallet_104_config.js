@@ -1,1 +1,1 @@
-var mnemonic = "film clarify ill goddess senior peasant push athlete own ignore hub buffalo";
+var mnemonic = "science napkin purchase debate hollow circle change wink lamp anger oil federal";
