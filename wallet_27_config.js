@@ -1,1 +1,1 @@
-var mnemonic = "mirror raccoon gallery habit wagon link escape click deal lend suggest bargain";
+var mnemonic = "chest trust hello pact gaze arrest volcano velvet lazy wing mind depend";

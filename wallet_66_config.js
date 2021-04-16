@@ -1,1 +1,1 @@
-var mnemonic = "film stadium banner west pole nature impact thrive shove proud quick trumpet";
+var mnemonic = "survey legal bar weasel guilt visa cash balance raise region actress illegal";

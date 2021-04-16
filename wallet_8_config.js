@@ -1,1 +1,1 @@
-var mnemonic = "cat year artist lens glad father key mechanic coffee traffic photo chicken";
+var mnemonic = "neck awkward normal educate tobacco grief box grass image minor sport enforce";

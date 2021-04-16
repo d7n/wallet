@@ -1,1 +1,1 @@
-var mnemonic = "venture conduct car jeans health satisfy menu promote exist make stable ten";
+var mnemonic = "person exile arrange amateur wrong snack dumb rocket armor feed poet rural";

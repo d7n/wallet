@@ -1,1 +1,1 @@
-var mnemonic = "runway excite subway more toast patient pond rocket slush describe cat faith";
+var mnemonic = "ride mandate follow virus frog toy shed athlete airport embark cream gas";

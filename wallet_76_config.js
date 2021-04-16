@@ -1,1 +1,1 @@
-var mnemonic = "isolate neutral used tone problem cluster alien desk wink crazy truck rent";
+var mnemonic = "lunch life tooth easily cage vintage three unit tip fall wreck actual";

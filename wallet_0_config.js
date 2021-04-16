@@ -1,1 +1,1 @@
-var mnemonic = "actress arctic genius popular belt song future lumber rally agree elephant cram";
+var mnemonic = "chapter slogan normal angle spring indoor orphan chuckle smoke ski element people";

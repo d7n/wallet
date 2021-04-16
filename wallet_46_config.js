@@ -1,1 +1,1 @@
-var mnemonic = "quality affair august column various used squeeze month grunt upper glance ostrich";
+var mnemonic = "can skin obscure coin permit pyramid vibrant lend coconut fat tank forget";

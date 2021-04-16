@@ -1,1 +1,1 @@
-var mnemonic = "glue fun myth allow tiny benefit census nice acid wolf mad just";
+var mnemonic = "payment scare slab human spoil ocean quiz edge tomorrow mystery melt twin";

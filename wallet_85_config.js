@@ -1,1 +1,1 @@
-var mnemonic = "calm prepare juice brand pulp hold deliver useful belt there dwarf chuckle";
+var mnemonic = "lion uncle fluid issue also video agent dawn duty tide cupboard raise";

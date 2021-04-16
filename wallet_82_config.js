@@ -1,1 +1,1 @@
-var mnemonic = "bleak ankle like fish sick either horror bulb pond old rice already";
+var mnemonic = "crack atom seven around cricket injury bracket feature enact strong hero ripple";

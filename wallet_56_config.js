@@ -1,1 +1,1 @@
-var mnemonic = "human empty insect jealous tree submit need tumble island dizzy anchor student";
+var mnemonic = "near pride special express spell firm again lava page caution drip satisfy";

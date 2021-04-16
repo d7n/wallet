@@ -1,1 +1,1 @@
-var mnemonic = "walk rebuild bar just slender citizen rose quick crunch live image doll";
+var mnemonic = "gate act human paper open couch tomorrow teach above spawn drill tonight";

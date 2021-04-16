@@ -1,1 +1,1 @@
-var mnemonic = "police medal issue mouse process spawn tuition hover drama wheat bring rack";
+var mnemonic = "diet assist wheel erode sea east adapt room chase budget bulb river";

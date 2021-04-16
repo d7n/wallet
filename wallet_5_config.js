@@ -1,1 +1,1 @@
-var mnemonic = "admit intact seek fame move black holiday number uncle glory behave tilt";
+var mnemonic = "shop scan target divide fence insane capital garbage bind merge marble biology";

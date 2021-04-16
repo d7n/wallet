@@ -1,1 +1,1 @@
-var mnemonic = "twin panic staff pole elevator salute jaguar material since fruit ahead ethics";
+var mnemonic = "round put mammal zero unique fold beef blood sentence unit spray taxi";

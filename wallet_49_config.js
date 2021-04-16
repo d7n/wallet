@@ -1,1 +1,1 @@
-var mnemonic = "select head bulb master river diary grunt digital park panther lizard simple";
+var mnemonic = "glue tunnel usage canvas submit gravity gesture pig property analyst penalty nasty";

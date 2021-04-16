@@ -1,1 +1,1 @@
-var mnemonic = "cactus all pave paddle test until tissue share mother isolate blade easily";
+var mnemonic = "man write pupil father lock odor mad junk bread price rhythm bean";

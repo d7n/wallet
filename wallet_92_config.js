@@ -1,1 +1,1 @@
-var mnemonic = "atom taste flight air carry off ticket purse wink pilot shuffle this";
+var mnemonic = "peace benefit daring quote method pattern brush water ice pull orbit lumber";

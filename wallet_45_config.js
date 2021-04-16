@@ -1,1 +1,1 @@
-var mnemonic = "margin spoon game day age oil mechanic similar culture embark subway elbow";
+var mnemonic = "laugh wrestle swallow lounge venue now entry lyrics senior glove napkin decrease";

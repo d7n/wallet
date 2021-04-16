@@ -1,1 +1,1 @@
-var mnemonic = "rose mask tape host firm fat crisp blanket add embark hover draw";
+var mnemonic = "goddess pretty tornado radar concert this stumble float myself magic artwork cram";

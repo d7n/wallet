@@ -1,1 +1,1 @@
-var mnemonic = "waste boat view opinion nuclear what diamond purse any orange across air";
+var mnemonic = "donate enroll method switch convince slogan flag pond obvious exclude fragile sibling";

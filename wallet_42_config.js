@@ -1,1 +1,1 @@
-var mnemonic = "inflict orbit envelope symbol space border search galaxy airport bleak witness relax";
+var mnemonic = "fun element idea patrol ghost enroll antenna funny unable journey medal pink";

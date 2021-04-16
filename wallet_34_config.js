@@ -1,1 +1,1 @@
-var mnemonic = "confirm weapon must door return august useful whip canoe picnic have federal";
+var mnemonic = "nose supply swift dumb very obey photo duty length fruit indicate illness";

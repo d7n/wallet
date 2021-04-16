@@ -1,1 +1,1 @@
-var mnemonic = "cousin long victory have crystal shock wood battle sample black agree diamond";
+var mnemonic = "pudding example enact shift seminar razor front obtain side proof brand rural";

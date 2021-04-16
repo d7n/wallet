@@ -1,1 +1,1 @@
-var mnemonic = "mammal ball accident gossip bind because relax author rival sentence please warm";
+var mnemonic = "health lobster slow taxi alley slice tortoise asthma favorite recall sea robot";

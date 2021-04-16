@@ -1,1 +1,1 @@
-var mnemonic = "silly entire orbit diesel pioneer edit idea buzz theory pet stay decorate";
+var mnemonic = "ladder nose chief song defy scare lend burst fatigue drift wear cement";

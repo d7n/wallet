@@ -1,1 +1,1 @@
-var mnemonic = "visa suffer game island relief clock soap couple ethics sadness sea wink";
+var mnemonic = "price problem have film genius loop permit ankle explain angry crumble shy";

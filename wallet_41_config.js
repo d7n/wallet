@@ -1,1 +1,1 @@
-var mnemonic = "torch jazz angle liar rebel filter oval wheat turtle olympic peasant frequent";
+var mnemonic = "awake rubber choose little distance hope boring patrol envelope pulp during laptop";

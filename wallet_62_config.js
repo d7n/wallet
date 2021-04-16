@@ -1,1 +1,1 @@
-var mnemonic = "stove finish business edge cost net simple west wheat trouble confirm reduce";
+var mnemonic = "valid glad math vintage trap write together capital coin sell life december";

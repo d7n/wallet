@@ -1,1 +1,1 @@
-var mnemonic = "gossip frequent web undo tennis any pigeon little negative rich magic pony";
+var mnemonic = "oven observe stable advice model treat ability steel hard scrap dignity motor";

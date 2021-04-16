@@ -1,1 +1,1 @@
-var mnemonic = "total aspect nothing green swear aim swim lottery certain clean garment parent";
+var mnemonic = "good angry police tornado word cattle equip minute indicate rose domain seven";

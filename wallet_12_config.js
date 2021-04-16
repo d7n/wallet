@@ -1,1 +1,1 @@
-var mnemonic = "alert ceiling depend near capable refuse market sugar zebra ripple digital mother";
+var mnemonic = "similar pole lunch tube way cream army kid island refuse journey security";

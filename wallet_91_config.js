@@ -1,1 +1,1 @@
-var mnemonic = "six traffic virus earth tomorrow fade outer live gather crystal crunch require";
+var mnemonic = "cake chicken nose velvet path silly burger charge sample rebel depend awesome";

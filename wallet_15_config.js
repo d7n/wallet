@@ -1,1 +1,1 @@
-var mnemonic = "purse sheriff catalog story penalty level onion venue bind deer parrot left";
+var mnemonic = "depth draw image inflict park cry focus between torch way summer plug";

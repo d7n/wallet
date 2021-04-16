@@ -1,1 +1,1 @@
-var mnemonic = "resist solution lunch fossil laptop session local reason mobile illness hungry museum";
+var mnemonic = "maid cradle tissue inmate cloud lunar stock movie clock spray fuel funny";

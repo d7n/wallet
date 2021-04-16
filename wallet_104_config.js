@@ -1,1 +1,1 @@
-var mnemonic = "found knock genius joke first speak crowd lunar future grape crouch stumble";
+var mnemonic = "artist obscure curtain double forward laptop broken shell warrior panel effort mass";

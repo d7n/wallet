@@ -1,1 +1,1 @@
-var mnemonic = "dutch please letter fashion people hazard army mention drink stove dust typical";
+var mnemonic = "armed tail any miracle fetch elbow believe ring length arena number major";

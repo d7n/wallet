@@ -1,1 +1,1 @@
-var mnemonic = "venue jazz luggage skin secret knife output anger gentle scorpion legal transfer";
+var mnemonic = "vapor topple album bulk melody index speed aerobic pear topic cage youth";

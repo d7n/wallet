@@ -1,1 +1,1 @@
-var mnemonic = "member grid donate glimpse portion list never click lunch hold cute ice";
+var mnemonic = "pledge term discover furnace hundred surface fault grass lonely answer observe recall";

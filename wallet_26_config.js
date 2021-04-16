@@ -1,1 +1,1 @@
-var mnemonic = "tube melody clerk draw bundle park fly sponsor dirt perfect flash problem";
+var mnemonic = "sheriff rocket rain label lecture student salmon access view insane genius average";

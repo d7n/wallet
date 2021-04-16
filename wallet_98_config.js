@@ -1,1 +1,1 @@
-var mnemonic = "beef doll give cargo potato attract sample diamond rail work hour transfer";
+var mnemonic = "super process flag transfer asset benefit festival merit under tissue plate foil";

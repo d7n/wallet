@@ -1,1 +1,1 @@
-var mnemonic = "absorb riot visa liberty bless canoe change industry outdoor flash reward apple";
+var mnemonic = "spin gate lend dish trust proof zebra dirt team raven salt borrow";

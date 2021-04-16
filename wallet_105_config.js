@@ -1,1 +1,1 @@
-var mnemonic = "cousin sugar clarify father dial float grocery trophy divorce tower quality embrace";
+var mnemonic = "stick mirror exhibit pig peace click keen flower elite dwarf planet iron";

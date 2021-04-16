@@ -1,1 +1,1 @@
-var mnemonic = "voyage special correct hunt hold river appear medal cotton gun unit purity";
+var mnemonic = "science usual thank image interest mixed member risk valley agree proof skull";

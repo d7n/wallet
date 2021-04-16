@@ -1,1 +1,1 @@
-var mnemonic = "foster volcano knock thumb ladder depend lottery extend crunch film unknown clay";
+var mnemonic = "danger kidney submit field tribe orbit deal wisdom aim fly insane oblige";

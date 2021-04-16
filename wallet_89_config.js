@@ -1,1 +1,1 @@
-var mnemonic = "traffic mistake front glad pact cost envelope tent length life belt napkin";
+var mnemonic = "zero false deposit valley coin ill farm shadow copper defense camera plug";

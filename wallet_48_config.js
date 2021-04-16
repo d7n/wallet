@@ -1,1 +1,1 @@
-var mnemonic = "vast symbol elite harbor increase enough hammer rare emerge record ceiling neglect";
+var mnemonic = "six ability glare audit heart lamp busy glory harsh endorse tuition check";

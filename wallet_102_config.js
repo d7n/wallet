@@ -1,1 +1,1 @@
-var mnemonic = "ready breeze false impose grow crawl visual try choice stomach pelican seven";
+var mnemonic = "corn still cute reform car dentist kiwi mistake summer cotton soap frown";

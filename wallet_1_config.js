@@ -1,1 +1,1 @@
-var mnemonic = "solar love word rural clog cargo stone credit bullet palace run next";
+var mnemonic = "wine practice pause trumpet gossip heavy buzz alpha fine mean expire core";

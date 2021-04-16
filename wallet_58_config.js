@@ -1,1 +1,1 @@
-var mnemonic = "cluster toddler market image walk quarter royal sponsor ceiling nuclear gift false";
+var mnemonic = "process nose cherry crunch prosper test sniff student flip brush pulp web";

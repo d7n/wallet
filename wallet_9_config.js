@@ -1,1 +1,1 @@
-var mnemonic = "bronze whisper shed art slice post quarter point castle kit immune rhythm";
+var mnemonic = "apple laugh parrot boat fresh senior loop cigar tragic squeeze sing message";

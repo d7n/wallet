@@ -1,1 +1,1 @@
-var mnemonic = "crush denial you cabin control gather typical then inherit easily eagle tonight";
+var mnemonic = "eye buzz purse romance trim weird column junior night dose purchase tilt";

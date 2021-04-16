@@ -1,1 +1,1 @@
-var mnemonic = "section ensure remove entry ritual resist way fold speed duck caution model";
+var mnemonic = "erode camp cage badge sorry dust upset uphold kick height ill practice";

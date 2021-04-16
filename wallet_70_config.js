@@ -1,1 +1,1 @@
-var mnemonic = "bounce relax photo exist couch nose jacket slight salad combine lens tree";
+var mnemonic = "dizzy mask credit swing drip improve lemon captain exhaust raw decline blast";

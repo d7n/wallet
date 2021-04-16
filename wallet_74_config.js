@@ -1,1 +1,1 @@
-var mnemonic = "patient inmate erupt iron bacon drip switch vote radio often dance because";
+var mnemonic = "bicycle verb recipe never wait simple original they diamond spirit tattoo dinner";

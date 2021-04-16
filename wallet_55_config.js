@@ -1,1 +1,1 @@
-var mnemonic = "moral depend liquid pair assault boring suffer girl brass lock input tattoo";
+var mnemonic = "velvet catch upset final napkin crater rug plate daughter soccer because convince";

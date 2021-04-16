@@ -1,1 +1,1 @@
-var mnemonic = "prison rookie stuff path kiwi winter improve rain tube hungry scheme limit";
+var mnemonic = "anchor volume loud stable boil drip hurdle minimum ribbon verify ramp person";

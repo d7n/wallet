@@ -1,1 +1,1 @@
-var mnemonic = "interest aisle fix lady carpet able thunder field doctor napkin render find";
+var mnemonic = "unlock expose enforce other seed tilt opinion pyramid august cancel sponsor deal";

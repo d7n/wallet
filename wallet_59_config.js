@@ -1,1 +1,1 @@
-var mnemonic = "youth pass emotion mushroom split cloth avoid antenna great velvet replace sheriff";
+var mnemonic = "deposit wise curious predict demand club soon student feature include oyster feature";

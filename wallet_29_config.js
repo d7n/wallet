@@ -1,1 +1,1 @@
-var mnemonic = "imitate current already ladder toe acoustic phone ride supply quarter cup genuine";
+var mnemonic = "universe flock ugly bag rack hello staff gun pen flight shop poem";

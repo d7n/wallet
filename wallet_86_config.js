@@ -1,1 +1,1 @@
-var mnemonic = "chalk suggest similar example sting mansion office ugly law essence luxury exclude";
+var mnemonic = "yard draw spring resist wave sense travel draw wine current dumb poet";

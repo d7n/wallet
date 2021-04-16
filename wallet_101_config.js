@@ -1,1 +1,1 @@
-var mnemonic = "shop congress birth monkey never since divide wage code trap kick good";
+var mnemonic = "visa high obtain window save symbol dish shoot bleak diagram pluck brief";

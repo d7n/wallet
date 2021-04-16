@@ -1,1 +1,1 @@
-var mnemonic = "festival crunch party leisure solve virus series save supreme dose flower cover";
+var mnemonic = "upset sting return congress dentist live spend want quiz text frame knock";

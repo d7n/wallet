@@ -1,1 +1,1 @@
-var mnemonic = "dose task amused unknown arrest enrich attend ozone true chicken fall pelican";
+var mnemonic = "wide flash joy suspect slot squirrel amateur casual garlic head crazy clerk";

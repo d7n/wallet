@@ -1,1 +1,1 @@
-var mnemonic = "fringe obvious super always fan fetch oppose february tomato fork party arrive";
+var mnemonic = "recipe drama galaxy park wink wreck hunt output apart festival title either";

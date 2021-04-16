@@ -1,1 +1,1 @@
-var mnemonic = "angle solar nature dynamic color ginger fossil like figure beef grit live";
+var mnemonic = "length warm virtual rail lizard frequent stock boring shock fiscal gauge spread";

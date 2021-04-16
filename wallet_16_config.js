@@ -1,1 +1,1 @@
-var mnemonic = "junior expire survey grunt fat rally citizen nothing trend insane basket select";
+var mnemonic = "strategy cruise busy curious tape buddy dune today soap fog correct wagon";

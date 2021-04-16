@@ -1,1 +1,1 @@
-var mnemonic = "harvest coil invest mom excuse wife unusual arrange electric ketchup school crash";
+var mnemonic = "outdoor type weasel road when negative mandate come timber doll riot iron";

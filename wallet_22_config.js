@@ -1,1 +1,1 @@
-var mnemonic = "return latin usage half weekend movie leader gather benefit pledge brother kiss";
+var mnemonic = "jeans fruit story worry vehicle expire clarify apple basket mix horse entry";

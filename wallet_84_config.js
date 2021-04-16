@@ -1,1 +1,1 @@
-var mnemonic = "coast couch sport panda dignity gate initial alley original egg fence timber";
+var mnemonic = "dice want involve pilot board label pig horse subject galaxy slender roast";

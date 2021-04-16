@@ -1,1 +1,1 @@
-var mnemonic = "glad arch build worry message desk frown until decorate sport crystal wasp";
+var mnemonic = "gallery toilet double remain acid trim human claim dice village army any";

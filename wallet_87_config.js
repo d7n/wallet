@@ -1,1 +1,1 @@
-var mnemonic = "morning vapor diesel seed kiwi worry shrimp dose about hire solution erode";
+var mnemonic = "pig tunnel width rib top direct demise park chapter fiscal person warm";

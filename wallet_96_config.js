@@ -1,1 +1,1 @@
-var mnemonic = "skate dish render help glimpse carpet improve keep width volume drink hover";
+var mnemonic = "wheat nominee crucial foster label pupil forest point vehicle define differ talk";

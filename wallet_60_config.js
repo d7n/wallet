@@ -1,1 +1,1 @@
-var mnemonic = "video improve delay extend avoid tiger uncle answer garlic outdoor brush bicycle";
+var mnemonic = "copper arrive radio spend glide grief original reveal across spike gasp document";

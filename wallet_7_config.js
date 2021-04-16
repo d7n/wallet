@@ -1,1 +1,1 @@
-var mnemonic = "limit gauge ranch width critic truck veteran lamp view travel join marriage";
+var mnemonic = "remain hedgehog broom capital copper repeat provide off floor gloom almost surge";

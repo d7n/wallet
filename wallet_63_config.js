@@ -1,1 +1,1 @@
-var mnemonic = "permit calm level avoid region rude debris improve rely fog warm nurse";
+var mnemonic = "ritual twice grunt this puzzle pulp smoke enact table climb roof taxi";

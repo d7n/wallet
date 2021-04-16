@@ -1,1 +1,1 @@
-var mnemonic = "spatial mixture roof accident flee turkey tourist stool address proof kid hurt";
+var mnemonic = "spoon kidney jaguar jealous essay vapor organ proud claim various actress grow";

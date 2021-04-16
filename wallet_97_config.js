@@ -1,1 +1,1 @@
-var mnemonic = "fix island banner sleep surface letter claim income sand okay garment interest";
+var mnemonic = "cart junk pink lamp used account basket insect orient grass govern pelican";

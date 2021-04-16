@@ -1,1 +1,1 @@
-var mnemonic = "ask member caution garbage token prison scheme book barrel tell half enhance";
+var mnemonic = "day trouble recycle ankle license club work flower industry inmate best board";

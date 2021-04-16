@@ -1,1 +1,1 @@
-var mnemonic = "dizzy slight rival eye wise tip tattoo person buffalo flock sword banana";
+var mnemonic = "sun bridge sibling icon embrace provide beef romance trade shaft tell cause";

@@ -1,1 +1,1 @@
-var mnemonic = "inch amateur satoshi that index theme clay rabbit report sense foam tide";
+var mnemonic = "flight power recall swallow divide already earth invite two wave acid crop";

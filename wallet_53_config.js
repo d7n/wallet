@@ -1,1 +1,1 @@
-var mnemonic = "sausage junk siren barely want ugly doctor unable purpose happy defense strong";
+var mnemonic = "lift expect put nest dismiss guilt expose clock town expire biology isolate";

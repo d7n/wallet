@@ -1,1 +1,1 @@
-var mnemonic = "jeans child joy swear warrior charge stone pill grape subject vocal poem";
+var mnemonic = "ancient gorilla laugh copy imitate attend iron comic history twenty absent flight";

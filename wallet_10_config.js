@@ -1,1 +1,1 @@
-var mnemonic = "nation bicycle man faint laugh left miracle since crash average mechanic medal";
+var mnemonic = "tackle sunny manage keen flush slim measure type pulse cycle cook left";

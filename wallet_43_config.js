@@ -1,1 +1,1 @@
-var mnemonic = "often powder sleep pudding human captain nut hat vague flag narrow canyon";
+var mnemonic = "approve pull believe casino place gloom mean crunch dismiss mutual waste like";
