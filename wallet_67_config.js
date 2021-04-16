@@ -1,1 +1,1 @@
-var mnemonic = "witness donor illegal cash license picture category flush sweet muscle illness pair";
+var mnemonic = "opera sort response strong island symbol explain tuna sting safe adapt say";

@@ -1,1 +1,1 @@
-var mnemonic = "baby guitar tunnel whale gravity umbrella session crop buzz hospital wood collect";
+var mnemonic = "harbor trophy awful tiger ensure provide knock special three champion calm journey";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy proud deliver wink badge destroy volcano happy tenant tent cream nothing";
+var mnemonic = "solar renew panther cliff maximum salute grocery hub mass march celery lunar";

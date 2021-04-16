@@ -1,1 +1,1 @@
-var mnemonic = "chronic exercise alien vocal sign debate cannon bachelor gather prepare soap arrive";
+var mnemonic = "turkey distance innocent employ output upgrade render sword strike conduct afford leisure";

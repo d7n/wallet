@@ -1,1 +1,1 @@
-var mnemonic = "fog label sphere monitor palm machine genre trust unveil endorse churn special";
+var mnemonic = "shoot hood coconut cruise hub rate sibling path fossil replace copper demand";

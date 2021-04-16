@@ -1,1 +1,1 @@
-var mnemonic = "repair fiber loud tilt skin inquiry enter easy debris parade apart faint";
+var mnemonic = "corn street never risk wise unique tooth open fine weasel fork mail";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie dentist normal gossip cotton cliff melody display pact garbage collect stand";
+var mnemonic = "crawl wrong dash album estate plug frequent guilt prevent walk essay armor";

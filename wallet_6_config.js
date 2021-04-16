@@ -1,1 +1,1 @@
-var mnemonic = "stand office cake general shop vehicle august happy purpose smooth mesh warfare";
+var mnemonic = "honey owner jacket mystery various where mimic produce ignore pigeon expect fantasy";

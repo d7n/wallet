@@ -1,1 +1,1 @@
-var mnemonic = "hire gasp year enlist know machine bamboo hybrid twist shock school feed";
+var mnemonic = "scatter video slogan source lava exhaust ridge prevent main shove mom enlist";

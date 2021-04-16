@@ -1,1 +1,1 @@
-var mnemonic = "silver benefit knife wolf crater detect brave penalty face give word question";
+var mnemonic = "trip hold slight bracket purchase mercy roast knock lounge vehicle carry detail";

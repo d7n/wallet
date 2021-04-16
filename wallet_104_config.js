@@ -1,1 +1,1 @@
-var mnemonic = "slot clock render pyramid beef myself sure desert basic hen exit convince";
+var mnemonic = "stairs tuna burst review dial choose clutch load defense goose hedgehog town";

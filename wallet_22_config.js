@@ -1,1 +1,1 @@
-var mnemonic = "solid penalty brief burst fantasy flush simple degree invest route increase blouse";
+var mnemonic = "toss point item six drum rain celery title kidney all lake misery";

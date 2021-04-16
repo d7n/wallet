@@ -1,1 +1,1 @@
-var mnemonic = "wife twist six suit debris solve age near gauge tape coyote syrup";
+var mnemonic = "snake peanut boy exchange mosquito finger about vivid dentist bacon order hunt";

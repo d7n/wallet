@@ -1,1 +1,1 @@
-var mnemonic = "fossil achieve choice enrich alien cheap follow grocery various ten baby club";
+var mnemonic = "jealous sauce such salt anger air cherry napkin lend either roof sample";

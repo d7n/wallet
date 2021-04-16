@@ -1,1 +1,1 @@
-var mnemonic = "lobster effort bracket mix label point digital brick day motion cruel cruise";
+var mnemonic = "daring kitchen injury morning armed fox develop cool satisfy canyon rely cart";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy choose clutch trust myself rough fancy execute attend burst small clump";
+var mnemonic = "wave manual deposit digital current pulse under heart place half dutch organ";

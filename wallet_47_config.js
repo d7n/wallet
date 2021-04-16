@@ -1,1 +1,1 @@
-var mnemonic = "negative credit switch pair hill wire embody dream hair neck snow wing";
+var mnemonic = "empower stamp motion music suffer fun attend neither above doctor yard satisfy";

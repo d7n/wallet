@@ -1,1 +1,1 @@
-var mnemonic = "beauty secret spoon neglect amateur silent page theme juice remain soft result";
+var mnemonic = "spatial foil blind veteran rice sound auto cup adapt guide trap item";

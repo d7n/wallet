@@ -1,1 +1,1 @@
-var mnemonic = "unusual ski lesson champion helmet guilt salon kid garlic pear caution drop";
+var mnemonic = "purse mansion cry brown smile surround oxygen topple suspect unlock romance monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar cage garage any naive lift mouse escape claw aware oxygen stomach";
+var mnemonic = "shoot saddle someone fire enroll print reunion enhance drum note comic castle";

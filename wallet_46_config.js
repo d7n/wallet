@@ -1,1 +1,1 @@
-var mnemonic = "armed news narrow adapt south oval warfare salt evoke alone busy ten";
+var mnemonic = "hope drift theme skill regular pride fish orphan bone chimney gym spice";

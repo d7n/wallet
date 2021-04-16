@@ -1,1 +1,1 @@
-var mnemonic = "rookie fashion turkey rubber spoon collect link gesture vapor stone dry nerve";
+var mnemonic = "barrel shuffle pen escape memory salad primary aisle upon angry proof paddle";

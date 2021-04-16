@@ -1,1 +1,1 @@
-var mnemonic = "when horse drastic twelve second tissue equip pumpkin lobster elbow ivory climb";
+var mnemonic = "elephant nominee damage cool coral hire toward decorate antique mesh feed awful";

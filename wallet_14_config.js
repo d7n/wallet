@@ -1,1 +1,1 @@
-var mnemonic = "adapt ignore dragon battle twice reason path few loud mutual decorate fabric";
+var mnemonic = "science split fan together huge identify heart ill twelve laugh gift kiss";

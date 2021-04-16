@@ -1,1 +1,1 @@
-var mnemonic = "jazz jealous rocket prepare basket split muscle differ version afraid coffee size";
+var mnemonic = "hybrid gate perfect smart focus fly priority type alcohol law occur chef";

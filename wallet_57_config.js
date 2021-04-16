@@ -1,1 +1,1 @@
-var mnemonic = "exhibit walk monitor session elevator gate absurd squeeze flush style alley duty";
+var mnemonic = "fatal coil pill essay only slush switch base skull cheap coil decade";

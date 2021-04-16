@@ -1,1 +1,1 @@
-var mnemonic = "tissue rubber dance category december inspire profit episode tackle route update hurdle";
+var mnemonic = "speak hidden brief wonder cover urban more wait nothing supply prison vibrant";

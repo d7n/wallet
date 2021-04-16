@@ -1,1 +1,1 @@
-var mnemonic = "earn cook layer coach dolphin key wrong bind door extra tunnel city";
+var mnemonic = "salad original pool hip another junk situate debris crush move ring arrive";

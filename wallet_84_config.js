@@ -1,1 +1,1 @@
-var mnemonic = "salt around route enough summer snack dizzy prepare bulk ring vast feel";
+var mnemonic = "fall vintage jacket shock faith fish sight path regret library snake inside";

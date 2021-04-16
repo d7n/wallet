@@ -1,1 +1,1 @@
-var mnemonic = "adapt struggle exotic wood crash enroll tooth dilemma debate scissors mosquito property";
+var mnemonic = "glass drift naive donate version toss infant tattoo punch blanket vehicle car";

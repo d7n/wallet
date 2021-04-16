@@ -1,1 +1,1 @@
-var mnemonic = "neglect burst tortoise engage deny grit page pelican belt measure ceiling drink";
+var mnemonic = "invest able return wrestle garbage edge comic position fun build script garage";

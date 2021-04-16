@@ -1,1 +1,1 @@
-var mnemonic = "holiday glory witness rally where ocean elevator potato media addict island monitor";
+var mnemonic = "burden fan gate chase pause monkey canvas tone tag giraffe arrange bronze";

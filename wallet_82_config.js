@@ -1,1 +1,1 @@
-var mnemonic = "dirt symptom few math swear urban rare stick now puzzle silk club";
+var mnemonic = "sound staff duck fetch atom express loud survey enact bonus system youth";

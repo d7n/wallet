@@ -1,1 +1,1 @@
-var mnemonic = "news planet pottery approve vapor slush struggle require wheel cloth more task";
+var mnemonic = "skate embody absorb vintage cannon wheat surface emerge physical refuse kidney skin";

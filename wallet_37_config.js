@@ -1,1 +1,1 @@
-var mnemonic = "seminar inform team anchor level detail erupt lyrics obscure differ fragile patch";
+var mnemonic = "avocado advice siege wreck front ancient angry awful park draw salad bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "embark ghost student wash pupil width city abuse flower volume zoo achieve";
+var mnemonic = "add ticket swift foot lunar beef crisp music survey where laugh rely";

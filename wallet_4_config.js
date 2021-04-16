@@ -1,1 +1,1 @@
-var mnemonic = "dry area elevator bullet opera maze age speak today inform owner gold";
+var mnemonic = "lion field body beach doctor scorpion believe skull polar obey delay bread";

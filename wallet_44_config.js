@@ -1,1 +1,1 @@
-var mnemonic = "forget poet toss galaxy switch ship cupboard spray produce virus gym exile";
+var mnemonic = "icon coil candy hidden brush know length future practice strike input hollow";

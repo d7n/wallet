@@ -1,1 +1,1 @@
-var mnemonic = "critic super truth wrestle safe noble stick exit biology naive hedgehog lesson";
+var mnemonic = "pottery casino trophy drastic reunion recycle reunion flush dance sniff parent vote";

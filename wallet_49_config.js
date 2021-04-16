@@ -1,1 +1,1 @@
-var mnemonic = "arm favorite raven letter insane define judge laptop swing garment hero debate";
+var mnemonic = "cloud toward penalty shop tuna gesture knee fit install term hen unusual";

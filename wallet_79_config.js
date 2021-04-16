@@ -1,1 +1,1 @@
-var mnemonic = "session ketchup confirm mesh gloom away curtain cluster magic shine hero ridge";
+var mnemonic = "mix mobile winter yellow thumb life stairs vehicle photo deposit iron siege";

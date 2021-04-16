@@ -1,1 +1,1 @@
-var mnemonic = "deer pizza view between man play absent impose net melt equal equip";
+var mnemonic = "mad first quick shadow time switch circle letter fame mushroom unknown gown";

@@ -1,1 +1,1 @@
-var mnemonic = "close kite muffin urge plug lion special network fine nuclear odor unhappy";
+var mnemonic = "dance network trade wild void reform link improve jacket lumber fish venue";

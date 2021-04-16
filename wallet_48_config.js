@@ -1,1 +1,1 @@
-var mnemonic = "vague text trap cabbage embark chat visual addict into evoke dream shop";
+var mnemonic = "depth coral seed verify cloth eagle alpha couple jacket trap pen almost";

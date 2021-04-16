@@ -1,1 +1,1 @@
-var mnemonic = "elite size immune fold common message video dumb select when critic tool";
+var mnemonic = "asset sphere height shy know sustain net split fruit name affair antique";

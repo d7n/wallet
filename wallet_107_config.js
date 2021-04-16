@@ -1,1 +1,1 @@
-var mnemonic = "use blast radar install plug pair dawn autumn script chunk urge sunny";
+var mnemonic = "any turtle matrix pass rely cart kit ridge rather discover nest pledge";

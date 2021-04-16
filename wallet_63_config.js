@@ -1,1 +1,1 @@
-var mnemonic = "chalk onion dirt erosion basket survey faith nasty exile hard wonder carry";
+var mnemonic = "shield scatter pigeon buffalo exist parade army claw permit evidence beach clutch";

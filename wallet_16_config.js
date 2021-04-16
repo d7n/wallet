@@ -1,1 +1,1 @@
-var mnemonic = "jazz sponsor tongue grit unfair best repeat ill catalog metal decade whale";
+var mnemonic = "split route goose accuse bitter damage credit diagram bracket topic secret worth";

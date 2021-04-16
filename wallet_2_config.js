@@ -1,1 +1,1 @@
-var mnemonic = "patch awake acid enhance theme together cruel web project shallow indicate obtain";
+var mnemonic = "junk pledge allow trigger job idle please tired egg secret heart tragic";

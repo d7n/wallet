@@ -1,1 +1,1 @@
-var mnemonic = "post normal legend pink void seat enjoy pencil hybrid govern citizen hotel";
+var mnemonic = "garment family wide segment street change insect thunder head spoon guitar hole";

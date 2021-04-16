@@ -1,1 +1,1 @@
-var mnemonic = "craft beach anxiety ceiling solid feel morning pink auction journey gospel situate";
+var mnemonic = "later drift found put trial hard edge voyage orient season wall between";

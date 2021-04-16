@@ -1,1 +1,1 @@
-var mnemonic = "family minor furnace doll oxygen turtle eyebrow ugly kangaroo leg sister damage";
+var mnemonic = "artwork hybrid coin patch sea horror leaf trouble spirit profit agent erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "time sorry length nurse tooth issue question ridge lens satoshi case rug";
+var mnemonic = "sheriff vocal regret claw system real abandon language either assault shed same";

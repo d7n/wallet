@@ -1,1 +1,1 @@
-var mnemonic = "quick merge inhale recipe auction buyer warfare fancy sword cram item genre";
+var mnemonic = "dog yard jelly review cruel north offer swap dynamic tower stomach suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "chest please broken act wink unable lion roast pretty warrior proud office";
+var mnemonic = "donor twist quote swarm unveil pull trust merge begin supply volcano make";

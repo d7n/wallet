@@ -1,1 +1,1 @@
-var mnemonic = "slot aim worry someone stable crystal trend claim federal salon fox hunt";
+var mnemonic = "glue initial number monster point enter brave page lion subway flee deal";

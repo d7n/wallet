@@ -1,1 +1,1 @@
-var mnemonic = "roof elevator disorder sound point wave maximum make frog tortoise atom remove";
+var mnemonic = "exercise acquire chief zone fury inner slight word feature circle oak ramp";

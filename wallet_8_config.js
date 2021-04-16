@@ -1,1 +1,1 @@
-var mnemonic = "behind spirit unlock material device end media photo ugly common trip puppy";
+var mnemonic = "diagram hover during title cancel screen profit excuse diet upper differ siren";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket famous crisp subject vague blame leader alter pass merry ensure globe";
+var mnemonic = "strong try sphere daughter together ranch frog early wink apple voyage act";

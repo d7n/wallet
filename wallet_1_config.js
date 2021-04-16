@@ -1,1 +1,1 @@
-var mnemonic = "ripple thought much hero grant clarify craft electric beef learn trophy injury";
+var mnemonic = "original acoustic avoid trouble judge critic vanish man bracket hobby embark pink";

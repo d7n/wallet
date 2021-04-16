@@ -1,1 +1,1 @@
-var mnemonic = "teach coral accident fruit travel imitate crop later mushroom three leader juice";
+var mnemonic = "knife symptom enact sister crucial hidden fix horse express comic general teach";

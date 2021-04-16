@@ -1,1 +1,1 @@
-var mnemonic = "cool image other fantasy dentist menu trick margin peace proof blouse tomorrow";
+var mnemonic = "ensure relief giant foster autumn snake deer wheel repeat south myth drive";

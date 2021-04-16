@@ -1,1 +1,1 @@
-var mnemonic = "drink update margin polar major polar motion bullet monster course secret echo";
+var mnemonic = "ramp example small traffic hamster renew butter celery merge demise that eye";

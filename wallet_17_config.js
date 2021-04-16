@@ -1,1 +1,1 @@
-var mnemonic = "virtual light enough acquire heart bless stamp siege belt riot laundry impact";
+var mnemonic = "drill race always nominee bread genuine anger wine always noble unhappy once";

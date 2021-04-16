@@ -1,1 +1,1 @@
-var mnemonic = "license wink guess enrich flower demise clinic evoke invite enough dash jaguar";
+var mnemonic = "slot siege sunset monster gas loud lizard donkey love finish gun pilot";

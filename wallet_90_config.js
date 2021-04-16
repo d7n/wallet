@@ -1,1 +1,1 @@
-var mnemonic = "foil aerobic among planet endless canyon sting trouble target float inch divide";
+var mnemonic = "weird valve pole alley spot culture dinner victory mule slogan loop concert";

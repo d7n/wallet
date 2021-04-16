@@ -1,1 +1,1 @@
-var mnemonic = "course tower mule cliff prepare beach season polar bundle defense wine scout";
+var mnemonic = "analyst bar nest dove squeeze excess negative mutual false clump segment thought";

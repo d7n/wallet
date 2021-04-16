@@ -1,1 +1,1 @@
-var mnemonic = "leave cheap riot jelly garment often satisfy february blade interest make under";
+var mnemonic = "choice half reduce layer shrug equip tenant point strike often dream gift";

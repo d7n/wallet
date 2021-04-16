@@ -1,1 +1,1 @@
-var mnemonic = "same dolphin split stand dilemma script gift garbage burst useless guitar animal";
+var mnemonic = "arena equal crawl rural rude stay fine gym mechanic sea buyer glimpse";

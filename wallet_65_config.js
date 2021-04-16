@@ -1,1 +1,1 @@
-var mnemonic = "insect beyond steak rain bubble derive tower play stamp afraid have paddle";
+var mnemonic = "neck warrior tip assume ship moment predict risk nose candy chunk equip";

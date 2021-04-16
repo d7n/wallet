@@ -1,1 +1,1 @@
-var mnemonic = "cute tape draft ancient guess undo visual under awful shift area axis";
+var mnemonic = "panda waste vacant rifle ceiling car vague drip hamster disagree fury pyramid";

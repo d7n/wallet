@@ -1,1 +1,1 @@
-var mnemonic = "purchase wine tornado tray maple gentle output quit slow emerge shed device";
+var mnemonic = "biology present absent boring year rude warm air night enhance situate option";

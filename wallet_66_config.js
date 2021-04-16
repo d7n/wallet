@@ -1,1 +1,1 @@
-var mnemonic = "alert parade crop forget aerobic initial chef coast path pole congress diet";
+var mnemonic = "dawn space cigar swift mail final umbrella draw federal rotate sorry acoustic";

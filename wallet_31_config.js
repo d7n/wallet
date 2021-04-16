@@ -1,1 +1,1 @@
-var mnemonic = "cost book boost vendor siege excuse aspect venture wild series leave crew";
+var mnemonic = "point tired stay mansion inflict limb wasp glimpse opera pitch blade visual";

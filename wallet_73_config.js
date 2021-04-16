@@ -1,1 +1,1 @@
-var mnemonic = "senior uniform negative punch differ laptop horn away puppy file isolate zero";
+var mnemonic = "make sting plastic alpha junk weekend dinner angle cliff similar crime trial";

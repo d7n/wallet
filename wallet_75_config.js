@@ -1,1 +1,1 @@
-var mnemonic = "visual valley audit dragon spring assume execute ski trash during test tongue";
+var mnemonic = "shine bargain below coin orient spoil dismiss trap expire educate excuse bacon";

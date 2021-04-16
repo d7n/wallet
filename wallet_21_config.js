@@ -1,1 +1,1 @@
-var mnemonic = "bird shy wise top theory soft copper fork rebel tribe item above";
+var mnemonic = "unable spice purse mercy rally much price minor age horse heavy ridge";

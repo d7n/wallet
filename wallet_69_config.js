@@ -1,1 +1,1 @@
-var mnemonic = "gadget pill antenna degree rescue acquire blush once what fork vital math";
+var mnemonic = "siren price cry logic limit together resist hundred want check observe model";

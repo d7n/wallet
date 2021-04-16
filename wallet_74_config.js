@@ -1,1 +1,1 @@
-var mnemonic = "joke reveal eager door happy behind tumble tape lonely great fence verify";
+var mnemonic = "thing summer tongue stock crane all family cross grocery token shoot opinion";

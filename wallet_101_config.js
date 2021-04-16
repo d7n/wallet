@@ -1,1 +1,1 @@
-var mnemonic = "all cool quiz devote crew pave top toilet child direct pony decade";
+var mnemonic = "forum property cousin horror ladder spell increase vocal motion perfect noble tone";

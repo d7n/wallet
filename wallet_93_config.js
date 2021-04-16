@@ -1,1 +1,1 @@
-var mnemonic = "sphere stumble beach athlete close outer caution zone slogan room sort under";
+var mnemonic = "swing spare achieve license tank dumb resist vendor correct apart raccoon prosper";

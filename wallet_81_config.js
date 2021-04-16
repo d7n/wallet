@@ -1,1 +1,1 @@
-var mnemonic = "script brain depend accuse special mixture cabin fine best vicious bread play";
+var mnemonic = "attack pond lion shove panel hood piece video lawn eternal fury camera";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow genuine truly proof huge favorite fly burden curve pause rubber lens";
+var mnemonic = "between artefact busy aisle pull candy loan pelican flower pact woman decrease";

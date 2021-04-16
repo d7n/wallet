@@ -1,1 +1,1 @@
-var mnemonic = "decorate knock series one six liberty detail spirit round party ten promote";
+var mnemonic = "door canvas mind claim produce click daughter jealous learn fluid isolate screen";
