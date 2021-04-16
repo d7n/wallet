@@ -1,1 +1,1 @@
-var mnemonic = "clutch junior glide stool rude hollow describe chair panic suit mother ready";
+var mnemonic = "miss tool absurd unable fortune way easily fatigue rebel dream save annual";

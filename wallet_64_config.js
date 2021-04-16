@@ -1,1 +1,1 @@
-var mnemonic = "whale laptop winter you until swift anger december cup giant main wife";
+var mnemonic = "ethics entry prison unfold pretty version play evolve ginger pretty refuse decide";

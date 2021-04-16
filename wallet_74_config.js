@@ -1,1 +1,1 @@
-var mnemonic = "physical faith guide spy primary athlete wine debate detail eyebrow dad offer";
+var mnemonic = "transfer echo click glass egg great pelican snow boss captain stairs ice";

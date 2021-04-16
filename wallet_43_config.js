@@ -1,1 +1,1 @@
-var mnemonic = "decline unaware radar brief laugh imitate melody very awesome drive raven luggage";
+var mnemonic = "mimic vocal vanish gentle manual boost census exact giggle best figure nose";

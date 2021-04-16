@@ -1,1 +1,1 @@
-var mnemonic = "clump army valley moral stand flee fever mention truly insane add false";
+var mnemonic = "pave fade sport net romance series exit review flee nurse alarm course";

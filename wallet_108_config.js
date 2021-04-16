@@ -1,1 +1,1 @@
-var mnemonic = "oval audit burden discover waste oak manage enact lift valley glare flip";
+var mnemonic = "sustain promote recycle decrease lock bulk repair movie orphan thank cluster stuff";

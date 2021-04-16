@@ -1,1 +1,1 @@
-var mnemonic = "minute what finish snack squeeze dinosaur jar skin amateur receive boat unfair";
+var mnemonic = "candy theme blame helmet swallow tissue exist obvious urge assault rescue shallow";

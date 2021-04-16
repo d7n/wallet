@@ -1,1 +1,1 @@
-var mnemonic = "virus opera valid staff kid plunge board crunch height river finger fiction";
+var mnemonic = "hill worry ancient enroll wrestle guilt unusual truth pepper evidence essence depart";

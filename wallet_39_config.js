@@ -1,1 +1,1 @@
-var mnemonic = "borrow crawl fall step chase mutual buzz garbage talk stadium now end";
+var mnemonic = "raise drastic hip bomb steak drink remember artist nut always into cart";

@@ -1,1 +1,1 @@
-var mnemonic = "subject warm cave finger draft minor assist tape over jelly tourist multiply";
+var mnemonic = "sock whip hazard bone talk beef ugly swing session noble rocket identify";

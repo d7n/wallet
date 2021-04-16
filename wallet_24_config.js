@@ -1,1 +1,1 @@
-var mnemonic = "square market waste pelican caution whip dizzy inner immense depth easy power";
+var mnemonic = "jacket install man pig clinic indicate someone truck gym hurry uncle author";

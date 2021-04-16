@@ -1,1 +1,1 @@
-var mnemonic = "same thrive antique mandate object father silent slogan trust stairs mammal area";
+var mnemonic = "leg nothing farm movie great witness very raven gentle saddle rough volcano";

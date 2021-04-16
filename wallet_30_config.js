@@ -1,1 +1,1 @@
-var mnemonic = "awake loud odor wire minor valley valid govern silly subject stumble version";
+var mnemonic = "another torch bus bamboo bachelor pledge alpha decorate worry donor manage wood";

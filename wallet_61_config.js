@@ -1,1 +1,1 @@
-var mnemonic = "achieve flight file code you pair night smile seminar trend intact aim";
+var mnemonic = "kind share quality motion gun scatter carbon rubber oblige asset digital galaxy";

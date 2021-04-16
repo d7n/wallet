@@ -1,1 +1,1 @@
-var mnemonic = "noise cluster weekend lunch food resemble width chuckle zoo minor visit enjoy";
+var mnemonic = "crawl build shuffle dolphin attitude mechanic nothing wage razor file series roast";

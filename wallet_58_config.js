@@ -1,1 +1,1 @@
-var mnemonic = "fitness music clump daring turn unlock update uphold enter merit blush kangaroo";
+var mnemonic = "gate arrive thumb tobacco session spy mushroom train fit orient priority cable";

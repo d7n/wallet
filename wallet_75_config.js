@@ -1,1 +1,1 @@
-var mnemonic = "voyage thumb beyond drift sting organ blossom lab duty danger pledge cover";
+var mnemonic = "absent inside auto beyond salute across glove design industry best claw banner";

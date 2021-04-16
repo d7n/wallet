@@ -1,1 +1,1 @@
-var mnemonic = "social again father exercise taste broccoli kingdom year orient trim melt fat";
+var mnemonic = "myth remind lounge save alone narrow casual cargo tooth decide present purse";

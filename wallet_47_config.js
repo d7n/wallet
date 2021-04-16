@@ -1,1 +1,1 @@
-var mnemonic = "round census nose enjoy dry upgrade marine shoot sound clump rabbit nerve";
+var mnemonic = "true grief blossom outer giant valley cancel tell obtain window syrup rather";

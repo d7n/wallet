@@ -1,1 +1,1 @@
-var mnemonic = "domain lend payment put type slim author afford legal warm afraid room";
+var mnemonic = "remind air buffalo blossom weekend arch mask vacant learn talk clog female";

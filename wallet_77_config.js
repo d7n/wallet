@@ -1,1 +1,1 @@
-var mnemonic = "dutch maze kitten armed network ahead mother slogan chair orient bid pudding";
+var mnemonic = "bullet flight rigid exhibit blouse regret elegant century physical recipe shock solar";

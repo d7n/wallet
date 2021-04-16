@@ -1,1 +1,1 @@
-var mnemonic = "spike smooth brand fatal arrest hundred sell term riot spot tower elegant";
+var mnemonic = "sustain cancel hurry latin chief ladder snack office long pluck bulk agree";

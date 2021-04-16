@@ -1,1 +1,1 @@
-var mnemonic = "unaware rigid expect wrong keep add total holiday concert convince axis news";
+var mnemonic = "grab file cigar labor rally level slice proud trap sunset vocal romance";

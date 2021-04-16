@@ -1,1 +1,1 @@
-var mnemonic = "thing erase link chaos globe wide curious style shrug shaft scorpion list";
+var mnemonic = "sleep stick hole furnace parade topic boil coyote message neither quantum game";

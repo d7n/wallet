@@ -1,1 +1,1 @@
-var mnemonic = "forum unveil jelly sail price inherit clip sheriff false bright tone awake";
+var mnemonic = "shrug engine cook love square depth pledge example noodle quote breeze live";

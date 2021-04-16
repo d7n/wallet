@@ -1,1 +1,1 @@
-var mnemonic = "pizza jacket enough video omit mystery shadow street false violin yellow nominee";
+var mnemonic = "call scrap team absorb rely jeans goddess grant satoshi win throw obscure";

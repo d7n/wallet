@@ -1,1 +1,1 @@
-var mnemonic = "reduce march citizen cause destroy shock creek decline penalty agree sponsor valid";
+var mnemonic = "fence mimic machine side fix corn place eternal bundle frozen luggage apple";

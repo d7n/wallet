@@ -1,1 +1,1 @@
-var mnemonic = "latin harsh exchange biology subject coil session error frozen coyote unlock crush";
+var mnemonic = "roast forget know dawn party february decline list age wasp myth whisper";

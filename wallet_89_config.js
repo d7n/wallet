@@ -1,1 +1,1 @@
-var mnemonic = "siren cousin fatal access cycle more defy garden cup praise blush jazz";
+var mnemonic = "sand tuna mobile ticket mystery private company horror obvious easily pond mesh";

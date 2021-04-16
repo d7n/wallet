@@ -1,1 +1,1 @@
-var mnemonic = "quantum keep shrug reduce moment expose cigar bleak senior assault unhappy ski";
+var mnemonic = "air year muscle bread erosion jungle popular photo start raise dwarf avoid";

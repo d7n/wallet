@@ -1,1 +1,1 @@
-var mnemonic = "utility tenant exclude shift pumpkin festival tourist saddle robot kick voice mail";
+var mnemonic = "agent extra grow elephant legend guitar loyal ignore defy midnight isolate blood";

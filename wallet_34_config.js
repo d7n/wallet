@@ -1,1 +1,1 @@
-var mnemonic = "that alley leaf casino ghost kiss tornado effort tomorrow error cute motion";
+var mnemonic = "guess birth second dove anxiety dad legal record nominee task badge degree";

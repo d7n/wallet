@@ -1,1 +1,1 @@
-var mnemonic = "course plunge claw pepper cliff crime useful system cycle total sadness tip";
+var mnemonic = "monitor equip dune truly void trade rose between property topple fine distance";

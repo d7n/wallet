@@ -1,1 +1,1 @@
-var mnemonic = "have unit elder bulb party power fork raw call reduce path paddle";
+var mnemonic = "annual essay slogan collect recall peace pipe relax motor host veteran hen";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow resource claw table upper border faint license rifle feed atom hammer";
+var mnemonic = "prize saddle bottom edge stand poem kid road flame deputy canoe code";

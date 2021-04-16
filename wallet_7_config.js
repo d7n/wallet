@@ -1,1 +1,1 @@
-var mnemonic = "zoo rocket attack spy rigid essence injury major guilt bridge birth depth";
+var mnemonic = "erosion uphold street approve false fatal choose phrase curve ghost monitor brown";

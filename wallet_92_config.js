@@ -1,1 +1,1 @@
-var mnemonic = "power dinner next door loud tip grant shed magic unaware embrace man";
+var mnemonic = "crack general border liquid arrest mango panel abstract satoshi agree torch multiply";

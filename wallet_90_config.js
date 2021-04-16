@@ -1,1 +1,1 @@
-var mnemonic = "excuse begin sniff leopard south goose else winter wing disorder shoot group";
+var mnemonic = "cloth cat virus hunt fence almost relax junior enact mean winter question";

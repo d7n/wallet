@@ -1,1 +1,1 @@
-var mnemonic = "faint near vague theory clown depart weasel under little open prize favorite";
+var mnemonic = "fine bench follow final math idle security citizen tonight mass rug great";

@@ -1,1 +1,1 @@
-var mnemonic = "owner first climb soon relax asthma safe rose dog garment infant acoustic";
+var mnemonic = "turkey ring this coach girl assist chair across pond depth second cereal";

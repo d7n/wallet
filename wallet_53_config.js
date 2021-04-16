@@ -1,1 +1,1 @@
-var mnemonic = "oval busy pave inflict voyage clean blast split sell sniff luxury elbow";
+var mnemonic = "chunk tilt fashion medal volume bleak empty appear cherry tonight book bridge";

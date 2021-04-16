@@ -1,1 +1,1 @@
-var mnemonic = "satoshi celery arch squeeze half leg switch special shallow pistol coyote rice";
+var mnemonic = "when front box stem advance trash viable bamboo awful song clip dawn";

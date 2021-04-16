@@ -1,1 +1,1 @@
-var mnemonic = "spoon zero food fix motion fancy tennis slice pretty finger core crater";
+var mnemonic = "arrange cream gun bread oval coyote push decide item enter sign ring";

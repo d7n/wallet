@@ -1,1 +1,1 @@
-var mnemonic = "rare fun essence priority repeat require oven sentence cruise magic display bench";
+var mnemonic = "banana eye describe park onion guilt culture denial urban spring jelly crush";

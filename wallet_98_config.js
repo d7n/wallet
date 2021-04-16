@@ -1,1 +1,1 @@
-var mnemonic = "whale put wrap again price inside repeat wage salon pigeon rug thumb";
+var mnemonic = "tiny concert ask much wife apart chunk gown deny plug annual remind";

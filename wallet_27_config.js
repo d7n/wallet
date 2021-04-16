@@ -1,1 +1,1 @@
-var mnemonic = "badge setup cat number select mother shiver rather wish skin need return";
+var mnemonic = "step congress catch spoon speed mixture expect three where canal hurdle walk";

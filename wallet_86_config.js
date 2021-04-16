@@ -1,1 +1,1 @@
-var mnemonic = "merry clean curious captain blossom awake mercy mesh close asthma churn clip";
+var mnemonic = "census afford dust secret veteran topic mixture lend fun similar razor come";

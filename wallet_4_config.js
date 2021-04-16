@@ -1,1 +1,1 @@
-var mnemonic = "jacket monster attract super drama tooth course diesel tortoise earn detect hole";
+var mnemonic = "runway skill kidney slot cry strategy cloud imitate law modify step off";

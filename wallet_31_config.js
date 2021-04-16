@@ -1,1 +1,1 @@
-var mnemonic = "brain search raise push tent belt album outer curve basic leg resource";
+var mnemonic = "trick deny hedgehog hover winner south prepare illness wear endless parrot calm";

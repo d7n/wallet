@@ -1,1 +1,1 @@
-var mnemonic = "scrap extend salt frame public pepper real typical viable twist kangaroo cupboard";
+var mnemonic = "local express process supreme raise oil elite twist smooth soup wet tent";

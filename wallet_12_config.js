@@ -1,1 +1,1 @@
-var mnemonic = "raise radar fringe jazz disorder puzzle road minor number father other census";
+var mnemonic = "wing version valve two dignity illegal slide left fork upset need script";

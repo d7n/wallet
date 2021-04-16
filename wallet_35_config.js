@@ -1,1 +1,1 @@
-var mnemonic = "skirt buddy base stable follow patient ticket wire prize region crash prison";
+var mnemonic = "suffer law brisk degree system dwarf amused license more hollow maple crumble";

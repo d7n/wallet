@@ -1,1 +1,1 @@
-var mnemonic = "symbol combine endorse engage pretty initial topic setup drum turn civil volume";
+var mnemonic = "collect siege bulk hill lift magnet tissue wash cover neck knife before";

@@ -1,1 +1,1 @@
-var mnemonic = "chase lazy life scissors regret oil genre peace burger music high credit";
+var mnemonic = "movie lion gauge resist sentence holiday witness meat wish soccer flame card";

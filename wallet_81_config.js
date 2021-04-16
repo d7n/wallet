@@ -1,1 +1,1 @@
-var mnemonic = "movie polar quality hammer shield unit album latin stone humor strong swim";
+var mnemonic = "cake they junk maid wisdom chuckle keep board media gift barely wedding";

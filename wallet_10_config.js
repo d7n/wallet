@@ -1,1 +1,1 @@
-var mnemonic = "drift mechanic shoulder give toast help search cake celery license fatigue skirt";
+var mnemonic = "cloth test target buyer barrel champion auction suspect run desert arctic rescue";

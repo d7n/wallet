@@ -1,1 +1,1 @@
-var mnemonic = "neck athlete sun minimum fish crumble unaware heart offer acoustic salute extend";
+var mnemonic = "recycle rent black timber chief cattle win expose basket profit paper pretty";

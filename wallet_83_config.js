@@ -1,1 +1,1 @@
-var mnemonic = "amateur bean buzz error defense cry melody blast grain copy aim topple";
+var mnemonic = "tenant hobby behave bright attitude grain cabin joy sweet clog fork suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "summer girl unveil cargo ribbon warrior practice either angry fade stairs ozone";
+var mnemonic = "insect caught such artist joke bracket physical hope little tuna tribe speed";

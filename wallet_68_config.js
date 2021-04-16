@@ -1,1 +1,1 @@
-var mnemonic = "emotion fat home relax network insane chase machine noble fruit guard glimpse";
+var mnemonic = "urban all token skirt cool when junk unlock case step purchase giraffe";

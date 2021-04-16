@@ -1,1 +1,1 @@
-var mnemonic = "dog horror salmon jump because detail clock gaze vacant truth able target";
+var mnemonic = "used robot cover harvest story craft humor noise work give idle amazing";

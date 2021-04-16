@@ -1,1 +1,1 @@
-var mnemonic = "own wisdom icon drive laundry slim elegant firm impulse style job design";
+var mnemonic = "drastic siren friend token ensure stem cruel elephant train thrive jeans blade";

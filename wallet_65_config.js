@@ -1,1 +1,1 @@
-var mnemonic = "siege topic wedding two depart sell mean bronze scissors human bronze outdoor";
+var mnemonic = "stadium possible jacket unit sphere soul comic pluck bird spider method picnic";

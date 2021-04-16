@@ -1,1 +1,1 @@
-var mnemonic = "assist olympic laundry silver scout repeat rotate february success enhance where depend";
+var mnemonic = "fringe dance whisper world duty mix track dinosaur retire inquiry enlist blossom";

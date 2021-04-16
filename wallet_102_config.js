@@ -1,1 +1,1 @@
-var mnemonic = "blood brisk romance castle climb survey dignity digital rely add rigid cloud";
+var mnemonic = "atom cement apology awesome gift job chimney ripple wild park inherit veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger doll praise keen magic citizen client donate mother network key grid";
+var mnemonic = "divert occur marine journey giraffe lamp rude task lazy include large crystal";

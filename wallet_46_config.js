@@ -1,1 +1,1 @@
-var mnemonic = "arm meat person convince master ticket cricket keen twin gate drastic library";
+var mnemonic = "this roof neck under deal pen sentence woman sketch caution option struggle";

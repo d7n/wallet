@@ -1,1 +1,1 @@
-var mnemonic = "bullet word forest tennis heart island gym spend prefer local property noodle";
+var mnemonic = "little science festival witness moon reason north phrase crane flame rebel tunnel";

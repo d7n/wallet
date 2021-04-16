@@ -1,1 +1,1 @@
-var mnemonic = "scrap glue juice relief wealth add chicken want series bicycle cargo category";
+var mnemonic = "run oil auto save live mansion appear treat eternal yard fun enhance";

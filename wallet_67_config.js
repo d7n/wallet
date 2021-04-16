@@ -1,1 +1,1 @@
-var mnemonic = "salute clip zero hat ordinary lamp purse name empty action bid slogan";
+var mnemonic = "crash party ahead symbol where chicken sing nerve guide goose dinner same";

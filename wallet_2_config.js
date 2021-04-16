@@ -1,1 +1,1 @@
-var mnemonic = "brother unveil strike little spoon brother fee collect student tilt welcome state";
+var mnemonic = "oil inflict toward twice involve reform cancel hen dutch math snow century";

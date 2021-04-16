@@ -1,1 +1,1 @@
-var mnemonic = "task senior exit aerobic among dirt broom impulse gasp put funny hope";
+var mnemonic = "fix motion fragile profit brisk convince aim remind humor gasp iron swarm";

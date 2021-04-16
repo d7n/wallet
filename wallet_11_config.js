@@ -1,1 +1,1 @@
-var mnemonic = "prevent resist common promote easily runway again fruit trim bless put belt";
+var mnemonic = "chef rule phrase sun gentle state wire acid divorce hill alter cradle";

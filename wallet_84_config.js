@@ -1,1 +1,1 @@
-var mnemonic = "leave document narrow galaxy clog push senior green party mad valve few";
+var mnemonic = "breeze rule input elegant dumb almost name office salon reject hospital vault";

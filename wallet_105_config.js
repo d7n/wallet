@@ -1,1 +1,1 @@
-var mnemonic = "bitter front pattern want awful way demise judge wise chimney hybrid edge";
+var mnemonic = "country cloth wage under wear unit canal delay giraffe excite village cushion";

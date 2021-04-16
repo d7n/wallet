@@ -1,1 +1,1 @@
-var mnemonic = "fence regular require fatigue enrich illegal arrive copy slab edit hero door";
+var mnemonic = "use rigid defy evil frequent hat world tide bless genius camp calm";

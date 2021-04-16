@@ -1,1 +1,1 @@
-var mnemonic = "word lemon mosquito reform bronze purchase erode three neutral fish student clarify";
+var mnemonic = "move reward music poet head pond weird cannon this scene window boil";

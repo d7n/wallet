@@ -1,1 +1,1 @@
-var mnemonic = "essay never hybrid front topic fire liberty vote true guard lion face";
+var mnemonic = "dilemma gallery giggle belt warrior suffer ankle license motor buffalo wonder dad";

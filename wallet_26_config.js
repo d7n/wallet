@@ -1,1 +1,1 @@
-var mnemonic = "marble honey glue mirror stomach simple blood mango wing accuse junk neutral";
+var mnemonic = "desert act sphere exist relax nest silly snake boost tuna math woman";

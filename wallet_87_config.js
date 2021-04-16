@@ -1,1 +1,1 @@
-var mnemonic = "window sentence exist endless wild throw unaware question nominee sister novel wing";
+var mnemonic = "escape client confirm oak praise net fat inject remove patrol exile eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "mention tattoo text garbage rug stadium guitar aisle crush donate north enough";
+var mnemonic = "often deer whip raise skin spatial maze clump vapor perfect either swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "banner clutch narrow accuse congress net hungry trend very ride pudding train";
+var mnemonic = "ceiling brass coil rich size host canal salt modify link dilemma cup";

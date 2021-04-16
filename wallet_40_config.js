@@ -1,1 +1,1 @@
-var mnemonic = "fuel soul rookie mention laundry humor couch grace better brick soda alcohol";
+var mnemonic = "book chuckle floor sudden donkey snow iron split cheap unusual sibling taxi";

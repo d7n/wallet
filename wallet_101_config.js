@@ -1,1 +1,1 @@
-var mnemonic = "worry basic wide grant right acoustic squirrel dog snow decade art concert";
+var mnemonic = "move stomach rebuild harsh popular fire smooth economy beyond hundred vivid hover";

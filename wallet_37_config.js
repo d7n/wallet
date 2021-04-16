@@ -1,1 +1,1 @@
-var mnemonic = "fetch icon grab receive occur opinion reason pair visit empty lesson obtain";
+var mnemonic = "erupt cereal asthma minute stuff gaze alter question increase now response canal";

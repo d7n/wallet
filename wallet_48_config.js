@@ -1,1 +1,1 @@
-var mnemonic = "work ginger vital laptop salon pool kiss daughter task chair scare system";
+var mnemonic = "snap run volume host sheriff spirit bright material cushion try repeat column";

@@ -1,1 +1,1 @@
-var mnemonic = "dry tell raccoon once flee sheriff edit brief grunt tilt border company";
+var mnemonic = "canal find emotion cabin people wash already brand pear lawsuit tongue slice";

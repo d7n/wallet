@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fish elbow design hidden grunt ordinary fever toilet artist fiction energy";
+var mnemonic = "frozen infant decade fitness trophy answer tortoise alone cable pluck barely author";

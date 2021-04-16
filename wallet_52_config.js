@@ -1,1 +1,1 @@
-var mnemonic = "furnace body assume drift joy soccer tennis clap shift soul power pulp";
+var mnemonic = "sport cry gift dove smile divide tragic narrow garlic ramp measure carpet";

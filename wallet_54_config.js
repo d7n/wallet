@@ -1,1 +1,1 @@
-var mnemonic = "tail chase office ridge science best empower beyond waste budget mask crawl";
+var mnemonic = "transfer dream leader guitar omit brain action sell often planet bullet mule";
