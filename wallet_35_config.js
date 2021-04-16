@@ -1,1 +1,1 @@
-var mnemonic = "injury liar edge renew fabric visit wrap female essence roof royal milk";
+var mnemonic = "survey energy pipe know police maximum dove mammal unknown depth alpha miracle";

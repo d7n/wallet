@@ -1,1 +1,1 @@
-var mnemonic = "best flip actress sheriff duty fox learn crouch shop turkey they have";
+var mnemonic = "arch butter travel broom grid century slide fan glimpse rice detect rail";

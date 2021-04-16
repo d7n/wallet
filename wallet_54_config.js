@@ -1,1 +1,1 @@
-var mnemonic = "twelve supply purchase fix exhaust taxi coral mobile move health atom humor";
+var mnemonic = "light napkin close cushion forget screen various cabin adult outer cabin exit";

@@ -1,1 +1,1 @@
-var mnemonic = "day hamster bubble hospital receive arm modify february come situate more outdoor";
+var mnemonic = "lift upon affair educate soda series huge rifle defense opinion veteran salon";

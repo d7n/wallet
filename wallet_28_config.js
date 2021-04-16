@@ -1,1 +1,1 @@
-var mnemonic = "lemon unhappy cry select angle scatter change dust duck image diary loud";
+var mnemonic = "enjoy fiscal enter spray nature marriage skin damage ugly innocent fury record";

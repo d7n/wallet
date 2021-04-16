@@ -1,1 +1,1 @@
-var mnemonic = "neglect caution blast ivory dinosaur tank myth gas spell typical mean vintage";
+var mnemonic = "little already emotion giraffe move rich valley glad calm flight taxi control";

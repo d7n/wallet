@@ -1,1 +1,1 @@
-var mnemonic = "black either census coyote town swap nurse clay jungle similar glove tornado";
+var mnemonic = "bacon scheme access another sadness question denial prefer service hard page segment";

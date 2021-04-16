@@ -1,1 +1,1 @@
-var mnemonic = "choice faith conduct loop suit across say furnace forum acoustic lucky find";
+var mnemonic = "twin silent start birth length basket ask opera bundle nature client wolf";

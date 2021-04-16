@@ -1,1 +1,1 @@
-var mnemonic = "solve chest defense math void unable must marine note invest owner globe";
+var mnemonic = "hedgehog fossil will clean view police festival worry cheese defy simple sweet";

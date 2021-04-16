@@ -1,1 +1,1 @@
-var mnemonic = "vague senior cave alert grief crush define entire defy jelly dolphin brief";
+var mnemonic = "over engage solution extra review swarm stove hedgehog dog sting gorilla clip";

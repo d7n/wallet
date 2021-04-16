@@ -1,1 +1,1 @@
-var mnemonic = "soap raw minimum rail crazy evolve city exclude tone milk wood tonight";
+var mnemonic = "broccoli test miss excuse canal scan someone million call hero claw approve";

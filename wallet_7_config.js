@@ -1,1 +1,1 @@
-var mnemonic = "vacuum invite nest into tourist material submit express zebra cotton talent oyster";
+var mnemonic = "pencil tiny burger loud valid sun draw wedding crawl slush source senior";

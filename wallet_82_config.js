@@ -1,1 +1,1 @@
-var mnemonic = "fetch skin soft lamp canoe nation slab traffic cattle vanish about prefer";
+var mnemonic = "extra core march small lesson rebel meadow laptop joke cliff coil bird";

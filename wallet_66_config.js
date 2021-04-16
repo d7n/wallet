@@ -1,1 +1,1 @@
-var mnemonic = "tunnel route easily always volume vault milk awkward creek course table rug";
+var mnemonic = "liar innocent proof stand arctic cross book observe buddy swallow stock board";

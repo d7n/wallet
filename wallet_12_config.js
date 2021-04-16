@@ -1,1 +1,1 @@
-var mnemonic = "hybrid choose awake neither cluster fluid control east casual thumb muffin coin";
+var mnemonic = "around situate frozen media gather exchange test easy age cause hobby client";

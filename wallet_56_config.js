@@ -1,1 +1,1 @@
-var mnemonic = "match input mammal kiss fee science brass day catch steel mystery express";
+var mnemonic = "middle people wheat live cargo hungry repeat chunk exit tell basic clock";

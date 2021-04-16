@@ -1,1 +1,1 @@
-var mnemonic = "found lion team mobile fragile correct they various pudding meat fine weird";
+var mnemonic = "rare drive pledge hurry try expect hybrid during year retire version dose";

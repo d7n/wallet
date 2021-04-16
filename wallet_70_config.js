@@ -1,1 +1,1 @@
-var mnemonic = "furnace noodle finish hard obscure gain media clutch predict net bachelor muscle";
+var mnemonic = "muffin base game clinic casino better bottom pipe team suggest cry drama";

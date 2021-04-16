@@ -1,1 +1,1 @@
-var mnemonic = "dress wisdom dilemma lottery movie camera country mixed submit office soccer weird";
+var mnemonic = "coyote glass bachelor alter auto misery collect winner cricket between patch flush";

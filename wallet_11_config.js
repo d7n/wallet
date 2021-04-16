@@ -1,1 +1,1 @@
-var mnemonic = "pride spoon correct drama squirrel stock bomb smooth similar voyage trash giggle";
+var mnemonic = "fog coin deputy evoke surprise midnight rug rare payment again frog awkward";

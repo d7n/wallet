@@ -1,1 +1,1 @@
-var mnemonic = "ceiling heavy marriage chunk wedding unit bulb decrease cat build knock bind";
+var mnemonic = "toe palace labor cry birth grid unfold index cousin place promote action";

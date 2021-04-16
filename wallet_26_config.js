@@ -1,1 +1,1 @@
-var mnemonic = "number feature pool ahead claim cricket hurdle govern little broken black field";
+var mnemonic = "iron impulse emerge mansion all shell junk prison hurdle ensure aisle slush";

@@ -1,1 +1,1 @@
-var mnemonic = "network hungry mobile stadium deputy happy rain detail just post claw myth";
+var mnemonic = "law wage regular illegal equal tattoo ankle wire truth cotton labor muffin";

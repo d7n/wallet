@@ -1,1 +1,1 @@
-var mnemonic = "fruit fringe candy wing cliff silver father broom tired gallery limb term";
+var mnemonic = "kidney dove fragile tuna battle extend credit october scorpion program glue vault";

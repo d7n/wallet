@@ -1,1 +1,1 @@
-var mnemonic = "outer smooth seek receive slam foil faculty deal measure athlete ethics grit";
+var mnemonic = "book alpha again liquid impulse crush pulp kid life absorb program keen";

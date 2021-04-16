@@ -1,1 +1,1 @@
-var mnemonic = "pyramid dirt high rare forest under program inhale foster dune absorb lady";
+var mnemonic = "girl pitch faculty example own village history symptom agent leisure trust ranch";

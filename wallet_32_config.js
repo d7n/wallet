@@ -1,1 +1,1 @@
-var mnemonic = "typical session ribbon because major hurdle eternal hurdle latin cute betray shrug";
+var mnemonic = "foil giant chase clump tomato letter split puzzle produce medal fiber shrimp";

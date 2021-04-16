@@ -1,1 +1,1 @@
-var mnemonic = "assist perfect time round coin menu finish business alter dinner opinion ill";
+var mnemonic = "hub now demise change pluck burden decrease doctor ethics camera swap dress";

@@ -1,1 +1,1 @@
-var mnemonic = "animal refuse scatter runway victory short rural solution giggle floor grocery trend";
+var mnemonic = "neutral piano valid future exotic crack taxi rail model kind quarter gaze";

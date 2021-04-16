@@ -1,1 +1,1 @@
-var mnemonic = "reopen myth assist ready ability sauce poem dish warm lift sand scout";
+var mnemonic = "punch thank child glide giant affair organ sugar weird tooth husband genius";

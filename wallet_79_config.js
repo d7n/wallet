@@ -1,1 +1,1 @@
-var mnemonic = "unknown cancel move used school shadow three tortoise skill sport odor team";
+var mnemonic = "solution region wool leader salon sunny space biology faint renew endorse blood";

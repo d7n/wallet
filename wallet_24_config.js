@@ -1,1 +1,1 @@
-var mnemonic = "spawn winter able other blouse post water public deal repeat around engage";
+var mnemonic = "thumb result pottery symbol captain venture only grant glass crush route oak";

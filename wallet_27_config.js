@@ -1,1 +1,1 @@
-var mnemonic = "adapt treat unknown camera distance return myth tooth taxi battle sphere bounce";
+var mnemonic = "worry hidden fault face purpose riot ready shoe stadium region chicken autumn";

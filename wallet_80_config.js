@@ -1,1 +1,1 @@
-var mnemonic = "inner hen mistake focus reward inside person family child print liquid crowd";
+var mnemonic = "beef indicate scorpion local shallow horror service praise vital motion air pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "submit priority taste degree nut trick chair hover garage bunker gas ceiling";
+var mnemonic = "key list pause symptom volume rabbit habit toilet express video wasp grant";

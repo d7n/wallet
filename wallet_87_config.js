@@ -1,1 +1,1 @@
-var mnemonic = "trade announce bomb monkey gauge life already cover skin popular trouble duty";
+var mnemonic = "rare mechanic parent aspect margin edit person phrase clump matrix peanut proud";

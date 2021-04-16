@@ -1,1 +1,1 @@
-var mnemonic = "concert sugar cube blush poet aware small genuine spirit coyote earth year";
+var mnemonic = "frown tissue pond shop inner asset client cereal ready hood harbor crop";

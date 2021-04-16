@@ -1,1 +1,1 @@
-var mnemonic = "chat glad consider diary quit turn unit orphan ring fish word winter";
+var mnemonic = "top disagree south come fringe supreme aware sunny size real rookie stumble";

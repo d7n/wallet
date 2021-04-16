@@ -1,1 +1,1 @@
-var mnemonic = "ritual horn soap slow pull note fiber cliff rich knife garment violin";
+var mnemonic = "tissue matrix model advice attitude razor join organ furnace improve cook zero";

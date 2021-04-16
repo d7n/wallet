@@ -1,1 +1,1 @@
-var mnemonic = "share rookie tail advice crowd banner scene acoustic news vibrant aspect drive";
+var mnemonic = "bachelor live term penalty reunion length exit kingdom sphere wealth skirt devote";

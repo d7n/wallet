@@ -1,1 +1,1 @@
-var mnemonic = "night join muscle hockey match amused rival strong cube inch fury trumpet";
+var mnemonic = "bundle demise wish number gloom post maid web cause bitter high upon";

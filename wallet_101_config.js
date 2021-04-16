@@ -1,1 +1,1 @@
-var mnemonic = "awake then breeze quit walk dad extend grief price woman flee tone";
+var mnemonic = "fat twenty loyal mask twin oval fog beef muscle paddle stairs crystal";

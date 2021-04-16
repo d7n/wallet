@@ -1,1 +1,1 @@
-var mnemonic = "bitter globe february client butter option trial correct plate interest office segment";
+var mnemonic = "brisk welcome impulse diary shy eternal blade retreat radio seed grace phrase";

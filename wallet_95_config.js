@@ -1,1 +1,1 @@
-var mnemonic = "master forest silver salt impose tonight mobile stumble property amused erode taste";
+var mnemonic = "furnace wrestle boil prize little there alien quit myth luggage motor swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "alter toss broccoli coral quote rich zero similar oval curtain author country";
+var mnemonic = "lumber nose stand myth home gossip betray athlete ankle valid tiny first";

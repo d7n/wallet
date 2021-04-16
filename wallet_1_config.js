@@ -1,1 +1,1 @@
-var mnemonic = "diamond engage element ship foam order sketch refuse segment razor under motor";
+var mnemonic = "cruel swing column fitness oblige reveal exit outside trophy still toss grass";

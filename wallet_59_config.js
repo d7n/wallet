@@ -1,1 +1,1 @@
-var mnemonic = "summer hole shove settle attend word degree cute lazy moment artefact dizzy";
+var mnemonic = "domain police excite width caution twist sun learn guide travel apology north";

@@ -1,1 +1,1 @@
-var mnemonic = "pull gauge puzzle glance time crumble entire hair walk fit speed paper";
+var mnemonic = "book comfort casino spoil noise buffalo upon actor shadow inflict hurdle high";

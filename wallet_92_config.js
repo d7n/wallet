@@ -1,1 +1,1 @@
-var mnemonic = "finish eight forum capable speed pear often spy pledge antique online report";
+var mnemonic = "armed source expect owner title census portion local economy author quit risk";

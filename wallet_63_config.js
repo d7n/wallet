@@ -1,1 +1,1 @@
-var mnemonic = "law release plastic figure position sibling pretty hood travel school use inherit";
+var mnemonic = "rack design panda derive they please wreck must brass slab iron chair";

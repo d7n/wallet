@@ -1,1 +1,1 @@
-var mnemonic = "genius baby air joke unlock diamond lumber series prosper people draft next";
+var mnemonic = "flag portion wage music mercy satoshi urge culture slice leg relax horse";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler alien double pattern champion enroll salmon spirit program judge fox expand";
+var mnemonic = "sorry present three drill belt ride taste explain candy salt flock myth";

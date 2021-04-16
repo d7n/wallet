@@ -1,1 +1,1 @@
-var mnemonic = "fault focus believe mind doll primary gaze loud accident mixture decline noodle";
+var mnemonic = "badge ride boring demise bomb pretty eye dilemma put enough pool deal";

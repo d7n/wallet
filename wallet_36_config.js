@@ -1,1 +1,1 @@
-var mnemonic = "match end organ garlic roof genius click torch lobster pipe federal into";
+var mnemonic = "library twenty ketchup method glory basic peanut helmet asset domain sign valley";

@@ -1,1 +1,1 @@
-var mnemonic = "solve valley quiz unable simple orchard cash dish fruit addict wasp end";
+var mnemonic = "unfair service cat initial speak junior annual climb laundry ahead copper spot";

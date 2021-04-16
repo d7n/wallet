@@ -1,1 +1,1 @@
-var mnemonic = "recycle milk outside fetch forum monster chuckle again box helmet tail crisp";
+var mnemonic = "rack fossil rough mosquito thing rice clap kiwi oppose oyster base young";

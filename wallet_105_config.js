@@ -1,1 +1,1 @@
-var mnemonic = "fault noble boring blossom deposit income clean shock rely kiwi welcome aspect";
+var mnemonic = "assume tired play obtain sure wing marriage renew owner ginger six desert";

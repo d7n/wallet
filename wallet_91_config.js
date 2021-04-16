@@ -1,1 +1,1 @@
-var mnemonic = "couple fantasy gloom slice situate reject light into clap prison duck bounce";
+var mnemonic = "taste emerge blood also glad matrix choose expect width hood canoe company";

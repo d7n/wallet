@@ -1,1 +1,1 @@
-var mnemonic = "current idle chef title swing scene sauce approve swim upper echo prefer";
+var mnemonic = "permit uncover follow appear eager sun suffer city guess morning bring autumn";

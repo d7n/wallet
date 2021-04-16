@@ -1,1 +1,1 @@
-var mnemonic = "target during orphan borrow thing crime thing news fantasy cigar motion bargain";
+var mnemonic = "state topic spray original physical brisk anger merge miss cost grant tooth";

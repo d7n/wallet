@@ -1,1 +1,1 @@
-var mnemonic = "enforce hill armed always obey between hawk squeeze letter slender system truth";
+var mnemonic = "eyebrow wild betray rapid ill giant height metal celery wealth atom flight";

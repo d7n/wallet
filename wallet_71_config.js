@@ -1,1 +1,1 @@
-var mnemonic = "turn inquiry either will wait assault adjust lazy act fashion rebuild before";
+var mnemonic = "actress file thank eager clock elephant cargo dwarf now rude lamp sail";

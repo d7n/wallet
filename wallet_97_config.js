@@ -1,1 +1,1 @@
-var mnemonic = "hazard direct capital same ice company left hawk void clog lawsuit coconut";
+var mnemonic = "output ugly pupil guilt mirror move whisper gospel awake carbon dirt diet";

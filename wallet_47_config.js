@@ -1,1 +1,1 @@
-var mnemonic = "curve cluster reason about pig yard dose spike nominee mean evoke loyal";
+var mnemonic = "journey stage stem garment alarm ritual soldier merit pilot news drop march";

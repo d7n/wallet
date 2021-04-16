@@ -1,1 +1,1 @@
-var mnemonic = "oxygen install wonder disorder recycle throw net coin lend traffic army donate";
+var mnemonic = "evil quit ripple join speak edge stereo wrist vacuum doll cabbage jar";

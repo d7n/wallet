@@ -1,1 +1,1 @@
-var mnemonic = "bleak cricket shy success border lift pause game dove embody dilemma skill";
+var mnemonic = "carbon lyrics razor inside detail gap hero gate into ocean wing pudding";

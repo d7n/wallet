@@ -1,1 +1,1 @@
-var mnemonic = "permit hope rocket good salad high credit toy found armed urge spawn";
+var mnemonic = "grass canyon toilet note jeans roast another deputy before major slogan birth";

@@ -1,1 +1,1 @@
-var mnemonic = "certain speak chat gown embrace raise galaxy appear close final tumble any";
+var mnemonic = "habit rookie jewel fresh warm clap breeze noise solution time bounce evil";

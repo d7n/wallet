@@ -1,1 +1,1 @@
-var mnemonic = "glory country staff action frost isolate snake media beauty erosion result luggage";
+var mnemonic = "early sight notice dial online base march stereo grow syrup eyebrow grant";

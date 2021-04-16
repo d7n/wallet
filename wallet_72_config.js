@@ -1,1 +1,1 @@
-var mnemonic = "double live camera general trash entry old license uphold shock veteran latin";
+var mnemonic = "differ fatigue pioneer multiply funny card drop flower good left armor battle";

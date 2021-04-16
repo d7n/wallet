@@ -1,1 +1,1 @@
-var mnemonic = "town genuine neck safe travel combine point flip shove ramp worry horn";
+var mnemonic = "tooth aisle review solution confirm glimpse open female gym soon nasty harsh";

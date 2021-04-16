@@ -1,1 +1,1 @@
-var mnemonic = "cute caution mammal speed satisfy shallow chicken piece teach dice glimpse auto";
+var mnemonic = "curious wife rack clump chase column clown orbit wagon what pair torch";

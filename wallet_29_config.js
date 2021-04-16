@@ -1,1 +1,1 @@
-var mnemonic = "protect panic rally sure give ugly install volcano walk finger quote neither";
+var mnemonic = "liberty essay welcome security regular salmon concert ritual right tribe thumb elevator";

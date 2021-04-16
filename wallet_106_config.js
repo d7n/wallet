@@ -1,1 +1,1 @@
-var mnemonic = "already height index fame roast later alpha festival wrong second food canal";
+var mnemonic = "honey unlock bus liberty express coil glue steak hockey brand place sun";

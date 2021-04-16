@@ -1,1 +1,1 @@
-var mnemonic = "gain helmet punch picture mirror duty crisp very tilt card fork actual";
+var mnemonic = "cheese heavy grief nature lumber symbol firm tree later paddle frozen clay";

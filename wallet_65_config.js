@@ -1,1 +1,1 @@
-var mnemonic = "school enhance hockey amused calm blush entire unit enact height deer ramp";
+var mnemonic = "abuse polar baby comic genre street alone black invest focus calm mass";

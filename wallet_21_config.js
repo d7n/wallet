@@ -1,1 +1,1 @@
-var mnemonic = "appear arrive dad victory cup recall entry funny various toy brown neglect";
+var mnemonic = "coast bulk dice dish erosion patch train oppose upon kiwi dinosaur opera";

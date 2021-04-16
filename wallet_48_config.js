@@ -1,1 +1,1 @@
-var mnemonic = "minor sustain voice expect jeans plate salad quality similar describe scout rather";
+var mnemonic = "crazy improve bird hand load river tissue alter slow burst garment wrestle";

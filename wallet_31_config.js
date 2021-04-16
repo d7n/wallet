@@ -1,1 +1,1 @@
-var mnemonic = "float fiction siege drip receive grass mosquito dragon rule pottery fetch acquire";
+var mnemonic = "small device chest tent tissue hidden civil merit tray goddess early govern";

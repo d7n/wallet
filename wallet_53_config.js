@@ -1,1 +1,1 @@
-var mnemonic = "dentist mother trip leopard angle next chalk sport key athlete urge moment";
+var mnemonic = "glow gate thing sheriff buyer suit gravity proud asthma acid helmet dynamic";

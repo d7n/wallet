@@ -1,1 +1,1 @@
-var mnemonic = "picnic typical save smart boss cute payment audit simple vanish dragon describe";
+var mnemonic = "junk fine good neutral burden abuse image angry calm exhibit cannon nose";

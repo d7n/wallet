@@ -1,1 +1,1 @@
-var mnemonic = "typical wonder arrow task observe spin youth glance neutral course unusual garage";
+var mnemonic = "problem obtain mask harsh foster wet zero upper icon rack velvet cake";

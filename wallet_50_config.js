@@ -1,1 +1,1 @@
-var mnemonic = "mercy desk blur patch street ignore will neutral cruel napkin gallery invite";
+var mnemonic = "own rubber island soldier entry abstract joke bind loan clutch plunge prevent";

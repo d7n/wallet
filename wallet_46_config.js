@@ -1,1 +1,1 @@
-var mnemonic = "meadow season vanish mosquito army meadow total apple nest rib entire hotel";
+var mnemonic = "dentist robot aim dance flip warrior pair slam rich become rally cannon";

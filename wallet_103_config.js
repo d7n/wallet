@@ -1,1 +1,1 @@
-var mnemonic = "nut habit auto dizzy stairs denial chapter cupboard begin fade vote hospital";
+var mnemonic = "acoustic write market situate false amount round segment human comfort friend rocket";
