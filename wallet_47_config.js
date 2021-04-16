@@ -1,1 +1,1 @@
-var mnemonic = "glass ridge guitar desert same ethics jar volcano clown bone skill ride";
+var mnemonic = "grace thing hair team live source tumble junk congress machine slight twelve";

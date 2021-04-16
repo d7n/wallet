@@ -1,1 +1,1 @@
-var mnemonic = "orphan trade clerk tent silk hazard force sweet loop twelve spare enemy";
+var mnemonic = "attack banner awake sail price witness reduce truly spray scare priority submit";

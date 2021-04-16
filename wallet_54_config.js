@@ -1,1 +1,1 @@
-var mnemonic = "shoot faith trap wolf baby glide source winner oppose opinion drip swap";
+var mnemonic = "festival disorder coyote van emotion wink exotic later tilt copper exhaust because";

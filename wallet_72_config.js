@@ -1,1 +1,1 @@
-var mnemonic = "theme payment entry recycle cost toast valve rib garment lens spell stereo";
+var mnemonic = "coast jazz coach soup robust truly citizen judge machine turkey cliff cousin";

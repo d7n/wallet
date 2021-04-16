@@ -1,1 +1,1 @@
-var mnemonic = "web escape silk rotate huge slim merge effort pelican sight replace weasel";
+var mnemonic = "left multiply dumb bread narrow decorate lazy banana act acquire thrive love";

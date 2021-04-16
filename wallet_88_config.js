@@ -1,1 +1,1 @@
-var mnemonic = "dwarf hold response used ride topple magnet jump donate wash clog mimic";
+var mnemonic = "matrix blade elephant bounce capital habit chicken sugar sample sell piano share";

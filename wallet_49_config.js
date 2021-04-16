@@ -1,1 +1,1 @@
-var mnemonic = "speak panic sword collect monster escape yellow kidney invest genuine atom thrive";
+var mnemonic = "symbol private stereo speed group train gesture crash gym degree beauty like";

@@ -1,1 +1,1 @@
-var mnemonic = "join reveal power sudden piece toss piece crazy addict body coyote asset";
+var mnemonic = "ladder found kingdom peace wedding soup elevator rubber runway cave help fiction";

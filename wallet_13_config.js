@@ -1,1 +1,1 @@
-var mnemonic = "trial cradle rose wild rigid vacant child lab draw pear either silk";
+var mnemonic = "solid devote clog thrive master few exotic royal glue security love tag";

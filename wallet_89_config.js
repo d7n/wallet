@@ -1,1 +1,1 @@
-var mnemonic = "nasty talk case label please legend empower fence sad assume funny pony";
+var mnemonic = "inner movie critic plastic explain mesh salute nothing kingdom plastic genius arrange";

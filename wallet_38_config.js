@@ -1,1 +1,1 @@
-var mnemonic = "decrease deal vague tip finish junior annual cradle endless mule trap piano";
+var mnemonic = "seek top kite clinic agent bomb bitter usual injury saddle fish shoot";

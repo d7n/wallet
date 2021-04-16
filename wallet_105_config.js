@@ -1,1 +1,1 @@
-var mnemonic = "inmate pencil middle matter forest core cause board buzz there visit amused";
+var mnemonic = "style space wrist couch pond mule wheat notable sound atom dinner flock";

@@ -1,1 +1,1 @@
-var mnemonic = "such patient supreme clump measure wonder lake plastic float street input logic";
+var mnemonic = "square region motor skate buddy faculty hint sail gauge depend pepper fix";

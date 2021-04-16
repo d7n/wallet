@@ -1,1 +1,1 @@
-var mnemonic = "destroy kidney home grief attitude panther cancel visa crash guide double print";
+var mnemonic = "blue team arctic broken inherit slender pilot piano decrease arrange unit number";

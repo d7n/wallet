@@ -1,1 +1,1 @@
-var mnemonic = "exchange debate police glad twice napkin roof shoulder antique laugh leopard parrot";
+var mnemonic = "panther camera material word poet arm sense switch cactus celery maid camp";

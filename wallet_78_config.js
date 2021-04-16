@@ -1,1 +1,1 @@
-var mnemonic = "steak drama train seven spray robust guess recipe harsh luggage swing sunset";
+var mnemonic = "edit pattern must essence inherit emerge stable label essay save monkey rubber";

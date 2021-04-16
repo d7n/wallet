@@ -1,1 +1,1 @@
-var mnemonic = "ivory near ketchup cricket ticket divorce cherry donkey absent much physical impulse";
+var mnemonic = "border success panel razor food school antique access foil rate injury govern";

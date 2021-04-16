@@ -1,1 +1,1 @@
-var mnemonic = "jacket crane pet much solve pulse amazing ladder hover table donate search";
+var mnemonic = "sight recall furnace laundry label butter chat member cable window produce smart";

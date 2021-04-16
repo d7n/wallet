@@ -1,1 +1,1 @@
-var mnemonic = "fabric act puppy right fold jungle edge dentist pledge human inner wolf";
+var mnemonic = "space inherit proud wire people ticket survey metal roof swear property ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "solution actual wreck wire now awesome wood twice version balcony sure medal";
+var mnemonic = "fat idea busy faint mutual magnet approve awkward catalog author index screen";

@@ -1,1 +1,1 @@
-var mnemonic = "neither floor garden sheriff pluck stable monkey affair guitar country similar ridge";
+var mnemonic = "three valid van choose custom same notice unlock delay pulse belt prepare";

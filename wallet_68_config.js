@@ -1,1 +1,1 @@
-var mnemonic = "honey caution dune tip fantasy photo pill knife wheel off daring finish";
+var mnemonic = "garage defense rather ethics another indicate wing worry crowd estate pledge chase";

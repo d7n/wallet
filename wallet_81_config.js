@@ -1,1 +1,1 @@
-var mnemonic = "symptom other upon special term head yard icon scorpion rookie spawn ethics";
+var mnemonic = "inch heart project vast glimpse muscle accident lemon boss universe federal supply";

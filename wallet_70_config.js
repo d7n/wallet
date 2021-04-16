@@ -1,1 +1,1 @@
-var mnemonic = "audit measure wool crack taxi remember invite ankle retire save reject borrow";
+var mnemonic = "allow ribbon bomb supreme daring absurd guide mechanic agree resist moment barrel";

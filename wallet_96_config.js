@@ -1,1 +1,1 @@
-var mnemonic = "table long swing horn eight rent smoke begin rose celery arena rapid";
+var mnemonic = "energy honey kick mention airport exclude chapter this doll trade kiss spoon";

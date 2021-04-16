@@ -1,1 +1,1 @@
-var mnemonic = "license keep genre card cricket broccoli inmate weapon found patient legal quote";
+var mnemonic = "copper coyote attitude ability normal sport indoor region crisp series seminar report";

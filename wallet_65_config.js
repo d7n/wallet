@@ -1,1 +1,1 @@
-var mnemonic = "bulk mix about enrich use wet tunnel flight head canyon this salon";
+var mnemonic = "steel exhibit tattoo shine sweet maple surface october brief second puzzle tackle";

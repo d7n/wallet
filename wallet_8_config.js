@@ -1,1 +1,1 @@
-var mnemonic = "observe hub shrimp reward decide armor useless frog minimum weekend uphold laundry";
+var mnemonic = "elegant shallow blood oval already task culture give lift dry black dune";

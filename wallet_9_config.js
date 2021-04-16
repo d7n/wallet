@@ -1,1 +1,1 @@
-var mnemonic = "only hand pen lemon below gaze tourist crash kind world divert dizzy";
+var mnemonic = "solar reveal baby monitor gadget margin only abstract extend marine eight peanut";

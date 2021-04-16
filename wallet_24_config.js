@@ -1,1 +1,1 @@
-var mnemonic = "tone square shield forest scale because entire horse choice grunt jar merry";
+var mnemonic = "asset keen twist winter ability input bridge path ginger letter explain buyer";

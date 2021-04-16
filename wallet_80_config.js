@@ -1,1 +1,1 @@
-var mnemonic = "submit blade pilot valve photo inherit before one still very resemble waste";
+var mnemonic = "order slush walk vessel never under slow wife eyebrow captain twin device";

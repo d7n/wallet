@@ -1,1 +1,1 @@
-var mnemonic = "gloom remove before liberty fortune cheap slice knock math use dream satisfy";
+var mnemonic = "invest raw twelve decorate business firm require digital average tribe talent deal";

@@ -1,1 +1,1 @@
-var mnemonic = "swim piece never ring crash steak ozone fantasy solar like error attitude";
+var mnemonic = "bitter index ill spatial worth boy ecology notable casual grunt verify crystal";

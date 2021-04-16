@@ -1,1 +1,1 @@
-var mnemonic = "bread cook bracket apart mom wing wave work camp mutual garden grocery";
+var mnemonic = "rug legal smooth wing link west length gauge health shrug usual forest";

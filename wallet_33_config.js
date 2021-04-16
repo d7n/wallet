@@ -1,1 +1,1 @@
-var mnemonic = "noise fork across desert lucky roof lion fetch scatter hurry draft hat";
+var mnemonic = "above avocado slice matrix flower radio fiscal local gloom traffic small juice";

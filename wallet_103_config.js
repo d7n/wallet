@@ -1,1 +1,1 @@
-var mnemonic = "very element glance nut lottery cup absurd lumber float reflect average oyster";
+var mnemonic = "trouble expire blood combine blush cheese domain front biology high craft cry";

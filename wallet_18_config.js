@@ -1,1 +1,1 @@
-var mnemonic = "supply antenna injury mix inherit general riot torch truly style unfair clip";
+var mnemonic = "film friend beauty project reduce noodle myth movie dog pulse nurse pistol";

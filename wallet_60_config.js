@@ -1,1 +1,1 @@
-var mnemonic = "orchard aware duty genuine file whisper myth yellow dragon napkin buffalo merry";
+var mnemonic = "erase pelican adjust stem border prevent exile reveal balance waste rather decade";

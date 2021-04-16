@@ -1,1 +1,1 @@
-var mnemonic = "endorse van aunt trigger comfort tunnel airport february snake item trip flee";
+var mnemonic = "casual gauge merry prepare memory width hope will rookie icon enable narrow";

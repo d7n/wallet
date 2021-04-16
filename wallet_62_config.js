@@ -1,1 +1,1 @@
-var mnemonic = "kitten mask post violin private shed member define spend property friend candy";
+var mnemonic = "hurdle reward gown year shy kangaroo board above inform barely offer marine";

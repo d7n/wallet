@@ -1,1 +1,1 @@
-var mnemonic = "expand effort dance pen three slam school morning camera question merit adult";
+var mnemonic = "balance state congress column island neck grain yellow universe execute glory convince";

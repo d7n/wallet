@@ -1,1 +1,1 @@
-var mnemonic = "dry blue summer bus huge flat gesture exotic small extra custom crystal";
+var mnemonic = "image frost puppy frost melt maximum letter village pave unaware chaos garment";

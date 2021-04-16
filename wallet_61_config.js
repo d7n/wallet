@@ -1,1 +1,1 @@
-var mnemonic = "bulk swear foam cluster still sausage hover engine cake base chalk unfold";
+var mnemonic = "mercy aisle soldier hammer leave inner mail rough faith clock they spot";

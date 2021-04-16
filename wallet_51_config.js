@@ -1,1 +1,1 @@
-var mnemonic = "marine weasel plunge embody normal announce merge net hope bulb range test";
+var mnemonic = "vacant syrup wisdom endless amazing coil friend point walk today autumn fever";

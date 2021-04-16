@@ -1,1 +1,1 @@
-var mnemonic = "visual muscle friend blush man fiction shock ivory mesh home art much";
+var mnemonic = "surface item crisp engage recipe there near deny vocal first notice junk";

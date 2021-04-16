@@ -1,1 +1,1 @@
-var mnemonic = "siege certain rapid plastic tomato chimney trim desk crouch protect cruise ozone";
+var mnemonic = "occur cradle october rubber search spoon orbit supply review imitate equal another";

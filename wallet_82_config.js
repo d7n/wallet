@@ -1,1 +1,1 @@
-var mnemonic = "adjust grow critic alone monster cause chaos warm economy group beef indoor";
+var mnemonic = "bargain artefact split during vanish wagon add genius august card age wrap";

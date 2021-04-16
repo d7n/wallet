@@ -1,1 +1,1 @@
-var mnemonic = "drill country enrich walnut undo robust canal goat model oak fault zero";
+var mnemonic = "book female real finger worry tray manual like runway dream route course";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit safe upon dawn truck sugar jump anchor result swift horror agree";
+var mnemonic = "sentence safe rice nest idle great april bird midnight resource blur give";

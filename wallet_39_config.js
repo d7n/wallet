@@ -1,1 +1,1 @@
-var mnemonic = "eye inflict van derive inspire immune silent mechanic abuse matrix quality orphan";
+var mnemonic = "chronic exist evoke tuna jelly left animal crouch upset comic screen logic";

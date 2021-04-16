@@ -1,1 +1,1 @@
-var mnemonic = "december expand chair permit arch keep flee stove cargo error wedding carpet";
+var mnemonic = "ticket tool camp forest scheme hover keen various fashion found sphere sugar";

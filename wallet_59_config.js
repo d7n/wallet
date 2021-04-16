@@ -1,1 +1,1 @@
-var mnemonic = "able amused pig false end assist satisfy end custom regular quote velvet";
+var mnemonic = "smooth satisfy brush quality radar discover bag theory unlock exchange later couple";

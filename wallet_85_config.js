@@ -1,1 +1,1 @@
-var mnemonic = "glance dog keen tag purchase afraid belt cloud pottery early model carpet";
+var mnemonic = "narrow about penalty sheriff put era blind learn tail limb total sustain";

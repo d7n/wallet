@@ -1,1 +1,1 @@
-var mnemonic = "enact utility pattern consider purity siege receive moral fatigue silent nasty brown";
+var mnemonic = "orange shove adapt topple dinosaur shuffle behave type company announce rebuild able";

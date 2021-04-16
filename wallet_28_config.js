@@ -1,1 +1,1 @@
-var mnemonic = "weekend detail tackle drama kit energy jar camera beef rice moment pave";
+var mnemonic = "assist public cabin duty shock myself length throw rebuild rally price repeat";

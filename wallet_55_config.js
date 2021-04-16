@@ -1,1 +1,1 @@
-var mnemonic = "lift brisk tail soft much primary bid spare resemble crowd sister sure";
+var mnemonic = "helmet guide fringe force ice across clinic wife example foil host duty";

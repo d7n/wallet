@@ -1,1 +1,1 @@
-var mnemonic = "cluster cat aim tell chief height race energy citizen design okay swim";
+var mnemonic = "torch motor swear choose canyon father remove start creek galaxy shift marine";

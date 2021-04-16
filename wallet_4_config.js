@@ -1,1 +1,1 @@
-var mnemonic = "tired shop glad autumn parent mimic outer grit arrow weekend banana nerve";
+var mnemonic = "road raccoon suffer brisk prize praise viable usage climb true code crystal";

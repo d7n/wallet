@@ -1,1 +1,1 @@
-var mnemonic = "rich ten first rich winner faith room sport calm door echo tail";
+var mnemonic = "mutual course direct wise long salon clog reason lounge match captain cake";

@@ -1,1 +1,1 @@
-var mnemonic = "glove slight guilt reduce frequent movie wire someone bright vast system that";
+var mnemonic = "nut couch debris panic convince garlic life term walnut uncover unfold frog";

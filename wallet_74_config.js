@@ -1,1 +1,1 @@
-var mnemonic = "link lumber tobacco top manual marble erosion knee keen warfare thrive bundle";
+var mnemonic = "account bar dawn argue maze grass recipe pelican disagree album vital upon";

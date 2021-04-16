@@ -1,1 +1,1 @@
-var mnemonic = "behind nominee usage economy egg fluid silly hammer return evidence kitten home";
+var mnemonic = "twelve culture addict floor above upgrade drink jungle piano truly age hurt";

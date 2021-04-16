@@ -1,1 +1,1 @@
-var mnemonic = "beach acquire caught much coin market account half isolate afford anger verb";
+var mnemonic = "supreme area fatal minute hen misery oval hour equal slice hello address";

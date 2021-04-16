@@ -1,1 +1,1 @@
-var mnemonic = "april business size type just panel cinnamon sea wing visual negative wide";
+var mnemonic = "nerve stereo flight fringe profit ensure fringe pioneer harsh knife smooth romance";

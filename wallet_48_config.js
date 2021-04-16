@@ -1,1 +1,1 @@
-var mnemonic = "salon drive belt above spot quote settle author crack ethics cart vehicle";
+var mnemonic = "drift junk damage armed matter orange woman page shrimp student luggage coast";

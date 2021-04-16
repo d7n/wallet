@@ -1,1 +1,1 @@
-var mnemonic = "ball oven once hen ridge empower ozone truly universe offer artefact try";
+var mnemonic = "able magic mixed gallery garden hello lobster cart flight level actual during";

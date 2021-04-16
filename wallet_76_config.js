@@ -1,1 +1,1 @@
-var mnemonic = "company clever put garage shrimp issue adapt evolve zone knock stove kick";
+var mnemonic = "under hair club market hill humor loud enter fancy robust task outer";

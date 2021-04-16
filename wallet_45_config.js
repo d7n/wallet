@@ -1,1 +1,1 @@
-var mnemonic = "thrive chaos over detect visit tower retreat music umbrella typical canoe output";
+var mnemonic = "aerobic proud extend fog never hurt cook thought name heavy gym spray";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey response clean wolf fish word globe accuse add else good gorilla";
+var mnemonic = "problem vote fault valve fence guitar cool planet tape merry clip squeeze";

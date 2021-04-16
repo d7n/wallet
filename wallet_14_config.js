@@ -1,1 +1,1 @@
-var mnemonic = "muscle pitch photo protect trick glue sad quick promote pole hospital length";
+var mnemonic = "muscle flash struggle stage velvet abstract member refuse uncle tank grant arch";

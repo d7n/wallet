@@ -1,1 +1,1 @@
-var mnemonic = "pulp cat foster emerge hat scare trap glimpse isolate ice mention more";
+var mnemonic = "reform make behave depart warrior inform that absent chase govern noise inject";

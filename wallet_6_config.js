@@ -1,1 +1,1 @@
-var mnemonic = "category valley frequent gap surge slot layer aspect goddess cancel observe slogan";
+var mnemonic = "suspect behave step clever invest fatal entry pause item novel enroll expand";

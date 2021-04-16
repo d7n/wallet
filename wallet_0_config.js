@@ -1,1 +1,1 @@
-var mnemonic = "own combine flag define hill monitor pilot misery kind century doctor quantum";
+var mnemonic = "moment shy film firm arctic nephew now effort laptop check uncover seat";

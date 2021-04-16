@@ -1,1 +1,1 @@
-var mnemonic = "sauce suit beyond illegal patch analyst cruise consider awkward calm change castle";
+var mnemonic = "trade purity crop usage alter boat wisdom father ordinary use shine when";

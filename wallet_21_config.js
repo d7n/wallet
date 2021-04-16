@@ -1,1 +1,1 @@
-var mnemonic = "camp crunch fame length safe pudding before attack word soon monitor already";
+var mnemonic = "below material silly pink grunt they bubble deal swamp roast orbit marriage";

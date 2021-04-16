@@ -1,1 +1,1 @@
-var mnemonic = "pen shoulder primary between toilet push adapt indicate history angry sea often";
+var mnemonic = "spatial million rocket age fix monster inspire half rail clerk oven fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "actual fish bachelor crumble soul raise tomorrow history mask flee drink test";
+var mnemonic = "laundry burst goat soap shiver can original video ignore surprise claw gun";

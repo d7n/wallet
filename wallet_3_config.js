@@ -1,1 +1,1 @@
-var mnemonic = "salon tortoise wash squeeze gain symbol speak bar easy sing talk way";
+var mnemonic = "enlist fantasy bind danger brother plunge reopen slush common will six canyon";

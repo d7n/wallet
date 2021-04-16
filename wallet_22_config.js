@@ -1,1 +1,1 @@
-var mnemonic = "diagram pride void bright ten vacant sting town toe knee quantum buyer";
+var mnemonic = "tone poverty mistake melt that liquid marine stock shop sudden middle year";

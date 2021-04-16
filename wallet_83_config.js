@@ -1,1 +1,1 @@
-var mnemonic = "oppose piece sock unable cycle foil ghost solution there midnight refuse green";
+var mnemonic = "wage lamp bomb dove put over piano quote book give town local";

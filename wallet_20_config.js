@@ -1,1 +1,1 @@
-var mnemonic = "air include concert ramp pig menu sea adult fitness profit finish bean";
+var mnemonic = "cement flame require rain slot drift hockey release tuition warrior gun head";

@@ -1,1 +1,1 @@
-var mnemonic = "option also friend require shed obvious disagree vast axis belt thunder pact";
+var mnemonic = "burst defense pudding cry cancel salmon frozen furnace idea flavor butter despair";
