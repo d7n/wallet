@@ -1,1 +1,1 @@
-var mnemonic = "wave trumpet enhance bright crew body cliff access rice cricket orange wave";
+var mnemonic = "usage into emotion text isolate artwork picnic casino swing slam mountain check";

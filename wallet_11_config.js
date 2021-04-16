@@ -1,1 +1,1 @@
-var mnemonic = "tool cricket scale open goddess state game outer meat awesome survey butter";
+var mnemonic = "poem shrimp invite hat patch piece reduce system carry distance poem noise";

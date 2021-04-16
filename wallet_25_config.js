@@ -1,1 +1,1 @@
-var mnemonic = "borrow erosion head critic engage swamp entire alley artwork meadow surprise hard";
+var mnemonic = "forget injury security mimic repeat feature apart ecology rather demand client patrol";

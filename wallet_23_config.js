@@ -1,1 +1,1 @@
-var mnemonic = "range nose puppy youth congress winner fence debate hint solve solve equal";
+var mnemonic = "permit dentist faint bronze nephew assume spy seminar square skirt scene ghost";

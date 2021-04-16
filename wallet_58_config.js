@@ -1,1 +1,1 @@
-var mnemonic = "load glare pigeon auction give much vessel either token stay cinnamon pill";
+var mnemonic = "palm essay impact hard mushroom eternal dwarf chicken uncle toddler brick offer";

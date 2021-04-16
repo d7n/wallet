@@ -1,1 +1,1 @@
-var mnemonic = "net auto magic need mirror produce disease floor volume runway clerk obscure";
+var mnemonic = "history unable fitness slight frame detect cherry conduct random junk egg reopen";

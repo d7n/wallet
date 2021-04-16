@@ -1,1 +1,1 @@
-var mnemonic = "super nose quiz frog fresh wrap educate tree strategy adjust film goat";
+var mnemonic = "bounce army huge company banana busy powder near renew index immense clean";

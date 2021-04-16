@@ -1,1 +1,1 @@
-var mnemonic = "police filter raccoon raw distance original salt upper hurt orchard slice disease";
+var mnemonic = "coral manage depend wool avoid stairs follow sausage soul keep beef pulp";

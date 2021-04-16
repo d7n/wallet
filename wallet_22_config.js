@@ -1,1 +1,1 @@
-var mnemonic = "choose caught yellow limit cannon bench mule acoustic uncover brand focus fork";
+var mnemonic = "topple empty point toe polar keep afford bottom destroy off local blur";

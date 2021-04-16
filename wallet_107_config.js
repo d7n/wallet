@@ -1,1 +1,1 @@
-var mnemonic = "retreat dragon actor man catch ring grid east slice advance seed lake";
+var mnemonic = "arrow cattle ice rifle average fuel lecture grab resemble balcony strong anger";

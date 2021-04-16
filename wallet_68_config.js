@@ -1,1 +1,1 @@
-var mnemonic = "physical sauce pass file profit tragic leave over blade potato train crack";
+var mnemonic = "erupt another crater sound decorate silk favorite vague measure draw shove type";

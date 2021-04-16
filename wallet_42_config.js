@@ -1,1 +1,1 @@
-var mnemonic = "glow burst lemon burst ginger prison enable extend weasel soldier globe suspect";
+var mnemonic = "broken work citizen universe soul enrich vote shop enact twelve setup sport";

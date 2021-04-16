@@ -1,1 +1,1 @@
-var mnemonic = "boring price armor tone glue thank galaxy puzzle cute collect sponsor club";
+var mnemonic = "erode car million similar happy theory come garment brand road grace that";

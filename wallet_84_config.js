@@ -1,1 +1,1 @@
-var mnemonic = "mercy cake legend taxi matrix spatial prison rib drip depend goose visit";
+var mnemonic = "copy install pipe general reduce pulse forward trick top polar tuition age";

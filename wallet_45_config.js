@@ -1,1 +1,1 @@
-var mnemonic = "topple ticket dirt away remember nation ladder enrich real athlete isolate spirit";
+var mnemonic = "planet jungle typical woman inhale burden bag stairs drastic path scare refuse";

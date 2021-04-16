@@ -1,1 +1,1 @@
-var mnemonic = "walk marble jaguar flee lemon vague spatial damage damp improve have loyal";
+var mnemonic = "suit nuclear culture try genre give truck candy crunch spirit device bless";

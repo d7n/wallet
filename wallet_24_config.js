@@ -1,1 +1,1 @@
-var mnemonic = "ghost pair squeeze thumb hope seat blanket dice camp inherit dust turn";
+var mnemonic = "panic pattern math dwarf plate wrist critic slender speed weasel verb west";

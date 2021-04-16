@@ -1,1 +1,1 @@
-var mnemonic = "hour reward minimum emotion cover jaguar goddess kiss rough craft hotel fence";
+var mnemonic = "practice fiscal vintage core dolphin bench high dolphin palm friend prefer tomorrow";

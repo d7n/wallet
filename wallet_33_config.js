@@ -1,1 +1,1 @@
-var mnemonic = "people rail square gravity motor mirror lady female lemon weapon eagle setup";
+var mnemonic = "coin shed culture captain best isolate symptom spare aspect feed alien music";

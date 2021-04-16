@@ -1,1 +1,1 @@
-var mnemonic = "text position flower exchange success wink toss unlock drop talent toilet judge";
+var mnemonic = "merge hip among link fade garage order dilemma smooth thunder gift item";

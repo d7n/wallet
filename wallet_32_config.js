@@ -1,1 +1,1 @@
-var mnemonic = "icon parrot tribe stadium file clap fun confirm vivid pulse blade spike";
+var mnemonic = "just daughter twelve elegant audit service enact opera abandon also result deny";

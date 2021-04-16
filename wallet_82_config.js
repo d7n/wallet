@@ -1,1 +1,1 @@
-var mnemonic = "genuine mask weird buffalo bubble afford later alley first piece extend spawn";
+var mnemonic = "alert belt achieve autumn great basket guilt chunk steel setup drop execute";

@@ -1,1 +1,1 @@
-var mnemonic = "bring rapid cry thing flush number pause final chuckle coach lawsuit lens";
+var mnemonic = "device acoustic because window double remove unveil about little cool legend barrel";

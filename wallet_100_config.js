@@ -1,1 +1,1 @@
-var mnemonic = "solid review fish rude bulk execute fashion duck prevent turtle amazing crane";
+var mnemonic = "jungle family sell lesson napkin pupil silly under large expect profit police";

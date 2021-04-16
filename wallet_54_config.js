@@ -1,1 +1,1 @@
-var mnemonic = "dash elite punch civil hobby actor sock wide mirror common engine antenna";
+var mnemonic = "draw animal useful auto cricket elite retreat body quit this castle regret";

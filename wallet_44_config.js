@@ -1,1 +1,1 @@
-var mnemonic = "mass until item crash winner blast quote tribe glove foster milk rescue";
+var mnemonic = "ordinary alter nurse arena ice leg blast gravity crush bring spy achieve";

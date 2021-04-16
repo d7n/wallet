@@ -1,1 +1,1 @@
-var mnemonic = "furnace royal dynamic inherit pencil trend social purity average fit wasp crucial";
+var mnemonic = "alone hedgehog cricket aisle indoor bubble toast federal dutch tunnel elegant link";

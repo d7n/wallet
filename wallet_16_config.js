@@ -1,1 +1,1 @@
-var mnemonic = "canyon business have grab valley sock license marble van urge flock village";
+var mnemonic = "version timber minor tape license amateur abuse disease file acquire snack level";

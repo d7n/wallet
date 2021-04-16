@@ -1,1 +1,1 @@
-var mnemonic = "vacuum gate sense junior scan glare safe april mix hundred life theme";
+var mnemonic = "height trip parent model identify slender drill one friend peanut protect venture";

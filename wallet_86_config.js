@@ -1,1 +1,1 @@
-var mnemonic = "inhale bring area spell dinner wasp wish tomorrow alert cage swallow bracket";
+var mnemonic = "enjoy tennis retreat code column average capable diet bread lecture palace tenant";

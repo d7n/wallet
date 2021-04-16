@@ -1,1 +1,1 @@
-var mnemonic = "hunt cloth congress hobby foil place farm square orchard congress leg usage";
+var mnemonic = "tilt off opera buyer shield cloud knock way uphold copy drop post";

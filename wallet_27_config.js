@@ -1,1 +1,1 @@
-var mnemonic = "wet approve cotton labor note silver book neutral nest near trigger alley";
+var mnemonic = "write motor gauge bleak obscure dove purpose answer town bridge drift town";

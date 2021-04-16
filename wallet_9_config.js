@@ -1,1 +1,1 @@
-var mnemonic = "leopard invite item athlete portion join select habit agree vibrant banner bacon";
+var mnemonic = "onion attack verify legend citizen trim blade tunnel rookie toe tattoo essay";

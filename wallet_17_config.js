@@ -1,1 +1,1 @@
-var mnemonic = "grief among basket tribe game divorce muscle achieve list regret wheel ski";
+var mnemonic = "hunt arctic bone fat domain episode total mixed candy load action analyst";

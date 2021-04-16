@@ -1,1 +1,1 @@
-var mnemonic = "pair core toe school siren old nose ankle lady faint better void";
+var mnemonic = "make foam spoil evolve salt seven scout cheese panic flash nerve ethics";

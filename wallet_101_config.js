@@ -1,1 +1,1 @@
-var mnemonic = "stay suffer whip turkey shoot earn clean obey public trial outer improve";
+var mnemonic = "wild elephant idea social fun ketchup hold amazing demise three hole meat";

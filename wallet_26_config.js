@@ -1,1 +1,1 @@
-var mnemonic = "main govern symbol expand garment today donor wife circle can north leader";
+var mnemonic = "ticket group stick valley enemy ginger comic clown surprise knee lottery slender";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune hair risk rigid sorry reason drip pool chaos later nation inhale";
+var mnemonic = "image asset craft tribe ball sad buyer ocean renew slogan large plastic";

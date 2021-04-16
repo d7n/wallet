@@ -1,1 +1,1 @@
-var mnemonic = "bargain syrup cage cabin flame shadow chef traffic network lawn shoulder endorse";
+var mnemonic = "exhibit sea pizza powder tongue hidden spread inspire grab picnic camera quarter";

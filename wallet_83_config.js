@@ -1,1 +1,1 @@
-var mnemonic = "erode alert parrot cart length please fury weapon family awake luggage cool";
+var mnemonic = "zoo olympic opinion head neither inflict require stable spend refuse catch wood";

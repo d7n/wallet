@@ -1,1 +1,1 @@
-var mnemonic = "valve point exchange artwork rude patch nuclear gasp task inspire betray gaze";
+var mnemonic = "advice buddy wrestle price virtual oyster trust diagram decide post catch moment";

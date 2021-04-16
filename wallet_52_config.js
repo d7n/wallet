@@ -1,1 +1,1 @@
-var mnemonic = "dolphin album exhibit sleep path right alley cram vital pluck summer jelly";
+var mnemonic = "dilemma uncle spell trophy clarify elephant ill term wet mother guitar alley";

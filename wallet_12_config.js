@@ -1,1 +1,1 @@
-var mnemonic = "tissue arrange antenna section priority lobster harvest possible improve canvas gospel pole";
+var mnemonic = "carry aunt hybrid boring squirrel oven image chicken short myself fish rack";

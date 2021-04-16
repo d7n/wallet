@@ -1,1 +1,1 @@
-var mnemonic = "ski zero combine cargo huge certain salmon van weasel swamp bamboo jewel";
+var mnemonic = "spare often harbor lyrics unusual put walk common holiday crumble walk budget";

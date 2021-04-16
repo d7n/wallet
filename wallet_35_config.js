@@ -1,1 +1,1 @@
-var mnemonic = "creek sustain planet ethics coyote travel empower caution poem street planet ranch";
+var mnemonic = "sorry voice they slam educate own balance will endorse goose add fetch";

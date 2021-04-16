@@ -1,1 +1,1 @@
-var mnemonic = "lake seminar swift alter virtual glad soul history climb assist buzz digital";
+var mnemonic = "surround cactus crash plastic violin magnet rebel plastic night junk gasp barely";

@@ -1,1 +1,1 @@
-var mnemonic = "actual weird odor now shadow video agree trim cactus celery prison major";
+var mnemonic = "panel shop orphan camp mechanic timber gas cement muffin earn ship violin";

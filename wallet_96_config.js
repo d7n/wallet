@@ -1,1 +1,1 @@
-var mnemonic = "sustain census sorry turn insane pistol identify clean sheriff blind dignity uphold";
+var mnemonic = "myself fury dentist similar airport bunker april trend style shuffle wise side";

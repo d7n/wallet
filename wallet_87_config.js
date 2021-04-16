@@ -1,1 +1,1 @@
-var mnemonic = "blood document welcome liquid skate never check narrow tunnel arctic buffalo vocal";
+var mnemonic = "always alpha benefit allow story differ gown shock doctor random distance frown";

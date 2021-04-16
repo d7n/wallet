@@ -1,1 +1,1 @@
-var mnemonic = "hammer mosquito taste spray sponsor trick eight gift town federal clock thank";
+var mnemonic = "trash author impose pond motion salmon practice thought peasant maze direct polar";

@@ -1,1 +1,1 @@
-var mnemonic = "security video taxi hazard bronze coyote same flame syrup change zone bargain";
+var mnemonic = "buffalo dragon leader weather lunar cousin student ancient point firm cinnamon paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "easily tunnel ketchup idea pact goddess already sibling history burden bleak reduce";
+var mnemonic = "peanut abandon nominee scare metal amazing twin timber age radar inner pause";

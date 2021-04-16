@@ -1,1 +1,1 @@
-var mnemonic = "voice logic pulse glory together grab cost pond answer mechanic merit into";
+var mnemonic = "fun clinic sausage fever arena claim payment peanut milk meadow trim say";

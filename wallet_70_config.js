@@ -1,1 +1,1 @@
-var mnemonic = "source pact surprise bullet dice legend flame property lizard actor emotion clog";
+var mnemonic = "space what prize idle offer chimney grace matter aunt vivid river coffee";

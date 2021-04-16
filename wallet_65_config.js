@@ -1,1 +1,1 @@
-var mnemonic = "lift lumber perfect hair cattle bamboo hurdle imitate squeeze lyrics clinic diesel";
+var mnemonic = "police security wheat cereal brick random solve galaxy broccoli front dune need";

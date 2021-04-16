@@ -1,1 +1,1 @@
-var mnemonic = "ability square always much armed strike fitness output decorate aunt screen violin";
+var mnemonic = "satoshi forward sail horse swim wood such chimney describe middle street century";

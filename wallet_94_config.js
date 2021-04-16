@@ -1,1 +1,1 @@
-var mnemonic = "shrug pact antenna album retire crawl fabric nest arm laugh bulb retreat";
+var mnemonic = "security dawn phone saddle join congress dish grid item person kick damp";

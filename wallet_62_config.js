@@ -1,1 +1,1 @@
-var mnemonic = "loyal stadium base canal chaos slab cushion rich digital deliver balcony floor";
+var mnemonic = "orbit bacon can farm biology elbow cradle fragile moral donor protect boat";

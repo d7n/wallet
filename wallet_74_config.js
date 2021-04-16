@@ -1,1 +1,1 @@
-var mnemonic = "heart common sense want grab fabric angry know object type valley stick";
+var mnemonic = "air opinion cherry chalk resource next wrap false sad window journey move";

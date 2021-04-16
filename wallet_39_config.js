@@ -1,1 +1,1 @@
-var mnemonic = "steak obscure damage spy jump damp orphan property release horror advice track";
+var mnemonic = "salt undo hub flip picnic curtain fold casino fame pluck beauty feel";

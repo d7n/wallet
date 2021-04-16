@@ -1,1 +1,1 @@
-var mnemonic = "stairs slide dignity harvest custom eternal bullet mercy long rate notable fiber";
+var mnemonic = "differ develop chat bamboo derive critic rail flush desert slogan riot benefit";

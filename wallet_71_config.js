@@ -1,1 +1,1 @@
-var mnemonic = "regret can water mother museum penalty federal empower warfare cluster casino fog";
+var mnemonic = "urge tell attitude pottery judge car pen broken museum emerge assist local";

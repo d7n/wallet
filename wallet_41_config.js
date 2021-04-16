@@ -1,1 +1,1 @@
-var mnemonic = "winter system kind right upset jaguar author link praise engage erosion cheese";
+var mnemonic = "hold castle street timber write danger nurse spoon involve timber project deny";

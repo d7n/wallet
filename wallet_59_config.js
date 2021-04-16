@@ -1,1 +1,1 @@
-var mnemonic = "auction feed twenty crazy phrase luxury grape bus conduct foster ozone feed";
+var mnemonic = "soap suggest distance gloom merge pulp blossom spawn gather banana pair buyer";

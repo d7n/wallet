@@ -1,1 +1,1 @@
-var mnemonic = "that country sadness payment history coffee pass raise follow hurdle airport crouch";
+var mnemonic = "world hour among club giggle name segment mirror rough job inspire timber";

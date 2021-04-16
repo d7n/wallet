@@ -1,1 +1,1 @@
-var mnemonic = "shed cement knock deer green tumble castle frequent turtle surge lend vanish";
+var mnemonic = "under kitten fossil idea tuna fringe business suggest defy doctor train palm";

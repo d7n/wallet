@@ -1,1 +1,1 @@
-var mnemonic = "thumb cheese better elite race decide amateur stock onion awesome wrong bamboo";
+var mnemonic = "since flush skill hello stay deer toddler until south walnut sport practice";

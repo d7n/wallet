@@ -1,1 +1,1 @@
-var mnemonic = "symptom excuse lemon sniff discover gas turkey bean ice evoke mixed tuna";
+var mnemonic = "humor swallow seven silent knock library south salad daughter purse twenty clay";

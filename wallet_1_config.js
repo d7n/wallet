@@ -1,1 +1,1 @@
-var mnemonic = "cricket cake affair abuse peasant tank dust whip athlete leopard capable onion";
+var mnemonic = "output dutch company sail tool change rib punch agree onion meadow aisle";

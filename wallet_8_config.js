@@ -1,1 +1,1 @@
-var mnemonic = "card quantum symbol praise pioneer end emotion robot goat remain glimpse kind";
+var mnemonic = "upper evolve then bind front erode dad test resource fall sibling only";

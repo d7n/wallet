@@ -1,1 +1,1 @@
-var mnemonic = "vault glue advice pool shell large share naive cat patient sort rich";
+var mnemonic = "chase time time much vote ripple chief swim crisp tissue build reduce";

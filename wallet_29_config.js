@@ -1,1 +1,1 @@
-var mnemonic = "suggest sport tragic order way tell addict slow home hunt tomorrow photo";
+var mnemonic = "rain purse matter capable portion team patch defense grocery common middle shoulder";

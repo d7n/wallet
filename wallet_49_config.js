@@ -1,1 +1,1 @@
-var mnemonic = "any float coconut rail airport enemy display zebra embody dolphin bind flip";
+var mnemonic = "comfort off myth can public pony this invest route vapor season spring";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome stock above trash river tenant spread clump genius engine worth panther";
+var mnemonic = "crane lawn display kite multiply person match category chuckle foster asset sound";

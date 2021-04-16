@@ -1,1 +1,1 @@
-var mnemonic = "depend pluck usual news spoon shoe session proud sauce rabbit level broken";
+var mnemonic = "bronze weekend slam unfair elephant canyon nephew below organ melt hidden symbol";

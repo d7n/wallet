@@ -1,1 +1,1 @@
-var mnemonic = "damage stumble lady surround old journey mouse talk right finger right grunt";
+var mnemonic = "kiss dismiss best assume swallow maid upset exist flag laundry state scheme";

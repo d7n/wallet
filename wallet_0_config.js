@@ -1,1 +1,1 @@
-var mnemonic = "chunk trumpet sausage domain okay trial gauge silent steel spend position assume";
+var mnemonic = "verb ancient relief about duty access victory burger grit patient pumpkin emotion";

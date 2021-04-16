@@ -1,1 +1,1 @@
-var mnemonic = "fiber reward solid noble planet upper acid win item device easy action";
+var mnemonic = "craft banana wrist sun inside grocery museum cup clog twelve cave moment";

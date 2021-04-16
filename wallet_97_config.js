@@ -1,1 +1,1 @@
-var mnemonic = "fade occur object royal neither judge three master april lyrics naive valve";
+var mnemonic = "prison blush lucky maid connect tuition include kangaroo legal amused current setup";

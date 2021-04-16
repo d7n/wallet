@@ -1,1 +1,1 @@
-var mnemonic = "spot voyage twelve improve possible vivid sugar version beach menu vital envelope";
+var mnemonic = "element aware extra swift cigar pupil mother three hawk skin cloud service";

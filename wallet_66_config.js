@@ -1,1 +1,1 @@
-var mnemonic = "issue best ginger enact view unable tenant project conduct hurt have quit";
+var mnemonic = "foil surface face maze hero flock this tissue weather symbol engage price";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile already return menu gift arrest wish able enact invest enhance uphold";
+var mnemonic = "rhythm shuffle double model dismiss black tag feed shift anger sing valid";

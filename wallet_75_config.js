@@ -1,1 +1,1 @@
-var mnemonic = "inquiry true inquiry finish share shrug trial dash twenty teach purchase luggage";
+var mnemonic = "mule extend pony scrub buyer tribe family swap spray example success situate";

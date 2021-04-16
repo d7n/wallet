@@ -1,1 +1,1 @@
-var mnemonic = "cricket old ability dune various cannon gain noodle energy lake gather vendor";
+var mnemonic = "twist tide chat provide festival carry toe title lamp develop under pass";

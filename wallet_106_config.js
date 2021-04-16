@@ -1,1 +1,1 @@
-var mnemonic = "crane double rude multiply shadow tent mercy slot science oyster horn relief";
+var mnemonic = "comic anxiety build nominee alien whip arrive arena charge benefit tribe exact";

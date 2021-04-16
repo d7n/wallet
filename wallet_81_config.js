@@ -1,1 +1,1 @@
-var mnemonic = "impose rhythm embark spoil essence great slender split two senior cannon idle";
+var mnemonic = "blouse problem much weapon any empty avocado suggest quiz helmet scrub scrap";

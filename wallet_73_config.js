@@ -1,1 +1,1 @@
-var mnemonic = "sign slight engage gate fetch promote collect lend shell twist evidence extra";
+var mnemonic = "bench history remember learn direct notice wolf devote cage police any always";

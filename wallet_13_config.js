@@ -1,1 +1,1 @@
-var mnemonic = "fatigue story canvas tattoo void deny dignity candy live then pelican explain";
+var mnemonic = "mixed spawn between duty brand brother junk sting acoustic shock catch page";

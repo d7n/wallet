@@ -1,1 +1,1 @@
-var mnemonic = "kit start card frame brief airport state pact build awful sun summer";
+var mnemonic = "clay love elegant advance tent assist silly wild flavor joke model awesome";

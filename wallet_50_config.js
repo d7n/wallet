@@ -1,1 +1,1 @@
-var mnemonic = "candy vehicle call country million suit subway mechanic coconut garage patch shove";
+var mnemonic = "empower snake fly lazy net skate trim please random year match wheel";
