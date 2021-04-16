@@ -1,1 +1,1 @@
-var mnemonic = "shallow gift since describe leave spend melt syrup buddy amount stand manage";
+var mnemonic = "dad picture butter table iron senior noodle mix twenty spirit keep cause";

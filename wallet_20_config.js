@@ -1,1 +1,1 @@
-var mnemonic = "burst stick piano doctor notice crystal suspect affair domain banner clerk camera";
+var mnemonic = "budget boring fever saddle arctic volume prepare axis suspect lottery control fashion";

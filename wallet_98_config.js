@@ -1,1 +1,1 @@
-var mnemonic = "crane pelican hospital code various spoil depart crucial engine park green absurd";
+var mnemonic = "stuff call slim reunion clog assume iron dinosaur logic amazing giraffe sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor tribe smart option wheat action photo hungry output detail almost salute";
+var mnemonic = "gentle category inspire uncover annual umbrella cave force space recycle stem phone";

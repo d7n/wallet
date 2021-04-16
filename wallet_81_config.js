@@ -1,1 +1,1 @@
-var mnemonic = "room fatal balance ridge goose upset square increase cereal dice prosper cram";
+var mnemonic = "loyal tumble much devote retreat car discover evoke wheat avoid neither cotton";

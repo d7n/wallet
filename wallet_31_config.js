@@ -1,1 +1,1 @@
-var mnemonic = "zero employ volcano hurry pull rose heavy invite picnic prepare void lobster";
+var mnemonic = "dune never buddy ripple fox depart outside quick submit hair traffic fence";

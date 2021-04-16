@@ -1,1 +1,1 @@
-var mnemonic = "slogan picnic kind escape city any lend tower van client van hat";
+var mnemonic = "tide develop pupil right two turn collect drop gadget capable option remind";

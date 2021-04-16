@@ -1,1 +1,1 @@
-var mnemonic = "piece fiction wise tower absent cram swap arrive click blame absurd salmon";
+var mnemonic = "brief ranch theory crane keep together retire gate skirt feed dose candy";

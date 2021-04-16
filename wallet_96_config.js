@@ -1,1 +1,1 @@
-var mnemonic = "prepare boil tool rich body bundle fade margin dose toast enable tackle";
+var mnemonic = "dove either gospel patrol pizza sweet surprise wine truth caught surprise kangaroo";

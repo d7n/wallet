@@ -1,1 +1,1 @@
-var mnemonic = "season list wrap clarify fame elbow tilt bread humor enhance arrive chimney";
+var mnemonic = "wreck dose flame theme clinic type advance mixture picnic rice rude barely";

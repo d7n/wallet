@@ -1,1 +1,1 @@
-var mnemonic = "horn raise hybrid museum gospel spirit dance exit add artist exit horn";
+var mnemonic = "wolf monitor intact bicycle sponsor fever curve brisk measure swift satoshi section";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal type tiger ancient muscle audit usual length sustain raven urge struggle";
+var mnemonic = "wink practice false rapid flag wage bitter twice build junk beauty screen";

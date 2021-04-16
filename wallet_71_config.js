@@ -1,1 +1,1 @@
-var mnemonic = "fence select system island any want fly gauge sting dawn hello tank";
+var mnemonic = "goat danger source job type solve rescue cute bullet climb chief thrive";

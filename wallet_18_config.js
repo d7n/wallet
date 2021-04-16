@@ -1,1 +1,1 @@
-var mnemonic = "pull sense coil mango head fee left race exist among course design";
+var mnemonic = "obtain flock winner hurt lottery panic bargain thought accident similar size champion";

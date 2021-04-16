@@ -1,1 +1,1 @@
-var mnemonic = "happy ketchup impact leave tower solar annual pistol ketchup shuffle reunion erosion";
+var mnemonic = "aerobic glue clock picnic shift radio gun illegal secret fragile winner attitude";

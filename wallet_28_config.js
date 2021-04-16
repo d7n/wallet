@@ -1,1 +1,1 @@
-var mnemonic = "glide coin supreme use virus tail senior pretty caution primary feel firm";
+var mnemonic = "little other bargain noble elevator vote idle divide settle organ shrug educate";

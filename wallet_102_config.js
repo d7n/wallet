@@ -1,1 +1,1 @@
-var mnemonic = "include ensure vault cushion topple voice divide angle twin once come order";
+var mnemonic = "dismiss broccoli soccer certain asthma trumpet movie excuse sing effort ski west";

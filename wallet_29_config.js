@@ -1,1 +1,1 @@
-var mnemonic = "hat gift receive hedgehog cheap valley discover divorce because artist bird endless";
+var mnemonic = "kangaroo segment dynamic leopard legend opinion present name opinion grape bridge zero";

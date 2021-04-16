@@ -1,1 +1,1 @@
-var mnemonic = "power ordinary avocado day turn achieve boost parade ensure pig life inspire";
+var mnemonic = "possible armor slab simple rate opera flush panther secret scrap suggest jar";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom ball virtual come liberty humble penalty salon comfort tortoise antique pigeon";
+var mnemonic = "gossip nothing capable network verb service defy ship where thunder seed run";

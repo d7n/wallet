@@ -1,1 +1,1 @@
-var mnemonic = "fossil dove maze first labor large crush smart minor tool city slide";
+var mnemonic = "media always swim goat hurt mistake forum enemy coconut shrug grape rubber";

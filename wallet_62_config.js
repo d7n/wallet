@@ -1,1 +1,1 @@
-var mnemonic = "swim survey october room jazz juice goat audit hood solar method sight";
+var mnemonic = "vital half sadness wife pill perfect gate alarm remain shallow purchase couple";

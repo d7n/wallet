@@ -1,1 +1,1 @@
-var mnemonic = "satisfy enact level strike random history nasty proof trophy black useless domain";
+var mnemonic = "census butter chimney bicycle short mechanic brief hip popular battle clean gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "erase wreck property put fury sense ball oyster museum accident address deliver";
+var mnemonic = "worry donate palm nest candy usual shoe miss smoke bonus idle night";

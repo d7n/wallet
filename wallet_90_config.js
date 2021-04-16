@@ -1,1 +1,1 @@
-var mnemonic = "snap track front kick transfer leave stereo same develop theme candy snow";
+var mnemonic = "fit sail scrap amused volcano song piano almost piano park wall fatigue";

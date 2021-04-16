@@ -1,1 +1,1 @@
-var mnemonic = "evil mom ridge amount flower dragon theory engine buyer jar vivid voyage";
+var mnemonic = "ladder inject garlic when mad enemy runway zone receive busy gaze base";

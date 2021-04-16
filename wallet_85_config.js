@@ -1,1 +1,1 @@
-var mnemonic = "improve melody canvas lawn proud embody grab have distance ripple post bag";
+var mnemonic = "scale junior oppose front peace crane insane current tooth when token grace";

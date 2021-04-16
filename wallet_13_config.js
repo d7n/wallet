@@ -1,1 +1,1 @@
-var mnemonic = "shaft ritual amateur supreme goat lock rookie auction maple garage become trouble";
+var mnemonic = "frost clap zebra marriage boil gravity culture popular erode clinic naive half";

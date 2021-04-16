@@ -1,1 +1,1 @@
-var mnemonic = "perfect diagram stadium stool elder license pretty reform network edit hen merry";
+var mnemonic = "illness practice dream sing vehicle six surface patch rain scale hurry nothing";

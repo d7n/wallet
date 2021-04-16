@@ -1,1 +1,1 @@
-var mnemonic = "tube joke escape paper brown dirt oxygen alarm rose mistake industry coral";
+var mnemonic = "only swap swim joy sense network essence moon venue you someone umbrella";

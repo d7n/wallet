@@ -1,1 +1,1 @@
-var mnemonic = "own give easily identify fatal ocean oval spatial celery large canal boil";
+var mnemonic = "local devote dirt husband sport shrug maid dune fabric extra sorry pizza";

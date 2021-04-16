@@ -1,1 +1,1 @@
-var mnemonic = "stomach corn violin curve shell chronic either ride auction solution hello gauge";
+var mnemonic = "cinnamon void audit upgrade keen goddess clinic weird salt deny list armor";

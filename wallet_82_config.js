@@ -1,1 +1,1 @@
-var mnemonic = "trip yard agree enough truly muscle spare person thought stamp alpha hood";
+var mnemonic = "setup gun divide beach output bleak tank age tent legal tragic stumble";

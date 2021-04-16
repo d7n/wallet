@@ -1,1 +1,1 @@
-var mnemonic = "mix easily believe text artefact matrix leave clerk mutual cloth tree record";
+var mnemonic = "carry bomb tower visit walnut glove harsh bomb fragile layer wrap copper";

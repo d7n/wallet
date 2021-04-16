@@ -1,1 +1,1 @@
-var mnemonic = "wheel trade weapon input jungle village project artist twice club nasty summer";
+var mnemonic = "try cloth inject transfer source skin exist rival urge enjoy raccoon fatigue";

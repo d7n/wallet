@@ -1,1 +1,1 @@
-var mnemonic = "trouble manage trap helmet snake letter suit right response hobby client cannon";
+var mnemonic = "city off what gentle original please snow scan fetch arm devote despair";

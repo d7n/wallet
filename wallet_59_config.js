@@ -1,1 +1,1 @@
-var mnemonic = "bird soul very rival ask soda exercise cross business faculty fruit glide";
+var mnemonic = "claw box west lesson excess rhythm maid million rate coral jealous cause";

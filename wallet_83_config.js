@@ -1,1 +1,1 @@
-var mnemonic = "marine upgrade drastic wrestle ramp actor turtle print security inquiry toward dwarf";
+var mnemonic = "neglect sell pair pottery umbrella mandate dash climb child invest clerk element";

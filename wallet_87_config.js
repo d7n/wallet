@@ -1,1 +1,1 @@
-var mnemonic = "quote remind unhappy royal frozen property deliver soup canal canvas waste drip";
+var mnemonic = "swim escape link muffin amazing erupt noble lake quantum choose polar vibrant";

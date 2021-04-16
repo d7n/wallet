@@ -1,1 +1,1 @@
-var mnemonic = "another mention share project cheese plate fatal room pyramid faculty rubber cluster";
+var mnemonic = "still insane sock cancel draw exhibit pony olympic tobacco barrel worth stock";

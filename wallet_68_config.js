@@ -1,1 +1,1 @@
-var mnemonic = "clever clinic cycle album razor control couple sentence shoulder tenant awful round";
+var mnemonic = "walk park bonus sing shiver wheat cheese spirit mistake improve lecture cloth";

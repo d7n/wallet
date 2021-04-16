@@ -1,1 +1,1 @@
-var mnemonic = "enter coin armed hotel success useless tumble citizen hockey nation heavy crystal";
+var mnemonic = "man hand warrior puppy spice uphold parade clean style ancient improve depart";

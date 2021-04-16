@@ -1,1 +1,1 @@
-var mnemonic = "surface panic coast hint quality comfort scare toy sing usual apple convince";
+var mnemonic = "switch captain when scan bunker magnet pelican leisure refuse face boat reunion";

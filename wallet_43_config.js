@@ -1,1 +1,1 @@
-var mnemonic = "under space step tobacco staff notable elegant purity myself property hybrid issue";
+var mnemonic = "corn hat noise elephant slab sister cousin fatigue near hair social funny";

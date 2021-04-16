@@ -1,1 +1,1 @@
-var mnemonic = "raven trend mechanic labor skill can reopen wise kiwi funny river pair";
+var mnemonic = "renew hover network stay wage fine civil jar satisfy gospel rose pepper";

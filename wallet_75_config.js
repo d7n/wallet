@@ -1,1 +1,1 @@
-var mnemonic = "slot maid desk season smoke again donate brisk room monkey brand suspect";
+var mnemonic = "ticket pill ceiling hair work common push object material crop fortune canvas";

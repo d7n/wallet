@@ -1,1 +1,1 @@
-var mnemonic = "say naive assume finish people about forget twist surprise angry bounce discover";
+var mnemonic = "swarm bronze please lend devote hour outside sail park define unable alert";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado ecology ice verb session other reveal security candy collect material left";
+var mnemonic = "indoor furnace absent shadow suggest reveal virtual dragon parade base aisle curve";

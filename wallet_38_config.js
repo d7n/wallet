@@ -1,1 +1,1 @@
-var mnemonic = "thunder axis used universe park brave census chimney choose enjoy grass enjoy";
+var mnemonic = "borrow eager melody purchase minimum broccoli inform gesture cube kind panic athlete";

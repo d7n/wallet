@@ -1,1 +1,1 @@
-var mnemonic = "course infant era expire bind spend jazz list fuel fuel own talk";
+var mnemonic = "cage beef curve must nothing wrestle master total kiwi evidence anxiety banana";

@@ -1,1 +1,1 @@
-var mnemonic = "swear stem inside private length wonder govern cruel legend silver engine old";
+var mnemonic = "robust flame enforce digital accident ensure cross enact genius wave sweet cage";

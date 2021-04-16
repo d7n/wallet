@@ -1,1 +1,1 @@
-var mnemonic = "clump assume bronze bring program kid dad enforce plunge ethics thought shoot";
+var mnemonic = "vote face ignore actor salt bar sauce song spot swear behave bargain";

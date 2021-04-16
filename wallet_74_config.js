@@ -1,1 +1,1 @@
-var mnemonic = "uphold rocket undo sorry beach machine salute patch raise vendor leave marble";
+var mnemonic = "grunt shed ill metal actor tank awesome allow head eye rose unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "job balance foot vendor two harvest situate sing egg stem song vessel";
+var mnemonic = "adapt water nice rural furnace census wide snake almost barrel summer blanket";

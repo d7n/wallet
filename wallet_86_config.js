@@ -1,1 +1,1 @@
-var mnemonic = "welcome ecology update private weird lecture trend pact universe differ suggest fetch";
+var mnemonic = "rack put attract mass ice bitter climb cool mesh session spot task";

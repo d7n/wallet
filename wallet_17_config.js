@@ -1,1 +1,1 @@
-var mnemonic = "return soft genre taxi century nasty capital boat retreat throw kit myself";
+var mnemonic = "garlic absorb maze gold chase engine pave business resemble stay model task";

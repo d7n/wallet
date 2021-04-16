@@ -1,1 +1,1 @@
-var mnemonic = "guide page moon tower earn cannon current term exit finish cargo fly";
+var mnemonic = "review call orbit obtain ice cute domain essay upset dignity umbrella bright";

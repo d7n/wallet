@@ -1,1 +1,1 @@
-var mnemonic = "flat rabbit uphold horn neck present cage finish scissors turn slight brief";
+var mnemonic = "void solar flavor dinner plug shove rebel seed method lizard skate acid";

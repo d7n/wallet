@@ -1,1 +1,1 @@
-var mnemonic = "island december depend fork miracle verb naive harbor tide middle cigar because";
+var mnemonic = "brass column core cruise garden latin appear eyebrow develop version hen coffee";

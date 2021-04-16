@@ -1,1 +1,1 @@
-var mnemonic = "flame wool aim radar once ghost ripple edit under favorite decline chalk";
+var mnemonic = "claim catalog dash very front wear broom lecture flat critic decorate will";

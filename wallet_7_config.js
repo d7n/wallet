@@ -1,1 +1,1 @@
-var mnemonic = "multiply bird mother miracle canyon upon right yellow chaos goose pigeon census";
+var mnemonic = "pear zebra identify elegant ramp also wage trick body culture end square";

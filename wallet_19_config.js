@@ -1,1 +1,1 @@
-var mnemonic = "empower tank tomorrow rigid utility ugly human worth bar orphan option stamp";
+var mnemonic = "crumble talent carpet faculty hollow relax casino peace cup battle wise sketch";

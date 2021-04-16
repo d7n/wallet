@@ -1,1 +1,1 @@
-var mnemonic = "announce recipe hybrid abuse sunset robot hire rice uncover abuse curious state";
+var mnemonic = "unhappy middle fantasy want snack offer dust shoe agree head fat slab";

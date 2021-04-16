@@ -1,1 +1,1 @@
-var mnemonic = "cry crash loan february cram give romance venture eagle fabric brown debris";
+var mnemonic = "mesh twelve liquid around tribe muscle unknown win mutual bottom flat flush";

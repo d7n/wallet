@@ -1,1 +1,1 @@
-var mnemonic = "theme enable quarter scan behind accuse maple city output liquid torch glass";
+var mnemonic = "venture borrow capable purchase grant host expand shadow put trip alien clap";

@@ -1,1 +1,1 @@
-var mnemonic = "wave oppose salad define again hire burden find panther path abstract else";
+var mnemonic = "junior buddy country fold claim remind vague consider virus theme satisfy jewel";

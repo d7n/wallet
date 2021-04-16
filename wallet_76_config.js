@@ -1,1 +1,1 @@
-var mnemonic = "bitter artefact drink pill pink proud vague youth clarify outside model honey";
+var mnemonic = "sail nature cup teach bid buddy mask same kind pulse trouble desert";

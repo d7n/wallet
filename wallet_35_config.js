@@ -1,1 +1,1 @@
-var mnemonic = "reduce inside maid feature thing timber injury patrol scale long zoo blind";
+var mnemonic = "legend middle jump cruel wool cream roast carry bounce prevent acoustic parent";

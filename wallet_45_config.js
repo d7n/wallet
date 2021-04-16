@@ -1,1 +1,1 @@
-var mnemonic = "install license brother mirror obtain width usual banana awesome leisure steel oval";
+var mnemonic = "license amount follow learn item squeeze economy lawn detail pottery vapor border";

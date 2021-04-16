@@ -1,1 +1,1 @@
-var mnemonic = "insect open casual card learn capable scare sight rocket amount income clog";
+var mnemonic = "practice inflict relief wonder ticket resist stomach snack fan endorse timber dream";

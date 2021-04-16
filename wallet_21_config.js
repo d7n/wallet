@@ -1,1 +1,1 @@
-var mnemonic = "tube picnic robust swift stool clarify squirrel tent casual super repeat trend";
+var mnemonic = "expand regret cube mirror brother local toddler budget maze boat pull sunset";

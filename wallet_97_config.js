@@ -1,1 +1,1 @@
-var mnemonic = "case tuna whale lift dinosaur garment mansion network ensure spoon extend bunker";
+var mnemonic = "radio depth page master load cluster popular village heavy theme riot other";

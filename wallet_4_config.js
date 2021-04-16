@@ -1,1 +1,1 @@
-var mnemonic = "agree mixture rescue aware wing core tumble indoor become develop humble party";
+var mnemonic = "chaos plunge among stuff glide father oil clarify soldier current virtual still";

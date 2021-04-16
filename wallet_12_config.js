@@ -1,1 +1,1 @@
-var mnemonic = "frame salt amused judge vivid rough fine addict medal trend bring bright";
+var mnemonic = "sponsor blanket deny step million pink yellow budget gossip canyon network govern";

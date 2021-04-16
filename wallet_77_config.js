@@ -1,1 +1,1 @@
-var mnemonic = "tape pride control news essence again bulk oppose grace oven siren camera";
+var mnemonic = "pear syrup usage curious list now album unaware feed between history medal";

@@ -1,1 +1,1 @@
-var mnemonic = "rely sausage later market wasp thank hedgehog roof quit vibrant private ecology";
+var mnemonic = "say oppose enlist suspect sign damage push employ nerve indicate drip glory";

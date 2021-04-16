@@ -1,1 +1,1 @@
-var mnemonic = "stuff mad cancel exotic pyramid dinner unlock tree post rule adjust use";
+var mnemonic = "crater always off laptop sleep cradle text cushion dad fashion churn chair";

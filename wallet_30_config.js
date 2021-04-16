@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow eight permit sheriff inflict inflict soldier brick north magnet move faculty";
+var mnemonic = "share wall flower little orange spawn remind hedgehog hold turkey useless kick";

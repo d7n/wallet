@@ -1,1 +1,1 @@
-var mnemonic = "relax piece few hold inform scheme tower aware vehicle salt sadness around";
+var mnemonic = "pride earth skate cinnamon arrive follow punch hammer obey tank sock mind";

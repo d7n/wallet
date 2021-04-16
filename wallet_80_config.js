@@ -1,1 +1,1 @@
-var mnemonic = "marriage room kite pond motor ribbon sketch faculty ball option finger yard";
+var mnemonic = "exhibit easily nature mesh stairs shoe urge gold crash creek cactus hospital";

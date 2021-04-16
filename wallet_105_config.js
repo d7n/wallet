@@ -1,1 +1,1 @@
-var mnemonic = "topic sheriff various purpose cycle crane street casino frequent tribe draw judge";
+var mnemonic = "country remember thunder review virus toast park wreck quarter scout coffee awkward";

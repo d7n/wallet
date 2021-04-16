@@ -1,1 +1,1 @@
-var mnemonic = "travel warfare essay owner switch panel siren oil piano buffalo slim west";
+var mnemonic = "cliff slush cheese such jaguar loud story glad lava fashion slush sail";

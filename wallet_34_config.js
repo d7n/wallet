@@ -1,1 +1,1 @@
-var mnemonic = "ranch sort benefit gather spirit local rug urge raccoon quote spread drum";
+var mnemonic = "near recipe gate worth outdoor game panda mail chaos tail legend garlic";

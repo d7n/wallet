@@ -1,1 +1,1 @@
-var mnemonic = "trap tiger profit believe return indicate shed athlete around current city pudding";
+var mnemonic = "error range oppose cruel village garbage debris promote illegal patient injury rare";

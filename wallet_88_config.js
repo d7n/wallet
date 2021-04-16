@@ -1,1 +1,1 @@
-var mnemonic = "advance cushion glance slam obscure play beauty kind kitten shop million drip";
+var mnemonic = "midnight unhappy strategy search ocean keep tape foster vital blast umbrella sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "error shed notice extra cannon settle also disorder tool outside grace giggle";
+var mnemonic = "slight drastic repeat dawn hello reason deny struggle black impulse piece rack";

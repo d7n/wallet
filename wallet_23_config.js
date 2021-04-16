@@ -1,1 +1,1 @@
-var mnemonic = "moment defy topic couple helmet maid pen claim better tobacco illness moon";
+var mnemonic = "helmet lock proof erode rack clock cube vocal chase cargo home hybrid";

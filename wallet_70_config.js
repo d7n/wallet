@@ -1,1 +1,1 @@
-var mnemonic = "swim credit cross lemon social tennis divorce unusual lawn valid math setup";
+var mnemonic = "venue raise aware snack little weekend tongue valley crystal body pioneer inquiry";

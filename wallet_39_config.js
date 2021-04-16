@@ -1,1 +1,1 @@
-var mnemonic = "skill tuna neutral until casino easy silly solid ride once ride caution";
+var mnemonic = "disease garage team ready two blind equip nation undo sand boil weird";

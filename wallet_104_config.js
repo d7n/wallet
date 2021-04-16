@@ -1,1 +1,1 @@
-var mnemonic = "upon bike afford property aunt foil common client wet enroll skin trial";
+var mnemonic = "brass tuition exact excess test cheese minor almost sound borrow settle width";

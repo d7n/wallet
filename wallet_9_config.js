@@ -1,1 +1,1 @@
-var mnemonic = "smart sunny various valid puzzle ginger pluck flat bamboo trap salad anger";
+var mnemonic = "alcohol option destroy engage suffer unfair devote hospital update dream skate citizen";

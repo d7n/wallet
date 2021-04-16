@@ -1,1 +1,1 @@
-var mnemonic = "diamond law next worry beach inside minimum atom trouble fluid urban genre";
+var mnemonic = "sunny average evidence audit pair truth repair ripple city fancy crop method";
