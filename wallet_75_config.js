@@ -1,1 +1,1 @@
-var mnemonic = "increase obvious emerge digital trick alcohol wink fury what mad manual giggle";
+var mnemonic = "visual valley audit dragon spring assume execute ski trash during test tongue";

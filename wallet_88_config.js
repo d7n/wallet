@@ -1,1 +1,1 @@
-var mnemonic = "can often tray ticket outer earn bleak exact will chunk fence fan";
+var mnemonic = "cool image other fantasy dentist menu trick margin peace proof blouse tomorrow";

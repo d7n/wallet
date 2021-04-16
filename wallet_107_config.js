@@ -1,1 +1,1 @@
-var mnemonic = "master item piece thought isolate spider moment immense tuna army oak fury";
+var mnemonic = "use blast radar install plug pair dawn autumn script chunk urge sunny";

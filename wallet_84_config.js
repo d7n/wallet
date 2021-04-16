@@ -1,1 +1,1 @@
-var mnemonic = "sea pilot together anchor very aware sample grace angry old disagree virus";
+var mnemonic = "salt around route enough summer snack dizzy prepare bulk ring vast feel";

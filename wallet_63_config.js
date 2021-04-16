@@ -1,1 +1,1 @@
-var mnemonic = "adult beach truck figure ready wide utility session liar sail impact ranch";
+var mnemonic = "chalk onion dirt erosion basket survey faith nasty exile hard wonder carry";

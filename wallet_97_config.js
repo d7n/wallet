@@ -1,1 +1,1 @@
-var mnemonic = "monkey sniff depart swamp cheap change flame task hill mountain organ word";
+var mnemonic = "roof elevator disorder sound point wave maximum make frog tortoise atom remove";

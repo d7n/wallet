@@ -1,1 +1,1 @@
-var mnemonic = "reduce force dragon cash damp tobacco dream level price learn tiger milk";
+var mnemonic = "vague text trap cabbage embark chat visual addict into evoke dream shop";

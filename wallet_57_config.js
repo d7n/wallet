@@ -1,1 +1,1 @@
-var mnemonic = "evolve laundry minor sudden spot sign nurse cupboard lyrics orchard buddy destroy";
+var mnemonic = "exhibit walk monitor session elevator gate absurd squeeze flush style alley duty";

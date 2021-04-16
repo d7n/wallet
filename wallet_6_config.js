@@ -1,1 +1,1 @@
-var mnemonic = "recall vacant garment park broom inquiry judge charge seven torch clown smoke";
+var mnemonic = "stand office cake general shop vehicle august happy purpose smooth mesh warfare";

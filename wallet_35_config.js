@@ -1,1 +1,1 @@
-var mnemonic = "museum safe empty census usual fit total famous cash correct perfect about";
+var mnemonic = "boost bullet never mother unable unable faith violin token enjoy future walnut";

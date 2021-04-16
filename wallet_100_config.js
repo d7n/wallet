@@ -1,1 +1,1 @@
-var mnemonic = "mule sweet dismiss brief tell slim anchor sibling pilot nose salad device";
+var mnemonic = "economy wrist hunt level habit mechanic weapon light average aware unfair cable";

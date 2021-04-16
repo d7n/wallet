@@ -1,1 +1,1 @@
-var mnemonic = "domain able silent garden half small afraid peace noodle click flavor betray";
+var mnemonic = "all cool quiz devote crew pave top toilet child direct pony decade";

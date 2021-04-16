@@ -1,1 +1,1 @@
-var mnemonic = "loyal anchor ramp expand helmet chase involve jeans canyon feature crime aim";
+var mnemonic = "solid penalty brief burst fantasy flush simple degree invest route increase blouse";

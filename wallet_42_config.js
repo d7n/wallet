@@ -1,1 +1,1 @@
-var mnemonic = "juice acoustic negative thunder glass quote begin ginger drip portion wire gesture";
+var mnemonic = "beauty secret spoon neglect amateur silent page theme juice remain soft result";

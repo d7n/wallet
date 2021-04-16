@@ -1,1 +1,1 @@
-var mnemonic = "salute window dutch give much fade boy tuition shed lava tip borrow";
+var mnemonic = "close kite muffin urge plug lion special network fine nuclear odor unhappy";

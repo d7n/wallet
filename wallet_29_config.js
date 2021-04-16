@@ -1,1 +1,1 @@
-var mnemonic = "unit they illegal nerve below nose panic turtle spray always news average";
+var mnemonic = "wife twist six suit debris solve age near gauge tape coyote syrup";

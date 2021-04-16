@@ -1,1 +1,1 @@
-var mnemonic = "scatter nuclear mystery autumn behind guess term banana tornado sting hidden hand";
+var mnemonic = "license wink guess enrich flower demise clinic evoke invite enough dash jaguar";

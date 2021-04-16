@@ -1,1 +1,1 @@
-var mnemonic = "misery december bacon year easy foam ketchup aware spring cloth siege lunch";
+var mnemonic = "ill oblige update calm profit defy kiwi draw slide side woman border";

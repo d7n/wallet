@@ -1,1 +1,1 @@
-var mnemonic = "glow enable ribbon candy cancel guess panel fat drum copy afford scrap";
+var mnemonic = "quick merge inhale recipe auction buyer warfare fancy sword cram item genre";

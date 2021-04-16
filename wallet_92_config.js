@@ -1,1 +1,1 @@
-var mnemonic = "delay collect neutral any machine uphold attack reform that call visual digital";
+var mnemonic = "course tower mule cliff prepare beach season polar bundle defense wine scout";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology shrug kidney throw side voice badge agent any sure mystery will";
+var mnemonic = "adapt struggle exotic wood crash enroll tooth dilemma debate scissors mosquito property";

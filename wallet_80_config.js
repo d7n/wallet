@@ -1,1 +1,1 @@
-var mnemonic = "inquiry leisure genre whisper canvas first guitar flavor clock skate flat save";
+var mnemonic = "chronic exercise alien vocal sign debate cannon bachelor gather prepare soap arrive";

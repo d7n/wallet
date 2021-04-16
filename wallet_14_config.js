@@ -1,1 +1,1 @@
-var mnemonic = "blanket soda they coast rival comfort region shrug sadness forum oven recall";
+var mnemonic = "adapt ignore dragon battle twice reason path few loud mutual decorate fabric";

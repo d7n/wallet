@@ -1,1 +1,1 @@
-var mnemonic = "explain ocean manual exchange seat gold share need edit borrow actor buddy";
+var mnemonic = "yellow genuine truly proof huge favorite fly burden curve pause rubber lens";

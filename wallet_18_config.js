@@ -1,1 +1,1 @@
-var mnemonic = "situate civil pond deer island luggage melt reward cheese injury leisure verify";
+var mnemonic = "leave cheap riot jelly garment often satisfy february blade interest make under";

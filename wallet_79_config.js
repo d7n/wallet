@@ -1,1 +1,1 @@
-var mnemonic = "joy friend unique member uniform raw island useful flavor ketchup bicycle brave";
+var mnemonic = "session ketchup confirm mesh gloom away curtain cluster magic shine hero ridge";

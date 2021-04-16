@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ranch copper dose lady grant member canyon coffee relax kitten retire";
+var mnemonic = "urge hour salt face gloom sad glue exit wave kiwi cereal angry";

@@ -1,1 +1,1 @@
-var mnemonic = "area blood hello build record liquid because flat approve feel priority two";
+var mnemonic = "slot aim worry someone stable crystal trend claim federal salon fox hunt";

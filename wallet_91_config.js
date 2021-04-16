@@ -1,1 +1,1 @@
-var mnemonic = "spoon stereo must cream undo never explain segment source exile miracle indicate";
+var mnemonic = "panic gym tank nominee mask weasel matrix found ride reflect any supreme";

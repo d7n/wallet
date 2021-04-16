@@ -1,1 +1,1 @@
-var mnemonic = "van good original vanish leaf safe harsh shadow hybrid opera online sail";
+var mnemonic = "slot clock render pyramid beef myself sure desert basic hen exit convince";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber another state column inspire mechanic bacon base salt soul actor puzzle";
+var mnemonic = "bleak lyrics soup state flight mean disease hidden joke enough glove soap";

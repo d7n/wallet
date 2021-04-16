@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tunnel virtual cactus alarm vocal family jacket agree asthma pluck betray";
+var mnemonic = "script brain depend accuse special mixture cabin fine best vicious bread play";

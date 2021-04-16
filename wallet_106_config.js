@@ -1,1 +1,1 @@
-var mnemonic = "boil soon tribe photo supreme foam peasant load thumb level eager quiz";
+var mnemonic = "rookie dentist normal gossip cotton cliff melody display pact garbage collect stand";

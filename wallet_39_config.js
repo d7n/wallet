@@ -1,1 +1,1 @@
-var mnemonic = "recycle pig emerge express topic weekend ceiling stage green spider trouble pulp";
+var mnemonic = "trial core reveal area harsh exit place pigeon dizzy sorry glide bounce";

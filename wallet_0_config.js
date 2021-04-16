@@ -1,1 +1,1 @@
-var mnemonic = "monster coyote pumpkin dune clarify fragile solid funny hedgehog glide expire hold";
+var mnemonic = "rookie fashion turkey rubber spoon collect link gesture vapor stone dry nerve";

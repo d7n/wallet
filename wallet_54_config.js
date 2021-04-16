@@ -1,1 +1,1 @@
-var mnemonic = "patient rookie wrap boring teach explain owner destroy rebel excess give garlic";
+var mnemonic = "toe leader artist easily common elbow east favorite typical lamp spray same";

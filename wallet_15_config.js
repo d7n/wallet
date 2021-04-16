@@ -1,1 +1,1 @@
-var mnemonic = "slab lizard funny because like sure crumble usual interest canal cargo fatigue";
+var mnemonic = "earn cook layer coach dolphin key wrong bind door extra tunnel city";

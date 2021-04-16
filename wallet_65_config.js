@@ -1,1 +1,1 @@
-var mnemonic = "tourist leader legend enemy dwarf tennis three tower ancient stamp neglect gift";
+var mnemonic = "insect beyond steak rain bubble derive tower play stamp afraid have paddle";

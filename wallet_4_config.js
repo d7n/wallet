@@ -1,1 +1,1 @@
-var mnemonic = "harbor bus fall buzz welcome van federal reject radio simple glare question";
+var mnemonic = "dry area elevator bullet opera maze age speak today inform owner gold";

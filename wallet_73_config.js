@@ -1,1 +1,1 @@
-var mnemonic = "nest napkin width jacket settle pave onion expand artwork viable tomorrow coconut";
+var mnemonic = "senior uniform negative punch differ laptop horn away puppy file isolate zero";

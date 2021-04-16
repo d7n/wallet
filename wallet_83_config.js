@@ -1,1 +1,1 @@
-var mnemonic = "slab toss swallow spend legal scale bleak educate indoor horn long surge";
+var mnemonic = "fantasy gentle help enemy prevent frequent exile photo umbrella response call similar";

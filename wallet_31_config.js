@@ -1,1 +1,1 @@
-var mnemonic = "estate camera pig paper stuff convince morning taste coconut they scheme phrase";
+var mnemonic = "cost book boost vendor siege excuse aspect venture wild series leave crew";

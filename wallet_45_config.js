@@ -1,1 +1,1 @@
-var mnemonic = "toe height price flip bean situate angle neither logic believe steak click";
+var mnemonic = "unusual ski lesson champion helmet guilt salon kid garlic pear caution drop";

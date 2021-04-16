@@ -1,1 +1,1 @@
-var mnemonic = "buzz cup loyal convince lava floor sauce pluck absent worth brush dance";
+var mnemonic = "critic super truth wrestle safe noble stick exit biology naive hedgehog lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "promote spin movie uphold mixed type sweet parrot foil cargo shine drip";
+var mnemonic = "virtual light enough acquire heart bless stamp siege belt riot laundry impact";

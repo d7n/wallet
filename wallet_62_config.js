@@ -1,1 +1,1 @@
-var mnemonic = "spatial dune retreat gain evolve project shaft kit media expand laundry sea";
+var mnemonic = "neglect burst tortoise engage deny grit page pelican belt measure ceiling drink";

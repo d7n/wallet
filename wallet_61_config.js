@@ -1,1 +1,1 @@
-var mnemonic = "fit ridge thrive shove quick give valve diet canyon oyster aim confirm";
+var mnemonic = "mail liar village dice fashion circle noble chaos cannon treat hope chest";

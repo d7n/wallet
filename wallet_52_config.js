@@ -1,1 +1,1 @@
-var mnemonic = "churn scale stereo cheese moral guilt word word level noodle chicken critic";
+var mnemonic = "purchase wine tornado tray maple gentle output quit slow emerge shed device";

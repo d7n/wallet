@@ -1,1 +1,1 @@
-var mnemonic = "fog alert long blossom loud fortune cattle cup frown old client champion";
+var mnemonic = "repair fiber loud tilt skin inquiry enter easy debris parade apart faint";

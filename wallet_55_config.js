@@ -1,1 +1,1 @@
-var mnemonic = "coil stock grass educate frequent nest sugar load dismiss swarm access outside";
+var mnemonic = "blanket famous crisp subject vague blame leader alter pass merry ensure globe";

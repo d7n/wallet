@@ -1,1 +1,1 @@
-var mnemonic = "trash fit shoot swallow minimum awesome nature skull fringe deposit february kind";
+var mnemonic = "forget poet toss galaxy switch ship cupboard spray produce virus gym exile";

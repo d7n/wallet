@@ -1,1 +1,1 @@
-var mnemonic = "become chase sad empower into citizen version describe arm before bulb drill";
+var mnemonic = "when horse drastic twelve second tissue equip pumpkin lobster elbow ivory climb";

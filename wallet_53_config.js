@@ -1,1 +1,1 @@
-var mnemonic = "skate shadow tuition lift glimpse cliff finger ocean round ripple seminar summer";
+var mnemonic = "crazy choose clutch trust myself rough fancy execute attend burst small clump";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend silent tail report dinosaur proud enjoy lyrics mean silent hen spare";
+var mnemonic = "fossil achieve choice enrich alien cheap follow grocery various ten baby club";

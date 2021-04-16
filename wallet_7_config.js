@@ -1,1 +1,1 @@
-var mnemonic = "salmon post current indoor jaguar bike vintage buzz person achieve major frown";
+var mnemonic = "fog label sphere monitor palm machine genre trust unveil endorse churn special";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp holiday flat force crowd jacket butter shallow prize supply sound text";
+var mnemonic = "teach coral accident fruit travel imitate crop later mushroom three leader juice";

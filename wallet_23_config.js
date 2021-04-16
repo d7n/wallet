@@ -1,1 +1,1 @@
-var mnemonic = "quote zero buffalo define unfair abandon dress ladder recall tell rice start";
+var mnemonic = "steel local pottery rebel extra hard anchor heart salad still tool lobster";

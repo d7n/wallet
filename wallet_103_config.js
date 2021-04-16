@@ -1,1 +1,1 @@
-var mnemonic = "deal solar protect lawn couch charge debris slim double mansion fetch ring";
+var mnemonic = "same dolphin split stand dilemma script gift garbage burst useless guitar animal";

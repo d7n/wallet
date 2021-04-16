@@ -1,1 +1,1 @@
-var mnemonic = "gold render sentence smile neglect fork supreme enable gather feel brother enough";
+var mnemonic = "clog tackle inmate lucky online logic cheese stamp auto december profit poem";

@@ -1,1 +1,1 @@
-var mnemonic = "cook note vehicle buffalo vendor drop museum skirt frozen head benefit prevent";
+var mnemonic = "witness donor illegal cash license picture category flush sweet muscle illness pair";

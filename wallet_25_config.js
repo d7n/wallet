@@ -1,1 +1,1 @@
-var mnemonic = "elite card range photo lava mention install family middle unusual cherry violin";
+var mnemonic = "chest please broken act wink unable lion roast pretty warrior proud office";

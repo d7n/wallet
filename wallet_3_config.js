@@ -1,1 +1,1 @@
-var mnemonic = "because comfort manage ethics buzz shy large moment vast system dinner inform";
+var mnemonic = "cute tape draft ancient guess undo visual under awful shift area axis";

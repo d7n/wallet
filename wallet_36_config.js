@@ -1,1 +1,1 @@
-var mnemonic = "twenty you improve brass army fog cube ten inside vacant spider endorse";
+var mnemonic = "news planet pottery approve vapor slush struggle require wheel cloth more task";

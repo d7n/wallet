@@ -1,1 +1,1 @@
-var mnemonic = "reopen link around repair horn audit arrange suffer add dragon rich oil";
+var mnemonic = "tumble leisure term evoke pave salmon fatal drum smoke wealth decline sibling";

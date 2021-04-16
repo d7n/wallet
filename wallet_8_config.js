@@ -1,1 +1,1 @@
-var mnemonic = "want easy hold sick senior naive distance spider message act rigid evoke";
+var mnemonic = "behind spirit unlock material device end media photo ugly common trip puppy";

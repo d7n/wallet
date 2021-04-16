@@ -1,1 +1,1 @@
-var mnemonic = "worth employ advance ocean cram depth first sand lion asthma immune number";
+var mnemonic = "jazz jealous rocket prepare basket split muscle differ version afraid coffee size";

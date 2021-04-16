@@ -1,1 +1,1 @@
-var mnemonic = "piano purse swift arctic scale trade script illegal order twice present vibrant";
+var mnemonic = "explain despair damage deliver draft spirit around design cross child worth borrow";

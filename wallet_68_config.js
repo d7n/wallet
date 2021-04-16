@@ -1,1 +1,1 @@
-var mnemonic = "wealth taste major mimic tail idle desk exercise salute night ghost diamond";
+var mnemonic = "holiday glory witness rally where ocean elevator potato media addict island monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "today bunker rent hidden spoil leaf lounge disease float boil million insane";
+var mnemonic = "family minor furnace doll oxygen turtle eyebrow ugly kangaroo leg sister damage";

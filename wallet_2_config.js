@@ -1,1 +1,1 @@
-var mnemonic = "offer snow push assume blue argue happy police expose away awkward undo";
+var mnemonic = "patch awake acid enhance theme together cruel web project shallow indicate obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock guard vague elevator animal raw ten flower pipe bulb swap bus";
+var mnemonic = "post normal legend pink void seat enjoy pencil hybrid govern citizen hotel";

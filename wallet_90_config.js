@@ -1,1 +1,1 @@
-var mnemonic = "squirrel industry brand leader coin nothing pony spice what silk wedding health";
+var mnemonic = "foil aerobic among planet endless canyon sting trouble target float inch divide";

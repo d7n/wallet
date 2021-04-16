@@ -1,1 +1,1 @@
-var mnemonic = "tired planet border will day squirrel rapid episode agree series invite tape";
+var mnemonic = "negative credit switch pair hill wire embody dream hair neck snow wing";

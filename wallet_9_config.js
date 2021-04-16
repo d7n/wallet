@@ -1,1 +1,1 @@
-var mnemonic = "abuse nose attend early sorry syrup tag dose busy smooth question relief";
+var mnemonic = "split twist young chronic ridge certain distance choice candy session village south";

@@ -1,1 +1,1 @@
-var mnemonic = "glow chat inmate burden name lock phrase dinner click trouble fee replace";
+var mnemonic = "machine still drastic column vehicle rose utility public bubble segment family eternal";

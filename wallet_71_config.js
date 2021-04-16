@@ -1,1 +1,1 @@
-var mnemonic = "domain mesh snap mad assume more raccoon wheat trend holiday balance width";
+var mnemonic = "lobster effort bracket mix label point digital brick day motion cruel cruise";

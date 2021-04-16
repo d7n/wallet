@@ -1,1 +1,1 @@
-var mnemonic = "area antenna same odor toy pet describe drift distance depart peanut vague";
+var mnemonic = "axis video dream cute nuclear together inch release crawl paddle initial lava";

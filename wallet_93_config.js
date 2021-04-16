@@ -1,1 +1,1 @@
-var mnemonic = "arrest estate divide monster friend add latin equip settle nerve pudding job";
+var mnemonic = "sphere stumble beach athlete close outer caution zone slogan room sort under";

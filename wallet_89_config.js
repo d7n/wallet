@@ -1,1 +1,1 @@
-var mnemonic = "rubber guess machine earth cruel profit option use bunker forget spot stairs";
+var mnemonic = "buddy proud deliver wink badge destroy volcano happy tenant tent cream nothing";

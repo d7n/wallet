@@ -1,1 +1,1 @@
-var mnemonic = "famous provide verify kingdom tank general weird custom retreat junk decorate weird";
+var mnemonic = "silver benefit knife wolf crater detect brave penalty face give word question";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle violin donkey believe skin myself install valid endorse famous acid follow";
+var mnemonic = "clay bind deputy genius mom scrap inner better sheriff maid crime case";

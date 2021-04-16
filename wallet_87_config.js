@@ -1,1 +1,1 @@
-var mnemonic = "muffin flight gravity sorry leave lawsuit shift involve title road glass tongue";
+var mnemonic = "embark ghost student wash pupil width city abuse flower volume zoo achieve";

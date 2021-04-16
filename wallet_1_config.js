@@ -1,1 +1,1 @@
-var mnemonic = "flag pencil eternal tissue group two butter waste sadness bone adult foam";
+var mnemonic = "ripple thought much hero grant clarify craft electric beef learn trophy injury";

@@ -1,1 +1,1 @@
-var mnemonic = "connect human fee flip wise situate torch jealous index credit whisper silk";
+var mnemonic = "hire gasp year enlist know machine bamboo hybrid twist shock school feed";

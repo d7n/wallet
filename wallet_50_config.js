@@ -1,1 +1,1 @@
-var mnemonic = "immune turtle fatal because absorb connect airport owner february spider captain theme";
+var mnemonic = "deer pizza view between man play absent impose net melt equal equip";

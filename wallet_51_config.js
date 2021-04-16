@@ -1,1 +1,1 @@
-var mnemonic = "balance announce town merit pistol force gym pig heavy spare border turkey";
+var mnemonic = "decorate knock series one six liberty detail spirit round party ten promote";

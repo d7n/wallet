@@ -1,1 +1,1 @@
-var mnemonic = "rural lift sad job diamond awkward bundle degree ten knee debris hero";
+var mnemonic = "man uphold tape random weekend almost fatigue evil fox success gap day";

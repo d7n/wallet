@@ -1,1 +1,1 @@
-var mnemonic = "elephant creek candy divide van junk shell current blue coyote shoe where";
+var mnemonic = "alert parade crop forget aerobic initial chef coast path pole congress diet";

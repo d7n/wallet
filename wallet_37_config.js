@@ -1,1 +1,1 @@
-var mnemonic = "profit walk promote jewel glove blue parent tooth rebel media violin double";
+var mnemonic = "seminar inform team anchor level detail erupt lyrics obscure differ fragile patch";
