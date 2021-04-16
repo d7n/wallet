@@ -1,1 +1,1 @@
-var mnemonic = "effort also athlete endless parrot rabbit rough topic excess hair fame sure";
+var mnemonic = "divorce miracle neutral idea conduct mercy captain more smile panic winter airport";

@@ -1,1 +1,1 @@
-var mnemonic = "piece forest because income poverty stairs beyond loan teach blind blood beauty";
+var mnemonic = "account evidence retreat test become uncle admit solid furnace correct myself crack";

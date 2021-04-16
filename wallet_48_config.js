@@ -1,1 +1,1 @@
-var mnemonic = "miracle upgrade basket gift infant decorate ramp frame sing mountain reflect runway";
+var mnemonic = "hockey unhappy interest issue dignity half palm member mango hobby announce burst";

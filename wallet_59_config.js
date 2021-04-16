@@ -1,1 +1,1 @@
-var mnemonic = "bridge era glue public either term imitate attack invest small memory bottom";
+var mnemonic = "loud huge cube flower aisle exact orbit rifle east castle flat birth";

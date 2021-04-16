@@ -1,1 +1,1 @@
-var mnemonic = "blind beach convince observe brief upset great dove morning chase sample possible";
+var mnemonic = "mask ball grab silly sunny grocery wedding latin column bird drill recycle";

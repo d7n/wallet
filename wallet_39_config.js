@@ -1,1 +1,1 @@
-var mnemonic = "gun duty grant melt dove seek awkward inflict slide brand relief gold";
+var mnemonic = "stairs educate dwarf chicken situate appear resemble hole tip text huge grid";

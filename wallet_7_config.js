@@ -1,1 +1,1 @@
-var mnemonic = "dance stem smart noise idle crucial story door gallery velvet teach skirt";
+var mnemonic = "clarify embark face impact flower minimum blood dance neither rack hamster inspire";

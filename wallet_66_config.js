@@ -1,1 +1,1 @@
-var mnemonic = "argue skull clerk giant dawn flower excuse vacant lawn resemble icon chief";
+var mnemonic = "custom dust tattoo gasp predict able roof wage muffin chase project spice";

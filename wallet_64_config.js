@@ -1,1 +1,1 @@
-var mnemonic = "situate top alter volcano shaft plug peasant quantum legend exist now sure";
+var mnemonic = "melody silent brush common couple tiger input grab slot modify smile drip";

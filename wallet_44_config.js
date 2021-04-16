@@ -1,1 +1,1 @@
-var mnemonic = "mystery safe high hobby amateur upgrade discover raccoon mass deposit fall age";
+var mnemonic = "alter harvest start camp flash remember apart athlete armed secret impulse curve";

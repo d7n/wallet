@@ -1,1 +1,1 @@
-var mnemonic = "color burst slim tooth lecture pass fire city sure pink ribbon breeze";
+var mnemonic = "budget alarm float express file visual narrow nurse advance island include fever";

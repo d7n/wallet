@@ -1,1 +1,1 @@
-var mnemonic = "diet person endless depend fresh giraffe piano hover kidney rigid diamond merry";
+var mnemonic = "hand recycle perfect silent daring bind before pumpkin awesome moon kite purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "raise enroll romance flavor brick town desert slim switch able doll diary";
+var mnemonic = "pledge pencil daring keen metal west original laugh second tornado trip silent";

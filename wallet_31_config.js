@@ -1,1 +1,1 @@
-var mnemonic = "deny saddle surge egg gift grab emerge word chief leg manual link";
+var mnemonic = "crazy elephant news frozen regret interest rhythm maid all barely grit depth";

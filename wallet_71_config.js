@@ -1,1 +1,1 @@
-var mnemonic = "elder quit public fame rack wash treat tiger clinic arch option chapter";
+var mnemonic = "large income two vault second return total final hollow reason receive tongue";

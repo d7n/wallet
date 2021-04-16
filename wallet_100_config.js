@@ -1,1 +1,1 @@
-var mnemonic = "girl deposit rent obtain hold link spice gravity join duty chief document";
+var mnemonic = "accident attack grass arrow walk avocado spice movie type proud depart rough";

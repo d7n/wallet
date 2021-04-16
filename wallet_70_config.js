@@ -1,1 +1,1 @@
-var mnemonic = "update original lawn night hunt same reject alone shock canoe mandate solve";
+var mnemonic = "gaze defense garbage code coast dream void resemble guess truck hand ahead";

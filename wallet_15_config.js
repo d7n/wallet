@@ -1,1 +1,1 @@
-var mnemonic = "husband melt layer autumn core tone bird visit waste sketch toward trigger";
+var mnemonic = "cabin fun verify payment coil hazard century congress music congress parrot front";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic use concert divide defy symptom state country fever town solution sight";
+var mnemonic = "wool staff novel first poet magic defense path bomb lizard noise elder";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom marriage wire walk crash lens raw analyst absorb excess armor animal";
+var mnemonic = "wrap gate flip story combine time black donkey clinic fiscal outer frozen";

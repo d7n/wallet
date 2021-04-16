@@ -1,1 +1,1 @@
-var mnemonic = "demand into near record clown insane basic light myself boss ethics endorse";
+var mnemonic = "fetch barrel indicate paper battle chronic essay practice gun float amazing subject";

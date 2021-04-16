@@ -1,1 +1,1 @@
-var mnemonic = "life virtual disagree party review when front improve enroll minimum current clinic";
+var mnemonic = "addict banana debate enter captain glue clump popular feature lucky stereo hotel";

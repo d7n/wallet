@@ -1,1 +1,1 @@
-var mnemonic = "true pony blush seed vacant floor coin enjoy kit voyage pottery gloom";
+var mnemonic = "define foil punch camera garage supreme enemy mushroom opera cigar employ yellow";

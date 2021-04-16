@@ -1,1 +1,1 @@
-var mnemonic = "ladder simple faith ladder aisle recall tuition insect marble assault few away";
+var mnemonic = "light seminar unveil cup fine noodle fog alarm hurry feed exhaust tank";

@@ -1,1 +1,1 @@
-var mnemonic = "maid three couple marine news fragile minute imitate urban topic address couch";
+var mnemonic = "wisdom dog draft powder mixture imitate fitness unable any damage client evil";

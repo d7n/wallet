@@ -1,1 +1,1 @@
-var mnemonic = "achieve life train advice this hen grit behave extend equal opera busy";
+var mnemonic = "solid antique top road glove oil garlic flower barely dwarf impulse praise";

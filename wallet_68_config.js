@@ -1,1 +1,1 @@
-var mnemonic = "trip alley ship rate venture valve rare save ahead kite neglect butter";
+var mnemonic = "direct divide soup force west wrong program arctic tide window uncle swamp";

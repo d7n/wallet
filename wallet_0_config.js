@@ -1,1 +1,1 @@
-var mnemonic = "begin fatal soup crash tattoo civil balcony plunge universe will pull salt";
+var mnemonic = "rare mimic season hour message core imitate scissors believe wisdom mansion source";

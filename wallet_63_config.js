@@ -1,1 +1,1 @@
-var mnemonic = "medal bid nominee tribe correct gate boost copper same abstract security spend";
+var mnemonic = "trap annual stool during balcony avoid escape hill where orbit shaft limb";

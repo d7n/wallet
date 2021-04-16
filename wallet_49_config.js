@@ -1,1 +1,1 @@
-var mnemonic = "actor move jacket modify bracket attend found idle steak supreme patch mention";
+var mnemonic = "eagle become lyrics ketchup dolphin unusual payment avocado venue stamp palace liar";

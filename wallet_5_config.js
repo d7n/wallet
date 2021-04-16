@@ -1,1 +1,1 @@
-var mnemonic = "guide quantum volume denial tube morning airport session stove speed rib web";
+var mnemonic = "rocket zebra photo cradle build ginger jungle blouse elite tide oblige intact";

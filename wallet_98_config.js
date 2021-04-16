@@ -1,1 +1,1 @@
-var mnemonic = "barrel champion perfect index alone garlic speak cactus guess radio elephant behind";
+var mnemonic = "smoke yellow boil palm sound affair silver glow story genius around middle";

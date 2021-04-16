@@ -1,1 +1,1 @@
-var mnemonic = "vintage leopard acoustic fish lizard brass negative cricket dice blue symbol alter";
+var mnemonic = "resemble oil super convince couple copper dove clay forest captain blood betray";

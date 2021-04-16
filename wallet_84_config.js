@@ -1,1 +1,1 @@
-var mnemonic = "aisle hedgehog immense mountain file knife push dynamic ask island property adapt";
+var mnemonic = "shop wolf fresh trend laundry peasant start slice fringe ill paper mean";

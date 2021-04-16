@@ -1,1 +1,1 @@
-var mnemonic = "volcano wrong flower room car nasty sponsor sunny there spike skull slight";
+var mnemonic = "three track trophy whale winter estate safe camp front law forget worth";

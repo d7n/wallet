@@ -1,1 +1,1 @@
-var mnemonic = "modify public point doctor lava shock fit network split reveal burst calm";
+var mnemonic = "maple chalk rude fluid camp clown turn forest midnight task silent paper";

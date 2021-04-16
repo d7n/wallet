@@ -1,1 +1,1 @@
-var mnemonic = "seek woman leaf believe casino enable alpha boy cotton wedding clown student";
+var mnemonic = "able amused tiny execute great intact fluid shop spring satisfy love radio";

@@ -1,1 +1,1 @@
-var mnemonic = "ill final faint width tiger biology exit follow square limit dwarf finger";
+var mnemonic = "gift obtain hidden grant chaos still few project bachelor remind morning legend";

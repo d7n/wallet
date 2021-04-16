@@ -1,1 +1,1 @@
-var mnemonic = "wealth float train pulp happy deliver despair shrimp dry slot soldier universe";
+var mnemonic = "wolf tip lesson ketchup toddler exercise citizen orange guitar empower process west";

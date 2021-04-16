@@ -1,1 +1,1 @@
-var mnemonic = "sure usage naive point lawn pond grab shuffle climb carbon civil find";
+var mnemonic = "skull dilemma analyst jump blade shrimp village frog scrap jump pulp license";

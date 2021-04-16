@@ -1,1 +1,1 @@
-var mnemonic = "comic steel guard topic december erosion spring rebel install retire leave walnut";
+var mnemonic = "ignore midnight catch ask small puppy quote ugly front please nation appear";

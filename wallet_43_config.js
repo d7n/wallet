@@ -1,1 +1,1 @@
-var mnemonic = "issue price cream mandate one mad person include flash trial lottery minute";
+var mnemonic = "rabbit section cactus exist clap pair mask detect abstract buffalo music timber";

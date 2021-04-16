@@ -1,1 +1,1 @@
-var mnemonic = "machine clay cotton february tonight educate hole say victory metal this obey";
+var mnemonic = "meat identify alley net over tiny system mutual interest neutral neck hope";

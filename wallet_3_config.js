@@ -1,1 +1,1 @@
-var mnemonic = "federal chief attend puppy wash describe floor when toilet pigeon nose fringe";
+var mnemonic = "require trumpet execute comic mule suggest evidence section rain mail rose depart";

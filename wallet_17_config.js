@@ -1,1 +1,1 @@
-var mnemonic = "there south enroll gap neck toss train cash all whip quick cave";
+var mnemonic = "erosion anger ribbon extra together cream true sadness runway fruit limit leopard";

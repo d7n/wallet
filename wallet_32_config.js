@@ -1,1 +1,1 @@
-var mnemonic = "grab gravity chimney erase shiver price canyon flip amount vessel rotate rug";
+var mnemonic = "letter predict olive venture any burger dust photo shy primary cup dance";

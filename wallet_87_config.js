@@ -1,1 +1,1 @@
-var mnemonic = "silver guilt flower prepare phrase current nurse sun tank key bright purpose";
+var mnemonic = "volcano average glide property latin happy few lottery comic evil since west";

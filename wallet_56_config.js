@@ -1,1 +1,1 @@
-var mnemonic = "sauce amateur cram century question stamp allow render floor ten area smoke";
+var mnemonic = "inquiry grace hundred pill inmate nominee eternal fine kick scare animal become";

@@ -1,1 +1,1 @@
-var mnemonic = "resist someone donate license elder sting proof scout cancel flame harsh butter";
+var mnemonic = "never pioneer awesome enforce usual minute cannon glove sugar sunny fire session";

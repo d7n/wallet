@@ -1,1 +1,1 @@
-var mnemonic = "enlist success glory exercise tragic source repair soul velvet impulse define again";
+var mnemonic = "aunt dose ankle among merge chunk force reason bubble nothing goddess tide";

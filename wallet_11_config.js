@@ -1,1 +1,1 @@
-var mnemonic = "orchard similar demand near female wild brisk hover safe poem split post";
+var mnemonic = "draft sadness gossip era ripple silly check enemy river bar great face";

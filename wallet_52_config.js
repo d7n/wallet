@@ -1,1 +1,1 @@
-var mnemonic = "runway canal pink pulp fringe frozen small fold bitter cycle drip nurse";
+var mnemonic = "grass shift quantum rabbit giggle interest stadium zoo marine mouse hotel lobster";

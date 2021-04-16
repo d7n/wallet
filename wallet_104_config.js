@@ -1,1 +1,1 @@
-var mnemonic = "tobacco shrug meadow audit zebra monster agree blanket kitchen kid solution digital";
+var mnemonic = "gate shine bicycle same subject stadium comic gate apology make common more";

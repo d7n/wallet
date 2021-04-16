@@ -1,1 +1,1 @@
-var mnemonic = "security work math dwarf staff sister outdoor catalog ball bronze circle auction";
+var mnemonic = "illegal satoshi room spatial require ivory lyrics skull frown deal blanket devote";

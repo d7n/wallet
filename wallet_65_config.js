@@ -1,1 +1,1 @@
-var mnemonic = "outside seed easy main novel nice marble hurdle bind security ripple lucky";
+var mnemonic = "smoke patrol stomach wave lucky scatter above shed track grit grape unfair";

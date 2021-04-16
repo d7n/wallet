@@ -1,1 +1,1 @@
-var mnemonic = "cash crane lady vocal stomach hour grunt kitten column bulk vehicle rubber";
+var mnemonic = "pepper deposit reduce cannon pause pizza pupil tone razor copper major chef";

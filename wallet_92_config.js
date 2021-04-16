@@ -1,1 +1,1 @@
-var mnemonic = "garlic there filter present level sport sing push volume hobby switch offer";
+var mnemonic = "snow marine network pyramid dumb carbon melody powder version fury hub pride";

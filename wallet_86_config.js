@@ -1,1 +1,1 @@
-var mnemonic = "fiscal kite dial drill include moral member another quit organ industry wet";
+var mnemonic = "poet dynamic attack maple quit rebuild middle account festival side test replace";

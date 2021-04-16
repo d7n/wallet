@@ -1,1 +1,1 @@
-var mnemonic = "truth chief creek barely east regular shallow skirt rookie receive volume win";
+var mnemonic = "zone review lesson trade minimum enter quantum silent review title size heavy";

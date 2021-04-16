@@ -1,1 +1,1 @@
-var mnemonic = "century spatial rhythm retire flush extend worry skate actual soccer document bind";
+var mnemonic = "invite across sick rich teach present solution tongue margin vague hood category";

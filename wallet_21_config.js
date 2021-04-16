@@ -1,1 +1,1 @@
-var mnemonic = "frown defy alert truck cement insane pipe key board device mirror hospital";
+var mnemonic = "rescue tortoise system trick apart amused dial hurdle accuse coach pink cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "alter true master sniff number employ faculty cushion rose weather modify mixture";
+var mnemonic = "security pattern produce stay hold twenty ethics repair violin develop radar shaft";

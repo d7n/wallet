@@ -1,1 +1,1 @@
-var mnemonic = "build position tail share spawn jump area hire holiday quote weasel endless";
+var mnemonic = "side dream apology stumble retreat unable race access adapt intact market hire";

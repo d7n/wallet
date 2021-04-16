@@ -1,1 +1,1 @@
-var mnemonic = "dry message wire often switch retreat clip vacuum elevator water banner gate";
+var mnemonic = "robot scene daughter purpose affair indicate spread patient finger fresh rebel pattern";

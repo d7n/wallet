@@ -1,1 +1,1 @@
-var mnemonic = "raise general little question method health sibling bean public fluid already erupt";
+var mnemonic = "title mansion flash announce virus castle dizzy wreck burst prison way unique";

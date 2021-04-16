@@ -1,1 +1,1 @@
-var mnemonic = "disorder case more crazy hair exile mention thunder same armed motor abstract";
+var mnemonic = "rate garden example urge mad shy radar elephant general bubble country plate";

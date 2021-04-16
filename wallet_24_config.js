@@ -1,1 +1,1 @@
-var mnemonic = "exist flock hawk ripple raven beef occur program youth version song shrimp";
+var mnemonic = "wolf junior arrest merit cave knife ranch title carbon duty smooth leaf";

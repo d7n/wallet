@@ -1,1 +1,1 @@
-var mnemonic = "anchor art awkward goat truly print clap young glare border develop anger";
+var mnemonic = "cruise taxi earn satoshi test mind naive mean debate pipe play garage";

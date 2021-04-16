@@ -1,1 +1,1 @@
-var mnemonic = "sun recipe move net enact enjoy ocean alien skill produce field pole";
+var mnemonic = "they obscure cushion island split possible machine minimum cross calm curtain gravity";

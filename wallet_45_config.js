@@ -1,1 +1,1 @@
-var mnemonic = "famous either bracket cargo palace divert stem rather tattoo afraid picnic relief";
+var mnemonic = "shed favorite offer food later hint riot grape grain permit extra mesh";

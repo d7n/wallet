@@ -1,1 +1,1 @@
-var mnemonic = "local rain castle there finger famous subway chuckle age orchard kid keen";
+var mnemonic = "off ecology bone frost mix lobster maid section secret that reduce blue";

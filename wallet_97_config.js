@@ -1,1 +1,1 @@
-var mnemonic = "fan aim seed again uphold mention coach tell potato hybrid expire bomb";
+var mnemonic = "notable safe forget property round pumpkin home luggage transfer fee erupt aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "coral edit during actual extend rug crime digital picnic maximum ask toddler";
+var mnemonic = "ankle about coffee follow chapter solid distance tomorrow language afraid soup soon";

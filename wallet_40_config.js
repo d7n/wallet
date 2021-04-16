@@ -1,1 +1,1 @@
-var mnemonic = "melody trick veteran mean grab duck garden style balance supreme inquiry fiction";
+var mnemonic = "dragon hazard jaguar custom all snack bring resource airport pride fence physical";

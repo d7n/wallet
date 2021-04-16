@@ -1,1 +1,1 @@
-var mnemonic = "debris vintage vague author critic write matter inform news mule era salute";
+var mnemonic = "stem solution walk word tenant blanket cave knife peanut moment casual spoil";

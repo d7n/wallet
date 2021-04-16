@@ -1,1 +1,1 @@
-var mnemonic = "run social cherry memory foil run pepper among engage upgrade rural survey";
+var mnemonic = "mesh voice stick rose rapid pause myself gather admit animal damage hood";

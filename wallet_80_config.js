@@ -1,1 +1,1 @@
-var mnemonic = "maximum word eager path alter noble apology pole report toe term juice";
+var mnemonic = "wing debris clown tone floor hub primary staff arrest country draw mammal";

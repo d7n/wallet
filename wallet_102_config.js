@@ -1,1 +1,1 @@
-var mnemonic = "evidence next lucky give unveil sentence pepper evolve pull profit bronze can";
+var mnemonic = "barrel outdoor trigger reject wild message base river owner coffee ripple bind";

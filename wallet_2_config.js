@@ -1,1 +1,1 @@
-var mnemonic = "permit build rebuild crush wire comic vacant strategy immune label emotion reveal";
+var mnemonic = "duck couple proof fortune debris wear happy credit fresh spend toast blush";

@@ -1,1 +1,1 @@
-var mnemonic = "rug caught surge divert spend purity weasel razor choose dance lottery student";
+var mnemonic = "enroll curious diamond tobacco churn scrap hurry hurt grunt scene rough lend";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh field path grocery pill flag faint wave shoot teach forest rifle";
+var mnemonic = "work logic crazy giggle daring observe shift remove smart tuition valve shoe";

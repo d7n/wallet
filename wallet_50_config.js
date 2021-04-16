@@ -1,1 +1,1 @@
-var mnemonic = "broken club wall book more phone ankle assume bulb potato pass tackle";
+var mnemonic = "ball design toddler adapt alpha roast poem robot miss mutual shuffle transfer";

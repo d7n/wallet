@@ -1,1 +1,1 @@
-var mnemonic = "version letter organ luggage embody slab nothing float example source accuse slice";
+var mnemonic = "chicken wink uncle unfair pizza pledge unknown horror track diary nothing elite";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter year shaft knee grow shoe pond gap hidden foster bottom side";
+var mnemonic = "final street suffer exotic cannon flag camera ship cherry explain soap magic";

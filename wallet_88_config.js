@@ -1,1 +1,1 @@
-var mnemonic = "nominee town ivory desert present victory special talent cinnamon island degree prefer";
+var mnemonic = "mosquito eagle abuse laptop obscure goose urban focus grass toward same taxi";

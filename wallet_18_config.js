@@ -1,1 +1,1 @@
-var mnemonic = "plastic liquid fortune injury erode draw debate enter inch sustain crack hire";
+var mnemonic = "section primary daring brown layer drip crew twice member badge either kitten";

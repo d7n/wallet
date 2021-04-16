@@ -1,1 +1,1 @@
-var mnemonic = "motor reduce cancel scan review pigeon shrimp pass vivid drift small palm";
+var mnemonic = "kangaroo initial apart hard frame goose fish thumb predict crop digital layer";

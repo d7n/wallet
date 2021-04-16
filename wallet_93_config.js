@@ -1,1 +1,1 @@
-var mnemonic = "earn coconut steel tiny income poem couple clip canoe inside dose weather";
+var mnemonic = "beyond weather alley tribe speed idea regular scatter castle latin under balcony";

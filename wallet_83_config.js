@@ -1,1 +1,1 @@
-var mnemonic = "romance quality pudding note comfort melody attack length banana ribbon gold claim";
+var mnemonic = "injury prefer employ thought hawk spot timber embark please bone cherry lift";

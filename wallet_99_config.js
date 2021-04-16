@@ -1,1 +1,1 @@
-var mnemonic = "today stereo orbit guitar toss color tennis prison piece allow soldier fruit";
+var mnemonic = "detail enlist junior silver happy egg wheat flush place joke mango laugh";

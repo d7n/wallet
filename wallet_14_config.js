@@ -1,1 +1,1 @@
-var mnemonic = "meadow always wrist blame payment error example smart slender armed valve bonus";
+var mnemonic = "around chief nice delay lawsuit spray problem debate layer meadow town hockey";
