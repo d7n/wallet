@@ -1,1 +1,1 @@
-var mnemonic = "rare mimic season hour message core imitate scissors believe wisdom mansion source";
+var mnemonic = "picnic typical save smart boss cute payment audit simple vanish dragon describe";

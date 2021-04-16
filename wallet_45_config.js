@@ -1,1 +1,1 @@
-var mnemonic = "shed favorite offer food later hint riot grape grain permit extra mesh";
+var mnemonic = "animal refuse scatter runway victory short rural solution giggle floor grocery trend";

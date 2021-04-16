@@ -1,1 +1,1 @@
-var mnemonic = "text hour pink amount month balcony require blade camera jealous huge arch";
+var mnemonic = "dentist mother trip leopard angle next chalk sport key athlete urge moment";

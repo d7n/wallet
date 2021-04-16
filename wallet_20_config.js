@@ -1,1 +1,1 @@
-var mnemonic = "stem solution walk word tenant blanket cave knife peanut moment casual spoil";
+var mnemonic = "canvas trumpet awesome betray veteran term crack museum faint theme flat pet";

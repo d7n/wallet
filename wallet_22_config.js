@@ -1,1 +1,1 @@
-var mnemonic = "invite across sick rich teach present solution tongue margin vague hood category";
+var mnemonic = "assist perfect time round coin menu finish business alter dinner opinion ill";

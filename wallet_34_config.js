@@ -1,1 +1,1 @@
-var mnemonic = "wrap gate flip story combine time black donkey clinic fiscal outer frozen";
+var mnemonic = "solve valley quiz unable simple orchard cash dish fruit addict wasp end";

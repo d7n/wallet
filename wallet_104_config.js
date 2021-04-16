@@ -1,1 +1,1 @@
-var mnemonic = "gate shine bicycle same subject stadium comic gate apology make common more";
+var mnemonic = "diesel music electric bundle reunion way across artwork diamond offer kitten sock";

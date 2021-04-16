@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo initial apart hard frame goose fish thumb predict crop digital layer";
+var mnemonic = "curve cluster reason about pig yard dose spike nominee mean evoke loyal";

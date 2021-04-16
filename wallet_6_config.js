@@ -1,1 +1,1 @@
-var mnemonic = "fetch barrel indicate paper battle chronic essay practice gun float amazing subject";
+var mnemonic = "target way cigar spread adapt six receive spray wool flower truck hand";

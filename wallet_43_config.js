@@ -1,1 +1,1 @@
-var mnemonic = "rabbit section cactus exist clap pair mask detect abstract buffalo music timber";
+var mnemonic = "myth mushroom route metal water feed air neck quick coil axis gate";

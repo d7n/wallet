@@ -1,1 +1,1 @@
-var mnemonic = "rescue tortoise system trick apart amused dial hurdle accuse coach pink cushion";
+var mnemonic = "appear arrive dad victory cup recall entry funny various toy brown neglect";

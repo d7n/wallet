@@ -1,1 +1,1 @@
-var mnemonic = "tent bike employ oxygen cup list twice model social filter view cage";
+var mnemonic = "outer smooth seek receive slam foil faculty deal measure athlete ethics grit";

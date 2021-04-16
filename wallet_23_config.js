@@ -1,1 +1,1 @@
-var mnemonic = "aunt dose ankle among merge chunk force reason bubble nothing goddess tide";
+var mnemonic = "gain helmet punch picture mirror duty crisp very tilt card fork actual";

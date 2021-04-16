@@ -1,1 +1,1 @@
-var mnemonic = "meat identify alley net over tiny system mutual interest neutral neck hope";
+var mnemonic = "soap raw minimum rail crazy evolve city exclude tone milk wood tonight";

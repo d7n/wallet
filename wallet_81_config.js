@@ -1,1 +1,1 @@
-var mnemonic = "off ecology bone frost mix lobster maid section secret that reduce blue";
+var mnemonic = "current idle chef title swing scene sauce approve swim upper echo prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "title mansion flash announce virus castle dizzy wreck burst prison way unique";
+var mnemonic = "hybrid choose awake neither cluster fluid control east casual thumb muffin coin";

@@ -1,1 +1,1 @@
-var mnemonic = "draft sadness gossip era ripple silly check enemy river bar great face";
+var mnemonic = "pride spoon correct drama squirrel stock bomb smooth similar voyage trash giggle";

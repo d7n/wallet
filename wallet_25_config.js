@@ -1,1 +1,1 @@
-var mnemonic = "wear museum mail position person alarm hire trophy school people soup disease";
+var mnemonic = "day hamster bubble hospital receive arm modify february come situate more outdoor";

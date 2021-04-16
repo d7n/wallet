@@ -1,1 +1,1 @@
-var mnemonic = "clarify embark face impact flower minimum blood dance neither rack hamster inspire";
+var mnemonic = "vacuum invite nest into tourist material submit express zebra cotton talent oyster";

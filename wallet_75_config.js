@@ -1,1 +1,1 @@
-var mnemonic = "chicken wink uncle unfair pizza pledge unknown horror track diary nothing elite";
+var mnemonic = "heavy mandate endless crop spray huge keen word injury tooth aware stomach";

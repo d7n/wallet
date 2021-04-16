@@ -1,1 +1,1 @@
-var mnemonic = "snow marine network pyramid dumb carbon melody powder version fury hub pride";
+var mnemonic = "finish eight forum capable speed pear often spy pledge antique online report";

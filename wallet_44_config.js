@@ -1,1 +1,1 @@
-var mnemonic = "alter harvest start camp flash remember apart athlete armed secret impulse curve";
+var mnemonic = "found lion team mobile fragile correct they various pudding meat fine weird";

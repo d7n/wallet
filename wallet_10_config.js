@@ -1,1 +1,1 @@
-var mnemonic = "divorce miracle neutral idea conduct mercy captain more smile panic winter airport";
+var mnemonic = "ceiling heavy marriage chunk wedding unit bulb decrease cat build knock bind";

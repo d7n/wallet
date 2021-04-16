@@ -1,1 +1,1 @@
-var mnemonic = "duck couple proof fortune debris wear happy credit fresh spend toast blush";
+var mnemonic = "share rookie tail advice crowd banner scene acoustic news vibrant aspect drive";

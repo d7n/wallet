@@ -1,1 +1,1 @@
-var mnemonic = "security pattern produce stay hold twenty ethics repair violin develop radar shaft";
+var mnemonic = "alter toss broccoli coral quote rich zero similar oval curtain author country";

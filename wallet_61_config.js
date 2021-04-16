@@ -1,1 +1,1 @@
-var mnemonic = "jar loop fiction quote tell once tree pill six intact only age";
+var mnemonic = "submit priority taste degree nut trick chair hover garage bunker gas ceiling";

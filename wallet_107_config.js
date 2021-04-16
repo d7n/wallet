@@ -1,1 +1,1 @@
-var mnemonic = "enroll curious diamond tobacco churn scrap hurry hurt grunt scene rough lend";
+var mnemonic = "bitter globe february client butter option trial correct plate interest office segment";

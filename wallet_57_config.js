@@ -1,1 +1,1 @@
-var mnemonic = "three track trophy whale winter estate safe camp front law forget worth";
+var mnemonic = "dress wisdom dilemma lottery movie camera country mixed submit office soccer weird";

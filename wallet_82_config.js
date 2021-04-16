@@ -1,1 +1,1 @@
-var mnemonic = "final street suffer exotic cannon flag camera ship cherry explain soap magic";
+var mnemonic = "fetch skin soft lamp canoe nation slab traffic cattle vanish about prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "side dream apology stumble retreat unable race access adapt intact market hire";
+var mnemonic = "protect panic rally sure give ugly install volcano walk finger quote neither";

@@ -1,1 +1,1 @@
-var mnemonic = "notable safe forget property round pumpkin home luggage transfer fee erupt aisle";
+var mnemonic = "hazard direct capital same ice company left hawk void clog lawsuit coconut";

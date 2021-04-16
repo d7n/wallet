@@ -1,1 +1,1 @@
-var mnemonic = "melody silent brush common couple tiger input grab slot modify smile drip";
+var mnemonic = "hero funny catch matter frown casual profit reunion novel valley gauge brief";

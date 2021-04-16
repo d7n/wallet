@@ -1,1 +1,1 @@
-var mnemonic = "pledge pencil daring keen metal west original laugh second tornado trip silent";
+var mnemonic = "curious pond trial awesome convince wink face slice rural wing accuse unfold";

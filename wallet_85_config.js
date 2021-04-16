@@ -1,1 +1,1 @@
-var mnemonic = "pepper deposit reduce cannon pause pizza pupil tone razor copper major chef";
+var mnemonic = "bleak cricket shy success border lift pause game dove embody dilemma skill";

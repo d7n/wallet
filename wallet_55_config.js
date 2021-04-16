@@ -1,1 +1,1 @@
-var mnemonic = "work logic crazy giggle daring observe shift remove smart tuition valve shoe";
+var mnemonic = "reopen myth assist ready ability sauce poem dish warm lift sand scout";

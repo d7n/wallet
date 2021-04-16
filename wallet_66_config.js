@@ -1,1 +1,1 @@
-var mnemonic = "custom dust tattoo gasp predict able roof wage muffin chase project spice";
+var mnemonic = "tunnel route easily always volume vault milk awkward creek course table rug";

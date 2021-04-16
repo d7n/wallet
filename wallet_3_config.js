@@ -1,1 +1,1 @@
-var mnemonic = "require trumpet execute comic mule suggest evidence section rain mail rose depart";
+var mnemonic = "reopen segment caught blush over border arrive arch boat income fade music";

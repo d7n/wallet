@@ -1,1 +1,1 @@
-var mnemonic = "gaze defense garbage code coast dream void resemble guess truck hand ahead";
+var mnemonic = "furnace noodle finish hard obscure gain media clutch predict net bachelor muscle";

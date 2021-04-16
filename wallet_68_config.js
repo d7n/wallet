@@ -1,1 +1,1 @@
-var mnemonic = "direct divide soup force west wrong program arctic tide window uncle swamp";
+var mnemonic = "okay canal east approve forest action device start stuff matter lesson harvest";

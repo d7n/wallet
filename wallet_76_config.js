@@ -1,1 +1,1 @@
-var mnemonic = "addict banana debate enter captain glue clump popular feature lucky stereo hotel";
+var mnemonic = "employ area lesson glance machine assault snack march inflict adjust wink annual";

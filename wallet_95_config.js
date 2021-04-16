@@ -1,1 +1,1 @@
-var mnemonic = "egg list boost outside cotton isolate put frozen tunnel demand arrow job";
+var mnemonic = "master forest silver salt impose tonight mobile stumble property amused erode taste";

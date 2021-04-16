@@ -1,1 +1,1 @@
-var mnemonic = "letter predict olive venture any burger dust photo shy primary cup dance";
+var mnemonic = "typical session ribbon because major hurdle eternal hurdle latin cute betray shrug";

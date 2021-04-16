@@ -1,1 +1,1 @@
-var mnemonic = "mesh voice stick rose rapid pause myself gather admit animal damage hood";
+var mnemonic = "certain speak chat gown embrace raise galaxy appear close final tumble any";

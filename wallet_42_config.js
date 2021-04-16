@@ -1,1 +1,1 @@
-var mnemonic = "zone review lesson trade minimum enter quantum silent review title size heavy";
+var mnemonic = "glory country staff action frost isolate snake media beauty erosion result luggage";

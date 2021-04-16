@@ -1,1 +1,1 @@
-var mnemonic = "smoke patrol stomach wave lucky scatter above shed track grit grape unfair";
+var mnemonic = "school enhance hockey amused calm blush entire unit enact height deer ramp";

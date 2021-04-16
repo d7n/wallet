@@ -1,1 +1,1 @@
-var mnemonic = "illegal satoshi room spatial require ivory lyrics skull frown deal blanket devote";
+var mnemonic = "meadow season vanish mosquito army meadow total apple nest rib entire hotel";

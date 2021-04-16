@@ -1,1 +1,1 @@
-var mnemonic = "ignore midnight catch ask small puppy quote ugly front please nation appear";
+var mnemonic = "diamond engage element ship foam order sketch refuse segment razor under motor";

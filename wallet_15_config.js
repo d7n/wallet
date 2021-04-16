@@ -1,1 +1,1 @@
-var mnemonic = "cabin fun verify payment coil hazard century congress music congress parrot front";
+var mnemonic = "night join muscle hockey match amused rival strong cube inch fury trumpet";

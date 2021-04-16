@@ -1,1 +1,1 @@
-var mnemonic = "account evidence retreat test become uncle admit solid furnace correct myself crack";
+var mnemonic = "injury liar edge renew fabric visit wrap female essence roof royal milk";

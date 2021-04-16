@@ -1,1 +1,1 @@
-var mnemonic = "they obscure cushion island split possible machine minimum cross calm curtain gravity";
+var mnemonic = "network hungry mobile stadium deputy happy rain detail just post claw myth";

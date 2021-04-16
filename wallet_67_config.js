@@ -1,1 +1,1 @@
-var mnemonic = "gift obtain hidden grant chaos still few project bachelor remind morning legend";
+var mnemonic = "enforce hill armed always obey between hawk squeeze letter slender system truth";

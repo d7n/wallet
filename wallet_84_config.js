@@ -1,1 +1,1 @@
-var mnemonic = "shop wolf fresh trend laundry peasant start slice fringe ill paper mean";
+var mnemonic = "permit hope rocket good salad high credit toy found armed urge spawn";

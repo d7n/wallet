@@ -1,1 +1,1 @@
-var mnemonic = "slim rural quality predict pitch gate coconut level earn proof tiger wash";
+var mnemonic = "adapt treat unknown camera distance return myth tooth taxi battle sphere bounce";

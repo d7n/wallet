@@ -1,1 +1,1 @@
-var mnemonic = "eagle become lyrics ketchup dolphin unusual payment avocado venue stamp palace liar";
+var mnemonic = "about custom plug reject inhale rate duck lawn noise soon nation bird";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise taxi earn satoshi test mind naive mean debate pipe play garage";
+var mnemonic = "couple fantasy gloom slice situate reject light into clap prison duck bounce";

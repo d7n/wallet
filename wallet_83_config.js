@@ -1,1 +1,1 @@
-var mnemonic = "injury prefer employ thought hawk spot timber embark please bone cherry lift";
+var mnemonic = "modify know copy pull nut swear inmate exact derive rocket normal enough";

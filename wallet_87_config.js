@@ -1,1 +1,1 @@
-var mnemonic = "volcano average glide property latin happy few lottery comic evil since west";
+var mnemonic = "trade announce bomb monkey gauge life already cover skin popular trouble duty";

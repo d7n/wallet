@@ -1,1 +1,1 @@
-var mnemonic = "wisdom guard thank salt lesson light practice sample ten disorder legal nature";
+var mnemonic = "already height index fame roast later alpha festival wrong second food canal";

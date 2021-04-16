@@ -1,1 +1,1 @@
-var mnemonic = "dragon hazard jaguar custom all snack bring resource airport pride fence physical";
+var mnemonic = "fruit fringe candy wing cliff silver father broom tired gallery limb term";

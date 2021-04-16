@@ -1,1 +1,1 @@
-var mnemonic = "inquiry grace hundred pill inmate nominee eternal fine kick scare animal become";
+var mnemonic = "match input mammal kiss fee science brass day catch steel mystery express";

@@ -1,1 +1,1 @@
-var mnemonic = "rate garden example urge mad shy radar elephant general bubble country plate";
+var mnemonic = "oxygen install wonder disorder recycle throw net coin lend traffic army donate";

@@ -1,1 +1,1 @@
-var mnemonic = "loud huge cube flower aisle exact orbit rifle east castle flat birth";
+var mnemonic = "summer hole shove settle attend word degree cute lazy moment artefact dizzy";

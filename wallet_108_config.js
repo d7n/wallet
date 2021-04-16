@@ -1,1 +1,1 @@
-var mnemonic = "budget alarm float express file visual narrow nurse advance island include fever";
+var mnemonic = "stable vital donate naive strike video mention laundry expand stay praise cave";

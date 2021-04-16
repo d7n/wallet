@@ -1,1 +1,1 @@
-var mnemonic = "grass shift quantum rabbit giggle interest stadium zoo marine mouse hotel lobster";
+var mnemonic = "ritual horn soap slow pull note fiber cliff rich knife garment violin";

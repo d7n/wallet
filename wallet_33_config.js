@@ -1,1 +1,1 @@
-var mnemonic = "able amused tiny execute great intact fluid shop spring satisfy love radio";
+var mnemonic = "concert sugar cube blush poet aware small genuine spirit coyote earth year";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf junior arrest merit cave knife ranch title carbon duty smooth leaf";
+var mnemonic = "spawn winter able other blouse post water public deal repeat around engage";

@@ -1,1 +1,1 @@
-var mnemonic = "connect cook milk cash reform multiply hand toilet plug panda gossip novel";
+var mnemonic = "fault noble boring blossom deposit income clean shock rely kiwi welcome aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "trap annual stool during balcony avoid escape hill where orbit shaft limb";
+var mnemonic = "law release plastic figure position sibling pretty hood travel school use inherit";

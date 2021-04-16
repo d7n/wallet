@@ -1,1 +1,1 @@
-var mnemonic = "section primary daring brown layer drip crew twice member badge either kitten";
+var mnemonic = "hobby cost receive middle list grow vague entire chaos boost abuse gather";

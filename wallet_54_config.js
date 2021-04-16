@@ -1,1 +1,1 @@
-var mnemonic = "coconut forward puzzle mouse coin boring dust ready axis plastic resist endorse";
+var mnemonic = "twelve supply purchase fix exhaust taxi coral mobile move health atom humor";

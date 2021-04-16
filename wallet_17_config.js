@@ -1,1 +1,1 @@
-var mnemonic = "erosion anger ribbon extra together cream true sadness runway fruit limit leopard";
+var mnemonic = "toddler alien double pattern champion enroll salmon spirit program judge fox expand";

@@ -1,1 +1,1 @@
-var mnemonic = "wool staff novel first poet magic defense path bomb lizard noise elder";
+var mnemonic = "industry trim bulb profit coyote cram frown erase baby moon twelve fork";

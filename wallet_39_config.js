@@ -1,1 +1,1 @@
-var mnemonic = "stairs educate dwarf chicken situate appear resemble hole tip text huge grid";
+var mnemonic = "best flip actress sheriff duty fox learn crouch shop turkey they have";

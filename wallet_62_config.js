@@ -1,1 +1,1 @@
-var mnemonic = "mask ball grab silly sunny grocery wedding latin column bird drill recycle";
+var mnemonic = "kiss panel three lottery guess history young shine repeat income air economy";

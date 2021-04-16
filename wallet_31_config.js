@@ -1,1 +1,1 @@
-var mnemonic = "crazy elephant news frozen regret interest rhythm maid all barely grit depth";
+var mnemonic = "float fiction siege drip receive grass mosquito dragon rule pottery fetch acquire";

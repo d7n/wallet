@@ -1,1 +1,1 @@
-var mnemonic = "zebra emerge rally actress absurd opinion fix turtle guess inhale educate dolphin";
+var mnemonic = "black either census coyote town swap nurse clay jungle similar glove tornado";

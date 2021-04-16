@@ -1,1 +1,1 @@
-var mnemonic = "bachelor cage glass rain wisdom ship feed then emotion judge bamboo cable";
+var mnemonic = "hire lady throw ozone mistake voyage depart metal approve truth toy trip";

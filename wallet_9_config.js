@@ -1,1 +1,1 @@
-var mnemonic = "hand recycle perfect silent daring bind before pumpkin awesome moon kite purchase";
+var mnemonic = "target during orphan borrow thing crime thing news fantasy cigar motion bargain";

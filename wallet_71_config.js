@@ -1,1 +1,1 @@
-var mnemonic = "large income two vault second return total final hollow reason receive tongue";
+var mnemonic = "turn inquiry either will wait assault adjust lazy act fashion rebuild before";

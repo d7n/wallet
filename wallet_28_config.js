@@ -1,1 +1,1 @@
-var mnemonic = "light seminar unveil cup fine noodle fog alarm hurry feed exhaust tank";
+var mnemonic = "lemon unhappy cry select angle scatter change dust duck image diary loud";

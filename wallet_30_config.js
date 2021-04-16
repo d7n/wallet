@@ -1,1 +1,1 @@
-var mnemonic = "route surprise peanut next search bid axis arm follow monitor earth stool";
+var mnemonic = "seminar prefer crime man bacon royal stay brass throw organ brain toy";

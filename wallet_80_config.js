@@ -1,1 +1,1 @@
-var mnemonic = "wing debris clown tone floor hub primary staff arrest country draw mammal";
+var mnemonic = "inner hen mistake focus reward inside person family child print liquid crowd";

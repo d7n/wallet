@@ -1,1 +1,1 @@
-var mnemonic = "accident attack grass arrow walk avocado spice movie type proud depart rough";
+var mnemonic = "camera lamp gospel convince elegant loud away panel unusual goat settle wave";

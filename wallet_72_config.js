@@ -1,1 +1,1 @@
-var mnemonic = "maple chalk rude fluid camp clown turn forest midnight task silent paper";
+var mnemonic = "double live camera general trash entry old license uphold shock veteran latin";

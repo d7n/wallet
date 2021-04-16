@@ -1,1 +1,1 @@
-var mnemonic = "solid antique top road glove oil garlic flower barely dwarf impulse praise";
+var mnemonic = "chat glad consider diary quit turn unit orphan ring fish word winter";

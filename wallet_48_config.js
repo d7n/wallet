@@ -1,1 +1,1 @@
-var mnemonic = "hockey unhappy interest issue dignity half palm member mango hobby announce burst";
+var mnemonic = "minor sustain voice expect jeans plate salad quality similar describe scout rather";

@@ -1,1 +1,1 @@
-var mnemonic = "ball design toddler adapt alpha roast poem robot miss mutual shuffle transfer";
+var mnemonic = "mercy desk blur patch street ignore will neutral cruel napkin gallery invite";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke yellow boil palm sound affair silver glow story genius around middle";
+var mnemonic = "pyramid dirt high rare forest under program inhale foster dune absorb lady";
