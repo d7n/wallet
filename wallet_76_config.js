@@ -1,1 +1,1 @@
-var mnemonic = "sail nature cup teach bid buddy mask same kind pulse trouble desert";
+var mnemonic = "purity rack oven matrix express soul wise spray menu place camp ancient";

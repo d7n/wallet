@@ -1,1 +1,1 @@
-var mnemonic = "ticket pill ceiling hair work common push object material crop fortune canvas";
+var mnemonic = "work forward improve taste river enable become error toast speak funny chase";

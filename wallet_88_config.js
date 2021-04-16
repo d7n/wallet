@@ -1,1 +1,1 @@
-var mnemonic = "midnight unhappy strategy search ocean keep tape foster vital blast umbrella sketch";
+var mnemonic = "mad spy name void trumpet circle draw mom skate margin tiny laptop";

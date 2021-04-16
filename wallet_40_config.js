@@ -1,1 +1,1 @@
-var mnemonic = "series crunch weasel cabbage chuckle screen whip river story tip sunny cherry";
+var mnemonic = "rare assault filter bless toward supply item vibrant bird session april deputy";

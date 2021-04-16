@@ -1,1 +1,1 @@
-var mnemonic = "goat danger source job type solve rescue cute bullet climb chief thrive";
+var mnemonic = "armed mushroom cute theory amused camera resemble inquiry orphan clerk universe early";

@@ -1,1 +1,1 @@
-var mnemonic = "history neck attack farm broken orient dragon response enact whip start april";
+var mnemonic = "lottery cart kite female primary rhythm carry grab vanish slab adjust select";

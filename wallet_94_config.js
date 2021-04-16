@@ -1,1 +1,1 @@
-var mnemonic = "vote face ignore actor salt bar sauce song spot swear behave bargain";
+var mnemonic = "journey boring boost cheese benefit fade lonely catalog minimum steak coach example";

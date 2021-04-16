@@ -1,1 +1,1 @@
-var mnemonic = "review call orbit obtain ice cute domain essay upset dignity umbrella bright";
+var mnemonic = "daring buddy agree fatigue bike before camp place garment gesture genius first";

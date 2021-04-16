@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo segment dynamic leopard legend opinion present name opinion grape bridge zero";
+var mnemonic = "ridge female spoon legal false famous garlic marriage access either such increase";

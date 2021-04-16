@@ -1,1 +1,1 @@
-var mnemonic = "flower catalog laundry sock before arm anger laptop dinner second vivid whisper";
+var mnemonic = "announce blossom settle purse settle suspect excite salt immune travel swift offer";

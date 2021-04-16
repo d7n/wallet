@@ -1,1 +1,1 @@
-var mnemonic = "indoor furnace absent shadow suggest reveal virtual dragon parade base aisle curve";
+var mnemonic = "drastic behind polar three snack dial people cactus unusual enable provide day";

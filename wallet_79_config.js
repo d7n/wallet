@@ -1,1 +1,1 @@
-var mnemonic = "dad picture butter table iron senior noodle mix twenty spirit keep cause";
+var mnemonic = "toilet despair lonely subway certain cradle vital truck nothing hidden say evoke";

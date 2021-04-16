@@ -1,1 +1,1 @@
-var mnemonic = "near recipe gate worth outdoor game panda mail chaos tail legend garlic";
+var mnemonic = "cluster credit toast range main cruel hover ivory earth firm indoor alter";

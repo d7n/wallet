@@ -1,1 +1,1 @@
-var mnemonic = "cage beef curve must nothing wrestle master total kiwi evidence anxiety banana";
+var mnemonic = "job concert frozen picture tell basic trophy festival knee insect wife vessel";

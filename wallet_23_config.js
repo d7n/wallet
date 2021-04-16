@@ -1,1 +1,1 @@
-var mnemonic = "helmet lock proof erode rack clock cube vocal chase cargo home hybrid";
+var mnemonic = "pledge opera normal conduct about flag trip supreme whip marine social lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "toe amateur sample organ friend grass define diamond ski gaze essence misery";
+var mnemonic = "seven husband scrap tide story lecture man visit hen village hold minor";

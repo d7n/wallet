@@ -1,1 +1,1 @@
-var mnemonic = "practice inflict relief wonder ticket resist stomach snack fan endorse timber dream";
+var mnemonic = "blossom train alter mail myself cross fiction battle uncle warm network dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon void audit upgrade keen goddess clinic weird salt deny list armor";
+var mnemonic = "original poverty enhance fabric exchange push liquid imitate notable drill pigeon broken";

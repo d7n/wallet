@@ -1,1 +1,1 @@
-var mnemonic = "claim catalog dash very front wear broom lecture flat critic decorate will";
+var mnemonic = "view wagon noble group chronic oval spatial father power sample logic pluck";

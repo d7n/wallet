@@ -1,1 +1,1 @@
-var mnemonic = "expand regret cube mirror brother local toddler budget maze boat pull sunset";
+var mnemonic = "luxury breeze old stay retreat orphan ocean toast service turtle element ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "renew hover network stay wage fine civil jar satisfy gospel rose pepper";
+var mnemonic = "air analyst bacon shock faint page matter float bubble park dawn ethics";

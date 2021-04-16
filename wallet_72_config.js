@@ -1,1 +1,1 @@
-var mnemonic = "media always swim goat hurt mistake forum enemy coconut shrug grape rubber";
+var mnemonic = "heavy bottom leisure together profit junior drum vibrant shock caught sand invest";

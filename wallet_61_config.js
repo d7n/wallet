@@ -1,1 +1,1 @@
-var mnemonic = "wreck dose flame theme clinic type advance mixture picnic rice rude barely";
+var mnemonic = "guard casino ginger ankle build chuckle column caution hungry gentle ripple distance";

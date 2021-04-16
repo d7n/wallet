@@ -1,1 +1,1 @@
-var mnemonic = "alcohol option destroy engage suffer unfair devote hospital update dream skate citizen";
+var mnemonic = "digital cotton lecture risk giant crazy army tonight beef treat leopard envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "error range oppose cruel village garbage debris promote illegal patient injury rare";
+var mnemonic = "sunset entire dice awesome slush pistol whip grass bomb draft eagle act";

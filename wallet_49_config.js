@@ -1,1 +1,1 @@
-var mnemonic = "man hand warrior puppy spice uphold parade clean style ancient improve depart";
+var mnemonic = "industry tag galaxy diamond dash obscure finish rule rural infant awake scene";

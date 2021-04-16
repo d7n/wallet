@@ -1,1 +1,1 @@
-var mnemonic = "rack put attract mass ice bitter climb cool mesh session spot task";
+var mnemonic = "brave merry cushion earn wrestle luxury public aerobic security skirt erupt wrap";

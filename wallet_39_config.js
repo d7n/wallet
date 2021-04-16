@@ -1,1 +1,1 @@
-var mnemonic = "disease garage team ready two blind equip nation undo sand boil weird";
+var mnemonic = "black bachelor waste panic cream nurse auction borrow elite fire seek start";

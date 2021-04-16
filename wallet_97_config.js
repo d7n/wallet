@@ -1,1 +1,1 @@
-var mnemonic = "radio depth page master load cluster popular village heavy theme riot other";
+var mnemonic = "double mobile runway welcome tourist urban damp sadness bracket beyond noble erode";

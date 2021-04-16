@@ -1,1 +1,1 @@
-var mnemonic = "borrow eager melody purchase minimum broccoli inform gesture cube kind panic athlete";
+var mnemonic = "mention scorpion apart spy web gold jealous bottom token bid lion prize";

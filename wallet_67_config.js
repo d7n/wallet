@@ -1,1 +1,1 @@
-var mnemonic = "sunny average evidence audit pair truth repair ripple city fancy crop method";
+var mnemonic = "draw utility wheat return manual situate cash canyon front accident relax curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy middle fantasy want snack offer dust shoe agree head fat slab";
+var mnemonic = "same sight estate ancient side stick scrap alarm tell kiwi victory lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "pear syrup usage curious list now album unaware feed between history medal";
+var mnemonic = "hire army physical under round unusual sign pair category hover student acoustic";

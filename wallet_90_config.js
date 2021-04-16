@@ -1,1 +1,1 @@
-var mnemonic = "fit sail scrap amused volcano song piano almost piano park wall fatigue";
+var mnemonic = "salute sponsor random eye nice cement ticket labor disagree tell general helmet";

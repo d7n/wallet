@@ -1,1 +1,1 @@
-var mnemonic = "dune never buddy ripple fox depart outside quick submit hair traffic fence";
+var mnemonic = "humble return rather wink easy decide quiz name rail spike glare rapid";

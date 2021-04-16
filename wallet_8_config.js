@@ -1,1 +1,1 @@
-var mnemonic = "try cloth inject transfer source skin exist rival urge enjoy raccoon fatigue";
+var mnemonic = "angle virtual stool toilet cradle crack screen gold senior leave one hole";

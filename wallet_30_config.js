@@ -1,1 +1,1 @@
-var mnemonic = "share wall flower little orange spawn remind hedgehog hold turkey useless kick";
+var mnemonic = "rule harsh empty kiss still piano into lucky spread bachelor match winner";

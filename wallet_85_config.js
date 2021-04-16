@@ -1,1 +1,1 @@
-var mnemonic = "scale junior oppose front peace crane insane current tooth when token grace";
+var mnemonic = "sniff goddess keen season unusual garden lesson donate insect cube walk benefit";

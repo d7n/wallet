@@ -1,1 +1,1 @@
-var mnemonic = "brass column core cruise garden latin appear eyebrow develop version hen coffee";
+var mnemonic = "smooth battle menu sadness walk athlete dice opera shoulder treat street knock";

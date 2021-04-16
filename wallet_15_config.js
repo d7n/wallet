@@ -1,1 +1,1 @@
-var mnemonic = "robust flame enforce digital accident ensure cross enact genius wave sweet cage";
+var mnemonic = "noble length spread tornado thrive jelly rely flash circle fault girl produce";

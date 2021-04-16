@@ -1,1 +1,1 @@
-var mnemonic = "garlic absorb maze gold chase engine pave business resemble stay model task";
+var mnemonic = "appear nominee news mother before rebuild flat arm snack poem galaxy gas";

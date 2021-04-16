@@ -1,1 +1,1 @@
-var mnemonic = "bike agree knife train motion pole enjoy notice arrow volume myth sign";
+var mnemonic = "narrow uncover humor industry tennis casual pride note notice sister achieve february";

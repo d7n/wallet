@@ -1,1 +1,1 @@
-var mnemonic = "speed escape allow visual antenna energy sausage mix hat unit firm turkey";
+var mnemonic = "swift effort plate payment ticket shift wire give lab initial ride shield";

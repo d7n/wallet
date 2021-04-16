@@ -1,1 +1,1 @@
-var mnemonic = "city off what gentle original please snow scan fetch arm devote despair";
+var mnemonic = "shed unlock lizard undo portion remember fold that jungle timber aunt acid";

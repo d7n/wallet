@@ -1,1 +1,1 @@
-var mnemonic = "degree call trap busy arrive rifle humble hurt sunny morning news giraffe";
+var mnemonic = "lady motor inject game unfair canyon topple whip column certain test floor";

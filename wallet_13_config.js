@@ -1,1 +1,1 @@
-var mnemonic = "frost clap zebra marriage boil gravity culture popular erode clinic naive half";
+var mnemonic = "witness apology weather huge gap exile goddess cash style hover rebel text";

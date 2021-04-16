@@ -1,1 +1,1 @@
-var mnemonic = "little book utility survey giggle home bar lawsuit say nerve hen inform";
+var mnemonic = "cereal level hole evil enrich zone spell trigger attend beauty evoke stock";

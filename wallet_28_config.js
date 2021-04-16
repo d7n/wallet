@@ -1,1 +1,1 @@
-var mnemonic = "little other bargain noble elevator vote idle divide settle organ shrug educate";
+var mnemonic = "caught length proud image obscure harsh include math unit water exit mouse";

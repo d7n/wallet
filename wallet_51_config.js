@@ -1,1 +1,1 @@
-var mnemonic = "census butter chimney bicycle short mechanic brief hip popular battle clean gauge";
+var mnemonic = "ski siren toss cry rapid magnet crazy supply drama action recall check";

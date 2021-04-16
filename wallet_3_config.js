@@ -1,1 +1,1 @@
-var mnemonic = "worry donate palm nest candy usual shoe miss smoke bonus idle night";
+var mnemonic = "corn juice soft gun inside equip soup gun dragon advance profit foil";

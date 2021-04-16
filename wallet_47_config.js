@@ -1,1 +1,1 @@
-var mnemonic = "life siege clutch erase lonely amateur torch minute skull just fiction change";
+var mnemonic = "action organ ecology before chicken great skull control exotic smile era pipe";

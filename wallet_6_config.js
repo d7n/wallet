@@ -1,1 +1,1 @@
-var mnemonic = "all over shell tone swap muscle will boss author dismiss depart inspire";
+var mnemonic = "ghost verb arch wagon tenant world tray pond kiwi soul worth monkey";

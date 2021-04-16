@@ -1,1 +1,1 @@
-var mnemonic = "chaos plunge among stuff glide father oil clarify soldier current virtual still";
+var mnemonic = "spell sock flower picnic fiscal cram sand session monster veteran render firm";

@@ -1,1 +1,1 @@
-var mnemonic = "country remember thunder review virus toast park wreck quarter scout coffee awkward";
+var mnemonic = "endless adult reopen old able pelican deer nephew never mimic elder tide";

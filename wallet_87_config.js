@@ -1,1 +1,1 @@
-var mnemonic = "swim escape link muffin amazing erupt noble lake quantum choose polar vibrant";
+var mnemonic = "concert visual violin short ten someone hood layer welcome child language benefit";

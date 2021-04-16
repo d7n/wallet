@@ -1,1 +1,1 @@
-var mnemonic = "crater always off laptop sleep cradle text cushion dad fashion churn chair";
+var mnemonic = "blame coil jar crash citizen world desert fiber wine gallery ivory sun";

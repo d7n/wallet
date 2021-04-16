@@ -1,1 +1,1 @@
-var mnemonic = "neglect sell pair pottery umbrella mandate dash climb child invest clerk element";
+var mnemonic = "still immense happy key rifle guilt below release reward waste address arena";

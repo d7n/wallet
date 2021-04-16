@@ -1,1 +1,1 @@
-var mnemonic = "corn hat noise elephant slab sister cousin fatigue near hair social funny";
+var mnemonic = "armor ship verb silly undo marble early exchange member step lobster warfare";

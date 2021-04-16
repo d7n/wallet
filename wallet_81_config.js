@@ -1,1 +1,1 @@
-var mnemonic = "loyal tumble much devote retreat car discover evoke wheat avoid neither cotton";
+var mnemonic = "three feed acoustic rain soap sphere mandate bubble unaware joy elbow broom";

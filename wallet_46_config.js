@@ -1,1 +1,1 @@
-var mnemonic = "venture borrow capable purchase grant host expand shadow put trip alien clap";
+var mnemonic = "negative absorb early enough symptom draw kitten dice essence explain topic victory";

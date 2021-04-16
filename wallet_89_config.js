@@ -1,1 +1,1 @@
-var mnemonic = "mesh twelve liquid around tribe muscle unknown win mutual bottom flat flush";
+var mnemonic = "luxury skill path mesh elder thunder utility nephew skirt engine rescue burst";

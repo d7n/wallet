@@ -1,1 +1,1 @@
-var mnemonic = "adapt water nice rural furnace census wide snake almost barrel summer blanket";
+var mnemonic = "joke claim prepare mask birth stumble crack merry comic common warrior exhaust";

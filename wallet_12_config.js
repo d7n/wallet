@@ -1,1 +1,1 @@
-var mnemonic = "sponsor blanket deny step million pink yellow budget gossip canyon network govern";
+var mnemonic = "brain scrub crucial region horror world gorilla laptop exit brown seed target";

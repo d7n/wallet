@@ -1,1 +1,1 @@
-var mnemonic = "dove either gospel patrol pizza sweet surprise wine truth caught surprise kangaroo";
+var mnemonic = "better cram demand bring burst rent skill circle drastic danger crash rescue";

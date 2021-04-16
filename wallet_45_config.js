@@ -1,1 +1,1 @@
-var mnemonic = "license amount follow learn item squeeze economy lawn detail pottery vapor border";
+var mnemonic = "slow robust perfect feature tube girl absorb picnic provide midnight evidence insane";

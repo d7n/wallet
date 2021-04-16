@@ -1,1 +1,1 @@
-var mnemonic = "carry bomb tower visit walnut glove harsh bomb fragile layer wrap copper";
+var mnemonic = "nominee try cube feel planet grace find subject symbol waste true base";

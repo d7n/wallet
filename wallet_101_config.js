@@ -1,1 +1,1 @@
-var mnemonic = "cliff slush cheese such jaguar loud story glad lava fashion slush sail";
+var mnemonic = "size attract forget palace caution clever basket lesson umbrella fee slice humble";

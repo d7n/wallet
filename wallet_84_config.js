@@ -1,1 +1,1 @@
-var mnemonic = "gentle category inspire uncover annual umbrella cave force space recycle stem phone";
+var mnemonic = "busy okay glance picnic board someone grab drip domain flush broom because";

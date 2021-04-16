@@ -1,1 +1,1 @@
-var mnemonic = "ladder inject garlic when mad enemy runway zone receive busy gaze base";
+var mnemonic = "start time umbrella truck ball rebuild digital monkey pen list badge version";

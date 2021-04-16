@@ -1,1 +1,1 @@
-var mnemonic = "pride earth skate cinnamon arrive follow punch hammer obey tank sock mind";
+var mnemonic = "search orange position rhythm music holiday unit sponsor slush youth citizen pony";

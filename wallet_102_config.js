@@ -1,1 +1,1 @@
-var mnemonic = "dismiss broccoli soccer certain asthma trumpet movie excuse sing effort ski west";
+var mnemonic = "social draw view wave gap vivid worry special puzzle paddle sad bird";

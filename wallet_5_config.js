@@ -1,1 +1,1 @@
-var mnemonic = "illness practice dream sing vehicle six surface patch rain scale hurry nothing";
+var mnemonic = "below used faint coast grain quit engine moment radio code grace angry";

@@ -1,1 +1,1 @@
-var mnemonic = "possible armor slab simple rate opera flush panther secret scrap suggest jar";
+var mnemonic = "essence mandate snack know warm skill clip start raven frequent cannon old";

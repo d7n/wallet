@@ -1,1 +1,1 @@
-var mnemonic = "wolf monitor intact bicycle sponsor fever curve brisk measure swift satoshi section";
+var mnemonic = "venture elevator play earth pumpkin rural evoke citizen shock bounce finger sight";

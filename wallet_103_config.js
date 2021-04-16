@@ -1,1 +1,1 @@
-var mnemonic = "churn march pledge impact stereo give picnic toilet resemble mystery unit friend";
+var mnemonic = "impose spend mesh stage dirt border secret bread pumpkin tide crime regret";

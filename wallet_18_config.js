@@ -1,1 +1,1 @@
-var mnemonic = "obtain flock winner hurt lottery panic bargain thought accident similar size champion";
+var mnemonic = "tortoise comic roast balance cute animal boat bike shell across pulse slogan";

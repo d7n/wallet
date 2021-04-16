@@ -1,1 +1,1 @@
-var mnemonic = "grunt shed ill metal actor tank awesome allow head eye rose unfold";
+var mnemonic = "antique fever under icon camera transfer load drama biology expect pretty broccoli";

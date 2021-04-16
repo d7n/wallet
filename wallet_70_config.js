@@ -1,1 +1,1 @@
-var mnemonic = "venue raise aware snack little weekend tongue valley crystal body pioneer inquiry";
+var mnemonic = "bring energy stem milk wagon autumn tent equal sign space welcome ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "junior buddy country fold claim remind vague consider virus theme satisfy jewel";
+var mnemonic = "laundry dumb merit address group symbol wrap stage brick rocket lottery people";

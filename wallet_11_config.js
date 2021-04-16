@@ -1,1 +1,1 @@
-var mnemonic = "confirm garage organ phone bridge live clog slab practice local toy ski";
+var mnemonic = "velvet when glare roof speak move chat glad trade space stove modify";

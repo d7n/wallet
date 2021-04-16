@@ -1,1 +1,1 @@
-var mnemonic = "exhibit easily nature mesh stairs shoe urge gold crash creek cactus hospital";
+var mnemonic = "dirt arch travel brass minor gain funny leg model question glimpse club";

@@ -1,1 +1,1 @@
-var mnemonic = "slight drastic repeat dawn hello reason deny struggle black impulse piece rack";
+var mnemonic = "rhythm flame castle kit glimpse tree enact rack carry business kite disorder";

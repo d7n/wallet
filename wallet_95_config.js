@@ -1,1 +1,1 @@
-var mnemonic = "aerobic glue clock picnic shift radio gun illegal secret fragile winner attitude";
+var mnemonic = "matter entire fit edge borrow riot stereo below grit north verb input";

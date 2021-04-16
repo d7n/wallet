@@ -1,1 +1,1 @@
-var mnemonic = "say oppose enlist suspect sign damage push employ nerve indicate drip glory";
+var mnemonic = "trumpet strategy wheel they foam fly twice smoke sure flag believe spring";

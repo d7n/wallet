@@ -1,1 +1,1 @@
-var mnemonic = "only swap swim joy sense network essence moon venue you someone umbrella";
+var mnemonic = "era reopen nurse orange camp hurdle whale include square glad globe venture";

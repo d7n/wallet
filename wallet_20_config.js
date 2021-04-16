@@ -1,1 +1,1 @@
-var mnemonic = "budget boring fever saddle arctic volume prepare axis suspect lottery control fashion";
+var mnemonic = "style focus fiber rookie salad shrimp catalog upon risk speak trophy rug";

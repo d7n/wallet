@@ -1,1 +1,1 @@
-var mnemonic = "local devote dirt husband sport shrug maid dune fabric extra sorry pizza";
+var mnemonic = "victory mother athlete size again bitter dentist acid goat athlete sign shift";

@@ -1,1 +1,1 @@
-var mnemonic = "switch captain when scan bunker magnet pelican leisure refuse face boat reunion";
+var mnemonic = "move duty resist stable lend jar attend such carpet excess episode upon";

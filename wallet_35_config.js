@@ -1,1 +1,1 @@
-var mnemonic = "legend middle jump cruel wool cream roast carry bounce prevent acoustic parent";
+var mnemonic = "wish wonder clog kiwi scorpion robust leave dice spatial ill hurry attend";

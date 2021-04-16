@@ -1,1 +1,1 @@
-var mnemonic = "void solar flavor dinner plug shove rebel seed method lizard skate acid";
+var mnemonic = "rice update wolf runway border echo day fringe extend insane cluster walnut";
