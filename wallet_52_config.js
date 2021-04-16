@@ -1,1 +1,1 @@
-var mnemonic = "notable suit comfort badge dove talent recycle during rail coconut tape tail";
+var mnemonic = "asthma thought echo begin pledge jeans borrow when select choice daring add";

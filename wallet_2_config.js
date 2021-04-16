@@ -1,1 +1,1 @@
-var mnemonic = "current behave interest problem spatial empty grid rival extend daughter volume slim";
+var mnemonic = "shock embark rent screen catch left divide require drop claw super liar";

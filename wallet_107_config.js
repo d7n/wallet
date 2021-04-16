@@ -1,1 +1,1 @@
-var mnemonic = "remain biology rough asset salon ability tiger one omit region clog awesome";
+var mnemonic = "grain yellow boat old correct human three dial labor pass combine reduce";

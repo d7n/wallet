@@ -1,1 +1,1 @@
-var mnemonic = "gain wisdom staff pattern nature taste sort direct you glue orchard photo";
+var mnemonic = "either shine one crime obscure moment then cart forward north oak secret";

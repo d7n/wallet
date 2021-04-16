@@ -1,1 +1,1 @@
-var mnemonic = "manage escape turn virus iron vendor deputy burger current bicycle party absurd";
+var mnemonic = "again release change deny tackle flower dumb inherit opinion tank leopard arm";

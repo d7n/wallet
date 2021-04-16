@@ -1,1 +1,1 @@
-var mnemonic = "close blast quote abstract frame file grass decide boss tuition conduct gym";
+var mnemonic = "scare candy rapid attitude weather stage verify brief spray panda trial annual";

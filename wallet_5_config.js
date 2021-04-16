@@ -1,1 +1,1 @@
-var mnemonic = "child special glad civil tonight scale rapid airport rally test purity chair";
+var mnemonic = "cradle capable replace panel perfect wink vacuum awesome fine outdoor pass say";

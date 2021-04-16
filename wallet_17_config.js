@@ -1,1 +1,1 @@
-var mnemonic = "movie know inherit rescue chief garage february hen entire oven rely hello";
+var mnemonic = "unusual shy recycle chat air entry kiwi breeze arrow emerge idle often";

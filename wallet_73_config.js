@@ -1,1 +1,1 @@
-var mnemonic = "glare liberty hover donkey feel cupboard agree pet tuna welcome pull drop";
+var mnemonic = "film another over bring awkward tuition absent one whale first useless alone";

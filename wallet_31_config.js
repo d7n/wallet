@@ -1,1 +1,1 @@
-var mnemonic = "evil visa magnet enrich quarter suffer glory shoe caution rough can elder";
+var mnemonic = "damage elder muffin faint parrot lamp summer stool all gain cloth virtual";

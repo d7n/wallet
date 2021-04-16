@@ -1,1 +1,1 @@
-var mnemonic = "ring art real ankle novel melt history cotton garment green energy couch";
+var mnemonic = "slice various arrive faint circle drink clown bleak fringe staff hour rebuild";

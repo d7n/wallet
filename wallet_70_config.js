@@ -1,1 +1,1 @@
-var mnemonic = "jeans alone room come chalk misery rally design ability vendor tongue because";
+var mnemonic = "chef desk library avocado solve life vapor suggest unique edge father own";

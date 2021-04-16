@@ -1,1 +1,1 @@
-var mnemonic = "security grief cargo hungry evil half remove cycle all mix huge when";
+var mnemonic = "all illegal bonus must vibrant hollow inflict salon kit merge genius claim";

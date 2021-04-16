@@ -1,1 +1,1 @@
-var mnemonic = "noise say antique desk goddess warm goddess isolate undo swarm wave winter";
+var mnemonic = "drum fashion social satisfy all enrich army monkey mesh normal canal crash";

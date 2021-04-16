@@ -1,1 +1,1 @@
-var mnemonic = "flavor service random eye cement carry link network habit carbon culture patient";
+var mnemonic = "defense exotic layer load own candy okay prison child claim poverty congress";

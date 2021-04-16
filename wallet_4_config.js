@@ -1,1 +1,1 @@
-var mnemonic = "jelly shell ensure second rude company holiday disorder phone steel banner level";
+var mnemonic = "common law rubber claw left inmate bread envelope explain timber cherry company";

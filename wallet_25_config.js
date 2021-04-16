@@ -1,1 +1,1 @@
-var mnemonic = "lawn garbage comfort filter day ivory calm utility govern rhythm place shaft";
+var mnemonic = "happy cream clutch journey flight jungle cool lucky moral fog raw dwarf";

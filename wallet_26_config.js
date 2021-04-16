@@ -1,1 +1,1 @@
-var mnemonic = "cram mask month grow tide double random method afford segment crime wink";
+var mnemonic = "elevator carry excuse hint replace soup reform retire absurd video scrub wise";

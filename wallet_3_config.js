@@ -1,1 +1,1 @@
-var mnemonic = "spoil apart ketchup reduce crash table field laugh ready rail father kiwi";
+var mnemonic = "flavor concert arctic vanish live flavor holiday damp say syrup exit begin";

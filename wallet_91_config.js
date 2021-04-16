@@ -1,1 +1,1 @@
-var mnemonic = "phone defense dove blast fall extend paper ill wine silent wool into";
+var mnemonic = "unknown rate siren cinnamon escape mixed skate receive kangaroo actor tunnel brush";

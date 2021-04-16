@@ -1,1 +1,1 @@
-var mnemonic = "employ limit obvious churn bundle glove eager rent receive virus glad city";
+var mnemonic = "carpet vacuum crystal quote jeans biology diary fringe glass evoke episode save";

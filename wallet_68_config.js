@@ -1,1 +1,1 @@
-var mnemonic = "snack web inmate razor physical slogan impact solve tonight blur power chunk";
+var mnemonic = "zone dwarf talent pyramid move width drink spy buyer viable pattern tiny";

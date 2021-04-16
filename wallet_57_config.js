@@ -1,1 +1,1 @@
-var mnemonic = "lemon eternal scheme bachelor trust climb rigid about dice seed river foot";
+var mnemonic = "sound team ritual expire eager humor describe autumn dash transfer similar relax";

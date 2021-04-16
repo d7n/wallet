@@ -1,1 +1,1 @@
-var mnemonic = "powder canoe travel jewel boil learn urban judge seminar disorder knife february";
+var mnemonic = "two infant project impulse smooth object recipe forget senior spring capable either";

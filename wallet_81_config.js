@@ -1,1 +1,1 @@
-var mnemonic = "vacant news embody lyrics give debate license tell reject pelican merry dove";
+var mnemonic = "just picnic laundry casino powder deer away cube crystal weasel party zebra";

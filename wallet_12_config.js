@@ -1,1 +1,1 @@
-var mnemonic = "hotel flat inside typical spray bunker salute rubber arena drum mountain work";
+var mnemonic = "analyst tide coyote police alien enlist tray hollow title bundle pet believe";

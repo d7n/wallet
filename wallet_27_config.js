@@ -1,1 +1,1 @@
-var mnemonic = "spend junior wisdom either immune nature night other inmate farm menu toss";
+var mnemonic = "unique usual proud season draw priority into awful allow century cupboard cram";

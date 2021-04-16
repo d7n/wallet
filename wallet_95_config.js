@@ -1,1 +1,1 @@
-var mnemonic = "inform select crime runway country arch beach mango regret flush object affair";
+var mnemonic = "punch expire exotic place pair virtual wet nurse produce bus father survey";

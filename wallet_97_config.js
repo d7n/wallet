@@ -1,1 +1,1 @@
-var mnemonic = "patient fence behave gold debate share wealth two despair other glory rally";
+var mnemonic = "surface three trim broom kiss canyon donor crack dynamic reject solve math";

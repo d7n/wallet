@@ -1,1 +1,1 @@
-var mnemonic = "transfer relief combine material together tree analyst reward profit today occur capable";
+var mnemonic = "machine page fancy please chicken twenty world mansion soft river topic juice";

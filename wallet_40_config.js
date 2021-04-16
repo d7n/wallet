@@ -1,1 +1,1 @@
-var mnemonic = "used siege fury liar follow domain goat alter equal knee winner sorry";
+var mnemonic = "height guilt impact media burst crystal boy tomorrow elephant doctor art gloom";

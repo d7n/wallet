@@ -1,1 +1,1 @@
-var mnemonic = "iron enemy spare witness acquire path muffin once venue unknown embody cricket";
+var mnemonic = "spatial ask unusual pudding response diet ocean stairs clap orient note stool";

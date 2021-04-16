@@ -1,1 +1,1 @@
-var mnemonic = "crush trip venue lecture arrange system enlist maze quarter pencil blind loyal";
+var mnemonic = "pelican normal give advance depart invest misery idea dolphin gun marble forget";

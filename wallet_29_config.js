@@ -1,1 +1,1 @@
-var mnemonic = "type wheel pet fish you fatal escape bike gospel cotton kiwi popular";
+var mnemonic = "train divert recycle spoil snap march body wink six village plunge remember";

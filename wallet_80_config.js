@@ -1,1 +1,1 @@
-var mnemonic = "large index spatial laugh almost brush butter arrest resemble stadium hen blossom";
+var mnemonic = "north web candy kind moon sorry syrup best blood program advance wet";

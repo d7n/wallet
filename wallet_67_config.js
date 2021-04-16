@@ -1,1 +1,1 @@
-var mnemonic = "bus oyster target good settle fork penalty invest outdoor tribe kiss entry";
+var mnemonic = "raccoon walk season turtle struggle kite winter paper potato knock screen turkey";

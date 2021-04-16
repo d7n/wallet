@@ -1,1 +1,1 @@
-var mnemonic = "glimpse nerve dwarf adapt club clean high plunge advance village hockey truth";
+var mnemonic = "master legal expand judge lava bitter pave point law atom tragic lonely";

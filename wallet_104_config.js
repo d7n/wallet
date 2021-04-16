@@ -1,1 +1,1 @@
-var mnemonic = "cabin arrange edge gallery spoil snack version number medal ozone pole senior";
+var mnemonic = "tomorrow write census coach bright sad level peasant youth august pear squirrel";

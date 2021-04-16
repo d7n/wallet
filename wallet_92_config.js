@@ -1,1 +1,1 @@
-var mnemonic = "close resist risk rice behind language swallow intact eye girl box advice";
+var mnemonic = "cart clean elevator dress acquire shock congress quit grunt average never earn";

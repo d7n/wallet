@@ -1,1 +1,1 @@
-var mnemonic = "dutch finish column minute solve neither deer access balance forward payment identify";
+var mnemonic = "glimpse select bleak satoshi solar opera bachelor empty school wagon broom eternal";

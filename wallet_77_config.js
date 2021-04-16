@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wire pioneer mystery mandate laptop give song wrist lumber draw moment";
+var mnemonic = "object flash honey winner garage gospel strategy arm equal ski hockey sun";

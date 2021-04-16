@@ -1,1 +1,1 @@
-var mnemonic = "spatial message fringe cabin cement skirt rhythm effort want sleep okay canvas";
+var mnemonic = "master gospel smart uncle almost ribbon more receive silent slam rude width";

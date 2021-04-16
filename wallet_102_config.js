@@ -1,1 +1,1 @@
-var mnemonic = "fragile assume meadow winter term sleep blind robust car nation elbow quiz";
+var mnemonic = "crash demand hidden phrase angry void rookie suspect dignity useful soap syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "relax fall door ill hello curious curtain tiny size light enter slot";
+var mnemonic = "reopen brisk tube oblige amused kangaroo adult door nuclear bounce luxury hair";

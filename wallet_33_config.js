@@ -1,1 +1,1 @@
-var mnemonic = "glide robust group narrow syrup symbol monster machine emerge power van dream";
+var mnemonic = "mountain rack north define devote reject december certain much useless middle illness";

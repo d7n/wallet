@@ -1,1 +1,1 @@
-var mnemonic = "frost ivory arctic traffic harsh hurt promote teach soldier bullet someone task";
+var mnemonic = "zoo scrap theory rocket butter hazard vanish stem inflict view soon shop";

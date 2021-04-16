@@ -1,1 +1,1 @@
-var mnemonic = "idea talent company disease license smooth common fence apple elevator kiwi hammer";
+var mnemonic = "latin nation all honey main dog return forward gospel grain gadget nuclear";

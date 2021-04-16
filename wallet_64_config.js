@@ -1,1 +1,1 @@
-var mnemonic = "decrease kind boost tiger name strong sell dance spray clean baby atom";
+var mnemonic = "device repeat clerk page menu genuine evil fog remove donor gap arrange";

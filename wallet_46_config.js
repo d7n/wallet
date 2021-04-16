@@ -1,1 +1,1 @@
-var mnemonic = "best extra drastic saddle west will scorpion light taste sea merry picnic";
+var mnemonic = "narrow basket october burger pill skirt machine have wrestle bike bird nuclear";

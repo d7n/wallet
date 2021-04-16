@@ -1,1 +1,1 @@
-var mnemonic = "list near report trumpet forest write noble march walnut wing mind curtain";
+var mnemonic = "dentist gap aunt unusual case rocket latin shed canvas ocean fresh saddle";

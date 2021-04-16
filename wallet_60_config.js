@@ -1,1 +1,1 @@
-var mnemonic = "help warm pretty shrimp cloud jungle mass suggest silent stadium unit tank";
+var mnemonic = "control cost plate oven enforce brown sure mosquito normal sign near snow";

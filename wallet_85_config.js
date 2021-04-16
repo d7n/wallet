@@ -1,1 +1,1 @@
-var mnemonic = "differ ocean deposit sound mountain mad kangaroo ankle unable shine avocado trophy";
+var mnemonic = "edge rookie indicate drive dune tank kitchen tower index fly salmon fade";

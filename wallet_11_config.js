@@ -1,1 +1,1 @@
-var mnemonic = "argue match decade leopard already clutch use magic energy unfair divide error";
+var mnemonic = "chimney screen give clarify squirrel ancient letter nice photo combine behind uniform";

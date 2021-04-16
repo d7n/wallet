@@ -1,1 +1,1 @@
-var mnemonic = "music theory cage process image earn round market absurd valid present result";
+var mnemonic = "canyon poet now rival south dream top unhappy dad settle real humble";

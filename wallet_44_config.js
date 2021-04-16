@@ -1,1 +1,1 @@
-var mnemonic = "funny relief process holiday salmon ship silk message chuckle immune ginger shiver";
+var mnemonic = "narrow sort term sunset pass such lizard pool dentist test play used";

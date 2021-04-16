@@ -1,1 +1,1 @@
-var mnemonic = "hero left duck taste coast whisper control twice job knife exit error";
+var mnemonic = "remain area long robot pattern slice tube actual twenty execute judge tobacco";

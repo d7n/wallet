@@ -1,1 +1,1 @@
-var mnemonic = "devote attack fly fetch garbage another master keep surprise hybrid fence act";
+var mnemonic = "fit ladder feed penalty festival stove opinion tiny fetch hurt drip piano";

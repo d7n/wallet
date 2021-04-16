@@ -1,1 +1,1 @@
-var mnemonic = "manual sniff frown aerobic wide cost slow lizard pill conduct screen possible";
+var mnemonic = "ready ski couple wave farm suggest nice purity rent middle crew junk";

@@ -1,1 +1,1 @@
-var mnemonic = "sick expire depth great badge hungry adult security deposit garden fever neglect";
+var mnemonic = "raise kick same sock laugh throw banana hunt pole update hand job";

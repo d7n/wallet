@@ -1,1 +1,1 @@
-var mnemonic = "play much zebra twice foot scan harbor wisdom wild weird law banana";
+var mnemonic = "album ski arctic arm enhance concert adult reflect concert any obscure oil";

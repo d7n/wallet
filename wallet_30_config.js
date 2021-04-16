@@ -1,1 +1,1 @@
-var mnemonic = "risk before anxiety wish large sad unusual debate half excite glad hospital";
+var mnemonic = "weapon fault engine fan mirror mercy pigeon trash drop woman awake wheel";

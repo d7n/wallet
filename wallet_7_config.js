@@ -1,1 +1,1 @@
-var mnemonic = "biology differ ugly novel smoke transfer open thumb trend depart ridge hawk";
+var mnemonic = "assist aspect edit hold slight never cement morning observe balcony salmon language";

@@ -1,1 +1,1 @@
-var mnemonic = "essay unlock depend dune ticket into napkin fog legal bean split educate";
+var mnemonic = "smart industry noodle vault usual tackle pigeon earn humble stage car short";

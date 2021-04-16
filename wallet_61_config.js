@@ -1,1 +1,1 @@
-var mnemonic = "provide assault mosquito oppose burst version oven print midnight satisfy thank elite";
+var mnemonic = "because soft flight soccer vessel cherry bunker clutch aisle film divorce bind";

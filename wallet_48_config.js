@@ -1,1 +1,1 @@
-var mnemonic = "embark estate seed equal piano august spice useful debris raccoon vehicle crane";
+var mnemonic = "planet rely crash reject fan update genre urge ketchup garbage spin hedgehog";

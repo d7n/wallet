@@ -1,1 +1,1 @@
-var mnemonic = "catch solar insect extend extra relax jelly woman stuff rebuild rotate antenna";
+var mnemonic = "chapter mixture face short pudding differ will year peasant borrow pencil supreme";

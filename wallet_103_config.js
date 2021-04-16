@@ -1,1 +1,1 @@
-var mnemonic = "blouse system mimic scrub drink honey antenna village ensure country people effort";
+var mnemonic = "actress popular quantum cloud minor must picnic crumble uncover budget vault carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin profit hip ready grain alert wear cluster clay scare badge plunge";
+var mnemonic = "ceiling know provide rhythm arctic inject armor enact hold swallow dutch wise";

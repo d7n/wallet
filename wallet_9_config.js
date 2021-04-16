@@ -1,1 +1,1 @@
-var mnemonic = "group sibling expand narrow dizzy lunch ball found slogan skin cactus scare";
+var mnemonic = "sure move weapon endorse nut casino defense egg inspire collect artefact kid";

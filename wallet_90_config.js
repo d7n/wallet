@@ -1,1 +1,1 @@
-var mnemonic = "mercy arrange taxi train festival wide treat boss cushion pottery office wish";
+var mnemonic = "join whip chef canoe thought ketchup monkey easily march goddess accuse echo";

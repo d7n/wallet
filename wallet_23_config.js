@@ -1,1 +1,1 @@
-var mnemonic = "midnight false layer east click style adapt brick pigeon sweet runway cushion";
+var mnemonic = "smart now federal climb entire rookie fiscal final among behind stadium crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "usual pelican hand detect finish venture theme pudding steak thank voyage south";
+var mnemonic = "magnet aim vocal run list staff major huge soul reform bless bind";

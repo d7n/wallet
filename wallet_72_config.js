@@ -1,1 +1,1 @@
-var mnemonic = "tumble language vocal light ball double crowd giraffe host result top blush";
+var mnemonic = "ice rug tool measure space razor leg truly express crash jeans health";

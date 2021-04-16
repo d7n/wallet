@@ -1,1 +1,1 @@
-var mnemonic = "scheme core cargo economy heavy around blood unable connect elbow person sense";
+var mnemonic = "glad topple champion click pigeon identify meadow science enrich couple style rival";

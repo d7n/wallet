@@ -1,1 +1,1 @@
-var mnemonic = "bundle amused kitten damp rabbit flush lunar renew squirrel sail earn scrub";
+var mnemonic = "truth occur hint odor twice crash list slight rib ride father bracket";

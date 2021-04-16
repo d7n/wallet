@@ -1,1 +1,1 @@
-var mnemonic = "cup floor supreme grit assume quick armor remove high grace report render";
+var mnemonic = "course hover poverty daring crime useful veteran foil exclude trigger spray castle";

@@ -1,1 +1,1 @@
-var mnemonic = "skate mirror road prefer practice north provide dry honey poet fly slush";
+var mnemonic = "correct link regret laptop brown forum era worth fever fish input twelve";

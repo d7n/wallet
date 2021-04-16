@@ -1,1 +1,1 @@
-var mnemonic = "tilt vibrant undo worry grain amateur area habit stock save rent vivid";
+var mnemonic = "paddle cross slow mushroom sheriff never rude body size banner fault print";

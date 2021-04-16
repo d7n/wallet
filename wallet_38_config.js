@@ -1,1 +1,1 @@
-var mnemonic = "stock pen also ivory donate recipe hurdle invite mention august output curve";
+var mnemonic = "cabbage raise exhibit dash copper curious excuse blind tumble anchor pool runway";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow real pulp hurry walnut doctor broom agree crumble tree join column";
+var mnemonic = "ahead infant fall club fun foil surprise skill owner rail act electric";

@@ -1,1 +1,1 @@
-var mnemonic = "half garage vanish enforce tunnel copy great access stay pulse crunch judge";
+var mnemonic = "horse pumpkin robust globe orphan divorce cube viable candy sun scale brisk";

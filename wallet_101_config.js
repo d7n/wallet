@@ -1,1 +1,1 @@
-var mnemonic = "duck better cigar quit believe clown range account rebuild urge solution call";
+var mnemonic = "van ankle duty laundry disorder install year ignore flat mutual inform muscle";

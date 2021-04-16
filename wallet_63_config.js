@@ -1,1 +1,1 @@
-var mnemonic = "canyon jacket seminar rich price error frame neutral spatial myth curve survey";
+var mnemonic = "laundry canvas pear pluck wear movie erupt return nasty wild position page";

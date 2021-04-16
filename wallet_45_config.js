@@ -1,1 +1,1 @@
-var mnemonic = "swap reunion enter drip always empower beauty under awake grab mandate enemy";
+var mnemonic = "intact length accuse dance clever save grain glass father combine craft panther";

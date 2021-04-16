@@ -1,1 +1,1 @@
-var mnemonic = "cart awkward ridge angle speak gym connect between danger guess uniform supply";
+var mnemonic = "unable matter garage jealous piece travel razor fade attitude purpose invest involve";

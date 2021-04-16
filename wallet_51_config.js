@@ -1,1 +1,1 @@
-var mnemonic = "away property acquire robot clarify adapt autumn crucial denial bargain much analyst";
+var mnemonic = "attract mind galaxy sword candy anchor powder zebra erosion oak attend hello";

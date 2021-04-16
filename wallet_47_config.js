@@ -1,1 +1,1 @@
-var mnemonic = "below street plunge royal hammer happy goddess alien donor thank churn notable";
+var mnemonic = "huge cereal author section inspire course same shy trash visual goat pass";

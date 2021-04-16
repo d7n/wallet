@@ -1,1 +1,1 @@
-var mnemonic = "hammer century rely sadness anger enrich recipe program age crazy seat solve";
+var mnemonic = "act web where seat creek garden assault gift frozen favorite song coyote";

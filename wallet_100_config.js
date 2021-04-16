@@ -1,1 +1,1 @@
-var mnemonic = "curtain put shoulder ranch coast duty pipe mistake zone pyramid coast dwarf";
+var mnemonic = "reveal motion either harvest cotton brown hill hat frost question visit deliver";

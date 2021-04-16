@@ -1,1 +1,1 @@
-var mnemonic = "uncle basic risk kite modify allow sound reflect leave impulse broken gym";
+var mnemonic = "hour inform dish essence ranch matter kingdom moral crash spread pigeon curious";
