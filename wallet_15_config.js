@@ -1,1 +1,1 @@
-var mnemonic = "record stomach shove coin card daring feed december shy knife rocket team";
+var mnemonic = "husband melt layer autumn core tone bird visit waste sketch toward trigger";

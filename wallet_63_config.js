@@ -1,1 +1,1 @@
-var mnemonic = "library wise power catalog mirror tone impose music rapid congress evil correct";
+var mnemonic = "medal bid nominee tribe correct gate boost copper same abstract security spend";

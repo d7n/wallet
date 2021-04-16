@@ -1,1 +1,1 @@
-var mnemonic = "this elder fancy captain forest admit suggest august soap meat girl donkey";
+var mnemonic = "enlist success glory exercise tragic source repair soul velvet impulse define again";

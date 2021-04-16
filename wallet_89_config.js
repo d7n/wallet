@@ -1,1 +1,1 @@
-var mnemonic = "brother orbit someone kick lunar hour idea chapter gorilla trial prize salmon";
+var mnemonic = "run social cherry memory foil run pepper among engage upgrade rural survey";

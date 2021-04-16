@@ -1,1 +1,1 @@
-var mnemonic = "ankle asset cost render garbage twelve moral uphold aunt high fury gesture";
+var mnemonic = "tobacco shrug meadow audit zebra monster agree blanket kitchen kid solution digital";

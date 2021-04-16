@@ -1,1 +1,1 @@
-var mnemonic = "auto shock arrow favorite awake fuel ready depart tragic album weasel message";
+var mnemonic = "actor move jacket modify bracket attend found idle steak supreme patch mention";

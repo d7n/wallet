@@ -1,1 +1,1 @@
-var mnemonic = "buffalo frost inquiry brother sauce stone satoshi harsh relax proud access arctic";
+var mnemonic = "sunset erosion lobster kick final wrap maze scale tiny fence mesh obtain";

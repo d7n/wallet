@@ -1,1 +1,1 @@
-var mnemonic = "double clown employ fashion mask exit sudden broom crazy peace educate decorate";
+var mnemonic = "sure usage naive point lawn pond grab shuffle climb carbon civil find";

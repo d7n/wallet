@@ -1,1 +1,1 @@
-var mnemonic = "simple broom teach extra fun alert few auto margin mass describe million";
+var mnemonic = "famous either bracket cargo palace divert stem rather tattoo afraid picnic relief";

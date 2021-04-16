@@ -1,1 +1,1 @@
-var mnemonic = "degree fiber clean anxiety decline youth apology wine crunch maid lava across";
+var mnemonic = "elder quit public fame rack wash treat tiger clinic arch option chapter";

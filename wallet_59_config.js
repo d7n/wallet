@@ -1,1 +1,1 @@
-var mnemonic = "between sadness amazing casino forest require impulse arrive wrist learn devote walk";
+var mnemonic = "bridge era glue public either term imitate attack invest small memory bottom";

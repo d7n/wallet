@@ -1,1 +1,1 @@
-var mnemonic = "vibrant way matrix ocean wrong trial kangaroo faint anger develop gold baby";
+var mnemonic = "gun duty grant melt dove seek awkward inflict slide brand relief gold";

@@ -1,1 +1,1 @@
-var mnemonic = "theory never quick typical bracket struggle moral flame warrior ugly pelican humble";
+var mnemonic = "brush wine water tuition typical hello slush buffalo orient open dial crush";

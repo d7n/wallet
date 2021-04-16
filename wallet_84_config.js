@@ -1,1 +1,1 @@
-var mnemonic = "mechanic genius what enough option view never solution suggest baby umbrella apart";
+var mnemonic = "aisle hedgehog immense mountain file knife push dynamic ask island property adapt";

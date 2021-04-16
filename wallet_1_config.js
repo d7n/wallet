@@ -1,1 +1,1 @@
-var mnemonic = "link deliver siren off firm pride wrist benefit sausage brief cycle kid";
+var mnemonic = "comic steel guard topic december erosion spring rebel install retire leave walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "owner eternal elevator antenna clever there cart skirt drift label repeat rebuild";
+var mnemonic = "piece forest because income poverty stairs beyond loan teach blind blood beauty";

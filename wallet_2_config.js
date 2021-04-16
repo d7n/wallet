@@ -1,1 +1,1 @@
-var mnemonic = "segment scene stamp virus fee infant leg glide polar twin cart below";
+var mnemonic = "permit build rebuild crush wire comic vacant strategy immune label emotion reveal";

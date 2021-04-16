@@ -1,1 +1,1 @@
-var mnemonic = "sadness require timber shine bracket sign chest roof bike crater segment blur";
+var mnemonic = "raise enroll romance flavor brick town desert slim switch able doll diary";

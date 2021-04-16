@@ -1,1 +1,1 @@
-var mnemonic = "fabric project flame where obscure ostrich update giggle dismiss orbit nation cup";
+var mnemonic = "ladder simple faith ladder aisle recall tuition insect marble assault few away";

@@ -1,1 +1,1 @@
-var mnemonic = "clip expose limit donkey version planet favorite claim talent net cover visit";
+var mnemonic = "anchor art awkward goat truly print clap young glare border develop anger";

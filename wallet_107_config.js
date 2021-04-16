@@ -1,1 +1,1 @@
-var mnemonic = "vast solve uniform convince leg quick list bullet share whip either sight";
+var mnemonic = "rug caught surge divert spend purity weasel razor choose dance lottery student";

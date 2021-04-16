@@ -1,1 +1,1 @@
-var mnemonic = "hotel grit pause kit risk random eyebrow lecture combine deputy clerk comfort";
+var mnemonic = "life virtual disagree party review when front improve enroll minimum current clinic";

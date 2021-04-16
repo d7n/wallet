@@ -1,1 +1,1 @@
-var mnemonic = "off oak neither ring choose capable supreme mixture insane wasp fall depart";
+var mnemonic = "ugly jungle fetch battle test produce celery route minimum impact price tattoo";

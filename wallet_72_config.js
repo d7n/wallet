@@ -1,1 +1,1 @@
-var mnemonic = "dismiss skin pill famous eternal rich license shoot topic afraid peanut tackle";
+var mnemonic = "modify public point doctor lava shock fit network split reveal burst calm";

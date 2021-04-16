@@ -1,1 +1,1 @@
-var mnemonic = "add rent walnut action club garage reject alter ghost write sad lazy";
+var mnemonic = "situate top alter volcano shaft plug peasant quantum legend exist now sure";

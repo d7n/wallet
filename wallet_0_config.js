@@ -1,1 +1,1 @@
-var mnemonic = "rule load once eight atom ritual error coin brief open horror fox";
+var mnemonic = "begin fatal soup crash tattoo civil balcony plunge universe will pull salt";

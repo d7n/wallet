@@ -1,1 +1,1 @@
-var mnemonic = "mixture price spray hip kite wolf imitate ginger leaf uphold van render";
+var mnemonic = "diet person endless depend fresh giraffe piano hover kidney rigid diamond merry";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh fancy fatigue version surface fade toddler retreat egg argue sample water";
+var mnemonic = "exist flock hawk ripple raven beef occur program youth version song shrimp";

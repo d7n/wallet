@@ -1,1 +1,1 @@
-var mnemonic = "actor potato ticket visual expect any minute camp just volcano immense shy";
+var mnemonic = "girl deposit rent obtain hold link spice gravity join duty chief document";

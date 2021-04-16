@@ -1,1 +1,1 @@
-var mnemonic = "protect album armed later correct avocado whisper boy improve pink churn matrix";
+var mnemonic = "engine envelope thank pole orange ivory exercise turkey timber mercy lend camera";

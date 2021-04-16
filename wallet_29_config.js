@@ -1,1 +1,1 @@
-var mnemonic = "cabbage warrior naive near lobster connect antique series pistol vote rice easy";
+var mnemonic = "build position tail share spawn jump area hire holiday quote weasel endless";

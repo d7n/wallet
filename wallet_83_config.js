@@ -1,1 +1,1 @@
-var mnemonic = "mandate obey cereal cotton typical mom conduct liar member crush mad candy";
+var mnemonic = "romance quality pudding note comfort melody attack length banana ribbon gold claim";

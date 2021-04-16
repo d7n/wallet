@@ -1,1 +1,1 @@
-var mnemonic = "title right anger picnic follow soup paddle lyrics upgrade harvest zebra ride";
+var mnemonic = "fan aim seed again uphold mention coach tell potato hybrid expire bomb";

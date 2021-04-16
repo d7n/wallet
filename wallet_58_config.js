@@ -1,1 +1,1 @@
-var mnemonic = "noble drastic shed alter prefer cotton ankle work exercise gas fade market";
+var mnemonic = "machine clay cotton february tonight educate hole say victory metal this obey";

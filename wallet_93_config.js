@@ -1,1 +1,1 @@
-var mnemonic = "rotate surge young invite museum joy shoulder meat endorse once common lawn";
+var mnemonic = "earn coconut steel tiny income poem couple clip canoe inside dose weather";

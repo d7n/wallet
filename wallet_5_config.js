@@ -1,1 +1,1 @@
-var mnemonic = "buzz catch school arena soldier habit easy soldier ticket leader company crash";
+var mnemonic = "guide quantum volume denial tube morning airport session stove speed rib web";

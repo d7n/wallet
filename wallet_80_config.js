@@ -1,1 +1,1 @@
-var mnemonic = "globe torch choose dutch crack echo throw skate age few oven scan";
+var mnemonic = "maximum word eager path alter noble apology pole report toe term juice";

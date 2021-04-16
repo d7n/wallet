@@ -1,1 +1,1 @@
-var mnemonic = "fix joy tooth clarify theme fuel drift repair razor trip sudden wrap";
+var mnemonic = "dry message wire often switch retreat clip vacuum elevator water banner gate";

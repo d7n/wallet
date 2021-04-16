@@ -1,1 +1,1 @@
-var mnemonic = "setup real town service ramp choose hope attitude evoke pilot narrow lady";
+var mnemonic = "garlic there filter present level sport sing push volume hobby switch offer";

@@ -1,1 +1,1 @@
-var mnemonic = "glad praise physical curve mirror orange plug conduct margin ostrich math pencil";
+var mnemonic = "cash crane lady vocal stomach hour grunt kitten column bulk vehicle rubber";

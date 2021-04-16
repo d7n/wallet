@@ -1,1 +1,1 @@
-var mnemonic = "devote sea soft drive skirt voice truly tooth text finger endless much";
+var mnemonic = "update original lawn night hunt same reject alone shock canoe mandate solve";

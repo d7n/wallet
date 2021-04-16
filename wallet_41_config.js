@@ -1,1 +1,1 @@
-var mnemonic = "chaos emotion goose correct enable body loop amount menu come about share";
+var mnemonic = "resist someone donate license elder sting proof scout cancel flame harsh butter";

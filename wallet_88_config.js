@@ -1,1 +1,1 @@
-var mnemonic = "like jungle kidney sail soft hood urge roast cage focus shallow degree";
+var mnemonic = "nominee town ivory desert present victory special talent cinnamon island degree prefer";

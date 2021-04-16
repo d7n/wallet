@@ -1,1 +1,1 @@
-var mnemonic = "choice height unknown chalk actress session sunset drive clarify impulse awful thank";
+var mnemonic = "plastic liquid fortune injury erode draw debate enter inch sustain crack hire";

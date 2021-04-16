@@ -1,1 +1,1 @@
-var mnemonic = "romance craft proof say infant vapor thunder predict monitor source pelican kit";
+var mnemonic = "wealth float train pulp happy deliver despair shrimp dry slot soldier universe";

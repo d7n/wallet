@@ -1,1 +1,1 @@
-var mnemonic = "half bullet region addict trap improve pipe silly nut maximum mandate valve";
+var mnemonic = "maid three couple marine news fragile minute imitate urban topic address couch";

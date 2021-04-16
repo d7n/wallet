@@ -1,1 +1,1 @@
-var mnemonic = "private unfair power huge wrestle trade current punch frog edge unfold game";
+var mnemonic = "matter pelican father salon fiction swallow reform possible obey property hover loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo spin pattern together radio remember palace cage palm regular spread cliff";
+var mnemonic = "debris vintage vague author critic write matter inform news mule era salute";

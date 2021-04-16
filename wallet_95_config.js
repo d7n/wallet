@@ -1,1 +1,1 @@
-var mnemonic = "metal west wrap minor relax mystery bamboo amateur bulk trigger false private";
+var mnemonic = "swarm indicate hunt atom manage million abuse weather record hand gown sort";

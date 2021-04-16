@@ -1,1 +1,1 @@
-var mnemonic = "tone happy service shiver observe shoulder egg cash idea kidney child enhance";
+var mnemonic = "broken club wall book more phone ankle assume bulb potato pass tackle";

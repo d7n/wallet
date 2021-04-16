@@ -1,1 +1,1 @@
-var mnemonic = "brand own cable banana dream together toward famous young ridge athlete paddle";
+var mnemonic = "ill final faint width tiger biology exit follow square limit dwarf finger";

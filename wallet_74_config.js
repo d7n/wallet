@@ -1,1 +1,1 @@
-var mnemonic = "soft armor lawn hour tribe devote scrub coin cruel century pair crack";
+var mnemonic = "lend banana depend favorite tank trash lonely motion puzzle found miss correct";

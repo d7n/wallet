@@ -1,1 +1,1 @@
-var mnemonic = "power exhibit success patient garden trash music buffalo steak rail naive between";
+var mnemonic = "disorder case more crazy hair exile mention thunder same armed motor abstract";

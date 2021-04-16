@@ -1,1 +1,1 @@
-var mnemonic = "excess custom undo involve priority rose engine oxygen special coffee chief grit";
+var mnemonic = "fresh field path grocery pill flag faint wave shoot teach forest rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "usual pig rib stay flame wrist distance success drift forum adult medal";
+var mnemonic = "deny saddle surge egg gift grab emerge word chief leg manual link";

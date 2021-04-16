@@ -1,1 +1,1 @@
-var mnemonic = "guitar trap advice business aspect act web stereo blossom hand cube expire";
+var mnemonic = "pink ticket another joy clutch force help hundred sheriff pioneer stomach three";

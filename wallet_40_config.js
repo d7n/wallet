@@ -1,1 +1,1 @@
-var mnemonic = "scatter viable beef olive erosion local legend catalog sense miracle often venue";
+var mnemonic = "melody trick veteran mean grab duck garden style balance supreme inquiry fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch clerk source motion enemy parade delay pistol seat matter demise cotton";
+var mnemonic = "demand into near record clown insane basic light myself boss ethics endorse";

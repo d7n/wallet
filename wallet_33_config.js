@@ -1,1 +1,1 @@
-var mnemonic = "tiger hole body offer consider hungry enhance jealous cancel supply rough pencil";
+var mnemonic = "seek woman leaf believe casino enable alpha boy cotton wedding clown student";

@@ -1,1 +1,1 @@
-var mnemonic = "tank adapt antenna cargo gold upset alley begin increase lottery convince act";
+var mnemonic = "issue price cream mandate one mad person include flash trial lottery minute";

@@ -1,1 +1,1 @@
-var mnemonic = "tool casual produce jump one group hire simple slide soccer laptop jar";
+var mnemonic = "sun recipe move net enact enjoy ocean alien skill produce field pole";

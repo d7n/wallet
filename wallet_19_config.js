@@ -1,1 +1,1 @@
-var mnemonic = "blade moon prevent sand all still earn dutch door physical dream dumb";
+var mnemonic = "giant praise crucial lesson blur caution wire girl human hat proof wagon";

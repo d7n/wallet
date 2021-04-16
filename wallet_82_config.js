@@ -1,1 +1,1 @@
-var mnemonic = "inflict village build mom aisle column recipe fish often magic process gloom";
+var mnemonic = "scatter year shaft knee grow shoe pond gap hidden foster bottom side";

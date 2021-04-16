@@ -1,1 +1,1 @@
-var mnemonic = "labor purse pet tide motion theory focus balance minute normal frown pull";
+var mnemonic = "there south enroll gap neck toss train cash all whip quick cave";

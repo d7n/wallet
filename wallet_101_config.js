@@ -1,1 +1,1 @@
-var mnemonic = "rack pluck fragile common portion into angry riot absent unknown merge gold";
+var mnemonic = "true pony blush seed vacant floor coin enjoy kit voyage pottery gloom";

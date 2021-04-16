@@ -1,1 +1,1 @@
-var mnemonic = "approve deny mushroom leave trend bus sleep away original lounge cactus bread";
+var mnemonic = "outside seed easy main novel nice marble hurdle bind security ripple lucky";

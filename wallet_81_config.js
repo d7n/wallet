@@ -1,1 +1,1 @@
-var mnemonic = "buffalo pizza grit work local settle fetch erosion belt feed slab trick";
+var mnemonic = "local rain castle there finger famous subway chuckle age orchard kid keen";

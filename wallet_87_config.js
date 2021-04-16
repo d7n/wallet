@@ -1,1 +1,1 @@
-var mnemonic = "denial volume mandate arrow frame skill flee diamond mechanic stairs fresh scatter";
+var mnemonic = "silver guilt flower prepare phrase current nurse sun tank key bright purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar tragic cool glory manual margin dinner elbow dad sweet crew find";
+var mnemonic = "plastic wall wheat wire scrap wrestle surround wild grief bench say tortoise";

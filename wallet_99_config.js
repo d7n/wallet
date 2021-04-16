@@ -1,1 +1,1 @@
-var mnemonic = "farm aim army spider grocery label unlock zero riot equal wreck crisp";
+var mnemonic = "today stereo orbit guitar toss color tennis prison piece allow soldier fruit";

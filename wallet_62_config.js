@@ -1,1 +1,1 @@
-var mnemonic = "wing stem radio dignity twice hospital alpha border ask buzz flight choose";
+var mnemonic = "blind beach convince observe brief upset great dove morning chase sample possible";

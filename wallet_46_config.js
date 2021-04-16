@@ -1,1 +1,1 @@
-var mnemonic = "crawl office demise floor tent maximum again remain survey favorite choice misery";
+var mnemonic = "security work math dwarf staff sister outdoor catalog ball bronze circle auction";

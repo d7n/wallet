@@ -1,1 +1,1 @@
-var mnemonic = "recall light throw magnet decide dwarf venue skin assist fever ivory recycle";
+var mnemonic = "hair you certain thumb open junk ugly until report approve math online";

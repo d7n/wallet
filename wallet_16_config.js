@@ -1,1 +1,1 @@
-var mnemonic = "aware quantum slide south edit sunny asthma green destroy round water wing";
+var mnemonic = "plastic use concert divide defy symptom state country fever town solution sight";

@@ -1,1 +1,1 @@
-var mnemonic = "screen wall improve ripple eternal inform better detail fashion modify laptop distance";
+var mnemonic = "raise general little question method health sibling bean public fluid already erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "twin duty remove drum toddler remain dizzy amateur almost portion mechanic exact";
+var mnemonic = "barrel champion perfect index alone garlic speak cactus guess radio elephant behind";

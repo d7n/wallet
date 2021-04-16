@@ -1,1 +1,1 @@
-var mnemonic = "palm pear model skirt roast maple prevent clap vibrant weapon hybrid offer";
+var mnemonic = "dance stem smart noise idle crucial story door gallery velvet teach skirt";

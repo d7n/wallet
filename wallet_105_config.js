@@ -1,1 +1,1 @@
-var mnemonic = "soda chest pride loyal power wrap ocean health syrup west badge book";
+var mnemonic = "music run calm sustain predict sorry path wait fiscal amazing blood curious";

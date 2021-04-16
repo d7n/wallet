@@ -1,1 +1,1 @@
-var mnemonic = "adapt quiz toddler consider cause movie sound first barrel bracket tree daughter";
+var mnemonic = "kingdom marriage wire walk crash lens raw analyst absorb excess armor animal";

@@ -1,1 +1,1 @@
-var mnemonic = "busy fly idle dice toe patch sudden east capital lunar cactus ill";
+var mnemonic = "mutual jewel giant unlock slight pitch garden embark negative second there rich";

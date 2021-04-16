@@ -1,1 +1,1 @@
-var mnemonic = "scout canoe title base soon occur shine olive tourist annual derive silly";
+var mnemonic = "century spatial rhythm retire flush extend worry skate actual soccer document bind";

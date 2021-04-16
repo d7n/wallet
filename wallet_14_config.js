@@ -1,1 +1,1 @@
-var mnemonic = "fiscal alter cargo hungry shrimp dad rural wait ranch grace aspect cram";
+var mnemonic = "meadow always wrist blame payment error example smart slender armed valve bonus";

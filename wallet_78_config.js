@@ -1,1 +1,1 @@
-var mnemonic = "over chunk version correct report embrace cover field chat sentence force pizza";
+var mnemonic = "vehicle obey cup camera any web urge round utility guitar shadow update";

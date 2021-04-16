@@ -1,1 +1,1 @@
-var mnemonic = "slice track kind elevator warfare pencil rail drastic series glad joke punch";
+var mnemonic = "volcano wrong flower room car nasty sponsor sunny there spike skull slight";

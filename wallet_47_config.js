@@ -1,1 +1,1 @@
-var mnemonic = "sell mail discover machine soul front enhance window disagree chimney cash success";
+var mnemonic = "motor reduce cancel scan review pigeon shrimp pass vivid drift small palm";

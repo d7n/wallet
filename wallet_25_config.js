@@ -1,1 +1,1 @@
-var mnemonic = "increase valid intact west swift drift rhythm sponsor spice fatal region patient";
+var mnemonic = "trust online close process kit movie joke basic fun horror level exhibit";

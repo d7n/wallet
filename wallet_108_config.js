@@ -1,1 +1,1 @@
-var mnemonic = "police pair coil oblige myth domain acoustic accuse play toilet control empower";
+var mnemonic = "color burst slim tooth lecture pass fire city sure pink ribbon breeze";

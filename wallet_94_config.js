@@ -1,1 +1,1 @@
-var mnemonic = "prosper argue six six gain boost increase country park derive dumb dune";
+var mnemonic = "order travel ugly nasty rule angry word round dynamic rural casino doctor";

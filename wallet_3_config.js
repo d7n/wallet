@@ -1,1 +1,1 @@
-var mnemonic = "throw push sunny orphan dove pave write curve glad equal erosion work";
+var mnemonic = "federal chief attend puppy wash describe floor when toilet pigeon nose fringe";

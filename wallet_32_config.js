@@ -1,1 +1,1 @@
-var mnemonic = "gentle ahead butter original blouse taste kiwi steak another crop account sheriff";
+var mnemonic = "grab gravity chimney erase shiver price canyon flip amount vessel rotate rug";

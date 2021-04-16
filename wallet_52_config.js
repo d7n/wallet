@@ -1,1 +1,1 @@
-var mnemonic = "ladder satoshi tiny symptom toward front guard swamp grain truly embark stairs";
+var mnemonic = "runway canal pink pulp fringe frozen small fold bitter cycle drip nurse";

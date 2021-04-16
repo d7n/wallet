@@ -1,1 +1,1 @@
-var mnemonic = "meadow rifle team uphold want brass current impact grape own toilet blanket";
+var mnemonic = "vintage leopard acoustic fish lizard brass negative cricket dice blue symbol alter";

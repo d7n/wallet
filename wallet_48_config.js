@@ -1,1 +1,1 @@
-var mnemonic = "embark tackle wall gap guide topple erase agent vague emotion rough addict";
+var mnemonic = "miracle upgrade basket gift infant decorate ramp frame sing mountain reflect runway";

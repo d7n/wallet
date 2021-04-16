@@ -1,1 +1,1 @@
-var mnemonic = "access sentence divorce feel husband smile section fragile surround student appear clay";
+var mnemonic = "choice fire garden hammer salute mean involve pulp program fence canoe silver";

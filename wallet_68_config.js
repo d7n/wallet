@@ -1,1 +1,1 @@
-var mnemonic = "hawk express science tip fetch area virus van response eagle among option";
+var mnemonic = "trip alley ship rate venture valve rare save ahead kite neglect butter";
