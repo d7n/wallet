@@ -1,1 +1,1 @@
-var mnemonic = "mushroom slice fence filter will crush vault soul famous smile deputy what";
+var mnemonic = "glass ridge guitar desert same ethics jar volcano clown bone skill ride";

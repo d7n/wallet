@@ -1,1 +1,1 @@
-var mnemonic = "wreck mad maid domain tide advance vital session airport predict scorpion average";
+var mnemonic = "muscle pitch photo protect trick glue sad quick promote pole hospital length";

@@ -1,1 +1,1 @@
-var mnemonic = "profit express license unlock blast fine tower room deal actress recall column";
+var mnemonic = "bulk mix about enrich use wet tunnel flight head canyon this salon";

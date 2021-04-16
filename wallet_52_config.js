@@ -1,1 +1,1 @@
-var mnemonic = "during remind card board shrug embody parrot athlete mask mixture junk toilet";
+var mnemonic = "rich ten first rich winner faith room sport calm door echo tail";

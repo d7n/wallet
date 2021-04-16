@@ -1,1 +1,1 @@
-var mnemonic = "erode vocal throw mango drama fault expire theory cash settle success easy";
+var mnemonic = "know economy item horse curve film tiny follow grace common ensure magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble return betray argue purpose south onion educate wink float spring ankle";
+var mnemonic = "observe hub shrimp reward decide armor useless frog minimum weekend uphold laundry";

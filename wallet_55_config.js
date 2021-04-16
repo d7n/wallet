@@ -1,1 +1,1 @@
-var mnemonic = "fox put soup side congress digital kiwi lumber bunker junk sort genuine";
+var mnemonic = "lift brisk tail soft much primary bid spare resemble crowd sister sure";

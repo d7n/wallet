@@ -1,1 +1,1 @@
-var mnemonic = "abstract worth suggest true ribbon runway rent traffic lift crisp virus wealth";
+var mnemonic = "table long swing horn eight rent smoke begin rose celery arena rapid";

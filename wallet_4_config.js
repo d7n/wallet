@@ -1,1 +1,1 @@
-var mnemonic = "know sheriff sick will forward team brother later fiscal success loyal blur";
+var mnemonic = "tired shop glad autumn parent mimic outer grit arrow weekend banana nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer ankle tag sword problem sample hood gesture carbon turn juice century";
+var mnemonic = "camp crunch fame length safe pudding before attack word soon monitor already";

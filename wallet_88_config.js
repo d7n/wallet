@@ -1,1 +1,1 @@
-var mnemonic = "ball tower distance diet exist manual carbon angle logic rotate short orbit";
+var mnemonic = "dwarf hold response used ride topple magnet jump donate wash clog mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "steel weekend guard differ empower rail color urge curve light picnic other";
+var mnemonic = "tone square shield forest scale because entire horse choice grunt jar merry";

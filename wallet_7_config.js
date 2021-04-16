@@ -1,1 +1,1 @@
-var mnemonic = "recipe course select dwarf urge any render valley fetch already wedding oyster";
+var mnemonic = "lecture snack acquire victory forest core into giant erase open decline mixture";

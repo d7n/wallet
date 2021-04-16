@@ -1,1 +1,1 @@
-var mnemonic = "that upgrade mule tourist pupil vibrant decide rather orchard trouble wish notice";
+var mnemonic = "jeans sunset lens juice inquiry fancy analyst loan sibling device pledge trumpet";

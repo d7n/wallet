@@ -1,1 +1,1 @@
-var mnemonic = "laptop chase diesel traffic employ village milk drama false debris cancel fatigue";
+var mnemonic = "actual fish bachelor crumble soul raise tomorrow history mask flee drink test";

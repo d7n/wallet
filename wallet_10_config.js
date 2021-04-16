@@ -1,1 +1,1 @@
-var mnemonic = "isolate super enroll dolphin inner child horror ignore wise pledge two love";
+var mnemonic = "license keep genre card cricket broccoli inmate weapon found patient legal quote";

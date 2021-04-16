@@ -1,1 +1,1 @@
-var mnemonic = "laugh cruise tank raw garment castle walk disorder tone race raven cute";
+var mnemonic = "audit measure wool crack taxi remember invite ankle retire save reject borrow";

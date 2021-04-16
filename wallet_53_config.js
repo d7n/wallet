@@ -1,1 +1,1 @@
-var mnemonic = "shoe tomorrow damp mule canyon pluck magnet couch organ shove guitar lamp";
+var mnemonic = "piano betray know voyage donate settle arm quantum keen setup rebel they";

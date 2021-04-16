@@ -1,1 +1,1 @@
-var mnemonic = "thank trip sick pluck claw forum inhale coach again scissors demand subject";
+var mnemonic = "scare idle miss under simple mistake march tomato ethics skull toward slam";

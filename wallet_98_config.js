@@ -1,1 +1,1 @@
-var mnemonic = "develop asset duty venue office dilemma anger emotion unit heart method elite";
+var mnemonic = "obvious enrich drill carbon leisure plug lamp vague morning ahead crane giant";

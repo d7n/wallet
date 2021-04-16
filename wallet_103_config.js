@@ -1,1 +1,1 @@
-var mnemonic = "quiz snow improve ocean area hover lunar sibling dwarf blossom laundry gather";
+var mnemonic = "very element glance nut lottery cup absurd lumber float reflect average oyster";

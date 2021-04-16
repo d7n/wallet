@@ -1,1 +1,1 @@
-var mnemonic = "name easily velvet cart permit damage resource thought grace citizen grain track";
+var mnemonic = "trial cradle rose wild rigid vacant child lab draw pear either silk";

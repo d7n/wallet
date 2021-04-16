@@ -1,1 +1,1 @@
-var mnemonic = "core pumpkin airport eagle color village memory city account wet sheriff buyer";
+var mnemonic = "various treat duty gloom text atom fan pill tag time chat begin";

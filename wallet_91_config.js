@@ -1,1 +1,1 @@
-var mnemonic = "urge run oppose hurt genuine mandate mountain side fun appear crater grow";
+var mnemonic = "pulse about consider hockey wild lock talk sport abstract skill confirm toward";

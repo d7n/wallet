@@ -1,1 +1,1 @@
-var mnemonic = "own pause grace tattoo north gap eight wife parent delay loyal chief";
+var mnemonic = "such patient supreme clump measure wonder lake plastic float street input logic";

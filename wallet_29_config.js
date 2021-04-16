@@ -1,1 +1,1 @@
-var mnemonic = "addict middle field blouse old mechanic know furnace antenna protect piano harsh";
+var mnemonic = "endorse van aunt trigger comfort tunnel airport february snake item trip flee";

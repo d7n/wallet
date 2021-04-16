@@ -1,1 +1,1 @@
-var mnemonic = "orient buzz broccoli panel bag black document base misery echo aisle course";
+var mnemonic = "embrace bottom obscure negative night south purchase sea damage crystal wonder emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "crash elevator decide elder poet mind gossip play soda emotion fantasy tell";
+var mnemonic = "april business size type just panel cinnamon sea wing visual negative wide";

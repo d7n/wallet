@@ -1,1 +1,1 @@
-var mnemonic = "system cactus card giraffe relax math grape case regular sample filter click";
+var mnemonic = "drill country enrich walnut undo robust canal goat model oak fault zero";

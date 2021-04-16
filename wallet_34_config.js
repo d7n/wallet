@@ -1,1 +1,1 @@
-var mnemonic = "smart bright cable first obtain coyote now scan parade question hawk couple";
+var mnemonic = "enact utility pattern consider purity siege receive moral fatigue silent nasty brown";

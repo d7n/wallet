@@ -1,1 +1,1 @@
-var mnemonic = "lion toddler demand dawn lyrics soft paddle silent test trumpet kitten pony";
+var mnemonic = "submit blade pilot valve photo inherit before one still very resemble waste";

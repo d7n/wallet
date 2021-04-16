@@ -1,1 +1,1 @@
-var mnemonic = "jungle skate easily retreat tragic absurd lecture kid panic outdoor chapter eight";
+var mnemonic = "beach acquire caught much coin market account half isolate afford anger verb";

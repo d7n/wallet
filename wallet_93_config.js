@@ -1,1 +1,1 @@
-var mnemonic = "during snap risk purity whale orchard pride rigid gold scale nephew card";
+var mnemonic = "prosper topic able clay hawk cram select snap cube involve need zoo";

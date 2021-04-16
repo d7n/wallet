@@ -1,1 +1,1 @@
-var mnemonic = "ahead frame staff jewel piano number grain fiction siege hunt sing dilemma";
+var mnemonic = "search exhibit fix similar come oppose quarter city rent permit gallery brother";

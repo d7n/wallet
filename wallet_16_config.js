@@ -1,1 +1,1 @@
-var mnemonic = "special nephew spare attitude theory liquid cute derive common bid sniff drink";
+var mnemonic = "dry blue summer bus huge flat gesture exotic small extra custom crystal";

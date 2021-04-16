@@ -1,1 +1,1 @@
-var mnemonic = "rib raw title clean noble more mosquito error acoustic swing sponsor chalk";
+var mnemonic = "solution actual wreck wire now awesome wood twice version balcony sure medal";

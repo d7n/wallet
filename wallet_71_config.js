@@ -1,1 +1,1 @@
-var mnemonic = "enact same glue roof deputy insect section pipe snap easily curious smile";
+var mnemonic = "exchange debate police glad twice napkin roof shoulder antique laugh leopard parrot";

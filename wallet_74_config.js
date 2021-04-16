@@ -1,1 +1,1 @@
-var mnemonic = "accuse suit corn choose win silent phone suffer rug arch priority universe";
+var mnemonic = "link lumber tobacco top manual marble erosion knee keen warfare thrive bundle";

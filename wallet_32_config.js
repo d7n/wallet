@@ -1,1 +1,1 @@
-var mnemonic = "tomato hill column express legal conduct midnight fever remain host very oven";
+var mnemonic = "fabric act puppy right fold jungle edge dentist pledge human inner wolf";

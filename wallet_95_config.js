@@ -1,1 +1,1 @@
-var mnemonic = "where boost notice private possible sick priority library library room daughter cash";
+var mnemonic = "pilot fever fall dune robot bundle ketchup table write gloom illness sunset";

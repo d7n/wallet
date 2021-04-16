@@ -1,1 +1,1 @@
-var mnemonic = "waste list ceiling school public claw stairs enroll butter december prevent domain";
+var mnemonic = "camera tomorrow peasant sure pluck neck wisdom draft snack motor orange practice";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy axis miracle water crowd club clean renew current random much divide";
+var mnemonic = "bread cook bracket apart mom wing wave work camp mutual garden grocery";

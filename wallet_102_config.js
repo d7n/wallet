@@ -1,1 +1,1 @@
-var mnemonic = "choice earn carpet stuff size save stuff melody key alone hidden lyrics";
+var mnemonic = "dawn gain model option seat very quote anger under such shell hurt";

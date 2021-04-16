@@ -1,1 +1,1 @@
-var mnemonic = "finish salmon cover spare candy diesel ankle vivid question thing subway love";
+var mnemonic = "head maple cheese vital width shop require upset pond page cream brown";

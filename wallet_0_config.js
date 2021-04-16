@@ -1,1 +1,1 @@
-var mnemonic = "once practice grass oppose fault excuse spare board early mystery ask arm";
+var mnemonic = "own combine flag define hill monitor pilot misery kind century doctor quantum";

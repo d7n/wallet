@@ -1,1 +1,1 @@
-var mnemonic = "unveil predict sell beyond window ritual demise open rabbit attack runway pause";
+var mnemonic = "destroy kidney home grief attitude panther cancel visa crash guide double print";

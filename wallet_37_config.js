@@ -1,1 +1,1 @@
-var mnemonic = "nose select army unknown already polar potato custom equip happy release skill";
+var mnemonic = "gloom remove before liberty fortune cheap slice knock math use dream satisfy";

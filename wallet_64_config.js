@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dice axis air witness nut skill crystal antique vintage layer coffee";
+var mnemonic = "pen shoulder primary between toilet push adapt indicate history angry sea often";

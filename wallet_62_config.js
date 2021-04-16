@@ -1,1 +1,1 @@
-var mnemonic = "door flash cinnamon filter focus review trap dismiss item bulb dune busy";
+var mnemonic = "kitten mask post violin private shed member define spend property friend candy";

@@ -1,1 +1,1 @@
-var mnemonic = "never eternal round apart narrow pizza quote depend caution option mobile portion";
+var mnemonic = "ivory near ketchup cricket ticket divorce cherry donkey absent much physical impulse";

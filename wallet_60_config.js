@@ -1,1 +1,1 @@
-var mnemonic = "hill owner upon urge hurt column version top borrow spell tourist wave";
+var mnemonic = "orchard aware duty genuine file whisper myth yellow dragon napkin buffalo merry";

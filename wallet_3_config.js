@@ -1,1 +1,1 @@
-var mnemonic = "trade across noble hard wrap luggage collect will invite unfold destroy post";
+var mnemonic = "salon tortoise wash squeeze gain symbol speak bar easy sing talk way";

@@ -1,1 +1,1 @@
-var mnemonic = "crack shy turkey mail display teach enact lazy author sand dust distance";
+var mnemonic = "oppose piece sock unable cycle foil ghost solution there midnight refuse green";

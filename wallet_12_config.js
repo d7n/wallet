@@ -1,1 +1,1 @@
-var mnemonic = "strategy april simple answer above portion choose wave ranch super decide luxury";
+var mnemonic = "glove slight guilt reduce frequent movie wire someone bright vast system that";

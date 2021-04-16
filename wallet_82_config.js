@@ -1,1 +1,1 @@
-var mnemonic = "room cart ozone matter ladder mystery filter rebuild tuna alcohol brain resemble";
+var mnemonic = "adjust grow critic alone monster cause chaos warm economy group beef indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer parade custom tonight poem lock manage venue oven tribe tree include";
+var mnemonic = "eye inflict van derive inspire immune silent mechanic abuse matrix quality orphan";

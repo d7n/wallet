@@ -1,1 +1,1 @@
-var mnemonic = "surge stomach obey voyage lunch view wink govern charge borrow blame core";
+var mnemonic = "able amused pig false end assist satisfy end custom regular quote velvet";

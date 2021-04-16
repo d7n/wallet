@@ -1,1 +1,1 @@
-var mnemonic = "song depth unknown word skirt morning type table wink silk dinner close";
+var mnemonic = "weekend detail tackle drama kit energy jar camera beef rice moment pave";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige news inner penalty permit fitness yard demise walk soft rotate guilt";
+var mnemonic = "theme payment entry recycle cost toast valve rib garment lens spell stereo";

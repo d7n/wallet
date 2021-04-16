@@ -1,1 +1,1 @@
-var mnemonic = "involve ladder choice shield charge creek holiday destroy march tobacco shell reveal";
+var mnemonic = "enhance maid shuffle ancient pelican movie little breeze loan member price myth";

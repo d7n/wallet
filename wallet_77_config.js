@@ -1,1 +1,1 @@
-var mnemonic = "beef eager royal search path survey enter swim stay brave song ethics";
+var mnemonic = "orphan trade clerk tent silk hazard force sweet loop twelve spare enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey fix rich breeze wonder stamp box inside track bird green sting";
+var mnemonic = "jacket crane pet much solve pulse amazing ladder hover table donate search";

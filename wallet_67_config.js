@@ -1,1 +1,1 @@
-var mnemonic = "until deny soul jump just wish duty feed next huge inject edit";
+var mnemonic = "visual muscle friend blush man fiction shock ivory mesh home art much";

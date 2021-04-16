@@ -1,1 +1,1 @@
-var mnemonic = "reopen blush interest pudding gasp opinion monster salt purity number load ocean";
+var mnemonic = "example eye penalty parent right evidence into wall toe exercise process romance";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar alien elite pattern act skirt industry fee wonder prevent bullet pencil";
+var mnemonic = "supply antenna injury mix inherit general riot torch truly style unfair clip";

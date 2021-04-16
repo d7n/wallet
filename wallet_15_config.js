@@ -1,1 +1,1 @@
-var mnemonic = "pupil crazy ketchup dad food crumble slide dolphin only doctor keen chuckle";
+var mnemonic = "expand effort dance pen three slam school morning camera question merit adult";

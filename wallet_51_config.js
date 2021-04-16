@@ -1,1 +1,1 @@
-var mnemonic = "mushroom broom frown squeeze shrug index bubble green cabin together olive jewel";
+var mnemonic = "marine weasel plunge embody normal announce merge net hope bulb range test";

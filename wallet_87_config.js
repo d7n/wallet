@@ -1,1 +1,1 @@
-var mnemonic = "city embody expire sail rib chalk opera exotic ability health live private";
+var mnemonic = "sauce suit beyond illegal patch analyst cruise consider awkward calm change castle";

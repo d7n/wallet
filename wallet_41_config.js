@@ -1,1 +1,1 @@
-var mnemonic = "grunt unknown fresh caught party cinnamon twin copy forest dance female powder";
+var mnemonic = "monkey response clean wolf fish word globe accuse add else good gorilla";

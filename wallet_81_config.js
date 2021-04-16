@@ -1,1 +1,1 @@
-var mnemonic = "oblige drill know exit genius hedgehog public ribbon retreat session slow hello";
+var mnemonic = "symptom other upon special term head yard icon scorpion rookie spawn ethics";

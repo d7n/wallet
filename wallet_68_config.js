@@ -1,1 +1,1 @@
-var mnemonic = "gym keen rent sustain panel jaguar rubber loan gown faith impose tomato";
+var mnemonic = "honey caution dune tip fantasy photo pill knife wheel off daring finish";

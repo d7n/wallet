@@ -1,1 +1,1 @@
-var mnemonic = "bind service uncover double deal twice clip napkin brave dragon gather boring";
+var mnemonic = "swim piece never ring crash steak ozone fantasy solar like error attitude";

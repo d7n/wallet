@@ -1,1 +1,1 @@
-var mnemonic = "pigeon blouse bottom during enforce treat net dawn journey sleep purchase hold";
+var mnemonic = "siege certain rapid plastic tomato chimney trim desk crouch protect cruise ozone";

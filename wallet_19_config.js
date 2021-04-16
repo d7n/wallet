@@ -1,1 +1,1 @@
-var mnemonic = "surprise bundle animal orange dignity toast mind resource doctor staff source cactus";
+var mnemonic = "pulp cat foster emerge hat scare trap glimpse isolate ice mention more";

@@ -1,1 +1,1 @@
-var mnemonic = "okay pencil degree protect novel traffic wet accuse version bounce ripple bulk";
+var mnemonic = "decrease deal vague tip finish junior annual cradle endless mule trap piano";

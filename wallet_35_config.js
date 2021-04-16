@@ -1,1 +1,1 @@
-var mnemonic = "anger gadget edge festival ordinary shoe shell cry december prize whisper mutual";
+var mnemonic = "vital sword flip soft wait toilet pelican discover output front diary coyote";

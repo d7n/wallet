@@ -1,1 +1,1 @@
-var mnemonic = "motion carpet outer glance junk throw vehicle arctic often crew cushion grape";
+var mnemonic = "only hand pen lemon below gaze tourist crash kind world divert dizzy";

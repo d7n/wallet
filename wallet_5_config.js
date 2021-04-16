@@ -1,1 +1,1 @@
-var mnemonic = "puzzle atom frame flip wheat drink deliver fabric maple boy front number";
+var mnemonic = "december expand chair permit arch keep flee stove cargo error wedding carpet";

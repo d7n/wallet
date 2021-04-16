@@ -1,1 +1,1 @@
-var mnemonic = "cup garden glide venue slow bacon crop cave reason acquire sausage oxygen";
+var mnemonic = "company clever put garage shrimp issue adapt evolve zone knock stove kick";

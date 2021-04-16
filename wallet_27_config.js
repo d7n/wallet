@@ -1,1 +1,1 @@
-var mnemonic = "topic object first tail all away prepare day crack raven asset survey";
+var mnemonic = "behind nominee usage economy egg fluid silly hammer return evidence kitten home";

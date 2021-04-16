@@ -1,1 +1,1 @@
-var mnemonic = "hope try very release shaft resist dinosaur honey excess scrap marriage attract";
+var mnemonic = "glance dog keen tag purchase afraid belt cloud pottery early model carpet";

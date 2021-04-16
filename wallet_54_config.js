@@ -1,1 +1,1 @@
-var mnemonic = "always scene goose alarm learn oval garment poverty company umbrella cliff ghost";
+var mnemonic = "shoot faith trap wolf baby glide source winner oppose opinion drip swap";

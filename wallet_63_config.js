@@ -1,1 +1,1 @@
-var mnemonic = "hood lunar illegal asset squirrel reduce flight need system butter silver client";
+var mnemonic = "neither floor garden sheriff pluck stable monkey affair guitar country similar ridge";

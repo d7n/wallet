@@ -1,1 +1,1 @@
-var mnemonic = "cereal blast estate old wish worry spring eye night sure cushion bullet";
+var mnemonic = "option also friend require shed obvious disagree vast axis belt thunder pact";

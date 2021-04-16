@@ -1,1 +1,1 @@
-var mnemonic = "weasel voice basket issue emotion jump cannon language hidden traffic elevator muffin";
+var mnemonic = "dawn wise behave vocal palace obtain weird cheap soldier call credit yellow";
