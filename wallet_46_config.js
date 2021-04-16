@@ -1,1 +1,1 @@
-var mnemonic = "tent shed silly size term twenty warm pulp tunnel pluck morning tube";
+var mnemonic = "bundle element school bomb crowd kind scrap subject impact race forget reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "pact topic absent work waste repeat tuna axis young chronic dawn swing";
+var mnemonic = "pass already glory smooth ski animal spatial fragile marine air donkey since";

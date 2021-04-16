@@ -1,1 +1,1 @@
-var mnemonic = "message heavy census absurd rose quarter say often use island mass aim";
+var mnemonic = "sunset dash fade bench prize enable mask picture tell choice size cube";

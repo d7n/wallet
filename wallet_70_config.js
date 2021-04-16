@@ -1,1 +1,1 @@
-var mnemonic = "gown point harvest swear design maximum artefact canoe control supply follow humble";
+var mnemonic = "near pact banana orange behind merit talent donkey pear knee uncle tool";

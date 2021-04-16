@@ -1,1 +1,1 @@
-var mnemonic = "view accuse salmon blade agent combine column dove awake success question bulb";
+var mnemonic = "stuff during cable differ traffic manual fence type urge filter thumb chase";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth deputy used cricket knife oven kangaroo crane ball abuse kid wasp";
+var mnemonic = "diagram myth exist cliff flavor skirt utility rail turtle churn borrow describe";

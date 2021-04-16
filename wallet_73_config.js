@@ -1,1 +1,1 @@
-var mnemonic = "coffee yellow sudden polar virus join smooth comic fluid obvious follow push";
+var mnemonic = "artefact cost high love stock legal trigger struggle always dilemma diamond uphold";

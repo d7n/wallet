@@ -1,1 +1,1 @@
-var mnemonic = "clean heavy just captain scissors gate sunset betray soft sentence manual glide";
+var mnemonic = "funny mouse fantasy thrive invite bird guitar infant tool ancient comfort double";

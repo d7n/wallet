@@ -1,1 +1,1 @@
-var mnemonic = "blossom universe crew dish priority sense example clock forest wire huge immense";
+var mnemonic = "notable valve sadness radar cave solid win wrong avocado alpha maple ramp";

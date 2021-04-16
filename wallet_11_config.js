@@ -1,1 +1,1 @@
-var mnemonic = "hundred member gravity false pet roof crumble eagle educate eyebrow way copy";
+var mnemonic = "tunnel thumb cloud wash shy degree wheat smile liberty usage inform lion";

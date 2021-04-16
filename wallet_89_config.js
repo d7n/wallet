@@ -1,1 +1,1 @@
-var mnemonic = "sleep grit abandon multiply add stadium segment floor involve artwork couple fee";
+var mnemonic = "will width bird height make blush joke what guard extra thrive inch";

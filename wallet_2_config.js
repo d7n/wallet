@@ -1,1 +1,1 @@
-var mnemonic = "toast unveil kid distance occur meadow peasant unique hero annual aware indoor";
+var mnemonic = "train age spoil act curious mind speed slot provide busy noodle fossil";

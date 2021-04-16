@@ -1,1 +1,1 @@
-var mnemonic = "habit position point topple nurse bread false that guess lift because rookie";
+var mnemonic = "weasel issue film cream disagree forum cigar observe unknown proof travel snap";

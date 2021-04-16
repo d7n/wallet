@@ -1,1 +1,1 @@
-var mnemonic = "join double cheap park absorb dignity margin famous duck together announce bomb";
+var mnemonic = "fit fetch maid edit imitate ten cheese erase zoo mix tuition victory";

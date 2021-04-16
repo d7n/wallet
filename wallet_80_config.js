@@ -1,1 +1,1 @@
-var mnemonic = "link fuel light catalog slight quantum spell civil right flower dutch floor";
+var mnemonic = "symbol expect already clean globe destroy draft ranch swallow leader blind type";

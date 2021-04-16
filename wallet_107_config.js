@@ -1,1 +1,1 @@
-var mnemonic = "magic spread super loop boat achieve office genius venture holiday pulse month";
+var mnemonic = "dance plastic throw consider peanut extend video miss science idea magnet industry";

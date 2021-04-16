@@ -1,1 +1,1 @@
-var mnemonic = "alcohol sick private base grunt future dream crop old gorilla axis weird";
+var mnemonic = "pony degree oblige silent sport umbrella insane alcohol alpha radio mystery coffee";

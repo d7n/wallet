@@ -1,1 +1,1 @@
-var mnemonic = "right autumn powder imitate spoon balcony kite sure social butter shop social";
+var mnemonic = "warfare stage item car crack key inner diamond concert ecology cabbage attend";

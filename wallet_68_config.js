@@ -1,1 +1,1 @@
-var mnemonic = "scrap warfare bitter exist razor ball assume live main ready embody puzzle";
+var mnemonic = "egg bubble civil combine combine bronze reject leader wave crew aspect ugly";

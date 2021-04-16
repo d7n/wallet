@@ -1,1 +1,1 @@
-var mnemonic = "muffin plate suffer fix curious truth whale absent trim above alone actor";
+var mnemonic = "level winter boil famous proud step divert paper toast nose armed narrow";

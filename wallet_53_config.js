@@ -1,1 +1,1 @@
-var mnemonic = "traffic impulse orphan bundle canvas traffic sport lizard settle mixed shadow road";
+var mnemonic = "april panic then faculty help boy jeans soda ladder giant memory shove";

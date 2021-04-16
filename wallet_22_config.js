@@ -1,1 +1,1 @@
-var mnemonic = "since spend area beach rain letter oil gun unique dream join path";
+var mnemonic = "design museum banana cabbage real meat hidden slot crystal coffee dentist young";

@@ -1,1 +1,1 @@
-var mnemonic = "idea swing movie first peanut outdoor wide process feed swamp people rally";
+var mnemonic = "item pumpkin ankle fish try voice gate license doll damage book tool";

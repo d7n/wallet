@@ -1,1 +1,1 @@
-var mnemonic = "infant hood chaos moon slab crop sting provide radar culture chunk dove";
+var mnemonic = "praise stumble clown better robust glare table onion mountain liquid grant firm";

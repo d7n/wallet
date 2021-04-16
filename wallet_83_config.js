@@ -1,1 +1,1 @@
-var mnemonic = "connect antenna level proof episode sentence uphold hollow twenty brave now impose";
+var mnemonic = "play busy brave web scan capable grow frog vintage hover actress popular";

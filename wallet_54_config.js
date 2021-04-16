@@ -1,1 +1,1 @@
-var mnemonic = "hollow expire cool dinner fold hair element junior april tired miracle disorder";
+var mnemonic = "put jewel curtain junk once that pass coach essence oppose excite spoil";

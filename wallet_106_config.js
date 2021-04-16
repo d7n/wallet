@@ -1,1 +1,1 @@
-var mnemonic = "stem genius unknown bunker length wood nasty know tomato gather random fatal";
+var mnemonic = "phrase avocado dutch because athlete popular deer wolf pull kid tray swallow";

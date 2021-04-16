@@ -1,1 +1,1 @@
-var mnemonic = "permit screen deer then since couch often refuse tail dance galaxy then";
+var mnemonic = "rose erode improve attend pull distance limit tuna cover eight monitor unaware";

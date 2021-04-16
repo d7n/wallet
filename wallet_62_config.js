@@ -1,1 +1,1 @@
-var mnemonic = "blue trend modify leave black smooth apple dinner device brick weapon usage";
+var mnemonic = "about grit ladder spread helmet hold admit project hat talent theory rate";

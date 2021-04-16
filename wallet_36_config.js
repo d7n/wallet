@@ -1,1 +1,1 @@
-var mnemonic = "case grape enter few chat various glove film divert brush brain diagram";
+var mnemonic = "lawsuit street decide peace vote install essence reunion oppose siege theme neck";

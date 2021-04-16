@@ -1,1 +1,1 @@
-var mnemonic = "cruel fall end forward adult banner swift burden lunar connect budget clean";
+var mnemonic = "exchange timber conduct wire plastic alert seat board define tribe afraid hurt";

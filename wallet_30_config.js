@@ -1,1 +1,1 @@
-var mnemonic = "soon gallery unveil such govern dwarf path fit spawn canoe brief layer";
+var mnemonic = "program medal true ladder dismiss brain clean slim swamp half sheriff truth";

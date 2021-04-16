@@ -1,1 +1,1 @@
-var mnemonic = "exact people plunge start drill north please wish foot purchase essence start";
+var mnemonic = "angle mandate firm broken split dune velvet tape cement region magnet galaxy";

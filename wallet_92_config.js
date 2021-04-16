@@ -1,1 +1,1 @@
-var mnemonic = "enemy tired juice ring winner wealth patrol early unfold napkin sail year";
+var mnemonic = "series double dry media talent slow hurry seat future paper tragic enemy";

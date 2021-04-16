@@ -1,1 +1,1 @@
-var mnemonic = "settle keep ahead sell that board rate chunk reject main mushroom wrestle";
+var mnemonic = "dynamic decade trash purse gate survey cycle always salmon burden oval farm";

@@ -1,1 +1,1 @@
-var mnemonic = "tent afford able east toilet wine cradle ritual floor eagle envelope first";
+var mnemonic = "assume wing lawsuit raise flip auto call moon expand journey extend glimpse";

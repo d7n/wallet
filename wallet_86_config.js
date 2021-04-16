@@ -1,1 +1,1 @@
-var mnemonic = "brisk tunnel conduct pizza guide sleep vintage lion soul polar speak author";
+var mnemonic = "deal close pudding pause leader mass fiction alpha theme party beyond hint";

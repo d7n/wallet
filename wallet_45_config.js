@@ -1,1 +1,1 @@
-var mnemonic = "climb dice melody box bubble supreme hour sure rocket praise vintage spoil";
+var mnemonic = "kitchen draft purity talent mouse expose oppose surprise total village spy course";

@@ -1,1 +1,1 @@
-var mnemonic = "age human october dinosaur zebra stove knife upset envelope sorry gentle often";
+var mnemonic = "cricket onion suit sausage consider retire undo milk cactus index design resemble";

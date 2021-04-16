@@ -1,1 +1,1 @@
-var mnemonic = "prevent double photo snow bottom wet panic obvious hundred either damp retire";
+var mnemonic = "thing mouse happy such engage food debris insect wise delay name bunker";

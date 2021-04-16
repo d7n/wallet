@@ -1,1 +1,1 @@
-var mnemonic = "fortune can cloth such cactus outside bridge palm unfair verb render silk";
+var mnemonic = "strong toilet chat liar middle digital soda impact viable thumb pepper lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort elephant primary home rubber myself excess wood fame steak punch mosquito";
+var mnemonic = "churn bridge symbol retreat enact blossom harsh budget belt force garbage spot";

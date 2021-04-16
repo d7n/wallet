@@ -1,1 +1,1 @@
-var mnemonic = "fresh shy panther leisure awful supreme cruel round embark task hungry path";
+var mnemonic = "absent minimum wrestle tomorrow hawk pool energy own gospel hill imitate again";

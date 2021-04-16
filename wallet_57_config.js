@@ -1,1 +1,1 @@
-var mnemonic = "salad simple second cup shell drastic estate until excuse tornado ready raccoon";
+var mnemonic = "donkey punch foam grace crater trip muffin brisk shadow elbow advice number";

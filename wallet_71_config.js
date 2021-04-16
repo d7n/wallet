@@ -1,1 +1,1 @@
-var mnemonic = "fiction avocado flush diet then diary print adapt grant avocado special brass";
+var mnemonic = "wealth scene fly pelican example pole cup meadow window turn warfare mobile";

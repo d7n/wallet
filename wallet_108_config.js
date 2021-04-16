@@ -1,1 +1,1 @@
-var mnemonic = "black law chronic misery raccoon end simple spawn hat bullet snake second";
+var mnemonic = "issue depth achieve truly polar process myself isolate wide cabin parrot include";

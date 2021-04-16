@@ -1,1 +1,1 @@
-var mnemonic = "foam soon guard turtle mimic mixture veteran next slide nuclear crazy enlist";
+var mnemonic = "anger nation office winter better craft ceiling scrub raw drink exhibit special";

@@ -1,1 +1,1 @@
-var mnemonic = "steak crack lyrics tribe grunt father weapon anxiety liar amateur panther double";
+var mnemonic = "gospel logic mansion unfair devote draw genre gasp dress hire october crumble";

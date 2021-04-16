@@ -1,1 +1,1 @@
-var mnemonic = "river couple table index wait sunset miracle adjust museum clog plate vapor";
+var mnemonic = "online attract magic profit claim famous try chair special little alley carpet";

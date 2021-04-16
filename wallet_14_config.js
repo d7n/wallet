@@ -1,1 +1,1 @@
-var mnemonic = "normal capital used turtle useful version intact battle vote witness wide gate";
+var mnemonic = "charge elegant tree fly sense glove more average frame scene rail stable";

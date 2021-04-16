@@ -1,1 +1,1 @@
-var mnemonic = "purity merge since renew breeze powder stuff sniff buddy skirt topple arctic";
+var mnemonic = "memory brush return donate pilot response pelican pudding slam spread rain dress";

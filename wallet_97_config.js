@@ -1,1 +1,1 @@
-var mnemonic = "rookie enlist brush yard accident quiz unveil farm define spice grape coin";
+var mnemonic = "ranch cute organ lumber negative click gather recipe weapon deposit rabbit wrong";

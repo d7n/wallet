@@ -1,1 +1,1 @@
-var mnemonic = "glare climb park tragic number flavor salt arrest rebel neither wet estate";
+var mnemonic = "invite inquiry lecture wood keen almost vital gaze fly neglect kitchen shift";

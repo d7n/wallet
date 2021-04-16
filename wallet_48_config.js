@@ -1,1 +1,1 @@
-var mnemonic = "jar tide smile music hand promote pave dismiss whisper street inspire dinner";
+var mnemonic = "later country month tank culture pride custom easily mother move arrive wasp";

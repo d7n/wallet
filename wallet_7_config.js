@@ -1,1 +1,1 @@
-var mnemonic = "peasant kitten decrease able miss photo medal trend gas syrup very cradle";
+var mnemonic = "omit often possible awkward success below nut valve sudden torch quote couple";

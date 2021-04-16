@@ -1,1 +1,1 @@
-var mnemonic = "swim since discover glory above elevator sheriff gate frozen resemble goddess wave";
+var mnemonic = "mystery label dragon pen grape enough pilot essence wing cute join chest";

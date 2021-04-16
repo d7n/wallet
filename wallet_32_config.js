@@ -1,1 +1,1 @@
-var mnemonic = "much enrich coral napkin effort way property soon stool brush decorate minute";
+var mnemonic = "wash again arctic just young picture around main coast anger scissors appear";

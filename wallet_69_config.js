@@ -1,1 +1,1 @@
-var mnemonic = "concert alarm surge category produce boat pigeon candy judge search have luggage";
+var mnemonic = "behind nice winter wait credit gown lion planet trim crime glove badge";

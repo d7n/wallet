@@ -1,1 +1,1 @@
-var mnemonic = "edit episode habit number dust room task tilt work balance chuckle frost";
+var mnemonic = "fever keep over steak kit obey purchase admit park meadow elephant cargo";

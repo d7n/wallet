@@ -1,1 +1,1 @@
-var mnemonic = "budget bitter husband focus magic ski credit ride issue relax scrub torch";
+var mnemonic = "define excite maximum donate penalty lyrics debate relax hurt isolate tilt vocal";

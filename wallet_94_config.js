@@ -1,1 +1,1 @@
-var mnemonic = "disagree weekend tool embark link ranch approve craft yellow tired rule tag";
+var mnemonic = "emotion reflect eyebrow short develop mixture common traffic front palm wet lazy";

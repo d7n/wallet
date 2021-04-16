@@ -1,1 +1,1 @@
-var mnemonic = "tray always caution change cruel vague sound ready sorry total rebuild pottery";
+var mnemonic = "nurse resource east ritual daring about chronic horror wash brush spatial slogan";

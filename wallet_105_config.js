@@ -1,1 +1,1 @@
-var mnemonic = "brown tool castle broccoli doll hospital champion logic club inspire slight vague";
+var mnemonic = "fault lecture yard glass enforce gain exist dice slight write ghost rough";

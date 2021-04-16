@@ -1,1 +1,1 @@
-var mnemonic = "tell around travel test ancient mixture salon reason quality carpet tackle note";
+var mnemonic = "early ozone life future skate hunt hair arm fuel illegal glory jar";

@@ -1,1 +1,1 @@
-var mnemonic = "drive visa term pencil hello possible fee swamp tired cheap tragic select";
+var mnemonic = "unusual weird power slice rely modify image attend knock welcome act story";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit practice require useful bring almost claim deliver taste flag detect crystal";
+var mnemonic = "royal bid reopen hammer human reward raw seat century girl cruise burger";

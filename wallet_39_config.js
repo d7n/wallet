@@ -1,1 +1,1 @@
-var mnemonic = "potato mail under cabbage solve diamond ticket total era give insane beyond";
+var mnemonic = "subject enforce sign business snack virus harbor snack hard bomb retreat punch";

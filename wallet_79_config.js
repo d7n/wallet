@@ -1,1 +1,1 @@
-var mnemonic = "spoil universe run better lecture coast clown cotton hungry diesel enhance adjust";
+var mnemonic = "wrap someone drive world arrest april mix desk hobby hood multiply unit";

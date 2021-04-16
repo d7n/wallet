@@ -1,1 +1,1 @@
-var mnemonic = "pond catch fever category problem ankle purpose marriage edge butter mule defense";
+var mnemonic = "field witness couple nut wife world camera pond fence surface knee clump";

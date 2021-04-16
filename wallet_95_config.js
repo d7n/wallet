@@ -1,1 +1,1 @@
-var mnemonic = "kick put shock vibrant yard win car sting royal garlic spare hurry";
+var mnemonic = "off course hold spider hero sniff dirt sting parade trophy dutch pistol";

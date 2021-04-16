@@ -1,1 +1,1 @@
-var mnemonic = "arrow describe kit monster calm twin copper spawn shop stage engage bachelor";
+var mnemonic = "shrimp wrap team owner soccer unfair worth early material ivory around tone";

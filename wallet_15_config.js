@@ -1,1 +1,1 @@
-var mnemonic = "plate clog witness test game naive reward aspect mouse fault culture hip";
+var mnemonic = "market snake say dignity release coast category purchase crush copy mixture velvet";

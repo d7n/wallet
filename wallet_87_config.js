@@ -1,1 +1,1 @@
-var mnemonic = "note tomorrow trash stand excuse trial sting digital caught major dash range";
+var mnemonic = "rib arena wild snow common opinion taste pretty burger hat kite bundle";

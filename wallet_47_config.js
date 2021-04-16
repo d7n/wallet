@@ -1,1 +1,1 @@
-var mnemonic = "law toddler level ski horn same bachelor squirrel runway media primary note";
+var mnemonic = "illness grass derive slow before fringe draft tube boring tail hurdle sign";

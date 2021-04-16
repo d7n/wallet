@@ -1,1 +1,1 @@
-var mnemonic = "tape always palace ignore decrease champion dice iron record word arrest purchase";
+var mnemonic = "unveil access gather behind sure cool equal warfare warfare engage enable flee";

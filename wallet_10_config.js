@@ -1,1 +1,1 @@
-var mnemonic = "swing mass fly benefit horn wear clap train fiscal hotel canyon soup";
+var mnemonic = "focus spatial theme aspect found travel galaxy mom strategy stereo giraffe fold";

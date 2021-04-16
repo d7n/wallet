@@ -1,1 +1,1 @@
-var mnemonic = "main diary hurt sustain era firm crystal eternal crunch senior result animal";
+var mnemonic = "vacuum welcome opinion nature isolate stay size indicate park frame pumpkin library";

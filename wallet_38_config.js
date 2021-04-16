@@ -1,1 +1,1 @@
-var mnemonic = "exercise general fetch quantum copper account nation virus tornado reason program junior";
+var mnemonic = "spend traffic dial wire sadness injury business camp cost runway behave second";

@@ -1,1 +1,1 @@
-var mnemonic = "mule alley rice fortune pause world tone coral warm purchase ghost symptom";
+var mnemonic = "swim admit oxygen bitter canyon coil lottery struggle wheel mystery warrior divide";

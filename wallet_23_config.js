@@ -1,1 +1,1 @@
-var mnemonic = "future mule assist label soul rib photo grass soap inform fantasy risk";
+var mnemonic = "trim boring bar rather must property employ glove earth labor steak much";
