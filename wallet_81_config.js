@@ -1,1 +1,1 @@
-var mnemonic = "certain book junior lion anger total loop moment favorite pole modify fabric";
+var mnemonic = "room fatal balance ridge goose upset square increase cereal dice prosper cram";

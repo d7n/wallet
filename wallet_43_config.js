@@ -1,1 +1,1 @@
-var mnemonic = "edge age dry job lunar trouble cycle annual edit popular imitate pizza";
+var mnemonic = "under space step tobacco staff notable elegant purity myself property hybrid issue";

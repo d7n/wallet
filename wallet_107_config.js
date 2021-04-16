@@ -1,1 +1,1 @@
-var mnemonic = "deer spring people ordinary you valve volcano brisk unit social nuclear shy";
+var mnemonic = "mushroom ball virtual come liberty humble penalty salon comfort tortoise antique pigeon";

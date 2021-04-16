@@ -1,1 +1,1 @@
-var mnemonic = "carbon crack reduce expand saddle alert worth foam note pulse salon acid";
+var mnemonic = "island december depend fork miracle verb naive harbor tide middle cigar because";

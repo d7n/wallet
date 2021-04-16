@@ -1,1 +1,1 @@
-var mnemonic = "town outer pattern cricket creek crucial inflict gaze emotion fatigue alley floor";
+var mnemonic = "tornado ecology ice verb session other reveal security candy collect material left";

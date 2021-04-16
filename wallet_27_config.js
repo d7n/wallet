@@ -1,1 +1,1 @@
-var mnemonic = "leaf foot equip misery fold country response noodle dolphin happy inject wrap";
+var mnemonic = "slogan picnic kind escape city any lend tower van client van hat";

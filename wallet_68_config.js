@@ -1,1 +1,1 @@
-var mnemonic = "squirrel pen muffin asset scout bonus valley vessel champion oblige april history";
+var mnemonic = "clever clinic cycle album razor control couple sentence shoulder tenant awful round";

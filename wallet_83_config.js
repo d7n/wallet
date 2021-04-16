@@ -1,1 +1,1 @@
-var mnemonic = "begin catch place pause bag source become escape fury food frog cry";
+var mnemonic = "marine upgrade drastic wrestle ramp actor turtle print security inquiry toward dwarf";

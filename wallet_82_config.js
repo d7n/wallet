@@ -1,1 +1,1 @@
-var mnemonic = "finish hedgehog stem panther spoil length scatter climb leisure normal mule novel";
+var mnemonic = "trip yard agree enough truly muscle spare person thought stamp alpha hood";

@@ -1,1 +1,1 @@
-var mnemonic = "actor mobile moment type attitude outdoor ship dirt armed chimney multiply tackle";
+var mnemonic = "cry crash loan february cram give romance venture eagle fabric brown debris";

@@ -1,1 +1,1 @@
-var mnemonic = "admit wrestle gown mind giant hospital develop resemble grocery gift parade pear";
+var mnemonic = "tube picnic robust swift stool clarify squirrel tent casual super repeat trend";

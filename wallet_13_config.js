@@ -1,1 +1,1 @@
-var mnemonic = "indoor forget crush pole minute gossip buffalo manual quote disorder adult rich";
+var mnemonic = "shaft ritual amateur supreme goat lock rookie auction maple garage become trouble";

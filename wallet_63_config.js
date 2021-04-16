@@ -1,1 +1,1 @@
-var mnemonic = "correct stadium empty sting super grace tomorrow broom cattle aerobic axis public";
+var mnemonic = "stuff mad cancel exotic pyramid dinner unlock tree post rule adjust use";

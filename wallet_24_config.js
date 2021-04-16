@@ -1,1 +1,1 @@
-var mnemonic = "remove teach squirrel sea nice rack eager weekend just swear blind race";
+var mnemonic = "power ordinary avocado day turn achieve boost parade ensure pig life inspire";

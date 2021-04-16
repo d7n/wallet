@@ -1,1 +1,1 @@
-var mnemonic = "enough wood nasty hundred need repeat aspect vapor door ball mail core";
+var mnemonic = "pull sense coil mango head fee left race exist among course design";

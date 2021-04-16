@@ -1,1 +1,1 @@
-var mnemonic = "execute dice pond collect update double magic bomb lounge base arrive share";
+var mnemonic = "betray word evolve device visit tunnel phone kidney pause flash promote there";

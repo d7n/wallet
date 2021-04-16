@@ -1,1 +1,1 @@
-var mnemonic = "tunnel impulse upset smile cry hour profit mechanic math glare host phone";
+var mnemonic = "piece fiction wise tower absent cram swap arrive click blame absurd salmon";

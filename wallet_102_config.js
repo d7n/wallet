@@ -1,1 +1,1 @@
-var mnemonic = "midnight clerk polar lend rack quit civil round favorite reason sure announce";
+var mnemonic = "include ensure vault cushion topple voice divide angle twin once come order";

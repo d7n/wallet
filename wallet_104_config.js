@@ -1,1 +1,1 @@
-var mnemonic = "syrup street business enact wave narrow chimney naive swap travel chuckle chapter";
+var mnemonic = "upon bike afford property aunt foil common client wet enroll skin trial";

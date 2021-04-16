@@ -1,1 +1,1 @@
-var mnemonic = "venue cruel reject rich orchard invite cannon leaf steak lobster wild scene";
+var mnemonic = "say naive assume finish people about forget twist surprise angry bounce discover";

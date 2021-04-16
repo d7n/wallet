@@ -1,1 +1,1 @@
-var mnemonic = "amused chronic injury finger critic coffee source affair neglect impose enable public";
+var mnemonic = "agree mixture rescue aware wing core tumble indoor become develop humble party";

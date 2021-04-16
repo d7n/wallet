@@ -1,1 +1,1 @@
-var mnemonic = "sample mass border hamster sea polar fog goat fee village they crumble";
+var mnemonic = "exile fiction warfare mercy erode bronze have balcony riot define around pill";

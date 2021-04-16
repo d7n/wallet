@@ -1,1 +1,1 @@
-var mnemonic = "trap catalog voice race address weasel disagree meat forget risk style zone";
+var mnemonic = "satisfy enact level strike random history nasty proof trophy black useless domain";

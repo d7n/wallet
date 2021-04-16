@@ -1,1 +1,1 @@
-var mnemonic = "crucial legend cushion goddess aunt autumn wage circle keen pen ginger false";
+var mnemonic = "swim survey october room jazz juice goat audit hood solar method sight";

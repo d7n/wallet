@@ -1,1 +1,1 @@
-var mnemonic = "file goat away buddy orphan dutch invest trick rapid happy helmet lizard";
+var mnemonic = "skill tuna neutral until casino easy silly solid ride once ride caution";

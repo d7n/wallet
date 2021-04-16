@@ -1,1 +1,1 @@
-var mnemonic = "destroy move hobby pet chronic aspect dice rubber wolf repair idea dice";
+var mnemonic = "nurse slice people invest guess document true concert repeat seat bag rib";

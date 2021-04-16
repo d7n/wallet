@@ -1,1 +1,1 @@
-var mnemonic = "oak parent grass vacant tribe image cram afford find truck kidney shed";
+var mnemonic = "fiscal type tiger ancient muscle audit usual length sustain raven urge struggle";

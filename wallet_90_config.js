@@ -1,1 +1,1 @@
-var mnemonic = "write potato evidence unit coyote flush produce pride village shrug modify claw";
+var mnemonic = "snap track front kick transfer leave stereo same develop theme candy snow";

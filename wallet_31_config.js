@@ -1,1 +1,1 @@
-var mnemonic = "window evolve aunt soldier chapter win work keen sheriff account ride example";
+var mnemonic = "zero employ volcano hurry pull rose heavy invite picnic prepare void lobster";

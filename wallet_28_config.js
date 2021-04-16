@@ -1,1 +1,1 @@
-var mnemonic = "boil flavor fluid kangaroo round rough mushroom security truth spring coyote knee";
+var mnemonic = "glide coin supreme use virus tail senior pretty caution primary feel firm";

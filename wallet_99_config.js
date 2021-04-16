@@ -1,1 +1,1 @@
-var mnemonic = "top oyster skill until direct enjoy churn collect hard tortoise maze nurse";
+var mnemonic = "announce recipe hybrid abuse sunset robot hire rice uncover abuse curious state";

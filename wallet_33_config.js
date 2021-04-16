@@ -1,1 +1,1 @@
-var mnemonic = "define episode fit almost lion text pioneer patient valid float judge victory";
+var mnemonic = "horror theory aunt treat below ahead crystal gate artefact donor split shove";

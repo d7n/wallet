@@ -1,1 +1,1 @@
-var mnemonic = "good dice liquid property hub speed energy resource nature patch refuse fit";
+var mnemonic = "mercy laptop agree horse horse tomorrow pride embody expand coral knife sad";

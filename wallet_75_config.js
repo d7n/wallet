@@ -1,1 +1,1 @@
-var mnemonic = "series ski income ritual carry crawl teach smile unique exclude critic cube";
+var mnemonic = "slot maid desk season smoke again donate brisk room monkey brand suspect";

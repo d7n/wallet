@@ -1,1 +1,1 @@
-var mnemonic = "chuckle suspect tiger that talent beach dog visit broken enforce current around";
+var mnemonic = "add old blur party aisle family borrow share remain anger plug satisfy";

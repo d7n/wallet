@@ -1,1 +1,1 @@
-var mnemonic = "congress ginger expect horror veteran capital merry theme seat hub estate together";
+var mnemonic = "crisp clutch snap adapt ski fetch worry slide movie chimney episode empty";

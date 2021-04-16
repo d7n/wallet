@@ -1,1 +1,1 @@
-var mnemonic = "asthma quarter cruel snake dirt meat review kid thunder south sample turkey";
+var mnemonic = "burst stick piano doctor notice crystal suspect affair domain banner clerk camera";

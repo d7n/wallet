@@ -1,1 +1,1 @@
-var mnemonic = "skirt brick genius answer census wood junior violin clump push piano lend";
+var mnemonic = "advance cushion glance slam obscure play beauty kind kitten shop million drip";

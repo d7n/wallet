@@ -1,1 +1,1 @@
-var mnemonic = "mercy iron thank blanket cliff figure lemon cat bronze glow benefit pulp";
+var mnemonic = "crane pelican hospital code various spoil depart crucial engine park green absurd";

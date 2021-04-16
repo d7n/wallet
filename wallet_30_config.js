@@ -1,1 +1,1 @@
-var mnemonic = "blame anxiety nest early legend lady funny amateur craft metal people pig";
+var mnemonic = "tomorrow eight permit sheriff inflict inflict soldier brick north magnet move faculty";

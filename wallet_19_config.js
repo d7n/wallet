@@ -1,1 +1,1 @@
-var mnemonic = "citizen wash shrimp bachelor horror cannon pen shield cement differ color chalk";
+var mnemonic = "empower tank tomorrow rigid utility ugly human worth bar orphan option stamp";

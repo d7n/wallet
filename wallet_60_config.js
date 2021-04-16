@@ -1,1 +1,1 @@
-var mnemonic = "battle gravity crew garage change snap used fitness peanut swift relief drill";
+var mnemonic = "job balance foot vendor two harvest situate sing egg stem song vessel";

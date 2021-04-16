@@ -1,1 +1,1 @@
-var mnemonic = "twenty theme invest wrap yard comic home valid wild student hair material";
+var mnemonic = "shallow gift since describe leave spend melt syrup buddy amount stand manage";

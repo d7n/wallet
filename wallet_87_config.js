@@ -1,1 +1,1 @@
-var mnemonic = "juice shove arm glove panda market riot escape unaware mask board pig";
+var mnemonic = "quote remind unhappy royal frozen property deliver soup canal canvas waste drip";

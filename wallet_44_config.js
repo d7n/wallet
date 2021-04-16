@@ -1,1 +1,1 @@
-var mnemonic = "online team remember army primary fury actual sing glue huge season jacket";
+var mnemonic = "flame wool aim radar once ghost ripple edit under favorite decline chalk";

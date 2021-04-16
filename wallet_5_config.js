@@ -1,1 +1,1 @@
-var mnemonic = "chuckle math useless trend expire certain pave airport mirror embrace suspect bulb";
+var mnemonic = "perfect diagram stadium stool elder license pretty reform network edit hen merry";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom clown unfold bamboo join absent false notice buffalo during senior cement";
+var mnemonic = "flat rabbit uphold horn neck present cage finish scissors turn slight brief";

@@ -1,1 +1,1 @@
-var mnemonic = "lady purse spell spot bulk neglect hazard talk capital spell soldier step";
+var mnemonic = "wave oppose salad define again hire burden find panther path abstract else";

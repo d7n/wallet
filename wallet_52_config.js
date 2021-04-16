@@ -1,1 +1,1 @@
-var mnemonic = "paddle sleep cat snap pigeon crowd breeze tide cash drip huge enough";
+var mnemonic = "guide page moon tower earn cannon current term exit finish cargo fly";

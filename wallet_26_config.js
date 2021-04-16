@@ -1,1 +1,1 @@
-var mnemonic = "profit frequent tobacco crack adjust concert pumpkin input hero chimney body transfer";
+var mnemonic = "rely sausage later market wasp thank hedgehog roof quit vibrant private ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "above head bleak vague original asset reflect zebra report pass bottom fresh";
+var mnemonic = "vapor tribe smart option wheat action photo hungry output detail almost salute";

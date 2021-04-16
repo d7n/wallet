@@ -1,1 +1,1 @@
-var mnemonic = "obtain cushion food end target harsh yellow forward lift include reward tenant";
+var mnemonic = "multiply bird mother miracle canyon upon right yellow chaos goose pigeon census";

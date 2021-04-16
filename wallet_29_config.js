@@ -1,1 +1,1 @@
-var mnemonic = "split glance collect toddler wonder clump weird put industry frost basic inform";
+var mnemonic = "hat gift receive hedgehog cheap valley discover divorce because artist bird endless";

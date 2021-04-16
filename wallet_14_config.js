@@ -1,1 +1,1 @@
-var mnemonic = "profit act gas bicycle appear term zone photo outdoor demise resemble siege";
+var mnemonic = "joke easily history secret truth slam dwarf monkey ceiling express oyster glue";

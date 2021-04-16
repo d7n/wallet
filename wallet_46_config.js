@@ -1,1 +1,1 @@
-var mnemonic = "assist burger chief economy garage split program harvest curtain ability gym flower";
+var mnemonic = "theme enable quarter scan behind accuse maple city output liquid torch glass";

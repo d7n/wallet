@@ -1,1 +1,1 @@
-var mnemonic = "tongue yard wrestle orange begin close nest push reduce toy treat domain";
+var mnemonic = "evil mom ridge amount flower dragon theory engine buyer jar vivid voyage";

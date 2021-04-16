@@ -1,1 +1,1 @@
-var mnemonic = "choice series affair flight ginger riot material wise capable rebel obscure bench";
+var mnemonic = "fossil dove maze first labor large crush smart minor tool city slide";

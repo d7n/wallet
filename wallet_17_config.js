@@ -1,1 +1,1 @@
-var mnemonic = "royal draft reflect crush toddler magnet meat best cluster neither opera frown";
+var mnemonic = "return soft genre taxi century nasty capital boat retreat throw kit myself";

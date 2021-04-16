@@ -1,1 +1,1 @@
-var mnemonic = "top lottery flight leave roof clog viable armed connect mountain depth giraffe";
+var mnemonic = "immune balcony affair alert suit lake agent danger lizard airport motor sure";

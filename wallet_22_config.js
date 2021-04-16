@@ -1,1 +1,1 @@
-var mnemonic = "claim party indoor ready brand mad payment fiber scheme cat capital beyond";
+var mnemonic = "tube joke escape paper brown dirt oxygen alarm rose mistake industry coral";

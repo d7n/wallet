@@ -1,1 +1,1 @@
-var mnemonic = "piano spirit web borrow flee juice fiction protect laundry anxiety weird appear";
+var mnemonic = "fence select system island any want fly gauge sting dawn hello tank";

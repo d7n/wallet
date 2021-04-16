@@ -1,1 +1,1 @@
-var mnemonic = "junk balcony charge protect large answer squeeze network sustain atom stumble view";
+var mnemonic = "insect open casual card learn capable scare sight rocket amount income clog";

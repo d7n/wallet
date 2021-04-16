@@ -1,1 +1,1 @@
-var mnemonic = "grit inspire audit purity carbon radar insane top autumn kangaroo onion divert";
+var mnemonic = "laptop glare first already note salmon board crush manual draw glance stand";

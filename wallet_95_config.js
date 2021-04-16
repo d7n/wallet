@@ -1,1 +1,1 @@
-var mnemonic = "begin destroy shop garage melt infant fatal gym tired target inherit miss";
+var mnemonic = "happy ketchup impact leave tower solar annual pistol ketchup shuffle reunion erosion";

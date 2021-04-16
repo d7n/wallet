@@ -1,1 +1,1 @@
-var mnemonic = "aerobic parent install limb source bid dizzy great either until husband wide";
+var mnemonic = "season list wrap clarify fame elbow tilt bread humor enhance arrive chimney";

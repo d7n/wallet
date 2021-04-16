@@ -1,1 +1,1 @@
-var mnemonic = "stand train craft juice expire three casino relief empower auction laugh salon";
+var mnemonic = "raven trend mechanic labor skill can reopen wise kiwi funny river pair";

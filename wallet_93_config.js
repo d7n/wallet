@@ -1,1 +1,1 @@
-var mnemonic = "immense gravity silk garlic demand agree rough zoo peanut game will wild";
+var mnemonic = "relax piece few hold inform scheme tower aware vehicle salt sadness around";

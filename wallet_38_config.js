@@ -1,1 +1,1 @@
-var mnemonic = "unknown mirror embrace remain ship goat require ladder steel awkward joke member";
+var mnemonic = "thunder axis used universe park brave census chimney choose enjoy grass enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "situate glad more novel joy cream inspire run beyond flag truth broken";
+var mnemonic = "horn raise hybrid museum gospel spirit dance exit add artist exit horn";

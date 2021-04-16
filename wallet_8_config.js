@@ -1,1 +1,1 @@
-var mnemonic = "turn smile door uniform across key render pyramid feel electric spread embark";
+var mnemonic = "wheel trade weapon input jungle village project artist twice club nasty summer";

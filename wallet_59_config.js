@@ -1,1 +1,1 @@
-var mnemonic = "swift limb multiply onion curious fiber announce clerk leopard wet that net";
+var mnemonic = "bird soul very rival ask soda exercise cross business faculty fruit glide";

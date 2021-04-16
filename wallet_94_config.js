@@ -1,1 +1,1 @@
-var mnemonic = "window swamp manage black reunion siren once afford response credit fit child";
+var mnemonic = "clump assume bronze bring program kid dad enforce plunge ethics thought shoot";

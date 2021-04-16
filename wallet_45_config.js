@@ -1,1 +1,1 @@
-var mnemonic = "amazing chapter clever surface reason churn tilt exclude face confirm gun multiply";
+var mnemonic = "install license brother mirror obtain width usual banana awesome leisure steel oval";

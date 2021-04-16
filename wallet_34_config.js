@@ -1,1 +1,1 @@
-var mnemonic = "square trial source whisper mosquito inhale consider expect lemon situate basket analyst";
+var mnemonic = "ranch sort benefit gather spirit local rug urge raccoon quote spread drum";

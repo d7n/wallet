@@ -1,1 +1,1 @@
-var mnemonic = "original they hurt head family front live slow inch theme horn large";
+var mnemonic = "marriage room kite pond motor ribbon sketch faculty ball option finger yard";

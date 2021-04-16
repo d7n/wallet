@@ -1,1 +1,1 @@
-var mnemonic = "unhappy dutch sustain hire ski extend amazing bone predict engine seek wagon";
+var mnemonic = "welcome ecology update private weird lecture trend pact universe differ suggest fetch";

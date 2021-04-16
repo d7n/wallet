@@ -1,1 +1,1 @@
-var mnemonic = "battle shoulder loyal trade scan able jewel remind fringe raven beyond damage";
+var mnemonic = "case tuna whale lift dinosaur garment mansion network ensure spoon extend bunker";

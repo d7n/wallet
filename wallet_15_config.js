@@ -1,1 +1,1 @@
-var mnemonic = "hen logic scorpion cousin guilt muscle brush best head confirm light add";
+var mnemonic = "swear stem inside private length wonder govern cruel legend silver engine old";

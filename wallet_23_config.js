@@ -1,1 +1,1 @@
-var mnemonic = "green maximum soldier skirt joke slush people all reduce hospital joy brick";
+var mnemonic = "moment defy topic couple helmet maid pen claim better tobacco illness moon";

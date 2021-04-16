@@ -1,1 +1,1 @@
-var mnemonic = "any fame lizard resource reunion sad castle combine town gaze maximum mix";
+var mnemonic = "surface panic coast hint quality comfort scare toy sing usual apple convince";

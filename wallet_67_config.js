@@ -1,1 +1,1 @@
-var mnemonic = "casual sunset jump pudding humble salmon grit wall palace annual clown desert";
+var mnemonic = "diamond law next worry beach inside minimum atom trouble fluid urban genre";

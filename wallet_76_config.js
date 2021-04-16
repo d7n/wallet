@@ -1,1 +1,1 @@
-var mnemonic = "first clown tape buzz corn time bone section verify sail fiction gold";
+var mnemonic = "bitter artefact drink pill pink proud vague youth clarify outside model honey";
