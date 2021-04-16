@@ -1,1 +1,1 @@
-var mnemonic = "shove ladder hungry engage merit ivory edit office vocal disease attitude moment";
+var mnemonic = "globe sugar crazy toy ivory fever dumb leopard select manage estate adjust";

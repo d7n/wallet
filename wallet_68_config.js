@@ -1,1 +1,1 @@
-var mnemonic = "noodle extra tenant protect window squirrel since embrace what bamboo amazing dry";
+var mnemonic = "hurry kangaroo alley debate spend club figure announce correct law fork valley";

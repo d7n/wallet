@@ -1,1 +1,1 @@
-var mnemonic = "identify squirrel install hint dinosaur desk cloth city sorry maximum ride fever";
+var mnemonic = "thought upon require notice gospel path head gorilla genius blanket green sport";

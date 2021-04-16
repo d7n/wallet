@@ -1,1 +1,1 @@
-var mnemonic = "ketchup taste effort lady face wool quote rescue clean rubber until parade";
+var mnemonic = "arrive shed empower donkey divert regular text parent neglect mushroom try coin";

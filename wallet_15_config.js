@@ -1,1 +1,1 @@
-var mnemonic = "tank vintage holiday girl decide talk ozone lottery pottery maid invite tool";
+var mnemonic = "purity sketch gate spike machine wink cradle security diamond jelly stuff palm";

@@ -1,1 +1,1 @@
-var mnemonic = "broom bright abandon harsh sauce diet conduct report cluster another transfer ticket";
+var mnemonic = "abandon piece ribbon undo pink fall laundry split ritual robust chef affair";

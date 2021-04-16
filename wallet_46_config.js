@@ -1,1 +1,1 @@
-var mnemonic = "leaf goddess infant swamp infant random clap gown inhale horse stem joy";
+var mnemonic = "nuclear reduce topple gap deputy mystery corn recall toss sort spatial add";

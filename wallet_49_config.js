@@ -1,1 +1,1 @@
-var mnemonic = "marble web celery syrup link magnet ensure gadget property bean soon balcony";
+var mnemonic = "unveil elder ripple chase belt bright federal nerve better false jaguar useless";

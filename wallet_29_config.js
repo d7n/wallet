@@ -1,1 +1,1 @@
-var mnemonic = "father east dress cannon conduct muscle afford lava soon modify expire arrive";
+var mnemonic = "eye valid play like column find attitude crew word arch jaguar kiss";

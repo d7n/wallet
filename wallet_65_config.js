@@ -1,1 +1,1 @@
-var mnemonic = "parrot beef voyage afraid because slot two cover wing flower crumble defense";
+var mnemonic = "myself extend seminar tiny wave strategy potato viable mango purpose rigid apple";

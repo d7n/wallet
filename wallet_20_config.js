@@ -1,1 +1,1 @@
-var mnemonic = "minor pear solve farm rotate trophy scorpion weapon buddy goose vacuum fire";
+var mnemonic = "mixture exhibit modify glory quote choice become answer shop inside hair demise";

@@ -1,1 +1,1 @@
-var mnemonic = "occur leisure puzzle gesture track copy pass fluid grow clean electric verify";
+var mnemonic = "fun office shaft cricket session enjoy lady frown virtual fee group refuse";

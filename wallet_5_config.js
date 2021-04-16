@@ -1,1 +1,1 @@
-var mnemonic = "viable between tag lazy guard pumpkin kiwi carbon asset ribbon silent ensure";
+var mnemonic = "embark awkward doctor other jump dolphin flip artwork acoustic fetch close you";

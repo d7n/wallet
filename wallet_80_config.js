@@ -1,1 +1,1 @@
-var mnemonic = "minute negative corn disagree include merit cloud speed book trigger round rain";
+var mnemonic = "sunny genius choice obscure kiss high expand timber tongue elbow slice two";

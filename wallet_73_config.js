@@ -1,1 +1,1 @@
-var mnemonic = "broom normal grape deliver arrest fresh expose gun battle common print planet";
+var mnemonic = "trial level output sting split cabbage beef service cube inflict teach visa";

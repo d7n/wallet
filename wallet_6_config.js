@@ -1,1 +1,1 @@
-var mnemonic = "glance kitchen educate alley dawn short renew anxiety wire puppy key bench";
+var mnemonic = "route embrace hill now ask price stay pulp play crime road direct";

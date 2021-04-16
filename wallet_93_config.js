@@ -1,1 +1,1 @@
-var mnemonic = "copper include charge age art tunnel helmet dolphin plug spirit coral wagon";
+var mnemonic = "lawn identify over inquiry invite palace nut elbow slab sing dinner jeans";

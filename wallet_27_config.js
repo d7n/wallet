@@ -1,1 +1,1 @@
-var mnemonic = "distance pumpkin suit cinnamon final list jungle broken clown stick dawn language";
+var mnemonic = "have summer wealth wool hub digital cement pottery document run space novel";

@@ -1,1 +1,1 @@
-var mnemonic = "boat useless energy pupil exercise bridge leaf inmate feature train juice coil";
+var mnemonic = "relief slight day mixture sign west curtain give fit rotate rose sound";

@@ -1,1 +1,1 @@
-var mnemonic = "media interest alley student immune proud north item keen run deal focus";
+var mnemonic = "capable chalk actress photo bacon sign meat maximum surprise sting aerobic chef";

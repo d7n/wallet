@@ -1,1 +1,1 @@
-var mnemonic = "dash home symptom brass bind diary twice champion ranch inside friend win";
+var mnemonic = "rather damage lemon drum trip resist sense bargain comfort luxury neck tail";

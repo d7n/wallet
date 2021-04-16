@@ -1,1 +1,1 @@
-var mnemonic = "family fine add vibrant guard absorb giant civil fashion tunnel infant tent";
+var mnemonic = "consider black jeans situate joy series fiscal project capable ugly during perfect";

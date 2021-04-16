@@ -1,1 +1,1 @@
-var mnemonic = "tonight bind health blue acoustic capable figure replace unveil ethics solid jealous";
+var mnemonic = "sketch gown gorilla urge monster tank ignore proud cheap seed vault wealth";

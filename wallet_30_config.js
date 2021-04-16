@@ -1,1 +1,1 @@
-var mnemonic = "clown party jaguar cake chunk donate theme material wrist miss gadget pill";
+var mnemonic = "else share stairs wait between viable cream glare affair mention wild fold";

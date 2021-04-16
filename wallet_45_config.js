@@ -1,1 +1,1 @@
-var mnemonic = "horn hen one rival film morning mask region rather alter switch icon";
+var mnemonic = "lend grape risk wise method pencil like fine march join require topple";

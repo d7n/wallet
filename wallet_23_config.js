@@ -1,1 +1,1 @@
-var mnemonic = "job depend pumpkin direct increase van siege pluck bless erase increase conduct";
+var mnemonic = "bargain diary flock minor aware awful social cruel place core actor meadow";

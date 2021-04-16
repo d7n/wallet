@@ -1,1 +1,1 @@
-var mnemonic = "render intact peace view below cement mixture card chat edge left quit";
+var mnemonic = "point symbol pencil humor cargo language certain scene fringe addict boss cave";

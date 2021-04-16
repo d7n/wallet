@@ -1,1 +1,1 @@
-var mnemonic = "chair praise penalty fire wait surge crumble clay update corn want mention";
+var mnemonic = "steel age section divide shine soldier sugar upper corn whip extend neutral";

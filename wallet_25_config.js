@@ -1,1 +1,1 @@
-var mnemonic = "crush engine potato follow rough keen harsh inhale fringe harbor embody planet";
+var mnemonic = "review mother clerk seven keep denial input clip oven attack gallery junk";

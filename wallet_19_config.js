@@ -1,1 +1,1 @@
-var mnemonic = "bar joke cactus target uphold pet helmet debris spawn book brave secret";
+var mnemonic = "attitude enforce source display design forum shift property borrow pair accident hard";

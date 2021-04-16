@@ -1,1 +1,1 @@
-var mnemonic = "admit rescue anchor similar myth sleep tornado clap plate adapt fly unit";
+var mnemonic = "intact object foster off scene morning mandate robot course author festival mutual";

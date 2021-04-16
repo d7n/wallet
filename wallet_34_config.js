@@ -1,1 +1,1 @@
-var mnemonic = "this modify inhale charge actress scrap asset eye cactus print pizza group";
+var mnemonic = "crush margin mammal sphere fever amateur reason elephant inject cherry soul cotton";

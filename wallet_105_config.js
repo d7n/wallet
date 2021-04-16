@@ -1,1 +1,1 @@
-var mnemonic = "alone script mom cliff ensure fade symptom narrow action rude sleep hammer";
+var mnemonic = "east crucial situate erode system game hard crime gold decorate artwork relief";

@@ -1,1 +1,1 @@
-var mnemonic = "episode avoid monkey siren ticket host sad butter tongue image again knife";
+var mnemonic = "derive inflict antique wool dawn virtual island soon desk dash pioneer evidence";

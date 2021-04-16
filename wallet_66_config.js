@@ -1,1 +1,1 @@
-var mnemonic = "throw refuse spell diamond gallery climb slice bike inmate symptom ketchup whip";
+var mnemonic = "surround solve pig lady angry lock fossil genius tobacco quick certain auction";

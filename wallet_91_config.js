@@ -1,1 +1,1 @@
-var mnemonic = "auction save moral eight load hill provide bind fix session toss stamp";
+var mnemonic = "bamboo easily wood provide fiber prefer flip situate exit word ecology damp";

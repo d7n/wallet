@@ -1,1 +1,1 @@
-var mnemonic = "vessel pen hold latin exile jump view inside discover guard lizard true";
+var mnemonic = "ecology trash spoil basic elite buffalo boss agent bring cross oil click";

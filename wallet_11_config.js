@@ -1,1 +1,1 @@
-var mnemonic = "dismiss topic ozone pact tuna perfect lady glad force maid noise town";
+var mnemonic = "pattern tissue mystery tower fossil much fashion sand shift dinner combine razor";

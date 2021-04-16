@@ -1,1 +1,1 @@
-var mnemonic = "metal report comic gravity exist north group thank column glide repair view";
+var mnemonic = "avoid lake spoon typical tunnel recycle illegal caught define visit buddy mandate";

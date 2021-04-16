@@ -1,1 +1,1 @@
-var mnemonic = "defy slender narrow wagon discover cycle portion act basket gun robot draft";
+var mnemonic = "deliver follow island blush burger guess citizen junior guilt refuse sudden snow";

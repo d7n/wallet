@@ -1,1 +1,1 @@
-var mnemonic = "icon attack usual room debate crumble labor spatial wet faculty attend alcohol";
+var mnemonic = "choice nerve ring lion glide awful across attack claim scene globe degree";

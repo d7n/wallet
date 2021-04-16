@@ -1,1 +1,1 @@
-var mnemonic = "alley run food record find winter clown detail rule theme lion voyage";
+var mnemonic = "involve panel lake lady tortoise upper hole tip shock inner index nominee";

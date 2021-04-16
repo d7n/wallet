@@ -1,1 +1,1 @@
-var mnemonic = "express pen act trophy group gadget scan grass rich fiscal cost result";
+var mnemonic = "match rug control country myself since slam audit decline silver lizard toward";

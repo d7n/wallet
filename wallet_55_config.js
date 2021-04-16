@@ -1,1 +1,1 @@
-var mnemonic = "sight luggage scissors segment proud cover clutch develop print marriage purity employ";
+var mnemonic = "slot glove town riot section twist mobile knee quantum episode raw permit";

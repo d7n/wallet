@@ -1,1 +1,1 @@
-var mnemonic = "strong above repeat happy alone erupt punch noble below sausage pigeon glad";
+var mnemonic = "since bless rapid cancel library enable involve lobster kiss slow age welcome";

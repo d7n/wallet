@@ -1,1 +1,1 @@
-var mnemonic = "circle wise peace violin wolf charge disagree fantasy window example swarm love";
+var mnemonic = "water mistake glory portion oak razor tiny coral reflect upon off arena";

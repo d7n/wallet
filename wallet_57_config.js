@@ -1,1 +1,1 @@
-var mnemonic = "sauce ice dad sponsor butter rug dish goose raw hero process hybrid";
+var mnemonic = "scale hand output evil around debris poverty develop output become home valid";

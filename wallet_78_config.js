@@ -1,1 +1,1 @@
-var mnemonic = "season private coyote shaft marriage layer sleep choice giraffe feed process trouble";
+var mnemonic = "craft tonight use reflect bomb forward guitar unveil ticket summer love liberty";

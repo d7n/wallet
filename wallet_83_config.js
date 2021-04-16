@@ -1,1 +1,1 @@
-var mnemonic = "swing ignore notice swear true abstract castle move hen gorilla flee debate";
+var mnemonic = "alcohol close glance bottom weapon scan oyster ankle sausage engine ozone fit";

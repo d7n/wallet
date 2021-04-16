@@ -1,1 +1,1 @@
-var mnemonic = "kite clay marble various because gadget onion quiz into dismiss emotion retire";
+var mnemonic = "true foot supply orchard rough panda rely spoon donkey december voice spice";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt ramp begin guide universe nerve pave concert error worth upset work";
+var mnemonic = "exhaust wing initial erode feed advice magnet original man soap garbage uniform";

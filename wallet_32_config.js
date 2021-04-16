@@ -1,1 +1,1 @@
-var mnemonic = "number tip shiver stick repeat pony lounge quantum bless chicken master velvet";
+var mnemonic = "inherit security timber bubble razor cigar swing tumble west swim fame sand";

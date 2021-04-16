@@ -1,1 +1,1 @@
-var mnemonic = "idea obvious hunt kind slogan height stable tower soda order exhaust name";
+var mnemonic = "cliff adjust daring rhythm rail abandon enable more move chronic wreck silk";

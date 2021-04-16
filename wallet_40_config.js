@@ -1,1 +1,1 @@
-var mnemonic = "point puzzle sniff thunder trumpet flip misery test earn hurry caution hunt";
+var mnemonic = "ecology vault laptop item phrase move diet biology amateur stem term patient";

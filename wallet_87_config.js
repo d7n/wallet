@@ -1,1 +1,1 @@
-var mnemonic = "olive when short skull urge brown iron can vibrant dizzy scatter hero";
+var mnemonic = "disorder soccer waste room express uncover happy credit pause bread naive cash";

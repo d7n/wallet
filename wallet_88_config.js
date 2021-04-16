@@ -1,1 +1,1 @@
-var mnemonic = "width manage salon laptop ordinary silent zero fever rib flavor faint nurse";
+var mnemonic = "change citizen situate belt ivory couch jazz chest various sport venue trash";

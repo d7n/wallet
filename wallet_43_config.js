@@ -1,1 +1,1 @@
-var mnemonic = "room head galaxy tilt response biology cake cushion client note spend jewel";
+var mnemonic = "claim convince dizzy awesome derive south visit piano cute leave slice insect";

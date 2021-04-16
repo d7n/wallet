@@ -1,1 +1,1 @@
-var mnemonic = "medal license sentence orient snow squeeze lens slender jacket fiber match curve";
+var mnemonic = "picture question mansion olive science blossom brisk march hire jacket ugly foam";

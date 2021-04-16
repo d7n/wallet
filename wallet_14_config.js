@@ -1,1 +1,1 @@
-var mnemonic = "three steel cruel obscure ceiling fantasy monitor neglect face wish around mystery";
+var mnemonic = "grow carry glare razor deputy reject acquire coyote fiction ribbon impulse text";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin vendor leave endless digital series visit actress release whale summer mosquito";
+var mnemonic = "skate enrich tape input trash always diary meat spoil lock assist long";

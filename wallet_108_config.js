@@ -1,1 +1,1 @@
-var mnemonic = "hope tackle wet day teach unfair barely diamond soccer arrive joy snap";
+var mnemonic = "stadium solar village page demand twin system change gown enact magic suggest";

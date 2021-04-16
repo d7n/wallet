@@ -1,1 +1,1 @@
-var mnemonic = "velvet innocent wealth spy antique secret chimney divert pretty engage sunset couple";
+var mnemonic = "nose body solar hundred impulse float action biology design upper protect disease";

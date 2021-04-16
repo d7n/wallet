@@ -1,1 +1,1 @@
-var mnemonic = "nest soap coconut series march gown tiger bicycle story actress festival common";
+var mnemonic = "mention reopen onion fiscal say onion amazing smooth any grant board pupil";

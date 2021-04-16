@@ -1,1 +1,1 @@
-var mnemonic = "extend age nasty option drift sphere humble absent girl antenna auto travel";
+var mnemonic = "remain anxiety pupil then exit path acid leaf crouch bicycle away wrist";

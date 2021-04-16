@@ -1,1 +1,1 @@
-var mnemonic = "gas behind train vault torch river doll happy gorilla destroy lonely envelope";
+var mnemonic = "guess hidden jewel shift tongue buddy flower place blanket town either student";

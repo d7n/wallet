@@ -1,1 +1,1 @@
-var mnemonic = "predict bright elbow outer yellow insane danger rookie power march flip word";
+var mnemonic = "cube matter next little skate when item orient stay brown alcohol valley";

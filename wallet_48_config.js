@@ -1,1 +1,1 @@
-var mnemonic = "visual despair soda cost option model harvest service farm recycle ensure divert";
+var mnemonic = "shadow coin height work bind river say sting warm mandate evoke begin";

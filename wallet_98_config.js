@@ -1,1 +1,1 @@
-var mnemonic = "erosion disorder boil drink tell glow move lawn chef annual sight antique";
+var mnemonic = "supreme bicycle curtain decorate fortune follow blossom conduct foam bind inside funny";

@@ -1,1 +1,1 @@
-var mnemonic = "erode domain judge puzzle analyst radio elephant bright primary snake pupil exist";
+var mnemonic = "citizen skirt purchase plunge great toe swarm measure afford auto farm fit";

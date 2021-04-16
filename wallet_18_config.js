@@ -1,1 +1,1 @@
-var mnemonic = "lion kitten fiscal charge order solve lonely average you faith danger shed";
+var mnemonic = "member month fix chuckle run grit video hood narrow chief defense window";

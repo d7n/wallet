@@ -1,1 +1,1 @@
-var mnemonic = "rubber happy program brave way carbon tell brave illegal future artefact exact";
+var mnemonic = "vendor caution replace stuff tragic flock slush cargo super wall story door";

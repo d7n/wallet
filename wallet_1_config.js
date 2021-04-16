@@ -1,1 +1,1 @@
-var mnemonic = "century accident school skill gossip own install rocket twice practice electric make";
+var mnemonic = "axis ritual option open stumble pipe bronze torch pizza actor crisp typical";

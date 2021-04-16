@@ -1,1 +1,1 @@
-var mnemonic = "one lottery vacuum disease cricket hamster nephew student deputy hospital dilemma finger";
+var mnemonic = "teach protect stairs purity gloom twin tank crush denial panther art produce";

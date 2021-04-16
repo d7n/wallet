@@ -1,1 +1,1 @@
-var mnemonic = "distance panda brick midnight frog erase gown call scrap body fog film";
+var mnemonic = "oil bless fiction detect thought suit wreck olive swarm reopen remind pulse";

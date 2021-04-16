@@ -1,1 +1,1 @@
-var mnemonic = "margin box food junk chat distance glide clarify predict hard slender square";
+var mnemonic = "key alcohol sport find main today tuna circle receive monitor calm diary";

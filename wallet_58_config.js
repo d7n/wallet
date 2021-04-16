@@ -1,1 +1,1 @@
-var mnemonic = "dolphin destroy medal dog boring raven garlic service celery elite fence that";
+var mnemonic = "story dove museum slab hedgehog metal close salon multiply congress truth potato";

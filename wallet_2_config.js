@@ -1,1 +1,1 @@
-var mnemonic = "excite art purse inmate permit afraid dose across day movie travel elite";
+var mnemonic = "already essence clip keep table choice truck enrich deputy spatial half hip";

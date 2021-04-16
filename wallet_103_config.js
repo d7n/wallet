@@ -1,1 +1,1 @@
-var mnemonic = "tank enemy weather drink inflict chat quality pear cake throw cliff artist";
+var mnemonic = "rare pulse blossom luggage dwarf rather tiny rude inside mass slab riot";

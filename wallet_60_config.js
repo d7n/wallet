@@ -1,1 +1,1 @@
-var mnemonic = "wool swallow game remain document glance else salmon range connect rather couch";
+var mnemonic = "cheap march bamboo because spend citizen expect wealth name notice egg token";

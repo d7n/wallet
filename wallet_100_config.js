@@ -1,1 +1,1 @@
-var mnemonic = "penalty hill fever forum fire gown scheme tilt retire local issue meat";
+var mnemonic = "solve about between ready jump build proof health army broom fantasy taxi";

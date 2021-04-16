@@ -1,1 +1,1 @@
-var mnemonic = "craft kiss decade wolf ozone carry fox inmate mean frame shallow people";
+var mnemonic = "rail tip flower wink obvious nasty evidence pistol silly blouse flight portion";

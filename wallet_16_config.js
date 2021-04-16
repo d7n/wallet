@@ -1,1 +1,1 @@
-var mnemonic = "dust patient garbage member dutch twelve inflict boil sport legal online hidden";
+var mnemonic = "color drama wall decrease claw vacuum artefact dash prison insane treat return";

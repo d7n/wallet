@@ -1,1 +1,1 @@
-var mnemonic = "fresh grit strike empower orbit essence dwarf canoe crowd utility indoor old";
+var mnemonic = "rotate plug drip october stereo only mind enroll earn uncle idle smoke";

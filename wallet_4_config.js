@@ -1,1 +1,1 @@
-var mnemonic = "deliver kingdom way mandate own author under paddle turn kitten prize topple";
+var mnemonic = "alert industry bless girl tourist nut announce common farm eternal pact approve";

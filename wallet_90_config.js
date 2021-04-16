@@ -1,1 +1,1 @@
-var mnemonic = "cup rookie evolve spawn view cruel glad unhappy bulk palm farm melody";
+var mnemonic = "wild consider since avoid crater news silver gaze chief universe tourist impose";

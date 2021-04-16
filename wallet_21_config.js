@@ -1,1 +1,1 @@
-var mnemonic = "swap middle cream mention poem size describe warfare resemble maze bracket collect";
+var mnemonic = "glow trigger monster charge nose liberty dentist ethics topic reveal maze scissors";

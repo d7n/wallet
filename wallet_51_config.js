@@ -1,1 +1,1 @@
-var mnemonic = "orchard donate salute emotion brief oyster remind together trigger laundry robot soft";
+var mnemonic = "hunt ghost build switch zone enable elbow pole gas oven olympic radio";

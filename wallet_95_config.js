@@ -1,1 +1,1 @@
-var mnemonic = "denial stool charge tell endless diet victory net word above response broom";
+var mnemonic = "pudding travel weasel mirror final biology ancient exercise tag final season best";

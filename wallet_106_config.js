@@ -1,1 +1,1 @@
-var mnemonic = "pulse dream zoo abuse plastic illness vote split issue federal where glory";
+var mnemonic = "inhale brave sibling series walk venue tiny able addict rapid deny depth";

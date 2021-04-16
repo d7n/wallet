@@ -1,1 +1,1 @@
-var mnemonic = "exist agree place ignore pluck rural reward ostrich regret know magnet kit";
+var mnemonic = "onion salmon goose scare wrist blouse hour mention snap hand solar sort";

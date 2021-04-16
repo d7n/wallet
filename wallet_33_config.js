@@ -1,1 +1,1 @@
-var mnemonic = "token victory surprise shiver ancient wood width suspect shy spice symbol cruel";
+var mnemonic = "risk immense slender purity urban limb judge beyond chalk blur avoid neglect";

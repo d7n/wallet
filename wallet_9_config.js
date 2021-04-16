@@ -1,1 +1,1 @@
-var mnemonic = "month orphan direct ginger use curve cannon proud dirt donkey toss floor";
+var mnemonic = "outer mushroom piece cupboard into frequent nothing notice defense search street aerobic";
