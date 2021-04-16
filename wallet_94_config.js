@@ -1,1 +1,1 @@
-var mnemonic = "print innocent option mad grace engage faculty peanut noise foam cargo infant";
+var mnemonic = "wrap vehicle motor stomach economy inhale jaguar success amazing frost cabbage grit";

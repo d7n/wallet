@@ -1,1 +1,1 @@
-var mnemonic = "february height giant strong private afford today era limb vague explain glow";
+var mnemonic = "later acid blouse together wagon treat orient sibling destroy april present country";

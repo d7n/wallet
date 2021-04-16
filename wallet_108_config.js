@@ -1,1 +1,1 @@
-var mnemonic = "rocket awake mind suggest kind satoshi age organ parrot crazy exit alien";
+var mnemonic = "spin release model inherit life spray hold appear beauty wood dream assault";

@@ -1,1 +1,1 @@
-var mnemonic = "year type rescue edge chat celery volcano sun eye bulb bonus promote";
+var mnemonic = "giggle retire six boss nominee about garage unveil paper they forget icon";

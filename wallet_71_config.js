@@ -1,1 +1,1 @@
-var mnemonic = "shell victory disease include unit amateur prepare rug solve indoor pass skull";
+var mnemonic = "blue ship error voice giggle admit trend estate lunar alcohol pioneer mention";

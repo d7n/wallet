@@ -1,1 +1,1 @@
-var mnemonic = "now bag decrease sunny crumble busy jacket universe tilt actual tiger piece";
+var mnemonic = "recycle forget catalog scene shaft chicken either focus tackle aware copy question";

@@ -1,1 +1,1 @@
-var mnemonic = "critic side fiscal metal paper limb donor creek card badge loyal undo";
+var mnemonic = "fresh news donor reduce pact iron reason update earn train hotel angry";

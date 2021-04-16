@@ -1,1 +1,1 @@
-var mnemonic = "own check avoid cattle comic left box captain charge alley blossom draw";
+var mnemonic = "stumble season marriage patrol pull credit sunset couple vacant clap magic link";

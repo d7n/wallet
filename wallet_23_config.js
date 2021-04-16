@@ -1,1 +1,1 @@
-var mnemonic = "hundred skate name exclude average trade cost cake quarter snap media hospital";
+var mnemonic = "old woman buffalo local price elite leader click mean fault talent pizza";

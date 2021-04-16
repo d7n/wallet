@@ -1,1 +1,1 @@
-var mnemonic = "also wealth skate bundle naive cake rocket sign frost cost exchange provide";
+var mnemonic = "garage safe subject spoil baby unaware puzzle rookie couch panel result source";

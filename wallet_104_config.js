@@ -1,1 +1,1 @@
-var mnemonic = "dose extend spirit clump deposit label then reject race melody forum bachelor";
+var mnemonic = "wrist when joke banner real sketch execute carry canvas control science keep";

@@ -1,1 +1,1 @@
-var mnemonic = "hero liar salmon worry unusual afford major round hip faculty hope brown";
+var mnemonic = "limit error cluster index wisdom cargo boat kit hospital vessel gown motion";

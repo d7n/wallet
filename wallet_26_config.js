@@ -1,1 +1,1 @@
-var mnemonic = "april noble side farm merit gym brush arch vast desert forward narrow";
+var mnemonic = "border carbon image culture enhance clown supreme acoustic manage sauce develop february";

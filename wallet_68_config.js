@@ -1,1 +1,1 @@
-var mnemonic = "music eager kiwi disorder organ claw roof cupboard detail write clog deliver";
+var mnemonic = "stereo police wear hospital derive ask stomach gloom brick forget shed sheriff";

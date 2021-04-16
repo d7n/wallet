@@ -1,1 +1,1 @@
-var mnemonic = "minimum congress climb assist hobby left expect neglect method diesel jewel duty";
+var mnemonic = "salmon evil twin ethics tobacco donkey weird isolate cradle key lunch you";

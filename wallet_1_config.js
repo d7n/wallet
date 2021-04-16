@@ -1,1 +1,1 @@
-var mnemonic = "ensure leg follow subway betray region result craft fatigue ridge cause leader";
+var mnemonic = "grain tumble vanish crucial key happy orchard summer pen boil limit absurd";

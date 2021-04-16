@@ -1,1 +1,1 @@
-var mnemonic = "belt harsh puzzle scene hurry tattoo blood butter mixture neither way lottery";
+var mnemonic = "census put barrel pudding ugly life reward moral weekend symbol pipe arm";

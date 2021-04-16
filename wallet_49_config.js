@@ -1,1 +1,1 @@
-var mnemonic = "ladder exist grunt throw diary echo ivory hollow prison require icon mad";
+var mnemonic = "biology bless save pigeon liquid clock type imitate picture mansion wagon abuse";

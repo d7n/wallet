@@ -1,1 +1,1 @@
-var mnemonic = "mango stick sea ketchup lunar similar kite eager modify have bitter chalk";
+var mnemonic = "scare kitchen subject usual cat dust hole torch meadow today smile maple";

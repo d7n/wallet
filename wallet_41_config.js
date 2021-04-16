@@ -1,1 +1,1 @@
-var mnemonic = "comic bid mandate refuse antenna sunny ugly gain job bitter defense uncle";
+var mnemonic = "boy uniform motion travel select success category disorder onion hint rifle final";

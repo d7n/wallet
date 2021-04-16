@@ -1,1 +1,1 @@
-var mnemonic = "strategy entry fire mansion boil matter nominee worth arena canoe lion battle";
+var mnemonic = "cable keen great dance melody excuse slam vacant code twelve orchard cry";

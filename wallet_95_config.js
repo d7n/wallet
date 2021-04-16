@@ -1,1 +1,1 @@
-var mnemonic = "energy vacant direct party famous venture movie sustain escape capital rug notable";
+var mnemonic = "jar magic original jump regret slender tide bright token sister burst write";

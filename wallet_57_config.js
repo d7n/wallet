@@ -1,1 +1,1 @@
-var mnemonic = "fly dizzy crew thumb term luxury inherit desert link struggle lazy monster";
+var mnemonic = "spring furnace used answer mystery bus tuna jump drum unit giant before";

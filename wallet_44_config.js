@@ -1,1 +1,1 @@
-var mnemonic = "verb draw laugh token enemy orbit dream urge check old armed enroll";
+var mnemonic = "smoke legal feed budget balance enhance salt wire fetch smoke crumble knee";

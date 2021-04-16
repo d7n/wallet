@@ -1,1 +1,1 @@
-var mnemonic = "okay guilt popular network ball dumb visit vendor fix margin nurse month";
+var mnemonic = "orange market cactus cattle beauty hidden cream repeat slush eight film protect";

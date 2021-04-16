@@ -1,1 +1,1 @@
-var mnemonic = "viable joy record another nut price media will february stadium country shove";
+var mnemonic = "claw diary birth concert fiction drastic swarm thunder shed island best warfare";

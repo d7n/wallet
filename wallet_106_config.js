@@ -1,1 +1,1 @@
-var mnemonic = "half muscle outside dutch quarter reason whale marble submit violin actress injury";
+var mnemonic = "crack climb limit wisdom science ordinary match champion electric post fury fury";

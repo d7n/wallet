@@ -1,1 +1,1 @@
-var mnemonic = "mechanic moment stuff forward crater affair gather simple grow receive snow physical";
+var mnemonic = "cake spot doll okay option comic success reward blood guide album trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten sample torch system remain utility true doll use tent wonder arrange";
+var mnemonic = "dog glare nut you clerk soccer real cactus bid shoot fury cycle";

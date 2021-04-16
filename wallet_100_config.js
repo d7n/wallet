@@ -1,1 +1,1 @@
-var mnemonic = "message clap news subject control letter grape poverty fashion when odor describe";
+var mnemonic = "utility cherry vault rebuild alter purity muscle message found mail spare special";

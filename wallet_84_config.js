@@ -1,1 +1,1 @@
-var mnemonic = "fan skill mansion ripple wire angry tree glimpse iron honey metal crack";
+var mnemonic = "emerge west boring crack bridge slab farm expose below current cry cheese";

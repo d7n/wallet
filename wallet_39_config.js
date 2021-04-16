@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lazy kid fun tragic elite number gun clever damp awkward answer";
+var mnemonic = "eternal drive answer twist suspect upset inherit foil hurdle peasant lyrics guard";

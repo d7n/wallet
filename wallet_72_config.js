@@ -1,1 +1,1 @@
-var mnemonic = "share embody season write upon expose dutch bus design sunset brush advance";
+var mnemonic = "stereo buzz finger faint oppose remind guitar diet fiber census carpet physical";

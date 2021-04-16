@@ -1,1 +1,1 @@
-var mnemonic = "uphold collect supply page connect amused gather leisure hire render rescue jeans";
+var mnemonic = "profit tube veteran casual soup employ jelly famous elephant wrong dog lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "rib sphere vanish chunk auto lock latin impulse brother chef purity room";
+var mnemonic = "make notable spirit captain supply satisfy scorpion seat romance stereo coil couch";

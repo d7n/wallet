@@ -1,1 +1,1 @@
-var mnemonic = "battle tongue hover spoil item master repeat ritual cabbage eagle spread column";
+var mnemonic = "job hollow maximum foil crunch shock march seed write width connect shock";

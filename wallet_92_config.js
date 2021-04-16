@@ -1,1 +1,1 @@
-var mnemonic = "road cabbage ginger spice grant badge mad essay useless category minor inherit";
+var mnemonic = "welcome final way faith dilemma civil piece quit earth denial version slow";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin candy rhythm wolf roast plunge bullet affair arena abuse follow rocket";
+var mnemonic = "soda next eager style evil input category salon mixture permit tired pattern";

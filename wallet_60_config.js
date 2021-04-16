@@ -1,1 +1,1 @@
-var mnemonic = "exit palace above sponsor baby jar inside camera magnet affair plate payment";
+var mnemonic = "fitness melody idea drum code animal joy cloth rubber lift relief rough";

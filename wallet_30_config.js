@@ -1,1 +1,1 @@
-var mnemonic = "sentence doctor purity unique learn brain cream already because fatigue park goose";
+var mnemonic = "join true sport virus polar reunion crane charge waste waste broom relax";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown ocean super chalk turtle universe live frost indicate puzzle outer glide";
+var mnemonic = "flush book price remind vocal energy mirror radar machine excuse lava program";

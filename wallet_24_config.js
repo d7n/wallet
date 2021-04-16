@@ -1,1 +1,1 @@
-var mnemonic = "derive awake fitness elbow common health east arrest unfair collect foil surge";
+var mnemonic = "basic debris twice reward spot ethics bridge tank logic travel citizen symbol";

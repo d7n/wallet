@@ -1,1 +1,1 @@
-var mnemonic = "pause black race lend moment myself will else coral brother elephant half";
+var mnemonic = "umbrella debris prize marble hard core add cash reward pledge tomato cross";

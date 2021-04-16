@@ -1,1 +1,1 @@
-var mnemonic = "portion start race lemon jewel science frozen grass spin shrug stamp genius";
+var mnemonic = "blossom cover pulse stay this rude ankle cactus rival junk sheriff method";

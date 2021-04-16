@@ -1,1 +1,1 @@
-var mnemonic = "farm night hire eye evil swift web cactus absurd obvious ball tortoise";
+var mnemonic = "bachelor differ organ country electric junk play list wise toss boy key";

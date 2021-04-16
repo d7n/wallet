@@ -1,1 +1,1 @@
-var mnemonic = "hybrid exotic invest dolphin govern wolf setup offer round inhale gold forget";
+var mnemonic = "enlist retire file tent this baby team pigeon possible already photo check";

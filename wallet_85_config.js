@@ -1,1 +1,1 @@
-var mnemonic = "certain you miracle poem erode welcome knock movie thank spot cube sadness";
+var mnemonic = "energy stairs rival roof speed powder forest fence viable nurse birth acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple dynamic raven town awful color grunt filter palace seminar note rhythm";
+var mnemonic = "gun type beyond exclude pitch maid capital brass cement street fancy credit";

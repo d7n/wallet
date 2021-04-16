@@ -1,1 +1,1 @@
-var mnemonic = "ostrich slush lunar august settle only edge cook bronze romance cabbage advice";
+var mnemonic = "nurse globe ceiling student mango oven exit bachelor forest tenant wise crawl";

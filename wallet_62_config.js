@@ -1,1 +1,1 @@
-var mnemonic = "pepper elegant boost hundred oyster you exit crater wait water economy twin";
+var mnemonic = "lens nominee cupboard roast youth outdoor abuse march ride bean zoo wine";

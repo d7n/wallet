@@ -1,1 +1,1 @@
-var mnemonic = "nasty vibrant tornado cook fiscal charge thumb addict assault alone nephew floor";
+var mnemonic = "mansion street bundle laptop total despair muscle garbage tail banana immune emotion";

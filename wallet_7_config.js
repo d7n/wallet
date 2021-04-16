@@ -1,1 +1,1 @@
-var mnemonic = "wage thank hip false recipe example napkin harbor brother style join gasp";
+var mnemonic = "meadow furnace breeze female rude cushion ability motion icon marine doll clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "core stool gift render vacant sort film fabric approve repeat like seven";
+var mnemonic = "chief match gain loud gun three boring thumb tray nose creek envelope";

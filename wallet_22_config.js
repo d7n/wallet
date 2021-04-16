@@ -1,1 +1,1 @@
-var mnemonic = "riot zoo gauge stick soldier patch wasp mouse rude stairs improve ripple";
+var mnemonic = "cover flush food nasty install fetch meat sell effort abandon leopard above";

@@ -1,1 +1,1 @@
-var mnemonic = "tired come spawn old spoon ocean rib earn gym throw width brown";
+var mnemonic = "round direct install tray pave direct aerobic safe tree mistake cradle palace";

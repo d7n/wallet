@@ -1,1 +1,1 @@
-var mnemonic = "disease torch share sustain run morning theory kiss garbage team mother slim";
+var mnemonic = "donate aisle club afford dignity awake harvest monitor void layer crew steak";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot vital pumpkin quantum run cream glow sadness vehicle predict aerobic zebra";
+var mnemonic = "sweet federal uphold casual swim advance faith coin skirt earth divorce puzzle";

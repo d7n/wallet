@@ -1,1 +1,1 @@
-var mnemonic = "ladder tower wrong resemble wasp face either combine voyage gauge vicious neck";
+var mnemonic = "defense glow glory globe favorite wing laptop want file ramp verb shoot";

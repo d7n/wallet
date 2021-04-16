@@ -1,1 +1,1 @@
-var mnemonic = "trophy liar lottery school panel where clump elbow group sad banana face";
+var mnemonic = "fantasy secret act fine subway urge first brisk filter mail canyon toast";

@@ -1,1 +1,1 @@
-var mnemonic = "term keep pudding matrix oil silk tired anxiety scrub hover wide surge";
+var mnemonic = "shoe anger transfer forward visit canoe enlist tired task boat spray potato";

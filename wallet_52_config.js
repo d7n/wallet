@@ -1,1 +1,1 @@
-var mnemonic = "tide rescue like grant panda rally carpet bid sphere minute rebel coach";
+var mnemonic = "couch crouch leg garden parent monitor area chaos vault jewel truly pizza";

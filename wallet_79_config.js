@@ -1,1 +1,1 @@
-var mnemonic = "siren affair eye notice cloth tank that mango salon faith remind zone";
+var mnemonic = "shield winter guard equip entry vicious swift dignity devote fall crew antenna";

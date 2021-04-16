@@ -1,1 +1,1 @@
-var mnemonic = "hint fork tell snake endless inherit file female oyster clip toy rhythm";
+var mnemonic = "visa express move rebel theme october control farm drum discover aerobic rely";

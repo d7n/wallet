@@ -1,1 +1,1 @@
-var mnemonic = "okay degree ramp athlete million hurry afford media trophy update piece chicken";
+var mnemonic = "bunker loop come mask kid print movie web assist gown notice express";

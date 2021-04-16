@@ -1,1 +1,1 @@
-var mnemonic = "stereo day stereo crane father shiver spring wage dune become civil cinnamon";
+var mnemonic = "invest hockey oval beauty envelope alter gym grab space hood wire company";

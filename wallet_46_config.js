@@ -1,1 +1,1 @@
-var mnemonic = "basket chaos cash office banner enroll scan garlic split twenty month educate";
+var mnemonic = "antenna path ill wall rice idle climb uphold funny staff object opera";

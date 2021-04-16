@@ -1,1 +1,1 @@
-var mnemonic = "actor bind able switch negative ginger negative flag guard galaxy logic moon";
+var mnemonic = "blue tourist token reopen where kangaroo squirrel language image struggle screen artist";

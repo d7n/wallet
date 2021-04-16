@@ -1,1 +1,1 @@
-var mnemonic = "oak security bar sorry despair scorpion cattle liberty twin local certain found";
+var mnemonic = "risk school boil secret baby brick knife awkward acid arrive agent wonder";

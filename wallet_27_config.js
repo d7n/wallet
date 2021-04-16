@@ -1,1 +1,1 @@
-var mnemonic = "replace surge divorce asset west memory hurdle display peace canal always celery";
+var mnemonic = "pipe attend build diet lava perfect celery finish obscure other novel machine";

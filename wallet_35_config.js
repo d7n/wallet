@@ -1,1 +1,1 @@
-var mnemonic = "genius dove under fever yellow loyal deny dog fox blood frequent face";
+var mnemonic = "border way rally galaxy rug winner correct ignore source wheel thought cup";

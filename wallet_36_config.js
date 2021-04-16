@@ -1,1 +1,1 @@
-var mnemonic = "other section ring aisle purity tell below feel program delay donkey scout";
+var mnemonic = "goddess almost ramp crucial evidence device pretty buffalo orphan street bamboo blush";

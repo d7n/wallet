@@ -1,1 +1,1 @@
-var mnemonic = "update fix clown hair vocal swarm balcony reopen nothing mechanic unit crunch";
+var mnemonic = "hood put ball hover detect voyage hold upper fatal render belt tape";

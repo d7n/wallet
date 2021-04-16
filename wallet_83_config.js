@@ -1,1 +1,1 @@
-var mnemonic = "tent jazz able tilt digital robot note food able budget frequent oxygen";
+var mnemonic = "since enjoy equip away era only country charge want orange uncover joy";

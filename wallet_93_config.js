@@ -1,1 +1,1 @@
-var mnemonic = "void trash sausage dry cool cage angry slide draw goat oak lesson";
+var mnemonic = "man peasant alien unfair laundry repeat frozen banner immense office often doll";

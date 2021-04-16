@@ -1,1 +1,1 @@
-var mnemonic = "jaguar elder sting despair credit soap robot bunker disease sea genre hybrid";
+var mnemonic = "escape orient wheel feature clever custom minor promote cube escape senior eyebrow";

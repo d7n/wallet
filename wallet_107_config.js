@@ -1,1 +1,1 @@
-var mnemonic = "can include attract inquiry float caution above tower gas sudden trash anxiety";
+var mnemonic = "reform cool panda plug general crucial file lesson fancy still gap rib";

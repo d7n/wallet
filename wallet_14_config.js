@@ -1,1 +1,1 @@
-var mnemonic = "raccoon surround ancient dance light rubber employ food rebel chicken unique ramp";
+var mnemonic = "firm ocean color alpha wash scorpion uncover cloth liar soda neutral answer";

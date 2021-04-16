@@ -1,1 +1,1 @@
-var mnemonic = "suspect ladder chicken seed pool drastic era match bachelor balance skull body";
+var mnemonic = "trumpet normal domain neck final elevator leave flavor address scissors fence license";

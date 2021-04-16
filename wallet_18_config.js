@@ -1,1 +1,1 @@
-var mnemonic = "hockey good bonus program foil add pluck blast oppose stereo capital pink";
+var mnemonic = "remain humble become dutch beauty voyage interest deposit hurdle wonder run sure";

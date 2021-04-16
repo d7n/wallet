@@ -1,1 +1,1 @@
-var mnemonic = "congress scheme enrich high gentle omit steak census stove blur bird pumpkin";
+var mnemonic = "attend sun tumble poem despair earth gossip expose sweet online apple photo";

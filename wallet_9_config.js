@@ -1,1 +1,1 @@
-var mnemonic = "steel sign skirt mansion latin frown devote catch rabbit enroll three turkey";
+var mnemonic = "nominee salmon access alpha ice nephew index inside brand stove shy vicious";

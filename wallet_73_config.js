@@ -1,1 +1,1 @@
-var mnemonic = "gloom valve cave easy moon popular clinic reason box steak resist sight";
+var mnemonic = "town dose snow curtain rookie scrub already talk fossil able crumble firm";

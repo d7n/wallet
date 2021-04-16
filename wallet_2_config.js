@@ -1,1 +1,1 @@
-var mnemonic = "day shrug glory during miracle act embark depth animal spell valid series";
+var mnemonic = "usage angry traffic ocean mansion place mask crime situate benefit tape despair";

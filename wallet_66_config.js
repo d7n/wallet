@@ -1,1 +1,1 @@
-var mnemonic = "aware spread exotic music vanish click cake source hood category pause cargo";
+var mnemonic = "alert clump penalty riot bottom ice vacant figure infant future plunge code";

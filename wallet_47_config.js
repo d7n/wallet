@@ -1,1 +1,1 @@
-var mnemonic = "grace tank robot canvas off satisfy crush naive burger provide moon margin";
+var mnemonic = "humor fitness day knee clerk name boost position shallow soup report prefer";

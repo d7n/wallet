@@ -1,1 +1,1 @@
-var mnemonic = "digital clown ranch surprise bamboo park hurt report lazy employ people honey";
+var mnemonic = "yellow negative blanket breeze phone van tone pretty yard tell lock reunion";

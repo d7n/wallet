@@ -1,1 +1,1 @@
-var mnemonic = "fragile garden glance unfair glow length brain room mean film scatter sudden";
+var mnemonic = "snow identify rubber vacuum rude marble myth cushion own impulse genius fame";

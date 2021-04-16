@@ -1,1 +1,1 @@
-var mnemonic = "like another symbol will excess stem garlic scare stumble snake stick vicious";
+var mnemonic = "busy leopard mind disagree whisper tackle old city disease until time girl";

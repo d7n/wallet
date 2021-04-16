@@ -1,1 +1,1 @@
-var mnemonic = "satisfy frame brush remain stereo escape cool toward true chaos flame void";
+var mnemonic = "undo aspect barely aim noise drill mouse ignore board upset right dream";

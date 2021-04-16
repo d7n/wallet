@@ -1,1 +1,1 @@
-var mnemonic = "ankle virtual tomato room option script cross alpha husband rely pony taste";
+var mnemonic = "inspire tail charge arrive fiscal prepare immune know horn fancy obscure erosion";
