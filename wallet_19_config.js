@@ -1,1 +1,1 @@
-var mnemonic = "hazard upper unfair region melt enforce valve first ill fog helmet great";
+var mnemonic = "hole soccer soon general body deliver elephant brown essence raise detect tip";

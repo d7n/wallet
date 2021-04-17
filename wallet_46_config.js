@@ -1,1 +1,1 @@
-var mnemonic = "arrow execute worth leader execute live blind scorpion ribbon foster soccer execute";
+var mnemonic = "maximum detail sell trap relax chicken park ship alter coconut foil robot";

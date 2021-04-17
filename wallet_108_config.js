@@ -1,1 +1,1 @@
-var mnemonic = "donor dawn balance hammer torch exclude rough rocket labor oval lumber eye";
+var mnemonic = "ripple cram common head sell absorb juice false recall appear front deer";

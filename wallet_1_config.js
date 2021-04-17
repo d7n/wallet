@@ -1,1 +1,1 @@
-var mnemonic = "regular honey trade alarm near leg female farm ketchup picnic option yellow";
+var mnemonic = "worry pony tool trumpet hazard present silk update inner burst banana glad";

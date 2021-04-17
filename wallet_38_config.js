@@ -1,1 +1,1 @@
-var mnemonic = "wall right clean message expose until divorce tag vivid hat mango demand";
+var mnemonic = "rug various comfort labor case jaguar item observe increase language range rookie";

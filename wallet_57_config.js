@@ -1,1 +1,1 @@
-var mnemonic = "impulse hover shop truly legend wood budget blast anchor main frog oil";
+var mnemonic = "there candy eight old tragic library quote culture oak toast consider draw";

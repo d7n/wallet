@@ -1,1 +1,1 @@
-var mnemonic = "ceiling neither arrest exhibit crane clap scale choice virtual chest ridge drink";
+var mnemonic = "mystery agree muffin retreat enforce repair empty category breeze search width cement";

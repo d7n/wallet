@@ -1,1 +1,1 @@
-var mnemonic = "music tray shoot hip output true science hour kidney buffalo bless misery";
+var mnemonic = "crash then drop fix blanket bone image forward lift athlete jump prepare";

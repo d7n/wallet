@@ -1,1 +1,1 @@
-var mnemonic = "void spray cover topic hip leg poet affair buyer bunker army shaft";
+var mnemonic = "inch alpha tackle half polar write maximum ugly public snake maximum divert";

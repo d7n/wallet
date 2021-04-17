@@ -1,1 +1,1 @@
-var mnemonic = "liberty crawl amount stand identify maid skate swing fit budget section cry";
+var mnemonic = "balcony nurse garlic field jelly shoulder orphan annual evidence drill maid unaware";

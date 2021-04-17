@@ -1,1 +1,1 @@
-var mnemonic = "scout exercise brown trade lyrics ghost glove yellow lonely popular update shadow";
+var mnemonic = "soda high head dwarf someone train devote work enact market tiger source";

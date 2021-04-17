@@ -1,1 +1,1 @@
-var mnemonic = "obtain town hurdle hybrid allow ritual clog sting violin drill urban pudding";
+var mnemonic = "acquire dutch three dish wife jeans write faith steel split sight trap";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger syrup episode journey water custom interest satisfy reflect inspire argue venue";
+var mnemonic = "second mechanic nice often grunt tongue acoustic chuckle ginger nice coin foil";

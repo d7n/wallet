@@ -1,1 +1,1 @@
-var mnemonic = "duty stem spell civil initial unfold calm acquire scrub hard trick decade";
+var mnemonic = "amount fly zone mass crime more leaf fault foil drift quantum nothing";

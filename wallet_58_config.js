@@ -1,1 +1,1 @@
-var mnemonic = "balcony fluid exhibit orange citizen space club long junior cave exact autumn";
+var mnemonic = "mobile during apart banana pink weasel plastic monkey mother render denial brother";

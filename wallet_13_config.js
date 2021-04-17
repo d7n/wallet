@@ -1,1 +1,1 @@
-var mnemonic = "shoot essay diesel oak lemon boil tomato glide flush female term light";
+var mnemonic = "focus area elegant brain orchard recycle another spy inspire mouse finger balcony";

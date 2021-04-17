@@ -1,1 +1,1 @@
-var mnemonic = "few anchor unknown circle student legal web guide kangaroo series front price";
+var mnemonic = "give wall make sorry cook surround tortoise asthma sister claw rate wall";

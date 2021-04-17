@@ -1,1 +1,1 @@
-var mnemonic = "boost letter quiz asthma sense need balcony inject dumb debris region ranch";
+var mnemonic = "crunch enforce walk frequent luxury select rhythm rude unaware silly firm segment";

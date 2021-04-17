@@ -1,1 +1,1 @@
-var mnemonic = "unlock two scorpion stay canoe mutual cry tissue thunder swift garlic visual";
+var mnemonic = "trouble cry cabbage hire lobster silver renew arena fresh pink result nut";

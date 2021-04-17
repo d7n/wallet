@@ -1,1 +1,1 @@
-var mnemonic = "trouble ocean face elegant narrow jelly adult dog muffin stumble swift accident";
+var mnemonic = "insane swamp hip left icon guide fortune traffic system gun okay know";

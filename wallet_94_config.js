@@ -1,1 +1,1 @@
-var mnemonic = "icon mystery open off keep promote achieve armor smile burst chunk castle";
+var mnemonic = "olympic pony canyon shed ill afford twenty cotton angle rabbit celery galaxy";

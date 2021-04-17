@@ -1,1 +1,1 @@
-var mnemonic = "airport you family manage high beyond blue inner panda lucky scale matrix";
+var mnemonic = "gospel calm little music raise power alien couch sense photo sand hollow";

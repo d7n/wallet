@@ -1,1 +1,1 @@
-var mnemonic = "second habit isolate long hedgehog milk midnight margin busy endless churn neither";
+var mnemonic = "slogan baby endorse other animal coffee segment siren dash rubber gasp appear";

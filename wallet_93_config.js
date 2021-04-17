@@ -1,1 +1,1 @@
-var mnemonic = "volcano vapor rude real exhaust town border exist mesh visit attitude fade";
+var mnemonic = "bracket dash action save december limit hair jazz prison forward idle head";

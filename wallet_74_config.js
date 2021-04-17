@@ -1,1 +1,1 @@
-var mnemonic = "throw shuffle snap earth goat brass sibling someone turtle wasp maximum exile";
+var mnemonic = "fire very dentist snap grain crucial rain sketch add basket reward main";

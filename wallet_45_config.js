@@ -1,1 +1,1 @@
-var mnemonic = "beyond march regret lizard figure sign property slight trouble vivid cigar earth";
+var mnemonic = "shallow tool blame romance hockey eagle upset clever vacant giraffe equal awesome";

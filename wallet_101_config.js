@@ -1,1 +1,1 @@
-var mnemonic = "quit tool afraid trip urban glory apple grant benefit chicken fruit movie";
+var mnemonic = "join minor segment elegant awesome task smooth much again claim crop penalty";

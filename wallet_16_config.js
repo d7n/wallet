@@ -1,1 +1,1 @@
-var mnemonic = "glory able tooth bright burst coffee deer seek marble ridge celery very";
+var mnemonic = "near ranch trash limb deposit head boy frame camera detect place range";

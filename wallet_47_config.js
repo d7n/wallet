@@ -1,1 +1,1 @@
-var mnemonic = "humble puppy awake cupboard scan match unusual assist observe boss special raccoon";
+var mnemonic = "math raven chest sand slab item deny wise invite patrol laptop column";

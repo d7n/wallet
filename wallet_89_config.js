@@ -1,1 +1,1 @@
-var mnemonic = "question page atom power walk mention ostrich liberty intact hint year abstract";
+var mnemonic = "example elevator network toast mimic grief refuse thumb jazz trophy own order";

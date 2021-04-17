@@ -1,1 +1,1 @@
-var mnemonic = "actress forget creek auto board october spider immune minute tomato forward rescue";
+var mnemonic = "example danger sweet fence bring tuition practice short blue monkey dance aisle";

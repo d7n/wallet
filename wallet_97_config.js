@@ -1,1 +1,1 @@
-var mnemonic = "globe style write galaxy solve accuse penalty brother sting clip exist blood";
+var mnemonic = "narrow left record wheat enlist erosion panda bullet gadget wing sorry relief";

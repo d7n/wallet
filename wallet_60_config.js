@@ -1,1 +1,1 @@
-var mnemonic = "frame notable monkey venue hole put rubber erupt rebuild tree argue supreme";
+var mnemonic = "tornado ribbon always away away taste settle piece faith tray empty leave";

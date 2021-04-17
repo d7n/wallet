@@ -1,1 +1,1 @@
-var mnemonic = "transfer girl involve ginger peanut gown tooth impulse travel banner burger immune";
+var mnemonic = "grab weasel city bubble cupboard save retreat hurdle beef food mountain grant";

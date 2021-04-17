@@ -1,1 +1,1 @@
-var mnemonic = "critic olive abuse gentle gaze cool crystal under abandon glory empower valid";
+var mnemonic = "hundred renew legend cook area boost sustain burger fiscal crisp romance claim";

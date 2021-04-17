@@ -1,1 +1,1 @@
-var mnemonic = "spray cattle prize spin lawn box second pave coil math gasp salad";
+var mnemonic = "copper erupt again lab toilet dragon blur earth zero beyond oak flame";

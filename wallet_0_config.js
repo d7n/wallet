@@ -1,1 +1,1 @@
-var mnemonic = "census box pumpkin puppy lumber cart actress giggle illegal child ocean walnut";
+var mnemonic = "insane trumpet useless join coin indicate later basic number decrease prosper spice";

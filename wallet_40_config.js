@@ -1,1 +1,1 @@
-var mnemonic = "lemon leaf result notable useful rate endorse toe manage reason borrow dwarf";
+var mnemonic = "shield keen ten business trophy bridge cheese bleak sight demand iron glad";

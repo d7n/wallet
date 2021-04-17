@@ -1,1 +1,1 @@
-var mnemonic = "orient candy excess choice bring when pause frost setup turkey abandon input";
+var mnemonic = "please audit life orchard august bless upper special critic behind inmate black";

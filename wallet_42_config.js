@@ -1,1 +1,1 @@
-var mnemonic = "false ostrich post lesson woman cargo into tired honey fetch regret habit";
+var mnemonic = "average wrong logic ask outdoor token size inform ecology basic glory coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess dirt regular fat enable able dismiss silly display gold whale vague";
+var mnemonic = "noodle air awesome pear ostrich home debris bargain toe know pear differ";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture finger inner sting smooth horror basic typical regret around list swarm";
+var mnemonic = "muffin snake fiction tree rent half pottery venture snack chief aspect divide";

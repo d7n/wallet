@@ -1,1 +1,1 @@
-var mnemonic = "devote suspect outdoor loan zone thunder obtain federal speak better earth pattern";
+var mnemonic = "approve beyond grow sort liquid style stairs renew angry clap collect shock";

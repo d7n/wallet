@@ -1,1 +1,1 @@
-var mnemonic = "tattoo frown brain husband knee chest quote easily quick enlist peasant frog";
+var mnemonic = "swap brass resist cover talent come atom bundle timber divert street involve";

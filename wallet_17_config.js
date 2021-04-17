@@ -1,1 +1,1 @@
-var mnemonic = "bamboo drive fiber maze cluster grape engine chicken cradle milk flat mass";
+var mnemonic = "boil will twelve nothing repeat insect original decorate real rich jelly rack";

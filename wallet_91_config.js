@@ -1,1 +1,1 @@
-var mnemonic = "case fragile recall discover believe raccoon judge inherit infant fence exchange apology";
+var mnemonic = "degree remain scorpion tissue clean budget outer wear vault picnic useless trade";

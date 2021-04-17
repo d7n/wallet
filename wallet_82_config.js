@@ -1,1 +1,1 @@
-var mnemonic = "they seven envelope salt actor apology capital just you exclude brown feel";
+var mnemonic = "icon maximum people baby uncover husband cement obscure piano lumber mountain panther";

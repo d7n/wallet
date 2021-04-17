@@ -1,1 +1,1 @@
-var mnemonic = "risk dizzy afraid drastic glance fruit glare behave run among output carpet";
+var mnemonic = "gentle meadow core twin relax athlete episode essay dress step provide motor";

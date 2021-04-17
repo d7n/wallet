@@ -1,1 +1,1 @@
-var mnemonic = "grape thumb tongue tuna mountain dad drip banana member design trophy hood";
+var mnemonic = "faint swift damp ahead catalog skirt health neglect process pull idea pizza";

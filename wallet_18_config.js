@@ -1,1 +1,1 @@
-var mnemonic = "humor ball repair reflect average accuse whisper syrup fatal firm unaware fiscal";
+var mnemonic = "verb trap cause rail april camp exit coach produce order adult scorpion";

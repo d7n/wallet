@@ -1,1 +1,1 @@
-var mnemonic = "range way rabbit wedding measure zero clay crime creek better furnace antenna";
+var mnemonic = "virtual drum forward expand wash deal soap alcohol river spell style umbrella";

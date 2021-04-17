@@ -1,1 +1,1 @@
-var mnemonic = "report salmon merry foil canyon dolphin version injury unusual drill pottery cube";
+var mnemonic = "return puppy amazing essay midnight hurdle grant metal mango table champion soldier";

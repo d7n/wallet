@@ -1,1 +1,1 @@
-var mnemonic = "fury damage hour mixed food floor treat animal dwarf ability exist tomorrow";
+var mnemonic = "index hint rocket denial hat calm silly forum foster sphere abuse follow";

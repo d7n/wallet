@@ -1,1 +1,1 @@
-var mnemonic = "decide extra betray theme movie tongue coyote around rescue outer sketch congress";
+var mnemonic = "mansion endless motor wrap one word later fix fiction bar razor mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "solution trumpet wire much seven clerk worry trouble slide flavor save reject";
+var mnemonic = "canyon pudding toilet jar trash power cigar clerk pistol month goddess upper";

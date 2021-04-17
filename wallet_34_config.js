@@ -1,1 +1,1 @@
-var mnemonic = "monitor ride erase strong robot breeze hole abandon hospital west scheme kiss";
+var mnemonic = "history canyon true hole route bachelor employ gossip member bounce liberty scare";

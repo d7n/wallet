@@ -1,1 +1,1 @@
-var mnemonic = "strike turtle fuel dynamic weasel canvas bracket isolate head concert unhappy auction";
+var mnemonic = "cotton improve open eternal holiday boring spread romance feel arm noodle gasp";

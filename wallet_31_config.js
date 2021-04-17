@@ -1,1 +1,1 @@
-var mnemonic = "artwork nuclear glimpse hold merry bitter wash summer exclude bounce drum square";
+var mnemonic = "system shadow slow potato hen chalk winner giggle thing glance fragile transfer";

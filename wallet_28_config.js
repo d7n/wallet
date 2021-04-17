@@ -1,1 +1,1 @@
-var mnemonic = "input receive cabbage hood virus galaxy style ginger buffalo neglect iron act";
+var mnemonic = "october name pink treat thunder art rookie actual dad family vicious horse";

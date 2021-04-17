@@ -1,1 +1,1 @@
-var mnemonic = "anxiety carbon praise rude weapon thrive hood mystery tuition spoon lawn castle";
+var mnemonic = "lock like cabbage impulse mix eyebrow reunion waste turkey device dish fox";

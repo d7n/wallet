@@ -1,1 +1,1 @@
-var mnemonic = "detect clock consider program find spread convince wagon own ready dizzy toilet";
+var mnemonic = "step muffin airport stone lend must ask mutual drink priority purpose collect";

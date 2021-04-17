@@ -1,1 +1,1 @@
-var mnemonic = "help fresh mansion recall husband flip obtain roof cute submit motion assume";
+var mnemonic = "photo capital absorb fossil timber panic chapter destroy expose large powder royal";

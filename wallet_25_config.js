@@ -1,1 +1,1 @@
-var mnemonic = "erupt catch uncle shadow reflect home parrot sell sick success moral cheap";
+var mnemonic = "equal orphan tray clinic business budget found legend duck hollow follow bomb";

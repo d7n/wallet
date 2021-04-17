@@ -1,1 +1,1 @@
-var mnemonic = "scale top during segment language bitter gold little ordinary matrix used theory";
+var mnemonic = "tent lyrics foil company indicate atom what focus that father arch sea";

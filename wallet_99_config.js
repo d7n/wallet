@@ -1,1 +1,1 @@
-var mnemonic = "object cluster witness pattern hard genre pyramid limb damage life globe frown";
+var mnemonic = "vital strike outside hold damage quit rookie video april grass problem step";

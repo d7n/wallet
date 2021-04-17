@@ -1,1 +1,1 @@
-var mnemonic = "unlock mystery right hero resemble marble valve elevator stomach pyramid brisk retreat";
+var mnemonic = "perfect leave task divide walnut panel loan economy cycle swing gravity fresh";

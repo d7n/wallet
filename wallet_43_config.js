@@ -1,1 +1,1 @@
-var mnemonic = "sphere real very pizza deputy deal stuff stick bone chest grief rigid";
+var mnemonic = "coach piece rhythm cage awkward face gym shy domain that extra sting";

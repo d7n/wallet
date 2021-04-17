@@ -1,1 +1,1 @@
-var mnemonic = "mule aim olympic invest talk learn mean cage bunker weekend possible target";
+var mnemonic = "kick laundry cute sketch since collect uncle draft desk express fantasy soul";

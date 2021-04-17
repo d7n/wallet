@@ -1,1 +1,1 @@
-var mnemonic = "increase annual hammer amused federal already thumb trumpet spell govern burst moon";
+var mnemonic = "cruise license deliver attack life silver curious mystery knife theme that own";

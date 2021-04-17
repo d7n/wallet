@@ -1,1 +1,1 @@
-var mnemonic = "hover trick wide agree card proof property business reform memory embody man";
+var mnemonic = "train spoon level normal stool rifle canal surge found acoustic short gadget";

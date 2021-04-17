@@ -1,1 +1,1 @@
-var mnemonic = "tomato assault enlist galaxy giggle frequent taxi palm swim student asset resource";
+var mnemonic = "drum chest news soap curious nation action next cargo file worry dance";

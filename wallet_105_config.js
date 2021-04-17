@@ -1,1 +1,1 @@
-var mnemonic = "practice pulse party blush child loud flush pink empower agree injury file";
+var mnemonic = "payment cart sea uphold brain rotate coil ladder gold shell tray minute";

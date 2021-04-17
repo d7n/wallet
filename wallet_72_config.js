@@ -1,1 +1,1 @@
-var mnemonic = "wire shaft firm web thunder fog can salmon debris lunar erode legal";
+var mnemonic = "beyond sentence nut rigid arrive gospel slight lizard paddle poverty famous wedding";

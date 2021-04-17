@@ -1,1 +1,1 @@
-var mnemonic = "chalk rack equip rose else slot captain harsh apart video ridge nephew";
+var mnemonic = "across oppose unaware federal put immune risk badge foot father hair glue";

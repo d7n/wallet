@@ -1,1 +1,1 @@
-var mnemonic = "final lemon bean remind liberty region armor display choose ill hire alien";
+var mnemonic = "glove limb dumb ginger cruise anger dutch unit much provide void near";

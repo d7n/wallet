@@ -1,1 +1,1 @@
-var mnemonic = "fine sure issue animal into useful open crater orient own bubble renew";
+var mnemonic = "fame curve trophy prepare rapid nerve share upper educate slide trash viable";

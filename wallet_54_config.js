@@ -1,1 +1,1 @@
-var mnemonic = "sad tongue federal size company crime empty material inner excuse february you";
+var mnemonic = "acquire loop comic enable stuff together choice palace shove anchor advice person";

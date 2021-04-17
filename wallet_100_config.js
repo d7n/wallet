@@ -1,1 +1,1 @@
-var mnemonic = "caution fitness little piano erase broccoli gas torch recipe wire discover obscure";
+var mnemonic = "empower slot traffic spring ancient injury gym uphold common trap peace palace";

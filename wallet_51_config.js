@@ -1,1 +1,1 @@
-var mnemonic = "inflict judge stomach boil attract alarm region inquiry own lift dizzy rate";
+var mnemonic = "throw dune job column plate agree fresh drink dry fresh spirit dress";

@@ -1,1 +1,1 @@
-var mnemonic = "service casino piece weather notable fold sleep useful gospel prison news inspire";
+var mnemonic = "lemon mother like chicken they have loop cat sphere toe hotel combine";

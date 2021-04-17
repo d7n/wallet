@@ -1,1 +1,1 @@
-var mnemonic = "great banner pave daughter donate repeat attack foil flee kite gesture voice";
+var mnemonic = "police nurse swear clever sign logic fat insect liar bracket light salad";

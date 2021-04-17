@@ -1,1 +1,1 @@
-var mnemonic = "zebra swim fan announce mercy race hundred climb maximum hand armor inhale";
+var mnemonic = "huge honey demise side gasp walnut wrestle shrimp oxygen young diary grape";

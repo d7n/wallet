@@ -1,1 +1,1 @@
-var mnemonic = "glove output keep caution horn split apology collect educate color still shrug";
+var mnemonic = "fit fish bonus disease drift sleep twenty hidden ill elder service cat";

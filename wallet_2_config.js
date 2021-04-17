@@ -1,1 +1,1 @@
-var mnemonic = "arrow response three response inside town valid drift mesh nasty prize mass";
+var mnemonic = "update execute shadow false plate element social cherry panther flight obscure nice";

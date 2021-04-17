@@ -1,1 +1,1 @@
-var mnemonic = "subway valley spider derive gallery horror course inch physical decade ivory cheese";
+var mnemonic = "ability know empty congress hobby dwarf enhance resemble dignity pear broccoli lava";

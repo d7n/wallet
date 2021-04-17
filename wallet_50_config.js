@@ -1,1 +1,1 @@
-var mnemonic = "scissors scene absent main robot market winter stomach blanket fun unhappy season";
+var mnemonic = "fall sea protect coach task jewel comfort limb weekend grit sunny mom";

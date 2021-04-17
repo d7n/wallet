@@ -1,1 +1,1 @@
-var mnemonic = "vote night canal crowd embrace eight day olympic always swing breeze breeze";
+var mnemonic = "under wonder season female furnace earn army celery arrive jealous image priority";

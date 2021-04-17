@@ -1,1 +1,1 @@
-var mnemonic = "say theory barrel organ enroll cruel leaf wealth culture wine rely extra";
+var mnemonic = "kidney pig regret ready theory river absorb pigeon total method dad radio";
