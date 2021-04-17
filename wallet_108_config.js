@@ -1,1 +1,1 @@
-var mnemonic = "will unfair ocean gaze oak spin wage zero isolate often shadow exit";
+var mnemonic = "ostrich pen latin suggest make main focus melt slender duck curtain ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "coin seven entry grocery club into steak harbor tilt planet fruit dawn";
+var mnemonic = "blush adult pass saddle cave situate note ensure real someone matrix lumber";

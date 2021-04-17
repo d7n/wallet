@@ -1,1 +1,1 @@
-var mnemonic = "become slogan lottery mango foster click mistake own pool future canal transfer";
+var mnemonic = "knee flame toy victory clarify hidden ritual blur rural monitor above giant";

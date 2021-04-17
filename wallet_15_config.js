@@ -1,1 +1,1 @@
-var mnemonic = "aerobic away glance scare cloth planet way change transfer provide budget six";
+var mnemonic = "kangaroo appear palm excess appear ritual venture festival shift smoke choose winner";

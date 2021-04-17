@@ -1,1 +1,1 @@
-var mnemonic = "maze pill demand chalk mobile frog honey chaos monkey grunt guess blouse";
+var mnemonic = "stock dust boost sketch quality health tray hello wrestle armed morning poverty";

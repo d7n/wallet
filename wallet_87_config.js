@@ -1,1 +1,1 @@
-var mnemonic = "foot vivid office urban make stable unaware possible learn episode burden spray";
+var mnemonic = "farm slogan snack oval rally spike protect thought extra float trap skill";

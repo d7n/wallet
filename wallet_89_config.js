@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mimic valve indoor dust permit mom square midnight below worry wolf";
+var mnemonic = "squirrel rose hire bachelor shaft quit garment rude inner math pizza snow";

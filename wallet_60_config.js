@@ -1,1 +1,1 @@
-var mnemonic = "atom soccer defense glance thumb lesson have barrel ship inch lizard transfer";
+var mnemonic = "occur foster gate special quit east cheese crush scare scale round ability";

@@ -1,1 +1,1 @@
-var mnemonic = "swing glove isolate liar banana chaos ugly dilemma arrow clever dentist razor";
+var mnemonic = "century island pet home prosper uncle oxygen festival salon wheel duck isolate";

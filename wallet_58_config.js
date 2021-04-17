@@ -1,1 +1,1 @@
-var mnemonic = "brush female print arrest able toy wall disease useful depend glimpse inspire";
+var mnemonic = "embody glory squeeze despair boring stamp guard dragon merge fatigue pole gossip";

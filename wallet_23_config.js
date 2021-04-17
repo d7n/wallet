@@ -1,1 +1,1 @@
-var mnemonic = "village awful polar job fault begin bullet act visual furnace paper radar";
+var mnemonic = "drift note off print minor cost logic priority stereo artist math fortune";

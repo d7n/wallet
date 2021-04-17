@@ -1,1 +1,1 @@
-var mnemonic = "gather elder open odor clog rotate number glory cage barrel day envelope";
+var mnemonic = "present mad route over monkey grace picture fitness giraffe mutual vault mimic";

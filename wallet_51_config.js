@@ -1,1 +1,1 @@
-var mnemonic = "fix ten orange spoil survey turkey truth armor post mosquito either gain";
+var mnemonic = "movie multiply pulp tail lady man check afford powder patrol model clever";

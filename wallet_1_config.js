@@ -1,1 +1,1 @@
-var mnemonic = "ahead middle strategy proud sniff rotate fatigue zebra give tobacco bulk egg";
+var mnemonic = "orchard grace spy cross unique try grief become rain blossom duty usual";

@@ -1,1 +1,1 @@
-var mnemonic = "frog oval number minimum music sketch merry board beauty hood empower theme";
+var mnemonic = "fuel dial force bread hurt resist warfare very main suffer crew neglect";

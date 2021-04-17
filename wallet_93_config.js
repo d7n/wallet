@@ -1,1 +1,1 @@
-var mnemonic = "uncle crumble prize spike cement mention swamp must pulse proud animal deliver";
+var mnemonic = "crisp solid ostrich flash mom dentist cycle safe alcohol unhappy gallery arrow";

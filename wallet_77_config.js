@@ -1,1 +1,1 @@
-var mnemonic = "time taste omit nest supply load asset raise fold milk august market";
+var mnemonic = "shove quiz desk arm person mobile review run waste void fine skate";

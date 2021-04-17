@@ -1,1 +1,1 @@
-var mnemonic = "lottery stuff heavy neither huge birth decline radar smooth evil stomach tip";
+var mnemonic = "chat super aspect truth you force left van company test hand chair";

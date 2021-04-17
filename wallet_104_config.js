@@ -1,1 +1,1 @@
-var mnemonic = "police liquid response town head excite cream near upon place asset wage";
+var mnemonic = "deal truck topic art focus six media surround arena pool genuine please";

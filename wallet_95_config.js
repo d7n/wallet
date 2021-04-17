@@ -1,1 +1,1 @@
-var mnemonic = "catalog about accident stool pig wink toddler finger media can crucial math";
+var mnemonic = "typical tool ranch student okay violin bullet gorilla beauty midnight caution suggest";

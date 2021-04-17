@@ -1,1 +1,1 @@
-var mnemonic = "plate tornado swallow inflict rice rough wait donor palace similar doctor void";
+var mnemonic = "order chief tuition razor trend shove game joke alarm exit sister path";

@@ -1,1 +1,1 @@
-var mnemonic = "inside gentle atom close vault online one rib soul uniform please kingdom";
+var mnemonic = "spot now pottery couch right exhaust shrimp host shock century point bubble";

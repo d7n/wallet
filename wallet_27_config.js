@@ -1,1 +1,1 @@
-var mnemonic = "bird hamster drive volcano equal blouse regret review brush garlic panther journey";
+var mnemonic = "label mandate fee accuse work inform improve green morning arch describe charge";

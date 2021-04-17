@@ -1,1 +1,1 @@
-var mnemonic = "zero baby grow wage uphold gorilla erase drift economy split hire top";
+var mnemonic = "cycle grace scout trip tenant ribbon gain supply replace club decline fame";

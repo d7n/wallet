@@ -1,1 +1,1 @@
-var mnemonic = "enhance among balcony near other vital author amused embark fortune attend index";
+var mnemonic = "believe flower bachelor side injury wrap trick truth name joke height summer";

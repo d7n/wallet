@@ -1,1 +1,1 @@
-var mnemonic = "secret certain town deposit avocado raven lizard bullet ketchup hobby drill ramp";
+var mnemonic = "will rude saddle foam rule install leg sound spike ill slender dial";

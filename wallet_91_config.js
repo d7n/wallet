@@ -1,1 +1,1 @@
-var mnemonic = "sign pipe final exercise screen glad hedgehog off accuse front fringe month";
+var mnemonic = "type leader dinner wait much baby uncle theme unusual gossip valley easily";

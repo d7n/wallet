@@ -1,1 +1,1 @@
-var mnemonic = "enemy wave cherry icon raise valley august army coil lab dad permit";
+var mnemonic = "donkey noodle submit angry dutch unfair capable earth tenant over volcano success";

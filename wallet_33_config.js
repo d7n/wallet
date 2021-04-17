@@ -1,1 +1,1 @@
-var mnemonic = "loan radar castle spirit midnight avocado alley garlic undo letter diary actor";
+var mnemonic = "mosquito this unaware door income social panther empty world settle token observe";

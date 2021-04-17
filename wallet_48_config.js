@@ -1,1 +1,1 @@
-var mnemonic = "clump neglect tiny october chunk lyrics tenant trigger frog corn craft candy";
+var mnemonic = "glory timber peasant kitchen crazy renew maximum together apart obtain deputy rural";

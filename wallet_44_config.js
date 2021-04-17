@@ -1,1 +1,1 @@
-var mnemonic = "delay area beef monkey daughter brief bread crater author mimic invest elephant";
+var mnemonic = "unveil orange evidence romance solution fancy palm floor elephant army dinosaur access";

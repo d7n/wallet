@@ -1,1 +1,1 @@
-var mnemonic = "name quantum asthma unknown strategy relief payment nuclear fall clock tail matrix";
+var mnemonic = "chef fiction vessel gloom stay crazy busy recall attract vanish park punch";

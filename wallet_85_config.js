@@ -1,1 +1,1 @@
-var mnemonic = "wrong know rhythm ginger gloom kite ancient rule achieve fluid pulp club";
+var mnemonic = "also emerge true lesson knife airport adjust element broken lawn window current";

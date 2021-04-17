@@ -1,1 +1,1 @@
-var mnemonic = "degree crunch section exchange weapon traffic garden have retire civil victory margin";
+var mnemonic = "strong nominee alien choose allow ethics beef extra hair frozen boss wool";

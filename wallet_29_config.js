@@ -1,1 +1,1 @@
-var mnemonic = "leopard warrior stick smile vessel chair caught tuition mushroom tool initial buffalo";
+var mnemonic = "marriage sausage document resource purpose boil observe decline silent miss curve normal";

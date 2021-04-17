@@ -1,1 +1,1 @@
-var mnemonic = "eye matter flee prison bubble tuna need bean angle motor hover thank";
+var mnemonic = "around wagon bacon puppy screen transfer scout universe off fever rally eyebrow";

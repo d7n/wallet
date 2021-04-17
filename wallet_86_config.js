@@ -1,1 +1,1 @@
-var mnemonic = "arrow salute tank adapt exile indicate zebra scrub twin tribe magic certain";
+var mnemonic = "toss truth crunch wire holiday pink hurdle run scare month there position";

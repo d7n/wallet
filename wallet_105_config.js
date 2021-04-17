@@ -1,1 +1,1 @@
-var mnemonic = "twice hole super dizzy annual flower medal own armed speed anger salon";
+var mnemonic = "mouse exercise robust wrestle tree wear shock exotic want detect enter school";

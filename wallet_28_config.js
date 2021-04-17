@@ -1,1 +1,1 @@
-var mnemonic = "drill zebra guide anchor gravity air answer south cliff stereo dinner abuse";
+var mnemonic = "way find morning robust dial inmate taxi arrow fuel rhythm source roast";

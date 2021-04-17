@@ -1,1 +1,1 @@
-var mnemonic = "proof false nuclear above rain move egg target soldier stuff flavor sea";
+var mnemonic = "debate picnic fabric satoshi cinnamon ostrich put egg april act mammal layer";

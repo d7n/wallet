@@ -1,1 +1,1 @@
-var mnemonic = "lucky square domain early piece enroll surface security sell tube modify cigar";
+var mnemonic = "common refuse spoil excite lonely save kiwi catalog route afford mosquito lemon";

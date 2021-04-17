@@ -1,1 +1,1 @@
-var mnemonic = "tag rail you verb frog cross bonus flush estate salad heavy save";
+var mnemonic = "find pioneer panic seven fly saddle shoulder mind kick seven story traffic";

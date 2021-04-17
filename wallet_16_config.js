@@ -1,1 +1,1 @@
-var mnemonic = "woman leisure cruel luggage coral iron pretty dash write absurd broken shoot";
+var mnemonic = "cereal waste magic apology cube offer ribbon wasp sweet knock feed blouse";

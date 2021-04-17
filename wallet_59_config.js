@@ -1,1 +1,1 @@
-var mnemonic = "goddess liberty judge near injury young soldier utility foster bachelor arctic swing";
+var mnemonic = "sorry replace seven lens tilt tail claim kind original wish dune success";

@@ -1,1 +1,1 @@
-var mnemonic = "snap gallery carry loan bench oval modify valley loyal such absent remain";
+var mnemonic = "regular bottom guard word humor skin mushroom enrich grit furnace dutch property";

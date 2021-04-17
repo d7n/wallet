@@ -1,1 +1,1 @@
-var mnemonic = "text muffin crumble robot immune true surprise mango position aware step produce";
+var mnemonic = "human east liar lesson phrase swallow motion penalty knee holiday razor citizen";

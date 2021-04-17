@@ -1,1 +1,1 @@
-var mnemonic = "economy act absent easily person spoil wonder switch chalk warm apart dinner";
+var mnemonic = "wool come basket race sibling arena egg assault modify remember bundle barrel";

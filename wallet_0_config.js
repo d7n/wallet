@@ -1,1 +1,1 @@
-var mnemonic = "catch blue kidney lamp agent dutch angle myth random swarm noodle upset";
+var mnemonic = "grit duck grape dash figure meat pig depend pet good repeat slot";

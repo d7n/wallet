@@ -1,1 +1,1 @@
-var mnemonic = "thought direct album menu today live muffin liberty tuna absurd stairs segment";
+var mnemonic = "tray sniff wash phone build orphan fortune lawsuit artist crack rapid remember";

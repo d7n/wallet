@@ -1,1 +1,1 @@
-var mnemonic = "describe crouch rather sick control glance cute pencil exclude mammal cage unable";
+var mnemonic = "code choice nuclear want better hurt false citizen base file pool mouse";

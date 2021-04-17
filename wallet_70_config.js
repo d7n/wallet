@@ -1,1 +1,1 @@
-var mnemonic = "sun leopard fence stumble piano inflict alter drum magnet north special promote";
+var mnemonic = "attract hill charge enter ensure fan nothing double nephew erode monitor energy";

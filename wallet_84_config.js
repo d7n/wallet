@@ -1,1 +1,1 @@
-var mnemonic = "suspect bottom moral acoustic glare absurd trend setup bone member trouble silver";
+var mnemonic = "unit purpose despair use pigeon range view coil apple woman when hill";

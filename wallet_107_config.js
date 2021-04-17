@@ -1,1 +1,1 @@
-var mnemonic = "sun attend ecology draw add glass fog gossip drift sock winter olympic";
+var mnemonic = "island jar leave identify patch regular sauce glimpse settle object fade above";

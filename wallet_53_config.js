@@ -1,1 +1,1 @@
-var mnemonic = "congress success total nature hover pear retreat math dice exercise negative skill";
+var mnemonic = "section sugar memory address soup fossil mixture game tuna skill family toilet";

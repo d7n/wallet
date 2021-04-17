@@ -1,1 +1,1 @@
-var mnemonic = "only woman step sand destroy exact try essay panther follow scheme owner";
+var mnemonic = "wrong matrix approve shaft warm game super stick hero mom jealous border";

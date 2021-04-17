@@ -1,1 +1,1 @@
-var mnemonic = "urge frequent surface layer dignity believe grant local cry clump divert apple";
+var mnemonic = "dust people twelve leader drink eye raccoon glide vocal six sponsor swing";

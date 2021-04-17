@@ -1,1 +1,1 @@
-var mnemonic = "federal absorb section rent bundle assist debris clown shrimp rifle dial focus";
+var mnemonic = "harbor question fossil town include okay doctor earth diesel danger office essence";

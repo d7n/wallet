@@ -1,1 +1,1 @@
-var mnemonic = "drastic tourist trophy normal north jealous gun theory reason digital polar rate";
+var mnemonic = "sudden bounce bar december amount wing purity casual ridge army frown sunny";

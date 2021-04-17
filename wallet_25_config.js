@@ -1,1 +1,1 @@
-var mnemonic = "cash item unlock satoshi dutch monitor rebel human hurdle combine tilt noise";
+var mnemonic = "bachelor clump uncle throw drive float supreme deputy crop elephant science fossil";

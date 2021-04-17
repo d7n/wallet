@@ -1,1 +1,1 @@
-var mnemonic = "slogan pact drama illness shadow lens together plastic erase rough march creek";
+var mnemonic = "noodle high bless lottery sand height green museum prosper stairs salon bottom";

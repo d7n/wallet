@@ -1,1 +1,1 @@
-var mnemonic = "coil major find observe artefact expire camera rifle private scatter mixed success";
+var mnemonic = "annual mention mushroom electric cage bridge excuse bar under outdoor unit pact";

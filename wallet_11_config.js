@@ -1,1 +1,1 @@
-var mnemonic = "bullet cupboard shrug spirit trade own heart hero nose fit deposit alien";
+var mnemonic = "gentle bone latin suit crew remain ecology river movie add banana sudden";

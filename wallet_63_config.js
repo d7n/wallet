@@ -1,1 +1,1 @@
-var mnemonic = "organ razor hotel media warm sausage vehicle solar security avoid shed between";
+var mnemonic = "expect blame palace spoil recall unknown unhappy casual cat village peasant impact";

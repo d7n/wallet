@@ -1,1 +1,1 @@
-var mnemonic = "nasty mother today morning bright plate hurdle toss ostrich man give abandon";
+var mnemonic = "foil scissors cruel lunar chronic miracle embody exact arrest nut pony betray";

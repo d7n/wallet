@@ -1,1 +1,1 @@
-var mnemonic = "midnight bridge inform arrive grief then powder blanket release joy rebuild such";
+var mnemonic = "beyond hospital virus digital rough enact tank scissors caution food wait note";

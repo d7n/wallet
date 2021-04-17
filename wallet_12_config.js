@@ -1,1 +1,1 @@
-var mnemonic = "stove glimpse rail feed divide bamboo fiber special document private dinner confirm";
+var mnemonic = "world supply owner toward civil lawn fancy pipe ski ready client submit";

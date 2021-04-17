@@ -1,1 +1,1 @@
-var mnemonic = "leopard planet rely rain bid clap oil rally october bachelor alter enact";
+var mnemonic = "canoe suggest thank quiz isolate joke vapor accident doctor betray work throw";

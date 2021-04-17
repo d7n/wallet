@@ -1,1 +1,1 @@
-var mnemonic = "sunset theory joke neck dwarf element lion nothing wet post forget reward";
+var mnemonic = "output either spoil artist lunch hood strong delay record this fabric embody";

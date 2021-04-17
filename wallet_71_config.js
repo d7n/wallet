@@ -1,1 +1,1 @@
-var mnemonic = "impact harsh face better argue glance increase donkey flag stable detail hello";
+var mnemonic = "concert sell sentence arrest stuff deposit comfort decorate kiwi depth proof curious";

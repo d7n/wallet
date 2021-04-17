@@ -1,1 +1,1 @@
-var mnemonic = "always crumble palm evoke blouse iron basket divorce type enable month crime";
+var mnemonic = "permit menu unfold label quick spell minor payment tail render helmet crane";

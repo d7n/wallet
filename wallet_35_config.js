@@ -1,1 +1,1 @@
-var mnemonic = "method wealth enforce garlic join spice talk decrease lock number alien piece";
+var mnemonic = "toss base phrase idle oil hover wealth invest scare decrease sugar brass";

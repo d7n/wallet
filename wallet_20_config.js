@@ -1,1 +1,1 @@
-var mnemonic = "claw wagon slice member chaos split marriage empower tooth ability position tool";
+var mnemonic = "win carry long share leader swallow master approve sponsor toy miss satoshi";

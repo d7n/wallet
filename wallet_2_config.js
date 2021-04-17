@@ -1,1 +1,1 @@
-var mnemonic = "evoke expect globe ladder east you orphan collect flock hard zoo version";
+var mnemonic = "grape another derive angle depend master turn arena action giant book kind";

@@ -1,1 +1,1 @@
-var mnemonic = "shove arrive force limb half shop real disorder cry whale whisper local";
+var mnemonic = "bounce inch walk glow unable calm elite horn trick section express prevent";

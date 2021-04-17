@@ -1,1 +1,1 @@
-var mnemonic = "sunny sauce exotic worth object item dog duty pattern climb twin strategy";
+var mnemonic = "kidney recycle bright battle library bag dwarf cactus liar step celery soccer";

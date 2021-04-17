@@ -1,1 +1,1 @@
-var mnemonic = "flee lunch hundred venture actor chronic miracle palace render habit traffic tent";
+var mnemonic = "reform safe lend stand monkey recipe aunt chaos brisk horn evoke exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess disease false action inject local swamp transfer join ladder tag raccoon";
+var mnemonic = "educate flock cloth police auto oppose term august lift patrol next all";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur term web hurt cancel nuclear village shrimp test legend expand evil";
+var mnemonic = "garbage pupil image mesh cotton weasel old apple spoil degree game fall";

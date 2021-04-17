@@ -1,1 +1,1 @@
-var mnemonic = "crew census genre festival fence hammer admit uncover essence veteran business cinnamon";
+var mnemonic = "rough disease catch cat ugly clump nurse distance matter also spoil reveal";

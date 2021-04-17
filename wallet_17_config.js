@@ -1,1 +1,1 @@
-var mnemonic = "emotion crater enact add make rocket maximum layer quantum cost sure material";
+var mnemonic = "picnic tired swift foster dwarf shy cycle congress april popular soda brush";

@@ -1,1 +1,1 @@
-var mnemonic = "wool range cliff session trim napkin aware enrich party rain hamster agree";
+var mnemonic = "festival edge giggle practice start fuel brief number repair grief combine margin";

@@ -1,1 +1,1 @@
-var mnemonic = "skill neck live party media thought clown nice caution wagon lyrics until";
+var mnemonic = "achieve october ankle field aim useful manual baby alcohol diagram original early";

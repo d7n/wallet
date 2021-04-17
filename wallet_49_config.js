@@ -1,1 +1,1 @@
-var mnemonic = "sword warrior army canvas six hour speed hand half illness kite find";
+var mnemonic = "setup ring same outdoor tree success custom smile three any estate enforce";

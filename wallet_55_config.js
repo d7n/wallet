@@ -1,1 +1,1 @@
-var mnemonic = "robust seven flock express thank author health leopard loop robust embody mention";
+var mnemonic = "noodle amateur best owner wheat seat claim twice hobby mango luxury clip";
