@@ -1,1 +1,1 @@
-var mnemonic = "suffer erosion flower text palace rigid observe mirror option name wink poet";
+var mnemonic = "shoulder season have edit basic inflict bomb fever crime viable kiss color";

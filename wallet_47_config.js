@@ -1,1 +1,1 @@
-var mnemonic = "ostrich broom daughter voice apple sound elephant violin rule picture muscle table";
+var mnemonic = "host glide book key hotel loan mistake fatigue spread guard oyster claim";

@@ -1,1 +1,1 @@
-var mnemonic = "crush banner kite identify hire bread myth anchor code north capable test";
+var mnemonic = "area broccoli bind flip glory cross album organ bridge expect large enable";

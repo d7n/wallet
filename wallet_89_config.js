@@ -1,1 +1,1 @@
-var mnemonic = "rotate below nurse bottom pause sustain vital edge disorder pulse input jeans";
+var mnemonic = "million flee under blossom steel volcano left fatal always angry sense auto";

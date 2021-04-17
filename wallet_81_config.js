@@ -1,1 +1,1 @@
-var mnemonic = "park visa that witness bicycle observe magnet nose panic industry this video";
+var mnemonic = "exchange glimpse oyster couple shock priority oyster summer three margin rule unit";

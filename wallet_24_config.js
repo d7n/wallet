@@ -1,1 +1,1 @@
-var mnemonic = "clip reopen code tomato there scissors bullet peasant salad hunt fine beef";
+var mnemonic = "abandon parent once evoke close middle letter leg lonely hood lounge gun";

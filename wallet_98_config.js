@@ -1,1 +1,1 @@
-var mnemonic = "pass scrap course axis hollow want acid number attract mirror empower any";
+var mnemonic = "mask hockey fury broken dynamic fat pistol jungle joke word flame because";

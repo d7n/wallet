@@ -1,1 +1,1 @@
-var mnemonic = "very meadow rather route south orchard enhance find laptop input gallery truck";
+var mnemonic = "december hello market shoot speed often involve road elephant token report primary";

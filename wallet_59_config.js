@@ -1,1 +1,1 @@
-var mnemonic = "boat oven knee rebuild exact jazz mean venue health identify drill silent";
+var mnemonic = "topple dilemma team force logic number cousin entire latin shallow measure bachelor";

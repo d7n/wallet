@@ -1,1 +1,1 @@
-var mnemonic = "engage relief fury runway topple win have sense glory rack fee fit";
+var mnemonic = "meadow donkey under cream blame place garbage shock song pig envelope attract";

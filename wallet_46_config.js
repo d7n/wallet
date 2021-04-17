@@ -1,1 +1,1 @@
-var mnemonic = "lamp congress amateur peanut mass twenty basic clean force tissue denial chicken";
+var mnemonic = "round royal drive surge lesson exotic satoshi boat image vital apple chase";

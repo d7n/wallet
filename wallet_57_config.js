@@ -1,1 +1,1 @@
-var mnemonic = "forum liquid trap parent traffic cube notable clog mixture analyst weapon shop";
+var mnemonic = "elbow below inch grab chase jaguar tornado sense man wide spike smile";

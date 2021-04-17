@@ -1,1 +1,1 @@
-var mnemonic = "already fossil blush doctor creek picnic office tumble loan swift peasant chicken";
+var mnemonic = "amount humor better crucial sentence coast monkey iron media acquire flame enrich";

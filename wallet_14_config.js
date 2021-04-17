@@ -1,1 +1,1 @@
-var mnemonic = "omit fury suggest private illness fresh sustain entire coral unhappy library turn";
+var mnemonic = "absurd approve host stage sponsor bid test close three list coin hockey";

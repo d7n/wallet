@@ -1,1 +1,1 @@
-var mnemonic = "blush giraffe surge unusual author catalog twelve remind december recall floor luxury";
+var mnemonic = "woman inner sun trophy pyramid story proof conduct quiz stamp system laptop";

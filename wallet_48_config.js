@@ -1,1 +1,1 @@
-var mnemonic = "lonely lava they unlock outdoor kitchen initial other nice together orbit marble";
+var mnemonic = "extend motor width deer bird purchase arrow quantum over learn please vacuum";

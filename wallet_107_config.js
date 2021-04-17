@@ -1,1 +1,1 @@
-var mnemonic = "panic fatal lens promote shoot negative honey floor oyster foot dirt street";
+var mnemonic = "knock treat garden valve ugly under melt hurdle glow become wine below";

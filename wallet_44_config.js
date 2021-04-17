@@ -1,1 +1,1 @@
-var mnemonic = "unable soup chaos chalk load gorilla insane will exist wine motion ridge";
+var mnemonic = "thrive usage battle reunion fiber check mask cherry deliver run snow payment";

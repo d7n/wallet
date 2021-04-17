@@ -1,1 +1,1 @@
-var mnemonic = "nephew empty radio tired tomorrow hybrid yellow author lava trick nominee deal";
+var mnemonic = "borrow dragon notable fatigue trumpet defy flavor entry want twenty profit toast";

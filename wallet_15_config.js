@@ -1,1 +1,1 @@
-var mnemonic = "tragic label silly shift devote economy clog amateur develop list pledge alone";
+var mnemonic = "swap stage emotion announce clinic kitchen stove iron useful under minimum mother";

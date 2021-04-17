@@ -1,1 +1,1 @@
-var mnemonic = "arrive joy dirt have other park question evoke fade work enforce remember";
+var mnemonic = "organ crop tonight body since distance diary spatial climb drive patrol loop";

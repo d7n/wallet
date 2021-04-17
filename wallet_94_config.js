@@ -1,1 +1,1 @@
-var mnemonic = "divide junk pyramid resource aisle proof private weapon nuclear episode champion myth";
+var mnemonic = "vicious lumber rate coin balance truck write wool hungry become rookie time";

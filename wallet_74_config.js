@@ -1,1 +1,1 @@
-var mnemonic = "bright few tree enter crisp myself voice cheese debris grace garlic flip";
+var mnemonic = "dumb retreat picture tide embark apart discover develop shadow brick column sail";

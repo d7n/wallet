@@ -1,1 +1,1 @@
-var mnemonic = "filter quantum movie say laptop swim pause eye average abuse action pear";
+var mnemonic = "that visual fancy aware tilt bind primary document awesome swap curve devote";

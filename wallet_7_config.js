@@ -1,1 +1,1 @@
-var mnemonic = "cheap thing ride slogan run modify baby choice dignity push dial mosquito";
+var mnemonic = "urge opinion entry sick adapt law fade menu raven hire book leg";

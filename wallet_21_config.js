@@ -1,1 +1,1 @@
-var mnemonic = "favorite disease update rifle disease pride hub empty lawn thrive snow allow";
+var mnemonic = "often label flock portion exercise stairs climb barrel evoke upset smart tube";

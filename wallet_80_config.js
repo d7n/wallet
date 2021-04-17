@@ -1,1 +1,1 @@
-var mnemonic = "point witness cause film hidden collect smooth achieve eagle concert minimum wire";
+var mnemonic = "pole shaft balcony scout give mandate ugly danger crew shove eternal patient";

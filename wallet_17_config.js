@@ -1,1 +1,1 @@
-var mnemonic = "dust panel erase dose dentist wheel wool soul sibling position drive bracket";
+var mnemonic = "glad snap dad disagree glad round ski cloud hello wrap gain pupil";

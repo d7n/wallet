@@ -1,1 +1,1 @@
-var mnemonic = "awful describe icon charge month buzz camera plug pig gadget stadium during";
+var mnemonic = "idle term ladder weather mandate diamond salute claw budget unaware where chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion rice already curtain teach target focus south job parrot spoil promote";
+var mnemonic = "prize range wrong cart brave evoke split lawn punch envelope stone razor";

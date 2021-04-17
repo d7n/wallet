@@ -1,1 +1,1 @@
-var mnemonic = "coast depart earth pond great ankle kite clutch hidden school net crime";
+var mnemonic = "latin essence enlist caught reason ivory erosion sunny knife miracle cloud divert";

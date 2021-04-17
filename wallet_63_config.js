@@ -1,1 +1,1 @@
-var mnemonic = "enact sudden expect video add music extend deal surprise detect clump slab";
+var mnemonic = "hover inside domain clog airport august other door crouch exhibit basket fatigue";

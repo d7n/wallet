@@ -1,1 +1,1 @@
-var mnemonic = "same alien slot fashion stock doctor push pool public narrow arrest van";
+var mnemonic = "tobacco faculty series height lift trumpet pact fox usage candy jungle alert";

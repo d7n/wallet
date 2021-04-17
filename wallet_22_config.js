@@ -1,1 +1,1 @@
-var mnemonic = "story maze need among speed sheriff shed canvas gold veteran similar job";
+var mnemonic = "review mistake boost crawl victory sketch better knock alien type suit album";

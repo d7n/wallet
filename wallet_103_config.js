@@ -1,1 +1,1 @@
-var mnemonic = "cloud drip police health ostrich material any spell opinion protect victory win";
+var mnemonic = "lock pink run happy problem there addict box penalty fossil school concert";

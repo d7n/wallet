@@ -1,1 +1,1 @@
-var mnemonic = "position mule point dune tuition spice traffic destroy column bronze access during";
+var mnemonic = "intact coin joke utility marriage region pudding loud obey hip bus glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal adapt pluck exclude keen duck eyebrow artefact filter fabric valley arctic";
+var mnemonic = "remember never clog enact beach aunt midnight unveil worry chalk youth loud";

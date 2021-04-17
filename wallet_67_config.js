@@ -1,1 +1,1 @@
-var mnemonic = "amateur merry bulb ghost brand chuckle refuse bid silly ready cabbage helmet";
+var mnemonic = "web digital cargo blame blouse tired clarify junior model that lounge decline";

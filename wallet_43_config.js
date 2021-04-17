@@ -1,1 +1,1 @@
-var mnemonic = "dynamic author together symbol drill dumb film fantasy ribbon problem lazy horn";
+var mnemonic = "boring enter visit quick quit trophy miracle castle erase winner human lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "boost scrub odor popular chase stereo ketchup song device seminar pattern true";
+var mnemonic = "imitate strategy twice enable disease mushroom detail gift firm duty develop weapon";

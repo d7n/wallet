@@ -1,1 +1,1 @@
-var mnemonic = "glad coyote cup venture chat base sausage start simple endorse live swift";
+var mnemonic = "picture brain spell make inform orient mechanic impose horn resource risk able";

@@ -1,1 +1,1 @@
-var mnemonic = "crash master write okay dish sunny innocent panda visa stay math gown";
+var mnemonic = "capital duty solution topple night cheap opinion expand remove summer column pudding";

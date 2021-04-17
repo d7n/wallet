@@ -1,1 +1,1 @@
-var mnemonic = "witness venue steel process add index total filter forest bounce decrease real";
+var mnemonic = "timber hurdle candy call young rude hard tell shine calm surprise special";

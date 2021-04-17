@@ -1,1 +1,1 @@
-var mnemonic = "fork shield busy oyster bottom brief helmet nut cart vacant world dirt";
+var mnemonic = "powder fit metal library excuse spread fatigue example devote snow claw loud";

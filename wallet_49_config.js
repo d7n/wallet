@@ -1,1 +1,1 @@
-var mnemonic = "cousin gentle banner bird effort clog winter remember crop like renew ahead";
+var mnemonic = "firm busy figure shallow skull copper change wall season husband enforce false";

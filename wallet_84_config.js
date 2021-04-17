@@ -1,1 +1,1 @@
-var mnemonic = "imitate test drill gasp close kidney rough obey double genuine rate toilet";
+var mnemonic = "water dash chimney fox when banner busy lazy impact spider then reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "scare glad nest black very stem royal raise pave enforce practice jelly";
+var mnemonic = "husband warfare burden fork basket shine amateur relax foil sketch craft gentle";

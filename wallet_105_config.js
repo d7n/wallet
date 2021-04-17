@@ -1,1 +1,1 @@
-var mnemonic = "tobacco rival indicate oven bonus select beef onion field broom false garlic";
+var mnemonic = "suspect clay original same arrange good box pledge urge divert million speed";

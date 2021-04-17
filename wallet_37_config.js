@@ -1,1 +1,1 @@
-var mnemonic = "joy engine dance royal auction cat club field air wire title clarify";
+var mnemonic = "motor true setup puppy noble robust assault fog liar label approve matter";

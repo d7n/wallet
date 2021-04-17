@@ -1,1 +1,1 @@
-var mnemonic = "dash account remove february stool train rule holiday luxury twin bag entire";
+var mnemonic = "hole aisle rough total kingdom calm profit tooth bright purse opinion vibrant";

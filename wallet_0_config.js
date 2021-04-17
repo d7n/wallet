@@ -1,1 +1,1 @@
-var mnemonic = "labor fragile mimic injury funny amused almost caught blouse argue gesture over";
+var mnemonic = "faith end open maid volcano sense dance onion suit invest physical grass";

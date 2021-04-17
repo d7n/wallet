@@ -1,1 +1,1 @@
-var mnemonic = "elegant soccer gap narrow climb ceiling family brick sibling matter walnut fire";
+var mnemonic = "divert soon enlist dad scan hover person neutral laundry can coil eyebrow";

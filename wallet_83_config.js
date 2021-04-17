@@ -1,1 +1,1 @@
-var mnemonic = "sample ahead prize virtual resource melody trouble boring news bottom calm upgrade";
+var mnemonic = "zone indoor palace cause alert elder ecology gravity double clown lizard ceiling";

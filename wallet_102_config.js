@@ -1,1 +1,1 @@
-var mnemonic = "brush duty thunder cup kangaroo describe fat group cotton purpose access mad";
+var mnemonic = "shadow kangaroo task mistake lobster system coral limit admit excess unknown infant";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen hawk public amount deliver exhibit stock verify expire steel carry adapt";
+var mnemonic = "mean answer cup spirit noble utility imitate kiwi usage average between worry";

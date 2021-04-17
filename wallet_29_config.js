@@ -1,1 +1,1 @@
-var mnemonic = "fine canal close disorder affair eye obey unable knife hole place zero";
+var mnemonic = "shrug claw rescue aisle earth armor reason message seed curious tunnel universe";

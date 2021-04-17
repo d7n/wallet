@@ -1,1 +1,1 @@
-var mnemonic = "vivid desert tongue domain episode wage wasp error ethics snake blade guide";
+var mnemonic = "list cake soon admit sister worry portion fork suffer alley busy panic";

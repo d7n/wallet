@@ -1,1 +1,1 @@
-var mnemonic = "trip burger special attend scale autumn upgrade destroy sheriff job law antique";
+var mnemonic = "joke cheese calm reveal action correct crash vendor february island prison start";

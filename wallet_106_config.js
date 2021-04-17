@@ -1,1 +1,1 @@
-var mnemonic = "mother shock youth wait obvious lift pretty already kiwi gate travel trick";
+var mnemonic = "lottery slush plug use police truth cost expire finger swift hedgehog error";

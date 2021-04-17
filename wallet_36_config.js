@@ -1,1 +1,1 @@
-var mnemonic = "silver cook rival clean virtual two neglect photo west science hello badge";
+var mnemonic = "age into yellow boat bone iron viable drink banana travel lock valley";

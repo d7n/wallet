@@ -1,1 +1,1 @@
-var mnemonic = "toast network cousin student double under bar describe spider praise diary soap";
+var mnemonic = "buzz unusual under zoo logic exact soft make dress alert other race";

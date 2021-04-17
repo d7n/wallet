@@ -1,1 +1,1 @@
-var mnemonic = "always vessel build talk process oppose vibrant state refuse pipe modify palace";
+var mnemonic = "betray island lounge antenna poet ship sphere ready nice fabric version basic";

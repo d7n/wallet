@@ -1,1 +1,1 @@
-var mnemonic = "then stumble amateur hospital brother camp ozone shrug hurt warfare appear weekend";
+var mnemonic = "differ economy treat jar rule cost coyote dance sting crush vital strike";

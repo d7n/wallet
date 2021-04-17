@@ -1,1 +1,1 @@
-var mnemonic = "acid today mechanic top citizen illness damp innocent tent lonely cube ketchup";
+var mnemonic = "destroy wall artefact spy finish cereal occur share fabric salmon picnic perfect";

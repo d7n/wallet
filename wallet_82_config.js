@@ -1,1 +1,1 @@
-var mnemonic = "school magnet about pool exercise puppy text fame mix repeat bike brain";
+var mnemonic = "castle palm alien green situate student virus master trick mix acid armor";

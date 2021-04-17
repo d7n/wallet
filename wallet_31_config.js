@@ -1,1 +1,1 @@
-var mnemonic = "weekend muffin extend dismiss solar cigar rack night art fancy title length";
+var mnemonic = "end payment drill vanish utility bracket repeat chimney purity host have lesson";

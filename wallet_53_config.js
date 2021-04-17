@@ -1,1 +1,1 @@
-var mnemonic = "fringe gym menu siege simple marine junior tourist fall market cancel captain";
+var mnemonic = "exercise assume bunker work neutral tent edge speed turkey devote crack when";

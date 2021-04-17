@@ -1,1 +1,1 @@
-var mnemonic = "odor pilot option rookie tiger sure step rather peasant rhythm surface demand";
+var mnemonic = "student child section happy vibrant lonely enforce session clock mobile avoid segment";

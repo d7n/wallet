@@ -1,1 +1,1 @@
-var mnemonic = "stereo script quote youth flavor large cabin list payment hold blood entire";
+var mnemonic = "worry duty ecology addict swallow wolf solar brush range tank merry narrow";

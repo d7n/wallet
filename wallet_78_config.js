@@ -1,1 +1,1 @@
-var mnemonic = "feed error wealth dilemma unhappy math never upper head subject ethics short";
+var mnemonic = "pyramid hood member pause you tortoise bounce put weather slender record assume";

@@ -1,1 +1,1 @@
-var mnemonic = "impact arrive female hire exact toilet stay claw famous day hunt same";
+var mnemonic = "hub absurd square path girl spend recycle job million faculty muscle depend";

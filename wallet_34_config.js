@@ -1,1 +1,1 @@
-var mnemonic = "jeans buzz type swear trip chef kiwi purpose minor unit island twin";
+var mnemonic = "large agree critic arctic discover wing still pet differ extra easily sense";

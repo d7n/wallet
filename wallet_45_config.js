@@ -1,1 +1,1 @@
-var mnemonic = "rival black salmon someone trim loud exchange board act review trial phrase";
+var mnemonic = "trash inherit grit change hill acoustic worth symbol wrap adult apple detail";

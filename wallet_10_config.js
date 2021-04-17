@@ -1,1 +1,1 @@
-var mnemonic = "crane feature throw laptop gain couple dose blur base device stairs resist";
+var mnemonic = "aware mail satoshi there autumn fee safe rural notice ankle plunge hint";

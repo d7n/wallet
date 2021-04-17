@@ -1,1 +1,1 @@
-var mnemonic = "favorite ethics priority advance brush flee screen rail abandon indicate glide subway";
+var mnemonic = "artwork cigar bracket horror onion material annual pelican rubber concert tip senior";

@@ -1,1 +1,1 @@
-var mnemonic = "close average seek loud swarm tiger base crumble winter else thank fun";
+var mnemonic = "rally motion identify senior rent timber eight describe hood file snap pool";

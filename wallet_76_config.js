@@ -1,1 +1,1 @@
-var mnemonic = "floor ready blood coconut puppy reopen crew decide balcony plate science coral";
+var mnemonic = "also noodle radar menu regular erosion reward web van need lucky six";

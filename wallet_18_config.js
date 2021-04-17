@@ -1,1 +1,1 @@
-var mnemonic = "grain say finger agent cry all resource sorry ribbon early weather start";
+var mnemonic = "gap club stairs high boat feature deputy monkey conduct sketch utility toy";

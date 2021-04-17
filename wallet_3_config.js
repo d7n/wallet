@@ -1,1 +1,1 @@
-var mnemonic = "boy very neck promote camera feel behave cage journey family tennis clean";
+var mnemonic = "weasel fatal tower pool talk tape vital obey behind rice bonus shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo mercy marriage image light risk lunar craft wealth swift defense flower";
+var mnemonic = "portion raccoon blossom neglect ordinary drive noble idle road turkey promote scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "joke seminar glass purse build green flower live arena normal riot rural";
+var mnemonic = "liberty curious always intact ladder fork siege pretty cigar food anger thrive";

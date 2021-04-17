@@ -1,1 +1,1 @@
-var mnemonic = "finger aware outside slab trim alarm program mimic flip fringe beach issue";
+var mnemonic = "survey stay retreat sock abuse search head garage nation scissors siren glimpse";

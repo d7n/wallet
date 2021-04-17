@@ -1,1 +1,1 @@
-var mnemonic = "scorpion gaze provide around feature duty napkin load fix leader hold conduct";
+var mnemonic = "circle price volume weird milk noise book renew camera topple legal mix";

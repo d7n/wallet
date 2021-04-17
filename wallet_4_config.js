@@ -1,1 +1,1 @@
-var mnemonic = "million pilot ill pause method leisure winter island wrap sponsor sudden drama";
+var mnemonic = "speed audit country found minimum leg stamp grant tail black cave rail";

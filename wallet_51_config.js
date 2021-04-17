@@ -1,1 +1,1 @@
-var mnemonic = "social visit copper film element light tuna sick lunar please labor style";
+var mnemonic = "price flame valve close salt owner ethics mother bean pistol quiz help";
