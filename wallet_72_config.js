@@ -1,1 +1,1 @@
-var mnemonic = "cross motor toddler picture trophy charge hurry parent whip genuine pole unable";
+var mnemonic = "impose cloud balance wrap eight army skull toddler boss dignity relief jewel";

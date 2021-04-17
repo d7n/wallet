@@ -1,1 +1,1 @@
-var mnemonic = "eight perfect oyster rifle report inner dragon blind chase catch mixed poet";
+var mnemonic = "estate cigar nice silly liquid curious output today creek caught junk simple";

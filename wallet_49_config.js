@@ -1,1 +1,1 @@
-var mnemonic = "average stamp wish job worth arm rather script tower issue tomato spread";
+var mnemonic = "laugh toe guilt film danger bunker repair run quit connect abstract journey";

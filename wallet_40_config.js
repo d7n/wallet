@@ -1,1 +1,1 @@
-var mnemonic = "jar member assume occur wagon weird daughter original solid more daughter photo";
+var mnemonic = "smooth you arrow shine donate flip legend donate indoor access fun stage";

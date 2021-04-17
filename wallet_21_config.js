@@ -1,1 +1,1 @@
-var mnemonic = "proof put orchard later rescue romance canal until run jungle orbit asthma";
+var mnemonic = "laugh almost drift dutch please nasty they because repeat option evolve twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "merit hurt funny hope involve smile say fix fatigue bridge ignore rocket";
+var mnemonic = "urban alcohol sugar two wait column harsh base release such junior tortoise";

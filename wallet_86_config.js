@@ -1,1 +1,1 @@
-var mnemonic = "junior original unhappy entry kitchen naive fiction multiply mountain vital thunder donor";
+var mnemonic = "energy sword spell april cool country mosquito search shift virtual salmon abstract";

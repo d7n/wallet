@@ -1,1 +1,1 @@
-var mnemonic = "street focus fine sunset brush present purpose multiply true help service stomach";
+var mnemonic = "chunk hawk crouch furnace stomach achieve harsh gospel small festival mutual flash";

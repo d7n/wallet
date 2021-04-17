@@ -1,1 +1,1 @@
-var mnemonic = "funny banner valid blanket lumber group cry silent kick maid later wild";
+var mnemonic = "flush actor luxury benefit river eternal ankle panel music wrist damage address";

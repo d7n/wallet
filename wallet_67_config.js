@@ -1,1 +1,1 @@
-var mnemonic = "derive foam pair claim purse mechanic stem finger trust transfer omit vague";
+var mnemonic = "excess plastic fatal boat choose earth error tenant move kangaroo kite arrest";

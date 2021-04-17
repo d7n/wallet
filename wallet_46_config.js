@@ -1,1 +1,1 @@
-var mnemonic = "deny soft hospital useless muscle suspect desk update agree business gym noise";
+var mnemonic = "kit bone deny system story artefact limb chronic crime simple year napkin";

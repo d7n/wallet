@@ -1,1 +1,1 @@
-var mnemonic = "math laptop smile camera lecture monkey trade mirror web bitter deliver audit";
+var mnemonic = "uncle scheme job toward fashion pond couch boat client frown bamboo animal";

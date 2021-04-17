@@ -1,1 +1,1 @@
-var mnemonic = "fall earn tissue south lonely camp vacant digital coffee absorb harbor coil";
+var mnemonic = "connect chimney salad march flee range jelly nice derive birth vacuum divide";

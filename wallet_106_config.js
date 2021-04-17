@@ -1,1 +1,1 @@
-var mnemonic = "hill thumb there review capital stamp super cute height hawk excite scorpion";
+var mnemonic = "thank rug rotate tail text village hair border own unfold admit aim";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk identify keen emerge online cinnamon antenna tumble worry guitar era magnet";
+var mnemonic = "captain point hat turtle oppose scheme giant panther employ maid degree paddle";

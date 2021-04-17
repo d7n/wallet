@@ -1,1 +1,1 @@
-var mnemonic = "scene hover mother desert jazz boost recall private woman price pupil fall";
+var mnemonic = "puppy video work keen leg minute spin nominee small baby below reopen";

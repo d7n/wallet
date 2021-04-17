@@ -1,1 +1,1 @@
-var mnemonic = "build method curtain traffic among feed health expand lazy hurdle abandon old";
+var mnemonic = "electric tired addict travel glory install journey unfold net item memory near";

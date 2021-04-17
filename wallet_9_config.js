@@ -1,1 +1,1 @@
-var mnemonic = "subject reason burden tonight canal access water quiz quick load donor key";
+var mnemonic = "copper riot fatal service axis usual alcohol same present delay chest tackle";

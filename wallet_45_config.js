@@ -1,1 +1,1 @@
-var mnemonic = "rabbit draft popular civil weekend scan coach ridge flavor brown key flee";
+var mnemonic = "weekend purity burst style guess flavor surround boil inch lounge opera tuition";

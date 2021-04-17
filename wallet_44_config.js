@@ -1,1 +1,1 @@
-var mnemonic = "nut position album route permit attend equal great deliver grunt treat photo";
+var mnemonic = "play peasant tree giggle thumb expire echo reveal mirror multiply sphere scrub";

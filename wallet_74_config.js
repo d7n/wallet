@@ -1,1 +1,1 @@
-var mnemonic = "extra hour cat problem nuclear firm churn melody dust core process oval";
+var mnemonic = "fury treat focus orphan coach base embody square tornado stove garlic fatal";

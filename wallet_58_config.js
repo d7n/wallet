@@ -1,1 +1,1 @@
-var mnemonic = "awful whale surprise jeans curious squirrel cross speed gesture salad visa blouse";
+var mnemonic = "domain home utility head assault weasel purpose grow genre enforce oven fold";

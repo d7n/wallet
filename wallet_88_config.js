@@ -1,1 +1,1 @@
-var mnemonic = "problem opinion sense convince elevator radar robust bachelor add leave trouble fever";
+var mnemonic = "imitate current collect gain educate bind judge panic celery glad special ability";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead swim wrap puzzle art gate parrot loud benefit caught rookie fiber";
+var mnemonic = "spend maid wait disease whip army pupil village crucial execute sweet usage";

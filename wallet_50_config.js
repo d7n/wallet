@@ -1,1 +1,1 @@
-var mnemonic = "upon lawn fox canal snow retire blur put sleep material opera glue";
+var mnemonic = "coil quantum era jar author mind erosion jungle convince poet coin flame";

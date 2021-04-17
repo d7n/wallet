@@ -1,1 +1,1 @@
-var mnemonic = "mail peanut proof give bounce grow ask advance option exhibit copper item";
+var mnemonic = "busy fiscal shoe become dust mandate regret run mystery manage stock remember";

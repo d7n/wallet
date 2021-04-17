@@ -1,1 +1,1 @@
-var mnemonic = "betray sunset half east burst crash giraffe enlist just pistol item bag";
+var mnemonic = "magnet place silk gasp make exercise hen rubber food february leave syrup";

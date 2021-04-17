@@ -1,1 +1,1 @@
-var mnemonic = "brush bulb woman life zoo erupt history zoo never boost sort lens";
+var mnemonic = "shrug collect inflict lesson fiction achieve smile camera bring forget leave raccoon";

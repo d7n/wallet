@@ -1,1 +1,1 @@
-var mnemonic = "device label cricket over relief exercise volcano menu uniform sword gravity vault";
+var mnemonic = "demand foster shell purchase point credit trophy jungle present ahead this liar";

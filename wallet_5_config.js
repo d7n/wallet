@@ -1,1 +1,1 @@
-var mnemonic = "wing nature deer rigid fabric love hope elegant toilet bamboo wrong slow";
+var mnemonic = "allow lend unit dirt govern blue food sense fatal cram slogan that";

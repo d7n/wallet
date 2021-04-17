@@ -1,1 +1,1 @@
-var mnemonic = "month own barrel shallow auto reunion acoustic verb neither fashion wood scene";
+var mnemonic = "illness decide wrist web lawn connect female puppy ten food toss trigger";

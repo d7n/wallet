@@ -1,1 +1,1 @@
-var mnemonic = "yard cycle boss ride dune stay phrase bike myth type deny volume";
+var mnemonic = "rich lock force spin inner grocery siren prevent version mirror diary pudding";

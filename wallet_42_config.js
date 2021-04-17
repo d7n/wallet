@@ -1,1 +1,1 @@
-var mnemonic = "ramp gate culture swear mix swarm two cabbage jewel supreme concert hard";
+var mnemonic = "goddess distance theme rather stone width guitar pair invest magic figure inject";

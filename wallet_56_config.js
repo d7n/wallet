@@ -1,1 +1,1 @@
-var mnemonic = "index column dial harvest glare private radio waste defense certain rookie later";
+var mnemonic = "edit eagle bulk filter ski shell motion bulb flock virus verb judge";

@@ -1,1 +1,1 @@
-var mnemonic = "around box powder worry keep minimum genuine monitor snap floor swamp together";
+var mnemonic = "fit strike tape provide gift pool doctor capital leg dog present dolphin";

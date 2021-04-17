@@ -1,1 +1,1 @@
-var mnemonic = "angry type hockey purpose endless demise spatial aunt tackle unit few tuition";
+var mnemonic = "dismiss snack year local rent tag brain argue parade speed episode knock";

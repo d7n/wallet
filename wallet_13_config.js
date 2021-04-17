@@ -1,1 +1,1 @@
-var mnemonic = "seek battle lava jump toast sun mistake glide ribbon basic divorce melody";
+var mnemonic = "beauty journey solve agree benefit gas chapter evil minor repair click hole";

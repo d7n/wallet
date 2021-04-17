@@ -1,1 +1,1 @@
-var mnemonic = "position rescue setup future breeze hold alert earn hybrid fabric chuckle author";
+var mnemonic = "cement rocket rotate render remain output pipe inch leave cry accident combine";

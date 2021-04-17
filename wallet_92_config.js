@@ -1,1 +1,1 @@
-var mnemonic = "exist bike fresh toward hill abstract change useful galaxy join salad enforce";
+var mnemonic = "floor excuse width victory aunt radar express field gravity pink like ginger";

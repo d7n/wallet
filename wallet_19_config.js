@@ -1,1 +1,1 @@
-var mnemonic = "crucial elite canvas onion slab kidney seek shoot fade tobacco minimum harsh";
+var mnemonic = "tilt token upon task soup tongue deer merit december accident curious panic";

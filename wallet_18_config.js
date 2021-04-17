@@ -1,1 +1,1 @@
-var mnemonic = "help sing surface area torch immense ivory topple permit cradle pet future";
+var mnemonic = "response promote business liquid forum young rate slim green cushion rigid gloom";

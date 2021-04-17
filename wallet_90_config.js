@@ -1,1 +1,1 @@
-var mnemonic = "rate stable adult annual guilt sentence exhaust minimum become gravity cancel gravity";
+var mnemonic = "stock moment deal federal waste umbrella age enable transfer narrow differ snake";

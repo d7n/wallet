@@ -1,1 +1,1 @@
-var mnemonic = "lab visit addict girl tumble slush control arm display strike mandate marriage";
+var mnemonic = "system riot pizza dignity mix object doctor work inspire spatial alarm picnic";

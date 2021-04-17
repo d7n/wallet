@@ -1,1 +1,1 @@
-var mnemonic = "taxi inform come tape chief kind trophy leader margin vocal magnet card";
+var mnemonic = "police skill decrease jaguar carbon suspect way tonight solve miracle gorilla divide";

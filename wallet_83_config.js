@@ -1,1 +1,1 @@
-var mnemonic = "primary purity climb reunion close enough autumn hundred swim lens wisdom try";
+var mnemonic = "bacon fly pelican below denial whip rigid uphold remove expand replace toddler";

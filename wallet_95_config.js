@@ -1,1 +1,1 @@
-var mnemonic = "comfort sadness ring smile ahead wedding jacket comfort play bean pitch crew";
+var mnemonic = "rate hammer pact situate decorate rude rubber appear hurdle hobby bitter antenna";

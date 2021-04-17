@@ -1,1 +1,1 @@
-var mnemonic = "motor risk dignity detail column ill style extend sea render angry leave";
+var mnemonic = "mix monitor trigger glimpse ice crumble elegant swamp poem glory gift slot";

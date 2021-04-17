@@ -1,1 +1,1 @@
-var mnemonic = "trophy digital brass mountain long sustain space symbol private curious final scheme";
+var mnemonic = "myself clump merit honey limb anger also bubble hockey hawk addict tail";

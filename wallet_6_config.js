@@ -1,1 +1,1 @@
-var mnemonic = "second vanish noodle brass fun pave leisure faculty elegant budget filter garbage";
+var mnemonic = "muffin tank hunt pumpkin device equal push country review mesh review juice";

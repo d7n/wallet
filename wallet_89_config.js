@@ -1,1 +1,1 @@
-var mnemonic = "wrong grid title submit page front undo act hurry bus pull inform";
+var mnemonic = "stay portion furnace box inhale shoulder mistake coil material tribe rack ostrich";

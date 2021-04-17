@@ -1,1 +1,1 @@
-var mnemonic = "wagon climb talk number game device animal rent smooth hint audit escape";
+var mnemonic = "permit brief sketch index meat setup runway opinion sunset bullet early inhale";

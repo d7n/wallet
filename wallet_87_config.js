@@ -1,1 +1,1 @@
-var mnemonic = "curve slush snake enter stable prepare aware service ranch atom spoil stomach";
+var mnemonic = "install toast oyster century essence bargain wild weapon dinner coast evil funny";

@@ -1,1 +1,1 @@
-var mnemonic = "drink length can off outer mouse fork mobile tomato opinion burst lucky";
+var mnemonic = "admit torch front crunch unveil picture purpose expose wing rescue amused lottery";

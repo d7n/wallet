@@ -1,1 +1,1 @@
-var mnemonic = "blast goat dry agent tooth bachelor uncover diary woman trumpet flower when";
+var mnemonic = "pyramid minute sight artefact grief plug drip need tape culture nurse pass";

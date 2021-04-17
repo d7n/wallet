@@ -1,1 +1,1 @@
-var mnemonic = "bulb increase cost vague outer initial solid length razor frame forest merge";
+var mnemonic = "fantasy link tobacco public assault bone dinosaur never debris access online marine";

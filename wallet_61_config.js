@@ -1,1 +1,1 @@
-var mnemonic = "bone anxiety oval soccer rely lunch explain drum puzzle effort dance cat";
+var mnemonic = "barely fitness matrix tower clock local gloom link sentence hip design talk";

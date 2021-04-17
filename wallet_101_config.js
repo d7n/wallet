@@ -1,1 +1,1 @@
-var mnemonic = "wasp lunar swamp voyage tortoise bar gown tunnel wolf crime wave food";
+var mnemonic = "memory secret sheriff ability recipe benefit secret risk able cabin citizen globe";

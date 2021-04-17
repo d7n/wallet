@@ -1,1 +1,1 @@
-var mnemonic = "earn sunset attract belt april inch almost industry coil depth sand absurd";
+var mnemonic = "budget census sport meat rapid reunion arrest turtle puzzle circle tiny ramp";

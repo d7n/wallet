@@ -1,1 +1,1 @@
-var mnemonic = "inspire ceiling helmet seek chest cool stock later lizard valid original ability";
+var mnemonic = "coconut approve ceiling charge age april crisp tortoise village unknown need panda";

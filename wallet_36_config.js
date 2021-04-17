@@ -1,1 +1,1 @@
-var mnemonic = "dignity sadness radar dumb object bridge smooth awake fit kiwi good open";
+var mnemonic = "food slim note goddess invest mean palm puppy system dentist home club";

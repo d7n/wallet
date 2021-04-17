@@ -1,1 +1,1 @@
-var mnemonic = "gather cement motor stage subway slide slice embody crop embrace jar car";
+var mnemonic = "tribe daughter put rural super raise nothing sting tuna favorite jeans public";

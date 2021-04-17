@@ -1,1 +1,1 @@
-var mnemonic = "wool suffer until ecology dawn vendor area pretty climb almost luggage laugh";
+var mnemonic = "fun cruel quick pen rib vintage total spider sausage circle silly cute";

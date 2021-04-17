@@ -1,1 +1,1 @@
-var mnemonic = "when fee use slush elevator recall slender dog roof print doctor immune";
+var mnemonic = "essence leaf cradle envelope orbit manage group steel produce tomato ready truck";

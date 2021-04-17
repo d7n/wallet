@@ -1,1 +1,1 @@
-var mnemonic = "surface food ensure army hotel toilet possible ordinary actual hello eight teach";
+var mnemonic = "machine arrive under market access warrior rival either trust column evidence net";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon fabric head cabin tumble panther pool gesture habit exit elephant canyon";
+var mnemonic = "burger inquiry census retreat math bonus style disagree brisk audit kind poet";

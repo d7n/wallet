@@ -1,1 +1,1 @@
-var mnemonic = "adapt pen top evolve kiwi wool tobacco snap come matrix ghost defy";
+var mnemonic = "scout extend someone junior water episode twice twenty explain agree soft soul";

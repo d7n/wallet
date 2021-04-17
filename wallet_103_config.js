@@ -1,1 +1,1 @@
-var mnemonic = "stadium verb chair play what swallow viable clever critic muscle ginger cool";
+var mnemonic = "defy sail blood habit truck rich market general melt average candy system";

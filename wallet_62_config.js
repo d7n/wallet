@@ -1,1 +1,1 @@
-var mnemonic = "truth brown lock nephew shop alter defense face slide black sphere gesture";
+var mnemonic = "camera wasp empty clog domain august strike raw sentence wine foil second";

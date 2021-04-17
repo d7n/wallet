@@ -1,1 +1,1 @@
-var mnemonic = "please oven fiber bomb peace elder clock push ill together bridge smoke";
+var mnemonic = "hurt express battle gentle where ring omit fat dolphin anger tonight leg";

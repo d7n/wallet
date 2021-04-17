@@ -1,1 +1,1 @@
-var mnemonic = "army fade idle insect crime rather wrist vague alarm matrix school below";
+var mnemonic = "sudden poem banner grief tomorrow month also weird switch nose vacant flower";

@@ -1,1 +1,1 @@
-var mnemonic = "occur eight captain gap pattern industry rent holiday still book enemy athlete";
+var mnemonic = "pride radio jungle gaze session west rent unfair truck slice east punch";

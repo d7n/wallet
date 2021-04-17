@@ -1,1 +1,1 @@
-var mnemonic = "culture section sustain crystal catch again twist crumble try friend future kiwi";
+var mnemonic = "joke pig cycle frequent employ yellow indicate law quarter field mesh anchor";

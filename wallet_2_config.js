@@ -1,1 +1,1 @@
-var mnemonic = "tree hour smile trend this apple venture among banner window direct liberty";
+var mnemonic = "arm dust common coyote away cement market any wage journey border release";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry beef nurse spawn soup flash burden dream rack pink silver direct";
+var mnemonic = "below found script sell magic dismiss tag wealth better cousin forum outside";

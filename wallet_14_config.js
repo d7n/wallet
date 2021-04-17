@@ -1,1 +1,1 @@
-var mnemonic = "strike inflict meat fun secret hundred believe glove clap jelly warfare drill";
+var mnemonic = "long solve boil limb satoshi science baby swear witness stable jewel lawn";

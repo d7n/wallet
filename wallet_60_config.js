@@ -1,1 +1,1 @@
-var mnemonic = "olive desert wear strong degree sport check grief say squirrel hawk police";
+var mnemonic = "vehicle okay shallow prize course focus wish duck vivid circle warrior juice";

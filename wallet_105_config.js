@@ -1,1 +1,1 @@
-var mnemonic = "deposit canvas tattoo desert robot ramp slice text eager kingdom give gravity";
+var mnemonic = "mistake snap skill drill bridge chest blast wedding clever tortoise arrange social";

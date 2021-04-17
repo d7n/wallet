@@ -1,1 +1,1 @@
-var mnemonic = "edge crumble limb elevator ancient morning print else crop flame grass flee";
+var mnemonic = "action give meadow nominee buddy often strike nice bomb extra penalty cram";

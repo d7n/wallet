@@ -1,1 +1,1 @@
-var mnemonic = "wood decrease fabric permit middle month enlist fix wedding merit essay just";
+var mnemonic = "rare glide source trash museum truth recycle oil trip across banana model";

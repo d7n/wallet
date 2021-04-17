@@ -1,1 +1,1 @@
-var mnemonic = "about sell danger dose satoshi lift leader chicken plug two want few";
+var mnemonic = "dice punch rotate echo kitten bag day open second misery liar initial";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb army will erode spread curious balance include echo oyster symbol size";
+var mnemonic = "together butter scare health excuse glue entry spoon river soon vibrant radio";

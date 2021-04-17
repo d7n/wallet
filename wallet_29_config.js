@@ -1,1 +1,1 @@
-var mnemonic = "question bracket merge tunnel elbow proof opera steel vapor transfer wasp mom";
+var mnemonic = "gun spirit become scrap crush keep guilt left bitter zoo giraffe essence";

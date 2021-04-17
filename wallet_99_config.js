@@ -1,1 +1,1 @@
-var mnemonic = "noise common film circle puppy ginger rail airport sausage accident width among";
+var mnemonic = "huge adult index kid acoustic remind recycle mind critic trip cabbage rocket";

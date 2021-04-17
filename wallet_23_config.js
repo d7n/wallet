@@ -1,1 +1,1 @@
-var mnemonic = "runway beef toddler pudding damp viable chuckle vacant lazy snake typical mercy";
+var mnemonic = "crater gain dose pass melt coyote van rich host physical hospital current";

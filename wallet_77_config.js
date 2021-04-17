@@ -1,1 +1,1 @@
-var mnemonic = "aim teach defy toe guess mechanic social design meat merit purse card";
+var mnemonic = "smart toss bamboo rally absurd reward tiger case object traffic cargo garden";

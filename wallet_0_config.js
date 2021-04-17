@@ -1,1 +1,1 @@
-var mnemonic = "dizzy banana knee divorce limit subject script hunt rack tone before dog";
+var mnemonic = "chief right glare length beauty embody merge put tissue spell craft priority";
