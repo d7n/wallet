@@ -1,1 +1,1 @@
-var mnemonic = "oil sting very drum window deliver chat version group bench cook address";
+var mnemonic = "regret recycle category help wolf kid punch imitate boring old ranch kick";

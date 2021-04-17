@@ -1,1 +1,1 @@
-var mnemonic = "choose tuition awkward exchange mouse custom acid dragon assume abstract meadow spring";
+var mnemonic = "execute above nephew tone clever spare theme trust glance culture neck ski";

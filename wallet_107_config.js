@@ -1,1 +1,1 @@
-var mnemonic = "unveil slogan service alpha icon lyrics frown flat harsh open royal surprise";
+var mnemonic = "peace battle zebra win crumble pottery expand used act aspect syrup toe";

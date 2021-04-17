@@ -1,1 +1,1 @@
-var mnemonic = "swap thumb write pioneer license devote diary pipe boy genuine law assault";
+var mnemonic = "sphere detect palace session negative term uncover mansion damage glance edge believe";

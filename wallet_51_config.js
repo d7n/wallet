@@ -1,1 +1,1 @@
-var mnemonic = "uncover renew gospel urge possible meadow zero team income finish umbrella subway";
+var mnemonic = "steel siege oxygen lend supreme side plastic canal panda shadow army cement";

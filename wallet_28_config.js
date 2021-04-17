@@ -1,1 +1,1 @@
-var mnemonic = "sound parade bind cargo amused program fog add enact sail grocery narrow";
+var mnemonic = "situate dinosaur destroy clump across shrug black game play virus youth priority";

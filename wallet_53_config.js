@@ -1,1 +1,1 @@
-var mnemonic = "embody mixed climb lecture gown surface brief enforce civil hurt coral weather";
+var mnemonic = "giraffe auto spoil achieve because physical fantasy juice this volcano festival clog";

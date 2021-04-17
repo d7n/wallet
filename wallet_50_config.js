@@ -1,1 +1,1 @@
-var mnemonic = "crack test start video cat hammer plunge weekend outer gift equal luxury";
+var mnemonic = "daring attack bird daring robot ankle hope range inject soul south aware";

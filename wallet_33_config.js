@@ -1,1 +1,1 @@
-var mnemonic = "skate spot athlete venue gentle radio auto fall jump agree grid approve";
+var mnemonic = "era possible dawn tomorrow fly they evoke borrow eager rich name destroy";

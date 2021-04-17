@@ -1,1 +1,1 @@
-var mnemonic = "race movie zebra goose anger any east purpose gorilla naive response canal";
+var mnemonic = "dirt crane pitch dry episode mask empower idle cost agree clerk annual";

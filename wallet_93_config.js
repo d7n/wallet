@@ -1,1 +1,1 @@
-var mnemonic = "together across circle truth transfer artefact regular rail noble cattle dentist trophy";
+var mnemonic = "nominee issue space cluster bomb leaf audit involve marine sugar coyote decide";

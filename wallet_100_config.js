@@ -1,1 +1,1 @@
-var mnemonic = "prepare metal recall foam total quiz receive source panic axis order design";
+var mnemonic = "material obtain evil kangaroo claim drink bird anxiety blast muscle inmate hour";

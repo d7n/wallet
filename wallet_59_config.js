@@ -1,1 +1,1 @@
-var mnemonic = "elder butter midnight taxi turn clown siege place ski aisle insane nice";
+var mnemonic = "congress gold tilt abandon jar hill robot egg horse leaf between company";

@@ -1,1 +1,1 @@
-var mnemonic = "away when casual carpet enact bind clerk swing economy gesture ride cost";
+var mnemonic = "decide unfair arrive fatal cancel subject wrestle jazz extra fortune almost salt";

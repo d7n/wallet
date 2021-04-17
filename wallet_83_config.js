@@ -1,1 +1,1 @@
-var mnemonic = "wrestle onion daughter floor country phone erode unable review cheap monkey top";
+var mnemonic = "sauce common shove radar menu mother satoshi staff mean reward finger health";

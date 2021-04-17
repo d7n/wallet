@@ -1,1 +1,1 @@
-var mnemonic = "assault mirror sunny tide oppose matter pepper scissors cool artist cereal crisp";
+var mnemonic = "club rescue venue mind truly push under high awesome marriage clip essence";

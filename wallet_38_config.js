@@ -1,1 +1,1 @@
-var mnemonic = "replace rely barrel envelope initial pupil core snow weird smoke casual cabbage";
+var mnemonic = "search gym little comic rice year box artwork fatal south relief marble";

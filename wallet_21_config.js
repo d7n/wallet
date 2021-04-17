@@ -1,1 +1,1 @@
-var mnemonic = "apart rug fruit slogan nothing lobster hamster grace pact target diamond this";
+var mnemonic = "shadow lift snack vague custom reveal marriage cousin dial pull wrestle despair";

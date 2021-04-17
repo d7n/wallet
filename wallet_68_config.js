@@ -1,1 +1,1 @@
-var mnemonic = "violin seat high kitten elite destroy crunch hope face mom obscure place";
+var mnemonic = "fire industry boost length submit tuna carbon spare easily blast tell mansion";

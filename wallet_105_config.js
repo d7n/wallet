@@ -1,1 +1,1 @@
-var mnemonic = "such anchor viable rule salmon yellow bird patient park sketch memory warfare";
+var mnemonic = "hybrid memory nothing absorb smooth saddle sing genre segment audit into pelican";

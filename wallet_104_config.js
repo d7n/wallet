@@ -1,1 +1,1 @@
-var mnemonic = "zoo menu label cliff version hawk toss melt truth fetch butter cigar";
+var mnemonic = "unknown lab all later color elephant infant slender model village bread question";

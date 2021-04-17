@@ -1,1 +1,1 @@
-var mnemonic = "electric cruise venue old supreme cheese above shadow uniform quality fine grocery";
+var mnemonic = "group chaos tackle pipe tank initial pet horn frequent gym lizard stone";

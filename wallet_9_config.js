@@ -1,1 +1,1 @@
-var mnemonic = "member photo floor camera attack cook wine amazing young venture guard gain";
+var mnemonic = "spatial window concert arrow design wheat orbit black repeat salad urban original";

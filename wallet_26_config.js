@@ -1,1 +1,1 @@
-var mnemonic = "dice hire fault alien code elegant result category gravity team merge box";
+var mnemonic = "two type seminar push return marine venue brain stumble phone tomorrow giant";

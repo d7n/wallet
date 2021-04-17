@@ -1,1 +1,1 @@
-var mnemonic = "boring best pen hard high sure absorb violin topic speak cricket frost";
+var mnemonic = "clump choice short book bird hidden library raise code people repair select";

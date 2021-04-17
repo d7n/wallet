@@ -1,1 +1,1 @@
-var mnemonic = "awful youth alpha jungle mixed hungry fiber lizard member uncle cloth tenant";
+var mnemonic = "wonder asthma eager federal gas immune sand baby virus enroll drop scissors";

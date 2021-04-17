@@ -1,1 +1,1 @@
-var mnemonic = "rapid cabbage level hub inch edge assist taste twelve tower cycle bless";
+var mnemonic = "derive border wheat gown hammer forest cheap swim skate dinner stone uncover";

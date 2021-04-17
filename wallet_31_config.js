@@ -1,1 +1,1 @@
-var mnemonic = "boss myself brief idle hire captain develop creek crush cereal dash uncle";
+var mnemonic = "nut hold ethics body student blue trash device skin equal game soul";

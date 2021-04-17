@@ -1,1 +1,1 @@
-var mnemonic = "silk battle tortoise elegant pass apology check bracket raw hamster able slice";
+var mnemonic = "crush abandon share smoke enforce aisle error print bring nothing slender harsh";

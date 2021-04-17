@@ -1,1 +1,1 @@
-var mnemonic = "basic want vacuum wife fence view capable notice estate move spike prepare";
+var mnemonic = "penalty mixture parrot garlic vendor there dash digital earth forward grass dwarf";

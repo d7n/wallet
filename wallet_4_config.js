@@ -1,1 +1,1 @@
-var mnemonic = "gas echo sadness marine until math panel market surge runway awful silent";
+var mnemonic = "nut strong chicken suffer era maximum crazy game method twist immense like";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas element release offer ice scene merit daughter afraid truth royal useful";
+var mnemonic = "ahead birth aware turn creek leave budget bring fluid bar side unveil";

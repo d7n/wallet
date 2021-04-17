@@ -1,1 +1,1 @@
-var mnemonic = "involve coach useless ranch aware analyst avoid unlock nut urge spot attract";
+var mnemonic = "filter exotic adapt kitchen found hip material hedgehog circle raise leader exhaust";

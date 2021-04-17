@@ -1,1 +1,1 @@
-var mnemonic = "group vibrant health corn multiply bunker spot stadium meat scheme cabbage nest";
+var mnemonic = "behind alien noise country clip uncover yard antenna extend click funny scale";

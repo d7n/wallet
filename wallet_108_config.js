@@ -1,1 +1,1 @@
-var mnemonic = "chuckle retire series during final area tiny recycle swap water blue humor";
+var mnemonic = "girl tomato movie because consider someone evil people hungry net hello smart";

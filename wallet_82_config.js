@@ -1,1 +1,1 @@
-var mnemonic = "mask apart van arena front suggest tomorrow try cage across must whisper";
+var mnemonic = "twin cousin lazy opinion accident pass bomb great mountain swallow detect dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "amused name dad adapt laptop blame drive skull marine deliver pilot robust";
+var mnemonic = "artwork glue heavy wire embrace awkward endorse shy suggest harbor off resource";

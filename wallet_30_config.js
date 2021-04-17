@@ -1,1 +1,1 @@
-var mnemonic = "stuff grass suspect okay analyst stairs stand victory lizard kind core ice";
+var mnemonic = "puzzle lawn trophy pause inhale wrist muffin model bright medal later summer";

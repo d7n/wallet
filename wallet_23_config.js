@@ -1,1 +1,1 @@
-var mnemonic = "orient bridge wet club genre guitar energy elevator annual ten odor leave";
+var mnemonic = "ketchup hawk cage elder expect snake spoon swamp imitate lemon sight winner";

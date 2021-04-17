@@ -1,1 +1,1 @@
-var mnemonic = "green excite absent oven cheap coyote gaze heavy kick tuna square misery";
+var mnemonic = "play genuine toy farm know object emotion month company trade pond ozone";

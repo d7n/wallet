@@ -1,1 +1,1 @@
-var mnemonic = "risk visa visit focus student brick square amazing glimpse rural promote camp";
+var mnemonic = "child electric cart buddy muffin spare harvest stamp buffalo fresh rally lesson";

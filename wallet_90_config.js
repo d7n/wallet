@@ -1,1 +1,1 @@
-var mnemonic = "indoor ozone multiply shine airport twice orphan relief sword coconut all allow";
+var mnemonic = "pet modify cream where crystal catch arrest circle upper exclude diagram fury";

@@ -1,1 +1,1 @@
-var mnemonic = "surround grit island fruit submit frown region behave bamboo damage endorse grid";
+var mnemonic = "asset crunch settle excuse scrap crowd gather cook hybrid hybrid you robot";

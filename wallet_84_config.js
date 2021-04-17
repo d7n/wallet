@@ -1,1 +1,1 @@
-var mnemonic = "board disease hold shock easy federal ask bargain virus mother humor piano";
+var mnemonic = "spoil clay refuse slam kitchen wolf perfect tilt hollow drift course treat";

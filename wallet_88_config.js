@@ -1,1 +1,1 @@
-var mnemonic = "foam advice person enjoy soda message impulse drink canvas angle bulb sport";
+var mnemonic = "ready illness aim siren poem canvas coast clinic solution ordinary repeat report";

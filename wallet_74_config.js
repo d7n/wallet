@@ -1,1 +1,1 @@
-var mnemonic = "position avocado length visit hurt nest grid change fish hedgehog fan fruit";
+var mnemonic = "tuition silent crime helmet brick eager hungry wing child drop you eyebrow";

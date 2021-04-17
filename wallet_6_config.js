@@ -1,1 +1,1 @@
-var mnemonic = "giant hazard weekend bottom ankle traffic burden private whale dragon small foot";
+var mnemonic = "devote quality brief merry diary execute account grass vendor direct soda affair";

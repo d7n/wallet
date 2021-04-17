@@ -1,1 +1,1 @@
-var mnemonic = "spawn belt action aware vehicle science attend size cry describe piece obvious";
+var mnemonic = "arrange payment transfer ethics smoke solar nurse hedgehog shuffle civil expand case";

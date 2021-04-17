@@ -1,1 +1,1 @@
-var mnemonic = "announce spider top trick flash essence ball discover onion remain gauge type";
+var mnemonic = "ski swing hurt differ ill announce steel load fluid motion person strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "milk enemy scene piece hurt original van caution lab crisp tag banana";
+var mnemonic = "vacant cotton flat noise control lawsuit canoe load sister sugar loud laundry";

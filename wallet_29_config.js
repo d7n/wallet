@@ -1,1 +1,1 @@
-var mnemonic = "student concert horn lawn either poverty milk charge amazing later avocado shine";
+var mnemonic = "any true glide genius wrap quarter swallow wrestle piano zebra security satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella ugly slab vital sun test deputy eight glory cruel air ship";
+var mnemonic = "ice journey secret float sausage royal basic mistake same oppose uniform bamboo";

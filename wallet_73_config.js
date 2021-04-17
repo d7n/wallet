@@ -1,1 +1,1 @@
-var mnemonic = "bonus want mail front quality toilet secret genius rib among frog salute";
+var mnemonic = "dose fun address cook blush pulp extend lens permit then waste drill";

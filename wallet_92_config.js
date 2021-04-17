@@ -1,1 +1,1 @@
-var mnemonic = "exhaust warfare trust category crumble silk funny jungle wolf series moon ice";
+var mnemonic = "found situate screen chef today pet drink cinnamon wool tail boost refuse";

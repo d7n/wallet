@@ -1,1 +1,1 @@
-var mnemonic = "slogan profit blood culture sauce leave cook soul shove between come viable";
+var mnemonic = "unveil crowd grocery fury history suit spirit struggle settle legal venue reward";

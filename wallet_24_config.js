@@ -1,1 +1,1 @@
-var mnemonic = "primary before address milk job stadium cradle addict finish ahead ready hurt";
+var mnemonic = "easily stadium flock cliff stage eager snow forget excite cabin rate roast";

@@ -1,1 +1,1 @@
-var mnemonic = "pig error update awake wagon slide school city cabbage tiny twin express";
+var mnemonic = "frame fatal cave census page minor tattoo man circle dawn album divorce";

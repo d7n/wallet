@@ -1,1 +1,1 @@
-var mnemonic = "cage cycle bacon bubble pill social seminar error false have symptom force";
+var mnemonic = "nerve school gentle click whale false woman original modify angle runway coach";

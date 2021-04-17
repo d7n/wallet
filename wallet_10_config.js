@@ -1,1 +1,1 @@
-var mnemonic = "coach rather radio typical bring turn bright indicate load music olympic master";
+var mnemonic = "bacon render feature expect valley holiday artist control bullet bus thrive present";

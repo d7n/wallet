@@ -1,1 +1,1 @@
-var mnemonic = "obvious town aware trumpet balcony midnight wink record infant display seminar ill";
+var mnemonic = "skirt faculty parent chuckle foot main hold elegant desk shell voyage patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "joy hub perfect human luxury lock admit ten twin crunch quality hospital";
+var mnemonic = "illness faint liberty uniform dilemma tiger they message include elegant blade goose";

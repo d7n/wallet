@@ -1,1 +1,1 @@
-var mnemonic = "arrange lesson brick regret mutual today solution dash engine acoustic rifle hope";
+var mnemonic = "point alcohol between ghost host surround lab combine board blanket sport way";

@@ -1,1 +1,1 @@
-var mnemonic = "clock attend copper million orange faith ship dress similar satoshi lamp waste";
+var mnemonic = "size brisk lemon found pair summer couch couple arena stuff miss right";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze visa print soon grid vicious shallow scale reflect shop mosquito equal";
+var mnemonic = "popular gospel coconut board caution melody physical burger behave flush hospital seed";

@@ -1,1 +1,1 @@
-var mnemonic = "orange warfare glue control crop field muffin board eagle hope recall top";
+var mnemonic = "crisp notice disagree time reward junk outer minor cheese salt vacuum trouble";

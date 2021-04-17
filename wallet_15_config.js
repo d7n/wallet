@@ -1,1 +1,1 @@
-var mnemonic = "over domain believe agent interest evoke deliver hub choice view orchard essay";
+var mnemonic = "zone crouch people vanish final okay mind begin final level expand swarm";

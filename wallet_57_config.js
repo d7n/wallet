@@ -1,1 +1,1 @@
-var mnemonic = "uphold surprise rebel aunt cousin dry claim area decade fog decorate dose";
+var mnemonic = "refuse salad bench combine jealous summer cannon spawn aunt fever hurdle program";

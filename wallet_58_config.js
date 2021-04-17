@@ -1,1 +1,1 @@
-var mnemonic = "song index weasel kick hard movie real act donor odor useful dutch";
+var mnemonic = "will grunt earn purse limb april glory nuclear maple stuff audit vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "stable place honey throw sad owner gadget digital fence pistol width target";
+var mnemonic = "someone square jazz gas crouch neglect glue silver fruit crisp hedgehog start";

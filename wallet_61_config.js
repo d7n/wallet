@@ -1,1 +1,1 @@
-var mnemonic = "plate become snake outer cigar blossom frame deposit orient brush rocket fluid";
+var mnemonic = "maid people deny glove candy behind picture force polar dizzy mule card";

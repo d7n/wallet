@@ -1,1 +1,1 @@
-var mnemonic = "pave vast regular report napkin fine attend cushion fault anger mouse raccoon";
+var mnemonic = "include online dismiss must fragile whisper fade allow episode home prefer despair";

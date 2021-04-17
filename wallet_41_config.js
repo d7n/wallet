@@ -1,1 +1,1 @@
-var mnemonic = "beach rather fix immune medal attitude van ripple degree burger artefact drastic";
+var mnemonic = "turkey borrow gentle fuel vote multiply dress affair sleep risk zoo reward";

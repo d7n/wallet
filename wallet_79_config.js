@@ -1,1 +1,1 @@
-var mnemonic = "stool banana general sorry cram sea garbage draft culture delay only bounce";
+var mnemonic = "hotel apple joy pen smart quit lesson test height fit lonely tired";

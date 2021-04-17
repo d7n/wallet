@@ -1,1 +1,1 @@
-var mnemonic = "lumber magnet broken play offer seek confirm raccoon embody dry type soul";
+var mnemonic = "slot stove grief twin situate leave curve base kangaroo chest invest order";

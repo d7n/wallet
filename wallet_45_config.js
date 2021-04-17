@@ -1,1 +1,1 @@
-var mnemonic = "vanish basket wage ahead before witness consider wage forward kangaroo village door";
+var mnemonic = "aerobic club clarify rigid assault square violin wall cousin duty surge south";

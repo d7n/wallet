@@ -1,1 +1,1 @@
-var mnemonic = "tilt rose rebuild now mixture lizard relax paper manual negative tonight faculty";
+var mnemonic = "leopard gospel broken brief glow barrel half sugar robot debate scan gas";

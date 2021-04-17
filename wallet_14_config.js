@@ -1,1 +1,1 @@
-var mnemonic = "noise tape exercise dune six leader crane frame swap kitten type guitar";
+var mnemonic = "above blood endless door use hen crucial unaware cattle entire adjust lunar";

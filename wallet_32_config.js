@@ -1,1 +1,1 @@
-var mnemonic = "nuclear coast december short solar text pink auto faint supply giraffe easy";
+var mnemonic = "story crawl repair cave grid state shock royal cause text system result";

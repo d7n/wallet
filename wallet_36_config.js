@@ -1,1 +1,1 @@
-var mnemonic = "barely athlete energy click honey include cotton dish luggage bunker gas cabbage";
+var mnemonic = "million ladder connect power aspect chicken kitchen stuff say quiz empty cherry";

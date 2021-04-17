@@ -1,1 +1,1 @@
-var mnemonic = "lake decrease prepare ripple void child own scene discover law photo expect";
+var mnemonic = "brown mean beyond today media menu history gospel pupil copper acquire rival";

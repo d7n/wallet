@@ -1,1 +1,1 @@
-var mnemonic = "own hotel head cook open member width jump melody shrug bean vehicle";
+var mnemonic = "torch best snack peace casual round ramp tip source wash pulp shadow";

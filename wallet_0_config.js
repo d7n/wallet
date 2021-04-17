@@ -1,1 +1,1 @@
-var mnemonic = "slogan able truly comfort legal trick rain truth whisper around notice price";
+var mnemonic = "soul dish symptom alcohol bronze toy rough sleep maximum fluid royal fruit";

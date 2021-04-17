@@ -1,1 +1,1 @@
-var mnemonic = "kick merit describe cradle fire body security ask cross scene actor style";
+var mnemonic = "market repeat word genuine viable retire game spy music save input long";

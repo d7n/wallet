@@ -1,1 +1,1 @@
-var mnemonic = "often old fantasy citizen subject home gesture photo mango stage valid stand";
+var mnemonic = "around math nasty exhaust pigeon nest yellow decade scan industry master erupt";

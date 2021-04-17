@@ -1,1 +1,1 @@
-var mnemonic = "harvest nerve bomb grocery license mad later gentle embrace minimum square clean";
+var mnemonic = "invite mirror bleak busy maid ability fetch circle ice middle crack woman";

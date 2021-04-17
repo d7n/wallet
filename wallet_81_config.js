@@ -1,1 +1,1 @@
-var mnemonic = "eye loan mobile among around view often eagle skin hard shine venue";
+var mnemonic = "peace hotel nature word lobster later miracle father dynamic desk color year";

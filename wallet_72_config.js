@@ -1,1 +1,1 @@
-var mnemonic = "slender wife scatter tomato street rain before impact lizard example float suit";
+var mnemonic = "tent amount skirt display broccoli trophy green town orange champion weapon into";

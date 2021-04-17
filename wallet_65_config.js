@@ -1,1 +1,1 @@
-var mnemonic = "egg erosion response opinion exist slow laundry drive announce winner ketchup cinnamon";
+var mnemonic = "cash drink design distance possible upgrade script bacon junk mosquito ski almost";

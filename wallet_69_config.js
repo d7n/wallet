@@ -1,1 +1,1 @@
-var mnemonic = "endorse busy mistake category science dawn pet rain narrow young venture tonight";
+var mnemonic = "cat brave gym chunk easily invite rival slot diamond dragon pottery copper";

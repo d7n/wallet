@@ -1,1 +1,1 @@
-var mnemonic = "napkin energy polar sniff abstract crouch skin rare drift receive neck copper";
+var mnemonic = "civil brief erode cost fire tuna indoor walnut jungle race alcohol cool";

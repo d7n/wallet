@@ -1,1 +1,1 @@
-var mnemonic = "notice van rather minor sing drastic crash forum dad little city ripple";
+var mnemonic = "cargo slot coyote term permit author doll strategy caution riot artwork stage";

@@ -1,1 +1,1 @@
-var mnemonic = "raven evolve ready excess slow chronic large tattoo cash guard transfer senior";
+var mnemonic = "gloom address small image away brother edge month stool useful save program";
