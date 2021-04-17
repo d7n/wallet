@@ -1,1 +1,1 @@
-var mnemonic = "indicate marriage welcome donkey decrease space old steak fun public item immune";
+var mnemonic = "supply maple quick wisdom odor swift invite chef laundry prevent sight law";

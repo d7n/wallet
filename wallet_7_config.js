@@ -1,1 +1,1 @@
-var mnemonic = "owner rely like senior lucky much second earn uphold modify pet emerge";
+var mnemonic = "craft move ramp jungle inmate market indoor street history grab quiz coin";

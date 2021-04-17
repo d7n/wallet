@@ -1,1 +1,1 @@
-var mnemonic = "antique jeans drop snow news tomato example extend acoustic island sand lift";
+var mnemonic = "brother detect trend wrap refuse initial imitate kiwi waste exhaust escape sponsor";

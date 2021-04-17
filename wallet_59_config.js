@@ -1,1 +1,1 @@
-var mnemonic = "account puppy learn clip electric also roof share certain aunt drill surge";
+var mnemonic = "pet worry mule harsh syrup table lucky worth tooth increase tragic final";

@@ -1,1 +1,1 @@
-var mnemonic = "fan donkey tragic space orphan burden melody cake have churn clump royal";
+var mnemonic = "easily express receive initial return entire omit north equip vast popular arrow";

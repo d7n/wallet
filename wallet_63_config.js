@@ -1,1 +1,1 @@
-var mnemonic = "borrow planet gym diamond vessel benefit cable rib utility silent still north";
+var mnemonic = "fitness cash lounge garment mention cart honey holiday eight garbage vote present";

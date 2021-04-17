@@ -1,1 +1,1 @@
-var mnemonic = "kick sand spike camp admit blast spread negative forest gauge job school";
+var mnemonic = "hundred food embark fringe genius field under climb mammal female learn advance";

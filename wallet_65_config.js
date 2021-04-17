@@ -1,1 +1,1 @@
-var mnemonic = "rate lion pepper palace fatal bread drastic chicken spider become addict face";
+var mnemonic = "arrow waste decorate lonely polar brief once culture arrest consider wild improve";

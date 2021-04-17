@@ -1,1 +1,1 @@
-var mnemonic = "day bid attack guilt novel curtain clip canoe sell section ready sniff";
+var mnemonic = "ivory narrow shop kit reason marine hollow bomb body yellow hair onion";

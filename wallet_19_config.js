@@ -1,1 +1,1 @@
-var mnemonic = "business resist chase crouch risk peasant acoustic please frog rough avocado ancient";
+var mnemonic = "index easy carbon quality split baby error crawl tomorrow treat roast behave";

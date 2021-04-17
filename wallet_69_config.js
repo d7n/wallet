@@ -1,1 +1,1 @@
-var mnemonic = "tray secret oven visual shield wing lunch tuna repeat unlock host peasant";
+var mnemonic = "holiday nuclear good seminar quiz spoon cliff action educate tuna obscure seven";

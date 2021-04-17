@@ -1,1 +1,1 @@
-var mnemonic = "hard tattoo banner object race trigger patch salute kite country install improve";
+var mnemonic = "climb merit pride butter quit enforce depend lounge kit alien edit cause";

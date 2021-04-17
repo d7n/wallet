@@ -1,1 +1,1 @@
-var mnemonic = "private profit angle indicate green warfare catalog bid glad autumn rare easily";
+var mnemonic = "panic admit venue build damp slush tunnel food swing length current borrow";

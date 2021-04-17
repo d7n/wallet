@@ -1,1 +1,1 @@
-var mnemonic = "diet despair shrimp good trim near unfold unaware ceiling measure speed leaf";
+var mnemonic = "hope pear hire example sketch awesome express know push flat cost vast";

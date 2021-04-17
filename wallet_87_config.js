@@ -1,1 +1,1 @@
-var mnemonic = "twenty veteran choose march hobby path make warfare sorry choose resource soft";
+var mnemonic = "goose kitchen food unlock patient bless wrestle floor salmon gift sail clock";

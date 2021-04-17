@@ -1,1 +1,1 @@
-var mnemonic = "brass census outer siren jacket mystery reduce food exile slim ring spray";
+var mnemonic = "belt federal season observe iron huge kitten divert feature mechanic shock need";

@@ -1,1 +1,1 @@
-var mnemonic = "insane heart girl female hero calm ignore vacuum select valley trust diagram";
+var mnemonic = "mind december fancy slam cement vacuum tower pizza tourist rug shoulder immense";

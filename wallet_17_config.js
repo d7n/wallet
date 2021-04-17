@@ -1,1 +1,1 @@
-var mnemonic = "source village annual child bullet verb citizen certain involve era sell door";
+var mnemonic = "hedgehog gas action grit system crunch title sorry despair tuition region journey";

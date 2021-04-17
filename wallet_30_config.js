@@ -1,1 +1,1 @@
-var mnemonic = "dog wall square avoid taste burger session clarify humor bid glance lock";
+var mnemonic = "swallow spray uncle guitar earth fire kick goddess suffer swift rebel tooth";

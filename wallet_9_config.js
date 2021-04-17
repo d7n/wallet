@@ -1,1 +1,1 @@
-var mnemonic = "hero salmon dawn patrol boy despair cigar museum spoon stable picnic prefer";
+var mnemonic = "lobster main gas ladder table cake curtain ranch possible front artefact village";

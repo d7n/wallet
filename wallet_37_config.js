@@ -1,1 +1,1 @@
-var mnemonic = "hood decade invite acoustic gadget chunk stool brush leopard close release powder";
+var mnemonic = "air access mad buddy vapor laptop believe session target maximum impose forget";

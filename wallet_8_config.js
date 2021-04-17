@@ -1,1 +1,1 @@
-var mnemonic = "update club girl curious cube vault wool talk enter exotic side tag";
+var mnemonic = "orbit erode cabbage save scrub giraffe climb tired deliver image cupboard mango";

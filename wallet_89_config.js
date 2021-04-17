@@ -1,1 +1,1 @@
-var mnemonic = "lumber need layer phone wink panther spike mushroom cabbage deer badge toss";
+var mnemonic = "victory piano sketch glance wagon cotton fit brother inquiry million believe diary";

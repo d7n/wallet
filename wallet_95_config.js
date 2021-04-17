@@ -1,1 +1,1 @@
-var mnemonic = "page maze oil fun tuna seat sound eye pulse squirrel mixture uphold";
+var mnemonic = "address problem grid perfect afford brother rigid penalty man rescue good leave";

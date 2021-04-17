@@ -1,1 +1,1 @@
-var mnemonic = "female inquiry clock proof also team have cloth escape remind cricket wealth";
+var mnemonic = "vivid chest future sorry typical include often scorpion basket small foil uphold";

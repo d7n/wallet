@@ -1,1 +1,1 @@
-var mnemonic = "list slice draft patient treat rent spend choice lumber noise priority mistake";
+var mnemonic = "sock dismiss young predict liar muscle already birth choice reason acquire fragile";

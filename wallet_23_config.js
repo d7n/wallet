@@ -1,1 +1,1 @@
-var mnemonic = "scan start worth wear orphan stem ceiling merge salon universe such sense";
+var mnemonic = "monster lonely thought toy kangaroo liquid general work cake smart inject cherry";

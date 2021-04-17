@@ -1,1 +1,1 @@
-var mnemonic = "cactus educate cheap coast frown student slice debate butter unique supply public";
+var mnemonic = "emotion number song idea this imitate mobile early share quick pony field";

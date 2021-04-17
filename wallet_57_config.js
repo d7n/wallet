@@ -1,1 +1,1 @@
-var mnemonic = "struggle fuel planet prosper kingdom maze inhale gloom apology picture total chronic";
+var mnemonic = "fork shadow fuel extra scrap wrap funny other science update address animal";

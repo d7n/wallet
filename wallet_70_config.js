@@ -1,1 +1,1 @@
-var mnemonic = "clown yellow clutch humor same armor endless parent resist plug nice exist";
+var mnemonic = "obvious rally sister insect relax pizza fault hold confirm jealous more six";

@@ -1,1 +1,1 @@
-var mnemonic = "when jazz attend have wash body nerve hole rabbit fame unit stove";
+var mnemonic = "disease neutral grow area bench half science trap mandate citizen sorry harsh";

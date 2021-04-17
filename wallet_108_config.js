@@ -1,1 +1,1 @@
-var mnemonic = "gym ozone pottery become model latin anchor gift token lazy term dish";
+var mnemonic = "umbrella genius castle tired quarter stone wisdom cancel rapid dignity endorse pupil";

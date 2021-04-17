@@ -1,1 +1,1 @@
-var mnemonic = "resemble fade into expose able wood castle awake rookie surge chest dragon";
+var mnemonic = "knife gate end need frozen shy high lamp stuff build photo anxiety";

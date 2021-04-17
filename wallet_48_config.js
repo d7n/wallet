@@ -1,1 +1,1 @@
-var mnemonic = "scout transfer galaxy conduct tomorrow inmate kick monster pulse wise cram wait";
+var mnemonic = "wave sibling pact group remind cart uncle response media cloth note brick";

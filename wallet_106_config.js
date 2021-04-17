@@ -1,1 +1,1 @@
-var mnemonic = "episode appear stuff payment hero alien ride shaft actress found fiction puzzle";
+var mnemonic = "defy jar fork fog scan seed cloud local spirit soup lab amazing";

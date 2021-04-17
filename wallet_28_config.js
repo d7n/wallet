@@ -1,1 +1,1 @@
-var mnemonic = "office tooth frame salmon paddle interest category fitness scatter betray aisle infant";
+var mnemonic = "shoot basket resist wet gold foam ginger around random nasty wheat message";

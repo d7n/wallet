@@ -1,1 +1,1 @@
-var mnemonic = "hundred legal conduct antique example rib arm breeze stadium warrior rather castle";
+var mnemonic = "chair disorder nation bread pony student marine middle relief chat diamond lucky";

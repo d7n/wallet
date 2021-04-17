@@ -1,1 +1,1 @@
-var mnemonic = "fiber park shoe apart finger advance connect cart gift employ galaxy aisle";
+var mnemonic = "promote frozen bless cliff syrup tree runway update drill run firm exile";

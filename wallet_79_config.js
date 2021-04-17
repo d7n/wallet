@@ -1,1 +1,1 @@
-var mnemonic = "indicate add age olive jump outer goose already tank affair normal meadow";
+var mnemonic = "winter benefit favorite increase camp price cherry various film leisure admit wonder";

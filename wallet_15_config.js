@@ -1,1 +1,1 @@
-var mnemonic = "magic help index leaf aunt ready curve top delay cattle cave soup";
+var mnemonic = "glass clerk bachelor father diesel grant provide patch thrive strategy pudding joke";

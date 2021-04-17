@@ -1,1 +1,1 @@
-var mnemonic = "area float morning disagree captain grass shiver burger fault devote coin round";
+var mnemonic = "hollow memory world pride spoon hurry give fly asset metal verify close";

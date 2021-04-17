@@ -1,1 +1,1 @@
-var mnemonic = "arm gloom dirt shy kind concert empty video isolate false prevent wealth";
+var mnemonic = "drama update worth tray uniform nose car weather erase oak express novel";

@@ -1,1 +1,1 @@
-var mnemonic = "aim balance prepare phrase jaguar live dove airport crunch faith proud similar";
+var mnemonic = "arrive caught bless gossip special load achieve mosquito vapor rely clinic food";

@@ -1,1 +1,1 @@
-var mnemonic = "business start mass rubber city oven almost fever daring champion brand speak";
+var mnemonic = "exclude card into shove beach wheat scare enforce satoshi load whisper jealous";

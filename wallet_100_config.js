@@ -1,1 +1,1 @@
-var mnemonic = "only nephew medal suggest split winner oppose blossom nice depth vessel cannon";
+var mnemonic = "chase tobacco impact double drink puppy edge inspire weekend physical naive moon";

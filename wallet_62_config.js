@@ -1,1 +1,1 @@
-var mnemonic = "plug afford toilet range verify stone coil exercise relax clock distance energy";
+var mnemonic = "shy enjoy title disease promote latin mad file sunny cram main ten";

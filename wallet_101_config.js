@@ -1,1 +1,1 @@
-var mnemonic = "reopen gospel boil south north rubber benefit make potato bread mixture suspect";
+var mnemonic = "enact kingdom goat sword section poem board educate machine potato palace traffic";

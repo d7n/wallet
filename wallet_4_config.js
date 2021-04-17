@@ -1,1 +1,1 @@
-var mnemonic = "inject stereo perfect lunch client suit ready test pilot swarm tonight bitter";
+var mnemonic = "vital unfair soldier cotton pretty dune unable draft route source design dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "bag refuse swim weekend tape hammer ocean hunt bomb hill asset elevator";
+var mnemonic = "turtle adapt lyrics shrimp buyer apple network volume cancel know input faculty";

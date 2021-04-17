@@ -1,1 +1,1 @@
-var mnemonic = "item fossil connect sponsor inhale tissue conduct leader cinnamon wife ugly own";
+var mnemonic = "magnet hammer alter city rabbit ahead paddle rice tuna ozone transfer season";

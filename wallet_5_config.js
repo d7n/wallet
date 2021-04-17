@@ -1,1 +1,1 @@
-var mnemonic = "shop since lend rally race rice afraid timber render effort cash crunch";
+var mnemonic = "spy humor siren rocket derive cute logic super give right escape only";

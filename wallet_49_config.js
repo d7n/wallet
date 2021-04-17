@@ -1,1 +1,1 @@
-var mnemonic = "stem rice announce twice brick agree hope ethics churn spring crunch current";
+var mnemonic = "bitter game mosquito celery junior govern onion elegant destroy settle dinosaur stand";

@@ -1,1 +1,1 @@
-var mnemonic = "that dinosaur tape boost medal anger bunker mention tool icon genius power";
+var mnemonic = "come hood distance magnet artwork review ride join fitness trim romance merit";

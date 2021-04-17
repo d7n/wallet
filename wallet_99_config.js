@@ -1,1 +1,1 @@
-var mnemonic = "cup device airport harvest erosion achieve blame crash parent give verb win";
+var mnemonic = "climb drill ivory wet gentle rice pond clown drive march movie margin";

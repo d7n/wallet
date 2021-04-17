@@ -1,1 +1,1 @@
-var mnemonic = "stuff acoustic tool middle motor since clown safe minimum scale useless scan";
+var mnemonic = "lady flock budget april joy aspect inside mother later shaft behave primary";

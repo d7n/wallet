@@ -1,1 +1,1 @@
-var mnemonic = "result unknown exit recipe intact ghost dawn toward great opinion alone sound";
+var mnemonic = "proud apology candy harsh distance waste leader enemy cotton secret sting measure";

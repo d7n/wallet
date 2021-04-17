@@ -1,1 +1,1 @@
-var mnemonic = "hamster ripple donkey drive unlock panther tube pigeon fatal gloom unhappy garage";
+var mnemonic = "luxury seek option close toilet split abuse tone hold inner vocal wink";

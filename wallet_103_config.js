@@ -1,1 +1,1 @@
-var mnemonic = "horse assume stone cloud service expand lawn warfare maid screen magnet industry";
+var mnemonic = "dad charge pelican mirror infant sketch oak promote assume fork tilt sphere";

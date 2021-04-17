@@ -1,1 +1,1 @@
-var mnemonic = "ball hello frequent ecology lumber lawsuit grape amateur supreme unable gentle rely";
+var mnemonic = "example essay staff naive swarm dress rural brisk ridge unfair vehicle vote";

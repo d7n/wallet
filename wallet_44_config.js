@@ -1,1 +1,1 @@
-var mnemonic = "cancel grit weekend order happy decorate month coin satisfy title coffee era";
+var mnemonic = "poem reduce convince awake canvas focus bitter message fun symbol version involve";

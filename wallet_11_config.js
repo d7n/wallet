@@ -1,1 +1,1 @@
-var mnemonic = "spider judge photo coil order axis patch matter south direct margin defense";
+var mnemonic = "popular nerve neck sunny leave matrix spy portion old olympic any drum";

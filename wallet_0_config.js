@@ -1,1 +1,1 @@
-var mnemonic = "fury cigar rally point shoe occur mixture upset jar library spread blush";
+var mnemonic = "fetch episode unknown rice win ethics hybrid stamp high invest visit prison";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut bulk border donkey elegant square exhibit dad flush salon miracle detail";
+var mnemonic = "bar creek always omit bone beef action web company helmet roof question";

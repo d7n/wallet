@@ -1,1 +1,1 @@
-var mnemonic = "inject gentle sport gun grief travel chat ski stereo page arrange math";
+var mnemonic = "jewel stuff slab village hill put pottery crash rack remain actor snap";

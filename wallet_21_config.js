@@ -1,1 +1,1 @@
-var mnemonic = "trial hold hero you observe mule slogan high cube burst umbrella cloud";
+var mnemonic = "skate ill three bench lecture bone faculty spice vote sense spoil cake";

@@ -1,1 +1,1 @@
-var mnemonic = "word label promote beef brass fog congress sick veteran injury relief main";
+var mnemonic = "debate beef crack weird fatal stem repair defy lounge zoo invest awake";

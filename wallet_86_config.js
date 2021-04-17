@@ -1,1 +1,1 @@
-var mnemonic = "only walnut dolphin stock sea naive nose pink add strategy coconut welcome";
+var mnemonic = "shiver frown eyebrow ankle slight govern find judge orbit cave begin task";

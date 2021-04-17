@@ -1,1 +1,1 @@
-var mnemonic = "spin fluid master claim used enrich host liberty rubber master attend unable";
+var mnemonic = "acoustic coast limit squeeze ritual scout veteran matter citizen gesture orient squeeze";

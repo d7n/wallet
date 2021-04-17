@@ -1,1 +1,1 @@
-var mnemonic = "build promote wood govern vote sense amused soon fatigue debris interest obscure";
+var mnemonic = "disagree slam trumpet gentle topple oval denial gold awkward glide harsh bicycle";

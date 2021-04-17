@@ -1,1 +1,1 @@
-var mnemonic = "erase royal fit horror planet spoon three tobacco salad raw prevent fence";
+var mnemonic = "bullet coffee blanket paper tip bulb child unique energy photo material few";

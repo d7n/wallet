@@ -1,1 +1,1 @@
-var mnemonic = "frequent venture unable vote range lift stay theory eagle brief wave crack";
+var mnemonic = "when mutual slim tuna firm brave cat outdoor stick vault ten trim";

@@ -1,1 +1,1 @@
-var mnemonic = "table multiply drastic buyer dice layer topic poet demand pen park blush";
+var mnemonic = "flock always glove sample charge ranch account life receive oxygen acquire humor";

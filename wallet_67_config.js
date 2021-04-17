@@ -1,1 +1,1 @@
-var mnemonic = "party since month uniform cruise session motion then reunion nest stone various";
+var mnemonic = "burden orbit accuse know enhance fix motor stuff nominee daring believe enrich";

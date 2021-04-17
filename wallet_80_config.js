@@ -1,1 +1,1 @@
-var mnemonic = "job rich mention robust lawsuit own renew cactus design suffer hockey crawl";
+var mnemonic = "jump visit apart empty sea loud rescue spend grocery chief begin debris";

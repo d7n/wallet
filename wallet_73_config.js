@@ -1,1 +1,1 @@
-var mnemonic = "material razor green upset later weird renew picture mother helmet prefer stairs";
+var mnemonic = "crane setup stamp wave place glory bench model scene metal transfer man";

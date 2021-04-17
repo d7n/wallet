@@ -1,1 +1,1 @@
-var mnemonic = "age clinic worry hedgehog hover decide nurse fat stamp author champion lunar";
+var mnemonic = "gold sweet bronze ranch return phone prefer neutral risk elephant royal spring";

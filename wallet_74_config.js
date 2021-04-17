@@ -1,1 +1,1 @@
-var mnemonic = "scheme divorce agent before brass barrel doctor useful catch asset unhappy advice";
+var mnemonic = "wedding crazy spider vehicle swamp plate noise warfare chest slice misery outside";

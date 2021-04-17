@@ -1,1 +1,1 @@
-var mnemonic = "capital small hood paddle grief lawn key neither cruel stable victory goat";
+var mnemonic = "river powder dismiss family thunder hair smile next marine arrange supreme mistake";

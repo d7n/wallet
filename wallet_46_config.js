@@ -1,1 +1,1 @@
-var mnemonic = "venture ignore delay problem chuckle picture price wave flock melt seminar vintage";
+var mnemonic = "primary force punch swear bridge consider vintage snow bird galaxy scout sugar";

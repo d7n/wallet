@@ -1,1 +1,1 @@
-var mnemonic = "bless urban dignity belt envelope champion script garden apology bean pet young";
+var mnemonic = "make supreme canoe milk immense certain drama profit stick clump leader flee";

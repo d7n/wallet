@@ -1,1 +1,1 @@
-var mnemonic = "board scene laundry notable dry crew empower nurse umbrella about play emerge";
+var mnemonic = "legend clock human space coach connect perfect taste blouse wise cliff eternal";

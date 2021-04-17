@@ -1,1 +1,1 @@
-var mnemonic = "wrap ivory glare sister float title express guide much satoshi brain gentle";
+var mnemonic = "mystery hub detect toward hurry ready castle symptom dwarf cinnamon exotic extend";

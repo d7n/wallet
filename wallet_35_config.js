@@ -1,1 +1,1 @@
-var mnemonic = "bread capital sing scare couple adjust extend parade gap shoe figure pudding";
+var mnemonic = "control talk weird learn century robot start wrestle muffin pet business rice";

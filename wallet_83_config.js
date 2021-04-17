@@ -1,1 +1,1 @@
-var mnemonic = "oval donor half negative bag regular sell example regular cool pulse unknown";
+var mnemonic = "review volume still aware dumb keen stock fossil tuna scan draw anger";

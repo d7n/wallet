@@ -1,1 +1,1 @@
-var mnemonic = "that unaware huge bottom reflect fly hungry wall wonder right hurt dream";
+var mnemonic = "demise comfort measure subject multiply human wonder hard entry property ivory feature";

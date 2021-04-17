@@ -1,1 +1,1 @@
-var mnemonic = "snack capable key extend elite pitch dirt wrist stereo grain poem cotton";
+var mnemonic = "degree ask beach spoil early bounce grunt grass speak quit immune dutch";

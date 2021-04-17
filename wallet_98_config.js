@@ -1,1 +1,1 @@
-var mnemonic = "coral dress liberty album million curtain tongue then about laugh urge winter";
+var mnemonic = "review protect work pumpkin exclude craft evoke crash sort blood awkward crack";

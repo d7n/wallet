@@ -1,1 +1,1 @@
-var mnemonic = "catalog actor fiction crouch viable another fiscal course access ancient become assault";
+var mnemonic = "notable material seat common hill left curve market treat raise blast plate";

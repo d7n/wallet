@@ -1,1 +1,1 @@
-var mnemonic = "similar portion unlock impulse wing explain decide bus swim letter coffee demand";
+var mnemonic = "disease link rent avocado letter multiply suit gossip make spread april firm";

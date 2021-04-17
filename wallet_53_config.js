@@ -1,1 +1,1 @@
-var mnemonic = "net clump fever naive device render kitten airport fresh fold rubber credit";
+var mnemonic = "evidence jelly tornado thunder fiber differ wet sing room unlock duty can";
