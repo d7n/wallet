@@ -1,1 +1,1 @@
-var mnemonic = "curve foster accuse gauge divide nurse wisdom version only renew oblige innocent";
+var mnemonic = "trophy force present obey flush grid demise clown protect song veteran balance";

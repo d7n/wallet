@@ -1,1 +1,1 @@
-var mnemonic = "forward fatal kitchen clump bubble fashion cement axis divorce outside category gift";
+var mnemonic = "blind silent blush retire smile brain exact silver puppy chunk public visa";

@@ -1,1 +1,1 @@
-var mnemonic = "urban discover shallow edit student science alter fuel glass napkin friend route";
+var mnemonic = "holiday what moon forum title legend parade hurry beauty decide mind bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "person angry carpet execute observe section scrub lecture pen modify system bounce";
+var mnemonic = "access crash timber leave menu blind cloth profit fish found other fever";

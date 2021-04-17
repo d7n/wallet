@@ -1,1 +1,1 @@
-var mnemonic = "legal tree strike avoid today base face rare trick sister arrive coast";
+var mnemonic = "payment crop special strike jelly feed segment heavy strike analyst gorilla busy";

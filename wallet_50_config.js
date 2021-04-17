@@ -1,1 +1,1 @@
-var mnemonic = "govern survey inflict addict quantum because swim win strong oven outdoor relax";
+var mnemonic = "later awake loan note want foil lazy almost burden wife wing cool";

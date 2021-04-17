@@ -1,1 +1,1 @@
-var mnemonic = "code mammal shove soldier library wheel rather entire ripple tilt arch effort";
+var mnemonic = "chalk muffin fetch issue upset lens kind virus wild vanish elbow island";

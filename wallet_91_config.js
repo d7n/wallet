@@ -1,1 +1,1 @@
-var mnemonic = "say disagree smoke canoe asthma addict charge science cheap need easy discover";
+var mnemonic = "custom pear post step clump toddler wrap relax stomach sunny uncle assume";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite one learn gorilla bounce all exercise acoustic cancel tray entry valid";
+var mnemonic = "extra plate morning letter sell tooth seat burst way rich monkey price";

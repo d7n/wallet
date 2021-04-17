@@ -1,1 +1,1 @@
-var mnemonic = "sustain gather frown chunk rice fortune cloud catch excite disagree judge dry";
+var mnemonic = "captain search robust version glad beef february brief pond crawl diamond federal";

@@ -1,1 +1,1 @@
-var mnemonic = "faith capable rhythm lobster gym put need ketchup december clap dinosaur globe";
+var mnemonic = "virtual tag lunar car blind issue business census utility witness cigar hurt";

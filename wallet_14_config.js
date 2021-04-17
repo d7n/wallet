@@ -1,1 +1,1 @@
-var mnemonic = "patch rally bronze deputy school culture urban trophy scene walnut indoor autumn";
+var mnemonic = "payment they hamster always admit cabbage struggle tobacco exercise task genuine cupboard";

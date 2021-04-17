@@ -1,1 +1,1 @@
-var mnemonic = "advance verb romance junk ugly ketchup gather short echo awful bottom network";
+var mnemonic = "web gold cloth dad skill what galaxy bullet offer manual myth coil";

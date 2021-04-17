@@ -1,1 +1,1 @@
-var mnemonic = "fit setup forward pair riot winner topic arctic romance burger miss throw";
+var mnemonic = "one cream beyond brass angry unaware joke kiss lobster party blame crazy";

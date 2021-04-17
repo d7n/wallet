@@ -1,1 +1,1 @@
-var mnemonic = "test match salt south canoe just legend dilemma acoustic lecture miracle clerk";
+var mnemonic = "security marble wrap divert moment field shadow furnace effort matrix piano siege";

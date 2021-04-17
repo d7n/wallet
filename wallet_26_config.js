@@ -1,1 +1,1 @@
-var mnemonic = "fitness rally tuition hat dawn midnight fine donkey job shell one knock";
+var mnemonic = "laundry kite response work bronze marriage wolf shoe diesel shuffle flame balance";

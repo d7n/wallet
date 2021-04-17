@@ -1,1 +1,1 @@
-var mnemonic = "gospel usual captain easily sick cinnamon girl tide burden scissors boost taxi";
+var mnemonic = "apology jelly nest frozen exotic industry april latin across check lunar margin";

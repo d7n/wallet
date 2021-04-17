@@ -1,1 +1,1 @@
-var mnemonic = "spray swing poet quick word slight forget rice denial risk blood return";
+var mnemonic = "nurse season tobacco flag drink coach evidence youth sorry action degree swear";

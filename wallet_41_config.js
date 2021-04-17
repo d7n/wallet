@@ -1,1 +1,1 @@
-var mnemonic = "sausage city route umbrella ankle fly ivory all must topple wisdom sheriff";
+var mnemonic = "flip lucky catalog badge brother run frown retreat vendor bag dragon release";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial economy shove avoid retire parrot uniform bulb shift usage oval board";
+var mnemonic = "school cycle horse lumber run lawsuit reward beef speak edge govern ahead";

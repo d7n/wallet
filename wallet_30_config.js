@@ -1,1 +1,1 @@
-var mnemonic = "pave estate catalog enter usual trend point carbon vault second try reunion";
+var mnemonic = "story palace club glance possible border list sponsor vote liberty slab always";

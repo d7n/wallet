@@ -1,1 +1,1 @@
-var mnemonic = "sphere spider dice answer soap penalty boy lunar token flip announce obscure";
+var mnemonic = "tent trim minute hurry clog peace orange flower body ketchup same clown";

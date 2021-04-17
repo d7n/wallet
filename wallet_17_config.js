@@ -1,1 +1,1 @@
-var mnemonic = "initial oxygen slab open clip knee love produce matrix ghost buzz bring";
+var mnemonic = "plastic ghost fatal run scorpion armor shoot carpet true artwork plastic master";

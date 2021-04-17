@@ -1,1 +1,1 @@
-var mnemonic = "own list nerve still clerk topic volume inspire eternal scale plate canoe";
+var mnemonic = "trick matter reason daring give satisfy almost worth ethics monitor ocean salmon";

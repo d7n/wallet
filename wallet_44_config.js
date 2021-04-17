@@ -1,1 +1,1 @@
-var mnemonic = "noise gallery pause total thought baby rough manual hidden turkey master globe";
+var mnemonic = "humor check clock pilot grow blanket hungry tongue dizzy blur degree worry";

@@ -1,1 +1,1 @@
-var mnemonic = "note mistake birth cute drum bachelor finger asthma all dry key digital";
+var mnemonic = "blood novel subject dolphin orchard unit elbow lawn current cash impact feel";

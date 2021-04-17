@@ -1,1 +1,1 @@
-var mnemonic = "brave suspect dizzy south salmon umbrella enough example then panel impose march";
+var mnemonic = "plate evidence kit scene zone inform enter you ensure muffin ask access";

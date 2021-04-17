@@ -1,1 +1,1 @@
-var mnemonic = "source category life easily outer retire gallery affair lumber grocery pave cereal";
+var mnemonic = "earn fatal shrimp frog aware sphere asset actual drill slice toe bundle";

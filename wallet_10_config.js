@@ -1,1 +1,1 @@
-var mnemonic = "pull file core cool sail capable modify champion raise become monkey twist";
+var mnemonic = "various vocal plate evil angle better envelope version illness live grief flat";

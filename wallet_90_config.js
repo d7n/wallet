@@ -1,1 +1,1 @@
-var mnemonic = "guess mirror shove jealous step swap rifle define robot blush surge monitor";
+var mnemonic = "tool bulk illegal engage pottery noodle company idle atom goddess caught very";

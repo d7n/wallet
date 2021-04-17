@@ -1,1 +1,1 @@
-var mnemonic = "copy shoot weekend faculty hollow chicken settle rural valid sheriff escape stove";
+var mnemonic = "whale symbol village surface path elbow leopard visual mule motion mind palm";

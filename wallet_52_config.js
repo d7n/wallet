@@ -1,1 +1,1 @@
-var mnemonic = "proof thumb snap box decide problem problem crash odor entire taste obtain";
+var mnemonic = "flash few better glue lion apology bring raven fatigue smooth skirt error";

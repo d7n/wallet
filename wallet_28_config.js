@@ -1,1 +1,1 @@
-var mnemonic = "inherit youth inquiry icon obvious fluid wealth faith cry grass abstract sample";
+var mnemonic = "short what clump put lawn pilot kitchen front envelope legal swamp toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse crisp jeans lunar blush crunch ginger brand allow cloth arctic coast";
+var mnemonic = "flight hurt sing galaxy portion entry load proud rent trumpet tobacco behind";

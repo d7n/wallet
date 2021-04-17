@@ -1,1 +1,1 @@
-var mnemonic = "corn river swap electric truth funny short prize bean merit axis squirrel";
+var mnemonic = "valid action mystery vendor unusual parrot area elite agent outer finger season";

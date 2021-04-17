@@ -1,1 +1,1 @@
-var mnemonic = "bind scare opera mention leaf omit host walk wild tissue tragic width";
+var mnemonic = "trip embody mansion notice tide artist badge shadow aerobic tonight sponsor deal";

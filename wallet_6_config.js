@@ -1,1 +1,1 @@
-var mnemonic = "item miss film still hair carpet vocal diamond visa visa gospel cart";
+var mnemonic = "toast rigid emerge hurt address escape dash have dynamic parrot expand victory";

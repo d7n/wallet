@@ -1,1 +1,1 @@
-var mnemonic = "rack hip blanket mother party harbor canvas universe bread document lion disorder";
+var mnemonic = "label atom rich tiger brief gallery fuel cause upset soon excite arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "night check boring bullet involve trouble clutch rude invest local hundred try";
+var mnemonic = "craft live enjoy firm sauce pony company volcano axis welcome dignity tent";

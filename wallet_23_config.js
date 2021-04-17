@@ -1,1 +1,1 @@
-var mnemonic = "film civil real tank wrestle hotel item steak slight mansion vicious skirt";
+var mnemonic = "under brass what total dress absent dial learn mesh party lemon hub";

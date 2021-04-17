@@ -1,1 +1,1 @@
-var mnemonic = "sing door impact dial cruise animal consider unknown tunnel escape nerve inflict";
+var mnemonic = "fatigue endorse purchase truly arctic canvas derive ability knock interest cabbage auction";

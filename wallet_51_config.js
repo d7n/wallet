@@ -1,1 +1,1 @@
-var mnemonic = "gown toddler capital eye earth filter moon crime gate basic upon match";
+var mnemonic = "nest sun taxi notable initial popular stereo laugh choice hurdle decide silly";

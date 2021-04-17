@@ -1,1 +1,1 @@
-var mnemonic = "program away garden acquire coffee symbol off miss chuckle firm start wasp";
+var mnemonic = "sound lobster cart poem emotion pond opinion diet lake blind snake canal";

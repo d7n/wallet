@@ -1,1 +1,1 @@
-var mnemonic = "rubber fire potato enforce game since denial thrive useful artefact other eager";
+var mnemonic = "spice gift gather follow hospital afraid display test action brush february oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "giant spin first weasel blood input style taxi era dumb civil nurse";
+var mnemonic = "uniform call demand achieve cover discover visa repair undo wide employ airport";

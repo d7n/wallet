@@ -1,1 +1,1 @@
-var mnemonic = "horse light broom idle buffalo update can only beach actual disease design";
+var mnemonic = "blur tube cotton tell real tuition increase write worth city pioneer copper";

@@ -1,1 +1,1 @@
-var mnemonic = "strong want naive duty club monster cabin method busy major token frame";
+var mnemonic = "squeeze potato address shadow whisper usage miss nephew gift vendor index pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond afford grain grape alert tragic unhappy promote play minute fever fork";
+var mnemonic = "lesson until pave arrange ozone goose can govern soon hover surge peanut";

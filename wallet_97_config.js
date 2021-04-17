@@ -1,1 +1,1 @@
-var mnemonic = "illness slight torch kind oak robust bonus infant giant income round bacon";
+var mnemonic = "own board help sustain grocery property chef street oppose amount rib live";

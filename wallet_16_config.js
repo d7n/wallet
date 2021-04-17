@@ -1,1 +1,1 @@
-var mnemonic = "legal dinner mother eye twist unique interest law shoot middle fiber crouch";
+var mnemonic = "topic bike sausage kiwi rally park teach brain bullet friend radio knee";

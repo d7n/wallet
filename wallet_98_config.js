@@ -1,1 +1,1 @@
-var mnemonic = "saddle critic sea sweet wash opera disorder liberty cousin grocery oblige shop";
+var mnemonic = "tackle suggest iron art turn cool renew turn second horror arch pull";

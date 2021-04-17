@@ -1,1 +1,1 @@
-var mnemonic = "combine similar biology crumble victory fence sad join shrug melody walk impose";
+var mnemonic = "around plug timber nuclear love vast ticket crowd circle tank stem animal";

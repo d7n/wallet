@@ -1,1 +1,1 @@
-var mnemonic = "test second sunny client assault slender always stand garment normal whale toss";
+var mnemonic = "that lumber sun whip planet broken exhibit cotton limb pattern dragon arctic";

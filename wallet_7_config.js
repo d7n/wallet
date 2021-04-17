@@ -1,1 +1,1 @@
-var mnemonic = "two right number because toe copper little vague tiny depend express degree";
+var mnemonic = "design knife grace dove coffee alpha act online salmon little uncover illness";

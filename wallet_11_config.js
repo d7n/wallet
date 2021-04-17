@@ -1,1 +1,1 @@
-var mnemonic = "shallow develop impose left absurd lawsuit window dust fault monkey curtain alone";
+var mnemonic = "ridge place pottery trip announce soul infant liberty obscure defy library kid";

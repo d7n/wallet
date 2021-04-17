@@ -1,1 +1,1 @@
-var mnemonic = "tragic demise wolf bind forum blade crew popular industry sell wheat enforce";
+var mnemonic = "maximum ankle attract orient hotel symbol such link hidden high surface park";

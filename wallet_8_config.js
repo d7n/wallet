@@ -1,1 +1,1 @@
-var mnemonic = "muffin shuffle wise snake athlete angle history mom same element scrap reunion";
+var mnemonic = "timber beyond address razor run try fatal copper across deal stable evidence";

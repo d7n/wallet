@@ -1,1 +1,1 @@
-var mnemonic = "guitar cricket thunder rebel permit lawn usual wall tomorrow story fatigue adult";
+var mnemonic = "permit amount disorder mushroom saddle travel dose lecture blue virus total february";

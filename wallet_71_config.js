@@ -1,1 +1,1 @@
-var mnemonic = "crop lady soda animal impulse destroy wave invest tube betray average outer";
+var mnemonic = "wink usual aware frozen captain portion trust chef rate lecture truly shed";

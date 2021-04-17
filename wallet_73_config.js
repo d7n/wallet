@@ -1,1 +1,1 @@
-var mnemonic = "mixed address empower melody craft brand true barely before wave render must";
+var mnemonic = "boat strike practice rocket echo medal other fatigue verify frequent clever teach";

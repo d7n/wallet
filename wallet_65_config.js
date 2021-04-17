@@ -1,1 +1,1 @@
-var mnemonic = "agent assume practice rude hundred giant miracle emotion duck current left area";
+var mnemonic = "skate pilot quarter stove remember brief borrow seat want rebuild dolphin section";

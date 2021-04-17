@@ -1,1 +1,1 @@
-var mnemonic = "hard pudding beef item drink drum face can museum shell ancient erase";
+var mnemonic = "direct usage beyond harvest pistol school gain rude tilt leg unit kitten";

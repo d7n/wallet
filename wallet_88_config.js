@@ -1,1 +1,1 @@
-var mnemonic = "absurd wood announce make mammal have tonight hat embrace poet palace copy";
+var mnemonic = "cook inhale such black ketchup exercise govern gauge among long tornado mind";

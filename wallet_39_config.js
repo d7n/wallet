@@ -1,1 +1,1 @@
-var mnemonic = "deny tornado please fine helmet fault parrot vital pride oil drip lava";
+var mnemonic = "movie earn have praise mandate peanut inspire they hello defense address dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "problem stomach garlic smart example vehicle addict winter fog pattern amused member";
+var mnemonic = "educate minor satoshi chief twist siren envelope mail nominee cloth outer load";

@@ -1,1 +1,1 @@
-var mnemonic = "mail obscure early mesh stuff glare tobacco chase patient kingdom prevent crucial";
+var mnemonic = "hair boat plate airport modify night assault subway size fine hard sport";

@@ -1,1 +1,1 @@
-var mnemonic = "budget trade tone ozone member daughter battle song glance sight ask hover";
+var mnemonic = "clean cruise tennis session tag cargo flash mind void neutral artwork wet";

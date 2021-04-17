@@ -1,1 +1,1 @@
-var mnemonic = "situate video expose faculty unfair bonus depend debris sausage blame apple decorate";
+var mnemonic = "valley soul forget cousin achieve parent marriage force loud toss turn awesome";

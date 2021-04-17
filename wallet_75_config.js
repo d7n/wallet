@@ -1,1 +1,1 @@
-var mnemonic = "snow banner avoid brick famous work blanket visual million galaxy key ship";
+var mnemonic = "night paper real leopard rebel swarm praise syrup animal that fortune suffer";

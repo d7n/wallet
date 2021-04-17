@@ -1,1 +1,1 @@
-var mnemonic = "choose depart glare obey priority frequent share afraid bless hazard dice can";
+var mnemonic = "category vanish apology twin unfold upper can cause toddler add more noodle";

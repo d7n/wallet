@@ -1,1 +1,1 @@
-var mnemonic = "argue benefit excess convince draw bulb giraffe hollow naive useful rail assist";
+var mnemonic = "blur van toast sight among nuclear reveal apple snow hub snap cinnamon";

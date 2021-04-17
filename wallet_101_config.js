@@ -1,1 +1,1 @@
-var mnemonic = "tree add cactus rebuild matrix solve guitar scene balcony price same report";
+var mnemonic = "december supreme jump crush else manage upper pizza involve appear smart economy";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune pave gesture execute craft seat endorse camera off below donate area";
+var mnemonic = "shock endorse lake finish visit royal tube false essay enforce boat train";

@@ -1,1 +1,1 @@
-var mnemonic = "observe volcano alter guitar loan index change bottom oak issue regular fatigue";
+var mnemonic = "mind valley number always tuna churn damp upset account notable wash wool";

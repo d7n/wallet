@@ -1,1 +1,1 @@
-var mnemonic = "polar thought term shallow one burst nephew curious screen certain soft share";
+var mnemonic = "genuine walnut tribe total gesture clog hawk sustain popular limit gallery best";

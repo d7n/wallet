@@ -1,1 +1,1 @@
-var mnemonic = "safe income feel female good second popular evoke melody pole bicycle ritual";
+var mnemonic = "embody ball right fiber rigid live budget matrix grain upper century dinosaur";

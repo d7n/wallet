@@ -1,1 +1,1 @@
-var mnemonic = "fade fossil route wish taste blush elite rifle vessel market cool mail";
+var mnemonic = "eternal lock bridge display strategy tray soup dance robust weather page price";

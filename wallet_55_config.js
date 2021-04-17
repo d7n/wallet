@@ -1,1 +1,1 @@
-var mnemonic = "grab ten arctic merry emotion damage clump position oppose nice wait abstract";
+var mnemonic = "jazz quick pulp matter own prize dish dust own inflict artist cactus";

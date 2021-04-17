@@ -1,1 +1,1 @@
-var mnemonic = "rocket basket giant dirt acoustic collect oval rifle omit join lazy cover";
+var mnemonic = "school charge manage cook scatter patrol barely invest gap trade home biology";

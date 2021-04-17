@@ -1,1 +1,1 @@
-var mnemonic = "romance slide tourist play key video margin rent cruel same night galaxy";
+var mnemonic = "cross onion paddle dinner amused repeat nut inspire finger design popular inquiry";

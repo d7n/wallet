@@ -1,1 +1,1 @@
-var mnemonic = "fade squeeze embrace husband usual staff argue hobby false use pride rude";
+var mnemonic = "better smoke wool iron range nurse panel woman hard column kiwi section";

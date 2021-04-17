@@ -1,1 +1,1 @@
-var mnemonic = "razor hip win acquire volcano gap lawn sunset attack demand disease airport";
+var mnemonic = "raise skin trick timber kick sad aisle safe heart work cactus slogan";

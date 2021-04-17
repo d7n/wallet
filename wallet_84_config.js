@@ -1,1 +1,1 @@
-var mnemonic = "early acoustic vague december twin tuition north mango nuclear evil clown find";
+var mnemonic = "start barrel auction artwork pool average whisper surface romance head idle hammer";

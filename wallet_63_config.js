@@ -1,1 +1,1 @@
-var mnemonic = "acoustic lawn minute horse such text slam palace rice bicycle top stool";
+var mnemonic = "limit park guard drum usual like wealth unfold crucial shine admit junk";
