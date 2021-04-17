@@ -1,1 +1,1 @@
-var mnemonic = "cycle stairs still play clown elite course sport spatial rate slam salt";
+var mnemonic = "void marble behind vote verify sugar play kingdom cruel abandon danger bargain";

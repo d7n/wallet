@@ -1,1 +1,1 @@
-var mnemonic = "ugly city matrix alien list pattern local useful vague universe forget sea";
+var mnemonic = "organ keen flush pull joke orient banana combine add reunion trouble prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble either gospel profit reduce purpose scorpion shell lend beach unfold supreme";
+var mnemonic = "meat sphere floor bicycle wedding turkey clean screen horn ready old crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub chef marble palace fluid enable enjoy evil shop profit volcano fuel";
+var mnemonic = "blue family license match speed sheriff mom fabric ski vital photo motion";

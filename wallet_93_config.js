@@ -1,1 +1,1 @@
-var mnemonic = "ice wheat wing drama original long toy crazy potato bullet cheese message";
+var mnemonic = "sugar cannon aunt nerve zone vault slam fix crucial gesture cliff join";

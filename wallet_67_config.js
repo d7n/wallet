@@ -1,1 +1,1 @@
-var mnemonic = "special arena popular early record decade bachelor bid boil one teach art";
+var mnemonic = "weekend claw kit live feature grief fault enjoy opera stone unique theory";

@@ -1,1 +1,1 @@
-var mnemonic = "theory tunnel happy time pave level crash obvious three casual digital educate";
+var mnemonic = "pioneer pass huge tortoise sense inmate wagon basket model garage drip dwarf";

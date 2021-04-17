@@ -1,1 +1,1 @@
-var mnemonic = "bulb hollow blossom glide remember forget night butter garbage sight husband stand";
+var mnemonic = "unfair hello topple pilot practice point easily excuse oven bicycle boy master";

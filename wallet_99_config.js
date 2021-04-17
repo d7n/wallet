@@ -1,1 +1,1 @@
-var mnemonic = "knife kidney mesh rack flat have novel mushroom opinion habit whale thumb";
+var mnemonic = "mammal hurry bundle room light charge cabbage come main sign sample anger";

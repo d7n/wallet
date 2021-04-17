@@ -1,1 +1,1 @@
-var mnemonic = "broken drive regret giraffe cement crop until desk unveil later hurdle hamster";
+var mnemonic = "prosper security thumb multiply detect cream genius cry replace flat kangaroo solid";

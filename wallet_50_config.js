@@ -1,1 +1,1 @@
-var mnemonic = "blanket almost interest assume episode tenant spare that post yard general cigar";
+var mnemonic = "casual float damage pudding decide bean liberty reject sort grab wall latin";

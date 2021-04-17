@@ -1,1 +1,1 @@
-var mnemonic = "vehicle erupt fatal wise attend mansion vintage crush carpet common camp adapt";
+var mnemonic = "loop spend keen power endorse two edit mesh security tray economy palace";

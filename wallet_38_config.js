@@ -1,1 +1,1 @@
-var mnemonic = "dolphin gap legal napkin above shove uphold music surprise ability broom soft";
+var mnemonic = "crawl wedding season recall ride moon chuckle digital collect print prepare fan";

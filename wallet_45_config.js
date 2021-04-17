@@ -1,1 +1,1 @@
-var mnemonic = "stuff wagon slim three couch float will together laugh soft right lazy";
+var mnemonic = "glass squeeze guide risk sausage ordinary liberty obey imitate remove luxury chicken";

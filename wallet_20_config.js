@@ -1,1 +1,1 @@
-var mnemonic = "smooth goddess hunt yellow obvious veteran twelve cluster left near energy skirt";
+var mnemonic = "girl dish nice borrow snow absorb eight thunder elbow frame pistol brand";

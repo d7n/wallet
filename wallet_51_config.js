@@ -1,1 +1,1 @@
-var mnemonic = "tuna hockey polar orphan excuse law practice choose burger dose senior total";
+var mnemonic = "wide coyote video taste clutch brown blast then give crew oak uniform";

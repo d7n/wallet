@@ -1,1 +1,1 @@
-var mnemonic = "sudden pear tell burden wink olive good expect town jeans win frequent";
+var mnemonic = "battle cake that case famous grit twelve vendor palace mimic evil point";

@@ -1,1 +1,1 @@
-var mnemonic = "treat rice someone raw judge parent core mention craft tuition icon laptop";
+var mnemonic = "voyage blanket hire sun laundry glance favorite cliff lift game above lyrics";

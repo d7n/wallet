@@ -1,1 +1,1 @@
-var mnemonic = "wrong gift step describe purse pluck body hunt wait miracle border welcome";
+var mnemonic = "blanket warrior rifle casual luggage nominee copper uncle blood myth warrior version";

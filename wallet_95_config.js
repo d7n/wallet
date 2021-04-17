@@ -1,1 +1,1 @@
-var mnemonic = "onion water eye book pill frog mouse brother script empty voice accident";
+var mnemonic = "delay pepper movie dinosaur loop smile pool worth relax camp raise physical";

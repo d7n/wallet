@@ -1,1 +1,1 @@
-var mnemonic = "scout job brass twice citizen remove eager state cousin arch harsh grass";
+var mnemonic = "promote mixture satisfy hard crisp amount flight deputy gap buddy morning arch";

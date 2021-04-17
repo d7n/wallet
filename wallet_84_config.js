@@ -1,1 +1,1 @@
-var mnemonic = "zebra roof boss wedding dad march blade valley comic crisp midnight unable";
+var mnemonic = "medal unique jewel orbit busy recipe vicious inhale desk thumb news deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "they tuition trap resist vacant apology release future champion foster reform laundry";
+var mnemonic = "worth table dog strong unable hour asthma pretty demand position knock excess";

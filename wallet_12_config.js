@@ -1,1 +1,1 @@
-var mnemonic = "reopen kit egg sport charge start awake wrestle wet add they deliver";
+var mnemonic = "uniform sure assault device inject mention scare wedding clever soup symptom return";

@@ -1,1 +1,1 @@
-var mnemonic = "much banner tattoo supply thumb wasp kick wink void castle exile cook";
+var mnemonic = "six valid brass tool yellow beef belt grief trim depth proud belt";

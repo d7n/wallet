@@ -1,1 +1,1 @@
-var mnemonic = "planet brush inflict second abandon gorilla robust abuse ivory seek front rhythm";
+var mnemonic = "exact coil someone endorse biology license flush choose stuff journey valley guard";

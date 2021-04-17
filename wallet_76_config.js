@@ -1,1 +1,1 @@
-var mnemonic = "neither patrol scheme open close brave indoor visual connect fitness evidence swarm";
+var mnemonic = "liberty renew net fish require series glue silk sketch glimpse nephew occur";

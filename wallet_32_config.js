@@ -1,1 +1,1 @@
-var mnemonic = "mixture impose truck captain noble curious cry rebel shoe afford coffee derive";
+var mnemonic = "there reject ice broccoli reveal trust usage silent trap finger echo three";

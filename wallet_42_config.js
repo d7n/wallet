@@ -1,1 +1,1 @@
-var mnemonic = "trophy animal spot gather exist online kind tissue match wife ask poem";
+var mnemonic = "label double lazy conduct split frost whip dentist wave legend wheat only";

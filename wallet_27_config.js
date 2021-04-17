@@ -1,1 +1,1 @@
-var mnemonic = "under fashion scale ship rebel transfer chef wet venue hole barrel client";
+var mnemonic = "card shield photo winter raccoon excite dignity monkey arena coffee regular umbrella";

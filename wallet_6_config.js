@@ -1,1 +1,1 @@
-var mnemonic = "doll update balcony pulp cup host dinosaur village awkward sight inch artefact";
+var mnemonic = "sauce same basic file unusual avocado soul wash sing engage bleak wonder";

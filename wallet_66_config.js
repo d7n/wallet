@@ -1,1 +1,1 @@
-var mnemonic = "reward ritual improve film solar envelope left hedgehog motor melt month urban";
+var mnemonic = "window chase super sun amateur unfair earn square strong brass tiger knife";

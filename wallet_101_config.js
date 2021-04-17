@@ -1,1 +1,1 @@
-var mnemonic = "twenty witness medal adult fog cargo barrel jungle ladder range direct arena";
+var mnemonic = "beef dynamic midnight melt frog angry dumb thought account wild client token";

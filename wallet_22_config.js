@@ -1,1 +1,1 @@
-var mnemonic = "vacuum vehicle despair priority leg cabin click glow gallery reform poet lock";
+var mnemonic = "brain route large camera hello kitten steak lawn invest energy tell host";

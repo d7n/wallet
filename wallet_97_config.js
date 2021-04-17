@@ -1,1 +1,1 @@
-var mnemonic = "notice salt hub equip burden trend range buzz lumber moral cousin core";
+var mnemonic = "drum monitor rich media volume lunar popular dog twenty toy scene inherit";

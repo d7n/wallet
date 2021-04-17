@@ -1,1 +1,1 @@
-var mnemonic = "cycle bunker hair film key hero top rigid final proof dumb reduce";
+var mnemonic = "crowd uphold blade vehicle siege alert same basket impose exhibit banana riot";

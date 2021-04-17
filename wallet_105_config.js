@@ -1,1 +1,1 @@
-var mnemonic = "figure forward vacuum mango subway trim afford comfort cinnamon diamond latin misery";
+var mnemonic = "engine lizard axis area pig spin cook safe solve save access level";

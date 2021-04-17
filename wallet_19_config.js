@@ -1,1 +1,1 @@
-var mnemonic = "oblige nature avoid aware spy camera two trap vehicle rude wing motion";
+var mnemonic = "trend adapt wish notice member peanut bounce right alone try eight day";

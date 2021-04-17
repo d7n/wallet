@@ -1,1 +1,1 @@
-var mnemonic = "fetch quantum leave payment exotic conduct adapt joy mosquito cool pencil cage";
+var mnemonic = "innocent derive treat glance arrange oppose abstract ranch grief atom affair radio";

@@ -1,1 +1,1 @@
-var mnemonic = "portion short sunset antenna stamp elegant marble region world private glad roast";
+var mnemonic = "sausage toast hour rack visual trend peasant abandon faint limb erode shrimp";

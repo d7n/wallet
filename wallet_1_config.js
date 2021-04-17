@@ -1,1 +1,1 @@
-var mnemonic = "critic evil ceiling goat crystal clown used brown alcohol wear hybrid goat";
+var mnemonic = "loop keen sauce ocean source child asthma rather squirrel penalty fork piece";

@@ -1,1 +1,1 @@
-var mnemonic = "room scissors desert receive smooth ill desert meat pink cage device furnace";
+var mnemonic = "floor ugly fiscal orphan trigger black void essence shoulder involve emerge intact";

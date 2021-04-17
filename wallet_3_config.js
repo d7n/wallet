@@ -1,1 +1,1 @@
-var mnemonic = "burst all pull trial city course pumpkin scrap pitch glory broccoli mansion";
+var mnemonic = "enter people hold weird rose accident review wing rare short upgrade tennis";

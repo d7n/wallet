@@ -1,1 +1,1 @@
-var mnemonic = "anger lawsuit paddle voyage gesture panic card ripple sort shiver nothing level";
+var mnemonic = "keen state cart exchange suggest subject earn domain grief mercy prosper dish";

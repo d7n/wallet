@@ -1,1 +1,1 @@
-var mnemonic = "humor camp olive leisure planet emerge swing arch medal easily resemble cycle";
+var mnemonic = "metal myself crew best price believe prize chair illegal shield birth relax";

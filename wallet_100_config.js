@@ -1,1 +1,1 @@
-var mnemonic = "analyst vault special fix setup earn matrix dream stand parent profit helmet";
+var mnemonic = "leg merry mammal wish jacket post laundry push useless panda noodle crunch";

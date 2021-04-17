@@ -1,1 +1,1 @@
-var mnemonic = "salmon month horn always solid idle cram fragile frozen elevator flag disorder";
+var mnemonic = "submit alarm canvas kind humor abandon fence margin wave cute knock case";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse call brief merge this chicken expire diesel shaft fix wealth omit";
+var mnemonic = "matrix glue hedgehog surge initial tool bone repair edge skull earth pear";

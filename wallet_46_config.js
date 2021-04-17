@@ -1,1 +1,1 @@
-var mnemonic = "practice decorate pledge police bottom way immune garment lady nuclear print rug";
+var mnemonic = "real era whale payment obvious woman brick marble body foot omit manage";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin ball layer click credit yellow pride hedgehog detect color cake point";
+var mnemonic = "cancel legend fun better govern more film summer jelly electric nose human";

@@ -1,1 +1,1 @@
-var mnemonic = "badge option lunar meadow task unique slim afford slide exhaust hurt mad";
+var mnemonic = "network flush bracket drift swap what shaft flat pepper advice rare creek";

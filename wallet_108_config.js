@@ -1,1 +1,1 @@
-var mnemonic = "canyon pave torch teach tongue dream brush knock scatter casino tired betray";
+var mnemonic = "ride appear lobster bounce park dog click fetch smoke dog garbage ugly";

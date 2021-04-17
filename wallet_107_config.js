@@ -1,1 +1,1 @@
-var mnemonic = "miss buyer strategy hundred snap stable dose siren caution glove decide lens";
+var mnemonic = "fancy alter rhythm vivid arrive lava angle start palm canvas recall large";

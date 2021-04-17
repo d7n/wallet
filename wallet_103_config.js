@@ -1,1 +1,1 @@
-var mnemonic = "become sand napkin palm afford negative issue clarify worry dynamic loyal decline";
+var mnemonic = "hip until section output advance vivid bring right walk plug interest aim";

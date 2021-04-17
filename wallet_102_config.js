@@ -1,1 +1,1 @@
-var mnemonic = "entire couch kite coffee camera music license embody electric mail fragile balance";
+var mnemonic = "help eager spray era infant leg stomach tragic omit element sentence next";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle charge tip dignity vital indoor urban keep speak artefact habit shoot";
+var mnemonic = "satisfy ski pulse satisfy omit tongue aspect include simple filter roast skill";

@@ -1,1 +1,1 @@
-var mnemonic = "snow alien leopard six loop universe slender bonus rather only voice decide";
+var mnemonic = "place shield boy funny mail cute happy pill gather thing approve egg";

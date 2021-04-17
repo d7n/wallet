@@ -1,1 +1,1 @@
-var mnemonic = "kingdom enforce arctic shrimp mad piano render inspire ask scrap news family";
+var mnemonic = "anchor action climb flower task inner salad siege pool syrup model rough";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby polar vault impulse zero jar sugar loud card age motion silent";
+var mnemonic = "brisk ketchup resemble brass curtain law unhappy under tag avocado fuel tobacco";

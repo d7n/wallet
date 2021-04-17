@@ -1,1 +1,1 @@
-var mnemonic = "sister cart bind wolf biology buzz multiply ripple fatigue law alone small";
+var mnemonic = "swear novel space sample focus you chase kitchen fine trust announce lens";

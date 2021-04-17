@@ -1,1 +1,1 @@
-var mnemonic = "rigid acid live rapid pipe fortune wide camera used sweet devote ribbon";
+var mnemonic = "arrange hospital space hurry moment bomb entire rule evil option resemble clog";

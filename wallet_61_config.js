@@ -1,1 +1,1 @@
-var mnemonic = "buffalo bracket column area clock guitar spy ivory faint mind chest obtain";
+var mnemonic = "kiss speak topic boost juice program promote girl reform still square miss";

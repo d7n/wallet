@@ -1,1 +1,1 @@
-var mnemonic = "pitch cycle under visit pause lazy provide debris correct bid loyal derive";
+var mnemonic = "salt chef remain still route exhibit reason gun someone improve capital you";

@@ -1,1 +1,1 @@
-var mnemonic = "amount sign ticket angle crime armed shiver marine hawk can wrap guess";
+var mnemonic = "imitate route useless where fringe walk blush foster guilt silent abandon climb";

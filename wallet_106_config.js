@@ -1,1 +1,1 @@
-var mnemonic = "indoor slide still wrist when forest shiver catch enrich clog page tower";
+var mnemonic = "enough myself pencil strategy health private million tunnel engine alter begin mad";

@@ -1,1 +1,1 @@
-var mnemonic = "cart siren sure raise tomato upgrade area casual key broken forum custom";
+var mnemonic = "odor promote chair sword index slam enable brief measure wine helmet right";

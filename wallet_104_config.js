@@ -1,1 +1,1 @@
-var mnemonic = "wave inherit heart mouse party sorry give horn pet trophy pattern radio";
+var mnemonic = "satoshi timber reveal later vivid length permit undo heart virus stem allow";

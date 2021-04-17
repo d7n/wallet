@@ -1,1 +1,1 @@
-var mnemonic = "tube resource barely gun legal gentle silver play bamboo bamboo fruit more";
+var mnemonic = "roast afraid result marine expose betray circle still beyond garment feature account";

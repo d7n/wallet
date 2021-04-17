@@ -1,1 +1,1 @@
-var mnemonic = "assault lunar iron slow client swarm hip cake boss job awake sun";
+var mnemonic = "twenty vacuum elevator ranch wolf into sister hidden chicken truck boost stereo";

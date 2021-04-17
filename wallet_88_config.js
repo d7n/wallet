@@ -1,1 +1,1 @@
-var mnemonic = "secret health pizza humble inject web orient just riot sign final tornado";
+var mnemonic = "antique spirit hat shift void type road expand add among host street";

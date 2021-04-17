@@ -1,1 +1,1 @@
-var mnemonic = "purity account float price morning hole soap lonely social rose avoid donkey";
+var mnemonic = "raccoon rent just oxygen fatal dinner gym ecology muscle pupil royal pencil";

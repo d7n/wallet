@@ -1,1 +1,1 @@
-var mnemonic = "climb assist ozone poem envelope uniform action mutual business vendor layer scan";
+var mnemonic = "sadness expire lounge version exhaust list blade crumble garbage liar dentist figure";

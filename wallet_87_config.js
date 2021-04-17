@@ -1,1 +1,1 @@
-var mnemonic = "mistake long fade crawl what fringe object solar pretty ignore nut vote";
+var mnemonic = "anchor beef soccer dynamic together dumb keep runway warm purity resource divorce";

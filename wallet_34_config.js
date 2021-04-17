@@ -1,1 +1,1 @@
-var mnemonic = "scheme concert matrix violin donor flavor canal panda mind allow flavor visit";
+var mnemonic = "recycle midnight escape fog antenna subway saddle size small banana october comic";

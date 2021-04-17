@@ -1,1 +1,1 @@
-var mnemonic = "bless payment basic coconut marine space describe gravity ritual caught skull fiction";
+var mnemonic = "cradle unlock vibrant cake same steak same path shed news depth rail";

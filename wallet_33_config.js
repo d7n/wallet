@@ -1,1 +1,1 @@
-var mnemonic = "mom lucky possible cabin sniff execute various artist embark amused juice guard";
+var mnemonic = "note danger twelve dinosaur hour rural stuff assault green exit squirrel limit";

@@ -1,1 +1,1 @@
-var mnemonic = "bike curtain clock pave always thunder potato online arrest payment sauce position";
+var mnemonic = "void cloud exist cushion come glove field kite useless depart endorse always";

@@ -1,1 +1,1 @@
-var mnemonic = "eye rug favorite ripple ghost gravity patient million abandon public fat invest";
+var mnemonic = "jump choose damp cube rhythm rude word cook original pepper waste enable";

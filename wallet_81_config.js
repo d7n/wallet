@@ -1,1 +1,1 @@
-var mnemonic = "team away fossil violin decide strategy kit suggest subject twin filter weekend";
+var mnemonic = "weapon group chase dirt stand wet level cluster feel faculty enough cinnamon";

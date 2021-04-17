@@ -1,1 +1,1 @@
-var mnemonic = "inch picnic timber toilet laptop foot legal note acquire sadness exist obtain";
+var mnemonic = "green fold arrow donor deer snack copy believe session bar clutch various";

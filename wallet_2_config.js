@@ -1,1 +1,1 @@
-var mnemonic = "head season often corn limb coin ghost spawn timber chief duck choice";
+var mnemonic = "dawn curious rebuild stage bid fault victory patrol erosion identify silent novel";

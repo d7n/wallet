@@ -1,1 +1,1 @@
-var mnemonic = "shove infant winner east about infant empty stem mask option machine walk";
+var mnemonic = "produce debate wreck dignity bulk attend response draw consider episode tone pipe";

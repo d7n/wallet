@@ -1,1 +1,1 @@
-var mnemonic = "reduce web topple mask ketchup combine lend card inspire exchange swift spice";
+var mnemonic = "quiz arctic office disagree ribbon capable question strategy season very giraffe hat";

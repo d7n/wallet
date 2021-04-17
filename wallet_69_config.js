@@ -1,1 +1,1 @@
-var mnemonic = "mesh heart oyster wrestle decline ancient dwarf immune fresh jaguar mirror peanut";
+var mnemonic = "wise level hobby butter such provide crisp owner taxi benefit damp wheel";

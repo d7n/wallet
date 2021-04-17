@@ -1,1 +1,1 @@
-var mnemonic = "visual twist because pass rice clever educate online explain acquire absurd injury";
+var mnemonic = "rhythm sketch fetch betray rebuild glove napkin boil edit cushion anxiety ride";

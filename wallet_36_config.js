@@ -1,1 +1,1 @@
-var mnemonic = "outer nut ten business hurt disease february fashion visa cave knock income";
+var mnemonic = "awake thunder consider crystal wagon thumb occur old asthma dream math initial";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer armor detect stand butter limb boss embrace clap axis siege robot";
+var mnemonic = "fossil length happy aware theory sell have save thunder wasp empty virtual";

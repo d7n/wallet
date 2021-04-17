@@ -1,1 +1,1 @@
-var mnemonic = "nose moon tennis armed clump same retire wise tribe diesel mask ostrich";
+var mnemonic = "praise kitten parrot short simple aisle guide similar approve derive adapt donate";

@@ -1,1 +1,1 @@
-var mnemonic = "blame glass once legend elbow arrow shed hover moon april hidden radar";
+var mnemonic = "soul leisure ball tool flash disorder ridge rent jeans market message flavor";
