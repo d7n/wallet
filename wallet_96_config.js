@@ -1,1 +1,1 @@
-var mnemonic = "under develop ski critic notable quality duty display unfold kick phone wish";
+var mnemonic = "vital waste guilt forward more someone this life post stomach cable route";

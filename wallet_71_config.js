@@ -1,1 +1,1 @@
-var mnemonic = "powder grass truly vibrant fun silver enhance extend agree forget blanket spare";
+var mnemonic = "fly you start night emotion release kit tuna estate quantum chapter nephew";

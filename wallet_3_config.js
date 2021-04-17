@@ -1,1 +1,1 @@
-var mnemonic = "clown solar keep husband praise cost submit response that casual scare issue";
+var mnemonic = "hair sick castle tomorrow bean evidence patient cactus dream rare found seminar";

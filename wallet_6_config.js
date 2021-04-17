@@ -1,1 +1,1 @@
-var mnemonic = "depart buzz amateur amused sponsor nice gesture negative vibrant injury heart birth";
+var mnemonic = "tilt ostrich property permit puzzle program dismiss critic almost crisp top rule";

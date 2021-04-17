@@ -1,1 +1,1 @@
-var mnemonic = "decade silly ladder pause good fee power vocal room gun dog congress";
+var mnemonic = "admit rebel heart crane above remove long obtain juice steel water question";

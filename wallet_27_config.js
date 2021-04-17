@@ -1,1 +1,1 @@
-var mnemonic = "above slide plunge betray parent silly youth awesome gas myth silly give";
+var mnemonic = "shallow tragic tone plunge innocent soldier deal festival where tower put true";

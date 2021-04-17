@@ -1,1 +1,1 @@
-var mnemonic = "price erosion cabin follow kitten peasant unfair increase transfer candy fragile disease";
+var mnemonic = "balcony make afford plate solid arctic guess general doll jungle dice pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "knee cloud onion convince pride rough surprise surround account estate palace flower";
+var mnemonic = "divide father gather lobster spoon shuffle similar lobster history dance profit match";

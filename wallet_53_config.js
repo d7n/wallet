@@ -1,1 +1,1 @@
-var mnemonic = "shift indoor original embody price creek panda awkward sustain pigeon boy cycle";
+var mnemonic = "typical recycle wild trick nasty sentence laugh unveil pet render crumble mammal";

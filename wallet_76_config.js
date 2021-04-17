@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tissue vehicle maid awkward wagon custom kick sort physical zone snow";
+var mnemonic = "coconut public fringe pond fly clog fiscal exhaust orbit core antique eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "skin story exact hen canyon stem head exchange parade reform cereal sentence";
+var mnemonic = "float pony deer wise junior wise magnet sport jump illness timber drastic";

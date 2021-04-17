@@ -1,1 +1,1 @@
-var mnemonic = "inform example tent income devote medal donkey crunch surround trophy avoid canyon";
+var mnemonic = "battle own advance twenty crew language modify hedgehog whisper loan bronze magic";

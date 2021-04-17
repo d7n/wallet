@@ -1,1 +1,1 @@
-var mnemonic = "rubber gun hunt equip practice siege kingdom axis private jar tilt awake";
+var mnemonic = "hover apple test always like mass gossip improve wink crime sugar example";

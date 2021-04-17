@@ -1,1 +1,1 @@
-var mnemonic = "remove game drift genre flower unaware one grid sausage invite rack empty";
+var mnemonic = "level host purity onion maximum clever imitate prosper drum blue orphan bargain";

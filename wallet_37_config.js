@@ -1,1 +1,1 @@
-var mnemonic = "range trash acquire segment grocery inject glory better crop body mechanic crumble";
+var mnemonic = "cup clay history sample pioneer young photo jewel defy news awesome prize";

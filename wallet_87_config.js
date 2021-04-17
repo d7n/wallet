@@ -1,1 +1,1 @@
-var mnemonic = "material master noble ring extra race end practice coyote belt mouse alley";
+var mnemonic = "cake crew outdoor energy oven neutral prize impulse culture home shed auto";

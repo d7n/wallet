@@ -1,1 +1,1 @@
-var mnemonic = "velvet jazz strong cement finish expose parent basket garment fiscal vicious enforce";
+var mnemonic = "select sight lift rare faint lizard fatal wear elephant wool borrow army";

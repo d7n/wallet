@@ -1,1 +1,1 @@
-var mnemonic = "veteran heavy twin cloth first nation garment face maid bread metal jelly";
+var mnemonic = "more wedding exclude what case dice wait foil census symptom unknown lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "kite hard duty surface dinner vague joke wife advice goat mushroom wreck";
+var mnemonic = "tattoo endorse dad actual purse drink matrix fever night crouch wheel path";

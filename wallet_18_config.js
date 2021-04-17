@@ -1,1 +1,1 @@
-var mnemonic = "all betray weather veteran arrow amazing false nominee roof height electric bottom";
+var mnemonic = "floor direct glare critic provide bonus dentist endless verb exhaust maze property";

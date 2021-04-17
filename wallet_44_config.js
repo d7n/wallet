@@ -1,1 +1,1 @@
-var mnemonic = "ghost zoo wall quarter wing solution link oppose sheriff dog punch armor";
+var mnemonic = "ability van critic silent portion elegant million tragic science step fade much";

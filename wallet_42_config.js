@@ -1,1 +1,1 @@
-var mnemonic = "buffalo bleak enact cause quarter mind social glimpse famous obscure april strike";
+var mnemonic = "expire aerobic pulp impulse trigger radio sad solid volume scrub maple infant";

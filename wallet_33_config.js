@@ -1,1 +1,1 @@
-var mnemonic = "glimpse bounce wonder tooth gold mother miss ensure add safe wreck hurdle";
+var mnemonic = "throw guitar ladder live what laptop process plug spoon mask crumble pair";

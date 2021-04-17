@@ -1,1 +1,1 @@
-var mnemonic = "nest agree deny wife tattoo valve latin uncle man wrap toe surface";
+var mnemonic = "bring noble fortune dragon shell kite palace invest acid urge deputy crop";

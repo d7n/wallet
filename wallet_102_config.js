@@ -1,1 +1,1 @@
-var mnemonic = "royal artefact current stay ritual more grain just tourist glove august bargain";
+var mnemonic = "wire kiss jazz early pride almost business mountain zebra plunge mad frown";

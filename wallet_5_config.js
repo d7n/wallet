@@ -1,1 +1,1 @@
-var mnemonic = "mass law slab sound parade shy purchase milk canvas cloud order bunker";
+var mnemonic = "inject thank episode version track winter enhance medal soft apple great oxygen";

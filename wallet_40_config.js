@@ -1,1 +1,1 @@
-var mnemonic = "stereo tiny caution excite clever combine dune teach trick cheap private moon";
+var mnemonic = "measure aisle margin planet myself lens glue denial dune price below hurdle";

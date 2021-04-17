@@ -1,1 +1,1 @@
-var mnemonic = "asthma address net assault urban flock truth boil please wing possible bachelor";
+var mnemonic = "verify palm toast demand team play eye table saddle bid staff taste";

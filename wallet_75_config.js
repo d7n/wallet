@@ -1,1 +1,1 @@
-var mnemonic = "vivid warrior turn produce release cherry observe potato harbor split wheat auto";
+var mnemonic = "hospital relief creek oppose surround pink million tiny about valid lucky wage";

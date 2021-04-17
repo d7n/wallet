@@ -1,1 +1,1 @@
-var mnemonic = "salmon donate spoon survey tower detail diary viable canoe aisle midnight drive";
+var mnemonic = "toast ketchup silent vast pact mango wait answer february exercise right level";

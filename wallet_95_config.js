@@ -1,1 +1,1 @@
-var mnemonic = "clarify love maximum zebra fiscal door pigeon load human peace window milk";
+var mnemonic = "bracket arch stomach lecture vacuum insane service stable garbage fit border lobster";

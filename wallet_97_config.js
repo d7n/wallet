@@ -1,1 +1,1 @@
-var mnemonic = "mimic play clump object deal mango job pause quantum hello master project";
+var mnemonic = "outer stamp setup easily hero lecture bread option zebra evidence love filter";

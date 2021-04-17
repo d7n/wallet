@@ -1,1 +1,1 @@
-var mnemonic = "bicycle digital ivory remove oil wedding stove wood shove remind pause tissue";
+var mnemonic = "celery innocent rice vessel cheese minimum brain winter certain pony select traffic";

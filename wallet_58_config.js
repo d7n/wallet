@@ -1,1 +1,1 @@
-var mnemonic = "crucial close toy olive region economy robust dress chalk potato devote rug";
+var mnemonic = "switch cruise ill rocket flee apple bridge protect kangaroo alone announce donate";

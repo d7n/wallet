@@ -1,1 +1,1 @@
-var mnemonic = "limb evoke usual permit unlock below dress globe bulb enrich manual battle";
+var mnemonic = "blush false process cup favorite reason reform vendor car puppy hotel grass";

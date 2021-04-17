@@ -1,1 +1,1 @@
-var mnemonic = "clutch vehicle media thrive sight series interest half famous theme mass pet";
+var mnemonic = "top pepper leg metal claim canyon reject couch ugly napkin address guitar";

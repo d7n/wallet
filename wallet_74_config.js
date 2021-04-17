@@ -1,1 +1,1 @@
-var mnemonic = "put reduce twenty fresh chest ridge flat draft wood minor dash will";
+var mnemonic = "holiday skirt pottery arrange globe supply weather mom remind shield place tool";

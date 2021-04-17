@@ -1,1 +1,1 @@
-var mnemonic = "shuffle prevent sight leave rapid enforce virtual asthma finish magnet degree pattern";
+var mnemonic = "million payment resource inside order essence cupboard ginger feature spray strong sister";

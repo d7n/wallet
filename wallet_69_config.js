@@ -1,1 +1,1 @@
-var mnemonic = "can upper pioneer orphan network manage hover real marine hollow decrease latin";
+var mnemonic = "wing polar search join day road thank remind orbit anchor share quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap unveil jar color erase across another print custom melt spatial price";
+var mnemonic = "year copy force mixture carry clap talk resist tenant sail lift aspect";

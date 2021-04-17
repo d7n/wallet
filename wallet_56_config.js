@@ -1,1 +1,1 @@
-var mnemonic = "moment blue among chief rally venture crater rain miracle salon nasty abandon";
+var mnemonic = "fee harsh green nothing relax cruel icon wire flame cricket enemy style";

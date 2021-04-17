@@ -1,1 +1,1 @@
-var mnemonic = "jazz kick assault ill once meadow biology legal excite bean doll spy";
+var mnemonic = "quantum page pretty intact exhaust icon gadget install pledge upper butter differ";

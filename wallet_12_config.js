@@ -1,1 +1,1 @@
-var mnemonic = "ritual lemon casual horn toss slam sister install away bulb chuckle guide";
+var mnemonic = "coil leopard pencil open reward hunt truck soon violin ski lottery spice";

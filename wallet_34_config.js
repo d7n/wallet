@@ -1,1 +1,1 @@
-var mnemonic = "cup sun will home ticket cash artwork scissors welcome attack reduce glory";
+var mnemonic = "segment denial fiction tunnel scatter catch desert valve impose ready chase angry";

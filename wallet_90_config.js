@@ -1,1 +1,1 @@
-var mnemonic = "night whale torch front race luxury box marriage bleak same gossip edit";
+var mnemonic = "lock future proof swift slow aerobic taste runway sword victory luxury trash";

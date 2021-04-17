@@ -1,1 +1,1 @@
-var mnemonic = "doll uncle color mixture sleep abandon vapor keep mix decrease industry route";
+var mnemonic = "chase harsh cruise neutral barely tobacco hazard silent allow blur surface guide";

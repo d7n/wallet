@@ -1,1 +1,1 @@
-var mnemonic = "device spoon vacuum when grace short kingdom settle grain ready second sample";
+var mnemonic = "sock express chunk patient such style month dwarf admit brush win movie";

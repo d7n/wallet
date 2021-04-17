@@ -1,1 +1,1 @@
-var mnemonic = "army zone merge swarm super empower private gauge black glad carry sun";
+var mnemonic = "mango virtual sword visa happy owner ask correct option blue month office";

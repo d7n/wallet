@@ -1,1 +1,1 @@
-var mnemonic = "ritual evoke act chief laptop gap warm moment pluck bridge garment final";
+var mnemonic = "moment width disorder live devote high key movie chapter ladder often budget";

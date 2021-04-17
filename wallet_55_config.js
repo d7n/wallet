@@ -1,1 +1,1 @@
-var mnemonic = "hand capital squeeze bottom blood shoulder surface spider machine brave broom plunge";
+var mnemonic = "deliver urban hungry ahead dog athlete glad random void loan jump athlete";

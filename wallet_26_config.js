@@ -1,1 +1,1 @@
-var mnemonic = "dice device demand this skull true reform uphold dust brain muffin endless";
+var mnemonic = "punch bone town finish place color destroy flash source nothing dumb virtual";

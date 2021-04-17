@@ -1,1 +1,1 @@
-var mnemonic = "modify answer element bunker casual chat magic melody giraffe feel unfair basic";
+var mnemonic = "agent capable spice large click outer hidden casino roof fuel reflect album";

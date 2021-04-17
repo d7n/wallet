@@ -1,1 +1,1 @@
-var mnemonic = "manage average orbit donkey seminar staff absurd reject subway rural army praise";
+var mnemonic = "camp ripple fee gravity dice monkey grass fringe spoon ramp produce search";

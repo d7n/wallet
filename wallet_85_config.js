@@ -1,1 +1,1 @@
-var mnemonic = "timber wisdom gorilla end twist copper harsh fan master target later usage";
+var mnemonic = "abuse blossom cute diesel member jealous risk twelve casual small jealous device";

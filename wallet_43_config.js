@@ -1,1 +1,1 @@
-var mnemonic = "purchase blade gym drink gate case offer portion weird debate orbit relief";
+var mnemonic = "figure version audit spend burden town entire cup fiction apology side city";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity trash sign artist bracket oxygen cake scene finish issue shrimp luxury";
+var mnemonic = "mix proof glare flag sustain ancient escape wreck volcano inherit ability glance";

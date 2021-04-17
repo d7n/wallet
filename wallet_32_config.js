@@ -1,1 +1,1 @@
-var mnemonic = "person insect gorilla diamond employ foil october whale celery stereo metal october";
+var mnemonic = "exhibit suspect horn absent cinnamon alpha embark gasp cluster possible gun hire";

@@ -1,1 +1,1 @@
-var mnemonic = "sail attack devote pencil nut crystal magnet option treat buddy churn rich";
+var mnemonic = "dance plug sister foster chair useful cat wing nominee civil daring squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "corn employ leisure piano mail ocean auto affair embrace frog practice yard";
+var mnemonic = "seat artist please trap virtual tribe bird entire seven survey unfair owner";

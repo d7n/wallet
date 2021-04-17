@@ -1,1 +1,1 @@
-var mnemonic = "achieve dynamic series belt direct dizzy canvas kick clean write alcohol shrug";
+var mnemonic = "betray denial mail reason orient correct brick use pitch economy diet hobby";

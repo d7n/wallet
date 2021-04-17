@@ -1,1 +1,1 @@
-var mnemonic = "ticket february stay dash main arrow yellow negative north garbage history depart";
+var mnemonic = "thunder require library emerge spoil cargo empty jacket hood flight gap mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "loop grit churn surround doll strategy quantum kid program portion economy before";
+var mnemonic = "occur opinion sketch envelope fox lake camp water nest space doll fit";

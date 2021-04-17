@@ -1,1 +1,1 @@
-var mnemonic = "reward panda file strong effort advice force ship long crack fragile private";
+var mnemonic = "picture comic exile regular vessel foam cheese gorilla alien smoke divert kangaroo";

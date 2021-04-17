@@ -1,1 +1,1 @@
-var mnemonic = "obscure tunnel wire approve world mix atom please inform actual square globe";
+var mnemonic = "mosquito glass shoot derive abandon harvest refuse resemble angry pottery team walk";

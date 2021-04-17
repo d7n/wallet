@@ -1,1 +1,1 @@
-var mnemonic = "bicycle palm forget bone mosquito library regular zone plastic fuel acoustic oyster";
+var mnemonic = "smile clump cliff maximum eagle emerge sun spy wreck strike truth defy";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram elder rare link remove luggage family decide feel novel scene sample";
+var mnemonic = "leave pride anger radar door deer dentist rich token soup apology green";

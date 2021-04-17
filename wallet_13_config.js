@@ -1,1 +1,1 @@
-var mnemonic = "original inner decline reveal spawn outdoor work card ride tenant oak arena";
+var mnemonic = "resemble grass doctor boy false quiz chest exotic alter mind across grant";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion visa glue belt soft scale hurdle trap furnace floor staff know";
+var mnemonic = "truck field abandon disorder swarm sad vintage undo vast news flock blast";

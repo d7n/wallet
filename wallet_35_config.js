@@ -1,1 +1,1 @@
-var mnemonic = "broken this kidney liberty tree cage syrup list fortune trap soccer enact";
+var mnemonic = "illness side urban alien panel blind loyal drive material paddle vivid furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "effort example screen economy ethics trial hire receive coconut bench reform volcano";
+var mnemonic = "junk reflect mask appear mushroom race cover stone boat cradle obvious avocado";

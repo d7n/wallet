@@ -1,1 +1,1 @@
-var mnemonic = "mean balcony upper usage struggle okay cereal isolate update view rug eight";
+var mnemonic = "average payment evolve cloud slow bubble wealth match note make shoe carbon";

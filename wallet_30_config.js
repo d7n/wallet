@@ -1,1 +1,1 @@
-var mnemonic = "negative muscle letter inspire scorpion main trouble practice tilt strike cheese cloth";
+var mnemonic = "adapt medal rabbit voyage dinosaur step sample park involve review fame couple";

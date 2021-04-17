@@ -1,1 +1,1 @@
-var mnemonic = "robot pact destroy isolate maze detect circle female memory wall turkey raccoon";
+var mnemonic = "drive artefact royal essay depth cannon solid fruit east shallow silver survey";

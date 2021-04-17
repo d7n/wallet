@@ -1,1 +1,1 @@
-var mnemonic = "romance burden ski engine certain script salt broom orange rail illegal design";
+var mnemonic = "minor achieve decline goose close can vast where symptom idle card giggle";

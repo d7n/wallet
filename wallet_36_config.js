@@ -1,1 +1,1 @@
-var mnemonic = "same skill parade magic truth discover umbrella friend off barely soccer nation";
+var mnemonic = "drop logic edge kid length attitude build now chunk spirit battle light";

@@ -1,1 +1,1 @@
-var mnemonic = "asset knock legend month shield person ritual tunnel tiny ketchup miss behave";
+var mnemonic = "spice caught cart into faith main crazy supply comfort clown expose enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "choose captain tomato note length arm exile cause wreck health split unaware";
+var mnemonic = "unknown asset service decade train casino width mandate bright shy winner misery";

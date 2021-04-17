@@ -1,1 +1,1 @@
-var mnemonic = "control crater wine uncover snap carpet spatial jump patient elevator essay hope";
+var mnemonic = "weekend zoo rotate park strong chapter lounge candy never brain ramp scare";

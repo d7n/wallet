@@ -1,1 +1,1 @@
-var mnemonic = "window glue kit empower found minimum try update raccoon picture crumble cake";
+var mnemonic = "album sing inject eternal amateur attract you position hamster uniform olive job";

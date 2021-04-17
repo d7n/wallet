@@ -1,1 +1,1 @@
-var mnemonic = "couple sick brother symptom excess panel powder group fantasy tree venture couch";
+var mnemonic = "spray stock tongue much point bulb hurry crew eager seed present dilemma";

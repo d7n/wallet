@@ -1,1 +1,1 @@
-var mnemonic = "cannon swift matter pulp eternal volcano blind already mail token bike load";
+var mnemonic = "unit rifle unhappy vault wet shrug bus life stool under rival again";

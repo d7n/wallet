@@ -1,1 +1,1 @@
-var mnemonic = "buffalo dust welcome security advice gauge reflect monitor panther ill describe fiscal";
+var mnemonic = "hint alley swarm life quick they vault puppy clump balcony priority patient";

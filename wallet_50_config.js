@@ -1,1 +1,1 @@
-var mnemonic = "salad charge hammer trick cricket wine excuse light crawl paddle divorce forum";
+var mnemonic = "all online quiz gesture dog way cart safe jacket orphan grit rice";

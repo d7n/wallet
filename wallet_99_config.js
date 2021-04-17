@@ -1,1 +1,1 @@
-var mnemonic = "system female check trial language lock tray coconut chimney stairs earth law";
+var mnemonic = "flag fitness journey possible acquire crouch piece oval disagree call manual head";

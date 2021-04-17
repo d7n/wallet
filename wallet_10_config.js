@@ -1,1 +1,1 @@
-var mnemonic = "ship program that left learn topple try fossil push drum display review";
+var mnemonic = "duty island hurdle raven winner fault utility clip thumb hurdle potato rotate";

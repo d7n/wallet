@@ -1,1 +1,1 @@
-var mnemonic = "napkin antique ball vanish loyal define exhaust rely token stable man elder";
+var mnemonic = "coconut clock damp begin wife fiction polar three argue voyage width ugly";

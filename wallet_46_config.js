@@ -1,1 +1,1 @@
-var mnemonic = "dove sample slide level quit flavor border afraid elephant also fly theory";
+var mnemonic = "bind evidence father neutral figure fatigue potato capital excite verify hover swim";

@@ -1,1 +1,1 @@
-var mnemonic = "window inquiry slim disease desert wealth repeat decade noise spice great rabbit";
+var mnemonic = "scorpion report slush harsh globe choice circle kitchen major swear also sound";

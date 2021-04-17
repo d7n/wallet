@@ -1,1 +1,1 @@
-var mnemonic = "machine install void kick float coyote eight sure cigar this region wolf";
+var mnemonic = "lecture tomorrow toward olive lemon recycle swing sign cute lady enact amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage approve choice category holiday dish fade trigger absorb ridge stick express";
+var mnemonic = "engage similar wear swallow coral inner post trigger cycle wife luggage confirm";

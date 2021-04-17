@@ -1,1 +1,1 @@
-var mnemonic = "alarm chunk elephant topple rifle biology raven pledge advice palace display sure";
+var mnemonic = "social surface angle dutch guilt flat goddess inch roast perfect other chicken";

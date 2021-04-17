@@ -1,1 +1,1 @@
-var mnemonic = "identify angry size chunk olympic episode detail short swift leader print joy";
+var mnemonic = "salute hawk sugar about dinner tail solution hen miss hair cradle useful";

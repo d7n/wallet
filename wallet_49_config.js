@@ -1,1 +1,1 @@
-var mnemonic = "impact special educate develop trouble soda must afraid damp motion able solution";
+var mnemonic = "squirrel flock light edit erosion shy run twenty strong limb arctic keep";
