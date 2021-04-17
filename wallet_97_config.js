@@ -1,1 +1,1 @@
-var mnemonic = "hurt express battle gentle where ring omit fat dolphin anger tonight leg";
+var mnemonic = "easily payment shoulder slam robot gold wear warm bird lottery security wish";

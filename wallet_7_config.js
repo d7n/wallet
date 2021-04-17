@@ -1,1 +1,1 @@
-var mnemonic = "magnet place silk gasp make exercise hen rubber food february leave syrup";
+var mnemonic = "execute child acoustic bundle crisp alpha final carpet oyster actress beauty energy";

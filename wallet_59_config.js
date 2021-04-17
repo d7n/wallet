@@ -1,1 +1,1 @@
-var mnemonic = "scout extend someone junior water episode twice twenty explain agree soft soul";
+var mnemonic = "buyer scare exercise rib business room jelly visa require gain exile beach";

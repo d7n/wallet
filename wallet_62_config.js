@@ -1,1 +1,1 @@
-var mnemonic = "camera wasp empty clog domain august strike raw sentence wine foil second";
+var mnemonic = "media random miss name stable jewel clown awkward ignore expose critic rotate";

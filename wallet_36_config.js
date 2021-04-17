@@ -1,1 +1,1 @@
-var mnemonic = "food slim note goddess invest mean palm puppy system dentist home club";
+var mnemonic = "exit boil anger flip crack random fitness hover oxygen lawsuit carry curious";

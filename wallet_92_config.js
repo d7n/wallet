@@ -1,1 +1,1 @@
-var mnemonic = "floor excuse width victory aunt radar express field gravity pink like ginger";
+var mnemonic = "earn wedding winner behave income hurt venue timber alien moral regret immense";

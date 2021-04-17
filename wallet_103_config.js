@@ -1,1 +1,1 @@
-var mnemonic = "defy sail blood habit truck rich market general melt average candy system";
+var mnemonic = "history property news youth insect business what write caught unveil auto word";

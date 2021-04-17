@@ -1,1 +1,1 @@
-var mnemonic = "memory secret sheriff ability recipe benefit secret risk able cabin citizen globe";
+var mnemonic = "fault music private shoulder season loyal cute piece attract hundred news often";

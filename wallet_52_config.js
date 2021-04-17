@@ -1,1 +1,1 @@
-var mnemonic = "tribe daughter put rural super raise nothing sting tuna favorite jeans public";
+var mnemonic = "lonely plug rhythm cook onion joy finger round neither mirror february vital";

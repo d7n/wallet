@@ -1,1 +1,1 @@
-var mnemonic = "inch weapon physical rude behind sauce wheel gasp fade panda trip offer";
+var mnemonic = "relief crush help shy staff twelve argue network alert civil cat poverty";

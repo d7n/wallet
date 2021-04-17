@@ -1,1 +1,1 @@
-var mnemonic = "excess plastic fatal boat choose earth error tenant move kangaroo kite arrest";
+var mnemonic = "penalty name amused useful bubble item elegant curious provide weird cattle nature";

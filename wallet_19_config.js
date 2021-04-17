@@ -1,1 +1,1 @@
-var mnemonic = "tilt token upon task soup tongue deer merit december accident curious panic";
+var mnemonic = "panic siege memory pony burger like duty exist nose parrot assault tiger";

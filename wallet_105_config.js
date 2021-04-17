@@ -1,1 +1,1 @@
-var mnemonic = "mistake snap skill drill bridge chest blast wedding clever tortoise arrange social";
+var mnemonic = "click toss social frost wash tornado before game voice horror mixed lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "illness decide wrist web lawn connect female puppy ten food toss trigger";
+var mnemonic = "again account long quote chase toe leg concert cannon emerge talent festival";

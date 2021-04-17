@@ -1,1 +1,1 @@
-var mnemonic = "course suggest cactus pioneer teach tilt chase vacant bottom hobby huge size";
+var mnemonic = "practice key step sad lonely left light cream december boil expect burger";

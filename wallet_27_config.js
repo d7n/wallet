@@ -1,1 +1,1 @@
-var mnemonic = "uncle scheme job toward fashion pond couch boat client frown bamboo animal";
+var mnemonic = "practice slot shift auto butter parrot waste much patch aware hurdle divorce";

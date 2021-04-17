@@ -1,1 +1,1 @@
-var mnemonic = "laugh toe guilt film danger bunker repair run quit connect abstract journey";
+var mnemonic = "tool train wolf history arena maze maid journey shrimp start mammal victory";

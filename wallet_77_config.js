@@ -1,1 +1,1 @@
-var mnemonic = "smart toss bamboo rally absurd reward tiger case object traffic cargo garden";
+var mnemonic = "muscle kind captain slim flock clutch tell flat shield allow jungle cup";

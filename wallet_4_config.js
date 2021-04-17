@@ -1,1 +1,1 @@
-var mnemonic = "below found script sell magic dismiss tag wealth better cousin forum outside";
+var mnemonic = "palace visit bullet enforce husband vintage canal unlock hope coach immune wing";

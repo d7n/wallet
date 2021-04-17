@@ -1,1 +1,1 @@
-var mnemonic = "budget census sport meat rapid reunion arrest turtle puzzle circle tiny ramp";
+var mnemonic = "accuse unaware caution year hawk alley solution tiny month bitter picnic often";

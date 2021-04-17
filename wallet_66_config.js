@@ -1,1 +1,1 @@
-var mnemonic = "action give meadow nominee buddy often strike nice bomb extra penalty cram";
+var mnemonic = "inject elephant hawk vocal rib accident version nation transfer diesel near giraffe";

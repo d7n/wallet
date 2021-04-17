@@ -1,1 +1,1 @@
-var mnemonic = "stock moment deal federal waste umbrella age enable transfer narrow differ snake";
+var mnemonic = "autumn worry broccoli faint elephant swallow sauce rebel confirm laundry curious basic";

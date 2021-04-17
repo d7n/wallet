@@ -1,1 +1,1 @@
-var mnemonic = "bacon fly pelican below denial whip rigid uphold remove expand replace toddler";
+var mnemonic = "sister devote either donate deal connect venture globe plastic reason correct cup";

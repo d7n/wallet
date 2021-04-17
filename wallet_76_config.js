@@ -1,1 +1,1 @@
-var mnemonic = "fantasy link tobacco public assault bone dinosaur never debris access online marine";
+var mnemonic = "insect brick unveil pumpkin unhappy horn argue screen turn zero awesome still";

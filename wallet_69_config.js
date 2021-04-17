@@ -1,1 +1,1 @@
-var mnemonic = "dismiss snack year local rent tag brain argue parade speed episode knock";
+var mnemonic = "lens climb nest crunch vote risk warrior blossom view match spoil oak";

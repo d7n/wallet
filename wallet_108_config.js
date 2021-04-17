@@ -1,1 +1,1 @@
-var mnemonic = "cat casual basket meat front parade stereo gospel write grab humor begin";
+var mnemonic = "clap image business way body clerk enrich debate path north blame olympic";

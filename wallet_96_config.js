@@ -1,1 +1,1 @@
-var mnemonic = "flush actor luxury benefit river eternal ankle panel music wrist damage address";
+var mnemonic = "ankle cactus congress notable alert snake truly tunnel treat junk satisfy sport";

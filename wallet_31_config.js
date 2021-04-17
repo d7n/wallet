@@ -1,1 +1,1 @@
-var mnemonic = "puppy video work keen leg minute spin nominee small baby below reopen";
+var mnemonic = "panel educate check true provide design artwork off gym bus risk eagle";

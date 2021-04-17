@@ -1,1 +1,1 @@
-var mnemonic = "demand foster shell purchase point credit trophy jungle present ahead this liar";
+var mnemonic = "volcano shy awake culture machine token apart wait mail old collect symptom";

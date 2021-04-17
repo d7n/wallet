@@ -1,1 +1,1 @@
-var mnemonic = "permit brief sketch index meat setup runway opinion sunset bullet early inhale";
+var mnemonic = "divide disease subway dolphin tube jelly neck assume pink cabbage stool enhance";

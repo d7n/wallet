@@ -1,1 +1,1 @@
-var mnemonic = "busy fiscal shoe become dust mandate regret run mystery manage stock remember";
+var mnemonic = "win universe harbor stand mind before cinnamon glove arrow ask decrease toss";

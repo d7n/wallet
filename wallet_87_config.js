@@ -1,1 +1,1 @@
-var mnemonic = "install toast oyster century essence bargain wild weapon dinner coast evil funny";
+var mnemonic = "divide ahead shaft assault attract mandate cancel during next home hurdle federal";

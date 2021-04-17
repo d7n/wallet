@@ -1,1 +1,1 @@
-var mnemonic = "govern credit desk now century type prefer uniform crack permit trash arrive";
+var mnemonic = "good slogan caught hip marriage wide loud open smart frost stage pilot";

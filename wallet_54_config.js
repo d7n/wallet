@@ -1,1 +1,1 @@
-var mnemonic = "electric tired addict travel glory install journey unfold net item memory near";
+var mnemonic = "latin cluster device fat assault price stage mushroom despair safe mosquito picnic";

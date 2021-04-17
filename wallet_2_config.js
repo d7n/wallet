@@ -1,1 +1,1 @@
-var mnemonic = "arm dust common coyote away cement market any wage journey border release";
+var mnemonic = "someone bag drum fossil cement airport gravity adjust giant economy come client";

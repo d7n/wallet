@@ -1,1 +1,1 @@
-var mnemonic = "fun cruel quick pen rib vintage total spider sausage circle silly cute";
+var mnemonic = "gesture planet picnic horror black bring luggage ride carpet area opinion next";

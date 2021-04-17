@@ -1,1 +1,1 @@
-var mnemonic = "pride radio jungle gaze session west rent unfair truck slice east punch";
+var mnemonic = "social hub tourist flame impose twelve mirror renew choose thrive battle juice";

@@ -1,1 +1,1 @@
-var mnemonic = "stay portion furnace box inhale shoulder mistake coil material tribe rack ostrich";
+var mnemonic = "today vivid empower poem clutch rookie bike always bachelor purchase change witness";

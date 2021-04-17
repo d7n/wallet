@@ -1,1 +1,1 @@
-var mnemonic = "smooth you arrow shine donate flip legend donate indoor access fun stage";
+var mnemonic = "knife column travel side wonder pepper caught dynamic entry find miracle orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug collect inflict lesson fiction achieve smile camera bring forget leave raccoon";
+var mnemonic = "female south world initial truck film biology small bag flee remove outside";

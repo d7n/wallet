@@ -1,1 +1,1 @@
-var mnemonic = "police skill decrease jaguar carbon suspect way tonight solve miracle gorilla divide";
+var mnemonic = "pair stomach lucky live figure pencil chase organ veteran brown seminar cost";

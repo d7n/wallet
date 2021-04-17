@@ -1,1 +1,1 @@
-var mnemonic = "response promote business liquid forum young rate slim green cushion rigid gloom";
+var mnemonic = "dumb electric early track shoot photo device prepare open creek choice scissors";

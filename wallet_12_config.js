@@ -1,1 +1,1 @@
-var mnemonic = "myself clump merit honey limb anger also bubble hockey hawk addict tail";
+var mnemonic = "west lizard tone travel toilet pave help mix crazy monitor obtain hotel";

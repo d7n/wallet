@@ -1,1 +1,1 @@
-var mnemonic = "muffin tank hunt pumpkin device equal push country review mesh review juice";
+var mnemonic = "copy code catalog skate glare stick there text ocean unusual brand soul";

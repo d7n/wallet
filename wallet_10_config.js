@@ -1,1 +1,1 @@
-var mnemonic = "fit strike tape provide gift pool doctor capital leg dog present dolphin";
+var mnemonic = "cherry balcony glare extra organ ostrich shield left shift melt sadness afraid";

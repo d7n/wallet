@@ -1,1 +1,1 @@
-var mnemonic = "joke pig cycle frequent employ yellow indicate law quarter field mesh anchor";
+var mnemonic = "marine wink giggle immense math wrong army father path silver sad dolphin";

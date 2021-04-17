@@ -1,1 +1,1 @@
-var mnemonic = "salon corn tornado sample observe local jacket scatter column surprise license expect";
+var mnemonic = "gravity romance ship cabin social point dry goat emotion evoke common baby";

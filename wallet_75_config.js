@@ -1,1 +1,1 @@
-var mnemonic = "pink banana include blast enable identify power nice surround remember between shoe";
+var mnemonic = "around detect illegal clinic ill dinner tobacco air much rural name network";

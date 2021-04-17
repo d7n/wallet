@@ -1,1 +1,1 @@
-var mnemonic = "beauty journey solve agree benefit gas chapter evil minor repair click hole";
+var mnemonic = "cactus brother inherit file spy chuckle dizzy fee recipe wedding economy radar";

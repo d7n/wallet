@@ -1,1 +1,1 @@
-var mnemonic = "kit bone deny system story artefact limb chronic crime simple year napkin";
+var mnemonic = "predict brick foot cloud mosquito opinion balance banner eye before tree mechanic";

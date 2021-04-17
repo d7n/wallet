@@ -1,1 +1,1 @@
-var mnemonic = "auction glory draft odor barrel table indicate filter false hen narrow become";
+var mnemonic = "denial gorilla upper fade unveil fan destroy ranch plate glide among stadium";

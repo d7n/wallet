@@ -1,1 +1,1 @@
-var mnemonic = "produce trade collect father dish neither only say lazy describe clog powder";
+var mnemonic = "abstract salute glue blossom soldier tuna rice ceiling pen return inhale panther";

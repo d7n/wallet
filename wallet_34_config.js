@@ -1,1 +1,1 @@
-var mnemonic = "girl great pen winter forest knee question song school fitness idea sight";
+var mnemonic = "crime biology tape vapor cake school orient apology body wide cake choice";

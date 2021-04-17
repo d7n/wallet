@@ -1,1 +1,1 @@
-var mnemonic = "machine arrive under market access warrior rival either trust column evidence net";
+var mnemonic = "unveil window keep found crumble topple honey hood amazing yellow fossil whisper";

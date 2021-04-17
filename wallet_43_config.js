@@ -1,1 +1,1 @@
-var mnemonic = "drive parent swarm abstract fire victory wagon world soap promote dust noise";
+var mnemonic = "worth option cousin horror fitness room grab often fashion party pluck network";

@@ -1,1 +1,1 @@
-var mnemonic = "domain home utility head assault weasel purpose grow genre enforce oven fold";
+var mnemonic = "lake sentence crane news base want glass they bar prize calm program";

@@ -1,1 +1,1 @@
-var mnemonic = "together butter scare health excuse glue entry spoon river soon vibrant radio";
+var mnemonic = "type improve hope civil palm friend ordinary garage spring insect among basket";

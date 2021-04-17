@@ -1,1 +1,1 @@
-var mnemonic = "fury treat focus orphan coach base embody square tornado stove garlic fatal";
+var mnemonic = "crane pizza metal rocket addict raise paddle crush reform illegal exclude glue";

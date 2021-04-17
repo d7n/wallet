@@ -1,1 +1,1 @@
-var mnemonic = "connect chimney salad march flee range jelly nice derive birth vacuum divide";
+var mnemonic = "limb cage fabric staff misery game habit shove camp useless kid target";

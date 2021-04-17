@@ -1,1 +1,1 @@
-var mnemonic = "mix monitor trigger glimpse ice crumble elegant swamp poem glory gift slot";
+var mnemonic = "army trap pact series novel across garage nothing arch aerobic general staff";

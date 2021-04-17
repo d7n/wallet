@@ -1,1 +1,1 @@
-var mnemonic = "park over visit alpha eight game tennis honey fabric arch into actor";
+var mnemonic = "sponsor father powder egg endless insane shrimp sound adult fan isolate warrior";

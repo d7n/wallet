@@ -1,1 +1,1 @@
-var mnemonic = "thank rug rotate tail text village hair border own unfold admit aim";
+var mnemonic = "chuckle inherit bid almost material name color task gaze festival paddle sock";

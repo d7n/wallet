@@ -1,1 +1,1 @@
-var mnemonic = "rare glide source trash museum truth recycle oil trip across banana model";
+var mnemonic = "truck field online owner walk arrange point ten response wink thank sheriff";

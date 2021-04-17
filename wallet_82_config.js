@@ -1,1 +1,1 @@
-var mnemonic = "please artist pattern carbon volume process empower renew morning inject pave proud";
+var mnemonic = "margin draw pull dry wall envelope bundle hundred sentence pulse gorilla laundry";

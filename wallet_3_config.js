@@ -1,1 +1,1 @@
-var mnemonic = "always announce birth expose guitar fit blade interest chicken victory girl spy";
+var mnemonic = "else canyon luggage decade observe final shove neutral material ten depth eyebrow";

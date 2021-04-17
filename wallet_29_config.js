@@ -1,1 +1,1 @@
-var mnemonic = "gun spirit become scrap crush keep guilt left bitter zoo giraffe essence";
+var mnemonic = "onion sadness way beauty pact point cannon fix share depth phone message";

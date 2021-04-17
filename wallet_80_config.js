@@ -1,1 +1,1 @@
-var mnemonic = "coconut approve ceiling charge age april crisp tortoise village unknown need panda";
+var mnemonic = "bright play author nephew wink powder subject silent fence oval genius idea";

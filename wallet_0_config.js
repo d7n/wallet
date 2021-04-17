@@ -1,1 +1,1 @@
-var mnemonic = "chief right glare length beauty embody merge put tissue spell craft priority";
+var mnemonic = "excite defy since symptom romance tragic noodle salt obtain brown legend room";

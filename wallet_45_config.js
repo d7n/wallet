@@ -1,1 +1,1 @@
-var mnemonic = "weekend purity burst style guess flavor surround boil inch lounge opera tuition";
+var mnemonic = "text interest turtle today mushroom sell escape connect crisp brown vessel seek";

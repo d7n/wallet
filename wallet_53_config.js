@@ -1,1 +1,1 @@
-var mnemonic = "south silly hello metal success city cancel soft icon comic royal ticket";
+var mnemonic = "win slim return nature now elegant donor all basket fitness column fault";

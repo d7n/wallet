@@ -1,1 +1,1 @@
-var mnemonic = "dizzy whale mouse nose profit verb mule suspect bitter engine soap identify";
+var mnemonic = "guess remember history clog ticket ill stem rally heart pledge ski double";

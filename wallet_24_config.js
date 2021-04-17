@@ -1,1 +1,1 @@
-var mnemonic = "burger inquiry census retreat math bonus style disagree brisk audit kind poet";
+var mnemonic = "head eyebrow mandate hard pause dirt oppose struggle noise doll mask when";

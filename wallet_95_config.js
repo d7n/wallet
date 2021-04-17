@@ -1,1 +1,1 @@
-var mnemonic = "rate hammer pact situate decorate rude rubber appear hurdle hobby bitter antenna";
+var mnemonic = "atom shove maid beach twenty toddler write music verb steak salmon situate";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle okay shallow prize course focus wish duck vivid circle warrior juice";
+var mnemonic = "diary panel dry output stone brain divorce crumble eager junior sleep blur";

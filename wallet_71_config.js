@@ -1,1 +1,1 @@
-var mnemonic = "pyramid minute sight artefact grief plug drip need tape culture nurse pass";
+var mnemonic = "punch oval post romance echo uphold absurd galaxy blush judge pipe right";

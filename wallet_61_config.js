@@ -1,1 +1,1 @@
-var mnemonic = "barely fitness matrix tower clock local gloom link sentence hip design talk";
+var mnemonic = "raccoon invest awesome please casino car cattle peasant lion obey stamp clerk";

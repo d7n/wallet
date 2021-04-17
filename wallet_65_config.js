@@ -1,1 +1,1 @@
-var mnemonic = "estate cigar nice silly liquid curious output today creek caught junk simple";
+var mnemonic = "target witness execute two demise fault color jaguar weasel flavor pulp novel";

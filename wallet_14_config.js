@@ -1,1 +1,1 @@
-var mnemonic = "long solve boil limb satoshi science baby swear witness stable jewel lawn";
+var mnemonic = "face curious affair urban hamster hurry fence poem energy task arrange armor";

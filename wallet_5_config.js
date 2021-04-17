@@ -1,1 +1,1 @@
-var mnemonic = "allow lend unit dirt govern blue food sense fatal cram slogan that";
+var mnemonic = "forum grunt lonely require girl female unique giggle scorpion orbit erode author";

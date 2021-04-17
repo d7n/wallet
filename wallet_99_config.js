@@ -1,1 +1,1 @@
-var mnemonic = "huge adult index kid acoustic remind recycle mind critic trip cabbage rocket";
+var mnemonic = "violin saddle sketch retire budget setup solution dial beach field neither hobby";

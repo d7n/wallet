@@ -1,1 +1,1 @@
-var mnemonic = "impose cloud balance wrap eight army skull toddler boss dignity relief jewel";
+var mnemonic = "decorate hurt enhance crash seek spatial faith wife lion ridge brass unfair";

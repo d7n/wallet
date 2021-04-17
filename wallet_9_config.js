@@ -1,1 +1,1 @@
-var mnemonic = "copper riot fatal service axis usual alcohol same present delay chest tackle";
+var mnemonic = "gas city garbage topple just soon noodle water meat fortune neck stuff";

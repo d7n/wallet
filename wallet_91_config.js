@@ -1,1 +1,1 @@
-var mnemonic = "captain point hat turtle oppose scheme giant panther employ maid degree paddle";
+var mnemonic = "remove citizen divorce valid usage eager heavy decade acoustic bid floor table";

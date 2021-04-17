@@ -1,1 +1,1 @@
-var mnemonic = "general decline canyon master black hedgehog erosion latin sword where hard index";
+var mnemonic = "avoid myth faith accuse clerk pony version sock antique carry bar system";

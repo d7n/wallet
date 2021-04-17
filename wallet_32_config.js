@@ -1,1 +1,1 @@
-var mnemonic = "chunk hawk crouch furnace stomach achieve harsh gospel small festival mutual flash";
+var mnemonic = "donate current empower wheel text orchard staff trick also suspect alpha cinnamon";

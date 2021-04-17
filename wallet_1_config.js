@@ -1,1 +1,1 @@
-var mnemonic = "denial song network female good point label tomorrow blouse blast another bargain";
+var mnemonic = "glance stomach laptop bachelor pause staff crazy seat hungry direct ability start";
