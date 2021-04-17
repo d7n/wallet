@@ -1,1 +1,1 @@
-var mnemonic = "palace visit bullet enforce husband vintage canal unlock hope coach immune wing";
+var mnemonic = "shuffle prevent sight leave rapid enforce virtual asthma finish magnet degree pattern";

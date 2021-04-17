@@ -1,1 +1,1 @@
-var mnemonic = "uncover common among finish teach humor torch call eager indicate eagle moment";
+var mnemonic = "royal artefact current stay ritual more grain just tourist glove august bargain";

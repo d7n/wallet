@@ -1,1 +1,1 @@
-var mnemonic = "tool train wolf history arena maze maid journey shrimp start mammal victory";
+var mnemonic = "impact special educate develop trouble soda must afraid damp motion able solution";

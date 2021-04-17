@@ -1,1 +1,1 @@
-var mnemonic = "forum grunt lonely require girl female unique giggle scorpion orbit erode author";
+var mnemonic = "mass law slab sound parade shy purchase milk canvas cloud order bunker";

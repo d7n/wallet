@@ -1,1 +1,1 @@
-var mnemonic = "gas city garbage topple just soon noodle water meat fortune neck stuff";
+var mnemonic = "effort example screen economy ethics trial hire receive coconut bench reform volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "marine wink giggle immense math wrong army father path silver sad dolphin";
+var mnemonic = "round gallery donkey elephant legal boy best banner dream symptom argue main";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid family forum example tide alien syrup juice alert carpet stairs edit";
+var mnemonic = "dice device demand this skull true reform uphold dust brain muffin endless";

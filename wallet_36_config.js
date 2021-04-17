@@ -1,1 +1,1 @@
-var mnemonic = "exit boil anger flip crack random fitness hover oxygen lawsuit carry curious";
+var mnemonic = "same skill parade magic truth discover umbrella friend off barely soccer nation";

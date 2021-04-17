@@ -1,1 +1,1 @@
-var mnemonic = "crime biology tape vapor cake school orient apology body wide cake choice";
+var mnemonic = "cup sun will home ticket cash artwork scissors welcome attack reduce glory";

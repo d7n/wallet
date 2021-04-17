@@ -1,1 +1,1 @@
-var mnemonic = "good slogan caught hip marriage wide loud open smart frost stage pilot";
+var mnemonic = "sunny soap chef awful recall slight power ride exhibit destroy rare powder";

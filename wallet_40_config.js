@@ -1,1 +1,1 @@
-var mnemonic = "knife column travel side wonder pepper caught dynamic entry find miracle orbit";
+var mnemonic = "stereo tiny caution excite clever combine dune teach trick cheap private moon";

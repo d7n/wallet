@@ -1,1 +1,1 @@
-var mnemonic = "raccoon invest awesome please casino car cattle peasant lion obey stamp clerk";
+var mnemonic = "velvet jazz strong cement finish expose parent basket garment fiscal vicious enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle cactus congress notable alert snake truly tunnel treat junk satisfy sport";
+var mnemonic = "under develop ski critic notable quality duty display unfold kick phone wish";

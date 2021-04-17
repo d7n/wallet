@@ -1,1 +1,1 @@
-var mnemonic = "donate current empower wheel text orchard staff trick also suspect alpha cinnamon";
+var mnemonic = "person insect gorilla diamond employ foil october whale celery stereo metal october";

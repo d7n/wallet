@@ -1,1 +1,1 @@
-var mnemonic = "type improve hope civil palm friend ordinary garage spring insect among basket";
+var mnemonic = "achieve dynamic series belt direct dizzy canvas kick clean write alcohol shrug";

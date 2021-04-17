@@ -1,1 +1,1 @@
-var mnemonic = "bid vault plate bike stumble attitude oil security rookie october speed giant";
+var mnemonic = "buffalo dust welcome security advice gauge reflect monitor panther ill describe fiscal";

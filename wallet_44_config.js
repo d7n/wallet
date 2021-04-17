@@ -1,1 +1,1 @@
-var mnemonic = "future idea cause able tongue village poet auction venture pepper skill attract";
+var mnemonic = "ghost zoo wall quarter wing solution link oppose sheriff dog punch armor";

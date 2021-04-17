@@ -1,1 +1,1 @@
-var mnemonic = "copy code catalog skate glare stick there text ocean unusual brand soul";
+var mnemonic = "depart buzz amateur amused sponsor nice gesture negative vibrant injury heart birth";

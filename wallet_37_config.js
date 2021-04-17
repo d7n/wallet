@@ -1,1 +1,1 @@
-var mnemonic = "sponsor father powder egg endless insane shrimp sound adult fan isolate warrior";
+var mnemonic = "range trash acquire segment grocery inject glory better crop body mechanic crumble";

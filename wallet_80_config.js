@@ -1,1 +1,1 @@
-var mnemonic = "bright play author nephew wink powder subject silent fence oval genius idea";
+var mnemonic = "knee cloud onion convince pride rough surprise surround account estate palace flower";

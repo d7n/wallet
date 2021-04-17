@@ -1,1 +1,1 @@
-var mnemonic = "chuckle inherit bid almost material name color task gaze festival paddle sock";
+var mnemonic = "choose captain tomato note length arm exile cause wreck health split unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "someone bag drum fossil cement airport gravity adjust giant economy come client";
+var mnemonic = "robot pact destroy isolate maze detect circle female memory wall turkey raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb electric early track shoot photo device prepare open creek choice scissors";
+var mnemonic = "all betray weather veteran arrow amazing false nominee roof height electric bottom";

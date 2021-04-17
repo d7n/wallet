@@ -1,1 +1,1 @@
-var mnemonic = "punch oval post romance echo uphold absurd galaxy blush judge pipe right";
+var mnemonic = "powder grass truly vibrant fun silver enhance extend agree forget blanket spare";

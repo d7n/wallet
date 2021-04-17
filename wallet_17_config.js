@@ -1,1 +1,1 @@
-var mnemonic = "divide disease subway dolphin tube jelly neck assume pink cabbage stool enhance";
+var mnemonic = "inform example tent income devote medal donkey crunch surround trophy avoid canyon";

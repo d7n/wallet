@@ -1,1 +1,1 @@
-var mnemonic = "avoid myth faith accuse clerk pony version sock antique carry bar system";
+var mnemonic = "mean balcony upper usage struggle okay cereal isolate update view rug eight";

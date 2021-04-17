@@ -1,1 +1,1 @@
-var mnemonic = "issue cupboard dish actual country load time pluck space cost purity base";
+var mnemonic = "bicycle digital ivory remove oil wedding stove wood shove remind pause tissue";

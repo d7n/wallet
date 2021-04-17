@@ -1,1 +1,1 @@
-var mnemonic = "amateur candy inherit observe shrimp broccoli area helmet sunny sweet sick damp";
+var mnemonic = "price erosion cabin follow kitten peasant unfair increase transfer candy fragile disease";

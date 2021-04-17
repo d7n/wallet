@@ -1,1 +1,1 @@
-var mnemonic = "lonely plug rhythm cook onion joy finger round neither mirror february vital";
+var mnemonic = "loop grit churn surround doll strategy quantum kid program portion economy before";

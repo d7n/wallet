@@ -1,1 +1,1 @@
-var mnemonic = "example drastic federal vacuum act bleak deputy this dream degree wheel method";
+var mnemonic = "alarm chunk elephant topple rifle biology raven pledge advice palace display sure";

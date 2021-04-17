@@ -1,1 +1,1 @@
-var mnemonic = "lens climb nest crunch vote risk warrior blossom view match spoil oak";
+var mnemonic = "can upper pioneer orphan network manage hover real marine hollow decrease latin";

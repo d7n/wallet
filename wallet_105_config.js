@@ -1,1 +1,1 @@
-var mnemonic = "click toss social frost wash tornado before game voice horror mixed lawsuit";
+var mnemonic = "club sport swear language glove denial end march tribe credit aisle decrease";

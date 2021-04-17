@@ -1,1 +1,1 @@
-var mnemonic = "abstract salute glue blossom soldier tuna rice ceiling pen return inhale panther";
+var mnemonic = "couch about crumble moment tissue cradle modify clog fence embark battle mystery";

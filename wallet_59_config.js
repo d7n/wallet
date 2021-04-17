@@ -1,1 +1,1 @@
-var mnemonic = "buyer scare exercise rib business room jelly visa require gain exile beach";
+var mnemonic = "salmon donate spoon survey tower detail diary viable canoe aisle midnight drive";

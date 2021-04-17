@@ -1,1 +1,1 @@
-var mnemonic = "onion sadness way beauty pact point cannon fix share depth phone message";
+var mnemonic = "doll uncle color mixture sleep abandon vapor keep mix decrease industry route";

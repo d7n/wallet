@@ -1,1 +1,1 @@
-var mnemonic = "glance stomach laptop bachelor pause staff crazy seat hungry direct ability start";
+var mnemonic = "romance burden ski engine certain script salt broom orange rail illegal design";

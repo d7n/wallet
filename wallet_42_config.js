@@ -1,1 +1,1 @@
-var mnemonic = "sorry dirt pepper mass section provide member lemon mouse bar quick cable";
+var mnemonic = "buffalo bleak enact cause quarter mind social glimpse famous obscure april strike";

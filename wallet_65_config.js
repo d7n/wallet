@@ -1,1 +1,1 @@
-var mnemonic = "target witness execute two demise fault color jaguar weasel flavor pulp novel";
+var mnemonic = "remove game drift genre flower unaware one grid sausage invite rack empty";

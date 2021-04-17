@@ -1,1 +1,1 @@
-var mnemonic = "fresh old wash chuckle dwarf clown urge wink yellow foil toe female";
+var mnemonic = "stairs student swarm impulse distance tone earn shrimp curtain match eager kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry balcony glare extra organ ostrich shield left shift melt sadness afraid";
+var mnemonic = "ship program that left learn topple try fossil push drum display review";

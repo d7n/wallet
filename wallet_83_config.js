@@ -1,1 +1,1 @@
-var mnemonic = "sister devote either donate deal connect venture globe plastic reason correct cup";
+var mnemonic = "dynamic miracle wage asthma rigid muffin example usual popular desk zoo crowd";

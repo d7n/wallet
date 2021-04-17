@@ -1,1 +1,1 @@
-var mnemonic = "truck field online owner walk arrange point ten response wink thank sheriff";
+var mnemonic = "modify answer element bunker casual chat magic melody giraffe feel unfair basic";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn worry broccoli faint elephant swallow sauce rebel confirm laundry curious basic";
+var mnemonic = "night whale torch front race luxury box marriage bleak same gossip edit";

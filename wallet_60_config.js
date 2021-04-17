@@ -1,1 +1,1 @@
-var mnemonic = "diary panel dry output stone brain divorce crumble eager junior sleep blur";
+var mnemonic = "reunion visa glue belt soft scale hurdle trap furnace floor staff know";

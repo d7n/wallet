@@ -1,1 +1,1 @@
-var mnemonic = "luggage truly library great bargain guard essay whale race recall that core";
+var mnemonic = "salad charge hammer trick cricket wine excuse light crawl paddle divorce forum";

@@ -1,1 +1,1 @@
-var mnemonic = "insect brick unveil pumpkin unhappy horn argue screen turn zero awesome still";
+var mnemonic = "vacuum tissue vehicle maid awkward wagon custom kick sort physical zone snow";

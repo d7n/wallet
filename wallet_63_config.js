@@ -1,1 +1,1 @@
-var mnemonic = "budget elegant design solid section fun junk rebel hope renew trash sport";
+var mnemonic = "album spring addict region face quiz neutral badge artefact cigar please bag";

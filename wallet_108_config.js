@@ -1,1 +1,1 @@
-var mnemonic = "clap image business way body clerk enrich debate path north blame olympic";
+var mnemonic = "corn employ leisure piano mail ocean auto affair embrace frog practice yard";

@@ -1,1 +1,1 @@
-var mnemonic = "practice slot shift auto butter parrot waste much patch aware hurdle divorce";
+var mnemonic = "above slide plunge betray parent silly youth awesome gas myth silly give";

@@ -1,1 +1,1 @@
-var mnemonic = "lake sentence crane news base want glass they bar prize calm program";
+var mnemonic = "crucial close toy olive region economy robust dress chalk potato devote rug";

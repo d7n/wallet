@@ -1,1 +1,1 @@
-var mnemonic = "else canyon luggage decade observe final shove neutral material ten depth eyebrow";
+var mnemonic = "clown solar keep husband praise cost submit response that casual scare issue";

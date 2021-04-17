@@ -1,1 +1,1 @@
-var mnemonic = "pair stomach lucky live figure pencil chase organ veteran brown seminar cost";
+var mnemonic = "glimpse bounce wonder tooth gold mother miss ensure add safe wreck hurdle";

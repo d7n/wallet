@@ -1,1 +1,1 @@
-var mnemonic = "predict brick foot cloud mosquito opinion balance banner eye before tree mechanic";
+var mnemonic = "dove sample slide level quit flavor border afraid elephant also fly theory";

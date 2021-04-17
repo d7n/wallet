@@ -1,1 +1,1 @@
-var mnemonic = "accuse unaware caution year hawk alley solution tiny month bitter picnic often";
+var mnemonic = "cannon swift matter pulp eternal volcano blind already mail token bike load";

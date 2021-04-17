@@ -1,1 +1,1 @@
-var mnemonic = "worth option cousin horror fitness room grab often fashion party pluck network";
+var mnemonic = "purchase blade gym drink gate case offer portion weird debate orbit relief";

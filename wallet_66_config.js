@@ -1,1 +1,1 @@
-var mnemonic = "inject elephant hawk vocal rib accident version nation transfer diesel near giraffe";
+var mnemonic = "nest agree deny wife tattoo valve latin uncle man wrap toe surface";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture planet picnic horror black bring luggage ride carpet area opinion next";
+var mnemonic = "hand capital squeeze bottom blood shoulder surface spider machine brave broom plunge";

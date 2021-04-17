@@ -1,1 +1,1 @@
-var mnemonic = "penalty name amused useful bubble item elegant curious provide weird cattle nature";
+var mnemonic = "ritual evoke act chief laptop gap warm moment pluck bridge garment final";

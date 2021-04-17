@@ -1,1 +1,1 @@
-var mnemonic = "brand tower weather smooth oyster disagree west cloth chase abstract pony spend";
+var mnemonic = "skin story exact hen canyon stem head exchange parade reform cereal sentence";

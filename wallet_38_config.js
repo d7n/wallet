@@ -1,1 +1,1 @@
-var mnemonic = "denial gorilla upper fade unveil fan destroy ranch plate glide among stadium";
+var mnemonic = "identify angry size chunk olympic episode detail short swift leader print joy";

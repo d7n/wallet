@@ -1,1 +1,1 @@
-var mnemonic = "spot rebuild meadow swim old arrive miss saddle concert fault idle story";
+var mnemonic = "asset knock legend month shield person ritual tunnel tiny ketchup miss behave";

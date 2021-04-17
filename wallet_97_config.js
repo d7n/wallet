@@ -1,1 +1,1 @@
-var mnemonic = "easily payment shoulder slam robot gold wear warm bird lottery security wish";
+var mnemonic = "mimic play clump object deal mango job pause quantum hello master project";

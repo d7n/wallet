@@ -1,1 +1,1 @@
-var mnemonic = "hundred purpose defense gaze hurt opinion increase quarter build mixture father purchase";
+var mnemonic = "broken this kidney liberty tree cage syrup list fortune trap soccer enact";

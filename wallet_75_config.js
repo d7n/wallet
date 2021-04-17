@@ -1,1 +1,1 @@
-var mnemonic = "around detect illegal clinic ill dinner tobacco air much rural name network";
+var mnemonic = "vivid warrior turn produce release cherry observe potato harbor split wheat auto";

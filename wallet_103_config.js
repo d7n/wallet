@@ -1,1 +1,1 @@
-var mnemonic = "history property news youth insect business what write caught unveil auto word";
+var mnemonic = "ticket february stay dash main arrow yellow negative north garbage history depart";

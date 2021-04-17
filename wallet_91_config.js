@@ -1,1 +1,1 @@
-var mnemonic = "remove citizen divorce valid usage eager heavy decade acoustic bid floor table";
+var mnemonic = "sail attack devote pencil nut crystal magnet option treat buddy churn rich";

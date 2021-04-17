@@ -1,1 +1,1 @@
-var mnemonic = "panel educate check true provide design artwork off gym bus risk eagle";
+var mnemonic = "army zone merge swarm super empower private gauge black glad carry sun";

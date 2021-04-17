@@ -1,1 +1,1 @@
-var mnemonic = "decorate hurt enhance crash seek spatial faith wife lion ridge brass unfair";
+var mnemonic = "dignity trash sign artist bracket oxygen cake scene finish issue shrimp luxury";

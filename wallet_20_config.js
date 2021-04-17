@@ -1,1 +1,1 @@
-var mnemonic = "social hub tourist flame impose twelve mirror renew choose thrive battle juice";
+var mnemonic = "decade silly ladder pause good fee power vocal room gun dog congress";

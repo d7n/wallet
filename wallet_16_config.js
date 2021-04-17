@@ -1,1 +1,1 @@
-var mnemonic = "unveil window keep found crumble topple honey hood amazing yellow fossil whisper";
+var mnemonic = "asthma address net assault urban flock truth boil please wing possible bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic salt cabbage birth pulse sentence loan drift still ensure gate ride";
+var mnemonic = "wrap unveil jar color erase across another print custom melt spatial price";

@@ -1,1 +1,1 @@
-var mnemonic = "south gauge funny tone ghost run unable rebuild daring puzzle finish poem";
+var mnemonic = "lumber shrimp convince license wave eye clown crowd result please bright test";

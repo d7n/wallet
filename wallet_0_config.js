@@ -1,1 +1,1 @@
-var mnemonic = "excite defy since symptom romance tragic noodle salt obtain brown legend room";
+var mnemonic = "window glue kit empower found minimum try update raccoon picture crumble cake";

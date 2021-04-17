@@ -1,1 +1,1 @@
-var mnemonic = "face curious affair urban hamster hurry fence poem energy task arrange armor";
+var mnemonic = "napkin antique ball vanish loyal define exhaust rely token stable man elder";

@@ -1,1 +1,1 @@
-var mnemonic = "margin draw pull dry wall envelope bundle hundred sentence pulse gorilla laundry";
+var mnemonic = "weasel priority angle level simple faculty verb size shine clever loan chef";

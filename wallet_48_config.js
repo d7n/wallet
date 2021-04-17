@@ -1,1 +1,1 @@
-var mnemonic = "army trap pact series novel across garage nothing arch aerobic general staff";
+var mnemonic = "diagram elder rare link remove luggage family decide feel novel scene sample";

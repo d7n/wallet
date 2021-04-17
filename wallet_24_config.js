@@ -1,1 +1,1 @@
-var mnemonic = "head eyebrow mandate hard pause dirt oppose struggle noise doll mask when";
+var mnemonic = "catch stick maximum image try hidden allow reason hotel traffic control chunk";

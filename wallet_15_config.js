@@ -1,1 +1,1 @@
-var mnemonic = "limb cage fabric staff misery game habit shove camp useless kid target";
+var mnemonic = "jazz kick assault ill once meadow biology legal excite bean doll spy";

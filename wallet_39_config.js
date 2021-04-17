@@ -1,1 +1,1 @@
-var mnemonic = "warm brass million grain kidney media note salute spread velvet drum tissue";
+var mnemonic = "obscure tunnel wire approve world mix atom please inform actual square globe";

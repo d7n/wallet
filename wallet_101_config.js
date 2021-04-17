@@ -1,1 +1,1 @@
-var mnemonic = "fault music private shoulder season loyal cute piece attract hundred news often";
+var mnemonic = "curve length shy option orchard weapon service remain auction normal auto vote";

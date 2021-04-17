@@ -1,1 +1,1 @@
-var mnemonic = "execute child acoustic bundle crisp alpha final carpet oyster actress beauty energy";
+var mnemonic = "flat detect point critic muscle amount fortune police embark sniff amused vapor";

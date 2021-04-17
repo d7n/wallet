@@ -1,1 +1,1 @@
-var mnemonic = "cactus brother inherit file spy chuckle dizzy fee recipe wedding economy radar";
+var mnemonic = "original inner decline reveal spawn outdoor work card ride tenant oak arena";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle kind captain slim flock clutch tell flat shield allow jungle cup";
+var mnemonic = "spell circle obscure imitate swarm radar misery daring shuffle auto account illegal";

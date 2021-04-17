@@ -1,1 +1,1 @@
-var mnemonic = "win slim return nature now elegant donor all basket fitness column fault";
+var mnemonic = "shift indoor original embody price creek panda awkward sustain pigeon boy cycle";

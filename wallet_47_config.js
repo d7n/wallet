@@ -1,1 +1,1 @@
-var mnemonic = "female south world initial truck film biology small bag flee remove outside";
+var mnemonic = "machine install void kick float coyote eight sure cigar this region wolf";

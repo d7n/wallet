@@ -1,1 +1,1 @@
-var mnemonic = "relief crush help shy staff twelve argue network alert civil cat poverty";
+var mnemonic = "device spoon vacuum when grace short kingdom settle grain ready second sample";

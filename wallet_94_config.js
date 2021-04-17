@@ -1,1 +1,1 @@
-var mnemonic = "gravity romance ship cabin social point dry goat emotion evoke common baby";
+var mnemonic = "control crater wine uncover snap carpet spatial jump patient elevator essay hope";

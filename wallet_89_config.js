@@ -1,1 +1,1 @@
-var mnemonic = "today vivid empower poem clutch rookie bike always bachelor purchase change witness";
+var mnemonic = "seek protect funny medal reunion banana debate pioneer diamond steel tape device";

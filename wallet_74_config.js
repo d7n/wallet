@@ -1,1 +1,1 @@
-var mnemonic = "crane pizza metal rocket addict raise paddle crush reform illegal exclude glue";
+var mnemonic = "put reduce twenty fresh chest ridge flat draft wood minor dash will";
