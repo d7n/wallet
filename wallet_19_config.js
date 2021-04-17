@@ -1,1 +1,1 @@
-var mnemonic = "fun deliver game open fragile video machine borrow brand fiber video impulse";
+var mnemonic = "wheat glad wire pair merge sugar face tomato push medal version ivory";

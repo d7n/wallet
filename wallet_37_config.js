@@ -1,1 +1,1 @@
-var mnemonic = "day muffin leader season repair marble depth parade park segment drink mail";
+var mnemonic = "month beach author adapt valve magnet betray outside space cube flat nerve";

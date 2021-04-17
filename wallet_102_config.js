@@ -1,1 +1,1 @@
-var mnemonic = "barrel leg view coral situate rug unaware embody hand smart gorilla man";
+var mnemonic = "cement provide maple degree dynamic never pretty pudding carry skate taxi maple";

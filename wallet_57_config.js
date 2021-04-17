@@ -1,1 +1,1 @@
-var mnemonic = "attend volume plastic debate tank outdoor clerk dress obtain such maid analyst";
+var mnemonic = "force obey time liquid tool always mixed bless exotic disorder slab climb";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew unaware uniform program arena supply bargain mouse label adapt armed afford";
+var mnemonic = "fiction strike diary satoshi labor kitten ethics goddess wasp mention equal comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lock uncle panic student arrow level glow truly across doctor input";
+var mnemonic = "unhappy skill lab obtain field erase youth anger daughter priority pony orphan";

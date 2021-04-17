@@ -1,1 +1,1 @@
-var mnemonic = "melt vessel movie way bamboo lava race net taste biology ready master";
+var mnemonic = "move hedgehog only ankle habit tip derive rally labor liar bracket then";

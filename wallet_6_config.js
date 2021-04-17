@@ -1,1 +1,1 @@
-var mnemonic = "stem name wear disagree nice column real wave foam immense claw powder";
+var mnemonic = "job gaze vote boss mountain reopen morning dinosaur piece answer rough dignity";

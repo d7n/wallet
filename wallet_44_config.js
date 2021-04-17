@@ -1,1 +1,1 @@
-var mnemonic = "suggest maze insane mobile soup siege reduce toast idle arctic swallow future";
+var mnemonic = "doctor fatigue useless gasp arch juice side clip auto jewel roof answer";

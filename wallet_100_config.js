@@ -1,1 +1,1 @@
-var mnemonic = "indicate immune laptop wisdom tomato example nephew false liberty sister seven space";
+var mnemonic = "document snap river bread plastic stumble unique neck water issue initial obscure";

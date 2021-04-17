@@ -1,1 +1,1 @@
-var mnemonic = "glare odor holiday notable winner explain betray method apple right fiscal note";
+var mnemonic = "child fatal between sibling syrup wear knock ask car chase lion lazy";

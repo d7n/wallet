@@ -1,1 +1,1 @@
-var mnemonic = "bring bomb siege copper bless lunar mammal inject away urban foot filter";
+var mnemonic = "tonight satisfy ready gallery cereal ready forward lawsuit barely parrot squeeze addict";

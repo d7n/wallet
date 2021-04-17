@@ -1,1 +1,1 @@
-var mnemonic = "clever order science excuse video sugar elder kit rotate rally sentence canal";
+var mnemonic = "pen hospital gossip market crowd twist nuclear sibling toy tomorrow noble figure";

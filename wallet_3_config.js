@@ -1,1 +1,1 @@
-var mnemonic = "actress gaze banana equip tongue mule hip pupil april make neck pink";
+var mnemonic = "rice student clever design country marble buyer slice knee water kingdom slogan";

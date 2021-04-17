@@ -1,1 +1,1 @@
-var mnemonic = "paddle cannon opinion social account three welcome portion control shrimp toss gentle";
+var mnemonic = "shrimp dinosaur skin december unlock trial follow orient cupboard settle ghost armed";

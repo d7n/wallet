@@ -1,1 +1,1 @@
-var mnemonic = "chuckle seek dirt august suggest height card blue oven kiwi owner hurt";
+var mnemonic = "soul undo victory rose cave fruit project window useless glass sunset explain";

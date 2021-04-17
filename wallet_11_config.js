@@ -1,1 +1,1 @@
-var mnemonic = "orphan repeat second lion sense pony typical gloom scale deny good afraid";
+var mnemonic = "error annual minute salute alter vault retreat certain fly truly common acid";

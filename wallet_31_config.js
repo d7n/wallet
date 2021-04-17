@@ -1,1 +1,1 @@
-var mnemonic = "peace inspire obscure giggle ice version garment disagree view general glad street";
+var mnemonic = "hold awkward cart assist delay liberty comic illegal domain position observe cost";

@@ -1,1 +1,1 @@
-var mnemonic = "twin nasty fit coconut moon actor course output ball similar spin jaguar";
+var mnemonic = "north beach island appear asset lift turtle orphan expire calm wheel pond";

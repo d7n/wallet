@@ -1,1 +1,1 @@
-var mnemonic = "camera burst struggle bitter poem kidney glare embrace party goose truck invest";
+var mnemonic = "topple angry away current lady color welcome fluid flip hub enemy purpose";

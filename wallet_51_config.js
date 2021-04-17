@@ -1,1 +1,1 @@
-var mnemonic = "advance bread cupboard gun lend cage student update swear message galaxy rice";
+var mnemonic = "hire tenant confirm asset long fruit evoke add coach vessel horror liquid";

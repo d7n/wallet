@@ -1,1 +1,1 @@
-var mnemonic = "spatial vendor hungry shell food theme crucial dial whisper dirt barely solar";
+var mnemonic = "avocado lock air motion veteran worth island draw vault damp blame amount";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce ocean else resource upgrade glue wool panda random control please traffic";
+var mnemonic = "law eight humble film later apple surprise father people ride fine glare";

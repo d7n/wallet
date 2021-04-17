@@ -1,1 +1,1 @@
-var mnemonic = "ring stem into supreme thank edit program wear poem say grid desert";
+var mnemonic = "super eagle prize true hamster rice distance leg cloth slice core reopen";

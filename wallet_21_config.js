@@ -1,1 +1,1 @@
-var mnemonic = "say maid grief smooth phone dial canal walnut wealth swamp price genre";
+var mnemonic = "glow system spell saddle steel flock eye artefact level mother mix card";

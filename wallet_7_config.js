@@ -1,1 +1,1 @@
-var mnemonic = "nut thunder wage size vehicle stumble deliver siren gravity action elbow bone";
+var mnemonic = "coconut mango clog daring hollow kitchen donate ride lucky clinic winner rich";

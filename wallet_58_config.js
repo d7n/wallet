@@ -1,1 +1,1 @@
-var mnemonic = "auto comfort trade truck average coast category left name rebuild age stick";
+var mnemonic = "wrong tortoise glory picnic core maze keen cable correct bundle naive gaze";

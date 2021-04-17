@@ -1,1 +1,1 @@
-var mnemonic = "replace horn develop tortoise bless human evil punch wall recipe cattle slab";
+var mnemonic = "public poem toe spring dolphin address clump crew fly evidence clarify flight";

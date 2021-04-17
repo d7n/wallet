@@ -1,1 +1,1 @@
-var mnemonic = "into dress barrel person retreat rhythm high quit gossip ball phone trophy";
+var mnemonic = "enact buyer found pass absorb can coin stone menu clump limb shop";

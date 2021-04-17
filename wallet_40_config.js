@@ -1,1 +1,1 @@
-var mnemonic = "person modify joke desert bundle fabric please essence off loud agree infant";
+var mnemonic = "trick express wire taxi actress glove trade balance fish ridge sand thought";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure plate month shadow clap dry name design polar tiny uncle stamp";
+var mnemonic = "chronic gain voyage bright kiwi oppose wife demand physical depend syrup owner";

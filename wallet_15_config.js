@@ -1,1 +1,1 @@
-var mnemonic = "happy mother fury teach bronze segment scout alter photo trash undo six";
+var mnemonic = "beyond protect man obvious meadow cruise vault urge sea organ ridge deer";

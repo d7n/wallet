@@ -1,1 +1,1 @@
-var mnemonic = "thank drum sunny olive spray insect hip spawn rotate owner throw regret";
+var mnemonic = "caught castle spatial magnet rebuild zone drum embrace shaft upon describe error";

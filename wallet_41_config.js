@@ -1,1 +1,1 @@
-var mnemonic = "fiscal club rent estate exile pact ordinary evolve deny lunch sick pyramid";
+var mnemonic = "hat connect icon stumble shoe divide pilot visual laptop panic lazy slim";

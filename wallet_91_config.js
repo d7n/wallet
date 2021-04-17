@@ -1,1 +1,1 @@
-var mnemonic = "turn dose primary seek moon entire bubble clarify mosquito soccer bitter ticket";
+var mnemonic = "dumb prepare mesh hint horn drum life tumble drama embrace doll eternal";

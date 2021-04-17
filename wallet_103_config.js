@@ -1,1 +1,1 @@
-var mnemonic = "forget skin sustain grit tuna fever monkey hawk web pipe kite office";
+var mnemonic = "nut action upon opera wheat digital panic love october rhythm hair vapor";

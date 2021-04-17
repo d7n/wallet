@@ -1,1 +1,1 @@
-var mnemonic = "awkward special leisure crash pledge shed hazard tenant sustain search service alpha";
+var mnemonic = "endless prefer critic wasp puppy skirt hidden airport resource one banner crisp";

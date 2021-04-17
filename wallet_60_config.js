@@ -1,1 +1,1 @@
-var mnemonic = "nut party vote crane person planet ocean debate price sing grape disease";
+var mnemonic = "soccer trust nothing bone list arctic fabric venture shy destroy cash check";

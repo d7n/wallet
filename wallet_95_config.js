@@ -1,1 +1,1 @@
-var mnemonic = "runway injury equal move orbit vacant turn palace stamp length priority hobby";
+var mnemonic = "hotel shallow three isolate twist evil wrong corn obvious spin better range";

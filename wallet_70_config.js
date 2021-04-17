@@ -1,1 +1,1 @@
-var mnemonic = "metal divert assault upper unit trick reveal witness spirit swallow opinion pelican";
+var mnemonic = "rib feed yellow film announce sand tennis bicycle manual fabric breeze decline";

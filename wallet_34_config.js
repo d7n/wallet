@@ -1,1 +1,1 @@
-var mnemonic = "insect tackle venue gun saddle accuse sail egg drive obscure caught mother";
+var mnemonic = "garbage habit garden space run joy poverty sword razor frown wealth tuition";

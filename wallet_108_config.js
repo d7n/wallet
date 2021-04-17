@@ -1,1 +1,1 @@
-var mnemonic = "share crazy announce forward vote glance brief service spray engage earn glide";
+var mnemonic = "subject scrub glove throw furnace rigid spider basic expand piano scale cage";

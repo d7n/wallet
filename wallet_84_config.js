@@ -1,1 +1,1 @@
-var mnemonic = "stock hen frost voice alcohol bread resist board west forget injury tube";
+var mnemonic = "absorb lonely attack bronze album script mesh spoon car volcano drum shoulder";

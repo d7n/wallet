@@ -1,1 +1,1 @@
-var mnemonic = "another valley cute type dirt tell buffalo cover area pretty car carbon";
+var mnemonic = "erupt novel point focus window pull regular barrel occur hundred innocent wolf";

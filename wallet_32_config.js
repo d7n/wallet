@@ -1,1 +1,1 @@
-var mnemonic = "drill harsh entry used ripple grid feel dutch season stadium pride all";
+var mnemonic = "crouch scene approve birth before nephew distance upon hidden panel chat swear";

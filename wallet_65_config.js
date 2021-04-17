@@ -1,1 +1,1 @@
-var mnemonic = "beyond desert indicate moon attack prosper drama dragon hole spin rebel empower";
+var mnemonic = "flash state enhance color reveal medal electric setup clap churn wonder prize";

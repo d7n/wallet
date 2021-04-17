@@ -1,1 +1,1 @@
-var mnemonic = "cream hover sport recycle notable robust property carbon naive mesh essence diesel";
+var mnemonic = "asthma warfare come piece boss control velvet quick music hold gasp since";

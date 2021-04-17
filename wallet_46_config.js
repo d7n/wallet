@@ -1,1 +1,1 @@
-var mnemonic = "manual have rapid senior digital brief poem aspect remove afraid transfer oppose";
+var mnemonic = "first device morning spend second drive twenty smile tool embrace remain moment";

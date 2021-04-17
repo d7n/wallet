@@ -1,1 +1,1 @@
-var mnemonic = "chaos castle actual powder fish glide slab lava vanish welcome track note";
+var mnemonic = "wild margin tube piano place gospel improve require arch velvet tone chest";

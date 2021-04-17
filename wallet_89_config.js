@@ -1,1 +1,1 @@
-var mnemonic = "swear rigid garbage wrap grab myself fold match about early dog ignore";
+var mnemonic = "kind pride ability dial rate smoke write guitar kiwi output member nut";

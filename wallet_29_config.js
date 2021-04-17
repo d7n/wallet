@@ -1,1 +1,1 @@
-var mnemonic = "funny tomorrow casual local demand engage grocery jewel element drill word convince";
+var mnemonic = "ranch science wonder antique pupil venue iron bubble history flush twenty rate";

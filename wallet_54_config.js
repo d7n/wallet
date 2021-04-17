@@ -1,1 +1,1 @@
-var mnemonic = "click album grid cloth marine clutch famous mother goddess awkward now strong";
+var mnemonic = "edit snake beyond zero mesh together soccer drama piece avoid name census";

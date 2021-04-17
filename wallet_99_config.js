@@ -1,1 +1,1 @@
-var mnemonic = "fish shed fox knee convince turtle dawn pony plug explain hard police";
+var mnemonic = "cruel try pond drama private connect hidden erase salmon ill link course";

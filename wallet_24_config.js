@@ -1,1 +1,1 @@
-var mnemonic = "piece random pencil frequent proof blouse duck tenant legend learn wolf trigger";
+var mnemonic = "poem edge pole panda claw hollow kiss recycle emotion naive remove blood";

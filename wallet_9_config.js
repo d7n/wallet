@@ -1,1 +1,1 @@
-var mnemonic = "height panel sing stay vacant trigger pistol wrist devote tennis differ general";
+var mnemonic = "submit shop team pitch merit right birth lady shell soon face grief";

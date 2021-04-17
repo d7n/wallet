@@ -1,1 +1,1 @@
-var mnemonic = "throw put chief prosper siren afford category exile fossil very square undo";
+var mnemonic = "similar capable album cigar effort chair keen page void garment winner virus";

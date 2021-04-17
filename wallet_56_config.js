@@ -1,1 +1,1 @@
-var mnemonic = "dad ritual knee zoo sentence network mule rough math witness enhance six";
+var mnemonic = "lion enemy mimic demise clutch cushion love dove vehicle usual beef fault";

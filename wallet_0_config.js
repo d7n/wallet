@@ -1,1 +1,1 @@
-var mnemonic = "club atom response drink auto approve jelly absent category until silly control";
+var mnemonic = "squirrel walk marble diesel embody defense chunk diagram column where prize clarify";

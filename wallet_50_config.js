@@ -1,1 +1,1 @@
-var mnemonic = "secret found just gift metal fringe play arch earth assist before capable";
+var mnemonic = "column citizen glimpse forget eight hat honey forget evil carpet embrace antenna";

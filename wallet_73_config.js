@@ -1,1 +1,1 @@
-var mnemonic = "found gown amateur sun safe brisk knee couch unknown pink trophy twin";
+var mnemonic = "junior answer water tube fish sleep issue bonus life pyramid twelve patch";

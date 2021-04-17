@@ -1,1 +1,1 @@
-var mnemonic = "drink process trash van icon oil truly wait crazy yard crop skull";
+var mnemonic = "audit chimney mad memory mango sing client crucial alert opera company maple";

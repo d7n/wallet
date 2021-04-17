@@ -1,1 +1,1 @@
-var mnemonic = "riot reopen fashion athlete able pond bean virtual frost guitar body exact";
+var mnemonic = "virus leg evidence depend critic access street dumb ozone spoon cancel member";

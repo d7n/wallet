@@ -1,1 +1,1 @@
-var mnemonic = "coconut man open balcony police evoke doll fatal crater village cereal dawn";
+var mnemonic = "stick tree walk pattern evil donkey security few when crop boat school";

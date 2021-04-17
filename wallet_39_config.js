@@ -1,1 +1,1 @@
-var mnemonic = "grain smart person vessel tube name open city room hurdle undo provide";
+var mnemonic = "demise wash arrange ready flat feed cactus ahead net wide paddle cool";

@@ -1,1 +1,1 @@
-var mnemonic = "desert share holiday brand fossil muffin salt derive neglect rally item fee";
+var mnemonic = "skill tiger since tuition grunt scorpion avoid apart catalog cook depend pioneer";

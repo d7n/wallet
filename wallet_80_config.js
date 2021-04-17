@@ -1,1 +1,1 @@
-var mnemonic = "gain mountain kite easily kiwi useless dawn arrest since bulb device people";
+var mnemonic = "hat gain amused accident journey fire water endless target pony cave umbrella";

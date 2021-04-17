@@ -1,1 +1,1 @@
-var mnemonic = "arrest unlock arrange despair clown soup betray brisk believe pumpkin joke boss";
+var mnemonic = "bachelor fee double buyer tell leopard lecture gadget main dash little flag";

@@ -1,1 +1,1 @@
-var mnemonic = "staff merge grow mixture arrow habit uniform unhappy puppy diagram series access";
+var mnemonic = "another voyage grant tackle define jacket ride dentist mass hobby valley lock";

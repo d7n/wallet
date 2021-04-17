@@ -1,1 +1,1 @@
-var mnemonic = "input crouch mix long repeat satoshi plug glad advice rescue math dial";
+var mnemonic = "photo history length meat route drive head slab duty parrot order radar";

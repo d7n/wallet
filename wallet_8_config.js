@@ -1,1 +1,1 @@
-var mnemonic = "minor member water degree garden penalty patrol weekend move harvest frog year";
+var mnemonic = "lunch cruise orange yard discover license bitter decline happy traffic pact blanket";

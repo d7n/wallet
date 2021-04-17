@@ -1,1 +1,1 @@
-var mnemonic = "bounce quarter limb attend cliff fire cluster sight loud cave minor burden";
+var mnemonic = "balance marine anxiety visa egg protect sunset leg print idle orchard brisk";

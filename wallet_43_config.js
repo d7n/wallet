@@ -1,1 +1,1 @@
-var mnemonic = "auction brisk banana screen conduct raccoon alter job globe host pipe purity";
+var mnemonic = "tornado water stock tenant midnight interest advance smooth day custom nothing carpet";

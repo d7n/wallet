@@ -1,1 +1,1 @@
-var mnemonic = "remind crater casual relief twice guard relax bacon flush baby hollow finish";
+var mnemonic = "tool ribbon half flame universe sea direct alarm umbrella genre duty cousin";

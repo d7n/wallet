@@ -1,1 +1,1 @@
-var mnemonic = "gloom pond unfold ordinary loud then settle electric sock palm best borrow";
+var mnemonic = "inside abuse radio taxi project parent make stock motion dad elder join";

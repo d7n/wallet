@@ -1,1 +1,1 @@
-var mnemonic = "remove bring fragile bargain gold exchange achieve gadget thought gadget day victory";
+var mnemonic = "knife they achieve find today ankle address uncover risk piece harbor fuel";

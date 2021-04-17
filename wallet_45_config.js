@@ -1,1 +1,1 @@
-var mnemonic = "tongue push half essence stay wolf inside jealous floor ball mesh clean";
+var mnemonic = "surface silent minor suffer penalty alcohol various west curtain elder syrup census";

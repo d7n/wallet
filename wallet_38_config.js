@@ -1,1 +1,1 @@
-var mnemonic = "mixed resemble test fun grape soccer actor rally sponsor toilet oven turtle";
+var mnemonic = "venture local armor tower series pretty strategy element program tree output chicken";

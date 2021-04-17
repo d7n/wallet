@@ -1,1 +1,1 @@
-var mnemonic = "man crater day whisper cup rack ripple crane hurdle yellow junior near";
+var mnemonic = "machine swarm broken man evidence wheat disease canoe peanut tuna film keen";

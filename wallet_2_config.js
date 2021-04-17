@@ -1,1 +1,1 @@
-var mnemonic = "midnight exile super zebra bulb elevator summer assume drip barely topic post";
+var mnemonic = "water quality garage fold fatigue melody toddler piano evolve approve soldier exhibit";

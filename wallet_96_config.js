@@ -1,1 +1,1 @@
-var mnemonic = "harbor dismiss pave resemble peasant torch yard cheese crawl best twin ensure";
+var mnemonic = "embrace arm initial truth tuition alter success obtain unlock lend mammal license";

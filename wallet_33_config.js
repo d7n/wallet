@@ -1,1 +1,1 @@
-var mnemonic = "bamboo grit disorder document cheese mail warm few genre remind tired habit";
+var mnemonic = "fame relax body clump normal cereal sugar sausage merge other torch surround";

@@ -1,1 +1,1 @@
-var mnemonic = "excite general chase phone swap nominee vivid digital hero final lottery purchase";
+var mnemonic = "push alter note calm produce leg embrace flock rack protect under normal";

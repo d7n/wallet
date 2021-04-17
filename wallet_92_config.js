@@ -1,1 +1,1 @@
-var mnemonic = "carpet wrestle sense unfair live game wealth stomach analyst below search cupboard";
+var mnemonic = "creek acoustic beef example brush pelican dizzy hire pig regular twelve half";

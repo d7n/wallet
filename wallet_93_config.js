@@ -1,1 +1,1 @@
-var mnemonic = "churn page course local ankle frog host sentence dinosaur save answer pizza";
+var mnemonic = "couch alone crazy loyal moon receive foot flower enroll width fault hamster";
