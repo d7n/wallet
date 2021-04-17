@@ -1,1 +1,1 @@
-var mnemonic = "replace dinosaur media input right merge neither vault jar anxiety roast unhappy";
+var mnemonic = "tray chef scout moon motion bronze sponsor spend sand squeeze flag notable";

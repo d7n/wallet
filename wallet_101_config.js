@@ -1,1 +1,1 @@
-var mnemonic = "thought symptom system soon plunge inflict carpet pull arena mistake know trade";
+var mnemonic = "inch phrase ability repair vocal random survey pioneer scare arrest monitor sting";

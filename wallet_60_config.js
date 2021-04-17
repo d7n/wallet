@@ -1,1 +1,1 @@
-var mnemonic = "defense ancient squirrel hollow photo ketchup oppose claw garage spread pet south";
+var mnemonic = "nation fancy charge shoot pluck nurse guide nation token dry demand retire";

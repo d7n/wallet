@@ -1,1 +1,1 @@
-var mnemonic = "unaware issue toe globe flight surprise federal seed neither admit enroll cheese";
+var mnemonic = "spoon wrist firm erase roast length ceiling annual excuse refuse grass length";

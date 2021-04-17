@@ -1,1 +1,1 @@
-var mnemonic = "ozone capable usage upset modify clog parrot borrow wagon wrestle neutral hammer";
+var mnemonic = "depth cherry crisp survey recall drink brisk vivid scare monitor drama helmet";

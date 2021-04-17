@@ -1,1 +1,1 @@
-var mnemonic = "eagle door age benefit carpet turkey beach random area cannon artefact smooth";
+var mnemonic = "among trim rack color glare hollow coral gain material taste yard fade";

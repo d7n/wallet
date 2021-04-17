@@ -1,1 +1,1 @@
-var mnemonic = "spoon sphere rain unusual stadium noodle owner toast once bag potato sleep";
+var mnemonic = "image play hollow exercise fine fly vacuum test valid crater year focus";

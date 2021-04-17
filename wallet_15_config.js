@@ -1,1 +1,1 @@
-var mnemonic = "manual rotate wrestle various moon submit organ kitten recycle hockey short economy";
+var mnemonic = "hobby magnet upon pair regret maple boy blind play level like practice";

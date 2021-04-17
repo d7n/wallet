@@ -1,1 +1,1 @@
-var mnemonic = "gospel shiver lunar lazy smooth horn genuine finger marriage wear faculty maximum";
+var mnemonic = "bird honey collect base tray swallow faint all gasp way excite timber";

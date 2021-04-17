@@ -1,1 +1,1 @@
-var mnemonic = "dose season energy divert brand merit panel can hand decrease join erase";
+var mnemonic = "fork dwarf author pluck defy plunge alley vehicle twist tenant tonight about";

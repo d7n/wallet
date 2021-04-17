@@ -1,1 +1,1 @@
-var mnemonic = "picnic volume shy injury primary decorate salute over hip lonely gasp fog";
+var mnemonic = "theme valve resource cigar celery scrub moral verb scene desert minor solid";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble west rail absorb regret burger lion race yellow guide mad carbon";
+var mnemonic = "dance rule equal summer opinion double someone sad crouch broken involve blue";

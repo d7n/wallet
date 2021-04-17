@@ -1,1 +1,1 @@
-var mnemonic = "jazz lens key thank venture erode predict scatter tennis trial blossom choose";
+var mnemonic = "lobster sudden process stamp gospel juice carry ripple heart job net frog";

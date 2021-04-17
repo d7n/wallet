@@ -1,1 +1,1 @@
-var mnemonic = "purse cry type buyer rescue elegant target call strategy island empower air";
+var mnemonic = "laptop drill world mention volume flame able chef ozone course hard kiss";

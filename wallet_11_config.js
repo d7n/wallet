@@ -1,1 +1,1 @@
-var mnemonic = "snow arrange solar swing wine blouse trick royal current ridge you buddy";
+var mnemonic = "vital original since coast jaguar canoe clarify mistake foster wool bean polar";

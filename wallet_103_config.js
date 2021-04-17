@@ -1,1 +1,1 @@
-var mnemonic = "upper trim remember soup lava actual bracket pretty fragile permit hybrid flower";
+var mnemonic = "blast ozone attend talk fitness neck cabin saddle run kick ginger affair";

@@ -1,1 +1,1 @@
-var mnemonic = "treat battle lobster tourist hotel today sister core armor topic plate material";
+var mnemonic = "goddess empty hill tool royal garage silk manage say position celery tilt";

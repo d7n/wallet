@@ -1,1 +1,1 @@
-var mnemonic = "reason reduce joke solid problem salmon where crunch vote pass sauce mix";
+var mnemonic = "eye used wise box subway position panel ripple pull aim fit hip";

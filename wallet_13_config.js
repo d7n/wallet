@@ -1,1 +1,1 @@
-var mnemonic = "turn install music jar daughter transfer crunch athlete oppose broom rocket broken";
+var mnemonic = "one more diesel void whale parrot orchard draft unlock jealous fan music";

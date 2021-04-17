@@ -1,1 +1,1 @@
-var mnemonic = "battle solution wood chronic burst mansion energy flower admit wire swarm shadow";
+var mnemonic = "sugar unlock helmet gorilla cheap pizza tobacco arena any network swift avocado";

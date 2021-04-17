@@ -1,1 +1,1 @@
-var mnemonic = "scene pill raccoon disagree predict busy acoustic expire knife stock behind cattle";
+var mnemonic = "circle cycle enlist bitter cheese blood brush unfair rent slide reveal post";

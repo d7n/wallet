@@ -1,1 +1,1 @@
-var mnemonic = "task acoustic lunch visa screen job race equal actor brush bracket lesson";
+var mnemonic = "flock arrive census someone dish wonder chair arctic answer common hurry service";

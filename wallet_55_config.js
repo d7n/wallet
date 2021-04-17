@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit million hazard divert honey wash valve swarm sentence dilemma elevator yellow";
+var mnemonic = "sport pioneer silk fluid rescue myth urban media awake clinic manual term";

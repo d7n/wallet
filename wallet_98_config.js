@@ -1,1 +1,1 @@
-var mnemonic = "awful embrace pretty soft coast wine blossom salad zone iron another horn";
+var mnemonic = "tower work husband mix defense caution reflect faint demise calm range item";

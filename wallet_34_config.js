@@ -1,1 +1,1 @@
-var mnemonic = "mom slush resist shift file kind wood fish weekend asthma jelly vote";
+var mnemonic = "winner always initial slab drastic donor client world island more dust cave";

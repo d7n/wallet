@@ -1,1 +1,1 @@
-var mnemonic = "absorb spatial tomato sport process devote slush wing lava vivid drastic catch";
+var mnemonic = "bring foam leave round fashion wage depth learn caution accuse mansion riot";

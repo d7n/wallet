@@ -1,1 +1,1 @@
-var mnemonic = "phone spike tip topple yellow consider advice isolate soap sausage give weasel";
+var mnemonic = "fog visa bacon report cute tribe bleak very gather pink congress develop";

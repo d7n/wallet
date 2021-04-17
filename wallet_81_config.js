@@ -1,1 +1,1 @@
-var mnemonic = "benefit dirt panther year fatal north field excess minimum shield hurdle frost";
+var mnemonic = "exile hero hint anger mutual stumble undo mixed drive jeans board quality";

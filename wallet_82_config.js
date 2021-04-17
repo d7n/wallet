@@ -1,1 +1,1 @@
-var mnemonic = "winter limit lyrics leader oak nut search gravity oven motor sister move";
+var mnemonic = "assault age elevator imitate ahead dirt coconut degree tennis develop jewel rescue";

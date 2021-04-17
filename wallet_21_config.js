@@ -1,1 +1,1 @@
-var mnemonic = "scheme survey fan lecture morning hello fossil chronic hood nut rigid cricket";
+var mnemonic = "local agree veteran grow wisdom control eye key eye nephew menu equal";

@@ -1,1 +1,1 @@
-var mnemonic = "daring search north rule brave box dizzy document quarter agent sail soldier";
+var mnemonic = "fatigue riot live chicken false magnet pole guilt base quality foot another";

@@ -1,1 +1,1 @@
-var mnemonic = "devote remember hammer melt riot lava brief future panda youth any prize";
+var mnemonic = "acid chuckle bubble smoke glare come fish degree vintage damage fruit glue";

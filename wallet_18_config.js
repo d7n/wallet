@@ -1,1 +1,1 @@
-var mnemonic = "sun space enhance law popular dignity image plunge priority find shift match";
+var mnemonic = "wife about best immune matrix funny brand test estate bottom next alarm";

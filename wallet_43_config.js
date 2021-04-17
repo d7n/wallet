@@ -1,1 +1,1 @@
-var mnemonic = "supply shield able sail neck swim capital portion egg fiber giant hazard";
+var mnemonic = "puppy tuition dove fuel stage under basic volume face east arena hero";

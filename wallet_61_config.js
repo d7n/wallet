@@ -1,1 +1,1 @@
-var mnemonic = "approve bulb rather exhibit hockey gown oil beach machine pipe river barely";
+var mnemonic = "shoot napkin permit install short cannon portion simple gym ignore radio surface";

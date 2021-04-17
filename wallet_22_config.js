@@ -1,1 +1,1 @@
-var mnemonic = "recall inform great torch fix crime ridge funny lab recall reform marine";
+var mnemonic = "sun route forum twice desert usual bean rough ready later recycle whale";

@@ -1,1 +1,1 @@
-var mnemonic = "page detect enhance inside forest canal toast priority candy casino honey already";
+var mnemonic = "smart inherit together coral resist joke arrive vibrant robust field option cram";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure clock plate black shy black suffer snake pluck circle praise modify";
+var mnemonic = "feel license among young minor love empower alcohol pizza core ball patient";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon describe indoor spoon blossom shiver transfer armed veteran mosquito copper bird";
+var mnemonic = "invite unable worth strike anger seek fan castle injury similar balcony fault";

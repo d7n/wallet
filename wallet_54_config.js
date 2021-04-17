@@ -1,1 +1,1 @@
-var mnemonic = "patient very beauty same piano alpha joke buyer early ask buddy advice";
+var mnemonic = "size invest rough ice warfare valid twenty spider trigger table leg weekend";

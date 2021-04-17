@@ -1,1 +1,1 @@
-var mnemonic = "few stomach ozone arrest rail struggle dry light hazard measure attack fan";
+var mnemonic = "alone sorry waste mean mango paddle eye path toilet man fork deer";

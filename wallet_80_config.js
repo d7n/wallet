@@ -1,1 +1,1 @@
-var mnemonic = "fox stumble become spring panel avocado depend punch bind check rally game";
+var mnemonic = "amused silly absurd about emerge able spread hold capital caution off noble";

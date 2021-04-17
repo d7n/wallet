@@ -1,1 +1,1 @@
-var mnemonic = "country climb skill soap wear differ nut fame solution stay cycle early";
+var mnemonic = "mechanic home spike paper enable scrub grant mom confirm guess episode electric";

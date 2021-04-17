@@ -1,1 +1,1 @@
-var mnemonic = "meat rent figure erode ocean shoe science response atom tribe spawn island";
+var mnemonic = "device juice inquiry energy crack use exit before refuse moment someone ski";

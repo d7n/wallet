@@ -1,1 +1,1 @@
-var mnemonic = "addict awake hole much ramp pioneer glance memory wolf diamond notice shoulder";
+var mnemonic = "question modify bottom mosquito cradle mad scissors mail donkey prosper skate off";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic bag cabbage wonder fix time gorilla sport assault brave image try";
+var mnemonic = "spring slim song afraid street pilot raccoon minor mammal submit defy fall";

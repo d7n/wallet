@@ -1,1 +1,1 @@
-var mnemonic = "blue rally cricket design above tuna fragile benefit index vacant mixed gate";
+var mnemonic = "axis slogan avocado great worth note govern honey enforce runway good uniform";

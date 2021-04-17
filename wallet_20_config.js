@@ -1,1 +1,1 @@
-var mnemonic = "sure gate churn know pass review fold elevator diagram talent together fitness";
+var mnemonic = "wave human sibling camp wife width depart receive negative impose frown claim";

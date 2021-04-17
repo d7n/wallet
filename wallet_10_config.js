@@ -1,1 +1,1 @@
-var mnemonic = "tree allow vote clock maple skill hollow hello kitchen gloom tent embody";
+var mnemonic = "finish thrive enable match video velvet sight loop number silly endorse scout";

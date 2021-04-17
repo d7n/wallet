@@ -1,1 +1,1 @@
-var mnemonic = "install grit horn attack banner loyal color earth light acoustic thank trigger";
+var mnemonic = "sadness idle remain borrow power portion mistake spray quantum offer boil dumb";

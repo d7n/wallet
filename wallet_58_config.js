@@ -1,1 +1,1 @@
-var mnemonic = "nature view choice cherry supreme noodle prize tool pledge effort have little";
+var mnemonic = "announce squirrel pistol plate favorite myth clap alert try shop arrow company";

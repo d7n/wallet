@@ -1,1 +1,1 @@
-var mnemonic = "hidden swing jar skin together hen race puzzle voice predict item gravity";
+var mnemonic = "boil live improve lounge cupboard thumb phrase behave save rice hen movie";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle choice unfold sick shrimp chief excess method valley record asthma sunset";
+var mnemonic = "kangaroo twin father seed seed merry rescue table record marine foil muscle";

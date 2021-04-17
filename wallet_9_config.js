@@ -1,1 +1,1 @@
-var mnemonic = "hotel brisk symptom grow upper domain speed valid kiss horror merit extend";
+var mnemonic = "dawn ethics invite wage right tape else piano come bid tube farm";

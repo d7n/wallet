@@ -1,1 +1,1 @@
-var mnemonic = "arctic party lonely pledge genius decline glad sugar sand elbow upon face";
+var mnemonic = "shop city poverty naive embrace tower used flight pig outdoor lunar palm";

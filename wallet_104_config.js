@@ -1,1 +1,1 @@
-var mnemonic = "follow goddess column hungry music connect sniff help toe vital deliver square";
+var mnemonic = "resource dash oppose suspect fork exhaust fresh eagle state bronze spread jazz";

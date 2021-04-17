@@ -1,1 +1,1 @@
-var mnemonic = "hurdle head badge record alley shadow buyer cake achieve behind advance portion";
+var mnemonic = "enhance weather urban pact weekend knock must physical spice grab door hub";

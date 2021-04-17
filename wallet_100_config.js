@@ -1,1 +1,1 @@
-var mnemonic = "bag ankle dune charge medal domain warrior river mansion caught enroll heavy";
+var mnemonic = "decrease right uncover extend village rare mandate sunset warrior treat elevator notable";

@@ -1,1 +1,1 @@
-var mnemonic = "half year mention radio remind safe dragon solve radar ribbon dinner enhance";
+var mnemonic = "matter wide disorder observe win air reject manual false glad select cousin";

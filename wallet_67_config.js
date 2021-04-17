@@ -1,1 +1,1 @@
-var mnemonic = "view loan mimic wool sudden figure pistol lion seat rally fetch ready";
+var mnemonic = "follow during ribbon asthma curve glide suffer offer virus truly reunion foot";

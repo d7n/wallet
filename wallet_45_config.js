@@ -1,1 +1,1 @@
-var mnemonic = "bachelor divorce sample peasant grant warrior gloom glow exercise escape tray other";
+var mnemonic = "cluster now blue fog make saddle convince another liquid ticket rose height";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic light crane seven wish robust ability cause wrong tube come lobster";
+var mnemonic = "stem gravity excuse kitchen toy brain avocado stumble moment problem bracket tourist";

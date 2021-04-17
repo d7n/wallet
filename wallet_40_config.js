@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ship blur submit garbage sorry drum emotion differ soup special joke";
+var mnemonic = "drum jungle aisle burden flock present foam december radar solid attract upset";

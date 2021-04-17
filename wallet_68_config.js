@@ -1,1 +1,1 @@
-var mnemonic = "bench urge employ kind venue enforce penalty crater trouble chair fiber service";
+var mnemonic = "kick illness shy erase sugar traffic hotel neutral rookie ordinary over party";

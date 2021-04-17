@@ -1,1 +1,1 @@
-var mnemonic = "nurse dune cannon wet tired there hen false smart fee narrow defense";
+var mnemonic = "will clay peanut above sample panic example legal vibrant shrug drill skate";

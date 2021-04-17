@@ -1,1 +1,1 @@
-var mnemonic = "vacant echo this master flash tool excuse fantasy cage develop grab gaze";
+var mnemonic = "decrease immense clock lemon such simple noodle pepper auto object faint broom";

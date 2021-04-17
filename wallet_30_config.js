@@ -1,1 +1,1 @@
-var mnemonic = "mercy protect stomach frequent wall digital minute mobile tobacco lawn permit organ";
+var mnemonic = "coffee hint general tell hunt certain model retire shadow cousin endorse install";

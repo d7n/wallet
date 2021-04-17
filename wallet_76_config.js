@@ -1,1 +1,1 @@
-var mnemonic = "way royal brother rebuild search cage exotic add peasant butter skirt raise";
+var mnemonic = "wisdom raw ship goddess salmon thumb trend inherit usual enroll powder believe";

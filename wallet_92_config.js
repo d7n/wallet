@@ -1,1 +1,1 @@
-var mnemonic = "floor grape elegant local thumb twice buffalo top figure road clap amount";
+var mnemonic = "cable diesel fire educate leave broccoli give sponsor master quote travel major";

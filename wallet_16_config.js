@@ -1,1 +1,1 @@
-var mnemonic = "universe rubber seed twenty input endorse proof early student roof scout monster";
+var mnemonic = "spatial silent stereo exist popular scene sock pull muscle join jacket flee";

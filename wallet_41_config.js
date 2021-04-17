@@ -1,1 +1,1 @@
-var mnemonic = "nerve lady ocean inquiry same jeans name broken middle welcome element future";
+var mnemonic = "thing pigeon disorder again fringe absurd fold test tumble moral vessel under";

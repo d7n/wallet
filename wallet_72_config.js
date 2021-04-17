@@ -1,1 +1,1 @@
-var mnemonic = "insane level horse tide unhappy coin brass prize enjoy food fantasy order";
+var mnemonic = "fold turn olive bird author orphan flame abstract solar goddess zoo blouse";

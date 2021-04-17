@@ -1,1 +1,1 @@
-var mnemonic = "pulp praise visit artist find number onion arm zero radar silver arm";
+var mnemonic = "loan response identify inside exhaust pumpkin source awful near render gadget enemy";

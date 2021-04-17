@@ -1,1 +1,1 @@
-var mnemonic = "december exit trash crisp sing round document erosion sun veteran door push";
+var mnemonic = "enter pilot hair make riot almost eagle urge nephew van myth congress";

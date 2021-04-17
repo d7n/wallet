@@ -1,1 +1,1 @@
-var mnemonic = "tragic pause angry scheme clerk edge roast artefact ask assist steel creek";
+var mnemonic = "deputy right mirror olympic traffic apology original zebra weapon dress silver crater";

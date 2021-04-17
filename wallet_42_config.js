@@ -1,1 +1,1 @@
-var mnemonic = "hour juice soccer early demand bone under glimpse because coast negative absurd";
+var mnemonic = "patch wisdom pilot uncover forest undo doll taxi settle arrow able sing";

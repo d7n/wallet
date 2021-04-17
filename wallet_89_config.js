@@ -1,1 +1,1 @@
-var mnemonic = "produce agree merge pelican blanket net carbon memory jacket brisk car hawk";
+var mnemonic = "chronic knife joy blanket puppy sell try ocean lens deny eyebrow shock";

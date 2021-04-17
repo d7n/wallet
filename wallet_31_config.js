@@ -1,1 +1,1 @@
-var mnemonic = "fuel awful jungle rapid rural suffer trim ripple fluid mystery deputy prepare";
+var mnemonic = "round vessel toss deny post turkey genre reward term spawn enforce rose";

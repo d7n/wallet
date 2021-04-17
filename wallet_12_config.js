@@ -1,1 +1,1 @@
-var mnemonic = "direct dial moment survey normal birth pole coil monkey hammer verify toe";
+var mnemonic = "tip width toddler sibling rescue tongue find inmate general helmet fruit alter";

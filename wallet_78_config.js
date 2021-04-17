@@ -1,1 +1,1 @@
-var mnemonic = "finish help victory kit crowd time path juice mom seven atom joy";
+var mnemonic = "absurd bacon ignore rhythm arctic reward quality color shed nurse help unable";

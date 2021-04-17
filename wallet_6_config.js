@@ -1,1 +1,1 @@
-var mnemonic = "never glide catch virtual sing win degree resource width subway lucky aim";
+var mnemonic = "grab oyster utility combine angry lumber worry volcano husband dose soft slice";

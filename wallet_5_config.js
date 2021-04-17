@@ -1,1 +1,1 @@
-var mnemonic = "nice list release prosper another rain hover dutch ripple dove you found";
+var mnemonic = "already index wait decrease glad sort immune also close wool affair welcome";

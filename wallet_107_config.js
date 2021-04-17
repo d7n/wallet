@@ -1,1 +1,1 @@
-var mnemonic = "then light frown venture dignity valve glide reward cake forest fence since";
+var mnemonic = "call boring result tunnel torch era seven alter any famous oyster bulb";

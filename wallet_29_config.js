@@ -1,1 +1,1 @@
-var mnemonic = "exercise rare rescue circle foil avoid pumpkin useless faint twenty purchase quick";
+var mnemonic = "hire rice spice candy nothing cabin banner arrange mean drama turn duck";

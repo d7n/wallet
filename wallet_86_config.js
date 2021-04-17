@@ -1,1 +1,1 @@
-var mnemonic = "hip drip guilt addict panic churn post cruise runway medal breeze kangaroo";
+var mnemonic = "arrow until chapter waste grape turtle excite grass essay film two cable";

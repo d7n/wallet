@@ -1,1 +1,1 @@
-var mnemonic = "chalk maximum dentist student squeeze maze still filter large scissors caution catalog";
+var mnemonic = "like rabbit shoulder fine unit yard ankle major tent kidney adjust notable";

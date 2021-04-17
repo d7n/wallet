@@ -1,1 +1,1 @@
-var mnemonic = "manual slide egg envelope behave time march squeeze certain autumn harvest amateur";
+var mnemonic = "find endless various mobile witness come dad increase west crane tiger auction";

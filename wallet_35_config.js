@@ -1,1 +1,1 @@
-var mnemonic = "plunge snow father tenant eagle angry stairs payment sign column entry file";
+var mnemonic = "range shine rack urge carbon jewel property movie zebra weekend lecture forward";

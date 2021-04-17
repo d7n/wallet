@@ -1,1 +1,1 @@
-var mnemonic = "father error outdoor vocal cluster nice elbow banner sport share kite silly";
+var mnemonic = "soon invite trophy punch walnut neutral inherit uniform whisper eight orphan coffee";

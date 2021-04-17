@@ -1,1 +1,1 @@
-var mnemonic = "slim version walnut amazing erode wall must bracket okay fitness across walnut";
+var mnemonic = "trophy hard speed climb craft egg sudden firm animal fly path hawk";
