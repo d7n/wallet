@@ -1,1 +1,1 @@
-var mnemonic = "track soldier hurdle acoustic knock gift wall detect empty about plunge maximum";
+var mnemonic = "manual slide egg envelope behave time march squeeze certain autumn harvest amateur";

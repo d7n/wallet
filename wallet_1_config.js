@@ -1,1 +1,1 @@
-var mnemonic = "close stereo mansion bronze come cute brass cash sick drink chimney come";
+var mnemonic = "treat battle lobster tourist hotel today sister core armor topic plate material";

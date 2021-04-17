@@ -1,1 +1,1 @@
-var mnemonic = "night easy dirt bench tenant online stove planet decrease hurt scrub powder";
+var mnemonic = "mom slush resist shift file kind wood fish weekend asthma jelly vote";

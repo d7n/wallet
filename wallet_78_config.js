@@ -1,1 +1,1 @@
-var mnemonic = "inspire gesture radio raise material wisdom model proud alley now lab sibling";
+var mnemonic = "finish help victory kit crowd time path juice mom seven atom joy";

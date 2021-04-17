@@ -1,1 +1,1 @@
-var mnemonic = "bullet post snow bus regular index spray fall replace lesson match category";
+var mnemonic = "picnic volume shy injury primary decorate salute over hip lonely gasp fog";

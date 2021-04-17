@@ -1,1 +1,1 @@
-var mnemonic = "exact soul coach client skill office bunker crumble derive filter salmon source";
+var mnemonic = "nature view choice cherry supreme noodle prize tool pledge effort have little";

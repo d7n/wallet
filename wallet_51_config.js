@@ -1,1 +1,1 @@
-var mnemonic = "bar suit put inherit toast frog subject rail loyal interest dad diet";
+var mnemonic = "slim version walnut amazing erode wall must bracket okay fitness across walnut";

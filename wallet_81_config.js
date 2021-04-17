@@ -1,1 +1,1 @@
-var mnemonic = "exotic squeeze ask vast begin vintage dismiss tenant coin utility adapt forward";
+var mnemonic = "benefit dirt panther year fatal north field excess minimum shield hurdle frost";

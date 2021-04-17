@@ -1,1 +1,1 @@
-var mnemonic = "saddle pave business other mass purse envelope motor hunt car praise narrow";
+var mnemonic = "basket example gauge inch bone novel leave cricket muffin neglect onion equal";

@@ -1,1 +1,1 @@
-var mnemonic = "drill setup suspect treat valid happy ginger matrix smooth rice bulb debris";
+var mnemonic = "stand dream emotion embody soul delay carry myth pistol fun lens machine";

@@ -1,1 +1,1 @@
-var mnemonic = "moon breeze antenna acquire near raccoon field drop edge renew beach ghost";
+var mnemonic = "scene pill raccoon disagree predict busy acoustic expire knife stock behind cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "core blush input bundle very horn roof random already area river recycle";
+var mnemonic = "father error outdoor vocal cluster nice elbow banner sport share kite silly";

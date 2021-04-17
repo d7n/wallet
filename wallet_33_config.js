@@ -1,1 +1,1 @@
-var mnemonic = "miracle flee taxi wing stick praise swarm repair stamp garbage universe speed";
+var mnemonic = "slow poverty level shed debris pact hollow leaf bird security click bless";

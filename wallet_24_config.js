@@ -1,1 +1,1 @@
-var mnemonic = "donate shoe couple copy hurt blame property cage family venue collect muscle";
+var mnemonic = "public shadow camp grant valid evolve current prevent silver basic appear sponsor";

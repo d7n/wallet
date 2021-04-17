@@ -1,1 +1,1 @@
-var mnemonic = "regret brother orient defy bulk engine anxiety sudden peanut shadow uniform until";
+var mnemonic = "never glide catch virtual sing win degree resource width subway lucky aim";

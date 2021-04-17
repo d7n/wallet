@@ -1,1 +1,1 @@
-var mnemonic = "cycle model quarter learn twin replace kingdom timber ensure sense panda spare";
+var mnemonic = "bench urge employ kind venue enforce penalty crater trouble chair fiber service";

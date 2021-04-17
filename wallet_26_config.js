@@ -1,1 +1,1 @@
-var mnemonic = "flame satisfy nerve smile carpet bird shiver keep approve sell saddle afford";
+var mnemonic = "chalk maximum dentist student squeeze maze still filter large scissors caution catalog";

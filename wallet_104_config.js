@@ -1,1 +1,1 @@
-var mnemonic = "erode siege drip spoon must skirt aerobic hurt empower half police festival";
+var mnemonic = "follow goddess column hungry music connect sniff help toe vital deliver square";

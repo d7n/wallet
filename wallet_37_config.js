@@ -1,1 +1,1 @@
-var mnemonic = "art again involve gather vapor evoke reunion envelope claw fabric story size";
+var mnemonic = "arctic party lonely pledge genius decline glad sugar sand elbow upon face";

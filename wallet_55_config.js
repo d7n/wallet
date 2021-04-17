@@ -1,1 +1,1 @@
-var mnemonic = "entire defense journey merit wear coconut night isolate avocado check eyebrow bitter";
+var mnemonic = "lawsuit million hazard divert honey wash valve swarm sentence dilemma elevator yellow";

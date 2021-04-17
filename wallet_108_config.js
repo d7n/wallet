@@ -1,1 +1,1 @@
-var mnemonic = "reform upper spatial armor oval vault involve play else scout credit hedgehog";
+var mnemonic = "reason reduce joke solid problem salmon where crunch vote pass sauce mix";

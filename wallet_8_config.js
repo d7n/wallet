@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow minor taxi reduce peace trash brain olympic proud solid gauge will";
+var mnemonic = "tragic pause angry scheme clerk edge roast artefact ask assist steel creek";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp pulse friend rebuild such pigeon zoo impact kitchen rural quiz route";
+var mnemonic = "limb pink decrease mammal bottom wheat donor annual fun palace sphere asset";

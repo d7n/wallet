@@ -1,1 +1,1 @@
-var mnemonic = "float dove stem animal kid picture blanket rival pioneer erupt honey stock";
+var mnemonic = "country climb skill soap wear differ nut fame solution stay cycle early";

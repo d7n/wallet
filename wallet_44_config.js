@@ -1,1 +1,1 @@
-var mnemonic = "seat swallow crucial riot indicate mule kidney income divert flame gorilla ladder";
+var mnemonic = "method ozone shrimp mirror hawk escape hybrid tomorrow pause upset arena enough";

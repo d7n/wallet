@@ -1,1 +1,1 @@
-var mnemonic = "perfect portion system frozen deputy what around eight debate tilt draw flag";
+var mnemonic = "exercise rare rescue circle foil avoid pumpkin useless faint twenty purchase quick";

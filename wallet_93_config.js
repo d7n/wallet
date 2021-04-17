@@ -1,1 +1,1 @@
-var mnemonic = "fix sock arctic brain funny argue couch blur friend idle second define";
+var mnemonic = "page detect enhance inside forest canal toast priority candy casino honey already";

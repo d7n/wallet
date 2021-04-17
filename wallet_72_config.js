@@ -1,1 +1,1 @@
-var mnemonic = "scrub expect spin huge burst fox robot size jealous elbow accuse february";
+var mnemonic = "insane level horse tide unhappy coin brass prize enjoy food fantasy order";

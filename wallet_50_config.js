@@ -1,1 +1,1 @@
-var mnemonic = "blind obvious eagle know equip public answer scan height romance service initial";
+var mnemonic = "task acoustic lunch visa screen job race equal actor brush bracket lesson";

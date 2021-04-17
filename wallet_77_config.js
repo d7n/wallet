@@ -1,1 +1,1 @@
-var mnemonic = "tent solution sock very stem clog country domain verify under have stool";
+var mnemonic = "phone seminar habit belt source wise vibrant wreck cage tone mad unfair";

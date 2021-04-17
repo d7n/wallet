@@ -1,1 +1,1 @@
-var mnemonic = "awful under decline cinnamon border drum hope neglect orient angry hour keep";
+var mnemonic = "devote remember hammer melt riot lava brief future panda youth any prize";

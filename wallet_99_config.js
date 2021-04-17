@@ -1,1 +1,1 @@
-var mnemonic = "blouse cluster caution mass dignity van burger admit renew fruit cash blush";
+var mnemonic = "thunder eyebrow bridge wash wash inflict unknown detect sail cancel portion brass";

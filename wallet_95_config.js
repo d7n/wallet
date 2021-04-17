@@ -1,1 +1,1 @@
-var mnemonic = "spin since leg holiday powder erosion fragile alpha fan rich tone strike";
+var mnemonic = "vacant echo this master flash tool excuse fantasy cage develop grab gaze";

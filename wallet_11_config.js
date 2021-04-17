@@ -1,1 +1,1 @@
-var mnemonic = "action purpose height toward drop crazy guess buyer become wage abandon marble";
+var mnemonic = "snow arrange solar swing wine blouse trick royal current ridge you buddy";

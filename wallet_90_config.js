@@ -1,1 +1,1 @@
-var mnemonic = "area abstract potato bulb aunt exchange toward calm addict uniform wire youth";
+var mnemonic = "garlic light crane seven wish robust ability cause wrong tube come lobster";

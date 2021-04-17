@@ -1,1 +1,1 @@
-var mnemonic = "mix news student still work valley nephew vivid shiver match ancient reason";
+var mnemonic = "recall inform great torch fix crime ridge funny lab recall reform marine";

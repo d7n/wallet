@@ -1,1 +1,1 @@
-var mnemonic = "noodle census crunch throw cloth cake brown symptom capital eight other dragon";
+var mnemonic = "fox stumble become spring panel avocado depend punch bind check rally game";

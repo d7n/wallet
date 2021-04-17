@@ -1,1 +1,1 @@
-var mnemonic = "night boat novel correct mobile shoot melody grain tip ocean cage planet";
+var mnemonic = "hour juice soccer early demand bone under glimpse because coast negative absurd";

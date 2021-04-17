@@ -1,1 +1,1 @@
-var mnemonic = "cycle right behind coin guard art maximum conduct round success horror pool";
+var mnemonic = "fit garbage quality draft provide only business demand scale brass item sugar";

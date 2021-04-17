@@ -1,1 +1,1 @@
-var mnemonic = "play eight update fashion still flash pair rocket skate plate cereal salad";
+var mnemonic = "tortoise ship blur submit garbage sorry drum emotion differ soup special joke";

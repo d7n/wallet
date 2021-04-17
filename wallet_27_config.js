@@ -1,1 +1,1 @@
-var mnemonic = "nice hobby border boil size visual balcony race blind crunch inform club";
+var mnemonic = "opera sun office beyond improve giraffe lawn dust achieve stool slogan abstract";

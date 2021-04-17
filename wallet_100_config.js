@@ -1,1 +1,1 @@
-var mnemonic = "giant icon make extend rice turn switch put slight skin rule collect";
+var mnemonic = "bag ankle dune charge medal domain warrior river mansion caught enroll heavy";

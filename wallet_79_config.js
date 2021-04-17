@@ -1,1 +1,1 @@
-var mnemonic = "raise open bulk veteran strategy theory shuffle lens photo fringe bomb original";
+var mnemonic = "battle solution wood chronic burst mansion energy flower admit wire swarm shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "captain afraid clinic include lumber birth artwork cover client blade ugly medal";
+var mnemonic = "phone spike tip topple yellow consider advice isolate soap sausage give weasel";

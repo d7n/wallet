@@ -1,1 +1,1 @@
-var mnemonic = "police special okay garlic hole piece farm dutch grow machine orange hazard";
+var mnemonic = "thought symptom system soon plunge inflict carpet pull arena mistake know trade";

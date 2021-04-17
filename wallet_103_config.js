@@ -1,1 +1,1 @@
-var mnemonic = "behind light reveal tunnel win feel glory exact vapor blanket subject scene";
+var mnemonic = "upper trim remember soup lava actual bracket pretty fragile permit hybrid flower";

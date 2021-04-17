@@ -1,1 +1,1 @@
-var mnemonic = "end observe renew valve scale effort brush bicycle avoid motion daughter bus";
+var mnemonic = "gospel shiver lunar lazy smooth horn genuine finger marriage wear faculty maximum";

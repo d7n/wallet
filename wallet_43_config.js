@@ -1,1 +1,1 @@
-var mnemonic = "cluster donate couch despair fitness level night chef initial average patrol wool";
+var mnemonic = "supply shield able sail neck swim capital portion egg fiber giant hazard";

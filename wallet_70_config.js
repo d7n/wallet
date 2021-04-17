@@ -1,1 +1,1 @@
-var mnemonic = "oven detect setup one wool reveal grace swift travel indicate scrub machine";
+var mnemonic = "install grit horn attack banner loyal color earth light acoustic thank trigger";

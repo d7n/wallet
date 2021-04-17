@@ -1,1 +1,1 @@
-var mnemonic = "laugh similar baby refuse utility lazy legal ivory tumble hub they knock";
+var mnemonic = "ensure clock plate black shy black suffer snake pluck circle praise modify";

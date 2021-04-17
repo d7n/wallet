@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog renew foot train hood crazy lemon lens soon jaguar extend paper";
+var mnemonic = "boss know silk rough ecology length crater meat rabbit carry honey amused";

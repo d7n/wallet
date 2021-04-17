@@ -1,1 +1,1 @@
-var mnemonic = "code tape picture umbrella obey prepare fiber way food enough time recycle";
+var mnemonic = "vehicle choice unfold sick shrimp chief excess method valley record asthma sunset";

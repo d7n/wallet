@@ -1,1 +1,1 @@
-var mnemonic = "image satisfy pear decrease torch battle moral anger bind gaze demand crisp";
+var mnemonic = "scheme survey fan lecture morning hello fossil chronic hood nut rigid cricket";

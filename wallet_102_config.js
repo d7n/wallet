@@ -1,1 +1,1 @@
-var mnemonic = "tenant vintage enact lend system law bulb mad legend share dose brave";
+var mnemonic = "pulp praise visit artist find number onion arm zero radar silver arm";

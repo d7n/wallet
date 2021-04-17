@@ -1,1 +1,1 @@
-var mnemonic = "current outer noodle squeeze elbow vanish fox laugh soccer animal neutral glove";
+var mnemonic = "dose season energy divert brand merit panel can hand decrease join erase";

@@ -1,1 +1,1 @@
-var mnemonic = "merge harvest dismiss pencil usual rookie injury sense south donkey risk swear";
+var mnemonic = "plunge snow father tenant eagle angry stairs payment sign column entry file";

@@ -1,1 +1,1 @@
-var mnemonic = "zone torch pole armed misery august bike load baby sick faculty book";
+var mnemonic = "mercy protect stomach frequent wall digital minute mobile tobacco lawn permit organ";

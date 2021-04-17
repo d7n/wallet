@@ -1,1 +1,1 @@
-var mnemonic = "close release where evidence crash bachelor enact exchange leader poem ketchup doll";
+var mnemonic = "winter limit lyrics leader oak nut search gravity oven motor sister move";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom brave trouble will upset turn perfect web kiss arm reason help";
+var mnemonic = "awful embrace pretty soft coast wine blossom salad zone iron another horn";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel salt control party measure half load sausage young avoid lemon drip";
+var mnemonic = "eagle door age benefit carpet turkey beach random area cannon artefact smooth";

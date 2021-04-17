@@ -1,1 +1,1 @@
-var mnemonic = "flavor special gossip climb dentist chat cross isolate strike mosquito morning issue";
+var mnemonic = "sun space enhance law popular dignity image plunge priority find shift match";

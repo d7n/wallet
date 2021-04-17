@@ -1,1 +1,1 @@
-var mnemonic = "gather only double ahead can dash cluster pumpkin hotel spring steak dream";
+var mnemonic = "hurdle head badge record alley shadow buyer cake achieve behind advance portion";

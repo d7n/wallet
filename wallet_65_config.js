@@ -1,1 +1,1 @@
-var mnemonic = "sound machine hidden science path drama jacket horror stadium burst more tornado";
+var mnemonic = "replace dinosaur media input right merge neither vault jar anxiety roast unhappy";

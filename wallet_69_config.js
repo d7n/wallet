@@ -1,1 +1,1 @@
-var mnemonic = "party artist begin border wise dirt grief stock trumpet anchor hedgehog swallow";
+var mnemonic = "debris obvious garlic access business estate bleak illness burden submit original defy";

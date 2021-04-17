@@ -1,1 +1,1 @@
-var mnemonic = "wild space injury alert mask range special member view glad stem better";
+var mnemonic = "direct dial moment survey normal birth pole coil monkey hammer verify toe";

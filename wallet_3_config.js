@@ -1,1 +1,1 @@
-var mnemonic = "city catch soap afford soft prize fun maze initial genre jump frozen";
+var mnemonic = "december exit trash crisp sing round document erosion sun veteran door push";

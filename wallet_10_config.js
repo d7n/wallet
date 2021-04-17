@@ -1,1 +1,1 @@
-var mnemonic = "jump inherit test clap orphan hobby mask tattoo lunar stock route census";
+var mnemonic = "tree allow vote clock maple skill hollow hello kitchen gloom tent embody";

@@ -1,1 +1,1 @@
-var mnemonic = "brother potato involve zone casual spell animal tooth vehicle reveal clarify nuclear";
+var mnemonic = "rotate curve stable apology ketchup execute squeeze episode soldier praise pumpkin output";

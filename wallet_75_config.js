@@ -1,1 +1,1 @@
-var mnemonic = "finish buddy oval scale trust cheap famous rain either blast liar health";
+var mnemonic = "ozone capable usage upset modify clog parrot borrow wagon wrestle neutral hammer";

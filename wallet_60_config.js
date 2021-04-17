@@ -1,1 +1,1 @@
-var mnemonic = "cement gate bronze reform flock verb pumpkin idle street clog maximum soldier";
+var mnemonic = "defense ancient squirrel hollow photo ketchup oppose claw garage spread pet south";

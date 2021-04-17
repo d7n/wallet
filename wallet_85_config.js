@@ -1,1 +1,1 @@
-var mnemonic = "swift very cable useless record super ocean crush please sniff must early";
+var mnemonic = "meat rent figure erode ocean shoe science response atom tribe spawn island";

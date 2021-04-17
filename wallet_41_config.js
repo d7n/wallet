@@ -1,1 +1,1 @@
-var mnemonic = "rubber quit aisle employ easy vendor pave stereo false tobacco urge dragon";
+var mnemonic = "nerve lady ocean inquiry same jeans name broken middle welcome element future";

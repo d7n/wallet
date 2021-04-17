@@ -1,1 +1,1 @@
-var mnemonic = "carbon sheriff simple fringe margin stairs ordinary range mammal bamboo river gown";
+var mnemonic = "absorb spatial tomato sport process devote slush wing lava vivid drastic catch";

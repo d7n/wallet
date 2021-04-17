@@ -1,1 +1,1 @@
-var mnemonic = "project squirrel guilt truck rival pair final only glass quit antique slide";
+var mnemonic = "bachelor divorce sample peasant grant warrior gloom glow exercise escape tray other";

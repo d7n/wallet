@@ -1,1 +1,1 @@
-var mnemonic = "gloom fancy kiwi film crazy diary north invest assist riot ivory extend";
+var mnemonic = "spoon sphere rain unusual stadium noodle owner toast once bag potato sleep";

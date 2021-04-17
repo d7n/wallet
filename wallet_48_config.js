@@ -1,1 +1,1 @@
-var mnemonic = "alert shift robot tent garage magic forum image scissors oil modify disease";
+var mnemonic = "august egg extra argue fetch middle issue poet gaze jewel decorate whip";

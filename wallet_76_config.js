@@ -1,1 +1,1 @@
-var mnemonic = "phone warm rice acquire meat mother equip keen sentence sunny index online";
+var mnemonic = "way royal brother rebuild search cage exotic add peasant butter skirt raise";

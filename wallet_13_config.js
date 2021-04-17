@@ -1,1 +1,1 @@
-var mnemonic = "rebel mixed design talent target style chaos deer false almost success exchange";
+var mnemonic = "turn install music jar daughter transfer crunch athlete oppose broom rocket broken";

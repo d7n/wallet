@@ -1,1 +1,1 @@
-var mnemonic = "quarter coffee rail sketch fee trap tower sick alpha economy copy minute";
+var mnemonic = "produce agree merge pelican blanket net carbon memory jacket brisk car hawk";

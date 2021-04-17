@@ -1,1 +1,1 @@
-var mnemonic = "result outdoor burst yard mosquito forget improve pilot build oak possible gather";
+var mnemonic = "length blush happy gauge love just remain cliff raccoon punch ridge fruit";

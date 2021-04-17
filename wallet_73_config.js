@@ -1,1 +1,1 @@
-var mnemonic = "start say fatal devote plug payment valid oven spin battle famous wrist";
+var mnemonic = "mercy hold want child clinic poet hero bamboo wife exercise spare record";

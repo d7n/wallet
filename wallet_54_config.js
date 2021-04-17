@@ -1,1 +1,1 @@
-var mnemonic = "glare birth initial mad soup eager nature sleep crouch wrist shine female";
+var mnemonic = "patient very beauty same piano alpha joke buyer early ask buddy advice";

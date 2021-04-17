@@ -1,1 +1,1 @@
-var mnemonic = "various rough theme defense excuse service solve problem improve fossil clutch cat";
+var mnemonic = "view loan mimic wool sudden figure pistol lion seat rally fetch ready";

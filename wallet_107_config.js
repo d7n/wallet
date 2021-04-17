@@ -1,1 +1,1 @@
-var mnemonic = "shiver fish apart luxury sponsor curtain interest clip produce lunar hammer warm";
+var mnemonic = "then light frown venture dignity valve glide reward cake forest fence since";

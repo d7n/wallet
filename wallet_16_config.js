@@ -1,1 +1,1 @@
-var mnemonic = "claim please struggle unaware team angry cotton diesel struggle obvious seek broken";
+var mnemonic = "universe rubber seed twenty input endorse proof early student roof scout monster";

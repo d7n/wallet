@@ -1,1 +1,1 @@
-var mnemonic = "text penalty scheme just media west child license grab garage degree slim";
+var mnemonic = "nice list release prosper another rain hover dutch ripple dove you found";

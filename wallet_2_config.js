@@ -1,1 +1,1 @@
-var mnemonic = "apart execute pact month juice movie manage skill imitate giggle film priority";
+var mnemonic = "tumble west rail absorb regret burger lion race yellow guide mad carbon";

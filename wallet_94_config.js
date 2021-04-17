@@ -1,1 +1,1 @@
-var mnemonic = "upgrade doll peanut garment plastic icon divorce run together foam chuckle language";
+var mnemonic = "jazz lens key thank venture erode predict scatter tennis trial blossom choose";

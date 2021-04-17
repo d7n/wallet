@@ -1,1 +1,1 @@
-var mnemonic = "input source sign industry forest clerk stick success swing among diet erode";
+var mnemonic = "fuel awful jungle rapid rural suffer trim ripple fluid mystery deputy prepare";
