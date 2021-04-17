@@ -1,1 +1,1 @@
-var mnemonic = "behave cream audit grab mansion envelope cloud problem bacon dust quality vivid";
+var mnemonic = "clump royal panel actress devote canvas clock mandate devote cricket solve fork";

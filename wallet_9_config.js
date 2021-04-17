@@ -1,1 +1,1 @@
-var mnemonic = "second female slogan yard volcano enter assault core wedding rug trophy drum";
+var mnemonic = "garbage melt welcome hood become consider club cupboard hello siege fun magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "lock pink run happy problem there addict box penalty fossil school concert";
+var mnemonic = "reveal across urge pyramid ranch open tape churn solution equal wrist payment";

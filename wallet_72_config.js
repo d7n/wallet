@@ -1,1 +1,1 @@
-var mnemonic = "snap social festival diamond stamp ship fee skin predict address diagram cheap";
+var mnemonic = "receive know february chest unfold smoke lizard ribbon suspect sea gallery chase";

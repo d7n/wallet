@@ -1,1 +1,1 @@
-var mnemonic = "vast surprise this melody vintage talent absent trash spirit luxury invest benefit";
+var mnemonic = "tissue sell stand parade language struggle cute scrub spread member fold upon";

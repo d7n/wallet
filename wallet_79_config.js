@@ -1,1 +1,1 @@
-var mnemonic = "intact coin joke utility marriage region pudding loud obey hip bus glimpse";
+var mnemonic = "round yard neither copper oak stuff juice subject security brush century stone";

@@ -1,1 +1,1 @@
-var mnemonic = "speed audit country found minimum leg stamp grant tail black cave rail";
+var mnemonic = "jewel code casual column possible steel nephew lock cruise dial inflict slender";

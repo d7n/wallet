@@ -1,1 +1,1 @@
-var mnemonic = "boring enter visit quick quit trophy miracle castle erase winner human lucky";
+var mnemonic = "column sister nation hair casino disorder all boost area armed fix amount";

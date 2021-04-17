@@ -1,1 +1,1 @@
-var mnemonic = "betray island lounge antenna poet ship sphere ready nice fabric version basic";
+var mnemonic = "net tide distance wrong addict jaguar debris tape narrow name sausage cook";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel fatal tower pool talk tape vital obey behind rice bonus shadow";
+var mnemonic = "vintage shove base fresh vicious silver embrace version butter action rather finish";

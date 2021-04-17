@@ -1,1 +1,1 @@
-var mnemonic = "vicious lumber rate coin balance truck write wool hungry become rookie time";
+var mnemonic = "canvas small shiver you cabbage coin grocery damage town bridge orient wire";

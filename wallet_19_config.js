@@ -1,1 +1,1 @@
-var mnemonic = "assume session year dice century head coil route bachelor chapter rather slim";
+var mnemonic = "loop gold quantum conduct plate talent arrange chair talk cool bean lawsuit";

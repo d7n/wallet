@@ -1,1 +1,1 @@
-var mnemonic = "end payment drill vanish utility bracket repeat chimney purity host have lesson";
+var mnemonic = "depth creek net involve magic illegal canal child cable reflect female glue";

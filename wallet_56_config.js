@@ -1,1 +1,1 @@
-var mnemonic = "liberty curious always intact ladder fork siege pretty cigar food anger thrive";
+var mnemonic = "arena fog exist early virus about resist ancient senior raw rotate vote";

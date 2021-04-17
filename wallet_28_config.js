@@ -1,1 +1,1 @@
-var mnemonic = "organ crop tonight body since distance diary spatial climb drive patrol loop";
+var mnemonic = "thing exhibit universe mom dial camera middle tackle heavy cheese comfort where";

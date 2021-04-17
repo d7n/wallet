@@ -1,1 +1,1 @@
-var mnemonic = "picture brain spell make inform orient mechanic impose horn resource risk able";
+var mnemonic = "weird remove grief say blossom tip obscure valve impose cancel hungry frost";

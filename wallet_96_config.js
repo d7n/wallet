@@ -1,1 +1,1 @@
-var mnemonic = "prize range wrong cart brave evoke split lawn punch envelope stone razor";
+var mnemonic = "congress canoe puzzle lizard truth struggle garage whisper special alert lava follow";

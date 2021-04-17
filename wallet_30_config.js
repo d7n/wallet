@@ -1,1 +1,1 @@
-var mnemonic = "dynamic canoe history turtle prison mango language autumn gaze pudding often latin";
+var mnemonic = "whip uncle debris thing wear impulse trick cattle august desert shrug goose";

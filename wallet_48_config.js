@@ -1,1 +1,1 @@
-var mnemonic = "extend motor width deer bird purchase arrow quantum over learn please vacuum";
+var mnemonic = "width tooth hello nurse life satoshi scatter fitness lonely worry slide bubble";

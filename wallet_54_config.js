@@ -1,1 +1,1 @@
-var mnemonic = "idle term ladder weather mandate diamond salute claw budget unaware where chaos";
+var mnemonic = "initial innocent clerk path crop dial stock service fox gown major dolphin";

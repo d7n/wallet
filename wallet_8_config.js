@@ -1,1 +1,1 @@
-var mnemonic = "borrow dragon notable fatigue trumpet defy flavor entry want twenty profit toast";
+var mnemonic = "squirrel park letter jar ugly simple voyage canvas ten cave bonus purity";

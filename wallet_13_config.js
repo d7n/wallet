@@ -1,1 +1,1 @@
-var mnemonic = "horse stage wide insect used since noble shell ozone bacon draft predict";
+var mnemonic = "rack slot cotton dove vocal neck alcohol unveil food brave motion fortune";

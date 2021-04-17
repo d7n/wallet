@@ -1,1 +1,1 @@
-var mnemonic = "shrug claw rescue aisle earth armor reason message seed curious tunnel universe";
+var mnemonic = "athlete scout lake brick happy situate song thunder brother real female curve";

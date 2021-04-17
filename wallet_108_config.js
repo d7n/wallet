@@ -1,1 +1,1 @@
-var mnemonic = "woman inner sun trophy pyramid story proof conduct quiz stamp system laptop";
+var mnemonic = "want gold patrol trust cable pencil memory lock advice indicate wonder path";

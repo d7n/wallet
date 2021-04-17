@@ -1,1 +1,1 @@
-var mnemonic = "web digital cargo blame blouse tired clarify junior model that lounge decline";
+var mnemonic = "oyster verb heart whip snap pulp buddy salt crowd attend effort dress";

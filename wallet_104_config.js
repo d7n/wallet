@@ -1,1 +1,1 @@
-var mnemonic = "joke cheese calm reveal action correct crash vendor february island prison start";
+var mnemonic = "vague rapid recipe labor anxiety become deputy kitten garbage canvas page crowd";

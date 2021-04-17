@@ -1,1 +1,1 @@
-var mnemonic = "imitate strategy twice enable disease mushroom detail gift firm duty develop weapon";
+var mnemonic = "switch awesome invest custom capable thumb desk lumber guess bar put mosquito";

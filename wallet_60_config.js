@@ -1,1 +1,1 @@
-var mnemonic = "oblige nothing pool also gain reflect lesson leg sorry absent toward eight";
+var mnemonic = "man include slender kiwi leader donate story jewel wish soap genre poverty";

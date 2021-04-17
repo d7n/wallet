@@ -1,1 +1,1 @@
-var mnemonic = "buzz unusual under zoo logic exact soft make dress alert other race";
+var mnemonic = "demise impulse merit shrug liberty mountain flat define tissue lady celery chase";

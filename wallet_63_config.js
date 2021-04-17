@@ -1,1 +1,1 @@
-var mnemonic = "hover inside domain clog airport august other door crouch exhibit basket fatigue";
+var mnemonic = "capable ugly tool style wasp truth lecture duty song eagle reject basket";

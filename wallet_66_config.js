@@ -1,1 +1,1 @@
-var mnemonic = "shoulder season have edit basic inflict bomb fever crime viable kiss color";
+var mnemonic = "love sphere eight blue joke miss scatter husband human shield train kind";

@@ -1,1 +1,1 @@
-var mnemonic = "glad snap dad disagree glad round ski cloud hello wrap gain pupil";
+var mnemonic = "top raccoon endless indoor there goddess awake jaguar pass shuffle tired any";

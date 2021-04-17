@@ -1,1 +1,1 @@
-var mnemonic = "that visual fancy aware tilt bind primary document awesome swap curve devote";
+var mnemonic = "crew promote finger plastic relief civil busy later trigger lion gloom gate";

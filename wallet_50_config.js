@@ -1,1 +1,1 @@
-var mnemonic = "list cake soon admit sister worry portion fork suffer alley busy panic";
+var mnemonic = "cliff all giant olympic fabric van puppy crop what police possible parade";

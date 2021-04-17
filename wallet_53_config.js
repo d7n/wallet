@@ -1,1 +1,1 @@
-var mnemonic = "exercise assume bunker work neutral tent edge speed turkey devote crack when";
+var mnemonic = "tuna vague twin casino unveil negative inflict sustain trouble strike chimney south";

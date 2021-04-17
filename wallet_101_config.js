@@ -1,1 +1,1 @@
-var mnemonic = "anchor lobster envelope bread obvious moment deer total jealous toy struggle step";
+var mnemonic = "pluck atom few this pepper crush bright craft prevent position will wet";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hood member pause you tortoise bounce put weather slender record assume";
+var mnemonic = "excite reward word inspire danger unable story notable crumble order poverty fresh";

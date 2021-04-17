@@ -1,1 +1,1 @@
-var mnemonic = "lottery slush plug use police truth cost expire finger swift hedgehog error";
+var mnemonic = "renew country candy trend image cactus afford leave warrior crew ancient spend";

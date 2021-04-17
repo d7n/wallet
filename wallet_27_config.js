@@ -1,1 +1,1 @@
-var mnemonic = "carpet napkin keen clap hood rug key boil pride tiny two swap";
+var mnemonic = "stove lunch clock century blast lottery shop panic parent jewel pipe salmon";

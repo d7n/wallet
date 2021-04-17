@@ -1,1 +1,1 @@
-var mnemonic = "help chat aware stand critic toy defense trial render service strategy life";
+var mnemonic = "blur swing curtain elevator kitchen ribbon roast want sad proud top unhappy";

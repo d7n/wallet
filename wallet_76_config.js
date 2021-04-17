@@ -1,1 +1,1 @@
-var mnemonic = "also noodle radar menu regular erosion reward web van need lucky six";
+var mnemonic = "panic humor jeans unknown cat teach dose tuna license million prepare minute";

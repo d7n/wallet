@@ -1,1 +1,1 @@
-var mnemonic = "gap club stairs high boat feature deputy monkey conduct sketch utility toy";
+var mnemonic = "column flip retreat urban banner bargain bench loop debate save easy maple";

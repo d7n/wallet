@@ -1,1 +1,1 @@
-var mnemonic = "faith end open maid volcano sense dance onion suit invest physical grass";
+var mnemonic = "empty equip goat obey disorder feel misery puzzle reward feature foam stool";

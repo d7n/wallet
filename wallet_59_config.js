@@ -1,1 +1,1 @@
-var mnemonic = "topple dilemma team force logic number cousin entire latin shallow measure bachelor";
+var mnemonic = "warm engine behave machine romance april undo corn coral cup unusual regular";

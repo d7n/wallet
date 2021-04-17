@@ -1,1 +1,1 @@
-var mnemonic = "dumb retreat picture tide embark apart discover develop shadow brick column sail";
+var mnemonic = "impact song fork ordinary better skull match kiss melody duck door like";

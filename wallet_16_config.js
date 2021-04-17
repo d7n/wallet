@@ -1,1 +1,1 @@
-var mnemonic = "year drift sting energy can first space today skirt fog rent loyal";
+var mnemonic = "lunch chronic doctor point lawsuit carry glue quiz bomb outdoor few essence";

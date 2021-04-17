@@ -1,1 +1,1 @@
-var mnemonic = "effort recipe rhythm vicious then angle truck pizza monster panic happy unusual";
+var mnemonic = "already icon steak equal spot misery venture awful cable evoke exact monitor";

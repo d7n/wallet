@@ -1,1 +1,1 @@
-var mnemonic = "all aunt impact guide spin vault invest angle school wear hero reopen";
+var mnemonic = "twelve add frog artist force hybrid roast cave choice pizza iron farm";

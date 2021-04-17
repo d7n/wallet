@@ -1,1 +1,1 @@
-var mnemonic = "knock treat garden valve ugly under melt hurdle glow become wine below";
+var mnemonic = "salute regular cruel ankle sadness cause scene strong about bottom sense verb";

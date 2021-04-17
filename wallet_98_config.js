@@ -1,1 +1,1 @@
-var mnemonic = "mask hockey fury broken dynamic fat pistol jungle joke word flame because";
+var mnemonic = "merge size shed affair never elbow wave crawl rent coral sleep super";

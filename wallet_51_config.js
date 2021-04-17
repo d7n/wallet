@@ -1,1 +1,1 @@
-var mnemonic = "price flame valve close salt owner ethics mother bean pistol quiz help";
+var mnemonic = "hand violin pen intact salon dinosaur stable income police snake luggage spare";

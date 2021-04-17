@@ -1,1 +1,1 @@
-var mnemonic = "divert soon enlist dad scan hover person neutral laundry can coil eyebrow";
+var mnemonic = "inherit captain leisure trouble inspire label choose lobster odor clown myth initial";

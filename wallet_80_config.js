@@ -1,1 +1,1 @@
-var mnemonic = "pole shaft balcony scout give mandate ugly danger crew shove eternal patient";
+var mnemonic = "base then job average length flavor vanish shield law plunge inform skirt";

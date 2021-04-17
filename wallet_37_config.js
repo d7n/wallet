@@ -1,1 +1,1 @@
-var mnemonic = "motor true setup puppy noble robust assault fog liar label approve matter";
+var mnemonic = "purse aim bulb can gold fire limb couple shrug artist draw response";

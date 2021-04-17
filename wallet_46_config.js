@@ -1,1 +1,1 @@
-var mnemonic = "round royal drive surge lesson exotic satoshi boat image vital apple chase";
+var mnemonic = "genius stairs steak trumpet gasp enroll fortune cube main nation stomach crater";

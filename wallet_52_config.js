@@ -1,1 +1,1 @@
-var mnemonic = "husband warfare burden fork basket shine amateur relax foil sketch craft gentle";
+var mnemonic = "reform brave cinnamon harvest season aisle denial outdoor topple mask dash fatigue";

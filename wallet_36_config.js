@@ -1,1 +1,1 @@
-var mnemonic = "age into yellow boat bone iron viable drink banana travel lock valley";
+var mnemonic = "lock post powder owner sure barrel dynamic kiwi mail deer deposit hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "powder fit metal library excuse spread fatigue example devote snow claw loud";
+var mnemonic = "grass zoo powder radar panel dismiss amateur protect fog vessel bus web";

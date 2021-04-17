@@ -1,1 +1,1 @@
-var mnemonic = "mean answer cup spirit noble utility imitate kiwi usage average between worry";
+var mnemonic = "chicken brother pass claim trash valid involve cage aware style used meat";

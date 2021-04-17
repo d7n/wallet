@@ -1,1 +1,1 @@
-var mnemonic = "destroy wall artefact spy finish cereal occur share fabric salmon picnic perfect";
+var mnemonic = "woman open fiscal stomach vast cover sweet board floor wheel faith zoo";

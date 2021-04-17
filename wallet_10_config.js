@@ -1,1 +1,1 @@
-var mnemonic = "aware mail satoshi there autumn fee safe rural notice ankle plunge hint";
+var mnemonic = "spatial waste prosper damage today rely hat mansion brain drastic borrow rubber";

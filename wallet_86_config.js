@@ -1,1 +1,1 @@
-var mnemonic = "december hello market shoot speed often involve road elephant token report primary";
+var mnemonic = "deputy special wood purchase ordinary jungle glass flat armed actress attend unhappy";

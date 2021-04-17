@@ -1,1 +1,1 @@
-var mnemonic = "meadow donkey under cream blame place garbage shock song pig envelope attract";
+var mnemonic = "key transfer loyal valve lock force portion neither dash usage future segment";

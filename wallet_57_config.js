@@ -1,1 +1,1 @@
-var mnemonic = "elbow below inch grab chase jaguar tornado sense man wide spike smile";
+var mnemonic = "place blood boil shaft narrow error drift bind near gloom slab blade";

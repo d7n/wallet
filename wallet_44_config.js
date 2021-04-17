@@ -1,1 +1,1 @@
-var mnemonic = "thrive usage battle reunion fiber check mask cherry deliver run snow payment";
+var mnemonic = "legal layer hollow fiber already asset kiss wheat hotel modify exclude deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton giant embark copper uncover cloth daughter green grant onion bicycle occur";
+var mnemonic = "half parent spice ring flavor raven degree vault awesome ranch genuine oppose";

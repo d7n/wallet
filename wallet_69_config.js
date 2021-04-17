@@ -1,1 +1,1 @@
-var mnemonic = "rally motion identify senior rent timber eight describe hood file snap pool";
+var mnemonic = "hurt relief used stick census smart fever north staff market olympic nasty";

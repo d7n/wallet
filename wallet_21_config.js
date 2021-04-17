@@ -1,1 +1,1 @@
-var mnemonic = "often label flock portion exercise stairs climb barrel evoke upset smart tube";
+var mnemonic = "poverty morning assist head virus margin verb noble same south sleep theory";

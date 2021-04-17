@@ -1,1 +1,1 @@
-var mnemonic = "gospel stand aerobic between art retreat physical blouse pass buddy absorb solar";
+var mnemonic = "escape horse sand cradle travel chef trigger sadness artist appear leader deer";

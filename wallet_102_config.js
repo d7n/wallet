@@ -1,1 +1,1 @@
-var mnemonic = "shadow kangaroo task mistake lobster system coral limit admit excess unknown infant";
+var mnemonic = "expose radar perfect choose dirt rigid april excuse uphold flush tunnel trade";

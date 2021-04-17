@@ -1,1 +1,1 @@
-var mnemonic = "survey stay retreat sock abuse search head garage nation scissors siren glimpse";
+var mnemonic = "vote exhaust airport lottery valid choose treat inner view process sure swarm";

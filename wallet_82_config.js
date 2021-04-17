@@ -1,1 +1,1 @@
-var mnemonic = "castle palm alien green situate student virus master trick mix acid armor";
+var mnemonic = "erupt snack twelve door speak wage crowd depart hospital keep century fish";

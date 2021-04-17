@@ -1,1 +1,1 @@
-var mnemonic = "zone indoor palace cause alert elder ecology gravity double clown lizard ceiling";
+var mnemonic = "distance pizza dress true glass kingdom code bubble hawk warm quantum crawl";

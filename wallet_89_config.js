@@ -1,1 +1,1 @@
-var mnemonic = "million flee under blossom steel volcano left fatal always angry sense auto";
+var mnemonic = "quick into impose flash throw random gospel ill sleep obey approve scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "worry duty ecology addict swallow wolf solar brush range tank merry narrow";
+var mnemonic = "paper bus injury deputy parade action pulp ramp hover stumble foot success";

@@ -1,1 +1,1 @@
-var mnemonic = "timber hurdle candy call young rude hard tell shine calm surprise special";
+var mnemonic = "comic front cute turtle praise evoke loyal kick loop head almost poet";

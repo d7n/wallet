@@ -1,1 +1,1 @@
-var mnemonic = "host glide book key hotel loan mistake fatigue spread guard oyster claim";
+var mnemonic = "point crumble express empower version boat stand waste laugh gorilla history warm";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange glimpse oyster couple shock priority oyster summer three margin rule unit";
+var mnemonic = "gift able ill marriage desert lava raven guess elephant female phrase about";

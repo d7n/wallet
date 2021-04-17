@@ -1,1 +1,1 @@
-var mnemonic = "hole aisle rough total kingdom calm profit tooth bright purse opinion vibrant";
+var mnemonic = "marble cry large source convince script common cabbage mail buyer mercy waste";

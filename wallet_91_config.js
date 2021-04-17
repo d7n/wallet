@@ -1,1 +1,1 @@
-var mnemonic = "differ economy treat jar rule cost coyote dance sting crush vital strike";
+var mnemonic = "risk slice citizen media donate cave grain hammer race prepare silk entry";

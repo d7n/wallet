@@ -1,1 +1,1 @@
-var mnemonic = "capital duty solution topple night cheap opinion expand remove summer column pudding";
+var mnemonic = "invite toward wedding wheel oil strategy cause bamboo owner bag salad mountain";

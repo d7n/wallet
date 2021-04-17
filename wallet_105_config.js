@@ -1,1 +1,1 @@
-var mnemonic = "suspect clay original same arrange good box pledge urge divert million speed";
+var mnemonic = "minimum another phrase title violin couple refuse alone hunt document defense grant";

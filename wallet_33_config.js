@@ -1,1 +1,1 @@
-var mnemonic = "student child section happy vibrant lonely enforce session clock mobile avoid segment";
+var mnemonic = "nominee vessel cage veteran private shine rather coconut giant diamond warfare best";

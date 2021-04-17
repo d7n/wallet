@@ -1,1 +1,1 @@
-var mnemonic = "myself nasty throw accident carbon demise sniff boy project album host wrap";
+var mnemonic = "morning stage bitter anchor treat mom spare subway six powder grit flame";

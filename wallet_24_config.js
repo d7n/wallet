@@ -1,1 +1,1 @@
-var mnemonic = "abandon parent once evoke close middle letter leg lonely hood lounge gun";
+var mnemonic = "engine segment robust panic trash oyster frog end giant guide milk arrive";

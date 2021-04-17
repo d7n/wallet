@@ -1,1 +1,1 @@
-var mnemonic = "latin essence enlist caught reason ivory erosion sunny knife miracle cloud divert";
+var mnemonic = "size bargain inspire mother punch illness path hockey control rib visual canvas";

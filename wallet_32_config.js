@@ -1,1 +1,1 @@
-var mnemonic = "hub absurd square path girl spend recycle job million faculty muscle depend";
+var mnemonic = "margin display popular infant erupt morning false peasant fresh note million style";

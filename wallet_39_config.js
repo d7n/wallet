@@ -1,1 +1,1 @@
-var mnemonic = "portion raccoon blossom neglect ordinary drive noble idle road turkey promote scheme";
+var mnemonic = "stay world riot island behind sad again type alarm confirm scorpion view";

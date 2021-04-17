@@ -1,1 +1,1 @@
-var mnemonic = "able behave icon crack imitate universe clown school cruise dumb object cage";
+var mnemonic = "siren cereal truck jewel raw walk repeat fade quarter once stove curve";

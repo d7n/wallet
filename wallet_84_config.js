@@ -1,1 +1,1 @@
-var mnemonic = "water dash chimney fox when banner busy lazy impact spider then reveal";
+var mnemonic = "club essence toy foam beauty team result pizza people rival genuine float";
