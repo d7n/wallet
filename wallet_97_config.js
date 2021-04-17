@@ -1,1 +1,1 @@
-var mnemonic = "own board help sustain grocery property chef street oppose amount rib live";
+var mnemonic = "benefit profit behind risk kid cave eager crawl involve edge orphan stool";

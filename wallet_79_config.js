@@ -1,1 +1,1 @@
-var mnemonic = "orbit team all judge current collect milk exhibit rigid potato nice shiver";
+var mnemonic = "jewel fine parade coach island liar spoon robot radar pink wreck turn";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual tag lunar car blind issue business census utility witness cigar hurt";
+var mnemonic = "behave fence gallery reunion author crystal shoot primary wise speak report chef";

@@ -1,1 +1,1 @@
-var mnemonic = "clean cruise tennis session tag cargo flash mind void neutral artwork wet";
+var mnemonic = "benefit minimum spike air envelope orchard hungry ugly tourist ugly glance maple";

@@ -1,1 +1,1 @@
-var mnemonic = "flip lucky catalog badge brother run frown retreat vendor bag dragon release";
+var mnemonic = "derive arctic away refuse cream quote wedding wide original vivid ozone cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "trick matter reason daring give satisfy almost worth ethics monitor ocean salmon";
+var mnemonic = "feature still frog aspect notable clay iron swap spring claw opera erase";

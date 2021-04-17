@@ -1,1 +1,1 @@
-var mnemonic = "various vocal plate evil angle better envelope version illness live grief flat";
+var mnemonic = "thrive snap village arrow toe know boost source today ocean catch silent";

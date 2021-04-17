@@ -1,1 +1,1 @@
-var mnemonic = "chimney address reject swarm butter uphold curve penalty stairs tomato motion evil";
+var mnemonic = "dolphin attract clever cancel harvest forum either pig shock grid warrior nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "limit park guard drum usual like wealth unfold crucial shine admit junk";
+var mnemonic = "demise purse staff game trial boy strike sort maximum little want special";

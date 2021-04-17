@@ -1,1 +1,1 @@
-var mnemonic = "embody ball right fiber rigid live budget matrix grain upper century dinosaur";
+var mnemonic = "easily famous degree price sugar mobile unusual supreme involve manual also speak";

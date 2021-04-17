@@ -1,1 +1,1 @@
-var mnemonic = "later awake loan note want foil lazy almost burden wife wing cool";
+var mnemonic = "rough erosion remind brain magic usual width uphold minor select right whale";

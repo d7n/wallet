@@ -1,1 +1,1 @@
-var mnemonic = "nurse season tobacco flag drink coach evidence youth sorry action degree swear";
+var mnemonic = "cart goddess horn net utility artefact social olympic high pave drama vague";

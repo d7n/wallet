@@ -1,1 +1,1 @@
-var mnemonic = "design knife grace dove coffee alpha act online salmon little uncover illness";
+var mnemonic = "arena census combine security slam vote grief lounge need type student oil";

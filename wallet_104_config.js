@@ -1,1 +1,1 @@
-var mnemonic = "blur tube cotton tell real tuition increase write worth city pioneer copper";
+var mnemonic = "swift marriage number core pretty sick bid differ control donor involve rain";

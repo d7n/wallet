@@ -1,1 +1,1 @@
-var mnemonic = "high maid sadness wisdom shield recipe scatter settle capable jaguar grocery type";
+var mnemonic = "orient family effort will trap retreat toilet elder three prevent tilt scale";

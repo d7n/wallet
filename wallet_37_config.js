@@ -1,1 +1,1 @@
-var mnemonic = "meadow come cover oil jungle tiger jewel ordinary praise discover nature print";
+var mnemonic = "story desk road brown degree lamp cream hungry rent wealth law toddler";

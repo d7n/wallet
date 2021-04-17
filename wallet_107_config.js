@@ -1,1 +1,1 @@
-var mnemonic = "blur van toast sight among nuclear reveal apple snow hub snap cinnamon";
+var mnemonic = "length dove oxygen emotion resemble tomato truly predict exhibit rocket space increase";

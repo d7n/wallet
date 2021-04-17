@@ -1,1 +1,1 @@
-var mnemonic = "slush consider venue pepper wave true radio poverty drink alcohol become act";
+var mnemonic = "chef planet quote lazy walk butter setup catch under copy cook west";

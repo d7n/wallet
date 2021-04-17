@@ -1,1 +1,1 @@
-var mnemonic = "blush green drum chunk motor grain wing length unaware magnet battle bitter";
+var mnemonic = "limb unique emotion only bone blood often bundle shift gloom thrive salt";

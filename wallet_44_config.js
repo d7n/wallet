@@ -1,1 +1,1 @@
-var mnemonic = "humor check clock pilot grow blanket hungry tongue dizzy blur degree worry";
+var mnemonic = "ghost van aware shuffle regret artefact goddess width blur edge collect ancient";

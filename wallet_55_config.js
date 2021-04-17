@@ -1,1 +1,1 @@
-var mnemonic = "jazz quick pulp matter own prize dish dust own inflict artist cactus";
+var mnemonic = "soft alert flower butter spin fame estate detect foster auto layer zoo";

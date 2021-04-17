@@ -1,1 +1,1 @@
-var mnemonic = "under brass what total dress absent dial learn mesh party lemon hub";
+var mnemonic = "upper obtain cruel early bronze silly bundle agree faculty insane that remain";

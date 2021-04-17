@@ -1,1 +1,1 @@
-var mnemonic = "holiday what moon forum title legend parade hurry beauty decide mind bamboo";
+var mnemonic = "glimpse author true similar mad love rice verb artist cart area wise";

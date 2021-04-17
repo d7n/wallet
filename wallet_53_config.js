@@ -1,1 +1,1 @@
-var mnemonic = "uniform call demand achieve cover discover visa repair undo wide employ airport";
+var mnemonic = "buffalo camp cute risk vehicle humor cup horse visa keen also express";

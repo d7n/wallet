@@ -1,1 +1,1 @@
-var mnemonic = "trip embody mansion notice tide artist badge shadow aerobic tonight sponsor deal";
+var mnemonic = "marble perfect original source follow blush fashion cable sausage void metal rebel";

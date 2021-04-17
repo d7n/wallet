@@ -1,1 +1,1 @@
-var mnemonic = "nest sun taxi notable initial popular stereo laugh choice hurdle decide silly";
+var mnemonic = "shy silver tiny amount million song fault smoke sound mutual rule sting";

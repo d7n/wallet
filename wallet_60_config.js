@@ -1,1 +1,1 @@
-var mnemonic = "trophy force present obey flush grid demise clown protect song veteran balance";
+var mnemonic = "tornado finish slot festival clean dirt idle inject image group afford pelican";

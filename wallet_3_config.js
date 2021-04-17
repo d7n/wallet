@@ -1,1 +1,1 @@
-var mnemonic = "shock endorse lake finish visit royal tube false essay enforce boat train";
+var mnemonic = "address soap library spoil nose easy more bubble tray tape only reflect";

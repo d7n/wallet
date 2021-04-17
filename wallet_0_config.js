@@ -1,1 +1,1 @@
-var mnemonic = "apology jelly nest frozen exotic industry april latin across check lunar margin";
+var mnemonic = "loud clown donor lunar chicken core repeat sorry mansion cricket cloud volume";

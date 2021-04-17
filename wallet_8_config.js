@@ -1,1 +1,1 @@
-var mnemonic = "timber beyond address razor run try fatal copper across deal stable evidence";
+var mnemonic = "old glare glance dash cream category consider chair hungry club vital guilt";

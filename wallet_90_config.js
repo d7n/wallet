@@ -1,1 +1,1 @@
-var mnemonic = "tool bulk illegal engage pottery noodle company idle atom goddess caught very";
+var mnemonic = "thumb hand someone gloom man luxury renew series genius excuse simple cactus";

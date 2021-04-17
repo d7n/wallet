@@ -1,1 +1,1 @@
-var mnemonic = "maximum ankle attract orient hotel symbol such link hidden high surface park";
+var mnemonic = "lion any auction pen country buyer case genre shaft system main device";

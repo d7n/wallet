@@ -1,1 +1,1 @@
-var mnemonic = "payment crop special strike jelly feed segment heavy strike analyst gorilla busy";
+var mnemonic = "renew option later bean vote public unusual notice angry toddler swing scheme";

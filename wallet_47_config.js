@@ -1,1 +1,1 @@
-var mnemonic = "captain search robust version glad beef february brief pond crawl diamond federal";
+var mnemonic = "benefit avocado body misery flip vibrant kid vapor uncover fan lobster spread";

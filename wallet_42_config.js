@@ -1,1 +1,1 @@
-var mnemonic = "plate evidence kit scene zone inform enter you ensure muffin ask access";
+var mnemonic = "sell winner invite renew brief inner scrap regular weasel glare hunt sunset";

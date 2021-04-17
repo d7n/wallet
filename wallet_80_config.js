@@ -1,1 +1,1 @@
-var mnemonic = "cross onion paddle dinner amused repeat nut inspire finger design popular inquiry";
+var mnemonic = "various capital evil reunion town output knife twist legal crouch reform comic";

@@ -1,1 +1,1 @@
-var mnemonic = "tower feature note foot plug pretty field face enough energy trade age";
+var mnemonic = "witness general hand special meadow decorate sadness matrix where moon orphan expire";

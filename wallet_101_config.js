@@ -1,1 +1,1 @@
-var mnemonic = "december supreme jump crush else manage upper pizza involve appear smart economy";
+var mnemonic = "hurdle safe host hope inspire snack sweet panic novel recall muscle trigger";

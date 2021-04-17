@@ -1,1 +1,1 @@
-var mnemonic = "blind silent blush retire smile brain exact silver puppy chunk public visa";
+var mnemonic = "wash arch surround announce secret park witness woman gaze top shoot bitter";

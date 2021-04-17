@@ -1,1 +1,1 @@
-var mnemonic = "topic bike sausage kiwi rally park teach brain bullet friend radio knee";
+var mnemonic = "right repeat humble attitude false high sort salon salmon else faint dismiss";

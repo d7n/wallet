@@ -1,1 +1,1 @@
-var mnemonic = "one cream beyond brass angry unaware joke kiss lobster party blame crazy";
+var mnemonic = "matrix despair young slogan unusual relax riot barrel more universe crop vivid";

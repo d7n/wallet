@@ -1,1 +1,1 @@
-var mnemonic = "extra plate morning letter sell tooth seat burst way rich monkey price";
+var mnemonic = "valid ritual fatigue venue people rib damp real ball combine town veteran";

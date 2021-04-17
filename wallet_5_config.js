@@ -1,1 +1,1 @@
-var mnemonic = "multiply uncover embrace age crime crowd inside hole conduct obtain curve sad";
+var mnemonic = "also pink atom office step model assist brown maximum patch moon average";

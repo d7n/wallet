@@ -1,1 +1,1 @@
-var mnemonic = "school charge manage cook scatter patrol barely invest gap trade home biology";
+var mnemonic = "shoulder half between injury empower sick simple monster good crawl mercy wreck";

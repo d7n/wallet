@@ -1,1 +1,1 @@
-var mnemonic = "twin isolate dumb era govern lumber labor tree penalty swamp predict enter";
+var mnemonic = "behave ghost salad bacon credit spoon across maze submit stand peanut evolve";

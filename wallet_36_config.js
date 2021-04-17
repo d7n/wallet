@@ -1,1 +1,1 @@
-var mnemonic = "valid action mystery vendor unusual parrot area elite agent outer finger season";
+var mnemonic = "rhythm fringe insane sheriff tornado roof among satoshi disagree primary reveal secret";

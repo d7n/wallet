@@ -1,1 +1,1 @@
-var mnemonic = "federal melt idea breeze pride tuna impact feature rigid crucial level arena";
+var mnemonic = "involve fatal soap stomach since mention push hip fortune purpose approve toe";

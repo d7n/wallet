@@ -1,1 +1,1 @@
-var mnemonic = "fatigue endorse purchase truly arctic canvas derive ability knock interest cabbage auction";
+var mnemonic = "luxury fish odor couple glow bring cheese say explain similar private oil";

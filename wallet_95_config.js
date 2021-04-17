@@ -1,1 +1,1 @@
-var mnemonic = "permit amount disorder mushroom saddle travel dose lecture blue virus total february";
+var mnemonic = "humor hurry thumb radio bonus despair blast smooth curious useless arena must";

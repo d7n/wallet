@@ -1,1 +1,1 @@
-var mnemonic = "whale symbol village surface path elbow leopard visual mule motion mind palm";
+var mnemonic = "two strategy glow brain provide achieve ready when pilot brand range jazz";

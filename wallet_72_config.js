@@ -1,1 +1,1 @@
-var mnemonic = "direct usage beyond harvest pistol school gain rude tilt leg unit kitten";
+var mnemonic = "pill piano claim true write leg way ask run much idle tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "donor unveil before current blade immense front step tank symbol together odor";
+var mnemonic = "border scatter replace chief reveal fun maple cliff shallow move shrug mutual";

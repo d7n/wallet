@@ -1,1 +1,1 @@
-var mnemonic = "around plug timber nuclear love vast ticket crowd circle tank stem animal";
+var mnemonic = "lesson predict faith keen bid metal thing document cloth film credit orphan";

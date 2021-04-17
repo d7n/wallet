@@ -1,1 +1,1 @@
-var mnemonic = "leg truly mystery tube hen remain awesome extra scan lunch giant program";
+var mnemonic = "version panda jacket poem eight pudding wrist leaf famous merit riot suspect";

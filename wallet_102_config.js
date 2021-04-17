@@ -1,1 +1,1 @@
-var mnemonic = "school cycle horse lumber run lawsuit reward beef speak edge govern ahead";
+var mnemonic = "master winner cross before warm domain setup fiber lab submit holiday usual";

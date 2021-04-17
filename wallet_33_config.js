@@ -1,1 +1,1 @@
-var mnemonic = "eternal lock bridge display strategy tray soup dance robust weather page price";
+var mnemonic = "manage miracle tourist night sauce setup size walnut misery harbor bulb body";

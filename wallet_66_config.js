@@ -1,1 +1,1 @@
-var mnemonic = "earn fatal shrimp frog aware sphere asset actual drill slice toe bundle";
+var mnemonic = "potato permit ridge pass auction undo gesture glide fashion modify hour prize";

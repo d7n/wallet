@@ -1,1 +1,1 @@
-var mnemonic = "very coin often arrive already puppy clinic airport shiver hockey escape report";
+var mnemonic = "defense sign bunker devote gloom vocal dumb area crew drift frown humor";

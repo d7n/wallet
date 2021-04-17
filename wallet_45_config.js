@@ -1,1 +1,1 @@
-var mnemonic = "genuine walnut tribe total gesture clog hawk sustain popular limit gallery best";
+var mnemonic = "maid uniform improve cube park garment august deny trouble crouch fan simple";

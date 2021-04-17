@@ -1,1 +1,1 @@
-var mnemonic = "label atom rich tiger brief gallery fuel cause upset soon excite arrange";
+var mnemonic = "wrist image yard drastic orchard property prefer riot bulk learn naive base";

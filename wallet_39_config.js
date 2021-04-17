@@ -1,1 +1,1 @@
-var mnemonic = "movie earn have praise mandate peanut inspire they hello defense address dizzy";
+var mnemonic = "spray eager furnace peace donkey change diet shiver recycle bleak walnut choose";

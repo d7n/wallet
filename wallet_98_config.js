@@ -1,1 +1,1 @@
-var mnemonic = "tackle suggest iron art turn cool renew turn second horror arch pull";
+var mnemonic = "vessel blossom brass prosper pigeon ketchup cigar iron chef shaft gasp apart";

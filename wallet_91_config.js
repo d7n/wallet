@@ -1,1 +1,1 @@
-var mnemonic = "custom pear post step clump toddler wrap relax stomach sunny uncle assume";
+var mnemonic = "half cupboard depart below palm must rate twelve helmet must ginger ignore";

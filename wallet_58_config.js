@@ -1,1 +1,1 @@
-var mnemonic = "deliver duty crystal snake river cargo slab lawsuit exercise nose proof kiss";
+var mnemonic = "margin priority service orchard confirm radar future quote tent leader peace swallow";

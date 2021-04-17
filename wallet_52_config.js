@@ -1,1 +1,1 @@
-var mnemonic = "flash few better glue lion apology bring raven fatigue smooth skirt error";
+var mnemonic = "belt sleep visual sweet end bleak diamond invite fan enjoy farm adjust";

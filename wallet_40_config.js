@@ -1,1 +1,1 @@
-var mnemonic = "raise skin trick timber kick sad aisle safe heart work cactus slogan";
+var mnemonic = "physical daughter style attack good anxiety home wrong source blush dune field";

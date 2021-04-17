@@ -1,1 +1,1 @@
-var mnemonic = "chalk muffin fetch issue upset lens kind virus wild vanish elbow island";
+var mnemonic = "erase loud alien extend arrow online again rely expand budget arrange embody";

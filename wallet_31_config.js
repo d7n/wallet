@@ -1,1 +1,1 @@
-var mnemonic = "flight hurt sing galaxy portion entry load proud rent trumpet tobacco behind";
+var mnemonic = "metal deputy kitten explain panda iron slender crouch peace satoshi club assault";

@@ -1,1 +1,1 @@
-var mnemonic = "wink usual aware frozen captain portion trust chef rate lecture truly shed";
+var mnemonic = "earn position maple dial tone debate mansion festival trend index guilt castle";

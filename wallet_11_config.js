@@ -1,1 +1,1 @@
-var mnemonic = "ridge place pottery trip announce soul infant liberty obscure defy library kid";
+var mnemonic = "come tip sing equip spatial used thank color invest decorate balance hungry";

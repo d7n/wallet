@@ -1,1 +1,1 @@
-var mnemonic = "craft live enjoy firm sauce pony company volcano axis welcome dignity tent";
+var mnemonic = "such account common craft vital razor lyrics repeat embark sample conduct gospel";

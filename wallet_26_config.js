@@ -1,1 +1,1 @@
-var mnemonic = "laundry kite response work bronze marriage wolf shoe diesel shuffle flame balance";
+var mnemonic = "pistol curve either shift jazz crumble battle they asthma inhale vapor nerve";

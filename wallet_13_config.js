@@ -1,1 +1,1 @@
-var mnemonic = "lesson until pave arrange ozone goose can govern soon hover surge peanut";
+var mnemonic = "buyer vacant token divorce image fever timber object youth glide potato aspect";

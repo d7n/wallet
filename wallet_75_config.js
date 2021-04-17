@@ -1,1 +1,1 @@
-var mnemonic = "night paper real leopard rebel swarm praise syrup animal that fortune suffer";
+var mnemonic = "engage current segment frog wood extra betray luggage soon satoshi yellow tomato";

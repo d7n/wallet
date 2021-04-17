@@ -1,1 +1,1 @@
-var mnemonic = "plastic ghost fatal run scorpion armor shoot carpet true artwork plastic master";
+var mnemonic = "carbon slice purity result olive purchase ice short repeat announce tissue loud";

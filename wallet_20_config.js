@@ -1,1 +1,1 @@
-var mnemonic = "check raven hand load welcome submit rival lizard mutual balance latin okay";
+var mnemonic = "artwork kiwi melt cheap other race bird kitten hand shy ramp crazy";

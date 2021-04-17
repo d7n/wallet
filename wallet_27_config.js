@@ -1,1 +1,1 @@
-var mnemonic = "that lumber sun whip planet broken exhibit cotton limb pattern dragon arctic";
+var mnemonic = "all beach bag width betray fence abuse same crawl easy knife unfold";

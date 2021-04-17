@@ -1,1 +1,1 @@
-var mnemonic = "squeeze potato address shadow whisper usage miss nephew gift vendor index pulse";
+var mnemonic = "moment staff dress exhibit genuine exhibit enforce rookie prosper motor pattern sunny";

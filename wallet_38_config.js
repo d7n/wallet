@@ -1,1 +1,1 @@
-var mnemonic = "spice gift gather follow hospital afraid display test action brush february oyster";
+var mnemonic = "vicious cereal obvious nice humor frost wonder enroll soon action spread edge";

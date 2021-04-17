@@ -1,1 +1,1 @@
-var mnemonic = "story palace club glance possible border list sponsor vote liberty slab always";
+var mnemonic = "sweet earn giggle pottery dumb orchard record spy carbon barrel employ sunset";

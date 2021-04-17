@@ -1,1 +1,1 @@
-var mnemonic = "start barrel auction artwork pool average whisper surface romance head idle hammer";
+var mnemonic = "camera genre hidden soon empty finger must lounge list midnight lemon wolf";

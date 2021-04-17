@@ -1,1 +1,1 @@
-var mnemonic = "category vanish apology twin unfold upper can cause toddler add more noodle";
+var mnemonic = "crime nest design deputy focus goose love ranch race burst fancy keen";

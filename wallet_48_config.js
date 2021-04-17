@@ -1,1 +1,1 @@
-var mnemonic = "panther glow swim good village weather brother display siege cushion scare process";
+var mnemonic = "patch donate charge select orient issue canvas follow turtle gorilla romance steak";

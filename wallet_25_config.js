@@ -1,1 +1,1 @@
-var mnemonic = "sound lobster cart poem emotion pond opinion diet lake blind snake canal";
+var mnemonic = "round menu search bomb supply abuse hole end ship either oyster crater";

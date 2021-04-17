@@ -1,1 +1,1 @@
-var mnemonic = "option limb eternal urban belt bleak gold put ability birth magnet rule";
+var mnemonic = "student project action enemy recipe garden prosper easily avocado will plug elegant";

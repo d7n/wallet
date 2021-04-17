@@ -1,1 +1,1 @@
-var mnemonic = "tent trim minute hurry clog peace orange flower body ketchup same clown";
+var mnemonic = "giggle tooth heart lab fish question area ordinary defense noodle dad paper";

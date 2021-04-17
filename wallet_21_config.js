@@ -1,1 +1,1 @@
-var mnemonic = "card border cereal plastic upset neglect grape emotion slogan ladder flat enhance";
+var mnemonic = "erupt slight crawl erupt abstract clarify magic sail detect turtle garlic sun";
