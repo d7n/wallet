@@ -1,1 +1,1 @@
-var mnemonic = "stick sell blossom pulse subway source spend weapon answer armor icon under";
+var mnemonic = "gallery disease song cotton shoe palace sea latin melt know decide van";

@@ -1,1 +1,1 @@
-var mnemonic = "intact consider polar zero neither riot electric scatter burden donkey walk drama";
+var mnemonic = "satisfy live verify school stomach exile injury virtual rescue example industry word";

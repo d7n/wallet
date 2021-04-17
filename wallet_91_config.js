@@ -1,1 +1,1 @@
-var mnemonic = "route stem happy mask crouch sniff clump powder wheel honey primary base";
+var mnemonic = "zone tilt bundle sound common ready ring clip hard author similar great";

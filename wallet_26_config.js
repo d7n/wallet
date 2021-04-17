@@ -1,1 +1,1 @@
-var mnemonic = "aunt buddy inform thank spray rival library gain general birth merry tragic";
+var mnemonic = "donate catch steel bracket veteran else accident organ critic banner warfare napkin";

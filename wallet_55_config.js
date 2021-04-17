@@ -1,1 +1,1 @@
-var mnemonic = "thunder blouse captain kidney decrease stereo wisdom farm prison arena library wreck";
+var mnemonic = "nothing hire shoe advance clump same kick venture joy spend immune icon";

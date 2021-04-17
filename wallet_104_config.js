@@ -1,1 +1,1 @@
-var mnemonic = "cradle remain slim film diagram wolf embody diagram kiss pride tiny oil";
+var mnemonic = "cram crystal kangaroo midnight clarify nut repeat hamster crack vendor surge opera";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor nothing alone amused limb mosquito purity minute delay love magnet weapon";
+var mnemonic = "filter rifle fix remember occur swear dentist width shove broken auction ostrich";

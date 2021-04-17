@@ -1,1 +1,1 @@
-var mnemonic = "position dust tray way prosper logic rule fury rich medal mercy ring";
+var mnemonic = "return black bridge useless black diagram link game arrive survey weird taxi";

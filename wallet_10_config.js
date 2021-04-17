@@ -1,1 +1,1 @@
-var mnemonic = "sting throw park axis beyond because equip amused ocean trophy parent day";
+var mnemonic = "warrior matrix wish miss denial rug judge later rapid vessel position rail";

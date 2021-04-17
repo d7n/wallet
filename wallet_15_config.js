@@ -1,1 +1,1 @@
-var mnemonic = "face inch cause resource talent lock drift once suit code suit put";
+var mnemonic = "transfer depend yard atom truly agree draw father shove robust output moon";

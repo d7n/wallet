@@ -1,1 +1,1 @@
-var mnemonic = "grunt shuffle weekend success scorpion version fringe doctor erode vast eager little";
+var mnemonic = "fever mechanic one news wolf blind window mobile enemy dust give glass";

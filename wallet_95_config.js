@@ -1,1 +1,1 @@
-var mnemonic = "please flower ensure phone rhythm flight rack oxygen pistol retreat wage puzzle";
+var mnemonic = "cost bright slot salad chimney suffer cruel upgrade rebuild blur dust child";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse jacket grab cruel pill fish print wonder solar under click visa";
+var mnemonic = "sense spin empower guide brand prevent goose father arrest cross invite lake";

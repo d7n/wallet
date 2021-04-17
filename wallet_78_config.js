@@ -1,1 +1,1 @@
-var mnemonic = "visit lunar kitten more one flip army gun merry leg parade burger";
+var mnemonic = "ugly devote cage result fold adapt taste equal clip pear ten rough";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd mercy damp three burst appear weapon drift car kite rent travel";
+var mnemonic = "enforce ask crawl acid soap eight that symptom glove picnic vague gallery";

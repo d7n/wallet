@@ -1,1 +1,1 @@
-var mnemonic = "attract trip dilemma split decline penalty imitate blast moral blur syrup stem";
+var mnemonic = "correct carbon glass slush bar blue cloud table license aunt discover floor";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder dwarf giant wasp obtain skate quick desk spare craft dynamic quit";
+var mnemonic = "humble write over submit sure sauce moon once hood near deal half";

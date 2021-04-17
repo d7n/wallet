@@ -1,1 +1,1 @@
-var mnemonic = "brass obscure afford later avocado hour deputy jeans minimum reward rabbit appear";
+var mnemonic = "world fitness forest fresh solar panel shop install fold square ability position";

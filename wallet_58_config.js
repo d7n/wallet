@@ -1,1 +1,1 @@
-var mnemonic = "inch build below warrior unfold velvet secret fiction insane lawn tray buffalo";
+var mnemonic = "wonder kingdom train fame wire drive nurse century attack tool target coast";

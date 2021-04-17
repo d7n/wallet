@@ -1,1 +1,1 @@
-var mnemonic = "host dash solar live author stumble genius rough observe side bomb carbon";
+var mnemonic = "round cycle cream hold once snack wife essence carbon twenty charge warm";

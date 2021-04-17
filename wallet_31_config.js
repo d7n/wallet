@@ -1,1 +1,1 @@
-var mnemonic = "bench wire love field style surge strategy narrow inherit lake air excuse";
+var mnemonic = "easily gain usage rare plastic force illness bird cushion bounce inquiry medal";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket autumn magic broom candy lyrics island page combine style item punch";
+var mnemonic = "purity spring category open ski weather unaware cave proud settle useful slender";

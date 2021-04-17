@@ -1,1 +1,1 @@
-var mnemonic = "switch peasant extra chief decrease opinion salon party age snake aunt place";
+var mnemonic = "sister pole yard similar warfare milk noise donate reward awake brain elegant";

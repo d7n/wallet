@@ -1,1 +1,1 @@
-var mnemonic = "calm swap disagree update alley other brisk hen snow goose hero skill";
+var mnemonic = "reveal left diet capable monkey stereo behave way village deposit token hold";

@@ -1,1 +1,1 @@
-var mnemonic = "error wagon artwork shy helmet type invest puzzle leader vague twenty sadness";
+var mnemonic = "velvet sponsor recall coconut income august absorb retreat kingdom effort mushroom library";

@@ -1,1 +1,1 @@
-var mnemonic = "december utility aware example warm faculty female oval calm scheme bullet morning";
+var mnemonic = "sing pistol drive wink earth okay fog brief gallery decade genre spot";

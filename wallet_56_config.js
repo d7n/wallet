@@ -1,1 +1,1 @@
-var mnemonic = "wrist question shell hole action element egg phone simple upset spawn forward";
+var mnemonic = "topple already outdoor air select over sweet board loan buyer village pyramid";

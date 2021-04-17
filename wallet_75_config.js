@@ -1,1 +1,1 @@
-var mnemonic = "device fatigue craft trumpet crunch prize practice luxury verify egg tiny shoulder";
+var mnemonic = "danger resemble trouble cream rent broom below major build tonight crawl metal";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory cement evidence tortoise sleep teach zebra police federal chaos snack illegal";
+var mnemonic = "link bomb wood peace type during right detail sense raise position local";

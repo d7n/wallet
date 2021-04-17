@@ -1,1 +1,1 @@
-var mnemonic = "fringe defy beach deer swap alone episode wedding frost syrup shift differ";
+var mnemonic = "engine surprise donor rain dial ride country coffee apple people spell stomach";

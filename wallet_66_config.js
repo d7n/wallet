@@ -1,1 +1,1 @@
-var mnemonic = "journey milk code unique uncle wrist garage caution scheme pride ramp guard";
+var mnemonic = "luggage borrow clean unlock castle champion dinner expose already essence egg list";

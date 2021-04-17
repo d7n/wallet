@@ -1,1 +1,1 @@
-var mnemonic = "property fly sausage desert toddler motor thumb october chapter fortune sausage camp";
+var mnemonic = "hair bundle curve lobster correct merit crouch vanish labor buddy upgrade endless";

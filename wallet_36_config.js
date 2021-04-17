@@ -1,1 +1,1 @@
-var mnemonic = "talk mother physical firm frown neither own tribe shop crystal immune inspire";
+var mnemonic = "voice spoon soft embrace grab exit cricket faint father donkey exhaust regular";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory smile book snap fly affair asthma ride catch upgrade pear shove";
+var mnemonic = "soon science naive two mammal leaf tackle payment margin test height unaware";

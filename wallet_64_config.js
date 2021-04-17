@@ -1,1 +1,1 @@
-var mnemonic = "know language topple credit arrest behave risk grunt smart finish bulk country";
+var mnemonic = "verify angle economy angry antenna quote melt doll achieve this valid tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "exile sniff lake album sibling faith zebra brother traffic allow gun quiz";
+var mnemonic = "tag history clump symptom hedgehog retire truck decide range accident antique leopard";

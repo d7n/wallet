@@ -1,1 +1,1 @@
-var mnemonic = "start trial breeze fox room before mixed this outer pelican power pass";
+var mnemonic = "robust soldier route junior gift hurt tuition orbit treat network couch goose";

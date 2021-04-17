@@ -1,1 +1,1 @@
-var mnemonic = "reason transfer truth season notice build tunnel tower upper rather west oppose";
+var mnemonic = "sad turkey hobby benefit bike embark crunch cause glare pitch scale cart";

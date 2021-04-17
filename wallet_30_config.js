@@ -1,1 +1,1 @@
-var mnemonic = "custom grow island random celery protect glad artefact bike main ancient combine";
+var mnemonic = "erosion orbit tourist render tooth goose tent panic upper aware inner antique";

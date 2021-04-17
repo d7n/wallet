@@ -1,1 +1,1 @@
-var mnemonic = "now chunk zebra truck document until cheap short woman dutch music fault";
+var mnemonic = "kid office hire naive fun brand afford update cruise cherry stamp alarm";

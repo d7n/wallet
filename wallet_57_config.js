@@ -1,1 +1,1 @@
-var mnemonic = "wise allow two damp liberty myself resemble absurd direct moral hero raccoon";
+var mnemonic = "scene fee laptop ticket viable discover attack rally erupt float nephew dynamic";

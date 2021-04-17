@@ -1,1 +1,1 @@
-var mnemonic = "tilt rebuild chicken extend release magic edge robot train crumble pumpkin year";
+var mnemonic = "ride romance buyer peanut core ankle early monster mail pistol cradle decrease";

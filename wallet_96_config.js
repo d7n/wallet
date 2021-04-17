@@ -1,1 +1,1 @@
-var mnemonic = "hand unveil capital loop nothing castle gorilla empty immense beauty inmate west";
+var mnemonic = "shell tortoise vanish spoil false draw margin mandate struggle gate chuckle treat";

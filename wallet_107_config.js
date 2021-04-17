@@ -1,1 +1,1 @@
-var mnemonic = "gesture argue slush bind fashion cloud salmon stomach hold horn gadget opera";
+var mnemonic = "put course govern steel expire enforce hand result evolve stuff win coral";

@@ -1,1 +1,1 @@
-var mnemonic = "forward apple trick hub squirrel average emotion circle omit rocket angle erupt";
+var mnemonic = "emotion wheel casino scatter meadow erase reason bird reason gold frown glove";

@@ -1,1 +1,1 @@
-var mnemonic = "capable possible subway paper empty tip bind hammer control taxi awkward matter";
+var mnemonic = "buffalo cancel key host flower odor inform table siren random input swift";

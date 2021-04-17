@@ -1,1 +1,1 @@
-var mnemonic = "cliff main accident welcome armed orange main catch pulse liar skin cushion";
+var mnemonic = "include consider ticket refuse mutual nest book shine come cradle produce foam";

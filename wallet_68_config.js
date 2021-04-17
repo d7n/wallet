@@ -1,1 +1,1 @@
-var mnemonic = "electric bulb pigeon toe dignity inmate planet script subject lottery push matter";
+var mnemonic = "upgrade upset veteran garbage hidden pave tourist agree salute yard chronic ancient";

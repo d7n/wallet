@@ -1,1 +1,1 @@
-var mnemonic = "cycle era today choice special toast bright dwarf climb invest leopard over";
+var mnemonic = "journey hurdle usage resemble pencil congress owner impact multiply roof cage consider";

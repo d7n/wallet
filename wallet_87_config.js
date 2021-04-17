@@ -1,1 +1,1 @@
-var mnemonic = "recycle tuna venture embark aisle since old journey tumble short behind suffer";
+var mnemonic = "razor supply donate wash cause unable raw year vehicle panda review report";

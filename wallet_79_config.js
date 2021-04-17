@@ -1,1 +1,1 @@
-var mnemonic = "enemy chicken online winter like churn leisure unfold topple tribe inspire coast";
+var mnemonic = "champion cargo symbol pen crumble media park diet protect toss arrest pizza";

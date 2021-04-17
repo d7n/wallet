@@ -1,1 +1,1 @@
-var mnemonic = "ostrich solution animal movie emerge afraid initial fruit voyage pulse picnic obscure";
+var mnemonic = "envelope prison soft spot unit circle exist advice action will goddess luggage";

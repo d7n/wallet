@@ -1,1 +1,1 @@
-var mnemonic = "tunnel autumn shuffle room frog unlock electric tattoo patch vault fatigue gesture";
+var mnemonic = "fresh velvet trade error lumber success wish judge shift bottom phone fancy";

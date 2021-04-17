@@ -1,1 +1,1 @@
-var mnemonic = "people wet fetch attack basket idea treat mix pipe play outer primary";
+var mnemonic = "seven hotel bus lawsuit pistol cool toy rescue spatial inform coast scheme";

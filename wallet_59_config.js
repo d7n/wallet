@@ -1,1 +1,1 @@
-var mnemonic = "relax aim dynamic loud coral sense system gym prison obscure fancy woman";
+var mnemonic = "planet lamp obscure lecture library universe appear melt refuse vanish bronze hundred";

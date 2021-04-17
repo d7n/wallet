@@ -1,1 +1,1 @@
-var mnemonic = "above panel soft crumble spider egg hire squeeze mountain stamp hidden pelican";
+var mnemonic = "exotic debris box time dice catch guitar answer donor hold spirit need";

@@ -1,1 +1,1 @@
-var mnemonic = "flush attend display fetch coil region current water small cancel rose always";
+var mnemonic = "skill brief behind fruit napkin human decline wall latin worth hundred gate";

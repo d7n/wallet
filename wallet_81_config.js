@@ -1,1 +1,1 @@
-var mnemonic = "pretty illegal kangaroo spy salmon episode regret pony typical cluster pool worth";
+var mnemonic = "people diesel decide electric habit panic pony lumber piano pave topic nerve";

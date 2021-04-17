@@ -1,1 +1,1 @@
-var mnemonic = "wasp artist moon kitten crash mule great inhale spin under girl skate";
+var mnemonic = "twelve push rough shadow icon ride peanut twice host arena climb crazy";

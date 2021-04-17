@@ -1,1 +1,1 @@
-var mnemonic = "tenant drastic iron chase indicate viable source surge face short color cool";
+var mnemonic = "obvious border chalk effort night lesson never slab breeze ready unlock tennis";

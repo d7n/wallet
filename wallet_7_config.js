@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sure survey change action session forum tree figure squirrel pattern catalog";
+var mnemonic = "ranch funny unfair heavy regular excess lens issue oblige casino select express";

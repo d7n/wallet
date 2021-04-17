@@ -1,1 +1,1 @@
-var mnemonic = "meadow real witness learn shadow slush gown course mirror casino slam taste";
+var mnemonic = "stone clerk fog bird clean rare sister sign olympic dash upgrade swamp";

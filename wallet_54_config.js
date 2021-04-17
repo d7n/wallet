@@ -1,1 +1,1 @@
-var mnemonic = "join vault sudden dirt west maximum office nuclear age enter bike door";
+var mnemonic = "rug source emerge among rule buddy defy pulse fade client battle front";

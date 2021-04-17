@@ -1,1 +1,1 @@
-var mnemonic = "disagree whisper need raccoon canoe rival act crush globe hurt short miracle";
+var mnemonic = "curious dog evil prosper tent cricket boring agree okay assist season fuel";

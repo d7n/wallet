@@ -1,1 +1,1 @@
-var mnemonic = "hole brisk among circle essay silent seven genuine door wedding toe state";
+var mnemonic = "service credit proof laundry typical live town cave aerobic victory lawn silver";

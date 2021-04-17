@@ -1,1 +1,1 @@
-var mnemonic = "air pudding shell erode prefer mail thing cushion two shoot nuclear chat";
+var mnemonic = "road tomorrow cherry shoot document lion hello frame solar luxury arch cloth";

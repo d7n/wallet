@@ -1,1 +1,1 @@
-var mnemonic = "rely rent stay pear goddess prevent faculty belt candy minor seven brown";
+var mnemonic = "page master slight super beyond elder else cabbage pill stone pyramid soccer";

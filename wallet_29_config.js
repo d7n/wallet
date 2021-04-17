@@ -1,1 +1,1 @@
-var mnemonic = "obey sweet plate nasty engine book either animal two enable primary zone";
+var mnemonic = "worth fruit open crime clutch multiply dinner humor vehicle quote segment timber";

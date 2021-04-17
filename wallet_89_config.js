@@ -1,1 +1,1 @@
-var mnemonic = "relief mind hair wedding snow heavy undo jaguar lens sell swift umbrella";
+var mnemonic = "combine pistol blanket aerobic capable woman wrap fun shell critic discover scissors";

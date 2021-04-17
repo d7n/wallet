@@ -1,1 +1,1 @@
-var mnemonic = "staff crop decline salon club captain they prize dish settle viable assault";
+var mnemonic = "draw switch transfer bomb escape list slender together theme rack earth response";

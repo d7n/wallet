@@ -1,1 +1,1 @@
-var mnemonic = "project midnight goat useless cradle fine crater butter curtain area tray artist";
+var mnemonic = "amount program palace frequent all imitate knock present focus shoot shallow mushroom";

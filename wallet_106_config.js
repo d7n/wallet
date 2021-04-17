@@ -1,1 +1,1 @@
-var mnemonic = "happy wear grief robot correct cash bunker kid vault satoshi engage must";
+var mnemonic = "figure away artefact south shock recall thrive indicate pudding fire enhance ripple";

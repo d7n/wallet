@@ -1,1 +1,1 @@
-var mnemonic = "fresh forest unfair draft mass inspire vapor garden room explain midnight main";
+var mnemonic = "language antenna betray profit opera expire radar embrace buzz fiber stereo adjust";

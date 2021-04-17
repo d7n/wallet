@@ -1,1 +1,1 @@
-var mnemonic = "index silent correct wisdom debate letter little clap opinion cream okay slab";
+var mnemonic = "inform laugh comfort fork multiply pole ball become hidden patient cheese begin";

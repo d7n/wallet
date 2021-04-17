@@ -1,1 +1,1 @@
-var mnemonic = "another defy surprise isolate pepper romance luxury news bright hen outside way";
+var mnemonic = "motor whale point tiger fabric park endless ship sign drink consider trip";

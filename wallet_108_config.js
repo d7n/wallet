@@ -1,1 +1,1 @@
-var mnemonic = "surge predict saddle country upper file woman ten genius camera lady toddler";
+var mnemonic = "sunset happy casino design lunar offer bring base actor raise define panther";

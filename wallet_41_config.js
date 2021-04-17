@@ -1,1 +1,1 @@
-var mnemonic = "garage panda connect bracket history transfer wasp second drink dish path select";
+var mnemonic = "evolve animal horn retire leader blouse cereal economy shine clown soul arrive";

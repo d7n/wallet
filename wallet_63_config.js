@@ -1,1 +1,1 @@
-var mnemonic = "limit swift fit actual trophy clinic punch ketchup panel verb mobile angle";
+var mnemonic = "split unaware syrup forward until spin clinic patrol ketchup shoot float deer";
