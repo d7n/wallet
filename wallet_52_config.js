@@ -1,1 +1,1 @@
-var mnemonic = "muscle forget stamp bus nut camp visual aware diary crazy fire foam";
+var mnemonic = "age develop month squirrel ancient clean fancy inch situate poverty bundle attend";

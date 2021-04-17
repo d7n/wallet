@@ -1,1 +1,1 @@
-var mnemonic = "poet inside ticket cupboard reject hammer disagree cycle man puzzle ecology crunch";
+var mnemonic = "venue glance spell leader swear enemy electric double fire essence course fade";

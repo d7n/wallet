@@ -1,1 +1,1 @@
-var mnemonic = "stock daring kiwi absurd danger boost letter rare jewel wide sunset empty";
+var mnemonic = "van trend inhale debris message steak borrow govern pull wave small swim";

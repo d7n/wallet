@@ -1,1 +1,1 @@
-var mnemonic = "provide whip fancy once dawn priority trap canoe fall casino omit express";
+var mnemonic = "victory original payment adjust finger index swing alert buyer desk sweet involve";

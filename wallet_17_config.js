@@ -1,1 +1,1 @@
-var mnemonic = "inform genre stool switch supply village crouch enough bone fire sport issue";
+var mnemonic = "pilot duty happy orient long pattern insect blossom furnace machine staff orange";

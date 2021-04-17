@@ -1,1 +1,1 @@
-var mnemonic = "industry leopard page shoot pulp public planet sustain unhappy between dawn escape";
+var mnemonic = "real bracket enemy spare brisk cheese cushion dose brisk radar sister anxiety";

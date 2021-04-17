@@ -1,1 +1,1 @@
-var mnemonic = "oxygen monster foster monster beyond plastic layer quiz shaft noise more armor";
+var mnemonic = "into market nest devote need sunny rifle spin differ six heart used";

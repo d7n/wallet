@@ -1,1 +1,1 @@
-var mnemonic = "device auto flag process author nice parent economy view fork grit fortune";
+var mnemonic = "light dumb arrow purchase final pilot walnut laptop cattle easily minimum broom";

@@ -1,1 +1,1 @@
-var mnemonic = "eager rare rather employ adult utility collect bag lunch humble fall stem";
+var mnemonic = "recall own road length myth beef layer magnet loan spoon offer feed";

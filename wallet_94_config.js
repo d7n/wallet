@@ -1,1 +1,1 @@
-var mnemonic = "fault model blind movie lumber state gloom attitude leave virus country neglect";
+var mnemonic = "fresh release dilemma they stamp taste apology poverty few brass you theme";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck hope shock finish brief box promote regret verb galaxy assault gun";
+var mnemonic = "vintage diagram shoot hover bike involve human illegal snake december letter erase";

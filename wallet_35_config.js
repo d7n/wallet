@@ -1,1 +1,1 @@
-var mnemonic = "give problem asset club winner iron pattern parade thumb knock warm promote";
+var mnemonic = "public blouse pond ladder poverty nasty use pipe ribbon elephant pipe wagon";

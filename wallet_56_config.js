@@ -1,1 +1,1 @@
-var mnemonic = "harbor faculty sibling struggle tennis puzzle tired duck method proof pyramid diet";
+var mnemonic = "portion rigid never soup apple vapor puzzle abuse various future three menu";

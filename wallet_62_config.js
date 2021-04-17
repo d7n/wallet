@@ -1,1 +1,1 @@
-var mnemonic = "open elevator social wide expect minute renew have fade protect chuckle body";
+var mnemonic = "exchange volume trophy remove east brass example team liar invest sweet eight";

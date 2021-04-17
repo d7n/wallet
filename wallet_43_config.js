@@ -1,1 +1,1 @@
-var mnemonic = "trust west tomato meadow right dutch tribe stool initial jealous neck wisdom";
+var mnemonic = "worry misery solution mistake symbol like vault this reflect amount loud creek";

@@ -1,1 +1,1 @@
-var mnemonic = "soda plunge broken monitor reopen casino avoid father lawn convince bargain guard";
+var mnemonic = "explain insect favorite outdoor wash innocent dish response open educate gaze dizzy";

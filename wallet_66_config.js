@@ -1,1 +1,1 @@
-var mnemonic = "ability hub dumb gasp barrel mask grape between plate ensure innocent employ";
+var mnemonic = "chunk rapid fork marriage device hope permit museum fall dog what romance";

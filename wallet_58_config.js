@@ -1,1 +1,1 @@
-var mnemonic = "focus brave vault lamp grant answer winter mammal sing engine video erode";
+var mnemonic = "surround target admit explain grace copper hidden fatigue profit cause stone judge";

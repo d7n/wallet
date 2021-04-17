@@ -1,1 +1,1 @@
-var mnemonic = "speed stay suspect magnet merit boat wait achieve actual capital hello solar";
+var mnemonic = "vicious magic vapor sleep rigid have width drama melt capital already film";

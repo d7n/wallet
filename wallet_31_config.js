@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bread fringe uncle dumb fiber bleak essence also supply fork lamp";
+var mnemonic = "report antique fruit animal bounce estate cup goddess ripple topic rally cave";

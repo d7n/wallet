@@ -1,1 +1,1 @@
-var mnemonic = "prosper first vapor below vague pioneer turn brisk exhibit doctor funny second";
+var mnemonic = "liquid crazy east brown aunt impact old earth awake asthma peasant purity";

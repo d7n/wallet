@@ -1,1 +1,1 @@
-var mnemonic = "release advice vague engage strategy vivid vessel desk two trend print accident";
+var mnemonic = "simple swallow donor stool elder dance melody romance pepper panda select sight";

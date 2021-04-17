@@ -1,1 +1,1 @@
-var mnemonic = "middle robot either fabric video dizzy plunge march limb still review shadow";
+var mnemonic = "amazing garlic area female enough asset card upgrade jealous typical body dose";

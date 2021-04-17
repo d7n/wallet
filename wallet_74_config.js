@@ -1,1 +1,1 @@
-var mnemonic = "history alcohol zoo margin arrive result sphere punch choose daughter frame vicious";
+var mnemonic = "artist street host idea dolphin order direct stem clinic wasp inner slab";

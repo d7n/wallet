@@ -1,1 +1,1 @@
-var mnemonic = "intact absorb night nephew mango fatigue slide either fatigue sudden icon churn";
+var mnemonic = "treat series prosper alone race keen axis cabin arrow toe green dizzy";

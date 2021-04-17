@@ -1,1 +1,1 @@
-var mnemonic = "harsh raise such pass apart funny dose fluid outside dream fade puzzle";
+var mnemonic = "vendor essay black digital cause emotion soul blossom ritual gloom search wedding";

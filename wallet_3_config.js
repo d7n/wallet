@@ -1,1 +1,1 @@
-var mnemonic = "artefact during rare two off surge involve pond moment apart spoil bulk";
+var mnemonic = "sing make noise cricket lesson member bunker tourist relax general kangaroo metal";

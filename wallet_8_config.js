@@ -1,1 +1,1 @@
-var mnemonic = "weapon elite attract path dress fitness logic oil caught crumble cinnamon april";
+var mnemonic = "holiday color random virtual narrow curtain carbon health parrot input elite universe";

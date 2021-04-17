@@ -1,1 +1,1 @@
-var mnemonic = "drift swamp canoe neutral mountain same fringe invest erupt job bulk indicate";
+var mnemonic = "fade ocean choose rude mango artist knee issue same stomach gallery tube";

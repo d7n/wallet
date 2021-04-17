@@ -1,1 +1,1 @@
-var mnemonic = "zebra worth aspect piece vacant miss project diet pass trim adapt primary";
+var mnemonic = "until muffin decline mystery anxiety nuclear tonight cat lawsuit odor anger pond";

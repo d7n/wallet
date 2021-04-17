@@ -1,1 +1,1 @@
-var mnemonic = "urban oxygen parrot raise finger garbage carbon sell keen slice noise alone";
+var mnemonic = "design wool brush scatter cost wagon catalog fog tissue crunch liberty peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "cable penalty parade stock word time outside stereo drive fat invest crime";
+var mnemonic = "coach enable extra giant wall gap erosion envelope film debris liar barely";

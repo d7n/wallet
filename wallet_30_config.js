@@ -1,1 +1,1 @@
-var mnemonic = "school frog frost mail story spike digital nuclear glance minimum gap win";
+var mnemonic = "burger deal dirt comfort copy visa feed nose friend spend shadow grief";

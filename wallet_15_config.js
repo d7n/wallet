@@ -1,1 +1,1 @@
-var mnemonic = "pepper office admit borrow term inmate glide alcohol tell alley powder dolphin";
+var mnemonic = "train fatal save grab crisp work seminar flee sport hobby matrix slogan";

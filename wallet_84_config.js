@@ -1,1 +1,1 @@
-var mnemonic = "beef pepper throw insane staff word tiny abuse believe easy popular snake";
+var mnemonic = "surface put orange few liar beef heart fence mobile say daring route";

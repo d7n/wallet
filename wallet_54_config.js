@@ -1,1 +1,1 @@
-var mnemonic = "lyrics enhance gesture song mail medal print useful juice autumn helmet account";
+var mnemonic = "subway affair spice glow basic silver burst sustain spoon lawsuit leg ramp";

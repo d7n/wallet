@@ -1,1 +1,1 @@
-var mnemonic = "tape blind lecture afraid point egg mind walnut avocado behave grab damage";
+var mnemonic = "glove churn faith wrong slam topic feature fix enact increase monkey please";

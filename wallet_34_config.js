@@ -1,1 +1,1 @@
-var mnemonic = "title hurt obtain property snap ensure pink exist lumber coffee unaware dutch";
+var mnemonic = "toddler company minute diesel repeat regret expand intact pass north inch topple";

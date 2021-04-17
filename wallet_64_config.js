@@ -1,1 +1,1 @@
-var mnemonic = "crew spare vital reduce bulb husband mango student report govern milk elevator";
+var mnemonic = "innocent couch motion wreck lucky blur govern flame sight valve ski situate";

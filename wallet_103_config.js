@@ -1,1 +1,1 @@
-var mnemonic = "employ lyrics horror sail polar sell fun over bacon craft again grunt";
+var mnemonic = "stock scout border extend control photo elevator pig then price bench album";

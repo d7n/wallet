@@ -1,1 +1,1 @@
-var mnemonic = "provide master segment fiction oyster bottom pause fetch grab force baby april";
+var mnemonic = "unusual monitor olympic rose enter argue bless sad oblige sunny country virus";

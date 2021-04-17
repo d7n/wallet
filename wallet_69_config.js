@@ -1,1 +1,1 @@
-var mnemonic = "idea expand cream nut barely leave pelican flash ankle sponsor confirm prosper";
+var mnemonic = "sand fire regret dinosaur derive embark balcony pave lesson goddess involve uncover";

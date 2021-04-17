@@ -1,1 +1,1 @@
-var mnemonic = "check tell swarm zoo road wife account adjust critic ability flush cigar";
+var mnemonic = "person voyage affair sphere van soccer grief acoustic turkey culture solution property";

@@ -1,1 +1,1 @@
-var mnemonic = "since swarm endorse pepper curious prefer rail region depth cart child weapon";
+var mnemonic = "melody olympic certain early liar alley vague zoo beach ocean glow gown";

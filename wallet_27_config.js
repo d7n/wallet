@@ -1,1 +1,1 @@
-var mnemonic = "repair raise already away season spirit inmate fence erode rotate movie leisure";
+var mnemonic = "winter property almost genius invest marine power dumb myself drift layer soft";

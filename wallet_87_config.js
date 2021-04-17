@@ -1,1 +1,1 @@
-var mnemonic = "connect gloom fashion fit fatigue recipe twelve tool wing stool jungle work";
+var mnemonic = "impose find region middle ball accuse amount fat father dash tuna truth";

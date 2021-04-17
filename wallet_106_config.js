@@ -1,1 +1,1 @@
-var mnemonic = "impose turtle menu bunker scissors prize sell sleep color cash cake cruel";
+var mnemonic = "crime toss curious analyst issue material high modify van insect away begin";

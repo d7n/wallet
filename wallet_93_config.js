@@ -1,1 +1,1 @@
-var mnemonic = "side cargo fog pudding topic design image also voyage truth olympic faint";
+var mnemonic = "champion act distance various move pretty fly sketch trouble arena over hello";

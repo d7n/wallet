@@ -1,1 +1,1 @@
-var mnemonic = "casino lyrics idea escape among bean cancel place catalog paper fall inhale";
+var mnemonic = "van little mosquito grace behave rigid fish afford alcohol neck caution proof";

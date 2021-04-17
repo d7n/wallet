@@ -1,1 +1,1 @@
-var mnemonic = "suggest patch swift museum arrive series finger amount world snow worth empower";
+var mnemonic = "glue affair pilot beyond dilemma smoke cheese desk elephant noise clean country";

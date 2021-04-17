@@ -1,1 +1,1 @@
-var mnemonic = "cash token helmet cause benefit pyramid split pistol veteran fault song slot";
+var mnemonic = "friend stay tide machine drip car charge saddle exclude annual present caught";

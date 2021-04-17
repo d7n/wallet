@@ -1,1 +1,1 @@
-var mnemonic = "goose lamp object chase royal service deliver dentist execute artist gravity hundred";
+var mnemonic = "nephew denial universe east adjust clinic mutual report entry call despair flower";

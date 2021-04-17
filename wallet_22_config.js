@@ -1,1 +1,1 @@
-var mnemonic = "brisk crystal pause moment egg vast hunt tiny dragon husband safe miss";
+var mnemonic = "antique prepare legend embody company grit faculty budget solution child inject knife";

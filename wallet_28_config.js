@@ -1,1 +1,1 @@
-var mnemonic = "witness jealous lesson toward zone endless wire that garlic fun bright edge";
+var mnemonic = "neither first viable elegant foot tower caught title write slide aerobic weather";

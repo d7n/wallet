@@ -1,1 +1,1 @@
-var mnemonic = "ketchup debris resource raccoon dawn reopen fiber sing ask below cinnamon glue";
+var mnemonic = "tortoise scan pause try exit daughter giant segment plunge blind canvas bind";

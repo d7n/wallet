@@ -1,1 +1,1 @@
-var mnemonic = "fix strong side scheme argue skull unknown swallow comfort child paper asthma";
+var mnemonic = "hotel dust vocal dry design garage prefer rebuild gown truck art lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh gather cool breeze gain gas inspire estate olympic basket cradle music";
+var mnemonic = "ride ring fury garbage sing spread boil color depth moral gun fade";

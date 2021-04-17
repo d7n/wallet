@@ -1,1 +1,1 @@
-var mnemonic = "either middle wreck bracket zebra asset tomato monster adult lamp brisk ghost";
+var mnemonic = "decline finger direct gate valley repair easily income earn chunk sister alone";

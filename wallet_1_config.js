@@ -1,1 +1,1 @@
-var mnemonic = "silent tuition uniform glove cluster company track action certain entire flash dolphin";
+var mnemonic = "south atom artist nuclear upgrade bless axis below click axis hero dinosaur";

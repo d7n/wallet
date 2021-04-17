@@ -1,1 +1,1 @@
-var mnemonic = "concert festival lonely enact skill excuse resemble problem idea service battle trend";
+var mnemonic = "taxi other inch limit warfare topple unknown artefact humble antique forum curtain";

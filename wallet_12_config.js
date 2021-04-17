@@ -1,1 +1,1 @@
-var mnemonic = "inflict game stove trouble fiber mixture betray prepare purpose can horse agree";
+var mnemonic = "bargain swing armed core master peasant reject thank anchor all evil attitude";

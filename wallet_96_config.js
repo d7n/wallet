@@ -1,1 +1,1 @@
-var mnemonic = "pluck nephew crime video jewel sea aerobic lyrics perfect custom response labor";
+var mnemonic = "march dumb leopard ignore else ankle alarm coconut private tenant country margin";

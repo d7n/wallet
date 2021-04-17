@@ -1,1 +1,1 @@
-var mnemonic = "scheme radar neglect oval sound noise know laugh brain awake oval gloom";
+var mnemonic = "final proud owner sing boil mesh primary anxiety book alpha vacuum wheel";

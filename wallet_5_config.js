@@ -1,1 +1,1 @@
-var mnemonic = "people cash pitch guilt toss smoke asthma fork erupt clay broken mass";
+var mnemonic = "pigeon section palm web torch type lesson depend magnet health resist observe";

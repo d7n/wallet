@@ -1,1 +1,1 @@
-var mnemonic = "unlock about faint pledge own cereal infant cool pact fruit woman spoil";
+var mnemonic = "avocado utility clerk doctor captain food scrub shallow long crop carbon pride";

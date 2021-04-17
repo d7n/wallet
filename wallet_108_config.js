@@ -1,1 +1,1 @@
-var mnemonic = "decline flag wild gorilla pistol increase picnic response consider expand amount symptom";
+var mnemonic = "fee fun year favorite pond release taste other grief they galaxy drip";

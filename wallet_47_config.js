@@ -1,1 +1,1 @@
-var mnemonic = "glance two liberty eyebrow tragic burden dinosaur wealth gather cross busy group";
+var mnemonic = "sweet frequent winter glove once organ grunt decline coast toe hat response";

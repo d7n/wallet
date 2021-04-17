@@ -1,1 +1,1 @@
-var mnemonic = "way spider share border dilemma curious urban girl cousin discover arena peace";
+var mnemonic = "remember limb answer loop else say tuna suit cancel canal surround trap";

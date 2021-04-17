@@ -1,1 +1,1 @@
-var mnemonic = "laundry when cake coconut hood sniff winner march dog front deliver casual";
+var mnemonic = "broken material bread coil cloud thumb island extra deliver poem rebel destroy";

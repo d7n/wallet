@@ -1,1 +1,1 @@
-var mnemonic = "trip consider arrange version yard jump scrap refuse picture photo wage illness";
+var mnemonic = "usual inject among hobby panda cash exotic pulp sample route either nothing";

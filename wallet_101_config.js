@@ -1,1 +1,1 @@
-var mnemonic = "recycle notice quantum payment claw tomorrow clip cause grunt wish tumble oblige";
+var mnemonic = "fever all mask play crime cause supreme wrap coil pudding claw ritual";

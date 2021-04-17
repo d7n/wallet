@@ -1,1 +1,1 @@
-var mnemonic = "rally luggage brain ability height title very relax upgrade smart print soft";
+var mnemonic = "fabric orchard chicken amused six render limb smooth fix bachelor situate vacant";

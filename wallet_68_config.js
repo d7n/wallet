@@ -1,1 +1,1 @@
-var mnemonic = "say boost wonder deputy crater repair craft thank whisper question taxi mammal";
+var mnemonic = "local essence there race ignore lobster express mystery horse scorpion two guitar";

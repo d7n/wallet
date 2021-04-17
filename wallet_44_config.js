@@ -1,1 +1,1 @@
-var mnemonic = "absent boil visa slight discover soon simple law cement ski shock merit";
+var mnemonic = "exile box step episode card region race relax pond token oyster reform";

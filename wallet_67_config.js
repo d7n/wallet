@@ -1,1 +1,1 @@
-var mnemonic = "feel era net puppy stool vehicle slow rigid impact clever unfold symptom";
+var mnemonic = "wink drink group future expire concert rather jeans royal bean boat afraid";

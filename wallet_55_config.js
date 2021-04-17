@@ -1,1 +1,1 @@
-var mnemonic = "oblige sport diamond kiwi broken jaguar tennis brush next rescue image swing";
+var mnemonic = "negative spin sunny expect spray merge club dismiss program weekend file thrive";

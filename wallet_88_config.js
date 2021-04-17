@@ -1,1 +1,1 @@
-var mnemonic = "tilt misery math soccer excuse wheel happy great float raise way ignore";
+var mnemonic = "decorate lift display soldier category giggle couch inflict creek switch coil focus";

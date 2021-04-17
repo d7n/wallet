@@ -1,1 +1,1 @@
-var mnemonic = "game arrest length render trade buzz digital slide state risk truth hollow";
+var mnemonic = "grain cannon inherit agent worth hill cute dynamic square because cross hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe gym second income bitter boil tank pact help doll similar captain";
+var mnemonic = "radar quick want screen foil mixed youth eagle visual twelve bubble glad";

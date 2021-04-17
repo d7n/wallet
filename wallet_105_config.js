@@ -1,1 +1,1 @@
-var mnemonic = "subject leg already convince matter coin second curve during stock assume real";
+var mnemonic = "minimum poverty napkin abandon scissors tuition mutual salute wide want knock elder";

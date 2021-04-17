@@ -1,1 +1,1 @@
-var mnemonic = "orient lyrics deputy toss know traffic season romance record away make clown";
+var mnemonic = "letter tobacco arena rose vendor simple diesel save family deer assault start";

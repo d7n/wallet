@@ -1,1 +1,1 @@
-var mnemonic = "icon stove clutch senior credit flash web air fitness cost behind trigger";
+var mnemonic = "fiscal blame alert salt theory treat oven rescue orphan gift safe gentle";

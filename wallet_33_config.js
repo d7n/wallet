@@ -1,1 +1,1 @@
-var mnemonic = "pet citizen gown rather bomb vacuum great narrow flag miss brain seven";
+var mnemonic = "learn review outside glad machine tornado gauge mimic vocal believe only offer";

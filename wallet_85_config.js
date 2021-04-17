@@ -1,1 +1,1 @@
-var mnemonic = "jacket involve catalog entire milk rally portion proof audit resource atom blush";
+var mnemonic = "present level amazing kite license goose lunch mosquito coconut zero debris brush";

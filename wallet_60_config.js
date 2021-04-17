@@ -1,1 +1,1 @@
-var mnemonic = "fringe point frequent outer net butter number first room render flash dumb";
+var mnemonic = "position sheriff fan address quit angle coyote bulb circle gravity section winter";

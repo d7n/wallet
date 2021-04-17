@@ -1,1 +1,1 @@
-var mnemonic = "gather amused luxury lens abstract hollow faith general silly person tissue reopen";
+var mnemonic = "cricket disorder daring veteran liquid obey strategy fresh picnic practice doctor tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor milk produce reunion rough return easy ball shy frost dynamic heavy";
+var mnemonic = "remember radar liberty sure minute can ordinary brave apology mango idle jacket";

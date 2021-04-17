@@ -1,1 +1,1 @@
-var mnemonic = "ivory quality alpha giggle grit rural snake follow sweet any pilot antique";
+var mnemonic = "host utility target pretty omit empty annual snack produce boss magnet differ";

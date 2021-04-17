@@ -1,1 +1,1 @@
-var mnemonic = "remind phrase boil abandon excite scrub sketch salon strong timber cradle replace";
+var mnemonic = "balcony clay begin trial icon decline bone people cram famous kick ivory";

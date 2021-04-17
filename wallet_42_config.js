@@ -1,1 +1,1 @@
-var mnemonic = "shiver rapid obey input consider abuse fever clay wild slice trouble stereo";
+var mnemonic = "bench marble news wonder fashion similar breeze hawk beef funny bus thought";

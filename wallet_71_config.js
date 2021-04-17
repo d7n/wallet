@@ -1,1 +1,1 @@
-var mnemonic = "inhale tomorrow erosion dash metal dash cabbage cactus strong board crowd bottom";
+var mnemonic = "special force steak kit total neither artist large polar noble crunch before";

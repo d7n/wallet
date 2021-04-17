@@ -1,1 +1,1 @@
-var mnemonic = "domain evoke boost cute foster tomorrow kiss ghost tape utility dirt mixed";
+var mnemonic = "rain trade goat embrace letter doll access grow shaft rapid wait inspire";

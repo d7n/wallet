@@ -1,1 +1,1 @@
-var mnemonic = "mansion priority kind step maple frequent nominee bullet note toss cloth spoil";
+var mnemonic = "swallow grant hover chase business connect barrel excite shuffle push potato laugh";

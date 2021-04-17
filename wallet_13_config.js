@@ -1,1 +1,1 @@
-var mnemonic = "father need panel nest level uncle jar segment unknown toddler clock vibrant";
+var mnemonic = "staff hazard tent risk fish expire grit basket evoke enroll upon draw";

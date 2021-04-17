@@ -1,1 +1,1 @@
-var mnemonic = "unknown horse tomorrow gesture merge icon arrow ramp ridge athlete typical emerge";
+var mnemonic = "tissue setup dolphin toward material anger side juice gather easily athlete crime";
