@@ -1,1 +1,1 @@
-var mnemonic = "antique screen record potato dwarf balcony swim story seminar cradle misery undo";
+var mnemonic = "evil beef hundred almost planet brisk whip elbow exchange unique license topic";

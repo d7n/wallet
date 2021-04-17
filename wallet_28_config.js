@@ -1,1 +1,1 @@
-var mnemonic = "kiwi dose lunch lonely mimic clown sight orchard tool panda idle liquid";
+var mnemonic = "range farm hazard pioneer opinion space jungle piano barely frame hire dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic stereo matrix object certain number remain track front warfare define hole";
+var mnemonic = "brush mutual physical spoil trim place vivid frown venture liar assault modify";

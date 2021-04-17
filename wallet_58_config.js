@@ -1,1 +1,1 @@
-var mnemonic = "action abandon puppy mad snap miss faint debris way depend apart orange";
+var mnemonic = "vintage twenty profit cheese diamond memory tip gentle dress cheap spice strike";

@@ -1,1 +1,1 @@
-var mnemonic = "border foam web loud will outer dinosaur entry kitchen mistake visit multiply";
+var mnemonic = "novel list panic lawsuit whisper comfort secret hedgehog jazz animal galaxy fork";

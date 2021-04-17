@@ -1,1 +1,1 @@
-var mnemonic = "rug tape vehicle cancel cup advance life army thought crumble joy census";
+var mnemonic = "absorb place write movie just chapter clump climb impulse sting market there";

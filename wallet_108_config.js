@@ -1,1 +1,1 @@
-var mnemonic = "live easily claw paper crop bring slender original fatigue kitchen field manage";
+var mnemonic = "exact unable educate discover stable urge table flock nominee pet still oyster";

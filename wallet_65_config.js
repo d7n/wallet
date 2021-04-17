@@ -1,1 +1,1 @@
-var mnemonic = "cabin there like warm return laptop hire grid pudding cabin mention chaos";
+var mnemonic = "curve famous such dignity inhale phrase melt effort stool rally proud tumble";

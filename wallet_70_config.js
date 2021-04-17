@@ -1,1 +1,1 @@
-var mnemonic = "matrix turtle hour image spike vault oak flavor virus cushion genre draft";
+var mnemonic = "effort budget undo tired dry coil bike faith pulp luxury nerve claw";

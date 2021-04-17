@@ -1,1 +1,1 @@
-var mnemonic = "genius joy rule vocal method mixture warrior tissue end airport tired guide";
+var mnemonic = "pig fragile please build tonight infant clock initial essence misery symbol chronic";

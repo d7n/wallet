@@ -1,1 +1,1 @@
-var mnemonic = "decline frequent riot coin lottery enable gorilla team point flash decide march";
+var mnemonic = "express ridge mercy useless snow six unique item discover dragon stairs fantasy";

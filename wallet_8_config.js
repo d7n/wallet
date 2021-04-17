@@ -1,1 +1,1 @@
-var mnemonic = "erase exact hunt guess parent olive slab bicycle beauty find desk volcano";
+var mnemonic = "alarm flee vote behind throw silk solve ketchup tumble famous seek inhale";

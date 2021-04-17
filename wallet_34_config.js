@@ -1,1 +1,1 @@
-var mnemonic = "tenant help round rigid language unknown casual mushroom wear search raven episode";
+var mnemonic = "horn erase innocent beauty rose phrase about menu spot wagon olympic swear";

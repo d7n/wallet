@@ -1,1 +1,1 @@
-var mnemonic = "solution swallow enough combine ozone daughter improve idle tobacco video elder acquire";
+var mnemonic = "artefact affair mango run leaf present shed fury soap account bicycle inch";

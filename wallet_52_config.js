@@ -1,1 +1,1 @@
-var mnemonic = "ahead picture onion shrug select tenant target trend story number patch clap";
+var mnemonic = "gaze diamond indicate whisper nerve trap toast blast quiz toast rent flee";

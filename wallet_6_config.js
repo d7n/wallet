@@ -1,1 +1,1 @@
-var mnemonic = "wheel harvest achieve turn essay butter that play twist swear destroy meat";
+var mnemonic = "easily rally clinic nice novel air correct mesh mix little cattle result";

@@ -1,1 +1,1 @@
-var mnemonic = "weird crowd hour cherry plate dose poet jaguar embrace yellow speak consider";
+var mnemonic = "pole deliver alcohol lamp crumble cave muffin exact clip soccer danger bicycle";

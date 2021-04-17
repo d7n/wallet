@@ -1,1 +1,1 @@
-var mnemonic = "animal know judge age boy tail smart assist aunt raise mother simple";
+var mnemonic = "outside episode jazz hood champion prison cream west scan liquid economy veteran";

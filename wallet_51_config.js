@@ -1,1 +1,1 @@
-var mnemonic = "rebel bronze cage used art tackle glad antique skull enjoy shoe suffer";
+var mnemonic = "august weekend prepare evoke argue virus best open north timber pizza tragic";

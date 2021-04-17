@@ -1,1 +1,1 @@
-var mnemonic = "identify turn pool chimney physical medal neutral broccoli upgrade scheme night price";
+var mnemonic = "creek erupt bean dizzy drink armed stamp claim mansion theme ice torch";

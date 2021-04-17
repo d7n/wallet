@@ -1,1 +1,1 @@
-var mnemonic = "inquiry brief desk shove bird sting feel upon winter action quarter neck";
+var mnemonic = "bulk away argue choose usual finish patrol carpet impact tortoise buyer uncover";

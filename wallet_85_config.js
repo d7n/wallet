@@ -1,1 +1,1 @@
-var mnemonic = "fire bring section target forest rich lucky spike imitate crazy suit comfort";
+var mnemonic = "mom shed quiz staff youth poet reform visual wait dinosaur scorpion hollow";

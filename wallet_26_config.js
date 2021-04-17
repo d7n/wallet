@@ -1,1 +1,1 @@
-var mnemonic = "audit change round shiver screen alley clinic cage fiction seed shoe shoulder";
+var mnemonic = "boring museum wash mountain olympic sail myself helmet correct hope green disease";

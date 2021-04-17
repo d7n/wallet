@@ -1,1 +1,1 @@
-var mnemonic = "popular cute goddess witness outside custom help egg trend claim plunge spoon";
+var mnemonic = "guitar panther acid average winter vanish feel cannon tower clever shuffle egg";

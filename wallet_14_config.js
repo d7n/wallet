@@ -1,1 +1,1 @@
-var mnemonic = "outside school entry nominee involve pear chicken tiger spoon impact display snack";
+var mnemonic = "tone other radio ridge cigar gospel rapid lady female smile ocean danger";

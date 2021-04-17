@@ -1,1 +1,1 @@
-var mnemonic = "there oval student stone merry cause thumb blast time harvest borrow girl";
+var mnemonic = "clap legal fancy bulk wave enable chef power exist leaf rug private";

@@ -1,1 +1,1 @@
-var mnemonic = "below funny raise fish aerobic moment year athlete walk question neither matter";
+var mnemonic = "acoustic mansion ribbon camera shadow sound bacon position slow gap replace motor";

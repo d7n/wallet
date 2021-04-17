@@ -1,1 +1,1 @@
-var mnemonic = "agree indicate leave agree fish state keen appear body piece diesel husband";
+var mnemonic = "trend session only regular helmet puzzle burden scene funny example planet space";

@@ -1,1 +1,1 @@
-var mnemonic = "want long pride prevent saddle nurse ghost want legend ship final expand";
+var mnemonic = "detail oppose reform potato situate easily limit wave senior meat strike witness";

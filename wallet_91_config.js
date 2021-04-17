@@ -1,1 +1,1 @@
-var mnemonic = "deputy corn menu junk detail drama rocket review merge process arena kit";
+var mnemonic = "fence member picnic poet peasant wise tool lift limb limit coach tunnel";

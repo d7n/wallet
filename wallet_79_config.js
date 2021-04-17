@@ -1,1 +1,1 @@
-var mnemonic = "analyst quantum situate despair found satoshi possible sight ride stone ice crush";
+var mnemonic = "thing stay electric slice danger render jeans unfold always tool vacuum warm";

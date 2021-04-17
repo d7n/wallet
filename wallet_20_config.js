@@ -1,1 +1,1 @@
-var mnemonic = "person intact spring age yellow under cycle reason radar useful limb never";
+var mnemonic = "decade step stamp onion express inhale hollow margin ceiling peasant strategy ozone";

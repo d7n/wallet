@@ -1,1 +1,1 @@
-var mnemonic = "uphold victory riot add include purchase cause wage picture scan pencil wine";
+var mnemonic = "patrol whale fiber squeeze rule record alter rapid pattern saddle disorder outer";

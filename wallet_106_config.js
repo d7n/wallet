@@ -1,1 +1,1 @@
-var mnemonic = "arctic sunny armor car plunge left addict faint army delay mix bus";
+var mnemonic = "hammer dial song neutral gorilla squeeze apple sketch jelly acid doctor artwork";

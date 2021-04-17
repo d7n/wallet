@@ -1,1 +1,1 @@
-var mnemonic = "caution roast home ladder creek vehicle afraid main soon green lawsuit dust";
+var mnemonic = "candy pitch drop leopard attend antenna fury melody demand found payment decorate";

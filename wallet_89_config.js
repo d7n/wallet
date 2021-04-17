@@ -1,1 +1,1 @@
-var mnemonic = "item skirt wire tongue outdoor balance device reform seed card delay improve";
+var mnemonic = "shrimp present hurdle wet door mad extend snow diary woman wait crash";

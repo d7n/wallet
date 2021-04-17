@@ -1,1 +1,1 @@
-var mnemonic = "bacon alarm good paper peasant symptom inform glimpse desk link invite absurd";
+var mnemonic = "struggle garment awkward gasp strong message spatial gain allow crucial tide capital";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow move senior right better never armed kangaroo seven panda ahead history";
+var mnemonic = "wool bridge hollow today frown humble involve phone chunk arena embody board";

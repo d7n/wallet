@@ -1,1 +1,1 @@
-var mnemonic = "turkey cloth box crunch oyster coral lizard swarm essence actor advance myself";
+var mnemonic = "quick health ancient draft skill evil promote someone stand element double success";

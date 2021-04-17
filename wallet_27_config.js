@@ -1,1 +1,1 @@
-var mnemonic = "basket indicate wise cart express vintage innocent marble casino dish creek shove";
+var mnemonic = "assist canoe dynamic learn office energy print bread flag move upon bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort bomb often pave win wave uncover strike coconut planet vague purchase";
+var mnemonic = "exhaust source scrap warm stuff mule captain ribbon ski sudden roof father";

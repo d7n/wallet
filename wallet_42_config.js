@@ -1,1 +1,1 @@
-var mnemonic = "degree lonely cube shiver nerve hill drink cushion grow mobile dentist fringe";
+var mnemonic = "today truth claw hat great fall general slender ahead spread front prison";

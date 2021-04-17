@@ -1,1 +1,1 @@
-var mnemonic = "cereal coral venture uncle actress vivid two horn shadow domain yard kitten";
+var mnemonic = "auction social screen wasp exotic lazy wheat south blade cup burden ridge";

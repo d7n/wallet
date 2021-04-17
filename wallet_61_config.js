@@ -1,1 +1,1 @@
-var mnemonic = "possible frog pretty steel result potato want basic reduce jazz vast vacant";
+var mnemonic = "stove jacket absurd cry helmet dish ocean size upgrade menu wire frame";

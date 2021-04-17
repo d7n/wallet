@@ -1,1 +1,1 @@
-var mnemonic = "salt clinic bargain hurdle enter network anxiety sweet bargain vibrant boil clump";
+var mnemonic = "have ill very reopen build fabric mask bird twice tomato oxygen flush";

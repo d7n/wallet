@@ -1,1 +1,1 @@
-var mnemonic = "need time flat jealous another girl color barrel extend coin extend park";
+var mnemonic = "tag lamp flame pepper advice funny outdoor symbol few thumb disagree parade";

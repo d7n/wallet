@@ -1,1 +1,1 @@
-var mnemonic = "remind crystal flame decide bleak weird manage visual blur doctor marble ship";
+var mnemonic = "orchard dice legend stick spare dice random when quarter basic walnut illness";

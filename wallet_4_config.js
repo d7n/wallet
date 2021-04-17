@@ -1,1 +1,1 @@
-var mnemonic = "quote lawsuit cash ski between bike sentence garlic fox foam rely subway";
+var mnemonic = "regular explain balcony action mandate enter usage bid visual town fashion humble";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp regret raise height trigger question elephant priority force casino seven rude";
+var mnemonic = "hedgehog reward spice destroy intact diet coast february mesh page zone game";

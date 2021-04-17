@@ -1,1 +1,1 @@
-var mnemonic = "steak young basket flag brush lumber sniff job tonight gown tube various";
+var mnemonic = "success bright mixture clip what nose million baby fashion home tobacco useful";

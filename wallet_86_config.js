@@ -1,1 +1,1 @@
-var mnemonic = "tilt cousin such inhale defy success surge sauce private over wisdom tell";
+var mnemonic = "wait same that orient review follow energy original exit pulp jelly chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "naive random nation dawn energy have assault mistake shell absorb media hub";
+var mnemonic = "clap pave glass ketchup tower entry vivid rich marble suffer harvest mercy";

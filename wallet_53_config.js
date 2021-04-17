@@ -1,1 +1,1 @@
-var mnemonic = "faint today vault slim detail resist pluck nation truly hire prevent joke";
+var mnemonic = "retire method account hen nasty danger power describe fashion oven control blind";

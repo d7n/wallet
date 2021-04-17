@@ -1,1 +1,1 @@
-var mnemonic = "hungry bachelor print diesel plastic awake use blast health chalk lamp turtle";
+var mnemonic = "picnic seven silver wool dress basic category click spoil extend sleep hybrid";

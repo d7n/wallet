@@ -1,1 +1,1 @@
-var mnemonic = "seat brief embrace favorite lyrics panda ignore coach install glad churn stamp";
+var mnemonic = "million immune rapid group elbow coconut script angle awake water arrest shy";

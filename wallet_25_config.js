@@ -1,1 +1,1 @@
-var mnemonic = "arctic cable spread add lobster build afraid book mobile general jewel north";
+var mnemonic = "fall chicken pool sheriff moon hair run wine wait smart orange able";

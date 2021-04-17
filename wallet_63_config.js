@@ -1,1 +1,1 @@
-var mnemonic = "trust mad alarm tourist raccoon shadow green sugar reopen scorpion then shadow";
+var mnemonic = "orchard chair reward report height gas chase theory crawl damage attitude endless";

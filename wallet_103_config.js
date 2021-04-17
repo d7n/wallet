@@ -1,1 +1,1 @@
-var mnemonic = "settle local involve peace example unique amount sponsor planet radio hidden afraid";
+var mnemonic = "possible minor document hammer seminar derive swear runway neutral travel become romance";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp pair what special salute jealous twenty luxury word attend worth voyage";
+var mnemonic = "find early vault pole ship arctic immune arrow fiction total profit emotion";

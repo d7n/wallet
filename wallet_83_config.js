@@ -1,1 +1,1 @@
-var mnemonic = "around egg escape color capable antique home puppy sick garage hammer away";
+var mnemonic = "pear salmon sorry bracket draft rhythm uncle wage price off select ski";

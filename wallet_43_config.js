@@ -1,1 +1,1 @@
-var mnemonic = "awkward wave this device grocery sugar hybrid woman demand legal fresh perfect";
+var mnemonic = "gap also minor left dust era famous diagram cart barely antenna alter";

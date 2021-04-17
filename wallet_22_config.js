@@ -1,1 +1,1 @@
-var mnemonic = "broken wrong hurt enforce vault whip bonus soap scheme return acquire inherit";
+var mnemonic = "pluck payment wave science general loud pull envelope clay will pepper ill";

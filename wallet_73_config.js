@@ -1,1 +1,1 @@
-var mnemonic = "junk infant hero discover chair object soccer ramp violin price discover comic";
+var mnemonic = "decide dad waste assault action way twice pledge repeat remove arctic finger";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty dose excess high cherry fruit caught globe skin brain neither stadium";
+var mnemonic = "about embark game measure bird drip split wear engage maple rubber regret";

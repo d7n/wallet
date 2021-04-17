@@ -1,1 +1,1 @@
-var mnemonic = "cost cream very ask ranch ceiling evoke account busy buyer drastic flight";
+var mnemonic = "eyebrow twin armor skill license symbol sphere donate auto galaxy argue double";

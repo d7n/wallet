@@ -1,1 +1,1 @@
-var mnemonic = "awesome lock brother vault pretty peasant film month jelly negative sustain donate";
+var mnemonic = "bulk venture exotic weird field exact record diamond flock install minimum anger";

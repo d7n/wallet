@@ -1,1 +1,1 @@
-var mnemonic = "mad inherit one supreme crisp cliff rate thrive vessel dwarf faith first";
+var mnemonic = "tank miracle century drum exit diet palace tunnel judge vehicle winner luggage";

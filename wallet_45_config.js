@@ -1,1 +1,1 @@
-var mnemonic = "man rule edge neck antique member search palm keep violin quality pilot";
+var mnemonic = "receive sense stem couch cook primary seat oxygen improve two chair camp";

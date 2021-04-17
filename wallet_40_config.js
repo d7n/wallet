@@ -1,1 +1,1 @@
-var mnemonic = "carpet become february life later clutch accuse light scheme filter bulb extend";
+var mnemonic = "supply lava grab vocal ribbon entire cool grape urge ozone either world";

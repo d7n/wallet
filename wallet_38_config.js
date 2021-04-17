@@ -1,1 +1,1 @@
-var mnemonic = "method hello jeans analyst machine ship leader pulse special weird hedgehog recipe";
+var mnemonic = "snap rice keep style tank disease again brass badge nasty announce note";

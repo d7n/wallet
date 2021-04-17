@@ -1,1 +1,1 @@
-var mnemonic = "horn rather shrug buffalo hawk loan space color course enrich cram expire";
+var mnemonic = "doctor canyon replace sponsor cat letter country knee marble network dirt kite";

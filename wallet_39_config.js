@@ -1,1 +1,1 @@
-var mnemonic = "race kiss baby target voice shaft language keep earth strike pair void";
+var mnemonic = "weasel wire festival hurdle inhale unit develop arrive collect blanket manage track";

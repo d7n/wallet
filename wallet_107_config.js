@@ -1,1 +1,1 @@
-var mnemonic = "merit nation deny alter stone betray ostrich weasel analyst muscle easy wrestle";
+var mnemonic = "else sign tumble census bacon deposit shy aspect peasant online color glance";

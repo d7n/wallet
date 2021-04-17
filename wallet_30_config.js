@@ -1,1 +1,1 @@
-var mnemonic = "off include obey tell defense visit logic year dwarf shock slogan distance";
+var mnemonic = "pilot face concert urge laptop matter adapt across illness rebuild submit hospital";

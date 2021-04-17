@@ -1,1 +1,1 @@
-var mnemonic = "fury fortune match evoke boil box mandate enlist property banana ghost approve";
+var mnemonic = "dune game hobby rude alcohol noble topic mask nature pencil device chef";

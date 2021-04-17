@@ -1,1 +1,1 @@
-var mnemonic = "inmate pass summer glove impose rude bicycle tool eyebrow museum invest opera";
+var mnemonic = "couch injury match mean view craft spy service noble leaf you pause";

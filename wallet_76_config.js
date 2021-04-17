@@ -1,1 +1,1 @@
-var mnemonic = "height learn gospel system aim useful year target mixed into shell salute";
+var mnemonic = "ugly vehicle unknown drink lab differ link corn cabbage bachelor film siren";

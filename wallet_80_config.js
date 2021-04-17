@@ -1,1 +1,1 @@
-var mnemonic = "mandate west remain apple elder refuse behave gasp craft poem harvest reduce";
+var mnemonic = "train strike position repair earn music finish soul box sock diesel strategy";

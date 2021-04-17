@@ -1,1 +1,1 @@
-var mnemonic = "urge phrase option rhythm nasty rebel focus radar humble foot erosion witness";
+var mnemonic = "mad gift settle laugh blind glance glad profit old furnace camera aerobic";

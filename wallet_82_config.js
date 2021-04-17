@@ -1,1 +1,1 @@
-var mnemonic = "cousin process report fall woman exhibit bone firm icon say group connect";
+var mnemonic = "friend ordinary awkward clerk gospel rail chapter achieve very imitate dress arena";
