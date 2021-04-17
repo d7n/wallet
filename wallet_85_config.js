@@ -1,1 +1,1 @@
-var mnemonic = "sphere detect palace session negative term uncover mansion damage glance edge believe";
+var mnemonic = "render mistake gather check swarm scout shed course thank mean panther peace";

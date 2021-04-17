@@ -1,1 +1,1 @@
-var mnemonic = "frame fatal cave census page minor tattoo man circle dawn album divorce";
+var mnemonic = "random jelly rival van lottery aspect dragon senior result expand tiny victory";

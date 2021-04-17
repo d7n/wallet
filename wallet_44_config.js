@@ -1,1 +1,1 @@
-var mnemonic = "dirt crane pitch dry episode mask empower idle cost agree clerk annual";
+var mnemonic = "pig wreck people tonight save advice fantasy cake ostrich foster rotate afraid";

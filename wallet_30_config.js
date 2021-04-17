@@ -1,1 +1,1 @@
-var mnemonic = "puzzle lawn trophy pause inhale wrist muffin model bright medal later summer";
+var mnemonic = "fatal gain hover scatter photo labor height galaxy tiny rug page oxygen";

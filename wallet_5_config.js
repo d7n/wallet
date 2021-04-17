@@ -1,1 +1,1 @@
-var mnemonic = "skirt faculty parent chuckle foot main hold elegant desk shell voyage patrol";
+var mnemonic = "donkey pet crystal damp pull monkey spring stove sound sense volume turn";

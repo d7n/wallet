@@ -1,1 +1,1 @@
-var mnemonic = "torch best snack peace casual round ramp tip source wash pulp shadow";
+var mnemonic = "file slot company ask bike pause close profit short dial venue relief";

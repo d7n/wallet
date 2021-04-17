@@ -1,1 +1,1 @@
-var mnemonic = "girl tomato movie because consider someone evil people hungry net hello smart";
+var mnemonic = "snack toddler plunge hint bind hybrid valve cannon elder general dutch hello";

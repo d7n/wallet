@@ -1,1 +1,1 @@
-var mnemonic = "penalty mixture parrot garlic vendor there dash digital earth forward grass dwarf";
+var mnemonic = "salon lizard decide service pledge chef neutral security forget resist zoo begin";

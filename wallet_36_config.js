@@ -1,1 +1,1 @@
-var mnemonic = "million ladder connect power aspect chicken kitchen stuff say quiz empty cherry";
+var mnemonic = "breeze payment actor business destroy acid festival rule device calm nerve enlist";

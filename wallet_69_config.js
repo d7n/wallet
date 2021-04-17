@@ -1,1 +1,1 @@
-var mnemonic = "cat brave gym chunk easily invite rival slot diamond dragon pottery copper";
+var mnemonic = "problem learn gossip collect coconut cotton length situate ceiling arrange fee talent";

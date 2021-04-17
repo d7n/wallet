@@ -1,1 +1,1 @@
-var mnemonic = "slot stove grief twin situate leave curve base kangaroo chest invest order";
+var mnemonic = "visual seven escape float cash breeze exact fatigue lift what endless rule";

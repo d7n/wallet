@@ -1,1 +1,1 @@
-var mnemonic = "repair detail menu recall snow polar unit skirt maximum nuclear urge around";
+var mnemonic = "auction humble swamp settle green lyrics country empower kitchen inner month badge";

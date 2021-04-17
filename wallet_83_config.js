@@ -1,1 +1,1 @@
-var mnemonic = "sauce common shove radar menu mother satoshi staff mean reward finger health";
+var mnemonic = "offer bag regular light air crawl palace pyramid pill typical ugly cactus";

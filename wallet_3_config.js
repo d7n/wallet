@@ -1,1 +1,1 @@
-var mnemonic = "decide unfair arrive fatal cancel subject wrestle jazz extra fortune almost salt";
+var mnemonic = "merry alone guide deny happy screen switch suspect laugh defy point subway";

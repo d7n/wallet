@@ -1,1 +1,1 @@
-var mnemonic = "gloom address small image away brother edge month stool useful save program";
+var mnemonic = "pill attract vault again drastic butter illegal blame nation trumpet struggle cinnamon";

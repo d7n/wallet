@@ -1,1 +1,1 @@
-var mnemonic = "play genuine toy farm know object emotion month company trade pond ozone";
+var mnemonic = "squirrel north reveal piece retire shallow shuffle video ticket gown join code";

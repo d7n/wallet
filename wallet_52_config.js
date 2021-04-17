@@ -1,1 +1,1 @@
-var mnemonic = "clump choice short book bird hidden library raise code people repair select";
+var mnemonic = "popular clip cute must make test parade ceiling snack trim invite film";

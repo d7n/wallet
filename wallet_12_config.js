@@ -1,1 +1,1 @@
-var mnemonic = "crush abandon share smoke enforce aisle error print bring nothing slender harsh";
+var mnemonic = "pen foot maid employ invite angle good loop list rain mystery grid";

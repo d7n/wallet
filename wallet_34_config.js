@@ -1,1 +1,1 @@
-var mnemonic = "deliver during melody inform online jump spice solve accident valve race chest";
+var mnemonic = "sunny mesh inject ocean friend cause cake rack frame curtain salt monster";

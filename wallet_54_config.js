@@ -1,1 +1,1 @@
-var mnemonic = "ahead birth aware turn creek leave budget bring fluid bar side unveil";
+var mnemonic = "account invest raccoon path hard crisp soft shell trash salt receive motor";

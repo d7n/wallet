@@ -1,1 +1,1 @@
-var mnemonic = "zone crouch people vanish final okay mind begin final level expand swarm";
+var mnemonic = "stage good patrol more athlete fuel critic final glove special invest hospital";

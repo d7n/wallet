@@ -1,1 +1,1 @@
-var mnemonic = "two type seminar push return marine venue brain stumble phone tomorrow giant";
+var mnemonic = "grain drum love neither spatial result visa will blossom engage original access";

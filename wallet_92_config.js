@@ -1,1 +1,1 @@
-var mnemonic = "found situate screen chef today pet drink cinnamon wool tail boost refuse";
+var mnemonic = "world bottom fire like square stumble panel slot wear inherit save cup";

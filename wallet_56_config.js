@@ -1,1 +1,1 @@
-var mnemonic = "behind alien noise country clip uncover yard antenna extend click funny scale";
+var mnemonic = "smoke stable occur soldier wage catalog hazard fan hole bench weapon rally";

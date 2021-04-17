@@ -1,1 +1,1 @@
-var mnemonic = "nut strong chicken suffer era maximum crazy game method twist immense like";
+var mnemonic = "announce drill grunt verify slogan upset fruit siren velvet output arrest custom";

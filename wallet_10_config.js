@@ -1,1 +1,1 @@
-var mnemonic = "bacon render feature expect valley holiday artist control bullet bus thrive present";
+var mnemonic = "mouse member mask memory play junior fossil lock core two afford client";

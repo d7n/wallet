@@ -1,1 +1,1 @@
-var mnemonic = "peace battle zebra win crumble pottery expand used act aspect syrup toe";
+var mnemonic = "useful reject blur soft print salmon sing aunt more zone civil chronic";

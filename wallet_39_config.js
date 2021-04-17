@@ -1,1 +1,1 @@
-var mnemonic = "child electric cart buddy muffin spare harvest stamp buffalo fresh rally lesson";
+var mnemonic = "dragon kingdom renew potato sure vast public give diesel dawn sheriff pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "easily stadium flock cliff stage eager snow forget excite cabin rate roast";
+var mnemonic = "tag swallow dust garlic hero farm vacant must cousin infant seminar tiger";

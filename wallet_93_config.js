@@ -1,1 +1,1 @@
-var mnemonic = "nominee issue space cluster bomb leaf audit involve marine sugar coyote decide";
+var mnemonic = "arrange very direct spell poverty weasel access bitter kingdom impulse crush shell";

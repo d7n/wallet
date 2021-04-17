@@ -1,1 +1,1 @@
-var mnemonic = "include online dismiss must fragile whisper fade allow episode home prefer despair";
+var mnemonic = "moral tuition pull since foil phone trim worth promote beef ancient surge";

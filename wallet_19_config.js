@@ -1,1 +1,1 @@
-var mnemonic = "ski swing hurt differ ill announce steel load fluid motion person strategy";
+var mnemonic = "motor life reopen august coin wrong spray uniform genre game load involve";

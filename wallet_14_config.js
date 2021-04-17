@@ -1,1 +1,1 @@
-var mnemonic = "above blood endless door use hen crucial unaware cattle entire adjust lunar";
+var mnemonic = "final verify cargo green grant dutch fiction drama casino purchase cattle endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow lift snack vague custom reveal marriage cousin dial pull wrestle despair";
+var mnemonic = "cruise smile weather trend morning sunny phone draft wait engine glue effort";

@@ -1,1 +1,1 @@
-var mnemonic = "material obtain evil kangaroo claim drink bird anxiety blast muscle inmate hour";
+var mnemonic = "festival wolf shed such vital fiction casual battle stay keen ancient daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "any true glide genius wrap quarter swallow wrestle piano zebra security satoshi";
+var mnemonic = "card head marble fat voice circle moment mango payment clay reject baby";

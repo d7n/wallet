@@ -1,1 +1,1 @@
-var mnemonic = "arrange payment transfer ethics smoke solar nurse hedgehog shuffle civil expand case";
+var mnemonic = "effort mean open real brass text pink boat plastic detail own ignore";

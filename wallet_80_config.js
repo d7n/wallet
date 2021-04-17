@@ -1,1 +1,1 @@
-var mnemonic = "club rescue venue mind truly push under high awesome marriage clip essence";
+var mnemonic = "wool trend inquiry ancient field dinner illegal funny proof power fox steak";

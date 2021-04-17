@@ -1,1 +1,1 @@
-var mnemonic = "size brisk lemon found pair summer couch couple arena stuff miss right";
+var mnemonic = "example say raven crunch forward lecture cool loud truck same theme coil";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard gospel broken brief glow barrel half sugar robot debate scan gas";
+var mnemonic = "assault leave mixed hungry local strategy mouse spray tiny useless sponsor rebuild";

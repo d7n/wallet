@@ -1,1 +1,1 @@
-var mnemonic = "winner museum sponsor sting this street mass quarter capable later multiply ginger";
+var mnemonic = "vehicle rifle hidden weekend punch about ill marine cruise unfold enact learn";

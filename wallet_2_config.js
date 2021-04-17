@@ -1,1 +1,1 @@
-var mnemonic = "civil brief erode cost fire tuna indoor walnut jungle race alcohol cool";
+var mnemonic = "attract glimpse slush valve tail fun girl lion they analyst bring cable";

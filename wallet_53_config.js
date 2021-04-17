@@ -1,1 +1,1 @@
-var mnemonic = "giraffe auto spoil achieve because physical fantasy juice this volcano festival clog";
+var mnemonic = "poverty torch envelope dumb senior author bird thought pond seed glove believe";

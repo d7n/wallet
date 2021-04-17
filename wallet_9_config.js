@@ -1,1 +1,1 @@
-var mnemonic = "spatial window concert arrow design wheat orbit black repeat salad urban original";
+var mnemonic = "spot grass awake resist goose harbor picnic obtain vast pact tonight couple";

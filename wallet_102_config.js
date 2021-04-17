@@ -1,1 +1,1 @@
-var mnemonic = "point alcohol between ghost host surround lab combine board blanket sport way";
+var mnemonic = "unfair toilet fence hood year envelope slush owner dilemma gate because snap";

@@ -1,1 +1,1 @@
-var mnemonic = "tent amount skirt display broccoli trophy green town orange champion weapon into";
+var mnemonic = "current faint flush barely ordinary claim marble heart idea sustain video tower";

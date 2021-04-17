@@ -1,1 +1,1 @@
-var mnemonic = "invite mirror bleak busy maid ability fetch circle ice middle crack woman";
+var mnemonic = "whip crush stand weasel improve width often tunnel smile envelope donor sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "devote quality brief merry diary execute account grass vendor direct soda affair";
+var mnemonic = "upon tackle dinosaur harbor saddle silent vibrant hire popular manual thunder unique";

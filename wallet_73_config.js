@@ -1,1 +1,1 @@
-var mnemonic = "dose fun address cook blush pulp extend lens permit then waste drill";
+var mnemonic = "autumn grace miracle stairs rail tiny garage piece comfort decade spawn verb";

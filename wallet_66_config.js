@@ -1,1 +1,1 @@
-var mnemonic = "among dog derive rotate page human present dust end hero spawn boss";
+var mnemonic = "onion angle robust extra grab key actual person trumpet laptop risk love";

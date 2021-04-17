@@ -1,1 +1,1 @@
-var mnemonic = "hybrid memory nothing absorb smooth saddle sing genre segment audit into pelican";
+var mnemonic = "nation enroll symbol below unable course away flat spatial boy pink loud";

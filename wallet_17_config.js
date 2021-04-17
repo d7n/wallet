@@ -1,1 +1,1 @@
-var mnemonic = "someone square jazz gas crouch neglect glue silver fruit crisp hedgehog start";
+var mnemonic = "frog square general picture gospel wood label fashion day black host thrive";

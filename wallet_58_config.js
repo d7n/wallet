@@ -1,1 +1,1 @@
-var mnemonic = "will grunt earn purse limb april glory nuclear maple stuff audit vibrant";
+var mnemonic = "quit color caught path vicious exact reveal clock pepper glory alcohol goddess";

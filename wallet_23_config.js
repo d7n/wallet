@@ -1,1 +1,1 @@
-var mnemonic = "ketchup hawk cage elder expect snake spoon swamp imitate lemon sight winner";
+var mnemonic = "flame pledge income spirit tunnel leisure decline strong catalog silver hospital essence";

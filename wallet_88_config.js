@@ -1,1 +1,1 @@
-var mnemonic = "ready illness aim siren poem canvas coast clinic solution ordinary repeat report";
+var mnemonic = "nature glow venue they response verb hero elephant inform addict aspect alcohol";

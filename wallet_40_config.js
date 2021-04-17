@@ -1,1 +1,1 @@
-var mnemonic = "unveil crowd grocery fury history suit spirit struggle settle legal venue reward";
+var mnemonic = "bacon segment tunnel own recipe space pelican crop transfer file omit flat";

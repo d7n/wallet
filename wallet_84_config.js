@@ -1,1 +1,1 @@
-var mnemonic = "spoil clay refuse slam kitchen wolf perfect tilt hollow drift course treat";
+var mnemonic = "raven danger clarify choice choice potato canal situate auto direct ticket aspect";

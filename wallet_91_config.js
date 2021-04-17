@@ -1,1 +1,1 @@
-var mnemonic = "artwork glue heavy wire embrace awkward endorse shy suggest harbor off resource";
+var mnemonic = "enlist practice walk disorder now bicycle math legal nice nasty apology waste";

@@ -1,1 +1,1 @@
-var mnemonic = "steel siege oxygen lend supreme side plastic canal panda shadow army cement";
+var mnemonic = "shield profit grief ride dice only winter thunder limb common burst clock";

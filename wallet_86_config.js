@@ -1,1 +1,1 @@
-var mnemonic = "urban beauty body material staff milk picnic upset height kitchen few enforce";
+var mnemonic = "sort admit allow trade hip crunch bronze strategy original grape awake prize";

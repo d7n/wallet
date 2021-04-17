@@ -1,1 +1,1 @@
-var mnemonic = "maid people deny glove candy behind picture force polar dizzy mule card";
+var mnemonic = "pepper omit elite theme faint simple core friend clock clump strategy town";

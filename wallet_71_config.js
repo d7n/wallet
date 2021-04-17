@@ -1,1 +1,1 @@
-var mnemonic = "random hurry ski layer blind lake index kick material into window occur";
+var mnemonic = "ketchup warm barrel flat jacket crunch buzz protect convince exact boil stand";

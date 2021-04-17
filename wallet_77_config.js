@@ -1,1 +1,1 @@
-var mnemonic = "group chaos tackle pipe tank initial pet horn frequent gym lizard stone";
+var mnemonic = "glass minor misery force seat meat author nature gauge coach open dwarf";

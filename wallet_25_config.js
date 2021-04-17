@@ -1,1 +1,1 @@
-var mnemonic = "glory slim witness usual water amused assume retire nominee stay test upset";
+var mnemonic = "when reject staff often dumb radar when abstract normal doll scissors stand";

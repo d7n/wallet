@@ -1,1 +1,1 @@
-var mnemonic = "pet modify cream where crystal catch arrest circle upper exclude diagram fury";
+var mnemonic = "violin gauge fire smile trap try echo sadness warm permit stem use";

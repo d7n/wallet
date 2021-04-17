@@ -1,1 +1,1 @@
-var mnemonic = "era possible dawn tomorrow fly they evoke borrow eager rich name destroy";
+var mnemonic = "pause ripple narrow card will stuff surface purse always panther analyst crime";

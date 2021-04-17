@@ -1,1 +1,1 @@
-var mnemonic = "congress gold tilt abandon jar hill robot egg horse leaf between company";
+var mnemonic = "turn acquire share mother wave hire demise fun exercise grief brick drill";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve school gentle click whale false woman original modify angle runway coach";
+var mnemonic = "foil emotion cousin addict love crunch dress inmate melody feed dragon bone";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition silent crime helmet brick eager hungry wing child drop you eyebrow";
+var mnemonic = "mushroom present derive crush require sea clip adapt luxury toddler convince brown";

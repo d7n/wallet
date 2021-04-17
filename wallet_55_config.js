@@ -1,1 +1,1 @@
-var mnemonic = "filter exotic adapt kitchen found hip material hedgehog circle raise leader exhaust";
+var mnemonic = "climb festival wear select jar allow lab shield replace logic unlock sunny";

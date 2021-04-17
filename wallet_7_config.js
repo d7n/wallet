@@ -1,1 +1,1 @@
-var mnemonic = "wonder asthma eager federal gas immune sand baby virus enroll drop scissors";
+var mnemonic = "spring job where avoid match say foster limb brick entry visit palace";

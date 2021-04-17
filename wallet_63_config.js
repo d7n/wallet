@@ -1,1 +1,1 @@
-var mnemonic = "crime term enemy faith cancel valid sister pill fence plug six must";
+var mnemonic = "finger client meadow chuckle bulb patient hello awful toy quiz cradle share";

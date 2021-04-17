@@ -1,1 +1,1 @@
-var mnemonic = "nasty wagon race gift since people mechanic window call reject kiss lake";
+var mnemonic = "kidney ladder raccoon abstract family stem ostrich talk fury play flavor warm";

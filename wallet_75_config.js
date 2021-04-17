@@ -1,1 +1,1 @@
-var mnemonic = "cargo slot coyote term permit author doll strategy caution riot artwork stage";
+var mnemonic = "jaguar drop century month story burden oak planet sword lemon caution trumpet";

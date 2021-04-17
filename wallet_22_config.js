@@ -1,1 +1,1 @@
-var mnemonic = "derive border wheat gown hammer forest cheap swim skate dinner stone uncover";
+var mnemonic = "mistake direct body mention amazing glove outer spend move enter object nation";

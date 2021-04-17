@@ -1,1 +1,1 @@
-var mnemonic = "census dignity stage curious absorb shove bitter unhappy scare off client lounge";
+var mnemonic = "provide bracket dirt print million luggage romance latin veteran jewel ready theme";

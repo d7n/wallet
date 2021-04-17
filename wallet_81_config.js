@@ -1,1 +1,1 @@
-var mnemonic = "peace hotel nature word lobster later miracle father dynamic desk color year";
+var mnemonic = "giggle genuine panther budget rifle adult life stem door slow letter tone";

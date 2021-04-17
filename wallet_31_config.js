@@ -1,1 +1,1 @@
-var mnemonic = "nut hold ethics body student blue trash device skin equal game soul";
+var mnemonic = "staff hundred inside resource service catalog spy must machine lens chaos sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "ice journey secret float sausage royal basic mistake same oppose uniform bamboo";
+var mnemonic = "retire torch base amount guitar universe venue ask still face void inflict";

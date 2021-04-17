@@ -1,1 +1,1 @@
-var mnemonic = "vacant cotton flat noise control lawsuit canoe load sister sugar loud laundry";
+var mnemonic = "one gallery stand immune tower ecology uncover purpose circle motion top flock";

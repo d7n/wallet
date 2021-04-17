@@ -1,1 +1,1 @@
-var mnemonic = "awful review pudding margin hope attack dose switch weasel payment pizza math";
+var mnemonic = "horror notice prize topic repeat finger slush object penalty agent share wheat";

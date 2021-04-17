@@ -1,1 +1,1 @@
-var mnemonic = "situate dinosaur destroy clump across shrug black game play virus youth priority";
+var mnemonic = "bronze key claim diet surface doctor alien all rich middle discover chalk";

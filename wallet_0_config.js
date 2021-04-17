@@ -1,1 +1,1 @@
-var mnemonic = "soul dish symptom alcohol bronze toy rough sleep maximum fluid royal fruit";
+var mnemonic = "kingdom pause address switch cup when spin actress boil sphere tilt egg";
