@@ -1,1 +1,1 @@
-var mnemonic = "winner glare flag library faint flame fantasy plastic service exist hope review";
+var mnemonic = "valve latin soldier lecture final budget rally story casino buzz shuffle cinnamon";

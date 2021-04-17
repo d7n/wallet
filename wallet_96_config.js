@@ -1,1 +1,1 @@
-var mnemonic = "leader bright manual gospel place later click oval advice oven audit flee";
+var mnemonic = "chapter thunder sing evidence fetch pyramid vital drip family knee cash plastic";

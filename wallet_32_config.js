@@ -1,1 +1,1 @@
-var mnemonic = "divert lizard solid fetch trap only apology universe film unable purity letter";
+var mnemonic = "core fault volume coffee lonely sing pretty confirm feature base vintage lazy";

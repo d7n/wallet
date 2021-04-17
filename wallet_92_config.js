@@ -1,1 +1,1 @@
-var mnemonic = "people river chat juice put raise mushroom pottery fire client agree above";
+var mnemonic = "surprise huge master require eyebrow suggest mimic sister chalk demise muffin taste";

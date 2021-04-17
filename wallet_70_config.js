@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow truth inflict toss vacant note gym session perfect casino fence expire";
+var mnemonic = "farm shoe pumpkin midnight control buffalo oval cake desk valley kitchen medal";

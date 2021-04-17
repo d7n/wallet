@@ -1,1 +1,1 @@
-var mnemonic = "burst become age menu chuckle slim hope winner awful cruise stone enhance";
+var mnemonic = "umbrella gun group crane garment wisdom submit brush clump inform adjust paddle";

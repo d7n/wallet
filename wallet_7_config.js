@@ -1,1 +1,1 @@
-var mnemonic = "govern emerge tube cigar gauge earn laptop need cherry electric creek thank";
+var mnemonic = "alert detail cattle donate blade basic relief choice gift sick now tribe";

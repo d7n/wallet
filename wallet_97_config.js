@@ -1,1 +1,1 @@
-var mnemonic = "cave text base tail expire beef shrug detect else stand shine cream";
+var mnemonic = "frequent seed pony color grow supply flat scare limit used embrace please";

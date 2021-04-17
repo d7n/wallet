@@ -1,1 +1,1 @@
-var mnemonic = "second laundry rabbit heart aware guilt rookie police mercy sheriff lazy purchase";
+var mnemonic = "easy fire husband tobacco impact mirror ancient tomato regular again dune sunset";

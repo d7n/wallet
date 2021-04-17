@@ -1,1 +1,1 @@
-var mnemonic = "lecture marine tourist pumpkin order author into either tongue joy math prefer";
+var mnemonic = "breeze light sphere rude album rate tired trash zebra orange carpet thought";

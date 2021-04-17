@@ -1,1 +1,1 @@
-var mnemonic = "decide feature october future test art donor sponsor fault labor bread east";
+var mnemonic = "trophy distance edit crime always dutch bonus test size race wisdom matter";

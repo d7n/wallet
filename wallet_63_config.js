@@ -1,1 +1,1 @@
-var mnemonic = "sort leaf waste mandate chunk teach town wise era negative mail party";
+var mnemonic = "defense genuine device team flock appear tobacco world enhance toast later inflict";

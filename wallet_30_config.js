@@ -1,1 +1,1 @@
-var mnemonic = "exercise refuse payment crop salt thumb submit pulp video measure stomach train";
+var mnemonic = "wagon shoulder wonder prevent satoshi jelly hurdle above insect south health month";

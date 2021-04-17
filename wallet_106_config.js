@@ -1,1 +1,1 @@
-var mnemonic = "green spin soda section garbage license guilt agent sunny hope escape extra";
+var mnemonic = "chronic what shock strike seed true expose half panel tuna saddle neutral";

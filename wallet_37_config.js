@@ -1,1 +1,1 @@
-var mnemonic = "paper base crane flame simple permit punch fetch solid snack inspire lizard";
+var mnemonic = "nerve skill royal process royal mail assume knife virus gasp total furnace";

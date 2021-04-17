@@ -1,1 +1,1 @@
-var mnemonic = "focus canoe unique round panther mother potato payment mutual execute weekend siren";
+var mnemonic = "double opinion museum rib machine fat clerk little crazy deer dish jump";

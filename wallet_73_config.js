@@ -1,1 +1,1 @@
-var mnemonic = "illegal pupil dignity genius ship general output fee material ball bicycle rug";
+var mnemonic = "exhaust dog chunk poet mistake allow wrestle toddler dignity mystery knock same";

@@ -1,1 +1,1 @@
-var mnemonic = "match wise easily confirm cart tomato symbol innocent then dial funny address";
+var mnemonic = "predict media blouse shed enact soon pipe butter oak dad helmet evolve";

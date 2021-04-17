@@ -1,1 +1,1 @@
-var mnemonic = "denial unfold pitch fever suggest decrease dutch artwork middle grain symptom card";
+var mnemonic = "rocket gun knee inject ignore exercise water race enforce behave match net";

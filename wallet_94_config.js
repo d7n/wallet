@@ -1,1 +1,1 @@
-var mnemonic = "scorpion seat electric employ during tuition switch apart traffic evil chief hurdle";
+var mnemonic = "deposit brick ramp solid extra ritual stuff donate media hurry project marble";

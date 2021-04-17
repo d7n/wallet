@@ -1,1 +1,1 @@
-var mnemonic = "spirit brush climb assault rate heart spare flash frame shoulder afraid soldier";
+var mnemonic = "flame dry october soup donkey common rice flame subject onion fee begin";

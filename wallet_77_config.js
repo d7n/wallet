@@ -1,1 +1,1 @@
-var mnemonic = "fantasy loop soup grief beyond panda humble canoe noodle cruel paddle weasel";
+var mnemonic = "credit easily trap oven end flash swap gadget rely churn upset where";

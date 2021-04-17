@@ -1,1 +1,1 @@
-var mnemonic = "reason silly hospital organ wet lawn warfare census ethics expire donkey clutch";
+var mnemonic = "train spare wasp galaxy pyramid grab vintage nominee trumpet remind brother defense";

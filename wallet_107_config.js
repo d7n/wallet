@@ -1,1 +1,1 @@
-var mnemonic = "toddler lobster clinic elegant faculty knock oil large love endless loop jar";
+var mnemonic = "copy finger sweet arrest tree spray call hand below clay scan circle";

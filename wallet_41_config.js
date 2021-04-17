@@ -1,1 +1,1 @@
-var mnemonic = "breeze dad creek point excess sibling clip copper differ say remove naive";
+var mnemonic = "moment wheat frog island theme lawsuit arrive dust fiscal tail glow dynamic";

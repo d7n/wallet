@@ -1,1 +1,1 @@
-var mnemonic = "run egg size fantasy caught cable spoil worry eye rather immense foam";
+var mnemonic = "smart absorb social remain clarify sight endless illness effort dumb couple jelly";

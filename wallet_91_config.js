@@ -1,1 +1,1 @@
-var mnemonic = "brand color evil summer genre grace hood decade begin pool mango stove";
+var mnemonic = "saddle draft soap aerobic save feed allow close exclude twist weird write";

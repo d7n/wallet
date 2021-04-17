@@ -1,1 +1,1 @@
-var mnemonic = "wheel soap announce accident noodle palace camera elbow sign weird fabric art";
+var mnemonic = "patient eager drama arctic special romance client reform escape wood eye visit";

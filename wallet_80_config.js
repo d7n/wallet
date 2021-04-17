@@ -1,1 +1,1 @@
-var mnemonic = "crumble dawn seven dose forum link basket eager save focus remember clutch";
+var mnemonic = "inhale girl obscure helmet aunt lift strategy van fog thing ball judge";

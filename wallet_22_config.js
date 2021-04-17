@@ -1,1 +1,1 @@
-var mnemonic = "spare smile clerk modify object father veteran medal enter film unfold sadness";
+var mnemonic = "drastic grid excuse filter very leopard lemon service siren hill they chimney";

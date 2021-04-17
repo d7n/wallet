@@ -1,1 +1,1 @@
-var mnemonic = "expire parrot elbow skull test burst quarter orchard dice goat sea pelican";
+var mnemonic = "fault foot lady bright amateur stamp quote snow draft desert merry trick";

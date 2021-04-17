@@ -1,1 +1,1 @@
-var mnemonic = "live chalk donor muffin apart grab tired spell sentence spread grit seminar";
+var mnemonic = "alpha auction heavy whisper spoil board hawk physical evoke radio panic filter";

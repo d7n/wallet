@@ -1,1 +1,1 @@
-var mnemonic = "dress senior crime defense aim poem final amateur punch fit unaware manage";
+var mnemonic = "sail mistake seminar twenty trouble hollow drama forest pioneer twelve business media";

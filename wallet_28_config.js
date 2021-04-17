@@ -1,1 +1,1 @@
-var mnemonic = "fetch episode swallow indicate loop profit need state prevent turkey north spell";
+var mnemonic = "income appear there layer science screen boost glue crucial spray gain mechanic";

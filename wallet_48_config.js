@@ -1,1 +1,1 @@
-var mnemonic = "broken auto mutual exchange road exit salmon match banana average crane fiber";
+var mnemonic = "kid glass thrive used shed reunion purse fog upset recipe half honey";

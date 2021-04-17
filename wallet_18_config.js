@@ -1,1 +1,1 @@
-var mnemonic = "million cradle six oxygen enrich sword use seed fancy yellow wealth answer";
+var mnemonic = "blind heart book mom caution dutch end fog candy silly shed subject";

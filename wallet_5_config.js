@@ -1,1 +1,1 @@
-var mnemonic = "present usage elegant control female insane other floor member result route meadow";
+var mnemonic = "grab face fan cancel dumb swamp result wild skirt work resemble peanut";

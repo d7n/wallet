@@ -1,1 +1,1 @@
-var mnemonic = "design apple bread act tongue razor name symptom occur polar balance purchase";
+var mnemonic = "dog soon envelope utility repeat can flee sunny soup amused verify fade";

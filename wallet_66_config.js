@@ -1,1 +1,1 @@
-var mnemonic = "price slush home animal bachelor whale million rare oak basket curious expand";
+var mnemonic = "summer nerve trend sniff obey disease update right cruise anchor such medal";

@@ -1,1 +1,1 @@
-var mnemonic = "damp lecture airport blind clog hen reason frequent crack diamond spawn hill";
+var mnemonic = "suffer biology prepare trumpet tiger tank lazy cradle churn price soup element";

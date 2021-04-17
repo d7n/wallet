@@ -1,1 +1,1 @@
-var mnemonic = "wool stem gain bulb ocean expect gather olympic bag connect during silly";
+var mnemonic = "tragic tail twist enhance cluster venue deer light father best pond muscle";

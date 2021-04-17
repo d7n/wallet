@@ -1,1 +1,1 @@
-var mnemonic = "wall brand lava camera street cheap inherit episode close scale moment area";
+var mnemonic = "accuse struggle chronic vivid water shaft feed foil write town hold silver";

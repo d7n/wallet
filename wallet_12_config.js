@@ -1,1 +1,1 @@
-var mnemonic = "strong jaguar sudden talent joy speed mobile banana hawk jungle october never";
+var mnemonic = "assault silver lemon jump cream scan leave wasp accident laugh rubber cup";

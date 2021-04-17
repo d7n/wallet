@@ -1,1 +1,1 @@
-var mnemonic = "race wrestle super afford spice motor direct fiction harbor buddy defense renew";
+var mnemonic = "sauce about inmate hawk napkin giggle public garlic caught record clarify purity";

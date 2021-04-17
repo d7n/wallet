@@ -1,1 +1,1 @@
-var mnemonic = "old dentist stairs race fun resist hollow tiger cliff door device idle";
+var mnemonic = "plastic chimney inside aim evil cram near message service bacon strong sketch";

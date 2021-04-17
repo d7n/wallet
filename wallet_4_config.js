@@ -1,1 +1,1 @@
-var mnemonic = "viable nephew surround immune gloom magnet winner forest write blue lawn journey";
+var mnemonic = "project vacant sand crunch erode delay cup creek genuine honey shadow chest";

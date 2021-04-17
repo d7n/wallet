@@ -1,1 +1,1 @@
-var mnemonic = "antique end accuse firm sick desert debris banana regret loud walk trap";
+var mnemonic = "vital moon hurdle child when section legal work kick kitchen holiday admit";

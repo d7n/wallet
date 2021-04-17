@@ -1,1 +1,1 @@
-var mnemonic = "term august bamboo unique uphold flight army garage fox sick erode embrace";
+var mnemonic = "fuel letter retire rib connect dolphin hand gain verify cable cargo cube";

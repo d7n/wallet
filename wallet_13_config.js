@@ -1,1 +1,1 @@
-var mnemonic = "image dinner siren enforce spread salt satoshi genuine owner spin gesture buffalo";
+var mnemonic = "matter craft guide umbrella forest tag rude heavy pencil skirt issue couch";

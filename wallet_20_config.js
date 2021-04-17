@@ -1,1 +1,1 @@
-var mnemonic = "stairs cover member other initial dynamic vital barely setup best village ankle";
+var mnemonic = "fossil mule sense bone huge enact reflect ten steel gift bridge divorce";

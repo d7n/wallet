@@ -1,1 +1,1 @@
-var mnemonic = "junk safe gold impact combine verb express utility banana become burger clog";
+var mnemonic = "cook destroy cup vague spell alien win file now depart erode legal";

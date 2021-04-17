@@ -1,1 +1,1 @@
-var mnemonic = "taxi lonely gather future add close rain job link erosion palm spatial";
+var mnemonic = "addict flame hen crisp blanket essence obey neglect girl neither remove swear";

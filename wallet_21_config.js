@@ -1,1 +1,1 @@
-var mnemonic = "develop weird law fiction twist cherry glue dinner drill series miracle void";
+var mnemonic = "wing chef like wealth claim jazz blast speed legal album elbow team";

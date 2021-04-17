@@ -1,1 +1,1 @@
-var mnemonic = "soft group luxury cheese sadness garlic tragic catalog erupt people team emerge";
+var mnemonic = "tornado fetch title reopen brown client impulse there avoid ensure aunt host";

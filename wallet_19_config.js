@@ -1,1 +1,1 @@
-var mnemonic = "figure shell chuckle image record chicken during awkward check vague route height";
+var mnemonic = "physical pig glass auction hurdle olive cheap monkey salt very mobile canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "huge scene protect walk drum seek outdoor off word essay better sugar";
+var mnemonic = "catalog mouse badge december lock live shed arch purity toss oxygen sword";

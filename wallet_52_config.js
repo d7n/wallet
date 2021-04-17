@@ -1,1 +1,1 @@
-var mnemonic = "lamp tattoo group hour kiss join gadget concert off gallery copper fat";
+var mnemonic = "strong absurd awesome else equal drop height donate left blood plate dose";

@@ -1,1 +1,1 @@
-var mnemonic = "brass decide eye barely just chronic guide jungle super violin cake tube";
+var mnemonic = "erase budget twist below guilt hand real mouse cheese endless tray voice";

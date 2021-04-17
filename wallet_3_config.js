@@ -1,1 +1,1 @@
-var mnemonic = "flag valid scan follow left agent job author dish myth trash mirror";
+var mnemonic = "cool slight depend bike spoil reduce omit lock improve immense mixed neutral";

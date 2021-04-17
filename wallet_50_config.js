@@ -1,1 +1,1 @@
-var mnemonic = "elder window theory nothing fever upgrade tribe blame impulse brick hospital rose";
+var mnemonic = "amateur guard effort cross spike size various depth oven desert fall car";

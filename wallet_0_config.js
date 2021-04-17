@@ -1,1 +1,1 @@
-var mnemonic = "grass together more model bus dirt pull economy usage father voyage mask";
+var mnemonic = "flip opinion gift popular mad chase smart much ocean board bomb panel";

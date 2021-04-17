@@ -1,1 +1,1 @@
-var mnemonic = "toddler seed owner settle bike car agree rent angry again loud ability";
+var mnemonic = "spider doll basic rookie unaware monkey panic trip provide assault cereal sugar";

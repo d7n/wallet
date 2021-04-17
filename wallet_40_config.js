@@ -1,1 +1,1 @@
-var mnemonic = "boss layer wheat window person circle only found hand code mushroom disease";
+var mnemonic = "about board joke volcano purpose winter turn erosion cook crunch mansion track";

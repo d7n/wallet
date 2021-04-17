@@ -1,1 +1,1 @@
-var mnemonic = "busy key grant mesh hair august panic pizza one upon arrive brick";
+var mnemonic = "provide program leave hole found baby crack six smooth hover solid copper";

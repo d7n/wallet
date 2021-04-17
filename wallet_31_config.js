@@ -1,1 +1,1 @@
-var mnemonic = "bus despair camera pass negative toddler puzzle barely utility basket outside suspect";
+var mnemonic = "tackle sketch blush magic fury until wrap crazy snap phrase clever provide";

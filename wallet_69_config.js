@@ -1,1 +1,1 @@
-var mnemonic = "sweet junk hawk offer phone total spike muffin design rail abuse foster";
+var mnemonic = "lumber end shoe catch course december join music hat shield fall tired";

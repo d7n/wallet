@@ -1,1 +1,1 @@
-var mnemonic = "damage lamp stand addict issue today aunt mutual rough style fire expect";
+var mnemonic = "start churn find narrow answer cluster genius deal give ill boat crane";

@@ -1,1 +1,1 @@
-var mnemonic = "creek into chuckle renew frame jewel reward link penalty confirm accuse critic";
+var mnemonic = "sketch luggage outside wide illness guide right trial industry clown asset marriage";

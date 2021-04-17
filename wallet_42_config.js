@@ -1,1 +1,1 @@
-var mnemonic = "produce speed swing panther front segment possible purity theme mule addict cargo";
+var mnemonic = "embark alter patch body protect thing ski circle leg rain snow van";

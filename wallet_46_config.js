@@ -1,1 +1,1 @@
-var mnemonic = "garbage monkey give awesome mix west become reward regular rude bulk endorse";
+var mnemonic = "question year pair mechanic cotton confirm like hair another edit clap rate";

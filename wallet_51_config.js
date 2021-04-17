@@ -1,1 +1,1 @@
-var mnemonic = "blood deputy chest fury crawl noble left ready pact broken pizza box";
+var mnemonic = "buyer unfold cat refuse drip purse black release boss crane fit feed";

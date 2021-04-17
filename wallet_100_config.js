@@ -1,1 +1,1 @@
-var mnemonic = "result spoon burst sell lemon broom stock bubble effort maid vote outer";
+var mnemonic = "antenna dream urban tonight embrace forest cactus volcano source sweet canvas perfect";

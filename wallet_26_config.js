@@ -1,1 +1,1 @@
-var mnemonic = "bargain robot medal two poverty edge school refuse floor fatigue purse below";
+var mnemonic = "drama thrive gaze music long lamp distance pelican basket speed harsh boy";

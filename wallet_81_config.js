@@ -1,1 +1,1 @@
-var mnemonic = "must area beauty orbit pilot club own east orange dash morning logic";
+var mnemonic = "desk blush deny surface pact melt actual defense retreat road account nominee";

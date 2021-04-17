@@ -1,1 +1,1 @@
-var mnemonic = "route acid smart cotton trophy auto rebel absent cabbage flip crowd gift";
+var mnemonic = "response flavor leisure rich belt budget harbor opinion foil suffer elephant fantasy";

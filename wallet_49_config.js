@@ -1,1 +1,1 @@
-var mnemonic = "hockey scrub cradle boil rapid quality save whip wreck inherit aerobic ordinary";
+var mnemonic = "whisper space click mention recall dilemma afford sponsor audit tower skate pact";

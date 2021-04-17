@@ -1,1 +1,1 @@
-var mnemonic = "erase ability glow purity case brick crop deputy pole whip cook neutral";
+var mnemonic = "shoot galaxy industry march fiber fence circle ring ahead among quick proof";

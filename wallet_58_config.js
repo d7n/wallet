@@ -1,1 +1,1 @@
-var mnemonic = "emotion model split gorilla steel awkward hope uncover today west boring drill";
+var mnemonic = "match shy brass match receive catch media believe gold intact oblige frame";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle fancy danger wet giant nerve mountain flat congress used awesome day";
+var mnemonic = "topic biology tongue write donor usage wealth camp company gorilla cave arm";

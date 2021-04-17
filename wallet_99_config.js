@@ -1,1 +1,1 @@
-var mnemonic = "twice hedgehog market shift drum mad chunk liar resemble similar hungry gap";
+var mnemonic = "afraid damp fine runway monitor cotton satoshi rice potato chat stove turtle";

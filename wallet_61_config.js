@@ -1,1 +1,1 @@
-var mnemonic = "unlock shell carry fruit patrol riot present tenant skate funny demand patient";
+var mnemonic = "vault fan soup soap keen unveil guess dance aerobic chalk bulk food";

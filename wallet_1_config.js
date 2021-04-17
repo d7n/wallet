@@ -1,1 +1,1 @@
-var mnemonic = "mansion judge civil rhythm wrist bird shrimp observe safe oven warrior margin";
+var mnemonic = "fury alarm fatal frequent turn price waste enough slight around mango uphold";

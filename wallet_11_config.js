@@ -1,1 +1,1 @@
-var mnemonic = "shine shoulder nose undo metal trouble just casino hybrid cloth elder goat";
+var mnemonic = "jeans antique film afford fashion flag trash reflect school brand load disorder";

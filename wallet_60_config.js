@@ -1,1 +1,1 @@
-var mnemonic = "good kit lecture airport misery neglect there legend olive conduct thought humble";
+var mnemonic = "latin moral tone upgrade hip phone clerk cream matter crucial among exotic";

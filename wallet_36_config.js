@@ -1,1 +1,1 @@
-var mnemonic = "layer soldier spare dwarf supply churn derive fancy celery bounce present lady";
+var mnemonic = "chase grain march finger settle flock follow item slender reject asthma case";

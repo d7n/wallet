@@ -1,1 +1,1 @@
-var mnemonic = "annual cupboard grace eager normal remain carry panda atom mercy mushroom envelope";
+var mnemonic = "betray useless lounge easy denial insane limb tiny meadow curve extend net";

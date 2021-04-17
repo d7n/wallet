@@ -1,1 +1,1 @@
-var mnemonic = "summer wonder cat crucial oil derive rebel diary cabbage typical give loud";
+var mnemonic = "seek play bundle autumn left ask torch spoil avoid century thing tuition";

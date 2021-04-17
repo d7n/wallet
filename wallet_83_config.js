@@ -1,1 +1,1 @@
-var mnemonic = "link tail stomach project wait there kitten famous issue disagree tornado brief";
+var mnemonic = "left pyramid feature nominee deal dignity abuse cute damage amount limb crime";

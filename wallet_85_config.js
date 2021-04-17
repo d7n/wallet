@@ -1,1 +1,1 @@
-var mnemonic = "reason cook magnet orbit stumble choice brother ribbon tooth juice essay transfer";
+var mnemonic = "kitten property limb lumber range lucky interest hour movie excuse unveil list";

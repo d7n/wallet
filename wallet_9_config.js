@@ -1,1 +1,1 @@
-var mnemonic = "whip garlic paper notice patrol disagree egg leg post false license weapon";
+var mnemonic = "truck hood asthma marriage health clerk hair scale casual tuna length media";

@@ -1,1 +1,1 @@
-var mnemonic = "year manual pioneer hammer marine loyal hat bleak best girl glad angry";
+var mnemonic = "woman play because amused senior avoid inquiry volcano reform minor whale toward";

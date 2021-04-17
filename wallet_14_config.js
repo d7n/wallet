@@ -1,1 +1,1 @@
-var mnemonic = "delay orient pitch buffalo casino despair first immense pond uphold liar resemble";
+var mnemonic = "gas motor trim number salon radio call camera inmate twin episode excess";
