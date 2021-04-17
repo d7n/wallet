@@ -1,1 +1,1 @@
-var mnemonic = "spray stock tongue much point bulb hurry crew eager seed present dilemma";
+var mnemonic = "favorite ethics priority advance brush flee screen rail abandon indicate glide subway";

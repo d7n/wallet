@@ -1,1 +1,1 @@
-var mnemonic = "seat artist please trap virtual tribe bird entire seven survey unfair owner";
+var mnemonic = "blush giraffe surge unusual author catalog twelve remind december recall floor luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "wing polar search join day road thank remind orbit anchor share quarter";
+var mnemonic = "close average seek loud swarm tiger base crumble winter else thank fun";

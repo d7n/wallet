@@ -1,1 +1,1 @@
-var mnemonic = "punch bone town finish place color destroy flash source nothing dumb virtual";
+var mnemonic = "witness venue steel process add index total filter forest bounce decrease real";

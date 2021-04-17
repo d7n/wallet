@@ -1,1 +1,1 @@
-var mnemonic = "chase harsh cruise neutral barely tobacco hazard silent allow blur surface guide";
+var mnemonic = "fine canal close disorder affair eye obey unable knife hole place zero";

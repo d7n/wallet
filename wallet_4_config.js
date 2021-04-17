@@ -1,1 +1,1 @@
-var mnemonic = "million payment resource inside order essence cupboard ginger feature spray strong sister";
+var mnemonic = "million pilot ill pause method leisure winter island wrap sponsor sudden drama";

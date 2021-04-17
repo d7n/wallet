@@ -1,1 +1,1 @@
-var mnemonic = "lock future proof swift slow aerobic taste runway sword victory luxury trash";
+var mnemonic = "dash account remove february stool train rule holiday luxury twin bag entire";

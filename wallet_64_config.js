@@ -1,1 +1,1 @@
-var mnemonic = "receive mass neutral capable spirit toast street practice repeat improve awake child";
+var mnemonic = "already fossil blush doctor creek picnic office tumble loan swift peasant chicken";

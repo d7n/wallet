@@ -1,1 +1,1 @@
-var mnemonic = "shallow tragic tone plunge innocent soldier deal festival where tower put true";
+var mnemonic = "then jelly silk icon midnight flee thought select economy mimic prefer defy";

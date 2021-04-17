@@ -1,1 +1,1 @@
-var mnemonic = "coil leopard pencil open reward hunt truck soon violin ski lottery spice";
+var mnemonic = "aspect destroy tourist math plastic voice fix jaguar smoke jacket point atom";

@@ -1,1 +1,1 @@
-var mnemonic = "duty island hurdle raven winner fault utility clip thumb hurdle potato rotate";
+var mnemonic = "crane feature throw laptop gain couple dose blur base device stairs resist";

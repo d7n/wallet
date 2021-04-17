@@ -1,1 +1,1 @@
-var mnemonic = "dance plug sister foster chair useful cat wing nominee civil daring squeeze";
+var mnemonic = "then stumble amateur hospital brother camp ozone shrug hurt warfare appear weekend";

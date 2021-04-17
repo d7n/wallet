@@ -1,1 +1,1 @@
-var mnemonic = "album sing inject eternal amateur attract you position hamster uniform olive job";
+var mnemonic = "labor fragile mimic injury funny amused almost caught blouse argue gesture over";

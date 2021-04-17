@@ -1,1 +1,1 @@
-var mnemonic = "spice caught cart into faith main crazy supply comfort clown expose enjoy";
+var mnemonic = "engage relief fury runway topple win have sense glory rack fee fit";

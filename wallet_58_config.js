@@ -1,1 +1,1 @@
-var mnemonic = "switch cruise ill rocket flee apple bridge protect kangaroo alone announce donate";
+var mnemonic = "same alien slot fashion stock doctor push pool public narrow arrest van";

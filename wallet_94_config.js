@@ -1,1 +1,1 @@
-var mnemonic = "weekend zoo rotate park strong chapter lounge candy never brain ramp scare";
+var mnemonic = "divide junk pyramid resource aisle proof private weapon nuclear episode champion myth";

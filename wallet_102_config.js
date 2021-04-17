@@ -1,1 +1,1 @@
-var mnemonic = "wire kiss jazz early pride almost business mountain zebra plunge mad frown";
+var mnemonic = "brush duty thunder cup kangaroo describe fat group cotton purpose access mad";

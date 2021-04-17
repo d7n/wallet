@@ -1,1 +1,1 @@
-var mnemonic = "year copy force mixture carry clap talk resist tenant sail lift aspect";
+var mnemonic = "very meadow rather route south orchard enhance find laptop input gallery truck";

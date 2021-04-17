@@ -1,1 +1,1 @@
-var mnemonic = "tornado orient screen window junior much badge hybrid tray scale add ginger";
+var mnemonic = "enact sudden expect video add music extend deal surprise detect clump slab";

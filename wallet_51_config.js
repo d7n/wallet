@@ -1,1 +1,1 @@
-var mnemonic = "camp ripple fee gravity dice monkey grass fringe spoon ramp produce search";
+var mnemonic = "social visit copper film element light tuna sick lunar please labor style";

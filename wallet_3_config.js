@@ -1,1 +1,1 @@
-var mnemonic = "hair sick castle tomorrow bean evidence patient cactus dream rare found seminar";
+var mnemonic = "boy very neck promote camera feel behave cage journey family tennis clean";

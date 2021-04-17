@@ -1,1 +1,1 @@
-var mnemonic = "fee harsh green nothing relax cruel icon wire flame cricket enemy style";
+var mnemonic = "joke seminar glass purse build green flower live arena normal riot rural";

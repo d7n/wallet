@@ -1,1 +1,1 @@
-var mnemonic = "cargo base entry base shock develop bracket wear version truth loop kidney";
+var mnemonic = "tobacco rival indicate oven bonus select beef onion field broom false garlic";

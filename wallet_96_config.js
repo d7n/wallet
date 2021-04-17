@@ -1,1 +1,1 @@
-var mnemonic = "vital waste guilt forward more someone this life post stomach cable route";
+var mnemonic = "mansion rice already curtain teach target focus south job parrot spoil promote";

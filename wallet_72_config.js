@@ -1,1 +1,1 @@
-var mnemonic = "mix proof glare flag sustain ancient escape wreck volcano inherit ability glance";
+var mnemonic = "stone general cigar shell wasp wrong pizza suggest second bullet fiber tell";

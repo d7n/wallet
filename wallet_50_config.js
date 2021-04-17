@@ -1,1 +1,1 @@
-var mnemonic = "all online quiz gesture dog way cart safe jacket orphan grit rice";
+var mnemonic = "vivid desert tongue domain episode wage wasp error ethics snake blade guide";

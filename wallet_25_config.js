@@ -1,1 +1,1 @@
-var mnemonic = "sock express chunk patient such style month dwarf admit brush win movie";
+var mnemonic = "filter quantum movie say laptop swim pause eye average abuse action pear";

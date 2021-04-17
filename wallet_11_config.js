@@ -1,1 +1,1 @@
-var mnemonic = "social surface angle dutch guilt flat goddess inch roast perfect other chicken";
+var mnemonic = "parrot license fetch nothing click journey sweet omit area stove control country";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut clock damp begin wife fiction polar three argue voyage width ugly";
+var mnemonic = "omit fury suggest private illness fresh sustain entire coral unhappy library turn";

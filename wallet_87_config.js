@@ -1,1 +1,1 @@
-var mnemonic = "cake crew outdoor energy oven neutral prize impulse culture home shed auto";
+var mnemonic = "crash master write okay dish sunny innocent panda visa stay math gown";

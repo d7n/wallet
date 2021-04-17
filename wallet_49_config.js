@@ -1,1 +1,1 @@
-var mnemonic = "squirrel flock light edit erosion shy run twenty strong limb arctic keep";
+var mnemonic = "cousin gentle banner bird effort clog winter remember crop like renew ahead";

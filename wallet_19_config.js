@@ -1,1 +1,1 @@
-var mnemonic = "blush false process cup favorite reason reform vendor car puppy hotel grass";
+var mnemonic = "broccoli scout strategy immune point pass rural fence swim grow benefit sing";

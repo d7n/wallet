@@ -1,1 +1,1 @@
-var mnemonic = "flag fitness journey possible acquire crouch piece oval disagree call manual head";
+var mnemonic = "elegant soccer gap narrow climb ceiling family brick sibling matter walnut fire";

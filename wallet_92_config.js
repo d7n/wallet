@@ -1,1 +1,1 @@
-var mnemonic = "tattoo endorse dad actual purse drink matrix fever night crouch wheel path";
+var mnemonic = "physical disorder hire sugar bird decorate type flat few apology trip fox";

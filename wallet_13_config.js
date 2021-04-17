@@ -1,1 +1,1 @@
-var mnemonic = "resemble grass doctor boy false quiz chest exotic alter mind across grant";
+var mnemonic = "predict gown stadium palace ensure cream innocent agree once rose hundred name";

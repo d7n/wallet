@@ -1,1 +1,1 @@
-var mnemonic = "bring noble fortune dragon shell kite palace invest acid urge deputy crop";
+var mnemonic = "suffer erosion flower text palace rigid observe mirror option name wink poet";

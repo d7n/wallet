@@ -1,1 +1,1 @@
-var mnemonic = "junk reflect mask appear mushroom race cover stone boat cradle obvious avocado";
+var mnemonic = "erase card alter mammal stove will horse essence drill tragic account world";

@@ -1,1 +1,1 @@
-var mnemonic = "top pepper leg metal claim canyon reject couch ugly napkin address guitar";
+var mnemonic = "imitate test drill gasp close kidney rough obey double genuine rate toilet";

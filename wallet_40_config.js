@@ -1,1 +1,1 @@
-var mnemonic = "measure aisle margin planet myself lens glue denial dune price below hurdle";
+var mnemonic = "tourist awkward unable diet donkey easy degree refuse inmate evil awful dish";

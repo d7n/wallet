@@ -1,1 +1,1 @@
-var mnemonic = "balcony make afford plate solid arctic guess general doll jungle dice pipe";
+var mnemonic = "fork shield busy oyster bottom brief helmet nut cart vacant world dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "level host purity onion maximum clever imitate prosper drum blue orphan bargain";
+var mnemonic = "sorry myself capital modify winter ocean genuine seat craft wreck relax rent";

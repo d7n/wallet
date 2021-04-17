@@ -1,1 +1,1 @@
-var mnemonic = "bind evidence father neutral figure fatigue potato capital excite verify hover swim";
+var mnemonic = "lamp congress amateur peanut mass twenty basic clean force tissue denial chicken";

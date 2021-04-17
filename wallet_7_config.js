@@ -1,1 +1,1 @@
-var mnemonic = "talent clip flush exhaust drip chaos please melt social tenant purity decrease";
+var mnemonic = "cheap thing ride slogan run modify baby choice dignity push dial mosquito";

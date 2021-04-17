@@ -1,1 +1,1 @@
-var mnemonic = "hospital relief creek oppose surround pink million tiny about valid lucky wage";
+var mnemonic = "first asset foil cluster cash into depth cereal tail width walk fog";

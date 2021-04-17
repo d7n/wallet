@@ -1,1 +1,1 @@
-var mnemonic = "minor achieve decline goose close can vast where symptom idle card giggle";
+var mnemonic = "stereo script quote youth flavor large cabin list payment hold blood entire";

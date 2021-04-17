@@ -1,1 +1,1 @@
-var mnemonic = "furnace execute desk sweet labor parent regret true illness below lake unveil";
+var mnemonic = "sample ahead prize virtual resource melody trouble boring news bottom calm upgrade";

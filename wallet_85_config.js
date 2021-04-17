@@ -1,1 +1,1 @@
-var mnemonic = "abuse blossom cute diesel member jealous risk twelve casual small jealous device";
+var mnemonic = "finger aware outside slab trim alarm program mimic flip fringe beach issue";

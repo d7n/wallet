@@ -1,1 +1,1 @@
-var mnemonic = "fly you start night emotion release kit tuna estate quantum chapter nephew";
+var mnemonic = "afraid cargo start cradle jungle rich basket sword educate sad alien legal";

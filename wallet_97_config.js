@@ -1,1 +1,1 @@
-var mnemonic = "outer stamp setup easily hero lecture bread option zebra evidence love filter";
+var mnemonic = "glad coyote cup venture chat base sausage start simple endorse live swift";

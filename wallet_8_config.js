@@ -1,1 +1,1 @@
-var mnemonic = "agent capable spice large click outer hidden casino roof fuel reflect album";
+var mnemonic = "nephew empty radio tired tomorrow hybrid yellow author lava trick nominee deal";

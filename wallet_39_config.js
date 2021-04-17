@@ -1,1 +1,1 @@
-var mnemonic = "mosquito glass shoot derive abandon harvest refuse resemble angry pottery team walk";
+var mnemonic = "bamboo mercy marriage image light risk lunar craft wealth swift defense flower";

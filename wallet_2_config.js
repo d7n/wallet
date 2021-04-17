@@ -1,1 +1,1 @@
-var mnemonic = "drive artefact royal essay depth cannon solid fruit east shallow silver survey";
+var mnemonic = "coast depart earth pond great ankle kite clutch hidden school net crime";

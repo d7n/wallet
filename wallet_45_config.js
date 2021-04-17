@@ -1,1 +1,1 @@
-var mnemonic = "more wedding exclude what case dice wait foil census symptom unknown lucky";
+var mnemonic = "rival black salmon someone trim loud exchange board act review trial phrase";

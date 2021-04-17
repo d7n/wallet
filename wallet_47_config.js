@@ -1,1 +1,1 @@
-var mnemonic = "lecture tomorrow toward olive lemon recycle swing sign cute lady enact amazing";
+var mnemonic = "ostrich broom daughter voice apple sound elephant violin rule picture muscle table";

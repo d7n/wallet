@@ -1,1 +1,1 @@
-var mnemonic = "scorpion report slush harsh globe choice circle kitchen major swear also sound";
+var mnemonic = "acid today mechanic top citizen illness damp innocent tent lonely cube ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "hint alley swarm life quick they vault puppy clump balcony priority patient";
+var mnemonic = "pass scrap course axis hollow want acid number attract mirror empower any";

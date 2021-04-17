@@ -1,1 +1,1 @@
-var mnemonic = "picture comic exile regular vessel foam cheese gorilla alien smoke divert kangaroo";
+var mnemonic = "noodle deal hurry clever skin gas man chat gospel correct van demand";

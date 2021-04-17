@@ -1,1 +1,1 @@
-var mnemonic = "coconut public fringe pond fly clog fiscal exhaust orbit core antique eternal";
+var mnemonic = "floor ready blood coconut puppy reopen crew decide balcony plate science coral";

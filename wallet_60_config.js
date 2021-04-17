@@ -1,1 +1,1 @@
-var mnemonic = "truck field abandon disorder swarm sad vintage undo vast news flock blast";
+var mnemonic = "gadget donate hold dinner grab cross pottery sunset february walk donkey impulse";

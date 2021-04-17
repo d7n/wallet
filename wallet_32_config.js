@@ -1,1 +1,1 @@
-var mnemonic = "exhibit suspect horn absent cinnamon alpha embark gasp cluster possible gun hire";
+var mnemonic = "impact arrive female hire exact toilet stay claw famous day hunt same";

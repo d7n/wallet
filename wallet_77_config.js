@@ -1,1 +1,1 @@
-var mnemonic = "baby figure dirt grape butter pencil scale cross filter dice apart warm";
+var mnemonic = "frozen hawk public amount deliver exhibit stock verify expire steel carry adapt";

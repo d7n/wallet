@@ -1,1 +1,1 @@
-var mnemonic = "approve heavy cargo erase indicate brown acquire grow opinion liquid famous spring";
+var mnemonic = "rotate below nurse bottom pause sustain vital edge disorder pulse input jeans";

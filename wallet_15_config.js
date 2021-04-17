@@ -1,1 +1,1 @@
-var mnemonic = "quantum page pretty intact exhaust icon gadget install pledge upper butter differ";
+var mnemonic = "tragic label silly shift devote economy clog amateur develop list pledge alone";

@@ -1,1 +1,1 @@
-var mnemonic = "figure version audit spend burden town entire cup fiction apology side city";
+var mnemonic = "dynamic author together symbol drill dumb film fantasy ribbon problem lazy horn";

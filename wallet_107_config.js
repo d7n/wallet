@@ -1,1 +1,1 @@
-var mnemonic = "smile clump cliff maximum eagle emerge sun spy wreck strike truth defy";
+var mnemonic = "panic fatal lens promote shoot negative honey floor oyster foot dirt street";

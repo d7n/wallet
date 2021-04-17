@@ -1,1 +1,1 @@
-var mnemonic = "leave pride anger radar door deer dentist rich token soup apology green";
+var mnemonic = "lonely lava they unlock outdoor kitchen initial other nice together orbit marble";

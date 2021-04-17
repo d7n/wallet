@@ -1,1 +1,1 @@
-var mnemonic = "divide father gather lobster spoon shuffle similar lobster history dance profit match";
+var mnemonic = "point witness cause film hidden collect smooth achieve eagle concert minimum wire";

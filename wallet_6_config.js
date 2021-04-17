@@ -1,1 +1,1 @@
-var mnemonic = "tilt ostrich property permit puzzle program dismiss critic almost crisp top rule";
+var mnemonic = "village biology know false traffic state reform speed panda autumn bullet trial";

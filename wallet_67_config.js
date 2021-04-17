@@ -1,1 +1,1 @@
-var mnemonic = "moment width disorder live devote high key movie chapter ladder often budget";
+var mnemonic = "amateur merry bulb ghost brand chuckle refuse bid silly ready cabbage helmet";

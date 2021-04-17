@@ -1,1 +1,1 @@
-var mnemonic = "engage similar wear swallow coral inner post trigger cycle wife luggage confirm";
+var mnemonic = "awful describe icon charge month buzz camera plug pig gadget stadium during";

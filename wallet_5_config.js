@@ -1,1 +1,1 @@
-var mnemonic = "inject thank episode version track winter enhance medal soft apple great oxygen";
+var mnemonic = "much female chest guitar timber vital rate dial ceiling ride camp machine";

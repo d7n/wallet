@@ -1,1 +1,1 @@
-var mnemonic = "admit rebel heart crane above remove long obtain juice steel water question";
+var mnemonic = "toast network cousin student double under bar describe spider praise diary soap";

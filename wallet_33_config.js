@@ -1,1 +1,1 @@
-var mnemonic = "throw guitar ladder live what laptop process plug spoon mask crumble pair";
+var mnemonic = "odor pilot option rookie tiger sure step rather peasant rhythm surface demand";

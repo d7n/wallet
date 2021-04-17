@@ -1,1 +1,1 @@
-var mnemonic = "tower autumn fluid eight hammer must trim bread educate dinner weekend drink";
+var mnemonic = "arrive joy dirt have other park question evoke fade work enforce remember";

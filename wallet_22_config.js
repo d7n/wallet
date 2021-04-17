@@ -1,1 +1,1 @@
-var mnemonic = "drive mail resource burden wine ship one museum history civil assault excuse";
+var mnemonic = "story maze need among speed sheriff shed canvas gold veteran similar job";

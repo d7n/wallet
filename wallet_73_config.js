@@ -1,1 +1,1 @@
-var mnemonic = "unit rifle unhappy vault wet shrug bus life stool under rival again";
+var mnemonic = "fatal adapt pluck exclude keen duck eyebrow artefact filter fabric valley arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "drop logic edge kid length attitude build now chunk spirit battle light";
+var mnemonic = "silver cook rival clean virtual two neglect photo west science hello badge";

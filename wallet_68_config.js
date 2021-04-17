@@ -1,1 +1,1 @@
-var mnemonic = "float pony deer wise junior wise magnet sport jump illness timber drastic";
+var mnemonic = "soul hammer useless federal rhythm pause mountain addict isolate ketchup weird receive";

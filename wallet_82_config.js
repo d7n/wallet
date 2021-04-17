@@ -1,1 +1,1 @@
-var mnemonic = "text mushroom cannon layer tired nurse bind scout sun dash glory design";
+var mnemonic = "school magnet about pool exercise puppy text fame mix repeat bike brain";

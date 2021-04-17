@@ -1,1 +1,1 @@
-var mnemonic = "illness side urban alien panel blind loyal drive material paddle vivid furnace";
+var mnemonic = "scorpion gaze provide around feature duty napkin load fix leader hold conduct";

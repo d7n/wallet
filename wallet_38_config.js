@@ -1,1 +1,1 @@
-var mnemonic = "salute hawk sugar about dinner tail solution hen miss hair cradle useful";
+var mnemonic = "gun cave balcony fluid penalty step tape country egg slam excess ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "verify palm toast demand team play eye table saddle bid staff taste";
+var mnemonic = "second hero glove law series prize aerobic canoe area hold advice enforce";

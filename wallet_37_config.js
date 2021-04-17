@@ -1,1 +1,1 @@
-var mnemonic = "cup clay history sample pioneer young photo jewel defy news awesome prize";
+var mnemonic = "joy engine dance royal auction cat club field air wire title clarify";

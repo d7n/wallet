@@ -1,1 +1,1 @@
-var mnemonic = "typical recycle wild trick nasty sentence laugh unveil pet render crumble mammal";
+var mnemonic = "fringe gym menu siege simple marine junior tourist fall market cancel captain";

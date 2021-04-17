@@ -1,1 +1,1 @@
-var mnemonic = "skin upper able hold mutual moon digital describe dirt dwarf radio able";
+var mnemonic = "feed error wealth dilemma unhappy math never upper head subject ethics short";

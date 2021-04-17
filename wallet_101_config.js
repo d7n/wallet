@@ -1,1 +1,1 @@
-var mnemonic = "digital nation custom burden match climb remind pear focus anger forward venture";
+var mnemonic = "sadness minute hurdle author keep upon cover minute ignore excite pigeon master";

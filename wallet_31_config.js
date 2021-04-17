@@ -1,1 +1,1 @@
-var mnemonic = "mango virtual sword visa happy owner ask correct option blue month office";
+var mnemonic = "weekend muffin extend dismiss solar cigar rack night art fancy title length";
