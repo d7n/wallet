@@ -1,1 +1,1 @@
-var mnemonic = "organ keen flush pull joke orient banana combine add reunion trouble prefer";
+var mnemonic = "add key arrive shoulder eyebrow pole perfect deposit tool debate snow case";

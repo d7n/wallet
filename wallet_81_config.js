@@ -1,1 +1,1 @@
-var mnemonic = "weapon group chase dirt stand wet level cluster feel faculty enough cinnamon";
+var mnemonic = "fault news alcohol defy cliff actress topple obtain such strike heavy place";

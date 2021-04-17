@@ -1,1 +1,1 @@
-var mnemonic = "help eager spray era infant leg stomach tragic omit element sentence next";
+var mnemonic = "refuse siren devote drip owner three mix topple divorce floor sadness park";

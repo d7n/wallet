@@ -1,1 +1,1 @@
-var mnemonic = "floor ugly fiscal orphan trigger black void essence shoulder involve emerge intact";
+var mnemonic = "place throw sight load bacon sea suggest ten narrow comic north random";

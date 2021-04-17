@@ -1,1 +1,1 @@
-var mnemonic = "pioneer pass huge tortoise sense inmate wagon basket model garage drip dwarf";
+var mnemonic = "matter goddess utility anchor egg message layer kidney dream enrich raven bean";

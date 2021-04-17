@@ -1,1 +1,1 @@
-var mnemonic = "crawl wedding season recall ride moon chuckle digital collect print prepare fan";
+var mnemonic = "input fiction note drum swift repeat orphan bounce cool price imitate catalog";

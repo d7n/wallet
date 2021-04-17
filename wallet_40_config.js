@@ -1,1 +1,1 @@
-var mnemonic = "swear novel space sample focus you chase kitchen fine trust announce lens";
+var mnemonic = "sphere leaf evolve cash april term flavor laundry torch term give bullet";

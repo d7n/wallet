@@ -1,1 +1,1 @@
-var mnemonic = "salt chef remain still route exhibit reason gun someone improve capital you";
+var mnemonic = "squeeze dad forest faint penalty scorpion trade banana fall acquire enemy dolphin";

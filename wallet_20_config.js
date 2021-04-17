@@ -1,1 +1,1 @@
-var mnemonic = "girl dish nice borrow snow absorb eight thunder elbow frame pistol brand";
+var mnemonic = "host churn vocal sniff fun draw sand cattle analyst pride crucial grow";

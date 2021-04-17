@@ -1,1 +1,1 @@
-var mnemonic = "hover curve dial market rubber found topic tomorrow like film peace exact";
+var mnemonic = "thumb solid very sentence witness type twin culture man mansion audit direct";

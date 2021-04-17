@@ -1,1 +1,1 @@
-var mnemonic = "window chase super sun amateur unfair earn square strong brass tiger knife";
+var mnemonic = "used wish olympic squeeze bitter fashion jacket festival rail add bracket burger";

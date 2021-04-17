@@ -1,1 +1,1 @@
-var mnemonic = "battle cake that case famous grit twelve vendor palace mimic evil point";
+var mnemonic = "expose actress unable survey target around slam pen item shock spray credit";

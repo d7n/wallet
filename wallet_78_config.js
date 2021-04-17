@@ -1,1 +1,1 @@
-var mnemonic = "worth table dog strong unable hour asthma pretty demand position knock excess";
+var mnemonic = "scrub rebuild pulp mimic chunk seek shell brain pigeon trial box pool";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle unlock vibrant cake same steak same path shed news depth rail";
+var mnemonic = "arrow century skull track universe food effort balcony picture make wash casual";

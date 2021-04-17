@@ -1,1 +1,1 @@
-var mnemonic = "bacon fatal castle puzzle ecology degree length hole disorder sponsor couple between";
+var mnemonic = "clog express mystery cupboard razor spoil social tribe twin vault panic raise";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle midnight escape fog antenna subway saddle size small banana october comic";
+var mnemonic = "cause call fatal picture airport draft core sight ridge volume have beach";

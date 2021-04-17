@@ -1,1 +1,1 @@
-var mnemonic = "six valid brass tool yellow beef belt grief trim depth proud belt";
+var mnemonic = "flash sister planet health voyage lamp fresh armed evil fun day canvas";

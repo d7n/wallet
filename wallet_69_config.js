@@ -1,1 +1,1 @@
-var mnemonic = "wise level hobby butter such provide crisp owner taxi benefit damp wheel";
+var mnemonic = "multiply frog mention task punch arrange liberty bar search success random symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "card shield photo winter raccoon excite dignity monkey arena coffee regular umbrella";
+var mnemonic = "defense kid other unusual bronze solution panel chief neutral pass town reopen";

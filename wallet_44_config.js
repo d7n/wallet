@@ -1,1 +1,1 @@
-var mnemonic = "promote mixture satisfy hard crisp amount flight deputy gap buddy morning arch";
+var mnemonic = "crucial little long spatial champion foil broken chimney surround cigar tired notice";

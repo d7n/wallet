@@ -1,1 +1,1 @@
-var mnemonic = "real era whale payment obvious woman brick marble body foot omit manage";
+var mnemonic = "wreck aunt inform mansion suffer improve pulp drip economy lock flower card";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal hurry bundle room light charge cabbage come main sign sample anger";
+var mnemonic = "hour wet mountain eternal wrist suggest aisle car allow north ecology seed";

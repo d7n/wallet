@@ -1,1 +1,1 @@
-var mnemonic = "leisure nephew enact table clean vote height apart snack nephew champion smile";
+var mnemonic = "noise speak adapt huge affair net cinnamon base confirm resist punch interest";

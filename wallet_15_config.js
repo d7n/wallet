@@ -1,1 +1,1 @@
-var mnemonic = "submit alarm canvas kind humor abandon fence margin wave cute knock case";
+var mnemonic = "hundred sunny outer buddy top betray fly scrub educate endorse because tail";

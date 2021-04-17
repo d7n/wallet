@@ -1,1 +1,1 @@
-var mnemonic = "awake thunder consider crystal wagon thumb occur old asthma dream math initial";
+var mnemonic = "gauge pretty steel offer proof elder motor pair short puzzle vacant strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "meat sphere floor bicycle wedding turkey clean screen horn ready old crisp";
+var mnemonic = "swallow again turkey slim damp indicate photo physical spawn chaos mother chest";

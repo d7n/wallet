@@ -1,1 +1,1 @@
-var mnemonic = "soul leisure ball tool flash disorder ridge rent jeans market message flavor";
+var mnemonic = "mean float easily task admit pass rough glove pledge raccoon direct glow";

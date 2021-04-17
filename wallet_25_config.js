@@ -1,1 +1,1 @@
-var mnemonic = "sunny talent space since hobby celery basic minute brand state cushion walk";
+var mnemonic = "toddler custom twin crop differ sudden drip hen chase decline invite bread";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage blanket hire sun laundry glance favorite cliff lift game above lyrics";
+var mnemonic = "enhance price jump curious awkward oblige render ozone act fitness town armor";

@@ -1,1 +1,1 @@
-var mnemonic = "october sword glory faculty child unknown maple rural popular zero fish ignore";
+var mnemonic = "viable craft reject wrap nuclear quantum acoustic can depend taxi era media";

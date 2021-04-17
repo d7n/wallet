@@ -1,1 +1,1 @@
-var mnemonic = "uniform sure assault device inject mention scare wedding clever soup symptom return";
+var mnemonic = "erupt day inquiry melt you frozen aisle across task body hood space";

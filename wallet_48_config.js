@@ -1,1 +1,1 @@
-var mnemonic = "planet floor message evolve fringe all frost bean carry three neutral alarm";
+var mnemonic = "diary federal soft scrub smooth fringe need faint miss weird wrist learn";

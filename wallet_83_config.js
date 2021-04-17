@@ -1,1 +1,1 @@
-var mnemonic = "blue family license match speed sheriff mom fabric ski vital photo motion";
+var mnemonic = "owner soup photo put switch shift tackle gospel pair soda year cat";

@@ -1,1 +1,1 @@
-var mnemonic = "ride appear lobster bounce park dog click fetch smoke dog garbage ugly";
+var mnemonic = "blue brown hunt absurd valley engine nephew atom silk century fury throw";

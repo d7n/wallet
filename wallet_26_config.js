@@ -1,1 +1,1 @@
-var mnemonic = "twenty vacuum elevator ranch wolf into sister hidden chicken truck boost stereo";
+var mnemonic = "pumpkin crisp kiwi rescue empty diet rescue matter credit bright earth attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle easy sausage defy faith boat vanish balcony brain radio blush index";
+var mnemonic = "point armed expose vague inside violin broom inch shrimp sunny thrive october";

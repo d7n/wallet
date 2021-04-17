@@ -1,1 +1,1 @@
-var mnemonic = "label double lazy conduct split frost whip dentist wave legend wheat only";
+var mnemonic = "trust fine puzzle climb loan link orphan erosion inform gas drama witness";

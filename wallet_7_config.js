@@ -1,1 +1,1 @@
-var mnemonic = "anchor action climb flower task inner salad siege pool syrup model rough";
+var mnemonic = "foam panther letter cost salmon exact praise wreck ghost load leave portion";

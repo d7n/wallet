@@ -1,1 +1,1 @@
-var mnemonic = "fossil length happy aware theory sell have save thunder wasp empty virtual";
+var mnemonic = "joke maid essay unknown spike jungle wild situate satoshi comfort bachelor buffalo";

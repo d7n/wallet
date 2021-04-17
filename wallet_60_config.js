@@ -1,1 +1,1 @@
-var mnemonic = "click maze frame pumpkin need unaware rent salt begin together novel pyramid";
+var mnemonic = "process belt little style shrug mixed category hawk conduct make spin ozone";

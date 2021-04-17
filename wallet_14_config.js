@@ -1,1 +1,1 @@
-var mnemonic = "loop spend keen power endorse two edit mesh security tray economy palace";
+var mnemonic = "copper vote firm soft reunion leisure cost suit limit waste thrive noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel legend fun better govern more film summer jelly electric nose human";
+var mnemonic = "problem ketchup blame topple month silent school century iron rich spread chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "trend adapt wish notice member peanut bounce right alone try eight day";
+var mnemonic = "region digital boy onion matter labor giraffe enter install display survey eyebrow";

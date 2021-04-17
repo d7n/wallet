@@ -1,1 +1,1 @@
-var mnemonic = "begin pair nasty lift clump organ under world suit manual secret same";
+var mnemonic = "copper spare tiny leaf three inform bike gesture taste essay naive dance";

@@ -1,1 +1,1 @@
-var mnemonic = "odor promote chair sword index slam enable brief measure wine helmet right";
+var mnemonic = "poem correct foot gain that paddle shell pig huge control draw visual";

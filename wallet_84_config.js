@@ -1,1 +1,1 @@
-var mnemonic = "medal unique jewel orbit busy recipe vicious inhale desk thumb news deputy";
+var mnemonic = "soon zebra casual power abandon best side review cactus neither hour toss";

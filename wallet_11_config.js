@@ -1,1 +1,1 @@
-var mnemonic = "place shield boy funny mail cute happy pill gather thing approve egg";
+var mnemonic = "foil animal select moral empower horror banana bread drip topic swarm long";

@@ -1,1 +1,1 @@
-var mnemonic = "enter people hold weird rose accident review wing rare short upgrade tennis";
+var mnemonic = "nephew owner choice tragic uncover away divorce mushroom leaf crunch maid expire";

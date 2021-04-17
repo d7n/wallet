@@ -1,1 +1,1 @@
-var mnemonic = "satoshi timber reveal later vivid length permit undo heart virus stem allow";
+var mnemonic = "drink defense person paddle throw bubble garment point tribe law almost success";

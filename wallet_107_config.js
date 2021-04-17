@@ -1,1 +1,1 @@
-var mnemonic = "fancy alter rhythm vivid arrive lava angle start palm canvas recall large";
+var mnemonic = "correct valley picnic once crack hockey say cradle city leave goat argue";

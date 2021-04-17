@@ -1,1 +1,1 @@
-var mnemonic = "approve write reunion toast giraffe slogan talent nuclear mirror mystery brave winter";
+var mnemonic = "focus employ donor weapon sorry ketchup minimum bar attack city people winner";

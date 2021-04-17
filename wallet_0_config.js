@@ -1,1 +1,1 @@
-var mnemonic = "blanket warrior rifle casual luggage nominee copper uncle blood myth warrior version";
+var mnemonic = "square chronic margin govern cram attract shoe oval hen employ heavy key";

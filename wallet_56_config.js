@@ -1,1 +1,1 @@
-var mnemonic = "relief valid conduct loyal envelope never consider faculty city exhaust actress dolphin";
+var mnemonic = "swift turn wire farm asset deputy insane float dream inflict evoke lion";

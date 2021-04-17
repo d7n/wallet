@@ -1,1 +1,1 @@
-var mnemonic = "matrix glue hedgehog surge initial tool bone repair edge skull earth pear";
+var mnemonic = "maid cloth worry couple gap gaze evidence spider foot recycle size local";

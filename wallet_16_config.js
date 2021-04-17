@@ -1,1 +1,1 @@
-var mnemonic = "rhythm sketch fetch betray rebuild glove napkin boil edit cushion anxiety ride";
+var mnemonic = "silent cash finish vacuum worry whisper measure marine bronze error rural hammer";

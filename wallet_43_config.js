@@ -1,1 +1,1 @@
-var mnemonic = "void cloud exist cushion come glove field kite useless depart endorse always";
+var mnemonic = "settle viable repeat piano garden census artist impose unveil cry labor short";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding lawn cute embody romance faith squirrel trouble govern tube skull viable";
+var mnemonic = "afford name fork profit quiz auction blood stove february midnight verify shaft";

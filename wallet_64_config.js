@@ -1,1 +1,1 @@
-var mnemonic = "exact coil someone endorse biology license flush choose stuff journey valley guard";
+var mnemonic = "crush online tackle oven submit cupboard bitter actor tomorrow grant rapid year";

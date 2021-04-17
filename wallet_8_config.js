@@ -1,1 +1,1 @@
-var mnemonic = "pact post defense clarify select convince insect fence ready muffin give december";
+var mnemonic = "farm clay uphold pill design only person trap turkey notable chimney mistake";

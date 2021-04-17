@@ -1,1 +1,1 @@
-var mnemonic = "valley depend destroy unknown evoke congress open abandon issue attract divide decrease";
+var mnemonic = "hidden spray reunion general shrimp reunion hold fossil collect gossip couple donate";

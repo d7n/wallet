@@ -1,1 +1,1 @@
-var mnemonic = "dawn curious rebuild stage bid fault victory patrol erosion identify silent novel";
+var mnemonic = "feel gravity math task anchor dose pigeon edit sock grow speed hammer";

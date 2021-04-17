@@ -1,1 +1,1 @@
-var mnemonic = "hip until section output advance vivid bring right walk plug interest aim";
+var mnemonic = "rival before wear face churn target broccoli logic pole race flee boat";

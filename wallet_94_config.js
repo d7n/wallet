@@ -1,1 +1,1 @@
-var mnemonic = "brisk ketchup resemble brass curtain law unhappy under tag avocado fuel tobacco";
+var mnemonic = "dance inhale simple stem warm reject strategy limb spell gospel flavor theme";

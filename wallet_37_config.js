@@ -1,1 +1,1 @@
-var mnemonic = "produce debate wreck dignity bulk attend response draw consider episode tone pipe";
+var mnemonic = "under fiction glimpse fury use evidence march expose husband annual photo economy";

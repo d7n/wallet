@@ -1,1 +1,1 @@
-var mnemonic = "raccoon rent just oxygen fatal dinner gym ecology muscle pupil royal pencil";
+var mnemonic = "robot twenty remember abstract deposit audit lyrics sheriff champion walk slogan swim";

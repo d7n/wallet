@@ -1,1 +1,1 @@
-var mnemonic = "metal myself crew best price believe prize chair illegal shield birth relax";
+var mnemonic = "hover real valve chimney loan insect can avoid spot play board merit";

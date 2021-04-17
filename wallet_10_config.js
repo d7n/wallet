@@ -1,1 +1,1 @@
-var mnemonic = "praise kitten parrot short simple aisle guide similar approve derive adapt donate";
+var mnemonic = "stove absent pigeon action sheriff supreme promote chef day enhance near keep";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate route useless where fringe walk blush foster guilt silent abandon climb";
+var mnemonic = "buyer cannon life phone moment metal captain argue cage milk owner merge";

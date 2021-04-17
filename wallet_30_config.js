@@ -1,1 +1,1 @@
-var mnemonic = "innocent derive treat glance arrange oppose abstract ranch grief atom affair radio";
+var mnemonic = "apology slim bus wife omit price wing basket decorate slam inside olympic";

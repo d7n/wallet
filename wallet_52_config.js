@@ -1,1 +1,1 @@
-var mnemonic = "child penalty inside funny beyond great stereo lyrics volcano little brother credit";
+var mnemonic = "oval brush pulp auction indoor property hair time craft foster lunar medal";

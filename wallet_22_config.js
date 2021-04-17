@@ -1,1 +1,1 @@
-var mnemonic = "brain route large camera hello kitten steak lawn invest energy tell host";
+var mnemonic = "token twelve day aunt hedgehog group useless hair skate sheriff noodle sphere";

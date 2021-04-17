@@ -1,1 +1,1 @@
-var mnemonic = "note danger twelve dinosaur hour rural stuff assault green exit squirrel limit";
+var mnemonic = "ice pluck margin delay arena pause spawn blue lottery path cluster damage";

@@ -1,1 +1,1 @@
-var mnemonic = "beef dynamic midnight melt frog angry dumb thought account wild client token";
+var mnemonic = "taste critic caught taxi spider method milk cool artist rookie mesh tackle";

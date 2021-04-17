@@ -1,1 +1,1 @@
-var mnemonic = "sausage toast hour rack visual trend peasant abandon faint limb erode shrimp";
+var mnemonic = "theme hold crouch farm coyote vessel draft minute only runway debate focus";

@@ -1,1 +1,1 @@
-var mnemonic = "drum monitor rich media volume lunar popular dog twenty toy scene inherit";
+var mnemonic = "merit struggle circle dirt basic agree theme puzzle inner soda mesh innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "network flush bracket drift swap what shaft flat pepper advice rare creek";
+var mnemonic = "nothing find boat detail dove canvas people wine skirt undo concert worth";

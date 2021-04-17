@@ -1,1 +1,1 @@
-var mnemonic = "anchor beef soccer dynamic together dumb keep runway warm purity resource divorce";
+var mnemonic = "portion today entire push ill rifle file uniform lend adapt clever certain";

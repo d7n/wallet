@@ -1,1 +1,1 @@
-var mnemonic = "void marble behind vote verify sugar play kingdom cruel abandon danger bargain";
+var mnemonic = "maze conduct verb dynamic between rescue limb term detect capable balcony creek";

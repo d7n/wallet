@@ -1,1 +1,1 @@
-var mnemonic = "weekend claw kit live feature grief fault enjoy opera stone unique theory";
+var mnemonic = "prepare guide upon cook rough point scene since urge imitate angry calm";

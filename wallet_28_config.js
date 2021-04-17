@@ -1,1 +1,1 @@
-var mnemonic = "tackle fiction palm boost grit dry link exhibit fruit deal lift develop";
+var mnemonic = "draft blouse exchange early early cabin bus phrase that pulse winner bid";

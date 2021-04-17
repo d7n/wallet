@@ -1,1 +1,1 @@
-var mnemonic = "leg merry mammal wish jacket post laundry push useless panda noodle crunch";
+var mnemonic = "priority vehicle garage animal hire deal mansion much faith visual mercy man";

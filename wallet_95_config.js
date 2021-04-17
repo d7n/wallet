@@ -1,1 +1,1 @@
-var mnemonic = "delay pepper movie dinosaur loop smile pool worth relax camp raise physical";
+var mnemonic = "indicate differ reopen near senior cheese window cattle scrub raw snow airport";

@@ -1,1 +1,1 @@
-var mnemonic = "there reject ice broccoli reveal trust usage silent trap finger echo three";
+var mnemonic = "minimum garbage cheap between error roast morning oven stadium luxury fly crucial";
