@@ -1,1 +1,1 @@
-var mnemonic = "together barrel over stage regret upset airport chase desert execute marine chest";
+var mnemonic = "soda first nothing good pumpkin galaxy dance vast quarter flat never coral";

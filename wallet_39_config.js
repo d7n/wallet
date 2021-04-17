@@ -1,1 +1,1 @@
-var mnemonic = "receive you idle deny come blanket glance novel palace student excuse kid";
+var mnemonic = "rival exotic peanut assist until spike social trial just depart laundry select";

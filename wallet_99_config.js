@@ -1,1 +1,1 @@
-var mnemonic = "below stool river lounge sponsor fury wonder alley novel decorate digital pulse";
+var mnemonic = "imitate screen split lottery three able saddle summer family state burden come";

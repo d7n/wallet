@@ -1,1 +1,1 @@
-var mnemonic = "velvet rigid wood build miss purse cricket little remain teach belt high";
+var mnemonic = "donkey sort habit lesson zero accuse absurd auction envelope alley cook feel";

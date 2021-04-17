@@ -1,1 +1,1 @@
-var mnemonic = "rib canal mind combine pond mosquito spend category upgrade hedgehog grow okay";
+var mnemonic = "source position satoshi crouch viable fence always silk click domain mouse jungle";

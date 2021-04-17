@@ -1,1 +1,1 @@
-var mnemonic = "happy window refuse exit era bonus heavy nest soup error couple mirror";
+var mnemonic = "quote trend hope wagon always purchase fork net arctic obtain hover way";

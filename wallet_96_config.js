@@ -1,1 +1,1 @@
-var mnemonic = "review answer style inherit earth bench tuition brave brother stairs field abandon";
+var mnemonic = "fashion rival follow current puzzle document game venture spell boost green clarify";

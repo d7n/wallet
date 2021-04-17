@@ -1,1 +1,1 @@
-var mnemonic = "mass doctor humor boat train drama verify stock pitch zoo push stick";
+var mnemonic = "subject draft pumpkin use choose stock swear reform jacket hard frame banana";

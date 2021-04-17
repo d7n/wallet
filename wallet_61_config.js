@@ -1,1 +1,1 @@
-var mnemonic = "common rigid couple output expect sustain shift debris time aim valve dragon";
+var mnemonic = "december patrol depend trouble park monkey slam marriage foam flee speed exchange";

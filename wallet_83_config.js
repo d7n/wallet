@@ -1,1 +1,1 @@
-var mnemonic = "close easy goat unusual chase gadget wedding voyage abandon help explain model";
+var mnemonic = "music melt grunt also smooth unaware cream ladder current filter margin turtle";

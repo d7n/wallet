@@ -1,1 +1,1 @@
-var mnemonic = "bargain three gauge wheat ability hand drop route vintage south crash patient";
+var mnemonic = "capital atom diamond fiction forest side track boat delay endorse desk dignity";

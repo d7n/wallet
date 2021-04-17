@@ -1,1 +1,1 @@
-var mnemonic = "clerk mom cave start adult black permit royal guard acoustic chef twice";
+var mnemonic = "loop remove afraid story wheel field surge city erase throw hole decorate";

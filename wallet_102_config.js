@@ -1,1 +1,1 @@
-var mnemonic = "excess ostrich quick much tattoo purpose swamp ten detail fine donor inch";
+var mnemonic = "balcony tuna afford almost walnut pumpkin napkin document caught dinosaur nuclear begin";

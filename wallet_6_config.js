@@ -1,1 +1,1 @@
-var mnemonic = "nature broccoli decline increase pond proud smart bracket clerk crunch song floor";
+var mnemonic = "chef chapter express dragon rabbit doll foil spike settle destroy club behave";

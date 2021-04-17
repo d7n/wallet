@@ -1,1 +1,1 @@
-var mnemonic = "cross amateur crater feature direct isolate tape wave trade great speak connect";
+var mnemonic = "spoil vague vital slot check track section theory boss very try lift";

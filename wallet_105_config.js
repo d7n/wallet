@@ -1,1 +1,1 @@
-var mnemonic = "wolf family grid poverty oven screen consider achieve void rude sad gallery";
+var mnemonic = "object mouse soup chicken edge rotate assume record erase matter craft error";

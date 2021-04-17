@@ -1,1 +1,1 @@
-var mnemonic = "bulb supply garlic sleep fuel discover crowd lottery father tragic flag drip";
+var mnemonic = "bus deputy garden march blouse panic across merge apart turtle flag table";

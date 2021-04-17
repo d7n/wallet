@@ -1,1 +1,1 @@
-var mnemonic = "want exclude rifle strategy couch search kick rookie soap shadow old layer";
+var mnemonic = "toss inhale boil walnut bag steak march master auto valley suffer carpet";

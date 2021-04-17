@@ -1,1 +1,1 @@
-var mnemonic = "morning mesh bomb goddess kingdom discover pig prosper cliff reduce mass love";
+var mnemonic = "swap symbol ivory arm item salon icon game suit language cushion wisdom";

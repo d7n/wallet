@@ -1,1 +1,1 @@
-var mnemonic = "clock lamp tilt sweet bright elder project illness document empty over learn";
+var mnemonic = "video february begin situate butter uncle minor brick admit mandate dumb aunt";

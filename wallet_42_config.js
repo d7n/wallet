@@ -1,1 +1,1 @@
-var mnemonic = "extend pipe good target pave tired same annual work eagle muscle expose";
+var mnemonic = "rotate mountain awkward photo electric biology bounce attitude food own donkey enforce";

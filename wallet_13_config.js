@@ -1,1 +1,1 @@
-var mnemonic = "junk dial town skull begin rigid run party boat alcohol glue portion";
+var mnemonic = "thumb position film ill rate primary group wild elevator hollow myth resist";

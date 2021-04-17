@@ -1,1 +1,1 @@
-var mnemonic = "exit credit spread harvest smooth bitter foster manage friend smooth evidence dry";
+var mnemonic = "switch harvest absent crowd fish chimney spare picnic core tube bulk cradle";

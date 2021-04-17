@@ -1,1 +1,1 @@
-var mnemonic = "visual abstract donor poverty predict coyote sell crane course vendor blade devote";
+var mnemonic = "kitten marriage umbrella select intact cat notable human pupil rail vendor asthma";

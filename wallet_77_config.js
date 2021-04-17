@@ -1,1 +1,1 @@
-var mnemonic = "party fetch sea stem glow approve emotion hobby rebel runway tool mirror";
+var mnemonic = "stumble next pyramid nose advance loan file spoil animal poverty state account";

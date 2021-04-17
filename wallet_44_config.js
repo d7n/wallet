@@ -1,1 +1,1 @@
-var mnemonic = "profit net solid method casino limit gorilla spring approve tackle feel strong";
+var mnemonic = "blind venue seat spot motor pattern observe reward come spike occur leader";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs vanish ship midnight entry tribe parrot hobby boy yellow vote cute";
+var mnemonic = "clip toilet spice steel husband axis unfair lake you client multiply cement";

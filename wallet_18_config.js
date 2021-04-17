@@ -1,1 +1,1 @@
-var mnemonic = "moral chair kangaroo chicken brick choice knock service soon mansion tag govern";
+var mnemonic = "orbit myself eternal reunion team key good element limb exotic typical renew";

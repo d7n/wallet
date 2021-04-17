@@ -1,1 +1,1 @@
-var mnemonic = "symptom melt exotic popular snack lumber width earn curious clump build cliff";
+var mnemonic = "lion wall nothing option tiger achieve fragile noodle economy cash lawn start";

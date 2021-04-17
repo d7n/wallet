@@ -1,1 +1,1 @@
-var mnemonic = "worry purpose caution pulp mechanic feel harbor brick donor mix actress monster";
+var mnemonic = "blind awful anchor science youth print mammal response dragon route nuclear robust";

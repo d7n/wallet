@@ -1,1 +1,1 @@
-var mnemonic = "gravity comic offer pass spike unknown off sock weird gravity repair audit";
+var mnemonic = "entire favorite bar birth nest fade sport please icon two denial plate";

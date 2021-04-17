@@ -1,1 +1,1 @@
-var mnemonic = "expect jewel bottom gentle midnight blur leg tiny erupt find plastic deliver";
+var mnemonic = "light horror stay bless senior logic nose oxygen dwarf pupil legal manual";

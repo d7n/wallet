@@ -1,1 +1,1 @@
-var mnemonic = "ankle process large gap federal thing limit when pluck cousin labor acquire";
+var mnemonic = "wage exist undo grab poem ivory traffic exotic purchase maple leisure entire";

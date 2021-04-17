@@ -1,1 +1,1 @@
-var mnemonic = "price silk congress bracket calm clap middle rabbit siege fresh alter glory";
+var mnemonic = "voyage crush asthma frozen quick member wire exhibit enforce kitten gain claw";

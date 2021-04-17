@@ -1,1 +1,1 @@
-var mnemonic = "eagle spirit series pull decorate tomato guide erase labor tennis column visual";
+var mnemonic = "soldier movie narrow deal champion lesson copy flock rebel boy prefer squirrel";

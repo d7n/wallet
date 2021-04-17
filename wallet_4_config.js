@@ -1,1 +1,1 @@
-var mnemonic = "green arrow seat stable lunar paper high sting note shaft thrive silver";
+var mnemonic = "eagle exercise like rose suspect clever clutch music tenant make sure sea";

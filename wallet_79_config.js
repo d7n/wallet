@@ -1,1 +1,1 @@
-var mnemonic = "chat blame sad rude exist electric entire age smart tattoo jelly orphan";
+var mnemonic = "hammer surface phone learn ski shiver strong next balance humble must join";

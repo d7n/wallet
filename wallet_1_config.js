@@ -1,1 +1,1 @@
-var mnemonic = "cruel virtual project genius weird world staff square lava moral album alone";
+var mnemonic = "hand man remind film dynamic basket invest clarify write duck glimpse property";

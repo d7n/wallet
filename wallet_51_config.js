@@ -1,1 +1,1 @@
-var mnemonic = "remember mean dumb whale fossil ignore ship good kitchen access obvious beyond";
+var mnemonic = "huge rate future stay slight peace struggle excess furnace genuine gift woman";

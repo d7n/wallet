@@ -1,1 +1,1 @@
-var mnemonic = "lock denial shrimp goddess speak elbow attitude fall crisp balance reflect west";
+var mnemonic = "mistake comfort meat disagree tank brave despair submit organ lion gesture flock";

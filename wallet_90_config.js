@@ -1,1 +1,1 @@
-var mnemonic = "mix document dish stadium burden panel verify renew bottom race loan nurse";
+var mnemonic = "hollow plunge broccoli proud mass spider adapt people update dwarf pig betray";

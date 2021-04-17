@@ -1,1 +1,1 @@
-var mnemonic = "biology certain churn differ mad shop uncover expose public lecture strike win";
+var mnemonic = "miss news car almost say cement mystery bring allow indoor clarify coil";

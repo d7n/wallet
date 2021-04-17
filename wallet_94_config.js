@@ -1,1 +1,1 @@
-var mnemonic = "donkey sadness educate turkey derive observe energy cook photo canyon option recipe";
+var mnemonic = "mind picture swift device frown divorce region neck sauce security imitate doctor";

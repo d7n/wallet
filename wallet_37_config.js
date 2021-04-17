@@ -1,1 +1,1 @@
-var mnemonic = "dawn turn print prepare this civil flat grid old link copy brief";
+var mnemonic = "kangaroo jazz nice good jaguar report easy kiwi since awesome cigar can";

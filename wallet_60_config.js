@@ -1,1 +1,1 @@
-var mnemonic = "sing arrest absorb peasant chief expect math useful foot sign brass common";
+var mnemonic = "view injury puzzle payment copper space kick glimpse lens vendor leaf stereo";

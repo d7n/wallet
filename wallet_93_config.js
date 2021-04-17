@@ -1,1 +1,1 @@
-var mnemonic = "crowd lottery total senior tiger rival asthma flame diagram paddle start brush";
+var mnemonic = "wonder august myth peace violin shaft kitchen tragic tip little outside reward";

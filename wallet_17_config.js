@@ -1,1 +1,1 @@
-var mnemonic = "churn trouble pattern potato aspect reunion region slot genius obtain unknown that";
+var mnemonic = "master symbol cash phrase cat aim silk ship enemy bench exercise attend";

@@ -1,1 +1,1 @@
-var mnemonic = "hold discover pizza suspect kite twice duty divorce brave coral celery sample";
+var mnemonic = "echo symbol damp that cash pudding alien powder bag abandon rug donkey";

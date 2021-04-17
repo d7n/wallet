@@ -1,1 +1,1 @@
-var mnemonic = "gym crumble burst happy cook empty alley soul suit begin correct slam";
+var mnemonic = "cream urge short pilot allow mesh iron segment organ seek industry sun";

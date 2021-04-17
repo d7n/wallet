@@ -1,1 +1,1 @@
-var mnemonic = "monster blouse symptom blade discover wait dove execute total script garbage demise";
+var mnemonic = "undo tobacco blade silk float mechanic wasp tattoo glove author acquire rain";

@@ -1,1 +1,1 @@
-var mnemonic = "brave among nest again forget general own inner fury enhance doll palace";
+var mnemonic = "chapter cushion family elegant machine document ocean cruise tag sweet seek object";

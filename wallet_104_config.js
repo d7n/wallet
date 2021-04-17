@@ -1,1 +1,1 @@
-var mnemonic = "card green order jacket indoor flush order beauty two upon decrease excite";
+var mnemonic = "midnight rifle noble can oyster impact stable core fiscal pet maple pencil";

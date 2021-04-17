@@ -1,1 +1,1 @@
-var mnemonic = "found win wrap lift asset elegant flock hope carbon north toast floor";
+var mnemonic = "book crouch aware mercy upset indoor feed below bus festival buyer orient";

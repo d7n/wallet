@@ -1,1 +1,1 @@
-var mnemonic = "matrix similar file shiver rude worth insect system grape error cream focus";
+var mnemonic = "impose bottom medal hat barrel hard drum public win casual audit report";

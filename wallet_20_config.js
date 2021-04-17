@@ -1,1 +1,1 @@
-var mnemonic = "business pistol tomato satisfy spawn ostrich stadium output rely vital shrimp path";
+var mnemonic = "idea property dad ensure category hurt cup adult panel protect enjoy memory";

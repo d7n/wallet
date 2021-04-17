@@ -1,1 +1,1 @@
-var mnemonic = "deer squirrel add luggage clock shallow auction narrow worth all kiwi rough";
+var mnemonic = "banner happy clarify stand cover video shield alley marble govern funny pilot";

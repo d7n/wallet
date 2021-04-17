@@ -1,1 +1,1 @@
-var mnemonic = "sweet obvious shield neither warrior jar raccoon toe main word history prize";
+var mnemonic = "engine album luggage demise comic capital luxury erosion defense enrich toilet pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "heart guilt fault uncover shed dust swift frown door ankle picnic screen";
+var mnemonic = "desert deputy club vapor chef lecture together chaos destroy language treat mail";

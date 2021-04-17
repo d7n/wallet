@@ -1,1 +1,1 @@
-var mnemonic = "indicate pilot audit trophy mango slim sudden amount deposit height snack marine";
+var mnemonic = "result copper sign process charge basic awake knee reduce arch pioneer kit";

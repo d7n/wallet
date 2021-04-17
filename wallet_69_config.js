@@ -1,1 +1,1 @@
-var mnemonic = "frown roof horse approve night enemy shiver rubber theme mosquito rabbit mom";
+var mnemonic = "west baby that behind buzz tissue suggest digital nation anger process joke";

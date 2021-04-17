@@ -1,1 +1,1 @@
-var mnemonic = "length pyramid frost toward raccoon rabbit rabbit buyer car express imitate flavor";
+var mnemonic = "case lamp route guess tree document since fork relax rude hold thrive";

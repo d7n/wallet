@@ -1,1 +1,1 @@
-var mnemonic = "mechanic velvet skirt flight tattoo sell tired urban boss trim awesome large";
+var mnemonic = "nurse ordinary method top symptom reflect senior seek problem palm erase amount";

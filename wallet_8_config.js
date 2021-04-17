@@ -1,1 +1,1 @@
-var mnemonic = "damage video chef cabin short fat reveal forward fan that welcome hill";
+var mnemonic = "staff tube help wife elder before current govern mask shock secret spike";

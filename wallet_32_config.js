@@ -1,1 +1,1 @@
-var mnemonic = "ask rack desk opera dirt logic verb stem elite describe brain online";
+var mnemonic = "skull evidence lady father isolate humble industry garlic model invest crumble chronic";

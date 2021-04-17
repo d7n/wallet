@@ -1,1 +1,1 @@
-var mnemonic = "spike syrup open sorry jazz cargo main peanut indicate mother cross enough";
+var mnemonic = "nuclear bone fire solve muffin category suggest cactus estate fit until letter";

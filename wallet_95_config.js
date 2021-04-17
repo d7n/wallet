@@ -1,1 +1,1 @@
-var mnemonic = "vague physical blur core kitchen maid peace embark day near close armed";
+var mnemonic = "strike label camera drift ignore ride summer work flat penalty together staff";

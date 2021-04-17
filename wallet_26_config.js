@@ -1,1 +1,1 @@
-var mnemonic = "ensure venue purpose photo quarter senior doctor grass glue train harbor frame";
+var mnemonic = "orange jelly trim lawsuit dinner material horse often lion receive stem strong";

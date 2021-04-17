@@ -1,1 +1,1 @@
-var mnemonic = "supreme guard relief slam update loyal butter ribbon problem lawn merry please";
+var mnemonic = "garlic involve chest robust attract vault trial huge offer nose unusual farm";

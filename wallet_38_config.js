@@ -1,1 +1,1 @@
-var mnemonic = "sleep current insect merge sell drip fall cloth grow stay panic force";
+var mnemonic = "photo impact noise force hamster appear virus link curious north lizard hand";

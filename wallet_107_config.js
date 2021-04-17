@@ -1,1 +1,1 @@
-var mnemonic = "metal clerk survey champion lazy omit slot lonely nephew quiz whisper remember";
+var mnemonic = "letter enjoy leopard dog inform knock episode story wrong black cube disagree";

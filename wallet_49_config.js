@@ -1,1 +1,1 @@
-var mnemonic = "romance economy dirt pave tip permit hurdle strategy dinner mixture copy laptop";
+var mnemonic = "ladder lobster economy advice trip lazy example forum fancy bicycle capable sick";

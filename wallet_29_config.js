@@ -1,1 +1,1 @@
-var mnemonic = "picture memory powder nature error orphan arm syrup maple congress cloth until";
+var mnemonic = "route icon chair palm vapor among parade kid coyote biology visa game";

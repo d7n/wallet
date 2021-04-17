@@ -1,1 +1,1 @@
-var mnemonic = "hidden invest teach chat paper civil pave sausage uncle tool cactus bless";
+var mnemonic = "buddy year toward drip aspect raven sweet negative infant best eight decade";

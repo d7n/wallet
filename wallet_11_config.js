@@ -1,1 +1,1 @@
-var mnemonic = "kit luxury indoor sweet junior vicious second panic spoon early help urge";
+var mnemonic = "prepare way finger food plug tortoise bamboo act either blue raise basket";

@@ -1,1 +1,1 @@
-var mnemonic = "erase wrestle olive canal hero syrup gold miss vault reform fame float";
+var mnemonic = "coast uncle usual ticket walk task lucky order climb crystal gossip skill";

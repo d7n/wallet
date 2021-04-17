@@ -1,1 +1,1 @@
-var mnemonic = "move cabin uncover victory hawk glue boost cook torch almost twenty dune";
+var mnemonic = "account degree popular blood liberty tissue wheel predict toddler stick raise high";

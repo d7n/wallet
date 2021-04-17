@@ -1,1 +1,1 @@
-var mnemonic = "follow movie mom boy transfer climb normal onion tilt cushion cycle false";
+var mnemonic = "rural twelve border actress patient figure filter enlist scorpion about black sugar";

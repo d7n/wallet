@@ -1,1 +1,1 @@
-var mnemonic = "find attack plate shed advance pattern away warm fancy swim sport craft";
+var mnemonic = "reveal caution scrap stereo chunk artwork category favorite model chat demand occur";

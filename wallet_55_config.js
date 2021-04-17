@@ -1,1 +1,1 @@
-var mnemonic = "search battle neither victory voyage artist spirit chronic confirm sketch aisle student";
+var mnemonic = "tag review avoid base bitter live below crunch defy link robot source";

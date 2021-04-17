@@ -1,1 +1,1 @@
-var mnemonic = "ankle mercy oven best interest ladder balcony capable early alien bring hazard";
+var mnemonic = "off since fade weather any attitude expose title picnic bracket pill hammer";

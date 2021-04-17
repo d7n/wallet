@@ -1,1 +1,1 @@
-var mnemonic = "average frequent thank pulse common rate switch soccer arrange balance fatigue escape";
+var mnemonic = "someone hawk urge reflect bracket hero twist little reject damage proud motion";

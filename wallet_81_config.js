@@ -1,1 +1,1 @@
-var mnemonic = "letter walk comic below slide hand cattle lawn bamboo advice gasp hawk";
+var mnemonic = "devote repair alpha crouch team jealous jungle surface noise detail leader play";

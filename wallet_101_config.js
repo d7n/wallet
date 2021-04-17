@@ -1,1 +1,1 @@
-var mnemonic = "elbow kidney end mule alley cinnamon base hen other tape gentle bone";
+var mnemonic = "noise tunnel fire ugly salt economy father chicken point exile sting garbage";

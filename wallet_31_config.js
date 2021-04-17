@@ -1,1 +1,1 @@
-var mnemonic = "quiz sunny behind top dragon arrest report ship scorpion volume animal hover";
+var mnemonic = "possible predict sound grab various copy empty field make boring oven claim";

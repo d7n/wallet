@@ -1,1 +1,1 @@
-var mnemonic = "cradle movie math canvas brother fabric differ maximum girl curve crime common";
+var mnemonic = "barely opera subject nature excite voice control profit bag void say endorse";
