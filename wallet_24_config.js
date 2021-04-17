@@ -1,1 +1,1 @@
-var mnemonic = "champion live piano tomorrow breeze render stamp banner bag scare target later";
+var mnemonic = "maple enroll topic fire clever universe age leg cycle attack initial cool";

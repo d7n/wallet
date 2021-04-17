@@ -1,1 +1,1 @@
-var mnemonic = "sauce vintage ice doctor wash grace tuition unknown girl broccoli hint wild";
+var mnemonic = "chapter fatigue draft unhappy chronic need latin fortune only motion grape actor";

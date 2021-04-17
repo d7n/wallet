@@ -1,1 +1,1 @@
-var mnemonic = "chuckle grow liar family tackle science library vanish mass nasty ranch glow";
+var mnemonic = "inject wall mass naive swing obey tissue cricket crack giraffe name always";

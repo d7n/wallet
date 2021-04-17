@@ -1,1 +1,1 @@
-var mnemonic = "soup update poet put inch victory anxiety orbit chalk ranch useless exclude";
+var mnemonic = "hawk suit lawn spot pitch fortune mad tunnel correct hospital autumn need";

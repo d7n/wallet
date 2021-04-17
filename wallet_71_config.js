@@ -1,1 +1,1 @@
-var mnemonic = "lazy swallow quiz reduce sweet ritual century rice lab festival morning common";
+var mnemonic = "mesh window science slow next crucial crisp private year trash bachelor stay";

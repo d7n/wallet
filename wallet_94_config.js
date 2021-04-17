@@ -1,1 +1,1 @@
-var mnemonic = "garbage number barrel reveal vapor whale crater guitar lazy panic plunge nurse";
+var mnemonic = "angry wish car wrong rug glove antenna hurt robust develop second ranch";

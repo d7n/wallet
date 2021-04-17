@@ -1,1 +1,1 @@
-var mnemonic = "urge detect wait mail smoke jazz select item asthma fabric leader media";
+var mnemonic = "item idea victory gas danger dad provide flat need midnight hover cotton";

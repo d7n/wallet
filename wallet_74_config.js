@@ -1,1 +1,1 @@
-var mnemonic = "adapt subject useful effort grant strong remember dove penalty stone mandate only";
+var mnemonic = "pact invite mobile joy flush chaos wing farm egg escape match sadness";

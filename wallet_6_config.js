@@ -1,1 +1,1 @@
-var mnemonic = "apology harbor divorce supply cruel prize bird nation rely inner man spring";
+var mnemonic = "coast energy sponsor fox basket narrow april modify paddle favorite defense swap";

@@ -1,1 +1,1 @@
-var mnemonic = "style discover jealous famous lonely meat scissors enforce asthma slam chapter stone";
+var mnemonic = "stone eagle fade bean object garment trade often mechanic track matter athlete";

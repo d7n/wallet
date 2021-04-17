@@ -1,1 +1,1 @@
-var mnemonic = "nut vanish fashion sponsor canyon easy cattle shoe canoe write lava draw";
+var mnemonic = "boil scorpion impose dutch refuse little broken current craft slender elegant potato";

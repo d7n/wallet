@@ -1,1 +1,1 @@
-var mnemonic = "thing airport wait fiscal success common salad kangaroo change cover empty almost";
+var mnemonic = "jazz can about dad bomb moment prize cube scheme cinnamon hawk lyrics";

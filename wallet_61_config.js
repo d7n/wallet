@@ -1,1 +1,1 @@
-var mnemonic = "private review reform helmet window dawn dismiss garage march fluid prepare sponsor";
+var mnemonic = "elegant roast claim source sure win shiver toddler august plastic athlete hen";

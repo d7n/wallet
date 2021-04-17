@@ -1,1 +1,1 @@
-var mnemonic = "master oppose galaxy luggage pupil clip whale ivory panther add culture cluster";
+var mnemonic = "exact sea year wall any diagram ordinary random wage clay blast average";

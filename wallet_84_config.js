@@ -1,1 +1,1 @@
-var mnemonic = "affair upset fire mind rail nerve eye dragon cake hospital creek art";
+var mnemonic = "stool pool ghost reason knee diesel rug box order side together absorb";

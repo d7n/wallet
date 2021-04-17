@@ -1,1 +1,1 @@
-var mnemonic = "approve short palace limb update spoil state dress supreme hamster knife crater";
+var mnemonic = "tell learn member gate defy wide bar emerge wrap harvest badge phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "path marble donate improve addict parade brisk exist bronze risk picnic tissue";
+var mnemonic = "color corn club festival feature scene interest market act stadium letter quantum";

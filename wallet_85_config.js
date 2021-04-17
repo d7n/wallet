@@ -1,1 +1,1 @@
-var mnemonic = "husband minimum emotion atom verb panther task sketch able favorite proud maid";
+var mnemonic = "second eagle estate mobile install minimum old bicycle flee team master verb";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom primary scene produce dirt buyer long favorite come drink beyond behave";
+var mnemonic = "text weapon belt march radio alley cruise one hand fury praise feel";

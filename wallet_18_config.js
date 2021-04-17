@@ -1,1 +1,1 @@
-var mnemonic = "exhaust win arctic receive skate tray strategy wrist razor keep inside basket";
+var mnemonic = "kitten hammer fish agree depend effort gift taxi expect call tiny shy";

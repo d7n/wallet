@@ -1,1 +1,1 @@
-var mnemonic = "notable cricket tonight receive wild hood away two fabric coyote range state";
+var mnemonic = "idea love tree lesson brush slot occur start frozen right gloom table";

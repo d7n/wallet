@@ -1,1 +1,1 @@
-var mnemonic = "relax pair pool damage divert noise bind harvest stick history moral permit";
+var mnemonic = "force liberty tiny pattern warrior vague scrap enact denial february banana autumn";

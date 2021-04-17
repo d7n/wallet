@@ -1,1 +1,1 @@
-var mnemonic = "glad glare victory shed behind real nature lumber develop stay skate raw";
+var mnemonic = "robot unhappy door liberty settle quit nothing avocado feature candy pony mammal";

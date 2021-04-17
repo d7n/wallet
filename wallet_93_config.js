@@ -1,1 +1,1 @@
-var mnemonic = "between mail wear banner catch brass hotel ice decorate limb victory twice";
+var mnemonic = "leisure uncover flock vault canoe garage call lend fantasy join breeze left";

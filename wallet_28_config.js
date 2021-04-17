@@ -1,1 +1,1 @@
-var mnemonic = "retire deputy indoor sign exercise small travel detect blade pioneer asthma describe";
+var mnemonic = "mystery anxiety use thank can scissors brave kiss boy okay friend fury";

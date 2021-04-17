@@ -1,1 +1,1 @@
-var mnemonic = "silk robust response farm pact car three parade clock settle company dish";
+var mnemonic = "improve lyrics sister select fresh bounce impose follow secret olympic piece rubber";

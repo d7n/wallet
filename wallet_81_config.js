@@ -1,1 +1,1 @@
-var mnemonic = "inherit movie muffin vivid pipe shove spell wise spirit beef horn reunion";
+var mnemonic = "base recycle amused rude canoe velvet defense crucial siren hungry twist purchase";

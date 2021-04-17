@@ -1,1 +1,1 @@
-var mnemonic = "lobster lunar cheese negative fashion minute announce brick damp galaxy dune trigger";
+var mnemonic = "space very base found draw robust delay item trap height word head";

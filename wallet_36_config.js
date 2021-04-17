@@ -1,1 +1,1 @@
-var mnemonic = "cycle loud manual symptom produce fresh jeans sample sing wheel rifle unveil";
+var mnemonic = "knee then fever board vivid deny void tide joy display horn chef";

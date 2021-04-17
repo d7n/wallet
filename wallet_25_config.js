@@ -1,1 +1,1 @@
-var mnemonic = "slam home more there thunder blur immune angry adult cheap tail soda";
+var mnemonic = "network click inmate fault first harvest width length soon cabin multiply peanut";

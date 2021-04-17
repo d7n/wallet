@@ -1,1 +1,1 @@
-var mnemonic = "reopen relax immense border woman foster flock enjoy prevent stand vanish nose";
+var mnemonic = "help exit power end offer sunset modify eye lonely pill denial ball";

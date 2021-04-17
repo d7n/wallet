@@ -1,1 +1,1 @@
-var mnemonic = "laundry ribbon usual happy brisk feed balcony gorilla illness hollow shed wash";
+var mnemonic = "town sight scene vacuum grant vote angry group fiction scout insect phone";

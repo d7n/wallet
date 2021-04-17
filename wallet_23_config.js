@@ -1,1 +1,1 @@
-var mnemonic = "month size laugh during child level project strike tape hood impact now";
+var mnemonic = "taste steak estate eagle puppy credit excuse area discover lock ability unusual";

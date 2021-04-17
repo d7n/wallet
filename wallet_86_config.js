@@ -1,1 +1,1 @@
-var mnemonic = "east rely enable adjust soda skate trim mobile dinosaur area butter term";
+var mnemonic = "cable crystal brisk world bird frame belt group vicious prize magnet inflict";

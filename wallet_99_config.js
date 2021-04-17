@@ -1,1 +1,1 @@
-var mnemonic = "region sausage song loop office mixture kiss keen client cattle solve vague";
+var mnemonic = "fever wild join endorse stick cushion faculty jump airport oxygen toward loyal";

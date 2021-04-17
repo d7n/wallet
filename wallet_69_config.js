@@ -1,1 +1,1 @@
-var mnemonic = "lonely mixed tumble table taxi rice flip thank spread garden movie actress";
+var mnemonic = "lesson junk upgrade indicate spin never desert roast hobby install token gather";

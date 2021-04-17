@@ -1,1 +1,1 @@
-var mnemonic = "kick remove glove pepper hello swim true drift warm census travel know";
+var mnemonic = "void music achieve second bachelor mixture perfect camera hamster alley loan grit";

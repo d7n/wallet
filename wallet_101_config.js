@@ -1,1 +1,1 @@
-var mnemonic = "fantasy distance moon neutral differ chat social quote dinner success time sudden";
+var mnemonic = "analyst destroy anxiety fork mushroom guard breeze neglect brush stamp bring clean";

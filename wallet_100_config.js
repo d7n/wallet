@@ -1,1 +1,1 @@
-var mnemonic = "wood abuse acquire lonely seek kick empower output raccoon bargain piece hurry";
+var mnemonic = "web parade reopen focus capable sponsor screen school fabric phone armor table";

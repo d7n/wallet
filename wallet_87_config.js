@@ -1,1 +1,1 @@
-var mnemonic = "fever turn trap mom civil meadow pepper color trigger runway traffic pool";
+var mnemonic = "urban ready act piano output hurry cinnamon base nation bulb drop thought";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon symbol report program minute nerve volcano mandate valid dish ritual smile";
+var mnemonic = "initial sponsor goddess damp urge kit hurry risk sadness moon rack balcony";

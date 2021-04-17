@@ -1,1 +1,1 @@
-var mnemonic = "reduce street early pupil uncover amateur salmon blast slender together pepper expire";
+var mnemonic = "gate rural level helmet replace neglect because lion twin divide rack fire";

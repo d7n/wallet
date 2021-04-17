@@ -1,1 +1,1 @@
-var mnemonic = "edge fiscal angle valley dash punch muscle color crucial umbrella rapid they";
+var mnemonic = "canoe whisper stable attract glass van into little dawn test rude cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard long kite monitor valve inside slice blast decade harvest despair neither";
+var mnemonic = "betray world across fame garage hungry sudden address brisk remember tonight verb";

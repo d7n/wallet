@@ -1,1 +1,1 @@
-var mnemonic = "churn spawn base before dizzy coil square income race retreat uniform endless";
+var mnemonic = "assist loop velvet fork grape vibrant inflict quantum rough wrist caught shaft";

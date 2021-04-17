@@ -1,1 +1,1 @@
-var mnemonic = "load course private company bottom slim insect sick school casual prosper hole";
+var mnemonic = "point witness ride beauty wasp barrel edit elder plastic used dynamic boost";

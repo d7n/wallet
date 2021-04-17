@@ -1,1 +1,1 @@
-var mnemonic = "inner speed shock switch ginger mercy pistol enemy live crazy profit view";
+var mnemonic = "symbol turkey pioneer negative hero layer use avoid debate measure man cushion";

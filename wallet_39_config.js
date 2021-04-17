@@ -1,1 +1,1 @@
-var mnemonic = "hope leader motor fly tag regret affair edge time okay winter dad";
+var mnemonic = "load crumble act street cook atom robust trumpet shock elephant struggle liquid";

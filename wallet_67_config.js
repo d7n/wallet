@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit spy calm sweet sheriff rug trade name head arch draft noodle";
+var mnemonic = "arch mobile rotate hundred thought couple annual certain worth hat casino crunch";

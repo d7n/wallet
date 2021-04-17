@@ -1,1 +1,1 @@
-var mnemonic = "devote pencil produce trumpet drift march brown remain inspire universe rib seed";
+var mnemonic = "visa spider grit accident exhibit fortune tackle sweet tail victory ranch stand";

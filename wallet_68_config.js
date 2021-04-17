@@ -1,1 +1,1 @@
-var mnemonic = "dove explain jungle ginger current save slow silver tenant laptop nasty marine";
+var mnemonic = "address clarify bundle fat skate whisper scrub build gap element envelope drastic";

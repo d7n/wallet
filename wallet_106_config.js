@@ -1,1 +1,1 @@
-var mnemonic = "fog roast exist guide buyer trigger unique satisfy elite hint domain cover";
+var mnemonic = "split truly useless answer unlock spoil refuse circle balance snack cave trust";

@@ -1,1 +1,1 @@
-var mnemonic = "section weather usage call brush spike scheme champion oak unable rescue stool";
+var mnemonic = "squirrel route north puzzle dawn pelican empty cabbage tissue game ticket hamster";

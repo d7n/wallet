@@ -1,1 +1,1 @@
-var mnemonic = "year monkey decorate wall client walk uphold snake calm you empower recipe";
+var mnemonic = "oven half chest bean shoot deer over brother pyramid blade diary remain";

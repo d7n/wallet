@@ -1,1 +1,1 @@
-var mnemonic = "reject wisdom flag evolve small device junk police swing fitness wall cricket";
+var mnemonic = "point rice erosion erosion onion area budget clog mom bone dilemma side";

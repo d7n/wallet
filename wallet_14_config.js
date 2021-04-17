@@ -1,1 +1,1 @@
-var mnemonic = "choose smoke kick diagram upset about cable desert idle moral inside receive";
+var mnemonic = "brave fruit regret swamp camera nurse satoshi frog laundry ecology squeeze make";

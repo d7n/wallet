@@ -1,1 +1,1 @@
-var mnemonic = "goose grocery search hundred choose direct away napkin shrimp curve fix lottery";
+var mnemonic = "practice cube slam cook inch mobile foot wink shaft wrap goddess grain";

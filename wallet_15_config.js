@@ -1,1 +1,1 @@
-var mnemonic = "wolf kingdom remain coach awkward song envelope valve walnut ancient fortune endless";
+var mnemonic = "next output faint quality puppy voice already sugar elder vital slice march";

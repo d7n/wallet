@@ -1,1 +1,1 @@
-var mnemonic = "equip physical stomach ethics index entry save eye topic hope prosper rebel";
+var mnemonic = "firm urge crowd key cushion marine top stick load bridge discover exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan indoor member say truly sponsor desert sea catalog loan prepare earn";
+var mnemonic = "mimic subway occur lion car fire mechanic more crime barrel emotion fever";

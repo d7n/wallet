@@ -1,1 +1,1 @@
-var mnemonic = "cargo crowd shield legend cook empty fever attract select peanut delay extend";
+var mnemonic = "trade nerve lottery radar joke flash crazy onion desert kangaroo egg mask";

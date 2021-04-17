@@ -1,1 +1,1 @@
-var mnemonic = "vapor organ notice spice opera antique melt box bar begin enemy update";
+var mnemonic = "churn pause above bubble bullet final grit dog merge lunch apple affair";

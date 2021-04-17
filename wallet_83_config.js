@@ -1,1 +1,1 @@
-var mnemonic = "legend audit nominee donor letter stick meat crop moment arm fault drop";
+var mnemonic = "blush pool oven either when select destroy crawl addict train pelican increase";

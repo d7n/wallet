@@ -1,1 +1,1 @@
-var mnemonic = "spirit fashion sort squirrel girl cannon hope strong hungry range tree discover";
+var mnemonic = "warrior movie click indicate ocean two senior loud ramp hair chair machine";

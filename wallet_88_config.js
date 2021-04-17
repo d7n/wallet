@@ -1,1 +1,1 @@
-var mnemonic = "always special inside page disease pledge birth volume mesh old slender control";
+var mnemonic = "engage blood pet general express curtain jelly label brisk series label still";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic exit library vintage clip amount enjoy fit torch pink filter balance";
+var mnemonic = "path trial hour airport wrist decorate rely total become gather such radio";

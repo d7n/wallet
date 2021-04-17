@@ -1,1 +1,1 @@
-var mnemonic = "cover expire muscle winner perfect exist eternal reveal else gold much basic";
+var mnemonic = "gym salmon family limit trash eternal tent later snake milk case scrub";

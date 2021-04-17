@@ -1,1 +1,1 @@
-var mnemonic = "total beef detect gaze burger surround like hunt pipe state bright rice";
+var mnemonic = "jazz uncle goose creek mercy avocado physical catalog mystery vehicle unaware foil";

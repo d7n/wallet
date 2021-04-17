@@ -1,1 +1,1 @@
-var mnemonic = "bottom master angry poem repair spring hover bitter dune man double dove";
+var mnemonic = "item caution area gold oval gadget cash pattern swarm estate vague bracket";

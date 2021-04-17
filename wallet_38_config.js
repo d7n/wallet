@@ -1,1 +1,1 @@
-var mnemonic = "cup shove galaxy buyer swing cabin fantasy gravity fiction method attend panda";
+var mnemonic = "pear leopard picnic sound loan heart century dose post theory harbor whisper";

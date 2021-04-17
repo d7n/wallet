@@ -1,1 +1,1 @@
-var mnemonic = "run search total inject machine obtain merge grit permit ranch double black";
+var mnemonic = "write salon stock rebuild outside sword tourist wear expire resemble river resemble";

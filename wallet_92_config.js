@@ -1,1 +1,1 @@
-var mnemonic = "luggage check dash drift motor legend pilot nerve able oak sort resemble";
+var mnemonic = "increase protect sure confirm during warrior love maze orchard almost indicate promote";

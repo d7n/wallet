@@ -1,1 +1,1 @@
-var mnemonic = "portion drip salon bacon garage mean autumn fantasy record galaxy rent security";
+var mnemonic = "typical sunny over cabin banana maple believe cook stage universe oak catch";

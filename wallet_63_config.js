@@ -1,1 +1,1 @@
-var mnemonic = "carry switch swear slice dose other three practice opera basic prefer sand";
+var mnemonic = "dinner top install culture shock tray injury license okay offer lady spoon";

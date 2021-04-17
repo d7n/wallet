@@ -1,1 +1,1 @@
-var mnemonic = "panda tobacco mountain unusual divide vocal daring web best question town chalk";
+var mnemonic = "basket alcohol someone rookie pink print expand cause devote cement shrimp hill";

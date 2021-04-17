@@ -1,1 +1,1 @@
-var mnemonic = "mind bachelor expose skull urban panel pencil sentence plate clap inquiry mansion";
+var mnemonic = "among garden defense stomach degree ensure mask lunch excess price voice crop";

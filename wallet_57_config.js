@@ -1,1 +1,1 @@
-var mnemonic = "sniff alarm equip finish report piece bachelor leaf bunker proof elevator purpose";
+var mnemonic = "impact hungry because average profit front grain whip mammal wrap marble inflict";

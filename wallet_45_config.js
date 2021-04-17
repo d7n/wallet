@@ -1,1 +1,1 @@
-var mnemonic = "defy around change machine digital hand then drip category wasp neck robot";
+var mnemonic = "blush spoil man bamboo stumble renew blood sister convince hair ritual flame";
