@@ -1,1 +1,1 @@
-var mnemonic = "crew promote finger plastic relief civil busy later trigger lion gloom gate";
+var mnemonic = "fan donkey tragic space orphan burden melody cake have churn clump royal";

@@ -1,1 +1,1 @@
-var mnemonic = "switch awesome invest custom capable thumb desk lumber guess bar put mosquito";
+var mnemonic = "clown yellow clutch humor same armor endless parent resist plug nice exist";

@@ -1,1 +1,1 @@
-var mnemonic = "siren cereal truck jewel raw walk repeat fade quarter once stove curve";
+var mnemonic = "board scene laundry notable dry crew empower nurse umbrella about play emerge";

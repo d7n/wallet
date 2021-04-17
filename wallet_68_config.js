@@ -1,1 +1,1 @@
-var mnemonic = "gasp produce dentist crew toy gaze memory effort drift float hard island";
+var mnemonic = "always cereal wrist rude assault feel dash narrow genius black urge blast";

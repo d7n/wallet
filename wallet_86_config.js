@@ -1,1 +1,1 @@
-var mnemonic = "deputy special wood purchase ordinary jungle glass flat armed actress attend unhappy";
+var mnemonic = "only walnut dolphin stock sea naive nose pink add strategy coconut welcome";

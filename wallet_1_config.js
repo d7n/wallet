@@ -1,1 +1,1 @@
-var mnemonic = "paper bus injury deputy parade action pulp ramp hover stumble foot success";
+var mnemonic = "cactus educate cheap coast frown student slice debate butter unique supply public";

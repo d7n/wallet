@@ -1,1 +1,1 @@
-var mnemonic = "receive know february chest unfold smoke lizard ribbon suspect sea gallery chase";
+var mnemonic = "antique jeans drop snow news tomato example extend acoustic island sand lift";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum another phrase title violin couple refuse alone hunt document defense grant";
+var mnemonic = "shop prison track hundred fox segment drastic mouse answer split used move";

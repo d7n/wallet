@@ -1,1 +1,1 @@
-var mnemonic = "pyramid find clean laundry basic day can ribbon embark shoe peanut love";
+var mnemonic = "area float morning disagree captain grass shiver burger fault devote coin round";

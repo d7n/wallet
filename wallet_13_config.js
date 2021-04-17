@@ -1,1 +1,1 @@
-var mnemonic = "rack slot cotton dove vocal neck alcohol unveil food brave motion fortune";
+var mnemonic = "arm gloom dirt shy kind concert empty video isolate false prevent wealth";

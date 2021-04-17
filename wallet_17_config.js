@@ -1,1 +1,1 @@
-var mnemonic = "top raccoon endless indoor there goddess awake jaguar pass shuffle tired any";
+var mnemonic = "source village annual child bullet verb citizen certain involve era sell door";

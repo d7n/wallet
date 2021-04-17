@@ -1,1 +1,1 @@
-var mnemonic = "purse aim bulb can gold fire limb couple shrug artist draw response";
+var mnemonic = "hood decade invite acoustic gadget chunk stool brush leopard close release powder";

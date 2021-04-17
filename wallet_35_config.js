@@ -1,1 +1,1 @@
-var mnemonic = "brisk chest gorilla cake tornado uncle episode vintage matter obey biology economy";
+var mnemonic = "bread capital sing scare couple adjust extend parade gap shoe figure pudding";

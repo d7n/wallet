@@ -1,1 +1,1 @@
-var mnemonic = "base then job average length flavor vanish shield law plunge inform skirt";
+var mnemonic = "job rich mention robust lawsuit own renew cactus design suffer hockey crawl";

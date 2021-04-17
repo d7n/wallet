@@ -1,1 +1,1 @@
-var mnemonic = "empty equip goat obey disorder feel misery puzzle reward feature foam stool";
+var mnemonic = "fury cigar rally point shoe occur mixture upset jar library spread blush";

@@ -1,1 +1,1 @@
-var mnemonic = "clump royal panel actress devote canvas clock mandate devote cricket solve fork";
+var mnemonic = "travel elegant drastic list giraffe observe trophy math green junk vault govern";

@@ -1,1 +1,1 @@
-var mnemonic = "stay world riot island behind sad again type alarm confirm scorpion view";
+var mnemonic = "similar portion unlock impulse wing explain decide bus swim letter coffee demand";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial waste prosper damage today rely hat mansion brain drastic borrow rubber";
+var mnemonic = "hundred legal conduct antique example rib arm breeze stadium warrior rather castle";

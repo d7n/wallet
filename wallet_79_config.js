@@ -1,1 +1,1 @@
-var mnemonic = "round yard neither copper oak stuff juice subject security brush century stone";
+var mnemonic = "indicate add age olive jump outer goose already tank affair normal meadow";

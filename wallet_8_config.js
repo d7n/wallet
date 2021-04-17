@@ -1,1 +1,1 @@
-var mnemonic = "squirrel park letter jar ugly simple voyage canvas ten cave bonus purity";
+var mnemonic = "update club girl curious cube vault wool talk enter exotic side tag";

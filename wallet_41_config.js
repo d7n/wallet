@@ -1,1 +1,1 @@
-var mnemonic = "appear glance swap recycle sting want panel prevent upon sight fragile vague";
+var mnemonic = "item fossil connect sponsor inhale tissue conduct leader cinnamon wife ugly own";

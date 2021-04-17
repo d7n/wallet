@@ -1,1 +1,1 @@
-var mnemonic = "invite toward wedding wheel oil strategy cause bamboo owner bag salad mountain";
+var mnemonic = "twenty veteran choose march hobby path make warfare sorry choose resource soft";

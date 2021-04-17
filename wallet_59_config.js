@@ -1,1 +1,1 @@
-var mnemonic = "warm engine behave machine romance april undo corn coral cup unusual regular";
+var mnemonic = "account puppy learn clip electric also roof share certain aunt drill surge";

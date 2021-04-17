@@ -1,1 +1,1 @@
-var mnemonic = "inherit captain leisure trouble inspire label choose lobster odor clown myth initial";
+var mnemonic = "cup device airport harvest erosion achieve blame crash parent give verb win";

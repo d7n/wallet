@@ -1,1 +1,1 @@
-var mnemonic = "nature fatal update trip eyebrow burst practice model today close front pair";
+var mnemonic = "excess treat today fetch code hurt shaft rescue shield clutch tool jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel code casual column possible steel nephew lock cruise dial inflict slender";
+var mnemonic = "inject stereo perfect lunch client suit ready test pilot swarm tonight bitter";

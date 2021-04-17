@@ -1,1 +1,1 @@
-var mnemonic = "reform brave cinnamon harvest season aisle denial outdoor topple mask dash fatigue";
+var mnemonic = "insane heart girl female hero calm ignore vacuum select valley trust diagram";

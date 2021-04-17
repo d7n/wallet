@@ -1,1 +1,1 @@
-var mnemonic = "reveal across urge pyramid ranch open tape churn solution equal wrist payment";
+var mnemonic = "horse assume stone cloud service expand lawn warfare maid screen magnet industry";

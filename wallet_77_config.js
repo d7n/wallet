@@ -1,1 +1,1 @@
-var mnemonic = "chicken brother pass claim trash valid involve cage aware style used meat";
+var mnemonic = "word label promote beef brass fog congress sick veteran injury relief main";

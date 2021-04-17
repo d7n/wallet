@@ -1,1 +1,1 @@
-var mnemonic = "renew country candy trend image cactus afford leave warrior crew ancient spend";
+var mnemonic = "episode appear stuff payment hero alien ride shaft actress found fiction puzzle";

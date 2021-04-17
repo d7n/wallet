@@ -1,1 +1,1 @@
-var mnemonic = "harsh guess insect faith turn journey lawsuit casual young olympic puppy skull";
+var mnemonic = "that dinosaur tape boost medal anger bunker mention tool icon genius power";

@@ -1,1 +1,1 @@
-var mnemonic = "arena fog exist early virus about resist ancient senior raw rotate vote";
+var mnemonic = "result unknown exit recipe intact ghost dawn toward great opinion alone sound";

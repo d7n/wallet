@@ -1,1 +1,1 @@
-var mnemonic = "cliff all giant olympic fabric van puppy crop what police possible parade";
+var mnemonic = "day bid attack guilt novel curtain clip canoe sell section ready sniff";

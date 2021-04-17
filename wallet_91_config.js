@@ -1,1 +1,1 @@
-var mnemonic = "risk slice citizen media donate cave grain hammer race prepare silk entry";
+var mnemonic = "ring frame check analyst faculty hunt gaze force welcome idea expand club";

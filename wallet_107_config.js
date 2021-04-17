@@ -1,1 +1,1 @@
-var mnemonic = "salute regular cruel ankle sadness cause scene strong about bottom sense verb";
+var mnemonic = "wrap ivory glare sister float title express guide much satoshi brain gentle";

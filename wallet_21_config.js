@@ -1,1 +1,1 @@
-var mnemonic = "poverty morning assist head virus margin verb noble same south sleep theory";
+var mnemonic = "trial hold hero you observe mule slogan high cube burst umbrella cloud";

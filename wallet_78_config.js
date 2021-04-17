@@ -1,1 +1,1 @@
-var mnemonic = "excite reward word inspire danger unable story notable crumble order poverty fresh";
+var mnemonic = "female inquiry clock proof also team have cloth escape remind cricket wealth";

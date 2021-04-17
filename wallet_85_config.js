@@ -1,1 +1,1 @@
-var mnemonic = "vote exhaust airport lottery valid choose treat inner view process sure swarm";
+var mnemonic = "that unaware huge bottom reflect fly hungry wall wonder right hurt dream";

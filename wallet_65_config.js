@@ -1,1 +1,1 @@
-var mnemonic = "blur swing curtain elevator kitchen ribbon roast want sad proud top unhappy";
+var mnemonic = "rate lion pepper palace fatal bread drastic chicken spider become addict face";

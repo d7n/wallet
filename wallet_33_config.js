@@ -1,1 +1,1 @@
-var mnemonic = "nominee vessel cage veteran private shine rather coconut giant diamond warfare best";
+var mnemonic = "ball hello frequent ecology lumber lawsuit grape amateur supreme unable gentle rely";

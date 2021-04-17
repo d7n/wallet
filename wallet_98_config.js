@@ -1,1 +1,1 @@
-var mnemonic = "merge size shed affair never elbow wave crawl rent coral sleep super";
+var mnemonic = "coral dress liberty album million curtain tongue then about laugh urge winter";

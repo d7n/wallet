@@ -1,1 +1,1 @@
-var mnemonic = "inquiry top bar gossip chaos inside trophy blame gravity champion knife learn";
+var mnemonic = "business start mass rubber city oven almost fever daring champion brand speak";

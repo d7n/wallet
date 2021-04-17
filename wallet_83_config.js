@@ -1,1 +1,1 @@
-var mnemonic = "distance pizza dress true glass kingdom code bubble hawk warm quantum crawl";
+var mnemonic = "oval donor half negative bag regular sell example regular cool pulse unknown";

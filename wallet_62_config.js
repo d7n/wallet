@@ -1,1 +1,1 @@
-var mnemonic = "woman open fiscal stomach vast cover sweet board floor wheel faith zoo";
+var mnemonic = "plug afford toilet range verify stone coil exercise relax clock distance energy";

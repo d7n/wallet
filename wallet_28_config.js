@@ -1,1 +1,1 @@
-var mnemonic = "thing exhibit universe mom dial camera middle tackle heavy cheese comfort where";
+var mnemonic = "office tooth frame salmon paddle interest category fitness scatter betray aisle infant";

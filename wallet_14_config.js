@@ -1,1 +1,1 @@
-var mnemonic = "jewel cereal senior wrong repeat drastic member ecology boil vote enemy beach";
+var mnemonic = "catalog actor fiction crouch viable another fiscal course access ancient become assault";

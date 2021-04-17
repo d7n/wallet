@@ -1,1 +1,1 @@
-var mnemonic = "club essence toy foam beauty team result pizza people rival genuine float";
+var mnemonic = "husband history east juice gauge sheriff magic cake library bachelor maid enact";

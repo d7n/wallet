@@ -1,1 +1,1 @@
-var mnemonic = "morning stage bitter anchor treat mom spare subway six powder grit flame";
+var mnemonic = "sleep gown flat click cigar example dynamic goat unveil grit concert firm";

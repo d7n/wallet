@@ -1,1 +1,1 @@
-var mnemonic = "twelve add frog artist force hybrid roast cave choice pizza iron farm";
+var mnemonic = "when jazz attend have wash body nerve hole rabbit fame unit stove";

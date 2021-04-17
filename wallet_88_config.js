@@ -1,1 +1,1 @@
-var mnemonic = "grass zoo powder radar panel dismiss amateur protect fog vessel bus web";
+var mnemonic = "indicate marriage welcome donkey decrease space old steak fun public item immune";

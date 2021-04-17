@@ -1,1 +1,1 @@
-var mnemonic = "canvas small shiver you cabbage coin grocery damage town bridge orient wire";
+var mnemonic = "private common age cost sunset post large cruel setup detect devote attend";

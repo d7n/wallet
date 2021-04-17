@@ -1,1 +1,1 @@
-var mnemonic = "hurt relief used stick census smart fever north staff market olympic nasty";
+var mnemonic = "tray secret oven visual shield wing lunch tuna repeat unlock host peasant";

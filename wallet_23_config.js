@@ -1,1 +1,1 @@
-var mnemonic = "key transfer loyal valve lock force portion neither dash usage future segment";
+var mnemonic = "scan start worth wear orphan stem ceiling merge salon universe such sense";

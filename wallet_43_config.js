@@ -1,1 +1,1 @@
-var mnemonic = "column sister nation hair casino disorder all boost area armed fix amount";
+var mnemonic = "brass census outer siren jacket mystery reduce food exile slim ring spray";

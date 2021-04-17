@@ -1,1 +1,1 @@
-var mnemonic = "comic front cute turtle praise evoke loyal kick loop head almost poet";
+var mnemonic = "giant slight notable fold half fitness young van thought pool island top";

@@ -1,1 +1,1 @@
-var mnemonic = "marble cry large source convince script common cabbage mail buyer mercy waste";
+var mnemonic = "fiber park shoe apart finger advance connect cart gift employ galaxy aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "initial innocent clerk path crop dial stock service fox gown major dolphin";
+var mnemonic = "hard tattoo banner object race trigger patch salute kite country install improve";

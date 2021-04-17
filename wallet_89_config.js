@@ -1,1 +1,1 @@
-var mnemonic = "quick into impose flash throw random gospel ill sleep obey approve scrub";
+var mnemonic = "lumber need layer phone wink panther spike mushroom cabbage deer badge toss";

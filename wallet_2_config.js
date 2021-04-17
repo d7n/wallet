@@ -1,1 +1,1 @@
-var mnemonic = "size bargain inspire mother punch illness path hockey control rib visual canvas";
+var mnemonic = "age clinic worry hedgehog hover decide nurse fat stamp author champion lunar";

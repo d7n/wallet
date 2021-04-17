@@ -1,1 +1,1 @@
-var mnemonic = "panic humor jeans unknown cat teach dose tuna license million prepare minute";
+var mnemonic = "inject gentle sport gun grief travel chat ski stereo page arrange math";

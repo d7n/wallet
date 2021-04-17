@@ -1,1 +1,1 @@
-var mnemonic = "crush dilemma excuse economy dad clown treat upset pilot pony simple magnet";
+var mnemonic = "hamster ripple donkey drive unlock panther tube pigeon fatal gloom unhappy garage";

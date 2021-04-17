@@ -1,1 +1,1 @@
-var mnemonic = "expose radar perfect choose dirt rigid april excuse uphold flush tunnel trade";
+var mnemonic = "table multiply drastic buyer dice layer topic poet demand pen park blush";

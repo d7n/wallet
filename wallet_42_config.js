@@ -1,1 +1,1 @@
-var mnemonic = "tissue sell stand parade language struggle cute scrub spread member fold upon";
+var mnemonic = "bag refuse swim weekend tape hammer ocean hunt bomb hill asset elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "loop gold quantum conduct plate talent arrange chair talk cool bean lawsuit";
+var mnemonic = "business resist chase crouch risk peasant acoustic please frog rough avocado ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "want gold patrol trust cable pencil memory lock advice indicate wonder path";
+var mnemonic = "gym ozone pottery become model latin anchor gift token lazy term dish";

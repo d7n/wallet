@@ -1,1 +1,1 @@
-var mnemonic = "garbage melt welcome hood become consider club cupboard hello siege fun magnet";
+var mnemonic = "hero salmon dawn patrol boy despair cigar museum spoon stable picnic prefer";

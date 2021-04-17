@@ -1,1 +1,1 @@
-var mnemonic = "impact song fork ordinary better skull match kiss melody duck door like";
+var mnemonic = "scheme divorce agent before brass barrel doctor useful catch asset unhappy advice";

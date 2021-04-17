@@ -1,1 +1,1 @@
-var mnemonic = "net tide distance wrong addict jaguar debris tape narrow name sausage cook";
+var mnemonic = "only nephew medal suggest split winner oppose blossom nice depth vessel cannon";

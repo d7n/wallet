@@ -1,1 +1,1 @@
-var mnemonic = "depth creek net involve magic illegal canal child cable reflect female glue";
+var mnemonic = "giggle squirrel physical crucial pupil castle obey scheme stadium three inmate issue";

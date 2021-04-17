@@ -1,1 +1,1 @@
-var mnemonic = "genius stairs steak trumpet gasp enroll fortune cube main nation stomach crater";
+var mnemonic = "venture ignore delay problem chuckle picture price wave flock melt seminar vintage";

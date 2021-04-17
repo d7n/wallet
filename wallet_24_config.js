@@ -1,1 +1,1 @@
-var mnemonic = "engine segment robust panic trash oyster frog end giant guide milk arrive";
+var mnemonic = "salmon alley trade gadget film paddle option month shallow dad book because";

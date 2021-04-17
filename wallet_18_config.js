@@ -1,1 +1,1 @@
-var mnemonic = "column flip retreat urban banner bargain bench loop debate save easy maple";
+var mnemonic = "leave blue lonely enough fatal weird faint bomb decide lunar control access";

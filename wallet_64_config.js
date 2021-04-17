@@ -1,1 +1,1 @@
-var mnemonic = "assault duty artist useful mountain describe mammal hollow bounce bundle pear drift";
+var mnemonic = "theory skull shoot pave hole loud kitchen push fluid satisfy more glory";

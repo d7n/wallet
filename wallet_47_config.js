@@ -1,1 +1,1 @@
-var mnemonic = "point crumble express empower version boat stand waste laugh gorilla history warm";
+var mnemonic = "bless urban dignity belt envelope champion script garden apology bean pet young";

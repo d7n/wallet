@@ -1,1 +1,1 @@
-var mnemonic = "vague rapid recipe labor anxiety become deputy kitten garbage canvas page crowd";
+var mnemonic = "dad fiction stomach swallow demand oblige edit breeze boil across regular what";

@@ -1,1 +1,1 @@
-var mnemonic = "congress canoe puzzle lizard truth struggle garage whisper special alert lava follow";
+var mnemonic = "foot ozone liquid tissue fabric candy summer alter lawn ahead another grow";

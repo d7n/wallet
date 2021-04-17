@@ -1,1 +1,1 @@
-var mnemonic = "capable ugly tool style wasp truth lecture duty song eagle reject basket";
+var mnemonic = "borrow planet gym diamond vessel benefit cable rib utility silent still north";

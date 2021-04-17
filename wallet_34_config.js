@@ -1,1 +1,1 @@
-var mnemonic = "veteran fantasy okay popular pair liberty confirm fork material horn punch reduce";
+var mnemonic = "resemble fade into expose able wood castle awake rookie surge chest dragon";

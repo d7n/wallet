@@ -1,1 +1,1 @@
-var mnemonic = "already icon steak equal spot misery venture awful cable evoke exact monitor";
+var mnemonic = "page maze oil fun tuna seat sound eye pulse squirrel mixture uphold";

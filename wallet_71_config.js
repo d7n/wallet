@@ -1,1 +1,1 @@
-var mnemonic = "diagram drive kind mixture minimum enforce note shop spin slot jazz zoo";
+var mnemonic = "donor enhance tooth noble agree insane decade strategy scrap win quote mushroom";

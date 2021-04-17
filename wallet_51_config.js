@@ -1,1 +1,1 @@
-var mnemonic = "hand violin pen intact salon dinosaur stable income police snake luggage spare";
+var mnemonic = "list slice draft patient treat rent spend choice lumber noise priority mistake";

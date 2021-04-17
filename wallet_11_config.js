@@ -1,1 +1,1 @@
-var mnemonic = "escape horse sand cradle travel chef trigger sadness artist appear leader deer";
+var mnemonic = "spider judge photo coil order axis patch matter south direct margin defense";

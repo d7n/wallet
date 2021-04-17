@@ -1,1 +1,1 @@
-var mnemonic = "half parent spice ring flavor raven degree vault awesome ranch genuine oppose";
+var mnemonic = "shop since lend rally race rice afraid timber render effort cash crunch";

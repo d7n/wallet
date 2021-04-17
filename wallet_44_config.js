@@ -1,1 +1,1 @@
-var mnemonic = "legal layer hollow fiber already asset kiss wheat hotel modify exclude deliver";
+var mnemonic = "cancel grit weekend order happy decorate month coin satisfy title coffee era";

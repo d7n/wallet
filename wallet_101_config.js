@@ -1,1 +1,1 @@
-var mnemonic = "pluck atom few this pepper crush bright craft prevent position will wet";
+var mnemonic = "reopen gospel boil south north rubber benefit make potato bread mixture suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt snack twelve door speak wage crowd depart hospital keep century fish";
+var mnemonic = "chase doll knock improve book torch moral episode thank wool off seminar";
