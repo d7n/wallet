@@ -1,1 +1,1 @@
-var mnemonic = "toss inhale boil walnut bag steak march master auto valley suffer carpet";
+var mnemonic = "beyond desert indicate moon attack prosper drama dragon hole spin rebel empower";

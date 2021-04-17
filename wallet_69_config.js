@@ -1,1 +1,1 @@
-var mnemonic = "west baby that behind buzz tissue suggest digital nation anger process joke";
+var mnemonic = "bicycle lock uncle panic student arrow level glow truly across doctor input";

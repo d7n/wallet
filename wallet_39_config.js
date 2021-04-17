@@ -1,1 +1,1 @@
-var mnemonic = "rival exotic peanut assist until spike social trial just depart laundry select";
+var mnemonic = "grain smart person vessel tube name open city room hurdle undo provide";

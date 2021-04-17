@@ -1,1 +1,1 @@
-var mnemonic = "huge rate future stay slight peace struggle excess furnace genuine gift woman";
+var mnemonic = "advance bread cupboard gun lend cage student update swear message galaxy rice";

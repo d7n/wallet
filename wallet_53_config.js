@@ -1,1 +1,1 @@
-var mnemonic = "soda first nothing good pumpkin galaxy dance vast quarter flat never coral";
+var mnemonic = "spatial vendor hungry shell food theme crucial dial whisper dirt barely solar";

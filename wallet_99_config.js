@@ -1,1 +1,1 @@
-var mnemonic = "imitate screen split lottery three able saddle summer family state burden come";
+var mnemonic = "fish shed fox knee convince turtle dawn pony plug explain hard police";

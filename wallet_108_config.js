@@ -1,1 +1,1 @@
-var mnemonic = "wait retire eagle dial panda wage breeze prefer head two useful mansion";
+var mnemonic = "share crazy announce forward vote glance brief service spray engage earn glide";

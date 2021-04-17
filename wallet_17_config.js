@@ -1,1 +1,1 @@
-var mnemonic = "master symbol cash phrase cat aim silk ship enemy bench exercise attend";
+var mnemonic = "bounce quarter limb attend cliff fire cluster sight loud cave minor burden";

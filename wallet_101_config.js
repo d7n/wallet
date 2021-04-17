@@ -1,1 +1,1 @@
-var mnemonic = "noise tunnel fire ugly salt economy father chicken point exile sting garbage";
+var mnemonic = "dose guide strategy penalty trigger sport upper trial wrap borrow swap know";

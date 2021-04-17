@@ -1,1 +1,1 @@
-var mnemonic = "wonder august myth peace violin shaft kitchen tragic tip little outside reward";
+var mnemonic = "churn page course local ankle frog host sentence dinosaur save answer pizza";

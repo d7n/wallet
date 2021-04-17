@@ -1,1 +1,1 @@
-var mnemonic = "april walnut room shop visit shoe dragon ball wage project egg modify";
+var mnemonic = "indicate immune laptop wisdom tomato example nephew false liberty sister seven space";

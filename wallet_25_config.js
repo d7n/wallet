@@ -1,1 +1,1 @@
-var mnemonic = "off since fade weather any attitude expose title picnic bracket pill hammer";
+var mnemonic = "paddle cannon opinion social account three welcome portion control shrimp toss gentle";

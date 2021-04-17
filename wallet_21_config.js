@@ -1,1 +1,1 @@
-var mnemonic = "art tuna torch repair essay wine pill giraffe admit tool attend robust";
+var mnemonic = "say maid grief smooth phone dial canal walnut wealth swamp price genre";

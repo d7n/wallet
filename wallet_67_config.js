@@ -1,1 +1,1 @@
-var mnemonic = "garlic involve chest robust attract vault trial huge offer nose unusual farm";
+var mnemonic = "eager car noise human early fabric video seven lion raven despair use";

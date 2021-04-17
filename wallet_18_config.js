@@ -1,1 +1,1 @@
-var mnemonic = "orbit myself eternal reunion team key good element limb exotic typical renew";
+var mnemonic = "obscure plate month shadow clap dry name design polar tiny uncle stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "snake expire will pond purchase drill goat then rival salmon road banana";
+var mnemonic = "insect tackle venue gun saddle accuse sail egg drive obscure caught mother";

@@ -1,1 +1,1 @@
-var mnemonic = "blind venue seat spot motor pattern observe reward come spike occur leader";
+var mnemonic = "suggest maze insane mobile soup siege reduce toast idle arctic swallow future";

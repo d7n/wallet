@@ -1,1 +1,1 @@
-var mnemonic = "kitten marriage umbrella select intact cat notable human pupil rail vendor asthma";
+var mnemonic = "source hero taste post announce install leopard nose move blur road suspect";

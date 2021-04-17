@@ -1,1 +1,1 @@
-var mnemonic = "photo impact noise force hamster appear virus link curious north lizard hand";
+var mnemonic = "mixed resemble test fun grape soccer actor rally sponsor toilet oven turtle";

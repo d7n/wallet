@@ -1,1 +1,1 @@
-var mnemonic = "dish space faint power theory course door picnic amateur smile need planet";
+var mnemonic = "manual have rapid senior digital brief poem aspect remove afraid transfer oppose";

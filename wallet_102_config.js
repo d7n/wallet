@@ -1,1 +1,1 @@
-var mnemonic = "balcony tuna afford almost walnut pumpkin napkin document caught dinosaur nuclear begin";
+var mnemonic = "barrel leg view coral situate rug unaware embody hand smart gorilla man";

@@ -1,1 +1,1 @@
-var mnemonic = "hand man remind film dynamic basket invest clarify write duck glimpse property";
+var mnemonic = "chuckle seek dirt august suggest height card blue oven kiwi owner hurt";

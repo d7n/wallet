@@ -1,1 +1,1 @@
-var mnemonic = "miss news car almost say cement mystery bring allow indoor clarify coil";
+var mnemonic = "ring stem into supreme thank edit program wear poem say grid desert";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle exercise like rose suspect clever clutch music tenant make sure sea";
+var mnemonic = "another valley cute type dirt tell buffalo cover area pretty car carbon";

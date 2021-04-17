@@ -1,1 +1,1 @@
-var mnemonic = "drama account exclude daring away gain switch snack sign grass jeans enforce";
+var mnemonic = "dad ritual knee zoo sentence network mule rough math witness enhance six";

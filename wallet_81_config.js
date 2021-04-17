@@ -1,1 +1,1 @@
-var mnemonic = "devote repair alpha crouch team jealous jungle surface noise detail leader play";
+var mnemonic = "absorb tackle opinion car gloom salute cousin scissors occur noise skate cactus";

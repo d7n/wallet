@@ -1,1 +1,1 @@
-var mnemonic = "thumb position film ill rate primary group wild elevator hollow myth resist";
+var mnemonic = "churn child upset funny region interest else nominee donkey pill entry prevent";

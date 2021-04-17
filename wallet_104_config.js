@@ -1,1 +1,1 @@
-var mnemonic = "midnight rifle noble can oyster impact stable core fiscal pet maple pencil";
+var mnemonic = "riot reopen fashion athlete able pond bean virtual frost guitar body exact";

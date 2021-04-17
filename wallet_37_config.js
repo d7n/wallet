@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo jazz nice good jaguar report easy kiwi since awesome cigar can";
+var mnemonic = "day muffin leader season repair marble depth parade park segment drink mail";

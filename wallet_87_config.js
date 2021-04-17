@@ -1,1 +1,1 @@
-var mnemonic = "capital atom diamond fiction forest side track boat delay endorse desk dignity";
+var mnemonic = "crunch sample puppy fortune current ticket honey butter borrow call razor month";

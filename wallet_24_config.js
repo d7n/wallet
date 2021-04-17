@@ -1,1 +1,1 @@
-var mnemonic = "process prevent quick void poet basket girl cloud glove happy wave office";
+var mnemonic = "piece random pencil frequent proof blouse duck tenant legend learn wolf trigger";

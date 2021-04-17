@@ -1,1 +1,1 @@
-var mnemonic = "hammer surface phone learn ski shiver strong next balance humble must join";
+var mnemonic = "excite general chase phone swap nominee vivid digital hero final lottery purchase";

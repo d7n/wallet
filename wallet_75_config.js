@@ -1,1 +1,1 @@
-var mnemonic = "result copper sign process charge basic awake knee reduce arch pioneer kit";
+var mnemonic = "arrest unlock arrange despair clown soup betray brisk believe pumpkin joke boss";

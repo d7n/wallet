@@ -1,1 +1,1 @@
-var mnemonic = "music melt grunt also smooth unaware cream ladder current filter margin turtle";
+var mnemonic = "mom spice ready swear stem stand pyramid private recall tennis tissue suggest";

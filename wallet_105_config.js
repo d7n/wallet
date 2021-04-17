@@ -1,1 +1,1 @@
-var mnemonic = "object mouse soup chicken edge rotate assume record erase matter craft error";
+var mnemonic = "staff merge grow mixture arrow habit uniform unhappy puppy diagram series access";

@@ -1,1 +1,1 @@
-var mnemonic = "chef chapter express dragon rabbit doll foil spike settle destroy club behave";
+var mnemonic = "stem name wear disagree nice column real wave foam immense claw powder";

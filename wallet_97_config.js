@@ -1,1 +1,1 @@
-var mnemonic = "bus deputy garden march blouse panic across merge apart turtle flag table";
+var mnemonic = "where vague lift uniform crew utility asset embrace right reward expand argue";

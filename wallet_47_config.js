@@ -1,1 +1,1 @@
-var mnemonic = "cousin riot pilot rifle alarm clump error stool online cream first brisk";
+var mnemonic = "enforce ocean else resource upgrade glue wool panda random control please traffic";

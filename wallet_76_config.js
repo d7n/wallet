@@ -1,1 +1,1 @@
-var mnemonic = "survey float head secret base airport weekend negative tank peace where loan";
+var mnemonic = "country sphere drip garbage rotate mad dilemma number trust news slush gym";

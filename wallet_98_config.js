@@ -1,1 +1,1 @@
-var mnemonic = "mistake comfort meat disagree tank brave despair submit organ lion gesture flock";
+var mnemonic = "gap neutral bulb grocery fan false banner network clay velvet fury mix";

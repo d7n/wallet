@@ -1,1 +1,1 @@
-var mnemonic = "drive crazy funny stock judge captain school cute metal skull pact enlist";
+var mnemonic = "carpet wrestle sense unfair live game wealth stomach analyst below search cupboard";

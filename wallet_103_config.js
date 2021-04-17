@@ -1,1 +1,1 @@
-var mnemonic = "light horror stay bless senior logic nose oxygen dwarf pupil legal manual";
+var mnemonic = "forget skin sustain grit tuna fever monkey hawk web pipe kite office";

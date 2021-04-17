@@ -1,1 +1,1 @@
-var mnemonic = "aim impose ordinary worry awkward float wealth taxi world machine squirrel once";
+var mnemonic = "monkey code chicken bracket shed cliff merge guitar cricket pulp merit trend";

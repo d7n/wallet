@@ -1,1 +1,1 @@
-var mnemonic = "replace cannon trash steak target home robust disorder old nature evidence puppy";
+var mnemonic = "tongue push half essence stay wolf inside jealous floor ball mesh clean";

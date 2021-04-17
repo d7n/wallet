@@ -1,1 +1,1 @@
-var mnemonic = "subject draft pumpkin use choose stock swear reform jacket hard frame banana";
+var mnemonic = "drink process trash van icon oil truly wait crazy yard crop skull";

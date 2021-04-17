@@ -1,1 +1,1 @@
-var mnemonic = "lion wall nothing option tiger achieve fragile noodle economy cash lawn start";
+var mnemonic = "swear rigid garbage wrap grab myself fold match about early dog ignore";

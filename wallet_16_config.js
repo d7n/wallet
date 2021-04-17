@@ -1,1 +1,1 @@
-var mnemonic = "loop remove afraid story wheel field surge city erase throw hole decorate";
+var mnemonic = "leisure pony guilt argue swift cricket remember warfare special cotton tower feature";

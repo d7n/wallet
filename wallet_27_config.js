@@ -1,1 +1,1 @@
-var mnemonic = "source position satoshi crouch viable fence always silk click domain mouse jungle";
+var mnemonic = "awkward special leisure crash pledge shed hazard tenant sustain search service alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "barely opera subject nature excite voice control profit bag void say endorse";
+var mnemonic = "camera burst struggle bitter poem kidney glare embrace party goose truck invest";

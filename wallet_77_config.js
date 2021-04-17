@@ -1,1 +1,1 @@
-var mnemonic = "stumble next pyramid nose advance loan file spoil animal poverty state account";
+var mnemonic = "bronze empty collect shadow noodle audit kitten people nose account left husband";

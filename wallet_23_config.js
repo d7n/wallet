@@ -1,1 +1,1 @@
-var mnemonic = "buddy year toward drip aspect raven sweet negative infant best eight decade";
+var mnemonic = "remind crater casual relief twice guard relax bacon flush baby hollow finish";

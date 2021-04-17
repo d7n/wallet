@@ -1,1 +1,1 @@
-var mnemonic = "view injury puzzle payment copper space kick glimpse lens vendor leaf stereo";
+var mnemonic = "nut party vote crane person planet ocean debate price sing grape disease";

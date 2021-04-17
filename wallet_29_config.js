@@ -1,1 +1,1 @@
-var mnemonic = "route icon chair palm vapor among parade kid coyote biology visa game";
+var mnemonic = "funny tomorrow casual local demand engage grocery jewel element drill word convince";

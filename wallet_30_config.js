@@ -1,1 +1,1 @@
-var mnemonic = "hair decrease assume popular race bamboo unit wagon barely youth wasp live";
+var mnemonic = "weird swing crystal spot coil pledge daring river pride adapt gain census";

@@ -1,1 +1,1 @@
-var mnemonic = "case lamp route guess tree document since fork relax rude hold thrive";
+var mnemonic = "auction brisk banana screen conduct raccoon alter job globe host pipe purity";

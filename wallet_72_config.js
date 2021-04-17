@@ -1,1 +1,1 @@
-var mnemonic = "switch harvest absent crowd fish chimney spare picnic core tube bulk cradle";
+var mnemonic = "replace horn develop tortoise bless human evil punch wall recipe cattle slab";

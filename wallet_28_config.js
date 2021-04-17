@@ -1,1 +1,1 @@
-var mnemonic = "coast uncle usual ticket walk task lucky order climb crystal gossip skill";
+var mnemonic = "choose aim purchase place asthma benefit popular feature rough conduct step exact";

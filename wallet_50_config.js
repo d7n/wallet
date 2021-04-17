@@ -1,1 +1,1 @@
-var mnemonic = "voyage crush asthma frozen quick member wire exhibit enforce kitten gain claw";
+var mnemonic = "secret found just gift metal fringe play arch earth assist before capable";

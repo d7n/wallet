@@ -1,1 +1,1 @@
-var mnemonic = "swap symbol ivory arm item salon icon game suit language cushion wisdom";
+var mnemonic = "shell october crunch urge hope shield response permit ordinary trophy fantasy deposit";

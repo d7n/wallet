@@ -1,1 +1,1 @@
-var mnemonic = "account degree popular blood liberty tissue wheel predict toddler stick raise high";
+var mnemonic = "click album grid cloth marine clutch famous mother goddess awkward now strong";

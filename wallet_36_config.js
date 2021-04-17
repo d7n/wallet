@@ -1,1 +1,1 @@
-var mnemonic = "rural twelve border actress patient figure filter enlist scorpion about black sugar";
+var mnemonic = "cream hover sport recycle notable robust property carbon naive mesh essence diesel";

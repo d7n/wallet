@@ -1,1 +1,1 @@
-var mnemonic = "fashion rival follow current puzzle document game venture spell boost green clarify";
+var mnemonic = "harbor dismiss pave resemble peasant torch yard cheese crawl best twin ensure";

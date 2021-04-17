@@ -1,1 +1,1 @@
-var mnemonic = "staff tube help wife elder before current govern mask shock secret spike";
+var mnemonic = "minor member water degree garden penalty patrol weekend move harvest frog year";

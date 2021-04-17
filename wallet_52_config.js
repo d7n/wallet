@@ -1,1 +1,1 @@
-var mnemonic = "someone hawk urge reflect bracket hero twist little reject damage proud motion";
+var mnemonic = "nephew unaware uniform program arena supply bargain mouse label adapt armed afford";

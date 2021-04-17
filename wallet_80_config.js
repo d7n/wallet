@@ -1,1 +1,1 @@
-var mnemonic = "ivory visa trick pluck recipe fee device shiver bench apple oxygen onion";
+var mnemonic = "gain mountain kite easily kiwi useless dawn arrest since bulb device people";

@@ -1,1 +1,1 @@
-var mnemonic = "letter enjoy leopard dog inform knock episode story wrong black cube disagree";
+var mnemonic = "clever order science excuse video sugar elder kit rotate rally sentence canal";

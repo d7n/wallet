@@ -1,1 +1,1 @@
-var mnemonic = "possible predict sound grab various copy empty field make boring oven claim";
+var mnemonic = "peace inspire obscure giggle ice version garment disagree view general glad street";

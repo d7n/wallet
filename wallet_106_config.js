@@ -1,1 +1,1 @@
-var mnemonic = "wink trend ivory local program flight arrow brown then program mammal forget";
+var mnemonic = "thank drum sunny olive spray insect hip spawn rotate owner throw regret";

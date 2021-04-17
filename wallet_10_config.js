@@ -1,1 +1,1 @@
-var mnemonic = "book crouch aware mercy upset indoor feed below bus festival buyer orient";
+var mnemonic = "man crater day whisper cup rack ripple crane hurdle yellow junior near";

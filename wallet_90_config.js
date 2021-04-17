@@ -1,1 +1,1 @@
-var mnemonic = "hollow plunge broccoli proud mass spider adapt people update dwarf pig betray";
+var mnemonic = "polar bracket insect wool bag nature stand tell question era piano mail";

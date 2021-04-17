@@ -1,1 +1,1 @@
-var mnemonic = "penalty snack nominee rigid fade hurt dizzy win empower job orchard girl";
+var mnemonic = "erode slush same choice outside more expect apart envelope industry control dry";

@@ -1,1 +1,1 @@
-var mnemonic = "impose bottom medal hat barrel hard drum public win casual audit report";
+var mnemonic = "glare odor holiday notable winner explain betray method apple right fiscal note";

@@ -1,1 +1,1 @@
-var mnemonic = "blind awful anchor science youth print mammal response dragon route nuclear robust";
+var mnemonic = "club atom response drink auto approve jelly absent category until silly control";

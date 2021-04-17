@@ -1,1 +1,1 @@
-var mnemonic = "town final inject citizen lend dwarf hint desert suspect damp dilemma record";
+var mnemonic = "turn dose primary seek moon entire bubble clarify mosquito soccer bitter ticket";

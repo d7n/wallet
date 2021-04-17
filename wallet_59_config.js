@@ -1,1 +1,1 @@
-var mnemonic = "wage exist undo grab poem ivory traffic exotic purchase maple leisure entire";
+var mnemonic = "chaos castle actual powder fish glide slab lava vanish welcome track note";

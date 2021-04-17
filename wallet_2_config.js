@@ -1,1 +1,1 @@
-var mnemonic = "engine album luggage demise comic capital luxury erosion defense enrich toilet pigeon";
+var mnemonic = "midnight exile super zebra bulb elevator summer assume drip barely topic post";

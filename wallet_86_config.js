@@ -1,1 +1,1 @@
-var mnemonic = "entire favorite bar birth nest fade sport please icon two denial plate";
+var mnemonic = "into dress barrel person retreat rhythm high quit gossip ball phone trophy";

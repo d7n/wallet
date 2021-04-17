@@ -1,1 +1,1 @@
-var mnemonic = "radio faculty people pudding avoid friend behind dog engage buzz legal clown";
+var mnemonic = "coconut man open balcony police evoke doll fatal crater village cereal dawn";

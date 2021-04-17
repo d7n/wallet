@@ -1,1 +1,1 @@
-var mnemonic = "undo tobacco blade silk float mechanic wasp tattoo glove author acquire rain";
+var mnemonic = "twin nasty fit coconut moon actor course output ball similar spin jaguar";

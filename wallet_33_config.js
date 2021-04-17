@@ -1,1 +1,1 @@
-var mnemonic = "suggest kingdom zone switch scatter axis kitten grape snap awesome favorite process";
+var mnemonic = "bamboo grit disorder document cheese mail warm few genre remind tired habit";

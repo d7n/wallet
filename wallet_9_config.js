@@ -1,1 +1,1 @@
-var mnemonic = "reveal caution scrap stereo chunk artwork category favorite model chat demand occur";
+var mnemonic = "height panel sing stay vacant trigger pistol wrist devote tennis differ general";

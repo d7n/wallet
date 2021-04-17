@@ -1,1 +1,1 @@
-var mnemonic = "spoil vague vital slot check track section theory boss very try lift";
+var mnemonic = "nut thunder wage size vehicle stumble deliver siren gravity action elbow bone";

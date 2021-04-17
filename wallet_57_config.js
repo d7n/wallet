@@ -1,1 +1,1 @@
-var mnemonic = "nurse ordinary method top symptom reflect senior seek problem palm erase amount";
+var mnemonic = "attend volume plastic debate tank outdoor clerk dress obtain such maid analyst";

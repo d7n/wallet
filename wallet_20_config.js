@@ -1,1 +1,1 @@
-var mnemonic = "idea property dad ensure category hurt cup adult panel protect enjoy memory";
+var mnemonic = "desert share holiday brand fossil muffin salt derive neglect rally item fee";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bone fire solve muffin category suggest cactus estate fit until letter";
+var mnemonic = "input crouch mix long repeat satoshi plug glad advice rescue math dial";

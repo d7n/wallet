@@ -1,1 +1,1 @@
-var mnemonic = "skull evidence lady father isolate humble industry garlic model invest crumble chronic";
+var mnemonic = "drill harsh entry used ripple grid feel dutch season stadium pride all";

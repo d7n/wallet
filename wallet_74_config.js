@@ -1,1 +1,1 @@
-var mnemonic = "echo symbol damp that cash pudding alien powder bag abandon rug donkey";
+var mnemonic = "admit wealth mobile dice next angry beach arrive grain film shuffle loop";

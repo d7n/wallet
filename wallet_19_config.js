@@ -1,1 +1,1 @@
-var mnemonic = "banner happy clarify stand cover video shield alley marble govern funny pilot";
+var mnemonic = "fun deliver game open fragile video machine borrow brand fiber video impulse";

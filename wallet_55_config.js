@@ -1,1 +1,1 @@
-var mnemonic = "tag review avoid base bitter live below crunch defy link robot source";
+var mnemonic = "remove bring fragile bargain gold exchange achieve gadget thought gadget day victory";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare way finger food plug tortoise bamboo act either blue raise basket";
+var mnemonic = "orphan repeat second lion sense pony typical gloom scale deny good afraid";

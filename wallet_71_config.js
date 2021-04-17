@@ -1,1 +1,1 @@
-var mnemonic = "garlic drastic airport fish setup dad foil reduce section develop cloud elite";
+var mnemonic = "copy napkin illness ride stage flat barrel age grain sure addict friend";

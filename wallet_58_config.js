@@ -1,1 +1,1 @@
-var mnemonic = "erode range okay worth around invest size palm increase use cherry final";
+var mnemonic = "auto comfort trade truck average coast category left name rebuild age stick";

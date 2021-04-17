@@ -1,1 +1,1 @@
-var mnemonic = "orange jelly trim lawsuit dinner material horse often lion receive stem strong";
+var mnemonic = "shiver model floor bronze craft lens essay gate gate offer layer diet";
