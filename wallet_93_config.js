@@ -1,1 +1,1 @@
-var mnemonic = "kit initial move achieve copy suggest wish glove net work inch cram";
+var mnemonic = "search quick sister piece recipe video deny stereo pulse always outer candy";

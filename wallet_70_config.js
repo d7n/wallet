@@ -1,1 +1,1 @@
-var mnemonic = "remain library pattern wealth valid eight issue board cheese exit cable cactus";
+var mnemonic = "rocket orbit universe pistol oak sense crop cube adjust mom tenant profit";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar estate hire input exile surge pink taste virus tourist remember resource";
+var mnemonic = "virus aspect orange torch flag prepare correct vintage smoke okay disease vivid";

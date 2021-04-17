@@ -1,1 +1,1 @@
-var mnemonic = "spawn confirm tower harvest length plug buddy course gap toss theory silly";
+var mnemonic = "measure picnic thumb steel ahead anxiety intact note joy recipe affair mutual";

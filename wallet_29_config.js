@@ -1,1 +1,1 @@
-var mnemonic = "void whisper oppose arch lion diary same alter unfold save deer mercy";
+var mnemonic = "garage object way sugar explain fetch power flame duty cloud unlock finger";

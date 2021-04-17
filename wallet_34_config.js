@@ -1,1 +1,1 @@
-var mnemonic = "runway post yard ethics tribe festival round glare throw wreck slice april";
+var mnemonic = "crowd bottom someone mind gaze what cable bind aerobic floor supply globe";

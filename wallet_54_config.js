@@ -1,1 +1,1 @@
-var mnemonic = "camp dilemma point jar goose stadium jeans sad minor fix dizzy struggle";
+var mnemonic = "acquire office top cage judge dust arm impulse tube snap adult grace";

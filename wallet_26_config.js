@@ -1,1 +1,1 @@
-var mnemonic = "gossip skin educate quantum genuine call visit nice shine sword biology suspect";
+var mnemonic = "muffin book hurdle mosquito gospel vicious fee muffin social lab shadow cross";

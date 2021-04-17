@@ -1,1 +1,1 @@
-var mnemonic = "grace disorder silver nest amateur clown design want awake casino razor region";
+var mnemonic = "mother bleak fun angry tooth budget frown oak derive airport grape debris";

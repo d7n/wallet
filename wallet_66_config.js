@@ -1,1 +1,1 @@
-var mnemonic = "library cube code dignity detail credit organ enact mutual high weasel width";
+var mnemonic = "claw shy envelope fog this fall peanut advance special oyster again canvas";

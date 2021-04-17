@@ -1,1 +1,1 @@
-var mnemonic = "clinic sand corn blast ensure skate tissue hard paper diesel hover slot";
+var mnemonic = "thunder spoil fork oxygen later alert rose cattle page cushion lesson unable";

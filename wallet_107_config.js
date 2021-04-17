@@ -1,1 +1,1 @@
-var mnemonic = "uphold ask fade swamp crazy side honey smile opera dress suit confirm";
+var mnemonic = "alter tail repair carbon primary sadness legal sunny feel feature ancient whip";

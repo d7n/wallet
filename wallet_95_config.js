@@ -1,1 +1,1 @@
-var mnemonic = "chronic country cement wage become repair exhibit battle tuna later sail pulp";
+var mnemonic = "pupil erupt fine exact entry prize forest dry waste bleak crane palace";

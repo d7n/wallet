@@ -1,1 +1,1 @@
-var mnemonic = "digital eight label limit clever pact vanish twenty omit subway before kangaroo";
+var mnemonic = "same enforce borrow real clown naive cry boy bid vast culture garment";

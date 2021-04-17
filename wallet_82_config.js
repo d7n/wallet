@@ -1,1 +1,1 @@
-var mnemonic = "feature parrot volume anger blade early still close unveil give giggle useless";
+var mnemonic = "utility inquiry ancient frown pool social enter thumb earn bridge audit total";

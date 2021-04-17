@@ -1,1 +1,1 @@
-var mnemonic = "conduct marine salt salon arrest enforce wish mandate evidence record bleak trick";
+var mnemonic = "enhance cream enlist present lift return view hello slush visual soccer blood";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket account swing gentle pony crawl supreme salad swallow ozone bargain ordinary";
+var mnemonic = "bulb ticket humor fantasy aim rigid shift leopard sheriff purchase exercise genuine";

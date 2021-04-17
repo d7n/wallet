@@ -1,1 +1,1 @@
-var mnemonic = "sea brown parent cause shove reunion scissors frost erode brother safe salmon";
+var mnemonic = "shine cost insane fiscal machine auto attend core regret artist body echo";

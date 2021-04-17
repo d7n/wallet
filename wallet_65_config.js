@@ -1,1 +1,1 @@
-var mnemonic = "element stamp battle own blue winter sure answer stable bounce front social";
+var mnemonic = "century area size bicycle weird elevator before pride office elder into coach";

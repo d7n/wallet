@@ -1,1 +1,1 @@
-var mnemonic = "proof tired member destroy dose flash found shallow defy debris sunset middle";
+var mnemonic = "kitten ordinary thunder quiz pilot pulse practice country hobby figure garlic modify";

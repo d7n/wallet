@@ -1,1 +1,1 @@
-var mnemonic = "extend cheap attend wreck tunnel car advance charge source space vote neutral";
+var mnemonic = "scan seminar can yard purpose velvet erupt nice minor crisp achieve obey";

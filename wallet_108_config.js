@@ -1,1 +1,1 @@
-var mnemonic = "exhaust mystery tool tattoo return teach orient apology amateur camp artwork unlock";
+var mnemonic = "panel brief honey shoulder voyage cluster fiber salon devote drill finish head";

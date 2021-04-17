@@ -1,1 +1,1 @@
-var mnemonic = "muscle electric also sad prize enact parent elegant seven project fantasy zebra";
+var mnemonic = "badge okay ankle detect aim clap possible chapter wonder until carpet noise";

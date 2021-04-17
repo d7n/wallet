@@ -1,1 +1,1 @@
-var mnemonic = "cry legal miracle diesel plunge summer column voice ten grain provide actual";
+var mnemonic = "brush velvet usual cat enrich scale wrong spy eyebrow cram diet match";

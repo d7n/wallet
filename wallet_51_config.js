@@ -1,1 +1,1 @@
-var mnemonic = "addict vehicle evoke duck number luggage verb digital palace either chicken aim";
+var mnemonic = "virus man jewel luxury lens grape offer kid card obtain sleep pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "apology gap chronic furnace swing digital possible mountain velvet lumber maximum gift";
+var mnemonic = "hybrid share neck ladder diamond remember noodle one video upper wild work";

@@ -1,1 +1,1 @@
-var mnemonic = "verb rude ask torch belt involve bless captain good token mad crystal";
+var mnemonic = "sadness fiction album injury liberty cube dose cross gas hill rival tomato";

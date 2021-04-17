@@ -1,1 +1,1 @@
-var mnemonic = "donor insect shoe island vacant input noise scene crunch ozone duck use";
+var mnemonic = "envelope pass cash blouse achieve vivid muffin tank ketchup copper enjoy garage";

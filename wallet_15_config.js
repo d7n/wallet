@@ -1,1 +1,1 @@
-var mnemonic = "margin more tribe trust extra pulp near stick diagram cry dash wheat";
+var mnemonic = "shrug hero vintage color crowd order file prepare claim brave ice special";

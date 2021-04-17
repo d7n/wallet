@@ -1,1 +1,1 @@
-var mnemonic = "figure churn example dinosaur early battle blast matrix island relax special naive";
+var mnemonic = "surround dawn comic one first check spray snack receive sing wet vendor";

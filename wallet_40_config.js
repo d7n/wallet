@@ -1,1 +1,1 @@
-var mnemonic = "among task kitten expand chief outdoor praise talk excite speak innocent atom";
+var mnemonic = "buffalo expect slim engage space leave nut before silent pride flower combine";

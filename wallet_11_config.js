@@ -1,1 +1,1 @@
-var mnemonic = "arrow resist hospital scene siren pizza width confirm draw circle what stable";
+var mnemonic = "fiction stone rally net tiger equal heart skull biology bar sketch kid";

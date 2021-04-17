@@ -1,1 +1,1 @@
-var mnemonic = "afford fit mask high parrot talk fatal quick vote trash jazz ocean";
+var mnemonic = "awkward illness tackle vacuum lake desert height pumpkin cement energy mom best";

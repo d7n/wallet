@@ -1,1 +1,1 @@
-var mnemonic = "brass faint dance denial fine valley entire fish wrist dad soldier chicken";
+var mnemonic = "rally gospel title lecture cream must swing usual found address sleep ranch";

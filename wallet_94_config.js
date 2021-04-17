@@ -1,1 +1,1 @@
-var mnemonic = "smooth fine chapter dash silk match toe ankle cattle asthma load muffin";
+var mnemonic = "title unknown hip correct search diary stadium pet dry frown zoo board";

@@ -1,1 +1,1 @@
-var mnemonic = "debate comic wolf involve affair pelican immense mountain pink act amount allow";
+var mnemonic = "hollow better mule clock fat extend brief cake excuse turn loan slide";

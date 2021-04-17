@@ -1,1 +1,1 @@
-var mnemonic = "rotate denial tongue patient despair never exist awkward adapt reduce method shoulder";
+var mnemonic = "box dad panel sentence blanket orphan weekend museum primary lonely grow lounge";

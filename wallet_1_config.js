@@ -1,1 +1,1 @@
-var mnemonic = "sample pumpkin night outside rapid theory video wolf derive skate pelican clip";
+var mnemonic = "inflict burden design enact two label stool super toy link best tribe";

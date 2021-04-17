@@ -1,1 +1,1 @@
-var mnemonic = "position praise theme memory seek melt blame horse visual neither dove high";
+var mnemonic = "violin ignore record device chapter frost target scare country upset solve sniff";

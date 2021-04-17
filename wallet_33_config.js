@@ -1,1 +1,1 @@
-var mnemonic = "surround goose angry two purse planet weasel cabbage victory pelican decline describe";
+var mnemonic = "sugar clutch first divorce shock buddy burst kiss brick submit protect narrow";

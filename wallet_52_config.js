@@ -1,1 +1,1 @@
-var mnemonic = "party delay arrange senior charge brief misery breeze used light clog dove";
+var mnemonic = "web truth brown punch eagle test door lawn nominee attend pond fetch";

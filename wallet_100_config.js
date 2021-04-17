@@ -1,1 +1,1 @@
-var mnemonic = "clump analyst faculty expire doll sleep liar girl push tape decorate inquiry";
+var mnemonic = "equal animal sadness smooth wild alien amused swing rich impulse finish flame";

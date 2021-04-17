@@ -1,1 +1,1 @@
-var mnemonic = "submit anchor author between host matrix nice solve mesh oven rival shadow";
+var mnemonic = "canvas december bright huge scan symbol thank danger universe rail empty exotic";

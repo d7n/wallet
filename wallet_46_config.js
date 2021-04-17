@@ -1,1 +1,1 @@
-var mnemonic = "custom donkey private auto stuff tower harsh tag dynamic goddess media marble";
+var mnemonic = "rotate behave fabric birth indoor stamp any diary ranch beyond enact smile";

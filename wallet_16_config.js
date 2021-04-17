@@ -1,1 +1,1 @@
-var mnemonic = "phone alpha claim health title depend trick vacuum cover marine antique cargo";
+var mnemonic = "ranch acquire concert supply brisk choose staff market acid fuel group display";

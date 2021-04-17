@@ -1,1 +1,1 @@
-var mnemonic = "spread farm chalk gown guilt happy chest fire scheme melt bullet extra";
+var mnemonic = "pretty window indicate document oil issue farm crawl pupil cram solar faculty";

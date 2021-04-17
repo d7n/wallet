@@ -1,1 +1,1 @@
-var mnemonic = "salad buyer drill royal provide burst elevator program tortoise marriage near glass";
+var mnemonic = "suspect utility cheese unit soft okay replace cry west until stamp topple";

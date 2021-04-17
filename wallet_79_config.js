@@ -1,1 +1,1 @@
-var mnemonic = "hard artwork simple erase dignity prevent wish baby three timber wine photo";
+var mnemonic = "goddess sense combine soul easily oval hurdle acid crack reduce vivid quality";

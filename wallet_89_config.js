@@ -1,1 +1,1 @@
-var mnemonic = "endorse large stick piece ladder deer asthma breeze flight boy scene fix";
+var mnemonic = "spoil front globe cash obscure gaze permit canvas primary consider fashion board";

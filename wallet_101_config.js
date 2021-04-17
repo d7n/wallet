@@ -1,1 +1,1 @@
-var mnemonic = "spot bring select hold traffic season castle taste fitness bundle cloth peanut";
+var mnemonic = "hip arrive dilemma cheese above before verb dinosaur mimic gospel october summer";

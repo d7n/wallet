@@ -1,1 +1,1 @@
-var mnemonic = "exit sheriff logic hawk tank panther tongue december panther seven city detect";
+var mnemonic = "allow two payment develop behave negative music custom message pond piece brave";

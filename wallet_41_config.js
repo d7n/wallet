@@ -1,1 +1,1 @@
-var mnemonic = "speak real lumber motion web coil pave same choose slice inquiry cloth";
+var mnemonic = "tail else wedding nature that chuckle verify snake present debate humor cherry";

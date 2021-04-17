@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow lab medal spoil december mixed grid grit worth total smile despair";
+var mnemonic = "mansion believe voice marriage tuna capable present glass one depth other public";

@@ -1,1 +1,1 @@
-var mnemonic = "castle material gloom laptop monkey legend scout aunt remind silent captain judge";
+var mnemonic = "quit diet reform hotel miracle lesson admit alert lift across library camera";

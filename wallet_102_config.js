@@ -1,1 +1,1 @@
-var mnemonic = "giant brief alter price race ice virtual large avoid attract recall gaze";
+var mnemonic = "jungle aerobic liar chair dish noise color dignity fatal genuine major toward";

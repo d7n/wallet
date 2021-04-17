@@ -1,1 +1,1 @@
-var mnemonic = "frozen benefit current treat oven loud sample final coast weapon matter hazard";
+var mnemonic = "vessel hockey problem gorilla alert frame quit clap ski certain humble answer";

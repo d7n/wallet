@@ -1,1 +1,1 @@
-var mnemonic = "surround horn antique front just swing glimpse crawl thought prize monitor negative";
+var mnemonic = "choose tenant winter make excess exclude knock tomorrow one transfer pulp identify";

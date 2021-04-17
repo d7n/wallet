@@ -1,1 +1,1 @@
-var mnemonic = "fragile this lady slush whale fragile guilt soon love hold purpose fall";
+var mnemonic = "regular smooth shiver mechanic beef elevator angry tired ankle ethics idle load";

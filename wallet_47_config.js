@@ -1,1 +1,1 @@
-var mnemonic = "travel kick glory moon obscure ritual unit chuckle true guide traffic provide";
+var mnemonic = "blind surround exotic broccoli endless often stand artefact ready idea combine beyond";

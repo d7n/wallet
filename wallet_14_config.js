@@ -1,1 +1,1 @@
-var mnemonic = "quarter force liquid inform pulp online clerk evolve trumpet student someone raw";
+var mnemonic = "chat crack huge diet buzz smart pave demise census patch enforce slush";

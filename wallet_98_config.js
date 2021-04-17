@@ -1,1 +1,1 @@
-var mnemonic = "citizen entire opera obvious alert section public fruit hurdle bargain barrel universe";
+var mnemonic = "tray better giant juice hunt knock lawsuit appear destroy ladder agent window";

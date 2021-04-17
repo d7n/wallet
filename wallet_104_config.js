@@ -1,1 +1,1 @@
-var mnemonic = "cage hunt wait furnace night student mandate balance skin fence predict empower";
+var mnemonic = "wood convince palace friend jar canoe strong live asthma rally usual zoo";

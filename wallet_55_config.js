@@ -1,1 +1,1 @@
-var mnemonic = "catalog wealth cup benefit simple market army scene crunch uncover opinion front";
+var mnemonic = "same sting shop wink green error clerk test arrive broom mask gold";

@@ -1,1 +1,1 @@
-var mnemonic = "electric victory prize square impulse merge summer affair accuse toe uphold cradle";
+var mnemonic = "often unfold blood trial divide buyer harbor acquire gap ethics special thank";

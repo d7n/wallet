@@ -1,1 +1,1 @@
-var mnemonic = "hurt spike talent service balcony depend shed skill labor achieve okay laptop";
+var mnemonic = "quit helmet acoustic rely deputy inmate load across pair liberty regret license";

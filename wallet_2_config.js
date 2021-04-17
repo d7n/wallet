@@ -1,1 +1,1 @@
-var mnemonic = "capable since stand crucial panther adjust little clown token liar vapor amazing";
+var mnemonic = "able cruise join slender toy announce bamboo various paper behave sketch bread";

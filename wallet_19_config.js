@@ -1,1 +1,1 @@
-var mnemonic = "birth sorry burger dynamic hamster sport cause rookie parade boss very isolate";
+var mnemonic = "dress summer cute seat bamboo tomorrow ensure entry faculty warm online quick";

@@ -1,1 +1,1 @@
-var mnemonic = "festival protect stereo erupt trim boring slice pulp clip cable devote loyal";
+var mnemonic = "away acquire invite message judge project educate squeeze hire path yellow lonely";

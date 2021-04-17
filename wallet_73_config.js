@@ -1,1 +1,1 @@
-var mnemonic = "actual piano satisfy sword reopen legal task mix stairs undo repeat edge";
+var mnemonic = "impose around enemy vacuum confirm pink soon ahead method dust old decrease";

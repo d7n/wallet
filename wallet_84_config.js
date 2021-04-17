@@ -1,1 +1,1 @@
-var mnemonic = "camp meat captain current stadium input smart chunk flag impulse bachelor motion";
+var mnemonic = "erase try number afford cause price draw forget buyer lend beef usage";

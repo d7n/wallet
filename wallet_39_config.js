@@ -1,1 +1,1 @@
-var mnemonic = "okay prevent seminar panther hockey grief visual orphan clap combine enroll travel";
+var mnemonic = "smart blood rookie zero thing cram tone consider cram sock coyote unable";

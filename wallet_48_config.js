@@ -1,1 +1,1 @@
-var mnemonic = "congress moment true pudding security lottery because ceiling hazard robot chuckle dwarf";
+var mnemonic = "dawn have right castle image utility flush test rule salt crouch bean";

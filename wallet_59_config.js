@@ -1,1 +1,1 @@
-var mnemonic = "toward hollow hotel runway problem fence fiber guess message album coffee poem";
+var mnemonic = "blood home jungle vote grief arch recycle drive plunge category spring moon";

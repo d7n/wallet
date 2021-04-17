@@ -1,1 +1,1 @@
-var mnemonic = "fit tank scene catalog dad oxygen such cereal hire soup tooth group";
+var mnemonic = "arrive kitchen ski liquid shift hamster disagree spot soccer upper develop morning";

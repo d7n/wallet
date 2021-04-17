@@ -1,1 +1,1 @@
-var mnemonic = "amateur audit spoil warfare bomb unveil bottom casual nuclear dawn valid cabin";
+var mnemonic = "pause burst tip relief annual bone athlete waste motor say ask fold";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior expose scout object wait actor meat lottery side capital fabric moment";
+var mnemonic = "inflict window sting crash craft brown balance useless diamond decade undo advance";

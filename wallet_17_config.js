@@ -1,1 +1,1 @@
-var mnemonic = "meadow behave crack mouse omit fetch upper vacant myself pulse poverty bring";
+var mnemonic = "solar mutual napkin earth sail inspire asset thought odor scheme keep mirror";

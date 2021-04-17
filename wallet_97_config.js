@@ -1,1 +1,1 @@
-var mnemonic = "reason retreat legend rubber section awful globe brave music wink rhythm tonight";
+var mnemonic = "city reopen sad increase glory collect avocado dash fade forest crawl sing";

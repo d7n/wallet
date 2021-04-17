@@ -1,1 +1,1 @@
-var mnemonic = "obey lottery cart feel silk level alone between island ramp amount blush";
+var mnemonic = "october when disagree sting human limit dilemma spare denial victory defy three";

@@ -1,1 +1,1 @@
-var mnemonic = "skate diet engine fatal buddy arch way scrap crucial blanket quick expect";
+var mnemonic = "ethics crater dune reform ankle memory junior escape creek nerve proud either";

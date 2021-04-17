@@ -1,1 +1,1 @@
-var mnemonic = "guitar spot guard trust loop end comic return unknown divide pluck battle";
+var mnemonic = "lend drift object exclude sand move obtain police shine attend flame hello";

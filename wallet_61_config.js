@@ -1,1 +1,1 @@
-var mnemonic = "split rigid educate vanish wedding view spell lounge void senior milk tired";
+var mnemonic = "sure august cinnamon cram bubble fossil bench abuse parrot curve relief brisk";

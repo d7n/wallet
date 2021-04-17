@@ -1,1 +1,1 @@
-var mnemonic = "panel tenant garbage pink various viable into forum wasp rely also track";
+var mnemonic = "enable crazy celery remain keen option mammal topple cry copy deal distance";

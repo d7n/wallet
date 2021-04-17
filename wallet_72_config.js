@@ -1,1 +1,1 @@
-var mnemonic = "echo enroll refuse tail harvest cannon assault bronze panel punch february wine";
+var mnemonic = "record load boy run blossom dumb rare balance where team cheap october";

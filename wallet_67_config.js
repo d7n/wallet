@@ -1,1 +1,1 @@
-var mnemonic = "crystal van climb broken street cruel canal auto craft spy century illegal";
+var mnemonic = "ahead spot carry topic raccoon bird genre future lake satisfy able teach";

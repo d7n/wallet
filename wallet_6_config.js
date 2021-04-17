@@ -1,1 +1,1 @@
-var mnemonic = "claw pitch weapon recipe shuffle rose south inform flight tank immense nest";
+var mnemonic = "expand multiply place anger muffin young magic father dinner smart recall essay";

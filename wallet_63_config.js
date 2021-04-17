@@ -1,1 +1,1 @@
-var mnemonic = "curious couple spare miss proof hollow task pilot absurd draw neglect slice";
+var mnemonic = "flip picnic ceiling genius penalty fever arena mask maid sail second lunar";

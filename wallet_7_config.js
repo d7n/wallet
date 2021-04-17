@@ -1,1 +1,1 @@
-var mnemonic = "denial leg weapon sand squeeze wisdom imitate thank other ice woman kind";
+var mnemonic = "rifle room giant velvet enable elite grab range earth south long quote";

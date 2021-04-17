@@ -1,1 +1,1 @@
-var mnemonic = "absorb vendor share combine hungry connect edit run fold steak pyramid soccer";
+var mnemonic = "rescue call found timber wrist adapt depart moment nest limb rent slim";

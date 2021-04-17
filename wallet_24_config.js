@@ -1,1 +1,1 @@
-var mnemonic = "crash alarm valid tone tribe evoke educate error bulb bitter foot entire";
+var mnemonic = "sight unique tattoo begin thought rely code parrot equal mad tank soccer";

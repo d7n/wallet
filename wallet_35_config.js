@@ -1,1 +1,1 @@
-var mnemonic = "mountain credit impose shadow enemy reform car pony tape bless sweet quote";
+var mnemonic = "spread shed pencil chaos punch control gun census drastic image hip burst";

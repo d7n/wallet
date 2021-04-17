@@ -1,1 +1,1 @@
-var mnemonic = "card until govern excuse face cart airport pig century salon split spike";
+var mnemonic = "swing treat minor muffin monitor section special skull column grow project alert";

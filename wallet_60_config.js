@@ -1,1 +1,1 @@
-var mnemonic = "satoshi physical oak keep rich bridge sail hole right tree latin more";
+var mnemonic = "regular cement cereal pumpkin link shed basic service marriage horn stick grief";

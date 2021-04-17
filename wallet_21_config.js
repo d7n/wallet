@@ -1,1 +1,1 @@
-var mnemonic = "claim rug alter shrimp drive lumber hope thrive main coconut soon critic";
+var mnemonic = "cash six action observe topic peasant change ten announce process exchange merit";
