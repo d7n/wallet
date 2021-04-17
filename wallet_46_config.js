@@ -1,1 +1,1 @@
-var mnemonic = "fog visa bacon report cute tribe bleak very gather pink congress develop";
+var mnemonic = "estate mutual thing gossip fiction only segment rough wagon dress want venture";

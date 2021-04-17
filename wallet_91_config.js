@@ -1,1 +1,1 @@
-var mnemonic = "bird honey collect base tray swallow faint all gasp way excite timber";
+var mnemonic = "turn palace joy bind baby text pottery brave brisk relief flock animal";

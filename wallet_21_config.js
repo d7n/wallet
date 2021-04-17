@@ -1,1 +1,1 @@
-var mnemonic = "local agree veteran grow wisdom control eye key eye nephew menu equal";
+var mnemonic = "air chimney gold hollow fluid sheriff judge run retire dove twist chunk";

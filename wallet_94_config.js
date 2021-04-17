@@ -1,1 +1,1 @@
-var mnemonic = "lobster sudden process stamp gospel juice carry ripple heart job net frog";
+var mnemonic = "donkey sadness educate turkey derive observe energy cook photo canyon option recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue riot live chicken false magnet pole guilt base quality foot another";
+var mnemonic = "special alley attack alpha staff record onion release betray clay runway ill";

@@ -1,1 +1,1 @@
-var mnemonic = "matter wide disorder observe win air reject manual false glad select cousin";
+var mnemonic = "erase wrestle olive canal hero syrup gold miss vault reform fame float";

@@ -1,1 +1,1 @@
-var mnemonic = "axis confirm bright remind latin track motion clarify army series demand bean";
+var mnemonic = "size fury jar depend april blur flame raise diagram enter vanish noise";

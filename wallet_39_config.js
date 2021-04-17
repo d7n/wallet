@@ -1,1 +1,1 @@
-var mnemonic = "acid chuckle bubble smoke glare come fish degree vintage damage fruit glue";
+var mnemonic = "receive you idle deny come blanket glance novel palace student excuse kid";

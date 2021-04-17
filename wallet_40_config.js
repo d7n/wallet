@@ -1,1 +1,1 @@
-var mnemonic = "drum jungle aisle burden flock present foam december radar solid attract upset";
+var mnemonic = "happy window refuse exit era bonus heavy nest soup error couple mirror";

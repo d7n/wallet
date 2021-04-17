@@ -1,1 +1,1 @@
-var mnemonic = "hurry salad wheat erode moon empty draft rice speed army sibling okay";
+var mnemonic = "rib canal mind combine pond mosquito spend category upgrade hedgehog grow okay";

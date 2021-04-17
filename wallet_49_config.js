@@ -1,1 +1,1 @@
-var mnemonic = "circle cycle enlist bitter cheese blood brush unfair rent slide reveal post";
+var mnemonic = "romance economy dirt pave tip permit hurdle strategy dinner mixture copy laptop";

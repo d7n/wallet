@@ -1,1 +1,1 @@
-var mnemonic = "axis slogan avocado great worth note govern honey enforce runway good uniform";
+var mnemonic = "gesture assist humor ugly hobby sight kite match slender expose claim device";

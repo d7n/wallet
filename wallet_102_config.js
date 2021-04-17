@@ -1,1 +1,1 @@
-var mnemonic = "loan response identify inside exhaust pumpkin source awful near render gadget enemy";
+var mnemonic = "excess ostrich quick much tattoo purpose swamp ten detail fine donor inch";

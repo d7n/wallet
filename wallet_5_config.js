@@ -1,1 +1,1 @@
-var mnemonic = "already index wait decrease glad sort immune also close wool affair welcome";
+var mnemonic = "visual abstract donor poverty predict coyote sell crane course vendor blade devote";

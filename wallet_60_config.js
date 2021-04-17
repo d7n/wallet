@@ -1,1 +1,1 @@
-var mnemonic = "nation fancy charge shoot pluck nurse guide nation token dry demand retire";
+var mnemonic = "sing arrest absorb peasant chief expect math useful foot sign brass common";

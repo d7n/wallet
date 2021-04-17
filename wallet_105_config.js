@@ -1,1 +1,1 @@
-var mnemonic = "laptop drill world mention volume flame able chef ozone course hard kiss";
+var mnemonic = "wolf family grid poverty oven screen consider achieve void rude sad gallery";

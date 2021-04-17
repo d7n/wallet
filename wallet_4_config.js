@@ -1,1 +1,1 @@
-var mnemonic = "broken raven priority often abuse boil bird toast service asset special dress";
+var mnemonic = "green arrow seat stable lunar paper high sting note shaft thrive silver";

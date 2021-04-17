@@ -1,1 +1,1 @@
-var mnemonic = "vital original since coast jaguar canoe clarify mistake foster wool bean polar";
+var mnemonic = "kit luxury indoor sweet junior vicious second panic spoon early help urge";

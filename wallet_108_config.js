@@ -1,1 +1,1 @@
-var mnemonic = "eye used wise box subway position panel ripple pull aim fit hip";
+var mnemonic = "always bird museum rural average busy warrior circle album vendor area notable";

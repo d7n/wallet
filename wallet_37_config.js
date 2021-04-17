@@ -1,1 +1,1 @@
-var mnemonic = "shop city poverty naive embrace tower used flight pig outdoor lunar palm";
+var mnemonic = "dawn turn print prepare this civil flat grid old link copy brief";

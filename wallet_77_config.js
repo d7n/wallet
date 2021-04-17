@@ -1,1 +1,1 @@
-var mnemonic = "meat discover guide exact horn baby rural yard purity grape summer library";
+var mnemonic = "party fetch sea stem glow approve emotion hobby rebel runway tool mirror";

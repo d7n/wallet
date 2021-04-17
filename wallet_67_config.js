@@ -1,1 +1,1 @@
-var mnemonic = "follow during ribbon asthma curve glide suffer offer virus truly reunion foot";
+var mnemonic = "supreme guard relief slam update loyal butter ribbon problem lawn merry please";

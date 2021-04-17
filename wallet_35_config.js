@@ -1,1 +1,1 @@
-var mnemonic = "range shine rack urge carbon jewel property movie zebra weekend lecture forward";
+var mnemonic = "enforce neutral involve spot salon claw perfect round caught shed pair result";

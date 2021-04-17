@@ -1,1 +1,1 @@
-var mnemonic = "like rabbit shoulder fine unit yard ankle major tent kidney adjust notable";
+var mnemonic = "ensure venue purpose photo quarter senior doctor grass glue train harbor frame";

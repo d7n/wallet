@@ -1,1 +1,1 @@
-var mnemonic = "size invest rough ice warfare valid twenty spider trigger table leg weekend";
+var mnemonic = "move cabin uncover victory hawk glue boost cook torch almost twenty dune";

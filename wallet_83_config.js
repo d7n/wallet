@@ -1,1 +1,1 @@
-var mnemonic = "theme valve resource cigar celery scrub moral verb scene desert minor solid";
+var mnemonic = "close easy goat unusual chase gadget wedding voyage abandon help explain model";

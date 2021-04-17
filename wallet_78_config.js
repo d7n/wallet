@@ -1,1 +1,1 @@
-var mnemonic = "absurd bacon ignore rhythm arctic reward quality color shed nurse help unable";
+var mnemonic = "mass doctor humor boat train drama verify stock pitch zoo push stick";

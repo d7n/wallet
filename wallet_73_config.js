@@ -1,1 +1,1 @@
-var mnemonic = "hen hip art nuclear above bus enemy miss save physical mind tattoo";
+var mnemonic = "eagle spirit series pull decorate tomato guide erase labor tennis column visual";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy right mirror olympic traffic apology original zebra weapon dress silver crater";
+var mnemonic = "damage video chef cabin short fat reveal forward fan that welcome hill";

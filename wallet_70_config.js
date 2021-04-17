@@ -1,1 +1,1 @@
-var mnemonic = "sadness idle remain borrow power portion mistake spray quantum offer boil dumb";
+var mnemonic = "heart guilt fault uncover shed dust swift frown door ankle picnic screen";

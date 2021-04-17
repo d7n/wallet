@@ -1,1 +1,1 @@
-var mnemonic = "amused silly absurd about emerge able spread hold capital caution off noble";
+var mnemonic = "portion catalog today salute other link pet board sphere ozone gesture river";

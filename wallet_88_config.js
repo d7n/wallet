@@ -1,1 +1,1 @@
-var mnemonic = "enhance weather urban pact weekend knock must physical spice grab door hub";
+var mnemonic = "spike syrup open sorry jazz cargo main peanut indicate mother cross enough";

@@ -1,1 +1,1 @@
-var mnemonic = "image play hollow exercise fine fly vacuum test valid crater year focus";
+var mnemonic = "mechanic velvet skirt flight tattoo sell tired urban boss trim awesome large";

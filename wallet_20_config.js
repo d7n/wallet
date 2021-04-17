@@ -1,1 +1,1 @@
-var mnemonic = "wave human sibling camp wife width depart receive negative impose frown claim";
+var mnemonic = "business pistol tomato satisfy spawn ostrich stadium output rely vital shrimp path";

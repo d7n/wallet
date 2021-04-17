@@ -1,1 +1,1 @@
-var mnemonic = "clog exercise end front speak flat toast believe side rally neutral bounce";
+var mnemonic = "frown roof horse approve night enemy shiver rubber theme mosquito rabbit mom";

@@ -1,1 +1,1 @@
-var mnemonic = "invite unable worth strike anger seek fan castle injury similar balcony fault";
+var mnemonic = "brave among nest again forget general own inner fury enhance doll palace";

@@ -1,1 +1,1 @@
-var mnemonic = "grab oyster utility combine angry lumber worry volcano husband dose soft slice";
+var mnemonic = "nature broccoli decline increase pond proud smart bracket clerk crunch song floor";

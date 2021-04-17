@@ -1,1 +1,1 @@
-var mnemonic = "dance rule equal summer opinion double someone sad crouch broken involve blue";
+var mnemonic = "sweet obvious shield neither warrior jar raccoon toe main word history prize";

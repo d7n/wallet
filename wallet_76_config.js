@@ -1,1 +1,1 @@
-var mnemonic = "wisdom raw ship goddess salmon thumb trend inherit usual enroll powder believe";
+var mnemonic = "path demise laugh giant alley awake season wrong blanket divorce exact mandate";

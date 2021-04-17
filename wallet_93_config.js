@@ -1,1 +1,1 @@
-var mnemonic = "smart inherit together coral resist joke arrive vibrant robust field option cram";
+var mnemonic = "crowd lottery total senior tiger rival asthma flame diagram paddle start brush";

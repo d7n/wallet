@@ -1,1 +1,1 @@
-var mnemonic = "feel license among young minor love empower alcohol pizza core ball patient";
+var mnemonic = "average frequent thank pulse common rate switch soccer arrange balance fatigue escape";

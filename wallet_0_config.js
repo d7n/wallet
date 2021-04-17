@@ -1,1 +1,1 @@
-var mnemonic = "rocket chase glimpse fiscal aisle claim penalty civil curve smooth voice arch";
+var mnemonic = "worry purpose caution pulp mechanic feel harbor brick donor mix actress monster";

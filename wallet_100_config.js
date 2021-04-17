@@ -1,1 +1,1 @@
-var mnemonic = "decrease right uncover extend village rare mandate sunset warrior treat elevator notable";
+var mnemonic = "people print tired scene disagree sadness cook glass bone voyage bind creek";

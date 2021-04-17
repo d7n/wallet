@@ -1,1 +1,1 @@
-var mnemonic = "resource put river catalog cancel grab supply pepper crime mail settle lizard";
+var mnemonic = "follow movie mom boy transfer climb normal onion tilt cushion cycle false";

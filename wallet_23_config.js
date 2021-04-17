@@ -1,1 +1,1 @@
-var mnemonic = "boil live improve lounge cupboard thumb phrase behave save rice hen movie";
+var mnemonic = "hidden invest teach chat paper civil pave sausage uncle tool cactus bless";

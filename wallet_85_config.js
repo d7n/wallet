@@ -1,1 +1,1 @@
-var mnemonic = "device juice inquiry energy crack use exit before refuse moment someone ski";
+var mnemonic = "border toss clap puzzle worth hole increase rubber auction robust kangaroo moral";

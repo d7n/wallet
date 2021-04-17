@@ -1,1 +1,1 @@
-var mnemonic = "bring foam leave round fashion wage depth learn caution accuse mansion riot";
+var mnemonic = "ankle process large gap federal thing limit when pluck cousin labor acquire";

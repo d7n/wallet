@@ -1,1 +1,1 @@
-var mnemonic = "kick illness shy erase sugar traffic hotel neutral rookie ordinary over party";
+var mnemonic = "clock lamp tilt sweet bright elder project illness document empty over learn";

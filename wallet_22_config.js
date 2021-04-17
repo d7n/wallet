@@ -1,1 +1,1 @@
-var mnemonic = "sun route forum twice desert usual bean rough ready later recycle whale";
+var mnemonic = "polar auction earth moment awful health various holiday trash notice final away";

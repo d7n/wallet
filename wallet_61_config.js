@@ -1,1 +1,1 @@
-var mnemonic = "shoot napkin permit install short cannon portion simple gym ignore radio surface";
+var mnemonic = "common rigid couple output expect sustain shift debris time aim valve dragon";

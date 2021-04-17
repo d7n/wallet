@@ -1,1 +1,1 @@
-var mnemonic = "alone sorry waste mean mango paddle eye path toilet man fork deer";
+var mnemonic = "hamster decade begin wear bamboo coconut beef cash purpose tank drip dish";

@@ -1,1 +1,1 @@
-var mnemonic = "soon invite trophy punch walnut neutral inherit uniform whisper eight orphan coffee";
+var mnemonic = "hold discover pizza suspect kite twice duty divorce brave coral celery sample";

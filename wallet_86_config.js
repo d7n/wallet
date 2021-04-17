@@ -1,1 +1,1 @@
-var mnemonic = "arrow until chapter waste grape turtle excite grass essay film two cable";
+var mnemonic = "gravity comic offer pass spike unknown off sock weird gravity repair audit";

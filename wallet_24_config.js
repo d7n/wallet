@@ -1,1 +1,1 @@
-var mnemonic = "reason verb enlist marriage wonder valve section danger bronze mention afford any";
+var mnemonic = "inquiry roast soda social oak copy hard slush recycle swarm curve clever";

@@ -1,1 +1,1 @@
-var mnemonic = "caught section penalty route diary notice feel ignore life park joke negative";
+var mnemonic = "monster blouse symptom blade discover wait dove execute total script garbage demise";

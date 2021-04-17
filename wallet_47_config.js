@@ -1,1 +1,1 @@
-var mnemonic = "ignore refuse artwork door voyage laptop urban theme live piano luxury bleak";
+var mnemonic = "possible seed couple chronic giant test domain digital crater age step orange";

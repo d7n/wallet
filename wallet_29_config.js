@@ -1,1 +1,1 @@
-var mnemonic = "hire rice spice candy nothing cabin banner arrange mean drama turn duck";
+var mnemonic = "picture memory powder nature error orphan arm syrup maple congress cloth until";

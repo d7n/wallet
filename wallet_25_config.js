@@ -1,1 +1,1 @@
-var mnemonic = "light emotion below federal valid chaos hello sample typical flower beyond agree";
+var mnemonic = "ankle mercy oven best interest ladder balcony capable early alien bring hazard";

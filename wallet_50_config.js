@@ -1,1 +1,1 @@
-var mnemonic = "flock arrive census someone dish wonder chair arctic answer common hurry service";
+var mnemonic = "price silk congress bracket calm clap middle rabbit siege fresh alter glory";

@@ -1,1 +1,1 @@
-var mnemonic = "wife about best immune matrix funny brand test estate bottom next alarm";
+var mnemonic = "moral chair kangaroo chicken brick choice knock service soon mansion tag govern";

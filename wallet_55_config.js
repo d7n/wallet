@@ -1,1 +1,1 @@
-var mnemonic = "sport pioneer silk fluid rescue myth urban media awake clinic manual term";
+var mnemonic = "search battle neither victory voyage artist spirit chronic confirm sketch aisle student";

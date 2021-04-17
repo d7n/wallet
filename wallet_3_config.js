@@ -1,1 +1,1 @@
-var mnemonic = "enter pilot hair make riot almost eagle urge nephew van myth congress";
+var mnemonic = "velvet rigid wood build miss purse cricket little remain teach belt high";

@@ -1,1 +1,1 @@
-var mnemonic = "will clay peanut above sample panic example legal vibrant shrug drill skate";
+var mnemonic = "together barrel over stage regret upset airport chase desert execute marine chest";

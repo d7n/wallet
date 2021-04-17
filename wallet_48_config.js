@@ -1,1 +1,1 @@
-var mnemonic = "denial diagram dust liquid win gap canal concert pelican dawn lava recall";
+var mnemonic = "sudden weird park fox sponsor pencil radio soldier pattern remain panda globe";

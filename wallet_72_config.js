@@ -1,1 +1,1 @@
-var mnemonic = "fold turn olive bird author orphan flame abstract solar goddess zoo blouse";
+var mnemonic = "exit credit spread harvest smooth bitter foster manage friend smooth evidence dry";

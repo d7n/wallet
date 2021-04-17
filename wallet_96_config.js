@@ -1,1 +1,1 @@
-var mnemonic = "charge cart three deer deposit donate saddle any silk citizen ensure force";
+var mnemonic = "review answer style inherit earth bench tuition brave brother stairs field abandon";

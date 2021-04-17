@@ -1,1 +1,1 @@
-var mnemonic = "call boring result tunnel torch era seven alter any famous oyster bulb";
+var mnemonic = "metal clerk survey champion lazy omit slot lonely nephew quiz whisper remember";

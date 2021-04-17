@@ -1,1 +1,1 @@
-var mnemonic = "assault age elevator imitate ahead dirt coconut degree tennis develop jewel rescue";
+var mnemonic = "cradle movie math canvas brother fabric differ maximum girl curve crime common";

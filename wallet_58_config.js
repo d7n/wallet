@@ -1,1 +1,1 @@
-var mnemonic = "announce squirrel pistol plate favorite myth clap alert try shop arrow company";
+var mnemonic = "minute gossip crew auto glad rebel history fatal biology find balance gold";

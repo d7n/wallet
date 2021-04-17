@@ -1,1 +1,1 @@
-var mnemonic = "fork dwarf author pluck defy plunge alley vehicle twist tenant tonight about";
+var mnemonic = "bulb supply garlic sleep fuel discover crowd lottery father tragic flag drip";

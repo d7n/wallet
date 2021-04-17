@@ -1,1 +1,1 @@
-var mnemonic = "hobby magnet upon pair regret maple boy blind play level like practice";
+var mnemonic = "gym crumble burst happy cook empty alley soul suit begin correct slam";

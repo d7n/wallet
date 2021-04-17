@@ -1,1 +1,1 @@
-var mnemonic = "dawn ethics invite wage right tape else piano come bid tube farm";
+var mnemonic = "find attack plate shed advance pattern away warm fancy swim sport craft";

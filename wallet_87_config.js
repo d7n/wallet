@@ -1,1 +1,1 @@
-var mnemonic = "among trim rack color glare hollow coral gain material taste yard fade";
+var mnemonic = "bargain three gauge wheat ability hand drop route vintage south crash patient";

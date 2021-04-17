@@ -1,1 +1,1 @@
-var mnemonic = "sugar unlock helmet gorilla cheap pizza tobacco arena any network swift avocado";
+var mnemonic = "chat blame sad rude exist electric entire age smart tattoo jelly orphan";

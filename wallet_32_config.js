@@ -1,1 +1,1 @@
-var mnemonic = "find endless various mobile witness come dad increase west crane tiger auction";
+var mnemonic = "ask rack desk opera dirt logic verb stem elite describe brain online";

@@ -1,1 +1,1 @@
-var mnemonic = "thing pigeon disorder again fringe absurd fold test tumble moral vessel under";
+var mnemonic = "stairs vanish ship midnight entry tribe parrot hobby boy yellow vote cute";

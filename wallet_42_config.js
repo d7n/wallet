@@ -1,1 +1,1 @@
-var mnemonic = "patch wisdom pilot uncover forest undo doll taxi settle arrow able sing";
+var mnemonic = "extend pipe good target pave tired same annual work eagle muscle expose";

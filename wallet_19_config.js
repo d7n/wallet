@@ -1,1 +1,1 @@
-var mnemonic = "spring slim song afraid street pilot raccoon minor mammal submit defy fall";
+var mnemonic = "deer squirrel add luggage clock shallow auction narrow worth all kiwi rough";

@@ -1,1 +1,1 @@
-var mnemonic = "round vessel toss deny post turkey genre reward term spawn enforce rose";
+var mnemonic = "quiz sunny behind top dragon arrest report ship scorpion volume animal hover";

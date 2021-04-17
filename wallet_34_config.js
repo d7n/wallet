@@ -1,1 +1,1 @@
-var mnemonic = "winner always initial slab drastic donor client world island more dust cave";
+var mnemonic = "lottery meadow swallow turn top vast project slot exile mother head grace";

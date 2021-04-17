@@ -1,1 +1,1 @@
-var mnemonic = "depth cherry crisp survey recall drink brisk vivid scare monitor drama helmet";
+var mnemonic = "indicate pilot audit trophy mango slim sudden amount deposit height snack marine";

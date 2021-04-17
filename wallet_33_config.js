@@ -1,1 +1,1 @@
-var mnemonic = "already siren seven mixed flight remove sort elephant indicate fork poem battle";
+var mnemonic = "shove century proud shop clerk thing bottom planet purity gauge chair leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy tuition dove fuel stage under basic volume face east arena hero";
+var mnemonic = "length pyramid frost toward raccoon rabbit rabbit buyer car express imitate flavor";

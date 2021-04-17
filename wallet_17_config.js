@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo twin father seed seed merry rescue table record marine foil muscle";
+var mnemonic = "churn trouble pattern potato aspect reunion region slot genius obtain unknown that";

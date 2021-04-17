@@ -1,1 +1,1 @@
-var mnemonic = "tower work husband mix defense caution reflect faint demise calm range item";
+var mnemonic = "lock denial shrimp goddess speak elbow attitude fall crisp balance reflect west";

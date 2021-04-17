@@ -1,1 +1,1 @@
-var mnemonic = "spatial silent stereo exist popular scene sock pull muscle join jacket flee";
+var mnemonic = "clerk mom cave start adult black permit royal guard acoustic chef twice";

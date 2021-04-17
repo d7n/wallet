@@ -1,1 +1,1 @@
-var mnemonic = "cable diesel fire educate leave broccoli give sponsor master quote travel major";
+var mnemonic = "onion drum jewel divert remove slide draw problem nose rocket stage inherit";

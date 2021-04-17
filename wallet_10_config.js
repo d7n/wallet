@@ -1,1 +1,1 @@
-var mnemonic = "finish thrive enable match video velvet sight loop number silly endorse scout";
+var mnemonic = "found win wrap lift asset elegant flock hope carbon north toast floor";

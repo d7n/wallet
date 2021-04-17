@@ -1,1 +1,1 @@
-var mnemonic = "question modify bottom mosquito cradle mad scissors mail donkey prosper skate off";
+var mnemonic = "matrix similar file shiver rude worth insect system grape error cream focus";
