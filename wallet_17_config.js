@@ -1,1 +1,1 @@
-var mnemonic = "pilot duty happy orient long pattern insect blossom furnace machine staff orange";
+var mnemonic = "initial oxygen slab open clip knee love produce matrix ghost buzz bring";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet inner grid bless beef risk orient soon they slice rather reopen";
+var mnemonic = "guess mirror shove jealous step swap rifle define robot blush surge monitor";

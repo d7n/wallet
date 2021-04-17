@@ -1,1 +1,1 @@
-var mnemonic = "swallow grant hover chase business connect barrel excite shuffle push potato laugh";
+var mnemonic = "stumble demand fiber sea talk ocean mistake hood home mention tent identify";

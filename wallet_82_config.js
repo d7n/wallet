@@ -1,1 +1,1 @@
-var mnemonic = "glue affair pilot beyond dilemma smoke cheese desk elephant noise clean country";
+var mnemonic = "advance verb romance junk ugly ketchup gather short echo awful bottom network";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny luggage fish donor ensure earth lamp polar fortune senior gain injury";
+var mnemonic = "shallow develop impose left absurd lawsuit window dust fault monkey curtain alone";

@@ -1,1 +1,1 @@
-var mnemonic = "portion rigid never soup apple vapor puzzle abuse various future three menu";
+var mnemonic = "bind scare opera mention leaf omit host walk wild tissue tragic width";

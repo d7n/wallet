@@ -1,1 +1,1 @@
-var mnemonic = "van little mosquito grace behave rigid fish afford alcohol neck caution proof";
+var mnemonic = "sphere spider dice answer soap penalty boy lunar token flip announce obscure";

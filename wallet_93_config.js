@@ -1,1 +1,1 @@
-var mnemonic = "champion act distance various move pretty fly sketch trouble arena over hello";
+var mnemonic = "safe income feel female good second popular evoke melody pole bicycle ritual";

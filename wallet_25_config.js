@@ -1,1 +1,1 @@
-var mnemonic = "venue glance spell leader swear enemy electric double fire essence course fade";
+var mnemonic = "program away garden acquire coffee symbol off miss chuckle firm start wasp";

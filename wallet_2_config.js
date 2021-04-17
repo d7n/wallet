@@ -1,1 +1,1 @@
-var mnemonic = "grain cannon inherit agent worth hill cute dynamic square because cross hamster";
+var mnemonic = "code mammal shove soldier library wheel rather entire ripple tilt arch effort";

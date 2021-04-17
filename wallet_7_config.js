@@ -1,1 +1,1 @@
-var mnemonic = "melody olympic certain early liar alley vague zoo beach ocean glow gown";
+var mnemonic = "two right number because toe copper little vague tiny depend express degree";

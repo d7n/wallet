@@ -1,1 +1,1 @@
-var mnemonic = "tissue setup dolphin toward material anger side juice gather easily athlete crime";
+var mnemonic = "razor hip win acquire volcano gap lawn sunset attack demand disease airport";

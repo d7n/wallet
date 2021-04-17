@@ -1,1 +1,1 @@
-var mnemonic = "exile box step episode card region race relax pond token oyster reform";
+var mnemonic = "noise gallery pause total thought baby rough manual hidden turkey master globe";

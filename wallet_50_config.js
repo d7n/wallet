@@ -1,1 +1,1 @@
-var mnemonic = "safe join salt error weather merry mammal mom onion cause suffer spell";
+var mnemonic = "govern survey inflict addict quantum because swim win strong oven outdoor relax";

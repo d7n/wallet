@@ -1,1 +1,1 @@
-var mnemonic = "stock scout border extend control photo elevator pig then price bench album";
+var mnemonic = "tragic demise wolf bind forum blade crew popular industry sell wheat enforce";

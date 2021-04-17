@@ -1,1 +1,1 @@
-var mnemonic = "van trend inhale debris message steak borrow govern pull wave small swim";
+var mnemonic = "item miss film still hair carpet vocal diamond visa visa gospel cart";

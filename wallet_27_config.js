@@ -1,1 +1,1 @@
-var mnemonic = "winter property almost genius invest marine power dumb myself drift layer soft";
+var mnemonic = "test second sunny client assault slender always stand garment normal whale toss";

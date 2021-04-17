@@ -1,1 +1,1 @@
-var mnemonic = "special force steak kit total neither artist large polar noble crunch before";
+var mnemonic = "crop lady soda animal impulse destroy wave invest tube betray average outer";

@@ -1,1 +1,1 @@
-var mnemonic = "final proud owner sing boil mesh primary anxiety book alpha vacuum wheel";
+var mnemonic = "fitness rally tuition hat dawn midnight fine donkey job shell one knock";

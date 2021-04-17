@@ -1,1 +1,1 @@
-var mnemonic = "sing make noise cricket lesson member bunker tourist relax general kangaroo metal";
+var mnemonic = "fortune pave gesture execute craft seat endorse camera off below donate area";

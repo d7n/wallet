@@ -1,1 +1,1 @@
-var mnemonic = "ride ring fury garbage sing spread boil color depth moral gun fade";
+var mnemonic = "main chalk cloud powder confirm fire wild fence virus add exhibit silver";

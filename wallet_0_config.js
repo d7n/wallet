@@ -1,1 +1,1 @@
-var mnemonic = "sadness spring address prevent ability viable victory ahead usual people fury hurt";
+var mnemonic = "gospel usual captain easily sick cinnamon girl tide burden scissors boost taxi";

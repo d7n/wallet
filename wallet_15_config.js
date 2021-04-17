@@ -1,1 +1,1 @@
-var mnemonic = "train fatal save grab crisp work seminar flee sport hobby matrix slogan";
+var mnemonic = "march mystery donor horn session original present surface van ask room similar";

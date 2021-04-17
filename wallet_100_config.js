@@ -1,1 +1,1 @@
-var mnemonic = "tourist clerk sketch can save say together fatal silk oyster leopard tortoise";
+var mnemonic = "fit setup forward pair riot winner topic arctic romance burger miss throw";

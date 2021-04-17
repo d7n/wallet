@@ -1,1 +1,1 @@
-var mnemonic = "rain trade goat embrace letter doll access grow shaft rapid wait inspire";
+var mnemonic = "problem stomach garlic smart example vehicle addict winter fog pattern amused member";

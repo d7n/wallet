@@ -1,1 +1,1 @@
-var mnemonic = "antique prepare legend embody company grit faculty budget solution child inject knife";
+var mnemonic = "observe volcano alter guitar loan index change bottom oak issue regular fatigue";

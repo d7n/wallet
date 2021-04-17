@@ -1,1 +1,1 @@
-var mnemonic = "subway affair spice glow basic silver burst sustain spoon lawsuit leg ramp";
+var mnemonic = "orange sick crime payment honey danger ankle pitch loan ask carry buffalo";

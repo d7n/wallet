@@ -1,1 +1,1 @@
-var mnemonic = "light dumb arrow purchase final pilot walnut laptop cattle easily minimum broom";
+var mnemonic = "rocket basket giant dirt acoustic collect oval rifle omit join lazy cover";

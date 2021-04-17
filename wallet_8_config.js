@@ -1,1 +1,1 @@
-var mnemonic = "holiday color random virtual narrow curtain carbon health parrot input elite universe";
+var mnemonic = "muffin shuffle wise snake athlete angle history mom same element scrap reunion";

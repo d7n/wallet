@@ -1,1 +1,1 @@
-var mnemonic = "remember limb answer loop else say tuna suit cancel canal surround trap";
+var mnemonic = "turn aerobic view clutch exchange lift observe shell blame safe lab merry";

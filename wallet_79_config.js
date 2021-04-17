@@ -1,1 +1,1 @@
-var mnemonic = "into market nest devote need sunny rifle spin differ six heart used";
+var mnemonic = "season unhappy jazz legend enact burger mystery tag gauge repeat warrior isolate";

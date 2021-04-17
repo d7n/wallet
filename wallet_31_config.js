@@ -1,1 +1,1 @@
-var mnemonic = "report antique fruit animal bounce estate cup goddess ripple topic rally cave";
+var mnemonic = "pulse crisp jeans lunar blush crunch ginger brand allow cloth arctic coast";

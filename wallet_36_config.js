@@ -1,1 +1,1 @@
-var mnemonic = "seminar diesel neither reward lumber armor fame common ordinary impulse nose suit";
+var mnemonic = "corn river swap electric truth funny short prize bean merit axis squirrel";

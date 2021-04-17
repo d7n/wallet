@@ -1,1 +1,1 @@
-var mnemonic = "bag blast destroy tell fade grow sauce foam sound human shiver useless";
+var mnemonic = "outer insane test prosper neutral profit economy possible mushroom tower syrup economy";

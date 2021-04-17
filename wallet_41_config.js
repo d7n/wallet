@@ -1,1 +1,1 @@
-var mnemonic = "junior shield muffin cannon runway like web own nature banner lab donate";
+var mnemonic = "sausage city route umbrella ankle fly ivory all must topple wisdom sheriff";

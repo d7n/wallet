@@ -1,1 +1,1 @@
-var mnemonic = "taxi other inch limit warfare topple unknown artefact humble antique forum curtain";
+var mnemonic = "unusual crack ill shrimp today solar bench critic shoulder face dinner owner";

@@ -1,1 +1,1 @@
-var mnemonic = "town system depart boat fiscal proof emotion vanish actress infant blush hood";
+var mnemonic = "say disagree smoke canoe asthma addict charge science cheap need easy discover";

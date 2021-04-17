@@ -1,1 +1,1 @@
-var mnemonic = "south atom artist nuclear upgrade bless axis below click axis hero dinosaur";
+var mnemonic = "between over spray relax elegant toast supply manual swallow champion hub dial";

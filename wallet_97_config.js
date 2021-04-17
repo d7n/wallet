@@ -1,1 +1,1 @@
-var mnemonic = "nephew denial universe east adjust clinic mutual report entry call despair flower";
+var mnemonic = "illness slight torch kind oak robust bonus infant giant income round bacon";

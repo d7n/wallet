@@ -1,1 +1,1 @@
-var mnemonic = "chunk rapid fork marriage device hope permit museum fall dog what romance";
+var mnemonic = "source category life easily outer retire gallery affair lumber grocery pave cereal";

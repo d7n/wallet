@@ -1,1 +1,1 @@
-var mnemonic = "vendor essay black digital cause emotion soul blossom ritual gloom search wedding";
+var mnemonic = "faith capable rhythm lobster gym put need ketchup december clap dinosaur globe";

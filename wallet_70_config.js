@@ -1,1 +1,1 @@
-var mnemonic = "vicious magic vapor sleep rigid have width drama melt capital already film";
+var mnemonic = "warfare behind plug borrow trip become assist cycle wrap stone over sunny";

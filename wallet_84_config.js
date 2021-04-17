@@ -1,1 +1,1 @@
-var mnemonic = "surface put orange few liar beef heart fence mobile say daring route";
+var mnemonic = "early acoustic vague december twin tuition north mango nuclear evil clown find";

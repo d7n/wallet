@@ -1,1 +1,1 @@
-var mnemonic = "real bracket enemy spare brisk cheese cushion dose brisk radar sister anxiety";
+var mnemonic = "guitar cricket thunder rebel permit lawn usual wall tomorrow story fatigue adult";

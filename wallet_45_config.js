@@ -1,1 +1,1 @@
-var mnemonic = "liquid crazy east brown aunt impact old earth awake asthma peasant purity";
+var mnemonic = "polar thought term shallow one burst nephew curious screen certain soft share";

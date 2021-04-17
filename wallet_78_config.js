@@ -1,1 +1,1 @@
-var mnemonic = "victory original payment adjust finger index swing alert buyer desk sweet involve";
+var mnemonic = "budget trade tone ozone member daughter battle song glance sight ask hover";

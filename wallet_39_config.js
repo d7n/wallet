@@ -1,1 +1,1 @@
-var mnemonic = "vintage diagram shoot hover bike involve human illegal snake december letter erase";
+var mnemonic = "deny tornado please fine helmet fault parrot vital pride oil drip lava";

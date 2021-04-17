@@ -1,1 +1,1 @@
-var mnemonic = "friend stay tide machine drip car charge saddle exclude annual present caught";
+var mnemonic = "forward fatal kitchen clump bubble fashion cement axis divorce outside category gift";

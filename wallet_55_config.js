@@ -1,1 +1,1 @@
-var mnemonic = "negative spin sunny expect spray merge club dismiss program weekend file thrive";
+var mnemonic = "grab ten arctic merry emotion damage clump position oppose nice wait abstract";

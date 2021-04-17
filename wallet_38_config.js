@@ -1,1 +1,1 @@
-var mnemonic = "glove churn faith wrong slam topic feature fix enact increase monkey please";
+var mnemonic = "rubber fire potato enforce game since denial thrive useful artefact other eager";

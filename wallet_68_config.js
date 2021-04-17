@@ -1,1 +1,1 @@
-var mnemonic = "local essence there race ignore lobster express mystery horse scorpion two guitar";
+var mnemonic = "music symptom corn purse pill useless bulk tunnel eagle sample hurry camp";

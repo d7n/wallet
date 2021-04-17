@@ -1,1 +1,1 @@
-var mnemonic = "coach enable extra giant wall gap erosion envelope film debris liar barely";
+var mnemonic = "shadow boat hold voice normal life book mixture virtual deny spot accident";

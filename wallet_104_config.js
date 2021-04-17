@@ -1,1 +1,1 @@
-var mnemonic = "cricket disorder daring veteran liquid obey strategy fresh picnic practice doctor tennis";
+var mnemonic = "horse light broom idle buffalo update can only beach actual disease design";

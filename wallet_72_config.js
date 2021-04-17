@@ -1,1 +1,1 @@
-var mnemonic = "alone tragic base double humble summer garment lab current kite script silent";
+var mnemonic = "hard pudding beef item drink drum face can museum shell ancient erase";

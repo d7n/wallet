@@ -1,1 +1,1 @@
-var mnemonic = "hotel dust vocal dry design garage prefer rebuild gown truck art lobster";
+var mnemonic = "person angry carpet execute observe section scrub lecture pen modify system bounce";

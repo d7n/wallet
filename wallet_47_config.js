@@ -1,1 +1,1 @@
-var mnemonic = "sweet frequent winter glove once organ grunt decline coast toe hat response";
+var mnemonic = "sustain gather frown chunk rice fortune cloud catch excite disagree judge dry";

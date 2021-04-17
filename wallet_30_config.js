@@ -1,1 +1,1 @@
-var mnemonic = "burger deal dirt comfort copy visa feed nose friend spend shadow grief";
+var mnemonic = "pave estate catalog enter usual trend point carbon vault second try reunion";

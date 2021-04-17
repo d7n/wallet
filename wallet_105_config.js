@@ -1,1 +1,1 @@
-var mnemonic = "minimum poverty napkin abandon scissors tuition mutual salute wide want knock elder";
+var mnemonic = "pupil obtain earth flip again height high mosquito chief layer trend race";

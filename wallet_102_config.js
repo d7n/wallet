@@ -1,1 +1,1 @@
-var mnemonic = "amazing garlic area female enough asset card upgrade jealous typical body dose";
+var mnemonic = "spatial economy shove avoid retire parrot uniform bulb shift usage oval board";

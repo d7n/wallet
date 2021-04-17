@@ -1,1 +1,1 @@
-var mnemonic = "present level amazing kite license goose lunch mosquito coconut zero debris brush";
+var mnemonic = "rack hip blanket mother party harbor canvas universe bread document lion disorder";

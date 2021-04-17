@@ -1,1 +1,1 @@
-var mnemonic = "yellow absurd faint broom boat fury duty cereal crater casual pretty iron";
+var mnemonic = "pull file core cool sail capable modify champion raise become monkey twist";

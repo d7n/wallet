@@ -1,1 +1,1 @@
-var mnemonic = "toddler company minute diesel repeat regret expand intact pass north inch topple";
+var mnemonic = "copy shoot weekend faculty hollow chicken settle rural valid sheriff escape stove";

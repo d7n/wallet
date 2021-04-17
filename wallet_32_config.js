@@ -1,1 +1,1 @@
-var mnemonic = "radar quick want screen foil mixed youth eagle visual twelve bubble glad";
+var mnemonic = "test match salt south canoe just legend dilemma acoustic lecture miracle clerk";

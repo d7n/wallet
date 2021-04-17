@@ -1,1 +1,1 @@
-var mnemonic = "letter tobacco arena rose vendor simple diesel save family deer assault start";
+var mnemonic = "snow banner avoid brick famous work blanket visual million galaxy key ship";

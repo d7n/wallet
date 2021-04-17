@@ -1,1 +1,1 @@
-var mnemonic = "remember radar liberty sure minute can ordinary brave apology mango idle jacket";
+var mnemonic = "fade squeeze embrace husband usual staff argue hobby false use pride rude";

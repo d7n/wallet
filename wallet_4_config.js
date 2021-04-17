@@ -1,1 +1,1 @@
-var mnemonic = "comfort fan yard air bag law degree include rural web farm goat";
+var mnemonic = "note mistake birth cute drum bachelor finger asthma all dry key digital";

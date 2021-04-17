@@ -1,1 +1,1 @@
-var mnemonic = "age develop month squirrel ancient clean fancy inch situate poverty bundle attend";
+var mnemonic = "proof thumb snap box decide problem problem crash odor entire taste obtain";

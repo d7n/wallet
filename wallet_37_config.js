@@ -1,1 +1,1 @@
-var mnemonic = "host utility target pretty omit empty annual snack produce boss magnet differ";
+var mnemonic = "team diamond obtain agent good drift fiber price mix poem hockey truly";

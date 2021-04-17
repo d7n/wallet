@@ -1,1 +1,1 @@
-var mnemonic = "person voyage affair sphere van soccer grief acoustic turkey culture solution property";
+var mnemonic = "combine similar biology crumble victory fence sad join shrug melody walk impose";

@@ -1,1 +1,1 @@
-var mnemonic = "simple swallow donor stool elder dance melody romance pepper panda select sight";
+var mnemonic = "strong want naive duty club monster cabin method busy major token frame";

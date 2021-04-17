@@ -1,1 +1,1 @@
-var mnemonic = "pigeon section palm web torch type lesson depend magnet health resist observe";
+var mnemonic = "desk law sorry pepper floor job because topple faint cannon settle spice";

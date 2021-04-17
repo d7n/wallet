@@ -1,1 +1,1 @@
-var mnemonic = "learn review outside glad machine tornado gauge mimic vocal believe only offer";
+var mnemonic = "fade fossil route wish taste blush elite rifle vessel market cool mail";

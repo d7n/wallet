@@ -1,1 +1,1 @@
-var mnemonic = "decline finger direct gate valley repair easily income earn chunk sister alone";
+var mnemonic = "risk express hurdle letter spike notable chimney wave occur response gloom chapter";

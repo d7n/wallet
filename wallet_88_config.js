@@ -1,1 +1,1 @@
-var mnemonic = "decorate lift display soldier category giggle couch inflict creek switch coil focus";
+var mnemonic = "absurd wood announce make mammal have tonight hat embrace poet palace copy";

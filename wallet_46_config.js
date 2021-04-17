@@ -1,1 +1,1 @@
-var mnemonic = "broken material bread coil cloud thumb island extra deliver poem rebel destroy";
+var mnemonic = "sing door impact dial cruise animal consider unknown tunnel escape nerve inflict";

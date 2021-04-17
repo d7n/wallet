@@ -1,1 +1,1 @@
-var mnemonic = "until muffin decline mystery anxiety nuclear tonight cat lawsuit odor anger pond";
+var mnemonic = "acoustic lawn minute horse such text slam palace rice bicycle top stool";

@@ -1,1 +1,1 @@
-var mnemonic = "march dumb leopard ignore else ankle alarm coconut private tenant country margin";
+var mnemonic = "charge print pigeon interest lesson wool price slim cheap wealth erupt tray";

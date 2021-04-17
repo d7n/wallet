@@ -1,1 +1,1 @@
-var mnemonic = "crime toss curious analyst issue material high modify van insect away begin";
+var mnemonic = "tiny frog know true cram keep science beach aerobic slow ritual prefer";

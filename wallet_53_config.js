@@ -1,1 +1,1 @@
-var mnemonic = "usual inject among hobby panda cash exotic pulp sample route either nothing";
+var mnemonic = "giant spin first weasel blood input style taxi era dumb civil nurse";

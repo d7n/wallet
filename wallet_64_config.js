@@ -1,1 +1,1 @@
-var mnemonic = "innocent couch motion wreck lucky blur govern flame sight valve ski situate";
+var mnemonic = "child balance image song salt vault chunk later twice august exotic among";

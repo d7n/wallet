@@ -1,1 +1,1 @@
-var mnemonic = "explain insect favorite outdoor wash innocent dish response open educate gaze dizzy";
+var mnemonic = "urban discover shallow edit student science alter fuel glass napkin friend route";

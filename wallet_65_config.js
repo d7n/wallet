@@ -1,1 +1,1 @@
-var mnemonic = "fiscal blame alert salt theory treat oven rescue orphan gift safe gentle";
+var mnemonic = "agent assume practice rude hundred giant miracle emotion duck current left area";

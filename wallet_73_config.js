@@ -1,1 +1,1 @@
-var mnemonic = "balcony clay begin trial icon decline bone people cram famous kick ivory";
+var mnemonic = "mixed address empower melody craft brand true barely before wave render must";

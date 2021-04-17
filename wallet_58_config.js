@@ -1,1 +1,1 @@
-var mnemonic = "surround target admit explain grace copper hidden fatigue profit cause stone judge";
+var mnemonic = "knife sweet mule acoustic hockey huge auction language clip favorite swap cross";

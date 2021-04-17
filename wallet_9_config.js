@@ -1,1 +1,1 @@
-var mnemonic = "treat series prosper alone race keen axis cabin arrow toe green dizzy";
+var mnemonic = "legal tree strike avoid today base face rare trick sister arrive coast";

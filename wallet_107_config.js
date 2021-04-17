@@ -1,1 +1,1 @@
-var mnemonic = "fabric orchard chicken amused six render limb smooth fix bachelor situate vacant";
+var mnemonic = "argue benefit excess convince draw bulb giraffe hollow naive useful rail assist";

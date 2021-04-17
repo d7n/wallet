@@ -1,1 +1,1 @@
-var mnemonic = "exchange volume trophy remove east brass example team liar invest sweet eight";
+var mnemonic = "equal flag core stumble doctor crater boring buyer argue size popular order";

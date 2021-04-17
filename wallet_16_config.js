@@ -1,1 +1,1 @@
-var mnemonic = "unusual monitor olympic rose enter argue bless sad oblige sunny country virus";
+var mnemonic = "legal dinner mother eye twist unique interest law shoot middle fiber crouch";

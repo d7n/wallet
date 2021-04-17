@@ -1,1 +1,1 @@
-var mnemonic = "sand fire regret dinosaur derive embark balcony pave lesson goddess involve uncover";
+var mnemonic = "choose depart glare obey priority frequent share afraid bless hazard dice can";

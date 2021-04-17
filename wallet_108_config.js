@@ -1,1 +1,1 @@
-var mnemonic = "fee fun year favorite pond release taste other grief they galaxy drip";
+var mnemonic = "situate video expose faculty unfair bonus depend debris sausage blame apple decorate";

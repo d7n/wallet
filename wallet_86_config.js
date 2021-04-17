@@ -1,1 +1,1 @@
-var mnemonic = "tortoise scan pause try exit daughter giant segment plunge blind canvas bind";
+var mnemonic = "night check boring bullet involve trouble clutch rude invest local hundred try";

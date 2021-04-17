@@ -1,1 +1,1 @@
-var mnemonic = "fresh release dilemma they stamp taste apology poverty few brass you theme";
+var mnemonic = "mail obscure early mesh stuff glare tobacco chase patient kingdom prevent crucial";

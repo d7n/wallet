@@ -1,1 +1,1 @@
-var mnemonic = "public blouse pond ladder poverty nasty use pipe ribbon elephant pipe wagon";
+var mnemonic = "spray swing poet quick word slight forget rice denial risk blood return";

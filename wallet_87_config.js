@@ -1,1 +1,1 @@
-var mnemonic = "impose find region middle ball accuse amount fat father dash tuna truth";
+var mnemonic = "own list nerve still clerk topic volume inspire eternal scale plate canoe";

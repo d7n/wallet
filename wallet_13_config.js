@@ -1,1 +1,1 @@
-var mnemonic = "staff hazard tent risk fish expire grit basket evoke enroll upon draw";
+var mnemonic = "beyond afford grain grape alert tragic unhappy promote play minute fever fork";
