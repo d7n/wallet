@@ -1,1 +1,1 @@
-var mnemonic = "bulk away argue choose usual finish patrol carpet impact tortoise buyer uncover";
+var mnemonic = "team crucial leg volume clever song expire lumber all weather boy good";

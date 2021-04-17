@@ -1,1 +1,1 @@
-var mnemonic = "slice pair silly turtle random pluck soldier exile timber concert echo round";
+var mnemonic = "inquiry buyer bracket enforce speed skill view learn enroll fine chronic notable";

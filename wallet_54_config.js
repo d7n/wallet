@@ -1,1 +1,1 @@
-var mnemonic = "fashion credit bitter sand powder joke olive put gentle memory idea whale";
+var mnemonic = "give initial donor exhibit lady thrive shaft shuffle amazing reject exotic garden";

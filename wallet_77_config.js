@@ -1,1 +1,1 @@
-var mnemonic = "auction social screen wasp exotic lazy wheat south blade cup burden ridge";
+var mnemonic = "second such picture picture chef six veteran elite jelly weekend brand own";

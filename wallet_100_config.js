@@ -1,1 +1,1 @@
-var mnemonic = "chase gentle empower repair illegal situate insect orient wife reveal ship shine";
+var mnemonic = "enable scene room price floor country heart measure describe beef game pulp";

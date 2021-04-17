@@ -1,1 +1,1 @@
-var mnemonic = "surprise joke wire sort news kitchen idea dove six trade dinosaur grit";
+var mnemonic = "pelican ginger equal throw smile day brick rich pen clever sugar culture";

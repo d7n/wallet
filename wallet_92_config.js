@@ -1,1 +1,1 @@
-var mnemonic = "laundry trumpet program fringe stool wagon cushion corn door current embody away";
+var mnemonic = "buffalo oval clay provide airport bitter solve damage rescue genre reflect girl";

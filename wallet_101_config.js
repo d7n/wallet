@@ -1,1 +1,1 @@
-var mnemonic = "mushroom come horse predict unaware around interest infant ankle inch better sibling";
+var mnemonic = "sauce common color reopen foster desk measure rhythm screen mango place work";

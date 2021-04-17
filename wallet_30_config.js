@@ -1,1 +1,1 @@
-var mnemonic = "pilot face concert urge laptop matter adapt across illness rebuild submit hospital";
+var mnemonic = "salmon wide museum gather custom smart flight asset trim scale price broken";

@@ -1,1 +1,1 @@
-var mnemonic = "novel list panic lawsuit whisper comfort secret hedgehog jazz animal galaxy fork";
+var mnemonic = "dad bacon assume expect race zebra lava mouse great father play denial";

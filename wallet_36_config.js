@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin relax harbor south armed return april crack soap equip ill source";
+var mnemonic = "term stool author can assume favorite unhappy flight apart smile solar depart";

@@ -1,1 +1,1 @@
-var mnemonic = "regular explain balcony action mandate enter usage bid visual town fashion humble";
+var mnemonic = "execute general bamboo camp congress wrestle piece trick select pen mad blanket";

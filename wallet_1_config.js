@@ -1,1 +1,1 @@
-var mnemonic = "evil beef hundred almost planet brisk whip elbow exchange unique license topic";
+var mnemonic = "symbol cart rain public outside foster oblige hockey nuclear current section uncle";

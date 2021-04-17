@@ -1,1 +1,1 @@
-var mnemonic = "snap rice keep style tank disease again brass badge nasty announce note";
+var mnemonic = "skin fitness profit game gloom west bonus bamboo fine sound repeat nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "august weekend prepare evoke argue virus best open north timber pizza tragic";
+var mnemonic = "loud trim scan salute absent lottery decade tower country blossom day report";

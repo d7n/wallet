@@ -1,1 +1,1 @@
-var mnemonic = "artefact affair mango run leaf present shed fury soap account bicycle inch";
+var mnemonic = "raccoon social legend enact leader profit kit trust want decline black pencil";

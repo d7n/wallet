@@ -1,1 +1,1 @@
-var mnemonic = "boring museum wash mountain olympic sail myself helmet correct hope green disease";
+var mnemonic = "gesture young air regular cliff title forest machine distance exile eagle print";

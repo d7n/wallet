@@ -1,1 +1,1 @@
-var mnemonic = "hammer dial song neutral gorilla squeeze apple sketch jelly acid doctor artwork";
+var mnemonic = "mule force cattle couple trend protect task glow obtain please dilemma small";

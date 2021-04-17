@@ -1,1 +1,1 @@
-var mnemonic = "curve famous such dignity inhale phrase melt effort stool rally proud tumble";
+var mnemonic = "soccer elbow wealth brisk photo destroy future student taxi wool cake surround";

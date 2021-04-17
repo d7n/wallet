@@ -1,1 +1,1 @@
-var mnemonic = "candy pitch drop leopard attend antenna fury melody demand found payment decorate";
+var mnemonic = "violin party already napkin cupboard grid uniform spider toe rose emotion couch";

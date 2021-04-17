@@ -1,1 +1,1 @@
-var mnemonic = "bulb bargain maximum deputy task pioneer bench naive void resist honey credit";
+var mnemonic = "wide rebel abstract home supreme lazy define delay dismiss buddy face push";

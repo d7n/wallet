@@ -1,1 +1,1 @@
-var mnemonic = "north jealous race stadium slim trick genre mobile sign army brisk guess";
+var mnemonic = "can idle found sugar domain equal orchard deliver park kidney gravity manage";

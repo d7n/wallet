@@ -1,1 +1,1 @@
-var mnemonic = "december response thought drive apart much shock lab bottom figure sunny net";
+var mnemonic = "coil icon image snake valve mushroom bone giant paper rather pottery online";

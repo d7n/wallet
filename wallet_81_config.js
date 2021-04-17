@@ -1,1 +1,1 @@
-var mnemonic = "proud film impulse curve address gentle art work loan have ranch control";
+var mnemonic = "amateur advance stay gallery wash inch carpet surge chase divide category gun";

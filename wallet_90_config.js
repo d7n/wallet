@@ -1,1 +1,1 @@
-var mnemonic = "want enter utility huge champion multiply jazz piece kick blood detail hip";
+var mnemonic = "pretty kid category family identify medal dash move avoid undo deer visual";

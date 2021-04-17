@@ -1,1 +1,1 @@
-var mnemonic = "beef unlock broom orphan armor tooth bullet purse odor lonely already mimic";
+var mnemonic = "turtle roof alert spirit hire cradle marble elder wreck broken neck next";

@@ -1,1 +1,1 @@
-var mnemonic = "detail oppose reform potato situate easily limit wave senior meat strike witness";
+var mnemonic = "alert verb else luggage stadium collect arena decide hope decade exist rather";

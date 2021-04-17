@@ -1,1 +1,1 @@
-var mnemonic = "time term enrich ethics already produce witness kick embrace fiscal need attract";
+var mnemonic = "rookie maze push south bone emerge link noble arm hidden thank exchange";

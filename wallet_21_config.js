@@ -1,1 +1,1 @@
-var mnemonic = "tag lamp flame pepper advice funny outdoor symbol few thumb disagree parade";
+var mnemonic = "injury goddess sugar enlist craft force sister actor cram salute pause vault";

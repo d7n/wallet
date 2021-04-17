@@ -1,1 +1,1 @@
-var mnemonic = "town tuition order brisk version genuine approve leaf oyster tiny because rival";
+var mnemonic = "upon agree snap metal away razor crunch camp local soap movie refuse";

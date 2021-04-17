@@ -1,1 +1,1 @@
-var mnemonic = "express ridge mercy useless snow six unique item discover dragon stairs fantasy";
+var mnemonic = "elder bus try camp near unit clarify north warrior goddess gap dove";

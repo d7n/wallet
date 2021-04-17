@@ -1,1 +1,1 @@
-var mnemonic = "exact unable educate discover stable urge table flock nominee pet still oyster";
+var mnemonic = "orphan tunnel major taxi ordinary diagram robust era cart loud glide either";

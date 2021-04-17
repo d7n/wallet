@@ -1,1 +1,1 @@
-var mnemonic = "decade step stamp onion express inhale hollow margin ceiling peasant strategy ozone";
+var mnemonic = "tennis sauce zebra anxiety mule hunt milk hold question exhaust adult arena";

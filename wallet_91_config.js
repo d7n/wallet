@@ -1,1 +1,1 @@
-var mnemonic = "fence member picnic poet peasant wise tool lift limb limit coach tunnel";
+var mnemonic = "shoulder spy dinner sort setup bullet metal display frozen snap boss brother";

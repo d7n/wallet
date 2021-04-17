@@ -1,1 +1,1 @@
-var mnemonic = "horn erase innocent beauty rose phrase about menu spot wagon olympic swear";
+var mnemonic = "chest infant sniff repeat orient two hockey setup divorce aisle hub sister";

@@ -1,1 +1,1 @@
-var mnemonic = "oak bronze balance cable lawn subject public fan keep vault foil taste";
+var mnemonic = "sock brain please hard mushroom caught connect rate dizzy reunion elder opera";

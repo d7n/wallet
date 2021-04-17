@@ -1,1 +1,1 @@
-var mnemonic = "pig fragile please build tonight infant clock initial essence misery symbol chronic";
+var mnemonic = "rifle announce cost hazard grape scorpion volcano submit tiny width renew night";

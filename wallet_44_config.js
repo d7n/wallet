@@ -1,1 +1,1 @@
-var mnemonic = "have ill very reopen build fabric mask bird twice tomato oxygen flush";
+var mnemonic = "matrix powder mistake notable giant woman immense swamp sell enroll shine grit";

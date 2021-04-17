@@ -1,1 +1,1 @@
-var mnemonic = "clap pave glass ketchup tower entry vivid rich marble suffer harvest mercy";
+var mnemonic = "used occur office wine mistake fade list buzz mystery harsh trade next";

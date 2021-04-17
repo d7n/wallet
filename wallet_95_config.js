@@ -1,1 +1,1 @@
-var mnemonic = "mad gift settle laugh blind glance glad profit old furnace camera aerobic";
+var mnemonic = "dizzy story that ice stage happy assume apple muffin thunder mountain dove";

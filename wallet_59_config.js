@@ -1,1 +1,1 @@
-var mnemonic = "dune game hobby rude alcohol noble topic mask nature pencil device chef";
+var mnemonic = "burst turkey congress rate ripple drill evil ghost target miracle acid drink";

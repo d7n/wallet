@@ -1,1 +1,1 @@
-var mnemonic = "about embark game measure bird drip split wear engage maple rubber regret";
+var mnemonic = "boost project consider fiber spend critic eight cute vast swarm tomato appear";

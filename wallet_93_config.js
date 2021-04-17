@@ -1,1 +1,1 @@
-var mnemonic = "doctor canyon replace sponsor cat letter country knee marble network dirt kite";
+var mnemonic = "envelope sell chapter dial pitch surge sister venture wild air road coach";

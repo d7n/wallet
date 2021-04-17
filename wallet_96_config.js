@@ -1,1 +1,1 @@
-var mnemonic = "quick health ancient draft skill evil promote someone stand element double success";
+var mnemonic = "act congress escape speed file easy infant kit stick coast tool change";

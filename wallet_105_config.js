@@ -1,1 +1,1 @@
-var mnemonic = "spatial deposit shed click arrive swap oblige inspire stand flush addict degree";
+var mnemonic = "symbol mutual desk account click poem match test turkey waste cave clump";

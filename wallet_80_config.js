@@ -1,1 +1,1 @@
-var mnemonic = "train strike position repair earn music finish soul box sock diesel strategy";
+var mnemonic = "success aerobic innocent letter brick truck deny slush emotion uniform pass mesh";

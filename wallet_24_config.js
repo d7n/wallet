@@ -1,1 +1,1 @@
-var mnemonic = "leave barrel label metal ridge seek render erosion gain park bonus pelican";
+var mnemonic = "omit wheel grab crash comic immune property into slice analyst meadow cricket";

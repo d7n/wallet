@@ -1,1 +1,1 @@
-var mnemonic = "pluck payment wave science general loud pull envelope clay will pepper ill";
+var mnemonic = "athlete sample service disease desert staff broken math talk note cattle trial";

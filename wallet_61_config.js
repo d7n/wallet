@@ -1,1 +1,1 @@
-var mnemonic = "stove jacket absurd cry helmet dish ocean size upgrade menu wire frame";
+var mnemonic = "joy unusual earth tumble type miracle print syrup high toddler category relief";

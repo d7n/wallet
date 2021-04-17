@@ -1,1 +1,1 @@
-var mnemonic = "polar purpose check mule phone lyrics february name clump pluck obey rose";
+var mnemonic = "worry toast coyote print allow describe fade carbon pyramid venture ring maximum";

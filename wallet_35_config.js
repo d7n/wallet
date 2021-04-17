@@ -1,1 +1,1 @@
-var mnemonic = "oval always crater satisfy copy impact legend chuckle solve innocent lecture dress";
+var mnemonic = "glove gorilla surprise version unit able card hurry end canoe hedgehog diesel";

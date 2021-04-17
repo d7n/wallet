@@ -1,1 +1,1 @@
-var mnemonic = "mom shed quiz staff youth poet reform visual wait dinosaur scorpion hollow";
+var mnemonic = "tell erosion salt winner friend swim noble wreck desk citizen setup idea";

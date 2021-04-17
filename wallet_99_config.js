@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog reward spice destroy intact diet coast february mesh page zone game";
+var mnemonic = "pink elite giggle speed earn latin risk zebra eager fashion brave artefact";

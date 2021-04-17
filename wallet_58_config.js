@@ -1,1 +1,1 @@
-var mnemonic = "vintage twenty profit cheese diamond memory tip gentle dress cheap spice strike";
+var mnemonic = "boost box curious inject elevator busy estate siren chef canvas demise upon";

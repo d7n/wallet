@@ -1,1 +1,1 @@
-var mnemonic = "range farm hazard pioneer opinion space jungle piano barely frame hire dismiss";
+var mnemonic = "tool raven duck aspect mother waste pill blind wine auto antenna awake";

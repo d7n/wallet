@@ -1,1 +1,1 @@
-var mnemonic = "decide dad waste assault action way twice pledge repeat remove arctic finger";
+var mnemonic = "junior result annual account rib quote trick chicken include salmon spice melody";

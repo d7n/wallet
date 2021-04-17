@@ -1,1 +1,1 @@
-var mnemonic = "gaze diamond indicate whisper nerve trap toast blast quiz toast rent flee";
+var mnemonic = "hamster theory pledge chaos camp stove all silver order shed cook fuel";

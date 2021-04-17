@@ -1,1 +1,1 @@
-var mnemonic = "shrimp present hurdle wet door mad extend snow diary woman wait crash";
+var mnemonic = "vehicle law fresh review toast swing average fetch income okay absorb owner";

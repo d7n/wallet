@@ -1,1 +1,1 @@
-var mnemonic = "alert athlete spoil camera embark tail captain when unveil fold any gentle";
+var mnemonic = "measure suit grain first rug awesome response sustain state problem meat evolve";

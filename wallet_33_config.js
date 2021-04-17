@@ -1,1 +1,1 @@
-var mnemonic = "guitar panther acid average winter vanish feel cannon tower clever shuffle egg";
+var mnemonic = "timber blossom immune system mule mixed dignity horror depend prize hub giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "easily rally clinic nice novel air correct mesh mix little cattle result";
+var mnemonic = "gold modify holiday general ten math roof cigar become local welcome utility";

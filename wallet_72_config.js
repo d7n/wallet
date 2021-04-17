@@ -1,1 +1,1 @@
-var mnemonic = "clap legal fancy bulk wave enable chef power exist leaf rug private";
+var mnemonic = "middle soft squeeze tone myth capable roast duty ankle orchard pepper fiction";

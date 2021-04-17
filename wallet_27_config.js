@@ -1,1 +1,1 @@
-var mnemonic = "assist canoe dynamic learn office energy print bread flag move upon bulb";
+var mnemonic = "crime dance major squirrel steel glass shy wolf boat disease latin lizard";

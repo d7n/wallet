@@ -1,1 +1,1 @@
-var mnemonic = "effort budget undo tired dry coil bike faith pulp luxury nerve claw";
+var mnemonic = "orchard thank laptop become together bulk torch mother spray humble siren sport";

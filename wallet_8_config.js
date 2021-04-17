@@ -1,1 +1,1 @@
-var mnemonic = "alarm flee vote behind throw silk solve ketchup tumble famous seek inhale";
+var mnemonic = "wink cake position shaft million erode sick deputy test unknown arm void";

@@ -1,1 +1,1 @@
-var mnemonic = "outside episode jazz hood champion prison cream west scan liquid economy veteran";
+var mnemonic = "bundle spider possible inspire spend pottery climb artefact pigeon favorite shrimp risk";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty focus rely fall bunker derive moment hat diamond diet habit dog";
+var mnemonic = "mad viable hobby crash echo despair long online novel volcano problem ceiling";

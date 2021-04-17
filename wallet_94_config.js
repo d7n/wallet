@@ -1,1 +1,1 @@
-var mnemonic = "exhaust source scrap warm stuff mule captain ribbon ski sudden roof father";
+var mnemonic = "wheat match dry decorate inherit lottery image bread beauty pulse flag float";

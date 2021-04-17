@@ -1,1 +1,1 @@
-var mnemonic = "circle unknown ritual clock senior build asset under pupil west regular recipe";
+var mnemonic = "staff relax gesture nut spread head color media segment drum hole oblige";

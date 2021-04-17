@@ -1,1 +1,1 @@
-var mnemonic = "trend session only regular helmet puzzle burden scene funny example planet space";
+var mnemonic = "slice ramp blade sketch lady only bleak tent deer catalog word uncover";

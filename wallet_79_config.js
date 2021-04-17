@@ -1,1 +1,1 @@
-var mnemonic = "thing stay electric slice danger render jeans unfold always tool vacuum warm";
+var mnemonic = "grid trial coil lift essence muscle bridge food winner shadow lamp onion";

@@ -1,1 +1,1 @@
-var mnemonic = "regret cupboard blue uncle fetch cover jump carry palace swing super gain";
+var mnemonic = "intact tag issue approve crumble jungle fix owner result fragile stomach chalk";

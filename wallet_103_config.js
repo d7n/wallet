@@ -1,1 +1,1 @@
-var mnemonic = "possible minor document hammer seminar derive swear runway neutral travel become romance";
+var mnemonic = "cake loop crumble bachelor other badge pioneer quote sunset donate able subject";

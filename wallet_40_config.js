@@ -1,1 +1,1 @@
-var mnemonic = "supply lava grab vocal ribbon entire cool grape urge ozone either world";
+var mnemonic = "middle mind comic journey suffer girl now evolve riot ring allow elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "fall chicken pool sheriff moon hair run wine wait smart orange able";
+var mnemonic = "mother hawk bounce cable gate armed talent erupt churn save recycle fabric";

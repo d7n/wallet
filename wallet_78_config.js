@@ -1,1 +1,1 @@
-var mnemonic = "success bright mixture clip what nose million baby fashion home tobacco useful";
+var mnemonic = "master whale deposit echo plastic curtain hood plug hurt vendor sibling thumb";

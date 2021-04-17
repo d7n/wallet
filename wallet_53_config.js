@@ -1,1 +1,1 @@
-var mnemonic = "retire method account hen nasty danger power describe fashion oven control blind";
+var mnemonic = "upon alert second slim assist excite muscle broken general source sentence action";

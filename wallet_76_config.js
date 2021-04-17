@@ -1,1 +1,1 @@
-var mnemonic = "ugly vehicle unknown drink lab differ link corn cabbage bachelor film siren";
+var mnemonic = "tuition guess ring salmon elevator butter pass inherit never degree return prosper";

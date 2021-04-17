@@ -1,1 +1,1 @@
-var mnemonic = "friend ordinary awkward clerk gospel rail chapter achieve very imitate dress arena";
+var mnemonic = "husband dismiss fragile wrong wheel rally employ notice zero sting situate dwarf";

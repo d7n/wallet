@@ -1,1 +1,1 @@
-var mnemonic = "result clog beyond need pig clay brain uniform road moral kite banana";
+var mnemonic = "story pyramid awkward soon ability rude pledge exit spoil caught transfer custom";

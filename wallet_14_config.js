@@ -1,1 +1,1 @@
-var mnemonic = "tone other radio ridge cigar gospel rapid lady female smile ocean danger";
+var mnemonic = "budget fury people army summer session runway gown enlist auction coconut hybrid";

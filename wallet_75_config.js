@@ -1,1 +1,1 @@
-var mnemonic = "wool bridge hollow today frown humble involve phone chunk arena embody board";
+var mnemonic = "enough lock burden anxiety cream amount energy spray oak liar orphan omit";

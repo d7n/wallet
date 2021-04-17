@@ -1,1 +1,1 @@
-var mnemonic = "patrol whale fiber squeeze rule record alter rapid pattern saddle disorder outer";
+var mnemonic = "afraid photo team pond suit life smoke crisp gravity bachelor tool square";

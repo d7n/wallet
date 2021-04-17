@@ -1,1 +1,1 @@
-var mnemonic = "tank miracle century drum exit diet palace tunnel judge vehicle winner luggage";
+var mnemonic = "sudden sort ostrich purity crew inject artefact soap duck sniff bargain valid";

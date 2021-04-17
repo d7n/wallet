@@ -1,1 +1,1 @@
-var mnemonic = "orchard dice legend stick spare dice random when quarter basic walnut illness";
+var mnemonic = "piece symptom salute field chase cage limb siege melt health stage baby";

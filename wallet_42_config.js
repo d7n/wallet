@@ -1,1 +1,1 @@
-var mnemonic = "today truth claw hat great fall general slender ahead spread front prison";
+var mnemonic = "grain pride rather cheese green slot jump juice rebel squeeze steel embrace";

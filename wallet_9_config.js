@@ -1,1 +1,1 @@
-var mnemonic = "creek erupt bean dizzy drink armed stamp claim mansion theme ice torch";
+var mnemonic = "casual solve aisle inquiry original sport write conduct table check word tank";

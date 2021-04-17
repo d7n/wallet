@@ -1,1 +1,1 @@
-var mnemonic = "orange verify kiss member lawn someone dinner vibrant now pet despair error";
+var mnemonic = "eight winter exhibit slice color two loop vivid sail pear aerobic local";

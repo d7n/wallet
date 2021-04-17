@@ -1,1 +1,1 @@
-var mnemonic = "find early vault pole ship arctic immune arrow fiction total profit emotion";
+var mnemonic = "snack title dry emerge change disorder swim method master frequent coach kiss";

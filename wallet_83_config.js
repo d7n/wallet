@@ -1,1 +1,1 @@
-var mnemonic = "pear salmon sorry bracket draft rhythm uncle wage price off select ski";
+var mnemonic = "cherry detail video shock fatigue suggest work measure fly issue welcome tragic";

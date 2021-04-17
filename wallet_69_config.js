@@ -1,1 +1,1 @@
-var mnemonic = "pole deliver alcohol lamp crumble cave muffin exact clip soccer danger bicycle";
+var mnemonic = "hole ignore gauge process stove type piece virus tongue essence lava skill";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel wire festival hurdle inhale unit develop arrive collect blanket manage track";
+var mnemonic = "laptop bitter news enemy clinic word final chicken charge clay orient music";

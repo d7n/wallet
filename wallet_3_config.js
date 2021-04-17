@@ -1,1 +1,1 @@
-var mnemonic = "struggle garment awkward gasp strong message spatial gain allow crucial tide capital";
+var mnemonic = "asthma raise frequent please thumb recall atom major orchard cannon salon trade";
