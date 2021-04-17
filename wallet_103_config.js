@@ -1,1 +1,1 @@
-var mnemonic = "nut action upon opera wheat digital panic love october rhythm hair vapor";
+var mnemonic = "live chalk donor muffin apart grab tired spell sentence spread grit seminar";

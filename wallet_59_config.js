@@ -1,1 +1,1 @@
-var mnemonic = "wild margin tube piano place gospel improve require arch velvet tone chest";
+var mnemonic = "cattle fancy danger wet giant nerve mountain flat congress used awesome day";

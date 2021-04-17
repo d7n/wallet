@@ -1,1 +1,1 @@
-var mnemonic = "move hedgehog only ankle habit tip derive rally labor liar bracket then";
+var mnemonic = "scorpion seat electric employ during tuition switch apart traffic evil chief hurdle";

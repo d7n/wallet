@@ -1,1 +1,1 @@
-var mnemonic = "discover zebra smile dial must three lobster silk whisper seven salad scale";
+var mnemonic = "hockey scrub cradle boil rapid quality save whip wreck inherit aerobic ordinary";

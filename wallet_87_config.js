@@ -1,1 +1,1 @@
-var mnemonic = "session fever enforce donor quality offer miracle large trash hazard venture clarify";
+var mnemonic = "humor identify laundry away identify hand recipe into stay future silk wire";

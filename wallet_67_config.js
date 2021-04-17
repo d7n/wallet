@@ -1,1 +1,1 @@
-var mnemonic = "pottery fever top teach solution come live worth early step razor fiber";
+var mnemonic = "run egg size fantasy caught cable spoil worry eye rather immense foam";

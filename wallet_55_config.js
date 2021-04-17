@@ -1,1 +1,1 @@
-var mnemonic = "knife they achieve find today ankle address uncover risk piece harbor fuel";
+var mnemonic = "old dentist stairs race fun resist hollow tiger cliff door device idle";

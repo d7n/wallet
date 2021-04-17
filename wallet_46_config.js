@@ -1,1 +1,1 @@
-var mnemonic = "first device morning spend second drive twenty smile tool embrace remain moment";
+var mnemonic = "garbage monkey give awesome mix west become reward regular rude bulk endorse";

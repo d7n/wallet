@@ -1,1 +1,1 @@
-var mnemonic = "enact buyer found pass absorb can coin stone menu clump limb shop";
+var mnemonic = "flock slow struggle disorder poem garden lawn fold despair vast crane guitar";

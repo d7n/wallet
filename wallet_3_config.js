@@ -1,1 +1,1 @@
-var mnemonic = "rice student clever design country marble buyer slice knee water kingdom slogan";
+var mnemonic = "flag valid scan follow left agent job author dish myth trash mirror";

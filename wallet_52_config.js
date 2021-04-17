@@ -1,1 +1,1 @@
-var mnemonic = "fiction strike diary satoshi labor kitten ethics goddess wasp mention equal comfort";
+var mnemonic = "lamp tattoo group hour kiss join gadget concert off gallery copper fat";

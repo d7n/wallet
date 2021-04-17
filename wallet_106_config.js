@@ -1,1 +1,1 @@
-var mnemonic = "caught castle spatial magnet rebuild zone drum embrace shaft upon describe error";
+var mnemonic = "green spin soda section garbage license guilt agent sunny hope escape extra";

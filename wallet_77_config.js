@@ -1,1 +1,1 @@
-var mnemonic = "turtle point lounge palm bracket avoid opinion ramp heavy wine payment panel";
+var mnemonic = "fantasy loop soup grief beyond panda humble canoe noodle cruel paddle weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch science wonder antique pupil venue iron bubble history flush twenty rate";
+var mnemonic = "monkey figure bomb trade shop victory quote dust game walk electric era";

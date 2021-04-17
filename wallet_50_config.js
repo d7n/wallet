@@ -1,1 +1,1 @@
-var mnemonic = "column citizen glimpse forget eight hat honey forget evil carpet embrace antenna";
+var mnemonic = "elder window theory nothing fever upgrade tribe blame impulse brick hospital rose";

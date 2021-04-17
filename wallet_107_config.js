@@ -1,1 +1,1 @@
-var mnemonic = "pen hospital gossip market crowd twist nuclear sibling toy tomorrow noble figure";
+var mnemonic = "toddler lobster clinic elegant faculty knock oil large love endless loop jar";

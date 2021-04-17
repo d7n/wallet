@@ -1,1 +1,1 @@
-var mnemonic = "hold awkward cart assist delay liberty comic illegal domain position observe cost";
+var mnemonic = "bus despair camera pass negative toddler puzzle barely utility basket outside suspect";

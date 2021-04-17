@@ -1,1 +1,1 @@
-var mnemonic = "virus leg evidence depend critic access street dumb ozone spoon cancel member";
+var mnemonic = "design apple bread act tongue razor name symptom occur polar balance purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor fatigue useless gasp arch juice side clip auto jewel roof answer";
+var mnemonic = "wall brand lava camera street cheap inherit episode close scale moment area";

@@ -1,1 +1,1 @@
-var mnemonic = "push alter note calm produce leg embrace flock rack protect under normal";
+var mnemonic = "term august bamboo unique uphold flight army garage fox sick erode embrace";

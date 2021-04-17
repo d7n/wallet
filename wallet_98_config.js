@@ -1,1 +1,1 @@
-var mnemonic = "ridge match science anxiety figure spider coast future shallow jump night art";
+var mnemonic = "wool stem gain bulb ocean expect gather olympic bag connect during silly";

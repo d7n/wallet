@@ -1,1 +1,1 @@
-var mnemonic = "absorb lonely attack bronze album script mesh spoon car volcano drum shoulder";
+var mnemonic = "race wrestle super afford spice motor direct fiction harbor buddy defense renew";

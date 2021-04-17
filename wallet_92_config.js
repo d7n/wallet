@@ -1,1 +1,1 @@
-var mnemonic = "creek acoustic beef example brush pelican dizzy hire pig regular twelve half";
+var mnemonic = "people river chat juice put raise mushroom pottery fire client agree above";

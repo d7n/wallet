@@ -1,1 +1,1 @@
-var mnemonic = "trick express wire taxi actress glove trade balance fish ridge sand thought";
+var mnemonic = "boss layer wheat window person circle only found hand code mushroom disease";

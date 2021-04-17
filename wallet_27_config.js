@@ -1,1 +1,1 @@
-var mnemonic = "endless prefer critic wasp puppy skirt hidden airport resource one banner crisp";
+var mnemonic = "second laundry rabbit heart aware guilt rookie police mercy sheriff lazy purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace arm initial truth tuition alter success obtain unlock lend mammal license";
+var mnemonic = "leader bright manual gospel place later click oval advice oven audit flee";

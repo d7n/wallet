@@ -1,1 +1,1 @@
-var mnemonic = "potato boring express inhale buddy allow solve silent donkey census visit rival";
+var mnemonic = "strong jaguar sudden talent joy speed mobile banana hawk jungle october never";

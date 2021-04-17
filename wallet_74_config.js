@@ -1,1 +1,1 @@
-var mnemonic = "sport just jaguar gauge such assault glance below unique acquire lobster torch";
+var mnemonic = "denial make math cigar cash employ tip dilemma fog lawsuit safe rather";

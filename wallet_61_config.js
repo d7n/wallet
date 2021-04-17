@@ -1,1 +1,1 @@
-var mnemonic = "giggle radar mother crucial battle orchard bamboo rug pupil ordinary stand conduct";
+var mnemonic = "unlock shell carry fruit patrol riot present tenant skate funny demand patient";

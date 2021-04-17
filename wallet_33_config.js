@@ -1,1 +1,1 @@
-var mnemonic = "fame relax body clump normal cereal sugar sausage merge other torch surround";
+var mnemonic = "phone play grid dune hotel that goat drama chat dwarf payment cannon";

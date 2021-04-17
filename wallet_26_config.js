@@ -1,1 +1,1 @@
-var mnemonic = "few rate fever blush recycle chat ugly silly live imitate below story";
+var mnemonic = "bargain robot medal two poverty edge school refuse floor fatigue purse below";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow discover avoid once model whale language kick month victory video fossil";
+var mnemonic = "reason cook magnet orbit stumble choice brother ribbon tooth juice essay transfer";

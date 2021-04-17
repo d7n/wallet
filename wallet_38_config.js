@@ -1,1 +1,1 @@
-var mnemonic = "venture local armor tower series pretty strategy element program tree output chicken";
+var mnemonic = "route acid smart cotton trophy auto rebel absent cabbage flip crowd gift";

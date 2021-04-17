@@ -1,1 +1,1 @@
-var mnemonic = "wheat glad wire pair merge sugar face tomato push medal version ivory";
+var mnemonic = "figure shell chuckle image record chicken during awkward check vague route height";

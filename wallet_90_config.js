@@ -1,1 +1,1 @@
-var mnemonic = "census nerve early release page satisfy stove seven reduce group learn tree";
+var mnemonic = "brass decide eye barely just chronic guide jungle super violin cake tube";

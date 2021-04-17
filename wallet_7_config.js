@@ -1,1 +1,1 @@
-var mnemonic = "coconut mango clog daring hollow kitchen donate ride lucky clinic winner rich";
+var mnemonic = "govern emerge tube cigar gauge earn laptop need cherry electric creek thank";

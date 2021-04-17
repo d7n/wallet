@@ -1,1 +1,1 @@
-var mnemonic = "lunch cruise orange yard discover license bitter decline happy traffic pact blanket";
+var mnemonic = "color dance hotel reopen crash define brief category snake frequent window drip";

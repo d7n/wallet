@@ -1,1 +1,1 @@
-var mnemonic = "tool ribbon half flame universe sea direct alarm umbrella genre duty cousin";
+var mnemonic = "huge scene protect walk drum seek outdoor off word essay better sugar";

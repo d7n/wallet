@@ -1,1 +1,1 @@
-var mnemonic = "machine swarm broken man evidence wheat disease canoe peanut tuna film keen";
+var mnemonic = "annual cupboard grace eager normal remain carry panda atom mercy mushroom envelope";

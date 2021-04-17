@@ -1,1 +1,1 @@
-var mnemonic = "hat gain amused accident journey fire water endless target pony cave umbrella";
+var mnemonic = "crumble dawn seven dose forum link basket eager save focus remember clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "audit chimney mad memory mango sing client crucial alert opera company maple";
+var mnemonic = "wheel soap announce accident noodle palace camera elbow sign weird fabric art";

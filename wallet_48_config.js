@@ -1,1 +1,1 @@
-var mnemonic = "stick tree walk pattern evil donkey security few when crop boat school";
+var mnemonic = "broken auto mutual exchange road exit salmon match banana average crane fiber";

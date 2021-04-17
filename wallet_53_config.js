@@ -1,1 +1,1 @@
-var mnemonic = "avocado lock air motion veteran worth island draw vault damp blame amount";
+var mnemonic = "water couple property clarify original expose seek edit favorite alien pink catch";

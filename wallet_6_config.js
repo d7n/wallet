@@ -1,1 +1,1 @@
-var mnemonic = "job gaze vote boss mountain reopen morning dinosaur piece answer rough dignity";
+var mnemonic = "taxi lonely gather future add close rain job link erosion palm spatial";

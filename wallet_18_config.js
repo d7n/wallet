@@ -1,1 +1,1 @@
-var mnemonic = "chronic gain voyage bright kiwi oppose wife demand physical depend syrup owner";
+var mnemonic = "million cradle six oxygen enrich sword use seed fancy yellow wealth answer";

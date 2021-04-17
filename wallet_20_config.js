@@ -1,1 +1,1 @@
-var mnemonic = "skill tiger since tuition grunt scorpion avoid apart catalog cook depend pioneer";
+var mnemonic = "stairs cover member other initial dynamic vital barely setup best village ankle";

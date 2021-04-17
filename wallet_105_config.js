@@ -1,1 +1,1 @@
-var mnemonic = "another voyage grant tackle define jacket ride dentist mass hobby valley lock";
+var mnemonic = "delay cannon talent suffer model match zone ecology exercise curious valve morning";

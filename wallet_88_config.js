@@ -1,1 +1,1 @@
-var mnemonic = "photo history length meat route drive head slab duty parrot order radar";
+var mnemonic = "damage lamp stand addict issue today aunt mutual rough style fire expect";

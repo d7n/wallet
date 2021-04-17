@@ -1,1 +1,1 @@
-var mnemonic = "stadium tube logic credit breeze debris ill public mother cabbage vast bullet";
+var mnemonic = "delay orient pitch buffalo casino despair first immense pond uphold liar resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor fee double buyer tell leopard lecture gadget main dash little flag";
+var mnemonic = "reason silly hospital organ wet lawn warfare census ethics expire donkey clutch";

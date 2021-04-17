@@ -1,1 +1,1 @@
-var mnemonic = "goat boring sword rubber okay slice nominee stage stamp vessel sponsor demise";
+var mnemonic = "image dinner siren enforce spread salt satoshi genuine owner spin gesture buffalo";

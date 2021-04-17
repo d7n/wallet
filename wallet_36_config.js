@@ -1,1 +1,1 @@
-var mnemonic = "asthma warfare come piece boss control velvet quick music hold gasp since";
+var mnemonic = "layer soldier spare dwarf supply churn derive fancy celery bounce present lady";

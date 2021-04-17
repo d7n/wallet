@@ -1,1 +1,1 @@
-var mnemonic = "gate diary desert private social spray hard file barrel fall wait follow";
+var mnemonic = "fetch episode swallow indicate loop profit need state prevent turkey north spell";

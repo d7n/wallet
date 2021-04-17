@@ -1,1 +1,1 @@
-var mnemonic = "water quality garage fold fatigue melody toddler piano evolve approve soldier exhibit";
+var mnemonic = "summer wonder cat crucial oil derive rebel diary cabbage typical give loud";

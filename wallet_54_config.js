@@ -1,1 +1,1 @@
-var mnemonic = "edit snake beyond zero mesh together soccer drama piece avoid name census";
+var mnemonic = "where traffic animal govern tape vanish electric fix luggage observe upper make";

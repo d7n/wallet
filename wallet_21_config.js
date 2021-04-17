@@ -1,1 +1,1 @@
-var mnemonic = "glow system spell saddle steel flock eye artefact level mother mix card";
+var mnemonic = "develop weird law fiction twist cherry glue dinner drill series miracle void";

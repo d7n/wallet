@@ -1,1 +1,1 @@
-var mnemonic = "squirrel walk marble diesel embody defense chunk diagram column where prize clarify";
+var mnemonic = "grass together more model bus dirt pull economy usage father voyage mask";

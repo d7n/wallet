@@ -1,1 +1,1 @@
-var mnemonic = "unhappy skill lab obtain field erase youth anger daughter priority pony orphan";
+var mnemonic = "sweet junk hawk offer phone total spike muffin design rail abuse foster";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial raccoon scorpion speak flower prepare uncover stool bargain skill verify south";
+var mnemonic = "spare smile clerk modify object father veteran medal enter film unfold sadness";

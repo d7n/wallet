@@ -1,1 +1,1 @@
-var mnemonic = "juice museum hedgehog stove advance coffee abandon inspire fortune human brave plunge";
+var mnemonic = "present usage elegant control female insane other floor member result route meadow";

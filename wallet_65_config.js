@@ -1,1 +1,1 @@
-var mnemonic = "flash state enhance color reveal medal electric setup clap churn wonder prize";
+var mnemonic = "denial unfold pitch fever suggest decrease dutch artwork middle grain symptom card";

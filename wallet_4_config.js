@@ -1,1 +1,1 @@
-var mnemonic = "erupt novel point focus window pull regular barrel occur hundred innocent wolf";
+var mnemonic = "viable nephew surround immune gloom magnet winner forest write blue lawn journey";

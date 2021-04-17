@@ -1,1 +1,1 @@
-var mnemonic = "paper horror guide palm sentence public tag patient until scale balance tiny";
+var mnemonic = "link tail stomach project wait there kitten famous issue disagree tornado brief";

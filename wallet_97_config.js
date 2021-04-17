@@ -1,1 +1,1 @@
-var mnemonic = "regular kick modify project lake volcano bless embrace clip piano people bus";
+var mnemonic = "cave text base tail expire beef shrug detect else stand shine cream";

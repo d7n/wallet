@@ -1,1 +1,1 @@
-var mnemonic = "tornado water stock tenant midnight interest advance smooth day custom nothing carpet";
+var mnemonic = "match wise easily confirm cart tomato symbol innocent then dial funny address";

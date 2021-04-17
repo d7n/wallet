@@ -1,1 +1,1 @@
-var mnemonic = "beyond protect man obvious meadow cruise vault urge sea organ ridge deer";
+var mnemonic = "soft group luxury cheese sadness garlic tragic catalog erupt people team emerge";

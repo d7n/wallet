@@ -1,1 +1,1 @@
-var mnemonic = "wrong tortoise glory picnic core maze keen cable correct bundle naive gaze";
+var mnemonic = "emotion model split gorilla steel awkward hope uncover today west boring drill";

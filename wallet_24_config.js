@@ -1,1 +1,1 @@
-var mnemonic = "poem edge pole panda claw hollow kiss recycle emotion naive remove blood";
+var mnemonic = "toddler seed owner settle bike car agree rent angry again loud ability";

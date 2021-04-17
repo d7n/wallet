@@ -1,1 +1,1 @@
-var mnemonic = "soccer trust nothing bone list arctic fabric venture shy destroy cash check";
+var mnemonic = "good kit lecture airport misery neglect there legend olive conduct thought humble";

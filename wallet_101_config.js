@@ -1,1 +1,1 @@
-var mnemonic = "fashion demise venture pretty genuine vivid access siren comfort frost puppy glance";
+var mnemonic = "lake dog oak still mule erase runway finger wheat tobacco author rough";

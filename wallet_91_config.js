@@ -1,1 +1,1 @@
-var mnemonic = "dumb prepare mesh hint horn drum life tumble drama embrace doll eternal";
+var mnemonic = "brand color evil summer genre grace hood decade begin pool mango stove";

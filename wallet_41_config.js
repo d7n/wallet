@@ -1,1 +1,1 @@
-var mnemonic = "hat connect icon stumble shoe divide pilot visual laptop panic lazy slim";
+var mnemonic = "breeze dad creek point excess sibling clip copper differ say remove naive";

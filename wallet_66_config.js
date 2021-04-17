@@ -1,1 +1,1 @@
-var mnemonic = "north beach island appear asset lift turtle orphan expire calm wheel pond";
+var mnemonic = "price slush home animal bachelor whale million rare oak basket curious expand";

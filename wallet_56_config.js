@@ -1,1 +1,1 @@
-var mnemonic = "lion enemy mimic demise clutch cushion love dove vehicle usual beef fault";
+var mnemonic = "prepare popular trigger cattle when among pass horn category syrup volume promote";

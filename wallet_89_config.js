@@ -1,1 +1,1 @@
-var mnemonic = "kind pride ability dial rate smoke write guitar kiwi output member nut";
+var mnemonic = "busy key grant mesh hair august panic pizza one upon arrive brick";

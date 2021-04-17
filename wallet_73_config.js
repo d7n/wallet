@@ -1,1 +1,1 @@
-var mnemonic = "junior answer water tube fish sleep issue bonus life pyramid twelve patch";
+var mnemonic = "illegal pupil dignity genius ship general output fee material ball bicycle rug";

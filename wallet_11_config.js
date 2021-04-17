@@ -1,1 +1,1 @@
-var mnemonic = "error annual minute salute alter vault retreat certain fly truly common acid";
+var mnemonic = "shine shoulder nose undo metal trouble just casino hybrid cloth elder goat";

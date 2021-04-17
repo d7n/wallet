@@ -1,1 +1,1 @@
-var mnemonic = "hotel shallow three isolate twist evil wrong corn obvious spin better range";
+var mnemonic = "burst become age menu chuckle slim hope winner awful cruise stone enhance";

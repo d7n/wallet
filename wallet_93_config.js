@@ -1,1 +1,1 @@
-var mnemonic = "couch alone crazy loyal moon receive foot flower enroll width fault hamster";
+var mnemonic = "decide feature october future test art donor sponsor fault labor bread east";

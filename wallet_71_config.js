@@ -1,1 +1,1 @@
-var mnemonic = "slab eager chaos same earn dawn nasty boss genius seed dune process";
+var mnemonic = "lecture marine tourist pumpkin order author into either tongue joy math prefer";

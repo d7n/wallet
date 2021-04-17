@@ -1,1 +1,1 @@
-var mnemonic = "submit shop team pitch merit right birth lady shell soon face grief";
+var mnemonic = "whip garlic paper notice patrol disagree egg leg post false license weapon";

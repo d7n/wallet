@@ -1,1 +1,1 @@
-var mnemonic = "cruel try pond drama private connect hidden erase salmon ill link course";
+var mnemonic = "twice hedgehog market shift drum mad chunk liar resemble similar hungry gap";

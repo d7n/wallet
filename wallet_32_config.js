@@ -1,1 +1,1 @@
-var mnemonic = "crouch scene approve birth before nephew distance upon hidden panel chat swear";
+var mnemonic = "divert lizard solid fetch trap only apology universe film unable purity letter";

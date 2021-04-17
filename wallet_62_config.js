@@ -1,1 +1,1 @@
-var mnemonic = "super eagle prize true hamster rice distance leg cloth slice core reopen";
+var mnemonic = "spirit brush climb assault rate heart spare flash frame shoulder afraid soldier";

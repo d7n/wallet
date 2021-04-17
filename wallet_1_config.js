@@ -1,1 +1,1 @@
-var mnemonic = "soul undo victory rose cave fruit project window useless glass sunset explain";
+var mnemonic = "mansion judge civil rhythm wrist bird shrimp observe safe oven warrior margin";

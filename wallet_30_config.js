@@ -1,1 +1,1 @@
-var mnemonic = "lemon deer beef enjoy weather dolphin skill like pattern motor crucial dawn";
+var mnemonic = "exercise refuse payment crop salt thumb submit pulp video measure stomach train";

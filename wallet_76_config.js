@@ -1,1 +1,1 @@
-var mnemonic = "can pepper bronze debate language observe crowd museum skirt strategy else chunk";
+var mnemonic = "erase ability glow purity case brick crop deputy pole whip cook neutral";

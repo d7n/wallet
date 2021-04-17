@@ -1,1 +1,1 @@
-var mnemonic = "cement provide maple degree dynamic never pretty pudding carry skate taxi maple";
+var mnemonic = "expire parrot elbow skull test burst quarter orchard dice goat sea pelican";

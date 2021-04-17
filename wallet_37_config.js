@@ -1,1 +1,1 @@
-var mnemonic = "month beach author adapt valve magnet betray outside space cube flat nerve";
+var mnemonic = "paper base crane flame simple permit punch fetch solid snack inspire lizard";
