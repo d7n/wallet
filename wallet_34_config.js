@@ -1,1 +1,1 @@
-var mnemonic = "crowd bottom someone mind gaze what cable bind aerobic floor supply globe";
+var mnemonic = "scorpion pact strategy chapter culture orchard burden cave decrease magic age disagree";

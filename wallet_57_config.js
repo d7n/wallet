@@ -1,1 +1,1 @@
-var mnemonic = "label tonight shield hedgehog click flight cabin grunt salmon coast armed black";
+var mnemonic = "own nest chapter trouble lend exact talent popular inform chuckle plug excite";

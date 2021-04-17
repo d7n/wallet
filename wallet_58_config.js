@@ -1,1 +1,1 @@
-var mnemonic = "pause burst tip relief annual bone athlete waste motor say ask fold";
+var mnemonic = "ivory misery barely case forum man document way danger fiscal shop build";

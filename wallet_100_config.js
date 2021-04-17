@@ -1,1 +1,1 @@
-var mnemonic = "equal animal sadness smooth wild alien amused swing rich impulse finish flame";
+var mnemonic = "welcome erosion glad energy still argue bench draw six lazy advice chair";

@@ -1,1 +1,1 @@
-var mnemonic = "smart blood rookie zero thing cram tone consider cram sock coyote unable";
+var mnemonic = "blur length tribe angle robot define antique clock under diamond dizzy shop";

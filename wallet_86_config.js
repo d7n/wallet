@@ -1,1 +1,1 @@
-var mnemonic = "swing treat minor muffin monitor section special skull column grow project alert";
+var mnemonic = "range public ridge behind fox tackle donate kit bird rival holiday peasant";

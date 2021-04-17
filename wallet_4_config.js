@@ -1,1 +1,1 @@
-var mnemonic = "window recall robust panda turn this typical pudding curious bridge snake december";
+var mnemonic = "please build anxiety garlic treat west equal clean remind split immense arch";

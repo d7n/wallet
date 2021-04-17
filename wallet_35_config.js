@@ -1,1 +1,1 @@
-var mnemonic = "spread shed pencil chaos punch control gun census drastic image hip burst";
+var mnemonic = "run innocent elephant card key print body coffee twice space morning isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict window sting crash craft brown balance useless diamond decade undo advance";
+var mnemonic = "surprise noise leisure update sister race language sunny leave truck input clump";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive kitchen ski liquid shift hamster disagree spot soccer upper develop morning";
+var mnemonic = "range hood salute fiscal absorb pudding life ecology current mean find inquiry";

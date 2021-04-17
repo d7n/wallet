@@ -1,1 +1,1 @@
-var mnemonic = "away acquire invite message judge project educate squeeze hire path yellow lonely";
+var mnemonic = "street attitude friend alert infant address offer concert time energy same craft";

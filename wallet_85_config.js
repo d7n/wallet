@@ -1,1 +1,1 @@
-var mnemonic = "shy robot that cherry left theory frown easily define idle uncover reduce";
+var mnemonic = "note pencil swallow shaft spatial oppose cruel liar chat exile like earth";

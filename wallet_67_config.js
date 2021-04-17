@@ -1,1 +1,1 @@
-var mnemonic = "ahead spot carry topic raccoon bird genre future lake satisfy able teach";
+var mnemonic = "trap unveil tunnel decorate clown month cherry adapt spray jar only brick";

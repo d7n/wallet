@@ -1,1 +1,1 @@
-var mnemonic = "sadness fiction album injury liberty cube dose cross gas hill rival tomato";
+var mnemonic = "opinion tennis blouse spike organ also special reflect film estate muscle demise";

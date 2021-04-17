@@ -1,1 +1,1 @@
-var mnemonic = "hollow better mule clock fat extend brief cake excuse turn loan slide";
+var mnemonic = "sheriff need program gap buzz donate position edge hole receive improve various";

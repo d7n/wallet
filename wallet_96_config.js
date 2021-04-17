@@ -1,1 +1,1 @@
-var mnemonic = "mother bleak fun angry tooth budget frown oak derive airport grape debris";
+var mnemonic = "drill gym young field menu gorilla panic express reason obey possible whisper";

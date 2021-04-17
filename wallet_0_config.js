@@ -1,1 +1,1 @@
-var mnemonic = "blood sport ahead scatter depend chair tent hope rotate bulk retreat wheel";
+var mnemonic = "pole obey still congress match curtain when force donkey police catalog skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel hockey problem gorilla alert frame quit clap ski certain humble answer";
+var mnemonic = "shed green number example paddle board crouch nerve area couple slush kitchen";

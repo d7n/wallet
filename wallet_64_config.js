@@ -1,1 +1,1 @@
-var mnemonic = "same enforce borrow real clown naive cry boy bid vast culture garment";
+var mnemonic = "siege focus suffer sketch insane rather where pudding slide pioneer gate kid";

@@ -1,1 +1,1 @@
-var mnemonic = "search quick sister piece recipe video deny stereo pulse always outer candy";
+var mnemonic = "front runway sick interest author trumpet response make panic when wool humble";

@@ -1,1 +1,1 @@
-var mnemonic = "record load boy run blossom dumb rare balance where team cheap october";
+var mnemonic = "canyon eagle amused damage panda world pet allow loan glass fuel rhythm";

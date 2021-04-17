@@ -1,1 +1,1 @@
-var mnemonic = "box dad panel sentence blanket orphan weekend museum primary lonely grow lounge";
+var mnemonic = "tenant smooth dog adult engine rack define neck cool act scheme design";

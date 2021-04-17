@@ -1,1 +1,1 @@
-var mnemonic = "enhance cream enlist present lift return view hello slush visual soccer blood";
+var mnemonic = "august ankle grain empty nothing pitch tumble inhale clean skin clever animal";

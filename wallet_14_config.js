@@ -1,1 +1,1 @@
-var mnemonic = "chat crack huge diet buzz smart pave demise census patch enforce slush";
+var mnemonic = "police surge struggle tornado rubber path thought draw invite draw dice bulb";

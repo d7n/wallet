@@ -1,1 +1,1 @@
-var mnemonic = "razor phrase there cherry idea december must wagon observe aware equal february";
+var mnemonic = "spoil banana network master mule spell fire library enter differ space open";

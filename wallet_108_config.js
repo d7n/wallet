@@ -1,1 +1,1 @@
-var mnemonic = "panel brief honey shoulder voyage cluster fiber salon devote drill finish head";
+var mnemonic = "seek forget child palace mix wasp figure sail safe walnut forest gloom";

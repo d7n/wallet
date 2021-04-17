@@ -1,1 +1,1 @@
-var mnemonic = "sure august cinnamon cram bubble fossil bench abuse parrot curve relief brisk";
+var mnemonic = "sport fault capable tooth asthma common spring exile island inch inmate chronic";

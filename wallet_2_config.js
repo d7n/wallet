@@ -1,1 +1,1 @@
-var mnemonic = "able cruise join slender toy announce bamboo various paper behave sketch bread";
+var mnemonic = "ladder amazing marriage science educate oil prosper farm where scrub few globe";

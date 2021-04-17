@@ -1,1 +1,1 @@
-var mnemonic = "garage object way sugar explain fetch power flame duty cloud unlock finger";
+var mnemonic = "addict ranch exclude thumb amused reopen monkey end shadow dynamic mammal welcome";

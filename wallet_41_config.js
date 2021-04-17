@@ -1,1 +1,1 @@
-var mnemonic = "tail else wedding nature that chuckle verify snake present debate humor cherry";
+var mnemonic = "recall under approve grunt large minimum truly eager flight issue venue negative";

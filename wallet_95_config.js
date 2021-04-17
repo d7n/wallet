@@ -1,1 +1,1 @@
-var mnemonic = "pupil erupt fine exact entry prize forest dry waste bleak crane palace";
+var mnemonic = "glow gold verb state inhale health hotel hard skate amused analyst kiwi";

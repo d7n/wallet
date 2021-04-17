@@ -1,1 +1,1 @@
-var mnemonic = "face host demand van roast mule program lazy bunker female dilemma item";
+var mnemonic = "tennis cereal scrap because civil silk shrug siren dice same amazing confirm";

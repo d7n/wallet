@@ -1,1 +1,1 @@
-var mnemonic = "thunder spoil fork oxygen later alert rose cattle page cushion lesson unable";
+var mnemonic = "unable razor ethics code clip lecture shed rice attend enter weird witness";

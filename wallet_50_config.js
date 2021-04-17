@@ -1,1 +1,1 @@
-var mnemonic = "genius glove choose journey inch flame pole canvas sauce recipe blanket finger";
+var mnemonic = "grass loop sibling daring object glue fun puppy legend intact suggest nuclear";

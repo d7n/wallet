@@ -1,1 +1,1 @@
-var mnemonic = "rotate behave fabric birth indoor stamp any diary ranch beyond enact smile";
+var mnemonic = "hollow sunny creek unfold side wreck guilt vast wet orange elbow skate";

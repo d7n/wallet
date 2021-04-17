@@ -1,1 +1,1 @@
-var mnemonic = "clog extra left purse shoulder music knock trash fever hover evil run";
+var mnemonic = "salad fence found local tribe improve park pizza hair stadium grid fine";

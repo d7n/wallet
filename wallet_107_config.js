@@ -1,1 +1,1 @@
-var mnemonic = "alter tail repair carbon primary sadness legal sunny feel feature ancient whip";
+var mnemonic = "law tiger express tornado fringe bonus just youth unaware burden frame force";

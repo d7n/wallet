@@ -1,1 +1,1 @@
-var mnemonic = "spoil front globe cash obscure gaze permit canvas primary consider fashion board";
+var mnemonic = "marriage coral silver index garden use begin gesture novel drill control another";

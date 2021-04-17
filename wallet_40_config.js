@@ -1,1 +1,1 @@
-var mnemonic = "buffalo expect slim engage space leave nut before silent pride flower combine";
+var mnemonic = "shiver barely obscure slogan follow notice staff bar protect case slender bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle aerobic liar chair dish noise color dignity fatal genuine major toward";
+var mnemonic = "pattern similar that slab clay lunch hair super logic traffic replace exist";

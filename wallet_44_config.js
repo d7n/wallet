@@ -1,1 +1,1 @@
-var mnemonic = "surround dawn comic one first check spray snack receive sing wet vendor";
+var mnemonic = "gasp vibrant dilemma illness gasp birth popular crunch scheme lounge man hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "lend drift object exclude sand move obtain police shine attend flame hello";
+var mnemonic = "mimic control suit borrow vicious festival extra dad aspect august gorilla lunar";

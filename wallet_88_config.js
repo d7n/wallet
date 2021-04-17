@@ -1,1 +1,1 @@
-var mnemonic = "bulb ticket humor fantasy aim rigid shift leopard sheriff purchase exercise genuine";
+var mnemonic = "cry arrow use mule appear infant grab loop winner cradle february claim";

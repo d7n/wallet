@@ -1,1 +1,1 @@
-var mnemonic = "hybrid share neck ladder diamond remember noodle one video upper wild work";
+var mnemonic = "apology source pizza elder general original remove engine duck ten practice boring";

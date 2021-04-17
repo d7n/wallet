@@ -1,1 +1,1 @@
-var mnemonic = "dawn have right castle image utility flush test rule salt crouch bean";
+var mnemonic = "melt execute galaxy tiger inner enrich wheat coconut student design setup divert";

@@ -1,1 +1,1 @@
-var mnemonic = "wood convince palace friend jar canoe strong live asthma rally usual zoo";
+var mnemonic = "seven fog attack common prison tank obvious chef adjust picture plug half";

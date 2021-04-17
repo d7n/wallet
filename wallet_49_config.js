@@ -1,1 +1,1 @@
-var mnemonic = "measure picnic thumb steel ahead anxiety intact note joy recipe affair mutual";
+var mnemonic = "rose main grain elevator leisure beef omit ridge purity refuse clean february";

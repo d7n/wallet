@@ -1,1 +1,1 @@
-var mnemonic = "mansion believe voice marriage tuna capable present glass one depth other public";
+var mnemonic = "gossip knock drive piece group ethics brain purse nice tuna valve cargo";

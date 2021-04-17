@@ -1,1 +1,1 @@
-var mnemonic = "sugar clutch first divorce shock buddy burst kiss brick submit protect narrow";
+var mnemonic = "final dress alpha book there sea confirm island laundry please apology speed";

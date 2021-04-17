@@ -1,1 +1,1 @@
-var mnemonic = "hip arrive dilemma cheese above before verb dinosaur mimic gospel october summer";
+var mnemonic = "life process bracket above away blush venue ordinary dizzy certain north outdoor";

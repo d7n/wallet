@@ -1,1 +1,1 @@
-var mnemonic = "awkward illness tackle vacuum lake desert height pumpkin cement energy mom best";
+var mnemonic = "captain learn strong prefer blood beyond submit confirm tent deposit scissors faith";

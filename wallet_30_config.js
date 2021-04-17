@@ -1,1 +1,1 @@
-var mnemonic = "enable crazy celery remain keen option mammal topple cry copy deal distance";
+var mnemonic = "diet yard wedding lumber indoor stone alpha ecology dad open sauce youth";

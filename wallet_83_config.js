@@ -1,1 +1,1 @@
-var mnemonic = "rescue call found timber wrist adapt depart moment nest limb rent slim";
+var mnemonic = "brisk risk hire human indoor unknown story liberty bid indicate trend today";

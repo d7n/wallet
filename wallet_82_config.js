@@ -1,1 +1,1 @@
-var mnemonic = "utility inquiry ancient frown pool social enter thumb earn bridge audit total";
+var mnemonic = "siren exile near lecture beef rigid half jewel brain return naive source";

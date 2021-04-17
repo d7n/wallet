@@ -1,1 +1,1 @@
-var mnemonic = "ranch acquire concert supply brisk choose staff market acid fuel group display";
+var mnemonic = "usage seed wrestle future garment satoshi twenty suspect enter gallery exercise stone";

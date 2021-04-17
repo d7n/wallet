@@ -1,1 +1,1 @@
-var mnemonic = "scan seminar can yard purpose velvet erupt nice minor crisp achieve obey";
+var mnemonic = "pitch cover visual hold mesh pelican lucky describe fitness then since disorder";

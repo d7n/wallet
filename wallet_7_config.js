@@ -1,1 +1,1 @@
-var mnemonic = "rifle room giant velvet enable elite grab range earth south long quote";
+var mnemonic = "day air holiday ill destroy stomach era lizard thumb glory rural bomb";

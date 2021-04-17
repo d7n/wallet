@@ -1,1 +1,1 @@
-var mnemonic = "cash six action observe topic peasant change ten announce process exchange merit";
+var mnemonic = "disagree assault indoor invite until patient slight timber source print icon text";

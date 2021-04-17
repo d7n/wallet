@@ -1,1 +1,1 @@
-var mnemonic = "kitten ordinary thunder quiz pilot pulse practice country hobby figure garlic modify";
+var mnemonic = "hollow scan stool sail onion eternal addict menu motor firm mixture hurt";

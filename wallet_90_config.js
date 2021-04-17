@@ -1,1 +1,1 @@
-var mnemonic = "nuclear tired maze wrestle paper tunnel they adapt source tongue lyrics donkey";
+var mnemonic = "gate lamp crouch task soccer ship dwarf husband spot raccoon render they";

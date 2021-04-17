@@ -1,1 +1,1 @@
-var mnemonic = "web truth brown punch eagle test door lawn nominee attend pond fetch";
+var mnemonic = "test champion knock exile surprise pulp sign provide pigeon hundred isolate fever";

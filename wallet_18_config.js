@@ -1,1 +1,1 @@
-var mnemonic = "quit diet reform hotel miracle lesson admit alert lift across library camera";
+var mnemonic = "hollow usual guess collect resemble before approve limb shaft flower cluster tourist";

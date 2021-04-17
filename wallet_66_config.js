@@ -1,1 +1,1 @@
-var mnemonic = "claw shy envelope fog this fall peanut advance special oyster again canvas";
+var mnemonic = "genre wrap plunge staff cost disagree must ginger jeans multiply fun sadness";

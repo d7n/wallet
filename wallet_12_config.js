@@ -1,1 +1,1 @@
-var mnemonic = "rally gospel title lecture cream must swing usual found address sleep ranch";
+var mnemonic = "real twist arm rain miss palace flush pattern always clip gown labor";

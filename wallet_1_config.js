@@ -1,1 +1,1 @@
-var mnemonic = "inflict burden design enact two label stool super toy link best tribe";
+var mnemonic = "journey cancel ridge jeans submit fuel pass promote grief arrow space proof";

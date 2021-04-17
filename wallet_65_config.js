@@ -1,1 +1,1 @@
-var mnemonic = "century area size bicycle weird elevator before pride office elder into coach";
+var mnemonic = "wise initial vote envelope area leg parrot father outer comic erosion rescue";

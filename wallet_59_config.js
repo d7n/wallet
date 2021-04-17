@@ -1,1 +1,1 @@
-var mnemonic = "blood home jungle vote grief arch recycle drive plunge category spring moon";
+var mnemonic = "ancient pair rich tiny broom crumble control tonight planet owner gas merit";

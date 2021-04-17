@@ -1,1 +1,1 @@
-var mnemonic = "expand multiply place anger muffin young magic father dinner smart recall essay";
+var mnemonic = "history snow chronic charge cherry saddle apology retreat similar crush among pill";

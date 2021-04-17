@@ -1,1 +1,1 @@
-var mnemonic = "flip picnic ceiling genius penalty fever arena mask maid sail second lunar";
+var mnemonic = "legal fly shoe alone capable agent west twin future need dynamic promote";

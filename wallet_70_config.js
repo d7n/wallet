@@ -1,1 +1,1 @@
-var mnemonic = "rocket orbit universe pistol oak sense crop cube adjust mom tenant profit";
+var mnemonic = "sketch digital column love fragile festival member energy teach human peanut throw";

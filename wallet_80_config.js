@@ -1,1 +1,1 @@
-var mnemonic = "brush velvet usual cat enrich scale wrong spy eyebrow cram diet match";
+var mnemonic = "enough tray banner ranch dog orbit wood hazard salon space minor south";

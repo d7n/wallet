@@ -1,1 +1,1 @@
-var mnemonic = "city reopen sad increase glory collect avocado dash fade forest crawl sing";
+var mnemonic = "chicken salt banana utility ghost canvas enjoy bulb hood mercy skirt split";

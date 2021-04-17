@@ -1,1 +1,1 @@
-var mnemonic = "impose around enemy vacuum confirm pink soon ahead method dust old decrease";
+var mnemonic = "round exist move brush globe gas food repeat adjust diary tragic cherry";

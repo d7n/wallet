@@ -1,1 +1,1 @@
-var mnemonic = "claw luggage knee drastic blue fly whale middle fold lava tragic air";
+var mnemonic = "smooth tissue easily sheriff trim other identify glue great merit air conduct";

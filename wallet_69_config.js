@@ -1,1 +1,1 @@
-var mnemonic = "ethics crater dune reform ankle memory junior escape creek nerve proud either";
+var mnemonic = "trophy reopen slender hire aim friend steel math anxiety napkin salon symbol";

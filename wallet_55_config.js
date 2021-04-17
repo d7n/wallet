@@ -1,1 +1,1 @@
-var mnemonic = "same sting shop wink green error clerk test arrive broom mask gold";
+var mnemonic = "spell rabbit there picnic physical double culture choice lizard ask remember evil";

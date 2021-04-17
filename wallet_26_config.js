@@ -1,1 +1,1 @@
-var mnemonic = "muffin book hurdle mosquito gospel vicious fee muffin social lab shadow cross";
+var mnemonic = "often peace hat tourist pioneer name weasel addict question company vital buzz";

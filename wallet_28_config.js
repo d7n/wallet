@@ -1,1 +1,1 @@
-var mnemonic = "choose tenant winter make excess exclude knock tomorrow one transfer pulp identify";
+var mnemonic = "venture clap swing tumble renew video scout what buffalo loop upper rural";

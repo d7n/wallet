@@ -1,1 +1,1 @@
-var mnemonic = "pretty window indicate document oil issue farm crawl pupil cram solar faculty";
+var mnemonic = "hurdle cluster mechanic warfare dumb kitten offer wrestle cross symbol visual image";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect utility cheese unit soft okay replace cry west until stamp topple";
+var mnemonic = "kitten power page plunge process avoid spy solve parrot wire stadium twelve";

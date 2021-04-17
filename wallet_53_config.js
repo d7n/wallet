@@ -1,1 +1,1 @@
-var mnemonic = "keep call mouse track soft badge butter supreme flower merit guilt noble";
+var mnemonic = "hamster laptop miracle ghost position yard rib over clean trend magic tray";

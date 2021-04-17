@@ -1,1 +1,1 @@
-var mnemonic = "blind surround exotic broccoli endless often stand artefact ready idea combine beyond";
+var mnemonic = "tired key future dune claw alone supply valid custom science wide unveil";

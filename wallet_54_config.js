@@ -1,1 +1,1 @@
-var mnemonic = "acquire office top cage judge dust arm impulse tube snap adult grace";
+var mnemonic = "gun width october auto breeze voyage afford buyer document sell frozen casual";

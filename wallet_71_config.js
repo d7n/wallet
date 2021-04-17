@@ -1,1 +1,1 @@
-var mnemonic = "october when disagree sting human limit dilemma spare denial victory defy three";
+var mnemonic = "brick east popular narrow refuse insect immense kind noodle filter round harsh";

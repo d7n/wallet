@@ -1,1 +1,1 @@
-var mnemonic = "goddess sense combine soul easily oval hurdle acid crack reduce vivid quality";
+var mnemonic = "brisk fresh since perfect cage perfect crisp shove people mesh prevent color";

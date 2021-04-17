@@ -1,1 +1,1 @@
-var mnemonic = "shine cost insane fiscal machine auto attend core regret artist body echo";
+var mnemonic = "chicken shy unaware romance meat fiscal kitchen swear venture fade mom chef";

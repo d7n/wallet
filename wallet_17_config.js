@@ -1,1 +1,1 @@
-var mnemonic = "solar mutual napkin earth sail inspire asset thought odor scheme keep mirror";
+var mnemonic = "return inmate pause matrix medal crop spy say zero sting horse tragic";

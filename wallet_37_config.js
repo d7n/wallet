@@ -1,1 +1,1 @@
-var mnemonic = "violin ignore record device chapter frost target scare country upset solve sniff";
+var mnemonic = "sad jewel first response pulp slush rhythm lawn hawk shove evoke flash";
