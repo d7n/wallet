@@ -1,1 +1,1 @@
-var mnemonic = "stove join walnut thrive season clerk ribbon observe extra turn prison pioneer";
+var mnemonic = "aunt scrap food rapid fit act crop spawn sauce rose accident yellow";

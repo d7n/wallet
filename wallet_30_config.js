@@ -1,1 +1,1 @@
-var mnemonic = "unlock vault melody place neglect humor pelican immune grocery bomb annual bus";
+var mnemonic = "excess barely help since allow coin course envelope uncle flat suspect two";

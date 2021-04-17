@@ -1,1 +1,1 @@
-var mnemonic = "poet claim boat pulp dish dinner scout emotion monster health tank injury";
+var mnemonic = "bachelor above divorce express grit inspire extend human egg farm believe wide";

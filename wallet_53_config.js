@@ -1,1 +1,1 @@
-var mnemonic = "yellow paddle weather casino certain marine image smile payment caught key now";
+var mnemonic = "behave hundred vague depth marble describe famous silent kiwi garbage amateur foam";

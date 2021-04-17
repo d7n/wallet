@@ -1,1 +1,1 @@
-var mnemonic = "auction laugh sunny amazing noodle goddess wall consider taxi pelican army receive";
+var mnemonic = "arctic label wolf unusual armed cable vacuum close cloth scrap stuff card";

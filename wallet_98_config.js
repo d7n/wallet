@@ -1,1 +1,1 @@
-var mnemonic = "foster anxiety pepper joy october style lens actual goddess luggage help reform";
+var mnemonic = "april vessel swing wait excite improve coast only silk marble math happy";

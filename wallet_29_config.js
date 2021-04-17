@@ -1,1 +1,1 @@
-var mnemonic = "deer differ spray gentle sock owner muffin health arrange saddle crew monitor";
+var mnemonic = "pipe dog wear please hamster creek bird sense infant top inhale cupboard";

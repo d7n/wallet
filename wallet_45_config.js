@@ -1,1 +1,1 @@
-var mnemonic = "expect carry where leave recycle reform battle peasant shoot payment immense ridge";
+var mnemonic = "language insane worry betray script into ring dignity iron direct swap hurry";

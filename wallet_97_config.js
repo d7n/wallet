@@ -1,1 +1,1 @@
-var mnemonic = "leopard fantasy fence express sing great process donor proud pond blue arrow";
+var mnemonic = "hurt morning develop fatigue example boring shift choice cross parrot practice series";

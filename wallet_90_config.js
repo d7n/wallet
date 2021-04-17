@@ -1,1 +1,1 @@
-var mnemonic = "bullet egg away domain depend more keen collect regret antique stock gap";
+var mnemonic = "forest lady water smile video erode whip people cluster punch announce goat";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf device check arrest laptop tree unknown elder winter student ice tuna";
+var mnemonic = "ribbon urge taste duty divorce nephew wire lawn rebuild oppose squeeze bird";

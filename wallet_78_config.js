@@ -1,1 +1,1 @@
-var mnemonic = "please side ancient exile glow visa bargain jeans front machine team raise";
+var mnemonic = "subject morning neutral ask festival swarm borrow situate exact april intact draw";

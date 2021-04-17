@@ -1,1 +1,1 @@
-var mnemonic = "dune share enter edge blouse table coyote adult harbor nominee fine weather";
+var mnemonic = "area fabric never armor mandate problem memory brass hello trap various come";

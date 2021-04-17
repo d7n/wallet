@@ -1,1 +1,1 @@
-var mnemonic = "machine fit salt bonus rabbit build setup crane dove account squirrel spell";
+var mnemonic = "diagram forward fluid elite ability flush guess nephew film fly toward clap";

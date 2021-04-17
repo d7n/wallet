@@ -1,1 +1,1 @@
-var mnemonic = "audit drama drink oblige lens home century decrease surface caution crunch order";
+var mnemonic = "axis price riot media track fork nerve topple behave army artwork saddle";

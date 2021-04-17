@@ -1,1 +1,1 @@
-var mnemonic = "fury join hello sing cruise false hundred mind act ring armed virtual";
+var mnemonic = "swear order damp plate loyal ten forum invite card avocado ability cabbage";

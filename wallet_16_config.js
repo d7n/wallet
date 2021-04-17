@@ -1,1 +1,1 @@
-var mnemonic = "rug alert maple moral palm odor vanish entry rice sad lemon hobby";
+var mnemonic = "throw blanket supreme budget best cheese genius slam news wolf happy novel";

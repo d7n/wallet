@@ -1,1 +1,1 @@
-var mnemonic = "goddess ancient plunge dilemma mass observe diesel yard again phrase menu post";
+var mnemonic = "remind alter again violin bacon cram great large solid rose elder pact";

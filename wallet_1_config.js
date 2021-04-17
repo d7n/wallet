@@ -1,1 +1,1 @@
-var mnemonic = "bronze put supply rally obtain flame tissue again pupil ahead express fantasy";
+var mnemonic = "icon zebra carbon height shrug remember explain transfer club affair panic razor";

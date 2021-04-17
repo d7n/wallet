@@ -1,1 +1,1 @@
-var mnemonic = "peasant situate general supply require try buddy monster tornado ocean problem poverty";
+var mnemonic = "visit increase motion salmon surge sword neglect faint hello journey can fabric";

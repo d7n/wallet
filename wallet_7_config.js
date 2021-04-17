@@ -1,1 +1,1 @@
-var mnemonic = "patch panic february horn walk ostrich above trial pizza young history hub";
+var mnemonic = "victory silly faint multiply glass route daring airport obscure style degree abuse";

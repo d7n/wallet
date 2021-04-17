@@ -1,1 +1,1 @@
-var mnemonic = "march image attract ostrich clock slim chicken siren record guitar tiny alpha";
+var mnemonic = "bronze bargain duty wrong spare celery budget army garbage recipe earth tuna";

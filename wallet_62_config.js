@@ -1,1 +1,1 @@
-var mnemonic = "feel priority nerve mandate pyramid salmon shed ugly below evoke potato craft";
+var mnemonic = "aerobic flower lunar caught hammer extra dismiss faith merry vessel spare orange";

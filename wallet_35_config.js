@@ -1,1 +1,1 @@
-var mnemonic = "wine habit endorse list salute guard another island lend list flock latin";
+var mnemonic = "sister input control attract suspect menu that jaguar alien close inhale fantasy";

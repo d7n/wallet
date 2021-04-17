@@ -1,1 +1,1 @@
-var mnemonic = "weapon birth anger speak pizza acoustic rabbit unable mountain jacket trophy tongue";
+var mnemonic = "copy isolate wink trim today cover attract wet school school cousin fever";

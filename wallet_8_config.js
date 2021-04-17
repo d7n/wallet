@@ -1,1 +1,1 @@
-var mnemonic = "vessel couple item record electric parade cram list uniform extra burger ritual";
+var mnemonic = "any door bench visit salt upset virus lawsuit eight bubble august unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "cement globe amused tiny swift rebel catalog burst wait warrior blast solve";
+var mnemonic = "animal suspect scrap social rubber worry joke token obtain valid twelve income";

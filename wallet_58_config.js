@@ -1,1 +1,1 @@
-var mnemonic = "property nose color silly catalog infant march exercise catch debate salute exact";
+var mnemonic = "develop donor carbon just faith zero chronic master weather vintage chef column";

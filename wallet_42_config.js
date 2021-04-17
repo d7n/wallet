@@ -1,1 +1,1 @@
-var mnemonic = "dial keep salt cake enhance rack valley style earn delay captain snack";
+var mnemonic = "accuse report satoshi forget tent wish verify powder foil copper access entire";

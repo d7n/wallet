@@ -1,1 +1,1 @@
-var mnemonic = "rabbit cycle execute safe snow vacuum dust bag endorse service climb attract";
+var mnemonic = "very seminar cinnamon immense hat lab wide tape swamp success ridge tail";

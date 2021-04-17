@@ -1,1 +1,1 @@
-var mnemonic = "minor until lend sick candy flip stock bus region other sheriff invest";
+var mnemonic = "fuel salt essence demise wagon critic sight plug quick bicycle jacket fortune";

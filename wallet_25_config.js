@@ -1,1 +1,1 @@
-var mnemonic = "among pool polar mango rain female people vanish tribe awkward volume above";
+var mnemonic = "weapon eyebrow way erase drive claw enact invite mother lazy draw earn";

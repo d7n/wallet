@@ -1,1 +1,1 @@
-var mnemonic = "disease ancient bind cluster north wrestle install weapon approve police struggle cute";
+var mnemonic = "shadow fat unlock hurry half guide soda stomach timber when pudding battle";

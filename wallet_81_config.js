@@ -1,1 +1,1 @@
-var mnemonic = "insane round inject coconut shift blanket cruise knee session invite since parent";
+var mnemonic = "allow chaos assault flash frog hat attend amateur peace grief outer bundle";

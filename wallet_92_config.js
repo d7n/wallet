@@ -1,1 +1,1 @@
-var mnemonic = "mango country suspect gloom robust floor junk wheel winner consider area that";
+var mnemonic = "twist require valve coach mouse insane nose pledge cupboard cattle enemy dolphin";

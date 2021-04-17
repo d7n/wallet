@@ -1,1 +1,1 @@
-var mnemonic = "enroll cereal muffin range alarm fade steel vessel robot coast butter decrease";
+var mnemonic = "blood game group absent culture ball cabin advance latin bar execute option";

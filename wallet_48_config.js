@@ -1,1 +1,1 @@
-var mnemonic = "client below crew saddle pretty essay warrior fluid resemble confirm grab include";
+var mnemonic = "flavor defense page first mobile crouch broken dice occur innocent general cancel";

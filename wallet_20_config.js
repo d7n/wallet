@@ -1,1 +1,1 @@
-var mnemonic = "unique address hungry ritual faith sorry journey beauty never lava confirm copper";
+var mnemonic = "early army still guess assist burden huge copper wear pill monkey fiction";

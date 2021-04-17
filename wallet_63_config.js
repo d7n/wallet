@@ -1,1 +1,1 @@
-var mnemonic = "horse symbol cup drill giant physical disorder alone badge someone turn ill";
+var mnemonic = "squeeze alter drip exclude apart maple thing engage cricket accuse language country";

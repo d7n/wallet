@@ -1,1 +1,1 @@
-var mnemonic = "coil defy save fence emerge skirt special rookie mimic hold actual still";
+var mnemonic = "party job mouse assault fruit zero benefit cushion delay february effort audit";

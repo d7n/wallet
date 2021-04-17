@@ -1,1 +1,1 @@
-var mnemonic = "gown mass inch skin sort gospel spirit library shell project grab camp";
+var mnemonic = "happy crucial pulp snack kit vivid analyst oblige train require buddy mosquito";

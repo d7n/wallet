@@ -1,1 +1,1 @@
-var mnemonic = "horn apart setup animal cattle start recipe suggest depend guide shaft gospel";
+var mnemonic = "weapon smile coyote faith hollow figure design payment shed empower frame hammer";

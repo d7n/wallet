@@ -1,1 +1,1 @@
-var mnemonic = "ritual cost elder tobacco now helmet someone face concert canyon kidney thank";
+var mnemonic = "slender funny action olympic helmet fat tattoo short caution lottery endorse man";

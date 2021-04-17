@@ -1,1 +1,1 @@
-var mnemonic = "enough isolate library problem space month task mass cliff fossil chief wing";
+var mnemonic = "pen apple ill twelve wedding palm above grid nuclear finger entire cheap";

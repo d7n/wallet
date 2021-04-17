@@ -1,1 +1,1 @@
-var mnemonic = "hotel remove bacon isolate glory agree adult erupt anchor ghost boss acid";
+var mnemonic = "cinnamon aisle daring useful smoke junior pulp hockey price trade tenant write";

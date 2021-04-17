@@ -1,1 +1,1 @@
-var mnemonic = "east month canyon build wet truck claim mouse grab food minor captain";
+var mnemonic = "sense amused sand finish biology note about gallery please material zebra ship";

@@ -1,1 +1,1 @@
-var mnemonic = "dream dash never strike beyond door menu genre auction sand love ahead";
+var mnemonic = "exchange host shaft foot lunar tide satisfy account friend refuse weekend major";

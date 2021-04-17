@@ -1,1 +1,1 @@
-var mnemonic = "ride health obvious squeeze add setup steel also mask father twenty inquiry";
+var mnemonic = "goddess prison setup put ripple goat organ cycle guitar patient shell window";

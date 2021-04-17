@@ -1,1 +1,1 @@
-var mnemonic = "odor prison stuff roof object robust bid vague bridge shed boss siege";
+var mnemonic = "saddle old table cake dog share tongue injury pluck night casino early";

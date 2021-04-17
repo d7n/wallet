@@ -1,1 +1,1 @@
-var mnemonic = "blouse surround apology endorse boy virus fatal female coyote victory enlist upon";
+var mnemonic = "liar raccoon elder still salad globe coral mesh virtual plunge insane vanish";

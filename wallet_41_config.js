@@ -1,1 +1,1 @@
-var mnemonic = "goat journey item social ask special badge void memory father budget traffic";
+var mnemonic = "catalog napkin drip metal jewel tired topple school spell output stairs country";

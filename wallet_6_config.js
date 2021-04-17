@@ -1,1 +1,1 @@
-var mnemonic = "satoshi occur dutch draft accuse rabbit border drive force exhaust vital surprise";
+var mnemonic = "please bubble abandon response egg lion loud forget open knife potato teach";

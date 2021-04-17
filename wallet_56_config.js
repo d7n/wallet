@@ -1,1 +1,1 @@
-var mnemonic = "ecology that snack east toe potato case tumble upon student toy wrong";
+var mnemonic = "volcano zero together allow lunch silk mountain machine foam trophy fly skull";

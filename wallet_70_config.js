@@ -1,1 +1,1 @@
-var mnemonic = "review void daughter lizard indoor shallow green jazz indicate solid glove raven";
+var mnemonic = "opera warfare amazing inform future regular repair idle oxygen upgrade install blur";

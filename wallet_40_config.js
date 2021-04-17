@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pitch promote blouse problem blur cannon fog lamp mutual stone solid";
+var mnemonic = "clever extra pond melody attitude delay rule lamp unveil clean initial tissue";

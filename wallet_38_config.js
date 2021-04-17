@@ -1,1 +1,1 @@
-var mnemonic = "little cloth shoe any leopard grab health erosion ordinary fragile skin good";
+var mnemonic = "alley venture know budget shed table kitten mask pause prevent glimpse settle";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain village cruel reopen employ cactus fold thing void illegal erupt popular";
+var mnemonic = "faculty market above connect busy river improve best brain siege fee deposit";

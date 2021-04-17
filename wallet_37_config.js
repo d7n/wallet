@@ -1,1 +1,1 @@
-var mnemonic = "witness parent stomach slender drastic unhappy rose engage talent large exact offer";
+var mnemonic = "top renew mask sick stuff ecology jacket fee oak display basic aunt";

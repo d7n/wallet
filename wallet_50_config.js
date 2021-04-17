@@ -1,1 +1,1 @@
-var mnemonic = "sort unknown card wine mouse grunt injury degree cycle change police brisk";
+var mnemonic = "tail champion march better anger sunny settle hint usual neglect twice model";

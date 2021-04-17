@@ -1,1 +1,1 @@
-var mnemonic = "mixed repeat vapor digital start leg protect undo siren able rocket strong";
+var mnemonic = "ask true demand lens shoe put warrior work visit gorilla host grant";

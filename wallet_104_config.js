@@ -1,1 +1,1 @@
-var mnemonic = "innocent like rate inch advice invest adult index actress nature cable garage";
+var mnemonic = "cable approve afford hint mushroom bubble tennis include fiber fade safe program";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect aim recipe alpha brief mercy false earth engage maid radio mirror";
+var mnemonic = "keep pumpkin fork shove render shock dinner ecology earn kangaroo move keep";

@@ -1,1 +1,1 @@
-var mnemonic = "kind infant act vault science skin mammal crack turkey load pole tip";
+var mnemonic = "tuition grace swamp powder dune flush behind empty zoo north limit same";

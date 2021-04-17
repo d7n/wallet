@@ -1,1 +1,1 @@
-var mnemonic = "sight supreme claim bench rent state romance idle amount soda tobacco chest";
+var mnemonic = "gadget route uphold clutch hollow patch reunion rug mountain panda float judge";

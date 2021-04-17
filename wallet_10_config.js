@@ -1,1 +1,1 @@
-var mnemonic = "tool letter merry shine cradle bulb raven such ring suggest banana smart";
+var mnemonic = "top hospital dumb car divert predict seek rack acquire thrive rocket angle";

@@ -1,1 +1,1 @@
-var mnemonic = "pause always garlic night federal cereal various add surge solid cushion grunt";
+var mnemonic = "legend crime volcano flush page duck twin face gift exotic air brown";

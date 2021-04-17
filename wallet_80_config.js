@@ -1,1 +1,1 @@
-var mnemonic = "dumb banner scorpion shadow apart input century october puppy plunge hover brother";
+var mnemonic = "photo differ airport guitar food sugar film wide vault marble voice kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "income joy wine junior throw struggle common brick immune success story song";
+var mnemonic = "box kingdom tip empower shrug betray board degree play final half grit";

@@ -1,1 +1,1 @@
-var mnemonic = "coil mass swamp possible glass win museum top regular student grid original";
+var mnemonic = "move brand cross dragon delay habit impact august poverty base lesson crime";

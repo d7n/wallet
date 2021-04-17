@@ -1,1 +1,1 @@
-var mnemonic = "amazing weird shiver hospital poet purity tobacco group armed unit capital pottery";
+var mnemonic = "burst usual client pulse test village drastic update salute auto list average";

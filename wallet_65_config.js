@@ -1,1 +1,1 @@
-var mnemonic = "section wife vintage damp cheese tag member draw intact inmate witness average";
+var mnemonic = "acquire pistol language tag trophy tool meadow vast basic fee angry favorite";

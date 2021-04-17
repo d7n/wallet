@@ -1,1 +1,1 @@
-var mnemonic = "slab ability indoor alien gap state bench effort toe fatigue minimum junior";
+var mnemonic = "system law violin feature wish yellow off orchard toilet then buddy inhale";

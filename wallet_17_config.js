@@ -1,1 +1,1 @@
-var mnemonic = "tortoise blast digital special seat witness country parade future miracle secret crucial";
+var mnemonic = "original absurd dress flee maze fetch banana sun when large kingdom lens";

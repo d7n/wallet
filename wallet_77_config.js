@@ -1,1 +1,1 @@
-var mnemonic = "proud canoe utility teach spread capable verify above common crop access swift";
+var mnemonic = "brave iron elegant fancy nothing cycle fiction habit attitude build story coach";

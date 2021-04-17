@@ -1,1 +1,1 @@
-var mnemonic = "idea item power ozone cargo castle achieve case avoid end word frog";
+var mnemonic = "asthma cream joy evoke crucial matter survey suspect call legal force wash";

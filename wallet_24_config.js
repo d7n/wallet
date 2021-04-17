@@ -1,1 +1,1 @@
-var mnemonic = "sphere riot fresh final debris history crisp near faith abstract aware genius";
+var mnemonic = "inside guide cable nose flat rib make argue dutch december radio bicycle";

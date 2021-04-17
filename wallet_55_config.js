@@ -1,1 +1,1 @@
-var mnemonic = "blossom hover thank push own oblige crouch strike grocery infant illegal surprise";
+var mnemonic = "bounce lawn latin spring lava grass surprise skirt that sort elegant cable";

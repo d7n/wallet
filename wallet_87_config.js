@@ -1,1 +1,1 @@
-var mnemonic = "cement hat food ability risk wise parrot bulb juice dog member infant";
+var mnemonic = "cube early measure ceiling round twin brick shield enrich city own extend";

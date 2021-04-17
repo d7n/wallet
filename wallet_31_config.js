@@ -1,1 +1,1 @@
-var mnemonic = "chicken couple myth vessel outside wink laundry swim game number mad capital";
+var mnemonic = "drill eager flee matter fiber detect aim start amount ladder field harvest";

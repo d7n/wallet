@@ -1,1 +1,1 @@
-var mnemonic = "park travel crew tunnel design deny frown ostrich celery industry cook impose";
+var mnemonic = "erupt plunge glance chair whale tribe ritual hybrid arrow lawsuit piece year";

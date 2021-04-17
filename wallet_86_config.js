@@ -1,1 +1,1 @@
-var mnemonic = "raven slim vintage tennis tribe average biology cause shuffle orange stock zebra";
+var mnemonic = "blast affair lesson cage fiber turtle account deer urban require tide awkward";

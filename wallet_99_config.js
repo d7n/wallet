@@ -1,1 +1,1 @@
-var mnemonic = "swamp pepper feel rhythm debris shoe purity joke satoshi tide monitor robust";
+var mnemonic = "ahead human chimney receive involve spice office guilt goddess bacon post evil";

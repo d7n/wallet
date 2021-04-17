@@ -1,1 +1,1 @@
-var mnemonic = "ability urge riot main suggest aim embrace story curious visit swamp vital";
+var mnemonic = "churn company scheme holiday wrestle call north destroy later exhibit cool marble";

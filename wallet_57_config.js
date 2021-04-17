@@ -1,1 +1,1 @@
-var mnemonic = "current wire occur shadow wide drift toward move hero athlete ankle force";
+var mnemonic = "arctic remove brief head boil inject margin neglect fringe defy sibling gate";

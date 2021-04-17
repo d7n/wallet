@@ -1,1 +1,1 @@
-var mnemonic = "debris host floor frost quantum develop consider slogan earth glue slow raw";
+var mnemonic = "enlist swallow prepare decrease tree goat track pretty agent ugly patrol edge";

@@ -1,1 +1,1 @@
-var mnemonic = "virus behave outer imitate affair violin cage silver tuition insect pear habit";
+var mnemonic = "couch math east fall crane spin useless file damp tiger potato spatial";

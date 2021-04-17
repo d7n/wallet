@@ -1,1 +1,1 @@
-var mnemonic = "friend boost unable mango kidney prefer fruit rich fabric child shadow reflect";
+var mnemonic = "solve swift ocean catalog guilt kit plate monitor fault maple cruel olympic";

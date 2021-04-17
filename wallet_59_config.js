@@ -1,1 +1,1 @@
-var mnemonic = "liberty item major suit arch cabin thrive add shadow decrease snake awake";
+var mnemonic = "million verify truck entire convince reduce maid meadow price scout biology cook";
