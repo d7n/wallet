@@ -1,1 +1,1 @@
-var mnemonic = "twelve hand bacon income exercise smart hungry rebel aerobic wall fox city";
+var mnemonic = "zebra roof boss wedding dad march blade valley comic crisp midnight unable";

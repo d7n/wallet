@@ -1,1 +1,1 @@
-var mnemonic = "sunset tissue pitch find energy arena certain bird fringe neck business over";
+var mnemonic = "under fashion scale ship rebel transfer chef wet venue hole barrel client";

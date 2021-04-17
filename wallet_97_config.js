@@ -1,1 +1,1 @@
-var mnemonic = "extra game enroll boil arm bomb peanut whale distance pudding ticket hand";
+var mnemonic = "notice salt hub equip burden trend range buzz lumber moral cousin core";

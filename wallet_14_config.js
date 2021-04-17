@@ -1,1 +1,1 @@
-var mnemonic = "dismiss van lawsuit you canoe verify flight leave eternal squirrel lift kitchen";
+var mnemonic = "vehicle erupt fatal wise attend mansion vintage crush carpet common camp adapt";

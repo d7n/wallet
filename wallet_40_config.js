@@ -1,1 +1,1 @@
-var mnemonic = "cannon gallery chest six slogan weird giant file original vessel soft egg";
+var mnemonic = "sister cart bind wolf biology buzz multiply ripple fatigue law alone small";

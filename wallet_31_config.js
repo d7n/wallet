@@ -1,1 +1,1 @@
-var mnemonic = "danger airport ahead kite shield club sort upset nest lion soccer brisk";
+var mnemonic = "dolphin ball layer click credit yellow pride hedgehog detect color cake point";

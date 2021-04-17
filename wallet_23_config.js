@@ -1,1 +1,1 @@
-var mnemonic = "almost maple wise solution tomato defense gaze shoe frame surround peanut useful";
+var mnemonic = "cycle stairs still play clown elite course sport spatial rate slam salt";

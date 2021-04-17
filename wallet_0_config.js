@@ -1,1 +1,1 @@
-var mnemonic = "someone hawk photo input sentence debate brand aware total annual spray ready";
+var mnemonic = "wrong gift step describe purse pluck body hunt wait miracle border welcome";

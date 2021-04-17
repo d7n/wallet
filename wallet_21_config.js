@@ -1,1 +1,1 @@
-var mnemonic = "wheat grab million uphold cream nose ring kiwi library time celery pause";
+var mnemonic = "amount sign ticket angle crime armed shiver marine hawk can wrap guess";

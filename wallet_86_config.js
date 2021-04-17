@@ -1,1 +1,1 @@
-var mnemonic = "dial coffee agent desk seed rent love hair oppose code damage session";
+var mnemonic = "portion short sunset antenna stamp elegant marble region world private glad roast";

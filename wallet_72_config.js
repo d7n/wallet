@@ -1,1 +1,1 @@
-var mnemonic = "humor rebuild design apart grab abandon fox usual nurse urban typical sudden";
+var mnemonic = "bubble either gospel profit reduce purpose scorpion shell lend beach unfold supreme";

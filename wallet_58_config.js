@@ -1,1 +1,1 @@
-var mnemonic = "carpet today act hello type panther grocery moon rapid dizzy dismiss dwarf";
+var mnemonic = "ugly city matrix alien list pattern local useful vague universe forget sea";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch decorate buyer share about clog foot panda forum twenty exit burst";
+var mnemonic = "engine admit oval clarify rude obey angry swap number phrase flush sign";

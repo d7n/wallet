@@ -1,1 +1,1 @@
-var mnemonic = "fabric topic attack sick tuna hair limb praise leaf pitch fun minor";
+var mnemonic = "snow alien leopard six loop universe slender bonus rather only voice decide";

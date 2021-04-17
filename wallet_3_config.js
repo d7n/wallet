@@ -1,1 +1,1 @@
-var mnemonic = "robot undo roof cream domain enlist moon extend dentist shiver slush mirror";
+var mnemonic = "burst all pull trial city course pumpkin scrap pitch glory broccoli mansion";

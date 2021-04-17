@@ -1,1 +1,1 @@
-var mnemonic = "grape object add base actress move amount convince security spin rice weasel";
+var mnemonic = "scout job brass twice citizen remove eager state cousin arch harsh grass";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl ability subway north obscure truth anger future faint same oblige giraffe";
+var mnemonic = "reopen kit egg sport charge start awake wrestle wet add they deliver";

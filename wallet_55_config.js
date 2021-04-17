@@ -1,1 +1,1 @@
-var mnemonic = "grid flip ball level stick home soldier pizza million ride begin pen";
+var mnemonic = "room scissors desert receive smooth ill desert meat pink cage device furnace";

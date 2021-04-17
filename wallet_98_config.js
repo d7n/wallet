@@ -1,1 +1,1 @@
-var mnemonic = "worth salt earth wrong tissue arena maple bubble reform bargain hotel thought";
+var mnemonic = "reduce web topple mask ketchup combine lend card inspire exchange swift spice";

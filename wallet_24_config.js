@@ -1,1 +1,1 @@
-var mnemonic = "october edge business tomato nation denial season life credit soccer faint average";
+var mnemonic = "humor camp olive leisure planet emerge swing arch medal easily resemble cycle";

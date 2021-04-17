@@ -1,1 +1,1 @@
-var mnemonic = "entire increase rubber citizen pizza gym feed bunker grocery scrap laundry wisdom";
+var mnemonic = "figure forward vacuum mango subway trim afford comfort cinnamon diamond latin misery";

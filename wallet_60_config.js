@@ -1,1 +1,1 @@
-var mnemonic = "witness apple forest steel drift hunt library occur chest used dinosaur major";
+var mnemonic = "yellow surprise sun little hamster bulb gossip distance guard thrive ankle dry";

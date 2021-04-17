@@ -1,1 +1,1 @@
-var mnemonic = "antenna tornado boil trend argue air puppy woman wrestle illegal snow nothing";
+var mnemonic = "bike curtain clock pave always thunder potato online arrest payment sauce position";

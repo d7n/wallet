@@ -1,1 +1,1 @@
-var mnemonic = "walk quarter joke innocent table spare thrive hobby better cost tell onion";
+var mnemonic = "tackle charge tip dignity vital indoor urban keep speak artefact habit shoot";

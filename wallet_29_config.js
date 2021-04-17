@@ -1,1 +1,1 @@
-var mnemonic = "click race winner distance legend quit diary render oblige parade trip rice";
+var mnemonic = "giant despair arena equal photo ceiling crack diamond protect manual frog reward";

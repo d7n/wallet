@@ -1,1 +1,1 @@
-var mnemonic = "arrive below under weasel frozen bulk amateur prison auto tell federal sound";
+var mnemonic = "tuna hockey polar orphan excuse law practice choose burger dose senior total";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach demise such clap rack bracket bamboo pilot neglect ensure old guard";
+var mnemonic = "indoor slide still wrist when forest shiver catch enrich clog page tower";

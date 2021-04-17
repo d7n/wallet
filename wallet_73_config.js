@@ -1,1 +1,1 @@
-var mnemonic = "toddler any filter dad polar math raven casual ready vehicle smoke intact";
+var mnemonic = "badge option lunar meadow task unique slim afford slide exhaust hurt mad";

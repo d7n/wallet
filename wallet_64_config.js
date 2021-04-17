@@ -1,1 +1,1 @@
-var mnemonic = "jewel cricket artist other vanish water voice address pulp balcony lyrics pull";
+var mnemonic = "planet brush inflict second abandon gorilla robust abuse ivory seek front rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "day open trend veteran entire crop brown route come scan furnace crowd";
+var mnemonic = "eye rug favorite ripple ghost gravity patient million abandon public fat invest";

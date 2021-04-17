@@ -1,1 +1,1 @@
-var mnemonic = "income forward depart suggest town advance citizen drama patient hand pen venue";
+var mnemonic = "kingdom enforce arctic shrimp mad piano render inspire ask scrap news family";

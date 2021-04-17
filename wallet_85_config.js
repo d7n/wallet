@@ -1,1 +1,1 @@
-var mnemonic = "mail grain park immune depend improve snack voyage head wink liquid tuna";
+var mnemonic = "fringe agent spare minimum gossip scrub else marriage control escape curious grit";

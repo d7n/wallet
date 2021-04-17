@@ -1,1 +1,1 @@
-var mnemonic = "edit raise home appear where flee doctor gas age office pledge receive";
+var mnemonic = "outer nut ten business hurt disease february fashion visa cave knock income";

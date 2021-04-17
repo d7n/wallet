@@ -1,1 +1,1 @@
-var mnemonic = "payment artwork borrow glass slush spin path labor devote drama harvest label";
+var mnemonic = "neither patrol scheme open close brave indoor visual connect fitness evidence swarm";

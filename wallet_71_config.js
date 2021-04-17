@@ -1,1 +1,1 @@
-var mnemonic = "stick fall empower unveil inch city dog enroll balcony elegant explain unknown";
+var mnemonic = "much banner tattoo supply thumb wasp kick wink void castle exile cook";

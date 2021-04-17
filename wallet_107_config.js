@@ -1,1 +1,1 @@
-var mnemonic = "vehicle exile view file property anxiety juice fringe until jungle purchase quantum";
+var mnemonic = "miss buyer strategy hundred snap stable dose siren caution glove decide lens";

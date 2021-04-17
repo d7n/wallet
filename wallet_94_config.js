@@ -1,1 +1,1 @@
-var mnemonic = "twist sustain eyebrow paper gospel milk left resource ribbon pool agree bleak";
+var mnemonic = "hobby polar vault impulse zero jar sugar loud card age motion silent";

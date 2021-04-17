@@ -1,1 +1,1 @@
-var mnemonic = "please cricket frost antenna wisdom cruel february nut trumpet rich bamboo buyer";
+var mnemonic = "purity account float price morning hole soap lonely social rose avoid donkey";

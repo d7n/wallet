@@ -1,1 +1,1 @@
-var mnemonic = "aerobic rude human uphold foot amateur ask solution menu movie dish name";
+var mnemonic = "scrub chef marble palace fluid enable enjoy evil shop profit volcano fuel";

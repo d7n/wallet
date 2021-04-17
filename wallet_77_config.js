@@ -1,1 +1,1 @@
-var mnemonic = "inside use prison inflict steel fee connect shy circle fame physical frequent";
+var mnemonic = "weekend same jaguar zone scheme wheat health quality gift guilt core toilet";

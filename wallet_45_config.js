@@ -1,1 +1,1 @@
-var mnemonic = "nurse transfer rough fiction sausage protect slot chimney notable ski orphan certain";
+var mnemonic = "stuff wagon slim three couch float will together laugh soft right lazy";

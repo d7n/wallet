@@ -1,1 +1,1 @@
-var mnemonic = "entry maximum rural salon exchange forward pepper tribe bunker ordinary suit neither";
+var mnemonic = "scheme concert matrix violin donor flavor canal panda mind allow flavor visit";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke culture novel diet master nasty social seminar promote must vendor canvas";
+var mnemonic = "shove infant winner east about infant empty stem mask option machine walk";

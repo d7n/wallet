@@ -1,1 +1,1 @@
-var mnemonic = "small ride oxygen east verb party few because supply aspect glide attitude";
+var mnemonic = "canyon pave torch teach tongue dream brush knock scatter casino tired betray";

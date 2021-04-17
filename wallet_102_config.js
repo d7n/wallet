@@ -1,1 +1,1 @@
-var mnemonic = "cable prepare champion company immune tape manual comfort enforce cloud crop wild";
+var mnemonic = "entire couch kite coffee camera music license embody electric mail fragile balance";

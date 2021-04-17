@@ -1,1 +1,1 @@
-var mnemonic = "bring rigid wealth oil kangaroo proud hotel exhibit lady lounge talk good";
+var mnemonic = "cycle bunker hair film key hero top rigid final proof dumb reduce";

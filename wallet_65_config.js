@@ -1,1 +1,1 @@
-var mnemonic = "raccoon parrot boil hello beauty cheap else fantasy cable adapt wise recycle";
+var mnemonic = "climb assist ozone poem envelope uniform action mutual business vendor layer scan";

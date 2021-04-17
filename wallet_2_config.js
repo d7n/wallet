@@ -1,1 +1,1 @@
-var mnemonic = "iron blanket student catch barely lottery inside neck eight original brick access";
+var mnemonic = "head season often corn limb coin ghost spawn timber chief duck choice";

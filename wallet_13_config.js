@@ -1,1 +1,1 @@
-var mnemonic = "keep palm card rescue denial blame upset subject usual guard hat deposit";
+var mnemonic = "mention film column grow model admit earth vital absorb inject poem lucky";

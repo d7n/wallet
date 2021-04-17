@@ -1,1 +1,1 @@
-var mnemonic = "drastic six raw magic pulp wise title shield ring trap quarter eternal";
+var mnemonic = "mistake long fade crawl what fringe object solar pretty ignore nut vote";

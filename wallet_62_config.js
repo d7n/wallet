@@ -1,1 +1,1 @@
-var mnemonic = "raccoon pass skull mail erupt nerve provide mobile orbit tumble borrow ten";
+var mnemonic = "anger lawsuit paddle voyage gesture panic card ripple sort shiver nothing level";

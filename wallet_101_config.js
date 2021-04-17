@@ -1,1 +1,1 @@
-var mnemonic = "twist snack vibrant pretty under child anchor doll deer ignore property tank";
+var mnemonic = "twenty witness medal adult fog cargo barrel jungle ladder range direct arena";

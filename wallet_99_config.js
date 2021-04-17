@@ -1,1 +1,1 @@
-var mnemonic = "leaf satisfy hint gown joke loop flock garment buffalo upgrade reduce hungry";
+var mnemonic = "knife kidney mesh rack flat have novel mushroom opinion habit whale thumb";

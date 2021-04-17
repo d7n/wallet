@@ -1,1 +1,1 @@
-var mnemonic = "auction photo vacant mountain explain total harvest feel tool message push table";
+var mnemonic = "treat rice someone raw judge parent core mention craft tuition icon laptop";

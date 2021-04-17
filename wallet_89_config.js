@@ -1,1 +1,1 @@
-var mnemonic = "put east clog tone sorry immune tunnel face romance source visual artefact";
+var mnemonic = "initial lawn pig suffer voyage hundred village vapor maple repeat cabbage toss";

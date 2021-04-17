@@ -1,1 +1,1 @@
-var mnemonic = "middle birth mutual injury prepare dust tackle senior finish duty asset frog";
+var mnemonic = "quality vault street avoid popular champion laptop salmon unfair admit song you";

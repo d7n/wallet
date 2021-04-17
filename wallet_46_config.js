@@ -1,1 +1,1 @@
-var mnemonic = "inflict enroll tape bring favorite tree kidney grace hood reject strategy net";
+var mnemonic = "practice decorate pledge police bottom way immune garment lady nuclear print rug";

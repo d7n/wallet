@@ -1,1 +1,1 @@
-var mnemonic = "peace team female casual memory goose essay velvet fiscal ethics airport joy";
+var mnemonic = "trophy animal spot gather exist online kind tissue match wife ask poem";

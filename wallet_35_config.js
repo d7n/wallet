@@ -1,1 +1,1 @@
-var mnemonic = "crisp journey desk fold fault neck doctor gesture stereo online cream copper";
+var mnemonic = "shop hen oppose jump transfer input tumble volume print crash never cage";

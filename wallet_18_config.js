@@ -1,1 +1,1 @@
-var mnemonic = "sock recycle smoke fog butter human thing script tribe lyrics hundred response";
+var mnemonic = "inch picnic timber toilet laptop foot legal note acquire sadness exist obtain";

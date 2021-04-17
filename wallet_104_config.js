@@ -1,1 +1,1 @@
-var mnemonic = "dawn media delay forget consider test height jelly finish divert snake enter";
+var mnemonic = "wave inherit heart mouse party sorry give horn pet trophy pattern radio";

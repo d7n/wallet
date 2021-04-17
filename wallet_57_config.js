@@ -1,1 +1,1 @@
-var mnemonic = "until arch luxury tribe curious profit tuna attract foam average gadget boost";
+var mnemonic = "rigid acid live rapid pipe fortune wide camera used sweet devote ribbon";

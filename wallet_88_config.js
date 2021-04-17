@@ -1,1 +1,1 @@
-var mnemonic = "path lazy miracle jungle stove crush hub flash slim jacket fuel pledge";
+var mnemonic = "secret health pizza humble inject web orient just riot sign final tornado";

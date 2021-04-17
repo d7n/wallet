@@ -1,1 +1,1 @@
-var mnemonic = "actual elegant impose carbon hurt genius glass spot nasty debris trip emerge";
+var mnemonic = "visual twist because pass rice clever educate online explain acquire absurd injury";

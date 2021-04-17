@@ -1,1 +1,1 @@
-var mnemonic = "exercise hammer nurse slam alley happy hood bring spawn faculty next cement";
+var mnemonic = "pitch bread present bar lucky tattoo lecture one sniff math tribe finish";

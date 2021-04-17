@@ -1,1 +1,1 @@
-var mnemonic = "perfect wolf kiss cat peanut cloth clean top stage spice ritual capital";
+var mnemonic = "dolphin gap legal napkin above shove uphold music surprise ability broom soft";

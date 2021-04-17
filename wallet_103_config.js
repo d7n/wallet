@@ -1,1 +1,1 @@
-var mnemonic = "code civil improve token valid sample viable decline build wreck family become";
+var mnemonic = "become sand napkin palm afford negative issue clarify worry dynamic loyal decline";

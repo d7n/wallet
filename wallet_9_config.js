@@ -1,1 +1,1 @@
-var mnemonic = "future impact ozone act regular churn noodle call cave figure sniff orient";
+var mnemonic = "eight enroll among surge cup gaze cannon husband swamp focus survey guard";

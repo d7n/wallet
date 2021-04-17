@@ -1,1 +1,1 @@
-var mnemonic = "bunker army siren weather hint tomorrow farm damp universe biology parade illness";
+var mnemonic = "broken drive regret giraffe cement crop until desk unveil later hurdle hamster";

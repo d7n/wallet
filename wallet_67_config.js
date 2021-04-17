@@ -1,1 +1,1 @@
-var mnemonic = "fitness ill decade mango dizzy glimpse jar mimic unable ritual dawn pumpkin";
+var mnemonic = "special arena popular early record decade bachelor bid boil one teach art";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty magnet ice magnet roof gauge plate develop run kitchen shoot capital";
+var mnemonic = "ice wheat wing drama original long toy crazy potato bullet cheese message";

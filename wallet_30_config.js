@@ -1,1 +1,1 @@
-var mnemonic = "raven cheap warrior region mixed flag old sell angle book purse walnut";
+var mnemonic = "fetch quantum leave payment exotic conduct adapt joy mosquito cool pencil cage";

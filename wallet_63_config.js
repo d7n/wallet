@@ -1,1 +1,1 @@
-var mnemonic = "evidence vivid divide also heart crystal gaze angle view light divert bicycle";
+var mnemonic = "suffer armor detect stand butter limb boss embrace clap axis siege robot";

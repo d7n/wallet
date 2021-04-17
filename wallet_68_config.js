@@ -1,1 +1,1 @@
-var mnemonic = "arrive wrist volcano tent attack lumber screen royal movie tool merit deliver";
+var mnemonic = "blame glass once legend elbow arrow shed hover moon april hidden radar";

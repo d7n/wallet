@@ -1,1 +1,1 @@
-var mnemonic = "put escape bench state smoke excess jewel merit shed anxiety quarter resemble";
+var mnemonic = "smooth goddess hunt yellow obvious veteran twelve cluster left near energy skirt";

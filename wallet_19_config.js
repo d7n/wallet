@@ -1,1 +1,1 @@
-var mnemonic = "race shuffle theory obscure lemon pepper shallow evoke teach beyond speed faculty";
+var mnemonic = "oblige nature avoid aware spy camera two trap vehicle rude wing motion";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence trigger cart during vacant usual price dry record dice option major";
+var mnemonic = "assault lunar iron slow client swarm hip cake boss job awake sun";

@@ -1,1 +1,1 @@
-var mnemonic = "common energy stay knee squirrel steak milk guard enforce champion snake pride";
+var mnemonic = "doll update balcony pulp cup host dinosaur village awkward sight inch artefact";

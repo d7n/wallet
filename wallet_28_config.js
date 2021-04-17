@@ -1,1 +1,1 @@
-var mnemonic = "issue tunnel glass gap enhance enhance gossip benefit cool panic midnight visa";
+var mnemonic = "february poem diagram when rival huge rabbit vault over fox blush dice";
