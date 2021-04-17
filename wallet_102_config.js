@@ -1,1 +1,1 @@
-var mnemonic = "master winner cross before warm domain setup fiber lab submit holiday usual";
+var mnemonic = "giant brief alter price race ice virtual large avoid attract recall gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder half between injury empower sick simple monster good crawl mercy wreck";
+var mnemonic = "fit tank scene catalog dad oxygen such cereal hire soup tooth group";

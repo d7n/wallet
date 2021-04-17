@@ -1,1 +1,1 @@
-var mnemonic = "rhythm fringe insane sheriff tornado roof among satoshi disagree primary reveal secret";
+var mnemonic = "fragile this lady slush whale fragile guilt soon love hold purpose fall";

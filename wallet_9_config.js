@@ -1,1 +1,1 @@
-var mnemonic = "renew option later bean vote public unusual notice angry toddler swing scheme";
+var mnemonic = "apology gap chronic furnace swing digital possible mountain velvet lumber maximum gift";

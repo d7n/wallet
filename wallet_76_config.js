@@ -1,1 +1,1 @@
-var mnemonic = "where place lawsuit vanish ecology sound accident zebra social practice wreck airport";
+var mnemonic = "limb hammer group please insane casino cream crew snack genius squeeze twelve";

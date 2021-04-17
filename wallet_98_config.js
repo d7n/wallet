@@ -1,1 +1,1 @@
-var mnemonic = "vessel blossom brass prosper pigeon ketchup cigar iron chef shaft gasp apart";
+var mnemonic = "citizen entire opera obvious alert section public fruit hurdle bargain barrel universe";

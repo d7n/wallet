@@ -1,1 +1,1 @@
-var mnemonic = "earn position maple dial tone debate mansion festival trend index guilt castle";
+var mnemonic = "obey lottery cart feel silk level alone between island ramp amount blush";

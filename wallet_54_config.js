@@ -1,1 +1,1 @@
-var mnemonic = "later awesome load merit vacuum height busy sadness scare manual there version";
+var mnemonic = "camp dilemma point jar goose stadium jeans sad minor fix dizzy struggle";

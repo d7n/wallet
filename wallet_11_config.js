@@ -1,1 +1,1 @@
-var mnemonic = "come tip sing equip spatial used thank color invest decorate balance hungry";
+var mnemonic = "arrow resist hospital scene siren pizza width confirm draw circle what stable";

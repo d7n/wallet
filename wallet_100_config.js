@@ -1,1 +1,1 @@
-var mnemonic = "matrix despair young slogan unusual relax riot barrel more universe crop vivid";
+var mnemonic = "clump analyst faculty expire doll sleep liar girl push tape decorate inquiry";

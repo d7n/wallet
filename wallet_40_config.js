@@ -1,1 +1,1 @@
-var mnemonic = "physical daughter style attack good anxiety home wrong source blush dune field";
+var mnemonic = "among task kitten expand chief outdoor praise talk excite speak innocent atom";

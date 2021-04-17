@@ -1,1 +1,1 @@
-var mnemonic = "two strategy glow brain provide achieve ready when pilot brand range jazz";
+var mnemonic = "runway post yard ethics tribe festival round glare throw wreck slice april";

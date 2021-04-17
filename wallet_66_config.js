@@ -1,1 +1,1 @@
-var mnemonic = "potato permit ridge pass auction undo gesture glide fashion modify hour prize";
+var mnemonic = "library cube code dignity detail credit organ enact mutual high weasel width";

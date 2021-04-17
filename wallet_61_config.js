@@ -1,1 +1,1 @@
-var mnemonic = "scout tortoise budget evolve fatal vibrant spread mechanic hand always limit rigid";
+var mnemonic = "split rigid educate vanish wedding view spell lounge void senior milk tired";

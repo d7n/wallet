@@ -1,1 +1,1 @@
-var mnemonic = "buyer vacant token divorce image fever timber object youth glide potato aspect";
+var mnemonic = "extend cheap attend wreck tunnel car advance charge source space vote neutral";

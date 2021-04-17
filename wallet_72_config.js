@@ -1,1 +1,1 @@
-var mnemonic = "pill piano claim true write leg way ask run much idle tumble";
+var mnemonic = "echo enroll refuse tail harvest cannon assault bronze panel punch february wine";

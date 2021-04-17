@@ -1,1 +1,1 @@
-var mnemonic = "artwork kiwi melt cheap other race bird kitten hand shy ramp crazy";
+var mnemonic = "proof tired member destroy dose flash found shallow defy debris sunset middle";

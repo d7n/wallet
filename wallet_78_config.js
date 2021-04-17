@@ -1,1 +1,1 @@
-var mnemonic = "benefit minimum spike air envelope orchard hungry ugly tourist ugly glance maple";
+var mnemonic = "rabbit program marine enjoy charge urban dwarf entry pigeon kiwi first work";

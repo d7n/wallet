@@ -1,1 +1,1 @@
-var mnemonic = "valid ritual fatigue venue people rib damp real ball combine town veteran";
+var mnemonic = "crystal van climb broken street cruel canal auto craft spy century illegal";

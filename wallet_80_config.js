@@ -1,1 +1,1 @@
-var mnemonic = "various capital evil reunion town output knife twist legal crouch reform comic";
+var mnemonic = "cry legal miracle diesel plunge summer column voice ten grain provide actual";

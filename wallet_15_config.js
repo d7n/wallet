@@ -1,1 +1,1 @@
-var mnemonic = "chef planet quote lazy walk butter setup catch under copy cook west";
+var mnemonic = "margin more tribe trust extra pulp near stick diagram cry dash wheat";

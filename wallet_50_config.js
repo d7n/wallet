@@ -1,1 +1,1 @@
-var mnemonic = "rough erosion remind brain magic usual width uphold minor select right whale";
+var mnemonic = "traffic gift budget bronze era rabbit unable excuse produce kidney bleak melt";

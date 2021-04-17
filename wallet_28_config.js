@@ -1,1 +1,1 @@
-var mnemonic = "lady often wasp flash city beyond crop slush spring matter because settle";
+var mnemonic = "surround horn antique front just swing glimpse crawl thought prize monitor negative";

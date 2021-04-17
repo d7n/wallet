@@ -1,1 +1,1 @@
-var mnemonic = "swift marriage number core pretty sick bid differ control donor involve rain";
+var mnemonic = "cage hunt wait furnace night student mandate balance skin fence predict empower";

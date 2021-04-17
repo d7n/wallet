@@ -1,1 +1,1 @@
-var mnemonic = "belt sleep visual sweet end bleak diamond invite fan enjoy farm adjust";
+var mnemonic = "party delay arrange senior charge brief misery breeze used light clog dove";

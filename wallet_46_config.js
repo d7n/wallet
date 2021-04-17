@@ -1,1 +1,1 @@
-var mnemonic = "luxury fish odor couple glow bring cheese say explain similar private oil";
+var mnemonic = "custom donkey private auto stuff tower harsh tag dynamic goddess media marble";

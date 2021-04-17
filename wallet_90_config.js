@@ -1,1 +1,1 @@
-var mnemonic = "thumb hand someone gloom man luxury renew series genius excuse simple cactus";
+var mnemonic = "ski session program sugar similar weekend silk sleep tell verify model helmet";

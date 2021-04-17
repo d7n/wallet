@@ -1,1 +1,1 @@
-var mnemonic = "margin priority service orchard confirm radar future quote tent leader peace swallow";
+var mnemonic = "amateur audit spoil warfare bomb unveil bottom casual nuclear dawn valid cabin";

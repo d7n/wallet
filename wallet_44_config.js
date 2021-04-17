@@ -1,1 +1,1 @@
-var mnemonic = "ghost van aware shuffle regret artefact goddess width blur edge collect ancient";
+var mnemonic = "figure churn example dinosaur early battle blast matrix island relax special naive";

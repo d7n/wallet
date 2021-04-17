@@ -1,1 +1,1 @@
-var mnemonic = "manage miracle tourist night sauce setup size walnut misery harbor bulb body";
+var mnemonic = "surround goose angry two purse planet weasel cabbage victory pelican decline describe";

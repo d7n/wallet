@@ -1,1 +1,1 @@
-var mnemonic = "feature still frog aspect notable clay iron swap spring claw opera erase";
+var mnemonic = "announce sting prepare patrol square narrow either card van slot stage bundle";

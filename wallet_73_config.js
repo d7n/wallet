@@ -1,1 +1,1 @@
-var mnemonic = "business weapon sustain regular any truly nose sense broom gown museum punch";
+var mnemonic = "actual piano satisfy sword reopen legal task mix stairs undo repeat edge";

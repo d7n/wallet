@@ -1,1 +1,1 @@
-var mnemonic = "wrist image yard drastic orchard property prefer riot bulk learn naive base";
+var mnemonic = "huge switch arm grass miracle blur install become worry agent type prison";

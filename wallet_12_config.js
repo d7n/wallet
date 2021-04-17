@@ -1,1 +1,1 @@
-var mnemonic = "student project action enemy recipe garden prosper easily avocado will plug elegant";
+var mnemonic = "brass faint dance denial fine valley entire fish wrist dad soldier chicken";

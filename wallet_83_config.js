@@ -1,1 +1,1 @@
-var mnemonic = "wash arch surround announce secret park witness woman gaze top shoot bitter";
+var mnemonic = "absorb vendor share combine hungry connect edit run fold steak pyramid soccer";

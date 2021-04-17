@@ -1,1 +1,1 @@
-var mnemonic = "sweet earn giggle pottery dumb orchard record spy carbon barrel employ sunset";
+var mnemonic = "panel tenant garbage pink various viable into forum wasp rely also track";

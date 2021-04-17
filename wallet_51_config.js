@@ -1,1 +1,1 @@
-var mnemonic = "shy silver tiny amount million song fault smoke sound mutual rule sting";
+var mnemonic = "addict vehicle evoke duck number luggage verb digital palace either chicken aim";

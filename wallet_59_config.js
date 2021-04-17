@@ -1,1 +1,1 @@
-var mnemonic = "uncle crucial elegant device recycle pull move false fiber ticket eyebrow welcome";
+var mnemonic = "toward hollow hotel runway problem fence fiber guess message album coffee poem";

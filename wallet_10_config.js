@@ -1,1 +1,1 @@
-var mnemonic = "thrive snap village arrow toe know boost source today ocean catch silent";
+var mnemonic = "sea brown parent cause shove reunion scissors frost erode brother safe salmon";

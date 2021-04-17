@@ -1,1 +1,1 @@
-var mnemonic = "orient family effort will trap retreat toilet elder three prevent tilt scale";
+var mnemonic = "remind panic feed grape amazing pitch gate lady drastic harsh brush pistol";

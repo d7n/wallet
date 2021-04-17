@@ -1,1 +1,1 @@
-var mnemonic = "behave ghost salad bacon credit spoon across maze submit stand peanut evolve";
+var mnemonic = "void whisper oppose arch lion diary same alter unfold save deer mercy";

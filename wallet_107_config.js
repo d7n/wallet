@@ -1,1 +1,1 @@
-var mnemonic = "length dove oxygen emotion resemble tomato truly predict exhibit rocket space increase";
+var mnemonic = "uphold ask fade swamp crazy side honey smile opera dress suit confirm";

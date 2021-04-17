@@ -1,1 +1,1 @@
-var mnemonic = "cart goddess horn net utility artefact social olympic high pave drama vague";
+var mnemonic = "mountain credit impose shadow enemy reform car pony tape bless sweet quote";

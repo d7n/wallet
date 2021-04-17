@@ -1,1 +1,1 @@
-var mnemonic = "moment staff dress exhibit genuine exhibit enforce rookie prosper motor pattern sunny";
+var mnemonic = "exit sheriff logic hawk tank panther tongue december panther seven city detect";

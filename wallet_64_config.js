@@ -1,1 +1,1 @@
-var mnemonic = "dolphin attract clever cancel harvest forum either pig shock grid warrior nuclear";
+var mnemonic = "digital eight label limit clever pact vanish twenty omit subway before kangaroo";

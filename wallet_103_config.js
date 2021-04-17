@@ -1,1 +1,1 @@
-var mnemonic = "lion any auction pen country buyer case genre shaft system main device";
+var mnemonic = "verb rude ask torch belt involve bless captain good token mad crystal";

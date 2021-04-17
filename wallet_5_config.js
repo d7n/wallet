@@ -1,1 +1,1 @@
-var mnemonic = "also pink atom office step model assist brown maximum patch moon average";
+var mnemonic = "electric victory prize square impulse merge summer affair accuse toe uphold cradle";

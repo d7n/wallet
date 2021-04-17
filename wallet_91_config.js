@@ -1,1 +1,1 @@
-var mnemonic = "half cupboard depart below palm must rate twelve helmet must ginger ignore";
+var mnemonic = "warrior expose scout object wait actor meat lottery side capital fabric moment";

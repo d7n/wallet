@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo small scorpion clean burger series license mass buffalo piano equip clever";
+var mnemonic = "feature parrot volume anger blade early still close unveil give giggle useless";

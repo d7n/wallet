@@ -1,1 +1,1 @@
-var mnemonic = "humor hurry thumb radio bonus despair blast smooth curious useless arena must";
+var mnemonic = "chronic country cement wage become repair exhibit battle tuna later sail pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "right repeat humble attitude false high sort salon salmon else faint dismiss";
+var mnemonic = "phone alpha claim health title depend trick vacuum cover marine antique cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "crime nest design deputy focus goose love ranch race burst fancy keen";
+var mnemonic = "skate diet engine fatal buddy arch way scrap crucial blanket quick expect";

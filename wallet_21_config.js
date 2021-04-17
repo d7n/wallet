@@ -1,1 +1,1 @@
-var mnemonic = "erupt slight crawl erupt abstract clarify magic sail detect turtle garlic sun";
+var mnemonic = "claim rug alter shrimp drive lumber hope thrive main coconut soon critic";

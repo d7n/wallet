@@ -1,1 +1,1 @@
-var mnemonic = "such account common craft vital razor lyrics repeat embark sample conduct gospel";
+var mnemonic = "card until govern excuse face cart airport pig century salon split spike";

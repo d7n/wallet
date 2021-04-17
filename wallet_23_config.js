@@ -1,1 +1,1 @@
-var mnemonic = "upper obtain cruel early bronze silly bundle agree faculty insane that remain";
+var mnemonic = "guitar spot guard trust loop end comic return unknown divide pluck battle";

@@ -1,1 +1,1 @@
-var mnemonic = "aim clutch talent praise reject chronic once dune fine insane limb direct";
+var mnemonic = "festival protect stereo erupt trim boring slice pulp clip cable devote loyal";

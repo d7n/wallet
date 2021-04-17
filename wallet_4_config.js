@@ -1,1 +1,1 @@
-var mnemonic = "ostrich shrimp isolate theme owner female remain awkward rival feed slide alcohol";
+var mnemonic = "theory firm picnic hawk flip damp paper dry asthma ignore acoustic auto";

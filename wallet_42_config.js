@@ -1,1 +1,1 @@
-var mnemonic = "sell winner invite renew brief inner scrap regular weasel glare hunt sunset";
+var mnemonic = "tooth injury cereal area toilet sponsor remind tuition obtain choose below power";

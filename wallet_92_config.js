@@ -1,1 +1,1 @@
-var mnemonic = "behave fence gallery reunion author crystal shoot primary wise speak report chef";
+var mnemonic = "salad buyer drill royal provide burst elevator program tortoise marriage near glass";

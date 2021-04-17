@@ -1,1 +1,1 @@
-var mnemonic = "marble perfect original source follow blush fashion cable sausage void metal rebel";
+var mnemonic = "spread farm chalk gown guilt happy chest fire scheme melt bullet extra";

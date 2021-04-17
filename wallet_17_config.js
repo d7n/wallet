@@ -1,1 +1,1 @@
-var mnemonic = "carbon slice purity result olive purchase ice short repeat announce tissue loud";
+var mnemonic = "meadow behave crack mouse omit fetch upper vacant myself pulse poverty bring";

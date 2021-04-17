@@ -1,1 +1,1 @@
-var mnemonic = "camera genre hidden soon empty finger must lounge list midnight lemon wolf";
+var mnemonic = "camp meat captain current stadium input smart chunk flag impulse bachelor motion";

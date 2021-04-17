@@ -1,1 +1,1 @@
-var mnemonic = "involve fatal soap stomach since mention push hip fortune purpose approve toe";
+var mnemonic = "afford fit mask high parrot talk fatal quick vote trash jazz ocean";

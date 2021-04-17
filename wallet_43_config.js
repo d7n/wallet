@@ -1,1 +1,1 @@
-var mnemonic = "limb unique emotion only bone blood often bundle shift gloom thrive salt";
+var mnemonic = "hurt spike talent service balcony depend shed skill labor achieve okay laptop";

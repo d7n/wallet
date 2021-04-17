@@ -1,1 +1,1 @@
-var mnemonic = "lesson predict faith keen bid metal thing document cloth film credit orphan";
+var mnemonic = "endorse large stick piece ladder deer asthma breeze flight boy scene fix";

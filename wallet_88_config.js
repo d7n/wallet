@@ -1,1 +1,1 @@
-var mnemonic = "film ready father cool curve tent head strike daring bus blur trumpet";
+var mnemonic = "rocket account swing gentle pony crawl supreme salad swallow ozone bargain ordinary";

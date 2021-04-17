@@ -1,1 +1,1 @@
-var mnemonic = "erase loud alien extend arrow online again rely expand budget arrange embody";
+var mnemonic = "capable since stand crucial panther adjust little clown token liar vapor amazing";

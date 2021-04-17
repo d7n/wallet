@@ -1,1 +1,1 @@
-var mnemonic = "poverty return gap item finger pizza awful dial purse food disagree obtain";
+var mnemonic = "element stamp battle own blue winter sure answer stable bounce front social";

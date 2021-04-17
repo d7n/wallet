@@ -1,1 +1,1 @@
-var mnemonic = "benefit avocado body misery flip vibrant kid vapor uncover fan lobster spread";
+var mnemonic = "travel kick glory moon obscure ritual unit chuckle true guide traffic provide";

@@ -1,1 +1,1 @@
-var mnemonic = "heart history depend produce trade explain rail tackle person nation sand matter";
+var mnemonic = "clinic sand corn blast ensure skate tissue hard paper diesel hover slot";

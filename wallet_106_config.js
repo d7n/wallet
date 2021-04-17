@@ -1,1 +1,1 @@
-var mnemonic = "flight error silly execute gold balance junk olympic smile moon inspire curious";
+var mnemonic = "muscle electric also sad prize enact parent elegant seven project fantasy zebra";

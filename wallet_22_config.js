@@ -1,1 +1,1 @@
-var mnemonic = "rubber engine cradle cigar talent hobby plug claim allow baby actor govern";
+var mnemonic = "donor insect shoe island vacant input noise scene crunch ozone duck use";

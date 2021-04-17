@@ -1,1 +1,1 @@
-var mnemonic = "spray eager furnace peace donkey change diet shiver recycle bleak walnut choose";
+var mnemonic = "okay prevent seminar panther hockey grief visual orphan clap combine enroll travel";

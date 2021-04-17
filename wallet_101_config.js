@@ -1,1 +1,1 @@
-var mnemonic = "hurdle safe host hope inspire snack sweet panic novel recall muscle trigger";
+var mnemonic = "spot bring select hold traffic season castle taste fitness bundle cloth peanut";

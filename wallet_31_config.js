@@ -1,1 +1,1 @@
-var mnemonic = "metal deputy kitten explain panda iron slender crouch peace satoshi club assault";
+var mnemonic = "conduct marine salt salon arrest enforce wish mandate evidence record bleak trick";

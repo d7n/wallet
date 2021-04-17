@@ -1,1 +1,1 @@
-var mnemonic = "jewel fine parade coach island liar spoon robot radar pink wreck turn";
+var mnemonic = "hard artwork simple erase dignity prevent wish baby three timber wine photo";

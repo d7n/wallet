@@ -1,1 +1,1 @@
-var mnemonic = "maid uniform improve cube park garment august deny trouble crouch fan simple";
+var mnemonic = "lunar estate hire input exile surge pink taste virus tourist remember resource";

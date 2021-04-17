@@ -1,1 +1,1 @@
-var mnemonic = "story desk road brown degree lamp cream hungry rent wealth law toddler";
+var mnemonic = "position praise theme memory seek melt blame horse visual neither dove high";

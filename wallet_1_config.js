@@ -1,1 +1,1 @@
-var mnemonic = "version panda jacket poem eight pudding wrist leaf famous merit riot suspect";
+var mnemonic = "sample pumpkin night outside rapid theory video wolf derive skate pelican clip";

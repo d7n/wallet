@@ -1,1 +1,1 @@
-var mnemonic = "easily famous degree price sugar mobile unusual supreme involve manual also speak";
+var mnemonic = "kit initial move achieve copy suggest wish glove net work inch cram";

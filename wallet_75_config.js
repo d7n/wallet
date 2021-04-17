@@ -1,1 +1,1 @@
-var mnemonic = "engage current segment frog wood extra betray luggage soon satoshi yellow tomato";
+var mnemonic = "crucial fetch rabbit response aunt demise arrange armor struggle endorse style fan";

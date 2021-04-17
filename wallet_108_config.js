@@ -1,1 +1,1 @@
-var mnemonic = "enact leisure exhaust struggle blast stem zero deputy chase skirt table pill";
+var mnemonic = "exhaust mystery tool tattoo return teach orient apology amateur camp artwork unlock";

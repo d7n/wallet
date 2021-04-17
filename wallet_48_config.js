@@ -1,1 +1,1 @@
-var mnemonic = "patch donate charge select orient issue canvas follow turtle gorilla romance steak";
+var mnemonic = "congress moment true pudding security lottery because ceiling hazard robot chuckle dwarf";

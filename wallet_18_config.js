@@ -1,1 +1,1 @@
-var mnemonic = "giggle tooth heart lab fish question area ordinary defense noodle dad paper";
+var mnemonic = "castle material gloom laptop monkey legend scout aunt remind silent captain judge";

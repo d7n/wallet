@@ -1,1 +1,1 @@
-var mnemonic = "soft alert flower butter spin fame estate detect foster auto layer zoo";
+var mnemonic = "catalog wealth cup benefit simple market army scene crunch uncover opinion front";

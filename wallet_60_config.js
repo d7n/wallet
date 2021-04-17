@@ -1,1 +1,1 @@
-var mnemonic = "tornado finish slot festival clean dirt idle inject image group afford pelican";
+var mnemonic = "satoshi physical oak keep rich bridge sail hole right tree latin more";

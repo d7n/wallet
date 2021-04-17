@@ -1,1 +1,1 @@
-var mnemonic = "round menu search bomb supply abuse hole end ship either oyster crater";
+var mnemonic = "rotate denial tongue patient despair never exist awkward adapt reduce method shoulder";

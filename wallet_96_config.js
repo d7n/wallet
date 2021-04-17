@@ -1,1 +1,1 @@
-var mnemonic = "defense sign bunker devote gloom vocal dumb area crew drift frown humor";
+var mnemonic = "grace disorder silver nest amateur clown design want awake casino razor region";
