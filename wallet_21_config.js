@@ -1,1 +1,1 @@
-var mnemonic = "buyer cannon life phone moment metal captain argue cage milk owner merge";
+var mnemonic = "coil major find observe artefact expire camera rifle private scatter mixed success";

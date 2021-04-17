@@ -1,1 +1,1 @@
-var mnemonic = "dance inhale simple stem warm reject strategy limb spell gospel flavor theme";
+var mnemonic = "antique friend style purpose sock stumble you hospital erase learn shop panther";

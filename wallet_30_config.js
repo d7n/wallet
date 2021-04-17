@@ -1,1 +1,1 @@
-var mnemonic = "apology slim bus wife omit price wing basket decorate slam inside olympic";
+var mnemonic = "tag rail you verb frog cross bonus flush estate salad heavy save";

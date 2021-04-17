@@ -1,1 +1,1 @@
-var mnemonic = "maid cloth worry couple gap gaze evidence spider foot recycle size local";
+var mnemonic = "sun leopard fence stumble piano inflict alter drum magnet north special promote";

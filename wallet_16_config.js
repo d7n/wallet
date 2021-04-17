@@ -1,1 +1,1 @@
-var mnemonic = "silent cash finish vacuum worry whisper measure marine bronze error rural hammer";
+var mnemonic = "woman leisure cruel luggage coral iron pretty dash write absurd broken shoot";

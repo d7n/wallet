@@ -1,1 +1,1 @@
-var mnemonic = "stuff sock answer drop collect swear increase round sock risk atom venue";
+var mnemonic = "uncle crumble prize spike cement mention swamp must pulse proud animal deliver";

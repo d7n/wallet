@@ -1,1 +1,1 @@
-var mnemonic = "warfare sure pole lemon govern rhythm conduct curious era address dry stem";
+var mnemonic = "twice hole super dizzy annual flower medal own armed speed anger salon";

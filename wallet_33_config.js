@@ -1,1 +1,1 @@
-var mnemonic = "ice pluck margin delay arena pause spawn blue lottery path cluster damage";
+var mnemonic = "loan radar castle spirit midnight avocado alley garlic undo letter diary actor";

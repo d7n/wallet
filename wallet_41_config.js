@@ -1,1 +1,1 @@
-var mnemonic = "copper spare tiny leaf three inform bike gesture taste essay naive dance";
+var mnemonic = "mutual punch joke spider install salute jealous garage crane cat lyrics average";

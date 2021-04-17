@@ -1,1 +1,1 @@
-var mnemonic = "toddler custom twin crop differ sudden drip hen chase decline invite bread";
+var mnemonic = "cash item unlock satoshi dutch monitor rebel human hurdle combine tilt noise";

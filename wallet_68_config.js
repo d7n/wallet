@@ -1,1 +1,1 @@
-var mnemonic = "mean float easily task admit pass rough glove pledge raccoon direct glow";
+var mnemonic = "eye matter flee prison bubble tuna need bean angle motor hover thank";

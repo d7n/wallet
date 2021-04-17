@@ -1,1 +1,1 @@
-var mnemonic = "priority vehicle garage animal hire deal mansion much faith visual mercy man";
+var mnemonic = "horn wine gloom science broom fortune clerk issue setup arrow quick solve";

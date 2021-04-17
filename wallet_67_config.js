@@ -1,1 +1,1 @@
-var mnemonic = "prepare guide upon cook rough point scene since urge imitate angry calm";
+var mnemonic = "mean proof beauty urban vacuum tunnel defy uncle beef law into banana";

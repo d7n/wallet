@@ -1,1 +1,1 @@
-var mnemonic = "enhance price jump curious awkward oblige render ozone act fitness town armor";
+var mnemonic = "jacket have pink crystal decrease grass actual patient begin invite final urban";

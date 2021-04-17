@@ -1,1 +1,1 @@
-var mnemonic = "addict critic toast anger pepper crisp vast isolate sea remind traffic audit";
+var mnemonic = "sign pipe final exercise screen glad hedgehog off accuse front fringe month";

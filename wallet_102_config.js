@@ -1,1 +1,1 @@
-var mnemonic = "refuse siren devote drip owner three mix topple divorce floor sadness park";
+var mnemonic = "captain find polar style together second runway wage snow dish rice steak";

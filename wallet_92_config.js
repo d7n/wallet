@@ -1,1 +1,1 @@
-var mnemonic = "hidden spray reunion general shrimp reunion hold fossil collect gossip couple donate";
+var mnemonic = "portion cage arctic stool chalk begin small milk round census once giggle";

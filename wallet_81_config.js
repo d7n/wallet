@@ -1,1 +1,1 @@
-var mnemonic = "fault news alcohol defy cliff actress topple obtain such strike heavy place";
+var mnemonic = "wagon awkward faculty crystal random trouble spirit hybrid tennis crowd carbon globe";

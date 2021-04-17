@@ -1,1 +1,1 @@
-var mnemonic = "clay clerk few pair young zoo accident judge rubber similar rather response";
+var mnemonic = "method wealth enforce garlic join spice talk decrease lock number alien piece";

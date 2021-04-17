@@ -1,1 +1,1 @@
-var mnemonic = "point armed expose vague inside violin broom inch shrimp sunny thrive october";
+var mnemonic = "auto animal spike own stock very sheriff risk volume couch inquiry unknown";

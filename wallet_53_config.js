@@ -1,1 +1,1 @@
-var mnemonic = "spider pencil wish wrist biology road pact veteran sheriff blind slam monkey";
+var mnemonic = "congress success total nature hover pear retreat math dice exercise negative skill";

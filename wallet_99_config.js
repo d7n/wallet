@@ -1,1 +1,1 @@
-var mnemonic = "hour wet mountain eternal wrist suggest aisle car allow north ecology seed";
+var mnemonic = "enemy wave cherry icon raise valley august army coil lab dad permit";

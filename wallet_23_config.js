@@ -1,1 +1,1 @@
-var mnemonic = "maze conduct verb dynamic between rescue limb term detect capable balcony creek";
+var mnemonic = "village awful polar job fault begin bullet act visual furnace paper radar";

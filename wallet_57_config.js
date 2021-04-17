@@ -1,1 +1,1 @@
-var mnemonic = "outside kitchen canyon spoil member web palace friend excess sponsor mosquito kick";
+var mnemonic = "sure exact basic elegant local rack term lesson measure mammal erosion funny";

@@ -1,1 +1,1 @@
-var mnemonic = "add key arrive shoulder eyebrow pole perfect deposit tool debate snow case";
+var mnemonic = "brush female print arrest able toy wall disease useful depend glimpse inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "copper vote firm soft reunion leisure cost suit limit waste thrive noodle";
+var mnemonic = "social title heart grunt tilt valley peanut wood crop way other tube";

@@ -1,1 +1,1 @@
-var mnemonic = "robot twenty remember abstract deposit audit lyrics sheriff champion walk slogan swim";
+var mnemonic = "chimney kidney able hat way knee gather never arctic end nest liquid";

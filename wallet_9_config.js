@@ -1,1 +1,1 @@
-var mnemonic = "clog express mystery cupboard razor spoil social tribe twin vault panic raise";
+var mnemonic = "parrot green debate kick truck token rocket system cross mixed limit action";

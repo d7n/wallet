@@ -1,1 +1,1 @@
-var mnemonic = "token twelve day aunt hedgehog group useless hair skate sheriff noodle sphere";
+var mnemonic = "inside gentle atom close vault online one rib soul uniform please kingdom";

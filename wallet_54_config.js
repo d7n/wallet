@@ -1,1 +1,1 @@
-var mnemonic = "matter goddess utility anchor egg message layer kidney dream enrich raven bean";
+var mnemonic = "describe crouch rather sick control glance cute pencil exclude mammal cage unable";

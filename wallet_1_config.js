@@ -1,1 +1,1 @@
-var mnemonic = "suggest huge stairs pledge pipe giraffe cool team addict sauce knife claw";
+var mnemonic = "ahead middle strategy proud sniff rotate fatigue zebra give tobacco bulk egg";

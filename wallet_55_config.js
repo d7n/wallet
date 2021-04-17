@@ -1,1 +1,1 @@
-var mnemonic = "place throw sight load bacon sea suggest ten narrow comic north random";
+var mnemonic = "robust seven flock express thank author health leopard loop robust embody mention";

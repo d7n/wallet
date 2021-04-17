@@ -1,1 +1,1 @@
-var mnemonic = "minimum garbage cheap between error roast morning oven stadium luxury fly crucial";
+var mnemonic = "proof false nuclear above rain move egg target soldier stuff flavor sea";

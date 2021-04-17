@@ -1,1 +1,1 @@
-var mnemonic = "soon zebra casual power abandon best side review cactus neither hour toss";
+var mnemonic = "suspect bottom moral acoustic glare absurd trend setup bone member trouble silver";

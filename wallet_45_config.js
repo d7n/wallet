@@ -1,1 +1,1 @@
-var mnemonic = "clutch until castle unveil funny motor knife night anger spy captain obey";
+var mnemonic = "degree crunch section exchange weapon traffic garden have retire civil victory margin";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow again turkey slim damp indicate photo physical spawn chaos mother chest";
+var mnemonic = "goddess disease false action inject local swamp transfer join ladder tag raccoon";

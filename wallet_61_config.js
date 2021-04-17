@@ -1,1 +1,1 @@
-var mnemonic = "network federal also book honey maid ahead kick cram tooth tattoo laugh";
+var mnemonic = "maze pill demand chalk mobile frog honey chaos monkey grunt guess blouse";

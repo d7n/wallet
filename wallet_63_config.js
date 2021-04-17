@@ -1,1 +1,1 @@
-var mnemonic = "joke maid essay unknown spike jungle wild situate satoshi comfort bachelor buffalo";
+var mnemonic = "organ razor hotel media warm sausage vehicle solar security avoid shed between";

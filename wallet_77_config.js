@@ -1,1 +1,1 @@
-var mnemonic = "token property spider dream pen first siren cloud ski song educate ritual";
+var mnemonic = "time taste omit nest supply load asset raise fold milk august market";

@@ -1,1 +1,1 @@
-var mnemonic = "defense kid other unusual bronze solution panel chief neutral pass town reopen";
+var mnemonic = "bird hamster drive volcano equal blouse regret review brush garlic panther journey";

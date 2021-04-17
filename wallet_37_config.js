@@ -1,1 +1,1 @@
-var mnemonic = "under fiction glimpse fury use evidence march expose husband annual photo economy";
+var mnemonic = "name quantum asthma unknown strategy relief payment nuclear fall clock tail matrix";

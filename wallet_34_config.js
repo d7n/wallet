@@ -1,1 +1,1 @@
-var mnemonic = "cause call fatal picture airport draft core sight ridge volume have beach";
+var mnemonic = "noise face dentist duty flip six grass olive prepare isolate aspect injury";

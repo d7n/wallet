@@ -1,1 +1,1 @@
-var mnemonic = "brand burst atom faith practice example category drastic trust toddler click usual";
+var mnemonic = "fix ten orange spoil survey turkey truth armor post mosquito either gain";

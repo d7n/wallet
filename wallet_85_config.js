@@ -1,1 +1,1 @@
-var mnemonic = "viable craft reject wrap nuclear quantum acoustic can depend taxi era media";
+var mnemonic = "wrong know rhythm ginger gloom kite ancient rule achieve fluid pulp club";

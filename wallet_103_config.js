@@ -1,1 +1,1 @@
-var mnemonic = "rival before wear face churn target broccoli logic pole race flee boat";
+var mnemonic = "federal absorb section rent bundle assist debris clown shrimp rifle dial focus";

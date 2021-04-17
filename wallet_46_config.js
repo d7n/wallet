@@ -1,1 +1,1 @@
-var mnemonic = "wreck aunt inform mansion suffer improve pulp drip economy lock flower card";
+var mnemonic = "midnight bridge inform arrive grief then powder blanket release joy rebuild such";

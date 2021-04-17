@@ -1,1 +1,1 @@
-var mnemonic = "crush online tackle oven submit cupboard bitter actor tomorrow grant rapid year";
+var mnemonic = "shove arrive force limb half shop real disorder cry whale whisper local";

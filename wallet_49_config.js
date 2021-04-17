@@ -1,1 +1,1 @@
-var mnemonic = "expose actress unable survey target around slam pen item shock spray credit";
+var mnemonic = "sword warrior army canvas six hour speed hand half illness kite find";

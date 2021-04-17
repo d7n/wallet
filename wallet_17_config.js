@@ -1,1 +1,1 @@
-var mnemonic = "merit goat admit series regular occur wrap latin ugly left purity sock";
+var mnemonic = "emotion crater enact add make rocket maximum layer quantum cost sure material";

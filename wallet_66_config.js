@@ -1,1 +1,1 @@
-var mnemonic = "used wish olympic squeeze bitter fashion jacket festival rail add bracket burger";
+var mnemonic = "enhance among balcony near other vital author amused embark fortune attend index";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere leaf evolve cash april term flavor laundry torch term give bullet";
+var mnemonic = "amateur term web hurt cancel nuclear village shrimp test legend expand evil";

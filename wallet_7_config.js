@@ -1,1 +1,1 @@
-var mnemonic = "foam panther letter cost salmon exact praise wreck ghost load leave portion";
+var mnemonic = "shoot cream news term treat genre talk scare skull guard great utility";

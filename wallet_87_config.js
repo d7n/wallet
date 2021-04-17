@@ -1,1 +1,1 @@
-var mnemonic = "portion today entire push ill rifle file uniform lend adapt clever certain";
+var mnemonic = "foot vivid office urban make stable unaware possible learn episode burden spray";

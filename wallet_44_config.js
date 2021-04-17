@@ -1,1 +1,1 @@
-var mnemonic = "crucial little long spatial champion foil broken chimney surround cigar tired notice";
+var mnemonic = "delay area beef monkey daughter brief bread crater author mimic invest elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "poem correct foot gain that paddle shell pig huge control draw visual";
+var mnemonic = "goddess liberty judge near injury young soldier utility foster bachelor arctic swing";

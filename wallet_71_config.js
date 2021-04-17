@@ -1,1 +1,1 @@
-var mnemonic = "flash sister planet health voyage lamp fresh armed evil fun day canvas";
+var mnemonic = "impact harsh face better argue glance increase donkey flag stable detail hello";

@@ -1,1 +1,1 @@
-var mnemonic = "oval brush pulp auction indoor property hair time craft foster lunar medal";
+var mnemonic = "snap gallery carry loan bench oval modify valley loyal such absent remain";

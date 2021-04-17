@@ -1,1 +1,1 @@
-var mnemonic = "gain front because elevator deputy wood share theory library avoid stool student";
+var mnemonic = "drastic tourist trophy normal north jealous gun theory reason digital polar rate";

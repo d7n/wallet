@@ -1,1 +1,1 @@
-var mnemonic = "region digital boy onion matter labor giraffe enter install display survey eyebrow";
+var mnemonic = "only woman step sand destroy exact try essay panther follow scheme owner";

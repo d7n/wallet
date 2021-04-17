@@ -1,1 +1,1 @@
-var mnemonic = "try demise enemy tell mixed video ignore ordinary water million fox crater";
+var mnemonic = "plate tornado swallow inflict rice rough wait donor palace similar doctor void";

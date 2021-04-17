@@ -1,1 +1,1 @@
-var mnemonic = "foil animal select moral empower horror banana bread drip topic swarm long";
+var mnemonic = "bullet cupboard shrug spirit trade own heart hero nose fit deposit alien";

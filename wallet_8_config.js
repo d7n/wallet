@@ -1,1 +1,1 @@
-var mnemonic = "farm clay uphold pill design only person trap turkey notable chimney mistake";
+var mnemonic = "innocent gas once host quick chunk best assume matter quiz razor burden";

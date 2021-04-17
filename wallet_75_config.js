@@ -1,1 +1,1 @@
-var mnemonic = "first more subject strategy whale attitude vocal forum wrist truth coast faith";
+var mnemonic = "lucky square domain early piece enroll surface security sell tube modify cigar";

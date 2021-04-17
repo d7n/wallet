@@ -1,1 +1,1 @@
-var mnemonic = "draft blouse exchange early early cabin bus phrase that pulse winner bid";
+var mnemonic = "drill zebra guide anchor gravity air answer south cliff stereo dinner abuse";

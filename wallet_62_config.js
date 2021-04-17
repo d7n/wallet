@@ -1,1 +1,1 @@
-var mnemonic = "begin tornado exile powder hire heavy turn unfair ranch own curious capital";
+var mnemonic = "swing glove isolate liar banana chaos ugly dilemma arrow clever dentist razor";

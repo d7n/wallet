@@ -1,1 +1,1 @@
-var mnemonic = "focus employ donor weapon sorry ketchup minimum bar attack city people winner";
+var mnemonic = "hurdle mimic valve indoor dust permit mom square midnight below worry wolf";

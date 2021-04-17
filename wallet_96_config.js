@@ -1,1 +1,1 @@
-var mnemonic = "renew virus little tag liar loop boss home surge host silk write";
+var mnemonic = "cheese legal rubber pigeon green execute carry stand undo icon super room";

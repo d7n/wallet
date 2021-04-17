@@ -1,1 +1,1 @@
-var mnemonic = "elevator pledge pupil laugh game curtain stuff special equip crew lamp custom";
+var mnemonic = "lottery stuff heavy neither huge birth decline radar smooth evil stomach tip";

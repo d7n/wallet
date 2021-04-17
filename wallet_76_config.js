@@ -1,1 +1,1 @@
-var mnemonic = "multiply pony stand artist human risk power ring track raw width blood";
+var mnemonic = "secret certain town deposit avocado raven lizard bullet ketchup hobby drill ramp";

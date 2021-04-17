@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin crisp kiwi rescue empty diet rescue matter credit bright earth attitude";
+var mnemonic = "slogan pact drama illness shadow lens together plastic erase rough march creek";

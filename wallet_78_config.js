@@ -1,1 +1,1 @@
-var mnemonic = "scrub rebuild pulp mimic chunk seek shell brain pigeon trial box pool";
+var mnemonic = "leopard planet rely rain bid clap oil rally october bachelor alter enact";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate differ reopen near senior cheese window cattle scrub raw snow airport";
+var mnemonic = "catalog about accident stool pig wink toddler finger media can crucial math";

@@ -1,1 +1,1 @@
-var mnemonic = "hover real valve chimney loan insect can avoid spot play board merit";
+var mnemonic = "become slogan lottery mango foster click mistake own pool future canal transfer";

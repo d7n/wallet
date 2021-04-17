@@ -1,1 +1,1 @@
-var mnemonic = "theme hold crouch farm coyote vessel draft minute only runway debate focus";
+var mnemonic = "arrow salute tank adapt exile indicate zebra scrub twin tribe magic certain";

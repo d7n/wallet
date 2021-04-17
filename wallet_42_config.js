@@ -1,1 +1,1 @@
-var mnemonic = "trust fine puzzle climb loan link orphan erosion inform gas drama witness";
+var mnemonic = "zero baby grow wage uphold gorilla erase drift economy split hire top";

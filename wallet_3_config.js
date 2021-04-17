@@ -1,1 +1,1 @@
-var mnemonic = "nephew owner choice tragic uncover away divorce mushroom leaf crunch maid expire";
+var mnemonic = "gather elder open odor clog rotate number glory cage barrel day envelope";

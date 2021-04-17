@@ -1,1 +1,1 @@
-var mnemonic = "feel gravity math task anchor dose pigeon edit sock grow speed hammer";
+var mnemonic = "evoke expect globe ladder east you orphan collect flock hard zoo version";

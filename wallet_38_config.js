@@ -1,1 +1,1 @@
-var mnemonic = "input fiction note drum swift repeat orphan bounce cool price imitate catalog";
+var mnemonic = "frog oval number minimum music sketch merry board beauty hood empower theme";

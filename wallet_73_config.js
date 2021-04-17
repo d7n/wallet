@@ -1,1 +1,1 @@
-var mnemonic = "nothing find boat detail dove canvas people wine skirt undo concert worth";
+var mnemonic = "wool range cliff session trim napkin aware enrich party rain hamster agree";

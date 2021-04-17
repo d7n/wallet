@@ -1,1 +1,1 @@
-var mnemonic = "diary federal soft scrub smooth fringe need faint miss weird wrist learn";
+var mnemonic = "clump neglect tiny october chunk lyrics tenant trigger frog corn craft candy";

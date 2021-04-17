@@ -1,1 +1,1 @@
-var mnemonic = "clump smile cable order broom cry tobacco upper olympic appear liar resource";
+var mnemonic = "text muffin crumble robot immune true surprise mango position aware step produce";

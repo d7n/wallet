@@ -1,1 +1,1 @@
-var mnemonic = "squeeze dad forest faint penalty scorpion trade banana fall acquire enemy dolphin";
+var mnemonic = "faint arrest grace cake improve urge wave town just prepare bicycle recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "swift turn wire farm asset deputy insane float dream inflict evoke lion";
+var mnemonic = "urge frequent surface layer dignity believe grant local cry clump divert apple";

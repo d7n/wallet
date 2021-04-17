@@ -1,1 +1,1 @@
-var mnemonic = "thumb solid very sentence witness type twin culture man mansion audit direct";
+var mnemonic = "sunny sauce exotic worth object item dog duty pattern climb twin strategy";

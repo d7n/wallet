@@ -1,1 +1,1 @@
-var mnemonic = "afford name fork profit quiz auction blood stove february midnight verify shaft";
+var mnemonic = "coin seven entry grocery club into steak harbor tilt planet fruit dawn";

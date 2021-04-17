@@ -1,1 +1,1 @@
-var mnemonic = "stove absent pigeon action sheriff supreme promote chef day enhance near keep";
+var mnemonic = "thought direct album menu today live muffin liberty tuna absurd stairs segment";

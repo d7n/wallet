@@ -1,1 +1,1 @@
-var mnemonic = "drink defense person paddle throw bubble garment point tribe law almost success";
+var mnemonic = "police liquid response town head excite cream near upon place asset wage";

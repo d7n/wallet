@@ -1,1 +1,1 @@
-var mnemonic = "square chronic margin govern cram attract shoe oval hen employ heavy key";
+var mnemonic = "catch blue kidney lamp agent dutch angle myth random swarm noodle upset";

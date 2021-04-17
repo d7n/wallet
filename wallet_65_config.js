@@ -1,1 +1,1 @@
-var mnemonic = "humor furnace basket happy note web orient lab attack solar moment any";
+var mnemonic = "surge fortune basic sock zero sponsor tomorrow message grocery forward wear now";

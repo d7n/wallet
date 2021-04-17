@@ -1,1 +1,1 @@
-var mnemonic = "hundred sunny outer buddy top betray fly scrub educate endorse because tail";
+var mnemonic = "aerobic away glance scare cloth planet way change transfer provide budget six";

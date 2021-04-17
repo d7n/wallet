@@ -1,1 +1,1 @@
-var mnemonic = "merit struggle circle dirt basic agree theme puzzle inner soda mesh innocent";
+var mnemonic = "harvest employ inch labor gaze firm exhaust poverty setup eagle anchor sad";

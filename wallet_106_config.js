@@ -1,1 +1,1 @@
-var mnemonic = "garage when run speak rough panic isolate vendor tank alien orbit upset";
+var mnemonic = "economy act absent easily person spoil wonder switch chalk warm apart dinner";
