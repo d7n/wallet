@@ -1,1 +1,1 @@
-var mnemonic = "flame pledge income spirit tunnel leisure decline strong catalog silver hospital essence";
+var mnemonic = "obtain town hurdle hybrid allow ritual clog sting violin drill urban pudding";

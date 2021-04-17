@@ -1,1 +1,1 @@
-var mnemonic = "whip crush stand weasel improve width often tunnel smile envelope donor sorry";
+var mnemonic = "icon mystery open off keep promote achieve armor smile burst chunk castle";

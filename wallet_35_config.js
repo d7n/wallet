@@ -1,1 +1,1 @@
-var mnemonic = "visual seven escape float cash breeze exact fatigue lift what endless rule";
+var mnemonic = "tiger syrup episode journey water custom interest satisfy reflect inspire argue venue";

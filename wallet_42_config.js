@@ -1,1 +1,1 @@
-var mnemonic = "pride valve below code trumpet goat heart please focus near catalog deposit";
+var mnemonic = "false ostrich post lesson woman cargo into tired honey fetch regret habit";

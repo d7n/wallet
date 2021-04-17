@@ -1,1 +1,1 @@
-var mnemonic = "autumn grace miracle stairs rail tiny garage piece comfort decade spawn verb";
+var mnemonic = "help fresh mansion recall husband flip obtain roof cute submit motion assume";

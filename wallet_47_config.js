@@ -1,1 +1,1 @@
-var mnemonic = "enlist clinic corn rotate cart foster promote wave fix voice alpha aerobic";
+var mnemonic = "humble puppy awake cupboard scan match unusual assist observe boss special raccoon";

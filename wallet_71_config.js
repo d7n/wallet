@@ -1,1 +1,1 @@
-var mnemonic = "ketchup warm barrel flat jacket crunch buzz protect convince exact boil stand";
+var mnemonic = "music tray shoot hip output true science hour kidney buffalo bless misery";

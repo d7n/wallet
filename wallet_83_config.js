@@ -1,1 +1,1 @@
-var mnemonic = "offer bag regular light air crawl palace pyramid pill typical ugly cactus";
+var mnemonic = "finish speed before attitude quarter final february jacket insect aware fuel tonight";

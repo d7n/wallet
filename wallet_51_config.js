@@ -1,1 +1,1 @@
-var mnemonic = "shield profit grief ride dice only winter thunder limb common burst clock";
+var mnemonic = "inflict judge stomach boil attract alarm region inquiry own lift dizzy rate";

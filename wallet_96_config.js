@@ -1,1 +1,1 @@
-var mnemonic = "effort mean open real brass text pink boat plastic detail own ignore";
+var mnemonic = "second habit isolate long hedgehog milk midnight margin busy endless churn neither";

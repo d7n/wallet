@@ -1,1 +1,1 @@
-var mnemonic = "auction humble swamp settle green lyrics country empower kitchen inner month badge";
+var mnemonic = "ceiling neither arrest exhibit crane clap scale choice virtual chest ridge drink";

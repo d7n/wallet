@@ -1,1 +1,1 @@
-var mnemonic = "finger client meadow chuckle bulb patient hello awful toy quiz cradle share";
+var mnemonic = "tissue immune cousin depart page camera pigeon gossip able ethics galaxy step";

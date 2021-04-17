@@ -1,1 +1,1 @@
-var mnemonic = "festival wolf shed such vital fiction casual battle stay keen ancient daughter";
+var mnemonic = "caution fitness little piano erase broccoli gas torch recipe wire discover obscure";

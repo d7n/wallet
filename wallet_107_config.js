@@ -1,1 +1,1 @@
-var mnemonic = "useful reject blur soft print salmon sing aunt more zone civil chronic";
+var mnemonic = "rigid train correct meat divert large brass soap provide provide riot concert";

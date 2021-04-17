@@ -1,1 +1,1 @@
-var mnemonic = "salon lizard decide service pledge chef neutral security forget resist zoo begin";
+var mnemonic = "quit tool afraid trip urban glory apple grant benefit chicken fruit movie";

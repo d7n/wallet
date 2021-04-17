@@ -1,1 +1,1 @@
-var mnemonic = "render mistake gather check swarm scout shed course thank mean panther peace";
+var mnemonic = "final lemon bean remind liberty region armor display choose ill hire alien";

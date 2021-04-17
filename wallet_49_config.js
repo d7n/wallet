@@ -1,1 +1,1 @@
-var mnemonic = "assault leave mixed hungry local strategy mouse spray tiny useless sponsor rebuild";
+var mnemonic = "grape thumb tongue tuna mountain dad drip banana member design trophy hood";

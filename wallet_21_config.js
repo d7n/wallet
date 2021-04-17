@@ -1,1 +1,1 @@
-var mnemonic = "cruise smile weather trend morning sunny phone draft wait engine glue effort";
+var mnemonic = "powder resist local issue mix airport today rescue mystery strong match affair";

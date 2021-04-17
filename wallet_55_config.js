@@ -1,1 +1,1 @@
-var mnemonic = "climb festival wear select jar allow lab shield replace logic unlock sunny";
+var mnemonic = "bulk rough effort deer wrist snake play alter book sister earth purchase";

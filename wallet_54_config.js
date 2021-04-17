@@ -1,1 +1,1 @@
-var mnemonic = "account invest raccoon path hard crisp soft shell trash salt receive motor";
+var mnemonic = "sad tongue federal size company crime empty material inner excuse february you";

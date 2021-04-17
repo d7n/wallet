@@ -1,1 +1,1 @@
-var mnemonic = "snack toddler plunge hint bind hybrid valve cannon elder general dutch hello";
+var mnemonic = "donor dawn balance hammer torch exclude rough rocket labor oval lumber eye";

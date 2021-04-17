@@ -1,1 +1,1 @@
-var mnemonic = "nature glow venue they response verb hero elephant inform addict aspect alcohol";
+var mnemonic = "liberty crawl amount stand identify maid skate swing fit budget section cry";

@@ -1,1 +1,1 @@
-var mnemonic = "provide bracket dirt print million luggage romance latin veteran jewel ready theme";
+var mnemonic = "question page atom power walk mention ostrich liberty intact hint year abstract";

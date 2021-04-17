@@ -1,1 +1,1 @@
-var mnemonic = "wool trend inquiry ancient field dinner illegal funny proof power fox steak";
+var mnemonic = "tattoo frown brain husband knee chest quote easily quick enlist peasant frog";

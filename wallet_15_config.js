@@ -1,1 +1,1 @@
-var mnemonic = "stage good patrol more athlete fuel critic final glove special invest hospital";
+var mnemonic = "figure chunk cry fat napkin dress soup deposit food own dilemma off";

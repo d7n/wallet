@@ -1,1 +1,1 @@
-var mnemonic = "mirror slow code tomorrow common general scrap click much concert maze bring";
+var mnemonic = "food spend spread sentence snake shuffle stone glove wet sugar token field";

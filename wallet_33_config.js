@@ -1,1 +1,1 @@
-var mnemonic = "pause ripple narrow card will stuff surface purse always panther analyst crime";
+var mnemonic = "critic olive abuse gentle gaze cool crystal under abandon glory empower valid";

@@ -1,1 +1,1 @@
-var mnemonic = "fold core dance drop used zebra decade system oval grocery prefer unlock";
+var mnemonic = "globe style write galaxy solve accuse penalty brother sting clip exist blood";

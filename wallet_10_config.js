@@ -1,1 +1,1 @@
-var mnemonic = "mouse member mask memory play junior fossil lock core two afford client";
+var mnemonic = "range way rabbit wedding measure zero clay crime creek better furnace antenna";

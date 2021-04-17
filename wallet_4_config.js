@@ -1,1 +1,1 @@
-var mnemonic = "announce drill grunt verify slogan upset fruit siren velvet output arrest custom";
+var mnemonic = "credit gasp judge movie pepper exhaust anger betray clown arrive green smile";

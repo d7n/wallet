@@ -1,1 +1,1 @@
-var mnemonic = "mistake direct body mention amazing glove outer spend move enter object nation";
+var mnemonic = "vote night canal crowd embrace eight day olympic always swing breeze breeze";

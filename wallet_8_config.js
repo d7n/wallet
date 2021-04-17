@@ -1,1 +1,1 @@
-var mnemonic = "front hobby exist garment flush picture method squirrel sponsor problem purity edge";
+var mnemonic = "say theory barrel organ enroll cruel leaf wealth culture wine rely extra";

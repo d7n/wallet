@@ -1,1 +1,1 @@
-var mnemonic = "used mention exit real human lift damp wet post ripple private saddle";
+var mnemonic = "impulse hover shop truly legend wood budget blast anchor main frog oil";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm clump twist olive blood potato recycle purchase when powder gain team";
+var mnemonic = "shoot essay diesel oak lemon boil tomato glide flush female term light";

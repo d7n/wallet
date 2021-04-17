@@ -1,1 +1,1 @@
-var mnemonic = "merry alone guide deny happy screen switch suspect laugh defy point subway";
+var mnemonic = "chalk rack equip rose else slot captain harsh apart video ridge nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper omit elite theme faint simple core friend clock clump strategy town";
+var mnemonic = "anxiety carbon praise rude weapon thrive hood mystery tuition spoon lawn castle";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair toilet fence hood year envelope slush owner dilemma gate because snap";
+var mnemonic = "void spray cover topic hip leg poet affair buyer bunker army shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "current faint flush barely ordinary claim marble heart idea sustain video tower";
+var mnemonic = "wire shaft firm web thunder fog can salmon debris lunar erode legal";

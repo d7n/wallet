@@ -1,1 +1,1 @@
-var mnemonic = "staff hundred inside resource service catalog spy must machine lens chaos sauce";
+var mnemonic = "artwork nuclear glimpse hold merry bitter wash summer exclude bounce drum square";

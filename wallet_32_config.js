@@ -1,1 +1,1 @@
-var mnemonic = "unknown senior admit remove donkey seat mix metal penalty soft print jaguar";
+var mnemonic = "spray cattle prize spin lawn box second pave coil math gasp salad";

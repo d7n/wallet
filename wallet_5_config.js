@@ -1,1 +1,1 @@
-var mnemonic = "donkey pet crystal damp pull monkey spring stove sound sense volume turn";
+var mnemonic = "tuna current belt ginger perfect butter knee beach nest topple vote analyst";

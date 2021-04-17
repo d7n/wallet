@@ -1,1 +1,1 @@
-var mnemonic = "favorite exist marine ozone supply atom addict world merry pudding stable romance";
+var mnemonic = "goose oblige upper goat become guide turkey crystal moment awake tunnel pulse";

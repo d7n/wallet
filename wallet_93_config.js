@@ -1,1 +1,1 @@
-var mnemonic = "arrange very direct spell poverty weasel access bitter kingdom impulse crush shell";
+var mnemonic = "volcano vapor rude real exhaust town border exist mesh visit attitude fade";

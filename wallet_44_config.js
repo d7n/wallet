@@ -1,1 +1,1 @@
-var mnemonic = "pig wreck people tonight save advice fantasy cake ostrich foster rotate afraid";
+var mnemonic = "airport you family manage high beyond blue inner panda lucky scale matrix";

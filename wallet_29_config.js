@@ -1,1 +1,1 @@
-var mnemonic = "card head marble fat voice circle moment mango payment clay reject baby";
+var mnemonic = "south trouble secret fantasy smoke file evil decide figure large grit biology";

@@ -1,1 +1,1 @@
-var mnemonic = "spot grass awake resist goose harbor picnic obtain vast pact tonight couple";
+var mnemonic = "detect clock consider program find spread convince wagon own ready dizzy toilet";

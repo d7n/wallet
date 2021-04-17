@@ -1,1 +1,1 @@
-var mnemonic = "bind rebel wealth habit rate super during grief mad tray gap sell";
+var mnemonic = "orient candy excess choice bring when pause frost setup turkey abandon input";

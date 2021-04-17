@@ -1,1 +1,1 @@
-var mnemonic = "vehicle rifle hidden weekend punch about ill marine cruise unfold enact learn";
+var mnemonic = "unlock mystery right hero resemble marble valve elevator stomach pyramid brisk retreat";

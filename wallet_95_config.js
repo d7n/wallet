@@ -1,1 +1,1 @@
-var mnemonic = "rural desert decide divide panther target grace favorite walk lunar trade thumb";
+var mnemonic = "strike turtle fuel dynamic weasel canvas bracket isolate head concert unhappy auction";

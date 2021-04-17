@@ -1,1 +1,1 @@
-var mnemonic = "dragon kingdom renew potato sure vast public give diesel dawn sheriff pudding";
+var mnemonic = "service casino piece weather notable fold sleep useful gospel prison news inspire";

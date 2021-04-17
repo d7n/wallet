@@ -1,1 +1,1 @@
-var mnemonic = "frog square general picture gospel wood label fashion day black host thrive";
+var mnemonic = "bamboo drive fiber maze cluster grape engine chicken cradle milk flat mass";

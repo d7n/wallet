@@ -1,1 +1,1 @@
-var mnemonic = "quit color caught path vicious exact reveal clock pepper glory alcohol goddess";
+var mnemonic = "balcony fluid exhibit orange citizen space club long junior cave exact autumn";

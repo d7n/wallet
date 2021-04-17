@@ -1,1 +1,1 @@
-var mnemonic = "onion angle robust extra grab key actual person trumpet laptop risk love";
+var mnemonic = "actress forget creek auto board october spider immune minute tomato forward rescue";

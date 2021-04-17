@@ -1,1 +1,1 @@
-var mnemonic = "motor life reopen august coin wrong spray uniform genre game load involve";
+var mnemonic = "hazard upper unfair region melt enforce valve first ill fog helmet great";

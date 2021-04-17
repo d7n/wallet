@@ -1,1 +1,1 @@
-var mnemonic = "pill attract vault again drastic butter illegal blame nation trumpet struggle cinnamon";
+var mnemonic = "devote suspect outdoor loan zone thunder obtain federal speak better earth pattern";

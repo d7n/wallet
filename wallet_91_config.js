@@ -1,1 +1,1 @@
-var mnemonic = "enlist practice walk disorder now bicycle math legal nice nasty apology waste";
+var mnemonic = "case fragile recall discover believe raccoon judge inherit infant fence exchange apology";

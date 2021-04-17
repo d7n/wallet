@@ -1,1 +1,1 @@
-var mnemonic = "sort admit allow trade hip crunch bronze strategy original grape awake prize";
+var mnemonic = "duty stem spell civil initial unfold calm acquire scrub hard trick decade";

@@ -1,1 +1,1 @@
-var mnemonic = "grain drum love neither spatial result visa will blossom engage original access";
+var mnemonic = "brick glass degree burden best elevator phrase rough practice loud purchase trial";

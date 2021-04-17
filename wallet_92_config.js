@@ -1,1 +1,1 @@
-var mnemonic = "world bottom fire like square stumble panel slot wear inherit save cup";
+var mnemonic = "few anchor unknown circle student legal web guide kangaroo series front price";

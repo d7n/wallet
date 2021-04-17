@@ -1,1 +1,1 @@
-var mnemonic = "turn acquire share mother wave hire demise fun exercise grief brick drill";
+var mnemonic = "zebra swim fan announce mercy race hundred climb maximum hand armor inhale";

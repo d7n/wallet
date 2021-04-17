@@ -1,1 +1,1 @@
-var mnemonic = "upon tackle dinosaur harbor saddle silent vibrant hire popular manual thunder unique";
+var mnemonic = "scout exercise brown trade lyrics ghost glove yellow lonely popular update shadow";

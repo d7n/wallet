@@ -1,1 +1,1 @@
-var mnemonic = "glass minor misery force seat meat author nature gauge coach open dwarf";
+var mnemonic = "fury damage hour mixed food floor treat animal dwarf ability exist tomorrow";

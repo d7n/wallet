@@ -1,1 +1,1 @@
-var mnemonic = "sunny mesh inject ocean friend cause cake rack frame curtain salt monster";
+var mnemonic = "monitor ride erase strong robot breeze hole abandon hospital west scheme kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "when reject staff often dumb radar when abstract normal doll scissors stand";
+var mnemonic = "erupt catch uncle shadow reflect home parrot sell sick success moral cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "final verify cargo green grant dutch fiction drama casino purchase cattle endorse";
+var mnemonic = "unlock two scorpion stay canoe mutual cry tissue thunder swift garlic visual";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom present derive crush require sea clip adapt luxury toddler convince brown";
+var mnemonic = "throw shuffle snap earth goat brass sibling someone turtle wasp maximum exile";

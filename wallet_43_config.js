@@ -1,1 +1,1 @@
-var mnemonic = "axis rice scorpion silly tribe material worry fold citizen youth public local";
+var mnemonic = "sphere real very pizza deputy deal stuff stick bone chest grief rigid";

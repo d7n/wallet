@@ -1,1 +1,1 @@
-var mnemonic = "bargain myth fantasy ghost climb elegant aisle soda enjoy express flavor pet";
+var mnemonic = "transfer girl involve ginger peanut gown tooth impulse travel banner burger immune";

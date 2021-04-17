@@ -1,1 +1,1 @@
-var mnemonic = "pen foot maid employ invite angle good loop list rain mystery grid";
+var mnemonic = "ship learn lucky title cliff soap reform fault denial knock allow base";

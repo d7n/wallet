@@ -1,1 +1,1 @@
-var mnemonic = "one gallery stand immune tower ecology uncover purpose circle motion top flock";
+var mnemonic = "solution trumpet wire much seven clerk worry trouble slide flavor save reject";

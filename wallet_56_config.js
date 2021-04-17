@@ -1,1 +1,1 @@
-var mnemonic = "smoke stable occur soldier wage catalog hazard fan hole bench weapon rally";
+var mnemonic = "want define bridge powder decade stand risk february put erosion fly segment";

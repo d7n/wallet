@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pause address switch cup when spin actress boil sphere tilt egg";
+var mnemonic = "census box pumpkin puppy lumber cart actress giggle illegal child ocean walnut";

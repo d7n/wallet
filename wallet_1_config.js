@@ -1,1 +1,1 @@
-var mnemonic = "foil emotion cousin addict love crunch dress inmate melody feed dragon bone";
+var mnemonic = "regular honey trade alarm near leg female farm ketchup picnic option yellow";

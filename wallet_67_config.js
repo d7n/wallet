@@ -1,1 +1,1 @@
-var mnemonic = "horror notice prize topic repeat finger slush object penalty agent share wheat";
+var mnemonic = "trouble ocean face elegant narrow jelly adult dog muffin stumble swift accident";

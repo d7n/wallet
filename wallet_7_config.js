@@ -1,1 +1,1 @@
-var mnemonic = "spring job where avoid match say foster limb brick entry visit palace";
+var mnemonic = "glove output keep caution horn split apology collect educate color still shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige notice become glad illness brain mobile trust topple remove matrix sport";
+var mnemonic = "attitude sweet kiwi thing small manual spray drum outdoor decade loyal cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze payment actor business destroy acid festival rule device calm nerve enlist";
+var mnemonic = "risk dizzy afraid drastic glance fruit glare behave run among output carpet";

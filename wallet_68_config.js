@@ -1,1 +1,1 @@
-var mnemonic = "use boat hood object target nest knee glow tennis arrive keen review";
+var mnemonic = "goddess dirt regular fat enable able dismiss silly display gold whale vague";

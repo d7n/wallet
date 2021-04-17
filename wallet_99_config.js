@@ -1,1 +1,1 @@
-var mnemonic = "exchange broccoli remind antique happy shrug often ozone maple hand unusual laundry";
+var mnemonic = "object cluster witness pattern hard genre pyramid limb damage life globe frown";

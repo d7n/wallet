@@ -1,1 +1,1 @@
-var mnemonic = "bacon segment tunnel own recipe space pelican crop transfer file omit flat";
+var mnemonic = "lemon leaf result notable useful rate endorse toe manage reason borrow dwarf";

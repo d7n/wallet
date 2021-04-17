@@ -1,1 +1,1 @@
-var mnemonic = "violin gauge fire smile trap try echo sadness warm permit stem use";
+var mnemonic = "liquid pet wine bargain crater tomorrow rocket plastic fuel grant cheese bind";

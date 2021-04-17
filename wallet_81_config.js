@@ -1,1 +1,1 @@
-var mnemonic = "giggle genuine panther budget rifle adult life stem door slow letter tone";
+var mnemonic = "cricket art state reunion vault bottom company bike excuse dial angle mule";

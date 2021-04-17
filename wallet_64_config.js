@@ -1,1 +1,1 @@
-var mnemonic = "kidney ladder raccoon abstract family stem ostrich talk fury play flavor warm";
+var mnemonic = "increase annual hammer amused federal already thumb trumpet spell govern burst moon";

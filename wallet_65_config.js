@@ -1,1 +1,1 @@
-var mnemonic = "essay unaware flush apart picnic toss toe tribe host critic host venture";
+var mnemonic = "boost letter quiz asthma sense need balcony inject dumb debris region ranch";

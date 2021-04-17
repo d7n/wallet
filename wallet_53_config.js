@@ -1,1 +1,1 @@
-var mnemonic = "poverty torch envelope dumb senior author bird thought pond seed glove believe";
+var mnemonic = "gesture finger inner sting smooth horror basic typical regret around list swarm";

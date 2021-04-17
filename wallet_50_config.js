@@ -1,1 +1,1 @@
-var mnemonic = "quiz manual cook vacuum comic raccoon warfare giraffe frame limb twist buddy";
+var mnemonic = "scissors scene absent main robot market winter stomach blanket fun unhappy season";
