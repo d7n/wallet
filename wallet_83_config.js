@@ -1,1 +1,1 @@
-var mnemonic = "review volume still aware dumb keen stock fossil tuna scan draw anger";
+var mnemonic = "legend audit nominee donor letter stick meat crop moment arm fault drop";

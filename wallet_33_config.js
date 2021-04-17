@@ -1,1 +1,1 @@
-var mnemonic = "example essay staff naive swarm dress rural brisk ridge unfair vehicle vote";
+var mnemonic = "misery rifle repair sauce bullet cherry found flag sense weekend pen oven";

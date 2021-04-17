@@ -1,1 +1,1 @@
-var mnemonic = "float guitar suit sell fitness bulb below pave catch icon merit rib";
+var mnemonic = "apology harbor divorce supply cruel prize bird nation rely inner man spring";

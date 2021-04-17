@@ -1,1 +1,1 @@
-var mnemonic = "demise comfort measure subject multiply human wonder hard entry property ivory feature";
+var mnemonic = "husband minimum emotion atom verb panther task sketch able favorite proud maid";

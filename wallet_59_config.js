@@ -1,1 +1,1 @@
-var mnemonic = "pet worry mule harsh syrup table lucky worth tooth increase tragic final";
+var mnemonic = "soup stay struggle palace evidence armed tattoo cactus skill tired skirt immune";

@@ -1,1 +1,1 @@
-var mnemonic = "faint skull minute comic sponsor blouse volcano syrup shadow address feature future";
+var mnemonic = "father post snap together evil coyote tissue unfold leave angle interest pilot";

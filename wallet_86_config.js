@@ -1,1 +1,1 @@
-var mnemonic = "shiver frown eyebrow ankle slight govern find judge orbit cave begin task";
+var mnemonic = "east rely enable adjust soda skate trim mobile dinosaur area butter term";

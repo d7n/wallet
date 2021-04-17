@@ -1,1 +1,1 @@
-var mnemonic = "lobster main gas ladder table cake curtain ranch possible front artefact village";
+var mnemonic = "portion drip salon bacon garage mean autumn fantasy record galaxy rent security";

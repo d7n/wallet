@@ -1,1 +1,1 @@
-var mnemonic = "victory piano sketch glance wagon cotton fit brother inquiry million believe diary";
+var mnemonic = "section weather usage call brush spike scheme champion oak unable rescue stool";

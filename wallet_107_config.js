@@ -1,1 +1,1 @@
-var mnemonic = "mystery hub detect toward hurry ready castle symptom dwarf cinnamon exotic extend";
+var mnemonic = "liberty elder vacant business armor clump merge expect rich magnet denial during";

@@ -1,1 +1,1 @@
-var mnemonic = "spread alley broom hat home together duck tone grid mirror trial excite";
+var mnemonic = "equip physical stomach ethics index entry save eye topic hope prosper rebel";

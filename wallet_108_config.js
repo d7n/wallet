@@ -1,1 +1,1 @@
-var mnemonic = "umbrella genius castle tired quarter stone wisdom cancel rapid dignity endorse pupil";
+var mnemonic = "urge detect wait mail smoke jazz select item asthma fabric leader media";

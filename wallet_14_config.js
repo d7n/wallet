@@ -1,1 +1,1 @@
-var mnemonic = "notable material seat common hill left curve market treat raise blast plate";
+var mnemonic = "choose smoke kick diagram upset about cable desert idle moral inside receive";

@@ -1,1 +1,1 @@
-var mnemonic = "divide melt tube tape jungle area inhale shoulder oil parent flat patrol";
+var mnemonic = "cargo crowd shield legend cook empty fever attract select peanut delay extend";

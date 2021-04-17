@@ -1,1 +1,1 @@
-var mnemonic = "control talk weird learn century robot start wrestle muffin pet business rice";
+var mnemonic = "practice turtle drop common alcohol leaf van dismiss merge salt merry radar";

@@ -1,1 +1,1 @@
-var mnemonic = "brother detect trend wrap refuse initial imitate kiwi waste exhaust escape sponsor";
+var mnemonic = "coach cheap abstract walnut town purpose south eye auto parade mad auto";

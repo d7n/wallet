@@ -1,1 +1,1 @@
-var mnemonic = "code often chaos orchard antenna fatal satoshi obvious into pool dolphin couch";
+var mnemonic = "affair upset fire mind rail nerve eye dragon cake hospital creek art";

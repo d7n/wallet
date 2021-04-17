@@ -1,1 +1,1 @@
-var mnemonic = "winter benefit favorite increase camp price cherry various film leisure admit wonder";
+var mnemonic = "style discover jealous famous lonely meat scissors enforce asthma slam chapter stone";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude toward wedding sorry match hedgehog oven fork smile possible fly boring";
+var mnemonic = "never dose ribbon purchase wall silly evolve plastic message banana coast more";

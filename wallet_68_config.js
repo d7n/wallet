@@ -1,1 +1,1 @@
-var mnemonic = "mutual output kidney garage advance valley stand engage draw ecology open friend";
+var mnemonic = "dove explain jungle ginger current save slow silver tenant laptop nasty marine";

@@ -1,1 +1,1 @@
-var mnemonic = "someone phrase blame lucky estate despair mandate script hen version govern own";
+var mnemonic = "lemon symbol report program minute nerve volcano mandate valid dish ritual smile";

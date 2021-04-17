@@ -1,1 +1,1 @@
-var mnemonic = "acoustic coast limit squeeze ritual scout veteran matter citizen gesture orient squeeze";
+var mnemonic = "approve short palace limb update spoil state dress supreme hamster knife crater";

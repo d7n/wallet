@@ -1,1 +1,1 @@
-var mnemonic = "poem reduce convince awake canvas focus bitter message fun symbol version involve";
+var mnemonic = "diary exotic fault tuition bar indoor actual tilt fee maze across cycle";

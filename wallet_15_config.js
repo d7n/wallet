@@ -1,1 +1,1 @@
-var mnemonic = "glass clerk bachelor father diesel grant provide patch thrive strategy pudding joke";
+var mnemonic = "wolf kingdom remain coach awkward song envelope valve walnut ancient fortune endless";

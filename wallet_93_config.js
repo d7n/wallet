@@ -1,1 +1,1 @@
-var mnemonic = "come hood distance magnet artwork review ride join fitness trim romance merit";
+var mnemonic = "between mail wear banner catch brass hotel ice decorate limb victory twice";

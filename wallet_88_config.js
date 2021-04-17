@@ -1,1 +1,1 @@
-var mnemonic = "supply maple quick wisdom odor swift invite chef laundry prevent sight law";
+var mnemonic = "always special inside page disease pledge birth volume mesh old slender control";

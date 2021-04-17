@@ -1,1 +1,1 @@
-var mnemonic = "review protect work pumpkin exclude craft evoke crash sort blood awkward crack";
+var mnemonic = "busy milk apology palace pipe before midnight collect deer there board calm";

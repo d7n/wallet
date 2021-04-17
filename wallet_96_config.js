@@ -1,1 +1,1 @@
-var mnemonic = "bean fiscal tomorrow panda sweet window master type judge question siren across";
+var mnemonic = "slab stem effort bounce excite trash bag actual wool what bracket shine";

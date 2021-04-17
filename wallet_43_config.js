@@ -1,1 +1,1 @@
-var mnemonic = "belt federal season observe iron huge kitten divert feature mechanic shock need";
+var mnemonic = "sauce vintage ice doctor wash grace tuition unknown girl broccoli hint wild";

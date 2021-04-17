@@ -1,1 +1,1 @@
-var mnemonic = "primary force punch swear bridge consider vintage snow bird galaxy scout sugar";
+var mnemonic = "total beef detect gaze burger surround like hunt pipe state bright rice";

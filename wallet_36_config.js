@@ -1,1 +1,1 @@
-var mnemonic = "arrive caught bless gossip special load achieve mosquito vapor rely clinic food";
+var mnemonic = "cycle loud manual symptom produce fresh jeans sample sing wheel rifle unveil";

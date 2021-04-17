@@ -1,1 +1,1 @@
-var mnemonic = "obvious rally sister insect relax pizza fault hold confirm jealous more six";
+var mnemonic = "quality lawsuit minimum black rib empower fall amateur habit glow clay leisure";

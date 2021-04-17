@@ -1,1 +1,1 @@
-var mnemonic = "index easy carbon quality split baby error crawl tomorrow treat roast behave";
+var mnemonic = "panda tobacco mountain unusual divide vocal daring web best question town chalk";

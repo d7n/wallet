@@ -1,1 +1,1 @@
-var mnemonic = "enact kingdom goat sword section poem board educate machine potato palace traffic";
+var mnemonic = "fantasy distance moon neutral differ chat social quote dinner success time sudden";

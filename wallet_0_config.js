@@ -1,1 +1,1 @@
-var mnemonic = "fetch episode unknown rice win ethics hybrid stamp high invest visit prison";
+var mnemonic = "noble trade globe bubble course scatter treat aisle truly link craft cousin";

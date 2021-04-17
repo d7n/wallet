@@ -1,1 +1,1 @@
-var mnemonic = "craft move ramp jungle inmate market indoor street history grab quiz coin";
+var mnemonic = "during gym maximum economy upset plunge dash boy cat maze grid ritual";

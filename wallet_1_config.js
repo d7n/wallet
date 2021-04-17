@@ -1,1 +1,1 @@
-var mnemonic = "emotion number song idea this imitate mobile early share quick pony field";
+var mnemonic = "cover expire muscle winner perfect exist eternal reveal else gold much basic";

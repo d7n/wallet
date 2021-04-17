@@ -1,1 +1,1 @@
-var mnemonic = "mind december fancy slam cement vacuum tower pizza tourist rug shoulder immense";
+var mnemonic = "goose grocery search hundred choose direct away napkin shrimp curve fix lottery";

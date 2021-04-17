@@ -1,1 +1,1 @@
-var mnemonic = "river powder dismiss family thunder hair smile next marine arrange supreme mistake";
+var mnemonic = "devote pencil produce trumpet drift march brown remain inspire universe rib seed";

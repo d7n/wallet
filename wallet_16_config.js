@@ -1,1 +1,1 @@
-var mnemonic = "panic admit venue build damp slush tunnel food swing length current borrow";
+var mnemonic = "lion comic soap theory fun market display blouse gun develop cliff train";

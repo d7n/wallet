@@ -1,1 +1,1 @@
-var mnemonic = "jump visit apart empty sea loud rescue spend grocery chief begin debris";
+var mnemonic = "wife toy stone permit whip pudding mesh blur discover divorce boring tiny";

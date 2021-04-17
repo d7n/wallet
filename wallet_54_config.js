@@ -1,1 +1,1 @@
-var mnemonic = "climb merit pride butter quit enforce depend lounge kit alien edit cause";
+var mnemonic = "rare cute wreck zone need music corn safe suit unaware february zone";

@@ -1,1 +1,1 @@
-var mnemonic = "degree ask beach spoil early bounce grunt grass speak quit immune dutch";
+var mnemonic = "private camp note echo laundry spend garage ocean employ inform elbow wink";

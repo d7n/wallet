@@ -1,1 +1,1 @@
-var mnemonic = "bullet coffee blanket paper tip bulb child unique energy photo material few";
+var mnemonic = "robot illness sphere illness moon income sentence matter draft start rocket cushion";

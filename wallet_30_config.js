@@ -1,1 +1,1 @@
-var mnemonic = "swallow spray uncle guitar earth fire kick goddess suffer swift rebel tooth";
+var mnemonic = "pretty green side just hand company climb endorse dirt vacuum forget elegant";

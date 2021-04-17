@@ -1,1 +1,1 @@
-var mnemonic = "shoot basket resist wet gold foam ginger around random nasty wheat message";
+var mnemonic = "retire deputy indoor sign exercise small travel detect blade pioneer asthma describe";

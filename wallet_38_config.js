@@ -1,1 +1,1 @@
-var mnemonic = "when mutual slim tuna firm brave cat outdoor stick vault ten trim";
+var mnemonic = "cup shove galaxy buyer swing cabin fantasy gravity fiction method attend panda";

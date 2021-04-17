@@ -1,1 +1,1 @@
-var mnemonic = "fork shadow fuel extra scrap wrap funny other science update address animal";
+var mnemonic = "sniff alarm equip finish report piece bachelor leaf bunker proof elevator purpose";

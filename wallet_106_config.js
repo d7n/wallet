@@ -1,1 +1,1 @@
-var mnemonic = "defy jar fork fog scan seed cloud local spirit soup lab amazing";
+var mnemonic = "fog roast exist guide buyer trigger unique satisfy elite hint domain cover";

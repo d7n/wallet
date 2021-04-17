@@ -1,1 +1,1 @@
-var mnemonic = "flock always glove sample charge ranch account life receive oxygen acquire humor";
+var mnemonic = "lobster lunar cheese negative fashion minute announce brick damp galaxy dune trigger";

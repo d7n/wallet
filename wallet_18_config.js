@@ -1,1 +1,1 @@
-var mnemonic = "dress roof spread silver truck dress giggle trial wine ostrich omit meat";
+var mnemonic = "exhaust win arctic receive skate tray strategy wrist razor keep inside basket";

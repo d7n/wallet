@@ -1,1 +1,1 @@
-var mnemonic = "sock dismiss young predict liar muscle already birth choice reason acquire fragile";
+var mnemonic = "year monkey decorate wall client walk uphold snake calm you empower recipe";

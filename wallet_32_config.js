@@ -1,1 +1,1 @@
-var mnemonic = "lady flock budget april joy aspect inside mother later shaft behave primary";
+var mnemonic = "spirit fashion sort squirrel girl cannon hope strong hungry range tree discover";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury seek option close toilet split abuse tone hold inner vocal wink";
+var mnemonic = "defy around change machine digital hand then drip category wasp neck robot";

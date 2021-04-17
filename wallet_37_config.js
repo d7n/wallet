@@ -1,1 +1,1 @@
-var mnemonic = "air access mad buddy vapor laptop believe session target maximum impose forget";
+var mnemonic = "shoulder anger essay logic scatter chat citizen report mother nerve cat credit";

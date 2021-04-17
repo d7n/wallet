@@ -1,1 +1,1 @@
-var mnemonic = "gold sweet bronze ranch return phone prefer neutral risk elephant royal spring";
+var mnemonic = "reject wisdom flag evolve small device junk police swing fitness wall cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "disease link rent avocado letter multiply suit gossip make spread april firm";
+var mnemonic = "hope leader motor fly tag regret affair edge time okay winter dad";

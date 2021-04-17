@@ -1,1 +1,1 @@
-var mnemonic = "wedding crazy spider vehicle swamp plate noise warfare chest slice misery outside";
+var mnemonic = "adapt subject useful effort grant strong remember dove penalty stone mandate only";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet hammer alter city rabbit ahead paddle rice tuna ozone transfer season";
+var mnemonic = "elbow what verify goddess layer tornado sentence shift infant file tank already";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence jelly tornado thunder fiber differ wet sing room unlock duty can";
+var mnemonic = "master oppose galaxy luggage pupil clip whale ivory panther add culture cluster";

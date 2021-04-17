@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog gas action grit system crunch title sorry despair tuition region journey";
+var mnemonic = "kick remove glove pepper hello swim true drift warm census travel know";

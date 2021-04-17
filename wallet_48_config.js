@@ -1,1 +1,1 @@
-var mnemonic = "wave sibling pact group remind cart uncle response media cloth note brick";
+var mnemonic = "chuckle grow liar family tackle science library vanish mass nasty ranch glow";

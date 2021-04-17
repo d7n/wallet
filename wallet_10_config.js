@@ -1,1 +1,1 @@
-var mnemonic = "chair disorder nation bread pony student marine middle relief chat diamond lucky";
+var mnemonic = "soup update poet put inch victory anxiety orbit chalk ranch useless exclude";

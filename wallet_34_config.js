@@ -1,1 +1,1 @@
-var mnemonic = "knife gate end need frozen shy high lamp stuff build photo anxiety";
+var mnemonic = "property kiss ladder damage fold calm consider sun chaos gallery bounce piece";

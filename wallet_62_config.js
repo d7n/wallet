@@ -1,1 +1,1 @@
-var mnemonic = "shy enjoy title disease promote latin mad file sunny cram main ten";
+var mnemonic = "unable alert drink drama method donor link refuse gift rich autumn hollow";

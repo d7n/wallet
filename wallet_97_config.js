@@ -1,1 +1,1 @@
-var mnemonic = "hope pear hire example sketch awesome express know push flat cost vast";
+var mnemonic = "load course private company bottom slim insect sick school casual prosper hole";

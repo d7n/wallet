@@ -1,1 +1,1 @@
-var mnemonic = "ivory narrow shop kit reason marine hollow bomb body yellow hair onion";
+var mnemonic = "relax pair pool damage divert noise bind harvest stick history moral permit";

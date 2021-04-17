@@ -1,1 +1,1 @@
-var mnemonic = "monster lonely thought toy kangaroo liquid general work cake smart inject cherry";
+var mnemonic = "month size laugh during child level project strike tape hood impact now";

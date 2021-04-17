@@ -1,1 +1,1 @@
-var mnemonic = "orbit erode cabbage save scrub giraffe climb tired deliver image cupboard mango";
+var mnemonic = "artwork stairs soul lesson make cigar enter salon rack model lottery settle";

@@ -1,1 +1,1 @@
-var mnemonic = "easily express receive initial return entire omit north equip vast popular arrow";
+var mnemonic = "slam home more there thunder blur immune angry adult cheap tail soda";

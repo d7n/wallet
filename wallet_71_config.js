@@ -1,1 +1,1 @@
-var mnemonic = "witness abuse mandate rude minute want orange hire average giggle setup pluck";
+var mnemonic = "lazy swallow quiz reduce sweet ritual century rice lab festival morning common";

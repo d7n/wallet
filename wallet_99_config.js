@@ -1,1 +1,1 @@
-var mnemonic = "climb drill ivory wet gentle rice pond clown drive march movie margin";
+var mnemonic = "region sausage song loop office mixture kiss keen client cattle solve vague";

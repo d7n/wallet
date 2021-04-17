@@ -1,1 +1,1 @@
-var mnemonic = "jaguar coconut hen bird chair tribe evidence remain safe absorb chunk journey";
+var mnemonic = "veteran injury often silly ignore anxiety input game hill grit fantasy supply";

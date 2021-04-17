@@ -1,1 +1,1 @@
-var mnemonic = "chase tobacco impact double drink puppy edge inspire weekend physical naive moon";
+var mnemonic = "wood abuse acquire lonely seek kick empower output raccoon bargain piece hurry";

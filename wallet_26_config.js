@@ -1,1 +1,1 @@
-var mnemonic = "creek maze discover lobster dilemma flash enjoy save race seven law foot";
+var mnemonic = "jeans during spice model light cloud axis enable artwork just trust target";

@@ -1,1 +1,1 @@
-var mnemonic = "drama update worth tray uniform nose car weather erase oak express novel";
+var mnemonic = "bottom master angry poem repair spring hover bitter dune man double dove";

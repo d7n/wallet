@@ -1,1 +1,1 @@
-var mnemonic = "bar creek always omit bone beef action web company helmet roof question";
+var mnemonic = "orphan indoor member say truly sponsor desert sea catalog loan prepare earn";

@@ -1,1 +1,1 @@
-var mnemonic = "address problem grid perfect afford brother rigid penalty man rescue good leave";
+var mnemonic = "cupboard long kite monitor valve inside slice blast decade harvest despair neither";

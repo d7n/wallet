@@ -1,1 +1,1 @@
-var mnemonic = "popular nerve neck sunny leave matrix spy portion old olympic any drum";
+var mnemonic = "edge fiscal angle valley dash punch muscle color crucial umbrella rapid they";

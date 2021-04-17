@@ -1,1 +1,1 @@
-var mnemonic = "debate beef crack weird fatal stem repair defy lounge zoo invest awake";
+var mnemonic = "laundry ribbon usual happy brisk feed balcony gorilla illness hollow shed wash";

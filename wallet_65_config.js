@@ -1,1 +1,1 @@
-var mnemonic = "arrow waste decorate lonely polar brief once culture arrest consider wild improve";
+var mnemonic = "churn spawn base before dizzy coil square income race retreat uniform endless";

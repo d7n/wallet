@@ -1,1 +1,1 @@
-var mnemonic = "burden orbit accuse know enhance fix motor stuff nominee daring believe enrich";
+var mnemonic = "lawsuit spy calm sweet sheriff rug trade name head arch draft noodle";

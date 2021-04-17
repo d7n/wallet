@@ -1,1 +1,1 @@
-var mnemonic = "mountain tide coffee public tube unlock kid casual pipe nasty monkey another";
+var mnemonic = "champion live piano tomorrow breeze render stamp banner bag scare target later";

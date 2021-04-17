@@ -1,1 +1,1 @@
-var mnemonic = "turtle adapt lyrics shrimp buyer apple network volume cancel know input faculty";
+var mnemonic = "cluster menu matrix alone sketch pupil quit wheel describe camera capital buzz";

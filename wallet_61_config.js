@@ -1,1 +1,1 @@
-var mnemonic = "tobacco draw switch tell mandate sport female clarify laptop arm matter found";
+var mnemonic = "private review reform helmet window dawn dismiss garage march fluid prepare sponsor";

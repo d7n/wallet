@@ -1,1 +1,1 @@
-var mnemonic = "exclude card into shove beach wheat scare enforce satoshi load whisper jealous";
+var mnemonic = "reopen relax immense border woman foster flock enjoy prevent stand vanish nose";

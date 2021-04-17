@@ -1,1 +1,1 @@
-var mnemonic = "spy humor siren rocket derive cute logic super give right escape only";
+var mnemonic = "notable cricket tonight receive wild hood away two fabric coyote range state";

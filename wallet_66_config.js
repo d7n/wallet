@@ -1,1 +1,1 @@
-var mnemonic = "disagree slam trumpet gentle topple oval denial gold awkward glide harsh bicycle";
+var mnemonic = "nut vanish fashion sponsor canyon easy cattle shoe canoe write lava draw";

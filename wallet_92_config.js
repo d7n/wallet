@@ -1,1 +1,1 @@
-var mnemonic = "disease neutral grow area bench half science trap mandate citizen sorry harsh";
+var mnemonic = "luggage check dash drift motor legend pilot nerve able oak sort resemble";

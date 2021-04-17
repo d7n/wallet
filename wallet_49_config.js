@@ -1,1 +1,1 @@
-var mnemonic = "bitter game mosquito celery junior govern onion elegant destroy settle dinosaur stand";
+var mnemonic = "symptom primary scene produce dirt buyer long favorite come drink beyond behave";

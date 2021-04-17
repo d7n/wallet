@@ -1,1 +1,1 @@
-var mnemonic = "mango payment finish twenty stem list oak clarify screen foil style castle";
+var mnemonic = "garbage number barrel reveal vapor whale crater guitar lazy panic plunge nurse";

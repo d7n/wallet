@@ -1,1 +1,1 @@
-var mnemonic = "goose kitchen food unlock patient bless wrestle floor salmon gift sail clock";
+var mnemonic = "fever turn trap mom civil meadow pepper color trigger runway traffic pool";

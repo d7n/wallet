@@ -1,1 +1,1 @@
-var mnemonic = "jewel stuff slab village hill put pottery crash rack remain actor snap";
+var mnemonic = "imitate minute simple long hold grape pool choice hen banner direct verb";

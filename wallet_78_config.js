@@ -1,1 +1,1 @@
-var mnemonic = "vivid chest future sorry typical include often scorpion basket small foil uphold";
+var mnemonic = "vapor organ notice spice opera antique melt box bar begin enemy update";

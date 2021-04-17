@@ -1,1 +1,1 @@
-var mnemonic = "dad charge pelican mirror infant sketch oak promote assume fork tilt sphere";
+var mnemonic = "olympic exit library vintage clip amount enjoy fit torch pink filter balance";

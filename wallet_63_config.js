@@ -1,1 +1,1 @@
-var mnemonic = "fitness cash lounge garment mention cart honey holiday eight garbage vote present";
+var mnemonic = "carry switch swear slice dose other three practice opera basic prefer sand";
