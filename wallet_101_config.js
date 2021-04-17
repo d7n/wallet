@@ -1,1 +1,1 @@
-var mnemonic = "sauce common color reopen foster desk measure rhythm screen mango place work";
+var mnemonic = "flush attend display fetch coil region current water small cancel rose always";

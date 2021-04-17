@@ -1,1 +1,1 @@
-var mnemonic = "timber blossom immune system mule mixed dignity horror depend prize hub giggle";
+var mnemonic = "door extra virus obscure maid army hamster mimic acoustic latin champion broccoli";

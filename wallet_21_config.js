@@ -1,1 +1,1 @@
-var mnemonic = "injury goddess sugar enlist craft force sister actor cram salute pause vault";
+var mnemonic = "tenant drastic iron chase indicate viable source surge face short color cool";

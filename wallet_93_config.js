@@ -1,1 +1,1 @@
-var mnemonic = "envelope sell chapter dial pitch surge sister venture wild air road coach";
+var mnemonic = "absurd mercy damp three burst appear weapon drift car kite rent travel";

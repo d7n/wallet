@@ -1,1 +1,1 @@
-var mnemonic = "pretty kid category family identify medal dash move avoid undo deer visual";
+var mnemonic = "chief meadow effort sugar among need derive fat wrist canvas donkey process";

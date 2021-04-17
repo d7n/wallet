@@ -1,1 +1,1 @@
-var mnemonic = "wheat match dry decorate inherit lottery image bread beauty pulse flag float";
+var mnemonic = "capable possible subway paper empty tip bind hammer control taxi awkward matter";

@@ -1,1 +1,1 @@
-var mnemonic = "alert verb else luggage stadium collect arena decide hope decade exist rather";
+var mnemonic = "meadow real witness learn shadow slush gown course mirror casino slam taste";

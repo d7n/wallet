@@ -1,1 +1,1 @@
-var mnemonic = "dream pigeon evoke business random pigeon crisp start smart endorse decide settle";
+var mnemonic = "disagree whisper need raccoon canoe rival act crush globe hurt short miracle";

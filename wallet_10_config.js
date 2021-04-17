@@ -1,1 +1,1 @@
-var mnemonic = "coil icon image snake valve mushroom bone giant paper rather pottery online";
+var mnemonic = "sting throw park axis beyond because equip amused ocean trophy parent day";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo oval clay provide airport bitter solve damage rescue genre reflect girl";
+var mnemonic = "obscure episode jelly bubble weekend advice plastic mimic ice foot unfold elder";

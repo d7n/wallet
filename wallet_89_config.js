@@ -1,1 +1,1 @@
-var mnemonic = "vehicle law fresh review toast swing average fetch income okay absorb owner";
+var mnemonic = "relief mind hair wedding snow heavy undo jaguar lens sell swift umbrella";

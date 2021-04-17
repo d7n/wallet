@@ -1,1 +1,1 @@
-var mnemonic = "loud trim scan salute absent lottery decade tower country blossom day report";
+var mnemonic = "people wet fetch attack basket idea treat mix pipe play outer primary";

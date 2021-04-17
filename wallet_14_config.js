@@ -1,1 +1,1 @@
-var mnemonic = "budget fury people army summer session runway gown enlist auction coconut hybrid";
+var mnemonic = "cluster connect arrest attack plastic assault sing winner clutch rifle social black";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble trade differ tomorrow collect apple turkey quiz address whip become hand";
+var mnemonic = "gesture argue slush bind fashion cloud salmon stomach hold horn gadget opera";

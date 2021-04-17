@@ -1,1 +1,1 @@
-var mnemonic = "crime dance major squirrel steel glass shy wolf boat disease latin lizard";
+var mnemonic = "index silent correct wisdom debate letter little clap opinion cream okay slab";

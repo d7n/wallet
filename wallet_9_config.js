@@ -1,1 +1,1 @@
-var mnemonic = "casual solve aisle inquiry original sport write conduct table check word tank";
+var mnemonic = "common spare jaguar truth wet supreme laptop harbor napkin cool ancient wait";

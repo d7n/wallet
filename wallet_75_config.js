@@ -1,1 +1,1 @@
-var mnemonic = "enough lock burden anxiety cream amount energy spray oak liar orphan omit";
+var mnemonic = "device fatigue craft trumpet crunch prize practice luxury verify egg tiny shoulder";

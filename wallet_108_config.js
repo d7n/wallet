@@ -1,1 +1,1 @@
-var mnemonic = "orphan tunnel major taxi ordinary diagram robust era cart loud glide either";
+var mnemonic = "surge predict saddle country upper file woman ten genius camera lady toddler";

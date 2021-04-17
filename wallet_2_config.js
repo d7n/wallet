@@ -1,1 +1,1 @@
-var mnemonic = "piece symptom salute field chase cage limb siege melt health stage baby";
+var mnemonic = "music spare space bean clutch note genre reveal sauce gravity special thought";

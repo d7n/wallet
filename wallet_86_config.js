@@ -1,1 +1,1 @@
-var mnemonic = "venue later reject spy corn lend outside entry galaxy shell practice double";
+var mnemonic = "cliff main accident welcome armed orange main catch pulse liar skin cushion";

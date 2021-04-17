@@ -1,1 +1,1 @@
-var mnemonic = "siege sentence globe tray baby box ten decorate exclude fragile dune member";
+var mnemonic = "bamboo sure survey change action session forum tree figure squirrel pattern catalog";

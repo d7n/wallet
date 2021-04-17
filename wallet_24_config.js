@@ -1,1 +1,1 @@
-var mnemonic = "omit wheel grab crash comic immune property into slice analyst meadow cricket";
+var mnemonic = "cycle era today choice special toast bright dwarf climb invest leopard over";

@@ -1,1 +1,1 @@
-var mnemonic = "tell erosion salt winner friend swim noble wreck desk citizen setup idea";
+var mnemonic = "morning caution faint liquid theory lonely first obvious drum hero merry science";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain outdoor unfair delay second guard excuse wheel receive level program aim";
+var mnemonic = "west submit alter check tunnel crater increase consider tonight promote tunnel random";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol shadow climb path fall asset quarter poet sand glory win rug";
+var mnemonic = "fragile ramp jump space canvas plunge mushroom all quality another glue trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "boost box curious inject elevator busy estate siren chef canvas demise upon";
+var mnemonic = "inch build below warrior unfold velvet secret fiction insane lawn tray buffalo";

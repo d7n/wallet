@@ -1,1 +1,1 @@
-var mnemonic = "elder bus try camp near unit clarify north warrior goddess gap dove";
+var mnemonic = "forward apple trick hub squirrel average emotion circle omit rocket angle erupt";

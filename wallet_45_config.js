@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ahead flock poem wool loyal spot reflect illegal regular elevator acquire";
+var mnemonic = "reward three comfort want have squirrel garment unveil hello health property fabric";

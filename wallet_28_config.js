@@ -1,1 +1,1 @@
-var mnemonic = "tool raven duck aspect mother waste pill blind wine auto antenna awake";
+var mnemonic = "air pudding shell erode prefer mail thing cushion two shoot nuclear chat";

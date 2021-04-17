@@ -1,1 +1,1 @@
-var mnemonic = "burst turkey congress rate ripple drill evil ghost target miracle acid drink";
+var mnemonic = "relax aim dynamic loud coral sense system gym prison obscure fancy woman";

@@ -1,1 +1,1 @@
-var mnemonic = "blood actual neglect ready snake crouch outer hazard game isolate anger useful";
+var mnemonic = "recycle tuna venture embark aisle since old journey tumble short behind suffer";

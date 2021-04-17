@@ -1,1 +1,1 @@
-var mnemonic = "athlete sample service disease desert staff broken math talk note cattle trial";
+var mnemonic = "ivory cement evidence tortoise sleep teach zebra police federal chaos snack illegal";

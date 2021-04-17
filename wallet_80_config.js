@@ -1,1 +1,1 @@
-var mnemonic = "success aerobic innocent letter brick truck deny slush emotion uniform pass mesh";
+var mnemonic = "blast ahead again devote reward injury kiwi kingdom certain sound oyster fine";

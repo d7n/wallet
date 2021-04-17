@@ -1,1 +1,1 @@
-var mnemonic = "pudding reveal olympic indicate uphold floor fetch sorry order acoustic junior crouch";
+var mnemonic = "ticket autumn magic broom candy lyrics island page combine style item punch";

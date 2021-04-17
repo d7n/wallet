@@ -1,1 +1,1 @@
-var mnemonic = "hamster theory pledge chaos camp stove all silver order shed cook fuel";
+var mnemonic = "action wife height wait grocery ready number risk grid pottery fetch glass";

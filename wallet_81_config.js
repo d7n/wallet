@@ -1,1 +1,1 @@
-var mnemonic = "amateur advance stay gallery wash inch carpet surge chase divide category gun";
+var mnemonic = "pretty illegal kangaroo spy salmon episode regret pony typical cluster pool worth";

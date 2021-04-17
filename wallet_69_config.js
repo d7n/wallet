@@ -1,1 +1,1 @@
-var mnemonic = "hole ignore gauge process stove type piece virus tongue essence lava skill";
+var mnemonic = "start trial breeze fox room before mixed this outer pelican power pass";

@@ -1,1 +1,1 @@
-var mnemonic = "snack title dry emerge change disorder swim method master frequent coach kiss";
+var mnemonic = "have verb unaware chuckle hazard opera baby start glance maple tenant divide";

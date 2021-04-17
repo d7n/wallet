@@ -1,1 +1,1 @@
-var mnemonic = "eight winter exhibit slice color two loop vivid sail pear aerobic local";
+var mnemonic = "capital cube girl recipe royal ocean phrase ask tomato battle jar inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop bitter news enemy clinic word final chicken charge clay orient music";
+var mnemonic = "switch peasant extra chief decrease opinion salon party age snake aunt place";

@@ -1,1 +1,1 @@
-var mnemonic = "mother hawk bounce cable gate armed talent erupt churn save recycle fabric";
+var mnemonic = "hole brisk among circle essay silent seven genuine door wedding toe state";

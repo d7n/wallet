@@ -1,1 +1,1 @@
-var mnemonic = "hospital juice man defense swap neither year tuition brown worth alarm ship";
+var mnemonic = "awesome buyer goat merry autumn address evil jeans smoke alert shadow spoon";

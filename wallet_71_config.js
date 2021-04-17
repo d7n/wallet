@@ -1,1 +1,1 @@
-var mnemonic = "used occur office wine mistake fade list buzz mystery harsh trade next";
+var mnemonic = "position dust tray way prosper logic rule fury rich medal mercy ring";

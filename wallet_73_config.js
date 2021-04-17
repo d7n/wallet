@@ -1,1 +1,1 @@
-var mnemonic = "junior result annual account rib quote trick chicken include salmon spice melody";
+var mnemonic = "property fly sausage desert toddler motor thumb october chapter fortune sausage camp";

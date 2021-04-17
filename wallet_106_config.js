@@ -1,1 +1,1 @@
-var mnemonic = "mule force cattle couple trend protect task glow obtain please dilemma small";
+var mnemonic = "happy wear grief robot correct cash bunker kid vault satoshi engage must";

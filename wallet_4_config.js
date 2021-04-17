@@ -1,1 +1,1 @@
-var mnemonic = "execute general bamboo camp congress wrestle piece trick select pen mad blanket";
+var mnemonic = "wife skull section payment just manual arch sauce theme outer memory steak";

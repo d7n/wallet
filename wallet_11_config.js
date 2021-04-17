@@ -1,1 +1,1 @@
-var mnemonic = "can idle found sugar domain equal orchard deliver park kidney gravity manage";
+var mnemonic = "donkey lava loud zero affair spring amazing calm segment pistol title raccoon";

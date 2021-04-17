@@ -1,1 +1,1 @@
-var mnemonic = "asthma raise frequent please thumb recall atom major orchard cannon salon trade";
+var mnemonic = "intact consider polar zero neither riot electric scatter burden donkey walk drama";

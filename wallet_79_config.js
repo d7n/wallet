@@ -1,1 +1,1 @@
-var mnemonic = "grid trial coil lift essence muscle bridge food winner shadow lamp onion";
+var mnemonic = "enemy chicken online winter like churn leisure unfold topple tribe inspire coast";

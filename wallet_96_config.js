@@ -1,1 +1,1 @@
-var mnemonic = "act congress escape speed file easy infant kit stick coast tool change";
+var mnemonic = "hand unveil capital loop nothing castle gorilla empty immense beauty inmate west";

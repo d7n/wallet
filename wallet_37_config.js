@@ -1,1 +1,1 @@
-var mnemonic = "rookie maze push south bone emerge link noble arm hidden thank exchange";
+var mnemonic = "staff crop decline salon club captain they prize dish settle viable assault";

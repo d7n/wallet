@@ -1,1 +1,1 @@
-var mnemonic = "boost project consider fiber spend critic eight cute vast swarm tomato appear";
+var mnemonic = "proof actress ancient title pond regular improve festival pool lava net fantasy";

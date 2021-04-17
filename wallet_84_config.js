@@ -1,1 +1,1 @@
-var mnemonic = "raccoon social legend enact leader profit kit trust want decline black pencil";
+var mnemonic = "shoulder dwarf giant wasp obtain skate quick desk spare craft dynamic quit";

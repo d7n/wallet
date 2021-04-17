@@ -1,1 +1,1 @@
-var mnemonic = "tuition guess ring salmon elevator butter pass inherit never degree return prosper";
+var mnemonic = "scout boring waste stamp gun decline casual twice dirt oxygen home unfold";

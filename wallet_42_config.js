@@ -1,1 +1,1 @@
-var mnemonic = "grain pride rather cheese green slot jump juice rebel squeeze steel embrace";
+var mnemonic = "outdoor nothing alone amused limb mosquito purity minute delay love magnet weapon";

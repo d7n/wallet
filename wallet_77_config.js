@@ -1,1 +1,1 @@
-var mnemonic = "second such picture picture chef six veteran elite jelly weekend brand own";
+var mnemonic = "wasp artist moon kitten crash mule great inhale spin under girl skate";

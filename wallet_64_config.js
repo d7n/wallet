@@ -1,1 +1,1 @@
-var mnemonic = "worry toast coyote print allow describe fade carbon pyramid venture ring maximum";
+var mnemonic = "know language topple credit arrest behave risk grunt smart finish bulk country";

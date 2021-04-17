@@ -1,1 +1,1 @@
-var mnemonic = "turtle roof alert spirit hire cradle marble elder wreck broken neck next";
+var mnemonic = "calm swap disagree update alley other brisk hen snow goose hero skill";

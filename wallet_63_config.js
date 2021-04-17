@@ -1,1 +1,1 @@
-var mnemonic = "zebra virtual fitness learn glad same flush limb girl wink cabbage vague";
+var mnemonic = "limit swift fit actual trophy clinic punch ketchup panel verb mobile angle";

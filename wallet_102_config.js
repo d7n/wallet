@@ -1,1 +1,1 @@
-var mnemonic = "wide rebel abstract home supreme lazy define delay dismiss buddy face push";
+var mnemonic = "brass obscure afford later avocado hour deputy jeans minimum reward rabbit appear";

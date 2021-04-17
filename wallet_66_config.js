@@ -1,1 +1,1 @@
-var mnemonic = "intact tag issue approve crumble jungle fix owner result fragile stomach chalk";
+var mnemonic = "journey milk code unique uncle wrist garage caution scheme pride ramp guard";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder spy dinner sort setup bullet metal display frozen snap boss brother";
+var mnemonic = "route stem happy mask crouch sniff clump powder wheel honey primary base";

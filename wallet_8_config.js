@@ -1,1 +1,1 @@
-var mnemonic = "wink cake position shaft million erode sick deputy test unknown arm void";
+var mnemonic = "rely rent stay pear goddess prevent faculty belt candy minor seven brown";

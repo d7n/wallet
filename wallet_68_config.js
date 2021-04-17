@@ -1,1 +1,1 @@
-var mnemonic = "scatter fluid goat narrow festival empty yard gym blind west perfect romance";
+var mnemonic = "electric bulb pigeon toe dignity inmate planet script subject lottery push matter";

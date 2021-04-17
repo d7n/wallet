@@ -1,1 +1,1 @@
-var mnemonic = "give initial donor exhibit lady thrive shaft shuffle amazing reject exotic garden";
+var mnemonic = "join vault sudden dirt west maximum office nuclear age enter bike door";

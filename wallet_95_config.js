@@ -1,1 +1,1 @@
-var mnemonic = "dizzy story that ice stage happy assume apple muffin thunder mountain dove";
+var mnemonic = "please flower ensure phone rhythm flight rack oxygen pistol retreat wage puzzle";

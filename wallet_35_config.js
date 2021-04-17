@@ -1,1 +1,1 @@
-var mnemonic = "glove gorilla surprise version unit able card hurry end canoe hedgehog diesel";
+var mnemonic = "ostrich solution animal movie emerge afraid initial fruit voyage pulse picnic obscure";

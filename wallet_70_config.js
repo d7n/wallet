@@ -1,1 +1,1 @@
-var mnemonic = "orchard thank laptop become together bulk torch mother spray humble siren sport";
+var mnemonic = "attract trip dilemma split decline penalty imitate blast moral blur syrup stem";

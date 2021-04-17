@@ -1,1 +1,1 @@
-var mnemonic = "cigar reform stay awful treat bridge awesome awkward electric own tornado high";
+var mnemonic = "stick sell blossom pulse subway source spend weapon answer armor icon under";

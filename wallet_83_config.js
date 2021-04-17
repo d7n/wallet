@@ -1,1 +1,1 @@
-var mnemonic = "cherry detail video shock fatigue suggest work measure fly issue welcome tragic";
+var mnemonic = "atom hunt strike wash mango latin add original dog quiz glimpse vapor";

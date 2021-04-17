@@ -1,1 +1,1 @@
-var mnemonic = "gesture young air regular cliff title forest machine distance exile eagle print";
+var mnemonic = "aunt buddy inform thank spray rival library gain general birth merry tragic";

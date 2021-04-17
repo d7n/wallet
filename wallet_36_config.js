@@ -1,1 +1,1 @@
-var mnemonic = "term stool author can assume favorite unhappy flight apart smile solar depart";
+var mnemonic = "talk mother physical firm frown neither own tribe shop crystal immune inspire";

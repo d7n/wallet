@@ -1,1 +1,1 @@
-var mnemonic = "menu summer vacant useful patch okay romance spike slab wise drift exercise";
+var mnemonic = "garage panda connect bracket history transfer wasp second drink dish path select";

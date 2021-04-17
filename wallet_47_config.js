@@ -1,1 +1,1 @@
-var mnemonic = "floor trick judge august produce wait avoid drastic achieve injury inch mass";
+var mnemonic = "project midnight goat useless cradle fine crater butter curtain area tray artist";

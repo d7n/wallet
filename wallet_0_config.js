@@ -1,1 +1,1 @@
-var mnemonic = "story pyramid awkward soon ability rude pledge exit spoil caught transfer custom";
+var mnemonic = "ivory smile book snap fly affair asthma ride catch upgrade pear shove";

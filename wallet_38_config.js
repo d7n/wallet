@@ -1,1 +1,1 @@
-var mnemonic = "skin fitness profit game gloom west bonus bamboo fine sound repeat nasty";
+var mnemonic = "guess old daring holiday repeat two ecology script step acid moral deer";

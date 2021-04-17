@@ -1,1 +1,1 @@
-var mnemonic = "sock brain please hard mushroom caught connect rate dizzy reunion elder opera";
+var mnemonic = "wise allow two damp liberty myself resemble absurd direct moral hero raccoon";

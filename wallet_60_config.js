@@ -1,1 +1,1 @@
-var mnemonic = "afraid photo team pond suit life smoke crisp gravity bachelor tool square";
+var mnemonic = "error wagon artwork shy helmet type invest puzzle leader vague twenty sadness";

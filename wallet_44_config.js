@@ -1,1 +1,1 @@
-var mnemonic = "matrix powder mistake notable giant woman immense swamp sell enroll shine grit";
+var mnemonic = "absent nut canoe weird assault expect castle shop image gesture victory choose";

@@ -1,1 +1,1 @@
-var mnemonic = "dad bacon assume expect race zebra lava mouse great father play denial";
+var mnemonic = "wrist question shell hole action element egg phone simple upset spawn forward";

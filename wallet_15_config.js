@@ -1,1 +1,1 @@
-var mnemonic = "pelican ginger equal throw smile day brick rich pen clever sugar culture";
+var mnemonic = "face inch cause resource talent lock drift once suit code suit put";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle announce cost hazard grape scorpion volcano submit tiny width renew night";
+var mnemonic = "obey sweet plate nasty engine book either animal two enable primary zone";

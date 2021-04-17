@@ -1,1 +1,1 @@
-var mnemonic = "enable scene room price floor country heart measure describe beef game pulp";
+var mnemonic = "another defy surprise isolate pepper romance luxury news bright hen outside way";

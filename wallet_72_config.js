@@ -1,1 +1,1 @@
-var mnemonic = "middle soft squeeze tone myth capable roast duty ankle orchard pepper fiction";
+var mnemonic = "improve siege glimpse skull call trade speak impact vessel stamp animal ugly";

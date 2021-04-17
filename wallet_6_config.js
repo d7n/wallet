@@ -1,1 +1,1 @@
-var mnemonic = "gold modify holiday general ten math roof cigar become local welcome utility";
+var mnemonic = "exile sniff lake album sibling faith zebra brother traffic allow gun quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon wide museum gather custom smart flight asset trim scale price broken";
+var mnemonic = "custom grow island random celery protect glad artefact bike main ancient combine";

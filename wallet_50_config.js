@@ -1,1 +1,1 @@
-var mnemonic = "team crucial leg volume clever song expire lumber all weather boy good";
+var mnemonic = "now chunk zebra truck document until cheap short woman dutch music fault";

@@ -1,1 +1,1 @@
-var mnemonic = "mad viable hobby crash echo despair long online novel volcano problem ceiling";
+var mnemonic = "cradle remain slim film diagram wolf embody diagram kiss pride tiny oil";

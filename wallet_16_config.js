@@ -1,1 +1,1 @@
-var mnemonic = "fitness slide chicken hundred nut reject slush harsh blossom mosquito over mystery";
+var mnemonic = "sad green now rack lab lawsuit shuffle minor warm acoustic scout tomorrow";

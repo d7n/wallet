@@ -1,1 +1,1 @@
-var mnemonic = "tennis sauce zebra anxiety mule hunt milk hold question exhaust adult arena";
+var mnemonic = "fringe defy beach deer swap alone episode wedding frost syrup shift differ";

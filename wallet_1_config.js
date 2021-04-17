@@ -1,1 +1,1 @@
-var mnemonic = "symbol cart rain public outside foster oblige hockey nuclear current section uncle";
+var mnemonic = "federal recipe flag brick skill laptop absent defense shoulder crew bronze master";

@@ -1,1 +1,1 @@
-var mnemonic = "middle mind comic journey suffer girl now evolve riot ring allow elbow";
+var mnemonic = "social call spread slide gas pride double garment spread meat portion nominee";
