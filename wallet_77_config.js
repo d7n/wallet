@@ -1,1 +1,1 @@
-var mnemonic = "heavy write age manage theme moment century minute local ecology search choose";
+var mnemonic = "electric cruise venue old supreme cheese above shadow uniform quality fine grocery";

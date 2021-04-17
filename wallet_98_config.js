@@ -1,1 +1,1 @@
-var mnemonic = "release insect retreat want sort canal shock tornado like alert angle aunt";
+var mnemonic = "milk enemy scene piece hurt original van caution lab crisp tag banana";

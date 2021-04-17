@@ -1,1 +1,1 @@
-var mnemonic = "timber liquid oval sketch guilt stage blast banana guilt fold minute wet";
+var mnemonic = "uncover renew gospel urge possible meadow zero team income finish umbrella subway";

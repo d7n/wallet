@@ -1,1 +1,1 @@
-var mnemonic = "execute width marble left cotton system fiction crisp online rule round island";
+var mnemonic = "measure pair work purity doll habit aunt bachelor adapt roast mad april";

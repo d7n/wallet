@@ -1,1 +1,1 @@
-var mnemonic = "treat future final bargain obtain twelve jacket glad student monitor hobby clean";
+var mnemonic = "plate become snake outer cigar blossom frame deposit orient brush rocket fluid";

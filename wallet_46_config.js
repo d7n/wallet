@@ -1,1 +1,1 @@
-var mnemonic = "grocery goat wish task train domain nose fly cactus absorb lottery that";
+var mnemonic = "clock attend copper million orange faith ship dress similar satoshi lamp waste";

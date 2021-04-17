@@ -1,1 +1,1 @@
-var mnemonic = "mechanic depend habit box result bachelor turtle seven unveil sport sword cook";
+var mnemonic = "green excite absent oven cheap coyote gaze heavy kick tuna square misery";

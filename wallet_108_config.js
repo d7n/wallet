@@ -1,1 +1,1 @@
-var mnemonic = "trend under else weather sauce dish uncle doctor decorate jump address task";
+var mnemonic = "chuckle retire series during final area tiny recycle swap water blue humor";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie advance donkey pulp solid found pelican food barely aim lend joy";
+var mnemonic = "surround grit island fruit submit frown region behave bamboo damage endorse grid";

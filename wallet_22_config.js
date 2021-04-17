@@ -1,1 +1,1 @@
-var mnemonic = "slam security host craft tower scout page tree pencil canoe stairs toast";
+var mnemonic = "rapid cabbage level hub inch edge assist taste twelve tower cycle bless";

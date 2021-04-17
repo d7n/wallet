@@ -1,1 +1,1 @@
-var mnemonic = "sting dance month describe short reason empty client crazy night rough basic";
+var mnemonic = "uphold surprise rebel aunt cousin dry claim area decade fog decorate dose";

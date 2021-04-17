@@ -1,1 +1,1 @@
-var mnemonic = "act carpet rare charge axis since palm fold tell super dash pulp";
+var mnemonic = "network warm fury screen vault rather enter illegal cigar law anxiety turkey";

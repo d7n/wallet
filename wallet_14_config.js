@@ -1,1 +1,1 @@
-var mnemonic = "symptom valid hand city elevator joy noodle assault decline mixed myself intact";
+var mnemonic = "noise tape exercise dune six leader crane frame swap kitten type guitar";

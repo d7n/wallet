@@ -1,1 +1,1 @@
-var mnemonic = "pioneer lion long vessel pizza busy dismiss wrong spray rabbit genre cereal";
+var mnemonic = "tilt rose rebuild now mixture lizard relax paper manual negative tonight faculty";

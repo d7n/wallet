@@ -1,1 +1,1 @@
-var mnemonic = "refuse east market device dwarf grape second knee casual merge pigeon seek";
+var mnemonic = "announce spider top trick flash essence ball discover onion remain gauge type";

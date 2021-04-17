@@ -1,1 +1,1 @@
-var mnemonic = "vicious humble bargain fetch october million enlist gallery depart squirrel frame gown";
+var mnemonic = "normal involve grief mystery reason pig address walnut exist patrol update hybrid";

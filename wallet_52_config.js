@@ -1,1 +1,1 @@
-var mnemonic = "dutch beach prison captain census rally machine fashion slice motion today wrist";
+var mnemonic = "boring best pen hard high sure absorb violin topic speak cricket frost";

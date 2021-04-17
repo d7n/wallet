@@ -1,1 +1,1 @@
-var mnemonic = "effort modify task source found belt reason ready core addict nest price";
+var mnemonic = "notice van rather minor sing drastic crash forum dad little city ripple";

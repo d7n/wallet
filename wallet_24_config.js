@@ -1,1 +1,1 @@
-var mnemonic = "opinion dynamic execute outdoor draft emotion general social spy kit grace shine";
+var mnemonic = "primary before address milk job stadium cradle addict finish ahead ready hurt";

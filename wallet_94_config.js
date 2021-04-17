@@ -1,1 +1,1 @@
-var mnemonic = "guilt engage clay mixture first cricket hospital pool siren churn fatal lawsuit";
+var mnemonic = "harvest nerve bomb grocery license mad later gentle embrace minimum square clean";

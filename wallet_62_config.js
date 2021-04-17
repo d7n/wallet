@@ -1,1 +1,1 @@
-var mnemonic = "same circle coast defense hard dynamic avoid palace village catch maze screen";
+var mnemonic = "pave vast regular report napkin fine attend cushion fault anger mouse raccoon";

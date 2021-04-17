@@ -1,1 +1,1 @@
-var mnemonic = "story table youth shrimp furnace phrase rescue crisp conduct private spatial gate";
+var mnemonic = "harsh pair seat museum rain wrong luggage pupil talent mad unhappy little";

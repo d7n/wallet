@@ -1,1 +1,1 @@
-var mnemonic = "outside travel game uncover drastic brush stamp latin cluster achieve seat cluster";
+var mnemonic = "over domain believe agent interest evoke deliver hub choice view orchard essay";

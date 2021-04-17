@@ -1,1 +1,1 @@
-var mnemonic = "wave increase science kingdom rural figure alert couch hood tilt wide portion";
+var mnemonic = "buffalo crucial reduce valley bullet benefit impact agree pause ship summer treat";

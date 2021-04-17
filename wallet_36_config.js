@@ -1,1 +1,1 @@
-var mnemonic = "mimic jewel dinner high jacket liar surround bronze salmon pledge move giggle";
+var mnemonic = "barely athlete energy click honey include cotton dish luggage bunker gas cabbage";

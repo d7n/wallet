@@ -1,1 +1,1 @@
-var mnemonic = "enough dance fame pyramid tiger glue tomorrow mammal student refuse layer cabin";
+var mnemonic = "crack test start video cat hammer plunge weekend outer gift equal luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "length neck purpose miss razor possible video brush infant range useful nurse";
+var mnemonic = "prepare metal recall foam total quiz receive source panic axis order design";

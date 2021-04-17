@@ -1,1 +1,1 @@
-var mnemonic = "range rival crater market lady merge answer latin great win desert still";
+var mnemonic = "bronze visa print soon grid vicious shallow scale reflect shop mosquito equal";

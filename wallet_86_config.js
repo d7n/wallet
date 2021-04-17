@@ -1,1 +1,1 @@
-var mnemonic = "child rail mistake tattoo puppy silly arch wood coconut erosion rhythm devote";
+var mnemonic = "code clinic draw subject gun response early steel figure abstract wire visa";

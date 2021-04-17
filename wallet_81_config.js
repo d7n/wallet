@@ -1,1 +1,1 @@
-var mnemonic = "solid ready bomb stereo move scrub measure force unaware theme rule youth";
+var mnemonic = "eye loan mobile among around view often eagle skin hard shine venue";

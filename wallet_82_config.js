@@ -1,1 +1,1 @@
-var mnemonic = "casual rural oil rose squirrel slim genuine core letter random visual auction";
+var mnemonic = "mask apart van arena front suggest tomorrow try cage across must whisper";

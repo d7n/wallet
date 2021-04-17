@@ -1,1 +1,1 @@
-var mnemonic = "purity empower dream raven educate noble pitch practice town drill please where";
+var mnemonic = "pig error update awake wagon slide school city cabbage tiny twin express";

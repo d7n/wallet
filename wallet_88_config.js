@@ -1,1 +1,1 @@
-var mnemonic = "judge hope coil ceiling pole trip stereo wagon bread poet size panic";
+var mnemonic = "foam advice person enjoy soda message impulse drink canvas angle bulb sport";

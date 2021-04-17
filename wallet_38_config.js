@@ -1,1 +1,1 @@
-var mnemonic = "snake wink mechanic wise equal ugly spoil only display digital infant legend";
+var mnemonic = "replace rely barrel envelope initial pupil core snow weird smoke casual cabbage";

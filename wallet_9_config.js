@@ -1,1 +1,1 @@
-var mnemonic = "derive lottery spoon body cave total lazy mango script illness alley zero";
+var mnemonic = "member photo floor camera attack cook wine amazing young venture guard gain";

@@ -1,1 +1,1 @@
-var mnemonic = "item drum satoshi faculty retreat reduce sentence boost clap already artist sea";
+var mnemonic = "unveil slogan service alpha icon lyrics frown flat harsh open royal surprise";

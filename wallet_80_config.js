@@ -1,1 +1,1 @@
-var mnemonic = "exercise radar bind share sport debate chronic poem run jelly rough trend";
+var mnemonic = "assault mirror sunny tide oppose matter pepper scissors cool artist cereal crisp";

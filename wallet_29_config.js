@@ -1,1 +1,1 @@
-var mnemonic = "must response exact bicycle avoid envelope wagon regret race deny flat author";
+var mnemonic = "student concert horn lawn either poverty milk charge amazing later avocado shine";

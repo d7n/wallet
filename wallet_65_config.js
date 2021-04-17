@@ -1,1 +1,1 @@
-var mnemonic = "pride blouse scale anxiety else depth finger corn raven fetch tenant portion";
+var mnemonic = "egg erosion response opinion exist slow laundry drive announce winner ketchup cinnamon";

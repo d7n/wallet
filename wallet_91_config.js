@@ -1,1 +1,1 @@
-var mnemonic = "crystal thumb turn junk diagram satoshi keen track crowd blanket unit civil";
+var mnemonic = "amused name dad adapt laptop blame drive skull marine deliver pilot robust";

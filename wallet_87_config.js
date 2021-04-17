@@ -1,1 +1,1 @@
-var mnemonic = "round sure weather hockey phone violin neck knock three evoke exercise before";
+var mnemonic = "engage stomach predict add absurd monitor muffin absurd winner practice bachelor gym";

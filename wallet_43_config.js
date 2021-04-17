@@ -1,1 +1,1 @@
-var mnemonic = "moment alter spread ethics broken involve churn aisle shop busy coin dish";
+var mnemonic = "error wash path since taxi connect sketch unfold boil drop layer picnic";

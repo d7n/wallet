@@ -1,1 +1,1 @@
-var mnemonic = "bunker rally saddle half east vast width crack dog still vanish pool";
+var mnemonic = "arrange lesson brick regret mutual today solution dash engine acoustic rifle hope";

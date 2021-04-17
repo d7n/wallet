@@ -1,1 +1,1 @@
-var mnemonic = "cruel exclude swift mountain tuna inquiry shuffle supply dynamic estate also report";
+var mnemonic = "dice hire fault alien code elegant result category gravity team merge box";

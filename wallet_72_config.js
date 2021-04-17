@@ -1,1 +1,1 @@
-var mnemonic = "match inquiry craft pet bicycle usual desert public normal teach angle steak";
+var mnemonic = "slender wife scatter tomato street rain before impact lizard example float suit";

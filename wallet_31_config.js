@@ -1,1 +1,1 @@
-var mnemonic = "small element game grape kite busy admit goat flame steel tilt video";
+var mnemonic = "boss myself brief idle hire captain develop creek crush cereal dash uncle";

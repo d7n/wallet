@@ -1,1 +1,1 @@
-var mnemonic = "away slot bridge couch render win report rotate ocean company balcony license";
+var mnemonic = "vanish basket wage ahead before witness consider wage forward kangaroo village door";

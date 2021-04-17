@@ -1,1 +1,1 @@
-var mnemonic = "piece future improve crack hello trust liar panel cause also fantasy region";
+var mnemonic = "together across circle truth transfer artefact regular rail noble cattle dentist trophy";

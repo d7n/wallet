@@ -1,1 +1,1 @@
-var mnemonic = "guitar deputy maze injury pool season sunny animal blur century dose jewel";
+var mnemonic = "violin seat high kitten elite destroy crunch hope face mom obscure place";

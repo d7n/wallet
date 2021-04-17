@@ -1,1 +1,1 @@
-var mnemonic = "matter message million vacuum goat body planet syrup pass traffic goat sunset";
+var mnemonic = "joy hub perfect human luxury lock admit ten twin crunch quality hospital";

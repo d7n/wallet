@@ -1,1 +1,1 @@
-var mnemonic = "gloom donor pact drip you virus pipe fringe pioneer bleak oblige drill";
+var mnemonic = "kick merit describe cradle fire body security ask cross scene actor style";

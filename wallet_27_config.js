@@ -1,1 +1,1 @@
-var mnemonic = "coral slight grief bike mirror hill cruise salon roof buzz hollow ice";
+var mnemonic = "choose tuition awkward exchange mouse custom acid dragon assume abstract meadow spring";

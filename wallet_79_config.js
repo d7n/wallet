@@ -1,1 +1,1 @@
-var mnemonic = "movie comic clay void diesel lottery antenna slender idle tortoise unveil teach";
+var mnemonic = "stool banana general sorry cram sea garbage draft culture delay only bounce";

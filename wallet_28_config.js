@@ -1,1 +1,1 @@
-var mnemonic = "before soda moon labor snack olive inflict salute habit bind buffalo stem";
+var mnemonic = "sound parade bind cargo amused program fog add enact sail grocery narrow";

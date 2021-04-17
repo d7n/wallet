@@ -1,1 +1,1 @@
-var mnemonic = "spoon wagon actor morning salad script future ozone body swear milk faint";
+var mnemonic = "result own aware wasp jewel thank decorate online broccoli umbrella fiction seed";

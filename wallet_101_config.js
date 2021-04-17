@@ -1,1 +1,1 @@
-var mnemonic = "industry disease then cool vivid planet spider ignore stool bundle large joke";
+var mnemonic = "basic want vacuum wife fence view capable notice estate move spike prepare";

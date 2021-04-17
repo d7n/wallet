@@ -1,1 +1,1 @@
-var mnemonic = "inflict undo energy family grief clip van carbon dwarf stick idea kiss";
+var mnemonic = "umbrella country safe crumble type arena include regular vendor indoor vivid angry";

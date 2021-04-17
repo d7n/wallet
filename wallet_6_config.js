@@ -1,1 +1,1 @@
-var mnemonic = "fever notice output powder analyst excite obey kangaroo quality panther unfold resist";
+var mnemonic = "giant hazard weekend bottom ankle traffic burden private whale dragon small foot";

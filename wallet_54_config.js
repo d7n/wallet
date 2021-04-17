@@ -1,1 +1,1 @@
-var mnemonic = "march inject derive move sock detail tattoo tuition ridge two rich empower";
+var mnemonic = "canvas element release offer ice scene merit daughter afraid truth royal useful";

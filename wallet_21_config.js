@@ -1,1 +1,1 @@
-var mnemonic = "victory step baby lend annual silent burger palm special ski tragic result";
+var mnemonic = "apart rug fruit slogan nothing lobster hamster grace pact target diamond this";

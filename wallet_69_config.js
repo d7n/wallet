@@ -1,1 +1,1 @@
-var mnemonic = "portion vote despair mix win motor lock bronze accuse random picture border";
+var mnemonic = "endorse busy mistake category science dawn pet rain narrow young venture tonight";

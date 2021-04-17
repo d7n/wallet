@@ -1,1 +1,1 @@
-var mnemonic = "mansion bridge pretty purity ring speed train flash icon parade slogan alien";
+var mnemonic = "enable reject execute equip fortune empower captain lesson wage profit mountain razor";

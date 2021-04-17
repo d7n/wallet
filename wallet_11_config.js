@@ -1,1 +1,1 @@
-var mnemonic = "swing domain layer salt useful shadow discover practice arm hazard immense alert";
+var mnemonic = "excite actress pole fault buyer winner summer shadow protect burden gorilla stick";

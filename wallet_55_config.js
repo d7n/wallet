@@ -1,1 +1,1 @@
-var mnemonic = "punch place estate manage equal reform wage hybrid scare find jacket syrup";
+var mnemonic = "involve coach useless ranch aware analyst avoid unlock nut urge spot attract";

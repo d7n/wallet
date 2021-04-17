@@ -1,1 +1,1 @@
-var mnemonic = "vicious century exotic six summer home opinion orange dignity frame cover extend";
+var mnemonic = "hedgehog attack throw false tool struggle scan surround obtain slush surge shell";

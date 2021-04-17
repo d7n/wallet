@@ -1,1 +1,1 @@
-var mnemonic = "empower cricket favorite nominee shoulder vintage shock decade stock nephew peanut excess";
+var mnemonic = "bonus want mail front quality toilet secret genius rib among frog salute";

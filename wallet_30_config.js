@@ -1,1 +1,1 @@
-var mnemonic = "distance sell muscle setup genre weather public visit dolphin eyebrow layer defy";
+var mnemonic = "stuff grass suspect okay analyst stairs stand victory lizard kind core ice";

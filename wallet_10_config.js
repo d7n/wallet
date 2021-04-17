@@ -1,1 +1,1 @@
-var mnemonic = "oil vacant will oppose green banana swap sport swap famous mushroom vapor";
+var mnemonic = "coach rather radio typical bring turn bright indicate load music olympic master";

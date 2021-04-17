@@ -1,1 +1,1 @@
-var mnemonic = "spy duty edge scout intact assume pizza lumber speak inside derive already";
+var mnemonic = "group vibrant health corn multiply bunker spot stadium meat scheme cabbage nest";

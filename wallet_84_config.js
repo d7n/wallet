@@ -1,1 +1,1 @@
-var mnemonic = "dizzy jungle fiscal buddy duck legal crash ensure broccoli spawn cabin unveil";
+var mnemonic = "board disease hold shock easy federal ask bargain virus mother humor piano";

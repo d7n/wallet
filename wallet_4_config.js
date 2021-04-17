@@ -1,1 +1,1 @@
-var mnemonic = "antique wear execute day ready expose hunt cook van black toward humor";
+var mnemonic = "gas echo sadness marine until math panel market surge runway awful silent";

@@ -1,1 +1,1 @@
-var mnemonic = "demand enough betray height abuse intact grief exact hurry wonder canvas wheel";
+var mnemonic = "raven evolve ready excess slow chronic large tattoo cash guard transfer senior";

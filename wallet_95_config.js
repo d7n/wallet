@@ -1,1 +1,1 @@
-var mnemonic = "today lesson case bacon rough foster work spawn winner kick pyramid install";
+var mnemonic = "orange warfare glue control crop field muffin board eagle hope recall top";

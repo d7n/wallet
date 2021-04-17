@@ -1,1 +1,1 @@
-var mnemonic = "what bachelor wear deer toy praise emotion innocent speak private grab main";
+var mnemonic = "orient bridge wet club genre guitar energy elevator annual ten odor leave";

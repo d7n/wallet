@@ -1,1 +1,1 @@
-var mnemonic = "report bread pulse bird thank salon kiwi fat strike outside gate bacon";
+var mnemonic = "lumber magnet broken play offer seek confirm raccoon embody dry type soul";

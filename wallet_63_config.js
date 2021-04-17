@@ -1,1 +1,1 @@
-var mnemonic = "pelican hedgehog benefit fame dumb boss destroy this grit expand runway differ";
+var mnemonic = "cat obtain fog motion sample manage float pond okay account nephew flat";

@@ -1,1 +1,1 @@
-var mnemonic = "fade mouse matrix poverty phone blossom next foster dutch dial degree napkin";
+var mnemonic = "wrestle onion daughter floor country phone erode unable review cheap monkey top";

@@ -1,1 +1,1 @@
-var mnemonic = "thought horse pistol shift birth thunder soup immune afford achieve allow dynamic";
+var mnemonic = "exhaust warfare trust category crumble silk funny jungle wolf series moon ice";

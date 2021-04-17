@@ -1,1 +1,1 @@
-var mnemonic = "segment resemble tomato dune crumble spend coast mandate club asthma swift escape";
+var mnemonic = "zoo menu label cliff version hawk toss melt truth fetch butter cigar";

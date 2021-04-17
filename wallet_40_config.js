@@ -1,1 +1,1 @@
-var mnemonic = "entry phrase stand loud amazing enter gym client allow kiwi year source";
+var mnemonic = "slogan profit blood culture sauce leave cook soul shove between come viable";

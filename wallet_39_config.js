@@ -1,1 +1,1 @@
-var mnemonic = "morning cactus decide glimpse beyond bring taxi farm plunge wet finish airport";
+var mnemonic = "risk visa visit focus student brick square amazing glimpse rural promote camp";

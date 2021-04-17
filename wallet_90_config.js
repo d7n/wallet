@@ -1,1 +1,1 @@
-var mnemonic = "evoke chimney capable sustain quit order best danger crime travel sleep festival";
+var mnemonic = "indoor ozone multiply shine airport twice orphan relief sword coconut all allow";

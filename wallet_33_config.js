@@ -1,1 +1,1 @@
-var mnemonic = "enhance pact syrup nominee kangaroo time few noodle balance february surface tooth";
+var mnemonic = "skate spot athlete venue gentle radio auto fall jump agree grid approve";

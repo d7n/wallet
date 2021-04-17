@@ -1,1 +1,1 @@
-var mnemonic = "apart spin runway pizza swear tattoo help earn you whip craft exercise";
+var mnemonic = "lake decrease prepare ripple void child own scene discover law photo expect";

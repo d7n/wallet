@@ -1,1 +1,1 @@
-var mnemonic = "helmet dove like ill scatter able outside lunch guide gain toilet sell";
+var mnemonic = "oil sting very drum window deliver chat version group bench cook address";

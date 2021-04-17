@@ -1,1 +1,1 @@
-var mnemonic = "theory diesel dolphin round such edit book reduce kitten symbol snake vicious";
+var mnemonic = "often old fantasy citizen subject home gesture photo mango stage valid stand";

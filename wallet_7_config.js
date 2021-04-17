@@ -1,1 +1,1 @@
-var mnemonic = "hurt waste wall chicken sniff ticket hammer bag ecology roof grunt cover";
+var mnemonic = "awful youth alpha jungle mixed hungry fiber lizard member uncle cloth tenant";

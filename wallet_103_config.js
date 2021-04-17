@@ -1,1 +1,1 @@
-var mnemonic = "urge one method capable average guilt broken carry autumn ordinary actual ancient";
+var mnemonic = "umbrella ugly slab vital sun test deputy eight glory cruel air ship";

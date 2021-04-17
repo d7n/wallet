@@ -1,1 +1,1 @@
-var mnemonic = "donate draft feel dilemma cover include guide squirrel rug ill fashion glory";
+var mnemonic = "nuclear coast december short solar text pink auto faint supply giraffe easy";
