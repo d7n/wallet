@@ -1,1 +1,1 @@
-var mnemonic = "mimic subway occur lion car fire mechanic more crime barrel emotion fever";
+var mnemonic = "ritual cost elder tobacco now helmet someone face concert canyon kidney thank";

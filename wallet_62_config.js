@@ -1,1 +1,1 @@
-var mnemonic = "edge write case midnight unlock prepare mistake tired panther salon pencil agree";
+var mnemonic = "feel priority nerve mandate pyramid salmon shed ugly below evoke potato craft";

@@ -1,1 +1,1 @@
-var mnemonic = "firm urge crowd key cushion marine top stick load bridge discover exotic";
+var mnemonic = "innocent like rate inch advice invest adult index actress nature cable garage";

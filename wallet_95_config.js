@@ -1,1 +1,1 @@
-var mnemonic = "betray world across fame garage hungry sudden address brisk remember tonight verb";
+var mnemonic = "winter local burden boring clerk destroy neutral fortune nest smooth scale priority";

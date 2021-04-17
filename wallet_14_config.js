@@ -1,1 +1,1 @@
-var mnemonic = "brave fruit regret swamp camera nurse satoshi frog laundry ecology squeeze make";
+var mnemonic = "kind infant act vault science skin mammal crack turkey load pole tip";

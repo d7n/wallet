@@ -1,1 +1,1 @@
-var mnemonic = "tip swift spring canvas bench dance delay surface include snack swim weird";
+var mnemonic = "patch panic february horn walk ostrich above trial pizza young history hub";

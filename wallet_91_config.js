@@ -1,1 +1,1 @@
-var mnemonic = "initial sponsor goddess damp urge kit hurry risk sadness moon rack balcony";
+var mnemonic = "unfair pave ridge day soldier venue village hollow point blanket gentle river";

@@ -1,1 +1,1 @@
-var mnemonic = "sick kingdom strategy truly brand sorry skate begin farm fortune fog busy";
+var mnemonic = "kind moment visual able outside ski verb visa game glad spirit paper";

@@ -1,1 +1,1 @@
-var mnemonic = "knee then fever board vivid deny void tide joy display horn chef";
+var mnemonic = "dwarf device check arrest laptop tree unknown elder winter student ice tuna";

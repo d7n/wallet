@@ -1,1 +1,1 @@
-var mnemonic = "robot unhappy door liberty settle quit nothing avocado feature candy pony mammal";
+var mnemonic = "sausage push sibling panda caution trade mansion damp rival pave enforce soul";

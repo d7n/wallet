@@ -1,1 +1,1 @@
-var mnemonic = "symbol turkey pioneer negative hero layer use avoid debate measure man cushion";
+var mnemonic = "blossom hover thank push own oblige crouch strike grocery infant illegal surprise";

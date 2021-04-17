@@ -1,1 +1,1 @@
-var mnemonic = "cherry address loan garden dial travel cancel lock session thing tongue equip";
+var mnemonic = "poet claim boat pulp dish dinner scout emotion monster health tank injury";

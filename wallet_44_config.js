@@ -1,1 +1,1 @@
-var mnemonic = "foot turn fringe frequent success hill hour broccoli dash reason camera coil";
+var mnemonic = "coil defy save fence emerge skirt special rookie mimic hold actual still";

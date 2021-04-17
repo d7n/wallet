@@ -1,1 +1,1 @@
-var mnemonic = "bind penalty april hair kiwi memory tumble false excuse style slab peace";
+var mnemonic = "disease ancient bind cluster north wrestle install weapon approve police struggle cute";

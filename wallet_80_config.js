@@ -1,1 +1,1 @@
-var mnemonic = "seek sniff history letter purchase catalog guess since ill piece left unfold";
+var mnemonic = "dumb banner scorpion shadow apart input century october puppy plunge hover brother";

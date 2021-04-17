@@ -1,1 +1,1 @@
-var mnemonic = "spin oil steel float match clown muffin yellow remember inject robot rose";
+var mnemonic = "rug alert maple moral palm odor vanish entry rice sad lemon hobby";

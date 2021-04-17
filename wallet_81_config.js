@@ -1,1 +1,1 @@
-var mnemonic = "base recycle amused rude canoe velvet defense crucial siren hungry twist purchase";
+var mnemonic = "insane round inject coconut shift blanket cruise knee session invite since parent";

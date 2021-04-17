@@ -1,1 +1,1 @@
-var mnemonic = "hawk suit lawn spot pitch fortune mad tunnel correct hospital autumn need";
+var mnemonic = "tool letter merry shine cradle bulb raven such ring suggest banana smart";

@@ -1,1 +1,1 @@
-var mnemonic = "man way habit penalty click explain famous sentence wolf universe creek please";
+var mnemonic = "dial keep salt cake enhance rack valley style earn delay captain snack";

@@ -1,1 +1,1 @@
-var mnemonic = "pear leopard picnic sound loan heart century dose post theory harbor whisper";
+var mnemonic = "little cloth shoe any leopard grab health erosion ordinary fragile skin good";

@@ -1,1 +1,1 @@
-var mnemonic = "practice cube slam cook inch mobile foot wink shaft wrap goddess grain";
+var mnemonic = "march image attract ostrich clock slim chicken siren record guitar tiny alpha";

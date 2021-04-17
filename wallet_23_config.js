@@ -1,1 +1,1 @@
-var mnemonic = "taste steak estate eagle puppy credit excuse area discover lock ability unusual";
+var mnemonic = "diamond entry beach describe tomorrow world mixed into broccoli corn team describe";

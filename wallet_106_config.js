@@ -1,1 +1,1 @@
-var mnemonic = "split truly useless answer unlock spoil refuse circle balance snack cave trust";
+var mnemonic = "exist explain hobby early muscle world spy arrest bread enlist hybrid until";

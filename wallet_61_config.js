@@ -1,1 +1,1 @@
-var mnemonic = "elegant roast claim source sure win shiver toddler august plastic athlete hen";
+var mnemonic = "uniform vehicle journey duck cupboard tilt garage ripple lottery latin elder mesh";

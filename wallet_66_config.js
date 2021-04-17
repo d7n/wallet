@@ -1,1 +1,1 @@
-var mnemonic = "boil scorpion impose dutch refuse little broken current craft slender elegant potato";
+var mnemonic = "prevent rail tragic angry trim reopen light couple mimic solid rain antenna";

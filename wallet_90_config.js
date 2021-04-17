@@ -1,1 +1,1 @@
-var mnemonic = "color corn club festival feature scene interest market act stadium letter quantum";
+var mnemonic = "bullet egg away domain depend more keen collect regret antique stock gap";

@@ -1,1 +1,1 @@
-var mnemonic = "depart smile hazard snack then mystery glad region glimpse shield polar always";
+var mnemonic = "debris host floor frost quantum develop consider slogan earth glue slow raw";

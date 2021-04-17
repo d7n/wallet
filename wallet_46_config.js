@@ -1,1 +1,1 @@
-var mnemonic = "jazz uncle goose creek mercy avocado physical catalog mystery vehicle unaware foil";
+var mnemonic = "virus behave outer imitate affair violin cage silver tuition insect pear habit";

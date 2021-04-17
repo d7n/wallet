@@ -1,1 +1,1 @@
-var mnemonic = "gym salmon family limit trash eternal tent later snake milk case scrub";
+var mnemonic = "bronze put supply rally obtain flame tissue again pupil ahead express fantasy";

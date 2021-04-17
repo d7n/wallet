@@ -1,1 +1,1 @@
-var mnemonic = "improve lyrics sister select fresh bounce impose follow secret olympic piece rubber";
+var mnemonic = "fine evoke vast evoke latin trophy clown ostrich kiwi above together satisfy";

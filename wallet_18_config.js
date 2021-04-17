@@ -1,1 +1,1 @@
-var mnemonic = "kitten hammer fish agree depend effort gift taxi expect call tiny shy";
+var mnemonic = "pause always garlic night federal cereal various add surge solid cushion grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby smoke essay tomorrow track art region similar fuel canal issue deputy";
+var mnemonic = "fury join hello sing cruise false hundred mind act ring armed virtual";

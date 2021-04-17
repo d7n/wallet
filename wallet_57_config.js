@@ -1,1 +1,1 @@
-var mnemonic = "impact hungry because average profit front grain whip mammal wrap marble inflict";
+var mnemonic = "current wire occur shadow wide drift toward move hero athlete ankle force";

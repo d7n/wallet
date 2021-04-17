@@ -1,1 +1,1 @@
-var mnemonic = "text weapon belt march radio alley cruise one hand fury praise feel";
+var mnemonic = "amazing weird shiver hospital poet purity tobacco group armed unit capital pottery";

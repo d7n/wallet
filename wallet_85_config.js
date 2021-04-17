@@ -1,1 +1,1 @@
-var mnemonic = "second eagle estate mobile install minimum old bicycle flee team master verb";
+var mnemonic = "occur verb later bid fly volcano away script crush mean parade cup";

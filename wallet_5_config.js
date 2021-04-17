@@ -1,1 +1,1 @@
-var mnemonic = "idea love tree lesson brush slot occur start frozen right gloom table";
+var mnemonic = "neglect aim recipe alpha brief mercy false earth engage maid radio mirror";

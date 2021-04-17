@@ -1,1 +1,1 @@
-var mnemonic = "urban ready act piano output hurry cinnamon base nation bulb drop thought";
+var mnemonic = "cement hat food ability risk wise parrot bulb juice dog member infant";

@@ -1,1 +1,1 @@
-var mnemonic = "fever wild join endorse stick cushion faculty jump airport oxygen toward loyal";
+var mnemonic = "swamp pepper feel rhythm debris shoe purity joke satoshi tide monitor robust";

@@ -1,1 +1,1 @@
-var mnemonic = "churn pause above bubble bullet final grit dog merge lunch apple affair";
+var mnemonic = "please side ancient exile glow visa bargain jeans front machine team raise";

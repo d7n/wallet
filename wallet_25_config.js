@@ -1,1 +1,1 @@
-var mnemonic = "network click inmate fault first harvest width length soon cabin multiply peanut";
+var mnemonic = "among pool polar mango rain female people vanish tribe awkward volume above";

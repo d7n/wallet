@@ -1,1 +1,1 @@
-var mnemonic = "load crumble act street cook atom robust trumpet shock elephant struggle liquid";
+var mnemonic = "mixed repeat vapor digital start leg protect undo siren able rocket strong";

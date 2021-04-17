@@ -1,1 +1,1 @@
-var mnemonic = "web parade reopen focus capable sponsor screen school fabric phone armor table";
+var mnemonic = "stove join walnut thrive season clerk ribbon observe extra turn prison pioneer";

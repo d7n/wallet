@@ -1,1 +1,1 @@
-var mnemonic = "canoe whisper stable attract glass van into little dawn test rude cancel";
+var mnemonic = "slab ability indoor alien gap state bench effort toe fatigue minimum junior";

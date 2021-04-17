@@ -1,1 +1,1 @@
-var mnemonic = "help exit power end offer sunset modify eye lonely pill denial ball";
+var mnemonic = "property nose color silly catalog infant march exercise catch debate salute exact";

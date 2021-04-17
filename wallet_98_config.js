@@ -1,1 +1,1 @@
-var mnemonic = "erode drama plate uncle estate damage tattoo mention illegal embrace option absent";
+var mnemonic = "foster anxiety pepper joy october style lens actual goddess luggage help reform";

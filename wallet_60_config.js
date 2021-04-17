@@ -1,1 +1,1 @@
-var mnemonic = "shy guitar onion guitar business calm merry poet noise oven city envelope";
+var mnemonic = "lava rain stamp coyote device uniform example mom verify behave universe sand";

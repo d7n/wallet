@@ -1,1 +1,1 @@
-var mnemonic = "bone master amused flock fiction suffer derive current skirt have glass fiscal";
+var mnemonic = "gown mass inch skin sort gospel spirit library shell project grab camp";

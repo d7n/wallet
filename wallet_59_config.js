@@ -1,1 +1,1 @@
-var mnemonic = "bomb orient job example laugh abandon discover setup section practice hire vehicle";
+var mnemonic = "liberty item major suit arch cabin thrive add shadow decrease snake awake";

@@ -1,1 +1,1 @@
-var mnemonic = "fox electric believe swift century atom tornado detect resemble rich boil chef";
+var mnemonic = "cement globe amused tiny swift rebel catalog burst wait warrior blast solve";

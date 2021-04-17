@@ -1,1 +1,1 @@
-var mnemonic = "gun snake insect hungry trip shop traffic what utility broom ceiling polar";
+var mnemonic = "vessel couple item record electric parade cram list uniform extra burger ritual";

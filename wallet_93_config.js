@@ -1,1 +1,1 @@
-var mnemonic = "leisure uncover flock vault canoe garage call lend fantasy join breeze left";
+var mnemonic = "race anger retire novel under bounce real usual flee grain axis skate";

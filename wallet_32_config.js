@@ -1,1 +1,1 @@
-var mnemonic = "warrior movie click indicate ocean two senior loud ramp hair chair machine";
+var mnemonic = "cliff bridge loop style ranch urge atom design clay vote mushroom boss";

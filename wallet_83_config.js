@@ -1,1 +1,1 @@
-var mnemonic = "blush pool oven either when select destroy crawl addict train pelican increase";
+var mnemonic = "park travel crew tunnel design deny frown ostrich celery industry cook impose";

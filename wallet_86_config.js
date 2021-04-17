@@ -1,1 +1,1 @@
-var mnemonic = "cable crystal brisk world bird frame belt group vicious prize magnet inflict";
+var mnemonic = "raven slim vintage tennis tribe average biology cause shuffle orange stock zebra";

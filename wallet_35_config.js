@@ -1,1 +1,1 @@
-var mnemonic = "burger solid among doctor stick pill people panther cute diet setup gift";
+var mnemonic = "wine habit endorse list salute guard another island lend list flock latin";

@@ -1,1 +1,1 @@
-var mnemonic = "oven half chest bean shoot deer over brother pyramid blade diary remain";
+var mnemonic = "rival benefit science reunion chronic into eight trip roast try advice spider";

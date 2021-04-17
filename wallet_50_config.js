@@ -1,1 +1,1 @@
-var mnemonic = "force liberty tiny pattern warrior vague scrap enact denial february banana autumn";
+var mnemonic = "sort unknown card wine mouse grunt injury degree cycle change police brisk";

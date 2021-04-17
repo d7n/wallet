@@ -1,1 +1,1 @@
-var mnemonic = "planet video lock seek kiwi immense laptop trash garlic spider powder arrow";
+var mnemonic = "review void daughter lizard indoor shallow green jazz indicate solid glove raven";

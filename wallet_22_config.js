@@ -1,1 +1,1 @@
-var mnemonic = "oblige mention proud antique switch believe retreat exotic hope comic hundred belt";
+var mnemonic = "enough isolate library problem space month task mass cliff fossil chief wing";

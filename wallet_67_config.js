@@ -1,1 +1,1 @@
-var mnemonic = "arch mobile rotate hundred thought couple annual certain worth hat casino crunch";
+var mnemonic = "ability urge riot main suggest aim embrace story curious visit swamp vital";

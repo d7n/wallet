@@ -1,1 +1,1 @@
-var mnemonic = "angry wish car wrong rug glove antenna hurt robust develop second ranch";
+var mnemonic = "dune share enter edge blouse table coyote adult harbor nominee fine weather";

@@ -1,1 +1,1 @@
-var mnemonic = "tell learn member gate defy wide bar emerge wrap harvest badge phrase";
+var mnemonic = "deer differ spray gentle sock owner muffin health arrange saddle crew monitor";

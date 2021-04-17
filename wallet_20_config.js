@@ -1,1 +1,1 @@
-var mnemonic = "razor kit scorpion yellow dash tube acid nothing rebuild supply educate unknown";
+var mnemonic = "unique address hungry ritual faith sorry journey beauty never lava confirm copper";

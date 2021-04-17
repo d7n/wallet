@@ -1,1 +1,1 @@
-var mnemonic = "stone eagle fade bean object garment trade often mechanic track matter athlete";
+var mnemonic = "idea item power ozone cargo castle achieve case avoid end word frog";

@@ -1,1 +1,1 @@
-var mnemonic = "town sight scene vacuum grant vote angry group fiction scout insect phone";
+var mnemonic = "proud canoe utility teach spread capable verify above common crop access swift";

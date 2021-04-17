@@ -1,1 +1,1 @@
-var mnemonic = "stool pool ghost reason knee diesel rug box order side together absorb";
+var mnemonic = "east month canyon build wet truck claim mouse grab food minor captain";

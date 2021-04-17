@@ -1,1 +1,1 @@
-var mnemonic = "analyst destroy anxiety fork mushroom guard breeze neglect brush stamp bring clean";
+var mnemonic = "weapon birth anger speak pizza acoustic rabbit unable mountain jacket trophy tongue";

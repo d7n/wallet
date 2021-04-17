@@ -1,1 +1,1 @@
-var mnemonic = "shrimp reason crucial mule weasel history chief arrow scatter olive life sketch";
+var mnemonic = "auction laugh sunny amazing noodle goddess wall consider taxi pelican army receive";

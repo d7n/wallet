@@ -1,1 +1,1 @@
-var mnemonic = "address clarify bundle fat skate whisper scrub build gap element envelope drastic";
+var mnemonic = "current scrap floor stand orchard when degree boring tissue silly marine parade";

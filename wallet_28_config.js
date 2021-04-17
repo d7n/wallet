@@ -1,1 +1,1 @@
-var mnemonic = "mystery anxiety use thank can scissors brave kiss boy okay friend fury";
+var mnemonic = "obtain village cruel reopen employ cactus fold thing void illegal erupt popular";

@@ -1,1 +1,1 @@
-var mnemonic = "void music achieve second bachelor mixture perfect camera hamster alley loan grit";
+var mnemonic = "tortoise blast digital special seat witness country parade future miracle secret crucial";

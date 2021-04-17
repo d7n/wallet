@@ -1,1 +1,1 @@
-var mnemonic = "write salon stock rebuild outside sword tourist wear expire resemble river resemble";
+var mnemonic = "ecology that snack east toe potato case tumble upon student toy wrong";

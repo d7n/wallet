@@ -1,1 +1,1 @@
-var mnemonic = "assist loop velvet fork grape vibrant inflict quantum rough wrist caught shaft";
+var mnemonic = "section wife vintage damp cheese tag member draw intact inmate witness average";

@@ -1,1 +1,1 @@
-var mnemonic = "universe usage online drill bench medal fantasy warm figure tool solve else";
+var mnemonic = "quote pitch success affair bicycle pear visit tide warfare awful invest hood";

@@ -1,1 +1,1 @@
-var mnemonic = "blush spoil man bamboo stumble renew blood sister convince hair ritual flame";
+var mnemonic = "expect carry where leave recycle reform battle peasant shoot payment immense ridge";

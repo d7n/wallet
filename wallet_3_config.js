@@ -1,1 +1,1 @@
-var mnemonic = "visa spider grit accident exhibit fortune tackle sweet tail victory ranch stand";
+var mnemonic = "sight supreme claim bench rent state romance idle amount soda tobacco chest";

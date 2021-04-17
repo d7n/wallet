@@ -1,1 +1,1 @@
-var mnemonic = "space very base found draw robust delay item trap height word head";
+var mnemonic = "pipe infant predict ticket express rice lemon broken retreat veteran ribbon mention";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson junk upgrade indicate spin never desert roast hobby install token gather";
+var mnemonic = "peasant situate general supply require try buddy monster tornado ocean problem poverty";

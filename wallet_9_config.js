@@ -1,1 +1,1 @@
-var mnemonic = "typical sunny over cabin banana maple believe cook stage universe oak catch";
+var mnemonic = "enroll cereal muffin range alarm fade steel vessel robot coast butter decrease";

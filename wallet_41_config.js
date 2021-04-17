@@ -1,1 +1,1 @@
-var mnemonic = "allow arrow spike cliff kidney creek peanut debate antenna erase recipe egg";
+var mnemonic = "goat journey item social ask special badge void memory father budget traffic";

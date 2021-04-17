@@ -1,1 +1,1 @@
-var mnemonic = "maple enroll topic fire clever universe age leg cycle attack initial cool";
+var mnemonic = "sphere riot fresh final debris history crisp near faith abstract aware genius";

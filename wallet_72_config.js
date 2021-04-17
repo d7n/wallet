@@ -1,1 +1,1 @@
-var mnemonic = "label public toddler maze auto cloth march year weird collect width able";
+var mnemonic = "goddess ancient plunge dilemma mass observe diesel yard again phrase menu post";

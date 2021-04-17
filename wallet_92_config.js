@@ -1,1 +1,1 @@
-var mnemonic = "increase protect sure confirm during warrior love maze orchard almost indicate promote";
+var mnemonic = "mango country suspect gloom robust floor junk wheel winner consider area that";

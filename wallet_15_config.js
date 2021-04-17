@@ -1,1 +1,1 @@
-var mnemonic = "next output faint quality puppy voice already sugar elder vital slice march";
+var mnemonic = "minor until lend sick candy flip stock bus region other sheriff invest";

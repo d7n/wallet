@@ -1,1 +1,1 @@
-var mnemonic = "gate rural level helmet replace neglect because lion twin divide rack fire";
+var mnemonic = "chicken couple myth vessel outside wink laundry swim game number mad capital";

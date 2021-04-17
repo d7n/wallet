@@ -1,1 +1,1 @@
-var mnemonic = "pact invite mobile joy flush chaos wing farm egg escape match sadness";
+var mnemonic = "audit drama drink oblige lens home century decrease surface caution crunch order";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner top install culture shock tray injury license okay offer lady spoon";
+var mnemonic = "horse symbol cup drill giant physical disorder alone badge someone turn ill";

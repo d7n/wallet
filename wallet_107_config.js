@@ -1,1 +1,1 @@
-var mnemonic = "fortune empty logic enlist below travel rotate such loyal suspect cradle debate";
+var mnemonic = "friend boost unable mango kidney prefer fruit rich fabric child shadow reflect";
