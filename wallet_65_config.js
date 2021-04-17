@@ -1,1 +1,1 @@
-var mnemonic = "wise initial vote envelope area leg parrot father outer comic erosion rescue";
+var mnemonic = "cabin there like warm return laptop hire grid pudding cabin mention chaos";

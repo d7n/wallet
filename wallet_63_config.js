@@ -1,1 +1,1 @@
-var mnemonic = "legal fly shoe alone capable agent west twin future need dynamic promote";
+var mnemonic = "trust mad alarm tourist raccoon shadow green sugar reopen scorpion then shadow";

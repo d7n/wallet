@@ -1,1 +1,1 @@
-var mnemonic = "valid they become buyer daring poet donate sausage rival calm patient spread";
+var mnemonic = "crisp regret raise height trigger question elephant priority force casino seven rude";

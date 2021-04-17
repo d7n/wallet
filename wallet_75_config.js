@@ -1,1 +1,1 @@
-var mnemonic = "spoil banana network master mule spell fire library enter differ space open";
+var mnemonic = "narrow move senior right better never armed kangaroo seven panda ahead history";

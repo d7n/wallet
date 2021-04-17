@@ -1,1 +1,1 @@
-var mnemonic = "usage seed wrestle future garment satoshi twenty suspect enter gallery exercise stone";
+var mnemonic = "below funny raise fish aerobic moment year athlete walk question neither matter";

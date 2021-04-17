@@ -1,1 +1,1 @@
-var mnemonic = "bullet bonus useful coral poet tube brown keep pony behave awake olive";
+var mnemonic = "solution swallow enough combine ozone daughter improve idle tobacco video elder acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "battle mom hand clap arrest buzz bird glove alter pull creek ranch";
+var mnemonic = "arctic sunny armor car plunge left addict faint army delay mix bus";

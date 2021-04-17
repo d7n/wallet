@@ -1,1 +1,1 @@
-var mnemonic = "own nest chapter trouble lend exact talent popular inform chuckle plug excite";
+var mnemonic = "raven opera improve festival useful convince trash swim three uncover argue rib";

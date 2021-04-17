@@ -1,1 +1,1 @@
-var mnemonic = "present gather affair wheat kick steak glare accident section gorilla hip again";
+var mnemonic = "man rule edge neck antique member search palm keep violin quality pilot";

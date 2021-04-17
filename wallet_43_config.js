@@ -1,1 +1,1 @@
-var mnemonic = "envelope orbit diary spin ozone mule collect sphere story seed critic spider";
+var mnemonic = "awkward wave this device grocery sugar hybrid woman demand legal fresh perfect";

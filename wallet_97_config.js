@@ -1,1 +1,1 @@
-var mnemonic = "chicken salt banana utility ghost canvas enjoy bulb hood mercy skirt split";
+var mnemonic = "hair differ flat model physical cannon office unknown soft slam eager glare";

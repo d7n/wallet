@@ -1,1 +1,1 @@
-var mnemonic = "sweet remove jungle vendor ostrich wrap slight mansion card announce seminar axis";
+var mnemonic = "basket indicate wise cart express vintage innocent marble casino dish creek shove";

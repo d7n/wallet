@@ -1,1 +1,1 @@
-var mnemonic = "tell issue range pact antique core remain crack mistake bamboo helmet ostrich";
+var mnemonic = "erase exact hunt guess parent olive slab bicycle beauty find desk volcano";

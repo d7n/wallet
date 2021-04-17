@@ -1,1 +1,1 @@
-var mnemonic = "melt execute galaxy tiger inner enrich wheat coconut student design setup divert";
+var mnemonic = "agree indicate leave agree fish state keen appear body piece diesel husband";

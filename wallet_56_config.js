@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cluster mechanic warfare dumb kitten offer wrestle cross symbol visual image";
+var mnemonic = "border foam web loud will outer dinosaur entry kitchen mistake visit multiply";

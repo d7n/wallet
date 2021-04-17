@@ -1,1 +1,1 @@
-var mnemonic = "crouch lonely ski sudden language basic oak balcony usage economy moral session";
+var mnemonic = "country moment dignity pass patient tornado crash impact pelican faint leopard creek";

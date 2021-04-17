@@ -1,1 +1,1 @@
-var mnemonic = "real twist arm rain miss palace flush pattern always clip gown labor";
+var mnemonic = "pledge salad acoustic chief puppy lawsuit abuse vivid elegant soldier suggest blind";

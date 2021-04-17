@@ -1,1 +1,1 @@
-var mnemonic = "range public ridge behind fox tackle donate kit bird rival holiday peasant";
+var mnemonic = "tilt cousin such inhale defy success surge sauce private over wisdom tell";

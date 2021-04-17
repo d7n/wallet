@@ -1,1 +1,1 @@
-var mnemonic = "hamster laptop miracle ghost position yard rib over clean trend magic tray";
+var mnemonic = "faint today vault slim detail resist pluck nation truly hire prevent joke";

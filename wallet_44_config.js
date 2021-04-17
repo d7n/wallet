@@ -1,1 +1,1 @@
-var mnemonic = "gasp vibrant dilemma illness gasp birth popular crunch scheme lounge man hollow";
+var mnemonic = "salt clinic bargain hurdle enter network anxiety sweet bargain vibrant boil clump";

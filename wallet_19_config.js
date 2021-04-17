@@ -1,1 +1,1 @@
-var mnemonic = "supply blade enroll wreck play caution like notable federal move foil window";
+var mnemonic = "poet venture copy alter squeeze during inject mass shy tree guitar hurt";

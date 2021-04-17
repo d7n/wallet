@@ -1,1 +1,1 @@
-var mnemonic = "kitten power page plunge process avoid spy solve parrot wire stadium twelve";
+var mnemonic = "interest short magic organ stem tattoo glove pact jewel hover gadget motion";

@@ -1,1 +1,1 @@
-var mnemonic = "law tiger express tornado fringe bonus just youth unaware burden frame force";
+var mnemonic = "merit nation deny alter stone betray ostrich weasel analyst muscle easy wrestle";

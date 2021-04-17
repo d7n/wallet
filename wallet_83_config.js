@@ -1,1 +1,1 @@
-var mnemonic = "brisk risk hire human indoor unknown story liberty bid indicate trend today";
+var mnemonic = "around egg escape color capable antique home puppy sick garage hammer away";

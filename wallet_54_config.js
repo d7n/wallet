@@ -1,1 +1,1 @@
-var mnemonic = "gun width october auto breeze voyage afford buyer document sell frozen casual";
+var mnemonic = "setup choice pluck twice salad near hawk execute dentist yellow feature proof";

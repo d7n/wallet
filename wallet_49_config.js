@@ -1,1 +1,1 @@
-var mnemonic = "rose main grain elevator leisure beef omit ridge purity refuse clean february";
+var mnemonic = "beauty dose excess high cherry fruit caught globe skin brain neither stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "note pencil swallow shaft spatial oppose cruel liar chat exile like earth";
+var mnemonic = "fire bring section target forest rich lucky spike imitate crazy suit comfort";

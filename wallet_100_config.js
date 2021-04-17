@@ -1,1 +1,1 @@
-var mnemonic = "welcome erosion glad energy still argue bench draw six lazy advice chair";
+var mnemonic = "moral lizard modify dismiss company misery wisdom artwork crisp valve input dinner";

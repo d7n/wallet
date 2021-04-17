@@ -1,1 +1,1 @@
-var mnemonic = "captain learn strong prefer blood beyond submit confirm tent deposit scissors faith";
+var mnemonic = "answer risk cheese tomorrow arena cigar fit web three expand broken call";

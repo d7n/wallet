@@ -1,1 +1,1 @@
-var mnemonic = "canyon eagle amused damage panda world pet allow loan glass fuel rhythm";
+var mnemonic = "there oval student stone merry cause thumb blast time harvest borrow girl";

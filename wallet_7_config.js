@@ -1,1 +1,1 @@
-var mnemonic = "day air holiday ill destroy stomach era lizard thumb glory rural bomb";
+var mnemonic = "aerobic stereo matrix object certain number remain track front warfare define hole";

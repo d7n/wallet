@@ -1,1 +1,1 @@
-var mnemonic = "pattern similar that slab clay lunch hair super logic traffic replace exist";
+var mnemonic = "chunk left win upon believe author era treat saddle envelope slam walnut";

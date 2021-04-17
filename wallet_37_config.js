@@ -1,1 +1,1 @@
-var mnemonic = "sad jewel first response pulp slush rhythm lawn hawk shove evoke flash";
+var mnemonic = "trick breeze collect west little dose bread paddle brand illegal panic general";

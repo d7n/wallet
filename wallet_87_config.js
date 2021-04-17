@@ -1,1 +1,1 @@
-var mnemonic = "salad fence found local tribe improve park pizza hair stadium grid fine";
+var mnemonic = "seat brief embrace favorite lyrics panda ignore coach install glad churn stamp";

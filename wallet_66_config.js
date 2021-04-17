@@ -1,1 +1,1 @@
-var mnemonic = "genre wrap plunge staff cost disagree must ginger jeans multiply fun sadness";
+var mnemonic = "avoid shine hair cram staff display spread rain film soft clock enable";

@@ -1,1 +1,1 @@
-var mnemonic = "often peace hat tourist pioneer name weasel addict question company vital buzz";
+var mnemonic = "audit change round shiver screen alley clinic cage fiction seed shoe shoulder";

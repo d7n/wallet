@@ -1,1 +1,1 @@
-var mnemonic = "round exist move brush globe gas food repeat adjust diary tragic cherry";
+var mnemonic = "junk infant hero discover chair object soccer ramp violin price discover comic";

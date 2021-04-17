@@ -1,1 +1,1 @@
-var mnemonic = "surprise noise leisure update sister race language sunny leave truck input clump";
+var mnemonic = "deputy corn menu junk detail drama rocket review merge process arena kit";

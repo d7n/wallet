@@ -1,1 +1,1 @@
-var mnemonic = "ancient pair rich tiny broom crumble control tonight planet owner gas merit";
+var mnemonic = "fury fortune match evoke boil box mandate enlist property banana ghost approve";

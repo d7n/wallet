@@ -1,1 +1,1 @@
-var mnemonic = "test champion knock exile surprise pulp sign provide pigeon hundred isolate fever";
+var mnemonic = "ahead picture onion shrug select tenant target trend story number patch clap";

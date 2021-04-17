@@ -1,1 +1,1 @@
-var mnemonic = "recall under approve grunt large minimum truly eager flight issue venue negative";
+var mnemonic = "inmate pass summer glove impose rude bicycle tool eyebrow museum invest opera";

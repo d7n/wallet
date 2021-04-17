@@ -1,1 +1,1 @@
-var mnemonic = "system produce year slight benefit ice final still neglect better mimic morning";
+var mnemonic = "half answer slim bar garage crime glue clock govern margin example physical";

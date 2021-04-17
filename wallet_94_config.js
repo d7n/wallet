@@ -1,1 +1,1 @@
-var mnemonic = "put payment pigeon ancient excess language prevent obscure mutual ship derive winner";
+var mnemonic = "comfort bomb often pave win wave uncover strike coconut planet vague purchase";

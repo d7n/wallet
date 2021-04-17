@@ -1,1 +1,1 @@
-var mnemonic = "disagree assault indoor invite until patient slight timber source print icon text";
+var mnemonic = "need time flat jealous another girl color barrel extend coin extend park";

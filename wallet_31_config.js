@@ -1,1 +1,1 @@
-var mnemonic = "august ankle grain empty nothing pitch tumble inhale clean skin clever animal";
+var mnemonic = "mad inherit one supreme crisp cliff rate thrive vessel dwarf faith first";

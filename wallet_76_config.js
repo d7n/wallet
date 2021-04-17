@@ -1,1 +1,1 @@
-var mnemonic = "crater second bunker damage auction point execute mutual vault board token response";
+var mnemonic = "height learn gospel system aim useful year target mixed into shell salute";

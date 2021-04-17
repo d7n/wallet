@@ -1,1 +1,1 @@
-var mnemonic = "front runway sick interest author trumpet response make panic when wool humble";
+var mnemonic = "horn rather shrug buffalo hawk loan space color course enrich cram expire";

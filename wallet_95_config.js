@@ -1,1 +1,1 @@
-var mnemonic = "glow gold verb state inhale health hotel hard skate amused analyst kiwi";
+var mnemonic = "urge phrase option rhythm nasty rebel focus radar humble foot erosion witness";

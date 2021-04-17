@@ -1,1 +1,1 @@
-var mnemonic = "return inmate pause matrix medal crop spy say zero sting horse tragic";
+var mnemonic = "decline frequent riot coin lottery enable gorilla team point flash decide march";

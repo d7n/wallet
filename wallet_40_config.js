@@ -1,1 +1,1 @@
-var mnemonic = "shiver barely obscure slogan follow notice staff bar protect case slender bamboo";
+var mnemonic = "carpet become february life later clutch accuse light scheme filter bulb extend";

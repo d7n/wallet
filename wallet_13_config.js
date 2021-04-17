@@ -1,1 +1,1 @@
-var mnemonic = "pitch cover visual hold mesh pelican lucky describe fitness then since disorder";
+var mnemonic = "cost cream very ask ranch ceiling evoke account busy buyer drastic flight";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff need program gap buzz donate position edge hole receive improve various";
+var mnemonic = "cereal coral venture uncle actress vivid two horn shadow domain yard kitten";

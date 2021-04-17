@@ -1,1 +1,1 @@
-var mnemonic = "trap unveil tunnel decorate clown month cherry adapt spray jar only brick";
+var mnemonic = "utility grass volcano casual usage admit private obvious digital pear bounce mass";

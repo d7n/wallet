@@ -1,1 +1,1 @@
-var mnemonic = "sketch security task thought trigger room easy lunch mix clarify sail spoil";
+var mnemonic = "this render crime goat human skill audit arrest dizzy suffer little arch";

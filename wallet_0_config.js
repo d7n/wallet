@@ -1,1 +1,1 @@
-var mnemonic = "pole obey still congress match curtain when force donkey police catalog skirt";
+var mnemonic = "nose three flight curtain history festival stick panel draw sad jealous sick";

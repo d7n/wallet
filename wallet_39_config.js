@@ -1,1 +1,1 @@
-var mnemonic = "blur length tribe angle robot define antique clock under diamond dizzy shop";
+var mnemonic = "race kiss baby target voice shaft language keep earth strike pair void";

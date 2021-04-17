@@ -1,1 +1,1 @@
-var mnemonic = "apology source pizza elder general original remove engine duck ten practice boring";
+var mnemonic = "identify turn pool chimney physical medal neutral broccoli upgrade scheme night price";

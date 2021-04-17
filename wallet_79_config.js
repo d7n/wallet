@@ -1,1 +1,1 @@
-var mnemonic = "brisk fresh since perfect cage perfect crisp shove people mesh prevent color";
+var mnemonic = "analyst quantum situate despair found satoshi possible sight ride stone ice crush";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn toe program forum volcano boil oven undo sleep saddle actress stadium";
+var mnemonic = "afraid injury speak inhale jump grain soap sponsor quarter salon trap easy";

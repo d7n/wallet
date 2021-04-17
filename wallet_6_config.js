@@ -1,1 +1,1 @@
-var mnemonic = "history snow chronic charge cherry saddle apology retreat similar crush among pill";
+var mnemonic = "wheel harvest achieve turn essay butter that play twist swear destroy meat";

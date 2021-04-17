@@ -1,1 +1,1 @@
-var mnemonic = "mimic control suit borrow vicious festival extra dad aspect august gorilla lunar";
+var mnemonic = "awesome lock brother vault pretty peasant film month jelly negative sustain donate";

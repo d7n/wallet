@@ -1,1 +1,1 @@
-var mnemonic = "burger grunt mechanic icon name unknown deposit fan wagon couch try faint";
+var mnemonic = "rigid demise figure recipe warrior april broom busy unveil belt desk primary";

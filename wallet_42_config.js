@@ -1,1 +1,1 @@
-var mnemonic = "tennis cereal scrap because civil silk shrug siren dice same amazing confirm";
+var mnemonic = "degree lonely cube shiver nerve hill drink cushion grow mobile dentist fringe";

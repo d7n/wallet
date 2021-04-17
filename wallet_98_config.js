@@ -1,1 +1,1 @@
-var mnemonic = "carry slush book odor sponsor tobacco tornado soda forward denial question copy";
+var mnemonic = "damage cross gap poem better fine crisp ignore crisp chunk field recycle";

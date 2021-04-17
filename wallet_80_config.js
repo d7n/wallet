@@ -1,1 +1,1 @@
-var mnemonic = "enough tray banner ranch dog orbit wood hazard salon space minor south";
+var mnemonic = "mandate west remain apple elder refuse behave gasp craft poem harvest reduce";

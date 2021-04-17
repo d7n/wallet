@@ -1,1 +1,1 @@
-var mnemonic = "drill gym young field menu gorilla panic express reason obey possible whisper";
+var mnemonic = "turkey cloth box crunch oyster coral lizard swarm essence actor advance myself";

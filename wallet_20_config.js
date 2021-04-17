@@ -1,1 +1,1 @@
-var mnemonic = "hollow scan stool sail onion eternal addict menu motor firm mixture hurt";
+var mnemonic = "person intact spring age yellow under cycle reason radar useful limb never";

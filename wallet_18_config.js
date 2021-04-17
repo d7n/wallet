@@ -1,1 +1,1 @@
-var mnemonic = "hollow usual guess collect resemble before approve limb shaft flower cluster tourist";
+var mnemonic = "crisp pair what special salute jealous twenty luxury word attend worth voyage";

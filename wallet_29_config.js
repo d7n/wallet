@@ -1,1 +1,1 @@
-var mnemonic = "addict ranch exclude thumb amused reopen monkey end shadow dynamic mammal welcome";
+var mnemonic = "genius joy rule vocal method mixture warrior tissue end airport tired guide";

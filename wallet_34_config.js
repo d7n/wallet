@@ -1,1 +1,1 @@
-var mnemonic = "scorpion pact strategy chapter culture orchard burden cave decrease magic age disagree";
+var mnemonic = "tenant help round rigid language unknown casual mushroom wear search raven episode";

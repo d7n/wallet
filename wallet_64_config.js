@@ -1,1 +1,1 @@
-var mnemonic = "siege focus suffer sketch insane rather where pudding slide pioneer gate kid";
+var mnemonic = "turkey olympic grief version call book vault category fan fun retire marine";

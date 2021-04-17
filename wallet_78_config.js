@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tribe timber basket perfect try senior leader minor evil elephant night";
+var mnemonic = "steak young basket flag brush lumber sniff job tonight gown tube various";

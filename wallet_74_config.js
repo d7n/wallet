@@ -1,1 +1,1 @@
-var mnemonic = "alter radio net raw plate idea monster army fragile guide empower elegant";
+var mnemonic = "want long pride prevent saddle nurse ghost want legend ship final expand";

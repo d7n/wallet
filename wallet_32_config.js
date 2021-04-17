@@ -1,1 +1,1 @@
-var mnemonic = "unable razor ethics code clip lecture shed rice attend enter weird witness";
+var mnemonic = "animal know judge age boy tail smart assist aunt raise mother simple";

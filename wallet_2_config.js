@@ -1,1 +1,1 @@
-var mnemonic = "ladder amazing marriage science educate oil prosper farm where scrub few globe";
+var mnemonic = "remind crystal flame decide bleak weird manage visual blur doctor marble ship";

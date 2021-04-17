@@ -1,1 +1,1 @@
-var mnemonic = "spell rabbit there picnic physical double culture choice lizard ask remember evil";
+var mnemonic = "caution roast home ladder creek vehicle afraid main soon green lawsuit dust";

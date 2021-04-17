@@ -1,1 +1,1 @@
-var mnemonic = "run innocent elephant card key print body coffee twice space morning isolate";
+var mnemonic = "beach cup subway buffalo sport renew also butter pave bright glory remember";

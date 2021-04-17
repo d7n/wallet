@@ -1,1 +1,1 @@
-var mnemonic = "please build anxiety garlic treat west equal clean remind split immense arch";
+var mnemonic = "quote lawsuit cash ski between bike sentence garlic fox foam rely subway";

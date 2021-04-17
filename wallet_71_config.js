@@ -1,1 +1,1 @@
-var mnemonic = "brick east popular narrow refuse insect immense kind noodle filter round harsh";
+var mnemonic = "naive random nation dawn energy have assault mistake shell absorb media hub";

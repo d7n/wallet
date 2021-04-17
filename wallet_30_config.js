@@ -1,1 +1,1 @@
-var mnemonic = "diet yard wedding lumber indoor stone alpha ecology dad open sauce youth";
+var mnemonic = "off include obey tell defense visit logic year dwarf shock slogan distance";

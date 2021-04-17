@@ -1,1 +1,1 @@
-var mnemonic = "street attitude friend alert infant address offer concert time energy same craft";
+var mnemonic = "reopen inch sibling couple later execute song baby relief skate casino struggle";

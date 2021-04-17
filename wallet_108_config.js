@@ -1,1 +1,1 @@
-var mnemonic = "seek forget child palace mix wasp figure sail safe walnut forest gloom";
+var mnemonic = "live easily claw paper crop bring slender original fatigue kitchen field manage";

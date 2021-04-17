@@ -1,1 +1,1 @@
-var mnemonic = "smooth tissue easily sheriff trim other identify glue great merit air conduct";
+var mnemonic = "method hello jeans analyst machine ship leader pulse special weird hedgehog recipe";

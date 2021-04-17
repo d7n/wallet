@@ -1,1 +1,1 @@
-var mnemonic = "ivory misery barely case forum man document way danger fiscal shop build";
+var mnemonic = "action abandon puppy mad snap miss faint debris way depend apart orange";

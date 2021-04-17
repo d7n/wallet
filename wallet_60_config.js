@@ -1,1 +1,1 @@
-var mnemonic = "reason message popular climb bundle damage mystery armor mimic stereo vivid prize";
+var mnemonic = "uphold victory riot add include purchase cause wage picture scan pencil wine";

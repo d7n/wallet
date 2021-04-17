@@ -1,1 +1,1 @@
-var mnemonic = "venture clap swing tumble renew video scout what buffalo loop upper rural";
+var mnemonic = "kiwi dose lunch lonely mimic clown sight orchard tool panda idle liquid";

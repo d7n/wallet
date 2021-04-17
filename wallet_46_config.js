@@ -1,1 +1,1 @@
-var mnemonic = "hollow sunny creek unfold side wreck guilt vast wet orange elbow skate";
+var mnemonic = "rug tape vehicle cancel cup advance life army thought crumble joy census";

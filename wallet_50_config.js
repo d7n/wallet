@@ -1,1 +1,1 @@
-var mnemonic = "grass loop sibling daring object glue fun puppy legend intact suggest nuclear";
+var mnemonic = "inquiry brief desk shove bird sting feel upon winter action quarter neck";

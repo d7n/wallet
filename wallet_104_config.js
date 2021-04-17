@@ -1,1 +1,1 @@
-var mnemonic = "seven fog attack common prison tank obvious chef adjust picture plug half";
+var mnemonic = "route vanish kingdom option input autumn dice rhythm large solve second target";
