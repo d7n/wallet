@@ -1,1 +1,1 @@
-var mnemonic = "shrug pause quick skirt long goose delay effort cycle canyon crystal inherit";
+var mnemonic = "slam security host craft tower scout page tree pencil canoe stairs toast";

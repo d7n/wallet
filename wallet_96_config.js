@@ -1,1 +1,1 @@
-var mnemonic = "smile rapid liquid diesel stuff sketch expand turkey indoor gap owner very";
+var mnemonic = "keep retire farm cluster spatial desk over image loyal orchard swear isolate";

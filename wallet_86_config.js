@@ -1,1 +1,1 @@
-var mnemonic = "crash vital cargo fence quality verify best often gallery nature pattern expect";
+var mnemonic = "child rail mistake tattoo puppy silly arch wood coconut erosion rhythm devote";

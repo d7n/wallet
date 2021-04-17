@@ -1,1 +1,1 @@
-var mnemonic = "opinion misery rival citizen buzz alter praise capable distance circle goat habit";
+var mnemonic = "derive lottery spoon body cave total lazy mango script illness alley zero";

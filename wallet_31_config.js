@@ -1,1 +1,1 @@
-var mnemonic = "hamster siren slogan health awesome pink junk across trust proof expect alter";
+var mnemonic = "small element game grape kite busy admit goat flame steel tilt video";

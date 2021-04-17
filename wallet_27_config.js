@@ -1,1 +1,1 @@
-var mnemonic = "critic damage hospital garden aunt torch pave average forest write gaze hidden";
+var mnemonic = "coral slight grief bike mirror hill cruise salon roof buzz hollow ice";

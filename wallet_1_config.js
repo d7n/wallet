@@ -1,1 +1,1 @@
-var mnemonic = "combine trial casual immense canoe ostrich frozen dismiss burst cancel boil inner";
+var mnemonic = "figure entire grape donor region strike avocado shift replace onion monster infant";

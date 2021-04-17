@@ -1,1 +1,1 @@
-var mnemonic = "lake option fancy sort assist seek gaze ancient sea enhance tongue blast";
+var mnemonic = "wave increase science kingdom rural figure alert couch hood tilt wide portion";

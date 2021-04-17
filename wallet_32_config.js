@@ -1,1 +1,1 @@
-var mnemonic = "method gas approve link modify adult fossil sound unusual point arrange pond";
+var mnemonic = "donate draft feel dilemma cover include guide squirrel rug ill fashion glory";

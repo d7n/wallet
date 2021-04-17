@@ -1,1 +1,1 @@
-var mnemonic = "spend cruel mixture tiny raw sweet silk harsh novel swing organ game";
+var mnemonic = "pioneer speak culture paper squirrel another tumble churn salute decorate dash enact";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics kingdom saddle make person couch wreck beef easy suggest village achieve";
+var mnemonic = "mechanic depend habit box result bachelor turtle seven unveil sport sword cook";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle inch legend hidden insect library claim resource voyage purity whip fun";
+var mnemonic = "dizzy jungle fiscal buddy duck legal crash ensure broccoli spawn cabin unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "husband cloth accident hub wait congress farm sweet cupboard arctic protect vintage";
+var mnemonic = "guilt engage clay mixture first cricket hospital pool siren churn fatal lawsuit";

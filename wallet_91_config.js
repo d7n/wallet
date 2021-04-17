@@ -1,1 +1,1 @@
-var mnemonic = "float share tortoise catalog audit stem antenna tip paper bag kidney anchor";
+var mnemonic = "crystal thumb turn junk diagram satoshi keen track crowd blanket unit civil";

@@ -1,1 +1,1 @@
-var mnemonic = "timber sample merit sunset coyote habit orange popular giant panel friend foot";
+var mnemonic = "effort modify task source found belt reason ready core addict nest price";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom what artist drink disagree powder behave vicious sadness outdoor phone soda";
+var mnemonic = "rookie advance donkey pulp solid found pelican food barely aim lend joy";

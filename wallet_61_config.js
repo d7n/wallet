@@ -1,1 +1,1 @@
-var mnemonic = "spirit album stem floor cart tube novel more flat struggle defy tattoo";
+var mnemonic = "treat future final bargain obtain twelve jacket glad student monitor hobby clean";

@@ -1,1 +1,1 @@
-var mnemonic = "acid skirt stay save seat rail bamboo voice top trade castle replace";
+var mnemonic = "remain install globe core oven cloth abuse pigeon fine glory bamboo fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "stand term blood tumble decade embrace deny much job green guitar crane";
+var mnemonic = "vicious humble bargain fetch october million enlist gallery depart squirrel frame gown";

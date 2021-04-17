@@ -1,1 +1,1 @@
-var mnemonic = "toe glad wrist odor mule garage avocado section hello echo speed symptom";
+var mnemonic = "inflict undo energy family grief clip van carbon dwarf stick idea kiss";

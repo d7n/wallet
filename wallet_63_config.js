@@ -1,1 +1,1 @@
-var mnemonic = "wealth project crash crucial hospital opera private hat snap amused electric inhale";
+var mnemonic = "pelican hedgehog benefit fame dumb boss destroy this grit expand runway differ";

@@ -1,1 +1,1 @@
-var mnemonic = "zero autumn call spawn rapid piano robust provide life bamboo sorry install";
+var mnemonic = "item drum satoshi faculty retreat reduce sentence boost clap already artist sea";

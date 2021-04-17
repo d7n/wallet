@@ -1,1 +1,1 @@
-var mnemonic = "jeans web embrace emerge hand family claw tortoise puzzle torch blue stem";
+var mnemonic = "churn multiply defense book during fire bus expire edge cute original globe";

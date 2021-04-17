@@ -1,1 +1,1 @@
-var mnemonic = "present fade thing clay fine unusual figure ability depth flight maze old";
+var mnemonic = "urge one method capable average guilt broken carry autumn ordinary actual ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "skull add brown expose knife jelly federal fault hand comic cable setup";
+var mnemonic = "outside travel game uncover drastic brush stamp latin cluster achieve seat cluster";

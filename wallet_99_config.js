@@ -1,1 +1,1 @@
-var mnemonic = "unusual buyer vivid tower pool negative pudding pulse cricket smart garbage frown";
+var mnemonic = "range rival crater market lady merge answer latin great win desert still";

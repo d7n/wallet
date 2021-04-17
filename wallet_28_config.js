@@ -1,1 +1,1 @@
-var mnemonic = "tent life two game myth ketchup benefit pitch ship lottery betray say";
+var mnemonic = "before soda moon labor snack olive inflict salute habit bind buffalo stem";

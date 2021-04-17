@@ -1,1 +1,1 @@
-var mnemonic = "tip door twenty ridge stable mushroom rather finger myth sample output fame";
+var mnemonic = "fever notice output powder analyst excite obey kangaroo quality panther unfold resist";

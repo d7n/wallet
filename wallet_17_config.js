@@ -1,1 +1,1 @@
-var mnemonic = "puppy silver style estate market punch cloud rice congress tobacco gesture humor";
+var mnemonic = "east group path buyer dove party decade pole news fortune climb sustain";

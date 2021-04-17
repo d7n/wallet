@@ -1,1 +1,1 @@
-var mnemonic = "vanish liquid tube pen bus poet mixed scene moon response echo book";
+var mnemonic = "piece future improve crack hello trust liar panel cause also fantasy region";

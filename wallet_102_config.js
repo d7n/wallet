@@ -1,1 +1,1 @@
-var mnemonic = "width spoil price ceiling anger crop bright glass inner word nest never";
+var mnemonic = "bunker rally saddle half east vast width crack dog still vanish pool";

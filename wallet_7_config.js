@@ -1,1 +1,1 @@
-var mnemonic = "welcome ask aerobic lemon style captain maze plug can inspire danger spring";
+var mnemonic = "hurt waste wall chicken sniff ticket hammer bag ecology roof grunt cover";

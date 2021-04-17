@@ -1,1 +1,1 @@
-var mnemonic = "cannon donate chunk idle mimic produce convince train almost hybrid panic route";
+var mnemonic = "moment alter spread ethics broken involve churn aisle shop busy coin dish";

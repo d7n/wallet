@@ -1,1 +1,1 @@
-var mnemonic = "cable tattoo oval soda flee save swamp busy hen tomato toss wave";
+var mnemonic = "enough dance fame pyramid tiger glue tomorrow mammal student refuse layer cabin";

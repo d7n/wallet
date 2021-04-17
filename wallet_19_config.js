@@ -1,1 +1,1 @@
-var mnemonic = "depth brief tenant series atom rural depend ski asset alley gym unable";
+var mnemonic = "refuse east market device dwarf grape second knee casual merge pigeon seek";

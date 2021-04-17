@@ -1,1 +1,1 @@
-var mnemonic = "horse radio close exact pilot job divide apple lyrics borrow output minor";
+var mnemonic = "punch place estate manage equal reform wage hybrid scare find jacket syrup";

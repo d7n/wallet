@@ -1,1 +1,1 @@
-var mnemonic = "auction strategy slab super soda clump damage minute suffer unfold cream surface";
+var mnemonic = "rack speed satisfy future drastic quit toddler banana novel achieve control liberty";

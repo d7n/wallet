@@ -1,1 +1,1 @@
-var mnemonic = "candy industry road appear topple already point enroll cement shift voyage fabric";
+var mnemonic = "match inquiry craft pet bicycle usual desert public normal teach angle steak";

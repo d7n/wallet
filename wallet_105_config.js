@@ -1,1 +1,1 @@
-var mnemonic = "exit crash pink obvious tissue hold good desk daring area firm fat";
+var mnemonic = "roast major picnic venture laundry amazing march canal peanut mesh clarify sustain";

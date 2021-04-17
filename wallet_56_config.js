@@ -1,1 +1,1 @@
-var mnemonic = "melt huge glide pizza elevator night this ceiling used blouse over early";
+var mnemonic = "spy duty edge scout intact assume pizza lumber speak inside derive already";

@@ -1,1 +1,1 @@
-var mnemonic = "merry neither toast nerve surge hip slice dilemma sample aunt clump jump";
+var mnemonic = "pride blouse scale anxiety else depth finger corn raven fetch tenant portion";

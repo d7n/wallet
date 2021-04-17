@@ -1,1 +1,1 @@
-var mnemonic = "fresh sausage entry prefer liar jeans make differ talk example ice dizzy";
+var mnemonic = "casual rural oil rose squirrel slim genuine core letter random visual auction";

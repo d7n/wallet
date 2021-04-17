@@ -1,1 +1,1 @@
-var mnemonic = "dog media together fury dish ankle sword sure member casino bachelor vicious";
+var mnemonic = "story table youth shrimp furnace phrase rescue crisp conduct private spatial gate";

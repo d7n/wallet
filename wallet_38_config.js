@@ -1,1 +1,1 @@
-var mnemonic = "fossil rival immune hair sound someone afraid velvet wrap enable copy draft";
+var mnemonic = "snake wink mechanic wise equal ugly spoil only display digital infant legend";

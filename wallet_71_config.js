@@ -1,1 +1,1 @@
-var mnemonic = "property piece rack source airport soccer toddler roof moon kid series office";
+var mnemonic = "film render thing hero various side sunset spike april solution similar universe";

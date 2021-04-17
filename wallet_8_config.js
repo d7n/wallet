@@ -1,1 +1,1 @@
-var mnemonic = "chest cave nation void question buffalo bread route close raw wedding supply";
+var mnemonic = "theory diesel dolphin round such edit book reduce kitten symbol snake vicious";

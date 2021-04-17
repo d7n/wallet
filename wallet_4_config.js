@@ -1,1 +1,1 @@
-var mnemonic = "wait hospital differ hunt viable teach helmet reason shiver laundry elbow athlete";
+var mnemonic = "antique wear execute day ready expose hunt cook van black toward humor";

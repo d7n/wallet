@@ -1,1 +1,1 @@
-var mnemonic = "grunt yellow mushroom lift essay truly subject zebra panther glide right warm";
+var mnemonic = "report bread pulse bird thank salon kiwi fat strike outside gate bacon";

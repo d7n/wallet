@@ -1,1 +1,1 @@
-var mnemonic = "shed invite believe broom audit cash panic forget security hub ripple push";
+var mnemonic = "release insect retreat want sort canal shock tornado like alert angle aunt";

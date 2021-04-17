@@ -1,1 +1,1 @@
-var mnemonic = "sister winner mushroom mix veteran clarify car short guide response tent layer";
+var mnemonic = "purity empower dream raven educate noble pitch practice town drill please where";

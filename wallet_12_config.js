@@ -1,1 +1,1 @@
-var mnemonic = "derive head goose valley december snack apart fire mass admit mango risk";
+var mnemonic = "sheriff smoke potato arrange safe crane chalk above top cruise eager abandon";

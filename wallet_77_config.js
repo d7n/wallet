@@ -1,1 +1,1 @@
-var mnemonic = "elbow pencil heart orphan fix parade seek amused exist army short age";
+var mnemonic = "heavy write age manage theme moment century minute local ecology search choose";

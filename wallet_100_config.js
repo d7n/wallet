@@ -1,1 +1,1 @@
-var mnemonic = "imitate winner song observe rough all elbow skill depend noodle escape real";
+var mnemonic = "length neck purpose miss razor possible video brush infant range useful nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "tank benefit fire state token steel reunion situate one chef decade mean";
+var mnemonic = "execute width marble left cotton system fiction crisp online rule round island";

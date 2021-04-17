@@ -1,1 +1,1 @@
-var mnemonic = "level switch enough pigeon copy cause attend museum crumble mail story sport";
+var mnemonic = "same circle coast defense hard dynamic avoid palace village catch maze screen";

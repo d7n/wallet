@@ -1,1 +1,1 @@
-var mnemonic = "blame use anger thrive infant vacuum tag web crazy shadow topic leg";
+var mnemonic = "industry disease then cool vivid planet spider ignore stool bundle large joke";

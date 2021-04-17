@@ -1,1 +1,1 @@
-var mnemonic = "rescue menu six violin marble diet group garage sample scrap tobacco holiday";
+var mnemonic = "movie comic clay void diesel lottery antenna slender idle tortoise unveil teach";

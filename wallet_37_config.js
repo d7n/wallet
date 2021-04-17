@@ -1,1 +1,1 @@
-var mnemonic = "raise blame alter salute stage consider genre vast wrong example assault dune";
+var mnemonic = "apart spin runway pizza swear tattoo help earn you whip craft exercise";

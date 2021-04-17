@@ -1,1 +1,1 @@
-var mnemonic = "angle unlock nominee issue change foster spot leisure circle twenty amazing click";
+var mnemonic = "morning cactus decide glimpse beyond bring taxi farm plunge wet finish airport";

@@ -1,1 +1,1 @@
-var mnemonic = "detail silver swallow confirm boss mammal soft police toilet wide insect slab";
+var mnemonic = "timber liquid oval sketch guilt stage blast banana guilt fold minute wet";

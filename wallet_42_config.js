@@ -1,1 +1,1 @@
-var mnemonic = "remain gain pink pact dinner turtle proof never afraid song pony please";
+var mnemonic = "spoon wagon actor morning salad script future ozone body swear milk faint";

@@ -1,1 +1,1 @@
-var mnemonic = "normal clinic dolphin mad push organ bargain minute embrace soup laptop swap";
+var mnemonic = "portion vote despair mix win motor lock bronze accuse random picture border";

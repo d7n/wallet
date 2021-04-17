@@ -1,1 +1,1 @@
-var mnemonic = "absurd scissors cake rebuild dutch motor snack crane child asset fluid earth";
+var mnemonic = "list tenant plate tape concert merry front donkey excuse bullet clip vital";

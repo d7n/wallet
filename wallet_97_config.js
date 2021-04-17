@@ -1,1 +1,1 @@
-var mnemonic = "flower voyage border chest ignore doctor crisp error rhythm fan purpose process";
+var mnemonic = "matter message million vacuum goat body planet syrup pass traffic goat sunset";

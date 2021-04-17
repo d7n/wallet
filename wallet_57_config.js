@@ -1,1 +1,1 @@
-var mnemonic = "minute annual wink dad inhale trade exhibit father lumber assume puppy item";
+var mnemonic = "sting dance month describe short reason empty client crazy night rough basic";

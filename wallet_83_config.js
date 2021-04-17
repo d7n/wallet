@@ -1,1 +1,1 @@
-var mnemonic = "bacon edge pudding chase sponsor erode rebel uniform claw sustain salon matter";
+var mnemonic = "fade mouse matrix poverty phone blossom next foster dutch dial degree napkin";

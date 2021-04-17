@@ -1,1 +1,1 @@
-var mnemonic = "fun degree issue title rather shell trick frown open loan entry reason";
+var mnemonic = "express gate demand theory adjust blade coil bring crush penalty rival path";

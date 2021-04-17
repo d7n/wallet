@@ -1,1 +1,1 @@
-var mnemonic = "know local pencil dune ripple dose license figure pioneer head offer type";
+var mnemonic = "keen upset area wall rescue runway tray actual wheat rich payment piano";

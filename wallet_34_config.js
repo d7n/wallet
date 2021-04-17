@@ -1,1 +1,1 @@
-var mnemonic = "copy junior drama kite genre million spray wonder project rocket reopen clap";
+var mnemonic = "silent insane banana subway virtual hour bomb wave find just hint soda";

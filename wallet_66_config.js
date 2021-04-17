@@ -1,1 +1,1 @@
-var mnemonic = "desk require truly above game debate local ahead champion another marble lamp";
+var mnemonic = "mansion bridge pretty purity ring speed train flash icon parade slogan alien";

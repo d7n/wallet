@@ -1,1 +1,1 @@
-var mnemonic = "drip holiday business original lecture wise omit track play zero place nephew";
+var mnemonic = "damage click night later corn vacant open wagon snack flag planet topic";

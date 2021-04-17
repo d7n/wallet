@@ -1,1 +1,1 @@
-var mnemonic = "ski unit slice impose tonight monitor tone prevent team day people climb";
+var mnemonic = "exercise radar bind share sport debate chronic poem run jelly rough trend";

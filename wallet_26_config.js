@@ -1,1 +1,1 @@
-var mnemonic = "gloom reform verify gate vicious present embrace meat grit girl provide oblige";
+var mnemonic = "cruel exclude swift mountain tuna inquiry shuffle supply dynamic estate also report";

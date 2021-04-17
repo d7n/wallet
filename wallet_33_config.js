@@ -1,1 +1,1 @@
-var mnemonic = "erupt inherit egg crack elite mask fruit couch furnace rail occur pattern";
+var mnemonic = "enhance pact syrup nominee kangaroo time few noodle balance february surface tooth";

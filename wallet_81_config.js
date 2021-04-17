@@ -1,1 +1,1 @@
-var mnemonic = "clap predict embark web property cotton private member country frost brick century";
+var mnemonic = "solid ready bomb stereo move scrub measure force unaware theme rule youth";

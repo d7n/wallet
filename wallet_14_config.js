@@ -1,1 +1,1 @@
-var mnemonic = "salon mixture abandon uphold charge discover poem arrange develop neck lunar all";
+var mnemonic = "symptom valid hand city elevator joy noodle assault decline mixed myself intact";

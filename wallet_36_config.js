@@ -1,1 +1,1 @@
-var mnemonic = "school snap silent shock insect stereo trophy found develop wink rug front";
+var mnemonic = "mimic jewel dinner high jacket liar surround bronze salmon pledge move giggle";

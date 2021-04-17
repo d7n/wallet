@@ -1,1 +1,1 @@
-var mnemonic = "razor reveal observe wet inflict virus cup crazy attract flip hurdle speed";
+var mnemonic = "seat orange inner more inquiry tell mansion one sadness onion village actress";

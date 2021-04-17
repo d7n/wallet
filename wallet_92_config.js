@@ -1,1 +1,1 @@
-var mnemonic = "cook furnace video obtain about truly curious stairs tower outside make wise";
+var mnemonic = "thought horse pistol shift birth thunder soup immune afford achieve allow dynamic";

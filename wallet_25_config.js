@@ -1,1 +1,1 @@
-var mnemonic = "either winner glare barrel prepare arm ecology exile glance any afford chaos";
+var mnemonic = "vicious century exotic six summer home opinion orange dignity frame cover extend";

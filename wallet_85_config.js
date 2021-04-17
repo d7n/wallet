@@ -1,1 +1,1 @@
-var mnemonic = "left left prison citizen among gossip project toilet elite shy gold rocket";
+var mnemonic = "aerobic unique stool dash flame drive glove dress gather carbon attend deal";

@@ -1,1 +1,1 @@
-var mnemonic = "report pool lake emerge rifle cushion host kind ginger install oppose retire";
+var mnemonic = "prepare rubber business cannon violin bomb income crack caution bless shoulder record";
