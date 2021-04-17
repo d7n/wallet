@@ -1,1 +1,1 @@
-var mnemonic = "buyer unfold cat refuse drip purse black release boss crane fit feed";
+var mnemonic = "detail silver swallow confirm boss mammal soft police toilet wide insect slab";

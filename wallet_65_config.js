@@ -1,1 +1,1 @@
-var mnemonic = "rocket gun knee inject ignore exercise water race enforce behave match net";
+var mnemonic = "merry neither toast nerve surge hip slice dilemma sample aunt clump jump";

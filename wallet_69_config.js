@@ -1,1 +1,1 @@
-var mnemonic = "lumber end shoe catch course december join music hat shield fall tired";
+var mnemonic = "normal clinic dolphin mad push organ bargain minute embrace soup laptop swap";

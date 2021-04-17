@@ -1,1 +1,1 @@
-var mnemonic = "latin moral tone upgrade hip phone clerk cream matter crucial among exotic";
+var mnemonic = "spend cruel mixture tiny raw sweet silk harsh novel swing organ game";

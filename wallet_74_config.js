@@ -1,1 +1,1 @@
-var mnemonic = "scorpion cluster kit push another bonus benefit fun crack nerve shell few";
+var mnemonic = "absurd scissors cake rebuild dutch motor snack crane child asset fluid earth";

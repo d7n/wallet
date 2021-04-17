@@ -1,1 +1,1 @@
-var mnemonic = "erase budget twist below guilt hand real mouse cheese endless tray voice";
+var mnemonic = "dinner glad practice true tongue sell together arena liquid dinner page fog";

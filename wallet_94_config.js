@@ -1,1 +1,1 @@
-var mnemonic = "deposit brick ramp solid extra ritual stuff donate media hurry project marble";
+var mnemonic = "husband cloth accident hub wait congress farm sweet cupboard arctic protect vintage";

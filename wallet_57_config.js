@@ -1,1 +1,1 @@
-var mnemonic = "double opinion museum rib machine fat clerk little crazy deer dish jump";
+var mnemonic = "minute annual wink dad inhale trade exhibit father lumber assume puppy item";

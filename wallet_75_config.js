@@ -1,1 +1,1 @@
-var mnemonic = "train spare wasp galaxy pyramid grab vintage nominee trumpet remind brother defense";
+var mnemonic = "timber sample merit sunset coyote habit orange popular giant panel friend foot";

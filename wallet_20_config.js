@@ -1,1 +1,1 @@
-var mnemonic = "fossil mule sense bone huge enact reflect ten steel gift bridge divorce";
+var mnemonic = "hurt often stuff delay engine man lonely they quality dolphin steak priority";

@@ -1,1 +1,1 @@
-var mnemonic = "under siren frog verb diary between tower prevent hotel door other engage";
+var mnemonic = "blame use anger thrive infant vacuum tag web crazy shadow topic leg";

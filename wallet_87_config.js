@@ -1,1 +1,1 @@
-var mnemonic = "sea panic double life client dice possible issue into level table resist";
+var mnemonic = "food despair roast suspect dizzy blossom right parrot carpet control rival chuckle";

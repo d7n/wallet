@@ -1,1 +1,1 @@
-var mnemonic = "shoot galaxy industry march fiber fence circle ring ahead among quick proof";
+var mnemonic = "bottom what artist drink disagree powder behave vicious sadness outdoor phone soda";

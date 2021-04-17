@@ -1,1 +1,1 @@
-var mnemonic = "rate they lesson fitness flower slab evoke scene fringe visa meat foil";
+var mnemonic = "toe glad wrist odor mule garage avocado section hello echo speed symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch luggage outside wide illness guide right trial industry clown asset marriage";
+var mnemonic = "fresh sausage entry prefer liar jeans make differ talk example ice dizzy";

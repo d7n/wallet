@@ -1,1 +1,1 @@
-var mnemonic = "sail mistake seminar twenty trouble hollow drama forest pioneer twelve business media";
+var mnemonic = "identify indoor you erosion awake faith satisfy grace human soon grit card";

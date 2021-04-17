@@ -1,1 +1,1 @@
-var mnemonic = "spider doll basic rookie unaware monkey panic trip provide assault cereal sugar";
+var mnemonic = "economy potato artwork people erode sister jaguar forest pilot give stomach quarter";

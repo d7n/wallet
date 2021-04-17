@@ -1,1 +1,1 @@
-var mnemonic = "start churn find narrow answer cluster genius deal give ill boat crane";
+var mnemonic = "road viable science siren cushion illness long upon potato expose fancy yard";

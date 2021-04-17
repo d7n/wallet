@@ -1,1 +1,1 @@
-var mnemonic = "predict media blouse shed enact soon pipe butter oak dad helmet evolve";
+var mnemonic = "cannon donate chunk idle mimic produce convince train almost hybrid panic route";

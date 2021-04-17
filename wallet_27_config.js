@@ -1,1 +1,1 @@
-var mnemonic = "easy fire husband tobacco impact mirror ancient tomato regular again dune sunset";
+var mnemonic = "critic damage hospital garden aunt torch pave average forest write gaze hidden";

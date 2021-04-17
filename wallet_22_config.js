@@ -1,1 +1,1 @@
-var mnemonic = "drastic grid excuse filter very leopard lemon service siren hill they chimney";
+var mnemonic = "shrug pause quick skirt long goose delay effort cycle canyon crystal inherit";

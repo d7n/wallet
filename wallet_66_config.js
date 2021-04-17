@@ -1,1 +1,1 @@
-var mnemonic = "summer nerve trend sniff obey disease update right cruise anchor such medal";
+var mnemonic = "desk require truly above game debate local ahead champion another marble lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "drama thrive gaze music long lamp distance pelican basket speed harsh boy";
+var mnemonic = "gloom reform verify gate vicious present embrace meat grit girl provide oblige";

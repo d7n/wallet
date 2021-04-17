@@ -1,1 +1,1 @@
-var mnemonic = "depend loyal divert burger van canal cover assault must mean forward metal";
+var mnemonic = "either winner glare barrel prepare arm ecology exile glance any afford chaos";

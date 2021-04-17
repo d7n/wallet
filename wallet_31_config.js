@@ -1,1 +1,1 @@
-var mnemonic = "tackle sketch blush magic fury until wrap crazy snap phrase clever provide";
+var mnemonic = "hamster siren slogan health awesome pink junk across trust proof expect alter";

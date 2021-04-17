@@ -1,1 +1,1 @@
-var mnemonic = "provide program leave hole found baby crack six smooth hover solid copper";
+var mnemonic = "stand term blood tumble decade embrace deny much job green guitar crane";

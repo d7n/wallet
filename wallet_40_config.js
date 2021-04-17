@@ -1,1 +1,1 @@
-var mnemonic = "about board joke volcano purpose winter turn erosion cook crunch mansion track";
+var mnemonic = "profit easily sting jar thought credit blade marriage scrub since drastic climb";

@@ -1,1 +1,1 @@
-var mnemonic = "gas motor trim number salon radio call camera inmate twin episode excess";
+var mnemonic = "salon mixture abandon uphold charge discover poem arrange develop neck lunar all";

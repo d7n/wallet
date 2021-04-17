@@ -1,1 +1,1 @@
-var mnemonic = "credit easily trap oven end flash swap gadget rely churn upset where";
+var mnemonic = "elbow pencil heart orphan fix parade seek amused exist army short age";

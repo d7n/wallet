@@ -1,1 +1,1 @@
-var mnemonic = "wing chef like wealth claim jazz blast speed legal album elbow team";
+var mnemonic = "rice heart aim arrive romance story panel time trim cabbage gesture diagram";

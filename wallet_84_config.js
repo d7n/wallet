@@ -1,1 +1,1 @@
-var mnemonic = "sauce about inmate hawk napkin giggle public garlic caught record clarify purity";
+var mnemonic = "aisle inch legend hidden insect library claim resource voyage purity whip fun";

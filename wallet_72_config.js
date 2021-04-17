@@ -1,1 +1,1 @@
-var mnemonic = "tobacco account record call oven hurt safe myth mule hint never become";
+var mnemonic = "candy industry road appear topple already point enroll cement shift voyage fabric";

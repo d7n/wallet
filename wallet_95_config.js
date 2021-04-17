@@ -1,1 +1,1 @@
-var mnemonic = "umbrella gun group crane garment wisdom submit brush clump inform adjust paddle";
+var mnemonic = "lend grid print hawk drink holiday desk frown amount urge much add";

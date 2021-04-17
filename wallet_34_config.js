@@ -1,1 +1,1 @@
-var mnemonic = "woman play because amused senior avoid inquiry volcano reform minor whale toward";
+var mnemonic = "copy junior drama kite genre million spray wonder project rocket reopen clap";

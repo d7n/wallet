@@ -1,1 +1,1 @@
-var mnemonic = "vault fan soup soap keen unveil guess dance aerobic chalk bulk food";
+var mnemonic = "spirit album stem floor cart tube novel more flat struggle defy tattoo";

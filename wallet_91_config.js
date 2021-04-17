@@ -1,1 +1,1 @@
-var mnemonic = "saddle draft soap aerobic save feed allow close exclude twist weird write";
+var mnemonic = "float share tortoise catalog audit stem antenna tip paper bag kidney anchor";

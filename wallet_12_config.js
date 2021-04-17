@@ -1,1 +1,1 @@
-var mnemonic = "assault silver lemon jump cream scan leave wasp accident laugh rubber cup";
+var mnemonic = "derive head goose valley december snack apart fire mass admit mango risk";

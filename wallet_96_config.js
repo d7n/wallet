@@ -1,1 +1,1 @@
-var mnemonic = "chapter thunder sing evidence fetch pyramid vital drip family knee cash plastic";
+var mnemonic = "smile rapid liquid diesel stuff sketch expand turkey indoor gap owner very";

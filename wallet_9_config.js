@@ -1,1 +1,1 @@
-var mnemonic = "truck hood asthma marriage health clerk hair scale casual tuna length media";
+var mnemonic = "opinion misery rival citizen buzz alter praise capable distance circle goat habit";

@@ -1,1 +1,1 @@
-var mnemonic = "blind heart book mom caution dutch end fog candy silly shed subject";
+var mnemonic = "lyrics kingdom saddle make person couch wreck beef easy suggest village achieve";

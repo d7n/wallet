@@ -1,1 +1,1 @@
-var mnemonic = "suffer biology prepare trumpet tiger tank lazy cradle churn price soup element";
+var mnemonic = "emerge arctic club sense peace build review open image village issue section";

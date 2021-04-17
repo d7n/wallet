@@ -1,1 +1,1 @@
-var mnemonic = "smart absorb social remain clarify sight endless illness effort dumb couple jelly";
+var mnemonic = "lake option fancy sort assist seek gaze ancient sea enhance tongue blast";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha auction heavy whisper spoil board hawk physical evoke radio panic filter";
+var mnemonic = "present fade thing clay fine unusual figure ability depth flight maze old";

@@ -1,1 +1,1 @@
-var mnemonic = "cool slight depend bike spoil reduce omit lock improve immense mixed neutral";
+var mnemonic = "auction strategy slab super soda clump damage minute suffer unfold cream surface";

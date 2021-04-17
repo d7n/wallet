@@ -1,1 +1,1 @@
-var mnemonic = "match shy brass match receive catch media believe gold intact oblige frame";
+var mnemonic = "rule amount bird such clog term strategy vacant orchard clip empty oil";

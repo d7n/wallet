@@ -1,1 +1,1 @@
-var mnemonic = "patient eager drama arctic special romance client reform escape wood eye visit";
+var mnemonic = "dog media together fury dish ankle sword sure member casino bachelor vicious";

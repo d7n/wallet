@@ -1,1 +1,1 @@
-var mnemonic = "fury alarm fatal frequent turn price waste enough slight around mango uphold";
+var mnemonic = "combine trial casual immense canoe ostrich frozen dismiss burst cancel boil inner";

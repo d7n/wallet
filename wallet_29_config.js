@@ -1,1 +1,1 @@
-var mnemonic = "limit grant spell apart gown sand nice rule glory subway snake day";
+var mnemonic = "record mom issue pottery silver dice movie skirt merit math elite column";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel letter retire rib connect dolphin hand gain verify cable cargo cube";
+var mnemonic = "rescue menu six violin marble diet group garage sample scrap tobacco holiday";

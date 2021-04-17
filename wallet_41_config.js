@@ -1,1 +1,1 @@
-var mnemonic = "moment wheat frog island theme lawsuit arrive dust fiscal tail glow dynamic";
+var mnemonic = "fun degree issue title rather shell trick frown open loan entry reason";

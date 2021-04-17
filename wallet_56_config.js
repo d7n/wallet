@@ -1,1 +1,1 @@
-var mnemonic = "injury deer home adapt situate intact adapt cool mosquito reject double toss";
+var mnemonic = "melt huge glide pizza elevator night this ceiling used blouse over early";

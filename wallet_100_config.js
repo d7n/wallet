@@ -1,1 +1,1 @@
-var mnemonic = "antenna dream urban tonight embrace forest cactus volcano source sweet canvas perfect";
+var mnemonic = "imitate winner song observe rough all elbow skill depend noodle escape real";

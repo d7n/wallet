@@ -1,1 +1,1 @@
-var mnemonic = "left pyramid feature nominee deal dignity abuse cute damage amount limb crime";
+var mnemonic = "bacon edge pudding chase sponsor erode rebel uniform claw sustain salon matter";

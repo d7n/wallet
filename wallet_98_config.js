@@ -1,1 +1,1 @@
-var mnemonic = "tragic tail twist enhance cluster venue deer light father best pond muscle";
+var mnemonic = "shed invite believe broom audit cash panic forget security hub ripple push";

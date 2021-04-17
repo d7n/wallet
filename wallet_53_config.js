@@ -1,1 +1,1 @@
-var mnemonic = "rain slender bachelor brand attract pitch lawsuit orphan post dinosaur unknown host";
+var mnemonic = "razor reveal observe wet inflict virus cup crazy attract flip hurdle speed";

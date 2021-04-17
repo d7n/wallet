@@ -1,1 +1,1 @@
-var mnemonic = "jeans antique film afford fashion flag trash reflect school brand load disorder";
+var mnemonic = "loop nasty save icon era enact brick scrap useful chaos spot reveal";

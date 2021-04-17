@@ -1,1 +1,1 @@
-var mnemonic = "catalog mouse badge december lock live shed arch purity toss oxygen sword";
+var mnemonic = "guard close depart border rival skull street tone trouble random issue blood";

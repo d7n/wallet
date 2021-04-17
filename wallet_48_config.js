@@ -1,1 +1,1 @@
-var mnemonic = "kid glass thrive used shed reunion purse fog upset recipe half honey";
+var mnemonic = "drip holiday business original lecture wise omit track play zero place nephew";

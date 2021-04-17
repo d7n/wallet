@@ -1,1 +1,1 @@
-var mnemonic = "fault foot lady bright amateur stamp quote snow draft desert merry trick";
+var mnemonic = "width spoil price ceiling anger crop bright glass inner word nest never";

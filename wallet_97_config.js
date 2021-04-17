@@ -1,1 +1,1 @@
-var mnemonic = "frequent seed pony color grow supply flat scare limit used embrace please";
+var mnemonic = "flower voyage border chest ignore doctor crisp error rhythm fan purpose process";

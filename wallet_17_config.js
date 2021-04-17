@@ -1,1 +1,1 @@
-var mnemonic = "cook destroy cup vague spell alien win file now depart erode legal";
+var mnemonic = "puppy silver style estate market punch cloud rice congress tobacco gesture humor";

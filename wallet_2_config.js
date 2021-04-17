@@ -1,1 +1,1 @@
-var mnemonic = "seek play bundle autumn left ask torch spoil avoid century thing tuition";
+var mnemonic = "simple dish sudden next submit universe despair help waste poet bulb soldier";

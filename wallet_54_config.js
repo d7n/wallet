@@ -1,1 +1,1 @@
-var mnemonic = "access flee saddle share goddess table slice woman lift middle blade side";
+var mnemonic = "glimpse lonely repair hedgehog audit stay vicious slice donkey corn course perfect";

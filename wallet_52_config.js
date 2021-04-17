@@ -1,1 +1,1 @@
-var mnemonic = "strong absurd awesome else equal drop height donate left blood plate dose";
+var mnemonic = "exercise priority denial horn obvious duck also giant spice arch ethics slot";

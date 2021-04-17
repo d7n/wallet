@@ -1,1 +1,1 @@
-var mnemonic = "vital moon hurdle child when section legal work kick kitchen holiday admit";
+var mnemonic = "holiday sport awake grape echo middle bacon repair deny trouble swarm major";

@@ -1,1 +1,1 @@
-var mnemonic = "chase grain march finger settle flock follow item slender reject asthma case";
+var mnemonic = "school snap silent shock insect stereo trophy found develop wink rug front";

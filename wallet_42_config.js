@@ -1,1 +1,1 @@
-var mnemonic = "embark alter patch body protect thing ski circle leg rain snow van";
+var mnemonic = "remain gain pink pact dinner turtle proof never afraid song pony please";

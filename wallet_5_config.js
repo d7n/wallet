@@ -1,1 +1,1 @@
-var mnemonic = "grab face fan cancel dumb swamp result wild skirt work resemble peanut";
+var mnemonic = "report pool lake emerge rifle cushion host kind ginger install oppose retire";

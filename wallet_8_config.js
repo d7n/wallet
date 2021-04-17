@@ -1,1 +1,1 @@
-var mnemonic = "tape morning portion elite purchase mixed evil stool rival case dice vital";
+var mnemonic = "chest cave nation void question buffalo bread route close raw wedding supply";

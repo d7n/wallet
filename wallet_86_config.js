@@ -1,1 +1,1 @@
-var mnemonic = "fiction miss stumble odor cheese uniform inspire public reform crane plunge organ";
+var mnemonic = "crash vital cargo fence quality verify best often gallery nature pattern expect";

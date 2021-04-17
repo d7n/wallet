@@ -1,1 +1,1 @@
-var mnemonic = "addict flame hen crisp blanket essence obey neglect girl neither remove swear";
+var mnemonic = "tip door twenty ridge stable mushroom rather finger myth sample output fame";

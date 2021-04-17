@@ -1,1 +1,1 @@
-var mnemonic = "plastic chimney inside aim evil cram near message service bacon strong sketch";
+var mnemonic = "horse radio close exact pilot job divide apple lyrics borrow output minor";

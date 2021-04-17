@@ -1,1 +1,1 @@
-var mnemonic = "trophy distance edit crime always dutch bonus test size race wisdom matter";
+var mnemonic = "vanish liquid tube pen bus poet mixed scene moon response echo book";

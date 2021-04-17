@@ -1,1 +1,1 @@
-var mnemonic = "flame dry october soup donkey common rice flame subject onion fee begin";
+var mnemonic = "level switch enough pigeon copy cause attend museum crumble mail story sport";

@@ -1,1 +1,1 @@
-var mnemonic = "defense genuine device team flock appear tobacco world enhance toast later inflict";
+var mnemonic = "wealth project crash crucial hospital opera private hat snap amused electric inhale";

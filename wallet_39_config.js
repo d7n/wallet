@@ -1,1 +1,1 @@
-var mnemonic = "polar setup sock lazy raccoon dinosaur raven cheap egg quick scare crisp";
+var mnemonic = "angle unlock nominee issue change foster spot leisure circle twenty amazing click";

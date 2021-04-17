@@ -1,1 +1,1 @@
-var mnemonic = "surprise huge master require eyebrow suggest mimic sister chalk demise muffin taste";
+var mnemonic = "cook furnace video obtain about truly curious stairs tower outside make wise";

@@ -1,1 +1,1 @@
-var mnemonic = "dog soon envelope utility repeat can flee sunny soup amused verify fade";
+var mnemonic = "consider panic fatal depth thrive anxiety exile arrest earn child appear grunt";

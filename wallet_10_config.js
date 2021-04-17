@@ -1,1 +1,1 @@
-var mnemonic = "betray useless lounge easy denial insane limb tiny meadow curve extend net";
+var mnemonic = "hello nice one require tourist that produce deliver two emotion error unfair";

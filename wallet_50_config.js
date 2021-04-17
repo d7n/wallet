@@ -1,1 +1,1 @@
-var mnemonic = "amateur guard effort cross spike size various depth oven desert fall car";
+var mnemonic = "cable tattoo oval soda flee save swamp busy hen tomato toss wave";

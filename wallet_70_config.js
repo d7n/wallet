@@ -1,1 +1,1 @@
-var mnemonic = "farm shoe pumpkin midnight control buffalo oval cake desk valley kitchen medal";
+var mnemonic = "tank benefit fire state token steel reunion situate one chef decade mean";

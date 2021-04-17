@@ -1,1 +1,1 @@
-var mnemonic = "income appear there layer science screen boost glue crucial spray gain mechanic";
+var mnemonic = "tent life two game myth ketchup benefit pitch ship lottery betray say";

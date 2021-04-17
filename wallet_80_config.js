@@ -1,1 +1,1 @@
-var mnemonic = "inhale girl obscure helmet aunt lift strategy van fog thing ball judge";
+var mnemonic = "ski unit slice impose tonight monitor tone prevent team day people climb";

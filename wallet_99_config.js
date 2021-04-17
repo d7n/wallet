@@ -1,1 +1,1 @@
-var mnemonic = "afraid damp fine runway monitor cotton satoshi rice potato chat stove turtle";
+var mnemonic = "unusual buyer vivid tower pool negative pudding pulse cricket smart garbage frown";

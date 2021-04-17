@@ -1,1 +1,1 @@
-var mnemonic = "topic biology tongue write donor usage wealth camp company gorilla cave arm";
+var mnemonic = "acid skirt stay save seat rail bamboo voice top trade castle replace";

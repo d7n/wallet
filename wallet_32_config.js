@@ -1,1 +1,1 @@
-var mnemonic = "core fault volume coffee lonely sing pretty confirm feature base vintage lazy";
+var mnemonic = "method gas approve link modify adult fossil sound unusual point arrange pond";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust dog chunk poet mistake allow wrestle toddler dignity mystery knock same";
+var mnemonic = "verb tray scorpion antenna volume struggle girl hockey solar insane purpose doctor";

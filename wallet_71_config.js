@@ -1,1 +1,1 @@
-var mnemonic = "breeze light sphere rude album rate tired trash zebra orange carpet thought";
+var mnemonic = "property piece rack source airport soccer toddler roof moon kid series office";

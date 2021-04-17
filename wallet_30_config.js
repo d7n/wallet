@@ -1,1 +1,1 @@
-var mnemonic = "wagon shoulder wonder prevent satoshi jelly hurdle above insect south health month";
+var mnemonic = "rebuild they gauge minimum remind lens barrel unfold hero discover meat become";

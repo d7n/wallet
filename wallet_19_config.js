@@ -1,1 +1,1 @@
-var mnemonic = "physical pig glass auction hurdle olive cheap monkey salt very mobile canoe";
+var mnemonic = "depth brief tenant series atom rural depend ski asset alley gym unable";
