@@ -1,1 +1,1 @@
-var mnemonic = "kidney pig regret ready theory river absorb pigeon total method dad radio";
+var mnemonic = "weapon elite attract path dress fitness logic oil caught crumble cinnamon april";

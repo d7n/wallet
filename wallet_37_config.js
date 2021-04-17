@@ -1,1 +1,1 @@
-var mnemonic = "drum chest news soap curious nation action next cargo file worry dance";
+var mnemonic = "ivory quality alpha giggle grit rural snake follow sweet any pilot antique";

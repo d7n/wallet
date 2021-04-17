@@ -1,1 +1,1 @@
-var mnemonic = "ripple cram common head sell absorb juice false recall appear front deer";
+var mnemonic = "decline flag wild gorilla pistol increase picnic response consider expand amount symptom";

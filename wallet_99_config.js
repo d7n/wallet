@@ -1,1 +1,1 @@
-var mnemonic = "vital strike outside hold damage quit rookie video april grass problem step";
+var mnemonic = "release advice vague engage strategy vivid vessel desk two trend print accident";

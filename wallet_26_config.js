@@ -1,1 +1,1 @@
-var mnemonic = "dinner any ramp extend card under lab exercise cute effort trend card";
+var mnemonic = "scheme radar neglect oval sound noise know laugh brain awake oval gloom";

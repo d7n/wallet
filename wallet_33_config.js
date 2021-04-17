@@ -1,1 +1,1 @@
-var mnemonic = "hundred renew legend cook area boost sustain burger fiscal crisp romance claim";
+var mnemonic = "pet citizen gown rather bomb vacuum great narrow flag miss brain seven";

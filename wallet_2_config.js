@@ -1,1 +1,1 @@
-var mnemonic = "update execute shadow false plate element social cherry panther flight obscure nice";
+var mnemonic = "game arrest length render trade buzz digital slide state risk truth hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "glove limb dumb ginger cruise anger dutch unit much provide void near";
+var mnemonic = "jacket involve catalog entire milk rally portion proof audit resource atom blush";

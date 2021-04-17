@@ -1,1 +1,1 @@
-var mnemonic = "virtual drum forward expand wash deal soap alcohol river spell style umbrella";
+var mnemonic = "worth peanut urban soldier later bunker lab defy saddle bench two avoid";

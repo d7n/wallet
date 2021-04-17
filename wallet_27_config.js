@@ -1,1 +1,1 @@
-var mnemonic = "grab weasel city bubble cupboard save retreat hurdle beef food mountain grant";
+var mnemonic = "repair raise already away season spirit inmate fence erode rotate movie leisure";

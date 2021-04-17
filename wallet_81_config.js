@@ -1,1 +1,1 @@
-var mnemonic = "labor caught lottery room slow accident lazy defense shrug tomorrow twenty off";
+var mnemonic = "device auto flag process author nice parent economy view fork grit fortune";

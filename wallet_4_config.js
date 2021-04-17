@@ -1,1 +1,1 @@
-var mnemonic = "mandate secret around duty atom deputy lunch robot cute dwarf autumn yard";
+var mnemonic = "sauce goddess goose nothing public pigeon rookie shrug hip breeze chunk photo";

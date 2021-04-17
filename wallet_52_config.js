@@ -1,1 +1,1 @@
-var mnemonic = "tent lyrics foil company indicate atom what focus that father arch sea";
+var mnemonic = "muscle forget stamp bus nut camp visual aware diary crazy fire foam";

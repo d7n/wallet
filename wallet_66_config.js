@@ -1,1 +1,1 @@
-var mnemonic = "example danger sweet fence bring tuition practice short blue monkey dance aisle";
+var mnemonic = "ability hub dumb gasp barrel mask grape between plate ensure innocent employ";

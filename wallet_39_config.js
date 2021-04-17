@@ -1,1 +1,1 @@
-var mnemonic = "lemon mother like chicken they have loop cat sphere toe hotel combine";
+var mnemonic = "wreck hope shock finish brief box promote regret verb galaxy assault gun";

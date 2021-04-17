@@ -1,1 +1,1 @@
-var mnemonic = "can any nominee true tray seed autumn receive rigid pulp spot defy";
+var mnemonic = "people cash pitch guilt toss smoke asthma fork erupt clay broken mass";

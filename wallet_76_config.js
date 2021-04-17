@@ -1,1 +1,1 @@
-var mnemonic = "please audit life orchard august bless upper special critic behind inmate black";
+var mnemonic = "either middle wreck bracket zebra asset tomato monster adult lamp brisk ghost";

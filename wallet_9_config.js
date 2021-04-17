@@ -1,1 +1,1 @@
-var mnemonic = "step muffin airport stone lend must ask mutual drink priority purpose collect";
+var mnemonic = "intact absorb night nephew mango fatigue slide either fatigue sudden icon churn";

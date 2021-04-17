@@ -1,1 +1,1 @@
-var mnemonic = "water give finger screen say renew gas retreat topple grape whip winner";
+var mnemonic = "provide whip fancy once dawn priority trap canoe fall casino omit express";

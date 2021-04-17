@@ -1,1 +1,1 @@
-var mnemonic = "october name pink treat thunder art rookie actual dad family vicious horse";
+var mnemonic = "witness jealous lesson toward zone endless wire that garlic fun bright edge";

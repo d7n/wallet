@@ -1,1 +1,1 @@
-var mnemonic = "example elevator network toast mimic grief refuse thumb jazz trophy own order";
+var mnemonic = "check tell swarm zoo road wife account adjust critic ability flush cigar";

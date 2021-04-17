@@ -1,1 +1,1 @@
-var mnemonic = "throw dune job column plate agree fresh drink dry fresh spirit dress";
+var mnemonic = "bridge mention task fly early prison nest keen return limb wage warrior";

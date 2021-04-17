@@ -1,1 +1,1 @@
-var mnemonic = "pistol yellow lounge then still initial robust tribe grape spoil solution wise";
+var mnemonic = "mesh gather cool breeze gain gas inspire estate olympic basket cradle music";

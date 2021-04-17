@@ -1,1 +1,1 @@
-var mnemonic = "olympic pony canyon shed ill afford twenty cotton angle rabbit celery galaxy";
+var mnemonic = "fault model blind movie lumber state gloom attitude leave virus country neglect";

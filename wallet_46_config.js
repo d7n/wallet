@@ -1,1 +1,1 @@
-var mnemonic = "maximum detail sell trap relax chicken park ship alter coconut foil robot";
+var mnemonic = "laundry when cake coconut hood sniff winner march dog front deliver casual";

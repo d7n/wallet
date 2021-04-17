@@ -1,1 +1,1 @@
-var mnemonic = "math raven chest sand slab item deny wise invite patrol laptop column";
+var mnemonic = "glance two liberty eyebrow tragic burden dinosaur wealth gather cross busy group";

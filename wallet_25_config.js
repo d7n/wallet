@@ -1,1 +1,1 @@
-var mnemonic = "equal orphan tray clinic business budget found legend duck hollow follow bomb";
+var mnemonic = "poet inside ticket cupboard reject hammer disagree cycle man puzzle ecology crunch";

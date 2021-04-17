@@ -1,1 +1,1 @@
-var mnemonic = "female vocal discover avoid still drip raw give vital pledge access mean";
+var mnemonic = "pepper office admit borrow term inmate glide alcohol tell alley powder dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "history canyon true hole route bachelor employ gossip member bounce liberty scare";
+var mnemonic = "title hurt obtain property snap ensure pink exist lumber coffee unaware dutch";

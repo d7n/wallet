@@ -1,1 +1,1 @@
-var mnemonic = "train spoon level normal stool rifle canal surge found acoustic short gadget";
+var mnemonic = "connect gloom fashion fit fatigue recipe twelve tool wing stool jungle work";

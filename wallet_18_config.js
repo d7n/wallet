@@ -1,1 +1,1 @@
-var mnemonic = "verb trap cause rail april camp exit coach produce order adult scorpion";
+var mnemonic = "casino lyrics idea escape among bean cancel place catalog paper fall inhale";

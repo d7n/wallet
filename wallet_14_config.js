@@ -1,1 +1,1 @@
-var mnemonic = "trouble cry cabbage hire lobster silver renew arena fresh pink result nut";
+var mnemonic = "unlock about faint pledge own cereal infant cool pact fruit woman spoil";

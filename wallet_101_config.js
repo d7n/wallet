@@ -1,1 +1,1 @@
-var mnemonic = "join minor segment elegant awesome task smooth much again claim crop penalty";
+var mnemonic = "recycle notice quantum payment claw tomorrow clip cause grunt wish tumble oblige";

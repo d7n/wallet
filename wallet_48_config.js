@@ -1,1 +1,1 @@
-var mnemonic = "only slush silk fancy bunker present firm melody immune name tone upset";
+var mnemonic = "cable penalty parade stock word time outside stereo drive fat invest crime";

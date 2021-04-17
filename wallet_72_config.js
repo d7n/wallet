@@ -1,1 +1,1 @@
-var mnemonic = "beyond sentence nut rigid arrive gospel slight lizard paddle poverty famous wedding";
+var mnemonic = "law already upon capital bar hire term master leaf put cement ahead";

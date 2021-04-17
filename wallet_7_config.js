@@ -1,1 +1,1 @@
-var mnemonic = "fit fish bonus disease drift sleep twenty hidden ill elder service cat";
+var mnemonic = "since swarm endorse pepper curious prefer rail region depth cart child weapon";

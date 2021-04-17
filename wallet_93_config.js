@@ -1,1 +1,1 @@
-var mnemonic = "bracket dash action save december limit hair jazz prison forward idle head";
+var mnemonic = "side cargo fog pudding topic design image also voyage truth olympic faint";

@@ -1,1 +1,1 @@
-var mnemonic = "worry pony tool trumpet hazard present silk update inner burst banana glad";
+var mnemonic = "silent tuition uniform glove cluster company track action certain entire flash dolphin";

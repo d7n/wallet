@@ -1,1 +1,1 @@
-var mnemonic = "false cube write tornado cushion exchange settle foot debate disagree wild empower";
+var mnemonic = "harbor faculty sibling struggle tennis puzzle tired duck method proof pyramid diet";

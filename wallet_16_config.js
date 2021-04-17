@@ -1,1 +1,1 @@
-var mnemonic = "near ranch trash limb deposit head boy frame camera detect place range";
+var mnemonic = "provide master segment fiction oyster bottom pause fetch grab force baby april";

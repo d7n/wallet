@@ -1,1 +1,1 @@
-var mnemonic = "cruise license deliver attack life silver curious mystery knife theme that own";
+var mnemonic = "crew spare vital reduce bulb husband mango student report govern milk elevator";

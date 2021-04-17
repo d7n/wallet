@@ -1,1 +1,1 @@
-var mnemonic = "photo capital absorb fossil timber panic chapter destroy expose large powder royal";
+var mnemonic = "remind phrase boil abandon excite scrub sketch salon strong timber cradle replace";

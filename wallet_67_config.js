@@ -1,1 +1,1 @@
-var mnemonic = "insane swamp hip left icon guide fortune traffic system gun okay know";
+var mnemonic = "feel era net puppy stool vehicle slow rigid impact clever unfold symptom";

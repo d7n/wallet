@@ -1,1 +1,1 @@
-var mnemonic = "mobile during apart banana pink weasel plastic monkey mother render denial brother";
+var mnemonic = "focus brave vault lamp grant answer winter mammal sing engine video erode";

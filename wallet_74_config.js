@@ -1,1 +1,1 @@
-var mnemonic = "fire very dentist snap grain crucial rain sketch add basket reward main";
+var mnemonic = "history alcohol zoo margin arrive result sphere punch choose daughter frame vicious";

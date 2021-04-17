@@ -1,1 +1,1 @@
-var mnemonic = "fame curve trophy prepare rapid nerve share upper educate slide trash viable";
+var mnemonic = "orient lyrics deputy toss know traffic season romance record away make clown";

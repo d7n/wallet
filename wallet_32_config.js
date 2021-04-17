@@ -1,1 +1,1 @@
-var mnemonic = "copper erupt again lab toilet dragon blur earth zero beyond oak flame";
+var mnemonic = "shoe gym second income bitter boil tank pact help doll similar captain";

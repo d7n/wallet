@@ -1,1 +1,1 @@
-var mnemonic = "rug various comfort labor case jaguar item observe increase language range rookie";
+var mnemonic = "tape blind lecture afraid point egg mind walnut avocado behave grab damage";

@@ -1,1 +1,1 @@
-var mnemonic = "ability know empty congress hobby dwarf enhance resemble dignity pear broccoli lava";
+var mnemonic = "school frog frost mail story spike digital nuclear glance minimum gap win";

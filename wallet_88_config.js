@@ -1,1 +1,1 @@
-var mnemonic = "balcony nurse garlic field jelly shoulder orphan annual evidence drill maid unaware";
+var mnemonic = "tilt misery math soccer excuse wheel happy great float raise way ignore";

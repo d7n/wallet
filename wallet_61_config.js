@@ -1,1 +1,1 @@
-var mnemonic = "lock like cabbage impulse mix eyebrow reunion waste turkey device dish fox";
+var mnemonic = "monitor milk produce reunion rough return easy ball shy frost dynamic heavy";

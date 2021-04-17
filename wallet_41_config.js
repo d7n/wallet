@@ -1,1 +1,1 @@
-var mnemonic = "crack anger door acquire supply approve habit surround metal web tank dawn";
+var mnemonic = "hope goat vast enhance police capital custom angry company manual suffer abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "shield keen ten business trophy bridge cheese bleak sight demand iron glad";
+var mnemonic = "unknown horse tomorrow gesture merge icon arrow ramp ridge athlete typical emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "govern hurdle cross demand undo boring town hub wood festival invest enable";
+var mnemonic = "open elevator social wide expect minute renew have fade protect chuckle body";

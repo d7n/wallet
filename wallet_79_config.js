@@ -1,1 +1,1 @@
-var mnemonic = "police nurse swear clever sign logic fat insect liar bracket light salad";
+var mnemonic = "oxygen monster foster monster beyond plastic layer quiz shaft noise more armor";

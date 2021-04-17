@@ -1,1 +1,1 @@
-var mnemonic = "system shadow slow potato hen chalk winner giggle thing glance fragile transfer";
+var mnemonic = "kiwi bread fringe uncle dumb fiber bleak essence also supply fork lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "there candy eight old tragic library quote culture oak toast consider draw";
+var mnemonic = "domain evoke boost cute foster tomorrow kiss ghost tape utility dirt mixed";

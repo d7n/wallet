@@ -1,1 +1,1 @@
-var mnemonic = "coach piece rhythm cage awkward face gym shy domain that extra sting";
+var mnemonic = "trust west tomato meadow right dutch tribe stool initial jealous neck wisdom";

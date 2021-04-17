@@ -1,1 +1,1 @@
-var mnemonic = "under wonder season female furnace earn army celery arrive jealous image priority";
+var mnemonic = "brisk crystal pause moment egg vast hunt tiny dragon husband safe miss";

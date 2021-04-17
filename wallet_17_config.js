@@ -1,1 +1,1 @@
-var mnemonic = "boil will twelve nothing repeat insect original decorate real rich jelly rack";
+var mnemonic = "inform genre stool switch supply village crouch enough bone fire sport issue";

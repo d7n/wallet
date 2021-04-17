@@ -1,1 +1,1 @@
-var mnemonic = "cotton improve open eternal holiday boring spread romance feel arm noodle gasp";
+var mnemonic = "industry leopard page shoot pulp public planet sustain unhappy between dawn escape";

@@ -1,1 +1,1 @@
-var mnemonic = "second mechanic nice often grunt tongue acoustic chuckle ginger nice coin foil";
+var mnemonic = "give problem asset club winner iron pattern parade thumb knock warm promote";

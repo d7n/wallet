@@ -1,1 +1,1 @@
-var mnemonic = "canyon pudding toilet jar trash power cigar clerk pistol month goddess upper";
+var mnemonic = "eager rare rather employ adult utility collect bag lunch humble fall stem";

@@ -1,1 +1,1 @@
-var mnemonic = "kick laundry cute sketch since collect uncle draft desk express fantasy soul";
+var mnemonic = "employ lyrics horror sail polar sell fun over bacon craft again grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire dutch three dish wife jeans write faith steel split sight trap";
+var mnemonic = "urban oxygen parrot raise finger garbage carbon sell keen slice noise alone";

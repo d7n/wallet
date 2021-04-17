@@ -1,1 +1,1 @@
-var mnemonic = "faint swift damp ahead catalog skirt health neglect process pull idea pizza";
+var mnemonic = "fix strong side scheme argue skull unknown swallow comfort child paper asthma";

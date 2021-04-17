@@ -1,1 +1,1 @@
-var mnemonic = "slogan baby endorse other animal coffee segment siren dash rubber gasp appear";
+var mnemonic = "pluck nephew crime video jewel sea aerobic lyrics perfect custom response labor";

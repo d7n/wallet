@@ -1,1 +1,1 @@
-var mnemonic = "gospel calm little music raise power alien couch sense photo sand hollow";
+var mnemonic = "absent boil visa slight discover soon simple law cement ski shock merit";

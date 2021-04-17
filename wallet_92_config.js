@@ -1,1 +1,1 @@
-var mnemonic = "give wall make sorry cook surround tortoise asthma sister claw rate wall";
+var mnemonic = "harsh raise such pass apart funny dose fluid outside dream fade puzzle";

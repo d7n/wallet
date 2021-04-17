@@ -1,1 +1,1 @@
-var mnemonic = "slam pledge summer blur bench lab spawn add decrease maple balcony sausage";
+var mnemonic = "beef pepper throw insane staff word tiny abuse believe easy popular snake";

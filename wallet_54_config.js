@@ -1,1 +1,1 @@
-var mnemonic = "acquire loop comic enable stuff together choice palace shove anchor advice person";
+var mnemonic = "lyrics enhance gesture song mail medal print useful juice autumn helmet account";

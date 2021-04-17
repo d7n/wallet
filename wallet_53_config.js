@@ -1,1 +1,1 @@
-var mnemonic = "muffin snake fiction tree rent half pottery venture snack chief aspect divide";
+var mnemonic = "trip consider arrange version yard jump scrap refuse picture photo wage illness";

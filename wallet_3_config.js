@@ -1,1 +1,1 @@
-var mnemonic = "across oppose unaware federal put immune risk badge foot father hair glue";
+var mnemonic = "artefact during rare two off surge involve pond moment apart spoil bulk";

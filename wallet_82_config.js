@@ -1,1 +1,1 @@
-var mnemonic = "icon maximum people baby uncover husband cement obscure piano lumber mountain panther";
+var mnemonic = "suggest patch swift museum arrive series finger amount world snow worth empower";

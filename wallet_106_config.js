@@ -1,1 +1,1 @@
-var mnemonic = "approve beyond grow sort liquid style stairs renew angry clap collect shock";
+var mnemonic = "impose turtle menu bunker scissors prize sell sleep color cash cake cruel";

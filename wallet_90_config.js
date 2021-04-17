@@ -1,1 +1,1 @@
-var mnemonic = "sweet near board fit barrel puzzle split sunny sudden abstract toy fancy";
+var mnemonic = "range mixture vacuum emotion alien post cereal pyramid velvet maid impact surface";

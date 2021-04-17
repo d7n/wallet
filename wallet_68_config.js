@@ -1,1 +1,1 @@
-var mnemonic = "noodle air awesome pear ostrich home debris bargain toe know pear differ";
+var mnemonic = "say boost wonder deputy crater repair craft thank whisper question taxi mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "average wrong logic ask outdoor token size inform ecology basic glory coffee";
+var mnemonic = "shiver rapid obey input consider abuse fever clay wild slice trouble stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "inch alpha tackle half polar write maximum ugly public snake maximum divert";
+var mnemonic = "middle robot either fabric video dizzy plunge march limb still review shadow";

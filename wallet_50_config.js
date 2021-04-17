@@ -1,1 +1,1 @@
-var mnemonic = "fall sea protect coach task jewel comfort limb weekend grit sunny mom";
+var mnemonic = "bind original math two genuine beauty decade danger lady easy sand blast";

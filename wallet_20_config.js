@@ -1,1 +1,1 @@
-var mnemonic = "slim goddess west same october thumb spoon cry bridge mule turn armor";
+var mnemonic = "poverty gold orange stereo supreme eye disorder dad old enough sauce core";

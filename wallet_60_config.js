@@ -1,1 +1,1 @@
-var mnemonic = "tornado ribbon always away away taste settle piece faith tray empty leave";
+var mnemonic = "fringe point frequent outer net butter number first room render flash dumb";

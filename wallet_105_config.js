@@ -1,1 +1,1 @@
-var mnemonic = "payment cart sea uphold brain rotate coil ladder gold shell tray minute";
+var mnemonic = "subject leg already convince matter coin second curve during stock assume real";

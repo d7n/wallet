@@ -1,1 +1,1 @@
-var mnemonic = "swap brass resist cover talent come atom bundle timber divert street involve";
+var mnemonic = "rude submit despair trumpet salmon swarm click crane pioneer select search edit";

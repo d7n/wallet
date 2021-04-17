@@ -1,1 +1,1 @@
-var mnemonic = "shallow tool blame romance hockey eagle upset clever vacant giraffe equal awesome";
+var mnemonic = "prosper first vapor below vague pioneer turn brisk exhibit doctor funny second";

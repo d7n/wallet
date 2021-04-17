@@ -1,1 +1,1 @@
-var mnemonic = "park share normal above weapon weekend canoe february vicious earth cause divide";
+var mnemonic = "drift swamp canoe neutral mountain same fringe invest erupt job bulk indicate";

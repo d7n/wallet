@@ -1,1 +1,1 @@
-var mnemonic = "narrow left record wheat enlist erosion panda bullet gadget wing sorry relief";
+var mnemonic = "goose lamp object chase royal service deliver dentist execute artist gravity hundred";

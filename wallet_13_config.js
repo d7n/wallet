@@ -1,1 +1,1 @@
-var mnemonic = "focus area elegant brain orchard recycle another spy inspire mouse finger balcony";
+var mnemonic = "father need panel nest level uncle jar segment unknown toddler clock vibrant";

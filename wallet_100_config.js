@@ -1,1 +1,1 @@
-var mnemonic = "empower slot traffic spring ancient injury gym uphold common trap peace palace";
+var mnemonic = "century garbage jump people front symbol humble about rice nasty asset news";

@@ -1,1 +1,1 @@
-var mnemonic = "globe topic ill luxury better purpose mountain dove avocado soft lava thank";
+var mnemonic = "oblige sport diamond kiwi broken jaguar tennis brush next rescue image swing";

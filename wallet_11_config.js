@@ -1,1 +1,1 @@
-var mnemonic = "perfect leave task divide walnut panel loan economy cycle swing gravity fresh";
+var mnemonic = "pair column over session busy depart file debate unveil pool skate morning";

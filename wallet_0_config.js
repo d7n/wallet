@@ -1,1 +1,1 @@
-var mnemonic = "insane trumpet useless join coin indicate later basic number decrease prosper spice";
+var mnemonic = "into universe ginger spatial verb shield current poem potato curious discover sad";

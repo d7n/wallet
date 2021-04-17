@@ -1,1 +1,1 @@
-var mnemonic = "soda high head dwarf someone train devote work enact market tiger source";
+var mnemonic = "stock daring kiwi absurd danger boost letter rare jewel wide sunset empty";
