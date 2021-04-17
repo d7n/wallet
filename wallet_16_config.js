@@ -1,1 +1,1 @@
-var mnemonic = "cereal waste magic apology cube offer ribbon wasp sweet knock feed blouse";
+var mnemonic = "surface food ensure army hotel toilet possible ordinary actual hello eight teach";

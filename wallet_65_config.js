@@ -1,1 +1,1 @@
-var mnemonic = "poet because ability pride become assault gold unit patient fruit auction beach";
+var mnemonic = "eight perfect oyster rifle report inner dragon blind chase catch mixed poet";

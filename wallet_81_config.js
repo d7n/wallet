@@ -1,1 +1,1 @@
-var mnemonic = "saddle side umbrella mass secret swim clean develop kind glide milk zoo";
+var mnemonic = "brass hill indicate sibling more welcome cloth motor mushroom inmate connect inner";

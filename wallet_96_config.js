@@ -1,1 +1,1 @@
-var mnemonic = "poverty ahead abstract divide kite vehicle sister grace client pool right couch";
+var mnemonic = "funny banner valid blanket lumber group cry silent kick maid later wild";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong matrix approve shaft warm game super stick hero mom jealous border";
+var mnemonic = "crucial elite canvas onion slab kidney seek shoot fade tobacco minimum harsh";

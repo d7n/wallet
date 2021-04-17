@@ -1,1 +1,1 @@
-var mnemonic = "grape another derive angle depend master turn arena action giant book kind";
+var mnemonic = "tree hour smile trend this apple venture among banner window direct liberty";

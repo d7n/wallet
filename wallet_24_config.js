@@ -1,1 +1,1 @@
-var mnemonic = "knee flame toy victory clarify hidden ritual blur rural monitor above giant";
+var mnemonic = "abandon fabric head cabin tumble panther pool gesture habit exit elephant canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "foil scissors cruel lunar chronic miracle embody exact arrest nut pony betray";
+var mnemonic = "drink length can off outer mouse fork mobile tomato opinion burst lucky";

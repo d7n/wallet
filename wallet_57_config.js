@@ -1,1 +1,1 @@
-var mnemonic = "pill model task property truly fish possible sample sister fine soda modify";
+var mnemonic = "when fee use slush elevator recall slender dog roof print doctor immune";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle high bless lottery sand height green museum prosper stairs salon bottom";
+var mnemonic = "eyebrow sword tuition body normal charge boost foster lumber indicate inch this";

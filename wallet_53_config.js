@@ -1,1 +1,1 @@
-var mnemonic = "section sugar memory address soup fossil mixture game tuna skill family toilet";
+var mnemonic = "green soon squeeze rescue pulp public member they green card essay quarter";

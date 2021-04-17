@@ -1,1 +1,1 @@
-var mnemonic = "drift note off print minor cost logic priority stereo artist math fortune";
+var mnemonic = "runway beef toddler pudding damp viable chuckle vacant lazy snake typical mercy";

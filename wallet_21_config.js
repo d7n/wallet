@@ -1,1 +1,1 @@
-var mnemonic = "annual mention mushroom electric cage bridge excuse bar under outdoor unit pact";
+var mnemonic = "proof put orchard later rescue romance canal until run jungle orbit asthma";

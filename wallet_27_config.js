@@ -1,1 +1,1 @@
-var mnemonic = "label mandate fee accuse work inform improve green morning arch describe charge";
+var mnemonic = "math laptop smile camera lecture monkey trade mirror web bitter deliver audit";

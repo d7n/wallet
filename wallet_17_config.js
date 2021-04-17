@@ -1,1 +1,1 @@
-var mnemonic = "picnic tired swift foster dwarf shy cycle congress april popular soda brush";
+var mnemonic = "wagon climb talk number game device animal rent smooth hint audit escape";

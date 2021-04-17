@@ -1,1 +1,1 @@
-var mnemonic = "fuel dial force bread hurt resist warfare very main suffer crew neglect";
+var mnemonic = "cherry bus sentence pool street castle game pause sleep reflect sadness woman";

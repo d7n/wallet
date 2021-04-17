@@ -1,1 +1,1 @@
-var mnemonic = "toss base phrase idle oil hover wealth invest scare decrease sugar brass";
+var mnemonic = "retire nuclear equal lake tonight mansion adult bacon humor fit dutch typical";

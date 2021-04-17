@@ -1,1 +1,1 @@
-var mnemonic = "cycle grace scout trip tenant ribbon gain supply replace club decline fame";
+var mnemonic = "ramp gate culture swear mix swarm two cabbage jewel supreme concert hard";

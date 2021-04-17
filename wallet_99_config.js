@@ -1,1 +1,1 @@
-var mnemonic = "donkey noodle submit angry dutch unfair capable earth tenant over volcano success";
+var mnemonic = "noise common film circle puppy ginger rail airport sausage accident width among";

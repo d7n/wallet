@@ -1,1 +1,1 @@
-var mnemonic = "tray sniff wash phone build orphan fortune lawsuit artist crack rapid remember";
+var mnemonic = "around box powder worry keep minimum genuine monitor snap floor swamp together";

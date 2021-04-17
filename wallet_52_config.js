@@ -1,1 +1,1 @@
-var mnemonic = "regular bottom guard word humor skin mushroom enrich grit furnace dutch property";
+var mnemonic = "gather cement motor stage subway slide slice embody crop embrace jar car";

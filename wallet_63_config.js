@@ -1,1 +1,1 @@
-var mnemonic = "expect blame palace spoil recall unknown unhappy casual cat village peasant impact";
+var mnemonic = "diet behave possible camp excess spirit change route crew palace mercy gain";

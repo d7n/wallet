@@ -1,1 +1,1 @@
-var mnemonic = "educate flock cloth police auto oppose term august lift patrol next all";
+var mnemonic = "cross motor toddler picture trophy charge hurry parent whip genuine pole unable";

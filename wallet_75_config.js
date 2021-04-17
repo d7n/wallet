@@ -1,1 +1,1 @@
-var mnemonic = "common refuse spoil excite lonely save kiwi catalog route afford mosquito lemon";
+var mnemonic = "timber cannon pupil eye glimpse stuff antique maximum club like venture come";

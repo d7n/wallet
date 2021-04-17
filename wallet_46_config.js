@@ -1,1 +1,1 @@
-var mnemonic = "beyond hospital virus digital rough enact tank scissors caution food wait note";
+var mnemonic = "deny soft hospital useless muscle suspect desk update agree business gym noise";

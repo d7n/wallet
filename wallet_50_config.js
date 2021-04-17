@@ -1,1 +1,1 @@
-var mnemonic = "achieve october ankle field aim useful manual baby alcohol diagram original early";
+var mnemonic = "upon lawn fox canal snow retire blur put sleep material opera glue";

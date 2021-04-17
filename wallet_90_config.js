@@ -1,1 +1,1 @@
-var mnemonic = "rough disease catch cat ugly clump nurse distance matter also spoil reveal";
+var mnemonic = "rate stable adult annual guilt sentence exhaust minimum become gravity cancel gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "unit purpose despair use pigeon range view coil apple woman when hill";
+var mnemonic = "coast salad equip goddess leg harbor obey hello run garlic window merit";

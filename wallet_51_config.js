@@ -1,1 +1,1 @@
-var mnemonic = "movie multiply pulp tail lady man check afford powder patrol model clever";
+var mnemonic = "army fade idle insect crime rather wrist vague alarm matrix school below";

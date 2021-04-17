@@ -1,1 +1,1 @@
-var mnemonic = "find pioneer panic seven fly saddle shoulder mind kick seven story traffic";
+var mnemonic = "lab visit addict girl tumble slush control arm display strike mandate marriage";

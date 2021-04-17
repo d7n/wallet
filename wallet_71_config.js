@@ -1,1 +1,1 @@
-var mnemonic = "concert sell sentence arrest stuff deposit comfort decorate kiwi depth proof curious";
+var mnemonic = "blast goat dry agent tooth bachelor uncover diary woman trumpet flower when";

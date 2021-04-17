@@ -1,1 +1,1 @@
-var mnemonic = "chef fiction vessel gloom stay crazy busy recall attract vanish park punch";
+var mnemonic = "jelly immense gesture popular print sweet blanket angle actor above daughter genre";

@@ -1,1 +1,1 @@
-var mnemonic = "will rude saddle foam rule install leg sound spike ill slender dial";
+var mnemonic = "bulb increase cost vague outer initial solid length razor frame forest merge";

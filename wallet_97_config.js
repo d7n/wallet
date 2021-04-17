@@ -1,1 +1,1 @@
-var mnemonic = "excite stumble jump able culture embrace text elbow hollow history siege practice";
+var mnemonic = "please oven fiber bomb peace elder clock push ill together bridge smoke";

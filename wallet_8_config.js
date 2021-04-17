@@ -1,1 +1,1 @@
-var mnemonic = "crisp man inquiry secret annual lift blind tank blame object veteran hood";
+var mnemonic = "wood decrease fabric permit middle month enlist fix wedding merit essay just";

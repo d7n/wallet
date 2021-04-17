@@ -1,1 +1,1 @@
-var mnemonic = "permit menu unfold label quick spell minor payment tail render helmet crane";
+var mnemonic = "wasp lunar swamp voyage tortoise bar gown tunnel wolf crime wave food";

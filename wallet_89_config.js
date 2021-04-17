@@ -1,1 +1,1 @@
-var mnemonic = "squirrel rose hire bachelor shaft quit garment rude inner math pizza snow";
+var mnemonic = "wrong grid title submit page front undo act hurry bus pull inform";

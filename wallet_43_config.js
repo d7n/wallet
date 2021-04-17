@@ -1,1 +1,1 @@
-var mnemonic = "output either spoil artist lunch hood strong delay record this fabric embody";
+var mnemonic = "glide caught priority seat hole similar exile reward hobby promote mercy divert";

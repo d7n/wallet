@@ -1,1 +1,1 @@
-var mnemonic = "float live act vivid office false nose will enhance hard nothing tribe";
+var mnemonic = "angry type hockey purpose endless demise spatial aunt tackle unit few tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "shove quiz desk arm person mobile review run waste void fine skate";
+var mnemonic = "aim teach defy toe guess mechanic social design meat merit purse card";

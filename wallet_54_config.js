@@ -1,1 +1,1 @@
-var mnemonic = "code choice nuclear want better hurt false citizen base file pool mouse";
+var mnemonic = "build method curtain traffic among feed health expand lazy hurdle abandon old";

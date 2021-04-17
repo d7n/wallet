@@ -1,1 +1,1 @@
-var mnemonic = "palace pizza cute baby dismiss surround patrol normal switch blanket sock enter";
+var mnemonic = "inspire ceiling helmet seek chest cool stock later lizard valid original ability";

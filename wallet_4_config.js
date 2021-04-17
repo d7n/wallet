@@ -1,1 +1,1 @@
-var mnemonic = "news belt sister gasp pipe lock hat acid tomato bargain derive midnight";
+var mnemonic = "cherry beef nurse spawn soup flash burden dream rack pink silver direct";

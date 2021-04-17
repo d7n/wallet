@@ -1,1 +1,1 @@
-var mnemonic = "festival edge giggle practice start fuel brief number repair grief combine margin";
+var mnemonic = "earn sunset attract belt april inch almost industry coil depth sand absurd";

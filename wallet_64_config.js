@@ -1,1 +1,1 @@
-var mnemonic = "bounce inch walk glow unable calm elite horn trick section express prevent";
+var mnemonic = "price arctic occur clip ice carbon cactus valid garden resemble engage globe";

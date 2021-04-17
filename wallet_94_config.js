@@ -1,1 +1,1 @@
-var mnemonic = "gasp idea current disagree session hen illness helmet length unknown salute split";
+var mnemonic = "giggle potato about hollow horse maximum try come put already all normal";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich pen latin suggest make main focus melt slender duck curtain ethics";
+var mnemonic = "edge please alone agree shadow denial recall boy march will shiver diet";

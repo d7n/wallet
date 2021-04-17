@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo appear palm excess appear ritual venture festival shift smoke choose winner";
+var mnemonic = "fall earn tissue south lonely camp vacant digital coffee absorb harbor coil";

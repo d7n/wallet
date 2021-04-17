@@ -1,1 +1,1 @@
-var mnemonic = "increase slide truth message error start burger disease dwarf nephew first tape";
+var mnemonic = "about sell danger dose satoshi lift leader chicken plug two want few";

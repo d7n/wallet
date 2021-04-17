@@ -1,1 +1,1 @@
-var mnemonic = "sorry replace seven lens tilt tail claim kind original wish dune success";
+var mnemonic = "adapt pen top evolve kiwi wool tobacco snap come matrix ghost defy";

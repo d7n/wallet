@@ -1,1 +1,1 @@
-var mnemonic = "reform safe lend stand monkey recipe aunt chaos brisk horn evoke exchange";
+var mnemonic = "dignity sadness radar dumb object bridge smooth awake fit kiwi good open";

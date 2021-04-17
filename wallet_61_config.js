@@ -1,1 +1,1 @@
-var mnemonic = "stock dust boost sketch quality health tray hello wrestle armed morning poverty";
+var mnemonic = "bone anxiety oval soccer rely lunch explain drum puzzle effort dance cat";

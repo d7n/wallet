@@ -1,1 +1,1 @@
-var mnemonic = "tuition alley clip super pair double course silent board imitate globe large";
+var mnemonic = "betray sunset half east burst crash giraffe enlist just pistol item bag";

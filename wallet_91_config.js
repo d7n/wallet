@@ -1,1 +1,1 @@
-var mnemonic = "type leader dinner wait much baby uncle theme unusual gossip valley easily";
+var mnemonic = "chalk identify keen emerge online cinnamon antenna tumble worry guitar era magnet";

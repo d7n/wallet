@@ -1,1 +1,1 @@
-var mnemonic = "bachelor clump uncle throw drive float supreme deputy crop elephant science fossil";
+var mnemonic = "imitate floor entry laundry hope device lonely artist humble modify fork talent";

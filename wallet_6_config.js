@@ -1,1 +1,1 @@
-var mnemonic = "order chief tuition razor trend shove game joke alarm exit sister path";
+var mnemonic = "second vanish noodle brass fun pave leisure faculty elegant budget filter garbage";

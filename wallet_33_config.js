@@ -1,1 +1,1 @@
-var mnemonic = "mosquito this unaware door income social panther empty world settle token observe";
+var mnemonic = "taxi inform come tape chief kind trophy leader margin vocal magnet card";

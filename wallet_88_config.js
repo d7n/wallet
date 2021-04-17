@@ -1,1 +1,1 @@
-var mnemonic = "human east liar lesson phrase swallow motion penalty knee holiday razor citizen";
+var mnemonic = "problem opinion sense convince elevator radar robust bachelor add leave trouble fever";

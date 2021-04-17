@@ -1,1 +1,1 @@
-var mnemonic = "century island pet home prosper uncle oxygen festival salon wheel duck isolate";
+var mnemonic = "truth brown lock nephew shop alter defense face slide black sphere gesture";

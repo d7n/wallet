@@ -1,1 +1,1 @@
-var mnemonic = "win carry long share leader swallow master approve sponsor toy miss satoshi";
+var mnemonic = "occur eight captain gap pattern industry rent holiday still book enemy athlete";

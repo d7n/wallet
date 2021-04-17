@@ -1,1 +1,1 @@
-var mnemonic = "kidney recycle bright battle library bag dwarf cactus liar step celery soccer";
+var mnemonic = "extra hour cat problem nuclear firm churn melody dust core process oval";

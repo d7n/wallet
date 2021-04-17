@@ -1,1 +1,1 @@
-var mnemonic = "island jar leave identify patch regular sauce glimpse settle object fade above";
+var mnemonic = "merit hurt funny hope involve smile say fix fatigue bridge ignore rocket";

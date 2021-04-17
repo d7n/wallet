@@ -1,1 +1,1 @@
-var mnemonic = "typical tool ranch student okay violin bullet gorilla beauty midnight caution suggest";
+var mnemonic = "comfort sadness ring smile ahead wedding jacket comfort play bean pitch crew";

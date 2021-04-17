@@ -1,1 +1,1 @@
-var mnemonic = "strong nominee alien choose allow ethics beef extra hair frozen boss wool";
+var mnemonic = "rabbit draft popular civil weekend scan coach ridge flavor brown key flee";

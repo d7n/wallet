@@ -1,1 +1,1 @@
-var mnemonic = "live digital analyst dawn wage start fatigue tribe pottery please wise language";
+var mnemonic = "strike inflict meat fun secret hundred believe glove clap jelly warfare drill";

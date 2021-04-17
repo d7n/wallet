@@ -1,1 +1,1 @@
-var mnemonic = "occur foster gate special quit east cheese crush scare scale round ability";
+var mnemonic = "olive desert wear strong degree sport check grief say squirrel hawk police";

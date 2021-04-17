@@ -1,1 +1,1 @@
-var mnemonic = "dust people twelve leader drink eye raccoon glide vocal six sponsor swing";
+var mnemonic = "index column dial harvest glare private radio waste defense certain rookie later";

@@ -1,1 +1,1 @@
-var mnemonic = "present mad route over monkey grace picture fitness giraffe mutual vault mimic";
+var mnemonic = "silk twice glory lunar cargo maid under punch muffin snap virtual crew";

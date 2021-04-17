@@ -1,1 +1,1 @@
-var mnemonic = "harbor question fossil town include okay doctor earth diesel danger office essence";
+var mnemonic = "stadium verb chair play what swallow viable clever critic muscle ginger cool";

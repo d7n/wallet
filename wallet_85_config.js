@@ -1,1 +1,1 @@
-var mnemonic = "also emerge true lesson knife airport adjust element broken lawn window current";
+var mnemonic = "soft inject coral moral evolve type wink home arch menu damp other";

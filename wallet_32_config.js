@@ -1,1 +1,1 @@
-var mnemonic = "debate picnic fabric satoshi cinnamon ostrich put egg april act mammal layer";
+var mnemonic = "street focus fine sunset brush present purpose multiply true help service stomach";

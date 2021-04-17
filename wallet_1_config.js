@@ -1,1 +1,1 @@
-var mnemonic = "orchard grace spy cross unique try grief become rain blossom duty usual";
+var mnemonic = "hint draft fortune eager arrest impose capital list luxury marriage night airport";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle bone latin suit crew remain ecology river movie add banana sudden";
+var mnemonic = "ahead swim wrap puzzle art gate parrot loud benefit caught rookie fiber";

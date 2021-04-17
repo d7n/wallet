@@ -1,1 +1,1 @@
-var mnemonic = "adjust life recycle act club derive weasel flip sand into taxi unaware";
+var mnemonic = "brush bulb woman life zoo erupt history zoo never boost sort lens";

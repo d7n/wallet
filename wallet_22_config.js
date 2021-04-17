@@ -1,1 +1,1 @@
-var mnemonic = "spot now pottery couch right exhaust shrimp host shock century point bubble";
+var mnemonic = "month own barrel shallow auto reunion acoustic verb neither fashion wood scene";

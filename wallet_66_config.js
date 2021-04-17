@@ -1,1 +1,1 @@
-var mnemonic = "believe flower bachelor side injury wrap trick truth name joke height summer";
+var mnemonic = "edge crumble limb elevator ancient morning print else crop flame grass flee";

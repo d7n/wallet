@@ -1,1 +1,1 @@
-var mnemonic = "wool come basket race sibling arena egg assault modify remember bundle barrel";
+var mnemonic = "hill thumb there review capital stamp super cute height hawk excite scorpion";

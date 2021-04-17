@@ -1,1 +1,1 @@
-var mnemonic = "east woman betray predict scale dutch catalog monitor horse world west atom";
+var mnemonic = "toward brick useless glide farm rebel tuition pioneer response reject bar oven";

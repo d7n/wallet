@@ -1,1 +1,1 @@
-var mnemonic = "way find morning robust dial inmate taxi arrow fuel rhythm source roast";
+var mnemonic = "upon coach sail history call duck enhance clinic charge lock affair scrap";

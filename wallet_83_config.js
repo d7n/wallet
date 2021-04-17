@@ -1,1 +1,1 @@
-var mnemonic = "depth flock harsh number fence basket bless model fence grace night parent";
+var mnemonic = "primary purity climb reunion close enough autumn hundred swim lens wisdom try";

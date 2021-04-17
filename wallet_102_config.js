@@ -1,1 +1,1 @@
-var mnemonic = "wall whip marriage castle flush lesson attend wonder define wealth office spike";
+var mnemonic = "position rescue setup future breeze hold alert earn hybrid fabric chuckle author";

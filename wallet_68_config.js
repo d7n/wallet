@@ -1,1 +1,1 @@
-var mnemonic = "around wagon bacon puppy screen transfer scout universe off fever rally eyebrow";
+var mnemonic = "yard cycle boss ride dune stay phrase bike myth type deny volume";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp solid ostrich flash mom dentist cycle safe alcohol unhappy gallery arrow";
+var mnemonic = "mail peanut proof give bounce grow ask advance option exhibit copper item";

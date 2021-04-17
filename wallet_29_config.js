@@ -1,1 +1,1 @@
-var mnemonic = "marriage sausage document resource purpose boil observe decline silent miss curve normal";
+var mnemonic = "question bracket merge tunnel elbow proof opera steel vapor transfer wasp mom";

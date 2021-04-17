@@ -1,1 +1,1 @@
-var mnemonic = "glory timber peasant kitchen crazy renew maximum together apart obtain deputy rural";
+var mnemonic = "motor risk dignity detail column ill style extend sea render angry leave";

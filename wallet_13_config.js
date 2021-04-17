@@ -1,1 +1,1 @@
-var mnemonic = "rough clay expand latin unusual fence diagram universe praise waste soldier turtle";
+var mnemonic = "seek battle lava jump toast sun mistake glide ribbon basic divorce melody";

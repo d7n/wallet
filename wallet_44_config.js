@@ -1,1 +1,1 @@
-var mnemonic = "unveil orange evidence romance solution fancy palm floor elephant army dinosaur access";
+var mnemonic = "nut position album route permit attend equal great deliver grunt treat photo";
