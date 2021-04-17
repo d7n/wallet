@@ -1,1 +1,1 @@
-var mnemonic = "where snow smooth alpha slice next ride mean town pattern program coin";
+var mnemonic = "list slush warm paddle stadium blind clap tilt plate mention thumb knife";

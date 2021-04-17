@@ -1,1 +1,1 @@
-var mnemonic = "figure away artefact south shock recall thrive indicate pudding fire enhance ripple";
+var mnemonic = "stomach demise such clap rack bracket bamboo pilot neglect ensure old guard";

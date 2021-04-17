@@ -1,1 +1,1 @@
-var mnemonic = "emerge settle fetch grape such spike begin alone silk travel sadness spy";
+var mnemonic = "inflict enroll tape bring favorite tree kidney grace hood reject strategy net";

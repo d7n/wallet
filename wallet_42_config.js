@@ -1,1 +1,1 @@
-var mnemonic = "filter rifle fix remember occur swear dentist width shove broken auction ostrich";
+var mnemonic = "peace team female casual memory goose essay velvet fiscal ethics airport joy";

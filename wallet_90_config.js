@@ -1,1 +1,1 @@
-var mnemonic = "small grief hour ginger hotel coconut foil meadow mango guard kiss range";
+var mnemonic = "begin immense rich raise enter coil adult crater merry pulp improve custom";

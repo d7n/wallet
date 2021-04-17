@@ -1,1 +1,1 @@
-var mnemonic = "nothing move coach echo garlic tower fee poet illness dove giggle cactus";
+var mnemonic = "payment artwork borrow glass slush spin path labor devote drama harvest label";

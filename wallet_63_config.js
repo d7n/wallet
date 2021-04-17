@@ -1,1 +1,1 @@
-var mnemonic = "split unaware syrup forward until spin clinic patrol ketchup shoot float deer";
+var mnemonic = "evidence vivid divide also heart crystal gaze angle view light divert bicycle";

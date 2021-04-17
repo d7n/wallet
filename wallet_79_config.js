@@ -1,1 +1,1 @@
-var mnemonic = "champion cargo symbol pen crumble media park diet protect toss arrest pizza";
+var mnemonic = "crouch decorate buyer share about clog foot panda forum twenty exit burst";

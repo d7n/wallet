@@ -1,1 +1,1 @@
-var mnemonic = "fresh velvet trade error lumber success wish judge shift bottom phone fancy";
+var mnemonic = "code civil improve token valid sample viable decline build wreck family become";

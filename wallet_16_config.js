@@ -1,1 +1,1 @@
-var mnemonic = "coyote canal border topple asset invest order faculty start thrive south now";
+var mnemonic = "actual elegant impose carbon hurt genius glass spot nasty debris trip emerge";

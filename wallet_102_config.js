@@ -1,1 +1,1 @@
-var mnemonic = "world fitness forest fresh solar panel shop install fold square ability position";
+var mnemonic = "cable prepare champion company immune tape manual comfort enforce cloud crop wild";

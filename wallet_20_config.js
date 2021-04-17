@@ -1,1 +1,1 @@
-var mnemonic = "engine surprise donor rain dial ride country coffee apple people spell stomach";
+var mnemonic = "put escape bench state smoke excess jewel merit shed anxiety quarter resemble";

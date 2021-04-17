@@ -1,1 +1,1 @@
-var mnemonic = "elegant hammer offer shell enroll ignore ladder matter now seed lizard decorate";
+var mnemonic = "raccoon pass skull mail erupt nerve provide mobile orbit tumble borrow ten";

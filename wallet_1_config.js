@@ -1,1 +1,1 @@
-var mnemonic = "swallow youth tortoise muffin tiny champion match worth rescue syrup cupboard need";
+var mnemonic = "tonight example model skull team light visit like sadness voyage rescue any";

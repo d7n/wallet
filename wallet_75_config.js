@@ -1,1 +1,1 @@
-var mnemonic = "danger resemble trouble cream rent broom below major build tonight crawl metal";
+var mnemonic = "cram blossom tackle also wrap twin gospel solid stomach depth inquiry window";

@@ -1,1 +1,1 @@
-var mnemonic = "protect wood awake phone prosper human crop under child essay owner unveil";
+var mnemonic = "humor rebuild design apart grab abandon fox usual nurse urban typical sudden";

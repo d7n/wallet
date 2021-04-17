@@ -1,1 +1,1 @@
-var mnemonic = "verify angle economy angry antenna quote melt doll achieve this valid tattoo";
+var mnemonic = "jewel cricket artist other vanish water voice address pulp balcony lyrics pull";

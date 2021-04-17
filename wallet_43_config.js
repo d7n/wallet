@@ -1,1 +1,1 @@
-var mnemonic = "gallery disease song cotton shoe palace sea latin melt know decide van";
+var mnemonic = "antenna tornado boil trend argue air puppy woman wrestle illegal snow nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "shell tortoise vanish spoil false draw margin mandate struggle gate chuckle treat";
+var mnemonic = "day open trend veteran entire crop brown route come scan furnace crowd";

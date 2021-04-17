@@ -1,1 +1,1 @@
-var mnemonic = "upgrade upset veteran garbage hidden pave tourist agree salute yard chronic ancient";
+var mnemonic = "arrive wrist volcano tent attack lumber screen royal movie tool merit deliver";

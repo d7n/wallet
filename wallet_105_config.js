@@ -1,1 +1,1 @@
-var mnemonic = "language antenna betray profit opera expire radar embrace buzz fiber stereo adjust";
+var mnemonic = "entire increase rubber citizen pizza gym feed bunker grocery scrap laundry wisdom";

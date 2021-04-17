@@ -1,1 +1,1 @@
-var mnemonic = "include consider ticket refuse mutual nest book shine come cradle produce foam";
+var mnemonic = "dial coffee agent desk seed rent love hair oppose code damage session";

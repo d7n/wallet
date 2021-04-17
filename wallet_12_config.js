@@ -1,1 +1,1 @@
-var mnemonic = "curious dog evil prosper tent cricket boring agree okay assist season fuel";
+var mnemonic = "crawl ability subway north obscure truth anger future faint same oblige giraffe";

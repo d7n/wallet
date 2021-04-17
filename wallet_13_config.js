@@ -1,1 +1,1 @@
-var mnemonic = "purity spring category open ski weather unaware cave proud settle useful slender";
+var mnemonic = "keep palm card rescue denial blame upset subject usual guard hat deposit";

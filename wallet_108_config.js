@@ -1,1 +1,1 @@
-var mnemonic = "sunset happy casino design lunar offer bring base actor raise define panther";
+var mnemonic = "small ride oxygen east verb party few because supply aspect glide attitude";

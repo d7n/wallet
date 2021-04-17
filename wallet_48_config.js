@@ -1,1 +1,1 @@
-var mnemonic = "multiply race harvest coast foam nephew soup already goose small spare uncover";
+var mnemonic = "middle birth mutual injury prepare dust tackle senior finish duty asset frog";

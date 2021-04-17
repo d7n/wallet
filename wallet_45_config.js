@@ -1,1 +1,1 @@
-var mnemonic = "large fox sibling olympic grant mushroom glide metal album wisdom corn cliff";
+var mnemonic = "nurse transfer rough fiction sausage protect slot chimney notable ski orphan certain";

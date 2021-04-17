@@ -1,1 +1,1 @@
-var mnemonic = "worth fruit open crime clutch multiply dinner humor vehicle quote segment timber";
+var mnemonic = "click race winner distance legend quit diary render oblige parade trip rice";

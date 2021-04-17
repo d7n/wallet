@@ -1,1 +1,1 @@
-var mnemonic = "kid office hire naive fun brand afford update cruise cherry stamp alarm";
+var mnemonic = "sell camp silly day escape shove recycle snack review discover exotic project";

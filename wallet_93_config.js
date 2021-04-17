@@ -1,1 +1,1 @@
-var mnemonic = "enforce ask crawl acid soap eight that symptom glove picnic vague gallery";
+var mnemonic = "faculty magnet ice magnet roof gauge plate develop run kitchen shoot capital";

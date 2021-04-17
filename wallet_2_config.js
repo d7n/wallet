@@ -1,1 +1,1 @@
-var mnemonic = "very wide agent grief betray venue leader unlock amateur render cake way";
+var mnemonic = "iron blanket student catch barely lottery inside neck eight original brick access";

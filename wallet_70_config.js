@@ -1,1 +1,1 @@
-var mnemonic = "correct carbon glass slush bar blue cloud table license aunt discover floor";
+var mnemonic = "clinic verify march grow quiz monitor square glow used promote embrace ignore";

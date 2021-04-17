@@ -1,1 +1,1 @@
-var mnemonic = "luggage borrow clean unlock castle champion dinner expose already essence egg list";
+var mnemonic = "rotate soon general language total tired discover remind actual neutral vital garment";

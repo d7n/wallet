@@ -1,1 +1,1 @@
-var mnemonic = "topple already outdoor air select over sweet board loan buyer village pyramid";
+var mnemonic = "two result choice kingdom vanish multiply hobby diamond fall daughter daughter solution";

@@ -1,1 +1,1 @@
-var mnemonic = "fever mechanic one news wolf blind window mobile enemy dust give glass";
+var mnemonic = "entry maximum rural salon exchange forward pepper tribe bunker ordinary suit neither";

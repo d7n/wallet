@@ -1,1 +1,1 @@
-var mnemonic = "ranch funny unfair heavy regular excess lens issue oblige casino select express";
+var mnemonic = "income forward depart suggest town advance citizen drama patient hand pen venue";

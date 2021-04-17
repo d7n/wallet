@@ -1,1 +1,1 @@
-var mnemonic = "bitter write slab struggle speak nation monster candy donkey another choice clever";
+var mnemonic = "exercise hammer nurse slam alley happy hood bring spawn faculty next cement";

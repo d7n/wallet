@@ -1,1 +1,1 @@
-var mnemonic = "seven hotel bus lawsuit pistol cool toy rescue spatial inform coast scheme";
+var mnemonic = "arrive below under weasel frozen bulk amateur prison auto tell federal sound";

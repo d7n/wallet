@@ -1,1 +1,1 @@
-var mnemonic = "syrup fruit junk depth retire scrub celery mosquito engine anxiety bomb maximum";
+var mnemonic = "bomb worry vessel assault cause develop hour scare kitten divorce inner wild";

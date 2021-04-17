@@ -1,1 +1,1 @@
-var mnemonic = "journey hurdle usage resemble pencil congress owner impact multiply roof cage consider";
+var mnemonic = "october edge business tomato nation denial season life credit soccer faint average";

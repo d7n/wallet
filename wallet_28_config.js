@@ -1,1 +1,1 @@
-var mnemonic = "road tomorrow cherry shoot document lion hello frame solar luxury arch cloth";
+var mnemonic = "issue tunnel glass gap enhance enhance gossip benefit cool panic midnight visa";

@@ -1,1 +1,1 @@
-var mnemonic = "page master slight super beyond elder else cabbage pill stone pyramid soccer";
+var mnemonic = "suffer gate catch method unusual mirror horror worry urge manual hobby mean";

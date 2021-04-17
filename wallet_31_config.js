@@ -1,1 +1,1 @@
-var mnemonic = "easily gain usage rare plastic force illness bird cushion bounce inquiry medal";
+var mnemonic = "danger airport ahead kite shield club sort upset nest lion soccer brisk";

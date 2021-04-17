@@ -1,1 +1,1 @@
-var mnemonic = "obvious border chalk effort night lesson never slab breeze ready unlock tennis";
+var mnemonic = "wheat grab million uphold cream nose ring kiwi library time celery pause";

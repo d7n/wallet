@@ -1,1 +1,1 @@
-var mnemonic = "inform laugh comfort fork multiply pole ball become hidden patient cheese begin";
+var mnemonic = "sunset tissue pitch find energy arena certain bird fringe neck business over";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer depend yard atom truly agree draw father shove robust output moon";
+var mnemonic = "before false canoe meat venture clown shiver trust arm marriage frog tuna";

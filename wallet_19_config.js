@@ -1,1 +1,1 @@
-var mnemonic = "ride romance buyer peanut core ankle early monster mail pistol cradle decrease";
+var mnemonic = "race shuffle theory obscure lemon pepper shallow evoke teach beyond speed faculty";

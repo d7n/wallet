@@ -1,1 +1,1 @@
-var mnemonic = "ugly devote cage result fold adapt taste equal clip pear ten rough";
+var mnemonic = "various draft mother suspect symbol joy access cereal glad media bench gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal left diet capable monkey stereo behave way village deposit token hold";
+var mnemonic = "fitness ill decade mango dizzy glimpse jar mimic unable ritual dawn pumpkin";

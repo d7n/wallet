@@ -1,1 +1,1 @@
-var mnemonic = "tilt fashion again tourist half nation smart invite typical glow chair cigar";
+var mnemonic = "future impact ozone act regular churn noodle call cave figure sniff orient";

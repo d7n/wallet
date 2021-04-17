@@ -1,1 +1,1 @@
-var mnemonic = "glimpse ability lamp kangaroo bag snake human come filter jeans entire venture";
+var mnemonic = "fabric topic attack sick tuna hair limb praise leaf pitch fun minor";

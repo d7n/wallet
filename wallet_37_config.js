@@ -1,1 +1,1 @@
-var mnemonic = "draw switch transfer bomb escape list slender together theme rack earth response";
+var mnemonic = "evoke culture novel diet master nasty social seminar promote must vendor canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "rug source emerge among rule buddy defy pulse fade client battle front";
+var mnemonic = "asthma camera dust above check kidney hard people glow garbage turkey column";

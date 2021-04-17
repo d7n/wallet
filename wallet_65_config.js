@@ -1,1 +1,1 @@
-var mnemonic = "exotic debris box time dice catch guitar answer donor hold spirit need";
+var mnemonic = "raccoon parrot boil hello beauty cheap else fantasy cable adapt wise recycle";

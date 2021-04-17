@@ -1,1 +1,1 @@
-var mnemonic = "planet lamp obscure lecture library universe appear melt refuse vanish bronze hundred";
+var mnemonic = "prepare leader secret recall report slow upper alter legal error identify ignore";

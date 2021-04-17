@@ -1,1 +1,1 @@
-var mnemonic = "whale satisfy boil round flock cave tip public job addict stove taste";
+var mnemonic = "aerobic rude human uphold foot amateur ask solution menu movie dish name";

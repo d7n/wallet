@@ -1,1 +1,1 @@
-var mnemonic = "robust soldier route junior gift hurt tuition orbit treat network couch goose";
+var mnemonic = "heart alley fatal high useless planet latin gun decide ugly fury twice";

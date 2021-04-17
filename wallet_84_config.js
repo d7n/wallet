@@ -1,1 +1,1 @@
-var mnemonic = "humble write over submit sure sauce moon once hood near deal half";
+var mnemonic = "twelve hand bacon income exercise smart hungry rebel aerobic wall fox city";

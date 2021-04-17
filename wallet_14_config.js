@@ -1,1 +1,1 @@
-var mnemonic = "flat foam mention wash make humor artefact stove business shed topple region";
+var mnemonic = "dismiss van lawsuit you canoe verify flight leave eternal squirrel lift kitchen";

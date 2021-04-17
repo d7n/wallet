@@ -1,1 +1,1 @@
-var mnemonic = "warrior matrix wish miss denial rug judge later rapid vessel position rail";
+var mnemonic = "hammer flavor initial enable advance ritual domain debris wait current property velvet";

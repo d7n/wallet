@@ -1,1 +1,1 @@
-var mnemonic = "sister pole yard similar warfare milk noise donate reward awake brain elegant";
+var mnemonic = "fresh great panda caution risk zebra layer small illegal hotel bargain idle";

@@ -1,1 +1,1 @@
-var mnemonic = "combine pistol blanket aerobic capable woman wrap fun shell critic discover scissors";
+var mnemonic = "put east clog tone sorry immune tunnel face romance source visual artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "whip admit cricket pull bamboo diagram soldier artist round quit option barrel";
+var mnemonic = "auction photo vacant mountain explain total harvest feel tool message push table";

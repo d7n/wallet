@@ -1,1 +1,1 @@
-var mnemonic = "slender lecture purchase tired fortune ordinary spider column fit tornado film seminar";
+var mnemonic = "almost maple wise solution tomato defense gaze shoe frame surround peanut useful";

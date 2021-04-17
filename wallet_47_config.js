@@ -1,1 +1,1 @@
-var mnemonic = "amount program palace frequent all imitate knock present focus shoot shallow mushroom";
+var mnemonic = "please cricket frost antenna wisdom cruel february nut trumpet rich bamboo buyer";

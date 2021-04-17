@@ -1,1 +1,1 @@
-var mnemonic = "velvet sponsor recall coconut income august absorb retreat kingdom effort mushroom library";
+var mnemonic = "witness apple forest steel drift hunt library occur chest used dinosaur major";

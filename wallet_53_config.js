@@ -1,1 +1,1 @@
-var mnemonic = "sense spin empower guide brand prevent goose father arrest cross invite lake";
+var mnemonic = "walk quarter joke innocent table spare thrive hobby better cost tell onion";

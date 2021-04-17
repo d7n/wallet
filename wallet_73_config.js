@@ -1,1 +1,1 @@
-var mnemonic = "hair bundle curve lobster correct merit crouch vanish labor buddy upgrade endless";
+var mnemonic = "toddler any filter dad polar math raven casual ready vehicle smoke intact";

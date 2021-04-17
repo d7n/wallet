@@ -1,1 +1,1 @@
-var mnemonic = "voice spoon soft embrace grab exit cricket faint father donkey exhaust regular";
+var mnemonic = "edit raise home appear where flee doctor gas age office pledge receive";

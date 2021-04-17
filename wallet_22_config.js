@@ -1,1 +1,1 @@
-var mnemonic = "link bomb wood peace type during right detail sense raise position local";
+var mnemonic = "equip sadness few play myself shaft thunder album daring leisure brand bike";

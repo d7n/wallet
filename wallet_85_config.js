@@ -1,1 +1,1 @@
-var mnemonic = "soul random talent process fortune state rich worry load jazz end verb";
+var mnemonic = "mail grain park immune depend improve snack voyage head wink liquid tuna";

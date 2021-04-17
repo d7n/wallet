@@ -1,1 +1,1 @@
-var mnemonic = "cram crystal kangaroo midnight clarify nut repeat hamster crack vendor surge opera";
+var mnemonic = "dawn media delay forget consider test height jelly finish divert snake enter";

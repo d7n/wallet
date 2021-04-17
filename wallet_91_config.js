@@ -1,1 +1,1 @@
-var mnemonic = "zone tilt bundle sound common ready ring clip hard author similar great";
+var mnemonic = "custom amateur swing curtain poet verify rich prize news bag weapon original";

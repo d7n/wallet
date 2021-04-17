@@ -1,1 +1,1 @@
-var mnemonic = "sad turkey hobby benefit bike embark crunch cause glare pitch scale cart";
+var mnemonic = "extra game enroll boil arm bomb peanut whale distance pudding ticket hand";

@@ -1,1 +1,1 @@
-var mnemonic = "people diesel decide electric habit panic pony lumber piano pave topic nerve";
+var mnemonic = "maid satoshi fly mosquito asset elder size arch twin hire echo puzzle";

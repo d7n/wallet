@@ -1,1 +1,1 @@
-var mnemonic = "puppy tree message rigid neck again enhance stick breeze sausage snap world";
+var mnemonic = "wedding ozone table joke gravity demise hub office pupil mother payment universe";

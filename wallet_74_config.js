@@ -1,1 +1,1 @@
-var mnemonic = "stone clerk fog bird clean rare sister sign olympic dash upgrade swamp";
+var mnemonic = "left neck time same until between nest level clever multiply drink guard";

@@ -1,1 +1,1 @@
-var mnemonic = "put course govern steel expire enforce hand result evolve stuff win coral";
+var mnemonic = "vehicle exile view file property anxiety juice fringe until jungle purchase quantum";

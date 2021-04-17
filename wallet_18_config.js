@@ -1,1 +1,1 @@
-var mnemonic = "envelope core renew cheap pole consider fatigue mouse fragile retreat fee drastic";
+var mnemonic = "sock recycle smoke fog butter human thing script tribe lyrics hundred response";

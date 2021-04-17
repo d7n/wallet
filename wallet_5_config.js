@@ -1,1 +1,1 @@
-var mnemonic = "enemy amateur nice empower noodle trigger surface change walnut receive victory dynamic";
+var mnemonic = "bring rigid wealth oil kangaroo proud hotel exhibit lady lounge talk good";

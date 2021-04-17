@@ -1,1 +1,1 @@
-var mnemonic = "razor supply donate wash cause unable raw year vehicle panda review report";
+var mnemonic = "drastic six raw magic pulp wise title shield ring trap quarter eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve animal horn retire leader blouse cereal economy shine clown soul arrive";
+var mnemonic = "night fat grow deputy solid model add treat circle fee equal wage";

@@ -1,1 +1,1 @@
-var mnemonic = "skill brief behind fruit napkin human decline wall latin worth hundred gate";
+var mnemonic = "twist snack vibrant pretty under child anchor doll deer ignore property tank";

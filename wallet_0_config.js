@@ -1,1 +1,1 @@
-var mnemonic = "soon science naive two mammal leaf tackle payment margin test height unaware";
+var mnemonic = "someone hawk photo input sentence debate brand aware total annual spray ready";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope prison soft spot unit circle exist advice action will goddess luggage";
+var mnemonic = "crisp journey desk fold fault neck doctor gesture stereo online cream copper";

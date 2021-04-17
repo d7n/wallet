@@ -1,1 +1,1 @@
-var mnemonic = "idea snow twist usage beauty grit expire someone ball pumpkin answer ribbon";
+var mnemonic = "grape object add base actress move amount convince security spin rice weasel";

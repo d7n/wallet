@@ -1,1 +1,1 @@
-var mnemonic = "cable melt elephant hard aware layer this kitten exile sound gown divorce";
+var mnemonic = "super disagree treat receive cable plunge lawsuit fitness mammal canyon firm surround";

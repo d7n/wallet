@@ -1,1 +1,1 @@
-var mnemonic = "cost bright slot salad chimney suffer cruel upgrade rebuild blur dust child";
+var mnemonic = "morning lock estate trap toss brick assist foster pill visit clip man";

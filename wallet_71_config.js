@@ -1,1 +1,1 @@
-var mnemonic = "return black bridge useless black diagram link game arrive survey weird taxi";
+var mnemonic = "stick fall empower unveil inch city dog enroll balcony elegant explain unknown";

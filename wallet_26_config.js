@@ -1,1 +1,1 @@
-var mnemonic = "donate catch steel bracket veteran else accident organ critic banner warfare napkin";
+var mnemonic = "sentence trigger cart during vacant usual price dry record dice option major";

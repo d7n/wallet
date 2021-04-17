@@ -1,1 +1,1 @@
-var mnemonic = "motor whale point tiger fabric park endless ship sign drink consider trip";
+var mnemonic = "circle rabbit mask sea ocean old insect pulse cream label matter all";

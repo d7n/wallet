@@ -1,1 +1,1 @@
-var mnemonic = "round cycle cream hold once snack wife essence carbon twenty charge warm";
+var mnemonic = "beef aerobic leisure educate hair lonely mango miracle make solid daughter robust";

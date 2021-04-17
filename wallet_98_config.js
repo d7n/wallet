@@ -1,1 +1,1 @@
-var mnemonic = "tattoo arrest walk common gym you walnut quarter pilot brush knock urge";
+var mnemonic = "worth salt earth wrong tissue arena maple bubble reform bargain hotel thought";

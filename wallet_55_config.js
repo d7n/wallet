@@ -1,1 +1,1 @@
-var mnemonic = "nothing hire shoe advance clump same kick venture joy spend immune icon";
+var mnemonic = "grid flip ball level stick home soldier pizza million ride begin pen";

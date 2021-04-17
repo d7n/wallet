@@ -1,1 +1,1 @@
-var mnemonic = "service credit proof laundry typical live town cave aerobic victory lawn silver";
+var mnemonic = "blind cycle inquiry toward endorse pigeon primary dragon power draft lecture capital";
