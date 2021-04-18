@@ -1,1 +1,1 @@
-var mnemonic = "fury scout engage public chicken pretty mom humor move devote save jaguar";
+var mnemonic = "win anchor catch swap delay vehicle swing logic slender throw fault genius";

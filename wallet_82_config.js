@@ -1,1 +1,1 @@
-var mnemonic = "neutral angry rare thought guard uphold frame violin enact hockey tumble minimum";
+var mnemonic = "describe again shove target chunk spell leg fork craft laundry trip float";

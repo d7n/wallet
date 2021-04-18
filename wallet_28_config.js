@@ -1,1 +1,1 @@
-var mnemonic = "during extra fetch secret bracket decade gas blade wedding mesh cook pig";
+var mnemonic = "true stable entire isolate scout card step need rather frost crop message";

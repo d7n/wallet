@@ -1,1 +1,1 @@
-var mnemonic = "praise inject jeans sniff false diary amount cloud dad region convince winner";
+var mnemonic = "monkey fringe salmon pumpkin party scorpion angle burger kite parrot kid clinic";

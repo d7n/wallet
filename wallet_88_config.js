@@ -1,1 +1,1 @@
-var mnemonic = "public onion bread bring rack say film wild razor oppose repeat uncle";
+var mnemonic = "kingdom hazard pudding manage train offer crew price stable design member coral";

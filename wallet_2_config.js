@@ -1,1 +1,1 @@
-var mnemonic = "violin gym bulk crack evolve wide blast distance economy accident young uncle";
+var mnemonic = "drip summer disagree album luxury mail fluid attend dog burst crane club";

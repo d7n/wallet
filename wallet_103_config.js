@@ -1,1 +1,1 @@
-var mnemonic = "lunch seven tattoo leader fresh fault social donkey artist genuine disagree lecture";
+var mnemonic = "buzz evolve secret moral warfare know frame dinner ritual enrich casino piece";

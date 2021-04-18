@@ -1,1 +1,1 @@
-var mnemonic = "oblige wall leisure unaware whale material direct ahead loud dignity slow eternal";
+var mnemonic = "cradle outside pepper left erase salute island water game obvious erupt cotton";

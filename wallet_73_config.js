@@ -1,1 +1,1 @@
-var mnemonic = "knock predict raven lawsuit dish patient frog similar theme piano antique eternal";
+var mnemonic = "say bronze coconut paper force december prize ripple surprise normal mushroom city";

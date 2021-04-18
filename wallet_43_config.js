@@ -1,1 +1,1 @@
-var mnemonic = "duck become cook comfort human sort rain strategy insane dismiss echo oppose";
+var mnemonic = "kid category wrap original erosion forest robot relief nasty vicious famous debate";

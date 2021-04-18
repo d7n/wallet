@@ -1,1 +1,1 @@
-var mnemonic = "bread record inner oven crush fetch swing sail armed abstract rather genuine";
+var mnemonic = "tag fun snow obvious defense two forget wise mimic grid sunset minimum";

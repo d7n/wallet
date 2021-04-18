@@ -1,1 +1,1 @@
-var mnemonic = "endless eternal chuckle unable fit rookie miracle bamboo distance energy modify jewel";
+var mnemonic = "message door devote dove town tape jealous video sock depth detail employ";

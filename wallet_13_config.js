@@ -1,1 +1,1 @@
-var mnemonic = "bicycle ostrich perfect eye soup dizzy fuel leg provide fatal believe army";
+var mnemonic = "betray term poet topple furnace piece ordinary control repair prosper choose mistake";

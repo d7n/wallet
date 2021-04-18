@@ -1,1 +1,1 @@
-var mnemonic = "boost page enhance valid lady mention leave spatial lab vacuum better memory";
+var mnemonic = "adult vicious furnace carry base tackle whale enough peace merge swift around";

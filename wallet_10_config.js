@@ -1,1 +1,1 @@
-var mnemonic = "farm style elephant phone task spatial decrease portion pull wave list refuse";
+var mnemonic = "midnight summer pigeon hand transfer infant slogan trade riot autumn lawsuit spare";

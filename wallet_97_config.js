@@ -1,1 +1,1 @@
-var mnemonic = "regular defense business anchor olive frost protect category home cash make square";
+var mnemonic = "festival ribbon hybrid road engage globe dragon float gain response credit glue";

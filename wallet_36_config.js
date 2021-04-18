@@ -1,1 +1,1 @@
-var mnemonic = "bronze upgrade milk depart unhappy jungle rocket firm unhappy question culture novel";
+var mnemonic = "satisfy absurd damage forest forum shiver chunk food warfare rookie occur violin";

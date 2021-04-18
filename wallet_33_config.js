@@ -1,1 +1,1 @@
-var mnemonic = "hood book minute hint crouch elder brick vast siege friend purpose fortune";
+var mnemonic = "student stick unfair since basic fashion split base void error label domain";

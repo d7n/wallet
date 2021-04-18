@@ -1,1 +1,1 @@
-var mnemonic = "young insect announce ensure problem base soap long air symbol hover rice";
+var mnemonic = "bread logic manage smile property grow dust six public feed inherit hurdle";

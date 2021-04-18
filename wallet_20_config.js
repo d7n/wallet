@@ -1,1 +1,1 @@
-var mnemonic = "museum quick room avoid surround wife miss certain shallow secret vendor ocean";
+var mnemonic = "cat bring hundred immune offer income torch fade affair oblige crack rose";

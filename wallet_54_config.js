@@ -1,1 +1,1 @@
-var mnemonic = "lazy demise proud liar fall coral sword hat core invite middle sphere";
+var mnemonic = "curious admit bitter uphold record echo chest outer fork logic shift open";

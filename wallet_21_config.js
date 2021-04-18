@@ -1,1 +1,1 @@
-var mnemonic = "twelve film lab volume main ball hollow stone there syrup seat brave";
+var mnemonic = "culture carry climb rug bone calm robot secret cousin either kit surface";

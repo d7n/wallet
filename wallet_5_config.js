@@ -1,1 +1,1 @@
-var mnemonic = "olive scare index nurse charge dwarf teach unable sketch tide matrix vocal";
+var mnemonic = "album hair wrestle animal raise cradle sudden color sponsor wagon upon special";

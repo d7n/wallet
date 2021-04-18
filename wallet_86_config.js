@@ -1,1 +1,1 @@
-var mnemonic = "amused kiwi bubble misery pistol ridge surround degree prize guard super cloud";
+var mnemonic = "organ zebra desk track foot kick job craft warfare game hold car";

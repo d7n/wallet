@@ -1,1 +1,1 @@
-var mnemonic = "evoke hurt cart shiver alone giant tell chest pitch easy when puppy";
+var mnemonic = "vintage useful butter coral tortoise add enforce happy next race worth exercise";

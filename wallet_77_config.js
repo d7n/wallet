@@ -1,1 +1,1 @@
-var mnemonic = "bulb body tomorrow margin ostrich cover open control concert grunt deposit parrot";
+var mnemonic = "party harsh live eternal cycle inherit antenna clerk amazing scissors burst drastic";

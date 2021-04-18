@@ -1,1 +1,1 @@
-var mnemonic = "trash skull struggle another dust language oxygen urge top barely slide praise";
+var mnemonic = "bitter twelve bird tobacco twenty category exile shoe believe degree patch false";

@@ -1,1 +1,1 @@
-var mnemonic = "praise pistol stumble three above typical end duck special skate law hour";
+var mnemonic = "report pyramid price snake square donor gauge random small typical okay property";

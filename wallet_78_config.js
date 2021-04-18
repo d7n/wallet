@@ -1,1 +1,1 @@
-var mnemonic = "poem divert resist hover hand verify deposit best aisle whip alter health";
+var mnemonic = "boy afraid diary clutch gossip vital balance hobby fantasy evoke tourist window";

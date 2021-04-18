@@ -1,1 +1,1 @@
-var mnemonic = "shadow illness fan solution street pole enough spend between token idle issue";
+var mnemonic = "stumble chicken thing found rug junk solar laugh snake throw lake super";

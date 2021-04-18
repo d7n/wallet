@@ -1,1 +1,1 @@
-var mnemonic = "list life borrow upset elephant brain rally joke jungle obey shift sand";
+var mnemonic = "solution rival wise bacon ethics improve air address near loud trust risk";

@@ -1,1 +1,1 @@
-var mnemonic = "upper jump immense flame flame mansion amateur fame dizzy upper proud cancel";
+var mnemonic = "kitchen neck normal damp spoon bargain liberty flower mesh mammal steel ginger";

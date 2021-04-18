@@ -1,1 +1,1 @@
-var mnemonic = "stone sign point wheat much dry midnight rubber receive force magnet code";
+var mnemonic = "boy fossil acquire private offer shallow sign genius example siege circle damage";

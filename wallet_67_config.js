@@ -1,1 +1,1 @@
-var mnemonic = "ahead banner banner mandate dentist battle valid find night noise lucky argue";
+var mnemonic = "reform shoulder moment suit corn digital tank okay forum mushroom prefer wood";

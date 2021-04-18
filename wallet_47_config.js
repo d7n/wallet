@@ -1,1 +1,1 @@
-var mnemonic = "gaze mobile scrap alcohol life ecology damp mixed expose lyrics multiply office";
+var mnemonic = "drive token satisfy crime beach craft joke dinosaur earn cherry cupboard resemble";

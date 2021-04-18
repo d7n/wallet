@@ -1,1 +1,1 @@
-var mnemonic = "van this add early across clog stumble cannon unable merge frame twice";
+var mnemonic = "ecology fragile move letter cool ridge fly then truly zebra phrase chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "add siege jeans shrug valve twelve maple own oil clerk behind blood";
+var mnemonic = "script honey grape beyond better crisp round purse solution brick address derive";

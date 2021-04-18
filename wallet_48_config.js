@@ -1,1 +1,1 @@
-var mnemonic = "bread frequent ridge rapid carpet gospel memory already tent catch crack deer";
+var mnemonic = "wreck cup poet also remove into frequent curve luggage method skull hat";

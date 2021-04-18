@@ -1,1 +1,1 @@
-var mnemonic = "south accident viable great grape faith dirt source venue supply list side";
+var mnemonic = "rebuild net where nest return reform stomach mask deposit public you attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "radio order wrap collect purity horror reunion replace expect physical spy settle";
+var mnemonic = "adapt front gate august fit boss kite tag cushion rookie public merit";

@@ -1,1 +1,1 @@
-var mnemonic = "faith boy involve correct sand avocado immense enrich avocado fringe unknown genre";
+var mnemonic = "virus misery opera never crisp ask boat smart meat enter copy once";

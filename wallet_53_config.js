@@ -1,1 +1,1 @@
-var mnemonic = "win surround shy cherry retire choose champion increase salt fresh zebra mimic";
+var mnemonic = "dumb village field mention follow cherry cactus click galaxy flavor gospel eternal";

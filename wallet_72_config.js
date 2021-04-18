@@ -1,1 +1,1 @@
-var mnemonic = "average until enable eagle secret host lumber keep rebuild disorder potato toss";
+var mnemonic = "rival peasant virtual window chest combine glue horn bridge unique arrange harsh";

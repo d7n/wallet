@@ -1,1 +1,1 @@
-var mnemonic = "bulk paddle obscure paper misery orchard amused lady change country discover unlock";
+var mnemonic = "write diesel antenna emerge motor screen conduct rescue desert volcano casino another";

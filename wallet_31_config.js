@@ -1,1 +1,1 @@
-var mnemonic = "midnight illness when loud network lyrics daughter crumble method uncover kingdom wrap";
+var mnemonic = "leisure digital color secret capital you cricket math call rely crack vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "early finish version edit unaware day prevent wild glance virus metal hint";
+var mnemonic = "sell wheat diesel amazing borrow shy magic stem suffer rotate icon convince";

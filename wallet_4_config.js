@@ -1,1 +1,1 @@
-var mnemonic = "doll crucial million tackle wheat post core idea elevator danger quit vehicle";
+var mnemonic = "crime drip muscle evolve pepper enhance vocal myself loud pioneer feature clean";

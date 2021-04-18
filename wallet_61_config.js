@@ -1,1 +1,1 @@
-var mnemonic = "focus beauty globe tent drill memory antenna actress trust object lottery typical";
+var mnemonic = "recipe town dinner expose creek boat jar mountain keep then rhythm glow";

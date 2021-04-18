@@ -1,1 +1,1 @@
-var mnemonic = "atom ticket mansion whale slam brief medal snake attract eye author cat";
+var mnemonic = "spy movie cover quality fit quality hazard uniform sponsor ring hand limit";

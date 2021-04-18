@@ -1,1 +1,1 @@
-var mnemonic = "icon cereal catalog half supply away all vapor embark other clump damp";
+var mnemonic = "laundry special pizza level write topic lumber real style long carbon sketch";

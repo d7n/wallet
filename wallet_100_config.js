@@ -1,1 +1,1 @@
-var mnemonic = "autumn loan civil opera rich decide mercy collect comfort virus session lawsuit";
+var mnemonic = "force holiday muscle thrive lend grief cable fabric crop mansion tuna tip";

@@ -1,1 +1,1 @@
-var mnemonic = "notice heart boss topple dress ten divorce essay tortoise mango subway walk";
+var mnemonic = "basket mango night erase stay situate wrist repair segment render target corn";

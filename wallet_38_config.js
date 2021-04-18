@@ -1,1 +1,1 @@
-var mnemonic = "cliff try two index subway alter plate strategy gain miracle cage creek";
+var mnemonic = "fee ripple taste depth cross olive citizen retire panda large apology ahead";

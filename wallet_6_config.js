@@ -1,1 +1,1 @@
-var mnemonic = "amazing horse hurry relax remind convince evolve perfect glide peanut entire globe";
+var mnemonic = "shell predict glimpse drip again ski organ hazard scale glimpse about give";

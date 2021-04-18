@@ -1,1 +1,1 @@
-var mnemonic = "cat check eager page forward monitor muffin mammal neglect ghost van whale";
+var mnemonic = "bike slice sphere half material rhythm canal sound earn tower flavor drum";

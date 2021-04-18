@@ -1,1 +1,1 @@
-var mnemonic = "question old lift sun public focus pretty floor consider satoshi slight calm";
+var mnemonic = "glimpse inform rare knee enter above example traffic echo midnight together toast";

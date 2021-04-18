@@ -1,1 +1,1 @@
-var mnemonic = "erase nation visit stone cost sight connect arctic hybrid pizza margin unlock";
+var mnemonic = "salt combine uphold stone brass object oak chase end cushion omit portion";

@@ -1,1 +1,1 @@
-var mnemonic = "body fantasy gentle wonder analyst heart unable grow barely actual pair maze";
+var mnemonic = "baby banner law walnut pioneer stand horror supply elite entire fuel word";

@@ -1,1 +1,1 @@
-var mnemonic = "strong ordinary badge must erode slender soap lab disorder prison rug city";
+var mnemonic = "gesture unlock pitch grow ostrich trigger observe blame blouse symptom clock often";

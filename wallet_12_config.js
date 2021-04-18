@@ -1,1 +1,1 @@
-var mnemonic = "cheap range permit tip vacant fine enhance radio foam broccoli raven album";
+var mnemonic = "magnet kind disorder rebuild aisle chief lens puzzle eye pool scatter ankle";

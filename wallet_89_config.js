@@ -1,1 +1,1 @@
-var mnemonic = "prosper salmon toss fabric april nothing kick endorse depth pool choose destroy";
+var mnemonic = "wheat mouse bless foam style chimney duty maximum meat wet put float";

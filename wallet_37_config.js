@@ -1,1 +1,1 @@
-var mnemonic = "catalog mother step coyote pave indicate pupil bag cargo reveal code coral";
+var mnemonic = "casual zoo differ venue deliver wood phrase genre cousin rare brand video";

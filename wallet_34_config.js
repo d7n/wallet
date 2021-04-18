@@ -1,1 +1,1 @@
-var mnemonic = "awful always march ramp live fog predict love myth scene unfold mixed";
+var mnemonic = "wave eyebrow magnet hair kit wonder mansion hazard pelican shine lounge swim";

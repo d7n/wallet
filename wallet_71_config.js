@@ -1,1 +1,1 @@
-var mnemonic = "matter capital siren horror still robot net impose fish toast link use";
+var mnemonic = "fun bring primary grant dose purpose horn motion crowd legend dismiss mixture";

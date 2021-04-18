@@ -1,1 +1,1 @@
-var mnemonic = "acid already smoke lens live normal bread bar mule input sudden roast";
+var mnemonic = "trophy hip major cream mix win object science flip tag place shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "media tilt duck job license owner chat horror jacket gun little pioneer";
+var mnemonic = "sing hobby picnic relax athlete under board same taste update small write";

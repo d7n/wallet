@@ -1,1 +1,1 @@
-var mnemonic = "sheriff update heart congress menu runway uncle symbol board ordinary tower jealous";
+var mnemonic = "empty abandon gasp island latin honey woman manage power birth source brand";

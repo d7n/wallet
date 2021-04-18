@@ -1,1 +1,1 @@
-var mnemonic = "senior verify pet pride fine prosper travel choose dash finish whisper case";
+var mnemonic = "spring sister village label attitude brain bulk fantasy black sister ability problem";

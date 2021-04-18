@@ -1,1 +1,1 @@
-var mnemonic = "loud cereal indicate ivory joke cabin switch vessel ready produce foil health";
+var mnemonic = "name believe misery poem arrange attend decline job clinic almost ring immense";

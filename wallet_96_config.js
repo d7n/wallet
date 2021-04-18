@@ -1,1 +1,1 @@
-var mnemonic = "capital enhance grace traffic razor purchase hobby pigeon brisk suspect improve tilt";
+var mnemonic = "burger menu fan file setup mandate elegant fossil pilot dose rail vapor";

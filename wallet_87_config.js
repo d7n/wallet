@@ -1,1 +1,1 @@
-var mnemonic = "faculty stomach scrub potato camera arctic witness mandate able chaos odor distance";
+var mnemonic = "animal task survey chaos raise trick inquiry chimney wrap apple aim charge";

@@ -1,1 +1,1 @@
-var mnemonic = "type crisp evil crop trial wise loop job enter tiny rent volume";
+var mnemonic = "imitate swallow alcohol book install response jar huge beyond cruise engage captain";

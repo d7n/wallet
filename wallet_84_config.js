@@ -1,1 +1,1 @@
-var mnemonic = "crane accuse river lock kitchen milk bicycle rotate mosquito absurd valve mercy";
+var mnemonic = "squirrel liar buyer upon truth raven joy young road filter mention coast";

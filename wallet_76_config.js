@@ -1,1 +1,1 @@
-var mnemonic = "picnic smart mirror supreme anger crash gate consider fish just gravity basket";
+var mnemonic = "mix short chicken mad fancy month future fiber section embody kit casual";

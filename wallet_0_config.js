@@ -1,1 +1,1 @@
-var mnemonic = "west moon remember tip soon music assume approve repeat slender member merge";
+var mnemonic = "twist catalog invite dumb quote type giggle cheap wage ladder artefact odor";

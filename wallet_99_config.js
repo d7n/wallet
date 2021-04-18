@@ -1,1 +1,1 @@
-var mnemonic = "promote resist window jewel cabbage traffic drip slim snack venue torch route";
+var mnemonic = "elephant rapid find bridge obvious two click fine upon ahead length regret";

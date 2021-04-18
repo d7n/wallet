@@ -1,1 +1,1 @@
-var mnemonic = "random hammer brain prefer veteran soup famous eye quantum day ladder ten";
+var mnemonic = "else walnut unfold hotel metal oblige gym close obvious wise firm execute";

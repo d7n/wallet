@@ -1,1 +1,1 @@
-var mnemonic = "test kitchen visual front exchange spot weird claim suffer bullet depth answer";
+var mnemonic = "file toddler supreme siren waste lion awkward entire case arch useless setup";

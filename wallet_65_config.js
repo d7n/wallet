@@ -1,1 +1,1 @@
-var mnemonic = "prevent lawn avoid embark grab gown tiger mimic manage seminar affair magic";
+var mnemonic = "impact feature total cute swarm sauce oil whisper vivid carpet offer other";

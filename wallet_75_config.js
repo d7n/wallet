@@ -1,1 +1,1 @@
-var mnemonic = "inspire stand furnace flight sing fiction shoulder stable truly skull idle morning";
+var mnemonic = "fork guitar flee youth stage spring wonder funny ostrich region aim canal";

@@ -1,1 +1,1 @@
-var mnemonic = "other join simple shoot where define worth photo maximum marble almost wreck";
+var mnemonic = "stock theme bless system catalog clock loop label bicycle file come include";

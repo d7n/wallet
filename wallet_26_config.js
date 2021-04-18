@@ -1,1 +1,1 @@
-var mnemonic = "body diagram size proof lemon urge virus trust chef aim stadium involve";
+var mnemonic = "unlock husband ball walnut rude expire matter spring bring dial struggle trade";

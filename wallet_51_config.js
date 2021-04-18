@@ -1,1 +1,1 @@
-var mnemonic = "solve police one kind pottery obtain city clown gun violin author abstract";
+var mnemonic = "bamboo choose ensure actual noise subject erosion message title squeeze spend name";

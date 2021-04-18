@@ -1,1 +1,1 @@
-var mnemonic = "black pony library tornado rain army fuel weather rhythm stem large crush";
+var mnemonic = "unable human erosion thought job banana divide tray pond valid credit crane";

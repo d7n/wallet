@@ -1,1 +1,1 @@
-var mnemonic = "jaguar broccoli tooth jealous lunch dirt beach champion armed lazy slot level";
+var mnemonic = "juice length human girl depth section example exile caught choice envelope rail";

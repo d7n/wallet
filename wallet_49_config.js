@@ -1,1 +1,1 @@
-var mnemonic = "jazz zoo priority dish decline cancel chief proud injury source tattoo under";
+var mnemonic = "transfer shine unfold recall border recipe omit juice pottery wing victory unusual";

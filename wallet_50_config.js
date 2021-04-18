@@ -1,1 +1,1 @@
-var mnemonic = "museum drive noise enemy harsh canal pond column dream town weapon unusual";
+var mnemonic = "scorpion myth river rabbit maple lamp urban wreck legal just bird pepper";

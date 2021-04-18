@@ -1,1 +1,1 @@
-var mnemonic = "safe mango pony figure best cricket oak industry render install gasp resource";
+var mnemonic = "dash budget beach tank describe flower elbow monster monster tourist depend click";

@@ -1,1 +1,1 @@
-var mnemonic = "speed access relief swap unfold load strong moment upon holiday profit cliff";
+var mnemonic = "plastic congress near success brush worry kind hundred soup calm snack convince";

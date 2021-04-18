@@ -1,1 +1,1 @@
-var mnemonic = "purity basket talk begin motion only tongue there dinosaur scan easy viable";
+var mnemonic = "embrace elephant refuse absent long hope member copy company fork actor patient";
