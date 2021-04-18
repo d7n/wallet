@@ -1,1 +1,1 @@
-var mnemonic = "section trouble sudden beyond exile prefer fun involve permit science feature spawn";
+var mnemonic = "equip vicious borrow lizard fire rare affair option glow entire phone box";

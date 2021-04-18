@@ -1,1 +1,1 @@
-var mnemonic = "first fashion notice lottery brush ball shell remove flavor story chief clinic";
+var mnemonic = "social diary thrive shine gain tobacco sustain series else good accuse detect";

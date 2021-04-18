@@ -1,1 +1,1 @@
-var mnemonic = "sure water way fitness layer tornado rapid submit balcony soul hybrid evil";
+var mnemonic = "three evil web series sun where cheese odor plate dentist brisk monkey";

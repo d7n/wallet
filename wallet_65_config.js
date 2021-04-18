@@ -1,1 +1,1 @@
-var mnemonic = "wear finish loan grape beauty toy garment tuna beauty garbage relief wife";
+var mnemonic = "rhythm weasel minute glove noise improve enhance rally asset tackle filter weird";

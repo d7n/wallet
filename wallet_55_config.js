@@ -1,1 +1,1 @@
-var mnemonic = "exhibit fancy solid catch grain protect neglect funny machine disorder stock gather";
+var mnemonic = "father range reunion angle dentist swarm relax float casual orbit sibling defy";

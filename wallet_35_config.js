@@ -1,1 +1,1 @@
-var mnemonic = "plate social buyer attract illness mail large air umbrella author light assume";
+var mnemonic = "keen hockey alien random bag plug brand envelope movie blind display swear";

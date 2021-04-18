@@ -1,1 +1,1 @@
-var mnemonic = "risk section sort dumb inside much consider false foot slush west decorate";
+var mnemonic = "gauge frame trouble gift hero donkey snap gym topic hidden all visual";

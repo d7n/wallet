@@ -1,1 +1,1 @@
-var mnemonic = "divert lonely humble say domain attitude gospel crime chapter motion era jealous";
+var mnemonic = "toe unveil lizard giant pair curve often manual trim rocket uphold witness";

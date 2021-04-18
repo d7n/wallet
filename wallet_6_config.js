@@ -1,1 +1,1 @@
-var mnemonic = "brother market risk embark horse pet bleak time benefit tenant live plate";
+var mnemonic = "caught fork teach auto random spread blue pencil join negative man sell";

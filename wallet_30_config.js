@@ -1,1 +1,1 @@
-var mnemonic = "mix lamp when raccoon diet thrive april gentle kit shop link random";
+var mnemonic = "recall detect ivory knife tomorrow bomb music verb special wolf winter auto";

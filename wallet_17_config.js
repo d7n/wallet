@@ -1,1 +1,1 @@
-var mnemonic = "buzz endorse female menu damp glove shop bleak benefit into fire mango";
+var mnemonic = "already buffalo cereal piano gasp traffic blade nut ride display radio grunt";

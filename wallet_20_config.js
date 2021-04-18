@@ -1,1 +1,1 @@
-var mnemonic = "cloth outdoor strong leave urban large elbow mass gather undo solar wink";
+var mnemonic = "method swear equal giant harvest conduct brick still tragic strong first erosion";

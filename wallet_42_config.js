@@ -1,1 +1,1 @@
-var mnemonic = "two forward figure recycle husband tonight snow cheese illness oppose genre yellow";
+var mnemonic = "brisk please mandate defy game flash enforce fossil embody barrel excuse drop";

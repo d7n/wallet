@@ -1,1 +1,1 @@
-var mnemonic = "worry alter buyer solid evidence regret garbage rival tool sauce direct gloom";
+var mnemonic = "escape joy plastic scorpion doctor battle then pulp will civil cream rose";

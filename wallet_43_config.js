@@ -1,1 +1,1 @@
-var mnemonic = "guitar electric admit strategy mind faint injury vicious motion grid ritual climb";
+var mnemonic = "cabin awful sign guide gap essence piano salt universe alter nature market";

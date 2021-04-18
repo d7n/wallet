@@ -1,1 +1,1 @@
-var mnemonic = "initial board process card flip fever finger behind stomach south card refuse";
+var mnemonic = "dolphin gospel profit always say athlete caught garage mention picture artist fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "stay arena rally cart false actual plate vacuum mad guard group then";
+var mnemonic = "cigar kind surround october husband thank system denial corn argue knife force";

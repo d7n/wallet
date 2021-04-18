@@ -1,1 +1,1 @@
-var mnemonic = "swap myself expect baby manual music gentle worth baby have field enrich";
+var mnemonic = "dolphin dog duck strategy truth wedding power napkin moment reject damage palace";

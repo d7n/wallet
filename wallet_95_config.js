@@ -1,1 +1,1 @@
-var mnemonic = "jealous axis army present light pill mango illness bargain ribbon green village";
+var mnemonic = "afford thrive inject simple during young crystal earth opera social coast punch";

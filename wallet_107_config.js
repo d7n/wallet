@@ -1,1 +1,1 @@
-var mnemonic = "shoe symbol hip range lunar awake danger below chunk cake initial brisk";
+var mnemonic = "ensure kiss lyrics ecology rally twist fork save equal fluid layer tooth";

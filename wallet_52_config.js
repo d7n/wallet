@@ -1,1 +1,1 @@
-var mnemonic = "bid robot planet primary eagle expand wide uniform net curtain account capital";
+var mnemonic = "pilot lobster betray coin slender onion arena bird build cruise arrest useful";

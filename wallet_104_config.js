@@ -1,1 +1,1 @@
-var mnemonic = "response large warm reveal host describe beyond advance fashion budget wasp proud";
+var mnemonic = "thank bind offer parade easy cloud time ivory buzz labor involve friend";

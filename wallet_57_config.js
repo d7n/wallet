@@ -1,1 +1,1 @@
-var mnemonic = "address burst collect flock school resemble cabbage use wife service elder path";
+var mnemonic = "desert honey crowd where glare must item inspire alcohol cereal mention echo";

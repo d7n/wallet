@@ -1,1 +1,1 @@
-var mnemonic = "balance hub until unfold relax warfare joke style rival boil price story";
+var mnemonic = "weasel wine spike worth welcome repeat embody impact orchard fruit liquid expect";

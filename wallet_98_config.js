@@ -1,1 +1,1 @@
-var mnemonic = "ask donkey settle shrimp ten lounge easy cruel undo tunnel rose banner";
+var mnemonic = "main trick sad clog inch lava banner long record alley measure wire";

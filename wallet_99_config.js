@@ -1,1 +1,1 @@
-var mnemonic = "doll latin oval behind saddle surprise cruise useless lyrics slim donkey figure";
+var mnemonic = "nothing merit orange dream pact diagram bitter spawn gaze essay depart weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid recall lunar laptop rack sell novel trend miracle ceiling sustain business";
+var mnemonic = "mule blur flee salad shy fault fault ice slim shiver bring super";

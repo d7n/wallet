@@ -1,1 +1,1 @@
-var mnemonic = "power control negative provide rich coyote inquiry virtual solve dad adult dawn";
+var mnemonic = "stumble reflect way visit velvet vault result shrug position receive rebuild process";

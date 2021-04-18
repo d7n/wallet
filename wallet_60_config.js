@@ -1,1 +1,1 @@
-var mnemonic = "dirt budget fly science royal whip call cash book wise erase illness";
+var mnemonic = "fun order develop escape derive element excess filter route slogan stable perfect";

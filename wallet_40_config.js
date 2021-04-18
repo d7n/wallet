@@ -1,1 +1,1 @@
-var mnemonic = "trim entry tag twice oak laugh peace simple track pause math old";
+var mnemonic = "under pill unaware dial leave vital neglect pledge peace fringe ready ship";

@@ -1,1 +1,1 @@
-var mnemonic = "dog attitude warfare all fatigue toy collect copy fly typical success blood";
+var mnemonic = "suggest eagle knee proof hold crime medal total fury replace toddler primary";

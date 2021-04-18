@@ -1,1 +1,1 @@
-var mnemonic = "wreck problem lumber chunk book chair universe answer answer thing exhaust blur";
+var mnemonic = "panel magnet scorpion man series stomach admit tragic figure thing bone unhappy";

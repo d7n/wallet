@@ -1,1 +1,1 @@
-var mnemonic = "loan space copper hover forum hockey forum panic garment hospital proud rely";
+var mnemonic = "tag verify almost chapter joy orange extend adapt atom soda embark sustain";

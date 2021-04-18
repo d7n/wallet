@@ -1,1 +1,1 @@
-var mnemonic = "program brother clap orchard learn cruel swallow shock rotate frown extra seed";
+var mnemonic = "volume mercy wheel hub rally purse globe present ketchup involve reduce exotic";

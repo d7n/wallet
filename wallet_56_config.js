@@ -1,1 +1,1 @@
-var mnemonic = "view opera camera magnet screen cute famous lawsuit region sample tomato poverty";
+var mnemonic = "relief wage magic reflect reduce banana roast blue slush gaze hood muscle";

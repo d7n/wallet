@@ -1,1 +1,1 @@
-var mnemonic = "toddler emotion oven because kit gun inform ticket bomb mammal gown dignity";
+var mnemonic = "fix key bind quiz thrive volcano habit health reject silly engine mail";

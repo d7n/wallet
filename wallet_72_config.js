@@ -1,1 +1,1 @@
-var mnemonic = "need card legend april certain jacket ginger private state angry above hat";
+var mnemonic = "beauty core people relax ribbon team top exile burst curve wool mention";

@@ -1,1 +1,1 @@
-var mnemonic = "know drip pen cost mystery agent drip crouch salad solar staff rice";
+var mnemonic = "easily security flee eagle welcome reopen tag please wing math job pill";

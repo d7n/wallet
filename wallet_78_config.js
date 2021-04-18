@@ -1,1 +1,1 @@
-var mnemonic = "million urban volcano retire update wife fit accident oppose wild tackle chalk";
+var mnemonic = "glance ripple burger tenant shrimp amazing deputy spoil skin penalty iron chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "food stage horror worth knife glance hard robot seed spatial hamster swing";
+var mnemonic = "fiction album inspire angle sick together clip body reason year patient ugly";

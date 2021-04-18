@@ -1,1 +1,1 @@
-var mnemonic = "lucky april apology category off van distance today giant snake slow cause";
+var mnemonic = "diamond swing urge spice able submit begin cabbage minimum bacon nest stomach";

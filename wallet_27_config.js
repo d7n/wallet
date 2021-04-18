@@ -1,1 +1,1 @@
-var mnemonic = "wire brand badge census verb range blue develop second grit legend barrel";
+var mnemonic = "victory plastic settle cave hamster favorite slim become gadget once churn robot";

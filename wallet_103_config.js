@@ -1,1 +1,1 @@
-var mnemonic = "potato orphan replace evil glad bench crumble primary about include clever fault";
+var mnemonic = "depart tool carry wedding liberty leave bar input organ coral frog twelve";

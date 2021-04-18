@@ -1,1 +1,1 @@
-var mnemonic = "scare excuse parade economy below lawsuit maze youth proof perfect fuel winter";
+var mnemonic = "angle wheel soda smoke suit foster disorder since plate lottery pave twist";

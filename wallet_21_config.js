@@ -1,1 +1,1 @@
-var mnemonic = "wall fiction violin control eyebrow step wedding atom used shock march south";
+var mnemonic = "finger sock cave sweet slim conduct please oil ring receive hat cube";

@@ -1,1 +1,1 @@
-var mnemonic = "theory decide shift view sample quarter easily camp inform middle trip weather";
+var mnemonic = "bulk axis figure universe matrix afford crisp holiday wreck creek join lizard";

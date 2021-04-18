@@ -1,1 +1,1 @@
-var mnemonic = "gesture latin daughter toddler whip also benefit humor sure balcony never jazz";
+var mnemonic = "weasel impulse viable milk priority under find polar law half grab once";

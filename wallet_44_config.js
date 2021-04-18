@@ -1,1 +1,1 @@
-var mnemonic = "ten leg buddy comic glow arrow chronic choose lab goddess actress eagle";
+var mnemonic = "action sport solid torch fiction hybrid shine frog curtain portion duck cliff";

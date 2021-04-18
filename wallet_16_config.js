@@ -1,1 +1,1 @@
-var mnemonic = "soldier turtle water clever turn donate volcano token actress slot civil stone";
+var mnemonic = "cloud debate excite antenna hedgehog secret candy lyrics proof audit cheese keep";

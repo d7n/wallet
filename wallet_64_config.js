@@ -1,1 +1,1 @@
-var mnemonic = "mobile chronic today melody ocean sure knee invest squeeze fuel find climb";
+var mnemonic = "detail basic evil supply depend trophy better symptom exit tongue insane rather";

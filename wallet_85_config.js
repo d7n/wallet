@@ -1,1 +1,1 @@
-var mnemonic = "split inmate depend jealous explain please lunch stairs industry entry believe century";
+var mnemonic = "honey north fault document run inquiry mango mountain carpet peasant morning loyal";

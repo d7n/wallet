@@ -1,1 +1,1 @@
-var mnemonic = "wool illness used truth resist current monkey girl brown much under enemy";
+var mnemonic = "owner sketch bracket pole regular park lecture token stable pull glad rather";

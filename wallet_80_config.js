@@ -1,1 +1,1 @@
-var mnemonic = "alcohol burden pond senior kingdom actor rural output try design kite physical";
+var mnemonic = "crowd endless order symbol scrap crystal jeans number physical lumber cram output";

@@ -1,1 +1,1 @@
-var mnemonic = "dust can turtle tackle rate sniff orbit joke blossom shine junior pause";
+var mnemonic = "display super notice awake jaguar royal spoon endorse diesel hole display crack";

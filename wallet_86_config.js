@@ -1,1 +1,1 @@
-var mnemonic = "task step original attitude decade dutch loyal solid evolve wedding curious glad";
+var mnemonic = "blue ramp sure journey autumn chuckle sound also space enhance shift topple";

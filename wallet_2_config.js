@@ -1,1 +1,1 @@
-var mnemonic = "relief scatter reveal confirm tribe ridge supply vast render enact remove include";
+var mnemonic = "slim wisdom when zone topple borrow actress vivid novel business ice rack";

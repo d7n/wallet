@@ -1,1 +1,1 @@
-var mnemonic = "dress draw use hint unit marble car bean visual extra double blouse";
+var mnemonic = "relief over harsh you flight iron detect super leopard slush viable useless";

@@ -1,1 +1,1 @@
-var mnemonic = "march total shrug brown picture spider cost theme celery dance flavor loan";
+var mnemonic = "outside kitchen hand bulk wine pen mention card drama brother flock prize";

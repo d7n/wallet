@@ -1,1 +1,1 @@
-var mnemonic = "resemble blur sudden various veteran rely almost agent wood rhythm size mushroom";
+var mnemonic = "misery amount puppy pledge master relax where board elephant material ivory exact";

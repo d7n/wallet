@@ -1,1 +1,1 @@
-var mnemonic = "south page skin actual turtle bamboo tank foot blind diet forest huge";
+var mnemonic = "food earth plastic quick bag recall cupboard stage apart spy surface rival";

@@ -1,1 +1,1 @@
-var mnemonic = "orient moment plug unveil ranch zero welcome open parrot sad ethics police";
+var mnemonic = "width crater bread supreme mirror exit hungry zoo prison girl glass expect";

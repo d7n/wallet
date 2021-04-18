@@ -1,1 +1,1 @@
-var mnemonic = "toy wagon rocket pen answer man enact venue rebuild ready horse devote";
+var mnemonic = "concert slab two rare text type garage eagle hip fold abandon gravity";

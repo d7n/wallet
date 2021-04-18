@@ -1,1 +1,1 @@
-var mnemonic = "thunder glare loyal maze pupil fine current pilot barely turkey item spoil";
+var mnemonic = "spice bundle glad option lucky palace this among ostrich rail genre box";

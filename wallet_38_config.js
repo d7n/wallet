@@ -1,1 +1,1 @@
-var mnemonic = "undo possible pause garlic off tank under leader hurry credit nephew grass";
+var mnemonic = "clinic upper mixed dynamic wing buffalo say once cotton pitch forum bag";

@@ -1,1 +1,1 @@
-var mnemonic = "walk immune true ball truth reopen trim echo race address upper define";
+var mnemonic = "inside rent bring scan tide year flat brown stone cool fancy cancel";

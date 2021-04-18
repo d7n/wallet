@@ -1,1 +1,1 @@
-var mnemonic = "siren tonight party immune analyst mention oblige essay cloud grab expect beauty";
+var mnemonic = "guilt fresh eight favorite best kitchen wood hold hill type panda accident";

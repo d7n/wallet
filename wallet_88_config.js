@@ -1,1 +1,1 @@
-var mnemonic = "cannon someone double garlic spice brain receive soul innocent kitchen genre success";
+var mnemonic = "tooth critic later sentence insect patch cereal trick wild tool actress tortoise";

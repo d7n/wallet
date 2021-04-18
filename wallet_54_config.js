@@ -1,1 +1,1 @@
-var mnemonic = "strategy already nut insane gloom blame must arrive creek cycle flavor excite";
+var mnemonic = "solve today ancient come rescue feel route dolphin gadget library birth sell";

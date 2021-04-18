@@ -1,1 +1,1 @@
-var mnemonic = "suit close chicken fun consider average wing welcome nuclear genius quit any";
+var mnemonic = "critic vacuum team brave merit negative festival supreme rotate wear margin plate";

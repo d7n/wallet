@@ -1,1 +1,1 @@
-var mnemonic = "element magnet salt fault staff melody police fork toe betray twelve season";
+var mnemonic = "sort lamp dose advance enforce quality scrub smile fever clay vacuum erosion";

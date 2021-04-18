@@ -1,1 +1,1 @@
-var mnemonic = "usage uniform young recall photo thumb swim text couch mouse potato tortoise";
+var mnemonic = "hidden find cancel tank gold reduce still protect ugly couple magnet interest";

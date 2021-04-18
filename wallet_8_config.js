@@ -1,1 +1,1 @@
-var mnemonic = "enlist office social elbow enroll upset clip aware near consider into suit";
+var mnemonic = "law around govern thing pilot hazard review wage mimic behind sand keep";

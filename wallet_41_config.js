@@ -1,1 +1,1 @@
-var mnemonic = "organ tip bonus print holiday girl acoustic barely cliff battle steak sniff";
+var mnemonic = "memory refuse bounce laugh fetch drill drift disagree cram canvas scatter volume";

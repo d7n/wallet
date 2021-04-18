@@ -1,1 +1,1 @@
-var mnemonic = "reduce bitter expire slush series remove sun jeans pink stick tray gloom";
+var mnemonic = "apple gravity salmon strategy conduct process detect lawsuit elite iron blue tissue";

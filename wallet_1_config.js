@@ -1,1 +1,1 @@
-var mnemonic = "flee buddy tail verify great salon episode wheat food hip dirt feed";
+var mnemonic = "repair sword mixture vital great resource flip shock useful carbon invite uncle";

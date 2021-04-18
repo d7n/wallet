@@ -1,1 +1,1 @@
-var mnemonic = "snap cliff youth cost awake allow giraffe rural hospital used enhance zone";
+var mnemonic = "bronze blush menu seek cat check amazing buyer zoo doll style circle";

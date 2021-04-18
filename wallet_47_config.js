@@ -1,1 +1,1 @@
-var mnemonic = "submit example property same debate pear globe any track parrot bread core";
+var mnemonic = "despair spin dragon illegal myself collect case bulb wagon mass roast doctor";

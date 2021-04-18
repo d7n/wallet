@@ -1,1 +1,1 @@
-var mnemonic = "rifle risk crucial deposit laundry account coast south erupt trap coach axis";
+var mnemonic = "promote kiss hint drink noise inflict noodle student sample train aspect gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "diary camera jungle canvas biology escape parade disease sponsor disease whip indicate";
+var mnemonic = "wise solar brass poem staff drill hobby flock armor unusual slide busy";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy able donor orphan gate lend tornado river fancy table parent raven";
+var mnemonic = "truth slam interest cook choice will yellow tray boy oppose crop include";

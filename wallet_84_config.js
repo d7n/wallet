@@ -1,1 +1,1 @@
-var mnemonic = "wide fit federal bulk walk make local deny purchase reform canvas aisle";
+var mnemonic = "enact sauce pluck dolphin spider behave hockey federal pudding online future spider";

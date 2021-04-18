@@ -1,1 +1,1 @@
-var mnemonic = "enact gorilla blouse neutral code lava denial spread pair call dove weird";
+var mnemonic = "large hammer illness maximum rent short another traffic novel blur country defense";

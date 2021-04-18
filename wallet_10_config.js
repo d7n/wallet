@@ -1,1 +1,1 @@
-var mnemonic = "tuition human trust report sponsor gallery juice ankle buddy tomorrow frequent valid";
+var mnemonic = "ride then feel empower faculty warm useless accuse inquiry proof inside visit";

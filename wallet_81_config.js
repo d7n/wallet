@@ -1,1 +1,1 @@
-var mnemonic = "canoe asset adjust then answer blood anxiety swift adjust canal harvest seminar";
+var mnemonic = "outside silent jelly hover local denial tag monkey flee combine inherit chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud elephant market captain solution achieve latin purse voyage quote favorite again";
+var mnemonic = "wheel panel embrace surge lottery check jungle fitness gun confirm harsh admit";

@@ -1,1 +1,1 @@
-var mnemonic = "affair theme emerge camp this cash hover owner theme solution unfair turn";
+var mnemonic = "coil choice initial wonder pride pony search much push humble uphold crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "wink forum enroll movie recall ugly hub despair episode mean chicken dust";
+var mnemonic = "split federal coyote mouse coast sound able spend burden price solid stamp";

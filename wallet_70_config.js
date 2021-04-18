@@ -1,1 +1,1 @@
-var mnemonic = "image trouble maximum woman urge purchase wet cereal pass sting manage stamp";
+var mnemonic = "carry area real thrive pioneer keep cross pottery rapid comic picnic brain";

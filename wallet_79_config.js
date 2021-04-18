@@ -1,1 +1,1 @@
-var mnemonic = "ginger scatter together save please stage memory place estate galaxy tiny warrior";
+var mnemonic = "box despair venture excess manage emotion rhythm bonus process detect oven tell";

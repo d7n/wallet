@@ -1,1 +1,1 @@
-var mnemonic = "slim rapid budget shed clap laugh stadium require rescue chest pause return";
+var mnemonic = "top layer future erode story fatigue east ancient tent rack moon salad";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp bounce art hip perfect library tool dolphin bubble beach grunt lift";
+var mnemonic = "ladder distance planet reunion humor tray addict audit knee animal other leisure";

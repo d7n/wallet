@@ -1,1 +1,1 @@
-var mnemonic = "sponsor fitness hub airport broccoli ritual gas frame sentence bean change vote";
+var mnemonic = "vocal toilet draft slight elegant actress human measure scatter damp target service";

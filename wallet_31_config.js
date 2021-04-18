@@ -1,1 +1,1 @@
-var mnemonic = "advance host sample peasant direct year trigger kitten pluck giggle few weird";
+var mnemonic = "occur tower stomach heart female rain treat symbol client hold reform pilot";

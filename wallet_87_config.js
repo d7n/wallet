@@ -1,1 +1,1 @@
-var mnemonic = "unlock club rug veteran path nation lunch crumble diesel oak napkin vessel";
+var mnemonic = "nose potato ecology coach bag flip connect frozen hold volume enlist place";

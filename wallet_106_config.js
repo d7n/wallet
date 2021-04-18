@@ -1,1 +1,1 @@
-var mnemonic = "bitter resemble dynamic broken ginger dog endorse modify ship dance month grain";
+var mnemonic = "fringe help defy festival angle broom bunker salmon evidence scorpion punch ready";

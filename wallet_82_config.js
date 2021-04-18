@@ -1,1 +1,1 @@
-var mnemonic = "color knock unique enable property bike hire junk onion course forest valley";
+var mnemonic = "neglect tennis crunch choice bargain middle castle drop upper dwarf unfair era";
