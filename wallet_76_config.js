@@ -1,1 +1,1 @@
-var mnemonic = "explain picnic idle parade notice message sadness iron park possible survey elegant";
+var mnemonic = "truck senior frame miracle hat captain boring engine inmate enroll under wave";

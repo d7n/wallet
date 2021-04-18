@@ -1,1 +1,1 @@
-var mnemonic = "spare hidden equip coral upper tunnel scrub happy pudding offer make lend";
+var mnemonic = "coast mother never shrimp dust news session alcohol record gauge gloom body";

@@ -1,1 +1,1 @@
-var mnemonic = "toast gorilla eternal blood guitar path vague wing frame talent audit page";
+var mnemonic = "economy casual album confirm deliver east flame minute rotate surround artist resemble";

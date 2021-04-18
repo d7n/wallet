@@ -1,1 +1,1 @@
-var mnemonic = "soft lyrics sphere sort enact warm claw under yellow vanish lyrics budget";
+var mnemonic = "give direct ability runway universe person table buffalo already improve visual amazing";

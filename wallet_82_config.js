@@ -1,1 +1,1 @@
-var mnemonic = "pill armed depend suit frog blush monitor ladder cherry tank demand syrup";
+var mnemonic = "basic nasty regret stool afraid layer wild message final soldier wolf congress";

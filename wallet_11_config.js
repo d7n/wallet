@@ -1,1 +1,1 @@
-var mnemonic = "little bottom club prison debate system resemble boy sword endless oxygen wrestle";
+var mnemonic = "wool vague choice flower shaft board plug horse aisle vocal sword any";

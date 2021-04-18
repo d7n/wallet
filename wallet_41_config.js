@@ -1,1 +1,1 @@
-var mnemonic = "object crater hover half develop seven drift property gate dance humor blush";
+var mnemonic = "useful vendor guide black gentle garden opera day lunch kick fog spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "flock symptom general setup crouch gloom blast plug soldier fog sample leisure";
+var mnemonic = "account grit together enforce surge globe food zebra soldier hollow ranch hockey";

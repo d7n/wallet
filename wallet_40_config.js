@@ -1,1 +1,1 @@
-var mnemonic = "casual drama galaxy laptop bring float aisle piece dumb idea slam alpha";
+var mnemonic = "snake gadget flush wreck craft blue ramp leisure finger ranch sea remove";

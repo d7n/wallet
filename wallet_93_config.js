@@ -1,1 +1,1 @@
-var mnemonic = "olympic glide local gain balance inject miracle weird notable toe blossom winter";
+var mnemonic = "example ecology powder quit gospel another saddle betray awesome shuffle appear suggest";

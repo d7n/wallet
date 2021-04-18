@@ -1,1 +1,1 @@
-var mnemonic = "please dial harvest add pair gain clap shrimp inherit focus cricket symbol";
+var mnemonic = "fiction mother swing label casual sport seek oyster planet razor promote yellow";

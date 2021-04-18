@@ -1,1 +1,1 @@
-var mnemonic = "lunch negative pipe bacon kiss puzzle strike action property okay table burden";
+var mnemonic = "machine soldier toss unhappy game edge sniff icon penalty cute online chase";

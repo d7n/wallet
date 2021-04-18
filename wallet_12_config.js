@@ -1,1 +1,1 @@
-var mnemonic = "dizzy spray embark horn basic track swing aerobic pride minimum dwarf there";
+var mnemonic = "print lottery output cancel food icon vote father they slice attend wonder";

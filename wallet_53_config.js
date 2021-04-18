@@ -1,1 +1,1 @@
-var mnemonic = "cram audit fever elephant violin hold person rally sadness baby lend message";
+var mnemonic = "act tomato echo wear survey will bunker icon special require gown suspect";

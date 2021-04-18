@@ -1,1 +1,1 @@
-var mnemonic = "cherry silent amused similar ribbon solve train fish various only what boy";
+var mnemonic = "chunk address flush enhance draft toss label bullet census artist net ensure";

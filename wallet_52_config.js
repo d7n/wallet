@@ -1,1 +1,1 @@
-var mnemonic = "liar melody credit day wall guilt small belt stage curve hockey baby";
+var mnemonic = "over beauty clever nothing extend filter ticket trip bachelor anxiety ketchup much";

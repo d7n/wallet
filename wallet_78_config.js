@@ -1,1 +1,1 @@
-var mnemonic = "inch shoot exhaust medal pond party south melt horror deal slogan scatter";
+var mnemonic = "figure session ahead nest immune umbrella across lemon wedding wage digital rescue";

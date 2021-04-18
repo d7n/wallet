@@ -1,1 +1,1 @@
-var mnemonic = "goat parrot able mind reward pitch enforce rookie staff discover gym shy";
+var mnemonic = "shell melt auction drama attitude analyst alarm gauge illness always ocean daughter";

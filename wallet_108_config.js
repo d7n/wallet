@@ -1,1 +1,1 @@
-var mnemonic = "praise peanut leg squeeze loud shock hair hint solution pig level witness";
+var mnemonic = "impact define believe female shy annual donate exhaust resemble zoo duck fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture you economy dry swarm harvest swear act novel update bundle sleep";
+var mnemonic = "belt copper family toddler seminar device great slot wrist barely soup poet";

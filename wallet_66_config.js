@@ -1,1 +1,1 @@
-var mnemonic = "nominee sport multiply skull cargo drip parent silly witness ignore lumber physical";
+var mnemonic = "improve frog brand earn runway regret damage anxiety snap cigar peanut banana";

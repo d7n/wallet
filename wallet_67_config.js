@@ -1,1 +1,1 @@
-var mnemonic = "birth alien immense sunset chat warm tenant black traffic emotion seed repair";
+var mnemonic = "wood wrap order analyst call narrow trap elevator extend network lottery equal";

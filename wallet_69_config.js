@@ -1,1 +1,1 @@
-var mnemonic = "build memory wrong mail egg horror alert insane kick interest real spray";
+var mnemonic = "position pass broom explain tissue title battle culture mechanic number bullet faith";

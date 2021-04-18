@@ -1,1 +1,1 @@
-var mnemonic = "matrix thumb visual knife duck devote fresh inmate knee wage explain harvest";
+var mnemonic = "snake over dinner clock abandon chuckle coconut program float vessel build salute";

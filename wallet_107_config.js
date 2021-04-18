@@ -1,1 +1,1 @@
-var mnemonic = "shoulder goddess ceiling pudding awful explain slot remove step shiver type shoulder";
+var mnemonic = "dolphin income grant fruit neck oven audit proud grace hurdle between slush";

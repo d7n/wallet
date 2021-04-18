@@ -1,1 +1,1 @@
-var mnemonic = "advance year wrong organ ozone upper again airport wave multiply tomato slight";
+var mnemonic = "gun hover try antenna bomb fashion vintage oak business air shoulder future";

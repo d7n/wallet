@@ -1,1 +1,1 @@
-var mnemonic = "giant main capital pioneer soda age rescue garden maple trip tree trophy";
+var mnemonic = "width guide regret color unfair civil scan turtle bind electric save april";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken subway amateur ski lawsuit minute gasp pioneer notable cram oyster awkward";
+var mnemonic = "palm phrase silk snack surge noble advance lava flash drip trap damp";

@@ -1,1 +1,1 @@
-var mnemonic = "rely connect clinic mesh canal pumpkin sausage curtain safe peanut spin auto";
+var mnemonic = "topple window category trap cattle brown shiver boss oil remain tomato flat";

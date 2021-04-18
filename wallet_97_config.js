@@ -1,1 +1,1 @@
-var mnemonic = "better water extra beef option change screen friend eight labor answer cancel";
+var mnemonic = "female drive dance guard critic diesel wrestle impact reveal whip connect certain";

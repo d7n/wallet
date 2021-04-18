@@ -1,1 +1,1 @@
-var mnemonic = "neck pass price maid spice evolve lady artwork black liberty gather under";
+var mnemonic = "rubber parade unable arm baby man regret tomorrow now great ketchup obvious";

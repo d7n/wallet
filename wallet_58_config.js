@@ -1,1 +1,1 @@
-var mnemonic = "pigeon script news unknown sadness depth despair report metal rude legend foster";
+var mnemonic = "blade industry foil lonely private cup other insane inner prosper chase finish";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch fabric tool best slab frozen proud embody box soup found shallow";
+var mnemonic = "rival since miracle forest cup fade table canal reopen oblige mule sugar";

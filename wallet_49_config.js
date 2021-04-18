@@ -1,1 +1,1 @@
-var mnemonic = "pass group swift ski sail popular comic better child cube mention behave";
+var mnemonic = "twist base brass drill height melt love effort identify surround orient mad";

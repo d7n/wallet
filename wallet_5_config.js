@@ -1,1 +1,1 @@
-var mnemonic = "hen stick gate pole memory knife response penalty permit wish okay chunk";
+var mnemonic = "found rubber volcano august mandate chase tortoise always happy rural ghost impact";

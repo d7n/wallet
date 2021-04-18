@@ -1,1 +1,1 @@
-var mnemonic = "donkey alone brain cupboard art remove bless still clump suit south busy";
+var mnemonic = "grape notable pulse barely inch effort narrow trumpet sock appear dial adapt";

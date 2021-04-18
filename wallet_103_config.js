@@ -1,1 +1,1 @@
-var mnemonic = "feel blouse reward canyon wolf close exit push client scheme example thank";
+var mnemonic = "update domain coil offer truly intact side purse upgrade primary under knee";

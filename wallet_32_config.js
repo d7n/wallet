@@ -1,1 +1,1 @@
-var mnemonic = "arena helmet puppy cruel mad birth minimum sleep evoke trade fortune escape";
+var mnemonic = "drive vivid damage balcony laundry thing lion exhibit assault hamster pole nothing";

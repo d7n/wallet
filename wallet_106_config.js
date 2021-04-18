@@ -1,1 +1,1 @@
-var mnemonic = "night myself alien angle busy window lab fee strategy tumble piano snow";
+var mnemonic = "copper universe corn energy leader powder rather believe ritual upset together spike";

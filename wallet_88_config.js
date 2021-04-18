@@ -1,1 +1,1 @@
-var mnemonic = "immense sheriff idle letter obtain north magic aerobic sword auction skirt surprise";
+var mnemonic = "sustain update couch catch hill dinner around club twist humble start gravity";

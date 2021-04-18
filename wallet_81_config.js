@@ -1,1 +1,1 @@
-var mnemonic = "make bacon essay flash daughter cycle pair gaze spice stem regret book";
+var mnemonic = "clown boost boring pioneer noodle win two apart bind uncover remain exhaust";

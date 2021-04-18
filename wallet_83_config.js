@@ -1,1 +1,1 @@
-var mnemonic = "egg female honey wash banner pupil suggest vocal word limb session potato";
+var mnemonic = "flag tiny lounge lyrics unfair start wisdom other normal bird act father";

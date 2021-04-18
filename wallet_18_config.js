@@ -1,1 +1,1 @@
-var mnemonic = "custom blast cancel push quantum laundry aim report gentle cruel cake hair";
+var mnemonic = "asthma exotic mandate load comic swallow blast reflect enlist shield fun truth";

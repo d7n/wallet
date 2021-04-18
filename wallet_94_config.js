@@ -1,1 +1,1 @@
-var mnemonic = "cradle coral infant illness aisle cake galaxy dawn surround addict derive wink";
+var mnemonic = "connect evil above true universe diet minor jazz coil record lemon office";

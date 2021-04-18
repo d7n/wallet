@@ -1,1 +1,1 @@
-var mnemonic = "normal raven door stand school history produce manual crash trash globe dress";
+var mnemonic = "then thing whisper index story surround tattoo trick three grocery fabric beyond";

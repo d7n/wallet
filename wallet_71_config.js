@@ -1,1 +1,1 @@
-var mnemonic = "question cinnamon twice brass potato wood egg typical swamp host marble night";
+var mnemonic = "ceiling angry pupil engine next ski license ribbon ocean mail home toy";

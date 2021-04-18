@@ -1,1 +1,1 @@
-var mnemonic = "type later appear curve amount sail broken horse someone receive sunny glow";
+var mnemonic = "top property surge raise lava unfold shoe slide abandon oak patient sunny";

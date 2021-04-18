@@ -1,1 +1,1 @@
-var mnemonic = "general hunt scissors inner club step jeans clay start mango flight attack";
+var mnemonic = "forward expand renew ski find grain mind chest comfort dad story primary";

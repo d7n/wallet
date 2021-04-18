@@ -1,1 +1,1 @@
-var mnemonic = "rebel welcome good lesson either way tube borrow need happy broccoli vote";
+var mnemonic = "since library chaos avocado shoulder approve flash couch lyrics stamp drama dice";

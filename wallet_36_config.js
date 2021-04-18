@@ -1,1 +1,1 @@
-var mnemonic = "answer ride dilemma message stomach away size puzzle wisdom impact aunt oak";
+var mnemonic = "state hope puppy hold cry steak pool candy genre derive festival almost";

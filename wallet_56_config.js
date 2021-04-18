@@ -1,1 +1,1 @@
-var mnemonic = "little faint permit victory broccoli slam tell chunk already festival whale primary";
+var mnemonic = "much learn holiday squeeze obtain liquid sure moment congress cloth dolphin nothing";

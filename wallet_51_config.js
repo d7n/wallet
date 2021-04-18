@@ -1,1 +1,1 @@
-var mnemonic = "spell copper armed symptom tide clever gap pony struggle need blouse worth";
+var mnemonic = "ignore castle rookie faculty nice discover tumble check render security parrot maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "upset scatter jewel baby topple fury humor shift resemble cover box achieve";
+var mnemonic = "old clog exile slogan palm mixed stadium video thumb muscle marine object";

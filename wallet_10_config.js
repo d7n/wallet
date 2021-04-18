@@ -1,1 +1,1 @@
-var mnemonic = "lab interest tree win fringe crystal maximum perfect bind sibling column rubber";
+var mnemonic = "city friend clog expose lend sausage oven digital program window diet sell";

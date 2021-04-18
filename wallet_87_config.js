@@ -1,1 +1,1 @@
-var mnemonic = "capital they flight weather gorilla combine reduce carpet bitter draw clay crime";
+var mnemonic = "cereal behave logic organ live expose happy rabbit table sad crater thumb";

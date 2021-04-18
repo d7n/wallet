@@ -1,1 +1,1 @@
-var mnemonic = "cliff odor maple gallery dog spoil demand soul sign yellow calm inspire";
+var mnemonic = "similar brick ecology side lift unfair monitor run soup toilet surround penalty";

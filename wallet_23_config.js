@@ -1,1 +1,1 @@
-var mnemonic = "voyage sweet wrong ticket merry snap water arena glory fiction insane grit";
+var mnemonic = "shoot ritual banner crazy version act need divorce artist below edit sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "baby romance tuna fortune enrich science tongue tunnel swallow asthma grace alcohol";
+var mnemonic = "brand alley age once burst salmon cargo grain evoke merit arch lady";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican stock evolve busy eight turkey vapor license canal swim describe stick";
+var mnemonic = "orphan empty actual fiction one flame cruel future message fix lion wonder";

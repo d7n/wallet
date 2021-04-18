@@ -1,1 +1,1 @@
-var mnemonic = "chronic infant smile maple fox palm runway grass fame velvet avocado rifle";
+var mnemonic = "moment craft mirror citizen mule fade merit word since escape olive web";

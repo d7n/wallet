@@ -1,1 +1,1 @@
-var mnemonic = "exclude cherry unveil bullet limb genre can era brand draw screen cement";
+var mnemonic = "north one blur iron sponsor birth sudden note water student autumn dune";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi among radio sport guess movie galaxy broken bargain giant demise announce";
+var mnemonic = "dragon sudden robot chimney hedgehog smooth sorry acoustic robot live height damage";

@@ -1,1 +1,1 @@
-var mnemonic = "theme bunker own tribe century object pole border shaft chat garbage unfold";
+var mnemonic = "car scheme wheel razor brown disorder initial snow level total hollow shy";

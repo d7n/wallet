@@ -1,1 +1,1 @@
-var mnemonic = "garage early web drift among silent glow concert spoil engine onion picnic";
+var mnemonic = "bus group roof milk high ugly offer weird episode thumb canvas subway";

@@ -1,1 +1,1 @@
-var mnemonic = "enter female ostrich course nephew edge wide sing speak prevent magnet dice";
+var mnemonic = "traffic pulse two tray column park stove depart awkward pulse resource maid";

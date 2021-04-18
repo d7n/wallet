@@ -1,1 +1,1 @@
-var mnemonic = "miracle unable sweet clog term mention stamp cash jeans seminar fence oyster";
+var mnemonic = "script leopard spirit clean lion great alter bargain response casino salad intact";

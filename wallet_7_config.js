@@ -1,1 +1,1 @@
-var mnemonic = "domain buzz project stove panic myth true claim draft butter wolf banana";
+var mnemonic = "loan card you often detect inmate buzz attack finger bread place lottery";

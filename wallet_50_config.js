@@ -1,1 +1,1 @@
-var mnemonic = "puppy syrup similar airport obscure can fiber treat weekend bitter slide volcano";
+var mnemonic = "border convince strategy noble join bread powder stomach thought south park dismiss";

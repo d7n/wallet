@@ -1,1 +1,1 @@
-var mnemonic = "income find guitar online toddler trigger furnace reward horror wreck mutual order";
+var mnemonic = "popular awful virus exhaust dash clever fork embrace visit recall frog nerve";

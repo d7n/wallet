@@ -1,1 +1,1 @@
-var mnemonic = "ozone copper tired rescue ring coyote cook renew keep earn luggage pair";
+var mnemonic = "youth index cloth mandate corn art this voyage sign smile hospital man";

@@ -1,1 +1,1 @@
-var mnemonic = "ball avocado trap fly state vacant cool garbage escape lock auto field";
+var mnemonic = "canal announce anchor perfect age mosquito beyond lion tourist family saddle radar";

@@ -1,1 +1,1 @@
-var mnemonic = "two elevator will vendor airport cherry midnight diamond metal identify force wide";
+var mnemonic = "feature welcome feel course apology found daughter soccer impulse snake physical source";

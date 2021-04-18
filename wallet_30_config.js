@@ -1,1 +1,1 @@
-var mnemonic = "rail art begin horse labor demand panther never letter boat swarm rich";
+var mnemonic = "frost remember unlock siren initial escape tortoise hint month mule wheat process";

@@ -1,1 +1,1 @@
-var mnemonic = "arena joke near core tortoise october hand alone chest muscle turtle coast";
+var mnemonic = "replace poet skate undo wasp ten labor payment ranch stick ill crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "subject addict fatigue save service idle universe van magnet arrest donate dilemma";
+var mnemonic = "winner trend never truck target enact swamp cricket spider chronic guitar embrace";

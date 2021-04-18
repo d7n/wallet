@@ -1,1 +1,1 @@
-var mnemonic = "siege reunion park know fan jazz pill copper list island piece differ";
+var mnemonic = "session guide travel fruit choose toward bunker mass peanut become proud bitter";

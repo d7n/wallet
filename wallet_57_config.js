@@ -1,1 +1,1 @@
-var mnemonic = "middle sense layer kitchen push gym across smooth page armed media pattern";
+var mnemonic = "runway banana climb can alter valid side flavor edit aisle open pulse";

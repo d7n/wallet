@@ -1,1 +1,1 @@
-var mnemonic = "income world web close uncle conduct history small square fault yellow mule";
+var mnemonic = "trouble latin private claim thank fever skull burger come march burst sell";

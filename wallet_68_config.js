@@ -1,1 +1,1 @@
-var mnemonic = "galaxy judge cheap leader silent tuna nominee twin dinosaur excite ride combine";
+var mnemonic = "south cycle feed rely addict market night weird man broken throw thing";

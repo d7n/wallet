@@ -1,1 +1,1 @@
-var mnemonic = "bless strategy december boost afraid range senior logic giraffe seek mobile produce";
+var mnemonic = "sad bracket tired rural blanket leave curve slogan myself venue arena cash";

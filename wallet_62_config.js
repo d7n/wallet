@@ -1,1 +1,1 @@
-var mnemonic = "city neutral beyond surge wash series glide have shop excess mass pizza";
+var mnemonic = "blue black into wrong pretty ramp fee absorb course speak wedding fit";

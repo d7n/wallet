@@ -1,1 +1,1 @@
-var mnemonic = "dose shed jaguar tape glory index post person fruit drop hub acoustic";
+var mnemonic = "energy purity race laugh awkward approve pottery risk crisp buddy shoe relax";

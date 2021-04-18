@@ -1,1 +1,1 @@
-var mnemonic = "kiss panther shadow fatal room zone include betray melody ethics order alien";
+var mnemonic = "drive chaos slam abstract waste spring dial priority mixed draft into stable";

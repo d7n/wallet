@@ -1,1 +1,1 @@
-var mnemonic = "gentle ostrich someone top assume slice air control brave canal wear nothing";
+var mnemonic = "price enable connect license obvious custom license peanut over glue clutch rebuild";

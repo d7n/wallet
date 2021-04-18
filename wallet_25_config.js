@@ -1,1 +1,1 @@
-var mnemonic = "power detect catch fever fiber canoe float race chaos crunch citizen shrug";
+var mnemonic = "giggle pretty curious accident sauce farm prefer spy outside pledge decline current";

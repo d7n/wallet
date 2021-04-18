@@ -1,1 +1,1 @@
-var mnemonic = "soul tornado electric borrow shuffle expect snow car climb rose toe depend";
+var mnemonic = "tape scorpion wagon chuckle people potato acid say radio rich perfect panel";

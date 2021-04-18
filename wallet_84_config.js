@@ -1,1 +1,1 @@
-var mnemonic = "scissors company castle tourist sword example profit action chimney board load coin";
+var mnemonic = "steel judge orbit kite release hat happy pluck apology maid tip kitchen";
