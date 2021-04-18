@@ -1,1 +1,1 @@
-var mnemonic = "exist erosion mountain direct warfare farm endorse core north grab depth razor";
+var mnemonic = "tool pool cactus dash cruel track magnet fish quote race account cliff";

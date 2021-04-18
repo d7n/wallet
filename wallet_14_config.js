@@ -1,1 +1,1 @@
-var mnemonic = "torch hedgehog gospel bottom duck cool trumpet know bargain chair torch angle";
+var mnemonic = "toe kiwi hotel mandate paddle ball calm quit biology then bench team";

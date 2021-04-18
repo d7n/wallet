@@ -1,1 +1,1 @@
-var mnemonic = "view buyer wrap furnace tank horn sausage mystery addict oak swear love";
+var mnemonic = "gorilla galaxy expose wisdom hole split velvet tumble opera tourist assault maximum";

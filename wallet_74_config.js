@@ -1,1 +1,1 @@
-var mnemonic = "actor tenant strategy damage detail romance salad trumpet festival circle enrich must";
+var mnemonic = "horror escape argue junk tongue robot range peanut tongue virtual when wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "belt cancel open gate infant crunch subject filter snake apple trophy true";
+var mnemonic = "worry spoon caught sport hold caution blood blade inflict elegant favorite enact";

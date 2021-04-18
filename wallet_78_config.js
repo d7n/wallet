@@ -1,1 +1,1 @@
-var mnemonic = "brown bleak ticket salon favorite congress wrist pottery other clean unfold stamp";
+var mnemonic = "sea pull hungry salute year cruel initial sphere people saddle discover around";

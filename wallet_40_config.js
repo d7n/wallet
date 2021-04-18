@@ -1,1 +1,1 @@
-var mnemonic = "april label twelve hair update naive churn grape rigid gloom settle negative";
+var mnemonic = "flush olympic episode joy bonus used lottery rug dentist fly earth wrist";

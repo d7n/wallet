@@ -1,1 +1,1 @@
-var mnemonic = "knife assume nurse twelve hobby display paddle peanut visit opinion dismiss liar";
+var mnemonic = "enact skin photo then someone gossip clown announce monitor ritual short use";

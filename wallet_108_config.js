@@ -1,1 +1,1 @@
-var mnemonic = "giraffe hat shed coin debris entire pride ask file capital ginger brisk";
+var mnemonic = "buyer crack donkey pitch noise turkey rotate wife eternal blanket foil purse";

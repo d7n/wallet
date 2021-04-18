@@ -1,1 +1,1 @@
-var mnemonic = "happy ski vague area side where long idle rib wish drill cargo";
+var mnemonic = "school distance tiger flash captain slot affair imitate leg shove skate tool";

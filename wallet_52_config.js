@@ -1,1 +1,1 @@
-var mnemonic = "wash skate crowd dinosaur sketch trial upper hello mean peace december tired";
+var mnemonic = "sentence tornado rigid fiscal spy twenty episode surprise very jump mule fall";

@@ -1,1 +1,1 @@
-var mnemonic = "combine simple umbrella jealous employ shiver forum come immune oyster minor grass";
+var mnemonic = "quiz disagree slight detect couch filter gasp expose pink seek evidence blind";

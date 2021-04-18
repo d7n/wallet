@@ -1,1 +1,1 @@
-var mnemonic = "price enemy acoustic monster trumpet future dismiss swing excess rally mom forest";
+var mnemonic = "warm bird record mule minute slogan ahead dinosaur erase spell size sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator cry expire picture deposit pupil spare car total forum betray tide";
+var mnemonic = "soccer reveal all enroll assume scene wide fashion soul omit upgrade skill";

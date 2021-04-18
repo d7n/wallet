@@ -1,1 +1,1 @@
-var mnemonic = "bubble canvas lunar myth seminar hand breeze garlic laugh man argue hundred";
+var mnemonic = "illegal frost artefact will always negative thrive ostrich fury chimney egg false";

@@ -1,1 +1,1 @@
-var mnemonic = "noise stone debris have high retire script tragic boost name chat gadget";
+var mnemonic = "humble usual split return banana model whale seat frog basic daughter width";

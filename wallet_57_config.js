@@ -1,1 +1,1 @@
-var mnemonic = "plate ice letter melody top pulp remove cream aunt edit furnace emerge";
+var mnemonic = "speak bargain order shop cluster debris avocado tiger boring obvious gentle coach";

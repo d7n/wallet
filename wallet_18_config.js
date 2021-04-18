@@ -1,1 +1,1 @@
-var mnemonic = "lumber orphan wolf hen addict exit author demand hundred boat clay style";
+var mnemonic = "boat beauty catch space mirror stuff spice dog upgrade float barely vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "index cattle choice unfold bulk pistol fine hip sauce choose slogan save";
+var mnemonic = "whip reform dizzy hotel peanut uniform arctic deal enroll point public spot";

@@ -1,1 +1,1 @@
-var mnemonic = "journey fan lumber bunker target debris evidence tape citizen excess stage witness";
+var mnemonic = "orphan gasp pipe ignore expose more loan scheme soda weekend cable summer";

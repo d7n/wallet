@@ -1,1 +1,1 @@
-var mnemonic = "poverty rate brush range ski spawn speed credit coral virtual audit duck";
+var mnemonic = "message render miracle father kite assault motion step ketchup chef today parade";

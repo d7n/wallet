@@ -1,1 +1,1 @@
-var mnemonic = "onion oppose moment indoor attend catch cheap brave bachelor metal identify favorite";
+var mnemonic = "bean dinner range relax can spend basic grunt expand foot marriage ginger";

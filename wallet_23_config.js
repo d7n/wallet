@@ -1,1 +1,1 @@
-var mnemonic = "blood scout plug cave hip tobacco moment people gasp elder treat vast";
+var mnemonic = "cinnamon grant logic cry ski wheel people worry ivory reflect original protect";

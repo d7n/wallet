@@ -1,1 +1,1 @@
-var mnemonic = "vivid jaguar army swap giant expect festival excite beach feel volcano arrow";
+var mnemonic = "play canyon blur casual broken wage address question filter scare symptom false";

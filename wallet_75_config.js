@@ -1,1 +1,1 @@
-var mnemonic = "width purchase paper member keep fantasy cage twelve board fiber try asset";
+var mnemonic = "modify auto crane balance shoe thank cliff sketch finger shop decrease rally";

@@ -1,1 +1,1 @@
-var mnemonic = "maid blanket grit valve glass item young language runway slogan connect auto";
+var mnemonic = "repeat emerge buyer develop ring glove ancient bird public analyst cube bracket";

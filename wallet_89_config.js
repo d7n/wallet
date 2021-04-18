@@ -1,1 +1,1 @@
-var mnemonic = "farm squirrel dirt office eager undo gather employ pottery wolf situate nurse";
+var mnemonic = "jeans sibling rice uphold boost eternal security october before poverty weapon zone";

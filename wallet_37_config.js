@@ -1,1 +1,1 @@
-var mnemonic = "often usage human display mushroom leaf ethics bulb hospital section deer flight";
+var mnemonic = "found oxygen clog tonight law seed pen ivory pitch fit enlist omit";

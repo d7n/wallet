@@ -1,1 +1,1 @@
-var mnemonic = "future popular patch tuna coach topple together outer rebuild hire boring above";
+var mnemonic = "project venture voyage jeans sample have coast upset ritual coyote digital welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "merge story film vague boy busy plug club harvest foam work nose";
+var mnemonic = "rich city sign seminar weird gallery artwork grief grit minimum reveal slot";

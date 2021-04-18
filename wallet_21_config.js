@@ -1,1 +1,1 @@
-var mnemonic = "chimney scare bicycle strategy busy total cotton warrior final critic path acid";
+var mnemonic = "age brave mention output grief figure draft fish struggle useful elder project";

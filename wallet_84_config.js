@@ -1,1 +1,1 @@
-var mnemonic = "verify soldier hotel shock resemble green ozone slam avocado slide lobster average";
+var mnemonic = "dizzy zero tell excess employ sauce couple cattle table skull path unit";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory account nature senior shoulder leave enact almost cash great inflict erupt";
+var mnemonic = "order manage nut fragile observe bulk sadness worth setup marine toast forum";

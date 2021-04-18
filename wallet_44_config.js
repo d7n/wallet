@@ -1,1 +1,1 @@
-var mnemonic = "yellow deny dynamic vacuum lens island tip bundle quit winner edge uncover";
+var mnemonic = "skill since educate busy exercise decline guitar knife lawsuit host boost remove";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas vocal decorate income major vacuum venture black seven inherit trend steel";
+var mnemonic = "hour void tilt abandon museum rough dinner decrease april one core rifle";

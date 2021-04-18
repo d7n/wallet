@@ -1,1 +1,1 @@
-var mnemonic = "clerk day fit mean elite sleep melt ripple scene battle apology execute";
+var mnemonic = "deny address casino critic unique later top item enter soft proud deputy";

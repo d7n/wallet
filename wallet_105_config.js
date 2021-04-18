@@ -1,1 +1,1 @@
-var mnemonic = "sorry panda allow original rotate topple rival six dawn piece enact elephant";
+var mnemonic = "congress include proud person budget dirt debris main noble silent cross fabric";

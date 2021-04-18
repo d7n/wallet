@@ -1,1 +1,1 @@
-var mnemonic = "swear glow patient admit tragic forget ethics office vacant three again rally";
+var mnemonic = "boil artwork save dentist across doll either parrot advice vacant action excess";

@@ -1,1 +1,1 @@
-var mnemonic = "use wreck tomato property priority sheriff invite away long memory habit warfare";
+var mnemonic = "valve point ghost crazy basket tail mask dirt maid mixed what rough";

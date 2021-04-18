@@ -1,1 +1,1 @@
-var mnemonic = "addict vicious pair level tube capital symptom rival acquire razor law donor";
+var mnemonic = "license motion cash nature mail sort laugh forward duck thought case foot";

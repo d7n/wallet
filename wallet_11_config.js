@@ -1,1 +1,1 @@
-var mnemonic = "check fabric sorry squeeze off torch final betray expire oblige core tent";
+var mnemonic = "citizen hamster cluster broccoli elder grain reward cycle target party fee neither";

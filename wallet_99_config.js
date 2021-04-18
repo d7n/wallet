@@ -1,1 +1,1 @@
-var mnemonic = "fire absent blur sheriff neglect talk apology collect pioneer venture trip sentence";
+var mnemonic = "rifle dog ketchup diesel just short lazy ride scheme thought leader orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "sort orbit pill give organ kick figure innocent picture public exclude shoot";
+var mnemonic = "spin ostrich jungle lion wagon aisle ability jacket visual canyon pipe access";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion elite reunion media hammer lobster photo history oppose mom arch name";
+var mnemonic = "item edit flight hip since april forward fantasy virtual abstract damage buffalo";

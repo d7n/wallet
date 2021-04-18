@@ -1,1 +1,1 @@
-var mnemonic = "crack top drink drip buddy corn improve blade airport shock stamp finish";
+var mnemonic = "afford web candy kit rose essay surface time hat sunny proof slim";

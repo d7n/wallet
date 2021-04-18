@@ -1,1 +1,1 @@
-var mnemonic = "assault green inform short junk keen steel liquid order deal science myself";
+var mnemonic = "firm network fury useful cheap small upset clip theory moral judge elbow";

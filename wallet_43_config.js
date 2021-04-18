@@ -1,1 +1,1 @@
-var mnemonic = "quantum melody holiday roof spatial age buddy enjoy shallow tide since fiscal";
+var mnemonic = "narrow suspect middle burger dry planet runway tomorrow siren mirror adapt sport";

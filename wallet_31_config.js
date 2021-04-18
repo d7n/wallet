@@ -1,1 +1,1 @@
-var mnemonic = "liar ecology device lake fringe mean joke witness tent derive camera enter";
+var mnemonic = "pioneer source put horn crater pigeon file thrive various special cargo nice";

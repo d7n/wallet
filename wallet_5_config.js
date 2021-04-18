@@ -1,1 +1,1 @@
-var mnemonic = "daring play wet quick phrase deliver search such basket genre torch mushroom";
+var mnemonic = "start song brush bachelor mango slice human hospital chaos act cradle humor";

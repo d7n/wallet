@@ -1,1 +1,1 @@
-var mnemonic = "figure number portion tortoise legend quick welcome curious injury prefer decorate pupil";
+var mnemonic = "entry enrich success tomorrow hold sand stay craft file reflect index combine";

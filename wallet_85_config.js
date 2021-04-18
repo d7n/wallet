@@ -1,1 +1,1 @@
-var mnemonic = "addict trouble material usual typical common lizard design solid someone rapid silk";
+var mnemonic = "cute auto daughter joke satoshi flock cart worth girl one gift skin";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry local slogan aisle near lock wine carbon estate among mosquito very";
+var mnemonic = "spirit glimpse head point jar roast risk number forget bronze rude silver";

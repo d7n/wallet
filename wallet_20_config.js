@@ -1,1 +1,1 @@
-var mnemonic = "stock barrel deputy load pluck spirit clown same assume hungry rescue pigeon";
+var mnemonic = "admit impulse human destroy pencil vivid sketch december magic stool describe novel";

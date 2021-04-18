@@ -1,1 +1,1 @@
-var mnemonic = "table vicious evolve veteran upon laptop hold science item pyramid danger chair";
+var mnemonic = "extend wonder whisper capital summer funny install debris island super mobile soup";

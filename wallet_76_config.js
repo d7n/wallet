@@ -1,1 +1,1 @@
-var mnemonic = "airport candy ready endorse distance dinosaur accident call invite album snow can";
+var mnemonic = "punch vessel point biology float mimic december radio snack focus electric script";

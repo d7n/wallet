@@ -1,1 +1,1 @@
-var mnemonic = "major steel clarify cream early claw orbit crew mixed syrup deputy prefer";
+var mnemonic = "this comfort attend mechanic erase coffee toast wagon bus wet glide slam";

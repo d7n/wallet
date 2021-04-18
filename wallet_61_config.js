@@ -1,1 +1,1 @@
-var mnemonic = "mask pudding certain twin absent actual two only umbrella voice fly february";
+var mnemonic = "tiger sign plug decline cannon sudden throw actress across tube circle cruise";

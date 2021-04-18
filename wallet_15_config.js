@@ -1,1 +1,1 @@
-var mnemonic = "town rifle alien naive faint depart release train square fantasy solar junk";
+var mnemonic = "tumble praise science arrow market stamp vanish coffee plastic leave topic metal";

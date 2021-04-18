@@ -1,1 +1,1 @@
-var mnemonic = "bring lend state loyal audit basket struggle magic street knock spray item";
+var mnemonic = "swift space weapon pudding cliff moral soft opera comic pulp agent excuse";

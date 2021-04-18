@@ -1,1 +1,1 @@
-var mnemonic = "shaft woman capable lunch manual pledge spider sing brisk detail reason loyal";
+var mnemonic = "love maid interest nerve lady apple cost blouse federal leaf please gloom";

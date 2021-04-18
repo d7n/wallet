@@ -1,1 +1,1 @@
-var mnemonic = "clarify guard ill yellow mule timber medal attack spring present typical middle";
+var mnemonic = "intact flee rain defense drill fresh clap enemy minute slogan grocery castle";

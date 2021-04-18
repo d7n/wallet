@@ -1,1 +1,1 @@
-var mnemonic = "orchard garden enhance obey venture forget boring gesture view flight alley dolphin";
+var mnemonic = "antique assault execute state glory raccoon jelly build embark glance top room";

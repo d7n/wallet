@@ -1,1 +1,1 @@
-var mnemonic = "subway laundry rely repeat spell broccoli client more hedgehog supreme car suggest";
+var mnemonic = "eyebrow share void income baby retire soap reform fluid head pepper twenty";

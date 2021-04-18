@@ -1,1 +1,1 @@
-var mnemonic = "opera bottom source rare lock glare focus original artwork column swim away";
+var mnemonic = "word exit alert endorse cigar ivory art click spoon hockey accuse jazz";

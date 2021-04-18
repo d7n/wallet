@@ -1,1 +1,1 @@
-var mnemonic = "morning juice business receive sport robot reject narrow range diary train joke";
+var mnemonic = "cruise solution smile unaware cloud neglect bracket token unfair sunset desk industry";

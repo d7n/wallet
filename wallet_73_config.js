@@ -1,1 +1,1 @@
-var mnemonic = "more bachelor hole praise use pair company also city glove frame outer";
+var mnemonic = "solution fancy forest magnet crumble bronze clarify file use hip render bundle";

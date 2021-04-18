@@ -1,1 +1,1 @@
-var mnemonic = "horn practice faint tattoo return young certain cream upset settle stem over";
+var mnemonic = "pen cancel old fish weasel group action shrug junior then matrix slide";

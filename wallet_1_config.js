@@ -1,1 +1,1 @@
-var mnemonic = "obscure flight vapor stereo electric degree sail useful choice two brand visa";
+var mnemonic = "fun dinner game vicious element assume suffer anxiety love inquiry brick gossip";

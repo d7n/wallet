@@ -1,1 +1,1 @@
-var mnemonic = "brass harsh execute rebel employ flock crop dynamic upset caution good suit";
+var mnemonic = "permit trap silent deliver exclude bridge orbit junior help account man fox";

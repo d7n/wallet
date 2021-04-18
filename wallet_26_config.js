@@ -1,1 +1,1 @@
-var mnemonic = "gain hair cat solar armor room use pledge between sibling orphan zero";
+var mnemonic = "orient can volume catalog claim wheat monkey impulse edit plunge birth artwork";

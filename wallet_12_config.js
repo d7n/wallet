@@ -1,1 +1,1 @@
-var mnemonic = "must royal once motor era subject dizzy rebuild cabin net salute inner";
+var mnemonic = "man scorpion dismiss shoot noodle blade habit early joy idle envelope comic";

@@ -1,1 +1,1 @@
-var mnemonic = "candy burger demand focus garbage cherry shrimp vendor peanut awake dignity release";
+var mnemonic = "appear curtain supply pioneer catalog gate marine board rapid clinic little life";

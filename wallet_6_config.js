@@ -1,1 +1,1 @@
-var mnemonic = "solution case abandon chaos digital frost lab use warm jeans night immense";
+var mnemonic = "sudden group approve obtain pink smooth oblige absorb put tray climb cause";

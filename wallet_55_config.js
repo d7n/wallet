@@ -1,1 +1,1 @@
-var mnemonic = "regret kitten crazy olive rely organ spatial acid twice sing bleak artwork";
+var mnemonic = "wild blame clarify more salt someone then angle judge traffic produce famous";

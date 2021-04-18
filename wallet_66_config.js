@@ -1,1 +1,1 @@
-var mnemonic = "jaguar dolphin great purse pill eight flower skate avocado gift south file";
+var mnemonic = "broom release elevator question waste install angry answer meadow absorb wild celery";

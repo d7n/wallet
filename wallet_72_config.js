@@ -1,1 +1,1 @@
-var mnemonic = "opera essence crush atom license occur find amount rapid century struggle inspire";
+var mnemonic = "crystal ten equip artist wrap school write pledge session spice cupboard vibrant";

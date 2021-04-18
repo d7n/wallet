@@ -1,1 +1,1 @@
-var mnemonic = "jungle glove photo bright wide fragile casual nuclear metal coral run tide";
+var mnemonic = "moment post device media disease vehicle plug kidney coral destroy treat excuse";

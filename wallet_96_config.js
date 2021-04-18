@@ -1,1 +1,1 @@
-var mnemonic = "final gold bamboo rival betray tent torch yard stuff demand acoustic rhythm";
+var mnemonic = "divert marine genius promote flock follow polar toy whisper one organ shuffle";

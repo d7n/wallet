@@ -1,1 +1,1 @@
-var mnemonic = "visit pottery remember penalty nose category toddler hurt genre antenna lamp flag";
+var mnemonic = "review employ acquire beauty spare winner summer nose drill nice move nest";

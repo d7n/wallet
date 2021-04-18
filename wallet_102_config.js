@@ -1,1 +1,1 @@
-var mnemonic = "small airport dash drop bread practice upgrade drill gesture mutual hen social";
+var mnemonic = "draw little weapon fox cruel opinion struggle crack evil demise betray ankle";

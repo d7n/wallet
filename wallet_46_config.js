@@ -1,1 +1,1 @@
-var mnemonic = "squirrel cattle radar claim attend fall you float wrap badge limit shrimp";
+var mnemonic = "release floor tooth hammer satisfy prefer dog code action draft figure drive";

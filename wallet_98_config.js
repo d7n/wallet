@@ -1,1 +1,1 @@
-var mnemonic = "become charge hockey hybrid giant cash alley disease south window parrot donkey";
+var mnemonic = "void mango bunker slight scrub half nut salute already front visa version";

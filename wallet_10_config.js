@@ -1,1 +1,1 @@
-var mnemonic = "job parrot very milk exit baby sense split next undo noble half";
+var mnemonic = "man hole science primary wet suspect track bench icon crisp sting pass";

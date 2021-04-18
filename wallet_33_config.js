@@ -1,1 +1,1 @@
-var mnemonic = "grunt depth gate corn teach father girl trial theme submit smart apart";
+var mnemonic = "open fringe engine unique tenant quick describe party answer one kiss waste";

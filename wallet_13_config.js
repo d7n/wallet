@@ -1,1 +1,1 @@
-var mnemonic = "slight grace wool lamp laundry frame crop prize master wink jeans inform";
+var mnemonic = "chapter execute broken system frog midnight uncle distance special whale bitter town";

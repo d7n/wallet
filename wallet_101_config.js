@@ -1,1 +1,1 @@
-var mnemonic = "wine same wall swing dwarf execute say exist same sibling unknown drama";
+var mnemonic = "devote ivory worth wagon captain cloud journey frame lamp lake quiz lazy";

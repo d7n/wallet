@@ -1,1 +1,1 @@
-var mnemonic = "coral pioneer match daring wall thrive task jacket foam drastic despair endless";
+var mnemonic = "cram can gaze demand mango patrol suffer swing educate purchase book swamp";

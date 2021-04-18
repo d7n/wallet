@@ -1,1 +1,1 @@
-var mnemonic = "start draft pudding museum cry canal diary arrive slide sport west virtual";
+var mnemonic = "hill scrub boring mixture tomato ritual gift venture attend connect phrase approve";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz kind issue ignore habit bottom steel planet narrow soul kiwi hero";
+var mnemonic = "bracket wave weapon soap else consider sense pottery believe february humble elevator";

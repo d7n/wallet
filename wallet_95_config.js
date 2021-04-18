@@ -1,1 +1,1 @@
-var mnemonic = "intact decline region wedding clog trigger rifle head accident extra law polar";
+var mnemonic = "twin novel test student future pilot foster gravity grass quote yard raccoon";

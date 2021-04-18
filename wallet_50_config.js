@@ -1,1 +1,1 @@
-var mnemonic = "strike together track husband avoid rug proof chimney long business inner display";
+var mnemonic = "keen broken naive artist latin update code define remove west salon shrimp";
