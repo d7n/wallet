@@ -1,1 +1,1 @@
-var mnemonic = "west situate physical kick zone side world wrist element lecture melt photo";
+var mnemonic = "deer item rose ramp first negative fabric crucial annual monkey awful uniform";

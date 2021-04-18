@@ -1,1 +1,1 @@
-var mnemonic = "parade volume harbor loud shop write spread food tomato reform add surge";
+var mnemonic = "amazing carry crouch bus nasty unaware indicate maple detect razor swift hour";

@@ -1,1 +1,1 @@
-var mnemonic = "border rely payment minimum pelican balance gate hundred outer verb assist label";
+var mnemonic = "vault asset forget zoo galaxy shine puppy goddess detect raw public deliver";

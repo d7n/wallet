@@ -1,1 +1,1 @@
-var mnemonic = "jewel hammer suspect exist weird shy sponsor despair bench view edge anxiety";
+var mnemonic = "beef setup journey display able fold youth route sign buyer employ license";

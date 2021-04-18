@@ -1,1 +1,1 @@
-var mnemonic = "cover wrap width sea toddler metal describe typical help forward buddy moon";
+var mnemonic = "meadow nephew science problem skill yard hero pull pull shift float someone";

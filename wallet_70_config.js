@@ -1,1 +1,1 @@
-var mnemonic = "skirt peanut arrive cake spend enter crunch base name urban track between";
+var mnemonic = "point law grant decline shift velvet argue lounge boat catalog suspect labor";

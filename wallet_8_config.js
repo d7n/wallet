@@ -1,1 +1,1 @@
-var mnemonic = "ginger whisper intact toss alter essay false toy apple other cart budget";
+var mnemonic = "exile quit admit unit donor neither snow orange labor wrist aware sheriff";

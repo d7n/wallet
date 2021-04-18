@@ -1,1 +1,1 @@
-var mnemonic = "basket treat access high liar fresh please rely bridge resemble merry wave";
+var mnemonic = "trade episode human solve famous cushion ghost scan notable exact donor shop";

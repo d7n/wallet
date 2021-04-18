@@ -1,1 +1,1 @@
-var mnemonic = "code aspect life coffee culture bleak prize blind table dignity wall change";
+var mnemonic = "soon monster music six regret spread frost roast demise spider gorilla van";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy mansion timber tomato prosper salute trash remind identify farm drift universe";
+var mnemonic = "symbol save blind muffin fitness spice include clock purse advice twist potato";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid outer genre marriage identify reform post engage input salt rely disease";
+var mnemonic = "orbit nation subject ridge bundle away client rotate young bless enroll degree";

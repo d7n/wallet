@@ -1,1 +1,1 @@
-var mnemonic = "describe used ball response arm dirt thrive audit estate code faculty open";
+var mnemonic = "protect grape sample illness lens fresh race tag jealous ghost ritual horse";

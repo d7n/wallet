@@ -1,1 +1,1 @@
-var mnemonic = "misery cradle nature vague fly young ugly fabric giant allow napkin cram";
+var mnemonic = "gentle describe route drip metal sorry burden range banner young warfare choose";

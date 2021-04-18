@@ -1,1 +1,1 @@
-var mnemonic = "leisure spray rabbit gather tag lawn aim flower undo scan dinner method";
+var mnemonic = "employ error mixed kidney tail danger august column couple east wing mansion";

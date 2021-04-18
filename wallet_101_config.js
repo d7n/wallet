@@ -1,1 +1,1 @@
-var mnemonic = "food harbor fever purpose evoke canoe climb affair maze solution drama unfair";
+var mnemonic = "pair bubble sunny drop fitness wheat debris cigar rice zoo scout urge";

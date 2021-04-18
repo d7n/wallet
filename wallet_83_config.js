@@ -1,1 +1,1 @@
-var mnemonic = "arrive enroll repair stay warrior tell laundry immune romance raw craft slam";
+var mnemonic = "flight situate absent inspire venue lumber typical iron net shrug lecture engine";

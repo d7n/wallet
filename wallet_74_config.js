@@ -1,1 +1,1 @@
-var mnemonic = "fall order brass attend dumb remove cross economy vibrant art employ victory";
+var mnemonic = "garden dawn fee room address guess dirt palm simple access cycle multiply";

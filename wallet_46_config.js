@@ -1,1 +1,1 @@
-var mnemonic = "lion frequent margin ordinary frame mind spoon seminar wrong legend green trouble";
+var mnemonic = "fuel banner control reduce correct ketchup husband poet cargo sign manual tiger";

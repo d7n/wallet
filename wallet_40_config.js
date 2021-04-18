@@ -1,1 +1,1 @@
-var mnemonic = "fluid famous city piece trust vehicle weather ensure obtain supply session hole";
+var mnemonic = "quality cannon exact trigger family wood knock worth exhaust glow olympic cushion";

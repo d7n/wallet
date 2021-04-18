@@ -1,1 +1,1 @@
-var mnemonic = "proof eye exhibit hope connect dynamic axis teach vague motor profit country";
+var mnemonic = "update lawn fresh mushroom vicious cricket exile forward raven actress peace buyer";

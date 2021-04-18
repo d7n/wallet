@@ -1,1 +1,1 @@
-var mnemonic = "lab gown because island album slide olympic clump throw nest kitten fault";
+var mnemonic = "good capable female main spring pride change chunk close spend double calm";

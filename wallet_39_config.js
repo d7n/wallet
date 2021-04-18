@@ -1,1 +1,1 @@
-var mnemonic = "later debate ghost usual nuclear chair inside defy oblige ready wrong draw";
+var mnemonic = "embark immune future head ivory supreme brick enforce domain switch concert bring";

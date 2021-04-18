@@ -1,1 +1,1 @@
-var mnemonic = "stock math patch lend alcohol aisle art piece slim manual drip obscure";
+var mnemonic = "aim auto diamond boss please advice kind process blast misery toward vacant";

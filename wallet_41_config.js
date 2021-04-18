@@ -1,1 +1,1 @@
-var mnemonic = "wave crush motor summer crop never ribbon claim humor nut strong naive";
+var mnemonic = "cup name maze harbor odor reopen calm movie solar minor worth year";

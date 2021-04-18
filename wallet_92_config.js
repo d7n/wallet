@@ -1,1 +1,1 @@
-var mnemonic = "lift gesture hire path base organ leopard final van early tired seminar";
+var mnemonic = "flip dinner essence group enroll wheat remove assume occur end nominee skin";

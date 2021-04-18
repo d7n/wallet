@@ -1,1 +1,1 @@
-var mnemonic = "welcome orphan thank person cook year network tunnel tiger salute door miracle";
+var mnemonic = "spot clap math car health frozen toilet edit visa draw benefit airport";

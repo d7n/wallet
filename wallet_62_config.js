@@ -1,1 +1,1 @@
-var mnemonic = "tray swing muffin web chair cabin orphan south frog buddy bring staff";
+var mnemonic = "park eagle fly crunch torch cloud aim position chimney hungry public absent";

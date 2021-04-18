@@ -1,1 +1,1 @@
-var mnemonic = "earn good judge uphold stadium only brick essay turkey wait pilot marine";
+var mnemonic = "bulb cruel dutch word electric code grid crack autumn shift view cover";

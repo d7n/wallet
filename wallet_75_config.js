@@ -1,1 +1,1 @@
-var mnemonic = "nephew install success only voyage hospital present reform panther ship physical choice";
+var mnemonic = "insect bacon illness wagon fiber discover reason toilet decorate sniff hip tuna";

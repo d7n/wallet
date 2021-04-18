@@ -1,1 +1,1 @@
-var mnemonic = "explain usual addict senior aspect position shoe slush glimpse fetch syrup gallery";
+var mnemonic = "badge mountain ocean vibrant bicycle live ski movie pilot select reason crop";

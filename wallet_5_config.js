@@ -1,1 +1,1 @@
-var mnemonic = "final jar gown diesel release vague bunker today fatal chest social idle";
+var mnemonic = "august modify section table tag chunk figure hire fashion board border industry";

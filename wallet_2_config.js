@@ -1,1 +1,1 @@
-var mnemonic = "happy mass reveal local razor small book foot tooth lava repeat human";
+var mnemonic = "there adjust absorb casino siren glory chief behind excite pretty electric pull";

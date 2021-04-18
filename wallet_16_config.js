@@ -1,1 +1,1 @@
-var mnemonic = "repeat infant barrel use barrel path excite pudding sheriff leisure mind mention";
+var mnemonic = "flavor jump box laugh exit whale autumn again ahead olympic canoe clever";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel slab field have disease ramp original bird repeat life session valve";
+var mnemonic = "pioneer toss crystal neither voyage useless time duty degree boy balance parade";

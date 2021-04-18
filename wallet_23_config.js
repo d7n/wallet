@@ -1,1 +1,1 @@
-var mnemonic = "fire job tenant beach cause twist dune popular only walnut month patrol";
+var mnemonic = "can permit bacon expect space actual six edge banana tree size hawk";

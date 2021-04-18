@@ -1,1 +1,1 @@
-var mnemonic = "today length diamond portion where talk grab survey leopard above rotate parrot";
+var mnemonic = "price valley main harbor transfer quit erosion jeans appear essence match bubble";

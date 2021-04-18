@@ -1,1 +1,1 @@
-var mnemonic = "accuse royal habit fantasy neck choose kick absent host exist daring song";
+var mnemonic = "hero scene copper area tomato lake resource duck solution journey custom fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "timber rifle uncle weapon roast recall entry guide pass fluid victory empty";
+var mnemonic = "solution actual bracket spread mistake erosion outside pyramid nature victory favorite upgrade";

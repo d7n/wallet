@@ -1,1 +1,1 @@
-var mnemonic = "weird setup treat neck twist silly hungry panther industry parent wheel deposit";
+var mnemonic = "youth mountain defense roast echo close able answer reason hill aware scissors";

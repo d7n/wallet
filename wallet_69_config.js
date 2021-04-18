@@ -1,1 +1,1 @@
-var mnemonic = "skirt receive fiscal fortune vehicle step brown dad lizard river bacon plate";
+var mnemonic = "dinosaur stadium venture badge reason stock gather proud cherry crack best face";

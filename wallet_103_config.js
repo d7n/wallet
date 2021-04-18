@@ -1,1 +1,1 @@
-var mnemonic = "sure swallow evil maze neglect below joke iron agent chef hen hole";
+var mnemonic = "endorse mansion among degree pencil stadium skirt spare lyrics chaos sand swift";

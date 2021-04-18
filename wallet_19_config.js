@@ -1,1 +1,1 @@
-var mnemonic = "where reunion dance tuition host trumpet razor guide enable minimum visual detect";
+var mnemonic = "hint broken alcohol shallow fame young sock aspect spot eternal that slam";

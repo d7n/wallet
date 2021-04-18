@@ -1,1 +1,1 @@
-var mnemonic = "main attack during turtle spy onion keen expire spirit media photo design";
+var mnemonic = "marble cupboard wire helmet vivid patient random champion again ribbon permit column";

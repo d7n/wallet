@@ -1,1 +1,1 @@
-var mnemonic = "captain owner ostrich hidden club first defense apart actress annual good dance";
+var mnemonic = "cute sick flash come sample speak laptop tuna clown casual bunker raccoon";

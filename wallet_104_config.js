@@ -1,1 +1,1 @@
-var mnemonic = "sleep boring guilt despair attitude arm jungle tornado copper poet decide there";
+var mnemonic = "damp hair job industry save pink flee omit palace ankle success forget";

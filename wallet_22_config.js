@@ -1,1 +1,1 @@
-var mnemonic = "exhibit combine unfold galaxy extra onion basket someone poverty cat vicious record";
+var mnemonic = "crucial april change bacon column enact future bird give simple convince swamp";

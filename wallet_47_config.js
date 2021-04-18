@@ -1,1 +1,1 @@
-var mnemonic = "sword swamp clown tennis label life coconut aware drum poverty era rebel";
+var mnemonic = "hurdle web vanish twice marine season post fall script palace minor north";

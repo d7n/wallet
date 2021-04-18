@@ -1,1 +1,1 @@
-var mnemonic = "polar drift town expect bunker rack clutch diesel almost initial kitchen smile";
+var mnemonic = "pride file welcome infant relief write school mirror reopen retreat silent science";

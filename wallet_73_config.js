@@ -1,1 +1,1 @@
-var mnemonic = "weird tragic pupil ill april river family sock wool daring input response";
+var mnemonic = "theory slim fiber narrow tiny gorilla siege tortoise nose animal bitter antenna";

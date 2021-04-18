@@ -1,1 +1,1 @@
-var mnemonic = "scatter spy license extend defense state merry urge gold unknown kick cruel";
+var mnemonic = "move grain hedgehog ecology never all spoil mystery broccoli riot tilt same";

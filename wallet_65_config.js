@@ -1,1 +1,1 @@
-var mnemonic = "private humble grid project risk gesture lecture ancient mountain brass genuine forest";
+var mnemonic = "involve trophy tortoise erosion retire come ocean avocado split kitchen tribe taste";

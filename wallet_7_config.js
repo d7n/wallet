@@ -1,1 +1,1 @@
-var mnemonic = "twin filter favorite purpose thing monkey century hand sibling pill toss want";
+var mnemonic = "library involve balance balcony wagon april curve river divert era evoke wedding";

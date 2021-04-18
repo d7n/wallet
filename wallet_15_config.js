@@ -1,1 +1,1 @@
-var mnemonic = "pride outside tobacco sausage year fix hockey spring object correct kitten advance";
+var mnemonic = "acquire loop alpha then stuff ridge nice advice fire sure axis joke";

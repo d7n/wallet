@@ -1,1 +1,1 @@
-var mnemonic = "present parrot purpose equal uncover arrive country drastic coyote middle garlic core";
+var mnemonic = "peasant field story skill motion cigar outdoor company excite stem grain patch";

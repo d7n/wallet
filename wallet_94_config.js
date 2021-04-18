@@ -1,1 +1,1 @@
-var mnemonic = "hour pizza crystal filter black creek arctic neutral profit leg frozen fiction";
+var mnemonic = "infant naive destroy snow wife bind elegant enforce mouse romance say trumpet";

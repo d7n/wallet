@@ -1,1 +1,1 @@
-var mnemonic = "galaxy verify clip egg can since wrong carpet ancient novel announce battle";
+var mnemonic = "blame grain beauty ask detail bread wisdom unit bomb anger obscure small";

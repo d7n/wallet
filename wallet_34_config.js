@@ -1,1 +1,1 @@
-var mnemonic = "high spice head faculty north street october sausage resource image life bean";
+var mnemonic = "emerge doll impulse zero script online agree arrive hen move inquiry final";

@@ -1,1 +1,1 @@
-var mnemonic = "loud aim load vapor leisure alpha glimpse grunt amused stay train brother";
+var mnemonic = "hurry puzzle then share size slot obtain immense biology almost kick minor";

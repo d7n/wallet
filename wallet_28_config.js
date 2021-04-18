@@ -1,1 +1,1 @@
-var mnemonic = "final outer shed album victory bike rebuild teach horn leader solution warm";
+var mnemonic = "purchase job kiwi address when attitude any loop eagle photo spend tattoo";

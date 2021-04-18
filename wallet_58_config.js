@@ -1,1 +1,1 @@
-var mnemonic = "close until joke process alpha million note same logic bulk cry prison";
+var mnemonic = "tackle harsh pause alley plug path erupt culture napkin robot prize loud";

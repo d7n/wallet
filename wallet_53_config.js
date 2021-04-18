@@ -1,1 +1,1 @@
-var mnemonic = "surface replace oxygen rice extra food current fatal humor sibling stairs random";
+var mnemonic = "base recycle frame scout daughter gift recycle mosquito welcome salt fence spend";

@@ -1,1 +1,1 @@
-var mnemonic = "unable vacuum old slide unusual ocean gospel typical boost world toilet blush";
+var mnemonic = "love toilet nasty lend already maple beef stumble energy furnace reunion expect";

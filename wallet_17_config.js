@@ -1,1 +1,1 @@
-var mnemonic = "upgrade slogan business become modify search orange sudden inquiry pave flag note";
+var mnemonic = "fire double daring push connect useless access print alarm quit knife tray";

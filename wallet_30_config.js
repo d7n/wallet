@@ -1,1 +1,1 @@
-var mnemonic = "turn pipe flee order upset brown snap box drip please cook vessel";
+var mnemonic = "quality obscure hammer match club style load ladder wait demand become expand";

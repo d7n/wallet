@@ -1,1 +1,1 @@
-var mnemonic = "matter tray rotate cereal muscle patrol awesome below install banner okay rice";
+var mnemonic = "pig position half try extra vibrant face seek cup donkey address account";

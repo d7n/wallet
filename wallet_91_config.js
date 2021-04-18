@@ -1,1 +1,1 @@
-var mnemonic = "online photo boss worry during violin expire police endless color elevator rely";
+var mnemonic = "glow forget move glide ring jeans loan clarify slice inject exclude poem";

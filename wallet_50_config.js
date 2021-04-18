@@ -1,1 +1,1 @@
-var mnemonic = "fog conduct simple crop sleep dutch shrug hour trophy velvet scene wise";
+var mnemonic = "fantasy finish spike chair scout split blue permit repeat fog food pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "come save elevator drama what artist spare youth strategy omit bag tape";
+var mnemonic = "meadow patch name pumpkin agree prefer body dawn fame drive always state";

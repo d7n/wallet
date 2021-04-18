@@ -1,1 +1,1 @@
-var mnemonic = "find two goat sketch response strong such wink punch goddess student eagle";
+var mnemonic = "select result spawn tobacco cinnamon amazing setup unable camp pretty enough similar";

@@ -1,1 +1,1 @@
-var mnemonic = "author magic enemy noise brain poet utility decade present poverty control love";
+var mnemonic = "cricket milk joy gain heart tragic deliver museum honey injury under woman";

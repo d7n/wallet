@@ -1,1 +1,1 @@
-var mnemonic = "festival neglect salute tray balcony foil table sphere predict stock gaze leave";
+var mnemonic = "boss space size index afford base mutual blush leopard duty improve pact";

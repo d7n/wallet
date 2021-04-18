@@ -1,1 +1,1 @@
-var mnemonic = "face raise parade portion vapor agree castle carpet veteran trade they chimney";
+var mnemonic = "imitate window type recall alien cat tiny license glow supreme smart enforce";

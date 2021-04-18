@@ -1,1 +1,1 @@
-var mnemonic = "shield route bomb analyst novel path pause lab car parade spice dune";
+var mnemonic = "above march eight alcohol gas purity certain equal crouch album drum oil";

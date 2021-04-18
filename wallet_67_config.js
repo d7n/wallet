@@ -1,1 +1,1 @@
-var mnemonic = "right climb proof play wall helmet essence element satisfy today yard fat";
+var mnemonic = "original foot pilot verb mirror gap acquire claim link helmet degree room";

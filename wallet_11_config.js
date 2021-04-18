@@ -1,1 +1,1 @@
-var mnemonic = "zoo client simple shoulder total fork inside ordinary domain sign more good";
+var mnemonic = "army snow blast long six cook animal dynamic beyond nurse avocado trick";

@@ -1,1 +1,1 @@
-var mnemonic = "slab kiwi impose puzzle blouse mobile trick south tag apology before puzzle";
+var mnemonic = "math gravity panel apple city suggest finish donkey claim stool middle glow";

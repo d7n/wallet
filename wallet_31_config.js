@@ -1,1 +1,1 @@
-var mnemonic = "chair tenant adult minute transfer theory cool glass peasant scene poet into";
+var mnemonic = "breeze flavor nice front hollow dynamic brass eager thought gossip sleep render";

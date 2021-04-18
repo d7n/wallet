@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur vicious primary measure zoo beach pigeon airport stuff coffee lesson chalk";
+var mnemonic = "replace wire imitate meadow deposit fit pluck cactus cost hat feel lounge";

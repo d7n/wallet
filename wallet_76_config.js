@@ -1,1 +1,1 @@
-var mnemonic = "junk scale fuel stairs involve divorce border always erosion chat shell outer";
+var mnemonic = "robust thought shiver bargain venture truly animal illegal aware duty recycle early";

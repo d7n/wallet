@@ -1,1 +1,1 @@
-var mnemonic = "urban glove size casual there cream maple honey gorilla crush chef attract";
+var mnemonic = "eagle corn lawsuit fee script brick deal company marriage sausage wreck design";

@@ -1,1 +1,1 @@
-var mnemonic = "able grief tuna expose whisper awful siege exist unaware keen tattoo super";
+var mnemonic = "enough hour pig tortoise tone run crouch eye dilemma machine viable strategy";

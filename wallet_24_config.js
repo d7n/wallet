@@ -1,1 +1,1 @@
-var mnemonic = "design utility access lumber south book mutual spider feed miracle hedgehog absent";
+var mnemonic = "gain wet bulk undo plunge brave inch require human lumber slam know";

@@ -1,1 +1,1 @@
-var mnemonic = "rail proud argue comic cash hole service boost sunny nuclear soup charge";
+var mnemonic = "occur scene auction topple anchor wheat ritual produce potato route rail page";

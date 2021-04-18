@@ -1,1 +1,1 @@
-var mnemonic = "party embark gadget border trash trumpet drastic online bleak fault link draw";
+var mnemonic = "cactus own kiss donor famous pigeon embrace song man sweet eyebrow surface";
