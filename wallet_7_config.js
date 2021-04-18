@@ -1,1 +1,1 @@
-var mnemonic = "despair shift alien dose fit deposit shoot soccer foster enter tomato cart";
+var mnemonic = "decade outside elite history warrior copper figure erode obey hour sand shop";

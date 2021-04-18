@@ -1,1 +1,1 @@
-var mnemonic = "west version heavy life rocket mosquito obvious choose peace hospital juice brain";
+var mnemonic = "inquiry initial afraid analyst actress lens video quote bind need slab tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve decide boring lucky angry quantum enable season angry scatter culture motion";
+var mnemonic = "habit artefact canoe impulse piece blush ripple city essence gaze cheap start";

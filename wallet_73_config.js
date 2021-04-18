@@ -1,1 +1,1 @@
-var mnemonic = "metal acoustic manage unfold ignore quick trap valid twelve trigger food dry";
+var mnemonic = "debris dose venue inflict timber practice alert ski gold orient unveil track";

@@ -1,1 +1,1 @@
-var mnemonic = "pink lottery gold tenant define indoor quality victory cup ghost slush once";
+var mnemonic = "gaze grab usage loud either luxury sleep island good humble tip limit";

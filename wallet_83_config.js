@@ -1,1 +1,1 @@
-var mnemonic = "desk iron cute spin produce vicious drive river purchase fever bag hour";
+var mnemonic = "divorce idle track glass clap sudden sign bird snap naive fortune favorite";

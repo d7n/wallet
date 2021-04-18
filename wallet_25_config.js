@@ -1,1 +1,1 @@
-var mnemonic = "lazy craft just noble pride pulp brick pole that click taste memory";
+var mnemonic = "end note gym vanish pumpkin result thumb endorse daughter jeans method slogan";

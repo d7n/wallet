@@ -1,1 +1,1 @@
-var mnemonic = "cash vocal knee display never hour bubble announce toilet shell bicycle trend";
+var mnemonic = "brisk disease ship absent century summer deputy token eyebrow example faint sail";

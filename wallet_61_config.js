@@ -1,1 +1,1 @@
-var mnemonic = "meat ladder deposit garden mad blush woman pupil sponsor suggest bachelor fit";
+var mnemonic = "check slow edit pulp trash tennis picnic write online permit odor salmon";

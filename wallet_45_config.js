@@ -1,1 +1,1 @@
-var mnemonic = "pond lecture gloom cabin keen hip patrol victory kiwi copy achieve engage";
+var mnemonic = "curve question burger fiction leg fly material warfare brief level rely cheap";

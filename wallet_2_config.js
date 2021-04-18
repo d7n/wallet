@@ -1,1 +1,1 @@
-var mnemonic = "cram summer clerk board track field frog cloud spy olympic riot measure";
+var mnemonic = "gate produce neither check inner ask drastic flip ridge cigar happy stool";

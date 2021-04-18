@@ -1,1 +1,1 @@
-var mnemonic = "face hero purity easy click census park pottery unaware defense all hidden";
+var mnemonic = "gather deliver lady tray scheme banner rural shield reveal diet neck cabin";

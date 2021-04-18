@@ -1,1 +1,1 @@
-var mnemonic = "sketch boring moment swear veteran prosper champion jeans vacuum lemon snap blood";
+var mnemonic = "path anxiety pen shoot basket sketch confirm thrive toe field initial robot";

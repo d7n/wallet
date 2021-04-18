@@ -1,1 +1,1 @@
-var mnemonic = "liar execute hole like soup core round era army feature copy target";
+var mnemonic = "appear laptop what dove away occur wrestle inherit visual divide diary fire";

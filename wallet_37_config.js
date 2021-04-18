@@ -1,1 +1,1 @@
-var mnemonic = "liquid poem goose tongue dance gossip faith ladder unaware session weird force";
+var mnemonic = "fee deliver open coach void game account tiger auto tent walk purpose";

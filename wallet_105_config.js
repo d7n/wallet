@@ -1,1 +1,1 @@
-var mnemonic = "attack develop stove harbor cage prosper rent easy flock erase snow fence";
+var mnemonic = "pool couch edit fan horn hawk obey margin load noodle carpet rather";

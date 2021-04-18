@@ -1,1 +1,1 @@
-var mnemonic = "soldier face march shop waste cliff field height repair lottery scale dune";
+var mnemonic = "adapt inherit ramp science list place ivory lamp possible elegant inner artefact";

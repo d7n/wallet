@@ -1,1 +1,1 @@
-var mnemonic = "congress crouch put rhythm ready rotate kite yellow timber boat genius wine";
+var mnemonic = "cart margin lucky file dilemma sponsor media repeat believe arch avocado require";

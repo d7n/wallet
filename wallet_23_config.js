@@ -1,1 +1,1 @@
-var mnemonic = "inherit sword find lazy surround sustain magnet trigger gain autumn peanut guide";
+var mnemonic = "mix into cereal manage lava broccoli only resource muscle satoshi member nature";

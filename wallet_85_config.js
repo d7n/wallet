@@ -1,1 +1,1 @@
-var mnemonic = "jacket disagree purpose found vital velvet tribe happy host illegal exit decline";
+var mnemonic = "mosquito keen damp side pudding hungry solid salad click corn throw west";

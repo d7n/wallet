@@ -1,1 +1,1 @@
-var mnemonic = "transfer noise indoor hungry pudding route physical pass holiday kind section inch";
+var mnemonic = "exist casual witness report cotton more yard soap edge resource balcony weather";

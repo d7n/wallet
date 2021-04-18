@@ -1,1 +1,1 @@
-var mnemonic = "evil field try elephant speed dilemma hero rice ribbon velvet casual misery";
+var mnemonic = "dream demise notice rural walk depend invite second ill accident limb sock";

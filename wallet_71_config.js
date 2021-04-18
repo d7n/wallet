@@ -1,1 +1,1 @@
-var mnemonic = "engine daughter define tiger hello also slight rice wink erosion reject barrel";
+var mnemonic = "road banana cradle quantum column canyon pledge expand smile luxury guess raise";

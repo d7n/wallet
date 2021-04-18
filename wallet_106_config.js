@@ -1,1 +1,1 @@
-var mnemonic = "snack spike correct chef album pelican grit example donor sister glance miracle";
+var mnemonic = "empty beach envelope live industry soul move anger thumb ticket world fault";

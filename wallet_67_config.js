@@ -1,1 +1,1 @@
-var mnemonic = "auto glimpse oil city menu machine sibling today force pen profit exercise";
+var mnemonic = "faculty hole school strong vehicle parent inspire vivid face vote involve tank";

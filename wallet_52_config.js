@@ -1,1 +1,1 @@
-var mnemonic = "cherry short shoe rough nurse oval employ victory nasty squeeze dash mobile";
+var mnemonic = "wet ivory soldier ski power layer sample lion impact feed pitch remember";

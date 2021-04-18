@@ -1,1 +1,1 @@
-var mnemonic = "oven window title tortoise virus air clip loyal secret ecology egg admit";
+var mnemonic = "slush father fit young work monitor cliff devote solid blast wisdom hedgehog";

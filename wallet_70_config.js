@@ -1,1 +1,1 @@
-var mnemonic = "mimic unable canoe category recycle shoot obvious fine faith dizzy section asthma";
+var mnemonic = "board solution finger illegal industry buddy essence write general kick sting whip";

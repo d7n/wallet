@@ -1,1 +1,1 @@
-var mnemonic = "sting where lock adult click pig depth jungle fluid rather skin portion";
+var mnemonic = "stand burden mirror episode code income eye limit prize van major blur";

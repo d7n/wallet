@@ -1,1 +1,1 @@
-var mnemonic = "rapid desk gadget stomach betray average require snack lesson riot roast honey";
+var mnemonic = "thumb snack worth drum quit black sand oil tide army offer glow";

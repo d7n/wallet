@@ -1,1 +1,1 @@
-var mnemonic = "orchard author outside perfect zoo total hospital north hawk blade mask wide";
+var mnemonic = "trigger industry doll symptom inside eight sign theory very split biology helmet";

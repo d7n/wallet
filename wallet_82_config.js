@@ -1,1 +1,1 @@
-var mnemonic = "dragon double upset solve upon hurdle clump ivory lion answer glimpse clean";
+var mnemonic = "walk siege tackle shield cherry invest nerve room boy liberty call junior";

@@ -1,1 +1,1 @@
-var mnemonic = "drift oblige truth obey sort enhance rotate quiz exchange unveil rotate bone";
+var mnemonic = "north slab pretty olympic glad long enter cat rebel shield short glass";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop claim monkey yellow finger twin news desert safe nephew alter prison";
+var mnemonic = "rally enemy live addict project steel sweet album coconut innocent barrel goat";

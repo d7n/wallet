@@ -1,1 +1,1 @@
-var mnemonic = "fringe ramp violin capital convince woman until cake abandon gaze virus timber";
+var mnemonic = "ranch universe autumn away warfare filter sleep truly skin elder scorpion tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "beef average car finger moon index peace giggle have intact palace crazy";
+var mnemonic = "marine pull connect private friend evolve spatial solution gravity old field cradle";

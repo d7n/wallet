@@ -1,1 +1,1 @@
-var mnemonic = "nation vendor ordinary medal clock phrase nephew better bone conduct humor make";
+var mnemonic = "early melody crane carry ancient inform plastic face captain attract forest garment";

@@ -1,1 +1,1 @@
-var mnemonic = "pear soft coffee female swallow rain toss wave crazy phrase tourist tuna";
+var mnemonic = "purpose worry train slab muffin cancel penalty gadget guitar extra crater jar";

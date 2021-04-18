@@ -1,1 +1,1 @@
-var mnemonic = "estate talent sand skull valley upper wave banana fetch tobacco wood curtain";
+var mnemonic = "jewel lucky leisure repair goat farm anchor jelly dragon current airport desk";

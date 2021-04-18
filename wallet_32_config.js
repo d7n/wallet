@@ -1,1 +1,1 @@
-var mnemonic = "tip risk upon clever cry scissors host settle empower olympic consider divorce";
+var mnemonic = "yard forum unknown sudden organ amount prefer galaxy weird foam accident hood";

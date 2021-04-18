@@ -1,1 +1,1 @@
-var mnemonic = "chimney wealth youth diamond winner carbon plunge drum issue holiday winter lyrics";
+var mnemonic = "print sibling moment already clown team praise toddler radar describe omit render";

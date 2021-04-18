@@ -1,1 +1,1 @@
-var mnemonic = "robust beauty session suffer toddler seed message quote embark rather define powder";
+var mnemonic = "crane legend satisfy oblige decrease whale merit correct cycle chat analyst remind";

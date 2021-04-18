@@ -1,1 +1,1 @@
-var mnemonic = "fossil slight decade grass smoke ritual sense fruit hover sunny title maid";
+var mnemonic = "roast armor find company label amused dance decide reveal tail volcano brain";

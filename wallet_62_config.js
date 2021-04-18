@@ -1,1 +1,1 @@
-var mnemonic = "start lava rubber alone mechanic ozone improve road grow rocket struggle good";
+var mnemonic = "plug dynamic genre churn sign hand ahead typical effort abuse enrich damage";

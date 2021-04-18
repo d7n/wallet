@@ -1,1 +1,1 @@
-var mnemonic = "pair moment mechanic appear network hollow strong prison armor shy tackle right";
+var mnemonic = "between orient various vendor tuition mango start carpet news sad dinosaur monster";

@@ -1,1 +1,1 @@
-var mnemonic = "police clog merge pluck load hamster toward universe quote manage fury kingdom";
+var mnemonic = "apology poet across execute arm glad season bean insect creek major universe";

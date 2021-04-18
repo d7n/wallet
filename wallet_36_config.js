@@ -1,1 +1,1 @@
-var mnemonic = "decide vehicle ice benefit equip issue dumb moment talk father brush charge";
+var mnemonic = "grain certain clip cream movie item promote design battle piece custom solid";

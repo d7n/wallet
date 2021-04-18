@@ -1,1 +1,1 @@
-var mnemonic = "garbage rare two message canoe round govern pull pulse curve bulk million";
+var mnemonic = "frame voice faint taxi merit kind caution ostrich diagram wreck buffalo royal";

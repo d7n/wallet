@@ -1,1 +1,1 @@
-var mnemonic = "wealth author cover father copper mix educate what lava decline gift okay";
+var mnemonic = "avoid patch uphold type glare offer captain betray promote blanket flush fringe";

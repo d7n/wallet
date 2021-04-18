@@ -1,1 +1,1 @@
-var mnemonic = "catch wheat ice pear clip melt copper bar salt spider fence file";
+var mnemonic = "crucial athlete phrase keen type kiwi volume width town omit wheat dentist";

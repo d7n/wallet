@@ -1,1 +1,1 @@
-var mnemonic = "advance alien foil tower shed journey index park draw trap time calm";
+var mnemonic = "scorpion nuclear rose track measure priority urban imitate island idle success discover";

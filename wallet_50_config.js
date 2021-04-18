@@ -1,1 +1,1 @@
-var mnemonic = "rigid snack capital toddler mention truly symbol divorce abandon glimpse property arena";
+var mnemonic = "barely edit diesel lawsuit protect witness maximum card buddy shrimp skate arrest";

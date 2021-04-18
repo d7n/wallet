@@ -1,1 +1,1 @@
-var mnemonic = "gaze trend critic tobacco field ball hurry phone demise afford they over";
+var mnemonic = "trade fatigue risk during first stamp noble practice coffee fire song debris";

@@ -1,1 +1,1 @@
-var mnemonic = "skirt weasel mail around limb inform lens hint breeze satisfy feed wealth";
+var mnemonic = "crash steak error light riot gather marriage machine chat simple juice winner";

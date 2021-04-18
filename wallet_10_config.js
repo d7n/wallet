@@ -1,1 +1,1 @@
-var mnemonic = "clog curious spoon drastic mother vague rain banana sight actor another amount";
+var mnemonic = "guard length exotic twist blossom barely exercise toe change version float rocket";

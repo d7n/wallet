@@ -1,1 +1,1 @@
-var mnemonic = "stand cash clerk empty surface brass garlic combine comic know ivory loyal";
+var mnemonic = "believe violin glance invite horror brick misery betray swift super social industry";

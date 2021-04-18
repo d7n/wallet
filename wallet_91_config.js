@@ -1,1 +1,1 @@
-var mnemonic = "kind toss vendor girl spawn modify club pass sea clay piece news";
+var mnemonic = "shaft kitten morning cluster sell vibrant nice either wrap text second math";

@@ -1,1 +1,1 @@
-var mnemonic = "message moral abandon mosquito mango tuition pride hawk rough hood often swift";
+var mnemonic = "muffin wing foster element photo enemy degree young dream nice inmate pigeon";

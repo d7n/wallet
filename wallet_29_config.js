@@ -1,1 +1,1 @@
-var mnemonic = "casino term bar violin solar intact fire vital creek together sudden banana";
+var mnemonic = "ozone across agent manual modify soldier liar know catch pair gap any";

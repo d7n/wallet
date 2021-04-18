@@ -1,1 +1,1 @@
-var mnemonic = "gasp abstract average easily other enjoy bar please enrich search twin else";
+var mnemonic = "present salt reject minute quarter diagram public option afford brother travel rain";

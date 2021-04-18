@@ -1,1 +1,1 @@
-var mnemonic = "snow problem junk north cost celery dwarf soldier blast mosquito garbage antique";
+var mnemonic = "cruise promote drastic marble emerge fence bitter early sunset call unable version";

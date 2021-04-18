@@ -1,1 +1,1 @@
-var mnemonic = "october actress need engine honey invest search fatigue vendor ugly merit help";
+var mnemonic = "dragon typical scrub smile leisure grow arrange rather awful snap canvas visa";

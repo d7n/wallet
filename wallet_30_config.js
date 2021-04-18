@@ -1,1 +1,1 @@
-var mnemonic = "torch duty attack frozen bulb call know account profit machine concert dish";
+var mnemonic = "wealth spot actor spy beauty giraffe bounce adult copy raccoon style gym";

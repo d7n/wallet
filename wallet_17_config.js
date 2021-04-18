@@ -1,1 +1,1 @@
-var mnemonic = "hand fringe pipe myth abandon powder common autumn home clap window until";
+var mnemonic = "gravity fall nest torch vicious long wink frozen hub claw math boil";

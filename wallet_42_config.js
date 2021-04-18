@@ -1,1 +1,1 @@
-var mnemonic = "column also wrist gift final prepare sort test hockey grocery keen gold";
+var mnemonic = "lounge swing rabbit table salute accident assist churn volume earth vast post";

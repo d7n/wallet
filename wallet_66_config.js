@@ -1,1 +1,1 @@
-var mnemonic = "spawn alone ivory trigger royal stadium page abuse olympic target payment hobby";
+var mnemonic = "food two accuse pool country slide husband century baby mad market swing";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel lake amused sport fish tiger champion gift fruit leopard liar frame";
+var mnemonic = "normal black exercise charge world left goat belt symbol economy skin tobacco";

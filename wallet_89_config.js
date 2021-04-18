@@ -1,1 +1,1 @@
-var mnemonic = "honey junk anxiety defy sort amused goat height orient finish laundry refuse";
+var mnemonic = "absurd cause pair choice yard crash produce father auction casual rug nose";

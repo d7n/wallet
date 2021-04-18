@@ -1,1 +1,1 @@
-var mnemonic = "extend soft inflict awful evolve buddy viable mercy tower purity tennis flame";
+var mnemonic = "gift physical assume unusual lens cool mask visit pluck receive ostrich ski";

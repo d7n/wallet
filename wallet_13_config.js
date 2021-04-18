@@ -1,1 +1,1 @@
-var mnemonic = "violin major marine deputy dinner ride edge merge survey oak game drop";
+var mnemonic = "canvas fringe dance insect era shuffle elbow omit fuel satisfy output glance";

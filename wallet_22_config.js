@@ -1,1 +1,1 @@
-var mnemonic = "sugar express salt special truck oak swarm kid exhaust august expect desk";
+var mnemonic = "time need myself april kiwi relax sustain remind shuffle whisper zone aim";

@@ -1,1 +1,1 @@
-var mnemonic = "amount able green snap mind gloom decade aim cute burger miss wrap";
+var mnemonic = "exit slice humor cheap neglect ripple long debris drama frozen explain expose";

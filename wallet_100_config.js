@@ -1,1 +1,1 @@
-var mnemonic = "reward harvest dash try eternal barely sketch neglect thank teach glimpse leisure";
+var mnemonic = "alert subject chest sick useful common buffalo else fury tortoise keep pretty";

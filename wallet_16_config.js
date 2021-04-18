@@ -1,1 +1,1 @@
-var mnemonic = "awake nurse lift sibling oblige conduct upgrade cry mind copy near glad";
+var mnemonic = "wolf flock spare odor core picnic own solar wait they core mandate";

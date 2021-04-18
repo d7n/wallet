@@ -1,1 +1,1 @@
-var mnemonic = "absent drill umbrella follow mountain spice frequent panel behind ramp pave public";
+var mnemonic = "expose sunny fiscal memory thrive film differ expose number alert castle episode";

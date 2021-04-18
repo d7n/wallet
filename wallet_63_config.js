@@ -1,1 +1,1 @@
-var mnemonic = "kidney vital gas what quote mother target wise label one planet absorb";
+var mnemonic = "jaguar arrest juice sauce little escape muscle ability resemble vintage calm debate";

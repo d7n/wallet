@@ -1,1 +1,1 @@
-var mnemonic = "remove budget quit lesson museum flower disease shine shell flat drastic such";
+var mnemonic = "false just pretty climb quit prosper tunnel skin bounce view help arena";

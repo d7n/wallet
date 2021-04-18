@@ -1,1 +1,1 @@
-var mnemonic = "ready lunch hen goddess road uncle unfair shoe mammal crowd rural antique";
+var mnemonic = "guess hover eagle inch spot ritual detail slim disorder open fine derive";

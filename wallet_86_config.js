@@ -1,1 +1,1 @@
-var mnemonic = "vacant border chuckle motor crush post plug arm else amused submit mesh";
+var mnemonic = "section give very typical dentist north shove north federal drink mystery elegant";

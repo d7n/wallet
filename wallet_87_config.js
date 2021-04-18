@@ -1,1 +1,1 @@
-var mnemonic = "regret marine expand narrow thought dolphin stairs border mango chicken buyer nut";
+var mnemonic = "fix load visual depend orient goat ritual addict liar scrap crisp stomach";

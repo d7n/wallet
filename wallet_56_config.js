@@ -1,1 +1,1 @@
-var mnemonic = "jewel outer velvet eye gentle decrease pitch demise trim sad pride tissue";
+var mnemonic = "ordinary spot dilemma accident lion better artwork mean orient garment original scene";

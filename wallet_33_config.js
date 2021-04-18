@@ -1,1 +1,1 @@
-var mnemonic = "radio gap undo loan slice oil foot expose viable square hello raise";
+var mnemonic = "dove paddle vast similar ketchup escape unknown mango unlock logic stick cart";

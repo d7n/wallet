@@ -1,1 +1,1 @@
-var mnemonic = "sun often into priority style measure puppy tobacco spike you relief worry";
+var mnemonic = "bike add stove uncover document equip aware twin magnet between lunar island";

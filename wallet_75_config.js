@@ -1,1 +1,1 @@
-var mnemonic = "wear carry idea recycle pond vault choice arch develop cloud magnet private";
+var mnemonic = "cross rival flower dignity pig boil robot they news royal antique lecture";

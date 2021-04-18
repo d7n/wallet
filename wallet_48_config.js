@@ -1,1 +1,1 @@
-var mnemonic = "easily favorite hole spin gate ivory arena age figure sustain spread toddler";
+var mnemonic = "marriage board dwarf memory employ smart wrong gossip drop sadness skill excuse";

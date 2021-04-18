@@ -1,1 +1,1 @@
-var mnemonic = "amazing open crowd saddle wear exercise jacket burger canoe client pretty power";
+var mnemonic = "pitch rare mushroom together rely weekend era legend woman funny economy blue";

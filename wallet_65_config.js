@@ -1,1 +1,1 @@
-var mnemonic = "forum silk tired north diesel abstract parrot over bamboo soft sting gaze";
+var mnemonic = "cargo flock brief because domain speed end addict illness gesture winner history";

@@ -1,1 +1,1 @@
-var mnemonic = "journey surprise planet this chunk gravity tired home during absent cruel ship";
+var mnemonic = "edit cake silver hard fragile clock ticket chase crouch annual scout cost";

@@ -1,1 +1,1 @@
-var mnemonic = "fit muscle then foot allow envelope leg glue spare artist move tooth";
+var mnemonic = "reveal member sunny ostrich walnut fiction swarm glory chair metal shaft various";

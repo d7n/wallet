@@ -1,1 +1,1 @@
-var mnemonic = "apple radar pyramid depend behave book suspect prison amount frozen team symptom";
+var mnemonic = "attract elephant chronic travel glass audit anchor address peanut key debris nerve";

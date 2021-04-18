@@ -1,1 +1,1 @@
-var mnemonic = "front noise fiction avoid deal dry episode tag girl hand minimum left";
+var mnemonic = "science speak basket now surge romance stay side uniform project ignore assist";
