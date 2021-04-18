@@ -1,1 +1,1 @@
-var mnemonic = "nominee faculty awake mirror flee between sound vehicle inch perfect beyond merit";
+var mnemonic = "account stumble snap second charge spray layer slim famous apple seat sad";

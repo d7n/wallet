@@ -1,1 +1,1 @@
-var mnemonic = "beyond client father throw twelve grit rebel load hero describe armed true";
+var mnemonic = "all vessel brisk buddy kitchen priority nut planet opinion pigeon receive term";

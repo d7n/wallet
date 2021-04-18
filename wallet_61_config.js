@@ -1,1 +1,1 @@
-var mnemonic = "vintage vicious report thrive fat palace trash student desk help dignity worry";
+var mnemonic = "rack purity shoot chronic else seek deny news argue post extra fitness";

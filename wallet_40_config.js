@@ -1,1 +1,1 @@
-var mnemonic = "shadow input voice gather rifle submit market senior balance chase raw state";
+var mnemonic = "amount you rich deposit lava admit empty interest limit during piece check";

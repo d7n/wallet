@@ -1,1 +1,1 @@
-var mnemonic = "aerobic sea discover acquire crater palace clown document course smile segment cheese";
+var mnemonic = "essence glory woman cotton merry since feature crush yellow glimpse boring neither";

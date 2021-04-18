@@ -1,1 +1,1 @@
-var mnemonic = "rebuild remain parade horse fade wreck like orchard bridge punch audit speak";
+var mnemonic = "enemy habit silly pink viable cotton sorry update one vacant park frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "crew embrace head grape minimum aerobic echo crazy rib correct token away";
+var mnemonic = "conduct insect remain dolphin engage ask cream another lawn oxygen aunt thank";

@@ -1,1 +1,1 @@
-var mnemonic = "maple adjust seek clever analyst desert winter diary crush author slam dish";
+var mnemonic = "sand popular erode limb almost attend then talk spoil ribbon inherit ship";

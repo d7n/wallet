@@ -1,1 +1,1 @@
-var mnemonic = "wolf resemble emotion treat goat include click clump dismiss brief explain gesture";
+var mnemonic = "setup shed barrel almost expire task waste cabbage era helmet venue avocado";

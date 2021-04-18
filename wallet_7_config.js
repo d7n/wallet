@@ -1,1 +1,1 @@
-var mnemonic = "praise piano daughter force wheat comic airport alien roast enforce ankle employ";
+var mnemonic = "crucial neck small ride must drop shaft staff garment witness speak change";

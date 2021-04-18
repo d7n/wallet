@@ -1,1 +1,1 @@
-var mnemonic = "prepare rifle file theme guitar cinnamon assume problem normal submit host rare";
+var mnemonic = "surface join correct question frame toy furnace cabin ostrich dove install fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "wave dash sadness desk clinic limit bag satisfy normal income harvest orchard";
+var mnemonic = "special bomb month debris tissue boil permit level fame knock knife solar";

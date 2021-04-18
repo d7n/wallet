@@ -1,1 +1,1 @@
-var mnemonic = "enrich pluck trim invite era hello upper dice memory athlete voice glory";
+var mnemonic = "artefact verify again fiscal silk lounge what wisdom blast one someone swear";

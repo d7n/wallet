@@ -1,1 +1,1 @@
-var mnemonic = "fork diet roof screen jewel citizen coral shiver panic spider weasel capable";
+var mnemonic = "surprise wrestle bicycle vehicle file street pave frequent mercy violin trap strike";

@@ -1,1 +1,1 @@
-var mnemonic = "high anxiety boy tonight public faith disorder gloom film diamond force old";
+var mnemonic = "plunge ordinary steel ramp poem leaf dragon between wine jump annual alien";

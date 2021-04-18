@@ -1,1 +1,1 @@
-var mnemonic = "concert steak differ insect neck tilt found tired cigar divert lend silk";
+var mnemonic = "tobacco possible smoke leave edge tourist exchange nose dinner uniform section escape";

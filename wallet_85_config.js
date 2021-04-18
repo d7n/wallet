@@ -1,1 +1,1 @@
-var mnemonic = "snow mystery estate grain spy envelope grief depart such base dove mimic";
+var mnemonic = "raise income clarify broken scheme utility other winter cement buzz garment sketch";

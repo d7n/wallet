@@ -1,1 +1,1 @@
-var mnemonic = "real govern shoe relief reopen view foster fragile zoo mansion eye bleak";
+var mnemonic = "trim burst eyebrow truth circle lucky misery soccer all spend course grain";

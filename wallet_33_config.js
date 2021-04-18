@@ -1,1 +1,1 @@
-var mnemonic = "year mandate item decrease visit edge report ahead inner old dolphin cluster";
+var mnemonic = "marine awesome follow thank minor layer another wave sunny cook birth sting";

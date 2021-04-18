@@ -1,1 +1,1 @@
-var mnemonic = "cook large annual squirrel type board myth desert screen vendor quick pepper";
+var mnemonic = "border stem odor catalog abuse run trip guide ladder lazy shaft reject";

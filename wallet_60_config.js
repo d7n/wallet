@@ -1,1 +1,1 @@
-var mnemonic = "lamp soul master door day ecology giraffe autumn quarter theme crunch badge";
+var mnemonic = "damp oval daring business emotion blush drip pen you donor involve clump";

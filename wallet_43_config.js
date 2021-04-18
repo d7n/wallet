@@ -1,1 +1,1 @@
-var mnemonic = "fantasy among harvest inflict day length youth sustain rabbit board cable resemble";
+var mnemonic = "kick load heavy notable mask theory guilt veteran toddler private pair agent";

@@ -1,1 +1,1 @@
-var mnemonic = "hope swap north dove naive consider raccoon plate diet connect happy real";
+var mnemonic = "guitar shoe rebuild link infant pass forum relax merit public unknown curious";

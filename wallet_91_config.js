@@ -1,1 +1,1 @@
-var mnemonic = "army debate sister pizza curtain future grunt soldier demise rebel humor onion";
+var mnemonic = "snap okay balance bicycle clay kind polar casino spoil cattle tray device";

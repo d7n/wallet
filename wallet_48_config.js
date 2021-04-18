@@ -1,1 +1,1 @@
-var mnemonic = "today pear atom vast scheme pass artefact front unaware drama entire very";
+var mnemonic = "bundle fire notice now valley turtle promote device business property moon cheese";

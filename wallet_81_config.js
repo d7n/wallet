@@ -1,1 +1,1 @@
-var mnemonic = "board portion chair crucial chunk earth put prison rookie scan bunker include";
+var mnemonic = "kingdom switch large bulk educate deal auto awesome parrot valve joke away";

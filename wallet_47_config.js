@@ -1,1 +1,1 @@
-var mnemonic = "hospital regret glance unveil lumber police student mule they pool patient circle";
+var mnemonic = "aim lava horse recycle surface coconut culture recycle blur fiction globe husband";

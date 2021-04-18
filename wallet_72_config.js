@@ -1,1 +1,1 @@
-var mnemonic = "will honey cement awful donor arrow farm sort target choice adult delay";
+var mnemonic = "worth topple ethics match proud avoid enlist mammal nerve scene drum penalty";

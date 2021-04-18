@@ -1,1 +1,1 @@
-var mnemonic = "naive dune stone cute survey glance road noise artefact nothing mirror yellow";
+var mnemonic = "child move peace narrow universe blame genius thank grit boat ship nuclear";

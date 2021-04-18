@@ -1,1 +1,1 @@
-var mnemonic = "nose desk cactus ozone hero stage sorry trim copy deposit vivid rural";
+var mnemonic = "permit flat sport camp worry harsh luggage lemon food claw cover banana";

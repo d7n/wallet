@@ -1,1 +1,1 @@
-var mnemonic = "accuse february zero already pact turkey inspire old rich wait poem firm";
+var mnemonic = "never vivid clog typical citizen hip depart deposit gift noise bind picture";

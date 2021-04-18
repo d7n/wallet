@@ -1,1 +1,1 @@
-var mnemonic = "make faith pole between siren digital rose barrel output paddle entry balcony";
+var mnemonic = "decide expose crater mansion option lift you message name timber among dice";

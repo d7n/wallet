@@ -1,1 +1,1 @@
-var mnemonic = "harbor minor mercy civil vanish bulb present region mean select very fresh";
+var mnemonic = "usual require kidney indicate diamond wife violin buyer what transfer sheriff wear";

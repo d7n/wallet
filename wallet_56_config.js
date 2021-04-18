@@ -1,1 +1,1 @@
-var mnemonic = "broom ethics extend diet frozen parent crystal fox mimic loan future knee";
+var mnemonic = "certain potato crystal solar grass undo fire census local catch attitude service";

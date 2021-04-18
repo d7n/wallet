@@ -1,1 +1,1 @@
-var mnemonic = "rib sign ensure december survey put custom cup network resemble decrease erase";
+var mnemonic = "wrestle nest develop vibrant close assume garbage tooth clever stool congress actress";

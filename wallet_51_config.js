@@ -1,1 +1,1 @@
-var mnemonic = "response weasel crystal own around mushroom derive island art rice replace raise";
+var mnemonic = "advance trip tornado damp peanut rigid friend spider nothing loyal kitten morning";

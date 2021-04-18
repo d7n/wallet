@@ -1,1 +1,1 @@
-var mnemonic = "type word index leader vivid add level reason catch detect talent feed";
+var mnemonic = "fortune page crew this churn country boss near fame material crunch rookie";

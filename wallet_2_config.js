@@ -1,1 +1,1 @@
-var mnemonic = "favorite loop alpha parade spot leg buffalo flame enemy yard stand salt";
+var mnemonic = "polar gadget ostrich creek river garden extra boy pet notice scheme marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "believe faith apart liar film actual pulse coyote symbol frame used arrange";
+var mnemonic = "mad noble axis check december fresh swift repeat setup must taste toe";

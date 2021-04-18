@@ -1,1 +1,1 @@
-var mnemonic = "ticket potato grass crisp fresh nerve grass fashion motion labor divert profit";
+var mnemonic = "picnic call hybrid toy hamster staff soup because nice enable hello poem";

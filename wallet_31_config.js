@@ -1,1 +1,1 @@
-var mnemonic = "abstract question search spider cram fashion admit erosion burst switch village bunker";
+var mnemonic = "grief panic talk friend buyer guard cushion portion noble pipe dice update";

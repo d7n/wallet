@@ -1,1 +1,1 @@
-var mnemonic = "couple awesome squeeze claim spy wrong pen laptop icon explain adult width";
+var mnemonic = "matrix farm fury divorce inmate boil appear float tiger prison intact honey";

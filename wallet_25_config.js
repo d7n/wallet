@@ -1,1 +1,1 @@
-var mnemonic = "lunar head tattoo win such skirt author segment cram trade rug expand";
+var mnemonic = "draft forget delay practice route notable fame tomato panther release breeze green";

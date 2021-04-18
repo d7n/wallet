@@ -1,1 +1,1 @@
-var mnemonic = "mail bid thought beauty day buffalo output scale danger soda ship tube";
+var mnemonic = "process upper ivory spin cotton heart merry good pulse ski clump since";

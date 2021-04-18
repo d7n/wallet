@@ -1,1 +1,1 @@
-var mnemonic = "twenty reason describe version hire devote fade craft ordinary board ice pen";
+var mnemonic = "verify pilot radar because credit huge amateur invest raise follow jar egg";

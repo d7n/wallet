@@ -1,1 +1,1 @@
-var mnemonic = "track unaware seat body chronic hunt mind jewel brief gloom online twice";
+var mnemonic = "master story debris robust divert final idea silent wasp mixture year puzzle";

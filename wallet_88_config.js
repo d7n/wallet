@@ -1,1 +1,1 @@
-var mnemonic = "guard tool abandon suspect buffalo icon toe return kitchen invite defense collect";
+var mnemonic = "raw upset speed planet oppose bargain anchor grass label quarter oxygen use";

@@ -1,1 +1,1 @@
-var mnemonic = "fault hand slim symptom speed cash hunt breeze cinnamon spawn idea notice";
+var mnemonic = "warfare slim taxi menu merge mirror actual velvet extend radar card heavy";

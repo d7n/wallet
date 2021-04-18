@@ -1,1 +1,1 @@
-var mnemonic = "story travel balcony hungry fringe table math video oven enough right minimum";
+var mnemonic = "anger nature fiction update assault since belt large wasp moon coconut ice";

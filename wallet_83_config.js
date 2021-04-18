@@ -1,1 +1,1 @@
-var mnemonic = "bomb mind chuckle hundred enable item dial cool original young name motor";
+var mnemonic = "noodle fruit bachelor limit whip mammal myself vague ivory south advice idea";

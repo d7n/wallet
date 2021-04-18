@@ -1,1 +1,1 @@
-var mnemonic = "online current panic vessel frozen glare point nose void target shine exist";
+var mnemonic = "layer belt purity timber car fall film stumble poem example siren polar";

@@ -1,1 +1,1 @@
-var mnemonic = "brief tunnel shoulder humor surface buzz property exact avoid eight mountain craft";
+var mnemonic = "pride magic priority spring mobile pattern shaft job silly glare dog tonight";

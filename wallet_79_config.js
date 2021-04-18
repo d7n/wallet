@@ -1,1 +1,1 @@
-var mnemonic = "problem room worry chuckle raw physical collect seek unable reduce weather scare";
+var mnemonic = "embrace option stable game fan laundry bread emerge logic advice case gaze";

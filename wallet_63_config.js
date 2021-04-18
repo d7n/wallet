@@ -1,1 +1,1 @@
-var mnemonic = "grunt help payment dumb carpet cruel have idea seminar pause choose tell";
+var mnemonic = "palace day collect old matrix fatal clap valve police blind rough multiply";

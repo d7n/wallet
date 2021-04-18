@@ -1,1 +1,1 @@
-var mnemonic = "hockey popular gold match nuclear toast quiz body garage parade cabbage blossom";
+var mnemonic = "lamp sphere clump tennis issue october surface quality best cargo marriage arch";

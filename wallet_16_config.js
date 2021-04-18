@@ -1,1 +1,1 @@
-var mnemonic = "owner main rare sort kit bread plastic satisfy vapor miracle enjoy hidden";
+var mnemonic = "chimney amused clap believe lizard defy puppy soda tourist empty baby south";

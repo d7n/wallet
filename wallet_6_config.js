@@ -1,1 +1,1 @@
-var mnemonic = "pluck grace barrel cloud machine core hotel payment moon security alter radar";
+var mnemonic = "panic pilot barely practice away rude joy deliver hand season final art";

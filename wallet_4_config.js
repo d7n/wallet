@@ -1,1 +1,1 @@
-var mnemonic = "cover black hidden ghost attitude solar steak speak relief hammer donate mirror";
+var mnemonic = "auto loop language kick sort winter plunge lounge one rival home demand";

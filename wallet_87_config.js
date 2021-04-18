@@ -1,1 +1,1 @@
-var mnemonic = "bicycle lady pattern exact coach travel scorpion nose protect car private ridge";
+var mnemonic = "sentence city bright amazing bonus fluid nothing helmet page scene keep laugh";

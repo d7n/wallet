@@ -1,1 +1,1 @@
-var mnemonic = "panther physical famous faint behind genuine infant vault ceiling lock sick female";
+var mnemonic = "blue price burger elevator manage settle rain table soul artefact improve thought";

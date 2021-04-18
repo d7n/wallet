@@ -1,1 +1,1 @@
-var mnemonic = "toilet raw decorate coyote annual toy come stereo stairs accuse wife fault";
+var mnemonic = "rare margin tilt clean then crumble run image rose hair grain stay";

@@ -1,1 +1,1 @@
-var mnemonic = "exist one pair mercy street leg service mask plate theme melt neglect";
+var mnemonic = "ride hungry grow return soon tuna hobby fluid remain galaxy shock slow";

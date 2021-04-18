@@ -1,1 +1,1 @@
-var mnemonic = "motion similar sausage glimpse kitten mirror teach little same digital armed cover";
+var mnemonic = "series wisdom when level purse define estate ocean old behind table aware";

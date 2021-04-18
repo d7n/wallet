@@ -1,1 +1,1 @@
-var mnemonic = "practice museum divorce imitate whale legend update party what zero open help";
+var mnemonic = "install century top crisp limit knock wink breeze ankle broccoli primary stadium";

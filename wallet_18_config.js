@@ -1,1 +1,1 @@
-var mnemonic = "cheap local crazy town adjust cute elegant fence priority plug wink toy";
+var mnemonic = "match basket magnet analyst skill random program divide silver author phone tuition";

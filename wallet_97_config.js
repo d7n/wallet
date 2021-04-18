@@ -1,1 +1,1 @@
-var mnemonic = "input sphere mule royal frequent among spend staff never jazz bone true";
+var mnemonic = "security correct mansion link visual trip way acoustic skin aerobic paper ten";

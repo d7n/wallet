@@ -1,1 +1,1 @@
-var mnemonic = "fan analyst depart sell mandate few stable rate cereal satoshi neglect token";
+var mnemonic = "jeans adapt depend gravity interest witness elder click enter purchase dolphin client";

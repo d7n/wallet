@@ -1,1 +1,1 @@
-var mnemonic = "about bamboo apple angry normal donkey fluid today shiver used under topple";
+var mnemonic = "magic verb mandate empty outside depart smart lazy napkin grow jacket daughter";

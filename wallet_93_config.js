@@ -1,1 +1,1 @@
-var mnemonic = "plunge nature chunk peasant welcome life theme pen own velvet chronic enroll";
+var mnemonic = "rose liar shoot joke frog matter label excess gesture suggest pencil enroll";

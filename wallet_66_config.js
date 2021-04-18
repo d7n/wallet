@@ -1,1 +1,1 @@
-var mnemonic = "sword daughter wisdom duck balance remain first camp chicken switch flavor diagram";
+var mnemonic = "harbor menu teach silver path room sense pretty layer oven crunch weird";

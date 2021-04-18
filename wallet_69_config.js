@@ -1,1 +1,1 @@
-var mnemonic = "gospel series average boat cat extend opinion toddler sniff brother jacket expose";
+var mnemonic = "myth midnight rack ramp rail water genius frame endless hen leave expect";

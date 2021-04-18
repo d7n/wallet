@@ -1,1 +1,1 @@
-var mnemonic = "bronze tool load rapid once since tongue same soda board rural visit";
+var mnemonic = "section mixed calm produce cry runway consider cliff fever include anchor limb";

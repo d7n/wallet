@@ -1,1 +1,1 @@
-var mnemonic = "era palace glove film float then design sentence panel maid teach puppy";
+var mnemonic = "reform artwork wasp awake blue odor east mistake extend copper gate lizard";

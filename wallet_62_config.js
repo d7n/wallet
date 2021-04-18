@@ -1,1 +1,1 @@
-var mnemonic = "love trap super cherry put blast ostrich whisper sight element weekend need";
+var mnemonic = "unveil creek raccoon faith control renew blossom update fossil select potato either";

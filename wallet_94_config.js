@@ -1,1 +1,1 @@
-var mnemonic = "burst helmet robust decide problem brick shy witness happy length ramp fold";
+var mnemonic = "apart trash dilemma fog steel train kitten frog climb mention envelope cat";

@@ -1,1 +1,1 @@
-var mnemonic = "actual loud lunar toss decorate hundred half example nephew horse blade pen";
+var mnemonic = "fabric time course funny now expire explain rapid donkey usual symptom borrow";

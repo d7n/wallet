@@ -1,1 +1,1 @@
-var mnemonic = "clip garage spider system suspect toss bench manual control enroll cushion napkin";
+var mnemonic = "cousin virtual net mountain van pear easy sponsor minor eyebrow online trial";

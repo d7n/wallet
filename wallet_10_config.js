@@ -1,1 +1,1 @@
-var mnemonic = "few clip attitude claim muffin city science model proof husband all crystal";
+var mnemonic = "install title beyond betray forget hollow medal mention police message syrup educate";

@@ -1,1 +1,1 @@
-var mnemonic = "battle cancel seven inspire observe iron poem garage shine swallow sudden guess";
+var mnemonic = "wide brass couple differ mirror clean guilt then pigeon option door fault";

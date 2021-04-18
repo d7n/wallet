@@ -1,1 +1,1 @@
-var mnemonic = "above must frozen food stage tank expose father correct address trophy harsh";
+var mnemonic = "rebel river metal slender dirt below better leisure enable rocket seed must";

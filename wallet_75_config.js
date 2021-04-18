@@ -1,1 +1,1 @@
-var mnemonic = "battle good sausage crew scan program purse west anger climb parent smart";
+var mnemonic = "slow verify nut consider grape tide cave fashion glass capital protect weather";

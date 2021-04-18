@@ -1,1 +1,1 @@
-var mnemonic = "pact demise ill winter typical romance false disease fish salt ordinary item";
+var mnemonic = "stage inhale myth knock jar defense carry cycle teach judge object space";

@@ -1,1 +1,1 @@
-var mnemonic = "frame hint aerobic remove real street fetch hat luxury claim animal arch";
+var mnemonic = "eager clinic shoe license approve federal pulp case approve case blood myself";

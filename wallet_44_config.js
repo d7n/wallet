@@ -1,1 +1,1 @@
-var mnemonic = "door salmon lunch blur topic penalty crack amateur organ warm degree trial";
+var mnemonic = "taste human canyon prize crack enemy radar peasant minute venture orphan fall";

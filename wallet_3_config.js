@@ -1,1 +1,1 @@
-var mnemonic = "embrace camp order random barely flash owner pool depend fever throw answer";
+var mnemonic = "section reduce carry smooth neck among burger cotton wasp object bracket measure";

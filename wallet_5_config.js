@@ -1,1 +1,1 @@
-var mnemonic = "ability guitar weather almost crouch garage old naive comic vicious stock midnight";
+var mnemonic = "front never setup drama youth reflect tooth knock beef intact outer pause";

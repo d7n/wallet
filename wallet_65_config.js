@@ -1,1 +1,1 @@
-var mnemonic = "swap ramp canal jelly hard sentence country rural forest aim armed smooth";
+var mnemonic = "engage upon know taxi weather account unhappy hidden erupt feel aisle venture";
