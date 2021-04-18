@@ -1,1 +1,1 @@
-var mnemonic = "divert good kick proud pluck term arctic narrow goddess maze quarter crash";
+var mnemonic = "inhale soccer debate cigar random chest kangaroo short ugly van include coach";

@@ -1,1 +1,1 @@
-var mnemonic = "field wealth slot result soon naive caution faint dismiss wedding adult visit";
+var mnemonic = "grunt muscle wasp lumber border wrestle frequent vendor guitar hockey spice pool";

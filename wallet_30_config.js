@@ -1,1 +1,1 @@
-var mnemonic = "dawn question remind subway magnet glory knock open thought away treat reason";
+var mnemonic = "unable eyebrow settle bleak dismiss mirror pride spider year urban asthma erode";

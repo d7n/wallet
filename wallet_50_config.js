@@ -1,1 +1,1 @@
-var mnemonic = "orchard release shop feature author antenna make bacon lecture multiply paddle unique";
+var mnemonic = "clarify click bronze corn moment balcony orient laugh denial humble clerk bitter";

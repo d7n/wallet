@@ -1,1 +1,1 @@
-var mnemonic = "slot impact company raccoon universe metal divert oblige ridge arctic candy juice";
+var mnemonic = "muffin chase cinnamon salon lottery ostrich fork decrease nurse chalk donor ozone";

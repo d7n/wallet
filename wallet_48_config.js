@@ -1,1 +1,1 @@
-var mnemonic = "gain budget cannon chief chase twenty noise burden rabbit convince biology render";
+var mnemonic = "poem three hand honey recycle excess arrive whip master tourist party trophy";

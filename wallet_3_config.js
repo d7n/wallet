@@ -1,1 +1,1 @@
-var mnemonic = "original course adjust work tobacco immense solar venture repeat cereal tomato dove";
+var mnemonic = "sense avocado become ritual plate cluster erode long man that bicycle festival";

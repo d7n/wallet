@@ -1,1 +1,1 @@
-var mnemonic = "fragile claw drive visual bench heart toast real asset latin goat live";
+var mnemonic = "flat mouse fever firm home sheriff gather carpet tray print soon couch";

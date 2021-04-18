@@ -1,1 +1,1 @@
-var mnemonic = "mosquito glow relief human avoid popular purpose best recycle dawn enlist fly";
+var mnemonic = "morning void crunch frog jealous start put guard scrub client oven orbit";

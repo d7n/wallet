@@ -1,1 +1,1 @@
-var mnemonic = "wish peace soap blue crane green author film hurdle gallery cup island";
+var mnemonic = "meat image spin pair curious decrease put cousin desk exit silver obey";

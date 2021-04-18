@@ -1,1 +1,1 @@
-var mnemonic = "spring nice cup bacon cigar corn wisdom current three leave ugly final";
+var mnemonic = "logic above foil give elephant jump finish island retire purity wool ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "gown rifle state wet boss strike depart maximum peanut spend board arch";
+var mnemonic = "fade ability viable emerge muffin diet chalk pipe stock erode elegant nothing";

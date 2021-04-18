@@ -1,1 +1,1 @@
-var mnemonic = "mass civil laptop finish spare finger property inflict unveil sketch master fiscal";
+var mnemonic = "skate garage decade brass liar whisper fabric blame trial lunch worth admit";

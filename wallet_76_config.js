@@ -1,1 +1,1 @@
-var mnemonic = "hood easy zone kitchen only hazard shock cable keep small bright security";
+var mnemonic = "december hover predict silver sword vocal six phone ketchup zero empower rough";

@@ -1,1 +1,1 @@
-var mnemonic = "habit fresh reveal used silent dinner rail element rhythm off false faith";
+var mnemonic = "story taxi lava yellow original awesome come expand muffin myth hammer atom";

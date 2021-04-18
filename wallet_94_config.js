@@ -1,1 +1,1 @@
-var mnemonic = "voice fantasy emotion armor all approve hidden napkin stomach raw door confirm";
+var mnemonic = "venue train pupil immune toast garbage attitude park awful review bunker jeans";

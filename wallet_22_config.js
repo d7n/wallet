@@ -1,1 +1,1 @@
-var mnemonic = "helmet pole comic flavor swamp embrace lava foot forget riot six swap";
+var mnemonic = "floor dinosaur medal hen carry giraffe muscle ask bubble scare lake worth";

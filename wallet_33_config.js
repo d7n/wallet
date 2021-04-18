@@ -1,1 +1,1 @@
-var mnemonic = "know arrest exchange muscle liquid cruel mimic common alley lottery must gown";
+var mnemonic = "welcome duty mushroom dentist focus law muffin undo fork primary digital circle";

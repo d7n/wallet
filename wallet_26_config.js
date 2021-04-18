@@ -1,1 +1,1 @@
-var mnemonic = "scale slush toy boil soft blind bridge heart file swim prosper wash";
+var mnemonic = "electric vivid leisure advance weather dumb organ chimney scorpion permit pride other";

@@ -1,1 +1,1 @@
-var mnemonic = "tent attend tornado body happy perfect kiwi monitor old puzzle inquiry sunset";
+var mnemonic = "chicken blush earth scatter twin blur congress embark gasp save order arm";

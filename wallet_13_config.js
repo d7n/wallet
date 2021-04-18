@@ -1,1 +1,1 @@
-var mnemonic = "stomach quantum sadness million guide segment utility honey wing hello lift digital";
+var mnemonic = "update capable supreme memory journey tail abstract gospel mail salmon across actor";

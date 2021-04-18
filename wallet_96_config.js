@@ -1,1 +1,1 @@
-var mnemonic = "food they cook rally vehicle oblige picnic cargo baby field coral humor";
+var mnemonic = "gesture viable slight multiply hybrid october royal turtle caution column wrong squeeze";

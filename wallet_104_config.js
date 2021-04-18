@@ -1,1 +1,1 @@
-var mnemonic = "baby around arctic meat toss gentle ball glad describe midnight cluster body";
+var mnemonic = "deliver company bubble occur staff require once exchange baby brain maze answer";

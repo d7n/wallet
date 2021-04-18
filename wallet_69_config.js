@@ -1,1 +1,1 @@
-var mnemonic = "art february left hockey pencil snow ladder capital unveil slow airport bachelor";
+var mnemonic = "panda section figure enemy wage art slab equip figure author ready unfair";

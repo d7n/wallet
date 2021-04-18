@@ -1,1 +1,1 @@
-var mnemonic = "medal perfect sock across ball random tube impact outdoor attend flat youth";
+var mnemonic = "nice pudding grab execute broom video noodle cheese pulse about world crater";

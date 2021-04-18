@@ -1,1 +1,1 @@
-var mnemonic = "vessel tonight stumble near fantasy copy peanut shrug explain lucky cave desert";
+var mnemonic = "midnight ten kid repeat napkin clock spike brass damp guide snake silk";

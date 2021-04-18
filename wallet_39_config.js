@@ -1,1 +1,1 @@
-var mnemonic = "arena divorce gesture drink satisfy large wasp inner police tent sibling lava";
+var mnemonic = "hurdle post summer way number duty another stairs dial never catch nature";

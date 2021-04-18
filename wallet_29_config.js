@@ -1,1 +1,1 @@
-var mnemonic = "situate coach grief monster divide husband dune avocado all stage display symbol";
+var mnemonic = "armed fox feed ill slender advance vibrant soft enforce moment cage vibrant";

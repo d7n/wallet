@@ -1,1 +1,1 @@
-var mnemonic = "lazy excuse resource square vacuum sunset penalty rescue supply key disagree cloud";
+var mnemonic = "penalty syrup lava unfair item early urge shaft mouse cost sadness click";

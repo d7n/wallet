@@ -1,1 +1,1 @@
-var mnemonic = "sustain shiver february hybrid ritual sadness hire slim pepper wood exhaust appear";
+var mnemonic = "matter resist spatial setup like climb solar peanut elevator hole patrol smart";

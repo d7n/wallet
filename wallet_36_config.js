@@ -1,1 +1,1 @@
-var mnemonic = "gown purchase vehicle public stairs infant fine nose fork clarify blue cup";
+var mnemonic = "wheat seek share turkey song vintage recipe wolf matter busy august regular";

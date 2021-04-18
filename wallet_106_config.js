@@ -1,1 +1,1 @@
-var mnemonic = "hockey leader weekend neutral family insane casual trip upon market wasp champion";
+var mnemonic = "inquiry farm genuine globe dynamic track wrong sell design ostrich dirt ecology";

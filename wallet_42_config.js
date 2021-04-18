@@ -1,1 +1,1 @@
-var mnemonic = "sphere increase private twelve odor dutch talk brief inspire rate relax middle";
+var mnemonic = "car hint cabbage fan parade address multiply shrug wolf strategy museum coach";

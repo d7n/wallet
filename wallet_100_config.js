@@ -1,1 +1,1 @@
-var mnemonic = "oval now capital donor timber team other zoo anchor okay again sock";
+var mnemonic = "invest sheriff match history novel bacon cement envelope cement seat brush consider";

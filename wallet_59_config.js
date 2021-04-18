@@ -1,1 +1,1 @@
-var mnemonic = "stuff trip zone empower tree episode pool cargo scrap picture village ginger";
+var mnemonic = "bird theme garlic endorse misery banana misery saddle bar crop replace sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble nose diagram soccer forum ranch reduce fan disorder drill suffer ecology";
+var mnemonic = "fork mad build silk polar robust piece tomorrow retreat demand point dad";

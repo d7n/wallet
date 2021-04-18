@@ -1,1 +1,1 @@
-var mnemonic = "notable equip metal abuse blast veteran horn habit physical return bacon fog";
+var mnemonic = "picnic kiwi garden sword foam repeat excite hundred method apology leaf million";

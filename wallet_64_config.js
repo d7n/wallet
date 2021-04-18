@@ -1,1 +1,1 @@
-var mnemonic = "slogan level clog punch clinic thank seek depart bamboo kitchen surface lift";
+var mnemonic = "thrive boost movie sure grow midnight junk fish thought next mountain wing";

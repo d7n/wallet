@@ -1,1 +1,1 @@
-var mnemonic = "sense biology relax friend struggle correct ignore resist fashion price grid donkey";
+var mnemonic = "half civil maple boat skirt hover cook eager guilt sleep wool lobster";

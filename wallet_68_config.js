@@ -1,1 +1,1 @@
-var mnemonic = "sphere power attitude minute lottery author crane hazard adapt move cost float";
+var mnemonic = "hood net sorry quarter wall feel mule point duty lemon clean convince";

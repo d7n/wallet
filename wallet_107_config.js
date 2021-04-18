@@ -1,1 +1,1 @@
-var mnemonic = "system summer scene medal country possible crush retreat muscle prevent evil usual";
+var mnemonic = "business sample object impulse better frequent indoor gain zebra jaguar borrow culture";

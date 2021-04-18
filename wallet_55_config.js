@@ -1,1 +1,1 @@
-var mnemonic = "seminar aerobic despair agree panic feature copy enter yellow blue pool ramp";
+var mnemonic = "enemy toss pole tiny slow theory hover cross beauty prison patch vast";

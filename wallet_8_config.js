@@ -1,1 +1,1 @@
-var mnemonic = "vast garbage hover hazard stage smart employ various pistol mixed erase stool";
+var mnemonic = "lock era ceiling echo eagle pole chef stone shrimp bind enrich sense";

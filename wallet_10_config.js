@@ -1,1 +1,1 @@
-var mnemonic = "message perfect uncover blush orchard narrow physical habit talent ivory visual behave";
+var mnemonic = "visa lake organ furnace wear oyster unusual shallow celery divide fold journey";

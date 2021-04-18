@@ -1,1 +1,1 @@
-var mnemonic = "limb carpet drink flee mail armed quick same rib you despair patch";
+var mnemonic = "cradle result virus concert despair settle sting dry solid rain post doctor";

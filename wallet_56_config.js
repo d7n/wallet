@@ -1,1 +1,1 @@
-var mnemonic = "there box remind wheel chaos chapter fox drift army exotic trash enhance";
+var mnemonic = "seed must review fun column garlic crumble depart skirt insect skill snake";

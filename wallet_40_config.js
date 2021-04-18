@@ -1,1 +1,1 @@
-var mnemonic = "choice ticket matrix approve galaxy escape issue ranch trash organ odor near";
+var mnemonic = "stem refuse bonus situate silly glass rebel large arrive impose rib remove";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat rib cause soda kiss armor kitchen hair cube west tone foam";
+var mnemonic = "will rug hurdle obey cliff box where hard rather bomb level ankle";

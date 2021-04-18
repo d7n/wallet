@@ -1,1 +1,1 @@
-var mnemonic = "wrap oyster parent speak wagon express able resource heart another comic cloth";
+var mnemonic = "joy disagree picture chief candy fix law surround educate neutral crawl chef";

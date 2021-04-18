@@ -1,1 +1,1 @@
-var mnemonic = "music mouse wreck slight clip seminar gloom tooth sadness roast brother elephant";
+var mnemonic = "vault vehicle urban aisle install poem wisdom auto fluid country main dilemma";

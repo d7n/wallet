@@ -1,1 +1,1 @@
-var mnemonic = "link cheese skin spell habit dial pencil head earn coffee trust lyrics";
+var mnemonic = "retire cousin bounce seminar vast cross tone size amused switch lecture ketchup";

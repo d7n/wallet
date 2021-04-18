@@ -1,1 +1,1 @@
-var mnemonic = "level rocket bid trip task present slab law purity execute mom six";
+var mnemonic = "spawn filter stay happy gospel please clip aspect noble popular clay food";

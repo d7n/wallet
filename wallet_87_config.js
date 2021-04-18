@@ -1,1 +1,1 @@
-var mnemonic = "inquiry luxury theory topic enlist sell unfair bulk town capital original lawn";
+var mnemonic = "box shrimp sphere aerobic orphan medal stage famous raccoon twist skull lecture";

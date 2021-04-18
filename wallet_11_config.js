@@ -1,1 +1,1 @@
-var mnemonic = "type tomato skin spider blouse robust process column opera clock shoe dice";
+var mnemonic = "wreck leaf same version build wheat east sphere calm okay spot option";

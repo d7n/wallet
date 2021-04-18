@@ -1,1 +1,1 @@
-var mnemonic = "transfer business found pull math city frequent excuse tribe issue exist oil";
+var mnemonic = "slide immune grape there shell axis truth have immense strike ghost robust";

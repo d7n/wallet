@@ -1,1 +1,1 @@
-var mnemonic = "tree switch review suggest lab coral until claim gravity engine narrow humble";
+var mnemonic = "best mimic arm walk spy trend foot hurt between bid injury brand";

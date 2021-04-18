@@ -1,1 +1,1 @@
-var mnemonic = "clock arctic neutral detail shop camera planet eager lucky banana around conduct";
+var mnemonic = "modify awesome key space advance elephant nut emerge bubble network order mother";

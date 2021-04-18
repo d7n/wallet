@@ -1,1 +1,1 @@
-var mnemonic = "device federal library surprise toward forum forum crawl fish sell mother riot";
+var mnemonic = "embrace path alien chest season pear suspect forum lawsuit aerobic stumble approve";

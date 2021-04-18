@@ -1,1 +1,1 @@
-var mnemonic = "bulk napkin culture frame forum shallow dawn door rail luxury apart reflect";
+var mnemonic = "toss pool celery toddler age local peasant clerk wisdom build denial gravity";

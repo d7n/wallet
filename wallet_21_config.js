@@ -1,1 +1,1 @@
-var mnemonic = "hammer text tooth spatial force icon tuition wet account flip dish sleep";
+var mnemonic = "sleep bulb song cabin imitate document load away cheap bar dynamic ill";

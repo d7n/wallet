@@ -1,1 +1,1 @@
-var mnemonic = "midnight limb across simple behave sight video come six patch enhance cover";
+var mnemonic = "soccer more dose deliver share brown term bind draft liberty raw crop";

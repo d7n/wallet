@@ -1,1 +1,1 @@
-var mnemonic = "one green elbow other stick soul series foot long board envelope design";
+var mnemonic = "satisfy ecology exist payment hour fiber awkward machine banana sunset public awake";

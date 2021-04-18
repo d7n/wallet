@@ -1,1 +1,1 @@
-var mnemonic = "manage range pitch ability sport wild peanut ocean face home toy rapid";
+var mnemonic = "sauce addict ask rent raw october beef include mother gentle apple have";

@@ -1,1 +1,1 @@
-var mnemonic = "shop salute bring resist clerk menu echo exist keen response myth garment";
+var mnemonic = "help embrace amused sugar coffee like casino major raise gossip today outside";

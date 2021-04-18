@@ -1,1 +1,1 @@
-var mnemonic = "like bamboo side pepper final spend man across alone gift limit pyramid";
+var mnemonic = "tissue employ pudding course pizza quote picture post direct wrist grocery click";

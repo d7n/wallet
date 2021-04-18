@@ -1,1 +1,1 @@
-var mnemonic = "icon drastic female plunge flower sniff cruise clutch jazz frost paper flush";
+var mnemonic = "chapter husband lift antenna mirror pull cement mom predict about raccoon pink";

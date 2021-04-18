@@ -1,1 +1,1 @@
-var mnemonic = "flash clock capital belt square steak kick forum miss offer nasty exist";
+var mnemonic = "coconut empower attitude post exile flag attract goat more kiwi gentle dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "dish disagree moment deer catch violin figure expect humor peace nephew toy";
+var mnemonic = "target shoe grow tip warrior cake top nation address enrich ahead garden";

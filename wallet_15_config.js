@@ -1,1 +1,1 @@
-var mnemonic = "bracket candy police claim stone clip paddle rabbit host maple ladder speed";
+var mnemonic = "another maximum play immune squeeze relax clean defense fat visa bulb wise";

@@ -1,1 +1,1 @@
-var mnemonic = "table dutch confirm kingdom space stay turn warfare radio begin refuse deliver";
+var mnemonic = "coffee disagree type phone bracket pull bitter slush odor attitude before win";

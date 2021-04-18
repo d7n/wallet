@@ -1,1 +1,1 @@
-var mnemonic = "sheriff often face fox click gas stove fold vocal sand dentist permit";
+var mnemonic = "mixture short rule level poet system jar food spoil renew churn thumb";

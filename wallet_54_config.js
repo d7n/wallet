@@ -1,1 +1,1 @@
-var mnemonic = "reject way illegal arm orphan barrel dad mad depart glass pond coil";
+var mnemonic = "border update gas screen december squeeze clerk shell eight wink aisle riot";

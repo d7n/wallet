@@ -1,1 +1,1 @@
-var mnemonic = "wedding there autumn unhappy auto aspect ensure vendor aerobic salon afford tattoo";
+var mnemonic = "write erupt mosquito relax fire provide stock helmet clay rose horse funny";

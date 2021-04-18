@@ -1,1 +1,1 @@
-var mnemonic = "mushroom talent jar wave wrestle jar cycle bicycle sister poet build puppy";
+var mnemonic = "method corn theory axis mutual fetch toy leaf blanket mirror tiger crowd";

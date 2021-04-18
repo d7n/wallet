@@ -1,1 +1,1 @@
-var mnemonic = "boost turkey extra lecture hedgehog dragon order message satisfy vacuum adult pass";
+var mnemonic = "rural picture fish muscle minimum worth beach execute crawl hawk chicken ridge";

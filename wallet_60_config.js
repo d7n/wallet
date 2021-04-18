@@ -1,1 +1,1 @@
-var mnemonic = "tip over session history bring woman poem van steak weapon pony rifle";
+var mnemonic = "cool hurdle lend pyramid design extra review degree wife arena frame ribbon";

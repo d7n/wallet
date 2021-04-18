@@ -1,1 +1,1 @@
-var mnemonic = "merge ride collect predict capable lend ankle explain stumble private sure unknown";
+var mnemonic = "shoot harsh culture depend tail myself lazy crucial club evidence usage beef";

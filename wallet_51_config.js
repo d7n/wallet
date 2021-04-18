@@ -1,1 +1,1 @@
-var mnemonic = "hover text laugh plunge income skin tilt flush minimum segment puppy drip";
+var mnemonic = "mansion elevator join amateur math steel tag arm concert hand glow various";

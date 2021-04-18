@@ -1,1 +1,1 @@
-var mnemonic = "figure load omit destroy under toddler vehicle coffee parrot organ tape menu";
+var mnemonic = "there eager chair true fade witness tape craft december found angle stone";

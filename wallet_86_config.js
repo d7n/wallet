@@ -1,1 +1,1 @@
-var mnemonic = "opinion humble trumpet acoustic magic recall border practice biology actor next mass";
+var mnemonic = "marble drill reduce model machine soccer vault develop describe carry daring female";

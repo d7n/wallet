@@ -1,1 +1,1 @@
-var mnemonic = "badge tongue arctic marriage text harvest genius toast hill muscle gym miss";
+var mnemonic = "verify live leaf street enter economy potato disease bar network office emotion";

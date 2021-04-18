@@ -1,1 +1,1 @@
-var mnemonic = "upper only cream expect boss behave gun song air stable sad success";
+var mnemonic = "useful enemy dumb smooth curious shove scare artefact add oak alpha custom";

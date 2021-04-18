@@ -1,1 +1,1 @@
-var mnemonic = "adjust benefit reduce warrior neutral uniform hawk vast fatigue pitch address canvas";
+var mnemonic = "normal lizard head fame huge width upgrade spike actor motor near oppose";

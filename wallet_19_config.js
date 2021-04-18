@@ -1,1 +1,1 @@
-var mnemonic = "better ridge umbrella endorse match afraid rescue fragile silk bag melody dust";
+var mnemonic = "credit finish cup annual clay match jar claim angle april still pact";

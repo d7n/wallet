@@ -1,1 +1,1 @@
-var mnemonic = "olive receive bone foster reopen term acid minor mother candy deal ask";
+var mnemonic = "crater salmon daughter gospel pizza crucial depend today until impulse sick wild";

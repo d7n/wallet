@@ -1,1 +1,1 @@
-var mnemonic = "wrestle skull scale orient jar adult benefit upper shiver honey hold rib";
+var mnemonic = "other amount slogan laptop tumble energy high embody wise cradle shoe outer";

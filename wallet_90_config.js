@@ -1,1 +1,1 @@
-var mnemonic = "proof assume immense damage fresh fiber nest chest shock drum ecology tumble";
+var mnemonic = "calm unusual scout love depart shoulder youth tornado copy donor play sheriff";

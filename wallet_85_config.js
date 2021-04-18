@@ -1,1 +1,1 @@
-var mnemonic = "offer scare badge buyer stamp hour effort glimpse soda subject slender capital";
+var mnemonic = "cat wreck peanut lecture stay hobby scissors leopard cushion cheap front duty";

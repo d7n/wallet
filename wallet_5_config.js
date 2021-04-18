@@ -1,1 +1,1 @@
-var mnemonic = "wheel coil nature brand sustain rally message blush demand quick plate normal";
+var mnemonic = "style kiss around water differ sure anger flock link nice armed gloom";

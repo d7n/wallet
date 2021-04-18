@@ -1,1 +1,1 @@
-var mnemonic = "reason talent typical hotel purity final join amused melody wealth answer blush";
+var mnemonic = "shadow acid cousin bounce home exchange heart three during short remove false";

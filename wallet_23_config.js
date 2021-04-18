@@ -1,1 +1,1 @@
-var mnemonic = "market stay volume actual congress give embark topic uniform design dose state";
+var mnemonic = "limit laugh run add spare follow pistol diet exist trouble timber leave";
