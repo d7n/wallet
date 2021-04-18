@@ -1,1 +1,1 @@
-var mnemonic = "frame voice faint taxi merit kind caution ostrich diagram wreck buffalo royal";
+var mnemonic = "custom blast cancel push quantum laundry aim report gentle cruel cake hair";

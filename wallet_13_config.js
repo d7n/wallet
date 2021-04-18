@@ -1,1 +1,1 @@
-var mnemonic = "canvas fringe dance insect era shuffle elbow omit fuel satisfy output glance";
+var mnemonic = "flock symptom general setup crouch gloom blast plug soldier fog sample leisure";

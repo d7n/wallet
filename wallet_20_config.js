@@ -1,1 +1,1 @@
-var mnemonic = "crash steak error light riot gather marriage machine chat simple juice winner";
+var mnemonic = "bone wide grow mule knife flat camera moon tackle ordinary van vehicle";

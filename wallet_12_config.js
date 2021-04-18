@@ -1,1 +1,1 @@
-var mnemonic = "habit artefact canoe impulse piece blush ripple city essence gaze cheap start";
+var mnemonic = "dizzy spray embark horn basic track swing aerobic pride minimum dwarf there";

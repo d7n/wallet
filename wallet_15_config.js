@@ -1,1 +1,1 @@
-var mnemonic = "north slab pretty olympic glad long enter cat rebel shield short glass";
+var mnemonic = "pelican stock evolve busy eight turkey vapor license canal swim describe stick";

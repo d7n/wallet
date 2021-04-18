@@ -1,1 +1,1 @@
-var mnemonic = "wolf flock spare odor core picnic own solar wait they core mandate";
+var mnemonic = "chronic infant smile maple fox palm runway grass fame velvet avocado rifle";

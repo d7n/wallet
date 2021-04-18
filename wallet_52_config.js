@@ -1,1 +1,1 @@
-var mnemonic = "wet ivory soldier ski power layer sample lion impact feed pitch remember";
+var mnemonic = "liar melody credit day wall guilt small belt stage curve hockey baby";

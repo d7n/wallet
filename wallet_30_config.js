@@ -1,1 +1,1 @@
-var mnemonic = "wealth spot actor spy beauty giraffe bounce adult copy raccoon style gym";
+var mnemonic = "rail art begin horse labor demand panther never letter boat swarm rich";

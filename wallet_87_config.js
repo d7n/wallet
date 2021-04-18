@@ -1,1 +1,1 @@
-var mnemonic = "fix load visual depend orient goat ritual addict liar scrap crisp stomach";
+var mnemonic = "capital they flight weather gorilla combine reduce carpet bitter draw clay crime";

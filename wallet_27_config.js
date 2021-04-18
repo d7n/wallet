@@ -1,1 +1,1 @@
-var mnemonic = "thumb snack worth drum quit black sand oil tide army offer glow";
+var mnemonic = "baby romance tuna fortune enrich science tongue tunnel swallow asthma grace alcohol";

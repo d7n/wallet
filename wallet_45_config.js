@@ -1,1 +1,1 @@
-var mnemonic = "curve question burger fiction leg fly material warfare brief level rely cheap";
+var mnemonic = "enter female ostrich course nephew edge wide sing speak prevent magnet dice";

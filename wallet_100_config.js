@@ -1,1 +1,1 @@
-var mnemonic = "alert subject chest sick useful common buffalo else fury tortoise keep pretty";
+var mnemonic = "roof captain fix inspire border matrix true lazy hint boat surprise seed";

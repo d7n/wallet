@@ -1,1 +1,1 @@
-var mnemonic = "believe violin glance invite horror brick misery betray swift super social industry";
+var mnemonic = "praise peanut leg squeeze loud shock hair hint solution pig level witness";

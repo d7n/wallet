@@ -1,1 +1,1 @@
-var mnemonic = "jaguar arrest juice sauce little escape muscle ability resemble vintage calm debate";
+var mnemonic = "type later appear curve amount sail broken horse someone receive sunny glow";

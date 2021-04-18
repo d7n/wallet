@@ -1,1 +1,1 @@
-var mnemonic = "gift physical assume unusual lens cool mask visit pluck receive ostrich ski";
+var mnemonic = "sphere aspect engage useless skull radio seat duty dismiss east solve sand";

@@ -1,1 +1,1 @@
-var mnemonic = "roast armor find company label amused dance decide reveal tail volcano brain";
+var mnemonic = "cradle coral infant illness aisle cake galaxy dawn surround addict derive wink";

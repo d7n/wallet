@@ -1,1 +1,1 @@
-var mnemonic = "oil suspect pepper fabric buddy woman cream brother print pass strike bulb";
+var mnemonic = "object crater hover half develop seven drift property gate dance humor blush";

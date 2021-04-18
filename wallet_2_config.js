@@ -1,1 +1,1 @@
-var mnemonic = "gate produce neither check inner ask drastic flip ridge cigar happy stool";
+var mnemonic = "general hunt scissors inner club step jeans clay start mango flight attack";

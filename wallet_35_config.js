@@ -1,1 +1,1 @@
-var mnemonic = "pitch rare mushroom together rely weekend era legend woman funny economy blue";
+var mnemonic = "bless strategy december boost afraid range senior logic giraffe seek mobile produce";

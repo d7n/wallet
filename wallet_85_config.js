@@ -1,1 +1,1 @@
-var mnemonic = "mosquito keen damp side pudding hungry solid salad click corn throw west";
+var mnemonic = "toast gorilla eternal blood guitar path vague wing frame talent audit page";

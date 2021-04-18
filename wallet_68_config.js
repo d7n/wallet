@@ -1,1 +1,1 @@
-var mnemonic = "appear laptop what dove away occur wrestle inherit visual divide diary fire";
+var mnemonic = "galaxy judge cheap leader silent tuna nominee twin dinosaur excite ride combine";

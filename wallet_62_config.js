@@ -1,1 +1,1 @@
-var mnemonic = "plug dynamic genre churn sign hand ahead typical effort abuse enrich damage";
+var mnemonic = "city neutral beyond surge wash series glide have shop excess mass pizza";

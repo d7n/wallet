@@ -1,1 +1,1 @@
-var mnemonic = "science speak basket now surge romance stay side uniform project ignore assist";
+var mnemonic = "immense sheriff idle letter obtain north magic aerobic sword auction skirt surprise";

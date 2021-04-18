@@ -1,1 +1,1 @@
-var mnemonic = "fee deliver open coach void game account tiger auto tent walk purpose";
+var mnemonic = "soul tornado electric borrow shuffle expect snow car climb rose toe depend";

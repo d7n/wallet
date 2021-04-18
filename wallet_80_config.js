@@ -1,1 +1,1 @@
-var mnemonic = "path anxiety pen shoot basket sketch confirm thrive toe field initial robot";
+var mnemonic = "giant main capital pioneer soda age rescue garden maple trip tree trophy";

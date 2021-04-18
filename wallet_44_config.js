@@ -1,1 +1,1 @@
-var mnemonic = "deal dismiss dynamic tiger skirt female sea group icon scare estate trim";
+var mnemonic = "chicken subway amateur ski lawsuit minute gasp pioneer notable cram oyster awkward";

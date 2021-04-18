@@ -1,1 +1,1 @@
-var mnemonic = "barely edit diesel lawsuit protect witness maximum card buddy shrimp skate arrest";
+var mnemonic = "puppy syrup similar airport obscure can fiber treat weekend bitter slide volcano";

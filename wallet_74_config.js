@@ -1,1 +1,1 @@
-var mnemonic = "edit cake silver hard fragile clock ticket chase crouch annual scout cost";
+var mnemonic = "ozone copper tired rescue ring coyote cook renew keep earn luggage pair";

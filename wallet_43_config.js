@@ -1,1 +1,1 @@
-var mnemonic = "nurse cry arrive resource cat convince slim trumpet bone mirror chat donkey";
+var mnemonic = "absent mixture second answer believe antenna quiz dilemma bleak pair during bright";

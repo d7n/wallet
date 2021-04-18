@@ -1,1 +1,1 @@
-var mnemonic = "print sibling moment already clown team praise toddler radar describe omit render";
+var mnemonic = "better water extra beef option change screen friend eight labor answer cancel";

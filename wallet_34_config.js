@@ -1,1 +1,1 @@
-var mnemonic = "crane legend satisfy oblige decrease whale merit correct cycle chat analyst remind";
+var mnemonic = "income find guitar online toddler trigger furnace reward horror wreck mutual order";

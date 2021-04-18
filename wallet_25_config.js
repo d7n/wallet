@@ -1,1 +1,1 @@
-var mnemonic = "end note gym vanish pumpkin result thumb endorse daughter jeans method slogan";
+var mnemonic = "power detect catch fever fiber canoe float race chaos crunch citizen shrug";

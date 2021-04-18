@@ -1,1 +1,1 @@
-var mnemonic = "cargo flock brief because domain speed end addict illness gesture winner history";
+var mnemonic = "ticket open travel obtain stool virtual six post arm below anxiety crane";

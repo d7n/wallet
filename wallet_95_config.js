@@ -1,1 +1,1 @@
-var mnemonic = "crucial athlete phrase keen type kiwi volume width town omit wheat dentist";
+var mnemonic = "goat parrot able mind reward pitch enforce rookie staff discover gym shy";

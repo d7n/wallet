@@ -1,1 +1,1 @@
-var mnemonic = "trigger industry doll symptom inside eight sign theory very split biology helmet";
+var mnemonic = "exclude cherry unveil bullet limb genre can era brand draw screen cement";

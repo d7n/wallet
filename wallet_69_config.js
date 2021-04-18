@@ -1,1 +1,1 @@
-var mnemonic = "scorpion nuclear rose track measure priority urban imitate island idle success discover";
+var mnemonic = "build memory wrong mail egg horror alert insane kick interest real spray";

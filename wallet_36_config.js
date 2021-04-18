@@ -1,1 +1,1 @@
-var mnemonic = "grain certain clip cream movie item promote design battle piece custom solid";
+var mnemonic = "answer ride dilemma message stomach away size puzzle wisdom impact aunt oak";

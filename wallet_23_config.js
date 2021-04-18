@@ -1,1 +1,1 @@
-var mnemonic = "mix into cereal manage lava broccoli only resource muscle satoshi member nature";
+var mnemonic = "voyage sweet wrong ticket merry snap water arena glory fiction insane grit";

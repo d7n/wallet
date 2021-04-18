@@ -1,1 +1,1 @@
-var mnemonic = "cart margin lucky file dilemma sponsor media repeat believe arch avocado require";
+var mnemonic = "make bacon essay flash daughter cycle pair gaze spice stem regret book";

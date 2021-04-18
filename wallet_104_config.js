@@ -1,1 +1,1 @@
-var mnemonic = "print bring clean sick client shoot other absorb scheme craft then please";
+var mnemonic = "donkey alone brain cupboard art remove bless still clump suit south busy";

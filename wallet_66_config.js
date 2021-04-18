@@ -1,1 +1,1 @@
-var mnemonic = "food two accuse pool country slide husband century baby mad market swing";
+var mnemonic = "nominee sport multiply skull cargo drip parent silly witness ignore lumber physical";

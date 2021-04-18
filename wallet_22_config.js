@@ -1,1 +1,1 @@
-var mnemonic = "time need myself april kiwi relax sustain remind shuffle whisper zone aim";
+var mnemonic = "rebel welcome good lesson either way tube borrow need happy broccoli vote";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid patch uphold type glare offer captain betray promote blanket flush fringe";
+var mnemonic = "drift couple lounge orbit garden excess stable adapt slight wine nest winner";

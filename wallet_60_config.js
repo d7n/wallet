@@ -1,1 +1,1 @@
-var mnemonic = "aerobic extend quick couple dice fire flame you door lock profit lend";
+var mnemonic = "road mechanic direct galaxy luggage inmate provide glue chalk turkey report jar";

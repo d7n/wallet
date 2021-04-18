@@ -1,1 +1,1 @@
-var mnemonic = "review grit baby disorder deputy avocado rifle cinnamon rotate swap ensure attitude";
+var mnemonic = "dose shed jaguar tape glory index post person fruit drop hub acoustic";

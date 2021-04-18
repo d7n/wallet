@@ -1,1 +1,1 @@
-var mnemonic = "yard forum unknown sudden organ amount prefer galaxy weird foam accident hood";
+var mnemonic = "arena helmet puppy cruel mad birth minimum sleep evoke trade fortune escape";

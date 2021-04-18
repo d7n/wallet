@@ -1,1 +1,1 @@
-var mnemonic = "between orient various vendor tuition mango start carpet news sad dinosaur monster";
+var mnemonic = "purpose mimic elder bag same comfort enrich surge switch van divorce dizzy";

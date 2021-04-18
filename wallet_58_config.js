@@ -1,1 +1,1 @@
-var mnemonic = "exit slice humor cheap neglect ripple long debris drama frozen explain expose";
+var mnemonic = "pigeon script news unknown sadness depth despair report metal rude legend foster";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy balcony urban luxury club prefer ankle jaguar shield person repeat rocket";
+var mnemonic = "spare hidden equip coral upper tunnel scrub happy pudding offer make lend";

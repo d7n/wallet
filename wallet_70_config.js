@@ -1,1 +1,1 @@
-var mnemonic = "board solution finger illegal industry buddy essence write general kick sting whip";
+var mnemonic = "garage early web drift among silent glow concert spoil engine onion picnic";

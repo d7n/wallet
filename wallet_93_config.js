@@ -1,1 +1,1 @@
-var mnemonic = "dilemma luggage awake learn wave blade alone poet wedding turtle insane crumble";
+var mnemonic = "olympic glide local gain balance inject miracle weird notable toe blossom winter";

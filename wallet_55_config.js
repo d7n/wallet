@@ -1,1 +1,1 @@
-var mnemonic = "purpose worry train slab muffin cancel penalty gadget guitar extra crater jar";
+var mnemonic = "rely connect clinic mesh canal pumpkin sausage curtain safe peanut spin auto";

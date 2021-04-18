@@ -1,1 +1,1 @@
-var mnemonic = "armor wasp call number decrease foster another mention equip shiver rough alarm";
+var mnemonic = "soft lyrics sphere sort enact warm claw under yellow vanish lyrics budget";

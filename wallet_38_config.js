@@ -1,1 +1,1 @@
-var mnemonic = "dream demise notice rural walk depend invite second ill accident limb sock";
+var mnemonic = "pond buddy sibling feed swing round salmon kid merry improve nothing school";

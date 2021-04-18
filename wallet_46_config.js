@@ -1,1 +1,1 @@
-var mnemonic = "trade fatigue risk during first stamp noble practice coffee fire song debris";
+var mnemonic = "theme bunker own tribe century object pole border shaft chat garbage unfold";

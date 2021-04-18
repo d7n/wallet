@@ -1,1 +1,1 @@
-var mnemonic = "slush father fit young work monitor cliff devote solid blast wisdom hedgehog";
+var mnemonic = "miracle unable sweet clog term mention stamp cash jeans seminar fence oyster";

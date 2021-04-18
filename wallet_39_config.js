@@ -1,1 +1,1 @@
-var mnemonic = "bomb sugar riot face recipe stick kangaroo card track pull dawn welcome";
+var mnemonic = "crouch fabric tool best slab frozen proud embody box soup found shallow";

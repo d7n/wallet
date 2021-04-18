@@ -1,1 +1,1 @@
-var mnemonic = "present salt reject minute quarter diagram public option afford brother travel rain";
+var mnemonic = "shoulder goddess ceiling pudding awful explain slot remove step shiver type shoulder";

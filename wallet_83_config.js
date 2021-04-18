@@ -1,1 +1,1 @@
-var mnemonic = "divorce idle track glass clap sudden sign bird snap naive fortune favorite";
+var mnemonic = "egg female honey wash banner pupil suggest vocal word limb session potato";

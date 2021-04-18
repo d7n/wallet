@@ -1,1 +1,1 @@
-var mnemonic = "gaze grab usage loud either luxury sleep island good humble tip limit";
+var mnemonic = "warfare image shiver decide evolve blood oppose spatial dust lesson lobster legend";

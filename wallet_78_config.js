@@ -1,1 +1,1 @@
-var mnemonic = "exist casual witness report cotton more yard soap edge resource balcony weather";
+var mnemonic = "inch shoot exhaust medal pond party south melt horror deal slogan scatter";

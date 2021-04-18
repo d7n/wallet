@@ -1,1 +1,1 @@
-var mnemonic = "gravity fall nest torch vicious long wink frozen hub claw math boil";
+var mnemonic = "please dial harvest add pair gain clap shrimp inherit focus cricket symbol";

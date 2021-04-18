@@ -1,1 +1,1 @@
-var mnemonic = "decade outside elite history warrior copper figure erode obey hour sand shop";
+var mnemonic = "domain buzz project stove panic myth true claim draft butter wolf banana";

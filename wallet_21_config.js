@@ -1,1 +1,1 @@
-var mnemonic = "rally enemy live addict project steel sweet album coconut innocent barrel goat";
+var mnemonic = "destroy shop arena hammer holiday sample predict speed metal ribbon decrease plate";

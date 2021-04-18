@@ -1,1 +1,1 @@
-var mnemonic = "jewel lucky leisure repair goat farm anchor jelly dragon current airport desk";
+var mnemonic = "two elevator will vendor airport cherry midnight diamond metal identify force wide";

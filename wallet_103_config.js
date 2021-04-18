@@ -1,1 +1,1 @@
-var mnemonic = "guess hover eagle inch spot ritual detail slim disorder open fine derive";
+var mnemonic = "feel blouse reward canyon wolf close exit push client scheme example thank";

@@ -1,1 +1,1 @@
-var mnemonic = "normal black exercise charge world left goat belt symbol economy skin tobacco";
+var mnemonic = "error squirrel motor project stage account cash flight emerge impulse bar drive";

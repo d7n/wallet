@@ -1,1 +1,1 @@
-var mnemonic = "cruise promote drastic marble emerge fence bitter early sunset call unable version";
+var mnemonic = "pass group swift ski sail popular comic better child cube mention behave";

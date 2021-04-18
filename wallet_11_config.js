@@ -1,1 +1,1 @@
-var mnemonic = "theme stable now burst coin concert reopen note walk wife black romance";
+var mnemonic = "little bottom club prison debate system resemble boy sword endless oxygen wrestle";

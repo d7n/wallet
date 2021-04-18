@@ -1,1 +1,1 @@
-var mnemonic = "ranch universe autumn away warfare filter sleep truly skin elder scorpion tonight";
+var mnemonic = "core trigger bronze amused side hundred thrive member distance husband laugh aspect";

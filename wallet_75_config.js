@@ -1,1 +1,1 @@
-var mnemonic = "cross rival flower dignity pig boil robot they news royal antique lecture";
+var mnemonic = "ball avocado trap fly state vacant cool garbage escape lock auto field";

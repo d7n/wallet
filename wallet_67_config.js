@@ -1,1 +1,1 @@
-var mnemonic = "faculty hole school strong vehicle parent inspire vivid face vote involve tank";
+var mnemonic = "birth alien immense sunset chat warm tenant black traffic emotion seed repair";

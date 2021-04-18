@@ -1,1 +1,1 @@
-var mnemonic = "dragon typical scrub smile leisure grow arrange rather awful snap canvas visa";
+var mnemonic = "taxi among radio sport guess movie galaxy broken bargain giant demise announce";

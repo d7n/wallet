@@ -1,1 +1,1 @@
-var mnemonic = "pulp hole nurse trim flat hello mixture citizen trade dad gold vacant";
+var mnemonic = "hen stick gate pole memory knife response penalty permit wish okay chunk";

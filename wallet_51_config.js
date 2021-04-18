@@ -1,1 +1,1 @@
-var mnemonic = "inquiry initial afraid analyst actress lens video quote bind need slab tumble";
+var mnemonic = "spell copper armed symptom tide clever gap pony struggle need blouse worth";

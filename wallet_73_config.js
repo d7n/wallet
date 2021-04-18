@@ -1,1 +1,1 @@
-var mnemonic = "debris dose venue inflict timber practice alert ski gold orient unveil track";
+var mnemonic = "talk work envelope cloth comic armor because menu duty replace sweet silk";

@@ -1,1 +1,1 @@
-var mnemonic = "expose sunny fiscal memory thrive film differ expose number alert castle episode";
+var mnemonic = "income world web close uncle conduct history small square fault yellow mule";

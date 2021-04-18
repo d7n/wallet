@@ -1,1 +1,1 @@
-var mnemonic = "concert someone vague quality mosquito unfold method mosquito famous join evolve ranch";
+var mnemonic = "cram audit fever elephant violin hold person rally sadness baby lend message";

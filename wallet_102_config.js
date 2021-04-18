@@ -1,1 +1,1 @@
-var mnemonic = "brisk disease ship absent century summer deputy token eyebrow example faint sail";
+var mnemonic = "lecture you economy dry swarm harvest swear act novel update bundle sleep";

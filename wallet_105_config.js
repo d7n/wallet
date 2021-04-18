@@ -1,1 +1,1 @@
-var mnemonic = "pool couch edit fan horn hawk obey margin load noodle carpet rather";
+var mnemonic = "lunch negative pipe bacon kiss puzzle strike action property okay table burden";

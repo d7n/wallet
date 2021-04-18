@@ -1,1 +1,1 @@
-var mnemonic = "marriage board dwarf memory employ smart wrong gossip drop sadness skill excuse";
+var mnemonic = "subject addict fatigue save service idle universe van magnet arrest donate dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "ill all orange habit bicycle dash exit involve assault nephew napkin scorpion";
+var mnemonic = "gentle ostrich someone top assume slice air control brave canal wear nothing";

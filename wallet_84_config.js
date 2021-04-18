@@ -1,1 +1,1 @@
-var mnemonic = "muffin wing foster element photo enemy degree young dream nice inmate pigeon";
+var mnemonic = "scissors company castle tourist sword example profit action chimney board load coin";

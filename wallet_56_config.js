@@ -1,1 +1,1 @@
-var mnemonic = "ordinary spot dilemma accident lion better artwork mean orient garment original scene";
+var mnemonic = "little faint permit victory broccoli slam tell chunk already festival whale primary";

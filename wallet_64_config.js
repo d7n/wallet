@@ -1,1 +1,1 @@
-var mnemonic = "marine pull connect private friend evolve spatial solution gravity old field cradle";
+var mnemonic = "once palace gun loud survey already regular noise table enforce truly purse";

@@ -1,1 +1,1 @@
-var mnemonic = "stand burden mirror episode code income eye limit prize van major blur";
+var mnemonic = "explain picnic idle parade notice message sadness iron park possible survey elegant";

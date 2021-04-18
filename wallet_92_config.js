@@ -1,1 +1,1 @@
-var mnemonic = "apology poet across execute arm glad season bean insect creek major universe";
+var mnemonic = "cliff odor maple gallery dog spoil demand soul sign yellow calm inspire";

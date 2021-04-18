@@ -1,1 +1,1 @@
-var mnemonic = "early melody crane carry ancient inform plastic face captain attract forest garment";
+var mnemonic = "kiss panther shadow fatal room zone include betray melody ethics order alien";

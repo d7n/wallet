@@ -1,1 +1,1 @@
-var mnemonic = "gather deliver lady tray scheme banner rural shield reveal diet neck cabin";
+var mnemonic = "casual drama galaxy laptop bring float aisle piece dumb idea slam alpha";

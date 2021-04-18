@@ -1,1 +1,1 @@
-var mnemonic = "absurd cause pair choice yard crash produce father auction casual rug nose";
+var mnemonic = "indicate change very ozone offer tone matrix royal tourist erosion kiwi pact";

@@ -1,1 +1,1 @@
-var mnemonic = "road banana cradle quantum column canyon pledge expand smile luxury guess raise";
+var mnemonic = "question cinnamon twice brass potato wood egg typical swamp host marble night";

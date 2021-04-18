@@ -1,1 +1,1 @@
-var mnemonic = "bike add stove uncover document equip aware twin magnet between lunar island";
+var mnemonic = "normal raven door stand school history produce manual crash trash globe dress";
