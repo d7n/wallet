@@ -1,1 +1,1 @@
-var mnemonic = "own just mirror heart build color record enjoy goose better snack debris";
+var mnemonic = "fruit doctor uncover two silent company length walk doll exclude tourist abstract";

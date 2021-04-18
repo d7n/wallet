@@ -1,1 +1,1 @@
-var mnemonic = "discover flavor family corn hill garlic profit exotic worth trust game ugly";
+var mnemonic = "soon dove spin eager roof cheap silk brisk winter balance distance blame";

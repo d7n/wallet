@@ -1,1 +1,1 @@
-var mnemonic = "crew beyond spawn scare fury zebra fruit public dizzy hunt morning trip";
+var mnemonic = "surface own march excess master door dish adapt purity pupil entry gesture";

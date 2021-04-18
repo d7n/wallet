@@ -1,1 +1,1 @@
-var mnemonic = "chronic cloth off task cover bid tooth punch maid feel alter immense";
+var mnemonic = "inmate offer suffer bulk favorite clip permit version excess when word ability";

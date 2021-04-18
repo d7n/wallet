@@ -1,1 +1,1 @@
-var mnemonic = "asthma stuff artwork verify path stuff slide security horn employ exact salt";
+var mnemonic = "tool bronze predict elevator near plunge sell cycle enter frog beef capital";

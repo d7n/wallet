@@ -1,1 +1,1 @@
-var mnemonic = "habit rice heart fringe welcome damp ball detect aim grit resist humor";
+var mnemonic = "cart balance nurse harbor select witness afraid absorb thought hammer strong carry";

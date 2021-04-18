@@ -1,1 +1,1 @@
-var mnemonic = "congress legend bulb skill drive thank gown twin fragile resist kitten code";
+var mnemonic = "region transfer guilt earth noodle yard crop nice job time organ host";

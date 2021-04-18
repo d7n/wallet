@@ -1,1 +1,1 @@
-var mnemonic = "rapid wood inspire index holiday torch fold own dream cage assault tired";
+var mnemonic = "economy relief favorite isolate switch mixture lamp universe pupil furnace sing pigeon";

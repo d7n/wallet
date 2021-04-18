@@ -1,1 +1,1 @@
-var mnemonic = "piano hair chief evoke slim purse recall track april rate original side";
+var mnemonic = "need shed enroll harsh region then flee cool work jelly dismiss wave";

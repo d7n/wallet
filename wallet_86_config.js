@@ -1,1 +1,1 @@
-var mnemonic = "drip forward crowd aunt awake city smoke talk symbol crouch capable axis";
+var mnemonic = "chapter blind honey square tilt sister tenant box donate wire act solar";

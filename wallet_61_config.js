@@ -1,1 +1,1 @@
-var mnemonic = "crowd box dwarf input lens cargo viable test crystal perfect artist history";
+var mnemonic = "bounce water stamp bridge thumb kite license choose defy success basket enable";

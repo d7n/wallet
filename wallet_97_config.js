@@ -1,1 +1,1 @@
-var mnemonic = "army example world debris rural trumpet magnet slice what tired number mad";
+var mnemonic = "panic need enlist toast veteran sheriff cup impulse advance distance because sketch";

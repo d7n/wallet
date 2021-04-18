@@ -1,1 +1,1 @@
-var mnemonic = "eight duck lion normal hungry nuclear push when unknown please pause maze";
+var mnemonic = "atom cherry excess vocal avoid blossom divide engage sorry blue square mom";

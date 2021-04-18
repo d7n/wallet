@@ -1,1 +1,1 @@
-var mnemonic = "render grid left stairs shrug mix burst orchard delay fringe endless liar";
+var mnemonic = "spare bring cinnamon advance wash surprise unfair enable desk forget crucial cost";

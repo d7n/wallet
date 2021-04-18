@@ -1,1 +1,1 @@
-var mnemonic = "youth devote idle frog amateur small garden power galaxy move matter flock";
+var mnemonic = "creek cover spider cupboard gain swim inform measure robot open meat ridge";

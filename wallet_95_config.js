@@ -1,1 +1,1 @@
-var mnemonic = "admit sort where can awesome spoon slim opinion radar speak provide girl";
+var mnemonic = "quality polar owner conduct never height inherit skill wheat rookie lucky trouble";

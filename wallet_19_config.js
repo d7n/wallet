@@ -1,1 +1,1 @@
-var mnemonic = "unfair possible liar cactus evoke law pledge clown stereo shift ozone flat";
+var mnemonic = "kite deputy vapor price gesture chronic hello gossip breeze rule course sad";

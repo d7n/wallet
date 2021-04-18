@@ -1,1 +1,1 @@
-var mnemonic = "develop surround flavor badge pond tomato script convince prevent time range capital";
+var mnemonic = "across exchange mention mountain joke decrease spy promote soap cry economy yellow";

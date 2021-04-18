@@ -1,1 +1,1 @@
-var mnemonic = "thing hidden glare winner employ luxury chalk crowd pepper nose neglect gap";
+var mnemonic = "window column detail proof drop suit system next chimney vanish captain youth";

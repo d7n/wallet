@@ -1,1 +1,1 @@
-var mnemonic = "balance zero acoustic join acoustic excess city magic green toddler giant lamp";
+var mnemonic = "soldier match always tip pride half couch move envelope cricket unlock wish";

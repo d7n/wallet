@@ -1,1 +1,1 @@
-var mnemonic = "lemon olympic wagon little carpet ridge injury bridge limit vapor tent team";
+var mnemonic = "excess leg rib enforce square normal toast clip old foil panther ketchup";

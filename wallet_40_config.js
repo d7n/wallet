@@ -1,1 +1,1 @@
-var mnemonic = "ostrich okay shine forum crater cream find adult diagram tired rare host";
+var mnemonic = "wrist change trigger fabric basic film mom sweet surge give sand mad";

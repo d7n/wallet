@@ -1,1 +1,1 @@
-var mnemonic = "window apart minute anxiety member cliff subject hen visit alley cotton search";
+var mnemonic = "diamond bike lecture tail spring bench cruise often caught moon wolf system";

@@ -1,1 +1,1 @@
-var mnemonic = "match fit satisfy myth scene code afraid craft receive guitar explain toilet";
+var mnemonic = "thank scorpion employ wrap antenna today random adult speak useful salute female";

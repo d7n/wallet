@@ -1,1 +1,1 @@
-var mnemonic = "hip strike rich repair banana chest begin sound casino gasp bridge beef";
+var mnemonic = "capital ball kitten toe harbor swallow spawn tone congress say frame this";

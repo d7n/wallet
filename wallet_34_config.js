@@ -1,1 +1,1 @@
-var mnemonic = "swallow tribe trend quick cake rib expire segment bitter dentist kid tape";
+var mnemonic = "index square wave zoo fringe dignity sense myth alarm arrange window furnace";

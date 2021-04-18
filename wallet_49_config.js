@@ -1,1 +1,1 @@
-var mnemonic = "coffee orient dirt lock tornado sword idle goose nominee often enforce faith";
+var mnemonic = "rail taste easy opinion whip gentle isolate flash weird beauty general require";

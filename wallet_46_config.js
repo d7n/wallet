@@ -1,1 +1,1 @@
-var mnemonic = "kind rural answer boil tell series century area chase young pupil urge";
+var mnemonic = "eternal protect digital theory survey pet blind pencil express deliver season slim";

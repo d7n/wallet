@@ -1,1 +1,1 @@
-var mnemonic = "bargain around define guard health inside crystal custom flock sugar hurry random";
+var mnemonic = "blast manage dumb omit gadget shop accident detail holiday soccer clay prevent";

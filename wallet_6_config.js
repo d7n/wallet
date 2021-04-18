@@ -1,1 +1,1 @@
-var mnemonic = "fox bracket goat laugh shallow feature dust kangaroo awful hip hip middle";
+var mnemonic = "crane relief few found health cross flash razor enemy elder tuition chef";

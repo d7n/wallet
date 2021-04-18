@@ -1,1 +1,1 @@
-var mnemonic = "flush base claw head medal rich cargo dice sort heart faint truth";
+var mnemonic = "club derive drip garment choose life know uniform hero mom uniform eyebrow";

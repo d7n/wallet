@@ -1,1 +1,1 @@
-var mnemonic = "assault mystery bean pull exist lizard trend bright jar coil wrap assume";
+var mnemonic = "dinosaur angle ball bone total pear pupil space skill finish crater sort";

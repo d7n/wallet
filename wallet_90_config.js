@@ -1,1 +1,1 @@
-var mnemonic = "run tent notice current enough slide crystal view crane corn insect absurd";
+var mnemonic = "mix neither burst include alarm expose pencil table arrow minimum hamster maid";

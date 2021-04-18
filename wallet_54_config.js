@@ -1,1 +1,1 @@
-var mnemonic = "stadium baby clap chef oppose manual viable club spirit museum answer type";
+var mnemonic = "warfare chair cloth photo extend great below sorry census before feel clown";

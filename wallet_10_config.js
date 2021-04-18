@@ -1,1 +1,1 @@
-var mnemonic = "border flame hospital kidney pigeon call soap comic trick grow arch dust";
+var mnemonic = "original harvest current rice amount rate window match give country change matter";

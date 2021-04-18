@@ -1,1 +1,1 @@
-var mnemonic = "shadow tiny arctic february palace prepare shiver pelican admit soap bunker month";
+var mnemonic = "salon dolphin arch priority reason icon sauce child vehicle wood person tragic";

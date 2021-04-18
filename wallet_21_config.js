@@ -1,1 +1,1 @@
-var mnemonic = "goddess spread merit mansion morning cargo cement announce problem erupt spy give";
+var mnemonic = "auto grunt youth defy normal damage awkward whale steak van arrange keep";

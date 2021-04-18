@@ -1,1 +1,1 @@
-var mnemonic = "unique share chapter twin monster apart near beauty drum casino claw mention";
+var mnemonic = "basic during trumpet clerk enjoy achieve sample screen scatter brand party walk";

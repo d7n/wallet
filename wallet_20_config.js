@@ -1,1 +1,1 @@
-var mnemonic = "glue orient future monitor range reject fetch slam liquid rabbit text dirt";
+var mnemonic = "behave sauce foot rare affair pear barrel april faith swallow interest scrap";

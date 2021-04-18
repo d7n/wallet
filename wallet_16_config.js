@@ -1,1 +1,1 @@
-var mnemonic = "stable twice belt quantum box annual easily undo fire setup much clay";
+var mnemonic = "frequent life lion initial salmon vote naive catalog jeans nasty swap mountain";

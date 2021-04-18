@@ -1,1 +1,1 @@
-var mnemonic = "unaware enter crunch rotate improve demise chalk olive cancel clip desert use";
+var mnemonic = "disagree toss evil glare pear rain firm sun swift ginger display unfair";

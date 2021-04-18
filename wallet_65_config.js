@@ -1,1 +1,1 @@
-var mnemonic = "trial whip hedgehog travel target chat excite feed random position ring margin";
+var mnemonic = "aerobic duck brush tribe marble mule wide ginger fat output case devote";

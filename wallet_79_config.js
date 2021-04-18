@@ -1,1 +1,1 @@
-var mnemonic = "bench assume race trap spring bunker omit charge river pig ghost tower";
+var mnemonic = "surprise dinner donkey fox bundle call blind drink spirit kidney connect lab";

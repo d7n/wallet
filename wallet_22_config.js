@@ -1,1 +1,1 @@
-var mnemonic = "unfair kitten dance home liquid rely abandon insane legend client scan access";
+var mnemonic = "alcohol must legal piece cherry champion trap ball meat lunar surround innocent";

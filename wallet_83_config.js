@@ -1,1 +1,1 @@
-var mnemonic = "extend crystal vast pilot recall fringe stadium claim mixed orbit veteran spirit";
+var mnemonic = "puppy blame woman track cram speed radio pumpkin pumpkin observe love parade";

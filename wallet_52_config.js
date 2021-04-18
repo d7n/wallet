@@ -1,1 +1,1 @@
-var mnemonic = "diary cause cargo silent weekend luggage notable slush auto require cave wood";
+var mnemonic = "detect wrist athlete volume gasp sausage biology market burger garbage system impose";

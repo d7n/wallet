@@ -1,1 +1,1 @@
-var mnemonic = "curious patient simple cook gentle toward indoor spare bounce shed old stage";
+var mnemonic = "modify whisper diagram margin oblige title canyon staff pioneer fossil confirm rule";

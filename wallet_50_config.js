@@ -1,1 +1,1 @@
-var mnemonic = "bus buffalo curtain ten reflect van fence peanut heavy erode grain leg";
+var mnemonic = "amateur ridge pause sting eager lava suspect cluster security wood child mule";

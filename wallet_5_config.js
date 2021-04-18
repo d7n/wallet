@@ -1,1 +1,1 @@
-var mnemonic = "movie loyal aisle hungry elbow bracket tobacco lottery merge client immense ensure";
+var mnemonic = "pig engage camera clay champion grain weather snack retire old image artefact";

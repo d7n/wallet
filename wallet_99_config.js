@@ -1,1 +1,1 @@
-var mnemonic = "style noise slab scissors hero unusual offer seek cluster tackle alpha slab";
+var mnemonic = "lizard enough dove sound annual perfect cherry inherit pepper actual million kick";

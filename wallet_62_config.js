@@ -1,1 +1,1 @@
-var mnemonic = "penalty casino april science material arrive twelve nominee citizen thank flame people";
+var mnemonic = "empower milk oven annual uncle over cash identify normal violin narrow witness";

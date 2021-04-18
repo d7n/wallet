@@ -1,1 +1,1 @@
-var mnemonic = "slush jeans myth capable coral disease wood borrow venture display gown analyst";
+var mnemonic = "clutch scissors plunge level stand satoshi empty physical essay design retire adjust";

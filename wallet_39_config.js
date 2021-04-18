@@ -1,1 +1,1 @@
-var mnemonic = "album alone protect know ten math excite virtual humble major sorry agent";
+var mnemonic = "net snap rough vivid develop weasel border saddle expose yellow lizard captain";

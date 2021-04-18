@@ -1,1 +1,1 @@
-var mnemonic = "time swarm hope skill grid high grit scissors arm funny payment pass";
+var mnemonic = "merry play swift banner execute foam live tumble alert spike badge response";

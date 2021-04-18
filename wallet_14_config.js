@@ -1,1 +1,1 @@
-var mnemonic = "sight jelly major rose people kiwi sudden mobile cradle keep devote goose";
+var mnemonic = "typical spoil meadow tiger grass chair usage much garden donor baby debate";

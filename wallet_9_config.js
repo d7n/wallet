@@ -1,1 +1,1 @@
-var mnemonic = "cross sugar shift ice film until chunk coin achieve relief square jar";
+var mnemonic = "office devote woman skin island romance write office anchor tank spread window";

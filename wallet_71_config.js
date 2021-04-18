@@ -1,1 +1,1 @@
-var mnemonic = "guess cement peasant swamp common riot ecology lawsuit portion giraffe fancy typical";
+var mnemonic = "diary fly grit reopen way wire toddler awkward myself guard parade deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "moral doctor decline element empty idea fiber random version layer sentence deny";
+var mnemonic = "depend harvest snow quality fee riot novel desert unable seven wing around";

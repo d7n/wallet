@@ -1,1 +1,1 @@
-var mnemonic = "shrug asset avoid satoshi then cattle fossil abuse engage tuition year illness";
+var mnemonic = "mountain cherry embark sign hobby moon check sausage border become castle vehicle";

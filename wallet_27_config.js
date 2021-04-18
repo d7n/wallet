@@ -1,1 +1,1 @@
-var mnemonic = "undo welcome fine zone betray dream honey surface energy fence valid cactus";
+var mnemonic = "flame crunch smoke frog enforce stamp green tornado host extra skirt enhance";

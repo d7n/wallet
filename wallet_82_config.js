@@ -1,1 +1,1 @@
-var mnemonic = "chest fashion make acoustic auction marriage helmet million orphan task shield detect";
+var mnemonic = "forward wrong february speak endorse rhythm model enough remove energy video lemon";

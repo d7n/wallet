@@ -1,1 +1,1 @@
-var mnemonic = "transfer horn olive diamond choice layer legend hip echo firm alley climb";
+var mnemonic = "visit sock ball style pudding fabric muscle struggle fame fresh govern supply";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle release blame admit discover choice warm custom youth cigar maze extra";
+var mnemonic = "fruit civil dad exotic spider neither upper country bundle autumn hover glue";

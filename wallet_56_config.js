@@ -1,1 +1,1 @@
-var mnemonic = "exile tower garden abandon jeans hire tilt grow faculty bring seek label";
+var mnemonic = "essay horror equal trouble kiwi gold cabbage planet jealous spatial hazard milk";

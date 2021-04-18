@@ -1,1 +1,1 @@
-var mnemonic = "easily animal gasp skull siren pupil enemy trophy lucky above update napkin";
+var mnemonic = "release mass paddle shock call unfair october adjust give lemon receive antenna";

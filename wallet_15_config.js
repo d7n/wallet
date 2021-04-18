@@ -1,1 +1,1 @@
-var mnemonic = "retire invite small aspect dragon scene office armed city rhythm occur quarter";
+var mnemonic = "day obtain one silk crater swear empower need all maple rug high";

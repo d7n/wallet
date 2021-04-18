@@ -1,1 +1,1 @@
-var mnemonic = "hole oak hello prosper soon seek crush capital obtain dish use property";
+var mnemonic = "total visual use devote evidence skill exotic drastic what real ability agree";

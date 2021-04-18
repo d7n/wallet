@@ -1,1 +1,1 @@
-var mnemonic = "fiscal sail picnic story fan lunar key drink symbol elder lake dragon";
+var mnemonic = "basket vehicle monster kitten message share option latin general save fame best";

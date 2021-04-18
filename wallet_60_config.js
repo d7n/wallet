@@ -1,1 +1,1 @@
-var mnemonic = "situate truck conduct express evil label cook keen key ramp draft goose";
+var mnemonic = "lazy celery help icon symptom citizen home amateur walk wolf review wink";

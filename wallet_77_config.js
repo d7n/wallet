@@ -1,1 +1,1 @@
-var mnemonic = "number claw clap slide ignore weather wage venue inflict cause swift absorb";
+var mnemonic = "valid blossom meat bless inquiry bounce rival property blade bomb you nurse";

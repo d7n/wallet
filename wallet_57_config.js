@@ -1,1 +1,1 @@
-var mnemonic = "imitate deliver whip illness base badge because balance worry chicken craft spawn";
+var mnemonic = "sadness item rent lecture toddler derive master owner tent noise worth company";

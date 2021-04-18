@@ -1,1 +1,1 @@
-var mnemonic = "useless rocket warfare citizen remind auto monkey slight dish comfort situate below";
+var mnemonic = "fire erode cigar adjust draw remember prepare element improve island citizen unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "other daring novel park unlock cheap ring mail modify cherry erosion again";
+var mnemonic = "margin relax shoot blush rib feed evidence east baby lend debate plug";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete tired option primary gallery game join scorpion blue wonder people smile";
+var mnemonic = "choose injury illegal breeze area grass embrace excuse announce muffin gasp street";

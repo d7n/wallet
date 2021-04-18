@@ -1,1 +1,1 @@
-var mnemonic = "arm rally morning robot grab curve alcohol domain eternal farm drive simple";
+var mnemonic = "gentle camera dinner parade exact destroy filter near burst frown device yellow";

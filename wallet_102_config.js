@@ -1,1 +1,1 @@
-var mnemonic = "urban then frequent fashion captain taxi convince actor ticket fun pink brown";
+var mnemonic = "dinner raven drastic seven control kit depend mention credit barrel wedding hungry";

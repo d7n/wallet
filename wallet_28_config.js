@@ -1,1 +1,1 @@
-var mnemonic = "expect train pluck jeans coconut remain type cement upper vehicle piano orient";
+var mnemonic = "journey dirt shove wait glimpse item convince raw calm useless gift boy";

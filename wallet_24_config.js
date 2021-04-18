@@ -1,1 +1,1 @@
-var mnemonic = "junk number whale search almost apology reject song message universe laundry north";
+var mnemonic = "target math alone burst guess slam quote arrow guide cook debate toddler";

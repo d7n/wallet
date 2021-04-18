@@ -1,1 +1,1 @@
-var mnemonic = "field identify rough limb beach planet there use state define soda uphold";
+var mnemonic = "apple stereo reward october leave finish taste critic travel manage gap amazing";

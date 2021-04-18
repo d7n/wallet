@@ -1,1 +1,1 @@
-var mnemonic = "response sun win glue exhaust alcohol infant ability impact bounce decide tape";
+var mnemonic = "square must paper surge immense useful wise salt fly festival gun first";

@@ -1,1 +1,1 @@
-var mnemonic = "problem minor cube multiply erosion width gloom section process rail uncle involve";
+var mnemonic = "scheme maple mutual alien broken cry shoulder steel sense aim cream lady";

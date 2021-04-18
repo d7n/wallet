@@ -1,1 +1,1 @@
-var mnemonic = "act visit coach collect flush auction carpet valley bicycle change radar gather";
+var mnemonic = "host dilemma fever cave frost doctor dutch climb involve term magic describe";

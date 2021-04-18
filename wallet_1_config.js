@@ -1,1 +1,1 @@
-var mnemonic = "current reopen churn clutch wolf decade noise whisper curtain marriage arrow fun";
+var mnemonic = "one dirt area desert giant have despair rug picture say remember cargo";

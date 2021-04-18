@@ -1,1 +1,1 @@
-var mnemonic = "number talk armed cause kind manage discover wrong provide name light index";
+var mnemonic = "arrest repeat sketch crazy menu rubber come fork must during wage render";

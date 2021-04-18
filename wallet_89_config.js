@@ -1,1 +1,1 @@
-var mnemonic = "fiber fancy polar bone sword view occur fun doctor dose endorse leader";
+var mnemonic = "arch bottom slab assist female pudding accuse cruise chat wood destroy gym";

@@ -1,1 +1,1 @@
-var mnemonic = "razor child scale adult cement panda express erupt dress sea object bus";
+var mnemonic = "fiction seed tired mule bid inherit armor paddle dish switch diagram outdoor";

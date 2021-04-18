@@ -1,1 +1,1 @@
-var mnemonic = "street wonder nation dilemma cactus romance force trouble mango nut access song";
+var mnemonic = "wolf demise shift culture wheat twist effort human runway educate maze artist";
