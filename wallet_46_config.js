@@ -1,1 +1,1 @@
-var mnemonic = "food hotel side neutral inform guilt soup manual key trap soldier connect";
+var mnemonic = "museum weapon purse guilt top thing delay wheat usage place rare humor";

@@ -1,1 +1,1 @@
-var mnemonic = "fan giggle snack assault again skate today detail roast burden skate drama";
+var mnemonic = "boy muscle glide tired power trim river shine lamp height click genre";

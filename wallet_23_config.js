@@ -1,1 +1,1 @@
-var mnemonic = "hobby replace borrow economy struggle obey fat pulse salon tooth ghost client";
+var mnemonic = "maze obey regular stumble supply tag market senior lazy exhibit horse soap";

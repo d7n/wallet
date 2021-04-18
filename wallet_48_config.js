@@ -1,1 +1,1 @@
-var mnemonic = "enter trigger alcohol dolphin century mansion trophy settle spirit oxygen gauge slight";
+var mnemonic = "cake auction believe potato paddle pistol fresh country furnace fan hard edge";

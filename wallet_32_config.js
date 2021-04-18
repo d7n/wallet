@@ -1,1 +1,1 @@
-var mnemonic = "usual okay ordinary pony vocal game pipe stuff estate solution lunch shield";
+var mnemonic = "broccoli road first pair science tennis rice coil grant release spirit code";

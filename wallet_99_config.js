@@ -1,1 +1,1 @@
-var mnemonic = "cube cycle supreme amount nice educate romance want option issue post eternal";
+var mnemonic = "ride margin scale cement sausage figure wink wing action toward eye next";

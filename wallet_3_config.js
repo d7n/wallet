@@ -1,1 +1,1 @@
-var mnemonic = "order copper lake tip common electric envelope element solar spoil offer relief";
+var mnemonic = "tube idea laptop bracket whisper model donate blur daughter cushion lumber torch";

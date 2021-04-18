@@ -1,1 +1,1 @@
-var mnemonic = "toe chat model diamond cliff crisp wear safe cross lens tourist rather";
+var mnemonic = "reveal crowd cotton flip else trend salon affair suggest mind clay before";

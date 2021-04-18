@@ -1,1 +1,1 @@
-var mnemonic = "rebel table asset worry mansion utility panda wire square retreat south laugh";
+var mnemonic = "narrow champion citizen waste march orphan use add tunnel left witness hamster";

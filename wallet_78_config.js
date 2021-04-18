@@ -1,1 +1,1 @@
-var mnemonic = "globe furnace ship audit alien glue federal arrange admit world turtle fever";
+var mnemonic = "media phrase slim pelican van glad suit cabin choice liar decide coffee";

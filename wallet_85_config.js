@@ -1,1 +1,1 @@
-var mnemonic = "salt obtain awkward original address choice dignity reduce bicycle oyster morning window";
+var mnemonic = "fault light employ suit fat secret cannon traffic royal accuse soda vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "swim office upgrade dutch clap pluck birth teach crazy accuse fancy torch";
+var mnemonic = "trumpet glad false shove diagram inside eye emerge hammer artwork portion burst";

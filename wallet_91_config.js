@@ -1,1 +1,1 @@
-var mnemonic = "rose brand miracle drink similar coffee royal kitten dream firm winter oblige";
+var mnemonic = "half mercy claim snack rural amused blouse slim blind repair genuine govern";

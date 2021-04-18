@@ -1,1 +1,1 @@
-var mnemonic = "crew beach parade reunion silent donkey hamster wire degree symbol sniff blue";
+var mnemonic = "detail bitter because avoid finish clutch hazard orient mouse hunt stereo sword";

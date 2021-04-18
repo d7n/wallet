@@ -1,1 +1,1 @@
-var mnemonic = "hotel wine vague elite mimic service vital feature alter derive else bachelor";
+var mnemonic = "piece owner chair over dutch drink guilt kind audit myth clown shy";

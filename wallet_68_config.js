@@ -1,1 +1,1 @@
-var mnemonic = "junk hungry nephew select heavy beauty maximum fog pact phrase sick decrease";
+var mnemonic = "manage artefact boy foot eagle expire easily snap divorce gentle muscle drive";

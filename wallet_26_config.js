@@ -1,1 +1,1 @@
-var mnemonic = "high priority power powder scout recycle film afford pistol arrow member cushion";
+var mnemonic = "learn deal practice genius body switch next nose tomato office teach spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "cook gravity citizen hawk enact basic shy feel lobster coconut ribbon satoshi";
+var mnemonic = "fringe once drill gospel normal fitness panic stamp broom furnace suggest repeat";

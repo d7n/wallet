@@ -1,1 +1,1 @@
-var mnemonic = "oval margin reopen multiply cabbage broom drastic pet range sadness wrist various";
+var mnemonic = "demand loyal hint scene eyebrow pledge marble oval punch budget library lift";

@@ -1,1 +1,1 @@
-var mnemonic = "enable goddess frozen wear avoid point aspect category slice twin final extend";
+var mnemonic = "inquiry feature hill open castle decorate staff repair usual lift stand eternal";

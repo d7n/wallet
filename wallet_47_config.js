@@ -1,1 +1,1 @@
-var mnemonic = "thought spatial script shallow imitate awesome empty mom trial keep truly wool";
+var mnemonic = "pig steel allow ugly useless easy rent throw begin raw plastic match";

@@ -1,1 +1,1 @@
-var mnemonic = "stick harbor indicate over secret finger comic spirit virtual point bread avoid";
+var mnemonic = "injury rule rubber good quantum merge tell despair suggest supreme trap stairs";

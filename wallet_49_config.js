@@ -1,1 +1,1 @@
-var mnemonic = "expand achieve wing pledge endorse business near denial plunge clap bright ripple";
+var mnemonic = "waste inch flight other grunt oxygen jar beef write slight tunnel claw";

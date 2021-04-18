@@ -1,1 +1,1 @@
-var mnemonic = "mouse remember father notable sleep february learn upper shoot monitor unhappy milk";
+var mnemonic = "cloth scrub brass amazing income loud barely young adapt border tortoise rug";

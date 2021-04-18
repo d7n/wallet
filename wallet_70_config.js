@@ -1,1 +1,1 @@
-var mnemonic = "illness age brown spirit test tag core current analyst foster kit upgrade";
+var mnemonic = "swarm exit tag tourist purity winner foot famous comfort hour paper retire";

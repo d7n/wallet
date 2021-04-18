@@ -1,1 +1,1 @@
-var mnemonic = "total express fiber ecology label frozen spread shoot lift sport install consider";
+var mnemonic = "upon finish arch must awkward pond leave issue retreat devote clerk door";

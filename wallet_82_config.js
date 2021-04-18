@@ -1,1 +1,1 @@
-var mnemonic = "crucial vehicle indicate dish pet iron moral ten list try joke calm";
+var mnemonic = "punch exclude jaguar scare person cargo fantasy mechanic destroy romance slogan siren";

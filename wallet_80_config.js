@@ -1,1 +1,1 @@
-var mnemonic = "patient spider dentist skate donate hope mirror other during chat cotton ripple";
+var mnemonic = "choice visa wash drum liquid palace flight skill liberty gas seven forum";

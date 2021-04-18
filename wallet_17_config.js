@@ -1,1 +1,1 @@
-var mnemonic = "winter because owner target tomorrow mixture give upon melody organ insane pride";
+var mnemonic = "term pepper snack bid object inherit else roast asset robust choice method";

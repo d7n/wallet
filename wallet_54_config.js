@@ -1,1 +1,1 @@
-var mnemonic = "arrive tent magic pencil assault dinner picnic else world rhythm palm pig";
+var mnemonic = "blast giggle agent absurd file basic describe veteran life avocado home attack";

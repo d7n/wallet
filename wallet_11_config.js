@@ -1,1 +1,1 @@
-var mnemonic = "clap mesh brown usage dose bread book admit snack blue kangaroo balance";
+var mnemonic = "evoke arrow jazz fringe image smoke into cousin property boil escape improve";

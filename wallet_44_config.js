@@ -1,1 +1,1 @@
-var mnemonic = "enrich shine draft napkin oven chronic assume kitchen sibling hero original slice";
+var mnemonic = "raven fossil car bundle glove emotion coconut library write guess rabbit giant";

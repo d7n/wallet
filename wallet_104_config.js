@@ -1,1 +1,1 @@
-var mnemonic = "turn purpose oyster slot coconut blade shove survey harvest attract series advice";
+var mnemonic = "pull uphold fox used tragic affair sister card salad world joy donkey";

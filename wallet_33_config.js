@@ -1,1 +1,1 @@
-var mnemonic = "behave exotic glow buddy disorder where bitter angle slim raven bag bridge";
+var mnemonic = "inhale fold ridge nation family tobacco anxiety close canvas grace card mom";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker shell swift boring unhappy violin easily galaxy pyramid borrow doctor usage";
+var mnemonic = "oven vote engine tone pelican tenant index shrimp kid arrest slot average";

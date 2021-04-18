@@ -1,1 +1,1 @@
-var mnemonic = "notable family calm arrive spin very cupboard kite recall speed notable two";
+var mnemonic = "glue answer wedding marriage short ahead siren apart twist vote situate pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "number ankle farm want stomach rookie omit almost visit excess jungle void";
+var mnemonic = "foil february satisfy ride finger enhance alert slam magic differ venture track";

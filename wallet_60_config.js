@@ -1,1 +1,1 @@
-var mnemonic = "tiger rebel couch friend project street ethics ancient fault gasp tourist mosquito";
+var mnemonic = "punch install syrup captain tackle mesh doll city solid pen pilot hint";

@@ -1,1 +1,1 @@
-var mnemonic = "rent famous foam leave modify eager velvet pluck absorb mango hybrid enemy";
+var mnemonic = "robust diamond marble attract aware heart debris picture nut page satoshi hard";

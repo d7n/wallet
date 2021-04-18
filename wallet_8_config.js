@@ -1,1 +1,1 @@
-var mnemonic = "depart snake album lava kid work salad polar purpose middle damage vehicle";
+var mnemonic = "weapon chicken silver habit pottery reason climb candy remove neck dream artist";

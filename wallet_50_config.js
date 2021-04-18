@@ -1,1 +1,1 @@
-var mnemonic = "sweet couple express dial slice adapt simple silly drive yellow muscle poverty";
+var mnemonic = "giggle border idea claw pet list length trigger kid joy unlock saddle";

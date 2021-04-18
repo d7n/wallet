@@ -1,1 +1,1 @@
-var mnemonic = "chef easy melody battle toy length tomato reduce bless faculty blame bomb";
+var mnemonic = "wage motor extra attend try evidence car opinion spare interest resist occur";

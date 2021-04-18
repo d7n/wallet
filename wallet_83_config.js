@@ -1,1 +1,1 @@
-var mnemonic = "border diamond pass horror cricket boil upper giant improve current coffee cherry";
+var mnemonic = "library illegal grace consider notice record another effort base joke shine easily";

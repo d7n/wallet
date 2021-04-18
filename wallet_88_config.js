@@ -1,1 +1,1 @@
-var mnemonic = "dog physical hello memory valley absurd gain kiss hockey topic april crane";
+var mnemonic = "main evoke motion horror hobby ramp quiz insect concert hold token tube";

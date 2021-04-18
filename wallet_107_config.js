@@ -1,1 +1,1 @@
-var mnemonic = "gospel census sound palm bright flat effort belt copper emotion spin work";
+var mnemonic = "cake aspect grit universe amazing boring borrow know never minute denial height";

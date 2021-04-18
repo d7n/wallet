@@ -1,1 +1,1 @@
-var mnemonic = "year fire turn curtain prosper planet elegant noble wagon help resemble where";
+var mnemonic = "toddler unfold age kingdom focus print camp clock strong robot refuse immune";

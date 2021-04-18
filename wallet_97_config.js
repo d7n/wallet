@@ -1,1 +1,1 @@
-var mnemonic = "bench pink area float wash quick swamp fun wall deposit agent vessel";
+var mnemonic = "job uncover plunge say search gas produce post various increase twenty story";

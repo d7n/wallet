@@ -1,1 +1,1 @@
-var mnemonic = "stomach quantum feature tone visual reunion pride speak lava sound ocean brain";
+var mnemonic = "symptom swim subway taxi chicken fruit axis task fetch exhaust differ emerge";

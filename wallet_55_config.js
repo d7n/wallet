@@ -1,1 +1,1 @@
-var mnemonic = "tip level exotic cluster fan excess obvious idea notice infant cube vibrant";
+var mnemonic = "volcano illness bamboo dinner security pink steak require spend during flat carry";

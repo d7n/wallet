@@ -1,1 +1,1 @@
-var mnemonic = "wool want produce basket hole cruise borrow guard actor hill guide actress";
+var mnemonic = "exotic client boss tissue inform comfort vocal noise fun denial brush dove";

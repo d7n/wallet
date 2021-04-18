@@ -1,1 +1,1 @@
-var mnemonic = "icon section bag virus where trouble setup winter hint window nature hub";
+var mnemonic = "fiber violin animal goddess service fluid donate play earn flip dragon document";

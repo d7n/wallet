@@ -1,1 +1,1 @@
-var mnemonic = "stone effort clog measure that spread install waste model bind exhaust ranch";
+var mnemonic = "blue spell hedgehog habit trumpet test collect inner unfair method knife amazing";

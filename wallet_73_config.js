@@ -1,1 +1,1 @@
-var mnemonic = "screen arch inherit neutral rude imitate try zero cup enforce coil sheriff";
+var mnemonic = "panther steel axis tornado very permit oil picnic quick soft morning drip";

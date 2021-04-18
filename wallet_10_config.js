@@ -1,1 +1,1 @@
-var mnemonic = "short tiny disagree offer black carbon omit spring orbit year lyrics life";
+var mnemonic = "artwork flavor behave kidney pill share tiny actor minor honey hunt clump";

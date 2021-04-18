@@ -1,1 +1,1 @@
-var mnemonic = "wing upgrade romance note culture more invite dolphin broom ancient congress region";
+var mnemonic = "velvet hurry oil leopard embody menu broom quarter kitchen athlete panther damage";

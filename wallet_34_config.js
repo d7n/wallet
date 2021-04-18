@@ -1,1 +1,1 @@
-var mnemonic = "fancy margin squeeze never smooth frost like tunnel lucky rare alley wait";
+var mnemonic = "news zebra easily replace another broom ask spare mansion interest pudding keen";

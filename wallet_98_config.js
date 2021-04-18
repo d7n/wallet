@@ -1,1 +1,1 @@
-var mnemonic = "orient food salad sibling claim submit dirt virtual such shrimp bench bubble";
+var mnemonic = "city dawn begin stomach laundry address symbol west quick artefact shoe sword";

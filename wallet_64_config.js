@@ -1,1 +1,1 @@
-var mnemonic = "vault doctor slab either above destroy tongue empty able rigid song elbow";
+var mnemonic = "cigar common earth uphold rotate exercise ice undo task risk need dwarf";

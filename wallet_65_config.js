@@ -1,1 +1,1 @@
-var mnemonic = "bus salad adult gallery wisdom vendor airport mom laundry mechanic shuffle enforce";
+var mnemonic = "bulb security return desert turn tail arrow divide student steak casino auto";

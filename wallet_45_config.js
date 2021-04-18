@@ -1,1 +1,1 @@
-var mnemonic = "athlete second umbrella foam grace pair wave start chat acoustic engine great";
+var mnemonic = "label modify zebra craft scrub level smooth little crunch bone ugly critic";

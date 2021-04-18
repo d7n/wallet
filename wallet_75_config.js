@@ -1,1 +1,1 @@
-var mnemonic = "venue evolve unusual bulk poem also violin trial march blanket seat knock";
+var mnemonic = "hospital rebuild circle lava grace idea slam worth exclude online chest faculty";

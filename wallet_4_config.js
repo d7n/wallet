@@ -1,1 +1,1 @@
-var mnemonic = "target quick movie pizza over exit member kite basic business myself joy";
+var mnemonic = "nominee forum food chuckle romance solution nurse brain alien level access drive";

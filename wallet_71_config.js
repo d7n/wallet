@@ -1,1 +1,1 @@
-var mnemonic = "guitar hope lady silent buyer proud cheap grief scan disease receive vacant";
+var mnemonic = "ketchup humor when trust solve obey electric monkey join chalk category blame";

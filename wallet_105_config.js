@@ -1,1 +1,1 @@
-var mnemonic = "tattoo defense enemy wash wish effort option loyal poet crouch detail foil";
+var mnemonic = "spray vote swap mom vacuum episode method grant vast fancy fitness turn";

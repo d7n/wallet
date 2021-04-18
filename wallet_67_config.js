@@ -1,1 +1,1 @@
-var mnemonic = "edge harvest cover oven traffic provide what clever square find flee explain";
+var mnemonic = "fence come hill bless pen hospital crisp hunt tool mountain put congress";

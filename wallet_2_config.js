@@ -1,1 +1,1 @@
-var mnemonic = "sting media whisper wife confirm cream liberty hat loan spot replace sick";
+var mnemonic = "mother coach solid push tape furnace have claw enter paper tube they";

@@ -1,1 +1,1 @@
-var mnemonic = "friend bronze denial claim tube diet pulse fresh announce bargain sentence mom";
+var mnemonic = "swallow need leopard nice jungle bacon debris horse mammal slide rule mushroom";

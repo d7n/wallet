@@ -1,1 +1,1 @@
-var mnemonic = "machine address tribe tunnel kiss key struggle friend case twin middle cat";
+var mnemonic = "reform market echo bulb badge fame bronze ladder base trim miss mass";

@@ -1,1 +1,1 @@
-var mnemonic = "cool smoke mean roast side until wise dawn assume popular song expire";
+var mnemonic = "churn bounce kid slab burger typical scene depart real merit intact outdoor";

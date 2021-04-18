@@ -1,1 +1,1 @@
-var mnemonic = "remind shock dice buddy arrive shoe edit present comfort select multiply dry";
+var mnemonic = "waste nuclear faint hello oyster alien chalk goat adjust blast conduct private";

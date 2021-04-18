@@ -1,1 +1,1 @@
-var mnemonic = "crucial stairs public dog slogan donor link initial hero also minimum zero";
+var mnemonic = "topic blade sudden access supply century bunker alcohol patch job thrive soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "client final window river opinion salute diamond umbrella express oppose express scatter";
+var mnemonic = "grain differ major cradle nice employ nominee gasp rule result afraid fat";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans stamp current curious salt dynamic include slab soda parent bitter room";
+var mnemonic = "cheap result exit retire blood feel west planet truck breeze sentence great";

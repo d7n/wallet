@@ -1,1 +1,1 @@
-var mnemonic = "hazard polar pottery dry flee arrest square decrease tourist else toy carpet";
+var mnemonic = "observe pepper whale elevator sheriff gold item industry benefit game project manage";

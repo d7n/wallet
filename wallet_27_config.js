@@ -1,1 +1,1 @@
-var mnemonic = "sense faint cargo dinosaur staff usual laptop gather nation twice timber height";
+var mnemonic = "chase drum alien robust valid code heavy act sense adapt dinner symbol";

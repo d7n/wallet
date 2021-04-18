@@ -1,1 +1,1 @@
-var mnemonic = "someone desk future mosquito piano merry learn wire bid metal fun dove";
+var mnemonic = "rich begin lava vendor ghost exact sister topic chalk bulb fold caution";

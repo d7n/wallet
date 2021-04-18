@@ -1,1 +1,1 @@
-var mnemonic = "special ancient aunt scan story smooth match night balcony attack blood silver";
+var mnemonic = "noble demise mass differ someone embody profit cricket biology word sense clarify";

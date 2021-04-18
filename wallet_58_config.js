@@ -1,1 +1,1 @@
-var mnemonic = "thumb setup visual enable month season truth imitate radar salt settle excuse";
+var mnemonic = "cat tiny naive repeat harbor crazy inject tenant approve ten fresh horror";

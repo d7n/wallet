@@ -1,1 +1,1 @@
-var mnemonic = "toast use snap start rain move prison useful velvet clap police hockey";
+var mnemonic = "need feel scene hen someone script fashion planet sketch crystal such absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "side galaxy merit soul junk usage shine length because industry denial blade";
+var mnemonic = "few enforce fold manage proof unknown current roast vote key manual couch";

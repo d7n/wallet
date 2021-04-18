@@ -1,1 +1,1 @@
-var mnemonic = "twin kidney expand evolve view bottom young razor tenant legal modify practice";
+var mnemonic = "crawl divorce nasty vintage popular front town spoil main foster write auto";

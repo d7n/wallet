@@ -1,1 +1,1 @@
-var mnemonic = "float under hybrid where mandate old rescue analyst pulp special subway luggage";
+var mnemonic = "divide trend public smile purpose nerve language goose teach interest orange rug";

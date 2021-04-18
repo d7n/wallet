@@ -1,1 +1,1 @@
-var mnemonic = "raise fly gold outdoor scrap novel canvas reunion snake rib hollow embrace";
+var mnemonic = "that warm clinic job anxiety female melt together inspire dinosaur twice tragic";

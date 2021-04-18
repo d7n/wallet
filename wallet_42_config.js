@@ -1,1 +1,1 @@
-var mnemonic = "west neutral sound together occur ginger rubber love flag jaguar churn brass";
+var mnemonic = "brick rack debris loan skin ancient cancel short safe turn river rule";

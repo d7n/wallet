@@ -1,1 +1,1 @@
-var mnemonic = "misery supreme often short find gasp blue vast silly present collect cousin";
+var mnemonic = "then knife spell toast destroy sugar judge develop during unique garage biology";

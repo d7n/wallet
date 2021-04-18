@@ -1,1 +1,1 @@
-var mnemonic = "exact tray protect media artefact heart glare ostrich vehicle eyebrow scrap appear";
+var mnemonic = "paddle increase chaos unique confirm rug exist robust sorry side lemon forum";

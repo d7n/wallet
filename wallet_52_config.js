@@ -1,1 +1,1 @@
-var mnemonic = "science shoot army fantasy sponsor exchange curve above six help assist powder";
+var mnemonic = "network husband into sure rail office illness chat timber act slice achieve";

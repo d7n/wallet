@@ -1,1 +1,1 @@
-var mnemonic = "actual rapid priority river soup inmate shop dose robot hamster north light";
+var mnemonic = "swamp resource food bread main venture lawsuit when physical elder whale have";

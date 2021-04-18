@@ -1,1 +1,1 @@
-var mnemonic = "mean still lecture proof critic convince unit bread latin oil crash hurry";
+var mnemonic = "object guard supreme drum fever car use find exhibit verify identify ahead";

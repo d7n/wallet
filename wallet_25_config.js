@@ -1,1 +1,1 @@
-var mnemonic = "danger evil stomach fan apart profit nurse tunnel assault satoshi spy demise";
+var mnemonic = "able narrow have video topic hero ladder regular update island squeeze lawsuit";

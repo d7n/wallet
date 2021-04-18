@@ -1,1 +1,1 @@
-var mnemonic = "pretty forget legend win horse foot stove comfort movie basic under barrel";
+var mnemonic = "term funny idle beef earn wood despair couch heavy rebuild math energy";
