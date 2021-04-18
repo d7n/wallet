@@ -1,1 +1,1 @@
-var mnemonic = "volume raccoon motion wood globe concert during soap better satisfy venue lumber";
+var mnemonic = "unlock club rug veteran path nation lunch crumble diesel oak napkin vessel";

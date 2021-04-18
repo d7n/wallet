@@ -1,1 +1,1 @@
-var mnemonic = "say board ice ugly velvet battle eyebrow column join medal alone safe";
+var mnemonic = "scare excuse parade economy below lawsuit maze youth proof perfect fuel winter";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat short diesel february world foot carpet plunge fetch gap december warm";
+var mnemonic = "relief scatter reveal confirm tribe ridge supply vast render enact remove include";

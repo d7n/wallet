@@ -1,1 +1,1 @@
-var mnemonic = "nurse canvas doctor river job fault daring please use version vacant rich";
+var mnemonic = "siren tonight party immune analyst mention oblige essay cloud grab expect beauty";

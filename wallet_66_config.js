@@ -1,1 +1,1 @@
-var mnemonic = "ability chat produce system base version option topple defense balcony often extend";
+var mnemonic = "gain possible robust honey exclude sad field fame start advice lobster tell";

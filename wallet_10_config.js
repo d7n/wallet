@@ -1,1 +1,1 @@
-var mnemonic = "pupil shop ripple again beauty twelve blanket wet census include title toy";
+var mnemonic = "tuition human trust report sponsor gallery juice ankle buddy tomorrow frequent valid";

@@ -1,1 +1,1 @@
-var mnemonic = "ask fiscal option major grid share human fuel foot cable guess error";
+var mnemonic = "dirt budget fly science royal whip call cash book wise erase illness";

@@ -1,1 +1,1 @@
-var mnemonic = "around awesome cinnamon elevator dignity shoulder access inspire chief mansion guess wire";
+var mnemonic = "guitar electric admit strategy mind faint injury vicious motion grid ritual climb";

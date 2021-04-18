@@ -1,1 +1,1 @@
-var mnemonic = "hill topple lonely absent prevent fresh state kingdom flight evil moral strong";
+var mnemonic = "power control negative provide rich coyote inquiry virtual solve dad adult dawn";

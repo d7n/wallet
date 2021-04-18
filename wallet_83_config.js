@@ -1,1 +1,1 @@
-var mnemonic = "ankle deal toward skirt abandon water merry stove lava bullet end isolate";
+var mnemonic = "divert lonely humble say domain attitude gospel crime chapter motion era jealous";

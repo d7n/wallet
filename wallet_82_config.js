@@ -1,1 +1,1 @@
-var mnemonic = "taxi buffalo want cupboard female kitten frown normal brown seven below forget";
+var mnemonic = "color knock unique enable property bike hire junk onion course forest valley";

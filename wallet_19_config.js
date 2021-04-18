@@ -1,1 +1,1 @@
-var mnemonic = "museum mail danger thunder volume cereal artist expect original palace gate there";
+var mnemonic = "element magnet salt fault staff melody police fork toe betray twelve season";

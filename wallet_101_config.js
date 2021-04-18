@@ -1,1 +1,1 @@
-var mnemonic = "vendor reject napkin dizzy honey give boss donor average report dice bottom";
+var mnemonic = "sweet kid unfold wide glide ticket pride degree prison lucky valve warm";

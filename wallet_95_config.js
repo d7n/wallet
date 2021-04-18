@@ -1,1 +1,1 @@
-var mnemonic = "safe medal another prosper rude produce pony panic scale comfort emotion wrong";
+var mnemonic = "jealous axis army present light pill mango illness bargain ribbon green village";

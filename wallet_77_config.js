@@ -1,1 +1,1 @@
-var mnemonic = "such outdoor aunt derive skate fatal penalty grunt knock february rail faint";
+var mnemonic = "dog attitude warfare all fatigue toy collect copy fly typical success blood";

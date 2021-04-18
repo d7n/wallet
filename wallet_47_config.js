@@ -1,1 +1,1 @@
-var mnemonic = "follow harbor profit casino camp alien erupt subject table furnace stable spike";
+var mnemonic = "submit example property same debate pear globe any track parrot bread core";

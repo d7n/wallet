@@ -1,1 +1,1 @@
-var mnemonic = "suit arena subway bicycle protect pig ridge wool fall drill lens token";
+var mnemonic = "swap myself expect baby manual music gentle worth baby have field enrich";

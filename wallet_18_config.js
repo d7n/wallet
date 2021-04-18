@@ -1,1 +1,1 @@
-var mnemonic = "spin cool lawn know fence crazy various delay involve gather always winter";
+var mnemonic = "rifle risk crucial deposit laundry account coast south erupt trap coach axis";

@@ -1,1 +1,1 @@
-var mnemonic = "surround doll divert scale runway page conduct pizza cloth fan grape symptom";
+var mnemonic = "report ice intact coast safe purchase begin balcony dice friend stay ripple";

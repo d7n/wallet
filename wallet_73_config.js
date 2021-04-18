@@ -1,1 +1,1 @@
-var mnemonic = "airport midnight palm hybrid object avocado debris range leisure goddess attend slim";
+var mnemonic = "diary camera jungle canvas biology escape parade disease sponsor disease whip indicate";

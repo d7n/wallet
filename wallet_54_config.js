@@ -1,1 +1,1 @@
-var mnemonic = "palace aunt aisle term maximum sugar ostrich width drive live saddle middle";
+var mnemonic = "strategy already nut insane gloom blame must arrive creek cycle flavor excite";

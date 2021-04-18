@@ -1,1 +1,1 @@
-var mnemonic = "gentle regular biology situate tank movie fluid organ door property bitter knock";
+var mnemonic = "lucky april apology category off van distance today giant snake slow cause";

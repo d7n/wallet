@@ -1,1 +1,1 @@
-var mnemonic = "engage bid squirrel wall chase neutral hockey easy chuckle indoor tank board";
+var mnemonic = "jelly clerk hen push decline hello fresh style hope artist mistake stomach";

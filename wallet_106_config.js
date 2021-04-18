@@ -1,1 +1,1 @@
-var mnemonic = "atom trophy wink casino voyage reward bid sail private ball tiny filter";
+var mnemonic = "bitter resemble dynamic broken ginger dog endorse modify ship dance month grain";

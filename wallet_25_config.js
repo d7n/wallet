@@ -1,1 +1,1 @@
-var mnemonic = "grit few sister arch color friend permit game kitchen auto clip this";
+var mnemonic = "stamp bounce art hip perfect library tool dolphin bubble beach grunt lift";

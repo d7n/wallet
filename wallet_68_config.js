@@ -1,1 +1,1 @@
-var mnemonic = "news regret adapt arrest soda clutch joke language unusual cross diesel coil";
+var mnemonic = "initial board process card flip fever finger behind stomach south card refuse";

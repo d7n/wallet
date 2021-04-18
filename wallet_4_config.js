@@ -1,1 +1,1 @@
-var mnemonic = "differ problem future six uncle change crash industry sadness can guide fringe";
+var mnemonic = "sure water way fitness layer tornado rapid submit balcony soul hybrid evil";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic donate tag online pole sister treat medal illness pigeon song warrior";
+var mnemonic = "cannon someone double garlic spice brain receive soul innocent kitchen genre success";

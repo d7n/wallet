@@ -1,1 +1,1 @@
-var mnemonic = "acoustic gesture unit pig unique come rookie crash wedding engage cash food";
+var mnemonic = "brother market risk embark horse pet bleak time benefit tenant live plate";

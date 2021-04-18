@@ -1,1 +1,1 @@
-var mnemonic = "fever resist bullet isolate actor fatal rival wheel radio jacket wide hybrid";
+var mnemonic = "shoe symbol hip range lunar awake danger below chunk cake initial brisk";

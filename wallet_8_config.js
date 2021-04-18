@@ -1,1 +1,1 @@
-var mnemonic = "asthma siege fuel snake avoid all regret strong infant list menu virtual";
+var mnemonic = "enlist office social elbow enroll upset clip aware near consider into suit";

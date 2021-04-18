@@ -1,1 +1,1 @@
-var mnemonic = "express olive when metal warm raw reject glove bicycle finish venue stairs";
+var mnemonic = "plate social buyer attract illness mail large air umbrella author light assume";

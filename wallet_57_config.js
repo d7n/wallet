@@ -1,1 +1,1 @@
-var mnemonic = "buyer whale hood junior cook peanut connect knife vapor clay language wisdom";
+var mnemonic = "address burst collect flock school resemble cabbage use wife service elder path";

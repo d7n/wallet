@@ -1,1 +1,1 @@
-var mnemonic = "away seed sad author end south embrace loan setup poverty brief alert";
+var mnemonic = "trim entry tag twice oak laugh peace simple track pause math old";

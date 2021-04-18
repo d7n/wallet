@@ -1,1 +1,1 @@
-var mnemonic = "jelly pass viable flip foot walk combine high thank result slight order";
+var mnemonic = "thunder glare loyal maze pupil fine current pilot barely turkey item spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor bus swamp wasp install bulb mad apology olive begin lend rhythm";
+var mnemonic = "advance host sample peasant direct year trigger kitten pluck giggle few weird";

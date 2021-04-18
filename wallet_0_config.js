@@ -1,1 +1,1 @@
-var mnemonic = "robust insane accuse pupil curious viable misery music high youth mobile essay";
+var mnemonic = "theory decide shift view sample quarter easily camp inform middle trip weather";

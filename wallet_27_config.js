@@ -1,1 +1,1 @@
-var mnemonic = "ride orbit jazz file insane desert into like country hope cup suspect";
+var mnemonic = "wire brand badge census verb range blue develop second grit legend barrel";

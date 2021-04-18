@@ -1,1 +1,1 @@
-var mnemonic = "final inhale laptop mosquito pottery include fly soccer injury prefer ugly tornado";
+var mnemonic = "balance hub until unfold relax warfare joke style rival boil price story";

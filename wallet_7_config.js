@@ -1,1 +1,1 @@
-var mnemonic = "recall dog honey alpha mansion proud army increase calm answer submit civil";
+var mnemonic = "section trouble sudden beyond exile prefer fun involve permit science feature spawn";

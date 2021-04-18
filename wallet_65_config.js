@@ -1,1 +1,1 @@
-var mnemonic = "slight toddler produce trip gown jealous walnut element cabbage afraid kite van";
+var mnemonic = "wear finish loan grape beauty toy garment tuna beauty garbage relief wife";

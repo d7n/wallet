@@ -1,1 +1,1 @@
-var mnemonic = "soon sunny long symptom inform rhythm chaos charge pipe series menu work";
+var mnemonic = "reduce bitter expire slush series remove sun jeans pink stick tray gloom";

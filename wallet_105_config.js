@@ -1,1 +1,1 @@
-var mnemonic = "finger love human slot gossip kid detail quarter leave spice race unusual";
+var mnemonic = "scheme album empty between toy depend possible repair small among turkey turn";

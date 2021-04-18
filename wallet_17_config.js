@@ -1,1 +1,1 @@
-var mnemonic = "daughter dose liquid salon awake side illness begin main ensure proof universe";
+var mnemonic = "buzz endorse female menu damp glove shop bleak benefit into fire mango";

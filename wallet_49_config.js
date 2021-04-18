@@ -1,1 +1,1 @@
-var mnemonic = "goose language oil double album acoustic educate gadget keep cheap jacket language";
+var mnemonic = "dress draw use hint unit marble car bean visual extra double blouse";

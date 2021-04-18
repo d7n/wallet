@@ -1,1 +1,1 @@
-var mnemonic = "man fatal alarm check wave corn matrix kite hover whip general jar";
+var mnemonic = "food stage horror worth knife glance hard robot seed spatial hamster swing";

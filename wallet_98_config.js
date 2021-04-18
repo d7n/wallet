@@ -1,1 +1,1 @@
-var mnemonic = "guilt daughter sunny close live clinic army enact dune solution lava scrap";
+var mnemonic = "ask donkey settle shrimp ten lounge easy cruel undo tunnel rose banner";

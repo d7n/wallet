@@ -1,1 +1,1 @@
-var mnemonic = "grape naive old swim enforce tip remove shrug joy impose crawl cake";
+var mnemonic = "entry negative merge ozone truly holiday tackle leave plate coral thumb place";

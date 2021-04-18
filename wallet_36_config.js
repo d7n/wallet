@@ -1,1 +1,1 @@
-var mnemonic = "doctor man medal flight attitude example silk smart small suggest inside honey";
+var mnemonic = "toy wagon rocket pen answer man enact venue rebuild ready horse devote";

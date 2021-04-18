@@ -1,1 +1,1 @@
-var mnemonic = "slight copper entry tragic cluster rain scare gospel olive distance firm virtual";
+var mnemonic = "organ tip bonus print holiday girl acoustic barely cliff battle steak sniff";

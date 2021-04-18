@@ -1,1 +1,1 @@
-var mnemonic = "arrest antenna eager joke doctor absurd board exclude frog dirt order spawn";
+var mnemonic = "gesture latin daughter toddler whip also benefit humor sure balcony never jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom hello west small chase swim bounce flee gap million sibling sausage";
+var mnemonic = "wink forum enroll movie recall ugly hub despair episode mean chicken dust";

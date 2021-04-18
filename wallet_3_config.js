@@ -1,1 +1,1 @@
-var mnemonic = "physical frog document quit garden help roof second hedgehog alter regret cool";
+var mnemonic = "know drip pen cost mystery agent drip crouch salad solar staff rice";

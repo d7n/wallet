@@ -1,1 +1,1 @@
-var mnemonic = "weasel satoshi firm address fiber art joke immense sport cat suggest panther";
+var mnemonic = "wide fit federal bulk walk make local deny purchase reform canvas aisle";

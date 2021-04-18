@@ -1,1 +1,1 @@
-var mnemonic = "domain kite element layer result erode insane march adult slim example castle";
+var mnemonic = "alcohol burden pond senior kingdom actor rural output try design kite physical";

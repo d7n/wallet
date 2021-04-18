@@ -1,1 +1,1 @@
-var mnemonic = "mansion wrong warrior unfair acid fit rubber rural victory tortoise dad rabbit";
+var mnemonic = "wreck problem lumber chunk book chair universe answer answer thing exhaust blur";

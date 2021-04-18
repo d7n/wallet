@@ -1,1 +1,1 @@
-var mnemonic = "soap fine lawn secret agent denial raven feature coil scrap you turkey";
+var mnemonic = "ginger scatter together save please stage memory place estate galaxy tiny warrior";

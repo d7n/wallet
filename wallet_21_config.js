@@ -1,1 +1,1 @@
-var mnemonic = "bomb useless section table february extend occur involve toward arrow rain glue";
+var mnemonic = "wall fiction violin control eyebrow step wedding atom used shock march south";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange indoor wave oxygen salmon advance wheat insect shoe sudden project inspire";
+var mnemonic = "resemble blur sudden various veteran rely almost agent wood rhythm size mushroom";

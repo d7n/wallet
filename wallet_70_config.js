@@ -1,1 +1,1 @@
-var mnemonic = "cloth diamond vendor equip umbrella drive pretty menu aware knock reward jewel";
+var mnemonic = "image trouble maximum woman urge purchase wet cereal pass sting manage stamp";

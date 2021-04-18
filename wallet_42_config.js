@@ -1,1 +1,1 @@
-var mnemonic = "burden trophy session elevator width bread evidence sister cactus web page eagle";
+var mnemonic = "two forward figure recycle husband tonight snow cheese illness oppose genre yellow";

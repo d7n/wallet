@@ -1,1 +1,1 @@
-var mnemonic = "canvas common siege risk pipe slogan excite column win piece grant leave";
+var mnemonic = "need card legend april certain jacket ginger private state angry above hat";

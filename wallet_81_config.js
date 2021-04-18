@@ -1,1 +1,1 @@
-var mnemonic = "odor mutual pattern venture accuse lazy swarm soldier excess walnut neglect shine";
+var mnemonic = "canoe asset adjust then answer blood anxiety swift adjust canal harvest seminar";

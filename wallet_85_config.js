@@ -1,1 +1,1 @@
-var mnemonic = "total metal bicycle century install solution gun hard universe ride utility another";
+var mnemonic = "split inmate depend jealous explain please lunch stairs industry entry believe century";

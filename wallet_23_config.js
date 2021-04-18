@@ -1,1 +1,1 @@
-var mnemonic = "enable silk space people acoustic kiwi marriage arrest assault exclude vendor rally";
+var mnemonic = "orient moment plug unveil ranch zero welcome open parrot sad ethics police";

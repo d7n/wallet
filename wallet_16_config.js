@@ -1,1 +1,1 @@
-var mnemonic = "fluid earth soul slight occur embrace luxury clap jungle saddle project post";
+var mnemonic = "soldier turtle water clever turn donate volcano token actress slot civil stone";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen naive canvas plastic little pulse tunnel sweet fence globe section romance";
+var mnemonic = "source crater company uphold fortune bean rally chase gloom spatial actual square";

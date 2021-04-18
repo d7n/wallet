@@ -1,1 +1,1 @@
-var mnemonic = "fatal surge pet neither pulse plunge cube spike west sort crystal hotel";
+var mnemonic = "flee buddy tail verify great salon episode wheat food hip dirt feed";

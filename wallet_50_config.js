@@ -1,1 +1,1 @@
-var mnemonic = "time teach energy draft master axis dignity deposit marble apart office second";
+var mnemonic = "walk immune true ball truth reopen trim echo race address upper define";

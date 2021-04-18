@@ -1,1 +1,1 @@
-var mnemonic = "small common balance swift unaware today relax retire main seek north believe";
+var mnemonic = "suit close chicken fun consider average wing welcome nuclear genius quit any";

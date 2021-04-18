@@ -1,1 +1,1 @@
-var mnemonic = "swear agent pitch secret tongue screen inherit produce man display cinnamon pistol";
+var mnemonic = "task step original attitude decade dutch loyal solid evolve wedding curious glad";

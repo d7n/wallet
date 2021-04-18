@@ -1,1 +1,1 @@
-var mnemonic = "endless adapt brave code ketchup current junior picture baby pelican obtain visa";
+var mnemonic = "program brother clap orchard learn cruel swallow shock rotate frown extra seed";

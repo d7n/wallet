@@ -1,1 +1,1 @@
-var mnemonic = "wealth rail cushion cricket test silk junk common romance brick relief wealth";
+var mnemonic = "bid robot planet primary eagle expand wide uniform net curtain account capital";

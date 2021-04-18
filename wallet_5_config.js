@@ -1,1 +1,1 @@
-var mnemonic = "blouse mixed dry until pig warfare battle hero crystal manage soccer box";
+var mnemonic = "snap cliff youth cost awake allow giraffe rural hospital used enhance zone";

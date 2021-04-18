@@ -1,1 +1,1 @@
-var mnemonic = "pledge garden mention park source spider door damage outside wise core crime";
+var mnemonic = "south page skin actual turtle bamboo tank foot blind diet forest huge";

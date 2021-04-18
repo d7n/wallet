@@ -1,1 +1,1 @@
-var mnemonic = "during extra river color outdoor desk capable valid click apple ripple tattoo";
+var mnemonic = "ten leg buddy comic glow arrow chronic choose lab goddess actress eagle";

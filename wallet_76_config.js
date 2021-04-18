@@ -1,1 +1,1 @@
-var mnemonic = "comic hope wear answer blind express duck because early axis offer pig";
+var mnemonic = "loan space copper hover forum hockey forum panic garment hospital proud rely";

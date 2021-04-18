@@ -1,1 +1,1 @@
-var mnemonic = "apology material physical hill used want planet unknown various monitor cage avocado";
+var mnemonic = "pyramid recall lunar laptop rack sell novel trend miracle ceiling sustain business";

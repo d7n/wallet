@@ -1,1 +1,1 @@
-var mnemonic = "because spoil mix indoor surprise delay melody heavy tuna pave noise actor";
+var mnemonic = "mix lamp when raccoon diet thrive april gentle kit shop link random";

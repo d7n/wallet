@@ -1,1 +1,1 @@
-var mnemonic = "nature come used lesson minimum approve seed torch twelve fun design toast";
+var mnemonic = "undo possible pause garlic off tank under leader hurry credit nephew grass";

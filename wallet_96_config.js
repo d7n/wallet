@@ -1,1 +1,1 @@
-var mnemonic = "ten power bus turkey flame busy face noble hip regular kit mystery";
+var mnemonic = "crazy able donor orphan gate lend tornado river fancy table parent raven";

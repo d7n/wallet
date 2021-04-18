@@ -1,1 +1,1 @@
-var mnemonic = "tobacco toilet visual tobacco equal potato tonight garbage neglect business spare ivory";
+var mnemonic = "affair theme emerge camp this cash hover owner theme solution unfair turn";

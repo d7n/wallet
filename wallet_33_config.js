@@ -1,1 +1,1 @@
-var mnemonic = "index boat cruise leaf youth tape option proud saddle language then hockey";
+var mnemonic = "risk section sort dumb inside much consider false foot slush west decorate";

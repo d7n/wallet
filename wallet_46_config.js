@@ -1,1 +1,1 @@
-var mnemonic = "announce leader dignity aware album situate refuse harvest large boy promote wire";
+var mnemonic = "illness large all lazy remove boat mystery tobacco road act dwarf prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "annual fall brass student polar ill such cargo room heavy danger dinosaur";
+var mnemonic = "million urban volcano retire update wife fit accident oppose wild tackle chalk";

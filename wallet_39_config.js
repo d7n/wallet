@@ -1,1 +1,1 @@
-var mnemonic = "chuckle hello flame salt joke empower scan domain shadow child breeze engage";
+var mnemonic = "stay arena rally cart false actual plate vacuum mad guard group then";

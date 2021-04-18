@@ -1,1 +1,1 @@
-var mnemonic = "cabin move green glare inch crazy enact attract dumb legend vintage rural";
+var mnemonic = "sponsor fitness hub airport broccoli ritual gas frame sentence bean change vote";

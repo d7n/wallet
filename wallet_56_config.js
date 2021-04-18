@@ -1,1 +1,1 @@
-var mnemonic = "cool car tennis trash ripple sing lesson someone ancient together impact stick";
+var mnemonic = "view opera camera magnet screen cute famous lawsuit region sample tomato poverty";

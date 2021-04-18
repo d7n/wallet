@@ -1,1 +1,1 @@
-var mnemonic = "brick predict news car invite model uncle depart uncle scare fatigue sing";
+var mnemonic = "mobile chronic today melody ocean sure knee invest squeeze fuel find climb";

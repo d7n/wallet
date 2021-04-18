@@ -1,1 +1,1 @@
-var mnemonic = "weather marine hood siege state fun provide hill develop domain bulk obvious";
+var mnemonic = "usage uniform young recall photo thumb swim text couch mouse potato tortoise";

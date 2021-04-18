@@ -1,1 +1,1 @@
-var mnemonic = "reunion kidney weasel wise pioneer side shield stomach sun air pole ordinary";
+var mnemonic = "potato orphan replace evil glad bench crumble primary about include clever fault";

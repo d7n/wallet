@@ -1,1 +1,1 @@
-var mnemonic = "sense kind wet food ticket make disagree pulse early estate point marine";
+var mnemonic = "march total shrug brown picture spider cost theme celery dance flavor loan";

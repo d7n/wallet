@@ -1,1 +1,1 @@
-var mnemonic = "fury beauty blanket pilot sword lemon achieve atom table awake nature wet";
+var mnemonic = "worry alter buyer solid evidence regret garbage rival tool sauce direct gloom";

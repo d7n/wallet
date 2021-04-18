@@ -1,1 +1,1 @@
-var mnemonic = "toy upon else brown body wild melody ivory orange proof blast prevent";
+var mnemonic = "lab moment force type boost winner spatial school session rifle coyote salad";

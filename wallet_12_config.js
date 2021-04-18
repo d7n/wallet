@@ -1,1 +1,1 @@
-var mnemonic = "sound pledge reunion like insect axis outside chief club polar drive actor";
+var mnemonic = "display wave point fatal cycle control ugly settle traffic error chapter merry";

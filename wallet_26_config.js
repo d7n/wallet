@@ -1,1 +1,1 @@
-var mnemonic = "maze mad usual chase local cheap exchange truth toe width agree army";
+var mnemonic = "cloud elephant market captain solution achieve latin purse voyage quote favorite again";

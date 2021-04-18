@@ -1,1 +1,1 @@
-var mnemonic = "inside affair artwork small abstract pizza seat address viable antique notice grace";
+var mnemonic = "fan course economy cover include video exact truth delay life sentence kiss";

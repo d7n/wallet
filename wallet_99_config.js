@@ -1,1 +1,1 @@
-var mnemonic = "grief iron theory lucky resist slam feel design solve mother draw category";
+var mnemonic = "doll latin oval behind saddle surprise cruise useless lyrics slim donkey figure";

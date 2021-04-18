@@ -1,1 +1,1 @@
-var mnemonic = "leopard tattoo shrug trophy delay turtle salmon creek wave trust fever next";
+var mnemonic = "slim rapid budget shed clap laugh stadium require rescue chest pause return";
