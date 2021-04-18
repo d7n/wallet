@@ -1,1 +1,1 @@
-var mnemonic = "divert spot differ company source worry mind earn average addict method sight";
+var mnemonic = "violin major marine deputy dinner ride edge merge survey oak game drop";

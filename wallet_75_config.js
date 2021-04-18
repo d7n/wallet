@@ -1,1 +1,1 @@
-var mnemonic = "tree off axis affair outer repeat hurdle pig umbrella play goose left";
+var mnemonic = "wear carry idea recycle pond vault choice arch develop cloud magnet private";

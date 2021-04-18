@@ -1,1 +1,1 @@
-var mnemonic = "design connect trophy analyst cement deposit tiny cost exclude result foot enter";
+var mnemonic = "sketch boring moment swear veteran prosper champion jeans vacuum lemon snap blood";

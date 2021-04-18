@@ -1,1 +1,1 @@
-var mnemonic = "shrimp book regular abandon blue accuse age orchard misery couch neutral mandate";
+var mnemonic = "entire wealth exchange hotel casino shield city faint oxygen friend found state";

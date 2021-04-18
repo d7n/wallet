@@ -1,1 +1,1 @@
-var mnemonic = "rescue person blind slice fatigue minute ask bachelor manage wrestle note arrange";
+var mnemonic = "laptop claim monkey yellow finger twin news desert safe nephew alter prison";

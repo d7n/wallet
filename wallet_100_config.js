@@ -1,1 +1,1 @@
-var mnemonic = "monkey recipe genius reform connect rich rack can work earn diet clinic";
+var mnemonic = "reward harvest dash try eternal barely sketch neglect thank teach glimpse leisure";

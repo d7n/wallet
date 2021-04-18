@@ -1,1 +1,1 @@
-var mnemonic = "wing mechanic swamp access private supply muffin moon another ivory report there";
+var mnemonic = "casino term bar violin solar intact fire vital creek together sudden banana";

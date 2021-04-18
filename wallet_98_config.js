@@ -1,1 +1,1 @@
-var mnemonic = "entry radar soon entire cotton save boil clarify useful cement method meadow";
+var mnemonic = "orchard author outside perfect zoo total hospital north hawk blade mask wide";

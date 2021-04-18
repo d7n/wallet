@@ -1,1 +1,1 @@
-var mnemonic = "symptom office lend local muffin combine myself pattern enjoy aisle repair top";
+var mnemonic = "honey junk anxiety defy sort amused goat height orient finish laundry refuse";

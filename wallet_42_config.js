@@ -1,1 +1,1 @@
-var mnemonic = "audit assume airport shoot pistol orchard thing vessel congress stadium own pear";
+var mnemonic = "column also wrist gift final prepare sort test hockey grocery keen gold";

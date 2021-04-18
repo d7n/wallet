@@ -1,1 +1,1 @@
-var mnemonic = "divide tell column copper image indoor frog nature sunset surround motor copy";
+var mnemonic = "auto glimpse oil city menu machine sibling today force pen profit exercise";

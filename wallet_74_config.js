@@ -1,1 +1,1 @@
-var mnemonic = "market where tell want nature spirit skate mom rival disorder side negative";
+var mnemonic = "journey surprise planet this chunk gravity tired home during absent cruel ship";

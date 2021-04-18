@@ -1,1 +1,1 @@
-var mnemonic = "dish shadow current napkin avoid roast identify home sudden alarm use hidden";
+var mnemonic = "october actress need engine honey invest search fatigue vendor ugly merit help";

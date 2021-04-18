@@ -1,1 +1,1 @@
-var mnemonic = "quote left cricket equal wall frost outer page arrange lyrics couch mention";
+var mnemonic = "employ draw tooth topic proud awesome worth detect unique rain siege settle";

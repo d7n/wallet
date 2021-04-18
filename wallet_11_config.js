@@ -1,1 +1,1 @@
-var mnemonic = "wood dilemma proof middle canyon square over radio confirm intact return peanut";
+var mnemonic = "craft apology burden pyramid wing naive drink give elephant neutral step wrist";

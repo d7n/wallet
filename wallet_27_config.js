@@ -1,1 +1,1 @@
-var mnemonic = "glue monster scout scatter mixed kit shoulder meat wheel coffee come found";
+var mnemonic = "rapid desk gadget stomach betray average require snack lesson riot roast honey";

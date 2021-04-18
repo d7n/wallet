@@ -1,1 +1,1 @@
-var mnemonic = "lift ceiling badge unveil camera gate remove shine unusual hawk adjust decorate";
+var mnemonic = "remove budget quit lesson museum flower disease shine shell flat drastic such";

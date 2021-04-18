@@ -1,1 +1,1 @@
-var mnemonic = "vanish fault kick exact seven abandon little oval beauty save shadow claim";
+var mnemonic = "gasp abstract average easily other enjoy bar please enrich search twin else";

@@ -1,1 +1,1 @@
-var mnemonic = "pact happy quality citizen loan spike often kitchen witness voice behave enhance";
+var mnemonic = "kind toss vendor girl spawn modify club pass sea clay piece news";

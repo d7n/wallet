@@ -1,1 +1,1 @@
-var mnemonic = "journey music between marine thrive notice office cause panther clap fatal edge";
+var mnemonic = "snack spike correct chef album pelican grit example donor sister glance miracle";

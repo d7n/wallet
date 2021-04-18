@@ -1,1 +1,1 @@
-var mnemonic = "work exhibit once snap actor behave pioneer amateur conduct foam medal snack";
+var mnemonic = "yellow dumb obscure vast nut olive position survey resource dwarf magic salad";

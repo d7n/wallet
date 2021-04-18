@@ -1,1 +1,1 @@
-var mnemonic = "volcano crew rare memory often type lecture little next runway update raise";
+var mnemonic = "inherit sword find lazy surround sustain magnet trigger gain autumn peanut guide";

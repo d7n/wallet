@@ -1,1 +1,1 @@
-var mnemonic = "boil there proud scorpion talent coconut still online clean first matter ordinary";
+var mnemonic = "ready lunch hen goddess road uncle unfair shoe mammal crowd rural antique";

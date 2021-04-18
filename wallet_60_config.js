@@ -1,1 +1,1 @@
-var mnemonic = "urban fantasy sea any armed color scheme switch bar west option cave";
+var mnemonic = "ostrich exile fancy stomach try now script ghost gown giraffe novel total";

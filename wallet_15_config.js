@@ -1,1 +1,1 @@
-var mnemonic = "faint afraid rural squeeze slender body coil safe brother there frown equal";
+var mnemonic = "drift oblige truth obey sort enhance rotate quiz exchange unveil rotate bone";

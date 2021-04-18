@@ -1,1 +1,1 @@
-var mnemonic = "robot fantasy road vendor list sail rail start music sheriff brief chest";
+var mnemonic = "sugar express salt special truck oak swarm kid exhaust august expect desk";

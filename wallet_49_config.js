@@ -1,1 +1,1 @@
-var mnemonic = "room latin swing juice daughter refuse bullet drastic leisure wire plate duck";
+var mnemonic = "snow problem junk north cost celery dwarf soldier blast mosquito garbage antique";

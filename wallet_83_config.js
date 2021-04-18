@@ -1,1 +1,1 @@
-var mnemonic = "demise primary angry salute month aspect sock either tag color real gloom";
+var mnemonic = "desk iron cute spin produce vicious drive river purchase fever bag hour";

@@ -1,1 +1,1 @@
-var mnemonic = "today quote visit nephew example dragon demand awesome excuse hawk banner notice";
+var mnemonic = "start lava rubber alone mechanic ozone improve road grow rocket struggle good";

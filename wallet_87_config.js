@@ -1,1 +1,1 @@
-var mnemonic = "rule unhappy silk horror orchard excess wonder unfold melt burden test safe";
+var mnemonic = "regret marine expand narrow thought dolphin stairs border mango chicken buyer nut";

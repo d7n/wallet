@@ -1,1 +1,1 @@
-var mnemonic = "famous recycle common awake live present decline rookie casual copy unusual museum";
+var mnemonic = "rigid snack capital toddler mention truly symbol divorce abandon glimpse property arena";

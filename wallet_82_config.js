@@ -1,1 +1,1 @@
-var mnemonic = "giant win tobacco bulk three wine potato where puppy broccoli oxygen caught";
+var mnemonic = "dragon double upset solve upon hurdle clump ivory lion answer glimpse clean";

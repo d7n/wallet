@@ -1,1 +1,1 @@
-var mnemonic = "three huge early staff alter vivid sadness label narrow away note salon";
+var mnemonic = "fit muscle then foot allow envelope leg glue spare artist move tooth";

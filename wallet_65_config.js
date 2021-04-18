@@ -1,1 +1,1 @@
-var mnemonic = "wide cradle used faculty crater stage album fetch join accident output rigid";
+var mnemonic = "forum silk tired north diesel abstract parrot over bamboo soft sting gaze";

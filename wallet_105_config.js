@@ -1,1 +1,1 @@
-var mnemonic = "task rebuild fine simple lava edit item lava embrace between siren barely";
+var mnemonic = "attack develop stove harbor cage prosper rent easy flock erase snow fence";

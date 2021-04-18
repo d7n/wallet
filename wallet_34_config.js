@@ -1,1 +1,1 @@
-var mnemonic = "expose bicycle dwarf rotate artist right reflect then awful invest modify uncle";
+var mnemonic = "robust beauty session suffer toddler seed message quote embark rather define powder";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle paper field rocket still impact large cousin dice sad service bleak";
+var mnemonic = "oven window title tortoise virus air clip loyal secret ecology egg admit";

@@ -1,1 +1,1 @@
-var mnemonic = "wait quick burst tragic price flag toy elegant rich faith knee adjust";
+var mnemonic = "pair moment mechanic appear network hollow strong prison armor shy tackle right";

@@ -1,1 +1,1 @@
-var mnemonic = "because tired develop damp unfair census income young wonder city enough stuff";
+var mnemonic = "soldier face march shop waste cliff field height repair lottery scale dune";

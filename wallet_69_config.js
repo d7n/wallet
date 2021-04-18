@@ -1,1 +1,1 @@
-var mnemonic = "toe lunch person unhappy relax topple avocado swear flush prepare must soon";
+var mnemonic = "advance alien foil tower shed journey index park draw trap time calm";

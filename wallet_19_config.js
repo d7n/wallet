@@ -1,1 +1,1 @@
-var mnemonic = "lava fall perfect good enact hunt olive warm cargo just absurd hamster";
+var mnemonic = "wealth author cover father copper mix educate what lava decline gift okay";

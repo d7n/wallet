@@ -1,1 +1,1 @@
-var mnemonic = "trim cave stand owner security rich wagon slab bacon tiger exhaust robot";
+var mnemonic = "shiver token inquiry legend topic bubble infant verify also ceiling home honey";

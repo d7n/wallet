@@ -1,1 +1,1 @@
-var mnemonic = "scheme day hole pill kitten salon upset rate merry claim brave borrow";
+var mnemonic = "apple radar pyramid depend behave book suspect prison amount frozen team symptom";

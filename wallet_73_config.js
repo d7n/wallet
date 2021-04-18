@@ -1,1 +1,1 @@
-var mnemonic = "divide chuckle buyer world supreme youth alcohol vanish just simple delay axis";
+var mnemonic = "metal acoustic manage unfold ignore quick trap valid twelve trigger food dry";

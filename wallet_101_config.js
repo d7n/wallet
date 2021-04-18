@@ -1,1 +1,1 @@
-var mnemonic = "hawk air panther tool weather height subject gold total insane sing race";
+var mnemonic = "fringe ramp violin capital convince woman until cake abandon gaze virus timber";

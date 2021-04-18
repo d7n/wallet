@@ -1,1 +1,1 @@
-var mnemonic = "donate elegant nurse six system medal annual daughter walk siren very common";
+var mnemonic = "meat ladder deposit garden mad blush woman pupil sponsor suggest bachelor fit";

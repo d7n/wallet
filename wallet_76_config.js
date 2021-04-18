@@ -1,1 +1,1 @@
-var mnemonic = "topic stadium teach theory melt churn garden beauty ostrich crawl salmon oxygen";
+var mnemonic = "sting where lock adult click pig depth jungle fluid rather skin portion";

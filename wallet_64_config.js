@@ -1,1 +1,1 @@
-var mnemonic = "warrior test pass village anxiety faith number shoot theme run hollow metal";
+var mnemonic = "beef average car finger moon index peace giggle have intact palace crazy";

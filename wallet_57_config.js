@@ -1,1 +1,1 @@
-var mnemonic = "click strong wage grab ball deposit dirt item garbage number hurt stool";
+var mnemonic = "initial retreat admit boss choice language giant offer marble scrap island forum";

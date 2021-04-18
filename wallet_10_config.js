@@ -1,1 +1,1 @@
-var mnemonic = "energy amused leg main analyst angle movie candy clay jacket try wrong";
+var mnemonic = "clog curious spoon drastic mother vague rain banana sight actor another amount";

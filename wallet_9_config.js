@@ -1,1 +1,1 @@
-var mnemonic = "chicken improve sort million hub pepper bleak now account ribbon tumble unveil";
+var mnemonic = "swim online coil evolve silver mass myself ahead cable culture silly festival";

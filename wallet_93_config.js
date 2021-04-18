@@ -1,1 +1,1 @@
-var mnemonic = "latin torch oxygen runway innocent valid author fire fever short joke behave";
+var mnemonic = "virtual monkey science luggage update scrub deputy carry bounce lonely capital bone";

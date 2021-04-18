@@ -1,1 +1,1 @@
-var mnemonic = "tiny room round title hungry raccoon capital rival front require same seed";
+var mnemonic = "nerve decide boring lucky angry quantum enable season angry scatter culture motion";

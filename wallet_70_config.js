@@ -1,1 +1,1 @@
-var mnemonic = "infant property east waste flee latin mandate bridge tiny cargo expire stairs";
+var mnemonic = "mimic unable canoe category recycle shoot obvious fine faith dizzy section asthma";

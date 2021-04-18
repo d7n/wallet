@@ -1,1 +1,1 @@
-var mnemonic = "maple roast orbit attend spell bicycle lemon shed offer orange evolve scrub";
+var mnemonic = "owner poem oxygen fish rack crop maximum pet forward apple rain mystery";

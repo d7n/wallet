@@ -1,1 +1,1 @@
-var mnemonic = "crisp title penalty uphold umbrella add opinion grocery sample phone van nut";
+var mnemonic = "lazy craft just noble pride pulp brick pole that click taste memory";

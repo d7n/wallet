@@ -1,1 +1,1 @@
-var mnemonic = "fluid angle trick grunt swing crazy rack believe boil habit truth saddle";
+var mnemonic = "decide vehicle ice benefit equip issue dumb moment talk father brush charge";

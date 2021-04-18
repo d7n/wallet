@@ -1,1 +1,1 @@
-var mnemonic = "cherry wrist evidence fetch miracle raw ozone card subject legend detail bomb";
+var mnemonic = "cram summer clerk board track field frog cloud spy olympic riot measure";

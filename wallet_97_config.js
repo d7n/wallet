@@ -1,1 +1,1 @@
-var mnemonic = "thought gentle empower champion actual shrug harbor pioneer boss pizza flame vivid";
+var mnemonic = "chimney wealth youth diamond winner carbon plunge drum issue holiday winter lyrics";

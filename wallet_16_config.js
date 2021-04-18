@@ -1,1 +1,1 @@
-var mnemonic = "reduce erode lens powder visual choice lobster fun door section ethics skill";
+var mnemonic = "awake nurse lift sibling oblige conduct upgrade cry mind copy near glad";

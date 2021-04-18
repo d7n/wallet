@@ -1,1 +1,1 @@
-var mnemonic = "enlist step husband twenty pill calm once smile elder burst panel vendor";
+var mnemonic = "torch duty attack frozen bulb call know account profit machine concert dish";

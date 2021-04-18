@@ -1,1 +1,1 @@
-var mnemonic = "motor exhibit visit firm vehicle silver leopard little jeans cool whisper organ";
+var mnemonic = "jewel outer velvet eye gentle decrease pitch demise trim sad pride tissue";

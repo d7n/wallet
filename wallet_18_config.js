@@ -1,1 +1,1 @@
-var mnemonic = "video cereal kangaroo add lesson winner turkey faint powder oppose car belt";
+var mnemonic = "garbage rare two message canoe round govern pull pulse curve bulk million";

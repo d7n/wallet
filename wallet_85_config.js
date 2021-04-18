@@ -1,1 +1,1 @@
-var mnemonic = "buyer economy silk drop wash history place talent inquiry vendor family mad";
+var mnemonic = "jacket disagree purpose found vital velvet tribe happy host illegal exit decline";

@@ -1,1 +1,1 @@
-var mnemonic = "actress cloth kite buddy medal cube physical seed answer draw protect excess";
+var mnemonic = "feature actual ivory indoor coral brain unveil atom drink gallery elevator pass";

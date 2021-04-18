@@ -1,1 +1,1 @@
-var mnemonic = "ticket artist swear cereal spawn phone world neutral clown capital vivid museum";
+var mnemonic = "pink lottery gold tenant define indoor quality victory cup ghost slush once";

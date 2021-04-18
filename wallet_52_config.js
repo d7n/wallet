@@ -1,1 +1,1 @@
-var mnemonic = "surprise disease gospel staff patch ring crop tuition vacuum exile moral sample";
+var mnemonic = "cherry short shoe rough nurse oval employ victory nasty squeeze dash mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "useless mass buzz danger nothing void lock mistake sure rocket creek volcano";
+var mnemonic = "absent drill umbrella follow mountain spice frequent panel behind ramp pave public";

@@ -1,1 +1,1 @@
-var mnemonic = "impose toss chef rent tooth radio raise balance clog lemon credit rigid";
+var mnemonic = "evil field try elephant speed dilemma hero rice ribbon velvet casual misery";

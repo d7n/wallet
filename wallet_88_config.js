@@ -1,1 +1,1 @@
-var mnemonic = "wrap plate submit useful turtle cool slight salmon capital usage outer evil";
+var mnemonic = "front noise fiction avoid deal dry episode tag girl hand minimum left";

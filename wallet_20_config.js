@@ -1,1 +1,1 @@
-var mnemonic = "just click random ride feed mimic certain million tilt shy oblige flip";
+var mnemonic = "skirt weasel mail around limb inform lens hint breeze satisfy feed wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty dove magnet unique tenant kitchen cost sock latin lounge lyrics member";
+var mnemonic = "transfer noise indoor hungry pudding route physical pass holiday kind section inch";

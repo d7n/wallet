@@ -1,1 +1,1 @@
-var mnemonic = "sausage cart wide border laptop diary all purity grass talk priority setup";
+var mnemonic = "stable bitter tornado egg flat color own blade plug whip special smart";

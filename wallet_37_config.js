@@ -1,1 +1,1 @@
-var mnemonic = "short story torch veteran mystery hat link world large hospital outdoor text";
+var mnemonic = "liquid poem goose tongue dance gossip faith ladder unaware session weird force";

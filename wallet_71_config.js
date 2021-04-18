@@ -1,1 +1,1 @@
-var mnemonic = "circle maid arrow manage fatigue wasp ecology raven disease live rail enjoy";
+var mnemonic = "engine daughter define tiger hello also slight rice wink erosion reject barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle cradle apple dwarf dash disagree gadget type during tiny increase lounge";
+var mnemonic = "estate talent sand skull valley upper wave banana fetch tobacco wood curtain";

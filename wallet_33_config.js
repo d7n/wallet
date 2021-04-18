@@ -1,1 +1,1 @@
-var mnemonic = "cereal away between inmate cycle oak enlist hub lazy mesh have tennis";
+var mnemonic = "radio gap undo loan slice oil foot expose viable square hello raise";

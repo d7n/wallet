@@ -1,1 +1,1 @@
-var mnemonic = "fox casino unveil avocado pipe disorder awake faint topple kiss toward bonus";
+var mnemonic = "police clog merge pluck load hamster toward universe quote manage fury kingdom";

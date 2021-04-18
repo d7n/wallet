@@ -1,1 +1,1 @@
-var mnemonic = "major essence forget crystal reveal park spice hospital autumn sample ivory gospel";
+var mnemonic = "catch wheat ice pear clip melt copper bar salt spider fence file";

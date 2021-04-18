@@ -1,1 +1,1 @@
-var mnemonic = "inside express tomorrow acquire protect flat sail hope goat great train have";
+var mnemonic = "spawn alone ivory trigger royal stadium page abuse olympic target payment hobby";

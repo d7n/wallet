@@ -1,1 +1,1 @@
-var mnemonic = "produce youth addict sister absurd salute sun switch dinner engage token only";
+var mnemonic = "kidney vital gas what quote mother target wise label one planet absorb";

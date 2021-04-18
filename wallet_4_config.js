@@ -1,1 +1,1 @@
-var mnemonic = "chunk air panda valley wisdom sport choose food cricket quarter pride vibrant";
+var mnemonic = "blossom solid sustain sorry spice prosper shrug clarify tube clock enough peanut";

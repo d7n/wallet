@@ -1,1 +1,1 @@
-var mnemonic = "limb proud twenty can garage giant remember mushroom tortoise elbow wrist soup";
+var mnemonic = "face hero purity easy click census park pottery unaware defense all hidden";

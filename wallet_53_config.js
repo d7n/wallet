@@ -1,1 +1,1 @@
-var mnemonic = "claw cable secret fragile future tongue airport slab maid unfair inform bus";
+var mnemonic = "stuff reason purchase luggage poem illness list seek decline crash room arrive";

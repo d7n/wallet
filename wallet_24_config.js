@@ -1,1 +1,1 @@
-var mnemonic = "sibling sting echo visual company dolphin trade arrange chair burden salmon crop";
+var mnemonic = "tunnel lake amused sport fish tiger champion gift fruit leopard liar frame";

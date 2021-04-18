@@ -1,1 +1,1 @@
-var mnemonic = "pink problem fitness neutral frog client green erosion own dry scatter banana";
+var mnemonic = "despair shift alien dose fit deposit shoot soccer foster enter tomato cart";

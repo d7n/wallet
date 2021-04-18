@@ -1,1 +1,1 @@
-var mnemonic = "dune train zoo garden supreme aspect save edge canoe over riot hip";
+var mnemonic = "amount able green snap mind gloom decade aim cute burger miss wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse canal random crawl left bicycle crawl deliver coach spray since list";
+var mnemonic = "pond lecture gloom cabin keen hip patrol victory kiwi copy achieve engage";

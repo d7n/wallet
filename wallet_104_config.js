@@ -1,1 +1,1 @@
-var mnemonic = "rebuild suspect pitch input rubber glow skill express wrestle title jazz million";
+var mnemonic = "audit barely belt skill across vital one rebel live coach save sport";
