@@ -1,1 +1,1 @@
-var mnemonic = "have warrior easy judge need citizen nephew style bounce firm cargo mind";
+var mnemonic = "above capital vault bracket chest clean organ pyramid patient cactus elevator throw";

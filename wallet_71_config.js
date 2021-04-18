@@ -1,1 +1,1 @@
-var mnemonic = "scissors night luggage loud prepare sunny craft heart agent entire fever sight";
+var mnemonic = "winter forward slot sun horror remain betray nest doctor august age miracle";

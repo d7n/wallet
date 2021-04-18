@@ -1,1 +1,1 @@
-var mnemonic = "tail romance race stereo antique tired abstract company vivid rent embrace torch";
+var mnemonic = "estate miracle disorder rural problem slot crowd wheel arrange knife win hungry";

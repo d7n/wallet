@@ -1,1 +1,1 @@
-var mnemonic = "marriage render toy pill help real blast horror major differ bring client";
+var mnemonic = "gentle collect offer road special small farm category blur appear film possible";

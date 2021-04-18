@@ -1,1 +1,1 @@
-var mnemonic = "invest crucial dove ugly include young major notice security width sea arm";
+var mnemonic = "about dance salute there phrase entire matter rude wedding wink ability exclude";

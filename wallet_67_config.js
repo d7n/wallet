@@ -1,1 +1,1 @@
-var mnemonic = "crawl recall humble farm life scissors afford vintage legend accuse wild better";
+var mnemonic = "warfare original bamboo abstract minimum disagree mail humble decline prepare filter city";

@@ -1,1 +1,1 @@
-var mnemonic = "wine photo dose angle daughter clay three shiver sunset visa jacket token";
+var mnemonic = "surprise air total category crash found squeeze uncle almost cherry ticket domain";

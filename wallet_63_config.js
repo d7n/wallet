@@ -1,1 +1,1 @@
-var mnemonic = "tilt ask print east length evil sorry book boost ignore exist summer";
+var mnemonic = "argue claim usage claw state glove spend deposit draw zero myth people";

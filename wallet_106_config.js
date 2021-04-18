@@ -1,1 +1,1 @@
-var mnemonic = "deal sibling drama cruise belt conduct refuse pottery deposit harsh whisper dust";
+var mnemonic = "stable federal check canyon antenna outside shallow angry flag left atom broom";

@@ -1,1 +1,1 @@
-var mnemonic = "tower shadow rubber pass plate hope claw east abstract evoke path hedgehog";
+var mnemonic = "dentist caution rich luxury praise load fish resist mixed series rude stove";

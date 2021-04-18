@@ -1,1 +1,1 @@
-var mnemonic = "practice else ship column crane kit toast cheese sugar sting close acoustic";
+var mnemonic = "comic panel frequent layer describe juice disagree gauge rally nose educate vessel";

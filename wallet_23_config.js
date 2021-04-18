@@ -1,1 +1,1 @@
-var mnemonic = "giraffe dune behind trial theme mask gloom blanket sugar awesome purchase lawn";
+var mnemonic = "utility aim ocean someone polar fancy hill match error chair inhale embark";

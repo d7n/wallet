@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon moon truck daughter mercy vessel loop juice title sheriff private rain";
+var mnemonic = "quiz year soup suit around work wrist pull jelly where piece pattern";

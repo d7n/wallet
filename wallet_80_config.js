@@ -1,1 +1,1 @@
-var mnemonic = "wood expire dice morning wonder woman tennis canvas couch fancy clap payment";
+var mnemonic = "hurry year ivory reward once tornado clever neutral throw enough organ sustain";

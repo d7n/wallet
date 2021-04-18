@@ -1,1 +1,1 @@
-var mnemonic = "chest save today waste east act wonder average canal save gorilla flock";
+var mnemonic = "junk bleak scrap tourist picnic turn night faint pelican resist forget thing";

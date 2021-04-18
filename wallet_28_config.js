@@ -1,1 +1,1 @@
-var mnemonic = "salon ensure baby size process proof flip security zone fossil setup skull";
+var mnemonic = "rib legend math attitude category exercise echo aware inhale dumb forward space";

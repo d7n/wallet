@@ -1,1 +1,1 @@
-var mnemonic = "giggle jelly polar plate orchard slender jewel swift spike orange spoil half";
+var mnemonic = "funny hill artefact question coach shed nest miss device machine rifle opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "second domain donor ticket call nature good rice quiz decade gap knock";
+var mnemonic = "hard loud fiscal spawn worry fame elephant diary rebuild breeze identify work";

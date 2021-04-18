@@ -1,1 +1,1 @@
-var mnemonic = "fence girl deposit exhibit multiply cabin misery dilemma upper index off peasant";
+var mnemonic = "praise vault hundred slender into assume tribe home chase cushion catch trust";

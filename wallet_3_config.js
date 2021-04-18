@@ -1,1 +1,1 @@
-var mnemonic = "maze then arrest giant shine share chaos canoe great reform tonight dial";
+var mnemonic = "define energy cable absurd rough champion upper renew clip device abstract zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard renew debris into inspire success grab demise clean couch code until";
+var mnemonic = "someone segment rather media hockey sheriff vague diagram mystery believe boring shield";

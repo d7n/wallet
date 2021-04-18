@@ -1,1 +1,1 @@
-var mnemonic = "march marine win spin pause train rice suit album online sail series";
+var mnemonic = "either afraid have rail shift indicate discover awake cloud donkey law cram";

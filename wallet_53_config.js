@@ -1,1 +1,1 @@
-var mnemonic = "river cake math arrow wait wealth trip deliver cake twenty film common";
+var mnemonic = "age melody today wife bike gift perfect autumn topic priority frown fury";

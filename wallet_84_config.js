@@ -1,1 +1,1 @@
-var mnemonic = "unhappy baby female turkey render punch cruel indoor poem rebel enroll bulk";
+var mnemonic = "dove juice ticket illness double harbor child similar move space wing trend";

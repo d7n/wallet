@@ -1,1 +1,1 @@
-var mnemonic = "also song girl current scissors august analyst cherry change shoot news loan";
+var mnemonic = "diet cereal collect cash blanket vocal vault arm surface hour around near";

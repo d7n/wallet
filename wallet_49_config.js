@@ -1,1 +1,1 @@
-var mnemonic = "liar negative horn chalk alter misery only super build fame excuse head";
+var mnemonic = "record giraffe era coach silly across behave shrimp alarm extra setup rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "index confirm arctic moral model swift brand dismiss anchor army surround pool";
+var mnemonic = "door snap tattoo female kiwi ability keep foil glare furnace husband boring";

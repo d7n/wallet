@@ -1,1 +1,1 @@
-var mnemonic = "diet media mystery action broom slice know faith unknown jeans book neck";
+var mnemonic = "tobacco crew jealous canvas rural valley fluid coin system sea bubble cause";

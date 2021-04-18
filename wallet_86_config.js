@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow sword winter rib almost sudden arm sense destroy silk arrive nut";
+var mnemonic = "liberty clock quiz absurd frozen absorb tomorrow script trick mammal lazy win";

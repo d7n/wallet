@@ -1,1 +1,1 @@
-var mnemonic = "miss issue muscle right glue capable fragile fuel grit equip oil scale";
+var mnemonic = "recipe advance spy quote banana scissors flower gaze mansion speak equip young";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome angle lady still recall gate enrich swear start juice violin february";
+var mnemonic = "give spread frog table weekend smooth surface violin knife rotate digital network";

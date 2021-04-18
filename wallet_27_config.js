@@ -1,1 +1,1 @@
-var mnemonic = "bright bus people crew despair debris harbor arrow sauce chalk net special";
+var mnemonic = "valley wage reflect improve rocket limit critic rebel fetch name concert casino";

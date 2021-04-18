@@ -1,1 +1,1 @@
-var mnemonic = "echo effort cancel session veteran order goddess kid define kid joy squirrel";
+var mnemonic = "master screen thought west moon enough police total story renew front quick";

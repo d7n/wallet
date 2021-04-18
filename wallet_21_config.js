@@ -1,1 +1,1 @@
-var mnemonic = "trap type transfer gospel develop session concert illness danger liar expire mushroom";
+var mnemonic = "slogan young denial wink field change shed diamond payment kiwi try kiwi";

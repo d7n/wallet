@@ -1,1 +1,1 @@
-var mnemonic = "dove want reason transfer broken bless plug observe under pepper kit stove";
+var mnemonic = "make ritual venue doctor industry suggest ethics monitor student pepper bench grab";

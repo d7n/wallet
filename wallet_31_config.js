@@ -1,1 +1,1 @@
-var mnemonic = "twin labor level glide rule vendor alpha act ozone crumble turn call";
+var mnemonic = "artwork sister hire oak private mistake truly movie hair silly output level";

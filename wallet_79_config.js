@@ -1,1 +1,1 @@
-var mnemonic = "flame width pulse vast silk gather imitate option stereo gravity plastic forest";
+var mnemonic = "jungle razor learn peasant mixture tourist peanut scissors combine hair iron lizard";

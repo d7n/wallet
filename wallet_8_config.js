@@ -1,1 +1,1 @@
-var mnemonic = "employ alien clown address grace brisk ecology oblige dog unhappy rebuild bulb";
+var mnemonic = "nest style fortune area worry recall vault share vivid scorpion duty weasel";

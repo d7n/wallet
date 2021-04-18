@@ -1,1 +1,1 @@
-var mnemonic = "ahead artwork can outer happy second exhibit book auction cushion tag mail";
+var mnemonic = "credit team ignore orbit image fever reopen today expire alcohol lumber elegant";

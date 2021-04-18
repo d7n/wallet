@@ -1,1 +1,1 @@
-var mnemonic = "bean midnight breeze account wheat knife forget voice match tortoise dream retire";
+var mnemonic = "alley cricket okay merge lamp tape humble audit smile either feature sausage";

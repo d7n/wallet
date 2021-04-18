@@ -1,1 +1,1 @@
-var mnemonic = "black travel weird brain response blur release hint weather orchard legal shell";
+var mnemonic = "truly race plate myth glow execute remove frog banner culture dinner insect";

@@ -1,1 +1,1 @@
-var mnemonic = "pride oblige fly scare tank square want feature warrior dismiss razor toss";
+var mnemonic = "ticket tiny army heavy gather mountain remind chronic grant bacon leopard egg";

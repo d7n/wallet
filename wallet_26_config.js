@@ -1,1 +1,1 @@
-var mnemonic = "swift borrow spider again tone diet march unknown around luxury ranch candy";
+var mnemonic = "female word explain exact pole obtain regret chef stool sauce kiss faculty";

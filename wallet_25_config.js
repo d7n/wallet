@@ -1,1 +1,1 @@
-var mnemonic = "neck nasty army survey manage student chuckle stamp onion boat dry lazy";
+var mnemonic = "rich output fresh eagle pulp antique lift must snake farm opinion october";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf lonely endorse uncle throw oppose own fine cinnamon chest escape scissors";
+var mnemonic = "exist olympic dune detail uncover slab lift acoustic surround cruise piano strong";

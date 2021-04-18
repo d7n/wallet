@@ -1,1 +1,1 @@
-var mnemonic = "this idle fall smoke city alarm modify tattoo become combine general people";
+var mnemonic = "puzzle rich sleep armed few quit twice chest buyer picnic increase gesture";

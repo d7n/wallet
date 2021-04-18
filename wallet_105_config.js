@@ -1,1 +1,1 @@
-var mnemonic = "banana luggage oxygen blanket neutral door bar square isolate lizard switch erosion";
+var mnemonic = "network clarify wool pear receive never you perfect trash mind dumb banana";

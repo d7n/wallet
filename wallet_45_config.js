@@ -1,1 +1,1 @@
-var mnemonic = "faint cube capital daughter crunch labor census assault love drastic tower athlete";
+var mnemonic = "bargain vocal moon space luxury pen pipe mixture goddess sell boat ocean";

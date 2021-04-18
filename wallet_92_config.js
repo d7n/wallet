@@ -1,1 +1,1 @@
-var mnemonic = "cradle erosion phrase much unknown hobby able judge life pill myself acquire";
+var mnemonic = "maple walk kiss purse around duty spot judge man better thing tag";

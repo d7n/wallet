@@ -1,1 +1,1 @@
-var mnemonic = "ceiling scout vessel volume stumble vapor connect museum erosion process demise average";
+var mnemonic = "bubble script cupboard dutch case squeeze guide gown resource retreat burst zero";

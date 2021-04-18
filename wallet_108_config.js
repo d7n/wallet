@@ -1,1 +1,1 @@
-var mnemonic = "now dune album update air social flush fat cancel biology pipe adapt";
+var mnemonic = "auction depend chaos enter shock prison pilot problem spin six group entry";

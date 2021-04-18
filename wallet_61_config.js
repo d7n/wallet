@@ -1,1 +1,1 @@
-var mnemonic = "town target guess repair salute close asthma toddler feed choose decorate moon";
+var mnemonic = "elder grow umbrella lady puzzle move long globe matrix edge try bachelor";

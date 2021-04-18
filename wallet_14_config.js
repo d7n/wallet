@@ -1,1 +1,1 @@
-var mnemonic = "solid badge fame battle drill grape plug melt siren purse sun author";
+var mnemonic = "harbor dress soccer lunch mother save cupboard lab boss practice chief grab";

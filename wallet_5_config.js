@@ -1,1 +1,1 @@
-var mnemonic = "faith moment fun snack ladder twelve trend six figure slow sentence name";
+var mnemonic = "fade velvet apart bag drift vendor arena member trust again mesh subject";

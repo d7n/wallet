@@ -1,1 +1,1 @@
-var mnemonic = "estate rubber wreck enact sound until culture inherit oven lady cushion seat";
+var mnemonic = "solid viable supreme entry fault check material such balcony stadium bacon defy";

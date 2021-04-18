@@ -1,1 +1,1 @@
-var mnemonic = "rose potato glance fork garlic awesome banner style adapt head park edit";
+var mnemonic = "special clarify switch evil lava grant skate inch air song series derive";

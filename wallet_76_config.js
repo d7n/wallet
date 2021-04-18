@@ -1,1 +1,1 @@
-var mnemonic = "parrot dilemma verb multiply size chimney any pact crystal fatigue fiction pull";
+var mnemonic = "notable camp volcano hint require defy bunker ramp salute health actor virtual";

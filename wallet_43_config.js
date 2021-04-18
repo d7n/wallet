@@ -1,1 +1,1 @@
-var mnemonic = "scheme emerge avoid release rocket garment cradle stock basket obvious bench vibrant";
+var mnemonic = "whisper fly sure diet volume tribe maximum real stadium sock lion tape";

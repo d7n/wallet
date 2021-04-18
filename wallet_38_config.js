@@ -1,1 +1,1 @@
-var mnemonic = "hungry want ripple north width flat pitch essay kind hair someone unaware";
+var mnemonic = "rug odor timber shy album spring diary angle under wet magnet menu";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract domain oblige lift athlete unhappy fee table duck issue coast brick";
+var mnemonic = "attend pulp treat weapon lunch assist climb possible usage involve unit couch";

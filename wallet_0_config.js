@@ -1,1 +1,1 @@
-var mnemonic = "denial boat glue west clarify hair arrow tackle frost accident planet museum";
+var mnemonic = "drum refuse swing penalty convince lazy total fit modify advice amused talent";

@@ -1,1 +1,1 @@
-var mnemonic = "still dove found horn syrup jewel magic outer mule dove tone skate";
+var mnemonic = "credit age arch month suit lava raw true service empower afford protect";

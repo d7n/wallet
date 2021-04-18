@@ -1,1 +1,1 @@
-var mnemonic = "cabin fuel breeze delay swear shed between price neck neither across robot";
+var mnemonic = "bind limb monitor trigger pioneer swim phrase crunch upgrade north maple bid";

@@ -1,1 +1,1 @@
-var mnemonic = "unit race grocery kitchen trouble throw history cloth ranch virtual bacon tiny";
+var mnemonic = "feel vote run climb another normal hurdle into shadow sunset era coil";

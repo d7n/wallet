@@ -1,1 +1,1 @@
-var mnemonic = "distance tennis dutch flee secret crumble shoe invest modify soap lawsuit pigeon";
+var mnemonic = "staff crawl chapter february walnut chaos eagle almost bridge zone bubble whale";

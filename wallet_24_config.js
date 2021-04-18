@@ -1,1 +1,1 @@
-var mnemonic = "purity frost gasp time drastic congress enact key vacuum siren wall reform";
+var mnemonic = "burst erase write receive grass tube great kitten cactus sunset adult educate";

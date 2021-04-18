@@ -1,1 +1,1 @@
-var mnemonic = "engine message panel acoustic balcony demise embark retreat gain evoke guilt surge";
+var mnemonic = "language merge myself hollow deal oil rely ethics alcohol glow suggest guess";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle burden unusual rug thumb army chat gravity avoid grain nation tobacco";
+var mnemonic = "dance floor room cruise hundred discover stereo metal best plunge celery crane";

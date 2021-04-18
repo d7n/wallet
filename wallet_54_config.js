@@ -1,1 +1,1 @@
-var mnemonic = "tip ginger clarify have slice slice ranch either quarter insect daring witness";
+var mnemonic = "other keen wolf armed analyst direct discover genuine allow antique audit farm";

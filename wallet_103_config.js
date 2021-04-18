@@ -1,1 +1,1 @@
-var mnemonic = "spike false rice call egg junior plastic general lift caught cruel owner";
+var mnemonic = "ring tilt myself reject keep current roast element weather early case clean";

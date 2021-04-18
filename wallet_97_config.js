@@ -1,1 +1,1 @@
-var mnemonic = "basic pet invite dignity early dune huge extra budget tongue actress decrease";
+var mnemonic = "badge best room biology source hair myself bag egg tribe inject joke";

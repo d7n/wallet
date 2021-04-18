@@ -1,1 +1,1 @@
-var mnemonic = "hero hard swift drip wire black slogan equip under robot reflect edge";
+var mnemonic = "other crew slight company pass ginger select load reveal helmet still deputy";

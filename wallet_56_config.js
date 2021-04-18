@@ -1,1 +1,1 @@
-var mnemonic = "bulk brush element notice logic treat sell mention hedgehog curious snake cost";
+var mnemonic = "deliver dragon illness guess entire economy chat cram ridge dinner bundle sense";

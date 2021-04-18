@@ -1,1 +1,1 @@
-var mnemonic = "vintage liquid army estate idle detail menu number uncle rescue forget recipe";
+var mnemonic = "lonely when adjust honey acquire obvious solar height session change garden hope";

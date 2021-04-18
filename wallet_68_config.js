@@ -1,1 +1,1 @@
-var mnemonic = "gravity rocket copy repeat return outdoor region chest alpha door damage chalk";
+var mnemonic = "appear cement spray scare reason address planet solve virtual unveil when hybrid";

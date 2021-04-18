@@ -1,1 +1,1 @@
-var mnemonic = "guide finger mesh cream collect surprise dose response mansion good employ dismiss";
+var mnemonic = "uncle fire arrest rose patrol already language noise canyon ghost install spice";

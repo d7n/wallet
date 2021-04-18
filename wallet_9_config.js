@@ -1,1 +1,1 @@
-var mnemonic = "course rescue predict special warfare pilot liquid legend recipe observe level enrich";
+var mnemonic = "injury bounce hero genuine place course august move giraffe network category artist";

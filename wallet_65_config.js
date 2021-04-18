@@ -1,1 +1,1 @@
-var mnemonic = "run gospel nurse six eyebrow day airport business travel keep question arrive";
+var mnemonic = "snake debris crazy brief pattern confirm position age update visit deer awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "team nerve olympic delay animal long ozone subway display recall eternal fabric";
+var mnemonic = "patch creek filter person body increase gold barrel tilt special vanish fan";

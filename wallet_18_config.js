@@ -1,1 +1,1 @@
-var mnemonic = "chunk capital patrol circle loyal make latin need lizard unique scatter purpose";
+var mnemonic = "vast pulp vibrant away educate profit cliff unfair shell crawl fall sand";

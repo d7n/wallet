@@ -1,1 +1,1 @@
-var mnemonic = "battle palm potato famous before heavy absorb family aerobic where edit web";
+var mnemonic = "sense seed embody leader actual diet duty bundle shallow machine alley muffin";

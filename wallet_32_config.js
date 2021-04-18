@@ -1,1 +1,1 @@
-var mnemonic = "boy bundle magic menu mom music corn aunt despair tumble blame flock";
+var mnemonic = "fabric want onion inside woman rent bind fabric derive tuition crazy link";

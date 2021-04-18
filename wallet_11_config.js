@@ -1,1 +1,1 @@
-var mnemonic = "crash axis left effort pole magnet topple spend property rely end grab";
+var mnemonic = "front track blast cheese hybrid pole velvet copy public wall twenty snow";

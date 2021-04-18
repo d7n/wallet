@@ -1,1 +1,1 @@
-var mnemonic = "episode pool problem image endorse caution flame guilt bench segment already phrase";
+var mnemonic = "legend predict alter test depth world will hamster actual tape loan oil";

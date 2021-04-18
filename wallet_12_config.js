@@ -1,1 +1,1 @@
-var mnemonic = "fine lumber field convince comfort ethics girl check warrior coil keep turtle";
+var mnemonic = "shove error panic kiss alter ability absorb inch capable treat entry fat";

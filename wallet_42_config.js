@@ -1,1 +1,1 @@
-var mnemonic = "guess armor build stick path gas income apple believe guess mixed bargain";
+var mnemonic = "warrior link rubber jungle denial chimney rude dog milk slice expect inflict";

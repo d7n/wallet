@@ -1,1 +1,1 @@
-var mnemonic = "twin convince wash trophy depend ahead sniff current vibrant require board author";
+var mnemonic = "sure lens because service neck sphere leopard mixture panel switch valid detect";

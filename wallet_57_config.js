@@ -1,1 +1,1 @@
-var mnemonic = "bone soda vintage sadness prosper hedgehog shoe stadium frog bunker two effort";
+var mnemonic = "lens cattle friend erupt planet sting embody pattern place youth faint quantum";

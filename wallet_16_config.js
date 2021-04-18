@@ -1,1 +1,1 @@
-var mnemonic = "better thank office voyage sense skill trouble merit eye elder female trick";
+var mnemonic = "staff invest fiscal pulp shoe timber smoke first shuffle van tunnel sugar";

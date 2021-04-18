@@ -1,1 +1,1 @@
-var mnemonic = "fiber clarify dad spell various okay jaguar audit elite street manual parent";
+var mnemonic = "keep daring rice net skin spin during episode whip canal silly subject";

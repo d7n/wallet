@@ -1,1 +1,1 @@
-var mnemonic = "coconut pool garden drip vibrant erode eternal client gorilla suspect fossil stamp";
+var mnemonic = "gentle trigger mandate elevator music mushroom satoshi involve now lonely fat load";

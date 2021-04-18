@@ -1,1 +1,1 @@
-var mnemonic = "pig main metal flight text success detail seek famous great wink social";
+var mnemonic = "actual street plunge total wait lazy brother remain color stereo gather certain";

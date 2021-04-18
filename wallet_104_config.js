@@ -1,1 +1,1 @@
-var mnemonic = "milk super spice capital person lens arctic actress bleak pipe wave slogan";
+var mnemonic = "budget special clown snack margin acid ball help genius excess argue diamond";

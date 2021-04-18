@@ -1,1 +1,1 @@
-var mnemonic = "there rail joy borrow radio strategy focus chaos awesome chief card dove";
+var mnemonic = "skin hold lens pencil industry spray knife foil flash symptom walnut unable";
