@@ -1,1 +1,1 @@
-var mnemonic = "page million middle region system antenna knock polar afford still hidden left";
+var mnemonic = "night ski grit load sugar tomato apple weird split collect hunt steak";

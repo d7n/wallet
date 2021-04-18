@@ -1,1 +1,1 @@
-var mnemonic = "remember shoe fall task merry ghost catalog race decrease crack couple black";
+var mnemonic = "timber rifle uncle weapon roast recall entry guide pass fluid victory empty";

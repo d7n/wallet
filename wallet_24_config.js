@@ -1,1 +1,1 @@
-var mnemonic = "one sentence grass climb walk heavy siren they coffee phone cash win";
+var mnemonic = "design utility access lumber south book mutual spider feed miracle hedgehog absent";

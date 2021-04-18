@@ -1,1 +1,1 @@
-var mnemonic = "valve family lion satoshi bunker poet limit burden intact enact device end";
+var mnemonic = "ginger whisper intact toss alter essay false toy apple other cart budget";

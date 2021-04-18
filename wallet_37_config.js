@@ -1,1 +1,1 @@
-var mnemonic = "arena scorpion monster father document crime hurdle bridge capable panther machine member";
+var mnemonic = "deliver garage tag wise match aerobic length frost outer model gown suffer";

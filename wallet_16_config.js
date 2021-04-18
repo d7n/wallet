@@ -1,1 +1,1 @@
-var mnemonic = "abandon honey shock nominee goat that jazz steel pole cage orchard dinner";
+var mnemonic = "repeat infant barrel use barrel path excite pudding sheriff leisure mind mention";

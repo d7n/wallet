@@ -1,1 +1,1 @@
-var mnemonic = "abandon neglect amazing you glue cattle nature oyster mass absorb hedgehog balance";
+var mnemonic = "stock shallow excite train situate spoon friend win scout diagram increase kick";

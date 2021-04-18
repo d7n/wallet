@@ -1,1 +1,1 @@
-var mnemonic = "cruel near disagree purpose film fall sport situate cup decide canyon ignore";
+var mnemonic = "happy mass reveal local razor small book foot tooth lava repeat human";

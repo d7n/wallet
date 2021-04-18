@@ -1,1 +1,1 @@
-var mnemonic = "voice tilt review car mail analyst shed more twelve average impose check";
+var mnemonic = "jewel hammer suspect exist weird shy sponsor despair bench view edge anxiety";

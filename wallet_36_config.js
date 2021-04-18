@@ -1,1 +1,1 @@
-var mnemonic = "provide unable wild hint drift trouble famous acquire range logic turtle february";
+var mnemonic = "cancel slab field have disease ramp original bird repeat life session valve";

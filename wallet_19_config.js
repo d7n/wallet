@@ -1,1 +1,1 @@
-var mnemonic = "mystery shuffle tragic era remind age double shoot skate segment census ostrich";
+var mnemonic = "where reunion dance tuition host trumpet razor guide enable minimum visual detect";

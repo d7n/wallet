@@ -1,1 +1,1 @@
-var mnemonic = "gather lumber crowd plate door able bus venture dignity grace broken apology";
+var mnemonic = "west situate physical kick zone side world wrist element lecture melt photo";

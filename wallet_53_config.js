@@ -1,1 +1,1 @@
-var mnemonic = "fault above enough inmate hope gravity draft magnet hurry bone hollow chase";
+var mnemonic = "surface replace oxygen rice extra food current fatal humor sibling stairs random";

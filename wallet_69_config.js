@@ -1,1 +1,1 @@
-var mnemonic = "arrive village violin come this level thank spoon tip require secret dinosaur";
+var mnemonic = "skirt receive fiscal fortune vehicle step brown dad lizard river bacon plate";

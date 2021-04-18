@@ -1,1 +1,1 @@
-var mnemonic = "virus evolve injury finger bike bundle moon mixture trophy output trim verify";
+var mnemonic = "sure swallow evil maze neglect below joke iron agent chef hen hole";

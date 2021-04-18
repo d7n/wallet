@@ -1,1 +1,1 @@
-var mnemonic = "width exhibit fame pupil modify trust tattoo rent issue prosper example exact";
+var mnemonic = "online photo boss worry during violin expire police endless color elevator rely";

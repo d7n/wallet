@@ -1,1 +1,1 @@
-var mnemonic = "inmate knife ahead cart service exit rebuild exercise barrel spoon screen elegant";
+var mnemonic = "code aspect life coffee culture bleak prize blind table dignity wall change";

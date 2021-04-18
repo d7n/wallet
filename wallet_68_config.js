@@ -1,1 +1,1 @@
-var mnemonic = "where brush gadget dentist stone expand era stem shove erode high drama";
+var mnemonic = "route behind mixed vacuum welcome craft affair exile three toward card visit";

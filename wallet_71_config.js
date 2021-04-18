@@ -1,1 +1,1 @@
-var mnemonic = "page apart steel menu trial divert balcony useful blame tonight wrestle journey";
+var mnemonic = "mad finish setup autumn page unique isolate coach coast raccoon gasp film";

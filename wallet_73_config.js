@@ -1,1 +1,1 @@
-var mnemonic = "dentist salon push include ski excite rotate fix twist expire almost fix";
+var mnemonic = "weird tragic pupil ill april river family sock wool daring input response";

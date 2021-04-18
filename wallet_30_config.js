@@ -1,1 +1,1 @@
-var mnemonic = "faint poem life unique source mosquito warm tank spatial worry surface raccoon";
+var mnemonic = "turn pipe flee order upset brown snap box drip please cook vessel";

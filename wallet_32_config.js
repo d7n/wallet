@@ -1,1 +1,1 @@
-var mnemonic = "aspect tray space payment vast soft beyond total run safe easily consider";
+var mnemonic = "ivory scrap sense cram flat agree sock lamp athlete garment surface oppose";

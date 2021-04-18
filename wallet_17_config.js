@@ -1,1 +1,1 @@
-var mnemonic = "age result enhance correct mouse glow insane all found awesome wish right";
+var mnemonic = "upgrade slogan business become modify search orange sudden inquiry pave flag note";

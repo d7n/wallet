@@ -1,1 +1,1 @@
-var mnemonic = "rude neutral gown trend say ranch bomb tragic balcony term planet strike";
+var mnemonic = "accuse royal habit fantasy neck choose kick absent host exist daring song";

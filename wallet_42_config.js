@@ -1,1 +1,1 @@
-var mnemonic = "season glance approve divert alley barely modify burden embark tuition book oblige";
+var mnemonic = "weird setup treat neck twist silly hungry panther industry parent wheel deposit";

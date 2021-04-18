@@ -1,1 +1,1 @@
-var mnemonic = "neck broccoli pistol one memory pave quality pipe decline nothing spice melt";
+var mnemonic = "stock math patch lend alcohol aisle art piece slim manual drip obscure";

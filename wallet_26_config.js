@@ -1,1 +1,1 @@
-var mnemonic = "simple near dish plate light apart lunar toward hold feature average quarter";
+var mnemonic = "basket treat access high liar fresh please rely bridge resemble merry wave";

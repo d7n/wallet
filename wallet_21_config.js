@@ -1,1 +1,1 @@
-var mnemonic = "chef dry bird tiny mango quit unknown train first idle sort large";
+var mnemonic = "parade volume harbor loud shop write spread food tomato reform add surge";

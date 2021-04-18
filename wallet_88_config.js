@@ -1,1 +1,1 @@
-var mnemonic = "curious zebra grass dwarf uncover fame curve abandon attack cloth avocado know";
+var mnemonic = "divorce shed nose seat humble mail steak gadget junk shallow cricket royal";

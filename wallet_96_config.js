@@ -1,1 +1,1 @@
-var mnemonic = "milk join muffin six cat struggle kick mouse elevator dutch mind exhibit";
+var mnemonic = "today length diamond portion where talk grab survey leopard above rotate parrot";

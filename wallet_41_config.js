@@ -1,1 +1,1 @@
-var mnemonic = "canvas steel ordinary cloud pair cactus early water elite select smile machine";
+var mnemonic = "wave crush motor summer crop never ribbon claim humor nut strong naive";

@@ -1,1 +1,1 @@
-var mnemonic = "cook green acid design victory sphere movie cart desert voyage area feature";
+var mnemonic = "search syrup trade barely zebra more tip rain else demise quarter ritual";

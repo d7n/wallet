@@ -1,1 +1,1 @@
-var mnemonic = "head edit cage sound fatigue puppy whisper bundle design nurse click march";
+var mnemonic = "country collect present lumber range bless cram spin february find essay cat";

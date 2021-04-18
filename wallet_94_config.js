@@ -1,1 +1,1 @@
-var mnemonic = "zero park creek dolphin across delay shadow hub isolate van fever trigger";
+var mnemonic = "hour pizza crystal filter black creek arctic neutral profit leg frozen fiction";

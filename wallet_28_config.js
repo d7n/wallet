@@ -1,1 +1,1 @@
-var mnemonic = "veteran artwork result weather budget thing amount glue remember toddler warfare claw";
+var mnemonic = "final outer shed album victory bike rebuild teach horn leader solution warm";

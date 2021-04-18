@@ -1,1 +1,1 @@
-var mnemonic = "menu weather apart treat gun sad south drama wool echo release derive";
+var mnemonic = "festival neglect salute tray balcony foil table sphere predict stock gaze leave";

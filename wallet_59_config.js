@@ -1,1 +1,1 @@
-var mnemonic = "alpha banner shed immune pool monkey credit win trigger gate abstract parade";
+var mnemonic = "alien busy lobster tired switch beauty point gate salt connect say define";

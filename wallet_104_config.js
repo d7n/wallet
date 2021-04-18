@@ -1,1 +1,1 @@
-var mnemonic = "dawn mouse trim carbon apology liberty topple cricket buzz jelly people biology";
+var mnemonic = "sleep boring guilt despair attitude arm jungle tornado copper poet decide there";

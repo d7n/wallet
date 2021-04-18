@@ -1,1 +1,1 @@
-var mnemonic = "elbow fox vivid until fall flee online castle fetch similar fabric area";
+var mnemonic = "gun toe resource corn lumber govern potato can volcano beef only fancy";

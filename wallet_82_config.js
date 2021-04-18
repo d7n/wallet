@@ -1,1 +1,1 @@
-var mnemonic = "lizard purse claw edit labor vanish royal lawsuit syrup return olympic fatal";
+var mnemonic = "place cricket maid hidden visual cost point time excess bonus antenna casual";

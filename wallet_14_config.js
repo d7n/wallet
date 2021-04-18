@@ -1,1 +1,1 @@
-var mnemonic = "scatter leaf solve pave lonely topple reopen dress actress decline thing honey";
+var mnemonic = "matter tray rotate cereal muscle patrol awesome below install banner okay rice";

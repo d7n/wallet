@@ -1,1 +1,1 @@
-var mnemonic = "pyramid either swift fox thank clog plastic pupil three barely measure identify";
+var mnemonic = "pride outside tobacco sausage year fix hockey spring object correct kitten advance";

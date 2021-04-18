@@ -1,1 +1,1 @@
-var mnemonic = "quote accuse because spray diamond rival fetch crew prefer early uniform snack";
+var mnemonic = "chair tenant adult minute transfer theory cool glass peasant scene poet into";

@@ -1,1 +1,1 @@
-var mnemonic = "since easy smart weekend arrest phone bulb boss lemon label impose hold";
+var mnemonic = "polar drift town expect bunker rack clutch diesel almost initial kitchen smile";

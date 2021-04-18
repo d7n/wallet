@@ -1,1 +1,1 @@
-var mnemonic = "gift jewel today inquiry empower letter mystery force grid brave bomb blush";
+var mnemonic = "present parrot purpose equal uncover arrive country drastic coyote middle garlic core";

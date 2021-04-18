@@ -1,1 +1,1 @@
-var mnemonic = "pizza genius drama diagram civil margin stuff already whale answer stove globe";
+var mnemonic = "scatter spy license extend defense state merry urge gold unknown kick cruel";

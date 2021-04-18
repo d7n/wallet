@@ -1,1 +1,1 @@
-var mnemonic = "eager quit book major soldier cheese this hunt scan shift march cave";
+var mnemonic = "rapid outer genre marriage identify reform post engage input salt rely disease";

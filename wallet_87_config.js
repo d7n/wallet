@@ -1,1 +1,1 @@
-var mnemonic = "audit surface leopard put budget crowd few acid dress gain brisk maple";
+var mnemonic = "urban glove size casual there cream maple honey gorilla crush chef attract";

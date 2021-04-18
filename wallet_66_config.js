@@ -1,1 +1,1 @@
-var mnemonic = "atom switch year torch cable addict panic invite amateur crystal atom reward";
+var mnemonic = "satisfy coral whisper length test raccoon life audit furnace check gesture ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "friend autumn solar risk spider sunny wave jealous height gossip draft vital";
+var mnemonic = "casual cargo depth glide spell topple civil payment profit supply miracle win";

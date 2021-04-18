@@ -1,1 +1,1 @@
-var mnemonic = "skull charge permit myth december chronic cry eager melody found humble lens";
+var mnemonic = "fog conduct simple crop sleep dutch shrug hour trophy velvet scene wise";

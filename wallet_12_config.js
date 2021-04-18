@@ -1,1 +1,1 @@
-var mnemonic = "water robust risk oak dad initial shy elegant dawn message dinosaur rely";
+var mnemonic = "earn good judge uphold stadium only brick essay turkey wait pilot marine";

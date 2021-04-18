@@ -1,1 +1,1 @@
-var mnemonic = "talk auto soap cradle trade time simple behind dance diagram sock degree";
+var mnemonic = "slab kiwi impose puzzle blouse mobile trick south tag apology before puzzle";

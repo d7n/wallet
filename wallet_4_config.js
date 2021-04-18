@@ -1,1 +1,1 @@
-var mnemonic = "there task van earn hub amount museum soap token melody inhale cinnamon";
+var mnemonic = "lab gown because island album slide olympic clump throw nest kitten fault";

@@ -1,1 +1,1 @@
-var mnemonic = "elite exile either kit radio write funny short choice gold hand faint";
+var mnemonic = "lift gesture hire path base organ leopard final van early tired seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "drive unaware assault vacant liberty obvious sorry then stamp half jelly water";
+var mnemonic = "high spice head faculty north street october sausage resource image life bean";

@@ -1,1 +1,1 @@
-var mnemonic = "radar rival effort bachelor soldier piece peace zone net goat fantasy destroy";
+var mnemonic = "misery cradle nature vague fly young ugly fabric giant allow napkin cram";

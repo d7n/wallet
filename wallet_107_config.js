@@ -1,1 +1,1 @@
-var mnemonic = "snap match rose one blind useful april enact brief viable cloth supreme";
+var mnemonic = "shield route bomb analyst novel path pause lab car parade spice dune";

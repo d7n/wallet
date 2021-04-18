@@ -1,1 +1,1 @@
-var mnemonic = "cake glass alone act possible maid siren october climb blossom mass clay";
+var mnemonic = "then bronze write iron arrest emotion maze common arrow eye ginger involve";

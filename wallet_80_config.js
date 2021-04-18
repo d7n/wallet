@@ -1,1 +1,1 @@
-var mnemonic = "trial pizza observe chimney shift album faith comfort message poem argue spend";
+var mnemonic = "proof eye exhibit hope connect dynamic axis teach vague motor profit country";

@@ -1,1 +1,1 @@
-var mnemonic = "grace maze reopen brain garment oven shield motion social fence vacant tilt";
+var mnemonic = "leisure spray rabbit gather tag lawn aim flower undo scan dinner method";

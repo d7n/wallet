@@ -1,1 +1,1 @@
-var mnemonic = "tape eagle box act depend life novel amused swear topic mass depend";
+var mnemonic = "oyster choose wine thunder rug comic hub neutral pistol enable eyebrow film";

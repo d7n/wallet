@@ -1,1 +1,1 @@
-var mnemonic = "job dune hazard input device argue mean shy coast web jewel sail";
+var mnemonic = "welcome orphan thank person cook year network tunnel tiger salute door miracle";

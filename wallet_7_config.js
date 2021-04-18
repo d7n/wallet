@@ -1,1 +1,1 @@
-var mnemonic = "cactus soccer syrup pact mutual skull candy bonus knife orchard wall spend";
+var mnemonic = "twin filter favorite purpose thing monkey century hand sibling pill toss want";

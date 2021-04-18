@@ -1,1 +1,1 @@
-var mnemonic = "equip disagree license ask urban lonely attend clean typical noble rice marine";
+var mnemonic = "border rely payment minimum pelican balance gate hundred outer verb assist label";

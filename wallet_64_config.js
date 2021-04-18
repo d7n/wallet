@@ -1,1 +1,1 @@
-var mnemonic = "exist response champion music teach round bar arctic grain stuff math park";
+var mnemonic = "fantasy mansion timber tomato prosper salute trash remind identify farm drift universe";

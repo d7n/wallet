@@ -1,1 +1,1 @@
-var mnemonic = "weather hurry canvas valley mass wild long diet jeans crop daring olive";
+var mnemonic = "loud aim load vapor leisure alpha glimpse grunt amused stay train brother";

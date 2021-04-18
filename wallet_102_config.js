@@ -1,1 +1,1 @@
-var mnemonic = "object can father plug nerve trigger twin post parade slight matter exile";
+var mnemonic = "winner judge jewel outside coil proof gold urban purpose require spend future";

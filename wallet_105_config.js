@@ -1,1 +1,1 @@
-var mnemonic = "remember betray erosion annual shell slot erode tag over tongue door correct";
+var mnemonic = "describe used ball response arm dirt thrive audit estate code faculty open";

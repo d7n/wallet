@@ -1,1 +1,1 @@
-var mnemonic = "cruel goat shell public dwarf bacon toilet knock hub tag among hollow";
+var mnemonic = "border palace ostrich index magic aspect shadow disease thank loop metal essay";

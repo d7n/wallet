@@ -1,1 +1,1 @@
-var mnemonic = "rail keep silly educate engage post item lamp buzz curtain initial supply";
+var mnemonic = "dinosaur vicious primary measure zoo beach pigeon airport stuff coffee lesson chalk";

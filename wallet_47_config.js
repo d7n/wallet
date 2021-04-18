@@ -1,1 +1,1 @@
-var mnemonic = "dirt frame lady forest monkey village pride problem unit bind poet sport";
+var mnemonic = "sword swamp clown tennis label life coconut aware drum poverty era rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "museum reason knife portion addict drop father portion fragile mention puzzle nothing";
+var mnemonic = "author magic enemy noise brain poet utility decade present poverty control love";

@@ -1,1 +1,1 @@
-var mnemonic = "donor inherit demand quantum wide afraid match tourist fossil cover forest push";
+var mnemonic = "arrive enroll repair stay warrior tell laundry immune romance raw craft slam";

@@ -1,1 +1,1 @@
-var mnemonic = "typical discover rail alone true gift negative off special cloth hill book";
+var mnemonic = "find two goat sketch response strong such wink punch goddess student eagle";

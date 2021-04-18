@@ -1,1 +1,1 @@
-var mnemonic = "fire tongue clarify soccer clump virtual hood volume pigeon secret salmon manage";
+var mnemonic = "explain usual addict senior aspect position shoe slush glimpse fetch syrup gallery";

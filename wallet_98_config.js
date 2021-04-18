@@ -1,1 +1,1 @@
-var mnemonic = "galaxy country marriage prison always worth regular crew fall ten hip notable";
+var mnemonic = "floor chaos write pupil broken novel humble alter lend thought blade melt";

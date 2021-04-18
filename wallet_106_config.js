@@ -1,1 +1,1 @@
-var mnemonic = "right oblige ready army arch rural tip radio more cloud spot dice";
+var mnemonic = "party embark gadget border trash trumpet drastic online bleak fault link draw";

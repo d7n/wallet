@@ -1,1 +1,1 @@
-var mnemonic = "satisfy chalk topic simple couple antenna skate category economy poem foil decrease";
+var mnemonic = "final jar gown diesel release vague bunker today fatal chest social idle";

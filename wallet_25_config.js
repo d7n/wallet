@@ -1,1 +1,1 @@
-var mnemonic = "frog exact certain acquire want chase aim gun robot body weekend usual";
+var mnemonic = "galaxy verify clip egg can since wrong carpet ancient novel announce battle";

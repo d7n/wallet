@@ -1,1 +1,1 @@
-var mnemonic = "census media odor figure protect inspire special sheriff situate spend catalog more";
+var mnemonic = "spot bracket all analyst rely lumber giant inject exclude wasp parent palace";

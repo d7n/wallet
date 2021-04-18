@@ -1,1 +1,1 @@
-var mnemonic = "business ensure friend either arrest gravity strategy item sibling kitten obey merit";
+var mnemonic = "cover wrap width sea toddler metal describe typical help forward buddy moon";

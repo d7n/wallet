@@ -1,1 +1,1 @@
-var mnemonic = "dove pioneer fall trouble pigeon trim buyer helmet arena breeze boil eternal";
+var mnemonic = "captain owner ostrich hidden club first defense apart actress annual good dance";

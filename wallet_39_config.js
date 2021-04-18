@@ -1,1 +1,1 @@
-var mnemonic = "project seven now there taste minute label asthma essence other sure punch";
+var mnemonic = "later debate ghost usual nuclear chair inside defy oblige ready wrong draw";

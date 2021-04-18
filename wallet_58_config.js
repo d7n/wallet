@@ -1,1 +1,1 @@
-var mnemonic = "where clap device sad essence trial combine robot lock gap loan original";
+var mnemonic = "close until joke process alpha million note same logic bulk cry prison";

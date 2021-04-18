@@ -1,1 +1,1 @@
-var mnemonic = "prison enough clerk toilet voyage lunch wood gadget chase unhappy essence siren";
+var mnemonic = "fire job tenant beach cause twist dune popular only walnut month patrol";

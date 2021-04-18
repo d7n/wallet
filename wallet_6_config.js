@@ -1,1 +1,1 @@
-var mnemonic = "juice awake vendor cross theory wolf alone become evil lonely walk palm";
+var mnemonic = "basket cool sheriff heart increase priority ecology useful submit tag engine swear";

@@ -1,1 +1,1 @@
-var mnemonic = "illness truck eternal cross fashion swallow innocent biology scissors royal hip nephew";
+var mnemonic = "private humble grid project risk gesture lecture ancient mountain brass genuine forest";

@@ -1,1 +1,1 @@
-var mnemonic = "unable unlock crash wrestle silver effort wood category resist cross lawsuit arctic";
+var mnemonic = "zoo client simple shoulder total fork inside ordinary domain sign more good";

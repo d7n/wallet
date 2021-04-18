@@ -1,1 +1,1 @@
-var mnemonic = "trade can useless assist void parrot dice labor donor there symptom foam";
+var mnemonic = "hip police silly basic client drive treat model abandon slab dad list";

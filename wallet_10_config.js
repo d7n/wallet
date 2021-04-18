@@ -1,1 +1,1 @@
-var mnemonic = "student clap model concert cabbage enable produce annual tongue erode garage online";
+var mnemonic = "rail proud argue comic cash hole service boost sunny nuclear soup charge";

@@ -1,1 +1,1 @@
-var mnemonic = "define father excuse laptop unlock indoor misery concert dentist fade curious vehicle";
+var mnemonic = "right climb proof play wall helmet essence element satisfy today yard fat";
