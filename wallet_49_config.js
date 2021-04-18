@@ -1,1 +1,1 @@
-var mnemonic = "ivory decide depart hollow torch valve tornado couch game pottery shoulder beyond";
+var mnemonic = "price silly candy assume muscle submit vanish miss half basket add mandate";

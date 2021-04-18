@@ -1,1 +1,1 @@
-var mnemonic = "despair dignity what lady remove service maze mix uphold crop enter top";
+var mnemonic = "program blanket fetch trick say satoshi shield junk purchase brown wheat any";

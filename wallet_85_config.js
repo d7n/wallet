@@ -1,1 +1,1 @@
-var mnemonic = "lobster flag plug trim federal cruel airport banner trash good useless wall";
+var mnemonic = "erase pistol typical palace artefact carbon amazing walnut edge panther nurse cheap";

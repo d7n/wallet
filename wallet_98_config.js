@@ -1,1 +1,1 @@
-var mnemonic = "original robot armor orbit tunnel endless drastic option pave swarm maze boil";
+var mnemonic = "winner twin inflict autumn picnic tip usage devote rebel prevent tool twice";

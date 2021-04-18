@@ -1,1 +1,1 @@
-var mnemonic = "pluck need journey oil snap sleep cliff learn harbor margin trouble rice";
+var mnemonic = "option auction term visual obscure exhibit ordinary tonight era enable detail alter";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy elevator venue elephant later exotic turtle slogan return expect lend rose";
+var mnemonic = "common shrug limb photo frog relief tenant slim over analyst tobacco stomach";

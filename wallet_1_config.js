@@ -1,1 +1,1 @@
-var mnemonic = "skull child auto joy abuse awake multiply donor monitor deposit hunt liquid";
+var mnemonic = "labor thunder river payment aware shield more anger car planet draft surface";

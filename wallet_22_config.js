@@ -1,1 +1,1 @@
-var mnemonic = "glance fortune mixture danger life seat stand student nut already panic push";
+var mnemonic = "case ritual build pass scare sudden glide affair hotel alien exchange umbrella";

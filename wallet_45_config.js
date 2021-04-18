@@ -1,1 +1,1 @@
-var mnemonic = "way tourist spell vacant inject mushroom virtual dinosaur sausage walk bottom excess";
+var mnemonic = "ostrich online body gossip dragon fatal omit clump venture jump hawk invest";

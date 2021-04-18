@@ -1,1 +1,1 @@
-var mnemonic = "either weird best become mandate twice oil harsh ancient deny fruit video";
+var mnemonic = "fit agent tiger account drink empower brown trigger tackle gun shoe increase";

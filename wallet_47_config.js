@@ -1,1 +1,1 @@
-var mnemonic = "bomb repair escape review ensure region step cricket around inform wedding describe";
+var mnemonic = "hospital odor match horror champion suit clever near various learn pulse travel";

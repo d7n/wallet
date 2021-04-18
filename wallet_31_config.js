@@ -1,1 +1,1 @@
-var mnemonic = "resist sponsor link stamp drink aware body cinnamon bundle alpha ticket wall";
+var mnemonic = "luggage tornado timber now rule garden sugar dilemma solution shy yellow devote";

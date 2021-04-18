@@ -1,1 +1,1 @@
-var mnemonic = "vote upset left know hour man alter simple bone chaos round hat";
+var mnemonic = "version thought evil park autumn kid lift immune glare that risk orange";

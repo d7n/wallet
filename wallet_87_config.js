@@ -1,1 +1,1 @@
-var mnemonic = "crystal potato hedgehog there marble jewel fox blood gentle debate wrong truck";
+var mnemonic = "egg legend book art unit hamster believe genuine face come relief child";

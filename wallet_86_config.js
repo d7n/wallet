@@ -1,1 +1,1 @@
-var mnemonic = "income reopen system slow acquire bullet boy prepare reform ritual middle tonight";
+var mnemonic = "suspect merry flat auto column mansion sort wealth hazard web toddler insane";

@@ -1,1 +1,1 @@
-var mnemonic = "wire custom improve father excess genuine embrace basic fortune verb excite lift";
+var mnemonic = "destroy west clinic cave injury tank live include flag adapt item crunch";

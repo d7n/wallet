@@ -1,1 +1,1 @@
-var mnemonic = "climb save appear disease effort cancel festival tank cup disorder noise season";
+var mnemonic = "angry gossip satisfy volcano erupt bird boat charge pulp kitten insect produce";

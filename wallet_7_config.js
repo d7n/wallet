@@ -1,1 +1,1 @@
-var mnemonic = "club hair once liar head sheriff glass edge shrimp feature brown mutual";
+var mnemonic = "author season like tunnel cat point anxiety faint great mechanic crop entire";

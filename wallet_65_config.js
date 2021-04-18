@@ -1,1 +1,1 @@
-var mnemonic = "void dragon produce divorce timber bubble change napkin chef cereal tail reopen";
+var mnemonic = "harsh inflict blind vault twin move amused crucial crowd upgrade session female";

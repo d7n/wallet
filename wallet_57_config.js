@@ -1,1 +1,1 @@
-var mnemonic = "require fancy beef decade badge baby pluck demand curious excess stay copy";
+var mnemonic = "vicious column guess actual upper east firm split strong argue fall follow";

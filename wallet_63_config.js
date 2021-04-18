@@ -1,1 +1,1 @@
-var mnemonic = "dash goddess excite brave shoulder library turtle innocent junk hungry dynamic toddler";
+var mnemonic = "danger engine pull term various plastic scheme guide market elbow system museum";

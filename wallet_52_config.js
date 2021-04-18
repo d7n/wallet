@@ -1,1 +1,1 @@
-var mnemonic = "buffalo scrap subway vivid scale multiply coin grace parrot whisper ball story";
+var mnemonic = "yard cruise bone list wrist flower snap moral lab myself dawn ball";

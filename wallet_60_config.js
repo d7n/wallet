@@ -1,1 +1,1 @@
-var mnemonic = "walk erode reduce parrot announce save crunch address toddler draw limb invest";
+var mnemonic = "grass leaf lava dance cream sing end sadness fringe rhythm grain globe";

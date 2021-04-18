@@ -1,1 +1,1 @@
-var mnemonic = "select damp merry dynamic pull evil museum travel bread ceiling deputy suspect";
+var mnemonic = "nice bacon sword shiver nurse film marriage crunch ignore giggle visit ahead";

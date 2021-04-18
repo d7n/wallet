@@ -1,1 +1,1 @@
-var mnemonic = "faint slot common ugly dress face dial garden other lunch peanut gap";
+var mnemonic = "lemon settle road copy aim green effort doll female turn analyst fuel";

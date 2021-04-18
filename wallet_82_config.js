@@ -1,1 +1,1 @@
-var mnemonic = "vehicle stadium neck donkey twelve sound sheriff excess trend flip tourist dumb";
+var mnemonic = "differ resist poverty glide fold vendor tiny banana various nominee melody pepper";

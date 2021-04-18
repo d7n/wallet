@@ -1,1 +1,1 @@
-var mnemonic = "rebel glimpse hedgehog little dinosaur cherry fat soldier crystal afford found planet";
+var mnemonic = "silver total deliver monster narrow owner aerobic bar scrap current rebuild melt";

@@ -1,1 +1,1 @@
-var mnemonic = "drive upper cheese load animal echo chimney ranch hurry intact around innocent";
+var mnemonic = "side capable penalty aerobic insect trumpet you advance auction offer traffic awesome";

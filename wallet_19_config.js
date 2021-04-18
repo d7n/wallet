@@ -1,1 +1,1 @@
-var mnemonic = "seminar chunk decade weapon session tired charge choose lava solve burst ride";
+var mnemonic = "cotton jealous canvas position major flower sure excuse final offer grocery enjoy";

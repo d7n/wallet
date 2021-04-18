@@ -1,1 +1,1 @@
-var mnemonic = "window either filter spoil tomato diamond hotel replace custom divorce cricket engage";
+var mnemonic = "congress pulp world perfect appear knock process minimum pumpkin broken narrow source";

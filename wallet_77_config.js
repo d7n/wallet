@@ -1,1 +1,1 @@
-var mnemonic = "pattern exotic muffin horror minute zebra trim manage silent split question awkward";
+var mnemonic = "degree gospel awesome refuse rigid maple knife slot brisk major rail person";

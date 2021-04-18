@@ -1,1 +1,1 @@
-var mnemonic = "chat airport ready foam flame copper swear volcano fix own december weather";
+var mnemonic = "ridge bright apart slice hidden aisle draft brisk wall rose gift coral";

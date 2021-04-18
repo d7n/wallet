@@ -1,1 +1,1 @@
-var mnemonic = "finger below repair banner sadness square ordinary shuffle chest ball weapon will";
+var mnemonic = "clog clip purchase hole motion buyer online cradle talk run fury fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "toy grunt control safe ball puzzle own photo salt coral umbrella ceiling";
+var mnemonic = "consider ahead dose river unable tone guitar sheriff math horror sentence shift";

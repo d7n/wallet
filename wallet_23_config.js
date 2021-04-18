@@ -1,1 +1,1 @@
-var mnemonic = "maple oven exclude army gasp danger immune proud same double food vast";
+var mnemonic = "caution zoo clown vintage swim taste eternal language safe unaware stuff drop";

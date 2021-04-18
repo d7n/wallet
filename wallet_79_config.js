@@ -1,1 +1,1 @@
-var mnemonic = "mango venture dawn raise escape frozen detail across rhythm result flee siege";
+var mnemonic = "sunny rate name napkin top portion unhappy mechanic level zebra hat slot";

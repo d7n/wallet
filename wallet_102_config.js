@@ -1,1 +1,1 @@
-var mnemonic = "quote wet blush skin waste end sibling maid exile multiply cannon response";
+var mnemonic = "stable trumpet kitchen blame oblige brief sting genuine alcohol young unable season";

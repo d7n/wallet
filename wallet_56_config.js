@@ -1,1 +1,1 @@
-var mnemonic = "possible film volume code spring actual split cycle bunker act share small";
+var mnemonic = "funny model oblige degree they okay satoshi task shuffle taste enough barrel";

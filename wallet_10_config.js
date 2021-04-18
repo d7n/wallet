@@ -1,1 +1,1 @@
-var mnemonic = "vicious frozen taste poet stove begin subway universe lumber update wide attend";
+var mnemonic = "dawn deposit fun judge glimpse dial holiday noodle layer vintage pave magic";

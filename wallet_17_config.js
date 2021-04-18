@@ -1,1 +1,1 @@
-var mnemonic = "bike energy eyebrow border helmet season fiscal acquire slogan swamp verify bitter";
+var mnemonic = "swim gaze subway undo knock nest truth royal liar mistake extend blame";

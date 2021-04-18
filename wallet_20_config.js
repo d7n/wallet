@@ -1,1 +1,1 @@
-var mnemonic = "toddler awesome horn before head burger daughter van code install smoke fee";
+var mnemonic = "poem pluck organ try fish main swear scissors fuel flash arrange steak";

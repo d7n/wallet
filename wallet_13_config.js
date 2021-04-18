@@ -1,1 +1,1 @@
-var mnemonic = "point tray mixed soup aware bulb nephew genre reduce couch pond hour";
+var mnemonic = "latin broom empty crop issue awesome zone foam drive smile clutch bid";

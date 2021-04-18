@@ -1,1 +1,1 @@
-var mnemonic = "visa room void senior minor edit visa renew jaguar obscure embody arena";
+var mnemonic = "tower library moon company vault mandate brown recall good jelly pony poem";

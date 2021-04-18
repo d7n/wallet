@@ -1,1 +1,1 @@
-var mnemonic = "raccoon april clap resist combine case attack alley brand together reason lesson";
+var mnemonic = "square unusual father physical shine cave maximum immense surprise never unhappy feel";

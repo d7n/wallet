@@ -1,1 +1,1 @@
-var mnemonic = "subject wink range differ boy month announce latin dash pilot pigeon large";
+var mnemonic = "bacon trial resource moral glad monkey april lecture math stadium pigeon gym";

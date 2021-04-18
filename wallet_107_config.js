@@ -1,1 +1,1 @@
-var mnemonic = "taste family mosquito safe shaft crawl corn swing buffalo hundred engage blanket";
+var mnemonic = "abandon brand upgrade soda trip inherit myself federal frozen melt category diet";

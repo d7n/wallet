@@ -1,1 +1,1 @@
-var mnemonic = "title elbow course symptom army body mad gas garage install base reflect";
+var mnemonic = "control jungle near grid fetch second guard cave digital unveil device hurt";

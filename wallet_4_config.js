@@ -1,1 +1,1 @@
-var mnemonic = "embrace aware rate toss current loyal marble hurdle short stick mention lonely";
+var mnemonic = "mountain walk actor easily student select energy have confirm virus board audit";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest blossom spell debris bitter tonight powder seek glare that gorilla weasel";
+var mnemonic = "female brush proud brush head wrist shoot rubber illness crime steak walk";

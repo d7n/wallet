@@ -1,1 +1,1 @@
-var mnemonic = "limit honey warfare chest meat depart smooth spike hero metal tornado check";
+var mnemonic = "plastic famous mouse trick protect lyrics oak impulse miracle treat comfort latin";

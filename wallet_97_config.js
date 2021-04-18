@@ -1,1 +1,1 @@
-var mnemonic = "ripple spike receive trade caught vital pole jar mandate mean carpet skull";
+var mnemonic = "young quantum garlic middle inch rough coral wave sun machine valve toy";

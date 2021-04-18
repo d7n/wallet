@@ -1,1 +1,1 @@
-var mnemonic = "term pistol ritual february nephew toy guitar answer chunk oval gas outer";
+var mnemonic = "seat deer wolf ahead invite anchor ocean green dismiss curious park capital";

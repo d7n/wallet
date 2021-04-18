@@ -1,1 +1,1 @@
-var mnemonic = "seek term quantum slush negative birth rice autumn badge moral chimney drastic";
+var mnemonic = "chair unit snap foil base remind guess twist glue fruit tiger fire";

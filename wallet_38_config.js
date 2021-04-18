@@ -1,1 +1,1 @@
-var mnemonic = "diet pig goddess actress entire diary loud canoe animal advice lumber uniform";
+var mnemonic = "warm floor slam garlic noble able useless butter write spirit regret nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "okay patch know undo foam rifle boost damage begin busy lyrics tackle";
+var mnemonic = "enhance box december vocal material charge govern syrup gas odor page engine";

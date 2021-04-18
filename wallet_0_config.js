@@ -1,1 +1,1 @@
-var mnemonic = "girl then control effort pencil eyebrow battle satisfy giraffe black puzzle beauty";
+var mnemonic = "once board top caught napkin fog hair fatigue joke wood service produce";

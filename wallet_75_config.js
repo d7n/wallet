@@ -1,1 +1,1 @@
-var mnemonic = "brush worth hip region ritual jazz fabric text receive acquire dial huge";
+var mnemonic = "post hotel finger decrease exile harsh apart sketch husband luggage purse history";

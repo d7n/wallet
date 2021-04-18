@@ -1,1 +1,1 @@
-var mnemonic = "squeeze once canvas zebra february auction october remind share blanket jeans outdoor";
+var mnemonic = "chicken oxygen angle egg couple hazard news dream inject please plug pluck";

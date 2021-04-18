@@ -1,1 +1,1 @@
-var mnemonic = "swing orient pond rebuild onion river sweet manage oven rookie lock own";
+var mnemonic = "crumble use general behave morning burden sense goose become junk make laugh";

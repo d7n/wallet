@@ -1,1 +1,1 @@
-var mnemonic = "visa pluck afford easily elephant drive card poem pride dog pistol rival";
+var mnemonic = "make chat fog message result destroy flush pig employ february artwork health";

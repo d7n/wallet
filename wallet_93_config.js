@@ -1,1 +1,1 @@
-var mnemonic = "build lunch hub noise garlic myth moment right toy armed mystery bone";
+var mnemonic = "device thank flower click trigger argue snack guitar quality fiction victory when";

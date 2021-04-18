@@ -1,1 +1,1 @@
-var mnemonic = "crack example target twin girl miss scrub table sibling bright narrow ask";
+var mnemonic = "work select foam village erase liquid rich song welcome attract summer tourist";

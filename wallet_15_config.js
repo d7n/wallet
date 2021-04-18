@@ -1,1 +1,1 @@
-var mnemonic = "example muscle remain soup fashion confirm logic fruit dragon unit increase pottery";
+var mnemonic = "recycle month height job thing blossom canvas possible assist correct project smart";

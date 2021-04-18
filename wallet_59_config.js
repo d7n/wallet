@@ -1,1 +1,1 @@
-var mnemonic = "motor tail final effort tomato breeze public salute tennis dwarf between unfold";
+var mnemonic = "burden float fun giggle second betray learn more thank tomato pottery fringe";

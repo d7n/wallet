@@ -1,1 +1,1 @@
-var mnemonic = "uncover shrimp float harbor opinion jungle post intact outdoor fancy setup often";
+var mnemonic = "quick real lobster jaguar diagram market view surprise size glance alcohol clap";

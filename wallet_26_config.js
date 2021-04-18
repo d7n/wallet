@@ -1,1 +1,1 @@
-var mnemonic = "patient muffin melody three uncover era ball sugar sing daughter pulp potato";
+var mnemonic = "mosquito shoot case drift soup trial brown exist end artist medal equip";

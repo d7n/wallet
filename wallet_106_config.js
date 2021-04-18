@@ -1,1 +1,1 @@
-var mnemonic = "sell skirt seven veteran gospel toddler inch wet input aim sister actual";
+var mnemonic = "caution indicate snap can bean uphold number zebra evil when bottom jump";

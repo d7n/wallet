@@ -1,1 +1,1 @@
-var mnemonic = "metal energy light crouch spin warrior aerobic payment scene bubble point raise";
+var mnemonic = "sphere tag embody fury wink guitar increase topic soda unfold robot next";

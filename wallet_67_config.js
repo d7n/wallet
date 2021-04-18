@@ -1,1 +1,1 @@
-var mnemonic = "baby lamp behave torch service access oppose slim twin crystal subway tube";
+var mnemonic = "taxi mail network wood breeze such tag earn video all skull advice";

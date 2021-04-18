@@ -1,1 +1,1 @@
-var mnemonic = "noodle kit dilemma dilemma belt assume half avoid twin connect world used";
+var mnemonic = "slot cargo tattoo table wear silent betray father jazz plunge enrich veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "defense wrap angle large uncover address riot doctor like unveil all child";
+var mnemonic = "anchor lake scare supreme cool reject ankle hockey fun motor royal hero";

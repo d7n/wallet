@@ -1,1 +1,1 @@
-var mnemonic = "exclude great call forum original click leave already cruel veteran excite next";
+var mnemonic = "weather rent short cost siege setup render pulp sugar erode design usual";

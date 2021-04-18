@@ -1,1 +1,1 @@
-var mnemonic = "close accuse story employ glance slender deal job exhibit isolate claw window";
+var mnemonic = "dizzy brother practice roof recycle stomach taste sad dial knock immune cement";

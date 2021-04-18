@@ -1,1 +1,1 @@
-var mnemonic = "slice ribbon ostrich escape aunt genius gym person smooth assist park famous";
+var mnemonic = "miss humor candy dentist since crew weird romance slab filter punch fancy";

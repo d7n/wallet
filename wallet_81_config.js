@@ -1,1 +1,1 @@
-var mnemonic = "gloom zero script matter shield soul village alarm hybrid usage spy elephant";
+var mnemonic = "decade leg price abuse crawl funny nice shy path umbrella steak loud";

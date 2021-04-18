@@ -1,1 +1,1 @@
-var mnemonic = "accident intact want enough mouse lizard metal young magnet noise degree hard";
+var mnemonic = "west fringe custom flock myth delay curtain elevator fun ribbon cluster develop";

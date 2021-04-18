@@ -1,1 +1,1 @@
-var mnemonic = "calm enlist shed eyebrow grief avocado dwarf tip leisure manual trumpet end";
+var mnemonic = "when same broccoli eager cushion sleep awake weapon mutual mixed defy foot";

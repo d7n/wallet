@@ -1,1 +1,1 @@
-var mnemonic = "between around aisle amateur casual embrace champion result ginger leader pool rival";
+var mnemonic = "source pitch home sad bottom extra orchard daring middle eagle primary honey";

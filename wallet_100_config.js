@@ -1,1 +1,1 @@
-var mnemonic = "audit suggest apple reveal roast morning mimic decade canyon jewel fall they";
+var mnemonic = "nature air badge local put cheap empty diet primary wagon announce degree";

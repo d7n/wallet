@@ -1,1 +1,1 @@
-var mnemonic = "pyramid test impulse other across hybrid pretty ship glue uncover hub bullet";
+var mnemonic = "village wheel print laptop occur trumpet unfair say inflict juice clock finish";

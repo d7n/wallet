@@ -1,1 +1,1 @@
-var mnemonic = "fuel daring antenna gasp begin maid expose ordinary sail theory opinion sea";
+var mnemonic = "shove vehicle true royal icon salmon route vacant deputy loud razor logic";

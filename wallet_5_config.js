@@ -1,1 +1,1 @@
-var mnemonic = "puppy juice cotton acquire correct initial canvas lake private survey electric license";
+var mnemonic = "acoustic pair mercy predict feel mixed crack glue arena dawn nation shrimp";

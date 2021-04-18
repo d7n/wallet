@@ -1,1 +1,1 @@
-var mnemonic = "outer news hospital buyer predict bachelor stadium hawk relax mushroom local coconut";
+var mnemonic = "robot label wink leader swap car unable ramp nose wreck suffer figure";

@@ -1,1 +1,1 @@
-var mnemonic = "say observe shine okay vessel pave now rifle brass kite build blame";
+var mnemonic = "wrist office sick exclude reflect artist hover exist suit round quick left";

@@ -1,1 +1,1 @@
-var mnemonic = "box mother elevator arm accident cloth siren three never flavor hire source";
+var mnemonic = "drill capable early twist evolve embody oil rebuild stone test skin random";

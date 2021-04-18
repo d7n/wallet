@@ -1,1 +1,1 @@
-var mnemonic = "syrup nut north render rural grow bitter record quantum banner tilt veteran";
+var mnemonic = "leader yellow indicate culture mobile solution claw false hidden during stadium tortoise";

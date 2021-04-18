@@ -1,1 +1,1 @@
-var mnemonic = "congress review stem subway wet month village wrap devote myself female ankle";
+var mnemonic = "regret brave pyramid slender melt yard fossil busy hair style deal bag";

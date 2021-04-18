@@ -1,1 +1,1 @@
-var mnemonic = "brief reward sting mercy fun chest ahead client advice lock cream kick";
+var mnemonic = "room diagram task gun firm egg honey soon consider net juice memory";

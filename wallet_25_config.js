@@ -1,1 +1,1 @@
-var mnemonic = "upset pelican bamboo gas help certain worth deliver address bomb attend script";
+var mnemonic = "army river giggle document park combine pistol include together abandon puzzle cotton";

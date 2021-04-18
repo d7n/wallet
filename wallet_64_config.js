@@ -1,1 +1,1 @@
-var mnemonic = "jealous world sun obscure girl dignity tumble rhythm barely alert unveil wonder";
+var mnemonic = "icon attract height swarm office require south sorry social aerobic night armor";

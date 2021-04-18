@@ -1,1 +1,1 @@
-var mnemonic = "video retreat route senior license duty oven under until afford ankle crush";
+var mnemonic = "trade armor cross pitch long grit cheese eight choose prize bean give";
