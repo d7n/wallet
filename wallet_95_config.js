@@ -1,1 +1,1 @@
-var mnemonic = "marble vanish tennis wild segment first struggle lamp abuse update tired point";
+var mnemonic = "away aspect fat nuclear mystery also obscure repeat cute satoshi monster gaze";

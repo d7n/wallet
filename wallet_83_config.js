@@ -1,1 +1,1 @@
-var mnemonic = "angry oxygen then pioneer average legal argue glad rely pilot side milk";
+var mnemonic = "horse salute away shed slow front opera dial floor glue all like";

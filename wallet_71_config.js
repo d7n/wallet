@@ -1,1 +1,1 @@
-var mnemonic = "cage enrich buffalo lab artist grocery any drive truck elite view giraffe";
+var mnemonic = "truly surprise such match thank soap young glove stand empty faith vendor";

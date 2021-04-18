@@ -1,1 +1,1 @@
-var mnemonic = "earth wedding rose usage song alter shop online fringe monitor diagram sport";
+var mnemonic = "journey couch satoshi border voice style hurry moon couple answer census avoid";

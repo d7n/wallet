@@ -1,1 +1,1 @@
-var mnemonic = "lounge betray weasel matter deer cart minimum cruise sleep avocado pattern pear";
+var mnemonic = "stuff zebra share adjust symbol cross blood ginger hurdle hammer physical gun";

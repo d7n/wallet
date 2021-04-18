@@ -1,1 +1,1 @@
-var mnemonic = "tennis cream frame phone arrive swarm squirrel dial remember empower omit play";
+var mnemonic = "predict erode control unfold lamp inspire wave grain dinosaur shove garage will";

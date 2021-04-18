@@ -1,1 +1,1 @@
-var mnemonic = "say injury win agent conduct forum match humor economy deposit arrest document";
+var mnemonic = "bullet unit victory blood beyond body life way magnet congress trigger scale";

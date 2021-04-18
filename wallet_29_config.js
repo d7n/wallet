@@ -1,1 +1,1 @@
-var mnemonic = "upon food begin egg order bridge hen toe must olympic hero bean";
+var mnemonic = "estate awesome custom cousin mountain matter vote fashion capable dizzy weapon canal";

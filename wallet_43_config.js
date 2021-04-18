@@ -1,1 +1,1 @@
-var mnemonic = "roof economy duck silly soccer next false service slot crack tenant negative";
+var mnemonic = "deputy found road such clip amount regular skirt crack luxury found predict";

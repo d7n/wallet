@@ -1,1 +1,1 @@
-var mnemonic = "inform sock sphere hover amount vessel tenant quantum giggle mean soft olive";
+var mnemonic = "aisle accuse twice visit sadness desert video track mirror sport traffic whip";

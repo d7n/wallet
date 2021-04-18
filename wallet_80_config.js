@@ -1,1 +1,1 @@
-var mnemonic = "merry torch volume number pyramid sick choose salmon juice rival indicate knee";
+var mnemonic = "club fame rival say critic casino lift whale song pipe dinosaur next";

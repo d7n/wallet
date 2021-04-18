@@ -1,1 +1,1 @@
-var mnemonic = "seat boss snack subway army pitch story inside kitten when candy bubble";
+var mnemonic = "trip original jelly mom identify advance drink labor face steel quarter wisdom";

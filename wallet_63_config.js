@@ -1,1 +1,1 @@
-var mnemonic = "gospel pitch filter various deposit genuine congress measure key woman apple hedgehog";
+var mnemonic = "cover video fat phone long base help major battle marine off pattern";

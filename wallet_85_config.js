@@ -1,1 +1,1 @@
-var mnemonic = "tent south dish cereal surprise satisfy bacon bulk bus actress coffee ensure";
+var mnemonic = "refuse oak salt arrest choice profit suit imitate mechanic foam employ taxi";

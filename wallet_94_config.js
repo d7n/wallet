@@ -1,1 +1,1 @@
-var mnemonic = "grocery toddler wealth announce cook green bird explain connect hood insane decline";
+var mnemonic = "humor timber usual blind barely soldier juice oil gentle junk flavor genuine";

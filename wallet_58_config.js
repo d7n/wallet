@@ -1,1 +1,1 @@
-var mnemonic = "pool canyon various tank present strategy inmate wear damage hint glory room";
+var mnemonic = "vehicle bleak leisure room angry mobile place lucky call fruit famous people";

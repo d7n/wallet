@@ -1,1 +1,1 @@
-var mnemonic = "animal hockey observe rice emotion tribe net jar hip raccoon razor patient";
+var mnemonic = "gasp jelly pony indicate major dash yellow carpet carry supply bracket galaxy";

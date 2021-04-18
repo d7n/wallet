@@ -1,1 +1,1 @@
-var mnemonic = "expire success siren visa brisk myself first there happy trust slow forget";
+var mnemonic = "wealth phone soda ability sunset naive lamp output dry anger machine flush";

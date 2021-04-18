@@ -1,1 +1,1 @@
-var mnemonic = "direct depth model antique lend say make segment rural tribe chimney carpet";
+var mnemonic = "visual muffin early uniform hybrid sunny spell canal learn scale gate edge";

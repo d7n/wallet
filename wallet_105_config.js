@@ -1,1 +1,1 @@
-var mnemonic = "have escape very nominee eagle habit plate enrich network shield orient reason";
+var mnemonic = "vapor tell scorpion argue kiss sweet head carpet wild latin box when";

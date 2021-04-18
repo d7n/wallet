@@ -1,1 +1,1 @@
-var mnemonic = "syrup inner kitten live child defy awake quiz alert smart dirt bonus";
+var mnemonic = "myself hub master local figure seminar reflect insane banana stay rack prepare";

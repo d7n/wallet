@@ -1,1 +1,1 @@
-var mnemonic = "during debate pause rent region carry ecology owner curtain vast wear immense";
+var mnemonic = "sad quit buzz where misery else hover evidence silk earth print airport";

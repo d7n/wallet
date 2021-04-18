@@ -1,1 +1,1 @@
-var mnemonic = "fatigue ostrich sphere van loyal rule enroll guilt town umbrella already you";
+var mnemonic = "robot stick cheese decide cycle sick thing muffin access absurd fat gallery";

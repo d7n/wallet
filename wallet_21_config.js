@@ -1,1 +1,1 @@
-var mnemonic = "oil secret load excess silver volcano kit work coconut infant cover afford";
+var mnemonic = "guide disagree write evidence sing buzz tired toast detect turkey core dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "tail erosion trumpet benefit come tree junior refuse obtain nephew blade indicate";
+var mnemonic = "amateur intact response divert rival shop sibling mixture twenty coin damp job";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol video goddess sentence ball bulk proud sphere avoid indoor eye element";
+var mnemonic = "artefact like tired nose rescue pitch mutual soldier use enforce drink ship";

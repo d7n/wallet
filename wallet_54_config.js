@@ -1,1 +1,1 @@
-var mnemonic = "lion escape pass melt upgrade excuse fresh skull finger apple broken general";
+var mnemonic = "finger burger useful year solid across myth gap skate claim father left";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely blood census noodle rich bridge shy congress echo snake clown pause";
+var mnemonic = "category ski kit involve airport property hat advance word crisp cannon omit";

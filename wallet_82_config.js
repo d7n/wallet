@@ -1,1 +1,1 @@
-var mnemonic = "very doctor armor save lecture crush era wheat wage job fit bubble";
+var mnemonic = "admit diamond nest empower orphan concert pig account penalty hybrid bronze crazy";

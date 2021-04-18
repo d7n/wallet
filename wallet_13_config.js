@@ -1,1 +1,1 @@
-var mnemonic = "bird six shoot job civil ball joy word horn mirror speak silly";
+var mnemonic = "morning wrong frozen second prepare weird fresh ramp void bitter clog trap";

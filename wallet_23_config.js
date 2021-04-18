@@ -1,1 +1,1 @@
-var mnemonic = "siren canal oil renew device ethics mixture place unaware target junk volcano";
+var mnemonic = "beauty include tray soap stomach chief drift never leopard coast stock borrow";

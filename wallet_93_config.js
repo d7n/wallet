@@ -1,1 +1,1 @@
-var mnemonic = "drum debris faint seminar will wage install category oppose wood cover fall";
+var mnemonic = "happy property raccoon engine stadium guilt pottery rent door end banner laugh";

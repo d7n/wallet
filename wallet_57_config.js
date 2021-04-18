@@ -1,1 +1,1 @@
-var mnemonic = "ozone winter trouble clump youth fish police suit twist candy liar float";
+var mnemonic = "brain unhappy deer dismiss hawk welcome wagon cousin such nurse fiscal pledge";

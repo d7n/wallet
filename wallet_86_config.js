@@ -1,1 +1,1 @@
-var mnemonic = "bone swift trick million thing jacket zero video celery midnight mango ocean";
+var mnemonic = "pyramid manage seven sand garage bullet erode smoke crowd child timber resist";

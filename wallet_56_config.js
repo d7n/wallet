@@ -1,1 +1,1 @@
-var mnemonic = "uncle total exercise sausage roast caution salad frequent element banner finish umbrella";
+var mnemonic = "obtain tobacco weekend load immense bubble typical melody orbit neglect stadium coin";

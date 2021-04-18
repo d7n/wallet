@@ -1,1 +1,1 @@
-var mnemonic = "liberty weapon inform curve enforce vintage drum crime fatal hammer ankle velvet";
+var mnemonic = "loud corn define badge toy ancient session economy marine praise blame intact";

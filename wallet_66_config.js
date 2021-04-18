@@ -1,1 +1,1 @@
-var mnemonic = "prefer patrol measure custom vacant unveil year alien movie grant chaos nice";
+var mnemonic = "path kiwi crop mule sustain father mango group inside about quiz jazz";

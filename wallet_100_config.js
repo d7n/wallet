@@ -1,1 +1,1 @@
-var mnemonic = "hammer merry kick loop camera picnic organ funny child swift raccoon imitate";
+var mnemonic = "pill quote check brain fossil risk scale solar scheme vendor trap winner";

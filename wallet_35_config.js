@@ -1,1 +1,1 @@
-var mnemonic = "horror awkward security load lecture crop beyond miracle subject broom silent economy";
+var mnemonic = "view hunt demand bless human near charge top ask sauce crew tray";

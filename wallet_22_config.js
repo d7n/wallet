@@ -1,1 +1,1 @@
-var mnemonic = "demise crouch fashion scene garden charge hub inquiry divide flat become update";
+var mnemonic = "tone jungle waste okay achieve prosper boy horn donor review squirrel rival";

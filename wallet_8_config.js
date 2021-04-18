@@ -1,1 +1,1 @@
-var mnemonic = "aunt adult filter feed sponsor decline success wait fame impose gorilla coyote";
+var mnemonic = "hen alter enter together pole meadow shaft genius mosquito maple enough cluster";

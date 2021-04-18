@@ -1,1 +1,1 @@
-var mnemonic = "amused estate panel under illness fatigue protect amateur try cat alter rich";
+var mnemonic = "protect among vendor edge tilt comfort bronze squeeze work this cancel borrow";

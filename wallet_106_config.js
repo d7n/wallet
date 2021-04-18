@@ -1,1 +1,1 @@
-var mnemonic = "useful elephant subject flip perfect poet knife cry stand very shallow marriage";
+var mnemonic = "city fat space exhibit country rain barely album please gravity thrive catch";

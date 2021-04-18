@@ -1,1 +1,1 @@
-var mnemonic = "link exotic table awake genre alarm whisper spare fitness dial hair discover";
+var mnemonic = "dose garden patch hint all eyebrow caution fox test melt sight length";

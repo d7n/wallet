@@ -1,1 +1,1 @@
-var mnemonic = "choose human then pepper wasp winner author husband valley govern donkey gain";
+var mnemonic = "evil brand wrestle report wrap damage bottom demise nature inject few bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "between field dose merge fossil dry trouble six prison tonight convince swallow";
+var mnemonic = "belt steak ring save brain visit mimic coil clown game shove horse";

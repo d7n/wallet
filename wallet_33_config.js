@@ -1,1 +1,1 @@
-var mnemonic = "rely flash defense genius pave doll discover endless mention tunnel rude verify";
+var mnemonic = "improve latin main ancient famous beauty now achieve scene pattern finish bundle";

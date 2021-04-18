@@ -1,1 +1,1 @@
-var mnemonic = "second huge cherry bitter add save script catch napkin fluid announce asthma";
+var mnemonic = "gold damage cake drill hint spread ignore absurd switch embrace muffin spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "spread index token climb final east sorry source index loan cream scare";
+var mnemonic = "blue cherry swear fade cost dinner orient solar vague alley tissue job";

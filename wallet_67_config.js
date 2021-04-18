@@ -1,1 +1,1 @@
-var mnemonic = "yellow path ostrich fruit cloth certain group fatal sustain skill state giant";
+var mnemonic = "innocent empower unhappy tourist celery roof rent satisfy entire have vivid glove";

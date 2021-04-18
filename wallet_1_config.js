@@ -1,1 +1,1 @@
-var mnemonic = "food reveal nest aspect cube awake helmet travel crew afford sheriff fluid";
+var mnemonic = "own world dolphin any shift parent provide rival planet plate coconut retire";

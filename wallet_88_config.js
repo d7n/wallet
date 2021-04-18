@@ -1,1 +1,1 @@
-var mnemonic = "response river naive swift leopard curtain robust axis account inhale coin shoe";
+var mnemonic = "wide kid calm donor error flee pact behind valley sword retreat such";

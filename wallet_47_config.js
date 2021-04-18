@@ -1,1 +1,1 @@
-var mnemonic = "home luxury sustain wisdom rose ahead until castle equal proud wink expire";
+var mnemonic = "waste ability vital auto awesome brown tilt draft main hill kidney solve";

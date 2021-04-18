@@ -1,1 +1,1 @@
-var mnemonic = "thank used parent pilot fruit twelve giant axis game ball public mansion";
+var mnemonic = "alone guitar fork true quantum immune tray flip will grab truck envelope";

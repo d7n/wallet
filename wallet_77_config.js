@@ -1,1 +1,1 @@
-var mnemonic = "educate injury inquiry quality rich fancy nominee add cup forward tray attract";
+var mnemonic = "hair clever inquiry supreme token runway left gift sound tragic canvas bunker";

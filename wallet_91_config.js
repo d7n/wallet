@@ -1,1 +1,1 @@
-var mnemonic = "exact great logic thing grief unhappy cousin home pulse craft liquid cook";
+var mnemonic = "raise document spy dignity obvious poet anchor relief perfect choice rescue online";

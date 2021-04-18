@@ -1,1 +1,1 @@
-var mnemonic = "recall word forward traffic jazz drastic swift soft consider border tent base";
+var mnemonic = "dice there grief cheese castle long put task move once wide robot";

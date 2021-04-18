@@ -1,1 +1,1 @@
-var mnemonic = "hero drink bird repair web surface truck stem receive police dad second";
+var mnemonic = "toe anger stem trumpet divide shoe february there debris two plate lemon";

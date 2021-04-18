@@ -1,1 +1,1 @@
-var mnemonic = "pipe loop profit victory level lounge demise wire easily sunset pull gadget";
+var mnemonic = "category hole clever volcano crouch fame october crucial town topple forum shell";

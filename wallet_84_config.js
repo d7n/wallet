@@ -1,1 +1,1 @@
-var mnemonic = "absurd panda cram basket glare aunt face into cigar ancient gauge speed";
+var mnemonic = "unable globe vicious knee breeze weekend dish indoor kitchen water someone dish";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor close proof target return senior quote thing toward ramp divide puzzle";
+var mnemonic = "wolf pen vibrant lecture balance blush write pear humble lucky type hire";

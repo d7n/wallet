@@ -1,1 +1,1 @@
-var mnemonic = "staff core silly awful destroy barrel vault ripple genuine pet team hold";
+var mnemonic = "ginger board three enlist fitness slush opera forest renew link antenna truly";

@@ -1,1 +1,1 @@
-var mnemonic = "produce they misery brain chronic divide lonely ability number render enrich regret";
+var mnemonic = "six spike dismiss around club slam farm more fox segment mother drama";

@@ -1,1 +1,1 @@
-var mnemonic = "also produce tumble abstract curtain speed weasel wait rebuild pledge author loud";
+var mnemonic = "draw creek group oxygen whale miss game health crater aware describe then";

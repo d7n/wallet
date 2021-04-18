@@ -1,1 +1,1 @@
-var mnemonic = "sting portion athlete economy tube disorder major onion admit pact evolve absurd";
+var mnemonic = "summer crush soup file puzzle insect shock buyer similar boil exact average";

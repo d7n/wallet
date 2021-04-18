@@ -1,1 +1,1 @@
-var mnemonic = "excess example rival color small jacket beyond spoil behind unit boost hour";
+var mnemonic = "garlic elephant pull innocent drop cute wise parade wish annual trap rocket";

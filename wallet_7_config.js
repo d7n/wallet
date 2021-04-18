@@ -1,1 +1,1 @@
-var mnemonic = "crowd kitchen cousin horse easily nasty intact lake cradle loud tennis mind";
+var mnemonic = "jealous task never together short will actual clay work next galaxy issue";

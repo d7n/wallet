@@ -1,1 +1,1 @@
-var mnemonic = "run canvas then blast cabin tag solar door grain blue despair desk";
+var mnemonic = "summer click inject style sword situate velvet stone edit hire enjoy harvest";

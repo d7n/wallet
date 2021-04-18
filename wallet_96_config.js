@@ -1,1 +1,1 @@
-var mnemonic = "enroll code daring vendor injury design cloud bounce hundred embrace crunch piano";
+var mnemonic = "okay fringe disagree young eyebrow miracle annual produce dose match warrior web";

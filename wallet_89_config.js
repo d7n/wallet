@@ -1,1 +1,1 @@
-var mnemonic = "garage ordinary culture lab toy sudden volcano wrist rapid camp earth opera";
+var mnemonic = "excite churn lecture fence average abstract analyst mobile axis shrimp quantum tray";

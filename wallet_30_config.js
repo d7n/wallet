@@ -1,1 +1,1 @@
-var mnemonic = "question skin grow describe winner enlist future occur mutual quick silly clump";
+var mnemonic = "deer food dress knock sleep push tongue warfare creek oblige tattoo toy";

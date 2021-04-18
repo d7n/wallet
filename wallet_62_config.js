@@ -1,1 +1,1 @@
-var mnemonic = "pottery tag clinic today scene boy habit join found thank demise car";
+var mnemonic = "split empower erase soccer worth voyage scale special curtain web reopen basket";

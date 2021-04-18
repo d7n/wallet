@@ -1,1 +1,1 @@
-var mnemonic = "tell blossom sand there canyon cable diet atom mushroom arrange force dish";
+var mnemonic = "blue blade rather guilt sunset add quarter flat trust train wolf woman";

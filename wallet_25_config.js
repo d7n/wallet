@@ -1,1 +1,1 @@
-var mnemonic = "world mad bracket sorry talent useless soldier client exercise soap fury dog";
+var mnemonic = "viable ski myself water mad health day board phone topple fault shallow";

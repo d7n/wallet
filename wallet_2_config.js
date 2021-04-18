@@ -1,1 +1,1 @@
-var mnemonic = "news strong cannon actress subject more fancy half brick home pattern pride";
+var mnemonic = "winner mosquito away useless face since amateur advice pull fame strategy drama";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer door notable aisle fluid recycle also trust vapor just jump correct";
+var mnemonic = "equip time reform educate magnet refuse deputy bless trade miss blanket old";

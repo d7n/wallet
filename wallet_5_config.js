@@ -1,1 +1,1 @@
-var mnemonic = "maze animal case penalty warrior chuckle hen wall nice problem toddler juice";
+var mnemonic = "slight exist twist bullet ask donkey betray distance powder render alter choose";

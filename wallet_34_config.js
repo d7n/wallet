@@ -1,1 +1,1 @@
-var mnemonic = "siren solid girl stamp honey slot merry monkey wheel quarter begin front";
+var mnemonic = "below like forum twenty until burger girl brand twin prevent icon quiz";

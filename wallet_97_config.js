@@ -1,1 +1,1 @@
-var mnemonic = "silent case project omit fluid miss end program price alarm twelve reduce";
+var mnemonic = "guess fix once island embark define bread print cave tattoo ball cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "behave dirt morning hour sweet stove develop crawl option confirm spirit attitude";
+var mnemonic = "predict million goose recipe mom expose success chicken pipe chair fatal able";

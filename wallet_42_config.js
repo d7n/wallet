@@ -1,1 +1,1 @@
-var mnemonic = "seed slam evolve hunt renew icon idle alert sail cupboard dilemma local";
+var mnemonic = "drum among cement ceiling badge feel eyebrow skull regret final chapter ability";

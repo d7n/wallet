@@ -1,1 +1,1 @@
-var mnemonic = "inhale wise bicycle wool smoke exhaust scale police pulse book hood flush";
+var mnemonic = "idle degree tower birth arrest soon group negative sail leave message economy";

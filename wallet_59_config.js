@@ -1,1 +1,1 @@
-var mnemonic = "demand phone urban comic weird slide slice fly adapt seed sentence chase";
+var mnemonic = "table race odor pulp tortoise series disease alarm auction dolphin slight grow";

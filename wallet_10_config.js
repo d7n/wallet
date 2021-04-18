@@ -1,1 +1,1 @@
-var mnemonic = "cabin scan galaxy page health try mandate near master cable magic tide";
+var mnemonic = "flock waste stand want cheese vehicle riot loud wood turkey letter coyote";

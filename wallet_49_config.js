@@ -1,1 +1,1 @@
-var mnemonic = "stamp weasel search polar prize disease ten virtual wise gap trophy desert";
+var mnemonic = "shallow decline differ kite kind neglect liberty crunch shrug stem turtle project";

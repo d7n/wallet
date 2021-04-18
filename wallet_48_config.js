@@ -1,1 +1,1 @@
-var mnemonic = "absent diet permit horse vapor visual hill vessel reform bunker among sand";
+var mnemonic = "three lizard suggest nut alcohol goddess vessel vintage soul claw hazard column";

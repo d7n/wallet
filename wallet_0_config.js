@@ -1,1 +1,1 @@
-var mnemonic = "main lift suspect catch good enforce setup rabbit gorilla cruise rally tide";
+var mnemonic = "worry diet notice robust alarm coin worry metal fatal asthma doctor ordinary";
