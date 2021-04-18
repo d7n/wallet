@@ -1,1 +1,1 @@
-var mnemonic = "canyon debris pelican chapter oblige clutch ostrich prefer increase rate early bundle";
+var mnemonic = "floor inmate harbor oyster matter clinic chef judge border elegant short nest";

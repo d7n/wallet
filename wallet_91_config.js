@@ -1,1 +1,1 @@
-var mnemonic = "foil season submit analyst assault exercise bamboo idea excess alter cluster horn";
+var mnemonic = "defy icon ladder address unhappy physical seed suspect arm reward frost list";

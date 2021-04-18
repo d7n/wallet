@@ -1,1 +1,1 @@
-var mnemonic = "document mouse survey blast entire arch avocado weekend real wait brown pause";
+var mnemonic = "shy blue gas vapor busy shop victory cheese poverty nasty stand midnight";

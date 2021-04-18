@@ -1,1 +1,1 @@
-var mnemonic = "rival peasant virtual window chest combine glue horn bridge unique arrange harsh";
+var mnemonic = "inform tray flash swift field utility cart scrub banner depart sorry dash";

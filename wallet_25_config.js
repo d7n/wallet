@@ -1,1 +1,1 @@
-var mnemonic = "voice chapter main drift venue property ten smile inform between vehicle nephew";
+var mnemonic = "frown sand oyster armor update supply garlic task one video original urge";

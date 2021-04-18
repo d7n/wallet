@@ -1,1 +1,1 @@
-var mnemonic = "potato nothing elephant craft soup rookie escape kingdom conduct flame column awesome";
+var mnemonic = "oval soap lawsuit spirit minor invite van private near diary edge about";

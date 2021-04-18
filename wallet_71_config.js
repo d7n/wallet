@@ -1,1 +1,1 @@
-var mnemonic = "fun bring primary grant dose purpose horn motion crowd legend dismiss mixture";
+var mnemonic = "tape annual rescue wet replace syrup often general struggle web dog foster";

@@ -1,1 +1,1 @@
-var mnemonic = "message door devote dove town tape jealous video sock depth detail employ";
+var mnemonic = "spin upper forum select song scrap lunch impact van wink bulk rabbit";

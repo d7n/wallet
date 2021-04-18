@@ -1,1 +1,1 @@
-var mnemonic = "nasty small present whale police half dinner bring subway earth wet apology";
+var mnemonic = "odor bundle scorpion task salt weather swear labor laugh under aisle quick";

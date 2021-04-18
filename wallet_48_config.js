@@ -1,1 +1,1 @@
-var mnemonic = "wreck cup poet also remove into frequent curve luggage method skull hat";
+var mnemonic = "such donor base neglect tackle blossom rule race title predict canyon mobile";

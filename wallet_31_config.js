@@ -1,1 +1,1 @@
-var mnemonic = "leisure digital color secret capital you cricket math call rely crack vendor";
+var mnemonic = "jeans rack rigid catch canoe spirit rookie angle resource dawn boil blade";

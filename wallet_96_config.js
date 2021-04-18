@@ -1,1 +1,1 @@
-var mnemonic = "burger menu fan file setup mandate elegant fossil pilot dose rail vapor";
+var mnemonic = "adjust assault assist daughter february laundry iron arctic word muscle junior stem";

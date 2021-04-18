@@ -1,1 +1,1 @@
-var mnemonic = "rebuild net where nest return reform stomach mask deposit public you attitude";
+var mnemonic = "decorate annual angle remain bamboo fitness shrimp engage goddess auction potato weird";

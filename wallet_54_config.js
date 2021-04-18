@@ -1,1 +1,1 @@
-var mnemonic = "curious admit bitter uphold record echo chest outer fork logic shift open";
+var mnemonic = "enact milk feature gown sauce poet jazz school recycle drift current leisure";

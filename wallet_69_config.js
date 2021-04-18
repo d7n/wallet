@@ -1,1 +1,1 @@
-var mnemonic = "empty abandon gasp island latin honey woman manage power birth source brand";
+var mnemonic = "field diet discover volcano quit moral addict eight sorry combine glance fix";

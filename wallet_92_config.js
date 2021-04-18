@@ -1,1 +1,1 @@
-var mnemonic = "sell wheat diesel amazing borrow shy magic stem suffer rotate icon convince";
+var mnemonic = "depth gentle quit hidden rival switch maid milk stock cute kit dumb";

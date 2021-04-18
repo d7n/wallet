@@ -1,1 +1,1 @@
-var mnemonic = "magnet kind disorder rebuild aisle chief lens puzzle eye pool scatter ankle";
+var mnemonic = "plate neck vivid wrist filter proud quit rookie opinion beef impose wife";

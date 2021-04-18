@@ -1,1 +1,1 @@
-var mnemonic = "festival ribbon hybrid road engage globe dragon float gain response credit glue";
+var mnemonic = "bubble reason cousin female horn brass silent scout mutual rescue urge attend";

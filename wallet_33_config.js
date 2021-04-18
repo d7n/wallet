@@ -1,1 +1,1 @@
-var mnemonic = "student stick unfair since basic fashion split base void error label domain";
+var mnemonic = "occur pink child come dash naive grass exist merge stand large grace";

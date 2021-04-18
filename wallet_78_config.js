@@ -1,1 +1,1 @@
-var mnemonic = "boy afraid diary clutch gossip vital balance hobby fantasy evoke tourist window";
+var mnemonic = "sense gossip style oil civil food law slice desert quantum equal royal";

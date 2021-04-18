@@ -1,1 +1,1 @@
-var mnemonic = "bread logic manage smile property grow dust six public feed inherit hurdle";
+var mnemonic = "profit side witness rebel soup parent help master what claw elite choose";

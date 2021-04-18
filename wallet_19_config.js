@@ -1,1 +1,1 @@
-var mnemonic = "juice length human girl depth section example exile caught choice envelope rail";
+var mnemonic = "surround kite road core kiss balance time copy praise whale snow final";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom hazard pudding manage train offer crew price stable design member coral";
+var mnemonic = "embrace cigar liberty supply stumble layer guide card pass wave dizzy quote";

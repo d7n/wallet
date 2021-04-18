@@ -1,1 +1,1 @@
-var mnemonic = "imitate swallow alcohol book install response jar huge beyond cruise engage captain";
+var mnemonic = "cushion rocket legal style card coin notice that work mad sunny govern";

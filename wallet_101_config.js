@@ -1,1 +1,1 @@
-var mnemonic = "mechanic two load blood before develop sniff distance piano firm pride reason";
+var mnemonic = "record rival jazz wrong process health jelly wife hobby develop sting stereo";

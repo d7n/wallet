@@ -1,1 +1,1 @@
-var mnemonic = "robot range lawsuit divert cancel swim license weapon office attend gentle rough";
+var mnemonic = "jump toilet cloth ethics rifle filter upon dragon ankle people talent antenna";

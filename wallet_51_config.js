@@ -1,1 +1,1 @@
-var mnemonic = "bamboo choose ensure actual noise subject erosion message title squeeze spend name";
+var mnemonic = "lens glass subject number fruit hero dance cradle fossil point credit shallow";

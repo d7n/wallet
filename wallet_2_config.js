@@ -1,1 +1,1 @@
-var mnemonic = "drip summer disagree album luxury mail fluid attend dog burst crane club";
+var mnemonic = "either brave village into process sniff access loan avocado cable false woman";

@@ -1,1 +1,1 @@
-var mnemonic = "earth worry orbit medal seven cloud flight attend decade opinion regular wink";
+var mnemonic = "soon humor earth bus lobster scan afraid differ young can warfare habit";

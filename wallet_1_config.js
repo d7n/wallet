@@ -1,1 +1,1 @@
-var mnemonic = "tag fun snow obvious defense two forget wise mimic grid sunset minimum";
+var mnemonic = "match vanish law govern scale junior sure food ride half throw keen";

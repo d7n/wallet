@@ -1,1 +1,1 @@
-var mnemonic = "adapt front gate august fit boss kite tag cushion rookie public merit";
+var mnemonic = "tone ten talent gain swing since author rich egg exist access goddess";

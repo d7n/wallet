@@ -1,1 +1,1 @@
-var mnemonic = "reform chapter relief test detail twenty choice noise what lend animal kiss";
+var mnemonic = "echo rack nation novel tonight concert skull envelope tuna state eyebrow boil";

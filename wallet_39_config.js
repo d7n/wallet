@@ -1,1 +1,1 @@
-var mnemonic = "unable human erosion thought job banana divide tray pond valid credit crane";
+var mnemonic = "ahead talk family canyon security master rookie sibling era service cheese funny";

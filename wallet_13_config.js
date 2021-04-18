@@ -1,1 +1,1 @@
-var mnemonic = "betray term poet topple furnace piece ordinary control repair prosper choose mistake";
+var mnemonic = "amateur vivid online young vibrant zoo prize humor bring dawn angle cloud";

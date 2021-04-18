@@ -1,1 +1,1 @@
-var mnemonic = "trophy hip major cream mix win object science flip tag place shoot";
+var mnemonic = "entire clog beyond waste that glare siege intact bring degree ketchup engage";

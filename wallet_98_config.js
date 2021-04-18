@@ -1,1 +1,1 @@
-var mnemonic = "monkey fringe salmon pumpkin party scorpion angle burger kite parrot kid clinic";
+var mnemonic = "race work drip edit remember zoo exchange resource tunnel loud shift about";

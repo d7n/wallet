@@ -1,1 +1,1 @@
-var mnemonic = "bike slice sphere half material rhythm canal sound earn tower flavor drum";
+var mnemonic = "vehicle right park estate skill kind employ wisdom quantum frog artist penalty";

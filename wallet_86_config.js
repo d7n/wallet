@@ -1,1 +1,1 @@
-var mnemonic = "organ zebra desk track foot kick job craft warfare game hold car";
+var mnemonic = "decide tone powder camp armor emotion cradle cruise like labor wide retreat";

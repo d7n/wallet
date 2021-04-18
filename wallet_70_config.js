@@ -1,1 +1,1 @@
-var mnemonic = "win anchor catch swap delay vehicle swing logic slender throw fault genius";
+var mnemonic = "prize bomb slim pyramid raise junk submit nuclear remove grace elder chief";

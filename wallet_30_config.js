@@ -1,1 +1,1 @@
-var mnemonic = "vintage useful butter coral tortoise add enforce happy next race worth exercise";
+var mnemonic = "inner report horse cage spray hospital submit corn canyon power breeze cotton";

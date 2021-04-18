@@ -1,1 +1,1 @@
-var mnemonic = "elephant rapid find bridge obvious two click fine upon ahead length regret";
+var mnemonic = "later athlete core post help universe roof card wool address dash media";

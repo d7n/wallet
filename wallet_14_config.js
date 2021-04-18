@@ -1,1 +1,1 @@
-var mnemonic = "dash budget beach tank describe flower elbow monster monster tourist depend click";
+var mnemonic = "injury raise boat below dirt isolate piece spoil only monster base drill";

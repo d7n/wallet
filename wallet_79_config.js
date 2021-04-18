@@ -1,1 +1,1 @@
-var mnemonic = "feel frost dignity panic during jar hollow spell maid crash air fee";
+var mnemonic = "exhibit feed thing wealth welcome judge weasel pig tired odor vibrant gas";

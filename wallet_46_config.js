@@ -1,1 +1,1 @@
-var mnemonic = "name believe misery poem arrange attend decline job clinic almost ring immense";
+var mnemonic = "task case expand version hold decade curtain upset issue please radar about";

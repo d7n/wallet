@@ -1,1 +1,1 @@
-var mnemonic = "describe again shove target chunk spell leg fork craft laundry trip float";
+var mnemonic = "vicious echo future remind few pencil waste embody blossom also hat regular";

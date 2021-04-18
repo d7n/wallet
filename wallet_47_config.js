@@ -1,1 +1,1 @@
-var mnemonic = "drive token satisfy crime beach craft joke dinosaur earn cherry cupboard resemble";
+var mnemonic = "youth empower shadow coffee program during small design prepare face energy way";

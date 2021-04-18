@@ -1,1 +1,1 @@
-var mnemonic = "thumb clinic donate broom senior tray home always ensure dwarf vicious pig";
+var mnemonic = "assault climb orient family mango slide cat clever weather foot hard advice";

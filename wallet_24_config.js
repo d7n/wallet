@@ -1,1 +1,1 @@
-var mnemonic = "sing hobby picnic relax athlete under board same taste update small write";
+var mnemonic = "hat health reunion measure save huge traffic fiber bubble danger economy physical";

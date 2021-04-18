@@ -1,1 +1,1 @@
-var mnemonic = "adult vicious furnace carry base tackle whale enough peace merge swift around";
+var mnemonic = "side afford poem tissue farm sting drift strike prize attitude cement crumble";

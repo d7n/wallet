@@ -1,1 +1,1 @@
-var mnemonic = "true stable entire isolate scout card step need rather frost crop message";
+var mnemonic = "destroy suspect real random tragic similar unlock thought barely blast crew oven";

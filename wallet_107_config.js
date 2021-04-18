@@ -1,1 +1,1 @@
-var mnemonic = "report pyramid price snake square donor gauge random small typical okay property";
+var mnemonic = "critic tattoo slice dumb fame slight century turtle defy wall record recall";

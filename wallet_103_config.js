@@ -1,1 +1,1 @@
-var mnemonic = "buzz evolve secret moral warfare know frame dinner ritual enrich casino piece";
+var mnemonic = "ice position entire caught shock dream trim keen merry fetch leg stage";

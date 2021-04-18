@@ -1,1 +1,1 @@
-var mnemonic = "glimpse inform rare knee enter above example traffic echo midnight together toast";
+var mnemonic = "absurd path album assault crowd puzzle spray pact elder update gap olympic";

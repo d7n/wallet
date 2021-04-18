@@ -1,1 +1,1 @@
-var mnemonic = "shell predict glimpse drip again ski organ hazard scale glimpse about give";
+var mnemonic = "trip comic food sun penalty pioneer arrow receive dad raw drop mule";

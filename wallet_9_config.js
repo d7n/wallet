@@ -1,1 +1,1 @@
-var mnemonic = "stumble chicken thing found rug junk solar laugh snake throw lake super";
+var mnemonic = "retire off cover shy under news mean elite slot net foam system";

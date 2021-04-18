@@ -1,1 +1,1 @@
-var mnemonic = "cat bring hundred immune offer income torch fade affair oblige crack rose";
+var mnemonic = "engage climb sound genius crisp produce response real shrug crew uncle loyal";

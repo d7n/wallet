@@ -1,1 +1,1 @@
-var mnemonic = "reform shoulder moment suit corn digital tank okay forum mushroom prefer wood";
+var mnemonic = "resist display relief liberty box curious tone buddy split win pyramid easily";

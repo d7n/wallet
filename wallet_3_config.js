@@ -1,1 +1,1 @@
-var mnemonic = "gesture unlock pitch grow ostrich trigger observe blame blouse symptom clock often";
+var mnemonic = "clay home camera scorpion grace casual ball member thrive auction client daring";

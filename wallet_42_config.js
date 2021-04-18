@@ -1,1 +1,1 @@
-var mnemonic = "spring sister village label attitude brain bulk fantasy black sister ability problem";
+var mnemonic = "banana produce test together use machine excite catch praise phrase range screen";

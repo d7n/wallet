@@ -1,1 +1,1 @@
-var mnemonic = "transfer shine unfold recall border recipe omit juice pottery wing victory unusual";
+var mnemonic = "bleak arrive cancel clump step soul leader rocket woman disagree injury tilt";

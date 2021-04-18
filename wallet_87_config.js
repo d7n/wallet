@@ -1,1 +1,1 @@
-var mnemonic = "animal task survey chaos raise trick inquiry chimney wrap apple aim charge";
+var mnemonic = "screen point raven kiwi turkey copper dad maple fancy embrace fruit copper";

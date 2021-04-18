@@ -1,1 +1,1 @@
-var mnemonic = "solution rival wise bacon ethics improve air address near loud trust risk";
+var mnemonic = "knee affair oven kind lend view shoe reform renew easily spoon million";

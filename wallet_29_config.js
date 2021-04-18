@@ -1,1 +1,1 @@
-var mnemonic = "write diesel antenna emerge motor screen conduct rescue desert volcano casino another";
+var mnemonic = "useful urban phrase over common comfort snap pupil hill else train exist";

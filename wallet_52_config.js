@@ -1,1 +1,1 @@
-var mnemonic = "plastic congress near success brush worry kind hundred soup calm snack convince";
+var mnemonic = "sound when cheap police perfect detect because people reform tragic sauce vocal";

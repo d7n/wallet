@@ -1,1 +1,1 @@
-var mnemonic = "else walnut unfold hotel metal oblige gym close obvious wise firm execute";
+var mnemonic = "submit soft afford nothing hint step lobster fatal fault cost garage creek";

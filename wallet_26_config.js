@@ -1,1 +1,1 @@
-var mnemonic = "unlock husband ball walnut rude expire matter spring bring dial struggle trade";
+var mnemonic = "riot shoot lab oppose burst cluster desk hill movie citizen laundry coyote";

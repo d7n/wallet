@@ -1,1 +1,1 @@
-var mnemonic = "virus misery opera never crisp ask boat smart meat enter copy once";
+var mnemonic = "odor divert upper trouble fiscal infant spot universe found umbrella help scout";

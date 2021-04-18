@@ -1,1 +1,1 @@
-var mnemonic = "midnight summer pigeon hand transfer infant slogan trade riot autumn lawsuit spare";
+var mnemonic = "summer taste basic square they visa soda egg average resist topic hen";

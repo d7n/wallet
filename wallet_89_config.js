@@ -1,1 +1,1 @@
-var mnemonic = "wheat mouse bless foam style chimney duty maximum meat wet put float";
+var mnemonic = "fine gather carry miracle defy minor subject sponsor earth seminar inherit smart";

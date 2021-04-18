@@ -1,1 +1,1 @@
-var mnemonic = "segment vapor youth leisure screen margin grab second suffer catch easy maze";
+var mnemonic = "furnace kiwi hybrid come royal envelope drop universe coconut replace they achieve";

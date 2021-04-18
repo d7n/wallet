@@ -1,1 +1,1 @@
-var mnemonic = "scorpion myth river rabbit maple lamp urban wreck legal just bird pepper";
+var mnemonic = "meadow record laundry syrup great legend sketch foot square trick sunny negative";

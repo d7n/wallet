@@ -1,1 +1,1 @@
-var mnemonic = "laundry special pizza level write topic lumber real style long carbon sketch";
+var mnemonic = "script filter grow luxury obscure cram dirt denial humor annual define inch";

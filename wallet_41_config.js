@@ -1,1 +1,1 @@
-var mnemonic = "salt combine uphold stone brass object oak chase end cushion omit portion";
+var mnemonic = "tourist engage prize glimpse danger water orient fall snake edge speed honey";

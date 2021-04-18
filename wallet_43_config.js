@@ -1,1 +1,1 @@
-var mnemonic = "kid category wrap original erosion forest robot relief nasty vicious famous debate";
+var mnemonic = "universe garden tone long hope few patrol neither devote scene pioneer stock";

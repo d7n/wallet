@@ -1,1 +1,1 @@
-var mnemonic = "fork guitar flee youth stage spring wonder funny ostrich region aim canal";
+var mnemonic = "march gallery fringe wrestle student face accuse mandate acoustic floor mass loud";

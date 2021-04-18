@@ -1,1 +1,1 @@
-var mnemonic = "baby banner law walnut pioneer stand horror supply elite entire fuel word";
+var mnemonic = "bamboo clinic car month easy boil smart rival nuclear phrase found memory";

@@ -1,1 +1,1 @@
-var mnemonic = "party harsh live eternal cycle inherit antenna clerk amazing scissors burst drastic";
+var mnemonic = "win trust tourist discover sad update long art trap horn wasp essay";

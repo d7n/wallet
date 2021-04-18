@@ -1,1 +1,1 @@
-var mnemonic = "boy fossil acquire private offer shallow sign genius example siege circle damage";
+var mnemonic = "catalog alter orchard ranch purse finger shift clog robust shoot crack reunion";

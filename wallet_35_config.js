@@ -1,1 +1,1 @@
-var mnemonic = "embrace elephant refuse absent long hope member copy company fork actor patient";
+var mnemonic = "girl skirt pulse owner define roof balance announce biology quiz soul solve";

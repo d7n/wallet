@@ -1,1 +1,1 @@
-var mnemonic = "say bronze coconut paper force december prize ripple surprise normal mushroom city";
+var mnemonic = "wall civil match mail harvest liberty solution cloth armed same drift shell";

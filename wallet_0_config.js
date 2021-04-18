@@ -1,1 +1,1 @@
-var mnemonic = "twist catalog invite dumb quote type giggle cheap wage ladder artefact odor";
+var mnemonic = "behave refuse then random patrol soap curtain hen mule already garbage sure";

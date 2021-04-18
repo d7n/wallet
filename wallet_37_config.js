@@ -1,1 +1,1 @@
-var mnemonic = "casual zoo differ venue deliver wood phrase genre cousin rare brand video";
+var mnemonic = "lamp also lucky prize improve better echo physical first frequent genuine clay";

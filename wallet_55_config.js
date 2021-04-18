@@ -1,1 +1,1 @@
-var mnemonic = "sorry spread ancient loyal tool broccoli hazard valley nest will refuse sustain";
+var mnemonic = "flame era muscle certain bread find rotate buffalo strike galaxy era clock";

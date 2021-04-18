@@ -1,1 +1,1 @@
-var mnemonic = "file toddler supreme siren waste lion awkward entire case arch useless setup";
+var mnemonic = "table summer lemon olive home daughter ladder case squeeze prison advice brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "impact feature total cute swarm sauce oil whisper vivid carpet offer other";
+var mnemonic = "stool deal wing sword spin craft monitor flag multiply sniff flight release";

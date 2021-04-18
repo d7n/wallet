@@ -1,1 +1,1 @@
-var mnemonic = "album hair wrestle animal raise cradle sudden color sponsor wagon upon special";
+var mnemonic = "promote toward able armor tail submit rule average claw garbage apart report";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology fragile move letter cool ridge fly then truly zebra phrase chimney";
+var mnemonic = "soldier trend main furnace unhappy impulse among hurt timber claw throw bus";

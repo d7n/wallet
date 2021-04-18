@@ -1,1 +1,1 @@
-var mnemonic = "kitchen neck normal damp spoon bargain liberty flower mesh mammal steel ginger";
+var mnemonic = "owner boring core essay project collect dismiss there spider vacant festival female";
