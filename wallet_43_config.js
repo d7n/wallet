@@ -1,1 +1,1 @@
-var mnemonic = "chicken oxygen angle egg couple hazard news dream inject please plug pluck";
+var mnemonic = "clay zoo despair best kind romance nasty demise spot shrug witness copper";

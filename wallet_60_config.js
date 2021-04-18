@@ -1,1 +1,1 @@
-var mnemonic = "grass leaf lava dance cream sing end sadness fringe rhythm grain globe";
+var mnemonic = "infant reveal ranch ladder exit bracket slide candy relax perfect possible apple";

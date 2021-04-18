@@ -1,1 +1,1 @@
-var mnemonic = "female brush proud brush head wrist shoot rubber illness crime steak walk";
+var mnemonic = "scale increase please chunk slight trust senior uncle chapter hole task mammal";

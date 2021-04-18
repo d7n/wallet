@@ -1,1 +1,1 @@
-var mnemonic = "stable trumpet kitchen blame oblige brief sting genuine alcohol young unable season";
+var mnemonic = "basket bunker media reopen claim chest must seat satisfy appear viable imitate";

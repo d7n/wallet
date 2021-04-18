@@ -1,1 +1,1 @@
-var mnemonic = "violin quantum record patrol major atom goat shoot force access gap main";
+var mnemonic = "catch reason purse street flee fame lounge lamp advice fatigue glass section";

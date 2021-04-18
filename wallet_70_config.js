@@ -1,1 +1,1 @@
-var mnemonic = "clog clip purchase hole motion buyer online cradle talk run fury fiscal";
+var mnemonic = "alien remove frost obey deny donkey hat tank exact velvet congress yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "yard cruise bone list wrist flower snap moral lab myself dawn ball";
+var mnemonic = "wave letter burst base metal shallow fatal sister around atom assault spider";

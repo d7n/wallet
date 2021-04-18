@@ -1,1 +1,1 @@
-var mnemonic = "icon attract height swarm office require south sorry social aerobic night armor";
+var mnemonic = "assist february claw ozone north purpose region blossom fly ensure pretty attitude";

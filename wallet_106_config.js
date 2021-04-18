@@ -1,1 +1,1 @@
-var mnemonic = "caution indicate snap can bean uphold number zebra evil when bottom jump";
+var mnemonic = "floor oxygen regret vital duck eight payment banana need hammer host cover";

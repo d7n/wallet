@@ -1,1 +1,1 @@
-var mnemonic = "torch fortune mosquito hurry round isolate blanket select cool grant hockey page";
+var mnemonic = "abandon stable mushroom reveal wedding steel place wire what stomach network kit";

@@ -1,1 +1,1 @@
-var mnemonic = "price silly candy assume muscle submit vanish miss half basket add mandate";
+var mnemonic = "exile very laugh where have you athlete pumpkin anxiety settle toward muscle";

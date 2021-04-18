@@ -1,1 +1,1 @@
-var mnemonic = "expect rough sand way sudden gauge snake burden false session pelican define";
+var mnemonic = "muffin video key expect hope edit false perfect belt paper steel soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi mail network wood breeze such tag earn video all skull advice";
+var mnemonic = "envelope calm fall win focus dance bargain evoke fiscal bring team exist";

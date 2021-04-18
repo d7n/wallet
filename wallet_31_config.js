@@ -1,1 +1,1 @@
-var mnemonic = "luggage tornado timber now rule garden sugar dilemma solution shy yellow devote";
+var mnemonic = "throw lucky sorry work grit spawn super enjoy sugar wet armed expose";

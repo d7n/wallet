@@ -1,1 +1,1 @@
-var mnemonic = "nice bacon sword shiver nurse film marriage crunch ignore giggle visit ahead";
+var mnemonic = "admit dragon oyster flush blur subject mimic wasp switch case push mail";

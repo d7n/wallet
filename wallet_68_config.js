@@ -1,1 +1,1 @@
-var mnemonic = "canoe song achieve wink toe goose midnight insane trim episode cover spirit";
+var mnemonic = "crush thrive team teach youth public deliver enroll master grunt arrange avocado";

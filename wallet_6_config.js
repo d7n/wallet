@@ -1,1 +1,1 @@
-var mnemonic = "stable wool attack plate human riot gain group forward century example airport";
+var mnemonic = "alert twin confirm trust praise exotic tragic region wood twin improve curtain";

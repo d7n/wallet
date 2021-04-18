@@ -1,1 +1,1 @@
-var mnemonic = "lemon settle road copy aim green effort doll female turn analyst fuel";
+var mnemonic = "ecology leg pair parrot exit park width icon invest same sponsor jump";

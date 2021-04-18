@@ -1,1 +1,1 @@
-var mnemonic = "poem pluck organ try fish main swear scissors fuel flash arrange steak";
+var mnemonic = "plate lady mention hurry moral empty strategy panel view royal coach tongue";

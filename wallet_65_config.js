@@ -1,1 +1,1 @@
-var mnemonic = "harsh inflict blind vault twin move amused crucial crowd upgrade session female";
+var mnemonic = "supply way tuition pond civil payment catalog beef shrug body found square";

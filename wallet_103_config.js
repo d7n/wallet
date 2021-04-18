@@ -1,1 +1,1 @@
-var mnemonic = "enhance box december vocal material charge govern syrup gas odor page engine";
+var mnemonic = "fish rich pencil alien harsh lend found almost album fringe social inherit";

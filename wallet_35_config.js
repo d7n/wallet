@@ -1,1 +1,1 @@
-var mnemonic = "room diagram task gun firm egg honey soon consider net juice memory";
+var mnemonic = "mimic canoe session surge flee eagle adapt online summer scheme shallow extra";

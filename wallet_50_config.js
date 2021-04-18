@@ -1,1 +1,1 @@
-var mnemonic = "weather rent short cost siege setup render pulp sugar erode design usual";
+var mnemonic = "since phrase ketchup attack afraid voice text galaxy travel boat jelly exotic";

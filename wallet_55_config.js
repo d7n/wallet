@@ -1,1 +1,1 @@
-var mnemonic = "option auction term visual obscure exhibit ordinary tonight era enable detail alter";
+var mnemonic = "worry critic wreck female debate pool genre rubber acquire soap gentle child";

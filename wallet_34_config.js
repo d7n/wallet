@@ -1,1 +1,1 @@
-var mnemonic = "tower library moon company vault mandate brown recall good jelly pony poem";
+var mnemonic = "fame soft ivory want whip battle main mother upper rotate junk forward";

@@ -1,1 +1,1 @@
-var mnemonic = "young quantum garlic middle inch rough coral wave sun machine valve toy";
+var mnemonic = "easily miss brush mind enemy inherit more cram comfort boat clinic absent";

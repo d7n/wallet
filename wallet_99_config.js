@@ -1,1 +1,1 @@
-var mnemonic = "drill olympic dignity strong roof filter polar token outer air nature possible";
+var mnemonic = "title toy admit mass laundry beyond certain sibling cover orange sibling couple";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic famous mouse trick protect lyrics oak impulse miracle treat comfort latin";
+var mnemonic = "story around rubber slam page issue farm thank merit moral theme install";

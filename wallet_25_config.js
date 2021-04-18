@@ -1,1 +1,1 @@
-var mnemonic = "army river giggle document park combine pistol include together abandon puzzle cotton";
+var mnemonic = "mean slim thank heart junior initial end double hello east genre blind";

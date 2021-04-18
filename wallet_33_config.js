@@ -1,1 +1,1 @@
-var mnemonic = "west fringe custom flock myth delay curtain elevator fun ribbon cluster develop";
+var mnemonic = "witness rose spike renew small bulb alcohol library nose find clump usage";

@@ -1,1 +1,1 @@
-var mnemonic = "warm floor slam garlic noble able useless butter write spirit regret nurse";
+var mnemonic = "drip talent demise disorder exist exercise float celery thing minute reject wing";

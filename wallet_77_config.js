@@ -1,1 +1,1 @@
-var mnemonic = "degree gospel awesome refuse rigid maple knife slot brisk major rail person";
+var mnemonic = "permit boring rather category ritual cargo return quiz tiny evolve slight mushroom";

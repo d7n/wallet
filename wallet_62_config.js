@@ -1,1 +1,1 @@
-var mnemonic = "common shrug limb photo frog relief tenant slim over analyst tobacco stomach";
+var mnemonic = "bottom genuine youth spawn replace enjoy turkey dose orbit slice topic strike";

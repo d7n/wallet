@@ -1,1 +1,1 @@
-var mnemonic = "ostrich online body gossip dragon fatal omit clump venture jump hawk invest";
+var mnemonic = "asset dove weapon shoulder bamboo embody stage spoon prevent regret onion capital";

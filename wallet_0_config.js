@@ -1,1 +1,1 @@
-var mnemonic = "once board top caught napkin fog hair fatigue joke wood service produce";
+var mnemonic = "require october head spatial asthma father exist left lemon labor color flight";

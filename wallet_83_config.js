@@ -1,1 +1,1 @@
-var mnemonic = "wrist office sick exclude reflect artist hover exist suit round quick left";
+var mnemonic = "oak planet smile soccer omit popular agree shell crane gravity solve fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore unveil invite party chronic genuine shed flat shock twin tiny alien";
+var mnemonic = "dice bag humor position gossip flower emerge nurse monster ethics hope harvest";

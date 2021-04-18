@@ -1,1 +1,1 @@
-var mnemonic = "differ resist poverty glide fold vendor tiny banana various nominee melody pepper";
+var mnemonic = "visual journey burger have kiss wire such resemble better height theory option";

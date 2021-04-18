@@ -1,1 +1,1 @@
-var mnemonic = "angry gossip satisfy volcano erupt bird boat charge pulp kitten insect produce";
+var mnemonic = "torch outdoor rib citizen boil scissors side stamp badge shield remove kind";

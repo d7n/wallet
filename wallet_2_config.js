@@ -1,1 +1,1 @@
-var mnemonic = "legal blush evil echo truck ghost piano biology hub off concert token";
+var mnemonic = "genre expire defy motor inherit unveil million dizzy yard soldier fan divert";

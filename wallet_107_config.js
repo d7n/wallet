@@ -1,1 +1,1 @@
-var mnemonic = "abandon brand upgrade soda trip inherit myself federal frozen melt category diet";
+var mnemonic = "long comfort direct crowd tuition ordinary spike fiction spy december spoon chest";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry divert shine kind chest tunnel vintage approve pink inspire feel receive";
+var mnemonic = "circle cry cheese foot humor merry member mixture fiber crime trust cruise";

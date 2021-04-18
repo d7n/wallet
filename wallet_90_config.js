@@ -1,1 +1,1 @@
-var mnemonic = "ridge bright apart slice hidden aisle draft brisk wall rose gift coral";
+var mnemonic = "family abuse soup online genuine food cinnamon still rubber tiny evidence cable";

@@ -1,1 +1,1 @@
-var mnemonic = "author season like tunnel cat point anxiety faint great mechanic crop entire";
+var mnemonic = "meadow issue awkward scrap wife shop stomach fresh plug merit skill metal";

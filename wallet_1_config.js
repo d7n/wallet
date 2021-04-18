@@ -1,1 +1,1 @@
-var mnemonic = "labor thunder river payment aware shield more anger car planet draft surface";
+var mnemonic = "during tornado arch only symptom certain chair seed cement ozone pave curve";

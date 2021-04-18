@@ -1,1 +1,1 @@
-var mnemonic = "vicious column guess actual upper east firm split strong argue fall follow";
+var mnemonic = "brand success wonder horse start disease interest laundry anchor material upgrade narrow";

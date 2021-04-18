@@ -1,1 +1,1 @@
-var mnemonic = "recycle month height job thing blossom canvas possible assist correct project smart";
+var mnemonic = "ship kick rural viable spirit call dial mansion logic helmet mistake slab";

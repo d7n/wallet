@@ -1,1 +1,1 @@
-var mnemonic = "seat deer wolf ahead invite anchor ocean green dismiss curious park capital";
+var mnemonic = "thank sword error mix yellow dry worry noodle shop discover high mesh";

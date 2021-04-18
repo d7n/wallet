@@ -1,1 +1,1 @@
-var mnemonic = "scale clip cruel idea side enrich brown burden inquiry tiger glide slam";
+var mnemonic = "margin best welcome cheap flush narrow clerk royal fruit picnic relief forward";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy west clinic cave injury tank live include flag adapt item crunch";
+var mnemonic = "sudden brush chalk hurdle camp athlete series butter casual design green furnace";

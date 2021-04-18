@@ -1,1 +1,1 @@
-var mnemonic = "suspect merry flat auto column mansion sort wealth hazard web toddler insane";
+var mnemonic = "surprise ostrich clever cycle rural rely library voyage skin snack tail donate";

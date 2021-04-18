@@ -1,1 +1,1 @@
-var mnemonic = "work select foam village erase liquid rich song welcome attract summer tourist";
+var mnemonic = "planet wall bitter memory venue select girl vocal use supply obscure stuff";

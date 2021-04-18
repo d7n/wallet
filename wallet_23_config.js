@@ -1,1 +1,1 @@
-var mnemonic = "caution zoo clown vintage swim taste eternal language safe unaware stuff drop";
+var mnemonic = "motor stamp hazard illness cruise brand smoke donor aisle admit proud end";

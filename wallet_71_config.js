@@ -1,1 +1,1 @@
-var mnemonic = "cost carbon move visit field crucial type person broken child liberty hamster";
+var mnemonic = "increase virtual fabric worth loop typical dad category spirit rely spread impose";

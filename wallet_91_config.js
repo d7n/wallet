@@ -1,1 +1,1 @@
-var mnemonic = "anchor lake scare supreme cool reject ankle hockey fun motor royal hero";
+var mnemonic = "estate senior ancient girl retreat good champion gas crowd aerobic use vapor";

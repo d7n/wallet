@@ -1,1 +1,1 @@
-var mnemonic = "crumble use general behave morning burden sense goose become junk make laugh";
+var mnemonic = "daring cheap believe guitar soul tray undo window cupboard embark basic good";

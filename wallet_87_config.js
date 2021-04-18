@@ -1,1 +1,1 @@
-var mnemonic = "egg legend book art unit hamster believe genuine face come relief child";
+var mnemonic = "hand burst element sheriff replace ridge option arrow dice barely regret valley";

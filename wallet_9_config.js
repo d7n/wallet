@@ -1,1 +1,1 @@
-var mnemonic = "fury cabbage number element mule kite above ethics manual page claim rally";
+var mnemonic = "season chunk swamp eyebrow above chef excite various thank squirrel spider craft";

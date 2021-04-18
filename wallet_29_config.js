@@ -1,1 +1,1 @@
-var mnemonic = "program blanket fetch trick say satoshi shield junk purchase brown wheat any";
+var mnemonic = "sphere invite clock tribe hood rain able swift crystal move job endless";

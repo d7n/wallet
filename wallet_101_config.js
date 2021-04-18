@@ -1,1 +1,1 @@
-var mnemonic = "quick real lobster jaguar diagram market view surprise size glance alcohol clap";
+var mnemonic = "vacant have story deliver strategy armor baby scene common require celery mom";

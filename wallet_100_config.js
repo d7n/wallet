@@ -1,1 +1,1 @@
-var mnemonic = "nature air badge local put cheap empty diet primary wagon announce degree";
+var mnemonic = "cactus fetch involve nest report settle kitchen bonus warm crush orbit island";

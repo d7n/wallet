@@ -1,1 +1,1 @@
-var mnemonic = "sunny rate name napkin top portion unhappy mechanic level zebra hat slot";
+var mnemonic = "resemble twenty bike exotic club decrease enforce fitness sight kite girl daring";

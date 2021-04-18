@@ -1,1 +1,1 @@
-var mnemonic = "trade armor cross pitch long grit cheese eight choose prize bean give";
+var mnemonic = "flock dry bread credit until later depend spice giggle mind seven maze";

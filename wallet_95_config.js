@@ -1,1 +1,1 @@
-var mnemonic = "consider ahead dose river unable tone guitar sheriff math horror sentence shift";
+var mnemonic = "when reward update west profit kid chef similar roof pull pride phone";

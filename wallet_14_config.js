@@ -1,1 +1,1 @@
-var mnemonic = "ecology employ idea erupt episode desk door toy nerve mansion step share";
+var mnemonic = "future lottery brother public shop exhaust estate mobile wave funny source alien";

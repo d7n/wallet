@@ -1,1 +1,1 @@
-var mnemonic = "fit agent tiger account drink empower brown trigger tackle gun shoe increase";
+var mnemonic = "kitten vast large private absent void staff silk gas stomach nose mind";

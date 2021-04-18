@@ -1,1 +1,1 @@
-var mnemonic = "equip pumpkin street burst hungry crucial broom version tilt fiscal finish hospital";
+var mnemonic = "follow leader token mom toast screen slender act vocal duck cherry someone";

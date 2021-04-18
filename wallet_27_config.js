@@ -1,1 +1,1 @@
-var mnemonic = "slot cargo tattoo table wear silent betray father jazz plunge enrich veteran";
+var mnemonic = "once various alcohol capable label limit whip august rate flower used drum";

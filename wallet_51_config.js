@@ -1,1 +1,1 @@
-var mnemonic = "drill capable early twist evolve embody oil rebuild stone test skin random";
+var mnemonic = "robot pear hair flag fiber disagree slam bar among plug steel alien";

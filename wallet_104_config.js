@@ -1,1 +1,1 @@
-var mnemonic = "control jungle near grid fetch second guard cave digital unveil device hurt";
+var mnemonic = "artwork essay tank mosquito problem time hundred future anger orphan design wise";

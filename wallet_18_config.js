@@ -1,1 +1,1 @@
-var mnemonic = "shove vehicle true royal icon salmon route vacant deputy loud razor logic";
+var mnemonic = "position humor survey now warm forget list wash off simple board gospel";

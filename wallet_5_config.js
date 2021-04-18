@@ -1,1 +1,1 @@
-var mnemonic = "acoustic pair mercy predict feel mixed crack glue arena dawn nation shrimp";
+var mnemonic = "split dizzy beauty unaware raven slender blade shine allow stage acid rule";

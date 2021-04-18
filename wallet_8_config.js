@@ -1,1 +1,1 @@
-var mnemonic = "chair unit snap foil base remind guess twist glue fruit tiger fire";
+var mnemonic = "that mercy judge scale tired fun wear twin ribbon genre dad supply";

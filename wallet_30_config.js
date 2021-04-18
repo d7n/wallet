@@ -1,1 +1,1 @@
-var mnemonic = "silver total deliver monster narrow owner aerobic bar scrap current rebuild melt";
+var mnemonic = "attitude expand labor object custom keen pudding visual trade october brand letter";

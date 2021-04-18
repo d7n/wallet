@@ -1,1 +1,1 @@
-var mnemonic = "hospital odor match horror champion suit clever near various learn pulse travel";
+var mnemonic = "tennis pioneer memory suffer file orphan topple cause scare table choose mobile";

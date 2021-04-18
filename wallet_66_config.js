@@ -1,1 +1,1 @@
-var mnemonic = "version thought evil park autumn kid lift immune glare that risk orange";
+var mnemonic = "estate erosion length start dune never awesome goat unlock know icon property";

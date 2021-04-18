@@ -1,1 +1,1 @@
-var mnemonic = "decade leg price abuse crawl funny nice shy path umbrella steak loud";
+var mnemonic = "old desert music credit youth term chef twist travel mean tent attend";

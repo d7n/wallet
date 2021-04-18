@@ -1,1 +1,1 @@
-var mnemonic = "stereo tackle story awake police state local express soldier position enact tag";
+var mnemonic = "room win prefer current vessel museum bleak purpose black copper favorite inner";

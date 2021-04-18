@@ -1,1 +1,1 @@
-var mnemonic = "hospital town doctor more term cheap ecology flush now destroy word write";
+var mnemonic = "hood leave student face fiber accuse dance defense cereal west napkin warrior";

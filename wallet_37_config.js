@@ -1,1 +1,1 @@
-var mnemonic = "dizzy brother practice roof recycle stomach taste sad dial knock immune cement";
+var mnemonic = "aim feed hair juice cage appear silly alien clump analyst wonder frost";

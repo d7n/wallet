@@ -1,1 +1,1 @@
-var mnemonic = "congress pulp world perfect appear knock process minimum pumpkin broken narrow source";
+var mnemonic = "clock creek orphan gym stomach truck fury swap arena usual palace sure";

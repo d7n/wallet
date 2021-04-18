@@ -1,1 +1,1 @@
-var mnemonic = "cotton jealous canvas position major flower sure excuse final offer grocery enjoy";
+var mnemonic = "fruit club surround protect toilet tower cute laugh curtain actress sunny glare";

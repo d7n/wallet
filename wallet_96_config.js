@@ -1,1 +1,1 @@
-var mnemonic = "village wheel print laptop occur trumpet unfair say inflict juice clock finish";
+var mnemonic = "scene retreat couple loyal december device humor humble shiver toe old require";

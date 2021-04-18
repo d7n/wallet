@@ -1,1 +1,1 @@
-var mnemonic = "funny model oblige degree they okay satoshi task shuffle taste enough barrel";
+var mnemonic = "hospital brain kiss spray mention jump inquiry frame neither gas abstract head";

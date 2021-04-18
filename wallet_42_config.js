@@ -1,1 +1,1 @@
-var mnemonic = "regret brave pyramid slender melt yard fossil busy hair style deal bag";
+var mnemonic = "nasty warfare history mandate say just symbol crush devote steak sense metal";

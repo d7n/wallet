@@ -1,1 +1,1 @@
-var mnemonic = "case ritual build pass scare sudden glide affair hotel alien exchange umbrella";
+var mnemonic = "cotton kit square train marble evoke logic nurse clinic bachelor parade fox";

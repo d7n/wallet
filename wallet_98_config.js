@@ -1,1 +1,1 @@
-var mnemonic = "winner twin inflict autumn picnic tip usage devote rebel prevent tool twice";
+var mnemonic = "quote index tape blush fence glory gauge skate tail alley buzz budget";

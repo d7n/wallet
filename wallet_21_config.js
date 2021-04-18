@@ -1,1 +1,1 @@
-var mnemonic = "seed hero zoo toss frozen lounge gasp mom oxygen wink sea truly";
+var mnemonic = "slow sample mushroom unaware clerk crime height impose youth until crawl guilt";

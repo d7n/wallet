@@ -1,1 +1,1 @@
-var mnemonic = "miss humor candy dentist since crew weird romance slab filter punch fancy";
+var mnemonic = "flight resist treat chase uniform trick crime thrive phrase fall sorry okay";

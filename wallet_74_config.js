@@ -1,1 +1,1 @@
-var mnemonic = "side capable penalty aerobic insect trumpet you advance auction offer traffic awesome";
+var mnemonic = "output exclude expect basket envelope empower neutral language prefer slow soul shuffle";

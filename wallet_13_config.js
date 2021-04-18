@@ -1,1 +1,1 @@
-var mnemonic = "latin broom empty crop issue awesome zone foam drive smile clutch bid";
+var mnemonic = "exist country human dad quick ribbon slush magnet few deal toast opinion";
