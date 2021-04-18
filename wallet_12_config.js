@@ -1,1 +1,1 @@
-var mnemonic = "slender funny action olympic helmet fat tattoo short caution lottery endorse man";
+var mnemonic = "reduce danger cause eight heavy mouse indoor legal verb raven crash olympic";

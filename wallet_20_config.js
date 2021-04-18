@@ -1,1 +1,1 @@
-var mnemonic = "early army still guess assist burden huge copper wear pill monkey fiction";
+var mnemonic = "lawn squeeze rigid worth october swap series skirt roast cherry equip oil";

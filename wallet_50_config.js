@@ -1,1 +1,1 @@
-var mnemonic = "tail champion march better anger sunny settle hint usual neglect twice model";
+var mnemonic = "film message harsh nothing phone march present quote trip fold scorpion typical";

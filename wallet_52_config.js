@@ -1,1 +1,1 @@
-var mnemonic = "bronze bargain duty wrong spare celery budget army garbage recipe earth tuna";
+var mnemonic = "sad awesome example safe grunt exhibit tattoo rule state cook you vendor";

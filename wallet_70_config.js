@@ -1,1 +1,1 @@
-var mnemonic = "opera warfare amazing inform future regular repair idle oxygen upgrade install blur";
+var mnemonic = "smoke ignore man shop hotel discover grab upgrade ceiling educate hair inhale";

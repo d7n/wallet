@@ -1,1 +1,1 @@
-var mnemonic = "ahead human chimney receive involve spice office guilt goddess bacon post evil";
+var mnemonic = "civil radio extra globe pupil pool cattle breeze tennis eyebrow number modify";

@@ -1,1 +1,1 @@
-var mnemonic = "inside guide cable nose flat rib make argue dutch december radio bicycle";
+var mnemonic = "camera proud absorb pole note divert ask rebuild crush already legal around";

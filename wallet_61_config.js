@@ -1,1 +1,1 @@
-var mnemonic = "unfold undo mercy chat uncover modify donkey wide dentist dirt field term";
+var mnemonic = "winter tag valve acoustic wrist drink place shine fish wink sick atom";

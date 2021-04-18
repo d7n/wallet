@@ -1,1 +1,1 @@
-var mnemonic = "tackle canal order virus general army follow kiss physical goddess winter conduct";
+var mnemonic = "comfort oven city noise thought space extra pave found bread rose slide";

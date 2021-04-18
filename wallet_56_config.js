@@ -1,1 +1,1 @@
-var mnemonic = "volcano zero together allow lunch silk mountain machine foam trophy fly skull";
+var mnemonic = "rabbit route now lens tissue day vivid window smart twelve merit twice";

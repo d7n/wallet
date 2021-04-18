@@ -1,1 +1,1 @@
-var mnemonic = "arctic remove brief head boil inject margin neglect fringe defy sibling gate";
+var mnemonic = "desk group today message disorder prison there mountain dry junior panel absurd";

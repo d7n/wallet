@@ -1,1 +1,1 @@
-var mnemonic = "brave iron elegant fancy nothing cycle fiction habit attitude build story coach";
+var mnemonic = "lady vocal wheat picnic shed later sort print pattern frozen mail patient";

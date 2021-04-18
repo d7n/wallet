@@ -1,1 +1,1 @@
-var mnemonic = "spread inspire shove federal entire impose rate lawn panther bean neck lab";
+var mnemonic = "photo wood joy vital grief begin immune version coral hobby gaze unit";

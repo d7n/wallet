@@ -1,1 +1,1 @@
-var mnemonic = "blast affair lesson cage fiber turtle account deer urban require tide awkward";
+var mnemonic = "earth super wish control metal fog use cupboard april artwork dawn magnet";

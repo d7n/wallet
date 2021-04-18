@@ -1,1 +1,1 @@
-var mnemonic = "squeeze alter drip exclude apart maple thing engage cricket accuse language country";
+var mnemonic = "access rich minor sentence volume basic crumble make scrub digital diary ladder";

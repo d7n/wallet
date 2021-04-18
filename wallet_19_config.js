@@ -1,1 +1,1 @@
-var mnemonic = "goddess prison setup put ripple goat organ cycle guitar patient shell window";
+var mnemonic = "creek frost plunge length outer ridge note bird lawsuit panda nephew alien";

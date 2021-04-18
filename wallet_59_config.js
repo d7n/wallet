@@ -1,1 +1,1 @@
-var mnemonic = "million verify truck entire convince reduce maid meadow price scout biology cook";
+var mnemonic = "rug faith lamp avocado split orchard neither lunch prize abandon vicious smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "throw blanket supreme budget best cheese genius slam news wolf happy novel";
+var mnemonic = "syrup draw canal forward stumble bulb glide original theory thunder rescue person";

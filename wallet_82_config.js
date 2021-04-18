@@ -1,1 +1,1 @@
-var mnemonic = "happy crucial pulp snack kit vivid analyst oblige train require buddy mosquito";
+var mnemonic = "genre source wing deny position stamp age ugly affair enough attend despair";

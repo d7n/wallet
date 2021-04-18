@@ -1,1 +1,1 @@
-var mnemonic = "twist require valve coach mouse insane nose pledge cupboard cattle enemy dolphin";
+var mnemonic = "soldier dumb quit arm derive glory fine october swamp deposit correct blanket";

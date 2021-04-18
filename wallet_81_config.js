@@ -1,1 +1,1 @@
-var mnemonic = "allow chaos assault flash frog hat attend amateur peace grief outer bundle";
+var mnemonic = "brand usage alpha glue history regret image mutual engage item buzz poet";

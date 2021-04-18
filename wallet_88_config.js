@@ -1,1 +1,1 @@
-var mnemonic = "siege inhale decorate online bring bundle rude arm size glow avocado chalk";
+var mnemonic = "crumble vivid salon rally flock throw open avocado fitness acoustic race author";

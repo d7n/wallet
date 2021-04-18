@@ -1,1 +1,1 @@
-var mnemonic = "remind alter again violin bacon cram great large solid rose elder pact";
+var mnemonic = "nest portion child they captain urban laptop sibling honey hold tenant extra";

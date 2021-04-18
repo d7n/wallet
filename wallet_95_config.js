@@ -1,1 +1,1 @@
-var mnemonic = "monitor bomb diamond guitar catalog ship crater day sentence dust note ginger";
+var mnemonic = "fat degree tomato blind permit post season polar jealous silk visit black";

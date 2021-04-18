@@ -1,1 +1,1 @@
-var mnemonic = "bounce lawn latin spring lava grass surprise skirt that sort elegant cable";
+var mnemonic = "wise alpha panic seek weapon broccoli naive brush luxury drill flat gather";

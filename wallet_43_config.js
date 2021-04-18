@@ -1,1 +1,1 @@
-var mnemonic = "move brand cross dragon delay habit impact august poverty base lesson crime";
+var mnemonic = "inject control edge estate egg jeans tongue omit fall sense arrive hub";

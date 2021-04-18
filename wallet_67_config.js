@@ -1,1 +1,1 @@
-var mnemonic = "churn company scheme holiday wrestle call north destroy later exhibit cool marble";
+var mnemonic = "moral harsh display below dumb rigid smile leisure rescue gorilla voyage country";

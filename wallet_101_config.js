@@ -1,1 +1,1 @@
-var mnemonic = "copy isolate wink trim today cover attract wet school school cousin fever";
+var mnemonic = "police bid ugly indicate vessel shaft vault perfect biology label end clown";

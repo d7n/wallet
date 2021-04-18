@@ -1,1 +1,1 @@
-var mnemonic = "enlist swallow prepare decrease tree goat track pretty agent ugly patrol edge";
+var mnemonic = "predict enjoy ride card poverty person antique service bacon person crash feed";

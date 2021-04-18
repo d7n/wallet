@@ -1,1 +1,1 @@
-var mnemonic = "shadow fat unlock hurry half guide soda stomach timber when pudding battle";
+var mnemonic = "talent lunch arrange mesh dog faculty again version thrive always ritual zone";

@@ -1,1 +1,1 @@
-var mnemonic = "very seminar cinnamon immense hat lab wide tape swamp success ridge tail";
+var mnemonic = "used type account mountain crime gun teach tag rebel elegant novel else";

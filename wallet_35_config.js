@@ -1,1 +1,1 @@
-var mnemonic = "sister input control attract suspect menu that jaguar alien close inhale fantasy";
+var mnemonic = "intact addict shrimp canyon job worth coyote file waste humor slide mystery";

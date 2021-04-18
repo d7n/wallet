@@ -1,1 +1,1 @@
-var mnemonic = "tuition grace swamp powder dune flush behind empty zoo north limit same";
+var mnemonic = "weapon panda shadow glory type brother blue morning safe open danger mammal";

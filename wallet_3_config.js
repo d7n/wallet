@@ -1,1 +1,1 @@
-var mnemonic = "gadget route uphold clutch hollow patch reunion rug mountain panda float judge";
+var mnemonic = "diet goose buyer rate garage caught suffer brief actress away garbage code";

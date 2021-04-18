@@ -1,1 +1,1 @@
-var mnemonic = "top renew mask sick stuff ecology jacket fee oak display basic aunt";
+var mnemonic = "inquiry convince squeeze ignore brave skirt cable crew wise best repeat disease";

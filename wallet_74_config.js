@@ -1,1 +1,1 @@
-var mnemonic = "axis price riot media track fork nerve topple behave army artwork saddle";
+var mnemonic = "super image amateur inch entire merge intact weapon just worry shallow favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "ask true demand lens shoe put warrior work visit gorilla host grant";
+var mnemonic = "spatial amused arctic solution behave drum repeat drop main robust child problem";

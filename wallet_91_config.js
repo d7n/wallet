@@ -1,1 +1,1 @@
-var mnemonic = "square thing cram end catch reflect infant alpha yellow cheese prize retire";
+var mnemonic = "craft mad tilt tired sound clog still analyst wine country wet century";

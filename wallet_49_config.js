@@ -1,1 +1,1 @@
-var mnemonic = "burst usual client pulse test village drastic update salute auto list average";
+var mnemonic = "index bird auto visual earth glove husband banner noodle angle burden deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "april vessel swing wait excite improve coast only silk marble math happy";
+var mnemonic = "leg loop total avocado eye ranch better never vault valid sweet situate";

@@ -1,1 +1,1 @@
-var mnemonic = "language insane worry betray script into ring dignity iron direct swap hurry";
+var mnemonic = "solve later panel matrix exclude frame season ordinary toy primary gain virus";

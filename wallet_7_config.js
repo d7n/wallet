@@ -1,1 +1,1 @@
-var mnemonic = "victory silly faint multiply glass route daring airport obscure style degree abuse";
+var mnemonic = "deposit angry improve gesture indicate typical twelve still secret obscure kidney topple";

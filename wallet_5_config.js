@@ -1,1 +1,1 @@
-var mnemonic = "keep pumpkin fork shove render shock dinner ecology earn kangaroo move keep";
+var mnemonic = "trip glimpse tenant bounce next warm warm stand merge charge prison grain";

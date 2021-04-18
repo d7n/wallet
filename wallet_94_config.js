@@ -1,1 +1,1 @@
-var mnemonic = "area fabric never armor mandate problem memory brass hello trap various come";
+var mnemonic = "nation devote winter embrace board ring kind language ugly copy farm energy";

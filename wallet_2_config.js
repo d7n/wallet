@@ -1,1 +1,1 @@
-var mnemonic = "saddle old table cake dog share tongue injury pluck night casino early";
+var mnemonic = "stable tube afraid owner extend east mix latin message fee finish plate";

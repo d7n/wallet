@@ -1,1 +1,1 @@
-var mnemonic = "blue arm borrow add can rich about atom setup pupil payment leisure";
+var mnemonic = "answer empower enjoy wave fetch marble supreme replace home pipe hello cotton";

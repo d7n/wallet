@@ -1,1 +1,1 @@
-var mnemonic = "weapon eyebrow way erase drive claw enact invite mother lazy draw earn";
+var mnemonic = "guilt million rule witness link lobster essence bulk replace field auto lazy";

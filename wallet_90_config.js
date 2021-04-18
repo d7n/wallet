@@ -1,1 +1,1 @@
-var mnemonic = "forest lady water smile video erode whip people cluster punch announce goat";
+var mnemonic = "name spend zoo enough poverty virtual shop race beach crouch page office";

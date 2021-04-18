@@ -1,1 +1,1 @@
-var mnemonic = "zoo aisle other gauge swarm avoid moon gold flight tuition mom pelican";
+var mnemonic = "puzzle rival fashion other gravity regret cycle easily people bundle abuse spawn";

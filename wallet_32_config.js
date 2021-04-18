@@ -1,1 +1,1 @@
-var mnemonic = "frozen author parrot ensure evoke open differ permit skill come profit anchor";
+var mnemonic = "agent find camera used hospital betray network other record drama glove dwarf";

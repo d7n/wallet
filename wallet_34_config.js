@@ -1,1 +1,1 @@
-var mnemonic = "box kingdom tip empower shrug betray board degree play final half grit";
+var mnemonic = "jeans sense section float online notice monster attack love sausage unit more";

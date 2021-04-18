@@ -1,1 +1,1 @@
-var mnemonic = "clever extra pond melody attitude delay rule lamp unveil clean initial tissue";
+var mnemonic = "only adult hover slush price day mass genius peanut object robust distance";

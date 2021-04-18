@@ -1,1 +1,1 @@
-var mnemonic = "catalog napkin drip metal jewel tired topple school spell output stairs country";
+var mnemonic = "permit era traffic shield decade credit flame rebuild laundry dismiss vivid patient";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon aisle daring useful smoke junior pulp hockey price trade tenant write";
+var mnemonic = "adult lock bleak asthma join return penalty chicken science cinnamon prison alert";

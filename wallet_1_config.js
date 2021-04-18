@@ -1,1 +1,1 @@
-var mnemonic = "icon zebra carbon height shrug remember explain transfer club affair panic razor";
+var mnemonic = "weekend horn gadget chapter become depth bag object author identify fly tent";

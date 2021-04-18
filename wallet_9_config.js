@@ -1,1 +1,1 @@
-var mnemonic = "blood game group absent culture ball cabin advance latin bar execute option";
+var mnemonic = "unusual mixture security assume concert morning enrich proof subway saddle jar grocery";

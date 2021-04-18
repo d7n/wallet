@@ -1,1 +1,1 @@
-var mnemonic = "visit increase motion salmon surge sword neglect faint hello journey can fabric";
+var mnemonic = "soda mercy chronic income rebuild business outdoor erosion outside favorite opinion obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "develop donor carbon just faith zero chronic master weather vintage chef column";
+var mnemonic = "alpha kick label voyage coil lake possible coin sweet such traffic attack";

@@ -1,1 +1,1 @@
-var mnemonic = "liar raccoon elder still salad globe coral mesh virtual plunge insane vanish";
+var mnemonic = "jelly fruit into loud trick sell rapid budget wage moment color lumber";

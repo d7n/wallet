@@ -1,1 +1,1 @@
-var mnemonic = "top hospital dumb car divert predict seek rack acquire thrive rocket angle";
+var mnemonic = "vibrant march unusual scare convince shoulder sister erode indoor want glance large";

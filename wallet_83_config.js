@@ -1,1 +1,1 @@
-var mnemonic = "erupt plunge glance chair whale tribe ritual hybrid arrow lawsuit piece year";
+var mnemonic = "picnic shiver kiss retreat tongue present cake field crush nest snow camera";

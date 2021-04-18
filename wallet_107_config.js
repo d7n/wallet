@@ -1,1 +1,1 @@
-var mnemonic = "solve swift ocean catalog guilt kit plate monitor fault maple cruel olympic";
+var mnemonic = "gown summer fuel sock also fiscal rigid merge laugh autumn stamp melody";

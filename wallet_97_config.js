@@ -1,1 +1,1 @@
-var mnemonic = "hurt morning develop fatigue example boring shift choice cross parrot practice series";
+var mnemonic = "lazy recycle damp smile curve impose furnace plug friend where squirrel design";

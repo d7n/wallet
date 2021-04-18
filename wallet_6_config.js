@@ -1,1 +1,1 @@
-var mnemonic = "please bubble abandon response egg lion loud forget open knife potato teach";
+var mnemonic = "you odor flush skate bachelor head regret common anxiety series image creek";

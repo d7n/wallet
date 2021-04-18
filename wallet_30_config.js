@@ -1,1 +1,1 @@
-var mnemonic = "excess barely help since allow coin course envelope uncle flat suspect two";
+var mnemonic = "whisper during blouse east motion cupboard hello win arctic clean impact leisure";

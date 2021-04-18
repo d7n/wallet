@@ -1,1 +1,1 @@
-var mnemonic = "aunt scrap food rapid fit act crop spawn sauce rose accident yellow";
+var mnemonic = "tomorrow book wisdom grain lens brush much hole guitar dismiss click minute";

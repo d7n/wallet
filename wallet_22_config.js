@@ -1,1 +1,1 @@
-var mnemonic = "pen apple ill twelve wedding palm above grid nuclear finger entire cheap";
+var mnemonic = "library extend canvas peace happy coast doctor prepare skull banner unusual dad";

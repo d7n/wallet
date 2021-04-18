@@ -1,1 +1,1 @@
-var mnemonic = "exchange host shaft foot lunar tide satisfy account friend refuse weekend major";
+var mnemonic = "stay earth skill please damp tobacco steel twelve canvas fee bridge disease";

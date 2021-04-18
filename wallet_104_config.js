@@ -1,1 +1,1 @@
-var mnemonic = "cable approve afford hint mushroom bubble tennis include fiber fade safe program";
+var mnemonic = "stone mistake trend infant polar already erase organ stuff foil fabric pave";

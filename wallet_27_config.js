@@ -1,1 +1,1 @@
-var mnemonic = "swear order damp plate loyal ten forum invite card avocado ability cabbage";
+var mnemonic = "siege top fantasy happy sponsor coach clog shop number renew crowd once";

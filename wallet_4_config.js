@@ -1,1 +1,1 @@
-var mnemonic = "small stage embark inmate survey group sting photo crunch great mammal photo";
+var mnemonic = "bike liar time priority vocal domain chest arch grocery dance laundry smoke";

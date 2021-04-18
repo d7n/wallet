@@ -1,1 +1,1 @@
-var mnemonic = "diagram forward fluid elite ability flush guess nephew film fly toward clap";
+var mnemonic = "practice wealth job record tunnel fruit deer name board empty race blood";

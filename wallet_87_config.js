@@ -1,1 +1,1 @@
-var mnemonic = "cube early measure ceiling round twin brick shield enrich city own extend";
+var mnemonic = "faculty vacuum weather enjoy maximum say innocent begin village easily spice fox";

@@ -1,1 +1,1 @@
-var mnemonic = "tray edit welcome kitten oxygen decide witness join fly hidden mammal case";
+var mnemonic = "boring lumber usual web evil butter guilt system gain daughter empty immune";

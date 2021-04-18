@@ -1,1 +1,1 @@
-var mnemonic = "drill eager flee matter fiber detect aim start amount ladder field harvest";
+var mnemonic = "thumb response giant often breeze receive raven whale betray until sick draft";

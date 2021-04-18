@@ -1,1 +1,1 @@
-var mnemonic = "asthma cream joy evoke crucial matter survey suspect call legal force wash";
+var mnemonic = "pitch eight square fox daring choose brush often drift rose elder symbol";

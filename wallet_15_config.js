@@ -1,1 +1,1 @@
-var mnemonic = "fuel salt essence demise wagon critic sight plug quick bicycle jacket fortune";
+var mnemonic = "royal assume near pluck begin wall post auction dream bamboo load harbor";

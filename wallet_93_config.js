@@ -1,1 +1,1 @@
-var mnemonic = "recycle kit fall argue luxury breeze confirm blossom learn betray burger sad";
+var mnemonic = "village error faint rely oyster dentist exile question roast mule claw patrol";

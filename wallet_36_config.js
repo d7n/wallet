@@ -1,1 +1,1 @@
-var mnemonic = "ribbon urge taste duty divorce nephew wire lawn rebuild oppose squeeze bird";
+var mnemonic = "mean weather dish decrease bomb canvas circle amused biology belt dignity quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch insane police normal west raw morning enlist aisle journey public intact";
+var mnemonic = "frame inside position shed burger media grain select youth typical relax narrow";

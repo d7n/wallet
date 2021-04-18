@@ -1,1 +1,1 @@
-var mnemonic = "flavor defense page first mobile crouch broken dice occur innocent general cancel";
+var mnemonic = "thrive carbon always extend head nice tomorrow minute vacant rabbit foil prefer";

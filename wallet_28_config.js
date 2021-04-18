@@ -1,1 +1,1 @@
-var mnemonic = "faculty market above connect busy river improve best brain siege fee deposit";
+var mnemonic = "bamboo hazard brief vast auto nature certain fold inquiry record solve moment";

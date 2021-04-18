@@ -1,1 +1,1 @@
-var mnemonic = "accuse report satoshi forget tent wish verify powder foil copper access entire";
+var mnemonic = "supreme position river start sad wool result mask demand absent ghost today";

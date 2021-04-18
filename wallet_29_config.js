@@ -1,1 +1,1 @@
-var mnemonic = "pipe dog wear please hamster creek bird sense infant top inhale cupboard";
+var mnemonic = "nation garbage subject ramp illegal public apart oven hard toward range fork";

@@ -1,1 +1,1 @@
-var mnemonic = "hold potato scout double essence blind elevator cricket trophy magic museum hotel";
+var mnemonic = "include saddle speed slender hurdle rocket exist post medal south cabbage symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "animal suspect scrap social rubber worry joke token obtain valid twelve income";
+var mnemonic = "oven deliver mad carbon shrug puppy inner only onion call process crazy";

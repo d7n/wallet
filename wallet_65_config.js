@@ -1,1 +1,1 @@
-var mnemonic = "acquire pistol language tag trophy tool meadow vast basic fee angry favorite";
+var mnemonic = "remind common ecology fortune dinner item craft evoke olive image below mushroom";

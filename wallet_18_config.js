@@ -1,1 +1,1 @@
-var mnemonic = "legend crime volcano flush page duck twin face gift exotic air brown";
+var mnemonic = "thrive online fatal swap street profit misery angle scorpion pencil field jungle";

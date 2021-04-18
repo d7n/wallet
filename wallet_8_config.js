@@ -1,1 +1,1 @@
-var mnemonic = "any door bench visit salt upset virus lawsuit eight bubble august unknown";
+var mnemonic = "industry chair cloud betray cart weasel help aspect model excess only embark";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor above divorce express grit inspire extend human egg farm believe wide";
+var mnemonic = "hotel apple field match age scrub soda between cube sleep rebel outside";

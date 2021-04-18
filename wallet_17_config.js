@@ -1,1 +1,1 @@
-var mnemonic = "original absurd dress flee maze fetch banana sun when large kingdom lens";
+var mnemonic = "foster estate beef crop rubber mystery upgrade fuel monitor isolate orange video";

@@ -1,1 +1,1 @@
-var mnemonic = "subject morning neutral ask festival swarm borrow situate exact april intact draw";
+var mnemonic = "spawn airport ghost small vanish tissue dance wait eye clock trade keen";

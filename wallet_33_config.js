@@ -1,1 +1,1 @@
-var mnemonic = "myth thing marriage just explain inflict balcony pink eye accuse fame index";
+var mnemonic = "elder pear shove six six fun rescue reward design jump motion enroll";
