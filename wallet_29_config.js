@@ -1,1 +1,1 @@
-var mnemonic = "dog excess fetch bracket damp decide sure chaos invite crisp village render";
+var mnemonic = "clever ring wait faculty garlic blade walnut spray live hero salmon noble";

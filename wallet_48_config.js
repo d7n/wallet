@@ -1,1 +1,1 @@
-var mnemonic = "tonight wash grass crop tobacco omit lab affair more seek impulse scheme";
+var mnemonic = "quiz rich insect among vocal galaxy across ramp grape suspect floor torch";

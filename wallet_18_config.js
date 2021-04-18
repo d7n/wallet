@@ -1,1 +1,1 @@
-var mnemonic = "vocal neglect grief claim palace brave bone vendor float mail stove cargo";
+var mnemonic = "circle engine robust void answer feel panel raccoon electric demand anger october";

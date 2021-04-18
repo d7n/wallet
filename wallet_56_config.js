@@ -1,1 +1,1 @@
-var mnemonic = "token rain baby cat morning man capital wealth icon cupboard demise shadow";
+var mnemonic = "spoon ride roast tiny tower swamp link rally access visa ridge census";

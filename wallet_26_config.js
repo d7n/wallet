@@ -1,1 +1,1 @@
-var mnemonic = "alley deputy more obvious reunion slush sword gasp kiss road oyster under";
+var mnemonic = "opera angry endorse furnace average tone metal elbow damage naive lazy asthma";

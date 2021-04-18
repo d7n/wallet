@@ -1,1 +1,1 @@
-var mnemonic = "human maximum humor must antenna explain ordinary slender radio summer blast humble";
+var mnemonic = "gift welcome pact profit secret glove dinner section keen before million flash";

@@ -1,1 +1,1 @@
-var mnemonic = "effort sweet praise define monitor bundle pencil gym kiwi two hazard unknown";
+var mnemonic = "forest hockey isolate feature magic dice ring cube remind slender blanket hello";

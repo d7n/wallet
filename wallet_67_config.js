@@ -1,1 +1,1 @@
-var mnemonic = "lion dance situate audit wall okay jar tank dish vote arm absent";
+var mnemonic = "pipe crisp fossil timber coral grunt small random final stove embrace case";

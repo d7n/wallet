@@ -1,1 +1,1 @@
-var mnemonic = "mansion involve mercy cinnamon glad over model nominee ranch hair easily neck";
+var mnemonic = "bachelor float sand nurse gain festival boil reduce chuckle tuna club inside";

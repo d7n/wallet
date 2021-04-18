@@ -1,1 +1,1 @@
-var mnemonic = "equip stick sail loud false worth retreat property frame mansion creek alter";
+var mnemonic = "small admit faith school hundred frog clinic insect orphan will raise viable";

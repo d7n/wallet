@@ -1,1 +1,1 @@
-var mnemonic = "frequent derive unit anxiety size velvet boost spice limit mask smile alien";
+var mnemonic = "weasel foster deal multiply quality bulk explain episode leg economy prevent spike";

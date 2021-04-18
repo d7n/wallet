@@ -1,1 +1,1 @@
-var mnemonic = "lumber paddle hover news better desert neck liquid rice napkin bone unaware";
+var mnemonic = "now baby pet sorry friend oven method aunt danger curious online arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "industry unusual leg broccoli truly grocery carry luggage custom capable hollow laundry";
+var mnemonic = "before survey throw craft depth tide pizza reject okay spring wear empty";

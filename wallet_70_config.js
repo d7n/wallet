@@ -1,1 +1,1 @@
-var mnemonic = "emotion food suit purpose fun mammal bitter vast gym pelican shine okay";
+var mnemonic = "glad brick radio clump fit answer tooth damage unable birth speed sense";

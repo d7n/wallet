@@ -1,1 +1,1 @@
-var mnemonic = "door achieve source surge outer increase aunt ski vault invest engine lake";
+var mnemonic = "fuel identify virtual citizen shallow noodle quantum hybrid word smoke love dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "marine smooth merit cart hidden reunion donkey faint wood drift drip mixed";
+var mnemonic = "crazy genuine slab skull right bridge grass pattern traffic scrub wash diet";

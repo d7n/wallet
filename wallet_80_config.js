@@ -1,1 +1,1 @@
-var mnemonic = "duck unfair shadow wire cannon fiscal marriage record obscure source faint moment";
+var mnemonic = "embark local hole forward puppy result couple absurd bamboo fit differ canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "solution change turkey lounge bring gorilla salt fiber october please height visual";
+var mnemonic = "sun road quality brick sort almost edge shoulder example mutual boost error";

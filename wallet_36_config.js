@@ -1,1 +1,1 @@
-var mnemonic = "unit theory art birth state else cheese undo correct echo have auto";
+var mnemonic = "absent skill lucky strike scene try address inch disorder dilemma three strategy";

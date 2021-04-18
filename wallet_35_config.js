@@ -1,1 +1,1 @@
-var mnemonic = "undo vast crystal captain unfold inner cabin steel cricket rocket manage office";
+var mnemonic = "under fade sketch combine vivid embrace ramp spawn broom express middle donor";

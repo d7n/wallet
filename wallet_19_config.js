@@ -1,1 +1,1 @@
-var mnemonic = "tobacco slam book mask century witness near bread age hazard recall tragic";
+var mnemonic = "before armor damage pelican goddess hurry claim hawk uphold erosion one oval";

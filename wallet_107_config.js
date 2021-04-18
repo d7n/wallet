@@ -1,1 +1,1 @@
-var mnemonic = "mother mask penalty sample worry giggle dog coast avoid shrug dash dress";
+var mnemonic = "degree together strategy knee fiber honey three point swap canvas mail hand";

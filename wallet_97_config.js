@@ -1,1 +1,1 @@
-var mnemonic = "limit hen deliver leg badge spring report punch army since pigeon wide";
+var mnemonic = "bread trust truck ill simple topple nose funny chat ignore voice suggest";

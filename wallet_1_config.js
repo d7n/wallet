@@ -1,1 +1,1 @@
-var mnemonic = "vague word penalty wagon leaf frame blanket swarm theory easy garbage obey";
+var mnemonic = "super dash slam cause sun stove rude aim work network early economy";

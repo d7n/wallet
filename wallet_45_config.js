@@ -1,1 +1,1 @@
-var mnemonic = "wolf citizen innocent under raccoon spring blue execute decade cage theory memory";
+var mnemonic = "wool palm guitar strategy future ripple tomato mind obscure expect spring trophy";

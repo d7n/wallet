@@ -1,1 +1,1 @@
-var mnemonic = "soldier custom cricket bread awesome rose waste start acquire home skull gasp";
+var mnemonic = "adapt champion shop roast bind stereo sugar nose primary aerobic battle alert";

@@ -1,1 +1,1 @@
-var mnemonic = "measure boost endorse rail frequent dawn fury wing lobster key praise sun";
+var mnemonic = "wrestle royal trial copper floor machine table certain palace smooth question tray";

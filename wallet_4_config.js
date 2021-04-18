@@ -1,1 +1,1 @@
-var mnemonic = "slide muffin cupboard crisp ceiling damage next index when silent vocal bachelor";
+var mnemonic = "turn evil buddy adult august veteran logic duck capable balcony moral acoustic";

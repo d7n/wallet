@@ -1,1 +1,1 @@
-var mnemonic = "uniform violin best guide win base slam piece pair interest minor cycle";
+var mnemonic = "video shed trap trap hidden clown sail choose peace erase divorce ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "such fog fog mystery rude burden master chase matrix moral admit wear";
+var mnemonic = "tilt head army left crack clutch monkey fabric urge earth thrive ski";

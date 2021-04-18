@@ -1,1 +1,1 @@
-var mnemonic = "collect symptom mail task easy milk acoustic flame boy faith traffic escape";
+var mnemonic = "real humble original evidence pool sad crucial total cream despair stamp carry";

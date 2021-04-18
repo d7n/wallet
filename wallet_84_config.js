@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit coconut require rough bracket display auto crowd roof concert sponsor demand";
+var mnemonic = "junior trouble peace found rough twenty right finish heart tree milk correct";

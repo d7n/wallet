@@ -1,1 +1,1 @@
-var mnemonic = "flower release ladder happy anxiety scrap analyst cheap episode board flash okay";
+var mnemonic = "invest domain onion east accuse balcony update devote proud rice series excuse";

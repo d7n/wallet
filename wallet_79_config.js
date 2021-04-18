@@ -1,1 +1,1 @@
-var mnemonic = "settle kick people sweet royal forward simple aware gather unaware bright penalty";
+var mnemonic = "butter artist pledge apple flee describe vital letter earn fringe share error";

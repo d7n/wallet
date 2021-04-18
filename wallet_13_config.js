@@ -1,1 +1,1 @@
-var mnemonic = "venue reduce lawsuit buzz glove gold cash journey pave exit monitor goose";
+var mnemonic = "deposit limit resist train fiction kiss gap guitar nuclear paper sail twin";

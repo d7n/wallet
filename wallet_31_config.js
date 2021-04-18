@@ -1,1 +1,1 @@
-var mnemonic = "right immune faculty found gallery decide future custom shiver fish skate bring";
+var mnemonic = "slab wish hunt clarify moral under soda symptom silent vivid box cable";

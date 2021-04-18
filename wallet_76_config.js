@@ -1,1 +1,1 @@
-var mnemonic = "minute vocal charge man merge wash suggest dirt frozen various trap sight";
+var mnemonic = "acoustic cherry skirt snow west peanut rebel ensure dinosaur emerge canoe math";

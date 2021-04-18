@@ -1,1 +1,1 @@
-var mnemonic = "curve meadow garbage theory chief make bright scare burst rice first sunny";
+var mnemonic = "mixed vendor duck injury butter hat inquiry rain exact van cook plunge";

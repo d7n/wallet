@@ -1,1 +1,1 @@
-var mnemonic = "convince zoo kiwi timber remove lazy few cake drama circle claim anger";
+var mnemonic = "subject escape word clap hospital matter minimum day siege carbon junk rent";

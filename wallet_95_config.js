@@ -1,1 +1,1 @@
-var mnemonic = "quantum august vague float gallery economy toddler dirt woman weasel quiz alcohol";
+var mnemonic = "jaguar target tribe punch acoustic insect urge sell cruel earn snow circle";

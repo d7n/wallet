@@ -1,1 +1,1 @@
-var mnemonic = "this van mirror warm again neutral loan when tree next acid blur";
+var mnemonic = "humble gorilla end six satoshi carbon fortune bleak link always phrase return";

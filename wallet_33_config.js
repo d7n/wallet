@@ -1,1 +1,1 @@
-var mnemonic = "glass alter noodle pet share soup puppy vacant boy index adult illegal";
+var mnemonic = "spice razor oven sing source clinic book goose wage profit home artist";

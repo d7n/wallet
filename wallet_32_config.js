@@ -1,1 +1,1 @@
-var mnemonic = "corn head develop clutch man captain hold armor amused unhappy chief pupil";
+var mnemonic = "oval grunt menu hole learn screen hire open milk inflict sort stamp";

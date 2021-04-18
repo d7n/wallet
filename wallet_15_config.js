@@ -1,1 +1,1 @@
-var mnemonic = "bacon anger balcony bind decline prepare accuse dice drill cupboard season fluid";
+var mnemonic = "mango impact can time raise ski bind sail game coral guess latin";

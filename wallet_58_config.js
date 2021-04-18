@@ -1,1 +1,1 @@
-var mnemonic = "hand steel foster food paddle polar seek long clap shove bench kingdom";
+var mnemonic = "symbol neck middle arrest warm figure road thing humor about cushion suit";

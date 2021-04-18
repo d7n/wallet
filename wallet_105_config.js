@@ -1,1 +1,1 @@
-var mnemonic = "notice mutual bean pelican world juice thunder put float expire wagon mechanic";
+var mnemonic = "pool need awake drama nation hip loud report dice good east broccoli";

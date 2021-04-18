@@ -1,1 +1,1 @@
-var mnemonic = "maid foam rate surround violin allow assist abuse lottery stool myself quality";
+var mnemonic = "record execute frame lazy jazz bus found increase age catch tuna permit";

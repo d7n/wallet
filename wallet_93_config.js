@@ -1,1 +1,1 @@
-var mnemonic = "speak asset topple tackle unfold appear acquire pledge theme divorce certain office";
+var mnemonic = "sword soul uphold anchor subway click lizard ripple glimpse eight patient axis";

@@ -1,1 +1,1 @@
-var mnemonic = "belt aspect buddy toss indoor sort relief globe gather thing finger struggle";
+var mnemonic = "dragon similar turn bulb lady salon must demise attend suffer error wash";

@@ -1,1 +1,1 @@
-var mnemonic = "online tragic lyrics fortune elegant board shoe table alter flag husband smooth";
+var mnemonic = "enroll marble filter exercise anchor wide peace brick puzzle trade donate best";

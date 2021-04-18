@@ -1,1 +1,1 @@
-var mnemonic = "wise conduct pottery dismiss blue crime fall embody income curve dial tiger";
+var mnemonic = "narrow apple impulse collect bulk camera stairs slot skirt boost anger fade";

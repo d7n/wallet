@@ -1,1 +1,1 @@
-var mnemonic = "tragic language core reason prize toast excess cliff boss cover luxury rally";
+var mnemonic = "mirror limit fan deputy quit leader exotic plug normal tell reunion cube";

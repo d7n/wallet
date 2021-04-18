@@ -1,1 +1,1 @@
-var mnemonic = "seek leopard faith glory corn clip awesome panic wolf belt soda desert";
+var mnemonic = "mouse neglect apple pizza year wood mobile brisk desk fatigue injury chair";

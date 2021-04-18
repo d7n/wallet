@@ -1,1 +1,1 @@
-var mnemonic = "together photo demand tourist beyond critic drive scare insane split original reduce";
+var mnemonic = "pyramid fit crazy day inside educate kiss nest tone person exact ride";

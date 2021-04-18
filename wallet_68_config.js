@@ -1,1 +1,1 @@
-var mnemonic = "broken cattle frost solve media awesome supply again render laugh include gasp";
+var mnemonic = "dentist pull brass vivid lawsuit attend suspect have bronze glass crucial jump";

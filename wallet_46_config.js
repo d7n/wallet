@@ -1,1 +1,1 @@
-var mnemonic = "observe camp artefact limb mystery ship say drive swarm welcome armed truly";
+var mnemonic = "thumb access spoil hip remove diagram grab citizen pattern table patch middle";

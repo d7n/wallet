@@ -1,1 +1,1 @@
-var mnemonic = "tree poem miracle phone fix steel cycle casual slide target slam plunge";
+var mnemonic = "regular tail piano security robust decrease hint pole volcano indoor rifle urge";

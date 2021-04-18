@@ -1,1 +1,1 @@
-var mnemonic = "view below between cat august fan hat crater street gasp discover blouse";
+var mnemonic = "cute scout palm protect grunt spatial gentle arrive viable type royal spawn";

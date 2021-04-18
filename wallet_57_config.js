@@ -1,1 +1,1 @@
-var mnemonic = "master current laundry ribbon group follow napkin trial company cruel code ripple";
+var mnemonic = "ship genre enhance spread fortune level six luggage pepper clown danger plastic";

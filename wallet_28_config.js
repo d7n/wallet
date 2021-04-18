@@ -1,1 +1,1 @@
-var mnemonic = "actual joke afraid flush skirt right inform output evil expose labor worry";
+var mnemonic = "stock sketch hub sniff nothing patient lemon crime whale earn scout actual";

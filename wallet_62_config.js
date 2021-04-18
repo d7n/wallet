@@ -1,1 +1,1 @@
-var mnemonic = "essay number injury float beach elite hundred river coral animal rookie castle";
+var mnemonic = "brisk congress loud tool wine legend essay oppose search fantasy kitchen purse";

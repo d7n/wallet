@@ -1,1 +1,1 @@
-var mnemonic = "expect term goddess observe tip type shallow force net diet damage tooth";
+var mnemonic = "stamp frequent conduct gap must captain gain apple thrive tiger auto better";

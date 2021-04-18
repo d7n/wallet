@@ -1,1 +1,1 @@
-var mnemonic = "minimum voyage grief grunt bread fault join sound obvious fluid orchard warrior";
+var mnemonic = "saddle release flower meat guide edge raise flat brass license cover almost";

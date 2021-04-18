@@ -1,1 +1,1 @@
-var mnemonic = "feature foot bargain strike tortoise forget rate corn man melody acid heavy";
+var mnemonic = "legal color endless track swamp merit craft sound sort damp resist movie";

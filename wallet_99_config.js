@@ -1,1 +1,1 @@
-var mnemonic = "ocean economy typical glue panic barrel tilt humor material multiply coyote much";
+var mnemonic = "runway leave sock shoot fever tip hair name sketch avoid fold flash";

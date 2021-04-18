@@ -1,1 +1,1 @@
-var mnemonic = "range table library provide smooth latin foot debate regret bottom guitar cave";
+var mnemonic = "able empower orchard beyond journey blind burden pave bitter occur shed warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "credit waste velvet tiny clarify ramp benefit slim add song maid fog";
+var mnemonic = "aware way idea tissue body creek voice fog stairs early infant cycle";

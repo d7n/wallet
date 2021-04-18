@@ -1,1 +1,1 @@
-var mnemonic = "what punch duty live puppy clay shove spike express frequent dice okay";
+var mnemonic = "token slogan sell tribe album salmon tube tumble mandate this conduct cover";

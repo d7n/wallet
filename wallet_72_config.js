@@ -1,1 +1,1 @@
-var mnemonic = "slogan nut trip device onion menu doll cash glide eager truth reveal";
+var mnemonic = "marriage lake crumble force doll joke bid mask magnet fury royal off";

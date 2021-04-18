@@ -1,1 +1,1 @@
-var mnemonic = "tongue adapt upgrade stove axis raccoon action kid life monkey pave effort";
+var mnemonic = "page taxi extra fitness negative thing glove popular evidence busy wood eight";

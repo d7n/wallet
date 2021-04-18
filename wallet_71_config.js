@@ -1,1 +1,1 @@
-var mnemonic = "setup narrow blast shoe panther raven seminar vehicle elegant govern zone vast";
+var mnemonic = "upset chief region recipe swing oven receive about small lake nerve ship";

@@ -1,1 +1,1 @@
-var mnemonic = "provide turkey method soul hour tree oven search sadness climb domain maid";
+var mnemonic = "resemble typical ozone unit alarm crystal inquiry child orient twenty road ensure";

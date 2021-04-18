@@ -1,1 +1,1 @@
-var mnemonic = "fish permit mesh humble coil cheese middle cake stumble aim kid voyage";
+var mnemonic = "drip clean drink double cat brisk shoulder nuclear slice apology heavy winner";

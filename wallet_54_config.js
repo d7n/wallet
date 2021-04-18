@@ -1,1 +1,1 @@
-var mnemonic = "poem obvious have retreat keep awkward whip abuse satisfy depart zone ramp";
+var mnemonic = "decide step august abstract still install marine risk dutch whale custom army";

@@ -1,1 +1,1 @@
-var mnemonic = "say venture symbol visual palm luxury ramp utility fat survey valve wrist";
+var mnemonic = "float all belt forum bike sorry arch company close team cute fiber";

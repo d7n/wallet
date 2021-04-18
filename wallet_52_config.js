@@ -1,1 +1,1 @@
-var mnemonic = "concert shock ginger faculty hospital lemon fox gown trim actress coyote polar";
+var mnemonic = "convince magic dutch nuclear gap tribe vendor game attack bundle flip funny";

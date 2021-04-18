@@ -1,1 +1,1 @@
-var mnemonic = "pitch pretty shoe hurdle mercy monkey lion lend spray minute combine dust";
+var mnemonic = "liar pudding festival man admit moral rebuild need tiny father arena pen";

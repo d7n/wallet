@@ -1,1 +1,1 @@
-var mnemonic = "silver horn rebel another slim edge remember rival frost juice appear pair";
+var mnemonic = "globe loop rib sister bubble finish clean unable sister auto cable vote";

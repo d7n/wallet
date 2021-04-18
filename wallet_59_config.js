@@ -1,1 +1,1 @@
-var mnemonic = "eternal fan olympic ramp current limb grow pattern bounce bone city salad";
+var mnemonic = "loyal horse rhythm shrug truth various suit what flower void slush monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale stuff knock elevator monitor basket omit grant laugh knife glow story";
+var mnemonic = "fury gravity busy eight mango east one outdoor grab pupil round casino";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic camera notice before toss stereo salad list reduce devote rice soft";
+var mnemonic = "boss correct clip chaos creek insect anxiety volume bind icon mind reopen";

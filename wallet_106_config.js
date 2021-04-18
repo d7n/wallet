@@ -1,1 +1,1 @@
-var mnemonic = "theme dog online virtual fringe happy cupboard render leader search enrich stick";
+var mnemonic = "panel people vehicle attend borrow hedgehog small evidence latin minimum file hire";

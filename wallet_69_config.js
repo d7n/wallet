@@ -1,1 +1,1 @@
-var mnemonic = "web stairs chronic tomorrow decide divert broken gentle case van cause erode";
+var mnemonic = "profit skate boost jewel zebra dragon knock cactus bitter foot cover number";

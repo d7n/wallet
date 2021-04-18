@@ -1,1 +1,1 @@
-var mnemonic = "sight path dirt umbrella noise segment library mixture grid lazy priority evil";
+var mnemonic = "jeans odor speed suffer learn matrix sight dad uphold unlock mule evil";

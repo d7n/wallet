@@ -1,1 +1,1 @@
-var mnemonic = "actor couch common chat soda comfort appear deputy disorder alley move pottery";
+var mnemonic = "option fat border ball citizen always believe exotic quiz negative garment clever";

@@ -1,1 +1,1 @@
-var mnemonic = "opera marine brain flip cream jump casino coyote maze urban picnic cereal";
+var mnemonic = "divorce unable mouse excite judge envelope february female poem pond absorb profit";

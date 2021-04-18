@@ -1,1 +1,1 @@
-var mnemonic = "behind panic enlist sketch fatal firm patrol human fog obscure voice develop";
+var mnemonic = "define spring tell flower almost love simple pepper chapter squirrel where chest";

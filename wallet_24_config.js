@@ -1,1 +1,1 @@
-var mnemonic = "retire leave allow tip type crop skin average school clever also misery";
+var mnemonic = "insane victory jeans merit february crawl tail portion episode trim lesson own";

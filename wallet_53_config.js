@@ -1,1 +1,1 @@
-var mnemonic = "penalty small brass major use among hospital exit ski economy apple weekend";
+var mnemonic = "dolphin cousin ritual behind over duck release math auto giggle property twelve";

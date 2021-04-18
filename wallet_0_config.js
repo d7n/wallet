@@ -1,1 +1,1 @@
-var mnemonic = "jump situate trend napkin setup divide upset wise glare solve logic tank";
+var mnemonic = "script canoe junk allow digital one require endless shoot bundle mixture flight";

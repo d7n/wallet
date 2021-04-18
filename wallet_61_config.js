@@ -1,1 +1,1 @@
-var mnemonic = "below deposit power goddess curve arrow type royal bridge chaos object exist";
+var mnemonic = "weapon empower gown option million jaguar post image danger acoustic wagon pelican";

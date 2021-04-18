@@ -1,1 +1,1 @@
-var mnemonic = "leopard canal among find message bird screen fetch token early balcony opera";
+var mnemonic = "grab search nerve much giraffe unhappy consider rocket dizzy draft faint laptop";
