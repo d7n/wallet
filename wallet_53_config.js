@@ -1,1 +1,1 @@
-var mnemonic = "debris motor first that grain execute chef volcano flavor balcony upon urge";
+var mnemonic = "noise assault rescue remove auto garlic captain oil choose devote case scene";

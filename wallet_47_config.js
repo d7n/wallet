@@ -1,1 +1,1 @@
-var mnemonic = "surround roof clutch reduce slim exercise margin shoe ill search misery divorce";
+var mnemonic = "act blast poem oil dragon swing dignity view pluck typical amused rather";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic mimic else prepare afford during sing mouse state camera spy invite";
+var mnemonic = "before craft vintage elder admit tent observe push truth clinic track extra";

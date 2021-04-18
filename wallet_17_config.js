@@ -1,1 +1,1 @@
-var mnemonic = "electric reform sentence common orange method bird light taste nominee saddle fatal";
+var mnemonic = "deliver tumble rocket together force banner hello assault brisk anger bean metal";

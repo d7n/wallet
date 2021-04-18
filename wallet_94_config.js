@@ -1,1 +1,1 @@
-var mnemonic = "economy finger useless clarify quality discover useless crisp million borrow piano rough";
+var mnemonic = "system wing fringe accuse under volcano attitude finger employ ahead dwarf fresh";

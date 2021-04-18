@@ -1,1 +1,1 @@
-var mnemonic = "tuna sight wool stay skull banana bunker never trip length main funny";
+var mnemonic = "wrap cover seven address rug interest box physical plunge delay slow occur";

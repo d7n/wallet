@@ -1,1 +1,1 @@
-var mnemonic = "photo spare float sail top large frost danger festival fresh promote absent";
+var mnemonic = "sort rich own innocent liberty unaware kid snap speak shoot marine corn";

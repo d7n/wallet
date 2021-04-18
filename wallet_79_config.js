@@ -1,1 +1,1 @@
-var mnemonic = "impulse like lock deer swing fitness mom spin picnic drill sweet material";
+var mnemonic = "fancy convince wheel dune click over snap angle armed affair modify popular";

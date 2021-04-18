@@ -1,1 +1,1 @@
-var mnemonic = "tragic key clever vicious excite wrap bread neutral broom afford chuckle capable";
+var mnemonic = "jar village exchange accuse churn army three actor disagree pull payment equal";

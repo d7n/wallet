@@ -1,1 +1,1 @@
-var mnemonic = "music slim action prevent media taxi trouble judge upset call state aerobic";
+var mnemonic = "match rally topple sample solar hurdle moment crush good medal true relax";

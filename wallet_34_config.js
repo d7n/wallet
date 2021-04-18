@@ -1,1 +1,1 @@
-var mnemonic = "roof labor cloud payment worry fork crisp gas love attract since memory";
+var mnemonic = "wave stay oxygen torch accident exit walnut garden truth return waste window";

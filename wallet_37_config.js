@@ -1,1 +1,1 @@
-var mnemonic = "have sample ecology sick inform suffer enough acquire shy hill tip palace";
+var mnemonic = "multiply like start gain arena punch stadium cycle dragon rather tragic quantum";

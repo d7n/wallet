@@ -1,1 +1,1 @@
-var mnemonic = "demand club defense monster barrel drift arctic stem enemy anchor cotton tower";
+var mnemonic = "fatal pretty flag absorb lonely ten picnic bonus citizen couple silly farm";

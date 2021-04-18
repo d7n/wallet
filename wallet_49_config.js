@@ -1,1 +1,1 @@
-var mnemonic = "august praise quiz install fringe street swing teach rapid camp pulp thumb";
+var mnemonic = "evidence gain crucial smoke provide auto aunt grace filter month dose pitch";

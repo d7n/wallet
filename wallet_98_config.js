@@ -1,1 +1,1 @@
-var mnemonic = "license humor jazz father trust guide indicate half envelope firm trap student";
+var mnemonic = "flat unable loop hill thumb stage swarm vivid lecture omit orchard bitter";

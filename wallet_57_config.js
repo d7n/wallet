@@ -1,1 +1,1 @@
-var mnemonic = "kiss grunt join dirt brief camera beef initial victory milk social coyote";
+var mnemonic = "obtain property drum couch evidence fatigue shaft art seven domain sphere hover";

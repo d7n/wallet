@@ -1,1 +1,1 @@
-var mnemonic = "foot wrestle title lemon gold daughter depart eagle shield market foam bless";
+var mnemonic = "initial direct mistake fit can sign portion rescue around giggle among answer";

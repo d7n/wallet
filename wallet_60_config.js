@@ -1,1 +1,1 @@
-var mnemonic = "horn thought three liar echo load flock cancel crumble barely shock bomb";
+var mnemonic = "wealth require bread crisp license route around wine boss gap suit travel";

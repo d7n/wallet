@@ -1,1 +1,1 @@
-var mnemonic = "animal beyond advice tumble this soap risk custom rural seek praise combine";
+var mnemonic = "must room derive key eagle vibrant heavy alarm custom adult wish village";

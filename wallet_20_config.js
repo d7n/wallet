@@ -1,1 +1,1 @@
-var mnemonic = "basket shoe awesome wage light student bunker used anxiety delay awesome inflict";
+var mnemonic = "pass witness spike kick image dune spring wrist axis hurry sad autumn";

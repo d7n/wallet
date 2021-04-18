@@ -1,1 +1,1 @@
-var mnemonic = "address hope another move amount short whisper always speak aim crazy vicious";
+var mnemonic = "screen message helmet caught muscle video speed estate sadness time quote prefer";

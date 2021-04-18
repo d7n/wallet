@@ -1,1 +1,1 @@
-var mnemonic = "salute famous enough orphan deposit slot debris floor conduct hover leaf envelope";
+var mnemonic = "wrestle girl gadget female danger absurd six bike hammer consider margin unveil";

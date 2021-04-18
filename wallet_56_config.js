@@ -1,1 +1,1 @@
-var mnemonic = "jar gun use pumpkin sign title genius view alpha suspect slender blue";
+var mnemonic = "left silk unfair shy rotate outer urban item crime tuition inmate credit";

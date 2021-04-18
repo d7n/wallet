@@ -1,1 +1,1 @@
-var mnemonic = "december ignore that lawn asset defy remember inform badge cable hello tribe";
+var mnemonic = "result usage stadium identify upset van tortoise space language mobile video wedding";

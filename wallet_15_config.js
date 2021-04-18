@@ -1,1 +1,1 @@
-var mnemonic = "party firm expand blood engage useless calm thunder virtual real furnace swift";
+var mnemonic = "often tragic engine reward hospital invest humble buddy taxi universe snake where";

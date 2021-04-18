@@ -1,1 +1,1 @@
-var mnemonic = "urge season cable then below never crane torch stumble gallery pizza limb";
+var mnemonic = "bullet jaguar tide promote melt pudding sting concert horror surface arm equal";

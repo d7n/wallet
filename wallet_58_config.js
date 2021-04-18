@@ -1,1 +1,1 @@
-var mnemonic = "pitch square churn sample harbor keep clump winter donkey audit vanish dance";
+var mnemonic = "decide december neutral vacuum patient mystery village glass occur way dentist media";

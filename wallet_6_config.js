@@ -1,1 +1,1 @@
-var mnemonic = "walnut apart portion quarter pledge vintage bike talent wink radar evil agree";
+var mnemonic = "fringe beauty pyramid boat piece pistol member differ juice spin fabric issue";

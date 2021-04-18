@@ -1,1 +1,1 @@
-var mnemonic = "skull photo swing inmate nephew connect promote lunar rescue smile fitness arrest";
+var mnemonic = "bright voyage cruise spell reopen inquiry thumb like worry adapt actual sleep";

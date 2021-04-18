@@ -1,1 +1,1 @@
-var mnemonic = "blur tuition today casual attack yellow hair dirt flame regular dutch salad";
+var mnemonic = "physical wheel run lamp void affair vendor enforce sell vague ten smile";

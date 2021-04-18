@@ -1,1 +1,1 @@
-var mnemonic = "despair quarter predict interest short debris trigger nominee broken hover predict beef";
+var mnemonic = "pet crunch wash satoshi gauge rare evil deal area barrel sweet dynamic";

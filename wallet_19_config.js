@@ -1,1 +1,1 @@
-var mnemonic = "chimney grocery unaware access dumb spatial pig claim surprise tell lava spare";
+var mnemonic = "verify hub lab water logic metal unusual mandate cup arrow secret seek";

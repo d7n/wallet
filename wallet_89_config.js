@@ -1,1 +1,1 @@
-var mnemonic = "large final truly double can pull brown crowd illness suffer chat make";
+var mnemonic = "organ craft session dad artefact witness candy script just video oxygen better";

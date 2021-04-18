@@ -1,1 +1,1 @@
-var mnemonic = "genuine angry surface category dwarf path amazing material select void opinion erode";
+var mnemonic = "salon unhappy venture pulse holiday unit blind hub shed estate mandate river";

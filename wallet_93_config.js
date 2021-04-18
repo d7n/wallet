@@ -1,1 +1,1 @@
-var mnemonic = "train snap slow tent bargain moral elder wagon paddle enact female sure";
+var mnemonic = "neck knock exchange want deer peanut dirt census brief nose cricket grunt";

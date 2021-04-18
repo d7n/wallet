@@ -1,1 +1,1 @@
-var mnemonic = "item fun finish october payment injury tent tuna army prevent right run";
+var mnemonic = "utility improve wool mandate laugh snow odor night memory update eight butter";

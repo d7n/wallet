@@ -1,1 +1,1 @@
-var mnemonic = "october alarm glance sport lawsuit glance surround merit clown library badge fragile";
+var mnemonic = "access burst involve apple pact sphere noise unable pattern amazing enemy wrestle";

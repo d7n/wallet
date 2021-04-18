@@ -1,1 +1,1 @@
-var mnemonic = "tired bleak limit since brain enforce diary acoustic there home silk radar";
+var mnemonic = "rather attitude blast bright shuffle dawn code useless shock issue need among";

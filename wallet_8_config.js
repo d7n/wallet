@@ -1,1 +1,1 @@
-var mnemonic = "also acquire behind unable hover orbit walnut crane oven dance purse comic";
+var mnemonic = "swing mandate seven tornado sun fabric pigeon diamond swing annual gate before";

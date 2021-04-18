@@ -1,1 +1,1 @@
-var mnemonic = "topic forward fragile short weather life paper screen grunt box boring spare";
+var mnemonic = "slogan beef elite dirt secret rather invest boat pet side unusual outdoor";

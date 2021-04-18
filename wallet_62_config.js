@@ -1,1 +1,1 @@
-var mnemonic = "relax adapt trigger auction maximum guide olympic talk rival gloom life arrow";
+var mnemonic = "palace discover buddy penalty fabric space also prepare sugar horse opinion sentence";

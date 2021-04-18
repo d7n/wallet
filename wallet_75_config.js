@@ -1,1 +1,1 @@
-var mnemonic = "short dice tobacco slim seed leg festival craft square pilot eye east";
+var mnemonic = "tunnel muffin dwarf public twelve lottery prefer draft hundred winter course gather";

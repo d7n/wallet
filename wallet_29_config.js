@@ -1,1 +1,1 @@
-var mnemonic = "dwarf flee envelope margin tunnel mention dress interest margin insane buzz isolate";
+var mnemonic = "carry brisk panic maid tag hood love output trash ten want twist";

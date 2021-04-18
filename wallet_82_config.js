@@ -1,1 +1,1 @@
-var mnemonic = "join drop avoid destroy rather diesel repair buzz cradle patrol absent alpha";
+var mnemonic = "peanut order nest talk soda rent need drive office object choose option";

@@ -1,1 +1,1 @@
-var mnemonic = "core woman kind pond purpose capital genre explain duck urge wink egg";
+var mnemonic = "swim bachelor radar approve hollow soul actress sample version wood symbol ocean";

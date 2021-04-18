@@ -1,1 +1,1 @@
-var mnemonic = "smoke market topple balcony capital cave crazy poverty piano unaware now frequent";
+var mnemonic = "episode current energy better bird cycle proud bleak sing focus answer alone";

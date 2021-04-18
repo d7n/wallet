@@ -1,1 +1,1 @@
-var mnemonic = "clay maid motor foam sweet captain furnace magic deputy plunge furnace beef";
+var mnemonic = "ramp boil vendor weasel leaf real crime blame great execute mouse mule";

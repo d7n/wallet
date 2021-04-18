@@ -1,1 +1,1 @@
-var mnemonic = "improve exhibit work budget hobby angry dust leg strategy divide wing unusual";
+var mnemonic = "artwork devote soap rack intact unfold sadness use seven artefact flash sea";

@@ -1,1 +1,1 @@
-var mnemonic = "legal brass long six vote spot riot cart write antenna crew fee";
+var mnemonic = "paddle vocal fortune like garment exhibit want online promote become leaf rocket";

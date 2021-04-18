@@ -1,1 +1,1 @@
-var mnemonic = "sound antique question flavor ticket fashion galaxy yard vacuum treat cliff bubble";
+var mnemonic = "twelve little mass body wise jazz bicycle devote donkey trial surround gravity";

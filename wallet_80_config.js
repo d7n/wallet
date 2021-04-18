@@ -1,1 +1,1 @@
-var mnemonic = "network remind improve chuckle trap victory prefer sudden answer fresh inmate rare";
+var mnemonic = "swim space lunch token ugly issue cheese gas file report spend science";

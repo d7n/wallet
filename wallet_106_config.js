@@ -1,1 +1,1 @@
-var mnemonic = "antenna dumb mansion begin fix tell diet spy main item demand egg";
+var mnemonic = "asset empty cricket method renew bundle spare neutral tomorrow cook prize fire";

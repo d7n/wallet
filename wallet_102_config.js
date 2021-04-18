@@ -1,1 +1,1 @@
-var mnemonic = "put wash claw note under dizzy they treat then forget engage fall";
+var mnemonic = "ethics burger husband ticket clean boy asset column access onion holiday match";

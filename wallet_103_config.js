@@ -1,1 +1,1 @@
-var mnemonic = "polar high egg setup tourist pact ill spider gospel inform parrot table";
+var mnemonic = "dynamic mouse grow artwork weather vessel mushroom easily giraffe toddler awake conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "club state clog ring motor siege unit item mixture monitor almost swift";
+var mnemonic = "list client identify hurdle panic solar pen web chaos bike wrist traffic";

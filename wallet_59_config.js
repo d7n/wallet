@@ -1,1 +1,1 @@
-var mnemonic = "quote major giraffe gentle tattoo clutch connect man rack smoke science woman";
+var mnemonic = "neither leg stumble daughter buffalo asset joke skill inner deposit solid minute";

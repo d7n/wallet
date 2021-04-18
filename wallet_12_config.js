@@ -1,1 +1,1 @@
-var mnemonic = "uphold slush mad sport vast suit bag merit indoor above indoor neglect";
+var mnemonic = "yard deliver piano segment mom ability double abuse resource cheese idle current";

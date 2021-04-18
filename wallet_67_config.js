@@ -1,1 +1,1 @@
-var mnemonic = "voice laptop physical swim acid recipe humble piano blur december salad foster";
+var mnemonic = "behave surprise orbit naive begin swing lion side jeans lava dose dream";

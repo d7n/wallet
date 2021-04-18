@@ -1,1 +1,1 @@
-var mnemonic = "exchange company display correct dry interest umbrella announce lend ketchup island season";
+var mnemonic = "vague crazy three debris brisk surface base wealth face curve hurdle remember";

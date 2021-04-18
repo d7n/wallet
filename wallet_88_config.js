@@ -1,1 +1,1 @@
-var mnemonic = "wait inflict desert sun ahead spot work kiwi advice desert sick turn";
+var mnemonic = "hill reform dress west deer uncover pledge insane material raise squeeze exile";

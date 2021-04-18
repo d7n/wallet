@@ -1,1 +1,1 @@
-var mnemonic = "begin wood near build elbow worry room bounce security toilet capital violin";
+var mnemonic = "common quick initial glare inner decade oxygen clump denial wish kid crisp";

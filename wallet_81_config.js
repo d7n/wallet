@@ -1,1 +1,1 @@
-var mnemonic = "purse link decide live cereal worth between oval during put catch meat";
+var mnemonic = "reveal theme physical erase danger mule brand hawk fuel achieve depth hello";

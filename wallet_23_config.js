@@ -1,1 +1,1 @@
-var mnemonic = "relief hungry chalk thunder nominee hard inherit point proud civil hero kit";
+var mnemonic = "injury junk style junior doll slogan gain insect local tomorrow sock glove";

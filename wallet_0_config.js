@@ -1,1 +1,1 @@
-var mnemonic = "auction group vicious sea fiscal flavor artist absorb vanish coconut grow music";
+var mnemonic = "buffalo iron disease bone tattoo foam talent chair local script invite surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet kidney best deny edge fantasy word fuel style august ask oval";
+var mnemonic = "acoustic student total cave riot repeat invest yellow caution ivory drum snack";

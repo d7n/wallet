@@ -1,1 +1,1 @@
-var mnemonic = "maid vendor minor basic stem relief cereal depart slam feed acoustic melody";
+var mnemonic = "vendor faith warrior feel silly spike move pistol steak certain energy wait";

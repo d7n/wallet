@@ -1,1 +1,1 @@
-var mnemonic = "vault math better lab fetch tilt merit hobby tomato tip body drift";
+var mnemonic = "system cash resist crack ketchup wink tip useful belt shell palm engine";

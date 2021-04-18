@@ -1,1 +1,1 @@
-var mnemonic = "work clerk improve earth culture jar enlist helmet grape desert until bar";
+var mnemonic = "mass train lion meat work census egg turkey lazy day pudding frame";

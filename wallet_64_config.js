@@ -1,1 +1,1 @@
-var mnemonic = "hour degree border digital rigid emotion version friend web gesture frequent attack";
+var mnemonic = "announce swap access enlist fee life blush poem room finger one powder";

@@ -1,1 +1,1 @@
-var mnemonic = "zone relax reject correct super someone mistake atom elbow stairs pelican ski";
+var mnemonic = "manage silk rifle series report before child sight wish ensure evoke old";

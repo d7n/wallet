@@ -1,1 +1,1 @@
-var mnemonic = "slab napkin muffin must leaf balcony easy sketch mountain easily such dinner";
+var mnemonic = "punch minor oyster distance require crawl feel west volcano expire hero file";

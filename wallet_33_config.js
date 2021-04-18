@@ -1,1 +1,1 @@
-var mnemonic = "slow learn motion resist cement change obvious pistol differ alpha spin mistake";
+var mnemonic = "light gossip spider gift host inform attend bring frost sugar parrot inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "enough rival tail power cover warfare other void surface dial token evidence";
+var mnemonic = "category myth outer royal garden rug either hunt elder long gown pyramid";

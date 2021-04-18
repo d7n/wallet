@@ -1,1 +1,1 @@
-var mnemonic = "resist primary ginger bonus federal youth shaft young possible cloth fortune brown";
+var mnemonic = "artwork cage agent ethics large bird cage ginger claw arctic want swear";

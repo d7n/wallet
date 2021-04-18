@@ -1,1 +1,1 @@
-var mnemonic = "door someone salute repair topic acid tattoo heart ugly seminar stomach more";
+var mnemonic = "blur traffic address omit bicycle lucky knife another next smart juice height";

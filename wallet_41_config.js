@@ -1,1 +1,1 @@
-var mnemonic = "lawn diary inside traffic speed buyer grow visit thrive impose young act";
+var mnemonic = "aisle couple ability rib arrange because jeans cycle diary century road jar";

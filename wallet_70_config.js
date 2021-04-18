@@ -1,1 +1,1 @@
-var mnemonic = "toe cement inhale fish antenna intact impulse odor one harbor busy grace";
+var mnemonic = "meat denial embark snap never between finish minute gain destroy grief gather";

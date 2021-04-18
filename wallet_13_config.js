@@ -1,1 +1,1 @@
-var mnemonic = "light series castle amused bonus lawsuit raise sentence critic insane absurd loop";
+var mnemonic = "casual fiber fresh want else worry choose nerve grocery journey mystery punch";

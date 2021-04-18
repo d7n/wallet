@@ -1,1 +1,1 @@
-var mnemonic = "wire hundred dry neglect fish clever teach blur devote radar deposit nice";
+var mnemonic = "peace casino rich renew hundred oval door front trouble spot outer tiny";

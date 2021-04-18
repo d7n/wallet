@@ -1,1 +1,1 @@
-var mnemonic = "check cigar sketch gate grain real spider practice filter festival thumb mom";
+var mnemonic = "outdoor muscle dish elegant tell jar other notice suspect diagram nut detail";

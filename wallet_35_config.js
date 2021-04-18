@@ -1,1 +1,1 @@
-var mnemonic = "civil seven garbage sunset cinnamon ranch west dish name message step supply";
+var mnemonic = "decline trouble depend again robot adult next bronze comfort vague need elegant";

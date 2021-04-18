@@ -1,1 +1,1 @@
-var mnemonic = "harbor stool phone forward ankle shoe now music wide scrub before inhale";
+var mnemonic = "risk ugly call point bright decrease jacket organ medal camp able escape";
