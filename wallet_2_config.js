@@ -1,1 +1,1 @@
-var mnemonic = "stable tube afraid owner extend east mix latin message fee finish plate";
+var mnemonic = "violin gym bulk crack evolve wide blast distance economy accident young uncle";

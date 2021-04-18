@@ -1,1 +1,1 @@
-var mnemonic = "syrup draw canal forward stumble bulb glide original theory thunder rescue person";
+var mnemonic = "van this add early across clog stumble cannon unable merge frame twice";

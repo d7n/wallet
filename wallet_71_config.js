@@ -1,1 +1,1 @@
-var mnemonic = "comfort oven city noise thought space extra pave found bread rose slide";
+var mnemonic = "matter capital siren horror still robot net impose fish toast link use";

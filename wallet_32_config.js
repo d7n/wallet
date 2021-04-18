@@ -1,1 +1,1 @@
-var mnemonic = "agent find camera used hospital betray network other record drama glove dwarf";
+var mnemonic = "despair craft soon approve divide drive reject grant ozone frozen grocery alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn airport ghost small vanish tissue dance wait eye clock trade keen";
+var mnemonic = "poem divert resist hover hand verify deposit best aisle whip alter health";

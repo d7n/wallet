@@ -1,1 +1,1 @@
-var mnemonic = "whisper during blouse east motion cupboard hello win arctic clean impact leisure";
+var mnemonic = "evoke hurt cart shiver alone giant tell chest pitch easy when puppy";

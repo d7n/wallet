@@ -1,1 +1,1 @@
-var mnemonic = "frame inside position shed burger media grain select youth typical relax narrow";
+var mnemonic = "upper jump immense flame flame mansion amateur fame dizzy upper proud cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "genre source wing deny position stamp age ugly affair enough attend despair";
+var mnemonic = "neutral angry rare thought guard uphold frame violin enact hockey tumble minimum";

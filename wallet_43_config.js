@@ -1,1 +1,1 @@
-var mnemonic = "inject control edge estate egg jeans tongue omit fall sense arrive hub";
+var mnemonic = "duck become cook comfort human sort rain strategy insane dismiss echo oppose";

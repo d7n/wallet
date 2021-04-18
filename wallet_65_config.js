@@ -1,1 +1,1 @@
-var mnemonic = "remind common ecology fortune dinner item craft evoke olive image below mushroom";
+var mnemonic = "prevent lawn avoid embark grab gown tiger mimic manage seminar affair magic";

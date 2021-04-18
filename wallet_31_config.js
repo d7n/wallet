@@ -1,1 +1,1 @@
-var mnemonic = "thumb response giant often breeze receive raven whale betray until sick draft";
+var mnemonic = "midnight illness when loud network lyrics daughter crumble method uncover kingdom wrap";

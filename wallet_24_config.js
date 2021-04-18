@@ -1,1 +1,1 @@
-var mnemonic = "camera proud absorb pole note divert ask rebuild crush already legal around";
+var mnemonic = "media tilt duck job license owner chat horror jacket gun little pioneer";

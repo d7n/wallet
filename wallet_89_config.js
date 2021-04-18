@@ -1,1 +1,1 @@
-var mnemonic = "practice wealth job record tunnel fruit deer name board empty race blood";
+var mnemonic = "prosper salmon toss fabric april nothing kick endorse depth pool choose destroy";

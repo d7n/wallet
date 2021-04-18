@@ -1,1 +1,1 @@
-var mnemonic = "name spend zoo enough poverty virtual shop race beach crouch page office";
+var mnemonic = "list life borrow upset elephant brain rally joke jungle obey shift sand";

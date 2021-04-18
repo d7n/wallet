@@ -1,1 +1,1 @@
-var mnemonic = "table quarter engine repair retire tunnel combine wide machine fitness pole skin";
+var mnemonic = "radio order wrap collect purity horror reunion replace expect physical spy settle";

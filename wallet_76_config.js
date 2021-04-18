@@ -1,1 +1,1 @@
-var mnemonic = "used type account mountain crime gun teach tag rebel elegant novel else";
+var mnemonic = "picnic smart mirror supreme anger crash gate consider fish just gravity basket";

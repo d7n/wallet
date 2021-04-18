@@ -1,1 +1,1 @@
-var mnemonic = "moral harsh display below dumb rigid smile leisure rescue gorilla voyage country";
+var mnemonic = "ahead banner banner mandate dentist battle valid find night noise lucky argue";

@@ -1,1 +1,1 @@
-var mnemonic = "foster estate beef crop rubber mystery upgrade fuel monitor isolate orange video";
+var mnemonic = "type crisp evil crop trial wise loop job enter tiny rent volume";

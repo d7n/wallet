@@ -1,1 +1,1 @@
-var mnemonic = "pitch eight square fox daring choose brush often drift rose elder symbol";
+var mnemonic = "appear meadow hat owner major young like stable truth minor power tooth";

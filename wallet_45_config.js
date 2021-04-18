@@ -1,1 +1,1 @@
-var mnemonic = "solve later panel matrix exclude frame season ordinary toy primary gain virus";
+var mnemonic = "credit solution focus deer story genuine valid dentist afraid install client bleak";

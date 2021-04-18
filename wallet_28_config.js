@@ -1,1 +1,1 @@
-var mnemonic = "bamboo hazard brief vast auto nature certain fold inquiry record solve moment";
+var mnemonic = "during extra fetch secret bracket decade gas blade wedding mesh cook pig";

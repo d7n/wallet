@@ -1,1 +1,1 @@
-var mnemonic = "unusual mixture security assume concert morning enrich proof subway saddle jar grocery";
+var mnemonic = "shadow illness fan solution street pole enough spend between token idle issue";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic shiver kiss retreat tongue present cake field crush nest snow camera";
+var mnemonic = "body fantasy gentle wonder analyst heart unable grow barely actual pair maze";

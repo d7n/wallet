@@ -1,1 +1,1 @@
-var mnemonic = "only adult hover slush price day mass genius peanut object robust distance";
+var mnemonic = "cat check eager page forward monitor muffin mammal neglect ghost van whale";

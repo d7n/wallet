@@ -1,1 +1,1 @@
-var mnemonic = "industry chair cloud betray cart weasel help aspect model excess only embark";
+var mnemonic = "ostrich cube motor captain ribbon vital art jar shield front speed able";

@@ -1,1 +1,1 @@
-var mnemonic = "nest portion child they captain urban laptop sibling honey hold tenant extra";
+var mnemonic = "average until enable eagle secret host lumber keep rebuild disorder potato toss";

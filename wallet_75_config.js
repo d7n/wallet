@@ -1,1 +1,1 @@
-var mnemonic = "puzzle rival fashion other gravity regret cycle easily people bundle abuse spawn";
+var mnemonic = "inspire stand furnace flight sing fiction shoulder stable truly skull idle morning";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon panda shadow glory type brother blue morning safe open danger mammal";
+var mnemonic = "safe mango pony figure best cricket oak industry render install gasp resource";

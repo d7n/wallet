@@ -1,1 +1,1 @@
-var mnemonic = "desk group today message disorder prison there mountain dry junior panel absurd";
+var mnemonic = "trash skull struggle another dust language oxygen urge top barely slide praise";

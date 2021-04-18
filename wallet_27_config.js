@@ -1,1 +1,1 @@
-var mnemonic = "siege top fantasy happy sponsor coach clog shop number renew crowd once";
+var mnemonic = "random hammer brain prefer veteran soup famous eye quantum day ladder ten";

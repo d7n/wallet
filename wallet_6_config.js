@@ -1,1 +1,1 @@
-var mnemonic = "you odor flush skate bachelor head regret common anxiety series image creek";
+var mnemonic = "amazing horse hurry relax remind convince evolve perfect glide peanut entire globe";

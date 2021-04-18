@@ -1,1 +1,1 @@
-var mnemonic = "empty prevent faith height sunny obtain pudding champion junk visa decrease save";
+var mnemonic = "crane accuse river lock kitchen milk bicycle rotate mosquito absurd valve mercy";

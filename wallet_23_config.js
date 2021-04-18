@@ -1,1 +1,1 @@
-var mnemonic = "boring lumber usual web evil butter guilt system gain daughter empty immune";
+var mnemonic = "behind message erase girl torch length patient spatial fiction rapid shiver midnight";

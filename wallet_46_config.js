@@ -1,1 +1,1 @@
-var mnemonic = "horn keen poem run hill rival act usual shoulder shine team wool";
+var mnemonic = "loud cereal indicate ivory joke cabin switch vessel ready produce foil health";

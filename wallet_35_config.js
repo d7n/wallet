@@ -1,1 +1,1 @@
-var mnemonic = "intact addict shrimp canyon job worth coyote file waste humor slide mystery";
+var mnemonic = "purity basket talk begin motion only tongue there dinosaur scan easy viable";

@@ -1,1 +1,1 @@
-var mnemonic = "talent lunch arrange mesh dog faculty again version thrive always ritual zone";
+var mnemonic = "capital enhance grace traffic razor purchase hobby pigeon brisk suspect improve tilt";

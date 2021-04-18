@@ -1,1 +1,1 @@
-var mnemonic = "police bid ugly indicate vessel shaft vault perfect biology label end clown";
+var mnemonic = "forward burst color woman hidden cabin shaft civil prison frown tool indoor";

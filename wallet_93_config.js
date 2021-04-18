@@ -1,1 +1,1 @@
-var mnemonic = "village error faint rely oyster dentist exile question roast mule claw patrol";
+var mnemonic = "notice heart boss topple dress ten divorce essay tortoise mango subway walk";

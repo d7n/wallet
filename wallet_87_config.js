@@ -1,1 +1,1 @@
-var mnemonic = "faculty vacuum weather enjoy maximum say innocent begin village easily spice fox";
+var mnemonic = "faculty stomach scrub potato camera arctic witness mandate able chaos odor distance";

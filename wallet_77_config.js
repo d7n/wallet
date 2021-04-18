@@ -1,1 +1,1 @@
-var mnemonic = "lady vocal wheat picnic shed later sort print pattern frozen mail patient";
+var mnemonic = "bulb body tomorrow margin ostrich cover open control concert grunt deposit parrot";

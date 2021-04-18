@@ -1,1 +1,1 @@
-var mnemonic = "rabbit route now lens tissue day vivid window smart twelve merit twice";
+var mnemonic = "south accident viable great grape faith dirt source venue supply list side";

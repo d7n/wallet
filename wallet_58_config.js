@@ -1,1 +1,1 @@
-var mnemonic = "alpha kick label voyage coil lake possible coin sweet such traffic attack";
+var mnemonic = "ring stool gauge liquid sheriff collect common post private time crash bright";

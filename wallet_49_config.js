@@ -1,1 +1,1 @@
-var mnemonic = "index bird auto visual earth glove husband banner noodle angle burden deputy";
+var mnemonic = "jazz zoo priority dish decline cancel chief proud injury source tattoo under";

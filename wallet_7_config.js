@@ -1,1 +1,1 @@
-var mnemonic = "deposit angry improve gesture indicate typical twelve still secret obscure kidney topple";
+var mnemonic = "gospel bar miracle few decade believe harsh result mesh country umbrella purity";

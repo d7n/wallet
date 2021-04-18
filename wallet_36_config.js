@@ -1,1 +1,1 @@
-var mnemonic = "mean weather dish decrease bomb canvas circle amused biology belt dignity quiz";
+var mnemonic = "bronze upgrade milk depart unhappy jungle rocket firm unhappy question culture novel";

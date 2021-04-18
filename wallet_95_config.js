@@ -1,1 +1,1 @@
-var mnemonic = "fat degree tomato blind permit post season polar jealous silk visit black";
+var mnemonic = "favorite flock tip notice lady fiction cigar arm wool analyst van exile";

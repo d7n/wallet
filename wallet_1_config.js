@@ -1,1 +1,1 @@
-var mnemonic = "weekend horn gadget chapter become depth bag object author identify fly tent";
+var mnemonic = "bread record inner oven crush fetch swing sail armed abstract rather genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly fruit into loud trick sell rapid budget wage moment color lumber";
+var mnemonic = "bicycle ostrich perfect eye soup dizzy fuel leg provide fatal believe army";

@@ -1,1 +1,1 @@
-var mnemonic = "nation garbage subject ramp illegal public apart oven hard toward range fork";
+var mnemonic = "bulk paddle obscure paper misery orchard amused lady change country discover unlock";

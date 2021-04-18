@@ -1,1 +1,1 @@
-var mnemonic = "spatial amused arctic solution behave drum repeat drop main robust child problem";
+var mnemonic = "black pony library tornado rain army fuel weather rhythm stem large crush";

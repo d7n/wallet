@@ -1,1 +1,1 @@
-var mnemonic = "access rich minor sentence volume basic crumble make scrub digital diary ladder";
+var mnemonic = "add siege jeans shrug valve twelve maple own oil clerk behind blood";

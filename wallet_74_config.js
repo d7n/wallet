@@ -1,1 +1,1 @@
-var mnemonic = "super image amateur inch entire merge intact weapon just worry shallow favorite";
+var mnemonic = "young insect announce ensure problem base soap long air symbol hover rice";

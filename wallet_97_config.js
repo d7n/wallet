@@ -1,1 +1,1 @@
-var mnemonic = "lazy recycle damp smile curve impose furnace plug friend where squirrel design";
+var mnemonic = "regular defense business anchor olive frost protect category home cash make square";

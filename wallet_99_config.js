@@ -1,1 +1,1 @@
-var mnemonic = "civil radio extra globe pupil pool cattle breeze tennis eyebrow number modify";
+var mnemonic = "promote resist window jewel cabbage traffic drip slim snack venue torch route";

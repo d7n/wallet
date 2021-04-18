@@ -1,1 +1,1 @@
-var mnemonic = "leg loop total avocado eye ranch better never vault valid sweet situate";
+var mnemonic = "praise inject jeans sniff false diary amount cloud dad region convince winner";

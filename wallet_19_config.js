@@ -1,1 +1,1 @@
-var mnemonic = "creek frost plunge length outer ridge note bird lawsuit panda nephew alien";
+var mnemonic = "jaguar broccoli tooth jealous lunch dirt beach champion armed lazy slot level";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow book wisdom grain lens brush much hole guitar dismiss click minute";
+var mnemonic = "autumn loan civil opera rich decide mercy collect comfort virus session lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "library extend canvas peace happy coast doctor prepare skull banner unusual dad";
+var mnemonic = "acid already smoke lens live normal bread bar mule input sudden roast";

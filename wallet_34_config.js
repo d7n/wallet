@@ -1,1 +1,1 @@
-var mnemonic = "jeans sense section float online notice monster attack love sausage unit more";
+var mnemonic = "awful always march ramp live fog predict love myth scene unfold mixed";

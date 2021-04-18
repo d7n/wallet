@@ -1,1 +1,1 @@
-var mnemonic = "friend warfare captain sound wash access notable cake shell affair crush alien";
+var mnemonic = "garage please slice weasel boss wrestle depth slim crop crash office mobile";

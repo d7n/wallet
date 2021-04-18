@@ -1,1 +1,1 @@
-var mnemonic = "earth super wish control metal fog use cupboard april artwork dawn magnet";
+var mnemonic = "amused kiwi bubble misery pistol ridge surround degree prize guard super cloud";

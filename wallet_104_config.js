@@ -1,1 +1,1 @@
-var mnemonic = "stone mistake trend infant polar already erase organ stuff foil fabric pave";
+var mnemonic = "range much solve bronze vessel ensure improve frequent bid upon coin goddess";

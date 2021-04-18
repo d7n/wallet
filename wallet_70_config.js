@@ -1,1 +1,1 @@
-var mnemonic = "smoke ignore man shop hotel discover grab upgrade ceiling educate hair inhale";
+var mnemonic = "fury scout engage public chicken pretty mom humor move devote save jaguar";

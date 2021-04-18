@@ -1,1 +1,1 @@
-var mnemonic = "royal assume near pluck begin wall post auction dream bamboo load harbor";
+var mnemonic = "faith boy involve correct sand avocado immense enrich avocado fringe unknown genre";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle lecture spider tragic mother sun shoot squirrel toss refuse sudden spell";
+var mnemonic = "knock predict raven lawsuit dish patient frog similar theme piano antique eternal";

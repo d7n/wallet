@@ -1,1 +1,1 @@
-var mnemonic = "oven deliver mad carbon shrug puppy inner only onion call process crazy";
+var mnemonic = "body diagram size proof lemon urge virus trust chef aim stadium involve";

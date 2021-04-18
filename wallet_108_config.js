@@ -1,1 +1,1 @@
-var mnemonic = "adult lock bleak asthma join return penalty chicken science cinnamon prison alert";
+var mnemonic = "push until month later pave silver aisle monkey afford wonder anxiety shoe";

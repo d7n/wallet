@@ -1,1 +1,1 @@
-var mnemonic = "wise alpha panic seek weapon broccoli naive brush luxury drill flat gather";
+var mnemonic = "universe mosquito dream follow float unfair code carbon lonely turkey knock resist";

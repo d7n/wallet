@@ -1,1 +1,1 @@
-var mnemonic = "diet goose buyer rate garage caught suffer brief actress away garbage code";
+var mnemonic = "strong ordinary badge must erode slender soap lab disorder prison rug city";

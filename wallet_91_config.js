@@ -1,1 +1,1 @@
-var mnemonic = "craft mad tilt tired sound clog still analyst wine country wet century";
+var mnemonic = "option horn denial egg bind mansion live fiscal ramp best panic absurd";

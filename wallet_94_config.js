@@ -1,1 +1,1 @@
-var mnemonic = "nation devote winter embrace board ring kind language ugly copy farm energy";
+var mnemonic = "endless eternal chuckle unable fit rookie miracle bamboo distance energy modify jewel";

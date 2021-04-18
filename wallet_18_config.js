@@ -1,1 +1,1 @@
-var mnemonic = "thrive online fatal swap street profit misery angle scorpion pencil field jungle";
+var mnemonic = "boost page enhance valid lady mention leave spatial lab vacuum better memory";

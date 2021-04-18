@@ -1,1 +1,1 @@
-var mnemonic = "permit era traffic shield decade credit flame rebuild laundry dismiss vivid patient";
+var mnemonic = "erase nation visit stone cost sight connect arctic hybrid pizza margin unlock";

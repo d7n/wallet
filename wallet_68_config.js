@@ -1,1 +1,1 @@
-var mnemonic = "photo wood joy vital grief begin immune version coral hobby gaze unit";
+var mnemonic = "other join simple shoot where define worth photo maximum marble almost wreck";

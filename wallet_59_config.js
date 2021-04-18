@@ -1,1 +1,1 @@
-var mnemonic = "rug faith lamp avocado split orchard neither lunch prize abandon vicious smooth";
+var mnemonic = "spider click sound hard talk dutch into genius happy story vast just";

@@ -1,1 +1,1 @@
-var mnemonic = "silver text visual fun table merge tobacco corn present negative best slight";
+var mnemonic = "cliff try two index subway alter plate strategy gain miracle cage creek";

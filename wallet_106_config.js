@@ -1,1 +1,1 @@
-var mnemonic = "frozen ability omit head output snake bulb diesel pioneer crucial hour radar";
+var mnemonic = "oblige wall leisure unaware whale material direct ahead loud dignity slow eternal";

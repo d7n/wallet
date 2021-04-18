@@ -1,1 +1,1 @@
-var mnemonic = "gown summer fuel sock also fiscal rigid merge laugh autumn stamp melody";
+var mnemonic = "praise pistol stumble three above typical end duck special skate law hour";

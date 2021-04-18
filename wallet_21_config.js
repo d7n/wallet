@@ -1,1 +1,1 @@
-var mnemonic = "predict enjoy ride card poverty person antique service bacon person crash feed";
+var mnemonic = "twelve film lab volume main ball hollow stone there syrup seat brave";

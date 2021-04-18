@@ -1,1 +1,1 @@
-var mnemonic = "sad awesome example safe grunt exhibit tattoo rule state cook you vendor";
+var mnemonic = "speed access relief swap unfold load strong moment upon holiday profit cliff";

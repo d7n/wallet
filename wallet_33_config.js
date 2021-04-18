@@ -1,1 +1,1 @@
-var mnemonic = "elder pear shove six six fun rescue reward design jump motion enroll";
+var mnemonic = "hood book minute hint crouch elder brick vast siege friend purpose fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform cruel swap stool kiss rib lazy inherit possible essay dream group";
+var mnemonic = "icon cereal catalog half supply away all vapor embark other clump damp";

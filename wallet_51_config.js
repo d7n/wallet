@@ -1,1 +1,1 @@
-var mnemonic = "answer empower enjoy wave fetch marble supreme replace home pipe hello cotton";
+var mnemonic = "solve police one kind pottery obtain city clown gun violin author abstract";

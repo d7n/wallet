@@ -1,1 +1,1 @@
-var mnemonic = "bird away frequent pulse breeze assist quarter sense guess absorb humor panic";
+var mnemonic = "question old lift sun public focus pretty floor consider satoshi slight calm";

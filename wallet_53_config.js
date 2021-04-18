@@ -1,1 +1,1 @@
-var mnemonic = "share eyebrow organ spy plug spice hover enroll canoe warfare crop off";
+var mnemonic = "win surround shy cherry retire choose champion increase salt fresh zebra mimic";

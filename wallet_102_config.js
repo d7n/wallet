@@ -1,1 +1,1 @@
-var mnemonic = "great rotate injury allow gloom feature fun stereo fuel crew south culture";
+var mnemonic = "stone sign point wheat much dry midnight rubber receive force magnet code";

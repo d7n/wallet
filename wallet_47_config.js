@@ -1,1 +1,1 @@
-var mnemonic = "staff cannon jewel sword talent harbor invite used home theme battle design";
+var mnemonic = "gaze mobile scrap alcohol life ecology damp mixed expose lyrics multiply office";

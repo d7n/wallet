@@ -1,1 +1,1 @@
-var mnemonic = "guilt million rule witness link lobster essence bulk replace field auto lazy";
+var mnemonic = "sunset scheme oppose claim deliver prosper wine deny reveal believe act impose";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble vivid salon rally flock throw open avocado fitness acoustic race author";
+var mnemonic = "public onion bread bring rack say film wild razor oppose repeat uncle";

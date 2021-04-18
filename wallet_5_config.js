@@ -1,1 +1,1 @@
-var mnemonic = "trip glimpse tenant bounce next warm warm stand merge charge prison grain";
+var mnemonic = "olive scare index nurse charge dwarf teach unable sketch tide matrix vocal";
