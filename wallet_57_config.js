@@ -1,1 +1,1 @@
-var mnemonic = "lens cattle friend erupt planet sting embody pattern place youth faint quantum";
+var mnemonic = "gasp huge method foam skin vital axis desert patient sudden vote mass";

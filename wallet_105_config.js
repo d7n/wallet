@@ -1,1 +1,1 @@
-var mnemonic = "network clarify wool pear receive never you perfect trash mind dumb banana";
+var mnemonic = "world abstract spike bitter snow become burger clever own pride daring become";

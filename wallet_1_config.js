@@ -1,1 +1,1 @@
-var mnemonic = "reward tumble mosquito february parent weather chicken fever table visit slender wolf";
+var mnemonic = "exercise nation correct arctic crime almost switch head vague year baby glow";

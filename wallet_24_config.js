@@ -1,1 +1,1 @@
-var mnemonic = "burst erase write receive grass tube great kitten cactus sunset adult educate";
+var mnemonic = "rotate fox build ecology fringe morning pulp category utility blossom require cause";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle trigger mandate elevator music mushroom satoshi involve now lonely fat load";
+var mnemonic = "solve vault barrel truth manual card pony eyebrow proof you general trend";

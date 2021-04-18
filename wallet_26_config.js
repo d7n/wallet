@@ -1,1 +1,1 @@
-var mnemonic = "female word explain exact pole obtain regret chef stool sauce kiss faculty";
+var mnemonic = "divert angle marine solar nation pool horse gallery require type evidence measure";

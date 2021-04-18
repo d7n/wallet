@@ -1,1 +1,1 @@
-var mnemonic = "credit age arch month suit lava raw true service empower afford protect";
+var mnemonic = "city inherit note venture throw demand spatial pilot trouble shoe various palm";

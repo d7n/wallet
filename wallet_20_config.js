@@ -1,1 +1,1 @@
-var mnemonic = "make ritual venue doctor industry suggest ethics monitor student pepper bench grab";
+var mnemonic = "finish ankle family energy betray eager empower lady today source acoustic lamp";

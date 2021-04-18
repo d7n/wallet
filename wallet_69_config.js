@@ -1,1 +1,1 @@
-var mnemonic = "dentist caution rich luxury praise load fish resist mixed series rude stove";
+var mnemonic = "minor cross west any knock cushion uncle picnic drastic author solve siren";

@@ -1,1 +1,1 @@
-var mnemonic = "special clarify switch evil lava grant skate inch air song series derive";
+var mnemonic = "suit rubber image ahead teach insane excite parent invest beyond leg picnic";

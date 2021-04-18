@@ -1,1 +1,1 @@
-var mnemonic = "either afraid have rail shift indicate discover awake cloud donkey law cram";
+var mnemonic = "make hungry exclude deny team word spatial elder nuclear battle reason pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "business main rice artefact moon swallow east town cousin smoke boil nominee";
+var mnemonic = "tattoo magic carry cherry easy initial reason citizen sure winter fragile bind";

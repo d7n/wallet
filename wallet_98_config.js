@@ -1,1 +1,1 @@
-var mnemonic = "alley cricket okay merge lamp tape humble audit smile either feature sausage";
+var mnemonic = "above seek front defense aspect subway cycle rich spend pupil scatter arena";

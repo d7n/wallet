@@ -1,1 +1,1 @@
-var mnemonic = "elder grow umbrella lady puzzle move long globe matrix edge try bachelor";
+var mnemonic = "hen hybrid good remove fix speak correct lonely fit armor history simple";

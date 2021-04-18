@@ -1,1 +1,1 @@
-var mnemonic = "badge best room biology source hair myself bag egg tribe inject joke";
+var mnemonic = "liquid similar market remind mind buyer permit panic salute oil retreat where";

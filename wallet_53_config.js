@@ -1,1 +1,1 @@
-var mnemonic = "age melody today wife bike gift perfect autumn topic priority frown fury";
+var mnemonic = "run crumble huge resemble survey ketchup exotic husband matrix impulse toe spend";

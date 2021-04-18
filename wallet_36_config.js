@@ -1,1 +1,1 @@
-var mnemonic = "someone segment rather media hockey sheriff vague diagram mystery believe boring shield";
+var mnemonic = "narrow midnight same palace price menu moon enough radio paddle youth above";

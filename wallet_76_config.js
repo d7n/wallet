@@ -1,1 +1,1 @@
-var mnemonic = "notable camp volcano hint require defy bunker ramp salute health actor virtual";
+var mnemonic = "fresh fortune film then result will armor round average vital vivid inch";

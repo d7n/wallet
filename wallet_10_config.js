@@ -1,1 +1,1 @@
-var mnemonic = "praise vault hundred slender into assume tribe home chase cushion catch trust";
+var mnemonic = "sauce orange answer keen sense grid picnic rude animal kiss supply goat";

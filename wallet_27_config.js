@@ -1,1 +1,1 @@
-var mnemonic = "valley wage reflect improve rocket limit critic rebel fetch name concert casino";
+var mnemonic = "busy brief depend typical arm foot add tattoo success drama subject scale";

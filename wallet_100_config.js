@@ -1,1 +1,1 @@
-var mnemonic = "sure lens because service neck sphere leopard mixture panel switch valid detect";
+var mnemonic = "raw depart brain fancy canal walk message spice squirrel barely exit crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "dove juice ticket illness double harbor child similar move space wing trend";
+var mnemonic = "grow excuse evil eternal gloom gap rebel thunder turkey collect erode gain";

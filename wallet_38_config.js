@@ -1,1 +1,1 @@
-var mnemonic = "rug odor timber shy album spring diary angle under wet magnet menu";
+var mnemonic = "sponsor script attitude awake peanut moon faint salon spring lady truck tail";

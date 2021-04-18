@@ -1,1 +1,1 @@
-var mnemonic = "slogan young denial wink field change shed diamond payment kiwi try kiwi";
+var mnemonic = "follow calm trade idea able car layer situate trash lunar attend daughter";

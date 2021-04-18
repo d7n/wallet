@@ -1,1 +1,1 @@
-var mnemonic = "rich output fresh eagle pulp antique lift must snake farm opinion october";
+var mnemonic = "brisk lucky loyal desk keen task buyer dawn speed seek jealous oven";

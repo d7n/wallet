@@ -1,1 +1,1 @@
-var mnemonic = "exist olympic dune detail uncover slab lift acoustic surround cruise piano strong";
+var mnemonic = "almost salad ginger cloth sphere hurry share tank patch glad rally design";

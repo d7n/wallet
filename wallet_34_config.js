@@ -1,1 +1,1 @@
-var mnemonic = "funny hill artefact question coach shed nest miss device machine rifle opinion";
+var mnemonic = "debate shallow able matter carpet entry resist such cement trophy breeze absurd";

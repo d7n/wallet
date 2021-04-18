@@ -1,1 +1,1 @@
-var mnemonic = "attend pulp treat weapon lunch assist climb possible usage involve unit couch";
+var mnemonic = "panda space beef draft mass genius stuff gossip slice whale valid lens";

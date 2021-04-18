@@ -1,1 +1,1 @@
-var mnemonic = "nest style fortune area worry recall vault share vivid scorpion duty weasel";
+var mnemonic = "orchard clap solid tissue quiz void history pole name jazz moon thrive";

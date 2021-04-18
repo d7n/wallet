@@ -1,1 +1,1 @@
-var mnemonic = "day tower emerge census error hungry blind make spray boost vacuum blush";
+var mnemonic = "trash kiss ethics busy popular series wrap upon chair retreat burger almost";

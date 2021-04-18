@@ -1,1 +1,1 @@
-var mnemonic = "lonely when adjust honey acquire obvious solar height session change garden hope";
+var mnemonic = "festival bamboo crew wife mean range upper giraffe face mass long umbrella";

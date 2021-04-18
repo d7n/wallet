@@ -1,1 +1,1 @@
-var mnemonic = "above capital vault bracket chest clean organ pyramid patient cactus elevator throw";
+var mnemonic = "tube cinnamon duck input nut require judge swap solution sell exercise chicken";

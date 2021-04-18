@@ -1,1 +1,1 @@
-var mnemonic = "chronic elbow excuse valley update judge pumpkin topple curtain life soap valley";
+var mnemonic = "coach trophy uncle perfect icon afraid alarm speak giant gentle praise betray";

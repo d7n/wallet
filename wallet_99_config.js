@@ -1,1 +1,1 @@
-var mnemonic = "skate argue now general grain drip mind wood deliver company aunt enroll";
+var mnemonic = "attract front useless audit season cabin color romance raise drill hobby current";

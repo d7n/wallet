@@ -1,1 +1,1 @@
-var mnemonic = "fade velvet apart bag drift vendor arena member trust again mesh subject";
+var mnemonic = "journey wide grit example select price ahead pencil crime car record jeans";

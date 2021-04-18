@@ -1,1 +1,1 @@
-var mnemonic = "actual street plunge total wait lazy brother remain color stereo gather certain";
+var mnemonic = "cattle judge lyrics expire there canvas recipe chalk south harsh crash truly";

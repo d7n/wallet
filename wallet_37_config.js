@@ -1,1 +1,1 @@
-var mnemonic = "surprise air total category crash found squeeze uncle almost cherry ticket domain";
+var mnemonic = "napkin pair census accident tattoo habit novel cheese bag possible scan blanket";

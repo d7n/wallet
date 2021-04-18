@@ -1,1 +1,1 @@
-var mnemonic = "record giraffe era coach silly across behave shrimp alarm extra setup rebel";
+var mnemonic = "agree fan still thunder master region flag car shy knee cup kid";

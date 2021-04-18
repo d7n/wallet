@@ -1,1 +1,1 @@
-var mnemonic = "junk bleak scrap tourist picnic turn night faint pelican resist forget thing";
+var mnemonic = "junk crater rude figure print test smoke reason ripple then hero awesome";

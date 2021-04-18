@@ -1,1 +1,1 @@
-var mnemonic = "stable federal check canyon antenna outside shallow angry flag left atom broom";
+var mnemonic = "sort differ elegant hospital cruel seven embody else anger danger wrist bone";

@@ -1,1 +1,1 @@
-var mnemonic = "snake debris crazy brief pattern confirm position age update visit deer awkward";
+var mnemonic = "bullet guard group track become alien network over yellow dumb hood good";

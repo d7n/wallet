@@ -1,1 +1,1 @@
-var mnemonic = "pottery skate face avoid size feature coin cliff radar length glove crouch";
+var mnemonic = "force portion oblige bullet blossom boost bus coconut huge system place rally";

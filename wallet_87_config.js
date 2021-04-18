@@ -1,1 +1,1 @@
-var mnemonic = "lyrics talk isolate fly law honey among title rookie alter wrist wrestle";
+var mnemonic = "gadget two elephant current knife smile boat silver romance question pear across";

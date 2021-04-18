@@ -1,1 +1,1 @@
-var mnemonic = "shove error panic kiss alter ability absorb inch capable treat entry fat";
+var mnemonic = "luxury isolate virtual twice spend print disease drama frown certain funny afraid";

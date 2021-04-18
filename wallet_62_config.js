@@ -1,1 +1,1 @@
-var mnemonic = "tobacco crew jealous canvas rural valley fluid coin system sea bubble cause";
+var mnemonic = "urge number inch figure depart replace rule bottom city nut embark uniform";

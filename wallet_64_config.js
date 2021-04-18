@@ -1,1 +1,1 @@
-var mnemonic = "robot minimum bike exit exotic candy close daring prefer timber damage vote";
+var mnemonic = "hub like cram around human trust person advance all rally debris summer";

@@ -1,1 +1,1 @@
-var mnemonic = "language merge myself hollow deal oil rely ethics alcohol glow suggest guess";
+var mnemonic = "chaos athlete capital grape guard swing sing useless light void desert world";

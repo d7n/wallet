@@ -1,1 +1,1 @@
-var mnemonic = "thumb diary easily segment target panic crew satisfy few coyote symbol unfair";
+var mnemonic = "lunar deposit recall dust mesh wasp border distance ticket ship dragon wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle fire arrest rose patrol already language noise canyon ghost install spice";
+var mnemonic = "tray antique wheel kiss hurry whip used cricket child venture erode fabric";

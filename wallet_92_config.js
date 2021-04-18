@@ -1,1 +1,1 @@
-var mnemonic = "maple walk kiss purse around duty spot judge man better thing tag";
+var mnemonic = "pool fence often sing faint fit across tomorrow rubber rapid borrow outer";

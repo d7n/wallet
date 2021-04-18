@@ -1,1 +1,1 @@
-var mnemonic = "define energy cable absurd rough champion upper renew clip device abstract zoo";
+var mnemonic = "salmon visit reflect buffalo wise clean soft knife forward offer torch sphere";

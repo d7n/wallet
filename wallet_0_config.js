@@ -1,1 +1,1 @@
-var mnemonic = "drum refuse swing penalty convince lazy total fit modify advice amused talent";
+var mnemonic = "clinic industry save expand lab mechanic limb siege same slim member nasty";

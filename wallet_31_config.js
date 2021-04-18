@@ -1,1 +1,1 @@
-var mnemonic = "artwork sister hire oak private mistake truly movie hair silly output level";
+var mnemonic = "quote hazard renew solid twice airport correct drive until sniff size sport";

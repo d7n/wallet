@@ -1,1 +1,1 @@
-var mnemonic = "winter forward slot sun horror remain betray nest doctor august age miracle";
+var mnemonic = "daring draft phone salad alter leave ship stock cement fabric target charge";

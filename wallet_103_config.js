@@ -1,1 +1,1 @@
-var mnemonic = "ring tilt myself reject keep current roast element weather early case clean";
+var mnemonic = "link attract tired pool person lazy east effort safe knock worry pluck";

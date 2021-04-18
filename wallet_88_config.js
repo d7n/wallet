@@ -1,1 +1,1 @@
-var mnemonic = "solid viable supreme entry fault check material such balcony stadium bacon defy";
+var mnemonic = "magic sister matter dose valid paddle lounge popular veteran thing differ perfect";

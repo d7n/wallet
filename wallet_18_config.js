@@ -1,1 +1,1 @@
-var mnemonic = "vast pulp vibrant away educate profit cliff unfair shell crawl fall sand";
+var mnemonic = "suit connect clay nice crawl good frequent coin regular easy image sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "staff invest fiscal pulp shoe timber smoke first shuffle van tunnel sugar";
+var mnemonic = "hotel item snake labor clarify ritual gasp jacket churn poverty boy enter";

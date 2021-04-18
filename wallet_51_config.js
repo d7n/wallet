@@ -1,1 +1,1 @@
-var mnemonic = "alarm hotel orbit winter unhappy swim bike lens kiss gadget staff dragon";
+var mnemonic = "toss example easy trick level page shadow boss trophy daughter client donkey";

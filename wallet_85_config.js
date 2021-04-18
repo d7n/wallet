@@ -1,1 +1,1 @@
-var mnemonic = "bubble script cupboard dutch case squeeze guide gown resource retreat burst zero";
+var mnemonic = "citizen wolf agree earn execute ecology silent museum quantum duck diamond donate";

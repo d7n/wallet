@@ -1,1 +1,1 @@
-var mnemonic = "master screen thought west moon enough police total story renew front quick";
+var mnemonic = "pen puppy cluster spawn deliver will castle cube twenty walk hint mistake";

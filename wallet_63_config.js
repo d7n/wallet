@@ -1,1 +1,1 @@
-var mnemonic = "argue claim usage claw state glove spend deposit draw zero myth people";
+var mnemonic = "wire damage domain quality gift calm vacant space random van devote cable";

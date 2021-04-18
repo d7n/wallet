@@ -1,1 +1,1 @@
-var mnemonic = "appear cement spray scare reason address planet solve virtual unveil when hybrid";
+var mnemonic = "mansion nurse truth uniform foot evidence debris load version release clay pipe";

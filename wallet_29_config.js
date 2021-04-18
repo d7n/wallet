@@ -1,1 +1,1 @@
-var mnemonic = "sense seed embody leader actual diet duty bundle shallow machine alley muffin";
+var mnemonic = "globe club wink mountain basic muscle blade rug soon wing kangaroo shift";

@@ -1,1 +1,1 @@
-var mnemonic = "skin hold lens pencil industry spray knife foil flash symptom walnut unable";
+var mnemonic = "lottery mom churn age dash remind hair local hope corn own pipe";

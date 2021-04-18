@@ -1,1 +1,1 @@
-var mnemonic = "youth drop slim accident health someone sudden tilt whip chair soldier absurd";
+var mnemonic = "jazz smile rich alarm soup example cave speak timber size reward lazy";

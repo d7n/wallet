@@ -1,1 +1,1 @@
-var mnemonic = "rib legend math attitude category exercise echo aware inhale dumb forward space";
+var mnemonic = "slogan enforce banana cinnamon enjoy rich hen dance differ govern negative shoulder";

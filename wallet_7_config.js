@@ -1,1 +1,1 @@
-var mnemonic = "truly race plate myth glow execute remove frog banner culture dinner insect";
+var mnemonic = "truly twin journey text embody session excite three wrestle around enemy general";

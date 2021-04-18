@@ -1,1 +1,1 @@
-var mnemonic = "injury bounce hero genuine place course august move giraffe network category artist";
+var mnemonic = "produce civil curious drip art arrow panther menu whale duck exist render";

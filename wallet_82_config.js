@@ -1,1 +1,1 @@
-var mnemonic = "feel vote run climb another normal hurdle into shadow sunset era coil";
+var mnemonic = "squeeze approve barely favorite essence enrich photo awesome east stick poet cradle";

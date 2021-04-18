@@ -1,1 +1,1 @@
-var mnemonic = "deliver dragon illness guess entire economy chat cram ridge dinner bundle sense";
+var mnemonic = "tooth amazing unhappy radar hazard arena group gun evolve wealth keep that";

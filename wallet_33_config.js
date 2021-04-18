@@ -1,1 +1,1 @@
-var mnemonic = "settle addict replace rural zebra clean pause pole blood surge craft core";
+var mnemonic = "render machine situate snack negative raccoon retreat fitness marine bag equal panel";

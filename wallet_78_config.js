@@ -1,1 +1,1 @@
-var mnemonic = "dance floor room cruise hundred discover stereo metal best plunge celery crane";
+var mnemonic = "service dash light initial offer library street hill replace glance trouble diet";

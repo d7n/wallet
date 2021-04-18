@@ -1,1 +1,1 @@
-var mnemonic = "fabric want onion inside woman rent bind fabric derive tuition crazy link";
+var mnemonic = "tray rain about believe relax toddler desert forest describe anxiety camp believe";

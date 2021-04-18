@@ -1,1 +1,1 @@
-var mnemonic = "diet cereal collect cash blanket vocal vault arm surface hour around near";
+var mnemonic = "use letter illness heart jar music spray notable clay audit found blossom";

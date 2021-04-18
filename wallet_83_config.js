@@ -1,1 +1,1 @@
-var mnemonic = "quiz year soup suit around work wrist pull jelly where piece pattern";
+var mnemonic = "dilemma fix diet feel odor move violin emerge kidney omit load option";

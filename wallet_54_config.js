@@ -1,1 +1,1 @@
-var mnemonic = "other keen wolf armed analyst direct discover genuine allow antique audit farm";
+var mnemonic = "guard nominee solution horse slight rib claim siege inform true rocket crack";

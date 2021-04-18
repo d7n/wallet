@@ -1,1 +1,1 @@
-var mnemonic = "recipe advance spy quote banana scissors flower gaze mansion speak equip young";
+var mnemonic = "deal cause nation sick post head protect comfort mail hundred dry whisper";

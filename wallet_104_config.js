@@ -1,1 +1,1 @@
-var mnemonic = "budget special clown snack margin acid ball help genius excess argue diamond";
+var mnemonic = "wall nurse rate brick ride team frozen slogan agree crucial wagon banana";

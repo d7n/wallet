@@ -1,1 +1,1 @@
-var mnemonic = "warrior link rubber jungle denial chimney rude dog milk slice expect inflict";
+var mnemonic = "sign utility bless vanish tank mutual empower repeat census page combine bulk";

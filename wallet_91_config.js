@@ -1,1 +1,1 @@
-var mnemonic = "ticket tiny army heavy gather mountain remind chronic grant bacon leopard egg";
+var mnemonic = "globe marine box hurdle pull rotate betray donkey donate find bulb fabric";

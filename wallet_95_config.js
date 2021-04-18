@@ -1,1 +1,1 @@
-var mnemonic = "pill stumble skirt puzzle obey slow orient claim teach corn segment flame";
+var mnemonic = "front inner gadget stove mean logic onion funny hope topic mind carpet";

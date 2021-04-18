@@ -1,1 +1,1 @@
-var mnemonic = "gentle collect offer road special small farm category blur appear film possible";
+var mnemonic = "firm cushion inform rescue jaguar scale river brick total bitter afford alien";

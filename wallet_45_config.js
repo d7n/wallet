@@ -1,1 +1,1 @@
-var mnemonic = "bargain vocal moon space luxury pen pipe mixture goddess sell boat ocean";
+var mnemonic = "solar flavor such desert today sad circle expand unusual wild limb orange";

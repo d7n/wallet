@@ -1,1 +1,1 @@
-var mnemonic = "auction depend chaos enter shock prison pilot problem spin six group entry";
+var mnemonic = "busy flat setup tone beef renew truck world chunk horror degree simple";

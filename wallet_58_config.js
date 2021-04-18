@@ -1,1 +1,1 @@
-var mnemonic = "credit team ignore orbit image fever reopen today expire alcohol lumber elegant";
+var mnemonic = "until cluster margin trip avoid body napkin license fit hole wish voyage";

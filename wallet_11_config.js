@@ -1,1 +1,1 @@
-var mnemonic = "front track blast cheese hybrid pole velvet copy public wall twenty snow";
+var mnemonic = "celery job they unusual only slight wood clip obvious traffic worth slow";

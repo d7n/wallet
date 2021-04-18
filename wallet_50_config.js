@@ -1,1 +1,1 @@
-var mnemonic = "hard loud fiscal spawn worry fame elephant diary rebuild breeze identify work";
+var mnemonic = "toddler educate various tool arrive atom gym bar nice marine fabric rookie";

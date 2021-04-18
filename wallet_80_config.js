@@ -1,1 +1,1 @@
-var mnemonic = "hurry year ivory reward once tornado clever neutral throw enough organ sustain";
+var mnemonic = "stick more thought sea wet pepper assume acid carbon amateur good problem";

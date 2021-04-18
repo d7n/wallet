@@ -1,1 +1,1 @@
-var mnemonic = "comic panel frequent layer describe juice disagree gauge rally nose educate vessel";
+var mnemonic = "bachelor code prize own milk just avoid master cost sustain chef area";
