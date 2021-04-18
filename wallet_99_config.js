@@ -1,1 +1,1 @@
-var mnemonic = "lizard enough dove sound annual perfect cherry inherit pepper actual million kick";
+var mnemonic = "badge tongue arctic marriage text harvest genius toast hill muscle gym miss";

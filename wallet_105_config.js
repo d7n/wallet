@@ -1,1 +1,1 @@
-var mnemonic = "ripple enhance trap plunge purse punch alone erosion resource view solve power";
+var mnemonic = "merge ride collect predict capable lend ankle explain stumble private sure unknown";

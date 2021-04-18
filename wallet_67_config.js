@@ -1,1 +1,1 @@
-var mnemonic = "atom cherry excess vocal avoid blossom divide engage sorry blue square mom";
+var mnemonic = "adjust benefit reduce warrior neutral uniform hawk vast fatigue pitch address canvas";

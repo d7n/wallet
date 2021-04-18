@@ -1,1 +1,1 @@
-var mnemonic = "coin couch remain claim grocery gesture enemy come bench slab peasant hurry";
+var mnemonic = "stomach quantum sadness million guide segment utility honey wing hello lift digital";

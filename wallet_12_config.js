@@ -1,1 +1,1 @@
-var mnemonic = "soldier match always tip pride half couch move envelope cricket unlock wish";
+var mnemonic = "dish disagree moment deer catch violin figure expect humor peace nephew toy";

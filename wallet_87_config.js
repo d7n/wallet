@@ -1,1 +1,1 @@
-var mnemonic = "apple stereo reward october leave finish taste critic travel manage gap amazing";
+var mnemonic = "inquiry luxury theory topic enlist sell unfair bulk town capital original lawn";

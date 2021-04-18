@@ -1,1 +1,1 @@
-var mnemonic = "stadium install silent miss rival warm sock cycle caught bracket gate spot";
+var mnemonic = "baby around arctic meat toss gentle ball glad describe midnight cluster body";

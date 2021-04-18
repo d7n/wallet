@@ -1,1 +1,1 @@
-var mnemonic = "thank scorpion employ wrap antenna today random adult speak useful salute female";
+var mnemonic = "spring nice cup bacon cigar corn wisdom current three leave ugly final";

@@ -1,1 +1,1 @@
-var mnemonic = "square must paper surge immense useful wise salt fly festival gun first";
+var mnemonic = "limb carpet drink flee mail armed quick same rib you despair patch";

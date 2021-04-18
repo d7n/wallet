@@ -1,1 +1,1 @@
-var mnemonic = "spare bring cinnamon advance wash surprise unfair enable desk forget crucial cost";
+var mnemonic = "vacant gauge amused lucky settle resemble second guide roof spirit kid close";

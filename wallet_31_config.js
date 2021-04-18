@@ -1,1 +1,1 @@
-var mnemonic = "scheme maple mutual alien broken cry shoulder steel sense aim cream lady";
+var mnemonic = "music mouse wreck slight clip seminar gloom tooth sadness roast brother elephant";

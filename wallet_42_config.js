@@ -1,1 +1,1 @@
-var mnemonic = "region transfer guilt earth noodle yard crop nice job time organ host";
+var mnemonic = "sphere increase private twelve odor dutch talk brief inspire rate relax middle";

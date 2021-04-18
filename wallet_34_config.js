@@ -1,1 +1,1 @@
-var mnemonic = "index square wave zoo fringe dignity sense myth alarm arrange window furnace";
+var mnemonic = "clock arctic neutral detail shop camera planet eager lucky banana around conduct";

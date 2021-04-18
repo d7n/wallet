@@ -1,1 +1,1 @@
-var mnemonic = "window column detail proof drop suit system next chimney vanish captain youth";
+var mnemonic = "gown purchase vehicle public stairs infant fine nose fork clarify blue cup";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest repeat sketch crazy menu rubber come fork must during wage render";
+var mnemonic = "field wealth slot result soon naive caution faint dismiss wedding adult visit";

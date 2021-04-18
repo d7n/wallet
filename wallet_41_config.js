@@ -1,1 +1,1 @@
-var mnemonic = "fiction seed tired mule bid inherit armor paddle dish switch diagram outdoor";
+var mnemonic = "transfer business found pull math city frequent excuse tribe issue exist oil";

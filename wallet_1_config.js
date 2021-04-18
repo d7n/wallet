@@ -1,1 +1,1 @@
-var mnemonic = "one dirt area desert giant have despair rug picture say remember cargo";
+var mnemonic = "lunar laundry lamp taste soft range inspire seed attitude flight retire method";

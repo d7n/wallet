@@ -1,1 +1,1 @@
-var mnemonic = "history shock day relief awkward kitchen celery hedgehog casino soft cinnamon color";
+var mnemonic = "situate coach grief monster divide husband dune avocado all stage display symbol";

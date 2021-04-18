@@ -1,1 +1,1 @@
-var mnemonic = "wolf demise shift culture wheat twist effort human runway educate maze artist";
+var mnemonic = "mistake leg skin cluster provide blush effort smart lazy company boat novel";

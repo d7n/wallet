@@ -1,1 +1,1 @@
-var mnemonic = "journey dirt shove wait glimpse item convince raw calm useless gift boy";
+var mnemonic = "tip beauty family tired first protect now outdoor meat peasant spread together";

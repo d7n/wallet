@@ -1,1 +1,1 @@
-var mnemonic = "frozen home photo intact panther length rocket inherit remind once olive table";
+var mnemonic = "food they cook rally vehicle oblige picnic cargo baby field coral humor";

@@ -1,1 +1,1 @@
-var mnemonic = "club derive drip garment choose life know uniform hero mom uniform eyebrow";
+var mnemonic = "icon drastic female plunge flower sniff cruise clutch jazz frost paper flush";

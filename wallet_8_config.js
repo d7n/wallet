@@ -1,1 +1,1 @@
-var mnemonic = "design north ribbon scorpion energy silver pond path secret ancient crane tortoise";
+var mnemonic = "vast garbage hover hazard stage smart employ various pistol mixed erase stool";

@@ -1,1 +1,1 @@
-var mnemonic = "essay horror equal trouble kiwi gold cabbage planet jealous spatial hazard milk";
+var mnemonic = "there box remind wheel chaos chapter fox drift army exotic trash enhance";

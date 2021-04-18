@@ -1,1 +1,1 @@
-var mnemonic = "cart balance nurse harbor select witness afraid absorb thought hammer strong carry";
+var mnemonic = "link cheese skin spell habit dial pencil head earn coffee trust lyrics";

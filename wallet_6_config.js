@@ -1,1 +1,1 @@
-var mnemonic = "crane relief few found health cross flash razor enemy elder tuition chef";
+var mnemonic = "title produce pencil hair govern visit leisure spread edge negative leaf wealth";

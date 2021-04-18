@@ -1,1 +1,1 @@
-var mnemonic = "excess leg rib enforce square normal toast clip old foil panther ketchup";
+var mnemonic = "seminar aerobic despair agree panic feature copy enter yellow blue pool ramp";

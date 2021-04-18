@@ -1,1 +1,1 @@
-var mnemonic = "shop coil loud industry animal capital orange direct over fame fold session";
+var mnemonic = "gain budget cannon chief chase twenty noise burden rabbit convince biology render";

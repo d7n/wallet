@@ -1,1 +1,1 @@
-var mnemonic = "uncover mixture maze final person carpet very sign repair october manual swear";
+var mnemonic = "voice fantasy emotion armor all approve hidden napkin stomach raw door confirm";

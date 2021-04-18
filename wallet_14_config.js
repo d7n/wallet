@@ -1,1 +1,1 @@
-var mnemonic = "typical spoil meadow tiger grass chair usage much garden donor baby debate";
+var mnemonic = "medal perfect sock across ball random tube impact outdoor attend flat youth";

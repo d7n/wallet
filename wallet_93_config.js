@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur angle ball bone total pear pupil space skill finish crater sort";
+var mnemonic = "one green elbow other stick soul series foot long board envelope design";

@@ -1,1 +1,1 @@
-var mnemonic = "remember jungle glow hedgehog lake taste drill brain crush town grab useful";
+var mnemonic = "sphere power attitude minute lottery author crane hazard adapt move cost float";

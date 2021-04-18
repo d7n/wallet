@@ -1,1 +1,1 @@
-var mnemonic = "empower milk oven annual uncle over cash identify normal violin narrow witness";
+var mnemonic = "table dutch confirm kingdom space stay turn warfare radio begin refuse deliver";

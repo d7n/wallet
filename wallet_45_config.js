@@ -1,1 +1,1 @@
-var mnemonic = "disagree toss evil glare pear rain firm sun swift ginger display unfair";
+var mnemonic = "mass civil laptop finish spare finger property inflict unveil sketch master fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "aware digital speak motion social slide review sort elegant solid ill arena";
+var mnemonic = "slot impact company raccoon universe metal divert oblige ridge arctic candy juice";

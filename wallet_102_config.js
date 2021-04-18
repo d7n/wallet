@@ -1,1 +1,1 @@
-var mnemonic = "dinner raven drastic seven control kit depend mention credit barrel wedding hungry";
+var mnemonic = "aware window size element friend sorry bulk agree gym music enhance like";

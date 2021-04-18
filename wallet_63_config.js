@@ -1,1 +1,1 @@
-var mnemonic = "blast manage dumb omit gadget shop accident detail holiday soccer clay prevent";
+var mnemonic = "mosquito glow relief human avoid popular purpose best recycle dawn enlist fly";

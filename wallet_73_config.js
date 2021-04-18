@@ -1,1 +1,1 @@
-var mnemonic = "margin relax shoot blush rib feed evidence east baby lend debate plug";
+var mnemonic = "bulk napkin culture frame forum shallow dawn door rail luxury apart reflect";

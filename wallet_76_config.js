@@ -1,1 +1,1 @@
-var mnemonic = "total visual use devote evidence skill exotic drastic what real ability agree";
+var mnemonic = "hood easy zone kitchen only hazard shock cable keep small bright security";

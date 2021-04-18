@@ -1,1 +1,1 @@
-var mnemonic = "retreat ready pet van woman victory modify main goat grace midnight any";
+var mnemonic = "level rocket bid trip task present slab law purity execute mom six";

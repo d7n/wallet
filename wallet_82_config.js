@@ -1,1 +1,1 @@
-var mnemonic = "forward wrong february speak endorse rhythm model enough remove energy video lemon";
+var mnemonic = "entire sing devote clip car pupil donate shop slab local vessel prison";

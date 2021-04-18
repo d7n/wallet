@@ -1,1 +1,1 @@
-var mnemonic = "puppy blame woman track cram speed radio pumpkin pumpkin observe love parade";
+var mnemonic = "shop salute bring resist clerk menu echo exist keen response myth garment";

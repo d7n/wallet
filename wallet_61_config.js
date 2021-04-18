@@ -1,1 +1,1 @@
-var mnemonic = "bounce water stamp bridge thumb kite license choose defy success basket enable";
+var mnemonic = "glance vast morning egg slogan exile know talk network force own govern";

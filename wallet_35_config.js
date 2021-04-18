@@ -1,1 +1,1 @@
-var mnemonic = "depend harvest snow quality fee riot novel desert unable seven wing around";
+var mnemonic = "chuckle account tower miss today voice athlete view magic melt quote canyon";

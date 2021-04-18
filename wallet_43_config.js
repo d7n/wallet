@@ -1,1 +1,1 @@
-var mnemonic = "grit toast bread hamster mask aspect unhappy consider combine thought average unfold";
+var mnemonic = "wheat rib cause soda kiss armor kitchen hair cube west tone foam";

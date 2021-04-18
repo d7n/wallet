@@ -1,1 +1,1 @@
-var mnemonic = "modify whisper diagram margin oblige title canyon staff pioneer fossil confirm rule";
+var mnemonic = "artwork develop brave word pumpkin music library chair vault access swarm improve";

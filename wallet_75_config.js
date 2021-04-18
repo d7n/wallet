@@ -1,1 +1,1 @@
-var mnemonic = "merry play swift banner execute foam live tumble alert spike badge response";
+var mnemonic = "wrap oyster parent speak wagon express able resource heart another comic cloth";

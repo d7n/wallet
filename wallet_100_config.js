@@ -1,1 +1,1 @@
-var mnemonic = "across exchange mention mountain joke decrease spy promote soap cry economy yellow";
+var mnemonic = "oval now capital donor timber team other zoo anchor okay again sock";

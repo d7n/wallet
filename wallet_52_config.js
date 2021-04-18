@@ -1,1 +1,1 @@
-var mnemonic = "detect wrist athlete volume gasp sausage biology market burger garbage system impose";
+var mnemonic = "disease fabric segment gaze region orphan glove absent waste illness position imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter blind honey square tilt sister tenant box donate wire act solar";
+var mnemonic = "opinion humble trumpet acoustic magic recall border practice biology actor next mass";

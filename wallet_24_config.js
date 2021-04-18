@@ -1,1 +1,1 @@
-var mnemonic = "target math alone burst guess slam quote arrow guide cook debate toddler";
+var mnemonic = "tent attend tornado body happy perfect kiwi monitor old puzzle inquiry sunset";

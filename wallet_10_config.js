@@ -1,1 +1,1 @@
-var mnemonic = "original harvest current rice amount rate window match give country change matter";
+var mnemonic = "message perfect uncover blush orchard narrow physical habit talent ivory visual behave";

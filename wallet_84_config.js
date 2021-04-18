@@ -1,1 +1,1 @@
-var mnemonic = "economy relief favorite isolate switch mixture lamp universe pupil furnace sing pigeon";
+var mnemonic = "lazy excuse resource square vacuum sunset penalty rescue supply key disagree cloud";

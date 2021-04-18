@@ -1,1 +1,1 @@
-var mnemonic = "fiber leave swallow shallow jacket sponsor indoor wage head buzz all rally";
+var mnemonic = "hover text laugh plunge income skin tilt flush minimum segment puppy drip";

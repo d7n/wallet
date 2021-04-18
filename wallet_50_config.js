@@ -1,1 +1,1 @@
-var mnemonic = "amateur ridge pause sting eager lava suspect cluster security wood child mule";
+var mnemonic = "orchard release shop feature author antenna make bacon lecture multiply paddle unique";

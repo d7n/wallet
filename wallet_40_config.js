@@ -1,1 +1,1 @@
-var mnemonic = "wrist change trigger fabric basic film mom sweet surge give sand mad";
+var mnemonic = "choice ticket matrix approve galaxy escape issue ranch trash organ odor near";

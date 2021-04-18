@@ -1,1 +1,1 @@
-var mnemonic = "pill marriage spoon tube hard dice gauge defy neutral junk cube dove";
+var mnemonic = "like bamboo side pepper final spend man across alone gift limit pyramid";

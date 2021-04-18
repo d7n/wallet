@@ -1,1 +1,1 @@
-var mnemonic = "diamond bike lecture tail spring bench cruise often caught moon wolf system";
+var mnemonic = "flash clock capital belt square steak kick forum miss offer nasty exist";

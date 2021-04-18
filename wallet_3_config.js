@@ -1,1 +1,1 @@
-var mnemonic = "salon dolphin arch priority reason icon sauce child vehicle wood person tragic";
+var mnemonic = "original course adjust work tobacco immense solar venture repeat cereal tomato dove";

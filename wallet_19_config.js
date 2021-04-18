@@ -1,1 +1,1 @@
-var mnemonic = "kite deputy vapor price gesture chronic hello gossip breeze rule course sad";
+var mnemonic = "better ridge umbrella endorse match afraid rescue fragile silk bag melody dust";

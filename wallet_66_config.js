@@ -1,1 +1,1 @@
-var mnemonic = "need shed enroll harsh region then flee cool work jelly dismiss wave";
+var mnemonic = "fragile claw drive visual bench heart toast real asset latin goat live";

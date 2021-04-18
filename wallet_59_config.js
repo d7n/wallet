@@ -1,1 +1,1 @@
-var mnemonic = "basket vehicle monster kitten message share option latin general save fame best";
+var mnemonic = "stuff trip zone empower tree episode pool cargo scrap picture village ginger";

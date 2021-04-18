@@ -1,1 +1,1 @@
-var mnemonic = "host dilemma fever cave frost doctor dutch climb involve term magic describe";
+var mnemonic = "slogan level clog punch clinic thank seek depart bamboo kitchen surface lift";

@@ -1,1 +1,1 @@
-var mnemonic = "secret vague tissue slice palm pelican sniff embrace replace call possible unlock";
+var mnemonic = "wedding there autumn unhappy auto aspect ensure vendor aerobic salon afford tattoo";

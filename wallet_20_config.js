@@ -1,1 +1,1 @@
-var mnemonic = "behave sauce foot rare affair pear barrel april faith swallow interest scrap";
+var mnemonic = "midnight limb across simple behave sight video come six patch enhance cover";

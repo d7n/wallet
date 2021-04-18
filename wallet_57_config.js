@@ -1,1 +1,1 @@
-var mnemonic = "sadness item rent lecture toddler derive master owner tent noise worth company";
+var mnemonic = "wish peace soap blue crane green author film hurdle gallery cup island";

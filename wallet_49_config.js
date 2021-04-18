@@ -1,1 +1,1 @@
-var mnemonic = "rail taste easy opinion whip gentle isolate flash weird beauty general require";
+var mnemonic = "culture topple depend prefer brief hire away fire space waste reason silly";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog moon enough enemy drive pet option original spot gain obey tackle";
+var mnemonic = "gown rifle state wet boss strike depart maximum peanut spend board arch";

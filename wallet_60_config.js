@@ -1,1 +1,1 @@
-var mnemonic = "lazy celery help icon symptom citizen home amateur walk wolf review wink";
+var mnemonic = "tip over session history bring woman poem van steak weapon pony rifle";

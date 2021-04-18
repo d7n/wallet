@@ -1,1 +1,1 @@
-var mnemonic = "clutch scissors plunge level stand satoshi empty physical essay design retire adjust";
+var mnemonic = "hockey leader weekend neutral family insane casual trip upon market wasp champion";

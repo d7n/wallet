@@ -1,1 +1,1 @@
-var mnemonic = "surprise dinner donkey fox bundle call blind drink spirit kidney connect lab";
+var mnemonic = "cloth cattle bitter rare local grief climb bulb frost depth minor crane";

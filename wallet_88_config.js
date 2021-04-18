@@ -1,1 +1,1 @@
-var mnemonic = "fog despair sniff misery rent stone reject glad joy chapter slot boring";
+var mnemonic = "notable equip metal abuse blast veteran horn habit physical return bacon fog";

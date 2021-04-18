@@ -1,1 +1,1 @@
-var mnemonic = "day obtain one silk crater swear empower need all maple rug high";
+var mnemonic = "bracket candy police claim stone clip paddle rabbit host maple ladder speed";

@@ -1,1 +1,1 @@
-var mnemonic = "floor canal vivid tooth math gloom torch time apple syrup catalog vicious";
+var mnemonic = "art february left hockey pencil snow ladder capital unveil slow airport bachelor";

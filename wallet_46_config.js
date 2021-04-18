@@ -1,1 +1,1 @@
-var mnemonic = "eternal protect digital theory survey pet blind pencil express deliver season slim";
+var mnemonic = "vessel tonight stumble near fantasy copy peanut shrug explain lucky cave desert";

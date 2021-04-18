@@ -1,1 +1,1 @@
-var mnemonic = "warfare chair cloth photo extend great below sorry census before feel clown";
+var mnemonic = "reject way illegal arm orphan barrel dad mad depart glass pond coil";

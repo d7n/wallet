@@ -1,1 +1,1 @@
-var mnemonic = "soon dove spin eager roof cheap silk brisk winter balance distance blame";
+var mnemonic = "mushroom talent jar wave wrestle jar cycle bicycle sister poet build puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic duck brush tribe marble mule wide ginger fat output case devote";
+var mnemonic = "upper only cream expect boss behave gun song air stable sad success";

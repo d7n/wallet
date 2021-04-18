@@ -1,1 +1,1 @@
-var mnemonic = "panic need enlist toast veteran sheriff cup impulse advance distance because sketch";
+var mnemonic = "device federal library surprise toward forum forum crawl fish sell mother riot";

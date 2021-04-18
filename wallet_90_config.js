@@ -1,1 +1,1 @@
-var mnemonic = "mix neither burst include alarm expose pencil table arrow minimum hamster maid";
+var mnemonic = "proof assume immense damage fresh fiber nest chest shock drum ecology tumble";

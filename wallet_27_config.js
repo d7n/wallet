@@ -1,1 +1,1 @@
-var mnemonic = "flame crunch smoke frog enforce stamp green tornado host extra skirt enhance";
+var mnemonic = "wrestle skull scale orient jar adult benefit upper shiver honey hold rib";

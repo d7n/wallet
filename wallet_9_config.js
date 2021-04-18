@@ -1,1 +1,1 @@
-var mnemonic = "office devote woman skin island romance write office anchor tank spread window";
+var mnemonic = "museum room battle cry practice foster come page knock original claw whale";

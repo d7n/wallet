@@ -1,1 +1,1 @@
-var mnemonic = "bag capable wise sword bachelor scale glove surprise town obscure survey tent";
+var mnemonic = "trouble nose diagram soccer forum ranch reduce fan disorder drill suffer ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "best run soccer clay erode siege misery energy wing bless unknown pause";
+var mnemonic = "olive receive bone foster reopen term acid minor mother candy deal ask";

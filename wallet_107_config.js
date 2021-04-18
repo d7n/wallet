@@ -1,1 +1,1 @@
-var mnemonic = "choose injury illegal breeze area grass embrace excuse announce muffin gasp street";
+var mnemonic = "system summer scene medal country possible crush retreat muscle prevent evil usual";

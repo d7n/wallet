@@ -1,1 +1,1 @@
-var mnemonic = "mountain cherry embark sign hobby moon check sausage border become castle vehicle";
+var mnemonic = "figure load omit destroy under toddler vehicle coffee parrot organ tape menu";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit civil dad exotic spider neither upper country bundle autumn hover glue";
+var mnemonic = "habit fresh reveal used silent dinner rail element rhythm off false faith";

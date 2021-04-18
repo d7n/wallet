@@ -1,1 +1,1 @@
-var mnemonic = "valid blossom meat bless inquiry bounce rival property blade bomb you nurse";
+var mnemonic = "sheriff often face fox click gas stove fold vocal sand dentist permit";

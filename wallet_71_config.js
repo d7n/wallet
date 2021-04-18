@@ -1,1 +1,1 @@
-var mnemonic = "diary fly grit reopen way wire toddler awkward myself guard parade deposit";
+var mnemonic = "manage range pitch ability sport wild peanut ocean face home toy rapid";

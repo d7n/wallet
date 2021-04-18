@@ -1,1 +1,1 @@
-var mnemonic = "fruit doctor uncover two silent company length walk doll exclude tourist abstract";
+var mnemonic = "sense biology relax friend struggle correct ignore resist fashion price grid donkey";

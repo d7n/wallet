@@ -1,1 +1,1 @@
-var mnemonic = "gentle camera dinner parade exact destroy filter near burst frown device yellow";
+var mnemonic = "scale slush toy boil soft blind bridge heart file swim prosper wash";

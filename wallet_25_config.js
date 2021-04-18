@@ -1,1 +1,1 @@
-var mnemonic = "capital ball kitten toe harbor swallow spawn tone congress say frame this";
+var mnemonic = "tree switch review suggest lab coral until claim gravity engine narrow humble";

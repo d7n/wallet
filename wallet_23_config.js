@@ -1,1 +1,1 @@
-var mnemonic = "visit sock ball style pudding fabric muscle struggle fame fresh govern supply";
+var mnemonic = "market stay volume actual congress give embark topic uniform design dose state";

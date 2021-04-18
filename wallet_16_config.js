@@ -1,1 +1,1 @@
-var mnemonic = "frequent life lion initial salmon vote naive catalog jeans nasty swap mountain";
+var mnemonic = "boost turkey extra lecture hedgehog dragon order message satisfy vacuum adult pass";
