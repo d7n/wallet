@@ -1,1 +1,1 @@
-var mnemonic = "devote humble tell garden endless head keen eager earth want library peanut";
+var mnemonic = "design middle hammer shadow unusual word circle tonight february gym village rack";

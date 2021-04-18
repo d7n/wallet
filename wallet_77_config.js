@@ -1,1 +1,1 @@
-var mnemonic = "lock vessel cook spike system famous tortoise across observe yellow marine cheap";
+var mnemonic = "bag hospital else similar inquiry prison duck sausage math chronic column trust";

@@ -1,1 +1,1 @@
-var mnemonic = "cause truly chalk cotton educate mouse video maid royal lava gain text";
+var mnemonic = "avocado parent wheat silver stay affair inform tattoo dial lizard crumble chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "west venture grant target pumpkin endless august visual please inner submit cliff";
+var mnemonic = "eye bridge success river subway ostrich cruise renew verb athlete inside bundle";

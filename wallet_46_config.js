@@ -1,1 +1,1 @@
-var mnemonic = "rain street anger noodle aim half square shell nasty sausage into appear";
+var mnemonic = "risk test combine treat rally few success legal absorb lava ill cute";

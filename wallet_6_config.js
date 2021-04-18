@@ -1,1 +1,1 @@
-var mnemonic = "corn anchor one senior paddle portion shell marine virus onion poem engine";
+var mnemonic = "scatter desert dinner master absurd force baby squirrel work describe cake crater";

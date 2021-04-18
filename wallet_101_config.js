@@ -1,1 +1,1 @@
-var mnemonic = "issue little nature empty erode card rent reopen congress dune pole rib";
+var mnemonic = "satisfy danger dragon lend echo margin pyramid only bright fine wash brass";

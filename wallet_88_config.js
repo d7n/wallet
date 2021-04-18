@@ -1,1 +1,1 @@
-var mnemonic = "prepare shoulder motion useless budget broken entry unit mammal will exchange raven";
+var mnemonic = "fault faint boost blast accident spider hundred dilemma vendor once oven under";

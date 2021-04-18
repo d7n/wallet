@@ -1,1 +1,1 @@
-var mnemonic = "teach cargo modify fee kiss canyon bonus aisle review price inside supply";
+var mnemonic = "vapor forward dilemma amateur live stay job banner know fat village require";

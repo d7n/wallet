@@ -1,1 +1,1 @@
-var mnemonic = "bunker jungle chalk cram dawn reflect actor mosquito decline parade student effort";
+var mnemonic = "crowd bright notable hand oblige endorse suit like price catch inform allow";

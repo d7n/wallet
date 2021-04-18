@@ -1,1 +1,1 @@
-var mnemonic = "attack rebel mixture cool frozen issue kingdom friend royal boy pretty daring";
+var mnemonic = "damp purpose carpet daughter torch noodle uniform hello shed rice device science";

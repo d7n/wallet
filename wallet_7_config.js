@@ -1,1 +1,1 @@
-var mnemonic = "before light film unique clever identify eye capital wool hard material govern";
+var mnemonic = "tiny salmon fan monkey derive broken biology position hip novel marble law";

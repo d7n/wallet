@@ -1,1 +1,1 @@
-var mnemonic = "coral total mimic size gym kitchen rude inch film apart orchard flip";
+var mnemonic = "desert job strike disagree test scan uphold crumble lounge weird flip pair";

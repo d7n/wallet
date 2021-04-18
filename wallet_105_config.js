@@ -1,1 +1,1 @@
-var mnemonic = "skull install tackle quit loop snow regular chase umbrella change rival act";
+var mnemonic = "monkey worth beyond print invite aim volume broccoli swamp gasp calm trade";

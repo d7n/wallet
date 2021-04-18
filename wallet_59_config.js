@@ -1,1 +1,1 @@
-var mnemonic = "drop unaware dune hard cat sausage person only rice occur auction life";
+var mnemonic = "raise tent wage abstract parade stay firm crack question dove because edge";

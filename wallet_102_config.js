@@ -1,1 +1,1 @@
-var mnemonic = "depart usual film shoe celery path random gas unable program inject bench";
+var mnemonic = "task digital orange over mouse remove wolf focus piano horse airport eight";

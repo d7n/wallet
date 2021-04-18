@@ -1,1 +1,1 @@
-var mnemonic = "fury parrot tennis actual spawn doctor because tuna crumble awful share security";
+var mnemonic = "wise easily swallow mail skill board empty mass fancy machine siege dismiss";

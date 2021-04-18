@@ -1,1 +1,1 @@
-var mnemonic = "sign clinic elder swear album spare spice slide doll smile sadness night";
+var mnemonic = "glue dumb minute stairs join alone sad inform ability frequent judge miracle";

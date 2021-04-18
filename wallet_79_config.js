@@ -1,1 +1,1 @@
-var mnemonic = "boring inspire swear survey practice yard faint strong bone asthma beef champion";
+var mnemonic = "team traffic charge manage tag jazz quiz must tuition damp tomorrow camera";

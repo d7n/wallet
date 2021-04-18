@@ -1,1 +1,1 @@
-var mnemonic = "artwork push brain resist define door adult afford defense math fuel embark";
+var mnemonic = "aerobic abstract above extend lava actual raccoon logic enable conduct engine onion";

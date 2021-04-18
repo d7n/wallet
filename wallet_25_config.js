@@ -1,1 +1,1 @@
-var mnemonic = "guitar fringe now invest pet certain planet jacket team hint arctic lizard";
+var mnemonic = "inmate science parent ranch staff spot note turn diet glove stable engage";

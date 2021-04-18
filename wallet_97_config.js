@@ -1,1 +1,1 @@
-var mnemonic = "action choose express erase lonely tumble recall awake lab pelican ask fog";
+var mnemonic = "target cotton asset alien scout trade disease system wealth fever size base";

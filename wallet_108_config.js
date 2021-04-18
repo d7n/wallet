@@ -1,1 +1,1 @@
-var mnemonic = "blouse good private lake twelve mutual gravity term life runway library dish";
+var mnemonic = "purse trumpet decorate make surround garage soccer mandate parent humble bird glance";

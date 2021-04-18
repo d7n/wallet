@@ -1,1 +1,1 @@
-var mnemonic = "fire know mushroom enter guess clerk symbol avoid whisper maple fame embrace";
+var mnemonic = "twist claim gentle agree disagree poverty penalty arm discover hawk habit security";

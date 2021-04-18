@@ -1,1 +1,1 @@
-var mnemonic = "night art carpet various initial economy fan ordinary insane tissue potato rate";
+var mnemonic = "decrease beyond refuse illegal seminar pole what awful water give excess bird";

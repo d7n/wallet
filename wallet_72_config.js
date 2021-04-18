@@ -1,1 +1,1 @@
-var mnemonic = "earth wide animal maple kid kiwi weasel wink elevator fever strong design";
+var mnemonic = "rapid survey into pepper usual family breeze across inside donate slab panic";

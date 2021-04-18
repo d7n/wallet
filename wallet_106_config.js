@@ -1,1 +1,1 @@
-var mnemonic = "song path shoe spirit gather movie mean version float swift cabin script";
+var mnemonic = "urge trap chalk enemy armed vessel pipe grain supply theory awful way";

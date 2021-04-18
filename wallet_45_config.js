@@ -1,1 +1,1 @@
-var mnemonic = "melody often summer trap moment army venture immense document virtual source train";
+var mnemonic = "merit stuff link smart trouble chief maid stumble crush reject jaguar liberty";

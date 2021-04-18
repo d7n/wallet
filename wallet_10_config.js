@@ -1,1 +1,1 @@
-var mnemonic = "flame silk web behind pill issue arch two bag speak figure delay";
+var mnemonic = "open hill valid feel mistake express suspect head crystal side connect swim";

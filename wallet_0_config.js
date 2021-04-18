@@ -1,1 +1,1 @@
-var mnemonic = "hour brick trouble blind excuse maximum random bread merge garbage power train";
+var mnemonic = "stamp alley behave feature dinosaur liar double dash yard cigar suit total";

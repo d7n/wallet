@@ -1,1 +1,1 @@
-var mnemonic = "poem federal balance monitor hedgehog secret track notice foam hard easily bless";
+var mnemonic = "theory use wrestle shoot glide shaft pyramid wheat apart concert steak album";

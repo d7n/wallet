@@ -1,1 +1,1 @@
-var mnemonic = "print night oak script toast travel soldier slush title kiwi post holiday";
+var mnemonic = "dutch foil fringe wage torch state blossom tell grab error situate glory";

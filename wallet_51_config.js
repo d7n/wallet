@@ -1,1 +1,1 @@
-var mnemonic = "drip stomach above skull doctor blade sword wall flight door frown horn";
+var mnemonic = "buddy giggle shell march faculty asset trend ask sound occur decorate slow";

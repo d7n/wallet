@@ -1,1 +1,1 @@
-var mnemonic = "addict valid forward junior maximum salute local art social mutual series hundred";
+var mnemonic = "broken photo glide tongue hockey transfer cat among eyebrow smart very false";

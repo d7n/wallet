@@ -1,1 +1,1 @@
-var mnemonic = "thunder enrich adult own special narrow defense grit interest wave total race";
+var mnemonic = "excuse sail opinion pear citizen hill human split truth vicious say stay";

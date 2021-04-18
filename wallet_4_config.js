@@ -1,1 +1,1 @@
-var mnemonic = "october loan hub transfer action runway piano prison help inmate feature glad";
+var mnemonic = "always decide will couch crush bargain tornado kangaroo venture enhance double involve";

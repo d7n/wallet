@@ -1,1 +1,1 @@
-var mnemonic = "vintage october potato give athlete donor stove abandon leg scare ignore valve";
+var mnemonic = "sausage brave arctic luggage cross flock fiber great indoor sure quick core";

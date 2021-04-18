@@ -1,1 +1,1 @@
-var mnemonic = "connect figure absorb enlist giraffe badge hurry boat valve meat desk glad";
+var mnemonic = "lady company omit seek mesh all ice flower damage zero song hedgehog";

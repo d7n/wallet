@@ -1,1 +1,1 @@
-var mnemonic = "boost math common debate layer obvious interest gold march faint bright lady";
+var mnemonic = "milk blanket glue piece whip sleep this bring shed setup cram height";

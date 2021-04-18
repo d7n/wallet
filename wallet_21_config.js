@@ -1,1 +1,1 @@
-var mnemonic = "destroy finish feel term enemy focus around news odor fantasy trade notable";
+var mnemonic = "tag twin crater inflict toss lizard loan cheap wedding tornado length question";

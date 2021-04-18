@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow gold nothing grit state noise unveil company injury manual palace negative";
+var mnemonic = "satoshi stamp sail alpha seek cannon then wrong crystal receive road scene";

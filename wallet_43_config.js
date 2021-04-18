@@ -1,1 +1,1 @@
-var mnemonic = "tenant kid tuition endorse space gold mystery verify supreme offer inner bean";
+var mnemonic = "consider today cry spy dish gate effort spend stairs hawk daring safe";

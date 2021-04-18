@@ -1,1 +1,1 @@
-var mnemonic = "assume start blood path feel shell shift cousin rather eight modify either";
+var mnemonic = "employ moral since weather random dice office apple hope section turn attitude";

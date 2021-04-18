@@ -1,1 +1,1 @@
-var mnemonic = "lazy lemon hello cheese lumber catch scale ready oblige what ancient dumb";
+var mnemonic = "fruit service broccoli captain boat account debate social path dress law wheel";

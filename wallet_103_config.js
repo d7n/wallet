@@ -1,1 +1,1 @@
-var mnemonic = "abuse vapor metal street same side account repair trophy wrist boat grain";
+var mnemonic = "doctor hen armed decrease reason bounce until approve grid abuse teach wage";

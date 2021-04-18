@@ -1,1 +1,1 @@
-var mnemonic = "measure alone vague twenty cream welcome limit essay brisk peanut awake desert";
+var mnemonic = "cup expose debris mask breeze decrease supreme clog casino web toast tourist";

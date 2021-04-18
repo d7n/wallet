@@ -1,1 +1,1 @@
-var mnemonic = "tide exclude inquiry among tooth repair toe cactus cancel width armor stem";
+var mnemonic = "unique throw urge run latin suit supreme onion time frozen disagree destroy";

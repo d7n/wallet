@@ -1,1 +1,1 @@
-var mnemonic = "original foil section glory live glance icon evoke pride right loyal abandon";
+var mnemonic = "comic island indoor reduce marble change appear decorate praise ethics mechanic cart";

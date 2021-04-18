@@ -1,1 +1,1 @@
-var mnemonic = "theme coyote odor add alien pilot crew vibrant car demand crowd post";
+var mnemonic = "into pelican awesome sure antique daughter snow penalty misery surround before mail";

@@ -1,1 +1,1 @@
-var mnemonic = "tape ancient grant announce hole draw text liberty focus exhaust joy actor";
+var mnemonic = "push general impact satisfy mean dance thumb cactus celery faint shell bar";

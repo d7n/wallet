@@ -1,1 +1,1 @@
-var mnemonic = "amazing volcano clown jungle west derive ancient squeeze across situate chef marble";
+var mnemonic = "peace group balcony green stereo high true panda meadow large radio peasant";

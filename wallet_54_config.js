@@ -1,1 +1,1 @@
-var mnemonic = "sight simple grass cool tobacco inherit wise tip hand convince that people";
+var mnemonic = "change toward result space hand sponsor exhaust liquid remove push smart actual";

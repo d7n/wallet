@@ -1,1 +1,1 @@
-var mnemonic = "female arctic bounce curious claw jealous gesture push dice major start become";
+var mnemonic = "fringe clutch evoke ski victory label upgrade merge clock program angle method";

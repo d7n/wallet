@@ -1,1 +1,1 @@
-var mnemonic = "cupboard digital detail mosquito thumb carry shallow gallery require bag food floor";
+var mnemonic = "page lyrics into unable frost warrior shock act slam isolate bird gown";

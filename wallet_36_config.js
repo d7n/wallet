@@ -1,1 +1,1 @@
-var mnemonic = "credit gain find remind more hood alien try wheat audit parent ladder";
+var mnemonic = "auction avoid green sock boss radar picture walnut success correct into slot";

@@ -1,1 +1,1 @@
-var mnemonic = "child banana comfort tiny inmate typical dad pet tumble crush tackle yard";
+var mnemonic = "ahead plug engine salute burger mercy grit steak suffer upper side trust";

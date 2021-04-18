@@ -1,1 +1,1 @@
-var mnemonic = "struggle party dawn frog chat ranch toddler cart pipe vote sun master";
+var mnemonic = "wheat radar main stadium exist flock orange finger lunch window journey expand";

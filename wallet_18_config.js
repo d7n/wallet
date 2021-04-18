@@ -1,1 +1,1 @@
-var mnemonic = "train blood build moment hidden enemy tribe obey deposit oxygen reflect twelve";
+var mnemonic = "become artist mixture elder steak author tool tree unknown grape amount rabbit";

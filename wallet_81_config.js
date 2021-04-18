@@ -1,1 +1,1 @@
-var mnemonic = "release female unhappy visit sea push spare oppose remind web sheriff cram";
+var mnemonic = "scorpion pretty wash light vocal flag doll wild magic ankle fatigue differ";

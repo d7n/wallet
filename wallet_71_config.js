@@ -1,1 +1,1 @@
-var mnemonic = "vibrant loop law know gain click drift proud aisle summer evolve consider";
+var mnemonic = "alert exhaust canal voice bonus barrel oblige clip regret spice cattle gain";

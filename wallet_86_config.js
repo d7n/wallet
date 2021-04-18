@@ -1,1 +1,1 @@
-var mnemonic = "deer mix hip approve horse often delay better tired giggle voice link";
+var mnemonic = "arrange horn ordinary gloom color merit region shell mirror police tube vanish";

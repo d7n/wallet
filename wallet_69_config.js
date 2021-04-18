@@ -1,1 +1,1 @@
-var mnemonic = "sponsor hello inspire negative frost story assist essence mesh motor section genre";
+var mnemonic = "obtain kick lazy gravity churn toss sad reduce own month side plunge";

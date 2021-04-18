@@ -1,1 +1,1 @@
-var mnemonic = "six swift edit seminar next hope rapid corn gallery across wine waste";
+var mnemonic = "cram argue typical flight dolphin body inherit afraid comfort hungry climb wisdom";

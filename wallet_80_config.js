@@ -1,1 +1,1 @@
-var mnemonic = "defy merge glue charge air gift pluck memory share suggest spider practice";
+var mnemonic = "twice deputy easy rug expire concert party album scene true peasant echo";

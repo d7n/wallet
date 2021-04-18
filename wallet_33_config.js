@@ -1,1 +1,1 @@
-var mnemonic = "purpose soft room foot foot title junior anxiety miracle boil teach peasant";
+var mnemonic = "bag relief program duty horn cry trade usage torch exist carbon cake";

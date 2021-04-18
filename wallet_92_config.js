@@ -1,1 +1,1 @@
-var mnemonic = "cube umbrella oil more bachelor wing lift shop sponsor velvet someone laptop";
+var mnemonic = "vanish cloud copper lion frame lava flip dance pistol erode cherry found";

@@ -1,1 +1,1 @@
-var mnemonic = "device rent vacuum sign buddy clarify model absurd high vague vicious shock";
+var mnemonic = "party turtle ghost fantasy execute chalk learn make member name girl pistol";

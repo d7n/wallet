@@ -1,1 +1,1 @@
-var mnemonic = "sing tide wing obvious pupil differ finger stock buffalo engine royal guide";
+var mnemonic = "finger little fetch bridge smoke spoon world menu perfect tennis notice rally";

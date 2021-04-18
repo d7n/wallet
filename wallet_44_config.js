@@ -1,1 +1,1 @@
-var mnemonic = "adapt winter fancy cook improve trip artist boil shrimp ship slide view";
+var mnemonic = "mixture mutual dove uphold valid file fabric stock choice wisdom fly dial";

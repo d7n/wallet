@@ -1,1 +1,1 @@
-var mnemonic = "own isolate weekend float icon large text turtle artefact bus unfair stool";
+var mnemonic = "solution table inside spray list cruel trash device right nerve fee until";

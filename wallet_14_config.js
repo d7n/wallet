@@ -1,1 +1,1 @@
-var mnemonic = "hidden orient admit idea rebuild load robust tumble before trip midnight favorite";
+var mnemonic = "jeans thrive paper animal provide legal chest risk best marine bronze believe";

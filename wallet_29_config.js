@@ -1,1 +1,1 @@
-var mnemonic = "zebra beauty doll shed figure wish castle near citizen melt rain rare";
+var mnemonic = "label vessel bullet broom crash hood maid want champion route cruise donate";

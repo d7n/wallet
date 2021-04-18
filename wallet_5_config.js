@@ -1,1 +1,1 @@
-var mnemonic = "educate human frozen twelve nominee ranch almost food ridge voyage situate brush";
+var mnemonic = "term shift spy wreck buddy october praise shift august vanish acid rival";

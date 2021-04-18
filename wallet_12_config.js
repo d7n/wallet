@@ -1,1 +1,1 @@
-var mnemonic = "glove glass rather vintage lend brother dream upgrade planet clown swear wash";
+var mnemonic = "chief poet prepare pause tennis life carpet split thank chief task quit";

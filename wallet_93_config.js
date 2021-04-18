@@ -1,1 +1,1 @@
-var mnemonic = "tenant awake forward hole eyebrow casino tragic describe deposit seminar pulp always";
+var mnemonic = "glare acquire beauty pair federal galaxy weapon scout ritual olive print ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "gate ranch chief alpha feed best clay moment duck virus talk myself";
+var mnemonic = "draw network must ostrich exhaust slush when romance own cheese again inhale";

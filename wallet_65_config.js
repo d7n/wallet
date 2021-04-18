@@ -1,1 +1,1 @@
-var mnemonic = "produce cake light eye anxiety cave tip blur hedgehog order bag wish";
+var mnemonic = "poet snack pond cushion legal stay claw define mad glance know again";

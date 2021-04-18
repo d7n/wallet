@@ -1,1 +1,1 @@
-var mnemonic = "cat body object simple under broom walnut village sign energy blur report";
+var mnemonic = "weird great valid include volume border issue cactus wear heavy glide giant";

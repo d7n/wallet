@@ -1,1 +1,1 @@
-var mnemonic = "love blue cereal coyote huge close axis earn material jump trend asthma";
+var mnemonic = "side vocal erosion kick supply manual bronze public cattle tiger sleep rubber";

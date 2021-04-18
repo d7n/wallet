@@ -1,1 +1,1 @@
-var mnemonic = "desk regret fiction good force reform antique gown trim crane office canyon";
+var mnemonic = "check mom same debate parent loyal legend legal kitten quality venture upgrade";

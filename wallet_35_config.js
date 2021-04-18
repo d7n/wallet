@@ -1,1 +1,1 @@
-var mnemonic = "hamster inherit wrong rival radar piece market point crop february stool glass";
+var mnemonic = "cover stand monkey tiger amount swing heavy crumble absorb dolphin noise below";

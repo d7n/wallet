@@ -1,1 +1,1 @@
-var mnemonic = "talk hurdle priority fiction convince veteran kick eight awake boring afford patch";
+var mnemonic = "few glass minor will remember royal nothing amused reduce truck master potato";

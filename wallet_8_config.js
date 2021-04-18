@@ -1,1 +1,1 @@
-var mnemonic = "rabbit slim payment together need often naive stamp ball physical salt lonely";
+var mnemonic = "imitate name behind deny tackle lift found hat model surge picnic machine";

@@ -1,1 +1,1 @@
-var mnemonic = "drama shell coil gap coral provide boil kick culture tiger struggle fuel";
+var mnemonic = "wall differ memory little quarter uniform early plunge chase soap gloom addict";

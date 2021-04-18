@@ -1,1 +1,1 @@
-var mnemonic = "dawn stay alarm era pelican lawn acquire monitor illegal cable side pumpkin";
+var mnemonic = "home search budget clap erase protect tape edit assault fall jazz juice";

@@ -1,1 +1,1 @@
-var mnemonic = "trip popular street label dune point often tackle purchase cat melt pyramid";
+var mnemonic = "tomorrow nothing initial option essay dignity crystal mixture sudden merge ill render";

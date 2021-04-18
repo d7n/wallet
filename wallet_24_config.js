@@ -1,1 +1,1 @@
-var mnemonic = "illness price shift banner purpose shadow about note forum silent silver stadium";
+var mnemonic = "weather output faith index tobacco song cement help bronze member enact stuff";

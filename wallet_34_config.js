@@ -1,1 +1,1 @@
-var mnemonic = "strike squeeze boost render abandon use ivory deliver series tag trade moral";
+var mnemonic = "demand giggle catch spread barrel extra hip warrior toddler push supply onion";

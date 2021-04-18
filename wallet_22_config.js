@@ -1,1 +1,1 @@
-var mnemonic = "choice dentist story gold number feed zebra member voice stomach mobile verb";
+var mnemonic = "sniff wheat night vivid opinion about pill bid nothing salad chapter supply";

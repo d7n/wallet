@@ -1,1 +1,1 @@
-var mnemonic = "bunker alcohol shy road depart loud east surge payment face devote claw";
+var mnemonic = "brick exact exhaust infant mango forest dawn cotton chase decorate name dolphin";

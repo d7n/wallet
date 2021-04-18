@@ -1,1 +1,1 @@
-var mnemonic = "enemy awkward guitar script east pepper orchard orange elder end broken goose";
+var mnemonic = "assume try casino dinner violin half example report charge question column cricket";

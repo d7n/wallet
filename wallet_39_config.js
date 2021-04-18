@@ -1,1 +1,1 @@
-var mnemonic = "shallow favorite person utility easily slim federal photo shuffle polar save urban";
+var mnemonic = "apple wing victory resource metal cloth census marriage ticket grant option only";

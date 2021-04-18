@@ -1,1 +1,1 @@
-var mnemonic = "buzz spice clerk record reopen kidney thought suggest alert practice subject snap";
+var mnemonic = "position cream narrow spend skate alarm wool logic prefer gas obvious off";

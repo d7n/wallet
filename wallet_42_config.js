@@ -1,1 +1,1 @@
-var mnemonic = "shuffle animal case caught result garbage toss mean sentence hold lottery urge";
+var mnemonic = "era jewel pear other word siege volume gospel provide lazy wood creek";
