@@ -1,1 +1,1 @@
-var mnemonic = "nominee forum food chuckle romance solution nurse brain alien level access drive";
+var mnemonic = "luxury cruel similar luggage boring fossil garbage spoil table cherry fine ginger";

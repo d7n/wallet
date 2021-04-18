@@ -1,1 +1,1 @@
-var mnemonic = "news zebra easily replace another broom ask spare mansion interest pudding keen";
+var mnemonic = "retire clutch video silver spirit affair supreme ozone obscure finish vibrant teach";

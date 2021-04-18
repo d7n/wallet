@@ -1,1 +1,1 @@
-var mnemonic = "diary enrich play sting wide slam dad language sting drum supreme letter";
+var mnemonic = "fiber dilemma jeans year summer please search filter solid crater library miss";

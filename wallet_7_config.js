@@ -1,1 +1,1 @@
-var mnemonic = "paddle increase chaos unique confirm rug exist robust sorry side lemon forum";
+var mnemonic = "tenant skill transfer primary ticket index busy sting social initial deliver remain";

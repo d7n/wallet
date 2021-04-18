@@ -1,1 +1,1 @@
-var mnemonic = "detail bitter because avoid finish clutch hazard orient mouse hunt stereo sword";
+var mnemonic = "crunch cheap note trash nasty dynamic romance square survey boring question kid";

@@ -1,1 +1,1 @@
-var mnemonic = "dust olive royal asset grunt lake birth elevator figure ritual depart stay";
+var mnemonic = "love head tunnel glimpse person offer lunar sand tortoise proud unusual toward";

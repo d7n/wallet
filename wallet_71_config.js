@@ -1,1 +1,1 @@
-var mnemonic = "ketchup humor when trust solve obey electric monkey join chalk category blame";
+var mnemonic = "hobby knife soccer case life fire discover insane cream shoe soap snake";

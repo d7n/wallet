@@ -1,1 +1,1 @@
-var mnemonic = "manage artefact boy foot eagle expire easily snap divorce gentle muscle drive";
+var mnemonic = "knock universe panda pig way hollow margin road echo then casual trash";

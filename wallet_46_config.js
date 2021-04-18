@@ -1,1 +1,1 @@
-var mnemonic = "museum weapon purse guilt top thing delay wheat usage place rare humor";
+var mnemonic = "spare few rude zone rubber property foot ensure mail toy swift urge";

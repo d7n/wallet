@@ -1,1 +1,1 @@
-var mnemonic = "dry when strategy zero lonely supreme awake rule vehicle rebuild basic dune";
+var mnemonic = "tragic calm quote donkey ship elegant spell oil hybrid lucky general dragon";

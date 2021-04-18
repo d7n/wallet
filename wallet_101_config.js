@@ -1,1 +1,1 @@
-var mnemonic = "noble demise mass differ someone embody profit cricket biology word sense clarify";
+var mnemonic = "auto rigid vote note track card frown odor valley fresh vapor wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler unfold age kingdom focus print camp clock strong robot refuse immune";
+var mnemonic = "warfare thought news dose swear hole task voice coast ignore funny arena";

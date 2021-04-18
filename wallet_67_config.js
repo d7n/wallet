@@ -1,1 +1,1 @@
-var mnemonic = "fence come hill bless pen hospital crisp hunt tool mountain put congress";
+var mnemonic = "vault curtain inject indoor error push honey caught debris enter grape spring";

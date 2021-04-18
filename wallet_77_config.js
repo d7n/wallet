@@ -1,1 +1,1 @@
-var mnemonic = "before normal afraid raccoon lumber essence afford lemon young slush upgrade immune";
+var mnemonic = "suffer vital road pluck cross loud rose robot shoulder flame bubble immune";

@@ -1,1 +1,1 @@
-var mnemonic = "city dawn begin stomach laundry address symbol west quick artefact shoe sword";
+var mnemonic = "island fit slot rice physical resource antique auto amazing gallery explain hint";

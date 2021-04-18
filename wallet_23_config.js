@@ -1,1 +1,1 @@
-var mnemonic = "maze obey regular stumble supply tag market senior lazy exhibit horse soap";
+var mnemonic = "anxiety icon waste kingdom sphere run fringe pencil oven bronze tongue gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom swim subway taxi chicken fruit axis task fetch exhaust differ emerge";
+var mnemonic = "museum pave absorb live slab junk response crazy symptom carbon occur mutual";

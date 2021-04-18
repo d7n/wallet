@@ -1,1 +1,1 @@
-var mnemonic = "raven fossil car bundle glove emotion coconut library write guess rabbit giant";
+var mnemonic = "month blue two oval traffic gate between snake same goose moon this";

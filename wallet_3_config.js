@@ -1,1 +1,1 @@
-var mnemonic = "tube idea laptop bracket whisper model donate blur daughter cushion lumber torch";
+var mnemonic = "narrow apology clog market stove style member clean betray paddle symptom tape";

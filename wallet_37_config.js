@@ -1,1 +1,1 @@
-var mnemonic = "exotic client boss tissue inform comfort vocal noise fun denial brush dove";
+var mnemonic = "history lyrics ritual melt draft warrior magic clean kid puzzle diagram canvas";

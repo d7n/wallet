@@ -1,1 +1,1 @@
-var mnemonic = "label modify zebra craft scrub level smooth little crunch bone ugly critic";
+var mnemonic = "nerve bench soup ball have advance stomach chalk farm curtain muffin cart";

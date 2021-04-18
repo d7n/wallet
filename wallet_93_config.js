@@ -1,1 +1,1 @@
-var mnemonic = "demand loyal hint scene eyebrow pledge marble oval punch budget library lift";
+var mnemonic = "conduct correct earth sponsor camera nephew carbon sorry winner retire zoo inject";

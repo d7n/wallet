@@ -1,1 +1,1 @@
-var mnemonic = "then knife spell toast destroy sugar judge develop during unique garage biology";
+var mnemonic = "bargain link grab tool file penalty deer stomach ecology senior town evidence";

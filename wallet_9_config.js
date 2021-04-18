@@ -1,1 +1,1 @@
-var mnemonic = "spoil diet universe exit list ritual shell shadow inquiry acquire perfect include";
+var mnemonic = "mixture surface dinner senior vessel toilet screen stereo dirt seminar essence resemble";

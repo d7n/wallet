@@ -1,1 +1,1 @@
-var mnemonic = "term funny idle beef earn wood despair couch heavy rebuild math energy";
+var mnemonic = "multiply middle you benefit corn lamp love legal gift depart sword note";

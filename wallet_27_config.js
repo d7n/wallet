@@ -1,1 +1,1 @@
-var mnemonic = "chase drum alien robust valid code heavy act sense adapt dinner symbol";
+var mnemonic = "blossom cash proud season pigeon balcony typical remove squirrel ice luggage lottery";

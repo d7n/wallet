@@ -1,1 +1,1 @@
-var mnemonic = "term pepper snack bid object inherit else roast asset robust choice method";
+var mnemonic = "blood inspire garlic primary kid sniff advance mixture gown dinosaur dance quote";

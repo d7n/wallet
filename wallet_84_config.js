@@ -1,1 +1,1 @@
-var mnemonic = "rich begin lava vendor ghost exact sister topic chalk bulb fold caution";
+var mnemonic = "parent envelope place inject spare ignore switch lonely weird cave neck glove";

@@ -1,1 +1,1 @@
-var mnemonic = "choice visa wash drum liquid palace flight skill liberty gas seven forum";
+var mnemonic = "try excite indoor blush three fever artist already romance insane accident power";

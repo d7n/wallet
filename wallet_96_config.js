@@ -1,1 +1,1 @@
-var mnemonic = "hunt blush prepare health reward paddle file always horror fatigue update citizen";
+var mnemonic = "protect before purpose effort extend often crop fruit choice unique razor hint";

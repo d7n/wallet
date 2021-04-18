@@ -1,1 +1,1 @@
-var mnemonic = "bulb security return desert turn tail arrow divide student steak casino auto";
+var mnemonic = "boat weekend still wet beach damp duck topple output second typical inflict";

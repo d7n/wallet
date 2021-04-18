@@ -1,1 +1,1 @@
-var mnemonic = "few enforce fold manage proof unknown current roast vote key manual couch";
+var mnemonic = "gadget sort badge common scene arctic blush huge arctic doctor upon myth";

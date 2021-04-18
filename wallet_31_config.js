@@ -1,1 +1,1 @@
-var mnemonic = "need feel scene hen someone script fashion planet sketch crystal such absorb";
+var mnemonic = "curve mansion assault phone upon raw relief gun seat gown harbor reject";

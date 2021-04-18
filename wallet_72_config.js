@@ -1,1 +1,1 @@
-var mnemonic = "oven vote engine tone pelican tenant index shrimp kid arrest slot average";
+var mnemonic = "measure private repeat useful depth lobster occur clown engine duck program cram";

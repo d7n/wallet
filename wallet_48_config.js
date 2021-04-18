@@ -1,1 +1,1 @@
-var mnemonic = "cake auction believe potato paddle pistol fresh country furnace fan hard edge";
+var mnemonic = "vehicle vague provide coast chunk pony satisfy attack garden yellow envelope erode";

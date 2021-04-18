@@ -1,1 +1,1 @@
-var mnemonic = "narrow champion citizen waste march orphan use add tunnel left witness hamster";
+var mnemonic = "share wall venue you jump window story danger false ordinary elegant scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "panther steel axis tornado very permit oil picnic quick soft morning drip";
+var mnemonic = "boost seat amused royal hungry head pigeon table doctor hello decorate slender";

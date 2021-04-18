@@ -1,1 +1,1 @@
-var mnemonic = "inhale fold ridge nation family tobacco anxiety close canvas grace card mom";
+var mnemonic = "rescue roof affair destroy view wheat garment leaf frost language style cruise";

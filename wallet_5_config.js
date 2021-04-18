@@ -1,1 +1,1 @@
-var mnemonic = "swallow need leopard nice jungle bacon debris horse mammal slide rule mushroom";
+var mnemonic = "sing oak trick solution salt similar elbow print ribbon table scrap cheap";

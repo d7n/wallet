@@ -1,1 +1,1 @@
-var mnemonic = "reveal crowd cotton flip else trend salon affair suggest mind clay before";
+var mnemonic = "rain bounce leaf piano cover afford grow stereo soon unlock leg museum";

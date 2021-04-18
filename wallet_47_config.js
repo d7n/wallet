@@ -1,1 +1,1 @@
-var mnemonic = "pig steel allow ugly useless easy rent throw begin raw plastic match";
+var mnemonic = "click little alien life lab cabin tribe mutual disagree dutch sting foil";

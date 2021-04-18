@@ -1,1 +1,1 @@
-var mnemonic = "able narrow have video topic hero ladder regular update island squeeze lawsuit";
+var mnemonic = "episode enough entry quick host away economy sphere knock tennis attack abstract";

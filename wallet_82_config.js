@@ -1,1 +1,1 @@
-var mnemonic = "punch exclude jaguar scare person cargo fantasy mechanic destroy romance slogan siren";
+var mnemonic = "phone orange stadium episode avocado argue prosper problem verify time pupil grief";

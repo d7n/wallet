@@ -1,1 +1,1 @@
-var mnemonic = "faint tortoise test banana topic sand treat reduce inspire elegant bundle sudden";
+var mnemonic = "couple pitch scale federal arrow adult wheel pelican motion project dynamic marriage";

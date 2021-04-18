@@ -1,1 +1,1 @@
-var mnemonic = "crawl divorce nasty vintage popular front town spoil main foster write auto";
+var mnemonic = "weapon inner silent judge wasp squirrel hollow world master smart message raise";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet hurry oil leopard embody menu broom quarter kitchen athlete panther damage";
+var mnemonic = "draft salon vacant chaos alley spirit marriage enable arctic day fancy fan";

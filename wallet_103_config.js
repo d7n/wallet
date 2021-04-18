@@ -1,1 +1,1 @@
-var mnemonic = "reform market echo bulb badge fame bronze ladder base trim miss mass";
+var mnemonic = "day outdoor oppose laugh galaxy alter fire agree curious dumb festival ride";

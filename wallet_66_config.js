@@ -1,1 +1,1 @@
-var mnemonic = "dutch scrap accident vintage smoke thing error used net paddle congress scrub";
+var mnemonic = "try human tennis general prepare river mass hobby argue change nut tag";

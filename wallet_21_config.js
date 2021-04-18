@@ -1,1 +1,1 @@
-var mnemonic = "wage motor extra attend try evidence car opinion spare interest resist occur";
+var mnemonic = "disease hamster hole sheriff property odor ripple truck occur taxi west grid";

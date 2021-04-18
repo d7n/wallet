@@ -1,1 +1,1 @@
-var mnemonic = "waste inch flight other grunt oxygen jar beef write slight tunnel claw";
+var mnemonic = "brush polar elevator rain state long claw summer decade suspect health away";

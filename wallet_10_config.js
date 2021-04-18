@@ -1,1 +1,1 @@
-var mnemonic = "artwork flavor behave kidney pill share tiny actor minor honey hunt clump";
+var mnemonic = "donor knock attitude seminar border rather base hour dove tornado leaf foil";

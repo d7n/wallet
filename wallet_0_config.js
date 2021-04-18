@@ -1,1 +1,1 @@
-var mnemonic = "injury rule rubber good quantum merge tell despair suggest supreme trap stairs";
+var mnemonic = "ensure raw dune sauce arrive second proud tissue scrub wasp what fee";

@@ -1,1 +1,1 @@
-var mnemonic = "network husband into sure rail office illness chat timber act slice achieve";
+var mnemonic = "pear panic half habit royal drama begin shoulder question tiny memory panic";

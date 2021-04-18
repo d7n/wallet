@@ -1,1 +1,1 @@
-var mnemonic = "brick rack debris loan skin ancient cancel short safe turn river rule";
+var mnemonic = "two zero solid describe puzzle square cherry work absorb base cover actual";

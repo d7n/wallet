@@ -1,1 +1,1 @@
-var mnemonic = "mother coach solid push tape furnace have claw enter paper tube they";
+var mnemonic = "parade else ridge pull dismiss truth theory kitchen message lecture silly bleak";

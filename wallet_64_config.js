@@ -1,1 +1,1 @@
-var mnemonic = "cigar common earth uphold rotate exercise ice undo task risk need dwarf";
+var mnemonic = "wire subject true domain fiber all drop before sheriff space search spend";

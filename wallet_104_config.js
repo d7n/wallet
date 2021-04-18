@@ -1,1 +1,1 @@
-var mnemonic = "pull uphold fox used tragic affair sister card salad world joy donkey";
+var mnemonic = "spoil deny will orbit rotate stage fresh crystal treat style illegal list";

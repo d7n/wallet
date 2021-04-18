@@ -1,1 +1,1 @@
-var mnemonic = "grain differ major cradle nice employ nominee gasp rule result afraid fat";
+var mnemonic = "bubble half resource sister maze castle borrow pluck market creek achieve soccer";

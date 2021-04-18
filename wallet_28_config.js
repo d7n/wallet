@@ -1,1 +1,1 @@
-var mnemonic = "cloth scrub brass amazing income loud barely young adapt border tortoise rug";
+var mnemonic = "unit habit skate wife cabin boost pink spice mobile foil piece they";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke arrow jazz fringe image smoke into cousin property boil escape improve";
+var mnemonic = "rude smooth approve border talent soft hurdle luggage lunch track estate employ";

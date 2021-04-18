@@ -1,1 +1,1 @@
-var mnemonic = "rubber nurse rare gas rescue keep cereal arrest chunk vehicle device camera";
+var mnemonic = "oxygen tattoo snack left thumb online soap sing where record misery polar";

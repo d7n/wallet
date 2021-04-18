@@ -1,1 +1,1 @@
-var mnemonic = "piece owner chair over dutch drink guilt kind audit myth clown shy";
+var mnemonic = "certain tube confirm force park scatter ankle object meat eagle human grain";

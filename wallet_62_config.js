@@ -1,1 +1,1 @@
-var mnemonic = "observe pepper whale elevator sheriff gold item industry benefit game project manage";
+var mnemonic = "squeeze rigid into crazy quiz flash enforce squirrel give whisper kid march";

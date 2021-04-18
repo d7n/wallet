@@ -1,1 +1,1 @@
-var mnemonic = "upon finish arch must awkward pond leave issue retreat devote clerk door";
+var mnemonic = "observe goddess true aim puppy nut sphere timber humor spatial series exhaust";

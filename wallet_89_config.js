@@ -1,1 +1,1 @@
-var mnemonic = "travel analyst asset math winner settle smooth account better warrior hybrid reflect";
+var mnemonic = "relax tag profit refuse level vacuum old frequent repair jelly record box";

@@ -1,1 +1,1 @@
-var mnemonic = "fault light employ suit fat secret cannon traffic royal accuse soda vintage";
+var mnemonic = "bag swarm recipe knife prison gauge now paper barrel bottom door appear";

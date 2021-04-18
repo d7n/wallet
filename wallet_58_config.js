@@ -1,1 +1,1 @@
-var mnemonic = "cat tiny naive repeat harbor crazy inject tenant approve ten fresh horror";
+var mnemonic = "aim basic syrup network soda friend lock face boat brick discover joke";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap result exit retire blood feel west planet truck breeze sentence great";
+var mnemonic = "salute hollow clutch matter matter blade merry early horse wave they rural";

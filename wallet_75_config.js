@@ -1,1 +1,1 @@
-var mnemonic = "hospital rebuild circle lava grace idea slam worth exclude online chest faculty";
+var mnemonic = "crunch sleep embrace other shiver industry toast grace during physical evolve leisure";

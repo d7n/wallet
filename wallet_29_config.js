@@ -1,1 +1,1 @@
-var mnemonic = "swamp resource food bread main venture lawsuit when physical elder whale have";
+var mnemonic = "enlist soccer clarify view coral excuse leader business napkin enhance enrich pepper";

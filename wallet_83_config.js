@@ -1,1 +1,1 @@
-var mnemonic = "library illegal grace consider notice record another effort base joke shine easily";
+var mnemonic = "total monitor rapid burden bulk possible skin fiction amused nest stand fly";

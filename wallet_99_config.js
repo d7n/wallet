@@ -1,1 +1,1 @@
-var mnemonic = "ride margin scale cement sausage figure wink wing action toward eye next";
+var mnemonic = "defense number sphere march scheme hazard stamp possible sing ceiling museum soup";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth auto tired crazy wagon expire strike media sword magnet village penalty";
+var mnemonic = "actual tribe coast palm height clock market canoe festival mother multiply position";

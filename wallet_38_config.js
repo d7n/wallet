@@ -1,1 +1,1 @@
-var mnemonic = "robust diamond marble attract aware heart debris picture nut page satoshi hard";
+var mnemonic = "silent same primary again comic lift fiscal feature inside head sadness artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "waste nuclear faint hello oyster alien chalk goat adjust blast conduct private";
+var mnemonic = "enact salute clock bubble blast nature biology bright fit traffic primary syrup";

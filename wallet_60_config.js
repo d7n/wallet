@@ -1,1 +1,1 @@
-var mnemonic = "punch install syrup captain tackle mesh doll city solid pen pilot hint";
+var mnemonic = "derive supreme paper sauce radar enlist tape lift assume remind zebra welcome";

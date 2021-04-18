@@ -1,1 +1,1 @@
-var mnemonic = "roast tired dream trip dumb speed history tongue can green unfair unfold";
+var mnemonic = "more holiday aim hammer when situate engine forget eye choice atom stage";

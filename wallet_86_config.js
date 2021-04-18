@@ -1,1 +1,1 @@
-var mnemonic = "inquiry feature hill open castle decorate staff repair usual lift stand eternal";
+var mnemonic = "apart media where desk rebel focus valid melt now demise milk there";

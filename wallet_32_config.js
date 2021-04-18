@@ -1,1 +1,1 @@
-var mnemonic = "broccoli road first pair science tennis rice coil grant release spirit code";
+var mnemonic = "way juice urge castle hospital near unaware faculty until divert buddy head";

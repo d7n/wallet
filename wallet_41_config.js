@@ -1,1 +1,1 @@
-var mnemonic = "topic blade sudden access supply century bunker alcohol patch job thrive soldier";
+var mnemonic = "garbage chuckle assist parent typical tonight fabric stone loyal found lesson identify";

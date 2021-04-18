@@ -1,1 +1,1 @@
-var mnemonic = "boy muscle glide tired power trim river shine lamp height click genre";
+var mnemonic = "model heart hand silk bomb verify rack soft raccoon cliff funny february";

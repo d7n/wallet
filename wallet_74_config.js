@@ -1,1 +1,1 @@
-var mnemonic = "fringe once drill gospel normal fitness panic stamp broom furnace suggest repeat";
+var mnemonic = "glory ability pulse alpha custom very clutch east vivid jelly iron sea";

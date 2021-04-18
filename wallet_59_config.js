@@ -1,1 +1,1 @@
-var mnemonic = "pool attend goat plastic black north plastic coconut urban wrong cargo giraffe";
+var mnemonic = "guide brother adapt average visa bench spike boss cinnamon wife cannon unusual";
