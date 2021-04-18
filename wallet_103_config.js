@@ -1,1 +1,1 @@
-var mnemonic = "ice position entire caught shock dream trim keen merry fetch leg stage";
+var mnemonic = "illegal north ring holiday purpose resist fog mad develop pool laundry company";

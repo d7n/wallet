@@ -1,1 +1,1 @@
-var mnemonic = "injury raise boat below dirt isolate piece spoil only monster base drill";
+var mnemonic = "feature that solve attitude replace cluster rubber anger denial laugh drip cinnamon";

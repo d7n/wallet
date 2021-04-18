@@ -1,1 +1,1 @@
-var mnemonic = "ahead talk family canyon security master rookie sibling era service cheese funny";
+var mnemonic = "camera scan skill plug about interest easy absurd west burger response motion";

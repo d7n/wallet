@@ -1,1 +1,1 @@
-var mnemonic = "critic tattoo slice dumb fame slight century turtle defy wall record recall";
+var mnemonic = "nothing make load kick forum bright aspect wet today duty slim ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse glide uncle charge never blouse bulb aisle teach border amount sun";
+var mnemonic = "trumpet please resist gentle update check actor upon nominee inject fiber age";

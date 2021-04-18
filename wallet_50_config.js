@@ -1,1 +1,1 @@
-var mnemonic = "meadow record laundry syrup great legend sketch foot square trick sunny negative";
+var mnemonic = "square elevator field skull relief opera credit alarm sell hub ice ritual";

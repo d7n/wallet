@@ -1,1 +1,1 @@
-var mnemonic = "profit side witness rebel soup parent help master what claw elite choose";
+var mnemonic = "addict hint choice trend copy salt tattoo carbon scorpion arch answer only";

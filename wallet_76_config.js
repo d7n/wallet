@@ -1,1 +1,1 @@
-var mnemonic = "canvas various citizen liberty output silly small stone thing maximum wife addict";
+var mnemonic = "below squeeze skin basic example stick endless zero chapter street shell runway";

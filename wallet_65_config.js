@@ -1,1 +1,1 @@
-var mnemonic = "stool deal wing sword spin craft monitor flag multiply sniff flight release";
+var mnemonic = "produce carry say random vague tell flavor clerk ginger virtual strong diary";

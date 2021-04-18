@@ -1,1 +1,1 @@
-var mnemonic = "retire off cover shy under news mean elite slot net foam system";
+var mnemonic = "duck craft similar gap tiger hub deposit frame universe discover tube gift";

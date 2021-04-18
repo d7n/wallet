@@ -1,1 +1,1 @@
-var mnemonic = "jar draw fringe spell drum science ticket ridge top crucial always burst";
+var mnemonic = "cross dismiss keep legal rocket split announce happy antenna ring gentle reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd path album assault crowd puzzle spray pact elder update gap olympic";
+var mnemonic = "balance hub toe velvet direct globe web tongue allow surround envelope length";

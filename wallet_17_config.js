@@ -1,1 +1,1 @@
-var mnemonic = "cushion rocket legal style card coin notice that work mad sunny govern";
+var mnemonic = "embody badge robot expect north program neglect double museum track humor together";

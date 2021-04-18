@@ -1,1 +1,1 @@
-var mnemonic = "resist display relief liberty box curious tone buddy split win pyramid easily";
+var mnemonic = "obscure boost dose throw page town palace tortoise habit segment glad click";

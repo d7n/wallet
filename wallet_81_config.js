@@ -1,1 +1,1 @@
-var mnemonic = "choice over math sketch tragic crouch satoshi example local card ridge kangaroo";
+var mnemonic = "bring attitude firm resource stock surround blanket gasp winner whip evoke icon";

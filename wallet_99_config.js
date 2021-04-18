@@ -1,1 +1,1 @@
-var mnemonic = "later athlete core post help universe roof card wool address dash media";
+var mnemonic = "nothing carbon trap police error riot decide solve banana metal quit acquire";

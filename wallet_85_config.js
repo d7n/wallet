@@ -1,1 +1,1 @@
-var mnemonic = "owner boring core essay project collect dismiss there spider vacant festival female";
+var mnemonic = "rent this yellow deny nuclear trumpet panic embody snake sun caution stand";

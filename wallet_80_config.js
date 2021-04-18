@@ -1,1 +1,1 @@
-var mnemonic = "script filter grow luxury obscure cram dirt denial humor annual define inch";
+var mnemonic = "canyon tuna immune trade reduce banana utility run onion dry sauce verify";

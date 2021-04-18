@@ -1,1 +1,1 @@
-var mnemonic = "soldier trend main furnace unhappy impulse among hurt timber claw throw bus";
+var mnemonic = "gym naive kidney employ uncle goddess raise parade silly before repeat short";

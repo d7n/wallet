@@ -1,1 +1,1 @@
-var mnemonic = "glass swim powder into beef either usual matter apart vote reflect key";
+var mnemonic = "surface motor vital wet play confirm gate city sting famous wash steak";

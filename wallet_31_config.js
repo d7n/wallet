@@ -1,1 +1,1 @@
-var mnemonic = "jeans rack rigid catch canoe spirit rookie angle resource dawn boil blade";
+var mnemonic = "clap judge noise ceiling tiny truth steel ship knee stone opinion resist";

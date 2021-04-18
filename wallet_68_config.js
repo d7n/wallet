@@ -1,1 +1,1 @@
-var mnemonic = "cheese south second clean arch amount oyster dust orange field churn domain";
+var mnemonic = "book cave want human please artwork midnight level sunny wine choose lion";

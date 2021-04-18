@@ -1,1 +1,1 @@
-var mnemonic = "knee affair oven kind lend view shoe reform renew easily spoon million";
+var mnemonic = "reveal narrow unhappy pigeon cycle tape other million weapon item kid target";

@@ -1,1 +1,1 @@
-var mnemonic = "aim tobacco kite cool grid reward social access rude material world recycle";
+var mnemonic = "sponsor coconut occur hello angry hope shaft abstract captain cute solid pass";

@@ -1,1 +1,1 @@
-var mnemonic = "engage climb sound genius crisp produce response real shrug crew uncle loyal";
+var mnemonic = "bridge talk soccer visa bonus matter wear slim scissors april dish actual";

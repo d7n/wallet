@@ -1,1 +1,1 @@
-var mnemonic = "defy icon ladder address unhappy physical seed suspect arm reward frost list";
+var mnemonic = "bundle coin upon escape antenna people joy decade wave spice coil staff";

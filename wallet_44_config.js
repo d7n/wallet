@@ -1,1 +1,1 @@
-var mnemonic = "kit bless label cook glide quiz chief butter eight urge drastic frame";
+var mnemonic = "ketchup person vintage panic dog wise law trade danger purse december trial";

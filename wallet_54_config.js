@@ -1,1 +1,1 @@
-var mnemonic = "enact milk feature gown sauce poet jazz school recycle drift current leisure";
+var mnemonic = "program olive penalty expect sunny find diary label family egg boil abandon";

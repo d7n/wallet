@@ -1,1 +1,1 @@
-var mnemonic = "else defy canyon blossom melt swarm myth hard amateur cargo visa angle";
+var mnemonic = "kingdom pony pattern amateur mobile eye enforce close day jewel man turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "entire clog beyond waste that glare siege intact bring degree ketchup engage";
+var mnemonic = "until valve recall innocent erupt castle fatigue lift jelly network orbit found";

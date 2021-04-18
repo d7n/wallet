@@ -1,1 +1,1 @@
-var mnemonic = "field diet discover volcano quit moral addict eight sorry combine glance fix";
+var mnemonic = "indoor baby sport taste accident crop alien net script inch design melt";

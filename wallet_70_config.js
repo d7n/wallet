@@ -1,1 +1,1 @@
-var mnemonic = "prize bomb slim pyramid raise junk submit nuclear remove grace elder chief";
+var mnemonic = "proud unknown bid velvet guitar dinosaur cover junior captain unaware rural iron";

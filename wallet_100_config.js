@@ -1,1 +1,1 @@
-var mnemonic = "between pigeon laptop current nuclear bracket mimic rely display uncle amazing nut";
+var mnemonic = "asthma sphere smooth disorder digital disorder flavor tortoise eager slight inflict river";

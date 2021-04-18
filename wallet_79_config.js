@@ -1,1 +1,1 @@
-var mnemonic = "exhibit feed thing wealth welcome judge weasel pig tired odor vibrant gas";
+var mnemonic = "merit under abstract mechanic say salmon pink naive faith neglect parrot visit";

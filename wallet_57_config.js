@@ -1,1 +1,1 @@
-var mnemonic = "enable wash foam color analyst image novel bless series motor eyebrow patrol";
+var mnemonic = "tumble traffic arctic large agent decade rival tunnel fortune fantasy initial depth";

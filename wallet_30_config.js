@@ -1,1 +1,1 @@
-var mnemonic = "inner report horse cage spray hospital submit corn canyon power breeze cotton";
+var mnemonic = "select enough immune faint resemble excite library skirt urban cricket fat keep";

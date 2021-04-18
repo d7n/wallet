@@ -1,1 +1,1 @@
-var mnemonic = "decorate annual angle remain bamboo fitness shrimp engage goddess auction potato weird";
+var mnemonic = "galaxy scout brush very swing chat acquire swift inject hunt sniff excite";

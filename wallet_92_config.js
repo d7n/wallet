@@ -1,1 +1,1 @@
-var mnemonic = "depth gentle quit hidden rival switch maid milk stock cute kit dumb";
+var mnemonic = "crop security entry alone actress change acid inflict upper crowd hair debris";

@@ -1,1 +1,1 @@
-var mnemonic = "title tongue era giant pottery mushroom raw pottery lottery cupboard fruit cheap";
+var mnemonic = "crack priority real palm fan sponsor volcano bulk pipe sting quick enter";

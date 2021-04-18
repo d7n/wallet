@@ -1,1 +1,1 @@
-var mnemonic = "odor divert upper trouble fiscal infant spot universe found umbrella help scout";
+var mnemonic = "theme endorse blush that wage swallow quit people secret develop cushion cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble reason cousin female horn brass silent scout mutual rescue urge attend";
+var mnemonic = "gossip case half erase appear begin rotate express wish tower joke exclude";

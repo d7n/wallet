@@ -1,1 +1,1 @@
-var mnemonic = "undo door twice dolphin figure switch style disorder order time loop bubble";
+var mnemonic = "veteran nothing sail obvious describe enough depth problem present festival degree wrong";

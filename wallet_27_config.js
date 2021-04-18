@@ -1,1 +1,1 @@
-var mnemonic = "submit soft afford nothing hint step lobster fatal fault cost garage creek";
+var mnemonic = "exhibit author ahead rich kitten aim other scene song wild comfort asset";

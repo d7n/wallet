@@ -1,1 +1,1 @@
-var mnemonic = "awful unhappy wreck initial decline skull buzz like laundry dentist benefit ahead";
+var mnemonic = "crew dose grape vote hamster course escape plate cause collect estate foster";

@@ -1,1 +1,1 @@
-var mnemonic = "candy arena name tumble glide frozen chest hurdle gauge tape obscure chalk";
+var mnemonic = "tired degree vendor path mirror real tenant song tank delay basket clip";

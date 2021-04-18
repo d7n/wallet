@@ -1,1 +1,1 @@
-var mnemonic = "march gallery fringe wrestle student face accuse mandate acoustic floor mass loud";
+var mnemonic = "dragon leave giant voyage analyst drip share general woman melt galaxy escape";

@@ -1,1 +1,1 @@
-var mnemonic = "tape annual rescue wet replace syrup often general struggle web dog foster";
+var mnemonic = "device rival hint kit nuclear road favorite morning exchange spin trash they";

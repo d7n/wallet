@@ -1,1 +1,1 @@
-var mnemonic = "furnace kiwi hybrid come royal envelope drop universe coconut replace they achieve";
+var mnemonic = "whisper vessel slam ritual rural crush power gift ensure bonus cute train";

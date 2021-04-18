@@ -1,1 +1,1 @@
-var mnemonic = "useful urban phrase over common comfort snap pupil hill else train exist";
+var mnemonic = "turn return plate sentence real moral zero purse symptom ramp subject admit";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious echo future remind few pencil waste embody blossom also hat regular";
+var mnemonic = "fox trial nurse wave skill copper echo vast own unique enforce soda";

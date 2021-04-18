@@ -1,1 +1,1 @@
-var mnemonic = "lamp also lucky prize improve better echo physical first frequent genuine clay";
+var mnemonic = "fox spoon island ring undo spider eternal narrow truly present obey stuff";

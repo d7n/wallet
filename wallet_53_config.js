@@ -1,1 +1,1 @@
-var mnemonic = "hungry depth bag aerobic wonder slender include poem sleep decide basic quit";
+var mnemonic = "struggle much hat need admit coffee edge festival toe city pencil coconut";

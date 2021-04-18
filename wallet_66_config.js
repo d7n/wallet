@@ -1,1 +1,1 @@
-var mnemonic = "jump toilet cloth ethics rifle filter upon dragon ankle people talent antenna";
+var mnemonic = "edge hen increase parrot defense pigeon enforce blossom dice palm theory image";

@@ -1,1 +1,1 @@
-var mnemonic = "plate neck vivid wrist filter proud quit rookie opinion beef impose wife";
+var mnemonic = "tide else goat six camp senior drop slush wide into same still";

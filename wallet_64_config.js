@@ -1,1 +1,1 @@
-var mnemonic = "table summer lemon olive home daughter ladder case squeeze prison advice brisk";
+var mnemonic = "salt bottom guard add umbrella magic axis monkey little plastic affair movie";

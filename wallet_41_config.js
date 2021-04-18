@@ -1,1 +1,1 @@
-var mnemonic = "tourist engage prize glimpse danger water orient fall snake edge speed honey";
+var mnemonic = "steak metal someone night service wreck shallow vivid essence potato path able";

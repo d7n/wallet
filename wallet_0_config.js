@@ -1,1 +1,1 @@
-var mnemonic = "behave refuse then random patrol soap curtain hen mule already garbage sure";
+var mnemonic = "dial relax gesture scatter smooth latin shoe truck quantum dog ready raw";

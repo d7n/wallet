@@ -1,1 +1,1 @@
-var mnemonic = "oval soap lawsuit spirit minor invite van private near diary edge about";
+var mnemonic = "vault action health gain final ethics foam dinner daring isolate maid universe";

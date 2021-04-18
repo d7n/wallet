@@ -1,1 +1,1 @@
-var mnemonic = "echo rack nation novel tonight concert skull envelope tuna state eyebrow boil";
+var mnemonic = "share voyage naive guide summer prepare affair merge luxury cheap exact figure";

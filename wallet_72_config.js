@@ -1,1 +1,1 @@
-var mnemonic = "inform tray flash swift field utility cart scrub banner depart sorry dash";
+var mnemonic = "physical winner debris deal six camera grace shy weird gold ride glory";

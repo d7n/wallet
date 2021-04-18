@@ -1,1 +1,1 @@
-var mnemonic = "hat health reunion measure save huge traffic fiber bubble danger economy physical";
+var mnemonic = "pledge sting morning erode aim farm ozone ivory dizzy dry donor erosion";

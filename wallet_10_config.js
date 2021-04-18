@@ -1,1 +1,1 @@
-var mnemonic = "summer taste basic square they visa soda egg average resist topic hen";
+var mnemonic = "lawsuit fitness senior august vanish alien liquid gospel solution wedding hazard enroll";

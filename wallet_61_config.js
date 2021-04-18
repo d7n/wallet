@@ -1,1 +1,1 @@
-var mnemonic = "finger eight dawn banana quick insect snow gesture piano auto meadow edit";
+var mnemonic = "above wise doll soup diesel wise panther purity brown upset crane grab";

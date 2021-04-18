@@ -1,1 +1,1 @@
-var mnemonic = "easy hazard image salad border derive slogan physical gospel brave brown little";
+var mnemonic = "exotic unfold crucial exile infant sick situate long nation cactus three door";

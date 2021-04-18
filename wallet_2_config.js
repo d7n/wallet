@@ -1,1 +1,1 @@
-var mnemonic = "either brave village into process sniff access loan avocado cable false woman";
+var mnemonic = "parrot diary reopen raw sign ocean session enhance mutual hedgehog elbow winter";

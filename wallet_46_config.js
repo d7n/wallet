@@ -1,1 +1,1 @@
-var mnemonic = "task case expand version hold decade curtain upset issue please radar about";
+var mnemonic = "sentence resemble cat barrel alter nose soap bonus position all near gesture";

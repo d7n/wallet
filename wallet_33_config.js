@@ -1,1 +1,1 @@
-var mnemonic = "occur pink child come dash naive grass exist merge stand large grace";
+var mnemonic = "friend arrow avocado trim toddler way label grab page relax abandon minimum";

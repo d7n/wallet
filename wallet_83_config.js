@@ -1,1 +1,1 @@
-var mnemonic = "bamboo clinic car month easy boil smart rival nuclear phrase found memory";
+var mnemonic = "lock teach answer kingdom river radar curtain solid green elder range high";

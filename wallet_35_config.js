@@ -1,1 +1,1 @@
-var mnemonic = "girl skirt pulse owner define roof balance announce biology quiz soul solve";
+var mnemonic = "safe flower gallery security moment butter empower modify recipe hazard only arrest";

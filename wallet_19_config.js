@@ -1,1 +1,1 @@
-var mnemonic = "surround kite road core kiss balance time copy praise whale snow final";
+var mnemonic = "over strategy damage control north birth oak coffee cattle inside parrot swarm";

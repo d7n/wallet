@@ -1,1 +1,1 @@
-var mnemonic = "boring differ agent segment electric elevator lab final sock slender cost casino";
+var mnemonic = "replace airport upgrade way size slender word february sudden business error unveil";

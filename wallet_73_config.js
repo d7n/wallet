@@ -1,1 +1,1 @@
-var mnemonic = "wall civil match mail harvest liberty solution cloth armed same drift shell";
+var mnemonic = "zero advance margin critic easily immune worth curious dumb quantum broom dog";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog alter orchard ranch purse finger shift clog robust shoot crack reunion";
+var mnemonic = "chest random gather venture spell delay remain soon heart fine bean purity";

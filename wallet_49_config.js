@@ -1,1 +1,1 @@
-var mnemonic = "bleak arrive cancel clump step soul leader rocket woman disagree injury tilt";
+var mnemonic = "olive helmet reward episode envelope orchard couple control elegant wood leopard avocado";

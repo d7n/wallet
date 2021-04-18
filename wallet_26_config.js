@@ -1,1 +1,1 @@
-var mnemonic = "riot shoot lab oppose burst cluster desk hill movie citizen laundry coyote";
+var mnemonic = "snow thumb useless moment fragile divert ancient scheme flash cool excuse budget";

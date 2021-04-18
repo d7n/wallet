@@ -1,1 +1,1 @@
-var mnemonic = "vehicle right park estate skill kind employ wisdom quantum frog artist penalty";
+var mnemonic = "waste kit trouble vivid drill famous badge rabbit jewel illness flip urge";

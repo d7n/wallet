@@ -1,1 +1,1 @@
-var mnemonic = "win trust tourist discover sad update long art trap horn wasp essay";
+var mnemonic = "penalty ankle train blue female quick oppose faint plastic razor ill real";

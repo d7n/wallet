@@ -1,1 +1,1 @@
-var mnemonic = "youth empower shadow coffee program during small design prepare face energy way";
+var mnemonic = "frog review coffee rapid tooth armed mixed index tunnel sadness sustain still";

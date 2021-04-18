@@ -1,1 +1,1 @@
-var mnemonic = "embrace cigar liberty supply stumble layer guide card pass wave dizzy quote";
+var mnemonic = "album cheese pulp post upset object license nature bridge chair negative into";

@@ -1,1 +1,1 @@
-var mnemonic = "decide tone powder camp armor emotion cradle cruise like labor wide retreat";
+var mnemonic = "organ length motion aspect believe village poverty staff select what trophy spell";

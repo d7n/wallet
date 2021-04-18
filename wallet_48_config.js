@@ -1,1 +1,1 @@
-var mnemonic = "such donor base neglect tackle blossom rule race title predict canyon mobile";
+var mnemonic = "boat matrix allow injury way rubber ability grass ski vote various ecology";

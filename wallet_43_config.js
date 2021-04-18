@@ -1,1 +1,1 @@
-var mnemonic = "universe garden tone long hope few patrol neither devote scene pioneer stock";
+var mnemonic = "weird era task cash south flip viable broken wrap hero coast endless";

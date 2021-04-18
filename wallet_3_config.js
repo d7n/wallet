@@ -1,1 +1,1 @@
-var mnemonic = "clay home camera scorpion grace casual ball member thrive auction client daring";
+var mnemonic = "shrug tenant give ecology famous boil file false test blame frog inhale";

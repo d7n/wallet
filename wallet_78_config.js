@@ -1,1 +1,1 @@
-var mnemonic = "sense gossip style oil civil food law slice desert quantum equal royal";
+var mnemonic = "cereal merry record exist discover region impulse people raw render tag minimum";

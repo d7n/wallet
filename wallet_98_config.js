@@ -1,1 +1,1 @@
-var mnemonic = "race work drip edit remember zoo exchange resource tunnel loud shift about";
+var mnemonic = "parrot detect slim alarm fashion leg program sport unique lawsuit load arch";

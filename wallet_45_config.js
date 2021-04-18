@@ -1,1 +1,1 @@
-var mnemonic = "floor inmate harbor oyster matter clinic chef judge border elegant short nest";
+var mnemonic = "cabbage flee obtain faint talent account indoor inner layer web still exist";

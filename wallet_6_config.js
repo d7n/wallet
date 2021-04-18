@@ -1,1 +1,1 @@
-var mnemonic = "trip comic food sun penalty pioneer arrow receive dad raw drop mule";
+var mnemonic = "flock strategy old mango monster physical fall write exhibit march notice distance";

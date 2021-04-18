@@ -1,1 +1,1 @@
-var mnemonic = "side afford poem tissue farm sting drift strike prize attitude cement crumble";
+var mnemonic = "glory wealth diet business receive secret accuse snow brave gesture prosper century";

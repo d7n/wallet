@@ -1,1 +1,1 @@
-var mnemonic = "promote toward able armor tail submit rule average claw garbage apart report";
+var mnemonic = "walnut hard lizard hurt cliff diet eager suit vivid ability fossil there";

@@ -1,1 +1,1 @@
-var mnemonic = "small across adapt small arena learn script early radar vault furnace flip";
+var mnemonic = "neck rural crew jar slender letter hockey alter reward slow march execute";

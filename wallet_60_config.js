@@ -1,1 +1,1 @@
-var mnemonic = "amateur boost rural dawn output income vibrant foster rally tell supreme judge";
+var mnemonic = "crater session short crowd dizzy medal panel diary welcome sting police offer";

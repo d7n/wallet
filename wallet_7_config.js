@@ -1,1 +1,1 @@
-var mnemonic = "soon humor earth bus lobster scan afraid differ young can warfare habit";
+var mnemonic = "boat embody cruise time coil walnut renew lounge hobby burst nurse wreck";

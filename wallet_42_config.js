@@ -1,1 +1,1 @@
-var mnemonic = "banana produce test together use machine excite catch praise phrase range screen";
+var mnemonic = "decorate air absorb result phone exclude attend reward wedding lend page enjoy";

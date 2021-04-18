@@ -1,1 +1,1 @@
-var mnemonic = "spin upper forum select song scrap lunch impact van wink bulk rabbit";
+var mnemonic = "popular option danger knife charge pause board oven moon when glance confirm";
