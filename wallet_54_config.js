@@ -1,1 +1,1 @@
-var mnemonic = "hood leave student face fiber accuse dance defense cereal west napkin warrior";
+var mnemonic = "stadium baby clap chef oppose manual viable club spirit museum answer type";

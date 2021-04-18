@@ -1,1 +1,1 @@
-var mnemonic = "ship kick rural viable spirit call dial mansion logic helmet mistake slab";
+var mnemonic = "retire invite small aspect dragon scene office armed city rhythm occur quarter";

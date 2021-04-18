@@ -1,1 +1,1 @@
-var mnemonic = "estate senior ancient girl retreat good champion gas crowd aerobic use vapor";
+var mnemonic = "match fit satisfy myth scene code afraid craft receive guitar explain toilet";

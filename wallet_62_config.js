@@ -1,1 +1,1 @@
-var mnemonic = "bottom genuine youth spawn replace enjoy turkey dose orbit slice topic strike";
+var mnemonic = "penalty casino april science material arrive twelve nominee citizen thank flame people";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology leg pair parrot exit park width icon invest same sponsor jump";
+var mnemonic = "own just mirror heart build color record enjoy goose better snack debris";

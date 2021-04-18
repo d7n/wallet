@@ -1,1 +1,1 @@
-var mnemonic = "exist country human dad quick ribbon slush magnet few deal toast opinion";
+var mnemonic = "great farm tide entire arrange confirm practice board believe hill fetch ivory";

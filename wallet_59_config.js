@@ -1,1 +1,1 @@
-var mnemonic = "steel glance lecture foster heart bike maze swamp whale display carpet fruit";
+var mnemonic = "fiscal sail picnic story fan lunar key drink symbol elder lake dragon";

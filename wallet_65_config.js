@@ -1,1 +1,1 @@
-var mnemonic = "supply way tuition pond civil payment catalog beef shrug body found square";
+var mnemonic = "trial whip hedgehog travel target chat excite feed random position ring margin";

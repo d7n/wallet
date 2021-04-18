@@ -1,1 +1,1 @@
-var mnemonic = "fame soft ivory want whip battle main mother upper rotate junk forward";
+var mnemonic = "swallow tribe trend quick cake rib expire segment bitter dentist kid tape";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital brain kiss spray mention jump inquiry frame neither gas abstract head";
+var mnemonic = "exile tower garden abandon jeans hire tilt grow faculty bring seek label";

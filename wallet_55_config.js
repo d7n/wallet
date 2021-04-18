@@ -1,1 +1,1 @@
-var mnemonic = "worry critic wreck female debate pool genre rubber acquire soap gentle child";
+var mnemonic = "lemon olympic wagon little carpet ridge injury bridge limit vapor tent team";

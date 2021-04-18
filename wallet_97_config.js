@@ -1,1 +1,1 @@
-var mnemonic = "easily miss brush mind enemy inherit more cram comfort boat clinic absent";
+var mnemonic = "army example world debris rural trumpet magnet slice what tired number mad";

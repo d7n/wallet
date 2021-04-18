@@ -1,1 +1,1 @@
-var mnemonic = "advice venture bean tongue shine penalty same urban antique repeat actress alter";
+var mnemonic = "assault mystery bean pull exist lizard trend bright jar coil wrap assume";

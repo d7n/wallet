@@ -1,1 +1,1 @@
-var mnemonic = "require october head spatial asthma father exist left lemon labor color flight";
+var mnemonic = "number talk armed cause kind manage discover wrong provide name light index";

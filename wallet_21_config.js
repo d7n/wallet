@@ -1,1 +1,1 @@
-var mnemonic = "slow sample mushroom unaware clerk crime height impose youth until crawl guilt";
+var mnemonic = "goddess spread merit mansion morning cargo cement announce problem erupt spy give";

@@ -1,1 +1,1 @@
-var mnemonic = "follow leader token mom toast screen slender act vocal duck cherry someone";
+var mnemonic = "ostrich okay shine forum crater cream find adult diagram tired rare host";

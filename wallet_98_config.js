@@ -1,1 +1,1 @@
-var mnemonic = "quote index tape blush fence glory gauge skate tail alley buzz budget";
+var mnemonic = "habit rice heart fringe welcome damp ball detect aim grit resist humor";

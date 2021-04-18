@@ -1,1 +1,1 @@
-var mnemonic = "envelope calm fall win focus dance bargain evoke fiscal bring team exist";
+var mnemonic = "eight duck lion normal hungry nuclear push when unknown please pause maze";

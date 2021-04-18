@@ -1,1 +1,1 @@
-var mnemonic = "when reward update west profit kid chef similar roof pull pride phone";
+var mnemonic = "admit sort where can awesome spoon slim opinion radar speak provide girl";

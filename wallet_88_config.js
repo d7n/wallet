@@ -1,1 +1,1 @@
-var mnemonic = "flock dry bread credit until later depend spice giggle mind seven maze";
+var mnemonic = "junior sustain peace smile build mesh cheese sand purity topple frown faculty";

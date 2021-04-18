@@ -1,1 +1,1 @@
-var mnemonic = "project sample jacket comic pulse any skate radio depth acid lecture trim";
+var mnemonic = "square balcony enable myself entire protect ugly pizza rally spoil click stool";

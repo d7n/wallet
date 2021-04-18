@@ -1,1 +1,1 @@
-var mnemonic = "nasty warfare history mandate say just symbol crush devote steak sense metal";
+var mnemonic = "congress legend bulb skill drive thank gown twin fragile resist kitten code";

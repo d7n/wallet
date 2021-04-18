@@ -1,1 +1,1 @@
-var mnemonic = "planet wall bitter memory venue select girl vocal use supply obscure stuff";
+var mnemonic = "asthma address child city will jazz solution worth stand enrich basic oak";

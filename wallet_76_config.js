@@ -1,1 +1,1 @@
-var mnemonic = "flight resist treat chase uniform trick crime thrive phrase fall sorry okay";
+var mnemonic = "hole oak hello prosper soon seek crush capital obtain dish use property";

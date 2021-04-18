@@ -1,1 +1,1 @@
-var mnemonic = "elephant foil hurry ginger arrange duty panic property script hole cluster pig";
+var mnemonic = "saddle release blame admit discover choice warm custom youth cigar maze extra";

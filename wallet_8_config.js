@@ -1,1 +1,1 @@
-var mnemonic = "that mercy judge scale tired fun wear twin ribbon genre dad supply";
+var mnemonic = "rifle relax frog soccer alarm repeat renew main ill caught bamboo message";

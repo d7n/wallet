@@ -1,1 +1,1 @@
-var mnemonic = "artwork essay tank mosquito problem time hundred future anger orphan design wise";
+var mnemonic = "ritual legal blood network drop around deliver canvas heavy taxi twice hat";

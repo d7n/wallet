@@ -1,1 +1,1 @@
-var mnemonic = "exile very laugh where have you athlete pumpkin anxiety settle toward muscle";
+var mnemonic = "coffee orient dirt lock tornado sword idle goose nominee often enforce faith";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon stable mushroom reveal wedding steel place wire what stomach network kit";
+var mnemonic = "crowd box dwarf input lens cargo viable test crystal perfect artist history";

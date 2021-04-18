@@ -1,1 +1,1 @@
-var mnemonic = "pitch reduce lady meadow print gate plastic jar festival topic model cube";
+var mnemonic = "time swarm hope skill grid high grit scissors arm funny payment pass";

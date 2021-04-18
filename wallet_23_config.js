@@ -1,1 +1,1 @@
-var mnemonic = "motor stamp hazard illness cruise brand smoke donor aisle admit proud end";
+var mnemonic = "transfer horn olive diamond choice layer legend hip echo firm alley climb";

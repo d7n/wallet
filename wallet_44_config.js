@@ -1,1 +1,1 @@
-var mnemonic = "thank sword error mix yellow dry worry noodle shop discover high mesh";
+var mnemonic = "clever kangaroo tunnel index van never speed outside into normal measure inhale";

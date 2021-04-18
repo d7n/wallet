@@ -1,1 +1,1 @@
-var mnemonic = "old desert music credit youth term chef twist travel mean tent attend";
+var mnemonic = "youth devote idle frog amateur small garden power galaxy move matter flock";

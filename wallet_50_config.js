@@ -1,1 +1,1 @@
-var mnemonic = "since phrase ketchup attack afraid voice text galaxy travel boat jelly exotic";
+var mnemonic = "bus buffalo curtain ten reflect van fence peanut heavy erode grain leg";

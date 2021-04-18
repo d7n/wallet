@@ -1,1 +1,1 @@
-var mnemonic = "oak planet smile soccer omit popular agree shell crane gravity solve fiction";
+var mnemonic = "extend crystal vast pilot recall fringe stadium claim mixed orbit veteran spirit";

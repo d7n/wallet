@@ -1,1 +1,1 @@
-var mnemonic = "rate rail ostrich boost snap lady peace image clarify patient chef design";
+var mnemonic = "head vintage insane mesh reflect trophy silver melt jump reform gold afford";

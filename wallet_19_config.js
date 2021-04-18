@@ -1,1 +1,1 @@
-var mnemonic = "fruit club surround protect toilet tower cute laugh curtain actress sunny glare";
+var mnemonic = "unfair possible liar cactus evoke law pledge clown stereo shift ozone flat";

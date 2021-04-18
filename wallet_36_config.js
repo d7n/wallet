@@ -1,1 +1,1 @@
-var mnemonic = "boring dry garment capital hand sauce similar stool human game genuine peasant";
+var mnemonic = "thing hidden glare winner employ luxury chalk crowd pepper nose neglect gap";

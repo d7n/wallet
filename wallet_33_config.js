@@ -1,1 +1,1 @@
-var mnemonic = "witness rose spike renew small bulb alcohol library nose find clump usage";
+var mnemonic = "useless rocket warfare citizen remind auto monkey slight dish comfort situate below";

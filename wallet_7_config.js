@@ -1,1 +1,1 @@
-var mnemonic = "meadow issue awkward scrap wife shop stomach fresh plug merit skill metal";
+var mnemonic = "rapid carry trash exhibit squirrel prosper express turkey indicate shine laundry decline";

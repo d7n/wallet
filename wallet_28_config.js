@@ -1,1 +1,1 @@
-var mnemonic = "receive fury today theme gloom uphold purse lizard unveil thank fluid brown";
+var mnemonic = "expect train pluck jeans coconut remain type cement upper vehicle piano orient";

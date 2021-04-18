@@ -1,1 +1,1 @@
-var mnemonic = "cover alien brick birth engage talk tuition girl ladder pistol mutual wheat";
+var mnemonic = "fiber fancy polar bone sword view occur fun doctor dose endorse leader";

@@ -1,1 +1,1 @@
-var mnemonic = "alien remove frost obey deny donkey hat tank exact velvet congress yellow";
+var mnemonic = "render grid left stairs shrug mix burst orchard delay fringe endless liar";

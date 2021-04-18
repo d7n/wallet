@@ -1,1 +1,1 @@
-var mnemonic = "fitness lizard rate funny pepper struggle knife air suggest elder venue banner";
+var mnemonic = "bargain around define guard health inside crystal custom flock sugar hurry random";

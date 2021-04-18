@@ -1,1 +1,1 @@
-var mnemonic = "output exclude expect basket envelope empower neutral language prefer slow soul shuffle";
+var mnemonic = "flush base claw head medal rich cargo dice sort heart faint truth";

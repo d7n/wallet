@@ -1,1 +1,1 @@
-var mnemonic = "broken industry lobster velvet step wing timber buddy inject chest stone ghost";
+var mnemonic = "arm rally morning robot grab curve alcohol domain eternal farm drive simple";

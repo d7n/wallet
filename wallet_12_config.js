@@ -1,1 +1,1 @@
-var mnemonic = "margin best welcome cheap flush narrow clerk royal fruit picnic relief forward";
+var mnemonic = "balance zero acoustic join acoustic excess city magic green toddler giant lamp";

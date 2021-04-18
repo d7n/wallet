@@ -1,1 +1,1 @@
-var mnemonic = "sphere invite clock tribe hood rain able swift crystal move job endless";
+var mnemonic = "fog biology warm flock grocery quantum escape dial awesome winner hole talk";

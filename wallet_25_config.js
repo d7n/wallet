@@ -1,1 +1,1 @@
-var mnemonic = "mean slim thank heart junior initial end double hello east genre blind";
+var mnemonic = "hip strike rich repair banana chest begin sound casino gasp bridge beef";

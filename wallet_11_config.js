@@ -1,1 +1,1 @@
-var mnemonic = "room win prefer current vessel museum bleak purpose black copper favorite inner";
+var mnemonic = "easily animal gasp skull siren pupil enemy trophy lucky above update napkin";

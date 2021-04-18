@@ -1,1 +1,1 @@
-var mnemonic = "during tornado arch only symptom certain chair seed cement ozone pave curve";
+var mnemonic = "current reopen churn clutch wolf decade noise whisper curtain marriage arrow fun";

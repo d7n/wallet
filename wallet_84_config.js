@@ -1,1 +1,1 @@
-var mnemonic = "relief shield welcome language devote surface alcohol mirror lemon uphold bike anxiety";
+var mnemonic = "rapid wood inspire index holiday torch fold own dream cage assault tired";

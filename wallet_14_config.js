@@ -1,1 +1,1 @@
-var mnemonic = "future lottery brother public shop exhaust estate mobile wave funny source alien";
+var mnemonic = "sight jelly major rose people kiwi sudden mobile cradle keep devote goose";

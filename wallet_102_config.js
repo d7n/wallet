@@ -1,1 +1,1 @@
-var mnemonic = "basket bunker media reopen claim chest must seat satisfy appear viable imitate";
+var mnemonic = "urban then frequent fashion captain taxi convince actor ticket fun pink brown";

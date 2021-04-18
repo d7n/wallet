@@ -1,1 +1,1 @@
-var mnemonic = "increase virtual fabric worth loop typical dad category spirit rely spread impose";
+var mnemonic = "guess cement peasant swamp common riot ecology lawsuit portion giraffe fancy typical";

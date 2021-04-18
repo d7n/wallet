@@ -1,1 +1,1 @@
-var mnemonic = "scene retreat couple loyal december device humor humble shiver toe old require";
+var mnemonic = "decade private undo alter bridge sibling onion quiz common rapid body design";

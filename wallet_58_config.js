@@ -1,1 +1,1 @@
-var mnemonic = "skin chronic stumble witness hill coach dolphin response account indoor bulk conduct";
+var mnemonic = "response sun win glue exhaust alcohol infant ability impact bounce decide tape";

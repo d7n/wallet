@@ -1,1 +1,1 @@
-var mnemonic = "season chunk swamp eyebrow above chef excite various thank squirrel spider craft";
+var mnemonic = "cross sugar shift ice film until chunk coin achieve relief square jar";

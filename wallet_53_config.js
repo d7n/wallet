@@ -1,1 +1,1 @@
-var mnemonic = "sudden brush chalk hurdle camp athlete series butter casual design green furnace";
+var mnemonic = "curious patient simple cook gentle toward indoor spare bounce shed old stage";

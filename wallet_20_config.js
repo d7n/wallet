@@ -1,1 +1,1 @@
-var mnemonic = "plate lady mention hurry moral empty strategy panel view royal coach tongue";
+var mnemonic = "glue orient future monitor range reject fetch slam liquid rabbit text dirt";

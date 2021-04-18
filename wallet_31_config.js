@@ -1,1 +1,1 @@
-var mnemonic = "throw lucky sorry work grit spawn super enjoy sugar wet armed expose";
+var mnemonic = "problem minor cube multiply erosion width gloom section process rail uncle involve";

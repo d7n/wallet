@@ -1,1 +1,1 @@
-var mnemonic = "muffin video key expect hope edit false perfect belt paper steel soccer";
+var mnemonic = "razor child scale adult cement panda express erupt dress sea object bus";

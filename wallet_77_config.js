@@ -1,1 +1,1 @@
-var mnemonic = "permit boring rather category ritual cargo return quiz tiny evolve slight mushroom";
+var mnemonic = "number claw clap slide ignore weather wage venue inflict cause swift absorb";

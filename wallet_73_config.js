@@ -1,1 +1,1 @@
-var mnemonic = "raise goat pole print garage border until federal utility solve text beauty";
+var mnemonic = "other daring novel park unlock cheap ring mail modify cherry erosion again";

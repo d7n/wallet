@@ -1,1 +1,1 @@
-var mnemonic = "attitude expand labor object custom keen pudding visual trade october brand letter";
+var mnemonic = "asthma stuff artwork verify path stuff slide security horn employ exact salt";

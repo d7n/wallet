@@ -1,1 +1,1 @@
-var mnemonic = "circle cry cheese foot humor merry member mixture fiber crime trust cruise";
+var mnemonic = "album alone protect know ten math excite virtual humble major sorry agent";

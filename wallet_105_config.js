@@ -1,1 +1,1 @@
-var mnemonic = "kitten vast large private absent void staff silk gas stomach nose mind";
+var mnemonic = "snake defense swamp once cake shaft trim flush season item reward comic";

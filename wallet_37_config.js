@@ -1,1 +1,1 @@
-var mnemonic = "aim feed hair juice cage appear silly alien clump analyst wonder frost";
+var mnemonic = "office prosper vault bind keen day live despair screen ancient liquid window";

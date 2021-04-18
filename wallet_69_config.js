@@ -1,1 +1,1 @@
-var mnemonic = "clock creek orphan gym stomach truck fury swap arena usual palace sure";
+var mnemonic = "twelve valid super cash mixture knee indoor worry until mansion lottery dilemma";

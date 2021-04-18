@@ -1,1 +1,1 @@
-var mnemonic = "once various alcohol capable label limit whip august rate flower used drum";
+var mnemonic = "undo welcome fine zone betray dream honey surface energy fence valid cactus";

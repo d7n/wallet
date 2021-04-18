@@ -1,1 +1,1 @@
-var mnemonic = "fish rich pencil alien harsh lend found almost album fringe social inherit";
+var mnemonic = "pulse weather decrease spike legal voice mixture visit call survey hood drill";

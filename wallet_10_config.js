@@ -1,1 +1,1 @@
-var mnemonic = "snack foster erosion modify disagree space floor hero column entry balcony spread";
+var mnemonic = "border flame hospital kidney pigeon call soap comic trick grow arch dust";

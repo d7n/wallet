@@ -1,1 +1,1 @@
-var mnemonic = "robot pear hair flag fiber disagree slam bar among plug steel alien";
+var mnemonic = "manage common slab boss before jungle bunker lesson neglect bamboo ask warm";

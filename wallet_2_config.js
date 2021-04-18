@@ -1,1 +1,1 @@
-var mnemonic = "genre expire defy motor inherit unveil million dizzy yard soldier fan divert";
+var mnemonic = "chronic cloth off task cover bid tooth punch maid feel alter immense";

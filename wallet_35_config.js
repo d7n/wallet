@@ -1,1 +1,1 @@
-var mnemonic = "mimic canoe session surge flee eagle adapt online summer scheme shallow extra";
+var mnemonic = "moral doctor decline element empty idea fiber random version layer sentence deny";

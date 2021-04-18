@@ -1,1 +1,1 @@
-var mnemonic = "brand success wonder horse start disease interest laundry anchor material upgrade narrow";
+var mnemonic = "imitate deliver whip illness base badge because balance worry chicken craft spawn";

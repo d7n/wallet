@@ -1,1 +1,1 @@
-var mnemonic = "catch reason purse street flee fame lounge lamp advice fatigue glass section";
+var mnemonic = "stable twice belt quantum box annual easily undo fire setup much clay";

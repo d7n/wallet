@@ -1,1 +1,1 @@
-var mnemonic = "torch outdoor rib citizen boil scissors side stamp badge shield remove kind";
+var mnemonic = "next turn chaos swift member mistake home card horror success across feed";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus fetch involve nest report settle kitchen bonus warm crush orbit island";
+var mnemonic = "develop surround flavor badge pond tomato script convince prevent time range capital";

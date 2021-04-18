@@ -1,1 +1,1 @@
-var mnemonic = "slender draft candy afford model taste strike address pencil fly scissors goose";
+var mnemonic = "shrug asset avoid satoshi then cattle fossil abuse engage tuition year illness";

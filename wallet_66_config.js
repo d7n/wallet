@@ -1,1 +1,1 @@
-var mnemonic = "estate erosion length start dune never awesome goat unlock know icon property";
+var mnemonic = "piano hair chief evoke slim purse recall track april rate original side";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton kit square train marble evoke logic nurse clinic bachelor parade fox";
+var mnemonic = "unfair kitten dance home liquid rely abandon insane legend client scan access";

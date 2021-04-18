@@ -1,1 +1,1 @@
-var mnemonic = "title toy admit mass laundry beyond certain sibling cover orange sibling couple";
+var mnemonic = "style noise slab scissors hero unusual offer seek cluster tackle alpha slab";

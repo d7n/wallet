@@ -1,1 +1,1 @@
-var mnemonic = "alert twin confirm trust praise exotic tragic region wood twin improve curtain";
+var mnemonic = "fox bracket goat laugh shallow feature dust kangaroo awful hip hip middle";

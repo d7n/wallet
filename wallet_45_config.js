@@ -1,1 +1,1 @@
-var mnemonic = "asset dove weapon shoulder bamboo embody stage spoon prevent regret onion capital";
+var mnemonic = "unaware enter crunch rotate improve demise chalk olive cancel clip desert use";

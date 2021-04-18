@@ -1,1 +1,1 @@
-var mnemonic = "split dizzy beauty unaware raven slender blade shine allow stage acid rule";
+var mnemonic = "movie loyal aisle hungry elbow bracket tobacco lottery merge client immense ensure";

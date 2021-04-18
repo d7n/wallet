@@ -1,1 +1,1 @@
-var mnemonic = "admit dragon oyster flush blur subject mimic wasp switch case push mail";
+var mnemonic = "shadow tiny arctic february palace prepare shiver pelican admit soap bunker month";

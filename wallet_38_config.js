@@ -1,1 +1,1 @@
-var mnemonic = "drip talent demise disorder exist exercise float celery thing minute reject wing";
+var mnemonic = "whip matter climb dragon ladder online year call brown fee enter gym";

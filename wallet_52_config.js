@@ -1,1 +1,1 @@
-var mnemonic = "wave letter burst base metal shallow fatal sister around atom assault spider";
+var mnemonic = "diary cause cargo silent weekend luggage notable slush auto require cave wood";

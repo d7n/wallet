@@ -1,1 +1,1 @@
-var mnemonic = "position humor survey now warm forget list wash off simple board gospel";
+var mnemonic = "street wonder nation dilemma cactus romance force trouble mango nut access song";

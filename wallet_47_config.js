@@ -1,1 +1,1 @@
-var mnemonic = "tennis pioneer memory suffer file orphan topple cause scare table choose mobile";
+var mnemonic = "grace rose issue wave dust angle reflect dog grain hill roast believe";

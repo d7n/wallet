@@ -1,1 +1,1 @@
-var mnemonic = "paddle charge furnace alone behave order cross sibling risk sibling hold clutch";
+var mnemonic = "discover flavor family corn hill garlic profit exotic worth trust game ugly";
