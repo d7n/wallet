@@ -1,1 +1,1 @@
-var mnemonic = "gossip case half erase appear begin rotate express wish tower joke exclude";
+var mnemonic = "gift jewel today inquiry empower letter mystery force grid brave bomb blush";

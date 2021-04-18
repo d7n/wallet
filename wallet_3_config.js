@@ -1,1 +1,1 @@
-var mnemonic = "shrug tenant give ecology famous boil file false test blame frog inhale";
+var mnemonic = "side friend luggage chief few rather goat betray badge traffic buddy flat";

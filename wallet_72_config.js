@@ -1,1 +1,1 @@
-var mnemonic = "physical winner debris deal six camera grace shy weird gold ride glory";
+var mnemonic = "abandon neglect amazing you glue cattle nature oyster mass absorb hedgehog balance";

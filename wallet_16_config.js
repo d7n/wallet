@@ -1,1 +1,1 @@
-var mnemonic = "gym naive kidney employ uncle goddess raise parade silly before repeat short";
+var mnemonic = "abandon honey shock nominee goat that jazz steel pole cage orchard dinner";

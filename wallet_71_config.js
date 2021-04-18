@@ -1,1 +1,1 @@
-var mnemonic = "device rival hint kit nuclear road favorite morning exchange spin trash they";
+var mnemonic = "page apart steel menu trial divert balcony useful blame tonight wrestle journey";

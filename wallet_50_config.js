@@ -1,1 +1,1 @@
-var mnemonic = "square elevator field skull relief opera credit alarm sell hub ice ritual";
+var mnemonic = "skull charge permit myth december chronic cry eager melody found humble lens";

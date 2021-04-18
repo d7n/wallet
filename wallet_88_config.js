@@ -1,1 +1,1 @@
-var mnemonic = "album cheese pulp post upset object license nature bridge chair negative into";
+var mnemonic = "curious zebra grass dwarf uncover fame curve abandon attack cloth avocado know";

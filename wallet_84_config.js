@@ -1,1 +1,1 @@
-var mnemonic = "cross dismiss keep legal rocket split announce happy antenna ring gentle reunion";
+var mnemonic = "trade can useless assist void parrot dice labor donor there symptom foam";

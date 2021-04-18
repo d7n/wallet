@@ -1,1 +1,1 @@
-var mnemonic = "bundle coin upon escape antenna people joy decade wave spice coil staff";
+var mnemonic = "width exhibit fame pupil modify trust tattoo rent issue prosper example exact";

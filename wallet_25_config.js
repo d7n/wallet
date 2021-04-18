@@ -1,1 +1,1 @@
-var mnemonic = "join cry second wedding assist stairs lemon level range antique over vivid";
+var mnemonic = "frog exact certain acquire want chase aim gun robot body weekend usual";

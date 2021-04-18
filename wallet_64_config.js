@@ -1,1 +1,1 @@
-var mnemonic = "salt bottom guard add umbrella magic axis monkey little plastic affair movie";
+var mnemonic = "exist response champion music teach round bar arctic grain stuff math park";

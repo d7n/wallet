@@ -1,1 +1,1 @@
-var mnemonic = "neck rural crew jar slender letter hockey alter reward slow march execute";
+var mnemonic = "menu weather apart treat gun sad south drama wool echo release derive";

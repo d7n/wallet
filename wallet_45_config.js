@@ -1,1 +1,1 @@
-var mnemonic = "cabbage flee obtain faint talent account indoor inner layer web still exist";
+var mnemonic = "biology thumb amazing busy home embark december country cheese wonder math snow";

@@ -1,1 +1,1 @@
-var mnemonic = "share voyage naive guide summer prepare affair merge luxury cheap exact figure";
+var mnemonic = "page million middle region system antenna knock polar afford still hidden left";

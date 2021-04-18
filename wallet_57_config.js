@@ -1,1 +1,1 @@
-var mnemonic = "tumble traffic arctic large agent decade rival tunnel fortune fantasy initial depth";
+var mnemonic = "since easy smart weekend arrest phone bulb boss lemon label impose hold";

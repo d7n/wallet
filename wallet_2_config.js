@@ -1,1 +1,1 @@
-var mnemonic = "parrot diary reopen raw sign ocean session enhance mutual hedgehog elbow winter";
+var mnemonic = "cruel near disagree purpose film fall sport situate cup decide canyon ignore";

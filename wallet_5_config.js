@@ -1,1 +1,1 @@
-var mnemonic = "walnut hard lizard hurt cliff diet eager suit vivid ability fossil there";
+var mnemonic = "satisfy chalk topic simple couple antenna skate category economy poem foil decrease";

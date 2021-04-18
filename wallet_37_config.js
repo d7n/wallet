@@ -1,1 +1,1 @@
-var mnemonic = "fox spoon island ring undo spider eternal narrow truly present obey stuff";
+var mnemonic = "arena scorpion monster father document crime hurdle bridge capable panther machine member";

@@ -1,1 +1,1 @@
-var mnemonic = "edge hen increase parrot defense pigeon enforce blossom dice palm theory image";
+var mnemonic = "atom switch year torch cable addict panic invite amateur crystal atom reward";

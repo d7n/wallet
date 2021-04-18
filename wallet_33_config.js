@@ -1,1 +1,1 @@
-var mnemonic = "friend arrow avocado trim toddler way label grab page relax abandon minimum";
+var mnemonic = "typical discover rail alone true gift negative off special cloth hill book";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal merry record exist discover region impulse people raw render tag minimum";
+var mnemonic = "museum reason knife portion addict drop father portion fragile mention puzzle nothing";

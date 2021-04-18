@@ -1,1 +1,1 @@
-var mnemonic = "parrot detect slim alarm fashion leg program sport unique lawsuit load arch";
+var mnemonic = "galaxy country marriage prison always worth regular crew fall ten hip notable";

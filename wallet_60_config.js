@@ -1,1 +1,1 @@
-var mnemonic = "crater session short crowd dizzy medal panel diary welcome sting police offer";
+var mnemonic = "cook green acid design victory sphere movie cart desert voyage area feature";

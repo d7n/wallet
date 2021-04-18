@@ -1,1 +1,1 @@
-var mnemonic = "funny renew sun zone grape kingdom asthma joy school learn cheese slam";
+var mnemonic = "absurd box skill column amazing panda old chair box excite urge correct";

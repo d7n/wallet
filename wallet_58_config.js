@@ -1,1 +1,1 @@
-var mnemonic = "crack priority real palm fan sponsor volcano bulk pipe sting quick enter";
+var mnemonic = "where clap device sad essence trial combine robot lock gap loan original";

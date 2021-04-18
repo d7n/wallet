@@ -1,1 +1,1 @@
-var mnemonic = "over strategy damage control north birth oak coffee cattle inside parrot swarm";
+var mnemonic = "mystery shuffle tragic era remind age double shoot skate segment census ostrich";

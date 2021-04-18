@@ -1,1 +1,1 @@
-var mnemonic = "jump hover prefer imitate connect oval first cushion sword velvet soft math";
+var mnemonic = "milk join muffin six cat struggle kick mouse elevator dutch mind exhibit";

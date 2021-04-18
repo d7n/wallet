@@ -1,1 +1,1 @@
-var mnemonic = "below squeeze skin basic example stick endless zero chapter street shell runway";
+var mnemonic = "solar drama play achieve skull unaware enough tomorrow frame rain ancient bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "bring attitude firm resource stock surround blanket gasp winner whip evoke icon";
+var mnemonic = "filter toe donate come online opinion barrel govern sadness school room hope";

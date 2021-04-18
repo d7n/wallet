@@ -1,1 +1,1 @@
-var mnemonic = "legal motor raven claim bullet setup evil kiwi thrive hat virtual birth";
+var mnemonic = "neck broccoli pistol one memory pave quality pipe decline nothing spice melt";

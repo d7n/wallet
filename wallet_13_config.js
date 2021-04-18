@@ -1,1 +1,1 @@
-var mnemonic = "cross puzzle frequent physical poverty describe bronze engage alcohol duck range shrimp";
+var mnemonic = "disagree fat hover crew country minimum mention turn agent crew major diary";

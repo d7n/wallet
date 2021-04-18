@@ -1,1 +1,1 @@
-var mnemonic = "merit under abstract mechanic say salmon pink naive faith neglect parrot visit";
+var mnemonic = "tape eagle box act depend life novel amused swear topic mass depend";

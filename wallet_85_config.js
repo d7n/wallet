@@ -1,1 +1,1 @@
-var mnemonic = "rent this yellow deny nuclear trumpet panic embody snake sun caution stand";
+var mnemonic = "rude neutral gown trend say ranch bomb tragic balcony term planet strike";

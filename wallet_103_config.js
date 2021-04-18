@@ -1,1 +1,1 @@
-var mnemonic = "illegal north ring holiday purpose resist fog mad develop pool laundry company";
+var mnemonic = "virus evolve injury finger bike bundle moon mixture trophy output trim verify";

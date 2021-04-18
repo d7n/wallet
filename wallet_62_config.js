@@ -1,1 +1,1 @@
-var mnemonic = "erosion float uncle much position census valve mammal you still intact mail";
+var mnemonic = "october maid buzz eyebrow pipe warm penalty copper motion genre project render";

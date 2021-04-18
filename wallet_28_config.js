@@ -1,1 +1,1 @@
-var mnemonic = "live deny canvas vast action undo catch whip this never stock tortoise";
+var mnemonic = "veteran artwork result weather budget thing amount glue remember toddler warfare claw";

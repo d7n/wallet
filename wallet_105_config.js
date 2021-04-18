@@ -1,1 +1,1 @@
-var mnemonic = "target tip knock eight fancy comfort pretty south energy legal indicate inspire";
+var mnemonic = "remember betray erosion annual shell slot erode tag over tongue door correct";

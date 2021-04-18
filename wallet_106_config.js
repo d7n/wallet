@@ -1,1 +1,1 @@
-var mnemonic = "veteran nothing sail obvious describe enough depth problem present festival degree wrong";
+var mnemonic = "right oblige ready army arch rural tip radio more cloud spot dice";

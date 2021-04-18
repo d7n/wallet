@@ -1,1 +1,1 @@
-var mnemonic = "decorate air absorb result phone exclude attend reward wedding lend page enjoy";
+var mnemonic = "season glance approve divert alley barely modify burden embark tuition book oblige";

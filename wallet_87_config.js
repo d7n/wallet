@@ -1,1 +1,1 @@
-var mnemonic = "target useful fold token pumpkin frequent hat aisle nice brush upon rival";
+var mnemonic = "audit surface leopard put budget crowd few acid dress gain brisk maple";

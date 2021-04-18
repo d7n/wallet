@@ -1,1 +1,1 @@
-var mnemonic = "galaxy scout brush very swing chat acquire swift inject hunt sniff excite";
+var mnemonic = "radar rival effort bachelor soldier piece peace zone net goat fantasy destroy";

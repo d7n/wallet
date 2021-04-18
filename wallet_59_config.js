@@ -1,1 +1,1 @@
-var mnemonic = "assist kite circle neutral glue sketch announce accident dry crunch dress useless";
+var mnemonic = "alpha banner shed immune pool monkey credit win trigger gate abstract parade";

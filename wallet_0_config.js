@@ -1,1 +1,1 @@
-var mnemonic = "dial relax gesture scatter smooth latin shoe truck quantum dog ready raw";
+var mnemonic = "inmate knife ahead cart service exit rebuild exercise barrel spoon screen elegant";

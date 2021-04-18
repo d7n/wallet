@@ -1,1 +1,1 @@
-var mnemonic = "embody badge robot expect north program neglect double museum track humor together";
+var mnemonic = "age result enhance correct mouse glow insane all found awesome wish right";

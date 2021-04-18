@@ -1,1 +1,1 @@
-var mnemonic = "popular option danger knife charge pause board oven moon when glance confirm";
+var mnemonic = "zero park creek dolphin across delay shadow hub isolate van fever trigger";

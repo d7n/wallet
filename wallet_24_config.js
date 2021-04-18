@@ -1,1 +1,1 @@
-var mnemonic = "pledge sting morning erode aim farm ozone ivory dizzy dry donor erosion";
+var mnemonic = "one sentence grass climb walk heavy siren they coffee phone cash win";

@@ -1,1 +1,1 @@
-var mnemonic = "olive helmet reward episode envelope orchard couple control elegant wood leopard avocado";
+var mnemonic = "weather hurry canvas valley mass wild long diet jeans crop daring olive";

@@ -1,1 +1,1 @@
-var mnemonic = "crew dose grape vote hamster course escape plate cause collect estate foster";
+var mnemonic = "provide unable wild hint drift trouble famous acquire range logic turtle february";

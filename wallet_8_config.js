@@ -1,1 +1,1 @@
-var mnemonic = "vault action health gain final ethics foam dinner daring isolate maid universe";
+var mnemonic = "valve family lion satoshi bunker poet limit burden intact enact device end";

@@ -1,1 +1,1 @@
-var mnemonic = "glory wealth diet business receive secret accuse snow brave gesture prosper century";
+var mnemonic = "grace maze reopen brain garment oven shield motion social fence vacant tilt";

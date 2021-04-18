@@ -1,1 +1,1 @@
-var mnemonic = "exhibit author ahead rich kitten aim other scene song wild comfort asset";
+var mnemonic = "census media odor figure protect inspire special sheriff situate spend catalog more";

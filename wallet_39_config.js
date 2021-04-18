@@ -1,1 +1,1 @@
-var mnemonic = "camera scan skill plug about interest easy absurd west burger response motion";
+var mnemonic = "project seven now there taste minute label asthma essence other sure punch";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal narrow unhappy pigeon cycle tape other million weapon item kid target";
+var mnemonic = "diagram comfort cannon evil add monkey pink grit assault sail either crucial";

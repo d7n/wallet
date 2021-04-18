@@ -1,1 +1,1 @@
-var mnemonic = "tide else goat six camp senior drop slush wide into same still";
+var mnemonic = "water robust risk oak dad initial shy elegant dawn message dinosaur rely";

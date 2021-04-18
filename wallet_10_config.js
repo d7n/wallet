@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit fitness senior august vanish alien liquid gospel solution wedding hazard enroll";
+var mnemonic = "student clap model concert cabbage enable produce annual tongue erode garage online";

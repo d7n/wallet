@@ -1,1 +1,1 @@
-var mnemonic = "feature that solve attitude replace cluster rubber anger denial laugh drip cinnamon";
+var mnemonic = "scatter leaf solve pave lonely topple reopen dress actress decline thing honey";

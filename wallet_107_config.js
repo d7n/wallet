@@ -1,1 +1,1 @@
-var mnemonic = "nothing make load kick forum bright aspect wet today duty slim ribbon";
+var mnemonic = "snap match rose one blind useful april enact brief viable cloth supreme";

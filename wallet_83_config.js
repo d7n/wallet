@@ -1,1 +1,1 @@
-var mnemonic = "lock teach answer kingdom river radar curtain solid green elder range high";
+var mnemonic = "donor inherit demand quantum wide afraid match tourist fossil cover forest push";

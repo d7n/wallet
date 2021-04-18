@@ -1,1 +1,1 @@
-var mnemonic = "asthma sphere smooth disorder digital disorder flavor tortoise eager slight inflict river";
+var mnemonic = "talk auto soap cradle trade time simple behind dance diagram sock degree";

@@ -1,1 +1,1 @@
-var mnemonic = "task element expect foster abstract rescue borrow derive budget cabin harbor table";
+var mnemonic = "cake glass alone act possible maid siren october climb blossom mass clay";

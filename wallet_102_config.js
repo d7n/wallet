@@ -1,1 +1,1 @@
-var mnemonic = "chest random gather venture spell delay remain soon heart fine bean purity";
+var mnemonic = "object can father plug nerve trigger twin post parade slight matter exile";

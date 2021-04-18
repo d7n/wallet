@@ -1,1 +1,1 @@
-var mnemonic = "crop security entry alone actress change acid inflict upper crowd hair debris";
+var mnemonic = "elite exile either kit radio write funny short choice gold hand faint";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup person vintage panic dog wise law trade danger purse december trial";
+var mnemonic = "voice tilt review car mail analyst shed more twelve average impose check";

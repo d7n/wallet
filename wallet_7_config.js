@@ -1,1 +1,1 @@
-var mnemonic = "boat embody cruise time coil walnut renew lounge hobby burst nurse wreck";
+var mnemonic = "cactus soccer syrup pact mutual skull candy bonus knife orchard wall spend";

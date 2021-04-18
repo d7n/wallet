@@ -1,1 +1,1 @@
-var mnemonic = "clap judge noise ceiling tiny truth steel ship knee stone opinion resist";
+var mnemonic = "quote accuse because spray diamond rival fetch crew prefer early uniform snack";

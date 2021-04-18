@@ -1,1 +1,1 @@
-var mnemonic = "addict hint choice trend copy salt tattoo carbon scorpion arch answer only";
+var mnemonic = "catalog delay unique vapor silver cannon basic pull cherry stomach month magic";

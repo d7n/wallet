@@ -1,1 +1,1 @@
-var mnemonic = "waste kit trouble vivid drill famous badge rabbit jewel illness flip urge";
+var mnemonic = "diary naive rely expand core offer business few task slush hundred firm";

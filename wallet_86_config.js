@@ -1,1 +1,1 @@
-var mnemonic = "organ length motion aspect believe village poverty staff select what trophy spell";
+var mnemonic = "cruel goat shell public dwarf bacon toilet knock hub tag among hollow";

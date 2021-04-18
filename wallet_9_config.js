@@ -1,1 +1,1 @@
-var mnemonic = "duck craft similar gap tiger hub deposit frame universe discover tube gift";
+var mnemonic = "elbow fox vivid until fall flee online castle fetch similar fabric area";

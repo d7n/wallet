@@ -1,1 +1,1 @@
-var mnemonic = "weird era task cash south flip viable broken wrap hero coast endless";
+var mnemonic = "fetch review bike away hammer fabric erode fun mention food urge celery";

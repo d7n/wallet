@@ -1,1 +1,1 @@
-var mnemonic = "select enough immune faint resemble excite library skirt urban cricket fat keep";
+var mnemonic = "faint poem life unique source mosquito warm tank spatial worry surface raccoon";

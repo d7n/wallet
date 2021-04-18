@@ -1,1 +1,1 @@
-var mnemonic = "program olive penalty expect sunny find diary label family egg boil abandon";
+var mnemonic = "strike paddle syrup divert balcony find topple busy clay life album switch";

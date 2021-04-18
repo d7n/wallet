@@ -1,1 +1,1 @@
-var mnemonic = "flock strategy old mango monster physical fall write exhibit march notice distance";
+var mnemonic = "juice awake vendor cross theory wolf alone become evil lonely walk palm";

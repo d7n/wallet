@@ -1,1 +1,1 @@
-var mnemonic = "struggle much hat need admit coffee edge festival toe city pencil coconut";
+var mnemonic = "fault above enough inmate hope gravity draft magnet hurry bone hollow chase";

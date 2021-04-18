@@ -1,1 +1,1 @@
-var mnemonic = "balance hub toe velvet direct globe web tongue allow surround envelope length";
+var mnemonic = "unable unlock crash wrestle silver effort wood category resist cross lawsuit arctic";

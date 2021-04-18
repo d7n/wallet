@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pony pattern amateur mobile eye enforce close day jewel man turtle";
+var mnemonic = "pizza genius drama diagram civil margin stuff already whale answer stove globe";

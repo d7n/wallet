@@ -1,1 +1,1 @@
-var mnemonic = "above wise doll soup diesel wise panther purity brown upset crane grab";
+var mnemonic = "friend autumn solar risk spider sunny wave jealous height gossip draft vital";

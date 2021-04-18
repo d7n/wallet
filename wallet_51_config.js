@@ -1,1 +1,1 @@
-var mnemonic = "naive addict surface rail protect defy roast enhance junior decade harvest pencil";
+var mnemonic = "gather lumber crowd plate door able bus venture dignity grace broken apology";

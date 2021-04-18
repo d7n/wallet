@@ -1,1 +1,1 @@
-var mnemonic = "indoor baby sport taste accident crop alien net script inch design melt";
+var mnemonic = "arrive village violin come this level thank spoon tip require secret dinosaur";

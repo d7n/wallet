@@ -1,1 +1,1 @@
-var mnemonic = "bridge talk soccer visa bonus matter wear slim scissors april dish actual";
+var mnemonic = "equip disagree license ask urban lonely attend clean typical noble rice marine";

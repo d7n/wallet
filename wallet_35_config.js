@@ -1,1 +1,1 @@
-var mnemonic = "safe flower gallery security moment butter empower modify recipe hazard only arrest";
+var mnemonic = "fire tongue clarify soccer clump virtual hood volume pigeon secret salmon manage";

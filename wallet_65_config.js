@@ -1,1 +1,1 @@
-var mnemonic = "produce carry say random vague tell flavor clerk ginger virtual strong diary";
+var mnemonic = "illness truck eternal cross fashion swallow innocent biology scissors royal hip nephew";

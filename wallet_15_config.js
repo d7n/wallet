@@ -1,1 +1,1 @@
-var mnemonic = "theme endorse blush that wage swallow quit people secret develop cushion cushion";
+var mnemonic = "pyramid either swift fox thank clog plastic pupil three barely measure identify";

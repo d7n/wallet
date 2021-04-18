@@ -1,1 +1,1 @@
-var mnemonic = "nothing carbon trap police error riot decide solve banana metal quit acquire";
+var mnemonic = "eager quit book major soldier cheese this hunt scan shift march cave";

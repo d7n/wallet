@@ -1,1 +1,1 @@
-var mnemonic = "snow thumb useless moment fragile divert ancient scheme flash cool excuse budget";
+var mnemonic = "simple near dish plate light apart lunar toward hold feature average quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "myth winter twenty physical staff stereo word emerge wrestle fold jealous onion";
+var mnemonic = "dove pioneer fall trouble pigeon trim buyer helmet arena breeze boil eternal";

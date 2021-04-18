@@ -1,1 +1,1 @@
-var mnemonic = "exotic unfold crucial exile infant sick situate long nation cactus three door";
+var mnemonic = "there task van earn hub amount museum soap token melody inhale cinnamon";

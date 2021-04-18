@@ -1,1 +1,1 @@
-var mnemonic = "obscure boost dose throw page town palace tortoise habit segment glad click";
+var mnemonic = "define father excuse laptop unlock indoor misery concert dentist fade curious vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "surface motor vital wet play confirm gate city sting famous wash steak";
+var mnemonic = "drive unaware assault vacant liberty obvious sorry then stamp half jelly water";

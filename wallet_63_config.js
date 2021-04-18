@@ -1,1 +1,1 @@
-var mnemonic = "trumpet please resist gentle update check actor upon nominee inject fiber age";
+var mnemonic = "business ensure friend either arrest gravity strategy item sibling kitten obey merit";

@@ -1,1 +1,1 @@
-var mnemonic = "cup creek sketch world august pet expect simple lift man popular eight";
+var mnemonic = "dawn mouse trim carbon apology liberty topple cricket buzz jelly people biology";
