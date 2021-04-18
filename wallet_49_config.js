@@ -1,1 +1,1 @@
-var mnemonic = "eternal picture drop scout autumn there deer physical very grid amazing tennis";
+var mnemonic = "hand cherry window horse lumber weather race denial scrub expand bid eternal";

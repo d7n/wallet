@@ -1,1 +1,1 @@
-var mnemonic = "drift regular hungry ugly ride quit alpha begin harvest idea lock kite";
+var mnemonic = "civil pelican topic isolate average midnight funny search design promote acquire slush";

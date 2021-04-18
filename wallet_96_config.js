@@ -1,1 +1,1 @@
-var mnemonic = "gesture viable slight multiply hybrid october royal turtle caution column wrong squeeze";
+var mnemonic = "large gravity invest trash whisper arrest pink allow cash estate crowd snap";

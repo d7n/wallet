@@ -1,1 +1,1 @@
-var mnemonic = "method corn theory axis mutual fetch toy leaf blanket mirror tiger crowd";
+var mnemonic = "butter nose lemon empower general slush dice stuff hen myth six pull";

@@ -1,1 +1,1 @@
-var mnemonic = "slide immune grape there shell axis truth have immense strike ghost robust";
+var mnemonic = "hawk among mixed current dial airport pudding tunnel fitness final detect admit";

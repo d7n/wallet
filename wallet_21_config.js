@@ -1,1 +1,1 @@
-var mnemonic = "sleep bulb song cabin imitate document load away cheap bar dynamic ill";
+var mnemonic = "miss boy soup practice helmet wrestle member coral require satoshi bullet sheriff";

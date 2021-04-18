@@ -1,1 +1,1 @@
-var mnemonic = "cat wreck peanut lecture stay hobby scissors leopard cushion cheap front duty";
+var mnemonic = "similar wire rotate best bless infant survey anger differ scare clump moral";

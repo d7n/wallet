@@ -1,1 +1,1 @@
-var mnemonic = "useful enemy dumb smooth curious shove scare artefact add oak alpha custom";
+var mnemonic = "dove whisper bonus march almost chuckle radar stereo pulp shield green kit";

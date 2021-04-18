@@ -1,1 +1,1 @@
-var mnemonic = "enemy toss pole tiny slow theory hover cross beauty prison patch vast";
+var mnemonic = "fork damp bind swift tower hover name main cancel impulse dress universe";

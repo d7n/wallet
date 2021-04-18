@@ -1,1 +1,1 @@
-var mnemonic = "venue train pupil immune toast garbage attitude park awful review bunker jeans";
+var mnemonic = "hotel type height mean asset sure session stadium capable envelope bronze spirit";

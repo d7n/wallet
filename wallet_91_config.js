@@ -1,1 +1,1 @@
-var mnemonic = "logic above foil give elephant jump finish island retire purity wool ancient";
+var mnemonic = "poet tissue future ribbon nothing risk anger shop fresh wolf brick final";

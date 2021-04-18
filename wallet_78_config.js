@@ -1,1 +1,1 @@
-var mnemonic = "twist dawn misery found stairs wealth beyond figure jewel truth front balance";
+var mnemonic = "danger chicken dwarf forward daughter reduce dynamic result hobby gauge huge velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver company bubble occur staff require once exchange baby brain maze answer";
+var mnemonic = "winter theory chronic kingdom exotic affair blur february century tilt swarm pond";

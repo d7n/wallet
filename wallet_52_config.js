@@ -1,1 +1,1 @@
-var mnemonic = "horror future suffer glue three pigeon mushroom screen day grid merit tenant";
+var mnemonic = "honey surface reveal light logic hold clay gospel adult weekend cute chase";

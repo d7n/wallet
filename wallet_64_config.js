@@ -1,1 +1,1 @@
-var mnemonic = "thrive boost movie sure grow midnight junk fish thought next mountain wing";
+var mnemonic = "saddle valve solution dynamic squirrel art below version hidden tomorrow explain inside";

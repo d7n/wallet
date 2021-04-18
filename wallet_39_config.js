@@ -1,1 +1,1 @@
-var mnemonic = "hurdle post summer way number duty another stairs dial never catch nature";
+var mnemonic = "universe prevent end evoke enact practice illness shed admit illness dismiss home";

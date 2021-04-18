@@ -1,1 +1,1 @@
-var mnemonic = "rural picture fish muscle minimum worth beach execute crawl hawk chicken ridge";
+var mnemonic = "lesson then rude federal silent enable tray bracket daring athlete stuff feel";

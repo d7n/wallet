@@ -1,1 +1,1 @@
-var mnemonic = "unable eyebrow settle bleak dismiss mirror pride spider year urban asthma erode";
+var mnemonic = "north flavor hover concert fade output kitchen glory scrap resource asset toy";

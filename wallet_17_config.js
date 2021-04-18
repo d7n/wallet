@@ -1,1 +1,1 @@
-var mnemonic = "there eager chair true fade witness tape craft december found angle stone";
+var mnemonic = "gauge sustain vivid oblige pair sweet fiber search blouse inhale hawk govern";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee disagree type phone bracket pull bitter slush odor attitude before win";
+var mnemonic = "drop useful flavor screen message filter burger wild finger month forest sword";

@@ -1,1 +1,1 @@
-var mnemonic = "marble drill reduce model machine soccer vault develop describe carry daring female";
+var mnemonic = "stomach brother cherry trash moral riot evidence sound outdoor border donate recipe";

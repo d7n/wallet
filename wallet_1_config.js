@@ -1,1 +1,1 @@
-var mnemonic = "caution catch cousin divide sport practice cover brisk entry route balance tower";
+var mnemonic = "civil crater agree crawl dash fuel museum castle advance claw decade shrimp";

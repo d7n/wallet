@@ -1,1 +1,1 @@
-var mnemonic = "chapter husband lift antenna mirror pull cement mom predict about raccoon pink";
+var mnemonic = "topple helmet limb symptom kiss sugar floor lecture ridge scene tongue notice";

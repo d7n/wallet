@@ -1,1 +1,1 @@
-var mnemonic = "style kiss around water differ sure anger flock link nice armed gloom";
+var mnemonic = "aisle arrow change woman surprise discover ghost sausage twenty dance glove tree";

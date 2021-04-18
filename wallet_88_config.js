@@ -1,1 +1,1 @@
-var mnemonic = "picnic kiwi garden sword foam repeat excite hundred method apology leaf million";
+var mnemonic = "energy evil exhibit oppose ice twice jewel when entry anchor umbrella struggle";

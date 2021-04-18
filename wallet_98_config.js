@@ -1,1 +1,1 @@
-var mnemonic = "retire cousin bounce seminar vast cross tone size amused switch lecture ketchup";
+var mnemonic = "dash angry bamboo explain brass sing pelican method report danger penalty try";

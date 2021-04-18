@@ -1,1 +1,1 @@
-var mnemonic = "wreck leaf same version build wheat east sphere calm okay spot option";
+var mnemonic = "praise tongue general common shock tenant perfect lock gossip submit noise business";

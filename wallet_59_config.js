@@ -1,1 +1,1 @@
-var mnemonic = "bird theme garlic endorse misery banana misery saddle bar crop replace sponsor";
+var mnemonic = "organ valley audit violin asset lucky defy tail amateur armor flag expire";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn filter stay happy gospel please clip aspect noble popular clay food";
+var mnemonic = "buzz pupil absorb finger shy panic hurry enough consider bag differ awful";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot harsh culture depend tail myself lazy crucial club evidence usage beef";
+var mnemonic = "leisure bamboo mail crawl ugly bicycle rabbit talk special crunch develop nuclear";

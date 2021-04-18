@@ -1,1 +1,1 @@
-var mnemonic = "random increase alert oak balance degree liquid seat ecology apology close surface";
+var mnemonic = "load garden annual motor neutral venue episode ridge include true blouse cute";

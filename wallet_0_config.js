@@ -1,1 +1,1 @@
-var mnemonic = "grunt muscle wasp lumber border wrestle frequent vendor guitar hockey spice pool";
+var mnemonic = "transfer replace satoshi clap dose citizen mouse diesel present system right hunt";

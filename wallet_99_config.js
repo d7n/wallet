@@ -1,1 +1,1 @@
-var mnemonic = "verify live leaf street enter economy potato disease bar network office emotion";
+var mnemonic = "ostrich final settle document snow moon wrong dizzy oil want maid tomato";

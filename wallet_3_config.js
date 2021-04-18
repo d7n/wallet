@@ -1,1 +1,1 @@
-var mnemonic = "sense avocado become ritual plate cluster erode long man that bicycle festival";
+var mnemonic = "never bacon physical enable kingdom menu depth type loop umbrella enlist arch";

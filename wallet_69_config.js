@@ -1,1 +1,1 @@
-var mnemonic = "panda section figure enemy wage art slab equip figure author ready unfair";
+var mnemonic = "kitten bike angry case resist noise collect inform essay olive empty flip";

@@ -1,1 +1,1 @@
-var mnemonic = "floor dinosaur medal hen carry giraffe muscle ask bubble scare lake worth";
+var mnemonic = "prison mixture click sponsor gas capital trash cabbage load custom reflect loud";

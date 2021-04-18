@@ -1,1 +1,1 @@
-var mnemonic = "inquiry farm genuine globe dynamic track wrong sell design ostrich dirt ecology";
+var mnemonic = "dilemma year come coyote outside grief child tourist pulp artwork duty model";

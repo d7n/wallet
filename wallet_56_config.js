@@ -1,1 +1,1 @@
-var mnemonic = "seed must review fun column garlic crumble depart skirt insect skill snake";
+var mnemonic = "club region chimney turn punch bird negative pretty purse dwarf blush good";

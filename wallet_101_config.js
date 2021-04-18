@@ -1,1 +1,1 @@
-var mnemonic = "write erupt mosquito relax fire provide stock helmet clay rose horse funny";
+var mnemonic = "wool medal vehicle apology rigid scale ecology neck limb shift leisure hill";

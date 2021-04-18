@@ -1,1 +1,1 @@
-var mnemonic = "hood net sorry quarter wall feel mule point duty lemon clean convince";
+var mnemonic = "cousin drop direct august garage topic custom convince never fold artwork juice";

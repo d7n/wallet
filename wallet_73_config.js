@@ -1,1 +1,1 @@
-var mnemonic = "toss pool celery toddler age local peasant clerk wisdom build denial gravity";
+var mnemonic = "nest trophy observe ordinary tired system harbor company hybrid liberty woman patrol";

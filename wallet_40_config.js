@@ -1,1 +1,1 @@
-var mnemonic = "stem refuse bonus situate silly glass rebel large arrive impose rib remove";
+var mnemonic = "hole ill blame believe talk erase resemble common core oblige depth trophy";

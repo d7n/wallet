@@ -1,1 +1,1 @@
-var mnemonic = "story taxi lava yellow original awesome come expand muffin myth hammer atom";
+var mnemonic = "fault cross lesson void expect latin zoo excess gallery loop wall resource";

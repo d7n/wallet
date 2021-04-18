@@ -1,1 +1,1 @@
-var mnemonic = "cram pair welcome avoid discover busy train bus yard crazy kit junk";
+var mnemonic = "thank accuse again taste error stem boost pact super supply bird dream";

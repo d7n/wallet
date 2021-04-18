@@ -1,1 +1,1 @@
-var mnemonic = "matter resist spatial setup like climb solar peanut elevator hole patrol smart";
+var mnemonic = "present include spare second riot toward stove midnight peasant will mixed artefact";

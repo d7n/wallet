@@ -1,1 +1,1 @@
-var mnemonic = "wheat seek share turkey song vintage recipe wolf matter busy august regular";
+var mnemonic = "symptom warrior response worry dilemma moral soda worth fade chalk enroll reflect";

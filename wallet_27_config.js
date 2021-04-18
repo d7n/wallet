@@ -1,1 +1,1 @@
-var mnemonic = "other amount slogan laptop tumble energy high embody wise cradle shoe outer";
+var mnemonic = "crowd intact candy attract river infant gentle science cave powder essay dust";

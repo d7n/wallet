@@ -1,1 +1,1 @@
-var mnemonic = "armed fox feed ill slender advance vibrant soft enforce moment cage vibrant";
+var mnemonic = "giggle main mix project topple clay acquire april wear wide aspect comfort";

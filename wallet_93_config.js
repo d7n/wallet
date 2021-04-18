@@ -1,1 +1,1 @@
-var mnemonic = "satisfy ecology exist payment hour fiber awkward machine banana sunset public awake";
+var mnemonic = "six flight potato canvas zoo coin cinnamon machine attend voyage crystal local";

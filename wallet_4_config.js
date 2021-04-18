@@ -1,1 +1,1 @@
-var mnemonic = "tissue employ pudding course pizza quote picture post direct wrist grocery click";
+var mnemonic = "bubble decorate hunt power outer girl dove noodle display wonder cousin able";

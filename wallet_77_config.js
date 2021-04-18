@@ -1,1 +1,1 @@
-var mnemonic = "mixture short rule level poet system jar food spoil renew churn thumb";
+var mnemonic = "dinner basket student vehicle car grain pyramid focus method kitchen benefit brisk";

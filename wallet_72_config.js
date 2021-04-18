@@ -1,1 +1,1 @@
-var mnemonic = "shadow acid cousin bounce home exchange heart three during short remove false";
+var mnemonic = "endorse stool frequent perfect input cover sure sail govern glow dance mind";

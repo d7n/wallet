@@ -1,1 +1,1 @@
-var mnemonic = "poem three hand honey recycle excess arrive whip master tourist party trophy";
+var mnemonic = "clerk absorb leopard sight convince lumber warfare over sunny pyramid north fiber";

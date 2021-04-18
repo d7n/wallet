@@ -1,1 +1,1 @@
-var mnemonic = "lock era ceiling echo eagle pole chef stone shrimp bind enrich sense";
+var mnemonic = "remain reward shiver tank main warfare opera credit force company mix clip";

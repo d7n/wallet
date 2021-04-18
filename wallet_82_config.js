@@ -1,1 +1,1 @@
-var mnemonic = "casino lottery adult near gun crawl hunt sniff steak fork adjust reopen";
+var mnemonic = "labor speak state dial double august satoshi crop clinic fault wonder happy";

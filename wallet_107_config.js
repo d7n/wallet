@@ -1,1 +1,1 @@
-var mnemonic = "business sample object impulse better frequent indoor gain zebra jaguar borrow culture";
+var mnemonic = "spatial bean erupt coconut offer input camp old birth chat brand intact";

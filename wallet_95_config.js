@@ -1,1 +1,1 @@
-var mnemonic = "okay myself armor reject sausage supply include mule way sell core actual";
+var mnemonic = "limit lava oval trim coach clutch focus advance plate bonus youth sunny";

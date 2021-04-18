@@ -1,1 +1,1 @@
-var mnemonic = "cool hurdle lend pyramid design extra review degree wife arena frame ribbon";
+var mnemonic = "pride guess all vessel man retire build embody brother expire liar shrimp";

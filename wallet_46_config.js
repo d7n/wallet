@@ -1,1 +1,1 @@
-var mnemonic = "midnight ten kid repeat napkin clock spike brass damp guide snake silk";
+var mnemonic = "doctor soap present melody glow wave cake inmate liar claim state situate";

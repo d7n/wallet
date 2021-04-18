@@ -1,1 +1,1 @@
-var mnemonic = "normal lizard head fame huge width upgrade spike actor motor near oppose";
+var mnemonic = "sponsor bean topple session employ endorse impact original charge exit physical battle";

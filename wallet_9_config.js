@@ -1,1 +1,1 @@
-var mnemonic = "rule symbol meadow crime relax journey wedding found range beach gloom bird";
+var mnemonic = "meadow cancel material artist genuine wine rude trap elegant sad fee goddess";

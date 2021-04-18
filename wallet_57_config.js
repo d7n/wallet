@@ -1,1 +1,1 @@
-var mnemonic = "meat image spin pair curious decrease put cousin desk exit silver obey";
+var mnemonic = "pattern produce twice avoid duty human boss when recycle aisle busy trigger";

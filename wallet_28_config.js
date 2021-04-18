@@ -1,1 +1,1 @@
-var mnemonic = "ethics rally shaft reduce blue taxi bicycle voice battle write abuse major";
+var mnemonic = "pyramid much label pizza puppy verify music above decrease day walk elephant";

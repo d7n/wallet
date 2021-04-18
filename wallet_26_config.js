@@ -1,1 +1,1 @@
-var mnemonic = "electric vivid leisure advance weather dumb organ chimney scorpion permit pride other";
+var mnemonic = "typical attract sunny vapor above diet pattern peasant mobile dust duty deposit";

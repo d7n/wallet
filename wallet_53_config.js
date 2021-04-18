@@ -1,1 +1,1 @@
-var mnemonic = "dress shift devote lumber outdoor shadow disorder lab bright advice clutch obscure";
+var mnemonic = "bonus fee express major loop priority method craft solve budget fatigue seven";

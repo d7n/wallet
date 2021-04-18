@@ -1,1 +1,1 @@
-var mnemonic = "mansion elevator join amateur math steel tag arm concert hand glow various";
+var mnemonic = "rude silent cause pupil reduce salon include verb punch mandate damp quantum";

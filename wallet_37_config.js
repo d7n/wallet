@@ -1,1 +1,1 @@
-var mnemonic = "fork mad build silk polar robust piece tomorrow retreat demand point dad";
+var mnemonic = "result ugly light address quiz spike glad trophy crawl claim music timber";

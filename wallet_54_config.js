@@ -1,1 +1,1 @@
-var mnemonic = "border update gas screen december squeeze clerk shell eight wink aisle riot";
+var mnemonic = "rally coconut nephew hundred coin friend true gas impulse tell good dance";

@@ -1,1 +1,1 @@
-var mnemonic = "update capable supreme memory journey tail abstract gospel mail salmon across actor";
+var mnemonic = "grace pattern model shell connect horror city toddler acoustic payment wisdom muscle";

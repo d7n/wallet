@@ -1,1 +1,1 @@
-var mnemonic = "sauce addict ask rent raw october beef include mother gentle apple have";
+var mnemonic = "very robust toddler sugar brown able alter kit electric jump agree raw";

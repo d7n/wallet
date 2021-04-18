@@ -1,1 +1,1 @@
-var mnemonic = "limit laugh run add spare follow pistol diet exist trouble timber leave";
+var mnemonic = "soda rural impact capital device situate water car valve guard chest secret";

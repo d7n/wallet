@@ -1,1 +1,1 @@
-var mnemonic = "calm unusual scout love depart shoulder youth tornado copy donor play sheriff";
+var mnemonic = "resource city manage denial supreme invite benefit jungle pulse together toy rescue";

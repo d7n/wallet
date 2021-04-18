@@ -1,1 +1,1 @@
-var mnemonic = "welcome duty mushroom dentist focus law muffin undo fork primary digital circle";
+var mnemonic = "arm exile antique unaware noise rate lecture ready evolve face fire ginger";

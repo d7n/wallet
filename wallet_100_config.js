@@ -1,1 +1,1 @@
-var mnemonic = "invest sheriff match history novel bacon cement envelope cement seat brush consider";
+var mnemonic = "answer include faculty damp fuel regular shift tooth dust pitch state nominee";

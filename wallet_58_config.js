@@ -1,1 +1,1 @@
-var mnemonic = "cradle result virus concert despair settle sting dry solid rain post doctor";
+var mnemonic = "access student robot else border feel outside coral enjoy duty glory sausage";

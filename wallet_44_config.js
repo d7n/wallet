@@ -1,1 +1,1 @@
-var mnemonic = "crater salmon daughter gospel pizza crucial depend today until impulse sick wild";
+var mnemonic = "cabbage luggage affair protect sunset nerve debris measure exit lion among hole";

@@ -1,1 +1,1 @@
-var mnemonic = "skate garage decade brass liar whisper fabric blame trial lunch worth admit";
+var mnemonic = "dolphin flip major disagree soon snow write refuse kick bachelor jealous deliver";

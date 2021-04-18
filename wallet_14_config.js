@@ -1,1 +1,1 @@
-var mnemonic = "nice pudding grab execute broom video noodle cheese pulse about world crater";
+var mnemonic = "drift crew giggle garlic siege marriage double deer sting dial suggest gaze";

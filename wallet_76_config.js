@@ -1,1 +1,1 @@
-var mnemonic = "december hover predict silver sword vocal six phone ketchup zero empower rough";
+var mnemonic = "clog cruise warrior dash device canyon whisper cute option flee drama arena";

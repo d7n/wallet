@@ -1,1 +1,1 @@
-var mnemonic = "best mimic arm walk spy trend foot hurt between bid injury brand";
+var mnemonic = "hint inch guitar acquire maze bronze lumber copper drop stable piece inmate";

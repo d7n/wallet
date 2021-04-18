@@ -1,1 +1,1 @@
-var mnemonic = "vault vehicle urban aisle install poem wisdom auto fluid country main dilemma";
+var mnemonic = "record popular legal sorry clerk spider use resist panel element price bulb";

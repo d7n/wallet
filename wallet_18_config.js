@@ -1,1 +1,1 @@
-var mnemonic = "method renew latin scrap pause loud drill unaware celery fury crucial very";
+var mnemonic = "rookie fiction sweet decline review legal usage employ quote broom dilemma fossil";

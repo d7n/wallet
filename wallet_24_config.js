@@ -1,1 +1,1 @@
-var mnemonic = "chicken blush earth scatter twin blur congress embark gasp save order arm";
+var mnemonic = "brown detect motion just model apple various inform air mango crucial jazz";

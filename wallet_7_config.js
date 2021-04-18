@@ -1,1 +1,1 @@
-var mnemonic = "together assist cake demand sunset dog long mimic close coral toward rally";
+var mnemonic = "divert youth tunnel bar uniform host pottery vacant busy fuel moon piece";

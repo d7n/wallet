@@ -1,1 +1,1 @@
-var mnemonic = "flat mouse fever firm home sheriff gather carpet tray print soon couch";
+var mnemonic = "raise open apart gesture unveil satoshi noble sweet bag fever viable cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "drill donor combine man express observe window floor attack dash fade warfare";
+var mnemonic = "poet thought valley sense winner please garbage clap chimney alpha faith leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "fade ability viable emerge muffin diet chalk pipe stock erode elegant nothing";
+var mnemonic = "orient gallery arctic fresh pledge potato wear air present ride tragic metal";

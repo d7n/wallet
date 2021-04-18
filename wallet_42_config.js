@@ -1,1 +1,1 @@
-var mnemonic = "car hint cabbage fan parade address multiply shrug wolf strategy museum coach";
+var mnemonic = "horse bid stadium spot wasp nice cliff legend derive hill total vital";

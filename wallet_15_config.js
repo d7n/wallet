@@ -1,1 +1,1 @@
-var mnemonic = "another maximum play immune squeeze relax clean defense fat visa bulb wise";
+var mnemonic = "behave trim aunt furnace bottom video among cactus note annual rice payment";

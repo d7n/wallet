@@ -1,1 +1,1 @@
-var mnemonic = "nice spread small minimum foam zero keen cherry protect exact script time";
+var mnemonic = "tomato dinner universe sleep shuffle silk ecology ecology coil glance impose endorse";
