@@ -1,1 +1,1 @@
-var mnemonic = "isolate maple magic head daughter object clip monitor table notable frozen another";
+var mnemonic = "gospel census sound palm bright flat effort belt copper emotion spin work";

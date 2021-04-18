@@ -1,1 +1,1 @@
-var mnemonic = "imitate name behind deny tackle lift found hat model surge picnic machine";
+var mnemonic = "depart snake album lava kid work salad polar purpose middle damage vehicle";

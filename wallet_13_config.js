@@ -1,1 +1,1 @@
-var mnemonic = "check mom same debate parent loyal legend legal kitten quality venture upgrade";
+var mnemonic = "glance thank steak relax urban drill notice rescue slender chase dice confirm";

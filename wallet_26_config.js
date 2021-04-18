@@ -1,1 +1,1 @@
-var mnemonic = "sentence festival empty into gown clay fuel imitate catch buddy cart shine";
+var mnemonic = "high priority power powder scout recycle film afford pistol arrow member cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "alert exhaust canal voice bonus barrel oblige clip regret spice cattle gain";
+var mnemonic = "guitar hope lady silent buyer proud cheap grief scan disease receive vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture mutual dove uphold valid file fabric stock choice wisdom fly dial";
+var mnemonic = "enrich shine draft napkin oven chronic assume kitchen sibling hero original slice";

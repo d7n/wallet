@@ -1,1 +1,1 @@
-var mnemonic = "obtain kick lazy gravity churn toss sad reduce own month side plunge";
+var mnemonic = "fan giggle snack assault again skate today detail roast burden skate drama";

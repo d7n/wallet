@@ -1,1 +1,1 @@
-var mnemonic = "fringe clutch evoke ski victory label upgrade merge clock program angle method";
+var mnemonic = "toast use snap start rain move prison useful velvet clap police hockey";

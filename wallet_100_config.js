@@ -1,1 +1,1 @@
-var mnemonic = "decrease beyond refuse illegal seminar pole what awful water give excess bird";
+var mnemonic = "misery supreme often short find gasp blue vast silly present collect cousin";

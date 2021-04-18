@@ -1,1 +1,1 @@
-var mnemonic = "draw network must ostrich exhaust slush when romance own cheese again inhale";
+var mnemonic = "someone desk future mosquito piano merry learn wire bid metal fun dove";

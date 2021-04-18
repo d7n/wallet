@@ -1,1 +1,1 @@
-var mnemonic = "fault faint boost blast accident spider hundred dilemma vendor once oven under";
+var mnemonic = "dog physical hello memory valley absurd gain kiss hockey topic april crane";

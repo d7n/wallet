@@ -1,1 +1,1 @@
-var mnemonic = "tiny salmon fan monkey derive broken biology position hip novel marble law";
+var mnemonic = "exact tray protect media artefact heart glare ostrich vehicle eyebrow scrap appear";

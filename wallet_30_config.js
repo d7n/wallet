@@ -1,1 +1,1 @@
-var mnemonic = "wall differ memory little quarter uniform early plunge chase soap gloom addict";
+var mnemonic = "twin kidney expand evolve view bottom young razor tenant legal modify practice";

@@ -1,1 +1,1 @@
-var mnemonic = "quality very scare shop zero off defy glimpse pact until jaguar embody";
+var mnemonic = "wool want produce basket hole cruise borrow guard actor hill guide actress";

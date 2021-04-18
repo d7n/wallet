@@ -1,1 +1,1 @@
-var mnemonic = "merit stuff link smart trouble chief maid stumble crush reject jaguar liberty";
+var mnemonic = "athlete second umbrella foam grace pair wave start chat acoustic engine great";

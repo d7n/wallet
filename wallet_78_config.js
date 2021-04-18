@@ -1,1 +1,1 @@
-var mnemonic = "stable brisk expand liquid spell midnight valid category rug cabin purity hard";
+var mnemonic = "globe furnace ship audit alien glue federal arrange admit world turtle fever";

@@ -1,1 +1,1 @@
-var mnemonic = "north organ quarter cool swing bridge raise tail book crumble elephant safe";
+var mnemonic = "junk hungry nephew select heavy beauty maximum fog pact phrase sick decrease";

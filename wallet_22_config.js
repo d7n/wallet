@@ -1,1 +1,1 @@
-var mnemonic = "sniff wheat night vivid opinion about pill bid nothing salad chapter supply";
+var mnemonic = "cheese pitch reflect square will february twenty involve loop roast echo rail";

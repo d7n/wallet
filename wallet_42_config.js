@@ -1,1 +1,1 @@
-var mnemonic = "era jewel pear other word siege volume gospel provide lazy wood creek";
+var mnemonic = "west neutral sound together occur ginger rubber love flag jaguar churn brass";

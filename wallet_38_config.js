@@ -1,1 +1,1 @@
-var mnemonic = "finger little fetch bridge smoke spoon world menu perfect tennis notice rally";
+var mnemonic = "rent famous foam leave modify eager velvet pluck absorb mango hybrid enemy";

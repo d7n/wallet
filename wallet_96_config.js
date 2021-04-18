@@ -1,1 +1,1 @@
-var mnemonic = "hidden wasp brief vacant super tattoo flock address bulb job claim clock";
+var mnemonic = "water cruel practice marine october debris negative income aim metal protect popular";

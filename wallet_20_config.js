@@ -1,1 +1,1 @@
-var mnemonic = "cup expose debris mask breeze decrease supreme clog casino web toast tourist";
+var mnemonic = "client final window river opinion salute diamond umbrella express oppose express scatter";

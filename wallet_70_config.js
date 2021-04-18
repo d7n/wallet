@@ -1,1 +1,1 @@
-var mnemonic = "comic island indoor reduce marble change appear decorate praise ethics mechanic cart";
+var mnemonic = "illness age brown spirit test tag core current analyst foster kit upgrade";

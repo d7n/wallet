@@ -1,1 +1,1 @@
-var mnemonic = "assume try casino dinner violin half example report charge question column cricket";
+var mnemonic = "swim office upgrade dutch clap pluck birth teach crazy accuse fancy torch";

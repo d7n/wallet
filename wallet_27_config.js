@@ -1,1 +1,1 @@
-var mnemonic = "damp purpose carpet daughter torch noodle uniform hello shed rice device science";
+var mnemonic = "sense faint cargo dinosaur staff usual laptop gather nation twice timber height";

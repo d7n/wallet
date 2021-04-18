@@ -1,1 +1,1 @@
-var mnemonic = "urge trap chalk enemy armed vessel pipe grain supply theory awful way";
+var mnemonic = "icon section bag virus where trouble setup winter hint window nature hub";

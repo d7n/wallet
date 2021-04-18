@@ -1,1 +1,1 @@
-var mnemonic = "team traffic charge manage tag jazz quiz must tuition damp tomorrow camera";
+var mnemonic = "float under hybrid where mandate old rescue analyst pulp special subway luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "escape rough margin path random sound gallery wedding print pen museum aisle";
+var mnemonic = "mean still lecture proof critic convince unit bread latin oil crash hurry";

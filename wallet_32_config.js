@@ -1,1 +1,1 @@
-var mnemonic = "vapor forward dilemma amateur live stay job banner know fat village require";
+var mnemonic = "usual okay ordinary pony vocal game pipe stuff estate solution lunch shield";

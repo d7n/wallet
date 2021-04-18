@@ -1,1 +1,1 @@
-var mnemonic = "sausage brave arctic luggage cross flock fiber great indoor sure quick core";
+var mnemonic = "sweet couple express dial slice adapt simple silly drive yellow muscle poverty";

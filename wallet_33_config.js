@@ -1,1 +1,1 @@
-var mnemonic = "bag relief program duty horn cry trade usage torch exist carbon cake";
+var mnemonic = "behave exotic glow buddy disorder where bitter angle slim raven bag bridge";

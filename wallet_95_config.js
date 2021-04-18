@@ -1,1 +1,1 @@
-var mnemonic = "lady company omit seek mesh all ice flower damage zero song hedgehog";
+var mnemonic = "that say kind scissors shop indicate extend cricket chief remain carbon genre";

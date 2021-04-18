@@ -1,1 +1,1 @@
-var mnemonic = "home search budget clap erase protect tape edit assault fall jazz juice";
+var mnemonic = "year fire turn curtain prosper planet elegant noble wagon help resemble where";

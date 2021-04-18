@@ -1,1 +1,1 @@
-var mnemonic = "weird great valid include volume border issue cactus wear heavy glide giant";
+var mnemonic = "cook gravity citizen hawk enact basic shy feel lobster coconut ribbon satoshi";

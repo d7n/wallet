@@ -1,1 +1,1 @@
-var mnemonic = "brick exact exhaust infant mango forest dawn cotton chase decorate name dolphin";
+var mnemonic = "stomach quantum feature tone visual reunion pride speak lava sound ocean brain";

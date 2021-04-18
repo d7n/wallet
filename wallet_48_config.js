@@ -1,1 +1,1 @@
-var mnemonic = "crack include tuna scare utility silk able salad equal congress sunny neglect";
+var mnemonic = "enter trigger alcohol dolphin century mansion trophy settle spirit oxygen gauge slight";

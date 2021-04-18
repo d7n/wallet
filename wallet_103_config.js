@@ -1,1 +1,1 @@
-var mnemonic = "doctor hen armed decrease reason bounce until approve grid abuse teach wage";
+var mnemonic = "machine address tribe tunnel kiss key struggle friend case twin middle cat";

@@ -1,1 +1,1 @@
-var mnemonic = "twice deputy easy rug expire concert party album scene true peasant echo";
+var mnemonic = "patient spider dentist skate donate hope mirror other during chat cotton ripple";

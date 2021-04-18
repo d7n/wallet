@@ -1,1 +1,1 @@
-var mnemonic = "excuse sail opinion pear citizen hill human split truth vicious say stay";
+var mnemonic = "moon interest food permit boring party tumble genuine brother lion horse observe";

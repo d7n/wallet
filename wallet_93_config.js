@@ -1,1 +1,1 @@
-var mnemonic = "glare acquire beauty pair federal galaxy weapon scout ritual olive print ceiling";
+var mnemonic = "oval margin reopen multiply cabbage broom drastic pet range sadness wrist various";

@@ -1,1 +1,1 @@
-var mnemonic = "demand giggle catch spread barrel extra hip warrior toddler push supply onion";
+var mnemonic = "fancy margin squeeze never smooth frost like tunnel lucky rare alley wait";

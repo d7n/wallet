@@ -1,1 +1,1 @@
-var mnemonic = "eye bridge success river subway ostrich cruise renew verb athlete inside bundle";
+var mnemonic = "crew beach parade reunion silent donkey hamster wire degree symbol sniff blue";

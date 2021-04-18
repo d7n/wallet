@@ -1,1 +1,1 @@
-var mnemonic = "push general impact satisfy mean dance thumb cactus celery faint shell bar";
+var mnemonic = "cube cycle supreme amount nice educate romance want option issue post eternal";

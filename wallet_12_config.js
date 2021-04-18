@@ -1,1 +1,1 @@
-var mnemonic = "chief poet prepare pause tennis life carpet split thank chief task quit";
+var mnemonic = "rebel table asset worry mansion utility panda wire square retreat south laugh";

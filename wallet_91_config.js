@@ -1,1 +1,1 @@
-var mnemonic = "fruit service broccoli captain boat account debate social path dress law wheel";
+var mnemonic = "rose brand miracle drink similar coffee royal kitten dream firm winter oblige";

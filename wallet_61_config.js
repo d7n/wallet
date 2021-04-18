@@ -1,1 +1,1 @@
-var mnemonic = "fuel nothing dish fossil allow ill derive close degree resemble mind diamond";
+var mnemonic = "cool smoke mean roast side until wise dawn assume popular song expire";

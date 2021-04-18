@@ -1,1 +1,1 @@
-var mnemonic = "scatter desert dinner master absurd force baby squirrel work describe cake crater";
+var mnemonic = "benefit tube shop cement amazing outer motion grunt seek soccer thrive spell";

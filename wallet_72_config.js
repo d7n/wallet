@@ -1,1 +1,1 @@
-var mnemonic = "rapid survey into pepper usual family breeze across inside donate slab panic";
+var mnemonic = "bunker shell swift boring unhappy violin easily galaxy pyramid borrow doctor usage";

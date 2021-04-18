@@ -1,1 +1,1 @@
-var mnemonic = "risk test combine treat rally few success legal absorb lava ill cute";
+var mnemonic = "food hotel side neutral inform guilt soup manual key trap soldier connect";

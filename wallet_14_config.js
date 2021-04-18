@@ -1,1 +1,1 @@
-var mnemonic = "jeans thrive paper animal provide legal chest risk best marine bronze believe";
+var mnemonic = "number ankle farm want stomach rookie omit almost visit excess jungle void";

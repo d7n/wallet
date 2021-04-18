@@ -1,1 +1,1 @@
-var mnemonic = "theory use wrestle shoot glide shaft pyramid wheat apart concert steak album";
+var mnemonic = "fit pudding force room marine stand swing eagle repair hurdle alert faculty";

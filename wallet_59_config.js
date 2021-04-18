@@ -1,1 +1,1 @@
-var mnemonic = "raise tent wage abstract parade stay firm crack question dove because edge";
+var mnemonic = "repeat bird suspect impose magic oven dirt hunt child arctic lemon swallow";

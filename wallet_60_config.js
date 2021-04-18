@@ -1,1 +1,1 @@
-var mnemonic = "dutch foil fringe wage torch state blossom tell grab error situate glory";
+var mnemonic = "tiger rebel couch friend project street ethics ancient fault gasp tourist mosquito";

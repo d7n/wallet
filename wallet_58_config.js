@@ -1,1 +1,1 @@
-var mnemonic = "page lyrics into unable frost warrior shock act slam isolate bird gown";
+var mnemonic = "thumb setup visual enable month season truth imitate radar salt settle excuse";

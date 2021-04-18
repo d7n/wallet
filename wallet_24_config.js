@@ -1,1 +1,1 @@
-var mnemonic = "weather output faith index tobacco song cement help bronze member enact stuff";
+var mnemonic = "notable family calm arrive spin very cupboard kite recall speed notable two";

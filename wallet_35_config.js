@@ -1,1 +1,1 @@
-var mnemonic = "cover stand monkey tiger amount swing heavy crumble absorb dolphin noise below";
+var mnemonic = "jeans stamp current curious salt dynamic include slab soda parent bitter room";

@@ -1,1 +1,1 @@
-var mnemonic = "auction avoid green sock boss radar picture walnut success correct into slot";
+var mnemonic = "attract carry void admit turtle airport fossil coral host habit curtain elegant";

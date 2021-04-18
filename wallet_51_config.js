@@ -1,1 +1,1 @@
-var mnemonic = "buddy giggle shell march faculty asset trend ask sound occur decorate slow";
+var mnemonic = "wing upgrade romance note culture more invite dolphin broom ancient congress region";

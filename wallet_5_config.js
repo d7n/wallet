@@ -1,1 +1,1 @@
-var mnemonic = "term shift spy wreck buddy october praise shift august vanish acid rival";
+var mnemonic = "friend bronze denial claim tube diet pulse fresh announce bargain sentence mom";

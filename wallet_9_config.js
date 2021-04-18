@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow nothing initial option essay dignity crystal mixture sudden merge ill render";
+var mnemonic = "sniff denial country spell easy winner scout project neck general country theme";

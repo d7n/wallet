@@ -1,1 +1,1 @@
-var mnemonic = "label vessel bullet broom crash hood maid want champion route cruise donate";
+var mnemonic = "actual rapid priority river soup inmate shop dose robot hamster north light";

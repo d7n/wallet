@@ -1,1 +1,1 @@
-var mnemonic = "unique throw urge run latin suit supreme onion time frozen disagree destroy";
+var mnemonic = "hotel wine vague elite mimic service vital feature alter derive else bachelor";

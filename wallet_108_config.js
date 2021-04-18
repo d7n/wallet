@@ -1,1 +1,1 @@
-var mnemonic = "purse trumpet decorate make surround garage soccer mandate parent humble bird glance";
+var mnemonic = "tent job crater seven source wink oyster degree random object average half";

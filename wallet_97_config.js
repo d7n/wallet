@@ -1,1 +1,1 @@
-var mnemonic = "target cotton asset alien scout trade disease system wealth fever size base";
+var mnemonic = "bench pink area float wash quick swamp fun wall deposit agent vessel";

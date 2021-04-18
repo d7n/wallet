@@ -1,1 +1,1 @@
-var mnemonic = "glue dumb minute stairs join alone sad inform ability frequent judge miracle";
+var mnemonic = "clap mesh brown usage dose bread book admit snack blue kangaroo balance";

@@ -1,1 +1,1 @@
-var mnemonic = "cram argue typical flight dolphin body inherit afraid comfort hungry climb wisdom";
+var mnemonic = "mother rose wrong accident sketch diesel grow damage knock picture reform print";

@@ -1,1 +1,1 @@
-var mnemonic = "employ moral since weather random dice office apple hope section turn attitude";
+var mnemonic = "salt obtain awkward original address choice dignity reduce bicycle oyster morning window";

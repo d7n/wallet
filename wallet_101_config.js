@@ -1,1 +1,1 @@
-var mnemonic = "satisfy danger dragon lend echo margin pyramid only bright fine wash brass";
+var mnemonic = "special ancient aunt scan story smooth match night balcony attack blood silver";

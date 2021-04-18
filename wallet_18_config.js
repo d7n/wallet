@@ -1,1 +1,1 @@
-var mnemonic = "become artist mixture elder steak author tool tree unknown grape amount rabbit";
+var mnemonic = "raise fly gold outdoor scrap novel canvas reunion snake rib hollow embrace";

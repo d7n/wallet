@@ -1,1 +1,1 @@
-var mnemonic = "party turtle ghost fantasy execute chalk learn make member name girl pistol";
+var mnemonic = "hobby replace borrow economy struggle obey fat pulse salon tooth ghost client";

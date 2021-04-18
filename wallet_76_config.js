@@ -1,1 +1,1 @@
-var mnemonic = "enough joy portion beauty slot brush sight wide festival lyrics doll axis";
+var mnemonic = "expose between monkey belt radio aunt stay arm session riot change pony";

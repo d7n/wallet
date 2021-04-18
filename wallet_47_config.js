@@ -1,1 +1,1 @@
-var mnemonic = "desert job strike disagree test scan uphold crumble lounge weird flip pair";
+var mnemonic = "thought spatial script shallow imitate awesome empty mom trial keep truly wool";

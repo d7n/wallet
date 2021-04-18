@@ -1,1 +1,1 @@
-var mnemonic = "climb coyote copper barrel skirt venture small prize calm effort apart casual";
+var mnemonic = "vault doctor slab either above destroy tongue empty able rigid song elbow";

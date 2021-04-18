@@ -1,1 +1,1 @@
-var mnemonic = "side vocal erosion kick supply manual bronze public cattle tiger sleep rubber";
+var mnemonic = "screen arch inherit neutral rude imitate try zero cup enforce coil sheriff";

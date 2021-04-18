@@ -1,1 +1,1 @@
-var mnemonic = "solution table inside spray list cruel trash device right nerve fee until";
+var mnemonic = "sting media whisper wife confirm cream liberty hat loan spot replace sick";

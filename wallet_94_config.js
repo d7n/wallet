@@ -1,1 +1,1 @@
-var mnemonic = "few glass minor will remember royal nothing amused reduce truck master potato";
+var mnemonic = "stone effort clog measure that spread install waste model bind exhaust ranch";

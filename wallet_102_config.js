@@ -1,1 +1,1 @@
-var mnemonic = "task digital orange over mouse remove wolf focus piano horse airport eight";
+var mnemonic = "total express fiber ecology label frozen spread shoot lift sport install consider";

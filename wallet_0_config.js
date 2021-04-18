@@ -1,1 +1,1 @@
-var mnemonic = "stamp alley behave feature dinosaur liar double dash yard cigar suit total";
+var mnemonic = "stick harbor indicate over secret finger comic spirit virtual point bread avoid";

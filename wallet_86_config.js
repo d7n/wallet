@@ -1,1 +1,1 @@
-var mnemonic = "arrange horn ordinary gloom color merit region shell mirror police tube vanish";
+var mnemonic = "enable goddess frozen wear avoid point aspect category slice twin final extend";

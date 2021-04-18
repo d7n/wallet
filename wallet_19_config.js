@@ -1,1 +1,1 @@
-var mnemonic = "cousin banana gas start spy hand taste actual nuclear region weekend ecology";
+var mnemonic = "income pole someone chuckle space crumble noise viable enroll kick raw top";

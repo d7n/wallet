@@ -1,1 +1,1 @@
-var mnemonic = "elbow wage all prosper blade pigeon captain soda zone ecology birth derive";
+var mnemonic = "mouse remember father notable sleep february learn upper shoot monitor unhappy milk";

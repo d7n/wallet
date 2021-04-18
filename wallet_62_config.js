@@ -1,1 +1,1 @@
-var mnemonic = "wise easily swallow mail skill board empty mass fancy machine siege dismiss";
+var mnemonic = "hazard polar pottery dry flee arrest square decrease tourist else toy carpet";

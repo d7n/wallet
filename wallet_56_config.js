@@ -1,1 +1,1 @@
-var mnemonic = "ahead plug engine salute burger mercy grit steak suffer upper side trust";
+var mnemonic = "vessel prize uniform attend walnut hundred crystal kangaroo obtain rice hotel team";

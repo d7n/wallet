@@ -1,1 +1,1 @@
-var mnemonic = "always decide will couch crush bargain tornado kangaroo venture enhance double involve";
+var mnemonic = "target quick movie pizza over exit member kite basic business myself joy";

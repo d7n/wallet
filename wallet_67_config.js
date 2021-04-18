@@ -1,1 +1,1 @@
-var mnemonic = "into pelican awesome sure antique daughter snow penalty misery surround before mail";
+var mnemonic = "edge harvest cover oven traffic provide what clever square find flee explain";

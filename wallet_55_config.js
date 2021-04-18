@@ -1,1 +1,1 @@
-var mnemonic = "twist claim gentle agree disagree poverty penalty arm discover hawk habit security";
+var mnemonic = "tip level exotic cluster fan excess obvious idea notice infant cube vibrant";

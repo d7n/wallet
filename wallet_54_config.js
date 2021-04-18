@@ -1,1 +1,1 @@
-var mnemonic = "change toward result space hand sponsor exhaust liquid remove push smart actual";
+var mnemonic = "arrive tent magic pencil assault dinner picnic else world rhythm palm pig";

@@ -1,1 +1,1 @@
-var mnemonic = "open hill valid feel mistake express suspect head crystal side connect swim";
+var mnemonic = "short tiny disagree offer black carbon omit spring orbit year lyrics life";

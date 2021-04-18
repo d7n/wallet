@@ -1,1 +1,1 @@
-var mnemonic = "neglect law universe priority reject amazing grunt unit hope zone office afraid";
+var mnemonic = "border diamond pass horror cricket boil upper giant improve current coffee cherry";

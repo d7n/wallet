@@ -1,1 +1,1 @@
-var mnemonic = "tag twin crater inflict toss lizard loan cheap wedding tornado length question";
+var mnemonic = "chef easy melody battle toy length tomato reduce bless faculty blame bomb";

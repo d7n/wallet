@@ -1,1 +1,1 @@
-var mnemonic = "avocado parent wheat silver stay affair inform tattoo dial lizard crumble chronic";
+var mnemonic = "toe chat model diamond cliff crisp wear safe cross lens tourist rather";

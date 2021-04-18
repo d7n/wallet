@@ -1,1 +1,1 @@
-var mnemonic = "scorpion pretty wash light vocal flag doll wild magic ankle fatigue differ";
+var mnemonic = "side galaxy merit soul junk usage shine length because industry denial blade";
