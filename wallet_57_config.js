@@ -1,1 +1,1 @@
-var mnemonic = "culture breeze slide ripple exile must power purity bean any please green";
+var mnemonic = "kiss grunt join dirt brief camera beef initial victory milk social coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "power play faith hospital dwarf involve hub indicate business scissors vague course";
+var mnemonic = "airport spell hungry sustain beach mercy judge coral pet rate peasant timber";

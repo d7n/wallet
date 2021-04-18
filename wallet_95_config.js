@@ -1,1 +1,1 @@
-var mnemonic = "ring guard glass endorse flight bounce hello unlock forum call book timber";
+var mnemonic = "begin wood near build elbow worry room bounce security toilet capital violin";

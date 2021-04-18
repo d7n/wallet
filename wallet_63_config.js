@@ -1,1 +1,1 @@
-var mnemonic = "flush copy angle payment famous alarm auction pull spirit decrease betray reduce";
+var mnemonic = "demand club defense monster barrel drift arctic stem enemy anchor cotton tower";

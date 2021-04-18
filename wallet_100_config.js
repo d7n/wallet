@@ -1,1 +1,1 @@
-var mnemonic = "wave inflict idea cram auction pet shed ecology solar tray dance turn";
+var mnemonic = "coral cruise wait motor property unaware hybrid ivory depart muffin physical cliff";

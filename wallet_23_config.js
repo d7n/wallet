@@ -1,1 +1,1 @@
-var mnemonic = "spray valve torch caught talk network finish damp work half trip skill";
+var mnemonic = "relief hungry chalk thunder nominee hard inherit point proud civil hero kit";

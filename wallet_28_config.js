@@ -1,1 +1,1 @@
-var mnemonic = "thunder depth peace flip equal volcano satisfy duck theory raise truth utility";
+var mnemonic = "napkin medal require school verify trophy shoot crime system poet betray sting";

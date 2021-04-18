@@ -1,1 +1,1 @@
-var mnemonic = "magnet vote fence inform deposit tent announce sting exit dog wall lucky";
+var mnemonic = "tragic key clever vicious excite wrap bread neutral broom afford chuckle capable";

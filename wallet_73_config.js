@@ -1,1 +1,1 @@
-var mnemonic = "room fluid lyrics jazz unhappy arrow explain rent picnic fantasy dose payment";
+var mnemonic = "snack bulb lock midnight fit opera suspect cannon certain tattoo weird essay";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch model coach broccoli lake can minute dry mean hen defy other";
+var mnemonic = "address hope another move amount short whisper always speak aim crazy vicious";

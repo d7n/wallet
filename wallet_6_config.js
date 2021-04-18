@@ -1,1 +1,1 @@
-var mnemonic = "embrace wife lens churn wheel lobster nephew weasel shield river bounce damp";
+var mnemonic = "walnut apart portion quarter pledge vintage bike talent wink radar evil agree";

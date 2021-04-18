@@ -1,1 +1,1 @@
-var mnemonic = "physical scare cube neither forget glove rather learn brick space walnut yard";
+var mnemonic = "check cigar sketch gate grain real spider practice filter festival thumb mom";

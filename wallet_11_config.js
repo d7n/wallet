@@ -1,1 +1,1 @@
-var mnemonic = "useless shell alert ladder labor hammer else network smart vocal violin pair";
+var mnemonic = "legal auto aerobic giant click piece crew pistol detail prize episode grain";

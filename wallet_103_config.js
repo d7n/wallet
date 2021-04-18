@@ -1,1 +1,1 @@
-var mnemonic = "burger next mesh accident become upon rich aspect child scatter elbow lunar";
+var mnemonic = "polar high egg setup tourist pact ill spider gospel inform parrot table";

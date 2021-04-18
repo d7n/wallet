@@ -1,1 +1,1 @@
-var mnemonic = "salad once clever derive time immense congress ship genius festival six purse";
+var mnemonic = "genuine angry surface category dwarf path amazing material select void opinion erode";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten gas very elbow soup nature decline push transfer armor mountain disease";
+var mnemonic = "trade work casual strike erode soup kind evidence neglect feature seek prevent";

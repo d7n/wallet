@@ -1,1 +1,1 @@
-var mnemonic = "orient curious sun kitchen cradle stamp exotic hurry marriage safe prison ostrich";
+var mnemonic = "train snap slow tent bargain moral elder wagon paddle enact female sure";

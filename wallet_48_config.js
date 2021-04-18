@@ -1,1 +1,1 @@
-var mnemonic = "price poem fade street beyond talent improve bless ketchup issue recall tissue";
+var mnemonic = "harvest aim outer blue bomb build pistol team frequent together south pyramid";

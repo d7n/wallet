@@ -1,1 +1,1 @@
-var mnemonic = "person duty movie symbol crazy enter stand mixed visit garlic neglect cheap";
+var mnemonic = "large final truly double can pull brown crowd illness suffer chat make";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract ranch kit sheriff rigid salute biology silly normal naive ocean cabbage";
+var mnemonic = "core woman kind pond purpose capital genre explain duck urge wink egg";

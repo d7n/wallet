@@ -1,1 +1,1 @@
-var mnemonic = "salmon badge island horror cream know head nuclear core suit absurd decide";
+var mnemonic = "uphold slush mad sport vast suit bag merit indoor above indoor neglect";

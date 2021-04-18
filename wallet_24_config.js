@@ -1,1 +1,1 @@
-var mnemonic = "expand fence day position side camp ostrich shrimp small stamp beauty robust";
+var mnemonic = "wire hundred dry neglect fish clever teach blur devote radar deposit nice";

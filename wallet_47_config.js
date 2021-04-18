@@ -1,1 +1,1 @@
-var mnemonic = "consider guide trouble anxiety traffic cycle village various burst book furnace kind";
+var mnemonic = "surround roof clutch reduce slim exercise margin shoe ill search misery divorce";

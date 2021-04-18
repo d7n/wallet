@@ -1,1 +1,1 @@
-var mnemonic = "since identify outer control planet settle anger mail van melt craft income";
+var mnemonic = "animal beyond advice tumble this soap risk custom rural seek praise combine";

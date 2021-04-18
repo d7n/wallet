@@ -1,1 +1,1 @@
-var mnemonic = "raise decade swear giraffe hope accident find stairs jelly oval check split";
+var mnemonic = "never topple refuse crystal dumb canyon genius toss little misery antenna fluid";

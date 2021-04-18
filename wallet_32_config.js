@@ -1,1 +1,1 @@
-var mnemonic = "daughter brown inner glass fly usage evidence same acquire lift verify since";
+var mnemonic = "badge physical vapor provide come tree shallow soul when tip ring edit";

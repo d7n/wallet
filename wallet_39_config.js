@@ -1,1 +1,1 @@
-var mnemonic = "level oak baby divorce pistol deposit metal apple wild fitness loud cheese";
+var mnemonic = "update mean frozen miracle december plastic powder page pony stand dial horse";

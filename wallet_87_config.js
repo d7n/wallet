@@ -1,1 +1,1 @@
-var mnemonic = "cloud all fat pink lemon tray vacant neither copy amount dune home";
+var mnemonic = "october alarm glance sport lawsuit glance surround merit clown library badge fragile";

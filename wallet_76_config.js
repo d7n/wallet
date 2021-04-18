@@ -1,1 +1,1 @@
-var mnemonic = "already able destroy deal upper wreck topic series furnace hammer very dance";
+var mnemonic = "exchange company display correct dry interest umbrella announce lend ketchup island season";

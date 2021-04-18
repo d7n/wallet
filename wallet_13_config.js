@@ -1,1 +1,1 @@
-var mnemonic = "lift desert loan right stable lemon engage elbow armor become fork bamboo";
+var mnemonic = "light series castle amused bonus lawsuit raise sentence critic insane absurd loop";

@@ -1,1 +1,1 @@
-var mnemonic = "census catch submit silent snow vehicle floor benefit game woman brand zebra";
+var mnemonic = "purse link decide live cereal worth between oval during put catch meat";

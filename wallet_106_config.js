@@ -1,1 +1,1 @@
-var mnemonic = "soon favorite all skin hazard afraid fuel split problem initial license scare";
+var mnemonic = "antenna dumb mansion begin fix tell diet spy main item demand egg";

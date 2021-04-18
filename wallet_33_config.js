@@ -1,1 +1,1 @@
-var mnemonic = "fault beef ghost blue scorpion rich banana quiz job scatter soap beach";
+var mnemonic = "slow learn motion resist cement change obvious pistol differ alpha spin mistake";

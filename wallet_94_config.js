@@ -1,1 +1,1 @@
-var mnemonic = "genre doll deputy rain nation visit stem hundred public mechanic lunch occur";
+var mnemonic = "economy finger useless clarify quality discover useless crisp million borrow piano rough";

@@ -1,1 +1,1 @@
-var mnemonic = "void tell truly burst fee boss output custom trim nominee easily mercy";
+var mnemonic = "also acquire behind unable hover orbit walnut crane oven dance purse comic";

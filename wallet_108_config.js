@@ -1,1 +1,1 @@
-var mnemonic = "city total hero erase galaxy decade summer wrap anger victory group diet";
+var mnemonic = "maid vendor minor basic stem relief cereal depart slam feed acoustic melody";

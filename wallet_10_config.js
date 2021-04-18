@@ -1,1 +1,1 @@
-var mnemonic = "recipe blame tongue jump try tourist lobster arch whip skill olive various";
+var mnemonic = "marine throw pole angle diary found foil spring skirt blood space snake";

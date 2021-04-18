@@ -1,1 +1,1 @@
-var mnemonic = "north welcome repair ceiling pepper attract time trumpet offer flash offer kitchen";
+var mnemonic = "lift human satisfy fence orange badge sock involve carry flag climb found";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy master duck firm mule whale rich cereal loop neck there share";
+var mnemonic = "sail install universe mango dynamic scheme bundle wrong tooth immense ignore camp";

@@ -1,1 +1,1 @@
-var mnemonic = "lion lake exile salute patrol brush tragic royal stem where spray truth";
+var mnemonic = "dilemma write interest jump have offer hurt tunnel boat disease autumn recycle";

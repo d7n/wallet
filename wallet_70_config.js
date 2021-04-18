@@ -1,1 +1,1 @@
-var mnemonic = "include stove jeans purse lamp soap fit swear rocket poem bridge next";
+var mnemonic = "toe cement inhale fish antenna intact impulse odor one harbor busy grace";

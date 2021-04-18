@@ -1,1 +1,1 @@
-var mnemonic = "luxury bunker river enough tree unveil lizard farm person horse blur upon";
+var mnemonic = "improve exhibit work budget hobby angry dust leg strategy divide wing unusual";

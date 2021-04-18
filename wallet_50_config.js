@@ -1,1 +1,1 @@
-var mnemonic = "ill opinion exotic twenty embrace arch fluid crew eight wreck velvet around";
+var mnemonic = "enough rival tail power cover warfare other void surface dial token evidence";

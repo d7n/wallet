@@ -1,1 +1,1 @@
-var mnemonic = "purity peace consider clock magnet symbol choose vintage fox upper shrimp divert";
+var mnemonic = "music slim action prevent media taxi trouble judge upset call state aerobic";

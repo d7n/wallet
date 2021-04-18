@@ -1,1 +1,1 @@
-var mnemonic = "column paper belt office coach verb toss bread stadium happy vintage shoot";
+var mnemonic = "slab napkin muffin must leaf balcony easy sketch mountain easily such dinner";

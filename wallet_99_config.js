@@ -1,1 +1,1 @@
-var mnemonic = "erode answer skate dinosaur guard rice table super powder wish daring loan";
+var mnemonic = "topic forward fragile short weather life paper screen grunt box boring spare";

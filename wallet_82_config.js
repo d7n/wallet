@@ -1,1 +1,1 @@
-var mnemonic = "mix champion ecology decline kidney step cannon pattern fuel document fatal offer";
+var mnemonic = "join drop avoid destroy rather diesel repair buzz cradle patrol absent alpha";

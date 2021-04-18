@@ -1,1 +1,1 @@
-var mnemonic = "tiny arm lazy dragon pole daring siege chest gain royal trade mule";
+var mnemonic = "blur tuition today casual attack yellow hair dirt flame regular dutch salad";

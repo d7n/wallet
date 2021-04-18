@@ -1,1 +1,1 @@
-var mnemonic = "salute clever finish material faith order matrix age noise steak people enable";
+var mnemonic = "wait inflict desert sun ahead spot work kiwi advice desert sick turn";

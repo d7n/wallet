@@ -1,1 +1,1 @@
-var mnemonic = "donkey parrot present aware excite chat yard jazz merry sand pond obvious";
+var mnemonic = "horn thought three liar echo load flock cancel crumble barely shock bomb";

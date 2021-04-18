@@ -1,1 +1,1 @@
-var mnemonic = "tornado visit alter goddess any ethics tape rally soda message harbor bullet";
+var mnemonic = "short dice tobacco slim seed leg festival craft square pilot eye east";

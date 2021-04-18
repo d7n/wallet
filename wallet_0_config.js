@@ -1,1 +1,1 @@
-var mnemonic = "slide alley embody employ since give awful deal indicate parade obtain shock";
+var mnemonic = "auction group vicious sea fiscal flavor artist absorb vanish coconut grow music";

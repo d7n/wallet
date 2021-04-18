@@ -1,1 +1,1 @@
-var mnemonic = "match wild gold elite burger praise second slice dignity penalty age tray";
+var mnemonic = "skull photo swing inmate nephew connect promote lunar rescue smile fitness arrest";

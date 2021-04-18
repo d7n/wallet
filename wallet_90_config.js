@@ -1,1 +1,1 @@
-var mnemonic = "flock soup skin garlic quality step settle vintage drama describe raccoon pony";
+var mnemonic = "tired bleak limit since brain enforce diary acoustic there home silk radar";

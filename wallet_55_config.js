@@ -1,1 +1,1 @@
-var mnemonic = "pond popular upon style link foot bulb vague slight seat north assist";
+var mnemonic = "smoke market topple balcony capital cave crazy poverty piano unaware now frequent";

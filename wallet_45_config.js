@@ -1,1 +1,1 @@
-var mnemonic = "smoke shrimp holiday aerobic network much topple abstract spice used arrive cram";
+var mnemonic = "door someone salute repair topic acid tattoo heart ugly seminar stomach more";

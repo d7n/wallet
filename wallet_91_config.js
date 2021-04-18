@@ -1,1 +1,1 @@
-var mnemonic = "struggle chest disorder point zoo unusual desert engage combine sort whip account";
+var mnemonic = "harbor stool phone forward ankle shoe now music wide scrub before inhale";

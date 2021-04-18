@@ -1,1 +1,1 @@
-var mnemonic = "various fluid hour ill toss goddess dream curtain hat animal adult wrist";
+var mnemonic = "zone relax reject correct super someone mistake atom elbow stairs pelican ski";

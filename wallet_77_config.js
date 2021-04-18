@@ -1,1 +1,1 @@
-var mnemonic = "glad panther treat between capable bridge giraffe purpose follow purpose grab main";
+var mnemonic = "that candy okay practice mixture salt sign sibling neutral essence upset hire";

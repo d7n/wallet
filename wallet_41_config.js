@@ -1,1 +1,1 @@
-var mnemonic = "private refuse yard fetch gadget flush diesel nuclear illness office wrap extend";
+var mnemonic = "lawn diary inside traffic speed buyer grow visit thrive impose young act";

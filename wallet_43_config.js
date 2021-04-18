@@ -1,1 +1,1 @@
-var mnemonic = "wheel chuckle rescue brand wreck patrol work toy mix equip certain census";
+var mnemonic = "chronic mimic else prepare afford during sing mouse state camera spy invite";

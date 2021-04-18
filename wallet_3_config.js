@@ -1,1 +1,1 @@
-var mnemonic = "hood east mad despair faculty pulp snack prison happy ostrich vicious match";
+var mnemonic = "club state clog ring motor siege unit item mixture monitor almost swift";

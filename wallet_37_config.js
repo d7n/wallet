@@ -1,1 +1,1 @@
-var mnemonic = "hello knife rotate bless plastic hazard goose script midnight peasant provide mountain";
+var mnemonic = "have sample ecology sick inform suffer enough acquire shy hill tip palace";

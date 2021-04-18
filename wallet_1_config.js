@@ -1,1 +1,1 @@
-var mnemonic = "gain walnut plate enough together ridge absent saddle example empty pilot amateur";
+var mnemonic = "salute famous enough orphan deposit slot debris floor conduct hover leaf envelope";

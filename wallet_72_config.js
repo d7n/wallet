@@ -1,1 +1,1 @@
-var mnemonic = "grace boy humor push bottom coach fit wage build olive swim when";
+var mnemonic = "letter minor goat skin dentist area wage skill deny simple crisp enact";

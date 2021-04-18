@@ -1,1 +1,1 @@
-var mnemonic = "blame truck fetch law surge august diet body now wage wheat barrel";
+var mnemonic = "oyster cheese high card toilet country sure whale learn correct enforce hard";

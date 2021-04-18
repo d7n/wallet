@@ -1,1 +1,1 @@
-var mnemonic = "settle copy novel negative kind luxury lucky lesson enact wish stamp spread";
+var mnemonic = "civil seven garbage sunset cinnamon ranch west dish name message step supply";

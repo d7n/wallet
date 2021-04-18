@@ -1,1 +1,1 @@
-var mnemonic = "light kick glory hint ordinary envelope thought much pottery remain drum appear";
+var mnemonic = "party firm expand blood engage useless calm thunder virtual real furnace swift";

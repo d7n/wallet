@@ -1,1 +1,1 @@
-var mnemonic = "breeze frost shine decorate world dignity rely parrot student offer burden lion";
+var mnemonic = "apology analyst lunch project warrior salt dentist spread inflict green panic wrap";

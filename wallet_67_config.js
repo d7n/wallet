@@ -1,1 +1,1 @@
-var mnemonic = "brand desk bring struggle phone grab august pipe fresh earth animal length";
+var mnemonic = "voice laptop physical swim acid recipe humble piano blur december salad foster";

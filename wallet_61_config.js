@@ -1,1 +1,1 @@
-var mnemonic = "invite marriage between ecology essence hybrid raw collect snake rival dice ankle";
+var mnemonic = "buyer blouse soul scatter range cannon off avoid face check gas pride";

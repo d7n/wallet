@@ -1,1 +1,1 @@
-var mnemonic = "learn fox shoot west oppose coach uncle april message bubble fabric chest";
+var mnemonic = "tuna sight wool stay skull banana bunker never trip length main funny";

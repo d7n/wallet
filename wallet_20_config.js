@@ -1,1 +1,1 @@
-var mnemonic = "excess infant fruit latin mail tell bonus year panda brief purity large";
+var mnemonic = "basket shoe awesome wage light student bunker used anxiety delay awesome inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "skate tunnel slush leisure cover unfair dune shaft online move any describe";
+var mnemonic = "despair quarter predict interest short debris trigger nominee broken hover predict beef";

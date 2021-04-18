@@ -1,1 +1,1 @@
-var mnemonic = "guess reject lava embark mind oval lesson private culture rich school drastic";
+var mnemonic = "debris motor first that grain execute chef volcano flavor balcony upon urge";

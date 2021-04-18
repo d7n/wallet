@@ -1,1 +1,1 @@
-var mnemonic = "dune dog series hybrid fix pair venue blouse air reduce spoon fine";
+var mnemonic = "easy bid salon shield gloom pride giggle join decline echo trial fee";

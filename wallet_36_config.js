@@ -1,1 +1,1 @@
-var mnemonic = "laundry piece rival kitten pact stable tired frame whip pet inherit best";
+var mnemonic = "clay maid motor foam sweet captain furnace magic deputy plunge furnace beef";

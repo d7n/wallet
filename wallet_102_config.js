@@ -1,1 +1,1 @@
-var mnemonic = "program category gossip vote where speak harvest best alone long rough crisp";
+var mnemonic = "put wash claw note under dizzy they treat then forget engage fall";

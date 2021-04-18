@@ -1,1 +1,1 @@
-var mnemonic = "boil tribe bonus property year absurd found curve law grass fire cloud";
+var mnemonic = "utility strategy appear desert february evil become aspect laundry disorder exchange shrug";

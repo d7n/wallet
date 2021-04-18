@@ -1,1 +1,1 @@
-var mnemonic = "three record mango mad honey fuel first sponsor crime detail taste earn";
+var mnemonic = "sound antique question flavor ticket fashion galaxy yard vacuum treat cliff bubble";

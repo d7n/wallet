@@ -1,1 +1,1 @@
-var mnemonic = "profit lend fatal topple walk accident matter mystery return before urban velvet";
+var mnemonic = "december ignore that lawn asset defy remember inform badge cable hello tribe";

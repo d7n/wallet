@@ -1,1 +1,1 @@
-var mnemonic = "extend cover token clever damp curve lawsuit bicycle park shadow clutch bullet";
+var mnemonic = "relax adapt trigger auction maximum guide olympic talk rival gloom life arrow";

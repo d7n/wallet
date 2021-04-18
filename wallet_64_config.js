@@ -1,1 +1,1 @@
-var mnemonic = "change fatal dismiss enjoy tube leaf hen lecture garden area clean shop";
+var mnemonic = "hour degree border digital rigid emotion version friend web gesture frequent attack";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo exile insect essence erupt era salon because lawsuit burger club service";
+var mnemonic = "license humor jazz father trust guide indicate half envelope firm trap student";

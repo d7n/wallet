@@ -1,1 +1,1 @@
-var mnemonic = "tunnel version shield quiz traffic safe scare hard cricket false grunt inspire";
+var mnemonic = "quote major giraffe gentle tattoo clutch connect man rack smoke science woman";

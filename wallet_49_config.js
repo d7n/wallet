@@ -1,1 +1,1 @@
-var mnemonic = "explain cluster pyramid health globe rug boost icon vacuum debate emotion equal";
+var mnemonic = "august praise quiz install fringe street swing teach rapid camp pulp thumb";
