@@ -1,1 +1,1 @@
-var mnemonic = "lesson then rude federal silent enable tray bracket daring athlete stuff feel";
+var mnemonic = "column paper belt office coach verb toss bread stadium happy vintage shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge sustain vivid oblige pair sweet fiber search blouse inhale hawk govern";
+var mnemonic = "harvest mouse afford utility curious scheme steak they traffic mammal subway grow";

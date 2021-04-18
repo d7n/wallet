@@ -1,1 +1,1 @@
-var mnemonic = "fork damp bind swift tower hover name main cancel impulse dress universe";
+var mnemonic = "pond popular upon style link foot bulb vague slight seat north assist";

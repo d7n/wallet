@@ -1,1 +1,1 @@
-var mnemonic = "arrange pet already zoo kidney business fog emerge lens vehicle winter erode";
+var mnemonic = "valve purse inmate cabbage robust august earth power remember sting surround urban";

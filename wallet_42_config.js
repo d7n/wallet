@@ -1,1 +1,1 @@
-var mnemonic = "horse bid stadium spot wasp nice cliff legend derive hill total vital";
+var mnemonic = "lazy master duck firm mule whale rich cereal loop neck there share";

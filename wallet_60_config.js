@@ -1,1 +1,1 @@
-var mnemonic = "pride guess all vessel man retire build embody brother expire liar shrimp";
+var mnemonic = "donkey parrot present aware excite chat yard jazz merry sand pond obvious";

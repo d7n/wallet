@@ -1,1 +1,1 @@
-var mnemonic = "club region chimney turn punch bird negative pretty purse dwarf blush good";
+var mnemonic = "way luxury arm trend pluck script unknown sudden portion cluster forget loyal";

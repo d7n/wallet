@@ -1,1 +1,1 @@
-var mnemonic = "nest trophy observe ordinary tired system harbor company hybrid liberty woman patrol";
+var mnemonic = "room fluid lyrics jazz unhappy arrow explain rent picnic fantasy dose payment";

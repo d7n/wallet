@@ -1,1 +1,1 @@
-var mnemonic = "never bacon physical enable kingdom menu depth type loop umbrella enlist arch";
+var mnemonic = "hood east mad despair faculty pulp snack prison happy ostrich vicious match";

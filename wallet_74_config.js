@@ -1,1 +1,1 @@
-var mnemonic = "topple helmet limb symptom kiss sugar floor lecture ridge scene tongue notice";
+var mnemonic = "soft globe bar sail unusual filter suffer profit search brick orchard habit";

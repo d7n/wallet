@@ -1,1 +1,1 @@
-var mnemonic = "drift crew giggle garlic siege marriage double deer sting dial suggest gaze";
+var mnemonic = "inherit city office issue purity poet review glad execute wave turtle magnet";

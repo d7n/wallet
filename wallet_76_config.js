@@ -1,1 +1,1 @@
-var mnemonic = "clog cruise warrior dash device canyon whisper cute option flee drama arena";
+var mnemonic = "already able destroy deal upper wreck topic series furnace hammer very dance";

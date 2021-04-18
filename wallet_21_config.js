@@ -1,1 +1,1 @@
-var mnemonic = "miss boy soup practice helmet wrestle member coral require satoshi bullet sheriff";
+var mnemonic = "profit lend fatal topple walk accident matter mystery return before urban velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic young share swim top object crumble track able voice simple solid";
+var mnemonic = "clump confirm yard explain correct moral blouse hundred spatial police loyal deputy";

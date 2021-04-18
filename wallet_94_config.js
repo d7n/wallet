@@ -1,1 +1,1 @@
-var mnemonic = "hotel type height mean asset sure session stadium capable envelope bronze spirit";
+var mnemonic = "genre doll deputy rain nation visit stem hundred public mechanic lunch occur";

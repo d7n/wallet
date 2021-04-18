@@ -1,1 +1,1 @@
-var mnemonic = "labor speak state dial double august satoshi crop clinic fault wonder happy";
+var mnemonic = "mix champion ecology decline kidney step cannon pattern fuel document fatal offer";

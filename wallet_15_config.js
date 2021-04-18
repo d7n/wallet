@@ -1,1 +1,1 @@
-var mnemonic = "behave trim aunt furnace bottom video among cactus note annual rice payment";
+var mnemonic = "light kick glory hint ordinary envelope thought much pottery remain drum appear";

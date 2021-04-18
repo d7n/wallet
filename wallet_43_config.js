@@ -1,1 +1,1 @@
-var mnemonic = "range feel impulse chaos kingdom limb plug ozone report morning traffic elegant";
+var mnemonic = "wheel chuckle rescue brand wreck patrol work toy mix equip certain census";

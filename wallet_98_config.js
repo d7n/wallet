@@ -1,1 +1,1 @@
-var mnemonic = "dash angry bamboo explain brass sing pelican method report danger penalty try";
+var mnemonic = "tattoo exile insect essence erupt era salon because lawsuit burger club service";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle valve solution dynamic squirrel art below version hidden tomorrow explain inside";
+var mnemonic = "change fatal dismiss enjoy tube leaf hen lecture garden area clean shop";

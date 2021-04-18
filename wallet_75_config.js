@@ -1,1 +1,1 @@
-var mnemonic = "gaze slide couple goat mango protect hello cruel road gold screen wrong";
+var mnemonic = "tornado visit alter goddess any ethics tape rally soda message harbor bullet";

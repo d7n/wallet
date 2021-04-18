@@ -1,1 +1,1 @@
-var mnemonic = "civil pelican topic isolate average midnight funny search design promote acquire slush";
+var mnemonic = "embrace wife lens churn wheel lobster nephew weasel shield river bounce damp";

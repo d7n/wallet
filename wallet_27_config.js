@@ -1,1 +1,1 @@
-var mnemonic = "crowd intact candy attract river infant gentle science cave powder essay dust";
+var mnemonic = "evoke wonder family trap behave shop hat outdoor crew puppy clump inform";

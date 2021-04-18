@@ -1,1 +1,1 @@
-var mnemonic = "similar wire rotate best bless infant survey anger differ scare clump moral";
+var mnemonic = "learn fox shoot west oppose coach uncle april message bubble fabric chest";

@@ -1,1 +1,1 @@
-var mnemonic = "fault cross lesson void expect latin zoo excess gallery loop wall resource";
+var mnemonic = "then use actress wreck owner name void catch obscure venue unique van";

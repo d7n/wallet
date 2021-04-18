@@ -1,1 +1,1 @@
-var mnemonic = "hand cherry window horse lumber weather race denial scrub expand bid eternal";
+var mnemonic = "explain cluster pyramid health globe rug boost icon vacuum debate emotion equal";

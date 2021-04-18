@@ -1,1 +1,1 @@
-var mnemonic = "dilemma year come coyote outside grief child tourist pulp artwork duty model";
+var mnemonic = "soon favorite all skin hazard afraid fuel split problem initial license scare";

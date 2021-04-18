@@ -1,1 +1,1 @@
-var mnemonic = "universe prevent end evoke enact practice illness shed admit illness dismiss home";
+var mnemonic = "level oak baby divorce pistol deposit metal apple wild fitness loud cheese";

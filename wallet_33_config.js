@@ -1,1 +1,1 @@
-var mnemonic = "arm exile antique unaware noise rate lecture ready evolve face fire ginger";
+var mnemonic = "fault beef ghost blue scorpion rich banana quiz job scatter soap beach";

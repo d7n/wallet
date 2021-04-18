@@ -1,1 +1,1 @@
-var mnemonic = "giggle main mix project topple clay acquire april wear wide aspect comfort";
+var mnemonic = "recall trumpet crop minute nuclear link squirrel news antique sword flush never";

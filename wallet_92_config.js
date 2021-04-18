@@ -1,1 +1,1 @@
-var mnemonic = "butter nose lemon empower general slush dice stuff hen myth six pull";
+var mnemonic = "skate tunnel slush leisure cover unfair dune shaft online move any describe";

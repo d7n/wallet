@@ -1,1 +1,1 @@
-var mnemonic = "hawk among mixed current dial airport pudding tunnel fitness final detect admit";
+var mnemonic = "private refuse yard fetch gadget flush diesel nuclear illness office wrap extend";

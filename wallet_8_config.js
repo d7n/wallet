@@ -1,1 +1,1 @@
-var mnemonic = "remain reward shiver tank main warfare opera credit force company mix clip";
+var mnemonic = "void tell truly burst fee boss output custom trim nominee easily mercy";

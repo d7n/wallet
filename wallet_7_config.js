@@ -1,1 +1,1 @@
-var mnemonic = "divert youth tunnel bar uniform host pottery vacant busy fuel moon piece";
+var mnemonic = "purity peace consider clock magnet symbol choose vintage fox upper shrimp divert";

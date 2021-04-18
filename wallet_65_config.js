@@ -1,1 +1,1 @@
-var mnemonic = "dove whisper bonus march almost chuckle radar stereo pulp shield green kit";
+var mnemonic = "appear scatter boost soup renew leisure unit connect brick voice deputy jelly";

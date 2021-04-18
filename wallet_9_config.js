@@ -1,1 +1,1 @@
-var mnemonic = "meadow cancel material artist genuine wine rude trap elegant sad fee goddess";
+var mnemonic = "three record mango mad honey fuel first sponsor crime detail taste earn";

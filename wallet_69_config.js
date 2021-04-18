@@ -1,1 +1,1 @@
-var mnemonic = "kitten bike angry case resist noise collect inform essay olive empty flip";
+var mnemonic = "kitten gas very elbow soup nature decline push transfer armor mountain disease";

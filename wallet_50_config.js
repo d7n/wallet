@@ -1,1 +1,1 @@
-var mnemonic = "large rather cluster rough final garden toward fragile odor gift lamp tennis";
+var mnemonic = "ill opinion exotic twenty embrace arch fluid crew eight wreck velvet around";

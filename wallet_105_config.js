@@ -1,1 +1,1 @@
-var mnemonic = "leisure bamboo mail crawl ugly bicycle rabbit talk special crunch develop nuclear";
+var mnemonic = "magnet vote fence inform deposit tent announce sting exit dog wall lucky";

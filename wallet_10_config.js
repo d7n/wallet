@@ -1,1 +1,1 @@
-var mnemonic = "find buyer future brave card jelly moon dismiss welcome extend fossil execute";
+var mnemonic = "recipe blame tongue jump try tourist lobster arch whip skill olive various";

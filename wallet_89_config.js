@@ -1,1 +1,1 @@
-var mnemonic = "weapon sweet voyage language physical quarter bulb wear fluid pitch fog local";
+var mnemonic = "person duty movie symbol crazy enter stand mixed visit garlic neglect cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "civil crater agree crawl dash fuel museum castle advance claw decade shrimp";
+var mnemonic = "gain walnut plate enough together ridge absent saddle example empty pilot amateur";

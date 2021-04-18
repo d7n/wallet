@@ -1,1 +1,1 @@
-var mnemonic = "ostrich final settle document snow moon wrong dizzy oil want maid tomato";
+var mnemonic = "erode answer skate dinosaur guard rice table super powder wish daring loan";

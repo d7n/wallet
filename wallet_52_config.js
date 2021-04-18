@@ -1,1 +1,1 @@
-var mnemonic = "honey surface reveal light logic hold clay gospel adult weekend cute chase";
+var mnemonic = "lion lake exile salute patrol brush tragic royal stem where spray truth";

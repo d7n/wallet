@@ -1,1 +1,1 @@
-var mnemonic = "access student robot else border feel outside coral enjoy duty glory sausage";
+var mnemonic = "endorse answer erode dune possible sweet urban play tooth hover fee million";

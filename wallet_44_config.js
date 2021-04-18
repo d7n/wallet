@@ -1,1 +1,1 @@
-var mnemonic = "cabbage luggage affair protect sunset nerve debris measure exit lion among hole";
+var mnemonic = "physical scare cube neither forget glove rather learn brick space walnut yard";

@@ -1,1 +1,1 @@
-var mnemonic = "praise tongue general common shock tenant perfect lock gossip submit noise business";
+var mnemonic = "useless shell alert ladder labor hammer else network smart vocal violin pair";

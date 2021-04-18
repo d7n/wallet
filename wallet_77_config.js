@@ -1,1 +1,1 @@
-var mnemonic = "dinner basket student vehicle car grain pyramid focus method kitchen benefit brisk";
+var mnemonic = "glad panther treat between capable bridge giraffe purpose follow purpose grab main";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor soap present melody glow wave cake inmate liar claim state situate";
+var mnemonic = "boil tribe bonus property year absurd found curve law grass fire cloud";

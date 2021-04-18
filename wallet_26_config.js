@@ -1,1 +1,1 @@
-var mnemonic = "typical attract sunny vapor above diet pattern peasant mobile dust duty deposit";
+var mnemonic = "kidney dynamic earth garage mask amazing globe initial six deposit mammal link";

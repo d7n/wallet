@@ -1,1 +1,1 @@
-var mnemonic = "load garden annual motor neutral venue episode ridge include true blouse cute";
+var mnemonic = "include stove jeans purse lamp soap fit swear rocket poem bridge next";

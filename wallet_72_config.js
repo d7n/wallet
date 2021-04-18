@@ -1,1 +1,1 @@
-var mnemonic = "endorse stool frequent perfect input cover sure sail govern glow dance mind";
+var mnemonic = "grace boy humor push bottom coach fit wage build olive swim when";

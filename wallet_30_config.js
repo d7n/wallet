@@ -1,1 +1,1 @@
-var mnemonic = "north flavor hover concert fade output kitchen glory scrap resource asset toy";
+var mnemonic = "abstract ranch kit sheriff rigid salute biology silly normal naive ocean cabbage";

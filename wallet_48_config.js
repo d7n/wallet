@@ -1,1 +1,1 @@
-var mnemonic = "clerk absorb leopard sight convince lumber warfare over sunny pyramid north fiber";
+var mnemonic = "price poem fade street beyond talent improve bless ketchup issue recall tissue";

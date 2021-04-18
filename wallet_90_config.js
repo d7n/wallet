@@ -1,1 +1,1 @@
-var mnemonic = "resource city manage denial supreme invite benefit jungle pulse together toy rescue";
+var mnemonic = "flock soup skin garlic quality step settle vintage drama describe raccoon pony";

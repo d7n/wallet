@@ -1,1 +1,1 @@
-var mnemonic = "organ valley audit violin asset lucky defy tail amateur armor flag expire";
+var mnemonic = "tunnel version shield quiz traffic safe scare hard cricket false grunt inspire";

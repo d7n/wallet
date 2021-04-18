@@ -1,1 +1,1 @@
-var mnemonic = "total recycle yellow live hill space enable couch attract useless exclude impulse";
+var mnemonic = "invite marriage between ecology essence hybrid raw collect snake rival dice ankle";

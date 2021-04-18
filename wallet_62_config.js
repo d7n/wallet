@@ -1,1 +1,1 @@
-var mnemonic = "drop useful flavor screen message filter burger wild finger month forest sword";
+var mnemonic = "extend cover token clever damp curve lawsuit bicycle park shadow clutch bullet";

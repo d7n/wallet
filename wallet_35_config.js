@@ -1,1 +1,1 @@
-var mnemonic = "poet thought valley sense winner please garbage clap chimney alpha faith leopard";
+var mnemonic = "settle copy novel negative kind luxury lucky lesson enact wish stamp spread";

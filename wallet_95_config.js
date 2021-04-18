@@ -1,1 +1,1 @@
-var mnemonic = "limit lava oval trim coach clutch focus advance plate bonus youth sunny";
+var mnemonic = "ring guard glass endorse flight bounce hello unlock forum call book timber";

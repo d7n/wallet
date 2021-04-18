@@ -1,1 +1,1 @@
-var mnemonic = "pyramid much label pizza puppy verify music above decrease day walk elephant";
+var mnemonic = "thunder depth peace flip equal volcano satisfy duck theory raise truth utility";

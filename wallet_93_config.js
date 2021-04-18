@@ -1,1 +1,1 @@
-var mnemonic = "six flight potato canvas zoo coin cinnamon machine attend voyage crystal local";
+var mnemonic = "orient curious sun kitchen cradle stamp exotic hurry marriage safe prison ostrich";

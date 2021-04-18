@@ -1,1 +1,1 @@
-var mnemonic = "result ugly light address quiz spike glad trophy crawl claim music timber";
+var mnemonic = "hello knife rotate bless plastic hazard goose script midnight peasant provide mountain";

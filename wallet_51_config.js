@@ -1,1 +1,1 @@
-var mnemonic = "rude silent cause pupil reduce salon include verb punch mandate damp quantum";
+var mnemonic = "soon sight mother credit science thank exhibit crater ready sketch drink pilot";

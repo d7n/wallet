@@ -1,1 +1,1 @@
-var mnemonic = "sponsor bean topple session employ endorse impact original charge exit physical battle";
+var mnemonic = "brand desk bring struggle phone grab august pipe fresh earth animal length";

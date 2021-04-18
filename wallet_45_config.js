@@ -1,1 +1,1 @@
-var mnemonic = "dolphin flip major disagree soon snow write refuse kick bachelor jealous deliver";
+var mnemonic = "smoke shrimp holiday aerobic network much topple abstract spice used arrive cram";

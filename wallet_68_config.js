@@ -1,1 +1,1 @@
-var mnemonic = "cousin drop direct august garage topic custom convince never fold artwork juice";
+var mnemonic = "breeze frost shine decorate world dignity rely parrot student offer burden lion";

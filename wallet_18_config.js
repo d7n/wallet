@@ -1,1 +1,1 @@
-var mnemonic = "rookie fiction sweet decline review legal usage employ quote broom dilemma fossil";
+var mnemonic = "various fluid hour ill toss goddess dream curtain hat animal adult wrist";

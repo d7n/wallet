@@ -1,1 +1,1 @@
-var mnemonic = "large gravity invest trash whisper arrest pink allow cash estate crowd snap";
+var mnemonic = "stairs scheme bacon lemon garbage canoe magnet baby kiwi code broom raise";

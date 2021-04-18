@@ -1,1 +1,1 @@
-var mnemonic = "bonus fee express major loop priority method craft solve budget fatigue seven";
+var mnemonic = "guess reject lava embark mind oval lesson private culture rich school drastic";

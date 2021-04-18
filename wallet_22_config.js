@@ -1,1 +1,1 @@
-var mnemonic = "prison mixture click sponsor gas capital trash cabbage load custom reflect loud";
+var mnemonic = "raise decade swear giraffe hope accident find stairs jelly oval check split";

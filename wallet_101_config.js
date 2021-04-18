@@ -1,1 +1,1 @@
-var mnemonic = "wool medal vehicle apology rigid scale ecology neck limb shift leisure hill";
+var mnemonic = "power play faith hospital dwarf involve hub indicate business scissors vague course";

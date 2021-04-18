@@ -1,1 +1,1 @@
-var mnemonic = "hole ill blame believe talk erase resemble common core oblige depth trophy";
+var mnemonic = "since identify outer control planet settle anger mail van melt craft income";

@@ -1,1 +1,1 @@
-var mnemonic = "raise open apart gesture unveil satoshi noble sweet bag fever viable cheese";
+var mnemonic = "luxury bunker river enough tree unveil lizard farm person horse blur upon";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom warrior response worry dilemma moral soda worth fade chalk enroll reflect";
+var mnemonic = "laundry piece rival kitten pact stable tired frame whip pet inherit best";

@@ -1,1 +1,1 @@
-var mnemonic = "grace pattern model shell connect horror city toddler acoustic payment wisdom muscle";
+var mnemonic = "lift desert loan right stable lemon engage elbow armor become fork bamboo";

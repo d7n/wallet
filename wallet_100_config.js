@@ -1,1 +1,1 @@
-var mnemonic = "answer include faculty damp fuel regular shift tooth dust pitch state nominee";
+var mnemonic = "wave inflict idea cram auction pet shed ecology solar tray dance turn";

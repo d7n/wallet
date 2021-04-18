@@ -1,1 +1,1 @@
-var mnemonic = "bubble decorate hunt power outer girl dove noodle display wonder cousin able";
+var mnemonic = "owner inhale identify chronic stool blind logic tank federal crash relax safe";

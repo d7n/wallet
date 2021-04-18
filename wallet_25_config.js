@@ -1,1 +1,1 @@
-var mnemonic = "hint inch guitar acquire maze bronze lumber copper drop stable piece inmate";
+var mnemonic = "lunch model coach broccoli lake can minute dry mean hen defy other";

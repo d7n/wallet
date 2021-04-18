@@ -1,1 +1,1 @@
-var mnemonic = "rally coconut nephew hundred coin friend true gas impulse tell good dance";
+var mnemonic = "blame truck fetch law surge august diet body now wage wheat barrel";

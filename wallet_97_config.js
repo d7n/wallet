@@ -1,1 +1,1 @@
-var mnemonic = "flower better aerobic napkin notice relax tenant blade sentence artwork photo salute";
+var mnemonic = "salad once clever derive time immense congress ship genius festival six purse";

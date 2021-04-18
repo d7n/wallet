@@ -1,1 +1,1 @@
-var mnemonic = "series much eager powder adjust actual wide clip sniff legal left drift";
+var mnemonic = "consider guide trouble anxiety traffic cycle village various burst book furnace kind";

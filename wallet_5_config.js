@@ -1,1 +1,1 @@
-var mnemonic = "aisle arrow change woman surprise discover ghost sausage twenty dance glove tree";
+var mnemonic = "cube holiday throw advice laundry tag meadow defy nerve van action treat";

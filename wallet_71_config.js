@@ -1,1 +1,1 @@
-var mnemonic = "very robust toddler sugar brown able alter kit electric jump agree raw";
+var mnemonic = "north welcome repair ceiling pepper attract time trumpet offer flash offer kitchen";
