@@ -1,1 +1,1 @@
-var mnemonic = "pilot lobster betray coin slender onion arena bird build cruise arrest useful";
+var mnemonic = "wash skate crowd dinosaur sketch trial upper hello mean peace december tired";

@@ -1,1 +1,1 @@
-var mnemonic = "father range reunion angle dentist swarm relax float casual orbit sibling defy";
+var mnemonic = "regret kitten crazy olive rely organ spatial acid twice sing bleak artwork";

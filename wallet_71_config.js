@@ -1,1 +1,1 @@
-var mnemonic = "display super notice awake jaguar royal spoon endorse diesel hole display crack";
+var mnemonic = "idea armor vicious equip top cross once blossom smart host check alter";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing merit orange dream pact diagram bitter spawn gaze essay depart weekend";
+var mnemonic = "fire absent blur sheriff neglect talk apology collect pioneer venture trip sentence";

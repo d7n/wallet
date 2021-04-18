@@ -1,1 +1,1 @@
-var mnemonic = "owner sketch bracket pole regular park lecture token stable pull glad rather";
+var mnemonic = "price enemy acoustic monster trumpet future dismiss swing excess rally mom forest";

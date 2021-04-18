@@ -1,1 +1,1 @@
-var mnemonic = "fun order develop escape derive element excess filter route slogan stable perfect";
+var mnemonic = "expose style soul climb renew vintage jacket next average have asthma sound";

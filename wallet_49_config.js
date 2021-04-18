@@ -1,1 +1,1 @@
-var mnemonic = "relief over harsh you flight iron detect super leopard slush viable useless";
+var mnemonic = "vivid jaguar army swap giant expect festival excite beach feel volcano arrow";

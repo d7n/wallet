@@ -1,1 +1,1 @@
-var mnemonic = "either danger firm video seminar nature claw volume army refuse tag canal";
+var mnemonic = "slight grace wool lamp laundry frame crop prize master wink jeans inform";

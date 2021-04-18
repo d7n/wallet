@@ -1,1 +1,1 @@
-var mnemonic = "fiction album inspire angle sick together clip body reason year patient ugly";
+var mnemonic = "canvas vocal decorate income major vacuum venture black seven inherit trend steel";

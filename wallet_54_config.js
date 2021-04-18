@@ -1,1 +1,1 @@
-var mnemonic = "solve today ancient come rescue feel route dolphin gadget library birth sell";
+var mnemonic = "start draft pudding museum cry canal diary arrive slide sport west virtual";

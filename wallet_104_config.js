@@ -1,1 +1,1 @@
-var mnemonic = "thank bind offer parade easy cloud time ivory buzz labor involve friend";
+var mnemonic = "raw tobacco romance clap apple canal lounge lazy smile believe random company";

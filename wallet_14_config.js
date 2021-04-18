@@ -1,1 +1,1 @@
-var mnemonic = "coil choice initial wonder pride pony search much push humble uphold crucial";
+var mnemonic = "torch hedgehog gospel bottom duck cool trumpet know bargain chair torch angle";

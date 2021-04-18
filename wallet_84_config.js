@@ -1,1 +1,1 @@
-var mnemonic = "enact sauce pluck dolphin spider behave hockey federal pudding online future spider";
+var mnemonic = "verify soldier hotel shock resemble green ozone slam avocado slide lobster average";

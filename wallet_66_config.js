@@ -1,1 +1,1 @@
-var mnemonic = "sport fault foot spell grit target already major enlist ticket hotel ethics";
+var mnemonic = "jaguar dolphin great purse pill eight flower skate avocado gift south file";

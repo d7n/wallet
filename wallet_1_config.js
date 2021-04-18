@@ -1,1 +1,1 @@
-var mnemonic = "repair sword mixture vital great resource flip shock useful carbon invite uncle";
+var mnemonic = "obscure flight vapor stereo electric degree sail useful choice two brand visa";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel wine spike worth welcome repeat embody impact orchard fruit liquid expect";
+var mnemonic = "farm squirrel dirt office eager undo gather employ pottery wolf situate nurse";

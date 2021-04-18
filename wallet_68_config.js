@@ -1,1 +1,1 @@
-var mnemonic = "dolphin gospel profit always say athlete caught garage mention picture artist fashion";
+var mnemonic = "voyage destroy holiday barely rely absent soul pigeon sibling capable drop danger";

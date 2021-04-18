@@ -1,1 +1,1 @@
-var mnemonic = "despair spin dragon illegal myself collect case bulb wagon mass roast doctor";
+var mnemonic = "journey fan lumber bunker target debris evidence tape citizen excess stage witness";

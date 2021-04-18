@@ -1,1 +1,1 @@
-var mnemonic = "wheel panel embrace surge lottery check jungle fitness gun confirm harsh admit";
+var mnemonic = "gain hair cat solar armor room use pledge between sibling orphan zero";

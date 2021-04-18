@@ -1,1 +1,1 @@
-var mnemonic = "blue ramp sure journey autumn chuckle sound also space enhance shift topple";
+var mnemonic = "shaft woman capable lunch manual pledge spider sing brisk detail reason loyal";

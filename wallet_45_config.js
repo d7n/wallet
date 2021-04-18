@@ -1,1 +1,1 @@
-var mnemonic = "large hammer illness maximum rent short another traffic novel blur country defense";
+var mnemonic = "jungle glove photo bright wide fragile casual nuclear metal coral run tide";

@@ -1,1 +1,1 @@
-var mnemonic = "mule blur flee salad shy fault fault ice slim shiver bring super";
+var mnemonic = "option seed give turn maple buzz virus market matrix hint visual rigid";

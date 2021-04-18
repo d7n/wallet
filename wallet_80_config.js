@@ -1,1 +1,1 @@
-var mnemonic = "crowd endless order symbol scrap crystal jeans number physical lumber cram output";
+var mnemonic = "ugly hub sure oyster pudding media brass potato recall predict sibling prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "caught fork teach auto random spread blue pencil join negative man sell";
+var mnemonic = "solution case abandon chaos digital frost lab use warm jeans night immense";

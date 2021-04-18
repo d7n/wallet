@@ -1,1 +1,1 @@
-var mnemonic = "slim wisdom when zone topple borrow actress vivid novel business ice rack";
+var mnemonic = "elevator cry expire picture deposit pupil spare car total forum betray tide";

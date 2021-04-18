@@ -1,1 +1,1 @@
-var mnemonic = "beauty core people relax ribbon team top exile burst curve wool mention";
+var mnemonic = "opera essence crush atom license occur find amount rapid century struggle inspire";

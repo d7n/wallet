@@ -1,1 +1,1 @@
-var mnemonic = "depart tool carry wedding liberty leave bar input organ coral frog twelve";
+var mnemonic = "swear glow patient admit tragic forget ethics office vacant three again rally";

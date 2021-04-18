@@ -1,1 +1,1 @@
-var mnemonic = "bronze blush menu seek cat check amazing buyer zoo doll style circle";
+var mnemonic = "daring play wet quick phrase deliver search such basket genre torch mushroom";

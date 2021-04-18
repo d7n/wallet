@@ -1,1 +1,1 @@
-var mnemonic = "width crater bread supreme mirror exit hungry zoo prison girl glass expect";
+var mnemonic = "blood scout plug cave hip tobacco moment people gasp elder treat vast";

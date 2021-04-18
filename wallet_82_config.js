@@ -1,1 +1,1 @@
-var mnemonic = "neglect tennis crunch choice bargain middle castle drop upper dwarf unfair era";
+var mnemonic = "assault green inform short junk keen steel liquid order deal science myself";

@@ -1,1 +1,1 @@
-var mnemonic = "nose potato ecology coach bag flip connect frozen hold volume enlist place";
+var mnemonic = "relief task element emotion mercy impact term spawn pond slot actual behind";

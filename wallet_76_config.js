@@ -1,1 +1,1 @@
-var mnemonic = "tag verify almost chapter joy orange extend adapt atom soda embark sustain";
+var mnemonic = "airport candy ready endorse distance dinosaur accident call invite album snow can";

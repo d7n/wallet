@@ -1,1 +1,1 @@
-var mnemonic = "fringe help defy festival angle broom bunker salmon evidence scorpion punch ready";
+var mnemonic = "merge story film vague boy busy plug club harvest foam work nose";

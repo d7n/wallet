@@ -1,1 +1,1 @@
-var mnemonic = "relief wage magic reflect reduce banana roast blue slush gaze hood muscle";
+var mnemonic = "coral pioneer match daring wall thrive task jacket foam drastic despair endless";

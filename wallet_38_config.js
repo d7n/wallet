@@ -1,1 +1,1 @@
-var mnemonic = "clinic upper mixed dynamic wing buffalo say once cotton pitch forum bag";
+var mnemonic = "future popular patch tuna coach topple together outer rebuild hire boring above";

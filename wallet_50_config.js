@@ -1,1 +1,1 @@
-var mnemonic = "inside rent bring scan tide year flat brown stone cool fancy cancel";
+var mnemonic = "strike together track husband avoid rug proof chimney long business inner display";

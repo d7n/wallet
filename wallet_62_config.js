@@ -1,1 +1,1 @@
-var mnemonic = "social diary thrive shine gain tobacco sustain series else good accuse detect";
+var mnemonic = "lottery cabbage frost spice salon donkey glide outdoor regular gospel puppy gain";

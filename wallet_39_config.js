@@ -1,1 +1,1 @@
-var mnemonic = "cigar kind surround october husband thank system denial corn argue knife force";
+var mnemonic = "apology super cover renew banana hat erosion drama balance elephant jewel excite";

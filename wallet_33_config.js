@@ -1,1 +1,1 @@
-var mnemonic = "gauge frame trouble gift hero donkey snap gym topic hidden all visual";
+var mnemonic = "grunt depth gate corn teach father girl trial theme submit smart apart";

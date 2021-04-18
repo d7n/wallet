@@ -1,1 +1,1 @@
-var mnemonic = "easily security flee eagle welcome reopen tag please wing math job pill";
+var mnemonic = "figure number portion tortoise legend quick welcome curious injury prefer decorate pupil";

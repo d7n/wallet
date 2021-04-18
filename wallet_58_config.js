@@ -1,1 +1,1 @@
-var mnemonic = "guilt fresh eight favorite best kitchen wood hold hill type panda accident";
+var mnemonic = "opera bottom source rare lock glare focus original artwork column swim away";

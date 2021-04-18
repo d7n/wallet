@@ -1,1 +1,1 @@
-var mnemonic = "concert slab two rare text type garage eagle hip fold abandon gravity";
+var mnemonic = "morning juice business receive sport robot reject narrow range diary train joke";

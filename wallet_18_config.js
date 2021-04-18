@@ -1,1 +1,1 @@
-var mnemonic = "promote kiss hint drink noise inflict noodle student sample train aspect gallery";
+var mnemonic = "lumber orphan wolf hen addict exit author demand hundred boat clay style";

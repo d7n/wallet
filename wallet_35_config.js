@@ -1,1 +1,1 @@
-var mnemonic = "keen hockey alien random bag plug brand envelope movie blind display swear";
+var mnemonic = "candy burger demand focus garbage cherry shrimp vendor peanut awake dignity release";

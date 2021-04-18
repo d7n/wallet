@@ -1,1 +1,1 @@
-var mnemonic = "analyst bacon jump female galaxy crazy latin rib federal million valley scatter";
+var mnemonic = "rude scan eagle sting endorse rabbit kingdom will either amused train bike";

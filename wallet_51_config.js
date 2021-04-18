@@ -1,1 +1,1 @@
-var mnemonic = "weasel impulse viable milk priority under find polar law half grab once";
+var mnemonic = "bring lend state loyal audit basket struggle magic street knock spray item";

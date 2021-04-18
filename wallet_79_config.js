@@ -1,1 +1,1 @@
-var mnemonic = "box despair venture excess manage emotion rhythm bonus process detect oven tell";
+var mnemonic = "bubble canvas lunar myth seminar hand breeze garlic laugh man argue hundred";

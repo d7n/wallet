@@ -1,1 +1,1 @@
-var mnemonic = "whip goddess proud dutch adjust polar size entire improve parent news include";
+var mnemonic = "small airport dash drop bread practice upgrade drill gesture mutual hen social";

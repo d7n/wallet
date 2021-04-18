@@ -1,1 +1,1 @@
-var mnemonic = "main trick sad clog inch lava banner long record alley measure wire";
+var mnemonic = "become charge hockey hybrid giant cash alley disease south window parrot donkey";

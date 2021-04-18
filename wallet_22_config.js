@@ -1,1 +1,1 @@
-var mnemonic = "diamond swing urge spice able submit begin cabbage minimum bacon nest stomach";
+var mnemonic = "noise stone debris have high retire script tragic boost name chat gadget";

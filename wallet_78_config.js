@@ -1,1 +1,1 @@
-var mnemonic = "glance ripple burger tenant shrimp amazing deputy spoil skin penalty iron chunk";
+var mnemonic = "brown bleak ticket salon favorite congress wrist pottery other clean unfold stamp";

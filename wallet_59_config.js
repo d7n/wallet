@@ -1,1 +1,1 @@
-var mnemonic = "angle wheel soda smoke suit foster disorder since plate lottery pave twist";
+var mnemonic = "index cattle choice unfold bulk pistol fine hip sauce choose slogan save";

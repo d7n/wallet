@@ -1,1 +1,1 @@
-var mnemonic = "desert honey crowd where glare must item inspire alcohol cereal mention echo";
+var mnemonic = "plate ice letter melody top pulp remove cream aunt edit furnace emerge";

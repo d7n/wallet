@@ -1,1 +1,1 @@
-var mnemonic = "spirit sign ten dove plate private jaguar rigid owner tomorrow company share";
+var mnemonic = "happy ski vague area side where long idle rib wish drill cargo";

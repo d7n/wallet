@@ -1,1 +1,1 @@
-var mnemonic = "outside silent jelly hover local denial tag monkey flee combine inherit chicken";
+var mnemonic = "crack top drink drip buddy corn improve blade airport shock stamp finish";

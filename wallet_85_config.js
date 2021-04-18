@@ -1,1 +1,1 @@
-var mnemonic = "honey north fault document run inquiry mango mountain carpet peasant morning loyal";
+var mnemonic = "addict trouble material usual typical common lizard design solid someone rapid silk";

@@ -1,1 +1,1 @@
-var mnemonic = "method swear equal giant harvest conduct brick still tragic strong first erosion";
+var mnemonic = "stock barrel deputy load pluck spirit clown same assume hungry rescue pigeon";

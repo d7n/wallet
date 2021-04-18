@@ -1,1 +1,1 @@
-var mnemonic = "dolphin dog duck strategy truth wedding power napkin moment reject damage palace";
+var mnemonic = "maid blanket grit valve glass item young language runway slogan connect auto";

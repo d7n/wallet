@@ -1,1 +1,1 @@
-var mnemonic = "carry area real thrive pioneer keep cross pottery rapid comic picnic brain";
+var mnemonic = "laptop tone obscure travel range again life earn embark leave youth panda";

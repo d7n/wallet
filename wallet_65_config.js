@@ -1,1 +1,1 @@
-var mnemonic = "rhythm weasel minute glove noise improve enhance rally asset tackle filter weird";
+var mnemonic = "erosion elite reunion media hammer lobster photo history oppose mom arch name";

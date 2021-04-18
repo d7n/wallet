@@ -1,1 +1,1 @@
-var mnemonic = "already buffalo cereal piano gasp traffic blade nut ride display radio grunt";
+var mnemonic = "cool cigar domain sing west embrace grief forum fossil pioneer warrior barely";

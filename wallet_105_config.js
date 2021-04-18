@@ -1,1 +1,1 @@
-var mnemonic = "soccer put member fantasy situate shoe pipe era swing fashion portion cloth";
+var mnemonic = "sorry panda allow original rotate topple rival six dawn piece enact elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin awful sign guide gap essence piano salt universe alter nature market";
+var mnemonic = "quantum melody holiday roof spatial age buddy enjoy shallow tide since fiscal";

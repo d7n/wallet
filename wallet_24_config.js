@@ -1,1 +1,1 @@
-var mnemonic = "hidden find cancel tank gold reduce still protect ugly couple magnet interest";
+var mnemonic = "exist erosion mountain direct warfare farm endorse core north grab depth razor";

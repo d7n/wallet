@@ -1,1 +1,1 @@
-var mnemonic = "stable extra exile cube visit until bring enforce heavy timber stove capable";
+var mnemonic = "check fabric sorry squeeze off torch final betray expire oblige core tent";

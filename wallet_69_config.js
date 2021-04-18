@@ -1,1 +1,1 @@
-var mnemonic = "misery amount puppy pledge master relax where board elephant material ivory exact";
+var mnemonic = "major steel clarify cream early claw orbit crew mixed syrup deputy prefer";

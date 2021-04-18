@@ -1,1 +1,1 @@
-var mnemonic = "cloud debate excite antenna hedgehog secret candy lyrics proof audit cheese keep";
+var mnemonic = "clerk day fit mean elite sleep melt ripple scene battle apology execute";

@@ -1,1 +1,1 @@
-var mnemonic = "escape joy plastic scorpion doctor battle then pulp will civil cream rose";
+var mnemonic = "actor tenant strategy damage detail romance salad trumpet festival circle enrich must";

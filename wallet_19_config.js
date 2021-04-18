@@ -1,1 +1,1 @@
-var mnemonic = "sort lamp dose advance enforce quality scrub smile fever clay vacuum erosion";
+var mnemonic = "orchard garden enhance obey venture forget boring gesture view flight alley dolphin";

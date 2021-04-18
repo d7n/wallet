@@ -1,1 +1,1 @@
-var mnemonic = "detail basic evil supply depend trophy better symptom exit tongue insane rather";
+var mnemonic = "ginger either control guess fever ladder need april stand feature female train";

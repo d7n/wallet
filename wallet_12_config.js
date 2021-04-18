@@ -1,1 +1,1 @@
-var mnemonic = "swear basket noble glow flag just invest moon crazy culture grit infant";
+var mnemonic = "must royal once motor era subject dizzy rebuild cabin net salute inner";

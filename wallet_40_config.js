@@ -1,1 +1,1 @@
-var mnemonic = "under pill unaware dial leave vital neglect pledge peace fringe ready ship";
+var mnemonic = "april label twelve hair update naive churn grape rigid gloom settle negative";

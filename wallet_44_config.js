@@ -1,1 +1,1 @@
-var mnemonic = "action sport solid torch fiction hybrid shine frog curtain portion duck cliff";
+var mnemonic = "yellow deny dynamic vacuum lens island tip bundle quit winner edge uncover";

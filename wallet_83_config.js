@@ -1,1 +1,1 @@
-var mnemonic = "toe unveil lizard giant pair curve often manual trim rocket uphold witness";
+var mnemonic = "onion oppose moment indoor attend catch cheap brave bachelor metal identify favorite";

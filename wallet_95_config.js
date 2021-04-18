@@ -1,1 +1,1 @@
-var mnemonic = "afford thrive inject simple during young crystal earth opera social coast punch";
+var mnemonic = "intact decline region wedding clog trigger rifle head accident extra law polar";

@@ -1,1 +1,1 @@
-var mnemonic = "food earth plastic quick bag recall cupboard stage apart spy surface rival";
+var mnemonic = "music buddy quality gas lunar erode boost cradle water zoo camera glory";

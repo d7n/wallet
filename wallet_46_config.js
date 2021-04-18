@@ -1,1 +1,1 @@
-var mnemonic = "pluck shiver defense net sun devote around camera throw mind long sibling";
+var mnemonic = "squirrel cattle radar claim attend fall you float wrap badge limit shrimp";

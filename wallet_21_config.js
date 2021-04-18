@@ -1,1 +1,1 @@
-var mnemonic = "finger sock cave sweet slim conduct please oil ring receive hat cube";
+var mnemonic = "chimney scare bicycle strategy busy total cotton warrior final critic path acid";

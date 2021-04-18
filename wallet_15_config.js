@@ -1,1 +1,1 @@
-var mnemonic = "nut lens prepare digital false dry defy make arrest stadium circle upon";
+var mnemonic = "town rifle alien naive faint depart release train square fantasy solar junk";

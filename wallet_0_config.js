@@ -1,1 +1,1 @@
-var mnemonic = "bulk axis figure universe matrix afford crisp holiday wreck creek join lizard";
+var mnemonic = "ivory account nature senior shoulder leave enact almost cash great inflict erupt";

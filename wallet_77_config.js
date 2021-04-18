@@ -1,1 +1,1 @@
-var mnemonic = "suggest eagle knee proof hold crime medal total fury replace toddler primary";
+var mnemonic = "combine simple umbrella jealous employ shiver forum come immune oyster minor grass";

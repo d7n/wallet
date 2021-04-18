@@ -1,1 +1,1 @@
-var mnemonic = "fix key bind quiz thrive volcano habit health reject silly engine mail";
+var mnemonic = "width purchase paper member keep fantasy cage twelve board fiber try asset";

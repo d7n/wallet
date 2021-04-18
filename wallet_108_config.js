@@ -1,1 +1,1 @@
-var mnemonic = "kitten paddle ask design ankle coin cash choose crawl annual enemy fragile";
+var mnemonic = "giraffe hat shed coin debris entire pride ask file capital ginger brisk";

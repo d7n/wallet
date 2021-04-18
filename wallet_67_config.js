@@ -1,1 +1,1 @@
-var mnemonic = "volume mercy wheel hub rally purse globe present ketchup involve reduce exotic";
+var mnemonic = "visit pottery remember penalty nose category toddler hurt genre antenna lamp flag";

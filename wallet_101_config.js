@@ -1,1 +1,1 @@
-var mnemonic = "popular curtain mountain oblige steel thank ritual inform talent space castle air";
+var mnemonic = "wine same wall swing dwarf execute say exist same sibling unknown drama";

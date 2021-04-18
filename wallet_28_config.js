@@ -1,1 +1,1 @@
-var mnemonic = "spice bundle glad option lucky palace this among ostrich rail genre box";
+var mnemonic = "subway laundry rely repeat spell broccoli client more hedgehog supreme car suggest";
