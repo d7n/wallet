@@ -1,1 +1,1 @@
-var mnemonic = "squeeze approve barely favorite essence enrich photo awesome east stick poet cradle";
+var mnemonic = "coin trim pride shaft ordinary when involve grief wreck expand social travel";

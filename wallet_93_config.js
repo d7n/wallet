@@ -1,1 +1,1 @@
-var mnemonic = "rocket salad ability resource fiber skate distance olympic liar lecture myth web";
+var mnemonic = "say act fossil roast almost lucky junk junk install exhaust follow brother";

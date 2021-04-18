@@ -1,1 +1,1 @@
-var mnemonic = "suit rubber image ahead teach insane excite parent invest beyond leg picnic";
+var mnemonic = "behind iron design rough vague heart stomach critic cheese neither memory earth";

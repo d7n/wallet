@@ -1,1 +1,1 @@
-var mnemonic = "brisk lucky loyal desk keen task buyer dawn speed seek jealous oven";
+var mnemonic = "airport chase scissors peanut treat cage maximum bounce cactus never boost tone";

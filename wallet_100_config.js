@@ -1,1 +1,1 @@
-var mnemonic = "raw depart brain fancy canal walk message spice squirrel barely exit crunch";
+var mnemonic = "dose west follow rule system unusual design load close certain media cinnamon";

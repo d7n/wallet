@@ -1,1 +1,1 @@
-var mnemonic = "divert angle marine solar nation pool horse gallery require type evidence measure";
+var mnemonic = "winner unknown silver whip jealous illness half spoon input load already intact";

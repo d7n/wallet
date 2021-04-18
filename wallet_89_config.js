@@ -1,1 +1,1 @@
-var mnemonic = "dumb zebra reform zero atom main shell rude misery choose tomato unaware";
+var mnemonic = "mosquito style wagon forest injury unknown income kingdom clay tray tower inch";

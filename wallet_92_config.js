@@ -1,1 +1,1 @@
-var mnemonic = "pool fence often sing faint fit across tomorrow rubber rapid borrow outer";
+var mnemonic = "trophy exclude pistol girl chief struggle lazy awful orchard daughter rose isolate";

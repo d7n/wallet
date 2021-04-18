@@ -1,1 +1,1 @@
-var mnemonic = "dilemma fix diet feel odor move violin emerge kidney omit load option";
+var mnemonic = "coyote camera visa gap office chest bridge easy help book lesson rookie";

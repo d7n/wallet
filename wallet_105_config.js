@@ -1,1 +1,1 @@
-var mnemonic = "world abstract spike bitter snow become burger clever own pride daring become";
+var mnemonic = "frown digital child circle rude deny cable wide maid fatigue course cave";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz smile rich alarm soup example cave speak timber size reward lazy";
+var mnemonic = "spell key decade alone grocery whip want sport power nut rifle siege";

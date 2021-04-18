@@ -1,1 +1,1 @@
-var mnemonic = "service dash light initial offer library street hill replace glance trouble diet";
+var mnemonic = "jump rate diamond direct decade olympic velvet because turn faith harsh electric";

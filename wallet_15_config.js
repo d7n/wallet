@@ -1,1 +1,1 @@
-var mnemonic = "firm cushion inform rescue jaguar scale river brick total bitter afford alien";
+var mnemonic = "human scheme knock zone fantasy huge inspire object depend cluster area small";

@@ -1,1 +1,1 @@
-var mnemonic = "city inherit note venture throw demand spatial pilot trouble shoe various palm";
+var mnemonic = "vacuum cross antenna shed where piece spray kiss resource pipe run final";

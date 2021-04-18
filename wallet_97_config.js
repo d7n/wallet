@@ -1,1 +1,1 @@
-var mnemonic = "liquid similar market remind mind buyer permit panic salute oil retreat where";
+var mnemonic = "bone normal ghost shy trash garage shell round industry include brown ribbon";

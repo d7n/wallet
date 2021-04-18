@@ -1,1 +1,1 @@
-var mnemonic = "deal cause nation sick post head protect comfort mail hundred dry whisper";
+var mnemonic = "arrange shield exile nurse guess polar orchard scissors black nephew stock waste";

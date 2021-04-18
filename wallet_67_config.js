@@ -1,1 +1,1 @@
-var mnemonic = "because family uniform half loyal cactus spray forget electric neither corn spend";
+var mnemonic = "dragon bomb erosion stereo organ supreme quiz rate mesh where major hover";

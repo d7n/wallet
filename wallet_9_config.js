@@ -1,1 +1,1 @@
-var mnemonic = "produce civil curious drip art arrow panther menu whale duck exist render";
+var mnemonic = "dismiss cycle skin tackle term castle journey dash mouse machine marble runway";

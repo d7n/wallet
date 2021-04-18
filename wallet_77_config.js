@@ -1,1 +1,1 @@
-var mnemonic = "almost salad ginger cloth sphere hurry share tank patch glad rally design";
+var mnemonic = "wolf wing calm life domain capable duty pear loyal anxiety cereal leave";

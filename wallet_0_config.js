@@ -1,1 +1,1 @@
-var mnemonic = "clinic industry save expand lab mechanic limb siege same slim member nasty";
+var mnemonic = "immune crush lecture title fog gap fetch neck buffalo cactus color unveil";

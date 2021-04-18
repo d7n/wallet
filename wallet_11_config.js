@@ -1,1 +1,1 @@
-var mnemonic = "celery job they unusual only slight wood clip obvious traffic worth slow";
+var mnemonic = "say velvet robot cook ginger long maid review crew address ice apology";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor feed south federal love hockey drip panel embark long spike employ";
+var mnemonic = "primary human man memory awesome hobby salute siege rebuild replace destroy fold";

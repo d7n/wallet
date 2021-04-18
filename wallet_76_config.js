@@ -1,1 +1,1 @@
-var mnemonic = "fresh fortune film then result will armor round average vital vivid inch";
+var mnemonic = "leopard plate derive neutral never rose antenna loan toy oak worry where";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle judge lyrics expire there canvas recipe chalk south harsh crash truly";
+var mnemonic = "album month rich reunion castle square outer equal false steel boat hunt";

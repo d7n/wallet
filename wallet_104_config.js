@@ -1,1 +1,1 @@
-var mnemonic = "wall nurse rate brick ride team frozen slogan agree crucial wagon banana";
+var mnemonic = "inherit tunnel wall pride first stable attack candy novel craft salad caution";

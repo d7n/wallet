@@ -1,1 +1,1 @@
-var mnemonic = "rotate fox build ecology fringe morning pulp category utility blossom require cause";
+var mnemonic = "genre snow push off shine maze anger machine adult rude brick poverty";

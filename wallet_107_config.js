@@ -1,1 +1,1 @@
-var mnemonic = "tray antique wheel kiss hurry whip used cricket child venture erode fabric";
+var mnemonic = "act special snack wait tooth sauce gap property reduce front attitude multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor script attitude awake peanut moon faint salon spring lady truck tail";
+var mnemonic = "consider spider sure inch beauty spice split goddess you pottery next tip";

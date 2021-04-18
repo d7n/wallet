@@ -1,1 +1,1 @@
-var mnemonic = "tattoo magic carry cherry easy initial reason citizen sure winter fragile bind";
+var mnemonic = "brain attack leg test enact program usage capable tower bright close ladder";

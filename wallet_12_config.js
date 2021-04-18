@@ -1,1 +1,1 @@
-var mnemonic = "luxury isolate virtual twice spend print disease drama frown certain funny afraid";
+var mnemonic = "army frost lens clip float elder wall daughter ghost plunge satisfy kind";

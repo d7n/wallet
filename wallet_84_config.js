@@ -1,1 +1,1 @@
-var mnemonic = "grow excuse evil eternal gloom gap rebel thunder turkey collect erode gain";
+var mnemonic = "never layer retire space solution pledge original silly reject execute cupboard traffic";

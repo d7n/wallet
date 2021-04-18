@@ -1,1 +1,1 @@
-var mnemonic = "busy flat setup tone beef renew truck world chunk horror degree simple";
+var mnemonic = "dragon captain metal code any elevator jaguar bulb length flight mind brand";

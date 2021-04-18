@@ -1,1 +1,1 @@
-var mnemonic = "defy attitude ripple scene shoot crime bring accuse text liar people interest";
+var mnemonic = "palm jewel enroll feel glimpse ginger road valley witness bronze undo lazy";

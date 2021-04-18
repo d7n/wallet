@@ -1,1 +1,1 @@
-var mnemonic = "tube cinnamon duck input nut require judge swap solution sell exercise chicken";
+var mnemonic = "crack shift bamboo problem invest region involve bar outer argue witness reduce";

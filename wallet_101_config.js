@@ -1,1 +1,1 @@
-var mnemonic = "endorse goddess chapter outdoor mechanic dwarf hybrid royal glass essence replace kingdom";
+var mnemonic = "jewel time flee inspire gym rare remember dove vessel organ aspect pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "burst flower palm kitten scout guard sibling vital only hen spot bulb";
+var mnemonic = "million dolphin song timber regular volume fog flower robot produce unique siege";

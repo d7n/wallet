@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo canoe work stock squeeze clip rather art liberty adjust verify social";
+var mnemonic = "feel toward item ride anger fire lucky ribbon hurt brush render media";

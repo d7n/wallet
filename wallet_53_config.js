@@ -1,1 +1,1 @@
-var mnemonic = "run crumble huge resemble survey ketchup exotic husband matrix impulse toe spend";
+var mnemonic = "list sponsor ski purity surprise olive thought seed maximum captain random still";

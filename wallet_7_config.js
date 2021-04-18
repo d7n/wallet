@@ -1,1 +1,1 @@
-var mnemonic = "truly twin journey text embody session excite three wrestle around enemy general";
+var mnemonic = "hour scissors noble siege oblige nice mutual digital absurd cry reject palace";

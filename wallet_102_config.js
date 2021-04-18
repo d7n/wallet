@@ -1,1 +1,1 @@
-var mnemonic = "make hungry exclude deny team word spatial elder nuclear battle reason pelican";
+var mnemonic = "depth flee salad advice hidden logic audit stuff curious situate glory dutch";

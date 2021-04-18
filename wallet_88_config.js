@@ -1,1 +1,1 @@
-var mnemonic = "magic sister matter dose valid paddle lounge popular veteran thing differ perfect";
+var mnemonic = "alien bargain humor relief image gather garage sport vivid error mutual blame";

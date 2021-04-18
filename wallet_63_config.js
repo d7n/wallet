@@ -1,1 +1,1 @@
-var mnemonic = "wire damage domain quality gift calm vacant space random van devote cable";
+var mnemonic = "mouse boat vehicle clutch distance pair turtle lamp world copy fat merry";

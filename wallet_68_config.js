@@ -1,1 +1,1 @@
-var mnemonic = "mansion nurse truth uniform foot evidence debris load version release clay pipe";
+var mnemonic = "original guilt camp tortoise chunk bulk trim scatter price hand alter sun";

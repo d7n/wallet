@@ -1,1 +1,1 @@
-var mnemonic = "lunar deposit recall dust mesh wasp border distance ticket ship dragon wheel";
+var mnemonic = "harbor task usage practice stock anchor useful sauce net dune fly cloud";

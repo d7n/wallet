@@ -1,1 +1,1 @@
-var mnemonic = "hen hybrid good remove fix speak correct lonely fit armor history simple";
+var mnemonic = "olympic antique occur depth barrel trade sound roof burst bunker winner fine";

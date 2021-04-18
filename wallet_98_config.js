@@ -1,1 +1,1 @@
-var mnemonic = "above seek front defense aspect subway cycle rich spend pupil scatter arena";
+var mnemonic = "olympic swap rubber cancel genuine duck elite trouble inherit pig float silly";

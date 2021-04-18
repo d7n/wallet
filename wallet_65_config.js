@@ -1,1 +1,1 @@
-var mnemonic = "bullet guard group track become alien network over yellow dumb hood good";
+var mnemonic = "valve memory crater modify polar drip raven either right jeans gun column";

@@ -1,1 +1,1 @@
-var mnemonic = "quote hazard renew solid twice airport correct drive until sniff size sport";
+var mnemonic = "party left filter payment drama enjoy tape entire suit dinner supply chief";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos athlete capital grape guard swing sing useless light void desert world";
+var mnemonic = "under detail still trial scatter rural twice mountain absurd ignore despair silent";

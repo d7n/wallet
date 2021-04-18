@@ -1,1 +1,1 @@
-var mnemonic = "narrow maximum fresh slow grab false usual chimney fan bronze grant piano";
+var mnemonic = "arena gravity latin settle lazy wedding wasp wrist pact payment jar renew";

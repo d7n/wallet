@@ -1,1 +1,1 @@
-var mnemonic = "lottery mom churn age dash remind hair local hope corn own pipe";
+var mnemonic = "worth favorite fruit joy lab usual snap file actress wrist salt either";

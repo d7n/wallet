@@ -1,1 +1,1 @@
-var mnemonic = "stick more thought sea wet pepper assume acid carbon amateur good problem";
+var mnemonic = "palm involve pond camera credit catch photo clip basket heart ripple excess";

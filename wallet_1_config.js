@@ -1,1 +1,1 @@
-var mnemonic = "exercise nation correct arctic crime almost switch head vague year baby glow";
+var mnemonic = "convince scene prosper knife glad stomach post choose cover gadget hurdle screen";

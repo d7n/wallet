@@ -1,1 +1,1 @@
-var mnemonic = "slogan enforce banana cinnamon enjoy rich hen dance differ govern negative shoulder";
+var mnemonic = "dismiss kite trash puzzle insect cover term donate two coffee loud region";

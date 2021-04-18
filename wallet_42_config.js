@@ -1,1 +1,1 @@
-var mnemonic = "sign utility bless vanish tank mutual empower repeat census page combine bulk";
+var mnemonic = "cabbage warfare oval edge syrup degree dose peace sorry cable net fold";

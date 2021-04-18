@@ -1,1 +1,1 @@
-var mnemonic = "suit connect clay nice crawl good frequent coin regular easy image sibling";
+var mnemonic = "old shed isolate sister square able toast invest garden attack laundry faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "debate shallow able matter carpet entry resist such cement trophy breeze absurd";
+var mnemonic = "foster chest nest depth rally law aspect reopen buzz midnight stamp gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "guard nominee solution horse slight rib claim siege inform true rocket crack";
+var mnemonic = "body proud organ fancy early transfer toss wait prison toe clerk miracle";

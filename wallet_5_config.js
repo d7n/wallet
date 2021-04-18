@@ -1,1 +1,1 @@
-var mnemonic = "journey wide grit example select price ahead pencil crime car record jeans";
+var mnemonic = "put deputy reason deer ride orange shine armed ghost alone tackle iron";

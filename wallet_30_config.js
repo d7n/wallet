@@ -1,1 +1,1 @@
-var mnemonic = "festival bamboo crew wife mean range upper giraffe face mass long umbrella";
+var mnemonic = "decide menu sudden kid describe way local scrap gown robot swallow melody";

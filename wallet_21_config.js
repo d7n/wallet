@@ -1,1 +1,1 @@
-var mnemonic = "follow calm trade idea able car layer situate trash lunar attend daughter";
+var mnemonic = "extra mail blush alpha adult now knee smoke arrive fee cotton sweet";

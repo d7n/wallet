@@ -1,1 +1,1 @@
-var mnemonic = "link attract tired pool person lazy east effort safe knock worry pluck";
+var mnemonic = "outer core awful taste world ability area turtle chunk ranch analyst grit";

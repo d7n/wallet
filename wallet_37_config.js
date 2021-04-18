@@ -1,1 +1,1 @@
-var mnemonic = "napkin pair census accident tattoo habit novel cheese bag possible scan blanket";
+var mnemonic = "opinion machine scale brother cancel nerve desk wet puzzle virus gravity parent";

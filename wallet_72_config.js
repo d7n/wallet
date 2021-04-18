@@ -1,1 +1,1 @@
-var mnemonic = "force portion oblige bullet blossom boost bus coconut huge system place rally";
+var mnemonic = "enrich foster biology punch simple other start detect old crystal fever owner";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon visit reflect buffalo wise clean soft knife forward offer torch sphere";
+var mnemonic = "tank worth century arena tone steak stone sibling great skate traffic secret";

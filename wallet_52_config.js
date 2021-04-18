@@ -1,1 +1,1 @@
-var mnemonic = "pen puppy cluster spawn deliver will castle cube twenty walk hint mistake";
+var mnemonic = "giggle grocery wagon license eternal tired unfair thrive entire tell erupt labor";

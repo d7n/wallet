@@ -1,1 +1,1 @@
-var mnemonic = "until cluster margin trip avoid body napkin license fit hole wish voyage";
+var mnemonic = "day faith burden antenna call file burden angle business crumble butter audit";

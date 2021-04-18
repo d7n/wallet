@@ -1,1 +1,1 @@
-var mnemonic = "sort differ elegant hospital cruel seven embody else anger danger wrist bone";
+var mnemonic = "upon pencil amount lizard hunt midnight bird cause rebel hip frame sniff";

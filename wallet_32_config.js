@@ -1,1 +1,1 @@
-var mnemonic = "tray rain about believe relax toddler desert forest describe anxiety camp believe";
+var mnemonic = "game mad mention list sphere rival crouch cushion shy gain boring mountain";

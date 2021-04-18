@@ -1,1 +1,1 @@
-var mnemonic = "toddler educate various tool arrive atom gym bar nice marine fabric rookie";
+var mnemonic = "sick aisle rule cake legend skill level village miracle link talent road";

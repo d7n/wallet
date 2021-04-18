@@ -1,1 +1,1 @@
-var mnemonic = "globe club wink mountain basic muscle blade rug soon wing kangaroo shift";
+var mnemonic = "clever century human question smart welcome disagree usage first canyon lazy stay";

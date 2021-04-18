@@ -1,1 +1,1 @@
-var mnemonic = "solve vault barrel truth manual card pony eyebrow proof you general trend";
+var mnemonic = "rude green illegal wild bike oval young armed hundred acid display genre";

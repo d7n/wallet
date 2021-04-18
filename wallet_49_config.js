@@ -1,1 +1,1 @@
-var mnemonic = "agree fan still thunder master region flag car shy knee cup kid";
+var mnemonic = "inch alley country rose calm vague fence legend track three elder deposit";

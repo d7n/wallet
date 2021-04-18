@@ -1,1 +1,1 @@
-var mnemonic = "balcony slide shiver ship ladder keen embody glue morning where debris primary";
+var mnemonic = "biology august neutral brand airport flat decade occur plunge begin fork bus";

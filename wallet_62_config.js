@@ -1,1 +1,1 @@
-var mnemonic = "urge number inch figure depart replace rule bottom city nut embark uniform";
+var mnemonic = "arrow pizza media glove apple clever palace vault frequent fix grant medal";

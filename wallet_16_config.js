@@ -1,1 +1,1 @@
-var mnemonic = "hotel item snake labor clarify ritual gasp jacket churn poverty boy enter";
+var mnemonic = "awkward shoulder change auction exercise already today kingdom glue lonely enact flash";

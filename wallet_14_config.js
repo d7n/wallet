@@ -1,1 +1,1 @@
-var mnemonic = "nasty dolphin gather guilt wood mixed dizzy someone rocket portion mandate fan";
+var mnemonic = "pelican original noise aspect order lonely mule crisp sort eager camp category";

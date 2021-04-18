@@ -1,1 +1,1 @@
-var mnemonic = "panda space beef draft mass genius stuff gossip slice whale valid lens";
+var mnemonic = "final uncover cousin employ loop riot steel erase equip violin coral danger";

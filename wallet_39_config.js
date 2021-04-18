@@ -1,1 +1,1 @@
-var mnemonic = "stem expect village clerk today thought ensure slab hire barely they laundry";
+var mnemonic = "traffic output sail edit faith salute keep then car tortoise alert south";

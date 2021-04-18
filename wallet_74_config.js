@@ -1,1 +1,1 @@
-var mnemonic = "dutch proud goat huge page audit report manual angry adjust minor punch";
+var mnemonic = "flash process monster arch west tennis spring decide trick connect loud apology";

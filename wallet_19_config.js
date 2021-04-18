@@ -1,1 +1,1 @@
-var mnemonic = "bachelor code prize own milk just avoid master cost sustain chef area";
+var mnemonic = "lamp because lecture leg between uncover dad toy bright grace text sick";

@@ -1,1 +1,1 @@
-var mnemonic = "trash kiss ethics busy popular series wrap upon chair retreat burger almost";
+var mnemonic = "order dash slim fine during erupt author sentence paddle nest scrap never";

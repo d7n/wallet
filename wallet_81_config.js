@@ -1,1 +1,1 @@
-var mnemonic = "skin pole brain clinic nose face private fun rack decline fetch chuckle";
+var mnemonic = "auto jacket liar galaxy top two prize soft gaze phone other attract";

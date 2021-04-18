@@ -1,1 +1,1 @@
-var mnemonic = "sauce orange answer keen sense grid picnic rude animal kiss supply goat";
+var mnemonic = "country fan chapter frame lawn bench split humble alert disagree future across";

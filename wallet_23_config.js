@@ -1,1 +1,1 @@
-var mnemonic = "panel dismiss salad message laugh exact normal bubble canyon napkin primary enough";
+var mnemonic = "torch tonight inject rather clutch riot velvet music divert avoid poverty pioneer";

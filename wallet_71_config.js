@@ -1,1 +1,1 @@
-var mnemonic = "daring draft phone salad alter leave ship stock cement fabric target charge";
+var mnemonic = "reward cherry lend busy verb cabbage orient foil van cactus load lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth amazing unhappy radar hazard arena group gun evolve wealth keep that";
+var mnemonic = "chaos agree assault alone plug fetch dynamic current tiger second share jump";

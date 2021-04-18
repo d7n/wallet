@@ -1,1 +1,1 @@
-var mnemonic = "actress saddle busy present pottery harvest real coil plunge room rotate occur";
+var mnemonic = "clarify finger crucial response quantum must toe ring elder master gentle depth";

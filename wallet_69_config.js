@@ -1,1 +1,1 @@
-var mnemonic = "minor cross west any knock cushion uncle picnic drastic author solve siren";
+var mnemonic = "wine bird mandate differ cousin pond reward rescue arena retire jungle tired";

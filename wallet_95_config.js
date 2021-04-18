@@ -1,1 +1,1 @@
-var mnemonic = "front inner gadget stove mean logic onion funny hope topic mind carpet";
+var mnemonic = "bring winter kind display toward helmet shield panda drill solar region tail";

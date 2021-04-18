@@ -1,1 +1,1 @@
-var mnemonic = "umbrella wrong dinner vivid stomach neglect depart illegal unfold hedgehog orchard mouse";
+var mnemonic = "kitchen fee waste jar away wash gold green birth process recall message";

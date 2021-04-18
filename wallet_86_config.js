@@ -1,1 +1,1 @@
-var mnemonic = "replace pipe put soccer taxi bag estate furnace sick cement vacant certain";
+var mnemonic = "rhythm next rack describe destroy ring pipe guitar orphan valve buyer issue";

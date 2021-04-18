@@ -1,1 +1,1 @@
-var mnemonic = "narrow midnight same palace price menu moon enough radio paddle youth above";
+var mnemonic = "bless despair what taste marble move squeeze error gauge news window apology";

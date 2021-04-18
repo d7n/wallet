@@ -1,1 +1,1 @@
-var mnemonic = "solar flavor such desert today sad circle expand unusual wild limb orange";
+var mnemonic = "gallery salt brother faith doctor device slogan envelope warrior voyage diamond ancient";

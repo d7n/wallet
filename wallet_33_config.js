@@ -1,1 +1,1 @@
-var mnemonic = "render machine situate snack negative raccoon retreat fitness marine bag equal panel";
+var mnemonic = "example illness jealous height parent despair wage section fall glow bar spin";
