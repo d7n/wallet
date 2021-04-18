@@ -1,1 +1,1 @@
-var mnemonic = "keen broken naive artist latin update code define remove west salon shrimp";
+var mnemonic = "load junior daughter plastic syrup random fatal key shoe slam worth other";

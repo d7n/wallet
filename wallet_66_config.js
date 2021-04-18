@@ -1,1 +1,1 @@
-var mnemonic = "broom release elevator question waste install angry answer meadow absorb wild celery";
+var mnemonic = "sign rally dove you miracle logic water warm wheel eyebrow radar edit";

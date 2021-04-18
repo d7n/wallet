@@ -1,1 +1,1 @@
-var mnemonic = "permit trap silent deliver exclude bridge orbit junior help account man fox";
+var mnemonic = "frown universe penalty purity trade umbrella slide lens ankle purse capable napkin";

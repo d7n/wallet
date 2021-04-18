@@ -1,1 +1,1 @@
-var mnemonic = "warm bird record mule minute slogan ahead dinosaur erase spell size sphere";
+var mnemonic = "parade good smooth clap raccoon runway soup crouch else visit tongue parrot";

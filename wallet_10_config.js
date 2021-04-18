@@ -1,1 +1,1 @@
-var mnemonic = "man hole science primary wet suspect track bench icon crisp sting pass";
+var mnemonic = "trash spend student safe radar lesson spend provide enrich antique forget board";

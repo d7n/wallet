@@ -1,1 +1,1 @@
-var mnemonic = "rifle oval balcony depend cement treat bench marriage cram tornado owner sunny";
+var mnemonic = "stage skin napkin fold vocal height absent floor business result cry gesture";

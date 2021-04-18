@@ -1,1 +1,1 @@
-var mnemonic = "devote ivory worth wagon captain cloud journey frame lamp lake quiz lazy";
+var mnemonic = "curve cushion sing tilt laugh obvious sting fun family work frown two";

@@ -1,1 +1,1 @@
-var mnemonic = "cram can gaze demand mango patrol suffer swing educate purchase book swamp";
+var mnemonic = "auction chalk typical call census abstract chaos diesel maple april chalk horror";

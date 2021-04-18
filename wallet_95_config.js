@@ -1,1 +1,1 @@
-var mnemonic = "twin novel test student future pilot foster gravity grass quote yard raccoon";
+var mnemonic = "usual miss blush swallow train bomb vehicle twelve width name reveal inside";

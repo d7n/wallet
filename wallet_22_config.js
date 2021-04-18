@@ -1,1 +1,1 @@
-var mnemonic = "humble usual split return banana model whale seat frog basic daughter width";
+var mnemonic = "vast draw turtle excite rich alley vicious decade title excess involve dinner";

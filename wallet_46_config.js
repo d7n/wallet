@@ -1,1 +1,1 @@
-var mnemonic = "release floor tooth hammer satisfy prefer dog code action draft figure drive";
+var mnemonic = "lady dinosaur foot smile leopard mouse face verify metal sheriff burden tourist";

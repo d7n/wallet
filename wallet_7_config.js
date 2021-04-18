@@ -1,1 +1,1 @@
-var mnemonic = "pen cancel old fish weasel group action shrug junior then matrix slide";
+var mnemonic = "mad animal stairs flavor copy addict belt camp patient welcome crush danger";

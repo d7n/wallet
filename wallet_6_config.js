@@ -1,1 +1,1 @@
-var mnemonic = "sudden group approve obtain pink smooth oblige absorb put tray climb cause";
+var mnemonic = "fancy scare canvas around easily start mercy intact nature grab symbol potato";

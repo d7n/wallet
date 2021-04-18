@@ -1,1 +1,1 @@
-var mnemonic = "deny address casino critic unique later top item enter soft proud deputy";
+var mnemonic = "wreck guitar produce early put draft choice duck key lion outer appear";

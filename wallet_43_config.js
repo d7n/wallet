@@ -1,1 +1,1 @@
-var mnemonic = "narrow suspect middle burger dry planet runway tomorrow siren mirror adapt sport";
+var mnemonic = "problem erode drink buddy pass able element vibrant alien vague habit blouse";

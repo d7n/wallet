@@ -1,1 +1,1 @@
-var mnemonic = "tiger sign plug decline cannon sudden throw actress across tube circle cruise";
+var mnemonic = "library hurt chief trip rely tool lounge latin network current knife giraffe";

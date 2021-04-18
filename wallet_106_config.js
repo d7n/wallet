@@ -1,1 +1,1 @@
-var mnemonic = "rich city sign seminar weird gallery artwork grief grit minimum reveal slot";
+var mnemonic = "wear early aspect fault observe plate crawl muscle material potato earn federal";

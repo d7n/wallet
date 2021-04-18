@@ -1,1 +1,1 @@
-var mnemonic = "boat beauty catch space mirror stuff spice dog upgrade float barely vessel";
+var mnemonic = "hill body birth fashion more arrest sting chronic pottery arrive test bonus";

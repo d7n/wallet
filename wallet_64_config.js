@@ -1,1 +1,1 @@
-var mnemonic = "vital scan mention catalog melt umbrella hair want oven machine elephant absurd";
+var mnemonic = "shoulder oyster raise culture siren valid portion mouse bulk glass party bulk";

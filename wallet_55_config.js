@@ -1,1 +1,1 @@
-var mnemonic = "wild blame clarify more salt someone then angle judge traffic produce famous";
+var mnemonic = "autumn rubber return sure obtain sentence voice until draft replace mixed betray";

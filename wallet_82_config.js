@@ -1,1 +1,1 @@
-var mnemonic = "firm network fury useful cheap small upset clip theory moral judge elbow";
+var mnemonic = "oak assume tiger city soap wrap carry south letter skirt where swarm";

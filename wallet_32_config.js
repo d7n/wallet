@@ -1,1 +1,1 @@
-var mnemonic = "spirit glimpse head point jar roast risk number forget bronze rude silver";
+var mnemonic = "hidden evolve opinion assault defy mobile soon great curve case rack praise";

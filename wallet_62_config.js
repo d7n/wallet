@@ -1,1 +1,1 @@
-var mnemonic = "atom fatal series olympic you voyage law share net foil inmate deny";
+var mnemonic = "liquid bike south unknown gun moment smooth error slice version miracle oval";

@@ -1,1 +1,1 @@
-var mnemonic = "scene cube leopard curious absorb famous crazy chunk physical special daughter neutral";
+var mnemonic = "pull february swing kitchen camera fault tag hybrid useless custom swallow tunnel";

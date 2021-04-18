@@ -1,1 +1,1 @@
-var mnemonic = "admit impulse human destroy pencil vivid sketch december magic stool describe novel";
+var mnemonic = "diary afraid rapid system screen galaxy youth absent domain couch lizard satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "license motion cash nature mail sort laugh forward duck thought case foot";
+var mnemonic = "flower average system general satisfy tool result gun member library honey dish";

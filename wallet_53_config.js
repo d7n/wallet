@@ -1,1 +1,1 @@
-var mnemonic = "bracket wave weapon soap else consider sense pottery believe february humble elevator";
+var mnemonic = "elbow minimum lazy title random mean change door yellow animal figure digital";

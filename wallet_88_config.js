@@ -1,1 +1,1 @@
-var mnemonic = "intact flee rain defense drill fresh clap enemy minute slogan grocery castle";
+var mnemonic = "spray garden inhale easily rifle fun inner prize cook hood butter retreat";

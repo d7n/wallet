@@ -1,1 +1,1 @@
-var mnemonic = "toe kiwi hotel mandate paddle ball calm quit biology then bench team";
+var mnemonic = "hurry swift print grain any carry embrace problem swap category state april";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow share void income baby retire soap reform fluid head pepper twenty";
+var mnemonic = "skill chaos sentence patient caution dash present item away reason rebuild music";

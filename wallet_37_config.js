@@ -1,1 +1,1 @@
-var mnemonic = "found oxygen clog tonight law seed pen ivory pitch fit enlist omit";
+var mnemonic = "source leg spray oblige fix cigar tenant fun ill wise april day";

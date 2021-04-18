@@ -1,1 +1,1 @@
-var mnemonic = "speak bargain order shop cluster debris avocado tiger boring obvious gentle coach";
+var mnemonic = "someone question chaos fit harbor vivid work repair error vast skirt equal";

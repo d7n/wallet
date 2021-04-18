@@ -1,1 +1,1 @@
-var mnemonic = "whip reform dizzy hotel peanut uniform arctic deal enroll point public spot";
+var mnemonic = "cushion door inquiry pave ask float banner front code tag involve embody";

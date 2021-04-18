@@ -1,1 +1,1 @@
-var mnemonic = "bean dinner range relax can spend basic grunt expand foot marriage ginger";
+var mnemonic = "math fatigue assault drama coconut stomach task vicious base ensure jar fabric";

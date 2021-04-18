@@ -1,1 +1,1 @@
-var mnemonic = "modify auto crane balance shoe thank cliff sketch finger shop decrease rally";
+var mnemonic = "twenty arch fire monkey acquire danger spring plastic spice blue when crazy";

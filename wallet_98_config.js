@@ -1,1 +1,1 @@
-var mnemonic = "void mango bunker slight scrub half nut salute already front visa version";
+var mnemonic = "enhance dinosaur globe impose loan ritual ill tobacco solve isolate jazz faculty";

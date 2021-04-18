@@ -1,1 +1,1 @@
-var mnemonic = "unveil harvest wild horn ceiling black electric laptop purse menu oven intact";
+var mnemonic = "park initial antenna super desk slow magic scrub weekend daring pond plunge";

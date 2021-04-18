@@ -1,1 +1,1 @@
-var mnemonic = "moment post device media disease vehicle plug kidney coral destroy treat excuse";
+var mnemonic = "brother blouse bitter ensure outside demise misery banana custom rule rebuild erupt";

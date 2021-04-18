@@ -1,1 +1,1 @@
-var mnemonic = "swift space weapon pudding cliff moral soft opera comic pulp agent excuse";
+var mnemonic = "siren one script afraid fix wide february kitten nasty survey casino guard";

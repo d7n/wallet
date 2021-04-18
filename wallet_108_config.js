@@ -1,1 +1,1 @@
-var mnemonic = "buyer crack donkey pitch noise turkey rotate wife eternal blanket foil purse";
+var mnemonic = "spy idle glow dress avoid soap much phrase vehicle brass menu clap";

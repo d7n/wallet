@@ -1,1 +1,1 @@
-var mnemonic = "valve point ghost crazy basket tail mask dirt maid mixed what rough";
+var mnemonic = "weasel soda tape throw note flush siege aerobic kit split text grain";

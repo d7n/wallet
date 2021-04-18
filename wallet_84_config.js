@@ -1,1 +1,1 @@
-var mnemonic = "dizzy zero tell excess employ sauce couple cattle table skull path unit";
+var mnemonic = "claim march receive betray pave beach initial zoo phrase accident story chronic";

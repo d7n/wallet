@@ -1,1 +1,1 @@
-var mnemonic = "review employ acquire beauty spare winner summer nose drill nice move nest";
+var mnemonic = "cushion what service stand prosper dinner idea fold viable cigar then dog";

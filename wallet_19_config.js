@@ -1,1 +1,1 @@
-var mnemonic = "antique assault execute state glory raccoon jelly build embark glance top room";
+var mnemonic = "ship miracle once fury spike switch oil orbit power end tiger rely";

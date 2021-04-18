@@ -1,1 +1,1 @@
-var mnemonic = "illegal frost artefact will always negative thrive ostrich fury chimney egg false";
+var mnemonic = "gesture galaxy random second base wasp often square shell ice shallow lobster";

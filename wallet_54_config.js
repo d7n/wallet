@@ -1,1 +1,1 @@
-var mnemonic = "hill scrub boring mixture tomato ritual gift venture attend connect phrase approve";
+var mnemonic = "volcano vault perfect make left crumble exhibit sand liquid tomato dress twice";

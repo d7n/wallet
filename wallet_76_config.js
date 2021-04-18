@@ -1,1 +1,1 @@
-var mnemonic = "punch vessel point biology float mimic december radio snack focus electric script";
+var mnemonic = "negative produce sell wheat kiss palm wall renew fitness ecology dash differ";

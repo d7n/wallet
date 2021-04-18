@@ -1,1 +1,1 @@
-var mnemonic = "item edit flight hip since april forward fantasy virtual abstract damage buffalo";
+var mnemonic = "physical extend misery boat frown medal ticket easily zebra transfer cabin warrior";

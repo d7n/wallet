@@ -1,1 +1,1 @@
-var mnemonic = "boil artwork save dentist across doll either parrot advice vacant action excess";
+var mnemonic = "oak scheme earth cloth version lottery kind jump tube cloth wheat foil";

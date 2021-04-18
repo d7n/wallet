@@ -1,1 +1,1 @@
-var mnemonic = "man scorpion dismiss shoot noodle blade habit early joy idle envelope comic";
+var mnemonic = "awesome nephew ask sun upgrade laugh wealth music inflict firm about dish";

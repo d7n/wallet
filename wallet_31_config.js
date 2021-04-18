@@ -1,1 +1,1 @@
-var mnemonic = "pioneer source put horn crater pigeon file thrive various special cargo nice";
+var mnemonic = "bulk true stone tuna fossil crystal fetch cruel cliff palace glad blossom";

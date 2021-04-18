@@ -1,1 +1,1 @@
-var mnemonic = "heavy breeze print census problem suit mixture twin orange festival wet glimpse";
+var mnemonic = "laundry biology daughter egg hand unfair sleep gadget wisdom glass neck poem";

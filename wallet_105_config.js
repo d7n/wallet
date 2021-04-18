@@ -1,1 +1,1 @@
-var mnemonic = "congress include proud person budget dirt debris main noble silent cross fabric";
+var mnemonic = "rare below staff gasp father iron broccoli size armor problem accident all";

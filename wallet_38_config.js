@@ -1,1 +1,1 @@
-var mnemonic = "project venture voyage jeans sample have coast upset ritual coyote digital welcome";
+var mnemonic = "search train salute cradle short loud away insect monkey brief derive bench";

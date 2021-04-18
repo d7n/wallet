@@ -1,1 +1,1 @@
-var mnemonic = "rapid spike talk dish drastic shy test van supply main crunch give";
+var mnemonic = "monitor logic small win drift fit lesson rate episode dress merit patch";

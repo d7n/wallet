@@ -1,1 +1,1 @@
-var mnemonic = "flush olympic episode joy bonus used lottery rug dentist fly earth wrist";
+var mnemonic = "barely lady equal dish source excess index wait cool unfair tray point";

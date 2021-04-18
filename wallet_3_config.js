@@ -1,1 +1,1 @@
-var mnemonic = "entry enrich success tomorrow hold sand stay craft file reflect index combine";
+var mnemonic = "dumb truth stove leave basic improve foot hello pottery daring paddle forget";

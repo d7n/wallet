@@ -1,1 +1,1 @@
-var mnemonic = "soccer reveal all enroll assume scene wide fashion soul omit upgrade skill";
+var mnemonic = "evolve acoustic prison silver brisk opera blossom cable kite august mimic fade";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen hamster cluster broccoli elder grain reward cycle target party fee neither";
+var mnemonic = "tornado peasant sweet inform pair team exhibit issue news fade stool era";

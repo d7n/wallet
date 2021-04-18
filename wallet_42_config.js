@@ -1,1 +1,1 @@
-var mnemonic = "spin ostrich jungle lion wagon aisle ability jacket visual canyon pipe access";
+var mnemonic = "place love position impose inform asthma pony saddle bachelor liquid present insane";

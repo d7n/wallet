@@ -1,1 +1,1 @@
-var mnemonic = "start song brush bachelor mango slice human hospital chaos act cradle humor";
+var mnemonic = "effort finger erosion tail note opera secret hat can rough captain surround";

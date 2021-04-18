@@ -1,1 +1,1 @@
-var mnemonic = "age brave mention output grief figure draft fish struggle useful elder project";
+var mnemonic = "crash live nest abstract update blade honey duck unusual calm name daughter";

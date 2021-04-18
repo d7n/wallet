@@ -1,1 +1,1 @@
-var mnemonic = "worry spoon caught sport hold caution blood blade inflict elegant favorite enact";
+var mnemonic = "enact favorite segment spirit ready embark gain face mushroom genuine perfect unfair";

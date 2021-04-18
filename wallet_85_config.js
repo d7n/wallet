@@ -1,1 +1,1 @@
-var mnemonic = "cute auto daughter joke satoshi flock cart worth girl one gift skin";
+var mnemonic = "fox market churn face token asset shove sketch enjoy plunge prosper own";

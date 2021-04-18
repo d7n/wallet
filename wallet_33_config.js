@@ -1,1 +1,1 @@
-var mnemonic = "open fringe engine unique tenant quick describe party answer one kiss waste";
+var mnemonic = "inject olive frog permit wide army link prize appear merry library kiss";

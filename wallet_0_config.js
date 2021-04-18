@@ -1,1 +1,1 @@
-var mnemonic = "order manage nut fragile observe bulk sadness worth setup marine toast forum";
+var mnemonic = "asthma time jewel layer zebra bench allow term subject dice employ rely";

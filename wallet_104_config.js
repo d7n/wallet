@@ -1,1 +1,1 @@
-var mnemonic = "saddle volcano item color fancy uncle spike velvet drop electric one pluck";
+var mnemonic = "olympic shell nut project joke uncle glue hamster mango smile thank old";

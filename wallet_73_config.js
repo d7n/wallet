@@ -1,1 +1,1 @@
-var mnemonic = "solution fancy forest magnet crumble bronze clarify file use hip render bundle";
+var mnemonic = "fence butter trick want cram album auto robust gesture love dream employ";

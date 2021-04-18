@@ -1,1 +1,1 @@
-var mnemonic = "tumble praise science arrow market stamp vanish coffee plastic leave topic metal";
+var mnemonic = "canyon mention stuff same maximum twenty grit pact pass riot risk sad";

@@ -1,1 +1,1 @@
-var mnemonic = "catch print obtain table welcome together code lazy rough kiss disagree silly";
+var mnemonic = "link turkey asset shuffle water pattern shrimp ill exotic thrive brother slam";

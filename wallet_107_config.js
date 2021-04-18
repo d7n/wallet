@@ -1,1 +1,1 @@
-var mnemonic = "twist hen pact jealous candy morning hope whip rally error comfort quick";
+var mnemonic = "crisp limit wreck debris small violin motion exchange cruise ski corn frozen";

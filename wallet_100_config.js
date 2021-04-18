@@ -1,1 +1,1 @@
-var mnemonic = "repeat emerge buyer develop ring glove ancient bird public analyst cube bracket";
+var mnemonic = "budget belt pause few wasp repair traffic stool garage sort enroll case";

@@ -1,1 +1,1 @@
-var mnemonic = "extend wonder whisper capital summer funny install debris island super mobile soup";
+var mnemonic = "donkey hurry myself nature sure easily simple water faith museum project hill";

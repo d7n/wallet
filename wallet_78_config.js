@@ -1,1 +1,1 @@
-var mnemonic = "sea pull hungry salute year cruel initial sphere people saddle discover around";
+var mnemonic = "demand sugar rigid parent bachelor mandate gown lab earth disorder kingdom answer";

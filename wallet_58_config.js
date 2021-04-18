@@ -1,1 +1,1 @@
-var mnemonic = "word exit alert endorse cigar ivory art click spoon hockey accuse jazz";
+var mnemonic = "number liquid typical gas soldier nest stage sick captain item matter dog";

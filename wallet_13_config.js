@@ -1,1 +1,1 @@
-var mnemonic = "chapter execute broken system frog midnight uncle distance special whale bitter town";
+var mnemonic = "episode analyst sphere install saddle shadow peasant sure pave eyebrow used aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "divert marine genius promote flock follow polar toy whisper one organ shuffle";
+var mnemonic = "lab park balcony choose van comic engine garment siren around bike guilt";

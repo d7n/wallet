@@ -1,1 +1,1 @@
-var mnemonic = "horror escape argue junk tongue robot range peanut tongue virtual when wonder";
+var mnemonic = "almost clever have language utility inmate debate master spot ensure protect correct";

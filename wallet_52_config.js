@@ -1,1 +1,1 @@
-var mnemonic = "sentence tornado rigid fiscal spy twenty episode surprise very jump mule fall";
+var mnemonic = "image script calm fresh fever weird thank reduce valley core solution found";

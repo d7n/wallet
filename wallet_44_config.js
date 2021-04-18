@@ -1,1 +1,1 @@
-var mnemonic = "skill since educate busy exercise decline guitar knife lawsuit host boost remove";
+var mnemonic = "banner vanish rebel pave apple delay blood broom super drama aspect guess";

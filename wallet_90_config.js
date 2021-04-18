@@ -1,1 +1,1 @@
-var mnemonic = "wisdom decorate priority quit fat impulse dentist tide swap name spirit current";
+var mnemonic = "release pupil main prepare spike wonder grief follow main wire mansion hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise solution smile unaware cloud neglect bracket token unfair sunset desk industry";
+var mnemonic = "bulb foam long crash beach hybrid road ready marble tooth sunset fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "school distance tiger flash captain slot affair imitate leg shove skate tool";
+var mnemonic = "impact liquid diagram mule dog grit outside notice flavor casino account sweet";

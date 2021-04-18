@@ -1,1 +1,1 @@
-var mnemonic = "fatal demand hill world wagon agent globe squirrel punch when congress hair";
+var mnemonic = "orchard floor volcano project fish digital this outdoor path need use version";

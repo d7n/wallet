@@ -1,1 +1,1 @@
-var mnemonic = "hour void tilt abandon museum rough dinner decrease april one core rifle";
+var mnemonic = "option gate depend fetch sleep staff burst empower essay insane lend sustain";

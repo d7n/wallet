@@ -1,1 +1,1 @@
-var mnemonic = "draw little weapon fox cruel opinion struggle crack evil demise betray ankle";
+var mnemonic = "empty pet into rotate change climb emotion draft case impose barely awkward";

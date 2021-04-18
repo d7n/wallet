@@ -1,1 +1,1 @@
-var mnemonic = "crush mango option reform panther kidney dust churn winner round burst movie";
+var mnemonic = "soft casual tag pelican old member inquiry jungle train fancy sweet glass";

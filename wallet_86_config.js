@@ -1,1 +1,1 @@
-var mnemonic = "love maid interest nerve lady apple cost blouse federal leaf please gloom";
+var mnemonic = "boy slide teach sail crucial save tuition echo step more surge tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz disagree slight detect couch filter gasp expose pink seek evidence blind";
+var mnemonic = "blossom awkward sun lend snap enroll response final earth initial mimic over";
