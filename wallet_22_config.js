@@ -1,1 +1,1 @@
-var mnemonic = "tone jungle waste okay achieve prosper boy horn donor review squirrel rival";
+var mnemonic = "session glow goose response maximum rebel deer normal test cook paddle tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "guess fix once island embark define bread print cave tattoo ball cabbage";
+var mnemonic = "stomach cactus december height cement brain stage worry strike size result vague";

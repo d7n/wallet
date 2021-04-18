@@ -1,1 +1,1 @@
-var mnemonic = "pill quote check brain fossil risk scale solar scheme vendor trap winner";
+var mnemonic = "civil sketch common fashion glove heart crush asset praise wagon document fatal";

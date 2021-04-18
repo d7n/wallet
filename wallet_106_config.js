@@ -1,1 +1,1 @@
-var mnemonic = "city fat space exhibit country rain barely album please gravity thrive catch";
+var mnemonic = "glance lesson cluster sister cousin suffer camera end runway royal nasty cart";

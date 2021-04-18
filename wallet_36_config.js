@@ -1,1 +1,1 @@
-var mnemonic = "inch middle novel random horse main reason gather snake fox alarm cave";
+var mnemonic = "swim ghost rural knock together wolf change gun country crouch myth rookie";

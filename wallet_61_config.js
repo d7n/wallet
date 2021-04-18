@@ -1,1 +1,1 @@
-var mnemonic = "guitar moon soup slow poem ranch harvest arrest day ostrich solid tube";
+var mnemonic = "wage deliver possible season squirrel license bus nest copper clump slice table";

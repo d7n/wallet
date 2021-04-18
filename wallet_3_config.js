@@ -1,1 +1,1 @@
-var mnemonic = "protect among vendor edge tilt comfort bronze squeeze work this cancel borrow";
+var mnemonic = "rent true patient olive joy gold brown fix ripple engine laptop unfold";

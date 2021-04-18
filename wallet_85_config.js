@@ -1,1 +1,1 @@
-var mnemonic = "refuse oak salt arrest choice profit suit imitate mechanic foam employ taxi";
+var mnemonic = "soap feed foster tired chase harbor turn cactus riot work club twenty";

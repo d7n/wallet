@@ -1,1 +1,1 @@
-var mnemonic = "toe anger stem trumpet divide shoe february there debris two plate lemon";
+var mnemonic = "license laptop upgrade slush rack clump swallow aspect flash input post inflict";

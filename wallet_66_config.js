@@ -1,1 +1,1 @@
-var mnemonic = "path kiwi crop mule sustain father mango group inside about quiz jazz";
+var mnemonic = "captain fossil judge appear cancel clog west pig powder rack eye visit";

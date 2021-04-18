@@ -1,1 +1,1 @@
-var mnemonic = "trip original jelly mom identify advance drink labor face steel quarter wisdom";
+var mnemonic = "orient modify mesh waste melody female diesel genre ginger vacuum echo twin";

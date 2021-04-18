@@ -1,1 +1,1 @@
-var mnemonic = "cover video fat phone long base help major battle marine off pattern";
+var mnemonic = "young humor hamster flash flat umbrella friend glide steel express they clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff zebra share adjust symbol cross blood ginger hurdle hammer physical gun";
+var mnemonic = "buzz voyage fade awkward disorder meadow drop bronze choose load hurt pair";

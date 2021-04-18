@@ -1,1 +1,1 @@
-var mnemonic = "artefact like tired nose rescue pitch mutual soldier use enforce drink ship";
+var mnemonic = "mass patient glue business pumpkin arrest odor annual obscure spice involve same";

@@ -1,1 +1,1 @@
-var mnemonic = "happy property raccoon engine stadium guilt pottery rent door end banner laugh";
+var mnemonic = "spy fee ask gravity claim list festival hire need street nominee apple";

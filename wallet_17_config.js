@@ -1,1 +1,1 @@
-var mnemonic = "dice there grief cheese castle long put task move once wide robot";
+var mnemonic = "tip choice online what chunk blush venue plunge retreat message move retire";

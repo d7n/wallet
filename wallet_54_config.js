@@ -1,1 +1,1 @@
-var mnemonic = "finger burger useful year solid across myth gap skate claim father left";
+var mnemonic = "baby hospital oil broccoli sand submit main cinnamon color border apple speak";

@@ -1,1 +1,1 @@
-var mnemonic = "admit diamond nest empower orphan concert pig account penalty hybrid bronze crazy";
+var mnemonic = "banner canyon advice shove excite glare produce fold case coffee verb original";

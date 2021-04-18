@@ -1,1 +1,1 @@
-var mnemonic = "ginger board three enlist fitness slush opera forest renew link antenna truly";
+var mnemonic = "grunt globe dentist adult media early gather liquid obtain hidden parade element";

@@ -1,1 +1,1 @@
-var mnemonic = "viable ski myself water mad health day board phone topple fault shallow";
+var mnemonic = "glory reveal aisle surprise venue bright enroll lesson flower expect ship promote";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic elephant pull innocent drop cute wise parade wish annual trap rocket";
+var mnemonic = "thumb rough drastic real stairs isolate bubble refuse abandon summer song mango";

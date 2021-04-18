@@ -1,1 +1,1 @@
-var mnemonic = "shallow decline differ kite kind neglect liberty crunch shrug stem turtle project";
+var mnemonic = "exit mammal erupt beach custom resemble chuckle chaos wrestle base cargo pitch";

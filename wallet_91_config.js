@@ -1,1 +1,1 @@
-var mnemonic = "raise document spy dignity obvious poet anchor relief perfect choice rescue online";
+var mnemonic = "assist mother phrase deny tenant gaze idle wheat arrive awkward castle taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "equip time reform educate magnet refuse deputy bless trade miss blanket old";
+var mnemonic = "lobster jacket cart learn obey view potato scatter conduct extra stomach spot";

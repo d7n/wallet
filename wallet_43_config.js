@@ -1,1 +1,1 @@
-var mnemonic = "deputy found road such clip amount regular skirt crack luxury found predict";
+var mnemonic = "height tiger bless vicious love amateur earth differ property source utility want";

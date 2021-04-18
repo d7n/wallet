@@ -1,1 +1,1 @@
-var mnemonic = "belt steak ring save brain visit mimic coil clown game shove horse";
+var mnemonic = "ecology around unfair label charge congress begin winner sail office canal decline";

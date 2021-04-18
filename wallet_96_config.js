@@ -1,1 +1,1 @@
-var mnemonic = "okay fringe disagree young eyebrow miracle annual produce dose match warrior web";
+var mnemonic = "neglect one angry crane crystal cancel gravity flip forest play turn pulp";

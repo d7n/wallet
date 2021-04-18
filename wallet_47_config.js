@@ -1,1 +1,1 @@
-var mnemonic = "waste ability vital auto awesome brown tilt draft main hill kidney solve";
+var mnemonic = "welcome beauty shy olive uncover tip leopard provide cause frame inquiry order";

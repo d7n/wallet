@@ -1,1 +1,1 @@
-var mnemonic = "club fame rival say critic casino lift whale song pipe dinosaur next";
+var mnemonic = "honey over output move vivid plug drive office duty moment slender like";

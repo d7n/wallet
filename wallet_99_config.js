@@ -1,1 +1,1 @@
-var mnemonic = "just avoid appear keep bubble saddle unusual leader often marble social supply";
+var mnemonic = "addict stool region seminar cross cute seminar ready cabin blur rain shy";

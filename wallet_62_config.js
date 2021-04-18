@@ -1,1 +1,1 @@
-var mnemonic = "split empower erase soccer worth voyage scale special curtain web reopen basket";
+var mnemonic = "maid scatter hedgehog merry insect husband sport lecture hood guide hospital little";

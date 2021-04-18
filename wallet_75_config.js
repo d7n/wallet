@@ -1,1 +1,1 @@
-var mnemonic = "myself hub master local figure seminar reflect insane banana stay rack prepare";
+var mnemonic = "mirror awesome loud chat satisfy soon tragic inspire nice digital again legal";

@@ -1,1 +1,1 @@
-var mnemonic = "drum among cement ceiling badge feel eyebrow skull regret final chapter ability";
+var mnemonic = "lazy cabbage decrease various series become shoot valley connect alarm mammal turtle";

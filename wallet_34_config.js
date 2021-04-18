@@ -1,1 +1,1 @@
-var mnemonic = "below like forum twenty until burger girl brand twin prevent icon quiz";
+var mnemonic = "transfer intact tired file priority federal foot finger modify raccoon spoon head";

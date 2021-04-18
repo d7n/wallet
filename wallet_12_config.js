@@ -1,1 +1,1 @@
-var mnemonic = "tide enrich proud blast limb purchase envelope ecology earn buffalo palm conduct";
+var mnemonic = "tornado save rice twenty unfold blade riot fossil vacuum mule learn category";

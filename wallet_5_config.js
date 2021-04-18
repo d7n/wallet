@@ -1,1 +1,1 @@
-var mnemonic = "slight exist twist bullet ask donkey betray distance powder render alter choose";
+var mnemonic = "undo design energy wreck until brother perfect tomato develop bitter bless comic";

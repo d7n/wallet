@@ -1,1 +1,1 @@
-var mnemonic = "hen alter enter together pole meadow shaft genius mosquito maple enough cluster";
+var mnemonic = "quality sound flight witness ozone aim candy relief list base reject cost";

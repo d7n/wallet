@@ -1,1 +1,1 @@
-var mnemonic = "beauty include tray soap stomach chief drift never leopard coast stock borrow";
+var mnemonic = "infant quit hello language actual limit shrimp always lens verify eight congress";

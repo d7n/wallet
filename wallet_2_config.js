@@ -1,1 +1,1 @@
-var mnemonic = "winner mosquito away useless face since amateur advice pull fame strategy drama";
+var mnemonic = "news eight elite dolphin dove six multiply filter pen parade expect zone";

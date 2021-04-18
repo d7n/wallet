@@ -1,1 +1,1 @@
-var mnemonic = "gather strike love wage media neither ship choice maze force shoulder coach";
+var mnemonic = "way february battle already digital fee riot sad cart memory blouse share";

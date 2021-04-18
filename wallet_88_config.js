@@ -1,1 +1,1 @@
-var mnemonic = "wide kid calm donor error flee pact behind valley sword retreat such";
+var mnemonic = "burger uphold friend ginger claw scrap undo ugly peace bitter typical raven";

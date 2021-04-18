@@ -1,1 +1,1 @@
-var mnemonic = "table race odor pulp tortoise series disease alarm auction dolphin slight grow";
+var mnemonic = "snow lawn amused abandon wrestle brick lock icon fatal rib couple merry";

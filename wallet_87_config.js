@@ -1,1 +1,1 @@
-var mnemonic = "category ski kit involve airport property hat advance word crisp cannon omit";
+var mnemonic = "bar genre pelican gather six lawsuit correct emotion hospital business they public";

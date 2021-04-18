@@ -1,1 +1,1 @@
-var mnemonic = "pyramid manage seven sand garage bullet erode smoke crowd child timber resist";
+var mnemonic = "ignore never damage fame thought legend fossil amateur misery crack ancient turtle";

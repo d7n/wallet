@@ -1,1 +1,1 @@
-var mnemonic = "evil brand wrestle report wrap damage bottom demise nature inject few bleak";
+var mnemonic = "luggage cruel mention join output comfort empty quality upper metal swallow spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "summer click inject style sword situate velvet stone edit hire enjoy harvest";
+var mnemonic = "baby process yard doll quick dose tortoise spend little arrow erase gaze";

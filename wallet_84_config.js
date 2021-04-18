@@ -1,1 +1,1 @@
-var mnemonic = "unable globe vicious knee breeze weekend dish indoor kitchen water someone dish";
+var mnemonic = "casino rail group raven load space fury flee math liberty another elephant";

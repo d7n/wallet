@@ -1,1 +1,1 @@
-var mnemonic = "six spike dismiss around club slam farm more fox segment mother drama";
+var mnemonic = "bar blush legal someone awful merit already correct social yellow punch million";

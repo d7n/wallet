@@ -1,1 +1,1 @@
-var mnemonic = "away aspect fat nuclear mystery also obscure repeat cute satoshi monster gaze";
+var mnemonic = "that only poet twenty glass mercy swallow scatter finger predict tide inquiry";

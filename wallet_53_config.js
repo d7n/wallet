@@ -1,1 +1,1 @@
-var mnemonic = "draw creek group oxygen whale miss game health crater aware describe then";
+var mnemonic = "december face similar vehicle common ahead tree someone another sketch erupt blush";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf pen vibrant lecture balance blush write pear humble lucky type hire";
+var mnemonic = "require since very mimic palm little month sunny wasp chicken crack gate";

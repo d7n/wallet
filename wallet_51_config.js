@@ -1,1 +1,1 @@
-var mnemonic = "alone guitar fork true quantum immune tray flip will grab truck envelope";
+var mnemonic = "sand worry battle scrub sword rough above raw hungry submit damp sunset";

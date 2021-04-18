@@ -1,1 +1,1 @@
-var mnemonic = "swing need fog draw unveil bring arrange hood border edge erupt pony";
+var mnemonic = "faculty will torch elite impose shift embark pistol already girl panic three";

@@ -1,1 +1,1 @@
-var mnemonic = "worry diet notice robust alarm coin worry metal fatal asthma doctor ordinary";
+var mnemonic = "merry acoustic organ drill buddy conduct cake sport pull local border tip";

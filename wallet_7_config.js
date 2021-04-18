@@ -1,1 +1,1 @@
-var mnemonic = "jealous task never together short will actual clay work next galaxy issue";
+var mnemonic = "auction wise evidence talk radio fantasy gospel digital outdoor body morning lab";

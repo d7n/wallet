@@ -1,1 +1,1 @@
-var mnemonic = "vapor tell scorpion argue kiss sweet head carpet wild latin box when";
+var mnemonic = "hill infant trumpet chief keen lift sibling dust rail alarm shove segment";

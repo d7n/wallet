@@ -1,1 +1,1 @@
-var mnemonic = "bullet unit victory blood beyond body life way magnet congress trigger scale";
+var mnemonic = "animal slide bonus suspect utility cycle float weather toss amazing jelly bundle";

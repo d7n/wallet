@@ -1,1 +1,1 @@
-var mnemonic = "inform evidence sugar barely exhibit worry found human cargo party sail airport";
+var mnemonic = "black pretty stumble possible increase easy menu wrestle deer result camp unlock";

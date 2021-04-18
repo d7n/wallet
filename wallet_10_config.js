@@ -1,1 +1,1 @@
-var mnemonic = "flock waste stand want cheese vehicle riot loud wood turkey letter coyote";
+var mnemonic = "holiday quarter vivid fee wonder mandate carpet equip acid any holiday survey";

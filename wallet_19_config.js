@@ -1,1 +1,1 @@
-var mnemonic = "wealth phone soda ability sunset naive lamp output dry anger machine flush";
+var mnemonic = "party radar kitten struggle maze paddle caution recipe drop heavy animal essay";

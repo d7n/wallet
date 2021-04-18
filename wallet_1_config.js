@@ -1,1 +1,1 @@
-var mnemonic = "own world dolphin any shift parent provide rival planet plate coconut retire";
+var mnemonic = "calm kingdom birth trap method evolve orbit ranch desk diagram unique gap";

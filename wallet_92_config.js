@@ -1,1 +1,1 @@
-var mnemonic = "sad quit buzz where misery else hover evidence silk earth print airport";
+var mnemonic = "firm letter verb ready road place rally venture zoo magnet team kiwi";

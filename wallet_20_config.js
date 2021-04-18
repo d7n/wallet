@@ -1,1 +1,1 @@
-var mnemonic = "phrase ability zebra debate extra liar clean rookie age puppy ball explain";
+var mnemonic = "globe wise unique cereal puppy envelope right solar aerobic glove scorpion uniform";

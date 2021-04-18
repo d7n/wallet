@@ -1,1 +1,1 @@
-var mnemonic = "aisle accuse twice visit sadness desert video track mirror sport traffic whip";
+var mnemonic = "ranch debate cook choice nut bleak amount shield wish web behind piano";

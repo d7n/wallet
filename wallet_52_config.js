@@ -1,1 +1,1 @@
-var mnemonic = "predict million goose recipe mom expose success chicken pipe chair fatal able";
+var mnemonic = "key clump useless motion forest chase search relief army receive long name";

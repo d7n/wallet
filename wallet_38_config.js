@@ -1,1 +1,1 @@
-var mnemonic = "view cement sick flush pig lawsuit affair bulb orchard resource walk nasty";
+var mnemonic = "ability about bright silly wrong finish arrive describe rude during embark yard";

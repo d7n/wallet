@@ -1,1 +1,1 @@
-var mnemonic = "robot stick cheese decide cycle sick thing muffin access absurd fat gallery";
+var mnemonic = "loyal series hawk media pluck pledge collect future gesture barrel laugh mistake";

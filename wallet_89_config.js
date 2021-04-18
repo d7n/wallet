@@ -1,1 +1,1 @@
-var mnemonic = "excite churn lecture fence average abstract analyst mobile axis shrimp quantum tray";
+var mnemonic = "submit salt lyrics invest ripple barrel run twelve retreat buzz lounge manual";

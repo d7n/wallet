@@ -1,1 +1,1 @@
-var mnemonic = "catalog jewel venue member label enter problem water same hammer short series";
+var mnemonic = "area stamp surround kiwi such transfer rose path bundle original need rail";

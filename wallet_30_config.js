@@ -1,1 +1,1 @@
-var mnemonic = "deer food dress knock sleep push tongue warfare creek oblige tattoo toy";
+var mnemonic = "brown stomach gorilla still mutual crisp cousin piano sock crucial small gather";

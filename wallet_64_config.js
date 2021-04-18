@@ -1,1 +1,1 @@
-var mnemonic = "summer crush soup file puzzle insect shock buyer similar boil exact average";
+var mnemonic = "hurdle phrase morning swear maze develop notable admit luxury nice nature measure";

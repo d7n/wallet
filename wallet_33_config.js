@@ -1,1 +1,1 @@
-var mnemonic = "improve latin main ancient famous beauty now achieve scene pattern finish bundle";
+var mnemonic = "globe robot humor brisk tower expect travel slice bargain claim dragon secret";

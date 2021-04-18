@@ -1,1 +1,1 @@
-var mnemonic = "humor timber usual blind barely soldier juice oil gentle junk flavor genuine";
+var mnemonic = "snap crash chaos blue absorb athlete holiday enforce become twist popular course";

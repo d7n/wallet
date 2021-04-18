@@ -1,1 +1,1 @@
-var mnemonic = "blue blade rather guilt sunset add quarter flat trust train wolf woman";
+var mnemonic = "conduct truth resemble main coast setup awake cliff area zero extra odor";

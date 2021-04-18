@@ -1,1 +1,1 @@
-var mnemonic = "blue cherry swear fade cost dinner orient solar vague alley tissue job";
+var mnemonic = "object speak squirrel eager ask glide van ship short blush general depend";

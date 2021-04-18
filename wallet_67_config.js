@@ -1,1 +1,1 @@
-var mnemonic = "innocent empower unhappy tourist celery roof rent satisfy entire have vivid glove";
+var mnemonic = "pretty divorce number since mosquito before decade force glide boss nest fall";

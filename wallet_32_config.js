@@ -1,1 +1,1 @@
-var mnemonic = "journey couch satoshi border voice style hurry moon couple answer census avoid";
+var mnemonic = "fringe fame laptop earn nest educate coach toast announce hello mad affair";

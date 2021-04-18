@@ -1,1 +1,1 @@
-var mnemonic = "lift fresh warm bonus sister pride remind title sort rich spell trip";
+var mnemonic = "neglect define blanket mutual helmet wink ability farm secret famous sort scout";

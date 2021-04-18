@@ -1,1 +1,1 @@
-var mnemonic = "sport popular taste need exercise alien crystal bulk lend bounce stay blood";
+var mnemonic = "rich random come people prepare improve blossom science multiply hospital crane route";

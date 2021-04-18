@@ -1,1 +1,1 @@
-var mnemonic = "situate oppose imitate upon jelly office horn lend coconut famous whale broccoli";
+var mnemonic = "security sister laugh nurse vital double similar mimic custom addict treat build";

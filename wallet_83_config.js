@@ -1,1 +1,1 @@
-var mnemonic = "horse salute away shed slow front opera dial floor glue all like";
+var mnemonic = "catch nephew rose story thank either across warfare alter cigar sword steak";

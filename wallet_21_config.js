@@ -1,1 +1,1 @@
-var mnemonic = "guide disagree write evidence sing buzz tired toast detect turkey core dragon";
+var mnemonic = "nasty super lawn catch dress ribbon today process twin globe picture step";

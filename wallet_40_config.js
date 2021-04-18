@@ -1,1 +1,1 @@
-var mnemonic = "salon shock balcony step analyst make blush elite risk rely kitten armed";
+var mnemonic = "sauce bring planet outdoor program trap easily brisk health rebel nose above";

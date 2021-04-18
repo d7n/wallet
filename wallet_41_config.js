@@ -1,1 +1,1 @@
-var mnemonic = "pause filter pipe breeze vacant blast fish umbrella dwarf forum cross cover";
+var mnemonic = "web puzzle pig today else behave wealth vivid taxi shine ceiling pave";

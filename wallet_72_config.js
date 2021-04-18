@@ -1,1 +1,1 @@
-var mnemonic = "idle degree tower birth arrest soon group negative sail leave message economy";
+var mnemonic = "clap between cheap cube bomb annual injury cigar gift ridge student interest";

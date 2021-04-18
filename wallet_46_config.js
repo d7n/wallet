@@ -1,1 +1,1 @@
-var mnemonic = "gasp jelly pony indicate major dash yellow carpet carry supply bracket galaxy";
+var mnemonic = "scorpion elbow outdoor aware table pause extra bachelor certain build desk father";

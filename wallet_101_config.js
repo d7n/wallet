@@ -1,1 +1,1 @@
-var mnemonic = "carpet bid fresh obtain quantum swamp rough jealous photo vendor claim way";
+var mnemonic = "involve sauce melody leisure wool choose good switch novel air laundry apart";

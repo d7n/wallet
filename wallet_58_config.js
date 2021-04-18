@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bleak leisure room angry mobile place lucky call fruit famous people";
+var mnemonic = "act cross piece shed start remove wide zebra merge bind thing boost";

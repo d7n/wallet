@@ -1,1 +1,1 @@
-var mnemonic = "obtain tobacco weekend load immense bubble typical melody orbit neglect stadium coin";
+var mnemonic = "infant teach napkin matter lava monitor gift extend naive dinner volume master";

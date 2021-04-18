@@ -1,1 +1,1 @@
-var mnemonic = "visual muffin early uniform hybrid sunny spell canal learn scale gate edge";
+var mnemonic = "comfort giggle meat glimpse crime best joy parrot illegal dream sniff border";

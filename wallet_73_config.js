@@ -1,1 +1,1 @@
-var mnemonic = "cover figure head agent fetch battle dry side rate stick boring black";
+var mnemonic = "rebuild sad strategy crazy rigid slow bread happy vicious penalty comic fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "category hole clever volcano crouch fame october crucial town topple forum shell";
+var mnemonic = "half cage either spoil only south glow patrol stock effort album poet";
