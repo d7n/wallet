@@ -1,1 +1,1 @@
-var mnemonic = "empty elephant inside peasant motion country culture frown harbor fluid pumpkin oxygen";
+var mnemonic = "frame hint aerobic remove real street fetch hat luxury claim animal arch";

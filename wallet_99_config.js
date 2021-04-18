@@ -1,1 +1,1 @@
-var mnemonic = "orbit nation subject ridge bundle away client rotate young bless enroll degree";
+var mnemonic = "reveal soap verb power any vessel girl notice december grant display rally";

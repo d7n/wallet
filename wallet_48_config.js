@@ -1,1 +1,1 @@
-var mnemonic = "replace wire imitate meadow deposit fit pluck cactus cost hat feel lounge";
+var mnemonic = "today pear atom vast scheme pass artefact front unaware drama entire very";

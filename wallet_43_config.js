@@ -1,1 +1,1 @@
-var mnemonic = "dad powder ritual prefer file tragic bridge shadow enlist fall visit choice";
+var mnemonic = "fantasy among harvest inflict day length youth sustain rabbit board cable resemble";

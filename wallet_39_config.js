@@ -1,1 +1,1 @@
-var mnemonic = "embark immune future head ivory supreme brick enforce domain switch concert bring";
+var mnemonic = "wave dash sadness desk clinic limit bag satisfy normal income harvest orchard";

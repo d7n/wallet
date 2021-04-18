@@ -1,1 +1,1 @@
-var mnemonic = "good capable female main spring pride change chunk close spend double calm";
+var mnemonic = "cover black hidden ghost attitude solar steak speak relief hammer donate mirror";

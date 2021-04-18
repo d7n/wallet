@@ -1,1 +1,1 @@
-var mnemonic = "meadow patch name pumpkin agree prefer body dawn fame drive always state";
+var mnemonic = "high anxiety boy tonight public faith disorder gloom film diamond force old";

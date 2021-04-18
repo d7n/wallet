@@ -1,1 +1,1 @@
-var mnemonic = "involve trophy tortoise erosion retire come ocean avocado split kitchen tribe taste";
+var mnemonic = "swap ramp canal jelly hard sentence country rural forest aim armed smooth";

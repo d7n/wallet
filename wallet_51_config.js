@@ -1,1 +1,1 @@
-var mnemonic = "deer item rose ramp first negative fabric crucial annual monkey awful uniform";
+var mnemonic = "response weasel crystal own around mushroom derive island art rice replace raise";

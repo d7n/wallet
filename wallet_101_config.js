@@ -1,1 +1,1 @@
-var mnemonic = "pair bubble sunny drop fitness wheat debris cigar rice zoo scout urge";
+var mnemonic = "track unaware seat body chronic hunt mind jewel brief gloom online twice";

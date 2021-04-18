@@ -1,1 +1,1 @@
-var mnemonic = "endorse mansion among degree pencil stadium skirt spare lyrics chaos sand swift";
+var mnemonic = "bronze tool load rapid once since tongue same soda board rural visit";

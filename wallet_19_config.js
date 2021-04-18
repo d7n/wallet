@@ -1,1 +1,1 @@
-var mnemonic = "hint broken alcohol shallow fame young sock aspect spot eternal that slam";
+var mnemonic = "clip garage spider system suspect toss bench manual control enroll cushion napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "cute sick flash come sample speak laptop tuna clown casual bunker raccoon";
+var mnemonic = "hope swap north dove naive consider raccoon plate diet connect happy real";

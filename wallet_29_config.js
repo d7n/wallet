@@ -1,1 +1,1 @@
-var mnemonic = "swallow dust coyote hybrid topic base woman lamp rescue surge joy panic";
+var mnemonic = "couple awesome squeeze claim spy wrong pen laptop icon explain adult width";

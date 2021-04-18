@@ -1,1 +1,1 @@
-var mnemonic = "soon monster music six regret spread frost roast demise spider gorilla van";
+var mnemonic = "brief tunnel shoulder humor surface buzz property exact avoid eight mountain craft";

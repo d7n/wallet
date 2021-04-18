@@ -1,1 +1,1 @@
-var mnemonic = "love toilet nasty lend already maple beef stumble energy furnace reunion expect";
+var mnemonic = "make faith pole between siren digital rose barrel output paddle entry balcony";

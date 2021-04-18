@@ -1,1 +1,1 @@
-var mnemonic = "gentle describe route drip metal sorry burden range banner young warfare choose";
+var mnemonic = "broom ethics extend diet frozen parent crystal fox mimic loan future knee";

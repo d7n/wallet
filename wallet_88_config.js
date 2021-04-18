@@ -1,1 +1,1 @@
-var mnemonic = "lens buffalo slush joy make code appear fish ocean original pledge easily";
+var mnemonic = "guard tool abandon suspect buffalo icon toe return kitchen invite defense collect";

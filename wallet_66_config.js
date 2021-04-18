@@ -1,1 +1,1 @@
-var mnemonic = "donate aspect team salad bargain version only pattern stem patrol cloud wrist";
+var mnemonic = "sword daughter wisdom duck balance remain first camp chicken switch flavor diagram";

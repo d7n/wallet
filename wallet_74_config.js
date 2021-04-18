@@ -1,1 +1,1 @@
-var mnemonic = "garden dawn fee room address guess dirt palm simple access cycle multiply";
+var mnemonic = "celery oven post away buzz sketch ski orphan retreat million claw rescue";

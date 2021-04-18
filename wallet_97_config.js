@@ -1,1 +1,1 @@
-var mnemonic = "peasant field story skill motion cigar outdoor company excite stem grain patch";
+var mnemonic = "input sphere mule royal frequent among spend staff never jazz bone true";

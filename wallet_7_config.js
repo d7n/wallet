@@ -1,1 +1,1 @@
-var mnemonic = "library involve balance balcony wagon april curve river divert era evoke wedding";
+var mnemonic = "praise piano daughter force wheat comic airport alien roast enforce ankle employ";

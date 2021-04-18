@@ -1,1 +1,1 @@
-var mnemonic = "cricket milk joy gain heart tragic deliver museum honey injury under woman";
+var mnemonic = "concert steak differ insect neck tilt found tired cigar divert lend silk";

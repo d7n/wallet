@@ -1,1 +1,1 @@
-var mnemonic = "enough hour pig tortoise tone run crouch eye dilemma machine viable strategy";
+var mnemonic = "plunge nature chunk peasant welcome life theme pen own velvet chronic enroll";

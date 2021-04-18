@@ -1,1 +1,1 @@
-var mnemonic = "pioneer toss crystal neither voyage useless time duty degree boy balance parade";
+var mnemonic = "twenty reason describe version hire devote fade craft ordinary board ice pen";

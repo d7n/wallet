@@ -1,1 +1,1 @@
-var mnemonic = "spot clap math car health frozen toilet edit visa draw benefit airport";
+var mnemonic = "motion similar sausage glimpse kitten mirror teach little same digital armed cover";

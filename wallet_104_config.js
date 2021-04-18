@@ -1,1 +1,1 @@
-var mnemonic = "damp hair job industry save pink flee omit palace ankle success forget";
+var mnemonic = "ozone burst raw trap aspect dinosaur health twice educate jewel pottery home";

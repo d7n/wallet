@@ -1,1 +1,1 @@
-var mnemonic = "vague another symbol boil subway sound sphere route infant wreck sight tuna";
+var mnemonic = "lamp soul master door day ecology giraffe autumn quarter theme crunch badge";

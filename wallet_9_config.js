@@ -1,1 +1,1 @@
-var mnemonic = "stuff exile join dove vanish toast shield wait bamboo office title year";
+var mnemonic = "real govern shoe relief reopen view foster fragile zoo mansion eye bleak";

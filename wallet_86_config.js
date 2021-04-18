@@ -1,1 +1,1 @@
-var mnemonic = "candy deliver acid unaware pink carpet spawn pink hunt clean noodle ivory";
+var mnemonic = "rib sign ensure december survey put custom cup network resemble decrease erase";

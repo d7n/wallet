@@ -1,1 +1,1 @@
-var mnemonic = "army snow blast long six cook animal dynamic beyond nurse avocado trick";
+var mnemonic = "accuse february zero already pact turkey inspire old rich wait poem firm";

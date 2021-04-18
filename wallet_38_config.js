@@ -1,1 +1,1 @@
-var mnemonic = "boss space size index afford base mutual blush leopard duty improve pact";
+var mnemonic = "crew embrace head grape minimum aerobic echo crazy rib correct token away";

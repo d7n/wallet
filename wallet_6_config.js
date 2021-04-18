@@ -1,1 +1,1 @@
-var mnemonic = "sudden pride genre flee rabbit ball pole total rose minute possible goddess";
+var mnemonic = "pluck grace barrel cloud machine core hotel payment moon security alter radar";

@@ -1,1 +1,1 @@
-var mnemonic = "tower advice fuel speak youth divorce they fine suffer shy decline lyrics";
+var mnemonic = "wife divorce obtain thumb into glide grunt venue grass rural nominee swap";

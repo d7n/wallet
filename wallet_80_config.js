@@ -1,1 +1,1 @@
-var mnemonic = "update lawn fresh mushroom vicious cricket exile forward raven actress peace buyer";
+var mnemonic = "prepare rifle file theme guitar cinnamon assume problem normal submit host rare";

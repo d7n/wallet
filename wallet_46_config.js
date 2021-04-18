@@ -1,1 +1,1 @@
-var mnemonic = "fuel banner control reduce correct ketchup husband poet cargo sign manual tiger";
+var mnemonic = "hockey popular gold match nuclear toast quiz body garage parade cabbage blossom";

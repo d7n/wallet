@@ -1,1 +1,1 @@
-var mnemonic = "glow forget move glide ring jeans loan clarify slice inject exclude poem";
+var mnemonic = "army debate sister pizza curtain future grunt soldier demise rebel humor onion";

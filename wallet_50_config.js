@@ -1,1 +1,1 @@
-var mnemonic = "fantasy finish spike chair scout split blue permit repeat fog food pattern";
+var mnemonic = "harbor minor mercy civil vanish bulb present region mean select very fresh";

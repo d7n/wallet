@@ -1,1 +1,1 @@
-var mnemonic = "hurdle web vanish twice marine season post fall script palace minor north";
+var mnemonic = "hospital regret glance unveil lumber police student mule they pool patient circle";

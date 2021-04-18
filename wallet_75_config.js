@@ -1,1 +1,1 @@
-var mnemonic = "insect bacon illness wagon fiber discover reason toilet decorate sniff hip tuna";
+var mnemonic = "battle good sausage crew scan program purse west anger climb parent smart";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant twin book bonus symbol sustain stamp worth jeans tooth basic news";
+var mnemonic = "beyond client father throw twelve grit rebel load hero describe armed true";

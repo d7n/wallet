@@ -1,1 +1,1 @@
-var mnemonic = "tragic twist virus aunt punch voice neither endless vast engine vote ordinary";
+var mnemonic = "nominee faculty awake mirror flee between sound vehicle inch perfect beyond merit";

@@ -1,1 +1,1 @@
-var mnemonic = "point law grant decline shift velvet argue lounge boat catalog suspect labor";
+var mnemonic = "nose desk cactus ozone hero stage sorry trim copy deposit vivid rural";

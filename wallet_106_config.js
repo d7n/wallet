@@ -1,1 +1,1 @@
-var mnemonic = "cactus own kiss donor famous pigeon embrace song man sweet eyebrow surface";
+var mnemonic = "green differ borrow desk smooth velvet brother scatter noodle ensure yard river";

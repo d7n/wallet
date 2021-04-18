@@ -1,1 +1,1 @@
-var mnemonic = "emerge doll impulse zero script online agree arrive hen move inquiry final";
+var mnemonic = "bacon supply bulk pumpkin warfare search push ring average blind define casino";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze flavor nice front hollow dynamic brass eager thought gossip sleep render";
+var mnemonic = "abstract question search spider cram fashion admit erosion burst switch village bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "slender mountain upset country easy surge clog jump jealous dance next author";
+var mnemonic = "mountain spike scatter furnace release supply unfold quit mountain warfare small double";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing carry crouch bus nasty unaware indicate maple detect razor swift hour";
+var mnemonic = "story travel balcony hungry fringe table math video oven enough right minimum";

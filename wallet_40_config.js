@@ -1,1 +1,1 @@
-var mnemonic = "quality cannon exact trigger family wood knock worth exhaust glow olympic cushion";
+var mnemonic = "shadow input voice gather rifle submit market senior balance chase raw state";

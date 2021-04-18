@@ -1,1 +1,1 @@
-var mnemonic = "quality obscure hammer match club style load ladder wait demand become expand";
+var mnemonic = "exist one pair mercy street leg service mask plate theme melt neglect";

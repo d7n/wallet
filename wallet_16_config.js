@@ -1,1 +1,1 @@
-var mnemonic = "flavor jump box laugh exit whale autumn again ahead olympic canoe clever";
+var mnemonic = "owner main rare sort kit bread plastic satisfy vapor miracle enjoy hidden";

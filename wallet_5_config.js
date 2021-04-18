@@ -1,1 +1,1 @@
-var mnemonic = "august modify section table tag chunk figure hire fashion board border industry";
+var mnemonic = "ability guitar weather almost crouch garage old naive comic vicious stock midnight";

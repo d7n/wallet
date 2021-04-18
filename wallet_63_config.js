@@ -1,1 +1,1 @@
-var mnemonic = "meadow nephew science problem skill yard hero pull pull shift float someone";
+var mnemonic = "grunt help payment dumb carpet cruel have idea seminar pause choose tell";

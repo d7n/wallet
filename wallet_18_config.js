@@ -1,1 +1,1 @@
-var mnemonic = "employ error mixed kidney tail danger august column couple east wing mansion";
+var mnemonic = "cheap local crazy town adjust cute elegant fence priority plug wink toy";

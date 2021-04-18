@@ -1,1 +1,1 @@
-var mnemonic = "above march eight alcohol gas purity certain equal crouch album drum oil";
+var mnemonic = "spike road arrest render misery fatigue climb okay wire cement prepare sponsor";

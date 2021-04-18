@@ -1,1 +1,1 @@
-var mnemonic = "theory slim fiber narrow tiny gorilla siege tortoise nose animal bitter antenna";
+var mnemonic = "soul proof grocery capital behave profit april shift trumpet impact pen mercy";

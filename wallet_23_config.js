@@ -1,1 +1,1 @@
-var mnemonic = "can permit bacon expect space actual six edge banana tree size hawk";
+var mnemonic = "fan analyst depart sell mandate few stable rate cereal satoshi neglect token";

@@ -1,1 +1,1 @@
-var mnemonic = "flight situate absent inspire venue lumber typical iron net shrug lecture engine";
+var mnemonic = "bomb mind chuckle hundred enable item dial cool original young name motor";

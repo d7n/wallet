@@ -1,1 +1,1 @@
-var mnemonic = "vault asset forget zoo galaxy shine puppy goddess detect raw public deliver";
+var mnemonic = "maple adjust seek clever analyst desert winter diary crush author slam dish";

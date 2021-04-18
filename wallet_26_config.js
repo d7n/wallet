@@ -1,1 +1,1 @@
-var mnemonic = "trade episode human solve famous cushion ghost scan notable exact donor shop";
+var mnemonic = "fork diet roof screen jewel citizen coral shiver panic spider weasel capable";

@@ -1,1 +1,1 @@
-var mnemonic = "infant naive destroy snow wife bind elegant enforce mouse romance say trumpet";
+var mnemonic = "burst helmet robust decide problem brick shy witness happy length ramp fold";

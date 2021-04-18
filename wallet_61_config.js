@@ -1,1 +1,1 @@
-var mnemonic = "civil camp volume crumble eagle bird extra gospel narrow donkey elder kitchen";
+var mnemonic = "vintage vicious report thrive fat palace trash student desk help dignity worry";

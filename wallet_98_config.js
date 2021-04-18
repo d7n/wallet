@@ -1,1 +1,1 @@
-var mnemonic = "blood sight jaguar host change awful critic cry prepare chunk erode escape";
+var mnemonic = "type word index leader vivid add level reason catch detect talent feed";

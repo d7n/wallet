@@ -1,1 +1,1 @@
-var mnemonic = "gain wet bulk undo plunge brave inch require human lumber slam know";
+var mnemonic = "crawl because elder gallery virtual decline choose curve orchard dirt always solid";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep powder cart agree pluck noise theory test indicate burden upset venue";
+var mnemonic = "eager census twice glide surface village age worth text warrior parade price";

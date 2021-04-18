@@ -1,1 +1,1 @@
-var mnemonic = "invite rescue shop truly carpet deny over world kit diamond injury client";
+var mnemonic = "battle cancel seven inspire observe iron poem garage shine swallow sudden guess";

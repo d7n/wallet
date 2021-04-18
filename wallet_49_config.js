@@ -1,1 +1,1 @@
-var mnemonic = "hurry puzzle then share size slot obtain immense biology almost kick minor";
+var mnemonic = "aerobic sea discover acquire crater palace clown document course smile segment cheese";

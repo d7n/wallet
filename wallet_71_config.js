@@ -1,1 +1,1 @@
-var mnemonic = "letter quantum resist you mushroom off angry laugh letter hollow rice firm";
+var mnemonic = "practice museum divorce imitate whale legend update party what zero open help";

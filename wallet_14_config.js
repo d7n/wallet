@@ -1,1 +1,1 @@
-var mnemonic = "pig position half try extra vibrant face seek cup donkey address account";
+var mnemonic = "gaze question cruel actor net bacon mammal spring gasp grid wall tank";

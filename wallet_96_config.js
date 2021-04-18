@@ -1,1 +1,1 @@
-var mnemonic = "price valley main harbor transfer quit erosion jeans appear essence match bubble";
+var mnemonic = "shoe around bacon zebra random wrist subway monitor wasp ill scan aim";

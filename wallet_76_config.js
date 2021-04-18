@@ -1,1 +1,1 @@
-var mnemonic = "robust thought shiver bargain venture truly animal illegal aware duty recycle early";
+var mnemonic = "cook large annual squirrel type board myth desert screen vendor quick pepper";

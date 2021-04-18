@@ -1,1 +1,1 @@
-var mnemonic = "beef setup journey display able fold youth route sign buyer employ license";
+var mnemonic = "door salmon lunch blur topic penalty crack amateur organ warm degree trial";

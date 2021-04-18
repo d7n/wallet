@@ -1,1 +1,1 @@
-var mnemonic = "hero scene copper area tomato lake resource duck solution journey custom fatal";
+var mnemonic = "snow mystery estate grain spy envelope grief depart such base dove mimic";

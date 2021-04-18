@@ -1,1 +1,1 @@
-var mnemonic = "there adjust absorb casino siren glory chief behind excite pretty electric pull";
+var mnemonic = "favorite loop alpha parade spot leg buffalo flame enemy yard stand salt";

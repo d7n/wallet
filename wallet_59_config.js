@@ -1,1 +1,1 @@
-var mnemonic = "stairs enroll truth wrestle grunt phrase online skin choice fatal normal include";
+var mnemonic = "wolf resemble emotion treat goat include click clump dismiss brief explain gesture";

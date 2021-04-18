@@ -1,1 +1,1 @@
-var mnemonic = "aim auto diamond boss please advice kind process blast misery toward vacant";
+var mnemonic = "connect only bargain stem genius sad crater rug success speed apology slab";

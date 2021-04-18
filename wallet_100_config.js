@@ -1,1 +1,1 @@
-var mnemonic = "math gravity panel apple city suggest finish donkey claim stool middle glow";
+var mnemonic = "outer provide cricket craft best advice large helmet early toward smooth fold";

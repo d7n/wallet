@@ -1,1 +1,1 @@
-var mnemonic = "occur scene auction topple anchor wheat ritual produce potato route rail page";
+var mnemonic = "few clip attitude claim muffin city science model proof husband all crystal";

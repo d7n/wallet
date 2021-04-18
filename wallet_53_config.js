@@ -1,1 +1,1 @@
-var mnemonic = "base recycle frame scout daughter gift recycle mosquito welcome salt fence spend";
+var mnemonic = "sun best video erupt math fog gate tone flip letter embrace ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "protect grape sample illness lens fresh race tag jealous ghost ritual horse";
+var mnemonic = "toilet raw decorate coyote annual toy come stereo stairs accuse wife fault";

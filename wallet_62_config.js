@@ -1,1 +1,1 @@
-var mnemonic = "park eagle fly crunch torch cloud aim position chimney hungry public absent";
+var mnemonic = "love trap super cherry put blast ostrich whisper sight element weekend need";

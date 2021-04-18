@@ -1,1 +1,1 @@
-var mnemonic = "purchase job kiwi address when attitude any loop eagle photo spend tattoo";
+var mnemonic = "naive dune stone cute survey glance road noise artefact nothing mirror yellow";
