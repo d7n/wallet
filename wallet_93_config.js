@@ -1,1 +1,1 @@
-var mnemonic = "say act fossil roast almost lucky junk junk install exhaust follow brother";
+var mnemonic = "jeans guard explain capable check damp reward aware spoil smart abuse close";

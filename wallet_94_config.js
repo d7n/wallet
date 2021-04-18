@@ -1,1 +1,1 @@
-var mnemonic = "defense deputy inquiry myth this exclude taxi van endorse stereo army motor";
+var mnemonic = "lion vast fame describe awesome spatial muffin mule battle quantum casino dance";

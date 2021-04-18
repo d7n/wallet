@@ -1,1 +1,1 @@
-var mnemonic = "upon pencil amount lizard hunt midnight bird cause rebel hip frame sniff";
+var mnemonic = "alter peace lemon detail repeat swallow virtual height warrior puppy input easily";

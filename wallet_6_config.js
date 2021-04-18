@@ -1,1 +1,1 @@
-var mnemonic = "vacuum cross antenna shed where piece spray kiss resource pipe run final";
+var mnemonic = "casual mail release ripple exist horn uncle decline lizard few rally genius";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify finger crucial response quantum must toe ring elder master gentle depth";
+var mnemonic = "riot worry lazy mom sense clerk vote own ankle push blanket fuel";

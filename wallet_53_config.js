@@ -1,1 +1,1 @@
-var mnemonic = "list sponsor ski purity surprise olive thought seed maximum captain random still";
+var mnemonic = "walnut unique sun parrot liberty remove candy swim purse december iron hand";

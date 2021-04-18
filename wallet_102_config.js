@@ -1,1 +1,1 @@
-var mnemonic = "depth flee salad advice hidden logic audit stuff curious situate glory dutch";
+var mnemonic = "near loop noodle tornado below trigger zebra helmet inmate notable hurry brave";

@@ -1,1 +1,1 @@
-var mnemonic = "act special snack wait tooth sauce gap property reduce front attitude multiply";
+var mnemonic = "clever pizza menu chat erupt push toe advance burger fiction load moment";

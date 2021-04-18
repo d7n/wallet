@@ -1,1 +1,1 @@
-var mnemonic = "worth favorite fruit joy lab usual snap file actress wrist salt either";
+var mnemonic = "dry return soft hint you little panic dignity mix season fatal energy";

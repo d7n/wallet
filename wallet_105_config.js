@@ -1,1 +1,1 @@
-var mnemonic = "frown digital child circle rude deny cable wide maid fatigue course cave";
+var mnemonic = "useful tent sure talk traffic genuine artist educate cigar interest better near";

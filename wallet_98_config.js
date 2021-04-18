@@ -1,1 +1,1 @@
-var mnemonic = "olympic swap rubber cancel genuine duck elite trouble inherit pig float silly";
+var mnemonic = "discover crazy category strike reflect predict organ move cat consider note garment";

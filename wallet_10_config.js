@@ -1,1 +1,1 @@
-var mnemonic = "country fan chapter frame lawn bench split humble alert disagree future across";
+var mnemonic = "apple comic interest lift squirrel favorite hole please secret gloom private hidden";

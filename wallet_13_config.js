@@ -1,1 +1,1 @@
-var mnemonic = "harbor task usage practice stock anchor useful sauce net dune fly cloud";
+var mnemonic = "trumpet bundle soup trick such cook debate peasant tube payment ugly shuffle";

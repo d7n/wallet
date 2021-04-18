@@ -1,1 +1,1 @@
-var mnemonic = "sick aisle rule cake legend skill level village miracle link talent road";
+var mnemonic = "flee hybrid tuition fee web column ask purity notice forum patrol behind";

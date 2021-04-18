@@ -1,1 +1,1 @@
-var mnemonic = "opinion machine scale brother cancel nerve desk wet puzzle virus gravity parent";
+var mnemonic = "ladder announce urban increase priority critic hover unveil over decade index affair";

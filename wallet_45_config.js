@@ -1,1 +1,1 @@
-var mnemonic = "gallery salt brother faith doctor device slogan envelope warrior voyage diamond ancient";
+var mnemonic = "gaze impose assist unusual diary physical blue increase ask noble govern destroy";

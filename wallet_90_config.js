@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fee waste jar away wash gold green birth process recall message";
+var mnemonic = "series jacket favorite hero pet brand extend grant spot life arrive swamp";

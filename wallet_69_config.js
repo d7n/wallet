@@ -1,1 +1,1 @@
-var mnemonic = "wine bird mandate differ cousin pond reward rescue arena retire jungle tired";
+var mnemonic = "unique mirror enroll hair about lab slow shift goddess step try feature";

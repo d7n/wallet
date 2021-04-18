@@ -1,1 +1,1 @@
-var mnemonic = "decide menu sudden kid describe way local scrap gown robot swallow melody";
+var mnemonic = "equal void agent sleep kiss special entire victory pepper silver raw salt";

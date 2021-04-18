@@ -1,1 +1,1 @@
-var mnemonic = "reward cherry lend busy verb cabbage orient foil van cactus load lucky";
+var mnemonic = "year hair orphan speed action peasant dolphin dutch awesome minor horn volcano";

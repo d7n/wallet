@@ -1,1 +1,1 @@
-var mnemonic = "never layer retire space solution pledge original silly reject execute cupboard traffic";
+var mnemonic = "arrest push feature extra shop behind fragile trick review glove give angle";

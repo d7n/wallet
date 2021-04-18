@@ -1,1 +1,1 @@
-var mnemonic = "biology august neutral brand airport flat decade occur plunge begin fork bus";
+var mnemonic = "hurry fog crumble expire provide world rice charge prefer curtain blossom huge";

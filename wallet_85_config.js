@@ -1,1 +1,1 @@
-var mnemonic = "snow slide sauce weather shock jealous regret wreck gadget bonus fatal soon";
+var mnemonic = "midnight output arena problem carbon refuse noodle robust write umbrella reason faint";

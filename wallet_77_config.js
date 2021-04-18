@@ -1,1 +1,1 @@
-var mnemonic = "wolf wing calm life domain capable duty pear loyal anxiety cereal leave";
+var mnemonic = "mystery flower priority illegal motion weasel thunder ecology deer quit appear hungry";

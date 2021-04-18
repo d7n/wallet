@@ -1,1 +1,1 @@
-var mnemonic = "game mad mention list sphere rival crouch cushion shy gain boring mountain";
+var mnemonic = "present regret erosion gravity bachelor damage oxygen never document ketchup vessel whale";

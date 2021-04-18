@@ -1,1 +1,1 @@
-var mnemonic = "bring winter kind display toward helmet shield panda drill solar region tail";
+var mnemonic = "diet pledge repeat poet clump increase project kite disease run video indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "crack shift bamboo problem invest region involve bar outer argue witness reduce";
+var mnemonic = "squeeze artist suffer style upset rescue banner feed sand scene dream stable";

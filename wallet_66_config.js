@@ -1,1 +1,1 @@
-var mnemonic = "order dash slim fine during erupt author sentence paddle nest scrap never";
+var mnemonic = "defense prison grace voyage island outer fade grit invite six excuse bench";

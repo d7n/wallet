@@ -1,1 +1,1 @@
-var mnemonic = "absent light select void gun balcony undo lend knife case shiver spoil";
+var mnemonic = "combine tide benefit normal amused squirrel law derive tenant ladder agent frequent";

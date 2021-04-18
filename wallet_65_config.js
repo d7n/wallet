@@ -1,1 +1,1 @@
-var mnemonic = "valve memory crater modify polar drip raven either right jeans gun column";
+var mnemonic = "awkward kiwi favorite toy culture coral isolate similar impact fish photo current";

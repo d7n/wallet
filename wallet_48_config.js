@@ -1,1 +1,1 @@
-var mnemonic = "album month rich reunion castle square outer equal false steel boat hunt";
+var mnemonic = "faint swamp cruise make bean use lemon area survey boost quiz rookie";

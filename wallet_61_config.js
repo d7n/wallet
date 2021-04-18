@@ -1,1 +1,1 @@
-var mnemonic = "olympic antique occur depth barrel trade sound roof burst bunker winner fine";
+var mnemonic = "limit smooth review remember speed wash danger second print speak peanut athlete";

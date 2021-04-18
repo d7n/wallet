@@ -1,1 +1,1 @@
-var mnemonic = "coin trim pride shaft ordinary when involve grief wreck expand social travel";
+var mnemonic = "arm kitchen dress purse ceiling ladder card paper total practice fox paddle";

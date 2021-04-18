@@ -1,1 +1,1 @@
-var mnemonic = "million dolphin song timber regular volume fog flower robot produce unique siege";
+var mnemonic = "oxygen gospel daring blame reveal section trim kick inherit leisure erupt woman";

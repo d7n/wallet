@@ -1,1 +1,1 @@
-var mnemonic = "feel toward item ride anger fire lucky ribbon hurt brush render media";
+var mnemonic = "immune pet toast magic team piece right hip space goose betray input";

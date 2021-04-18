@@ -1,1 +1,1 @@
-var mnemonic = "consider spider sure inch beauty spice split goddess you pottery next tip";
+var mnemonic = "orbit gym daughter region toss auto aware umbrella pig jacket sing taste";

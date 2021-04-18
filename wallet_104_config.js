@@ -1,1 +1,1 @@
-var mnemonic = "inherit tunnel wall pride first stable attack candy novel craft salad caution";
+var mnemonic = "place knock february cute trouble weekend swim meadow pole capital culture disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote camera visa gap office chest bridge easy help book lesson rookie";
+var mnemonic = "siren much bar trial supply drop summer please whip swim squirrel cradle";

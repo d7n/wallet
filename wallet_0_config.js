@@ -1,1 +1,1 @@
-var mnemonic = "immune crush lecture title fog gap fetch neck buffalo cactus color unveil";
+var mnemonic = "family piece lend because upon jelly absorb grocery excess antenna wet account";

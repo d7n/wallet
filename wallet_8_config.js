@@ -1,1 +1,1 @@
-var mnemonic = "heavy verify shop float excite above aerobic sun faith render when paddle";
+var mnemonic = "foster police endorse fantasy next segment describe shoulder luxury crunch detail possible";

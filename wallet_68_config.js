@@ -1,1 +1,1 @@
-var mnemonic = "original guilt camp tortoise chunk bulk trim scatter price hand alter sun";
+var mnemonic = "view sphere october escape average creek blush differ bronze tilt lion since";

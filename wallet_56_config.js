@@ -1,1 +1,1 @@
-var mnemonic = "chaos agree assault alone plug fetch dynamic current tiger second share jump";
+var mnemonic = "this prison rabbit sail drastic yellow tattoo risk business relief cement shiver";

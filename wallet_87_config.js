@@ -1,1 +1,1 @@
-var mnemonic = "artist twin trap hurt fantasy clap flock error enrich ugly repeat universe";
+var mnemonic = "main menu team sphere inch rapid menu harbor fine mule link tent";

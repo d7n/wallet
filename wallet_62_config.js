@@ -1,1 +1,1 @@
-var mnemonic = "arrow pizza media glove apple clever palace vault frequent fix grant medal";
+var mnemonic = "symptom situate own bread write hip mule mirror equip senior unaware fire";

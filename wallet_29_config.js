@@ -1,1 +1,1 @@
-var mnemonic = "clever century human question smart welcome disagree usage first canyon lazy stay";
+var mnemonic = "ski confirm dash session venture recycle frame mask size sense gadget tiny";

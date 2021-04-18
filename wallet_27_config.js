@@ -1,1 +1,1 @@
-var mnemonic = "blur pencil unaware brush bread brown dad process soul loop reflect battle";
+var mnemonic = "water neck turtle token oil original spin lumber decorate castle silent rifle";

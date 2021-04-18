@@ -1,1 +1,1 @@
-var mnemonic = "teach cost crane amount waste wash robust woman joy addict old switch";
+var mnemonic = "fork avoid add crowd era state require fan impact elder distance melody";

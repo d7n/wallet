@@ -1,1 +1,1 @@
-var mnemonic = "bless despair what taste marble move squeeze error gauge news window apology";
+var mnemonic = "plug rookie trumpet hurry evil grow leader demise witness safe output brand";

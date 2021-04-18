@@ -1,1 +1,1 @@
-var mnemonic = "dose west follow rule system unusual design load close certain media cinnamon";
+var mnemonic = "happy wave hybrid rotate ecology blade banana bird blur core gauge hope";

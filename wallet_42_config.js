@@ -1,1 +1,1 @@
-var mnemonic = "cabbage warfare oval edge syrup degree dose peace sorry cable net fold";
+var mnemonic = "invite drift forget protect board shiver lunch family quantum around joy citizen";

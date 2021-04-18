@@ -1,1 +1,1 @@
-var mnemonic = "leopard plate derive neutral never rose antenna loan toy oak worry where";
+var mnemonic = "carpet input strong loud keep pulp eight glad blur either sure essay";

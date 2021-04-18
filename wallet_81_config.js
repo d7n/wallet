@@ -1,1 +1,1 @@
-var mnemonic = "auto jacket liar galaxy top two prize soft gaze phone other attract";
+var mnemonic = "will good maze pride radar beef acid maximum twelve alone frown stem";

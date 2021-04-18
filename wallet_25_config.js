@@ -1,1 +1,1 @@
-var mnemonic = "airport chase scissors peanut treat cage maximum bounce cactus never boost tone";
+var mnemonic = "person sort shrug upgrade shed aware civil eagle vital rice sustain hat";

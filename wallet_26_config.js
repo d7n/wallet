@@ -1,1 +1,1 @@
-var mnemonic = "winner unknown silver whip jealous illness half spoon input load already intact";
+var mnemonic = "tip mosquito water adjust anxiety glass shallow chuckle priority lawn patient zoo";

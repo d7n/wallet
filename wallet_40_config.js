@@ -1,1 +1,1 @@
-var mnemonic = "prevent trigger employ sunny grab road indoor car unaware focus element almost";
+var mnemonic = "orphan chat toast flush law gas assist canvas approve domain puppy detail";

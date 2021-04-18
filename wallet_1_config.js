@@ -1,1 +1,1 @@
-var mnemonic = "convince scene prosper knife glad stomach post choose cover gadget hurdle screen";
+var mnemonic = "scrap never lens cloth rough defense carbon deer marble wash check innocent";

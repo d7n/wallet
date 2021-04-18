@@ -1,1 +1,1 @@
-var mnemonic = "dragon bomb erosion stereo organ supreme quiz rate mesh where major hover";
+var mnemonic = "between extend cannon coach infant jealous thing upset crack million wire dinosaur";

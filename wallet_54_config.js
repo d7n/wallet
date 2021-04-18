@@ -1,1 +1,1 @@
-var mnemonic = "body proud organ fancy early transfer toss wait prison toe clerk miracle";
+var mnemonic = "cruise elder mobile win coast method just salute crouch eight pen cheap";

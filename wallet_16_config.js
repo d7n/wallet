@@ -1,1 +1,1 @@
-var mnemonic = "awkward shoulder change auction exercise already today kingdom glue lonely enact flash";
+var mnemonic = "pole spare chief soul slight flock attract update slight open peanut law";

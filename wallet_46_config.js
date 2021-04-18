@@ -1,1 +1,1 @@
-var mnemonic = "palm jewel enroll feel glimpse ginger road valley witness bronze undo lazy";
+var mnemonic = "solid dinosaur view coil inform deputy tooth web thank undo such midnight";

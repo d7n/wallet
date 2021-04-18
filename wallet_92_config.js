@@ -1,1 +1,1 @@
-var mnemonic = "trophy exclude pistol girl chief struggle lazy awful orchard daughter rose isolate";
+var mnemonic = "disagree expect fox crater lawn fix fiction rocket teach ocean deposit idea";

@@ -1,1 +1,1 @@
-var mnemonic = "august advance balance exercise width remain suggest hedgehog assist small news mom";
+var mnemonic = "boil ivory nature guilt rather kidney term primary clerk until chalk pact";

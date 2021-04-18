@@ -1,1 +1,1 @@
-var mnemonic = "palm involve pond camera credit catch photo clip basket heart ripple excess";
+var mnemonic = "slide inquiry dirt improve copy leg double accident much easy million crazy";

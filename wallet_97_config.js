@@ -1,1 +1,1 @@
-var mnemonic = "bone normal ghost shy trash garage shell round industry include brown ribbon";
+var mnemonic = "dwarf tobacco moral fat lottery patient balcony noble ghost oyster blade balance";

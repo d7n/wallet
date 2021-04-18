@@ -1,1 +1,1 @@
-var mnemonic = "foster chest nest depth rally law aspect reopen buzz midnight stamp gorilla";
+var mnemonic = "pioneer month betray over raw cake piano deposit glare spirit worry aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "put deputy reason deer ride orange shine armed ghost alone tackle iron";
+var mnemonic = "tortoise clay second false permit other gallery shoulder plate chimney busy endorse";

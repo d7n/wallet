@@ -1,1 +1,1 @@
-var mnemonic = "behind iron design rough vague heart stomach critic cheese neither memory earth";
+var mnemonic = "actor kite life team cup wave expose other upon arm gravity scale";

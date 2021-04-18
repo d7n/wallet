@@ -1,1 +1,1 @@
-var mnemonic = "genre snow push off shine maze anger machine adult rude brick poverty";
+var mnemonic = "invite prison type debris online eye bacon addict oil noble advance quarter";

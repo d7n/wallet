@@ -1,1 +1,1 @@
-var mnemonic = "mosquito style wagon forest injury unknown income kingdom clay tray tower inch";
+var mnemonic = "video attack manual smart foster crane kangaroo husband educate idea old heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "inch alley country rose calm vague fence legend track three elder deposit";
+var mnemonic = "silly click steak invest seek resource oval city gap helmet scorpion kiwi";

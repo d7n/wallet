@@ -1,1 +1,1 @@
-var mnemonic = "arrange shield exile nurse guess polar orchard scissors black nephew stock waste";
+var mnemonic = "tonight rare dismiss picture tornado peasant memory usage rubber clap mercy produce";

@@ -1,1 +1,1 @@
-var mnemonic = "upset burst fortune warm dust twelve life advance miss party exit snake";
+var mnemonic = "wool toward where flavor device tragic gold novel quality giggle hundred monkey";

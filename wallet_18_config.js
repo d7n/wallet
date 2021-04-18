@@ -1,1 +1,1 @@
-var mnemonic = "old shed isolate sister square able toast invest garden attack laundry faculty";
+var mnemonic = "vintage hair need near cloud wrist suit hockey sail wise kitchen review";

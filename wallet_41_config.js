@@ -1,1 +1,1 @@
-var mnemonic = "arena gravity latin settle lazy wedding wasp wrist pact payment jar renew";
+var mnemonic = "eight huge install together letter vast seek glide naive pony receive open";

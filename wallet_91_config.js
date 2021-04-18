@@ -1,1 +1,1 @@
-var mnemonic = "maid glance impulse shock impact fault census home model yard document where";
+var mnemonic = "rifle human reduce solar mango monster female cluster duck flat simple version";

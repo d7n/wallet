@@ -1,1 +1,1 @@
-var mnemonic = "enrich foster biology punch simple other start detect old crystal fever owner";
+var mnemonic = "require expose often eager eye twist gospel auto hockey owner coffee deal";

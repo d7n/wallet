@@ -1,1 +1,1 @@
-var mnemonic = "spell key decade alone grocery whip want sport power nut rifle siege";
+var mnemonic = "zoo grass nominee antique vapor sample struggle gravity frown abandon hard zero";

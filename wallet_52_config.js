@@ -1,1 +1,1 @@
-var mnemonic = "giggle grocery wagon license eternal tired unfair thrive entire tell erupt labor";
+var mnemonic = "mistake sign saddle price hour sell toddler soda wide humor share tilt";

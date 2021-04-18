@@ -1,1 +1,1 @@
-var mnemonic = "outer core awful taste world ability area turtle chunk ranch analyst grit";
+var mnemonic = "unveil taste divert aisle enhance pitch response capital sausage blouse author peace";

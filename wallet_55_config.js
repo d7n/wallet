@@ -1,1 +1,1 @@
-var mnemonic = "rude green illegal wild bike oval young armed hundred acid display genre";
+var mnemonic = "scout drift chunk display effort soft boost fade alcohol hen come point";

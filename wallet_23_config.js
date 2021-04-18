@@ -1,1 +1,1 @@
-var mnemonic = "torch tonight inject rather clutch riot velvet music divert avoid poverty pioneer";
+var mnemonic = "age pill since clinic weekend ritual chapter close base host option swarm";

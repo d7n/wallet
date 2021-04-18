@@ -1,1 +1,1 @@
-var mnemonic = "traffic output sail edit faith salute keep then car tortoise alert south";
+var mnemonic = "alcohol bundle follow flock youth mystery captain mule clean rack advice present";

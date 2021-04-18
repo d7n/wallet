@@ -1,1 +1,1 @@
-var mnemonic = "extra mail blush alpha adult now knee smoke arrive fee cotton sweet";
+var mnemonic = "prefer crouch eager alter exhaust intact kitchen law parade pilot coral grab";

@@ -1,1 +1,1 @@
-var mnemonic = "example illness jealous height parent despair wage section fall glow bar spin";
+var mnemonic = "jealous person govern nut slush awake twice okay excess whisper diet mad";

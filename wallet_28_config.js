@@ -1,1 +1,1 @@
-var mnemonic = "dismiss kite trash puzzle insect cover term donate two coffee loud region";
+var mnemonic = "twist august laundry because gaze bulk swift exhaust twelve position garlic night";

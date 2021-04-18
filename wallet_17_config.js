@@ -1,1 +1,1 @@
-var mnemonic = "valve dish method permit capital mind mom half siren repeat grocery exist";
+var mnemonic = "swift climb hunt husband olive dumb aerobic test crew brand frown crisp";
