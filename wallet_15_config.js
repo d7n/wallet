@@ -1,1 +1,1 @@
-var mnemonic = "orphan empty actual fiction one flame cruel future message fix lion wonder";
+var mnemonic = "bacon anger balcony bind decline prepare accuse dice drill cupboard season fluid";

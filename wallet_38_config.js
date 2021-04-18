@@ -1,1 +1,1 @@
-var mnemonic = "february verb syrup tomorrow chicken join chalk frown wrap bring talk camp";
+var mnemonic = "online tragic lyrics fortune elegant board shoe table alter flag husband smooth";

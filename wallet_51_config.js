@@ -1,1 +1,1 @@
-var mnemonic = "ignore castle rookie faculty nice discover tumble check render security parrot maximum";
+var mnemonic = "wonder chair later primary scheme never shoulder concert fever skull question object";

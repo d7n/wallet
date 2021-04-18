@@ -1,1 +1,1 @@
-var mnemonic = "brand alley age once burst salmon cargo grain evoke merit arch lady";
+var mnemonic = "range table library provide smooth latin foot debate regret bottom guitar cave";

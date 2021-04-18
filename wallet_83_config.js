@@ -1,1 +1,1 @@
-var mnemonic = "flag tiny lounge lyrics unfair start wisdom other normal bird act father";
+var mnemonic = "such fog fog mystery rude burden master chase matrix moral admit wear";

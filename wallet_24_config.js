@@ -1,1 +1,1 @@
-var mnemonic = "cluster plunge appear liar core defy rent ordinary course pony daughter force";
+var mnemonic = "retire leave allow tip type crop skin average school clever also misery";

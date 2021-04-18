@@ -1,1 +1,1 @@
-var mnemonic = "runway banana climb can alter valid side flavor edit aisle open pulse";
+var mnemonic = "master current laundry ribbon group follow napkin trial company cruel code ripple";

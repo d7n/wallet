@@ -1,1 +1,1 @@
-var mnemonic = "drive vivid damage balcony laundry thing lion exhibit assault hamster pole nothing";
+var mnemonic = "corn head develop clutch man captain hold armor amused unhappy chief pupil";

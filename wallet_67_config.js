@@ -1,1 +1,1 @@
-var mnemonic = "wood wrap order analyst call narrow trap elevator extend network lottery equal";
+var mnemonic = "lion dance situate audit wall okay jar tank dish vote arm absent";

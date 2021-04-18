@@ -1,1 +1,1 @@
-var mnemonic = "grape notable pulse barely inch effort narrow trumpet sock appear dial adapt";
+var mnemonic = "what punch duty live puppy clay shove spike express frequent dice okay";

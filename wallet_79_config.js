@@ -1,1 +1,1 @@
-var mnemonic = "coast mother never shrimp dust news session alcohol record gauge gloom body";
+var mnemonic = "settle kick people sweet royal forward simple aware gather unaware bright penalty";

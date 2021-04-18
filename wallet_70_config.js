@@ -1,1 +1,1 @@
-var mnemonic = "bus group roof milk high ugly offer weird episode thumb canvas subway";
+var mnemonic = "emotion food suit purpose fun mammal bitter vast gym pelican shine okay";

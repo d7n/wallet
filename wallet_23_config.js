@@ -1,1 +1,1 @@
-var mnemonic = "shoot ritual banner crazy version act need divorce artist below edit sponsor";
+var mnemonic = "control hill melt note brisk fence great grocery furnace doll upper regret";

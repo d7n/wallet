@@ -1,1 +1,1 @@
-var mnemonic = "chunk address flush enhance draft toss label bullet census artist net ensure";
+var mnemonic = "industry unusual leg broccoli truly grocery carry luggage custom capable hollow laundry";

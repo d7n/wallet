@@ -1,1 +1,1 @@
-var mnemonic = "price enable connect license obvious custom license peanut over glue clutch rebuild";
+var mnemonic = "raw debate expand panel amused emerge lion direct myth truly peasant resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain update couch catch hill dinner around club twist humble start gravity";
+var mnemonic = "human maximum humor must antenna explain ordinary slender radio summer blast humble";

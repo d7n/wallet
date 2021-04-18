@@ -1,1 +1,1 @@
-var mnemonic = "outer drama kick party question aim chase series hip manual midnight category";
+var mnemonic = "tree poem miracle phone fix steel cycle casual slide target slam plunge";

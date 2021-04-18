@@ -1,1 +1,1 @@
-var mnemonic = "frost remember unlock siren initial escape tortoise hint month mule wheat process";
+var mnemonic = "pitch pretty shoe hurdle mercy monkey lion lend spray minute combine dust";

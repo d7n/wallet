@@ -1,1 +1,1 @@
-var mnemonic = "give direct ability runway universe person table buffalo already improve visual amazing";
+var mnemonic = "slide muffin cupboard crisp ceiling damage next index when silent vocal bachelor";

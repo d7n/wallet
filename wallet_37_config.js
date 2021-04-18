@@ -1,1 +1,1 @@
-var mnemonic = "tape scorpion wagon chuckle people potato acid say radio rich perfect panel";
+var mnemonic = "parent rebel road genius three recipe venue lumber adjust still barely document";

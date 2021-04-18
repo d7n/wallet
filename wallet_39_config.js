@@ -1,1 +1,1 @@
-var mnemonic = "rival since miracle forest cup fade table canal reopen oblige mule sugar";
+var mnemonic = "lumber paddle hover news better desert neck liquid rice napkin bone unaware";

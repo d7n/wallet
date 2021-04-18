@@ -1,1 +1,1 @@
-var mnemonic = "impact define believe female shy annual donate exhaust resemble zoo duck fiction";
+var mnemonic = "cruel practice stadium popular supreme funny space alien income focus cream course";

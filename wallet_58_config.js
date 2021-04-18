@@ -1,1 +1,1 @@
-var mnemonic = "blade industry foil lonely private cup other insane inner prosper chase finish";
+var mnemonic = "hand steel foster food paddle polar seek long clap shove bench kingdom";

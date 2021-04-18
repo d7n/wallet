@@ -1,1 +1,1 @@
-var mnemonic = "author ramp flip later jazz surge grow upon height spice exhaust trust";
+var mnemonic = "glass alter noodle pet share soup puppy vacant boy index adult illegal";

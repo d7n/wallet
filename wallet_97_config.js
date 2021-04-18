@@ -1,1 +1,1 @@
-var mnemonic = "female drive dance guard critic diesel wrestle impact reveal whip connect certain";
+var mnemonic = "limit hen deliver leg badge spring report punch army since pigeon wide";

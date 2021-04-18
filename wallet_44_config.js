@@ -1,1 +1,1 @@
-var mnemonic = "palm phrase silk snack surge noble advance lava flash drip trap damp";
+var mnemonic = "together photo demand tourist beyond critic drive scare insane split original reduce";

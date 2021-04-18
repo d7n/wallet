@@ -1,1 +1,1 @@
-var mnemonic = "found rubber volcano august mandate chase tortoise always happy rural ghost impact";
+var mnemonic = "tragic language core reason prize toast excess cliff boss cover luxury rally";

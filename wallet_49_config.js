@@ -1,1 +1,1 @@
-var mnemonic = "twist base brass drill height melt love effort identify surround orient mad";
+var mnemonic = "convince zoo kiwi timber remove lazy few cake drama circle claim anger";

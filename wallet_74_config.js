@@ -1,1 +1,1 @@
-var mnemonic = "youth index cloth mandate corn art this voyage sign smile hospital man";
+var mnemonic = "maid foam rate surround violin allow assist abuse lottery stool myself quality";

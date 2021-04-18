@@ -1,1 +1,1 @@
-var mnemonic = "border convince strategy noble join bread powder stomach thought south park dismiss";
+var mnemonic = "monitor alert keep announce viable group unknown great juice found bag increase";

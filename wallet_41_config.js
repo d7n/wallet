@@ -1,1 +1,1 @@
-var mnemonic = "useful vendor guide black gentle garden opera day lunch kick fog spoil";
+var mnemonic = "credit waste velvet tiny clarify ramp benefit slim add song maid fog";

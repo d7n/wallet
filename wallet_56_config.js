@@ -1,1 +1,1 @@
-var mnemonic = "much learn holiday squeeze obtain liquid sure moment congress cloth dolphin nothing";
+var mnemonic = "token rain baby cat morning man capital wealth icon cupboard demise shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "forward expand renew ski find grain mind chest comfort dad story primary";
+var mnemonic = "direct picnic belt planet loop saddle wedding burger blame cement lava bind";

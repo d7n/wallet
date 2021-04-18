@@ -1,1 +1,1 @@
-var mnemonic = "cereal behave logic organ live expose happy rabbit table sad crater thumb";
+var mnemonic = "park table east spirit grocery upper napkin bicycle bomb orange found neither";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious make sad artist impose excuse hollow magnet panel outer bulk ugly";
+var mnemonic = "eternal fan olympic ramp current limb grow pattern bounce bone city salad";

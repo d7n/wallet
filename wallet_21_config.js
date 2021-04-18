@@ -1,1 +1,1 @@
-var mnemonic = "ahead dash puppy rack evoke cannon there decline dragon hurt enough march";
+var mnemonic = "say venture symbol visual palm luxury ramp utility fat survey valve wrist";

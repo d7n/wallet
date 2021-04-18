@@ -1,1 +1,1 @@
-var mnemonic = "city friend clog expose lend sausage oven digital program window diet sell";
+var mnemonic = "brief text apart arctic canoe convince oxygen error zebra inflict wheat later";

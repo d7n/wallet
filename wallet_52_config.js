@@ -1,1 +1,1 @@
-var mnemonic = "over beauty clever nothing extend filter ticket trip bachelor anxiety ketchup much";
+var mnemonic = "concert shock ginger faculty hospital lemon fox gown trim actress coyote polar";

@@ -1,1 +1,1 @@
-var mnemonic = "top property surge raise lava unfold shoe slide abandon oak patient sunny";
+var mnemonic = "measure boost endorse rail frequent dawn fury wing lobster key praise sun";

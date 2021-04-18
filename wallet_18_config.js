@@ -1,1 +1,1 @@
-var mnemonic = "asthma exotic mandate load comic swallow blast reflect enlist shield fun truth";
+var mnemonic = "vocal neglect grief claim palace brave bone vendor float mail stove cargo";

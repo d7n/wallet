@@ -1,1 +1,1 @@
-var mnemonic = "traffic pulse two tray column park stove depart awkward pulse resource maid";
+var mnemonic = "wolf citizen innocent under raccoon spring blue execute decade cage theory memory";

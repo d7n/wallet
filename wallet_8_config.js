@@ -1,1 +1,1 @@
-var mnemonic = "script leopard spirit clean lion great alter bargain response casino salad intact";
+var mnemonic = "fantasy small deliver drift fetch almost erode dog salt anxiety desert build";

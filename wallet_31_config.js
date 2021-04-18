@@ -1,1 +1,1 @@
-var mnemonic = "celery limb day filter trial exhaust invest toddler century journey border fall";
+var mnemonic = "right immune faculty found gallery decide future custom shiver fish skate bring";

@@ -1,1 +1,1 @@
-var mnemonic = "economy casual album confirm deliver east flame minute rotate surround artist resemble";
+var mnemonic = "cushion marine horn embody soap violin ready run file trouble analyst undo";

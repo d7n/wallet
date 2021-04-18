@@ -1,1 +1,1 @@
-var mnemonic = "replace poet skate undo wasp ten labor payment ranch stick ill crystal";
+var mnemonic = "jump situate trend napkin setup divide upset wise glare solve logic tank";

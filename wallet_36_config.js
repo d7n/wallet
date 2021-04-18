@@ -1,1 +1,1 @@
-var mnemonic = "state hope puppy hold cry steak pool candy genre derive festival almost";
+var mnemonic = "unit theory art birth state else cheese undo correct echo have auto";

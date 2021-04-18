@@ -1,1 +1,1 @@
-var mnemonic = "giggle pretty curious accident sauce farm prefer spy outside pledge decline current";
+var mnemonic = "provide turkey method soul hour tree oven search sadness climb domain maid";

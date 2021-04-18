@@ -1,1 +1,1 @@
-var mnemonic = "sad bracket tired rural blanket leave curve slogan myself venue arena cash";
+var mnemonic = "undo vast crystal captain unfold inner cabin steel cricket rocket manage office";

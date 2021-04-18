@@ -1,1 +1,1 @@
-var mnemonic = "rhythm used enforce vessel tunnel museum symbol skirt furnace labor loyal team";
+var mnemonic = "actual joke afraid flush skirt right inform output evil expose labor worry";

@@ -1,1 +1,1 @@
-var mnemonic = "update domain coil offer truly intact side purse upgrade primary under knee";
+var mnemonic = "this van mirror warm again neutral loan when tree next acid blur";

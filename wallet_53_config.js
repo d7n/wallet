@@ -1,1 +1,1 @@
-var mnemonic = "act tomato echo wear survey will bunker icon special require gown suspect";
+var mnemonic = "penalty small brass major use among hospital exit ski economy apple weekend";

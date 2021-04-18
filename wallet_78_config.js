@@ -1,1 +1,1 @@
-var mnemonic = "figure session ahead nest immune umbrella across lemon wedding wage digital rescue";
+var mnemonic = "collect symptom mail task easy milk acoustic flame boy faith traffic escape";

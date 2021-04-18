@@ -1,1 +1,1 @@
-var mnemonic = "belt copper family toddler seminar device great slot wrist barely soup poet";
+var mnemonic = "enemy right syrup dust protect stamp awful distance unlock bid effort assault";

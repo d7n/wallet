@@ -1,1 +1,1 @@
-var mnemonic = "car scheme wheel razor brown disorder initial snow level total hollow shy";
+var mnemonic = "observe camp artefact limb mystery ship say drive swarm welcome armed truly";

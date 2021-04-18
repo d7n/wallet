@@ -1,1 +1,1 @@
-var mnemonic = "print lottery output cancel food icon vote father they slice attend wonder";
+var mnemonic = "sight path dirt umbrella noise segment library mixture grid lazy priority evil";

@@ -1,1 +1,1 @@
-var mnemonic = "south cycle feed rely addict market night weird man broken throw thing";
+var mnemonic = "broken cattle frost solve media awesome supply again render laugh include gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "snake gadget flush wreck craft blue ramp leisure finger ranch sea remove";
+var mnemonic = "soldier custom cricket bread awesome rose waste start acquire home skull gasp";

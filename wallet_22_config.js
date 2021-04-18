@@ -1,1 +1,1 @@
-var mnemonic = "since library chaos avocado shoulder approve flash couch lyrics stamp drama dice";
+var mnemonic = "aerobic camera notice before toss stereo salad list reduce devote rice soft";

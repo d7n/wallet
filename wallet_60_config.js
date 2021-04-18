@@ -1,1 +1,1 @@
-var mnemonic = "dutch security image lawsuit border bone license salmon dash youth quote borrow";
+var mnemonic = "view below between cat august fan hat crater street gasp discover blouse";

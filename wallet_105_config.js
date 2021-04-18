@@ -1,1 +1,1 @@
-var mnemonic = "machine soldier toss unhappy game edge sniff icon penalty cute online chase";
+var mnemonic = "notice mutual bean pelican world juice thunder put float expire wagon mechanic";

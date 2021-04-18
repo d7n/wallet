@@ -1,1 +1,1 @@
-var mnemonic = "basic nasty regret stool afraid layer wild message final soldier wolf congress";
+var mnemonic = "genius cruel game human pudding achieve observe word damage clown chat alarm";

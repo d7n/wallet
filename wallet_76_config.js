@@ -1,1 +1,1 @@
-var mnemonic = "truck senior frame miracle hat captain boring engine inmate enroll under wave";
+var mnemonic = "minute vocal charge man merge wash suggest dirt frozen various trap sight";

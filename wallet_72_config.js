@@ -1,1 +1,1 @@
-var mnemonic = "snake over dinner clock abandon chuckle coconut program float vessel build salute";
+var mnemonic = "slogan nut trip device onion menu doll cash glide eager truth reveal";

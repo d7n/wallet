@@ -1,1 +1,1 @@
-var mnemonic = "rubber parade unable arm baby man regret tomorrow now great ketchup obvious";
+var mnemonic = "below deposit power goddess curve arrow type royal bridge chaos object exist";

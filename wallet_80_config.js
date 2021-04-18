@@ -1,1 +1,1 @@
-var mnemonic = "width guide regret color unfair civil scan turtle bind electric save april";
+var mnemonic = "duck unfair shadow wire cannon fiscal marriage record obscure source faint moment";

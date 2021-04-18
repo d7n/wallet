@@ -1,1 +1,1 @@
-var mnemonic = "topple window category trap cattle brown shiver boss oil remain tomato flat";
+var mnemonic = "belt aspect buddy toss indoor sort relief globe gather thing finger struggle";

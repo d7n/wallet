@@ -1,1 +1,1 @@
-var mnemonic = "steel judge orbit kite release hat happy pluck apology maid tip kitchen";
+var mnemonic = "lawsuit coconut require rough bracket display auto crowd roof concert sponsor demand";

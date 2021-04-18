@@ -1,1 +1,1 @@
-var mnemonic = "marine aim author melody include business practice shock detect fade river happy";
+var mnemonic = "tongue adapt upgrade stove axis raccoon action kid life monkey pave effort";

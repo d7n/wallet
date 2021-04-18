@@ -1,1 +1,1 @@
-var mnemonic = "conduct task fashion rescue mixed mention skate solution fade emotion lend scout";
+var mnemonic = "solution change turkey lounge bring gorilla salt fiber october please height visual";

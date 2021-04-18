@@ -1,1 +1,1 @@
-var mnemonic = "near tenant tonight today easy own bone divorce promote father dumb north";
+var mnemonic = "poem obvious have retreat keep awkward whip abuse satisfy depart zone ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "moment craft mirror citizen mule fade merit word since escape olive web";
+var mnemonic = "mansion involve mercy cinnamon glad over model nominee ranch hair easily neck";

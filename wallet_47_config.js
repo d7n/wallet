@@ -1,1 +1,1 @@
-var mnemonic = "energy purity race laugh awkward approve pottery risk crisp buddy shoe relax";
+var mnemonic = "effort sweet praise define monitor bundle pencil gym kiwi two hazard unknown";

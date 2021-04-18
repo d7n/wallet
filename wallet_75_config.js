@@ -1,1 +1,1 @@
-var mnemonic = "canal announce anchor perfect age mosquito beyond lion tourist family saddle radar";
+var mnemonic = "inhale stuff knock elevator monitor basket omit grant laugh knife glow story";

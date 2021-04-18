@@ -1,1 +1,1 @@
-var mnemonic = "blue black into wrong pretty ramp fee absorb course speak wedding fit";
+var mnemonic = "essay number injury float beach elite hundred river coral animal rookie castle";

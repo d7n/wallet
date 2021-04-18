@@ -1,1 +1,1 @@
-var mnemonic = "dragon sudden robot chimney hedgehog smooth sorry acoustic robot live height damage";
+var mnemonic = "equip stick sail loud false worth retreat property frame mansion creek alter";

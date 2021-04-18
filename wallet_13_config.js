@@ -1,1 +1,1 @@
-var mnemonic = "account grit together enforce surge globe food zebra soldier hollow ranch hockey";
+var mnemonic = "venue reduce lawsuit buzz glove gold cash journey pave exit monitor goose";

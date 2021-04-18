@@ -1,1 +1,1 @@
-var mnemonic = "similar brick ecology side lift unfair monitor run soup toilet surround penalty";
+var mnemonic = "silver horn rebel another slim edge remember rival frost juice appear pair";

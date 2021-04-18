@@ -1,1 +1,1 @@
-var mnemonic = "kidney multiply often million joy impact damp coffee claw razor beyond scatter";
+var mnemonic = "tobacco slam book mask century witness near bread age hazard recall tragic";

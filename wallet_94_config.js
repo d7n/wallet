@@ -1,1 +1,1 @@
-var mnemonic = "connect evil above true universe diet minor jazz coil record lemon office";
+var mnemonic = "expect term goddess observe tip type shallow force net diet damage tooth";

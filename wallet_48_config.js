@@ -1,1 +1,1 @@
-var mnemonic = "winner trend never truck target enact swamp cricket spider chronic guitar embrace";
+var mnemonic = "tonight wash grass crop tobacco omit lab affair more seek impulse scheme";

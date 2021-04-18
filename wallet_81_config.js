@@ -1,1 +1,1 @@
-var mnemonic = "clown boost boring pioneer noodle win two apart bind uncover remain exhaust";
+var mnemonic = "minimum voyage grief grunt bread fault join sound obvious fluid orchard warrior";

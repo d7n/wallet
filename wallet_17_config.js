@@ -1,1 +1,1 @@
-var mnemonic = "fiction mother swing label casual sport seek oyster planet razor promote yellow";
+var mnemonic = "actor couch common chat soda comfort appear deputy disorder alley move pottery";
