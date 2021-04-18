@@ -1,1 +1,1 @@
-var mnemonic = "antenna basket prosper negative bind dune sock exotic clay harsh private select";
+var mnemonic = "glue monster scout scatter mixed kit shoulder meat wheel coffee come found";

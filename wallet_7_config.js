@@ -1,1 +1,1 @@
-var mnemonic = "mad animal stairs flavor copy addict belt camp patient welcome crush danger";
+var mnemonic = "pink problem fitness neutral frog client green erosion own dry scatter banana";

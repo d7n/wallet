@@ -1,1 +1,1 @@
-var mnemonic = "fence butter trick want cram album auto robust gesture love dream employ";
+var mnemonic = "divide chuckle buyer world supreme youth alcohol vanish just simple delay axis";

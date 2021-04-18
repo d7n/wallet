@@ -1,1 +1,1 @@
-var mnemonic = "volcano vault perfect make left crumble exhibit sand liquid tomato dress twice";
+var mnemonic = "ticket artist swear cereal spawn phone world neutral clown capital vivid museum";

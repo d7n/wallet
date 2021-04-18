@@ -1,1 +1,1 @@
-var mnemonic = "soft casual tag pelican old member inquiry jungle train fancy sweet glass";
+var mnemonic = "wing mechanic swamp access private supply muffin moon another ivory report there";

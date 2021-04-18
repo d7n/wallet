@@ -1,1 +1,1 @@
-var mnemonic = "trash spend student safe radar lesson spend provide enrich antique forget board";
+var mnemonic = "energy amused leg main analyst angle movie candy clay jacket try wrong";

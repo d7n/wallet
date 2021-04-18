@@ -1,1 +1,1 @@
-var mnemonic = "elbow minimum lazy title random mean change door yellow animal figure digital";
+var mnemonic = "claw cable secret fragile future tongue airport slab maid unfair inform bus";

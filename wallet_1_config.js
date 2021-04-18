@@ -1,1 +1,1 @@
-var mnemonic = "harvest solution kitten tissue scrub taste kiwi very stove balance story boy";
+var mnemonic = "scheme day hole pill kitten salon upset rate merry claim brave borrow";

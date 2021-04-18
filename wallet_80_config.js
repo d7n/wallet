@@ -1,1 +1,1 @@
-var mnemonic = "pull february swing kitchen camera fault tag hybrid useless custom swallow tunnel";
+var mnemonic = "design connect trophy analyst cement deposit tiny cost exclude result foot enter";

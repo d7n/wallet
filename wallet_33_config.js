@@ -1,1 +1,1 @@
-var mnemonic = "inject olive frog permit wide army link prize appear merry library kiss";
+var mnemonic = "cereal away between inmate cycle oak enlist hub lazy mesh have tennis";

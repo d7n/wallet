@@ -1,1 +1,1 @@
-var mnemonic = "again frame wild very robot worry tag clarify hen write toddler fix";
+var mnemonic = "urban fantasy sea any armed color scheme switch bar west option cave";

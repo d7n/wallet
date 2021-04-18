@@ -1,1 +1,1 @@
-var mnemonic = "oak scheme earth cloth version lottery kind jump tube cloth wheat foil";
+var mnemonic = "boil there proud scorpion talent coconut still online clean first matter ordinary";

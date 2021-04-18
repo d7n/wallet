@@ -1,1 +1,1 @@
-var mnemonic = "shoulder oyster raise culture siren valid portion mouse bulk glass party bulk";
+var mnemonic = "warrior test pass village anxiety faith number shoot theme run hollow metal";

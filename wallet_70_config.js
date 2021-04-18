@@ -1,1 +1,1 @@
-var mnemonic = "monitor logic small win drift fit lesson rate episode dress merit patch";
+var mnemonic = "infant property east waste flee latin mandate bridge tiny cargo expire stairs";

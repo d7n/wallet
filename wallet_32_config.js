@@ -1,1 +1,1 @@
-var mnemonic = "hidden evolve opinion assault defy mobile soon great curve case rack praise";
+var mnemonic = "harsh artwork inhale asthma square cattle staff slogan cattle human pulse film";

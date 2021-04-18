@@ -1,1 +1,1 @@
-var mnemonic = "someone question chaos fit harbor vivid work repair error vast skirt equal";
+var mnemonic = "click strong wage grab ball deposit dirt item garbage number hurt stool";

@@ -1,1 +1,1 @@
-var mnemonic = "source leg spray oblige fix cigar tenant fun ill wise april day";
+var mnemonic = "short story torch veteran mystery hat link world large hospital outdoor text";

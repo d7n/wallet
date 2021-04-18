@@ -1,1 +1,1 @@
-var mnemonic = "release pupil main prepare spike wonder grief follow main wire mansion hungry";
+var mnemonic = "drip artefact permit mother story vital between work moon unaware force matrix";

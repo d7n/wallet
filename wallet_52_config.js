@@ -1,1 +1,1 @@
-var mnemonic = "image script calm fresh fever weird thank reduce valley core solution found";
+var mnemonic = "surprise disease gospel staff patch ring crop tuition vacuum exile moral sample";

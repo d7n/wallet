@@ -1,1 +1,1 @@
-var mnemonic = "bulk true stone tuna fossil crystal fetch cruel cliff palace glad blossom";
+var mnemonic = "grape video ritual slide gravity siege iron zero drip solar supreme angry";

@@ -1,1 +1,1 @@
-var mnemonic = "brother blouse bitter ensure outside demise misery banana custom rule rebuild erupt";
+var mnemonic = "nurse canal random crawl left bicycle crawl deliver coach spray since list";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma time jewel layer zebra bench allow term subject dice employ rely";
+var mnemonic = "lift ceiling badge unveil camera gate remove shine unusual hawk adjust decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "apple prosper now tomato sibling element spot around crawl hero feature elephant";
+var mnemonic = "pact happy quality citizen loan spike often kitchen witness voice behave enhance";

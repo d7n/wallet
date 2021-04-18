@@ -1,1 +1,1 @@
-var mnemonic = "weasel soda tape throw note flush siege aerobic kit split text grain";
+var mnemonic = "chicken improve sort million hub pepper bleak now account ribbon tumble unveil";

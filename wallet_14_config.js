@@ -1,1 +1,1 @@
-var mnemonic = "hurry swift print grain any carry embrace problem swap category state april";
+var mnemonic = "actress cloth kite buddy medal cube physical seed answer draw protect excess";

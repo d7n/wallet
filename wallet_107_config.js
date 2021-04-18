@@ -1,1 +1,1 @@
-var mnemonic = "crisp limit wreck debris small violin motion exchange cruise ski corn frozen";
+var mnemonic = "vanish fault kick exact seven abandon little oval beauty save shadow claim";

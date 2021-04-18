@@ -1,1 +1,1 @@
-var mnemonic = "cushion what service stand prosper dinner idea fold viable cigar then dog";
+var mnemonic = "divide tell column copper image indoor frog nature sunset surround motor copy";

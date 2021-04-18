@@ -1,1 +1,1 @@
-var mnemonic = "immense place figure invite sugar april retire urban lottery dry man plug";
+var mnemonic = "crisp title penalty uphold umbrella add opinion grocery sample phone van nut";

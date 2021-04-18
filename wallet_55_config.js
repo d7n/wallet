@@ -1,1 +1,1 @@
-var mnemonic = "autumn rubber return sure obtain sentence voice until draft replace mixed betray";
+var mnemonic = "teach resist wet bone sign cactus foil hip hammer basic solar bulb";

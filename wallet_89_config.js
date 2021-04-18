@@ -1,1 +1,1 @@
-var mnemonic = "accident rabbit water pony copy elegant deer use bright truly blur stereo";
+var mnemonic = "symptom office lend local muffin combine myself pattern enjoy aisle repair top";

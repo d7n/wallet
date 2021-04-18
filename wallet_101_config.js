@@ -1,1 +1,1 @@
-var mnemonic = "curve cushion sing tilt laugh obvious sting fun family work frown two";
+var mnemonic = "hawk air panther tool weather height subject gold total insane sing race";

@@ -1,1 +1,1 @@
-var mnemonic = "hill body birth fashion more arrest sting chronic pottery arrive test bonus";
+var mnemonic = "video cereal kangaroo add lesson winner turkey faint powder oppose car belt";

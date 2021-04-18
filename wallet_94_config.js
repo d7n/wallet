@@ -1,1 +1,1 @@
-var mnemonic = "park initial antenna super desk slow magic scrub weekend daring pond plunge";
+var mnemonic = "pattern polar dust swim lonely spoon code novel audit amateur pledge digital";

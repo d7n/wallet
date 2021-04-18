@@ -1,1 +1,1 @@
-var mnemonic = "spy idle glow dress avoid soap much phrase vehicle brass menu clap";
+var mnemonic = "medal bargain amused produce bitter frequent tail model gown garden sun stool";

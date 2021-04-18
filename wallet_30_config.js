@@ -1,1 +1,1 @@
-var mnemonic = "flower average system general satisfy tool result gun member library honey dish";
+var mnemonic = "enlist step husband twenty pill calm once smile elder burst panel vendor";

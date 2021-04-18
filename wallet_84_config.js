@@ -1,1 +1,1 @@
-var mnemonic = "claim march receive betray pave beach initial zoo phrase accident story chronic";
+var mnemonic = "give fetch permit cover total funny galaxy addict approve school shoe treat";

@@ -1,1 +1,1 @@
-var mnemonic = "limb repeat elder unveil talent fantasy goat evolve rival elegant medal unaware";
+var mnemonic = "three huge early staff alter vivid sadness label narrow away note salon";

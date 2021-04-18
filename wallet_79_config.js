@@ -1,1 +1,1 @@
-var mnemonic = "gesture galaxy random second base wasp often square shell ice shallow lobster";
+var mnemonic = "maple roast orbit attend spell bicycle lemon shed offer orange evolve scrub";

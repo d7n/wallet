@@ -1,1 +1,1 @@
-var mnemonic = "load junior daughter plastic syrup random fatal key shoe slam worth other";
+var mnemonic = "famous recycle common awake live present decline rookie casual copy unusual museum";

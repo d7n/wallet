@@ -1,1 +1,1 @@
-var mnemonic = "almost clever have language utility inmate debate master spot ensure protect correct";
+var mnemonic = "market where tell want nature spirit skate mom rival disorder side negative";

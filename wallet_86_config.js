@@ -1,1 +1,1 @@
-var mnemonic = "boy slide teach sail crucial save tuition echo step more surge tooth";
+var mnemonic = "donor unaware sting energy scheme wonder private punch tortoise buzz fish hill";

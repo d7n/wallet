@@ -1,1 +1,1 @@
-var mnemonic = "physical extend misery boat frown medal ticket easily zebra transfer cabin warrior";
+var mnemonic = "wide cradle used faculty crater stage album fetch join accident output rigid";

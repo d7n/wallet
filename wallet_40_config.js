@@ -1,1 +1,1 @@
-var mnemonic = "barely lady equal dish source excess index wait cool unfair tray point";
+var mnemonic = "limb proud twenty can garage giant remember mushroom tortoise elbow wrist soup";

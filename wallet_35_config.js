@@ -1,1 +1,1 @@
-var mnemonic = "silk text clump parent home begin fit rather shuffle blush gain east";
+var mnemonic = "arrive upon hip street screen chief home grass congress problem dove ketchup";

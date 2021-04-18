@@ -1,1 +1,1 @@
-var mnemonic = "effort finger erosion tail note opera secret hat can rough captain surround";
+var mnemonic = "quote left cricket equal wall frost outer page arrange lyrics couch mention";

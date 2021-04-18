@@ -1,1 +1,1 @@
-var mnemonic = "fox market churn face token asset shove sketch enjoy plunge prosper own";
+var mnemonic = "buyer economy silk drop wash history place talent inquiry vendor family mad";

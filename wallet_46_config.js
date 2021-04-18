@@ -1,1 +1,1 @@
-var mnemonic = "lady dinosaur foot smile leopard mouse face verify metal sheriff burden tourist";
+var mnemonic = "fine market mouse wall wealth rely desert stick bulb winner planet maple";

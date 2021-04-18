@@ -1,1 +1,1 @@
-var mnemonic = "crash live nest abstract update blade honey duck unusual calm name daughter";
+var mnemonic = "rescue person blind slice fatigue minute ask bachelor manage wrestle note arrange";

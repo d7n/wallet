@@ -1,1 +1,1 @@
-var mnemonic = "canyon mention stuff same maximum twenty grit pact pass riot risk sad";
+var mnemonic = "faint afraid rural squeeze slender body coil safe brother there frown equal";

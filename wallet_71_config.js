@@ -1,1 +1,1 @@
-var mnemonic = "orchard floor volcano project fish digital this outdoor path need use version";
+var mnemonic = "circle maid arrow manage fatigue wasp ecology raven disease live rail enjoy";

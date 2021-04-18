@@ -1,1 +1,1 @@
-var mnemonic = "parade good smooth clap raccoon runway soup crouch else visit tongue parrot";
+var mnemonic = "produce youth addict sister absurd salute sun switch dinner engage token only";

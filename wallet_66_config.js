@@ -1,1 +1,1 @@
-var mnemonic = "sign rally dove you miracle logic water warm wheel eyebrow radar edit";
+var mnemonic = "inside express tomorrow acquire protect flat sail hope goat great train have";

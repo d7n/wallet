@@ -1,1 +1,1 @@
-var mnemonic = "stage skin napkin fold vocal height absent floor business result cry gesture";
+var mnemonic = "finish also cost stairs engine legend text globe air globe seed museum";

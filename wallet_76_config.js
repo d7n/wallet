@@ -1,1 +1,1 @@
-var mnemonic = "negative produce sell wheat kiss palm wall renew fitness ecology dash differ";
+var mnemonic = "topic stadium teach theory melt churn garden beauty ostrich crawl salmon oxygen";

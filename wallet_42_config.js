@@ -1,1 +1,1 @@
-var mnemonic = "place love position impose inform asthma pony saddle bachelor liquid present insane";
+var mnemonic = "audit assume airport shoot pistol orchard thing vessel congress stadium own pear";

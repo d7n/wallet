@@ -1,1 +1,1 @@
-var mnemonic = "dumb truth stove leave basic improve foot hello pottery daring paddle forget";
+var mnemonic = "page ethics wasp target bounce search envelope say dutch large erupt cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "lab park balcony choose van comic engine garment siren around bike guilt";
+var mnemonic = "paddle cradle apple dwarf dash disagree gadget type during tiny increase lounge";

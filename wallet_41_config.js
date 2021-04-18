@@ -1,1 +1,1 @@
-var mnemonic = "enact favorite segment spirit ready embark gain face mushroom genuine perfect unfair";
+var mnemonic = "chicken stumble early virtual mean announce oval dry guess topic loyal shield";

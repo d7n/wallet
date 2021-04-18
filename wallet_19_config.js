@@ -1,1 +1,1 @@
-var mnemonic = "ship miracle once fury spike switch oil orbit power end tiger rely";
+var mnemonic = "lava fall perfect good enact hunt olive warm cargo just absurd hamster";

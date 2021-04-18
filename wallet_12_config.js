@@ -1,1 +1,1 @@
-var mnemonic = "awesome nephew ask sun upgrade laugh wealth music inflict firm about dish";
+var mnemonic = "tiny room round title hungry raccoon capital rival front require same seed";

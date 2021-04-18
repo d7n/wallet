@@ -1,1 +1,1 @@
-var mnemonic = "evolve acoustic prison silver brisk opera blossom cable kite august mimic fade";
+var mnemonic = "cherry wrist evidence fetch miracle raw ozone card subject legend detail bomb";

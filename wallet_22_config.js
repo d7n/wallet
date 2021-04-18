@@ -1,1 +1,1 @@
-var mnemonic = "vast draw turtle excite rich alley vicious decade title excess involve dinner";
+var mnemonic = "robot fantasy road vendor list sail rail start music sheriff brief chest";

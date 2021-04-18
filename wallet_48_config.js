@@ -1,1 +1,1 @@
-var mnemonic = "donkey hurry myself nature sure easily simple water faith museum project hill";
+var mnemonic = "sibling allow paper comic jar eagle glass convince outdoor cargo news dentist";

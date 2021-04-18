@@ -1,1 +1,1 @@
-var mnemonic = "olympic shell nut project joke uncle glue hamster mango smile thank old";
+var mnemonic = "rebuild suspect pitch input rubber glow skill express wrestle title jazz million";

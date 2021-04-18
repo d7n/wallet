@@ -1,1 +1,1 @@
-var mnemonic = "check toward time stand canoe rain imitate foil size typical island link";
+var mnemonic = "shrimp book regular abandon blue accuse age orchard misery couch neutral mandate";

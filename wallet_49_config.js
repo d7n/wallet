@@ -1,1 +1,1 @@
-var mnemonic = "wasp day cheese fault bread cloth clutch embark captain innocent artefact educate";
+var mnemonic = "room latin swing juice daughter refuse bullet drastic leisure wire plate duck";

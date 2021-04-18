@@ -1,1 +1,1 @@
-var mnemonic = "budget belt pause few wasp repair traffic stool garage sort enroll case";
+var mnemonic = "monkey recipe genius reform connect rich rack can work earn diet clinic";

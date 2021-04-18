@@ -1,1 +1,1 @@
-var mnemonic = "genuine fat amazing false sense hunt outside debris reform movie claw ill";
+var mnemonic = "fox casino unveil avocado pipe disorder awake faint topple kiss toward bonus";

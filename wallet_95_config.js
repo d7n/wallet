@@ -1,1 +1,1 @@
-var mnemonic = "usual miss blush swallow train bomb vehicle twelve width name reveal inside";
+var mnemonic = "major essence forget crystal reveal park spice hospital autumn sample ivory gospel";

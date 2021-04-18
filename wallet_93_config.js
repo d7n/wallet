@@ -1,1 +1,1 @@
-var mnemonic = "impact liquid diagram mule dog grit outside notice flavor casino account sweet";
+var mnemonic = "latin torch oxygen runway innocent valid author fire fever short joke behave";

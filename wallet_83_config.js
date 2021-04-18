@@ -1,1 +1,1 @@
-var mnemonic = "math fatigue assault drama coconut stomach task vicious base ensure jar fabric";
+var mnemonic = "demise primary angry salute month aspect sock either tag color real gloom";

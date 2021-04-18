@@ -1,1 +1,1 @@
-var mnemonic = "found blade leaf renew brass olympic sun retreat zebra route cry episode";
+var mnemonic = "expose bicycle dwarf rotate artist right reflect then awful invest modify uncle";

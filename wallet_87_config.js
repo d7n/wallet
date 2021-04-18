@@ -1,1 +1,1 @@
-var mnemonic = "clay pumpkin cushion below nothing rhythm suggest warrior ozone rebuild earn spread";
+var mnemonic = "rule unhappy silk horror orchard excess wonder unfold melt burden test safe";

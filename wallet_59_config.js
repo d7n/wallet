@@ -1,1 +1,1 @@
-var mnemonic = "cushion door inquiry pave ask float banner front code tag involve embody";
+var mnemonic = "wait quick burst tragic price flag toy elegant rich faith knee adjust";

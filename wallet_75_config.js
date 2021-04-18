@@ -1,1 +1,1 @@
-var mnemonic = "twenty arch fire monkey acquire danger spring plastic spice blue when crazy";
+var mnemonic = "tree off axis affair outer repeat hurdle pig umbrella play goose left";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip face hawk bacon raccoon oak snap drum salmon ocean unusual mechanic";
+var mnemonic = "because tired develop damp unfair census income young wonder city enough stuff";

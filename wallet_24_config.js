@@ -1,1 +1,1 @@
-var mnemonic = "ozone cushion juice pelican maze grass tone bachelor must sugar example slender";
+var mnemonic = "sibling sting echo visual company dolphin trade arrange chair burden salmon crop";

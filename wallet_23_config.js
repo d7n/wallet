@@ -1,1 +1,1 @@
-var mnemonic = "another garbage diet mercy pattern grape copy oblige term eyebrow rebuild shield";
+var mnemonic = "volcano crew rare memory often type lecture little next runway update raise";

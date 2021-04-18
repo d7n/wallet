@@ -1,1 +1,1 @@
-var mnemonic = "fancy scare canvas around easily start mercy intact nature grab symbol potato";
+var mnemonic = "dish shadow current napkin avoid roast identify home sudden alarm use hidden";

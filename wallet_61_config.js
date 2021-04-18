@@ -1,1 +1,1 @@
-var mnemonic = "library hurt chief trip rely tool lounge latin network current knife giraffe";
+var mnemonic = "donate elegant nurse six system medal annual daughter walk siren very common";

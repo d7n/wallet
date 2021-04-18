@@ -1,1 +1,1 @@
-var mnemonic = "liquid bike south unknown gun moment smooth error slice version miracle oval";
+var mnemonic = "today quote visit nephew example dragon demand awesome excuse hawk banner notice";

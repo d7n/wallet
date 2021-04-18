@@ -1,1 +1,1 @@
-var mnemonic = "blossom awkward sun lend snap enroll response final earth initial mimic over";
+var mnemonic = "once host clay refuse alert million door heavy whip image sound wild";

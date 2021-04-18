@@ -1,1 +1,1 @@
-var mnemonic = "rare below staff gasp father iron broccoli size armor problem accident all";
+var mnemonic = "task rebuild fine simple lava edit item lava embrace between siren barely";
