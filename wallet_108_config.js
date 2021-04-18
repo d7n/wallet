@@ -1,1 +1,1 @@
-var mnemonic = "saddle forward lounge illegal chest load ride blue wash drip swim amused";
+var mnemonic = "blouse good private lake twelve mutual gravity term life runway library dish";

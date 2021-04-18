@@ -1,1 +1,1 @@
-var mnemonic = "monitor blind jazz frame orbit truck coin rely actual screen horse maid";
+var mnemonic = "tomorrow gold nothing grit state noise unveil company injury manual palace negative";

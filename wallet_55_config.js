@@ -1,1 +1,1 @@
-var mnemonic = "marble plastic inspire such indicate sail fever route main deliver able lizard";
+var mnemonic = "fire know mushroom enter guess clerk symbol avoid whisper maple fame embrace";

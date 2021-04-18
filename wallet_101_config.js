@@ -1,1 +1,1 @@
-var mnemonic = "raise volcano ranch donor solution tuna battle toy repair town candy insect";
+var mnemonic = "issue little nature empty erode card rent reopen congress dune pole rib";

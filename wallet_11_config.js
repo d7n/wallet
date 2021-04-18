@@ -1,1 +1,1 @@
-var mnemonic = "supply auction under category liberty shadow basket pill velvet ordinary truth nerve";
+var mnemonic = "sign clinic elder swear album spare spice slide doll smile sadness night";

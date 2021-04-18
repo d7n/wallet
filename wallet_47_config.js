@@ -1,1 +1,1 @@
-var mnemonic = "trip guard country below question acid ask energy scale nothing vehicle mad";
+var mnemonic = "coral total mimic size gym kitchen rude inch film apart orchard flip";

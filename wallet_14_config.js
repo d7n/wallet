@@ -1,1 +1,1 @@
-var mnemonic = "dance switch render hand scare range blood detail address lift prepare car";
+var mnemonic = "hidden orient admit idea rebuild load robust tumble before trip midnight favorite";

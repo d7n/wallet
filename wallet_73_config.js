@@ -1,1 +1,1 @@
-var mnemonic = "poem say brief detail burst afraid flat spot early broken nation regret";
+var mnemonic = "love blue cereal coyote huge close axis earn material jump trend asthma";

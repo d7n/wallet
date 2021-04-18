@@ -1,1 +1,1 @@
-var mnemonic = "vast recycle rigid onion payment mansion angle federal depend bike below forum";
+var mnemonic = "desk regret fiction good force reform antique gown trim crane office canyon";

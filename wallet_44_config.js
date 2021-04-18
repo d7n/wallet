@@ -1,1 +1,1 @@
-var mnemonic = "push print van judge wave mean soccer blossom damp spawn sight narrow";
+var mnemonic = "adapt winter fancy cook improve trip artist boil shrimp ship slide view";

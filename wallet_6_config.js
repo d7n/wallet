@@ -1,1 +1,1 @@
-var mnemonic = "favorite remind much degree dawn where wire usage people memory eternal indicate";
+var mnemonic = "corn anchor one senior paddle portion shell marine virus onion poem engine";

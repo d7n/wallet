@@ -1,1 +1,1 @@
-var mnemonic = "clock struggle solve runway knife scatter kind library couple multiply man say";
+var mnemonic = "drama shell coil gap coral provide boil kick culture tiger struggle fuel";

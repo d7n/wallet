@@ -1,1 +1,1 @@
-var mnemonic = "edit warm caught dinner display kiwi little unlock quarter control machine above";
+var mnemonic = "purpose soft room foot foot title junior anxiety miracle boil teach peasant";

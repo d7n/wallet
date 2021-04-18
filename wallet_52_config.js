@@ -1,1 +1,1 @@
-var mnemonic = "drama art lake water either matter try scheme clock forget tower photo";
+var mnemonic = "boost math common debate layer obvious interest gold march faint bright lady";

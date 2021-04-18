@@ -1,1 +1,1 @@
-var mnemonic = "oil recycle mom fit dance trip keen knock hockey ice orient journey";
+var mnemonic = "drop unaware dune hard cat sausage person only rice occur auction life";

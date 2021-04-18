@@ -1,1 +1,1 @@
-var mnemonic = "process sentence quarter dad marine bunker obvious leg toilet camera wise excess";
+var mnemonic = "melody often summer trap moment army venture immense document virtual source train";

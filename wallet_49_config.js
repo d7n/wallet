@@ -1,1 +1,1 @@
-var mnemonic = "receive shell erase urban pilot flame fire patient deputy become attack noble";
+var mnemonic = "struggle party dawn frog chat ranch toddler cart pipe vote sun master";

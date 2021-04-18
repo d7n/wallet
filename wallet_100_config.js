@@ -1,1 +1,1 @@
-var mnemonic = "need boring quick monster bean danger exit torch desk warm seat fade";
+var mnemonic = "night art carpet various initial economy fan ordinary insane tissue potato rate";

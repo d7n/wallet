@@ -1,1 +1,1 @@
-var mnemonic = "autumn shove wide betray finish ten hour bunker engine exile thing fetch";
+var mnemonic = "own isolate weekend float icon large text turtle artefact bus unfair stool";

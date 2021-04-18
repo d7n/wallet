@@ -1,1 +1,1 @@
-var mnemonic = "gaze reform diamond immense museum cover evil stone obtain fiscal coast never";
+var mnemonic = "wood edit plastic emerge task soldier foam regret hamster lonely tenant camp";

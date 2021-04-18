@@ -1,1 +1,1 @@
-var mnemonic = "below require grain tuna law cat acid width run morning please upgrade";
+var mnemonic = "coil similar vintage giraffe giggle frog task zebra eager bubble fish you";

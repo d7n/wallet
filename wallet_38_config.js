@@ -1,1 +1,1 @@
-var mnemonic = "forget little wreck love fatal filter throw answer broken lesson month portion";
+var mnemonic = "sing tide wing obvious pupil differ finger stock buffalo engine royal guide";

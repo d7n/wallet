@@ -1,1 +1,1 @@
-var mnemonic = "raccoon wash baby dumb flame wash diesel breeze bus cat torch decorate";
+var mnemonic = "runway only now mask scorpion maid model dolphin unfold slender marble useful";

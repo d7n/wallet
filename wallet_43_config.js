@@ -1,1 +1,1 @@
-var mnemonic = "royal energy frown rule obscure era remember small yellow below impulse wife";
+var mnemonic = "tenant kid tuition endorse space gold mystery verify supreme offer inner bean";

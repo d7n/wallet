@@ -1,1 +1,1 @@
-var mnemonic = "plunge negative wheat cancel jewel lonely tuition bronze sibling knee magic chronic";
+var mnemonic = "loyal token fabric drift notice book assist inquiry limit cattle few bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "defense doll honey public entire sock jar worth debate couch invite concert";
+var mnemonic = "card cave velvet thank toy thing glove enforce couple item manual bless";

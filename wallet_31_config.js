@@ -1,1 +1,1 @@
-var mnemonic = "knife name add follow creek usual fiction link cook moment hair pole";
+var mnemonic = "female arctic bounce curious claw jealous gesture push dice major start become";

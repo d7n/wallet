@@ -1,1 +1,1 @@
-var mnemonic = "know shadow cup direct behind upset fame oblige jazz planet throw museum";
+var mnemonic = "skull install tackle quit loop snow regular chase umbrella change rival act";

@@ -1,1 +1,1 @@
-var mnemonic = "announce faculty embody baby practice always must ship brief judge embark action";
+var mnemonic = "connect figure absorb enlist giraffe badge hurry boat valve meat desk glad";

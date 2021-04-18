@@ -1,1 +1,1 @@
-var mnemonic = "scheme ride crater innocent flag victory hood mobile library side morning pull";
+var mnemonic = "talk hurdle priority fiction convince veteran kick eight awake boring afford patch";

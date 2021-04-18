@@ -1,1 +1,1 @@
-var mnemonic = "label nothing punch curious quantum case answer glow soon giant ride enjoy";
+var mnemonic = "travel source car ticket subject tower laugh brisk kitten hard young balance";

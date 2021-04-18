@@ -1,1 +1,1 @@
-var mnemonic = "jacket kiwi report flip antenna air federal juice toward alpha east inhale";
+var mnemonic = "fury parrot tennis actual spawn doctor because tuna crumble awful share security";

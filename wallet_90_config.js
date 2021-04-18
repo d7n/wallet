@@ -1,1 +1,1 @@
-var mnemonic = "strike acid heart job dove access design civil sleep season label oblige";
+var mnemonic = "enemy awkward guitar script east pepper orchard orange elder end broken goose";

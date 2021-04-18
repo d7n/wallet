@@ -1,1 +1,1 @@
-var mnemonic = "casual social effort ill derive inspire onion plug program extend like yellow";
+var mnemonic = "devote humble tell garden endless head keen eager earth want library peanut";

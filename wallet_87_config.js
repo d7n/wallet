@@ -1,1 +1,1 @@
-var mnemonic = "wealth steak daring joke slush prosper cause inform rib proof earth erupt";
+var mnemonic = "bunker alcohol shy road depart loud east surge payment face devote claw";

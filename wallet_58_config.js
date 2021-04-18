@@ -1,1 +1,1 @@
-var mnemonic = "vocal all move train trumpet grunt eye valley idle fortune math ridge";
+var mnemonic = "cupboard digital detail mosquito thumb carry shallow gallery require bag food floor";

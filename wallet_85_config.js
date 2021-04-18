@@ -1,1 +1,1 @@
-var mnemonic = "hair coyote intact woman call burger assault fine planet bargain orange flame";
+var mnemonic = "assume start blood path feel shell shift cousin rather eight modify either";

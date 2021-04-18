@@ -1,1 +1,1 @@
-var mnemonic = "exhibit jewel deal journey mother daring glue violin decide plug vapor mansion";
+var mnemonic = "boring inspire swear survey practice yard faint strong bone asthma beef champion";

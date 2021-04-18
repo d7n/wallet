@@ -1,1 +1,1 @@
-var mnemonic = "elephant hurdle monitor usual town wish normal space thumb best clay spend";
+var mnemonic = "zebra beauty doll shed figure wish castle near citizen melt rain rare";

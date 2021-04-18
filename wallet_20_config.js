@@ -1,1 +1,1 @@
-var mnemonic = "light call mercy zone scorpion angry people toilet cause sister review bamboo";
+var mnemonic = "measure alone vague twenty cream welcome limit essay brisk peanut awake desert";

@@ -1,1 +1,1 @@
-var mnemonic = "trim broom room casino peanut basic board message era double happy wagon";
+var mnemonic = "shallow favorite person utility easily slim federal photo shuffle polar save urban";

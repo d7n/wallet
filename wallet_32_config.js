@@ -1,1 +1,1 @@
-var mnemonic = "focus sound wink match liberty broom step indicate scout audit once onion";
+var mnemonic = "teach cargo modify fee kiss canyon bonus aisle review price inside supply";

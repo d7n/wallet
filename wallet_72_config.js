@@ -1,1 +1,1 @@
-var mnemonic = "lucky seat immense crush opera hire foam rabbit word wrestle garment exercise";
+var mnemonic = "earth wide animal maple kid kiwi weasel wink elevator fever strong design";

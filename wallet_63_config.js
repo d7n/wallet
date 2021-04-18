@@ -1,1 +1,1 @@
-var mnemonic = "senior risk heavy hungry wave lecture grab secret rebuild device heavy text";
+var mnemonic = "poem federal balance monitor hedgehog secret track notice foam hard easily bless";

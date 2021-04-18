@@ -1,1 +1,1 @@
-var mnemonic = "pistol cup spot toilet become spend female crash act blood audit such";
+var mnemonic = "sponsor hello inspire negative frost story assist essence mesh motor section genre";

@@ -1,1 +1,1 @@
-var mnemonic = "embark loop train correct all reveal drift swear shaft problem scale found";
+var mnemonic = "ethics brief bomb female gift bargain scissors change photo bar elephant slender";

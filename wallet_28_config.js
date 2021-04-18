@@ -1,1 +1,1 @@
-var mnemonic = "shadow lumber mention author donkey fence rely joke comfort novel swim net";
+var mnemonic = "gun onion receive thing crumble mountain cliff mad abuse surround swear load";

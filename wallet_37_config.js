@@ -1,1 +1,1 @@
-var mnemonic = "glance hurry roast brisk call kangaroo maple zoo gesture fence cruel royal";
+var mnemonic = "try axis essay truth idea since lizard toilet security inhale gym risk";

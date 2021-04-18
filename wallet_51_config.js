@@ -1,1 +1,1 @@
-var mnemonic = "clean various when noble taxi sea wear coin antique empower juice blame";
+var mnemonic = "drip stomach above skull doctor blade sword wall flight door frown horn";

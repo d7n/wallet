@@ -1,1 +1,1 @@
-var mnemonic = "vast balcony obvious trap educate jewel tower eager gasp fabric foster banana";
+var mnemonic = "bunker jungle chalk cram dawn reflect actor mosquito decline parade student effort";

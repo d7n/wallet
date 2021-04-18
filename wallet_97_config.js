@@ -1,1 +1,1 @@
-var mnemonic = "armor cigar friend topic broken vault coin interest hospital light anxiety have";
+var mnemonic = "action choose express erase lonely tumble recall awake lab pelican ask fog";

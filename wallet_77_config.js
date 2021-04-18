@@ -1,1 +1,1 @@
-var mnemonic = "dynamic mistake quick theory eternal spider level update size horse mom embody";
+var mnemonic = "lock vessel cook spike system famous tortoise across observe yellow marine cheap";

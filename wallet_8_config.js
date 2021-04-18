@@ -1,1 +1,1 @@
-var mnemonic = "certain ethics cause addict primary glare giant outside apart viable hope garment";
+var mnemonic = "rabbit slim payment together need often naive stamp ball physical salt lonely";

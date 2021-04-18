@@ -1,1 +1,1 @@
-var mnemonic = "honey amazing gown bubble theory farm narrow deputy thumb rent tenant hover";
+var mnemonic = "choice dentist story gold number feed zebra member voice stomach mobile verb";

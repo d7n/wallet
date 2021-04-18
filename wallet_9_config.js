@@ -1,1 +1,1 @@
-var mnemonic = "glue speak raise blood garage know tomato admit survey music consider bracket";
+var mnemonic = "trip popular street label dune point often tackle purchase cat melt pyramid";

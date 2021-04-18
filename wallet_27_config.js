@@ -1,1 +1,1 @@
-var mnemonic = "hint ceiling arch pelican kite seminar what dog ski elegant save agree";
+var mnemonic = "attack rebel mixture cool frozen issue kingdom friend royal boy pretty daring";

@@ -1,1 +1,1 @@
-var mnemonic = "shock enroll pluck surprise west blouse wrist situate blood erode festival valid";
+var mnemonic = "before light film unique clever identify eye capital wool hard material govern";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve about senior damage proof certain tower wet tuition steak prevent denial";
+var mnemonic = "theme coyote odor add alien pilot crew vibrant car demand crowd post";

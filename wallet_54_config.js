@@ -1,1 +1,1 @@
-var mnemonic = "funny will dinner dwarf life ivory picnic notice grunt cloth arm clump";
+var mnemonic = "sight simple grass cool tobacco inherit wise tip hand convince that people";

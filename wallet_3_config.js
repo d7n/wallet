@@ -1,1 +1,1 @@
-var mnemonic = "flag spy clog version flush alpha wrong olive giggle cool there brave";
+var mnemonic = "addict valid forward junior maximum salute local art social mutual series hundred";

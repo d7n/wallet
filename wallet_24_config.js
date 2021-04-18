@@ -1,1 +1,1 @@
-var mnemonic = "hurt during grace sheriff direct yard plunge demand pet program theory cupboard";
+var mnemonic = "illness price shift banner purpose shadow about note forum silent silver stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "caught edit season castle clog tower matrix setup duty alarm boost silver";
+var mnemonic = "coral float easily copy lawn common crawl drum rifle hood near fever";

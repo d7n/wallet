@@ -1,1 +1,1 @@
-var mnemonic = "remind street fox physical dwarf eyebrow crumble van oval view impact tuna";
+var mnemonic = "destroy finish feel term enemy focus around news odor fantasy trade notable";

@@ -1,1 +1,1 @@
-var mnemonic = "invite shadow odor aware mirror tilt nerve quote virtual hawk ice belt";
+var mnemonic = "release female unhappy visit sea push spare oppose remind web sheriff cram";

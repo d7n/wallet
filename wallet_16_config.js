@@ -1,1 +1,1 @@
-var mnemonic = "access cabbage wood truck citizen manage alert abstract annual cover rally cannon";
+var mnemonic = "tide exclude inquiry among tooth repair toe cactus cancel width armor stem";

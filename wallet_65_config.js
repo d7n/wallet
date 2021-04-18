@@ -1,1 +1,1 @@
-var mnemonic = "ketchup milk spawn cash embody glove true section wonder attract friend bundle";
+var mnemonic = "produce cake light eye anxiety cave tip blur hedgehog order bag wish";

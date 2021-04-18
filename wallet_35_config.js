@@ -1,1 +1,1 @@
-var mnemonic = "apple rotate setup sheriff consider page mansion shell silk clap mean cricket";
+var mnemonic = "hamster inherit wrong rival radar piece market point crop february stool glass";

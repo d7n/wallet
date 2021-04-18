@@ -1,1 +1,1 @@
-var mnemonic = "broccoli little blouse turkey surface era frown opinion final social lounge ball";
+var mnemonic = "often april abandon arrange rescue arrive flock story apart evidence acquire pony";

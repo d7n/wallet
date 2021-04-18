@@ -1,1 +1,1 @@
-var mnemonic = "robust mammal vote faint possible limb paper capable galaxy rug merry unable";
+var mnemonic = "shuffle animal case caught result garbage toss mean sentence hold lottery urge";

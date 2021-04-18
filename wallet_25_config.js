@@ -1,1 +1,1 @@
-var mnemonic = "share start enter crouch check possible spike away elegant race dawn task";
+var mnemonic = "guitar fringe now invest pet certain planet jacket team hint arctic lizard";

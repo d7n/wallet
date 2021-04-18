@@ -1,1 +1,1 @@
-var mnemonic = "force relax maid subway liberty ability smart first clump honey misery raw";
+var mnemonic = "lazy lemon hello cheese lumber catch scale ready oblige what ancient dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "almost demise employ doll winter truth office manage puppy flip attitude effort";
+var mnemonic = "amazing volcano clown jungle west derive ancient squeeze across situate chef marble";

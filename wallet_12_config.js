@@ -1,1 +1,1 @@
-var mnemonic = "dance push trial mansion fitness behind gloom cotton symbol change spot gravity";
+var mnemonic = "glove glass rather vintage lend brother dream upgrade planet clown swear wash";

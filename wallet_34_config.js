@@ -1,1 +1,1 @@
-var mnemonic = "possible option victory print basket aerobic celery apart erosion response damage place";
+var mnemonic = "strike squeeze boost render abandon use ivory deliver series tag trade moral";

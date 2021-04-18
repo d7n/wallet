@@ -1,1 +1,1 @@
-var mnemonic = "idle reflect calm original maple fantasy vessel agree dose situate chaos sleep";
+var mnemonic = "cause truly chalk cotton educate mouse video maid royal lava gain text";

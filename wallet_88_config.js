@@ -1,1 +1,1 @@
-var mnemonic = "peanut sphere grid cricket hold review worth cover minute art dune oval";
+var mnemonic = "prepare shoulder motion useless budget broken entry unit mammal will exchange raven";

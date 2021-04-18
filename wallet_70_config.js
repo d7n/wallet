@@ -1,1 +1,1 @@
-var mnemonic = "slow hazard naive dolphin tomorrow middle quality else regret pole friend cube";
+var mnemonic = "original foil section glory live glance icon evoke pride right loyal abandon";

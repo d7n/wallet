@@ -1,1 +1,1 @@
-var mnemonic = "cereal manual item spy evil true chief shed attitude acid pact prefer";
+var mnemonic = "buzz spice clerk record reopen kidney thought suggest alert practice subject snap";

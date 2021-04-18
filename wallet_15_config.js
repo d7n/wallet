@@ -1,1 +1,1 @@
-var mnemonic = "trumpet mouse soon please nut father entire couch problem tone exchange hedgehog";
+var mnemonic = "west venture grant target pumpkin endless august visual please inner submit cliff";

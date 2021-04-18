@@ -1,1 +1,1 @@
-var mnemonic = "kingdom heart avoid treat clarify clerk jazz change sad aware hurry elbow";
+var mnemonic = "deer mix hip approve horse often delay better tired giggle voice link";

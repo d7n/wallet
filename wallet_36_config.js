@@ -1,1 +1,1 @@
-var mnemonic = "pair total clock quote rhythm crack sick desert drill tribe debris book";
+var mnemonic = "credit gain find remind more hood alien try wheat audit parent ladder";

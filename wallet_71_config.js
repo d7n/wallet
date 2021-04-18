@@ -1,1 +1,1 @@
-var mnemonic = "hundred style edit magnet infant neither crash artist fiscal piece thank awkward";
+var mnemonic = "vibrant loop law know gain click drift proud aisle summer evolve consider";

@@ -1,1 +1,1 @@
-var mnemonic = "number bar liberty round celery gentle model effort payment denial odor code";
+var mnemonic = "gate ranch chief alpha feed best clay moment duck virus talk myself";

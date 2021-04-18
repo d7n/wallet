@@ -1,1 +1,1 @@
-var mnemonic = "core valve few smart original drama core hospital olympic secret balcony wheat";
+var mnemonic = "child banana comfort tiny inmate typical dad pet tumble crush tackle yard";

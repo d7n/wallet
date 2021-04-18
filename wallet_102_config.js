@@ -1,1 +1,1 @@
-var mnemonic = "nation remind reduce pigeon define mom music north setup waste spatial emerge";
+var mnemonic = "depart usual film shoe celery path random gas unable program inject bench";

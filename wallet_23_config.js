@@ -1,1 +1,1 @@
-var mnemonic = "open caught afford liberty feed sick lock crane avocado dish random nuclear";
+var mnemonic = "device rent vacuum sign buddy clarify model absurd high vague vicious shock";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs setup awkward chronic rather castle evidence whisper brush sweet input march";
+var mnemonic = "cube umbrella oil more bachelor wing lift shop sponsor velvet someone laptop";

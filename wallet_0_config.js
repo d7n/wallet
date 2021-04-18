@@ -1,1 +1,1 @@
-var mnemonic = "clown ankle above crisp lecture sort apple hundred develop cement country inherit";
+var mnemonic = "hour brick trouble blind excuse maximum random bread merge garbage power train";

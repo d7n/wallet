@@ -1,1 +1,1 @@
-var mnemonic = "brother gift brisk scissors guilt another kind say drip snack tube diamond";
+var mnemonic = "cat body object simple under broom walnut village sign energy blur report";
