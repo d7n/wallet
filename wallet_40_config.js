@@ -1,1 +1,1 @@
-var mnemonic = "amount you rich deposit lava admit empty interest limit during piece check";
+var mnemonic = "visual clog game two minor desert match rent kitten motion control bomb";

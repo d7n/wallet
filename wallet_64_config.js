@@ -1,1 +1,1 @@
-var mnemonic = "warfare slim taxi menu merge mirror actual velvet extend radar card heavy";
+var mnemonic = "jealous world sun obscure girl dignity tumble rhythm barely alert unveil wonder";

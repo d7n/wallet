@@ -1,1 +1,1 @@
-var mnemonic = "blue price burger elevator manage settle rain table soul artefact improve thought";
+var mnemonic = "seek term quantum slush negative birth rice autumn badge moral chimney drastic";

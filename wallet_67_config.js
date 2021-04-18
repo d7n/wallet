@@ -1,1 +1,1 @@
-var mnemonic = "almost celery dose maple swing surround six borrow album vicious beach old";
+var mnemonic = "baby lamp behave torch service access oppose slim twin crystal subway tube";

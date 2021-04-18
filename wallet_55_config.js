@@ -1,1 +1,1 @@
-var mnemonic = "kiwi east glove wrist quality hockey test tonight together fury load super";
+var mnemonic = "pluck need journey oil snap sleep cliff learn harbor margin trouble rice";

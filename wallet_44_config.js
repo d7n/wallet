@@ -1,1 +1,1 @@
-var mnemonic = "taste human canyon prize crack enemy radar peasant minute venture orphan fall";
+var mnemonic = "term pistol ritual february nephew toy guitar answer chunk oval gas outer";

@@ -1,1 +1,1 @@
-var mnemonic = "omit saddle square awkward cricket kit length shift cigar pattern payment great";
+var mnemonic = "dice stuff betray ability grape involve radar stem miracle average pair fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth give wife penalty print penalty guide access gloom honey penalty huge";
+var mnemonic = "title elbow course symptom army body mad gas garage install base reflect";

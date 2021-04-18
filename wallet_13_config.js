@@ -1,1 +1,1 @@
-var mnemonic = "plunge ordinary steel ramp poem leaf dragon between wine jump annual alien";
+var mnemonic = "point tray mixed soup aware bulb nephew genre reduce couch pond hour";

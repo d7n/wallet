@@ -1,1 +1,1 @@
-var mnemonic = "mad noble axis check december fresh swift repeat setup must taste toe";
+var mnemonic = "toy grunt control safe ball puzzle own photo salt coral umbrella ceiling";

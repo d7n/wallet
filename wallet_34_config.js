@@ -1,1 +1,1 @@
-var mnemonic = "narrow romance twist shift lift rib hair medal spell universe sign round";
+var mnemonic = "visa room void senior minor edit visa renew jaguar obscure embody arena";

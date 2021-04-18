@@ -1,1 +1,1 @@
-var mnemonic = "special bomb month debris tissue boil permit level fame knock knife solar";
+var mnemonic = "daring sheriff open almost describe zero sister unknown trick cry goddess sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "snap okay balance bicycle clay kind polar casino spoil cattle tray device";
+var mnemonic = "defense wrap angle large uncover address riot doctor like unveil all child";

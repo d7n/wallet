@@ -1,1 +1,1 @@
-var mnemonic = "noodle fruit bachelor limit whip mammal myself vague ivory south advice idea";
+var mnemonic = "say observe shine okay vessel pave now rifle brass kite build blame";

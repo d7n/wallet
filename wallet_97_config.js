@@ -1,1 +1,1 @@
-var mnemonic = "security correct mansion link visual trip way acoustic skin aerobic paper ten";
+var mnemonic = "ripple spike receive trade caught vital pole jar mandate mean carpet skull";

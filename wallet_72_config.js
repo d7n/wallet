@@ -1,1 +1,1 @@
-var mnemonic = "worth topple ethics match proud avoid enlist mammal nerve scene drum penalty";
+var mnemonic = "harvest blossom spell debris bitter tonight powder seek glare that gorilla weasel";

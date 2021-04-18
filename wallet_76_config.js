@@ -1,1 +1,1 @@
-var mnemonic = "border stem odor catalog abuse run trip guide ladder lazy shaft reject";
+var mnemonic = "slice ribbon ostrich escape aunt genius gym person smooth assist park famous";

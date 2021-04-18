@@ -1,1 +1,1 @@
-var mnemonic = "robot embark jungle choose resource monster plunge network luxury tornado vehicle loud";
+var mnemonic = "wire custom improve father excess genuine embrace basic fortune verb excite lift";

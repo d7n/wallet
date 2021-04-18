@@ -1,1 +1,1 @@
-var mnemonic = "usual require kidney indicate diamond wife violin buyer what transfer sheriff wear";
+var mnemonic = "exclude great call forum original click leave already cruel veteran excite next";

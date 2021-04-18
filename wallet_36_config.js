@@ -1,1 +1,1 @@
-var mnemonic = "verify pilot radar because credit huge amateur invest raise follow jar egg";
+var mnemonic = "subject wink range differ boy month announce latin dash pilot pigeon large";

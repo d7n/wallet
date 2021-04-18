@@ -1,1 +1,1 @@
-var mnemonic = "matrix farm fury divorce inmate boil appear float tiger prison intact honey";
+var mnemonic = "despair dignity what lady remove service maze mix uphold crop enter top";

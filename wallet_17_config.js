@@ -1,1 +1,1 @@
-var mnemonic = "picnic call hybrid toy hamster staff soup because nice enable hello poem";
+var mnemonic = "bike energy eyebrow border helmet season fiscal acquire slogan swamp verify bitter";

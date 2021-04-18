@@ -1,1 +1,1 @@
-var mnemonic = "feature diesel weird smoke together famous toward stadium trend tree argue bargain";
+var mnemonic = "universe volume ability season fruit slight regret wreck original pudding kangaroo subject";

@@ -1,1 +1,1 @@
-var mnemonic = "rare margin tilt clean then crumble run image rose hair grain stay";
+var mnemonic = "either weird best become mandate twice oil harsh ancient deny fruit video";

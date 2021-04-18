@@ -1,1 +1,1 @@
-var mnemonic = "install century top crisp limit knock wink breeze ankle broccoli primary stadium";
+var mnemonic = "trouble skirt social survey naive olive silly theory virtual fetch screen abuse";

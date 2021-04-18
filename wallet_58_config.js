@@ -1,1 +1,1 @@
-var mnemonic = "message crystal onion extend prosper initial album voice slide own fabric ritual";
+var mnemonic = "metal energy light crouch spin warrior aerobic payment scene bubble point raise";

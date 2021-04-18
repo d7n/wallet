@@ -1,1 +1,1 @@
-var mnemonic = "eager clinic shoe license approve federal pulp case approve case blood myself";
+var mnemonic = "noodle kit dilemma dilemma belt assume half avoid twin connect world used";

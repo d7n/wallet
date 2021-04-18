@@ -1,1 +1,1 @@
-var mnemonic = "stem jump whisper unveil brisk axis glow glow million man imitate impose";
+var mnemonic = "drive upper cheese load animal echo chimney ranch hurry intact around innocent";

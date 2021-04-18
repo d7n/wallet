@@ -1,1 +1,1 @@
-var mnemonic = "polar gadget ostrich creek river garden extra boy pet notice scheme marriage";
+var mnemonic = "live elephant huge truly live time decide pyramid alien spike stage snake";

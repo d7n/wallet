@@ -1,1 +1,1 @@
-var mnemonic = "process upper ivory spin cotton heart merry good pulse ski clump since";
+var mnemonic = "example muscle remain soup fashion confirm logic fruit dragon unit increase pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "wide brass couple differ mirror clean guilt then pigeon option door fault";
+var mnemonic = "pole during about gauge margin divert leisure cactus barrel virus card leader";

@@ -1,1 +1,1 @@
-var mnemonic = "series wisdom when level purse define estate ocean old behind table aware";
+var mnemonic = "pattern exotic muffin horror minute zebra trim manage silent split question awkward";

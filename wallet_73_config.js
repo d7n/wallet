@@ -1,1 +1,1 @@
-var mnemonic = "reward spare smart pull goose fluid naive little club response resist invite";
+var mnemonic = "syrup nut north render rural grow bitter record quantum banner tilt veteran";

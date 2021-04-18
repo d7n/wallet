@@ -1,1 +1,1 @@
-var mnemonic = "fortune page crew this churn country boss near fame material crunch rookie";
+var mnemonic = "original robot armor orbit tunnel endless drastic option pave swarm maze boil";

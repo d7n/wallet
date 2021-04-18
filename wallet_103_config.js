@@ -1,1 +1,1 @@
-var mnemonic = "section mixed calm produce cry runway consider cliff fever include anchor limb";
+var mnemonic = "okay patch know undo foam rifle boost damage begin busy lyrics tackle";

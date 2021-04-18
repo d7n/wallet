@@ -1,1 +1,1 @@
-var mnemonic = "child move peace narrow universe blame genius thank grit boat ship nuclear";
+var mnemonic = "between around aisle amateur casual embrace champion result ginger leader pool rival";

@@ -1,1 +1,1 @@
-var mnemonic = "crane bicycle pair torch airport symptom trade pig gain pen monster kit";
+var mnemonic = "vehicle stadium neck donkey twelve sound sheriff excess trend flip tourist dumb";

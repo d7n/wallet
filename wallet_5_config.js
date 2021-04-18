@@ -1,1 +1,1 @@
-var mnemonic = "front never setup drama youth reflect tooth knock beef intact outer pause";
+var mnemonic = "puppy juice cotton acquire correct initial canvas lake private survey electric license";

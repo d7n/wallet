@@ -1,1 +1,1 @@
-var mnemonic = "cousin virtual net mountain van pear easy sponsor minor eyebrow online trial";
+var mnemonic = "seminar chunk decade weapon session tired charge choose lava solve burst ride";

@@ -1,1 +1,1 @@
-var mnemonic = "account stumble snap second charge spray layer slim famous apple seat sad";
+var mnemonic = "faint slot common ugly dress face dial garden other lunch peanut gap";

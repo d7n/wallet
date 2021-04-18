@@ -1,1 +1,1 @@
-var mnemonic = "enact habit wine around math hat omit lobster october side turn egg";
+var mnemonic = "tired mail label input write load physical cradle jazz piece bridge uphold";

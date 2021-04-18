@@ -1,1 +1,1 @@
-var mnemonic = "section reduce carry smooth neck among burger cotton wasp object bracket measure";
+var mnemonic = "select damp merry dynamic pull evil museum travel bread ceiling deputy suspect";

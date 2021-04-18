@@ -1,1 +1,1 @@
-var mnemonic = "aim lava horse recycle surface coconut culture recycle blur fiction globe husband";
+var mnemonic = "bomb repair escape review ensure region step cricket around inform wedding describe";

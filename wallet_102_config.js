@@ -1,1 +1,1 @@
-var mnemonic = "all vessel brisk buddy kitchen priority nut planet opinion pigeon receive term";
+var mnemonic = "quote wet blush skin waste end sibling maid exile multiply cannon response";

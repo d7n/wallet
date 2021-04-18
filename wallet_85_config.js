@@ -1,1 +1,1 @@
-var mnemonic = "raise income clarify broken scheme utility other winter cement buzz garment sketch";
+var mnemonic = "lobster flag plug trim federal cruel airport banner trash good useless wall";

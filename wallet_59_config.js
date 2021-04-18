@@ -1,1 +1,1 @@
-var mnemonic = "setup shed barrel almost expire task waste cabbage era helmet venue avocado";
+var mnemonic = "motor tail final effort tomato breeze public salute tennis dwarf between unfold";

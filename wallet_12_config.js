@@ -1,1 +1,1 @@
-var mnemonic = "magic verb mandate empty outside depart smart lazy napkin grow jacket daughter";
+var mnemonic = "swear army situate awkward beyond able limb drive crouch attend cheap access";

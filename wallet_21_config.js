@@ -1,1 +1,1 @@
-var mnemonic = "anger nature fiction update assault since belt large wasp moon coconut ice";
+var mnemonic = "update moral debris balcony track ticket excess cereal sniff draft subway dignity";

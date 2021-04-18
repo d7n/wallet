@@ -1,1 +1,1 @@
-var mnemonic = "file maximum later embrace pioneer breeze pig trim hurdle shuffle hour vibrant";
+var mnemonic = "oval admit chief fatal bubble small setup version fit flag winner receive";

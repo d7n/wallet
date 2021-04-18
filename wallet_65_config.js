@@ -1,1 +1,1 @@
-var mnemonic = "engage upon know taxi weather account unhappy hidden erupt feel aisle venture";
+var mnemonic = "void dragon produce divorce timber bubble change napkin chef cereal tail reopen";

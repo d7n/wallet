@@ -1,1 +1,1 @@
-var mnemonic = "auto loop language kick sort winter plunge lounge one rival home demand";
+var mnemonic = "embrace aware rate toss current loyal marble hurdle short stick mention lonely";

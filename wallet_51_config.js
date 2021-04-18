@@ -1,1 +1,1 @@
-var mnemonic = "advance trip tornado damp peanut rigid friend spider nothing loyal kitten morning";
+var mnemonic = "box mother elevator arm accident cloth siren three never flavor hire source";

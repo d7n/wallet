@@ -1,1 +1,1 @@
-var mnemonic = "marine awesome follow thank minor layer another wave sunny cook birth sting";
+var mnemonic = "accident intact want enough mouse lizard metal young magnet noise degree hard";

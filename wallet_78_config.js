@@ -1,1 +1,1 @@
-var mnemonic = "tobacco possible smoke leave edge tourist exchange nose dinner uniform section escape";
+var mnemonic = "limit honey warfare chest meat depart smooth spike hero metal tornado check";

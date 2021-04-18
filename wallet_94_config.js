@@ -1,1 +1,1 @@
-var mnemonic = "apart trash dilemma fog steel train kitten frog climb mention envelope cat";
+var mnemonic = "climb save appear disease effort cancel festival tank cup disorder noise season";

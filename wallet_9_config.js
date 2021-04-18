@@ -1,1 +1,1 @@
-var mnemonic = "trim burst eyebrow truth circle lucky misery soccer all spend course grain";
+var mnemonic = "noodle benefit enhance when december fever cute crawl trust quick truck sunset";

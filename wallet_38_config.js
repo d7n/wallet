@@ -1,1 +1,1 @@
-var mnemonic = "conduct insect remain dolphin engage ask cream another lawn oxygen aunt thank";
+var mnemonic = "diet pig goddess actress entire diary loud canoe animal advice lumber uniform";

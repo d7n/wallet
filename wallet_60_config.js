@@ -1,1 +1,1 @@
-var mnemonic = "damp oval daring business emotion blush drip pen you donor involve clump";
+var mnemonic = "walk erode reduce parrot announce save crunch address toddler draw limb invest";

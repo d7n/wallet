@@ -1,1 +1,1 @@
-var mnemonic = "kingdom switch large bulk educate deal auto awesome parrot valve joke away";
+var mnemonic = "gloom zero script matter shield soul village alarm hybrid usage spy elephant";

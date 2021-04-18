@@ -1,1 +1,1 @@
-var mnemonic = "rose liar shoot joke frog matter label excess gesture suggest pencil enroll";
+var mnemonic = "build lunch hub noise garlic myth moment right toy armed mystery bone";

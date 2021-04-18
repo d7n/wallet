@@ -1,1 +1,1 @@
-var mnemonic = "certain potato crystal solar grass undo fire census local catch attitude service";
+var mnemonic = "possible film volume code spring actual split cycle bunker act share small";

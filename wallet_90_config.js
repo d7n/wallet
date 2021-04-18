@@ -1,1 +1,1 @@
-var mnemonic = "decide expose crater mansion option lift you message name timber among dice";
+var mnemonic = "chat airport ready foam flame copper swear volcano fix own december weather";

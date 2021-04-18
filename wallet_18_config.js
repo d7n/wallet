@@ -1,1 +1,1 @@
-var mnemonic = "match basket magnet analyst skill random program divide silver author phone tuition";
+var mnemonic = "fuel daring antenna gasp begin maid expose ordinary sail theory opinion sea";

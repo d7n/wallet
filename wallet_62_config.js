@@ -1,1 +1,1 @@
-var mnemonic = "unveil creek raccoon faith control renew blossom update fossil select potato either";
+var mnemonic = "lazy elevator venue elephant later exotic turtle slogan return expect lend rose";

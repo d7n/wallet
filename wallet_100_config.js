@@ -1,1 +1,1 @@
-var mnemonic = "obscure emerge flush try false method change planet alcohol now crunch science";
+var mnemonic = "audit suggest apple reveal roast morning mimic decade canyon jewel fall they";

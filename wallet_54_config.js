@@ -1,1 +1,1 @@
-var mnemonic = "stage inhale myth knock jar defense carry cycle teach judge object space";
+var mnemonic = "frost arctic hundred cereal primary depend cloud lemon frozen polar butter sunny";

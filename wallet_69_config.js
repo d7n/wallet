@@ -1,1 +1,1 @@
-var mnemonic = "myth midnight rack ramp rail water genius frame endless hen leave expect";
+var mnemonic = "window either filter spoil tomato diamond hotel replace custom divorce cricket engage";

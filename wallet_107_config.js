@@ -1,1 +1,1 @@
-var mnemonic = "enter toddler earth same sausage error purchase noodle better detect abuse soda";
+var mnemonic = "taste family mosquito safe shaft crawl corn swing buffalo hundred engage blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney amused clap believe lizard defy puppy soda tourist empty baby south";
+var mnemonic = "nose there regret faculty prize grocery wild million sentence find scrap will";

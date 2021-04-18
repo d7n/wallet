@@ -1,1 +1,1 @@
-var mnemonic = "duck cheese like rhythm machine avocado garden broom climb view tank harbor";
+var mnemonic = "pyramid test impulse other across hybrid pretty ship glue uncover hub bullet";

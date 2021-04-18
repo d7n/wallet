@@ -1,1 +1,1 @@
-var mnemonic = "harbor menu teach silver path room sense pretty layer oven crunch weird";
+var mnemonic = "vote upset left know hour man alter simple bone chaos round hat";

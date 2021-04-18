@@ -1,1 +1,1 @@
-var mnemonic = "master story debris robust divert final idea silent wasp mixture year puzzle";
+var mnemonic = "uncover shrimp float harbor opinion jungle post intact outdoor fancy setup often";

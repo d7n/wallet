@@ -1,1 +1,1 @@
-var mnemonic = "sand popular erode limb almost attend then talk spoil ribbon inherit ship";
+var mnemonic = "toddler awesome horn before head burger daughter van code install smoke fee";

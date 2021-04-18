@@ -1,1 +1,1 @@
-var mnemonic = "bundle fire notice now valley turtle promote device business property moon cheese";
+var mnemonic = "crack example target twin girl miss scrub table sibling bright narrow ask";

@@ -1,1 +1,1 @@
-var mnemonic = "draft forget delay practice route notable fame tomato panther release breeze green";
+var mnemonic = "upset pelican bamboo gas help certain worth deliver address bomb attend script";

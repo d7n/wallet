@@ -1,1 +1,1 @@
-var mnemonic = "permit flat sport camp worry harsh luggage lemon food claw cover banana";
+var mnemonic = "finger below repair banner sadness square ordinary shuffle chest ball weapon will";

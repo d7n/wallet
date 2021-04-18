@@ -1,1 +1,1 @@
-var mnemonic = "kick load heavy notable mask theory guilt veteran toddler private pair agent";
+var mnemonic = "squeeze once canvas zebra february auction october remind share blanket jeans outdoor";

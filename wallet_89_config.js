@@ -1,1 +1,1 @@
-var mnemonic = "arena bounce crystal table second toward inch year ice mean symbol thought";
+var mnemonic = "calm enlist shed eyebrow grief avocado dwarf tip leisure manual trumpet end";

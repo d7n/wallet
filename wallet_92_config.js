@@ -1,1 +1,1 @@
-var mnemonic = "object large traffic face trouble puppy race alter toss wash diet honey";
+var mnemonic = "visa pluck afford easily elephant drive card poem pride dog pistol rival";

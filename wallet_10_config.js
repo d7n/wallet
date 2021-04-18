@@ -1,1 +1,1 @@
-var mnemonic = "install title beyond betray forget hollow medal mention police message syrup educate";
+var mnemonic = "vicious frozen taste poet stove begin subway universe lumber update wide attend";

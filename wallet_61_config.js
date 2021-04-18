@@ -1,1 +1,1 @@
-var mnemonic = "rack purity shoot chronic else seek deny news argue post extra fitness";
+var mnemonic = "wrap correct congress young animal zebra main decorate subject garage lava prize";

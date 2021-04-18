@@ -1,1 +1,1 @@
-var mnemonic = "lamp sphere clump tennis issue october surface quality best cargo marriage arch";
+var mnemonic = "swing orient pond rebuild onion river sweet manage oven rookie lock own";

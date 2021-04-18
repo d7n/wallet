@@ -1,1 +1,1 @@
-var mnemonic = "ride hungry grow return soon tuna hobby fluid remain galaxy shock slow";
+var mnemonic = "rebel glimpse hedgehog little dinosaur cherry fat soldier crystal afford found planet";

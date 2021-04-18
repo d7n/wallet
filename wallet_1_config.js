@@ -1,1 +1,1 @@
-var mnemonic = "fabric time course funny now expire explain rapid donkey usual symptom borrow";
+var mnemonic = "skull child auto joy abuse awake multiply donor monitor deposit hunt liquid";

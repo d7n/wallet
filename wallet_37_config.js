@@ -1,1 +1,1 @@
-var mnemonic = "artefact verify again fiscal silk lounge what wisdom blast one someone swear";
+var mnemonic = "close accuse story employ glance slender deal job exhibit isolate claw window";

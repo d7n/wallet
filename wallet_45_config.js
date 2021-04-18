@@ -1,1 +1,1 @@
-var mnemonic = "enemy habit silly pink viable cotton sorry update one vacant park frequent";
+var mnemonic = "way tourist spell vacant inject mushroom virtual dinosaur sausage walk bottom excess";

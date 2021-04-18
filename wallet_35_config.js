@@ -1,1 +1,1 @@
-var mnemonic = "layer belt purity timber car fall film stumble poem example siren polar";
+var mnemonic = "brief reward sting mercy fun chest ahead client advice lock cream kick";

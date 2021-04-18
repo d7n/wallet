@@ -1,1 +1,1 @@
-var mnemonic = "trumpet motion length winner law trip puzzle gift disagree flush certain brand";
+var mnemonic = "outer news hospital buyer predict bachelor stadium hawk relax mushroom local coconut";

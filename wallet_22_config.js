@@ -1,1 +1,1 @@
-var mnemonic = "reform artwork wasp awake blue odor east mistake extend copper gate lizard";
+var mnemonic = "glance fortune mixture danger life seat stand student nut already panic push";

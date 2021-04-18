@@ -1,1 +1,1 @@
-var mnemonic = "crucial neck small ride must drop shaft staff garment witness speak change";
+var mnemonic = "club hair once liar head sheriff glass edge shrimp feature brown mutual";

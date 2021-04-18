@@ -1,1 +1,1 @@
-var mnemonic = "rebel river metal slender dirt below better leisure enable rocket seed must";
+var mnemonic = "require fancy beef decade badge baby pluck demand curious excess stay copy";

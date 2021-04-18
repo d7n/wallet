@@ -1,1 +1,1 @@
-var mnemonic = "sell settle ride lesson hybrid fashion plate shallow heavy burden check best";
+var mnemonic = "raccoon april clap resist combine case attack alley brand together reason lesson";

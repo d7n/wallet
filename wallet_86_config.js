@@ -1,1 +1,1 @@
-var mnemonic = "wrestle nest develop vibrant close assume garbage tooth clever stool congress actress";
+var mnemonic = "income reopen system slow acquire bullet boy prepare reform ritual middle tonight";
