@@ -1,1 +1,1 @@
-var mnemonic = "glad brick radio clump fit answer tooth damage unable birth speed sense";
+var mnemonic = "merit describe runway radio damp execute tiger cluster lemon street between shift";

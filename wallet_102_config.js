@@ -1,1 +1,1 @@
-var mnemonic = "situate hybrid blanket knock antique dinosaur reject science stamp trick sell suspect";
+var mnemonic = "march marine win spin pause train rice suit album online sail series";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz rich insect among vocal galaxy across ramp grape suspect floor torch";
+var mnemonic = "pig main metal flight text success detail seek famous great wink social";

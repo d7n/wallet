@@ -1,1 +1,1 @@
-var mnemonic = "option fat border ball citizen always believe exotic quiz negative garment clever";
+var mnemonic = "chest save today waste east act wonder average canal save gorilla flock";

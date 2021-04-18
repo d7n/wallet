@@ -1,1 +1,1 @@
-var mnemonic = "runway leave sock shoot fever tip hair name sketch avoid fold flash";
+var mnemonic = "raise gravity sport sea suggest check junior kiss cube picnic prepare lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed vendor duck injury butter hat inquiry rain exact van cook plunge";
+var mnemonic = "dove want reason transfer broken bless plug observe under pepper kit stove";

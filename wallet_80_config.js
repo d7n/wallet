@@ -1,1 +1,1 @@
-var mnemonic = "embark local hole forward puppy result couple absurd bamboo fit differ canvas";
+var mnemonic = "wood expire dice morning wonder woman tennis canvas couch fancy clap payment";

@@ -1,1 +1,1 @@
-var mnemonic = "ship genre enhance spread fortune level six luggage pepper clown danger plastic";
+var mnemonic = "bone soda vintage sadness prosper hedgehog shoe stadium frog bunker two effort";

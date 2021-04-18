@@ -1,1 +1,1 @@
-var mnemonic = "jaguar target tribe punch acoustic insect urge sell cruel earn snow circle";
+var mnemonic = "scout reward slogan coffee bless asthma gossip theme title creek zone draw";

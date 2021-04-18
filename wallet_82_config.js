@@ -1,1 +1,1 @@
-var mnemonic = "among basket cook infant estate public satisfy long exit arrive stick curtain";
+var mnemonic = "unit race grocery kitchen trouble throw history cloth ranch virtual bacon tiny";

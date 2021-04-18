@@ -1,1 +1,1 @@
-var mnemonic = "boss correct clip chaos creek insect anxiety volume bind icon mind reopen";
+var mnemonic = "invest crucial dove ugly include young major notice security width sea arm";

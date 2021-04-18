@@ -1,1 +1,1 @@
-var mnemonic = "profit skate boost jewel zebra dragon knock cactus bitter foot cover number";
+var mnemonic = "tower shadow rubber pass plate hope claw east abstract evoke path hedgehog";

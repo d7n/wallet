@@ -1,1 +1,1 @@
-var mnemonic = "tilt head army left crack clutch monkey fabric urge earth thrive ski";
+var mnemonic = "cinnamon moon truck daughter mercy vessel loop juice title sheriff private rain";

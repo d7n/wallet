@@ -1,1 +1,1 @@
-var mnemonic = "acoustic cherry skirt snow west peanut rebel ensure dinosaur emerge canoe math";
+var mnemonic = "parrot dilemma verb multiply size chimney any pact crystal fatigue fiction pull";

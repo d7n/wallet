@@ -1,1 +1,1 @@
-var mnemonic = "resemble typical ozone unit alarm crystal inquiry child orient twenty road ensure";
+var mnemonic = "neck nasty army survey manage student chuckle stamp onion boat dry lazy";

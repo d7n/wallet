@@ -1,1 +1,1 @@
-var mnemonic = "narrow apple impulse collect bulk camera stairs slot skirt boost anger fade";
+var mnemonic = "dwarf lonely endorse uncle throw oppose own fine cinnamon chest escape scissors";

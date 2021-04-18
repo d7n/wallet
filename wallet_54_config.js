@@ -1,1 +1,1 @@
-var mnemonic = "decide step august abstract still install marine risk dutch whale custom army";
+var mnemonic = "tip ginger clarify have slice slice ranch either quarter insect daring witness";

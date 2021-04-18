@@ -1,1 +1,1 @@
-var mnemonic = "fluid grace ostrich sword real film gap chest rubber relax trust consider";
+var mnemonic = "second domain donor ticket call nature good rice quiz decade gap knock";

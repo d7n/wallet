@@ -1,1 +1,1 @@
-var mnemonic = "insane victory jeans merit february crawl tail portion episode trim lesson own";
+var mnemonic = "purity frost gasp time drastic congress enact key vacuum siren wall reform";

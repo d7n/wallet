@@ -1,1 +1,1 @@
-var mnemonic = "invest domain onion east accuse balcony update devote proud rice series excuse";
+var mnemonic = "crash axis left effort pole magnet topple spend property rely end grab";

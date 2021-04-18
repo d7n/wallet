@@ -1,1 +1,1 @@
-var mnemonic = "spoon ride roast tiny tower swamp link rally access visa ridge census";
+var mnemonic = "bulk brush element notice logic treat sell mention hedgehog curious snake cost";

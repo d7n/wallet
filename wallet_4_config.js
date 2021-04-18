@@ -1,1 +1,1 @@
-var mnemonic = "turn evil buddy adult august veteran logic duck capable balcony moral acoustic";
+var mnemonic = "rose potato glance fork garlic awesome banner style adapt head park edit";

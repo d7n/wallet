@@ -1,1 +1,1 @@
-var mnemonic = "small admit faith school hundred frog clinic insect orphan will raise viable";
+var mnemonic = "still dove found horn syrup jewel magic outer mule dove tone skate";

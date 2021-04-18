@@ -1,1 +1,1 @@
-var mnemonic = "adapt champion shop roast bind stereo sugar nose primary aerobic battle alert";
+var mnemonic = "quarter walnut tortoise lyrics discover adjust old loop arrange neck filter trust";

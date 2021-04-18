@@ -1,1 +1,1 @@
-var mnemonic = "deposit limit resist train fiction kiss gap guitar nuclear paper sail twin";
+var mnemonic = "crawl amateur middle lock admit wash rigid race twist time urge satisfy";

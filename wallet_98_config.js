@@ -1,1 +1,1 @@
-var mnemonic = "fuel identify virtual citizen shallow noodle quantum hybrid word smoke love dinosaur";
+var mnemonic = "bean midnight breeze account wheat knife forget voice match tortoise dream retire";

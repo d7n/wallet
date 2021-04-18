@@ -1,1 +1,1 @@
-var mnemonic = "float all belt forum bike sorry arch company close team cute fiber";
+var mnemonic = "trap type transfer gospel develop session concert illness danger liar expire mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild bounce venue lamp poverty birth blade foster humble result bullet argue";
+var mnemonic = "matrix vague theme owner shallow winter leader elegant scrub decade garlic main";

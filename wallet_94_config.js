@@ -1,1 +1,1 @@
-var mnemonic = "stamp frequent conduct gap must captain gain apple thrive tiger auto better";
+var mnemonic = "fiber clarify dad spell various okay jaguar audit elite street manual parent";

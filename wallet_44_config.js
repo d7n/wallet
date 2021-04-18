@@ -1,1 +1,1 @@
-var mnemonic = "pyramid fit crazy day inside educate kiss nest tone person exact ride";
+var mnemonic = "have warrior easy judge need citizen nephew style bounce firm cargo mind";

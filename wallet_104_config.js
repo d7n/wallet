@@ -1,1 +1,1 @@
-var mnemonic = "token slogan sell tribe album salmon tube tumble mandate this conduct cover";
+var mnemonic = "milk super spice capital person lens arctic actress bleak pipe wave slogan";

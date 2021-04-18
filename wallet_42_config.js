@@ -1,1 +1,1 @@
-var mnemonic = "before survey throw craft depth tide pizza reject okay spring wear empty";
+var mnemonic = "guess armor build stick path gas income apple believe guess mixed bargain";

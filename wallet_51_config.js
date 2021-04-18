@@ -1,1 +1,1 @@
-var mnemonic = "crime style cave vocal motor injury caught pulp write regret hat deposit";
+var mnemonic = "link notable decrease talent tiny vast consider silk skin stock table voyage";

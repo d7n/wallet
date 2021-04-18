@@ -1,1 +1,1 @@
-var mnemonic = "legal color endless track swamp merit craft sound sort damp resist movie";
+var mnemonic = "shop boring thought satisfy merry proud pony drill crystal quick pair way";

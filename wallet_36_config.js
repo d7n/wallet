@@ -1,1 +1,1 @@
-var mnemonic = "absent skill lucky strike scene try address inch disorder dilemma three strategy";
+var mnemonic = "cupboard renew debris into inspire success grab demise clean couch code until";

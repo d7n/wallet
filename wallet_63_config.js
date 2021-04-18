@@ -1,1 +1,1 @@
-var mnemonic = "wrestle royal trial copper floor machine table certain palace smooth question tray";
+var mnemonic = "tilt ask print east length evil sorry book boost ignore exist summer";

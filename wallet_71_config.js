@@ -1,1 +1,1 @@
-var mnemonic = "upset chief region recipe swing oven receive about small lake nerve ship";
+var mnemonic = "scissors night luggage loud prepare sunny craft heart agent entire fever sight";

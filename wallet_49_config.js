@@ -1,1 +1,1 @@
-var mnemonic = "subject escape word clap hospital matter minimum day siege carbon junk rent";
+var mnemonic = "liar negative horn chalk alter misery only super build fame excuse head";

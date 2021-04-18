@@ -1,1 +1,1 @@
-var mnemonic = "page taxi extra fitness negative thing glove popular evidence busy wood eight";
+var mnemonic = "episode pool problem image endorse caution flame guilt bench segment already phrase";

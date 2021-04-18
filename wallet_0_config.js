@@ -1,1 +1,1 @@
-var mnemonic = "script canoe junk allow digital one require endless shoot bundle mixture flight";
+var mnemonic = "denial boat glue west clarify hair arrow tackle frost accident planet museum";

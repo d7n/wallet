@@ -1,1 +1,1 @@
-var mnemonic = "crazy genuine slab skull right bridge grass pattern traffic scrub wash diet";
+var mnemonic = "day minute walk celery spare gentle want marine front bleak club lend";

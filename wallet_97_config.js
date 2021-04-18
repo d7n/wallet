@@ -1,1 +1,1 @@
-var mnemonic = "bread trust truck ill simple topple nose funny chat ignore voice suggest";
+var mnemonic = "basic pet invite dignity early dune huge extra budget tongue actress decrease";

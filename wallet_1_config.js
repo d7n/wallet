@@ -1,1 +1,1 @@
-var mnemonic = "super dash slam cause sun stove rude aim work network early economy";
+var mnemonic = "fly opera symptom dry hungry cream large cost daring remain melt various";

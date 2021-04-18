@@ -1,1 +1,1 @@
-var mnemonic = "aware way idea tissue body creek voice fog stairs early infant cycle";
+var mnemonic = "hero hard swift drip wire black slogan equip under robot reflect edge";

@@ -1,1 +1,1 @@
-var mnemonic = "opera angry endorse furnace average tone metal elbow damage naive lazy asthma";
+var mnemonic = "swift borrow spider again tone diet march unknown around luxury ranch candy";

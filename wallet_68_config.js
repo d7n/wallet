@@ -1,1 +1,1 @@
-var mnemonic = "dentist pull brass vivid lawsuit attend suspect have bronze glass crucial jump";
+var mnemonic = "gravity rocket copy repeat return outdoor region chest alpha door damage chalk";

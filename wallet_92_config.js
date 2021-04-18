@@ -1,1 +1,1 @@
-var mnemonic = "globe loop rib sister bubble finish clean unable sister auto cable vote";
+var mnemonic = "cradle erosion phrase much unknown hobby able judge life pill myself acquire";

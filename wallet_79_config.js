@@ -1,1 +1,1 @@
-var mnemonic = "butter artist pledge apple flee describe vital letter earn fringe share error";
+var mnemonic = "flame width pulse vast silk gather imitate option stereo gravity plastic forest";

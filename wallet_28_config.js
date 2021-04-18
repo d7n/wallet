@@ -1,1 +1,1 @@
-var mnemonic = "stock sketch hub sniff nothing patient lemon crime whale earn scout actual";
+var mnemonic = "salon ensure baby size process proof flip security zone fossil setup skull";

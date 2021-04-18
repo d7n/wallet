@@ -1,1 +1,1 @@
-var mnemonic = "define spring tell flower almost love simple pepper chapter squirrel where chest";
+var mnemonic = "distance tennis dutch flee secret crumble shoe invest modify soap lawsuit pigeon";

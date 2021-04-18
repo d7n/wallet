@@ -1,1 +1,1 @@
-var mnemonic = "under fade sketch combine vivid embrace ramp spawn broom express middle donor";
+var mnemonic = "tail romance race stereo antique tired abstract company vivid rent embrace torch";

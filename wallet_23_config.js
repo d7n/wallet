@@ -1,1 +1,1 @@
-var mnemonic = "shield used wrestle kangaroo token brass retire crew fee duck pitch cabbage";
+var mnemonic = "giraffe dune behind trial theme mask gloom blanket sugar awesome purchase lawn";

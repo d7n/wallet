@@ -1,1 +1,1 @@
-var mnemonic = "clever ring wait faculty garlic blade walnut spray live hero salmon noble";
+var mnemonic = "battle palm potato famous before heavy absorb family aerobic where edit web";

@@ -1,1 +1,1 @@
-var mnemonic = "gift welcome pact profit secret glove dinner section keen before million flash";
+var mnemonic = "estate rubber wreck enact sound until culture inherit oven lady cushion seat";

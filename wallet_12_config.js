@@ -1,1 +1,1 @@
-var mnemonic = "jeans odor speed suffer learn matrix sight dad uphold unlock mule evil";
+var mnemonic = "fine lumber field convince comfort ethics girl check warrior coil keep turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "mango impact can time raise ski bind sail game coral guess latin";
+var mnemonic = "marriage render toy pill help real blast horror major differ bring client";

@@ -1,1 +1,1 @@
-var mnemonic = "inform car build liar tongue cereal toilet finger exact remember sphere radar";
+var mnemonic = "employ alien clown address grace brisk ecology oblige dog unhappy rebuild bulb";

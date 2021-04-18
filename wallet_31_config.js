@@ -1,1 +1,1 @@
-var mnemonic = "slab wish hunt clarify moral under soda symptom silent vivid box cable";
+var mnemonic = "twin labor level glide rule vendor alpha act ozone crumble turn call";

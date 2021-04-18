@@ -1,1 +1,1 @@
-var mnemonic = "mouse neglect apple pizza year wood mobile brisk desk fatigue injury chair";
+var mnemonic = "pride oblige fly scare tank square want feature warrior dismiss razor toss";

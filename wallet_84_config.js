@@ -1,1 +1,1 @@
-var mnemonic = "junior trouble peace found rough twenty right finish heart tree milk correct";
+var mnemonic = "unhappy baby female turkey render punch cruel indoor poem rebel enroll bulk";

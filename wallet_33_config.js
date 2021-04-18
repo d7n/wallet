@@ -1,1 +1,1 @@
-var mnemonic = "spice razor oven sing source clinic book goose wage profit home artist";
+var mnemonic = "leopard hedgehog zone wisdom volume slow evoke lecture invite kitchen huge rebel";

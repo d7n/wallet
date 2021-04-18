@@ -1,1 +1,1 @@
-var mnemonic = "twice agent shoe enlist protect broken dizzy baby diesel noodle dentist accuse";
+var mnemonic = "ceiling scout vessel volume stumble vapor connect museum erosion process demise average";

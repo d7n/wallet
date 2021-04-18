@@ -1,1 +1,1 @@
-var mnemonic = "enroll marble filter exercise anchor wide peace brick puzzle trade donate best";
+var mnemonic = "hungry want ripple north width flat pitch essay kind hair someone unaware";

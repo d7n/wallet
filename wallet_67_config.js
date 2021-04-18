@@ -1,1 +1,1 @@
-var mnemonic = "pipe crisp fossil timber coral grunt small random final stove embrace case";
+var mnemonic = "crawl recall humble farm life scissors afford vintage legend accuse wild better";

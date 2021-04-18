@@ -1,1 +1,1 @@
-var mnemonic = "symbol neck middle arrest warm figure road thing humor about cushion suit";
+var mnemonic = "ahead artwork can outer happy second exhibit book auction cushion tag mail";

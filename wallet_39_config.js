@@ -1,1 +1,1 @@
-var mnemonic = "now baby pet sorry friend oven method aunt danger curious online arrange";
+var mnemonic = "dumb emerge dance label venue chat trap power image squirrel chunk define";

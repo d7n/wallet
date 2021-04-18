@@ -1,1 +1,1 @@
-var mnemonic = "grab search nerve much giraffe unhappy consider rocket dizzy draft faint laptop";
+var mnemonic = "solid badge fame battle drill grape plug melt siren purse sun author";

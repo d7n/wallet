@@ -1,1 +1,1 @@
-var mnemonic = "divorce unable mouse excite judge envelope february female poem pond absorb profit";
+var mnemonic = "there rail joy borrow radio strategy focus chaos awesome chief card dove";

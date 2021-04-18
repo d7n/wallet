@@ -1,1 +1,1 @@
-var mnemonic = "panel people vehicle attend borrow hedgehog small evidence latin minimum file hire";
+var mnemonic = "deal sibling drama cruise belt conduct refuse pottery deposit harsh whisper dust";

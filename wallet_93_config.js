@@ -1,1 +1,1 @@
-var mnemonic = "sword soul uphold anchor subway click lizard ripple glimpse eight patient axis";
+var mnemonic = "team nerve olympic delay animal long ozone subway display recall eternal fabric";

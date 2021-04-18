@@ -1,1 +1,1 @@
-var mnemonic = "degree together strategy knee fiber honey three point swap canvas mail hand";
+var mnemonic = "guide finger mesh cream collect surprise dose response mansion good employ dismiss";

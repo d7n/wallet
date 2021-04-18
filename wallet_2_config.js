@@ -1,1 +1,1 @@
-var mnemonic = "permit merry grain aunt solar wrong mammal shoe fresh ghost cherry power";
+var mnemonic = "also song girl current scissors august analyst cherry change shoot news loan";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel foster deal multiply quality bulk explain episode leg economy prevent spike";
+var mnemonic = "tomorrow sword winter rib almost sudden arm sense destroy silk arrive nut";

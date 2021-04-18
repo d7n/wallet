@@ -1,1 +1,1 @@
-var mnemonic = "reason suggest couple ecology tragic always crowd normal alley civil outer fluid";
+var mnemonic = "maze then arrest giant shine share chaos canoe great reform tonight dial";

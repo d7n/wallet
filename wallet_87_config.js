@@ -1,1 +1,1 @@
-var mnemonic = "sight around fog bone sentence cinnamon artist uncle air empower ring pet";
+var mnemonic = "rifle push address office trust radar caution divorce try atom cheap erupt";

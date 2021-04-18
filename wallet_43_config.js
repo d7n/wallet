@@ -1,1 +1,1 @@
-var mnemonic = "sun road quality brick sort almost edge shoulder example mutual boost error";
+var mnemonic = "scheme emerge avoid release rocket garment cradle stock basket obvious bench vibrant";

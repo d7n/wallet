@@ -1,1 +1,1 @@
-var mnemonic = "drip clean drink double cat brisk shoulder nuclear slice apology heavy winner";
+var mnemonic = "twin convince wash trophy depend ahead sniff current vibrant require board author";

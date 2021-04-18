@@ -1,1 +1,1 @@
-var mnemonic = "real humble original evidence pool sad crucial total cream despair stamp carry";
+var mnemonic = "giggle burden unusual rug thumb army chat gravity avoid grain nation tobacco";

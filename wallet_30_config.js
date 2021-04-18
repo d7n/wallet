@@ -1,1 +1,1 @@
-var mnemonic = "liar pudding festival man admit moral rebuild need tiny father arena pen";
+var mnemonic = "vintage liquid army estate idle detail menu number uncle rescue forget recipe";

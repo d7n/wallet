@@ -1,1 +1,1 @@
-var mnemonic = "fury gravity busy eight mango east one outdoor grab pupil round casino";
+var mnemonic = "inflict hello crunch business prison damage shock guide flower juice more trim";
