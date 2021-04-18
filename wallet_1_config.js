@@ -1,1 +1,1 @@
-var mnemonic = "wrestle girl gadget female danger absurd six bike hammer consider margin unveil";
+var mnemonic = "mimic route hero caution lumber harvest solar cream deer trip torch lumber";

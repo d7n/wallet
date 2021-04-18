@@ -1,1 +1,1 @@
-var mnemonic = "punch minor oyster distance require crawl feel west volcano expire hero file";
+var mnemonic = "access cabbage wood truck citizen manage alert abstract annual cover rally cannon";

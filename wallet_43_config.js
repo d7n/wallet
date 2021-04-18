@@ -1,1 +1,1 @@
-var mnemonic = "before craft vintage elder admit tent observe push truth clinic track extra";
+var mnemonic = "royal energy frown rule obscure era remember small yellow below impulse wife";

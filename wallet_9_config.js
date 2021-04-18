@@ -1,1 +1,1 @@
-var mnemonic = "twelve little mass body wise jazz bicycle devote donkey trial surround gravity";
+var mnemonic = "glue speak raise blood garage know tomato admit survey music consider bracket";

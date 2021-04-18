@@ -1,1 +1,1 @@
-var mnemonic = "deliver tumble rocket together force banner hello assault brisk anger bean metal";
+var mnemonic = "monitor blind jazz frame orbit truck coin rely actual screen horse maid";

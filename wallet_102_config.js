@@ -1,1 +1,1 @@
-var mnemonic = "ethics burger husband ticket clean boy asset column access onion holiday match";
+var mnemonic = "nation remind reduce pigeon define mom music north setup waste spatial emerge";

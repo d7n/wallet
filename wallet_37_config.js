@@ -1,1 +1,1 @@
-var mnemonic = "multiply like start gain arena punch stadium cycle dragon rather tragic quantum";
+var mnemonic = "glance hurry roast brisk call kangaroo maple zoo gesture fence cruel royal";

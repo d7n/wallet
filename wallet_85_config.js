@@ -1,1 +1,1 @@
-var mnemonic = "wrap cover seven address rug interest box physical plunge delay slow occur";
+var mnemonic = "hair coyote intact woman call burger assault fine planet bargain orange flame";

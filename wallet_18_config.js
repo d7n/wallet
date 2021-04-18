@@ -1,1 +1,1 @@
-var mnemonic = "manage silk rifle series report before child sight wish ensure evoke old";
+var mnemonic = "basic jazz kitchen fence amateur bottom nut shoulder dismiss broken jazz sea";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle vocal fortune like garment exhibit want online promote become leaf rocket";
+var mnemonic = "brother gift brisk scissors guilt another kind say drip snack tube diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "initial direct mistake fit can sign portion rescue around giggle among answer";
+var mnemonic = "kingdom heart avoid treat clarify clerk jazz change sad aware hurry elbow";

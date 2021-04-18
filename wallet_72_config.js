@@ -1,1 +1,1 @@
-var mnemonic = "remind island actor blush fee stone fashion solid apple world ceiling silent";
+var mnemonic = "lucky seat immense crush opera hire foam rabbit word wrestle garment exercise";

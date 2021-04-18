@@ -1,1 +1,1 @@
-var mnemonic = "jar village exchange accuse churn army three actor disagree pull payment equal";
+var mnemonic = "know shadow cup direct behind upset fame oblige jazz planet throw museum";

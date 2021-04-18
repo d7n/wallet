@@ -1,1 +1,1 @@
-var mnemonic = "list client identify hurdle panic solar pen web chaos bike wrist traffic";
+var mnemonic = "flag spy clog version flush alpha wrong olive giggle cool there brave";

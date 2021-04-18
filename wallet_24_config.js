@@ -1,1 +1,1 @@
-var mnemonic = "peace casino rich renew hundred oval door front trouble spot outer tiny";
+var mnemonic = "hurt during grace sheriff direct yard plunge demand pet program theory cupboard";

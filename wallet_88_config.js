@@ -1,1 +1,1 @@
-var mnemonic = "hill reform dress west deer uncover pledge insane material raise squeeze exile";
+var mnemonic = "peanut sphere grid cricket hold review worth cover minute art dune oval";

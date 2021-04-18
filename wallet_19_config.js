@@ -1,1 +1,1 @@
-var mnemonic = "verify hub lab water logic metal unusual mandate cup arrow secret seek";
+var mnemonic = "gaze reform diamond immense museum cover evil stone obtain fiscal coast never";

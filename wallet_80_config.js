@@ -1,1 +1,1 @@
-var mnemonic = "swim space lunch token ugly issue cheese gas file report spend science";
+var mnemonic = "outside exhaust response razor fun ignore critic raw speak master congress often";

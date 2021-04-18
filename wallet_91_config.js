@@ -1,1 +1,1 @@
-var mnemonic = "risk ugly call point bright decrease jacket organ medal camp able escape";
+var mnemonic = "force relax maid subway liberty ability smart first clump honey misery raw";

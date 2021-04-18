@@ -1,1 +1,1 @@
-var mnemonic = "must room derive key eagle vibrant heavy alarm custom adult wish village";
+var mnemonic = "defense doll honey public entire sock jar worth debate couch invite concert";

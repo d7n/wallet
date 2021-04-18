@@ -1,1 +1,1 @@
-var mnemonic = "chat future scheme blanket duck carpet oxygen casino strategy asthma seat inhale";
+var mnemonic = "trim broom room casino peanut basic board message era double happy wagon";

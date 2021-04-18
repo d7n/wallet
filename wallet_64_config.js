@@ -1,1 +1,1 @@
-var mnemonic = "announce swap access enlist fee life blush poem room finger one powder";
+var mnemonic = "finger fluid canyon awesome moral syrup unfair tired order brand pill dog";

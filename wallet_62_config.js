@@ -1,1 +1,1 @@
-var mnemonic = "palace discover buddy penalty fabric space also prepare sugar horse opinion sentence";
+var mnemonic = "jacket kiwi report flip antenna air federal juice toward alpha east inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "common quick initial glare inner decade oxygen clump denial wish kid crisp";
+var mnemonic = "announce faculty embody baby practice always must ship brief judge embark action";

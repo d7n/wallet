@@ -1,1 +1,1 @@
-var mnemonic = "injury junk style junior doll slogan gain insect local tomorrow sock glove";
+var mnemonic = "open caught afford liberty feed sick lock crane avocado dish random nuclear";

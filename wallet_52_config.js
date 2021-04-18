@@ -1,1 +1,1 @@
-var mnemonic = "medal dove language funny sort across uniform forward rug inside cost stone";
+var mnemonic = "drama art lake water either matter try scheme clock forget tower photo";

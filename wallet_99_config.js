@@ -1,1 +1,1 @@
-var mnemonic = "slogan beef elite dirt secret rather invest boat pet side unusual outdoor";
+var mnemonic = "birth car diet swift venue heart achieve address moment yard student lake";

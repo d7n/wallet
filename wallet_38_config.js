@@ -1,1 +1,1 @@
-var mnemonic = "title foster govern home situate night night govern deer receive stomach bronze";
+var mnemonic = "forget little wreck love fatal filter throw answer broken lesson month portion";

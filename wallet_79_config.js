@@ -1,1 +1,1 @@
-var mnemonic = "fancy convince wheel dune click over snap angle armed affair modify popular";
+var mnemonic = "exhibit jewel deal journey mother daring glue violin decide plug vapor mansion";

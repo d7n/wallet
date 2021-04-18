@@ -1,1 +1,1 @@
-var mnemonic = "vague crazy three debris brisk surface base wealth face curve hurdle remember";
+var mnemonic = "embark loop train correct all reveal drift swear shaft problem scale found";

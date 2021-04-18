@@ -1,1 +1,1 @@
-var mnemonic = "swing mandate seven tornado sun fabric pigeon diamond swing annual gate before";
+var mnemonic = "certain ethics cause addict primary glare giant outside apart viable hope garment";

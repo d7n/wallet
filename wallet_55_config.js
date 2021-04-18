@@ -1,1 +1,1 @@
-var mnemonic = "episode current energy better bird cycle proud bleak sing focus answer alone";
+var mnemonic = "marble plastic inspire such indicate sail fever route main deliver able lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "proud police exclude shine custom ten forest hazard disease nurse ribbon season";
+var mnemonic = "plunge negative wheat cancel jewel lonely tuition bronze sibling knee magic chronic";

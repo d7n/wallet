@@ -1,1 +1,1 @@
-var mnemonic = "buffalo iron disease bone tattoo foam talent chair local script invite surprise";
+var mnemonic = "clown ankle above crisp lecture sort apple hundred develop cement country inherit";

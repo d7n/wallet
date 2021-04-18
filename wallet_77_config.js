@@ -1,1 +1,1 @@
-var mnemonic = "clip sun volume luggage stereo wedding glass grid tribe derive achieve sauce";
+var mnemonic = "dynamic mistake quick theory eternal spider level update size horse mom embody";

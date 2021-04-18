@@ -1,1 +1,1 @@
-var mnemonic = "reveal theme physical erase danger mule brand hawk fuel achieve depth hello";
+var mnemonic = "invite shadow odor aware mirror tilt nerve quote virtual hawk ice belt";

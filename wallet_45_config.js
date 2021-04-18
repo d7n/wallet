@@ -1,1 +1,1 @@
-var mnemonic = "blur traffic address omit bicycle lucky knife another next smart juice height";
+var mnemonic = "process sentence quarter dad marine bunker obvious leg toilet camera wise excess";

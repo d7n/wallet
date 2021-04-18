@@ -1,1 +1,1 @@
-var mnemonic = "organ craft session dad artefact witness candy script just video oxygen better";
+var mnemonic = "veteran else focus mother among cart funny aim barely boss armor amateur";

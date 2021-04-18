@@ -1,1 +1,1 @@
-var mnemonic = "hint bright little photo thing student play correct pluck cute field absent";
+var mnemonic = "robust mammal vote faint possible limb paper capable galaxy rug merry unable";

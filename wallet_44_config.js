@@ -1,1 +1,1 @@
-var mnemonic = "outdoor muscle dish elegant tell jar other notice suspect diagram nut detail";
+var mnemonic = "push print van judge wave mean soccer blossom damp spawn sight narrow";

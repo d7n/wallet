@@ -1,1 +1,1 @@
-var mnemonic = "dynamic mouse grow artwork weather vessel mushroom easily giraffe toddler awake conduct";
+var mnemonic = "easy refuse evolve balcony outside option arrow moment suggest clutch local hire";

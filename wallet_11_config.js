@@ -1,1 +1,1 @@
-var mnemonic = "brass hero throw image monkey stick salon market super water try clip";
+var mnemonic = "supply auction under category liberty shadow basket pill velvet ordinary truth nerve";

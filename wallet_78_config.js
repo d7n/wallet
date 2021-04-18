@@ -1,1 +1,1 @@
-var mnemonic = "usual sudden demand team reflect habit soccer prepare permit evidence public grab";
+var mnemonic = "raccoon wash baby dumb flame wash diesel breeze bus cat torch decorate";

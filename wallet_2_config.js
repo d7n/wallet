@@ -1,1 +1,1 @@
-var mnemonic = "rate next banana tool team ankle window ten vessel pattern spot just";
+var mnemonic = "autumn shove wide betray finish ten hour bunker engine exile thing fetch";

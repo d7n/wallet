@@ -1,1 +1,1 @@
-var mnemonic = "artwork devote soap rack intact unfold sadness use seven artefact flash sea";
+var mnemonic = "almost demise employ doll winter truth office manage puppy flip attitude effort";

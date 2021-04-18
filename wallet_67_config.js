@@ -1,1 +1,1 @@
-var mnemonic = "behave surprise orbit naive begin swing lion side jeans lava dose dream";
+var mnemonic = "twelve about senior damage proof certain tower wet tuition steak prevent denial";

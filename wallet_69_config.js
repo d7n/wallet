@@ -1,1 +1,1 @@
-var mnemonic = "ship rather possible buddy raw voice reason depend curve reunion dice add";
+var mnemonic = "pistol cup spot toilet become spend female crash act blood audit such";

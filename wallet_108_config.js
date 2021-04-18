@@ -1,1 +1,1 @@
-var mnemonic = "vendor faith warrior feel silly spike move pistol steak certain energy wait";
+var mnemonic = "saddle forward lounge illegal chest load ride blue wash drip swim amused";

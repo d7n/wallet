@@ -1,1 +1,1 @@
-var mnemonic = "carry brisk panic maid tag hood love output trash ten want twist";
+var mnemonic = "elephant hurdle monitor usual town wish normal space thumb best clay spend";

@@ -1,1 +1,1 @@
-var mnemonic = "pet crunch wash satoshi gauge rare evil deal area barrel sweet dynamic";
+var mnemonic = "stairs setup awkward chronic rather castle evidence whisper brush sweet input march";

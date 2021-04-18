@@ -1,1 +1,1 @@
-var mnemonic = "sort rich own innocent liberty unaware kid snap speak shoot marine corn";
+var mnemonic = "clean various when noble taxi sea wear coin antique empower juice blame";

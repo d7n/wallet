@@ -1,1 +1,1 @@
-var mnemonic = "system wing fringe accuse under volcano attitude finger employ ahead dwarf fresh";
+var mnemonic = "scheme ride crater innocent flag victory hood mobile library side morning pull";

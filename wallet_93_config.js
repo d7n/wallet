@@ -1,1 +1,1 @@
-var mnemonic = "neck knock exchange want deer peanut dirt census brief nose cricket grunt";
+var mnemonic = "horror awake toast know swim sting blast general control step kind act";

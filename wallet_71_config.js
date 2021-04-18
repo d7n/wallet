@@ -1,1 +1,1 @@
-var mnemonic = "question jealous verb more maid occur casino major siren canvas parrot wink";
+var mnemonic = "hundred style edit magnet infant neither crash artist fiscal piece thank awkward";

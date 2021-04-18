@@ -1,1 +1,1 @@
-var mnemonic = "bright voyage cruise spell reopen inquiry thumb like worry adapt actual sleep";
+var mnemonic = "knife name add follow creek usual fiction link cook moment hair pole";

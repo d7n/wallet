@@ -1,1 +1,1 @@
-var mnemonic = "obtain property drum couch evidence fatigue shaft art seven domain sphere hover";
+var mnemonic = "junk actual session decline valve sand risk steak merry uniform festival punch";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp boil vendor weasel leaf real crime blame great execute mouse mule";
+var mnemonic = "pair total clock quote rhythm crack sick desert drill tribe debris book";

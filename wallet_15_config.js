@@ -1,1 +1,1 @@
-var mnemonic = "often tragic engine reward hospital invest humble buddy taxi universe snake where";
+var mnemonic = "trumpet mouse soon please nut father entire couch problem tone exchange hedgehog";

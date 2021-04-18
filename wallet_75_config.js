@@ -1,1 +1,1 @@
-var mnemonic = "tunnel muffin dwarf public twelve lottery prefer draft hundred winter course gather";
+var mnemonic = "cereal manual item spy evil true chief shed attitude acid pact prefer";

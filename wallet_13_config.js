@@ -1,1 +1,1 @@
-var mnemonic = "casual fiber fresh want else worry choose nerve grocery journey mystery punch";
+var mnemonic = "vast recycle rigid onion payment mansion angle federal depend bike below forum";

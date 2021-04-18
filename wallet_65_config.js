@@ -1,1 +1,1 @@
-var mnemonic = "drill lawsuit aim immune invite town garden twice area laugh drink lesson";
+var mnemonic = "ketchup milk spawn cash embody glove true section wonder attract friend bundle";

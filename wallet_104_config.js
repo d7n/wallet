@@ -1,1 +1,1 @@
-var mnemonic = "physical wheel run lamp void affair vendor enforce sell vague ten smile";
+var mnemonic = "vast balcony obvious trap educate jewel tower eager gasp fabric foster banana";

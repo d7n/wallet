@@ -1,1 +1,1 @@
-var mnemonic = "system cash resist crack ketchup wink tip useful belt shell palm engine";
+var mnemonic = "dance switch render hand scare range blood detail address lift prepare car";

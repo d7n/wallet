@@ -1,1 +1,1 @@
-var mnemonic = "token recipe salmon engine version find domain weekend wash tumble couch treat";
+var mnemonic = "kangaroo acoustic soldier valid monkey various else define token valley broom history";

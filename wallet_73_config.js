@@ -1,1 +1,1 @@
-var mnemonic = "ordinary potato rifle steak one cloth library kick expect couch disorder armed";
+var mnemonic = "poem say brief detail burst afraid flat spot early broken nation regret";

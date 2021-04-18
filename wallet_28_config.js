@@ -1,1 +1,1 @@
-var mnemonic = "rule smart depth world that report leg day mind next fish party";
+var mnemonic = "shadow lumber mention author donkey fence rely joke comfort novel swim net";

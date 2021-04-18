@@ -1,1 +1,1 @@
-var mnemonic = "rent deal arm card armed elbow stool crop bind rescue spin sentence";
+var mnemonic = "label nothing punch curious quantum case answer glow soon giant ride enjoy";

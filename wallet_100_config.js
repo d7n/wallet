@@ -1,1 +1,1 @@
-var mnemonic = "suspect dismiss gold apology awake erase tool foster ecology more giggle ticket";
+var mnemonic = "need boring quick monster bean danger exit torch desk warm seat fade";

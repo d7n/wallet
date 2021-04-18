@@ -1,1 +1,1 @@
-var mnemonic = "asset empty cricket method renew bundle spare neutral tomorrow cook prize fire";
+var mnemonic = "puzzle census salt stand version friend ostrich alter ritual oak social rule";

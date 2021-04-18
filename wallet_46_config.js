@@ -1,1 +1,1 @@
-var mnemonic = "planet cross glad crash lobster group trip curtain butter winner debris sad";
+var mnemonic = "boat aerobic blame raccoon sail solar among puppy amateur inhale maze hazard";

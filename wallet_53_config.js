@@ -1,1 +1,1 @@
-var mnemonic = "noise assault rescue remove auto garlic captain oil choose devote case scene";
+var mnemonic = "idle reflect calm original maple fantasy vessel agree dose situate chaos sleep";

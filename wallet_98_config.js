@@ -1,1 +1,1 @@
-var mnemonic = "flat unable loop hill thumb stage swarm vivid lecture omit orchard bitter";
+var mnemonic = "coil task sting shock hood weekend lunch april brisk sudden head grape";

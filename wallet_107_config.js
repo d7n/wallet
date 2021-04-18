@@ -1,1 +1,1 @@
-var mnemonic = "mass train lion meat work census egg turkey lazy day pudding frame";
+var mnemonic = "caught edit season castle clog tower matrix setup duty alarm boost silver";

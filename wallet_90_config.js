@@ -1,1 +1,1 @@
-var mnemonic = "rather attitude blast bright shuffle dawn code useless shock issue need among";
+var mnemonic = "strike acid heart job dove access design civil sleep season label oblige";

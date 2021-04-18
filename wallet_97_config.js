@@ -1,1 +1,1 @@
-var mnemonic = "salon unhappy venture pulse holiday unit blind hub shed estate mandate river";
+var mnemonic = "armor cigar friend topic broken vault coin interest hospital light anxiety have";

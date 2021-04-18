@@ -1,1 +1,1 @@
-var mnemonic = "match rally topple sample solar hurdle moment crush good medal true relax";
+var mnemonic = "shock enroll pluck surprise west blouse wrist situate blood erode festival valid";

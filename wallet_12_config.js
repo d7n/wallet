@@ -1,1 +1,1 @@
-var mnemonic = "yard deliver piano segment mom ability double abuse resource cheese idle current";
+var mnemonic = "dance push trial mansion fitness behind gloom cotton symbol change spot gravity";

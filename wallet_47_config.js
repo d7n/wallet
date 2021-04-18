@@ -1,1 +1,1 @@
-var mnemonic = "act blast poem oil dragon swing dignity view pluck typical amused rather";
+var mnemonic = "trip guard country below question acid ask energy scale nothing vehicle mad";

@@ -1,1 +1,1 @@
-var mnemonic = "swim bachelor radar approve hollow soul actress sample version wood symbol ocean";
+var mnemonic = "clock struggle solve runway knife scatter kind library couple multiply man say";

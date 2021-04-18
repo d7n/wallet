@@ -1,1 +1,1 @@
-var mnemonic = "pass witness spike kick image dune spring wrist axis hurry sad autumn";
+var mnemonic = "light call mercy zone scorpion angry people toilet cause sister review bamboo";

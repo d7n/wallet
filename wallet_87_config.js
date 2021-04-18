@@ -1,1 +1,1 @@
-var mnemonic = "access burst involve apple pact sphere noise unable pattern amazing enemy wrestle";
+var mnemonic = "wealth steak daring joke slush prosper cause inform rib proof earth erupt";

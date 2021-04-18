@@ -1,1 +1,1 @@
-var mnemonic = "peanut order nest talk soda rent need drive office object choose option";
+var mnemonic = "casual social effort ill derive inspire onion plug program extend like yellow";

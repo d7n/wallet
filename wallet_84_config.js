@@ -1,1 +1,1 @@
-var mnemonic = "local access metal erosion catalog circle live method security sense zebra science";
+var mnemonic = "number bar liberty round celery gentle model effort payment denial odor code";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet jaguar tide promote melt pudding sting concert horror surface arm equal";
+var mnemonic = "castle float negative climb stomach process garlic chaos census wild arrow penalty";

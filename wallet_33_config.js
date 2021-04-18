@@ -1,1 +1,1 @@
-var mnemonic = "light gossip spider gift host inform attend bring frost sugar parrot inherit";
+var mnemonic = "edit warm caught dinner display kiwi little unlock quarter control machine above";

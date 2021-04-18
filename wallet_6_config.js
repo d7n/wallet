@@ -1,1 +1,1 @@
-var mnemonic = "fringe beauty pyramid boat piece pistol member differ juice spin fabric issue";
+var mnemonic = "favorite remind much degree dawn where wire usage people memory eternal indicate";

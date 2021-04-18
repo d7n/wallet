@@ -1,1 +1,1 @@
-var mnemonic = "evidence gain crucial smoke provide auto aunt grace filter month dose pitch";
+var mnemonic = "receive shell erase urban pilot flame fire patient deputy become attack noble";

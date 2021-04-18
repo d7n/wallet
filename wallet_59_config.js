@@ -1,1 +1,1 @@
-var mnemonic = "neither leg stumble daughter buffalo asset joke skill inner deposit solid minute";
+var mnemonic = "oil recycle mom fit dance trip keen knock hockey ice orient journey";

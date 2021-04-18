@@ -1,1 +1,1 @@
-var mnemonic = "result usage stadium identify upset van tortoise space language mobile video wedding";
+var mnemonic = "remind street fox physical dwarf eyebrow crumble van oval view impact tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "decline trouble depend again robot adult next bronze comfort vague need elegant";
+var mnemonic = "apple rotate setup sheriff consider page mansion shell silk clap mean cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "fox capital glass exchange ripple impact mystery bridge duty ostrich position region";
+var mnemonic = "funny will dinner dwarf life ivory picnic notice grunt cloth arm clump";

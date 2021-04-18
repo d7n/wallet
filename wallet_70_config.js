@@ -1,1 +1,1 @@
-var mnemonic = "meat denial embark snap never between finish minute gain destroy grief gather";
+var mnemonic = "slow hazard naive dolphin tomorrow middle quality else regret pole friend cube";

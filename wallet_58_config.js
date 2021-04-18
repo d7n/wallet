@@ -1,1 +1,1 @@
-var mnemonic = "decide december neutral vacuum patient mystery village glass occur way dentist media";
+var mnemonic = "vocal all move train trumpet grunt eye valley idle fortune math ridge";

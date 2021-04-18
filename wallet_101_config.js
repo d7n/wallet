@@ -1,1 +1,1 @@
-var mnemonic = "debris mandate exhaust reason analyst key legal resist hockey pioneer effort frequent";
+var mnemonic = "raise volcano ranch donor solution tuna battle toy repair town candy insect";

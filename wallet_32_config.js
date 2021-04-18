@@ -1,1 +1,1 @@
-var mnemonic = "oyster refuse grass net spoon custom skate ring amused basket lyrics future";
+var mnemonic = "focus sound wink match liberty broom step indicate scout audit once onion";
