@@ -1,1 +1,1 @@
-var mnemonic = "parent envelope place inject spare ignore switch lonely weird cave neck glove";
+var mnemonic = "weasel satoshi firm address fiber art joke immense sport cat suggest panther";

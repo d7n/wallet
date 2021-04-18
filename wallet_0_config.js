@@ -1,1 +1,1 @@
-var mnemonic = "ensure raw dune sauce arrive second proud tissue scrub wasp what fee";
+var mnemonic = "robust insane accuse pupil curious viable misery music high youth mobile essay";

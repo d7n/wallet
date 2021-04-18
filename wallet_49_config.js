@@ -1,1 +1,1 @@
-var mnemonic = "brush polar elevator rain state long claw summer decade suspect health away";
+var mnemonic = "goose language oil double album acoustic educate gadget keep cheap jacket language";

@@ -1,1 +1,1 @@
-var mnemonic = "rain bounce leaf piano cover afford grow stereo soon unlock leg museum";
+var mnemonic = "small common balance swift unaware today relax retire main seek north believe";

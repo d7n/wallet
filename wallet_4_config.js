@@ -1,1 +1,1 @@
-var mnemonic = "luxury cruel similar luggage boring fossil garbage spoil table cherry fine ginger";
+var mnemonic = "differ problem future six uncle change crash industry sadness can guide fringe";

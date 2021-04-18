@@ -1,1 +1,1 @@
-var mnemonic = "suffer vital road pluck cross loud rose robot shoulder flame bubble immune";
+var mnemonic = "such outdoor aunt derive skate fatal penalty grunt knock february rail faint";

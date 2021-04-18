@@ -1,1 +1,1 @@
-var mnemonic = "donor knock attitude seminar border rather base hour dove tornado leaf foil";
+var mnemonic = "pupil shop ripple again beauty twelve blanket wet census include title toy";

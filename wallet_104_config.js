@@ -1,1 +1,1 @@
-var mnemonic = "spoil deny will orbit rotate stage fresh crystal treat style illegal list";
+var mnemonic = "mutual prison layer carbon affair sample blind powder razor stomach coral any";

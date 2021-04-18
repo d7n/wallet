@@ -1,1 +1,1 @@
-var mnemonic = "razor library client fence glow echo other immense alcohol rival harbor twin";
+var mnemonic = "tobacco toilet visual tobacco equal potato tonight garbage neglect business spare ivory";

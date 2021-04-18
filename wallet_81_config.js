@@ -1,1 +1,1 @@
-var mnemonic = "gadget sort badge common scene arctic blush huge arctic doctor upon myth";
+var mnemonic = "odor mutual pattern venture accuse lazy swarm soldier excess walnut neglect shine";

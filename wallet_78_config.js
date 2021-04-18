@@ -1,1 +1,1 @@
-var mnemonic = "wrong depend vintage simple faculty mixed trash glow assault skate shoot rocket";
+var mnemonic = "annual fall brass student polar ill such cargo room heavy danger dinosaur";

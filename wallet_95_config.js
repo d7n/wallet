@@ -1,1 +1,1 @@
-var mnemonic = "noise swift another envelope clay bird aerobic price heart offer ozone jeans";
+var mnemonic = "safe medal another prosper rude produce pony panic scale comfort emotion wrong";

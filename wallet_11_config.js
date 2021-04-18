@@ -1,1 +1,1 @@
-var mnemonic = "rude smooth approve border talent soft hurdle luggage lunch track estate employ";
+var mnemonic = "awake magnet nominee beef marriage cattle unusual asthma rice sentence credit decorate";

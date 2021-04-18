@@ -1,1 +1,1 @@
-var mnemonic = "spray tiny pink filter music fetch patrol swarm toward unable eager emerge";
+var mnemonic = "surround doll divert scale runway page conduct pizza cloth fan grape symptom";

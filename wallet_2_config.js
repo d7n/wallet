@@ -1,1 +1,1 @@
-var mnemonic = "parade else ridge pull dismiss truth theory kitchen message lecture silly bleak";
+var mnemonic = "repeat short diesel february world foot carpet plunge fetch gap december warm";

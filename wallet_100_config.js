@@ -1,1 +1,1 @@
-var mnemonic = "bargain link grab tool file penalty deer stomach ecology senior town evidence";
+var mnemonic = "suit arena subway bicycle protect pig ridge wool fall drill lens token";

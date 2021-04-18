@@ -1,1 +1,1 @@
-var mnemonic = "museum pave absorb live slab junk response crazy symptom carbon occur mutual";
+var mnemonic = "volume raccoon motion wood globe concert during soap better satisfy venue lumber";

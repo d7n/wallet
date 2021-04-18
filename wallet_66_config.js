@@ -1,1 +1,1 @@
-var mnemonic = "try human tennis general prepare river mass hobby argue change nut tag";
+var mnemonic = "ability chat produce system base version option topple defense balcony often extend";

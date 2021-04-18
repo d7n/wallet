@@ -1,1 +1,1 @@
-var mnemonic = "history lyrics ritual melt draft warrior magic clean kid puzzle diagram canvas";
+var mnemonic = "leopard tattoo shrug trophy delay turtle salmon creek wave trust fever next";

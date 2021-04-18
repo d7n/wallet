@@ -1,1 +1,1 @@
-var mnemonic = "gallery baby inflict maple agree there quick club digital park normal stomach";
+var mnemonic = "cloth diamond vendor equip umbrella drive pretty menu aware knock reward jewel";

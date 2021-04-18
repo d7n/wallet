@@ -1,1 +1,1 @@
-var mnemonic = "draft salon vacant chaos alley spirit marriage enable arctic day fancy fan";
+var mnemonic = "arrest antenna eager joke doctor absurd board exclude frog dirt order spawn";

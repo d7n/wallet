@@ -1,1 +1,1 @@
-var mnemonic = "sing oak trick solution salt similar elbow print ribbon table scrap cheap";
+var mnemonic = "blouse mixed dry until pig warfare battle hero crystal manage soccer box";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom cash proud season pigeon balcony typical remove squirrel ice luggage lottery";
+var mnemonic = "ride orbit jazz file insane desert into like country hope cup suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "actual tribe coast palm height clock market canoe festival mother multiply position";
+var mnemonic = "acoustic gesture unit pig unique come rookie crash wedding engage cash food";

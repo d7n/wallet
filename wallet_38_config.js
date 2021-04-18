@@ -1,1 +1,1 @@
-var mnemonic = "silent same primary again comic lift fiscal feature inside head sadness artefact";
+var mnemonic = "nature come used lesson minimum approve seed torch twelve fun design toast";

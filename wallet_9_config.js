@@ -1,1 +1,1 @@
-var mnemonic = "mixture surface dinner senior vessel toilet screen stereo dirt seminar essence resemble";
+var mnemonic = "friend misery legend catch decline evidence wise define glass album rose say";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch cheap note trash nasty dynamic romance square survey boring question kid";
+var mnemonic = "inside affair artwork small abstract pizza seat address viable antique notice grace";

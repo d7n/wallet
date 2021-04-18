@@ -1,1 +1,1 @@
-var mnemonic = "certain tube confirm force park scatter ankle object meat eagle human grain";
+var mnemonic = "fluid earth soul slight occur embrace luxury clap jungle saddle project post";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight flash lizard end crime reveal paper wall oven bus leaf tape";
+var mnemonic = "time teach energy draft master axis dignity deposit marble apart office second";

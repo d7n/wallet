@@ -1,1 +1,1 @@
-var mnemonic = "month blue two oval traffic gate between snake same goose moon this";
+var mnemonic = "during extra river color outdoor desk capable valid click apple ripple tattoo";

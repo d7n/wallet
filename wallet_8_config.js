@@ -1,1 +1,1 @@
-var mnemonic = "supreme elephant horse toast artwork tackle promote minor museum tomorrow salmon shallow";
+var mnemonic = "asthma siege fuel snake avoid all regret strong infant list menu virtual";

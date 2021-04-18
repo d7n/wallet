@@ -1,1 +1,1 @@
-var mnemonic = "plunge apple answer rocket long canyon hello swamp power whale destroy defense";
+var mnemonic = "finger love human slot gossip kid detail quarter leave spice race unusual";

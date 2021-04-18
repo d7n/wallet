@@ -1,1 +1,1 @@
-var mnemonic = "disease hamster hole sheriff property odor ripple truck occur taxi west grid";
+var mnemonic = "bomb useless section table february extend occur involve toward arrow rain glue";

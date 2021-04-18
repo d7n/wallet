@@ -1,1 +1,1 @@
-var mnemonic = "multiply middle you benefit corn lamp love legal gift depart sword note";
+var mnemonic = "chuckle hello flame salt joke empower scan domain shadow child breeze engage";

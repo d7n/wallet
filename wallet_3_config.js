@@ -1,1 +1,1 @@
-var mnemonic = "narrow apology clog market stove style member clean betray paddle symptom tape";
+var mnemonic = "physical frog document quit garden help roof second hedgehog alter regret cool";

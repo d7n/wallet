@@ -1,1 +1,1 @@
-var mnemonic = "total monitor rapid burden bulk possible skin fiction amused nest stand fly";
+var mnemonic = "ankle deal toward skirt abandon water merry stove lava bullet end isolate";

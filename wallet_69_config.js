@@ -1,1 +1,1 @@
-var mnemonic = "model heart hand silk bomb verify rack soft raccoon cliff funny february";
+var mnemonic = "exchange indoor wave oxygen salmon advance wheat insect shoe sudden project inspire";

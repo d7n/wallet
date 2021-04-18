@@ -1,1 +1,1 @@
-var mnemonic = "curve mansion assault phone upon raw relief gun seat gown harbor reject";
+var mnemonic = "harbor bus swamp wasp install bulb mad apology olive begin lend rhythm";

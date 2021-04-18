@@ -1,1 +1,1 @@
-var mnemonic = "weapon inner silent judge wasp squirrel hollow world master smart message raise";
+var mnemonic = "because spoil mix indoor surprise delay melody heavy tuna pave noise actor";

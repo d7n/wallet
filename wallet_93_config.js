@@ -1,1 +1,1 @@
-var mnemonic = "conduct correct earth sponsor camera nephew carbon sorry winner retire zoo inject";
+var mnemonic = "reopen naive canvas plastic little pulse tunnel sweet fence globe section romance";

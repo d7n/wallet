@@ -1,1 +1,1 @@
-var mnemonic = "knock universe panda pig way hollow margin road echo then casual trash";
+var mnemonic = "news regret adapt arrest soda clutch joke language unusual cross diesel coil";

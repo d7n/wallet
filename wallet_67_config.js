@@ -1,1 +1,1 @@
-var mnemonic = "vault curtain inject indoor error push honey caught debris enter grape spring";
+var mnemonic = "endless adapt brave code ketchup current junior picture baby pelican obtain visa";

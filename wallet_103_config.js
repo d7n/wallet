@@ -1,1 +1,1 @@
-var mnemonic = "day outdoor oppose laugh galaxy alter fire agree curious dumb festival ride";
+var mnemonic = "reunion kidney weasel wise pioneer side shield stomach sun air pole ordinary";

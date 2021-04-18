@@ -1,1 +1,1 @@
-var mnemonic = "click little alien life lab cabin tribe mutual disagree dutch sting foil";
+var mnemonic = "follow harbor profit casino camp alien erupt subject table furnace stable spike";

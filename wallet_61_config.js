@@ -1,1 +1,1 @@
-var mnemonic = "coral shrug general romance energy swing awake soldier web powder primary uncle";
+var mnemonic = "cabin move green glare inch crazy enact attract dumb legend vintage rural";

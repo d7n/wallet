@@ -1,1 +1,1 @@
-var mnemonic = "addict dove orphan middle adapt lonely glare hour turkey scorpion minor tattoo";
+var mnemonic = "grape naive old swim enforce tip remove shrug joy impose crawl cake";

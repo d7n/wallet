@@ -1,1 +1,1 @@
-var mnemonic = "glory ability pulse alpha custom very clutch east vivid jelly iron sea";
+var mnemonic = "fury beauty blanket pilot sword lemon achieve atom table awake nature wet";

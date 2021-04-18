@@ -1,1 +1,1 @@
-var mnemonic = "ceiling hungry symbol kid hurdle talent electric return behave normal satoshi door";
+var mnemonic = "man fatal alarm check wave corn matrix kite hover whip general jar";

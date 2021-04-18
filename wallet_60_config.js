@@ -1,1 +1,1 @@
-var mnemonic = "derive supreme paper sauce radar enlist tape lift assume remind zebra welcome";
+var mnemonic = "ask fiscal option major grid share human fuel foot cable guess error";

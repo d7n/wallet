@@ -1,1 +1,1 @@
-var mnemonic = "try excite indoor blush three fever artist already romance insane accident power";
+var mnemonic = "domain kite element layer result erode insane march adult slim example castle";

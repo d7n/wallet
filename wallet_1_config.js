@@ -1,1 +1,1 @@
-var mnemonic = "warfare thought news dose swear hole task voice coast ignore funny arena";
+var mnemonic = "fatal surge pet neither pulse plunge cube spike west sort crystal hotel";

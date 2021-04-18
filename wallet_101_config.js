@@ -1,1 +1,1 @@
-var mnemonic = "auto rigid vote note track card frown odor valley fresh vapor wheat";
+var mnemonic = "vendor reject napkin dizzy honey give boss donor average report dice bottom";

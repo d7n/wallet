@@ -1,1 +1,1 @@
-var mnemonic = "protect before purpose effort extend often crop fruit choice unique razor hint";
+var mnemonic = "ten power bus turkey flame busy face noble hip regular kit mystery";

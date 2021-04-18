@@ -1,1 +1,1 @@
-var mnemonic = "tenant skill transfer primary ticket index busy sting social initial deliver remain";
+var mnemonic = "recall dog honey alpha mansion proud army increase calm answer submit civil";

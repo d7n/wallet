@@ -1,1 +1,1 @@
-var mnemonic = "more holiday aim hammer when situate engine forget eye choice atom stage";
+var mnemonic = "grab again hole better eternal rude text feature kitchen lawsuit hidden black";

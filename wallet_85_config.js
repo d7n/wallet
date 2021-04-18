@@ -1,1 +1,1 @@
-var mnemonic = "bag swarm recipe knife prison gauge now paper barrel bottom door appear";
+var mnemonic = "total metal bicycle century install solution gun hard universe ride utility another";

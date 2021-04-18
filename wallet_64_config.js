@@ -1,1 +1,1 @@
-var mnemonic = "wire subject true domain fiber all drop before sheriff space search spend";
+var mnemonic = "brick predict news car invite model uncle depart uncle scare fatigue sing";

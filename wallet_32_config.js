@@ -1,1 +1,1 @@
-var mnemonic = "way juice urge castle hospital near unaware faculty until divert buddy head";
+var mnemonic = "soon sunny long symptom inform rhythm chaos charge pipe series menu work";

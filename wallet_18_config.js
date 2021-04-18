@@ -1,1 +1,1 @@
-var mnemonic = "entry plastic frozen future chalk insane panda side onion similar joy elevator";
+var mnemonic = "spin cool lawn know fence crazy various delay involve gather always winter";

@@ -1,1 +1,1 @@
-var mnemonic = "salute hollow clutch matter matter blade merry early horse wave they rural";
+var mnemonic = "express olive when metal warm raw reject glove bicycle finish venue stairs";

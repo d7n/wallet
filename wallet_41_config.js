@@ -1,1 +1,1 @@
-var mnemonic = "garbage chuckle assist parent typical tonight fabric stone loyal found lesson identify";
+var mnemonic = "slight copper entry tragic cluster rain scare gospel olive distance firm virtual";

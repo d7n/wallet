@@ -1,1 +1,1 @@
-var mnemonic = "love head tunnel glimpse person offer lunar sand tortoise proud unusual toward";
+var mnemonic = "doctor man medal flight attitude example silk smart small suggest inside honey";

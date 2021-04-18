@@ -1,1 +1,1 @@
-var mnemonic = "govern glass artefact boy dismiss type clarify friend mandate bird diagram stove";
+var mnemonic = "away seed sad author end south embrace loan setup poverty brief alert";

@@ -1,1 +1,1 @@
-var mnemonic = "defense number sphere march scheme hazard stamp possible sing ceiling museum soup";
+var mnemonic = "grief iron theory lucky resist slam feel design solve mother draw category";

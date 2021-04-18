@@ -1,1 +1,1 @@
-var mnemonic = "spare few rude zone rubber property foot ensure mail toy swift urge";
+var mnemonic = "announce leader dignity aware album situate refuse harvest large boy promote wire";

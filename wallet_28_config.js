@@ -1,1 +1,1 @@
-var mnemonic = "unit habit skate wife cabin boost pink spice mobile foil piece they";
+var mnemonic = "jelly pass viable flip foot walk combine high thank result slight order";

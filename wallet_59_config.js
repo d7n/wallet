@@ -1,1 +1,1 @@
-var mnemonic = "guide brother adapt average visa bench spike boss cinnamon wife cannon unusual";
+var mnemonic = "say board ice ugly velvet battle eyebrow column join medal alone safe";

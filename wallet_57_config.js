@@ -1,1 +1,1 @@
-var mnemonic = "tragic calm quote donkey ship elegant spell oil hybrid lucky general dragon";
+var mnemonic = "buyer whale hood junior cook peanut connect knife vapor clay language wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber dilemma jeans year summer please search filter solid crater library miss";
+var mnemonic = "engage bid squirrel wall chase neutral hockey easy chuckle indoor tank board";

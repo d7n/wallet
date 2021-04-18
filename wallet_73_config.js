@@ -1,1 +1,1 @@
-var mnemonic = "boost seat amused royal hungry head pigeon table doctor hello decorate slender";
+var mnemonic = "airport midnight palm hybrid object avocado debris range leisure goddess attend slim";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve bench soup ball have advance stomach chalk farm curtain muffin cart";
+var mnemonic = "young ensure arrange picnic transfer pitch fuel able absorb boil ask draw";

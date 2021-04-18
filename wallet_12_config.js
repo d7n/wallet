@@ -1,1 +1,1 @@
-var mnemonic = "share wall venue you jump window story danger false ordinary elegant scissors";
+var mnemonic = "sound pledge reunion like insect axis outside chief club polar drive actor";

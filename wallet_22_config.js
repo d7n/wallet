@@ -1,1 +1,1 @@
-var mnemonic = "smile blossom parade response invite hard fit oppose wall ship walnut consider";
+var mnemonic = "gentle regular biology situate tank movie fluid organ door property bitter knock";

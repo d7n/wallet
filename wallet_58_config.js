@@ -1,1 +1,1 @@
-var mnemonic = "aim basic syrup network soda friend lock face boat brick discover joke";
+var mnemonic = "nurse canvas doctor river job fault daring please use version vacant rich";

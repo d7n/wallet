@@ -1,1 +1,1 @@
-var mnemonic = "episode enough entry quick host away economy sphere knock tennis attack abstract";
+var mnemonic = "grit few sister arch color friend permit game kitchen auto clip this";

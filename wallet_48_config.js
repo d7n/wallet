@@ -1,1 +1,1 @@
-var mnemonic = "vehicle vague provide coast chunk pony satisfy attack garden yellow envelope erode";
+var mnemonic = "sense kind wet food ticket make disagree pulse early estate point marine";

@@ -1,1 +1,1 @@
-var mnemonic = "observe goddess true aim puppy nut sphere timber humor spatial series exhaust";
+var mnemonic = "toy upon else brown body wild melody ivory orange proof blast prevent";

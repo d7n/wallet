@@ -1,1 +1,1 @@
-var mnemonic = "hobby knife soccer case life fire discover insane cream shoe soap snake";
+var mnemonic = "asthma often tattoo keen put confirm twist phrase lady bronze wet speak";

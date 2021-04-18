@@ -1,1 +1,1 @@
-var mnemonic = "oxygen tattoo snack left thumb online soap sing where record misery polar";
+var mnemonic = "comic hope wear answer blind express duck because early axis offer pig";

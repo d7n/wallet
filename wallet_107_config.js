@@ -1,1 +1,1 @@
-var mnemonic = "glue kiwi mystery valve recall coffee sample shuffle that pear cave uphold";
+var mnemonic = "fever resist bullet isolate actor fatal rival wheel radio jacket wide hybrid";

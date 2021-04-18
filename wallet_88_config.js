@@ -1,1 +1,1 @@
-var mnemonic = "useful furnace time royal forget fire shy wrong decide piece install vehicle";
+var mnemonic = "garlic donate tag online pole sister treat medal illness pigeon song warrior";

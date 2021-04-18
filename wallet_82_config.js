@@ -1,1 +1,1 @@
-var mnemonic = "phone orange stadium episode avocado argue prosper problem verify time pupil grief";
+var mnemonic = "taxi buffalo want cupboard female kitten frown normal brown seven below forget";

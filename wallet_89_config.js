@@ -1,1 +1,1 @@
-var mnemonic = "relax tag profit refuse level vacuum old frequent repair jelly record box";
+var mnemonic = "final inhale laptop mosquito pottery include fly soccer injury prefer ugly tornado";

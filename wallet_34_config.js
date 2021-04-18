@@ -1,1 +1,1 @@
-var mnemonic = "retire clutch video silver spirit affair supreme ozone obscure finish vibrant teach";
+var mnemonic = "apology material physical hill used want planet unknown various monitor cage avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch sleep embrace other shiver industry toast grace during physical evolve leisure";
+var mnemonic = "steel vote shield board dinner drastic raven pitch smart enact riot void";

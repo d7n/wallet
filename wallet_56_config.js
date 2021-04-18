@@ -1,1 +1,1 @@
-var mnemonic = "uncover series laptop fetch glide old zoo enact leaf ecology good churn";
+var mnemonic = "cool car tennis trash ripple sing lesson someone ancient together impact stick";

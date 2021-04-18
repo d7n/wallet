@@ -1,1 +1,1 @@
-var mnemonic = "bubble half resource sister maze castle borrow pluck market creek achieve soccer";
+var mnemonic = "fiscal long boat only soldier grace magic replace praise help gym elder";

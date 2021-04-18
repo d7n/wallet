@@ -1,1 +1,1 @@
-var mnemonic = "anxiety icon waste kingdom sphere run fringe pencil oven bronze tongue gospel";
+var mnemonic = "enable silk space people acoustic kiwi marriage arrest assault exclude vendor rally";

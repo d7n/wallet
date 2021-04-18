@@ -1,1 +1,1 @@
-var mnemonic = "output shuffle cram sad blast cause alarm push urban federal swear myself";
+var mnemonic = "twelve slim flame tonight castle brass parade disorder ozone close bracket tent";

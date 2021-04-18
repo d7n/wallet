@@ -1,1 +1,1 @@
-var mnemonic = "lizard situate helmet rural alter royal lizard sweet grow merge select napkin";
+var mnemonic = "mushroom hello west small chase swim bounce flee gap million sibling sausage";

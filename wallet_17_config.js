@@ -1,1 +1,1 @@
-var mnemonic = "blood inspire garlic primary kid sniff advance mixture gown dinosaur dance quote";
+var mnemonic = "daughter dose liquid salon awake side illness begin main ensure proof universe";

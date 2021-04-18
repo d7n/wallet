@@ -1,1 +1,1 @@
-var mnemonic = "enact salute clock bubble blast nature biology bright fit traffic primary syrup";
+var mnemonic = "around awesome cinnamon elevator dignity shoulder access inspire chief mansion guess wire";

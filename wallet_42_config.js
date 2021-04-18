@@ -1,1 +1,1 @@
-var mnemonic = "two zero solid describe puzzle square cherry work absorb base cover actual";
+var mnemonic = "burden trophy session elevator width bread evidence sister cactus web page eagle";

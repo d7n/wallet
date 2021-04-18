@@ -1,1 +1,1 @@
-var mnemonic = "either kind glance message window chase man arrange cattle ceiling vapor eager";
+var mnemonic = "maze mad usual chase local cheap exchange truth toe width agree army";

@@ -1,1 +1,1 @@
-var mnemonic = "apart media where desk rebel focus valid melt now demise milk there";
+var mnemonic = "swear agent pitch secret tongue screen inherit produce man display cinnamon pistol";
