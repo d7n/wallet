@@ -1,1 +1,1 @@
-var mnemonic = "scrap never lens cloth rough defense carbon deer marble wash check innocent";
+var mnemonic = "food reveal nest aspect cube awake helmet travel crew afford sheriff fluid";

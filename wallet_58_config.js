@@ -1,1 +1,1 @@
-var mnemonic = "space snow corn depart ensure harsh where service grunt stage soda balance";
+var mnemonic = "pool canyon various tank present strategy inmate wear damage hint glory room";

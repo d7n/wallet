@@ -1,1 +1,1 @@
-var mnemonic = "limit smooth review remember speed wash danger second print speak peanut athlete";
+var mnemonic = "virus explain conduct spin wear bulk dress unique sick torch weird athlete";

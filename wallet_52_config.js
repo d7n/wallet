@@ -1,1 +1,1 @@
-var mnemonic = "mistake sign saddle price hour sell toddler soda wide humor share tilt";
+var mnemonic = "behave dirt morning hour sweet stove develop crawl option confirm spirit attitude";

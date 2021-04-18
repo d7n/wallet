@@ -1,1 +1,1 @@
-var mnemonic = "squeeze artist suffer style upset rescue banner feed sand scene dream stable";
+var mnemonic = "typical glimpse food version also weather hurt into retreat energy note video";

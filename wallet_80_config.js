@@ -1,1 +1,1 @@
-var mnemonic = "slide inquiry dirt improve copy leg double accident much easy million crazy";
+var mnemonic = "merry torch volume number pyramid sick choose salmon juice rival indicate knee";

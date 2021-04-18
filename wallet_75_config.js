@@ -1,1 +1,1 @@
-var mnemonic = "town satoshi two kangaroo peanut fetch van scene solid roast silly force";
+var mnemonic = "syrup inner kitten live child defy awake quiz alert smart dirt bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "fork avoid add crowd era state require fan impact elder distance melody";
+var mnemonic = "thank used parent pilot fruit twelve giant axis game ball public mansion";

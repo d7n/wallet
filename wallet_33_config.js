@@ -1,1 +1,1 @@
-var mnemonic = "jealous person govern nut slush awake twice okay excess whisper diet mad";
+var mnemonic = "rely flash defense genius pave doll discover endless mention tunnel rude verify";

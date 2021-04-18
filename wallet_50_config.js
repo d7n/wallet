@@ -1,1 +1,1 @@
-var mnemonic = "flee hybrid tuition fee web column ask purity notice forum patrol behind";
+var mnemonic = "patrol video goddess sentence ball bulk proud sphere avoid indoor eye element";

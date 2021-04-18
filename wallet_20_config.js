@@ -1,1 +1,1 @@
-var mnemonic = "combine tide benefit normal amused squirrel law derive tenant ladder agent frequent";
+var mnemonic = "dinosaur already add offer layer mistake luxury work tool position melt rural";

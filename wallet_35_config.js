@@ -1,1 +1,1 @@
-var mnemonic = "oxygen gospel daring blame reveal section trim kick inherit leisure erupt woman";
+var mnemonic = "horror awkward security load lecture crop beyond miracle subject broom silent economy";

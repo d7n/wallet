@@ -1,1 +1,1 @@
-var mnemonic = "kit sting long pulp eyebrow you quit punch process again slam slot";
+var mnemonic = "response river naive swift leopard curtain robust axis account inhale coin shoe";

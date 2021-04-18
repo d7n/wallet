@@ -1,1 +1,1 @@
-var mnemonic = "unveil taste divert aisle enhance pitch response capital sausage blouse author peace";
+var mnemonic = "tail erosion trumpet benefit come tree junior refuse obtain nephew blade indicate";

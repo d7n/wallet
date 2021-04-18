@@ -1,1 +1,1 @@
-var mnemonic = "zoo grass nominee antique vapor sample struggle gravity frown abandon hard zero";
+var mnemonic = "forward bargain weapon entire faculty hip quantum more powder crisp popular salad";

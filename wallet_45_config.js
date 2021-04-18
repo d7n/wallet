@@ -1,1 +1,1 @@
-var mnemonic = "gaze impose assist unusual diary physical blue increase ask noble govern destroy";
+var mnemonic = "vendor close proof target return senior quote thing toward ramp divide puzzle";

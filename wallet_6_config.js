@@ -1,1 +1,1 @@
-var mnemonic = "casual mail release ripple exist horn uncle decline lizard few rally genius";
+var mnemonic = "spot shoot crazy worry moral winter option climb physical estate junior grab";

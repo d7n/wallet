@@ -1,1 +1,1 @@
-var mnemonic = "lion vast fame describe awesome spatial muffin mule battle quantum casino dance";
+var mnemonic = "grocery toddler wealth announce cook green bird explain connect hood insane decline";

@@ -1,1 +1,1 @@
-var mnemonic = "silly click steak invest seek resource oval city gap helmet scorpion kiwi";
+var mnemonic = "stamp weasel search polar prize disease ten virtual wise gap trophy desert";

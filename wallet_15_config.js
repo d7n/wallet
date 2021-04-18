@@ -1,1 +1,1 @@
-var mnemonic = "off knife subject deal gloom obvious boy noise sea able farm series";
+var mnemonic = "say injury win agent conduct forum match humor economy deposit arrest document";

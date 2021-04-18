@@ -1,1 +1,1 @@
-var mnemonic = "apple comic interest lift squirrel favorite hole please secret gloom private hidden";
+var mnemonic = "cabin scan galaxy page health try mandate near master cable magic tide";

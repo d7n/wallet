@@ -1,1 +1,1 @@
-var mnemonic = "prefer crouch eager alter exhaust intact kitchen law parade pilot coral grab";
+var mnemonic = "oil secret load excess silver volcano kit work coconut infant cover afford";

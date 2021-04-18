@@ -1,1 +1,1 @@
-var mnemonic = "twist august laundry because gaze bulk swift exhaust twelve position garlic night";
+var mnemonic = "direct depth model antique lend say make segment rural tribe chimney carpet";

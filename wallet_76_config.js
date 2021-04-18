@@ -1,1 +1,1 @@
-var mnemonic = "carpet input strong loud keep pulp eight glad blur either sure essay";
+var mnemonic = "inform sock sphere hover amount vessel tenant quantum giggle mean soft olive";

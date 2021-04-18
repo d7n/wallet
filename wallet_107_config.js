@@ -1,1 +1,1 @@
-var mnemonic = "clever pizza menu chat erupt push toe advance burger fiction load moment";
+var mnemonic = "strategy horse outdoor promote odor actor furnace foil bottom march weasel lawsuit";

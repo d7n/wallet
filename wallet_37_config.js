@@ -1,1 +1,1 @@
-var mnemonic = "ladder announce urban increase priority critic hover unveil over decade index affair";
+var mnemonic = "decrease expand brisk retire sand dragon magic inspire initial original fall sound";

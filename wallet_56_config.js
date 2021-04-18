@@ -1,1 +1,1 @@
-var mnemonic = "this prison rabbit sail drastic yellow tattoo risk business relief cement shiver";
+var mnemonic = "uncle total exercise sausage roast caution salad frequent element banner finish umbrella";

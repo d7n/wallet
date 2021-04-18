@@ -1,1 +1,1 @@
-var mnemonic = "expand region turkey initial advance way kingdom child romance economy mule brush";
+var mnemonic = "asthma again rally elegant property hard puzzle recipe visit rocket blush forum";

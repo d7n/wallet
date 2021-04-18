@@ -1,1 +1,1 @@
-var mnemonic = "secret trim enforce load there path library beef one kind adult minute";
+var mnemonic = "produce they misery brain chronic divide lonely ability number render enrich regret";

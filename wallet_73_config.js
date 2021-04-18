@@ -1,1 +1,1 @@
-var mnemonic = "library error pet blush pond trip provide economy perfect delay ranch scare";
+var mnemonic = "rich message bargain gym purchase police topple source agent brick wasp escape";

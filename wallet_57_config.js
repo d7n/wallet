@@ -1,1 +1,1 @@
-var mnemonic = "used patch stable twin snow shallow time trip lady rail table verb";
+var mnemonic = "ozone winter trouble clump youth fish police suit twist candy liar float";

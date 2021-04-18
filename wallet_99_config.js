@@ -1,1 +1,1 @@
-var mnemonic = "wool toward where flavor device tragic gold novel quality giggle hundred monkey";
+var mnemonic = "desk slot motion decrease maze fork rural couple adapt thing cradle galaxy";

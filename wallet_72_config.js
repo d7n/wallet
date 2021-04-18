@@ -1,1 +1,1 @@
-var mnemonic = "require expose often eager eye twist gospel auto hockey owner coffee deal";
+var mnemonic = "inhale wise bicycle wool smoke exhaust scale police pulse book hood flush";

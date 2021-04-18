@@ -1,1 +1,1 @@
-var mnemonic = "arm kitchen dress purse ceiling ladder card paper total practice fox paddle";
+var mnemonic = "very doctor armor save lecture crush era wheat wage job fit bubble";

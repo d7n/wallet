@@ -1,1 +1,1 @@
-var mnemonic = "eight huge install together letter vast seek glide naive pony receive open";
+var mnemonic = "stomach funny chaos rare style utility weather october engage elder language draw";

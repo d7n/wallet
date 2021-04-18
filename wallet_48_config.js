@@ -1,1 +1,1 @@
-var mnemonic = "faint swamp cruise make bean use lemon area survey boost quiz rookie";
+var mnemonic = "absent diet permit horse vapor visual hill vessel reform bunker among sand";

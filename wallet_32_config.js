@@ -1,1 +1,1 @@
-var mnemonic = "present regret erosion gravity bachelor damage oxygen never document ketchup vessel whale";
+var mnemonic = "earth wedding rose usage song alter shop online fringe monitor diagram sport";

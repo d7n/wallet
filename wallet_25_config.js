@@ -1,1 +1,1 @@
-var mnemonic = "person sort shrug upgrade shed aware civil eagle vital rice sustain hat";
+var mnemonic = "world mad bracket sorry talent useless soldier client exercise soap fury dog";

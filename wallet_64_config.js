@@ -1,1 +1,1 @@
-var mnemonic = "boil ivory nature guilt rather kidney term primary clerk until chalk pact";
+var mnemonic = "sting portion athlete economy tube disorder major onion admit pact evolve absurd";

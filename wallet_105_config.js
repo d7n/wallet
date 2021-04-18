@@ -1,1 +1,1 @@
-var mnemonic = "useful tent sure talk traffic genuine artist educate cigar interest better near";
+var mnemonic = "have escape very nominee eagle habit plate enrich network shield orient reason";

@@ -1,1 +1,1 @@
-var mnemonic = "immense chicken problem ready ill gauge pool average about nasty manual motor";
+var mnemonic = "tell blossom sand there canyon cable diet atom mushroom arrange force dish";

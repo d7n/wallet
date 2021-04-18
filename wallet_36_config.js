@@ -1,1 +1,1 @@
-var mnemonic = "plug rookie trumpet hurry evil grow leader demise witness safe output brand";
+var mnemonic = "cake unique pact gain reunion hint faculty anger must panic weapon hat";

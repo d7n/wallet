@@ -1,1 +1,1 @@
-var mnemonic = "oven output tribe wear height pluck benefit dizzy repair dice truck easily";
+var mnemonic = "expire success siren visa brisk myself first there happy trust slow forget";

@@ -1,1 +1,1 @@
-var mnemonic = "immune pet toast magic team piece right hip space goose betray input";
+var mnemonic = "demise crouch fashion scene garden charge hub inquiry divide flat become update";

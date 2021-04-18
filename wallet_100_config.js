@@ -1,1 +1,1 @@
-var mnemonic = "happy wave hybrid rotate ecology blade banana bird blur core gauge hope";
+var mnemonic = "hammer merry kick loop camera picnic organ funny child swift raccoon imitate";

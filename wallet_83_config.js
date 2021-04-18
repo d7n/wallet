@@ -1,1 +1,1 @@
-var mnemonic = "siren much bar trial supply drop summer please whip swim squirrel cradle";
+var mnemonic = "angry oxygen then pioneer average legal argue glad rely pilot side milk";

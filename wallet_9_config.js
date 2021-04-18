@@ -1,1 +1,1 @@
-var mnemonic = "female helmet weapon stock item source quality slogan flavor accuse friend rug";
+var mnemonic = "liberty weapon inform curve enforce vintage drum crime fatal hammer ankle velvet";

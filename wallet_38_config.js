@@ -1,1 +1,1 @@
-var mnemonic = "orbit gym daughter region toss auto aware umbrella pig jacket sing taste";
+var mnemonic = "priority faculty mandate mango want girl grit curious nose exclude put entry";

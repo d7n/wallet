@@ -1,1 +1,1 @@
-var mnemonic = "awkward kiwi favorite toy culture coral isolate similar impact fish photo current";
+var mnemonic = "surface apart desk food source margin weasel beef nerve trend mother balcony";

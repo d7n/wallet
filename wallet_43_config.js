@@ -1,1 +1,1 @@
-var mnemonic = "hurry fog crumble expire provide world rice charge prefer curtain blossom huge";
+var mnemonic = "roof economy duck silly soccer next false service slot crack tenant negative";

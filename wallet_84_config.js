@@ -1,1 +1,1 @@
-var mnemonic = "arrest push feature extra shop behind fragile trick review glove give angle";
+var mnemonic = "absurd panda cram basket glare aunt face into cigar ancient gauge speed";

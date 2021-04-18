@@ -1,1 +1,1 @@
-var mnemonic = "equal void agent sleep kiss special entire victory pepper silver raw salt";
+var mnemonic = "question skin grow describe winner enlist future occur mutual quick silly clump";

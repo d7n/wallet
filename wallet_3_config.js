@@ -1,1 +1,1 @@
-var mnemonic = "autumn glory unhappy fashion gloom bunker scout orchard swear dry confirm wife";
+var mnemonic = "amused estate panel under illness fatigue protect amateur try cat alter rich";

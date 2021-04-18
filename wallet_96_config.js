@@ -1,1 +1,1 @@
-var mnemonic = "dry return soft hint you little panic dignity mix season fatal energy";
+var mnemonic = "enroll code daring vendor injury design cloud bounce hundred embrace crunch piano";

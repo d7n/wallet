@@ -1,1 +1,1 @@
-var mnemonic = "view sphere october escape average creek blush differ bronze tilt lion since";
+var mnemonic = "spread index token climb final east sorry source index loan cream scare";

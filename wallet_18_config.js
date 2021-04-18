@@ -1,1 +1,1 @@
-var mnemonic = "vintage hair need near cloud wrist suit hockey sail wise kitchen review";
+var mnemonic = "staff core silly awful destroy barrel vault ripple genuine pet team hold";

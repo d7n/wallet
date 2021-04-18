@@ -1,1 +1,1 @@
-var mnemonic = "breeze sport room dinner seat bus purity pond damage goose merge magnet";
+var mnemonic = "home luxury sustain wisdom rose ahead until castle equal proud wink expire";

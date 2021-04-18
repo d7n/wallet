@@ -1,1 +1,1 @@
-var mnemonic = "invite prison type debris online eye bacon addict oil noble advance quarter";
+var mnemonic = "pipe loop profit victory level lounge demise wire easily sunset pull gadget";

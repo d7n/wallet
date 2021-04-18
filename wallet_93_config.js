@@ -1,1 +1,1 @@
-var mnemonic = "jeans guard explain capable check damp reward aware spoil smart abuse close";
+var mnemonic = "drum debris faint seminar will wage install category oppose wood cover fall";

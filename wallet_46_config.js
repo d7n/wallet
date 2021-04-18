@@ -1,1 +1,1 @@
-var mnemonic = "solid dinosaur view coil inform deputy tooth web thank undo such midnight";
+var mnemonic = "animal hockey observe rice emotion tribe net jar hip raccoon razor patient";

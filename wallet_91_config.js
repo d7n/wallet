@@ -1,1 +1,1 @@
-var mnemonic = "rifle human reduce solar mango monster female cluster duck flat simple version";
+var mnemonic = "exact great logic thing grief unhappy cousin home pulse craft liquid cook";

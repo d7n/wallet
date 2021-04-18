@@ -1,1 +1,1 @@
-var mnemonic = "unique mirror enroll hair about lab slow shift goddess step try feature";
+var mnemonic = "hero drink bird repair web surface truck stem receive police dad second";

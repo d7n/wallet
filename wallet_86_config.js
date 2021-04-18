@@ -1,1 +1,1 @@
-var mnemonic = "useless pupil alley scissors lumber angle relief tourist reform place hobby vital";
+var mnemonic = "bone swift trick million thing jacket zero video celery midnight mango ocean";

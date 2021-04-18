@@ -1,1 +1,1 @@
-var mnemonic = "riot worry lazy mom sense clerk vote own ankle push blanket fuel";
+var mnemonic = "between field dose merge fossil dry trouble six prison tonight convince swallow";

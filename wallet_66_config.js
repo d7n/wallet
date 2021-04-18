@@ -1,1 +1,1 @@
-var mnemonic = "defense prison grace voyage island outer fade grit invite six excuse bench";
+var mnemonic = "prefer patrol measure custom vacant unveil year alien movie grant chaos nice";

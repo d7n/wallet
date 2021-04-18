@@ -1,1 +1,1 @@
-var mnemonic = "dwarf tobacco moral fat lottery patient balcony noble ghost oyster blade balance";
+var mnemonic = "silent case project omit fluid miss end program price alarm twelve reduce";

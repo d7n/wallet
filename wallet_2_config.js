@@ -1,1 +1,1 @@
-var mnemonic = "novel devote height stumble miracle add renew hover type symptom grunt hobby";
+var mnemonic = "news strong cannon actress subject more fancy half brick home pattern pride";

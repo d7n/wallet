@@ -1,1 +1,1 @@
-var mnemonic = "diet pledge repeat poet clump increase project kite disease run video indoor";
+var mnemonic = "marble vanish tennis wild segment first struggle lamp abuse update tired point";

@@ -1,1 +1,1 @@
-var mnemonic = "pole spare chief soul slight flock attract update slight open peanut law";
+var mnemonic = "link exotic table awake genre alarm whisper spare fitness dial hair discover";

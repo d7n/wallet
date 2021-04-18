@@ -1,1 +1,1 @@
-var mnemonic = "alter peace lemon detail repeat swallow virtual height warrior puppy input easily";
+var mnemonic = "useful elephant subject flip perfect poet knife cry stand very shallow marriage";

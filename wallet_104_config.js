@@ -1,1 +1,1 @@
-var mnemonic = "place knock february cute trouble weekend swim meadow pole capital culture disagree";
+var mnemonic = "fatigue ostrich sphere van loyal rule enroll guilt town umbrella already you";

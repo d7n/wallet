@@ -1,1 +1,1 @@
-var mnemonic = "trumpet bundle soup trick such cook debate peasant tube payment ugly shuffle";
+var mnemonic = "bird six shoot job civil ball joy word horn mirror speak silly";

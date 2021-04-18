@@ -1,1 +1,1 @@
-var mnemonic = "series jacket favorite hero pet brand extend grant spot life arrive swamp";
+var mnemonic = "behind menu nut water erase suspect often lunar taste judge tomorrow meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "flip fly pull joy talent mail shield winter artwork wage ill slush";
+var mnemonic = "test ostrich boy answer push pistol slab alter clock foil arrest segment";

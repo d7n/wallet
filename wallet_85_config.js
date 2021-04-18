@@ -1,1 +1,1 @@
-var mnemonic = "midnight output arena problem carbon refuse noodle robust write umbrella reason faint";
+var mnemonic = "tent south dish cereal surprise satisfy bacon bulk bus actress coffee ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "will good maze pride radar beef acid maximum twelve alone frown stem";
+var mnemonic = "lounge betray weasel matter deer cart minimum cruise sleep avocado pattern pear";

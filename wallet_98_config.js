@@ -1,1 +1,1 @@
-var mnemonic = "discover crazy category strike reflect predict organ move cat consider note garment";
+var mnemonic = "buyer door notable aisle fluid recycle also trust vapor just jump correct";

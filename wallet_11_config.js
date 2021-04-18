@@ -1,1 +1,1 @@
-var mnemonic = "gather mushroom bridge decline rice athlete cash cupboard solid turtle phrase gain";
+var mnemonic = "estate place immense hood place change shy mention legend unaware armor announce";

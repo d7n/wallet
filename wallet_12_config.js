@@ -1,1 +1,1 @@
-var mnemonic = "victory ranch sleep cereal able legend system type wreck rigid vivid sleep";
+var mnemonic = "sorry slush what voyage panther jealous crucial confirm proud live laundry icon";

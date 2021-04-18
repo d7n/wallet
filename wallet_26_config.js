@@ -1,1 +1,1 @@
-var mnemonic = "tip mosquito water adjust anxiety glass shallow chuckle priority lawn patient zoo";
+var mnemonic = "choose human then pepper wasp winner author husband valley govern donkey gain";

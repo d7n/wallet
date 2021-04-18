@@ -1,1 +1,1 @@
-var mnemonic = "disagree expect fox crater lawn fix fiction rocket teach ocean deposit idea";
+var mnemonic = "during debate pause rent region carry ecology owner curtain vast wear immense";

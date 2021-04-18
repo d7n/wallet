@@ -1,1 +1,1 @@
-var mnemonic = "alcohol bundle follow flock youth mystery captain mule clean rack advice present";
+var mnemonic = "excess example rival color small jacket beyond spoil behind unit boost hour";

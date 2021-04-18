@@ -1,1 +1,1 @@
-var mnemonic = "actor kite life team cup wave expose other upon arm gravity scale";
+var mnemonic = "seat boss snack subway army pitch story inside kitten when candy bubble";

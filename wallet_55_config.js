@@ -1,1 +1,1 @@
-var mnemonic = "scout drift chunk display effort soft boost fade alcohol hen come point";
+var mnemonic = "run canvas then blast cabin tag solar door grain blue despair desk";
