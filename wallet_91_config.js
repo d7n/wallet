@@ -1,1 +1,1 @@
-var mnemonic = "ignore super ability stay clog appear layer raccoon already empty timber marine";
+var mnemonic = "pool blue promote name float ridge million planet bomb fine certain tonight";

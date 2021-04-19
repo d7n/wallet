@@ -1,1 +1,1 @@
-var mnemonic = "snake enable stomach away rich cotton onion bus oval hand rifle noodle";
+var mnemonic = "change resist fatal daughter census enroll muscle devote into eagle tide admit";

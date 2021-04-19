@@ -1,1 +1,1 @@
-var mnemonic = "sword bamboo trip midnight salt similar auction speak catalog disagree stuff border";
+var mnemonic = "enhance flush wide cliff spend wheel opera ginger resemble wealth emerge stock";

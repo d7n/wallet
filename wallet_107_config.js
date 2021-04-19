@@ -1,1 +1,1 @@
-var mnemonic = "receive service girl kingdom crush fluid female vacuum owner good camera used";
+var mnemonic = "bus change success twice forget govern sense artist aerobic only gorilla edit";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty hungry sword tribe consider slender loud outside slice usual light width";
+var mnemonic = "decorate broken inside kidney faith mouse soldier champion dignity globe game apple";

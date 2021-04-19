@@ -1,1 +1,1 @@
-var mnemonic = "tennis auction item honey hint twist farm fetch pole unable gospel purse";
+var mnemonic = "wool coil junk art brave problem book lemon budget recycle talk melody";

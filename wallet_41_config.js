@@ -1,1 +1,1 @@
-var mnemonic = "upset pipe climb rebel win purpose garbage wagon much warm ostrich flush";
+var mnemonic = "actual luggage cat age poverty piece leisure segment praise reason square annual";

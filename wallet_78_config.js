@@ -1,1 +1,1 @@
-var mnemonic = "prosper powder wash police hour blame nothing forget south smart flash recycle";
+var mnemonic = "fever drink sauce balance person rule cradle long output erupt clip expose";

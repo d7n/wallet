@@ -1,1 +1,1 @@
-var mnemonic = "argue wisdom insect left clarify section goose army exit brave guilt this";
+var mnemonic = "bullet pioneer sister draw cereal cash shadow frame author police yellow relax";

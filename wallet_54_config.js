@@ -1,1 +1,1 @@
-var mnemonic = "rifle prize poet month tone work puppy observe keep brass edge review";
+var mnemonic = "analyst sugar neck rule local nation gadget ocean muscle license annual yard";

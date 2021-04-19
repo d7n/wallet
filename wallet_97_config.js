@@ -1,1 +1,1 @@
-var mnemonic = "other cotton ability dress arch ride stand bachelor man level bone brief";
+var mnemonic = "exhaust couple tray obvious suspect correct twice loop swim copy exercise muscle";

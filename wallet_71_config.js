@@ -1,1 +1,1 @@
-var mnemonic = "fiction flame illness guess chimney country harvest chapter awful off blind element";
+var mnemonic = "multiply drastic follow amazing horn exercise omit meat bean near slight talk";

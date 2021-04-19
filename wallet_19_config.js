@@ -1,1 +1,1 @@
-var mnemonic = "sweet clog piano peanut resist duck prize rigid dolphin hurdle execute oppose";
+var mnemonic = "cousin sand carpet decide solid broom pioneer dream other pull weird indoor";

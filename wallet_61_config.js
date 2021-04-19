@@ -1,1 +1,1 @@
-var mnemonic = "guilt narrow coffee transfer issue win glimpse fantasy moment utility case lamp";
+var mnemonic = "picnic february novel fault box jeans nerve boat raise hazard tobacco topple";

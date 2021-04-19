@@ -1,1 +1,1 @@
-var mnemonic = "vendor blush peanut there noise bullet praise earth humble garment giggle busy";
+var mnemonic = "tourist eyebrow provide enhance identify glide cross hockey secret fine protect indicate";

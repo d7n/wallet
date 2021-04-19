@@ -1,1 +1,1 @@
-var mnemonic = "noise satisfy differ fault sign immune liar material plug cannon pupil pact";
+var mnemonic = "age luxury leave country year twelve world soap split awful blossom cat";

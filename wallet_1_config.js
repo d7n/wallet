@@ -1,1 +1,1 @@
-var mnemonic = "summer dress raven frequent coast sample away hat earth enrich inmate kind";
+var mnemonic = "say pulp vapor return solution kid virus rhythm note stem element olympic";

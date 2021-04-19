@@ -1,1 +1,1 @@
-var mnemonic = "switch worry clog virus tide fresh city fossil agent name vacuum marine";
+var mnemonic = "carry accuse festival evidence outside profit version news violin steak quantum alone";

@@ -1,1 +1,1 @@
-var mnemonic = "apology solve letter all hold stone mobile stand monster lazy drip follow";
+var mnemonic = "genius gauge unhappy ladder latin outside symbol rack merge ritual foil intact";

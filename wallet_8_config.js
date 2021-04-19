@@ -1,1 +1,1 @@
-var mnemonic = "please shaft north bless ocean balance tray taxi enlist ball cannon thank";
+var mnemonic = "border rain catalog among pony vague doctor odor erode juice liar october";

@@ -1,1 +1,1 @@
-var mnemonic = "despair motion found copper mammal visa divert lab deal grape region shiver";
+var mnemonic = "kiwi cereal consider index unusual force leopard pudding shift stick glow rigid";

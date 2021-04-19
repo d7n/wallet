@@ -1,1 +1,1 @@
-var mnemonic = "street glimpse outside soldier veteran maid cushion clarify quality crawl pipe question";
+var mnemonic = "seat early recycle acoustic badge wedding upset chase vicious build silver slender";

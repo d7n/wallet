@@ -1,1 +1,1 @@
-var mnemonic = "setup forum salt suit awkward ranch often used sword owner jeans unveil";
+var mnemonic = "wide nation quiz surprise issue sphere raw endorse shoot tourist potato work";

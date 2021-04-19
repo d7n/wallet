@@ -1,1 +1,1 @@
-var mnemonic = "auction test fee vendor buyer outer reason walk enforce act notice curtain";
+var mnemonic = "echo hotel eager flip hundred arrest fringe cherry notable loyal bring taste";

@@ -1,1 +1,1 @@
-var mnemonic = "raw alter dose view wise place crater link denial insane rifle struggle";
+var mnemonic = "clay attitude punch edge print vault arrow define fame machine unusual increase";

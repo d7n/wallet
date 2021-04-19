@@ -1,1 +1,1 @@
-var mnemonic = "damage sugar fine picnic glide reveal first logic scout stove chunk record";
+var mnemonic = "latin favorite easy possible spin forum rent fee plug accident cruise label";

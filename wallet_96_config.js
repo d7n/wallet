@@ -1,1 +1,1 @@
-var mnemonic = "burden same load solar mistake gas target must innocent tornado height brand";
+var mnemonic = "myself cherry joy fork minimum promote knock stable dog vicious dinner quarter";

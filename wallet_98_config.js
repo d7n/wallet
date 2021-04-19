@@ -1,1 +1,1 @@
-var mnemonic = "canvas connect border baby imitate merge title wrestle cattle victory hamster novel";
+var mnemonic = "diamond report ivory inflict fat quiz quarter unlock whisper share green benefit";

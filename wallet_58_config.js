@@ -1,1 +1,1 @@
-var mnemonic = "elevator scout turtle canoe flush brother cook praise busy brief pretty annual";
+var mnemonic = "consider patient latin latin wise wrap tonight enter brand hamster borrow cabbage";

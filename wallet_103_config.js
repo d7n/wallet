@@ -1,1 +1,1 @@
-var mnemonic = "scrub dumb typical turtle essay ozone female canyon upgrade this cinnamon release";
+var mnemonic = "script write split basket minor final horse milk broom upgrade tuna ignore";

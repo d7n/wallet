@@ -1,1 +1,1 @@
-var mnemonic = "range render cup always crack vapor guess blade agent movie vast claw";
+var mnemonic = "minute satisfy expect organ cattle virtual state squeeze giant throw coral park";

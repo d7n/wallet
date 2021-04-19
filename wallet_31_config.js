@@ -1,1 +1,1 @@
-var mnemonic = "dice enable board stuff fluid knee record prefer feature plate shoot absent";
+var mnemonic = "vote coach brand day place glimpse guilt term inhale harbor noise spell";

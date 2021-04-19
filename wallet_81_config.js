@@ -1,1 +1,1 @@
-var mnemonic = "print thank distance sting sword demand strong nest husband secret live alert";
+var mnemonic = "glass raise review olympic border pole rookie gate jar output loop buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "cream gown month harvest what curve wage cluster walk rose tilt trade";
+var mnemonic = "inhale merry doctor ridge fluid solar sign visa climb candy bargain atom";

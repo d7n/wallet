@@ -1,1 +1,1 @@
-var mnemonic = "group oblige return tower polar prevent good brain manage oil element title";
+var mnemonic = "damage funny notable cook tag sadness island gap engage frown room guilt";

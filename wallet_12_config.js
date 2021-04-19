@@ -1,1 +1,1 @@
-var mnemonic = "focus pepper clinic riot special under firm wave provide merit second squeeze";
+var mnemonic = "hazard network post improve crowd panic fly repair steak glimpse predict regular";

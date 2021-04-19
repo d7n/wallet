@@ -1,1 +1,1 @@
-var mnemonic = "purity scan candy couch alpha occur later trap squeeze sniff diary tuna";
+var mnemonic = "great hurry clog jeans wool cotton alert merit write treat elephant climb";

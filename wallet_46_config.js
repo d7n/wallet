@@ -1,1 +1,1 @@
-var mnemonic = "festival motor wrap slab mixed aisle vivid story fox rent furnace glare";
+var mnemonic = "obvious split truth alert anger luxury window poet width devote setup bonus";

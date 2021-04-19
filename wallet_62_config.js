@@ -1,1 +1,1 @@
-var mnemonic = "because man bullet city crater fee leopard plastic dial citizen tornado inner";
+var mnemonic = "thrive junior rural million grain issue wrong garbage sound deny start ship";

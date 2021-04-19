@@ -1,1 +1,1 @@
-var mnemonic = "keep because price cousin name crowd state worry pulse book hover below";
+var mnemonic = "mass sheriff bitter system seven chuckle provide word drum random report wave";

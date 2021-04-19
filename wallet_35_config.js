@@ -1,1 +1,1 @@
-var mnemonic = "junk manual list sport puzzle jar walnut front burst video hour nature";
+var mnemonic = "melt same there debris chair donate ahead nurse vital rug intact radar";

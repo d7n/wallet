@@ -1,1 +1,1 @@
-var mnemonic = "honey voice melt hurdle permit noble prefer soda type chronic antenna huge";
+var mnemonic = "eagle student love brother cereal life puppy orbit velvet will buffalo open";

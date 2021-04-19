@@ -1,1 +1,1 @@
-var mnemonic = "steel program cat city strike jeans inhale mention husband glue village polar";
+var mnemonic = "pipe crumble poverty hundred antenna bleak attack high dry alarm fun depend";

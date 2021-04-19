@@ -1,1 +1,1 @@
-var mnemonic = "bleak regret victory cancel elder world table spy forest away broom click";
+var mnemonic = "milk actual grow luggage slam task lady pledge age baby actor prevent";

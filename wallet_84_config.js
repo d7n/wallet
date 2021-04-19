@@ -1,1 +1,1 @@
-var mnemonic = "praise dinosaur quiz observe frame priority finger car case brave direct dignity";
+var mnemonic = "brush bundle sea cute card surprise rose shock place polar increase bottom";

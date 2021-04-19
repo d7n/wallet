@@ -1,1 +1,1 @@
-var mnemonic = "spoil neutral patch predict grain sell nurse plastic fork giraffe unaware crime";
+var mnemonic = "inmate young thing fun arena attack dynamic joy crop among blanket wall";

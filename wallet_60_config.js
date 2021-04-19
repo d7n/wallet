@@ -1,1 +1,1 @@
-var mnemonic = "coil leaf power build weird nice quit order ostrich simple road inch";
+var mnemonic = "cactus task cactus property crucial derive science jewel electric roof clutch across";

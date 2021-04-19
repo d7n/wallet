@@ -1,1 +1,1 @@
-var mnemonic = "soda check turtle holiday clerk patch clever bunker flame panic imitate enough";
+var mnemonic = "crunch issue tip noise disorder ready truly emotion monitor month stone gravity";

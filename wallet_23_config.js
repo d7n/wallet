@@ -1,1 +1,1 @@
-var mnemonic = "bag smoke box legal model across spread around network multiply veteran enroll";
+var mnemonic = "mimic glove lunar under tennis taxi shaft defense flock motor cruise novel";

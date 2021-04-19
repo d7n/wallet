@@ -1,1 +1,1 @@
-var mnemonic = "quality elephant boy sting ugly tiger figure stem project target ethics album";
+var mnemonic = "normal funny rigid example olympic table habit grain enforce fuel ethics visa";

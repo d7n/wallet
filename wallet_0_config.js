@@ -1,1 +1,1 @@
-var mnemonic = "brain tumble twenty minor flame enroll insane honey wear slow nuclear tired";
+var mnemonic = "lemon slam tool attend merge faith attitude addict wish smile coyote force";

@@ -1,1 +1,1 @@
-var mnemonic = "leave kingdom way frame bird boat april gadget job quiz worry enhance";
+var mnemonic = "velvet own sorry donate garden peasant eye boring chalk ritual young bridge";

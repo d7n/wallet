@@ -1,1 +1,1 @@
-var mnemonic = "horse shock sphere expire scissors width field soft race vital tool tomato";
+var mnemonic = "zero green rather portion paddle input skill neck sunset gossip forest fatal";

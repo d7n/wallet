@@ -1,1 +1,1 @@
-var mnemonic = "nominee rug water prison hen surge simple fall baby outside spice december";
+var mnemonic = "jungle wedding wagon enact van best census across unfair scatter awake frog";

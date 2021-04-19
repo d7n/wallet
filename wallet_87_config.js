@@ -1,1 +1,1 @@
-var mnemonic = "finish fatigue property because rough about laundry scissors door wish soul slice";
+var mnemonic = "blind daughter disagree quick donate over merit alien together occur place robot";

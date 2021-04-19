@@ -1,1 +1,1 @@
-var mnemonic = "magic emerge any pretty faith orange connect police stand upon capable believe";
+var mnemonic = "once scrub tomorrow panel nation cattle option cluster tongue husband carbon speed";

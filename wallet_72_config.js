@@ -1,1 +1,1 @@
-var mnemonic = "simple online cross huge ankle erode room crater crime depart code brave";
+var mnemonic = "alley transfer balance tribe crunch prosper bamboo empty cabin police invest vivid";

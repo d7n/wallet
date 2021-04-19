@@ -1,1 +1,1 @@
-var mnemonic = "wasp gasp surge symbol salt balance wash leaf hamster october boat hen";
+var mnemonic = "tomorrow renew act traffic question era bind project version chimney summer adapt";

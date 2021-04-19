@@ -1,1 +1,1 @@
-var mnemonic = "ridge breeze year jar dove armor final ahead model exile worth suffer";
+var mnemonic = "stick write mind awful coral chief double prefer pull amused organ rebel";

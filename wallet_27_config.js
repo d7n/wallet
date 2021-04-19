@@ -1,1 +1,1 @@
-var mnemonic = "business cash ticket swallow there aerobic family vessel cheap strong photo shrug";
+var mnemonic = "urge invest gravity near actor forum neglect kidney banana select tenant wealth";

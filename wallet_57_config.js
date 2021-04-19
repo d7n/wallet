@@ -1,1 +1,1 @@
-var mnemonic = "enlist cinnamon sadness rich panther knock peace agent hunt scorpion finish hazard";
+var mnemonic = "gift series version party join this task radar rain donate bracket stamp";

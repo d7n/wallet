@@ -1,1 +1,1 @@
-var mnemonic = "wait direct voyage latin sick taxi industry dune differ claim deer rely";
+var mnemonic = "uncover advice rescue deliver puppy public loop teach drink decline foot cube";

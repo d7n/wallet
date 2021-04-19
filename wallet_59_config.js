@@ -1,1 +1,1 @@
-var mnemonic = "creek eagle acoustic enroll teach orchard kiwi empty coach learn coral sponsor";
+var mnemonic = "mountain blind aware snap door mom ill scene awake height bench oyster";

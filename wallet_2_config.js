@@ -1,1 +1,1 @@
-var mnemonic = "motion agree lemon rapid hidden affair anchor reward first treat electric police";
+var mnemonic = "uncover inch raw arrive heart bleak spice mandate allow vote gain issue";

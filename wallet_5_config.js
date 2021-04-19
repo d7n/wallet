@@ -1,1 +1,1 @@
-var mnemonic = "major write gorilla tiny season iron best dream lunar sun flee supreme";
+var mnemonic = "test flock code provide damp weekend glow toilet nut faint hand transfer";

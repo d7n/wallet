@@ -1,1 +1,1 @@
-var mnemonic = "venue raise mistake gym any maid lizard shoulder ball festival sound insane";
+var mnemonic = "police slush recycle learn crucial across erosion grab renew west glove clutch";

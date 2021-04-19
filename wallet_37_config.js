@@ -1,1 +1,1 @@
-var mnemonic = "ring ugly biology addict mountain cruel clean return bonus pizza major august";
+var mnemonic = "south youth dynamic ahead airport usual pizza width accuse hybrid fringe arrange";

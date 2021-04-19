@@ -1,1 +1,1 @@
-var mnemonic = "word napkin load depth exhaust recall forum now key toast world dirt";
+var mnemonic = "wreck aim ship boss thought flock noble bonus rotate mercy supreme valid";

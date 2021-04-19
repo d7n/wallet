@@ -1,1 +1,1 @@
-var mnemonic = "glass inhale effort movie praise report arrest another dwarf else term drift";
+var mnemonic = "nominee salute rail book settle parent hip hedgehog toilet betray bulk corn";

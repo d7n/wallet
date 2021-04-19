@@ -1,1 +1,1 @@
-var mnemonic = "impact mountain core fold live final eager actual blouse nation theory include";
+var mnemonic = "blind symptom caution bag lock jealous arrest tide viable curve treat fish";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot solid secret duty feature buyer then bunker together divide order mind";
+var mnemonic = "lizard flame bring swallow rather random usual recall simple pet donate stable";

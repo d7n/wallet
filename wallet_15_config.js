@@ -1,1 +1,1 @@
-var mnemonic = "valve ignore trick law bag burst riot then liberty minimum gloom girl";
+var mnemonic = "mechanic rally dawn slice amount exclude doctor unable chaos fly solve nose";

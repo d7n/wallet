@@ -1,1 +1,1 @@
-var mnemonic = "rug warfare annual parent brisk point enter steel green stove during coin";
+var mnemonic = "hint scheme gravity book giraffe evidence hint hold awkward tennis trade upper";

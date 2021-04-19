@@ -1,1 +1,1 @@
-var mnemonic = "coil control essay trim dice canal grant smooth winter wink pepper mixed";
+var mnemonic = "novel celery artwork remind cover solution huge wreck field crystal puppy sleep";

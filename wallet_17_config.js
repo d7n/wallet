@@ -1,1 +1,1 @@
-var mnemonic = "foam goose usage install nerve cupboard lottery output prosper exist occur consider";
+var mnemonic = "bird vacuum bracket asthma place steel plunge ozone seat empower human around";

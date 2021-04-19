@@ -1,1 +1,1 @@
-var mnemonic = "powder kit hungry sport danger what exercise pledge nut pony train grab";
+var mnemonic = "tortoise young crumble island shrimp pattern glare search defense crime holiday wash";

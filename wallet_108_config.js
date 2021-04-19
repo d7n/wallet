@@ -1,1 +1,1 @@
-var mnemonic = "trouble verb appear update wrestle person sad firm clock stumble monitor conduct";
+var mnemonic = "excuse robot giant scorpion modify flash hip olympic cute manage arctic rally";

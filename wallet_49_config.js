@@ -1,1 +1,1 @@
-var mnemonic = "tomato chief excite athlete cricket resist melt square devote august list access";
+var mnemonic = "sock palm fatal panther panther foster lesson kitten mail begin poem jungle";

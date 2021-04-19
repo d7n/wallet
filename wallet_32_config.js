@@ -1,1 +1,1 @@
-var mnemonic = "mobile spirit sibling humor section artefact mean dust ketchup school better ivory";
+var mnemonic = "flower sister friend lonely climb aim apart interest bargain rich cube detail";

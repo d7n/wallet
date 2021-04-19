@@ -1,1 +1,1 @@
-var mnemonic = "curve cube check cereal jelly dune impulse mirror butter caution enough author";
+var mnemonic = "switch garage fury shove abuse earth sample prize treat state north garment";

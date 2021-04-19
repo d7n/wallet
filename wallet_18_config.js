@@ -1,1 +1,1 @@
-var mnemonic = "omit bargain urban fence domain census fabric nose sugar elevator finger delay";
+var mnemonic = "correct total firm manage guitar enroll follow plunge shoot advice inch light";

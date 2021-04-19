@@ -1,1 +1,1 @@
-var mnemonic = "dress mixture clip execute glove virtual cage able chunk lawsuit loud fatigue";
+var mnemonic = "engage remove accident someone seek submit answer shallow police front devote twin";

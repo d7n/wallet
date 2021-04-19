@@ -1,1 +1,1 @@
-var mnemonic = "awesome special suggest alcohol lend reward expose inquiry decrease night movie place";
+var mnemonic = "seminar comic ancient degree confirm unknown economy vital opinion van mirror market";

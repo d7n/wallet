@@ -1,1 +1,1 @@
-var mnemonic = "scrub liberty awake guide almost lend mobile stereo muffin fragile food talent";
+var mnemonic = "tragic title hood woman napkin busy slam crash boss despair banana trust";

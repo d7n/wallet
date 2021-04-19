@@ -1,1 +1,1 @@
-var mnemonic = "giraffe way secret duty inquiry evil nose attack quit addict paddle rescue";
+var mnemonic = "urge photo deputy caught dice crane cactus rally animal fault truck ranch";

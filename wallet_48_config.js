@@ -1,1 +1,1 @@
-var mnemonic = "license board result traffic soon amateur radio blouse atom average chat abandon";
+var mnemonic = "waste bomb gauge rain submit umbrella sun valley differ quiz border toilet";

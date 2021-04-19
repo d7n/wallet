@@ -1,1 +1,1 @@
-var mnemonic = "loop tonight swim camp ride into rifle idle hundred voyage stove power";
+var mnemonic = "game flag embrace wolf theme latin raven nothing general provide verify screen";

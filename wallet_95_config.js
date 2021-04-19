@@ -1,1 +1,1 @@
-var mnemonic = "define fly fox sadness wash style alley city input salad correct drip";
+var mnemonic = "vehicle access faculty limb traffic harsh zebra crumble attack endorse baby abandon";
