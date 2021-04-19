@@ -1,1 +1,1 @@
-var mnemonic = "sauce bring planet outdoor program trap easily brisk health rebel nose above";
+var mnemonic = "genuine globe rug beach lucky warm black banner rude blur lab pipe";

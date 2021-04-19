@@ -1,1 +1,1 @@
-var mnemonic = "that only poet twenty glass mercy swallow scatter finger predict tide inquiry";
+var mnemonic = "rookie crew cheese visa omit orange steak surprise mimic next empty ostrich";

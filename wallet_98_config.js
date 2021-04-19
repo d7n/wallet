@@ -1,1 +1,1 @@
-var mnemonic = "lobster jacket cart learn obey view potato scatter conduct extra stomach spot";
+var mnemonic = "chase silly expose share captain hazard casual claw mechanic fix off vehicle";

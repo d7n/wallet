@@ -1,1 +1,1 @@
-var mnemonic = "key clump useless motion forest chase search relief army receive long name";
+var mnemonic = "confirm radio manage employ royal atom shift clown imitate frog gun wolf";

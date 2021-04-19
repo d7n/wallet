@@ -1,1 +1,1 @@
-var mnemonic = "firm letter verb ready road place rally venture zoo magnet team kiwi";
+var mnemonic = "trumpet error frost mesh sleep muscle program liberty raw pill border first";

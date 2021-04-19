@@ -1,1 +1,1 @@
-var mnemonic = "ignore never damage fame thought legend fossil amateur misery crack ancient turtle";
+var mnemonic = "hospital print holiday battle cabin buffalo car camp pony click clog gym";

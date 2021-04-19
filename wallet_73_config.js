@@ -1,1 +1,1 @@
-var mnemonic = "rebuild sad strategy crazy rigid slow bread happy vicious penalty comic fitness";
+var mnemonic = "unique escape truck nurse merry must puppy yellow staff tomorrow april provide";

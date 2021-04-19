@@ -1,1 +1,1 @@
-var mnemonic = "calm kingdom birth trap method evolve orbit ranch desk diagram unique gap";
+var mnemonic = "holiday duck like inmate review layer cloth vicious cloud critic mule globe";

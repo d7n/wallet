@@ -1,1 +1,1 @@
-var mnemonic = "involve sauce melody leisure wool choose good switch novel air laundry apart";
+var mnemonic = "dash add battle grace tail token dad apology stock casino urban floor";

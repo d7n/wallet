@@ -1,1 +1,1 @@
-var mnemonic = "promote sound spot tortoise small tuition adjust wet echo favorite alert visual";
+var mnemonic = "pilot clog hammer define already wood punch emerge hint surge invest usual";

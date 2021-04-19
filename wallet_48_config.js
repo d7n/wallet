@@ -1,1 +1,1 @@
-var mnemonic = "neck maximum chef palace ball goat couch differ away rotate leopard runway";
+var mnemonic = "spider someone protect fetch attend movie cinnamon invest trigger catalog gap north";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday quarter vivid fee wonder mandate carpet equip acid any holiday survey";
+var mnemonic = "crumble observe color nut melody large luggage jeans crisp one firm topple";

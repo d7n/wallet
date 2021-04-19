@@ -1,1 +1,1 @@
-var mnemonic = "fringe fame laptop earn nest educate coach toast announce hello mad affair";
+var mnemonic = "planet tornado pelican bike film love retire hub hub surge gorilla love";

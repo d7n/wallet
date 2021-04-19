@@ -1,1 +1,1 @@
-var mnemonic = "neglect one angry crane crystal cancel gravity flip forest play turn pulp";
+var mnemonic = "sense flavor grace labor million mouse nephew home loud ride adult camera";

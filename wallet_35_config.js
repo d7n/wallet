@@ -1,1 +1,1 @@
-var mnemonic = "tag fix decorate reopen mesh club critic invest recycle crater route anger";
+var mnemonic = "join absorb try unknown notable view provide vital wedding edge empty slight";

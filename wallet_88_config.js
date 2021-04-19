@@ -1,1 +1,1 @@
-var mnemonic = "burger uphold friend ginger claw scrap undo ugly peace bitter typical raven";
+var mnemonic = "face keep warm scorpion near congress bulk first raccoon return finger ticket";

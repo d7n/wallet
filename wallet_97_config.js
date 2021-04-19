@@ -1,1 +1,1 @@
-var mnemonic = "stomach cactus december height cement brain stage worry strike size result vague";
+var mnemonic = "stick curve just talent crazy carry supply chuckle menu roof describe tiny";

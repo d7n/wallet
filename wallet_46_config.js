@@ -1,1 +1,1 @@
-var mnemonic = "scorpion elbow outdoor aware table pause extra bachelor certain build desk father";
+var mnemonic = "canoe tube taste claw belt expire decade leave assume burden zero melt";

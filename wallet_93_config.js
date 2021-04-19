@@ -1,1 +1,1 @@
-var mnemonic = "spy fee ask gravity claim list festival hire need street nominee apple";
+var mnemonic = "obey topple asset balance fossil lawn wasp return pair vendor gun auction";

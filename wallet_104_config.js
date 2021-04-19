@@ -1,1 +1,1 @@
-var mnemonic = "loyal series hawk media pluck pledge collect future gesture barrel laugh mistake";
+var mnemonic = "wood edge scrub wish polar carbon ladder evil mercy primary fish direct";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect define blanket mutual helmet wink ability farm secret famous sort scout";
+var mnemonic = "stumble slide lounge shrimp crazy just twin scrap effort cube swamp love";

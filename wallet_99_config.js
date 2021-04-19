@@ -1,1 +1,1 @@
-var mnemonic = "addict stool region seminar cross cute seminar ready cabin blur rain shy";
+var mnemonic = "wine wife wide item patient trend oak link whip news version survey";

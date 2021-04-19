@@ -1,1 +1,1 @@
-var mnemonic = "quality sound flight witness ozone aim candy relief list base reject cost";
+var mnemonic = "fluid license struggle memory swift wet trigger woman eternal category hat tomato";

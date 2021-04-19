@@ -1,1 +1,1 @@
-var mnemonic = "buzz voyage fade awkward disorder meadow drop bronze choose load hurt pair";
+var mnemonic = "lumber lava uncover name concert view announce orange wrap leisure photo wrap";

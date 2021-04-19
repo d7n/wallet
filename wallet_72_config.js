@@ -1,1 +1,1 @@
-var mnemonic = "clap between cheap cube bomb annual injury cigar gift ridge student interest";
+var mnemonic = "violin pave try alert whip keen length enemy vintage gospel bench clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "infant teach napkin matter lava monitor gift extend naive dinner volume master";
+var mnemonic = "tuna category buddy usual angle maid spread pepper cart radar spoil electric";

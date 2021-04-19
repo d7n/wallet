@@ -1,1 +1,1 @@
-var mnemonic = "glory reveal aisle surprise venue bright enroll lesson flower expect ship promote";
+var mnemonic = "mutual strong spring cruise romance cradle box cable west submit almost blossom";

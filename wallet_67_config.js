@@ -1,1 +1,1 @@
-var mnemonic = "pretty divorce number since mosquito before decade force glide boss nest fall";
+var mnemonic = "bracket opera volume program pride picture swift episode uniform sibling lab lecture";

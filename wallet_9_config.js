@@ -1,1 +1,1 @@
-var mnemonic = "replace kid feed robot then potato inject barrel unhappy rural list fury";
+var mnemonic = "hotel crucial hole allow dust arctic final absorb green opinion lake foster";

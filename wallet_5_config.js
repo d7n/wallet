@@ -1,1 +1,1 @@
-var mnemonic = "undo design energy wreck until brother perfect tomato develop bitter bless comic";
+var mnemonic = "guilt praise boring embark club actor bomb drop reflect tag dice mean";

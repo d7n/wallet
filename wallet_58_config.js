@@ -1,1 +1,1 @@
-var mnemonic = "act cross piece shed start remove wide zebra merge bind thing boost";
+var mnemonic = "toe crisp ice tent filter sibling fold quantum embrace task clinic bonus";

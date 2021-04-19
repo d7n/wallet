@@ -1,1 +1,1 @@
-var mnemonic = "tornado save rice twenty unfold blade riot fossil vacuum mule learn category";
+var mnemonic = "sample width debris rent exile enhance swamp quality provide eye suit arch";

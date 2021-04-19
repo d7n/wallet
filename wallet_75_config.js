@@ -1,1 +1,1 @@
-var mnemonic = "mirror awesome loud chat satisfy soon tragic inspire nice digital again legal";
+var mnemonic = "usual estate sport treat plastic company resource casino room region educate inform";

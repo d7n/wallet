@@ -1,1 +1,1 @@
-var mnemonic = "climb bottom course lady frog inmate brisk error purchase flock bronze crime";
+var mnemonic = "steak panther dream custom nest bless work gym room miracle raccoon sea";

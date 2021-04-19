@@ -1,1 +1,1 @@
-var mnemonic = "snow lawn amused abandon wrestle brick lock icon fatal rib couple merry";
+var mnemonic = "rookie steel now increase ahead penalty fame fresh clean snake about lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "cute any lake torch swift net depend muffin chief wedding ship bitter";
+var mnemonic = "anger velvet pause then charge junk blouse buzz riot disorder wreck cute";

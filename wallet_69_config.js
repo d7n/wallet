@@ -1,1 +1,1 @@
-var mnemonic = "license laptop upgrade slush rack clump swallow aspect flash input post inflict";
+var mnemonic = "extra good meat arch escape now horn loop hair faint wall sad";

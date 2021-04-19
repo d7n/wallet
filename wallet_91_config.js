@@ -1,1 +1,1 @@
-var mnemonic = "assist mother phrase deny tenant gaze idle wheat arrive awkward castle taxi";
+var mnemonic = "forest embark erosion security annual tip payment long thank reject west trap";

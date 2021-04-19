@@ -1,1 +1,1 @@
-var mnemonic = "object speak squirrel eager ask glide van ship short blush general depend";
+var mnemonic = "scorpion slot oven total bitter build ensure shadow often note neck demand";

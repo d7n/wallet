@@ -1,1 +1,1 @@
-var mnemonic = "baby process yard doll quick dose tortoise spend little arrow erase gaze";
+var mnemonic = "portion pave thunder drop danger supply sock invite wage news industry current";

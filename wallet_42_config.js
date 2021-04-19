@@ -1,1 +1,1 @@
-var mnemonic = "lazy cabbage decrease various series become shoot valley connect alarm mammal turtle";
+var mnemonic = "job menu occur skill across essay feel ritual quit above right point";

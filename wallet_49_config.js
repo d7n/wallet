@@ -1,1 +1,1 @@
-var mnemonic = "exit mammal erupt beach custom resemble chuckle chaos wrestle base cargo pitch";
+var mnemonic = "leader hurry exchange salad squeeze small frequent provide rotate allow forum spot";

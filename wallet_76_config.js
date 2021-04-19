@@ -1,1 +1,1 @@
-var mnemonic = "ranch debate cook choice nut bleak amount shield wish web behind piano";
+var mnemonic = "carpet invest casual camera leaf october position crack print cradle stick swift";

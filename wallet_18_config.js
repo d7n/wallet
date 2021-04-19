@@ -1,1 +1,1 @@
-var mnemonic = "grunt globe dentist adult media early gather liquid obtain hidden parade element";
+var mnemonic = "paper bacon disorder margin quarter assume electric engage sample wool magnet blame";

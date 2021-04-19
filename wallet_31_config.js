@@ -1,1 +1,1 @@
-var mnemonic = "bar blush legal someone awful merit already correct social yellow punch million";
+var mnemonic = "rather claim laptop trumpet educate liquid rich gadget clever talent venture shrug";

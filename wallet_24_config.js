@@ -1,1 +1,1 @@
-var mnemonic = "half cage either spoil only south glow patrol stock effort album poet";
+var mnemonic = "soon abstract anxiety speed mother furnace vast seed correct want shoulder draft";

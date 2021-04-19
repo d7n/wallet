@@ -1,1 +1,1 @@
-var mnemonic = "bar genre pelican gather six lawsuit correct emotion hospital business they public";
+var mnemonic = "pass mistake maple mutual siege charge manage employ certain pencil wide grab";

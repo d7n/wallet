@@ -1,1 +1,1 @@
-var mnemonic = "tip choice online what chunk blush venue plunge retreat message move retire";
+var mnemonic = "lamp magnet consider evil large swim soul struggle behave address record suit";

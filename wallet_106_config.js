@@ -1,1 +1,1 @@
-var mnemonic = "glance lesson cluster sister cousin suffer camera end runway royal nasty cart";
+var mnemonic = "tunnel cruise sea weasel sausage exist project october claw truth matter sort";

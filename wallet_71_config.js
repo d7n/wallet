@@ -1,1 +1,1 @@
-var mnemonic = "rack era tortoise spawn raven tuna vacuum bunker roast inside blush badge";
+var mnemonic = "peace prison panel lamp axis trumpet spot repair weapon grocery moral detail";

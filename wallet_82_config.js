@@ -1,1 +1,1 @@
-var mnemonic = "banner canyon advice shove excite glare produce fold case coffee verb original";
+var mnemonic = "lady check attend lady host burden flavor similar talk common crowd mercy";

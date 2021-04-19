@@ -1,1 +1,1 @@
-var mnemonic = "luggage cruel mention join output comfort empty quality upper metal swallow spoil";
+var mnemonic = "garage smoke total bundle ecology stadium disorder sell solar decrease title wise";

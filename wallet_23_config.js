@@ -1,1 +1,1 @@
-var mnemonic = "infant quit hello language actual limit shrimp always lens verify eight congress";
+var mnemonic = "script used oxygen rate river leg frequent tuition intact dragon bargain tent";

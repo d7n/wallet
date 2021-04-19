@@ -1,1 +1,1 @@
-var mnemonic = "height tiger bless vicious love amateur earth differ property source utility want";
+var mnemonic = "birth barrel nothing million volcano rural whisper tooth mistake trend first cheese";

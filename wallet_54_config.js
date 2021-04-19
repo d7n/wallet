@@ -1,1 +1,1 @@
-var mnemonic = "baby hospital oil broccoli sand submit main cinnamon color border apple speak";
+var mnemonic = "board yard size vast duty wagon exchange include car mail teach develop";

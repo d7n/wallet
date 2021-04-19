@@ -1,1 +1,1 @@
-var mnemonic = "globe robot humor brisk tower expect travel slice bargain claim dragon secret";
+var mnemonic = "helmet crash birth attitude avocado team tomorrow change caution talent below wheat";

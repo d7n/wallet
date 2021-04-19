@@ -1,1 +1,1 @@
-var mnemonic = "hurdle phrase morning swear maze develop notable admit luxury nice nature measure";
+var mnemonic = "report supreme good company time rabbit visual beach chronic example someone health";

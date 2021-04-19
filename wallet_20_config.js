@@ -1,1 +1,1 @@
-var mnemonic = "globe wise unique cereal puppy envelope right solar aerobic glove scorpion uniform";
+var mnemonic = "rhythm describe genre tip route motor drip sound artwork replace chest fashion";

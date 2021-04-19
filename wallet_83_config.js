@@ -1,1 +1,1 @@
-var mnemonic = "catch nephew rose story thank either across warfare alter cigar sword steak";
+var mnemonic = "lunch relax spare expand casino coin betray tank peasant vehicle envelope arm";

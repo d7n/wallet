@@ -1,1 +1,1 @@
-var mnemonic = "swim ghost rural knock together wolf change gun country crouch myth rookie";
+var mnemonic = "cherry ill sheriff crunch evoke peace card spring island mixture cook kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "merry acoustic organ drill buddy conduct cake sport pull local border tip";
+var mnemonic = "spirit web wedding possible vanish cash tired business video afraid name layer";

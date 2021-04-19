@@ -1,1 +1,1 @@
-var mnemonic = "orient modify mesh waste melody female diesel genre ginger vacuum echo twin";
+var mnemonic = "cupboard rotate blood duck bless glide tag until horse twice vital rhythm";

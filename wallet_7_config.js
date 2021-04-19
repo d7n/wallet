@@ -1,1 +1,1 @@
-var mnemonic = "auction wise evidence talk radio fantasy gospel digital outdoor body morning lab";
+var mnemonic = "save change document mind custom lens feature name grunt crash tired minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "web puzzle pig today else behave wealth vivid taxi shine ceiling pave";
+var mnemonic = "print found despair talk tower design life immune acid behave denial mom";

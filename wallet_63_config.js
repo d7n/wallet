@@ -1,1 +1,1 @@
-var mnemonic = "young humor hamster flash flat umbrella friend glide steel express they clerk";
+var mnemonic = "solid awkward shallow panther vague person develop device thrive offer cost canvas";

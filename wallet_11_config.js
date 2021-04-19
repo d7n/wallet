@@ -1,1 +1,1 @@
-var mnemonic = "dream analyst reward inform civil plastic burden coach enter pull arrow title";
+var mnemonic = "behind draw obscure crawl huge virus pudding hard answer abandon clap tooth";

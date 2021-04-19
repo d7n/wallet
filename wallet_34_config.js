@@ -1,1 +1,1 @@
-var mnemonic = "transfer intact tired file priority federal foot finger modify raccoon spoon head";
+var mnemonic = "catch public human frog ostrich fog any sunny danger hobby all syrup";

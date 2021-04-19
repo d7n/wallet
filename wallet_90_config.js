@@ -1,1 +1,1 @@
-var mnemonic = "way february battle already digital fee riot sad cart memory blouse share";
+var mnemonic = "used correct elephant civil arrive abandon orphan cycle food ugly play layer";

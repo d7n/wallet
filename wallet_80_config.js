@@ -1,1 +1,1 @@
-var mnemonic = "honey over output move vivid plug drive office duty moment slender like";
+var mnemonic = "dry lend now cheese dynamic breeze tennis achieve faith lava purse figure";

@@ -1,1 +1,1 @@
-var mnemonic = "session glow goose response maximum rebel deer normal test cook paddle tuition";
+var mnemonic = "window dirt expose there first pilot perfect use magic much pet trip";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct truth resemble main coast setup awake cliff area zero extra odor";
+var mnemonic = "isolate autumn thumb wagon pigeon hand rabbit wait round glide eagle allow";

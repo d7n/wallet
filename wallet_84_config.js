@@ -1,1 +1,1 @@
-var mnemonic = "casino rail group raven load space fury flee math liberty another elephant";
+var mnemonic = "shallow canvas parade prevent organ armed pelican cry question fetch photo cheese";

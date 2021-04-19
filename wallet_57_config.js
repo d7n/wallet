@@ -1,1 +1,1 @@
-var mnemonic = "neutral teach wasp dress spice debris insect capable alarm rely panda legend";
+var mnemonic = "main pass tongue mercy expect forest rent fossil ozone master minor ask";

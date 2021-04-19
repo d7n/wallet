@@ -1,1 +1,1 @@
-var mnemonic = "hill infant trumpet chief keen lift sibling dust rail alarm shove segment";
+var mnemonic = "wet attend fringe frown action library focus engage kingdom begin mirror goddess";

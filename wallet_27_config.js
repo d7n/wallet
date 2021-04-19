@@ -1,1 +1,1 @@
-var mnemonic = "scheme behind crucial purchase crater coast local chair spray pluck online chronic";
+var mnemonic = "will world student dog minute bubble domain arrow slush donor curious connect";

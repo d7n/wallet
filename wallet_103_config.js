@@ -1,1 +1,1 @@
-var mnemonic = "slush pluck tube rival voice ability height wheat write famous vague trouble";
+var mnemonic = "clip hollow start usual chunk marriage zebra foster oak orient company camp";

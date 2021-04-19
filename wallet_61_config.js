@@ -1,1 +1,1 @@
-var mnemonic = "wage deliver possible season squirrel license bus nest copper clump slice table";
+var mnemonic = "squirrel between yellow disagree now chef category pelican funny mule walk juice";

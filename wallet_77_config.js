@@ -1,1 +1,1 @@
-var mnemonic = "mosquito heavy intact remain seat dawn tank reform dance large spin pet";
+var mnemonic = "hope harbor envelope kit opera spawn forward pair trust oxygen fetch leopard";

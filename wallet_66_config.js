@@ -1,1 +1,1 @@
-var mnemonic = "captain fossil judge appear cancel clog west pig powder rack eye visit";
+var mnemonic = "joy awesome tourist provide reject love normal crater enable drop song receive";

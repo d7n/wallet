@@ -1,1 +1,1 @@
-var mnemonic = "december face similar vehicle common ahead tree someone another sketch erupt blush";
+var mnemonic = "retire subway act answer south project draw tank moment ostrich exhaust net";

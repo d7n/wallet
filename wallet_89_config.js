@@ -1,1 +1,1 @@
-var mnemonic = "submit salt lyrics invest ripple barrel run twelve retreat buzz lounge manual";
+var mnemonic = "nasty runway cry curious toss pistol panther zebra fiscal volcano achieve toast";

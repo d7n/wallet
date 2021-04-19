@@ -1,1 +1,1 @@
-var mnemonic = "slim unfold airport suggest giant glad theory fire inherit deliver predict thank";
+var mnemonic = "state empower elevator thunder evoke march earth animal online pizza duck have";

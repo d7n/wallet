@@ -1,1 +1,1 @@
-var mnemonic = "soap feed foster tired chase harbor turn cactus riot work club twenty";
+var mnemonic = "track quote license prison flush disorder spoon whisper upon camera program where";

@@ -1,1 +1,1 @@
-var mnemonic = "black pretty stumble possible increase easy menu wrestle deer result camp unlock";
+var mnemonic = "lottery panda square concert rebel awkward divorce slab junk impact ocean omit";

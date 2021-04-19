@@ -1,1 +1,1 @@
-var mnemonic = "rich random come people prepare improve blossom science multiply hospital crane route";
+var mnemonic = "attack defy mention wise sing joke gym media salon venture game web";

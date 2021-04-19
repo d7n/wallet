@@ -1,1 +1,1 @@
-var mnemonic = "comfort giggle meat glimpse crime best joy parrot illegal dream sniff border";
+var mnemonic = "tourist motor elevator obvious silly mean invest announce surround banana jewel bridge";

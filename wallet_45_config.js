@@ -1,1 +1,1 @@
-var mnemonic = "require since very mimic palm little month sunny wasp chicken crack gate";
+var mnemonic = "cement airport kit basket banana bread truth mix gown depend brave sadness";

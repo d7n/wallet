@@ -1,1 +1,1 @@
-var mnemonic = "party radar kitten struggle maze paddle caution recipe drop heavy animal essay";
+var mnemonic = "direct because area chaos danger fashion change order hunt helmet film rigid";

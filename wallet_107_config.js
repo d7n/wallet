@@ -1,1 +1,1 @@
-var mnemonic = "faculty will torch elite impose shift embark pistol already girl panic three";
+var mnemonic = "sea claw super real tenant roast artist biology oblige okay ethics eyebrow";

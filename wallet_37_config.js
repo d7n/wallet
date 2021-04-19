@@ -1,1 +1,1 @@
-var mnemonic = "door unique later caught town nice junk speak physical salad giraffe float";
+var mnemonic = "guitar intact real nasty bitter brave teach spider carry jealous primary rebel";

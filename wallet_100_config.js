@@ -1,1 +1,1 @@
-var mnemonic = "civil sketch common fashion glove heart crush asset praise wagon document fatal";
+var mnemonic = "grow sketch thrive image between equip pulp practice wish mistake sweet focus";

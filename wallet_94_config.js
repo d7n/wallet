@@ -1,1 +1,1 @@
-var mnemonic = "snap crash chaos blue absorb athlete holiday enforce become twist popular course";
+var mnemonic = "room bar taxi elegant ask fitness rifle lunar film volume budget forum";

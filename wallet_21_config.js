@@ -1,1 +1,1 @@
-var mnemonic = "nasty super lawn catch dress ribbon today process twin globe picture step";
+var mnemonic = "flee feed fossil crime recipe sister pony spray sing diesel plunge carry";
