@@ -1,1 +1,1 @@
-var mnemonic = "olive quit skull topic food liquid sugar crime guard echo tiny dust";
+var mnemonic = "square jar wedding inherit girl nurse know suggest off quick today slim";

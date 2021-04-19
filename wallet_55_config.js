@@ -1,1 +1,1 @@
-var mnemonic = "cabin wink disease wide soft soup motor slush absurd mango february play";
+var mnemonic = "exist table emerge camera wet twin web outside help buffalo twist force";

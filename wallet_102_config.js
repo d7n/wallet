@@ -1,1 +1,1 @@
-var mnemonic = "actress lecture hammer simple kind teach miracle tenant jacket shaft swing hello";
+var mnemonic = "dust since lesson wire husband awake arrange reveal lottery half scout throw";

@@ -1,1 +1,1 @@
-var mnemonic = "reward razor often nest scale mercy cinnamon valid gather coyote review casino";
+var mnemonic = "key bargain trap chest silk sweet vessel walk embody ten jar sheriff";

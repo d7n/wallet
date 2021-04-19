@@ -1,1 +1,1 @@
-var mnemonic = "average history patrol pass oak annual pepper between advice improve train bean";
+var mnemonic = "author view hour either ginger pink poverty course endless enjoy fat valid";

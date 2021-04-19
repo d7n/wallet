@@ -1,1 +1,1 @@
-var mnemonic = "tunnel north owner valid indoor such disease tilt harvest carbon cry nice";
+var mnemonic = "share paddle immense lava happy carbon struggle install perfect canvas act river";

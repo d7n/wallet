@@ -1,1 +1,1 @@
-var mnemonic = "labor chuckle inmate athlete famous begin junior toddler evil melt illness special";
+var mnemonic = "wild shallow acid debate tell response vocal project core depth curtain mango";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket tuition glass bounce steel frost aunt pluck code decline hand tissue";
+var mnemonic = "nest auction olive cliff slush farm deliver arch six adjust violin skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "keep merit you olympic wage song firm toy where follow alley sea";
+var mnemonic = "arrow drop donor angry cliff festival supply floor blade sound quit moon";

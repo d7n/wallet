@@ -1,1 +1,1 @@
-var mnemonic = "attack view series science check snap ten shift raccoon genre chunk soft";
+var mnemonic = "manual doctor foil hybrid sunny material wheat arrest drill immune soft soon";

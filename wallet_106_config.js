@@ -1,1 +1,1 @@
-var mnemonic = "woman search never man ski limit exact child bless volume screen own";
+var mnemonic = "aspect chalk model simple dwarf heavy cry stay wink turtle squirrel basic";

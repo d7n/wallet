@@ -1,1 +1,1 @@
-var mnemonic = "void reunion mountain tube yard satisfy cabin cash fan myth sword plug";
+var mnemonic = "thrive witness legend give river vibrant price shy acid select abstract misery";

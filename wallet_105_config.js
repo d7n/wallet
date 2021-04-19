@@ -1,1 +1,1 @@
-var mnemonic = "patrol day differ voyage code man depend syrup lounge nasty roast swap";
+var mnemonic = "robot hospital crew cart sunny buyer palm comic bird cheap whisper bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "young drink action heavy easily idea track thank bomb hope regret venue";
+var mnemonic = "knee toward trim table swear proud dial wage negative enable bean speed";

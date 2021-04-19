@@ -1,1 +1,1 @@
-var mnemonic = "fatigue mule dove diagram same now patch farm adult ketchup steak vote";
+var mnemonic = "sting spread universe cloth kingdom return embrace rural merry inflict hammer vast";

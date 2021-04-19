@@ -1,1 +1,1 @@
-var mnemonic = "entire outdoor inform path cheap thrive potato render notable brush lemon such";
+var mnemonic = "culture canyon spell chest banner weird vanish property agent ethics there any";

@@ -1,1 +1,1 @@
-var mnemonic = "vivid flip cabin track salute elder someone spoon shy vanish shuffle squeeze";
+var mnemonic = "crisp naive spell empty vacuum outdoor sausage spoon online target coffee profit";

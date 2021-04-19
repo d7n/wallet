@@ -1,1 +1,1 @@
-var mnemonic = "amount absent depend inside fork female core negative task crack fetch property";
+var mnemonic = "bag arrive tuna nut polar oven escape nothing diesel inherit couple board";

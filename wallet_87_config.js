@@ -1,1 +1,1 @@
-var mnemonic = "price online point ask like erode shy conduct kite hover solid betray";
+var mnemonic = "nurse face coyote secret ski anger merit fashion double success valley border";

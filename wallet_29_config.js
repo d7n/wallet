@@ -1,1 +1,1 @@
-var mnemonic = "toilet happy fitness soap example about frame coil awesome carpet canoe put";
+var mnemonic = "adjust donor hunt snap extend brush chair equal lumber address tower transfer";

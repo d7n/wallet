@@ -1,1 +1,1 @@
-var mnemonic = "program nephew moon salad moon axis luxury outdoor cushion sick okay slab";
+var mnemonic = "trial occur garbage brother attend nut reopen use color quit edit hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "someone banana knock pilot pool master during gesture ghost scrub derive random";
+var mnemonic = "today sheriff useful never practice ridge explain north group way resist gesture";

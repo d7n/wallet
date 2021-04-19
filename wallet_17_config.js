@@ -1,1 +1,1 @@
-var mnemonic = "gown finish purpose subject tape certain orient about parade bamboo only labor";
+var mnemonic = "bright crane oval pumpkin term click valve gossip crater aerobic twenty flight";

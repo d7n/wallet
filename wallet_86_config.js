@@ -1,1 +1,1 @@
-var mnemonic = "clever price flee praise virtual alert prison flash antique alien media chimney";
+var mnemonic = "order razor access average flower tree shallow basket open elevator funny nut";

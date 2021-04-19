@@ -1,1 +1,1 @@
-var mnemonic = "situate steel cake video smoke wage poverty maze admit true century cute";
+var mnemonic = "fashion shadow tone square route fluid gate excuse abstract cash wash transfer";

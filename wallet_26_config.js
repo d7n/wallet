@@ -1,1 +1,1 @@
-var mnemonic = "exchange broom canal robot funny combine consider coin toast outdoor twin field";
+var mnemonic = "silly tool choice object cruel piano siege festival enroll later rifle copper";

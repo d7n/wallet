@@ -1,1 +1,1 @@
-var mnemonic = "valve abstract rural below expose quiz hammer admit glance picnic chat gaze";
+var mnemonic = "middle large source left palm source print arrive muscle crowd cousin jump";

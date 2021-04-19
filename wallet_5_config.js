@@ -1,1 +1,1 @@
-var mnemonic = "grow welcome risk february follow raw damp dinner path panther best rely";
+var mnemonic = "where search they danger draw arrest shadow lady buzz struggle mouse glory";

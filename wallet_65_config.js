@@ -1,1 +1,1 @@
-var mnemonic = "refuse sentence today slot advice bacon scrap indicate enjoy frown cable lab";
+var mnemonic = "north segment when chase robust quarter flat dilemma behind earn bind glue";

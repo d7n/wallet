@@ -1,1 +1,1 @@
-var mnemonic = "erase awesome confirm wealth duck other online mystery test arena fish radio";
+var mnemonic = "gauge boost rural wrist march oxygen depth curious happy model object essay";

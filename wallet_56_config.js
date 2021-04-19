@@ -1,1 +1,1 @@
-var mnemonic = "brisk goose soccer bring margin fossil fly lyrics drop oven age morning";
+var mnemonic = "slab casino material april iron satisfy waste join alcohol jaguar powder elite";

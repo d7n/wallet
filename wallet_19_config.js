@@ -1,1 +1,1 @@
-var mnemonic = "work author certain alone stick example service teach exist affair token shy";
+var mnemonic = "ten hand liquid parent thought kiss decade balance quick empower sound armed";

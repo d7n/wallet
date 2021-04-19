@@ -1,1 +1,1 @@
-var mnemonic = "build portion jacket cloth nurse trade squirrel welcome fault float call chapter";
+var mnemonic = "cigar dutch bar tortoise trophy physical shop put identify jeans dumb earth";

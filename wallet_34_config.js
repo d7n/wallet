@@ -1,1 +1,1 @@
-var mnemonic = "broom expand inquiry length step clutch wrestle debris asthma maze ticket library";
+var mnemonic = "apple puzzle lunar farm human battle object tooth turkey expect roof copper";

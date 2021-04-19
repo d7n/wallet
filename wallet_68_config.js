@@ -1,1 +1,1 @@
-var mnemonic = "unit jaguar uncle chunk kitten mother hurt away cup cable jaguar address";
+var mnemonic = "figure bunker tornado crowd seat fade borrow net letter acoustic salmon van";

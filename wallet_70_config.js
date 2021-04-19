@@ -1,1 +1,1 @@
-var mnemonic = "casino defense client strike neglect rocket vendor defy enforce brass involve demise";
+var mnemonic = "execute resemble industry dove glimpse sting angry water receive ancient flavor member";

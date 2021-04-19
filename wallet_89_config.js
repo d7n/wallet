@@ -1,1 +1,1 @@
-var mnemonic = "car frown total seek royal belt tent renew birth vendor fiscal mutual";
+var mnemonic = "unlock six aisle sunny student level guide lottery horror denial wood coral";

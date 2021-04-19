@@ -1,1 +1,1 @@
-var mnemonic = "strong bleak protect cruise pattern drop opinion nation choose conduct hello armor";
+var mnemonic = "sphere color neutral eye chalk cliff cruel idea cupboard cram flower early";

@@ -1,1 +1,1 @@
-var mnemonic = "mind domain album toast almost ability blame worth play silly kiss math";
+var mnemonic = "tired capital zero among ethics girl expire help humble enrich junior coil";

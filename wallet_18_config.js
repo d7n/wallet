@@ -1,1 +1,1 @@
-var mnemonic = "roast file wood call hawk catch menu entry breeze celery puzzle opera";
+var mnemonic = "brief gadget soccer street tonight foam entire carpet game audit group mercy";

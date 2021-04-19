@@ -1,1 +1,1 @@
-var mnemonic = "awkward drift decrease style early video lawn roof weasel van initial supreme";
+var mnemonic = "health silent predict drama name cradle wrist recall favorite lamp effort course";

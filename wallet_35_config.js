@@ -1,1 +1,1 @@
-var mnemonic = "carpet avocado conduct jump trumpet squirrel tennis hover typical mushroom curtain example";
+var mnemonic = "valley business valve attract farm idle water exclude leave amused edit rule";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson drum lift silk spend fury arena million crack extend beach alert";
+var mnemonic = "merry net extra measure pistol sample vanish rate frown corn mean erosion";

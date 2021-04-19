@@ -1,1 +1,1 @@
-var mnemonic = "sense sponsor reopen near tissue health exercise tank park jeans rent aspect";
+var mnemonic = "clerk render service object control office enjoy true aspect ensure obtain enjoy";

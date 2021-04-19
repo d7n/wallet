@@ -1,1 +1,1 @@
-var mnemonic = "side van above approve around winner wasp south degree antique tent portion";
+var mnemonic = "human spice rookie stock derive theory profit wrestle renew wrap ramp rival";

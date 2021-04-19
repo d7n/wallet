@@ -1,1 +1,1 @@
-var mnemonic = "benefit pledge robot when lobster planet round whisper finger forest crawl thrive";
+var mnemonic = "minimum acid edge side cram obscure credit write come hurdle valve click";

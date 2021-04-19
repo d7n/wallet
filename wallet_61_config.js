@@ -1,1 +1,1 @@
-var mnemonic = "easily number random fetch dinosaur misery lucky butter protect sausage gain achieve";
+var mnemonic = "find dilemma erase coast boost bamboo fatigue funny tomato pulp cactus rich";

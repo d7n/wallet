@@ -1,1 +1,1 @@
-var mnemonic = "lizard busy pen paper public captain seat woman scale drive magic acid";
+var mnemonic = "athlete noise that minimum bamboo flee direct collect amused kingdom all place";

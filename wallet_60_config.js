@@ -1,1 +1,1 @@
-var mnemonic = "coast mirror flat grain mechanic sword retreat glare pet clever kite consider";
+var mnemonic = "aerobic lesson bridge business will solid steak apology runway leader upset delay";

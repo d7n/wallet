@@ -1,1 +1,1 @@
-var mnemonic = "amused install nurse shop make okay notable remain celery private core pudding";
+var mnemonic = "portion cart wild kit yard congress divorce bag shoulder lazy page velvet";

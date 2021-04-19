@@ -1,1 +1,1 @@
-var mnemonic = "bird scorpion receive name okay stumble fault dust father cattle few reform";
+var mnemonic = "copper bicycle crane wheel supreme about surround panel expire provide rotate scan";

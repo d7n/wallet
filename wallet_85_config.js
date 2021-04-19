@@ -1,1 +1,1 @@
-var mnemonic = "tent upset illness soup dove diagram dance ill upgrade injury plastic visit";
+var mnemonic = "winter dentist law spatial total fruit safe punch jazz market skin sting";

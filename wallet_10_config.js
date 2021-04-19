@@ -1,1 +1,1 @@
-var mnemonic = "chaos left other swarm west fatigue grant army produce candy swarm replace";
+var mnemonic = "fiction next robot minor stock limb join drastic crazy torch opera nominee";

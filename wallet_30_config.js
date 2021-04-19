@@ -1,1 +1,1 @@
-var mnemonic = "key blouse rough regret raven shadow come summer eagle copper hedgehog depend";
+var mnemonic = "universe grief regret gather dice have educate energy boss crack year stand";

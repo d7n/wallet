@@ -1,1 +1,1 @@
-var mnemonic = "earn rack staff august issue balance submit lake want pottery country venture";
+var mnemonic = "random palace erosion rather naive bulb put mad caution wasp city ethics";

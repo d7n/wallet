@@ -1,1 +1,1 @@
-var mnemonic = "sad unknown exile shove gather dragon sand exotic laugh vote census bench";
+var mnemonic = "gasp inflict produce income gas coffee chef rural salt mother lunch current";

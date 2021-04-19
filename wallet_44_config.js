@@ -1,1 +1,1 @@
-var mnemonic = "coral cargo pony pull crazy veteran found coral make lawsuit echo scissors";
+var mnemonic = "motor attitude cram pave cry album spell mule usual rocket moral recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver business choice mom hour follow okay robust web skull simple mansion";
+var mnemonic = "fly catch ocean eternal blind another grief catch sword uncover code thank";

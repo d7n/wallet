@@ -1,1 +1,1 @@
-var mnemonic = "debris addict chaos slide wolf icon biology rocket home wear setup indoor";
+var mnemonic = "seek pear render artefact prosper exist impact journey copper shift detect ten";

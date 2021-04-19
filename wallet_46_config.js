@@ -1,1 +1,1 @@
-var mnemonic = "boost submit found fuel floor object student mystery lady neutral kidney fall";
+var mnemonic = "rocket polar badge width artist lawn win useful modify camp minor immune";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction sphere profit tilt shuffle scrap bubble enact make mirror gate rose";
+var mnemonic = "close logic addict rookie bullet heart error rug rocket priority olive length";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp solid absent offer wave club face direct distance radar paper either";
+var mnemonic = "snap enhance power credit play admit matrix feel scale awkward essence mushroom";

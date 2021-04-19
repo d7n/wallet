@@ -1,1 +1,1 @@
-var mnemonic = "trigger actual devote surround multiply stumble dignity dance ecology arch trophy snow";
+var mnemonic = "account tobacco science rifle annual marriage since refuse spoil taxi badge faculty";

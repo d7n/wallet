@@ -1,1 +1,1 @@
-var mnemonic = "paddle trophy moral bind save arrow repeat vocal sad minimum attack domain";
+var mnemonic = "deputy current one auction cricket vendor oblige sustain discover divide garment update";

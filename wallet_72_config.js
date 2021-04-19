@@ -1,1 +1,1 @@
-var mnemonic = "autumn boat size pair route labor jewel number throw blue gentle town";
+var mnemonic = "note key truck tool symbol denial now olympic exotic flag success seat";

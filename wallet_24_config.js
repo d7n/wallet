@@ -1,1 +1,1 @@
-var mnemonic = "tuition alley dutch observe rigid supply jacket issue armed poet brick pause";
+var mnemonic = "right aerobic auction keen man lemon bottom pelican damp size error clown";

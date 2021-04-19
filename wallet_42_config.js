@@ -1,1 +1,1 @@
-var mnemonic = "huge frame believe find speak then next weasel weekend supreme level fit";
+var mnemonic = "inmate taste utility bulk punch item april allow corn bottom input cloth";

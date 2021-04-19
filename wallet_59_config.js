@@ -1,1 +1,1 @@
-var mnemonic = "supreme drill improve wire scatter coach cigar attitude arctic tool gather pilot";
+var mnemonic = "cargo judge bring model book great only gadget exercise card dentist flat";

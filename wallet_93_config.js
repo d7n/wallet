@@ -1,1 +1,1 @@
-var mnemonic = "army matrix leader pull woman awake caught depart leopard problem move outdoor";
+var mnemonic = "recycle lens okay dirt tenant wrist grant cart bean child mercy sort";

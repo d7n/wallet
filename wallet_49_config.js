@@ -1,1 +1,1 @@
-var mnemonic = "cart gospel run category blossom zone spare cradle oyster tape prepare obtain";
+var mnemonic = "have speak social aerobic online amateur zone husband sell bless balance taxi";

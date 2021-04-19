@@ -1,1 +1,1 @@
-var mnemonic = "unlock enact tenant call acoustic kingdom resource afford similar boat capable angle";
+var mnemonic = "stand art omit call lumber ozone phrase pass chuckle over click rabbit";

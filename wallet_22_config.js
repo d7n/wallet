@@ -1,1 +1,1 @@
-var mnemonic = "ivory drum nasty interest kind verify myself olive fan love swear rice";
+var mnemonic = "meadow luxury point suit remind tortoise exclude below huge gown come ride";

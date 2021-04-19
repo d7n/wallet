@@ -1,1 +1,1 @@
-var mnemonic = "present way zoo globe light soul furnace attend rent cup sock diet";
+var mnemonic = "intact donkey labor green cage tree category oyster shrug nation argue order";

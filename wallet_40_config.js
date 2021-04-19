@@ -1,1 +1,1 @@
-var mnemonic = "music cradle inflict coast inquiry poet slot drill lecture topple leader tent";
+var mnemonic = "water purity inspire valley hello candy rose cereal armed potato build abandon";

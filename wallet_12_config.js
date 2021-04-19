@@ -1,1 +1,1 @@
-var mnemonic = "private sheriff miss mutual voice assist second rather appear bracket expose brand";
+var mnemonic = "topple coyote cousin position organ craft riot before category depart mention habit";

@@ -1,1 +1,1 @@
-var mnemonic = "miss bind brush tunnel become want off retire erode smoke curtain produce";
+var mnemonic = "siege dial arm card dawn treat loud enjoy hello silver group valve";

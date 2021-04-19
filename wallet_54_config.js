@@ -1,1 +1,1 @@
-var mnemonic = "boil drama reopen hammer educate shrug people depart polar void unusual work";
+var mnemonic = "dress crew fence frost reunion scout bus business repeat rocket sort extra";

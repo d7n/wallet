@@ -1,1 +1,1 @@
-var mnemonic = "pet cousin jazz ride pigeon office tribe toilet cool achieve rifle slush";
+var mnemonic = "left replace beach like assist adult nothing orbit dinner exhibit imitate miracle";

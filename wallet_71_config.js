@@ -1,1 +1,1 @@
-var mnemonic = "deliver meadow salad shiver tail dose feel shadow race hawk shiver tiger";
+var mnemonic = "lamp illegal upper iron snow crack spatial super immune piano stable urge";

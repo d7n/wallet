@@ -1,1 +1,1 @@
-var mnemonic = "game orbit token vapor awake door change can surge special rent credit";
+var mnemonic = "alpha piano vote angry debris good pipe pottery matrix deal mobile atom";

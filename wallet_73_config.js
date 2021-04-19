@@ -1,1 +1,1 @@
-var mnemonic = "motion capable master solve glow sustain firm welcome rent junior physical stage";
+var mnemonic = "net unusual talk library develop naive stand thank tennis notice era spy";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry banana travel tag symptom excess accident balance whisper pelican pink sheriff";
+var mnemonic = "magnet magnet animal orphan apple settle monster tackle number mimic fruit topple";

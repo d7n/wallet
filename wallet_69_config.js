@@ -1,1 +1,1 @@
-var mnemonic = "index tongue praise orphan van purse argue embrace earth bid off prevent";
+var mnemonic = "liberty kidney leaf double flip execute badge print hill bachelor recycle broccoli";

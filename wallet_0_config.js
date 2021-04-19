@@ -1,1 +1,1 @@
-var mnemonic = "glimpse glove hole survey liar acid glad music ill network ball swap";
+var mnemonic = "catch relax wisdom bench salad come pizza icon chat deliver emerge issue";

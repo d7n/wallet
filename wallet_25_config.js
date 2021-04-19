@@ -1,1 +1,1 @@
-var mnemonic = "explain sheriff home fit only lens river elevator fine beef donkey soon";
+var mnemonic = "clean assist economy armor allow soda trade try marriage list unaware craft";
