@@ -1,1 +1,1 @@
-var mnemonic = "frozen stereo sentence crouch wrist spend heavy wasp fit culture hello parent";
+var mnemonic = "east modify frown aunt salmon valve drum attend balcony innocent snack pelican";

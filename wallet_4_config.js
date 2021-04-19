@@ -1,1 +1,1 @@
-var mnemonic = "welcome scheme ivory oval over inside monkey country offer candy chuckle canyon";
+var mnemonic = "walk exotic suggest lend law smooth adapt now chase mind impulse ask";

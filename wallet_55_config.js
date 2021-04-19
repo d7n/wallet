@@ -1,1 +1,1 @@
-var mnemonic = "uncle typical hip frozen sick produce grow blame wool feature second vintage";
+var mnemonic = "legal holiday mother ramp better base wreck rent expand clown army angry";

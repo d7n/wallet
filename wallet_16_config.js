@@ -1,1 +1,1 @@
-var mnemonic = "absorb run gather word business boring obtain public churn ivory copy number";
+var mnemonic = "suit tortoise soccer busy ordinary owner drama usage clown sort shaft tiger";

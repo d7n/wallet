@@ -1,1 +1,1 @@
-var mnemonic = "theory barrel upper already youth shell task develop month shrug alert elder";
+var mnemonic = "agent daughter walk discover maze text bag abuse notable group defy miss";

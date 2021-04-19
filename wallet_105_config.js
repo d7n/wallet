@@ -1,1 +1,1 @@
-var mnemonic = "hair eight barrel derive glow enable equal cute swap slender allow galaxy";
+var mnemonic = "open obscure much add tissue tag antique tonight cotton reward problem enforce";

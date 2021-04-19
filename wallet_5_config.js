@@ -1,1 +1,1 @@
-var mnemonic = "joy shop arrange donate anger retire fire flash proud jewel equip student";
+var mnemonic = "apple gossip black excite almost library merge slim naive song lady victory";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal peanut slice summer neutral catalog relief poem juice unit muscle peasant";
+var mnemonic = "monster bunker patrol ugly clutch shift kit enroll forest chair unveil input";

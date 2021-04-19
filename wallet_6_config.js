@@ -1,1 +1,1 @@
-var mnemonic = "gate risk strategy auto coyote left liar detect alert tackle essay dynamic";
+var mnemonic = "sentence drift mimic sun birth lumber include mad wasp globe artwork evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "grass van bundle tornado glare copy matrix cricket fashion mix casual require";
+var mnemonic = "infant mix obscure this brass assist ice fox exhibit promote usage chuckle";

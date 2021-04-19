@@ -1,1 +1,1 @@
-var mnemonic = "coffee member coach project ranch dignity frozen reject salmon six chicken elevator";
+var mnemonic = "duty cotton dawn certain leg balance retreat harvest awkward robust hurdle rule";

@@ -1,1 +1,1 @@
-var mnemonic = "measure lab caught runway rotate draft flavor option once warm wasp diary";
+var mnemonic = "cousin census tongue runway cherry dolphin length goddess film seminar fiscal purpose";

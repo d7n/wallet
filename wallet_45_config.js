@@ -1,1 +1,1 @@
-var mnemonic = "detail romance pear deputy height dance buddy valley aim subway food elite";
+var mnemonic = "observe gun parrot fortune spell mom street muffin salad bar wire deal";

@@ -1,1 +1,1 @@
-var mnemonic = "alien link come old add aspect width describe draw explain success afraid";
+var mnemonic = "card behind upset lobster shuffle waste possible toe town lobster hunt together";

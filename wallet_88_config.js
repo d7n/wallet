@@ -1,1 +1,1 @@
-var mnemonic = "next jeans together rural mom idea scan item occur fine argue forget";
+var mnemonic = "concert deposit super kitchen pave curve expect sunset gossip tray fresh ill";

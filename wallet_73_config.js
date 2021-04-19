@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sibling echo what ozone pretty priority task quick fancy purpose help";
+var mnemonic = "already zoo crumble rose dawn shy security cupboard ring fish lemon noise";

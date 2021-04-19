@@ -1,1 +1,1 @@
-var mnemonic = "away adjust flight fiction brush stable purity blade begin clean perfect caught";
+var mnemonic = "boring whisper picture never level century trumpet valid panther help buddy cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "alone pole truth urban improve canyon garbage motor build rhythm resist word";
+var mnemonic = "plunge puzzle shine memory client day cattle attract february exit occur police";

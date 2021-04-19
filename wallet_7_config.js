@@ -1,1 +1,1 @@
-var mnemonic = "among knife reason pill until wet spider hamster embody cargo cheap slight";
+var mnemonic = "goddess flush obvious leader neither mobile document armed erosion duck sample cart";

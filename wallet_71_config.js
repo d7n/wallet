@@ -1,1 +1,1 @@
-var mnemonic = "rather subway what face energy you cage asthma board twelve alert half";
+var mnemonic = "slab pulse service broccoli eyebrow save congress vault arena copy tiny gift";

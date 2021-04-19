@@ -1,1 +1,1 @@
-var mnemonic = "concert hollow virtual weather cheese canyon capital scatter master weapon session gold";
+var mnemonic = "certain private suggest trouble useful pudding poet deposit opera pride average metal";

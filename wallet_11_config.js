@@ -1,1 +1,1 @@
-var mnemonic = "neck lounge base crawl nose retire inherit upgrade case inflict wrong swarm";
+var mnemonic = "fuel image exercise price kitten weekend dinner keen grow gospel test make";

@@ -1,1 +1,1 @@
-var mnemonic = "sister pretty teach prosper civil width frown cash pistol play brass act";
+var mnemonic = "best dial fashion sibling inner tired glad you ranch similar table hurry";

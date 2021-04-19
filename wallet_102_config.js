@@ -1,1 +1,1 @@
-var mnemonic = "asset boost artwork parade purse exact october angle true check pluck caution";
+var mnemonic = "divorce dove climb sound fee furnace monitor sponsor derive salad rival trap";

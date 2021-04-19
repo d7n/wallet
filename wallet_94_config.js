@@ -1,1 +1,1 @@
-var mnemonic = "point twice fringe riot predict okay custom toe process truck creek off";
+var mnemonic = "peanut whale over share napkin adult kingdom rug orchard fiction fee critic";

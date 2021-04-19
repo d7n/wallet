@@ -1,1 +1,1 @@
-var mnemonic = "base tree story rocket female lawn someone enrich camp tissue say penalty";
+var mnemonic = "merge cargo initial pizza split craft atom abandon still style glass embody";

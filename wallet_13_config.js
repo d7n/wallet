@@ -1,1 +1,1 @@
-var mnemonic = "axis final way quantum advice miss inmate nest seminar space loyal reveal";
+var mnemonic = "sight blame sheriff around forest bar zone artist feature human abstract main";

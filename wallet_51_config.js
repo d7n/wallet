@@ -1,1 +1,1 @@
-var mnemonic = "shoulder floor snake assist obtain split betray such cotton differ night license";
+var mnemonic = "nominee sign drift letter company wrist guess oblige useless avocado toward benefit";

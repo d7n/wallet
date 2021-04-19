@@ -1,1 +1,1 @@
-var mnemonic = "balance quit magnet globe embark sunny soup choice way capital hen subject";
+var mnemonic = "glory cotton photo stem soldier left biology material journey toss spot pink";

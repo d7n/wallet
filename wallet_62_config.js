@@ -1,1 +1,1 @@
-var mnemonic = "skirt obey supply antique music pact echo cloud next sell curious stem";
+var mnemonic = "invest resist poverty choice miracle indicate fiber insect young conduct cheap climb";

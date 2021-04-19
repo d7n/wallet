@@ -1,1 +1,1 @@
-var mnemonic = "hub pencil hurt else dumb trick forest float unknown surface spot tip";
+var mnemonic = "cloud soap camp evolve hawk tourist cannon debate wrong crater flip crisp";

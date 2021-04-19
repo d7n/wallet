@@ -1,1 +1,1 @@
-var mnemonic = "chronic double clean finish name athlete illegal shaft asset limit shove purity";
+var mnemonic = "elite game vote dawn erase grief detail success treat calm luggage fiction";

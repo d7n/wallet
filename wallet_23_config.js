@@ -1,1 +1,1 @@
-var mnemonic = "ranch ivory place repeat lamp bone setup jaguar achieve fantasy clerk grief";
+var mnemonic = "receive mushroom kingdom shoe absurd indoor marriage enact frost stock dinosaur opera";

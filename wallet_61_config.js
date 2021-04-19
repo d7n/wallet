@@ -1,1 +1,1 @@
-var mnemonic = "monitor anger consider topic wood cause title current reject endorse mango circle";
+var mnemonic = "depend remain avocado tray digital alarm cable average envelope rhythm erosion cement";

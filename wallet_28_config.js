@@ -1,1 +1,1 @@
-var mnemonic = "sand nature wash sleep knife buzz toast diet yard lecture language slab";
+var mnemonic = "across have armed gloom gloom crouch exclude brand mom ketchup romance nature";

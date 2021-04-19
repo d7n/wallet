@@ -1,1 +1,1 @@
-var mnemonic = "miss result tornado run panel fence clip direct arrest helmet disease material";
+var mnemonic = "mix split come peanut book sort radar defy home cannon economy approve";

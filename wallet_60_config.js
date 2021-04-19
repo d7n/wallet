@@ -1,1 +1,1 @@
-var mnemonic = "amateur retire debate security negative price ethics case cluster canoe december day";
+var mnemonic = "pill dose hedgehog spin gain water wrong lottery awful country claim accuse";

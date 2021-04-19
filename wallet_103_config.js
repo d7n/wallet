@@ -1,1 +1,1 @@
-var mnemonic = "rookie hip always strong moon fence achieve transfer main ball produce typical";
+var mnemonic = "whip shed bullet ability office merry floor large gate item love topple";

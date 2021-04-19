@@ -1,1 +1,1 @@
-var mnemonic = "marriage axis couple skull joy soup damage cancel hover sword off truth";
+var mnemonic = "blade quality portion jelly harbor agent area rent rice squirrel obey market";

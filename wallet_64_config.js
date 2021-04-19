@@ -1,1 +1,1 @@
-var mnemonic = "abuse tiny spoil claw enforce above monkey speak night crucial crawl yellow";
+var mnemonic = "oil absent art fiscal tag fiber feature recall initial dirt advance predict";

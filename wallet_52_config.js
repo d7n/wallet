@@ -1,1 +1,1 @@
-var mnemonic = "approve riot whip palm other lunch swing lift chuckle snow smile kiss";
+var mnemonic = "must hip eye burger stem beyond vanish exact slam ship they prefer";

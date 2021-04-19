@@ -1,1 +1,1 @@
-var mnemonic = "common symptom model promote ride present vintage area crawl team sugar property";
+var mnemonic = "fringe disorder envelope horse this approve multiply impose duty valley wreck element";

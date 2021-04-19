@@ -1,1 +1,1 @@
-var mnemonic = "panda occur pyramid unique question galaxy outdoor giant wing summer audit nose";
+var mnemonic = "puppy camera bottom reduce excess ecology radio normal swim thrive ice differ";

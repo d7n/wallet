@@ -1,1 +1,1 @@
-var mnemonic = "aisle staff feature recipe fossil cereal when item century sell sock dust";
+var mnemonic = "message syrup access lift job december skate shine planet quarter trick apart";

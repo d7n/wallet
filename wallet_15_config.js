@@ -1,1 +1,1 @@
-var mnemonic = "nest champion noise reward final shuffle another armed kangaroo spy dynamic kick";
+var mnemonic = "course hello notable toddler fire viable spoon arm put rifle extra ankle";

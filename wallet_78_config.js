@@ -1,1 +1,1 @@
-var mnemonic = "blur mom pill clock worth edge hero half seat recipe blind category";
+var mnemonic = "marble since alone accuse click brick pair drip slight disease exhaust sound";

@@ -1,1 +1,1 @@
-var mnemonic = "essay session south fix cricket skin dress zebra mountain donate guess practice";
+var mnemonic = "lobster wait nature stock number matrix teach enrich test bind tree milk";

@@ -1,1 +1,1 @@
-var mnemonic = "stool clean blast erode museum canyon like hub hire often country inquiry";
+var mnemonic = "tuna shift just carpet there raise tell hungry pig scatter enforce soldier";

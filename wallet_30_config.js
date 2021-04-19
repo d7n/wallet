@@ -1,1 +1,1 @@
-var mnemonic = "hurdle often dress gym focus remove clay crumble buffalo civil aunt whisper";
+var mnemonic = "still meat attract flame legal embark any surge equip crazy wing family";

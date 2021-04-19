@@ -1,1 +1,1 @@
-var mnemonic = "cave subject swarm lunar design fiction gravity captain invite walnut crater differ";
+var mnemonic = "much worry quality prosper frown call produce original blur toy spoil salon";

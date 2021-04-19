@@ -1,1 +1,1 @@
-var mnemonic = "leaf satisfy smart jungle evidence immune bid kidney indicate wild carry box";
+var mnemonic = "select climb large skin goose middle excite degree often assist siren young";

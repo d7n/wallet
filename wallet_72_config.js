@@ -1,1 +1,1 @@
-var mnemonic = "flip chef slam doctor kiwi jaguar bunker hint plunge strike frozen lounge";
+var mnemonic = "wash legend motion define magic beyond solar course chimney awesome tunnel panic";

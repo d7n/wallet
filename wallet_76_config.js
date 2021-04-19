@@ -1,1 +1,1 @@
-var mnemonic = "bamboo virus ghost chat calm ramp dove away amateur favorite garage always";
+var mnemonic = "gallery right acid ball borrow magic immune hammer ice avocado monkey forest";

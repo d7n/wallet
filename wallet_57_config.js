@@ -1,1 +1,1 @@
-var mnemonic = "hockey pioneer verify wealth enact essence daring neck they surface miracle size";
+var mnemonic = "cheap knock dolphin decorate chronic title judge art kingdom tourist whip lunar";

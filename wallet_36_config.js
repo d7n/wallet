@@ -1,1 +1,1 @@
-var mnemonic = "pitch carry accident sample attitude fiscal motor tunnel remove absorb cable media";
+var mnemonic = "tornado poet soul work divide pupil detail nation supply alone path autumn";

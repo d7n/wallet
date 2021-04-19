@@ -1,1 +1,1 @@
-var mnemonic = "laptop noise swallow indicate airport wine finish top east cause dynamic mixed";
+var mnemonic = "muffin artwork police never mobile ginger squirrel result panel upset indicate talk";

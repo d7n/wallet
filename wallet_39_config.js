@@ -1,1 +1,1 @@
-var mnemonic = "reopen fix melody inside market sail lock enjoy mansion horn large caught";
+var mnemonic = "rookie sell way bargain village night expect dial pattern model differ high";

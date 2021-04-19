@@ -1,1 +1,1 @@
-var mnemonic = "install grain net lonely master someone afraid priority ancient tongue theme dolphin";
+var mnemonic = "hard post engage spray grit phrase soft educate hazard diesel woman float";

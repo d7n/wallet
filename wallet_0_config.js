@@ -1,1 +1,1 @@
-var mnemonic = "absorb harsh crush treat catch weird medal please spirit fever deal found";
+var mnemonic = "exclude salmon laugh flower sustain resemble corn guitar soda oven green dry";

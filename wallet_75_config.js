@@ -1,1 +1,1 @@
-var mnemonic = "round right winter still miss rigid source enlist tribe address dust pole";
+var mnemonic = "time second firm police loud stuff venue volcano search trouble nation egg";

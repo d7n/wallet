@@ -1,1 +1,1 @@
-var mnemonic = "dish brass produce brief faith hospital early offer metal peanut harbor glare";
+var mnemonic = "near public enough picture vivid jungle notice slim cotton scare husband pill";

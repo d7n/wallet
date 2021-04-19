@@ -1,1 +1,1 @@
-var mnemonic = "aunt kitten undo basket satoshi embrace tobacco dolphin detail film impulse thing";
+var mnemonic = "just soup orange ancient table power hurt napkin cousin fix actress hospital";

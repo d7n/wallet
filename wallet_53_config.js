@@ -1,1 +1,1 @@
-var mnemonic = "few type depth weather cook biology churn casino nation shiver cover leg";
+var mnemonic = "wrap corn surround clay else essence patch skirt much exotic country ball";

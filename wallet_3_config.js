@@ -1,1 +1,1 @@
-var mnemonic = "cousin bomb plastic where spoil success kick scrub trend perfect keep dash";
+var mnemonic = "install begin plate burger length carbon swim ask analyst resource foil vague";

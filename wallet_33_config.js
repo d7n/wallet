@@ -1,1 +1,1 @@
-var mnemonic = "found piano biology deal surprise comfort elegant scene pig breeze state stick";
+var mnemonic = "prepare multiply fix inch army security thumb chair catalog vault game spatial";

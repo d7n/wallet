@@ -1,1 +1,1 @@
-var mnemonic = "tube system figure earn unfair fiction decide lunar use hood feature magnet";
+var mnemonic = "obvious fashion pave relax hybrid wool sunny agree possible fitness rubber jewel";

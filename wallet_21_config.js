@@ -1,1 +1,1 @@
-var mnemonic = "cream same common satisfy winter total poem fortune tube chaos family custom";
+var mnemonic = "verify kind learn snow orchard squeeze grass salad slight push reopen enroll";

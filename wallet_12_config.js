@@ -1,1 +1,1 @@
-var mnemonic = "capital surface bonus dog pass inherit echo fan canoe retire reunion club";
+var mnemonic = "cigar impulse surprise build such spin ring pitch zoo plate exile shuffle";

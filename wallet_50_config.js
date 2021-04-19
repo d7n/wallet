@@ -1,1 +1,1 @@
-var mnemonic = "render series hungry crater venue position report heavy number moon when soon";
+var mnemonic = "wheel repair impact pattern nut only tortoise mention soup canyon bonus goddess";

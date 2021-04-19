@@ -1,1 +1,1 @@
-var mnemonic = "whip juice evoke total screen priority card curtain purse thumb century suggest";
+var mnemonic = "razor discover match duty link spoon kid uphold okay tiger segment about";

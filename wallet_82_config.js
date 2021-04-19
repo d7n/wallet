@@ -1,1 +1,1 @@
-var mnemonic = "chest knee goose crop enlist planet shrug puzzle client patch toward library";
+var mnemonic = "tired poverty world health plate thank patch ill worry skin tank tobacco";

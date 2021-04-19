@@ -1,1 +1,1 @@
-var mnemonic = "marine force protect wonder person base wink hello adapt slogan shift adjust";
+var mnemonic = "hawk private rent tag write first nut human hunt garage quantum odor";

@@ -1,1 +1,1 @@
-var mnemonic = "girl alone wife must beyond glass produce junior grant rural mystery angle";
+var mnemonic = "coil inspire butter ridge liquid rate crowd initial siege puzzle long feed";

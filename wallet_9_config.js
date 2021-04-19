@@ -1,1 +1,1 @@
-var mnemonic = "echo that result couple sister symbol decade close pistol burden ask leave";
+var mnemonic = "degree adapt digital hazard angle screen avocado ostrich step opinion expire fame";

@@ -1,1 +1,1 @@
-var mnemonic = "six coyote thunder give connect mandate harvest student section until summer process";
+var mnemonic = "mystery prison valid swap suggest divert language marriage fence turkey dinner modify";

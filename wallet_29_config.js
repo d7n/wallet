@@ -1,1 +1,1 @@
-var mnemonic = "series bleak desk topic clap combine attract lesson crumble advance coast clerk";
+var mnemonic = "infant pulse always mansion lesson snake intact gun exhibit crew slender arch";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace reopen nurse load travel increase gaze trouble senior strike fat anger";
+var mnemonic = "fine clever dad art demand image anger hawk length reason tomorrow cinnamon";

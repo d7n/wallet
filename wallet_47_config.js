@@ -1,1 +1,1 @@
-var mnemonic = "moral captain unknown evil loop crack foil cluster know minor voice magic";
+var mnemonic = "sample february fashion blur glad blind tackle twist select drink universe carpet";

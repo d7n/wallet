@@ -1,1 +1,1 @@
-var mnemonic = "vacant rally gospel exist tooth click clutch various knife couple trade betray";
+var mnemonic = "planet monitor visual spend zero nominee dash segment version detect when payment";

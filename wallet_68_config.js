@@ -1,1 +1,1 @@
-var mnemonic = "napkin tuition half churn foil obvious remember frog squeeze sustain sign airport";
+var mnemonic = "area shed cinnamon clap later shift myself skirt choose stamp junior agree";

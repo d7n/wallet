@@ -1,1 +1,1 @@
-var mnemonic = "vault mimic sock patrol museum round resource thing daring stadium valley sweet";
+var mnemonic = "account bone vital frame require cargo blouse orphan icon modify remember side";

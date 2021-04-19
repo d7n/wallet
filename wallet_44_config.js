@@ -1,1 +1,1 @@
-var mnemonic = "mail donor key useful legend access faint pumpkin exhibit wrestle insane shoulder";
+var mnemonic = "fatigue team matter lift benefit cable time trend country reflect acoustic day";

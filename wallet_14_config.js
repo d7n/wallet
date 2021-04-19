@@ -1,1 +1,1 @@
-var mnemonic = "car focus prevent wide carbon tail prefer obey crazy dawn exact wrestle";
+var mnemonic = "upper soup shadow lounge deer energy adjust industry trust flash layer inspire";

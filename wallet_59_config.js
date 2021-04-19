@@ -1,1 +1,1 @@
-var mnemonic = "frozen age tool appear utility long frown slight hen tail anger resemble";
+var mnemonic = "access ridge amused circle orange mansion version obscure super volume announce lyrics";

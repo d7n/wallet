@@ -1,1 +1,1 @@
-var mnemonic = "power path monitor lava advance twice tank enable comfort unknown soft raise";
+var mnemonic = "matrix climb say romance cabin move sweet roof merry track chest faint";

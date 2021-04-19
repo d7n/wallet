@@ -1,1 +1,1 @@
-var mnemonic = "pony occur scatter alone grunt mail simple rail shock arctic powder length";
+var mnemonic = "juice mimic stick total beyond improve mirror fiber emerge visit frozen flower";

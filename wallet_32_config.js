@@ -1,1 +1,1 @@
-var mnemonic = "fog patch market aunt neck wire curtain purchase toss elephant pass nice";
+var mnemonic = "jewel burger parrot correct average process census armed plate dolphin humor route";

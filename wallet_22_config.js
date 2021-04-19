@@ -1,1 +1,1 @@
-var mnemonic = "trick lawsuit moral dumb arctic enough text wedding bleak square share skull";
+var mnemonic = "boring ozone man punch jacket apple idea equip below waste bind glide";

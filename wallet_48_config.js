@@ -1,1 +1,1 @@
-var mnemonic = "talk place gather zone drama start coach build nose beach fuel absurd";
+var mnemonic = "horror reform fit follow turtle naive bracket upset obey donor object worry";

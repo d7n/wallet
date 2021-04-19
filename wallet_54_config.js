@@ -1,1 +1,1 @@
-var mnemonic = "cluster discover pet occur own approve luggage convince round stone gallery butter";
+var mnemonic = "blast theme damp ketchup book mind virus west clerk know yard wheel";
