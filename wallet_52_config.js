@@ -1,1 +1,1 @@
-var mnemonic = "pyramid adapt become prison panther scorpion sting long squirrel injury tortoise seek";
+var mnemonic = "vehicle lecture speed bounce since couch panel west stairs random tissue couple";

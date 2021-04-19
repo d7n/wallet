@@ -1,1 +1,1 @@
-var mnemonic = "intact cannon blur anger huge spawn fortune such fall edge gap wise";
+var mnemonic = "fancy pottery move bacon slush ribbon speed other cruel silver crouch dismiss";

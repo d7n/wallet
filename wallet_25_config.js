@@ -1,1 +1,1 @@
-var mnemonic = "affair woman lottery castle man citizen merge nice used insane primary promote";
+var mnemonic = "near obscure sugar must fork machine brush magnet evolve tumble next predict";

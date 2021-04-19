@@ -1,1 +1,1 @@
-var mnemonic = "switch hold dish design curve guess near dove merit mimic social congress";
+var mnemonic = "duck scene little evidence clarify limit bleak grass bronze found vault brown";

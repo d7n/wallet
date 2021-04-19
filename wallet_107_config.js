@@ -1,1 +1,1 @@
-var mnemonic = "trust list rent friend disease bar transfer run unit hobby loop screen";
+var mnemonic = "poet tobacco ski initial half punch anger shell you spring fat faint";

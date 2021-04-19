@@ -1,1 +1,1 @@
-var mnemonic = "reduce alone bike fish girl when deputy club mouse work either marriage";
+var mnemonic = "sorry vote together roast measure six shaft square paddle chapter insane connect";

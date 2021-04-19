@@ -1,1 +1,1 @@
-var mnemonic = "calm awake rigid enforce boss april chaos pluck route trip marine fog";
+var mnemonic = "bulb soon history olympic nominee visual early apart sign hybrid bulk atom";

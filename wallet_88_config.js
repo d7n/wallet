@@ -1,1 +1,1 @@
-var mnemonic = "hire drop armor act burden fury soul purse ask soft bronze say";
+var mnemonic = "injury chicken cube cliff fashion online ghost green left maple kidney doll";

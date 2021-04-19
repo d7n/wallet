@@ -1,1 +1,1 @@
-var mnemonic = "client kitchen siege domain abstract arctic enforce speed smart text hello tell";
+var mnemonic = "aim ignore marble shine choice explain poet account meadow federal biology amount";

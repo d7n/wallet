@@ -1,1 +1,1 @@
-var mnemonic = "access sniff asthma nominee method drama hurry rabbit goose shield scout long";
+var mnemonic = "february plunge own hard consider ritual naive core recipe decorate mirror pizza";

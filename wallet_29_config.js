@@ -1,1 +1,1 @@
-var mnemonic = "east detect polar genuine thought mixed build print fitness accident gain donor";
+var mnemonic = "project blouse reason clarify tell company catalog coach want exercise unable bleak";

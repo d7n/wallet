@@ -1,1 +1,1 @@
-var mnemonic = "evil jeans occur image seven length shoulder margin cream coffee reunion island";
+var mnemonic = "club light mechanic walnut young gloom asset picnic spread benefit mule define";

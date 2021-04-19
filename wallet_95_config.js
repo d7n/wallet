@@ -1,1 +1,1 @@
-var mnemonic = "oppose lizard silk hobby joy cause powder summer prize chair blanket eternal";
+var mnemonic = "enough arch twist resemble grief sentence autumn become early mail submit choice";

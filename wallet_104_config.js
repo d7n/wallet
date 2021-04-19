@@ -1,1 +1,1 @@
-var mnemonic = "install liar venue again element build close section flee clinic immense pass";
+var mnemonic = "curious science match consider enhance blind curtain latin ugly unusual borrow mushroom";

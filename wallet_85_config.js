@@ -1,1 +1,1 @@
-var mnemonic = "satisfy material luggage one divide vault captain donor tomorrow ice where extra";
+var mnemonic = "sauce orchard capable grass shallow scorpion reflect someone trash green million creek";

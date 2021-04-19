@@ -1,1 +1,1 @@
-var mnemonic = "crew salon boil lunch reject top vague pepper tackle adjust pave speed";
+var mnemonic = "brief draw swear return carry naive conduct beef wonder spoon better wagon";

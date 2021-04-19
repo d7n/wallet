@@ -1,1 +1,1 @@
-var mnemonic = "click never thumb family update slide affair repair predict type ask exit";
+var mnemonic = "test valid account rhythm today cabin rigid nest great awful infant chuckle";

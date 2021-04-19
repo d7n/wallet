@@ -1,1 +1,1 @@
-var mnemonic = "solve suggest attitude injury work kiwi inhale large trend yard effort history";
+var mnemonic = "toilet lunar credit field question daring bleak produce erase wrap erase rather";

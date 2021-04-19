@@ -1,1 +1,1 @@
-var mnemonic = "panic chuckle talent blind regret violin volume sleep arrange odor behave broom";
+var mnemonic = "potato cruise social fortune soul swamp visit opinion minute chef kangaroo town";

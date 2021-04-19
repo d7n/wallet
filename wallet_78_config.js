@@ -1,1 +1,1 @@
-var mnemonic = "before tenant still denial enable journey labor region garbage lion advice legal";
+var mnemonic = "oppose seed woman toast tiger orphan rail rocket pioneer peanut pool execute";

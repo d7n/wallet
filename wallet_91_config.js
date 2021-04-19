@@ -1,1 +1,1 @@
-var mnemonic = "nature casual club pioneer print noble solid rich water rough bubble load";
+var mnemonic = "vapor kitchen clutch virtual state visa chuckle dirt fitness angle gallery select";

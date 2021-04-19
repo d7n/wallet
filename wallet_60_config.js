@@ -1,1 +1,1 @@
-var mnemonic = "alpha rubber dignity bid invest tip replace pride keen cricket onion beach";
+var mnemonic = "entry return chimney warfare shine special recipe tornado cry warm witness infant";

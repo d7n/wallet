@@ -1,1 +1,1 @@
-var mnemonic = "guilt ceiling ill private lyrics when candy run retire this title cool";
+var mnemonic = "deal shuffle tree husband setup left angry zone pulse aware charge private";

@@ -1,1 +1,1 @@
-var mnemonic = "filter solid common shiver gold depart dove ice ugly bone sauce cry";
+var mnemonic = "cannon museum outer city true van bean jaguar december group swift spare";

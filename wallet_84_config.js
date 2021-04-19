@@ -1,1 +1,1 @@
-var mnemonic = "wide text extend lift surface album raven shield eight bean glove rely";
+var mnemonic = "middle half knock combine sight loop own phrase whisper ramp fiction soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard catch away possible morning effort iron opera quick unaware zero winter";
+var mnemonic = "chase brain defense news behave bottom strong reward hotel two end recall";

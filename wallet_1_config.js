@@ -1,1 +1,1 @@
-var mnemonic = "slim spawn win tool winter piano shoulder six outer arch jungle auto";
+var mnemonic = "credit buddy wreck season display design message cupboard ecology busy fine south";

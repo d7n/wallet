@@ -1,1 +1,1 @@
-var mnemonic = "wheel canvas crucial portion genius discover verb sausage zoo siren need people";
+var mnemonic = "flock belt occur dumb kiss buzz unhappy inhale avoid flag harvest benefit";

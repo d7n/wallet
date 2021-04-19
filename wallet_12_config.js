@@ -1,1 +1,1 @@
-var mnemonic = "duty useless laundry actual exhaust wife busy empty recycle fit devote police";
+var mnemonic = "submit tower weekend tenant brother april find virus rare analyst process lecture";

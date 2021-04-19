@@ -1,1 +1,1 @@
-var mnemonic = "clog code dice gentle cover embody cheap voyage bike solar curve veteran";
+var mnemonic = "century face duck sock jewel action hip noise cruel female course label";

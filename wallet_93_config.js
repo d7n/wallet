@@ -1,1 +1,1 @@
-var mnemonic = "will horror sea pact recycle knock also game casual tool deliver circle";
+var mnemonic = "address sample draft frame crack enroll ice mountain dog disorder hen rail";

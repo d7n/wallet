@@ -1,1 +1,1 @@
-var mnemonic = "educate gauge chest hold plate auction seat absurd dragon elevator struggle clay";
+var mnemonic = "crop useful yellow female grief have chaos name kite ability then vibrant";

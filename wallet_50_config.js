@@ -1,1 +1,1 @@
-var mnemonic = "duck frame soccer mule intact chunk giant disagree soldier toward poem skate";
+var mnemonic = "tattoo produce happy surprise speed turn plastic farm gym autumn pencil obtain";

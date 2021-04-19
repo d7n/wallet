@@ -1,1 +1,1 @@
-var mnemonic = "together click fish romance birth soda seminar link deputy awesome legal welcome";
+var mnemonic = "pattern spike panic source fall filter fringe thing vacant laundry quiz purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "help render excite during praise test asthma once language injury behind key";
+var mnemonic = "talk rabbit scrap elite fork scrub response sphere first visa feed attend";

@@ -1,1 +1,1 @@
-var mnemonic = "picture scare canyon first rescue win sight subway candy powder pear unveil";
+var mnemonic = "view fee now strategy check clay holiday draft soon renew submit party";

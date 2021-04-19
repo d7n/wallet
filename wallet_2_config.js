@@ -1,1 +1,1 @@
-var mnemonic = "sponsor abandon add bubble spread develop inflict nerve version cook orchard addict";
+var mnemonic = "giraffe picture trick armor street oven ticket expire voice camera coral cool";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond guess toddler happy argue setup scrap patch main chicken universe bless";
+var mnemonic = "transfer rocket talent length enrich quality bronze raven endorse urban once infant";

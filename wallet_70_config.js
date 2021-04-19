@@ -1,1 +1,1 @@
-var mnemonic = "mix taxi violin jar margin torch that powder seat cruel dentist street";
+var mnemonic = "elder tennis whip oxygen skate carry exile educate ahead gravity patient people";

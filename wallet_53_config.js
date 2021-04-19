@@ -1,1 +1,1 @@
-var mnemonic = "tribe letter render remain crawl meat wolf away dose wealth recall crazy";
+var mnemonic = "mobile inspire keep gospel vicious harvest despair cruise move opinion seed spoon";

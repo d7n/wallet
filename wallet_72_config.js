@@ -1,1 +1,1 @@
-var mnemonic = "robust day steak donate vocal kick member grid taxi melody oven fringe";
+var mnemonic = "have health three trumpet churn field slush rifle leopard furnace mom return";

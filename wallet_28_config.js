@@ -1,1 +1,1 @@
-var mnemonic = "model sorry wood about pair torch feed call laugh title truth attack";
+var mnemonic = "harbor fresh ginger thunder drill skate private fatal chief life dumb course";

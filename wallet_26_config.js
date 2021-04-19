@@ -1,1 +1,1 @@
-var mnemonic = "endorse armed join away fame dismiss way caught tenant divide retreat garbage";
+var mnemonic = "true sibling keen mouse extra universe one educate anger evolve fury kitchen";

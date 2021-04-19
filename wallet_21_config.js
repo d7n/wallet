@@ -1,1 +1,1 @@
-var mnemonic = "movie also nut weird gloom system capital sentence suit way avoid aunt";
+var mnemonic = "source connect deal hat duck own keep pass stock air six farm";

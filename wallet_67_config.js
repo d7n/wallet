@@ -1,1 +1,1 @@
-var mnemonic = "cereal hen chair trend ritual afford scorpion rookie pistol honey repeat board";
+var mnemonic = "tape media edit polar radio summer burger ride student wreck resist genius";

@@ -1,1 +1,1 @@
-var mnemonic = "stable use exist say cost update fog slow renew fruit stumble screen";
+var mnemonic = "satisfy among pencil usage liquid flush ask museum real wire frost merge";

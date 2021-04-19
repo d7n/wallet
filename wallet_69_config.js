@@ -1,1 +1,1 @@
-var mnemonic = "taste army shift auction chimney salt avoid damp frame rice canal soul";
+var mnemonic = "unfair trim frog hedgehog inspire depend master pencil evolve purse add rack";

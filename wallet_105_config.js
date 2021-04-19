@@ -1,1 +1,1 @@
-var mnemonic = "snap east keep allow symbol harvest metal seminar matter august reject vapor";
+var mnemonic = "include link act certain reveal finger tower own wire lonely square pyramid";

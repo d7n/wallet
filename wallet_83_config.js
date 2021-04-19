@@ -1,1 +1,1 @@
-var mnemonic = "civil recycle gauge keep body artwork stairs street table neglect screen notable";
+var mnemonic = "waste parade turn diary consider coconut scout metal endless steel sort box";

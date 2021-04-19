@@ -1,1 +1,1 @@
-var mnemonic = "angle fresh hip average depend impose toilet deal page access trouble viable";
+var mnemonic = "knock prize warm know note slight high volcano weather life menu aisle";

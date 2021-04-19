@@ -1,1 +1,1 @@
-var mnemonic = "fun myself silly trash clog insect culture estate all vacant inflict kite";
+var mnemonic = "stay exhibit jaguar file slot parent autumn float social clog uncle fade";

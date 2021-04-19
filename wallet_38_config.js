@@ -1,1 +1,1 @@
-var mnemonic = "brass replace drastic air crisp split old art spatial fog solar fun";
+var mnemonic = "clerk wine like what track media rich clarify install banner glide face";

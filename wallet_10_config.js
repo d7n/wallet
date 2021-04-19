@@ -1,1 +1,1 @@
-var mnemonic = "dolphin maid point lemon doll push final design lecture ribbon give stadium";
+var mnemonic = "during sauce charge source panel ranch arrow repair guitar trouble pair swallow";

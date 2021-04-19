@@ -1,1 +1,1 @@
-var mnemonic = "scan favorite lyrics pulp kangaroo arch dutch already apology decorate neck tobacco";
+var mnemonic = "mouse vital letter half sell rate pencil expect hurdle prize cube consider";

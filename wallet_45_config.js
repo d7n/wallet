@@ -1,1 +1,1 @@
-var mnemonic = "spy install today vacant hello outside saddle suffer distance typical child target";
+var mnemonic = "angry blood step mammal thought despair junk cook wood argue steak security";

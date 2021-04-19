@@ -1,1 +1,1 @@
-var mnemonic = "canal skate cinnamon drill useful castle grocery fragile firm embark dust camp";
+var mnemonic = "toddler inmate issue excuse jar seminar awesome hat siren relief time awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "coil finish consider analyst struggle approve auction lunar siren anchor uphold gauge";
+var mnemonic = "uphold will program exercise language renew off rough inflict paper wink apart";

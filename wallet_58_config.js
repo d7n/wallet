@@ -1,1 +1,1 @@
-var mnemonic = "corn sketch game share lunch broken grace harvest yellow brush during broccoli";
+var mnemonic = "mirror myself flight tip erase other wealth step invite clown sure inquiry";

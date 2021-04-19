@@ -1,1 +1,1 @@
-var mnemonic = "monkey heart excuse proof cash chief divide ready obtain loyal mirror borrow";
+var mnemonic = "hood easy timber mystery dance decrease girl oval faculty give cry fabric";

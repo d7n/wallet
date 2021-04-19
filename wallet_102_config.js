@@ -1,1 +1,1 @@
-var mnemonic = "bean crawl long inject leopard frost void fragile letter narrow survey twist";
+var mnemonic = "cushion inherit mixed cloth now surge base destroy ice wreck tackle merit";

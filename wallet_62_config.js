@@ -1,1 +1,1 @@
-var mnemonic = "mixture edge depend marble knee gap juice earth carpet scissors fame truck";
+var mnemonic = "material ancient voyage antenna village patient tuna remember eagle nephew pen option";

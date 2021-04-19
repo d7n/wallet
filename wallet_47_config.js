@@ -1,1 +1,1 @@
-var mnemonic = "gain blind genius wheat version install absurd track verb alert gossip shield";
+var mnemonic = "fall token seven hole fitness raven ship ocean buzz great setup swear";

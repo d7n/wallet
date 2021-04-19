@@ -1,1 +1,1 @@
-var mnemonic = "disagree way filter doctor hope cousin pipe top tribe boil aisle collect";
+var mnemonic = "device this number early camp pact resource sheriff fitness rack boost toilet";

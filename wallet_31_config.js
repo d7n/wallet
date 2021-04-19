@@ -1,1 +1,1 @@
-var mnemonic = "milk much glimpse name main elbow end provide acquire edge snap canyon";
+var mnemonic = "hybrid wage coin liberty rent fringe afford derive nurse task farm gorilla";

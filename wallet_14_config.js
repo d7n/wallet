@@ -1,1 +1,1 @@
-var mnemonic = "bunker brass ripple employ media inquiry gasp skirt glow renew electric tree";
+var mnemonic = "walnut alert receive pilot menu dance void garden use crash win element";

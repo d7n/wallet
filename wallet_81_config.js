@@ -1,1 +1,1 @@
-var mnemonic = "manage reflect scare pumpkin trophy immense glue topic dust merit borrow trip";
+var mnemonic = "athlete below iron mask soda prison farm analyst imitate secret prevent access";

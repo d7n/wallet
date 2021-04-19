@@ -1,1 +1,1 @@
-var mnemonic = "repair weasel power eternal economy solution enable offer beef maple sell crash";
+var mnemonic = "title nerve whip afraid people neglect bone cause observe useless afraid worry";

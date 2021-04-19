@@ -1,1 +1,1 @@
-var mnemonic = "lazy adult pair safe future enrich outdoor mixture spot example hidden begin";
+var mnemonic = "joy open pluck crumble glue copper spell please math resemble torch whisper";

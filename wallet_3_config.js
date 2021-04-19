@@ -1,1 +1,1 @@
-var mnemonic = "loyal rigid push recall west canvas unable scan fitness churn fury day";
+var mnemonic = "choice casual call claw outer wet phone tank hover add sun rain";

@@ -1,1 +1,1 @@
-var mnemonic = "question jealous heavy load brick love mimic tobacco shed fire rival embark";
+var mnemonic = "body isolate grow doctor pear bargain ginger toe remain rebuild pencil game";

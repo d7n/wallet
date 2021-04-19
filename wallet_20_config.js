@@ -1,1 +1,1 @@
-var mnemonic = "supply warfare blood relief rigid major inherit hold business dinosaur volume mother";
+var mnemonic = "shell marble sunset budget tornado argue market nerve coast awesome super dizzy";

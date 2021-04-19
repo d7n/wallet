@@ -1,1 +1,1 @@
-var mnemonic = "left alley joy much cradle match erupt index below federal dad squeeze";
+var mnemonic = "suspect artwork vapor issue promote gym iron toddler nerve cannon file follow";

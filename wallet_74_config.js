@@ -1,1 +1,1 @@
-var mnemonic = "alpha negative logic sweet crumble news usual cushion year ramp creek middle";
+var mnemonic = "word region erode fresh thrive pause iron tomorrow minute situate certain velvet";

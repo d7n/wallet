@@ -1,1 +1,1 @@
-var mnemonic = "input finger tunnel stick maze faculty bring display popular feel glass roast";
+var mnemonic = "bargain crystal melody hollow vicious genre artefact online eyebrow flock inside file";

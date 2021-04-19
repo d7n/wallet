@@ -1,1 +1,1 @@
-var mnemonic = "sort pluck evidence educate addict excess grant wage hero learn eagle spring";
+var mnemonic = "eagle taste soldier celery glide change inmate casual quarter hobby oppose loop";

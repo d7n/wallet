@@ -1,1 +1,1 @@
-var mnemonic = "picnic pelican village clinic end fabric near smile tube cabbage human scout";
+var mnemonic = "ahead mixture visit element abstract chief faculty lucky will artwork all thing";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber tired emerge border cheese giraffe salon dirt frown spell enroll remember";
+var mnemonic = "thunder tiger labor panda wage peace benefit short fruit fix slush caught";

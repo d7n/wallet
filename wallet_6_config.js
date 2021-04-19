@@ -1,1 +1,1 @@
-var mnemonic = "beach today strategy seat garlic oil vacant often task curve decide exchange";
+var mnemonic = "round donate card adjust quiz alter earn flight advance farm liberty neck";

@@ -1,1 +1,1 @@
-var mnemonic = "kite undo tag box blouse dream add can dune boy hole exhibit";
+var mnemonic = "pilot language rent spy cost phrase reflect fashion immense year disorder equal";

@@ -1,1 +1,1 @@
-var mnemonic = "else use wink eternal alcohol wheel quantum horse mosquito cage effort impulse";
+var mnemonic = "scrap milk until hard mean coral omit trigger crystal type long note";

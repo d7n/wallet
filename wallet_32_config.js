@@ -1,1 +1,1 @@
-var mnemonic = "predict short head sting quick actress reward normal prefer earth worry tuna";
+var mnemonic = "royal future such swarm spatial december crisp car visit milk love hip";

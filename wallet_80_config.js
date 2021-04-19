@@ -1,1 +1,1 @@
-var mnemonic = "payment color pact mom north bulk casino rabbit cat pottery parent write";
+var mnemonic = "blush fancy arrange sausage blush border unfair remove laugh radio mystery wink";

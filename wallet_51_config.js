@@ -1,1 +1,1 @@
-var mnemonic = "excuse liberty chase bundle mystery maze embrace brass exist now stereo planet";
+var mnemonic = "exotic never pave nuclear rebel public aim skin pumpkin wheat family found";

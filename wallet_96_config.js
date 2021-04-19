@@ -1,1 +1,1 @@
-var mnemonic = "bulb grain throw leaf need result task child today reward remember below";
+var mnemonic = "profit decade anxiety deposit brief tomorrow wait sight reform verb day consider";

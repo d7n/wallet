@@ -1,1 +1,1 @@
-var mnemonic = "prevent scan globe you trash client feed crouch box reform donate deer";
+var mnemonic = "health worth voyage wrist soft novel amused exotic install divert girl rhythm";

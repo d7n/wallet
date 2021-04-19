@@ -1,1 +1,1 @@
-var mnemonic = "tired grace bracket wool screen glue series mouse oxygen future man whip";
+var mnemonic = "simple twin merry funny this dirt vicious swap shrug sand pizza luxury";

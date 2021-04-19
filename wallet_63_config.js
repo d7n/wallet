@@ -1,1 +1,1 @@
-var mnemonic = "salt bike give crystal prevent flight tone deer garlic galaxy surround submit";
+var mnemonic = "team alter cradle october rose nephew tongue document peasant member verify castle";

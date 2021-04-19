@@ -1,1 +1,1 @@
-var mnemonic = "defense round december faculty noble wasp lady column denial address acquire tube";
+var mnemonic = "seat doctor luggage immune daring bottom manage frequent aisle hunt vehicle phrase";

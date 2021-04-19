@@ -1,1 +1,1 @@
-var mnemonic = "cream pen supreme middle legend weasel diamond rent truly leisure orange impulse";
+var mnemonic = "unhappy lizard shadow bind link kite erosion game step response drip race";
