@@ -1,1 +1,1 @@
-var mnemonic = "latin doctor wrist excite bulk used unfold document funny cube barrel noble";
+var mnemonic = "box charge melody reduce attack creek green better sausage enrich rule behave";

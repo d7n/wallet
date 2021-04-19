@@ -1,1 +1,1 @@
-var mnemonic = "mystery rural teach myself twenty frost cave latin hard furnace tool what";
+var mnemonic = "promote lesson zero abuse case now hockey impose rigid object weather trim";

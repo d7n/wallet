@@ -1,1 +1,1 @@
-var mnemonic = "industry figure hire power change arrow cactus road talent lazy birth view";
+var mnemonic = "harvest country twist correct raven scale wealth garage loud ride fault license";

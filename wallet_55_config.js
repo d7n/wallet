@@ -1,1 +1,1 @@
-var mnemonic = "clog sugar pizza afraid escape traffic pledge retire moral close thumb guess";
+var mnemonic = "pride drastic grid tackle say provide connect prosper else trigger giraffe sting";

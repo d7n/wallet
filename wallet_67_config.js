@@ -1,1 +1,1 @@
-var mnemonic = "fit endorse accuse they race vault ill plastic globe media build sweet";
+var mnemonic = "track eye survey marble age husband win faith old slight ridge dinner";

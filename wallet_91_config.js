@@ -1,1 +1,1 @@
-var mnemonic = "call leisure soccer ball scrub audit much guitar camera acquire pelican balcony";
+var mnemonic = "cruise admit ship reject crowd arrange reflect area width blade essay client";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel fat strike lonely split ranch soup coin wing grape eight change";
+var mnemonic = "imitate fiber width ginger response bar barrel tennis breeze scout swift response";

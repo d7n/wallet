@@ -1,1 +1,1 @@
-var mnemonic = "business churn cruel reflect jaguar cover crawl price music search foot skin";
+var mnemonic = "jazz remember genuine aisle benefit whisper cute original unknown treat head claw";

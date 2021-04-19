@@ -1,1 +1,1 @@
-var mnemonic = "tank finish interest hawk jump neutral trend mutual addict behave crash basic";
+var mnemonic = "tilt chaos file trip raven region make burst disorder fossil grace sudden";

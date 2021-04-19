@@ -1,1 +1,1 @@
-var mnemonic = "nurse wise maid fashion always frozen kiss cave program win party know";
+var mnemonic = "bonus promote donor hidden opera define goat arrest coconut point reveal rebuild";

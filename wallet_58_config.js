@@ -1,1 +1,1 @@
-var mnemonic = "salute remember seek able manage sell sunny stomach round divert vast cake";
+var mnemonic = "symbol spatial joke segment shoot order nature beef hawk recipe photo arrow";

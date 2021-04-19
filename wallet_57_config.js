@@ -1,1 +1,1 @@
-var mnemonic = "cattle network furnace rifle fork zebra bring finger hand blouse knife phone";
+var mnemonic = "mixture sight wheat mechanic soon ranch round sketch later jacket panda vintage";

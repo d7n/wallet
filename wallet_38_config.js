@@ -1,1 +1,1 @@
-var mnemonic = "dad true fiber code fruit cash diary local amazing jelly bamboo ice";
+var mnemonic = "student indoor jelly leaf meadow legal car ivory result rival metal frame";

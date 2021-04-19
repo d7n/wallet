@@ -1,1 +1,1 @@
-var mnemonic = "hood pottery bleak loyal raccoon emerge tennis extend bubble rude trigger suffer";
+var mnemonic = "august cake shuffle shock civil century scatter cushion wear federal edit monitor";

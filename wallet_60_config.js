@@ -1,1 +1,1 @@
-var mnemonic = "brother aspect roast apart bomb hamster tomato flag aunt steak forward balance";
+var mnemonic = "shoot sustain melt link soup weird glad then menu negative powder donate";

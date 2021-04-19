@@ -1,1 +1,1 @@
-var mnemonic = "spy asthma uncover glide smart float dignity bullet afraid crisp wine dish";
+var mnemonic = "shoulder crucial clutch ahead relief shy aspect volume arrive auction local myth";

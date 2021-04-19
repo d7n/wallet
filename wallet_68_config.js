@@ -1,1 +1,1 @@
-var mnemonic = "snake pave identify shield detail room need jar embody echo club ridge";
+var mnemonic = "dish age field shine light cook evidence fix baby good hair frown";

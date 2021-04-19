@@ -1,1 +1,1 @@
-var mnemonic = "manage argue naive year knee require lounge gun ring devote inmate nominee";
+var mnemonic = "collect cage control all yellow also junior detect ignore joke manual crisp";

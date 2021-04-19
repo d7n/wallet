@@ -1,1 +1,1 @@
-var mnemonic = "dance tooth maximum distance security december muscle joke other slot great caution";
+var mnemonic = "dinner word peanut cool fashion city spare usual suffer prepare daughter immune";

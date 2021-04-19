@@ -1,1 +1,1 @@
-var mnemonic = "ordinary mango eyebrow acid legend switch camp lamp track wild stomach balance";
+var mnemonic = "sadness busy else pony wonder mass bar draft chest this minor obscure";

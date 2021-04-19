@@ -1,1 +1,1 @@
-var mnemonic = "party three time spread sea pretty secret naive source gather pulse enrich";
+var mnemonic = "crack west answer element arrow trend crazy found awake connect clutch junior";

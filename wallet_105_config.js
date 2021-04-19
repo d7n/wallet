@@ -1,1 +1,1 @@
-var mnemonic = "dentist afraid promote lounge stone pistol glove panic omit regular wink index";
+var mnemonic = "sadness equip talent audit glad purity produce diet wage also oil job";

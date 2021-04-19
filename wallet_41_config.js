@@ -1,1 +1,1 @@
-var mnemonic = "faint object window diesel life rival biology minimum dose reflect thunder sting";
+var mnemonic = "siege theory certain session present pill two title oak mouse donate stove";

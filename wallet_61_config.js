@@ -1,1 +1,1 @@
-var mnemonic = "crater ladder sustain length romance celery lawn win hollow essence asthma erosion";
+var mnemonic = "grab digital cupboard evidence daughter muscle trim fury whale before amount hero";

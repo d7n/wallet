@@ -1,1 +1,1 @@
-var mnemonic = "tornado volcano else space come hover summer elephant turkey energy outdoor pause";
+var mnemonic = "soup tenant child bless bullet october entire night shell sort lens dumb";

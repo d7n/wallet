@@ -1,1 +1,1 @@
-var mnemonic = "fee brother gloom upset amazing song buyer swing decline chunk energy super";
+var mnemonic = "catch steel find master axis favorite napkin public tiger sort repeat interest";

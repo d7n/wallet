@@ -1,1 +1,1 @@
-var mnemonic = "fluid future fix human wrong panda inner wave cliff sunset final cheese";
+var mnemonic = "absent mixed machine page envelope hope vote brother tent faint hire pulp";

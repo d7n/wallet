@@ -1,1 +1,1 @@
-var mnemonic = "rude plate addict give assault enlist tooth universe quarter grit fan inject";
+var mnemonic = "law talent calm weird dress excuse struggle actual recall indicate loop credit";

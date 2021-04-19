@@ -1,1 +1,1 @@
-var mnemonic = "glue high pond yard extra leopard sentence alcohol worry laptop jungle owner";
+var mnemonic = "resist monkey nurse cactus enable february category hurt this tray stage have";

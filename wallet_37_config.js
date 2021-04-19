@@ -1,1 +1,1 @@
-var mnemonic = "round unlock rude link begin soccer taxi tree book jaguar mention proud";
+var mnemonic = "oblige pipe that vote foot turtle hill van daring blood injury hip";

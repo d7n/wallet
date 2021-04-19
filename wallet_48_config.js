@@ -1,1 +1,1 @@
-var mnemonic = "burden gorilla elder puzzle busy neck despair general pulp mercy alter suggest";
+var mnemonic = "ivory clump october taxi tip maid grant wet safe gallery echo develop";

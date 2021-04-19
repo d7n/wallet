@@ -1,1 +1,1 @@
-var mnemonic = "indoor faculty bike abandon tank glory knock exhaust page magic honey notice";
+var mnemonic = "coffee onion lazy couch column motion file custom train burger wage borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "neither wave strike pistol wasp object jeans radar undo robust ahead spin";
+var mnemonic = "time stumble disease wonder tower space force topple sunset hint bachelor elder";

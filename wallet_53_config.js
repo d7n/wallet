@@ -1,1 +1,1 @@
-var mnemonic = "favorite kiwi payment rude frown toward bunker please choose adult virtual tide";
+var mnemonic = "rather sibling change double attract morning actor dry because gravity balance horn";

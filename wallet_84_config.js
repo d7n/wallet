@@ -1,1 +1,1 @@
-var mnemonic = "doll lock acid sunny legend labor beach stairs collect across business logic";
+var mnemonic = "heavy police cradle patch run pony rent monster warrior test venue mixture";

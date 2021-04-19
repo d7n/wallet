@@ -1,1 +1,1 @@
-var mnemonic = "bonus cruel obvious noodle risk game fish same bubble chat hint flock";
+var mnemonic = "puzzle success pledge airport sort nasty legend remain stomach real ugly capable";

@@ -1,1 +1,1 @@
-var mnemonic = "talent elephant process diesel blouse library amateur lake village memory feature hint";
+var mnemonic = "situate purpose leg faith organ fire possible often smart month lucky there";

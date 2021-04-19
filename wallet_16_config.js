@@ -1,1 +1,1 @@
-var mnemonic = "promote pistol season path diary pen knife cousin hunt auto guitar equal";
+var mnemonic = "guitar twelve cash drum there off bulk lemon brass menu junk toss";

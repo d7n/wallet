@@ -1,1 +1,1 @@
-var mnemonic = "security live isolate blue water unlock erase evil ship outside decide then";
+var mnemonic = "price upper quiz have trouble wave ill payment universe scorpion grain duck";

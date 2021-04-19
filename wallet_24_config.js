@@ -1,1 +1,1 @@
-var mnemonic = "swear truth above victory business oblige dinosaur yard frozen friend warfare woman";
+var mnemonic = "wise trumpet bulb rubber huge rapid artwork depart van voice lab novel";

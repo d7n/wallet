@@ -1,1 +1,1 @@
-var mnemonic = "age fancy brick strike husband only spare bomb sister one bid soda";
+var mnemonic = "zero cargo proof seminar above apple aerobic ignore wrong industry together torch";

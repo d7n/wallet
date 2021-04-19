@@ -1,1 +1,1 @@
-var mnemonic = "dish rocket evil deposit stock little work project version umbrella program desk";
+var mnemonic = "symptom weekend orbit under seek galaxy mom family quality unique phone again";

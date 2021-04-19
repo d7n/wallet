@@ -1,1 +1,1 @@
-var mnemonic = "piano want public above cabbage country main shove smoke math oven wife";
+var mnemonic = "attract marble pause universe online live load drive boat wedding coach glove";

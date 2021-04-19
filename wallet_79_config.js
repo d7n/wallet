@@ -1,1 +1,1 @@
-var mnemonic = "loan consider energy axis bind senior chapter seven speak poem snack diesel";
+var mnemonic = "knock such kitchen apple theme exotic machine tide figure priority attend tooth";

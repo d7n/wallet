@@ -1,1 +1,1 @@
-var mnemonic = "wrong grit switch basket online scrub sausage grit forget spell sadness apple";
+var mnemonic = "dial sound fit rug snake barely pen suit tuition chest brass patient";

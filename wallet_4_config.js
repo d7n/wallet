@@ -1,1 +1,1 @@
-var mnemonic = "tennis jaguar vacuum exile slush acquire fruit fetch flavor wait six search";
+var mnemonic = "burden right tornado wish hospital attend release side jar hammer picnic high";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen outside abstract bounce excess salmon salon abuse surge list apple mimic";
+var mnemonic = "obtain define deposit alien leg powder vicious guard lawsuit hurry friend coin";

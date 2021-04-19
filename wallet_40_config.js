@@ -1,1 +1,1 @@
-var mnemonic = "kite thunder shed faint kit depart luxury fade daughter cruel someone device";
+var mnemonic = "foster tattoo express always they dentist where dial squirrel inflict flower habit";

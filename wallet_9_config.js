@@ -1,1 +1,1 @@
-var mnemonic = "couple elite device expose range thing hero wet favorite typical flag hobby";
+var mnemonic = "fine boat outside absent addict oval nephew pond artist purpose banana calm";

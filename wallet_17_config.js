@@ -1,1 +1,1 @@
-var mnemonic = "artist welcome ice sugar tool sock fruit pigeon dove panda trip consider";
+var mnemonic = "motion visit spice region always obscure essay brass negative curve guide ball";

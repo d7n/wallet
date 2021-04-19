@@ -1,1 +1,1 @@
-var mnemonic = "elegant hope thumb sting note nerve toilet action scatter bean situate elite";
+var mnemonic = "resemble ready elephant endorse best curve rough goose trust increase blame shadow";

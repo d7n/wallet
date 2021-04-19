@@ -1,1 +1,1 @@
-var mnemonic = "loop poverty outer swing move indicate foil seat fortune task vehicle reopen";
+var mnemonic = "twice spray link crane smile tongue print beef tobacco slab hole jar";

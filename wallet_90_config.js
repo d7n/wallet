@@ -1,1 +1,1 @@
-var mnemonic = "observe empower velvet bridge breeze like arrest trial tattoo worth exhibit series";
+var mnemonic = "cotton economy frost snow plastic battle soap gasp trick shed garbage grief";

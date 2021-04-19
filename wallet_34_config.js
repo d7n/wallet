@@ -1,1 +1,1 @@
-var mnemonic = "ask mammal arrange fiction cost machine regular noodle coconut access donkey genre";
+var mnemonic = "panic forum treat someone bacon lawn defy pupil olympic sail rent dinner";

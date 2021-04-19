@@ -1,1 +1,1 @@
-var mnemonic = "cherry grape mass suffer buyer captain smoke screen lemon arena vessel chase";
+var mnemonic = "senior pulp garage state pet zero crazy soldier drum truth dynamic venture";

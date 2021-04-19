@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo rally orbit flock hold accuse execute just neutral exile tortoise lazy";
+var mnemonic = "myth artefact sorry oil cart cloth trip engage aware timber kit muffin";

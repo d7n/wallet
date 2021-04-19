@@ -1,1 +1,1 @@
-var mnemonic = "host lemon lunch silver movie fire toy antique agree fan accident spray";
+var mnemonic = "vast rude tip emotion capital fortune three axis pottery roast twenty much";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy forward merge describe brick train media ankle forest journey monkey december";
+var mnemonic = "option orphan frozen arrange clarify garlic fruit small task certain shoot quality";

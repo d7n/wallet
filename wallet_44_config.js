@@ -1,1 +1,1 @@
-var mnemonic = "feature panda minute impose broom roof throw crush weasel liquid train simple";
+var mnemonic = "omit obey price try dish talk skull gloom drop shield hip husband";

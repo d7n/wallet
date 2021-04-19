@@ -1,1 +1,1 @@
-var mnemonic = "frozen never bag regular finish own math defense spread spoon sudden can";
+var mnemonic = "gap large reunion random hello diamond rapid result pretty matrix exhaust control";

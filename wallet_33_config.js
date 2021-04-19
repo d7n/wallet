@@ -1,1 +1,1 @@
-var mnemonic = "chronic main awful time grape pencil lion toy axis verify crystal panel";
+var mnemonic = "tribe shoulder leader tip employ daughter ladder diesel mad juice round retreat";

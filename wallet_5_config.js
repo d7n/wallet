@@ -1,1 +1,1 @@
-var mnemonic = "fence pudding below cool gesture clog world abandon extend snake bus frog";
+var mnemonic = "fly camera silly source jar rely noodle odor witness gap zebra unknown";

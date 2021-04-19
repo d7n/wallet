@@ -1,1 +1,1 @@
-var mnemonic = "orchard album insect credit ridge flavor syrup vault warm festival decline bind";
+var mnemonic = "object people accident believe parade wish label random distance place avocado wood";

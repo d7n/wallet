@@ -1,1 +1,1 @@
-var mnemonic = "heart razor party midnight note stock shock square dust drip scrub relief";
+var mnemonic = "believe cause coconut limb mix chaos oven home legend answer swift slice";

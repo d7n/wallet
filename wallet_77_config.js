@@ -1,1 +1,1 @@
-var mnemonic = "wrist frozen unknown wonder curtain catch over sick alien industry rival stick";
+var mnemonic = "north wreck scheme jar range ordinary engine surge lion other library describe";

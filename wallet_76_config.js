@@ -1,1 +1,1 @@
-var mnemonic = "blue salmon duck target barely below discover route tonight embrace noise pet";
+var mnemonic = "warm pear used damp used dinner pact shuffle vacuum wrist purpose claw";

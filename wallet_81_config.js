@@ -1,1 +1,1 @@
-var mnemonic = "fox hobby rubber bring wink pink hurdle train fringe junior snack spring";
+var mnemonic = "immense name lazy place mistake fancy kick roof blind until dance sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "quick worry muscle remain trigger relax rare dutch define glass alter cram";
+var mnemonic = "harsh rally marriage hello slender alien panic expire jaguar dilemma narrow vapor";

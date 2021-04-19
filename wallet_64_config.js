@@ -1,1 +1,1 @@
-var mnemonic = "blush sense tiger foot kiss exhaust other riot city copper gown phrase";
+var mnemonic = "dirt uniform buzz worry main window hurdle cabbage primary occur ship ski";

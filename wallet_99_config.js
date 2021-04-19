@@ -1,1 +1,1 @@
-var mnemonic = "foil narrow this coconut claim drift right vintage useless gap goat pen";
+var mnemonic = "depend evolve giraffe vanish logic person fatal enroll panda answer ball remove";

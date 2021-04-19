@@ -1,1 +1,1 @@
-var mnemonic = "zone fortune squeeze fee toddler sunset doctor day belt sport scorpion general";
+var mnemonic = "trigger acoustic absent pizza ability tunnel atom sketch denial answer stove mouse";

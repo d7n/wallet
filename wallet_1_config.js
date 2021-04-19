@@ -1,1 +1,1 @@
-var mnemonic = "neglect seminar gesture crumble doll window fashion kid unfold cabin raven street";
+var mnemonic = "cruel gun arch purity head increase post warm pistol typical first pitch";

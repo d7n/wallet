@@ -1,1 +1,1 @@
-var mnemonic = "fantasy moon blouse ready name seminar gate ready reveal boring female sustain";
+var mnemonic = "enhance seat van gather gorilla couch dial blame surprise mushroom garage erase";

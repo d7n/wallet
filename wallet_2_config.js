@@ -1,1 +1,1 @@
-var mnemonic = "sock property swallow stem present rival super amused night vacant permit trap";
+var mnemonic = "able casual among field scout text science emerge link palace street call";

@@ -1,1 +1,1 @@
-var mnemonic = "myself census glide skin slot olive sad define trash exact acoustic elephant";
+var mnemonic = "found guitar help wink century school deal admit device sense impulse horror";

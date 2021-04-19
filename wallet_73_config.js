@@ -1,1 +1,1 @@
-var mnemonic = "patient double bullet bubble original snap wedding giraffe stock hub excite poverty";
+var mnemonic = "view planet inside genre outdoor almost thumb critic fragile expect shed glass";

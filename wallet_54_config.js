@@ -1,1 +1,1 @@
-var mnemonic = "foot nest social hat mule current cube rule good exile garage heavy";
+var mnemonic = "pride random dial minute outside novel trip favorite sibling similar proof candy";

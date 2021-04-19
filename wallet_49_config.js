@@ -1,1 +1,1 @@
-var mnemonic = "chef hold captain enemy demand rate hero arrive dose rather trust denial";
+var mnemonic = "what prefer fish wheat coconut nothing erupt provide rose impose pool sauce";

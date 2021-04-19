@@ -1,1 +1,1 @@
-var mnemonic = "negative digital soon student viable put tourist race easily weather pigeon muffin";
+var mnemonic = "rocket level clip solid penalty play arrive neglect sure useful mandate learn";

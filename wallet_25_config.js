@@ -1,1 +1,1 @@
-var mnemonic = "glass whip mix worry fog begin dumb anchor father comfort make shove";
+var mnemonic = "august doll escape actor prison mixture water update silly purse vessel pet";

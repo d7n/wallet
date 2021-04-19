@@ -1,1 +1,1 @@
-var mnemonic = "vintage idea hero saddle couple display spell relief credit firm level paper";
+var mnemonic = "satoshi runway island gather blast ticket scissors fury twenty case castle web";

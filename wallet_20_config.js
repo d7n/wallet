@@ -1,1 +1,1 @@
-var mnemonic = "economy decade wood cloth cost match young master profit hotel rebuild toward";
+var mnemonic = "crack staff soon illness like filter able ozone strike fade chronic bracket";

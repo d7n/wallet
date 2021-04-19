@@ -1,1 +1,1 @@
-var mnemonic = "bounce type number sister upper admit suffer submit renew access essay salute";
+var mnemonic = "agree cattle cause worry subject wheel follow diesel season ski submit pill";

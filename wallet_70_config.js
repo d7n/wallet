@@ -1,1 +1,1 @@
-var mnemonic = "volume monkey spot blur tongue pet oxygen country sibling clump more check";
+var mnemonic = "road boil chaos fine plastic invest arrive sunny arrow open youth away";

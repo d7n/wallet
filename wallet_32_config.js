@@ -1,1 +1,1 @@
-var mnemonic = "false matter around group spider ripple firm inside flower sorry cram museum";
+var mnemonic = "piano sustain garlic grape own nice mixed indoor math enroll soda another";

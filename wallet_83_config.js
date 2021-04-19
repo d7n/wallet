@@ -1,1 +1,1 @@
-var mnemonic = "way gaze umbrella seven resemble squeeze weather weather digital hen cigar poet";
+var mnemonic = "fury angry audit miracle roof weasel during chase miracle decide success hungry";
