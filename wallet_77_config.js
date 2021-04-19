@@ -1,1 +1,1 @@
-var mnemonic = "earn crucial easy drink make odor hard ridge isolate around gain cover";
+var mnemonic = "topic hobby curtain enjoy sting goat rate hurdle dinosaur tent path sting";

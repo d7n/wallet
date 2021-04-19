@@ -1,1 +1,1 @@
-var mnemonic = "lonely eye cloth view spin robot cousin just add artefact dizzy tonight";
+var mnemonic = "knee during maze license tornado angry uniform across foot flash motion mistake";

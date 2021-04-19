@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon dirt document quarter hundred theme neck sweet surface night shy fan";
+var mnemonic = "horse sibling month suffer minimum next drift drip beef attract physical gauge";

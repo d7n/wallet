@@ -1,1 +1,1 @@
-var mnemonic = "hybrid seek van pudding humble aspect excuse problem idea equal humble aim";
+var mnemonic = "across father high swim grit oil barrel ladder add crack sea betray";

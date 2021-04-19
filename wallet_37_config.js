@@ -1,1 +1,1 @@
-var mnemonic = "fragile want exile release regret harvest drift coyote ribbon card soldier bullet";
+var mnemonic = "vivid alarm grant face student private rug short issue museum small potato";

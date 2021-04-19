@@ -1,1 +1,1 @@
-var mnemonic = "miss equip view extra shell fox broom message sport daughter mom upgrade";
+var mnemonic = "super vibrant game slender relief crowd away over okay sentence paper toast";

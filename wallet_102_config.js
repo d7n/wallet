@@ -1,1 +1,1 @@
-var mnemonic = "bring rich craft pact drive rib coffee poverty pottery approve citizen amount";
+var mnemonic = "fish spot sort alter behind jacket dune layer page boss open tent";

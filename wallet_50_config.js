@@ -1,1 +1,1 @@
-var mnemonic = "vocal lunar toe lunar evil stock stereo lucky half dinosaur ethics stock";
+var mnemonic = "remain globe whale camera fault discover bridge pulp venture special tower ride";

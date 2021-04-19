@@ -1,1 +1,1 @@
-var mnemonic = "basic match cat please category way helmet dumb purse victory attract very";
+var mnemonic = "betray upper glide marine inspire before crawl keep brain snack skin coyote";

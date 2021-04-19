@@ -1,1 +1,1 @@
-var mnemonic = "mushroom elder prison claw various path person brand myth cement cram gravity";
+var mnemonic = "gesture brain bar news emerge wrong awkward romance furnace vital spare cattle";

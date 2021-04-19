@@ -1,1 +1,1 @@
-var mnemonic = "logic song cage welcome scorpion process pill mosquito stumble broom swear evolve";
+var mnemonic = "name other luggage adult since ordinary swap despair virus runway venue case";

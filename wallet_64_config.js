@@ -1,1 +1,1 @@
-var mnemonic = "athlete afraid brass pair illegal divert blast brass park hello bonus vanish";
+var mnemonic = "clean disagree repair pause hidden outer short neutral wild glare clutch oppose";

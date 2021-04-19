@@ -1,1 +1,1 @@
-var mnemonic = "theme south industry orphan math attract hen display wage thumb animal vapor";
+var mnemonic = "sound patrol best square life lonely gate basket ritual dish shield bind";

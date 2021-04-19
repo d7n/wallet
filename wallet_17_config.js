@@ -1,1 +1,1 @@
-var mnemonic = "gasp waste police fatigue extra banana obvious napkin powder camera obvious plug";
+var mnemonic = "history breeze local jelly turtle deliver cradle magic differ lake alone someone";

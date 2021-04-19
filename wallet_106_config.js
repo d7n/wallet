@@ -1,1 +1,1 @@
-var mnemonic = "protect donkey toe vacuum easy clarify tunnel load tent type result dust";
+var mnemonic = "story behind chronic arctic sense fragile guess treat satoshi blouse nation ankle";

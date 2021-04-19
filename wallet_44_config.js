@@ -1,1 +1,1 @@
-var mnemonic = "chicken rally photo vast broken spread canvas more stove trash else violin";
+var mnemonic = "rough earn ozone quality squeeze meadow fatal acoustic curve trophy crawl gym";

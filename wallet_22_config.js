@@ -1,1 +1,1 @@
-var mnemonic = "pet destroy detail clog sample muffin shoulder coin verify topple art rival";
+var mnemonic = "accident fantasy always session crane glow drum maximum pyramid like filter lucky";

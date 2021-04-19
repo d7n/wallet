@@ -1,1 +1,1 @@
-var mnemonic = "want stay urge narrow seek gown fall tomorrow dose box universe ladder";
+var mnemonic = "crane segment stereo code fabric come orbit maze army snack swarm disorder";

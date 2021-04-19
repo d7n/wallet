@@ -1,1 +1,1 @@
-var mnemonic = "exhibit blind usual onion decorate evoke assault grab walk need bachelor elephant";
+var mnemonic = "catch crush payment rule tag license equal coyote purity scheme tumble whale";

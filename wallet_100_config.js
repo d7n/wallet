@@ -1,1 +1,1 @@
-var mnemonic = "fiber job slush crawl material cabin cliff hill ivory ring tag employ";
+var mnemonic = "dog museum slow grape service purity program turtle noise knee champion place";

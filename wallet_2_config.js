@@ -1,1 +1,1 @@
-var mnemonic = "sound enter doctor buzz modify fragile inquiry section soft entry welcome ecology";
+var mnemonic = "hurry shuffle shadow delay siege acoustic dumb client hurt scatter seek manual";

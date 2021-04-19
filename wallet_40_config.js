@@ -1,1 +1,1 @@
-var mnemonic = "diet produce volcano coin allow mesh viable arch business three lawn vivid";
+var mnemonic = "mandate news pumpkin order icon hold dove orient grief home video useless";

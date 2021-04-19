@@ -1,1 +1,1 @@
-var mnemonic = "predict erode mutual rigid thunder tobacco tomato use chicken sight match hockey";
+var mnemonic = "hub wave extra pipe fox visa ritual pass truth symptom fruit heavy";

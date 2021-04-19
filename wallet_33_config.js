@@ -1,1 +1,1 @@
-var mnemonic = "claw innocent camera direct curtain blue rookie switch fatigue carry crash setup";
+var mnemonic = "urge scrub elephant normal plate receive today hundred client cry joy holiday";

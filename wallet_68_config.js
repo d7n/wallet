@@ -1,1 +1,1 @@
-var mnemonic = "page sun error cherry service wheel choose crawl alley honey food december";
+var mnemonic = "feature dice elder save eternal stand amazing force advance myself excite parrot";

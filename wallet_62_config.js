@@ -1,1 +1,1 @@
-var mnemonic = "book shed fabric leader bleak quality toddler same movie mask spawn cereal";
+var mnemonic = "need result detect genius leisure clay wreck will loud bar actress aunt";

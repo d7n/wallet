@@ -1,1 +1,1 @@
-var mnemonic = "north sketch traffic young can sweet entry village wood reject heart proof";
+var mnemonic = "expect tent make range green govern cliff warfare upon place anger vault";

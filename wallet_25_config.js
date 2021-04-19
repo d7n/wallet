@@ -1,1 +1,1 @@
-var mnemonic = "subject reject skull giraffe heart order scrap peanut wine truck language dolphin";
+var mnemonic = "typical zero unique acid novel wood rib virtual horse theme throw magic";

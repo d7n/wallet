@@ -1,1 +1,1 @@
-var mnemonic = "churn term oven error edge poet frequent churn tank luggage cloud essence";
+var mnemonic = "team junk fame million dance evidence butter loop mimic type refuse marriage";

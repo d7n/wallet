@@ -1,1 +1,1 @@
-var mnemonic = "dutch cigar negative portion taste frown keep year clay mom unit alert";
+var mnemonic = "control penalty genre sure alert evoke speed private local payment elephant south";

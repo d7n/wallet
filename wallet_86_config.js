@@ -1,1 +1,1 @@
-var mnemonic = "unusual tunnel shoe equip act bless whisper unique brand pole lens fossil";
+var mnemonic = "grain tell equal memory bind honey forest panther cinnamon satisfy domain impact";

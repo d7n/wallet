@@ -1,1 +1,1 @@
-var mnemonic = "loyal exit oxygen pony edge match type plastic frame hat inflict survey";
+var mnemonic = "slight cake dolphin same chapter radio toilet fork video pill board alter";

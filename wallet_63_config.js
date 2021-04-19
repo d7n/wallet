@@ -1,1 +1,1 @@
-var mnemonic = "innocent unique mesh able firm question skin cycle board weather spring correct";
+var mnemonic = "script wedding beauty accuse raise robust pond volcano saddle humble ridge husband";

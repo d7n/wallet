@@ -1,1 +1,1 @@
-var mnemonic = "basket gasp jelly dinner must reopen tired alert empower stumble unaware rapid";
+var mnemonic = "embody predict sauce web cable online magic chicken pilot stereo garden scorpion";

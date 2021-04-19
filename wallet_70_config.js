@@ -1,1 +1,1 @@
-var mnemonic = "involve minute question dismiss theme message garlic know thumb domain size robot";
+var mnemonic = "oven box belt property upgrade monkey market kid prevent couple solar walnut";

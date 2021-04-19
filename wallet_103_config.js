@@ -1,1 +1,1 @@
-var mnemonic = "wrap analyst service sentence bamboo loan furnace pudding citizen logic loop jacket";
+var mnemonic = "uncover virtual airport faint inmate visit poverty bind process will crumble sibling";

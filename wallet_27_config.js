@@ -1,1 +1,1 @@
-var mnemonic = "obscure resist usage glare green calm acoustic tube because series into blouse";
+var mnemonic = "various pill refuse spend boring lounge remove quarter stage jump merge solar";

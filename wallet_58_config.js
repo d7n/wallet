@@ -1,1 +1,1 @@
-var mnemonic = "final horn tank focus heart photo used slogan repair inmate volcano abuse";
+var mnemonic = "prosper drastic alcohol surprise ready pause target junior chaos mammal diagram economy";

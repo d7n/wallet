@@ -1,1 +1,1 @@
-var mnemonic = "club special oval sure kite cart blast ostrich famous mouse then simple";
+var mnemonic = "boss galaxy sing change nature air alien know minor corn sun two";

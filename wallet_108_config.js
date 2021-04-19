@@ -1,1 +1,1 @@
-var mnemonic = "harvest curious bright verb invite add half prison wrap eye shine zone";
+var mnemonic = "solution legend arctic autumn buffalo ocean poet suit crew taste aerobic physical";

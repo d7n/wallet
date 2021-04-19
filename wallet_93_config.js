@@ -1,1 +1,1 @@
-var mnemonic = "crush fruit carry all evidence gospel job brother alley advance ill bounce";
+var mnemonic = "language glance chair afford rug fruit loud dilemma neglect foster frown nice";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony famous shine blue diary awesome rice spice discover duty dry kind";
+var mnemonic = "report silk question hockey blood welcome such strike security check talent heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "popular someone mango dog stamp father consider captain bubble sniff chimney cactus";
+var mnemonic = "predict text pool cannon express leg razor quote afraid rich monkey lizard";

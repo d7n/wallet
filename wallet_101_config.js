@@ -1,1 +1,1 @@
-var mnemonic = "round demand owner lava patient pass record permit reunion produce flag item";
+var mnemonic = "tag slow spike blush tower spoil charge comfort day scrap fold garment";

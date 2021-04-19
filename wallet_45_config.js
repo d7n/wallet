@@ -1,1 +1,1 @@
-var mnemonic = "guard record embark remind pear group soup holiday civil until desk sorry";
+var mnemonic = "basket now apart present unaware excite suit bag wheel raw hedgehog prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "rival brown obscure grocery kick vehicle myth candy super rare veteran six";
+var mnemonic = "eagle art nurse basic diary merry submit half farm gather extend cool";

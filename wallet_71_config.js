@@ -1,1 +1,1 @@
-var mnemonic = "roof degree powder unit slow corn banner sword empower jewel lizard symbol";
+var mnemonic = "bind trip north report fork toward dignity law crisp sausage surround estate";

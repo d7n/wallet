@@ -1,1 +1,1 @@
-var mnemonic = "busy visual mean ugly nose night circle crop minimum lend fever behave";
+var mnemonic = "alarm vague fly disease script welcome describe angle grit simple code express";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble office embark catalog record fuel general term buzz setup then cover";
+var mnemonic = "comfort foil pig shy banana crop earth spy old cannon weekend nice";

@@ -1,1 +1,1 @@
-var mnemonic = "coin future thrive ketchup approve hand breeze pelican theory sick tree siege";
+var mnemonic = "gain ill six awkward bus future humor people render awful wife employ";

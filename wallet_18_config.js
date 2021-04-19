@@ -1,1 +1,1 @@
-var mnemonic = "space rare news favorite place anchor race steel around range powder pizza";
+var mnemonic = "aerobic thought alter fish general rail ivory fine ten discover flame problem";

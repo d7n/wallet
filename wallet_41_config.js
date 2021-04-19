@@ -1,1 +1,1 @@
-var mnemonic = "siren iron castle chase fossil denial thank print delay double mistake first";
+var mnemonic = "model curious hover empty current airport clarify size shoulder audit response place";

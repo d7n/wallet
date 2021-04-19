@@ -1,1 +1,1 @@
-var mnemonic = "stadium gym draft ginger vehicle square federal simple dial fiber movie alpha";
+var mnemonic = "ability put fan during opera purpose reveal shield jump apart unlock figure";

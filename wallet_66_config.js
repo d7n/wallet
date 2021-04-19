@@ -1,1 +1,1 @@
-var mnemonic = "decline family trust host creek talent cream release skull era rail bench";
+var mnemonic = "real render guard bring load scissors design auction style leader chair fly";

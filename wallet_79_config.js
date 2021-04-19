@@ -1,1 +1,1 @@
-var mnemonic = "surge song find grass estate test much old census circle tank wall";
+var mnemonic = "prefer eyebrow grain welcome token trade lounge naive health pottery steel advice";

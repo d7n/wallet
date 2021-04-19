@@ -1,1 +1,1 @@
-var mnemonic = "timber opinion virus funny provide boil excuse glow mistake object property goat";
+var mnemonic = "play awkward hamster vanish divert reopen large blanket cannon float rare detect";

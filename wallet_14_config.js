@@ -1,1 +1,1 @@
-var mnemonic = "scrub rib satoshi seek addict skill shine work eagle excite seven horse";
+var mnemonic = "predict leave uncle salute manage liar exotic sister carpet smoke that bag";

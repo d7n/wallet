@@ -1,1 +1,1 @@
-var mnemonic = "rubber across across lens crucial select connect apple crucial vague unknown abuse";
+var mnemonic = "accident palm thumb cannon gesture hawk blade stable bone staff dignity food";

@@ -1,1 +1,1 @@
-var mnemonic = "cement ball hundred usage employ legal frog brisk outside gossip banana dust";
+var mnemonic = "sweet course stumble sock tonight spoon pulse start scheme glance tag solution";

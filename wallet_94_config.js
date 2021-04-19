@@ -1,1 +1,1 @@
-var mnemonic = "output hero method pond general ladder fresh pretty behave entry magic scrub";
+var mnemonic = "used figure drum owner file turkey peace raw tunnel tennis panther canyon";

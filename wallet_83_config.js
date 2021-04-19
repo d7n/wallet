@@ -1,1 +1,1 @@
-var mnemonic = "twenty frown group latin idea beauty blame use fox crash change snap";
+var mnemonic = "brain gesture sing switch razor search divorce kidney senior fortune camera sail";

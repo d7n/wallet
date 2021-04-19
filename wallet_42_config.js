@@ -1,1 +1,1 @@
-var mnemonic = "modify main yellow range drink mesh slush trigger ghost sunset mushroom position";
+var mnemonic = "hammer borrow ocean fun cheese infant grace slot ancient arrange electric dentist";

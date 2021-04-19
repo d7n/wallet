@@ -1,1 +1,1 @@
-var mnemonic = "whisper hotel glare bunker visit asset patch pupil fancy goat double slab";
+var mnemonic = "two few green praise maid soul display satoshi boss foot frozen innocent";

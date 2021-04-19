@@ -1,1 +1,1 @@
-var mnemonic = "near weather cricket mention walnut ecology express front town rough boss grid";
+var mnemonic = "model infant found empower essay despair stereo regular derive borrow accuse core";

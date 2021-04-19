@@ -1,1 +1,1 @@
-var mnemonic = "venue rescue swamp resemble paper surround pill describe crucial board fish record";
+var mnemonic = "april joke fossil rule polar umbrella potato outside note donate disagree among";

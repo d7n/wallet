@@ -1,1 +1,1 @@
-var mnemonic = "mail roast add insect slow orchard degree kitchen antique direct math cricket";
+var mnemonic = "scorpion switch sword series slender garbage visa rescue benefit dune best voice";

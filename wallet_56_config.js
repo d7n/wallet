@@ -1,1 +1,1 @@
-var mnemonic = "logic exotic mistake extra oblige banana gasp potato distance ready replace leave";
+var mnemonic = "broken pistol other catalog tomato setup alone travel repeat claim margin nuclear";

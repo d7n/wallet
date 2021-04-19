@@ -1,1 +1,1 @@
-var mnemonic = "cruel garage day safe grant roast bottom wrestle energy rotate toast disorder";
+var mnemonic = "device rocket finger volume rug energy minimum okay soul maximum tuition burger";

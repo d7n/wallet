@@ -1,1 +1,1 @@
-var mnemonic = "neither logic height dash athlete habit harsh van huge fitness marine era";
+var mnemonic = "fluid guilt virus purchase acoustic salon case access frown immune phone ahead";

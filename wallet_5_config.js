@@ -1,1 +1,1 @@
-var mnemonic = "unlock struggle aerobic bamboo coin tissue test bonus service canoe visit decrease";
+var mnemonic = "silk render inform detail envelope pledge link fame mango jungle tennis basic";

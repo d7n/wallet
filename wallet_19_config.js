@@ -1,1 +1,1 @@
-var mnemonic = "display hawk hybrid offer pull lumber strike toilet match uniform crucial pencil";
+var mnemonic = "hard movie accuse exercise domain alarm give cave rabbit truck another social";

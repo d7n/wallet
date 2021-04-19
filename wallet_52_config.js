@@ -1,1 +1,1 @@
-var mnemonic = "error ladder benefit minor between person audit miracle execute twist south stable";
+var mnemonic = "plastic detect fetch donate romance female hollow elite sausage grunt drastic reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "film good aisle tired kick pencil honey remove flower media space output";
+var mnemonic = "moral cream layer flavor comic grace type yard oven identify elbow depend";

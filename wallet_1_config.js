@@ -1,1 +1,1 @@
-var mnemonic = "finger usage bubble orbit pass shallow mad forest ask clap fee chicken";
+var mnemonic = "shift kick include box absent palm attract hundred reduce replace ozone monkey";

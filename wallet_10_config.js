@@ -1,1 +1,1 @@
-var mnemonic = "spread baby include cabin bitter must dream expire arena captain jelly engine";
+var mnemonic = "pulp speak basic accuse yard orbit add spawn hollow pact slab insect";

@@ -1,1 +1,1 @@
-var mnemonic = "install daughter shock ship reopen autumn hello attitude affair laundry lobster host";
+var mnemonic = "cool skirt wasp castle young exclude dumb kitchen blossom depth theory check";

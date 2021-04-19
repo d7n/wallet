@@ -1,1 +1,1 @@
-var mnemonic = "meat ahead depth clock angry hidden bicycle daughter power stick picture throw";
+var mnemonic = "sting ceiling riot angry alien reject behave trouble chapter apple settle sponsor";

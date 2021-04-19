@@ -1,1 +1,1 @@
-var mnemonic = "prosper crystal equip jar arrest crisp question boost theory finish beach west";
+var mnemonic = "east observe march perfect wall island hint bubble pipe parent typical illness";

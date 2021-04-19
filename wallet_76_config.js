@@ -1,1 +1,1 @@
-var mnemonic = "position elevator lion since order dumb mandate cancel coin tenant easy tragic";
+var mnemonic = "rebuild humor much category wear duck sock exact bring fiber guide figure";

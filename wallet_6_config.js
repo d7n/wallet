@@ -1,1 +1,1 @@
-var mnemonic = "snap diamond test duck trigger drift animal bone drop atom chief autumn";
+var mnemonic = "effort bamboo become spring child ghost civil sausage spawn town fall error";

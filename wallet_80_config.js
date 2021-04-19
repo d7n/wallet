@@ -1,1 +1,1 @@
-var mnemonic = "farm marine guard legend visa century donkey saddle you pink verb initial";
+var mnemonic = "vivid brain remove such property arena bread kind mask burden resource audit";

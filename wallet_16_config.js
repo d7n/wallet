@@ -1,1 +1,1 @@
-var mnemonic = "indicate ramp search electric famous silent guide endless equal rib wreck trim";
+var mnemonic = "payment choose symptom feel improve entry anxiety soft way soccer energy evolve";

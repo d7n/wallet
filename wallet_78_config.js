@@ -1,1 +1,1 @@
-var mnemonic = "adjust reflect fox pond slender burst useful owner captain oak jump enhance";
+var mnemonic = "cave globe beef tilt apple blast cheap citizen float popular all evil";

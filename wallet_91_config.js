@@ -1,1 +1,1 @@
-var mnemonic = "rival twist thumb gadget photo affair disease lobster wealth swarm note rigid";
+var mnemonic = "skull smile patrol tower solar horror citizen powder hello include sample grief";

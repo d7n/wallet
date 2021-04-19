@@ -1,1 +1,1 @@
-var mnemonic = "blanket involve enrich wait example tribe table uphold vintage charge change term";
+var mnemonic = "guilt core script rebel cement govern track blood interest slice weasel unveil";

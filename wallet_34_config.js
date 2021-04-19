@@ -1,1 +1,1 @@
-var mnemonic = "scrap food hard test diary enough consider deer boss van repair bless";
+var mnemonic = "myself minute chronic spawn crash barely pupil join inside rail reopen elegant";

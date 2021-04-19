@@ -1,1 +1,1 @@
-var mnemonic = "island select quantum time giant orbit wisdom radar injury mango miracle panther";
+var mnemonic = "green slice nation honey alter dream pull crucial best census arch sniff";

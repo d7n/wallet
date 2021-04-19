@@ -1,1 +1,1 @@
-var mnemonic = "much library chimney slab section alley isolate pass various please husband strategy";
+var mnemonic = "private blood card tunnel tobacco victory unlock squirrel relief rib invest nasty";

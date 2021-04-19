@@ -1,1 +1,1 @@
-var mnemonic = "tool march feature stable whip expire jacket abstract arrow flower spoil slice";
+var mnemonic = "wire devote ginger merry mobile armor oval salad step radio shield dirt";

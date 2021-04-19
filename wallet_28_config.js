@@ -1,1 +1,1 @@
-var mnemonic = "spy thrive point skin proof pilot limb badge noise river hidden flush";
+var mnemonic = "exchange piece defy blur sample picnic tobacco expose blame only intact enemy";
