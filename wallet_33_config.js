@@ -1,1 +1,1 @@
-var mnemonic = "you amused alert ankle visit negative moon neglect april nephew stable life";
+var mnemonic = "eyebrow conduct under genuine interest kitchen ocean primary job any judge eye";

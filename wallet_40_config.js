@@ -1,1 +1,1 @@
-var mnemonic = "hybrid napkin middle grab miracle toy layer fox laptop fine flavor civil";
+var mnemonic = "letter such gauge sword youth dash subway imitate injury chunk version ocean";

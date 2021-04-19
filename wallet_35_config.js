@@ -1,1 +1,1 @@
-var mnemonic = "minor device solve slight nuclear secret today label student merry cannon decide";
+var mnemonic = "furnace come struggle clean city cabbage figure great digital satisfy bench grab";

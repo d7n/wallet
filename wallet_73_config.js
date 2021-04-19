@@ -1,1 +1,1 @@
-var mnemonic = "horn license pelican odor hobby gentle main cost message yellow burst rigid";
+var mnemonic = "impact shoot tent soap profit chef trim enhance tone trap love execute";

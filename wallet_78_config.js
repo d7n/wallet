@@ -1,1 +1,1 @@
-var mnemonic = "curtain tattoo else shrug enemy doll element afraid pupil gaze layer beyond";
+var mnemonic = "uniform basic wave author wife slot stand limit jazz clap team bridge";

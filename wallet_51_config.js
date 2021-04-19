@@ -1,1 +1,1 @@
-var mnemonic = "home mirror critic flight tomorrow forget curve mention ripple soldier logic extra";
+var mnemonic = "pole fatigue bridge foil harvest review pilot rival diagram summer amused heart";

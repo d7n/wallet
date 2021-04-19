@@ -1,1 +1,1 @@
-var mnemonic = "strike pink become paper elbow power recall amazing person buyer monitor upon";
+var mnemonic = "sibling knife sugar jacket banana stumble pulse perfect spider dizzy pyramid lobster";

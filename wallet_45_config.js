@@ -1,1 +1,1 @@
-var mnemonic = "upset wedding unable tree fish ignore hip rib gold chest empty ride";
+var mnemonic = "game gaze title onion marble mimic spend cave cable roast cannon icon";

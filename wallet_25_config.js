@@ -1,1 +1,1 @@
-var mnemonic = "gospel creek fee vague genuine major choice inherit toddler head jelly uncle";
+var mnemonic = "olive later region north legal release rapid someone draw stem diesel baby";

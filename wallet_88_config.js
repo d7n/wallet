@@ -1,1 +1,1 @@
-var mnemonic = "year dice cargo zone segment thunder bread ensure egg problem mirror visa";
+var mnemonic = "basket uncle bundle setup grab diamond travel matrix express blanket army celery";

@@ -1,1 +1,1 @@
-var mnemonic = "bind adult amount accident private firm quote emerge release submit smart october";
+var mnemonic = "afford nature spider cave wolf business ski silly comic jazz sponsor library";

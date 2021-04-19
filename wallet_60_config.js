@@ -1,1 +1,1 @@
-var mnemonic = "develop depth sniff curious march unveil broken tongue uniform glance empty gossip";
+var mnemonic = "shove song tell cycle impulse library barrel jacket oval poet collect bulk";

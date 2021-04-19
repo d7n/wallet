@@ -1,1 +1,1 @@
-var mnemonic = "country soap pony basket come evil balance talent reflect quick travel render";
+var mnemonic = "slush hobby small ethics awkward crawl attitude move enable seed casual audit";

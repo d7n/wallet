@@ -1,1 +1,1 @@
-var mnemonic = "gym prize wide online vacuum half clip anchor actor what combine case";
+var mnemonic = "clutch calm venue settle mixed alpha smile cry sunset mobile hotel enable";

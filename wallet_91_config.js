@@ -1,1 +1,1 @@
-var mnemonic = "quick toe crane unaware voyage height chunk tourist work labor subject naive";
+var mnemonic = "decide blush snow swap crew science crouch mixture type depend festival awful";

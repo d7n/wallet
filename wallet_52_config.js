@@ -1,1 +1,1 @@
-var mnemonic = "ice zone candy figure flock open garlic chat gesture comfort absent stairs";
+var mnemonic = "degree manage verify network mean unlock party tired modify zoo protect charge";

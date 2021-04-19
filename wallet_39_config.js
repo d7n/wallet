@@ -1,1 +1,1 @@
-var mnemonic = "exile stone large trophy try action same left scissors duck act boy";
+var mnemonic = "reveal history visit aunt vocal dinosaur lava lake bunker require glance work";

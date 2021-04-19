@@ -1,1 +1,1 @@
-var mnemonic = "inject trade outer wreck abstract poem access genre ill other dumb outdoor";
+var mnemonic = "assume describe section change large innocent chaos tumble orange plunge armor solve";

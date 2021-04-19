@@ -1,1 +1,1 @@
-var mnemonic = "donkey evidence obvious table ancient renew civil rhythm salmon trigger manage you";
+var mnemonic = "debris help latin topple drip begin vintage bullet derive chronic butter draw";

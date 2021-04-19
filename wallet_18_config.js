@@ -1,1 +1,1 @@
-var mnemonic = "resource record world wood enhance arm vital attract stumble muscle traffic plastic";
+var mnemonic = "weather shadow word elbow distance spare wire fever battle advance answer inform";

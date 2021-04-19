@@ -1,1 +1,1 @@
-var mnemonic = "total true fox flag direct unhappy defy injury mention stand search dust";
+var mnemonic = "first glad cherry vacuum pact isolate marble foam oxygen course strong lounge";

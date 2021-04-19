@@ -1,1 +1,1 @@
-var mnemonic = "dove blind circle antique employ amount airport rack bar option giant armor";
+var mnemonic = "advice olive animal gold way hurdle devote supply danger birth soft business";

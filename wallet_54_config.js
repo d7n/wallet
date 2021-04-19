@@ -1,1 +1,1 @@
-var mnemonic = "note horse either bonus color man energy subject insane shell antenna abuse";
+var mnemonic = "cluster hold wagon viable achieve agree dove cruise author mother decline marine";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery promote fatigue sketch dish egg fiber garlic pact ozone object about";
+var mnemonic = "strike sick race find simple exist this tilt know situate stadium give";

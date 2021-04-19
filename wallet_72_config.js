@@ -1,1 +1,1 @@
-var mnemonic = "polar taste job measure essay concert remember scare lawsuit barely sadness tumble";
+var mnemonic = "dress permit aunt number uniform circle another credit journey cost voyage blouse";

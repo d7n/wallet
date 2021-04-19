@@ -1,1 +1,1 @@
-var mnemonic = "apple have side blur kiss cluster nurse syrup ready solid ancient cactus";
+var mnemonic = "truly extra merry tilt blur scheme gadget galaxy pledge illness donkey imitate";

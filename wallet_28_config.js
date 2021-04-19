@@ -1,1 +1,1 @@
-var mnemonic = "witness soldier vintage reward awkward leaf together squirrel gain embrace wave chief";
+var mnemonic = "season midnight fruit reveal garment tray hollow fancy obscure suit monster bronze";

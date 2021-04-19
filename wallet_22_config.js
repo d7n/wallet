@@ -1,1 +1,1 @@
-var mnemonic = "hawk present green analyst climb follow dance assist gate park april leader";
+var mnemonic = "ensure stadium flock prevent pipe sentence web agree ride black palm lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "extra holiday border tennis olympic speed lesson enact film satisfy dynamic tiger";
+var mnemonic = "refuse paper ranch caught wrong case pizza connect second enrich slender version";

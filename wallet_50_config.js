@@ -1,1 +1,1 @@
-var mnemonic = "fee toy turkey anxiety nominee typical jeans brother apple dismiss win gentle";
+var mnemonic = "borrow grant motion normal taste approve pigeon bacon basket wisdom monkey still";

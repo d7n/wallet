@@ -1,1 +1,1 @@
-var mnemonic = "good appear practice author oxygen august token mass receive memory kitchen cool";
+var mnemonic = "because again mask cat road sleep sugar upset proof country fan donkey";

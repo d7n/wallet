@@ -1,1 +1,1 @@
-var mnemonic = "ritual army identify remain swallow mind warm nerve luggage syrup runway card";
+var mnemonic = "tattoo kitchen lava twice tonight bright urge mushroom mystery vapor cover medal";

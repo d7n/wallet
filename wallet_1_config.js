@@ -1,1 +1,1 @@
-var mnemonic = "green verb bridge concert slice settle wonder bitter oval moral uniform antique";
+var mnemonic = "impact weekend piano thrive spot chicken together quick obey air march used";

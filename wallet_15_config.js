@@ -1,1 +1,1 @@
-var mnemonic = "unfair gaze rough sport inflict enable crash input sun bright day deliver";
+var mnemonic = "comfort term bargain use brand nation claim venture naive kick orient diagram";

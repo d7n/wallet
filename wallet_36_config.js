@@ -1,1 +1,1 @@
-var mnemonic = "zoo sister pig climb roof potato friend emerge mirror recall staff cannon";
+var mnemonic = "meat daring process final category zebra indicate brief friend tiger mystery follow";

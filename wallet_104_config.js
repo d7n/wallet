@@ -1,1 +1,1 @@
-var mnemonic = "always blade top glide nasty base visit mouse table obtain pipe name";
+var mnemonic = "master width walnut reject company assume rent hill clever accident open bulb";

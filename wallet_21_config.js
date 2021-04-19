@@ -1,1 +1,1 @@
-var mnemonic = "ivory solution idea trial carpet jeans curve fuel whip quality try valid";
+var mnemonic = "august visa believe enhance slow have click jaguar cradle flame blur grief";

@@ -1,1 +1,1 @@
-var mnemonic = "case cash lecture taxi blind toward asset neck idle session ten nominee";
+var mnemonic = "valid anxiety kiwi have group easy pioneer huge paper alpha market giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "lens theme silly act zero cat keep rhythm company cruel loop chapter";
+var mnemonic = "jaguar judge report cigar clever mirror differ infant spoon initial weekend style";

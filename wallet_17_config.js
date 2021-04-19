@@ -1,1 +1,1 @@
-var mnemonic = "lecture drift army record talent gallery tired frown where end between ankle";
+var mnemonic = "town bullet magic insect blame bid upon fetch coffee beyond bomb govern";

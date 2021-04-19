@@ -1,1 +1,1 @@
-var mnemonic = "upon gossip symptom bitter emotion document sauce misery between budget lyrics old";
+var mnemonic = "crucial faith cargo oval device copy security cupboard trim vocal human series";

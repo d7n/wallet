@@ -1,1 +1,1 @@
-var mnemonic = "spice tank drip stem charge text stage figure author decorate matrix three";
+var mnemonic = "leader mansion finger cruel novel bottom there make salad unfold benefit price";

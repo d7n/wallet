@@ -1,1 +1,1 @@
-var mnemonic = "suggest fancy jar neither hammer slush abstract shy fire nation six guard";
+var mnemonic = "vivid force inform surface loud middle gun creek artist soccer resist network";

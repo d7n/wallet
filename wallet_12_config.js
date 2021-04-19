@@ -1,1 +1,1 @@
-var mnemonic = "humble grant coral spot private eye lemon chunk wrist aware father lyrics";
+var mnemonic = "excuse discover act blame isolate spawn wealth glance health common twin during";

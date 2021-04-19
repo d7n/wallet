@@ -1,1 +1,1 @@
-var mnemonic = "unknown remember steak face soul toss affair cousin someone later kitchen balance";
+var mnemonic = "oblige human garbage labor insect mix cheese base deny social month spatial";

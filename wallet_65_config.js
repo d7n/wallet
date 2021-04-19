@@ -1,1 +1,1 @@
-var mnemonic = "flag strike keen hair brown hospital aunt dirt write tobacco annual spoil";
+var mnemonic = "city chief goose dutch spot night bubble crazy gospel horn axis dutch";

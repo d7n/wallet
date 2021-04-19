@@ -1,1 +1,1 @@
-var mnemonic = "wagon opinion scout model owner fortune fancy output swarm ceiling novel else";
+var mnemonic = "tube math abandon seat end toy essence divide ordinary thought either razor";

@@ -1,1 +1,1 @@
-var mnemonic = "shell enable tail morning oven boat lens chimney flash kangaroo tortoise load";
+var mnemonic = "dish fury inspire wild raven limb debris illegal scout brush bless hour";

@@ -1,1 +1,1 @@
-var mnemonic = "rate tooth face dizzy garment addict glow behind yard strike screen kid";
+var mnemonic = "artwork rookie fold click gossip huge swim stone sheriff eight horse talk";

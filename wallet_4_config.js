@@ -1,1 +1,1 @@
-var mnemonic = "angry alarm illegal ignore soldier glimpse leg online jelly joy save together";
+var mnemonic = "judge possible volume never property faith clap fashion bus april magnet buzz";

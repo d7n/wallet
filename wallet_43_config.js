@@ -1,1 +1,1 @@
-var mnemonic = "bean crew depend myth wood topple wine impulse patient wagon obey domain";
+var mnemonic = "gossip shrimp guess alcohol enhance leisure law pink deny leader opinion trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "decline omit miracle leisure lonely spare frequent bind other kitchen effort steak";
+var mnemonic = "library nature distance coil health scare lock license connect leader shrimp industry";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic almost fever fetch domain fade ability picnic edit erupt minor settle";
+var mnemonic = "youth file man shiver punch typical ugly permit matrix sense toward shell";

@@ -1,1 +1,1 @@
-var mnemonic = "daring frog hood gown bulb park soldier lens stadium gorilla power size";
+var mnemonic = "just husband burst social dizzy panther movie silk latin average test quantum";

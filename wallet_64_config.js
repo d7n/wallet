@@ -1,1 +1,1 @@
-var mnemonic = "other reopen pluck quarter naive sea hope maze nephew funny weekend genius";
+var mnemonic = "garbage brand bonus invest symptom people moment film melody nerve runway topic";

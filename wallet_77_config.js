@@ -1,1 +1,1 @@
-var mnemonic = "mention bracket side moon air alert noodle obvious also secret insect saddle";
+var mnemonic = "usage news carpet student misery idea goose car juice night believe recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano police dilemma phrase cinnamon boil wave normal near enough fury attract";
+var mnemonic = "tragic promote symbol license cushion winter job shield capable inject thumb east";

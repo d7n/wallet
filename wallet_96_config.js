@@ -1,1 +1,1 @@
-var mnemonic = "day retire liquid car warrior wine million rain gallery toy chalk space";
+var mnemonic = "ghost poem budget print illness apart castle sleep lake layer tube chronic";

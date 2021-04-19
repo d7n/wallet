@@ -1,1 +1,1 @@
-var mnemonic = "large faint blind thing copy burden harvest curve agree equal vivid fall";
+var mnemonic = "essence draft cloth carpet hidden steel output negative visual please then math";

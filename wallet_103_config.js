@@ -1,1 +1,1 @@
-var mnemonic = "cube hover grief flame carpet sunny skill drop peace humble property rapid";
+var mnemonic = "nominee simple script orange rather nice open evidence curious number merge valid";

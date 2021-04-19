@@ -1,1 +1,1 @@
-var mnemonic = "isolate example whisper hurry bicycle script health reject jungle blast roast purpose";
+var mnemonic = "muffin deputy warm average vocal blade twice this inspire argue maple gesture";

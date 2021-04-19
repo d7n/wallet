@@ -1,1 +1,1 @@
-var mnemonic = "flush village fire pride brave basket mass mushroom push wolf retreat convince";
+var mnemonic = "arrest smart feel photo online afford ignore loan disease dolphin actual tag";

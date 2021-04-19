@@ -1,1 +1,1 @@
-var mnemonic = "journey manual notice lock nest abandon digital budget age vendor share royal";
+var mnemonic = "obvious chronic rigid jaguar burst mystery hint swap curve visit buffalo chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic pool super father birth flower install swap relax ostrich sponsor aim";
+var mnemonic = "oven squeeze evidence drive illness portion room unusual hire reflect noble rail";

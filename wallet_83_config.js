@@ -1,1 +1,1 @@
-var mnemonic = "draft alien interest margin demise enter measure field virtual prize virus ancient";
+var mnemonic = "bachelor assume toward enhance foil verify guard device emotion entry client fashion";

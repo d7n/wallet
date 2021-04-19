@@ -1,1 +1,1 @@
-var mnemonic = "unveil middle dish sock mansion ship cash core alien gospel say stomach";
+var mnemonic = "limb ozone slow combine empower anxiety pencil test library spot essence swing";

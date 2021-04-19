@@ -1,1 +1,1 @@
-var mnemonic = "million dawn drip journey asset session scheme rib brief season pool gentle";
+var mnemonic = "puppy sick reduce you brother jewel drama dumb witness actor jazz drink";

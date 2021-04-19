@@ -1,1 +1,1 @@
-var mnemonic = "general loud clay false faith swap island load clean swarm drum truth";
+var mnemonic = "usual modify ketchup surface owner confirm wrong note round rocket actress rough";

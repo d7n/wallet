@@ -1,1 +1,1 @@
-var mnemonic = "drip recycle imitate destroy mistake describe option remember step spell way stool";
+var mnemonic = "sea achieve fish addict verify clock abstract ill rookie soda response oblige";

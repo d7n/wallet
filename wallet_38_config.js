@@ -1,1 +1,1 @@
-var mnemonic = "cargo typical where able tip pistol adjust lab icon woman leopard zebra";
+var mnemonic = "deputy soda math kid expose segment will solid crater spot catalog hollow";

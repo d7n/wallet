@@ -1,1 +1,1 @@
-var mnemonic = "edge laugh elephant over dog favorite love undo demise stereo hood meadow";
+var mnemonic = "seek balcony spoil mule fan flip lab bachelor carry require sing quantum";

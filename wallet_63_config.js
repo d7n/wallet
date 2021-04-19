@@ -1,1 +1,1 @@
-var mnemonic = "news traffic case animal draft random basket use case wrist asset bid";
+var mnemonic = "ladder bus street enough sponsor task virus dog sweet letter clean umbrella";

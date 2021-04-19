@@ -1,1 +1,1 @@
-var mnemonic = "alley weasel busy alarm census memory rug bone add dial caught wealth";
+var mnemonic = "piece patch syrup rough neither flock tribe hole brush normal rack photo";

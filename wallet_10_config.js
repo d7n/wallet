@@ -1,1 +1,1 @@
-var mnemonic = "during cycle column fade speed mention phrase lens churn burger iron bulb";
+var mnemonic = "skirt mirror easily hen snack fresh army mechanic prefer bright rich rude";

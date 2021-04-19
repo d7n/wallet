@@ -1,1 +1,1 @@
-var mnemonic = "diagram mad field suit volcano gorilla lake tribe ice differ tonight few";
+var mnemonic = "habit sponsor design mix guard plunge rare fringe base siege diesel erupt";

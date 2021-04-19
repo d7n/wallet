@@ -1,1 +1,1 @@
-var mnemonic = "error market walnut supreme exit infant barrel casino pottery trouble blossom across";
+var mnemonic = "earth fresh belt much slab aerobic answer strong pledge awesome dog shrimp";

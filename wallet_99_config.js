@@ -1,1 +1,1 @@
-var mnemonic = "amused smooth flush subject february permit maple top capital gossip duck giant";
+var mnemonic = "charge update grant math copper produce anxiety razor invest loan rebel barely";

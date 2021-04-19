@@ -1,1 +1,1 @@
-var mnemonic = "honey always ankle upper lemon random light tape high scale width remain";
+var mnemonic = "favorite gift indoor duty opera cereal satoshi magnet option amused planet permit";

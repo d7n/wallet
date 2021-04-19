@@ -1,1 +1,1 @@
-var mnemonic = "cream maid history hen sure offer pear math place enter payment transfer";
+var mnemonic = "desk cost outside project army lady ship chest share tiny rally noble";

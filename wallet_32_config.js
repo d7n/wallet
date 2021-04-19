@@ -1,1 +1,1 @@
-var mnemonic = "cousin grab point gather glide execute draft matter hungry prefer buddy envelope";
+var mnemonic = "symbol easily critic usage quit dismiss ranch daughter start obtain diet cradle";

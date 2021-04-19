@@ -1,1 +1,1 @@
-var mnemonic = "hair title rifle short level life visit affair slight aisle window vague";
+var mnemonic = "detail spell bid lawn stereo type century blush turn middle defense giant";

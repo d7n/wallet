@@ -1,1 +1,1 @@
-var mnemonic = "problem execute uniform very issue blind ivory frequent force income tenant member";
+var mnemonic = "pill summer half bright snow pair offer student resemble rule certain final";

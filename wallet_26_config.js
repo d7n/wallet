@@ -1,1 +1,1 @@
-var mnemonic = "equip claim purse ugly priority help divert analyst again blossom crisp noble";
+var mnemonic = "struggle across quiz sense lab fine above elbow name sustain exist armor";

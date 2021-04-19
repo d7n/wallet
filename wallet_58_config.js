@@ -1,1 +1,1 @@
-var mnemonic = "flush wheat half rally brisk dynamic model vendor local trophy fiber want";
+var mnemonic = "arrive captain rhythm grant unknown breeze pluck fatigue glide else pelican dream";

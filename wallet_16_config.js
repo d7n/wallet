@@ -1,1 +1,1 @@
-var mnemonic = "slide flight lamp cotton aim horn merge over situate meadow stomach balcony";
+var mnemonic = "hammer device benefit concert nasty cruel bicycle print harsh brave frequent wolf";

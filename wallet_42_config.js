@@ -1,1 +1,1 @@
-var mnemonic = "expose margin fence flat trend goddess near limb fire original much diary";
+var mnemonic = "scrap antique flat evolve never often orange credit plate odor upper open";

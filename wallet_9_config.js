@@ -1,1 +1,1 @@
-var mnemonic = "chalk wing legal swim balcony farm tourist stove exhaust good predict clay";
+var mnemonic = "antique velvet trigger shift sound peace merit close agent song put ice";

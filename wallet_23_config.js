@@ -1,1 +1,1 @@
-var mnemonic = "color love napkin detail live broom leaf logic switch acoustic pig myself";
+var mnemonic = "peanut wisdom pottery put few retreat depart fancy night escape own rebuild";

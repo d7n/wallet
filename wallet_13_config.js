@@ -1,1 +1,1 @@
-var mnemonic = "stuff panel under session recycle two sail female ship bid orchard bridge";
+var mnemonic = "rigid twelve celery kick arrest bullet ketchup tube around wine cabin symptom";

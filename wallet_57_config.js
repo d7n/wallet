@@ -1,1 +1,1 @@
-var mnemonic = "arena few other venue immense quarter verb eight father cram vacuum annual";
+var mnemonic = "hover giant caught later skirt swing improve chuckle wheel slogan february purpose";

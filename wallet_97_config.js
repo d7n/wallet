@@ -1,1 +1,1 @@
-var mnemonic = "frog menu tone sweet ready will critic safe voice resource fantasy fault";
+var mnemonic = "dance feed often host fortune scrap identify author reform want want lizard";

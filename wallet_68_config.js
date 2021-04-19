@@ -1,1 +1,1 @@
-var mnemonic = "walnut over swear razor joy swamp media forward ready race syrup boil";
+var mnemonic = "galaxy pigeon differ come feel gun loyal clever pottery pipe maid attitude";

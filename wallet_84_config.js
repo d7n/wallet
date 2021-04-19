@@ -1,1 +1,1 @@
-var mnemonic = "argue bleak place luxury absurd plug assault match scrap elephant mom hole";
+var mnemonic = "arrive trip own valid submit kick suspect actor gym vicious blast fork";
