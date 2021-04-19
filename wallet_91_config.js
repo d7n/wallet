@@ -1,1 +1,1 @@
-var mnemonic = "depth eyebrow recall sport title hockey sadness post canvas fun flash make";
+var mnemonic = "wolf dad whip twelve magic flock media wife aunt side across client";

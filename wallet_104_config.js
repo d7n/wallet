@@ -1,1 +1,1 @@
-var mnemonic = "steak manage blast label fame fog tell surge when general box buzz";
+var mnemonic = "lucky neck day uniform reflect force key mean shop leg finger same";

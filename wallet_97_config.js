@@ -1,1 +1,1 @@
-var mnemonic = "predict above diagram someone mansion element hybrid fire hollow torch gallery diet";
+var mnemonic = "slender bullet magnet blame paper mind offer photo bid message track curtain";

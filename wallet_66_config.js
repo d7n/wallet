@@ -1,1 +1,1 @@
-var mnemonic = "shadow vehicle evoke borrow remove sponsor chicken opera scare forget road embark";
+var mnemonic = "ritual seed volume roof okay monkey turn pitch climb winter weapon oil";

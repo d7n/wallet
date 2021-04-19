@@ -1,1 +1,1 @@
-var mnemonic = "crisp fee design explain rail orphan era master spoil bachelor ramp mixed";
+var mnemonic = "science rate depth swamp recipe else mountain devote excess tide lounge apology";

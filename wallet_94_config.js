@@ -1,1 +1,1 @@
-var mnemonic = "gauge sight wall afraid clump run park become viable final click jazz";
+var mnemonic = "hurry lawsuit staff piece route spread bar aunt balcony soul fiscal host";

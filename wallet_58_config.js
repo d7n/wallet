@@ -1,1 +1,1 @@
-var mnemonic = "crane use tongue fee remain attend spatial once bronze rare series head";
+var mnemonic = "trend father spawn theory vanish law where short metal laundry school there";

@@ -1,1 +1,1 @@
-var mnemonic = "frost clay merge slice budget seek soccer zoo when magnet giggle mind";
+var mnemonic = "pink squeeze sauce give shaft smart insect guilt normal deal audit glove";

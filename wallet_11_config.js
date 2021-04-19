@@ -1,1 +1,1 @@
-var mnemonic = "lunar edge taxi fatal filter slot surge clerk fog area unable chef";
+var mnemonic = "trophy gorilla soup ship rural tobacco trick kid tower industry solid narrow";

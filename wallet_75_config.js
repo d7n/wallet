@@ -1,1 +1,1 @@
-var mnemonic = "neglect fluid evoke junk mass spy anchor nominee point menu rule meat";
+var mnemonic = "game ask ancient gentle snap nerve ancient add fury pledge street post";

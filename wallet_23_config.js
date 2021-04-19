@@ -1,1 +1,1 @@
-var mnemonic = "thunder envelope curve odor defense note page soccer desert join spin perfect";
+var mnemonic = "air live leave vote bid alcohol remove egg flat tent tortoise dose";

@@ -1,1 +1,1 @@
-var mnemonic = "drama option risk find loyal garage bubble burst picture copy cat palace";
+var mnemonic = "seminar pause patrol away peasant bitter fit raven mistake coyote valid six";

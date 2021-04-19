@@ -1,1 +1,1 @@
-var mnemonic = "noble sorry point bind drastic arrange stand jungle option lawn draft soup";
+var mnemonic = "island present august alter swift frog tourist fall gym finger robust coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "assault hover impact engage argue sing pupil poverty holiday injury coin country";
+var mnemonic = "material gift home energy quantum smart fantasy entry design license glide accident";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid bonus later power crime credit way random color warm absent dog";
+var mnemonic = "fade glove aim foot fiction doll picture august region island odor solar";

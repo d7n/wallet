@@ -1,1 +1,1 @@
-var mnemonic = "novel public detail law another culture such require palace away manual grant";
+var mnemonic = "vessel settle roof vacuum immense drastic rude mask rebel genre rich radar";

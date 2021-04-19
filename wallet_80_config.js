@@ -1,1 +1,1 @@
-var mnemonic = "myth easy seed print basic pizza wreck dragon must host proud uncover";
+var mnemonic = "market whisper naive harvest wet bulk meat rough lumber frown fury adult";

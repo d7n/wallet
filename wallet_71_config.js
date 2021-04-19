@@ -1,1 +1,1 @@
-var mnemonic = "addict foam latin quit across amateur journey must balance faint draft secret";
+var mnemonic = "ginger gadget olympic about shock sauce enforce staff sleep minute escape vacuum";

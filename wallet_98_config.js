@@ -1,1 +1,1 @@
-var mnemonic = "pulse gym weasel mirror planet fly grid vicious panic truly old soon";
+var mnemonic = "cinnamon town dream error enlist fade north tumble exile general maid melody";

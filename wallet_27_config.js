@@ -1,1 +1,1 @@
-var mnemonic = "chair universe nature gasp open timber inspire cart away wink universe false";
+var mnemonic = "close loan arrow play essay phrase word man pond cannon scatter negative";

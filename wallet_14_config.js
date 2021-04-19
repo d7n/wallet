@@ -1,1 +1,1 @@
-var mnemonic = "device sail avoid essay skirt absorb require virtual know choice weekend convince";
+var mnemonic = "island knife recipe arch reduce tree night toast spatial move cereal private";

@@ -1,1 +1,1 @@
-var mnemonic = "deal action oblige quality never wild hood excite supply eternal phone cherry";
+var mnemonic = "depend forum garlic gadget kitchen mixed swear blast innocent fitness penalty wonder";

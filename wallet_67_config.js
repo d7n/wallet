@@ -1,1 +1,1 @@
-var mnemonic = "issue endless uniform journey ahead veteran scan carry blossom drama shuffle obey";
+var mnemonic = "explain proud salad film leopard crowd speed seek section mixed degree interest";

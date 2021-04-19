@@ -1,1 +1,1 @@
-var mnemonic = "belt myself naive side labor wash prize outside index clinic silent urge";
+var mnemonic = "effort humor between april attack fine perfect wine crouch man mosquito inherit";

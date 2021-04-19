@@ -1,1 +1,1 @@
-var mnemonic = "motor member flash matrix medal galaxy unusual predict energy coffee arm talk";
+var mnemonic = "foil under movie settle hedgehog leisure scissors puzzle reflect pass cover kangaroo";

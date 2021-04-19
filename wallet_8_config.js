@@ -1,1 +1,1 @@
-var mnemonic = "scrap mountain normal noble spy peasant bubble expose castle equal afford beyond";
+var mnemonic = "match valve hire occur detail wide spy job ignore goddess assist stick";

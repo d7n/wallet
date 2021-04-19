@@ -1,1 +1,1 @@
-var mnemonic = "captain husband valve shine alter hazard glimpse amateur disease robot pony jeans";
+var mnemonic = "crunch orbit dial index can become coin reward critic cash habit topic";

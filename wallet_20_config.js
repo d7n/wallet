@@ -1,1 +1,1 @@
-var mnemonic = "chest choice coral wash protect confirm silver margin message weasel trend foster";
+var mnemonic = "extra safe bar walnut vital fatal lucky limit obscure ocean deposit foster";

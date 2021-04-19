@@ -1,1 +1,1 @@
-var mnemonic = "ensure asthma group radar jacket credit deny soul damage mercy cruel blood";
+var mnemonic = "west scene crater prepare luggage arrive brown member spell atom album ensure";

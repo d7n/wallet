@@ -1,1 +1,1 @@
-var mnemonic = "brass trumpet kangaroo winner boy fever debate high result coil hover unit";
+var mnemonic = "carpet later intact control prevent vivid horn van giraffe rifle elbow usual";

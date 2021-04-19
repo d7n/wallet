@@ -1,1 +1,1 @@
-var mnemonic = "trial much hair bracket certain wasp apology put fresh icon layer embark";
+var mnemonic = "tiny manual wolf success simple tip pause hobby confirm hybrid soccer fix";

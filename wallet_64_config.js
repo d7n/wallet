@@ -1,1 +1,1 @@
-var mnemonic = "salute gold reopen column shoe giggle govern label staff federal original quit";
+var mnemonic = "near city island series legal curve wrong bracket input just like celery";

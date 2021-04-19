@@ -1,1 +1,1 @@
-var mnemonic = "also divorce sadness require test tool save ocean usual segment fan digital";
+var mnemonic = "august pair member toilet episode scale around source income drink trend sibling";

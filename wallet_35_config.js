@@ -1,1 +1,1 @@
-var mnemonic = "fossil chicken tray asthma across junior expand process mind manage orient lesson";
+var mnemonic = "ribbon wife eternal opinion comfort crazy retreat topple coconut radar spoil novel";

@@ -1,1 +1,1 @@
-var mnemonic = "wave slush income boring title world demise festival indicate entire neglect stock";
+var mnemonic = "system jazz option mother pulp leave duck stamp pig cake dawn carpet";

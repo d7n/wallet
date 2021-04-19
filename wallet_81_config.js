@@ -1,1 +1,1 @@
-var mnemonic = "uphold off dial identify appear arrest obey rare inspire oak law physical";
+var mnemonic = "next curious cattle example tumble owner dice actress claim allow chase tent";

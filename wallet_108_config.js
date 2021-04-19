@@ -1,1 +1,1 @@
-var mnemonic = "collect hint nest improve comic catalog fit ocean inflict staff garbage behind";
+var mnemonic = "organ venue enhance target awkward now moon high reflect energy doctor easy";

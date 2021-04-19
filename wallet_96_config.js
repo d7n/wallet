@@ -1,1 +1,1 @@
-var mnemonic = "turkey copy rifle ostrich sail toilet gym small indoor ramp spring private";
+var mnemonic = "mushroom tool smoke cliff impulse protect autumn water shed curve rigid woman";

@@ -1,1 +1,1 @@
-var mnemonic = "valid dynamic bind mix brother pen concert hover library favorite review normal";
+var mnemonic = "arctic quarter detail gauge bundle jaguar stage demise cluster spread discover absurd";

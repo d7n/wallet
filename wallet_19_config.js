@@ -1,1 +1,1 @@
-var mnemonic = "bright genuine office ritual merry wood road forget empty still benefit topple";
+var mnemonic = "peace cloud state garbage arm sketch whisper palm pear tilt bag violin";

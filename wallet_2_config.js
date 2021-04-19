@@ -1,1 +1,1 @@
-var mnemonic = "lion slab broccoli monitor filter gift topple moment robot spider gain coach";
+var mnemonic = "choose glide mouse connect laugh option cage scissors burger shed exhaust possible";

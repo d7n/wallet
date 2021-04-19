@@ -1,1 +1,1 @@
-var mnemonic = "reward hair detect knife situate remove cotton echo donate cross garage disease";
+var mnemonic = "pill anxiety east despair hill original march bulb magnet brave road saddle";

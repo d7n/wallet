@@ -1,1 +1,1 @@
-var mnemonic = "glimpse solid favorite monitor patch marble nephew rent rebel champion clever acoustic";
+var mnemonic = "height ketchup attend equal surprise whisper fold divert divide kick cake wise";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle prepare release mobile zebra clever tape melody penalty borrow brick present";
+var mnemonic = "couple cancel sauce hollow crazy mutual bargain fun husband hockey visual engage";

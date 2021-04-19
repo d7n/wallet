@@ -1,1 +1,1 @@
-var mnemonic = "company couple fly wrap use ride gift square warm vendor bargain rigid";
+var mnemonic = "keen walk stereo rhythm oblige stable keep safe trend favorite logic canal";

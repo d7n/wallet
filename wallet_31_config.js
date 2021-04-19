@@ -1,1 +1,1 @@
-var mnemonic = "vocal outside buzz unlock smooth milk output course domain verify ketchup legal";
+var mnemonic = "target winner aisle acid end picture kangaroo tattoo start river wool assume";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn human engage pepper fan debate hip valley list village monkey dizzy";
+var mnemonic = "exact mushroom brown jazz magic interest concert pottery woman document arctic cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "boost tiny rude market senior say height deliver rent east narrow galaxy";
+var mnemonic = "lamp choose pond dust bunker rich shy popular smart rare liquid dumb";

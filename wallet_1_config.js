@@ -1,1 +1,1 @@
-var mnemonic = "flight jar forget honey broken gentle forest sick trial friend undo resemble";
+var mnemonic = "diesel minute calm practice hen member accuse then gown embrace verb side";

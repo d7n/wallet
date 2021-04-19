@@ -1,1 +1,1 @@
-var mnemonic = "decade add celery bargain appear half will enough shallow fitness insect broken";
+var mnemonic = "current come toe reveal aisle antique ceiling upset emerge trim gift pony";

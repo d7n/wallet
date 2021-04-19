@@ -1,1 +1,1 @@
-var mnemonic = "urge lizard fish multiply dilemma merry ticket trend kiss flat kiwi bean";
+var mnemonic = "brand pink husband square sell spare galaxy include kick supply spoil danger";

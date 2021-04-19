@@ -1,1 +1,1 @@
-var mnemonic = "require sign escape alpha cattle bullet pipe liar inquiry attend depend model";
+var mnemonic = "bullet tomorrow chimney enemy price aunt rule parent retire defense tobacco pottery";

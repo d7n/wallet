@@ -1,1 +1,1 @@
-var mnemonic = "void item super fresh garage invest will girl repair funny report asset";
+var mnemonic = "bus wing message cargo that indicate member dizzy increase answer enhance marine";

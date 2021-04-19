@@ -1,1 +1,1 @@
-var mnemonic = "flight narrow turtle any two brush account skate ozone hub flat cargo";
+var mnemonic = "cheese skill sand seat pact artist patient ritual focus work tiger jungle";

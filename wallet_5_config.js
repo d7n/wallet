@@ -1,1 +1,1 @@
-var mnemonic = "apple cargo idea obey sport pudding rent impulse paddle involve benefit decorate";
+var mnemonic = "movie screen story rally key wool silver fit chicken drift awkward miss";

@@ -1,1 +1,1 @@
-var mnemonic = "snap outdoor cook gap near cool dragon dune hope verify mirror injury";
+var mnemonic = "swarm old churn finger alley issue damage brain alter hover second choice";

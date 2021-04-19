@@ -1,1 +1,1 @@
-var mnemonic = "fiction want grit sketch cook kitten faint soft retreat cream you glad";
+var mnemonic = "belt capital remove shaft brave divide play abandon ensure route penalty blade";

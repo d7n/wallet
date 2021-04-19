@@ -1,1 +1,1 @@
-var mnemonic = "table oxygen barely dress this fancy camera lecture gallery sentence drum lottery";
+var mnemonic = "version provide depth damage kingdom mule unit witness couch april turkey defense";

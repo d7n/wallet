@@ -1,1 +1,1 @@
-var mnemonic = "such adult best crowd situate hair donor grape foil speak extra oyster";
+var mnemonic = "catalog evidence convince nothing funny fold lizard erode oil secret craft pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing author huge thing any color impulse stove when song mountain umbrella";
+var mnemonic = "fox fog front carbon cycle draw fragile blouse hawk year tongue achieve";

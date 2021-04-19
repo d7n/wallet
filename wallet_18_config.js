@@ -1,1 +1,1 @@
-var mnemonic = "coach glimpse left fancy effort blanket match member other evoke husband secret";
+var mnemonic = "valve educate violin father high glide vast ten rather dose viable estate";

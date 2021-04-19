@@ -1,1 +1,1 @@
-var mnemonic = "find repair scan camp worry donkey crazy hurdle pool shift mutual confirm";
+var mnemonic = "share silly ten swamp wrong expire kingdom diamond priority nation pen habit";

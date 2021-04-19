@@ -1,1 +1,1 @@
-var mnemonic = "treat outdoor desert shrimp access plunge flock rose pencil ugly blind baby";
+var mnemonic = "side shoulder lawsuit sketch behave core distance hello buddy stuff urge script";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle spy blur neutral region seminar matrix mosquito rain plastic mix mass";
+var mnemonic = "patient divert swallow struggle begin token delay ancient submit arena skirt tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran grocery now cup apart boat tiger crunch flip option sail network";
+var mnemonic = "hole unknown attack attend harbor chair room gallery spell fatigue inside mystery";

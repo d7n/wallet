@@ -1,1 +1,1 @@
-var mnemonic = "decade stock pumpkin hazard paddle more dash approve ranch fat intact can";
+var mnemonic = "agree domain save edit design side cave voice race mom hat gun";

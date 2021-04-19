@@ -1,1 +1,1 @@
-var mnemonic = "custom cruise voice wide index inhale patch kind century expect asset laundry";
+var mnemonic = "three purse magic use label scale text nurse drum tag pill pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "august speak bread term horror job amount space crane spawn visual unhappy";
+var mnemonic = "dawn pudding ready tone lunch name visit weasel side law gate power";

@@ -1,1 +1,1 @@
-var mnemonic = "pull minute review field rebel media cram confirm moral spy neither special";
+var mnemonic = "frame profit daring lonely wealth exact cage case post nut melt job";

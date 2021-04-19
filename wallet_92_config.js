@@ -1,1 +1,1 @@
-var mnemonic = "year rain shield woman reform hour leisure dinner fox coral absurd maple";
+var mnemonic = "dawn lobster rabbit kiwi dream deposit chef elephant acquire noble music toss";

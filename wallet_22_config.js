@@ -1,1 +1,1 @@
-var mnemonic = "master heavy mimic again hotel horror horse health language across retire high";
+var mnemonic = "crucial round gossip canyon struggle truck calm trust lock math imitate pottery";

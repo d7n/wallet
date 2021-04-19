@@ -1,1 +1,1 @@
-var mnemonic = "coil outer snack panda amateur apple jewel size range size smile trophy";
+var mnemonic = "credit mutual chronic defy teach month party visa width foster truth wear";

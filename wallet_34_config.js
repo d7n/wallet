@@ -1,1 +1,1 @@
-var mnemonic = "thumb imitate stomach announce pool deposit refuse wonder thought ensure maple drill";
+var mnemonic = "clock drip space opinion misery amateur verify include shell inherit gauge lift";

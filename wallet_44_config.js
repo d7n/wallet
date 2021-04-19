@@ -1,1 +1,1 @@
-var mnemonic = "where cat crucial cable notice night small poet hunt music snack vague";
+var mnemonic = "define frost chuckle affair soda auto asthma wool rule decline uniform love";

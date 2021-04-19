@@ -1,1 +1,1 @@
-var mnemonic = "hospital case world demand october puzzle shine medal there roof sign hidden";
+var mnemonic = "pen order carpet nose range dilemma nut load skill elephant useful genuine";

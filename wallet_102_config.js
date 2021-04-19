@@ -1,1 +1,1 @@
-var mnemonic = "raw young security surface glance pig foil timber fix film jungle pear";
+var mnemonic = "biology soft metal resemble describe shove mesh that spread segment wagon express";

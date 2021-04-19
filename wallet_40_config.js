@@ -1,1 +1,1 @@
-var mnemonic = "hobby bracket web symptom sight purchase ribbon stumble shuffle amateur bicycle auction";
+var mnemonic = "repair equip fine exchange mountain insect stove science boil sunset load half";

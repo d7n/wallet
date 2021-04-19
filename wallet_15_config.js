@@ -1,1 +1,1 @@
-var mnemonic = "crumble valid tomato false sister eight sibling awkward bargain slice sphere nuclear";
+var mnemonic = "catalog eyebrow attitude erase chat tissue similar next gas draft oyster illegal";

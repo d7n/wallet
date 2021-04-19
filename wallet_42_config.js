@@ -1,1 +1,1 @@
-var mnemonic = "anchor undo property section joy kangaroo fuel milk resource label purse enable";
+var mnemonic = "island minor clump check patrol earn spot quick sun wait method narrow";

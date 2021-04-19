@@ -1,1 +1,1 @@
-var mnemonic = "cry there wear nation movie alone flight company depth total acoustic middle";
+var mnemonic = "earn hurdle topic version glide begin melt rocket beyond wish unfold select";

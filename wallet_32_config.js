@@ -1,1 +1,1 @@
-var mnemonic = "length glimpse brush assist shock settle weapon wheat rubber situate ivory useful";
+var mnemonic = "bird document defy pigeon visit abstract glove tired squirrel harvest matrix negative";

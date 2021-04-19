@@ -1,1 +1,1 @@
-var mnemonic = "fog desert boil focus shaft peasant peace post top quit crack sphere";
+var mnemonic = "soldier order ribbon roof output aspect hour reunion pilot young labor pilot";

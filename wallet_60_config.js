@@ -1,1 +1,1 @@
-var mnemonic = "trouble educate embrace recycle bone clay panther observe little brief impose fancy";
+var mnemonic = "fever produce receive hair all curious give sudden lion town gain release";

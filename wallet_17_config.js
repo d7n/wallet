@@ -1,1 +1,1 @@
-var mnemonic = "spider coconut oak unveil major sketch degree boy actor rib luggage close";
+var mnemonic = "radio room odor twice favorite physical hire fish rely apart road keep";

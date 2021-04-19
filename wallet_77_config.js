@@ -1,1 +1,1 @@
-var mnemonic = "broken inherit dinner improve chair control valid memory royal carry tone flavor";
+var mnemonic = "drill usual awesome act panic champion verify display raven flip asset loop";

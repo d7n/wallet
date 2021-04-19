@@ -1,1 +1,1 @@
-var mnemonic = "frequent mention quarter napkin loop velvet enforce reward demise message connect solution";
+var mnemonic = "math brand scan kit idea lucky expire hunt hospital unable news quote";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle stereo scatter legend fit nominee response wing mountain bracket fine rely";
+var mnemonic = "thrive pyramid dignity about runway secret nose maple slender cram fly ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "top matter among top enforce vivid spot proud report begin apology flat";
+var mnemonic = "dawn raven scout welcome cheese gain glance uphold adult stumble amazing zone";

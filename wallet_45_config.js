@@ -1,1 +1,1 @@
-var mnemonic = "match eagle sail slight craft call ask win boss grief thunder guard";
+var mnemonic = "cheese napkin smart side rely author tiny rug uncle intact burden require";

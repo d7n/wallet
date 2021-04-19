@@ -1,1 +1,1 @@
-var mnemonic = "crash camp grace friend change deal submit artwork remember pitch hope siren";
+var mnemonic = "benefit blast radio asthma wire define behind strategy stuff rookie uphold crater";

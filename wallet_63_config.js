@@ -1,1 +1,1 @@
-var mnemonic = "medal vivid bag agent increase damage pool aerobic better entire april planet";
+var mnemonic = "agree crawl bounce match guide reopen wide wrestle doll labor isolate display";
