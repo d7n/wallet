@@ -1,1 +1,1 @@
-var mnemonic = "oblige pipe that vote foot turtle hill van daring blood injury hip";
+var mnemonic = "tornado point color voice need hen best kitten claw tone bus cycle";

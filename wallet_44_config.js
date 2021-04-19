@@ -1,1 +1,1 @@
-var mnemonic = "omit obey price try dish talk skull gloom drop shield hip husband";
+var mnemonic = "balcony trick aerobic put clock coyote faint youth era divorce whip drill";

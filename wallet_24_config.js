@@ -1,1 +1,1 @@
-var mnemonic = "wise trumpet bulb rubber huge rapid artwork depart van voice lab novel";
+var mnemonic = "toddler east jealous entry genius menu enemy keen vacuum crop solid panic";

@@ -1,1 +1,1 @@
-var mnemonic = "piano sustain garlic grape own nice mixed indoor math enroll soda another";
+var mnemonic = "fury glance fault call height cotton confirm husband swarm saddle turkey soon";

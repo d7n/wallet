@@ -1,1 +1,1 @@
-var mnemonic = "north wreck scheme jar range ordinary engine surge lion other library describe";
+var mnemonic = "unaware biology resist best estate rifle moral oval royal search dish kidney";

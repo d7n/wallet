@@ -1,1 +1,1 @@
-var mnemonic = "dinner word peanut cool fashion city spare usual suffer prepare daughter immune";
+var mnemonic = "exhaust brain angle shed cool kingdom tag truck atom boil cinnamon mansion";

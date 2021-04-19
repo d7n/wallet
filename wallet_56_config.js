@@ -1,1 +1,1 @@
-var mnemonic = "time stumble disease wonder tower space force topple sunset hint bachelor elder";
+var mnemonic = "major wide work veteran enemy strategy hope allow hint cloth travel bronze";

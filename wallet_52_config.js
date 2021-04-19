@@ -1,1 +1,1 @@
-var mnemonic = "believe cause coconut limb mix chaos oven home legend answer swift slice";
+var mnemonic = "pepper laundry world soap business replace steak immune field grid heavy game";

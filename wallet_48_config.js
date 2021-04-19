@@ -1,1 +1,1 @@
-var mnemonic = "ivory clump october taxi tip maid grant wet safe gallery echo develop";
+var mnemonic = "grace three demise invite trade acoustic spy inherit build skill obvious ceiling";

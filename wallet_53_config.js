@@ -1,1 +1,1 @@
-var mnemonic = "rather sibling change double attract morning actor dry because gravity balance horn";
+var mnemonic = "rice dwarf blouse stuff afraid demand spread mandate bounce ceiling embody proud";

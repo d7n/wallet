@@ -1,1 +1,1 @@
-var mnemonic = "jazz remember genuine aisle benefit whisper cute original unknown treat head claw";
+var mnemonic = "session matter floor system evil dumb damp nest hunt isolate flag gossip";

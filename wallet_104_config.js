@@ -1,1 +1,1 @@
-var mnemonic = "vast rude tip emotion capital fortune three axis pottery roast twenty much";
+var mnemonic = "pretty weapon fortune stove arena machine voyage scrub boil donate estate already";

@@ -1,1 +1,1 @@
-var mnemonic = "country glove banana gorilla soccer february culture husband diet execute human meat";
+var mnemonic = "absurd before raw gift major daring water friend gift sick leave tiger";

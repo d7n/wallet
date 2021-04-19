@@ -1,1 +1,1 @@
-var mnemonic = "dirt uniform buzz worry main window hurdle cabbage primary occur ship ski";
+var mnemonic = "today dog idea elevator barrel pond fluid essence awful meadow judge expose";

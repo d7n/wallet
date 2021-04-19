@@ -1,1 +1,1 @@
-var mnemonic = "vendor wrong rebel swap reopen wish annual resist stone tourist ceiling live";
+var mnemonic = "ten orient escape own sunny injury hungry radio settle sword horror chaos";

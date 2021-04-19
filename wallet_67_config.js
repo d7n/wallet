@@ -1,1 +1,1 @@
-var mnemonic = "track eye survey marble age husband win faith old slight ridge dinner";
+var mnemonic = "fat toast humble theme laugh work park world toe average frown differ";

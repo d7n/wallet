@@ -1,1 +1,1 @@
-var mnemonic = "resist monkey nurse cactus enable february category hurt this tray stage have";
+var mnemonic = "face system leave project breeze fly swarm carry knee horror bright ethics";

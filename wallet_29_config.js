@@ -1,1 +1,1 @@
-var mnemonic = "govern duty actor car kitten clever machine velvet blur click cradle spider";
+var mnemonic = "chef twist liar cabbage game stove just wonder great save note practice";

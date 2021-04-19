@@ -1,1 +1,1 @@
-var mnemonic = "fury angry audit miracle roof weasel during chase miracle decide success hungry";
+var mnemonic = "skill total canyon action stamp drip wheat hero try amused unlock boring";

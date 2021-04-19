@@ -1,1 +1,1 @@
-var mnemonic = "found guitar help wink century school deal admit device sense impulse horror";
+var mnemonic = "valley multiply virus marble unknown motion regular cute rice rude absorb midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "motion visit spice region always obscure essay brass negative curve guide ball";
+var mnemonic = "local chuckle type dash arch wasp attitude gap sound area among enough";

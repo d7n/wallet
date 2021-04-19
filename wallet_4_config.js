@@ -1,1 +1,1 @@
-var mnemonic = "burden right tornado wish hospital attend release side jar hammer picnic high";
+var mnemonic = "surge hello balance guide transfer air dutch lunch prize because asset pottery";

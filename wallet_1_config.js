@@ -1,1 +1,1 @@
-var mnemonic = "cruel gun arch purity head increase post warm pistol typical first pitch";
+var mnemonic = "exercise coil hammer lava library slow damp foster cigar during lecture mix";

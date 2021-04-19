@@ -1,1 +1,1 @@
-var mnemonic = "august cake shuffle shock civil century scatter cushion wear federal edit monitor";
+var mnemonic = "put stamp mesh bronze absorb ride cube dawn zebra unfold blast toilet";

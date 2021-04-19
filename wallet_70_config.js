@@ -1,1 +1,1 @@
-var mnemonic = "road boil chaos fine plastic invest arrive sunny arrow open youth away";
+var mnemonic = "clock nurse shed mobile perfect pluck medal file disease kick angle develop";

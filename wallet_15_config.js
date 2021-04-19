@@ -1,1 +1,1 @@
-var mnemonic = "attract marble pause universe online live load drive boat wedding coach glove";
+var mnemonic = "tiny gentle pluck dune fold diesel medal bomb fringe merge glare sense";

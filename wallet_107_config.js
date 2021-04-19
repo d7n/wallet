@@ -1,1 +1,1 @@
-var mnemonic = "option orphan frozen arrange clarify garlic fruit small task certain shoot quality";
+var mnemonic = "mixture vicious rigid first agent execute pudding popular bless dune first defense";

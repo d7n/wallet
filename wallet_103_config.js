@@ -1,1 +1,1 @@
-var mnemonic = "object people accident believe parade wish label random distance place avocado wood";
+var mnemonic = "actual angry sadness problem attack dilemma thought picture arch parade indoor fault";

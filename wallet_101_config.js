@@ -1,1 +1,1 @@
-var mnemonic = "square jewel element issue twelve pill raccoon spoon rent fire web tragic";
+var mnemonic = "deliver swarm helmet obtain blood cloth panel liar claw cattle topple mutual";

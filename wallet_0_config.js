@@ -1,1 +1,1 @@
-var mnemonic = "crack west answer element arrow trend crazy found awake connect clutch junior";
+var mnemonic = "upgrade limb letter rescue convince relax town muffin case wing spell ill";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket level clip solid penalty play arrive neglect sure useful mandate learn";
+var mnemonic = "sketch furnace maze seek foam multiply cable sense begin hobby faith topic";

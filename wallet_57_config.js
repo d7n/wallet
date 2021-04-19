@@ -1,1 +1,1 @@
-var mnemonic = "mixture sight wheat mechanic soon ranch round sketch later jacket panda vintage";
+var mnemonic = "rain initial vibrant tired guilt crystal office hazard tragic prepare screen drive";

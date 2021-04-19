@@ -1,1 +1,1 @@
-var mnemonic = "obtain define deposit alien leg powder vicious guard lawsuit hurry friend coin";
+var mnemonic = "much indicate clarify walnut exercise front maze skate story finger step return";

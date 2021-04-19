@@ -1,1 +1,1 @@
-var mnemonic = "resemble ready elephant endorse best curve rough goose trust increase blame shadow";
+var mnemonic = "picture bulk mother manage tail session what abuse robot rigid size drift";

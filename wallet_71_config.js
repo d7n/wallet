@@ -1,1 +1,1 @@
-var mnemonic = "amount blouse call surround divide enter soap smoke bamboo acquire elegant bike";
+var mnemonic = "noodle use bulb shy elbow sunny please coyote install orbit shove fox";

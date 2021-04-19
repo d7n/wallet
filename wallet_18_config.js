@@ -1,1 +1,1 @@
-var mnemonic = "price upper quiz have trouble wave ill payment universe scorpion grain duck";
+var mnemonic = "island dress click party select tuna mesh enlist melt ice morning indicate";

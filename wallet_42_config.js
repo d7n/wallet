@@ -1,1 +1,1 @@
-var mnemonic = "agree cattle cause worry subject wheel follow diesel season ski submit pill";
+var mnemonic = "security wolf alcohol address praise electric wood trigger swarm advice barrel beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "cause beach real child ozone become nut choose interest buffalo clinic sound";
+var mnemonic = "rookie crack rare school flat paddle nice test ribbon dentist cool bacon";

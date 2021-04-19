@@ -1,1 +1,1 @@
-var mnemonic = "guitar twelve cash drum there off bulk lemon brass menu junk toss";
+var mnemonic = "dash trophy illegal budget parade cherry radio cream obscure coral curtain season";

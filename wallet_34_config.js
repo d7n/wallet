@@ -1,1 +1,1 @@
-var mnemonic = "panic forum treat someone bacon lawn defy pupil olympic sail rent dinner";
+var mnemonic = "way belt tell problem rib end major crack hobby wisdom spike kidney";

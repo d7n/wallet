@@ -1,1 +1,1 @@
-var mnemonic = "sadness equip talent audit glad purity produce diet wage also oil job";
+var mnemonic = "outdoor width negative scrap rigid vocal above chair modify race country cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "collect cage control all yellow also junior detect ignore joke manual crisp";
+var mnemonic = "ignore nut kingdom ranch pelican common depart shuffle slot drip almost surprise";

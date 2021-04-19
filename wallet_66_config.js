@@ -1,1 +1,1 @@
-var mnemonic = "tilt chaos file trip raven region make burst disorder fossil grace sudden";
+var mnemonic = "again park immense engage act liberty alpha voyage roast loud cost wear";

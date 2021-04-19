@@ -1,1 +1,1 @@
-var mnemonic = "token game husband gown object glass pencil ocean curve claw dinner profit";
+var mnemonic = "coral text buzz vendor trip erosion suffer carry fiber organ refuse client";

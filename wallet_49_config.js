@@ -1,1 +1,1 @@
-var mnemonic = "what prefer fish wheat coconut nothing erupt provide rose impose pool sauce";
+var mnemonic = "slow item actual target hover regular tape raw fade camp primary destroy";

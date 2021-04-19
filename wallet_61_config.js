@@ -1,1 +1,1 @@
-var mnemonic = "grab digital cupboard evidence daughter muscle trim fury whale before amount hero";
+var mnemonic = "hole echo syrup reason outside test hover train quarter student filter reduce";

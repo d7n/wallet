@@ -1,1 +1,1 @@
-var mnemonic = "immense name lazy place mistake fancy kick roof blind until dance sibling";
+var mnemonic = "oyster extend knife theory mixture tent record speak surface tired consider upset";

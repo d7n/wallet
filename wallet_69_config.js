@@ -1,1 +1,1 @@
-var mnemonic = "zero cargo proof seminar above apple aerobic ignore wrong industry together torch";
+var mnemonic = "toss enlist snow hollow behave trophy much treat ranch egg acid enact";

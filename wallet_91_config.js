@@ -1,1 +1,1 @@
-var mnemonic = "cruise admit ship reject crowd arrange reflect area width blade essay client";
+var mnemonic = "soft capable alien interest blush crystal round crumble smile reopen session detail";

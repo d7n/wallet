@@ -1,1 +1,1 @@
-var mnemonic = "warm pear used damp used dinner pact shuffle vacuum wrist purpose claw";
+var mnemonic = "speak surface lunar pigeon velvet increase crumble dog guess else reveal absent";

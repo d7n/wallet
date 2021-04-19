@@ -1,1 +1,1 @@
-var mnemonic = "found easy foster slide primary disease lounge mechanic stem civil exile help";
+var mnemonic = "scorpion unique afford supreme reduce jealous swift cruel time weekend during olive";

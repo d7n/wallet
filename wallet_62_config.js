@@ -1,1 +1,1 @@
-var mnemonic = "absent inch price panther entire file broken field cliff proof degree response";
+var mnemonic = "clever agree syrup green million physical eight tobacco boring come post tip";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol spatial joke segment shoot order nature beef hawk recipe photo arrow";
+var mnemonic = "narrow dice unknown six transfer drill mercy emotion away little evolve drum";

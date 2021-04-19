@@ -1,1 +1,1 @@
-var mnemonic = "imitate fiber width ginger response bar barrel tennis breeze scout swift response";
+var mnemonic = "excess trumpet ten type card degree test receive globe labor pact impose";

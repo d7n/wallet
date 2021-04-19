@@ -1,1 +1,1 @@
-var mnemonic = "bonus promote donor hidden opera define goat arrest coconut point reveal rebuild";
+var mnemonic = "calm double empty mass mixed roast noodle sign injury mesh dial wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "combine bid state radar shed like push cheap win distance shrug object";
+var mnemonic = "bird indicate rough scatter sudden divorce gap kidney pig donkey winner civil";

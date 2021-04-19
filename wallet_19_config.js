@@ -1,1 +1,1 @@
-var mnemonic = "law talent calm weird dress excuse struggle actual recall indicate loop credit";
+var mnemonic = "update outdoor exact subway coral weasel survey average cute cry thank pair";

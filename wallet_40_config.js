@@ -1,1 +1,1 @@
-var mnemonic = "foster tattoo express always they dentist where dial squirrel inflict flower habit";
+var mnemonic = "divert snack extend health umbrella later receive like forest usage neutral fantasy";

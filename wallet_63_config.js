@@ -1,1 +1,1 @@
-var mnemonic = "trigger acoustic absent pizza ability tunnel atom sketch denial answer stove mouse";
+var mnemonic = "master radar guide witness february comfort deny truck melody dinosaur return enlist";

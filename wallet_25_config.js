@@ -1,1 +1,1 @@
-var mnemonic = "august doll escape actor prison mixture water update silly purse vessel pet";
+var mnemonic = "slogan wedding domain system other frown hurry brick blanket gentle year toss";

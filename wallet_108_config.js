@@ -1,1 +1,1 @@
-var mnemonic = "path verify slender oven bleak dose amount case fix van poverty floor";
+var mnemonic = "chief mercy stadium twice stamp install yellow foot spoil public butter input";

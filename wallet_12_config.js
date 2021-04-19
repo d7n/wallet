@@ -1,1 +1,1 @@
-var mnemonic = "soup tenant child bless bullet october entire night shell sort lens dumb";
+var mnemonic = "favorite will ripple elite congress axis pencil gown razor measure deny rally";

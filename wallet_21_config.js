@@ -1,1 +1,1 @@
-var mnemonic = "number badge pole salute orient layer need sausage unknown expect sign mountain";
+var mnemonic = "jealous ability loan office athlete sorry insect license tissue goose boil kidney";

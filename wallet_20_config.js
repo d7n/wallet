@@ -1,1 +1,1 @@
-var mnemonic = "crack staff soon illness like filter able ozone strike fade chronic bracket";
+var mnemonic = "shadow oyster movie earth remove common stand smoke galaxy elevator club wet";

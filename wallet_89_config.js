@@ -1,1 +1,1 @@
-var mnemonic = "thing nice force cave cart diesel earth carry suspect actual trigger wrong";
+var mnemonic = "creek motion milk nature merry damage drama mom share recipe skill diary";

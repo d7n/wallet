@@ -1,1 +1,1 @@
-var mnemonic = "pride drastic grid tackle say provide connect prosper else trigger giraffe sting";
+var mnemonic = "promote envelope bulb liquid local awake polar blur result grit entire banana";

@@ -1,1 +1,1 @@
-var mnemonic = "promote lesson zero abuse case now hockey impose rigid object weather trim";
+var mnemonic = "addict dentist crew rule school rigid alien chicken crucial year general input";

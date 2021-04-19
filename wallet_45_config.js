@@ -1,1 +1,1 @@
-var mnemonic = "twice spray link crane smile tongue print beef tobacco slab hole jar";
+var mnemonic = "hollow share eye junk spoil keep run flavor invest brown core cost";

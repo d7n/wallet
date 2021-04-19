@@ -1,1 +1,1 @@
-var mnemonic = "own limb cradle sustain satisfy fine control glad error walk venture credit";
+var mnemonic = "sport gesture bacon meadow door puzzle family siege notice error either spell";

@@ -1,1 +1,1 @@
-var mnemonic = "method couch viable matrix unfair lake mouse thumb picnic sting army addict";
+var mnemonic = "device street expose tobacco naive finish fork legal water finger give pen";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe shoulder leader tip employ daughter ladder diesel mad juice round retreat";
+var mnemonic = "plastic ginger feature heart rare entry brown isolate mean legal picture winner";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance seat van gather gorilla couch dial blame surprise mushroom garage erase";
+var mnemonic = "decline awake gift nature title just ship crucial phrase own divert myth";

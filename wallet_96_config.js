@@ -1,1 +1,1 @@
-var mnemonic = "gap large reunion random hello diamond rapid result pretty matrix exhaust control";
+var mnemonic = "obvious system toast nice job ignore purpose angry online burst shine stone";

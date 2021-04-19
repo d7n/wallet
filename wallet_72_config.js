@@ -1,1 +1,1 @@
-var mnemonic = "situate purpose leg faith organ fire possible often smart month lucky there";
+var mnemonic = "adapt reason radio agent kangaroo wish humor south inform zero thing shop";

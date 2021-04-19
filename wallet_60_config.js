@@ -1,1 +1,1 @@
-var mnemonic = "shoot sustain melt link soup weird glad then menu negative powder donate";
+var mnemonic = "afford reason vintage company over inherit soccer much peace ripple rate spread";

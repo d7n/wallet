@@ -1,1 +1,1 @@
-var mnemonic = "dial sound fit rug snake barely pen suit tuition chest brass patient";
+var mnemonic = "garage rice spend endless recycle prepare height dragon love core illegal genuine";

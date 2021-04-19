@@ -1,1 +1,1 @@
-var mnemonic = "myth artefact sorry oil cart cloth trip engage aware timber kit muffin";
+var mnemonic = "relax add clerk medal kidney lawn rate thought grape lady ethics rule";

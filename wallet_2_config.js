@@ -1,1 +1,1 @@
-var mnemonic = "able casual among field scout text science emerge link palace street call";
+var mnemonic = "panic pottery mercy puzzle consider breeze powder tooth seminar duck dilemma card";

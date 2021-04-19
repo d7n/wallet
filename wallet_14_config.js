@@ -1,1 +1,1 @@
-var mnemonic = "hobby close frost canoe flight input smile master thank decrease horror option";
+var mnemonic = "casino join current attend envelope depart sphere island obtain clever question pear";

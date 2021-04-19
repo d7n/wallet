@@ -1,1 +1,1 @@
-var mnemonic = "shoulder crucial clutch ahead relief shy aspect volume arrive auction local myth";
+var mnemonic = "sun arrange turn copy lunar myth race rigid vivid version source fan";

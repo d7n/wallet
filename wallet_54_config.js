@@ -1,1 +1,1 @@
-var mnemonic = "pride random dial minute outside novel trip favorite sibling similar proof candy";
+var mnemonic = "toss despair alone evil subway depth gun slice stage flag fold achieve";

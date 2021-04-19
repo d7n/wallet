@@ -1,1 +1,1 @@
-var mnemonic = "amused anchor slice tired walk abandon post rapid bulk camp sausage blossom";
+var mnemonic = "ice odor give slab badge picture security truck major term describe weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "box charge melody reduce attack creek green better sausage enrich rule behave";
+var mnemonic = "casino chef ridge possible double tragic genius shadow when track clock wait";

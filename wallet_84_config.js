@@ -1,1 +1,1 @@
-var mnemonic = "heavy police cradle patch run pony rent monster warrior test venue mixture";
+var mnemonic = "wash boost lyrics address coconut club candy choose drip mirror wrong duty";

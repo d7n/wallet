@@ -1,1 +1,1 @@
-var mnemonic = "satoshi runway island gather blast ticket scissors fury twenty case castle web";
+var mnemonic = "sudden quality amateur right ethics float armed able drip timber refuse control";

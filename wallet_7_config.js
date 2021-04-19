@@ -1,1 +1,1 @@
-var mnemonic = "harsh rally marriage hello slender alien panic expire jaguar dilemma narrow vapor";
+var mnemonic = "stem knife medal seminar lottery pulse catalog favorite unable tower tooth prevent";

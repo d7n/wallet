@@ -1,1 +1,1 @@
-var mnemonic = "sentence horn brush library captain obscure route topple purpose thumb you refuse";
+var mnemonic = "fatal truck story enough stock inmate mountain super submit exclude water scrub";

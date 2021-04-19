@@ -1,1 +1,1 @@
-var mnemonic = "depend evolve giraffe vanish logic person fatal enroll panda answer ball remove";
+var mnemonic = "twist lazy marble puppy torch soup gun round involve admit nurse recycle";

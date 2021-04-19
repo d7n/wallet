@@ -1,1 +1,1 @@
-var mnemonic = "polar hair also top tuna hundred corn inhale jazz erosion burger garment";
+var mnemonic = "ring empower champion toddler foot elder girl follow citizen media retire again";

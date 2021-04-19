@@ -1,1 +1,1 @@
-var mnemonic = "fly camera silly source jar rely noodle odor witness gap zebra unknown";
+var mnemonic = "index current eternal duck game six shrug vague license anger invest kidney";

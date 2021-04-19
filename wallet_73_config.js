@@ -1,1 +1,1 @@
-var mnemonic = "view planet inside genre outdoor almost thumb critic fragile expect shed glass";
+var mnemonic = "faint empty trial rhythm domain dinner disagree blue traffic hub spare dress";

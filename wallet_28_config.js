@@ -1,1 +1,1 @@
-var mnemonic = "lift crazy cousin quiz pet super walnut pepper adapt delay blossom assault";
+var mnemonic = "human unable pause shell case exchange gain there clown pet quantum omit";

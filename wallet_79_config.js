@@ -1,1 +1,1 @@
-var mnemonic = "knock such kitchen apple theme exotic machine tide figure priority attend tooth";
+var mnemonic = "boost adapt express evil panda wire trap decade future farm stage appear";
