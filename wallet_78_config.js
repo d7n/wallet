@@ -1,1 +1,1 @@
-var mnemonic = "outdoor exercise pear bounce security chunk crazy cliff dumb desk myth remain";
+var mnemonic = "family inflict joke pizza debate biology provide habit glove will unlock usual";

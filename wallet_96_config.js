@@ -1,1 +1,1 @@
-var mnemonic = "shallow feel stereo try struggle couch modify quit wheel maximum already goddess";
+var mnemonic = "wrist joke kingdom blast exact stairs insane label always mad toddler provide";

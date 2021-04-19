@@ -1,1 +1,1 @@
-var mnemonic = "comfort slight page seat couple ginger ankle wage awful keep maid cover";
+var mnemonic = "right remember tourist season act maid injury suit output much just mammal";

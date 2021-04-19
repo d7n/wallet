@@ -1,1 +1,1 @@
-var mnemonic = "pulse wonder sea profit lucky whip silk tobacco noodle cup shed jazz";
+var mnemonic = "better prize nothing welcome empty hungry option grace heavy source peasant hurt";

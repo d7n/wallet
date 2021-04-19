@@ -1,1 +1,1 @@
-var mnemonic = "guess energy patient voice wagon ripple neutral large churn matter brush agent";
+var mnemonic = "empty ghost please scout game toy strong daughter borrow ivory erosion rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "face surround rain gate basic own trust wise milk true nice bamboo";
+var mnemonic = "occur melody stereo shield meadow naive kick nation silly nest envelope rural";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum grain squirrel metal surround rely cabbage sleep collect candy crash depart";
+var mnemonic = "weird daughter squeeze ordinary voyage road nice short cute danger blood injury";

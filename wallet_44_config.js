@@ -1,1 +1,1 @@
-var mnemonic = "noble impact click ecology empty insane boring prosper lady snow state cigar";
+var mnemonic = "science depart pottery session empower swallow basic exit parrot february prize valley";

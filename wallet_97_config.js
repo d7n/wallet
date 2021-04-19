@@ -1,1 +1,1 @@
-var mnemonic = "taxi helmet window fiction snow strategy force injury piano rug artefact gravity";
+var mnemonic = "royal ladder inner merge busy swap profit solution vast rabbit market stable";

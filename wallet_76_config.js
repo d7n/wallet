@@ -1,1 +1,1 @@
-var mnemonic = "saddle crazy friend speed analyst dish sock recycle key walk winter arrest";
+var mnemonic = "gentle again keep end indicate merge danger end ask float tunnel wrestle";

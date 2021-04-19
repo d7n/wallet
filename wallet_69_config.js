@@ -1,1 +1,1 @@
-var mnemonic = "robot avocado dress flower miss soon defy whisper tip assist shiver else";
+var mnemonic = "ketchup athlete birth risk spell orange crisp half foam ripple august legal";

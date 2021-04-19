@@ -1,1 +1,1 @@
-var mnemonic = "tag trade wasp civil april demand two museum maximum orchard tank hockey";
+var mnemonic = "prize cupboard develop forward demise grace bacon hospital image meat forward upset";

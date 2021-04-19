@@ -1,1 +1,1 @@
-var mnemonic = "hand fluid edit pride chimney kingdom label beach kingdom next garage valley";
+var mnemonic = "avocado total kitchen vast reason filter vacuum success forward mule wrist decade";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon peace number ridge hockey wise laundry burst action guilt speed omit";
+var mnemonic = "enrich urge glory brass make prepare green novel that scout item detail";

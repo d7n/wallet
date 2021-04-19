@@ -1,1 +1,1 @@
-var mnemonic = "session spell uphold edit fossil once inspire bird crop odor pause caught";
+var mnemonic = "joy old shy bomb cigar kangaroo brief marble federal ancient trade glue";

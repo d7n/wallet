@@ -1,1 +1,1 @@
-var mnemonic = "wedding shove trust mutual journey derive volume voyage wrap found ankle blade";
+var mnemonic = "loan enter loan naive syrup abandon spray inside maple warrior chunk erode";

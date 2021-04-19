@@ -1,1 +1,1 @@
-var mnemonic = "toe cool increase stadium salon media dream ecology chicken blast city crater";
+var mnemonic = "urban birth tuition favorite estate beauty arrange kitchen swing wise put about";

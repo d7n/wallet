@@ -1,1 +1,1 @@
-var mnemonic = "bacon slice latin panda empty elegant more polar brief trip strong castle";
+var mnemonic = "place shell panther trend afraid various artist win exhaust spirit truly devote";

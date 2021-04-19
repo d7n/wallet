@@ -1,1 +1,1 @@
-var mnemonic = "prefer burger type foot siren grow hero suffer shield exclude chest pizza";
+var mnemonic = "job fringe exchange three foster rose double ceiling outdoor video blame settle";

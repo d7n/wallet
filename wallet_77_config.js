@@ -1,1 +1,1 @@
-var mnemonic = "vivid divorce mass clinic allow enter identify twenty catch miss foot sibling";
+var mnemonic = "proud wonder filter trade symptom donkey snake average vehicle letter never attract";

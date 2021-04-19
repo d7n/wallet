@@ -1,1 +1,1 @@
-var mnemonic = "grief accuse develop speed room cherry depend slush way print length hero";
+var mnemonic = "debate creek axis tilt ribbon sibling punch kit aerobic picnic crew brass";

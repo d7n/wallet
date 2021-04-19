@@ -1,1 +1,1 @@
-var mnemonic = "erupt club solar erase ability unaware reunion you midnight add asset math";
+var mnemonic = "resource enhance brass dinosaur axis earn ride old jaguar industry tourist fiction";

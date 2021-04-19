@@ -1,1 +1,1 @@
-var mnemonic = "mango pill evolve tongue ribbon pink base stadium relief junk fortune they";
+var mnemonic = "doctor snake tackle flag drastic oyster grape ranch deer either frost question";

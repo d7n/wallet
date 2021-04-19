@@ -1,1 +1,1 @@
-var mnemonic = "suggest one silver fitness frost because nut bright sure tuna impulse sail";
+var mnemonic = "equal pumpkin list mammal very differ tag purchase install twelve section rug";

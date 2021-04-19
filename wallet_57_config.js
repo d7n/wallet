@@ -1,1 +1,1 @@
-var mnemonic = "plunge coffee dizzy estate text essence forward toe scene skill baby warfare";
+var mnemonic = "elite unusual frozen boy squirrel creek quarter tell monster nasty lecture false";

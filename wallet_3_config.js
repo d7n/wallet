@@ -1,1 +1,1 @@
-var mnemonic = "aunt speed develop congress october snap floor cycle family bag awkward slice";
+var mnemonic = "vanish tonight feel region can obvious eight loan ankle action metal city";

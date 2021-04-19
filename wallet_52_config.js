@@ -1,1 +1,1 @@
-var mnemonic = "final robust seed extra split enemy boil very begin also lake wasp";
+var mnemonic = "board parent better wonder van tumble heart tell aspect pelican crash almost";

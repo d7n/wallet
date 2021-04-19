@@ -1,1 +1,1 @@
-var mnemonic = "dice story organ coffee wreck police dish rotate setup calm click pledge";
+var mnemonic = "piece wrap rely inherit style buzz lumber dinner safe cargo soccer install";

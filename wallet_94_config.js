@@ -1,1 +1,1 @@
-var mnemonic = "outdoor usage amount suspect level attitude feed era practice hurt kangaroo vast";
+var mnemonic = "stomach cushion duck gun lock fluid finger forest sentence fork rail spice";

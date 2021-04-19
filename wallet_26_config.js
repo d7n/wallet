@@ -1,1 +1,1 @@
-var mnemonic = "magnet exile category access spirit mask vital great volume romance add camp";
+var mnemonic = "pipe light hawk tail grain myth battle soap copper onion keen amazing";

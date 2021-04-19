@@ -1,1 +1,1 @@
-var mnemonic = "eternal shrug prize today humble wood cinnamon garment dish wedding pear plate";
+var mnemonic = "dust excite collect slogan view crunch boost world round rotate bicycle fabric";

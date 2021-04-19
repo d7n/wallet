@@ -1,1 +1,1 @@
-var mnemonic = "vague decade always bread tent road asset ring chair traffic obtain lunar";
+var mnemonic = "junior surge rebel task planet syrup ice level custom road lift olympic";

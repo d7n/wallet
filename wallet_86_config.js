@@ -1,1 +1,1 @@
-var mnemonic = "please patient popular scrub chaos border company tourist toward lounge desert supreme";
+var mnemonic = "trust option lizard shock clump rifle innocent spoon all decade forward arrange";

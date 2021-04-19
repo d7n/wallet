@@ -1,1 +1,1 @@
-var mnemonic = "arch warrior tennis evidence mammal nothing noble bubble output mosquito abstract shield";
+var mnemonic = "add boring blur farm coconut region elite pilot ritual rocket roast foam";

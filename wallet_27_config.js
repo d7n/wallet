@@ -1,1 +1,1 @@
-var mnemonic = "unaware leopard sadness farm pioneer urge add wave evolve eager race culture";
+var mnemonic = "welcome very cushion virtual invest elevator despair harvest fox hotel innocent shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "naive movie jazz again dial write bike original section execute print gift";
+var mnemonic = "retire ride flower orchard coil access clever palm swear possible recycle alter";

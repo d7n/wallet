@@ -1,1 +1,1 @@
-var mnemonic = "farm metal hospital holiday erupt fiber chase else sound raise evoke hazard";
+var mnemonic = "suggest daring animal monitor world crouch motion kingdom forget gas stuff device";

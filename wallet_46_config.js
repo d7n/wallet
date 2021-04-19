@@ -1,1 +1,1 @@
-var mnemonic = "test tide label culture desert poem multiply fan large doctor glance balance";
+var mnemonic = "doll mom physical such lady stool sick aim gospel air dial beauty";

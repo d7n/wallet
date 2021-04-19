@@ -1,1 +1,1 @@
-var mnemonic = "alarm swap phone weapon relax brisk lion help know shaft candy stable";
+var mnemonic = "pink path leg coil arrange reflect online style claim property ladder decade";

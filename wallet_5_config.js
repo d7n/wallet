@@ -1,1 +1,1 @@
-var mnemonic = "snap runway rice diamond romance school virtual accuse hidden utility camera custom";
+var mnemonic = "nasty destroy priority tower tortoise crop armed knock gate brown guitar people";

@@ -1,1 +1,1 @@
-var mnemonic = "person key lion adjust degree direct tail burden beyond morning quote margin";
+var mnemonic = "asthma curious merry require isolate parade bird gun pave comic phone cart";

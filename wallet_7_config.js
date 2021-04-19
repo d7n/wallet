@@ -1,1 +1,1 @@
-var mnemonic = "victory alter borrow market air trash tissue silly frown crash link paper";
+var mnemonic = "half child notable october cat journey pony style coast jungle car reveal";

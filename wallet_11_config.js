@@ -1,1 +1,1 @@
-var mnemonic = "essence spot olympic camera dash engage mansion camera lab smooth half attend";
+var mnemonic = "speak ghost sell minor carbon miracle enlist parade artist lab human empower";

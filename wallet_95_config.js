@@ -1,1 +1,1 @@
-var mnemonic = "nephew win pyramid balcony junk balance cube when spend height detail buzz";
+var mnemonic = "winter economy dove split review tortoise buyer sail airport deer sort earn";

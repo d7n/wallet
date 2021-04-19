@@ -1,1 +1,1 @@
-var mnemonic = "nose timber license proof fatigue obtain key power lumber letter tower cloud";
+var mnemonic = "return shrimp glad milk ski top feel spray caution street blue crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon build antique edit camera save path melt odor tenant system direct";
+var mnemonic = "innocent refuse find husband salute close alert dentist company borrow science tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "flag cherry luggage milk deny inner entire mobile dry poverty bid reflect";
+var mnemonic = "artist will snake boost medal wine rhythm sponsor envelope again hurt jaguar";

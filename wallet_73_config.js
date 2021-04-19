@@ -1,1 +1,1 @@
-var mnemonic = "pupil predict allow awake hub chaos lady gun stable kick match another";
+var mnemonic = "allow april sweet page dilemma denial width alpha gloom toy receive injury";

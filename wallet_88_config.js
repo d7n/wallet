@@ -1,1 +1,1 @@
-var mnemonic = "under track helmet become oxygen catalog distance rate arena matter sausage lava";
+var mnemonic = "chicken battle broccoli skirt relief park onion shoulder onion demand chief element";

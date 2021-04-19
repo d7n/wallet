@@ -1,1 +1,1 @@
-var mnemonic = "body scrub amused loud dinner noise require digital push doll popular faint";
+var mnemonic = "spread slot light toast derive welcome cliff life limit brass benefit tuition";

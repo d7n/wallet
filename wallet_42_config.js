@@ -1,1 +1,1 @@
-var mnemonic = "sunset review gloom expect garment phone genius spare tuition verify artist pulse";
+var mnemonic = "promote april denial base lawsuit mushroom food never ugly rabbit begin daughter";

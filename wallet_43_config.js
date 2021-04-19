@@ -1,1 +1,1 @@
-var mnemonic = "mask enforce pretty helmet close sentence age strike day void tissue amused";
+var mnemonic = "glass build prosper chest holiday outdoor deer syrup tube chuckle holiday fresh";

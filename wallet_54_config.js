@@ -1,1 +1,1 @@
-var mnemonic = "pet element steel parent travel ripple vault ticket inner dream eyebrow panic";
+var mnemonic = "movie element private tongue guide fan era lizard sunny laugh reason trouble";

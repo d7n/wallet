@@ -1,1 +1,1 @@
-var mnemonic = "short float vault anxiety speed element category anxiety blind vivid lecture refuse";
+var mnemonic = "cheese plate say organ deliver narrow tornado tattoo scan wool powder wait";

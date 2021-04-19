@@ -1,1 +1,1 @@
-var mnemonic = "tent job moment marine ice thought shoe course police depart dice lawn";
+var mnemonic = "indicate baby aim focus slide appear pear decrease analyst couple because rack";

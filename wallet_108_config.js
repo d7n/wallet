@@ -1,1 +1,1 @@
-var mnemonic = "name addict oppose silk twist faint tongue light strike impose denial champion";
+var mnemonic = "payment bronze obtain drink satisfy concert rebuild ensure math island infant fan";

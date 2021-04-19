@@ -1,1 +1,1 @@
-var mnemonic = "castle lecture umbrella trap solve medal entire dream member follow potato bachelor";
+var mnemonic = "boil march upgrade better puzzle cliff describe only next debris throw dash";

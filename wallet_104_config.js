@@ -1,1 +1,1 @@
-var mnemonic = "knock teach win elegant term train confirm extra title stomach naive another";
+var mnemonic = "sunny chest child asset kind grape rotate day private recycle rule reopen";

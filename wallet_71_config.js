@@ -1,1 +1,1 @@
-var mnemonic = "story plunge thing cloth olympic crouch foam submit vicious animal inject toward";
+var mnemonic = "blame order leg oak inch crystal wreck tide cargo sentence draw tunnel";

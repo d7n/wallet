@@ -1,1 +1,1 @@
-var mnemonic = "lady blanket later joy frozen someone royal access fee tray oak rule";
+var mnemonic = "medal protect fiber endless measure sort item buzz rookie manage arrive top";

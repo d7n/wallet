@@ -1,1 +1,1 @@
-var mnemonic = "pencil uphold scene turn strong female flavor artwork hammer elevator ladder inner";
+var mnemonic = "empty urge depth table torch black brisk tide budget egg quarter foot";

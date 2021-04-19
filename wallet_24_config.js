@@ -1,1 +1,1 @@
-var mnemonic = "announce attract erode soda apart tape any secret border tribe volcano chief";
+var mnemonic = "feature pigeon tail coyote blush harbor energy strategy awesome mutual truck hurdle";

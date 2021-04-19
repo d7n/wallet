@@ -1,1 +1,1 @@
-var mnemonic = "thunder acoustic fit captain daughter tag food truth science useful sail half";
+var mnemonic = "sentence street host kitten mind east repeat wing section twin poet setup";

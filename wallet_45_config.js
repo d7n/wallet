@@ -1,1 +1,1 @@
-var mnemonic = "roast oppose catalog twelve limit puppy such clinic elbow top loan mix";
+var mnemonic = "mouse fire razor helmet lobster unfold mountain voice detect mercy gate like";

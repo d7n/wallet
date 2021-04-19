@@ -1,1 +1,1 @@
-var mnemonic = "glove school early rocket sense mountain baby frame fog split outer fever";
+var mnemonic = "bar behind exhaust beauty daughter process shed food awful father jelly lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "submit lounge bounce leg ring dutch race position black switch thank search";
+var mnemonic = "wool need observe amateur witness fee cross biology sell attitude monitor luxury";

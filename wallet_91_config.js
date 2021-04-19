@@ -1,1 +1,1 @@
-var mnemonic = "exercise race history waste meadow camera digital sausage ladder child bacon dance";
+var mnemonic = "remember despair polar soccer clown aspect wrist slab quarter machine dolphin truck";

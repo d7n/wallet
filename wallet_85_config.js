@@ -1,1 +1,1 @@
-var mnemonic = "shove clock miss neutral obscure please prepare shy flower click survey alarm";
+var mnemonic = "bridge order sausage broken canoe only despair behind motion cherry news hip";

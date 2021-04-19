@@ -1,1 +1,1 @@
-var mnemonic = "sadness mystery ozone luxury flame live crater you audit fine caught mango";
+var mnemonic = "sand robot burst blame glance curve scrap base gold advice december pumpkin";

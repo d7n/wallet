@@ -1,1 +1,1 @@
-var mnemonic = "matter brand code rhythm menu occur unable fortune suspect also symptom spread";
+var mnemonic = "usage feed update doll soldier achieve couch twice employ glass refuse digital";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter garlic hidden cat suffer punch mouse notice easy episode cart iron";
+var mnemonic = "whisper know term hurry canvas rare solar picture census cabin nice salt";

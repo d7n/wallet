@@ -1,1 +1,1 @@
-var mnemonic = "blur sorry hurdle trip round omit major glow account pet coast leg";
+var mnemonic = "dolphin jelly flame silk near craft forward feature only discover duty fitness";

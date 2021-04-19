@@ -1,1 +1,1 @@
-var mnemonic = "make asthma reunion display knee tissue position position shoulder sleep one weekend";
+var mnemonic = "space rely shine casino fan cloud pause other banner concert supply lemon";

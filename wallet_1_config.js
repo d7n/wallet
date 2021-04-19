@@ -1,1 +1,1 @@
-var mnemonic = "price toss distance awesome make shiver cattle metal tank pause stone glory";
+var mnemonic = "garbage pride float rural royal between pizza luggage echo fade someone across";

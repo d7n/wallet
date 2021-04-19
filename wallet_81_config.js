@@ -1,1 +1,1 @@
-var mnemonic = "write weekend fantasy rescue praise iron cup switch mystery ball resemble material";
+var mnemonic = "amazing coyote slow morning whale lyrics maze search pride search comfort help";

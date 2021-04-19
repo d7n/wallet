@@ -1,1 +1,1 @@
-var mnemonic = "weasel seed tiger style artist amazing earth mobile duty federal anxiety flavor";
+var mnemonic = "habit shuffle ice minimum helmet sing paddle favorite hungry walnut female toddler";

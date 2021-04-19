@@ -1,1 +1,1 @@
-var mnemonic = "angle blanket lamp inquiry forest entire relief coconut deposit capable escape pass";
+var mnemonic = "more dune ride canoe escape attend profit wagon reflect hammer knee frequent";

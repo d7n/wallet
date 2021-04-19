@@ -1,1 +1,1 @@
-var mnemonic = "call raw tenant tragic supply skull industry version enlist nothing rebel aerobic";
+var mnemonic = "local inch chimney fly mind clean citizen party impose visit announce profit";

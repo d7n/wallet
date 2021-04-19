@@ -1,1 +1,1 @@
-var mnemonic = "stage fancy satoshi tired use hint build argue expire net company pitch";
+var mnemonic = "zone option domain people essay neither tool tank bunker such slow praise";

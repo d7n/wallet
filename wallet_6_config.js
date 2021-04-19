@@ -1,1 +1,1 @@
-var mnemonic = "wink snake urban step awkward banner waste vanish allow woman segment expect";
+var mnemonic = "patient action drill spoil fox obtain kidney merge awesome lonely pitch face";

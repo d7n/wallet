@@ -1,1 +1,1 @@
-var mnemonic = "neutral jacket faith art achieve mango tourist domain wire inch oval dismiss";
+var mnemonic = "purity argue crawl stereo skin end idle shove lunch stock patient top";

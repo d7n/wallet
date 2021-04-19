@@ -1,1 +1,1 @@
-var mnemonic = "pool scan vibrant shine mad neglect health thrive hair hill review aunt";
+var mnemonic = "good butter annual tiger master neither side language used female surge vicious";

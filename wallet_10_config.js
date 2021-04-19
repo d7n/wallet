@@ -1,1 +1,1 @@
-var mnemonic = "sail lecture leisure manual trigger tenant abuse soldier breeze remind infant inside";
+var mnemonic = "sand tornado tumble depart glove this guitar athlete glass prevent squeeze visa";

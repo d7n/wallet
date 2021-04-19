@@ -1,1 +1,1 @@
-var mnemonic = "crash bunker sock alarm inflict express carry auto distance stone detail report";
+var mnemonic = "sponsor inmate area claim kingdom north whip pull depart grain mango trade";

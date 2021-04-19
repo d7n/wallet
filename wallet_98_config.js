@@ -1,1 +1,1 @@
-var mnemonic = "staff gesture toss eagle crouch bubble flee foam drastic under skill champion";
+var mnemonic = "able trouble noble powder exotic oak table demand illness process staff lemon";

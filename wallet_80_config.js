@@ -1,1 +1,1 @@
-var mnemonic = "hour renew trap index bar link sphere stove used story yellow window";
+var mnemonic = "trust crumble hello panic source hidden below anger tail again feed invest";

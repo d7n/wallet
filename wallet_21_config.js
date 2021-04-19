@@ -1,1 +1,1 @@
-var mnemonic = "thank cannon visit salute palm squeeze whisper when subject guess banana pulp";
+var mnemonic = "attitude monster frost acoustic actress umbrella hammer drop allow trade setup reject";

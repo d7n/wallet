@@ -1,1 +1,1 @@
-var mnemonic = "scrap carry second bread blind autumn lecture tiger oblige orient year safe";
+var mnemonic = "notable rhythm prepare nut this celery roof denial tobacco vote course impact";

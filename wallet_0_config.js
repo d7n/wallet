@@ -1,1 +1,1 @@
-var mnemonic = "engine random swear episode machine clutch average cactus genius woman clap romance";
+var mnemonic = "cool airport minimum wagon bacon key view iron near thrive debate artefact";

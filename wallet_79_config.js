@@ -1,1 +1,1 @@
-var mnemonic = "fancy february toilet miracle wage jungle marine swift zebra boost idle stadium";
+var mnemonic = "fatal advice salute estate east level cost interest message useless empower later";
