@@ -1,1 +1,1 @@
-var mnemonic = "tornado point color voice need hen best kitten claw tone bus cycle";
+var mnemonic = "confirm aim nuclear fog frog joy among scale page skirt shallow process";

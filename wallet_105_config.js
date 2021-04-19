@@ -1,1 +1,1 @@
-var mnemonic = "outdoor width negative scrap rigid vocal above chair modify race country cupboard";
+var mnemonic = "affair sphere fat detect solar alarm salon scale demise dry submit oppose";

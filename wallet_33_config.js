@@ -1,1 +1,1 @@
-var mnemonic = "plastic ginger feature heart rare entry brown isolate mean legal picture winner";
+var mnemonic = "food apple joy space sad aware yard image crazy sausage remember balance";

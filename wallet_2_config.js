@@ -1,1 +1,1 @@
-var mnemonic = "panic pottery mercy puzzle consider breeze powder tooth seminar duck dilemma card";
+var mnemonic = "pilot rifle replace arrest rail apple butter cement silver genuine near renew";

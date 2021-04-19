@@ -1,1 +1,1 @@
-var mnemonic = "index current eternal duck game six shrug vague license anger invest kidney";
+var mnemonic = "chase nice giraffe resist want ice prosper toy engage romance meat usual";

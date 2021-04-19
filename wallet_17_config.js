@@ -1,1 +1,1 @@
-var mnemonic = "local chuckle type dash arch wasp attitude gap sound area among enough";
+var mnemonic = "portion already lawn raven lazy then piano connect theory zone human favorite";

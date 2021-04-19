@@ -1,1 +1,1 @@
-var mnemonic = "rain initial vibrant tired guilt crystal office hazard tragic prepare screen drive";
+var mnemonic = "tube decrease spoil appear regret arrow month season bar demise gun soul";

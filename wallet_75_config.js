@@ -1,1 +1,1 @@
-var mnemonic = "much indicate clarify walnut exercise front maze skate story finger step return";
+var mnemonic = "word oxygen prevent salon release minute tennis today vacuum curious buffalo buzz";

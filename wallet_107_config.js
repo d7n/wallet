@@ -1,1 +1,1 @@
-var mnemonic = "mixture vicious rigid first agent execute pudding popular bless dune first defense";
+var mnemonic = "math magnet disagree screen extra scene heart puzzle mom absorb film vanish";

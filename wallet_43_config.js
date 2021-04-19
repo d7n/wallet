@@ -1,1 +1,1 @@
-var mnemonic = "plug virus poet balcony salt addict dirt artist employ loan cream bicycle";
+var mnemonic = "melody truck coast arm silk prepare powder laugh celery buffalo exile first";

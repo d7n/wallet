@@ -1,1 +1,1 @@
-var mnemonic = "speak surface lunar pigeon velvet increase crumble dog guess else reveal absent";
+var mnemonic = "jacket noise cereal deputy sorry situate sand swim life oblige tongue produce";

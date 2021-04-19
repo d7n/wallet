@@ -1,1 +1,1 @@
-var mnemonic = "again park immense engage act liberty alpha voyage roast loud cost wear";
+var mnemonic = "zebra verify kiss pulp session beauty hope jungle boil resemble spring security";

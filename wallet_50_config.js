@@ -1,1 +1,1 @@
-var mnemonic = "ice odor give slab badge picture security truck major term describe weasel";
+var mnemonic = "spot arm turn inquiry valve imitate zebra waste beauty brand report weasel";

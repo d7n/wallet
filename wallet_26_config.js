@@ -1,1 +1,1 @@
-var mnemonic = "object air drive change churn rude attack merge height zebra impact sample";
+var mnemonic = "delay sausage remove net innocent huge route satoshi divide clever reduce electric";

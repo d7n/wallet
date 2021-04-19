@@ -1,1 +1,1 @@
-var mnemonic = "chef twist liar cabbage game stove just wonder great save note practice";
+var mnemonic = "duck kitchen coach lion weapon soul more submit town crystal sniff virtual";

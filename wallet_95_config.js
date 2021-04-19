@@ -1,1 +1,1 @@
-var mnemonic = "addict dentist crew rule school rigid alien chicken crucial year general input";
+var mnemonic = "trade chase marine soda trick table viable explain mom path reform enemy";

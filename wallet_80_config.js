@@ -1,1 +1,1 @@
-var mnemonic = "fatal truck story enough stock inmate mountain super submit exclude water scrub";
+var mnemonic = "profit suffer that cage summer put cigar frequent left leader brother lemon";

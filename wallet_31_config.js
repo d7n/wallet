@@ -1,1 +1,1 @@
-var mnemonic = "ignore nut kingdom ranch pelican common depart shuffle slot drip almost surprise";
+var mnemonic = "duck resist near pelican abstract beyond divide hero salon episode purity robust";

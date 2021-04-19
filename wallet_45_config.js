@@ -1,1 +1,1 @@
-var mnemonic = "hollow share eye junk spoil keep run flavor invest brown core cost";
+var mnemonic = "embrace double armed check wisdom discover sadness tomorrow agent element flock rabbit";

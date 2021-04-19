@@ -1,1 +1,1 @@
-var mnemonic = "essay unaware prepare faint calm shoot lock blur expect glimpse credit blossom";
+var mnemonic = "anxiety spray welcome mad trim brush sun goat escape shallow fuel elder";

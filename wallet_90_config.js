@@ -1,1 +1,1 @@
-var mnemonic = "tonight smoke nest scatter mule sample clay snap ten dream forum dance";
+var mnemonic = "suspect goat bargain tribe stomach mechanic maze choose total alter fury equal";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden quality amateur right ethics float armed able drip timber refuse control";
+var mnemonic = "fossil attract sight present blue phrase sadness pottery city guilt kitten organ";

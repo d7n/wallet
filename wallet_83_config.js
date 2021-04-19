@@ -1,1 +1,1 @@
-var mnemonic = "skill total canyon action stamp drip wheat hero try amused unlock boring";
+var mnemonic = "similar sand sign spend erupt thing length actress endorse silly deal melt";

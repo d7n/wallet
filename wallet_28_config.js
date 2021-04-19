@@ -1,1 +1,1 @@
-var mnemonic = "human unable pause shell case exchange gain there clown pet quantum omit";
+var mnemonic = "fantasy comic vicious husband cage loop produce hello ribbon spin chair sleep";

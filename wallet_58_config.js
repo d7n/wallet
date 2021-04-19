@@ -1,1 +1,1 @@
-var mnemonic = "narrow dice unknown six transfer drill mercy emotion away little evolve drum";
+var mnemonic = "beef find ball globe arch distance orphan alarm foil moment rural only";

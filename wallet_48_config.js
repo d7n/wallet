@@ -1,1 +1,1 @@
-var mnemonic = "grace three demise invite trade acoustic spy inherit build skill obvious ceiling";
+var mnemonic = "chef absorb cotton hurdle patch else civil popular saddle unique cotton flag";

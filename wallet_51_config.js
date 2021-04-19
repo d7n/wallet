@@ -1,1 +1,1 @@
-var mnemonic = "lava cool gold gesture defense obey curious boat stock sign whale divorce";
+var mnemonic = "firm spare birth box wood start move piano return hole tell type";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler east jealous entry genius menu enemy keen vacuum crop solid panic";
+var mnemonic = "razor camera fun canyon symbol bless bounce fashion poem fringe title fringe";

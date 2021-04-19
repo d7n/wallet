@@ -1,1 +1,1 @@
-var mnemonic = "exile material clown extend over trophy scene negative squirrel crush subway harvest";
+var mnemonic = "fabric library easily avoid dune shock fluid smooth usual million kit cram";

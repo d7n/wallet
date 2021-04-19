@@ -1,1 +1,1 @@
-var mnemonic = "casino join current attend envelope depart sphere island obtain clever question pear";
+var mnemonic = "math then level attitude vote act cliff fatigue office patch profit april";

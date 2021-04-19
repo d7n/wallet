@@ -1,1 +1,1 @@
-var mnemonic = "fury glance fault call height cotton confirm husband swarm saddle turkey soon";
+var mnemonic = "pig lizard cabbage title repair forget choose engine decrease trick flash choose";

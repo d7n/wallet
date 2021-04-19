@@ -1,1 +1,1 @@
-var mnemonic = "creek motion milk nature merry damage drama mom share recipe skill diary";
+var mnemonic = "blue vivid motor insane cover undo relief travel live vacant alien napkin";

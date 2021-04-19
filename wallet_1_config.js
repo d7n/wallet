@@ -1,1 +1,1 @@
-var mnemonic = "exercise coil hammer lava library slow damp foster cigar during lecture mix";
+var mnemonic = "mobile cram multiply toss polar silver pattern hover tiny draw range nurse";

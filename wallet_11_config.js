@@ -1,1 +1,1 @@
-var mnemonic = "device street expose tobacco naive finish fork legal water finger give pen";
+var mnemonic = "peace horror fetch apology shiver flock interest issue prepare marble angle town";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite will ripple elite congress axis pencil gown razor measure deny rally";
+var mnemonic = "border attitude crisp hold bullet gentle silver away senior popular then veteran";

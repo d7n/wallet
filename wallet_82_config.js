@@ -1,1 +1,1 @@
-var mnemonic = "casino chef ridge possible double tragic genius shadow when track clock wait";
+var mnemonic = "rice label nothing tomato fetch dizzy quick grace thought wrap legend half";

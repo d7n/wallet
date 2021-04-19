@@ -1,1 +1,1 @@
-var mnemonic = "faint empty trial rhythm domain dinner disagree blue traffic hub spare dress";
+var mnemonic = "bag various violin inner symbol spring habit glide runway staff memory people";

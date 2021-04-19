@@ -1,1 +1,1 @@
-var mnemonic = "select citizen river image blood taste police main world practice train keep";
+var mnemonic = "inch wasp daring subject slogan royal paddle abandon betray garage urge matter";

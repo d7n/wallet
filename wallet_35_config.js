@@ -1,1 +1,1 @@
-var mnemonic = "put stamp mesh bronze absorb ride cube dawn zebra unfold blast toilet";
+var mnemonic = "mention sustain frozen silk current machine meadow able auto kit indoor echo";

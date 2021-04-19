@@ -1,1 +1,1 @@
-var mnemonic = "excess trumpet ten type card degree test receive globe labor pact impose";
+var mnemonic = "distance vanish client coach pool match panda grit fury bridge question senior";

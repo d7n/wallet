@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bleak improve trigger lunch unveil armor cruise face exact number palace";
+var mnemonic = "color dial kick know burst pair novel traffic test organ model submit";

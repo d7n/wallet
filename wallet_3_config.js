@@ -1,1 +1,1 @@
-var mnemonic = "valley multiply virus marble unknown motion regular cute rice rude absorb midnight";
+var mnemonic = "pink citizen shed project velvet truly term margin antenna keen anchor catalog";

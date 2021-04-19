@@ -1,1 +1,1 @@
-var mnemonic = "divert snack extend health umbrella later receive like forest usage neutral fantasy";
+var mnemonic = "fossil orphan envelope expose kangaroo resemble room bright toss vocal discover board";

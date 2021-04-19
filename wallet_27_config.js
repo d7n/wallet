@@ -1,1 +1,1 @@
-var mnemonic = "face system leave project breeze fly swarm carry knee horror bright ethics";
+var mnemonic = "flame pitch aunt mother drum fade depth quality pig rain tape supply";

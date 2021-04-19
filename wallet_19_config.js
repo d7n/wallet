@@ -1,1 +1,1 @@
-var mnemonic = "update outdoor exact subway coral weasel survey average cute cry thank pair";
+var mnemonic = "glimpse boost fog toss medal flower cream unfold solar able tired frequent";

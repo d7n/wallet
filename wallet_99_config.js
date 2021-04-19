@@ -1,1 +1,1 @@
-var mnemonic = "twist lazy marble puppy torch soup gun round involve admit nurse recycle";
+var mnemonic = "swarm away lemon hole pony wood evil eye west dust fix exchange";

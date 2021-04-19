@@ -1,1 +1,1 @@
-var mnemonic = "soft capable alien interest blush crystal round crumble smile reopen session detail";
+var mnemonic = "engage coil ghost circle frozen victory begin retreat pill way purse build";

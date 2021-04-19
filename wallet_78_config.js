@@ -1,1 +1,1 @@
-var mnemonic = "sun arrange turn copy lunar myth race rigid vivid version source fan";
+var mnemonic = "borrow rebel expire blade scissors relax tiger knock provide pistol abuse must";

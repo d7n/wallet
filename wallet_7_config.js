@@ -1,1 +1,1 @@
-var mnemonic = "stem knife medal seminar lottery pulse catalog favorite unable tower tooth prevent";
+var mnemonic = "kind warrior sheriff people state property sea smart panda survey people fantasy";

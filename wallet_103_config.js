@@ -1,1 +1,1 @@
-var mnemonic = "actual angry sadness problem attack dilemma thought picture arch parade indoor fault";
+var mnemonic = "hen simple radio oxygen awesome utility soul pudding execute home mutual elbow";

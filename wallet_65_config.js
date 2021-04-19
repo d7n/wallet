@@ -1,1 +1,1 @@
-var mnemonic = "frown video van inch luxury video erosion divide clip give render buddy";
+var mnemonic = "add alter tongue peasant journey leave clinic equal sick chat place caught";

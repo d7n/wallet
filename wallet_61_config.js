@@ -1,1 +1,1 @@
-var mnemonic = "hole echo syrup reason outside test hover train quarter student filter reduce";
+var mnemonic = "rate advance erode era eye blast scissors valley raccoon mosquito bomb essay";

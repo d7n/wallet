@@ -1,1 +1,1 @@
-var mnemonic = "major wide work veteran enemy strategy hope allow hint cloth travel bronze";
+var mnemonic = "switch table copper long trip virtual sad proud siege rebuild bunker forward";

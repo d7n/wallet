@@ -1,1 +1,1 @@
-var mnemonic = "unaware biology resist best estate rifle moral oval royal search dish kidney";
+var mnemonic = "worth rail moon aspect drop differ nominee cool moment describe modify caution";

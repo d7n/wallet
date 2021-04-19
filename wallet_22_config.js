@@ -1,1 +1,1 @@
-var mnemonic = "pond castle century delay emerge orange cream basket insect sand angle afraid";
+var mnemonic = "oxygen nose mammal fly merge steak small announce tornado cry buyer casual";

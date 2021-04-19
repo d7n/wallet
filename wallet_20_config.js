@@ -1,1 +1,1 @@
-var mnemonic = "shadow oyster movie earth remove common stand smoke galaxy elevator club wet";
+var mnemonic = "possible room paper castle level home zone enact frog then attract proud";

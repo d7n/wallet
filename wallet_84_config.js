@@ -1,1 +1,1 @@
-var mnemonic = "wash boost lyrics address coconut club candy choose drip mirror wrong duty";
+var mnemonic = "vacuum drop debate return thumb rapid rough top upgrade absurd just envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous ability loan office athlete sorry insect license tissue goose boil kidney";
+var mnemonic = "cross picnic combine price obtain fragile twelve coconut leave narrow forget permit";

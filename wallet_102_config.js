@@ -1,1 +1,1 @@
-var mnemonic = "chapter accuse entire attack grief detect despair explain cost teach dolphin draft";
+var mnemonic = "private worry winter pelican claim during grocery add moral crystal notice diesel";

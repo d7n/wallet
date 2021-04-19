@@ -1,1 +1,1 @@
-var mnemonic = "way belt tell problem rib end major crack hobby wisdom spike kidney";
+var mnemonic = "twist script discover cycle disease clutch estate easy figure stool curve know";

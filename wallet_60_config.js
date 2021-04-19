@@ -1,1 +1,1 @@
-var mnemonic = "afford reason vintage company over inherit soccer much peace ripple rate spread";
+var mnemonic = "trim jealous stock second benefit coil wrist fall satoshi bid brick rail";

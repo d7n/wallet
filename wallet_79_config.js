@@ -1,1 +1,1 @@
-var mnemonic = "boost adapt express evil panda wire trap decade future farm stage appear";
+var mnemonic = "gasp umbrella foot rail fog flavor prosper similar auction convince slab wreck";

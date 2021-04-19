@@ -1,1 +1,1 @@
-var mnemonic = "rice dwarf blouse stuff afraid demand spread mandate bounce ceiling embody proud";
+var mnemonic = "improve pig bracket public oyster steel patch skin number build sponsor tiny";

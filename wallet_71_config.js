@@ -1,1 +1,1 @@
-var mnemonic = "noodle use bulb shy elbow sunny please coyote install orbit shove fox";
+var mnemonic = "step panel empower teach sad jaguar derive swap protect draw gentle gap";

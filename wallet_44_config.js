@@ -1,1 +1,1 @@
-var mnemonic = "balcony trick aerobic put clock coyote faint youth era divorce whip drill";
+var mnemonic = "nurse cabbage couch gown meadow jazz autumn economy bomb ordinary hurry lunch";

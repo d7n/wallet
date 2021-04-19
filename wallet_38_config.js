@@ -1,1 +1,1 @@
-var mnemonic = "tiger child nasty sure medal chief autumn ring desert grief fire vivid";
+var mnemonic = "vital mobile crime tongue gold vivid pulse session topic fancy fire giant";

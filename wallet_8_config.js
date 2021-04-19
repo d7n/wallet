@@ -1,1 +1,1 @@
-var mnemonic = "ten orient escape own sunny injury hungry radio settle sword horror chaos";
+var mnemonic = "random treat layer teach alert stove flip indoor good monster squeeze despair";

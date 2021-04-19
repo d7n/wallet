@@ -1,1 +1,1 @@
-var mnemonic = "sketch furnace maze seek foam multiply cable sense begin hobby faith topic";
+var mnemonic = "gas mandate angry situate effort stand ill reward spend dash slight anxiety";

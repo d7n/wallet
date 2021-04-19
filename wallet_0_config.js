@@ -1,1 +1,1 @@
-var mnemonic = "upgrade limb letter rescue convince relax town muffin case wing spell ill";
+var mnemonic = "gravity addict trophy question attract panel obtain shadow finish elbow size spatial";

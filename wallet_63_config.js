@@ -1,1 +1,1 @@
-var mnemonic = "master radar guide witness february comfort deny truck melody dinosaur return enlist";
+var mnemonic = "gift allow milk wash broom disorder order sugar rare mansion rail certain";

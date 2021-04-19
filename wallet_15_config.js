@@ -1,1 +1,1 @@
-var mnemonic = "tiny gentle pluck dune fold diesel medal bomb fringe merge glare sense";
+var mnemonic = "vintage seven gold divide victory lunch narrow culture celery skill diagram fuel";

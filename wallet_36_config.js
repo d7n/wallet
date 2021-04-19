@@ -1,1 +1,1 @@
-var mnemonic = "coral text buzz vendor trip erosion suffer carry fiber organ refuse client";
+var mnemonic = "submit say provide proof cabbage sad profit fluid casino present ketchup fox";

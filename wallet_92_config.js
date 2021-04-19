@@ -1,1 +1,1 @@
-var mnemonic = "absurd before raw gift major daring water friend gift sick leave tiger";
+var mnemonic = "dune illegal title choose shove apart unfold forest test fold portion cat";

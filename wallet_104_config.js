@@ -1,1 +1,1 @@
-var mnemonic = "pretty weapon fortune stove arena machine voyage scrub boil donate estate already";
+var mnemonic = "toss erode whip lava fetch essay priority mountain host bean broken tattoo";

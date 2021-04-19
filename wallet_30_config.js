@@ -1,1 +1,1 @@
-var mnemonic = "exhaust brain angle shed cool kingdom tag truck atom boil cinnamon mansion";
+var mnemonic = "source despair expect blush rival recipe neglect scout crash focus ski furnace";

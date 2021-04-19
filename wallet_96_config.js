@@ -1,1 +1,1 @@
-var mnemonic = "obvious system toast nice job ignore purpose angry online burst shine stone";
+var mnemonic = "sport witness spell sweet prefer almost door dilemma saddle earn pistol shop";

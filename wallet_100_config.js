@@ -1,1 +1,1 @@
-var mnemonic = "session matter floor system evil dumb damp nest hunt isolate flag gossip";
+var mnemonic = "nice useless useless infant thrive angry dose sock police lock pilot document";

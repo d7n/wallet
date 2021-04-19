@@ -1,1 +1,1 @@
-var mnemonic = "clever agree syrup green million physical eight tobacco boring come post tip";
+var mnemonic = "eager rib excite outdoor popular convince cushion medal sick latin rescue crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan wedding domain system other frown hurry brick blanket gentle year toss";
+var mnemonic = "learn motion imitate sniff auction eight crisp neck differ sorry off run";

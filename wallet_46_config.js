@@ -1,1 +1,1 @@
-var mnemonic = "survey tired forget only hello fold toilet memory middle believe settle net";
+var mnemonic = "surprise area snack trade cabin lava ice fossil wonder depart anchor convince";

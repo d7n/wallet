@@ -1,1 +1,1 @@
-var mnemonic = "rookie crack rare school flat paddle nice test ribbon dentist cool bacon";
+var mnemonic = "sugar dinner iron squirrel gadget evidence relief panda ice alley assault stage";

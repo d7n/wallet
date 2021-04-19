@@ -1,1 +1,1 @@
-var mnemonic = "toss enlist snow hollow behave trophy much treat ranch egg acid enact";
+var mnemonic = "glove address brother forum multiply trouble render guitar tent cushion daughter apple";

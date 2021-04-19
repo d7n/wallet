@@ -1,1 +1,1 @@
-var mnemonic = "promote envelope bulb liquid local awake polar blur result grit entire banana";
+var mnemonic = "double occur panda lemon diagram busy genuine upper task imitate icon lucky";

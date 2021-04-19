@@ -1,1 +1,1 @@
-var mnemonic = "security wolf alcohol address praise electric wood trigger swarm advice barrel beauty";
+var mnemonic = "useful zero change bomb snack play cereal enter youth industry check address";

@@ -1,1 +1,1 @@
-var mnemonic = "calm double empty mass mixed roast noodle sign injury mesh dial wedding";
+var mnemonic = "wisdom invest embark sibling grunt brand price uphold mule ride bottom machine";

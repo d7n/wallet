@@ -1,1 +1,1 @@
-var mnemonic = "ring empower champion toddler foot elder girl follow citizen media retire again";
+var mnemonic = "account chat wheel weather marriage fame atom gossip fetch toddler finish lens";

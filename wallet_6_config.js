@@ -1,1 +1,1 @@
-var mnemonic = "picture bulk mother manage tail session what abuse robot rigid size drift";
+var mnemonic = "potato horror float series decide diagram typical banner forward problem turn auction";

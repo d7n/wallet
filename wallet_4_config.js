@@ -1,1 +1,1 @@
-var mnemonic = "surge hello balance guide transfer air dutch lunch prize because asset pottery";
+var mnemonic = "forest embark hand nephew vivid clutch swift miracle vital topic gain regret";

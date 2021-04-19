@@ -1,1 +1,1 @@
-var mnemonic = "decline awake gift nature title just ship crucial phrase own divert myth";
+var mnemonic = "situate busy cost valley doll olive ripple april magic human talent worry";

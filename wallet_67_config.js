@@ -1,1 +1,1 @@
-var mnemonic = "fat toast humble theme laugh work park world toe average frown differ";
+var mnemonic = "antenna neither ghost cycle profit humble immense evoke choice better judge ancient";

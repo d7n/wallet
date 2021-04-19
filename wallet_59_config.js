@@ -1,1 +1,1 @@
-var mnemonic = "bird indicate rough scatter sudden divorce gap kidney pig donkey winner civil";
+var mnemonic = "model purse fatigue rare remain omit hello junior impose order clinic erupt";

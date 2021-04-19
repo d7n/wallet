@@ -1,1 +1,1 @@
-var mnemonic = "chief mercy stadium twice stamp install yellow foot spoil public butter input";
+var mnemonic = "swap tornado heavy palace treat space movie high knock insane material purity";

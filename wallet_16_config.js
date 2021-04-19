@@ -1,1 +1,1 @@
-var mnemonic = "dash trophy illegal budget parade cherry radio cream obscure coral curtain season";
+var mnemonic = "advice mammal clog enact ski scissors foot hold deer water photo feature";

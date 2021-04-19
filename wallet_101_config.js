@@ -1,1 +1,1 @@
-var mnemonic = "deliver swarm helmet obtain blood cloth panel liar claw cattle topple mutual";
+var mnemonic = "sound diary curtain eight nuclear stuff quiz column cactus caught ginger web";
