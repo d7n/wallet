@@ -1,1 +1,1 @@
-var mnemonic = "winter dentist law spatial total fruit safe punch jazz market skin sting";
+var mnemonic = "radar gate castle enforce sausage fantasy velvet piece around taste cake blur";

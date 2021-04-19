@@ -1,1 +1,1 @@
-var mnemonic = "seek pear render artefact prosper exist impact journey copper shift detect ten";
+var mnemonic = "alert slot bid emotion atom jacket bean resemble test describe bar space";

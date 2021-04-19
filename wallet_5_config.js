@@ -1,1 +1,1 @@
-var mnemonic = "where search they danger draw arrest shadow lady buzz struggle mouse glory";
+var mnemonic = "list fruit firm virus arch beach shield acoustic october one health nominee";

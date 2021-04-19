@@ -1,1 +1,1 @@
-var mnemonic = "tired capital zero among ethics girl expire help humble enrich junior coil";
+var mnemonic = "can grid vicious enjoy weapon page woman combine later ice turn leader";

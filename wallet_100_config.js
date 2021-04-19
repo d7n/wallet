@@ -1,1 +1,1 @@
-var mnemonic = "raw actual cigar inflict angle vicious ridge champion mushroom various give exercise";
+var mnemonic = "loyal salmon accuse noise snake day type parade paddle history spoil stable";

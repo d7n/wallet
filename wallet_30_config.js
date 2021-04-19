@@ -1,1 +1,1 @@
-var mnemonic = "universe grief regret gather dice have educate energy boss crack year stand";
+var mnemonic = "left fantasy pull acquire humble will parade concert together asset attack knife";

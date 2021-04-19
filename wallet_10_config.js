@@ -1,1 +1,1 @@
-var mnemonic = "fiction next robot minor stock limb join drastic crazy torch opera nominee";
+var mnemonic = "cliff hockey shield brisk sword lady strike various govern travel over actual";

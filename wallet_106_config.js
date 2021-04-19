@@ -1,1 +1,1 @@
-var mnemonic = "aspect chalk model simple dwarf heavy cry stay wink turtle squirrel basic";
+var mnemonic = "tomato thing tired worry forget invite sound mix candy sugar physical border";

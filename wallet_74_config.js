@@ -1,1 +1,1 @@
-var mnemonic = "siege dial arm card dawn treat loud enjoy hello silver group valve";
+var mnemonic = "science athlete dove atom thank foster safe offer garlic angry frozen since";

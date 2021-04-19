@@ -1,1 +1,1 @@
-var mnemonic = "minimum acid edge side cram obscure credit write come hurdle valve click";
+var mnemonic = "dismiss delay very about math flush west expose drop book shoe denial";

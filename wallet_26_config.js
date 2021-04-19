@@ -1,1 +1,1 @@
-var mnemonic = "silly tool choice object cruel piano siege festival enroll later rifle copper";
+var mnemonic = "milk guard legend rate script dentist mimic view sport will rice vicious";

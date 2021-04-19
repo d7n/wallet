@@ -1,1 +1,1 @@
-var mnemonic = "clean assist economy armor allow soda trade try marriage list unaware craft";
+var mnemonic = "pelican spell onion cave human quality title brush spirit bottom demise inquiry";

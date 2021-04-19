@@ -1,1 +1,1 @@
-var mnemonic = "apple puzzle lunar farm human battle object tooth turkey expect roof copper";
+var mnemonic = "circle jelly spice tortoise glow nephew general want drive sure rotate heart";

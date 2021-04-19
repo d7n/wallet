@@ -1,1 +1,1 @@
-var mnemonic = "copper bicycle crane wheel supreme about surround panel expire provide rotate scan";
+var mnemonic = "rich world dilemma round relax ball solar pride mom bind battle square";

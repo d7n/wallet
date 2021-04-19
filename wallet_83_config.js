@@ -1,1 +1,1 @@
-var mnemonic = "figure blur sure ancient extra envelope monitor scare spare style humor ivory";
+var mnemonic = "unveil water fluid river polar young want entry deputy always scale usage";

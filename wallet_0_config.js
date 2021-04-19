@@ -1,1 +1,1 @@
-var mnemonic = "catch relax wisdom bench salad come pizza icon chat deliver emerge issue";
+var mnemonic = "frozen school model auto style address miss giant glue someone purpose minute";

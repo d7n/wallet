@@ -1,1 +1,1 @@
-var mnemonic = "stand art omit call lumber ozone phrase pass chuckle over click rabbit";
+var mnemonic = "mask brave disease merry behind twelve tape rude enjoy infant rain tortoise";

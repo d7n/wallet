@@ -1,1 +1,1 @@
-var mnemonic = "chicken deposit present leaf engage blind guide mutual pole gentle poem stadium";
+var mnemonic = "polar prepare blur milk census dose toast expand dutch flip language toss";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar dutch bar tortoise trophy physical shop put identify jeans dumb earth";
+var mnemonic = "patrol culture lens fat crystal ugly receive device cliff pigeon clever adjust";

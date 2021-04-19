@@ -1,1 +1,1 @@
-var mnemonic = "snap enhance power credit play admit matrix feel scale awkward essence mushroom";
+var mnemonic = "drama winner decide radio during drift page number amount lens screen spoil";

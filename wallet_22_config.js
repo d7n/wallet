@@ -1,1 +1,1 @@
-var mnemonic = "meadow luxury point suit remind tortoise exclude below huge gown come ride";
+var mnemonic = "october torch exact club maid decrease act funny toast invest battle ramp";

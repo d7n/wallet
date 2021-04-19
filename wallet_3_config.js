@@ -1,1 +1,1 @@
-var mnemonic = "fly catch ocean eternal blind another grief catch sword uncover code thank";
+var mnemonic = "monster soldier nasty entry best alien raven novel story bag reform gym";

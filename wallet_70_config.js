@@ -1,1 +1,1 @@
-var mnemonic = "execute resemble industry dove glimpse sting angry water receive ancient flavor member";
+var mnemonic = "canyon cart double comfort tilt aspect jump hood embark pizza paper company";

@@ -1,1 +1,1 @@
-var mnemonic = "motor attitude cram pave cry album spell mule usual rocket moral recycle";
+var mnemonic = "planet syrup birth gauge umbrella toddler camp aunt fashion angle climb name";

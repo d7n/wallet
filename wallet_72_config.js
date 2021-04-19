@@ -1,1 +1,1 @@
-var mnemonic = "note key truck tool symbol denial now olympic exotic flag success seat";
+var mnemonic = "defy stadium artist island front umbrella cabin sentence worry work rose weekend";

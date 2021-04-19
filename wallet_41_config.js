@@ -1,1 +1,1 @@
-var mnemonic = "hollow base become anchor hope dream garage zebra abandon much travel similar";
+var mnemonic = "wedding artist science tackle always quit blame amount body consider sister humble";

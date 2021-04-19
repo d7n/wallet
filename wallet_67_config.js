@@ -1,1 +1,1 @@
-var mnemonic = "trial occur garbage brother attend nut reopen use color quit edit hungry";
+var mnemonic = "guide sheriff symptom pair health wish spin float stumble sadness mouse prize";

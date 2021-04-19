@@ -1,1 +1,1 @@
-var mnemonic = "aerobic lesson bridge business will solid steak apology runway leader upset delay";
+var mnemonic = "festival sustain slab code vehicle security add file famous basic filter bundle";

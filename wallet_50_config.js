@@ -1,1 +1,1 @@
-var mnemonic = "rapid potato jealous equal cotton narrow velvet excuse increase bundle repeat solve";
+var mnemonic = "warm planet section police depart alert eager steak whale switch spin draft";

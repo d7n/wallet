@@ -1,1 +1,1 @@
-var mnemonic = "regular kick sick crowd can rib album defy three suspect lock toddler";
+var mnemonic = "exact conduct spend situate squirrel quote rate fitness genre release battle urban";

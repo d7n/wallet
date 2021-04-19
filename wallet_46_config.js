@@ -1,1 +1,1 @@
-var mnemonic = "rocket polar badge width artist lawn win useful modify camp minor immune";
+var mnemonic = "tattoo ride net dune bargain item artwork decline despair camera pill aspect";

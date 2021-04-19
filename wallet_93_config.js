@@ -1,1 +1,1 @@
-var mnemonic = "recycle lens okay dirt tenant wrist grant cart bean child mercy sort";
+var mnemonic = "approve elephant scene copper resemble enjoy message tobacco outside inhale flush check";

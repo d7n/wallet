@@ -1,1 +1,1 @@
-var mnemonic = "topple coyote cousin position organ craft riot before category depart mention habit";
+var mnemonic = "embody van valley blanket prepare task endorse install basket source obscure craft";

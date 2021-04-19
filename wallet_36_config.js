@@ -1,1 +1,1 @@
-var mnemonic = "today sheriff useful never practice ridge explain north group way resist gesture";
+var mnemonic = "west motor case veteran body action wave region relief response flat tumble";

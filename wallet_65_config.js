@@ -1,1 +1,1 @@
-var mnemonic = "north segment when chase robust quarter flat dilemma behind earn bind glue";
+var mnemonic = "veteran tumble soap nose oven call recall wild wine radio village detail";

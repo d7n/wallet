@@ -1,1 +1,1 @@
-var mnemonic = "sting spread universe cloth kingdom return embrace rural merry inflict hammer vast";
+var mnemonic = "jungle nest critic session arm resemble mercy now total immense consider question";

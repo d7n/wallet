@@ -1,1 +1,1 @@
-var mnemonic = "knee toward trim table swear proud dial wage negative enable bean speed";
+var mnemonic = "cupboard copy inherit glide wrong afford source december excess cigar loop hobby";

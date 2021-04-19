@@ -1,1 +1,1 @@
-var mnemonic = "token pistol picture leave track buzz food armed join tongue wait bind";
+var mnemonic = "van cube another legend inside oven weather shell erosion hope aspect pluck";

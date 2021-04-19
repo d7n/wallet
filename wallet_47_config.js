@@ -1,1 +1,1 @@
-var mnemonic = "disorder note jump control radio vacuum slow purchase stumble mix warrior nerve";
+var mnemonic = "payment frozen rate habit trust wagon master siege friend trim usage guard";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete noise that minimum bamboo flee direct collect amused kingdom all place";
+var mnemonic = "divert monkey double cigar receive shadow depend pink always turn shadow stuff";

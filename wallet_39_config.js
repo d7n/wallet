@@ -1,1 +1,1 @@
-var mnemonic = "author view hour either ginger pink poverty course endless enjoy fat valid";
+var mnemonic = "moment wrestle neglect swing diet reject coin wave virtual sphere speak repeat";

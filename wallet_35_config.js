@@ -1,1 +1,1 @@
-var mnemonic = "valley business valve attract farm idle water exclude leave amused edit rule";
+var mnemonic = "labor mention vibrant upset name panel supply leader similar organ blush camp";

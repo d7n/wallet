@@ -1,1 +1,1 @@
-var mnemonic = "left replace beach like assist adult nothing orbit dinner exhibit imitate miracle";
+var mnemonic = "cliff glare boil embody pig april initial match better cannon office unhappy";

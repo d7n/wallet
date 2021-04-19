@@ -1,1 +1,1 @@
-var mnemonic = "culture canyon spell chest banner weird vanish property agent ethics there any";
+var mnemonic = "maximum poet decrease volume coast life oak evil defy hundred hidden vibrant";

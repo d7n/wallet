@@ -1,1 +1,1 @@
-var mnemonic = "thrive witness legend give river vibrant price shy acid select abstract misery";
+var mnemonic = "pond rain october lounge faculty tenant family stool thank scatter decide version";

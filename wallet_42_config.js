@@ -1,1 +1,1 @@
-var mnemonic = "inmate taste utility bulk punch item april allow corn bottom input cloth";
+var mnemonic = "swear hello flock nation hurt inch oak orbit athlete awkward bench radar";

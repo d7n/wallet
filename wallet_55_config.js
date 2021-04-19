@@ -1,1 +1,1 @@
-var mnemonic = "exist table emerge camera wet twin web outside help buffalo twist force";
+var mnemonic = "alarm doctor inhale wish mean intact vintage fox sun where reunion chair";

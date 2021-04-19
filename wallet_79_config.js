@@ -1,1 +1,1 @@
-var mnemonic = "gasp inflict produce income gas coffee chef rural salt mother lunch current";
+var mnemonic = "swear raw popular into robust grow quick know angry pattern another vendor";

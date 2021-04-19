@@ -1,1 +1,1 @@
-var mnemonic = "clerk render service object control office enjoy true aspect ensure obtain enjoy";
+var mnemonic = "current innocent game snack drum gravity keen inquiry amused guilt curtain flush";

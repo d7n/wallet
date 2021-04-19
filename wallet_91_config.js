@@ -1,1 +1,1 @@
-var mnemonic = "garment pass face crop pond differ echo original badge access fluid buddy";
+var mnemonic = "shoot attract elegant protect skull pledge bulk trade lobster shrimp spring defy";

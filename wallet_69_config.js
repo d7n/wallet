@@ -1,1 +1,1 @@
-var mnemonic = "liberty kidney leaf double flip execute badge print hill bachelor recycle broccoli";
+var mnemonic = "drink eye muscle north rare sound debris weekend someone give vendor spare";

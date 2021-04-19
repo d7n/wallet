@@ -1,1 +1,1 @@
-var mnemonic = "ten hand liquid parent thought kiss decade balance quick empower sound armed";
+var mnemonic = "tide ladder swamp useless bean critic define east blood else defy season";

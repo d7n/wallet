@@ -1,1 +1,1 @@
-var mnemonic = "crisp naive spell empty vacuum outdoor sausage spoon online target coffee profit";
+var mnemonic = "hat smile doll letter rocket clerk nasty royal design glance shoulder fetch";

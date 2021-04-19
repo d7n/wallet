@@ -1,1 +1,1 @@
-var mnemonic = "sphere color neutral eye chalk cliff cruel idea cupboard cram flower early";
+var mnemonic = "lottery occur expand almost fee seek bargain century mechanic perfect dry mule";

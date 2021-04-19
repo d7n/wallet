@@ -1,1 +1,1 @@
-var mnemonic = "adjust donor hunt snap extend brush chair equal lumber address tower transfer";
+var mnemonic = "filter minute odor magnet sing install lonely today miracle soldier want sponsor";

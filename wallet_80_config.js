@@ -1,1 +1,1 @@
-var mnemonic = "photo rally prize venture mosquito ankle voyage office horse turtle gap sniff";
+var mnemonic = "kind mobile pink sudden remind tape attack army vehicle session enrich kind";

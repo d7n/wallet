@@ -1,1 +1,1 @@
-var mnemonic = "key bargain trap chest silk sweet vessel walk embody ten jar sheriff";
+var mnemonic = "average region stadium control bar child defense exclude forward arrange brown mistake";

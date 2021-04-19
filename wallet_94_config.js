@@ -1,1 +1,1 @@
-var mnemonic = "intact donkey labor green cage tree category oyster shrug nation argue order";
+var mnemonic = "near barrel decide absent cousin winter turtle live proud deal next boring";

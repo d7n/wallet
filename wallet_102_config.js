@@ -1,1 +1,1 @@
-var mnemonic = "dust since lesson wire husband awake arrange reveal lottery half scout throw";
+var mnemonic = "fortune venue destroy cheese disease pair tent keep arctic echo auto aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "coil wrong always twin zoo rate glove security sport year dish kiss";
+var mnemonic = "stumble twenty frame web arrow orbit piece large marriage enemy pill attack";

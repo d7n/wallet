@@ -1,1 +1,1 @@
-var mnemonic = "nest auction olive cliff slush farm deliver arch six adjust violin skirt";
+var mnemonic = "nature fashion speak echo valve simple reform worry noodle rural fashion tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "bag arrive tuna nut polar oven escape nothing diesel inherit couple board";
+var mnemonic = "choose error alert problem only wrist drill leader swallow hundred measure month";

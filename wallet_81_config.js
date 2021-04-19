@@ -1,1 +1,1 @@
-var mnemonic = "gauge boost rural wrist march oxygen depth curious happy model object essay";
+var mnemonic = "intact benefit mobile donkey picture burst such interest veteran acoustic uniform lesson";

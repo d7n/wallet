@@ -1,1 +1,1 @@
-var mnemonic = "health silent predict drama name cradle wrist recall favorite lamp effort course";
+var mnemonic = "retreat much nurse second fiscal vacant ranch box box harsh rule cushion";

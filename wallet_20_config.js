@@ -1,1 +1,1 @@
-var mnemonic = "neglect light field piano equip artefact quantum assist recycle essence ceiling announce";
+var mnemonic = "must funny travel census virtual dynamic donor include fortune grape endorse present";

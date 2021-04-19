@@ -1,1 +1,1 @@
-var mnemonic = "right aerobic auction keen man lemon bottom pelican damp size error clown";
+var mnemonic = "harsh motion reveal panel spray click edge eagle trash latin twist industry";

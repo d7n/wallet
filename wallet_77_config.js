@@ -1,1 +1,1 @@
-var mnemonic = "pave primary among must juice humor trend talk rifle save trigger country";
+var mnemonic = "thing service invest announce together clock soft balance civil hair caught stem";

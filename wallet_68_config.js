@@ -1,1 +1,1 @@
-var mnemonic = "figure bunker tornado crowd seat fade borrow net letter acoustic salmon van";
+var mnemonic = "member script buddy sand exotic patch travel cabbage rigid simple size rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "dress crew fence frost reunion scout bus business repeat rocket sort extra";
+var mnemonic = "just ugly expect heart disease describe habit avoid wife argue peace source";

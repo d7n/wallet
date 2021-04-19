@@ -1,1 +1,1 @@
-var mnemonic = "robot hospital crew cart sunny buyer palm comic bird cheap whisper bachelor";
+var mnemonic = "rifle choose identify profit reform prosper direct rich bullet omit permit spell";

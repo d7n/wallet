@@ -1,1 +1,1 @@
-var mnemonic = "cargo judge bring model book great only gadget exercise card dentist flat";
+var mnemonic = "unit enact exact switch chaos clock fit armed name sick plug aim";

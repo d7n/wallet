@@ -1,1 +1,1 @@
-var mnemonic = "human spice rookie stock derive theory profit wrestle renew wrap ramp rival";
+var mnemonic = "guitar crop lounge render boring winter magnet analyst carpet foam ridge vote";

@@ -1,1 +1,1 @@
-var mnemonic = "square jar wedding inherit girl nurse know suggest off quick today slim";
+var mnemonic = "unfair clarify cream proof orphan box cave dolphin two tornado mixed pass";

@@ -1,1 +1,1 @@
-var mnemonic = "close logic addict rookie bullet heart error rug rocket priority olive length";
+var mnemonic = "legend sign require buddy leaf critic stage place camp rely vanish advance";

@@ -1,1 +1,1 @@
-var mnemonic = "bright crane oval pumpkin term click valve gossip crater aerobic twenty flight";
+var mnemonic = "rare cash toddler cloud tip shaft gym inherit shoe about tank seed";

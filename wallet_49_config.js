@@ -1,1 +1,1 @@
-var mnemonic = "have speak social aerobic online amateur zone husband sell bless balance taxi";
+var mnemonic = "hospital cube rib soap audit december obey valve board sock share risk";

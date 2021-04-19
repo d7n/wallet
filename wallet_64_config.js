@@ -1,1 +1,1 @@
-var mnemonic = "give toddler weekend skin follow noise educate arctic correct pair apart crash";
+var mnemonic = "focus horror vote century story glimpse physical swap banner regular throw anchor";

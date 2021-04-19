@@ -1,1 +1,1 @@
-var mnemonic = "toast taste boring chair token lucky egg shock guard borrow play trash";
+var mnemonic = "nominee pledge disorder connect crowd soccer title symbol mixed web kite collect";

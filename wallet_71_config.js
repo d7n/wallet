@@ -1,1 +1,1 @@
-var mnemonic = "lamp illegal upper iron snow crack spatial super immune piano stable urge";
+var mnemonic = "call milk effort patient until entire capable tortoise alley best ice fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "manual doctor foil hybrid sunny material wheat arrest drill immune soft soon";
+var mnemonic = "outdoor answer brand job company panther culture layer castle obtain taste also";

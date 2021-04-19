@@ -1,1 +1,1 @@
-var mnemonic = "magnet magnet animal orphan apple settle monster tackle number mimic fruit topple";
+var mnemonic = "catch sheriff spatial happy correct rally more review ahead alter craft village";

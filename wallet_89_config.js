@@ -1,1 +1,1 @@
-var mnemonic = "unlock six aisle sunny student level guide lottery horror denial wood coral";
+var mnemonic = "spatial ribbon faculty marble castle deal reunion cram tongue laugh network differ";

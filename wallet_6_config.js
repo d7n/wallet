@@ -1,1 +1,1 @@
-var mnemonic = "devote wrist obscure garbage angle cargo what decorate ski minimum shallow chunk";
+var mnemonic = "ill stem there melt during entry shock trend mosquito paddle pupil slam";
