@@ -1,1 +1,1 @@
-var mnemonic = "vendor chalk lawn twelve near other normal black tell humble problem idle";
+var mnemonic = "conduct enforce middle state double equal hobby believe fresh flag click addict";

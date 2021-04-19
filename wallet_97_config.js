@@ -1,1 +1,1 @@
-var mnemonic = "nation arm game science swift despair grunt genuine enhance injury wheel behind";
+var mnemonic = "label water point achieve gadget eagle debris ignore voice garlic steel access";

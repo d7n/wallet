@@ -1,1 +1,1 @@
-var mnemonic = "pole right camera tunnel curtain speak warrior wood tragic thank attitude judge";
+var mnemonic = "width crawl piano slot attract enroll gate decide forest success bomb slim";

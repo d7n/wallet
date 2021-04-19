@@ -1,1 +1,1 @@
-var mnemonic = "benefit twice summer armed loud economy mass luxury catch novel cram lobster";
+var mnemonic = "mouse auto slot jar violin scan limit spend easy river quote license";

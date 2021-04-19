@@ -1,1 +1,1 @@
-var mnemonic = "vast rebuild detect mean park bamboo wink rifle actor rigid total toast";
+var mnemonic = "observe setup pear ship walnut topple fancy about immense soda absurd slice";

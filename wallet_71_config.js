@@ -1,1 +1,1 @@
-var mnemonic = "loud stable member pyramid breeze prosper perfect such coach stumble soft wage";
+var mnemonic = "chunk ice camp reason primary crazy town example duty olive tent cactus";

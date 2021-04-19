@@ -1,1 +1,1 @@
-var mnemonic = "mean sudden mandate model market cable close enlist code jump swap feel";
+var mnemonic = "second interest miss goat negative wing that young wedding photo portion near";

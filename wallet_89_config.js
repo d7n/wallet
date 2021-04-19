@@ -1,1 +1,1 @@
-var mnemonic = "law stick antenna legal funny arm wet govern front this best below";
+var mnemonic = "addict tribe knock stairs debris usual baby twelve reject stairs main leave";

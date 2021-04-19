@@ -1,1 +1,1 @@
-var mnemonic = "steak clump about weird open welcome flock order venue tree barely view";
+var mnemonic = "matrix ranch zero fancy olympic bottom lounge female lottery achieve hammer rebel";

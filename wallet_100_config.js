@@ -1,1 +1,1 @@
-var mnemonic = "police bleak order giraffe card gun uphold engine lab story actual comfort";
+var mnemonic = "cabbage steel oven music kiwi idea math concert figure stock copper almost";

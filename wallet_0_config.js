@@ -1,1 +1,1 @@
-var mnemonic = "family reflect example bridge glass rigid steel true sweet pen desert thing";
+var mnemonic = "sheriff episode junior pink echo main pluck spend dream famous satisfy spin";

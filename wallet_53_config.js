@@ -1,1 +1,1 @@
-var mnemonic = "female other puppy immune obey tourist final soccer palace gauge mad turkey";
+var mnemonic = "raven fury metal fiscal differ coil action faint inflict load never network";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit tunnel chief caution color armed garage pig explain royal settle pony";
+var mnemonic = "push question gloom balcony april shiver profit cereal model kangaroo wolf relief";

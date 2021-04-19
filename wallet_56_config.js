@@ -1,1 +1,1 @@
-var mnemonic = "field giraffe ripple interest bless wise lunch town maple silent wonder path";
+var mnemonic = "grab student novel recipe air drift resource six absurd season tobacco company";

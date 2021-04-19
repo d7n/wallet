@@ -1,1 +1,1 @@
-var mnemonic = "process nuclear sorry toilet marine large combine ankle surprise cement emerge confirm";
+var mnemonic = "ladder claim royal track ghost ten uncover train quick wine inside matrix";

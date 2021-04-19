@@ -1,1 +1,1 @@
-var mnemonic = "holiday upon gloom weasel decorate twin cradle question plate pact purpose call";
+var mnemonic = "wrestle hunt lemon now life wear park arrange blast theme interest client";

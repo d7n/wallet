@@ -1,1 +1,1 @@
-var mnemonic = "dirt step draw ready oblige veteran math rate lecture regular advance lizard";
+var mnemonic = "proof device earth tree discover tag never fashion alter diamond clutch attitude";

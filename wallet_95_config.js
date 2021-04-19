@@ -1,1 +1,1 @@
-var mnemonic = "garbage filter during miracle clay embark unusual follow veteran excess vague path";
+var mnemonic = "busy lonely flower fabric virtual now antenna organ axis gas lecture system";

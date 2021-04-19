@@ -1,1 +1,1 @@
-var mnemonic = "upon arctic fiber pilot vanish angle prosper fashion danger wedding legal spread";
+var mnemonic = "swamp artefact response noble deny frozen device noise gym pulse animal mad";

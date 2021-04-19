@@ -1,1 +1,1 @@
-var mnemonic = "start copper female tell vital trap horse zebra female monkey mirror unaware";
+var mnemonic = "federal practice chunk pave buzz cinnamon together normal cattle success disease enhance";

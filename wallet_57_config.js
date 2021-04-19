@@ -1,1 +1,1 @@
-var mnemonic = "armor offer belt hire jump veteran appear twelve flight boss consider miss";
+var mnemonic = "drip tell clean toward motor quality tissue gas sweet grief code torch";

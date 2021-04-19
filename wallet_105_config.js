@@ -1,1 +1,1 @@
-var mnemonic = "provide hub fame energy hunt still fork fatal meat clever dutch exist";
+var mnemonic = "hat close foam world chat truck thank trash shed coffee insane pioneer";

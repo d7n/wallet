@@ -1,1 +1,1 @@
-var mnemonic = "cook craft youth spring patch parrot face coconut park arctic collect census";
+var mnemonic = "setup diet talent surface notice holiday exotic audit caught lock steak weekend";

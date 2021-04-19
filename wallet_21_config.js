@@ -1,1 +1,1 @@
-var mnemonic = "dress obscure argue evolve service hire horn circle crane smooth fatal mean";
+var mnemonic = "cross miss body provide crane defense twice rescue vivid silk leader annual";

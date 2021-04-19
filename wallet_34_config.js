@@ -1,1 +1,1 @@
-var mnemonic = "actress ski evolve hedgehog physical rural winter column reason purpose merge crater";
+var mnemonic = "clap skull sustain illegal palace game mystery lion resource pluck rely reflect";

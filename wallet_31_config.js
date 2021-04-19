@@ -1,1 +1,1 @@
-var mnemonic = "garlic trophy congress second reopen success offer laptop define glance tumble remember";
+var mnemonic = "they wool poem grape jar rice casual cube garlic hand clown traffic";

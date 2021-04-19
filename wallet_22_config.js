@@ -1,1 +1,1 @@
-var mnemonic = "learn giraffe fork can mountain supply cluster wedding empty unfair dune chest";
+var mnemonic = "party basket wild cargo crew dutch mix begin same gentle tragic behind";

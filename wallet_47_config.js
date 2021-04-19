@@ -1,1 +1,1 @@
-var mnemonic = "improve fork spin wear dolphin forum enlist cash suggest dad volcano coast";
+var mnemonic = "unique sphere toilet zero system cactus cave where record guitar that cross";

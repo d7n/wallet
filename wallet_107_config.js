@@ -1,1 +1,1 @@
-var mnemonic = "search cake away garlic damage throw into dream report leave pear lend";
+var mnemonic = "warfare art ship rotate retreat long renew frost trouble motor river knee";

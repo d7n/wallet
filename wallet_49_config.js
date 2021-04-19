@@ -1,1 +1,1 @@
-var mnemonic = "position unique interest general forward mean board index barrel property acquire boss";
+var mnemonic = "aim female surface display uphold creek adjust idea winner oval room endorse";

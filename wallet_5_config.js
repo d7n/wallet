@@ -1,1 +1,1 @@
-var mnemonic = "opinion suggest pull foil find answer require derive fame cram kick vicious";
+var mnemonic = "loyal artwork eye canyon soccer truck supply pluck behind labor theme praise";

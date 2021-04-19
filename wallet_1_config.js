@@ -1,1 +1,1 @@
-var mnemonic = "room color cry culture wish sense first celery cross bamboo alley bleak";
+var mnemonic = "comfort session path era banana awful owner elite reveal dinner badge repair";

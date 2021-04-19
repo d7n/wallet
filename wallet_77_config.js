@@ -1,1 +1,1 @@
-var mnemonic = "brother scissors knife omit beyond cable honey spice fury water cabin inmate";
+var mnemonic = "love focus chair finish clarify coffee hip ill tourist catalog abstract good";

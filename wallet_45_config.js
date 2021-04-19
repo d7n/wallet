@@ -1,1 +1,1 @@
-var mnemonic = "retreat hello child suffer true muffin skate cattle coral misery digital unable";
+var mnemonic = "antique ginger happy digital sauce mom ketchup cover skirt diesel upper try";

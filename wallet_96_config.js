@@ -1,1 +1,1 @@
-var mnemonic = "empty gaze obtain damp choose wonder favorite defense outside coyote spatial silk";
+var mnemonic = "baby skill impulse mushroom lens curve craft duty switch accident step smooth";

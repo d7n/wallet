@@ -1,1 +1,1 @@
-var mnemonic = "enforce digital mushroom ghost world keen great clip pool crumble imitate wish";
+var mnemonic = "merge check hair document depart dignity cream fly unfold vintage any today";

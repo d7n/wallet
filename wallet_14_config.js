@@ -1,1 +1,1 @@
-var mnemonic = "admit reward rookie chicken awful game skin pudding where ancient cause budget";
+var mnemonic = "forum review infant combine jacket announce common tent evil deliver slogan fix";

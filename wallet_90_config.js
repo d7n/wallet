@@ -1,1 +1,1 @@
-var mnemonic = "proof rather orphan knee ensure size shove author grant swarm cost fade";
+var mnemonic = "fresh beach sting lonely flash follow december armor ocean right pulse extend";

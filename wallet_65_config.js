@@ -1,1 +1,1 @@
-var mnemonic = "vocal curious concert pelican detect grab west muffin print crumble brisk ritual";
+var mnemonic = "desk glare innocent stand comic glory industry nothing salad august negative wrap";

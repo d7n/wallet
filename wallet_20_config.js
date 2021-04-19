@@ -1,1 +1,1 @@
-var mnemonic = "dutch knife play glow female spy crowd boring olympic bridge cat drastic";
+var mnemonic = "scan number tomato spice pink morning spot chest spin feature hospital retreat";

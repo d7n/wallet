@@ -1,1 +1,1 @@
-var mnemonic = "nice buffalo shift destroy potato blossom bullet blind just nice ethics deputy";
+var mnemonic = "nest envelope foot fan mutual boat six impose private obscure parrot buzz";

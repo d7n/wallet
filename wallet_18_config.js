@@ -1,1 +1,1 @@
-var mnemonic = "melt adult proud minor decrease space loyal jazz glare table duty buyer";
+var mnemonic = "rocket cushion pride stay fence twist cradle food vintage rotate regret upset";

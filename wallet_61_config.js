@@ -1,1 +1,1 @@
-var mnemonic = "useless minor measure copper erase celery coach input hawk write guitar hat";
+var mnemonic = "retire cover order click shallow great coil twice flee puzzle either economy";

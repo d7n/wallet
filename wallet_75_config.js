@@ -1,1 +1,1 @@
-var mnemonic = "system amateur journey rhythm number shallow solar dumb drive high machine woman";
+var mnemonic = "cloth train believe glide assault fork design taste eyebrow grit assume atom";

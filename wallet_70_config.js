@@ -1,1 +1,1 @@
-var mnemonic = "tone bind minute allow bomb click home home general material seven where";
+var mnemonic = "use scorpion miss estate lab fever measure brother rotate surface pulp hood";

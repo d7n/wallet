@@ -1,1 +1,1 @@
-var mnemonic = "dizzy ask click beauty walk tonight disease capable recipe swarm noodle peasant";
+var mnemonic = "today wasp alcohol crouch salmon crop guard dune traffic visit device music";

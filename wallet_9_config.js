@@ -1,1 +1,1 @@
-var mnemonic = "mixed civil pottery actress drop outdoor pluck photo grit renew live frequent";
+var mnemonic = "destroy arrest inherit anxiety rocket deny lizard liquid smile economy wet feature";

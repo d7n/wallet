@@ -1,1 +1,1 @@
-var mnemonic = "hub eyebrow habit coyote hub media wine erupt sugar math quality elder";
+var mnemonic = "strategy mixed taxi meat trash sunny creek also abuse rookie toddler alter";

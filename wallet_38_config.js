@@ -1,1 +1,1 @@
-var mnemonic = "skate measure boat fitness purity purse pipe obvious hand minute sea brother";
+var mnemonic = "sock skill island middle diamond reform pigeon state neither script humor multiply";

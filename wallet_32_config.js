@@ -1,1 +1,1 @@
-var mnemonic = "goose crack spider discover tank weasel strike victory pencil file fluid put";
+var mnemonic = "outer dynamic yellow whip dance deal promote educate owner equal name rocket";

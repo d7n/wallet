@@ -1,1 +1,1 @@
-var mnemonic = "wall suffer erupt number ready device lunar mansion steak midnight wage gown";
+var mnemonic = "secret feel inject mystery fee symbol example illegal eyebrow trouble hour actual";

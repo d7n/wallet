@@ -1,1 +1,1 @@
-var mnemonic = "kitten round property torch room hamster pen silk tourist noodle achieve history";
+var mnemonic = "elder supply knife smooth aunt cluster measure funny glare game syrup sudden";

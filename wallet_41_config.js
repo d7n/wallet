@@ -1,1 +1,1 @@
-var mnemonic = "pond reunion yard leg buzz unique main mail dog tide thumb never";
+var mnemonic = "month oblige stool acoustic insect lucky slab tiger swing child example exotic";

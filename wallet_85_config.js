@@ -1,1 +1,1 @@
-var mnemonic = "convince faint detect clip original lumber team ice surround often pepper common";
+var mnemonic = "fox sport chef between idle ill gauge resist rare jaguar swarm negative";

@@ -1,1 +1,1 @@
-var mnemonic = "sister find domain enter copy outside unhappy eight reunion salad sorry label";
+var mnemonic = "control hint already oven evolve affair nation potato frown roof sleep supply";

@@ -1,1 +1,1 @@
-var mnemonic = "tube grow require subway ahead parent extend ticket edge govern luxury across";
+var mnemonic = "turkey true honey shoe lady forget congress explain kind limit group pepper";

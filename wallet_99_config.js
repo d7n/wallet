@@ -1,1 +1,1 @@
-var mnemonic = "sun injury soccer enrich gap ranch still occur garden sample bicycle shield";
+var mnemonic = "access mail into cart wood photo creek this alcohol turkey intact matrix";

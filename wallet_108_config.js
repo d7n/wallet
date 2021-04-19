@@ -1,1 +1,1 @@
-var mnemonic = "skull arch tell clean busy ability name fade anger bulk fun cricket";
+var mnemonic = "squirrel melody talent bottom proud opinion filter raccoon seven habit monkey dirt";

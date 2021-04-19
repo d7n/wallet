@@ -1,1 +1,1 @@
-var mnemonic = "license evoke wine enrich month push wire crack candy apart impulse check";
+var mnemonic = "mixture winner near kite suit scene syrup pole mimic celery fitness interest";

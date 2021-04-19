@@ -1,1 +1,1 @@
-var mnemonic = "promote course drum surge volcano kangaroo dolphin until rule deal lake miracle";
+var mnemonic = "broom tag shaft saddle flash rose burden wheel captain soon earn girl";

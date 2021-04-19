@@ -1,1 +1,1 @@
-var mnemonic = "afraid notice dumb text capital super return denial lesson category refuse toe";
+var mnemonic = "business farm country member boil prosper water harbor neglect answer vital beach";

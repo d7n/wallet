@@ -1,1 +1,1 @@
-var mnemonic = "twist daring diet near option ladder salon evidence common fruit huge tenant";
+var mnemonic = "affair bachelor method endless pulse segment ridge suggest black measure skill autumn";

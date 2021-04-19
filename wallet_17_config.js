@@ -1,1 +1,1 @@
-var mnemonic = "pyramid quote clerk another fiscal pudding crisp similar ripple smile hotel gasp";
+var mnemonic = "knock supply spin egg fee myself credit vacuum artefact grow panther minor";

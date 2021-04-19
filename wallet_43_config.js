@@ -1,1 +1,1 @@
-var mnemonic = "say become dice chef write mutual nose tongue drum witness outdoor shift";
+var mnemonic = "require bonus trade fee liar wonder offer hour together blast album unfold";

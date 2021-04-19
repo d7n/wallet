@@ -1,1 +1,1 @@
-var mnemonic = "little business viable coil zero spider message reflect visit ankle typical nominee";
+var mnemonic = "raise news sand couple exile ship lawsuit strong sustain sorry father canyon";

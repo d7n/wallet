@@ -1,1 +1,1 @@
-var mnemonic = "wing fitness alert chalk diamond speak focus puzzle later ivory author pond";
+var mnemonic = "amateur diesel metal divide ranch empower misery sun indoor gown provide suspect";

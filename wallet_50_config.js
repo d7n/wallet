@@ -1,1 +1,1 @@
-var mnemonic = "believe piece gentle fine install lab crime canoe cup trick leader velvet";
+var mnemonic = "enforce crash canoe flame vital grief extra common strong screen charge improve";

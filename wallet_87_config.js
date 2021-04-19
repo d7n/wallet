@@ -1,1 +1,1 @@
-var mnemonic = "family father muscle artefact attack grit task sort true use moral three";
+var mnemonic = "print bundle artefact armor praise craft lion square wood often gift spare";

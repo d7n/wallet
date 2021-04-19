@@ -1,1 +1,1 @@
-var mnemonic = "latin among cushion supreme ramp empty barely decorate diary worry chaos crystal";
+var mnemonic = "enable wrong pause film soul dilemma fatigue pulse cart absent dismiss cream";

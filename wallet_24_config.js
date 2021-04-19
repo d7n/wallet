@@ -1,1 +1,1 @@
-var mnemonic = "dismiss hedgehog chair mutual shallow violin relief dynamic school outdoor other ridge";
+var mnemonic = "security forum rule judge empower vast alcohol opera chronic kiss drive differ";

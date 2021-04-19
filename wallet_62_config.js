@@ -1,1 +1,1 @@
-var mnemonic = "moon pass doctor diary banana law code country squeeze play bench tiny";
+var mnemonic = "airport century diagram load boil erupt cloth tuna satoshi three wise this";

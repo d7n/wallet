@@ -1,1 +1,1 @@
-var mnemonic = "fuel embrace monster board say pledge project enjoy champion dry child brother";
+var mnemonic = "obey curve carry quit skirt pull isolate pattern segment attract rural flush";

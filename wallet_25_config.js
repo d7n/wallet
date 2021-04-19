@@ -1,1 +1,1 @@
-var mnemonic = "maple bulk clinic table crime combine toilet early mention health better thunder";
+var mnemonic = "wood thumb sun buzz welcome mask file best crawl cushion three inch";

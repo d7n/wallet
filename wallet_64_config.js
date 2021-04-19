@@ -1,1 +1,1 @@
-var mnemonic = "omit march often cool actor load supply suit crumble limb flavor escape";
+var mnemonic = "enact chaos glue banner long unveil whisper tone worth rebuild garden radar";

@@ -1,1 +1,1 @@
-var mnemonic = "view orphan lava exchange start explain mushroom fog exchange fatigue hazard cousin";
+var mnemonic = "victory resource mask general enable shuffle blame walnut fiscal topple final mirror";

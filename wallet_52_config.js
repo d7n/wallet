@@ -1,1 +1,1 @@
-var mnemonic = "castle filter pink wealth category write exact success spice pause grass fury";
+var mnemonic = "term endorse alert install grief affair ticket picnic spatial around chest broccoli";

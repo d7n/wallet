@@ -1,1 +1,1 @@
-var mnemonic = "that weekend boat merge spoon human ramp assist apple hurdle noise bottom";
+var mnemonic = "mad skull can view corn stairs daring bunker copper flavor bring seminar";

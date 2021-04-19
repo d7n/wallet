@@ -1,1 +1,1 @@
-var mnemonic = "script civil echo silk sheriff economy lens stick stuff shield device journey";
+var mnemonic = "universe net gravity that main verb goat jar cat cluster pink borrow";

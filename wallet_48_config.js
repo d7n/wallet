@@ -1,1 +1,1 @@
-var mnemonic = "twelve wrestle fortune raw leg keen vote scale slim perfect legal panic";
+var mnemonic = "thunder awkward jealous tip labor museum nephew clump sustain upon differ wife";

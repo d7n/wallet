@@ -1,1 +1,1 @@
-var mnemonic = "surface tuition bid destroy novel relief federal decline notice kit siren hope";
+var mnemonic = "cheap talent retreat able upper gospel link size monkey march curtain chief";

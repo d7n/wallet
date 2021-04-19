@@ -1,1 +1,1 @@
-var mnemonic = "drip swift frame lab stone amateur speed worth virus isolate vendor stable";
+var mnemonic = "foot fruit pistol stem eager rain balcony crater shift flush slogan brave";

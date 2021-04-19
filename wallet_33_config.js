@@ -1,1 +1,1 @@
-var mnemonic = "happy soccer alone bracket border gravity drum country sniff view elbow keep";
+var mnemonic = "crash faculty agree hat stumble bridge gold glare follow plate beauty bubble";

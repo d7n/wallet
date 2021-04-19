@@ -1,1 +1,1 @@
-var mnemonic = "employ grain suffer already anchor please stick flip okay rigid clay pottery";
+var mnemonic = "confirm person squeeze couch depart inherit oil attract staff stumble pizza aim";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric brush verb poet uncover will vessel spatial void share number front";
+var mnemonic = "office sound funny forum radar convince skate dolphin shop ripple initial state";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit final manual evoke private ghost unique undo mosquito donate eagle spoon";
+var mnemonic = "glow thumb crack repeat engine zero hawk coast rate foot luggage lounge";

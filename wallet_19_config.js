@@ -1,1 +1,1 @@
-var mnemonic = "since mansion crack fiction smile jungle uncover unlock light powder hub cram";
+var mnemonic = "rebel type kidney coil future flush solve nurse milk view unique index";

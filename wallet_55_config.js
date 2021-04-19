@@ -1,1 +1,1 @@
-var mnemonic = "solution melody attract select betray few maximum loud collect cart legal general";
+var mnemonic = "cube marine nerve rotate sell silly inner gaze squeeze ocean trick false";

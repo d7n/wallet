@@ -1,1 +1,1 @@
-var mnemonic = "solution head title gym soft piano grape collect edit cram glare regret";
+var mnemonic = "item hotel throw profit sample drum sock bargain soon romance exit rib";

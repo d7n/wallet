@@ -1,1 +1,1 @@
-var mnemonic = "stick endorse warfare circle coil museum vivid chat lab talk trigger oblige";
+var mnemonic = "dirt mix float violin noble fruit lyrics industry tobacco emotion shop nation";

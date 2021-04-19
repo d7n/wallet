@@ -1,1 +1,1 @@
-var mnemonic = "gather goddess fancy discover rent detail because undo odor foot segment eternal";
+var mnemonic = "orbit pioneer attract vacant glove turn diagram what horse seed drum orange";

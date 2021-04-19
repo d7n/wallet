@@ -1,1 +1,1 @@
-var mnemonic = "since fault grief essay host swift twice coffee voyage cash crumble city";
+var mnemonic = "tortoise hire iron abandon work milk panel clinic home absorb cousin bracket";

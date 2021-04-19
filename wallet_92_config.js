@@ -1,1 +1,1 @@
-var mnemonic = "aware mad during maze broccoli skull nose blood rally trial federal heavy";
+var mnemonic = "spin mutual shoe bitter surround share oven warrior shallow run bless fine";

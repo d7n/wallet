@@ -1,1 +1,1 @@
-var mnemonic = "wave pupil slender spread else raccoon cushion garbage worth inquiry strategy dad";
+var mnemonic = "daring party eagle design spot shrug skull forest drill vote aunt swing";

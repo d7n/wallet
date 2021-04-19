@@ -1,1 +1,1 @@
-var mnemonic = "drill rack weapon sting notable shrimp defy ocean scorpion act wife unique";
+var mnemonic = "awake risk smoke erase indoor bone maple trip estate hub father spice";

@@ -1,1 +1,1 @@
-var mnemonic = "core maple enemy ten vault doll pool cart knock material chaos boss";
+var mnemonic = "flower wrestle surge final elite soldier bulk crash service miracle virtual family";

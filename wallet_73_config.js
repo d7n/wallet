@@ -1,1 +1,1 @@
-var mnemonic = "burger live sugar soldier scene dash cement pink area goddess abuse cabin";
+var mnemonic = "crowd crash someone argue immune please town dizzy camera maid arch certain";

@@ -1,1 +1,1 @@
-var mnemonic = "tip fade super knock bounce cram myth chronic laundry bone inside cover";
+var mnemonic = "away exist attract shell resource mushroom unable brain people gadget gown brain";
