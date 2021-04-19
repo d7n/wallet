@@ -1,1 +1,1 @@
-var mnemonic = "nasty runway cry curious toss pistol panther zebra fiscal volcano achieve toast";
+var mnemonic = "garlic begin piano exhaust vital child never swap sauce woman parade problem";

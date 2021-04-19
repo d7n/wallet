@@ -1,1 +1,1 @@
-var mnemonic = "direct because area chaos danger fashion change order hunt helmet film rigid";
+var mnemonic = "frozen stereo sentence crouch wrist spend heavy wasp fit culture hello parent";

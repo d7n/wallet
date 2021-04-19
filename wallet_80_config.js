@@ -1,1 +1,1 @@
-var mnemonic = "dry lend now cheese dynamic breeze tennis achieve faith lava purse figure";
+var mnemonic = "frost vendor subway width define lunch harsh twice enable jacket casino ahead";

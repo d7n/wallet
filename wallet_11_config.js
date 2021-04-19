@@ -1,1 +1,1 @@
-var mnemonic = "behind draw obscure crawl huge virus pudding hard answer abandon clap tooth";
+var mnemonic = "neck lounge base crawl nose retire inherit upgrade case inflict wrong swarm";

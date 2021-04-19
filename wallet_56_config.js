@@ -1,1 +1,1 @@
-var mnemonic = "tuna category buddy usual angle maid spread pepper cart radar spoil electric";
+var mnemonic = "whip juice evoke total screen priority card curtain purse thumb century suggest";

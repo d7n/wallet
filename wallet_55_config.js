@@ -1,1 +1,1 @@
-var mnemonic = "portion pave thunder drop danger supply sock invite wage news industry current";
+var mnemonic = "uncle typical hip frozen sick produce grow blame wool feature second vintage";

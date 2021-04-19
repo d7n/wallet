@@ -1,1 +1,1 @@
-var mnemonic = "stick curve just talent crazy carry supply chuckle menu roof describe tiny";
+var mnemonic = "miss result tornado run panel fence clip direct arrest helmet disease material";

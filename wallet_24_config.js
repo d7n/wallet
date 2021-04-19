@@ -1,1 +1,1 @@
-var mnemonic = "soon abstract anxiety speed mother furnace vast seed correct want shoulder draft";
+var mnemonic = "alone pole truth urban improve canyon garbage motor build rhythm resist word";

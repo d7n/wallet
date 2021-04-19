@@ -1,1 +1,1 @@
-var mnemonic = "crumble observe color nut melody large luggage jeans crisp one firm topple";
+var mnemonic = "girl alone wife must beyond glass produce junior grant rural mystery angle";

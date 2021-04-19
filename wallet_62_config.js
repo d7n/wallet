@@ -1,1 +1,1 @@
-var mnemonic = "business control kidney matter wood tail garden section yard quote wink excess";
+var mnemonic = "skirt obey supply antique music pact echo cloud next sell curious stem";

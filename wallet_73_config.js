@@ -1,1 +1,1 @@
-var mnemonic = "unique escape truck nurse merry must puppy yellow staff tomorrow april provide";
+var mnemonic = "kitchen sibling echo what ozone pretty priority task quick fancy purpose help";

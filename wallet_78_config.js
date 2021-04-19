@@ -1,1 +1,1 @@
-var mnemonic = "lottery panda square concert rebel awkward divorce slab junk impact ocean omit";
+var mnemonic = "blur mom pill clock worth edge hero half seat recipe blind category";

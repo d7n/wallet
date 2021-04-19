@@ -1,1 +1,1 @@
-var mnemonic = "isolate autumn thumb wagon pigeon hand rabbit wait round glide eagle allow";
+var mnemonic = "common symptom model promote ride present vintage area crawl team sugar property";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital print holiday battle cabin buffalo car camp pony click clog gym";
+var mnemonic = "aunt kitten undo basket satoshi embrace tobacco dolphin detail film impulse thing";

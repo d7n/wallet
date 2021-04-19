@@ -1,1 +1,1 @@
-var mnemonic = "hotel crucial hole allow dust arctic final absorb green opinion lake foster";
+var mnemonic = "echo that result couple sister symbol decade close pistol burden ask leave";

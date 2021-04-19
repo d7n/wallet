@@ -1,1 +1,1 @@
-var mnemonic = "attack defy mention wise sing joke gym media salon venture game web";
+var mnemonic = "base tree story rocket female lawn someone enrich camp tissue say penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine globe rug beach lucky warm black banner rude blur lab pipe";
+var mnemonic = "embrace reopen nurse load travel increase gaze trouble senior strike fat anger";

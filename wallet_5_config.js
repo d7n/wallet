@@ -1,1 +1,1 @@
-var mnemonic = "guilt praise boring embark club actor bomb drop reflect tag dice mean";
+var mnemonic = "joy shop arrange donate anger retire fire flash proud jewel equip student";

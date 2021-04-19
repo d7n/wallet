@@ -1,1 +1,1 @@
-var mnemonic = "squirrel between yellow disagree now chef category pelican funny mule walk juice";
+var mnemonic = "monitor anger consider topic wood cause title current reject endorse mango circle";

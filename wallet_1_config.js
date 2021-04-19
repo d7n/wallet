@@ -1,1 +1,1 @@
-var mnemonic = "holiday duck like inmate review layer cloth vicious cloud critic mule globe";
+var mnemonic = "alien link come old add aspect width describe draw explain success afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "reject axis style clutch crucial wear frozen jaguar innocent broccoli liar gain";
+var mnemonic = "render series hungry crater venue position report heavy number moon when soon";

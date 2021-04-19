@@ -1,1 +1,1 @@
-var mnemonic = "screen pool cousin easy choose cushion admit brother kiwi slight mutual dignity";
+var mnemonic = "marine force protect wonder person base wink hello adapt slogan shift adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "sense flavor grace labor million mouse nephew home loud ride adult camera";
+var mnemonic = "vapor patient trigger system trip lens lyrics stadium rubber pigeon wife trust";

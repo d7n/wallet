@@ -1,1 +1,1 @@
-var mnemonic = "bracket opera volume program pride picture swift episode uniform sibling lab lecture";
+var mnemonic = "soccer pink there proud nut title digital mechanic jacket piano sleep library";

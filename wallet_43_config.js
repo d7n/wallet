@@ -1,1 +1,1 @@
-var mnemonic = "birth barrel nothing million volcano rural whisper tooth mistake trend first cheese";
+var mnemonic = "balance quit magnet globe embark sunny soup choice way capital hen subject";

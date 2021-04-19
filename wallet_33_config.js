@@ -1,1 +1,1 @@
-var mnemonic = "helmet crash birth attitude avocado team tomorrow change caution talent below wheat";
+var mnemonic = "found piano biology deal surprise comfort elegant scene pig breeze state stick";

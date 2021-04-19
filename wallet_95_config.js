@@ -1,1 +1,1 @@
-var mnemonic = "rookie crew cheese visa omit orange steak surprise mimic next empty ostrich";
+var mnemonic = "dish brass produce brief faith hospital early offer metal peanut harbor glare";

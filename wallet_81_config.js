@@ -1,1 +1,1 @@
-var mnemonic = "lumber lava uncover name concert view announce orange wrap leisure photo wrap";
+var mnemonic = "slush sign avocado squeeze minor obvious refuse tackle verb tooth tribe detect";

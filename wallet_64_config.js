@@ -1,1 +1,1 @@
-var mnemonic = "report supreme good company time rabbit visual beach chronic example someone health";
+var mnemonic = "abuse tiny spoil claw enforce above monkey speak night crucial crawl yellow";

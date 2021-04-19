@@ -1,1 +1,1 @@
-var mnemonic = "cement airport kit basket banana bread truth mix gown depend brave sadness";
+var mnemonic = "detail romance pear deputy height dance buddy valley aim subway food elite";

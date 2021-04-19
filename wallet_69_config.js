@@ -1,1 +1,1 @@
-var mnemonic = "extra good meat arch escape now horn loop hair faint wall sad";
+var mnemonic = "laptop noise swallow indicate airport wine finish top east cause dynamic mixed";

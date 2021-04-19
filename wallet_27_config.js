@@ -1,1 +1,1 @@
-var mnemonic = "will world student dog minute bubble domain arrow slush donor curious connect";
+var mnemonic = "online bunker dismiss february until sport surge iron glimpse skull charge tattoo";

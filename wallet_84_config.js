@@ -1,1 +1,1 @@
-var mnemonic = "shallow canvas parade prevent organ armed pelican cry question fetch photo cheese";
+var mnemonic = "away adjust flight fiction brush stable purity blade begin clean perfect caught";

@@ -1,1 +1,1 @@
-var mnemonic = "paper bacon disorder margin quarter assume electric engage sample wool magnet blame";
+var mnemonic = "stool clean blast erode museum canyon like hub hire often country inquiry";

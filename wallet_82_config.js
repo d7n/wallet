@@ -1,1 +1,1 @@
-var mnemonic = "lady check attend lady host burden flavor similar talk common crowd mercy";
+var mnemonic = "chest knee goose crop enlist planet shrug puzzle client patch toward library";

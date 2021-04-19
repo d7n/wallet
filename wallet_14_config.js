@@ -1,1 +1,1 @@
-var mnemonic = "security impulse wrong uncle symptom measure axis normal despair scrap crowd wagon";
+var mnemonic = "car focus prevent wide carbon tail prefer obey crazy dawn exact wrestle";

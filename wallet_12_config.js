@@ -1,1 +1,1 @@
-var mnemonic = "sample width debris rent exile enhance swamp quality provide eye suit arch";
+var mnemonic = "capital surface bonus dog pass inherit echo fan canoe retire reunion club";

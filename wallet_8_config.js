@@ -1,1 +1,1 @@
-var mnemonic = "fluid license struggle memory swift wet trigger woman eternal category hat tomato";
+var mnemonic = "leisure section jaguar thing sample bone dilemma isolate random green ignore enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "spider someone protect fetch attend movie cinnamon invest trigger catalog gap north";
+var mnemonic = "talk place gather zone drama start coach build nose beach fuel absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "leader hurry exchange salad squeeze small frequent provide rotate allow forum spot";
+var mnemonic = "flee office behind always wave leopard leaf crystal balcony now celery teach";

@@ -1,1 +1,1 @@
-var mnemonic = "garage smoke total bundle ecology stadium disorder sell solar decrease title wise";
+var mnemonic = "chronic double clean finish name athlete illegal shaft asset limit shove purity";

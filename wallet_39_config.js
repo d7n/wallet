@@ -1,1 +1,1 @@
-var mnemonic = "caution blush clap cigar critic sure pause tell version possible before master";
+var mnemonic = "reopen fix melody inside market sail lock enjoy mansion horn large caught";

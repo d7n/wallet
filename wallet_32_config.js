@@ -1,1 +1,1 @@
-var mnemonic = "planet tornado pelican bike film love retire hub hub surge gorilla love";
+var mnemonic = "fog patch market aunt neck wire curtain purchase toss elephant pass nice";

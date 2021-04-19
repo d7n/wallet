@@ -1,1 +1,1 @@
-var mnemonic = "lunch relax spare expand casino coin betray tank peasant vehicle envelope arm";
+var mnemonic = "absorb milk inquiry middle cage embark reduce fox jacket crater float inch";

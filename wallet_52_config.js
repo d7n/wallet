@@ -1,1 +1,1 @@
-var mnemonic = "confirm radio manage employ royal atom shift clown imitate frog gun wolf";
+var mnemonic = "approve riot whip palm other lunch swing lift chuckle snow smile kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "grow sketch thrive image between equip pulp practice wish mistake sweet focus";
+var mnemonic = "mandate celery zero resemble build tower awesome airport vote blame reward toddler";

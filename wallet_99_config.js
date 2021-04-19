@@ -1,1 +1,1 @@
-var mnemonic = "wine wife wide item patient trend oak link whip news version survey";
+var mnemonic = "vacant rally gospel exist tooth click clutch various knife couple trade betray";

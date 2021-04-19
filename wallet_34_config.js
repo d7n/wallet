@@ -1,1 +1,1 @@
-var mnemonic = "catch public human frog ostrich fog any sunny danger hobby all syrup";
+var mnemonic = "waste stove tell spend chronic move proof mixture agree notice ball much";

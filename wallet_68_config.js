@@ -1,1 +1,1 @@
-var mnemonic = "scorpion slot oven total bitter build ensure shadow often note neck demand";
+var mnemonic = "napkin tuition half churn foil obvious remember frog squeeze sustain sign airport";

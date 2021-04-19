@@ -1,1 +1,1 @@
-var mnemonic = "rhythm describe genre tip route motor drip sound artwork replace chest fashion";
+var mnemonic = "sister pretty teach prosper civil width frown cash pistol play brass act";

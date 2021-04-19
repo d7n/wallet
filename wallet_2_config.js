@@ -1,1 +1,1 @@
-var mnemonic = "base galaxy detail fashion track hire short dwarf super hurdle job desk";
+var mnemonic = "apart virus rigid grape hen kid illness ticket silk brick pair crew";

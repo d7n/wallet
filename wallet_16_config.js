@@ -1,1 +1,1 @@
-var mnemonic = "state empower elevator thunder evoke march earth animal online pizza duck have";
+var mnemonic = "absorb run gather word business boring obtain public churn ivory copy number";

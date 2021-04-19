@@ -1,1 +1,1 @@
-var mnemonic = "used correct elephant civil arrive abandon orphan cycle food ugly play layer";
+var mnemonic = "measure lab caught runway rotate draft flavor option once warm wasp diary";

@@ -1,1 +1,1 @@
-var mnemonic = "violin pave try alert whip keen length enemy vintage gospel bench clutch";
+var mnemonic = "flip chef slam doctor kiwi jaguar bunker hint plunge strike frozen lounge";

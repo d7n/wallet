@@ -1,1 +1,1 @@
-var mnemonic = "trumpet error frost mesh sleep muscle program liberty raw pill border first";
+var mnemonic = "artist book dolphin air twelve picnic super rocket once midnight beauty obscure";

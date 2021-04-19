@@ -1,1 +1,1 @@
-var mnemonic = "tourist motor elevator obvious silly mean invest announce surround banana jewel bridge";
+var mnemonic = "sand nature wash sleep knife buzz toast diet yard lecture language slab";

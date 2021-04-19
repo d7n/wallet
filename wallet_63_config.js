@@ -1,1 +1,1 @@
-var mnemonic = "solid awkward shallow panther vague person develop device thrive offer cost canvas";
+var mnemonic = "olympic goddess lecture axis mirror harvest scorpion coil labor absurd grow dizzy";

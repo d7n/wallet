@@ -1,1 +1,1 @@
-var mnemonic = "axis tooth sudden earth awesome friend zebra unfair pair elite suggest vibrant";
+var mnemonic = "hurdle often dress gym focus remove clay crumble buffalo civil aunt whisper";

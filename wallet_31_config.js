@@ -1,1 +1,1 @@
-var mnemonic = "rather claim laptop trumpet educate liquid rich gadget clever talent venture shrug";
+var mnemonic = "tube system figure earn unfair fiction decide lunar use hood feature magnet";

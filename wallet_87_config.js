@@ -1,1 +1,1 @@
-var mnemonic = "pass mistake maple mutual siege charge manage employ certain pencil wide grab";
+var mnemonic = "marriage axis couple skull joy soup damage cancel hover sword off truth";

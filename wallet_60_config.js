@@ -1,1 +1,1 @@
-var mnemonic = "stumble slide lounge shrimp crazy just twin scrap effort cube swamp love";
+var mnemonic = "amateur retire debate security negative price ethics case cluster canoe december day";

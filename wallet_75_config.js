@@ -1,1 +1,1 @@
-var mnemonic = "usual estate sport treat plastic company resource casino room region educate inform";
+var mnemonic = "round right winter still miss rigid source enlist tribe address dust pole";

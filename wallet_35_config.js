@@ -1,1 +1,1 @@
-var mnemonic = "join absorb try unknown notable view provide vital wedding edge empty slight";
+var mnemonic = "person animal hair join tape among huge aspect bread toe seed brand";

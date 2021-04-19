@@ -1,1 +1,1 @@
-var mnemonic = "hope harbor envelope kit opera spawn forward pair trust oxygen fetch leopard";
+var mnemonic = "pony occur scatter alone grunt mail simple rail shock arctic powder length";

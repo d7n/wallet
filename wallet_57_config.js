@@ -1,1 +1,1 @@
-var mnemonic = "main pass tongue mercy expect forest rent fossil ozone master minor ask";
+var mnemonic = "hockey pioneer verify wealth enact essence daring neck they surface miracle size";

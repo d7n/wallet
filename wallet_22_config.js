@@ -1,1 +1,1 @@
-var mnemonic = "window dirt expose there first pilot perfect use magic much pet trip";
+var mnemonic = "trick lawsuit moral dumb arctic enough text wedding bleak square share skull";

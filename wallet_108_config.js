@@ -1,1 +1,1 @@
-var mnemonic = "calm rifle cruel craft achieve reduce naive spatial burger chef slow mandate";
+var mnemonic = "reveal peanut slice summer neutral catalog relief poem juice unit muscle peasant";

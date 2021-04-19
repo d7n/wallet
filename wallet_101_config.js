@@ -1,1 +1,1 @@
-var mnemonic = "dash add battle grace tail token dad apology stock casino urban floor";
+var mnemonic = "concert hollow virtual weather cheese canyon capital scatter master weapon session gold";

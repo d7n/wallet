@@ -1,1 +1,1 @@
-var mnemonic = "mutual strong spring cruise romance cradle box cable west submit almost blossom";
+var mnemonic = "theory barrel upper already youth shell task develop month shrug alert elder";

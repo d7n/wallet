@@ -1,1 +1,1 @@
-var mnemonic = "cupboard rotate blood duck bless glide tag until horse twice vital rhythm";
+var mnemonic = "welcome scheme ivory oval over inside monkey country offer candy chuckle canyon";

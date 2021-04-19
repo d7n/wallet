@@ -1,1 +1,1 @@
-var mnemonic = "toe crisp ice tent filter sibling fold quantum embrace task clinic bonus";
+var mnemonic = "flock auction census dove rely polar wing trumpet secret meat wide quit";

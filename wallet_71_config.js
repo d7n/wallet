@@ -1,1 +1,1 @@
-var mnemonic = "peace prison panel lamp axis trumpet spot repair weapon grocery moral detail";
+var mnemonic = "rather subway what face energy you cage asthma board twelve alert half";

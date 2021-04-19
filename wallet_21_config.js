@@ -1,1 +1,1 @@
-var mnemonic = "flee feed fossil crime recipe sister pony spray sing diesel plunge carry";
+var mnemonic = "cream same common satisfy winter total poem fortune tube chaos family custom";

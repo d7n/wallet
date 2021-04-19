@@ -1,1 +1,1 @@
-var mnemonic = "anger velvet pause then charge junk blouse buzz riot disorder wreck cute";
+var mnemonic = "series bleak desk topic clap combine attract lesson crumble advance coast clerk";

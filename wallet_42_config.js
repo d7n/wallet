@@ -1,1 +1,1 @@
-var mnemonic = "job menu occur skill across essay feel ritual quit above right point";
+var mnemonic = "seed expire fatal pluck sustain exile length canoe congress mail hire leader";

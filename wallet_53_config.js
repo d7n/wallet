@@ -1,1 +1,1 @@
-var mnemonic = "retire subway act answer south project draw tank moment ostrich exhaust net";
+var mnemonic = "few type depth weather cook biology churn casino nation shiver cover leg";

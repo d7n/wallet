@@ -1,1 +1,1 @@
-var mnemonic = "face keep warm scorpion near congress bulk first raccoon return finger ticket";
+var mnemonic = "next jeans together rural mom idea scan item occur fine argue forget";

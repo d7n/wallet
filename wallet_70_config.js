@@ -1,1 +1,1 @@
-var mnemonic = "attract bulb beauty fresh best stuff kind web bar hungry current evidence";
+var mnemonic = "install grain net lonely master someone afraid priority ancient tongue theme dolphin";

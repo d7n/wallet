@@ -1,1 +1,1 @@
-var mnemonic = "lamp magnet consider evil large swim soul struggle behave address record suit";
+var mnemonic = "throw pelican secret sugar usual toilet liar sail salon sheriff health fan";

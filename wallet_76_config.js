@@ -1,1 +1,1 @@
-var mnemonic = "carpet invest casual camera leaf october position crack print cradle stick swift";
+var mnemonic = "bamboo virus ghost chat calm ramp dove away amateur favorite garage always";

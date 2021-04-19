@@ -1,1 +1,1 @@
-var mnemonic = "board yard size vast duty wagon exchange include car mail teach develop";
+var mnemonic = "cluster discover pet occur own approve luggage convince round stone gallery butter";

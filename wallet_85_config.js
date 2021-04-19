@@ -1,1 +1,1 @@
-var mnemonic = "track quote license prison flush disorder spoon whisper upon camera program where";
+var mnemonic = "vault mimic sock patrol museum round resource thing daring stadium valley sweet";

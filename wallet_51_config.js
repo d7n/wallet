@@ -1,1 +1,1 @@
-var mnemonic = "bomb exhibit toilet umbrella party impose bridge emerge ivory then stumble section";
+var mnemonic = "shoulder floor snake assist obtain split betray such cotton differ night license";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe tube taste claw belt expire decade leave assume burden zero melt";
+var mnemonic = "riot apple elevator toddler pluck service coffee leader between fruit way float";

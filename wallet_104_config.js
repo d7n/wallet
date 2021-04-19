@@ -1,1 +1,1 @@
-var mnemonic = "wood edge scrub wish polar carbon ladder evil mercy primary fish direct";
+var mnemonic = "essay session south fix cricket skin dress zebra mountain donate guess practice";

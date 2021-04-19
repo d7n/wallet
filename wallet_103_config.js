@@ -1,1 +1,1 @@
-var mnemonic = "clip hollow start usual chunk marriage zebra foster oak orient company camp";
+var mnemonic = "rookie hip always strong moon fence achieve transfer main ball produce typical";

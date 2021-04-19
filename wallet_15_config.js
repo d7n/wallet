@@ -1,1 +1,1 @@
-var mnemonic = "since wage magic nut wheat trend impact ceiling squeeze chuckle great seek";
+var mnemonic = "nest champion noise reward final shuffle another armed kangaroo spy dynamic kick";

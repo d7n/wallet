@@ -1,1 +1,1 @@
-var mnemonic = "pilot clog hammer define already wood punch emerge hint surge invest usual";
+var mnemonic = "mail donor key useful legend access faint pumpkin exhibit wrestle insane shoulder";

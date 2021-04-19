@@ -1,1 +1,1 @@
-var mnemonic = "room bar taxi elegant ask fitness rifle lunar film volume budget forum";
+var mnemonic = "point twice fringe riot predict okay custom toe process truck creek off";

@@ -1,1 +1,1 @@
-var mnemonic = "obey topple asset balance fossil lawn wasp return pair vendor gun auction";
+var mnemonic = "six coyote thunder give connect mandate harvest student section until summer process";
