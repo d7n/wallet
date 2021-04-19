@@ -1,1 +1,1 @@
-var mnemonic = "super vibrant game slender relief crowd away over okay sentence paper toast";
+var mnemonic = "lion blouse dinosaur sun ramp lawsuit pride typical cinnamon parade size alley";

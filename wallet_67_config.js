@@ -1,1 +1,1 @@
-var mnemonic = "boss galaxy sing change nature air alien know minor corn sun two";
+var mnemonic = "erosion song vendor select dwarf poet demand nerve choose seed cruel twist";

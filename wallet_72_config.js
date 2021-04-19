@@ -1,1 +1,1 @@
-var mnemonic = "patch produce fee fan movie liberty fresh seek coil extend empty festival";
+var mnemonic = "practice month usage embark tank develop patient round history cute charge weather";

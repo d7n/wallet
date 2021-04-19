@@ -1,1 +1,1 @@
-var mnemonic = "clean disagree repair pause hidden outer short neutral wild glare clutch oppose";
+var mnemonic = "shallow script someone educate artefact gaze mixture hole gloom saddle desk tenant";

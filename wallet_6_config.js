@@ -1,1 +1,1 @@
-var mnemonic = "effort bamboo become spring child ghost civil sausage spawn town fall error";
+var mnemonic = "lamp crater shift solve bottom moment give december urban battle wrong afford";

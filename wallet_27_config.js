@@ -1,1 +1,1 @@
-var mnemonic = "various pill refuse spend boring lounge remove quarter stage jump merge solar";
+var mnemonic = "frame lucky few dilemma during easily child target version fancy room embody";

@@ -1,1 +1,1 @@
-var mnemonic = "used figure drum owner file turkey peace raw tunnel tennis panther canyon";
+var mnemonic = "bright guilt task ladder clerk chuckle moment napkin bleak honey snow blossom";

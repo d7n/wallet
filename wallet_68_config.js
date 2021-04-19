@@ -1,1 +1,1 @@
-var mnemonic = "feature dice elder save eternal stand amazing force advance myself excite parrot";
+var mnemonic = "snake sort whisper country theory atom obscure then demise fresh scare burden";

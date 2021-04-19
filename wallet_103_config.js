@@ -1,1 +1,1 @@
-var mnemonic = "uncover virtual airport faint inmate visit poverty bind process will crumble sibling";
+var mnemonic = "machine range cook claim taxi animal item tackle snap letter eternal organ";

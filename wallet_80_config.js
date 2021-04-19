@@ -1,1 +1,1 @@
-var mnemonic = "vivid brain remove such property arena bread kind mask burden resource audit";
+var mnemonic = "silent dignity thrive spare result artist outdoor index polar bicycle engage journey";

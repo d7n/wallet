@@ -1,1 +1,1 @@
-var mnemonic = "payment choose symptom feel improve entry anxiety soft way soccer energy evolve";
+var mnemonic = "drop fat shine flock jacket card ride estate crater pelican grab enact";

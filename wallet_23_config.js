@@ -1,1 +1,1 @@
-var mnemonic = "betray upper glide marine inspire before crawl keep brain snack skin coyote";
+var mnemonic = "citizen essay razor fee defense side stove pair token brush viable reflect";

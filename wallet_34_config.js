@@ -1,1 +1,1 @@
-var mnemonic = "myself minute chronic spawn crash barely pupil join inside rail reopen elegant";
+var mnemonic = "stock prevent story render laundry coffee amount circle school wood start tag";

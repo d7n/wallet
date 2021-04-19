@@ -1,1 +1,1 @@
-var mnemonic = "mandate news pumpkin order icon hold dove orient grief home video useless";
+var mnemonic = "sister blue bitter rice coffee foam nation town industry also garage miss";

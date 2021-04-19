@@ -1,1 +1,1 @@
-var mnemonic = "gesture brain bar news emerge wrong awkward romance furnace vital spare cattle";
+var mnemonic = "loop wonder stem increase news science devote doctor trial zone praise guard";

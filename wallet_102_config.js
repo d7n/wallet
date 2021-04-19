@@ -1,1 +1,1 @@
-var mnemonic = "fish spot sort alter behind jacket dune layer page boss open tent";
+var mnemonic = "limit umbrella vacuum swing airport involve main champion uncover gain protect again";

@@ -1,1 +1,1 @@
-var mnemonic = "example stomach struggle figure zone dawn keen federal surprise common market else";
+var mnemonic = "bachelor envelope river fine bone dress kingdom omit useful wink grit century";

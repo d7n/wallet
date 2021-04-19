@@ -1,1 +1,1 @@
-var mnemonic = "topic hobby curtain enjoy sting goat rate hurdle dinosaur tent path sting";
+var mnemonic = "nature boss cause shiver pumpkin pair cross true eye item bitter adjust";

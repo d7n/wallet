@@ -1,1 +1,1 @@
-var mnemonic = "plastic detect fetch donate romance female hollow elite sausage grunt drastic reduce";
+var mnemonic = "rabbit nephew time door culture sadness cram mask twelve alley garage pig";

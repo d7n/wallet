@@ -1,1 +1,1 @@
-var mnemonic = "sting ceiling riot angry alien reject behave trouble chapter apple settle sponsor";
+var mnemonic = "write cargo into pumpkin such man father donkey shoulder candy apple try";

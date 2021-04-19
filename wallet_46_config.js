@@ -1,1 +1,1 @@
-var mnemonic = "model infant found empower essay despair stereo regular derive borrow accuse core";
+var mnemonic = "middle vague paper faint cluster tennis elephant disagree dentist orphan eager afraid";

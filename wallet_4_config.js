@@ -1,1 +1,1 @@
-var mnemonic = "sound patrol best square life lonely gate basket ritual dish shield bind";
+var mnemonic = "mule bullet torch super merge cream away fluid image pill energy clay";

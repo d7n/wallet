@@ -1,1 +1,1 @@
-var mnemonic = "accident palm thumb cannon gesture hawk blade stable bone staff dignity food";
+var mnemonic = "duck promote drama pizza corn school tree spatial door crowd surround wrong";

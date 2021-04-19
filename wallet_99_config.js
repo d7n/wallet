@@ -1,1 +1,1 @@
-var mnemonic = "crane segment stereo code fabric come orbit maze army snack swarm disorder";
+var mnemonic = "boat often cactus wire quote fossil rhythm bundle awful method kind happy";

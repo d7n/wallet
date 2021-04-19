@@ -1,1 +1,1 @@
-var mnemonic = "rough earn ozone quality squeeze meadow fatal acoustic curve trophy crawl gym";
+var mnemonic = "crawl gown category proof gate clean act day aerobic amount people mandate";

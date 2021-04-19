@@ -1,1 +1,1 @@
-var mnemonic = "zone tent poet subway cycle indicate near else vast border bamboo rough";
+var mnemonic = "control gadget pattern jelly burst hurry enhance jungle arrange happy text witness";

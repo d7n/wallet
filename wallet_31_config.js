@@ -1,1 +1,1 @@
-var mnemonic = "salt upset demand knee theory diesel cup cash giant today school fabric";
+var mnemonic = "capable question retire tennis expand found unit style actress trust ghost photo";

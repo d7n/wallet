@@ -1,1 +1,1 @@
-var mnemonic = "skull smile patrol tower solar horror citizen powder hello include sample grief";
+var mnemonic = "tower scan dog balance try erase disease basic please energy armed runway";

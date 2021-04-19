@@ -1,1 +1,1 @@
-var mnemonic = "guilt core script rebel cement govern track blood interest slice weasel unveil";
+var mnemonic = "prefer link coyote option that almost able flame old object nature silver";

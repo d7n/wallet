@@ -1,1 +1,1 @@
-var mnemonic = "brain gesture sing switch razor search divorce kidney senior fortune camera sail";
+var mnemonic = "orchard front spider clock donate spice vicious toast mobile sun donor monster";

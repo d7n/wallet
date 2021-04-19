@@ -1,1 +1,1 @@
-var mnemonic = "solution legend arctic autumn buffalo ocean poet suit crew taste aerobic physical";
+var mnemonic = "cube display search sail print conduct way waste obey process robot wisdom";

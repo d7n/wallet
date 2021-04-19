@@ -1,1 +1,1 @@
-var mnemonic = "script wedding beauty accuse raise robust pond volcano saddle humble ridge husband";
+var mnemonic = "brother guard debate child liquid subway wrestle ginger village foil front exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "theme turn board maximum water monkey rent head autumn coin hurdle burger";
+var mnemonic = "invite gown blind curtain indoor expect afford account picnic area defy scatter";

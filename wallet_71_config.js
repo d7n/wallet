@@ -1,1 +1,1 @@
-var mnemonic = "bind trip north report fork toward dignity law crisp sausage surround estate";
+var mnemonic = "enable oval merge staff goose glare secret limb muscle process announce shield";

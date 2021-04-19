@@ -1,1 +1,1 @@
-var mnemonic = "green slice nation honey alter dream pull crucial best census arch sniff";
+var mnemonic = "work extend leave valley away art few found nut occur fossil junk";

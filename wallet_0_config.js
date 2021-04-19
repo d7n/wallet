@@ -1,1 +1,1 @@
-var mnemonic = "august rich auction direct mammal mouse napkin hotel melt nerve vibrant myth";
+var mnemonic = "zebra belt merit bronze muffin legal divorce gentle crop jazz myth laundry";

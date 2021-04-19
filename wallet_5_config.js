@@ -1,1 +1,1 @@
-var mnemonic = "silk render inform detail envelope pledge link fame mango jungle tennis basic";
+var mnemonic = "average cousin debris crowd denial avocado olympic screen review morning plastic aware";

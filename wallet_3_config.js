@@ -1,1 +1,1 @@
-var mnemonic = "across father high swim grit oil barrel ladder add crack sea betray";
+var mnemonic = "ripple cause bargain private neither lawn coral tide panel keen chef filter";

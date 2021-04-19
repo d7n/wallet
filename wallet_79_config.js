@@ -1,1 +1,1 @@
-var mnemonic = "prefer eyebrow grain welcome token trade lounge naive health pottery steel advice";
+var mnemonic = "demise strategy list inspire ribbon crowd life fit hand write school during";

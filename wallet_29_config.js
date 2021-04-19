@@ -1,1 +1,1 @@
-var mnemonic = "alarm vague fly disease script welcome describe angle grit simple code express";
+var mnemonic = "measure deal point cry pattern scan price holiday virus network used seat";

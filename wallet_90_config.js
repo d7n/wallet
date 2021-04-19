@@ -1,1 +1,1 @@
-var mnemonic = "comfort foil pig shy banana crop earth spy old cannon weekend nice";
+var mnemonic = "fade oven forget soda whale hello pepper prepare casual library secret evil";

@@ -1,1 +1,1 @@
-var mnemonic = "build milk stadium valve feel solution either also feature glove true fluid";
+var mnemonic = "have admit black ten human rabbit rule february now rally dragon rural";

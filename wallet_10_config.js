@@ -1,1 +1,1 @@
-var mnemonic = "pulp speak basic accuse yard orbit add spawn hollow pact slab insect";
+var mnemonic = "castle furnace hurry glimpse blind lesson gate mansion off warrior enough giraffe";

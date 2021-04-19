@@ -1,1 +1,1 @@
-var mnemonic = "tag slow spike blush tower spoil charge comfort day scrap fold garment";
+var mnemonic = "shrimp faith left soap anchor spell sheriff guilt code law memory cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer borrow ocean fun cheese infant grace slot ancient arrange electric dentist";
+var mnemonic = "expect blame panther silent friend kiwi eagle excite glide kit endless total";

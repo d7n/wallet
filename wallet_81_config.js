@@ -1,1 +1,1 @@
-var mnemonic = "sweet south congress toss rich this train fragile lens mass silver power";
+var mnemonic = "prosper cross cotton hurdle surge thumb banner chef filter garden speak vocal";

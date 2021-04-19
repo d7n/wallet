@@ -1,1 +1,1 @@
-var mnemonic = "hub wave extra pipe fox visa ritual pass truth symptom fruit heavy";
+var mnemonic = "drama rapid series client trade benefit blade mail staff fall episode leaf";

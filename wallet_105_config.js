@@ -1,1 +1,1 @@
-var mnemonic = "consider heavy cube labor pet dish salute twist baby retire aunt inherit";
+var mnemonic = "pottery forest minimum quantum bulb teach satoshi flag desk addict provide wage";

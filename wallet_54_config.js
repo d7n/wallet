@@ -1,1 +1,1 @@
-var mnemonic = "funny physical bind scan reduce owner rule nominee whip wedding service north";
+var mnemonic = "garbage panther engine bean slow escape cry cricket relief congress despair inject";

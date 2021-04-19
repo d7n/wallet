@@ -1,1 +1,1 @@
-var mnemonic = "scorpion switch sword series slender garbage visa rescue benefit dune best voice";
+var mnemonic = "crunch black suspect grow misery master fabric usage wrong blush feed motor";

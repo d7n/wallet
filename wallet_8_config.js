@@ -1,1 +1,1 @@
-var mnemonic = "cool skirt wasp castle young exclude dumb kitchen blossom depth theory check";
+var mnemonic = "shaft carry skate into build veteran lecture science food material virus baby";

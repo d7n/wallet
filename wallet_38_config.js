@@ -1,1 +1,1 @@
-var mnemonic = "great knife recycle lesson round dash enforce float exclude theory clap still";
+var mnemonic = "vacant laptop student patch parade denial wrong neck east pistol awkward eight";

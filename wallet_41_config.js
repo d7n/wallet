@@ -1,1 +1,1 @@
-var mnemonic = "model curious hover empty current airport clarify size shoulder audit response place";
+var mnemonic = "lend lab lens dad click air river proud owner skill husband payment";

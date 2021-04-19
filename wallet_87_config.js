@@ -1,1 +1,1 @@
-var mnemonic = "silent lawsuit rely gown average evoke social okay wealth ozone genre actual";
+var mnemonic = "oxygen mosquito response enhance margin trust garbage boost page radar butter spoil";

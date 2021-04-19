@@ -1,1 +1,1 @@
-var mnemonic = "basket now apart present unaware excite suit bag wheel raw hedgehog prepare";
+var mnemonic = "tide material decrease couple lake remind unfair solve copper coconut thing oyster";

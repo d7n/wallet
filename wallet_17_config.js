@@ -1,1 +1,1 @@
-var mnemonic = "history breeze local jelly turtle deliver cradle magic differ lake alone someone";
+var mnemonic = "dynamic depth paddle speak jaguar provide devote angry door destroy stadium purse";

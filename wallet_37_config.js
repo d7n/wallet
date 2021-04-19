@@ -1,1 +1,1 @@
-var mnemonic = "vivid alarm grant face student private rug short issue museum small potato";
+var mnemonic = "trade clarify radio dune pretty crisp moral belt acquire silk finish charge";

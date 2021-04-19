@@ -1,1 +1,1 @@
-var mnemonic = "knee during maze license tornado angry uniform across foot flash motion mistake";
+var mnemonic = "chase produce wall second spirit renew weapon clock ceiling outdoor size oil";

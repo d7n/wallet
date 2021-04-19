@@ -1,1 +1,1 @@
-var mnemonic = "grain tell equal memory bind honey forest panther cinnamon satisfy domain impact";
+var mnemonic = "wish pitch truth trust eagle puzzle giggle salmon answer coach ostrich outside";

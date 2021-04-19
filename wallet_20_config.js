@@ -1,1 +1,1 @@
-var mnemonic = "east observe march perfect wall island hint bubble pipe parent typical illness";
+var mnemonic = "attitude envelope axis depth scrap force sad polar refuse bright margin nation";

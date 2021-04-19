@@ -1,1 +1,1 @@
-var mnemonic = "fluid guilt virus purchase acoustic salon case access frown immune phone ahead";
+var mnemonic = "coffee mouse twice tonight column own hill jelly blush boy fault soap";

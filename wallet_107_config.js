@@ -1,1 +1,1 @@
-var mnemonic = "spatial hurdle useless dry salmon balcony dry finger cattle rocket dutch photo";
+var mnemonic = "increase menu element copper blush admit scale giggle penalty dragon kiss news";

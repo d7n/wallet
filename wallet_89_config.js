@@ -1,1 +1,1 @@
-var mnemonic = "eagle art nurse basic diary merry submit half farm gather extend cool";
+var mnemonic = "then embody random inherit intact want nephew repeat taste absurd industry close";

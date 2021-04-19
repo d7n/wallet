@@ -1,1 +1,1 @@
-var mnemonic = "moral cream layer flavor comic grace type yard oven identify elbow depend";
+var mnemonic = "lake rare cloud reunion stool sail film game gauge crucial core disease";

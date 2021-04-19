@@ -1,1 +1,1 @@
-var mnemonic = "shift kick include box absent palm attract hundred reduce replace ozone monkey";
+var mnemonic = "title grunt arrest off resource soccer scorpion hair help drive pass sock";

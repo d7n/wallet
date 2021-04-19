@@ -1,1 +1,1 @@
-var mnemonic = "embody predict sauce web cable online magic chicken pilot stereo garden scorpion";
+var mnemonic = "category canoe chronic spin any shop afford clutch section divide hungry choose";

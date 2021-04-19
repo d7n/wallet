@@ -1,1 +1,1 @@
-var mnemonic = "catch crush payment rule tag license equal coyote purity scheme tumble whale";
+var mnemonic = "urge amazing travel wave either rival pave spawn tide donate blue client";

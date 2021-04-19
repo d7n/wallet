@@ -1,1 +1,1 @@
-var mnemonic = "such grid jump ask convince sustain kick relax thumb nurse method finger";
+var mnemonic = "intact inform frost cat loyal outer hospital blossom stage almost meat luggage";

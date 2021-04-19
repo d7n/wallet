@@ -1,1 +1,1 @@
-var mnemonic = "predict text pool cannon express leg razor quote afraid rich monkey lizard";
+var mnemonic = "people naive try resource raven floor spoil aspect unfair spot toddler street";

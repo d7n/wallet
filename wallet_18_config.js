@@ -1,1 +1,1 @@
-var mnemonic = "aerobic thought alter fish general rail ivory fine ten discover flame problem";
+var mnemonic = "certain lens dust learn huge scrap crack lecture cross brisk skull tiny";

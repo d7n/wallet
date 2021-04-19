@@ -1,1 +1,1 @@
-var mnemonic = "language glance chair afford rug fruit loud dilemma neglect foster frown nice";
+var mnemonic = "dream cruise fashion master shaft swarm canal sauce network fossil regret elephant";

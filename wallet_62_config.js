@@ -1,1 +1,1 @@
-var mnemonic = "need result detect genius leisure clay wreck will loud bar actress aunt";
+var mnemonic = "large cherry token sound neck spy celery insect melt solve cargo smart";

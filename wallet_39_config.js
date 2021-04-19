@@ -1,1 +1,1 @@
-var mnemonic = "horse sibling month suffer minimum next drift drip beef attract physical gauge";
+var mnemonic = "toy harbor kick dinner session dumb relief faith change dune have liquid";

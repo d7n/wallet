@@ -1,1 +1,1 @@
-var mnemonic = "predict leave uncle salute manage liar exotic sister carpet smoke that bag";
+var mnemonic = "cable father pair salt fabric hair midnight tribe flight viable gift stomach";

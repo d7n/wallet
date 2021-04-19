@@ -1,1 +1,1 @@
-var mnemonic = "device rocket finger volume rug energy minimum okay soul maximum tuition burger";
+var mnemonic = "wine pair oblige visit mixture rude monitor mail truck tone frozen boss";

@@ -1,1 +1,1 @@
-var mnemonic = "private blood card tunnel tobacco victory unlock squirrel relief rib invest nasty";
+var mnemonic = "nest faint split trigger news cereal kiwi roast acquire addict stone used";

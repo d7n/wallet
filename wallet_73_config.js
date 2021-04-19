@@ -1,1 +1,1 @@
-var mnemonic = "wire devote ginger merry mobile armor oval salad step radio shield dirt";
+var mnemonic = "april crew nephew maple hunt surge ribbon tobacco fence history spring toilet";

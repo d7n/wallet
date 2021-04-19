@@ -1,1 +1,1 @@
-var mnemonic = "dog museum slow grape service purity program turtle noise knee champion place";
+var mnemonic = "subway attract inmate fringe crunch home skate fall group warrior melt bunker";

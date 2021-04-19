@@ -1,1 +1,1 @@
-var mnemonic = "shed clap father urge section inspire message short retire salmon vibrant garage";
+var mnemonic = "reduce entire opera gospel embody badge script audit goose diet fresh volcano";

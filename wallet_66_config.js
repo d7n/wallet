@@ -1,1 +1,1 @@
-var mnemonic = "real render guard bring load scissors design auction style leader chair fly";
+var mnemonic = "poem sense junk forum act pause enrich occur approve mountain scale page";

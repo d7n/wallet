@@ -1,1 +1,1 @@
-var mnemonic = "slab cluster jungle much fix slide sauce ritual tail pipe tank bid";
+var mnemonic = "into horn bless guard gap place high science rack when real eyebrow";

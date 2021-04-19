@@ -1,1 +1,1 @@
-var mnemonic = "control penalty genre sure alert evoke speed private local payment elephant south";
+var mnemonic = "fragile quote indicate swarm journey skate lunch soda quarter weird hammer cotton";

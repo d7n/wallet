@@ -1,1 +1,1 @@
-var mnemonic = "gain ill six awkward bus future humor people render awful wife employ";
+var mnemonic = "pole lawn coyote rose target latin napkin mule giggle ball use dwarf";

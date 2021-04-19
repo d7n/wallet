@@ -1,1 +1,1 @@
-var mnemonic = "april joke fossil rule polar umbrella potato outside note donate disagree among";
+var mnemonic = "win advance bachelor mandate giggle grant wave tent grief develop use hill";

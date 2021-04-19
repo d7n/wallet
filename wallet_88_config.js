@@ -1,1 +1,1 @@
-var mnemonic = "ability put fan during opera purpose reveal shield jump apart unlock figure";
+var mnemonic = "fabric boil capital rack arrange permit clock series glass put host tuition";

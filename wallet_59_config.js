@@ -1,1 +1,1 @@
-var mnemonic = "name other luggage adult since ordinary swap despair virus runway venue case";
+var mnemonic = "crop mystery uncle party fresh rather income zoo arrow cloud salon element";

@@ -1,1 +1,1 @@
-var mnemonic = "oven box belt property upgrade monkey market kid prevent couple solar walnut";
+var mnemonic = "century kitchen right bargain million brother alert change filter east olympic elite";

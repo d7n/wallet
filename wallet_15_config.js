@@ -1,1 +1,1 @@
-var mnemonic = "slight cake dolphin same chapter radio toilet fork video pill board alter";
+var mnemonic = "light ship obey picnic electric used atom prepare fault cancel hood similar";

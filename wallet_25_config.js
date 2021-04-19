@@ -1,1 +1,1 @@
-var mnemonic = "typical zero unique acid novel wood rib virtual horse theme throw magic";
+var mnemonic = "shine doll loyal paper mansion marine become hybrid scheme lock rack remove";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble wisdom home sing alpha sudden hire fault smile life lady portion";
+var mnemonic = "where ability round alcohol okay pyramid hidden roast label dignity casino rack";

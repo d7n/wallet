@@ -1,1 +1,1 @@
-var mnemonic = "chase state glory dolphin caution ghost wealth lonely express luggage home clay";
+var mnemonic = "beauty picnic banana book morning olive gossip globe point cruel assist record";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild humor much category wear duck sock exact bring fiber guide figure";
+var mnemonic = "crunch finish put eye ice exhibit neither test often wash tired second";

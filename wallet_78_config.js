@@ -1,1 +1,1 @@
-var mnemonic = "cave globe beef tilt apple blast cheap citizen float popular all evil";
+var mnemonic = "fabric sheriff chase fruit leader tissue upper trip miss throw real churn";

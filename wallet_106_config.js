@@ -1,1 +1,1 @@
-var mnemonic = "story behind chronic arctic sense fragile guess treat satoshi blouse nation ankle";
+var mnemonic = "text hip table arrive spread discover gesture since cry jacket ready knife";

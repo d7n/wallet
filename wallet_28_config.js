@@ -1,1 +1,1 @@
-var mnemonic = "exchange piece defy blur sample picnic tobacco expose blame only intact enemy";
+var mnemonic = "horror feel before never wood weasel can canoe cupboard cable deposit swing";
