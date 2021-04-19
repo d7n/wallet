@@ -1,1 +1,1 @@
-var mnemonic = "much worry quality prosper frown call produce original blur toy spoil salon";
+var mnemonic = "stable use exist say cost update fog slow renew fruit stumble screen";

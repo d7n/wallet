@@ -1,1 +1,1 @@
-var mnemonic = "matrix climb say romance cabin move sweet roof merry track chest faint";
+var mnemonic = "panic chuckle talent blind regret violin volume sleep arrange odor behave broom";

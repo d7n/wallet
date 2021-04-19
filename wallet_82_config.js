@@ -1,1 +1,1 @@
-var mnemonic = "tired poverty world health plate thank patch ill worry skin tank tobacco";
+var mnemonic = "evil jeans occur image seven length shoulder margin cream coffee reunion island";

@@ -1,1 +1,1 @@
-var mnemonic = "memory fiber cram sunny jump staff harvest income drum next rescue mobile";
+var mnemonic = "dice stuff water surge federal sail vicious warm fee mirror hole connect";

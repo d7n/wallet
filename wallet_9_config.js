@@ -1,1 +1,1 @@
-var mnemonic = "degree adapt digital hazard angle screen avocado ostrich step opinion expire fame";
+var mnemonic = "acid blouse chair pigeon news oppose female jar arch hurt key fabric";

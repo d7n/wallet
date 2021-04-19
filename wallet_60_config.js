@@ -1,1 +1,1 @@
-var mnemonic = "pill dose hedgehog spin gain water wrong lottery awful country claim accuse";
+var mnemonic = "alpha rubber dignity bid invest tip replace pride keen cricket onion beach";

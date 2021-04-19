@@ -1,1 +1,1 @@
-var mnemonic = "sudden engage simple betray gun orchard good bacon congress fetch pool core";
+var mnemonic = "salt bike give crystal prevent flight tone deer garlic galaxy surround submit";

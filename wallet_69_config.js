@@ -1,1 +1,1 @@
-var mnemonic = "muffin artwork police never mobile ginger squirrel result panel upset indicate talk";
+var mnemonic = "taste army shift auction chimney salt avoid damp frame rice canal soul";

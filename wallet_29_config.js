@@ -1,1 +1,1 @@
-var mnemonic = "infant pulse always mansion lesson snake intact gun exhibit crew slender arch";
+var mnemonic = "east detect polar genuine thought mixed build print fitness accident gain donor";

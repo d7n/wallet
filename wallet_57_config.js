@@ -1,1 +1,1 @@
-var mnemonic = "cheap knock dolphin decorate chronic title judge art kingdom tourist whip lunar";
+var mnemonic = "avocado match beef jeans quantum mimic borrow helmet cinnamon elbow vehicle mom";

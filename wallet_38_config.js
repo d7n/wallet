@@ -1,1 +1,1 @@
-var mnemonic = "message syrup access lift job december skate shine planet quarter trick apart";
+var mnemonic = "brass replace drastic air crisp split old art spatial fog solar fun";

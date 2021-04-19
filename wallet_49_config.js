@@ -1,1 +1,1 @@
-var mnemonic = "enemy spare auction invest critic proof dove alarm surround gauge kick debate";
+var mnemonic = "intact cannon blur anger huge spawn fortune such fall edge gap wise";

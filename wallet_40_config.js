@@ -1,1 +1,1 @@
-var mnemonic = "fine clever dad art demand image anger hawk length reason tomorrow cinnamon";
+var mnemonic = "client kitchen siege domain abstract arctic enforce speed smart text hello tell";

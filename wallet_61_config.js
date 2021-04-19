@@ -1,1 +1,1 @@
-var mnemonic = "depend remain avocado tray digital alarm cable average envelope rhythm erosion cement";
+var mnemonic = "wave sight duty open advice coral amount crystal certain actor apart gather";

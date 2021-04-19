@@ -1,1 +1,1 @@
-var mnemonic = "boring whisper picture never level century trumpet valid panther help buddy cinnamon";
+var mnemonic = "wide text extend lift surface album raven shield eight bean glove rely";

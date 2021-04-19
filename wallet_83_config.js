@@ -1,1 +1,1 @@
-var mnemonic = "tribe position inmate robot decade vessel tunnel addict broken isolate time work";
+var mnemonic = "civil recycle gauge keep body artwork stairs street table neglect screen notable";

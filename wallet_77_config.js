@@ -1,1 +1,1 @@
-var mnemonic = "juice mimic stick total beyond improve mirror fiber emerge visit frozen flower";
+var mnemonic = "lazy half scheme chapter critic erupt tuition traffic enjoy soft buzz beauty";

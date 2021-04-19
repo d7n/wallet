@@ -1,1 +1,1 @@
-var mnemonic = "present brain candy artefact tape draw neck game tool market install outdoor";
+var mnemonic = "crawl summer frown exotic divorce clay pluck accuse soccer twice trouble furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "invest resist poverty choice miracle indicate fiber insect young conduct cheap climb";
+var mnemonic = "mixture edge depend marble knee gap juice earth carpet scissors fame truck";

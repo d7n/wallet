@@ -1,1 +1,1 @@
-var mnemonic = "wash legend motion define magic beyond solar course chimney awesome tunnel panic";
+var mnemonic = "robust day steak donate vocal kick member grid taxi melody oven fringe";

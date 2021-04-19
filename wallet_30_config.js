@@ -1,1 +1,1 @@
-var mnemonic = "still meat attract flame legal embark any surge equip crazy wing family";
+var mnemonic = "clog code dice gentle cover embody cheap voyage bike solar curve veteran";

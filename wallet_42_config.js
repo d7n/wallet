@@ -1,1 +1,1 @@
-var mnemonic = "maple narrow garlic parrot together universe deer extra bean army common such";
+var mnemonic = "prevent scan globe you trash client feed crouch box reform donate deer";

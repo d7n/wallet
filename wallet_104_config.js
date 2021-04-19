@@ -1,1 +1,1 @@
-var mnemonic = "lobster wait nature stock number matrix teach enrich test bind tree milk";
+var mnemonic = "install liar venue again element build close section flee clinic immense pass";

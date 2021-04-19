@@ -1,1 +1,1 @@
-var mnemonic = "obvious fashion pave relax hybrid wool sunny agree possible fitness rubber jewel";
+var mnemonic = "milk much glimpse name main elbow end provide acquire edge snap canyon";

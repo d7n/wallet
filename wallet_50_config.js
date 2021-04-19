@@ -1,1 +1,1 @@
-var mnemonic = "wheel repair impact pattern nut only tortoise mention soup canyon bonus goddess";
+var mnemonic = "duck frame soccer mule intact chunk giant disagree soldier toward poem skate";

@@ -1,1 +1,1 @@
-var mnemonic = "select climb large skin goose middle excite degree often assist siren young";
+var mnemonic = "trust list rent friend disease bar transfer run unit hobby loop screen";

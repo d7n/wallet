@@ -1,1 +1,1 @@
-var mnemonic = "planet monitor visual spend zero nominee dash segment version detect when payment";
+var mnemonic = "vocal mandate inspire sketch symbol green object hotel outer collect speed brick";

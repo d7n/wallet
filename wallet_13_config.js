@@ -1,1 +1,1 @@
-var mnemonic = "sight blame sheriff around forest bar zone artist feature human abstract main";
+var mnemonic = "else use wink eternal alcohol wheel quantum horse mosquito cage effort impulse";

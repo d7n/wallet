@@ -1,1 +1,1 @@
-var mnemonic = "upper soup shadow lounge deer energy adjust industry trust flash layer inspire";
+var mnemonic = "bunker brass ripple employ media inquiry gasp skirt glow renew electric tree";

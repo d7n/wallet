@@ -1,1 +1,1 @@
-var mnemonic = "area shed cinnamon clap later shift myself skirt choose stamp junior agree";
+var mnemonic = "access sniff asthma nominee method drama hurry rabbit goose shield scout long";

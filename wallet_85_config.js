@@ -1,1 +1,1 @@
-var mnemonic = "account bone vital frame require cargo blouse orphan icon modify remember side";
+var mnemonic = "satisfy material luggage one divide vault captain donor tomorrow ice where extra";

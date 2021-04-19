@@ -1,1 +1,1 @@
-var mnemonic = "nominee sign drift letter company wrist guess oblige useless avocado toward benefit";
+var mnemonic = "excuse liberty chase bundle mystery maze embrace brass exist now stereo planet";

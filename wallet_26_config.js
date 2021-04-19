@@ -1,1 +1,1 @@
-var mnemonic = "elite game vote dawn erase grief detail success treat calm luggage fiction";
+var mnemonic = "endorse armed join away fame dismiss way caught tenant divide retreat garbage";

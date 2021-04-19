@@ -1,1 +1,1 @@
-var mnemonic = "whip shed bullet ability office merry floor large gate item love topple";
+var mnemonic = "caution rally napkin junk glad eight virtual hungry involve leave settle fit";

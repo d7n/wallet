@@ -1,1 +1,1 @@
-var mnemonic = "suit tortoise soccer busy ordinary owner drama usage clown sort shaft tiger";
+var mnemonic = "click never thumb family update slide affair repair predict type ask exit";

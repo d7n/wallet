@@ -1,1 +1,1 @@
-var mnemonic = "blade quality portion jelly harbor agent area rent rice squirrel obey market";
+var mnemonic = "monkey heart excuse proof cash chief divide ready obtain loyal mirror borrow";

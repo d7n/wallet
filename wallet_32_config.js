@@ -1,1 +1,1 @@
-var mnemonic = "jewel burger parrot correct average process census armed plate dolphin humor route";
+var mnemonic = "predict short head sting quick actress reward normal prefer earth worry tuna";

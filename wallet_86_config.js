@@ -1,1 +1,1 @@
-var mnemonic = "just soup orange ancient table power hurt napkin cousin fix actress hospital";
+var mnemonic = "ignore clinic proof arrange unlock tuition raise jungle flash trust nerve hip";

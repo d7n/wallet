@@ -1,1 +1,1 @@
-var mnemonic = "north castle relief degree night engage bronze system alcohol shoe excuse survey";
+var mnemonic = "scan favorite lyrics pulp kangaroo arch dutch already apology decorate neck tobacco";

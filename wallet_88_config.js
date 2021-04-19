@@ -1,1 +1,1 @@
-var mnemonic = "concert deposit super kitchen pave curve expect sunset gossip tray fresh ill";
+var mnemonic = "hire drop armor act burden fury soul purse ask soft bronze say";

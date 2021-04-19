@@ -1,1 +1,1 @@
-var mnemonic = "walk exotic suggest lend law smooth adapt now chase mind impulse ask";
+var mnemonic = "beyond guess toddler happy argue setup scrap patch main chicken universe bless";

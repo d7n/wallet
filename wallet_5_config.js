@@ -1,1 +1,1 @@
-var mnemonic = "apple gossip black excite almost library merge slim naive song lady victory";
+var mnemonic = "orchard catch away possible morning effort iron opera quick unaware zero winter";

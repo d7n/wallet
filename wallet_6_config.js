@@ -1,1 +1,1 @@
-var mnemonic = "sentence drift mimic sun birth lumber include mad wasp globe artwork evoke";
+var mnemonic = "beach today strategy seat garlic oil vacant often task curve decide exchange";

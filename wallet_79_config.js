@@ -1,1 +1,1 @@
-var mnemonic = "hawk private rent tag write first nut human hunt garage quantum odor";
+var mnemonic = "angle fresh hip average depend impose toilet deal page access trouble viable";

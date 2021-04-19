@@ -1,1 +1,1 @@
-var mnemonic = "access ridge amused circle orange mansion version obscure super volume announce lyrics";
+var mnemonic = "rubber tired emerge border cheese giraffe salon dirt frown spell enroll remember";

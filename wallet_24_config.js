@@ -1,1 +1,1 @@
-var mnemonic = "plunge puzzle shine memory client day cattle attract february exit occur police";
+var mnemonic = "crew salon boil lunch reject top vague pepper tackle adjust pave speed";

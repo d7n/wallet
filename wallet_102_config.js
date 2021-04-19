@@ -1,1 +1,1 @@
-var mnemonic = "divorce dove climb sound fee furnace monitor sponsor derive salad rival trap";
+var mnemonic = "bean crawl long inject leopard frost void fragile letter narrow survey twist";

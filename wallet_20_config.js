@@ -1,1 +1,1 @@
-var mnemonic = "best dial fashion sibling inner tired glad you ranch similar table hurry";
+var mnemonic = "supply warfare blood relief rigid major inherit hold business dinosaur volume mother";

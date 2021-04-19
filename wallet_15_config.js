@@ -1,1 +1,1 @@
-var mnemonic = "course hello notable toddler fire viable spoon arm put rifle extra ankle";
+var mnemonic = "kite undo tag box blouse dream add can dune boy hole exhibit";

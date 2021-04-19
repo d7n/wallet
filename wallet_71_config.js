@@ -1,1 +1,1 @@
-var mnemonic = "slab pulse service broccoli eyebrow save congress vault arena copy tiny gift";
+var mnemonic = "lazy adult pair safe future enrich outdoor mixture spot example hidden begin";

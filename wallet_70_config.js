@@ -1,1 +1,1 @@
-var mnemonic = "hard post engage spray grit phrase soft educate hazard diesel woman float";
+var mnemonic = "mix taxi violin jar margin torch that powder seat cruel dentist street";

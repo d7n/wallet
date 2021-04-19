@@ -1,1 +1,1 @@
-var mnemonic = "legal holiday mother ramp better base wreck rent expand clown army angry";
+var mnemonic = "together click fish romance birth soda seminar link deputy awesome legal welcome";

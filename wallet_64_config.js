@@ -1,1 +1,1 @@
-var mnemonic = "oil absent art fiscal tag fiber feature recall initial dirt advance predict";
+var mnemonic = "picture scare canyon first rescue win sight subway candy powder pear unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap corn surround clay else essence patch skirt much exotic country ball";
+var mnemonic = "tribe letter render remain crawl meat wolf away dose wealth recall crazy";

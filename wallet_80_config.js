@@ -1,1 +1,1 @@
-var mnemonic = "future ozone axis virus portion winter moment lab fix curious wine speak";
+var mnemonic = "payment color pact mom north bulk casino rabbit cat pottery parent write";

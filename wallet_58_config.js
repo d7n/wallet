@@ -1,1 +1,1 @@
-var mnemonic = "music violin flavor blur depth scatter black enroll rail food castle spot";
+var mnemonic = "corn sketch game share lunch broken grace harvest yellow brush during broccoli";

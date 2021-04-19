@@ -1,1 +1,1 @@
-var mnemonic = "horror reform fit follow turtle naive bracket upset obey donor object worry";
+var mnemonic = "uphold explain illness pulp offer good valid crane alarm during shadow rural";

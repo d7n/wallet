@@ -1,1 +1,1 @@
-var mnemonic = "cloud soap camp evolve hawk tourist cannon debate wrong crater flip crisp";
+var mnemonic = "bean flag idle suggest promote crush system bright train put medal long";

@@ -1,1 +1,1 @@
-var mnemonic = "verify kind learn snow orchard squeeze grass salad slight push reopen enroll";
+var mnemonic = "movie also nut weird gloom system capital sentence suit way avoid aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess flush obvious leader neither mobile document armed erosion duck sample cart";
+var mnemonic = "finish goat melody pilot trust carry purpose blossom kiwi load fiction manual";

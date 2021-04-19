@@ -1,1 +1,1 @@
-var mnemonic = "across have armed gloom gloom crouch exclude brand mom ketchup romance nature";
+var mnemonic = "model sorry wood about pair torch feed call laugh title truth attack";

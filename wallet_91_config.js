@@ -1,1 +1,1 @@
-var mnemonic = "duty cotton dawn certain leg balance retreat harvest awkward robust hurdle rule";
+var mnemonic = "nature casual club pioneer print noble solid rich water rough bubble load";

@@ -1,1 +1,1 @@
-var mnemonic = "elite chicken gold visa resource engage differ bike educate victory promote satisfy";
+var mnemonic = "bulb grain throw leaf need result task child today reward remember below";

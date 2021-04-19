@@ -1,1 +1,1 @@
-var mnemonic = "boring ozone man punch jacket apple idea equip below waste bind glide";
+var mnemonic = "educate gauge chest hold plate auction seat absurd dragon elevator struggle clay";

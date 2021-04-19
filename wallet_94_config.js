@@ -1,1 +1,1 @@
-var mnemonic = "peanut whale over share napkin adult kingdom rug orchard fiction fee critic";
+var mnemonic = "picnic pelican village clinic end fabric near smile tube cabbage human scout";

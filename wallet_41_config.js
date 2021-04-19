@@ -1,1 +1,1 @@
-var mnemonic = "infant mix obscure this brass assist ice fox exhibit promote usage chuckle";
+var mnemonic = "left alley joy much cradle match erupt index below federal dad squeeze";

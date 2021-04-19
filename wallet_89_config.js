@@ -1,1 +1,1 @@
-var mnemonic = "jungle mask state color acoustic velvet only cereal city hundred unlock idle";
+var mnemonic = "want oak usual myth present grocery another scout another top copper pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "monster bunker patrol ugly clutch shift kit enroll forest chair unveil input";
+var mnemonic = "hero depart dog begin dash guilt beef broccoli admit vendor gasp outside";

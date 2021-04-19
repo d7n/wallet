@@ -1,1 +1,1 @@
-var mnemonic = "turkey smooth spoon guide mix together shrug lock disorder minor palace bachelor";
+var mnemonic = "cereal hen chair trend ritual afford scorpion rookie pistol honey repeat board";

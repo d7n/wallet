@@ -1,1 +1,1 @@
-var mnemonic = "razor discover match duty link spoon kid uphold okay tiger segment about";
+var mnemonic = "reduce alone bike fish girl when deputy club mouse work either marriage";

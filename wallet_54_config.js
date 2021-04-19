@@ -1,1 +1,1 @@
-var mnemonic = "blast theme damp ketchup book mind virus west clerk know yard wheel";
+var mnemonic = "guilt ceiling ill private lyrics when candy run retire this title cool";

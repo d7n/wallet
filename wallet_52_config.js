@@ -1,1 +1,1 @@
-var mnemonic = "must hip eye burger stem beyond vanish exact slam ship they prefer";
+var mnemonic = "pyramid adapt become prison panther scorpion sting long squirrel injury tortoise seek";

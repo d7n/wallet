@@ -1,1 +1,1 @@
-var mnemonic = "mystery prison valid swap suggest divert language marriage fence turkey dinner modify";
+var mnemonic = "will horror sea pact recycle knock also game casual tool deliver circle";

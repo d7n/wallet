@@ -1,1 +1,1 @@
-var mnemonic = "fatigue team matter lift benefit cable time trend country reflect acoustic day";
+var mnemonic = "boring right control edit achieve slam mango tomorrow despair resist verb stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "east modify frown aunt salmon valve drum attend balcony innocent snack pelican";
+var mnemonic = "cream pen supreme middle legend weasel diamond rent truly leisure orange impulse";

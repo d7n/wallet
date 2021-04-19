@@ -1,1 +1,1 @@
-var mnemonic = "vapor educate deliver force erupt crouch author this cake wool crawl puzzle";
+var mnemonic = "breeze token turn riot purity brisk salute hammer rhythm modify drink mutual";

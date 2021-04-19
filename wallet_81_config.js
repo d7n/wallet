@@ -1,1 +1,1 @@
-var mnemonic = "desk plastic miss vacuum dash allow tired much output iron win assume";
+var mnemonic = "manage reflect scare pumpkin trophy immense glue topic dust merit borrow trip";

@@ -1,1 +1,1 @@
-var mnemonic = "expand audit carpet tape walk that mule burden tenant robust zero odor";
+var mnemonic = "switch hold dish design curve guess near dove merit mimic social congress";

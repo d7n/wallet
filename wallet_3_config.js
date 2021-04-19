@@ -1,1 +1,1 @@
-var mnemonic = "install begin plate burger length carbon swim ask analyst resource foil vague";
+var mnemonic = "loyal rigid push recall west canvas unable scan fitness churn fury day";

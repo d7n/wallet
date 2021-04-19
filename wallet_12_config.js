@@ -1,1 +1,1 @@
-var mnemonic = "cigar impulse surprise build such spin ring pitch zoo plate exile shuffle";
+var mnemonic = "duty useless laundry actual exhaust wife busy empty recycle fit devote police";

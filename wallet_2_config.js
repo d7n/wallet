@@ -1,1 +1,1 @@
-var mnemonic = "urban slab dash filter spatial bundle second sad vote memory radio quality";
+var mnemonic = "sponsor abandon add bubble spread develop inflict nerve version cook orchard addict";

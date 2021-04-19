@@ -1,1 +1,1 @@
-var mnemonic = "puppy camera bottom reduce excess ecology radio normal swim thrive ice differ";
+var mnemonic = "help render excite during praise test asthma once language injury behind key";

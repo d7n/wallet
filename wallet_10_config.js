@@ -1,1 +1,1 @@
-var mnemonic = "coil inspire butter ridge liquid rate crowd initial siege puzzle long feed";
+var mnemonic = "dolphin maid point lemon doll push final design lecture ribbon give stadium";

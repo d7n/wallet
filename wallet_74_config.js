@@ -1,1 +1,1 @@
-var mnemonic = "fringe disorder envelope horse this approve multiply impose duty valley wreck element";
+var mnemonic = "alpha negative logic sweet crumble news usual cushion year ramp creek middle";

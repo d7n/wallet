@@ -1,1 +1,1 @@
-var mnemonic = "certain private suggest trouble useful pudding poet deposit opera pride average metal";
+var mnemonic = "repair weasel power eternal economy solution enable offer beef maple sell crash";

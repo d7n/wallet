@@ -1,1 +1,1 @@
-var mnemonic = "prepare multiply fix inch army security thumb chair catalog vault game spatial";
+var mnemonic = "brave keep supply expand chronic report exclude wheat survey fringe oxygen chicken";

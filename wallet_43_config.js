@@ -1,1 +1,1 @@
-var mnemonic = "glory cotton photo stem soldier left biology material journey toss spot pink";
+var mnemonic = "wheel canvas crucial portion genius discover verb sausage zoo siren need people";

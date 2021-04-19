@@ -1,1 +1,1 @@
-var mnemonic = "rookie sell way bargain village night expect dial pattern model differ high";
+var mnemonic = "artwork moment bounce opinion because core museum little season tuna you cream";

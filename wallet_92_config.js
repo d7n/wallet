@@ -1,1 +1,1 @@
-var mnemonic = "moon spatial change father aisle trash banana step wide nest express city";
+var mnemonic = "input finger tunnel stick maze faculty bring display popular feel glass roast";
