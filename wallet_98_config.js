@@ -1,1 +1,1 @@
-var mnemonic = "blanket chapter buzz mixture symptom hard slide rent sweet pool space bus";
+var mnemonic = "pulse gym weasel mirror planet fly grid vicious panic truly old soon";

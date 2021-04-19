@@ -1,1 +1,1 @@
-var mnemonic = "kick fish hint salt govern option turn feature atom allow uphold lucky";
+var mnemonic = "coach glimpse left fancy effort blanket match member other evoke husband secret";

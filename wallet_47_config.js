@@ -1,1 +1,1 @@
-var mnemonic = "write pledge host roast october whale about pass luxury stove ankle theory";
+var mnemonic = "valid dynamic bind mix brother pen concert hover library favorite review normal";

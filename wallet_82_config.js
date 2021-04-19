@@ -1,1 +1,1 @@
-var mnemonic = "crystal sphere badge gauge margin wheel please caution image addict decorate inflict";
+var mnemonic = "crisp fee design explain rail orphan era master spoil bachelor ramp mixed";

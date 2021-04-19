@@ -1,1 +1,1 @@
-var mnemonic = "fabric short sell chaos describe dragon snow pulp defense fish library confirm";
+var mnemonic = "find repair scan camp worry donkey crazy hurdle pool shift mutual confirm";

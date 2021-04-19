@@ -1,1 +1,1 @@
-var mnemonic = "reflect float bulb degree shoot flat antenna horror snack nature recall fuel";
+var mnemonic = "year rain shield woman reform hour leisure dinner fox coral absurd maple";

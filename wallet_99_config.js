@@ -1,1 +1,1 @@
-var mnemonic = "weasel skill wasp update engine weekend offer heart brisk face symbol attend";
+var mnemonic = "flight narrow turtle any two brush account skate ozone hub flat cargo";

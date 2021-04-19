@@ -1,1 +1,1 @@
-var mnemonic = "long vault owner decide doctor curious loop false clinic assume provide actress";
+var mnemonic = "ginger legal plate visit mammal stand toward fabric spice give flavor mother";

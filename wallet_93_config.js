@@ -1,1 +1,1 @@
-var mnemonic = "cover okay turkey friend toddler gaze smooth off behind lab glory legend";
+var mnemonic = "rigid bonus later power crime credit way random color warm absent dog";

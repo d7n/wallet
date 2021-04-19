@@ -1,1 +1,1 @@
-var mnemonic = "symptom act copy fever fall shy impact vendor print element like ugly";
+var mnemonic = "coil outer snack panda amateur apple jewel size range size smile trophy";

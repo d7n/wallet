@@ -1,1 +1,1 @@
-var mnemonic = "list reunion moment winner such security unfair bag trim certain wonder solar";
+var mnemonic = "fog desert boil focus shaft peasant peace post top quit crack sphere";

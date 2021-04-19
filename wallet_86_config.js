@@ -1,1 +1,1 @@
-var mnemonic = "number mimic yard profit motor tool demise rescue depart cheap famous favorite";
+var mnemonic = "treat outdoor desert shrimp access plunge flock rose pencil ugly blind baby";

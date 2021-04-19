@@ -1,1 +1,1 @@
-var mnemonic = "health trophy essence aspect labor sad work theory engine strategy issue minute";
+var mnemonic = "lunar edge taxi fatal filter slot surge clerk fog area unable chef";

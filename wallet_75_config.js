@@ -1,1 +1,1 @@
-var mnemonic = "cluster machine dad dry double theory member fever unveil receive hotel turn";
+var mnemonic = "neglect fluid evoke junk mass spy anchor nominee point menu rule meat";

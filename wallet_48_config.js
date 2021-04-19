@@ -1,1 +1,1 @@
-var mnemonic = "crack walnut glide arrive pair convince birth engage dilemma limit long security";
+var mnemonic = "table oxygen barely dress this fancy camera lecture gallery sentence drum lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss pledge orbit scene angry library peasant list useless version combine hat";
+var mnemonic = "curtain lounge coconut version idea drive extend rifle pull obvious wrestle crater";

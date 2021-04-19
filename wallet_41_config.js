@@ -1,1 +1,1 @@
-var mnemonic = "vague spatial denial session hollow reason better essay slush cricket cradle glass";
+var mnemonic = "hospital case world demand october puzzle shine medal there roof sign hidden";

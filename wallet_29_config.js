@@ -1,1 +1,1 @@
-var mnemonic = "famous include reopen tragic vital please crazy common media wish ghost uniform";
+var mnemonic = "void item super fresh garage invest will girl repair funny report asset";

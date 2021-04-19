@@ -1,1 +1,1 @@
-var mnemonic = "push cube copper range beef fix fine fiction food agree frame state";
+var mnemonic = "amazing author huge thing any color impulse stove when song mountain umbrella";

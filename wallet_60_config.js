@@ -1,1 +1,1 @@
-var mnemonic = "sniff predict gas ivory throw master south border design august month market";
+var mnemonic = "trouble educate embrace recycle bone clay panther observe little brief impose fancy";

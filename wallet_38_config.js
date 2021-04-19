@@ -1,1 +1,1 @@
-var mnemonic = "strategy popular dress seed orphan zone merit layer merit zebra critic minimum";
+var mnemonic = "belt myself naive side labor wash prize outside index clinic silent urge";

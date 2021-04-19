@@ -1,1 +1,1 @@
-var mnemonic = "tent major advance shrimp chronic corn traffic mention object laugh bronze area";
+var mnemonic = "motor member flash matrix medal galaxy unusual predict energy coffee arm talk";

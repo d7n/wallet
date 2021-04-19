@@ -1,1 +1,1 @@
-var mnemonic = "twice tobacco now donor culture skate wood frog anchor letter express lazy";
+var mnemonic = "anchor undo property section joy kangaroo fuel milk resource label purse enable";

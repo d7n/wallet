@@ -1,1 +1,1 @@
-var mnemonic = "issue private cigar fiscal announce wheat all unknown cheap car volume tenant";
+var mnemonic = "struggle spy blur neutral region seminar matrix mosquito rain plastic mix mass";

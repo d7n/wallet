@@ -1,1 +1,1 @@
-var mnemonic = "inform dilemma feel donate bulk swing chimney author skirt soon virtual dry";
+var mnemonic = "fiction want grit sketch cook kitten faint soft retreat cream you glad";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy hamster depart slight between object curious canal tackle seek wool crop";
+var mnemonic = "assault hover impact engage argue sing pupil poverty holiday injury coin country";

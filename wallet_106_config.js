@@ -1,1 +1,1 @@
-var mnemonic = "domain apart clutch crawl day pattern target plastic army undo state tray";
+var mnemonic = "frequent mention quarter napkin loop velvet enforce reward demise message connect solution";

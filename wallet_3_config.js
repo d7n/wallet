@@ -1,1 +1,1 @@
-var mnemonic = "seek family million student toilet night maximum social satisfy party art model";
+var mnemonic = "reward hair detect knife situate remove cotton echo donate cross garage disease";

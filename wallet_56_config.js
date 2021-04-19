@@ -1,1 +1,1 @@
-var mnemonic = "again middle vivid blame purity work dirt emerge slogan absent foster oblige";
+var mnemonic = "elevator silent script scrub sketch raccoon merge affair breeze cloud matter sunny";

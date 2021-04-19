@@ -1,1 +1,1 @@
-var mnemonic = "impact deposit approve strike actual test orient lottery faculty unfair father quality";
+var mnemonic = "fossil chicken tray asthma across junior expand process mind manage orient lesson";

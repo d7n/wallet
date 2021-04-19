@@ -1,1 +1,1 @@
-var mnemonic = "leader cage zoo enter ozone promote rib legal achieve cost treat very";
+var mnemonic = "cry there wear nation movie alone flight company depth total acoustic middle";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe crucial volume steel message weapon duty hamster come public snack license";
+var mnemonic = "depth eyebrow recall sport title hockey sadness post canvas fun flash make";

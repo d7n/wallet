@@ -1,1 +1,1 @@
-var mnemonic = "true also measure sentence success antique welcome best cradle salon pave control";
+var mnemonic = "thunder envelope curve odor defense note page soccer desert join spin perfect";

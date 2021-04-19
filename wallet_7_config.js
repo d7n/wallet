@@ -1,1 +1,1 @@
-var mnemonic = "acid buzz one oval recycle pear labor vibrant drink review advice drink";
+var mnemonic = "noble sorry point bind drastic arrange stand jungle option lawn draft soup";

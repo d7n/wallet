@@ -1,1 +1,1 @@
-var mnemonic = "lumber coin boat pupil home jump fantasy never expose during food picnic";
+var mnemonic = "turkey copy rifle ostrich sail toilet gym small indoor ramp spring private";

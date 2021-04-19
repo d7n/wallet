@@ -1,1 +1,1 @@
-var mnemonic = "hair episode salon huge float reopen liquid clip catalog topic turtle wet";
+var mnemonic = "gauge sight wall afraid clump run park become viable final click jazz";

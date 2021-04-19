@@ -1,1 +1,1 @@
-var mnemonic = "exchange elder mistake mother glory switch music attack catch ice lunch hire";
+var mnemonic = "such adult best crowd situate hair donor grape foil speak extra oyster";

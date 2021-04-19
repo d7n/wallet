@@ -1,1 +1,1 @@
-var mnemonic = "pig ridge gown unhappy lunch add waste net task random mobile light";
+var mnemonic = "collect hint nest improve comic catalog fit ocean inflict staff garbage behind";

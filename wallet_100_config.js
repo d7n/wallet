@@ -1,1 +1,1 @@
-var mnemonic = "tree cushion riot badge bike ancient imitate excuse fire vacant nut boil";
+var mnemonic = "creek notice clap figure ensure order minimum plug ill warrior sustain theory";

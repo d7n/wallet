@@ -1,1 +1,1 @@
-var mnemonic = "master pluck heavy credit mistake divide shell result scissors evolve into barrel";
+var mnemonic = "trial much hair bracket certain wasp apology put fresh icon layer embark";

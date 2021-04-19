@@ -1,1 +1,1 @@
-var mnemonic = "olive pencil strike receive upper tip this appear eager future isolate tribe";
+var mnemonic = "broken inherit dinner improve chair control valid memory royal carry tone flavor";

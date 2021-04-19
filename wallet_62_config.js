@@ -1,1 +1,1 @@
-var mnemonic = "olympic clerk announce risk negative kitchen arrive vintage salmon appear egg honey";
+var mnemonic = "company couple fly wrap use ride gift square warm vendor bargain rigid";

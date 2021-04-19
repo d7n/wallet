@@ -1,1 +1,1 @@
-var mnemonic = "civil alone bargain recall pair ghost weapon easily fold leg print jar";
+var mnemonic = "chair universe nature gasp open timber inspire cart away wink universe false";

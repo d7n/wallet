@@ -1,1 +1,1 @@
-var mnemonic = "empower steak gaze jelly modify cook citizen erosion tunnel answer slam else";
+var mnemonic = "hobby bracket web symptom sight purchase ribbon stumble shuffle amateur bicycle auction";

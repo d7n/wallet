@@ -1,1 +1,1 @@
-var mnemonic = "enjoy employ current purity misery orange when rack danger hill broccoli design";
+var mnemonic = "wrap broccoli lady assault voyage erosion side shock crack music breeze hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "afford sense cage wheat unaware height control pact sponsor acquire enroll pole";
+var mnemonic = "veteran grocery now cup apart boat tiger crunch flip option sail network";

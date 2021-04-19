@@ -1,1 +1,1 @@
-var mnemonic = "leader cricket dove glide web shift pencil senior torch pretty tissue emotion";
+var mnemonic = "issue endless uniform journey ahead veteran scan carry blossom drama shuffle obey";

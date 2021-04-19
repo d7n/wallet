@@ -1,1 +1,1 @@
-var mnemonic = "match pride tilt grab dismiss valley frost media attack unusual globe picture";
+var mnemonic = "novel public detail law another culture such require palace away manual grant";

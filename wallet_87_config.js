@@ -1,1 +1,1 @@
-var mnemonic = "coach ship injury movie crowd category easy mad awful tonight crop frog";
+var mnemonic = "crash camp grace friend change deal submit artwork remember pitch hope siren";

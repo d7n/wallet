@@ -1,1 +1,1 @@
-var mnemonic = "debris stem where gate magic bottom sorry enjoy manage reflect avoid fame";
+var mnemonic = "scrap mountain normal noble spy peasant bubble expose castle equal afford beyond";

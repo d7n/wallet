@@ -1,1 +1,1 @@
-var mnemonic = "kite inner erupt unknown achieve topic supreme lesson festival sell valve repeat";
+var mnemonic = "master heavy mimic again hotel horror horse health language across retire high";

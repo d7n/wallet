@@ -1,1 +1,1 @@
-var mnemonic = "tortoise shine quote maid right pride produce notice crew arena inside dynamic";
+var mnemonic = "brass trumpet kangaroo winner boy fever debate high result coil hover unit";

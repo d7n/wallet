@@ -1,1 +1,1 @@
-var mnemonic = "jelly lava rely humor material mimic spend blouse easy reform cotton north";
+var mnemonic = "dawn human engage pepper fan debate hip valley list village monkey dizzy";

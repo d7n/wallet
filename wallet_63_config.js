@@ -1,1 +1,1 @@
-var mnemonic = "equal bless cabin climb baby service chair enrich note wife million iron";
+var mnemonic = "medal vivid bag agent increase damage pool aerobic better entire april planet";

@@ -1,1 +1,1 @@
-var mnemonic = "chief soup chunk inspire call clutch economy pulp egg vote hotel wasp";
+var mnemonic = "urge lizard fish multiply dilemma merry ticket trend kiss flat kiwi bean";

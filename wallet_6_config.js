@@ -1,1 +1,1 @@
-var mnemonic = "knock afford mixed pink opera leave success grocery razor seven corn helmet";
+var mnemonic = "prevent wheat goat cat cash sauce melody lamp balance process session resource";

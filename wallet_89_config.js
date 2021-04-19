@@ -1,1 +1,1 @@
-var mnemonic = "reopen frown derive dream peasant rocket neither smooth check rhythm depth light";
+var mnemonic = "drama option risk find loyal garage bubble burst picture copy cat palace";

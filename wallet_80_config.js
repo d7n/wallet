@@ -1,1 +1,1 @@
-var mnemonic = "action code future document meadow flock giraffe hover device taste confirm monkey";
+var mnemonic = "myth easy seed print basic pizza wreck dragon must host proud uncover";

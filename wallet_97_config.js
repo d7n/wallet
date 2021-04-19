@@ -1,1 +1,1 @@
-var mnemonic = "room extra salon siege casual manage tomorrow able long carbon beef spare";
+var mnemonic = "predict above diagram someone mansion element hybrid fire hollow torch gallery diet";

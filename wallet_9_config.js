@@ -1,1 +1,1 @@
-var mnemonic = "repair liberty noise rubber ocean hidden state practice sauce market clean blind";
+var mnemonic = "top matter among top enforce vivid spot proud report begin apology flat";

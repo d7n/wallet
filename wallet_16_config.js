@@ -1,1 +1,1 @@
-var mnemonic = "suspect drill van order cheese oven ski ripple rose habit century call";
+var mnemonic = "captain husband valve shine alter hazard glimpse amateur disease robot pony jeans";

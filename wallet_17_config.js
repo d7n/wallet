@@ -1,1 +1,1 @@
-var mnemonic = "symptom utility bitter diet credit lamp fly pepper matter huge small champion";
+var mnemonic = "spider coconut oak unveil major sketch degree boy actor rib luggage close";

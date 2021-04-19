@@ -1,1 +1,1 @@
-var mnemonic = "dose balance learn hint believe tunnel review spot stool battle theme taste";
+var mnemonic = "bottom exit gift labor antique found mixed apart flip give stove ticket";

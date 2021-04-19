@@ -1,1 +1,1 @@
-var mnemonic = "coil reduce dust license remember mean resemble multiply else allow satisfy actor";
+var mnemonic = "decide general guess color tomato learn edge regret decade shoot base vacuum";

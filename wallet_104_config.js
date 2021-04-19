@@ -1,1 +1,1 @@
-var mnemonic = "wash diet essence job true resource common elder crazy floor define debate";
+var mnemonic = "steak manage blast label fame fog tell surge when general box buzz";

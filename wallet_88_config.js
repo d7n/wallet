@@ -1,1 +1,1 @@
-var mnemonic = "arch essence butter pattern cement announce speed enemy hawk pistol fence wrestle";
+var mnemonic = "wheel before entire seed wreck pill face screen remain lumber latin emerge";

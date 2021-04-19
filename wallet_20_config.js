@@ -1,1 +1,1 @@
-var mnemonic = "motion donkey roof april panda uniform shrimp never great north engine circle";
+var mnemonic = "chest choice coral wash protect confirm silver margin message weasel trend foster";

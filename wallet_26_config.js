@@ -1,1 +1,1 @@
-var mnemonic = "banana plug cherry knee employ army step upper spray conduct utility secret";
+var mnemonic = "quote ankle gate jewel inform swallow exact service brick awkward outside detail";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing gain figure cannon traffic identify oven crane erupt chaos alarm midnight";
+var mnemonic = "crumble valid tomato false sister eight sibling awkward bargain slice sphere nuclear";

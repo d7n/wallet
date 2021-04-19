@@ -1,1 +1,1 @@
-var mnemonic = "funny crisp tape parade witness huge artist sock room calm require antenna";
+var mnemonic = "addict foam latin quit across amateur journey must balance faint draft secret";

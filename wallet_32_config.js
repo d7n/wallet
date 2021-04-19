@@ -1,1 +1,1 @@
-var mnemonic = "wreck bread husband economy best prosper pudding riot blush drastic require energy";
+var mnemonic = "length glimpse brush assist shock settle weapon wheat rubber situate ivory useful";

@@ -1,1 +1,1 @@
-var mnemonic = "hood scheme artist ethics sugar either best phone woman pulse captain genius";
+var mnemonic = "bright genuine office ritual merry wood road forget empty still benefit topple";

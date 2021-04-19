@@ -1,1 +1,1 @@
-var mnemonic = "attend diet scout letter wedding deny funny slush sample unique rib orange";
+var mnemonic = "uncle prepare swallow fame chief you sibling acoustic giraffe abuse outer chunk";

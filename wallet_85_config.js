@@ -1,1 +1,1 @@
-var mnemonic = "laundry venue fringe library letter steel verify patch winner door oppose cradle";
+var mnemonic = "miracle prepare release mobile zebra clever tape melody penalty borrow brick present";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke asthma sail visa fade turtle umbrella find type captain sense select";
+var mnemonic = "flight jar forget honey broken gentle forest sick trial friend undo resemble";

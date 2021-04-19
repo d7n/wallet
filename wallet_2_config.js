@@ -1,1 +1,1 @@
-var mnemonic = "blade hat beach vanish lunar model arrive welcome bicycle eight cake duck";
+var mnemonic = "lion slab broccoli monitor filter gift topple moment robot spider gain coach";

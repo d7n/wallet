@@ -1,1 +1,1 @@
-var mnemonic = "hockey salad sun domain ridge crush cancel trade rookie rigid annual offer";
+var mnemonic = "apple cargo idea obey sport pudding rent impulse paddle involve benefit decorate";

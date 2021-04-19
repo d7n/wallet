@@ -1,1 +1,1 @@
-var mnemonic = "awake hurt tragic brand cake turn globe bus win dragon goat nephew";
+var mnemonic = "wave slush income boring title world demise festival indicate entire neglect stock";

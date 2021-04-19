@@ -1,1 +1,1 @@
-var mnemonic = "film resemble maid suggest ability stuff scout strong grain brisk hammer struggle";
+var mnemonic = "thumb imitate stomach announce pool deposit refuse wonder thought ensure maple drill";

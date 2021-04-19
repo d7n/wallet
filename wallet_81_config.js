@@ -1,1 +1,1 @@
-var mnemonic = "unknown garment sense silent good abuse mask rebel chimney daughter elephant air";
+var mnemonic = "uphold off dial identify appear arrest obey rare inspire oak law physical";

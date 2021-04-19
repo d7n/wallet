@@ -1,1 +1,1 @@
-var mnemonic = "prize identify regular offer virus vague unhappy wink guess gate cycle garbage";
+var mnemonic = "also divorce sadness require test tool save ocean usual segment fan digital";

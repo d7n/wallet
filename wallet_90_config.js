@@ -1,1 +1,1 @@
-var mnemonic = "special manage trouble novel grant observe expect erase solid various swamp census";
+var mnemonic = "ignore meat clinic text merry access palm type siren pond lab patch";

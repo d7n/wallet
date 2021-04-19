@@ -1,1 +1,1 @@
-var mnemonic = "shield novel cushion credit aisle tool online noodle economy spatial gas illegal";
+var mnemonic = "decade add celery bargain appear half will enough shallow fitness insect broken";

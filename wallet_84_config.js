@@ -1,1 +1,1 @@
-var mnemonic = "vague depend remain best fuel case kangaroo weather leisure slim change indoor";
+var mnemonic = "frost clay merge slice budget seek soccer zoo when magnet giggle mind";

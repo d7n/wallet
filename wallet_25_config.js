@@ -1,1 +1,1 @@
-var mnemonic = "attract amazing goddess jeans chapter hockey grit fuel debris security wing island";
+var mnemonic = "glimpse solid favorite monitor patch marble nephew rent rebel champion clever acoustic";

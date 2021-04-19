@@ -1,1 +1,1 @@
-var mnemonic = "deny summer patch fall before worry radar eight address dove purity dinner";
+var mnemonic = "shuffle stereo scatter legend fit nominee response wing mountain bracket fine rely";

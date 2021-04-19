@@ -1,1 +1,1 @@
-var mnemonic = "shoulder assault olive since health aerobic olive borrow defense soup cargo wolf";
+var mnemonic = "custom cruise voice wide index inhale patch kind century expect asset laundry";

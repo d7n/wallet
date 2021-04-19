@@ -1,1 +1,1 @@
-var mnemonic = "hub until about fork current police hammer match garment budget barely fun";
+var mnemonic = "snap outdoor cook gap near cool dragon dune hope verify mirror injury";

@@ -1,1 +1,1 @@
-var mnemonic = "soda grass egg ocean muscle liquid around impulse below march october elite";
+var mnemonic = "decade stock pumpkin hazard paddle more dash approve ranch fat intact can";

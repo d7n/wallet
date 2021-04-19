@@ -1,1 +1,1 @@
-var mnemonic = "sand report initial ticket scorpion seven suit vast vault test appear volcano";
+var mnemonic = "crane use tongue fee remain attend spatial once bronze rare series head";
