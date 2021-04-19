@@ -1,1 +1,1 @@
-var mnemonic = "notable pride like casual theme alert shift farm answer west square museum";
+var mnemonic = "phrase hunt fall mushroom tooth nose bitter kite thing final there pause";

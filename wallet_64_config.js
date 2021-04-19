@@ -1,1 +1,1 @@
-var mnemonic = "lawn adapt fiscal lesson innocent tragic champion divorce rack face movie subject";
+var mnemonic = "afraid husband brick quarter spy omit liberty jewel basket march price awake";

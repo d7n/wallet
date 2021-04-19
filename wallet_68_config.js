@@ -1,1 +1,1 @@
-var mnemonic = "orphan shed detect stuff rose turkey flip female awake person prevent axis";
+var mnemonic = "useless february rookie size theme deposit tag small shine series milk home";

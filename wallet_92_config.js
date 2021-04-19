@@ -1,1 +1,1 @@
-var mnemonic = "safe cause traffic master evidence leaf unfold gesture gentle liberty grocery mixture";
+var mnemonic = "small year amused better tired outdoor scorpion security ranch violin ecology traffic";

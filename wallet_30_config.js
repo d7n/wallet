@@ -1,1 +1,1 @@
-var mnemonic = "math erase unveil vessel innocent swear hero dry segment volume atom season";
+var mnemonic = "hospital deposit tone scene episode spell upset cost witness broken table submit";

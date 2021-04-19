@@ -1,1 +1,1 @@
-var mnemonic = "shallow clever oval foil find spot shallow glass flee short arm outdoor";
+var mnemonic = "siren struggle neither cannon swing little index problem submit spike note unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "local icon harbor pretty spider omit renew employ tribe artist erupt vintage";
+var mnemonic = "artist trim student chimney shield creek glare tourist indicate museum volcano inquiry";

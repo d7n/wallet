@@ -1,1 +1,1 @@
-var mnemonic = "helmet priority view achieve belt neglect skill sort execute other kid poverty";
+var mnemonic = "cost mystery cigar magic impulse depend average culture legal bamboo soldier squeeze";

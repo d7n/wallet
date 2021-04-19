@@ -1,1 +1,1 @@
-var mnemonic = "reject donate cannon program solid process enough inspire vanish across orphan stereo";
+var mnemonic = "wheel retire hidden illness vehicle toilet poet animal hurdle perfect gym demise";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone wool hint shoulder lyrics damp twelve license denial robust online favorite";
+var mnemonic = "sea ugly style flee ice duck inch regret display slender hill holiday";

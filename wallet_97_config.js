@@ -1,1 +1,1 @@
-var mnemonic = "air until stairs sniff march pluck erode must check city farm oppose";
+var mnemonic = "today rice pear scare exhaust laundry cool coyote town crazy fade gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe foam system lunch theory hockey rather vote dumb angry original magnet";
+var mnemonic = "mansion half leaf tortoise voice thumb renew meat obscure seat grid gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "pig soda erase frown group mad daring thought misery cycle large survey";
+var mnemonic = "normal nose home food bar world ceiling canyon divide food region nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "invest current logic purity guess luggage move early off icon outside ugly";
+var mnemonic = "property wrong blue scare payment pride tomato exclude repeat frown winter deer";

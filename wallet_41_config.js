@@ -1,1 +1,1 @@
-var mnemonic = "pelican soul victory model one boring exclude snake truck fringe city design";
+var mnemonic = "version rack family dirt spread sight elder egg expand work order topic";

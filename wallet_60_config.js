@@ -1,1 +1,1 @@
-var mnemonic = "kiwi inflict curve acquire ribbon business solid rude chest trap medal true";
+var mnemonic = "sword rain length museum blame ginger doctor dolphin climb grab provide assist";

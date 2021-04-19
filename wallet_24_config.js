@@ -1,1 +1,1 @@
-var mnemonic = "honey tiny indicate iron doctor defy such almost delay tongue pear live";
+var mnemonic = "uncover aerobic elevator brass cactus reflect weekend gossip normal tunnel orbit submit";

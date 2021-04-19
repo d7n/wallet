@@ -1,1 +1,1 @@
-var mnemonic = "jealous return breeze meadow nuclear oyster army loop ski chair burger race";
+var mnemonic = "panel abandon dance industry tell execute provide example scorpion agent rib expire";

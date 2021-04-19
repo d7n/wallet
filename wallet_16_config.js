@@ -1,1 +1,1 @@
-var mnemonic = "security stone another pride caution road grocery foil outside ensure border twice";
+var mnemonic = "hollow unusual stamp attract mixed victory pelican mechanic empower sun spirit sort";

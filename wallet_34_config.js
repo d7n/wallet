@@ -1,1 +1,1 @@
-var mnemonic = "stadium love stove hospital morning favorite farm pencil tell mule loop swallow";
+var mnemonic = "anchor crisp father voice bounce opinion zone edge gadget lemon rapid pioneer";

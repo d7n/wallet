@@ -1,1 +1,1 @@
-var mnemonic = "brain whip amazing output arrange camp frog video sting wink paper tonight";
+var mnemonic = "fancy best usage rally spell version bounce mask shine worth glove memory";

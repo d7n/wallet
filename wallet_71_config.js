@@ -1,1 +1,1 @@
-var mnemonic = "since basket gap venue refuse solar caught fuel enact barrel crew mask";
+var mnemonic = "pilot lawsuit this faint fruit metal order current often summer refuse large";

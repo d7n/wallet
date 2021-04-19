@@ -1,1 +1,1 @@
-var mnemonic = "whip industry dignity feature cheap know shoot fun exact multiply ghost steel";
+var mnemonic = "major foot grape chair august pipe winter trap inspire warrior rail accuse";

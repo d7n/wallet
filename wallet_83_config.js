@@ -1,1 +1,1 @@
-var mnemonic = "awkward north culture love gap random tilt roast column float relax april";
+var mnemonic = "exhibit prevent modify cinnamon velvet trend hybrid nest boring view target worry";

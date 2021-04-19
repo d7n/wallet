@@ -1,1 +1,1 @@
-var mnemonic = "panther purchase jewel humor wash census maze deer salon wheat stairs hold";
+var mnemonic = "resist industry embark fork actress found remember eyebrow pull tribe random mansion";

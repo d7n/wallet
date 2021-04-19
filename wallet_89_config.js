@@ -1,1 +1,1 @@
-var mnemonic = "private library twenty team shuffle security gown shoot mandate alarm menu hammer";
+var mnemonic = "wrap pink defy erosion treat veteran obscure common stomach august sleep hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "honey cat scheme ostrich aware chunk good fiscal forum faculty cause island";
+var mnemonic = "token pink soldier material area echo ensure enrich announce buyer figure orange";

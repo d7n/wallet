@@ -1,1 +1,1 @@
-var mnemonic = "duck under soda party list urge chef track hover network corn album";
+var mnemonic = "horror bus hover vacuum famous dinosaur urge blanket bounce burst slogan sing";

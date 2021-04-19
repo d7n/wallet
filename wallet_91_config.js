@@ -1,1 +1,1 @@
-var mnemonic = "secret mystery bargain canyon begin blame sister long city umbrella exhaust reflect";
+var mnemonic = "cup rib remember flower license appear agree reunion kidney pull beef scout";

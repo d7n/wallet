@@ -1,1 +1,1 @@
-var mnemonic = "misery core feature huge all thumb marble electric bicycle wide ocean town";
+var mnemonic = "staff picnic scan ritual royal scale clarify soap broccoli hood floor buzz";

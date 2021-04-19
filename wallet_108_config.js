@@ -1,1 +1,1 @@
-var mnemonic = "question wage region peasant robust cancel pink slow fury prefer sound chalk";
+var mnemonic = "lawsuit chunk laugh focus year thumb express absorb peanut cabbage obey faint";

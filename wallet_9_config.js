@@ -1,1 +1,1 @@
-var mnemonic = "bone dinosaur weird core lizard mechanic favorite glove garment cheap simple liberty";
+var mnemonic = "clog grab remember success purpose year path egg custom eternal fence sugar";

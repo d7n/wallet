@@ -1,1 +1,1 @@
-var mnemonic = "supreme forest tilt danger lesson faint run ski exact stick rally brown";
+var mnemonic = "glue monkey rice battle swarm cool portion rude bar luxury frozen craft";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic toilet taxi wheel struggle fork motor route feel disorder fever alarm";
+var mnemonic = "olive about fragile suggest walk general cruel huge bring hip excite false";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle wheel february torch medal type maple protect visit puppy prize note";
+var mnemonic = "lab boil cruel banana pave tongue box pottery found arrive speak uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "wet finger script corn dove left chalk absent stick slush cruise alpha";
+var mnemonic = "embody boil sand easy novel undo what child tumble prepare water change";

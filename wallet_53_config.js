@@ -1,1 +1,1 @@
-var mnemonic = "whisper fat huge lunar soldier electric key survey first daughter gauge arrow";
+var mnemonic = "merry lock attract diagram fat three term level argue entire deputy correct";

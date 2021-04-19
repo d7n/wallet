@@ -1,1 +1,1 @@
-var mnemonic = "april anchor clever among hotel lake sock cause employ funny heart march";
+var mnemonic = "brave august crunch stuff okay prefer rose ethics belt bulb robust syrup";

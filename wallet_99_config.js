@@ -1,1 +1,1 @@
-var mnemonic = "alien approve wear daring erupt random utility monster brother insane easy shrimp";
+var mnemonic = "old eyebrow differ left vicious virtual possible author chest urban effort fish";

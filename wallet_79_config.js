@@ -1,1 +1,1 @@
-var mnemonic = "trap torch error network hidden inform baby lend hunt bargain around bargain";
+var mnemonic = "avoid embrace lift drill spring comic loud put dream remember crop cause";

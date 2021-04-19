@@ -1,1 +1,1 @@
-var mnemonic = "tuna fox budget express dose lottery lava kitten soda road honey shiver";
+var mnemonic = "inquiry skin thank cage kitchen term voice rebuild column brick praise side";

@@ -1,1 +1,1 @@
-var mnemonic = "outer glue lucky stand gesture return project torch habit neither issue laugh";
+var mnemonic = "scatter gallery echo invest effort year worth idle eye artist indoor garden";

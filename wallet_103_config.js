@@ -1,1 +1,1 @@
-var mnemonic = "enough aunt spray number harbor monkey inflict trick tobacco skull museum scene";
+var mnemonic = "season dance cactus satoshi budget lobster universe fog engage inside almost bunker";

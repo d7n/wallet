@@ -1,1 +1,1 @@
-var mnemonic = "usage awake nephew visit siege chapter lunch review sun concert tongue exercise";
+var mnemonic = "once person blind junk dream battle three current course autumn waste allow";

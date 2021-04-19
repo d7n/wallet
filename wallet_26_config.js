@@ -1,1 +1,1 @@
-var mnemonic = "boat quote awkward weekend spatial you brother trend between announce vacant one";
+var mnemonic = "garlic minute connect dad border visit lawsuit luggage pact student universe truth";

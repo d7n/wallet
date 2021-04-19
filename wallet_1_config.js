@@ -1,1 +1,1 @@
-var mnemonic = "leisure topic client embrace century stamp use neither work eagle spend fish";
+var mnemonic = "million puzzle report cook blouse pattern deputy diesel six leave badge jungle";

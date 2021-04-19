@@ -1,1 +1,1 @@
-var mnemonic = "patrol spice asset champion circle snake output door meadow sick hand ranch";
+var mnemonic = "immense cheese about egg machine limb change sound nephew simple music clown";

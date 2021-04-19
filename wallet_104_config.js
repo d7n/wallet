@@ -1,1 +1,1 @@
-var mnemonic = "grass ladder cinnamon hazard angle tooth lobster pepper trouble evidence domain fee";
+var mnemonic = "job envelope employ turtle comfort enforce tourist scheme various ask target neither";

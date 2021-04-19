@@ -1,1 +1,1 @@
-var mnemonic = "ceiling puzzle bridge smile demise always garment proof tiny artist ship limb";
+var mnemonic = "junior mail object trust exit one noble state fruit afford large heart";

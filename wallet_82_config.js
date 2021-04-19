@@ -1,1 +1,1 @@
-var mnemonic = "accident keen put cram vital differ jealous destroy prize scene wolf later";
+var mnemonic = "jacket job cradle desk belt wide add spoil advice post alley life";

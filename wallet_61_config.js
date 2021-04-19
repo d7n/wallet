@@ -1,1 +1,1 @@
-var mnemonic = "biology oyster depth wine latin fringe diesel scrub stage profit innocent obey";
+var mnemonic = "innocent patch usual aim trouble voyage patch hand margin thunder boat father";

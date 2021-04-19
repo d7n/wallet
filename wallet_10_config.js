@@ -1,1 +1,1 @@
-var mnemonic = "safe undo little volcano scan enrich humor rare observe public beauty board";
+var mnemonic = "warm state reform hen junk theory swing input fix alley neck suspect";

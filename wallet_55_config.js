@@ -1,1 +1,1 @@
-var mnemonic = "sponsor hood weird vacant planet question amused arrest unaware mad battle below";
+var mnemonic = "peace amount tissue feel arrest index relief enter slender skill cheap turn";

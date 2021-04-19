@@ -1,1 +1,1 @@
-var mnemonic = "budget nice puppy body verify tag butter crisp vault near polar inmate";
+var mnemonic = "cannon fold payment spike eye autumn wish wealth high decade table move";

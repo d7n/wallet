@@ -1,1 +1,1 @@
-var mnemonic = "detect open firm artist nephew erupt alien permit mix liquid fatal person";
+var mnemonic = "walnut obvious much rely obvious antique mom baby fly tonight scheme priority";

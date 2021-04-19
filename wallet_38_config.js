@@ -1,1 +1,1 @@
-var mnemonic = "detect embrace weekend uncover timber dawn digital torch sadness kangaroo amount later";
+var mnemonic = "rather notable asthma tribe bone mom label pink swarm inhale joke noise";

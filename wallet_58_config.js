@@ -1,1 +1,1 @@
-var mnemonic = "awkward exist flush million food weasel caution team canal client tortoise tool";
+var mnemonic = "trumpet joke scare jeans fuel naive session long caught cloud exist first";

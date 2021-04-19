@@ -1,1 +1,1 @@
-var mnemonic = "design glass derive hard stone shed page raw include put hood ribbon";
+var mnemonic = "effort sauce mass grain text velvet source number when swim pledge morning";

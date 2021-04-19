@@ -1,1 +1,1 @@
-var mnemonic = "oyster orphan three crowd venue flower grant sting gown fossil column claim";
+var mnemonic = "model person east faint child black enlist chief pupil hole jungle decade";

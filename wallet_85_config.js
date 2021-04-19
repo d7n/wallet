@@ -1,1 +1,1 @@
-var mnemonic = "beef bomb swear hope idea wrap increase exchange quality enforce suit ostrich";
+var mnemonic = "like rough valve mention turkey just spread winner industry local young calm";

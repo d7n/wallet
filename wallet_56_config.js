@@ -1,1 +1,1 @@
-var mnemonic = "blame search link bean grief peanut cry blossom federal canyon wear portion";
+var mnemonic = "script ivory scout movie side sustain plunge shaft planet approve company summer";

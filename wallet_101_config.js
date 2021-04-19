@@ -1,1 +1,1 @@
-var mnemonic = "rare glory garlic pistol sauce admit soft security hunt copper act convince";
+var mnemonic = "absent surprise mind tag tell nuclear know slush rival spike shuffle wild";

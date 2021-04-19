@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo unusual wrist badge before next better upset boil afraid alarm enlist";
+var mnemonic = "alone trust envelope bus index stand give tornado sheriff evoke common remind";

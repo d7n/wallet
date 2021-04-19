@@ -1,1 +1,1 @@
-var mnemonic = "mushroom valve chaos kitten typical step deliver divide must device art keen";
+var mnemonic = "history salon rocket network hospital wear phrase siege mango session smart stone";

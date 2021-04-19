@@ -1,1 +1,1 @@
-var mnemonic = "disagree palm foam monster develop crane transfer small chief unable again royal";
+var mnemonic = "illness whale oak chuckle account congress noble praise crew crew weird brief";

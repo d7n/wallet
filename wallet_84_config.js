@@ -1,1 +1,1 @@
-var mnemonic = "trial anger kite liquid crop mammal pride guide dismiss cry hole gift";
+var mnemonic = "normal method oak grape exchange scatter hill discover vacant seed zero major";

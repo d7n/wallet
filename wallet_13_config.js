@@ -1,1 +1,1 @@
-var mnemonic = "unique pottery rule auction dignity remember unfold front sketch bracket peasant pipe";
+var mnemonic = "rebuild alley clean strike soap normal end term nose assume humble swarm";

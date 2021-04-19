@@ -1,1 +1,1 @@
-var mnemonic = "weather express flee pear future index silent alarm speak royal margin assume";
+var mnemonic = "six general dice teach boil wife dance salon oval popular electric tomato";

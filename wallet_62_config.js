@@ -1,1 +1,1 @@
-var mnemonic = "name behind soccer tomato combine claw weather raccoon whisper dry phone carpet";
+var mnemonic = "thunder elder magic like various cat enact gadget legal rough evidence dream";

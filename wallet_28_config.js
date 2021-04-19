@@ -1,1 +1,1 @@
-var mnemonic = "trash guide caught guilt exotic hybrid undo reward visa step artist rude";
+var mnemonic = "doll degree simple imitate lazy scan puzzle craft smooth celery cash rural";

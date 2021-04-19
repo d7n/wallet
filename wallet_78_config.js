@@ -1,1 +1,1 @@
-var mnemonic = "lend recall spare mix push rapid spread peasant dirt core stool armed";
+var mnemonic = "federal provide wine bargain tattoo gym before divert frog hope just model";

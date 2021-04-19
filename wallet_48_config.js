@@ -1,1 +1,1 @@
-var mnemonic = "upper thrive exercise payment enhance tide lonely error ocean lamp prize manual";
+var mnemonic = "shell whale toddler sponsor derive forget giggle worry only unaware donate adult";

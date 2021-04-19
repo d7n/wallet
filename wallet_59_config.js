@@ -1,1 +1,1 @@
-var mnemonic = "fork quarter rough friend melody basket tortoise runway abandon master pulse guide";
+var mnemonic = "oven dish expect snap kidney recipe brisk can amateur furnace december family";

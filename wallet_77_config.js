@@ -1,1 +1,1 @@
-var mnemonic = "annual lava skate finger scout orient swear crucial hedgehog document artefact trouble";
+var mnemonic = "valid source describe photo science artwork kit city teach hint result milk";

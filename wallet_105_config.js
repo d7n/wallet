@@ -1,1 +1,1 @@
-var mnemonic = "shed drink advice clock shiver lyrics chief thumb local write jazz frame";
+var mnemonic = "trap fat autumn snap prepare action black unique woman detail nut kidney";

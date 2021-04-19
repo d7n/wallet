@@ -1,1 +1,1 @@
-var mnemonic = "believe exhibit can tone eager mom damage muscle marriage essay crucial clog";
+var mnemonic = "speed avoid lake tent wool dad truth script slam cliff globe sheriff";

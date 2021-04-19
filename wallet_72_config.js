@@ -1,1 +1,1 @@
-var mnemonic = "vanish rain kite swarm process advance aerobic kick bike mushroom era powder";
+var mnemonic = "census ceiling rain lecture whip odor pact horn boat want penalty base";

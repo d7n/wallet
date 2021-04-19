@@ -1,1 +1,1 @@
-var mnemonic = "panda inmate scissors oyster mango meadow hospital analyst security drop emerge morning";
+var mnemonic = "wreck eager bulb mention benefit hole solid business three live hole sniff";

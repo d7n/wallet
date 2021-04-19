@@ -1,1 +1,1 @@
-var mnemonic = "model wheat happy trade way truth receive nurse rabbit judge test depend";
+var mnemonic = "window oil near kit deposit auto ship unique decide feel index race";

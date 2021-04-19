@@ -1,1 +1,1 @@
-var mnemonic = "talk section response scrap mammal gallery winner lecture basic magic soda business";
+var mnemonic = "cushion crash mobile brush firm able keen garage region napkin noodle move";

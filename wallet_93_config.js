@@ -1,1 +1,1 @@
-var mnemonic = "battle age ten attract patient dragon limit stable merit truck grief cart";
+var mnemonic = "reunion juice tip cram honey myself hotel into judge ordinary cheap snow";

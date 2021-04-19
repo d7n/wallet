@@ -1,1 +1,1 @@
-var mnemonic = "increase amateur there true damp culture normal anger ticket mother level defy";
+var mnemonic = "notice shop security love coyote govern permit heavy ozone quantum security effort";

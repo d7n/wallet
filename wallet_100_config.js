@@ -1,1 +1,1 @@
-var mnemonic = "curtain pet hazard bid peasant hospital bind final crash agree odor virus";
+var mnemonic = "mimic improve clock pull trial sad nation river gap buzz raccoon spare";

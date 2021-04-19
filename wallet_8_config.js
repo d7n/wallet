@@ -1,1 +1,1 @@
-var mnemonic = "wrap away vital equip hurry fame coyote pact angle witness act prosper";
+var mnemonic = "lens borrow dove extend wool vibrant cabbage festival riot start stairs kid";

@@ -1,1 +1,1 @@
-var mnemonic = "you green come inhale pony rib where wolf immense disease promote phrase";
+var mnemonic = "claw carbon shadow nasty garage ordinary marriage carbon dizzy desert leave nut";

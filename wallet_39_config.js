@@ -1,1 +1,1 @@
-var mnemonic = "tip page pistol about empty lava day roast giant surge buzz armor";
+var mnemonic = "equip obvious render install next useful ankle provide captain early legend sauce";

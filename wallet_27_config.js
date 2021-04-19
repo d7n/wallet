@@ -1,1 +1,1 @@
-var mnemonic = "scout page enter radio sing hamster aunt warfare effort spoon glance arena";
+var mnemonic = "interest dial doctor bus traffic slim rule close net puppy hour blush";

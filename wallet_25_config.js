@@ -1,1 +1,1 @@
-var mnemonic = "bike garlic horn blur same doll leg position potato child any coin";
+var mnemonic = "lonely turkey track review civil gas gauge hint more water unfold plug";

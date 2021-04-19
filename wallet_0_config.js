@@ -1,1 +1,1 @@
-var mnemonic = "saddle staff donate choice actor result palace exit topic chuckle ranch drip";
+var mnemonic = "swing degree doll cream general hold remind alpha reward decrease fault wear";

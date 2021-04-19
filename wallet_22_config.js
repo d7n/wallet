@@ -1,1 +1,1 @@
-var mnemonic = "science suffer diagram young early recipe caution between day beyond scrub case";
+var mnemonic = "resemble bracket absent category fiscal place peace dignity potato unveil envelope fall";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle uncover winter survey olympic urge drum pulse doctor filter average sauce";
+var mnemonic = "faint short legend about great remind floor top pool isolate scrub main";

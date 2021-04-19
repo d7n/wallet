@@ -1,1 +1,1 @@
-var mnemonic = "before hunt nasty juice artefact cupboard rally urban assault emerge cloud decade";
+var mnemonic = "kingdom common vicious tilt hen siege plastic fabric citizen scorpion pride lonely";

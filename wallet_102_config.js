@@ -1,1 +1,1 @@
-var mnemonic = "hat sad rigid flat ignore renew fantasy gospel mutual march guilt desk";
+var mnemonic = "someone acoustic supreme bomb about crack crime normal weather measure before visa";

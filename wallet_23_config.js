@@ -1,1 +1,1 @@
-var mnemonic = "cram engine identify oval resource smooth mimic retire bird fun style gas";
+var mnemonic = "wrong depart harvest kitchen rail grocery palm company seed puzzle moon file";

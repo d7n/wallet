@@ -1,1 +1,1 @@
-var mnemonic = "birth entry mad expand forest burger merit wall upon timber blade found";
+var mnemonic = "large candy step network bacon exhaust warm goose elite judge steel ripple";

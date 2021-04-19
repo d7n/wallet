@@ -1,1 +1,1 @@
-var mnemonic = "charge lemon then skirt nice injury foster average motion armed include path";
+var mnemonic = "corn bottom cycle point neck basket bunker pepper diet cry simple forward";

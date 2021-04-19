@@ -1,1 +1,1 @@
-var mnemonic = "tortoise basic never bounce abuse gate joke crush metal live detail plunge";
+var mnemonic = "brother churn fat mystery define leaf guitar lyrics vague topic below beef";
