@@ -1,1 +1,1 @@
-var mnemonic = "opinion dentist okay organ middle patrol face age yellow twenty month tennis";
+var mnemonic = "only solar city parade click discover domain kangaroo deer anchor flame pear";

@@ -1,1 +1,1 @@
-var mnemonic = "twist select model liar kangaroo gentle blade tool tortoise magnet bleak caught";
+var mnemonic = "coconut truth grab milk shop truth survey often refuse initial bundle bullet";

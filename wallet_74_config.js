@@ -1,1 +1,1 @@
-var mnemonic = "muffin hint vanish wheel dirt spend sausage future exile quality dutch mad";
+var mnemonic = "eight float coral height angle blame snow hold convince width track safe";

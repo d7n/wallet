@@ -1,1 +1,1 @@
-var mnemonic = "ripple load amused advance wrap sustain spatial custom chair because bleak possible";
+var mnemonic = "pet eternal over garbage volcano solar scissors armor exchange monster earth hotel";

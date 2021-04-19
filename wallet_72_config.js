@@ -1,1 +1,1 @@
-var mnemonic = "walnut left clap answer cousin snack ozone expose accident inject apple essay";
+var mnemonic = "bubble priority capable diamond distance acoustic because tent wait level master cherry";

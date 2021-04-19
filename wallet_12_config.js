@@ -1,1 +1,1 @@
-var mnemonic = "soul height acquire purse federal install nice apple retreat convince lady pattern";
+var mnemonic = "loyal outer parrot boost adjust force acquire identify bottom shaft kiss october";

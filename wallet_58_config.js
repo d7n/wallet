@@ -1,1 +1,1 @@
-var mnemonic = "denial space food frown tank token betray child bike come spoil traffic";
+var mnemonic = "grocery twelve antique address cheap slot carpet put obvious visit dry will";

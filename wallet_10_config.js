@@ -1,1 +1,1 @@
-var mnemonic = "over relax because solve trial little glare popular blur skill rate decade";
+var mnemonic = "choose garage extend awake jealous indicate pyramid input strong direct guess basket";

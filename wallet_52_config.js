@@ -1,1 +1,1 @@
-var mnemonic = "vast anger cattle farm false bunker offer excite awful symptom egg industry";
+var mnemonic = "laugh unknown churn iron foam candy best observe perfect muscle hunt horn";

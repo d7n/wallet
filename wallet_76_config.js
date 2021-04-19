@@ -1,1 +1,1 @@
-var mnemonic = "hammer enter estate arrange word impulse soccer custom weapon flee dice lazy";
+var mnemonic = "march sample club poet cherry infant weapon card okay wise deer camera";

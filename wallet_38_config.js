@@ -1,1 +1,1 @@
-var mnemonic = "dragon path exclude hope hub team exhaust parade unaware volume poem sing";
+var mnemonic = "layer coach crowd act plastic dial never diary letter tomorrow history disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "edge salmon ticket response volcano pledge ancient menu still food rapid flash";
+var mnemonic = "street chicken motor wood path news mammal bring apart vault kitten mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic fish able chunk gym vehicle brush ordinary east victory slice ensure";
+var mnemonic = "cook tilt void bronze pond grant panther struggle snake episode rug glory";

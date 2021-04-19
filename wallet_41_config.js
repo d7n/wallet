@@ -1,1 +1,1 @@
-var mnemonic = "pledge battle high neither gas ski enjoy staff crazy equal one weasel";
+var mnemonic = "patient wire auto home canal only boss music owner hello vacant license";

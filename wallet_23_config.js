@@ -1,1 +1,1 @@
-var mnemonic = "arrow say put where razor erase bird gravity disease loan roof swallow";
+var mnemonic = "federal prevent salmon obvious maid error distance lumber program slight scrub ill";

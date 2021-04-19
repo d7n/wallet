@@ -1,1 +1,1 @@
-var mnemonic = "garlic weird blouse stool wasp glow absurd amazing remember muscle message prison";
+var mnemonic = "glide pass slice online universe ordinary rich fruit flight neck wing job";

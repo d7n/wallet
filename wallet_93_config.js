@@ -1,1 +1,1 @@
-var mnemonic = "coast electric rose wire minute symptom bleak glide welcome asset punch girl";
+var mnemonic = "swamp virtual fiber taste behind normal mimic general radio spell jacket chunk";

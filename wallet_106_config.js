@@ -1,1 +1,1 @@
-var mnemonic = "pyramid renew practice sausage illness drop slim crisp merit valid caught merge";
+var mnemonic = "excess cross melody camera upon wear gown error project turn fiscal auto";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil rescue current visual noodle legend attend quit simple sure mountain gesture";
+var mnemonic = "aspect sample clerk fruit purpose few jeans team satoshi snap public door";

@@ -1,1 +1,1 @@
-var mnemonic = "flee decide siege taste train wasp carpet enforce purchase again split title";
+var mnemonic = "segment measure peasant vital purse quality script slide best movie army wing";

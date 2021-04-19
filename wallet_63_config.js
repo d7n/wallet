@@ -1,1 +1,1 @@
-var mnemonic = "oxygen jaguar subject oak shift mixed vivid banana feed either doctor orient";
+var mnemonic = "crazy inch border need wait pipe midnight salt trend audit hurry observe";

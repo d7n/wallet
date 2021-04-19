@@ -1,1 +1,1 @@
-var mnemonic = "garage soon exotic reduce twice camp harsh six old federal attack solar";
+var mnemonic = "december focus door museum stamp talent hire crush evil sting leg unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel deal lady bitter sing video salon talent whisper glory ski dignity";
+var mnemonic = "final dinner program flip false owner milk item begin guide size mansion";

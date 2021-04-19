@@ -1,1 +1,1 @@
-var mnemonic = "evil reject silver six build right chapter marine logic feel transfer inform";
+var mnemonic = "viable yard already head initial engage notable toy famous clog heart person";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent true narrow wealth humor acquire rude maximum monster gauge reform invest";
+var mnemonic = "base machine giraffe category lab broom brisk stairs chef fog afford frame";

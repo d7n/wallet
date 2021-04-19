@@ -1,1 +1,1 @@
-var mnemonic = "owner pear category green jar answer panther fiction river black add sock";
+var mnemonic = "town screen wise memory answer busy canal hazard farm timber captain dog";

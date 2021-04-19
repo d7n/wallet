@@ -1,1 +1,1 @@
-var mnemonic = "where frame prison dash wife orphan ready shrimp avocado sun paddle tobacco";
+var mnemonic = "hub aisle slush point kind mistake open isolate round excite husband purity";

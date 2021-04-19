@@ -1,1 +1,1 @@
-var mnemonic = "couch pony faint detect timber soccer pigeon hub stool guide attend torch";
+var mnemonic = "neither symbol believe foam sight poem old fragile process cancel home just";

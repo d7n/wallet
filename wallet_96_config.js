@@ -1,1 +1,1 @@
-var mnemonic = "tide improve vacant address nothing day chaos stool average fat price cook";
+var mnemonic = "nation adapt chuckle muffin shop illegal mixed vivid lazy snow midnight absurd";

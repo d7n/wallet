@@ -1,1 +1,1 @@
-var mnemonic = "rug jar cabbage cash skull cycle click dad morning diagram loop burden";
+var mnemonic = "first lottery gauge federal lawn grit green feed curve mimic enter similar";

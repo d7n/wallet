@@ -1,1 +1,1 @@
-var mnemonic = "provide solar canoe inhale video metal kit increase duck camp toe peanut";
+var mnemonic = "very envelope pigeon oppose embark member echo solid prison view police orbit";

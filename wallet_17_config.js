@@ -1,1 +1,1 @@
-var mnemonic = "heavy meadow youth grid kiwi replace roast puppy month hire puppy must";
+var mnemonic = "affair skirt neutral machine better seek comic until tenant fantasy hockey polar";

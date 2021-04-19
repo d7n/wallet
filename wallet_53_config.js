@@ -1,1 +1,1 @@
-var mnemonic = "course weapon result same future chief cloth tiger dry zebra crouch crush";
+var mnemonic = "charge short never extend between spike release stumble core agree exhibit strategy";

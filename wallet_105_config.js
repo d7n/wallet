@@ -1,1 +1,1 @@
-var mnemonic = "picnic critic gesture wonder glove leaf boil warm demise frog two paddle";
+var mnemonic = "angry thrive nut pact drill add segment hockey congress excess tortoise chalk";

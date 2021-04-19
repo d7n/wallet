@@ -1,1 +1,1 @@
-var mnemonic = "transfer wreck drastic impulse start mosquito yard quarter measure language chase tattoo";
+var mnemonic = "edit toddler lake change rescue reject donkey tumble hobby boy police oyster";

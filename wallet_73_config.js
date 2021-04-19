@@ -1,1 +1,1 @@
-var mnemonic = "lunar sand acquire teach avocado discover bargain smart swamp know today now";
+var mnemonic = "upper hurdle caught urge turtle sound forget account pink cement burden trick";

@@ -1,1 +1,1 @@
-var mnemonic = "pool vessel range aware hammer amused hurry problem flight script market lady";
+var mnemonic = "neck income orchard cook cheap asset fog there real mix improve client";

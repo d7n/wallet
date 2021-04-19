@@ -1,1 +1,1 @@
-var mnemonic = "inner grid thought course salad toe turtle relax better crumble stuff scan";
+var mnemonic = "legend pig unfair opinion slush supreme ahead frog reason knife custom economy";

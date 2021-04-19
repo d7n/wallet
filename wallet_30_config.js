@@ -1,1 +1,1 @@
-var mnemonic = "siren shrimp access magic juice cook van gun know twelve error gadget";
+var mnemonic = "eagle such ritual pyramid mansion ugly prison dose fancy trophy surge rookie";

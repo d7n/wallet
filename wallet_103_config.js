@@ -1,1 +1,1 @@
-var mnemonic = "game powder glass era hill lyrics cash captain amazing reform sword rule";
+var mnemonic = "term average brain review cloth reason lounge sunny piano pencil lucky abstract";

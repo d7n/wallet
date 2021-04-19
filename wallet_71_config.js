@@ -1,1 +1,1 @@
-var mnemonic = "divide inhale sail humble mule adapt addict oval frog traffic noodle fossil";
+var mnemonic = "sword shuffle gesture pencil card crack party dirt change planet stock evidence";

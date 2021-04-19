@@ -1,1 +1,1 @@
-var mnemonic = "travel either west still size mansion unit until tomato differ put treat";
+var mnemonic = "jar trap cereal black hurdle sauce twenty neck lady outdoor aim valid";

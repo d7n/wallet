@@ -1,1 +1,1 @@
-var mnemonic = "adapt buffalo spot ask mail female faculty arrow vehicle genius goose news";
+var mnemonic = "unusual grocery token dwarf plug protect angry dress alpha kitchen idea mean";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow awful scissors ribbon deny dawn need average sad scan flee survey";
+var mnemonic = "innocent whisper play couch sphere about endorse cargo chimney globe away syrup";

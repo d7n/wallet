@@ -1,1 +1,1 @@
-var mnemonic = "gasp forget hidden earn volcano fold tuna demand cart buzz ramp practice";
+var mnemonic = "remember agent wheel liberty like patrol super mandate coin episode flash duck";

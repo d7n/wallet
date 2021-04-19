@@ -1,1 +1,1 @@
-var mnemonic = "shed check novel spray web ability novel beauty mansion practice top unknown";
+var mnemonic = "law clinic olympic tragic uncle wise approve round enough barely trim clinic";

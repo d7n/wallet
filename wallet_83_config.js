@@ -1,1 +1,1 @@
-var mnemonic = "toward hero shed sail wall trade stove concert bulk ritual model palm";
+var mnemonic = "pilot mutual sponsor hold essence priority wage recipe brass since access decade";

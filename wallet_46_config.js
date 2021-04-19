@@ -1,1 +1,1 @@
-var mnemonic = "maple accuse allow iron morning measure omit sad oxygen use warrior reward";
+var mnemonic = "trouble notable work flush mail slight hedgehog cigar lab tuition gloom sand";

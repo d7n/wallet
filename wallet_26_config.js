@@ -1,1 +1,1 @@
-var mnemonic = "raise twenty garment sentence useful mistake ice glow void pepper brisk uncle";
+var mnemonic = "orphan punch involve project hospital spoon level machine october spider cube trash";

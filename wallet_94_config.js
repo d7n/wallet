@@ -1,1 +1,1 @@
-var mnemonic = "rubber double destroy next private potato alcohol east trust fatal add expose";
+var mnemonic = "silk episode sleep safe job bullet aware moon car liar track outer";

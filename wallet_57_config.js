@@ -1,1 +1,1 @@
-var mnemonic = "view ticket woman wire reunion program distance advice general wasp tell loud";
+var mnemonic = "kidney random current upon castle tunnel festival disorder swallow shuffle foil grass";

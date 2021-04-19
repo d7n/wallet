@@ -1,1 +1,1 @@
-var mnemonic = "dwarf require can ticket napkin side traffic rebuild high cereal hour relief";
+var mnemonic = "sponsor review dentist metal asset you lunch ridge label roast peanut swallow";

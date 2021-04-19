@@ -1,1 +1,1 @@
-var mnemonic = "sibling impose collect clutch any gold dog essence kind arrest truly mom";
+var mnemonic = "become describe wedding repair tumble tomato fever wedding phone mechanic prison scout";

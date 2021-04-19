@@ -1,1 +1,1 @@
-var mnemonic = "interest emotion license again chair sense trick robust loud music rate siege";
+var mnemonic = "group super icon stomach van physical title stomach proof enemy pigeon trick";

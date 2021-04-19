@@ -1,1 +1,1 @@
-var mnemonic = "brain local special know finger base thrive soul dial garbage letter behave";
+var mnemonic = "hockey place beauty century april stomach town autumn sibling menu vendor under";

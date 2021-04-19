@@ -1,1 +1,1 @@
-var mnemonic = "mixture invite behind novel story shadow desert board there special weapon goddess";
+var mnemonic = "topple tree boil ill glove grid width glove combine correct grain brass";

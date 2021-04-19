@@ -1,1 +1,1 @@
-var mnemonic = "rough small client champion extend unfold disorder trend fuel random neither sand";
+var mnemonic = "skull mechanic gas like educate notable slice wine click column grape matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "list coyote total gym diagram test theory meadow code scout fossil dish";
+var mnemonic = "omit another essay island armed flower hand goose program subject thumb mandate";

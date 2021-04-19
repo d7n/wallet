@@ -1,1 +1,1 @@
-var mnemonic = "over enter author dynamic habit steel wing antenna walnut gossip own hat";
+var mnemonic = "room can ripple avoid chest trouble until brisk fiber hold filter south";

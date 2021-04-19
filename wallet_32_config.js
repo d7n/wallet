@@ -1,1 +1,1 @@
-var mnemonic = "ranch donkey void six inherit sustain dial rent glare rare couple satoshi";
+var mnemonic = "defense stairs tail icon near brown festival deny merry office avocado whip";

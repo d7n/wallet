@@ -1,1 +1,1 @@
-var mnemonic = "wage scatter find road absent push secret auction diagram broken siege hope";
+var mnemonic = "borrow stumble security case squirrel card payment milk relax winter chief catch";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster riot process exit color exchange urban side sunny quantum night cart";
+var mnemonic = "board worry just heavy hybrid retreat key bachelor inmate unfold general sign";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp near ship one reason enhance pottery glue moment tag blush fluid";
+var mnemonic = "same mixed demise rare tribe certain expose sell option edit bounce actual";

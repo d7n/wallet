@@ -1,1 +1,1 @@
-var mnemonic = "diary envelope segment section desert balance margin cereal length expect hammer better";
+var mnemonic = "today dry soda beef coil apart hurt liberty stove high damage power";

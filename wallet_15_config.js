@@ -1,1 +1,1 @@
-var mnemonic = "doll chapter era design fabric feed seat found rude safe paddle skill";
+var mnemonic = "vendor open process multiply drift rebel boil best security shield build resist";

@@ -1,1 +1,1 @@
-var mnemonic = "raw radio gospel execute behave sniff describe vanish orphan excuse moral school";
+var mnemonic = "eye happy scare front bridge lonely skill hope ask verb there water";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony december lobster kitchen skirt siren life supreme used attract squirrel auto";
+var mnemonic = "seat goose scare awesome ship wasp sunny apple stadium manage cement bag";

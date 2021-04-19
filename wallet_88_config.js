@@ -1,1 +1,1 @@
-var mnemonic = "join clay noise click drum soldier word eager heavy chef elder sound";
+var mnemonic = "also oyster cash toast short increase column earth neutral scatter inflict tiny";

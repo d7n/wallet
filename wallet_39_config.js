@@ -1,1 +1,1 @@
-var mnemonic = "course seminar add journey sunset attitude air they just situate effort balance";
+var mnemonic = "weird prevent evidence about spell wave runway bar cradle silly squeeze praise";

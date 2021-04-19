@@ -1,1 +1,1 @@
-var mnemonic = "banana wrap attend execute trigger add settle fiscal unfold act acquire arrow";
+var mnemonic = "tobacco enforce exact fiber fix punch ignore distance ritual erupt east asthma";

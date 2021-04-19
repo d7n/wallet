@@ -1,1 +1,1 @@
-var mnemonic = "elder cheese retire fence gold object echo giant impulse sort small annual";
+var mnemonic = "guide jacket injury balcony buyer swear shift man ready reflect ball army";

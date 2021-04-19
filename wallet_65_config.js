@@ -1,1 +1,1 @@
-var mnemonic = "satisfy gasp answer thing hire fruit social motion that share off taste";
+var mnemonic = "casual physical enroll purity inch usual license salmon hero evil nut audit";

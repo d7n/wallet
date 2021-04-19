@@ -1,1 +1,1 @@
-var mnemonic = "nurse between film labor garden enjoy gun demise coyote item narrow shaft";
+var mnemonic = "view vacuum enrich fat position slogan post horn palm begin panel comfort";

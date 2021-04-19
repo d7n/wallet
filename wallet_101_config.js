@@ -1,1 +1,1 @@
-var mnemonic = "click still punch perfect pride badge life lobster above edit kite spawn";
+var mnemonic = "danger woman leopard demise effort wink oxygen multiply art hammer crew job";

@@ -1,1 +1,1 @@
-var mnemonic = "economy element fence argue glad cargo when arrest uphold rescue permit wedding";
+var mnemonic = "dawn despair cinnamon build farm script survey focus capital finger ceiling future";

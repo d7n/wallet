@@ -1,1 +1,1 @@
-var mnemonic = "update junior entry stadium runway vapor flag radio rabbit panda torch square";
+var mnemonic = "tonight peasant have torch industry crater table amused aware tuition doctor dinosaur";

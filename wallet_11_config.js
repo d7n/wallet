@@ -1,1 +1,1 @@
-var mnemonic = "fiction indoor child alien morning universe glance sick library atom shy patrol";
+var mnemonic = "time beach oval chapter pair shift expand alpha indoor stock bullet festival";

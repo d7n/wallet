@@ -1,1 +1,1 @@
-var mnemonic = "action student injury journey spot elder mixture once poem victory open wet";
+var mnemonic = "dog furnace shop dish fit emerge warrior monkey cigar stomach expose danger";

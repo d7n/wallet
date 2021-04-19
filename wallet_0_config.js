@@ -1,1 +1,1 @@
-var mnemonic = "bar body minute trade someone upper ignore frame return mutual cute toddler";
+var mnemonic = "stomach elder place coin despair polar parent toddler mandate clay enjoy apology";

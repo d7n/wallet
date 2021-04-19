@@ -1,1 +1,1 @@
-var mnemonic = "maple brass ride visual tiger eyebrow cover minimum jungle noble drum random";
+var mnemonic = "inflict evidence derive air payment obvious rubber hint penalty region vicious predict";

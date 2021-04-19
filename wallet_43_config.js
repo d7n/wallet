@@ -1,1 +1,1 @@
-var mnemonic = "split tiger donkey portion circle grief clutch crisp aerobic east brick icon";
+var mnemonic = "arrest inherit spring example lobster matter trick hospital carbon celery label skill";

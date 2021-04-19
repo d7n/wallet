@@ -1,1 +1,1 @@
-var mnemonic = "fix shoot release carry very lobster purpose truck rib bird crush poem";
+var mnemonic = "lumber ritual dust recipe empty siege express physical empty tortoise destroy hour";

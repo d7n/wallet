@@ -1,1 +1,1 @@
-var mnemonic = "raven inflict slim drift join anchor century alcohol arrest slot garden prison";
+var mnemonic = "tool distance soda length iron notice inside sign salad praise shy math";

@@ -1,1 +1,1 @@
-var mnemonic = "visual park wrist type mobile include faculty cry badge today trash flame";
+var mnemonic = "argue suit broken turn end search opera canyon pudding gentle bread wild";

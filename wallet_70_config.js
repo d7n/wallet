@@ -1,1 +1,1 @@
-var mnemonic = "payment stuff lawsuit gym charge pulp music can wide drastic wear rescue";
+var mnemonic = "group protect dentist peasant stomach wish amazing ginger setup inflict tape air";

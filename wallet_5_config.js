@@ -1,1 +1,1 @@
-var mnemonic = "poem oblige feel taxi reflect result fantasy patch note very speak version";
+var mnemonic = "shop they thrive boy action rate staff curious dwarf pledge next make";

@@ -1,1 +1,1 @@
-var mnemonic = "safe company radio inch session reason uncle retreat moral matrix spot ranch";
+var mnemonic = "pilot will mixture poem spirit wing caution box jelly teach miracle advance";

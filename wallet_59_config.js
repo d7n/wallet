@@ -1,1 +1,1 @@
-var mnemonic = "royal kiwi solar rate between almost oil amused salt solve smile fit";
+var mnemonic = "flight raw fine craft crew solar health canvas cherry eternal all trigger";

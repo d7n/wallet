@@ -1,1 +1,1 @@
-var mnemonic = "social resemble prosper armor change medal noise potato topple drift eight engage";
+var mnemonic = "box sort ankle lady settle thrive there giraffe tree deal climb crumble";

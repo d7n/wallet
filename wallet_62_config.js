@@ -1,1 +1,1 @@
-var mnemonic = "prevent tackle minute slow broken anxiety extra awkward adapt security hard flip";
+var mnemonic = "dinner observe fringe gold blast method inch breeze error open deal chunk";

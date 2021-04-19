@@ -1,1 +1,1 @@
-var mnemonic = "jealous calm rural render carpet moment mesh vacant cement cram van useless";
+var mnemonic = "tornado buffalo raccoon inflict sister lava cotton cruel hard double level seat";

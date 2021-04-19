@@ -1,1 +1,1 @@
-var mnemonic = "mammal room innocent afford cupboard myself tornado enhance globe obvious drive unusual";
+var mnemonic = "heart chaos duty phone despair skirt match donate video butter tornado undo";

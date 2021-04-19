@@ -1,1 +1,1 @@
-var mnemonic = "knife leopard hood long funny detect guilt mouse stomach hazard patch snow";
+var mnemonic = "cruel chase twenty tongue noodle attend pen bind pencil blame impose radio";

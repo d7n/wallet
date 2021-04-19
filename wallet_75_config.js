@@ -1,1 +1,1 @@
-var mnemonic = "output ordinary panther wash wonder clump alter note gloom angry tornado ivory";
+var mnemonic = "below gossip need pepper critic balance wagon scheme close game fabric nut";

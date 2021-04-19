@@ -1,1 +1,1 @@
-var mnemonic = "rose open shadow prefer moment paddle corn squirrel rare one dove excuse";
+var mnemonic = "bind trial salon beyond pudding cup wheat slim provide traffic onion people";

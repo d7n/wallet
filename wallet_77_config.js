@@ -1,1 +1,1 @@
-var mnemonic = "balcony sketch school unveil suffer slide mixture achieve vibrant sponsor pig obey";
+var mnemonic = "affair catalog cushion maid green soft cube book social photo check peace";

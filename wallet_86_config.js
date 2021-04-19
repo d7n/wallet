@@ -1,1 +1,1 @@
-var mnemonic = "ivory local famous horror forum supply save broom double burger organ glove";
+var mnemonic = "wish secret cricket gift cream achieve solution employ panic cruel neck hard";

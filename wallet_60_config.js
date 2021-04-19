@@ -1,1 +1,1 @@
-var mnemonic = "walnut live soda genre monkey tragic health phone more detail maze rhythm";
+var mnemonic = "mesh build capital category door neither battle mammal shield circle minor coffee";

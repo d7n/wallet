@@ -1,1 +1,1 @@
-var mnemonic = "critic spy feed say rebel dove early prefer silly ready stable funny";
+var mnemonic = "remove monkey volume welcome neck appear weird tortoise rabbit cereal sell scrap";
