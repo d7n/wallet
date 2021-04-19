@@ -1,1 +1,1 @@
-var mnemonic = "myself cherry joy fork minimum promote knock stable dog vicious dinner quarter";
+var mnemonic = "company garment cute rescue helmet race lobster bacon basket hire drive cereal";

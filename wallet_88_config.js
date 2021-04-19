@@ -1,1 +1,1 @@
-var mnemonic = "decorate broken inside kidney faith mouse soldier champion dignity globe game apple";
+var mnemonic = "bomb tree leader coconut brand change gloom carbon neutral cake page shock";

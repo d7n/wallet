@@ -1,1 +1,1 @@
-var mnemonic = "inhale merry doctor ridge fluid solar sign visa climb candy bargain atom";
+var mnemonic = "crime control report arrive pill level cheap risk pretty cousin door hero";

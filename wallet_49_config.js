@@ -1,1 +1,1 @@
-var mnemonic = "sock palm fatal panther panther foster lesson kitten mail begin poem jungle";
+var mnemonic = "ring sort taxi lava smile jump manual lady smoke coyote wolf chimney";

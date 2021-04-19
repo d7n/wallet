@@ -1,1 +1,1 @@
-var mnemonic = "velvet own sorry donate garden peasant eye boring chalk ritual young bridge";
+var mnemonic = "exhibit butter what say claw shoulder enjoy smile sock shield theory good";

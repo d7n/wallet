@@ -1,1 +1,1 @@
-var mnemonic = "engage remove accident someone seek submit answer shallow police front devote twin";
+var mnemonic = "display model already vehicle position lift balcony strategy whip oyster squirrel ship";

@@ -1,1 +1,1 @@
-var mnemonic = "carry accuse festival evidence outside profit version news violin steak quantum alone";
+var mnemonic = "code utility inherit hat such nut regular payment senior praise spice give";

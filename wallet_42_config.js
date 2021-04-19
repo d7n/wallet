@@ -1,1 +1,1 @@
-var mnemonic = "switch garage fury shove abuse earth sample prize treat state north garment";
+var mnemonic = "spot have illness tray crawl polar option atom mixed laundry hazard wing";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck aim ship boss thought flock noble bonus rotate mercy supreme valid";
+var mnemonic = "air drop bitter plunge half artwork barrel hidden wheat token say glimpse";

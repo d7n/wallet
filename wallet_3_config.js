@@ -1,1 +1,1 @@
-var mnemonic = "latin favorite easy possible spin forum rent fee plug accident cruise label";
+var mnemonic = "august body song isolate load eye ordinary know silent travel trust syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "twice lazy much dream add palm often wood corn tell loan noble";
+var mnemonic = "three season grunt tragic popular envelope elbow drama already umbrella child witness";

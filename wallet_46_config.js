@@ -1,1 +1,1 @@
-var mnemonic = "obvious split truth alert anger luxury window poet width devote setup bonus";
+var mnemonic = "march cotton remember ozone lawsuit potato horse turkey have basic scan sudden";

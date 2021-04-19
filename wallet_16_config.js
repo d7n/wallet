@@ -1,1 +1,1 @@
-var mnemonic = "bullet pioneer sister draw cereal cash shadow frame author police yellow relax";
+var mnemonic = "magnet deal daughter differ slim hard venture amused claim fiction trick cable";

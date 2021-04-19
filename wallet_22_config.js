@@ -1,1 +1,1 @@
-var mnemonic = "wide nation quiz surprise issue sphere raw endorse shoot tourist potato work";
+var mnemonic = "marriage potato toddler neck across bottom alone tobacco elevator good stomach rhythm";

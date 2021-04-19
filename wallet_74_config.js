@@ -1,1 +1,1 @@
-var mnemonic = "police slush recycle learn crucial across erosion grab renew west glove clutch";
+var mnemonic = "repair ripple smoke shrimp announce ride chaos bargain spell prison inflict error";

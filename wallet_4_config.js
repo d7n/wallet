@@ -1,1 +1,1 @@
-var mnemonic = "mesh rough property awful scatter extend cloth rose device uniform unfair scorpion";
+var mnemonic = "base trumpet power pig skirt pigeon carbon quit brother want average panther";

@@ -1,1 +1,1 @@
-var mnemonic = "consider patient latin latin wise wrap tonight enter brand hamster borrow cabbage";
+var mnemonic = "smooth inherit action olympic lumber palace tell over gain all damage twice";

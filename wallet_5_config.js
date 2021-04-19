@@ -1,1 +1,1 @@
-var mnemonic = "test flock code provide damp weekend glow toilet nut faint hand transfer";
+var mnemonic = "slow useful record insect report wrist nut test include index wing earth";

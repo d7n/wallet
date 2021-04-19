@@ -1,1 +1,1 @@
-var mnemonic = "hint scheme gravity book giraffe evidence hint hold awkward tennis trade upper";
+var mnemonic = "sphere radio grab find gaze tennis fuel tumble strategy indicate anger frame";

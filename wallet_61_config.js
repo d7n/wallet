@@ -1,1 +1,1 @@
-var mnemonic = "picnic february novel fault box jeans nerve boat raise hazard tobacco topple";
+var mnemonic = "ensure culture peanut olympic survey repair sadness era tip glide copy leisure";

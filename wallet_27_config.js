@@ -1,1 +1,1 @@
-var mnemonic = "urge invest gravity near actor forum neglect kidney banana select tenant wealth";
+var mnemonic = "tell wise potato water load deputy try receive universe spider stumble shoulder";

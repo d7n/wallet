@@ -1,1 +1,1 @@
-var mnemonic = "empty hundred detect drink mule blossom cattle layer voice skate law void";
+var mnemonic = "stone debate cherry wage drama domain measure cable road nurse horn gold";

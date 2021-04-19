@@ -1,1 +1,1 @@
-var mnemonic = "opinion sunset warm mad romance provide enough guess judge tray name claw";
+var mnemonic = "choice main clarify dad secret donkey sleep field odor mercy tip thing";

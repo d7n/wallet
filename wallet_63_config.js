@@ -1,1 +1,1 @@
-var mnemonic = "great hurry clog jeans wool cotton alert merit write treat elephant climb";
+var mnemonic = "recall confirm music worry pitch chuckle lottery pole knock quit destroy menu";

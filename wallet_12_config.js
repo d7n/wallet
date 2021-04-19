@@ -1,1 +1,1 @@
-var mnemonic = "hazard network post improve crowd panic fly repair steak glimpse predict regular";
+var mnemonic = "focus seven ten grant again citizen churn cause polar hawk elder coin";

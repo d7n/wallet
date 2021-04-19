@@ -1,1 +1,1 @@
-var mnemonic = "melt same there debris chair donate ahead nurse vital rug intact radar";
+var mnemonic = "pear rural large palace cereal husband banana echo supreme syrup chuckle cage";

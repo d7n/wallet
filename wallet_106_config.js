@@ -1,1 +1,1 @@
-var mnemonic = "tortoise young crumble island shrimp pattern glare search defense crime holiday wash";
+var mnemonic = "resist impact reform disorder refuse tape sheriff orbit wild neither cotton hobby";

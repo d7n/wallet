@@ -1,1 +1,1 @@
-var mnemonic = "south youth dynamic ahead airport usual pizza width accuse hybrid fringe arrange";
+var mnemonic = "loop nation abandon goat actress about during okay piece volume eye deny";

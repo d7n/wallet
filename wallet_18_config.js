@@ -1,1 +1,1 @@
-var mnemonic = "correct total firm manage guitar enroll follow plunge shoot advice inch light";
+var mnemonic = "series guitar excuse spy beyond athlete sweet omit consider film portion wrist";

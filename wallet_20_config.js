@@ -1,1 +1,1 @@
-var mnemonic = "minute satisfy expect organ cattle virtual state squeeze giant throw coral park";
+var mnemonic = "snake wrist picture oak royal swap head garage ill crouch amount cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic rally dawn slice amount exclude doctor unable chaos fly solve nose";
+var mnemonic = "sight infant enable mirror retire lumber night drive lamp autumn divorce raise";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist eyebrow provide enhance identify glide cross hockey secret fine protect indicate";
+var mnemonic = "sausage fluid sort harsh wash ahead orange oppose student chaos mosquito stairs";

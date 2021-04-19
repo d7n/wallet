@@ -1,1 +1,1 @@
-var mnemonic = "crunch issue tip noise disorder ready truly emotion monitor month stone gravity";
+var mnemonic = "detail corn throw depend elegant people net couple galaxy blush long will";

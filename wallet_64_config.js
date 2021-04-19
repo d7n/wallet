@@ -1,1 +1,1 @@
-var mnemonic = "stick write mind awful coral chief double prefer pull amused organ rebel";
+var mnemonic = "rookie damp hurt option roast raise repair toward urge swap stem spoil";

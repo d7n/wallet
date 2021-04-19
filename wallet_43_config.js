@@ -1,1 +1,1 @@
-var mnemonic = "blind symptom caution bag lock jealous arrest tide viable curve treat fish";
+var mnemonic = "afford faith rib skate gentle concert wire usual duty foster zone coffee";

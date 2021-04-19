@@ -1,1 +1,1 @@
-var mnemonic = "milk actual grow luggage slam task lady pledge age baby actor prevent";
+var mnemonic = "tilt undo cycle question buyer radio across march involve sugar entire quick";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus task cactus property crucial derive science jewel electric roof clutch across";
+var mnemonic = "happy magnet beef just assume raccoon pepper island hover hover bright what";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard flame bring swallow rather random usual recall simple pet donate stable";
+var mnemonic = "margin own vacuum ribbon stand deal shift civil fork bright great clinic";

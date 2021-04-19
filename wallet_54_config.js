@@ -1,1 +1,1 @@
-var mnemonic = "analyst sugar neck rule local nation gadget ocean muscle license annual yard";
+var mnemonic = "bench public faint speed cheap virus art ready dish stairs jewel approve";

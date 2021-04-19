@@ -1,1 +1,1 @@
-var mnemonic = "tragic title hood woman napkin busy slam crash boss despair banana trust";
+var mnemonic = "uphold october catalog spice degree basic occur pencil fluid edge fluid strong";

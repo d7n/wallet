@@ -1,1 +1,1 @@
-var mnemonic = "uncover advice rescue deliver puppy public loop teach drink decline foot cube";
+var mnemonic = "jaguar riot culture pull case cross mistake clay they rural guess fee";

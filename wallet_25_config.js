@@ -1,1 +1,1 @@
-var mnemonic = "kiwi cereal consider index unusual force leopard pudding shift stick glow rigid";
+var mnemonic = "attract solar grocery tired limb belt canvas weapon sign buddy slush grab";

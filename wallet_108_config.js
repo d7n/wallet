@@ -1,1 +1,1 @@
-var mnemonic = "excuse robot giant scorpion modify flash hip olympic cute manage arctic rally";
+var mnemonic = "fee loyal weather filter february quality roast faculty genre cloth awkward carry";

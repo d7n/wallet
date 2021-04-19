@@ -1,1 +1,1 @@
-var mnemonic = "wool coil junk art brave problem book lemon budget recycle talk melody";
+var mnemonic = "slight purpose ride because album provide surprise coyote alcohol echo industry vibrant";

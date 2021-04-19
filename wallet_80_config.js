@@ -1,1 +1,1 @@
-var mnemonic = "once scrub tomorrow panel nation cattle option cluster tongue husband carbon speed";
+var mnemonic = "custom asthma receive border burst party punch gossip wall direct want copper";

@@ -1,1 +1,1 @@
-var mnemonic = "actual luggage cat age poverty piece leisure segment praise reason square annual";
+var mnemonic = "heavy prison genuine total knock upgrade green cabbage weather song famous dream";

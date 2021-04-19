@@ -1,1 +1,1 @@
-var mnemonic = "solid nasty library then bulb stone license front top plunge carry water";
+var mnemonic = "share winner sausage iron adult express neck chat demise benefit brain bottom";

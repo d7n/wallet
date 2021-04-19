@@ -1,1 +1,1 @@
-var mnemonic = "bird vacuum bracket asthma place steel plunge ozone seat empower human around";
+var mnemonic = "cook measure lucky gather symbol depart web faculty tube okay midnight devote";

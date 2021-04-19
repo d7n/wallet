@@ -1,1 +1,1 @@
-var mnemonic = "mountain blind aware snap door mom ill scene awake height bench oyster";
+var mnemonic = "middle estate lawsuit purity during riot airport merge yard film broken drop";

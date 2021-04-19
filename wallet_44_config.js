@@ -1,1 +1,1 @@
-var mnemonic = "age luxury leave country year twelve world soap split awful blossom cat";
+var mnemonic = "napkin once film invite couple soft cream holiday reveal mean collect undo";

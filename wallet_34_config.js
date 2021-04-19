@@ -1,1 +1,1 @@
-var mnemonic = "seminar comic ancient degree confirm unknown economy vital opinion van mirror market";
+var mnemonic = "lazy forest else boring wife exercise elevator salon unaware select shift muscle";

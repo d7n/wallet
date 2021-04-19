@@ -1,1 +1,1 @@
-var mnemonic = "pipe crumble poverty hundred antenna bleak attack high dry alarm fun depend";
+var mnemonic = "supreme jaguar fine recipe siren giraffe unable prize actress exact rescue crucial";

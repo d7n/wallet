@@ -1,1 +1,1 @@
-var mnemonic = "blind daughter disagree quick donate over merit alien together occur place robot";
+var mnemonic = "figure mad camera rapid garage mystery history lounge return cost field oak";

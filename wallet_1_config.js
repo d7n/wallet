@@ -1,1 +1,1 @@
-var mnemonic = "say pulp vapor return solution kid virus rhythm note stem element olympic";
+var mnemonic = "private curtain alert hurt prison oil spring differ cherry twice legal come";

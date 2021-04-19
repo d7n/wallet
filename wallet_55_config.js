@@ -1,1 +1,1 @@
-var mnemonic = "over paddle chase law round battle youth grab cigar system element hamster";
+var mnemonic = "unlock shuffle sea elephant ecology certain wheel legend smoke artwork clarify birth";

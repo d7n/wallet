@@ -1,1 +1,1 @@
-var mnemonic = "normal funny rigid example olympic table habit grain enforce fuel ethics visa";
+var mnemonic = "bone base similar trick tent install lizard want whip dish prevent fetch";

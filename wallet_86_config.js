@@ -1,1 +1,1 @@
-var mnemonic = "gasp move occur congress cruise garden atom truth decline happy please lamp";
+var mnemonic = "obey useless twenty pizza there bacon print must siege essay stage curious";

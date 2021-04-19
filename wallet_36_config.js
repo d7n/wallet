@@ -1,1 +1,1 @@
-var mnemonic = "tuition other nation celery stove borrow decorate upgrade light april impact seminar";
+var mnemonic = "there range system lonely until limit isolate impose fury parade smooth employ";

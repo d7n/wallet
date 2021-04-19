@@ -1,1 +1,1 @@
-var mnemonic = "novel celery artwork remind cover solution huge wreck field crystal puppy sleep";
+var mnemonic = "cover inmate mosquito cactus kite teach belt radio squirrel type evolve simple";

@@ -1,1 +1,1 @@
-var mnemonic = "waste bomb gauge rain submit umbrella sun valley differ quiz border toilet";
+var mnemonic = "swamp chunk air fire sort leg voice solar rent lens cube tape";

@@ -1,1 +1,1 @@
-var mnemonic = "nominee salute rail book settle parent hip hedgehog toilet betray bulk corn";
+var mnemonic = "recycle cannon custom federal sell into oak bachelor trigger country height wrist";

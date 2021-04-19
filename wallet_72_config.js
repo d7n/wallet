@@ -1,1 +1,1 @@
-var mnemonic = "alley transfer balance tribe crunch prosper bamboo empty cabin police invest vivid";
+var mnemonic = "crack sudden dizzy rally diesel language topic glue genuine clog country half";

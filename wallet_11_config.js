@@ -1,1 +1,1 @@
-var mnemonic = "kiwi orphan cloth ticket scatter envelope evidence estate defense mom matter click";
+var mnemonic = "swim path oblige soon meadow crush actual chuckle absent belt skull discover";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply drastic follow amazing horn exercise omit meat bean near slight talk";
+var mnemonic = "depart dance able alter elbow roast bullet volume grow crisp cup raw";

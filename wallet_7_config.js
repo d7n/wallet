@@ -1,1 +1,1 @@
-var mnemonic = "seat early recycle acoustic badge wedding upset chase vicious build silver slender";
+var mnemonic = "solution shrimp clarify crucial dignity legal race powder soccer wrap jump theory";

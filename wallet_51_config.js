@@ -1,1 +1,1 @@
-var mnemonic = "eagle winner slot catch gauge inner best axis pair deliver bring squirrel";
+var mnemonic = "glow shove hawk clown cool strategy quality moon live focus rich toy";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel job that visual hello beyond basic school rose demise census stereo";
+var mnemonic = "caught until record apple horn brief parent knock final ethics exotic abuse";

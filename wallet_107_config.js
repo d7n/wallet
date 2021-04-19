@@ -1,1 +1,1 @@
-var mnemonic = "bus change success twice forget govern sense artist aerobic only gorilla edit";
+var mnemonic = "among ancient spice spice jar gift rose flavor twin kitchen pool cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "fever drink sauce balance person rule cradle long output erupt clip expose";
+var mnemonic = "antique alert nasty lobster neutral disease depend vacant token asthma wheat share";

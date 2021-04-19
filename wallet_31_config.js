@@ -1,1 +1,1 @@
-var mnemonic = "vote coach brand day place glimpse guilt term inhale harbor noise spell";
+var mnemonic = "develop frog rely remind climb onion supply disorder absorb ginger attack search";

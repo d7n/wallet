@@ -1,1 +1,1 @@
-var mnemonic = "enhance flush wide cliff spend wheel opera ginger resemble wealth emerge stock";
+var mnemonic = "outer audit liquid pig medal speak front inhale vocal clay ability wait";

@@ -1,1 +1,1 @@
-var mnemonic = "change resist fatal daughter census enroll muscle devote into eagle tide admit";
+var mnemonic = "ribbon filter expose shift shrimp expect cook attack spoon split tattoo embrace";

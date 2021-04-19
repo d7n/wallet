@@ -1,1 +1,1 @@
-var mnemonic = "brush bundle sea cute card surprise rose shock place polar increase bottom";
+var mnemonic = "hurdle input bench differ kite brisk next judge company hurt grunt quiz";

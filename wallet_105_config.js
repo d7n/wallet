@@ -1,1 +1,1 @@
-var mnemonic = "mass sheriff bitter system seven chuckle provide word drum random report wave";
+var mnemonic = "layer toe business blue brother shadow attract legal render stock someone decade";

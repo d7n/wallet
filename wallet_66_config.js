@@ -1,1 +1,1 @@
-var mnemonic = "prize width promote cute weekend feed woman deputy keen capable praise people";
+var mnemonic = "reduce easily service vault sound lazy drift blast suggest blast old about";

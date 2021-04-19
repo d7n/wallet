@@ -1,1 +1,1 @@
-var mnemonic = "eagle shine walnut system punch grow loud tribe public style praise alarm";
+var mnemonic = "token file choice bus shuffle volcano cloud idea recycle connect grit armor";

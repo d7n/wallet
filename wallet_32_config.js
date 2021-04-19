@@ -1,1 +1,1 @@
-var mnemonic = "flower sister friend lonely climb aim apart interest bargain rich cube detail";
+var mnemonic = "ecology balcony park awful bubble road scare paper piano rail dentist screen";

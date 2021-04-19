@@ -1,1 +1,1 @@
-var mnemonic = "vehicle access faculty limb traffic harsh zebra crumble attack endorse baby abandon";
+var mnemonic = "keep cave answer enrich ribbon roast slight industry absent pigeon tent pluck";

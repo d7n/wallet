@@ -1,1 +1,1 @@
-var mnemonic = "echo hotel eager flip hundred arrest fringe cherry notable loyal bring taste";
+var mnemonic = "plate earth embody virtual rose diet open undo envelope hedgehog pair load";

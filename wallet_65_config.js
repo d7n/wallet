@@ -1,1 +1,1 @@
-var mnemonic = "game flag embrace wolf theme latin raven nothing general provide verify screen";
+var mnemonic = "genuine habit coin skin clump belt march embrace city clump choice become";
