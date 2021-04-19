@@ -1,1 +1,1 @@
-var mnemonic = "observe pumpkin company pill couple isolate desert report space lend any share";
+var mnemonic = "much library chimney slab section alley isolate pass various please husband strategy";

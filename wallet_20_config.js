@@ -1,1 +1,1 @@
-var mnemonic = "foster hungry prize tank zoo test buddy either finish lounge title atom";
+var mnemonic = "prosper crystal equip jar arrest crisp question boost theory finish beach west";

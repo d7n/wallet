@@ -1,1 +1,1 @@
-var mnemonic = "afraid total copper twin desk hen eager fat useless apple crucial gravity";
+var mnemonic = "gasp waste police fatigue extra banana obvious napkin powder camera obvious plug";

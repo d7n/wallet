@@ -1,1 +1,1 @@
-var mnemonic = "segment media cart describe kiss universe aunt tennis rapid asset cancel girl";
+var mnemonic = "innocent unique mesh able firm question skin cycle board weather spring correct";

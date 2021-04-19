@@ -1,1 +1,1 @@
-var mnemonic = "rule upper crew good try dice color subject north old theme dove";
+var mnemonic = "busy visual mean ugly nose night circle crop minimum lend fever behave";

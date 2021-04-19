@@ -1,1 +1,1 @@
-var mnemonic = "width alone remind slot gauge split can palm army correct idle brass";
+var mnemonic = "adjust reflect fox pond slender burst useful owner captain oak jump enhance";

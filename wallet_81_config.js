@@ -1,1 +1,1 @@
-var mnemonic = "cook famous dumb oval above blouse regret private rhythm best paddle annual";
+var mnemonic = "price script blame edge lion puppy struggle miss basket depth current hill";

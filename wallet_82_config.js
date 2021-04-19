@@ -1,1 +1,1 @@
-var mnemonic = "burger ozone siren raccoon love quarter turkey sail pepper burden capable muscle";
+var mnemonic = "exhibit blind usual onion decorate evoke assault grab walk need bachelor elephant";

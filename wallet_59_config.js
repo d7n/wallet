@@ -1,1 +1,1 @@
-var mnemonic = "eye grape genre wrong deputy exile rich loan rack cheap genre cake";
+var mnemonic = "logic song cage welcome scorpion process pill mosquito stumble broom swear evolve";

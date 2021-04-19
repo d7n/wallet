@@ -1,1 +1,1 @@
-var mnemonic = "thing arrest envelope dog raise taxi pause giggle series tattoo badge bonus";
+var mnemonic = "snap diamond test duck trigger drift animal bone drop atom chief autumn";

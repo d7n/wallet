@@ -1,1 +1,1 @@
-var mnemonic = "organ square napkin upon robust identify average index soup heart sibling jewel";
+var mnemonic = "spy thrive point skin proof pilot limb badge noise river hidden flush";

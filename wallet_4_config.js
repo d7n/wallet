@@ -1,1 +1,1 @@
-var mnemonic = "tuna skate gift bounce stove script search speed gate science vault kind";
+var mnemonic = "theme south industry orphan math attract hen display wage thumb animal vapor";

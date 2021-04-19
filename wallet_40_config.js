@@ -1,1 +1,1 @@
-var mnemonic = "grape muscle innocent sport excuse bonus return either flower tiger immune resist";
+var mnemonic = "diet produce volcano coin allow mesh viable arch business three lawn vivid";

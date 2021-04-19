@@ -1,1 +1,1 @@
-var mnemonic = "trend enforce recipe repeat release device apology upon capable lobster common raise";
+var mnemonic = "final horn tank focus heart photo used slogan repair inmate volcano abuse";

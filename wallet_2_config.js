@@ -1,1 +1,1 @@
-var mnemonic = "nut regret guide source stable dog fix urban table whisper cheap paper";
+var mnemonic = "sound enter doctor buzz modify fragile inquiry section soft entry welcome ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "choose evidence humor method poverty lens hello amount scatter attend style brother";
+var mnemonic = "asset excuse legend sudden romance object essence top shift sample owner shoe";

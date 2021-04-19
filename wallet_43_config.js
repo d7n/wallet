@@ -1,1 +1,1 @@
-var mnemonic = "paddle aerobic palace device sorry screen tuition maple culture orient portion cake";
+var mnemonic = "predict erode mutual rigid thunder tobacco tomato use chicken sight match hockey";

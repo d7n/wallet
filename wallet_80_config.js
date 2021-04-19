@@ -1,1 +1,1 @@
-var mnemonic = "lens dust other initial upgrade hood person ball basket music hamster memory";
+var mnemonic = "farm marine guard legend visa century donkey saddle you pink verb initial";

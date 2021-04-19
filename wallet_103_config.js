@@ -1,1 +1,1 @@
-var mnemonic = "frequent sister business sad valley task cost inspire assist skull advice scrub";
+var mnemonic = "wrap analyst service sentence bamboo loan furnace pudding citizen logic loop jacket";

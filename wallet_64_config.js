@@ -1,1 +1,1 @@
-var mnemonic = "actor deal process settle sketch job crawl glide pyramid spare fame deal";
+var mnemonic = "athlete afraid brass pair illegal divert blast brass park hello bonus vanish";

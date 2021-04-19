@@ -1,1 +1,1 @@
-var mnemonic = "gold tone decade conduct tip gown truly magic actual virtual smooth grass";
+var mnemonic = "logic exotic mistake extra oblige banana gasp potato distance ready replace leave";

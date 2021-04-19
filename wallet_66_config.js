@@ -1,1 +1,1 @@
-var mnemonic = "they lizard sort refuse account canoe feel shaft search antique message job";
+var mnemonic = "decline family trust host creek talent cream release skull era rail bench";

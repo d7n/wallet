@@ -1,1 +1,1 @@
-var mnemonic = "manage pony awkward wonder diamond oyster area wet glow wave wonder grunt";
+var mnemonic = "control cement exchange trash barrel buyer awesome clock thank client print ask";

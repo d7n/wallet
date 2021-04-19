@@ -1,1 +1,1 @@
-var mnemonic = "pistol exist tuition cherry industry tomato warrior hire scene ability very dad";
+var mnemonic = "emerge infant drill certain fringe lizard monkey test police antique broken border";

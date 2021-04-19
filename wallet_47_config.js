@@ -1,1 +1,1 @@
-var mnemonic = "ancient grow hybrid lazy tent term bench beauty panther garage aspect rapid";
+var mnemonic = "eye fantasy thrive tool ecology post circle dilemma roast cage such know";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest merit welcome soldier connect bonus love viable fiber cute drastic immune";
+var mnemonic = "unusual tunnel shoe equip act bless whisper unique brand pole lens fossil";

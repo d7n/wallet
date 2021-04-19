@@ -1,1 +1,1 @@
-var mnemonic = "detect shallow soccer together east zero produce access auction ugly true board";
+var mnemonic = "rival twist thumb gadget photo affair disease lobster wealth swarm note rigid";

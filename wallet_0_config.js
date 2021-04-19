@@ -1,1 +1,1 @@
-var mnemonic = "toe grid detail damage jealous brother okay search garlic unhappy sock matrix";
+var mnemonic = "top lecture unable lady rotate torch tunnel news later farm antenna deputy";

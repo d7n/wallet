@@ -1,1 +1,1 @@
-var mnemonic = "lunch abstract sample grunt mango candy forget subway unfair chair transfer only";
+var mnemonic = "protect donkey toe vacuum easy clarify tunnel load tent type result dust";

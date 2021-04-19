@@ -1,1 +1,1 @@
-var mnemonic = "pizza hip snap absurd damp fall myself mobile enlist sock vintage such";
+var mnemonic = "hold praise field captain length nose pact festival enter midnight scale emerge";

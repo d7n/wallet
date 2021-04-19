@@ -1,1 +1,1 @@
-var mnemonic = "engage language curtain pause body possible current ginger success utility define wool";
+var mnemonic = "protect harbor year alone bitter pull carpet cabbage short render glance cry";

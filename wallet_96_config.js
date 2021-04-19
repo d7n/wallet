@@ -1,1 +1,1 @@
-var mnemonic = "genius foster hurry short glimpse demise brief key festival hair present rain";
+var mnemonic = "film good aisle tired kick pencil honey remove flower media space output";

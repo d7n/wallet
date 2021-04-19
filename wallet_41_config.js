@@ -1,1 +1,1 @@
-var mnemonic = "fun exist tourist field next teach daughter marriage caught industry manual pottery";
+var mnemonic = "siren iron castle chase fossil denial thank print delay double mistake first";

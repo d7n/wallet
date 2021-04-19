@@ -1,1 +1,1 @@
-var mnemonic = "jazz visual control major path card wealth kind glow river false silent";
+var mnemonic = "display hawk hybrid offer pull lumber strike toilet match uniform crucial pencil";

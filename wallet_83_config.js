@@ -1,1 +1,1 @@
-var mnemonic = "culture omit valid pizza retire access giant upset coach join inhale weekend";
+var mnemonic = "twenty frown group latin idea beauty blame use fox crash change snap";

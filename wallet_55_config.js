@@ -1,1 +1,1 @@
-var mnemonic = "rib unusual voice hunt trial fatal arrive ride account sad second erupt";
+var mnemonic = "mushroom elder prison claw various path person brand myth cement cram gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile rude boy pepper range gather banner minute pig finish update achieve";
+var mnemonic = "alley eyebrow jelly across amount festival beauty fun ritual moral word hero";

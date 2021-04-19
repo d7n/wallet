@@ -1,1 +1,1 @@
-var mnemonic = "reform virus during dolphin barrel patrol matter mixed innocent bounce fluid canal";
+var mnemonic = "position elevator lion since order dumb mandate cancel coin tenant easy tragic";

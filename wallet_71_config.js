@@ -1,1 +1,1 @@
-var mnemonic = "island stove correct copper inquiry come welcome program rule design paper raccoon";
+var mnemonic = "roof degree powder unit slow corn banner sword empower jewel lizard symbol";

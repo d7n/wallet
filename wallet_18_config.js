@@ -1,1 +1,1 @@
-var mnemonic = "shadow job census praise spread zone wool elder topple later burden method";
+var mnemonic = "space rare news favorite place anchor race steel around range powder pizza";

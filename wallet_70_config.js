@@ -1,1 +1,1 @@
-var mnemonic = "find identify rude weather debate real almost guilt short still other raw";
+var mnemonic = "involve minute question dismiss theme message garlic know thumb domain size robot";

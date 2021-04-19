@@ -1,1 +1,1 @@
-var mnemonic = "remind initial word beyond diary useless eagle exotic cluster atom picnic busy";
+var mnemonic = "pitch decade tell mechanic clog vessel stand add relief valve debris maple";

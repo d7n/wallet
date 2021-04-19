@@ -1,1 +1,1 @@
-var mnemonic = "chronic horror put try artefact ankle inch spoil envelope silent slot sleep";
+var mnemonic = "coin future thrive ketchup approve hand breeze pelican theory sick tree siege";

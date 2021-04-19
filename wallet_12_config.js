@@ -1,1 +1,1 @@
-var mnemonic = "share zoo romance defense bar century sense walk letter crew weapon behave";
+var mnemonic = "balcony famous shine blue diary awesome rice spice discover duty dry kind";

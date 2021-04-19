@@ -1,1 +1,1 @@
-var mnemonic = "panic menu spider scale gasp hobby celery dune trap walnut organ nerve";
+var mnemonic = "cement ball hundred usage employ legal frog brisk outside gossip banana dust";

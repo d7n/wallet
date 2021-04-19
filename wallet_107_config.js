@@ -1,1 +1,1 @@
-var mnemonic = "buddy window find calm clog power forest girl sting guess flip series";
+var mnemonic = "craft aware they keep describe kick crunch mechanic wolf assume random guard";

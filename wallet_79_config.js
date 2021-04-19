@@ -1,1 +1,1 @@
-var mnemonic = "pottery laundry snap rocket client pave make cherry stadium advance always electric";
+var mnemonic = "surge song find grass estate test much old census circle tank wall";

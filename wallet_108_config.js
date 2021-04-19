@@ -1,1 +1,1 @@
-var mnemonic = "monkey unusual potato olive popular cradle hybrid problem fox script weasel nephew";
+var mnemonic = "harvest curious bright verb invite add half prison wrap eye shine zone";

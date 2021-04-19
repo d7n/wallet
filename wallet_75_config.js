@@ -1,1 +1,1 @@
-var mnemonic = "excite chunk hurry occur hour caution blur choose across sugar question barely";
+var mnemonic = "venue rescue swamp resemble paper surround pill describe crucial board fish record";

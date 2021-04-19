@@ -1,1 +1,1 @@
-var mnemonic = "quarter flat laundry letter bulk skate decline mimic gather bag patch license";
+var mnemonic = "subject reject skull giraffe heart order scrap peanut wine truck language dolphin";

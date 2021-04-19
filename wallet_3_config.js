@@ -1,1 +1,1 @@
-var mnemonic = "start feel imitate rough hobby decorate raccoon vicious vessel target pyramid congress";
+var mnemonic = "hybrid seek van pudding humble aspect excuse problem idea equal humble aim";

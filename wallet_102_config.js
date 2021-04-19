@@ -1,1 +1,1 @@
-var mnemonic = "taxi fragile travel forum cactus extra craft source museum copy erase rebuild";
+var mnemonic = "bring rich craft pact drive rib coffee poverty pottery approve citizen amount";

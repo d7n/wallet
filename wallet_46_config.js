@@ -1,1 +1,1 @@
-var mnemonic = "bridge other tackle village claim tuna engage minor possible oyster knee island";
+var mnemonic = "near weather cricket mention walnut ecology express front town rough boss grid";

@@ -1,1 +1,1 @@
-var mnemonic = "insane head joke notice useless volume candy firm onion crouch bid tunnel";
+var mnemonic = "unlock struggle aerobic bamboo coin tissue test bonus service canoe visit decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "across stereo mass admit outer divert bicycle jaguar magnet student universe purity";
+var mnemonic = "crumble office embark catalog record fuel general term buzz setup then cover";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt donor quarter sausage erosion quit quantum dwarf spray pluck inch inquiry";
+var mnemonic = "whisper hotel glare bunker visit asset patch pupil fancy goat double slab";

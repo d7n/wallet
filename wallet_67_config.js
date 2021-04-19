@@ -1,1 +1,1 @@
-var mnemonic = "tiger frame fitness jelly cluster uniform radar liberty elegant question twist grief";
+var mnemonic = "club special oval sure kite cart blast ostrich famous mouse then simple";

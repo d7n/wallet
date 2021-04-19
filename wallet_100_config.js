@@ -1,1 +1,1 @@
-var mnemonic = "spot kite lawsuit lounge term hat wasp student repeat awake have summer";
+var mnemonic = "fiber job slush crawl material cabin cliff hill ivory ring tag employ";

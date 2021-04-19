@@ -1,1 +1,1 @@
-var mnemonic = "urge direct blood twice rather neither wash series inject word stone police";
+var mnemonic = "blanket involve enrich wait example tribe table uphold vintage charge change term";

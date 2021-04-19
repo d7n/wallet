@@ -1,1 +1,1 @@
-var mnemonic = "nominee coil noise dice knock round guitar imitate pretty tenant festival vivid";
+var mnemonic = "obscure resist usage glare green calm acoustic tube because series into blouse";

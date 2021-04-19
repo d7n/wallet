@@ -1,1 +1,1 @@
-var mnemonic = "firm write icon divert simple play mango solid advice trigger kitchen grab";
+var mnemonic = "fragile want exile release regret harvest drift coyote ribbon card soldier bullet";

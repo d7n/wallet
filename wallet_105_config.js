@@ -1,1 +1,1 @@
-var mnemonic = "search swing forget one once rug cook broken artwork profit family volume";
+var mnemonic = "gaze reform quarter actor turtle verb resource orphan radar warfare raccoon hawk";

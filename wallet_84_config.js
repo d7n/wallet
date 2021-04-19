@@ -1,1 +1,1 @@
-var mnemonic = "net target people hood pumpkin exist team prepare bunker combine afraid deliver";
+var mnemonic = "rubber across across lens crucial select connect apple crucial vague unknown abuse";

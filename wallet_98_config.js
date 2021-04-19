@@ -1,1 +1,1 @@
-var mnemonic = "prepare body kitten whale polar cargo safe antique burden romance join knee";
+var mnemonic = "churn term oven error edge poet frequent churn tank luggage cloud essence";

@@ -1,1 +1,1 @@
-var mnemonic = "source remind dumb rigid book also slide hollow glass explain space pipe";
+var mnemonic = "meat ahead depth clock angry hidden bicycle daughter power stick picture throw";

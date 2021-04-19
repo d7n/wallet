@@ -1,1 +1,1 @@
-var mnemonic = "pottery smart gift innocent vote caution great ice pool cry comic noble";
+var mnemonic = "loyal exit oxygen pony edge match type plastic frame hat inflict survey";

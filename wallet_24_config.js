@@ -1,1 +1,1 @@
-var mnemonic = "grant ostrich all vendor income suspect raccoon cinnamon mad suffer birth year";
+var mnemonic = "program file purpose budget labor loop atom sauce say neck hurdle round";

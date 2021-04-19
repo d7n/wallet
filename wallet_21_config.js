@@ -1,1 +1,1 @@
-var mnemonic = "disease hold detect lunch surprise metal exchange repeat tray fabric cake inmate";
+var mnemonic = "neither logic height dash athlete habit harsh van huge fitness marine era";

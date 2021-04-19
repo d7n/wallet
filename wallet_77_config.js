@@ -1,1 +1,1 @@
-var mnemonic = "organ exact remind fault saddle glow adult music web stem cigar earth";
+var mnemonic = "earn crucial easy drink make odor hard ridge isolate around gain cover";

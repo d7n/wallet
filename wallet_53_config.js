@@ -1,1 +1,1 @@
-var mnemonic = "chronic tiger orbit palace duck indoor normal boil certain gather lady often";
+var mnemonic = "cruel garage day safe grant roast bottom wrestle energy rotate toast disorder";

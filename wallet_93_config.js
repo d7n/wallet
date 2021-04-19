@@ -1,1 +1,1 @@
-var mnemonic = "modify morning best left keen limb vacuum pyramid october girl sample rice";
+var mnemonic = "crush fruit carry all evidence gospel job brother alley advance ill bounce";

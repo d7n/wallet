@@ -1,1 +1,1 @@
-var mnemonic = "awesome year balcony funny mule shove carry pumpkin level tape bone rotate";
+var mnemonic = "basket gasp jelly dinner must reopen tired alert empower stumble unaware rapid";

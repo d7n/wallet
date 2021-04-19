@@ -1,1 +1,1 @@
-var mnemonic = "swift hollow power edge worth embark apart various nation comfort silver carbon";
+var mnemonic = "island select quantum time giant orbit wisdom radar injury mango miracle panther";

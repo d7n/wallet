@@ -1,1 +1,1 @@
-var mnemonic = "giant riot twelve limb suspect edge frown stamp endorse relief conduct latin";
+var mnemonic = "modify main yellow range drink mesh slush trigger ghost sunset mushroom position";

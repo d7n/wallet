@@ -1,1 +1,1 @@
-var mnemonic = "area pepper main reflect advance win spare merry chief phone annual bus";
+var mnemonic = "tool march feature stable whip expire jacket abstract arrow flower spoil slice";

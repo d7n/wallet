@@ -1,1 +1,1 @@
-var mnemonic = "radio unhappy drama frequent drink depth warrior material across outside glue spend";
+var mnemonic = "indicate ramp search electric famous silent guide endless equal rib wreck trim";

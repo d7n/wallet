@@ -1,1 +1,1 @@
-var mnemonic = "ordinary hello fine claw clock fury midnight venue inquiry stock speed exotic";
+var mnemonic = "want stay urge narrow seek gown fall tomorrow dose box universe ladder";

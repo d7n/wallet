@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hotel tent act aim clean frozen gate camera mystery middle used";
+var mnemonic = "claw innocent camera direct curtain blue rookie switch fatigue carry crash setup";

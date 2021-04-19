@@ -1,1 +1,1 @@
-var mnemonic = "dog concert enjoy cluster move away sleep topple outdoor hidden jealous change";
+var mnemonic = "book shed fabric leader bleak quality toddler same movie mask spawn cereal";

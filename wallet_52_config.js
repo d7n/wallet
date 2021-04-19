@@ -1,1 +1,1 @@
-var mnemonic = "barely vicious possible rug emerge wet dizzy like process reject immense pair";
+var mnemonic = "error ladder benefit minor between person audit miracle execute twist south stable";

@@ -1,1 +1,1 @@
-var mnemonic = "regular pattern olympic actor firm dignity naive regular thing label shove move";
+var mnemonic = "round demand owner lava patient pass record permit reunion produce flag item";

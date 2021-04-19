@@ -1,1 +1,1 @@
-var mnemonic = "coast artefact then spread appear main misery defy appear race echo arrange";
+var mnemonic = "output hero method pond general ladder fresh pretty behave entry magic scrub";

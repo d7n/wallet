@@ -1,1 +1,1 @@
-var mnemonic = "churn wolf film horn lucky jungle receive income barely among hedgehog web";
+var mnemonic = "pet destroy detail clog sample muffin shoulder coin verify topple art rival";

@@ -1,1 +1,1 @@
-var mnemonic = "right junior hidden unaware nurse certain shoe shaft crouch embrace resource health";
+var mnemonic = "paddle rather steel picture occur slight before blanket song final melt climb";

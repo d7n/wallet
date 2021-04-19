@@ -1,1 +1,1 @@
-var mnemonic = "aware coral flower divide act unfair destroy educate click travel reduce develop";
+var mnemonic = "lonely eye cloth view spin robot cousin just add artefact dizzy tonight";

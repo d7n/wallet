@@ -1,1 +1,1 @@
-var mnemonic = "labor employ poverty blush august paddle oblige wish solar elite tennis bean";
+var mnemonic = "timber opinion virus funny provide boil excuse glow mistake object property goat";

@@ -1,1 +1,1 @@
-var mnemonic = "defense assume heavy bargain grocery life clay spell fashion gesture roof sea";
+var mnemonic = "share sort aisle develop proud absent laptop hazard shoe wagon disagree escape";

@@ -1,1 +1,1 @@
-var mnemonic = "club chapter box vacuum improve plastic pretty seven milk web reject call";
+var mnemonic = "basic match cat please category way helmet dumb purse victory attract very";

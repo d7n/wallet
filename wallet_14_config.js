@@ -1,1 +1,1 @@
-var mnemonic = "hero close concert choose rival bridge amused evidence reject gesture leader beyond";
+var mnemonic = "scrub rib satoshi seek addict skill shine work eagle excite seven horse";

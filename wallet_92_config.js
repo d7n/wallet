@@ -1,1 +1,1 @@
-var mnemonic = "drastic toss young rally wool hand upgrade sing twin oven glide void";
+var mnemonic = "popular someone mango dog stamp father consider captain bubble sniff chimney cactus";
