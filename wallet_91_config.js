@@ -1,1 +1,1 @@
-var mnemonic = "caution credit gym easily over identify pottery dilemma thunder knife prefer assume";
+var mnemonic = "tribe crucial volume steel message weapon duty hamster come public snack license";

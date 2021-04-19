@@ -1,1 +1,1 @@
-var mnemonic = "torch trash boost rubber member small humble humor visual economy cycle local";
+var mnemonic = "lake eye surround allow artwork bicycle stuff elbow scatter planet suit secret";

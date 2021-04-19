@@ -1,1 +1,1 @@
-var mnemonic = "enemy marble reform feed cousin orbit sword soon hope ticket cover top";
+var mnemonic = "inform dilemma feel donate bulk swing chimney author skirt soon virtual dry";

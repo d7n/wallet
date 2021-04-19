@@ -1,1 +1,1 @@
-var mnemonic = "radar venture blouse coral suffer impulse canoe badge obtain fortune frost reveal";
+var mnemonic = "reflect float bulb degree shoot flat antenna horror snack nature recall fuel";

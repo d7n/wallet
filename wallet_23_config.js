@@ -1,1 +1,1 @@
-var mnemonic = "cruise travel baby jungle awake mention decide kingdom local focus rare useful";
+var mnemonic = "true also measure sentence success antique welcome best cradle salon pave control";

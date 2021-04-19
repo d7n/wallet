@@ -1,1 +1,1 @@
-var mnemonic = "lock grief garment brief amazing prepare arrow setup stick profit happy labor";
+var mnemonic = "same urban rug mountain item journey daring picnic oval labor final useless";

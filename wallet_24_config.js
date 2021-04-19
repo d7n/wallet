@@ -1,1 +1,1 @@
-var mnemonic = "lawn fashion salon feed must moon brief eyebrow track wink volcano trumpet";
+var mnemonic = "push cube copper range beef fix fine fiction food agree frame state";

@@ -1,1 +1,1 @@
-var mnemonic = "excess clap code nice echo when toddler churn merge prison dentist oyster";
+var mnemonic = "impact deposit approve strike actual test orient lottery faculty unfair father quality";

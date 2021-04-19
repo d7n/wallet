@@ -1,1 +1,1 @@
-var mnemonic = "normal right proof rapid chest receive shove exile purchase trust hero grain";
+var mnemonic = "number mimic yard profit motor tool demise rescue depart cheap famous favorite";

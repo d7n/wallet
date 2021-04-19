@@ -1,1 +1,1 @@
-var mnemonic = "end solar frequent answer modify head rare happy twice all visual dumb";
+var mnemonic = "wreck tell lizard sphere clock can turtle divide casual winner gentle control";

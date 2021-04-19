@@ -1,1 +1,1 @@
-var mnemonic = "click soldier waste dentist country cost topple market plastic goat dismiss property";
+var mnemonic = "symptom act copy fever fall shy impact vendor print element like ugly";

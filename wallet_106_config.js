@@ -1,1 +1,1 @@
-var mnemonic = "across moral vacuum foster worry bid yard confirm magnet panther fine fish";
+var mnemonic = "domain apart clutch crawl day pattern target plastic army undo state tray";

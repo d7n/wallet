@@ -1,1 +1,1 @@
-var mnemonic = "close glad inmate uniform raccoon divorce review detail immense squirrel text sick";
+var mnemonic = "soda grass egg ocean muscle liquid around impulse below march october elite";

@@ -1,1 +1,1 @@
-var mnemonic = "tell garbage tower broom husband sail sword emotion hover evil tragic merit";
+var mnemonic = "blade hat beach vanish lunar model arrive welcome bicycle eight cake duck";

@@ -1,1 +1,1 @@
-var mnemonic = "base spatial reduce abstract scissors unfold century history bundle uphold rice cheese";
+var mnemonic = "tree cushion riot badge bike ancient imitate excuse fire vacant nut boil";

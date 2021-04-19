@@ -1,1 +1,1 @@
-var mnemonic = "erase mercy vacant buffalo poem merge laugh sleep language sense disease seat";
+var mnemonic = "tent major advance shrimp chronic corn traffic mention object laugh bronze area";

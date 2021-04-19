@@ -1,1 +1,1 @@
-var mnemonic = "hockey smart siege connect rate black sustain derive camera chronic position interest";
+var mnemonic = "spice wear frequent remember ramp patrol mom room picture between ski private";

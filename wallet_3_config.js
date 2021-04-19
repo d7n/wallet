@@ -1,1 +1,1 @@
-var mnemonic = "cry minute jar rebel vessel stadium decide just gloom horn muscle taxi";
+var mnemonic = "seek family million student toilet night maximum social satisfy party art model";

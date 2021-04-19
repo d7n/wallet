@@ -1,1 +1,1 @@
-var mnemonic = "kid endorse camp surprise stove mixed grocery column ramp shell eye repeat";
+var mnemonic = "symptom utility bitter diet credit lamp fly pepper matter huge small champion";

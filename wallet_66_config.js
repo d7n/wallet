@@ -1,1 +1,1 @@
-var mnemonic = "relax improve loop list bird select venture already pony swim party oven";
+var mnemonic = "file reform silver insect undo cousin tool zebra lemon situate artwork twelve";

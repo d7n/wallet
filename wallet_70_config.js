@@ -1,1 +1,1 @@
-var mnemonic = "rate pilot lamp clip butter wheel pink green eternal jewel zoo dawn";
+var mnemonic = "master pluck heavy credit mistake divide shell result scissors evolve into barrel";

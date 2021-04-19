@@ -1,1 +1,1 @@
-var mnemonic = "town name height glide hazard rail lake tourist strategy deliver famous kidney";
+var mnemonic = "shoulder assault olive since health aerobic olive borrow defense soup cargo wolf";

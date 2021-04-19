@@ -1,1 +1,1 @@
-var mnemonic = "movie trigger rebel recall night secret message wall delay giraffe strong ordinary";
+var mnemonic = "list reunion moment winner such security unfair bag trim certain wonder solar";

@@ -1,1 +1,1 @@
-var mnemonic = "stool fly cargo wheel potato grab crisp stuff subject warm emotion grit";
+var mnemonic = "sand report initial ticket scorpion seven suit vast vault test appear volcano";

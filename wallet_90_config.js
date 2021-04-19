@@ -1,1 +1,1 @@
-var mnemonic = "beyond injury exhibit replace reflect barrel loyal kitchen color genius core erupt";
+var mnemonic = "special manage trouble novel grant observe expect erase solid various swamp census";

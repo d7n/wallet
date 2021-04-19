@@ -1,1 +1,1 @@
-var mnemonic = "hundred infant virtual remain axis soft grain grid ritual sail rich hidden";
+var mnemonic = "fabric short sell chaos describe dragon snow pulp defense fish library confirm";

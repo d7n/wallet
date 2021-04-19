@@ -1,1 +1,1 @@
-var mnemonic = "badge sort female label solid naive spawn review belt farm mammal roof";
+var mnemonic = "enjoy employ current purity misery orange when rack danger hill broccoli design";

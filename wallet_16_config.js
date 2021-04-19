@@ -1,1 +1,1 @@
-var mnemonic = "fuel romance omit try fluid inch ugly absurd this oppose ignore execute";
+var mnemonic = "suspect drill van order cheese oven ski ripple rose habit century call";

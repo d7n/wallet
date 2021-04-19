@@ -1,1 +1,1 @@
-var mnemonic = "wing kit banana area route update credit door solar bronze army column";
+var mnemonic = "jelly lava rely humor material mimic spend blouse easy reform cotton north";

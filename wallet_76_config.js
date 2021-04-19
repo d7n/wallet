@@ -1,1 +1,1 @@
-var mnemonic = "picnic adult assault buffalo congress jump tray source divorce merry obey gospel";
+var mnemonic = "chief soup chunk inspire call clutch economy pulp egg vote hotel wasp";

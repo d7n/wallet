@@ -1,1 +1,1 @@
-var mnemonic = "cloth sorry sweet maximum attack salute purity vapor bird spy ribbon awful";
+var mnemonic = "crack walnut glide arrive pair convince birth engage dilemma limit long security";

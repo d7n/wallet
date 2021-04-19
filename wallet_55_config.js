@@ -1,1 +1,1 @@
-var mnemonic = "sting screen renew wood electric fresh treat fitness avoid law transfer catch";
+var mnemonic = "black flip faculty hip book solve myth iron trumpet metal story avocado";

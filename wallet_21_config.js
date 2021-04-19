@@ -1,1 +1,1 @@
-var mnemonic = "page drill brick finish nerve barrel horn giant trouble impulse wire people";
+var mnemonic = "exchange elder mistake mother glory switch music attack catch ice lunch hire";

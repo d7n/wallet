@@ -1,1 +1,1 @@
-var mnemonic = "clean segment neglect menu wood video clerk depart size danger page rich";
+var mnemonic = "famous include reopen tragic vital please crazy common media wish ghost uniform";

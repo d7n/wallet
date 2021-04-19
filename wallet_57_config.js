@@ -1,1 +1,1 @@
-var mnemonic = "polar demand laundry behind farm fitness bridge brush evil reveal soccer olive";
+var mnemonic = "afford sense cage wheat unaware height control pact sponsor acquire enroll pole";

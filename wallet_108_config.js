@@ -1,1 +1,1 @@
-var mnemonic = "muffin east sort warm spike bar friend cereal canal inmate legend reopen";
+var mnemonic = "pig ridge gown unhappy lunch add waste net task random mobile light";

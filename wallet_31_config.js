@@ -1,1 +1,1 @@
-var mnemonic = "nothing either salad minor pact glow iron vast skirt session correct deposit";
+var mnemonic = "minute write cycle inject tomato decorate muffin reduce tortoise allow annual bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge consider income bitter suspect unhappy chunk favorite raw off cause hero";
+var mnemonic = "weasel skill wasp update engine weekend offer heart brisk face symbol attend";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato sentence hollow dream topic motion catch grunt price club sell tower";
+var mnemonic = "wash diet essence job true resource common elder crazy floor define debate";

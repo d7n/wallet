@@ -1,1 +1,1 @@
-var mnemonic = "sword choose recycle popular muffin foil sheriff crane mosquito ill wood clever";
+var mnemonic = "deny summer patch fall before worry radar eight address dove purity dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "elder sell drink guide good rent load area tank oven present boat";
+var mnemonic = "sniff predict gas ivory throw master south border design august month market";

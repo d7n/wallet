@@ -1,1 +1,1 @@
-var mnemonic = "subject hero melt occur raccoon toddler defy glad undo decade spray coyote";
+var mnemonic = "twice tobacco now donor culture skate wood frog anchor letter express lazy";

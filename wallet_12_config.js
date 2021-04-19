@@ -1,1 +1,1 @@
-var mnemonic = "crystal music group adult supreme picture common update pencil bitter acquire report";
+var mnemonic = "tortoise shine quote maid right pride produce notice crew arena inside dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "vague swear estate order mixed bacon degree helmet series hawk close rally";
+var mnemonic = "supreme shift box promote mango stereo snow adult laptop utility issue style";

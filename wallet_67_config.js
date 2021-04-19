@@ -1,1 +1,1 @@
-var mnemonic = "quiz crash eager save clarify much sock man time screen sight rapid";
+var mnemonic = "leader cricket dove glide web shift pencil senior torch pretty tissue emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "rally diet nut attend language pledge forum another rookie lock arm right";
+var mnemonic = "hockey salad sun domain ridge crush cancel trade rookie rigid annual offer";

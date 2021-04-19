@@ -1,1 +1,1 @@
-var mnemonic = "leg current tortoise predict game finger tornado swarm radar round tail system";
+var mnemonic = "issue private cigar fiscal announce wheat all unknown cheap car volume tenant";

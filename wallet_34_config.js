@@ -1,1 +1,1 @@
-var mnemonic = "judge devote document help excite armed drift cake glass stadium someone better";
+var mnemonic = "film resemble maid suggest ability stuff scout strong grain brisk hammer struggle";

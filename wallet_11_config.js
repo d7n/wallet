@@ -1,1 +1,1 @@
-var mnemonic = "just nature benefit wisdom roast galaxy eager describe present human employ manual";
+var mnemonic = "health trophy essence aspect labor sad work theory engine strategy issue minute";

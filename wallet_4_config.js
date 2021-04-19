@@ -1,1 +1,1 @@
-var mnemonic = "patch lyrics fat cage remind cabin repair amateur mule again boring mirror";
+var mnemonic = "vacuum hospital example enrich acid clarify sunny finish stone filter copper purchase";

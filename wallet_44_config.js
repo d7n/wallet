@@ -1,1 +1,1 @@
-var mnemonic = "provide zone letter satoshi race shield put athlete photo abstract cricket peasant";
+var mnemonic = "wrap venture sight fun flight across depend impulse wire smooth chapter region";

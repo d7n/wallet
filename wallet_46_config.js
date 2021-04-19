@@ -1,1 +1,1 @@
-var mnemonic = "chimney raccoon degree village attend actual shrimp cake bridge broccoli curious forget";
+var mnemonic = "dismiss pledge orbit scene angry library peasant list useless version combine hat";

@@ -1,1 +1,1 @@
-var mnemonic = "pond spot voyage ancient harsh foster defy unfair helmet opera skirt tunnel";
+var mnemonic = "funny crisp tape parade witness huge artist sock room calm require antenna";

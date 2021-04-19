@@ -1,1 +1,1 @@
-var mnemonic = "desert aware accuse syrup course arrow bullet side cattle barely cruel rain";
+var mnemonic = "hood scheme artist ethics sugar either best phone woman pulse captain genius";

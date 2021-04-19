@@ -1,1 +1,1 @@
-var mnemonic = "analyst bullet head cross fly pilot subject slush lock police arrive health";
+var mnemonic = "coach ship injury movie crowd category easy mad awful tonight crop frog";

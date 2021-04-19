@@ -1,1 +1,1 @@
-var mnemonic = "poet gadget web frame chunk ride enrich give boss before voyage tragic";
+var mnemonic = "acid buzz one oval recycle pear labor vibrant drink review advice drink";

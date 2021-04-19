@@ -1,1 +1,1 @@
-var mnemonic = "raccoon crazy trumpet casual become boy lyrics grab trigger hair abuse jungle";
+var mnemonic = "shield novel cushion credit aisle tool online noodle economy spatial gas illegal";

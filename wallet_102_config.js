@@ -1,1 +1,1 @@
-var mnemonic = "situate guard decorate grab rifle such pen burger pepper kidney combine extend";
+var mnemonic = "help gun depth tunnel suit air plug steak art early earn vivid";

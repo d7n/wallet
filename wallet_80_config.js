@@ -1,1 +1,1 @@
-var mnemonic = "notable endless what dose memory corn duty west jazz anger pluck hat";
+var mnemonic = "action code future document meadow flock giraffe hover device taste confirm monkey";

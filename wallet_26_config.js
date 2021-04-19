@@ -1,1 +1,1 @@
-var mnemonic = "fury riot humble gather live lunch forum mixed crime expand ball noodle";
+var mnemonic = "banana plug cherry knee employ army step upper spray conduct utility secret";

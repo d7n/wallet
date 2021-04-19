@@ -1,1 +1,1 @@
-var mnemonic = "cabbage harsh security still educate loyal bird faith parade addict absorb surge";
+var mnemonic = "dose balance learn hint believe tunnel review spot stool battle theme taste";

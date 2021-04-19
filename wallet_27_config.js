@@ -1,1 +1,1 @@
-var mnemonic = "camp casino fury eternal what tuition absurd cherry also bunker borrow various";
+var mnemonic = "civil alone bargain recall pair ghost weapon easily fold leg print jar";

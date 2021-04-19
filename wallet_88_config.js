@@ -1,1 +1,1 @@
-var mnemonic = "network flush valve stamp mimic taxi exchange divert celery motion swift champion";
+var mnemonic = "arch essence butter pattern cement announce speed enemy hawk pistol fence wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "kite pottery episode ethics foot oppose response inhale guilt flee repeat music";
+var mnemonic = "attend diet scout letter wedding deny funny slush sample unique rib orange";

@@ -1,1 +1,1 @@
-var mnemonic = "dice cupboard thought delay tool town file ivory daring scout phrase garment";
+var mnemonic = "long vault owner decide doctor curious loop false clinic assume provide actress";

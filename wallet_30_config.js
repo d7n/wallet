@@ -1,1 +1,1 @@
-var mnemonic = "innocent proud dentist poverty food hurry kite chase orient high session sheriff";
+var mnemonic = "match pride tilt grab dismiss valley frost media attack unusual globe picture";

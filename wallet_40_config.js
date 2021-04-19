@@ -1,1 +1,1 @@
-var mnemonic = "solution final input indicate upset story derive shallow ride bullet social alpha";
+var mnemonic = "empower steak gaze jelly modify cook citizen erosion tunnel answer slam else";

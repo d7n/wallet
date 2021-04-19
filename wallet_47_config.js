@@ -1,1 +1,1 @@
-var mnemonic = "carbon marble stairs issue caught mosquito video prefer approve purity egg window";
+var mnemonic = "write pledge host roast october whale about pass luxury stove ankle theory";

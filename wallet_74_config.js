@@ -1,1 +1,1 @@
-var mnemonic = "language zero gesture grow audit common cousin negative payment coast horn alley";
+var mnemonic = "enemy hamster depart slight between object curious canal tackle seek wool crop";

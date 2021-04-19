@@ -1,1 +1,1 @@
-var mnemonic = "frame knock chapter drive guard suit reduce neck announce creek ship decrease";
+var mnemonic = "nose diary wheat ship remove spirit dentist face fatal trade clip cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "renew casino cabbage spirit property leg sentence embrace naive popular dune muscle";
+var mnemonic = "beauty cute arch thing scan arrow system usual ranch another cotton aisle";

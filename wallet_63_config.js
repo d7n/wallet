@@ -1,1 +1,1 @@
-var mnemonic = "zoo fade detail lunar stadium patch return witness oval regular carbon own";
+var mnemonic = "equal bless cabin climb baby service chair enrich note wife million iron";

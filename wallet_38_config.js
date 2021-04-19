@@ -1,1 +1,1 @@
-var mnemonic = "nephew motor into item south myself muffin runway toward model piece wage";
+var mnemonic = "strategy popular dress seed orphan zone merit layer merit zebra critic minimum";

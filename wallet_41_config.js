@@ -1,1 +1,1 @@
-var mnemonic = "arrest weekend motion multiply divert object permit follow ball virus warm viable";
+var mnemonic = "vague spatial denial session hollow reason better essay slush cricket cradle glass";

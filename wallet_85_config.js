@@ -1,1 +1,1 @@
-var mnemonic = "cereal protect release lumber fit illegal chuckle author rigid settle advice shoe";
+var mnemonic = "laundry venue fringe library letter steel verify patch winner door oppose cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "pony slim couple seven cactus alone inflict symptom aerobic yard short impose";
+var mnemonic = "blanket chapter buzz mixture symptom hard slide rent sweet pool space bus";

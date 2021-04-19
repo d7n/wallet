@@ -1,1 +1,1 @@
-var mnemonic = "claw gauge swallow cross still write live glimpse state anxiety grow half";
+var mnemonic = "unknown garment sense silent good abuse mask rebel chimney daughter elephant air";

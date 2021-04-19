@@ -1,1 +1,1 @@
-var mnemonic = "mad mixed snake admit water universe syrup inmate holiday ship stadium cycle";
+var mnemonic = "hair episode salon huge float reopen liquid clip catalog topic turtle wet";

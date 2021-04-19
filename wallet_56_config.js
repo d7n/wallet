@@ -1,1 +1,1 @@
-var mnemonic = "urban exchange flush assist choose couch sign awesome audit boat jaguar few";
+var mnemonic = "again middle vivid blame purity work dirt emerge slogan absent foster oblige";

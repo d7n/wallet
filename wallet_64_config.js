@@ -1,1 +1,1 @@
-var mnemonic = "truly student decide essay treat text fix become success major critic grace";
+var mnemonic = "keep safe clever identify clutch woman rate myth clock unknown quantum over";

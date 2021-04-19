@@ -1,1 +1,1 @@
-var mnemonic = "better soup alien half sunny dolphin benefit history whale convince planet dust";
+var mnemonic = "coil reduce dust license remember mean resemble multiply else allow satisfy actor";

@@ -1,1 +1,1 @@
-var mnemonic = "panel icon cost absurd couple keen supply must profit enough gorilla warrior";
+var mnemonic = "motion donkey roof april panda uniform shrimp never great north engine circle";

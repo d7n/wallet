@@ -1,1 +1,1 @@
-var mnemonic = "three world orient strong toward advance acquire disorder fade add core fiscal";
+var mnemonic = "prize identify regular offer virus vague unhappy wink guess gate cycle garbage";

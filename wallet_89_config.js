@@ -1,1 +1,1 @@
-var mnemonic = "debate reform short sniff female easily veteran foil glide spread foil shy";
+var mnemonic = "reopen frown derive dream peasant rocket neither smooth check rhythm depth light";

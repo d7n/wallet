@@ -1,1 +1,1 @@
-var mnemonic = "buyer column air february flash scene kangaroo task pipe leader source title";
+var mnemonic = "smoke asthma sail visa fade turtle umbrella find type captain sense select";

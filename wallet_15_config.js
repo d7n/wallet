@@ -1,1 +1,1 @@
-var mnemonic = "spin cream pupil law wait arrange push interest fine wink train initial";
+var mnemonic = "nothing gain figure cannon traffic identify oven crane erupt chaos alarm midnight";

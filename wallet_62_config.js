@@ -1,1 +1,1 @@
-var mnemonic = "voyage trigger glue front swear cheap move boat just list visual special";
+var mnemonic = "olympic clerk announce risk negative kitchen arrive vintage salmon appear egg honey";

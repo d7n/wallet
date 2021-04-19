@@ -1,1 +1,1 @@
-var mnemonic = "found census balcony few convince echo grow unfair bulk twist sock essay";
+var mnemonic = "hub until about fork current police hammer match garment budget barely fun";

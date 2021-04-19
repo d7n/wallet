@@ -1,1 +1,1 @@
-var mnemonic = "pottery stage because avoid wonder summer box crystal monitor switch segment water";
+var mnemonic = "room extra salon siege casual manage tomorrow able long carbon beef spare";

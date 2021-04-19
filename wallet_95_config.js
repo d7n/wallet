@@ -1,1 +1,1 @@
-var mnemonic = "thank city athlete swing wolf honey rabbit cook income soccer program scale";
+var mnemonic = "awake hurt tragic brand cake turn globe bus win dragon goat nephew";

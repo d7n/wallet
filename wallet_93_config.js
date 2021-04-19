@@ -1,1 +1,1 @@
-var mnemonic = "daughter angle shy life derive final replace pact tray must give firm";
+var mnemonic = "cover okay turkey friend toddler gaze smooth off behind lab glory legend";

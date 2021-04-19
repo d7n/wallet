@@ -1,1 +1,1 @@
-var mnemonic = "move satoshi deposit bleak tilt witness when cigar badge best rent depend";
+var mnemonic = "lumber coin boat pupil home jump fantasy never expose during food picnic";

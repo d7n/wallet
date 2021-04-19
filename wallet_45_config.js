@@ -1,1 +1,1 @@
-var mnemonic = "language polar warrior feature pupil melt penalty this text vocal clean slow";
+var mnemonic = "stereo captain good crush blood stay path mother awake mercy whale robust";

@@ -1,1 +1,1 @@
-var mnemonic = "romance upgrade ridge depend impact bamboo oxygen ready ask either festival surprise";
+var mnemonic = "crystal sphere badge gauge margin wheel please caution image addict decorate inflict";
