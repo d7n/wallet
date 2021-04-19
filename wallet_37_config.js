@@ -1,1 +1,1 @@
-var mnemonic = "cause ketchup valley tide draft conduct century leader stuff general empower denial";
+var mnemonic = "fringe couple absorb derive clown easily cricket lizard sort decline vintage light";

@@ -1,1 +1,1 @@
-var mnemonic = "soft garment collect bacon shallow size above marine pony disagree swear step";
+var mnemonic = "surround term goddess spy seminar much twist promote hub elephant miss staff";

@@ -1,1 +1,1 @@
-var mnemonic = "survey evoke bone diesel shadow marriage fluid rely napkin seminar door limb";
+var mnemonic = "slot oval leopard sphere soda notable wagon luggage pole depth position pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel volume save supply blast hedgehog clock symptom evidence boat retire ceiling";
+var mnemonic = "aspect hint canal legend toss scrub math door upset portion sign rare";

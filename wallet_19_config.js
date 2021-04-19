@@ -1,1 +1,1 @@
-var mnemonic = "kick sheriff group mistake airport roast luggage judge capital child hard rebuild";
+var mnemonic = "tobacco vague spirit ensure page clutch tell panel immense trigger base ahead";

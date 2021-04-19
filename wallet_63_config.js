@@ -1,1 +1,1 @@
-var mnemonic = "tail vacuum engine wish elegant word cactus duty ridge mandate apart rural";
+var mnemonic = "bid sleep screen unaware sound diagram paper mimic idea shy physical planet";

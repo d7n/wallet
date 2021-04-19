@@ -1,1 +1,1 @@
-var mnemonic = "return plate kit crater rabbit home acid impulse cousin rice aware next";
+var mnemonic = "panther brief girl happy pony time token wedding travel size vacant expect";

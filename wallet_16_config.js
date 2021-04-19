@@ -1,1 +1,1 @@
-var mnemonic = "best around boost gym decide since motor federal twice organ spell liberty";
+var mnemonic = "reduce oval ticket assault giraffe noise reject voyage drive regular display response";

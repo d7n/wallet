@@ -1,1 +1,1 @@
-var mnemonic = "usual wisdom sudden suit mouse final eagle latin brisk shell service exchange";
+var mnemonic = "ladder gain prosper skull goose dash educate fuel game vendor rigid wasp";

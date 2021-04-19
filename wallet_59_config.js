@@ -1,1 +1,1 @@
-var mnemonic = "work aerobic manage same athlete farm castle spy student earth ask embrace";
+var mnemonic = "enable start coin palace gauge stand spoil match radar select easily car";

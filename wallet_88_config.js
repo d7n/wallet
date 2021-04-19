@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cage camera wagon weasel disease tip yellow badge ship deliver palace";
+var mnemonic = "very story pulse hour reward dog book broccoli afraid whip shiver dish";

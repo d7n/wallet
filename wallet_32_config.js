@@ -1,1 +1,1 @@
-var mnemonic = "taste ten staff globe reflect jewel sword use trouble wage display tragic";
+var mnemonic = "pull ripple cactus park dwarf donkey tell weasel say convince shock note";

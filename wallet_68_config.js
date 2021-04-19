@@ -1,1 +1,1 @@
-var mnemonic = "prosper shield eight cave shield limb audit village mule degree potato crop";
+var mnemonic = "truly hunt acquire chalk empty nut ketchup bless maximum near valley produce";

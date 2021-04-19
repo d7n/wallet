@@ -1,1 +1,1 @@
-var mnemonic = "hold naive avocado advance exhibit prepare slight year cute behave acoustic kite";
+var mnemonic = "stay can slush service drip few remain turkey bounce stock winner fabric";

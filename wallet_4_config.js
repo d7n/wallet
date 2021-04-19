@@ -1,1 +1,1 @@
-var mnemonic = "pretty spatial corn picture medal label steel hair code ostrich hen submit";
+var mnemonic = "shop curious lawn miss damp lumber decide dismiss pair century cabbage opinion";

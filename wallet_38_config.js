@@ -1,1 +1,1 @@
-var mnemonic = "holiday report impulse board glow popular sauce among rice beyond lyrics decline";
+var mnemonic = "vault pudding echo digital carry solar photo cactus mother student long equal";

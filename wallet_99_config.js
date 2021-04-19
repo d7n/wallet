@@ -1,1 +1,1 @@
-var mnemonic = "crunch online funny true social attitude tell seat dutch kick section topic";
+var mnemonic = "genre model curtain final require build utility milk peasant more father jar";

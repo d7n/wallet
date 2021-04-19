@@ -1,1 +1,1 @@
-var mnemonic = "tissue pig twelve believe mask rigid invite hour carry actual frozen dentist";
+var mnemonic = "slice section critic else owner reform case exchange sick scatter pony trouble";

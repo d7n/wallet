@@ -1,1 +1,1 @@
-var mnemonic = "payment else drift inherit visit napkin undo monkey sound minute culture bridge";
+var mnemonic = "climb rather mercy prefer paddle return car buzz smoke then connect weasel";

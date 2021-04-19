@@ -1,1 +1,1 @@
-var mnemonic = "nut alien aim stable peanut eye witness tobacco sort paddle laundry wear";
+var mnemonic = "fat exchange resource forward super shoe shoulder pole witness edge response toddler";

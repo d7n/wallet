@@ -1,1 +1,1 @@
-var mnemonic = "drift smooth hotel tunnel correct now quantum payment observe trust vendor veteran";
+var mnemonic = "gospel obtain like oak robust debate lend open mask funny accuse doll";

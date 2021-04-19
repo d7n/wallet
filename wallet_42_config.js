@@ -1,1 +1,1 @@
-var mnemonic = "bamboo estate eyebrow worry gallery damp village pink powder already rather useless";
+var mnemonic = "trim slam pride target panda brother budget layer record easily you fall";

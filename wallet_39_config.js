@@ -1,1 +1,1 @@
-var mnemonic = "wealth tired daughter orbit bread movie future shuffle ostrich iron upper margin";
+var mnemonic = "tuition round monitor cherry stone rain rigid bounce sound powder alien sunset";

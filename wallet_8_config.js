@@ -1,1 +1,1 @@
-var mnemonic = "already yellow blur buddy round cup memory someone token rose stone raccoon";
+var mnemonic = "yellow attack online squirrel survey identify meat cute erupt outdoor evidence armor";

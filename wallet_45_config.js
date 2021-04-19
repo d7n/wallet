@@ -1,1 +1,1 @@
-var mnemonic = "rate destroy impact vast cup parrot doctor stairs lend common boy express";
+var mnemonic = "together crime smooth elegant melody insect enter half feel romance ocean pass";

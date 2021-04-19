@@ -1,1 +1,1 @@
-var mnemonic = "juice stage step explain food dawn loud alley jacket supply loyal total";
+var mnemonic = "first trade weapon nothing banner people humor room cloud craft confirm urge";

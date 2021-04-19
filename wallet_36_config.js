@@ -1,1 +1,1 @@
-var mnemonic = "sponsor regret region sight measure style dream tired quarter master decide swallow";
+var mnemonic = "rookie school wise rent work dumb vacant nuclear vanish pencil sell minute";

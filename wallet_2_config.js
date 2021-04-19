@@ -1,1 +1,1 @@
-var mnemonic = "author purchase ignore job jazz city genuine kid kangaroo ticket supply exhibit";
+var mnemonic = "couple auto disagree demise access truly want enforce chaos wonder trash kidney";

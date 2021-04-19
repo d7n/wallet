@@ -1,1 +1,1 @@
-var mnemonic = "ignore genius swamp carpet rifle alley review three three other rare make";
+var mnemonic = "essence resource toe survey extra install endless tornado attack manage version student";

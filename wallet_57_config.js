@@ -1,1 +1,1 @@
-var mnemonic = "neck success drive nice trial round answer pupil horn toss team bar";
+var mnemonic = "fuel hurdle arch language dwarf blouse service rail wagon grunt crunch usage";

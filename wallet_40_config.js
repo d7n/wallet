@@ -1,1 +1,1 @@
-var mnemonic = "glass narrow exhibit cereal pause burst defy foam mule brass menu inside";
+var mnemonic = "damage seek subject mesh open hood tuna sentence narrow scrap sphere deal";

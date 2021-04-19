@@ -1,1 +1,1 @@
-var mnemonic = "purpose jeans rude despair front hamster illegal load stuff calm good together";
+var mnemonic = "track maid deliver consider grit true tongue busy any okay zoo verb";

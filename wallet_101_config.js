@@ -1,1 +1,1 @@
-var mnemonic = "tide whale keep rare device silver kit deer diamond visit pledge luxury";
+var mnemonic = "tip comic pony ugly update display half rebuild company tumble wet invite";

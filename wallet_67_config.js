@@ -1,1 +1,1 @@
-var mnemonic = "dash rice collect fat act lobster fury gather egg survey wish always";
+var mnemonic = "elbow alter net stumble soon notice capable ancient space main fire home";

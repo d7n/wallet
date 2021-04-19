@@ -1,1 +1,1 @@
-var mnemonic = "latin bitter frozen rice fence shrimp screen youth abstract whale nominee clump";
+var mnemonic = "move clock equip other focus witness demand latin page soup news garlic";

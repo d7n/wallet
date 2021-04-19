@@ -1,1 +1,1 @@
-var mnemonic = "domain alter outer bracket current airport injury wreck regret goddess source wife";
+var mnemonic = "spike genius alarm track strategy addict maple vault hotel water vendor vicious";

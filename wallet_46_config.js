@@ -1,1 +1,1 @@
-var mnemonic = "radar above math apple expose deal say border adjust riot lunar pottery";
+var mnemonic = "abstract tourist tornado hammer ski office ready giggle tornado roast notice derive";

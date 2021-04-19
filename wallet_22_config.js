@@ -1,1 +1,1 @@
-var mnemonic = "paper mountain right unlock daughter occur intact social engage voice orphan coin";
+var mnemonic = "honey acquire april clog drive antique turtle empty circle tank myth measure";

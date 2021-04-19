@@ -1,1 +1,1 @@
-var mnemonic = "battle undo rate world breeze diagram sea exact record increase patient delay";
+var mnemonic = "forum idle word boy ancient ridge seven armed cram lawn double orbit";

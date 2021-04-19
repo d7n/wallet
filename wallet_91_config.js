@@ -1,1 +1,1 @@
-var mnemonic = "blush normal air smile upset awesome educate any father produce blast cube";
+var mnemonic = "speak bleak toss horn glare script staff future muscle valley blast miracle";

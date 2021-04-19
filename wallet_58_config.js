@@ -1,1 +1,1 @@
-var mnemonic = "humor rug multiply true attack tomorrow armed gym gas exit banana shiver";
+var mnemonic = "fragile limb normal buzz under trend jelly good industry noble bitter enhance";

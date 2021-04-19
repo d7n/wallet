@@ -1,1 +1,1 @@
-var mnemonic = "wage deer clinic liberty funny derive zero random advice angle hope owner";
+var mnemonic = "pave broken family oak foot avoid hole ice assist shoot column more";

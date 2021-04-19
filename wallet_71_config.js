@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rapid leg lab satisfy apology oak vintage rural second battle rug";
+var mnemonic = "tonight rate curious world quiz faint inhale wagon defy witness couch change";

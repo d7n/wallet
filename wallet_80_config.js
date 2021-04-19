@@ -1,1 +1,1 @@
-var mnemonic = "ceiling sound route summer couple bike amazing salt orbit include outdoor hidden";
+var mnemonic = "client orchard media hurt business swap portion planet sadness sting settle embody";

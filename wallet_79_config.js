@@ -1,1 +1,1 @@
-var mnemonic = "elder shoot tissue potato donate miss snap power ginger attract cluster novel";
+var mnemonic = "inner remember outer struggle lecture anchor confirm embark bonus flavor water split";

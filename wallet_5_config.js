@@ -1,1 +1,1 @@
-var mnemonic = "pride box welcome city fiscal friend glass stone monkey please try wisdom";
+var mnemonic = "decorate season devote salad camp nurse paddle stomach wire bridge spice east";

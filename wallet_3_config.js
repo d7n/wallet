@@ -1,1 +1,1 @@
-var mnemonic = "soccer surround clay guard enough foster price focus skate member evidence ability";
+var mnemonic = "kiwi angry regular avocado course hobby into kiss run oxygen crumble couple";

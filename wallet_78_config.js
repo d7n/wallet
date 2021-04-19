@@ -1,1 +1,1 @@
-var mnemonic = "shrimp grocery keen obey monitor plunge oil sunny high swing turtle predict";
+var mnemonic = "midnight ice shrimp rail usual amused ritual cliff matrix scan remind educate";

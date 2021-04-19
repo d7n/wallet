@@ -1,1 +1,1 @@
-var mnemonic = "drop brain exclude first indicate diary planet viable mesh area maximum decide";
+var mnemonic = "tomorrow screen truth jar rich pioneer hockey monitor crane space stable ritual";

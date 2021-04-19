@@ -1,1 +1,1 @@
-var mnemonic = "alley client review add mule noble hungry cloud science zone job comic";
+var mnemonic = "ostrich job apology spare minimum initial theme all viable liberty devote develop";

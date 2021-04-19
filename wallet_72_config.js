@@ -1,1 +1,1 @@
-var mnemonic = "upon balcony gun cat general primary citizen anxiety myth chef vague sign";
+var mnemonic = "narrow clog victory truly second muffin climb echo tribe clerk prevent unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "couple tip pumpkin liberty carbon behind shift silly team accuse donkey unique";
+var mnemonic = "treat rhythm orient domain hire copy either liar axis test any panic";

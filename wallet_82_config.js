@@ -1,1 +1,1 @@
-var mnemonic = "moment lobster bicycle dash try farm alert upper puzzle elite horn panther";
+var mnemonic = "trial salute bronze vote cross burger hen release echo abandon paper bless";

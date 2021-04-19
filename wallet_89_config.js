@@ -1,1 +1,1 @@
-var mnemonic = "hen purchase nasty crew law boy unfair bleak suffer impulse belt valid";
+var mnemonic = "athlete rally melody disagree viable van stereo consider bubble small earth beauty";

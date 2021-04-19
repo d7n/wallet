@@ -1,1 +1,1 @@
-var mnemonic = "radar cannon sustain pioneer unhappy good labor charge gas minimum unit crash";
+var mnemonic = "device deliver unlock transfer jewel duty tattoo because misery always soft crazy";

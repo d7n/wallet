@@ -1,1 +1,1 @@
-var mnemonic = "dutch vocal mesh display tower wine employ spring tattoo material ripple dad";
+var mnemonic = "glass federal tomato distance future satoshi urge common divorce lift oyster already";

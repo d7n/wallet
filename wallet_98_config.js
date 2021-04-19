@@ -1,1 +1,1 @@
-var mnemonic = "sample lens ensure pause tomato cargo promote midnight elite drill bamboo sting";
+var mnemonic = "local clever visual vote marble net faculty access frequent onion light elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "brush valid rabbit gift remove add race term magnet entire giant limb";
+var mnemonic = "artefact spell seven concert fancy clock judge erosion filter desk wave tired";

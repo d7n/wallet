@@ -1,1 +1,1 @@
-var mnemonic = "crater hour champion collect state horse exit hair mountain cave trumpet view";
+var mnemonic = "recipe seek saddle cloud laptop same tray umbrella kind buyer find about";

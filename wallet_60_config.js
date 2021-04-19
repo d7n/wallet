@@ -1,1 +1,1 @@
-var mnemonic = "amount need celery airport net vague rotate device decrease tissue narrow invite";
+var mnemonic = "hobby wet champion witness quarter sauce screen rate jazz visit soul initial";

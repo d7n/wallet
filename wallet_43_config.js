@@ -1,1 +1,1 @@
-var mnemonic = "melody venue mechanic civil north wrong worth toss trigger carry flame element";
+var mnemonic = "away favorite hidden simple area blossom mixed clever nasty pilot helmet index";

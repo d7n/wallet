@@ -1,1 +1,1 @@
-var mnemonic = "goddess banana apple curtain nurse connect advance stereo right pave defy safe";
+var mnemonic = "cup winter silly box engage walnut forward scare neutral duck bamboo want";

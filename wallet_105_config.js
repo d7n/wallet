@@ -1,1 +1,1 @@
-var mnemonic = "laptop fruit vehicle spring drastic live any sick problem limit speak garlic";
+var mnemonic = "shallow color beach ready ecology crouch net seminar capable jacket inhale marble";

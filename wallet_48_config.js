@@ -1,1 +1,1 @@
-var mnemonic = "attitude cage food master try carry manual huge find romance provide blood";
+var mnemonic = "speak rate walnut ranch patient season alpha acoustic upper supreme today naive";

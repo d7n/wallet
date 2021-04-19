@@ -1,1 +1,1 @@
-var mnemonic = "sock shrug middle panther stick gossip ahead fabric prosper about rule mix";
+var mnemonic = "juice shock tone disagree record basic rotate rotate winner depend knock canyon";

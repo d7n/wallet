@@ -1,1 +1,1 @@
-var mnemonic = "moon across kangaroo then right save crunch index point response street caught";
+var mnemonic = "join bench loan food pear grass spike castle human nominee sphere key";

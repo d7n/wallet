@@ -1,1 +1,1 @@
-var mnemonic = "upgrade whale slim shield acid crouch erode media also dolphin soap unfair";
+var mnemonic = "there submit judge brick already basket teach cereal audit boat path shove";

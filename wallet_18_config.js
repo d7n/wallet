@@ -1,1 +1,1 @@
-var mnemonic = "blame income lizard own tackle kiss hybrid regular regret fragile animal stable";
+var mnemonic = "seven ramp stadium torch portion announce rich service toss disorder bag raccoon";

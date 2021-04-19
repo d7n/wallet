@@ -1,1 +1,1 @@
-var mnemonic = "jaguar ritual mouse infant ecology one funny mention symptom list plunge ripple";
+var mnemonic = "inspire blanket cup peanut health digital board search subway select reveal renew";

@@ -1,1 +1,1 @@
-var mnemonic = "project film innocent super series prefer barrel raccoon verb protect duck motion";
+var mnemonic = "budget cloud open success salute salmon duty voyage cigar cattle awake hat";

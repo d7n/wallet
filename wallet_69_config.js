@@ -1,1 +1,1 @@
-var mnemonic = "future relax increase chalk shuffle oppose embody retire pencil secret fee market";
+var mnemonic = "truck void laptop expire quiz man unaware decrease elephant risk crisp apology";

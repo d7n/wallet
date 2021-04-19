@@ -1,1 +1,1 @@
-var mnemonic = "swim task essay unveil upset couple neck copper toilet used arctic alpha";
+var mnemonic = "dirt alarm play regular woman assault urban boil buyer tag rather almost";

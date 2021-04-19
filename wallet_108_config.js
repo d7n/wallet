@@ -1,1 +1,1 @@
-var mnemonic = "junior test assume attract iron runway leg abuse subject master fish obtain";
+var mnemonic = "keep divide grunt sick guess thrive what antenna hood place warfare test";

@@ -1,1 +1,1 @@
-var mnemonic = "mother gold wine enlist void renew useless gym devote mammal banana swim";
+var mnemonic = "poem accuse crime captain joy erupt essence future clinic fuel produce language";

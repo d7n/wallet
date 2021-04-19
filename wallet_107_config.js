@@ -1,1 +1,1 @@
-var mnemonic = "gym canal cave course gasp dawn turtle cotton number rifle destroy melody";
+var mnemonic = "ecology satoshi volcano mosquito agree mammal novel second cash exhaust toward napkin";

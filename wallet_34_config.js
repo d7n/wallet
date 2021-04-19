@@ -1,1 +1,1 @@
-var mnemonic = "hazard rabbit scrap remind garment misery reopen envelope fluid cake parrot craft";
+var mnemonic = "gym print one sort keep surround million ordinary mechanic mutual beach oyster";

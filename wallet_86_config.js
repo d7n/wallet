@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow glimpse mind repeat fragile piece engine release affair salad develop mother";
+var mnemonic = "shed bubble firm total winner unaware outside wash ceiling planet laptop trigger";

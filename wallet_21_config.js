@@ -1,1 +1,1 @@
-var mnemonic = "ribbon hip among ritual tape fringe laundry update festival close carbon fiction";
+var mnemonic = "flight boss timber purchase atom between sun yellow pair bean educate buffalo";

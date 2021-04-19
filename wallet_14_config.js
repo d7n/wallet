@@ -1,1 +1,1 @@
-var mnemonic = "crater juice strike kind vintage where blast lounge anchor issue stock siren";
+var mnemonic = "open supply shop female wheat surface broccoli legal first domain isolate today";

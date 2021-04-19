@@ -1,1 +1,1 @@
-var mnemonic = "direct edge father slab disorder paddle crisp giggle permit risk child gap";
+var mnemonic = "drip base early mobile loop parade sponsor until try balance cram chase";

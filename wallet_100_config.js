@@ -1,1 +1,1 @@
-var mnemonic = "scale release pond retire flower loop unhappy mutual collect plate title senior";
+var mnemonic = "fault bright about outer library lock crime offer panic pair witness repeat";

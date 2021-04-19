@@ -1,1 +1,1 @@
-var mnemonic = "credit ignore gun dawn evoke wolf okay author category good civil asset";
+var mnemonic = "spring dynamic civil chronic fatal head midnight scan cushion toss valid naive";

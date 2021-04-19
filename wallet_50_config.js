@@ -1,1 +1,1 @@
-var mnemonic = "adult cinnamon fish tip divert armor narrow moon faculty express ceiling train";
+var mnemonic = "whip boat antenna nurse stay usual gather work gold detect mask dune";

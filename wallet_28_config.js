@@ -1,1 +1,1 @@
-var mnemonic = "aim bone ecology tobacco double agree awful check acquire option allow fiber";
+var mnemonic = "license disorder pole glimpse state friend increase video bunker fortune bike urban";

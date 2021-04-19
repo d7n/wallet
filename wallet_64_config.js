@@ -1,1 +1,1 @@
-var mnemonic = "sibling spider below luggage blossom loan damage once radar donor danger bone";
+var mnemonic = "stock dash unhappy pistol void luggage neglect guard exercise must cotton taste";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare pig rival adapt suit empower slab wet spatial token excuse gown";
+var mnemonic = "assist angle cabin tunnel rich nut festival zoo token outside inform grab";

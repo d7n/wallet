@@ -1,1 +1,1 @@
-var mnemonic = "coral fish company what forest fiscal tiny few either hood please cinnamon";
+var mnemonic = "soldier album popular observe air super lobster bike kit essence nerve bus";

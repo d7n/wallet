@@ -1,1 +1,1 @@
-var mnemonic = "pottery combine radar assault recycle bind olympic despair impact vacant rapid frozen";
+var mnemonic = "uphold orient thought alpha shell weekend open relief table code melody kite";

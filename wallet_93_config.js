@@ -1,1 +1,1 @@
-var mnemonic = "soul creek cruel swallow mobile proof rather eye hour trick apple vessel";
+var mnemonic = "weekend truth remain tank ugly sight enforce enough turtle pass ostrich pet";

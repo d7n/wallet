@@ -1,1 +1,1 @@
-var mnemonic = "pilot around write hard hire rich polar truck similar stick toast they";
+var mnemonic = "usage ridge home exile stuff punch panel addict leader chronic erosion entry";

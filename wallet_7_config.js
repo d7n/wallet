@@ -1,1 +1,1 @@
-var mnemonic = "diary seven sand slender able skirt bounce spike school middle unique lizard";
+var mnemonic = "dress extra peasant keen behind member permit jealous alcohol street mercy debris";

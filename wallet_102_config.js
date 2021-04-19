@@ -1,1 +1,1 @@
-var mnemonic = "frog wet nurse glow life squirrel correct immune grab margin suit elevator";
+var mnemonic = "allow junk federal letter space able chapter rough burst donkey secret boil";

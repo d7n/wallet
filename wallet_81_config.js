@@ -1,1 +1,1 @@
-var mnemonic = "tube stadium mushroom brother impact potato sign math panic warm unfair protect";
+var mnemonic = "forum inflict repair mask marriage hobby deliver slab width velvet afraid honey";

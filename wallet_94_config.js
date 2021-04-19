@@ -1,1 +1,1 @@
-var mnemonic = "rare sudden swap interest bronze mention inflict trash ramp hero mandate remind";
+var mnemonic = "insane miracle door vault link pilot announce useful vicious filter ecology teach";
