@@ -1,1 +1,1 @@
-var mnemonic = "unable blouse half organ gravity report photo stadium box chapter basket abstract";
+var mnemonic = "kick sheriff group mistake airport roast luggage judge capital child hard rebuild";

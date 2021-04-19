@@ -1,1 +1,1 @@
-var mnemonic = "bridge flower merry siege flip february morning chase analyst illegal laptop mention";
+var mnemonic = "holiday report impulse board glow popular sauce among rice beyond lyrics decline";

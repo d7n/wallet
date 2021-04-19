@@ -1,1 +1,1 @@
-var mnemonic = "radar season auto juice garden absorb album mom scene disorder wide vague";
+var mnemonic = "upgrade whale slim shield acid crouch erode media also dolphin soap unfair";

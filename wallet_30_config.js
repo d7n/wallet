@@ -1,1 +1,1 @@
-var mnemonic = "rack execute thank unaware gasp report innocent afraid wagon kiss convince cross";
+var mnemonic = "guess airport tenant snack pink unlock differ make verify snow achieve magic";

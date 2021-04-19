@@ -1,1 +1,1 @@
-var mnemonic = "mansion pretty yellow chief ski member order bone bunker nation tooth whip";
+var mnemonic = "sock shrug middle panther stick gossip ahead fabric prosper about rule mix";

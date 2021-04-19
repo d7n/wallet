@@ -1,1 +1,1 @@
-var mnemonic = "rule cram limit flash crane symptom shift owner south type aim orient";
+var mnemonic = "already yellow blur buddy round cup memory someone token rose stone raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "day wheat usage repair consider park luxury arm smart cage frost electric";
+var mnemonic = "direct edge father slab disorder paddle crisp giggle permit risk child gap";

@@ -1,1 +1,1 @@
-var mnemonic = "race moon sorry kidney quantum income private input version echo honey custom";
+var mnemonic = "prosper shield eight cave shield limb audit village mule degree potato crop";

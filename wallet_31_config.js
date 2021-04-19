@@ -1,1 +1,1 @@
-var mnemonic = "liar medal legal indoor poet stand theory say tower pool alley soap";
+var mnemonic = "jaguar ritual mouse infant ecology one funny mention symptom list plunge ripple";

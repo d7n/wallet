@@ -1,1 +1,1 @@
-var mnemonic = "shy finger question income crowd garment roof math museum youth weekend quarter";
+var mnemonic = "pretty spatial corn picture medal label steel hair code ostrich hen submit";

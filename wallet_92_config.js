@@ -1,1 +1,1 @@
-var mnemonic = "cable whip fluid latin tell arrive off dismiss equip giggle nature flame";
+var mnemonic = "purpose jeans rude despair front hamster illegal load stuff calm good together";

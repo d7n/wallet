@@ -1,1 +1,1 @@
-var mnemonic = "kite jewel meadow bachelor shoulder sorry artist daughter nut insane catch merit";
+var mnemonic = "eternal genuine vendor crazy identify above govern joke tortoise census front flat";

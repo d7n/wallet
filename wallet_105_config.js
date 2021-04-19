@@ -1,1 +1,1 @@
-var mnemonic = "always into crazy artwork slush purse emerge beyond basket stone reject olympic";
+var mnemonic = "laptop fruit vehicle spring drastic live any sick problem limit speak garlic";

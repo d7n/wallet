@@ -1,1 +1,1 @@
-var mnemonic = "churn ketchup fade puppy stay hungry approve subject popular tongue crater drive";
+var mnemonic = "future relax increase chalk shuffle oppose embody retire pencil secret fee market";

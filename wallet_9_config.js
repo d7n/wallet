@@ -1,1 +1,1 @@
-var mnemonic = "catalog unable bounce arch setup narrow appear cute angry timber hammer member";
+var mnemonic = "wheel volume save supply blast hedgehog clock symptom evidence boat retire ceiling";

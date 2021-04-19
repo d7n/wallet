@@ -1,1 +1,1 @@
-var mnemonic = "van dinner story guard aspect crack erosion owner tree nephew cage raccoon";
+var mnemonic = "taste ten staff globe reflect jewel sword use trouble wage display tragic";

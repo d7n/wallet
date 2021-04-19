@@ -1,1 +1,1 @@
-var mnemonic = "prevent bullet rib monster dance drill access proof repair room bridge rather";
+var mnemonic = "crater hour champion collect state horse exit hair mountain cave trumpet view";

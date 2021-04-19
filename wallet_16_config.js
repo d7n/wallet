@@ -1,1 +1,1 @@
-var mnemonic = "fire merry chalk chronic fitness only slender bring situate more census measure";
+var mnemonic = "best around boost gym decide since motor federal twice organ spell liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness reject square globe zoo book hamster mixed truly train search fantasy";
+var mnemonic = "payment else drift inherit visit napkin undo monkey sound minute culture bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "daring twin day word income exist aspect dream fee debate gentle congress";
+var mnemonic = "couple tip pumpkin liberty carbon behind shift silly team accuse donkey unique";

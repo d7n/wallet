@@ -1,1 +1,1 @@
-var mnemonic = "remain trial broccoli model ancient dismiss stamp entry honey boring purpose labor";
+var mnemonic = "frog wet nurse glow life squirrel correct immune grab margin suit elevator";

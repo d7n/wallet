@@ -1,1 +1,1 @@
-var mnemonic = "scene choice noise follow general road empty update erode guide trigger kiss";
+var mnemonic = "eyebrow glimpse mind repeat fragile piece engine release affair salad develop mother";

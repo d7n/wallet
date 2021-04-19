@@ -1,1 +1,1 @@
-var mnemonic = "organ cover below trial reveal gossip olive rifle illegal planet success route";
+var mnemonic = "drift smooth hotel tunnel correct now quantum payment observe trust vendor veteran";

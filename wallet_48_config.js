@@ -1,1 +1,1 @@
-var mnemonic = "crowd put property yard federal assume garlic kit beyond caught assault mesh";
+var mnemonic = "attitude cage food master try carry manual huge find romance provide blood";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep heavy cheap engine mix task coast kind fragile satisfy core traffic";
+var mnemonic = "crater juice strike kind vintage where blast lounge anchor issue stock siren";

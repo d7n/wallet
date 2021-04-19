@@ -1,1 +1,1 @@
-var mnemonic = "armor wash father pyramid layer dog negative food rapid pet opinion cluster";
+var mnemonic = "rare sudden swap interest bronze mention inflict trash ramp hero mandate remind";

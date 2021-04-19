@@ -1,1 +1,1 @@
-var mnemonic = "crash excuse slim abandon chalk inspire wild price hand much minor isolate";
+var mnemonic = "ribbon hip among ritual tape fringe laundry update festival close carbon fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar endorse sort business expect anger street shy tonight gun salad pioneer";
+var mnemonic = "hold naive avocado advance exhibit prepare slight year cute behave acoustic kite";

@@ -1,1 +1,1 @@
-var mnemonic = "popular sense meadow two usual custom eyebrow trip rare negative crime sponsor";
+var mnemonic = "online demise trim brother write onion intact unique smooth rescue weird drive";

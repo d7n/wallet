@@ -1,1 +1,1 @@
-var mnemonic = "marriage pool faith can traffic helmet gown able toilet vacuum doctor prize";
+var mnemonic = "humor rug multiply true attack tomorrow armed gym gas exit banana shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset wait defense damage bean snake typical balcony next alpha buyer three";
+var mnemonic = "latin bitter frozen rice fence shrimp screen youth abstract whale nominee clump";

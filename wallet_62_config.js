@@ -1,1 +1,1 @@
-var mnemonic = "indoor expire chair inmate sheriff news click lyrics defense share faith guilt";
+var mnemonic = "usual wisdom sudden suit mouse final eagle latin brisk shell service exchange";

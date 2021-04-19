@@ -1,1 +1,1 @@
-var mnemonic = "enforce antenna blossom earn mother age damp skirt rude park cash consider";
+var mnemonic = "tomorrow pistol squirrel nose bundle render first quote neglect eagle rebel alcohol";

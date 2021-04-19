@@ -1,1 +1,1 @@
-var mnemonic = "quit west genre hint random onion trick engine start bullet muffin loan";
+var mnemonic = "return plate kit crater rabbit home acid impulse cousin rice aware next";

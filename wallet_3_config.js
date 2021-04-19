@@ -1,1 +1,1 @@
-var mnemonic = "couch chalk armor swallow pretty tumble advance antenna prevent sleep poem must";
+var mnemonic = "soccer surround clay guard enough foster price focus skate member evidence ability";

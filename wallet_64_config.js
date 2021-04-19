@@ -1,1 +1,1 @@
-var mnemonic = "march receive unhappy country business ramp sing doll valid grunt vapor snake";
+var mnemonic = "sibling spider below luggage blossom loan damage once radar donor danger bone";

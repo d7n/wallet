@@ -1,1 +1,1 @@
-var mnemonic = "museum target nurse nice supreme horse arrest bind argue piano organ post";
+var mnemonic = "drop brain exclude first indicate diary planet viable mesh area maximum decide";

@@ -1,1 +1,1 @@
-var mnemonic = "prison shoulder crew father kiss walnut fit polar air laundry horror gravity";
+var mnemonic = "pepper grit clarify major charge echo wheat seminar know scatter hurdle digital";

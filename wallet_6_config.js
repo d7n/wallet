@@ -1,1 +1,1 @@
-var mnemonic = "false company apple indicate canvas fatigue advice trim toward silent turtle radio";
+var mnemonic = "brush valid rabbit gift remove add race term magnet entire giant limb";

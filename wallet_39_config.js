@@ -1,1 +1,1 @@
-var mnemonic = "soul safe detect solution general corn suffer pattern narrow script tray join";
+var mnemonic = "wealth tired daughter orbit bread movie future shuffle ostrich iron upper margin";

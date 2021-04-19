@@ -1,1 +1,1 @@
-var mnemonic = "obtain few evoke entire dizzy pluck bicycle exchange pole tree modify possible";
+var mnemonic = "crime junk rail art basket moral position inmate march spring rifle small";

@@ -1,1 +1,1 @@
-var mnemonic = "call way blood flower field exist word indicate solution appear cruise hamster";
+var mnemonic = "warfare pig rival adapt suit empower slab wet spatial token excuse gown";

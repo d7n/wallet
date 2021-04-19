@@ -1,1 +1,1 @@
-var mnemonic = "often grit shed genius cook manual force resemble vote dust smoke approve";
+var mnemonic = "coral fish company what forest fiscal tiny few either hood please cinnamon";

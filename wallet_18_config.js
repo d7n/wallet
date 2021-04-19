@@ -1,1 +1,1 @@
-var mnemonic = "upset shy inspire local foot exhaust name bulb clinic marble regret affair";
+var mnemonic = "blame income lizard own tackle kiss hybrid regular regret fragile animal stable";

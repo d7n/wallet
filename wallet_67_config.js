@@ -1,1 +1,1 @@
-var mnemonic = "slim dumb blind erosion balance orchard when recipe drop ice police inform";
+var mnemonic = "dash rice collect fat act lobster fury gather egg survey wish always";

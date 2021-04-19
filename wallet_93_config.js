@@ -1,1 +1,1 @@
-var mnemonic = "iron wrestle tortoise loan spin ball dutch opinion immense struggle still lake";
+var mnemonic = "soul creek cruel swallow mobile proof rather eye hour trick apple vessel";

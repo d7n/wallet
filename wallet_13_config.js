@@ -1,1 +1,1 @@
-var mnemonic = "cement enough photo flavor bind super bullet famous trial ready edge cotton";
+var mnemonic = "domain alter outer bracket current airport injury wreck regret goddess source wife";

@@ -1,1 +1,1 @@
-var mnemonic = "attack movie talent much sheriff world anchor leopard alert worth ill profit";
+var mnemonic = "goddess banana apple curtain nurse connect advance stereo right pave defy safe";

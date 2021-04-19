@@ -1,1 +1,1 @@
-var mnemonic = "spell punch upon gym solution session relax draft fit ring east grit";
+var mnemonic = "satoshi cage camera wagon weasel disease tip yellow badge ship deliver palace";

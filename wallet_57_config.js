@@ -1,1 +1,1 @@
-var mnemonic = "manage large whip venue decline welcome miracle visual mix pear fault movie";
+var mnemonic = "neck success drive nice trial round answer pupil horn toss team bar";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor guide gym cement random rent clever celery museum below glide cram";
+var mnemonic = "slim volcano february light swim element ability satoshi cave receive ready estate";

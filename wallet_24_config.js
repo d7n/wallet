@@ -1,1 +1,1 @@
-var mnemonic = "marble buddy ticket river hand fire cram bronze survey produce speak wealth";
+var mnemonic = "credit ignore gun dawn evoke wolf okay author category good civil asset";

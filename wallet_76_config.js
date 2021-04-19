@@ -1,1 +1,1 @@
-var mnemonic = "gun laugh invest brain glow kiss surprise finger strike success match aunt";
+var mnemonic = "struggle board learn table silk sight shield legend expire torch start route";

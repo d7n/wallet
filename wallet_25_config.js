@@ -1,1 +1,1 @@
-var mnemonic = "west imitate dust crater fix uncover flight noise cake friend girl dress";
+var mnemonic = "volume soccer riot entire stereo exotic pig wasp toy arrive lend patient";

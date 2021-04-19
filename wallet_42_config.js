@@ -1,1 +1,1 @@
-var mnemonic = "oak gift divorce goat decide pattern recycle judge come guilt cotton message";
+var mnemonic = "bamboo estate eyebrow worry gallery damp village pink powder already rather useless";

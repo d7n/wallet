@@ -1,1 +1,1 @@
-var mnemonic = "swear coil dragon blue parrot lobster frog breeze put viable choice nut";
+var mnemonic = "project film innocent super series prefer barrel raccoon verb protect duck motion";

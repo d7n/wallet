@@ -1,1 +1,1 @@
-var mnemonic = "crater copy mosquito amazing there load tuition alone soup silk discover party";
+var mnemonic = "author purchase ignore job jazz city genuine kid kangaroo ticket supply exhibit";

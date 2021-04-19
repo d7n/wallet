@@ -1,1 +1,1 @@
-var mnemonic = "estate shadow item obtain season tip sting stage cattle put essay web";
+var mnemonic = "arch chapter doll celery rule file bamboo field carry twice zone leave";

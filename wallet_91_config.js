@@ -1,1 +1,1 @@
-var mnemonic = "garden age clock try mule orange gauge romance marine carbon tobacco thrive";
+var mnemonic = "blush normal air smile upset awesome educate any father produce blast cube";

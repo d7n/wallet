@@ -1,1 +1,1 @@
-var mnemonic = "until furnace void animal scale clay route firm unable pond glass bounce";
+var mnemonic = "juice stage step explain food dawn loud alley jacket supply loyal total";

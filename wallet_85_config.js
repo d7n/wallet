@@ -1,1 +1,1 @@
-var mnemonic = "expose toddler trial device extend prison venture civil you approve venture upgrade";
+var mnemonic = "alley client review add mule noble hungry cloud science zone job comic";

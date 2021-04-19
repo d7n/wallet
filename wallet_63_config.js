@@ -1,1 +1,1 @@
-var mnemonic = "pet captain document number switch body oil infant myself rather river shield";
+var mnemonic = "tail vacuum engine wish elegant word cactus duty ridge mandate apart rural";

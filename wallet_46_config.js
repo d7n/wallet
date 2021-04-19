@@ -1,1 +1,1 @@
-var mnemonic = "bless street taste brush liberty home dinosaur chair phone aerobic slow youth";
+var mnemonic = "radar above math apple expose deal say border adjust riot lunar pottery";

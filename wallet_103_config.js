@@ -1,1 +1,1 @@
-var mnemonic = "visual glide champion logic sweet glove eager grant settle address diary figure";
+var mnemonic = "radar cannon sustain pioneer unhappy good labor charge gas minimum unit crash";

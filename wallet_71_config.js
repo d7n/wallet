@@ -1,1 +1,1 @@
-var mnemonic = "sing bread kind cherry crush hint conduct endorse pitch help explain scheme";
+var mnemonic = "fiscal rapid leg lab satisfy apology oak vintage rural second battle rug";

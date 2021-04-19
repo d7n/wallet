@@ -1,1 +1,1 @@
-var mnemonic = "cigar prize guitar motor fat depth accident rough relax carpet replace spread";
+var mnemonic = "sample lens ensure pause tomato cargo promote midnight elite drill bamboo sting";

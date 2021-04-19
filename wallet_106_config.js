@@ -1,1 +1,1 @@
-var mnemonic = "moon sponsor tomorrow comic owner scrub strong oblige clutch uphold dawn mango";
+var mnemonic = "swim task essay unveil upset couple neck copper toilet used arctic alpha";

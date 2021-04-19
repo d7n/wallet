@@ -1,1 +1,1 @@
-var mnemonic = "swift bunker age advance magnet submit zebra choose clip layer banana lift";
+var mnemonic = "cause ketchup valley tide draft conduct century leader stuff general empower denial";

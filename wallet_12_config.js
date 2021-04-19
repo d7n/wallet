@@ -1,1 +1,1 @@
-var mnemonic = "cupboard float virtual switch route business series balance ahead flame garlic zero";
+var mnemonic = "race glance return wreck vehicle topple matter already slim bullet deposit toilet";

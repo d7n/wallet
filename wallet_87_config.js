@@ -1,1 +1,1 @@
-var mnemonic = "valley version foot trip property vital design crack happy coast juice bless";
+var mnemonic = "pair sick brief east joy nerve garlic robust hotel key wedding code";

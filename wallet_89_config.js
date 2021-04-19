@@ -1,1 +1,1 @@
-var mnemonic = "organ arch push craft bag pave miracle inhale blush toss waste anger";
+var mnemonic = "hen purchase nasty crew law boy unfair bleak suffer impulse belt valid";

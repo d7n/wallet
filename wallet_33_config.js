@@ -1,1 +1,1 @@
-var mnemonic = "bless midnight book hollow senior knock same loan enforce trust legal enact";
+var mnemonic = "iron able cycle dust chronic cruise weapon merit crash flush trumpet industry";

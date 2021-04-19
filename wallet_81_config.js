@@ -1,1 +1,1 @@
-var mnemonic = "hammer wrist axis raccoon reform drift say approve dentist hedgehog test song";
+var mnemonic = "tube stadium mushroom brother impact potato sign math panic warm unfair protect";

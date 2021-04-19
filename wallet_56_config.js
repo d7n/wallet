@@ -1,1 +1,1 @@
-var mnemonic = "test people almost solar leader congress escape business town broccoli mutual such";
+var mnemonic = "pottery combine radar assault recycle bind olympic despair impact vacant rapid frozen";

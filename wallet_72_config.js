@@ -1,1 +1,1 @@
-var mnemonic = "trigger disease average album army blur boost depend decorate view camp elegant";
+var mnemonic = "upon balcony gun cat general primary citizen anxiety myth chef vague sign";

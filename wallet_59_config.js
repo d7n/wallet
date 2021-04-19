@@ -1,1 +1,1 @@
-var mnemonic = "april quantum debate human material what wasp finish athlete outer tourist panel";
+var mnemonic = "work aerobic manage same athlete farm castle spy student earth ask embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "usage globe cute broccoli secret clerk wasp voice exact zone unaware pistol";
+var mnemonic = "tissue pig twelve believe mask rigid invite hour carry actual frozen dentist";

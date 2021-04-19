@@ -1,1 +1,1 @@
-var mnemonic = "animal genius culture maple climb bread express assume multiply extend couple ignore";
+var mnemonic = "ceiling sound route summer couple bike amazing salt orbit include outdoor hidden";

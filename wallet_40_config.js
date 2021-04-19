@@ -1,1 +1,1 @@
-var mnemonic = "lizard barely denial liquid relief ranch notice insane candy corn reopen there";
+var mnemonic = "glass narrow exhibit cereal pause burst defy foam mule brass menu inside";

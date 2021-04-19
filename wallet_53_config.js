@@ -1,1 +1,1 @@
-var mnemonic = "gravity tobacco simple into police eight unknown butter suspect cruel young forum";
+var mnemonic = "mother gold wine enlist void renew useless gym devote mammal banana swim";

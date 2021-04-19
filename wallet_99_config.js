@@ -1,1 +1,1 @@
-var mnemonic = "solid paddle raccoon mad carpet injury truly salmon crystal record guess salute";
+var mnemonic = "crunch online funny true social attitude tell seat dutch kick section topic";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza dawn siege put just panda earn supreme moment arrange violin holiday";
+var mnemonic = "elder shoot tissue potato donate miss snap power ginger attract cluster novel";

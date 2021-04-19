@@ -1,1 +1,1 @@
-var mnemonic = "oblige prize twenty family bleak then pink wife same spice palm artefact";
+var mnemonic = "nothing siren shed cable burden boy segment stone mother jaguar please fortune";

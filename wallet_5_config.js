@@ -1,1 +1,1 @@
-var mnemonic = "insect raw finish carbon pave slogan action sock destroy lecture cream female";
+var mnemonic = "pride box welcome city fiscal friend glass stone monkey please try wisdom";

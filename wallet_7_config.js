@@ -1,1 +1,1 @@
-var mnemonic = "aunt thing define spray lecture marble hamster fitness joy under second describe";
+var mnemonic = "diary seven sand slender able skirt bounce spike school middle unique lizard";

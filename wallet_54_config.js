@@ -1,1 +1,1 @@
-var mnemonic = "bind giggle alcohol quick exit maple response egg ten abuse later amazing";
+var mnemonic = "wage deer clinic liberty funny derive zero random advice angle hope owner";

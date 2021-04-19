@@ -1,1 +1,1 @@
-var mnemonic = "race snow miss flat issue burden theme taste squeeze human garbage heavy";
+var mnemonic = "rate destroy impact vast cup parrot doctor stairs lend common boy express";

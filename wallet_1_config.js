@@ -1,1 +1,1 @@
-var mnemonic = "spoon milk blossom churn move olympic nasty shiver wool police fork leader";
+var mnemonic = "pilot around write hard hire rich polar truck similar stick toast they";

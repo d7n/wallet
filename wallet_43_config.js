@@ -1,1 +1,1 @@
-var mnemonic = "noise empty nation spy attend charge book verb lion network swim resist";
+var mnemonic = "melody venue mechanic civil north wrong worth toss trigger carry flame element";

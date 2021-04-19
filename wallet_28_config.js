@@ -1,1 +1,1 @@
-var mnemonic = "mixture rain impose civil another hurry globe curve village ranch ice seven";
+var mnemonic = "aim bone ecology tobacco double agree awful check acquire option allow fiber";

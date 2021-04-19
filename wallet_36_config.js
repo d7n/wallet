@@ -1,1 +1,1 @@
-var mnemonic = "retire skate extend federal tail talent erode hobby act venue mean head";
+var mnemonic = "sponsor regret region sight measure style dream tired quarter master decide swallow";

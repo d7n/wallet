@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit interest faith buzz humor convince response sting anger illegal alien style";
+var mnemonic = "moment lobster bicycle dash try farm alert upper puzzle elite horn panther";

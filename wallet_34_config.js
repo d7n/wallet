@@ -1,1 +1,1 @@
-var mnemonic = "engage spray source wreck cabbage glue pen helmet popular drive throw flip";
+var mnemonic = "hazard rabbit scrap remind garment misery reopen envelope fluid cake parrot craft";
