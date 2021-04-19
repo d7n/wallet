@@ -1,1 +1,1 @@
-var mnemonic = "soon fault quit direct come plate account afraid noodle toddler film erosion";
+var mnemonic = "lizard barely denial liquid relief ranch notice insane candy corn reopen there";

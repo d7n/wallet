@@ -1,1 +1,1 @@
-var mnemonic = "step music limb steak tackle brave concert goose shoulder squirrel together lady";
+var mnemonic = "sing bread kind cherry crush hint conduct endorse pitch help explain scheme";

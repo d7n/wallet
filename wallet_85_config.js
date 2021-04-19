@@ -1,1 +1,1 @@
-var mnemonic = "diamond ranch loud comic moment endorse talent year top chair hungry burst";
+var mnemonic = "expose toddler trial device extend prison venture civil you approve venture upgrade";

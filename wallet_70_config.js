@@ -1,1 +1,1 @@
-var mnemonic = "short law token screen glue rabbit vessel warm multiply delay explain speak";
+var mnemonic = "enforce antenna blossom earn mother age damp skirt rude park cash consider";

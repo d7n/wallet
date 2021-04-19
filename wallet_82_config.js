@@ -1,1 +1,1 @@
-var mnemonic = "come lady lunar trade shrug salmon square lunch canoe discover tiger garbage";
+var mnemonic = "lawsuit interest faith buzz humor convince response sting anger illegal alien style";

@@ -1,1 +1,1 @@
-var mnemonic = "visit gloom cigar sick keep action oven title slim color blouse cinnamon";
+var mnemonic = "aunt thing define spray lecture marble hamster fitness joy under second describe";

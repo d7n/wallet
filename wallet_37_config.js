@@ -1,1 +1,1 @@
-var mnemonic = "adapt trigger cave topple fury joy access wave cherry humble topple weather";
+var mnemonic = "swift bunker age advance magnet submit zebra choose clip layer banana lift";

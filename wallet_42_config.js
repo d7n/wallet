@@ -1,1 +1,1 @@
-var mnemonic = "glide witness have play outdoor beauty rabbit tongue absurd pencil capital diesel";
+var mnemonic = "oak gift divorce goat decide pattern recycle judge come guilt cotton message";

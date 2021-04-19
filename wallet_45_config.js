@@ -1,1 +1,1 @@
-var mnemonic = "slam aspect question bounce neglect bronze secret eight fiber love since naive";
+var mnemonic = "race snow miss flat issue burden theme taste squeeze human garbage heavy";

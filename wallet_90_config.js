@@ -1,1 +1,1 @@
-var mnemonic = "predict mask slogan spider actor raw gauge say smile code spare chair";
+var mnemonic = "obtain few evoke entire dizzy pluck bicycle exchange pole tree modify possible";

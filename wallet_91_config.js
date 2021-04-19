@@ -1,1 +1,1 @@
-var mnemonic = "deer sweet inside math moral faculty shed front void burden fashion jaguar";
+var mnemonic = "garden age clock try mule orange gauge romance marine carbon tobacco thrive";

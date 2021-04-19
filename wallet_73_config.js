@@ -1,1 +1,1 @@
-var mnemonic = "creek gasp anxiety cradle expose suggest brand toss connect elbow relief donate";
+var mnemonic = "museum target nurse nice supreme horse arrest bind argue piano organ post";

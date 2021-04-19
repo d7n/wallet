@@ -1,1 +1,1 @@
-var mnemonic = "license horn above deny token coral gain accident genius brass awkward inside";
+var mnemonic = "armor wash father pyramid layer dog negative food rapid pet opinion cluster";

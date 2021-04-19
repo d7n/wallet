@@ -1,1 +1,1 @@
-var mnemonic = "marine abandon noise coffee maid tube metal pyramid fan body blame degree";
+var mnemonic = "upset shy inspire local foot exhaust name bulb clinic marble regret affair";

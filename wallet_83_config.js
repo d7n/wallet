@@ -1,1 +1,1 @@
-var mnemonic = "visa eyebrow bike beach fold course young sure earn unaware south quality";
+var mnemonic = "dish pistol winter clump tube silent mass leaf lens lyrics tag pole";

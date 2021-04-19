@@ -1,1 +1,1 @@
-var mnemonic = "snake hurt sleep swear model feed remind fury razor length match treat";
+var mnemonic = "engage spray source wreck cabbage glue pen helmet popular drive throw flip";

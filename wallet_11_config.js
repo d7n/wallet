@@ -1,1 +1,1 @@
-var mnemonic = "staff twelve about vacuum video need animal sample what typical come near";
+var mnemonic = "demise spin loud someone large tag cancel distance medal crumble orchard pair";

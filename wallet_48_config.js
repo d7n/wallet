@@ -1,1 +1,1 @@
-var mnemonic = "demise nation age similar food joy sudden guess wrong joke job session";
+var mnemonic = "crowd put property yard federal assume garlic kit beyond caught assault mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "pride purse syrup memory cousin exhaust swear sea shove ritual slice nerve";
+var mnemonic = "attack movie talent much sheriff world anchor leopard alert worth ill profit";

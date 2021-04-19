@@ -1,1 +1,1 @@
-var mnemonic = "check jump infant fence demise fat retire solve hip fat okay hidden";
+var mnemonic = "doctor guide gym cement random rent clever celery museum below glide cram";

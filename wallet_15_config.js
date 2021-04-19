@@ -1,1 +1,1 @@
-var mnemonic = "surround mention found start excess desert satisfy elephant rifle crawl fish enter";
+var mnemonic = "radar season auto juice garden absorb album mom scene disorder wide vague";

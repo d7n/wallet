@@ -1,1 +1,1 @@
-var mnemonic = "swamp ecology father giraffe recall vanish nasty wash poem force surface wheel";
+var mnemonic = "valley version foot trip property vital design crack happy coast juice bless";

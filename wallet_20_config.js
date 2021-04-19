@@ -1,1 +1,1 @@
-var mnemonic = "future funny annual old park rival odor marine clip travel open pool";
+var mnemonic = "mimic increase rapid copper penalty naive junk prosper aisle door silly strike";

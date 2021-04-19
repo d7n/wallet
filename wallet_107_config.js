@@ -1,1 +1,1 @@
-var mnemonic = "rapid weather work invite old color witness venue ketchup absent visa process";
+var mnemonic = "scout trap impact jewel announce grass ship crime gallery ahead oval force";

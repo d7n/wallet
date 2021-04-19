@@ -1,1 +1,1 @@
-var mnemonic = "jewel cream vessel loyal vintage online next mask lab woman desert across";
+var mnemonic = "rack execute thank unaware gasp report innocent afraid wagon kiss convince cross";

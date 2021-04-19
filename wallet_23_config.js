@@ -1,1 +1,1 @@
-var mnemonic = "pen army defense slab bachelor decrease little broccoli attract impose wave guard";
+var mnemonic = "oblige prize twenty family bleak then pink wife same spice palm artefact";

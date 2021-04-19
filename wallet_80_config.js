@@ -1,1 +1,1 @@
-var mnemonic = "police hurry idle liquid dirt magnet parade ceiling sleep monster cradle ask";
+var mnemonic = "animal genius culture maple climb bread express assume multiply extend couple ignore";

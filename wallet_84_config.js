@@ -1,1 +1,1 @@
-var mnemonic = "bottom wink nice thought sheriff umbrella soup hand exotic route already chat";
+var mnemonic = "kite jewel meadow bachelor shoulder sorry artist daughter nut insane catch merit";

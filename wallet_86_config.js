@@ -1,1 +1,1 @@
-var mnemonic = "napkin pony lava drive token must captain album whale doll trap cable";
+var mnemonic = "scene choice noise follow general road empty update erode guide trigger kiss";

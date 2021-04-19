@@ -1,1 +1,1 @@
-var mnemonic = "clerk endless item novel youth humor fence seed fiction coconut rice spell";
+var mnemonic = "gravity tobacco simple into police eight unknown butter suspect cruel young forum";

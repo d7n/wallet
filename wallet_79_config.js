@@ -1,1 +1,1 @@
-var mnemonic = "risk ivory depart lamp useful sound candy correct super curtain transfer silly";
+var mnemonic = "pizza dawn siege put just panda earn supreme moment arrange violin holiday";

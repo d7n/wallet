@@ -1,1 +1,1 @@
-var mnemonic = "describe render monster mom trap ozone civil ridge input merge license flower";
+var mnemonic = "solid paddle raccoon mad carpet injury truly salmon crystal record guess salute";

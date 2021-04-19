@@ -1,1 +1,1 @@
-var mnemonic = "oblige sudden negative sail leopard play embody skirt catch describe rely panther";
+var mnemonic = "trigger disease average album army blur boost depend decorate view camp elegant";

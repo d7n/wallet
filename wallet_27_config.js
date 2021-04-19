@@ -1,1 +1,1 @@
-var mnemonic = "cabin uphold nothing dizzy clean visa true evidence assist language verb shift";
+var mnemonic = "copper tortoise hero rice turtle polar grain left enroll empower online muffin";

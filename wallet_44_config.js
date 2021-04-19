@@ -1,1 +1,1 @@
-var mnemonic = "camp brand pulse wheel joy dial visit shiver eternal account space matrix";
+var mnemonic = "nasty illness swamp rotate shallow rain very peanut salute solve iron weird";

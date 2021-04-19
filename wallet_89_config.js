@@ -1,1 +1,1 @@
-var mnemonic = "brown slush worth property tag ecology shoe true cram method trouble skirt";
+var mnemonic = "organ arch push craft bag pave miracle inhale blush toss waste anger";

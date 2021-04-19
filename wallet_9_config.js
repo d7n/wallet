@@ -1,1 +1,1 @@
-var mnemonic = "note shy post kit tail gadget cabbage soda surge mystery seat absent";
+var mnemonic = "catalog unable bounce arch setup narrow appear cute angry timber hammer member";

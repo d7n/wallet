@@ -1,1 +1,1 @@
-var mnemonic = "merit blame enemy gas place order spatial lonely fuel wine all loop";
+var mnemonic = "pet captain document number switch body oil infant myself rather river shield";

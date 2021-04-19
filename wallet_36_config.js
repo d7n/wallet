@@ -1,1 +1,1 @@
-var mnemonic = "office daring final powder tell admit child laundry extend energy subject lava";
+var mnemonic = "retire skate extend federal tail talent erode hobby act venue mean head";

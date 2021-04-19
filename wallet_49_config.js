@@ -1,1 +1,1 @@
-var mnemonic = "suffer track monster road grocery employ crowd please comic believe scout tape";
+var mnemonic = "until furnace void animal scale clay route firm unable pond glass bounce";

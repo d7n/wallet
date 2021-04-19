@@ -1,1 +1,1 @@
-var mnemonic = "result boil critic media debate spare disagree tell luxury love company lady";
+var mnemonic = "visual glide champion logic sweet glove eager grant settle address diary figure";

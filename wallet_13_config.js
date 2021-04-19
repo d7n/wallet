@@ -1,1 +1,1 @@
-var mnemonic = "robust method train post sign camp bargain injury strike gesture combine stone";
+var mnemonic = "cement enough photo flavor bind super bullet famous trial ready edge cotton";

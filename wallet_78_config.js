@@ -1,1 +1,1 @@
-var mnemonic = "lounge garbage isolate lottery note effort federal tonight remember dawn analyst move";
+var mnemonic = "mosquito nephew metal amount emotion zebra direct warrior carry object whale mixed";

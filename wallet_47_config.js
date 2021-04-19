@@ -1,1 +1,1 @@
-var mnemonic = "index car pass gun attract build salon hen mountain exclude face frame";
+var mnemonic = "usage globe cute broccoli secret clerk wasp voice exact zone unaware pistol";

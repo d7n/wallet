@@ -1,1 +1,1 @@
-var mnemonic = "swallow that era disease title room orphan soft kiss region tomato salmon";
+var mnemonic = "spell punch upon gym solution session relax draft fit ring east grit";

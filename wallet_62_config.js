@@ -1,1 +1,1 @@
-var mnemonic = "win spot check seven whip primary tongue execute athlete copy foil tank";
+var mnemonic = "indoor expire chair inmate sheriff news click lyrics defense share faith guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "iron true toe apology rabbit achieve game talk control host uncover fiction";
+var mnemonic = "defense social sunny split rely motion iron print sea romance erosion close";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence neglect salmon bone survey prevent ancient silent pyramid gown genuine wealth";
+var mnemonic = "ritual music result load dust inch edge weasel cinnamon unhappy ball trumpet";

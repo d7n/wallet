@@ -1,1 +1,1 @@
-var mnemonic = "loan venue city question faith orphan razor rotate hip loop ethics vivid";
+var mnemonic = "chest reopen control caught dream clean dutch phrase pull kitchen bacon follow";

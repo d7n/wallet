@@ -1,1 +1,1 @@
-var mnemonic = "banana enough matter scan advance sign brief puzzle install rebuild surround hurt";
+var mnemonic = "afford movie push gentle finish affair such buddy manage ethics subject cruise";

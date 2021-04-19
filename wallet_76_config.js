@@ -1,1 +1,1 @@
-var mnemonic = "fossil lady immune august profit online ripple script man since box ancient";
+var mnemonic = "gun laugh invest brain glow kiss surprise finger strike success match aunt";

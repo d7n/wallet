@@ -1,1 +1,1 @@
-var mnemonic = "suit lamp round bone mimic float orient session label person wall bright";
+var mnemonic = "insect raw finish carbon pave slogan action sock destroy lecture cream female";

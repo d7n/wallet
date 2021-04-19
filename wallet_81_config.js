@@ -1,1 +1,1 @@
-var mnemonic = "moment divert job audit crane agree coral weapon acoustic arrest oil seminar";
+var mnemonic = "hammer wrist axis raccoon reform drift say approve dentist hedgehog test song";

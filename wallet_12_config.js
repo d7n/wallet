@@ -1,1 +1,1 @@
-var mnemonic = "there barely slender remember actor naive diet item polar economy glow head";
+var mnemonic = "cupboard float virtual switch route business series balance ahead flame garlic zero";

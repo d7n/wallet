@@ -1,1 +1,1 @@
-var mnemonic = "install aisle over junk sister boat wave above roast crouch miracle motion";
+var mnemonic = "bind giggle alcohol quick exit maple response egg ten abuse later amazing";

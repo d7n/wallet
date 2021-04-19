@@ -1,1 +1,1 @@
-var mnemonic = "awful shield stage hard spice radar salt fit lab girl penalty unusual";
+var mnemonic = "jaguar endorse sort business expect anger street shy tonight gun salad pioneer";

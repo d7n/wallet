@@ -1,1 +1,1 @@
-var mnemonic = "valid sorry wrong want vital copy left time decade bounce industry hip";
+var mnemonic = "soul safe detect solution general corn suffer pattern narrow script tray join";

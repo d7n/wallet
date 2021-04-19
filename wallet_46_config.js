@@ -1,1 +1,1 @@
-var mnemonic = "globe ask alcohol load increase seminar resource code leg soon peace praise";
+var mnemonic = "bless street taste brush liberty home dinosaur chair phone aerobic slow youth";

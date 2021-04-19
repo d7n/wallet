@@ -1,1 +1,1 @@
-var mnemonic = "hotel ride able marine connect junior unhappy meat chimney kit nurse wish";
+var mnemonic = "crash swarm iron post fire throw furnace excite spider indicate dinner rapid";

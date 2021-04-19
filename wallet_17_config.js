@@ -1,1 +1,1 @@
-var mnemonic = "tower picture health tank shallow atom legal then harvest kitchen cash proof";
+var mnemonic = "prison shoulder crew father kiss walnut fit polar air laundry horror gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "ski chapter minute fiscal much virus swear country base insane dignity ghost";
+var mnemonic = "manage large whip venue decline welcome miracle visual mix pear fault movie";

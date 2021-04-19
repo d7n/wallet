@@ -1,1 +1,1 @@
-var mnemonic = "oppose prepare master forest toward soldier feel brand supreme comic turkey pear";
+var mnemonic = "erosion symptom level snake section bulk boy drastic weasel leaf man panic";

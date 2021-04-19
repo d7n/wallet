@@ -1,1 +1,1 @@
-var mnemonic = "wet another hint oval piano badge lottery night garlic style steak require";
+var mnemonic = "crash excuse slim abandon chalk inspire wild price hand much minor isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier steel demise home umbrella escape suit tray square enlist tobacco inform";
+var mnemonic = "estate shadow item obtain season tip sting stage cattle put essay web";

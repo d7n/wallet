@@ -1,1 +1,1 @@
-var mnemonic = "section barrel material orphan remind brush polar cabin whisper fiction live window";
+var mnemonic = "water feel jacket gravity call shell cube example grief enact cook step";

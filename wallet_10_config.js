@@ -1,1 +1,1 @@
-var mnemonic = "garden chest lab tide wait orient shadow jelly fatal cotton cute spell";
+var mnemonic = "popular sense meadow two usual custom eyebrow trip rare negative crime sponsor";

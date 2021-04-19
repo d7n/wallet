@@ -1,1 +1,1 @@
-var mnemonic = "ugly reject garden book another there remember glow hard daring color clerk";
+var mnemonic = "remain trial broccoli model ancient dismiss stamp entry honey boring purpose labor";

@@ -1,1 +1,1 @@
-var mnemonic = "inside leave strong question country burst blame crouch since release vacuum burst";
+var mnemonic = "noise empty nation spy attend charge book verb lion network swim resist";

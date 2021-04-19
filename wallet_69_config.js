@@ -1,1 +1,1 @@
-var mnemonic = "drastic gold also stand approve ecology process future arrive emerge airport above";
+var mnemonic = "churn ketchup fade puppy stay hungry approve subject popular tongue crater drive";

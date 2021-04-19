@@ -1,1 +1,1 @@
-var mnemonic = "party modify cancel frog visit actual receive awesome canoe extra parent illegal";
+var mnemonic = "sunset wait defense damage bean snake typical balcony next alpha buyer three";

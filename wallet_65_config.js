@@ -1,1 +1,1 @@
-var mnemonic = "ability goose awake cage sure swamp rubber sense index key blush move";
+var mnemonic = "often grit shed genius cook manual force resemble vote dust smoke approve";

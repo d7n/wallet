@@ -1,1 +1,1 @@
-var mnemonic = "piano leave maple culture pave lobster deer leopard winter fox clap genius";
+var mnemonic = "mixture rain impose civil another hurry globe curve village ranch ice seven";

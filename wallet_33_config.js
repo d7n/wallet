@@ -1,1 +1,1 @@
-var mnemonic = "spy cluster aisle crush copy hawk canal slush human duty slide letter";
+var mnemonic = "bless midnight book hollow senior knock same loan enforce trust legal enact";

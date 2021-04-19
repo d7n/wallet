@@ -1,1 +1,1 @@
-var mnemonic = "case rigid practice demand parrot crush warrior coral height brave differ initial";
+var mnemonic = "slim dumb blind erosion balance orchard when recipe drop ice police inform";

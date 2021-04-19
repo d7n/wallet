@@ -1,1 +1,1 @@
-var mnemonic = "best amount churn grace same seven staff pretty outer diagram feed wheat";
+var mnemonic = "west imitate dust crater fix uncover flight noise cake friend girl dress";

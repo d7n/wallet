@@ -1,1 +1,1 @@
-var mnemonic = "ritual health suspect add exit twelve brand pumpkin route proof faint business";
+var mnemonic = "iron wrestle tortoise loan spin ball dutch opinion immense struggle still lake";

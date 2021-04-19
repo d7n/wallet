@@ -1,1 +1,1 @@
-var mnemonic = "unaware fuel wheel parent guard ozone tackle occur say never evil reason";
+var mnemonic = "march receive unhappy country business ramp sing doll valid grunt vapor snake";

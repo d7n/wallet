@@ -1,1 +1,1 @@
-var mnemonic = "term exclude exchange basket stool wreck either goat trigger lion setup calm";
+var mnemonic = "swear coil dragon blue parrot lobster frog breeze put viable choice nut";

@@ -1,1 +1,1 @@
-var mnemonic = "wear reflect false nose what secret nut barrel lawn craft pipe warm";
+var mnemonic = "torch argue ocean like elite tribe child tree assist parrot sight fantasy";

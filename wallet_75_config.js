@@ -1,1 +1,1 @@
-var mnemonic = "twenty solve mixture throw cover orient media letter rare scatter gadget rotate";
+var mnemonic = "organ cover below trial reveal gossip olive rifle illegal planet success route";

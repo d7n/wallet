@@ -1,1 +1,1 @@
-var mnemonic = "yellow vapor angry correct symptom pole census jeans gaze symptom inside bless";
+var mnemonic = "fire merry chalk chronic fitness only slender bring situate more census measure";

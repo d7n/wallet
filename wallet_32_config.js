@@ -1,1 +1,1 @@
-var mnemonic = "season wing hub social electric list exotic bleak coffee drastic icon corn";
+var mnemonic = "van dinner story guard aspect crack erosion owner tree nephew cage raccoon";

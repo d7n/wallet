@@ -1,1 +1,1 @@
-var mnemonic = "clown ridge apple hunt swallow legend jar kitten album receive bachelor month";
+var mnemonic = "daring twin day word income exist aspect dream fee debate gentle congress";

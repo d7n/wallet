@@ -1,1 +1,1 @@
-var mnemonic = "hamster weather effort hat rabbit cannon soccer uncover midnight robust camp act";
+var mnemonic = "liar medal legal indoor poet stand theory say tower pool alley soap";

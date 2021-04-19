@@ -1,1 +1,1 @@
-var mnemonic = "marine cousin flame birth clap please salute hurdle obtain essence moon owner";
+var mnemonic = "always into crazy artwork slush purse emerge beyond basket stone reject olympic";

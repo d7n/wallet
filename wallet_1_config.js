@@ -1,1 +1,1 @@
-var mnemonic = "appear same since regular flight know voyage shoot casino dad deposit rate";
+var mnemonic = "spoon milk blossom churn move olympic nasty shiver wool police fork leader";

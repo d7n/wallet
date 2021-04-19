@@ -1,1 +1,1 @@
-var mnemonic = "vacant thank oval holiday leisure phone clutch drip hip split weird logic";
+var mnemonic = "prevent bullet rib monster dance drill access proof repair room bridge rather";

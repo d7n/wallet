@@ -1,1 +1,1 @@
-var mnemonic = "horse loyal pepper nephew tenant glare dwarf prepare mimic fiscal gasp job";
+var mnemonic = "false company apple indicate canvas fatigue advice trim toward silent turtle radio";

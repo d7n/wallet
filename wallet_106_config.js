@@ -1,1 +1,1 @@
-var mnemonic = "east pull change ecology fun fashion opera spot electric polar collect improve";
+var mnemonic = "moon sponsor tomorrow comic owner scrub strong oblige clutch uphold dawn mango";

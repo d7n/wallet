@@ -1,1 +1,1 @@
-var mnemonic = "feature infant crane quote silent large together junior couple mountain work pulp";
+var mnemonic = "mansion pretty yellow chief ski member order bone bunker nation tooth whip";

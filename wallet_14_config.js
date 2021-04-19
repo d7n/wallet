@@ -1,1 +1,1 @@
-var mnemonic = "number mesh rely use much response attitude lemon fuel net sport light";
+var mnemonic = "sleep heavy cheap engine mix task coast kind fragile satisfy core traffic";

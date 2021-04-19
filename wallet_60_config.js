@@ -1,1 +1,1 @@
-var mnemonic = "month hair record chunk price verify dragon direct milk ripple end agree";
+var mnemonic = "apple bird vendor capable tunnel riot hundred wolf flock science assume adult";

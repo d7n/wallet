@@ -1,1 +1,1 @@
-var mnemonic = "grow assault whale jump exotic swap give priority elite quote drill snap";
+var mnemonic = "shy finger question income crowd garment roof math museum youth weekend quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "trend stamp civil genre jungle basic defy bind fold tomato bounce section";
+var mnemonic = "test people almost solar leader congress escape business town broccoli mutual such";

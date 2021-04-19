@@ -1,1 +1,1 @@
-var mnemonic = "cattle aware thing eyebrow denial core defense menu cabbage believe must immune";
+var mnemonic = "unable blouse half organ gravity report photo stadium box chapter basket abstract";

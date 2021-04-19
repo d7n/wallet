@@ -1,1 +1,1 @@
-var mnemonic = "regular wine tribe helmet project shrimp border sister resist close garlic fetch";
+var mnemonic = "bridge flower merry siege flip february morning chase analyst illegal laptop mention";

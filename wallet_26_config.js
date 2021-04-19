@@ -1,1 +1,1 @@
-var mnemonic = "shallow swing beef game have civil common clog such power wheat yellow";
+var mnemonic = "quit west genre hint random onion trick engine start bullet muffin loan";

@@ -1,1 +1,1 @@
-var mnemonic = "figure obtain immense side minute episode confirm wet hello clown foot also";
+var mnemonic = "day wheat usage repair consider park luxury arm smart cage frost electric";

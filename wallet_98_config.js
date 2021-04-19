@@ -1,1 +1,1 @@
-var mnemonic = "actress midnight team october garden flush hockey live lumber job reason plunge";
+var mnemonic = "cigar prize guitar motor fat depth accident rough relax carpet replace spread";
