@@ -1,1 +1,1 @@
-var mnemonic = "weird prevent evidence about spell wave runway bar cradle silly squeeze praise";
+var mnemonic = "because candy border stumble exit scheme random omit sure dinner outside child";

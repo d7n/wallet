@@ -1,1 +1,1 @@
-var mnemonic = "name sunny law proof spare crater village before old loud round patient";
+var mnemonic = "renew appear proof cry mushroom fire vanish fitness predict dinosaur autumn clay";

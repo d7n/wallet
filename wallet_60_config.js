@@ -1,1 +1,1 @@
-var mnemonic = "mesh build capital category door neither battle mammal shield circle minor coffee";
+var mnemonic = "lazy pudding ahead name wedding exhaust toddler eight volcano runway together story";

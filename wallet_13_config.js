@@ -1,1 +1,1 @@
-var mnemonic = "inflict evidence derive air payment obvious rubber hint penalty region vicious predict";
+var mnemonic = "arch vital penalty claw globe discover oil cactus surprise moment link video";

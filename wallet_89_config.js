@@ -1,1 +1,1 @@
-var mnemonic = "clean banner kitchen head bridge sound lock used foot reject chalk brown";
+var mnemonic = "tuna agree rose gun wet grant index infant car chalk decorate purity";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel chase twenty tongue noodle attend pen bind pencil blame impose radio";
+var mnemonic = "rescue wife picture proof timber public cupboard thought yellow survey access paper";

@@ -1,1 +1,1 @@
-var mnemonic = "box sort ankle lady settle thrive there giraffe tree deal climb crumble";
+var mnemonic = "guitar snow favorite play cash chat check skull warm bubble waste output";

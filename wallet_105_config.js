@@ -1,1 +1,1 @@
-var mnemonic = "angry thrive nut pact drill add segment hockey congress excess tortoise chalk";
+var mnemonic = "clean twist crucial track pair pen flavor slam lava wisdom pony culture";

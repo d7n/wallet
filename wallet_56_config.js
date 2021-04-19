@@ -1,1 +1,1 @@
-var mnemonic = "pilot will mixture poem spirit wing caution box jelly teach miracle advance";
+var mnemonic = "alert collect parrot guitar horn oxygen about champion hunt bike myself rich";

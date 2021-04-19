@@ -1,1 +1,1 @@
-var mnemonic = "eagle such ritual pyramid mansion ugly prison dose fancy trophy surge rookie";
+var mnemonic = "derive mention horn cage clarify knife rice cycle mean joke parrot cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "weird present twenty vivid liquid ordinary eye unveil purity clog brain tenant";
+var mnemonic = "eagle input rail order income between primary insect clerk panther degree snow";

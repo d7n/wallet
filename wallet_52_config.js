@@ -1,1 +1,1 @@
-var mnemonic = "laugh unknown churn iron foam candy best observe perfect muscle hunt horn";
+var mnemonic = "duck before glove cycle trouble expose session rubber size figure solar exhaust";

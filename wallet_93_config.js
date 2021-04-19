@@ -1,1 +1,1 @@
-var mnemonic = "swamp virtual fiber taste behind normal mimic general radio spell jacket chunk";
+var mnemonic = "harvest thought misery bitter matter gather pony merit shrug you daring online";

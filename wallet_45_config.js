@@ -1,1 +1,1 @@
-var mnemonic = "tornado buffalo raccoon inflict sister lava cotton cruel hard double level seat";
+var mnemonic = "never toddler turtle output hospital achieve urge stable tilt feel sword reward";

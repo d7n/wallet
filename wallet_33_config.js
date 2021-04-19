@@ -1,1 +1,1 @@
-var mnemonic = "borrow stumble security case squirrel card payment milk relax winter chief catch";
+var mnemonic = "miss between wall indoor radio park swear art hunt property make fee";

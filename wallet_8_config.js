@@ -1,1 +1,1 @@
-var mnemonic = "street chicken motor wood path news mammal bring apart vault kitten mandate";
+var mnemonic = "plastic false true print leisure super forget feed silver total flip abuse";

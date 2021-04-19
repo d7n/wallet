@@ -1,1 +1,1 @@
-var mnemonic = "march sample club poet cherry infant weapon card okay wise deer camera";
+var mnemonic = "exist marine cash unhappy sun cattle anger illness trust venture sugar jacket";

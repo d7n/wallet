@@ -1,1 +1,1 @@
-var mnemonic = "upper hurdle caught urge turtle sound forget account pink cement burden trick";
+var mnemonic = "version clay flower level image gauge allow genre key cheese carry floor";

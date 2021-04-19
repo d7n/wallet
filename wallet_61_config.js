@@ -1,1 +1,1 @@
-var mnemonic = "very envelope pigeon oppose embark member echo solid prison view police orbit";
+var mnemonic = "upgrade boring castle core area panic excuse enter enroll seek six misery";

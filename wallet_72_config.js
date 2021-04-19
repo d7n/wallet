@@ -1,1 +1,1 @@
-var mnemonic = "bubble priority capable diamond distance acoustic because tent wait level master cherry";
+var mnemonic = "solve shop fragile half rose invite quote shove phrase pupil input arm";

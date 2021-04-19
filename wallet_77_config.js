@@ -1,1 +1,1 @@
-var mnemonic = "affair catalog cushion maid green soft cube book social photo check peace";
+var mnemonic = "misery junior weather castle label decline shallow fault wave install match marriage";

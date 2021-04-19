@@ -1,1 +1,1 @@
-var mnemonic = "flight raw fine craft crew solar health canvas cherry eternal all trigger";
+var mnemonic = "observe diamond people dish ostrich detect rubber city alarm echo mass volume";

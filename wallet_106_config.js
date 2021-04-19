@@ -1,1 +1,1 @@
-var mnemonic = "excess cross melody camera upon wear gown error project turn fiscal auto";
+var mnemonic = "airport kick daughter pulp social plate common tongue extra enhance order captain";

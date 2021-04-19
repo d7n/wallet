@@ -1,1 +1,1 @@
-var mnemonic = "patient wire auto home canal only boss music owner hello vacant license";
+var mnemonic = "trust crew ethics suggest ridge forward embark chase tray toss jazz permit";

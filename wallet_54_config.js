@@ -1,1 +1,1 @@
-var mnemonic = "lumber ritual dust recipe empty siege express physical empty tortoise destroy hour";
+var mnemonic = "safe virus clock ocean search pause burst attend humor book drip melody";

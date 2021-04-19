@@ -1,1 +1,1 @@
-var mnemonic = "neck income orchard cook cheap asset fog there real mix improve client";
+var mnemonic = "salute muscle flight switch glare job fresh tornado eagle dismiss easy lend";

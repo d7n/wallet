@@ -1,1 +1,1 @@
-var mnemonic = "topple tree boil ill glove grid width glove combine correct grain brass";
+var mnemonic = "edge myth woman climb into frost basic apple chuckle mercy story solid";

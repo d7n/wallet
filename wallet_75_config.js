@@ -1,1 +1,1 @@
-var mnemonic = "below gossip need pepper critic balance wagon scheme close game fabric nut";
+var mnemonic = "way path typical possible friend daughter spawn soda ski squeeze note mix";

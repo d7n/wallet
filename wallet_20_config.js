@@ -1,1 +1,1 @@
-var mnemonic = "skull mechanic gas like educate notable slice wine click column grape matrix";
+var mnemonic = "tobacco mechanic sleep false hire fault again open romance garage virtual chaos";

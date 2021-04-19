@@ -1,1 +1,1 @@
-var mnemonic = "casual physical enroll purity inch usual license salmon hero evil nut audit";
+var mnemonic = "chalk source ride general canal sketch dry reform math search engine scorpion";

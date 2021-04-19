@@ -1,1 +1,1 @@
-var mnemonic = "legend pig unfair opinion slush supreme ahead frog reason knife custom economy";
+var mnemonic = "bus fall domain attitude enlist cruise ecology explain weapon left canyon rude";

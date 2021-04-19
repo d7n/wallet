@@ -1,1 +1,1 @@
-var mnemonic = "aspect sample clerk fruit purpose few jeans team satoshi snap public door";
+var mnemonic = "october all panther permit elite artist uncover stick magic pass fold behind";

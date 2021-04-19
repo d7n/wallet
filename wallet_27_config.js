@@ -1,1 +1,1 @@
-var mnemonic = "remember agent wheel liberty like patrol super mandate coin episode flash duck";
+var mnemonic = "luggage suit silver grunt else bunker sail note shell obvious spawn hand";

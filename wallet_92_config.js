@@ -1,1 +1,1 @@
-var mnemonic = "december focus door museum stamp talent hire crush evil sting leg unfold";
+var mnemonic = "indicate car round source season famous receive zoo major ordinary yellow jealous";

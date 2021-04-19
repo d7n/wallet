@@ -1,1 +1,1 @@
-var mnemonic = "coconut truth grab milk shop truth survey often refuse initial bundle bullet";
+var mnemonic = "asset orient sign receive hold bomb decade parade frown slight upper inform";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual grocery token dwarf plug protect angry dress alpha kitchen idea mean";
+var mnemonic = "size moral fold fitness harbor equip sea analyst color fabric turn convince";

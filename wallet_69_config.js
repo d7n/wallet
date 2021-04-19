@@ -1,1 +1,1 @@
-var mnemonic = "scare foster mystery color sauce inmate action coil term soccer thought midnight";
+var mnemonic = "lady aspect nation action say fish laugh rough boss reflect system walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "jar trap cereal black hurdle sauce twenty neck lady outdoor aim valid";
+var mnemonic = "hold spatial fury hospital advance mention blouse alcohol amount original combine deposit";

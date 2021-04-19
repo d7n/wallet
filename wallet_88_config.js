@@ -1,1 +1,1 @@
-var mnemonic = "also oyster cash toast short increase column earth neutral scatter inflict tiny";
+var mnemonic = "baby real enact flame elevator west sight erode off april cruise blanket";

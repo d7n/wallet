@@ -1,1 +1,1 @@
-var mnemonic = "dinner observe fringe gold blast method inch breeze error open deal chunk";
+var mnemonic = "during address panther junior exchange theme rocket truly harbor adapt talent lake";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey place beauty century april stomach town autumn sibling menu vendor under";
+var mnemonic = "impulse clip mixture armor adjust verb bullet chicken write weapon candy anxiety";

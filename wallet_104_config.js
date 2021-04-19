@@ -1,1 +1,1 @@
-var mnemonic = "cook tilt void bronze pond grant panther struggle snake episode rug glory";
+var mnemonic = "sentence recycle silent mom lizard switch east access pitch blur zoo abuse";

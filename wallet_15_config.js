@@ -1,1 +1,1 @@
-var mnemonic = "vendor open process multiply drift rebel boil best security shield build resist";
+var mnemonic = "right bachelor screen girl master reopen clog float exhaust strategy topple fence";

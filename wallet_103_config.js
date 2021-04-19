@@ -1,1 +1,1 @@
-var mnemonic = "term average brain review cloth reason lounge sunny piano pencil lucky abstract";
+var mnemonic = "dinosaur kit affair jealous happy involve oxygen unique note report excuse relax";

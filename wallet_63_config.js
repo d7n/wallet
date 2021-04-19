@@ -1,1 +1,1 @@
-var mnemonic = "crazy inch border need wait pipe midnight salt trend audit hurry observe";
+var mnemonic = "ski luggage message jewel diary bleak miss cotton moment exchange oil auto";

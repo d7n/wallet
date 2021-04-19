@@ -1,1 +1,1 @@
-var mnemonic = "dog furnace shop dish fit emerge warrior monkey cigar stomach expose danger";
+var mnemonic = "inflict suit pipe income tell kit shoulder manage bind entry describe safe";

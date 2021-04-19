@@ -1,1 +1,1 @@
-var mnemonic = "layer coach crowd act plastic dial never diary letter tomorrow history disorder";
+var mnemonic = "original usage piano special lava library punch all giraffe distance damp razor";

@@ -1,1 +1,1 @@
-var mnemonic = "base machine giraffe category lab broom brisk stairs chef fog afford frame";
+var mnemonic = "laugh distance chicken immense engage chair hedgehog wing observe position move lottery";

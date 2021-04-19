@@ -1,1 +1,1 @@
-var mnemonic = "group protect dentist peasant stomach wish amazing ginger setup inflict tape air";
+var mnemonic = "acquire urban client gift hold satoshi father move skin velvet equip february";

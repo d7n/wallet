@@ -1,1 +1,1 @@
-var mnemonic = "first lottery gauge federal lawn grit green feed curve mimic enter similar";
+var mnemonic = "reason volume airport merit upon mutual mixed night fat warfare ocean shop";

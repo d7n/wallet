@@ -1,1 +1,1 @@
-var mnemonic = "wish secret cricket gift cream achieve solution employ panic cruel neck hard";
+var mnemonic = "planet dad canal whisper post eight street hidden verb nuclear season case";

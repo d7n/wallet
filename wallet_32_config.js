@@ -1,1 +1,1 @@
-var mnemonic = "defense stairs tail icon near brown festival deny merry office avocado whip";
+var mnemonic = "host organ deputy bus pole rigid book chapter marble faint gas motion";

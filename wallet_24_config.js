@@ -1,1 +1,1 @@
-var mnemonic = "edit toddler lake change rescue reject donkey tumble hobby boy police oyster";
+var mnemonic = "sense interest move fame feel luxury wire picture glove faint kitchen south";

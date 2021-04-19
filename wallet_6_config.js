@@ -1,1 +1,1 @@
-var mnemonic = "same mixed demise rare tribe certain expose sell option edit bounce actual";
+var mnemonic = "solution emerge face forum project rack genuine proud awake photo loan century";

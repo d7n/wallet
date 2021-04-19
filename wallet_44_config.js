@@ -1,1 +1,1 @@
-var mnemonic = "glide pass slice online universe ordinary rich fruit flight neck wing job";
+var mnemonic = "armor lion sphere lunar equal liar disagree short clock critic baby radar";

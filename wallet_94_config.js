@@ -1,1 +1,1 @@
-var mnemonic = "silk episode sleep safe job bullet aware moon car liar track outer";
+var mnemonic = "rice notice stuff project orange ordinary nothing glass lecture pear myself sort";

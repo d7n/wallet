@@ -1,1 +1,1 @@
-var mnemonic = "town screen wise memory answer busy canal hazard farm timber captain dog";
+var mnemonic = "stay often junior struggle note clay film impact token slim swear party";

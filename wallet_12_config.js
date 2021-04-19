@@ -1,1 +1,1 @@
-var mnemonic = "loyal outer parrot boost adjust force acquire identify bottom shaft kiss october";
+var mnemonic = "govern artist sure fish breeze inside buzz vehicle cupboard fossil hire alter";

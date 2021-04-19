@@ -1,1 +1,1 @@
-var mnemonic = "segment measure peasant vital purse quality script slide best movie army wing";
+var mnemonic = "wire ready scrap skill name midnight forget firm tide afraid muffin possible";

@@ -1,1 +1,1 @@
-var mnemonic = "bind trial salon beyond pudding cup wheat slim provide traffic onion people";
+var mnemonic = "equip tide memory muscle eager tissue lucky door muscle album material apple";

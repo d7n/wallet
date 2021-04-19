@@ -1,1 +1,1 @@
-var mnemonic = "argue suit broken turn end search opera canyon pudding gentle bread wild";
+var mnemonic = "essence idle road shove palace nominee bottom quote square car wine organ";

@@ -1,1 +1,1 @@
-var mnemonic = "danger woman leopard demise effort wink oxygen multiply art hammer crew job";
+var mnemonic = "giraffe away shadow corn body orphan example weather trouble grief length vibrant";

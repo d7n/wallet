@@ -1,1 +1,1 @@
-var mnemonic = "adult ugly merry slam bamboo dentist audit aisle trust salon margin danger";
+var mnemonic = "lion raccoon inhale tackle picture define genre early begin bag month deposit";

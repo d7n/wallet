@@ -1,1 +1,1 @@
-var mnemonic = "purchase avoid frozen mobile wool ritual sniff myth train guitar trash great";
+var mnemonic = "dash hub hover only flat just vast idle axis plate need large";

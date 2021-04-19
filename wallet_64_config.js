@@ -1,1 +1,1 @@
-var mnemonic = "board worry just heavy hybrid retreat key bachelor inmate unfold general sign";
+var mnemonic = "cricket response police book ivory flip piano grant boil zone cinnamon tree";

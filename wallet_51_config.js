@@ -1,1 +1,1 @@
-var mnemonic = "guide jacket injury balcony buyer swear shift man ready reflect ball army";
+var mnemonic = "anxiety thank design horn trouble medal regret joke angle horn notable flower";

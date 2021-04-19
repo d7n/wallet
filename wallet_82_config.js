@@ -1,1 +1,1 @@
-var mnemonic = "squeeze round olive warrior labor maze pave crime route mass add must";
+var mnemonic = "sock garlic choice quote route provide flat spoil aware exchange execute dumb";

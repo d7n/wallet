@@ -1,1 +1,1 @@
-var mnemonic = "heart chaos duty phone despair skirt match donate video butter tornado undo";
+var mnemonic = "decade turn route tomorrow dumb slight caution salmon year resource rapid diary";

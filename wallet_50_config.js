@@ -1,1 +1,1 @@
-var mnemonic = "view vacuum enrich fat position slogan post horn palm begin panel comfort";
+var mnemonic = "hawk suspect owner swim turtle party diagram curve wise siren bar half";

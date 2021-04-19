@@ -1,1 +1,1 @@
-var mnemonic = "tool distance soda length iron notice inside sign salad praise shy math";
+var mnemonic = "mansion federal follow sunset best violin slam egg shield planet seminar market";

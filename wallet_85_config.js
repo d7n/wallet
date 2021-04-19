@@ -1,1 +1,1 @@
-var mnemonic = "only solar city parade click discover domain kangaroo deer anchor flame pear";
+var mnemonic = "answer loyal battle movie crack hope pigeon trophy rocket critic kingdom moon";

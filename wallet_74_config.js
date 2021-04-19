@@ -1,1 +1,1 @@
-var mnemonic = "eight float coral height angle blame snow hold convince width track safe";
+var mnemonic = "away thunder daring rug about benefit you audit divert achieve couch such";

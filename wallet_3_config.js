@@ -1,1 +1,1 @@
-var mnemonic = "room can ripple avoid chest trouble until brisk fiber hold filter south";
+var mnemonic = "shine allow bunker laptop rain survey donor diamond auto glance sadness ordinary";

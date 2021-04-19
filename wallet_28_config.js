@@ -1,1 +1,1 @@
-var mnemonic = "sponsor review dentist metal asset you lunch ridge label roast peanut swallow";
+var mnemonic = "mom idea good adult theory damp fall blossom thank hurry rebel congress";

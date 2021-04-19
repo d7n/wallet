@@ -1,1 +1,1 @@
-var mnemonic = "today dry soda beef coil apart hurt liberty stove high damage power";
+var mnemonic = "pool heavy fiber door project polar cushion obscure crop math isolate lake";

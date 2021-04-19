@@ -1,1 +1,1 @@
-var mnemonic = "become describe wedding repair tumble tomato fever wedding phone mechanic prison scout";
+var mnemonic = "require demand search vivid light orchard style type lady chimney sight patrol";

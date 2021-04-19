@@ -1,1 +1,1 @@
-var mnemonic = "remove monkey volume welcome neck appear weird tortoise rabbit cereal sell scrap";
+var mnemonic = "dry behave case pet before suspect cement husband black virtual core size";

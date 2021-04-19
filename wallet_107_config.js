@@ -1,1 +1,1 @@
-var mnemonic = "omit another essay island armed flower hand goose program subject thumb mandate";
+var mnemonic = "raven guide correct secret shadow cricket drastic stadium pool they alarm bullet";

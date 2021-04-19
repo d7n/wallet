@@ -1,1 +1,1 @@
-var mnemonic = "shop they thrive boy action rate staff curious dwarf pledge next make";
+var mnemonic = "atom squirrel burst advance educate squeeze thought attend badge student portion snow";

@@ -1,1 +1,1 @@
-var mnemonic = "hub aisle slush point kind mistake open isolate round excite husband purity";
+var mnemonic = "rely aunt clinic correct proud brass mixed rabbit order demise sport favorite";

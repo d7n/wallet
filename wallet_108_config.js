@@ -1,1 +1,1 @@
-var mnemonic = "viable yard already head initial engage notable toy famous clog heart person";
+var mnemonic = "bronze cushion index destroy void two myself assist coconut food ordinary tennis";

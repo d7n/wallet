@@ -1,1 +1,1 @@
-var mnemonic = "nation adapt chuckle muffin shop illegal mixed vivid lazy snow midnight absurd";
+var mnemonic = "cruel good chaos acid ability pizza silent until anger oppose skull flock";

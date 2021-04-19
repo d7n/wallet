@@ -1,1 +1,1 @@
-var mnemonic = "trouble notable work flush mail slight hedgehog cigar lab tuition gloom sand";
+var mnemonic = "quit leader circle cradle deputy moment vintage connect over subject praise once";

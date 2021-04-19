@@ -1,1 +1,1 @@
-var mnemonic = "kidney random current upon castle tunnel festival disorder swallow shuffle foil grass";
+var mnemonic = "offer skirt dirt farm casual enforce veteran citizen certain thunder real security";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery twelve antique address cheap slot carpet put obvious visit dry will";
+var mnemonic = "phone liar raw design extra reflect thank apple library banner arm invite";

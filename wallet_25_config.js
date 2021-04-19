@@ -1,1 +1,1 @@
-var mnemonic = "final dinner program flip false owner milk item begin guide size mansion";
+var mnemonic = "web empower hammer zoo nerve hurdle acid satoshi rabbit rally slight jazz";

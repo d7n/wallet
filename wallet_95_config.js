@@ -1,1 +1,1 @@
-var mnemonic = "innocent whisper play couch sphere about endorse cargo chimney globe away syrup";
+var mnemonic = "code spoil auction still vital network spoil mouse loop mother increase scan";

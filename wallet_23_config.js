@@ -1,1 +1,1 @@
-var mnemonic = "federal prevent salmon obvious maid error distance lumber program slight scrub ill";
+var mnemonic = "slight ball alley layer hand around dwarf act crunch frog forum bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "seat goose scare awesome ship wasp sunny apple stadium manage cement bag";
+var mnemonic = "shield bench priority float own cigar unable primary quote slow raise siege";

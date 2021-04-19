@@ -1,1 +1,1 @@
-var mnemonic = "arrest inherit spring example lobster matter trick hospital carbon celery label skill";
+var mnemonic = "brown undo popular target vague window boy before tunnel goddess clean concert";

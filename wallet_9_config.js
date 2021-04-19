@@ -1,1 +1,1 @@
-var mnemonic = "pet eternal over garbage volcano solar scissors armor exchange monster earth hotel";
+var mnemonic = "ghost trend open truck shine bid rhythm begin catch hair tribe ceiling";

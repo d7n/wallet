@@ -1,1 +1,1 @@
-var mnemonic = "choose garage extend awake jealous indicate pyramid input strong direct guess basket";
+var mnemonic = "clay frog banner bottom flower rate park engage cost keep army domain";

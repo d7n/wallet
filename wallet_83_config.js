@@ -1,1 +1,1 @@
-var mnemonic = "pilot mutual sponsor hold essence priority wage recipe brass since access decade";
+var mnemonic = "super clever bus canvas advice dance pipe talent snow wreck check happy";

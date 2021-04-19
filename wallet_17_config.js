@@ -1,1 +1,1 @@
-var mnemonic = "affair skirt neutral machine better seek comic until tenant fantasy hockey polar";
+var mnemonic = "slush behind save level exit nephew hazard elephant weird cube outdoor rookie";

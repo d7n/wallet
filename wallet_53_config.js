@@ -1,1 +1,1 @@
-var mnemonic = "charge short never extend between spike release stumble core agree exhibit strategy";
+var mnemonic = "deposit twist work imitate child health wrestle join tip lazy club whisper";
