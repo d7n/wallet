@@ -1,1 +1,1 @@
-var mnemonic = "empty abstract thumb wet code question unfold deposit vote mouse rule legend";
+var mnemonic = "cash vacuum tent travel merit session liberty menu genuine guilt news guilt";

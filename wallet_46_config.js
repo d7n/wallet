@@ -1,1 +1,1 @@
-var mnemonic = "eye visa shadow mammal wagon current neither toward turkey slice budget post";
+var mnemonic = "bridge other tackle village claim tuna engage minor possible oyster knee island";

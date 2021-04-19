@@ -1,1 +1,1 @@
-var mnemonic = "crisp hammer crash advance forget retreat radio library kingdom bind awesome butter";
+var mnemonic = "awesome year balcony funny mule shove carry pumpkin level tape bone rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch puzzle cliff fix month second sibling forum job pigeon funny mutual";
+var mnemonic = "disease hold detect lunch surprise metal exchange repeat tray fabric cake inmate";

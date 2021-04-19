@@ -1,1 +1,1 @@
-var mnemonic = "student volume equal document demise flip economy truck ski lift route one";
+var mnemonic = "ordinary hello fine claw clock fury midnight venue inquiry stock speed exotic";

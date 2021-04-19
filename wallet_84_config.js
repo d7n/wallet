@@ -1,1 +1,1 @@
-var mnemonic = "desert thrive tuition length afford join solid heavy dish crater sunny poet";
+var mnemonic = "net target people hood pumpkin exist team prepare bunker combine afraid deliver";

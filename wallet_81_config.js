@@ -1,1 +1,1 @@
-var mnemonic = "arrow adapt question eyebrow flash permit wink usage forward fluid cook cotton";
+var mnemonic = "cook famous dumb oval above blouse regret private rhythm best paddle annual";

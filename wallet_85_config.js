@@ -1,1 +1,1 @@
-var mnemonic = "satisfy increase butter forget about suit capital pole observe autumn dress giggle";
+var mnemonic = "dilemma doctor sound mixed radio core have receive search piece shallow moral";

@@ -1,1 +1,1 @@
-var mnemonic = "stool hotel hunt skirt regular wash perfect rule lawn wagon push balcony";
+var mnemonic = "fun exist tourist field next teach daughter marriage caught industry manual pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff must shop medal orchard gown almost empower gasp inspire winter course";
+var mnemonic = "right junior hidden unaware nurse certain shoe shaft crouch embrace resource health";

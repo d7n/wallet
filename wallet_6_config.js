@@ -1,1 +1,1 @@
-var mnemonic = "exhaust muffin spatial sorry dinosaur monster market animal sing chase bright solid";
+var mnemonic = "thing arrest envelope dog raise taxi pause giggle series tattoo badge bonus";

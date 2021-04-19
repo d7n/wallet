@@ -1,1 +1,1 @@
-var mnemonic = "original field law ahead cost question arena patch gym coral useful off";
+var mnemonic = "labor employ poverty blush august paddle oblige wish solar elite tennis bean";

@@ -1,1 +1,1 @@
-var mnemonic = "during bench future wear two age educate online jacket agent day usual";
+var mnemonic = "panic menu spider scale gasp hobby celery dune trap walnut organ nerve";

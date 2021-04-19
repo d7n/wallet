@@ -1,1 +1,1 @@
-var mnemonic = "birth miracle mercy vapor mosquito arena liberty flavor later turtle broccoli film";
+var mnemonic = "total own report warfare journey dog vanish ozone regular puppy code swift";

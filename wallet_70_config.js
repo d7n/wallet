@@ -1,1 +1,1 @@
-var mnemonic = "donor green blood infant dolphin pluck sign nerve human hybrid retreat color";
+var mnemonic = "find identify rude weather debate real almost guilt short still other raw";

@@ -1,1 +1,1 @@
-var mnemonic = "else supply wonder link surge drop differ buzz satisfy lumber action flush";
+var mnemonic = "search swing forget one once rug cook broken artwork profit family volume";

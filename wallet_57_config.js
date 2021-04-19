@@ -1,1 +1,1 @@
-var mnemonic = "employ essence august adult join quote squeeze recall cost talent tumble pipe";
+var mnemonic = "urge direct blood twice rather neither wash series inject word stone police";

@@ -1,1 +1,1 @@
-var mnemonic = "addict buddy kiss canoe symbol hazard bubble strike asset job coyote same";
+var mnemonic = "host cruise winner artist carpet lift purse parrot laugh train lemon clump";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt shoe laugh fold remain pumpkin near slot polar naive speak whisper";
+var mnemonic = "afraid total copper twin desk hen eager fat useless apple crucial gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "pony dynamic amazing light drill gaze crumble addict tape talent grit phone";
+var mnemonic = "barely vicious possible rug emerge wet dizzy like process reject immense pair";

@@ -1,1 +1,1 @@
-var mnemonic = "audit mammal entire distance visual together globe amount slight suggest around size";
+var mnemonic = "pottery laundry snap rocket client pave make cherry stadium advance always electric";

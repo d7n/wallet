@@ -1,1 +1,1 @@
-var mnemonic = "unveil phone bronze armed pudding snow order debris novel swamp pioneer island";
+var mnemonic = "prepare body kitten whale polar cargo safe antique burden romance join knee";

@@ -1,1 +1,1 @@
-var mnemonic = "loud slot please like ski either bottom tone soup deputy company copper";
+var mnemonic = "organ exact remind fault saddle glow adult music web stem cigar earth";

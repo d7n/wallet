@@ -1,1 +1,1 @@
-var mnemonic = "erupt wool phone flock discover proof parent rural table erosion scrub borrow";
+var mnemonic = "upper before exact display valve zero tone ticket woman fluid uniform taste";

@@ -1,1 +1,1 @@
-var mnemonic = "glad exist welcome midnight ancient wink imitate mouse silk derive head catalog";
+var mnemonic = "ramp crack rent visual bind sustain clock caught margin manual riot brown";

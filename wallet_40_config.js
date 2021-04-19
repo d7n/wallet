@@ -1,1 +1,1 @@
-var mnemonic = "athlete humble inflict monitor drive finish repair connect desert beauty sunny digital";
+var mnemonic = "grape muscle innocent sport excuse bonus return either flower tiger immune resist";

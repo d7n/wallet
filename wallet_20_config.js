@@ -1,1 +1,1 @@
-var mnemonic = "badge uphold welcome mesh journey divorce owner web fun always radar document";
+var mnemonic = "foster hungry prize tank zoo test buddy either finish lounge title atom";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas choose fresh scrub color rabbit attract leader amazing cliff hair rely";
+var mnemonic = "insane head joke notice useless volume candy firm onion crouch bid tunnel";

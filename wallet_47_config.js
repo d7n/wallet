@@ -1,1 +1,1 @@
-var mnemonic = "earth receive naive save budget lamp frost become have glance actor gospel";
+var mnemonic = "ancient grow hybrid lazy tent term bench beauty panther garage aspect rapid";

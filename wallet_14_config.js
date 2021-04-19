@@ -1,1 +1,1 @@
-var mnemonic = "corn gasp drive badge cart entry collect dream stairs raccoon avoid strategy";
+var mnemonic = "hero close concert choose rival bridge amused evidence reject gesture leader beyond";

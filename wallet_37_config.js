@@ -1,1 +1,1 @@
-var mnemonic = "harvest disagree action now nothing swift solid firm galaxy silk pistol scale";
+var mnemonic = "firm write icon divert simple play mango solid advice trigger kitchen grab";

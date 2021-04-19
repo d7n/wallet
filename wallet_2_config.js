@@ -1,1 +1,1 @@
-var mnemonic = "oblige tattoo marriage cabbage verb brain fun method awkward notable bonus pepper";
+var mnemonic = "nut regret guide source stable dog fix urban table whisper cheap paper";

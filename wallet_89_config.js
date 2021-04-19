@@ -1,1 +1,1 @@
-var mnemonic = "alcohol tilt organ key spike cook wagon lift ankle monitor slight crucial";
+var mnemonic = "earth butter main icon boat surface patient regret basic syrup turtle like";

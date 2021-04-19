@@ -1,1 +1,1 @@
-var mnemonic = "resist dry emerge afraid target enroll vanish renew electric loan wool travel";
+var mnemonic = "taxi fragile travel forum cactus extra craft source museum copy erase rebuild";

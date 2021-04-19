@@ -1,1 +1,1 @@
-var mnemonic = "cabin minimum bubble perfect pilot maze warm outdoor bar waste believe mixed";
+var mnemonic = "they lizard sort refuse account canoe feel shaft search antique message job";

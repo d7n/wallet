@@ -1,1 +1,1 @@
-var mnemonic = "nuclear large garage fiber need orient victory april brain farm car add";
+var mnemonic = "trend enforce recipe repeat release device apology upon capable lobster common raise";

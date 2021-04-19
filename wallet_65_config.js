@@ -1,1 +1,1 @@
-var mnemonic = "tool seminar coach bomb involve danger assist paddle silver betray clump profit";
+var mnemonic = "aware coral flower divide act unfair destroy educate click travel reduce develop";

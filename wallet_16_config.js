@@ -1,1 +1,1 @@
-var mnemonic = "enter myth minor void tongue derive course party bicycle differ sword luxury";
+var mnemonic = "radio unhappy drama frequent drink depth warrior material across outside glue spend";

@@ -1,1 +1,1 @@
-var mnemonic = "high wrap exclude phone name long level senior below sight father theory";
+var mnemonic = "luxury glance tattoo grit upper punch peasant diary ramp misery prize exit";

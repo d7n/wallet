@@ -1,1 +1,1 @@
-var mnemonic = "theory elite visit inherit stove stomach exhaust awake close fence coin include";
+var mnemonic = "drastic toss young rally wool hand upgrade sing twin oven glide void";

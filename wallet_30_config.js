@@ -1,1 +1,1 @@
-var mnemonic = "wall segment that rubber increase bounce farm birth task level plastic dice";
+var mnemonic = "earth balcony acoustic awake album cry verify valley radio depth frozen grab";

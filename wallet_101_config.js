@@ -1,1 +1,1 @@
-var mnemonic = "blade approve certain raven sign gossip patrol find radio village coach sugar";
+var mnemonic = "regular pattern olympic actor firm dignity naive regular thing label shove move";

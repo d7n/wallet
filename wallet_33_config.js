@@ -1,1 +1,1 @@
-var mnemonic = "vibrant ethics word athlete cherry night feed sail wrestle wonder shop scrap";
+var mnemonic = "cabbage hotel tent act aim clean frozen gate camera mystery middle used";

@@ -1,1 +1,1 @@
-var mnemonic = "learn day tackle mercy shock enact guess disease quality rather fat one";
+var mnemonic = "actor deal process settle sketch job crawl glide pyramid spare fame deal";

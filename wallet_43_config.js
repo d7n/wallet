@@ -1,1 +1,1 @@
-var mnemonic = "wild proof urban pause valid purpose pause gate ensure long ordinary seven";
+var mnemonic = "paddle aerobic palace device sorry screen tuition maple culture orient portion cake";

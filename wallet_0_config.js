@@ -1,1 +1,1 @@
-var mnemonic = "dutch copy process disorder eagle gossip drip pudding ignore obscure twenty similar";
+var mnemonic = "toe grid detail damage jealous brother okay search garlic unhappy sock matrix";

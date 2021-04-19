@@ -1,1 +1,1 @@
-var mnemonic = "kit recipe panda rival join whisper bullet hood labor couch furnace arrange";
+var mnemonic = "remind initial word beyond diary useless eagle exotic cluster atom picnic busy";

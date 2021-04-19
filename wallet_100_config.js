@@ -1,1 +1,1 @@
-var mnemonic = "jealous cheese father notice deny trophy airport mask tornado nut judge produce";
+var mnemonic = "spot kite lawsuit lounge term hat wasp student repeat awake have summer";

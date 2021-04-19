@@ -1,1 +1,1 @@
-var mnemonic = "wedding image unhappy end lecture buyer rabbit outdoor spirit bring pencil boat";
+var mnemonic = "tuna skate gift bounce stove script search speed gate science vault kind";

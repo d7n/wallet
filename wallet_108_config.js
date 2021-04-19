@@ -1,1 +1,1 @@
-var mnemonic = "clever owner pride direct brick now real resource penalty bleak fruit sadness";
+var mnemonic = "monkey unusual potato olive popular cradle hybrid problem fox script weasel nephew";

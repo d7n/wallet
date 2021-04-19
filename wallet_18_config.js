@@ -1,1 +1,1 @@
-var mnemonic = "exit glow cupboard apology voyage blanket leisure emotion fit impose kind brief";
+var mnemonic = "shadow job census praise spread zone wool elder topple later burden method";

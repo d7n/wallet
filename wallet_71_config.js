@@ -1,1 +1,1 @@
-var mnemonic = "desert pottery orphan stable dune scout faint axis pear paper gauge coconut";
+var mnemonic = "island stove correct copper inquiry come welcome program rule design paper raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "alien paddle rely turtle visual ask casual symptom token pen little barrel";
+var mnemonic = "owner dinner any series also whip pyramid quarter fortune chef leg stem";

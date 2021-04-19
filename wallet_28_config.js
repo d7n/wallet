@@ -1,1 +1,1 @@
-var mnemonic = "latin either undo border vault edge surface cream follow orange life include";
+var mnemonic = "organ square napkin upon robust identify average index soup heart sibling jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "design noise fragile industry attitude canyon suspect again focus gallery trade make";
+var mnemonic = "jazz visual control major path card wealth kind glow river false silent";

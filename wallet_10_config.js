@@ -1,1 +1,1 @@
-var mnemonic = "roof rifle decorate disease scheme vibrant arena divide hundred exhaust morning merit";
+var mnemonic = "ice step trick minor thank glow repeat blur blush feed acquire purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth define call income crowd buyer spot phone crew struggle engine foam";
+var mnemonic = "swift hollow power edge worth embark apart various nation comfort silver carbon";

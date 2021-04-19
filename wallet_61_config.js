@@ -1,1 +1,1 @@
-var mnemonic = "glance file much canoe rude turtle primary capital put borrow honey stool";
+var mnemonic = "guilt donor quarter sausage erosion quit quantum dwarf spray pluck inch inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "such test illness fade broccoli boring fix mad sea such attract bullet";
+var mnemonic = "grant ostrich all vendor income suspect raccoon cinnamon mad suffer birth year";

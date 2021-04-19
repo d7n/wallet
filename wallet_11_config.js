@@ -1,1 +1,1 @@
-var mnemonic = "talent wonder situate foam explain model fix ensure feel trophy spike olive";
+var mnemonic = "observe pumpkin company pill couple isolate desert report space lend any share";

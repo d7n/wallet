@@ -1,1 +1,1 @@
-var mnemonic = "abstract clinic kid clay loop seed industry solve turtle shy comfort vessel";
+var mnemonic = "culture omit valid pizza retire access giant upset coach join inhale weekend";

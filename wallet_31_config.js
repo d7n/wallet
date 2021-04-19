@@ -1,1 +1,1 @@
-var mnemonic = "lottery final gown machine hen zone artwork spatial lucky aunt bitter regret";
+var mnemonic = "pistol exist tuition cherry industry tomato warrior hire scene ability very dad";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bag century air decade acoustic drum unlock ramp cup session spread";
+var mnemonic = "start feel imitate rough hobby decorate raccoon vicious vessel target pyramid congress";

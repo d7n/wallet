@@ -1,1 +1,1 @@
-var mnemonic = "hire nuclear chase choose faith quarter cliff economy alcohol limb safe note";
+var mnemonic = "lens dust other initial upgrade hood person ball basket music hamster memory";

@@ -1,1 +1,1 @@
-var mnemonic = "income salon occur transfer amount sauce accident cover fish segment mutual diet";
+var mnemonic = "fragile rude boy pepper range gather banner minute pig finish update achieve";

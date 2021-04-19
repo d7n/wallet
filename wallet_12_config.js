@@ -1,1 +1,1 @@
-var mnemonic = "planet decrease robot situate throw engine labor gossip alien must topple hire";
+var mnemonic = "share zoo romance defense bar century sense walk letter crew weapon behave";

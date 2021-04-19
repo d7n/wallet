@@ -1,1 +1,1 @@
-var mnemonic = "drink train card unusual winter soap provide adult solution cheap vessel success";
+var mnemonic = "pottery smart gift innocent vote caution great ice pool cry comic noble";

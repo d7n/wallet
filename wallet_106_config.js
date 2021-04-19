@@ -1,1 +1,1 @@
-var mnemonic = "east monkey large story divide bleak found guard scheme rather dirt trouble";
+var mnemonic = "lunch abstract sample grunt mango candy forget subway unfair chair transfer only";

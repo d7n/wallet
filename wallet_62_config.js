@@ -1,1 +1,1 @@
-var mnemonic = "involve urban twice among road quit purpose guess cross midnight monkey source";
+var mnemonic = "dog concert enjoy cluster move away sleep topple outdoor hidden jealous change";

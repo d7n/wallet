@@ -1,1 +1,1 @@
-var mnemonic = "deputy pelican menu crop hub below cancel motor toilet crop reflect join";
+var mnemonic = "scrap forward pottery borrow shove ice fence enrich earth enable weekend swap";

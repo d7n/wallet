@@ -1,1 +1,1 @@
-var mnemonic = "eight life window blossom only beef cabbage blossom family street concert erase";
+var mnemonic = "indicate cabbage thunder mother cram draw scene vapor six offer typical cupboard";

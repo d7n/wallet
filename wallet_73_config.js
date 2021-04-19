@@ -1,1 +1,1 @@
-var mnemonic = "breeze unveil element citizen just elder program total thought citizen member juice";
+var mnemonic = "area pepper main reflect advance win spare merry chief phone annual bus";

@@ -1,1 +1,1 @@
-var mnemonic = "slice member biology omit series clutch avocado garage battle ripple marine unit";
+var mnemonic = "across stereo mass admit outer divert bicycle jaguar magnet student universe purity";

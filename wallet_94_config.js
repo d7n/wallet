@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur quality record salmon salt royal physical summer oval need grab ensure";
+var mnemonic = "coast artefact then spread appear main misery defy appear race echo arrange";

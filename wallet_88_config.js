@@ -1,1 +1,1 @@
-var mnemonic = "tip scheme vast pony miracle scout frame early student razor clerk march";
+var mnemonic = "click pelican wink dry push bunker torch disorder image loop breeze insect";

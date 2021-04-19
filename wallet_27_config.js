@@ -1,1 +1,1 @@
-var mnemonic = "identify cereal promote marine lend ritual bleak latin plate zoo vanish reason";
+var mnemonic = "nominee coil noise dice knock round guitar imitate pretty tenant festival vivid";

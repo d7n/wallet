@@ -1,1 +1,1 @@
-var mnemonic = "end piece tuna wreck resemble filter relief master leaf arch lucky shed";
+var mnemonic = "rib unusual voice hunt trial fatal arrive ride account sad second erupt";

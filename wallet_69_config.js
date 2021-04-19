@@ -1,1 +1,1 @@
-var mnemonic = "clean daring problem replace velvet dress seed vessel middle field wall ramp";
+var mnemonic = "source remind dumb rigid book also slide hollow glass explain space pipe";

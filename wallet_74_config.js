@@ -1,1 +1,1 @@
-var mnemonic = "deposit local romance arctic start ritual puppy fault crash title plastic live";
+var mnemonic = "element rebel mirror force load donor layer gallery memory candy sport very";

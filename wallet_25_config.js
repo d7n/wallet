@@ -1,1 +1,1 @@
-var mnemonic = "train fix cook extra rescue smile direct office march bulb castle identify";
+var mnemonic = "quarter flat laundry letter bulk skate decline mimic gather bag patch license";

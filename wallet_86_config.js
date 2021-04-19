@@ -1,1 +1,1 @@
-var mnemonic = "aware monitor garment few under document blanket brick quiz wagon normal amateur";
+var mnemonic = "harvest merit welcome soldier connect bonus love viable fiber cute drastic immune";

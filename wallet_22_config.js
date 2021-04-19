@@ -1,1 +1,1 @@
-var mnemonic = "impulse bench account park rain such question couch bitter develop dry member";
+var mnemonic = "churn wolf film horn lucky jungle receive income barely among hedgehog web";

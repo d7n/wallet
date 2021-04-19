@@ -1,1 +1,1 @@
-var mnemonic = "lend copper chicken check reopen indicate primary puzzle link debris average universe";
+var mnemonic = "gold tone decade conduct tip gown truly magic actual virtual smooth grass";

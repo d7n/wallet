@@ -1,1 +1,1 @@
-var mnemonic = "end few motion oyster vital man uniform fatigue toast swarm nominee when";
+var mnemonic = "buddy window find calm clog power forest girl sting guess flip series";

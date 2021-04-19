@@ -1,1 +1,1 @@
-var mnemonic = "gather end obtain pond net cluster join horror solid toast meadow produce";
+var mnemonic = "engage language curtain pause body possible current ginger success utility define wool";

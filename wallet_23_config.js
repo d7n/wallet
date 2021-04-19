@@ -1,1 +1,1 @@
-var mnemonic = "bounce hungry company mad symbol vocal fitness demand palace kitchen frost false";
+var mnemonic = "club chapter box vacuum improve plastic pretty seven milk web reject call";

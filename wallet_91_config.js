@@ -1,1 +1,1 @@
-var mnemonic = "powder federal stairs cherry notice melt gown blue drift text usage bargain";
+var mnemonic = "detect shallow soccer together east zero produce access auction ugly true board";

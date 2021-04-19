@@ -1,1 +1,1 @@
-var mnemonic = "already people crouch access letter theme scan short scissors opera airport corn";
+var mnemonic = "defense assume heavy bargain grocery life clay spell fashion gesture roof sea";
