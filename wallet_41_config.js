@@ -1,1 +1,1 @@
-var mnemonic = "renew glass learn sand vehicle notice culture illness favorite coconut artefact danger";
+var mnemonic = "error market walnut supreme exit infant barrel casino pottery trouble blossom across";

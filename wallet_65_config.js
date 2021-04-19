@@ -1,1 +1,1 @@
-var mnemonic = "shoot skirt whale slogan profit cake owner now size civil kangaroo option";
+var mnemonic = "flag strike keen hair brown hospital aunt dirt write tobacco annual spoil";

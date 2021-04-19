@@ -1,1 +1,1 @@
-var mnemonic = "resource injury clinic century side dune quarter title summer merge maid skirt";
+var mnemonic = "apple have side blur kiss cluster nurse syrup ready solid ancient cactus";

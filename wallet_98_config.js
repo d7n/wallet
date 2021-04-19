@@ -1,1 +1,1 @@
-var mnemonic = "valve bench state foster thunder forget tonight truth glance goddess salt affair";
+var mnemonic = "sock option cotton daughter vivid muffin shallow multiply couple click latin rescue";

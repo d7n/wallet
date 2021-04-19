@@ -1,1 +1,1 @@
-var mnemonic = "person slam okay senior cloud evidence umbrella door cancel immense only ring";
+var mnemonic = "quick toe crane unaware voyage height chunk tourist work labor subject naive";

@@ -1,1 +1,1 @@
-var mnemonic = "dial camera mesh own kick multiply cushion blue citizen loud vast breeze";
+var mnemonic = "volcano police dilemma phrase cinnamon boil wave normal near enough fury attract";

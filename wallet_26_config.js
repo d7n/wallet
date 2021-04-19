@@ -1,1 +1,1 @@
-var mnemonic = "marble problem boring whale addict exotic custom favorite love milk lunar warm";
+var mnemonic = "equip claim purse ugly priority help divert analyst again blossom crisp noble";

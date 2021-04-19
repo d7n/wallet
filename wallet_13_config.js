@@ -1,1 +1,1 @@
-var mnemonic = "pipe sock antenna kidney rifle dolphin wreck refuse unfold chaos seek grow";
+var mnemonic = "stuff panel under session recycle two sail female ship bid orchard bridge";

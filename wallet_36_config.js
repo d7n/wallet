@@ -1,1 +1,1 @@
-var mnemonic = "gap wrist cart level village remember abandon fortune tilt comfort royal chat";
+var mnemonic = "zoo sister pig climb roof potato friend emerge mirror recall staff cannon";

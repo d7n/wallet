@@ -1,1 +1,1 @@
-var mnemonic = "seminar action ski valley stomach cereal west renew rocket tray police design";
+var mnemonic = "upon gossip symptom bitter emotion document sauce misery between budget lyrics old";

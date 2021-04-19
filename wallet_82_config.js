@@ -1,1 +1,1 @@
-var mnemonic = "core regular wealth source capital panda chair large force tiny cruise city";
+var mnemonic = "gallery promote fatigue sketch dish egg fiber garlic pact ozone object about";

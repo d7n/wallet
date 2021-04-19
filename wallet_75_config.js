@@ -1,1 +1,1 @@
-var mnemonic = "crush inch virtual lab metal audit old van immune transfer lottery march";
+var mnemonic = "kidney muffin dry vanish whale acoustic food february moon alone double joy";

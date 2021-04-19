@@ -1,1 +1,1 @@
-var mnemonic = "tribe beef expect ankle blame dice minute risk banner ketchup good change";
+var mnemonic = "color love napkin detail live broom leaf logic switch acoustic pig myself";

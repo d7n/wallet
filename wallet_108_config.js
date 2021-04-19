@@ -1,1 +1,1 @@
-var mnemonic = "flock arena coach earth portion roast toy detect father hidden tuna tortoise";
+var mnemonic = "large faint blind thing copy burden harvest curve agree equal vivid fall";

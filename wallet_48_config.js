@@ -1,1 +1,1 @@
-var mnemonic = "settle blanket push donate salad sketch rate tide uniform announce small oyster";
+var mnemonic = "share misery luggage answer connect side horror report outer room brother more";

@@ -1,1 +1,1 @@
-var mnemonic = "web sleep excess bronze purse whale noble symptom piano carbon heart tuna";
+var mnemonic = "isolate example whisper hurry bicycle script health reject jungle blast roast purpose";

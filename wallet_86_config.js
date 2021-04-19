@@ -1,1 +1,1 @@
-var mnemonic = "small extra sock powder axis wedding consider camera slab leg daughter sad";
+var mnemonic = "cream maid history hen sure offer pear math place enter payment transfer";

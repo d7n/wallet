@@ -1,1 +1,1 @@
-var mnemonic = "swallow turkey tired pony youth uphold swing group estate keen suffer spy";
+var mnemonic = "nerve squeeze mask remain success chalk bonus onion memory forum nice rally";

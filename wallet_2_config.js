@@ -1,1 +1,1 @@
-var mnemonic = "omit squeeze major miss gravity mirror funny dinner accident earth fold funny";
+var mnemonic = "honey always ankle upper lemon random light tape high scale width remain";

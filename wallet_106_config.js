@@ -1,1 +1,1 @@
-var mnemonic = "explain meadow drop salmon decrease minimum cup west mass issue decline print";
+var mnemonic = "suggest fancy jar neither hammer slush abstract shy fire nation six guard";

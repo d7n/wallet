@@ -1,1 +1,1 @@
-var mnemonic = "spring badge device crazy trust brown account ethics true ginger august repeat";
+var mnemonic = "rate tooth face dizzy garment addict glow behind yard strike screen kid";

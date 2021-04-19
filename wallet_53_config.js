@@ -1,1 +1,1 @@
-var mnemonic = "impact ill expect blind home security smart lecture tired bounce short same";
+var mnemonic = "total true fox flag direct unhappy defy injury mention stand search dust";

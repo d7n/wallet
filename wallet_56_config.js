@@ -1,1 +1,1 @@
-var mnemonic = "dry fence frozen crew city mad tip gate cabbage spread outdoor jaguar";
+var mnemonic = "spice tank drip stem charge text stage figure author decorate matrix three";

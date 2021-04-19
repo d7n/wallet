@@ -1,1 +1,1 @@
-var mnemonic = "trigger glow dice tiger rare news anxiety replace butter fee hybrid vote";
+var mnemonic = "inject trade outer wreck abstract poem access genre ill other dumb outdoor";

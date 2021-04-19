@@ -1,1 +1,1 @@
-var mnemonic = "gesture imitate humble vital earn coil evoke armor cat glare fever common";
+var mnemonic = "country soap pony basket come evil balance talent reflect quick travel render";

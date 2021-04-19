@@ -1,1 +1,1 @@
-var mnemonic = "ceiling reject vendor cupboard start sphere muscle same frozen round surprise runway";
+var mnemonic = "sadness owner hurdle flush cactus that salt cross gaze undo stumble act";

@@ -1,1 +1,1 @@
-var mnemonic = "brother lizard recipe purchase gadget rally share document silly fury mansion jeans";
+var mnemonic = "guitar pyramid clip spend tackle grape want clutch great cave strategy valve";

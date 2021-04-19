@@ -1,1 +1,1 @@
-var mnemonic = "forget time shift describe pencil usual cable frame wealth elder cruel erase";
+var mnemonic = "walnut over swear razor joy swamp media forward ready race syrup boil";

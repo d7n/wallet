@@ -1,1 +1,1 @@
-var mnemonic = "drill earth admit ladder bleak spoon spatial square brand noble boring clerk";
+var mnemonic = "you amused alert ankle visit negative moon neglect april nephew stable life";

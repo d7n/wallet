@@ -1,1 +1,1 @@
-var mnemonic = "shrug exchange fancy click smooth never danger buffalo oven melody hip clown";
+var mnemonic = "lens theme silly act zero cat keep rhythm company cruel loop chapter";

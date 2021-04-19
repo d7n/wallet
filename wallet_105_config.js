@@ -1,1 +1,1 @@
-var mnemonic = "regular media route leg cannon whisper peace dizzy scene jeans beef cart";
+var mnemonic = "mechanic almost fever fetch domain fade ability picnic edit erupt minor settle";

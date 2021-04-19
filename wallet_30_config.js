@@ -1,1 +1,1 @@
-var mnemonic = "inner marriage inquiry urban kidney human rather machine measure nurse produce critic";
+var mnemonic = "drip recycle imitate destroy mistake describe option remember step spell way stool";

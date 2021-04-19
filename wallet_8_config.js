@@ -1,1 +1,1 @@
-var mnemonic = "odor wide race master maid pencil swim vicious box fix flight connect";
+var mnemonic = "draw split gaze beauty badge caught speak year news hurry tobacco pulse";

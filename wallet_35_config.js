@@ -1,1 +1,1 @@
-var mnemonic = "teach unfold fantasy lamp barely witness patient knife belt bottom apart foot";
+var mnemonic = "minor device solve slight nuclear secret today label student merry cannon decide";

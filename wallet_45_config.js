@@ -1,1 +1,1 @@
-var mnemonic = "together noise asthma prevent night rent suit hint infant whale naive wagon";
+var mnemonic = "upset wedding unable tree fish ignore hip rib gold chest empty ride";

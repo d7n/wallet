@@ -1,1 +1,1 @@
-var mnemonic = "chunk collect duty crowd require diamond initial maximum staff devote evolve drum";
+var mnemonic = "dove blind circle antique employ amount airport rack bar option giant armor";

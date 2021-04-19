@@ -1,1 +1,1 @@
-var mnemonic = "sport milk angle misery only educate deputy symbol there flip record blossom";
+var mnemonic = "diagram mad field suit volcano gorilla lake tribe ice differ tonight few";

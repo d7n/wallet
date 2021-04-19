@@ -1,1 +1,1 @@
-var mnemonic = "notable slim wolf verify safe color museum tail clutch broccoli culture wedding";
+var mnemonic = "strike pink become paper elbow power recall amazing person buyer monitor upon";

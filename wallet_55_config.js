@@ -1,1 +1,1 @@
-var mnemonic = "sport ladder fantasy tenant thought lady hobby tiny lumber lift analyst verb";
+var mnemonic = "gym prize wide online vacuum half clip anchor actor what combine case";

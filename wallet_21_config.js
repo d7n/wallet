@@ -1,1 +1,1 @@
-var mnemonic = "industry barrel hello crater review reduce manage track announce arena obey casual";
+var mnemonic = "ivory solution idea trial carpet jeans curve fuel whip quality try valid";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt square favorite wife long rocket brick flee crunch slot start medal";
+var mnemonic = "hybrid napkin middle grab miracle toy layer fox laptop fine flavor civil";

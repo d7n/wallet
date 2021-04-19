@@ -1,1 +1,1 @@
-var mnemonic = "silver wife essence exhaust enlist connect inflict tuition simple seek devote link";
+var mnemonic = "other reopen pluck quarter naive sea hope maze nephew funny weekend genius";

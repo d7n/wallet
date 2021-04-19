@@ -1,1 +1,1 @@
-var mnemonic = "panther check uphold chair plate drop visual deputy urban such appear minimum";
+var mnemonic = "extra holiday border tennis olympic speed lesson enact film satisfy dynamic tiger";

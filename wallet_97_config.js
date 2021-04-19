@@ -1,1 +1,1 @@
-var mnemonic = "ketchup scrub actress text catalog imitate blossom oil addict total mobile decade";
+var mnemonic = "frog menu tone sweet ready will critic safe voice resource fantasy fault";

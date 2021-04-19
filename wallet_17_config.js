@@ -1,1 +1,1 @@
-var mnemonic = "cradle mistake broken method ocean inner camera area learn payment hour naive";
+var mnemonic = "lecture drift army record talent gallery tired frown where end between ankle";

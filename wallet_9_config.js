@@ -1,1 +1,1 @@
-var mnemonic = "blind scene early human height pigeon there combine expire minute toe similar";
+var mnemonic = "chalk wing legal swim balcony farm tourist stove exhaust good predict clay";

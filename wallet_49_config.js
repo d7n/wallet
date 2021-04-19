@@ -1,1 +1,1 @@
-var mnemonic = "mango outdoor chicken use neither wrap brave surface matrix unveil regular gravity";
+var mnemonic = "flush village fire pride brave basket mass mushroom push wolf retreat convince";

@@ -1,1 +1,1 @@
-var mnemonic = "okay term magic believe duty toilet wagon trend spike air luxury yellow";
+var mnemonic = "ice zone candy figure flock open garlic chat gesture comfort absent stairs";

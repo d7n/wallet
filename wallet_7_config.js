@@ -1,1 +1,1 @@
-var mnemonic = "toss depth sphere run scrub jar lamp mixed sail someone usual copper";
+var mnemonic = "empty remain december speed skin grab peasant lyrics antenna orchard ribbon rude";

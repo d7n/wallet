@@ -1,1 +1,1 @@
-var mnemonic = "aim execute burden scorpion end pause toy left debris sound hint cradle";
+var mnemonic = "resource record world wood enhance arm vital attract stumble muscle traffic plastic";

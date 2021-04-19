@@ -1,1 +1,1 @@
-var mnemonic = "ramp shift medal crater sight tourist brother scorpion token observe sport sentence";
+var mnemonic = "good appear practice author oxygen august token mass receive memory kitchen cool";

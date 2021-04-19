@@ -1,1 +1,1 @@
-var mnemonic = "day comfort tennis piece awesome dust solve over wish silk mad hour";
+var mnemonic = "curtain tattoo else shrug enemy doll element afraid pupil gaze layer beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "front medal sad record shock joke express phrase occur merit shrimp result";
+var mnemonic = "during cycle column fade speed mention phrase lens churn burger iron bulb";

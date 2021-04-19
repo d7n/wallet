@@ -1,1 +1,1 @@
-var mnemonic = "festival dynamic vessel alone alley high juice young summer pencil swing lion";
+var mnemonic = "always blade top glide nasty base visit mouse table obtain pipe name";

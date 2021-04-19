@@ -1,1 +1,1 @@
-var mnemonic = "welcome olympic pledge crucial fragile pony song venture danger update loyal velvet";
+var mnemonic = "hair title rifle short level life visit affair slight aisle window vague";

@@ -1,1 +1,1 @@
-var mnemonic = "renew cigar arrive swing example mystery floor abstract stereo size skin indoor";
+var mnemonic = "bind adult amount accident private firm quote emerge release submit smart october";

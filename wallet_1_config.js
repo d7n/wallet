@@ -1,1 +1,1 @@
-var mnemonic = "negative spice night elephant ten label flower direct title leaf umbrella bike";
+var mnemonic = "green verb bridge concert slice settle wonder bitter oval moral uniform antique";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor season roast segment pretty nerve execute double people tackle journey daring";
+var mnemonic = "shell enable tail morning oven boat lens chimney flash kangaroo tortoise load";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair proud mercy elegant amount grant current huge ladder wage observe swallow";
+var mnemonic = "home mirror critic flight tomorrow forget curve mention ripple soldier logic extra";

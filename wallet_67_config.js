@@ -1,1 +1,1 @@
-var mnemonic = "vast slot settle twelve cement verify great movie imitate coach ill shove";
+var mnemonic = "donkey evidence obvious table ancient renew civil rhythm salmon trigger manage you";

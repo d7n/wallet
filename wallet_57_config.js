@@ -1,1 +1,1 @@
-var mnemonic = "access spirit naive video fall tree nest moral nasty strategy typical luxury";
+var mnemonic = "arena few other venue immense quarter verb eight father cram vacuum annual";

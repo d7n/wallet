@@ -1,1 +1,1 @@
-var mnemonic = "weather debris market around scorpion wear deliver elder husband trade next surprise";
+var mnemonic = "year dice cargo zone segment thunder bread ensure egg problem mirror visa";

@@ -1,1 +1,1 @@
-var mnemonic = "select cube alcohol daughter coast measure clutch rocket hen mail gallery doctor";
+var mnemonic = "hawk present green analyst climb follow dance assist gate park april leader";

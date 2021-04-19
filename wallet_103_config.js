@@ -1,1 +1,1 @@
-var mnemonic = "hair slow vast quick merge nice tone ticket amazing custom invest view";
+var mnemonic = "cube hover grief flame carpet sunny skill drop peace humble property rapid";

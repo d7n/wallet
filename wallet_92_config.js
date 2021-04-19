@@ -1,1 +1,1 @@
-var mnemonic = "aware total excess bronze hole enable zone life project daughter fancy cover";
+var mnemonic = "case cash lecture taxi blind toward asset neck idle session ten nominee";

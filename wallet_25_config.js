@@ -1,1 +1,1 @@
-var mnemonic = "mansion bar fork medal prefer tornado father ancient off harsh attack gorilla";
+var mnemonic = "gospel creek fee vague genuine major choice inherit toddler head jelly uncle";

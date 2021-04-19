@@ -1,1 +1,1 @@
-var mnemonic = "memory clinic display correct chase twice alter drop type kitten question park";
+var mnemonic = "drill canal crumble rule maple aim language buyer nation hat spot update";

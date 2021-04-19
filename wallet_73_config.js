@@ -1,1 +1,1 @@
-var mnemonic = "crunch cage miss improve two between brass immense end dentist palace pet";
+var mnemonic = "horn license pelican odor hobby gentle main cost message yellow burst rigid";

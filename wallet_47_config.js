@@ -1,1 +1,1 @@
-var mnemonic = "grass aware erupt prison grocery ancient there client pill brown differ stem";
+var mnemonic = "daring frog hood gown bulb park soldier lens stadium gorilla power size";

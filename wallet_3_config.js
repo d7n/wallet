@@ -1,1 +1,1 @@
-var mnemonic = "almost earth bid throw shield stove sure firm amused twice proof ice";
+var mnemonic = "immune trim bleak humor pass enable bus banner proof lab else nose";

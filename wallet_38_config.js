@@ -1,1 +1,1 @@
-var mnemonic = "still predict orchard laptop cook alert only cereal this escape agent fire";
+var mnemonic = "cargo typical where able tip pistol adjust lab icon woman leopard zebra";

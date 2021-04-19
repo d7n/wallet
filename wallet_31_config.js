@@ -1,1 +1,1 @@
-var mnemonic = "matter dynamic piece bicycle gift latin crew artist chase ecology valid talk";
+var mnemonic = "edge laugh elephant over dog favorite love undo demise stereo hood meadow";

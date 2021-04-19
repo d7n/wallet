@@ -1,1 +1,1 @@
-var mnemonic = "news frost profit unaware peasant indicate world frog bargain aware slim rival";
+var mnemonic = "ordinary goose child average palm grain relax lab picnic aspect divorce crack";

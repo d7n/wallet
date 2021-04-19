@@ -1,1 +1,1 @@
-var mnemonic = "hope where call jelly dwarf wheel radar tired mean weapon carry home";
+var mnemonic = "slide flight lamp cotton aim horn merge over situate meadow stomach balcony";

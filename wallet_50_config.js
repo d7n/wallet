@@ -1,1 +1,1 @@
-var mnemonic = "finish rookie unit turtle rural lawn dream regular clog skull repeat tattoo";
+var mnemonic = "fee toy turkey anxiety nominee typical jeans brother apple dismiss win gentle";

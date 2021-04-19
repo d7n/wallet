@@ -1,1 +1,1 @@
-var mnemonic = "grain shy cart remember upon ticket twice knife guess permit deposit annual";
+var mnemonic = "note horse either bonus color man energy subject insane shell antenna abuse";

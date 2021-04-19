@@ -1,1 +1,1 @@
-var mnemonic = "basket addict wealth waste nice praise door convince morning culture crush reform";
+var mnemonic = "bean crew depend myth wood topple wine impulse patient wagon obey domain";

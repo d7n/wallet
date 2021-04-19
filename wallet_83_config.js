@@ -1,1 +1,1 @@
-var mnemonic = "retire dawn joke window right whisper object ankle climb era cotton plunge";
+var mnemonic = "draft alien interest margin demise enter measure field virtual prize virus ancient";

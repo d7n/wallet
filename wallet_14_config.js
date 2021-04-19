@@ -1,1 +1,1 @@
-var mnemonic = "knee view cover round client link jacket list solve lawsuit sword furnace";
+var mnemonic = "bitter asthma space cannon art crush echo hidden spend opinion scissors feature";

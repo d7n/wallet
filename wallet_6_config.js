@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tackle labor strong viable design trip letter senior excite coil account";
+var mnemonic = "unknown remember steak face soul toss affair cousin someone later kitchen balance";

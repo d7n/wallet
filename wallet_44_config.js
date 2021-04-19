@@ -1,1 +1,1 @@
-var mnemonic = "delay forest wink leg food together clown pyramid stereo lend fat middle";
+var mnemonic = "problem execute uniform very issue blind ivory frequent force income tenant member";

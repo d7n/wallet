@@ -1,1 +1,1 @@
-var mnemonic = "upper cause neither figure alert summer mistake frame sun prize island security";
+var mnemonic = "day retire liquid car warrior wine million rain gallery toy chalk space";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty giggle spawn achieve inner lamp squeeze owner donkey obey ocean keep";
+var mnemonic = "buddy nation display dolphin special survey casual metal artefact truly erupt current";

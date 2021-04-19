@@ -1,1 +1,1 @@
-var mnemonic = "same digital rival domain fly void intact ensure snack border novel trap";
+var mnemonic = "angry alarm illegal ignore soldier glimpse leg online jelly joy save together";

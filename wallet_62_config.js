@@ -1,1 +1,1 @@
-var mnemonic = "bid dove spice fog media area target version ocean penalty race glide";
+var mnemonic = "unveil middle dish sock mansion ship cash core alien gospel say stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar auto ask love toast now copy agent library consider reason blush";
+var mnemonic = "bleak wall kitchen cry trend true mule child desert sock detail above";

@@ -1,1 +1,1 @@
-var mnemonic = "banana liar swing cry penalty day voyage switch wedding toe fiscal width";
+var mnemonic = "develop depth sniff curious march unveil broken tongue uniform glance empty gossip";

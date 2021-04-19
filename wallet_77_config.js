@@ -1,1 +1,1 @@
-var mnemonic = "distance food scrap margin margin alpha any faith inject hero fork celery";
+var mnemonic = "mention bracket side moon air alert noodle obvious also secret insect saddle";

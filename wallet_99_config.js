@@ -1,1 +1,1 @@
-var mnemonic = "gold broom trumpet supreme surround fame helmet glare narrow old hill sugar";
+var mnemonic = "amused smooth flush subject february permit maple top capital gossip duck giant";

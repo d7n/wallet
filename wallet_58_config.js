@@ -1,1 +1,1 @@
-var mnemonic = "venture load pitch tongue check inherit insect fame iron air develop main";
+var mnemonic = "flush wheat half rally brisk dynamic model vendor local trophy fiber want";
