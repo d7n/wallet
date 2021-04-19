@@ -1,1 +1,1 @@
-var mnemonic = "pond rain october lounge faculty tenant family stool thank scatter decide version";
+var mnemonic = "lens uncle neutral upset define lake funny anchor reduce involve dentist blame";

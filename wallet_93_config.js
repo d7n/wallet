@@ -1,1 +1,1 @@
-var mnemonic = "approve elephant scene copper resemble enjoy message tobacco outside inhale flush check";
+var mnemonic = "educate alter champion blouse dice door craft tonight nature latin gun process";

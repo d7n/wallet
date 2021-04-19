@@ -1,1 +1,1 @@
-var mnemonic = "tattoo ride net dune bargain item artwork decline despair camera pill aspect";
+var mnemonic = "hazard pudding scorpion sound drop photo come shoot reduce mixed false excite";

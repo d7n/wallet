@@ -1,1 +1,1 @@
-var mnemonic = "spice purchase style help mesh father current copy mistake border dignity render";
+var mnemonic = "catalog spatial nut way prevent deny stable mask twenty vocal law cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon cart double comfort tilt aspect jump hood embark pizza paper company";
+var mnemonic = "palace travel detail raven young mobile memory strike whisper juice gas merge";

@@ -1,1 +1,1 @@
-var mnemonic = "wool jump survey travel edit divert shoe scatter idea potato security ripple";
+var mnemonic = "welcome sibling ticket lawsuit virus drastic grocery scrap add depend goat artwork";

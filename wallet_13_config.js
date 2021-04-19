@@ -1,1 +1,1 @@
-var mnemonic = "trust tuna cry frozen trade vault nominee country capital merit top fall";
+var mnemonic = "install empower shine buyer future surface toilet reopen body path syrup mesh";

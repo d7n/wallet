@@ -1,1 +1,1 @@
-var mnemonic = "loyal salmon accuse noise snake day type parade paddle history spoil stable";
+var mnemonic = "dish tomato dinner debris about word current dry toddler make life treat";

@@ -1,1 +1,1 @@
-var mnemonic = "legend sign require buddy leaf critic stage place camp rely vanish advance";
+var mnemonic = "dismiss wonder february arena globe inflict clock elite genius figure parade episode";

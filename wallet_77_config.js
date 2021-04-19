@@ -1,1 +1,1 @@
-var mnemonic = "thing service invest announce together clock soft balance civil hair caught stem";
+var mnemonic = "salmon web smart twist dove street suit soon similar scout alert gravity";

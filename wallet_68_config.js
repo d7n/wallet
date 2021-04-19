@@ -1,1 +1,1 @@
-var mnemonic = "member script buddy sand exotic patch travel cabbage rigid simple size rescue";
+var mnemonic = "scorpion teach arm tumble tornado indoor sudden piece tent shoulder nest jacket";

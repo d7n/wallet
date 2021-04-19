@@ -1,1 +1,1 @@
-var mnemonic = "october torch exact club maid decrease act funny toast invest battle ramp";
+var mnemonic = "quarter fade helmet guard absent pistol truth destroy yard table solid tiger";

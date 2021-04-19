@@ -1,1 +1,1 @@
-var mnemonic = "cliff hockey shield brisk sword lady strike various govern travel over actual";
+var mnemonic = "security globe code sauce cushion spell wrap more name forward blouse jewel";

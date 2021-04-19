@@ -1,1 +1,1 @@
-var mnemonic = "unit enact exact switch chaos clock fit armed name sick plug aim";
+var mnemonic = "car worry diagram gun reunion awesome jeans coyote mention priority oak gas";

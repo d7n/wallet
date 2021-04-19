@@ -1,1 +1,1 @@
-var mnemonic = "hat smile doll letter rocket clerk nasty royal design glance shoulder fetch";
+var mnemonic = "angle eyebrow festival prefer weird spoon bomb will leader analyst cloth useful";

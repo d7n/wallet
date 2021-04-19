@@ -1,1 +1,1 @@
-var mnemonic = "swear hello flock nation hurt inch oak orbit athlete awkward bench radar";
+var mnemonic = "divide balance corn what satisfy advice point spy health swallow enough skin";

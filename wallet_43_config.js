@@ -1,1 +1,1 @@
-var mnemonic = "maximum poet decrease volume coast life oak evil defy hundred hidden vibrant";
+var mnemonic = "isolate common lady almost chief truly east capital limb rocket shrug base";

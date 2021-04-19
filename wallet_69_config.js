@@ -1,1 +1,1 @@
-var mnemonic = "drink eye muscle north rare sound debris weekend someone give vendor spare";
+var mnemonic = "rain shadow someone galaxy tray source crop soda annual street palm life";

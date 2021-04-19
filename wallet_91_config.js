@@ -1,1 +1,1 @@
-var mnemonic = "shoot attract elegant protect skull pledge bulk trade lobster shrimp spring defy";
+var mnemonic = "economy orchard road cereal wine vehicle sphere siren ability spend kidney intact";

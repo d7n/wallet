@@ -1,1 +1,1 @@
-var mnemonic = "harsh motion reveal panel spray click edge eagle trash latin twist industry";
+var mnemonic = "slide expose city appear ball business garbage fox helmet kick cart ticket";

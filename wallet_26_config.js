@@ -1,1 +1,1 @@
-var mnemonic = "milk guard legend rate script dentist mimic view sport will rice vicious";
+var mnemonic = "perfect special wisdom box hello simple master snap lonely merit water bronze";

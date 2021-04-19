@@ -1,1 +1,1 @@
-var mnemonic = "fresh early athlete venture oak subject noise pistol animal true valley prize";
+var mnemonic = "inside price flock flat achieve taste whip scrub glad tribe daughter misery";

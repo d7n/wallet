@@ -1,1 +1,1 @@
-var mnemonic = "catch sheriff spatial happy correct rally more review ahead alter craft village";
+var mnemonic = "solve bleak way emerge truth egg legal chunk cargo artefact arrive noise";

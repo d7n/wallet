@@ -1,1 +1,1 @@
-var mnemonic = "festival sustain slab code vehicle security add file famous basic filter bundle";
+var mnemonic = "grape among hold truth exotic comic silk spot until cotton human change";

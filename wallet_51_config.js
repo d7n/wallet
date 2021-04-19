@@ -1,1 +1,1 @@
-var mnemonic = "dismiss delay very about math flush west expose drop book shoe denial";
+var mnemonic = "pulp legal shrug obey party firm sniff slow tuition limb camp flash";

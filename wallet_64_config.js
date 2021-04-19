@@ -1,1 +1,1 @@
-var mnemonic = "focus horror vote century story glimpse physical swap banner regular throw anchor";
+var mnemonic = "arrest gap hawk tattoo unknown federal rate document float find minute infant";

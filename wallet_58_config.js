@@ -1,1 +1,1 @@
-var mnemonic = "project aunt search display unable catch chicken ugly caution gesture flight jar";
+var mnemonic = "feed shrug rent public tent wrist civil glare exclude blanket elder violin";

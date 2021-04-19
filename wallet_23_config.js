@@ -1,1 +1,1 @@
-var mnemonic = "stumble twenty frame web arrow orbit piece large marriage enemy pill attack";
+var mnemonic = "book donor lab wash walnut scan year sail pole happy grocery cluster";

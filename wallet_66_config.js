@@ -1,1 +1,1 @@
-var mnemonic = "curve inch bleak autumn idea cattle erosion runway sunset security heart wall";
+var mnemonic = "warfare photo unit final crane talent auto clever want whale sock nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "digital bag oak range lava stay couch decide stone uncle october replace";
+var mnemonic = "engage addict volume water orange mask arctic alpha clever anger federal sunset";

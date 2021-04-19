@@ -1,1 +1,1 @@
-var mnemonic = "filter minute odor magnet sing install lonely today miracle soldier want sponsor";
+var mnemonic = "onion pony laptop prevent body quantum bomb royal acoustic between pluck first";

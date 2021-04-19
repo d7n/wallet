@@ -1,1 +1,1 @@
-var mnemonic = "van cube another legend inside oven weather shell erosion hope aspect pluck";
+var mnemonic = "sure venture nose jazz crucial advance sausage sentence trophy reduce easy earn";

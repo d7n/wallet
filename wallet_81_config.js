@@ -1,1 +1,1 @@
-var mnemonic = "intact benefit mobile donkey picture burst such interest veteran acoustic uniform lesson";
+var mnemonic = "cotton long horn victory glow sand soon left drop assault trim job";

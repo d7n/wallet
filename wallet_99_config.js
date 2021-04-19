@@ -1,1 +1,1 @@
-var mnemonic = "glow wolf nest buffalo travel more nose anxiety sugar about feel blush";
+var mnemonic = "rookie flag feel whip between loan like render easy tape retreat flight";

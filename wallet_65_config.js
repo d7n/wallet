@@ -1,1 +1,1 @@
-var mnemonic = "veteran tumble soap nose oven call recall wild wine radio village detail";
+var mnemonic = "intact still weapon install real slim rib dirt soccer journey trash lion";

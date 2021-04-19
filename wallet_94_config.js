@@ -1,1 +1,1 @@
-var mnemonic = "near barrel decide absent cousin winter turtle live proud deal next boring";
+var mnemonic = "hospital opera hip top differ boat romance describe list kind face neglect";

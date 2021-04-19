@@ -1,1 +1,1 @@
-var mnemonic = "drama winner decide radio during drift page number amount lens screen spoil";
+var mnemonic = "describe child divorce equip luxury loop coach dynamic joy weapon slice faith";

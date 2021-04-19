@@ -1,1 +1,1 @@
-var mnemonic = "can grid vicious enjoy weapon page woman combine later ice turn leader";
+var mnemonic = "grocery educate bring audit crunch room purpose denial hunt together oxygen electric";

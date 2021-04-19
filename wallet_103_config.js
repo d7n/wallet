@@ -1,1 +1,1 @@
-var mnemonic = "shop cause unfair reopen mansion cash face close vessel danger crowd cereal";
+var mnemonic = "bulb isolate lazy rural vicious today visual company smile slam short cross";

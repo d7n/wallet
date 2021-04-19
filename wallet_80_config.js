@@ -1,1 +1,1 @@
-var mnemonic = "kind mobile pink sudden remind tape attack army vehicle session enrich kind";
+var mnemonic = "focus quiz gift home current room soccer salt weekend stand grant riot";

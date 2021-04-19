@@ -1,1 +1,1 @@
-var mnemonic = "payment frozen rate habit trust wagon master siege friend trim usage guard";
+var mnemonic = "judge actress alley piano salute ozone witness adapt virus culture material neutral";

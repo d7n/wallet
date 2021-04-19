@@ -1,1 +1,1 @@
-var mnemonic = "mask brave disease merry behind twelve tape rude enjoy infant rain tortoise";
+var mnemonic = "radio enable river gather baby danger skin swift quarter settle draw melt";

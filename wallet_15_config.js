@@ -1,1 +1,1 @@
-var mnemonic = "cliff glare boil embody pig april initial match better cannon office unhappy";
+var mnemonic = "merry another move divorce step forum steak today thunder glad donkey small";

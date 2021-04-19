@@ -1,1 +1,1 @@
-var mnemonic = "divert monkey double cigar receive shadow depend pink always turn shadow stuff";
+var mnemonic = "canyon other person cruel humble great tone rescue portion pitch edge cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato thing tired worry forget invite sound mix candy sugar physical border";
+var mnemonic = "oven drama wealth hair ripple cheese hair deer soon gaze extend very";

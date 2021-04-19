@@ -1,1 +1,1 @@
-var mnemonic = "maple subject deposit fatal trade genius royal pretty anger fog young bracket";
+var mnemonic = "horn debris caught picnic pen grocery primary broken biology anxiety stuff magic";

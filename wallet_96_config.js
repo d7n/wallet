@@ -1,1 +1,1 @@
-var mnemonic = "current innocent game snack drum gravity keen inquiry amused guilt curtain flush";
+var mnemonic = "cigar gallery elephant bench surface document upon stone toilet menu survey drastic";

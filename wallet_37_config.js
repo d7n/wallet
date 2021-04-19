@@ -1,1 +1,1 @@
-var mnemonic = "expose network spawn either check weekend endless buyer basic neutral little brand";
+var mnemonic = "buffalo hire help horse sunny window between like female raccoon idea exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "must funny travel census virtual dynamic donor include fortune grape endorse present";
+var mnemonic = "burst vessel verify poem urban coconut mountain early post gun act immense";

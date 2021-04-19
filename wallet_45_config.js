@@ -1,1 +1,1 @@
-var mnemonic = "guitar crop lounge render boring winter magnet analyst carpet foam ridge vote";
+var mnemonic = "satoshi pill news original injury width own comfort pioneer nut twice dirt";

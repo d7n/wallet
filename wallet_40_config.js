@@ -1,1 +1,1 @@
-var mnemonic = "bless favorite mimic subject cinnamon leisure magic brand step kingdom measure argue";
+var mnemonic = "asthma total fruit page layer audit liberty usage famous media clap skirt";

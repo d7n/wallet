@@ -1,1 +1,1 @@
-var mnemonic = "exact conduct spend situate squirrel quote rate fitness genre release battle urban";
+var mnemonic = "vital fat nurse range faculty issue offer hawk pottery hello legend change";

@@ -1,1 +1,1 @@
-var mnemonic = "labor mention vibrant upset name panel supply leader similar organ blush camp";
+var mnemonic = "trigger army clean seven deer syrup people insane broken artist excite reform";

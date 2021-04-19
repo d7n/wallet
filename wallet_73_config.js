@@ -1,1 +1,1 @@
-var mnemonic = "word body push system daring service apple addict true guitar artwork brown";
+var mnemonic = "lion renew screen scene any donate pink velvet slight broken arm hedgehog";

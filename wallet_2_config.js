@@ -1,1 +1,1 @@
-var mnemonic = "scissors inside father sad raccoon clown recycle divide neglect idle blame side";
+var mnemonic = "umbrella warm luggage plastic elegant spoon tower section risk drill upon delay";

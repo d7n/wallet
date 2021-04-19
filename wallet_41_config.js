@@ -1,1 +1,1 @@
-var mnemonic = "wedding artist science tackle always quit blame amount body consider sister humble";
+var mnemonic = "cloth fiction middle album pause slice tumble carbon scheme endorse citizen feature";

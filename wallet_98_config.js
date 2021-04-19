@@ -1,1 +1,1 @@
-var mnemonic = "lottery occur expand almost fee seek bargain century mechanic perfect dry mule";
+var mnemonic = "barely foot family leave practice cycle sing frame usual mirror jewel dance";

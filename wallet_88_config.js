@@ -1,1 +1,1 @@
-var mnemonic = "choose error alert problem only wrist drill leader swallow hundred measure month";
+var mnemonic = "stomach argue bitter attitude rail powder mountain chronic record yellow unaware talk";

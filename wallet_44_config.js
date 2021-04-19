@@ -1,1 +1,1 @@
-var mnemonic = "planet syrup birth gauge umbrella toddler camp aunt fashion angle climb name";
+var mnemonic = "sword also across penalty noise size disorder prison common try ability arctic";

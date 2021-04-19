@@ -1,1 +1,1 @@
-var mnemonic = "swear raw popular into robust grow quick know angry pattern another vendor";
+var mnemonic = "gossip jazz year pole cactus alpha twenty diet bicycle raccoon year ridge";

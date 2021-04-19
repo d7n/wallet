@@ -1,1 +1,1 @@
-var mnemonic = "hospital cube rib soap audit december obey valve board sock share risk";
+var mnemonic = "ritual cancel girl shoe sense witness ability canoe hundred exist valley trade";

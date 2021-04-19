@@ -1,1 +1,1 @@
-var mnemonic = "marriage pipe erase news isolate skull shiver panel civil slab fringe stamp";
+var mnemonic = "orchard review urge doctor helmet bread venue chunk mule media breeze corn";

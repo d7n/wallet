@@ -1,1 +1,1 @@
-var mnemonic = "call milk effort patient until entire capable tortoise alley best ice fitness";
+var mnemonic = "wife best broccoli royal viable velvet tourist fiscal local mind history bargain";

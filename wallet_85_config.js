@@ -1,1 +1,1 @@
-var mnemonic = "radar gate castle enforce sausage fantasy velvet piece around taste cake blur";
+var mnemonic = "depth bird cotton best arctic dragon noble brick cliff energy dragon jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "embody van valley blanket prepare task endorse install basket source obscure craft";
+var mnemonic = "eight shoulder token hobby shoulder nest february firm maze inquiry tonight song";

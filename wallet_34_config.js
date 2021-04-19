@@ -1,1 +1,1 @@
-var mnemonic = "circle jelly spice tortoise glow nephew general want drive sure rotate heart";
+var mnemonic = "goat immense worth cushion song sausage popular virus torch hope news little";

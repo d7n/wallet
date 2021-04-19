@@ -1,1 +1,1 @@
-var mnemonic = "guide sheriff symptom pair health wish spin float stumble sadness mouse prize";
+var mnemonic = "plastic normal van same resemble below hotel fun local else such luggage";

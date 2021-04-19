@@ -1,1 +1,1 @@
-var mnemonic = "pelican spell onion cave human quality title brush spirit bottom demise inquiry";
+var mnemonic = "lottery zero ramp ankle earth test empower bomb limb close ticket rescue";

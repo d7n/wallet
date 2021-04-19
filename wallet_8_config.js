@@ -1,1 +1,1 @@
-var mnemonic = "shop sure win buffalo quarter crush song real meadow gain victory protect";
+var mnemonic = "guilt emotion now major random story mansion truth stumble method pig toss";

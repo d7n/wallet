@@ -1,1 +1,1 @@
-var mnemonic = "tide ladder swamp useless bean critic define east blood else defy season";
+var mnemonic = "law dwarf hungry shrimp social tube file female offer picture horror card";

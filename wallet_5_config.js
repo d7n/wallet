@@ -1,1 +1,1 @@
-var mnemonic = "list fruit firm virus arch beach shield acoustic october one health nominee";
+var mnemonic = "object code aerobic embrace apology basic duck then finger entire unique host";

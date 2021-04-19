@@ -1,1 +1,1 @@
-var mnemonic = "gold blue bind garage comic loop museum milk kind refuse extend ride";
+var mnemonic = "surface grid unit foot tattoo network east patch suit output pet vintage";

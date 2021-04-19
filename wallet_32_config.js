@@ -1,1 +1,1 @@
-var mnemonic = "patrol culture lens fat crystal ugly receive device cliff pigeon clever adjust";
+var mnemonic = "spawn soldier capable outside flower have dwarf crew picture fuel enact woman";

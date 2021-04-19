@@ -1,1 +1,1 @@
-var mnemonic = "run season two green case monitor slush limb carpet dinner immune burger";
+var mnemonic = "number spend defy height banana pyramid mix reopen hub escape solution clown";

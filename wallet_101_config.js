@@ -1,1 +1,1 @@
-var mnemonic = "retreat much nurse second fiscal vacant ranch box box harsh rule cushion";
+var mnemonic = "change inhale grief shell parrot size elder field laptop magnet pave safe";

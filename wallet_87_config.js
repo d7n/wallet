@@ -1,1 +1,1 @@
-var mnemonic = "wrestle illness large quote grunt usage amount mercy dance rotate clap fly";
+var mnemonic = "brisk today output trim time margin scorpion they such burger topic patient";

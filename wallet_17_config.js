@@ -1,1 +1,1 @@
-var mnemonic = "rare cash toddler cloud tip shaft gym inherit shoe about tank seed";
+var mnemonic = "sick miracle coast kind pig ceiling stereo access nominee word home tortoise";

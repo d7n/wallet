@@ -1,1 +1,1 @@
-var mnemonic = "spatial ribbon faculty marble castle deal reunion cram tongue laugh network differ";
+var mnemonic = "inspire early raw piece then draw drink concert practice runway fabric electric";

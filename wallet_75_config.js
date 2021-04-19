@@ -1,1 +1,1 @@
-var mnemonic = "coral dove motion warrior endless custom weird leader health family abstract invest";
+var mnemonic = "barely doll rack spoil couch ceiling lottery enforce dust try day describe";

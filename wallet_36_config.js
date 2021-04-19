@@ -1,1 +1,1 @@
-var mnemonic = "west motor case veteran body action wave region relief response flat tumble";
+var mnemonic = "purpose school fork elegant alarm fury birth useful call envelope cupboard firm";

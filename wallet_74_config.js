@@ -1,1 +1,1 @@
-var mnemonic = "science athlete dove atom thank foster safe offer garlic angry frozen since";
+var mnemonic = "injury million rebel ball pride muffin act know stone embrace slow april";

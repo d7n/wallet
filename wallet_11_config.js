@@ -1,1 +1,1 @@
-var mnemonic = "stick chaos dose sort clarify tenant swap badge boy main spare chef";
+var mnemonic = "volume pull diamond myth divorce car organ monkey speed pluck worry nothing";

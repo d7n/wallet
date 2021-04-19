@@ -1,1 +1,1 @@
-var mnemonic = "average region stadium control bar child defense exclude forward arrange brown mistake";
+var mnemonic = "walnut quick drink special above sauce drama police coffee clinic intact fossil";

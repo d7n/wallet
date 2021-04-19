@@ -1,1 +1,1 @@
-var mnemonic = "frozen school model auto style address miss giant glue someone purpose minute";
+var mnemonic = "jeans winter buffalo segment bless core man bunker entire display loan stove";

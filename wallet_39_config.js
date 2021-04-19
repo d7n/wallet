@@ -1,1 +1,1 @@
-var mnemonic = "moment wrestle neglect swing diet reject coin wave virtual sphere speak repeat";
+var mnemonic = "another mix tag left obey fall polar talk behave insect wealth item";

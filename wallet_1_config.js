@@ -1,1 +1,1 @@
-var mnemonic = "unlock owner sword mirror glow mistake still mean very carpet try fiscal";
+var mnemonic = "across valley stereo private matter grain unknown crazy help inch front bench";
