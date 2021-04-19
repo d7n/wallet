@@ -1,1 +1,1 @@
-var mnemonic = "kiss hedgehog bone fortune shoulder ladder turn develop spread merit mercy hidden";
+var mnemonic = "bar sadness pipe syrup great electric squeeze zebra now bag someone spike";

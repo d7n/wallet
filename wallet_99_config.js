@@ -1,1 +1,1 @@
-var mnemonic = "outer audit liquid pig medal speak front inhale vocal clay ability wait";
+var mnemonic = "design enemy tank net promote elephant festival produce town heavy club ivory";

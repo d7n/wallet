@@ -1,1 +1,1 @@
-var mnemonic = "cover inmate mosquito cactus kite teach belt radio squirrel type evolve simple";
+var mnemonic = "employ junk video danger over excuse figure still fantasy blast awake firm";

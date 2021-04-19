@@ -1,1 +1,1 @@
-var mnemonic = "leader manage cash bar pottery dice wedding endorse ladder lunar wood tone";
+var mnemonic = "erosion mesh vacant unable talk sock retreat enemy zebra return auto nurse";

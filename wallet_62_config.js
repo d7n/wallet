@@ -1,1 +1,1 @@
-var mnemonic = "park option diesel until analyst orient hub calm rain emotion deputy sting";
+var mnemonic = "kiss coconut fantasy girl slot race analyst comic near main bulb coin";

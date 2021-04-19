@@ -1,1 +1,1 @@
-var mnemonic = "display model already vehicle position lift balcony strategy whip oyster squirrel ship";
+var mnemonic = "mind tornado aim blind modify keen abuse rain repair bid icon cricket";

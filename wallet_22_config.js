@@ -1,1 +1,1 @@
-var mnemonic = "marriage potato toddler neck across bottom alone tobacco elevator good stomach rhythm";
+var mnemonic = "student slush blouse rural lens few drop stone mushroom accident void turtle";

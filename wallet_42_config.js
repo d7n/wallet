@@ -1,1 +1,1 @@
-var mnemonic = "spot have illness tray crawl polar option atom mixed laundry hazard wing";
+var mnemonic = "random coin veteran else what solar sock phrase oval author kitchen uncover";

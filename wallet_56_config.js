@@ -1,1 +1,1 @@
-var mnemonic = "high option similar wire receive dawn wonder elevator camp spirit hollow rough";
+var mnemonic = "tip street million april expect slush almost such cushion cricket isolate deer";

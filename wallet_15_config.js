@@ -1,1 +1,1 @@
-var mnemonic = "sight infant enable mirror retire lumber night drive lamp autumn divorce raise";
+var mnemonic = "wonder purchase clerk adjust clinic amused review service captain mention panel ask";

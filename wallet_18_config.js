@@ -1,1 +1,1 @@
-var mnemonic = "series guitar excuse spy beyond athlete sweet omit consider film portion wrist";
+var mnemonic = "swamp since brother suit ostrich spatial ready shine pear east point thought";

@@ -1,1 +1,1 @@
-var mnemonic = "ring sort taxi lava smile jump manual lady smoke coyote wolf chimney";
+var mnemonic = "brick use fringe tackle advance strike unfair neutral own future initial sing";

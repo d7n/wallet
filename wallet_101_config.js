@@ -1,1 +1,1 @@
-var mnemonic = "crime control report arrive pill level cheap risk pretty cousin door hero";
+var mnemonic = "they federal clip confirm clog leopard mutual provide diagram can spray holiday";

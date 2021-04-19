@@ -1,1 +1,1 @@
-var mnemonic = "bone base similar trick tent install lizard want whip dish prevent fetch";
+var mnemonic = "suggest aerobic learn exchange flush ahead fall smooth page puppy resist start";

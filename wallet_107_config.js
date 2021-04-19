@@ -1,1 +1,1 @@
-var mnemonic = "among ancient spice spice jar gift rose flavor twin kitchen pool cloth";
+var mnemonic = "sword anchor amateur profit craft cook medal runway ladder enter radar project";

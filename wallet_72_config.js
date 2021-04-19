@@ -1,1 +1,1 @@
-var mnemonic = "crack sudden dizzy rally diesel language topic glue genuine clog country half";
+var mnemonic = "always fade memory payment pistol pelican polar network ride suffer shaft check";

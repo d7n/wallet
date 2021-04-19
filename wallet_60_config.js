@@ -1,1 +1,1 @@
-var mnemonic = "happy magnet beef just assume raccoon pepper island hover hover bright what";
+var mnemonic = "rack seven luggage equal robot fix staff mail riot noble witness eyebrow";

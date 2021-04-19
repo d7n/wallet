@@ -1,1 +1,1 @@
-var mnemonic = "cook measure lucky gather symbol depart web faculty tube okay midnight devote";
+var mnemonic = "estate flag another flush inside glad affair used palace spider exact cheese";

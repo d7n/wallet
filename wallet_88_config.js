@@ -1,1 +1,1 @@
-var mnemonic = "bomb tree leader coconut brand change gloom carbon neutral cake page shock";
+var mnemonic = "pencil cherry pioneer run material pulp whisper buyer negative now medal circle";

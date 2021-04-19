@@ -1,1 +1,1 @@
-var mnemonic = "repair ripple smoke shrimp announce ride chaos bargain spell prison inflict error";
+var mnemonic = "foam elevator avoid merit night foil exact sing mistake hamster inform coast";

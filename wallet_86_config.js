@@ -1,1 +1,1 @@
-var mnemonic = "obey useless twenty pizza there bacon print must siege essay stage curious";
+var mnemonic = "blouse critic strike stable sorry bracket annual dawn message addict fitness excuse";

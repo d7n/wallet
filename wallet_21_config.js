@@ -1,1 +1,1 @@
-var mnemonic = "limb fit segment long fault venue kiwi category pumpkin body economy report";
+var mnemonic = "super maple toy super unusual hub lecture delay roast wedding fiber series";

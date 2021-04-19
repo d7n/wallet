@@ -1,1 +1,1 @@
-var mnemonic = "figure mad camera rapid garage mystery history lounge return cost field oak";
+var mnemonic = "viable tiny net fix time token glad phrase eternal naive cycle viable";

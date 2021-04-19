@@ -1,1 +1,1 @@
-var mnemonic = "deposit axis multiply vapor vapor decade divide purse sword robot pause poet";
+var mnemonic = "fabric kick swear session regular donkey husband summer year scheme moral possible";

@@ -1,1 +1,1 @@
-var mnemonic = "expect oblige away coconut used bottom street shiver play buddy thing jar";
+var mnemonic = "century young upper rare tiger tomato leader throw upgrade bread exile ginger";

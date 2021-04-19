@@ -1,1 +1,1 @@
-var mnemonic = "vague amused surprise ugly tornado face clinic bulk question tonight grant rabbit";
+var mnemonic = "orbit capital sand town royal busy coil tribe claim oil mosquito minute";

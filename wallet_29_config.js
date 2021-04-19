@@ -1,1 +1,1 @@
-var mnemonic = "tilt undo cycle question buyer radio across march involve sugar entire quick";
+var mnemonic = "joke lens proud believe wash cruel stairs captain weird first stadium bachelor";

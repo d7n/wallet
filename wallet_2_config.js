@@ -1,1 +1,1 @@
-var mnemonic = "auto cluster shield biology chuckle upon lunch toss build wisdom absent auction";
+var mnemonic = "identify before raw enact volume ranch giraffe forget lens web penalty chicken";

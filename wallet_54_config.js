@@ -1,1 +1,1 @@
-var mnemonic = "bench public faint speed cheap virus art ready dish stairs jewel approve";
+var mnemonic = "amateur cushion print absent maple limb track mix bleak finish catalog inject";

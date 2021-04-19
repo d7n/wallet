@@ -1,1 +1,1 @@
-var mnemonic = "custom asthma receive border burst party punch gossip wall direct want copper";
+var mnemonic = "diamond magic couch vivid fortune spare comic have gold sponsor image another";

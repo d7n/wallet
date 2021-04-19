@@ -1,1 +1,1 @@
-var mnemonic = "inhale pond rotate brave neglect illegal pledge midnight chimney always budget candy";
+var mnemonic = "purse section decide dream chase illness half daring spawn already luxury noodle";

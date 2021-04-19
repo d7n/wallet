@@ -1,1 +1,1 @@
-var mnemonic = "punch endorse damage job wheat bring lunch brief foam super scatter deposit";
+var mnemonic = "soap betray coin sting blouse tell daughter year siren segment mask primary";

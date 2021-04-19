@@ -1,1 +1,1 @@
-var mnemonic = "engage bridge hazard guess lecture display arctic scatter forum few strategy screen";
+var mnemonic = "antenna time detect foil plastic force fetch torch crunch lady group pave";

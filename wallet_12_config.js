@@ -1,1 +1,1 @@
-var mnemonic = "focus seven ten grant again citizen churn cause polar hawk elder coin";
+var mnemonic = "slim edit text safe camp rate velvet helmet blur gain flag planet";

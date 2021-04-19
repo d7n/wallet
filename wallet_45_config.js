@@ -1,1 +1,1 @@
-var mnemonic = "air drop bitter plunge half artwork barrel hidden wheat token say glimpse";
+var mnemonic = "list try morning spy culture document ill rain arena rule agent track";

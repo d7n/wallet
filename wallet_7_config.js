@@ -1,1 +1,1 @@
-var mnemonic = "solution shrimp clarify crucial dignity legal race powder soccer wrap jump theory";
+var mnemonic = "amount ecology collect park cloud reveal burger genius margin motion across globe";

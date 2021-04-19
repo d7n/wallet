@@ -1,1 +1,1 @@
-var mnemonic = "genuine habit coin skin clump belt march embrace city clump choice become";
+var mnemonic = "angle north end choice spy bulb craft humble health degree expand injury";

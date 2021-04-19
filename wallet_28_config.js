@@ -1,1 +1,1 @@
-var mnemonic = "voice sphere reject element cage coffee token very rate merge advance dirt";
+var mnemonic = "knock cabin leader evil convince mask pitch dinner rough hurry life cause";

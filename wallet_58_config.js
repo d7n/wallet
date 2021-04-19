@@ -1,1 +1,1 @@
-var mnemonic = "smooth inherit action olympic lumber palace tell over gain all damage twice";
+var mnemonic = "piece calm brand eagle kitten favorite gaze insect trend maximum around home";

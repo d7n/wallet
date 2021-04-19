@@ -1,1 +1,1 @@
-var mnemonic = "detail corn throw depend elegant people net couple galaxy blush long will";
+var mnemonic = "flee toast input face carbon scene reform thumb crucial topic pigeon atom";

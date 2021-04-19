@@ -1,1 +1,1 @@
-var mnemonic = "tell wise potato water load deputy try receive universe spider stumble shoulder";
+var mnemonic = "fog fix thought female clerk inject middle trip carpet pull marble capital";

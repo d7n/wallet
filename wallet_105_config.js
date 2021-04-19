@@ -1,1 +1,1 @@
-var mnemonic = "layer toe business blue brother shadow attract legal render stock someone decade";
+var mnemonic = "grant joke spare coil silly woman april alone sausage already atom analyst";

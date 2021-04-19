@@ -1,1 +1,1 @@
-var mnemonic = "antique alert nasty lobster neutral disease depend vacant token asthma wheat share";
+var mnemonic = "casual shop point inmate typical moon toss liquid critic harbor trigger van";

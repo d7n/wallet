@@ -1,1 +1,1 @@
-var mnemonic = "base trumpet power pig skirt pigeon carbon quit brother want average panther";
+var mnemonic = "equip squeeze decrease cruel joy expire beach core rude begin because exchange";

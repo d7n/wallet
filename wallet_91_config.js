@@ -1,1 +1,1 @@
-var mnemonic = "diet science deposit student cherry miss wedding depart property ship merry place";
+var mnemonic = "picnic flip daughter diagram source village tunnel depart desert balcony boss share";

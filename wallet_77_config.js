@@ -1,1 +1,1 @@
-var mnemonic = "plate earth embody virtual rose diet open undo envelope hedgehog pair load";
+var mnemonic = "glory avoid crystal wage guess horse wool enroll crystal cost chuckle rural";

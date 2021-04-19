@@ -1,1 +1,1 @@
-var mnemonic = "song blur shift raccoon educate morning exchange mask detail step song famous";
+var mnemonic = "swift master spend jelly scorpion hurdle quit fitness wash dog glide crystal";

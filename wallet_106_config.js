@@ -1,1 +1,1 @@
-var mnemonic = "resist impact reform disorder refuse tape sheriff orbit wild neither cotton hobby";
+var mnemonic = "copper flip draw seven sight public hint poverty then vintage color much";

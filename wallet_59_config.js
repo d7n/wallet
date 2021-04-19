@@ -1,1 +1,1 @@
-var mnemonic = "middle estate lawsuit purity during riot airport merge yard film broken drop";
+var mnemonic = "student filter field world donate live orphan laptop couple rare match zero";

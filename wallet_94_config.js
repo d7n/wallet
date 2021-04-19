@@ -1,1 +1,1 @@
-var mnemonic = "slight purpose ride because album provide surprise coyote alcohol echo industry vibrant";
+var mnemonic = "crunch butter walk fatigue sing valley marriage rule notable riot transfer pledge";

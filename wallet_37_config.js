@@ -1,1 +1,1 @@
-var mnemonic = "loop nation abandon goat actress about during okay piece volume eye deny";
+var mnemonic = "blood perfect evolve indoor december discover road miracle puppy planet two latin";

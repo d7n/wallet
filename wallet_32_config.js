@@ -1,1 +1,1 @@
-var mnemonic = "ecology balcony park awful bubble road scare paper piano rail dentist screen";
+var mnemonic = "shield sudden magnet bomb crouch mean suit license turkey refuse entry detect";

@@ -1,1 +1,1 @@
-var mnemonic = "recall confirm music worry pitch chuckle lottery pole knock quit destroy menu";
+var mnemonic = "resource flower garden voyage festival retreat fee squeeze bind patient guess buzz";

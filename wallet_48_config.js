@@ -1,1 +1,1 @@
-var mnemonic = "swamp chunk air fire sort leg voice solar rent lens cube tape";
+var mnemonic = "cook junior endorse goose spray fish toy taxi mango quantum spice cluster";

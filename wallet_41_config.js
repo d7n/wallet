@@ -1,1 +1,1 @@
-var mnemonic = "heavy prison genuine total knock upgrade green cabbage weather song famous dream";
+var mnemonic = "brief pink sing train dutch casual autumn candy ordinary aware rifle today";

@@ -1,1 +1,1 @@
-var mnemonic = "afford faith rib skate gentle concert wire usual duty foster zone coffee";
+var mnemonic = "miss that debris axis supply chronic utility develop radio chaos speak near";

@@ -1,1 +1,1 @@
-var mnemonic = "private curtain alert hurt prison oil spring differ cherry twice legal come";
+var mnemonic = "process muffin define issue absurd fiscal current clump easily midnight layer polar";

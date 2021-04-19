@@ -1,1 +1,1 @@
-var mnemonic = "sphere radio grab find gaze tennis fuel tumble strategy indicate anger frame";
+var mnemonic = "crumble rent tag cable help run ice gravity ask merry opinion great";

@@ -1,1 +1,1 @@
-var mnemonic = "riot soda sting paddle modify enough suggest never diesel apology core spell";
+var mnemonic = "fancy news regular slight welcome trial fatal loud void misery chronic race";

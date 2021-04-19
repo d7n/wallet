@@ -1,1 +1,1 @@
-var mnemonic = "depart dance able alter elbow roast bullet volume grow crisp cup raw";
+var mnemonic = "battle achieve mule lonely vacant turtle sail little hen tumble inside any";

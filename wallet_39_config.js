@@ -1,1 +1,1 @@
-var mnemonic = "draw alone pencil afraid maximum inside hello weasel now agree zone mask";
+var mnemonic = "tonight guide amused juice until net brick boring oak clap helmet avocado";

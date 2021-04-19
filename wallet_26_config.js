@@ -1,1 +1,1 @@
-var mnemonic = "thunder true oil boil piece power match excuse then million shrug clerk";
+var mnemonic = "alter garlic parent amateur cargo define surprise kidney topic drum else work";

@@ -1,1 +1,1 @@
-var mnemonic = "march cotton remember ozone lawsuit potato horse turkey have basic scan sudden";
+var mnemonic = "erode common various palace scrap pitch wink merry target speed climb able";

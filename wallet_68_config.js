@@ -1,1 +1,1 @@
-var mnemonic = "surround shop print genius grape bridge upon insect rack chase planet produce";
+var mnemonic = "common rack fatal security indicate trigger frost argue fan patient suit grass";

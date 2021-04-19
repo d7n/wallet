@@ -1,1 +1,1 @@
-var mnemonic = "lazy forest else boring wife exercise elevator salon unaware select shift muscle";
+var mnemonic = "despair crack limit boost bullet require inform lake filter fun pear decade";

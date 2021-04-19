@@ -1,1 +1,1 @@
-var mnemonic = "jaguar riot culture pull case cross mistake clay they rural guess fee";
+var mnemonic = "silent pair address helmet photo humble small ordinary blast grid debate topic";

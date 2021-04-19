@@ -1,1 +1,1 @@
-var mnemonic = "order ability soup spray token ahead process midnight sing creek original prefer";
+var mnemonic = "true token harsh awful limb length motor mistake taste over rug anger";

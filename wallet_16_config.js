@@ -1,1 +1,1 @@
-var mnemonic = "magnet deal daughter differ slim hard venture amused claim fiction trick cable";
+var mnemonic = "crane grain purse quality farm fix gaze source slot shove cable agent";

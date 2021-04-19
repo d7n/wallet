@@ -1,1 +1,1 @@
-var mnemonic = "tape choice tackle prize horn sight trash sick aisle brave cheap token";
+var mnemonic = "sadness resemble stuff advice affair casual drip wide cannon skirt town have";

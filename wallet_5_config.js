@@ -1,1 +1,1 @@
-var mnemonic = "slow useful record insect report wrist nut test include index wing earth";
+var mnemonic = "acquire heart effort submit frost hawk myth mountain truck cannon gravity grab";

@@ -1,1 +1,1 @@
-var mnemonic = "caught until record apple horn brief parent knock final ethics exotic abuse";
+var mnemonic = "magnet wolf obtain arctic panda mixture cheese theory until hello visual leader";

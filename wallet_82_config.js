@@ -1,1 +1,1 @@
-var mnemonic = "supreme jaguar fine recipe siren giraffe unable prize actress exact rescue crucial";
+var mnemonic = "exhibit body wise error tourist sail melt sphere cube cute flight vanish";

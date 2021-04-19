@@ -1,1 +1,1 @@
-var mnemonic = "code utility inherit hat such nut regular payment senior praise spice give";
+var mnemonic = "artwork rotate inject toe pole plug fiction fan struggle shy private key";

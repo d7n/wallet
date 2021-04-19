@@ -1,1 +1,1 @@
-var mnemonic = "company garment cute rescue helmet race lobster bacon basket hire drive cereal";
+var mnemonic = "drift escape slush embody nut tube ceiling stem throw book suspect image";

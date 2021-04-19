@@ -1,1 +1,1 @@
-var mnemonic = "unlock shuffle sea elephant ecology certain wheel legend smoke artwork clarify birth";
+var mnemonic = "prize tilt middle buffalo art toy sight license small verb dentist never";

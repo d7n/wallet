@@ -1,1 +1,1 @@
-var mnemonic = "ribbon filter expose shift shrimp expect cook attack spoon split tattoo embrace";
+var mnemonic = "beyond guilt moment arrow toy better remember rifle romance tattoo sock floor";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie damp hurt option roast raise repair toward urge swap stem spoil";
+var mnemonic = "bulk sunny face develop friend gas march disagree sister spot era cage";

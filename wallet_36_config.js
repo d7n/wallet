@@ -1,1 +1,1 @@
-var mnemonic = "there range system lonely until limit isolate impose fury parade smooth employ";
+var mnemonic = "list cotton master keep little deny pass theory enjoy make mushroom legal";

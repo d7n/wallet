@@ -1,1 +1,1 @@
-var mnemonic = "napkin once film invite couple soft cream holiday reveal mean collect undo";
+var mnemonic = "provide author holiday route device toward minute benefit year drastic habit ugly";

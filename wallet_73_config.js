@@ -1,1 +1,1 @@
-var mnemonic = "blossom shallow property hub drive firm armor carpet observe razor clay pudding";
+var mnemonic = "pave client joy rescue place firm truck sign tunnel debate color income";

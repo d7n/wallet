@@ -1,1 +1,1 @@
-var mnemonic = "choice main clarify dad secret donkey sleep field odor mercy tip thing";
+var mnemonic = "clump device elite media together spot glide nasty apple rally pole favorite";

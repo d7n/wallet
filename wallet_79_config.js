@@ -1,1 +1,1 @@
-var mnemonic = "cable blind carpet wage major total bless health setup sleep element save";
+var mnemonic = "dice expire disagree rabbit play invite dentist nephew deny spice weasel assist";

@@ -1,1 +1,1 @@
-var mnemonic = "debate win clock camp innocent current suggest paper now horn expose route";
+var mnemonic = "solve south coyote lecture plate vendor cram film token glance drip aim";

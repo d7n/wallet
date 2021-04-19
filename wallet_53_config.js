@@ -1,1 +1,1 @@
-var mnemonic = "share winner sausage iron adult express neck chat demise benefit brain bottom";
+var mnemonic = "dwarf differ roof absent loud clap cause supply switch board maze thumb";

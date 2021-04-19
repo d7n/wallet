@@ -1,1 +1,1 @@
-var mnemonic = "develop frog rely remind climb onion supply disorder absorb ginger attack search";
+var mnemonic = "winter inner screen fiber capable awful lonely obey foot pudding token cancel";
