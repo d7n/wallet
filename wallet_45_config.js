@@ -1,1 +1,1 @@
-var mnemonic = "satoshi pill news original injury width own comfort pioneer nut twice dirt";
+var mnemonic = "jealous calm rural render carpet moment mesh vacant cement cram van useless";

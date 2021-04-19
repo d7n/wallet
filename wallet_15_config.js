@@ -1,1 +1,1 @@
-var mnemonic = "merry another move divorce step forum steak today thunder glad donkey small";
+var mnemonic = "doll chapter era design fabric feed seat found rude safe paddle skill";

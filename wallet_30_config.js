@@ -1,1 +1,1 @@
-var mnemonic = "stomach bunker snack joy knee bargain alpha very sibling common salt another";
+var mnemonic = "siren shrimp access magic juice cook van gun know twelve error gadget";

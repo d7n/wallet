@@ -1,1 +1,1 @@
-var mnemonic = "quarter fade helmet guard absent pistol truth destroy yard table solid tiger";
+var mnemonic = "diary envelope segment section desert balance margin cereal length expect hammer better";

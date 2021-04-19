@@ -1,1 +1,1 @@
-var mnemonic = "slice shy school disorder waste daughter music van luggage solve now destroy";
+var mnemonic = "fix shoot release carry very lobster purpose truck rib bird crush poem";

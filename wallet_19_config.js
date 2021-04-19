@@ -1,1 +1,1 @@
-var mnemonic = "law dwarf hungry shrimp social tube file female offer picture horror card";
+var mnemonic = "visual park wrist type mobile include faculty cry badge today trash flame";

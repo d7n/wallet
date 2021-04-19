@@ -1,1 +1,1 @@
-var mnemonic = "divide balance corn what satisfy advice point spy health swallow enough skin";
+var mnemonic = "raven inflict slim drift join anchor century alcohol arrest slot garden prison";

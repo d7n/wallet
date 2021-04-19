@@ -1,1 +1,1 @@
-var mnemonic = "grape among hold truth exotic comic silk spot until cotton human change";
+var mnemonic = "walnut live soda genre monkey tragic health phone more detail maze rhythm";

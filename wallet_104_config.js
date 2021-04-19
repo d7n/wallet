@@ -1,1 +1,1 @@
-var mnemonic = "inside price flock flat achieve taste whip scrub glad tribe daughter misery";
+var mnemonic = "aerobic fish able chunk gym vehicle brush ordinary east victory slice ensure";

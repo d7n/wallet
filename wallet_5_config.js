@@ -1,1 +1,1 @@
-var mnemonic = "object code aerobic embrace apology basic duck then finger entire unique host";
+var mnemonic = "poem oblige feel taxi reflect result fantasy patch note very speak version";

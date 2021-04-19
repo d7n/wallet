@@ -1,1 +1,1 @@
-var mnemonic = "dove master base robot dry raccoon pear damp bunker wash diagram ceiling";
+var mnemonic = "wasp near ship one reason enhance pottery glue moment tag blush fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella warm luggage plastic elegant spoon tower section risk drill upon delay";
+var mnemonic = "update junior entry stadium runway vapor flag radio rabbit panda torch square";

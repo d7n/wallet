@@ -1,1 +1,1 @@
-var mnemonic = "reveal unhappy fold wage novel cycle sentence fox ring head next involve";
+var mnemonic = "park ginger surround winner sister shock sphere slab way mercy maximum under";

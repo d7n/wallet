@@ -1,1 +1,1 @@
-var mnemonic = "dish tomato dinner debris about word current dry toddler make life treat";
+var mnemonic = "balcony december lobster kitchen skirt siren life supreme used attract squirrel auto";

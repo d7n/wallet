@@ -1,1 +1,1 @@
-var mnemonic = "rain shadow someone galaxy tray source crop soda annual street palm life";
+var mnemonic = "first number sunset catch carpet large drill response silk recall fiber road";

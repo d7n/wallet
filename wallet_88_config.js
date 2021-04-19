@@ -1,1 +1,1 @@
-var mnemonic = "stomach argue bitter attitude rail powder mountain chronic record yellow unaware talk";
+var mnemonic = "join clay noise click drum soldier word eager heavy chef elder sound";

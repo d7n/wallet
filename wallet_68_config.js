@@ -1,1 +1,1 @@
-var mnemonic = "scorpion teach arm tumble tornado indoor sudden piece tent shoulder nest jacket";
+var mnemonic = "library become weapon essay bicycle symbol impact resource gadget club resemble despair";

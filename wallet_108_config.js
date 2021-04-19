@@ -1,1 +1,1 @@
-var mnemonic = "lens uncle neutral upset define lake funny anchor reduce involve dentist blame";
+var mnemonic = "evil reject silver six build right chapter marine logic feel transfer inform";

@@ -1,1 +1,1 @@
-var mnemonic = "vital fat nurse range faculty issue offer hawk pottery hello legend change";
+var mnemonic = "where frame prison dash wife orphan ready shrimp avocado sun paddle tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon other person cruel humble great tone rescue portion pitch edge cupboard";
+var mnemonic = "garage soon exotic reduce twice camp harsh six old federal attack solar";

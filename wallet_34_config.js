@@ -1,1 +1,1 @@
-var mnemonic = "goat immense worth cushion song sausage popular virus torch hope news little";
+var mnemonic = "argue jeans afraid master movie fresh vast rubber palace balance choice wisdom";

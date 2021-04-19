@@ -1,1 +1,1 @@
-var mnemonic = "plastic normal van same resemble below hotel fun local else such luggage";
+var mnemonic = "vote ticket festival saddle soul rather captain suit obscure tribe network supply";

@@ -1,1 +1,1 @@
-var mnemonic = "feed shrug rent public tent wrist civil glare exclude blanket elder violin";
+var mnemonic = "denial space food frown tank token betray child bike come spoil traffic";

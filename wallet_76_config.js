@@ -1,1 +1,1 @@
-var mnemonic = "share night bid south cook setup pool glide leisure tuition april short";
+var mnemonic = "hammer enter estate arrange word impulse soccer custom weapon flee dice lazy";

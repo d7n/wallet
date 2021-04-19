@@ -1,1 +1,1 @@
-var mnemonic = "lion renew screen scene any donate pink velvet slight broken arm hedgehog";
+var mnemonic = "lunar sand acquire teach avocado discover bargain smart swamp know today now";

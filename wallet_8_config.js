@@ -1,1 +1,1 @@
-var mnemonic = "guilt emotion now major random story mansion truth stumble method pig toss";
+var mnemonic = "edge salmon ticket response volcano pledge ancient menu still food rapid flash";

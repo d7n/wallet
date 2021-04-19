@@ -1,1 +1,1 @@
-var mnemonic = "arrest gap hawk tattoo unknown federal rate document float find minute infant";
+var mnemonic = "cluster riot process exit color exchange urban side sunny quantum night cart";

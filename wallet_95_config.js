@@ -1,1 +1,1 @@
-var mnemonic = "solve bleak way emerge truth egg legal chunk cargo artefact arrive noise";
+var mnemonic = "shallow awful scissors ribbon deny dawn need average sad scan flee survey";

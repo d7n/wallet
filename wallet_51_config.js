@@ -1,1 +1,1 @@
-var mnemonic = "pulp legal shrug obey party firm sniff slow tuition limb camp flash";
+var mnemonic = "elder cheese retire fence gold object echo giant impulse sort small annual";

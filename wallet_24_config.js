@@ -1,1 +1,1 @@
-var mnemonic = "slide expose city appear ball business garbage fox helmet kick cart ticket";
+var mnemonic = "transfer wreck drastic impulse start mosquito yard quarter measure language chase tattoo";

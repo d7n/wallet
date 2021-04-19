@@ -1,1 +1,1 @@
-var mnemonic = "cloth fiction middle album pause slice tumble carbon scheme endorse citizen feature";
+var mnemonic = "pledge battle high neither gas ski enjoy staff crazy equal one weasel";

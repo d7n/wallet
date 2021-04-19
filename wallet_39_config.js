@@ -1,1 +1,1 @@
-var mnemonic = "another mix tag left obey fall polar talk behave insect wealth item";
+var mnemonic = "course seminar add journey sunset attitude air they just situate effort balance";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss wonder february arena globe inflict clock elite genius figure parade episode";
+var mnemonic = "course weapon result same future chief cloth tiger dry zebra crouch crush";

@@ -1,1 +1,1 @@
-var mnemonic = "advance pistol inherit lift cheap armed file flee coyote income equal dose";
+var mnemonic = "picnic critic gesture wonder glove leaf boil warm demise frog two paddle";

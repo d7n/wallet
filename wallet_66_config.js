@@ -1,1 +1,1 @@
-var mnemonic = "warfare photo unit final crane talent auto clever want whale sock nominee";
+var mnemonic = "couch pony faint detect timber soccer pigeon hub stool guide attend torch";

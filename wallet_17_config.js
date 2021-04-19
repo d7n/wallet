@@ -1,1 +1,1 @@
-var mnemonic = "sick miracle coast kind pig ceiling stereo access nominee word home tortoise";
+var mnemonic = "heavy meadow youth grid kiwi replace roast puppy month hire puppy must";

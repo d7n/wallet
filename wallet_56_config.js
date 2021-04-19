@@ -1,1 +1,1 @@
-var mnemonic = "welcome sibling ticket lawsuit virus drastic grocery scrap add depend goat artwork";
+var mnemonic = "safe company radio inch session reason uncle retreat moral matrix spot ranch";

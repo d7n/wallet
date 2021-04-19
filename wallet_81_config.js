@@ -1,1 +1,1 @@
-var mnemonic = "cotton long horn victory glow sand soon left drop assault trim job";
+var mnemonic = "mammal room innocent afford cupboard myself tornado enhance globe obvious drive unusual";

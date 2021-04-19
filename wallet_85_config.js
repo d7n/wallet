@@ -1,1 +1,1 @@
-var mnemonic = "depth bird cotton best arctic dragon noble brick cliff energy dragon jelly";
+var mnemonic = "opinion dentist okay organ middle patrol face age yellow twenty month tennis";

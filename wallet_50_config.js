@@ -1,1 +1,1 @@
-var mnemonic = "print pig stay habit color claim case hundred taste upon good remain";
+var mnemonic = "nurse between film labor garden enjoy gun demise coyote item narrow shaft";

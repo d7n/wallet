@@ -1,1 +1,1 @@
-var mnemonic = "sure venture nose jazz crucial advance sausage sentence trophy reduce easy earn";
+var mnemonic = "gasp forget hidden earn volcano fold tuna demand cart buzz ramp practice";

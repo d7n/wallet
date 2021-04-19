@@ -1,1 +1,1 @@
-var mnemonic = "perfect special wisdom box hello simple master snap lonely merit water bronze";
+var mnemonic = "raise twenty garment sentence useful mistake ice glow void pepper brisk uncle";

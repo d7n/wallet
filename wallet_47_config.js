@@ -1,1 +1,1 @@
-var mnemonic = "judge actress alley piano salute ozone witness adapt virus culture material neutral";
+var mnemonic = "owner pear category green jar answer panther fiction river black add sock";

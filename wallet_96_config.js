@@ -1,1 +1,1 @@
-var mnemonic = "cigar gallery elephant bench surface document upon stone toilet menu survey drastic";
+var mnemonic = "tide improve vacant address nothing day chaos stool average fat price cook";

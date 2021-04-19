@@ -1,1 +1,1 @@
-var mnemonic = "burst vessel verify poem urban coconut mountain early post gun act immense";
+var mnemonic = "rough small client champion extend unfold disorder trend fuel random neither sand";

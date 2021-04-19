@@ -1,1 +1,1 @@
-var mnemonic = "isolate common lady almost chief truly east capital limb rocket shrug base";
+var mnemonic = "split tiger donkey portion circle grief clutch crisp aerobic east brick icon";

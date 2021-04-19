@@ -1,1 +1,1 @@
-var mnemonic = "gossip jazz year pole cactus alpha twenty diet bicycle raccoon year ridge";
+var mnemonic = "innocent true narrow wealth humor acquire rude maximum monster gauge reform invest";

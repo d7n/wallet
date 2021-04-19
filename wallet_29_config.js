@@ -1,1 +1,1 @@
-var mnemonic = "onion pony laptop prevent body quantum bomb royal acoustic between pluck first";
+var mnemonic = "crawl coast please badge mad critic ripple fence unlock short fit real";

@@ -1,1 +1,1 @@
-var mnemonic = "sword also across penalty noise size disorder prison common try ability arctic";
+var mnemonic = "garlic weird blouse stool wasp glow absurd amazing remember muscle message prison";

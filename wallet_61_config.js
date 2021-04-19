@@ -1,1 +1,1 @@
-var mnemonic = "catalog spatial nut way prevent deny stable mask twenty vocal law cigar";
+var mnemonic = "provide solar canoe inhale video metal kit increase duck camp toe peanut";

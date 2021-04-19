@@ -1,1 +1,1 @@
-var mnemonic = "hazard pudding scorpion sound drop photo come shoot reduce mixed false excite";
+var mnemonic = "maple accuse allow iron morning measure omit sad oxygen use warrior reward";

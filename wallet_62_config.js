@@ -1,1 +1,1 @@
-var mnemonic = "ready measure famous adapt guilt shuffle six crack tiny morning daughter giant";
+var mnemonic = "prevent tackle minute slow broken anxiety extra awkward adapt security hard flip";

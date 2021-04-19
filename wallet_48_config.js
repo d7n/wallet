@@ -1,1 +1,1 @@
-var mnemonic = "orchard review urge doctor helmet bread venue chunk mule media breeze corn";
+var mnemonic = "travel either west still size mansion unit until tomato differ put treat";

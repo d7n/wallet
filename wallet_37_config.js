@@ -1,1 +1,1 @@
-var mnemonic = "buffalo hire help horse sunny window between like female raccoon idea exercise";
+var mnemonic = "adapt buffalo spot ask mail female faculty arrow vehicle genius goose news";

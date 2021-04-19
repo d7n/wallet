@@ -1,1 +1,1 @@
-var mnemonic = "boring matrix soup steel chief zero lesson rigid nice robot sustain tortoise";
+var mnemonic = "town negative normal pitch answer resource expect captain law glass ocean guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn soldier capable outside flower have dwarf crew picture fuel enact woman";
+var mnemonic = "ranch donkey void six inherit sustain dial rent glare rare couple satoshi";

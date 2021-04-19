@@ -1,1 +1,1 @@
-var mnemonic = "economy orchard road cereal wine vehicle sphere siren ability spend kidney intact";
+var mnemonic = "quote obey push pride clean solar brush enjoy crater puppy virus chuckle";

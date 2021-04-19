@@ -1,1 +1,1 @@
-var mnemonic = "brisk today output trim time margin scorpion they such burger topic patient";
+var mnemonic = "banana wrap attend execute trigger add settle fiscal unfold act acquire arrow";

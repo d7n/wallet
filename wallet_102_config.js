@@ -1,1 +1,1 @@
-var mnemonic = "appear myth chat runway inject hill play window toilet twin isolate logic";
+var mnemonic = "economy element fence argue glad cargo when arrest uphold rescue permit wedding";

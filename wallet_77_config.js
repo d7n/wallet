@@ -1,1 +1,1 @@
-var mnemonic = "salmon web smart twist dove street suit soon similar scout alert gravity";
+var mnemonic = "balcony sketch school unveil suffer slide mixture achieve vibrant sponsor pig obey";

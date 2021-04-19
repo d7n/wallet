@@ -1,1 +1,1 @@
-var mnemonic = "smoke diet picture tail zebra hour wonder spoil nice front swim update";
+var mnemonic = "brain local special know finger base thrive soul dial garbage letter behave";

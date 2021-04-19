@@ -1,1 +1,1 @@
-var mnemonic = "wife best broccoli royal viable velvet tourist fiscal local mind history bargain";
+var mnemonic = "divide inhale sail humble mule adapt addict oval frog traffic noodle fossil";

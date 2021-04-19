@@ -1,1 +1,1 @@
-var mnemonic = "injury million rebel ball pride muffin act know stone embrace slow april";
+var mnemonic = "muffin hint vanish wheel dirt spend sausage future exile quality dutch mad";

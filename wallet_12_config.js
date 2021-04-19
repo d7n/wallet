@@ -1,1 +1,1 @@
-var mnemonic = "eight shoulder token hobby shoulder nest february firm maze inquiry tonight song";
+var mnemonic = "soul height acquire purse federal install nice apple retreat convince lady pattern";

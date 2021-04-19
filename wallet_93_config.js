@@ -1,1 +1,1 @@
-var mnemonic = "educate alter champion blouse dice door craft tonight nature latin gun process";
+var mnemonic = "coast electric rose wire minute symptom bleak glide welcome asset punch girl";

@@ -1,1 +1,1 @@
-var mnemonic = "car worry diagram gun reunion awesome jeans coyote mention priority oak gas";
+var mnemonic = "royal kiwi solar rate between almost oil amused salt solve smile fit";

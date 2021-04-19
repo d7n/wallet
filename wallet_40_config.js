@@ -1,1 +1,1 @@
-var mnemonic = "asthma total fruit page layer audit liberty usage famous media clap skirt";
+var mnemonic = "twist select model liar kangaroo gentle blade tool tortoise magnet bleak caught";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual gesture boy claw sand giraffe favorite essay illegal volume remind warm";
+var mnemonic = "list coyote total gym diagram test theory meadow code scout fossil dish";

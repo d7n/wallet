@@ -1,1 +1,1 @@
-var mnemonic = "inspire early raw piece then draw drink concert practice runway fabric electric";
+var mnemonic = "clarify marine decide trash glow bag airport uncover else lizard wedding echo";

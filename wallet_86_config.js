@@ -1,1 +1,1 @@
-var mnemonic = "horn debris caught picnic pen grocery primary broken biology anxiety stuff magic";
+var mnemonic = "ivory local famous horror forum supply save broom double burger organ glove";

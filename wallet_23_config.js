@@ -1,1 +1,1 @@
-var mnemonic = "book donor lab wash walnut scan year sail pole happy grocery cluster";
+var mnemonic = "arrow say put where razor erase bird gravity disease loan roof swallow";

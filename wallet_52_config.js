@@ -1,1 +1,1 @@
-var mnemonic = "radio enable river gather baby danger skin swift quarter settle draw melt";
+var mnemonic = "vast anger cattle farm false bunker offer excite awful symptom egg industry";

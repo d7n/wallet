@@ -1,1 +1,1 @@
-var mnemonic = "number spend defy height banana pyramid mix reopen hub escape solution clown";
+var mnemonic = "ripple load amused advance wrap sustain spatial custom chair because bleak possible";

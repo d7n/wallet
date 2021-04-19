@@ -1,1 +1,1 @@
-var mnemonic = "palace travel detail raven young mobile memory strike whisper juice gas merge";
+var mnemonic = "payment stuff lawsuit gym charge pulp music can wide drastic wear rescue";

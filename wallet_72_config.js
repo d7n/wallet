@@ -1,1 +1,1 @@
-var mnemonic = "rug skate scene exit bottom tent north throw kick obscure lake direct";
+var mnemonic = "walnut left clap answer cousin snack ozone expose accident inject apple essay";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery educate bring audit crunch room purpose denial hunt together oxygen electric";
+var mnemonic = "oxygen jaguar subject oak shift mixed vivid banana feed either doctor orient";

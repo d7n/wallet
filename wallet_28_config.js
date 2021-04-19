@@ -1,1 +1,1 @@
-var mnemonic = "angle eyebrow festival prefer weird spoon bomb will leader analyst cloth useful";
+var mnemonic = "dwarf require can ticket napkin side traffic rebuild high cereal hour relief";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery zero ramp ankle earth test empower bomb limb close ticket rescue";
+var mnemonic = "fuel deal lady bitter sing video salon talent whisper glory ski dignity";

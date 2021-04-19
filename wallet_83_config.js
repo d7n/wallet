@@ -1,1 +1,1 @@
-var mnemonic = "combine quit craft priority hybrid catch odor velvet film black client uphold";
+var mnemonic = "toward hero shed sail wall trade stove concert bulk ritual model palm";

@@ -1,1 +1,1 @@
-var mnemonic = "intact still weapon install real slim rib dirt soccer journey trash lion";
+var mnemonic = "satisfy gasp answer thing hire fruit social motion that share off taste";

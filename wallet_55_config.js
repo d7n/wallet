@@ -1,1 +1,1 @@
-var mnemonic = "flee earn mixture gold eight brick tip swamp thunder kidney garage when";
+var mnemonic = "raw radio gospel execute behave sniff describe vanish orphan excuse moral school";

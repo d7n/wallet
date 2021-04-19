@@ -1,1 +1,1 @@
-var mnemonic = "coral oppose artefact reason real divorce cup wheat planet expand stove avoid";
+var mnemonic = "sibling impose collect clutch any gold dog essence kind arrest truly mom";

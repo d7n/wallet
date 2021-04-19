@@ -1,1 +1,1 @@
-var mnemonic = "oven drama wealth hair ripple cheese hair deer soon gaze extend very";
+var mnemonic = "pyramid renew practice sausage illness drop slim crisp merit valid caught merge";

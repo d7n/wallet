@@ -1,1 +1,1 @@
-var mnemonic = "trigger army clean seven deer syrup people insane broken artist excite reform";
+var mnemonic = "social resemble prosper armor change medal noise potato topple drift eight engage";

@@ -1,1 +1,1 @@
-var mnemonic = "glad essence tomorrow push situate bonus leader forward slow depth iron thing";
+var mnemonic = "action student injury journey spot elder mixture once poem victory open wet";

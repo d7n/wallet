@@ -1,1 +1,1 @@
-var mnemonic = "change inhale grief shell parrot size elder field laptop magnet pave safe";
+var mnemonic = "click still punch perfect pride badge life lobster above edit kite spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz visa husband six soul timber demise track noise shrimp blade total";
+var mnemonic = "pool vessel range aware hammer amused hurry problem flight script market lady";

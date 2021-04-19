@@ -1,1 +1,1 @@
-var mnemonic = "fresh gadget afraid urge flee mammal unique price prison east foil smoke";
+var mnemonic = "knife leopard hood long funny detect guilt mouse stomach hazard patch snow";

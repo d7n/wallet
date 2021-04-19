@@ -1,1 +1,1 @@
-var mnemonic = "hospital opera hip top differ boat romance describe list kind face neglect";
+var mnemonic = "rubber double destroy next private potato alcohol east trust fatal add expose";

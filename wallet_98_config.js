@@ -1,1 +1,1 @@
-var mnemonic = "barely foot family leave practice cycle sing frame usual mirror jewel dance";
+var mnemonic = "rug jar cabbage cash skull cycle click dad morning diagram loop burden";

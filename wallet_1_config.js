@@ -1,1 +1,1 @@
-var mnemonic = "across valley stereo private matter grain unknown crazy help inch front bench";
+var mnemonic = "shed check novel spray web ability novel beauty mansion practice top unknown";
