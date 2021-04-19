@@ -1,1 +1,1 @@
-var mnemonic = "foam elevator avoid merit night foil exact sing mistake hamster inform coast";
+var mnemonic = "faith upgrade bag layer hybrid embrace powder hood love once jaguar behave";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern winner siege ticket reject object wink double tank oppose share mango";
+var mnemonic = "divorce clip polar clerk deny search frog snack clog great sudden permit";

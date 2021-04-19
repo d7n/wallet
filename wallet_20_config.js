@@ -1,1 +1,1 @@
-var mnemonic = "radar delay able desert hole train idle pill curious ancient wear cattle";
+var mnemonic = "cute budget mutual scrap have enemy scare noise catalog item august wear";

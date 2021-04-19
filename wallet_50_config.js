@@ -1,1 +1,1 @@
-var mnemonic = "solve south coyote lecture plate vendor cram film token glance drip aim";
+var mnemonic = "choice quick manual board legend seminar grid duck quantum story clog journey";

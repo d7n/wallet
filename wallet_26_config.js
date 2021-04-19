@@ -1,1 +1,1 @@
-var mnemonic = "alter garlic parent amateur cargo define surprise kidney topic drum else work";
+var mnemonic = "pepper way finger cupboard outside extra wave vast clump practice clap enrich";

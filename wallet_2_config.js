@@ -1,1 +1,1 @@
-var mnemonic = "identify before raw enact volume ranch giraffe forget lens web penalty chicken";
+var mnemonic = "life sadness else sure flat inherit vibrant camera example master planet chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol drift gate piece current behind verb pill air any idea pitch";
+var mnemonic = "exotic unfair end observe across cruel zone muffin sad kiwi sound begin";

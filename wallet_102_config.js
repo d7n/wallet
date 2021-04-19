@@ -1,1 +1,1 @@
-var mnemonic = "swift master spend jelly scorpion hurdle quit fitness wash dog glide crystal";
+var mnemonic = "bike what palm version minute barrel such stay calm crush decrease click";

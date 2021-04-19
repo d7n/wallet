@@ -1,1 +1,1 @@
-var mnemonic = "acquire heart effort submit frost hawk myth mountain truck cannon gravity grab";
+var mnemonic = "plunge gym fiscal elder frost machine ceiling obvious ticket leopard rack oil";

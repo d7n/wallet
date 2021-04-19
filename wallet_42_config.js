@@ -1,1 +1,1 @@
-var mnemonic = "random coin veteran else what solar sock phrase oval author kitchen uncover";
+var mnemonic = "useful coach thank pause pupil thought still shove exact weather fold text";

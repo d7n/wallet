@@ -1,1 +1,1 @@
-var mnemonic = "process muffin define issue absurd fiscal current clump easily midnight layer polar";
+var mnemonic = "ramp short frequent country wrong crater accident mask ten nothing reduce focus";

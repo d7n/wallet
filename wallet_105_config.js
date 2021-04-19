@@ -1,1 +1,1 @@
-var mnemonic = "grant joke spare coil silly woman april alone sausage already atom analyst";
+var mnemonic = "submit disagree method sphere achieve steak erase damp zoo chat delay caught";

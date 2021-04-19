@@ -1,1 +1,1 @@
-var mnemonic = "flee toast input face carbon scene reform thumb crucial topic pigeon atom";
+var mnemonic = "swear lab initial dice dwarf famous burden stay alter friend before load";

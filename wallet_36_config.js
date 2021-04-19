@@ -1,1 +1,1 @@
-var mnemonic = "list cotton master keep little deny pass theory enjoy make mushroom legal";
+var mnemonic = "seek inner demise infant good rail tortoise truth ancient drama glide spray";

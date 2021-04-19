@@ -1,1 +1,1 @@
-var mnemonic = "viable tiny net fix time token glad phrase eternal naive cycle viable";
+var mnemonic = "engage virtual hammer agent group ceiling ask science comic minimum primary error";

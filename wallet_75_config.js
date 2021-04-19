@@ -1,1 +1,1 @@
-var mnemonic = "upset flock eye start rebel bright talk stove position piece verify woman";
+var mnemonic = "before drama error bus tiger pencil worry confirm razor horn month tuna";

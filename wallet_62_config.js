@@ -1,1 +1,1 @@
-var mnemonic = "kiss coconut fantasy girl slot race analyst comic near main bulb coin";
+var mnemonic = "argue term claw aware battle holiday sorry hire atom pony this family";

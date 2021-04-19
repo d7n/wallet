@@ -1,1 +1,1 @@
-var mnemonic = "prize tilt middle buffalo art toy sight license small verb dentist never";
+var mnemonic = "text car heart alien enrich cargo tornado name market royal violin region";

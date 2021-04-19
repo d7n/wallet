@@ -1,1 +1,1 @@
-var mnemonic = "receive bulk disorder faculty annual elegant word mimic muscle bullet summer price";
+var mnemonic = "series brisk help cube river reveal park alien still body bind stem";

@@ -1,1 +1,1 @@
-var mnemonic = "shield sudden magnet bomb crouch mean suit license turkey refuse entry detect";
+var mnemonic = "suffer lab general sausage will social grow special choice helmet spare behave";

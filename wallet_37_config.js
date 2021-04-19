@@ -1,1 +1,1 @@
-var mnemonic = "blood perfect evolve indoor december discover road miracle puppy planet two latin";
+var mnemonic = "keen cereal athlete rifle practice warrior pen major animal fatal riot potato";

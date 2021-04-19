@@ -1,1 +1,1 @@
-var mnemonic = "kiss grief between crunch elegant knock raccoon peasant grant calm fatigue test";
+var mnemonic = "engage key autumn behind vanish ready swap art list plate cement flee";

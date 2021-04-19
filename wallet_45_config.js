@@ -1,1 +1,1 @@
-var mnemonic = "list try morning spy culture document ill rain arena rule agent track";
+var mnemonic = "weasel change leg cheap gentle polar always fat people cigar skin bridge";

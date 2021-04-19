@@ -1,1 +1,1 @@
-var mnemonic = "erosion mesh vacant unable talk sock retreat enemy zebra return auto nurse";
+var mnemonic = "tribe sense enjoy aim text sting camera supply stay one that depend";

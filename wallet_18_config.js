@@ -1,1 +1,1 @@
-var mnemonic = "swamp since brother suit ostrich spatial ready shine pear east point thought";
+var mnemonic = "canal start inherit join tuition seed copper fat cry front similar vendor";

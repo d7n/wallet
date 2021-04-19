@@ -1,1 +1,1 @@
-var mnemonic = "brief pink sing train dutch casual autumn candy ordinary aware rifle today";
+var mnemonic = "grab ranch today engage push stone motion anchor cannon total sail table";

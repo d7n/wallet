@@ -1,1 +1,1 @@
-var mnemonic = "copper flip draw seven sight public hint poverty then vintage color much";
+var mnemonic = "fossil aspect sport rough stem lend better siren prevent whisper aerobic must";

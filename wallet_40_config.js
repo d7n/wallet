@@ -1,1 +1,1 @@
-var mnemonic = "report hole retreat birth used frozen faint hip suit under debate black";
+var mnemonic = "pepper engage toilet spatial glimpse vanish garment fix tide autumn renew laundry";

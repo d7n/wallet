@@ -1,1 +1,1 @@
-var mnemonic = "crunch butter walk fatigue sing valley marriage rule notable riot transfer pledge";
+var mnemonic = "despair fog funny hundred maid below segment clay truly hotel fly stove";

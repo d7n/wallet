@@ -1,1 +1,1 @@
-var mnemonic = "winter inner screen fiber capable awful lonely obey foot pudding token cancel";
+var mnemonic = "evoke truly either pair usual knock fuel custom gap later broken elder";

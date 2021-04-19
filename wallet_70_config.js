@@ -1,1 +1,1 @@
-var mnemonic = "silent pair address helmet photo humble small ordinary blast grid debate topic";
+var mnemonic = "other design fever blossom lottery surround beach trash armor true body kite";

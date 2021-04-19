@@ -1,1 +1,1 @@
-var mnemonic = "purse section decide dream chase illness half daring spawn already luxury noodle";
+var mnemonic = "object misery night forest segment steak pill festival father cool fatigue people";

@@ -1,1 +1,1 @@
-var mnemonic = "sell season rug mom common leaf initial reunion gorilla much danger feel";
+var mnemonic = "afraid sock sand funny very modify unique occur dinosaur guilt nurse swift";

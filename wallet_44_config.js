@@ -1,1 +1,1 @@
-var mnemonic = "provide author holiday route device toward minute benefit year drastic habit ugly";
+var mnemonic = "pattern sail banana world crack where enter destroy garage floor tissue key";

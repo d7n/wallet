@@ -1,1 +1,1 @@
-var mnemonic = "license lion please mercy upgrade crumble supply dog play flame empower save";
+var mnemonic = "injury fatal quit cement feel coyote alert member indoor melody child crush";

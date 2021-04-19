@@ -1,1 +1,1 @@
-var mnemonic = "fabric kick swear session regular donkey husband summer year scheme moral possible";
+var mnemonic = "cargo year edge onion cage wage noodle immune swear piece punch fatal";

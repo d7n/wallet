@@ -1,1 +1,1 @@
-var mnemonic = "limb volcano hollow fresh describe ghost weekend reason eternal segment robust foil";
+var mnemonic = "license loyal social grunt puzzle sort mirror silent mimic fetch borrow wool";

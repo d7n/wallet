@@ -1,1 +1,1 @@
-var mnemonic = "school woman mixture wrestle argue blade nasty atom brief clutch shallow rebuild";
+var mnemonic = "army leg ghost sentence office large remain vanish torch village column all";

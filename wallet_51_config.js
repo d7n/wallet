@@ -1,1 +1,1 @@
-var mnemonic = "later merit bleak evidence share alley radio awesome monitor gentle dolphin hand";
+var mnemonic = "fit album observe fabric indicate ozone vacant sea symbol gym boost change";

@@ -1,1 +1,1 @@
-var mnemonic = "clump device elite media together spot glide nasty apple rally pole favorite";
+var mnemonic = "subway frog inch awesome deposit elite ship occur assist buffalo proud ancient";

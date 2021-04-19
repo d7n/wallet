@@ -1,1 +1,1 @@
-var mnemonic = "pencil cherry pioneer run material pulp whisper buyer negative now medal circle";
+var mnemonic = "guide modify answer fade arrow boring settle stable borrow company wish fancy";

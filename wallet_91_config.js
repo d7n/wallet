@@ -1,1 +1,1 @@
-var mnemonic = "picnic flip daughter diagram source village tunnel depart desert balcony boss share";
+var mnemonic = "useful circle require company garbage fade length turtle entire basket scare egg";

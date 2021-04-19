@@ -1,1 +1,1 @@
-var mnemonic = "dice expire disagree rabbit play invite dentist nephew deny spice weasel assist";
+var mnemonic = "because illness flat only kingdom song achieve client fatigue tube soul picnic";

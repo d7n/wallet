@@ -1,1 +1,1 @@
-var mnemonic = "common rack fatal security indicate trigger frost argue fan patient suit grass";
+var mnemonic = "lens walk spread stove music fish essay orphan tunnel present miracle brief";

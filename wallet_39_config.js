@@ -1,1 +1,1 @@
-var mnemonic = "tonight guide amused juice until net brick boring oak clap helmet avocado";
+var mnemonic = "flee bring heavy include play pool merry cost over bleak warrior loan";

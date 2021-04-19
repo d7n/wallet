@@ -1,1 +1,1 @@
-var mnemonic = "orbit capital sand town royal busy coil tribe claim oil mosquito minute";
+var mnemonic = "attract very recall whip best reason vast win achieve argue girl flip";

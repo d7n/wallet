@@ -1,1 +1,1 @@
-var mnemonic = "slide repair access open engine novel message robot hawk bulk effort photo";
+var mnemonic = "float hybrid donkey roof museum you slim oblige muscle bargain champion cancel";

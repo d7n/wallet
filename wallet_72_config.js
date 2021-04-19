@@ -1,1 +1,1 @@
-var mnemonic = "always fade memory payment pistol pelican polar network ride suffer shaft check";
+var mnemonic = "swarm client brief cram ramp this brain genius youth mutual talk eagle";

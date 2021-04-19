@@ -1,1 +1,1 @@
-var mnemonic = "ozone brief juice try prefer word frequent exercise concert evoke spread relax";
+var mnemonic = "penalty slide code number citizen panda another lake destroy turn climb okay";

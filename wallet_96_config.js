@@ -1,1 +1,1 @@
-var mnemonic = "drift escape slush embody nut tube ceiling stem throw book suspect image";
+var mnemonic = "tattoo broken relax blame anchor gloom until record casual fantasy essence fire";

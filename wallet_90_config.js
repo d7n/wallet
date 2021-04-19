@@ -1,1 +1,1 @@
-var mnemonic = "magnet wolf obtain arctic panda mixture cheese theory until hello visual leader";
+var mnemonic = "pipe elephant network wheel planet siege canvas smoke tattoo unhappy tobacco require";

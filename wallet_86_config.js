@@ -1,1 +1,1 @@
-var mnemonic = "blouse critic strike stable sorry bracket annual dawn message addict fitness excuse";
+var mnemonic = "deputy auto slogan split lunar steak exile detail hole engage example expire";

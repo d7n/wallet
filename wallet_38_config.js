@@ -1,1 +1,1 @@
-var mnemonic = "artwork rotate inject toe pole plug fiction fan struggle shy private key";
+var mnemonic = "north battle test icon broccoli broccoli physical foam waste doll juice person";

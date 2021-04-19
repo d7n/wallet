@@ -1,1 +1,1 @@
-var mnemonic = "amateur cushion print absent maple limb track mix bleak finish catalog inject";
+var mnemonic = "liberty birth basket swim relax dawn lecture copy image armed horror limb";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow exit boring dignity deposit lab power solid venture assume absorb fox";
+var mnemonic = "term world useless fortune disagree piece give ramp peanut blur order excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna time detect foil plastic force fetch torch crunch lady group pave";
+var mnemonic = "leave duck curtain hazard boat theme bind raven boost below develop legal";

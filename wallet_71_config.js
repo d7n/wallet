@@ -1,1 +1,1 @@
-var mnemonic = "battle achieve mule lonely vacant turtle sail little hen tumble inside any";
+var mnemonic = "future marble draw track bundle milk crawl shrimp phone spray minimum caught";

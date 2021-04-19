@@ -1,1 +1,1 @@
-var mnemonic = "student slush blouse rural lens few drop stone mushroom accident void turtle";
+var mnemonic = "pass cloud wrist old defense summer suffer market drink tooth payment stairs";

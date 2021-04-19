@@ -1,1 +1,1 @@
-var mnemonic = "design enemy tank net promote elephant festival produce town heavy club ivory";
+var mnemonic = "trend camp ring tower notice shiver assault satoshi purse able useless phone";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cigar security evidence paddle success stomach planet law indicate opinion oyster";
+var mnemonic = "lady ranch install rescue opera salmon clutch vague deal kit moment author";

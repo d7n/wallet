@@ -1,1 +1,1 @@
-var mnemonic = "vacant isolate hand donor grief remain mad salad dynamic file paddle rude";
+var mnemonic = "dress craft combine slice swear lumber relax woman install eager lecture antenna";

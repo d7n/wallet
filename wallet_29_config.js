@@ -1,1 +1,1 @@
-var mnemonic = "joke lens proud believe wash cruel stairs captain weird first stadium bachelor";
+var mnemonic = "tenant bone secret lazy valid small more mountain fish total subject shop";

@@ -1,1 +1,1 @@
-var mnemonic = "fog fix thought female clerk inject middle trip carpet pull marble capital";
+var mnemonic = "denial tiny improve upset raven taste palace insane rude candy concert measure";

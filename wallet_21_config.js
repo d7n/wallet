@@ -1,1 +1,1 @@
-var mnemonic = "super maple toy super unusual hub lecture delay roast wedding fiber series";
+var mnemonic = "path other retreat bridge luggage banner oxygen lyrics tired void hurdle seed";

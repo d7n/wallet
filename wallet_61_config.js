@@ -1,1 +1,1 @@
-var mnemonic = "extend convince rally alpha sand fluid select height garage address unknown give";
+var mnemonic = "tonight master jealous short cave lemon prevent better arrow fashion tone among";

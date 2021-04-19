@@ -1,1 +1,1 @@
-var mnemonic = "dwarf differ roof absent loud clap cause supply switch board maze thumb";
+var mnemonic = "occur bounce giggle aim rate buffalo dog soon country glue oxygen bubble";

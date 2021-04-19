@@ -1,1 +1,1 @@
-var mnemonic = "sadness resemble stuff advice affair casual drip wide cannon skirt town have";
+var mnemonic = "father arch bring bullet funny stable wrap gossip sphere citizen vicious chapter";

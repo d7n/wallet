@@ -1,1 +1,1 @@
-var mnemonic = "despair crack limit boost bullet require inform lake filter fun pear decade";
+var mnemonic = "gadget grid idea future switch phrase action fiber announce height decide finger";

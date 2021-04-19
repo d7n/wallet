@@ -1,1 +1,1 @@
-var mnemonic = "casual shop point inmate typical moon toss liquid critic harbor trigger van";
+var mnemonic = "appear resemble normal tragic usual neck blame burger phrase aware nominee endorse";

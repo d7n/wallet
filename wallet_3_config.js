@@ -1,1 +1,1 @@
-var mnemonic = "permit burger flee angle pole record false cigar toast olive floor critic";
+var mnemonic = "cotton emotion giggle coconut pear actor kitchen dizzy priority old unique enjoy";

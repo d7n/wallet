@@ -1,1 +1,1 @@
-var mnemonic = "equip squeeze decrease cruel joy expire beach core rude begin because exchange";
+var mnemonic = "radar scale shift school disease dynamic retire quantum float woman dynamic other";

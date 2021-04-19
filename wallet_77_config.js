@@ -1,1 +1,1 @@
-var mnemonic = "glory avoid crystal wage guess horse wool enroll crystal cost chuckle rural";
+var mnemonic = "marble between chief draft gauge noble prepare ivory cricket brisk novel spot";

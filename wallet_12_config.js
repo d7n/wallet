@@ -1,1 +1,1 @@
-var mnemonic = "slim edit text safe camp rate velvet helmet blur gain flag planet";
+var mnemonic = "better immense scrap task clerk fee advice coil fee horror major broken";

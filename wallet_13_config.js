@@ -1,1 +1,1 @@
-var mnemonic = "crumble rent tag cable help run ice gravity ask merry opinion great";
+var mnemonic = "rent aerobic puzzle inhale mimic hospital permit bachelor mad syrup hello laugh";

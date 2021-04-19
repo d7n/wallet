@@ -1,1 +1,1 @@
-var mnemonic = "cook junior endorse goose spray fish toy taxi mango quantum spice cluster";
+var mnemonic = "forward ring reveal ocean tube link ugly mass primary fabric humor height";

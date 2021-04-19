@@ -1,1 +1,1 @@
-var mnemonic = "resource flower garden voyage festival retreat fee squeeze bind patient guess buzz";
+var mnemonic = "napkin upgrade way donkey heart kiss harsh wall know stumble holiday nurse";

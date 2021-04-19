@@ -1,1 +1,1 @@
-var mnemonic = "pave client joy rescue place firm truck sign tunnel debate color income";
+var mnemonic = "forget that luxury connect guilt cheese common between fetch nut axis essence";

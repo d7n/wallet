@@ -1,1 +1,1 @@
-var mnemonic = "fancy news regular slight welcome trial fatal loud void misery chronic race";
+var mnemonic = "photo rule client entire argue mystery radar dinosaur reveal matter smile father";

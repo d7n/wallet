@@ -1,1 +1,1 @@
-var mnemonic = "midnight lumber describe brush bargain suffer crucial attack essence slender jacket submit";
+var mnemonic = "suffer banner riot need girl armor code blast claim arrive inquiry lens";

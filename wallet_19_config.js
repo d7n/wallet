@@ -1,1 +1,1 @@
-var mnemonic = "century young upper rare tiger tomato leader throw upgrade bread exile ginger";
+var mnemonic = "alone analyst under estate firm fruit mixture april lobster age route ski";

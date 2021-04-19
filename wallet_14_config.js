@@ -1,1 +1,1 @@
-var mnemonic = "mind tornado aim blind modify keen abuse rain repair bid icon cricket";
+var mnemonic = "margin amount pen lawn pupil horse stumble despair camera rocket shallow drastic";

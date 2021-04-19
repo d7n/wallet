@@ -1,1 +1,1 @@
-var mnemonic = "bulk sunny face develop friend gas march disagree sister spot era cage";
+var mnemonic = "perfect elevator future defy track piece jewel cricket only uncle sniff snow";

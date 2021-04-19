@@ -1,1 +1,1 @@
-var mnemonic = "brick use fringe tackle advance strike unfair neutral own future initial sing";
+var mnemonic = "profit boil bid duck dry art churn text rain razor audit entry";

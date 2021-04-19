@@ -1,1 +1,1 @@
-var mnemonic = "sword anchor amateur profit craft cook medal runway ladder enter radar project";
+var mnemonic = "manual wreck motor camp scorpion smile jacket assist sister must toss copy";

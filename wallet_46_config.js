@@ -1,1 +1,1 @@
-var mnemonic = "erode common various palace scrap pitch wink merry target speed climb able";
+var mnemonic = "blouse mimic glue stand limb usage teach subject prevent announce novel version";

@@ -1,1 +1,1 @@
-var mnemonic = "tip street million april expect slush almost such cushion cricket isolate deer";
+var mnemonic = "huge nut filter globe brick stem advice bullet glow resemble yellow major";

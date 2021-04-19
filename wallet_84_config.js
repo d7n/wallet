@@ -1,1 +1,1 @@
-var mnemonic = "urban flag dutch stand noble fancy blood dose attitude quality ramp meadow";
+var mnemonic = "core collect bundle finger other scissors mean coil same response mystery pact";
