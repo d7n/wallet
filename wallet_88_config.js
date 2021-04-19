@@ -1,1 +1,1 @@
-var mnemonic = "pencil purchase van motion confirm cash arrow broken reopen index unaware emotion";
+var mnemonic = "nasty hungry sword tribe consider slender loud outside slice usual light width";

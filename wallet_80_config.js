@@ -1,1 +1,1 @@
-var mnemonic = "original subway rally token bulb picture raccoon below liquid awkward torch spring";
+var mnemonic = "magic emerge any pretty faith orange connect police stand upon capable believe";

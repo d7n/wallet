@@ -1,1 +1,1 @@
-var mnemonic = "boss exchange wise truly doctor muffin inch inflict unhappy honey uncle remain";
+var mnemonic = "giraffe way secret duty inquiry evil nose attack quit addict paddle rescue";

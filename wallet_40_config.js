@@ -1,1 +1,1 @@
-var mnemonic = "okay employ meat copy sister battle mail sun peasant this name risk";
+var mnemonic = "shoot solid secret duty feature buyer then bunker together divide order mind";

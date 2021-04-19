@@ -1,1 +1,1 @@
-var mnemonic = "miss rare brisk demise wonder unhappy old forest require dinner false suspect";
+var mnemonic = "summer dress raven frequent coast sample away hat earth enrich inmate kind";

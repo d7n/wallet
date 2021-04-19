@@ -1,1 +1,1 @@
-var mnemonic = "section soccer gentle correct easily morning candy cycle cycle aspect spatial net";
+var mnemonic = "receive service girl kingdom crush fluid female vacuum owner good camera used";

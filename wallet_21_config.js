@@ -1,1 +1,1 @@
-var mnemonic = "describe age bacon scatter color raw name walnut base devote start hint";
+var mnemonic = "horse shock sphere expire scissors width field soft race vital tool tomato";

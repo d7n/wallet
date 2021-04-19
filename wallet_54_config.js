@@ -1,1 +1,1 @@
-var mnemonic = "walk fruit people file battle three essence magnet art word alarm sort";
+var mnemonic = "rifle prize poet month tone work puppy observe keep brass edge review";

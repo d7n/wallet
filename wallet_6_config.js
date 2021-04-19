@@ -1,1 +1,1 @@
-var mnemonic = "practice salon battle across climb draw leg sign degree regular success reflect";
+var mnemonic = "symbol snake just lion glimpse tackle bring cabin glide pottery swarm crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "grant vacant merry zebra ramp sibling access arrive coach satoshi east also";
+var mnemonic = "range render cup always crack vapor guess blade agent movie vast claw";

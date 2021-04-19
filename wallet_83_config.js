@@ -1,1 +1,1 @@
-var mnemonic = "print slot board finger traffic audit smile equal car super action amused";
+var mnemonic = "project lend exile view corn lazy radar mushroom sound pass twin load";

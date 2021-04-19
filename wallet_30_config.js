@@ -1,1 +1,1 @@
-var mnemonic = "train twelve leisure connect ozone exotic notice celery decrease rabbit gun session";
+var mnemonic = "coil control essay trim dice canal grant smooth winter wink pepper mixed";

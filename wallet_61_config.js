@@ -1,1 +1,1 @@
-var mnemonic = "flame until target accuse steak slow know confirm comic fitness erase mother";
+var mnemonic = "guilt narrow coffee transfer issue win glimpse fantasy moment utility case lamp";

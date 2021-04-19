@@ -1,1 +1,1 @@
-var mnemonic = "crawl language sausage puzzle casino cream lab motor tool gadget asthma curtain";
+var mnemonic = "purity scan candy couch alpha occur later trap squeeze sniff diary tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi praise home offer mule slide focus thought hamster cannon stadium laugh";
+var mnemonic = "trouble verb appear update wrestle person sad firm clock stumble monitor conduct";

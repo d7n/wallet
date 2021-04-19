@@ -1,1 +1,1 @@
-var mnemonic = "fork boil diary civil guilt around scrub elegant jaguar flavor gate romance";
+var mnemonic = "settle food stock rebuild friend crucial net educate control crucial empty grief";

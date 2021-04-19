@@ -1,1 +1,1 @@
-var mnemonic = "bamboo insect north endorse path witness maze exact powder educate damp million";
+var mnemonic = "please shaft north bless ocean balance tray taxi enlist ball cannon thank";

@@ -1,1 +1,1 @@
-var mnemonic = "absent blanket animal language ocean carbon above demand whisper puppy rubber escape";
+var mnemonic = "install asthma fiber type crumble tonight resist brown impact clean indoor indicate";

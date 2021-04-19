@@ -1,1 +1,1 @@
-var mnemonic = "pond brisk panic exchange enforce doll feel attend endorse silk ordinary maid";
+var mnemonic = "figure apart educate armor blame upgrade essay eagle flame final stool cricket";

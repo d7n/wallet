@@ -1,1 +1,1 @@
-var mnemonic = "early bunker canal party select chalk donkey gloom birth unhappy improve zone";
+var mnemonic = "coil leaf power build weird nice quit order ostrich simple road inch";

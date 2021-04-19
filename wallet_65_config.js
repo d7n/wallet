@@ -1,1 +1,1 @@
-var mnemonic = "donor salad carry jaguar settle candy amazing black jacket tail speak glove";
+var mnemonic = "loop tonight swim camp ride into rifle idle hundred voyage stove power";

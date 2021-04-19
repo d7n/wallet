@@ -1,1 +1,1 @@
-var mnemonic = "fence basket stock object flavor harbor match usual kitchen despair tribe hard";
+var mnemonic = "brain tumble twenty minor flame enroll insane honey wear slow nuclear tired";

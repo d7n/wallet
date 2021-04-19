@@ -1,1 +1,1 @@
-var mnemonic = "firm net atom harbor island differ post game ship gun stand quick";
+var mnemonic = "scrub liberty awake guide almost lend mobile stereo muffin fragile food talent";

@@ -1,1 +1,1 @@
-var mnemonic = "forest during bleak whale differ glimpse drum rule bitter oil brand basket";
+var mnemonic = "powder kit hungry sport danger what exercise pledge nut pony train grab";

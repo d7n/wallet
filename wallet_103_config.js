@@ -1,1 +1,1 @@
-var mnemonic = "suffer rule prevent guide anger pair spike ozone praise trend horse offer";
+var mnemonic = "scrub dumb typical turtle essay ozone female canyon upgrade this cinnamon release";

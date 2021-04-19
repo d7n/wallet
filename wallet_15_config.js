@@ -1,1 +1,1 @@
-var mnemonic = "boost beach paddle kiss cause discover camp verb congress east hip fury";
+var mnemonic = "valve ignore trick law bag burst riot then liberty minimum gloom girl";

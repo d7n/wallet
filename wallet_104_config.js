@@ -1,1 +1,1 @@
-var mnemonic = "lens burst piano attend dream safe margin liar payment direct link nature";
+var mnemonic = "quality elephant boy sting ugly tiger figure stem project target ethics album";

@@ -1,1 +1,1 @@
-var mnemonic = "torch birth head soul verb rare palm ecology jump year replace upon";
+var mnemonic = "wait direct voyage latin sick taxi industry dune differ claim deer rely";

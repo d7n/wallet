@@ -1,1 +1,1 @@
-var mnemonic = "drift home dove dignity dignity feed thumb praise hour knee cradle develop";
+var mnemonic = "street glimpse outside soldier veteran maid cushion clarify quality crawl pipe question";

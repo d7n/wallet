@@ -1,1 +1,1 @@
-var mnemonic = "blame horn issue rack area tag page lunch clog game peanut nice";
+var mnemonic = "major write gorilla tiny season iron best dream lunar sun flee supreme";

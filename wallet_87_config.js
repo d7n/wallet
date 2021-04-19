@@ -1,1 +1,1 @@
-var mnemonic = "right extend then float shadow pink match burst help roast venture mesh";
+var mnemonic = "finish fatigue property because rough about laundry scissors door wish soul slice";

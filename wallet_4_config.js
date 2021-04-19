@@ -1,1 +1,1 @@
-var mnemonic = "buddy trip employ book token never clap mammal access alpha horror simple";
+var mnemonic = "goose general renew swear music sad stem ritual butter rather subway absent";

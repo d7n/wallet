@@ -1,1 +1,1 @@
-var mnemonic = "void later machine major exercise traffic room human twin boy kangaroo rural";
+var mnemonic = "service eternal despair acid mandate hat way reflect sea notable little recall";

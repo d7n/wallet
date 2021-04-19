@@ -1,1 +1,1 @@
-var mnemonic = "design exile maple search nose adult add trend say mountain useless disagree";
+var mnemonic = "impulse month eyebrow planet whisper patient pelican vibrant perfect news casual regular";

@@ -1,1 +1,1 @@
-var mnemonic = "slot off million orchard swear accuse syrup awkward fiber solar win fox";
+var mnemonic = "ridge breeze year jar dove armor final ahead model exile worth suffer";

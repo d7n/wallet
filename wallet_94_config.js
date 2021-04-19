@@ -1,1 +1,1 @@
-var mnemonic = "silent because mule deny trim bridge grass outdoor caution vendor turn tuition";
+var mnemonic = "tennis auction item honey hint twist farm fetch pole unable gospel purse";

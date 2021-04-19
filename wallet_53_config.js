@@ -1,1 +1,1 @@
-var mnemonic = "prevent hero maid soul liar carpet vapor boil vivid empower amount law";
+var mnemonic = "color industry senior fury tiny human pact tobacco purse simple dragon fine";

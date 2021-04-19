@@ -1,1 +1,1 @@
-var mnemonic = "view narrow mutual ancient upgrade pencil mobile hamster primary lobster charge among";
+var mnemonic = "sword bamboo trip midnight salt similar auction speak catalog disagree stuff border";

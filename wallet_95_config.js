@@ -1,1 +1,1 @@
-var mnemonic = "marriage patch airport alpha west develop vanish pass produce room globe fit";
+var mnemonic = "define fly fox sadness wash style alley city input salad correct drip";

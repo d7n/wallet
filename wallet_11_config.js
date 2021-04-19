@@ -1,1 +1,1 @@
-var mnemonic = "profit oval slide sort injury share boat finish erase expire soup aim";
+var mnemonic = "similar love gift pigeon rescue foster loop spice ramp valve destroy civil";

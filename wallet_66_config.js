@@ -1,1 +1,1 @@
-var mnemonic = "gadget canvas play drive wish post city noodle pitch engage garment dad";
+var mnemonic = "sweet venue illness fault wisdom across space life village banana ecology ski";

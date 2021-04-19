@@ -1,1 +1,1 @@
-var mnemonic = "verify noodle fabric female hobby unaware give maple mango syrup common pill";
+var mnemonic = "cream gown month harvest what curve wage cluster walk rose tilt trade";

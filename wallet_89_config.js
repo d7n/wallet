@@ -1,1 +1,1 @@
-var mnemonic = "great output benefit during bullet awkward digital festival issue song domain sound";
+var mnemonic = "candy private fever task snow broken roof burden clutch viable pattern hire";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior double dial broccoli exercise destroy excite can pen just nominee private";
+var mnemonic = "nominee rug water prison hen surge simple fall baby outside spice december";

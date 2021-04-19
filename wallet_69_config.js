@@ -1,1 +1,1 @@
-var mnemonic = "annual general trust travel satisfy save notice rural wear reason load crucial";
+var mnemonic = "hungry cannon foam sock run violin mixture window surface master prevent wash";

@@ -1,1 +1,1 @@
-var mnemonic = "insect flower pretty general online hurt process test mind reform hint arctic";
+var mnemonic = "ring ugly biology addict mountain cruel clean return bonus pizza major august";

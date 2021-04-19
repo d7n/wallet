@@ -1,1 +1,1 @@
-var mnemonic = "pupil diary image swear enroll attend upset oak wool ladder skirt verify";
+var mnemonic = "raw alter dose view wise place crater link denial insane rifle struggle";

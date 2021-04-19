@@ -1,1 +1,1 @@
-var mnemonic = "excite tent drum behind drama crouch reopen sentence castle submit absorb pet";
+var mnemonic = "elevator scout turtle canoe flush brother cook praise busy brief pretty annual";

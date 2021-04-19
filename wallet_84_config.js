@@ -1,1 +1,1 @@
-var mnemonic = "lumber immense fault differ disorder thought also cream crystal whisper bridge voice";
+var mnemonic = "praise dinosaur quiz observe frame priority finger car case brave direct dignity";

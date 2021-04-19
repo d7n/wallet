@@ -1,1 +1,1 @@
-var mnemonic = "erupt spoon solid sweet use math odor destroy board ugly canoe announce";
+var mnemonic = "enlist cinnamon sadness rich panther knock peace agent hunt scorpion finish hazard";

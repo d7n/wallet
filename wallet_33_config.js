@@ -1,1 +1,1 @@
-var mnemonic = "pistol play cube height shift undo review stock slight search canyon inherit";
+var mnemonic = "glass inhale effort movie praise report arrest another dwarf else term drift";

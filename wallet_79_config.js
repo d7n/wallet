@@ -1,1 +1,1 @@
-var mnemonic = "tip pepper kidney vehicle sleep enter festival cradle simple item gentle stage";
+var mnemonic = "wasp gasp surge symbol salt balance wash leaf hamster october boat hen";

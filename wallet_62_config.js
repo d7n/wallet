@@ -1,1 +1,1 @@
-var mnemonic = "oak maximum whisper diary tackle cricket age sugar soccer gauge item muscle";
+var mnemonic = "because man bullet city crater fee leopard plastic dial citizen tornado inner";

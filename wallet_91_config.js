@@ -1,1 +1,1 @@
-var mnemonic = "receive inquiry floor mandate lab walnut finish busy matrix uniform corn gospel";
+var mnemonic = "ignore super ability stay clog appear layer raccoon already empty timber marine";

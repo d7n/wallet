@@ -1,1 +1,1 @@
-var mnemonic = "leg gorilla right pause science stone enjoy faith slender biology between purchase";
+var mnemonic = "spoil neutral patch predict grain sell nurse plastic fork giraffe unaware crime";

@@ -1,1 +1,1 @@
-var mnemonic = "box hollow oak volcano blush mask damage south lottery circle agree live";
+var mnemonic = "fiction flame illness guess chimney country harvest chapter awful off blind element";

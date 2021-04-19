@@ -1,1 +1,1 @@
-var mnemonic = "eager expose decorate little merge van inch crazy silk hard fault unfair";
+var mnemonic = "canvas connect border baby imitate merge title wrestle cattle victory hamster novel";

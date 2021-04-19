@@ -1,1 +1,1 @@
-var mnemonic = "able elephant fiction volcano color nominee cross apple card monitor panda cancel";
+var mnemonic = "mobile spirit sibling humor section artefact mean dust ketchup school better ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth deny debate mouse supply vault employ kind derive misery gadget tower";
+var mnemonic = "snake enable stomach away rich cotton onion bus oval hand rifle noodle";

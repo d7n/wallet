@@ -1,1 +1,1 @@
-var mnemonic = "wrong minute bitter ring try idea rent guilt situate way border room";
+var mnemonic = "auction test fee vendor buyer outer reason walk enforce act notice curtain";

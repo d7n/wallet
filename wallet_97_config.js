@@ -1,1 +1,1 @@
-var mnemonic = "dutch wrist diagram asset color useful proof room phrase galaxy demand addict";
+var mnemonic = "other cotton ability dress arch ride stand bachelor man level bone brief";

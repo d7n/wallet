@@ -1,1 +1,1 @@
-var mnemonic = "spring field hurry dirt wonder occur travel tower leaf derive cry danger";
+var mnemonic = "motion agree lemon rapid hidden affair anchor reward first treat electric police";

@@ -1,1 +1,1 @@
-var mnemonic = "piano start wife cup embark whale crane angle market clap popular tape";
+var mnemonic = "true enough meadow chimney health apart travel sudden shield dynamic ankle decrease";

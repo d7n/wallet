@@ -1,1 +1,1 @@
-var mnemonic = "universe wine drip fall cigar drift win alarm reason author adapt legend";
+var mnemonic = "damage sugar fine picnic glide reveal first logic scout stove chunk record";

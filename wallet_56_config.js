@@ -1,1 +1,1 @@
-var mnemonic = "plunge similar cycle sorry library obey tortoise fan swap furnace rookie donate";
+var mnemonic = "apology solve letter all hold stone mobile stand monster lazy drip follow";

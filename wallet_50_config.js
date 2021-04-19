@@ -1,1 +1,1 @@
-var mnemonic = "protect gossip rose assist curtain isolate raven able situate fat layer runway";
+var mnemonic = "general dawn catch laugh few avoid angry derive warm simple tornado echo";

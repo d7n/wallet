@@ -1,1 +1,1 @@
-var mnemonic = "cancel film jazz cost program trash future bomb buyer stereo club wheel";
+var mnemonic = "bleak regret victory cancel elder world table spy forest away broom click";

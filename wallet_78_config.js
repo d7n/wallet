@@ -1,1 +1,1 @@
-var mnemonic = "interest crumble cable cool canoe trouble material code cruel cart ladder budget";
+var mnemonic = "prosper powder wash police hour blame nothing forget south smart flash recycle";

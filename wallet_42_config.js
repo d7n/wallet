@@ -1,1 +1,1 @@
-var mnemonic = "rocket cheese dose salt police lucky bargain thrive dolphin that travel flee";
+var mnemonic = "curve cube check cereal jelly dune impulse mirror butter caution enough author";

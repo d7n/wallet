@@ -1,1 +1,1 @@
-var mnemonic = "melt visit anxiety twenty blast dilemma urge pretty screen entry crash enable";
+var mnemonic = "rain congress town together bitter retire kiwi melody umbrella satoshi explain surge";

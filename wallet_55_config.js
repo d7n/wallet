@@ -1,1 +1,1 @@
-var mnemonic = "finger jeans miracle vessel brain lava shuffle clip siren air cliff agent";
+var mnemonic = "virtual follow always casual math forget toe corn negative pudding silent sort";

@@ -1,1 +1,1 @@
-var mnemonic = "elder square bracket whisper stairs sudden peace tray heart cram sand focus";
+var mnemonic = "bag smoke box legal model across spread around network multiply veteran enroll";

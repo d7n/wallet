@@ -1,1 +1,1 @@
-var mnemonic = "emotion final arena bus piece blind forest gospel audit worth abstract casual";
+var mnemonic = "word napkin load depth exhaust recall forum now key toast world dirt";

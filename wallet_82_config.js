@@ -1,1 +1,1 @@
-var mnemonic = "inner crane exit onion essay aspect lady together whale scissors curve swift";
+var mnemonic = "steel program cat city strike jeans inhale mention husband glue village polar";

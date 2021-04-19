@@ -1,1 +1,1 @@
-var mnemonic = "when mango roast certain chunk biology spare target artwork rival phrase grape";
+var mnemonic = "awesome special suggest alcohol lend reward expose inquiry decrease night movie place";

@@ -1,1 +1,1 @@
-var mnemonic = "since champion tower square execute globe color away smile royal veteran worth";
+var mnemonic = "rug warfare annual parent brisk point enter steel green stove during coin";

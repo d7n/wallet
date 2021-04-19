@@ -1,1 +1,1 @@
-var mnemonic = "twist damage swap palace drop enrich orbit taste embody symbol tattoo fuel";
+var mnemonic = "upset pipe climb rebel win purpose garbage wagon much warm ostrich flush";

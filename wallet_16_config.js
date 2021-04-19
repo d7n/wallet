@@ -1,1 +1,1 @@
-var mnemonic = "impose begin tape maximum hole earn sock hotel three decrease later thank";
+var mnemonic = "argue wisdom insect left clarify section goose army exit brave guilt this";

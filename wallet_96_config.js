@@ -1,1 +1,1 @@
-var mnemonic = "sketch fade stairs miracle tree plunge knife obey lemon lecture poverty laundry";
+var mnemonic = "burden same load solar mistake gas target must innocent tornado height brand";

@@ -1,1 +1,1 @@
-var mnemonic = "original wisdom salad help family silk bounce first popular tone marble demise";
+var mnemonic = "leave kingdom way frame bird boat april gadget job quiz worry enhance";

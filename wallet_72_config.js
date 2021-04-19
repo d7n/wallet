@@ -1,1 +1,1 @@
-var mnemonic = "north begin this assume lawsuit legal leisure organ whip bulk crunch treat";
+var mnemonic = "simple online cross huge ankle erode room crater crime depart code brave";

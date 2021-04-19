@@ -1,1 +1,1 @@
-var mnemonic = "lecture space reunion furnace draw bundle inform cradle cart save phone aim";
+var mnemonic = "junk manual list sport puzzle jar walnut front burst video hour nature";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage left range horror minimum spider major culture flag issue wonder suffer";
+var mnemonic = "soda check turtle holiday clerk patch clever bunker flame panic imitate enough";

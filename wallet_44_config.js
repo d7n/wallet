@@ -1,1 +1,1 @@
-var mnemonic = "muffin cruel blossom melt clock attitude this rapid turkey thought vote drift";
+var mnemonic = "noise satisfy differ fault sign immune liar material plug cannon pupil pact";

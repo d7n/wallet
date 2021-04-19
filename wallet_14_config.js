@@ -1,1 +1,1 @@
-var mnemonic = "found path merit long because hand once shed fortune page inflict once";
+var mnemonic = "dress mixture clip execute glove virtual cage able chunk lawsuit loud fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "treat want zoo coach school borrow hawk runway effort reunion minimum useful";
+var mnemonic = "setup forum salt suit awkward ranch often used sword owner jeans unveil";

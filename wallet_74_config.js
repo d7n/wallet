@@ -1,1 +1,1 @@
-var mnemonic = "green illness client worth increase fancy garbage galaxy buffalo load shine fruit";
+var mnemonic = "venue raise mistake gym any maid lizard shoulder ball festival sound insane";
