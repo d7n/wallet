@@ -1,1 +1,1 @@
-var mnemonic = "purity measure fold possible isolate leopard identify dash tell violin clog joy";
+var mnemonic = "police bleak order giraffe card gun uphold engine lab story actual comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "increase run stadium angry amazing tiger seat life mobile donate avocado lucky";
+var mnemonic = "wave pupil slender spread else raccoon cushion garbage worth inquiry strategy dad";

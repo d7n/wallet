@@ -1,1 +1,1 @@
-var mnemonic = "stem travel vessel heart pitch olympic word resemble hungry appear erosion poverty";
+var mnemonic = "gather goddess fancy discover rent detail because undo odor foot segment eternal";

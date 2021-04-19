@@ -1,1 +1,1 @@
-var mnemonic = "thought insane tennis hundred spell action flat mad food track response rare";
+var mnemonic = "wing fitness alert chalk diamond speak focus puzzle later ivory author pond";

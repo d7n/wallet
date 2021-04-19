@@ -1,1 +1,1 @@
-var mnemonic = "execute artwork normal example illegal face object garment venture inherit genuine dial";
+var mnemonic = "pole right camera tunnel curtain speak warrior wood tragic thank attitude judge";

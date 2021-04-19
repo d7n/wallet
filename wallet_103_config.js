@@ -1,1 +1,1 @@
-var mnemonic = "shoulder lift initial alcohol what abandon champion movie whip ensure weekend win";
+var mnemonic = "core maple enemy ten vault doll pool cart knock material chaos boss";

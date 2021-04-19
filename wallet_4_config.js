@@ -1,1 +1,1 @@
-var mnemonic = "lunar trend jazz either chair believe scare raccoon scout tissue famous friend";
+var mnemonic = "solution head title gym soft piano grape collect edit cram glare regret";

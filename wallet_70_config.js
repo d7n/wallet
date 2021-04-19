@@ -1,1 +1,1 @@
-var mnemonic = "comic letter excite bronze size finish during weapon dutch rigid angry emotion";
+var mnemonic = "tone bind minute allow bomb click home home general material seven where";

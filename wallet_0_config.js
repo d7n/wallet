@@ -1,1 +1,1 @@
-var mnemonic = "alpha dinosaur system board much sick target echo amused unable history gentle";
+var mnemonic = "family reflect example bridge glass rigid steel true sweet pen desert thing";

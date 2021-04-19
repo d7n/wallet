@@ -1,1 +1,1 @@
-var mnemonic = "save fitness pulse symbol pride powder wine what abandon device bulk receive";
+var mnemonic = "upon arctic fiber pilot vanish angle prosper fashion danger wedding legal spread";

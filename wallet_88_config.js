@@ -1,1 +1,1 @@
-var mnemonic = "march palace army bean tenant prosper offer jazz pact jacket vast corn";
+var mnemonic = "mean sudden mandate model market cable close enlist code jump swap feel";

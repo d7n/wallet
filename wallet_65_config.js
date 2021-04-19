@@ -1,1 +1,1 @@
-var mnemonic = "expose voyage govern purpose increase pelican shine used discover axis advance fatigue";
+var mnemonic = "vocal curious concert pelican detect grab west muffin print crumble brisk ritual";

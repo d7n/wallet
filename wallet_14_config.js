@@ -1,1 +1,1 @@
-var mnemonic = "rule track bike lyrics small laptop nominee collect advice math random repair";
+var mnemonic = "admit reward rookie chicken awful game skin pudding where ancient cause budget";

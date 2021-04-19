@@ -1,1 +1,1 @@
-var mnemonic = "miracle frown voyage lift rib nut mansion inform hole charge left initial";
+var mnemonic = "employ grain suffer already anchor please stick flip okay rigid clay pottery";

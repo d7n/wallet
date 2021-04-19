@@ -1,1 +1,1 @@
-var mnemonic = "crystal cancel scheme hollow genuine provide reflect saddle rely slam metal repair";
+var mnemonic = "moon pass doctor diary banana law code country squeeze play bench tiny";

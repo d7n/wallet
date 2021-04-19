@@ -1,1 +1,1 @@
-var mnemonic = "bread youth cousin below arrest vintage neglect goose burst lecture rebel undo";
+var mnemonic = "family father muscle artefact attack grit task sort true use moral three";

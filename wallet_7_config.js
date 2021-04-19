@@ -1,1 +1,1 @@
-var mnemonic = "firm omit grace music aerobic shine stock fury about someone broccoli trigger";
+var mnemonic = "tuna payment great original ten slender lens rather divide hobby ramp spoon";

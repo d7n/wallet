@@ -1,1 +1,1 @@
-var mnemonic = "mammal nose dust supreme decline square river bleak trend curtain gown lamp";
+var mnemonic = "tip fade super knock bounce cram myth chronic laundry bone inside cover";

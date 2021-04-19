@@ -1,1 +1,1 @@
-var mnemonic = "young side credit crisp other unusual powder palace law shop column humble";
+var mnemonic = "twelve wrestle fortune raw leg keen vote scale slim perfect legal panic";

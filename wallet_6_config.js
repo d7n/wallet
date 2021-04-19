@@ -1,1 +1,1 @@
-var mnemonic = "cause they unfold crawl resource clerk minimum upon time excess slogan arena";
+var mnemonic = "scorpion build fan right crisp behave tilt salt trend lab rotate garbage";

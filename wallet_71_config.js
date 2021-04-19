@@ -1,1 +1,1 @@
-var mnemonic = "they symbol pelican chest orbit primary palace net conduct dynamic nation enemy";
+var mnemonic = "loud stable member pyramid breeze prosper perfect such coach stumble soft wage";

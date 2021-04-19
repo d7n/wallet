@@ -1,1 +1,1 @@
-var mnemonic = "prosper episode arch grain furnace sweet access expand defense cute habit box";
+var mnemonic = "melt adult proud minor decrease space loyal jazz glare table duty buyer";

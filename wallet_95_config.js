@@ -1,1 +1,1 @@
-var mnemonic = "board proof another consider bicycle net task giggle brave cube million peasant";
+var mnemonic = "garbage filter during miracle clay embark unusual follow veteran excess vague path";

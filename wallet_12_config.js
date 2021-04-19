@@ -1,1 +1,1 @@
-var mnemonic = "place duty reduce vital olive worth phrase salute banner endless address nurse";
+var mnemonic = "view orphan lava exchange start explain mushroom fog exchange fatigue hazard cousin";

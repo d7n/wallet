@@ -1,1 +1,1 @@
-var mnemonic = "quiz voice holiday blossom differ picture coach remain sniff party soon item";
+var mnemonic = "female other puppy immune obey tourist final soccer palace gauge mad turkey";

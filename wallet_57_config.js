@@ -1,1 +1,1 @@
-var mnemonic = "wealth unique trick problem oval canoe kiss liberty wreck brick sunny tiny";
+var mnemonic = "armor offer belt hire jump veteran appear twelve flight boss consider miss";

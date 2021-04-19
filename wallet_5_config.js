@@ -1,1 +1,1 @@
-var mnemonic = "dutch gravity use convince refuse scrap member ten power stem coin exile";
+var mnemonic = "opinion suggest pull foil find answer require derive fame cram kick vicious";

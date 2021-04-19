@@ -1,1 +1,1 @@
-var mnemonic = "captain swarm great ranch foam until drama cruise behave chaos settle wife";
+var mnemonic = "nation arm game science swift despair grunt genuine enhance injury wheel behind";

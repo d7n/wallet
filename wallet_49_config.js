@@ -1,1 +1,1 @@
-var mnemonic = "reveal always fan inmate zoo tool reveal cup turkey wing aisle coyote";
+var mnemonic = "position unique interest general forward mean board index barrel property acquire boss";

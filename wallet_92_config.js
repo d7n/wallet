@@ -1,1 +1,1 @@
-var mnemonic = "wrestle sketch embrace pact summer expect coach thumb face point size egg";
+var mnemonic = "aware mad during maze broccoli skull nose blood rally trial federal heavy";

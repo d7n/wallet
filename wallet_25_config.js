@@ -1,1 +1,1 @@
-var mnemonic = "fiscal flight debris mimic blast tobacco blade camera sausage magnet novel shrimp";
+var mnemonic = "maple bulk clinic table crime combine toilet early mention health better thunder";

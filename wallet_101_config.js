@@ -1,1 +1,1 @@
-var mnemonic = "inside awesome sting riot filter private noodle bring chat access useful enact";
+var mnemonic = "muscle tired ritual casual become keen rate stuff priority tone method jeans";

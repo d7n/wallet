@@ -1,1 +1,1 @@
-var mnemonic = "panel decorate junior actual guard maple garbage chapter void order sentence warfare";
+var mnemonic = "sister find domain enter copy outside unhappy eight reunion salad sorry label";

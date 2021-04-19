@@ -1,1 +1,1 @@
-var mnemonic = "design maple green dinner speak under tone rotate puppy turtle rough flavor";
+var mnemonic = "benefit twice summer armed loud economy mass luxury catch novel cram lobster";

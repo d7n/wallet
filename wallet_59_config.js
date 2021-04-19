@@ -1,1 +1,1 @@
-var mnemonic = "outdoor behave fix family blue total game click begin teach step make";
+var mnemonic = "stick endorse warfare circle coil museum vivid chat lab talk trigger oblige";

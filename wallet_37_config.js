@@ -1,1 +1,1 @@
-var mnemonic = "resource wide vital asthma trap book crane spice snack kidney fault transfer";
+var mnemonic = "twist daring diet near option ladder salon evidence common fruit huge tenant";

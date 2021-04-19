@@ -1,1 +1,1 @@
-var mnemonic = "shuffle ginger aspect story fitness desert issue addict speed drastic unveil crunch";
+var mnemonic = "promote course drum surge volcano kangaroo dolphin until rule deal lake miracle";

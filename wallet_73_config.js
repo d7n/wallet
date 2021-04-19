@@ -1,1 +1,1 @@
-var mnemonic = "enlist move next easily slot hope harbor orient loop source orphan error";
+var mnemonic = "burger live sugar soldier scene dash cement pink area goddess abuse cabin";

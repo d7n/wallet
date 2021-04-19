@@ -1,1 +1,1 @@
-var mnemonic = "party wheat fiction pupil hurt almost maid job mammal decrease mechanic net";
+var mnemonic = "surface tuition bid destroy novel relief federal decline notice kit siren hope";

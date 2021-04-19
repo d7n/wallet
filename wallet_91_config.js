@@ -1,1 +1,1 @@
-var mnemonic = "language win theory venue cruise inflict peasant angry paddle weird mystery iron";
+var mnemonic = "south crash alley fringe salmon tide seminar hobby jaguar cloth fancy patch";

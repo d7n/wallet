@@ -1,1 +1,1 @@
-var mnemonic = "jazz betray involve equip sketch obscure tiger chicken rhythm random ribbon escape";
+var mnemonic = "system amateur journey rhythm number shallow solar dumb drive high machine woman";

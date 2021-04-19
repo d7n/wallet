@@ -1,1 +1,1 @@
-var mnemonic = "raise burden burst tumble annual filter warm boost across dilemma edit curtain";
+var mnemonic = "wall suffer erupt number ready device lunar mansion steak midnight wage gown";

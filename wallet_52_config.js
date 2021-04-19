@@ -1,1 +1,1 @@
-var mnemonic = "radio awful entire medal empower obtain door fabric canoe dry left voice";
+var mnemonic = "castle filter pink wealth category write exact success spice pause grass fury";

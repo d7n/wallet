@@ -1,1 +1,1 @@
-var mnemonic = "ginger hazard like conduct resemble pool organ polar rotate tornado problem pluck";
+var mnemonic = "brother scissors knife omit beyond cable honey spice fury water cabin inmate";

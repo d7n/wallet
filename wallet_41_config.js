@@ -1,1 +1,1 @@
-var mnemonic = "famous bar inmate utility direct spawn matrix over off prevent wet state";
+var mnemonic = "pond reunion yard leg buzz unique main mail dog tide thumb never";

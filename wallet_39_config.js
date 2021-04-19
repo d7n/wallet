@@ -1,1 +1,1 @@
-var mnemonic = "wild swarm update minimum vivid slow buyer arrive segment benefit hedgehog report";
+var mnemonic = "drip swift frame lab stone amateur speed worth virus isolate vendor stable";

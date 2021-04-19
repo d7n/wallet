@@ -1,1 +1,1 @@
-var mnemonic = "banana decline company giggle kitchen unaware section thumb brand ankle help rule";
+var mnemonic = "tube grow require subway ahead parent extend ticket edge govern luxury across";

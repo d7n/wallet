@@ -1,1 +1,1 @@
-var mnemonic = "moral embark usual question armor enact imitate mouse giant monster huge glare";
+var mnemonic = "afraid notice dumb text capital super return denial lesson category refuse toe";

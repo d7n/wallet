@@ -1,1 +1,1 @@
-var mnemonic = "roast upon common undo pipe survey shoe actress prison loan popular goat";
+var mnemonic = "license evoke wine enrich month push wire crack candy apart impulse check";

@@ -1,1 +1,1 @@
-var mnemonic = "humor add clay notable ostrich try critic crunch spread toddler license nut";
+var mnemonic = "steak clump about weird open welcome flock order venue tree barely view";

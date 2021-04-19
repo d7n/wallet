@@ -1,1 +1,1 @@
-var mnemonic = "travel athlete muffin ankle stage fashion canvas trust misery pig table category";
+var mnemonic = "process nuclear sorry toilet marine large combine ankle surprise cement emerge confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness belt carbon track boring rifle december right typical anger pulse suggest";
+var mnemonic = "that weekend boat merge spoon human ramp assist apple hurdle noise bottom";

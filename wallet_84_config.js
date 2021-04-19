@@ -1,1 +1,1 @@
-var mnemonic = "cattle wage monkey finish cruise cloud panic tilt street response cat gesture";
+var mnemonic = "drill rack weapon sting notable shrimp defy ocean scorpion act wife unique";

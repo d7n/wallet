@@ -1,1 +1,1 @@
-var mnemonic = "either cotton abandon grain slot hungry carpet cinnamon dilemma wife guilt release";
+var mnemonic = "believe piece gentle fine install lab crime canoe cup trick leader velvet";

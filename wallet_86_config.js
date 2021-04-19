@@ -1,1 +1,1 @@
-var mnemonic = "hello fiction announce castle concert agree concert bounce unaware cable antique away";
+var mnemonic = "start copper female tell vital trap horse zebra female monkey mirror unaware";

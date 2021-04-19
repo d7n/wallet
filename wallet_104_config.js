@@ -1,1 +1,1 @@
-var mnemonic = "rotate discover warm mechanic final tired spy faculty wood peace bounce term";
+var mnemonic = "palace walnut valley fatal shop table only wait when glass grow mechanic";

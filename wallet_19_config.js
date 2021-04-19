@@ -1,1 +1,1 @@
-var mnemonic = "regret forum turkey coyote adult elbow into call tuna badge relief lamp";
+var mnemonic = "since mansion crack fiction smile jungle uncover unlock light powder hub cram";

@@ -1,1 +1,1 @@
-var mnemonic = "second lava smoke unveil exhaust razor modify escape negative people purity seat";
+var mnemonic = "orbit final manual evoke private ghost unique undo mosquito donate eagle spoon";

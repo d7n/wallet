@@ -1,1 +1,1 @@
-var mnemonic = "island lumber hub pupil inch setup romance robust write wise airport damp";
+var mnemonic = "provide under office century across powder ritual obtain gown lake situate chunk";

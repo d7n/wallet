@@ -1,1 +1,1 @@
-var mnemonic = "donor search position about infant rough maximum powder stick client pretty refuse";
+var mnemonic = "dress obscure argue evolve service hire horn circle crane smooth fatal mean";

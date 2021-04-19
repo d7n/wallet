@@ -1,1 +1,1 @@
-var mnemonic = "fantasy census other dial can snow boat sea wish version neutral regret";
+var mnemonic = "little business viable coil zero spider message reflect visit ankle typical nominee";

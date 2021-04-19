@@ -1,1 +1,1 @@
-var mnemonic = "palace trophy crouch disorder amount address session gift salad pact rescue feed";
+var mnemonic = "retreat hello child suffer true muffin skate cattle coral misery digital unable";

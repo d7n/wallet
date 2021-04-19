@@ -1,1 +1,1 @@
-var mnemonic = "grocery mixture scatter soft outdoor absurd erode lesson derive basket canal ski";
+var mnemonic = "empty gaze obtain damp choose wonder favorite defense outside coyote spatial silk";

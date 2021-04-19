@@ -1,1 +1,1 @@
-var mnemonic = "minor enrich mutual dilemma conduct elite furnace hazard hip moon market knee";
+var mnemonic = "dutch knife play glow female spy crowd boring olympic bridge cat drastic";

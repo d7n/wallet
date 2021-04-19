@@ -1,1 +1,1 @@
-var mnemonic = "keen cruel announce dwarf divorce urge analyst acquire banner ostrich embrace hazard";
+var mnemonic = "solution melody attract select betray few maximum loud collect cart legal general";

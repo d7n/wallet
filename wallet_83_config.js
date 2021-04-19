@@ -1,1 +1,1 @@
-var mnemonic = "garment shy slight scheme sorry copper electric discover phrase common average month";
+var mnemonic = "vendor chalk lawn twelve near other normal black tell humble problem idle";

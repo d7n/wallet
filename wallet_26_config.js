@@ -1,1 +1,1 @@
-var mnemonic = "clean alcohol medal rubber remain elevator ability dignity trust caught disease gym";
+var mnemonic = "latin among cushion supreme ramp empty barely decorate diary worry chaos crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "dust code race clip release critic this jar rough wish assault harsh";
+var mnemonic = "say become dice chef write mutual nose tongue drum witness outdoor shift";

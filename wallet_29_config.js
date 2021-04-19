@@ -1,1 +1,1 @@
-var mnemonic = "coyote ribbon chapter reveal question rhythm hamster lens naive guide guess arrest";
+var mnemonic = "orbit tunnel chief caution color armed garage pig explain royal settle pony";

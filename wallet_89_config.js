@@ -1,1 +1,1 @@
-var mnemonic = "vague addict match lamp vocal sport object swap merit jelly good beach";
+var mnemonic = "law stick antenna legal funny arm wet govern front this best below";

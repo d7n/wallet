@@ -1,1 +1,1 @@
-var mnemonic = "nest laugh oblige response shield virtual holiday ocean echo surface trigger isolate";
+var mnemonic = "hub eyebrow habit coyote hub media wine erupt sugar math quality elder";

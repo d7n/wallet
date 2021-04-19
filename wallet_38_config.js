@@ -1,1 +1,1 @@
-var mnemonic = "canvas release garment elder quick viable warfare tide hour dentist south cushion";
+var mnemonic = "skate measure boat fitness purity purse pipe obvious hand minute sea brother";

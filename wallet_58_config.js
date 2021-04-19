@@ -1,1 +1,1 @@
-var mnemonic = "route defense shock lunar tackle vote slow situate balance helmet solar text";
+var mnemonic = "since fault grief essay host swift twice coffee voyage cash crumble city";

@@ -1,1 +1,1 @@
-var mnemonic = "measure smile sauce foster stick resemble bag wrap wire hollow fit burger";
+var mnemonic = "dismiss hedgehog chair mutual shallow violin relief dynamic school outdoor other ridge";

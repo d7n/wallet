@@ -1,1 +1,1 @@
-var mnemonic = "metal fury rather kidney dragon energy armor toddler father life odor hero";
+var mnemonic = "goose crack spider discover tank weasel strike victory pencil file fluid put";

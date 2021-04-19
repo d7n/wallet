@@ -1,1 +1,1 @@
-var mnemonic = "tornado concert aim educate horror amount divert census race banana tank antenna";
+var mnemonic = "enforce digital mushroom ghost world keen great clip pool crumble imitate wish";

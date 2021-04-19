@@ -1,1 +1,1 @@
-var mnemonic = "kidney pelican author melt pledge opera month pipe sustain code issue blind";
+var mnemonic = "kitten round property torch room hamster pen silk tourist noodle achieve history";

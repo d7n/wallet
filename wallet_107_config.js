@@ -1,1 +1,1 @@
-var mnemonic = "bounce sign idle ordinary access repeat roof zebra weird assist cave social";
+var mnemonic = "search cake away garlic damage throw into dream report leave pear lend";

@@ -1,1 +1,1 @@
-var mnemonic = "field destroy sock answer tiny athlete bomb cupboard mean latin stick grit";
+var mnemonic = "script civil echo silk sheriff economy lens stick stuff shield device journey";

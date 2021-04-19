@@ -1,1 +1,1 @@
-var mnemonic = "glue obtain turkey repeat concert ticket twin subject final when seed grocery";
+var mnemonic = "improve fork spin wear dolphin forum enlist cash suggest dad volcano coast";

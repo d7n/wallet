@@ -1,1 +1,1 @@
-var mnemonic = "reward seminar hood muscle assist tone rally certain celery target settle tool";
+var mnemonic = "convince faint detect clip original lumber team ice surround often pepper common";

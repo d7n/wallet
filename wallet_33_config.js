@@ -1,1 +1,1 @@
-var mnemonic = "true end engine love olympic grow course gaze recycle term scrap more";
+var mnemonic = "happy soccer alone bracket border gravity drum country sniff view elbow keep";

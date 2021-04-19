@@ -1,1 +1,1 @@
-var mnemonic = "estate rail salute upgrade bundle barrel blue organ mutual usage exotic trap";
+var mnemonic = "omit march often cool actor load supply suit crumble limb flavor escape";

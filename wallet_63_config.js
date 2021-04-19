@@ -1,1 +1,1 @@
-var mnemonic = "coach carry own roof slogan series test tell miss expire famous upset";
+var mnemonic = "dirt step draw ready oblige veteran math rate lecture regular advance lizard";

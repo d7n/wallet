@@ -1,1 +1,1 @@
-var mnemonic = "elbow own water earth genre slice magic inform tunnel dizzy entire biology";
+var mnemonic = "useless minor measure copper erase celery coach input hawk write guitar hat";

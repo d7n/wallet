@@ -1,1 +1,1 @@
-var mnemonic = "animal leave envelope virtual pull long loan matter boost decline sunset tomato";
+var mnemonic = "noodle net patrol soft ask ramp indicate must detail tiger negative carpet";

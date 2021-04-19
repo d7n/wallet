@@ -1,1 +1,1 @@
-var mnemonic = "unlock decline bullet screen salmon moon whale obvious near nephew service else";
+var mnemonic = "skull arch tell clean busy ability name fade anger bulk fun cricket";

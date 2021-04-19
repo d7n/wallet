@@ -1,1 +1,1 @@
-var mnemonic = "where under misery museum imitate endless degree essence rule debris antenna tone";
+var mnemonic = "sun injury soccer enrich gap ranch still occur garden sample bicycle shield";

@@ -1,1 +1,1 @@
-var mnemonic = "admit win switch predict scrap exhaust web prosper remove immense either cool";
+var mnemonic = "provide hub fame energy hunt still fork fatal meat clever dutch exist";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling sword butter escape fluid peasant token jar master myself gain silk";
+var mnemonic = "capital this claw camp gossip hour super wheel twelve table provide two";

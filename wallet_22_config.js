@@ -1,1 +1,1 @@
-var mnemonic = "drama there bright fold add lizard trial neglect latin fish method dentist";
+var mnemonic = "learn giraffe fork can mountain supply cluster wedding empty unfair dune chest";
