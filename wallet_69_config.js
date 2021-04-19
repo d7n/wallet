@@ -1,1 +1,1 @@
-var mnemonic = "ketchup athlete birth risk spell orange crisp half foam ripple august legal";
+var mnemonic = "leg current tortoise predict game finger tornado swarm radar round tail system";

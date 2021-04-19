@@ -1,1 +1,1 @@
-var mnemonic = "family inflict joke pizza debate biology provide habit glove will unlock usual";
+var mnemonic = "enemy marble reform feed cousin orbit sword soon hope ticket cover top";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent refuse find husband salute close alert dentist company borrow science tomorrow";
+var mnemonic = "kid endorse camp surprise stove mixed grocery column ramp shell eye repeat";

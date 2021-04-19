@@ -1,1 +1,1 @@
-var mnemonic = "mouse fire razor helmet lobster unfold mountain voice detect mercy gate like";
+var mnemonic = "language polar warrior feature pupil melt penalty this text vocal clean slow";

@@ -1,1 +1,1 @@
-var mnemonic = "glass build prosper chest holiday outdoor deer syrup tube chuckle holiday fresh";
+var mnemonic = "soldier whip obey lawn target flock wide moon pizza scatter wave dove";

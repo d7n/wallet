@@ -1,1 +1,1 @@
-var mnemonic = "blame order leg oak inch crystal wreck tide cargo sentence draw tunnel";
+var mnemonic = "pond spot voyage ancient harsh foster defy unfair helmet opera skirt tunnel";

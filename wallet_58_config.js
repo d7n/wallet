@@ -1,1 +1,1 @@
-var mnemonic = "empty urge depth table torch black brisk tide budget egg quarter foot";
+var mnemonic = "stool fly cargo wheel potato grab crisp stuff subject warm emotion grit";

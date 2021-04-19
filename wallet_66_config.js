@@ -1,1 +1,1 @@
-var mnemonic = "brain supreme arch camera sauce turn flat recall future exit sail sugar";
+var mnemonic = "relax improve loop list bird select venture already pony swim party oven";

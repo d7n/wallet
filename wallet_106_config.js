@@ -1,1 +1,1 @@
-var mnemonic = "prize cupboard develop forward demise grace bacon hospital image meat forward upset";
+var mnemonic = "across moral vacuum foster worry bid yard confirm magnet panther fine fish";

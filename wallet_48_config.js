@@ -1,1 +1,1 @@
-var mnemonic = "indicate baby aim focus slide appear pear decrease analyst couple because rack";
+var mnemonic = "cloth sorry sweet maximum attack salute purity vapor bird spy ribbon awful";

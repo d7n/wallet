@@ -1,1 +1,1 @@
-var mnemonic = "space rely shine casino fan cloud pause other banner concert supply lemon";
+var mnemonic = "town name height glide hazard rail lake tourist strategy deliver famous kidney";

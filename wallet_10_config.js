@@ -1,1 +1,1 @@
-var mnemonic = "sand tornado tumble depart glove this guitar athlete glass prevent squeeze visa";
+var mnemonic = "end solar frequent answer modify head rare happy twice all visual dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "movie element private tongue guide fan era lizard sunny laugh reason trouble";
+var mnemonic = "kite pottery episode ethics foot oppose response inhale guilt flee repeat music";

@@ -1,1 +1,1 @@
-var mnemonic = "pink path leg coil arrange reflect online style claim property ladder decade";
+var mnemonic = "quiz crash eager save clarify much sock man time screen sight rapid";

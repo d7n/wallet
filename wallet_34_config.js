@@ -1,1 +1,1 @@
-var mnemonic = "enrich urge glory brass make prepare green novel that scout item detail";
+var mnemonic = "judge devote document help excite armed drift cake glass stadium someone better";

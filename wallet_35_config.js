@@ -1,1 +1,1 @@
-var mnemonic = "weird daughter squeeze ordinary voyage road nice short cute danger blood injury";
+var mnemonic = "excess clap code nice echo when toddler churn merge prison dentist oyster";

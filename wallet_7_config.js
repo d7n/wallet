@@ -1,1 +1,1 @@
-var mnemonic = "half child notable october cat journey pony style coast jungle car reveal";
+var mnemonic = "poet gadget web frame chunk ride enrich give boss before voyage tragic";

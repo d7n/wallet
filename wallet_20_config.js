@@ -1,1 +1,1 @@
-var mnemonic = "suggest daring animal monitor world crouch motion kingdom forget gas stuff device";
+var mnemonic = "panel icon cost absurd couple keen supply must profit enough gorilla warrior";

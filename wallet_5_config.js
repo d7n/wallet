@@ -1,1 +1,1 @@
-var mnemonic = "nasty destroy priority tower tortoise crop armed knock gate brown guitar people";
+var mnemonic = "rally diet nut attend language pledge forum another rookie lock arm right";

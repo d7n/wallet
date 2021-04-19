@@ -1,1 +1,1 @@
-var mnemonic = "bar behind exhaust beauty daughter process shed food awful father jelly lemon";
+var mnemonic = "sword choose recycle popular muffin foil sheriff crane mosquito ill wood clever";

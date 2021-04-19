@@ -1,1 +1,1 @@
-var mnemonic = "able trouble noble powder exotic oak table demand illness process staff lemon";
+var mnemonic = "pony slim couple seven cactus alone inflict symptom aerobic yard short impose";

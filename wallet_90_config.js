@@ -1,1 +1,1 @@
-var mnemonic = "doctor snake tackle flag drastic oyster grape ranch deer either frost question";
+var mnemonic = "beyond injury exhibit replace reflect barrel loyal kitchen color genius core erupt";

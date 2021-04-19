@@ -1,1 +1,1 @@
-var mnemonic = "habit shuffle ice minimum helmet sing paddle favorite hungry walnut female toddler";
+var mnemonic = "hundred infant virtual remain axis soft grain grid ritual sail rich hidden";

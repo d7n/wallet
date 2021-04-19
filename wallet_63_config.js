@@ -1,1 +1,1 @@
-var mnemonic = "usage feed update doll soldier achieve couch twice employ glass refuse digital";
+var mnemonic = "zoo fade detail lunar stadium patch return witness oval regular carbon own";

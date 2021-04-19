@@ -1,1 +1,1 @@
-var mnemonic = "resource enhance brass dinosaur axis earn ride old jaguar industry tourist fiction";
+var mnemonic = "analyst bullet head cross fly pilot subject slush lock police arrive health";

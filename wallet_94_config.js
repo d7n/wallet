@@ -1,1 +1,1 @@
-var mnemonic = "stomach cushion duck gun lock fluid finger forest sentence fork rail spice";
+var mnemonic = "mad mixed snake admit water universe syrup inmate holiday ship stadium cycle";

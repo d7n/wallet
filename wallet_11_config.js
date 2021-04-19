@@ -1,1 +1,1 @@
-var mnemonic = "speak ghost sell minor carbon miracle enlist parade artist lab human empower";
+var mnemonic = "just nature benefit wisdom roast galaxy eager describe present human employ manual";

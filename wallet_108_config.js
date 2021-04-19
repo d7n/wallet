@@ -1,1 +1,1 @@
-var mnemonic = "payment bronze obtain drink satisfy concert rebuild ensure math island infant fan";
+var mnemonic = "muffin east sort warm spike bar friend cereal canal inmate legend reopen";

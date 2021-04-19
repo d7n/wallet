@@ -1,1 +1,1 @@
-var mnemonic = "bridge order sausage broken canoe only despair behind motion cherry news hip";
+var mnemonic = "cereal protect release lumber fit illegal chuckle author rigid settle advice shoe";

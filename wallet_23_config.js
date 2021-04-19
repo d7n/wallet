@@ -1,1 +1,1 @@
-var mnemonic = "gospel nasty buzz elevator fortune street plunge laugh opinion cliff tower excuse";
+var mnemonic = "cruise travel baby jungle awake mention decide kingdom local focus rare useful";

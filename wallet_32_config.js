@@ -1,1 +1,1 @@
-var mnemonic = "risk rescue evolve vast life transfer grain animal method wide enroll olive";
+var mnemonic = "talent amazing smile put luxury various volume already memory music giant glass";

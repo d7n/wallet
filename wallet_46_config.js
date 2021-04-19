@@ -1,1 +1,1 @@
-var mnemonic = "doll mom physical such lady stool sick aim gospel air dial beauty";
+var mnemonic = "chimney raccoon degree village attend actual shrimp cake bridge broccoli curious forget";

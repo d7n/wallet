@@ -1,1 +1,1 @@
-var mnemonic = "pipe light hawk tail grain myth battle soap copper onion keen amazing";
+var mnemonic = "fury riot humble gather live lunch forum mixed crime expand ball noodle";

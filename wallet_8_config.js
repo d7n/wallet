@@ -1,1 +1,1 @@
-var mnemonic = "add boring blur farm coconut region elite pilot ritual rocket roast foam";
+var mnemonic = "honey try fault concert angle chef major pattern know cluster script lawn";

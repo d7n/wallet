@@ -1,1 +1,1 @@
-var mnemonic = "thunder holiday cotton carbon rely strategy impose roast steel guide gloom artist";
+var mnemonic = "desert aware accuse syrup course arrow bullet side cattle barely cruel rain";

@@ -1,1 +1,1 @@
-var mnemonic = "urban birth tuition favorite estate beauty arrange kitchen swing wise put about";
+var mnemonic = "all flame umbrella mercy elegant order poem battle sick top cube isolate";

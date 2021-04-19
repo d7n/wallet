@@ -1,1 +1,1 @@
-var mnemonic = "joy old shy bomb cigar kangaroo brief marble federal ancient trade glue";
+var mnemonic = "raccoon crazy trumpet casual become boy lyrics grab trigger hair abuse jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "science depart pottery session empower swallow basic exit parrot february prize valley";
+var mnemonic = "provide zone letter satoshi race shield put athlete photo abstract cricket peasant";

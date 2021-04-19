@@ -1,1 +1,1 @@
-var mnemonic = "sponsor inmate area claim kingdom north whip pull depart grain mango trade";
+var mnemonic = "notable exhibit unhappy fetch size eternal school shuffle lens scrub capital tomato";

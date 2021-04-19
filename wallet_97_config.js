@@ -1,1 +1,1 @@
-var mnemonic = "royal ladder inner merge busy swap profit solution vast rabbit market stable";
+var mnemonic = "pottery stage because avoid wonder summer box crystal monitor switch segment water";

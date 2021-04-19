@@ -1,1 +1,1 @@
-var mnemonic = "push tiger luggage canal gym deliver powder swing dog item degree suspect";
+var mnemonic = "vague swear estate order mixed bacon degree helmet series hawk close rally";

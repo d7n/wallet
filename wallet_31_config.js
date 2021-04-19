@@ -1,1 +1,1 @@
-var mnemonic = "equal pumpkin list mammal very differ tag purchase install twelve section rug";
+var mnemonic = "nothing either salad minor pact glow iron vast skirt session correct deposit";

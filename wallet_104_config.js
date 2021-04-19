@@ -1,1 +1,1 @@
-var mnemonic = "sunny chest child asset kind grape rotate day private recycle rule reopen";
+var mnemonic = "tomato sentence hollow dream topic motion catch grunt price club sell tower";

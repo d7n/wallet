@@ -1,1 +1,1 @@
-var mnemonic = "gentle again keep end indicate merge danger end ask float tunnel wrestle";
+var mnemonic = "picnic adult assault buffalo congress jump tray source divorce merry obey gospel";

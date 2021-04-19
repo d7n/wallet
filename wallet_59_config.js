@@ -1,1 +1,1 @@
-var mnemonic = "return shrimp glad milk ski top feel spray caution street blue crunch";
+var mnemonic = "found census balcony few convince echo grow unfair bulk twist sock essay";

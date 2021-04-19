@@ -1,1 +1,1 @@
-var mnemonic = "allow april sweet page dilemma denial width alpha gloom toy receive injury";
+var mnemonic = "click soldier waste dentist country cost topple market plastic goat dismiss property";

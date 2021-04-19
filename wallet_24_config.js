@@ -1,1 +1,1 @@
-var mnemonic = "feature pigeon tail coyote blush harbor energy strategy awesome mutual truck hurdle";
+var mnemonic = "lawn fashion salon feed must moon brief eyebrow track wink volcano trumpet";

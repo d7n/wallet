@@ -1,1 +1,1 @@
-var mnemonic = "empty ghost please scout game toy strong daughter borrow ivory erosion rotate";
+var mnemonic = "movie pond tree solar crazy crane seed grow post priority chimney cream";

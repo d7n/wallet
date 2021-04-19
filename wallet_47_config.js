@@ -1,1 +1,1 @@
-var mnemonic = "poverty sight across great agent chicken basic mixed length stay venture diary";
+var mnemonic = "carbon marble stairs issue caught mosquito video prefer approve purity egg window";

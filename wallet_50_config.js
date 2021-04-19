@@ -1,1 +1,1 @@
-var mnemonic = "loan enter loan naive syrup abandon spray inside maple warrior chunk erode";
+var mnemonic = "three world orient strong toward advance acquire disorder fade add core fiscal";

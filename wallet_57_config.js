@@ -1,1 +1,1 @@
-var mnemonic = "elite unusual frozen boy squirrel creek quarter tell monster nasty lecture false";
+var mnemonic = "polar demand laundry behind farm fitness bridge brush evil reveal soccer olive";

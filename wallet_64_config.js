@@ -1,1 +1,1 @@
-var mnemonic = "confirm execute engage few wedding upset eager purpose power broccoli neglect glimpse";
+var mnemonic = "truly student decide essay treat text fix become success major critic grace";

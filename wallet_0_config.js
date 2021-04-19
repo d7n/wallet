@@ -1,1 +1,1 @@
-var mnemonic = "cool airport minimum wagon bacon key view iron near thrive debate artefact";
+var mnemonic = "frame knock chapter drive guard suit reduce neck announce creek ship decrease";

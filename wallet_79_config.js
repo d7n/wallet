@@ -1,1 +1,1 @@
-var mnemonic = "fatal advice salute estate east level cost interest message useless empower later";
+var mnemonic = "movie trigger rebel recall night secret message wall delay giraffe strong ordinary";

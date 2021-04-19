@@ -1,1 +1,1 @@
-var mnemonic = "wrist joke kingdom blast exact stairs insane label always mad toddler provide";
+var mnemonic = "move satoshi deposit bleak tilt witness when cigar badge best rent depend";

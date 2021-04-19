@@ -1,1 +1,1 @@
-var mnemonic = "winter economy dove split review tortoise buyer sail airport deer sort earn";
+var mnemonic = "thank city athlete swing wolf honey rabbit cook income soccer program scale";

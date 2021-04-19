@@ -1,1 +1,1 @@
-var mnemonic = "board parent better wonder van tumble heart tell aspect pelican crash almost";
+var mnemonic = "wing kit banana area route update credit door solar bronze army column";

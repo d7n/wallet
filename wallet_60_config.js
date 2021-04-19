@@ -1,1 +1,1 @@
-var mnemonic = "more dune ride canoe escape attend profit wagon reflect hammer knee frequent";
+var mnemonic = "elder sell drink guide good rent load area tank oven present boat";

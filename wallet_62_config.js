@@ -1,1 +1,1 @@
-var mnemonic = "notable rhythm prepare nut this celery roof denial tobacco vote course impact";
+var mnemonic = "voyage trigger glue front swear cheap move boat just list visual special";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing coyote slow morning whale lyrics maze search pride search comfort help";
+var mnemonic = "claw gauge swallow cross still write live glimpse state anxiety grow half";

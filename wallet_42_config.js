@@ -1,1 +1,1 @@
-var mnemonic = "promote april denial base lawsuit mushroom food never ugly rabbit begin daughter";
+var mnemonic = "subject hero melt occur raccoon toddler defy glad undo decade spray coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "remember despair polar soccer clown aspect wrist slab quarter machine dolphin truck";
+var mnemonic = "caution credit gym easily over identify pottery dilemma thunder knife prefer assume";

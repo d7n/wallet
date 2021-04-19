@@ -1,1 +1,1 @@
-var mnemonic = "disease town modify display bicycle daring print bike style tourist fit knee";
+var mnemonic = "romance upgrade ridge depend impact bamboo oxygen ready ask either festival surprise";

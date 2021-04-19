@@ -1,1 +1,1 @@
-var mnemonic = "zone option domain people essay neither tool tank bunker such slow praise";
+var mnemonic = "crystal music group adult supreme picture common update pencil bitter acquire report";

@@ -1,1 +1,1 @@
-var mnemonic = "fever team cycle cargo stereo sock sunset dust slow right illness shield";
+var mnemonic = "debate reform short sniff female easily veteran foil glide spread foil shy";

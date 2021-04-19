@@ -1,1 +1,1 @@
-var mnemonic = "catalog section immense duty charge ocean repeat leopard bullet limit people drive";
+var mnemonic = "amount aim rival mixture fiction gentle trend conduct apology behind know broom";

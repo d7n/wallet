@@ -1,1 +1,1 @@
-var mnemonic = "avocado total kitchen vast reason filter vacuum success forward mule wrist decade";
+var mnemonic = "renew casino cabbage spirit property leg sentence embrace naive popular dune muscle";

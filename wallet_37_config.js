@@ -1,1 +1,1 @@
-var mnemonic = "medal protect fiber endless measure sort item buzz rookie manage arrive top";
+var mnemonic = "erase mercy vacant buffalo poem merge laugh sleep language sense disease seat";

@@ -1,1 +1,1 @@
-var mnemonic = "occur melody stereo shield meadow naive kick nation silly nest envelope rural";
+var mnemonic = "tank drum dish valley flock negative flock soup check put opinion divert";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage pride float rural royal between pizza luggage echo fade someone across";
+var mnemonic = "buyer column air february flash scene kangaroo task pipe leader source title";

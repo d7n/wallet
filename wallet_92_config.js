@@ -1,1 +1,1 @@
-var mnemonic = "dolphin jelly flame silk near craft forward feature only discover duty fitness";
+var mnemonic = "radar venture blouse coral suffer impulse canoe badge obtain fortune frost reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "artist will snake boost medal wine rhythm sponsor envelope again hurt jaguar";
+var mnemonic = "spatial tackle anchor improve indoor brown reward omit erupt flavor vague exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "purity argue crawl stereo skin end idle shove lunch stock patient top";
+var mnemonic = "spin cream pupil law wait arrange push interest fine wink train initial";

@@ -1,1 +1,1 @@
-var mnemonic = "job fringe exchange three foster rose double ceiling outdoor video blame settle";
+var mnemonic = "push camera attend organ useful climb donkey lawsuit river sun belt blind";

@@ -1,1 +1,1 @@
-var mnemonic = "right remember tourist season act maid injury suit output much just mammal";
+var mnemonic = "solution final input indicate upset story derive shallow ride bullet social alpha";

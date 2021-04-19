@@ -1,1 +1,1 @@
-var mnemonic = "whisper know term hurry canvas rare solar picture census cabin nice salt";
+var mnemonic = "innocent proud dentist poverty food hurry kite chase orient high session sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "piece wrap rely inherit style buzz lumber dinner safe cargo soccer install";
+var mnemonic = "situate guard decorate grab rifle such pen burger pepper kidney combine extend";

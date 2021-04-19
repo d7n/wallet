@@ -1,1 +1,1 @@
-var mnemonic = "chicken battle broccoli skirt relief park onion shoulder onion demand chief element";
+var mnemonic = "network flush valve stamp mimic taxi exchange divert celery motion swift champion";

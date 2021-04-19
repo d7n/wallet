@@ -1,1 +1,1 @@
-var mnemonic = "better prize nothing welcome empty hungry option grace heavy source peasant hurt";
+var mnemonic = "daughter angle shy life derive final replace pact tray must give firm";

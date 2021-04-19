@@ -1,1 +1,1 @@
-var mnemonic = "vanish tonight feel region can obvious eight loan ankle action metal city";
+var mnemonic = "cry minute jar rebel vessel stadium decide just gloom horn muscle taxi";

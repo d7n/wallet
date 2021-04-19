@@ -1,1 +1,1 @@
-var mnemonic = "retire ride flower orchard coil access clever palm swear possible recycle alter";
+var mnemonic = "sting screen renew wood electric fresh treat fitness avoid law transfer catch";

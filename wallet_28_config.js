@@ -1,1 +1,1 @@
-var mnemonic = "dust excite collect slogan view crunch boost world round rotate bicycle fabric";
+var mnemonic = "close glad inmate uniform raccoon divorce review detail immense squirrel text sick";

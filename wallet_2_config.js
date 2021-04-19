@@ -1,1 +1,1 @@
-var mnemonic = "entry violin economy tray anger fabric match siege little vintage pottery opera";
+var mnemonic = "tell garbage tower broom husband sail sword emotion hover evil tragic merit";

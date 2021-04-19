@@ -1,1 +1,1 @@
-var mnemonic = "tackle public tissue fame fashion moment mind cluster dose dinner faith property";
+var mnemonic = "post discover they poem lawsuit ice catch chat edit nice blade stuff";

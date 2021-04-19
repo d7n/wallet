@@ -1,1 +1,1 @@
-var mnemonic = "boil march upgrade better puzzle cliff describe only next debris throw dash";
+var mnemonic = "lock grief garment brief amazing prepare arrow setup stick profit happy labor";

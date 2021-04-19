@@ -1,1 +1,1 @@
-var mnemonic = "license lady decade pencil ketchup tell ozone supply flush plastic random myself";
+var mnemonic = "patch lyrics fat cage remind cabin repair amateur mule again boring mirror";

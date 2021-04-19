@@ -1,1 +1,1 @@
-var mnemonic = "attitude monster frost acoustic actress umbrella hammer drop allow trade setup reject";
+var mnemonic = "page drill brick finish nerve barrel horn giant trouble impulse wire people";

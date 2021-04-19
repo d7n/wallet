@@ -1,1 +1,1 @@
-var mnemonic = "dawn emotion movie glove critic spy defy harsh control refuse move front";
+var mnemonic = "dice cupboard thought delay tool town file ivory daring scout phrase garment";
