@@ -1,1 +1,1 @@
-var mnemonic = "bag various violin inner symbol spring habit glide runway staff memory people";
+var mnemonic = "breeze unveil element citizen just elder program total thought citizen member juice";

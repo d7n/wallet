@@ -1,1 +1,1 @@
-var mnemonic = "affair sphere fat detect solar alarm salon scale demise dry submit oppose";
+var mnemonic = "else supply wonder link surge drop differ buzz satisfy lumber action flush";

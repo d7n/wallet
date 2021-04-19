@@ -1,1 +1,1 @@
-var mnemonic = "forest embark hand nephew vivid clutch swift miracle vital topic gain regret";
+var mnemonic = "wedding image unhappy end lecture buyer rabbit outdoor spirit bring pencil boat";

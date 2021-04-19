@@ -1,1 +1,1 @@
-var mnemonic = "eye lecture catch essence dash layer quit excite pizza extend rookie achieve";
+var mnemonic = "empty abstract thumb wet code question unfold deposit vote mouse rule legend";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse boost fog toss medal flower cream unfold solar able tired frequent";
+var mnemonic = "design noise fragile industry attitude canyon suspect again focus gallery trade make";

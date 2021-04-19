@@ -1,1 +1,1 @@
-var mnemonic = "situate busy cost valley doll olive ripple april magic human talent worry";
+var mnemonic = "aware monitor garment few under document blanket brick quiz wagon normal amateur";

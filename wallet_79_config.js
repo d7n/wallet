@@ -1,1 +1,1 @@
-var mnemonic = "gasp umbrella foot rail fog flavor prosper similar auction convince slab wreck";
+var mnemonic = "audit mammal entire distance visual together globe amount slight suggest around size";

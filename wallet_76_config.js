@@ -1,1 +1,1 @@
-var mnemonic = "jacket noise cereal deputy sorry situate sand swim life oblige tongue produce";
+var mnemonic = "permit dice slim prefer arrest draw leopard shrimp goddess stairs idea extend";

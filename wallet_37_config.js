@@ -1,1 +1,1 @@
-var mnemonic = "confirm aim nuclear fog frog joy among scale page skirt shallow process";
+var mnemonic = "harvest disagree action now nothing swift solid firm galaxy silk pistol scale";

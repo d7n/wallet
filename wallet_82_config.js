@@ -1,1 +1,1 @@
-var mnemonic = "rice label nothing tomato fetch dizzy quick grace thought wrap legend half";
+var mnemonic = "base goddess turn element dolphin distance diesel anxiety rough decline tomato pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen nose mammal fly merge steak small announce tornado cry buyer casual";
+var mnemonic = "impulse bench account park rain such question couch bitter develop dry member";

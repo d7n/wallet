@@ -1,1 +1,1 @@
-var mnemonic = "worth rail moon aspect drop differ nominee cool moment describe modify caution";
+var mnemonic = "loud slot please like ski either bottom tone soup deputy company copper";

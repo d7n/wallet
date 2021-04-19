@@ -1,1 +1,1 @@
-var mnemonic = "gift allow milk wash broom disorder order sugar rare mansion rail certain";
+var mnemonic = "matrix clarify puzzle ask twice glad magnet honey damage style oven toward";

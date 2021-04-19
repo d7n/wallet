@@ -1,1 +1,1 @@
-var mnemonic = "tennis artist lecture glue middle earn alert method party shuffle loud carpet";
+var mnemonic = "violin couch sock write check fashion boat december flame onion address monitor";

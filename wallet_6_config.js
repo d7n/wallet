@@ -1,1 +1,1 @@
-var mnemonic = "potato horror float series decide diagram typical banner forward problem turn auction";
+var mnemonic = "exhaust muffin spatial sorry dinosaur monster market animal sing chase bright solid";

@@ -1,1 +1,1 @@
-var mnemonic = "gas mandate angry situate effort stand ill reward spend dash slight anxiety";
+var mnemonic = "tip scheme vast pony miracle scout frame early student razor clerk march";

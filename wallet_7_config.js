@@ -1,1 +1,1 @@
-var mnemonic = "kind warrior sheriff people state property sea smart panda survey people fantasy";
+var mnemonic = "talk response mechanic sphere ladder poverty program obvious drop initial acid fever";

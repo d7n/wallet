@@ -1,1 +1,1 @@
-var mnemonic = "mosquito impose wolf pull blossom drive pilot battle install barrel copper bonus";
+var mnemonic = "earth receive naive save budget lamp frost become have glance actor gospel";

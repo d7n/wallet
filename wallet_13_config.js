@@ -1,1 +1,1 @@
-var mnemonic = "distance vanish client coach pool match panda grit fury bridge question senior";
+var mnemonic = "original field law ahead cost question arena patch gym coral useful off";

@@ -1,1 +1,1 @@
-var mnemonic = "model purse fatigue rare remain omit hello junior impose order clinic erupt";
+var mnemonic = "pause bundle grace exclude depend define critic minute forum minor news regret";

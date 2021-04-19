@@ -1,1 +1,1 @@
-var mnemonic = "word oxygen prevent salon release minute tennis today vacuum curious buffalo buzz";
+var mnemonic = "picture fence poem panel drastic quick interest repeat test page involve weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "account chat wheel weather marriage fame atom gossip fetch toddler finish lens";
+var mnemonic = "already people crouch access letter theme scan short scissors opera airport corn";

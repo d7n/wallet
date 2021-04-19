@@ -1,1 +1,1 @@
-var mnemonic = "diet kitchen assault roast few pipe stairs require luxury boost year anger";
+var mnemonic = "erupt wool phone flock discover proof parent rural table erosion scrub borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra verify kiss pulp session beauty hope jungle boil resemble spring security";
+var mnemonic = "cabin minimum bubble perfect pilot maze warm outdoor bar waste believe mixed";

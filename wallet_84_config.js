@@ -1,1 +1,1 @@
-var mnemonic = "vacuum drop debate return thumb rapid rough top upgrade absurd just envelope";
+var mnemonic = "desert thrive tuition length afford join solid heavy dish crater sunny poet";

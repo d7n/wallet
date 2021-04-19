@@ -1,1 +1,1 @@
-var mnemonic = "brown swallow hold welcome loud pill public tumble erode custom wool inch";
+var mnemonic = "deposit local romance arctic start ritual puppy fault crash title plastic live";

@@ -1,1 +1,1 @@
-var mnemonic = "random treat layer teach alert stove flip indoor good monster squeeze despair";
+var mnemonic = "addict buddy kiss canoe symbol hazard bubble strike asset job coyote same";

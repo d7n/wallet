@@ -1,1 +1,1 @@
-var mnemonic = "suspect goat bargain tribe stomach mechanic maze choose total alter fury equal";
+var mnemonic = "slice member biology omit series clutch avocado garage battle ripple marine unit";

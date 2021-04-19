@@ -1,1 +1,1 @@
-var mnemonic = "pink citizen shed project velvet truly term margin antenna keen anchor catalog";
+var mnemonic = "bamboo bag century air decade acoustic drum unlock ramp cup session spread";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy comic vicious husband cage loop produce hello ribbon spin chair sleep";
+var mnemonic = "latin either undo border vault edge surface cream follow orange life include";

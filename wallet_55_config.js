@@ -1,1 +1,1 @@
-var mnemonic = "double occur panda lemon diagram busy genuine upper task imitate icon lucky";
+var mnemonic = "end piece tuna wreck resemble filter relief master leaf arch lucky shed";

@@ -1,1 +1,1 @@
-var mnemonic = "chef absorb cotton hurdle patch else civil popular saddle unique cotton flag";
+var mnemonic = "kit recipe panda rival join whisper bullet hood labor couch furnace arrange";

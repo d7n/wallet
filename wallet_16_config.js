@@ -1,1 +1,1 @@
-var mnemonic = "advice mammal clog enact ski scissors foot hold deer water photo feature";
+var mnemonic = "enter myth minor void tongue derive course party bicycle differ sword luxury";

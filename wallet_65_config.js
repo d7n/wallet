@@ -1,1 +1,1 @@
-var mnemonic = "add alter tongue peasant journey leave clinic equal sick chat place caught";
+var mnemonic = "tool seminar coach bomb involve danger assist paddle silver betray clump profit";

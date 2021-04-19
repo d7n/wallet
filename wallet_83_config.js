@@ -1,1 +1,1 @@
-var mnemonic = "similar sand sign spend erupt thing length actress endorse silly deal melt";
+var mnemonic = "abstract clinic kid clay loop seed industry solve turtle shy comfort vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "math magnet disagree screen extra scene heart puzzle mom absorb film vanish";
+var mnemonic = "end few motion oyster vital man uniform fatigue toast swarm nominee when";

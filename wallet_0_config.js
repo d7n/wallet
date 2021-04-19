@@ -1,1 +1,1 @@
-var mnemonic = "gravity addict trophy question attract panel obtain shadow finish elbow size spatial";
+var mnemonic = "dutch copy process disorder eagle gossip drip pudding ignore obscure twenty similar";

@@ -1,1 +1,1 @@
-var mnemonic = "duck kitchen coach lion weapon soul more submit town crystal sniff virtual";
+var mnemonic = "liar prize add million innocent dawn depth battle ticket wood employ blade";

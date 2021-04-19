@@ -1,1 +1,1 @@
-var mnemonic = "portion already lawn raven lazy then piano connect theory zone human favorite";
+var mnemonic = "dirt shoe laugh fold remain pumpkin near slot polar naive speak whisper";

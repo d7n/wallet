@@ -1,1 +1,1 @@
-var mnemonic = "six lady pride harvest erupt wide blood comfort race path water debate";
+var mnemonic = "dinosaur quality record salmon salt royal physical summer oval need grab ensure";

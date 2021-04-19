@@ -1,1 +1,1 @@
-var mnemonic = "kit live only tail release loan napkin argue fatigue attitude bracket seat";
+var mnemonic = "roof rifle decorate disease scheme vibrant arena divide hundred exhaust morning merit";

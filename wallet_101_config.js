@@ -1,1 +1,1 @@
-var mnemonic = "sound diary curtain eight nuclear stuff quiz column cactus caught ginger web";
+var mnemonic = "blade approve certain raven sign gossip patrol find radio village coach sugar";

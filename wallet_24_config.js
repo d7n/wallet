@@ -1,1 +1,1 @@
-var mnemonic = "razor camera fun canyon symbol bless bounce fashion poem fringe title fringe";
+var mnemonic = "such test illness fade broccoli boring fix mad sea such attract bullet";

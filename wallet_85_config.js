@@ -1,1 +1,1 @@
-var mnemonic = "wisdom invest embark sibling grunt brand price uphold mule ride bottom machine";
+var mnemonic = "satisfy increase butter forget about suit capital pole observe autumn dress giggle";

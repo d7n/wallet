@@ -1,1 +1,1 @@
-var mnemonic = "improve pig bracket public oyster steel patch skin number build sponsor tiny";
+var mnemonic = "again utility identify cluster edit traffic stumble love such shoot injury health";

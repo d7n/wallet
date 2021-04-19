@@ -1,1 +1,1 @@
-var mnemonic = "spot arm turn inquiry valve imitate zebra waste beauty brand report weasel";
+var mnemonic = "birth miracle mercy vapor mosquito arena liberty flavor later turtle broccoli film";

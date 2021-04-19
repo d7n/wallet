@@ -1,1 +1,1 @@
-var mnemonic = "penalty hamster drum only repair powder general curious advice crime surround fury";
+var mnemonic = "bounce hungry company mad symbol vocal fitness demand palace kitchen frost false";

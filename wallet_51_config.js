@@ -1,1 +1,1 @@
-var mnemonic = "firm spare birth box wood start move piano return hole tell type";
+var mnemonic = "gather end obtain pond net cluster join horror solid toast meadow produce";

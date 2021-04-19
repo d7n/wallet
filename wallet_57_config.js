@@ -1,1 +1,1 @@
-var mnemonic = "tube decrease spoil appear regret arrow month season bar demise gun soul";
+var mnemonic = "employ essence august adult join quote squeeze recall cost talent tumble pipe";

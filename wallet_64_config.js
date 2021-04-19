@@ -1,1 +1,1 @@
-var mnemonic = "meadow menu jazz body version chicken earn army ribbon flee gentle tragic";
+var mnemonic = "learn day tackle mercy shock enact guess disease quality rather fat one";

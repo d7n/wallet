@@ -1,1 +1,1 @@
-var mnemonic = "border attitude crisp hold bullet gentle silver away senior popular then veteran";
+var mnemonic = "planet decrease robot situate throw engine labor gossip alien must topple hire";

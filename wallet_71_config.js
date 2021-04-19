@@ -1,1 +1,1 @@
-var mnemonic = "step panel empower teach sad jaguar derive swap protect draw gentle gap";
+var mnemonic = "desert pottery orphan stable dune scout faint axis pear paper gauge coconut";

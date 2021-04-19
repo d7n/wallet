@@ -1,1 +1,1 @@
-var mnemonic = "fabric library easily avoid dune shock fluid smooth usual million kit cram";
+var mnemonic = "stool hotel hunt skirt regular wash perfect rule lawn wagon push balcony";

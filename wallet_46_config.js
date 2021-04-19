@@ -1,1 +1,1 @@
-var mnemonic = "surprise area snack trade cabin lava ice fossil wonder depart anchor convince";
+var mnemonic = "eye visa shadow mammal wagon current neither toward turkey slice budget post";

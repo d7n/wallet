@@ -1,1 +1,1 @@
-var mnemonic = "antenna neither ghost cycle profit humble immense evoke choice better judge ancient";
+var mnemonic = "melody quiz town coast inspire laugh mask spend husband bonus stove faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "library best advance furnace file loyal track lend slice evil dress girl";
+var mnemonic = "high wrap exclude phone name long level senior below sight father theory";

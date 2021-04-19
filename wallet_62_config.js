@@ -1,1 +1,1 @@
-var mnemonic = "eager rib excite outdoor popular convince cushion medal sick latin rescue crystal";
+var mnemonic = "involve urban twice among road quit purpose guess cross midnight monkey source";

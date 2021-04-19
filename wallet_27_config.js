@@ -1,1 +1,1 @@
-var mnemonic = "flame pitch aunt mother drum fade depth quality pig rain tape supply";
+var mnemonic = "identify cereal promote marine lend ritual bleak latin plate zoo vanish reason";

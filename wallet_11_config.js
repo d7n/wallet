@@ -1,1 +1,1 @@
-var mnemonic = "peace horror fetch apology shiver flock interest issue prepare marble angle town";
+var mnemonic = "talent wonder situate foam explain model fix ensure feel trophy spike olive";

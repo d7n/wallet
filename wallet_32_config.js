@@ -1,1 +1,1 @@
-var mnemonic = "pig lizard cabbage title repair forget choose engine decrease trick flash choose";
+var mnemonic = "forum shove voyage rack autumn burden spoon pulse assume abuse success make";

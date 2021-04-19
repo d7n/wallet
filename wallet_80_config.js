@@ -1,1 +1,1 @@
-var mnemonic = "profit suffer that cage summer put cigar frequent left leader brother lemon";
+var mnemonic = "hire nuclear chase choose faith quarter cliff economy alcohol limb safe note";

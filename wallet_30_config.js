@@ -1,1 +1,1 @@
-var mnemonic = "source despair expect blush rival recipe neglect scout crash focus ski furnace";
+var mnemonic = "wall segment that rubber increase bounce farm birth task level plastic dice";

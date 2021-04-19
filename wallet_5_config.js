@@ -1,1 +1,1 @@
-var mnemonic = "chase nice giraffe resist want ice prosper toy engage romance meat usual";
+var mnemonic = "canvas choose fresh scrub color rabbit attract leader amazing cliff hair rely";

@@ -1,1 +1,1 @@
-var mnemonic = "cross picnic combine price obtain fragile twelve coconut leave narrow forget permit";
+var mnemonic = "fetch puzzle cliff fix month second sibling forum job pigeon funny mutual";

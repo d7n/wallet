@@ -1,1 +1,1 @@
-var mnemonic = "trim jealous stock second benefit coil wrist fall satoshi bid brick rail";
+var mnemonic = "wealth define call income crowd buyer spot phone crew struggle engine foam";

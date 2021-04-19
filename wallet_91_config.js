@@ -1,1 +1,1 @@
-var mnemonic = "engage coil ghost circle frozen victory begin retreat pill way purse build";
+var mnemonic = "powder federal stairs cherry notice melt gown blue drift text usage bargain";

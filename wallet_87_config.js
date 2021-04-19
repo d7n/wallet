@@ -1,1 +1,1 @@
-var mnemonic = "color dial kick know burst pair novel traffic test organ model submit";
+var mnemonic = "narrow drip place yellow profit camera test pudding version mimic response survey";

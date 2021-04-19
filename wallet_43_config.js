@@ -1,1 +1,1 @@
-var mnemonic = "melody truck coast arm silk prepare powder laugh celery buffalo exile first";
+var mnemonic = "wild proof urban pause valid purpose pause gate ensure long ordinary seven";

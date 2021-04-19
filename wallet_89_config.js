@@ -1,1 +1,1 @@
-var mnemonic = "blue vivid motor insane cover undo relief travel live vacant alien napkin";
+var mnemonic = "alcohol tilt organ key spike cook wagon lift ankle monitor slight crucial";

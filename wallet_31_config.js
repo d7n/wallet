@@ -1,1 +1,1 @@
-var mnemonic = "duck resist near pelican abstract beyond divide hero salon episode purity robust";
+var mnemonic = "lottery final gown machine hen zone artwork spatial lucky aunt bitter regret";

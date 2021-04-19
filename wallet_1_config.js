@@ -1,1 +1,1 @@
-var mnemonic = "mobile cram multiply toss polar silver pattern hover tiny draw range nurse";
+var mnemonic = "skull shock just only silk ocean noble head paddle update track west";

@@ -1,1 +1,1 @@
-var mnemonic = "nice useless useless infant thrive angry dose sock police lock pilot document";
+var mnemonic = "jealous cheese father notice deny trophy airport mask tornado nut judge produce";

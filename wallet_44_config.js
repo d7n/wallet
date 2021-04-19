@@ -1,1 +1,1 @@
-var mnemonic = "nurse cabbage couch gown meadow jazz autumn economy bomb ordinary hurry lunch";
+var mnemonic = "method bottom law ripple library truly deer rubber half exist section rally";

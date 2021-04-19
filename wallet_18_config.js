@@ -1,1 +1,1 @@
-var mnemonic = "item sea balcony ride same rule flee acquire ramp unusual host poet";
+var mnemonic = "exit glow cupboard apology voyage blanket leisure emotion fit impose kind brief";

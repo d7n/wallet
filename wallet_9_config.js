@@ -1,1 +1,1 @@
-var mnemonic = "anxiety spray welcome mad trim brush sun goat escape shallow fuel elder";
+var mnemonic = "during bench future wear two age educate online jacket agent day usual";

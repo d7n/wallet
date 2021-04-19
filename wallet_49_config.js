@@ -1,1 +1,1 @@
-var mnemonic = "autumn child cross foster candy sell lesson refuse letter real toddler increase";
+var mnemonic = "crisp hammer crash advance forget retreat radio library kingdom bind awesome butter";

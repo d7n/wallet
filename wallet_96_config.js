@@ -1,1 +1,1 @@
-var mnemonic = "sport witness spell sweet prefer almost door dilemma saddle earn pistol shop";
+var mnemonic = "alcohol color entire much air garage cereal catch future catch subway buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil attract sight present blue phrase sadness pottery city guilt kitten organ";
+var mnemonic = "east monkey large story divide bleak found guard scheme rather dirt trouble";

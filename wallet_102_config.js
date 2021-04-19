@@ -1,1 +1,1 @@
-var mnemonic = "private worry winter pelican claim during grocery add moral crystal notice diesel";
+var mnemonic = "resist dry emerge afraid target enroll vanish renew electric loan wool travel";

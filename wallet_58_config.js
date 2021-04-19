@@ -1,1 +1,1 @@
-var mnemonic = "beef find ball globe arch distance orphan alarm foil moment rural only";
+var mnemonic = "nuclear large garage fiber need orient victory april brain farm car add";

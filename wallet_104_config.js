@@ -1,1 +1,1 @@
-var mnemonic = "toss erode whip lava fetch essay priority mountain host bean broken tattoo";
+var mnemonic = "desert pen divide interest desk maximum mushroom already claim rigid sustain attack";

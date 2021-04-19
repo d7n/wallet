@@ -1,1 +1,1 @@
-var mnemonic = "learn motion imitate sniff auction eight crisp neck differ sorry off run";
+var mnemonic = "train fix cook extra rescue smile direct office march bulb castle identify";

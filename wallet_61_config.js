@@ -1,1 +1,1 @@
-var mnemonic = "rate advance erode era eye blast scissors valley raccoon mosquito bomb essay";
+var mnemonic = "glance file much canoe rude turtle primary capital put borrow honey stool";

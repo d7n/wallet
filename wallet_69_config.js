@@ -1,1 +1,1 @@
-var mnemonic = "glove address brother forum multiply trouble render guitar tent cushion daughter apple";
+var mnemonic = "clean daring problem replace velvet dress seed vessel middle field wall ramp";

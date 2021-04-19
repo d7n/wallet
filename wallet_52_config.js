@@ -1,1 +1,1 @@
-var mnemonic = "shove episode avoid glance benefit swift switch matter fold disagree olive merge";
+var mnemonic = "pony dynamic amazing light drill gaze crumble addict tape talent grit phone";
