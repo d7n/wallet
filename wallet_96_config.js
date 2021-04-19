@@ -1,1 +1,1 @@
-var mnemonic = "wheel retire hidden illness vehicle toilet poet animal hurdle perfect gym demise";
+var mnemonic = "coral rotate turn ordinary stadium dress glue magic tube usual royal have";

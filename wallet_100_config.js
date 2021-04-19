@@ -1,1 +1,1 @@
-var mnemonic = "mimic improve clock pull trial sad nation river gap buzz raccoon spare";
+var mnemonic = "alone comfort dose attitude company giant humble gown trash stable congress atom";

@@ -1,1 +1,1 @@
-var mnemonic = "census ceiling rain lecture whip odor pact horn boat want penalty base";
+var mnemonic = "cup dress true demand robot snow pink guard adult room trick punch";

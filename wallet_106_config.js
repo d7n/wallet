@@ -1,1 +1,1 @@
-var mnemonic = "scatter gallery echo invest effort year worth idle eye artist indoor garden";
+var mnemonic = "dress wedding seven recipe inner thrive patrol table deer symbol veteran churn";

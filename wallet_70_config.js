@@ -1,1 +1,1 @@
-var mnemonic = "embody boil sand easy novel undo what child tumble prepare water change";
+var mnemonic = "vacuum walk rescue more misery bacon multiply pink live edge kitchen fiction";

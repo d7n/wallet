@@ -1,1 +1,1 @@
-var mnemonic = "staff picnic scan ritual royal scale clarify soap broccoli hood floor buzz";
+var mnemonic = "flame program beef ski aunt fine guide toast prefer pizza goat habit";

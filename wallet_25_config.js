@@ -1,1 +1,1 @@
-var mnemonic = "lonely turkey track review civil gas gauge hint more water unfold plug";
+var mnemonic = "tail chunk humble poet subway someone junk distance husband viable hole office";

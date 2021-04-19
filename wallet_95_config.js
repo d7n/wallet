@@ -1,1 +1,1 @@
-var mnemonic = "cushion crash mobile brush firm able keen garage region napkin noodle move";
+var mnemonic = "entry play accident toddler ten rack exact miss visa service fee salt";

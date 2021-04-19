@@ -1,1 +1,1 @@
-var mnemonic = "cost mystery cigar magic impulse depend average culture legal bamboo soldier squeeze";
+var mnemonic = "zone opinion mutual bargain about bulk firm food young laptop primary unusual";

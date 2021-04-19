@@ -1,1 +1,1 @@
-var mnemonic = "avoid embrace lift drill spring comic loud put dream remember crop cause";
+var mnemonic = "become iron swap trust promote west cash jelly uncle stereo obtain myself";

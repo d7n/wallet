@@ -1,1 +1,1 @@
-var mnemonic = "brave august crunch stuff okay prefer rose ethics belt bulb robust syrup";
+var mnemonic = "wear pelican polar master state copper soft rule hill among will mansion";

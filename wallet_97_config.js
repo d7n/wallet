@@ -1,1 +1,1 @@
-var mnemonic = "today rice pear scare exhaust laundry cool coyote town crazy fade gasp";
+var mnemonic = "symptom include pact minimum easily vapor seed peanut divide episode nurse dream";

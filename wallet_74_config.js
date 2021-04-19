@@ -1,1 +1,1 @@
-var mnemonic = "large candy step network bacon exhaust warm goose elite judge steel ripple";
+var mnemonic = "flip matrix spring climb survey pear uncle curious cross suffer crowd flee";

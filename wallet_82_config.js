@@ -1,1 +1,1 @@
-var mnemonic = "jacket job cradle desk belt wide add spoil advice post alley life";
+var mnemonic = "suggest funny melody until scan marine side rely uphold exile tragic find";

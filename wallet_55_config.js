@@ -1,1 +1,1 @@
-var mnemonic = "peace amount tissue feel arrest index relief enter slender skill cheap turn";
+var mnemonic = "ritual spray mosquito scale social forget comic crawl among they version connect";

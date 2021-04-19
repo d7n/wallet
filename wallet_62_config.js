@@ -1,1 +1,1 @@
-var mnemonic = "thunder elder magic like various cat enact gadget legal rough evidence dream";
+var mnemonic = "sell regular grid until crop fox captain blood minute nature spoon require";

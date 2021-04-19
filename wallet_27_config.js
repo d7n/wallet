@@ -1,1 +1,1 @@
-var mnemonic = "interest dial doctor bus traffic slim rule close net puppy hour blush";
+var mnemonic = "joke field maple swap this ensure cousin ankle candy warm seminar team";

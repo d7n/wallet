@@ -1,1 +1,1 @@
-var mnemonic = "property wrong blue scare payment pride tomato exclude repeat frown winter deer";
+var mnemonic = "orchard maple welcome vendor eternal buzz scrub front congress velvet emerge brief";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus uniform number spare vicious orient judge coffee payment trade cabbage cram";
+var mnemonic = "dad question enlist lawsuit original between cup head spray damage visual clean";

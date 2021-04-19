@@ -1,1 +1,1 @@
-var mnemonic = "corn bottom cycle point neck basket bunker pepper diet cry simple forward";
+var mnemonic = "bone victory legal deliver kite orient sure enable bicycle notable security deliver";

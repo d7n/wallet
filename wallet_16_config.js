@@ -1,1 +1,1 @@
-var mnemonic = "hollow unusual stamp attract mixed victory pelican mechanic empower sun spirit sort";
+var mnemonic = "amateur change security between tide plug hungry upon rookie axis crater shed";

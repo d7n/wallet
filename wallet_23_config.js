@@ -1,1 +1,1 @@
-var mnemonic = "wrong depart harvest kitchen rail grocery palm company seed puzzle moon file";
+var mnemonic = "noodle guitar climb home slush narrow opera winner ski duty egg rich";

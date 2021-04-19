@@ -1,1 +1,1 @@
-var mnemonic = "notice shop security love coyote govern permit heavy ozone quantum security effort";
+var mnemonic = "fee travel crouch seed inspire sand assume fish village quarter hero main";

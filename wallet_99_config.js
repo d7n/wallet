@@ -1,1 +1,1 @@
-var mnemonic = "old eyebrow differ left vicious virtual possible author chest urban effort fish";
+var mnemonic = "combine make assault hood matter faculty pattern glance lamp puzzle wide priority";

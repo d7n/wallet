@@ -1,1 +1,1 @@
-var mnemonic = "absent surprise mind tag tell nuclear know slush rival spike shuffle wild";
+var mnemonic = "disorder path tag essence service stem enact ugly oblige hip enhance flag";

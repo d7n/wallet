@@ -1,1 +1,1 @@
-var mnemonic = "shell whale toddler sponsor derive forget giggle worry only unaware donate adult";
+var mnemonic = "wire disagree couch blanket human harsh group latin broken fine fancy quiz";

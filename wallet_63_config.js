@@ -1,1 +1,1 @@
-var mnemonic = "grunt hockey excite stick cotton tide music aspect answer consider sight puppy";
+var mnemonic = "wolf faculty bean culture portion fortune diamond safe wave tape rabbit ride";

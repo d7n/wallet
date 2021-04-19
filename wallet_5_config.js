@@ -1,1 +1,1 @@
-var mnemonic = "snap blossom move describe what remove correct relief pair pact quit move";
+var mnemonic = "model attack upon wreck resist test camera camp mom parrot lion first";

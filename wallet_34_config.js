@@ -1,1 +1,1 @@
-var mnemonic = "anchor crisp father voice bounce opinion zone edge gadget lemon rapid pioneer";
+var mnemonic = "afraid sunny coyote mesh orchard lady patient shock chief supreme chuckle stone";

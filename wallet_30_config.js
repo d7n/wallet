@@ -1,1 +1,1 @@
-var mnemonic = "hospital deposit tone scene episode spell upset cost witness broken table submit";
+var mnemonic = "february vanish obvious trust normal rigid flavor color decide multiply breeze spawn";

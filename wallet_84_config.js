@@ -1,1 +1,1 @@
-var mnemonic = "normal method oak grape exchange scatter hill discover vacant seed zero major";
+var mnemonic = "motor rare scout large joy winter buddy chapter battle ill trigger hard";

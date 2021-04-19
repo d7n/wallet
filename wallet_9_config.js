@@ -1,1 +1,1 @@
-var mnemonic = "clog grab remember success purpose year path egg custom eternal fence sugar";
+var mnemonic = "balance tongue alley swing fix antenna arch accident march jeans lawn peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "twice inflict orbit click ignore pipe young symbol blush kiss opera eager";
+var mnemonic = "lamp universe vault luggage cube tongue parrot cage today culture canal athlete";

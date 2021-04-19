@@ -1,1 +1,1 @@
-var mnemonic = "exhibit prevent modify cinnamon velvet trend hybrid nest boring view target worry";
+var mnemonic = "lonely shed move record biology hawk north album rabbit grant screen child";

@@ -1,1 +1,1 @@
-var mnemonic = "warm state reform hen junk theory swing input fix alley neck suspect";
+var mnemonic = "universe myself wisdom steak echo ridge hamster skin six tired slim near";

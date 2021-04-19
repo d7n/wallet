@@ -1,1 +1,1 @@
-var mnemonic = "annual chat sister wrist gown example grocery barely audit relief indoor neither";
+var mnemonic = "pact suit fire square view toast shadow awesome stereo danger matter frost";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck eager bulb mention benefit hole solid business three live hole sniff";
+var mnemonic = "fan brief hint ticket nominee trumpet puppy elite waste bench jeans furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "olive about fragile suggest walk general cruel huge bring hip excite false";
+var mnemonic = "miss dove section armed patient raccoon sustain frost foil wine hazard sport";

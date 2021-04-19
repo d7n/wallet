@@ -1,1 +1,1 @@
-var mnemonic = "siren struggle neither cannon swing little index problem submit spike note unusual";
+var mnemonic = "anchor donor eight tragic slender heart win mix distance wisdom zone trouble";

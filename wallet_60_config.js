@@ -1,1 +1,1 @@
-var mnemonic = "sword rain length museum blame ginger doctor dolphin climb grab provide assist";
+var mnemonic = "pact word spoon print cabin survey embody paper where blouse assume cliff";

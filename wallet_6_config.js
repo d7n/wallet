@@ -1,1 +1,1 @@
-var mnemonic = "horror bus hover vacuum famous dinosaur urge blanket bounce burst slogan sing";
+var mnemonic = "squeeze battle lift eager insane famous room inch mobile vessel cupboard embrace";

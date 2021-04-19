@@ -1,1 +1,1 @@
-var mnemonic = "job envelope employ turtle comfort enforce tourist scheme various ask target neither";
+var mnemonic = "traffic math reveal couch lucky city joy soda attack zoo shield outer";

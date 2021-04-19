@@ -1,1 +1,1 @@
-var mnemonic = "immense cheese about egg machine limb change sound nephew simple music clown";
+var mnemonic = "swim advance thank empty cool evil view weird strategy insane noise dolphin";

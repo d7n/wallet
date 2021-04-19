@@ -1,1 +1,1 @@
-var mnemonic = "lab boil cruel banana pave tongue box pottery found arrive speak uniform";
+var mnemonic = "guess digital right try evoke entry life card visit couple neither vacant";

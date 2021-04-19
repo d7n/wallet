@@ -1,1 +1,1 @@
-var mnemonic = "version rack family dirt spread sight elder egg expand work order topic";
+var mnemonic = "blame cricket slice resemble festival skull blossom feed place notable drive gospel";

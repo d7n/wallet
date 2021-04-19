@@ -1,1 +1,1 @@
-var mnemonic = "normal nose home food bar world ceiling canyon divide food region nephew";
+var mnemonic = "test couch almost captain eager adult effort start shrug vital cable position";

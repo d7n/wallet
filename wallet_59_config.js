@@ -1,1 +1,1 @@
-var mnemonic = "oven dish expect snap kidney recipe brisk can amateur furnace december family";
+var mnemonic = "pear memory dog barrel actress seven shaft frown estate ripple grief surprise";

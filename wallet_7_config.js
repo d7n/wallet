@@ -1,1 +1,1 @@
-var mnemonic = "artist trim student chimney shield creek glare tourist indicate museum volcano inquiry";
+var mnemonic = "lecture harvest loud august early puzzle key alter gadget scare gloom tiny";

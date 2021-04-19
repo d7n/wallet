@@ -1,1 +1,1 @@
-var mnemonic = "junior mail object trust exit one noble state fruit afford large heart";
+var mnemonic = "legal cupboard enough embark lion eyebrow garage spray reform engage stay sister";

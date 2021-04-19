@@ -1,1 +1,1 @@
-var mnemonic = "someone acoustic supreme bomb about crack crime normal weather measure before visa";
+var mnemonic = "reward clarify awkward circle century report enrich twice crystal trash promote design";

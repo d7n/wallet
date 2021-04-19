@@ -1,1 +1,1 @@
-var mnemonic = "rather notable asthma tribe bone mom label pink swarm inhale joke noise";
+var mnemonic = "magnet initial fame entry ill grief tenant reunion sight exist hotel pistol";

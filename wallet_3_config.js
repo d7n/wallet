@@ -1,1 +1,1 @@
-var mnemonic = "brother churn fat mystery define leaf guitar lyrics vague topic below beef";
+var mnemonic = "select accuse bachelor mean duck useless crouch castle pigeon judge virus keep";

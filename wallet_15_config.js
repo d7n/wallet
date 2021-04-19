@@ -1,1 +1,1 @@
-var mnemonic = "model person east faint child black enlist chief pupil hole jungle decade";
+var mnemonic = "shaft drift beef erode ticket cover barrel snake sport cloth forum distance";

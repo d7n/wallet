@@ -1,1 +1,1 @@
-var mnemonic = "item fan dynamic crowd medal stereo dilemma science fox east lunar heavy";
+var mnemonic = "crime around curve basket pigeon calm pumpkin april want balance skill upper";

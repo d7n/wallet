@@ -1,1 +1,1 @@
-var mnemonic = "resemble bracket absent category fiscal place peace dignity potato unveil envelope fall";
+var mnemonic = "cost chair assume praise armed ostrich arrow equip poet deposit there inflict";

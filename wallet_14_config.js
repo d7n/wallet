@@ -1,1 +1,1 @@
-var mnemonic = "kingdom common vicious tilt hen siege plastic fabric citizen scorpion pride lonely";
+var mnemonic = "glory luxury boil produce hotel vast enlist team movie rookie clutch wise";

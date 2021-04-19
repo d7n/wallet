@@ -1,1 +1,1 @@
-var mnemonic = "phrase hunt fall mushroom tooth nose bitter kite thing final there pause";
+var mnemonic = "utility luxury tonight vendor snake brain surround chunk fortune actor kind clarify";

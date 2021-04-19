@@ -1,1 +1,1 @@
-var mnemonic = "claw carbon shadow nasty garage ordinary marriage carbon dizzy desert leave nut";
+var mnemonic = "physical wheat gasp skate job material scrub become era hero mimic venue";

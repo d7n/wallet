@@ -1,1 +1,1 @@
-var mnemonic = "history salon rocket network hospital wear phrase siege mango session smart stone";
+var mnemonic = "vacuum write glove also wreck rather aunt chunk drastic cliff spoil say";

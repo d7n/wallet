@@ -1,1 +1,1 @@
-var mnemonic = "lens borrow dove extend wool vibrant cabbage festival riot start stairs kid";
+var mnemonic = "cricket hurt bunker pair cart desk super beach husband peanut steak ship";

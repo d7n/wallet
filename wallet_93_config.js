@@ -1,1 +1,1 @@
-var mnemonic = "reunion juice tip cram honey myself hotel into judge ordinary cheap snow";
+var mnemonic = "easily erupt always pool prefer piece drink entire suit tail wave eye";

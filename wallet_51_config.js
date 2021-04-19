@@ -1,1 +1,1 @@
-var mnemonic = "mansion half leaf tortoise voice thumb renew meat obscure seat grid gravity";
+var mnemonic = "sting wealth zone dust piano position target again office embark february father";

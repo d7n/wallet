@@ -1,1 +1,1 @@
-var mnemonic = "resist industry embark fork actress found remember eyebrow pull tribe random mansion";
+var mnemonic = "goddess permit brush quantum behave argue host capital reform patch sun riot";

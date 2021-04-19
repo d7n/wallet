@@ -1,1 +1,1 @@
-var mnemonic = "uncover aerobic elevator brass cactus reflect weekend gossip normal tunnel orbit submit";
+var mnemonic = "goddess rich bone where between funny insane acid squeeze buddy curious runway";

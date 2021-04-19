@@ -1,1 +1,1 @@
-var mnemonic = "rebuild alley clean strike soap normal end term nose assume humble swarm";
+var mnemonic = "oven rather cream title nature seven grief open room negative carbon panda";

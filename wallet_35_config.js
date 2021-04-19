@@ -1,1 +1,1 @@
-var mnemonic = "effort sauce mass grain text velvet source number when swim pledge morning";
+var mnemonic = "endless typical giggle above run expire lend radio what goat various ritual";

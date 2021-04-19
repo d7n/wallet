@@ -1,1 +1,1 @@
-var mnemonic = "major foot grape chair august pipe winter trap inspire warrior rail accuse";
+var mnemonic = "flip total item never recycle penalty income master tongue surge dolphin loud";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic minute connect dad border visit lawsuit luggage pact student universe truth";
+var mnemonic = "tooth other clump merge gift medal lumber shell trouble umbrella soda gap";

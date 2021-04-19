@@ -1,1 +1,1 @@
-var mnemonic = "frequent lecture word chunk filter install piece social away economy suggest road";
+var mnemonic = "goat arch often agent empower swing indoor badge punch museum case abandon";

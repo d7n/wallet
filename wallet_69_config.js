@@ -1,1 +1,1 @@
-var mnemonic = "curious album ramp extend embody put detail member vanish grape shine record";
+var mnemonic = "ghost smart warrior laptop super delay liar spare lucky game drill damp";

@@ -1,1 +1,1 @@
-var mnemonic = "like rough valve mention turkey just spread winner industry local young calm";
+var mnemonic = "mechanic erode comic popular famous oyster skull icon walk impulse point crime";

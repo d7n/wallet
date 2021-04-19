@@ -1,1 +1,1 @@
-var mnemonic = "swing degree doll cream general hold remind alpha reward decrease fault wear";
+var mnemonic = "organ analyst mosquito garment time fame cement cost crowd mimic true morning";

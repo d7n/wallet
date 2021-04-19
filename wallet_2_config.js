@@ -1,1 +1,1 @@
-var mnemonic = "six general dice teach boil wife dance salon oval popular electric tomato";
+var mnemonic = "need ivory predict ecology denial enough spoil garbage quantum soap number liquid";

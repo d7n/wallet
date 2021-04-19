@@ -1,1 +1,1 @@
-var mnemonic = "speed avoid lake tent wool dad truth script slam cliff globe sheriff";
+var mnemonic = "better unable boy stand lab include club erode razor afford dolphin exclude";

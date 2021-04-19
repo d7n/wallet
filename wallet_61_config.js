@@ -1,1 +1,1 @@
-var mnemonic = "innocent patch usual aim trouble voyage patch hand margin thunder boat father";
+var mnemonic = "barrel eternal hurry shoe voice agent plunge truck strike arm subject engine";

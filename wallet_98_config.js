@@ -1,1 +1,1 @@
-var mnemonic = "glue monkey rice battle swarm cool portion rude bar luxury frozen craft";
+var mnemonic = "pulp weird clutch pumpkin romance gravity lift solve pepper photo despair prevent";

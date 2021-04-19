@@ -1,1 +1,1 @@
-var mnemonic = "walnut obvious much rely obvious antique mom baby fly tonight scheme priority";
+var mnemonic = "walnut bargain cross enlist combine filter broccoli ride this wife load release";

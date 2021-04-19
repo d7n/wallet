@@ -1,1 +1,1 @@
-var mnemonic = "doll degree simple imitate lazy scan puzzle craft smooth celery cash rural";
+var mnemonic = "vessel raw siege jar slide pear vivid pistol virus recycle main design";

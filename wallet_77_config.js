@@ -1,1 +1,1 @@
-var mnemonic = "valid source describe photo science artwork kit city teach hint result milk";
+var mnemonic = "divide harsh wage worry benefit flight subway copper parade slot hard kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "token pink soldier material area echo ensure enrich announce buyer figure orange";
+var mnemonic = "century obey false strong limit hybrid easily strike blue odor nest shield";

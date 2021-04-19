@@ -1,1 +1,1 @@
-var mnemonic = "useless february rookie size theme deposit tag small shine series milk home";
+var mnemonic = "supply decide illegal rubber syrup already category sword play crew arctic return";

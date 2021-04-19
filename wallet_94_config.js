@@ -1,1 +1,1 @@
-var mnemonic = "inquiry skin thank cage kitchen term voice rebuild column brick praise side";
+var mnemonic = "process cook crisp cinnamon shift notice wire slush rigid merit vacant own";

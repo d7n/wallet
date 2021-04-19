@@ -1,1 +1,1 @@
-var mnemonic = "solid shield visual box staff wife fever patch blossom key oppose rough";
+var mnemonic = "indoor filter trash twelve south come unfair helmet appear avoid album capable";

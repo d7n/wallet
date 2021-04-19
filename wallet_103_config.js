@@ -1,1 +1,1 @@
-var mnemonic = "season dance cactus satoshi budget lobster universe fog engage inside almost bunker";
+var mnemonic = "arctic permit among control retreat wing enact flame relief faculty shaft year";

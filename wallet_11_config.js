@@ -1,1 +1,1 @@
-var mnemonic = "alone trust envelope bus index stand give tornado sheriff evoke common remind";
+var mnemonic = "planet awake unfold junk evil inspire huge donor echo help doctor hobby";
