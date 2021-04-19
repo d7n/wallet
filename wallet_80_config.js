@@ -1,1 +1,1 @@
-var mnemonic = "market whisper naive harvest wet bulk meat rough lumber frown fury adult";
+var mnemonic = "remind intact case toward portion problem replace acid skin grain core tiger";

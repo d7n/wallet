@@ -1,1 +1,1 @@
-var mnemonic = "close loan arrow play essay phrase word man pond cannon scatter negative";
+var mnemonic = "wrestle sadness analyst proof defy push velvet boost collect text size vehicle";

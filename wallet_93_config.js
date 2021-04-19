@@ -1,1 +1,1 @@
-var mnemonic = "fade glove aim foot fiction doll picture august region island odor solar";
+var mnemonic = "lady session sudden path sign badge orchard cancel egg slot expand speak";

@@ -1,1 +1,1 @@
-var mnemonic = "explain proud salad film leopard crowd speed seek section mixed degree interest";
+var mnemonic = "horse guilt viable issue orphan pioneer crouch index super inside equal enrich";

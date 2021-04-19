@@ -1,1 +1,1 @@
-var mnemonic = "island minor clump check patrol earn spot quick sun wait method narrow";
+var mnemonic = "miracle ivory title lend exit few iron truly man taxi share physical";

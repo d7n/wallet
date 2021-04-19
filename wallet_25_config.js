@@ -1,1 +1,1 @@
-var mnemonic = "height ketchup attend equal surprise whisper fold divert divide kick cake wise";
+var mnemonic = "depth music alter priority misery put merge scorpion best kidney dentist blanket";

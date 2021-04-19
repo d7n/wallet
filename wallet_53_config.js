@@ -1,1 +1,1 @@
-var mnemonic = "lamp choose pond dust bunker rich shy popular smart rare liquid dumb";
+var mnemonic = "merit taste road repair brush sun fitness swear theory animal system raccoon";

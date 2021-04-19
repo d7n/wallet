@@ -1,1 +1,1 @@
-var mnemonic = "soldier order ribbon roof output aspect hour reunion pilot young labor pilot";
+var mnemonic = "input key human seed net safe race will wave drink cushion badge";

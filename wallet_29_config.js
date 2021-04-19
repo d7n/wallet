@@ -1,1 +1,1 @@
-var mnemonic = "bus wing message cargo that indicate member dizzy increase answer enhance marine";
+var mnemonic = "cotton wagon forum reason input demand tourist camera lawn parade armed drift";

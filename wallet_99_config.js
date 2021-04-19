@@ -1,1 +1,1 @@
-var mnemonic = "cheese skill sand seat pact artist patient ritual focus work tiger jungle";
+var mnemonic = "oyster brush awkward allow ranch museum peasant nasty damp impulse wife update";

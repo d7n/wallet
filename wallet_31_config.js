@@ -1,1 +1,1 @@
-var mnemonic = "target winner aisle acid end picture kangaroo tattoo start river wool assume";
+var mnemonic = "say eager desert review organ web okay grit purse trial sweet barrel";

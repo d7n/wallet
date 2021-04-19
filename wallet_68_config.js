@@ -1,1 +1,1 @@
-var mnemonic = "thrive pyramid dignity about runway secret nose maple slender cram fly ginger";
+var mnemonic = "void lazy join choice nasty spend cram edit crush body future caution";

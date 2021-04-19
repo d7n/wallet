@@ -1,1 +1,1 @@
-var mnemonic = "flock lumber suspect riot open basic visit put trouble parent judge dutch";
+var mnemonic = "venue border blossom virus forward cup issue library slush abstract monster famous";

@@ -1,1 +1,1 @@
-var mnemonic = "game ask ancient gentle snap nerve ancient add fury pledge street post";
+var mnemonic = "almost spy rescue laptop liquid six dawn blanket sight source ridge orphan";

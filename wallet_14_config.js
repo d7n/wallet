@@ -1,1 +1,1 @@
-var mnemonic = "island knife recipe arch reduce tree night toast spatial move cereal private";
+var mnemonic = "bounce alarm book ostrich sponsor school hammer write health woman puppy volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger gadget olympic about shock sauce enforce staff sleep minute escape vacuum";
+var mnemonic = "attitude turtle exhibit either celery rude pull capital alert birth pumpkin festival";

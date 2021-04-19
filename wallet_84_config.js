@@ -1,1 +1,1 @@
-var mnemonic = "pink squeeze sauce give shaft smart insect guilt normal deal audit glove";
+var mnemonic = "ignore all table visual guard huge source cargo swim unit earn strategy";

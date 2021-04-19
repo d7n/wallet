@@ -1,1 +1,1 @@
-var mnemonic = "arctic quarter detail gauge bundle jaguar stage demise cluster spread discover absurd";
+var mnemonic = "rather wire luggage trip air boost photo short impose rough nurse arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "movie screen story rally key wool silver fit chicken drift awkward miss";
+var mnemonic = "art cereal purchase remove indicate sand lunch give net sure scrub judge";

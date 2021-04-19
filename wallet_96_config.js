@@ -1,1 +1,1 @@
-var mnemonic = "mushroom tool smoke cliff impulse protect autumn water shed curve rigid woman";
+var mnemonic = "until brown assist wool fossil noble actress bind answer hope job maximum";

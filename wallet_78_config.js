@@ -1,1 +1,1 @@
-var mnemonic = "belt capital remove shaft brave divide play abandon ensure route penalty blade";
+var mnemonic = "warrior escape clay dizzy bamboo lesson group twelve spoon cushion clap hole";

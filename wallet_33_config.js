@@ -1,1 +1,1 @@
-var mnemonic = "earn hurdle topic version glide begin melt rocket beyond wish unfold select";
+var mnemonic = "tackle blush tattoo segment track loyal exotic rally vague write divorce social";

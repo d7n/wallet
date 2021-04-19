@@ -1,1 +1,1 @@
-var mnemonic = "catalog eyebrow attitude erase chat tissue similar next gas draft oyster illegal";
+var mnemonic = "brown summer broom submit oxygen glow answer gain myth enlist hazard example";

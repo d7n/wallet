@@ -1,1 +1,1 @@
-var mnemonic = "float minute cash jazz hospital industry news one journey country believe same";
+var mnemonic = "enjoy blade evolve feel lounge rocket topic scissors drive recall reward problem";

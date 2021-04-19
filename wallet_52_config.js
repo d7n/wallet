@@ -1,1 +1,1 @@
-var mnemonic = "exact mushroom brown jazz magic interest concert pottery woman document arctic cherry";
+var mnemonic = "crime adjust goat misery fetch illegal deposit similar run end cactus salon";

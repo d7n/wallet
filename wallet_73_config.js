@@ -1,1 +1,1 @@
-var mnemonic = "credit mutual chronic defy teach month party visa width foster truth wear";
+var mnemonic = "online occur thumb glimpse antenna maximum fringe bus series guilt water adult";

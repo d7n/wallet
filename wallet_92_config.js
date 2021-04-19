@@ -1,1 +1,1 @@
-var mnemonic = "dawn lobster rabbit kiwi dream deposit chef elephant acquire noble music toss";
+var mnemonic = "exact thing shoulder setup section youth trash layer enroll knee oxygen acquire";

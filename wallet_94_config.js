@@ -1,1 +1,1 @@
-var mnemonic = "hurry lawsuit staff piece route spread bar aunt balcony soul fiscal host";
+var mnemonic = "stumble coin income improve message toss spray alley hurt approve humble crucial";

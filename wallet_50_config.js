@@ -1,1 +1,1 @@
-var mnemonic = "august pair member toilet episode scale around source income drink trend sibling";
+var mnemonic = "erupt student gun uncle volcano powder pig become prison file admit craft";

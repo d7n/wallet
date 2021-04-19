@@ -1,1 +1,1 @@
-var mnemonic = "crucial round gossip canyon struggle truck calm trust lock math imitate pottery";
+var mnemonic = "lucky review lady fan slight village bid era ethics wonder process kit";

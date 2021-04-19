@@ -1,1 +1,1 @@
-var mnemonic = "swarm old churn finger alley issue damage brain alter hover second choice";
+var mnemonic = "damp into assault sphere invest delay drive disease custom term umbrella disorder";

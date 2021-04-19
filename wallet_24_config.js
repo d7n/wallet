@@ -1,1 +1,1 @@
-var mnemonic = "fox fog front carbon cycle draw fragile blouse hawk year tongue achieve";
+var mnemonic = "physical slow upset outer erode owner giggle sign ice speak stem omit";

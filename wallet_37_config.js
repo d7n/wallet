@@ -1,1 +1,1 @@
-var mnemonic = "foil under movie settle hedgehog leisure scissors puzzle reflect pass cover kangaroo";
+var mnemonic = "series memory broccoli decline image spin curious clog chimney decorate school defy";

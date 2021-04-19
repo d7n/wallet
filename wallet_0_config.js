@@ -1,1 +1,1 @@
-var mnemonic = "scan odor two kid learn among appear twenty crater evoke strategy busy";
+var mnemonic = "area soul devote sound cloth creek radio letter glory battle target shiver";

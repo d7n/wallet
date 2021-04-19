@@ -1,1 +1,1 @@
-var mnemonic = "spin caution document census ripple flock three trouble divide used seed polar";
+var mnemonic = "riot base symptom dignity world ready sun inmate label candy lamp picnic";

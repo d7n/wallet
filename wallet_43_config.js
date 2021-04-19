@@ -1,1 +1,1 @@
-var mnemonic = "west scene crater prepare luggage arrive brown member spell atom album ensure";
+var mnemonic = "fold visual album organ sibling buffalo volume collect exchange left rival myth";

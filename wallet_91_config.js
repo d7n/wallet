@@ -1,1 +1,1 @@
-var mnemonic = "wolf dad whip twelve magic flock media wife aunt side across client";
+var mnemonic = "rebuild receive cool seminar senior arm tape slush flock cheap peanut smart";

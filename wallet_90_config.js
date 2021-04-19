@@ -1,1 +1,1 @@
-var mnemonic = "seminar snow recycle dilemma shoot maple palm lunch dice sting like during";
+var mnemonic = "element hub spy copper solution grunt ignore alcohol quantum crush index giggle";

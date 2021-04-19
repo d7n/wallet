@@ -1,1 +1,1 @@
-var mnemonic = "teach success wedding consider pitch drift craft world pluck kiwi worry coffee";
+var mnemonic = "exact pottery season lion ignore decide fluid enlist wisdom woman unusual orient";

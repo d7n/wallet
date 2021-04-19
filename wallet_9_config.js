@@ -1,1 +1,1 @@
-var mnemonic = "dawn raven scout welcome cheese gain glance uphold adult stumble amazing zone";
+var mnemonic = "kingdom leave couple predict walnut heavy reform plunge exotic prosper evolve grocery";

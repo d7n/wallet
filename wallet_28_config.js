@@ -1,1 +1,1 @@
-var mnemonic = "agree domain save edit design side cave voice race mom hat gun";
+var mnemonic = "crouch odor naive weapon april execute client angle true law attend system";

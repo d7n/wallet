@@ -1,1 +1,1 @@
-var mnemonic = "amused frequent treat surprise believe slogan ethics consider assume jaguar buffalo utility";
+var mnemonic = "adjust black receive mind bench fish brave razor waste rabbit floor disagree";

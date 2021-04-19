@@ -1,1 +1,1 @@
-var mnemonic = "dawn pudding ready tone lunch name visit weasel side law gate power";
+var mnemonic = "spice fault wonder sleep tower maze rent best drink minor medal symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "clock drip space opinion misery amateur verify include shell inherit gauge lift";
+var mnemonic = "demise able hire come dirt pizza whisper nation wise list cash jewel";

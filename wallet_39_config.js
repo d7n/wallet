@@ -1,1 +1,1 @@
-var mnemonic = "share silly ten swamp wrong expire kingdom diamond priority nation pen habit";
+var mnemonic = "wear trip fatal acid timber uncle happy hobby movie sell undo finish";

@@ -1,1 +1,1 @@
-var mnemonic = "radio room odor twice favorite physical hire fish rely apart road keep";
+var mnemonic = "human weather pledge mean damp husband curtain pigeon warm hunt beach purchase";

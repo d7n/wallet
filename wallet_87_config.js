@@ -1,1 +1,1 @@
-var mnemonic = "benefit blast radio asthma wire define behind strategy stuff rookie uphold crater";
+var mnemonic = "once say dignity they home eternal window harvest primary finish protect news";

@@ -1,1 +1,1 @@
-var mnemonic = "couple cancel sauce hollow crazy mutual bargain fun husband hockey visual engage";
+var mnemonic = "story first uphold cousin ugly session era casual quarter above milk nominee";

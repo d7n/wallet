@@ -1,1 +1,1 @@
-var mnemonic = "bachelor tell tree village island autumn bubble glory crowd life slim perfect";
+var mnemonic = "perfect seven double update citizen vault decrease exotic inside twin topic approve";

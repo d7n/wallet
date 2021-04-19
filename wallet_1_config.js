@@ -1,1 +1,1 @@
-var mnemonic = "diesel minute calm practice hen member accuse then gown embrace verb side";
+var mnemonic = "omit bleak road limb fiction payment track elevator steak battle hole sniff";

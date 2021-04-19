@@ -1,1 +1,1 @@
-var mnemonic = "side shoulder lawsuit sketch behave core distance hello buddy stuff urge script";
+var mnemonic = "tornado lawsuit now catalog hard adult pair noble dynamic rescue raven sell";

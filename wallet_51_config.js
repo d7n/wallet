@@ -1,1 +1,1 @@
-var mnemonic = "crouch once spawn exhaust brain coach fiscal program wheel convince home exotic";
+var mnemonic = "crane imitate spike clever off hero scheme fit health razor cycle vague";

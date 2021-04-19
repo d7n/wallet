@@ -1,1 +1,1 @@
-var mnemonic = "bullet tomorrow chimney enemy price aunt rule parent retire defense tobacco pottery";
+var mnemonic = "glad shoot critic use road fee oven adult share shop nut sell";

@@ -1,1 +1,1 @@
-var mnemonic = "patient divert swallow struggle begin token delay ancient submit arena skirt tortoise";
+var mnemonic = "extra all scale dice figure retreat carpet sister again float mask ten";

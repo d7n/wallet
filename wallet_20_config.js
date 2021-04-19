@@ -1,1 +1,1 @@
-var mnemonic = "extra safe bar walnut vital fatal lucky limit obscure ocean deposit foster";
+var mnemonic = "neutral people palm dream obey carbon top exhaust upset jazz long fence";

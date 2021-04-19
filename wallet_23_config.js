@@ -1,1 +1,1 @@
-var mnemonic = "air live leave vote bid alcohol remove egg flat tent tortoise dose";
+var mnemonic = "gadget donate attitude razor pact damage sound track magic welcome gossip three";

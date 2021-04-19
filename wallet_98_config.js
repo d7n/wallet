@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon town dream error enlist fade north tumble exile general maid melody";
+var mnemonic = "stool boring still woman derive harvest crouch aunt year host hidden ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "version provide depth damage kingdom mule unit witness couch april turkey defense";
+var mnemonic = "pink claw victory summer puppy observe zone filter senior ticket grab alien";

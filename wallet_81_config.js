@@ -1,1 +1,1 @@
-var mnemonic = "next curious cattle example tumble owner dice actress claim allow chase tent";
+var mnemonic = "heavy future crop boring broccoli cliff live safe muscle liquid this addict";

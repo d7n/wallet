@@ -1,1 +1,1 @@
-var mnemonic = "cheese napkin smart side rely author tiny rug uncle intact burden require";
+var mnemonic = "circle galaxy inherit joke cinnamon pig canal beach tenant brush cute dash";

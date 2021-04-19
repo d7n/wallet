@@ -1,1 +1,1 @@
-var mnemonic = "ritual seed volume roof okay monkey turn pitch climb winter weapon oil";
+var mnemonic = "language decline quote alien evolve attend brand thought snack bunker dawn arrow";

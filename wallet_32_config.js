@@ -1,1 +1,1 @@
-var mnemonic = "bird document defy pigeon visit abstract glove tired squirrel harvest matrix negative";
+var mnemonic = "gown swamp invite potato cannon mandate void card mix topple match nose";

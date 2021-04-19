@@ -1,1 +1,1 @@
-var mnemonic = "valve educate violin father high glide vast ten rather dose viable estate";
+var mnemonic = "exercise web devote tail nation fantasy pool lounge resemble reunion love soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "choose glide mouse connect laugh option cage scissors burger shed exhaust possible";
+var mnemonic = "pole sail become blue youth congress flock exit cave midnight force measure";

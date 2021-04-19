@@ -1,1 +1,1 @@
-var mnemonic = "lucky neck day uniform reflect force key mean shop leg finger same";
+var mnemonic = "night mosquito mean puppy print give boss cherry funny demise reject achieve";

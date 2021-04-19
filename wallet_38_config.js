@@ -1,1 +1,1 @@
-var mnemonic = "effort humor between april attack fine perfect wine crouch man mosquito inherit";
+var mnemonic = "glimpse galaxy warfare sausage moon zebra mutual shoe replace tourist top front";

@@ -1,1 +1,1 @@
-var mnemonic = "define frost chuckle affair soda auto asthma wool rule decline uniform love";
+var mnemonic = "cereal twenty shrimp brand goat fine phone evolve wasp roast injury conduct";

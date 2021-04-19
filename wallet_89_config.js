@@ -1,1 +1,1 @@
-var mnemonic = "seminar pause patrol away peasant bitter fit raven mistake coyote valid six";
+var mnemonic = "federal strategy town moon output east portion forest pledge alert ring exit";

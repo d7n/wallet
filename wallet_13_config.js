@@ -1,1 +1,1 @@
-var mnemonic = "zero bone flag genre bus asset cost marble woman similar disease luxury";
+var mnemonic = "abuse bind olive sock pizza jump category blade dawn candy today try";

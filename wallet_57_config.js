@@ -1,1 +1,1 @@
-var mnemonic = "hole unknown attack attend harbor chair room gallery spell fatigue inside mystery";
+var mnemonic = "husband cave lamp brand vanish orient kidney surround immune wreck mom pride";

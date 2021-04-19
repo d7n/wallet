@@ -1,1 +1,1 @@
-var mnemonic = "drill usual awesome act panic champion verify display raven flip asset loop";
+var mnemonic = "flag change tank segment property glide require borrow gather autumn member audit";

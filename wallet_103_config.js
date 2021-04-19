@@ -1,1 +1,1 @@
-var mnemonic = "once maximum during museum draft thank fold truth child jewel half slight";
+var mnemonic = "rapid tent world steak high brother shed decide denial month slot little";

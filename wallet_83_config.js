@@ -1,1 +1,1 @@
-var mnemonic = "frame profit daring lonely wealth exact cage case post nut melt job";
+var mnemonic = "wave outdoor journey law piano grape world raw jump juice face laugh";

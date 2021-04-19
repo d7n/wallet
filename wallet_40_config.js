@@ -1,1 +1,1 @@
-var mnemonic = "repair equip fine exchange mountain insect stove science boil sunset load half";
+var mnemonic = "wise three pattern fatigue program sun innocent forest alter entire minor found";

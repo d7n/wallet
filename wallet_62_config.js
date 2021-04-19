@@ -1,1 +1,1 @@
-var mnemonic = "keen walk stereo rhythm oblige stable keep safe trend favorite logic canal";
+var mnemonic = "lemon series mushroom baby dream boring viable trumpet volcano across such butter";

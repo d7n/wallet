@@ -1,1 +1,1 @@
-var mnemonic = "stuff bread dial champion patient phone motor ginger music saddle profit jealous";
+var mnemonic = "order unlock romance arrive valley trick dentist middle universe happy unfair silver";

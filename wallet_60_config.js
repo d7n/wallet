@@ -1,1 +1,1 @@
-var mnemonic = "fever produce receive hair all curious give sudden lion town gain release";
+var mnemonic = "gas capable swarm banana ride toe arena damp egg furnace father poet";

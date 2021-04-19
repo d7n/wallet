@@ -1,1 +1,1 @@
-var mnemonic = "catalog evidence convince nothing funny fold lizard erode oil secret craft pumpkin";
+var mnemonic = "sphere false transfer mixture lava patrol plastic culture will number forest response";

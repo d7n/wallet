@@ -1,1 +1,1 @@
-var mnemonic = "depend forum garlic gadget kitchen mixed swear blast innocent fitness penalty wonder";
+var mnemonic = "solution donkey frozen other famous raw barrel loop strong quick elephant spice";

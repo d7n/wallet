@@ -1,1 +1,1 @@
-var mnemonic = "small battle pigeon hire street acid bleak parent fresh fringe random today";
+var mnemonic = "oil tattoo pole parent verb salute surface caution gravity sell copy debate";

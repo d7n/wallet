@@ -1,1 +1,1 @@
-var mnemonic = "peace cloud state garbage arm sketch whisper palm pear tilt bag violin";
+var mnemonic = "assault they crash frozen bench dice faint stool envelope truth orbit bronze";

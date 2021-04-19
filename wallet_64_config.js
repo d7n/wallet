@@ -1,1 +1,1 @@
-var mnemonic = "near city island series legal curve wrong bracket input just like celery";
+var mnemonic = "cruise exhibit wage huge silent sense door worth vapor find chuckle shoulder";
