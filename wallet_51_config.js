@@ -1,1 +1,1 @@
-var mnemonic = "crane imitate spike clever off hero scheme fit health razor cycle vague";
+var mnemonic = "chronic layer cradle shop flip axis welcome involve thing angry loop lab";

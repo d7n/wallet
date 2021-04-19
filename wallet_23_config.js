@@ -1,1 +1,1 @@
-var mnemonic = "gadget donate attitude razor pact damage sound track magic welcome gossip three";
+var mnemonic = "margin render screen cave quit first shrug bleak lounge outside arena tag";

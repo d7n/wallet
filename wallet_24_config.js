@@ -1,1 +1,1 @@
-var mnemonic = "physical slow upset outer erode owner giggle sign ice speak stem omit";
+var mnemonic = "cave warfare razor impulse jacket promote youth skull oppose jelly move deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "observe also prison vote shoe whale limit eye permit tank gown shadow";
+var mnemonic = "drastic cradle address vanish feed daring barrel between patient wedding client october";

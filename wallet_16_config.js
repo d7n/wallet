@@ -1,1 +1,1 @@
-var mnemonic = "security veteran trial private decide opinion live already ribbon quote panel trick";
+var mnemonic = "consider faith unlock raven sad dog wing desert utility evoke drum vocal";

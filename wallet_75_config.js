@@ -1,1 +1,1 @@
-var mnemonic = "almost spy rescue laptop liquid six dawn blanket sight source ridge orphan";
+var mnemonic = "clarify letter grocery dry gun apology deposit message boss champion enlist parade";

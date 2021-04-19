@@ -1,1 +1,1 @@
-var mnemonic = "horse guilt viable issue orphan pioneer crouch index super inside equal enrich";
+var mnemonic = "diamond depend rhythm easy scale because talent vapor vehicle west december credit";

@@ -1,1 +1,1 @@
-var mnemonic = "art cereal purchase remove indicate sand lunch give net sure scrub judge";
+var mnemonic = "loyal beauty limb come human piece valid sauce summer scene impulse citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "human weather pledge mean damp husband curtain pigeon warm hunt beach purchase";
+var mnemonic = "menu critic call cage kind spike tobacco document addict track maze letter";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen invite begin jeans lottery hockey chair exhibit destroy during baby work";
+var mnemonic = "wheel orient divide inner question blade uncle pear few name account also";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle sadness analyst proof defy push velvet boost collect text size vehicle";
+var mnemonic = "girl embody umbrella manual leave term list gun meadow noise maple huge";

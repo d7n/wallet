@@ -1,1 +1,1 @@
-var mnemonic = "omit bleak road limb fiction payment track elevator steak battle hole sniff";
+var mnemonic = "scout fortune dove space dwarf jaguar mind excuse wisdom exhibit below chimney";

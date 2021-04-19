@@ -1,1 +1,1 @@
-var mnemonic = "sphere false transfer mixture lava patrol plastic culture will number forest response";
+var mnemonic = "marine meat dumb damage lottery ceiling usual rapid lumber blossom tower kiwi";

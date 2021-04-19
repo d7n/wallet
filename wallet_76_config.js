@@ -1,1 +1,1 @@
-var mnemonic = "reward seed rare chest young credit become burger test promote broccoli fly";
+var mnemonic = "hole negative loud change wish brisk mass solution coconut spoon barrel clerk";

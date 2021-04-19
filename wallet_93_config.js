@@ -1,1 +1,1 @@
-var mnemonic = "lady session sudden path sign badge orchard cancel egg slot expand speak";
+var mnemonic = "patch rhythm start trial side cliff favorite ride blast illegal grass chimney";

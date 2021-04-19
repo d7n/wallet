@@ -1,1 +1,1 @@
-var mnemonic = "young level ensure curious into ghost twenty worry roast elbow pistol connect";
+var mnemonic = "put margin setup since welcome merry potato arena joke banana badge regret";

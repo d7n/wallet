@@ -1,1 +1,1 @@
-var mnemonic = "order unlock romance arrive valley trick dentist middle universe happy unfair silver";
+var mnemonic = "faculty rely alley alert forest blame hammer used like insect pyramid cruel";

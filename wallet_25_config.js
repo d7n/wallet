@@ -1,1 +1,1 @@
-var mnemonic = "depth music alter priority misery put merge scorpion best kidney dentist blanket";
+var mnemonic = "subway chair wait original frozen december wife option addict hurry brand witness";

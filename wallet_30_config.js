@@ -1,1 +1,1 @@
-var mnemonic = "vital ice travel note federal pattern proof path minimum mango fringe spoil";
+var mnemonic = "humble ethics venture profit crawl tiger blade good badge aerobic rate trophy";

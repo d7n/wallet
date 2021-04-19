@@ -1,1 +1,1 @@
-var mnemonic = "tackle blush tattoo segment track loyal exotic rally vague write divorce social";
+var mnemonic = "object sheriff tomato trash season habit tone glimpse worry slogan what rail";

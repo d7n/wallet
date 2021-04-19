@@ -1,1 +1,1 @@
-var mnemonic = "divert spoon impact diagram margin mom jungle region asthma kangaroo genuine grape";
+var mnemonic = "mistake donor unlock color bench gallery game lunch multiply skate busy torch";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle weird mom bench grape enhance club question fury pass then cabin";
+var mnemonic = "immune salmon comfort letter defense rigid idea wedding bonus giggle alley fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "damp into assault sphere invest delay drive disease custom term umbrella disorder";
+var mnemonic = "phrase year trend club eternal art foster boss clay alley top win";

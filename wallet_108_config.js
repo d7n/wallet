@@ -1,1 +1,1 @@
-var mnemonic = "shop orange ten profit wisdom fit buddy pretty rubber quarter vote color";
+var mnemonic = "sudden certain lesson estate island broccoli clever join debris exhaust view style";

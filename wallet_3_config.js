@@ -1,1 +1,1 @@
-var mnemonic = "move nature attitude forget sure scan laptop hand veteran cube firm smooth";
+var mnemonic = "wasp antique vital borrow cinnamon lava man toss range gravity rebuild devote";

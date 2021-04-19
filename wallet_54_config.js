@@ -1,1 +1,1 @@
-var mnemonic = "venue border blossom virus forward cup issue library slush abstract monster famous";
+var mnemonic = "under deputy stomach oyster inflict earn zoo awful sign bread churn day";

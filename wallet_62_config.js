@@ -1,1 +1,1 @@
-var mnemonic = "lemon series mushroom baby dream boring viable trumpet volcano across such butter";
+var mnemonic = "subway journey love earth fury situate opinion lake remind ridge kit forget";

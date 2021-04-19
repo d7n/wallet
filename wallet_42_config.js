@@ -1,1 +1,1 @@
-var mnemonic = "miracle ivory title lend exit few iron truly man taxi share physical";
+var mnemonic = "winter worth atom shuffle child hurt survey glow monster copper salute goddess";

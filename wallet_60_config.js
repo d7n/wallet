@@ -1,1 +1,1 @@
-var mnemonic = "gas capable swarm banana ride toe arena damp egg furnace father poet";
+var mnemonic = "version glad sugar boring hero beach relax renew kiwi swear sick cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "pink claw victory summer puppy observe zone filter senior ticket grab alien";
+var mnemonic = "clog forum adapt visual slender course print scorpion vendor chicken slight range";

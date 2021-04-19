@@ -1,1 +1,1 @@
-var mnemonic = "oyster brush awkward allow ranch museum peasant nasty damp impulse wife update";
+var mnemonic = "puzzle must prepare useful pudding will toe humble room hungry long memory";

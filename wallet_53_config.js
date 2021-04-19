@@ -1,1 +1,1 @@
-var mnemonic = "merit taste road repair brush sun fitness swear theory animal system raccoon";
+var mnemonic = "rib car fan smooth slot patrol deposit faint doll smart vital supreme";

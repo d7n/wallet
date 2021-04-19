@@ -1,1 +1,1 @@
-var mnemonic = "oppose evoke execute real source peanut arch shop dog kiss attitude purpose";
+var mnemonic = "nuclear account nice cactus photo net normal stick hub sentence rifle betray";

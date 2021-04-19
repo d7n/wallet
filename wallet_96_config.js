@@ -1,1 +1,1 @@
-var mnemonic = "until brown assist wool fossil noble actress bind answer hope job maximum";
+var mnemonic = "room option cube catch south slab build cry pair coyote crash gloom";

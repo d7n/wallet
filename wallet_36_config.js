@@ -1,1 +1,1 @@
-var mnemonic = "riot base symptom dignity world ready sun inmate label candy lamp picnic";
+var mnemonic = "food deal similar decide avoid exhibit fog unaware myth brisk chest world";

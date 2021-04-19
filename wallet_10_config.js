@@ -1,1 +1,1 @@
-var mnemonic = "solution donkey frozen other famous raw barrel loop strong quick elephant spice";
+var mnemonic = "around concert super force ship enter glass spike genre way fall person";

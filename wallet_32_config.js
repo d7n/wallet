@@ -1,1 +1,1 @@
-var mnemonic = "gown swamp invite potato cannon mandate void card mix topple match nose";
+var mnemonic = "error render arrange onion long merry chair run shift few diary exhibit";

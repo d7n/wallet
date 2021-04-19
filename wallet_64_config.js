@@ -1,1 +1,1 @@
-var mnemonic = "cruise exhibit wage huge silent sense door worth vapor find chuckle shoulder";
+var mnemonic = "employ roof walk cry symptom notice soldier carry cinnamon any cook wage";

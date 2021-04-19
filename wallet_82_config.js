@@ -1,1 +1,1 @@
-var mnemonic = "ticket annual machine soft offer uncover pet chef amount resist very rabbit";
+var mnemonic = "game issue culture gloom embody devote disorder betray old survey helmet fluid";

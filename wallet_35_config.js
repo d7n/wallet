@@ -1,1 +1,1 @@
-var mnemonic = "noble hole essence buddy arrive fee embody elbow ugly fury grit crash";
+var mnemonic = "harsh lens pet club clog recipe panther sorry horror vapor bachelor chuckle";

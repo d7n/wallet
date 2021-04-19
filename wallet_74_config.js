@@ -1,1 +1,1 @@
-var mnemonic = "live slender sort trade vehicle shaft nominee zone faith spare ask reject";
+var mnemonic = "atom name prefer evolve design giggle lumber ahead submit trigger kit sense";

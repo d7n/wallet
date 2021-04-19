@@ -1,1 +1,1 @@
-var mnemonic = "flag change tank segment property glide require borrow gather autumn member audit";
+var mnemonic = "genre dose bounce half reject play unaware kick math shoe hope lab";

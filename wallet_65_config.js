@@ -1,1 +1,1 @@
-var mnemonic = "spice fault wonder sleep tower maze rent best drink minor medal symptom";
+var mnemonic = "holiday impulse craft warrior call brass letter screen drink squeeze park town";

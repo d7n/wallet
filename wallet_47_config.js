@@ -1,1 +1,1 @@
-var mnemonic = "rather wire luggage trip air boost photo short impose rough nurse arrest";
+var mnemonic = "uncover arrow maple pulp peanut fantasy concert thank scrap grocery slice mimic";

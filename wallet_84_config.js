@@ -1,1 +1,1 @@
-var mnemonic = "ignore all table visual guard huge source cargo swim unit earn strategy";
+var mnemonic = "artwork cram door soldier burger alert orbit void joke knife swift shop";

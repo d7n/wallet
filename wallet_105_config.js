@@ -1,1 +1,1 @@
-var mnemonic = "game remind trigger fix educate unlock reject shoe cool current under live";
+var mnemonic = "unaware double dumb material luggage damage satoshi range there like cycle monkey";

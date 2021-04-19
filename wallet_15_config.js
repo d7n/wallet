@@ -1,1 +1,1 @@
-var mnemonic = "brown summer broom submit oxygen glow answer gain myth enlist hazard example";
+var mnemonic = "safe term digital six morning raccoon into insane print cement scorpion chair";

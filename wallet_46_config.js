@@ -1,1 +1,1 @@
-var mnemonic = "owner bar develop shoulder fossil clay blood right attract excess patrol trend";
+var mnemonic = "know omit half learn umbrella actual fog cool reduce daring until reward";

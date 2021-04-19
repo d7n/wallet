@@ -1,1 +1,1 @@
-var mnemonic = "federal strategy town moon output east portion forest pledge alert ring exit";
+var mnemonic = "fan speed slim slide symbol mosquito phone space rule film save collect";

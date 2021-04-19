@@ -1,1 +1,1 @@
-var mnemonic = "circle galaxy inherit joke cinnamon pig canal beach tenant brush cute dash";
+var mnemonic = "cycle found fiscal usage fitness elbow expect forum warm public robot hen";

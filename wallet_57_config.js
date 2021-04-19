@@ -1,1 +1,1 @@
-var mnemonic = "husband cave lamp brand vanish orient kidney surround immune wreck mom pride";
+var mnemonic = "ancient wait merry heavy hat onion link depart snap bridge side happy";

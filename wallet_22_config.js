@@ -1,1 +1,1 @@
-var mnemonic = "lucky review lady fan slight village bid era ethics wonder process kit";
+var mnemonic = "favorite innocent beef pudding unique balcony art round grass donor resemble scene";

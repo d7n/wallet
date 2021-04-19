@@ -1,1 +1,1 @@
-var mnemonic = "assault they crash frozen bench dice faint stool envelope truth orbit bronze";
+var mnemonic = "shrug mammal assist aware shock key bridge monitor need jealous diet candy";

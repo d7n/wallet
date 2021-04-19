@@ -1,1 +1,1 @@
-var mnemonic = "slush sort together neutral problem thought tired pause cart episode invest churn";
+var mnemonic = "system forget scare educate almost monkey you clip much scrap desk scrap";

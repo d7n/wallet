@@ -1,1 +1,1 @@
-var mnemonic = "adjust black receive mind bench fish brave razor waste rabbit floor disagree";
+var mnemonic = "slender tortoise demand domain miracle earn few future dash anchor lake shallow";

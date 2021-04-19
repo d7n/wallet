@@ -1,1 +1,1 @@
-var mnemonic = "chunk plug range traffic wish ritual spider act vague wear park muffin";
+var mnemonic = "brown thing find food payment into arrive humor bag bachelor person mercy";

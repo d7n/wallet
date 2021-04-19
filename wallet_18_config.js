@@ -1,1 +1,1 @@
-var mnemonic = "exercise web devote tail nation fantasy pool lounge resemble reunion love soccer";
+var mnemonic = "monster direct course people aware bridge birth surround kingdom power real bacon";

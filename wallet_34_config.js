@@ -1,1 +1,1 @@
-var mnemonic = "demise able hire come dirt pizza whisper nation wise list cash jewel";
+var mnemonic = "prison reward winner pig teach round circle bonus dice sword gain blossom";

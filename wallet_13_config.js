@@ -1,1 +1,1 @@
-var mnemonic = "abuse bind olive sock pizza jump category blade dawn candy today try";
+var mnemonic = "fantasy napkin farm wisdom frequent dash shop clean correct popular legal predict";

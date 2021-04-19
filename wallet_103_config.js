@@ -1,1 +1,1 @@
-var mnemonic = "rapid tent world steak high brother shed decide denial month slot little";
+var mnemonic = "cup high crash frequent slush rich ribbon desk vote cliff lock club";

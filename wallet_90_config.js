@@ -1,1 +1,1 @@
-var mnemonic = "element hub spy copper solution grunt ignore alcohol quantum crush index giggle";
+var mnemonic = "rate flush disagree relax regret jewel hair merit conduct infant lumber index";

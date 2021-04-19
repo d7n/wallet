@@ -1,1 +1,1 @@
-var mnemonic = "pole sail become blue youth congress flock exit cave midnight force measure";
+var mnemonic = "person angry frozen pyramid tumble frown inch satoshi opera swim chaos unveil";

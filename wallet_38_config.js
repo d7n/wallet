@@ -1,1 +1,1 @@
-var mnemonic = "glimpse galaxy warfare sausage moon zebra mutual shoe replace tourist top front";
+var mnemonic = "excess donor pupil match either rescue oval floor fiber give traffic earn";

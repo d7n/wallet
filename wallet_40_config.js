@@ -1,1 +1,1 @@
-var mnemonic = "wise three pattern fatigue program sun innocent forest alter entire minor found";
+var mnemonic = "coach brown slice topic tomato inject misery level reduce resist poem scout";

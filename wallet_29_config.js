@@ -1,1 +1,1 @@
-var mnemonic = "cotton wagon forum reason input demand tourist camera lawn parade armed drift";
+var mnemonic = "solve curious trigger carry naive always tunnel spike gap among busy transfer";

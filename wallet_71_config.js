@@ -1,1 +1,1 @@
-var mnemonic = "attitude turtle exhibit either celery rude pull capital alert birth pumpkin festival";
+var mnemonic = "blue speed captain sock party wedding pig rifle beyond attitude renew rival";

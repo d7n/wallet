@@ -1,1 +1,1 @@
-var mnemonic = "remind intact case toward portion problem replace acid skin grain core tiger";
+var mnemonic = "human ranch reunion argue chicken crash save comic hidden vocal army faint";

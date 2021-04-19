@@ -1,1 +1,1 @@
-var mnemonic = "praise road pink pilot jaguar retreat label catalog gentle about guard voice";
+var mnemonic = "change make update tackle pet ritual dish bone spirit feel other draft";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral people palm dream obey carbon top exhaust upset jazz long fence";
+var mnemonic = "rain minor enter erosion warfare canal perfect vote right credit tongue enable";

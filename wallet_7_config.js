@@ -1,1 +1,1 @@
-var mnemonic = "unveil verify airport shell soup onion trust erase find unfold weather aware";
+var mnemonic = "travel under sport direct blood grit useless jungle gesture safe bid wolf";

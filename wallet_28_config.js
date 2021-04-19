@@ -1,1 +1,1 @@
-var mnemonic = "crouch odor naive weapon april execute client angle true law attend system";
+var mnemonic = "denial draw fresh bomb doll scout drastic laptop inquiry year clarify strong";

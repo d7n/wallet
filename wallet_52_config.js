@@ -1,1 +1,1 @@
-var mnemonic = "crime adjust goat misery fetch illegal deposit similar run end cactus salon";
+var mnemonic = "chat crack erupt fit dentist subway liquid custom bulb barrel dog six";

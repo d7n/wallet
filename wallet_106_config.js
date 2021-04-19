@@ -1,1 +1,1 @@
-var mnemonic = "round crowd save pig noise asthma banana also dove inherit wave crime";
+var mnemonic = "magnet visual report history coffee planet someone song find fee live attitude";

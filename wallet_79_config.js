@@ -1,1 +1,1 @@
-var mnemonic = "input key human seed net safe race will wave drink cushion badge";
+var mnemonic = "mask surface weather hungry road awake adult young width cigar ramp inch";

@@ -1,1 +1,1 @@
-var mnemonic = "say eager desert review organ web okay grit purse trial sweet barrel";
+var mnemonic = "install coyote boring trigger require average two illegal story blanket plastic entire";

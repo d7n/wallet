@@ -1,1 +1,1 @@
-var mnemonic = "exact pottery season lion ignore decide fluid enlist wisdom woman unusual orient";
+var mnemonic = "they egg allow infant sustain student sheriff host piece peasant patient certain";

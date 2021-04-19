@@ -1,1 +1,1 @@
-var mnemonic = "enjoy blade evolve feel lounge rocket topic scissors drive recall reward problem";
+var mnemonic = "together capable consider rural devote subway census course position seven awake chapter";

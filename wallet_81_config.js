@@ -1,1 +1,1 @@
-var mnemonic = "heavy future crop boring broccoli cliff live safe muscle liquid this addict";
+var mnemonic = "fly spring add elephant cradle tail apple chronic infant afford you brother";

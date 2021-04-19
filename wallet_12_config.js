@@ -1,1 +1,1 @@
-var mnemonic = "clock seven hill ability level lounge cat copper palace weekend shoot sponsor";
+var mnemonic = "surface rug elbow cabin iron embody room unfair company hurt frequent energy";

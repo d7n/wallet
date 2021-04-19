@@ -1,1 +1,1 @@
-var mnemonic = "clump item group also naive hover future miss junior tool uphold library";
+var mnemonic = "zone expect never very resource couch media fringe hello brass guess voice";

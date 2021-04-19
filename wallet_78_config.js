@@ -1,1 +1,1 @@
-var mnemonic = "warrior escape clay dizzy bamboo lesson group twelve spoon cushion clap hole";
+var mnemonic = "citizen misery polar opera stand provide web chair voyage aware still charge";

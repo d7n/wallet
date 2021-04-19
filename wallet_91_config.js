@@ -1,1 +1,1 @@
-var mnemonic = "rebuild receive cool seminar senior arm tape slush flock cheap peanut smart";
+var mnemonic = "swarm cabin kingdom dial mask list admit language calm afraid roof month";

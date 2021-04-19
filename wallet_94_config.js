@@ -1,1 +1,1 @@
-var mnemonic = "stumble coin income improve message toss spray alley hurt approve humble crucial";
+var mnemonic = "proof task amateur visual pet blouse initial have inspire cruel mind access";

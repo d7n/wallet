@@ -1,1 +1,1 @@
-var mnemonic = "glad shoot critic use road fee oven adult share shop nut sell";
+var mnemonic = "cook sword card fatigue matrix maid input frog useful sausage harsh spend";
