@@ -1,1 +1,1 @@
-var mnemonic = "gasp strategy plastic ostrich damp embark spirit forward random harsh apology bag";
+var mnemonic = "eternal shrug prize today humble wood cinnamon garment dish wedding pear plate";

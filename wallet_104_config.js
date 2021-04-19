@@ -1,1 +1,1 @@
-var mnemonic = "hub rude gap hawk rival host hero dirt key mansion volume since";
+var mnemonic = "knock teach win elegant term train confirm extra title stomach naive another";

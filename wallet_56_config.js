@@ -1,1 +1,1 @@
-var mnemonic = "huge nut filter globe brick stem advice bullet glow resemble yellow major";
+var mnemonic = "submit lounge bounce leg ring dutch race position black switch thank search";

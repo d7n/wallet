@@ -1,1 +1,1 @@
-var mnemonic = "pattern sail banana world crack where enter destroy garage floor tissue key";
+var mnemonic = "noble impact click ecology empty insane boring prosper lady snow state cigar";

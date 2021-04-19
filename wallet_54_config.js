@@ -1,1 +1,1 @@
-var mnemonic = "liberty birth basket swim relax dawn lecture copy image armed horror limb";
+var mnemonic = "pet element steel parent travel ripple vault ticket inner dream eyebrow panic";

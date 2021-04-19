@@ -1,1 +1,1 @@
-var mnemonic = "text car heart alien enrich cargo tornado name market royal violin region";
+var mnemonic = "naive movie jazz again dial write bike original section execute print gift";

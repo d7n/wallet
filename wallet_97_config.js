@@ -1,1 +1,1 @@
-var mnemonic = "photo rule client entire argue mystery radar dinosaur reveal matter smile father";
+var mnemonic = "taxi helmet window fiction snow strategy force injury piano rug artefact gravity";

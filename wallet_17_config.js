@@ -1,1 +1,1 @@
-var mnemonic = "visit hold onion pull slice betray case hollow mother loud disease super";
+var mnemonic = "wagon build antique edit camera save path melt odor tenant system direct";

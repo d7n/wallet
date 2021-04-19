@@ -1,1 +1,1 @@
-var mnemonic = "dress craft combine slice swear lumber relax woman install eager lecture antenna";
+var mnemonic = "quantum grain squirrel metal surround rely cabbage sleep collect candy crash depart";

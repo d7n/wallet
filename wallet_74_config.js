@@ -1,1 +1,1 @@
-var mnemonic = "faith upgrade bag layer hybrid embrace powder hood love once jaguar behave";
+var mnemonic = "culture quality dirt video where liquid throw captain desk win before heavy";

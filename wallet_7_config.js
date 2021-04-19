@@ -1,1 +1,1 @@
-var mnemonic = "actress quote jungle quarter group child acoustic fitness course project viable attack";
+var mnemonic = "victory alter borrow market air trash tissue silly frown crash link paper";

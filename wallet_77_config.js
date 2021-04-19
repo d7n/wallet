@@ -1,1 +1,1 @@
-var mnemonic = "marble between chief draft gauge noble prepare ivory cricket brisk novel spot";
+var mnemonic = "vivid divorce mass clinic allow enter identify twenty catch miss foot sibling";

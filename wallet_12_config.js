@@ -1,1 +1,1 @@
-var mnemonic = "better immense scrap task clerk fee advice coil fee horror major broken";
+var mnemonic = "stage fancy satoshi tired use hint build argue expire net company pitch";

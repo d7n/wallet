@@ -1,1 +1,1 @@
-var mnemonic = "license loyal social grunt puzzle sort mirror silent mimic fetch borrow wool";
+var mnemonic = "guess energy patient voice wagon ripple neutral large churn matter brush agent";

@@ -1,1 +1,1 @@
-var mnemonic = "useful coach thank pause pupil thought still shove exact weather fold text";
+var mnemonic = "sunset review gloom expect garment phone genius spare tuition verify artist pulse";

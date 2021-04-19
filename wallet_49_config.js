@@ -1,1 +1,1 @@
-var mnemonic = "profit boil bid duck dry art churn text rain razor audit entry";
+var mnemonic = "make asthma reunion display knee tissue position position shoulder sleep one weekend";

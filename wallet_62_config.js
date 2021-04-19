@@ -1,1 +1,1 @@
-var mnemonic = "argue term claw aware battle holiday sorry hire atom pony this family";
+var mnemonic = "scrap carry second bread blind autumn lecture tiger oblige orient year safe";

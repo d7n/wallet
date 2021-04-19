@@ -1,1 +1,1 @@
-var mnemonic = "path other retreat bridge luggage banner oxygen lyrics tired void hurdle seed";
+var mnemonic = "thank cannon visit salute palm squeeze whisper when subject guess banana pulp";

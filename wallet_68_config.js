@@ -1,1 +1,1 @@
-var mnemonic = "lens walk spread stove music fish essay orphan tunnel present miracle brief";
+var mnemonic = "glove school early rocket sense mountain baby frame fog split outer fever";

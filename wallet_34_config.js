@@ -1,1 +1,1 @@
-var mnemonic = "gadget grid idea future switch phrase action fiber announce height decide finger";
+var mnemonic = "weapon peace number ridge hockey wise laundry burst action guilt speed omit";

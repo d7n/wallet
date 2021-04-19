@@ -1,1 +1,1 @@
-var mnemonic = "grab ranch today engage push stone motion anchor cannon total sail table";
+var mnemonic = "bacon slice latin panda empty elegant more polar brief trip strong castle";

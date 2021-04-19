@@ -1,1 +1,1 @@
-var mnemonic = "manual wreck motor camp scorpion smile jacket assist sister must toss copy";
+var mnemonic = "vague decade always bread tent road asset ring chair traffic obtain lunar";

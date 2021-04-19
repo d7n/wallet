@@ -1,1 +1,1 @@
-var mnemonic = "suffer lab general sausage will social grow special choice helmet spare behave";
+var mnemonic = "describe ethics melody history wasp wood feel knock cheese common kangaroo crowd";

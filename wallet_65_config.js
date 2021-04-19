@@ -1,1 +1,1 @@
-var mnemonic = "soon rich tourist regular sugar step orbit apology blue neither near usual";
+var mnemonic = "hand fluid edit pride chimney kingdom label beach kingdom next garage valley";

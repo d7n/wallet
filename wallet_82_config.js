@@ -1,1 +1,1 @@
-var mnemonic = "reward boost divorce tobacco sniff swim sleep surface maid expand surround pyramid";
+var mnemonic = "harvest flavor student raise salon chronic pool what noble quiz message street";

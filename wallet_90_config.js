@@ -1,1 +1,1 @@
-var mnemonic = "pipe elephant network wheel planet siege canvas smoke tattoo unhappy tobacco require";
+var mnemonic = "mango pill evolve tongue ribbon pink base stadium relief junk fortune they";

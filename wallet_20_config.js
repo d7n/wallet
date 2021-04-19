@@ -1,1 +1,1 @@
-var mnemonic = "cute budget mutual scrap have enemy scare noise catalog item august wear";
+var mnemonic = "farm metal hospital holiday erupt fiber chase else sound raise evoke hazard";

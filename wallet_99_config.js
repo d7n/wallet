@@ -1,1 +1,1 @@
-var mnemonic = "trend camp ring tower notice shiver assault satoshi purse able useless phone";
+var mnemonic = "pool scan vibrant shine mad neglect health thrive hair hill review aunt";

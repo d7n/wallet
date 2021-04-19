@@ -1,1 +1,1 @@
-var mnemonic = "perfect elevator future defy track piece jewel cricket only uncle sniff snow";
+var mnemonic = "gate permit keen uphold void belt around muffin taste cruel fox amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "rent aerobic puzzle inhale mimic hospital permit bachelor mad syrup hello laugh";
+var mnemonic = "crash bunker sock alarm inflict express carry auto distance stone detail report";

@@ -1,1 +1,1 @@
-var mnemonic = "web arrest magic work follow planet case rose review web live divide";
+var mnemonic = "pride desk fatal thought control afford cry supreme grunt kidney embark train";

@@ -1,1 +1,1 @@
-var mnemonic = "spice salad lawsuit tuition nice rely type elevator museum bubble brown move";
+var mnemonic = "wink snake urban step awkward banner waste vanish allow woman segment expect";

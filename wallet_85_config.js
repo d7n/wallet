@@ -1,1 +1,1 @@
-var mnemonic = "engage key autumn behind vanish ready swap art list plate cement flee";
+var mnemonic = "shove clock miss neutral obscure please prepare shy flower click survey alarm";

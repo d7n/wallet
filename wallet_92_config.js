@@ -1,1 +1,1 @@
-var mnemonic = "attract very recall whip best reason vast win achieve argue girl flip";
+var mnemonic = "blur sorry hurdle trip round omit major glow account pet coast leg";

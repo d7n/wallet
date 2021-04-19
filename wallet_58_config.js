@@ -1,1 +1,1 @@
-var mnemonic = "bone immense bamboo floor three figure reason fashion evidence hood lift cigar";
+var mnemonic = "pencil uphold scene turn strong female flavor artwork hammer elevator ladder inner";

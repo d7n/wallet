@@ -1,1 +1,1 @@
-var mnemonic = "napkin upgrade way donkey heart kiss harsh wall know stumble holiday nurse";
+var mnemonic = "matter brand code rhythm menu occur unable fortune suspect also symptom spread";

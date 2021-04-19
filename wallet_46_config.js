@@ -1,1 +1,1 @@
-var mnemonic = "blouse mimic glue stand limb usage teach subject prevent announce novel version";
+var mnemonic = "test tide label culture desert poem multiply fan large doctor glance balance";

@@ -1,1 +1,1 @@
-var mnemonic = "radar scale shift school disease dynamic retire quantum float woman dynamic other";
+var mnemonic = "fabric winter floor history next axis friend vintage merit purpose profit display";

@@ -1,1 +1,1 @@
-var mnemonic = "bike what palm version minute barrel such stay calm crush decrease click";
+var mnemonic = "dice story organ coffee wreck police dish rotate setup calm click pledge";

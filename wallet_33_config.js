@@ -1,1 +1,1 @@
-var mnemonic = "pool wish plunge canoe outdoor crumble cliff egg angle excess candy medal";
+var mnemonic = "call raw tenant tragic supply skull industry version enlist nothing rebel aerobic";

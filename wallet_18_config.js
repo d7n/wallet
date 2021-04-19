@@ -1,1 +1,1 @@
-var mnemonic = "canal start inherit join tuition seed copper fat cry front similar vendor";
+var mnemonic = "toe cool increase stadium salon media dream ecology chicken blast city crater";

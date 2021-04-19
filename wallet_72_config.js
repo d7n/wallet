@@ -1,1 +1,1 @@
-var mnemonic = "swarm client brief cram ramp this brain genius youth mutual talk eagle";
+var mnemonic = "session spell uphold edit fossil once inspire bird crop odor pause caught";

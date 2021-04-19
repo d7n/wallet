@@ -1,1 +1,1 @@
-var mnemonic = "core collect bundle finger other scissors mean coil same response mystery pact";
+var mnemonic = "short float vault anxiety speed element category anxiety blind vivid lecture refuse";

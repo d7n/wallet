@@ -1,1 +1,1 @@
-var mnemonic = "float hybrid donkey roof museum you slim oblige muscle bargain champion cancel";
+var mnemonic = "alarm swap phone weapon relax brisk lion help know shaft candy stable";

@@ -1,1 +1,1 @@
-var mnemonic = "forward ring reveal ocean tube link ugly mass primary fabric humor height";
+var mnemonic = "tent job moment marine ice thought shoe course police depart dice lawn";

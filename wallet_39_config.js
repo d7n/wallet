@@ -1,1 +1,1 @@
-var mnemonic = "flee bring heavy include play pool merry cost over bleak warrior loan";
+var mnemonic = "weasel seed tiger style artist amazing earth mobile duty federal anxiety flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton emotion giggle coconut pear actor kitchen dizzy priority old unique enjoy";
+var mnemonic = "aunt speed develop congress october snap floor cycle family bag awkward slice";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid sock sand funny very modify unique occur dinosaur guilt nurse swift";
+var mnemonic = "grunt explain amount fashion smoke six panic night box loud entry seminar";

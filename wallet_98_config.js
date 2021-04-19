@@ -1,1 +1,1 @@
-var mnemonic = "memory once claw swear since copper yellow vessel transfer lend pride world";
+var mnemonic = "staff gesture toss eagle crouch bubble flee foam drastic under skill champion";

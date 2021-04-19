@@ -1,1 +1,1 @@
-var mnemonic = "pepper engage toilet spatial glimpse vanish garment fix tide autumn renew laundry";
+var mnemonic = "comfort slight page seat couple ginger ankle wage awful keep maid cover";

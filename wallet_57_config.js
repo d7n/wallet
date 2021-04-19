@@ -1,1 +1,1 @@
-var mnemonic = "cargo year edge onion cage wage noodle immune swear piece punch fatal";
+var mnemonic = "plunge coffee dizzy estate text essence forward toe scene skill baby warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "north battle test icon broccoli broccoli physical foam waste doll juice person";
+var mnemonic = "thunder acoustic fit captain daughter tag food truth science useful sail half";

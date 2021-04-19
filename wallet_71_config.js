@@ -1,1 +1,1 @@
-var mnemonic = "future marble draw track bundle milk crawl shrimp phone spray minimum caught";
+var mnemonic = "story plunge thing cloth olympic crouch foam submit vicious animal inject toward";

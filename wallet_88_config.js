@@ -1,1 +1,1 @@
-var mnemonic = "guide modify answer fade arrow boring settle stable borrow company wish fancy";
+var mnemonic = "under track helmet become oxygen catalog distance rate arena matter sausage lava";

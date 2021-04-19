@@ -1,1 +1,1 @@
-var mnemonic = "suffer banner riot need girl armor code blast claim arrive inquiry lens";
+var mnemonic = "nephew win pyramid balcony junk balance cube when spend height detail buzz";

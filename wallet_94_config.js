@@ -1,1 +1,1 @@
-var mnemonic = "despair fog funny hundred maid below segment clay truly hotel fly stove";
+var mnemonic = "outdoor usage amount suspect level attitude feed era practice hurt kangaroo vast";

@@ -1,1 +1,1 @@
-var mnemonic = "mention cage soup avocado trim angle short ability occur thought sad salute";
+var mnemonic = "nose timber license proof fatigue obtain key power lumber letter tower cloud";

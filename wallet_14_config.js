@@ -1,1 +1,1 @@
-var mnemonic = "margin amount pen lawn pupil horse stumble despair camera rocket shallow drastic";
+var mnemonic = "enhance cruise twin silver nose total asset exhibit absent organ lawsuit captain";

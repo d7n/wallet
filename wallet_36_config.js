@@ -1,1 +1,1 @@
-var mnemonic = "seek inner demise infant good rail tortoise truth ancient drama glide spray";
+var mnemonic = "face surround rain gate basic own trust wise milk true nice bamboo";

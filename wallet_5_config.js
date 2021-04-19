@@ -1,1 +1,1 @@
-var mnemonic = "plunge gym fiscal elder frost machine ceiling obvious ticket leopard rack oil";
+var mnemonic = "snap runway rice diamond romance school virtual accuse hidden utility camera custom";

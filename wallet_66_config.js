@@ -1,1 +1,1 @@
-var mnemonic = "penalty slide code number citizen panda another lake destroy turn climb okay";
+var mnemonic = "visa away whip hood fault forget toast now axis control snap crumble";

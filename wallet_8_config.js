@@ -1,1 +1,1 @@
-var mnemonic = "leave duck curtain hazard boat theme bind raven boost below develop legal";
+var mnemonic = "arch warrior tennis evidence mammal nothing noble bubble output mosquito abstract shield";

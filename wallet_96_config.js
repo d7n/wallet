@@ -1,1 +1,1 @@
-var mnemonic = "tattoo broken relax blame anchor gloom until record casual fantasy essence fire";
+var mnemonic = "shallow feel stereo try struggle couch modify quit wheel maximum already goddess";

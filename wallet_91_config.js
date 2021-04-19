@@ -1,1 +1,1 @@
-var mnemonic = "useful circle require company garbage fade length turtle entire basket scare egg";
+var mnemonic = "exercise race history waste meadow camera digital sausage ladder child bacon dance";

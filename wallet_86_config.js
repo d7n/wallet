@@ -1,1 +1,1 @@
-var mnemonic = "deputy auto slogan split lunar steak exile detail hole engage example expire";
+var mnemonic = "please patient popular scrub chaos border company tourist toward lounge desert supreme";

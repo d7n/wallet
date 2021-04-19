@@ -1,1 +1,1 @@
-var mnemonic = "before drama error bus tiger pencil worry confirm razor horn month tuna";
+var mnemonic = "accident slide sword ticket harsh tank butter grit robot cruise wolf private";

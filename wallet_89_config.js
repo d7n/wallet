@@ -1,1 +1,1 @@
-var mnemonic = "disorder sing business believe control junk cube miss street immune fire calm";
+var mnemonic = "cloth save relax tone toast swift current apology victory reduce jungle student";

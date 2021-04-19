@@ -1,1 +1,1 @@
-var mnemonic = "unable deal screen ethics can duty category kiwi two grid combine eye";
+var mnemonic = "pulse wonder sea profit lucky whip silk tobacco noodle cup shed jazz";

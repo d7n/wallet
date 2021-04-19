@@ -1,1 +1,1 @@
-var mnemonic = "plate pistol bachelor tide divorce educate prefer ramp company exercise mimic slush";
+var mnemonic = "spin pave dawn text share gown lend often dad leader fluid blur";

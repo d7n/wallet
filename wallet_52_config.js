@@ -1,1 +1,1 @@
-var mnemonic = "swear lab initial dice dwarf famous burden stay alter friend before load";
+var mnemonic = "final robust seed extra split enemy boil very begin also lake wasp";

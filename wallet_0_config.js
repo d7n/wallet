@@ -1,1 +1,1 @@
-var mnemonic = "object misery night forest segment steak pill festival father cool fatigue people";
+var mnemonic = "engine random swear episode machine clutch average cactus genius woman clap romance";

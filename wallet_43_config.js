@@ -1,1 +1,1 @@
-var mnemonic = "tourist allow what often omit capital height august example loud risk goat";
+var mnemonic = "mask enforce pretty helmet close sentence age strike day void tissue amused";

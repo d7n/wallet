@@ -1,1 +1,1 @@
-var mnemonic = "exotic unfair end observe across cruel zone muffin sad kiwi sound begin";
+var mnemonic = "write weekend fantasy rescue praise iron cup switch mystery ball resemble material";

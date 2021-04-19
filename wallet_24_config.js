@@ -1,1 +1,1 @@
-var mnemonic = "divorce clip polar clerk deny search frog snack clog great sudden permit";
+var mnemonic = "announce attract erode soda apart tape any secret border tribe volcano chief";

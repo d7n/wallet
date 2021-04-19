@@ -1,1 +1,1 @@
-var mnemonic = "father arch bring bullet funny stable wrap gossip sphere citizen vicious chapter";
+var mnemonic = "snap wrong board meat soul era brave mushroom elegant language dove talent";

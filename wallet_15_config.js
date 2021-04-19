@@ -1,1 +1,1 @@
-var mnemonic = "correct lawsuit clean federal similar visit hire swallow flock april afraid include";
+var mnemonic = "neutral jacket faith art achieve mango tourist domain wire inch oval dismiss";

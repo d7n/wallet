@@ -1,1 +1,1 @@
-var mnemonic = "tonight master jealous short cave lemon prevent better arrow fashion tone among";
+var mnemonic = "dilemma ankle shallow puzzle divide hint thing palm wave dwarf rotate gorilla";

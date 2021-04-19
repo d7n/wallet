@@ -1,1 +1,1 @@
-var mnemonic = "keen cereal athlete rifle practice warrior pen major animal fatal riot potato";
+var mnemonic = "lady blanket later joy frozen someone royal access fee tray oak rule";

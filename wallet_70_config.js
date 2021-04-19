@@ -1,1 +1,1 @@
-var mnemonic = "other design fever blossom lottery surround beach trash armor true body kite";
+var mnemonic = "grief accuse develop speed room cherry depend slush way print length hero";

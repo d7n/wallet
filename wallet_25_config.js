@@ -1,1 +1,1 @@
-var mnemonic = "series brisk help cube river reveal park alien still body bind stem";
+var mnemonic = "segment smart tide wet fit demand cable volcano quit donkey drift slice";

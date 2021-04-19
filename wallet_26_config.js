@@ -1,1 +1,1 @@
-var mnemonic = "pepper way finger cupboard outside extra wave vast clump practice clap enrich";
+var mnemonic = "magnet exile category access spirit mask vital great volume romance add camp";

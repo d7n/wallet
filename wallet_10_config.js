@@ -1,1 +1,1 @@
-var mnemonic = "injury fatal quit cement feel coyote alert member indoor melody child crush";
+var mnemonic = "sail lecture leisure manual trigger tenant abuse soldier breeze remind infant inside";

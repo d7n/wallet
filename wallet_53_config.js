@@ -1,1 +1,1 @@
-var mnemonic = "occur bounce giggle aim rate buffalo dog soon country glue oxygen bubble";
+var mnemonic = "castle lecture umbrella trap solve medal entire dream member follow potato bachelor";

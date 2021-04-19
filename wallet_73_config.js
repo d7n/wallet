@@ -1,1 +1,1 @@
-var mnemonic = "forget that luxury connect guilt cheese common between fetch nut axis essence";
+var mnemonic = "pupil predict allow awake hub chaos lady gun stable kick match another";

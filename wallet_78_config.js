@@ -1,1 +1,1 @@
-var mnemonic = "appear resemble normal tragic usual neck blame burger phrase aware nominee endorse";
+var mnemonic = "outdoor exercise pear bounce security chunk crazy cliff dumb desk myth remain";

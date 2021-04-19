@@ -1,1 +1,1 @@
-var mnemonic = "army leg ghost sentence office large remain vanish torch village column all";
+var mnemonic = "name addict oppose silk twist faint tongue light strike impose denial champion";

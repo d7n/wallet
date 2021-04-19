@@ -1,1 +1,1 @@
-var mnemonic = "submit disagree method sphere achieve steak erase damp zoo chat delay caught";
+var mnemonic = "spray female diesel polar pair summer floor seed fatigue nephew dry remember";

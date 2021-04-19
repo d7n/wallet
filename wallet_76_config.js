@@ -1,1 +1,1 @@
-var mnemonic = "subway frog inch awesome deposit elite ship occur assist buffalo proud ancient";
+var mnemonic = "saddle crazy friend speed analyst dish sock recycle key walk winter arrest";

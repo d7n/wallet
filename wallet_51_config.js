@@ -1,1 +1,1 @@
-var mnemonic = "fit album observe fabric indicate ozone vacant sea symbol gym boost change";
+var mnemonic = "sadness mystery ozone luxury flame live crater you audit fine caught mango";

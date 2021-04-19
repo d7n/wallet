@@ -1,1 +1,1 @@
-var mnemonic = "fossil aspect sport rough stem lend better siren prevent whisper aerobic must";
+var mnemonic = "tag trade wasp civil april demand two museum maximum orchard tank hockey";

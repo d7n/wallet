@@ -1,1 +1,1 @@
-var mnemonic = "tenant bone secret lazy valid small more mountain fish total subject shop";
+var mnemonic = "body scrub amused loud dinner noise require digital push doll popular faint";

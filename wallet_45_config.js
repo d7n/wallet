@@ -1,1 +1,1 @@
-var mnemonic = "weasel change leg cheap gentle polar always fat people cigar skin bridge";
+var mnemonic = "roast oppose catalog twelve limit puppy such clinic elbow top loan mix";

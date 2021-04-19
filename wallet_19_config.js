@@ -1,1 +1,1 @@
-var mnemonic = "alone analyst under estate firm fruit mixture april lobster age route ski";
+var mnemonic = "asset work dice hint tiny coffee heart found social because journey tenant";
