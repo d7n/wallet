@@ -1,1 +1,1 @@
-var mnemonic = "broom tag shaft saddle flash rose burden wheel captain soon earn girl";
+var mnemonic = "famous depart tiny later orient lunar blush pond enough client sound rely";

@@ -1,1 +1,1 @@
-var mnemonic = "jump march tumble flock march abuse trouble cement picnic roast rule correct";
+var mnemonic = "age fancy brick strike husband only spare bomb sister one bid soda";

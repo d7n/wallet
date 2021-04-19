@@ -1,1 +1,1 @@
-var mnemonic = "desk glare innocent stand comic glory industry nothing salad august negative wrap";
+var mnemonic = "kitten sample upgrade convince under speak photo proof mixed narrow error lyrics";

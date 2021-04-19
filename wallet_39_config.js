@@ -1,1 +1,1 @@
-var mnemonic = "foot fruit pistol stem eager rain balcony crater shift flush slogan brave";
+var mnemonic = "indoor faculty bike abandon tank glory knock exhaust page magic honey notice";

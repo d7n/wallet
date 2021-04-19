@@ -1,1 +1,1 @@
-var mnemonic = "party basket wild cargo crew dutch mix begin same gentle tragic behind";
+var mnemonic = "dish rocket evil deposit stock little work project version umbrella program desk";

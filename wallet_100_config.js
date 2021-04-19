@@ -1,1 +1,1 @@
-var mnemonic = "cabbage steel oven music kiwi idea math concert figure stock copper almost";
+var mnemonic = "business churn cruel reflect jaguar cover crawl price music search foot skin";

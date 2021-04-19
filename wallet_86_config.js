@@ -1,1 +1,1 @@
-var mnemonic = "federal practice chunk pave buzz cinnamon together normal cattle success disease enhance";
+var mnemonic = "fantasy moon blouse ready name seminar gate ready reveal boring female sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "airport century diagram load boil erupt cloth tuna satoshi three wise this";
+var mnemonic = "skin street add sketch clap green melt river protect shop install rookie";

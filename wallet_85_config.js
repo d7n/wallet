@@ -1,1 +1,1 @@
-var mnemonic = "fox sport chef between idle ill gauge resist rare jaguar swarm negative";
+var mnemonic = "nurse wise maid fashion always frozen kiss cave program win party know";

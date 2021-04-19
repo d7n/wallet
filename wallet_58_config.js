@@ -1,1 +1,1 @@
-var mnemonic = "tortoise hire iron abandon work milk panel clinic home absorb cousin bracket";
+var mnemonic = "salute remember seek able manage sell sunny stomach round divert vast cake";

@@ -1,1 +1,1 @@
-var mnemonic = "hat close foam world chat truck thank trash shed coffee insane pioneer";
+var mnemonic = "dentist afraid promote lounge stone pistol glove panic omit regular wink index";

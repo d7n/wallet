@@ -1,1 +1,1 @@
-var mnemonic = "fresh beach sting lonely flash follow december armor ocean right pulse extend";
+var mnemonic = "observe empower velvet bridge breeze like arrest trial tattoo worth exhibit series";

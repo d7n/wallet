@@ -1,1 +1,1 @@
-var mnemonic = "strategy mixed taxi meat trash sunny creek also abuse rookie toddler alter";
+var mnemonic = "feature panda minute impose broom roof throw crush weasel liquid train simple";

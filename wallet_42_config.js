@@ -1,1 +1,1 @@
-var mnemonic = "confirm person squeeze couch depart inherit oil attract staff stumble pizza aim";
+var mnemonic = "bounce type number sister upper admit suffer submit renew access essay salute";

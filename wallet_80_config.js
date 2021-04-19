@@ -1,1 +1,1 @@
-var mnemonic = "auction armed sentence apart hunt gallery rack side area kiss confirm crop";
+var mnemonic = "shield seed convince cigar kid stereo chronic virtual summer kiss various indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "addict tribe knock stairs debris usual baby twelve reject stairs main leave";
+var mnemonic = "jealous fashion shoulder spoon define bacon raccoon machine luggage electric recall auction";

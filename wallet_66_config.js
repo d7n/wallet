@@ -1,1 +1,1 @@
-var mnemonic = "nest envelope foot fan mutual boat six impose private obscure parrot buzz";
+var mnemonic = "tank finish interest hawk jump neutral trend mutual addict behave crash basic";

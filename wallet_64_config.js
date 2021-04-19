@@ -1,1 +1,1 @@
-var mnemonic = "enact chaos glue banner long unveil whisper tone worth rebuild garden radar";
+var mnemonic = "blush sense tiger foot kiss exhaust other riot city copper gown phrase";

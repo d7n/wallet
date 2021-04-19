@@ -1,1 +1,1 @@
-var mnemonic = "dirt mix float violin noble fruit lyrics industry tobacco emotion shop nation";
+var mnemonic = "exist zero cliff cricket adjust love expire cream lecture bonus speak drum";

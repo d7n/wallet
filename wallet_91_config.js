@@ -1,1 +1,1 @@
-var mnemonic = "eagle diamond inspire clip balcony pair job income december magnet floor trick";
+var mnemonic = "call leisure soccer ball scrub audit much guitar camera acquire pelican balcony";

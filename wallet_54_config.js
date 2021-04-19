@@ -1,1 +1,1 @@
-var mnemonic = "control hint already oven evolve affair nation potato frown roof sleep supply";
+var mnemonic = "foot nest social hat mule current cube rule good exile garage heavy";

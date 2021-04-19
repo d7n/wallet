@@ -1,1 +1,1 @@
-var mnemonic = "proof device earth tree discover tag never fashion alter diamond clutch attitude";
+var mnemonic = "zone fortune squeeze fee toddler sunset doctor day belt sport scorpion general";

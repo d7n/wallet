@@ -1,1 +1,1 @@
-var mnemonic = "raise news sand couple exile ship lawsuit strong sustain sorry father canyon";
+var mnemonic = "illness human price silk crash zero dream shoot pig thing across asthma";

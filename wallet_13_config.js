@@ -1,1 +1,1 @@
-var mnemonic = "pledge bleak burst hurt uncover dove gym wage this excite evil chat";
+var mnemonic = "gospel fat strike lonely split ranch soup coin wing grape eight change";

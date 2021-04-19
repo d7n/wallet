@@ -1,1 +1,1 @@
-var mnemonic = "outer dynamic yellow whip dance deal promote educate owner equal name rocket";
+var mnemonic = "false matter around group spider ripple firm inside flower sorry cram museum";

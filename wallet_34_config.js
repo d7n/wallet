@@ -1,1 +1,1 @@
-var mnemonic = "clap skull sustain illegal palace game mystery lion resource pluck rely reflect";
+var mnemonic = "ask mammal arrange fiction cost machine regular noodle coconut access donkey genre";

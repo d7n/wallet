@@ -1,1 +1,1 @@
-var mnemonic = "flower wrestle surge final elite soldier bulk crash service miracle virtual family";
+var mnemonic = "orchard album insect credit ridge flavor syrup vault warm festival decline bind";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder claim royal track ghost ten uncover train quick wine inside matrix";
+var mnemonic = "latin doctor wrist excite bulk used unfold document funny cube barrel noble";

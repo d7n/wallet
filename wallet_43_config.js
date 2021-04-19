@@ -1,1 +1,1 @@
-var mnemonic = "require bonus trade fee liar wonder offer hour together blast album unfold";
+var mnemonic = "bonus cruel obvious noodle risk game fish same bubble chat hint flock";

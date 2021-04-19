@@ -1,1 +1,1 @@
-var mnemonic = "they wool poem grape jar rice casual cube garlic hand clown traffic";
+var mnemonic = "manage argue naive year knee require lounge gun ring devote inmate nominee";

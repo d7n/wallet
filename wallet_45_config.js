@@ -1,1 +1,1 @@
-var mnemonic = "antique ginger happy digital sauce mom ketchup cover skirt diesel upper try";
+var mnemonic = "loop poverty outer swing move indicate foil seat fortune task vehicle reopen";

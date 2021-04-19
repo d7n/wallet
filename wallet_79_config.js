@@ -1,1 +1,1 @@
-var mnemonic = "demand wheat broom man long swear patch gun because tennis fitness engine";
+var mnemonic = "loan consider energy axis bind senior chapter seven speak poem snack diesel";

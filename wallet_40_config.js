@@ -1,1 +1,1 @@
-var mnemonic = "swamp artefact response noble deny frozen device noise gym pulse animal mad";
+var mnemonic = "kite thunder shed faint kit depart luxury fade daughter cruel someone device";

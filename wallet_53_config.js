@@ -1,1 +1,1 @@
-var mnemonic = "raven fury metal fiscal differ coil action faint inflict load never network";
+var mnemonic = "favorite kiwi payment rude frown toward bunker please choose adult virtual tide";

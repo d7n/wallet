@@ -1,1 +1,1 @@
-var mnemonic = "baby skill impulse mushroom lens curve craft duty switch accident step smooth";
+var mnemonic = "frozen never bag regular finish own math defense spread spoon sudden can";

@@ -1,1 +1,1 @@
-var mnemonic = "security forum rule judge empower vast alcohol opera chronic kiss drive differ";
+var mnemonic = "swear truth above victory business oblige dinosaur yard frozen friend warfare woman";

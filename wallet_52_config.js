@@ -1,1 +1,1 @@
-var mnemonic = "term endorse alert install grief affair ticket picnic spatial around chest broccoli";
+var mnemonic = "heart razor party midnight note stock shock square dust drip scrub relief";

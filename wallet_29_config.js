@@ -1,1 +1,1 @@
-var mnemonic = "push question gloom balcony april shiver profit cereal model kangaroo wolf relief";
+var mnemonic = "three kiss rough silver there sentence interest similar citizen olive dizzy open";

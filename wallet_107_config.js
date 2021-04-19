@@ -1,1 +1,1 @@
-var mnemonic = "warfare art ship rotate retreat long renew frost trouble motor river knee";
+var mnemonic = "lazy forward merge describe brick train media ankle forest journey monkey december";

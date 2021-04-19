@@ -1,1 +1,1 @@
-var mnemonic = "spin mutual shoe bitter surround share oven warrior shallow run bless fine";
+var mnemonic = "bullet piano gossip palace smart exit pistol letter emerge salute dolphin wing";

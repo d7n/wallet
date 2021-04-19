@@ -1,1 +1,1 @@
-var mnemonic = "thunder awkward jealous tip labor museum nephew clump sustain upon differ wife";
+var mnemonic = "burden gorilla elder puzzle busy neck despair general pulp mercy alter suggest";

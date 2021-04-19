@@ -1,1 +1,1 @@
-var mnemonic = "use scorpion miss estate lab fever measure brother rotate surface pulp hood";
+var mnemonic = "volume monkey spot blur tongue pet oxygen country sibling clump more check";

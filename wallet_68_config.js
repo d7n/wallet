@@ -1,1 +1,1 @@
-var mnemonic = "business farm country member boil prosper water harbor neglect answer vital beach";
+var mnemonic = "snake pave identify shield detail room need jar embody echo club ridge";

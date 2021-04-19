@@ -1,1 +1,1 @@
-var mnemonic = "month oblige stool acoustic insect lucky slab tiger swing child example exotic";
+var mnemonic = "faint object window diesel life rival biology minimum dose reflect thunder sting";

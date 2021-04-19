@@ -1,1 +1,1 @@
-var mnemonic = "destroy arrest inherit anxiety rocket deny lizard liquid smile economy wet feature";
+var mnemonic = "couple elite device expose range thing hero wet favorite typical flag hobby";

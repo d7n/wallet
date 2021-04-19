@@ -1,1 +1,1 @@
-var mnemonic = "grab student novel recipe air drift resource six absurd season tobacco company";
+var mnemonic = "neither wave strike pistol wasp object jeans radar undo robust ahead spin";

@@ -1,1 +1,1 @@
-var mnemonic = "setup diet talent surface notice holiday exotic audit caught lock steak weekend";
+var mnemonic = "dance tooth maximum distance security december muscle joke other slot great caution";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk ice camp reason primary crazy town example duty olive tent cactus";
+var mnemonic = "present gloom chair leave engine reform case tobacco awesome cash culture scatter";

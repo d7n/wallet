@@ -1,1 +1,1 @@
-var mnemonic = "today wasp alcohol crouch salmon crop guard dune traffic visit device music";
+var mnemonic = "fee brother gloom upset amazing song buyer swing decline chunk energy super";

@@ -1,1 +1,1 @@
-var mnemonic = "elder supply knife smooth aunt cluster measure funny glare game syrup sudden";
+var mnemonic = "blue salmon duck target barely below discover route tonight embrace noise pet";

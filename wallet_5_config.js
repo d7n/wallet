@@ -1,1 +1,1 @@
-var mnemonic = "loyal artwork eye canyon soccer truck supply pluck behind labor theme praise";
+var mnemonic = "fence pudding below cool gesture clog world abandon extend snake bus frog";

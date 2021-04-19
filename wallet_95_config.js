@@ -1,1 +1,1 @@
-var mnemonic = "busy lonely flower fabric virtual now antenna organ axis gas lecture system";
+var mnemonic = "mystery rural teach myself twenty frost cave latin hard furnace tool what";

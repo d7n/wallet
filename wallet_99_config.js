@@ -1,1 +1,1 @@
-var mnemonic = "access mail into cart wood photo creek this alcohol turkey intact matrix";
+var mnemonic = "foil narrow this coconut claim drift right vintage useless gap goat pen";

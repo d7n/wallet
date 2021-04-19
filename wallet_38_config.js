@@ -1,1 +1,1 @@
-var mnemonic = "sock skill island middle diamond reform pigeon state neither script humor multiply";
+var mnemonic = "dad true fiber code fruit cash diary local amazing jelly bamboo ice";

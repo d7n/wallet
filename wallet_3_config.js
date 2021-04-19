@@ -1,1 +1,1 @@
-var mnemonic = "mouse auto slot jar violin scan limit spend easy river quote license";
+var mnemonic = "myself census glide skin slot olive sad define trash exact acoustic elephant";

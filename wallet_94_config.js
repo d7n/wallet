@@ -1,1 +1,1 @@
-var mnemonic = "matrix ranch zero fancy olympic bottom lounge female lottery achieve hammer rebel";
+var mnemonic = "kangaroo rally orbit flock hold accuse execute just neutral exile tortoise lazy";

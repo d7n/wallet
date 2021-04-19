@@ -1,1 +1,1 @@
-var mnemonic = "victory resource mask general enable shuffle blame walnut fiscal topple final mirror";
+var mnemonic = "tornado volcano else space come hover summer elephant turkey energy outdoor pause";

@@ -1,1 +1,1 @@
-var mnemonic = "universe net gravity that main verb goat jar cat cluster pink borrow";
+var mnemonic = "cherry grape mass suffer buyer captain smoke screen lemon arena vessel chase";

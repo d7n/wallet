@@ -1,1 +1,1 @@
-var mnemonic = "awake risk smoke erase indoor bone maple trip estate hub father spice";
+var mnemonic = "doll lock acid sunny legend labor beach stairs collect across business logic";

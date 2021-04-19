@@ -1,1 +1,1 @@
-var mnemonic = "rocket cushion pride stay fence twist cradle food vintage rotate regret upset";
+var mnemonic = "security live isolate blue water unlock erase evil ship outside decide then";

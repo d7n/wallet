@@ -1,1 +1,1 @@
-var mnemonic = "wrestle hunt lemon now life wear park arrange blast theme interest client";
+var mnemonic = "exclude tell spike company slow sudden frame discover evoke vapor minimum bounce";

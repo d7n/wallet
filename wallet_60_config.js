@@ -1,1 +1,1 @@
-var mnemonic = "actress hen icon name wedding stable symptom voice manage husband symbol hurdle";
+var mnemonic = "brother aspect roast apart bomb hamster tomato flag aunt steak forward balance";

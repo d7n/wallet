@@ -1,1 +1,1 @@
-var mnemonic = "width crawl piano slot attract enroll gate decide forest success bomb slim";
+var mnemonic = "piano want public above cabbage country main shove smoke math oven wife";

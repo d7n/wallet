@@ -1,1 +1,1 @@
-var mnemonic = "sheriff episode junior pink echo main pluck spend dream famous satisfy spin";
+var mnemonic = "party three time spread sea pretty secret naive source gather pulse enrich";

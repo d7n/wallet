@@ -1,1 +1,1 @@
-var mnemonic = "second interest miss goat negative wing that young wedding photo portion near";
+var mnemonic = "negative digital soon student viable put tourist race easily weather pigeon muffin";

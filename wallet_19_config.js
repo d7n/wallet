@@ -1,1 +1,1 @@
-var mnemonic = "rebel type kidney coil future flush solve nurse milk view unique index";
+var mnemonic = "rude plate addict give assault enlist tooth universe quarter grit fan inject";

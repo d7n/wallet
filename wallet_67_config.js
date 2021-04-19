@@ -1,1 +1,1 @@
-var mnemonic = "daring party eagle design spot shrug skull forest drill vote aunt swing";
+var mnemonic = "fit endorse accuse they race vault ill plastic globe media build sweet";

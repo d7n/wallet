@@ -1,1 +1,1 @@
-var mnemonic = "love focus chair finish clarify coffee hip ill tourist catalog abstract good";
+var mnemonic = "wrist frozen unknown wonder curtain catch over sick alien industry rival stick";

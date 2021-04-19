@@ -1,1 +1,1 @@
-var mnemonic = "turkey true honey shoe lady forget congress explain kind limit group pepper";
+var mnemonic = "vintage idea hero saddle couple display spell relief credit firm level paper";

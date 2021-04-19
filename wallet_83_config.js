@@ -1,1 +1,1 @@
-var mnemonic = "conduct enforce middle state double equal hobby believe fresh flag click addict";
+var mnemonic = "way gaze umbrella seven resemble squeeze weather weather digital hen cigar poet";

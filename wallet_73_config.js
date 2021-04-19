@@ -1,1 +1,1 @@
-var mnemonic = "crowd crash someone argue immune please town dizzy camera maid arch certain";
+var mnemonic = "patient double bullet bubble original snap wedding giraffe stock hub excite poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel melody talent bottom proud opinion filter raccoon seven habit monkey dirt";
+var mnemonic = "enemy save monkey holiday view lounge fruit punch vacuum stone luggage trip";

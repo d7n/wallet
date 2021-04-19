@@ -1,1 +1,1 @@
-var mnemonic = "crash faculty agree hat stumble bridge gold glare follow plate beauty bubble";
+var mnemonic = "chronic main awful time grape pencil lion toy axis verify crystal panel";

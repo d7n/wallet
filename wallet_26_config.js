@@ -1,1 +1,1 @@
-var mnemonic = "enable wrong pause film soul dilemma fatigue pulse cart absent dismiss cream";
+var mnemonic = "fluid future fix human wrong panda inner wave cliff sunset final cheese";

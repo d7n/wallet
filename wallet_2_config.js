@@ -1,1 +1,1 @@
-var mnemonic = "obey curve carry quit skirt pull isolate pattern segment attract rural flush";
+var mnemonic = "sock property swallow stem present rival super amused night vacant permit trap";

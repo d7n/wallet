@@ -1,1 +1,1 @@
-var mnemonic = "item hotel throw profit sample drum sock bargain soon romance exit rib";
+var mnemonic = "tennis jaguar vacuum exile slush acquire fruit fetch flavor wait six search";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit pioneer attract vacant glove turn diagram what horse seed drum orange";
+var mnemonic = "spy asthma uncover glide smart float dignity bullet afraid crisp wine dish";

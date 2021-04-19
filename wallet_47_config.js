@@ -1,1 +1,1 @@
-var mnemonic = "unique sphere toilet zero system cactus cave where record guitar that cross";
+var mnemonic = "earn sphere better vital crew resource term tongue badge person daughter bottom";

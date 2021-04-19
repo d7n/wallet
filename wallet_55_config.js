@@ -1,1 +1,1 @@
-var mnemonic = "cube marine nerve rotate sell silly inner gaze squeeze ocean trick false";
+var mnemonic = "clog sugar pizza afraid escape traffic pledge retire moral close thumb guess";

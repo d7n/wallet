@@ -1,1 +1,1 @@
-var mnemonic = "mixture turkey report boss fancy shallow song craft sorry actor indoor fragile";
+var mnemonic = "host lemon lunch silver movie fire toy antique agree fan accident spray";

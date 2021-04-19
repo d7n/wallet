@@ -1,1 +1,1 @@
-var mnemonic = "atom canal scale spell risk must hire purchase lemon flee discover debris";
+var mnemonic = "giant rule tiny step together bachelor review noise road argue unfold nerve";

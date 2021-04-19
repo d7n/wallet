@@ -1,1 +1,1 @@
-var mnemonic = "mixture winner near kite suit scene syrup pole mimic celery fitness interest";
+var mnemonic = "mix save drum harsh autumn moral cute cupboard eyebrow street chef iron";

@@ -1,1 +1,1 @@
-var mnemonic = "castle feel team uniform shoot climb super kidney aerobic nice north hat";
+var mnemonic = "promote pistol season path diary pen knife cousin hunt auto guitar equal";

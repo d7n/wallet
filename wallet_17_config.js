@@ -1,1 +1,1 @@
-var mnemonic = "knock supply spin egg fee myself credit vacuum artefact grow panther minor";
+var mnemonic = "artist welcome ice sugar tool sock fruit pigeon dove panda trip consider";

@@ -1,1 +1,1 @@
-var mnemonic = "label water point achieve gadget eagle debris ignore voice garlic steel access";
+var mnemonic = "hollow off tell text book swear uphold pave capital grunt account year";

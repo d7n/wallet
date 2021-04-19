@@ -1,1 +1,1 @@
-var mnemonic = "enforce crash canoe flame vital grief extra common strong screen charge improve";
+var mnemonic = "destroy mule wheat urge night trap alarm pool truly stay budget fine";
