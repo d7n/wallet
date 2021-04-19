@@ -1,1 +1,1 @@
-var mnemonic = "mobile inspire keep gospel vicious harvest despair cruise move opinion seed spoon";
+var mnemonic = "quiz voice holiday blossom differ picture coach remain sniff party soon item";

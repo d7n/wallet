@@ -1,1 +1,1 @@
-var mnemonic = "bullet festival autumn hat sun bird oval hurt hospital arrange layer element";
+var mnemonic = "young side credit crisp other unusual powder palace law shop column humble";

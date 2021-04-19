@@ -1,1 +1,1 @@
-var mnemonic = "cannon museum outer city true van bean jaguar december group swift spare";
+var mnemonic = "tornado concert aim educate horror amount divert census race banana tank antenna";

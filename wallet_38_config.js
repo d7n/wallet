@@ -1,1 +1,1 @@
-var mnemonic = "clerk wine like what track media rich clarify install banner glide face";
+var mnemonic = "canvas release garment elder quick viable warfare tide hour dentist south cushion";

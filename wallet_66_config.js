@@ -1,1 +1,1 @@
-var mnemonic = "citizen borrow match slam urban embody already alcohol deposit resource jar pioneer";
+var mnemonic = "hungry lizard machine shine ethics flat push awake stage palm duck transfer";

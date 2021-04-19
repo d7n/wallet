@@ -1,1 +1,1 @@
-var mnemonic = "near obscure sugar must fork machine brush magnet evolve tumble next predict";
+var mnemonic = "fiscal flight debris mimic blast tobacco blade camera sausage magnet novel shrimp";

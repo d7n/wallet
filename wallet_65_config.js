@@ -1,1 +1,1 @@
-var mnemonic = "seat doctor luggage immune daring bottom manage frequent aisle hunt vehicle phrase";
+var mnemonic = "expose voyage govern purpose increase pelican shine used discover axis advance fatigue";

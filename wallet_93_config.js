@@ -1,1 +1,1 @@
-var mnemonic = "address sample draft frame crack enroll ice mountain dog disorder hen rail";
+var mnemonic = "thought insane tennis hundred spell action flat mad food track response rare";

@@ -1,1 +1,1 @@
-var mnemonic = "true sibling keen mouse extra universe one educate anger evolve fury kitchen";
+var mnemonic = "clean alcohol medal rubber remain elevator ability dignity trust caught disease gym";

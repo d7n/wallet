@@ -1,1 +1,1 @@
-var mnemonic = "team alter cradle october rose nephew tongue document peasant member verify castle";
+var mnemonic = "coach carry own roof slogan series test tell miss expire famous upset";

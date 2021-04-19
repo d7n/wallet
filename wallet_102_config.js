@@ -1,1 +1,1 @@
-var mnemonic = "cushion inherit mixed cloth now surge base destroy ice wreck tackle merit";
+var mnemonic = "feel enroll large fortune walnut include nuclear enough bid game waste bounce";

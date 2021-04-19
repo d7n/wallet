@@ -1,1 +1,1 @@
-var mnemonic = "duck scene little evidence clarify limit bleak grass bronze found vault brown";
+var mnemonic = "guitar day taxi visa source baby two shift stairs lunar sheriff antenna";

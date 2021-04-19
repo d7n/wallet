@@ -1,1 +1,1 @@
-var mnemonic = "have health three trumpet churn field slush rifle leopard furnace mom return";
+var mnemonic = "sibling sword butter escape fluid peasant token jar master myself gain silk";

@@ -1,1 +1,1 @@
-var mnemonic = "aim ignore marble shine choice explain poet account meadow federal biology amount";
+var mnemonic = "save fitness pulse symbol pride powder wine what abandon device bulk receive";

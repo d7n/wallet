@@ -1,1 +1,1 @@
-var mnemonic = "pattern spike panic source fall filter fringe thing vacant laundry quiz purpose";
+var mnemonic = "keen cruel announce dwarf divorce urge analyst acquire banner ostrich embrace hazard";

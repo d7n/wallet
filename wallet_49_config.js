@@ -1,1 +1,1 @@
-var mnemonic = "fancy pottery move bacon slush ribbon speed other cruel silver crouch dismiss";
+var mnemonic = "reveal always fan inmate zoo tool reveal cup turkey wing aisle coyote";

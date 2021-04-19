@@ -1,1 +1,1 @@
-var mnemonic = "body isolate grow doctor pear bargain ginger toe remain rebuild pencil game";
+var mnemonic = "captain swarm great ranch foam until drama cruise behave chaos settle wife";

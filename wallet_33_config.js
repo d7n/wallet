@@ -1,1 +1,1 @@
-var mnemonic = "alien dismiss estate retreat alone bright antenna push eyebrow cancel index paddle";
+var mnemonic = "true end engine love olympic grow course gaze recycle term scrap more";

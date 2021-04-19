@@ -1,1 +1,1 @@
-var mnemonic = "bulb soon history olympic nominee visual early apart sign hybrid bulk atom";
+var mnemonic = "claim sweet civil romance skull tongue exit whip struggle around skull engine";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk puzzle youth hire plastic person globe manage smile right thrive team";
+var mnemonic = "vague addict match lamp vocal sport object swap merit jelly good beach";

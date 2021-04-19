@@ -1,1 +1,1 @@
-var mnemonic = "exotic never pave nuclear rebel public aim skin pumpkin wheat family found";
+var mnemonic = "field destroy sock answer tiny athlete bomb cupboard mean latin stick grit";

@@ -1,1 +1,1 @@
-var mnemonic = "tape media edit polar radio summer burger ride student wreck resist genius";
+var mnemonic = "increase run stadium angry amazing tiger seat life mobile donate avocado lucky";

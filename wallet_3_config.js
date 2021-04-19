@@ -1,1 +1,1 @@
-var mnemonic = "choice casual call claw outer wet phone tank hover add sun rain";
+var mnemonic = "design maple green dinner speak under tone rotate puppy turtle rough flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "royal future such swarm spatial december crisp car visit milk love hip";
+var mnemonic = "metal fury rather kidney dragon energy armor toddler father life odor hero";

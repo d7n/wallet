@@ -1,1 +1,1 @@
-var mnemonic = "stay exhibit jaguar file slot parent autumn float social clog uncle fade";
+var mnemonic = "prosper episode arch grain furnace sweet access expand defense cute habit box";

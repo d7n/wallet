@@ -1,1 +1,1 @@
-var mnemonic = "middle half knock combine sight loop own phrase whisper ramp fiction soldier";
+var mnemonic = "cattle wage monkey finish cruise cloud panic tilt street response cat gesture";

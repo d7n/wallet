@@ -1,1 +1,1 @@
-var mnemonic = "toilet lunar credit field question daring bleak produce erase wrap erase rather";
+var mnemonic = "foster current fire lounge supply hub warm other toss brief mountain fox";

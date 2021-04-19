@@ -1,1 +1,1 @@
-var mnemonic = "poet tobacco ski initial half punch anger shell you spring fat faint";
+var mnemonic = "bounce sign idle ordinary access repeat roof zebra weird assist cave social";

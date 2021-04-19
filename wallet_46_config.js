@@ -1,1 +1,1 @@
-var mnemonic = "system present have lunar analyst such cable fever solar embody ice woman";
+var mnemonic = "quiz reduce margin shrimp pencil fetch auction mixed smile scrub dragon spend";

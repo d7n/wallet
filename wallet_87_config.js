@@ -1,1 +1,1 @@
-var mnemonic = "hood easy timber mystery dance decrease girl oval faculty give cry fabric";
+var mnemonic = "bread youth cousin below arrest vintage neglect goose burst lecture rebel undo";

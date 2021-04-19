@@ -1,1 +1,1 @@
-var mnemonic = "sauce orchard capable grass shallow scorpion reflect someone trash green million creek";
+var mnemonic = "reward seminar hood muscle assist tone rally certain celery target settle tool";

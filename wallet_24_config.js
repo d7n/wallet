@@ -1,1 +1,1 @@
-var mnemonic = "brief draw swear return carry naive conduct beef wonder spoon better wagon";
+var mnemonic = "measure smile sauce foster stick resemble bag wrap wire hollow fit burger";

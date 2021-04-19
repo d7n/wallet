@@ -1,1 +1,1 @@
-var mnemonic = "oppose seed woman toast tiger orphan rail rocket pioneer peanut pool execute";
+var mnemonic = "stem travel vessel heart pitch olympic word resemble hungry appear erosion poverty";

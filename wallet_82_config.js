@@ -1,1 +1,1 @@
-var mnemonic = "club light mechanic walnut young gloom asset picnic spread benefit mule define";
+var mnemonic = "travel athlete muffin ankle stage fashion canvas trust misery pig table category";

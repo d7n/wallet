@@ -1,1 +1,1 @@
-var mnemonic = "mouse vital letter half sell rate pencil expect hurdle prize cube consider";
+var mnemonic = "second lava smoke unveil exhaust razor modify escape negative people purity seat";

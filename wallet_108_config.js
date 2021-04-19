@@ -1,1 +1,1 @@
-var mnemonic = "service trash then agent violin south pear bomb truly alien hair habit";
+var mnemonic = "unlock decline bullet screen salmon moon whale obvious near nephew service else";

@@ -1,1 +1,1 @@
-var mnemonic = "cash reveal art swallow pass initial slam brother crash icon slam fancy";
+var mnemonic = "error chair nothing muscle kingdom mercy rule wrist helmet decline property stick";

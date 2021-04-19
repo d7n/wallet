@@ -1,1 +1,1 @@
-var mnemonic = "injury chicken cube cliff fashion online ghost green left maple kidney doll";
+var mnemonic = "march palace army bean tenant prosper offer jazz pact jacket vast corn";

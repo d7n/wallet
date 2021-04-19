@@ -1,1 +1,1 @@
-var mnemonic = "february plunge own hard consider ritual naive core recipe decorate mirror pizza";
+var mnemonic = "moral embark usual question armor enact imitate mouse giant monster huge glare";

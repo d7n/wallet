@@ -1,1 +1,1 @@
-var mnemonic = "elder tennis whip oxygen skate carry exile educate ahead gravity patient people";
+var mnemonic = "comic letter excite bronze size finish during weapon dutch rigid angry emotion";

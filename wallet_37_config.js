@@ -1,1 +1,1 @@
-var mnemonic = "satisfy among pencil usage liquid flush ask museum real wire frost merge";
+var mnemonic = "resource wide vital asthma trap book crane spice snack kidney fault transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair trim frog hedgehog inspire depend master pencil evolve purse add rack";
+var mnemonic = "dish reason fluid where mesh proud under animal diet true furnace capital";

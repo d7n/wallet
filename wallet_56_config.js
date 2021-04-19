@@ -1,1 +1,1 @@
-var mnemonic = "sorry vote together roast measure six shaft square paddle chapter insane connect";
+var mnemonic = "island identify visa video grape sick seed member aunt logic pipe whisper";

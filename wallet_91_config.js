@@ -1,1 +1,1 @@
-var mnemonic = "vapor kitchen clutch virtual state visa chuckle dirt fitness angle gallery select";
+var mnemonic = "language win theory venue cruise inflict peasant angry paddle weird mystery iron";

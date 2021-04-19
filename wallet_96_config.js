@@ -1,1 +1,1 @@
-var mnemonic = "profit decade anxiety deposit brief tomorrow wait sight reform verb day consider";
+var mnemonic = "grocery mixture scatter soft outdoor absurd erode lesson derive basket canal ski";

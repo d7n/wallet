@@ -1,1 +1,1 @@
-var mnemonic = "ahead mixture visit element abstract chief faculty lucky will artwork all thing";
+var mnemonic = "humor add clay notable ostrich try critic crunch spread toddler license nut";

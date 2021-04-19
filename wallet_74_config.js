@@ -1,1 +1,1 @@
-var mnemonic = "word region erode fresh thrive pause iron tomorrow minute situate certain velvet";
+var mnemonic = "program produce indicate divide verify gravity wrist simple amount era cotton stamp";

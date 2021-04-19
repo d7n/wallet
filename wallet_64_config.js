@@ -1,1 +1,1 @@
-var mnemonic = "view fee now strategy check clay holiday draft soon renew submit party";
+var mnemonic = "estate rail salute upgrade bundle barrel blue organ mutual usage exotic trap";

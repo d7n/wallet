@@ -1,1 +1,1 @@
-var mnemonic = "flock belt occur dumb kiss buzz unhappy inhale avoid flag harvest benefit";
+var mnemonic = "dust code race clip release critic this jar rough wish assault harsh";

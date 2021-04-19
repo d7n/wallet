@@ -1,1 +1,1 @@
-var mnemonic = "blush fancy arrange sausage blush border unfair remove laugh radio mystery wink";
+var mnemonic = "used bid goose curious dynamic future glue birth portion scout sword laptop";

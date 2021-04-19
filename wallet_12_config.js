@@ -1,1 +1,1 @@
-var mnemonic = "submit tower weekend tenant brother april find virus rare analyst process lecture";
+var mnemonic = "place duty reduce vital olive worth phrase salute banner endless address nurse";

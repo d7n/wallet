@@ -1,1 +1,1 @@
-var mnemonic = "champion shadow common tide cloth supreme color uncle teach pole lunar letter";
+var mnemonic = "wealth unique trick problem oval canoe kiss liberty wreck brick sunny tiny";

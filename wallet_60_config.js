@@ -1,1 +1,1 @@
-var mnemonic = "entry return chimney warfare shine special recipe tornado cry warm witness infant";
+var mnemonic = "desert bleak crowd lamp lab use west alter stick autumn bless consider";

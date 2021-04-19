@@ -1,1 +1,1 @@
-var mnemonic = "material ancient voyage antenna village patient tuna remember eagle nephew pen option";
+var mnemonic = "crystal cancel scheme hollow genuine provide reflect saddle rely slam metal repair";

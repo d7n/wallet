@@ -1,1 +1,1 @@
-var mnemonic = "chase brain defense news behave bottom strong reward hotel two end recall";
+var mnemonic = "dutch gravity use convince refuse scrap member ten power stem coin exile";

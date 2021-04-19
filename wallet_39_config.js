@@ -1,1 +1,1 @@
-var mnemonic = "outer wide six shiver riot neck output huge faith alone cause fork";
+var mnemonic = "wild swarm update minimum vivid slow buyer arrive segment benefit hedgehog report";

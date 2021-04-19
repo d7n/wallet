@@ -1,1 +1,1 @@
-var mnemonic = "credit buddy wreck season display design message cupboard ecology busy fine south";
+var mnemonic = "verb other upon fresh burst thank symptom multiply output where addict obscure";

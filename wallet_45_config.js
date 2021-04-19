@@ -1,1 +1,1 @@
-var mnemonic = "angry blood step mammal thought despair junk cook wood argue steak security";
+var mnemonic = "palace trophy crouch disorder amount address session gift salad pact rescue feed";

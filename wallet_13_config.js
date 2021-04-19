@@ -1,1 +1,1 @@
-var mnemonic = "scrap milk until hard mean coral omit trigger crystal type long note";
+var mnemonic = "vanish remain effort dragon reflect senior paper neither corn canyon loop stone";

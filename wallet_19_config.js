@@ -1,1 +1,1 @@
-var mnemonic = "unhappy lizard shadow bind link kite erosion game step response drip race";
+var mnemonic = "regret forum turkey coyote adult elbow into call tuna badge relief lamp";

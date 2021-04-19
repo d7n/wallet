@@ -1,1 +1,1 @@
-var mnemonic = "health worth voyage wrist soft novel amused exotic install divert girl rhythm";
+var mnemonic = "miracle frown voyage lift rib nut mansion inform hole charge left initial";

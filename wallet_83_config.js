@@ -1,1 +1,1 @@
-var mnemonic = "waste parade turn diary consider coconut scout metal endless steel sort box";
+var mnemonic = "garment shy slight scheme sorry copper electric discover phrase common average month";

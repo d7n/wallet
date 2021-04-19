@@ -1,1 +1,1 @@
-var mnemonic = "uphold will program exercise language renew off rough inflict paper wink apart";
+var mnemonic = "roast upon common undo pipe survey shoe actress prison loan popular goat";

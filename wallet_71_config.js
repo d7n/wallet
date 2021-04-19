@@ -1,1 +1,1 @@
-var mnemonic = "joy open pluck crumble glue copper spell please math resemble torch whisper";
+var mnemonic = "they symbol pelican chest orbit primary palace net conduct dynamic nation enemy";

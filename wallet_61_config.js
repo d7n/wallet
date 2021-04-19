@@ -1,1 +1,1 @@
-var mnemonic = "aspect lucky push noise mobile loyal split rapid decline excite common point";
+var mnemonic = "elbow own water earth genre slice magic inform tunnel dizzy entire biology";

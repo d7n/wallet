@@ -1,1 +1,1 @@
-var mnemonic = "tattoo produce happy surprise speed turn plastic farm gym autumn pencil obtain";
+var mnemonic = "either cotton abandon grain slot hungry carpet cinnamon dilemma wife guilt release";

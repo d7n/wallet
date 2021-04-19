@@ -1,1 +1,1 @@
-var mnemonic = "athlete below iron mask soda prison farm analyst imitate secret prevent access";
+var mnemonic = "mammal nose dust supreme decline square river bleak trend curtain gown lamp";

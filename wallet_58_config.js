@@ -1,1 +1,1 @@
-var mnemonic = "mirror myself flight tip erase other wealth step invite clown sure inquiry";
+var mnemonic = "route defense shock lunar tackle vote slow situate balance helmet solar text";

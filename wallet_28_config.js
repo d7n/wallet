@@ -1,1 +1,1 @@
-var mnemonic = "harbor fresh ginger thunder drill skate private fatal chief life dumb course";
+var mnemonic = "sadness belt carbon track boring rifle december right typical anger pulse suggest";

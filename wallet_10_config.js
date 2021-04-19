@@ -1,1 +1,1 @@
-var mnemonic = "during sauce charge source panel ranch arrow repair guitar trouble pair swallow";
+var mnemonic = "aisle state twice possible lunar soup rubber dog winter symbol phrase dad";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle taste soldier celery glide change inmate casual quarter hobby oppose loop";
+var mnemonic = "jazz betray involve equip sketch obscure tiger chicken rhythm random ribbon escape";

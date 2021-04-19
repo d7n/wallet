@@ -1,1 +1,1 @@
-var mnemonic = "walnut alert receive pilot menu dance void garden use crash win element";
+var mnemonic = "rule track bike lyrics small laptop nominee collect advice math random repair";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect artwork vapor issue promote gym iron toddler nerve cannon file follow";
+var mnemonic = "famous bar inmate utility direct spawn matrix over off prevent wet state";

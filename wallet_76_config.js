@@ -1,1 +1,1 @@
-var mnemonic = "device this number early camp pact resource sheriff fitness rack boost toilet";
+var mnemonic = "kidney pelican author melt pledge opera month pipe sustain code issue blind";

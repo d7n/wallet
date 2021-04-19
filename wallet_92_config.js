@@ -1,1 +1,1 @@
-var mnemonic = "bargain crystal melody hollow vicious genre artefact online eyebrow flock inside file";
+var mnemonic = "wrestle sketch embrace pact summer expect coach thumb face point size egg";

@@ -1,1 +1,1 @@
-var mnemonic = "test valid account rhythm today cabin rigid nest great awful infant chuckle";
+var mnemonic = "animal leave envelope virtual pull long loan matter boost decline sunset tomato";

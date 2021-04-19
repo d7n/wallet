@@ -1,1 +1,1 @@
-var mnemonic = "round donate card adjust quiz alter earn flight advance farm liberty neck";
+var mnemonic = "cause they unfold crawl resource clerk minimum upon time excess slogan arena";

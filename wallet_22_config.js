@@ -1,1 +1,1 @@
-var mnemonic = "crop useful yellow female grief have chaos name kite ability then vibrant";
+var mnemonic = "drama there bright fold add lizard trial neglect latin fish method dentist";

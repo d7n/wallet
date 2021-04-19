@@ -1,1 +1,1 @@
-var mnemonic = "genuine fee tag call husband attract blast dose sibling sniff boil heart";
+var mnemonic = "shuffle ginger aspect story fitness desert issue addict speed drastic unveil crunch";

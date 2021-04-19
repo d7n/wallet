@@ -1,1 +1,1 @@
-var mnemonic = "away clown outside unlock jealous avocado segment provide burden pumpkin tilt borrow";
+var mnemonic = "nest laugh oblige response shield virtual holiday ocean echo surface trigger isolate";

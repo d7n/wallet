@@ -1,1 +1,1 @@
-var mnemonic = "giraffe picture trick armor street oven ticket expire voice camera coral cool";
+var mnemonic = "mix admit risk aisle outside benefit feature toward broccoli people jungle only";

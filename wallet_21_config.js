@@ -1,1 +1,1 @@
-var mnemonic = "source connect deal hat duck own keep pass stock air six farm";
+var mnemonic = "donor search position about infant rough maximum powder stick client pretty refuse";

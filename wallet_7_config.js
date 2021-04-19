@@ -1,1 +1,1 @@
-var mnemonic = "chase fetch orbit blue category roof fall dolphin lava click sustain rice";
+var mnemonic = "firm omit grace music aerobic shine stock fury about someone broccoli trigger";

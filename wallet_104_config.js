@@ -1,1 +1,1 @@
-var mnemonic = "curious science match consider enhance blind curtain latin ugly unusual borrow mushroom";
+var mnemonic = "rotate discover warm mechanic final tired spy faculty wood peace bounce term";

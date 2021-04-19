@@ -1,1 +1,1 @@
-var mnemonic = "title nerve whip afraid people neglect bone cause observe useless afraid worry";
+var mnemonic = "inside awesome sting riot filter private noodle bring chat access useful enact";

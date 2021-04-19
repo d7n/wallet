@@ -1,1 +1,1 @@
-var mnemonic = "shell marble sunset budget tornado argue market nerve coast awesome super dizzy";
+var mnemonic = "minor enrich mutual dilemma conduct elite furnace hazard hip moon market knee";
