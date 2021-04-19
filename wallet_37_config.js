@@ -1,1 +1,1 @@
-var mnemonic = "bulb govern sort purchase census coach maximum just trade danger casino rival";
+var mnemonic = "adapt trigger cave topple fury joy access wave cherry humble topple weather";

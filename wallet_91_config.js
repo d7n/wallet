@@ -1,1 +1,1 @@
-var mnemonic = "swarm cabin kingdom dial mask list admit language calm afraid roof month";
+var mnemonic = "deer sweet inside math moral faculty shed front void burden fashion jaguar";

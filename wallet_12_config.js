@@ -1,1 +1,1 @@
-var mnemonic = "surface rug elbow cabin iron embody room unfair company hurt frequent energy";
+var mnemonic = "there barely slender remember actor naive diet item polar economy glow head";

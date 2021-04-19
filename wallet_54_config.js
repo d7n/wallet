@@ -1,1 +1,1 @@
-var mnemonic = "under deputy stomach oyster inflict earn zoo awful sign bread churn day";
+var mnemonic = "install aisle over junk sister boat wave above roast crouch miracle motion";

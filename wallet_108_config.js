@@ -1,1 +1,1 @@
-var mnemonic = "sudden certain lesson estate island broccoli clever join debris exhaust view style";
+var mnemonic = "iron true toe apology rabbit achieve game talk control host uncover fiction";

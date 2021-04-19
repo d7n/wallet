@@ -1,1 +1,1 @@
-var mnemonic = "mean wet surge armed proof solid figure charge dwarf three treat private";
+var mnemonic = "trend stamp civil genre jungle basic defy bind fold tomato bounce section";

@@ -1,1 +1,1 @@
-var mnemonic = "expire again legend step course gather require rug van pig arrive clay";
+var mnemonic = "suffer track monster road grocery employ crowd please comic believe scout tape";

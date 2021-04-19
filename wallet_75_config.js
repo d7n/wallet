@@ -1,1 +1,1 @@
-var mnemonic = "clarify letter grocery dry gun apology deposit message boss champion enlist parade";
+var mnemonic = "twenty solve mixture throw cover orient media letter rare scatter gadget rotate";

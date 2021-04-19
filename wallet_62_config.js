@@ -1,1 +1,1 @@
-var mnemonic = "subway journey love earth fury situate opinion lake remind ridge kit forget";
+var mnemonic = "win spot check seven whip primary tongue execute athlete copy foil tank";

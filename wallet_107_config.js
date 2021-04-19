@@ -1,1 +1,1 @@
-var mnemonic = "punch pudding climb good account adapt sudden inspire coral glad evolve series";
+var mnemonic = "rapid weather work invite old color witness venue ketchup absent visa process";

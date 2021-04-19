@@ -1,1 +1,1 @@
-var mnemonic = "game issue culture gloom embody devote disorder betray old survey helmet fluid";
+var mnemonic = "come lady lunar trade shrug salmon square lunch canoe discover tiger garbage";

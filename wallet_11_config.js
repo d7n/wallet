@@ -1,1 +1,1 @@
-var mnemonic = "zone expect never very resource couch media fringe hello brass guess voice";
+var mnemonic = "staff twelve about vacuum video need animal sample what typical come near";

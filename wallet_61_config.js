@@ -1,1 +1,1 @@
-var mnemonic = "together capable consider rural devote subway census course position seven awake chapter";
+var mnemonic = "loan venue city question faith orphan razor rotate hip loop ethics vivid";

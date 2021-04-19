@@ -1,1 +1,1 @@
-var mnemonic = "exchange immune volcano segment major siege buffalo knock basket walk elder jealous";
+var mnemonic = "valid sorry wrong want vital copy left time decade bounce industry hip";

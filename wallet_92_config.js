@@ -1,1 +1,1 @@
-var mnemonic = "anchor fun next then month stable wise alpha skin about quantum strong";
+var mnemonic = "book throw hotel burden viable point orchard amateur service wire gas food";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware double dumb material luggage damage satoshi range there like cycle monkey";
+var mnemonic = "marine cousin flame birth clap please salute hurdle obtain essence moon owner";

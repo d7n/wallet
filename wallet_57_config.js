@@ -1,1 +1,1 @@
-var mnemonic = "ancient wait merry heavy hat onion link depart snap bridge side happy";
+var mnemonic = "ski chapter minute fiscal much virus swear country base insane dignity ghost";

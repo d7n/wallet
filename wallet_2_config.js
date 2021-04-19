@@ -1,1 +1,1 @@
-var mnemonic = "person angry frozen pyramid tumble frown inch satoshi opera swim chaos unveil";
+var mnemonic = "include miracle stove veteran upper east robot sausage solar actress thrive chat";

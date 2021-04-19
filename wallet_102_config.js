@@ -1,1 +1,1 @@
-var mnemonic = "right simple media swallow giant congress million steak speak faith either effort";
+var mnemonic = "ugly reject garden book another there remember glow hard daring color clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty rely alley alert forest blame hammer used like insect pyramid cruel";
+var mnemonic = "horse loyal pepper nephew tenant glare dwarf prepare mimic fiscal gasp job";

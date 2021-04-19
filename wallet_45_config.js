@@ -1,1 +1,1 @@
-var mnemonic = "cycle found fiscal usage fitness elbow expect forum warm public robot hen";
+var mnemonic = "slam aspect question bounce neglect bronze secret eight fiber love since naive";

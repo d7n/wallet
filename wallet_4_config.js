@@ -1,1 +1,1 @@
-var mnemonic = "cook sword card fatigue matrix maid input frog useful sausage harsh spend";
+var mnemonic = "grow assault whale jump exotic swap give priority elite quote drill snap";

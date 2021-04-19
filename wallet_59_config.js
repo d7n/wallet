@@ -1,1 +1,1 @@
-var mnemonic = "phrase year trend club eternal art foster boss clay alley top win";
+var mnemonic = "ethics index first people moral lion business subway kingdom female case cabin";

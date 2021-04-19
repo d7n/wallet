@@ -1,1 +1,1 @@
-var mnemonic = "favorite innocent beef pudding unique balcony art round grass donor resemble scene";
+var mnemonic = "section barrel material orphan remind brush polar cabin whisper fiction live window";

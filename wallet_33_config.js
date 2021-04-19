@@ -1,1 +1,1 @@
-var mnemonic = "object sheriff tomato trash season habit tone glimpse worry slogan what rail";
+var mnemonic = "spy cluster aisle crush copy hawk canal slush human duty slide letter";

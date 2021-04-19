@@ -1,1 +1,1 @@
-var mnemonic = "subway chair wait original frozen december wife option addict hurry brand witness";
+var mnemonic = "best amount churn grace same seven staff pretty outer diagram feed wheat";

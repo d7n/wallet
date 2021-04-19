@@ -1,1 +1,1 @@
-var mnemonic = "receive next boat spread diamond case minute public uphold east police grain";
+var mnemonic = "actress midnight team october garden flush hockey live lumber job reason plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "humble ethics venture profit crawl tiger blade good badge aerobic rate trophy";
+var mnemonic = "jewel cream vessel loyal vintage online next mask lab woman desert across";

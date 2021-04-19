@@ -1,1 +1,1 @@
-var mnemonic = "dose gallery purity squeeze umbrella visual tree pencil cash purse make spray";
+var mnemonic = "feature infant crane quote silent large together junior couple mountain work pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth guard rough cricket game gossip arctic diesel insane keep wine curtain";
+var mnemonic = "oblige sudden negative sail leopard play embody skirt catch describe rely panther";

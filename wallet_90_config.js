@@ -1,1 +1,1 @@
-var mnemonic = "rate flush disagree relax regret jewel hair merit conduct infant lumber index";
+var mnemonic = "predict mask slogan spider actor raw gauge say smile code spare chair";

@@ -1,1 +1,1 @@
-var mnemonic = "cup high crash frequent slush rich ribbon desk vote cliff lock club";
+var mnemonic = "result boil critic media debate spare disagree tell luxury love company lady";

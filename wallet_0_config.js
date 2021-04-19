@@ -1,1 +1,1 @@
-var mnemonic = "talent fan summer all drip load act tenant strike dentist door sauce";
+var mnemonic = "check jump infant fence demise fat retire solve hip fat okay hidden";

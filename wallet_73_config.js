@@ -1,1 +1,1 @@
-var mnemonic = "inside junk cabin year awesome strong gift senior slush candy tide suit";
+var mnemonic = "creek gasp anxiety cradle expose suggest brand toss connect elbow relief donate";

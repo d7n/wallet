@@ -1,1 +1,1 @@
-var mnemonic = "empower common sunny bracket perfect armed science wide shove nice flat then";
+var mnemonic = "napkin pony lava drive token must captain album whale doll trap cable";

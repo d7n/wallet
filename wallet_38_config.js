@@ -1,1 +1,1 @@
-var mnemonic = "excess donor pupil match either rescue oval floor fiber give traffic earn";
+var mnemonic = "regular wine tribe helmet project shrimp border sister resist close garlic fetch";

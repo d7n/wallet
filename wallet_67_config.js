@@ -1,1 +1,1 @@
-var mnemonic = "diamond depend rhythm easy scale because talent vapor vehicle west december credit";
+var mnemonic = "case rigid practice demand parrot crush warrior coral height brave differ initial";

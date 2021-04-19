@@ -1,1 +1,1 @@
-var mnemonic = "fantasy napkin farm wisdom frequent dash shop clean correct popular legal predict";
+var mnemonic = "robust method train post sign camp bargain injury strike gesture combine stone";

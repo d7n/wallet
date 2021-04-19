@@ -1,1 +1,1 @@
-var mnemonic = "immune salmon comfort letter defense rigid idea wedding bonus giggle alley fringe";
+var mnemonic = "merit blame enemy gas place order spatial lonely fuel wine all loop";

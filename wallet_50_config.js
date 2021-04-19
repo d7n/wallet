@@ -1,1 +1,1 @@
-var mnemonic = "cry loud robot cinnamon humor bless pyramid focus fuel subway pepper addict";
+var mnemonic = "evidence neglect salmon bone survey prevent ancient silent pyramid gown genuine wealth";

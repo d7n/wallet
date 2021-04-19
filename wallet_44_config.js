@@ -1,1 +1,1 @@
-var mnemonic = "advice eagle vault during crack table merit teach ethics gorilla horse tonight";
+var mnemonic = "camp brand pulse wheel joy dial visit shiver eternal account space matrix";

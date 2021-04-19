@@ -1,1 +1,1 @@
-var mnemonic = "error render arrange onion long merry chair run shift few diary exhibit";
+var mnemonic = "season wing hub social electric list exotic bleak coffee drastic icon corn";

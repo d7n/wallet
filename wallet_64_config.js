@@ -1,1 +1,1 @@
-var mnemonic = "employ roof walk cry symptom notice soldier carry cinnamon any cook wage";
+var mnemonic = "unaware fuel wheel parent guard ozone tackle occur say never evil reason";

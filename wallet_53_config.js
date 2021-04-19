@@ -1,1 +1,1 @@
-var mnemonic = "rib car fan smooth slot patrol deposit faint doll smart vital supreme";
+var mnemonic = "clerk endless item novel youth humor fence seed fiction coconut rice spell";

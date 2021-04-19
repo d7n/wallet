@@ -1,1 +1,1 @@
-var mnemonic = "food deal similar decide avoid exhibit fog unaware myth brisk chest world";
+var mnemonic = "office daring final powder tell admit child laundry extend energy subject lava";

@@ -1,1 +1,1 @@
-var mnemonic = "margin render screen cave quit first shrug bleak lounge outside arena tag";
+var mnemonic = "pen army defense slab bachelor decrease little broccoli attract impose wave guard";

@@ -1,1 +1,1 @@
-var mnemonic = "install coyote boring trigger require average two illegal story blanket plastic entire";
+var mnemonic = "hamster weather effort hat rabbit cannon soccer uncover midnight robust camp act";

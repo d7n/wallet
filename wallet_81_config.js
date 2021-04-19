@@ -1,1 +1,1 @@
-var mnemonic = "fly spring add elephant cradle tail apple chronic infant afford you brother";
+var mnemonic = "moment divert job audit crane agree coral weapon acoustic arrest oil seminar";

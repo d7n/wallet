@@ -1,1 +1,1 @@
-var mnemonic = "room option cube catch south slab build cry pair coyote crash gloom";
+var mnemonic = "term exclude exchange basket stool wreck either goat trigger lion setup calm";

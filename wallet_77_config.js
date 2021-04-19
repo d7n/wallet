@@ -1,1 +1,1 @@
-var mnemonic = "genre dose bounce half reject play unaware kick math shoe hope lab";
+var mnemonic = "lamp antenna ankle buddy nuclear stable maple advance snack orphan will peanut";

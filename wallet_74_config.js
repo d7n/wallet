@@ -1,1 +1,1 @@
-var mnemonic = "atom name prefer evolve design giggle lumber ahead submit trigger kit sense";
+var mnemonic = "banana enough matter scan advance sign brief puzzle install rebuild surround hurt";

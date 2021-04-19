@@ -1,1 +1,1 @@
-var mnemonic = "cry share rather master clerk usual radio leisure forest husband boost arctic";
+var mnemonic = "trouble before truly beef lunar father myself mirror pause where pool carry";

@@ -1,1 +1,1 @@
-var mnemonic = "menu critic call cage kind spike tobacco document addict track maze letter";
+var mnemonic = "tower picture health tank shallow atom legal then harvest kitchen cash proof";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle must prepare useful pudding will toe humble room hungry long memory";
+var mnemonic = "describe render monster mom trap ozone civil ridge input merge license flower";

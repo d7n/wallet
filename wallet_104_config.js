@@ -1,1 +1,1 @@
-var mnemonic = "reward company loan mechanic ready already ramp loan bird they bless kitten";
+var mnemonic = "party modify cancel frog visit actual receive awesome canoe extra parent illegal";

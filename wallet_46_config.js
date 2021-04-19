@@ -1,1 +1,1 @@
-var mnemonic = "know omit half learn umbrella actual fog cool reduce daring until reward";
+var mnemonic = "globe ask alcohol load increase seminar resource code leg soon peace praise";

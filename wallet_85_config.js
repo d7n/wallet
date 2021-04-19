@@ -1,1 +1,1 @@
-var mnemonic = "latin path unique canyon hurdle alter match offer goose sting abuse bright";
+var mnemonic = "diamond ranch loud comic moment endorse talent year top chair hungry burst";

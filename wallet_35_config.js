@@ -1,1 +1,1 @@
-var mnemonic = "harsh lens pet club clog recipe panther sorry horror vapor bachelor chuckle";
+var mnemonic = "pride purse syrup memory cousin exhaust swear sea shove ritual slice nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "they egg allow infant sustain student sheriff host piece peasant patient certain";
+var mnemonic = "sting juice grit suspect extend begin hip tongue task oak act monitor";

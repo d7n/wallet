@@ -1,1 +1,1 @@
-var mnemonic = "ankle gravity parent carpet maximum syrup uniform opera seven flight rail live";
+var mnemonic = "number mesh rely use much response attitude lemon fuel net sport light";

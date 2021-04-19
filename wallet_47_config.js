@@ -1,1 +1,1 @@
-var mnemonic = "uncover arrow maple pulp peanut fantasy concert thank scrap grocery slice mimic";
+var mnemonic = "index car pass gun attract build salon hen mountain exclude face frame";

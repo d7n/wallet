@@ -1,1 +1,1 @@
-var mnemonic = "language vicious alien cinnamon spike elite smart popular degree settle ice develop";
+var mnemonic = "oppose prepare master forest toward soldier feel brand supreme comic turkey pear";

@@ -1,1 +1,1 @@
-var mnemonic = "cave warfare razor impulse jacket promote youth skull oppose jelly move deposit";
+var mnemonic = "pear economy swarm say globe squeeze people join shoot disorder post mirror";

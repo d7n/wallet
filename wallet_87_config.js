@@ -1,1 +1,1 @@
-var mnemonic = "cactus pool just stamp autumn album demise tragic swift picture blur urban";
+var mnemonic = "swamp ecology father giraffe recall vanish nasty wash poem force surface wheel";

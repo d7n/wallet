@@ -1,1 +1,1 @@
-var mnemonic = "clog forum adapt visual slender course print scorpion vendor chicken slight range";
+var mnemonic = "demise nation age similar food joy sudden guess wrong joke job session";

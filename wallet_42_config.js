@@ -1,1 +1,1 @@
-var mnemonic = "winter worth atom shuffle child hurt survey glow monster copper salute goddess";
+var mnemonic = "glide witness have play outdoor beauty rabbit tongue absurd pencil capital diesel";

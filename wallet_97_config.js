@@ -1,1 +1,1 @@
-var mnemonic = "brown thing find food payment into arrive humor bag bachelor person mercy";
+var mnemonic = "clown ridge apple hunt swallow legend jar kitten album receive bachelor month";

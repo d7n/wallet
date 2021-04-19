@@ -1,1 +1,1 @@
-var mnemonic = "mistake donor unlock color bench gallery game lunch multiply skate busy torch";
+var mnemonic = "hotel ride able marine connect junior unhappy meat chimney kit nurse wish";

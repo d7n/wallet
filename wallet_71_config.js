@@ -1,1 +1,1 @@
-var mnemonic = "blue speed captain sock party wedding pig rifle beyond attitude renew rival";
+var mnemonic = "step music limb steak tackle brave concert goose shoulder squirrel together lady";

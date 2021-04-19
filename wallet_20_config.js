@@ -1,1 +1,1 @@
-var mnemonic = "rain minor enter erosion warfare canal perfect vote right credit tongue enable";
+var mnemonic = "future funny annual old park rival odor marine clip travel open pool";

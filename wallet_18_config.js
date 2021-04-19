@@ -1,1 +1,1 @@
-var mnemonic = "monster direct course people aware bridge birth surround kingdom power real bacon";
+var mnemonic = "marine abandon noise coffee maid tube metal pyramid fan body blame degree";

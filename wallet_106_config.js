@@ -1,1 +1,1 @@
-var mnemonic = "magnet visual report history coffee planet someone song find fee live attitude";
+var mnemonic = "east pull change ecology fun fashion opera spot electric polar collect improve";

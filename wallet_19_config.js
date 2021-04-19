@@ -1,1 +1,1 @@
-var mnemonic = "shrug mammal assist aware shock key bridge monitor need jealous diet candy";
+var mnemonic = "cattle aware thing eyebrow denial core defense menu cabbage believe must immune";

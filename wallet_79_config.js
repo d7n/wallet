@@ -1,1 +1,1 @@
-var mnemonic = "mask surface weather hungry road awake adult young width cigar ramp inch";
+var mnemonic = "risk ivory depart lamp useful sound candy correct super curtain transfer silly";

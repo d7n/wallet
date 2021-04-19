@@ -1,1 +1,1 @@
-var mnemonic = "solve curious trigger carry naive always tunnel spike gap among busy transfer";
+var mnemonic = "soldier steel demise home umbrella escape suit tray square enlist tobacco inform";

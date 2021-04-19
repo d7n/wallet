@@ -1,1 +1,1 @@
-var mnemonic = "wasp antique vital borrow cinnamon lava man toss range gravity rebuild devote";
+var mnemonic = "fat upper faculty peanut conduct cargo wear valley snake limit market rhythm";

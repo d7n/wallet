@@ -1,1 +1,1 @@
-var mnemonic = "loyal beauty limb come human piece valid sauce summer scene impulse citizen";
+var mnemonic = "suit lamp round bone mimic float orient session label person wall bright";

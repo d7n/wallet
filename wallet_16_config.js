@@ -1,1 +1,1 @@
-var mnemonic = "consider faith unlock raven sad dog wing desert utility evoke drum vocal";
+var mnemonic = "yellow vapor angry correct symptom pole census jeans gaze symptom inside bless";

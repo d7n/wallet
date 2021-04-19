@@ -1,1 +1,1 @@
-var mnemonic = "put margin setup since welcome merry potato arena joke banana badge regret";
+var mnemonic = "journey recipe ensure salute away hood excite impact furnace gaze detail police";

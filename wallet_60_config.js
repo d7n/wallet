@@ -1,1 +1,1 @@
-var mnemonic = "version glad sugar boring hero beach relax renew kiwi swear sick cluster";
+var mnemonic = "month hair record chunk price verify dragon direct milk ripple end agree";

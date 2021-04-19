@@ -1,1 +1,1 @@
-var mnemonic = "tone desk summer crunch exotic target name copper assume broccoli cargo little";
+var mnemonic = "note shy post kit tail gadget cabbage soda surge mystery seat absent";

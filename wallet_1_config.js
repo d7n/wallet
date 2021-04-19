@@ -1,1 +1,1 @@
-var mnemonic = "scout fortune dove space dwarf jaguar mind excuse wisdom exhibit below chimney";
+var mnemonic = "appear same since regular flight know voyage shoot casino dad deposit rate";

@@ -1,1 +1,1 @@
-var mnemonic = "fan speed slim slide symbol mosquito phone space rule film save collect";
+var mnemonic = "brown slush worth property tag ecology shoe true cram method trouble skirt";

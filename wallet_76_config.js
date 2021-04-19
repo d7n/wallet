@@ -1,1 +1,1 @@
-var mnemonic = "hole negative loud change wish brisk mass solution coconut spoon barrel clerk";
+var mnemonic = "fossil lady immune august profit online ripple script man since box ancient";

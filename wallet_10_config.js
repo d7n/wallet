@@ -1,1 +1,1 @@
-var mnemonic = "around concert super force ship enter glass spike genre way fall person";
+var mnemonic = "garden chest lab tide wait orient shadow jelly fatal cotton cute spell";

@@ -1,1 +1,1 @@
-var mnemonic = "safe term digital six morning raccoon into insane print cement scorpion chair";
+var mnemonic = "surround mention found start excess desert satisfy elephant rifle crawl fish enter";

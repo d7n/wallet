@@ -1,1 +1,1 @@
-var mnemonic = "citizen misery polar opera stand provide web chair voyage aware still charge";
+var mnemonic = "lounge garbage isolate lottery note effort federal tonight remember dawn analyst move";

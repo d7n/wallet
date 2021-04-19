@@ -1,1 +1,1 @@
-var mnemonic = "girl embody umbrella manual leave term list gun meadow noise maple huge";
+var mnemonic = "cabin uphold nothing dizzy clean visa true evidence assist language verb shift";

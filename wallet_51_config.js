@@ -1,1 +1,1 @@
-var mnemonic = "chronic layer cradle shop flip axis welcome involve thing angry loop lab";
+var mnemonic = "awful shield stage hard spice radar salt fit lab girl penalty unusual";

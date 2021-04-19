@@ -1,1 +1,1 @@
-var mnemonic = "travel under sport direct blood grit useless jungle gesture safe bid wolf";
+var mnemonic = "visit gloom cigar sick keep action oven title slim color blouse cinnamon";

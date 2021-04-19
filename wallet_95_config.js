@@ -1,1 +1,1 @@
-var mnemonic = "system forget scare educate almost monkey you clip much scrap desk scrap";
+var mnemonic = "figure obtain immense side minute episode confirm wet hello clown foot also";

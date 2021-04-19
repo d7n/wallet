@@ -1,1 +1,1 @@
-var mnemonic = "nuclear account nice cactus photo net normal stick hub sentence rifle betray";
+var mnemonic = "rescue cable fog junk announce dish welcome setup banner high estate code";

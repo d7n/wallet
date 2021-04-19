@@ -1,1 +1,1 @@
-var mnemonic = "wheel orient divide inner question blade uncle pear few name account also";
+var mnemonic = "short law token screen glue rabbit vessel warm multiply delay explain speak";
