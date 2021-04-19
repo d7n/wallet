@@ -1,1 +1,1 @@
-var mnemonic = "become iron swap trust promote west cash jelly uncle stereo obtain myself";
+var mnemonic = "memory clinic display correct chase twice alter drop type kitten question park";

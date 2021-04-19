@@ -1,1 +1,1 @@
-var mnemonic = "battle office blossom cat input camp total put squirrel layer female imitate";
+var mnemonic = "gap wrist cart level village remember abandon fortune tilt comfort royal chat";

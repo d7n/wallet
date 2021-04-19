@@ -1,1 +1,1 @@
-var mnemonic = "glory luxury boil produce hotel vast enlist team movie rookie clutch wise";
+var mnemonic = "knee view cover round client link jacket list solve lawsuit sword furnace";

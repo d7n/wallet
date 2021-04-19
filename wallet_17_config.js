@@ -1,1 +1,1 @@
-var mnemonic = "list bargain muffin silk bird summer sport neglect choose hip fuel type";
+var mnemonic = "cradle mistake broken method ocean inner camera area learn payment hour naive";

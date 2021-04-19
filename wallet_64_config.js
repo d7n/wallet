@@ -1,1 +1,1 @@
-var mnemonic = "brave crumble pen wrap risk term element shock imitate crazy across start";
+var mnemonic = "silver wife essence exhaust enlist connect inflict tuition simple seek devote link";

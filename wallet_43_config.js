@@ -1,1 +1,1 @@
-var mnemonic = "goat arch often agent empower swing indoor badge punch museum case abandon";
+var mnemonic = "basket addict wealth waste nice praise door convince morning culture crush reform";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost smart warrior laptop super delay liar spare lucky game drill damp";
+var mnemonic = "trigger glow dice tiger rare news anxiety replace butter fee hybrid vote";

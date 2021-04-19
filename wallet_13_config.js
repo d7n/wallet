@@ -1,1 +1,1 @@
-var mnemonic = "oven rather cream title nature seven grief open room negative carbon panda";
+var mnemonic = "pipe sock antenna kidney rifle dolphin wreck refuse unfold chaos seek grow";

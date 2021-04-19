@@ -1,1 +1,1 @@
-var mnemonic = "cost chair assume praise armed ostrich arrow equip poet deposit there inflict";
+var mnemonic = "select cube alcohol daughter coast measure clutch rocket hen mail gallery doctor";

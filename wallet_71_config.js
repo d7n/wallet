@@ -1,1 +1,1 @@
-var mnemonic = "scatter camera sausage bird pudding name trick attitude unknown derive shaft gift";
+var mnemonic = "vapor season roast segment pretty nerve execute double people tackle journey daring";

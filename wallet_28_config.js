@@ -1,1 +1,1 @@
-var mnemonic = "vessel raw siege jar slide pear vivid pistol virus recycle main design";
+var mnemonic = "joy spell shock other castle token weekend fuel tilt cash kid clay";

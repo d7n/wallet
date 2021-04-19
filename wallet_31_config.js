@@ -1,1 +1,1 @@
-var mnemonic = "pact suit fire square view toast shadow awesome stereo danger matter frost";
+var mnemonic = "matter dynamic piece bicycle gift latin crew artist chase ecology valid talk";

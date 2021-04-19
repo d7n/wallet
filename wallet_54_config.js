@@ -1,1 +1,1 @@
-var mnemonic = "flame program beef ski aunt fine guide toast prefer pizza goat habit";
+var mnemonic = "grain shy cart remember upon ticket twice knife guess permit deposit annual";

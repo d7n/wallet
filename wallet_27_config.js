@@ -1,1 +1,1 @@
-var mnemonic = "joke field maple swap this ensure cousin ankle candy warm seminar team";
+var mnemonic = "grow come holiday luxury exact hawk fit skill city awake layer say";

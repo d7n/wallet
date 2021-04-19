@@ -1,1 +1,1 @@
-var mnemonic = "coral rotate turn ordinary stadium dress glue magic tube usual royal have";
+var mnemonic = "upper cause neither figure alert summer mistake frame sun prize island security";

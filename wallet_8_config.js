@@ -1,1 +1,1 @@
-var mnemonic = "cricket hurt bunker pair cart desk super beach husband peanut steak ship";
+var mnemonic = "odor wide race master maid pencil swim vicious box fix flight connect";

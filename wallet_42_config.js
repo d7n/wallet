@@ -1,1 +1,1 @@
-var mnemonic = "century obey false strong limit hybrid easily strike blue odor nest shield";
+var mnemonic = "manage wreck choice tiny raise random promote foam usage destroy suspect joy";

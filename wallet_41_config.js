@@ -1,1 +1,1 @@
-var mnemonic = "blame cricket slice resemble festival skull blossom feed place notable drive gospel";
+var mnemonic = "renew glass learn sand vehicle notice culture illness favorite coconut artefact danger";

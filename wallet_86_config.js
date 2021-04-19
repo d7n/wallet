@@ -1,1 +1,1 @@
-var mnemonic = "kitchen artist capital once bike giraffe sleep twelve taste absent decorate eight";
+var mnemonic = "small extra sock powder axis wedding consider camera slab leg daughter sad";

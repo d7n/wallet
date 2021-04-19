@@ -1,1 +1,1 @@
-var mnemonic = "vacuum walk rescue more misery bacon multiply pink live edge kitchen fiction";
+var mnemonic = "sugar auto ask love toast now copy agent library consider reason blush";

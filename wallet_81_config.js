@@ -1,1 +1,1 @@
-var mnemonic = "bone victory legal deliver kite orient sure enable bicycle notable security deliver";
+var mnemonic = "swallow turkey tired pony youth uphold swing group estate keen suffer spy";

@@ -1,1 +1,1 @@
-var mnemonic = "flip matrix spring climb survey pear uncle curious cross suffer crowd flee";
+var mnemonic = "nasty giggle spawn achieve inner lamp squeeze owner donkey obey ocean keep";

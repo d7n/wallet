@@ -1,1 +1,1 @@
-var mnemonic = "dress wedding seven recipe inner thrive patrol table deer symbol veteran churn";
+var mnemonic = "explain meadow drop salmon decrease minimum cup west mass issue decline print";

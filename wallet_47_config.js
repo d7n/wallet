@@ -1,1 +1,1 @@
-var mnemonic = "swim advance thank empty cool evil view weird strategy insane noise dolphin";
+var mnemonic = "grass aware erupt prison grocery ancient there client pill brown differ stem";

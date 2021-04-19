@@ -1,1 +1,1 @@
-var mnemonic = "squeeze battle lift eager insane famous room inch mobile vessel cupboard embrace";
+var mnemonic = "dizzy tackle labor strong viable design trip letter senior excite coil account";

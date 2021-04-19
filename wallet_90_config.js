@@ -1,1 +1,1 @@
-var mnemonic = "fan brief hint ticket nominee trumpet puppy elite waste bench jeans furnace";
+var mnemonic = "wasp display devote wise ghost peasant twice video raise visa frame eternal";

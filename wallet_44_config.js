@@ -1,1 +1,1 @@
-var mnemonic = "flip total item never recycle penalty income master tongue surge dolphin loud";
+var mnemonic = "delay forest wink leg food together clown pyramid stereo lend fat middle";

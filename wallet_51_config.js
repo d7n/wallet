@@ -1,1 +1,1 @@
-var mnemonic = "sting wealth zone dust piano position target again office embark february father";
+var mnemonic = "unfair proud mercy elegant amount grant current huge ladder wage observe swallow";

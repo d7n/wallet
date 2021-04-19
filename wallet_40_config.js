@@ -1,1 +1,1 @@
-var mnemonic = "wear pelican polar master state copper soft rule hill among will mansion";
+var mnemonic = "guilt square favorite wife long rocket brick flee crunch slot start medal";

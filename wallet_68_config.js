@@ -1,1 +1,1 @@
-var mnemonic = "supply decide illegal rubber syrup already category sword play crew arctic return";
+var mnemonic = "forget time shift describe pencil usual cable frame wealth elder cruel erase";

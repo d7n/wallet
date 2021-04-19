@@ -1,1 +1,1 @@
-var mnemonic = "famous piano segment orange rigid tell mention toddler level dirt island trap";
+var mnemonic = "venture load pitch tongue check inherit insect fame iron air develop main";

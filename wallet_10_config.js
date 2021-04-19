@@ -1,1 +1,1 @@
-var mnemonic = "universe myself wisdom steak echo ridge hamster skin six tired slim near";
+var mnemonic = "front medal sad record shock joke express phrase occur merit shrimp result";

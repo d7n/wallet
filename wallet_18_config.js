@@ -1,1 +1,1 @@
-var mnemonic = "better unable boy stand lab include club erode razor afford dolphin exclude";
+var mnemonic = "aim execute burden scorpion end pause toy left debris sound hint cradle";

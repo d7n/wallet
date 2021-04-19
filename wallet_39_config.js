@@ -1,1 +1,1 @@
-var mnemonic = "traffic thank toy inquiry neither endless attitude hole indicate core umbrella oval";
+var mnemonic = "profit kind pact donate cabbage rubber hand elder panic picnic fever glue";

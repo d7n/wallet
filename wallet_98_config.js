@@ -1,1 +1,1 @@
-var mnemonic = "pulp weird clutch pumpkin romance gravity lift solve pepper photo despair prevent";
+var mnemonic = "valve bench state foster thunder forget tonight truth glance goddess salt affair";

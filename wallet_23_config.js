@@ -1,1 +1,1 @@
-var mnemonic = "noodle guitar climb home slush narrow opera winner ski duty egg rich";
+var mnemonic = "tribe beef expect ankle blame dice minute risk banner ketchup good change";

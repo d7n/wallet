@@ -1,1 +1,1 @@
-var mnemonic = "plastic buffalo street blame dance soon current view mule enrich decorate track";
+var mnemonic = "negative spice night elephant ten label flower direct title leaf umbrella bike";

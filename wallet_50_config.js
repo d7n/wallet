@@ -1,1 +1,1 @@
-var mnemonic = "vacuum write glove also wreck rather aunt chunk drastic cliff spoil say";
+var mnemonic = "finish rookie unit turtle rural lawn dream regular clog skull repeat tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic permit among control retreat wing enact flame relief faculty shaft year";
+var mnemonic = "hair slow vast quick merge nice tone ticket amazing custom invest view";

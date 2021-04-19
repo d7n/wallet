@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pelican speed dream quiz tired among silly beef trumpet mother kind";
+var mnemonic = "deposit struggle bone imitate put couple rhythm aisle delay jealous coin air";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet initial fame entry ill grief tenant reunion sight exist hotel pistol";
+var mnemonic = "still predict orchard laptop cook alert only cereal this escape agent fire";

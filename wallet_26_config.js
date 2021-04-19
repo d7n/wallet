@@ -1,1 +1,1 @@
-var mnemonic = "tooth other clump merge gift medal lumber shell trouble umbrella soda gap";
+var mnemonic = "marble problem boring whale addict exotic custom favorite love milk lunar warm";

@@ -1,1 +1,1 @@
-var mnemonic = "balance tongue alley swing fix antenna arch accident march jeans lawn peanut";
+var mnemonic = "blind scene early human height pigeon there combine expire minute toe similar";

@@ -1,1 +1,1 @@
-var mnemonic = "guess digital right try evoke entry life card visit couple neither vacant";
+var mnemonic = "drill earth admit ladder bleak spoon spatial square brand noble boring clerk";

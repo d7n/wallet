@@ -1,1 +1,1 @@
-var mnemonic = "process cook crisp cinnamon shift notice wire slush rigid merit vacant own";
+var mnemonic = "someone turtle antenna square million goddess apology monitor fun egg spin surface";

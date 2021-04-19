@@ -1,1 +1,1 @@
-var mnemonic = "february vanish obvious trust normal rigid flavor color decide multiply breeze spawn";
+var mnemonic = "inner marriage inquiry urban kidney human rather machine measure nurse produce critic";

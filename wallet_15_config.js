@@ -1,1 +1,1 @@
-var mnemonic = "shaft drift beef erode ticket cover barrel snake sport cloth forum distance";
+var mnemonic = "robot dolphin beauty gift fee render impose violin you dumb celery remove";

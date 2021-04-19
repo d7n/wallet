@@ -1,1 +1,1 @@
-var mnemonic = "ritual spray mosquito scale social forget comic crawl among they version connect";
+var mnemonic = "sport ladder fantasy tenant thought lady hobby tiny lumber lift analyst verb";

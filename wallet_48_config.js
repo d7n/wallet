@@ -1,1 +1,1 @@
-var mnemonic = "wire disagree couch blanket human harsh group latin broken fine fancy quiz";
+var mnemonic = "settle blanket push donate salad sketch rate tide uniform announce small oyster";

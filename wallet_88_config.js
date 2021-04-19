@@ -1,1 +1,1 @@
-var mnemonic = "utility luxury tonight vendor snake brain surround chunk fortune actor kind clarify";
+var mnemonic = "weather debris market around scorpion wear deliver elder husband trade next surprise";

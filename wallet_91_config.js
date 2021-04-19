@@ -1,1 +1,1 @@
-var mnemonic = "lift close hotel wrist mom giant solution crowd anger repeat inside vacuum";
+var mnemonic = "person slam okay senior cloud evidence umbrella door cancel immense only ring";

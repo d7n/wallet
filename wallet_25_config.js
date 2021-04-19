@@ -1,1 +1,1 @@
-var mnemonic = "tail chunk humble poet subway someone junk distance husband viable hole office";
+var mnemonic = "mansion bar fork medal prefer tornado father ancient off harsh attack gorilla";

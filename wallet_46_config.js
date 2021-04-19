@@ -1,1 +1,1 @@
-var mnemonic = "anchor donor eight tragic slender heart win mix distance wisdom zone trouble";
+var mnemonic = "version vibrant fence ring earth input team high axis toss add saddle";

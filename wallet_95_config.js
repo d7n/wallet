@@ -1,1 +1,1 @@
-var mnemonic = "entry play accident toddler ten rack exact miss visa service fee salt";
+var mnemonic = "foot crystal much sell clinic hurdle marine opinion kick attend ten blast";

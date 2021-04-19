@@ -1,1 +1,1 @@
-var mnemonic = "sell regular grid until crop fox captain blood minute nature spoon require";
+var mnemonic = "bid dove spice fog media area target version ocean penalty race glide";

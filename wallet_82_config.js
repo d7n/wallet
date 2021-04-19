@@ -1,1 +1,1 @@
-var mnemonic = "suggest funny melody until scan marine side rely uphold exile tragic find";
+var mnemonic = "core regular wealth source capital panda chair large force tiny cruise city";

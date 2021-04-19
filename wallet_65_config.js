@@ -1,1 +1,1 @@
-var mnemonic = "zone opinion mutual bargain about bulk firm food young laptop primary unusual";
+var mnemonic = "shoot skirt whale slogan profit cake owner now size civil kangaroo option";

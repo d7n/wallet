@@ -1,1 +1,1 @@
-var mnemonic = "planet awake unfold junk evil inspire huge donor echo help doctor hobby";
+var mnemonic = "web sleep excess bronze purse whale noble symptom piano carbon heart tuna";

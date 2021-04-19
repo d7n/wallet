@@ -1,1 +1,1 @@
-var mnemonic = "walnut bargain cross enlist combine filter broccoli ride this wife load release";
+var mnemonic = "crunch cage miss improve two between brass immense end dentist palace pet";

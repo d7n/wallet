@@ -1,1 +1,1 @@
-var mnemonic = "smoke vanish six wise barely spy embark say gift require stairs pudding";
+var mnemonic = "dry fence frozen crew city mad tip gate cabbage spread outdoor jaguar";

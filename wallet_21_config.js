@@ -1,1 +1,1 @@
-var mnemonic = "legal cupboard enough embark lion eyebrow garage spray reform engage stay sister";
+var mnemonic = "industry barrel hello crater review reduce manage track announce arena obey casual";

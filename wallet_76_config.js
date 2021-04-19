@@ -1,1 +1,1 @@
-var mnemonic = "orchard maple welcome vendor eternal buzz scrub front congress velvet emerge brief";
+var mnemonic = "chunk collect duty crowd require diamond initial maximum staff devote evolve drum";

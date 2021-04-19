@@ -1,1 +1,1 @@
-var mnemonic = "goddess rich bone where between funny insane acid squeeze buddy curious runway";
+var mnemonic = "gesture imitate humble vital earn coil evoke armor cat glare fever common";

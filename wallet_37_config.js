@@ -1,1 +1,1 @@
-var mnemonic = "goddess permit brush quantum behave argue host capital reform patch sun riot";
+var mnemonic = "news frost profit unaware peasant indicate world frog bargain aware slim rival";

@@ -1,1 +1,1 @@
-var mnemonic = "olive cause treat foam power inject pitch during first coast license village";
+var mnemonic = "aware total excess bronze hole enable zone life project daughter fancy cover";

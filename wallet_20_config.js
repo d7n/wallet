@@ -1,1 +1,1 @@
-var mnemonic = "bounce carpet entire muscle enhance doll ceiling daughter auto ask zone frozen";
+var mnemonic = "brother lizard recipe purchase gadget rally share document silly fury mansion jeans";

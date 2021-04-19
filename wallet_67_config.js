@@ -1,1 +1,1 @@
-var mnemonic = "physical wheat gasp skate job material scrub become era hero mimic venue";
+var mnemonic = "vast slot settle twelve cement verify great movie imitate coach ill shove";

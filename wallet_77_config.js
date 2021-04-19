@@ -1,1 +1,1 @@
-var mnemonic = "divide harsh wage worry benefit flight subway copper parade slot hard kitten";
+var mnemonic = "distance food scrap margin margin alpha any faith inject hero fork celery";

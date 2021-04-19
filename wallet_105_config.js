@@ -1,1 +1,1 @@
-var mnemonic = "skill pony gorilla fun patient wise pudding rich layer foam portion ahead";
+var mnemonic = "regular media route leg cannon whisper peace dizzy scene jeans beef cart";

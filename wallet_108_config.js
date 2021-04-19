@@ -1,1 +1,1 @@
-var mnemonic = "snake volume slot combine street best lawsuit pear rifle edge puzzle situate";
+var mnemonic = "flock arena coach earth portion roast toy detect father hidden tuna tortoise";

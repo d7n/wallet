@@ -1,1 +1,1 @@
-var mnemonic = "motor rare scout large joy winter buddy chapter battle ill trigger hard";
+var mnemonic = "pulp fury ribbon lizard federal hurt cook cost hold spell tide people";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic math reveal couch lucky city joy soda attack zoo shield outer";
+var mnemonic = "festival dynamic vessel alone alley high juice young summer pencil swing lion";

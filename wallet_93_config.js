@@ -1,1 +1,1 @@
-var mnemonic = "easily erupt always pool prefer piece drink entire suit tail wave eye";
+var mnemonic = "renew cigar arrive swing example mystery floor abstract stereo size skin indoor";

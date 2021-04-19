@@ -1,1 +1,1 @@
-var mnemonic = "afraid sunny coyote mesh orchard lady patient shock chief supreme chuckle stone";
+var mnemonic = "sport milk angle misery only educate deputy symbol there flip record blossom";

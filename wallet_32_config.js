@@ -1,1 +1,1 @@
-var mnemonic = "fee travel crouch seed inspire sand assume fish village quarter hero main";
+var mnemonic = "middle stairs corn divert typical duty where cannon dial mandate forward kiss";

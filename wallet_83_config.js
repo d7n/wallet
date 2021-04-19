@@ -1,1 +1,1 @@
-var mnemonic = "lonely shed move record biology hawk north album rabbit grant screen child";
+var mnemonic = "retire dawn joke window right whisper object ankle climb era cotton plunge";

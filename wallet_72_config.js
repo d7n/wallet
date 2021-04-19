@@ -1,1 +1,1 @@
-var mnemonic = "cup dress true demand robot snow pink guard adult room trick punch";
+var mnemonic = "eyebrow clip wreck again there trade deposit chuckle forward assault abandon often";

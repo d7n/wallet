@@ -1,1 +1,1 @@
-var mnemonic = "disorder path tag essence service stem enact ugly oblige hip enhance flag";
+var mnemonic = "resource injury clinic century side dune quarter title summer merge maid skirt";

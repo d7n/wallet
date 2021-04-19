@@ -1,1 +1,1 @@
-var mnemonic = "mechanic erode comic popular famous oyster skull icon walk impulse point crime";
+var mnemonic = "welcome olympic pledge crucial fragile pony song venture danger update loyal velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor filter trash twelve south come unfair helmet appear avoid album capable";
+var mnemonic = "dial camera mesh own kick multiply cushion blue citizen loud vast breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel eternal hurry shoe voice agent plunge truck strike arm subject engine";
+var mnemonic = "sting busy exercise economy push session mushroom rocket slush leisure approve gospel";

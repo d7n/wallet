@@ -1,1 +1,1 @@
-var mnemonic = "alone comfort dose attitude company giant humble gown trash stable congress atom";
+var mnemonic = "shrug exchange fancy click smooth never danger buffalo oven melody hip clown";

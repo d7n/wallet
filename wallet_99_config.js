@@ -1,1 +1,1 @@
-var mnemonic = "combine make assault hood matter faculty pattern glance lamp puzzle wide priority";
+var mnemonic = "gold broom trumpet supreme surround fame helmet glare narrow old hill sugar";

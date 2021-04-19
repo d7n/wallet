@@ -1,1 +1,1 @@
-var mnemonic = "crime around curve basket pigeon calm pumpkin april want balance skill upper";
+var mnemonic = "seminar action ski valley stomach cereal west renew rocket tray police design";

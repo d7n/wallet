@@ -1,1 +1,1 @@
-var mnemonic = "shock fan man anger assist child input reflect stone ten fun domain";
+var mnemonic = "ceiling reject vendor cupboard start sphere muscle same frozen round surprise runway";
