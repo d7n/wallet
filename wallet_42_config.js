@@ -1,1 +1,1 @@
-var mnemonic = "scrap antique flat evolve never often orange credit plate odor upper open";
+var mnemonic = "huge frame believe find speak then next weasel weekend supreme level fit";

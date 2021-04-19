@@ -1,1 +1,1 @@
-var mnemonic = "sibling knife sugar jacket banana stumble pulse perfect spider dizzy pyramid lobster";
+var mnemonic = "actress lecture hammer simple kind teach miracle tenant jacket shaft swing hello";

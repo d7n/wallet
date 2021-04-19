@@ -1,1 +1,1 @@
-var mnemonic = "alpha thank eyebrow embark horror drop mule ensure spray text execute ostrich";
+var mnemonic = "trigger actual devote surround multiply stumble dignity dance ecology arch trophy snow";

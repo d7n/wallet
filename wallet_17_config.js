@@ -1,1 +1,1 @@
-var mnemonic = "town bullet magic insect blame bid upon fetch coffee beyond bomb govern";
+var mnemonic = "gown finish purpose subject tape certain orient about parade bamboo only labor";

@@ -1,1 +1,1 @@
-var mnemonic = "piece patch syrup rough neither flock tribe hole brush normal rack photo";
+var mnemonic = "inquiry banana travel tag symptom excess accident balance whisper pelican pink sheriff";

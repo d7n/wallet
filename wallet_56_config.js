@@ -1,1 +1,1 @@
-var mnemonic = "leader mansion finger cruel novel bottom there make salad unfold benefit price";
+var mnemonic = "brisk goose soccer bring margin fossil fly lyrics drop oven age morning";

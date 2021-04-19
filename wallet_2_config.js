@@ -1,1 +1,1 @@
-var mnemonic = "favorite gift indoor duty opera cereal satoshi magnet option amused planet permit";
+var mnemonic = "million path law spy check success expire zero retreat title jump client";

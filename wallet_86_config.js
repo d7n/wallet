@@ -1,1 +1,1 @@
-var mnemonic = "desk cost outside project army lady ship chest share tiny rally noble";
+var mnemonic = "clever price flee praise virtual alert prison flash antique alien media chimney";

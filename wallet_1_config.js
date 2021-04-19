@@ -1,1 +1,1 @@
-var mnemonic = "impact weekend piano thrive spot chicken together quick obey air march used";
+var mnemonic = "list write outdoor fee erupt lizard head guilt calm mix inherit buddy";

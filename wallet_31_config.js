@@ -1,1 +1,1 @@
-var mnemonic = "seek balcony spoil mule fan flip lab bachelor carry require sing quantum";
+var mnemonic = "amused install nurse shop make okay notable remain celery private core pudding";

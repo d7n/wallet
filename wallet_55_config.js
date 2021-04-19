@@ -1,1 +1,1 @@
-var mnemonic = "clutch calm venue settle mixed alpha smile cry sunset mobile hotel enable";
+var mnemonic = "cabin wink disease wide soft soup motor slush absurd mango february play";

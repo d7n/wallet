@@ -1,1 +1,1 @@
-var mnemonic = "detail spell bid lawn stereo type century blush turn middle defense giant";
+var mnemonic = "tent upset illness soup dove diagram dance ill upgrade injury plastic visit";

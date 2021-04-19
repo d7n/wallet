@@ -1,1 +1,1 @@
-var mnemonic = "refuse paper ranch caught wrong case pizza connect second enrich slender version";
+var mnemonic = "grow welcome risk february follow raw damp dinner path panther best rely";

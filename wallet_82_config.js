@@ -1,1 +1,1 @@
-var mnemonic = "strike sick race find simple exist this tilt know situate stadium give";
+var mnemonic = "leisure million uncover select tissue joy edit wire arrange album attend steel";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort term bargain use brand nation claim venture naive kick orient diagram";
+var mnemonic = "pet cousin jazz ride pigeon office tribe toilet cool achieve rifle slush";

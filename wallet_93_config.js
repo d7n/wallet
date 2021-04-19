@@ -1,1 +1,1 @@
-var mnemonic = "afford nature spider cave wolf business ski silly comic jazz sponsor library";
+var mnemonic = "army matrix leader pull woman awake caught depart leopard problem move outdoor";

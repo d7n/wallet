@@ -1,1 +1,1 @@
-var mnemonic = "skirt mirror easily hen snack fresh army mechanic prefer bright rich rude";
+var mnemonic = "chaos left other swarm west fatigue grant army produce candy swarm replace";

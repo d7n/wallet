@@ -1,1 +1,1 @@
-var mnemonic = "hover giant caught later skirt swing improve chuckle wheel slogan february purpose";
+var mnemonic = "gasp solid absent offer wave club face direct distance radar paper either";

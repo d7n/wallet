@@ -1,1 +1,1 @@
-var mnemonic = "tragic promote symbol license cushion winter job shield capable inject thumb east";
+var mnemonic = "toilet happy fitness soap example about frame coil awesome carpet canoe put";

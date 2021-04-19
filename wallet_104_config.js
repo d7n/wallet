@@ -1,1 +1,1 @@
-var mnemonic = "master width walnut reject company assume rent hill clever accident open bulb";
+var mnemonic = "theme page under dream soccer fruit hybrid twin keep warfare width tobacco";

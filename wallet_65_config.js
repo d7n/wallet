@@ -1,1 +1,1 @@
-var mnemonic = "city chief goose dutch spot night bubble crazy gospel horn axis dutch";
+var mnemonic = "refuse sentence today slot advice bacon scrap indicate enjoy frown cable lab";

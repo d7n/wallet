@@ -1,1 +1,1 @@
-var mnemonic = "rigid twelve celery kick arrest bullet ketchup tube around wine cabin symptom";
+var mnemonic = "lesson drum lift silk spend fury arena million crack extend beach alert";

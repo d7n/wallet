@@ -1,1 +1,1 @@
-var mnemonic = "symbol easily critic usage quit dismiss ranch daughter start obtain diet cradle";
+var mnemonic = "build portion jacket cloth nurse trade squirrel welcome fault float call chapter";

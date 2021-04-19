@@ -1,1 +1,1 @@
-var mnemonic = "repair planet include ripple exact above bridge become matter battle dice caught";
+var mnemonic = "churn exercise powder betray convince rubber invest sunset rare aisle demand exchange";

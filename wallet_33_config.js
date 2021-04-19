@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow conduct under genuine interest kitchen ocean primary job any judge eye";
+var mnemonic = "situate steel cake video smoke wage poverty maze admit true century cute";

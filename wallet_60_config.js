@@ -1,1 +1,1 @@
-var mnemonic = "shove song tell cycle impulse library barrel jacket oval poet collect bulk";
+var mnemonic = "coast mirror flat grain mechanic sword retreat glare pet clever kite consider";

@@ -1,1 +1,1 @@
-var mnemonic = "casino wise ancient ginger traffic mix choose dragon drop wet invest glance";
+var mnemonic = "deliver business choice mom hour follow okay robust web skull simple mansion";

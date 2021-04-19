@@ -1,1 +1,1 @@
-var mnemonic = "letter such gauge sword youth dash subway imitate injury chunk version ocean";
+var mnemonic = "music cradle inflict coast inquiry poet slot drill lecture topple leader tent";

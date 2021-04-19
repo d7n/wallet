@@ -1,1 +1,1 @@
-var mnemonic = "just husband burst social dizzy panther movie silk latin average test quantum";
+var mnemonic = "blue stomach boy wealth frost castle split differ autumn jeans elite armor";

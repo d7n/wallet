@@ -1,1 +1,1 @@
-var mnemonic = "truly extra merry tilt blur scheme gadget galaxy pledge illness donkey imitate";
+var mnemonic = "awkward drift decrease style early video lawn roof weasel van initial supreme";

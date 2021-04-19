@@ -1,1 +1,1 @@
-var mnemonic = "youth file man shiver punch typical ugly permit matrix sense toward shell";
+var mnemonic = "patrol day differ voyage code man depend syrup lounge nasty roast swap";

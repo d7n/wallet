@@ -1,1 +1,1 @@
-var mnemonic = "depend common mom maximum sniff science host enroll into wish brass kite";
+var mnemonic = "miss bind brush tunnel become want off retire erode smoke curtain produce";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor assume toward enhance foil verify guard device emotion entry client fashion";
+var mnemonic = "tennis key follow exhibit mosquito sport squeeze east tiny grow flight ecology";

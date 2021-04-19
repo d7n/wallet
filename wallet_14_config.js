@@ -1,1 +1,1 @@
-var mnemonic = "advice prepare garden record fabric float chief movie track monkey garden put";
+var mnemonic = "now spare solve idea dinner squirrel duty glove jar turkey head lesson";

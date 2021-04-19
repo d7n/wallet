@@ -1,1 +1,1 @@
-var mnemonic = "charge update grant math copper produce anxiety razor invest loan rebel barely";
+var mnemonic = "interest faculty example shop elegant gravity pupil useful history hospital wolf friend";

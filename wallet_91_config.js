@@ -1,1 +1,1 @@
-var mnemonic = "decide blush snow swap crew science crouch mixture type depend festival awful";
+var mnemonic = "vessel position pulp beach spider excuse slam fitness sister next analyst remind";

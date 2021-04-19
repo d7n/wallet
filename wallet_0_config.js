@@ -1,1 +1,1 @@
-var mnemonic = "obvious chronic rigid jaguar burst mystery hint swap curve visit buffalo chunk";
+var mnemonic = "glimpse glove hole survey liar acid glad music ill network ball swap";

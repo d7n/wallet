@@ -1,1 +1,1 @@
-var mnemonic = "cluster hold wagon viable achieve agree dove cruise author mother decline marine";
+var mnemonic = "boil drama reopen hammer educate shrug people depart polar void unusual work";

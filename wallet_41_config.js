@@ -1,1 +1,1 @@
-var mnemonic = "earth fresh belt much slab aerobic answer strong pledge awesome dog shrimp";
+var mnemonic = "crucial ozone pigeon swim ability midnight twist news jar shuffle setup select";

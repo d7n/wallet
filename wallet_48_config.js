@@ -1,1 +1,1 @@
-var mnemonic = "elder occur where fall twin wonder outer dune moral before legal oval";
+var mnemonic = "labor chuckle inmate athlete famous begin junior toddler evil melt illness special";

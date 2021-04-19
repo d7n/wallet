@@ -1,1 +1,1 @@
-var mnemonic = "ensure stadium flock prevent pipe sentence web agree ride black palm lobster";
+var mnemonic = "ivory drum nasty interest kind verify myself olive fan love swear rice";

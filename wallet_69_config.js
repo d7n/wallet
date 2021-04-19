@@ -1,1 +1,1 @@
-var mnemonic = "assume describe section change large innocent chaos tumble orange plunge armor solve";
+var mnemonic = "index tongue praise orphan van purse argue embrace earth bid off prevent";

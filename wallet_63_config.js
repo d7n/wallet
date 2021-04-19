@@ -1,1 +1,1 @@
-var mnemonic = "ladder bus street enough sponsor task virus dog sweet letter clean umbrella";
+var mnemonic = "mind domain album toast almost ability blame worth play silly kiss math";

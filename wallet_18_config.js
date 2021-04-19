@@ -1,1 +1,1 @@
-var mnemonic = "weather shadow word elbow distance spare wire fever battle advance answer inform";
+var mnemonic = "roast file wood call hawk catch menu entry breeze celery puzzle opera";

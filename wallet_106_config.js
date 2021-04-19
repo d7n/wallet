@@ -1,1 +1,1 @@
-var mnemonic = "vivid force inform surface loud middle gun creek artist soccer resist network";
+var mnemonic = "woman search never man ski limit exact child bless volume screen own";

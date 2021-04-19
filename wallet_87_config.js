@@ -1,1 +1,1 @@
-var mnemonic = "puppy sick reduce you brother jewel drama dumb witness actor jazz drink";
+var mnemonic = "price online point ask like erode shy conduct kite hover solid betray";

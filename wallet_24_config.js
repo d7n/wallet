@@ -1,1 +1,1 @@
-var mnemonic = "slush hobby small ethics awkward crawl attitude move enable seed casual audit";
+var mnemonic = "tuition alley dutch observe rigid supply jacket issue armed poet brick pause";

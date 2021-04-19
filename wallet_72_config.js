@@ -1,1 +1,1 @@
-var mnemonic = "dress permit aunt number uniform circle another credit journey cost voyage blouse";
+var mnemonic = "autumn boat size pair route labor jewel number throw blue gentle town";

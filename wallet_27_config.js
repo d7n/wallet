@@ -1,1 +1,1 @@
-var mnemonic = "tube math abandon seat end toy essence divide ordinary thought either razor";
+var mnemonic = "approve blind front income fence address hundred prepare process differ lazy culture";

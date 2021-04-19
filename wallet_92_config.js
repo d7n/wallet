@@ -1,1 +1,1 @@
-var mnemonic = "valid anxiety kiwi have group easy pioneer huge paper alpha market giggle";
+var mnemonic = "lizard busy pen paper public captain seat woman scale drive magic acid";

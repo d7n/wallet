@@ -1,1 +1,1 @@
-var mnemonic = "furnace come struggle clean city cabbage figure great digital satisfy bench grab";
+var mnemonic = "carpet avocado conduct jump trumpet squirrel tennis hover typical mushroom curtain example";

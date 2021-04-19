@@ -1,1 +1,1 @@
-var mnemonic = "nominee simple script orange rather nice open evidence curious number merge valid";
+var mnemonic = "sea floor benefit either avoid awkward tornado supreme width face slam bar";

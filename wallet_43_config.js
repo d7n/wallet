@@ -1,1 +1,1 @@
-var mnemonic = "gossip shrimp guess alcohol enhance leisure law pink deny leader opinion trumpet";
+var mnemonic = "entire outdoor inform path cheap thrive potato render notable brush lemon such";

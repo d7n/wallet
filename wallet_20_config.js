@@ -1,1 +1,1 @@
-var mnemonic = "wood pitch large actual human popular erode modify noble prize pond unveil";
+var mnemonic = "square depart predict coin differ volume public fiction change sadness grief tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "because again mask cat road sleep sugar upset proof country fan donkey";
+var mnemonic = "car frown total seek royal belt tent renew birth vendor fiscal mutual";

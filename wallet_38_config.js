@@ -1,1 +1,1 @@
-var mnemonic = "deputy soda math kid expose segment will solid crater spot catalog hollow";
+var mnemonic = "keep merit you olympic wage song firm toy where follow alley sea";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle across quiz sense lab fine above elbow name sustain exist armor";
+var mnemonic = "exchange broom canal robot funny combine consider coin toast outdoor twin field";

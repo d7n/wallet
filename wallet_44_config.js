@@ -1,1 +1,1 @@
-var mnemonic = "pill summer half bright snow pair offer student resemble rule certain final";
+var mnemonic = "coral cargo pony pull crazy veteran found coral make lawsuit echo scissors";

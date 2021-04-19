@@ -1,1 +1,1 @@
-var mnemonic = "oblige human garbage labor insect mix cheese base deny social month spatial";
+var mnemonic = "lunar kangaroo pioneer cruise vicious mobile sell episode solar lawsuit asset curtain";

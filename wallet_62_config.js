@@ -1,1 +1,1 @@
-var mnemonic = "limb ozone slow combine empower anxiety pencil test library spot essence swing";
+var mnemonic = "attack view series science check snap ten shift raccoon genre chunk soft";

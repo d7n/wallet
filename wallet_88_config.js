@@ -1,1 +1,1 @@
-var mnemonic = "basket uncle bundle setup grab diamond travel matrix express blanket army celery";
+var mnemonic = "amount absent depend inside fork female core negative task crack fetch property";

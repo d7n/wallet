@@ -1,1 +1,1 @@
-var mnemonic = "impact shoot tent soap profit chef trim enhance tone trap love execute";
+var mnemonic = "motion capable master solve glow sustain firm welcome rent junior physical stage";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform basic wave author wife slot stand limit jazz clap team bridge";
+var mnemonic = "blanket tuition glass bounce steel frost aunt pluck code decline hand tissue";

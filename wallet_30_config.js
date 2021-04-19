@@ -1,1 +1,1 @@
-var mnemonic = "sea achieve fish addict verify clock abstract ill rookie soda response oblige";
+var mnemonic = "key blouse rough regret raven shadow come summer eagle copper hedgehog depend";

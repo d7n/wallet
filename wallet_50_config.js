@@ -1,1 +1,1 @@
-var mnemonic = "borrow grant motion normal taste approve pigeon bacon basket wisdom monkey still";
+var mnemonic = "film panda exhaust immune paddle radio tape canoe ketchup file trust tray";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost poem budget print illness apart castle sleep lake layer tube chronic";
+var mnemonic = "sense sponsor reopen near tissue health exercise tank park jeans rent aspect";

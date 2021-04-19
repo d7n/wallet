@@ -1,1 +1,1 @@
-var mnemonic = "vacuum margin peace ship remind smooth long wild sugar sauce pony already";
+var mnemonic = "sad unknown exile shove gather dragon sand exotic laugh vote census bench";

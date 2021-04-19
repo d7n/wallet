@@ -1,1 +1,1 @@
-var mnemonic = "relief keen patrol timber vessel twenty since arrive canvas foam toilet depend";
+var mnemonic = "supreme drill improve wire scatter coach cigar attitude arctic tool gather pilot";

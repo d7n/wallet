@@ -1,1 +1,1 @@
-var mnemonic = "galaxy pigeon differ come feel gun loyal clever pottery pipe maid attitude";
+var mnemonic = "unit jaguar uncle chunk kitten mother hurt away cup cable jaguar address";

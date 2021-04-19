@@ -1,1 +1,1 @@
-var mnemonic = "throw forget finish select poverty raw already since return wrist engage host";
+var mnemonic = "erase awesome confirm wealth duck other online mystery test arena fish radio";

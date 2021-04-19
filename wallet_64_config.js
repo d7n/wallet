@@ -1,1 +1,1 @@
-var mnemonic = "garbage brand bonus invest symptom people moment film melody nerve runway topic";
+var mnemonic = "shove silk tragic force because delay ranch leaf unknown flock select crater";

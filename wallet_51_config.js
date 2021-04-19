@@ -1,1 +1,1 @@
-var mnemonic = "pole fatigue bridge foil harvest review pilot rival diagram summer amused heart";
+var mnemonic = "benefit pledge robot when lobster planet round whisper finger forest crawl thrive";

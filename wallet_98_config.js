@@ -1,1 +1,1 @@
-var mnemonic = "clock picnic short later sausage thing tongue sell eternal paddle vendor nut";
+var mnemonic = "strong bleak protect cruise pattern drop opinion nation choose conduct hello armor";

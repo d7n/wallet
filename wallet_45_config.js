@@ -1,1 +1,1 @@
-var mnemonic = "game gaze title onion marble mimic spend cave cable roast cannon icon";
+var mnemonic = "side van above approve around winner wasp south degree antique tent portion";

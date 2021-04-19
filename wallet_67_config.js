@@ -1,1 +1,1 @@
-var mnemonic = "debris help latin topple drip begin vintage bullet derive chronic butter draw";
+var mnemonic = "program nephew moon salad moon axis luxury outdoor cushion sick okay slab";

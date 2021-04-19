@@ -1,1 +1,1 @@
-var mnemonic = "arrive trip own valid submit kick suspect actor gym vicious blast fork";
+var mnemonic = "olive quit skull topic food liquid sugar crime guard echo tiny dust";

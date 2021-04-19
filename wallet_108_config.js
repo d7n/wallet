@@ -1,1 +1,1 @@
-var mnemonic = "essence draft cloth carpet hidden steel output negative visual please then math";
+var mnemonic = "void reunion mountain tube yard satisfy cabin cash fan myth sword plug";

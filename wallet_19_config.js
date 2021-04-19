@@ -1,1 +1,1 @@
-var mnemonic = "artwork rookie fold click gossip huge swim stone sheriff eight horse talk";
+var mnemonic = "work author certain alone stick example service teach exist affair token shy";

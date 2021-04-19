@@ -1,1 +1,1 @@
-var mnemonic = "ramp upgrade luxury control staff early mail armed seek develop innocent supply";
+var mnemonic = "easily number random fetch dinosaur misery lucky butter protect sausage gain achieve";

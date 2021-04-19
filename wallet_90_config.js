@@ -1,1 +1,1 @@
-var mnemonic = "library nature distance coil health scare lock license connect leader shrimp industry";
+var mnemonic = "debris addict chaos slide wolf icon biology rocket home wear setup indoor";

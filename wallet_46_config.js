@@ -1,1 +1,1 @@
-var mnemonic = "tattoo kitchen lava twice tonight bright urge mushroom mystery vapor cover medal";
+var mnemonic = "boost submit found fuel floor object student mystery lady neutral kidney fall";

@@ -1,1 +1,1 @@
-var mnemonic = "meat daring process final category zebra indicate brief friend tiger mystery follow";
+var mnemonic = "someone banana knock pilot pool master during gesture ghost scrub derive random";

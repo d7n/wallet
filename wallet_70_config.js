@@ -1,1 +1,1 @@
-var mnemonic = "common forward unable vote creek hip sudden oblige truth delay rookie monitor";
+var mnemonic = "casino defense client strike neglect rocket vendor defy enforce brass involve demise";

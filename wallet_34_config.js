@@ -1,1 +1,1 @@
-var mnemonic = "habit sponsor design mix guard plunge rare fringe base siege diesel erupt";
+var mnemonic = "broom expand inquiry length step clutch wrestle debris asthma maze ticket library";

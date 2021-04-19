@@ -1,1 +1,1 @@
-var mnemonic = "peanut wisdom pottery put few retreat depart fancy night escape own rebuild";
+var mnemonic = "list monkey legal balance trust spike rose add prison beef peasant struggle";

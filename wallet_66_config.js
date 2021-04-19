@@ -1,1 +1,1 @@
-var mnemonic = "oven squeeze evidence drive illness portion room unusual hire reflect noble rail";
+var mnemonic = "game orbit token vapor awake door change can surge special rent credit";

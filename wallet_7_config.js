@@ -1,1 +1,1 @@
-var mnemonic = "boost clean permit shiver accident family enjoy tag foil venue hammer fee";
+var mnemonic = "reward razor often nest scale mercy cinnamon valid gather coyote review casino";

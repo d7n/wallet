@@ -1,1 +1,1 @@
-var mnemonic = "hammer device benefit concert nasty cruel bicycle print harsh brave frequent wolf";
+var mnemonic = "three snap before degree alcohol way dish rally never original airport camera";

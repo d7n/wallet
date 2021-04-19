@@ -1,1 +1,1 @@
-var mnemonic = "antique velvet trigger shift sound peace merit close agent song put ice";
+var mnemonic = "valve abstract rural below expose quiz hammer admit glance picnic chat gaze";

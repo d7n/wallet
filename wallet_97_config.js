@@ -1,1 +1,1 @@
-var mnemonic = "dance feed often host fortune scrap identify author reform want want lizard";
+var mnemonic = "bird scorpion receive name okay stumble fault dust father cattle few reform";

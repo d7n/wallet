@@ -1,1 +1,1 @@
-var mnemonic = "august visa believe enhance slow have click jaguar cradle flame blur grief";
+var mnemonic = "guess alarm room extend hand member favorite elder path slide flock gym";
