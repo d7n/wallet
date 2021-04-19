@@ -1,1 +1,1 @@
-var mnemonic = "glare endless shadow inch square setup boring desk peanut frozen page interest";
+var mnemonic = "warrior double dial broccoli exercise destroy excite can pen just nominee private";

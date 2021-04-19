@@ -1,1 +1,1 @@
-var mnemonic = "anxiety thank design horn trouble medal regret joke angle horn notable flower";
+var mnemonic = "piano start wife cup embark whale crane angle market clap popular tape";

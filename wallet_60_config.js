@@ -1,1 +1,1 @@
-var mnemonic = "lazy pudding ahead name wedding exhaust toddler eight volcano runway together story";
+var mnemonic = "early bunker canal party select chalk donkey gloom birth unhappy improve zone";

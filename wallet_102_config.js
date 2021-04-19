@@ -1,1 +1,1 @@
-var mnemonic = "audit fury pink begin rabbit uncle service engage idea travel flash series";
+var mnemonic = "orchard toast mandate they man same peasant creek sustain hidden nominee leisure";

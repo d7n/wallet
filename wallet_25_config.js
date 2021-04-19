@@ -1,1 +1,1 @@
-var mnemonic = "web empower hammer zoo nerve hurdle acid satoshi rabbit rally slight jazz";
+var mnemonic = "shoulder metal witness approve inch economy jar night evoke name conduct oppose";

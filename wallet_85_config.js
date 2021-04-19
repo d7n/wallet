@@ -1,1 +1,1 @@
-var mnemonic = "answer loyal battle movie crack hope pigeon trophy rocket critic kingdom moon";
+var mnemonic = "absent blanket animal language ocean carbon above demand whisper puppy rubber escape";

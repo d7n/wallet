@@ -1,1 +1,1 @@
-var mnemonic = "alert collect parrot guitar horn oxygen about champion hunt bike myself rich";
+var mnemonic = "plunge similar cycle sorry library obey tortoise fan swap furnace rookie donate";

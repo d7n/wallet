@@ -1,1 +1,1 @@
-var mnemonic = "guitar snow favorite play cash chat check skull warm bubble waste output";
+var mnemonic = "lecture space reunion furnace draw bundle inform cradle cart save phone aim";

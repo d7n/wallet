@@ -1,1 +1,1 @@
-var mnemonic = "flight record frown hunt asthma bless hub message photo vanish consider family";
+var mnemonic = "right extend then float shadow pink match burst help roast venture mesh";

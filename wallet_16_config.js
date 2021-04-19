@@ -1,1 +1,1 @@
-var mnemonic = "bus fall domain attitude enlist cruise ecology explain weapon left canyon rude";
+var mnemonic = "impose begin tape maximum hole earn sock hotel three decrease later thank";

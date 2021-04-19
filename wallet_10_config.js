@@ -1,1 +1,1 @@
-var mnemonic = "clay frog banner bottom flower rate park engage cost keep army domain";
+var mnemonic = "boss exchange wise truly doctor muffin inch inflict unhappy honey uncle remain";

@@ -1,1 +1,1 @@
-var mnemonic = "dry behave case pet before suspect cement husband black virtual core size";
+var mnemonic = "original subway rally token bulb picture raccoon below liquid awkward torch spring";

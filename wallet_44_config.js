@@ -1,1 +1,1 @@
-var mnemonic = "armor lion sphere lunar equal liar disagree short clock critic baby radar";
+var mnemonic = "muffin cruel blossom melt clock attitude this rapid turkey thought vote drift";

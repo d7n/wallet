@@ -1,1 +1,1 @@
-var mnemonic = "impulse clip mixture armor adjust verb bullet chicken write weapon candy anxiety";
+var mnemonic = "dutch wrist diagram asset color useful proof room phrase galaxy demand addict";

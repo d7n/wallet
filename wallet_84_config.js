@@ -1,1 +1,1 @@
-var mnemonic = "impact erupt slow pioneer broom adapt huge wonder evil cross wire easy";
+var mnemonic = "lumber immense fault differ disorder thought also cream crystal whisper bridge voice";

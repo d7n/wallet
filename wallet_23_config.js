@@ -1,1 +1,1 @@
-var mnemonic = "slight ball alley layer hand around dwarf act crunch frog forum bleak";
+var mnemonic = "elder square bracket whisper stairs sudden peace tray heart cram sand focus";

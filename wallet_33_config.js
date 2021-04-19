@@ -1,1 +1,1 @@
-var mnemonic = "miss between wall indoor radio park swear art hunt property make fee";
+var mnemonic = "pistol play cube height shift undo review stock slight search canyon inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "brown undo popular target vague window boy before tunnel goddess clean concert";
+var mnemonic = "client shoe raw heavy three cheese that salt symbol stairs affair radar";

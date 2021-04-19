@@ -1,1 +1,1 @@
-var mnemonic = "offer skirt dirt farm casual enforce veteran citizen certain thunder real security";
+var mnemonic = "erupt spoon solid sweet use math odor destroy board ugly canoe announce";

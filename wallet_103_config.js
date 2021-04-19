@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur kit affair jealous happy involve oxygen unique note report excuse relax";
+var mnemonic = "suffer rule prevent guide anger pair spike ozone praise trend horse offer";

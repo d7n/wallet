@@ -1,1 +1,1 @@
-var mnemonic = "tuna agree rose gun wet grant index infant car chalk decorate purity";
+var mnemonic = "great output benefit during bullet awkward digital festival issue song domain sound";

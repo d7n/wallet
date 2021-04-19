@@ -1,1 +1,1 @@
-var mnemonic = "because candy border stumble exit scheme random omit sure dinner outside child";
+var mnemonic = "excuse into multiply sugar draw direct junk seven endorse illegal census symptom";

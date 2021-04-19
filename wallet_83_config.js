@@ -1,1 +1,1 @@
-var mnemonic = "super clever bus canvas advice dance pipe talent snow wreck check happy";
+var mnemonic = "print slot board finger traffic audit smile equal car super action amused";

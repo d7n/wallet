@@ -1,1 +1,1 @@
-var mnemonic = "indicate car round source season famous receive zoo major ordinary yellow jealous";
+var mnemonic = "damp sadness morning usual bounce corn detail mandate guess buddy gospel under";

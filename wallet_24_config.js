@@ -1,1 +1,1 @@
-var mnemonic = "sense interest move fame feel luxury wire picture glove faint kitchen south";
+var mnemonic = "original wisdom salad help family silk bounce first popular tone marble demise";

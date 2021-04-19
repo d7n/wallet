@@ -1,1 +1,1 @@
-var mnemonic = "airport kick daughter pulp social plate common tongue extra enhance order captain";
+var mnemonic = "forest during bleak whale differ glimpse drum rule bitter oil brand basket";

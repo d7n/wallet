@@ -1,1 +1,1 @@
-var mnemonic = "lady aspect nation action say fish laugh rough boss reflect system walnut";
+var mnemonic = "annual general trust travel satisfy save notice rural wear reason load crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion federal follow sunset best violin slam egg shield planet seminar market";
+var mnemonic = "rocket cheese dose salt police lucky bargain thrive dolphin that travel flee";

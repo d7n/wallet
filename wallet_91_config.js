@@ -1,1 +1,1 @@
-var mnemonic = "expand system assault direct effort rule task near vast infant broken whale";
+var mnemonic = "receive inquiry floor mandate lab walnut finish busy matrix uniform corn gospel";

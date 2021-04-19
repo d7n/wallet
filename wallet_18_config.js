@@ -1,1 +1,1 @@
-var mnemonic = "inflict suit pipe income tell kit shoulder manage bind entry describe safe";
+var mnemonic = "diesel kit false shed lecture admit glass satisfy kite smoke measure inch";

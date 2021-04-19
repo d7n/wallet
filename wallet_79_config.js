@@ -1,1 +1,1 @@
-var mnemonic = "laugh distance chicken immense engage chair hedgehog wing observe position move lottery";
+var mnemonic = "tip pepper kidney vehicle sleep enter festival cradle simple item gentle stage";

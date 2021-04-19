@@ -1,1 +1,1 @@
-var mnemonic = "code spoil auction still vital network spoil mouse loop mother increase scan";
+var mnemonic = "marriage patch airport alpha west develop vanish pass produce room globe fit";

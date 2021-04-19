@@ -1,1 +1,1 @@
-var mnemonic = "essence idle road shove palace nominee bottom quote square car wine organ";
+var mnemonic = "tank hover song title verb miracle program swim envelope lumber brass panther";

@@ -1,1 +1,1 @@
-var mnemonic = "pool heavy fiber door project polar cushion obscure crop math isolate lake";
+var mnemonic = "treat want zoo coach school borrow hawk runway effort reunion minimum useful";

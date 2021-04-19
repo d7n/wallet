@@ -1,1 +1,1 @@
-var mnemonic = "asset orient sign receive hold bomb decade parade frown slight upper inform";
+var mnemonic = "okay employ meat copy sister battle mail sun peasant this name risk";

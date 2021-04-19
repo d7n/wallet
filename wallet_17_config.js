@@ -1,1 +1,1 @@
-var mnemonic = "slush behind save level exit nephew hazard elephant weird cube outdoor rookie";
+var mnemonic = "rotate town ice parent elbow iron myth earn brave total camp cargo";

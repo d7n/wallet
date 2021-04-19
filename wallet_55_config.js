@@ -1,1 +1,1 @@
-var mnemonic = "tool cube planet trial element hurdle distance royal wild sand thrive panda";
+var mnemonic = "finger jeans miracle vessel brain lava shuffle clip siren air cliff agent";

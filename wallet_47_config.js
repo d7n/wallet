@@ -1,1 +1,1 @@
-var mnemonic = "stay often junior struggle note clay film impact token slim swear party";
+var mnemonic = "melt visit anxiety twenty blast dilemma urge pretty screen entry crash enable";

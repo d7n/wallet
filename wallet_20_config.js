@@ -1,1 +1,1 @@
-var mnemonic = "tobacco mechanic sleep false hire fault again open romance garage virtual chaos";
+var mnemonic = "grant vacant merry zebra ramp sibling access arrive coach satoshi east also";

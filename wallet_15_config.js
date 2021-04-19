@@ -1,1 +1,1 @@
-var mnemonic = "right bachelor screen girl master reopen clog float exhaust strategy topple fence";
+var mnemonic = "boost beach paddle kiss cause discover camp verb congress east hip fury";

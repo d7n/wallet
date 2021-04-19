@@ -1,1 +1,1 @@
-var mnemonic = "derive mention horn cage clarify knife rice cycle mean joke parrot cargo";
+var mnemonic = "train twelve leisure connect ozone exotic notice celery decrease rabbit gun session";

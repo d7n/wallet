@@ -1,1 +1,1 @@
-var mnemonic = "host organ deputy bus pole rigid book chapter marble faint gas motion";
+var mnemonic = "able elephant fiction volcano color nominee cross apple card monitor panda cancel";

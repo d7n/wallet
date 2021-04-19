@@ -1,1 +1,1 @@
-var mnemonic = "plastic false true print leisure super forget feed silver total flip abuse";
+var mnemonic = "bamboo insect north endorse path witness maze exact powder educate damp million";

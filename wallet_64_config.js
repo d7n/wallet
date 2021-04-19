@@ -1,1 +1,1 @@
-var mnemonic = "cricket response police book ivory flip piano grant boil zone cinnamon tree";
+var mnemonic = "slot off million orchard swear accuse syrup awkward fiber solar win fox";

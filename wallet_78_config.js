@@ -1,1 +1,1 @@
-var mnemonic = "edge myth woman climb into frost basic apple chuckle mercy story solid";
+var mnemonic = "interest crumble cable cool canoe trouble material code cruel cart ladder budget";

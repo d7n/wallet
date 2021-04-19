@@ -1,1 +1,1 @@
-var mnemonic = "rely aunt clinic correct proud brass mixed rabbit order demise sport favorite";
+var mnemonic = "found path merit long because hand once shed fortune page inflict once";

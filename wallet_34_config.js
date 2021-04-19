@@ -1,1 +1,1 @@
-var mnemonic = "lion raccoon inhale tackle picture define genre early begin bag month deposit";
+var mnemonic = "when mango roast certain chunk biology spare target artwork rival phrase grape";

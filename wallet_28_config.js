@@ -1,1 +1,1 @@
-var mnemonic = "mom idea good adult theory damp fall blossom thank hurry rebel congress";
+var mnemonic = "pupil diary image swear enroll attend upset oak wool ladder skirt verify";

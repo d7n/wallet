@@ -1,1 +1,1 @@
-var mnemonic = "salute muscle flight switch glare job fresh tornado eagle dismiss easy lend";
+var mnemonic = "hope curious step zoo must satisfy day original love whale vote adult";

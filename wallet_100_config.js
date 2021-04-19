@@ -1,1 +1,1 @@
-var mnemonic = "shield bench priority float own cigar unable primary quote slow raise siege";
+var mnemonic = "lottery visual upgrade dilemma grunt cancel nephew gauge stage slow memory useful";

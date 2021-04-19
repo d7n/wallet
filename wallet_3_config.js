@@ -1,1 +1,1 @@
-var mnemonic = "shine allow bunker laptop rain survey donor diamond auto glance sadness ordinary";
+var mnemonic = "universe wine drip fall cigar drift win alarm reason author adapt legend";

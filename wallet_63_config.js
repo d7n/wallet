@@ -1,1 +1,1 @@
-var mnemonic = "ski luggage message jewel diary bleak miss cotton moment exchange oil auto";
+var mnemonic = "crawl language sausage puzzle casino cream lab motor tool gadget asthma curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "solution emerge face forum project rack genuine proud awake photo loan century";
+var mnemonic = "practice salon battle across climb draw leg sign degree regular success reflect";

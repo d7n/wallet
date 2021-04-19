@@ -1,1 +1,1 @@
-var mnemonic = "quit leader circle cradle deputy moment vintage connect over subject praise once";
+var mnemonic = "trash blue camp enable cup used action insane task kiss midnight inquiry";

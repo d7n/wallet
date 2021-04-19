@@ -1,1 +1,1 @@
-var mnemonic = "away thunder daring rug about benefit you audit divert achieve couch such";
+var mnemonic = "green illness client worth increase fancy garbage galaxy buffalo load shine fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost trend open truck shine bid rhythm begin catch hair tribe ceiling";
+var mnemonic = "firm net atom harbor island differ post game ship gun stand quick";

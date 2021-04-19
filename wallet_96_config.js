@@ -1,1 +1,1 @@
-var mnemonic = "cruel good chaos acid ability pizza silent until anger oppose skull flock";
+var mnemonic = "sketch fade stairs miracle tree plunge knife obey lemon lecture poverty laundry";

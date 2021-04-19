@@ -1,1 +1,1 @@
-var mnemonic = "acquire urban client gift hold satoshi father move skin velvet equip february";
+var mnemonic = "torch birth head soul verb rare palm ecology jump year replace upon";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit twist work imitate child health wrestle join tip lazy club whisper";
+var mnemonic = "prevent hero maid soul liar carpet vapor boil vivid empower amount law";

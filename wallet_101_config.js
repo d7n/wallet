@@ -1,1 +1,1 @@
-var mnemonic = "giraffe away shadow corn body orphan example weather trouble grief length vibrant";
+var mnemonic = "verify noodle fabric female hobby unaware give maple mango syrup common pill";

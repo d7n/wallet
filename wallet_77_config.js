@@ -1,1 +1,1 @@
-var mnemonic = "misery junior weather castle label decline shallow fault wave install match marriage";
+var mnemonic = "wrong minute bitter ring try idea rent guilt situate way border room";

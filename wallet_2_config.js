@@ -1,1 +1,1 @@
-var mnemonic = "suspect wisdom connect tower tiger obscure carry explain huge attract remind spoon";
+var mnemonic = "spring field hurry dirt wonder occur travel tower leaf derive cry danger";

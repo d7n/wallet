@@ -1,1 +1,1 @@
-var mnemonic = "prize fit quality aunt gorilla jar short candy leader early spike piano";
+var mnemonic = "fence basket stock object flavor harbor match usual kitchen despair tribe hard";

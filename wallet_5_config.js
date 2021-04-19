@@ -1,1 +1,1 @@
-var mnemonic = "atom squirrel burst advance educate squeeze thought attend badge student portion snow";
+var mnemonic = "blame horn issue rack area tag page lunch clog game peanut nice";

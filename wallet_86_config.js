@@ -1,1 +1,1 @@
-var mnemonic = "planet dad canal whisper post eight street hidden verb nuclear season case";
+var mnemonic = "design exile maple search nose adult add trend say mountain useless disagree";

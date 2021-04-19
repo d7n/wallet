@@ -1,1 +1,1 @@
-var mnemonic = "october all panther permit elite artist uncover stick magic pass fold behind";
+var mnemonic = "drift home dove dignity dignity feed thumb praise hour knee cradle develop";

@@ -1,1 +1,1 @@
-var mnemonic = "size moral fold fitness harbor equip sea analyst color fabric turn convince";
+var mnemonic = "insect flower pretty general online hurt process test mind reform hint arctic";

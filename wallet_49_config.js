@@ -1,1 +1,1 @@
-var mnemonic = "renew appear proof cry mushroom fire vanish fitness predict dinosaur autumn clay";
+var mnemonic = "pluck quit crush rare noodle poem theme repair dynamic nut code galaxy";

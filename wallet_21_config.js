@@ -1,1 +1,1 @@
-var mnemonic = "eagle input rail order income between primary insect clerk panther degree snow";
+var mnemonic = "describe age bacon scatter color raw name walnut base devote start hint";

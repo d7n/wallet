@@ -1,1 +1,1 @@
-var mnemonic = "hold spatial fury hospital advance mention blouse alcohol amount original combine deposit";
+var mnemonic = "lumber beef glare hint pond slight wet entry comfort holiday comfort tape";

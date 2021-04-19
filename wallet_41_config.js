@@ -1,1 +1,1 @@
-var mnemonic = "trust crew ethics suggest ridge forward embark chase tray toss jazz permit";
+var mnemonic = "twist damage swap palace drop enrich orbit taste embody symbol tattoo fuel";

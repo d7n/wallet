@@ -1,1 +1,1 @@
-var mnemonic = "reason volume airport merit upon mutual mixed night fat warfare ocean shop";
+var mnemonic = "eager expose decorate little merge van inch crazy silk hard fault unfair";

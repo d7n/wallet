@@ -1,1 +1,1 @@
-var mnemonic = "toddler hobby pond sting pulse layer start uncover salon rhythm alley zero";
+var mnemonic = "box hollow oak volcano blush mask damage south lottery circle agree live";

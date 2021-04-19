@@ -1,1 +1,1 @@
-var mnemonic = "sock garlic choice quote route provide flat spoil aware exchange execute dumb";
+var mnemonic = "inner crane exit onion essay aspect lady together whale scissors curve swift";

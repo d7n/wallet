@@ -1,1 +1,1 @@
-var mnemonic = "observe diamond people dish ostrich detect rubber city alarm echo mass volume";
+var mnemonic = "rather patch flag barrel now nephew volcano crew also wait able walk";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk source ride general canal sketch dry reform math search engine scorpion";
+var mnemonic = "donor salad carry jaguar settle candy amazing black jacket tail speak glove";

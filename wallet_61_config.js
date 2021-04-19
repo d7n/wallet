@@ -1,1 +1,1 @@
-var mnemonic = "upgrade boring castle core area panic excuse enter enroll seek six misery";
+var mnemonic = "flame until target accuse steak slow know confirm comic fitness erase mother";

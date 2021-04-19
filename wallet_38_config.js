@@ -1,1 +1,1 @@
-var mnemonic = "original usage piano special lava library punch all giraffe distance damp razor";
+var mnemonic = "situate route student dial border reform morning chronic method course pupil ten";

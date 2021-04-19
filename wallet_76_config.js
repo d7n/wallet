@@ -1,1 +1,1 @@
-var mnemonic = "exist marine cash unhappy sun cattle anger illness trust venture sugar jacket";
+var mnemonic = "void later machine major exercise traffic room human twin boy kangaroo rural";

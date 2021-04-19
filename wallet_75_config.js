@@ -1,1 +1,1 @@
-var mnemonic = "way path typical possible friend daughter spawn soda ski squeeze note mix";
+var mnemonic = "sun eye foot key solve bundle lock type safe royal desk dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk suspect owner swim turtle party diagram curve wise siren bar half";
+var mnemonic = "protect gossip rose assist curtain isolate raven able situate fat layer runway";

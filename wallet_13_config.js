@@ -1,1 +1,1 @@
-var mnemonic = "arch vital penalty claw globe discover oil cactus surprise moment link video";
+var mnemonic = "since champion tower square execute globe color away smile royal veteran worth";

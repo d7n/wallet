@@ -1,1 +1,1 @@
-var mnemonic = "begin say muffin kiss merge vicious nuclear rabbit blanket trick utility knee";
+var mnemonic = "profit oval slide sort injury share boat finish erase expire soup aim";

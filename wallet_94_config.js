@@ -1,1 +1,1 @@
-var mnemonic = "rice notice stuff project orange ordinary nothing glass lecture pear myself sort";
+var mnemonic = "silent because mule deny trim bridge grass outdoor caution vendor turn tuition";

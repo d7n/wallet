@@ -1,1 +1,1 @@
-var mnemonic = "equip tide memory muscle eager tissue lucky door muscle album material apple";
+var mnemonic = "fork boil diary civil guilt around scrub elegant jaguar flavor gate romance";

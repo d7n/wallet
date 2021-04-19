@@ -1,1 +1,1 @@
-var mnemonic = "decade turn route tomorrow dumb slight caution salmon year resource rapid diary";
+var mnemonic = "armed lecture essay six cute parrot crowd infant prison turn heart desk";

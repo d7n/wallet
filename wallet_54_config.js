@@ -1,1 +1,1 @@
-var mnemonic = "safe virus clock ocean search pause burst attend humor book drip melody";
+var mnemonic = "walk fruit people file battle three essence magnet art word alarm sort";

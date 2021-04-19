@@ -1,1 +1,1 @@
-var mnemonic = "govern artist sure fish breeze inside buzz vehicle cupboard fossil hire alter";
+var mnemonic = "pudding cabbage era clean price comic limit erupt glue pottery slot moment";

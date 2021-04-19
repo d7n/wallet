@@ -1,1 +1,1 @@
-var mnemonic = "bronze cushion index destroy void two myself assist coconut food ordinary tennis";
+var mnemonic = "satoshi praise home offer mule slide focus thought hamster cannon stadium laugh";

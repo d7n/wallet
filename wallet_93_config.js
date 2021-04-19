@@ -1,1 +1,1 @@
-var mnemonic = "harvest thought misery bitter matter gather pony merit shrug you daring online";
+var mnemonic = "smooth deny debate mouse supply vault employ kind derive misery gadget tower";

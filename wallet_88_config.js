@@ -1,1 +1,1 @@
-var mnemonic = "baby real enact flame elevator west sight erode off april cruise blanket";
+var mnemonic = "pencil purchase van motion confirm cash arrow broken reopen index unaware emotion";

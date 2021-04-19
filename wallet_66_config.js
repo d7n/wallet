@@ -1,1 +1,1 @@
-var mnemonic = "riot connect engine put shed delay economy rally journey industry ivory produce";
+var mnemonic = "gadget canvas play drive wish post city noodle pitch engage garment dad";

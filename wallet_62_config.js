@@ -1,1 +1,1 @@
-var mnemonic = "during address panther junior exchange theme rocket truly harbor adapt talent lake";
+var mnemonic = "oak maximum whisper diary tackle cricket age sugar soccer gauge item muscle";

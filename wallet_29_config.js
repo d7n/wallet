@@ -1,1 +1,1 @@
-var mnemonic = "tongue check spoon obey helmet december review receive never point lady victory";
+var mnemonic = "cancel film jazz cost program trash future bomb buyer stereo club wheel";

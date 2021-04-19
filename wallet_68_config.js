@@ -1,1 +1,1 @@
-var mnemonic = "dash hub hover only flat just vast idle axis plate need large";
+var mnemonic = "leg gorilla right pause science stone enjoy faith slender biology between purchase";
