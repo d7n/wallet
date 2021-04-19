@@ -1,1 +1,1 @@
-var mnemonic = "work extend leave valley away art few found nut occur fossil junk";
+var mnemonic = "kiwi inflict curve acquire ribbon business solid rude chest trap medal true";

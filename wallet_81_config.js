@@ -1,1 +1,1 @@
-var mnemonic = "prosper cross cotton hurdle surge thumb banner chef filter garden speak vocal";
+var mnemonic = "charge lemon then skirt nice injury foster average motion armed include path";

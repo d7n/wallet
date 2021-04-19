@@ -1,1 +1,1 @@
-var mnemonic = "shine doll loyal paper mansion marine become hybrid scheme lock rack remove";
+var mnemonic = "bike garlic horn blur same doll leg position potato child any coin";

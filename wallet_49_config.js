@@ -1,1 +1,1 @@
-var mnemonic = "category canoe chronic spin any shop afford clutch section divide hungry choose";
+var mnemonic = "jealous return breeze meadow nuclear oyster army loop ski chair burger race";

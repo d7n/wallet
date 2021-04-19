@@ -1,1 +1,1 @@
-var mnemonic = "fragile quote indicate swarm journey skate lunch soda quarter weird hammer cotton";
+var mnemonic = "design glass derive hard stone shed page raw include put hood ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "crop mystery uncle party fresh rather income zoo arrow cloud salon element";
+var mnemonic = "fork quarter rough friend melody basket tortoise runway abandon master pulse guide";

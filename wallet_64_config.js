@@ -1,1 +1,1 @@
-var mnemonic = "shallow script someone educate artefact gaze mixture hole gloom saddle desk tenant";
+var mnemonic = "lawn adapt fiscal lesson innocent tragic champion divorce rack face movie subject";

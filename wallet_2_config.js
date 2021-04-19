@@ -1,1 +1,1 @@
-var mnemonic = "peanut obscure immune duty juice carpet dismiss sample spy push school skate";
+var mnemonic = "weather express flee pear future index silent alarm speak royal margin assume";

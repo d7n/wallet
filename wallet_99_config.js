@@ -1,1 +1,1 @@
-var mnemonic = "boat often cactus wire quote fossil rhythm bundle awful method kind happy";
+var mnemonic = "alien approve wear daring erupt random utility monster brother insane easy shrimp";

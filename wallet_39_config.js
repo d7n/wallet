@@ -1,1 +1,1 @@
-var mnemonic = "toy harbor kick dinner session dumb relief faith change dune have liquid";
+var mnemonic = "tip page pistol about empty lava day roast giant surge buzz armor";

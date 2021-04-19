@@ -1,1 +1,1 @@
-var mnemonic = "erosion song vendor select dwarf poet demand nerve choose seed cruel twist";
+var mnemonic = "you green come inhale pony rib where wolf immense disease promote phrase";

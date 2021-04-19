@@ -1,1 +1,1 @@
-var mnemonic = "brother guard debate child liquid subway wrestle ginger village foil front exclude";
+var mnemonic = "walk idle alter advance still question language call wall rice silk easily";

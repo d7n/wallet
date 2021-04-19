@@ -1,1 +1,1 @@
-var mnemonic = "light ship obey picnic electric used atom prepare fault cancel hood similar";
+var mnemonic = "oyster orphan three crowd venue flower grant sting gown fossil column claim";

@@ -1,1 +1,1 @@
-var mnemonic = "sister blue bitter rice coffee foam nation town industry also garage miss";
+var mnemonic = "april anchor clever among hotel lake sock cause employ funny heart march";

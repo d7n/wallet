@@ -1,1 +1,1 @@
-var mnemonic = "large cherry token sound neck spy celery insect melt solve cargo smart";
+var mnemonic = "name behind soccer tomato combine claw weather raccoon whisper dry phone carpet";

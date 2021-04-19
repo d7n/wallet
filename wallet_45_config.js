@@ -1,1 +1,1 @@
-var mnemonic = "tide material decrease couple lake remind unfair solve copper coconut thing oyster";
+var mnemonic = "since company seven cargo judge baby machine make marine finger crane entire";

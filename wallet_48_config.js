@@ -1,1 +1,1 @@
-var mnemonic = "have admit black ten human rabbit rule february now rally dragon rural";
+var mnemonic = "upper thrive exercise payment enhance tide lonely error ocean lamp prize manual";

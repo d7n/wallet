@@ -1,1 +1,1 @@
-var mnemonic = "coffee mouse twice tonight column own hill jelly blush boy fault soap";
+var mnemonic = "ceiling puzzle bridge smile demise always garment proof tiny artist ship limb";

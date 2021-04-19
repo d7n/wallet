@@ -1,1 +1,1 @@
-var mnemonic = "just job gadget poverty corn pluck hire cement exercise duty lock rent";
+var mnemonic = "birth entry mad expand forest burger merit wall upon timber blade found";

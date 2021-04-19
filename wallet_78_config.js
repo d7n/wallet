@@ -1,1 +1,1 @@
-var mnemonic = "fabric sheriff chase fruit leader tissue upper trip miss throw real churn";
+var mnemonic = "lend recall spare mix push rapid spread peasant dirt core stool armed";

@@ -1,1 +1,1 @@
-var mnemonic = "enable oval merge staff goose glare secret limb muscle process announce shield";
+var mnemonic = "since basket gap venue refuse solar caught fuel enact barrel crew mask";

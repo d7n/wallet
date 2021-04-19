@@ -1,1 +1,1 @@
-var mnemonic = "layer velvet suspect curious heart youth escape liar noodle rebel rubber assume";
+var mnemonic = "biology oyster depth wine latin fringe diesel scrub stage profit innocent obey";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk arch uphold silly tissue album lamp year spare laundry nature shine";
+var mnemonic = "bone dinosaur weird core lizard mechanic favorite glove garment cheap simple liberty";

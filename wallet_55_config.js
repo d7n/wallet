@@ -1,1 +1,1 @@
-var mnemonic = "loop wonder stem increase news science devote doctor trial zone praise guard";
+var mnemonic = "sponsor hood weird vacant planet question amused arrest unaware mad battle below";

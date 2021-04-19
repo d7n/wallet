@@ -1,1 +1,1 @@
-var mnemonic = "tower scan dog balance try erase disease basic please energy armed runway";
+var mnemonic = "secret mystery bargain canyon begin blame sister long city umbrella exhaust reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "demise strategy list inspire ribbon crowd life fit hand write school during";
+var mnemonic = "trap torch error network hidden inform baby lend hunt bargain around bargain";

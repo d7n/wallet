@@ -1,1 +1,1 @@
-var mnemonic = "cube display search sail print conduct way waste obey process robot wisdom";
+var mnemonic = "question wage region peasant robust cancel pink slow fury prefer sound chalk";

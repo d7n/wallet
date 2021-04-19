@@ -1,1 +1,1 @@
-var mnemonic = "oppose pledge cattle portion profit tone brush beyond ice leaf attack solve";
+var mnemonic = "chronic toilet taxi wheel struggle fork motor route feel disorder fever alarm";

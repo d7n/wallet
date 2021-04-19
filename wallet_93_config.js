@@ -1,1 +1,1 @@
-var mnemonic = "dream cruise fashion master shaft swarm canal sauce network fossil regret elephant";
+var mnemonic = "battle age ten attract patient dragon limit stable merit truck grief cart";

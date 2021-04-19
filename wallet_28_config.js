@@ -1,1 +1,1 @@
-var mnemonic = "horror feel before never wood weasel can canoe cupboard cable deposit swing";
+var mnemonic = "trash guide caught guilt exotic hybrid undo reward visa step artist rude";

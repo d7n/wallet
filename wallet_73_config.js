@@ -1,1 +1,1 @@
-var mnemonic = "april crew nephew maple hunt surge ribbon tobacco fence history spring toilet";
+var mnemonic = "detect open firm artist nephew erupt alien permit mix liquid fatal person";

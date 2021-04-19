@@ -1,1 +1,1 @@
-var mnemonic = "fabric boil capital rack arrange permit clock series glass put host tuition";
+var mnemonic = "notable pride like casual theme alert shift farm answer west square museum";

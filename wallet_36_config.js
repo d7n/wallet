@@ -1,1 +1,1 @@
-var mnemonic = "invite gown blind curtain indoor expect afford account picnic area defy scatter";
+var mnemonic = "edit ability history wheel upset path unusual gun blade speed yellow normal";

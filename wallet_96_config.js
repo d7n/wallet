@@ -1,1 +1,1 @@
-var mnemonic = "lake rare cloud reunion stool sail film game gauge crucial core disease";
+var mnemonic = "reject donate cannon program solid process enough inspire vanish across orphan stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery forest minimum quantum bulb teach satoshi flag desk addict provide wage";
+var mnemonic = "shed drink advice clock shiver lyrics chief thumb local write jazz frame";

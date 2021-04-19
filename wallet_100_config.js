@@ -1,1 +1,1 @@
-var mnemonic = "subway attract inmate fringe crunch home skate fall group warrior melt bunker";
+var mnemonic = "curtain pet hazard bid peasant hospital bind final crash agree odor virus";

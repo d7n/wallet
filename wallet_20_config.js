@@ -1,1 +1,1 @@
-var mnemonic = "attitude envelope axis depth scrap force sad polar refuse bright margin nation";
+var mnemonic = "usage awake nephew visit siege chapter lunch review sun concert tongue exercise";

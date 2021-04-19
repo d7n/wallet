@@ -1,1 +1,1 @@
-var mnemonic = "prefer link coyote option that almost able flame old object nature silver";
+var mnemonic = "wave win dish cotton brief mail lift vapor defense rabbit amount expect";

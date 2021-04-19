@@ -1,1 +1,1 @@
-var mnemonic = "write cargo into pumpkin such man father donkey shoulder candy apple try";
+var mnemonic = "cactus okay unlock harsh amount annual melody interest point thought kiwi emotion";

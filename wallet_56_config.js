@@ -1,1 +1,1 @@
-var mnemonic = "nerve approve reason save either treat deal question caution loan document kick";
+var mnemonic = "blame search link bean grief peanut cry blossom federal canyon wear portion";

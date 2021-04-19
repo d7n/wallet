@@ -1,1 +1,1 @@
-var mnemonic = "poem sense junk forum act pause enrich occur approve mountain scale page";
+var mnemonic = "ozone wool hint shoulder lyrics damp twelve license denial robust online favorite";

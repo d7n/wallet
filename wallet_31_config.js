@@ -1,1 +1,1 @@
-var mnemonic = "capable question retire tennis expand found unit style actress trust ghost photo";
+var mnemonic = "short grunt cupboard merge drive advice tongue movie exotic hunt push indicate";

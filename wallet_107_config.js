@@ -1,1 +1,1 @@
-var mnemonic = "increase menu element copper blush admit scale giggle penalty dragon kiss news";
+var mnemonic = "budget nice puppy body verify tag butter crisp vault near polar inmate";

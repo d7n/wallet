@@ -1,1 +1,1 @@
-var mnemonic = "shaft carry skate into build veteran lecture science food material virus baby";
+var mnemonic = "wrap away vital equip hurry fame coyote pact angle witness act prosper";

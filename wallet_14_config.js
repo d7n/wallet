@@ -1,1 +1,1 @@
-var mnemonic = "cable father pair salt fabric hair midnight tribe flight viable gift stomach";
+var mnemonic = "before hunt nasty juice artefact cupboard rally urban assault emerge cloud decade";

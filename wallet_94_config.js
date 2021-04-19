@@ -1,1 +1,1 @@
-var mnemonic = "bright guilt task ladder clerk chuckle moment napkin bleak honey snow blossom";
+var mnemonic = "tuna fox budget express dose lottery lava kitten soda road honey shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "frame lucky few dilemma during easily child target version fancy room embody";
+var mnemonic = "scout page enter radio sing hamster aunt warfare effort spoon glance arena";

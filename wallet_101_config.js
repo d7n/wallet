@@ -1,1 +1,1 @@
-var mnemonic = "shrimp faith left soap anchor spell sheriff guilt code law memory cabbage";
+var mnemonic = "rare glory garlic pistol sauce admit soft security hunt copper act convince";

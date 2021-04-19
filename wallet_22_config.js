@@ -1,1 +1,1 @@
-var mnemonic = "please panda infant trend prosper globe unusual shy vocal habit live moon";
+var mnemonic = "science suffer diagram young early recipe caution between day beyond scrub case";

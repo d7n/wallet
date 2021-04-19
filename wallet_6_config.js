@@ -1,1 +1,1 @@
-var mnemonic = "lamp crater shift solve bottom moment give december urban battle wrong afford";
+var mnemonic = "duck under soda party list urge chef track hover network corn album";

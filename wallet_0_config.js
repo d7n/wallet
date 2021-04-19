@@ -1,1 +1,1 @@
-var mnemonic = "zebra belt merit bronze muffin legal divorce gentle crop jazz myth laundry";
+var mnemonic = "saddle staff donate choice actor result palace exit topic chuckle ranch drip";

@@ -1,1 +1,1 @@
-var mnemonic = "control gadget pattern jelly burst hurry enhance jungle arrange happy text witness";
+var mnemonic = "talk section response scrap mammal gallery winner lecture basic magic soda business";

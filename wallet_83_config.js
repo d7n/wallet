@@ -1,1 +1,1 @@
-var mnemonic = "orchard front spider clock donate spice vicious toast mobile sun donor monster";
+var mnemonic = "awkward north culture love gap random tilt roast column float relax april";

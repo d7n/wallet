@@ -1,1 +1,1 @@
-var mnemonic = "wine pair oblige visit mixture rude monitor mail truck tone frozen boss";
+var mnemonic = "whisper fat huge lunar soldier electric key survey first daughter gauge arrow";

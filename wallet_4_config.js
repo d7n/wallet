@@ -1,1 +1,1 @@
-var mnemonic = "mule bullet torch super merge cream away fluid image pill energy clay";
+var mnemonic = "brain whip amazing output arrange camp frog video sting wink paper tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch black suspect grow misery master fabric usage wrong blush feed motor";
+var mnemonic = "math erase unveil vessel innocent swear hero dry segment volume atom season";

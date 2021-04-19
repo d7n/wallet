@@ -1,1 +1,1 @@
-var mnemonic = "fade oven forget soda whale hello pepper prepare casual library secret evil";
+var mnemonic = "panda inmate scissors oyster mango meadow hospital analyst security drop emerge morning";

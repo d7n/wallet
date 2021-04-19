@@ -1,1 +1,1 @@
-var mnemonic = "expect blame panther silent friend kiwi eagle excite glide kit endless total";
+var mnemonic = "honey cat scheme ostrich aware chunk good fiscal forum faculty cause island";

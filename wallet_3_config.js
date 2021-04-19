@@ -1,1 +1,1 @@
-var mnemonic = "ripple cause bargain private neither lawn coral tide panel keen chef filter";
+var mnemonic = "tortoise basic never bounce abuse gate joke crush metal live detail plunge";

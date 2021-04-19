@@ -1,1 +1,1 @@
-var mnemonic = "citizen essay razor fee defense side stove pair token brush viable reflect";
+var mnemonic = "cram engine identify oval resource smooth mimic retire bird fun style gas";

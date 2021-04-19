@@ -1,1 +1,1 @@
-var mnemonic = "into horn bless guard gap place high science rack when real eyebrow";
+var mnemonic = "increase amateur there true damp culture normal anger ticket mother level defy";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl gown category proof gate clean act day aerobic amount people mandate";
+var mnemonic = "whip industry dignity feature cheap know shoot fun exact multiply ghost steel";

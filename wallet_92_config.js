@@ -1,1 +1,1 @@
-var mnemonic = "people naive try resource raven floor spoil aspect unfair spot toddler street";
+var mnemonic = "safe cause traffic master evidence leaf unfold gesture gentle liberty grocery mixture";

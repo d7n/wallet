@@ -1,1 +1,1 @@
-var mnemonic = "rabbit nephew time door culture sadness cram mask twelve alley garage pig";
+var mnemonic = "pig soda erase frown group mad daring thought misery cycle large survey";

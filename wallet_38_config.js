@@ -1,1 +1,1 @@
-var mnemonic = "vacant laptop student patch parade denial wrong neck east pistol awkward eight";
+var mnemonic = "detect embrace weekend uncover timber dawn digital torch sadness kangaroo amount later";

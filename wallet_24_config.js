@@ -1,1 +1,1 @@
-var mnemonic = "prosper arch immense rug test boss grief spin inch clump cotton radar";
+var mnemonic = "honey tiny indicate iron doctor defy such almost delay tongue pear live";

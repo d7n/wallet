@@ -1,1 +1,1 @@
-var mnemonic = "oxygen mosquito response enhance margin trust garbage boost page radar butter spoil";
+var mnemonic = "model wheat happy trade way truth receive nurse rabbit judge test depend";

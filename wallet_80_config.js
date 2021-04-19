@@ -1,1 +1,1 @@
-var mnemonic = "silent dignity thrive spare result artist outdoor index polar bicycle engage journey";
+var mnemonic = "prosper piece mushroom curtain easily fabric bomb hurdle length approve burst danger";

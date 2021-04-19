@@ -1,1 +1,1 @@
-var mnemonic = "garbage panther engine bean slow escape cry cricket relief congress despair inject";
+var mnemonic = "misery core feature huge all thumb marble electric bicycle wide ocean town";

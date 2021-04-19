@@ -1,1 +1,1 @@
-var mnemonic = "castle furnace hurry glimpse blind lesson gate mansion off warrior enough giraffe";
+var mnemonic = "safe undo little volcano scan enrich humor rare observe public beauty board";

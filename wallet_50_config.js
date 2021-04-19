@@ -1,1 +1,1 @@
-var mnemonic = "cost start plastic keep bacon attract glue orient remove trial level warm";
+var mnemonic = "mushroom valve chaos kitten typical step deliver divide must device art keen";

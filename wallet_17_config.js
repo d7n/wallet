@@ -1,1 +1,1 @@
-var mnemonic = "dynamic depth paddle speak jaguar provide devote angry door destroy stadium purse";
+var mnemonic = "bicycle uncover winter survey olympic urge drum pulse doctor filter average sauce";

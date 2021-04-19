@@ -1,1 +1,1 @@
-var mnemonic = "drama rapid series client trade benefit blade mail staff fall episode leaf";
+var mnemonic = "clip thunder staff sponsor execute beyond obscure acoustic fade faith chat unhappy";

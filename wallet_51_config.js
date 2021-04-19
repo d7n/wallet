@@ -1,1 +1,1 @@
-var mnemonic = "beauty picnic banana book morning olive gossip globe point cruel assist record";
+var mnemonic = "tribe foam system lunch theory hockey rather vote dumb angry original magnet";

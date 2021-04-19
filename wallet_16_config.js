@@ -1,1 +1,1 @@
-var mnemonic = "drop fat shine flock jacket card ride estate crater pelican grab enact";
+var mnemonic = "security stone another pride caution road grocery foil outside ensure border twice";

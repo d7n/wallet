@@ -1,1 +1,1 @@
-var mnemonic = "middle vague paper faint cluster tennis elephant disagree dentist orphan eager afraid";
+var mnemonic = "shallow clever oval foil find spot shallow glass flee short arm outdoor";

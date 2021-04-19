@@ -1,1 +1,1 @@
-var mnemonic = "text hip table arrive spread discover gesture since cry jacket ready knife";
+var mnemonic = "outer glue lucky stand gesture return project torch habit neither issue laugh";

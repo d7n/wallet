@@ -1,1 +1,1 @@
-var mnemonic = "reduce entire opera gospel embody badge script audit goose diet fresh volcano";
+var mnemonic = "air until stairs sniff march pluck erode must check city farm oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "urge amazing travel wave either rival pave spawn tide donate blue client";
+var mnemonic = "accident keen put cram vital differ jealous destroy prize scene wolf later";

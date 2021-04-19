@@ -1,1 +1,1 @@
-var mnemonic = "chase produce wall second spirit renew weapon clock ceiling outdoor size oil";
+var mnemonic = "helmet priority view achieve belt neglect skill sort execute other kid poverty";

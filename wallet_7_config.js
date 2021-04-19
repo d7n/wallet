@@ -1,1 +1,1 @@
-var mnemonic = "where ability round alcohol okay pyramid hidden roast label dignity casino rack";
+var mnemonic = "local icon harbor pretty spider omit renew employ tribe artist erupt vintage";

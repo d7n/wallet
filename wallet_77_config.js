@@ -1,1 +1,1 @@
-var mnemonic = "nature boss cause shiver pumpkin pair cross true eye item bitter adjust";
+var mnemonic = "annual lava skate finger scout orient swear crucial hedgehog document artefact trouble";

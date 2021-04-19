@@ -1,1 +1,1 @@
-var mnemonic = "nest faint split trigger news cereal kiwi roast acquire addict stone used";
+var mnemonic = "kangaroo unusual wrist badge before next better upset boil afraid alarm enlist";

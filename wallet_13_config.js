@@ -1,1 +1,1 @@
-var mnemonic = "below initial improve baby chase peasant shy sort main put pumpkin upon";
+var mnemonic = "unique pottery rule auction dignity remember unfold front sketch bracket peasant pipe";

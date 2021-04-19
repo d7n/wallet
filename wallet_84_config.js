@@ -1,1 +1,1 @@
-var mnemonic = "duck promote drama pizza corn school tree spatial door crowd surround wrong";
+var mnemonic = "trial anger kite liquid crop mammal pride guide dismiss cry hole gift";

@@ -1,1 +1,1 @@
-var mnemonic = "table neck advance cool kangaroo pioneer before burst bracket settle wall unhappy";
+var mnemonic = "supreme forest tilt danger lesson faint run ski exact stick rally brown";

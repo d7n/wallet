@@ -1,1 +1,1 @@
-var mnemonic = "lend lab lens dad click air river proud owner skill husband payment";
+var mnemonic = "pelican soul victory model one boring exclude snake truck fringe city design";

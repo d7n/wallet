@@ -1,1 +1,1 @@
-var mnemonic = "measure deal point cry pattern scan price holiday virus network used seat";
+var mnemonic = "gown dolphin lab stable awkward attack donate clip expire crawl bacon weekend";

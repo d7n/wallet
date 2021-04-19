@@ -1,1 +1,1 @@
-var mnemonic = "century ahead one cotton fly frequent mask cricket fold stool similar fun";
+var mnemonic = "advance pluck double toss shoulder blind tackle bacon ten wool rib wedding";

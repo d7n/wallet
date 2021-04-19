@@ -1,1 +1,1 @@
-var mnemonic = "machine range cook claim taxi animal item tackle snap letter eternal organ";
+var mnemonic = "enough aunt spray number harbor monkey inflict trick tobacco skull museum scene";

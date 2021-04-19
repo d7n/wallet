@@ -1,1 +1,1 @@
-var mnemonic = "practice month usage embark tank develop patient round history cute charge weather";
+var mnemonic = "vanish rain kite swarm process advance aerobic kick bike mushroom era powder";
