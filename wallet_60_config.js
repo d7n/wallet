@@ -1,1 +1,1 @@
-var mnemonic = "chase dizzy garbage thumb fiction foil card nothing radio adapt cloth there";
+var mnemonic = "cute disease wedding treat spoon raven calm woman bleak jungle juice bid";

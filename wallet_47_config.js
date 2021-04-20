@@ -1,1 +1,1 @@
-var mnemonic = "deliver hair pepper bid soft impulse item rare obtain hire detail unable";
+var mnemonic = "duck viable gesture crawl clip expect theme winner lens puzzle rich adjust";

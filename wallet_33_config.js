@@ -1,1 +1,1 @@
-var mnemonic = "coin monkey camp wine dismiss truly lobster core lab manual capable narrow";
+var mnemonic = "alarm bleak cinnamon true fish reduce scout put fine cry hello inner";

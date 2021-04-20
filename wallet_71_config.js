@@ -1,1 +1,1 @@
-var mnemonic = "chest lock sauce crunch wealth tissue guide pigeon half regular swap private";
+var mnemonic = "divert force cute accuse parrot mom sugar foil sport man void chapter";

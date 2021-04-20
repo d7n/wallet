@@ -1,1 +1,1 @@
-var mnemonic = "supply ride canyon artwork maid patrol bitter grab voyage client vendor record";
+var mnemonic = "whale double poet leader lamp suspect soda man execute wheel gauge mix";

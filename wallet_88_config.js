@@ -1,1 +1,1 @@
-var mnemonic = "next cool need measure crush credit utility toast wasp jar token garlic";
+var mnemonic = "essay defy green grain volume divorce female vast dinosaur industry timber jaguar";

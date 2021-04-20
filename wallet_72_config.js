@@ -1,1 +1,1 @@
-var mnemonic = "estate tank amount service rug proof observe wait lesson soft ramp attack";
+var mnemonic = "burger raw kiwi unique feed hour before chase century act lyrics grow";

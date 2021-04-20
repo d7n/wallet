@@ -1,1 +1,1 @@
-var mnemonic = "process joke hospital iron nothing able head food genre turn assume sick";
+var mnemonic = "soldier brush wrap analyst lobster sight once siege shop calm lake tunnel";

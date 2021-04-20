@@ -1,1 +1,1 @@
-var mnemonic = "since source stand future dragon jump ball use wedding secret knife benefit";
+var mnemonic = "boost genius tomorrow analyst depart resist laundry bamboo water few text flag";

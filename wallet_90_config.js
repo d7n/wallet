@@ -1,1 +1,1 @@
-var mnemonic = "tiger toss wrist ignore record glimpse valve crazy eternal true ill code";
+var mnemonic = "daughter stool yard please nominee prepare bacon horn funny soon hurdle abuse";

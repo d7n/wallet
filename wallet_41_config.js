@@ -1,1 +1,1 @@
-var mnemonic = "snap put budget myself spell hidden fantasy tunnel faculty same hard cinnamon";
+var mnemonic = "shaft liberty excuse faith wing plastic dial rubber heavy input prison degree";

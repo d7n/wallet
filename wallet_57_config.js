@@ -1,1 +1,1 @@
-var mnemonic = "crew grief teach spin final nation puzzle truth clap immense crystal glass";
+var mnemonic = "lift eternal tonight carbon ability anchor october wine photo flock blue twin";

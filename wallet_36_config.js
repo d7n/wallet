@@ -1,1 +1,1 @@
-var mnemonic = "aim trial together what alien open artefact faith lake frown frog circle";
+var mnemonic = "broccoli gaze enact burger hurt lumber business snake level soft sniff speak";

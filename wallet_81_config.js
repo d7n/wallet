@@ -1,1 +1,1 @@
-var mnemonic = "chat month page suffer save cousin actor tornado exercise music doctor become";
+var mnemonic = "fluid unlock chalk make pet pistol strong injury silver hawk vital erosion";

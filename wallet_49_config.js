@@ -1,1 +1,1 @@
-var mnemonic = "rival destroy must switch resist chief combine like hand robot lend gadget";
+var mnemonic = "approve ginger speed outdoor layer stay coin boss goddess bone modify cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "inside attack shop reflect chapter valid chicken august column ice bicycle art";
+var mnemonic = "crop trigger apple mammal across disease throw usual number desk feed tape";

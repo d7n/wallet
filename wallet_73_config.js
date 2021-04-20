@@ -1,1 +1,1 @@
-var mnemonic = "only bullet laundry winner physical dolphin joke logic fetch together movie extra";
+var mnemonic = "divert road initial more improve subject bless key bright car patch gentle";

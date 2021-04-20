@@ -1,1 +1,1 @@
-var mnemonic = "wife reunion betray earn analyst about vibrant hammer blade trash require session";
+var mnemonic = "olympic sugar cattle salad annual auto patient quarter climb crisp company fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier rent salad useless dial cabbage faint risk edge hard visual wise";
+var mnemonic = "moment apology ivory armor hunt mouse mind tuition valve august trouble donkey";

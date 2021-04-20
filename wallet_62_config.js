@@ -1,1 +1,1 @@
-var mnemonic = "current cargo risk rose session mesh scene exhibit raw six uncover great";
+var mnemonic = "always pill dust creek okay when inject number predict acoustic common law";

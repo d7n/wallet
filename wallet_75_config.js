@@ -1,1 +1,1 @@
-var mnemonic = "palace cool will swing worth trash pelican brown arctic denial just casino";
+var mnemonic = "father melt law half library bread february enlist spice wish sock glide";

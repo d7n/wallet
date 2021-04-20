@@ -1,1 +1,1 @@
-var mnemonic = "sad equip omit test photo frost anger main safe ball dial blood";
+var mnemonic = "force success cushion conduct analyst rate machine dolphin leave reflect nut orchard";

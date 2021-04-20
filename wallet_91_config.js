@@ -1,1 +1,1 @@
-var mnemonic = "correct dinosaur super alone mosquito flight stock trophy wrong swift zero print";
+var mnemonic = "fashion enable hedgehog virtual grain bus shed invest salon mind dilemma time";

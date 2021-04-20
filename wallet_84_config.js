@@ -1,1 +1,1 @@
-var mnemonic = "turn misery lumber heart symptom odor document bid actress scene exist credit";
+var mnemonic = "quantum sister worth metal milk park snap pond course twelve tent scout";

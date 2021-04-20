@@ -1,1 +1,1 @@
-var mnemonic = "coffee ancient depart security post vivid hello sunny mask lobster adjust lens";
+var mnemonic = "client they ordinary nest above spider spirit sugar immense elbow latin attitude";

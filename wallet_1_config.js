@@ -1,1 +1,1 @@
-var mnemonic = "right author glad congress sing melt physical orbit found pink before swallow";
+var mnemonic = "bag any dry cherry stage whisper exile kangaroo print frozen angle sauce";

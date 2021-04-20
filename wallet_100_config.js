@@ -1,1 +1,1 @@
-var mnemonic = "cup fluid reflect scheme extend odor love romance anchor syrup fabric damage";
+var mnemonic = "mansion blame error spice boring old lecture coconut release awkward final ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "bird cradle pottery view episode tackle dose body sand clay salad liar";
+var mnemonic = "clock reform monster direct sunny delay wagon divide voyage retire parent reunion";

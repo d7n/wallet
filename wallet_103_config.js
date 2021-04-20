@@ -1,1 +1,1 @@
-var mnemonic = "install power limit around veteran enter field family walnut hidden approve upgrade";
+var mnemonic = "clay copper ripple mutual detail flag bike local behave during illness depth";

@@ -1,1 +1,1 @@
-var mnemonic = "mango quantum front weird elder empty prize play away enact pizza lady";
+var mnemonic = "manual toy that lizard risk exact public sand sound gate denial pelican";

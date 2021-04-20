@@ -1,1 +1,1 @@
-var mnemonic = "quality guard cannon worry salon rookie nasty dinner twenty cute flock tape";
+var mnemonic = "level claim jeans hint person produce witness card tower mad occur rigid";

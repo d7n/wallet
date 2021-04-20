@@ -1,1 +1,1 @@
-var mnemonic = "few suspect cable bird bar guide raven bike thing voyage online romance";
+var mnemonic = "regret badge entry lounge north trigger welcome danger lady notable man chef";

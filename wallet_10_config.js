@@ -1,1 +1,1 @@
-var mnemonic = "term elephant raven better rare citizen high actor sausage job rib cushion";
+var mnemonic = "burger surface creek frown inquiry increase agent jungle airport around square baby";

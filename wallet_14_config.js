@@ -1,1 +1,1 @@
-var mnemonic = "wagon neck floor shrimp couple globe episode mention wage casual wealth minimum";
+var mnemonic = "wrong fever dwarf color flash host palm coil parrot jar device solar";

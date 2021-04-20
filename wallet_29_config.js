@@ -1,1 +1,1 @@
-var mnemonic = "vapor victory code pink tortoise bike river infant bus fix twice doctor";
+var mnemonic = "pumpkin father version blush ensure entire skin meadow tube length hybrid tourist";

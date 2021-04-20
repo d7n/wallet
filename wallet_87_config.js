@@ -1,1 +1,1 @@
-var mnemonic = "visual pulse car fantasy invest tomorrow fragile young mystery twice rack outer";
+var mnemonic = "material foam grocery pole jacket march cheese stomach sound change discover sibling";

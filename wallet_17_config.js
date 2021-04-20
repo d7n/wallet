@@ -1,1 +1,1 @@
-var mnemonic = "build net process side settle wait draw capable like arrest above pool";
+var mnemonic = "left blanket early month useless treat upgrade badge club access rose oval";

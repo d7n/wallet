@@ -1,1 +1,1 @@
-var mnemonic = "repeat blue piece harbor radar aerobic desert course cabin cat feed dwarf";
+var mnemonic = "asthma concert nerve thing weasel front ladder protect day evolve business load";

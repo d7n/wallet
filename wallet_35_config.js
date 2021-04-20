@@ -1,1 +1,1 @@
-var mnemonic = "leopard rely start ghost draft simple just staff pottery glide business knife";
+var mnemonic = "walk drum ensure enough kangaroo alien bulk penalty ginger piece fall dune";

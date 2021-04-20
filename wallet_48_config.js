@@ -1,1 +1,1 @@
-var mnemonic = "want analyst mountain verify shallow grab lady pride trophy script ripple loud";
+var mnemonic = "snow catch pistol village venture civil goddess rather lazy penalty involve shove";

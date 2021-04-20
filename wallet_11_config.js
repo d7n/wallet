@@ -1,1 +1,1 @@
-var mnemonic = "oven cruise garbage grain false animal vote travel clinic supply legend deposit";
+var mnemonic = "hat repair mixture cliff become drastic grape design master ignore thrive suspect";

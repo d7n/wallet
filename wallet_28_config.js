@@ -1,1 +1,1 @@
-var mnemonic = "thank scrub dish asset cushion can sword bullet melt easily ritual tribe";
+var mnemonic = "orange guitar fall more curtain siege maximum vault stem jealous melody gallery";

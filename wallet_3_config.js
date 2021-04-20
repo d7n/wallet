@@ -1,1 +1,1 @@
-var mnemonic = "april century net exclude disagree hover exhibit ignore deal exit hen mix";
+var mnemonic = "piano canoe below decide stomach guard quality bachelor giggle cheese afford frozen";

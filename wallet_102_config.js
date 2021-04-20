@@ -1,1 +1,1 @@
-var mnemonic = "shrug razor cabin fade pelican pen topic loud prevent exhibit ankle distance";
+var mnemonic = "seek mercy luxury finish jump hundred cloth repair scissors refuse lemon liquid";

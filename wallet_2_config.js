@@ -1,1 +1,1 @@
-var mnemonic = "theory resist frown movie sample job entire promote crash surprise fantasy used";
+var mnemonic = "join wagon gift dream can turtle element cruise cricket toe century miss";

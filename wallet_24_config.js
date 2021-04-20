@@ -1,1 +1,1 @@
-var mnemonic = "input stage stand increase swarm verb bachelor erosion upper stool okay deposit";
+var mnemonic = "used donate buyer concert multiply uphold mercy cram entire town sword lunar";

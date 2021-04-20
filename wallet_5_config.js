@@ -1,1 +1,1 @@
-var mnemonic = "flight fog trumpet bullet survey pledge become anxiety inspire citizen ankle inquiry";
+var mnemonic = "sauce network lemon box ready mystery fun oyster discover shrug flight catalog";

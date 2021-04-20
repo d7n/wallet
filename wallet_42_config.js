@@ -1,1 +1,1 @@
-var mnemonic = "output flee grain puzzle occur world clever hawk brisk like bag huge";
+var mnemonic = "alarm race panda siren void cram hockey cruise protect immense hammer ocean";

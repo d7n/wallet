@@ -1,1 +1,1 @@
-var mnemonic = "anger pattern prosper minimum buzz fish athlete brand they fancy sick length";
+var mnemonic = "ice borrow moment atom torch hybrid police twin abandon wine will increase";

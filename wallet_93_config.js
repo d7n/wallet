@@ -1,1 +1,1 @@
-var mnemonic = "frost bind rain liar battle obvious link salon gentle disagree ordinary solar";
+var mnemonic = "poet december glove cabin object provide method brand flag exotic crumble engine";

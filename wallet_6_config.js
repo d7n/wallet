@@ -1,1 +1,1 @@
-var mnemonic = "cheese economy where easily ginger dial bag setup volcano two abstract dose";
+var mnemonic = "dust public oven lunar vapor weapon time island census avoid victory inject";

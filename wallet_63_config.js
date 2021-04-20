@@ -1,1 +1,1 @@
-var mnemonic = "require egg badge enhance napkin elbow wedding gadget gym elder next together";
+var mnemonic = "myth purpose human caught tower brief you answer ask comfort cube property";

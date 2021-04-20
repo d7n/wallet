@@ -1,1 +1,1 @@
-var mnemonic = "wish month behind case second category rack unit arrange space hollow identify";
+var mnemonic = "thunder impact frozen eager negative twice hunt fly exit rail shock bless";

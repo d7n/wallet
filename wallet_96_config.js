@@ -1,1 +1,1 @@
-var mnemonic = "canvas author vibrant library barely ten vicious trim cup master system version";
+var mnemonic = "mom trust vote steel work tornado umbrella night obtain crane avoid claim";

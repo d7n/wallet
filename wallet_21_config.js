@@ -1,1 +1,1 @@
-var mnemonic = "galaxy loud poet dust salt omit desert when erode artwork shed link";
+var mnemonic = "security voyage open squirrel ozone learn lake guitar master ginger brief dog";

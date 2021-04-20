@@ -1,1 +1,1 @@
-var mnemonic = "valid skill guess snap tourist nothing castle mail basket month toe finish";
+var mnemonic = "private leaf cover ignore dizzy soft palm velvet neglect renew lemon achieve";

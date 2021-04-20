@@ -1,1 +1,1 @@
-var mnemonic = "pyramid party cash inner boost dismiss guard theme observe rich dad favorite";
+var mnemonic = "sword stage rifle pink dry large impact dumb angry similar wink buddy";

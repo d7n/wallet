@@ -1,1 +1,1 @@
-var mnemonic = "crowd coconut science derive birth joy arena miracle assault uncover bid jungle";
+var mnemonic = "problem steel wonder jacket soda super artwork piano dial salute auction rely";

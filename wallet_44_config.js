@@ -1,1 +1,1 @@
-var mnemonic = "brisk near actress elephant black jaguar enact comic measure behave miss marriage";
+var mnemonic = "race marriage whisper olive exit near hero meat faith census material brisk";

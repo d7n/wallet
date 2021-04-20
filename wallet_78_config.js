@@ -1,1 +1,1 @@
-var mnemonic = "orient sword swamp obtain diary spring melt bomb copy orient craft knife";
+var mnemonic = "vast hope isolate case entry humor travel stick vacant luggage fog shy";

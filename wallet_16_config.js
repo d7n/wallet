@@ -1,1 +1,1 @@
-var mnemonic = "master bike soup cover hello obey coil recipe typical hood equip turtle";
+var mnemonic = "play poem sniff typical you patch lawn lawn begin police holiday tell";

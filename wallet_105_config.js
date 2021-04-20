@@ -1,1 +1,1 @@
-var mnemonic = "swift adult awesome argue plug start blast accuse special panic ketchup stable";
+var mnemonic = "render first veteran person legal citizen avocado arrive unhappy spy lend tone";

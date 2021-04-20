@@ -1,1 +1,1 @@
-var mnemonic = "risk paddle cupboard spider acoustic flight until task wing next brisk write";
+var mnemonic = "craft fragile stick drop embark trophy prevent huge know equip early lawn";

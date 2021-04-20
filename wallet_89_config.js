@@ -1,1 +1,1 @@
-var mnemonic = "side network miss cabbage avocado odor game spider motor fox where glad";
+var mnemonic = "neck mix prison party ability assume script case silk movie knock mimic";

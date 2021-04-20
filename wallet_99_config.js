@@ -1,1 +1,1 @@
-var mnemonic = "unusual chair health route valley sea bus about unit buddy lottery reopen";
+var mnemonic = "rack magnet camp true dirt jump above clarify exotic caution toy keen";

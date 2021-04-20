@@ -1,1 +1,1 @@
-var mnemonic = "artefact height fine fuel jazz fat buyer inch satisfy leave accident brief";
+var mnemonic = "human initial saddle run purpose puzzle hen chalk neither excuse blade camera";

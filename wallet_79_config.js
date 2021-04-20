@@ -1,1 +1,1 @@
-var mnemonic = "ceiling produce slam charge shove amazing label beyond observe today celery cause";
+var mnemonic = "venue maid stage glimpse security february agree glimpse beach demise mask twin";

@@ -1,1 +1,1 @@
-var mnemonic = "brass thumb solar fever gadget change brave throw noble tag south during";
+var mnemonic = "position mixture very taste truth finish process oblige evolve hope airport smoke";

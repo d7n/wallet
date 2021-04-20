@@ -1,1 +1,1 @@
-var mnemonic = "scissors evil abuse burst nature tomato minimum speed promote girl dismiss emotion";
+var mnemonic = "life arrange enable patch brass alpha benefit identify high remember common salute";

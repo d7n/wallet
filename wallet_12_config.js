@@ -1,1 +1,1 @@
-var mnemonic = "cigar vocal echo just pride tool truly black gain mule bunker logic";
+var mnemonic = "black table crime veteran flat grocery service video visa calm rich false";

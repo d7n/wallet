@@ -1,1 +1,1 @@
-var mnemonic = "danger transfer where picnic unique wet tell various hair crumble call excite";
+var mnemonic = "educate crane floor since hawk flame super supply regular jeans drink brisk";

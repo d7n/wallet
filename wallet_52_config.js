@@ -1,1 +1,1 @@
-var mnemonic = "nothing shallow sock feature iron pulse blush appear eternal hand correct hammer";
+var mnemonic = "random pave scissors number remind balance choose knee olympic before mimic hammer";

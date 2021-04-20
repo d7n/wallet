@@ -1,1 +1,1 @@
-var mnemonic = "example violin domain best vivid much link reward limit build turn crash";
+var mnemonic = "enough ability connect traffic season real disagree leisure vast blanket earth have";

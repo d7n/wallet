@@ -1,1 +1,1 @@
-var mnemonic = "educate point cake hen cable firm quarter nut symptom wrong sort rice";
+var mnemonic = "type promote library calm fortune critic double hen pottery heavy faculty solid";

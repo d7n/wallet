@@ -1,1 +1,1 @@
-var mnemonic = "aim friend enjoy what real jelly over board pitch suffer bar park";
+var mnemonic = "water interest veteran session switch rapid danger powder library thumb kingdom quality";

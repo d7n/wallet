@@ -1,1 +1,1 @@
-var mnemonic = "sea attend shrug valley usual mixture fan charge bitter voice minute jealous";
+var mnemonic = "surface amused cabin until crew clean chest island wet surge desk water";

@@ -1,1 +1,1 @@
-var mnemonic = "bird alarm guess solar paper kick brief wait uncover asthma usage monkey";
+var mnemonic = "lizard wild plate improve tone right involve fabric owner relief rich loud";

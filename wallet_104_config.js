@@ -1,1 +1,1 @@
-var mnemonic = "speed device brave camera metal lucky lady wheat collect bulk civil east";
+var mnemonic = "analyst inspire edge fold silver test annual slab thank guitar easy raise";

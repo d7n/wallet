@@ -1,1 +1,1 @@
-var mnemonic = "twin allow obey debris solar room there oak feel frost cry artefact";
+var mnemonic = "faculty air tank path lottery object crater wild orbit nose auction rent";

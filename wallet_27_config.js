@@ -1,1 +1,1 @@
-var mnemonic = "vital into size audit penalty feed exact captain spawn blame scout fog";
+var mnemonic = "acoustic title artwork inmate hundred board animal warfare survey circle all cricket";

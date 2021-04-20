@@ -1,1 +1,1 @@
-var mnemonic = "shoe couple repeat ketchup gun judge fame delay crisp fix ahead person";
+var mnemonic = "permit pen congress ozone trash pledge pretty goddess juice expect traffic lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy beef task help stumble fringe reflect true novel nasty glue lens";
+var mnemonic = "clever nurse nut real topic picnic setup empty remind sphere spend stomach";

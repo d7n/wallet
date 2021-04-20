@@ -1,1 +1,1 @@
-var mnemonic = "middle giraffe become cross wine achieve fat bone dream lady welcome outer";
+var mnemonic = "topic accuse advance gentle museum fortune conduct castle advice damage exchange truly";

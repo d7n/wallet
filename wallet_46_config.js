@@ -1,1 +1,1 @@
-var mnemonic = "book timber stomach awesome anger pigeon oppose high lock trip heavy museum";
+var mnemonic = "tissue rib result shoe digital turkey dial luxury surprise twin citizen scout";

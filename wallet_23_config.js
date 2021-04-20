@@ -1,1 +1,1 @@
-var mnemonic = "later father reject hub reduce dirt lottery false shoulder tired resource ocean";
+var mnemonic = "expand rack fashion divide denial slush axis vote castle provide clarify neck";

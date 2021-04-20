@@ -1,1 +1,1 @@
-var mnemonic = "enact front gold tail deliver round giraffe cliff option minimum clog income";
+var mnemonic = "eight ozone quote ticket upgrade fantasy horse goose throw course other bring";

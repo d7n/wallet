@@ -1,1 +1,1 @@
-var mnemonic = "essence list end cry permit blossom plug harsh amused deputy enhance satoshi";
+var mnemonic = "behind beef gain legend test method mountain guard frozen wire viable ahead";

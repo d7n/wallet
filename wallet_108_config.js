@@ -1,1 +1,1 @@
-var mnemonic = "dish find coyote luggage snow twelve strike lava oppose disagree castle express";
+var mnemonic = "funny course raccoon uphold bottom frozen live congress concert return steak act";

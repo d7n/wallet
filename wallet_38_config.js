@@ -1,1 +1,1 @@
-var mnemonic = "strong always inherit struggle machine annual frame oak stamp hold purse father";
+var mnemonic = "riot lawsuit heart hint photo forest arena seven network drip use flush";

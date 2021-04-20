@@ -1,1 +1,1 @@
-var mnemonic = "leaf absurd baby monitor food session grant torch educate pipe addict rhythm";
+var mnemonic = "easy team ten onion cattle kind truck someone toilet bless ostrich vital";

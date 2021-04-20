@@ -1,1 +1,1 @@
-var mnemonic = "good elbow save nose whisper clerk curve bar boost weekend dragon actress";
+var mnemonic = "shy concert balcony favorite life food rookie grid fall observe lottery gold";

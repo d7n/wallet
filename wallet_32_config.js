@@ -1,1 +1,1 @@
-var mnemonic = "satisfy emerge autumn toddler similar please jealous ramp slide ask weather apple";
+var mnemonic = "next ecology invest crush sibling security load suit earn drill neglect short";

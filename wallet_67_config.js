@@ -1,1 +1,1 @@
-var mnemonic = "heavy team eyebrow picnic bind unique impact card voyage chronic rotate crumble";
+var mnemonic = "item praise post paddle come obtain brother also crane economy sunset object";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver frog supreme assist grape cup fashion craft like length glance anchor";
+var mnemonic = "sense day biology visa slide donor profit field book cushion mirror kangaroo";
