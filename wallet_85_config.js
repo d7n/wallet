@@ -1,1 +1,1 @@
-var mnemonic = "trim tourist tube eternal hint unveil urge become else fine trouble sample";
+var mnemonic = "resist burden differ dutch harvest essay list layer remain anxiety exchange wagon";

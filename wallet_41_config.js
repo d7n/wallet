@@ -1,1 +1,1 @@
-var mnemonic = "salute stable word notice describe canal day gold soccer wear laptop woman";
+var mnemonic = "hire equip code agree sorry dutch pistol fall earn gossip radar author";

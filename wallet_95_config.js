@@ -1,1 +1,1 @@
-var mnemonic = "left client only cupboard kitten interest vintage wrong divide breeze insane system";
+var mnemonic = "cart fuel jelly exhaust open silly wage era develop fall gauge comfort";

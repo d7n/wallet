@@ -1,1 +1,1 @@
-var mnemonic = "language fever cable parade bomb essence disagree book axis capital identify room";
+var mnemonic = "mammal trial detect length dinosaur boil scrub grunt kidney melody soldier fragile";

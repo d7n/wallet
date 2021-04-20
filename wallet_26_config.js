@@ -1,1 +1,1 @@
-var mnemonic = "liar soap couch say blouse message train pumpkin sound unlock mosquito spray";
+var mnemonic = "federal forget dwarf narrow hockey direct curve cabbage razor dog frame hospital";

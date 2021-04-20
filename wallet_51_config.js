@@ -1,1 +1,1 @@
-var mnemonic = "stomach provide snow again diet pen mutual stable sniff breeze useless upset";
+var mnemonic = "pink expire bonus awake popular light slow inherit upper recipe into decide";

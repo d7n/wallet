@@ -1,1 +1,1 @@
-var mnemonic = "man winner panda hour novel since satisfy grace away impact flavor elegant";
+var mnemonic = "island napkin supreme parent gift sibling good cactus vivid galaxy refuse coral";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise grant cotton pyramid achieve basic regular parent equip judge promote diary";
+var mnemonic = "tonight opera confirm shy amateur clutch virtual mandate split vehicle fury sister";

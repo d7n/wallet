@@ -1,1 +1,1 @@
-var mnemonic = "debate kiwi churn parrot firm symbol poverty fish tip hire staff mule";
+var mnemonic = "flash wrong name hard foot alpha suit bench person amount web index";

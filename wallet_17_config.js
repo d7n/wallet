@@ -1,1 +1,1 @@
-var mnemonic = "moon cotton gate defy special other patient system cheap web budget taxi";
+var mnemonic = "region salon stem panda dinner leave nuclear lava wear eagle decorate olympic";

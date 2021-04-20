@@ -1,1 +1,1 @@
-var mnemonic = "pink wife cross grunt witness come bitter foil expose oblige glare enact";
+var mnemonic = "slot wrist pig assist arrive sign jungle truck apology warm type salon";

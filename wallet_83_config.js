@@ -1,1 +1,1 @@
-var mnemonic = "fatal layer exotic region firm address suffer thing bullet chief sand proof";
+var mnemonic = "dream combine dilemma spider journey vibrant super evil liberty guide govern rescue";

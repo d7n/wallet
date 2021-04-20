@@ -1,1 +1,1 @@
-var mnemonic = "elbow scout ski vital retreat what arm pattern ticket side cable tide";
+var mnemonic = "absurd snap borrow raw drastic bench ritual fury gun lottery rice high";

@@ -1,1 +1,1 @@
-var mnemonic = "maple worry patrol grain elder wine blush board gasp crop dinosaur cheese";
+var mnemonic = "utility rich hub aisle animal transfer verify wagon sunny shove company dentist";

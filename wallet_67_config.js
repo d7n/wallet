@@ -1,1 +1,1 @@
-var mnemonic = "pyramid claw pen gain boring breeze mask maid calm mango captain click";
+var mnemonic = "rapid fiscal embark pull amused sunny detect ahead cake ice jungle measure";

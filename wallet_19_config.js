@@ -1,1 +1,1 @@
-var mnemonic = "cat kingdom shrug flag clarify shoot motion vanish sister polar wheel employ";
+var mnemonic = "simple worry abandon lyrics intact surround employ cradle trophy table parrot perfect";

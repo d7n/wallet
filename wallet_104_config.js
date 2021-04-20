@@ -1,1 +1,1 @@
-var mnemonic = "grace risk couple blame confirm never program panther smooth leaf gravity yellow";
+var mnemonic = "artist duck fine mercy draw ignore orphan cube path this cushion occur";

@@ -1,1 +1,1 @@
-var mnemonic = "gown tackle veteran where cash evolve message weather junior disorder electric acid";
+var mnemonic = "scorpion already pig advice view drill frozen tower resist state goat lesson";

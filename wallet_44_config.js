@@ -1,1 +1,1 @@
-var mnemonic = "empty strike hard syrup season hazard orange upgrade talk turn snake cinnamon";
+var mnemonic = "nest trigger soap nominee gallery eternal shoulder frost bracket bomb obvious disease";

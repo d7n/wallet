@@ -1,1 +1,1 @@
-var mnemonic = "victory arrange young require evil country inflict goddess become tide guess essence";
+var mnemonic = "clip album reject camera cluster enroll tobacco crowd heart purity extend home";

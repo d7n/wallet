@@ -1,1 +1,1 @@
-var mnemonic = "tomato stick version fish dream mom erosion suffer shift palace attack point";
+var mnemonic = "suggest error drama town age drink slide caught hybrid actress elbow brave";

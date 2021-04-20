@@ -1,1 +1,1 @@
-var mnemonic = "expose robust average apple hand sleep input used hunt kingdom explain myself";
+var mnemonic = "heart stadium cloth air move ahead wage smooth safe weird expose frog";

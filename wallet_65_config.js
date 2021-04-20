@@ -1,1 +1,1 @@
-var mnemonic = "equal slight sure poet advice distance crucial camp rule onion tower language";
+var mnemonic = "empower equip inhale border cinnamon cactus inmate quit segment spatial finish devote";

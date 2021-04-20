@@ -1,1 +1,1 @@
-var mnemonic = "describe bracket color bundle deal fatal across silver race connect cave invite";
+var mnemonic = "twist clump scout ball clarify beyond arrange empty coast opera arrive device";

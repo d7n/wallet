@@ -1,1 +1,1 @@
-var mnemonic = "health armed jeans crystal pink such one silver issue session matter error";
+var mnemonic = "fresh system salute face choice copper warm elephant pen arrange announce wool";

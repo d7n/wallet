@@ -1,1 +1,1 @@
-var mnemonic = "clump offer sad strong have slender start leisure color verify staff convince";
+var mnemonic = "keep van fluid trouble uncover level solid art label burden window twist";

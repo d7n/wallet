@@ -1,1 +1,1 @@
-var mnemonic = "country mutual obtain rely possible deal maximum write modify bread flush lava";
+var mnemonic = "mean vessel quote onion limit find grain month leg capable retreat motor";

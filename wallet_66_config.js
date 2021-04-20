@@ -1,1 +1,1 @@
-var mnemonic = "inch mention canyon amazing shield focus rug fog clarify crime ghost access";
+var mnemonic = "small hold toward bean affair syrup program impact car steel flush provide";

@@ -1,1 +1,1 @@
-var mnemonic = "jump tongue distance stick mixed clump crunch kid laptop treat race erupt";
+var mnemonic = "present plunge swarm level load silk leopard hope grid carpet bracket level";

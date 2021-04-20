@@ -1,1 +1,1 @@
-var mnemonic = "bracket budget quick twist patch scan clown mobile apart nature extend assault";
+var mnemonic = "worry critic indicate code ahead tortoise fortune tonight frequent true wolf tissue";

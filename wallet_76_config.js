@@ -1,1 +1,1 @@
-var mnemonic = "still sense pitch choice gossip ceiling host upper vessel feature shift young";
+var mnemonic = "client maximum ivory tissue program sun tired habit omit gift mechanic disease";

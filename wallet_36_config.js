@@ -1,1 +1,1 @@
-var mnemonic = "merit sample hazard wealth thumb improve angle ramp dash oppose town palace";
+var mnemonic = "average return novel leg topic hover better gold team better vast shy";

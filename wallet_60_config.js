@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spy rent license blood then grid cinnamon mercy achieve tourist helmet";
+var mnemonic = "reveal cover tragic goose educate toy envelope pony fortune trophy absent delay";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry remind apple hospital outdoor again moon lake segment save blush result";
+var mnemonic = "almost cover ready earn ensure grocery final print also improve world medal";

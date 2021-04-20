@@ -1,1 +1,1 @@
-var mnemonic = "bottom black bicycle lonely stairs rude token outer live april weasel seven";
+var mnemonic = "tribe cannon violin volume suffer license list slam kit pig stool hamster";

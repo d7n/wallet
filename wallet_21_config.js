@@ -1,1 +1,1 @@
-var mnemonic = "already sight load until curious grunt wreck shell social afford giant execute";
+var mnemonic = "vast robot knock arrow room hope orange detect aerobic joy eye inmate";

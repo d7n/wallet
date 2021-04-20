@@ -1,1 +1,1 @@
-var mnemonic = "duty eagle such fish frequent like various barely session term robust lock";
+var mnemonic = "suit embark piano zebra siege barely dragon action problem arctic mesh recipe";

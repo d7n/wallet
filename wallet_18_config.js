@@ -1,1 +1,1 @@
-var mnemonic = "student wait they pulp diamond fee stock future sudden screen own alter";
+var mnemonic = "convince recipe when naive list army swing subject gravity giggle joke canal";

@@ -1,1 +1,1 @@
-var mnemonic = "depth mass taxi already giant fiction mesh million scout mix bread warm";
+var mnemonic = "alert squeeze antenna wealth inform always hidden easy defy brief ripple slam";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle lamp rice index service crop orange motion equip clock mixture crisp";
+var mnemonic = "enhance hurry age adapt ozone deny motor about wine elite recycle great";

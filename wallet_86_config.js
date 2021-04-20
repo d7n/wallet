@@ -1,1 +1,1 @@
-var mnemonic = "chase decide cry prevent myself audit duty sea write confirm attitude family";
+var mnemonic = "horror clock snap answer assault purpose mutual lava eagle shiver fury copy";

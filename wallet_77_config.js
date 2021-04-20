@@ -1,1 +1,1 @@
-var mnemonic = "potato escape about finger topic mimic sister drum document clown attack milk";
+var mnemonic = "way enjoy tobacco drive narrow miracle derive wreck liberty journey maximum mixed";

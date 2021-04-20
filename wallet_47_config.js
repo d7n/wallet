@@ -1,1 +1,1 @@
-var mnemonic = "height use pig arm onion mosquito squeeze history bundle topple elbow seek";
+var mnemonic = "put tattoo alert depend coach top rubber spend barrel school witness antique";

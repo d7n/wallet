@@ -1,1 +1,1 @@
-var mnemonic = "master exhaust work inhale person want chalk fun wait cheese double weasel";
+var mnemonic = "fever nice sick never credit inner economy jungle toilet property simple often";

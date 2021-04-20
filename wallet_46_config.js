@@ -1,1 +1,1 @@
-var mnemonic = "ski better emotion magnet impulse upon clay clown mouse glass achieve educate";
+var mnemonic = "seat evidence tower gaze trip only edge object toward blanket cannon rhythm";

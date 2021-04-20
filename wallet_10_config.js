@@ -1,1 +1,1 @@
-var mnemonic = "aerobic ivory bottom beyond attack find shaft orphan permit recipe repair possible";
+var mnemonic = "afford denial isolate glimpse survey crash guilt unaware flat tower glimpse panda";

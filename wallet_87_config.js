@@ -1,1 +1,1 @@
-var mnemonic = "cash recall middle sentence include water fortune dumb mixture immune regret filter";
+var mnemonic = "uncle hub fox always cluster inject follow orange bottom rare enjoy put";

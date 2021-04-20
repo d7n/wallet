@@ -1,1 +1,1 @@
-var mnemonic = "soap voice garbage joy chaos will hungry tired orchard recall dragon world";
+var mnemonic = "over few smooth try same acoustic detail piece chase grain leave model";

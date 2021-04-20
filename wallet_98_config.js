@@ -1,1 +1,1 @@
-var mnemonic = "relax whip before render cry boat will just gold planet fox multiply";
+var mnemonic = "symbol shove wagon net awake plate frog kit basket ring thumb lawsuit";

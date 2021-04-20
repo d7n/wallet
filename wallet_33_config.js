@@ -1,1 +1,1 @@
-var mnemonic = "dutch cover toy recipe usual humble betray mother system nurse elegant tortoise";
+var mnemonic = "young program market lyrics page basket ritual park keen blossom image dry";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas fox risk click lonely side erode vehicle slab fall select dawn";
+var mnemonic = "cover secret few space minimum tattoo boil faith clip manual clutch trophy";

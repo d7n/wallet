@@ -1,1 +1,1 @@
-var mnemonic = "small gasp describe squeeze debate turkey shine slogan quiz gravity decide camera";
+var mnemonic = "web cruise impact clog protect slight parrot ten spy cloud remain thunder";

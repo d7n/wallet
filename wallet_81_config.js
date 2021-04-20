@@ -1,1 +1,1 @@
-var mnemonic = "canal easily merit symptom grab april blanket maid beef affair sunny satisfy";
+var mnemonic = "seven ghost mechanic cruel diary future one educate green pitch vanish toy";

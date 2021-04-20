@@ -1,1 +1,1 @@
-var mnemonic = "improve choice kangaroo plug tobacco tiger chest silk second bronze trip ivory";
+var mnemonic = "author detect wash rather crawl link story desk warm bubble ecology humor";

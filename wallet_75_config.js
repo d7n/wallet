@@ -1,1 +1,1 @@
-var mnemonic = "lobster tank much tissue silk recipe split valve youth grab heart best";
+var mnemonic = "win business anxiety group winter lady rude degree drama repair oak twist";

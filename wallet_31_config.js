@@ -1,1 +1,1 @@
-var mnemonic = "uncle exhibit economy live canvas denial mind cheap pink still embody clerk";
+var mnemonic = "power sauce credit just armed switch explain dizzy alter clump smoke metal";

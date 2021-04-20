@@ -1,1 +1,1 @@
-var mnemonic = "trip innocent fat train exhaust sunset milk square clever success eight drop";
+var mnemonic = "nose snack render explain tonight area episode insect tattoo solution tower win";

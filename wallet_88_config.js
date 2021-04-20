@@ -1,1 +1,1 @@
-var mnemonic = "valid embark skull state banner require minute shoe youth kiwi mass truck";
+var mnemonic = "kid bubble kangaroo correct chaos snack sign dad feel cake omit input";

@@ -1,1 +1,1 @@
-var mnemonic = "random good kick thrive oak accuse gate typical youth seed seven shrimp";
+var mnemonic = "happy warfare supreme glare humor shy napkin autumn chunk peasant exotic quit";

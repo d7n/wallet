@@ -1,1 +1,1 @@
-var mnemonic = "setup joy bacon public attitude dove update column network love scan idea";
+var mnemonic = "hobby excess erase body asset deposit sword know breeze harbor print cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "blood alcohol scan balance blossom cost lava act inmate spike cake gospel";
+var mnemonic = "vote rack junk trust wrestle pact life output address beef disorder knee";

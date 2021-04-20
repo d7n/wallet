@@ -1,1 +1,1 @@
-var mnemonic = "kid seed priority run crystal coffee whale argue pull must movie tired";
+var mnemonic = "sand hip job around hybrid jazz tree staff record cradle side lyrics";

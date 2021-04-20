@@ -1,1 +1,1 @@
-var mnemonic = "unknown reward select face bacon subway fatigue cake autumn ecology review inspire";
+var mnemonic = "fantasy border syrup peasant answer soda mom rhythm furnace flight nature rose";

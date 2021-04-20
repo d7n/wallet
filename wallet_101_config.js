@@ -1,1 +1,1 @@
-var mnemonic = "harvest winner canal suffer debris turtle pass object broom soap index battle";
+var mnemonic = "seek monkey rug project outside dial install scale position sense despair country";

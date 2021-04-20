@@ -1,1 +1,1 @@
-var mnemonic = "child put between glare smooth quick sock soldier idle syrup train foil";
+var mnemonic = "palace grab surface muffin clay slice basic equal limb monster afraid kick";

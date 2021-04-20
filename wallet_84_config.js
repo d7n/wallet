@@ -1,1 +1,1 @@
-var mnemonic = "friend category sing session law miss cousin oil lawn secret ripple slice";
+var mnemonic = "gap hour often slogan choose patrol upper weasel renew wagon muscle sign";

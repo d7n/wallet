@@ -1,1 +1,1 @@
-var mnemonic = "response salon erase film plunge cabbage owner pride weekend catch dice strategy";
+var mnemonic = "inspire unfold void genius divorce arena pretty blouse fix symbol ensure chuckle";

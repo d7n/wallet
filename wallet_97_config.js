@@ -1,1 +1,1 @@
-var mnemonic = "mistake exclude napkin bird early brother powder scrub depart gesture member title";
+var mnemonic = "effort pumpkin oak enhance gold scheme tube diesel summer airport piece answer";

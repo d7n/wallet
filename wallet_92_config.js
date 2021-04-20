@@ -1,1 +1,1 @@
-var mnemonic = "story solar sport ketchup daughter already rare uniform ankle desk endless index";
+var mnemonic = "mandate skull swallow relief task opera input recipe panther young setup rain";

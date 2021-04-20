@@ -1,1 +1,1 @@
-var mnemonic = "sort fork alert need proud neck bone uniform garden whisper memory monkey";
+var mnemonic = "rely bubble ice toy virtual design sell settle crunch wonder energy gallery";

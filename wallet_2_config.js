@@ -1,1 +1,1 @@
-var mnemonic = "dry lobster over eagle explain olive into final sort cactus pet correct";
+var mnemonic = "refuse wisdom expand vault fringe devote salute squirrel stand salmon phrase note";

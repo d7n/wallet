@@ -1,1 +1,1 @@
-var mnemonic = "home ordinary electric athlete danger chicken jewel waste poet legend rain latin";
+var mnemonic = "alien unique elder soup water woman recipe chuckle juice acquire early exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos shallow burger cube craft sign enjoy obtain umbrella broken skin runway";
+var mnemonic = "bounce address cool evil outdoor bargain guard luggage million solution rate fabric";

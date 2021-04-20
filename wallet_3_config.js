@@ -1,1 +1,1 @@
-var mnemonic = "unknown turkey ghost company wet witness vault about easy cluster hockey vast";
+var mnemonic = "loud steak seminar tenant cruise trumpet battle spot nominee bike boost pear";

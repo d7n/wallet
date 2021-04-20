@@ -1,1 +1,1 @@
-var mnemonic = "bamboo remove polar leave stem famous era moral rigid kite roast long";
+var mnemonic = "math slot mother rain zoo alarm runway clarify exist soccer book tube";

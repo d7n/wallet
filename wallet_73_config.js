@@ -1,1 +1,1 @@
-var mnemonic = "art sauce dignity ship cross allow evoke fit cheap reunion vital choice";
+var mnemonic = "minor father else else flight sand wink file coast novel monitor wage";

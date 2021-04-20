@@ -1,1 +1,1 @@
-var mnemonic = "try tank crucial candy rural appear stick prize atom about owner absent";
+var mnemonic = "salute matrix around shrug gap school mystery hello bread siege loyal quantum";

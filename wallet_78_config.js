@@ -1,1 +1,1 @@
-var mnemonic = "bleak turn brass people future dizzy notice sauce metal magic pig decorate";
+var mnemonic = "rubber snack muffin reflect song boil suffer wild team surround exotic buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "rare version extra bulb merry embark lazy peanut clay wrap mosquito zoo";
+var mnemonic = "recycle april doctor exhaust spider another arm pony song theory advance sword";

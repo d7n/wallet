@@ -1,1 +1,1 @@
-var mnemonic = "screen steel minor now nephew south person security brisk shell fetch fantasy";
+var mnemonic = "own chat opera enlist unfair art average actual lucky rescue ridge butter";

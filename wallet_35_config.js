@@ -1,1 +1,1 @@
-var mnemonic = "car merge royal rabbit state plate rally final wrap rescue reunion welcome";
+var mnemonic = "audit one shiver inmate clown club canoe random brass exercise squeeze jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "system veteran clerk soccer this image typical topple orbit fit sport intact";
+var mnemonic = "calm blush denial cradle wet only artefact helmet december recycle honey victory";

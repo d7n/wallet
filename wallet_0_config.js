@@ -1,1 +1,1 @@
-var mnemonic = "giant observe hybrid collect document embrace truck lounge purity harbor trend barely";
+var mnemonic = "era junk season sign gate upset work hedgehog diet wheel hire violin";

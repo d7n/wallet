@@ -1,1 +1,1 @@
-var mnemonic = "fame hotel dream sun system scrub peasant goddess flower adapt minor invite";
+var mnemonic = "alarm dwarf slab sad width juice lunar speed myself faculty chuckle cart";

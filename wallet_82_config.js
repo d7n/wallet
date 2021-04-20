@@ -1,1 +1,1 @@
-var mnemonic = "list mandate palm birth logic tortoise pistol execute local build mixed version";
+var mnemonic = "luggage item kidney episode merge federal recipe velvet mix obey arrange friend";

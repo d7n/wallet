@@ -1,1 +1,1 @@
-var mnemonic = "much clever gravity grow amazing feel pink dismiss tortoise position grit cover";
+var mnemonic = "umbrella stock minimum coyote glass maple kidney muscle ticket focus scissors enlist";

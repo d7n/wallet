@@ -1,1 +1,1 @@
-var mnemonic = "casual action estate actress gravity sick mountain spoon gallery spare strong remove";
+var mnemonic = "donor grant zone minor sleep myth harbor spawn drip decrease acoustic blood";

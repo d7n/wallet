@@ -1,1 +1,1 @@
-var mnemonic = "cross embark horn during circle involve reopen maze want sell female despair";
+var mnemonic = "apology two shift marble deposit blush rebel display airport subway pact media";

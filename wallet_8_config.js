@@ -1,1 +1,1 @@
-var mnemonic = "someone edit gate suspect seed toe connect breeze clinic carry green twelve";
+var mnemonic = "air session force damp zebra congress blame suspect clap predict word mango";

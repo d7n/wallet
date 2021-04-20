@@ -1,1 +1,1 @@
-var mnemonic = "loan double grain define mutual main license vapor cloth doctor sentence other";
+var mnemonic = "laptop offer silver desert plug length observe device cluster hollow umbrella exit";

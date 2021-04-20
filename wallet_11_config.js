@@ -1,1 +1,1 @@
-var mnemonic = "ozone steel retreat rabbit puppy trial mandate custom message giraffe card tip";
+var mnemonic = "cram hard leopard ensure approve exhibit name usage rough skill arena attend";
