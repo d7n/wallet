@@ -1,1 +1,1 @@
-var mnemonic = "combine stereo summer worry drive movie wire novel satisfy hundred kitten two";
+var mnemonic = "category embark tissue imitate visa soap portion brief until uphold certain arrange";

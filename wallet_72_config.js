@@ -1,1 +1,1 @@
-var mnemonic = "slogan note leave avocado crawl since balcony sketch luggage meadow doctor flame";
+var mnemonic = "angle feel arm spot globe laugh sure observe fit weird brave twist";

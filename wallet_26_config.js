@@ -1,1 +1,1 @@
-var mnemonic = "often area come design swarm bus slogan indoor barrel parrot sing pottery";
+var mnemonic = "athlete rule equal size paddle minute rebuild brown health stomach insect staff";

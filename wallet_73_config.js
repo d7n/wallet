@@ -1,1 +1,1 @@
-var mnemonic = "guess number elder blast grace hotel okay tell vintage rebuild cost hello";
+var mnemonic = "swear exchange wire bulb satisfy survey tornado devote mimic coach grace budget";

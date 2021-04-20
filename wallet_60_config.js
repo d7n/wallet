@@ -1,1 +1,1 @@
-var mnemonic = "party loyal scrap pull suit great skate soda evoke fruit nut pepper";
+var mnemonic = "exhibit just dismiss icon truck stick left danger potato outer soldier flip";

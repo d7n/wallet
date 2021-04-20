@@ -1,1 +1,1 @@
-var mnemonic = "female wink shine use section neither acid column rent pool real match";
+var mnemonic = "place laundry boy near case project believe stumble flush release upper jar";

@@ -1,1 +1,1 @@
-var mnemonic = "equip solar glass mixture champion child circle arrest slam winter poet dad";
+var mnemonic = "rookie width steel kingdom alcohol donor crouch acquire tornado gain weasel theme";

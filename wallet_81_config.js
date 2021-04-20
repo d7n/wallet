@@ -1,1 +1,1 @@
-var mnemonic = "consider spin ceiling piece book rate cart avocado loop movie essence cliff";
+var mnemonic = "water primary retreat tumble search cream fringe quick space under heart pencil";

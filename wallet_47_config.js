@@ -1,1 +1,1 @@
-var mnemonic = "joke behave brisk ignore helmet plunge reform sunset story book manual orphan";
+var mnemonic = "chair dad trumpet amazing once scheme unveil pet invite decrease cattle cream";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh jealous column clap similar coral frame brief soup aspect monkey blanket";
+var mnemonic = "close soldier analyst save gaze focus novel shrimp grow engage bullet thunder";

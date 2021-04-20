@@ -1,1 +1,1 @@
-var mnemonic = "century shoe inflict income flight knock agree aim anchor left curtain never";
+var mnemonic = "thing detect pride trip garage another embark vintage spare direct neck sound";

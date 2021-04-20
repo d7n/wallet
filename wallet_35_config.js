@@ -1,1 +1,1 @@
-var mnemonic = "eagle rifle vessel toy skull miracle lake spice certain rocket hero cube";
+var mnemonic = "victory derive bus hello endless include speak feel pig defense shoulder chapter";

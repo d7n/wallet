@@ -1,1 +1,1 @@
-var mnemonic = "bounce skin angle crouch neither story fortune wheel large walk another law";
+var mnemonic = "current scissors run excess brief about know effort bounce satoshi beach window";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff suffer film husband valve seminar chair armed fuel orphan panic exotic";
+var mnemonic = "recipe fame cruel february actress punch angry bag warm spawn dance beauty";

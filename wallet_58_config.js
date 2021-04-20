@@ -1,1 +1,1 @@
-var mnemonic = "civil gloom since judge future unique blush salmon filter half crumble legal";
+var mnemonic = "start enact tattoo napkin visual armed veteran sheriff pitch fantasy resource feature";

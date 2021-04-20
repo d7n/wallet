@@ -1,1 +1,1 @@
-var mnemonic = "version reward food legal document bright choice random regular assist motor fresh";
+var mnemonic = "amount candy bone embrace never allow harvest chuckle scatter female obtain train";

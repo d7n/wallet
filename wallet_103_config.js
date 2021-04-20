@@ -1,1 +1,1 @@
-var mnemonic = "truck caught song lion number oak country smooth grant hope desert cereal";
+var mnemonic = "juice gown mountain clown cover novel sound call name purse assault mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale balance find expire quiz there immense pony song fly tobacco assume";
+var mnemonic = "account appear stool foil pioneer fan lawsuit rib absurd drive auto sugar";

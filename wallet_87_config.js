@@ -1,1 +1,1 @@
-var mnemonic = "illness coach left decline cigar weird sail laugh abuse fuel profit entry";
+var mnemonic = "dinner aware once security deliver talk arch knee rubber patch kitten trigger";

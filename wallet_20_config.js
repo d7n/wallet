@@ -1,1 +1,1 @@
-var mnemonic = "concert resemble turn champion cushion grace chest february favorite drop suit frozen";
+var mnemonic = "transfer enforce debate deer receive perfect glass visa milk evidence canoe element";

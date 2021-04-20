@@ -1,1 +1,1 @@
-var mnemonic = "immense icon curious indoor abandon visual bargain category hungry since crumble rough";
+var mnemonic = "save depend boil broccoli tornado shine endorse debris accident improve ritual air";

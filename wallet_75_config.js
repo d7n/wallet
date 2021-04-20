@@ -1,1 +1,1 @@
-var mnemonic = "quality lion topple chase cereal liquid damp globe glove gown manage bright";
+var mnemonic = "humor fault square stadium bone zero salute sight bone expire december secret";

@@ -1,1 +1,1 @@
-var mnemonic = "wise shop prosper cinnamon author acoustic symbol transfer glory vessel prize chalk";
+var mnemonic = "creek patient sadness fitness puzzle convince coil board mom noble age display";

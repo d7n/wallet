@@ -1,1 +1,1 @@
-var mnemonic = "enhance cliff border deposit ladder item phone happy lunch typical cheese produce";
+var mnemonic = "tuna leg pudding damp sort figure level foot goat vintage fly nasty";

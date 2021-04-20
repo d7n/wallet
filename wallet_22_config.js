@@ -1,1 +1,1 @@
-var mnemonic = "youth bike nothing guard among safe vague antenna harsh wise awake gate";
+var mnemonic = "chaos claw cram exact eager creek myth angle scene ski ridge prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "during book outer virtual maple old glide mixture syrup van track satoshi";
+var mnemonic = "pave ten filter lobster sheriff exclude cake neither finger venture deputy endless";

@@ -1,1 +1,1 @@
-var mnemonic = "farm yard employ sort diesel spring ahead lamp pact crane field armor";
+var mnemonic = "essay ginger raw obvious verify crater poem bean false miracle soul open";

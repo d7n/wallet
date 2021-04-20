@@ -1,1 +1,1 @@
-var mnemonic = "fury alert assault cave blood hello enjoy vessel clean clutch fiscal high";
+var mnemonic = "weather effort belt seed nest burst nice supreme rice ridge casual ethics";

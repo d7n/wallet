@@ -1,1 +1,1 @@
-var mnemonic = "horse link upset hunt alien nasty give tortoise step joy spell wrist";
+var mnemonic = "fantasy burst modify network faculty season pledge walk ripple usual manual fever";

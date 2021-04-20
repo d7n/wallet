@@ -1,1 +1,1 @@
-var mnemonic = "spare shoe lemon february noise face stock spice idea breeze device head";
+var mnemonic = "please enhance kiwi gown bottom cruise wrap vicious team lady resist van";

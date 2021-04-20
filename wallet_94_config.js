@@ -1,1 +1,1 @@
-var mnemonic = "jazz gym nephew half aunt dish upon album finger knee extend report";
+var mnemonic = "city hood profit regret bone trim boost desert smoke toss hidden coil";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure art biology resist banana dawn camp biology hawk loyal edge shuffle";
+var mnemonic = "modify favorite always boy duck kangaroo thing enact dash reduce color anxiety";

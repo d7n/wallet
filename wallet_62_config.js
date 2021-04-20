@@ -1,1 +1,1 @@
-var mnemonic = "tribe offer inject shoot lobster mother hair cherry rare invest cruise naive";
+var mnemonic = "detect uncle glide choice exhibit shiver cupboard sense such abstract winter elegant";

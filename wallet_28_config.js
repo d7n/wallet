@@ -1,1 +1,1 @@
-var mnemonic = "income comfort impose tuition anxiety clap advance start camp celery weekend muscle";
+var mnemonic = "sponsor tower key file sound basket craft situate forest regret try forward";

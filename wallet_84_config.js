@@ -1,1 +1,1 @@
-var mnemonic = "slogan winner ethics zero wait lab exchange castle hockey bulk save pear";
+var mnemonic = "cargo basic chat add power business liquid street verify judge core wide";

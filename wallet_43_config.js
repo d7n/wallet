@@ -1,1 +1,1 @@
-var mnemonic = "word immense orphan good festival life betray staff stick jelly drum true";
+var mnemonic = "level extend slim horn effort antenna dog social doll atom extra sibling";

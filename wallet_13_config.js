@@ -1,1 +1,1 @@
-var mnemonic = "verify involve mercy immense toe size still wink rigid segment tackle brisk";
+var mnemonic = "small beauty burst protect way creek timber gorilla battle walk whisper slush";

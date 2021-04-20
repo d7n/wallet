@@ -1,1 +1,1 @@
-var mnemonic = "champion wage keep modify exchange design clog name bird purse melt stone";
+var mnemonic = "start fog fatal tell come submit zone source truck card neglect nothing";

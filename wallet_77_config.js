@@ -1,1 +1,1 @@
-var mnemonic = "maximum mango winner turkey grid april surface pause always piano narrow again";
+var mnemonic = "number seat melody group cinnamon devote sick half hockey call toilet ostrich";

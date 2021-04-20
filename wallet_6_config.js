@@ -1,1 +1,1 @@
-var mnemonic = "legal steel excuse crouch soup basket people profit release salad mean kidney";
+var mnemonic = "indoor urban mystery hedgehog write purpose lunar kingdom frame swap empty drill";

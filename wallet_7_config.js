@@ -1,1 +1,1 @@
-var mnemonic = "play child cart welcome side duck slim orchard say rabbit census joy";
+var mnemonic = "doll blood job buzz brave time argue smart vintage transfer giggle icon";

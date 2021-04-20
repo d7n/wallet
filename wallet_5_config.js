@@ -1,1 +1,1 @@
-var mnemonic = "fluid stable chest flock version decorate usual possible cheese cradle double dad";
+var mnemonic = "tortoise invite smart escape best always lawn capable fan kitten convince fly";

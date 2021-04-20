@@ -1,1 +1,1 @@
-var mnemonic = "dynamic birth click grain attend matter educate lounge fashion lecture castle husband";
+var mnemonic = "element fox during clerk can element double digital develop blur wage obtain";

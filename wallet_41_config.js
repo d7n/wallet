@@ -1,1 +1,1 @@
-var mnemonic = "rent dynamic gossip employ design unable eager age lecture machine fly eternal";
+var mnemonic = "alpha salon wolf cupboard client movie cement stadium inject toss hood medal";

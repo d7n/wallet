@@ -1,1 +1,1 @@
-var mnemonic = "remove dragon faint gap nest popular merge above shy guard apart absurd";
+var mnemonic = "oak poem main ridge zebra gas because concert ancient enough melody dynamic";

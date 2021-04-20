@@ -1,1 +1,1 @@
-var mnemonic = "quantum bracket emerge party disagree sun galaxy water sentence program electric shrimp";
+var mnemonic = "search dish foil skull empty actress chase island steak message lecture swear";

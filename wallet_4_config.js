@@ -1,1 +1,1 @@
-var mnemonic = "exhaust pear youth enhance execute flee crew weather arm cattle bullet ahead";
+var mnemonic = "crouch climb stand source turn prevent lesson hobby puzzle stand copy language";

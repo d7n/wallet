@@ -1,1 +1,1 @@
-var mnemonic = "cotton choice broccoli unfair catalog stereo supply enemy wing trade virus wall";
+var mnemonic = "engage bird square laugh current artist husband raise dune punch pepper manual";

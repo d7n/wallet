@@ -1,1 +1,1 @@
-var mnemonic = "tonight frost shaft pass term slogan switch clock payment volcano identify maple";
+var mnemonic = "evolve lunch together december giant unique collect unfair cricket economy find funny";

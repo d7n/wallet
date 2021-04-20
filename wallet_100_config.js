@@ -1,1 +1,1 @@
-var mnemonic = "ability way steel strong casino beach stuff report little crucial warrior lake";
+var mnemonic = "dentist trial young matter forget income enroll athlete hard stumble someone increase";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle bonus cave gentle seminar mixture unusual cement lady able couple lift";
+var mnemonic = "fringe raise olive often ordinary ride meat kid person access onion assist";

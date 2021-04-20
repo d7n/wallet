@@ -1,1 +1,1 @@
-var mnemonic = "neutral reopen type science pulse decide glare sure theme change large pulp";
+var mnemonic = "gloom struggle round raven use wine average notable vacant off december stand";

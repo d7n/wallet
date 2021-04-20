@@ -1,1 +1,1 @@
-var mnemonic = "dynamic awesome round scatter smart finger scare sudden action elder gas cupboard";
+var mnemonic = "tissue boring tooth come ask like purchase human coral rural pumpkin bright";

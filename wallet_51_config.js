@@ -1,1 +1,1 @@
-var mnemonic = "review ability correct close radio hazard cupboard trigger foil visa envelope ask";
+var mnemonic = "adapt network fiber agree display play mesh leisure fault mechanic river virtual";

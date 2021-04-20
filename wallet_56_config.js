@@ -1,1 +1,1 @@
-var mnemonic = "oven genius robust erosion chat sniff earn feed figure ramp fade what";
+var mnemonic = "garage walnut ritual hero reopen festival crime slot panel lens icon slim";

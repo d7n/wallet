@@ -1,1 +1,1 @@
-var mnemonic = "warrior lunar direct copper outdoor apology enjoy youth leader furnace social unhappy";
+var mnemonic = "snack ramp insect firm oil leader stand present today renew alcohol beach";

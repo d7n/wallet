@@ -1,1 +1,1 @@
-var mnemonic = "combine omit rule fiber carpet scout alpha oval wrap special chaos relax";
+var mnemonic = "buzz party dwarf price current path clump motor talent track kind frog";

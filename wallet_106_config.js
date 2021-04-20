@@ -1,1 +1,1 @@
-var mnemonic = "fence asthma rare news profit average hard few empty top endorse milk";
+var mnemonic = "width culture tomato glimpse hockey ability exchange matrix convince swallow jazz rapid";

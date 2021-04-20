@@ -1,1 +1,1 @@
-var mnemonic = "click update lumber judge misery hello apple busy enough cup bless vapor";
+var mnemonic = "come journey trigger van sheriff verb burden cat horn client raw dawn";

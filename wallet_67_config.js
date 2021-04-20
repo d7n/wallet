@@ -1,1 +1,1 @@
-var mnemonic = "pizza gift slab index meat lunar air piece meadow make salt jaguar";
+var mnemonic = "nasty exchange question question blush certain unknown rack ridge best march rough";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty main undo nature raven update left future clip what letter staff";
+var mnemonic = "security dad anxiety begin cable voice history chuckle spin scheme butter shine";

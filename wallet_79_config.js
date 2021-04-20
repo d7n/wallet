@@ -1,1 +1,1 @@
-var mnemonic = "armed repeat idle wine viable athlete belt venture gown level local steak";
+var mnemonic = "snack lecture shop rely prevent weapon deal hammer among open bless social";

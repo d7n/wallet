@@ -1,1 +1,1 @@
-var mnemonic = "tackle flash rebel mechanic drip submit curious figure song rocket vehicle choice";
+var mnemonic = "swear coin reject run tonight expand wood stereo slide quiz detect inmate";

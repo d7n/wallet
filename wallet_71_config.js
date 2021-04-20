@@ -1,1 +1,1 @@
-var mnemonic = "oblige antenna surge mind blast praise drive mutual slot gorilla park nurse";
+var mnemonic = "virus eternal shell flash shove slab album tone camp vacant ordinary genre";

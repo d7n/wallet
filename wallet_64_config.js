@@ -1,1 +1,1 @@
-var mnemonic = "dirt approve speed captain glory toilet six oblige bright picture little heart";
+var mnemonic = "input copper program better sponsor flower oyster shoe mammal destroy rich mountain";

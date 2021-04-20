@@ -1,1 +1,1 @@
-var mnemonic = "digital wage swim harsh sister zone grid shy dawn outside moon govern";
+var mnemonic = "crash source loud carry tongue online mesh crane brass empty match snap";

@@ -1,1 +1,1 @@
-var mnemonic = "picture clock someone tree day quiz sunny broken problem glad ozone poem";
+var mnemonic = "oak stone famous hockey auto frown genre toss save youth together mimic";

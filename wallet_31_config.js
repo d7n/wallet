@@ -1,1 +1,1 @@
-var mnemonic = "napkin people tool farm oval auction stove sun boil rabbit churn vanish";
+var mnemonic = "pig grass bachelor more luggage liar recall mule hurry number have behind";

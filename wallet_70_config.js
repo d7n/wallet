@@ -1,1 +1,1 @@
-var mnemonic = "price wrestle again brand dinner throw click end eye shed original game";
+var mnemonic = "push example second shoulder yard foot reveal work large only cook leg";

@@ -1,1 +1,1 @@
-var mnemonic = "give jaguar canyon pipe sample tonight rebuild flag rich kick physical east";
+var mnemonic = "correct grit process airport thought people notice rifle figure ladder blast file";

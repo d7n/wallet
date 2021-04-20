@@ -1,1 +1,1 @@
-var mnemonic = "amused easy utility age bulk normal candy police six pipe ocean fold";
+var mnemonic = "unusual loop trust case brand glue oppose cabbage tiny pair animal together";

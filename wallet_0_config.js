@@ -1,1 +1,1 @@
-var mnemonic = "aerobic vanish outdoor fitness pottery miss chunk fancy amazing bonus crazy manage";
+var mnemonic = "ritual decorate midnight panda tattoo host empower liquid path innocent teach giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk history employ body setup demand unhappy common candy organ alone worth";
+var mnemonic = "pulse orbit fold easily menu kitchen banner found seed use yard stove";

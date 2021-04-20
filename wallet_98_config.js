@@ -1,1 +1,1 @@
-var mnemonic = "nut october motor slab crisp govern aware toilet mandate plastic aunt clutch";
+var mnemonic = "force omit elephant cube tongue index critic zebra marine miss mind muscle";

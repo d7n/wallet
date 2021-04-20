@@ -1,1 +1,1 @@
-var mnemonic = "pitch popular flee upper swap rescue wait pear exhaust step physical charge";
+var mnemonic = "pen pave borrow galaxy deny cage another artwork actor seminar dirt cruise";

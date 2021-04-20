@@ -1,1 +1,1 @@
-var mnemonic = "category ice method notice drama field steel flame virtual clump wrong sock";
+var mnemonic = "super approve strong scrub amateur dolphin engage motor tide shuffle tobacco sample";

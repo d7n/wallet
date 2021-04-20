@@ -1,1 +1,1 @@
-var mnemonic = "tool spread fury short box hammer start scrap glass business asset asthma";
+var mnemonic = "behave lunch edit kiss donor amount tray letter old replace toy pig";

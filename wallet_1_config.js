@@ -1,1 +1,1 @@
-var mnemonic = "eagle exit walnut stadium rubber afraid flavor curious maid seven magnet file";
+var mnemonic = "nest crystal announce gauge enter wing inside try trophy tiger thrive midnight";

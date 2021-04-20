@@ -1,1 +1,1 @@
-var mnemonic = "farm wood uncle picture clerk choose latin error live gallery victory betray";
+var mnemonic = "oppose pupil connect myself enable brass turtle satisfy ceiling vocal oil cancel";

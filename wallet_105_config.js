@@ -1,1 +1,1 @@
-var mnemonic = "effort venue borrow thunder produce reflect scene risk broccoli hurdle lonely bone";
+var mnemonic = "deposit feed glow depth now trap avocado october input slot aunt ocean";

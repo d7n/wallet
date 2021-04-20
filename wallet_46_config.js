@@ -1,1 +1,1 @@
-var mnemonic = "blush moment limit still fluid laundry wife arch cash detect blossom rich";
+var mnemonic = "misery gloom bamboo trigger manage where cry quick scrub scissors tongue crime";

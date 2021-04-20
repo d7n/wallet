@@ -1,1 +1,1 @@
-var mnemonic = "medal drive mutual busy catalog pig renew original piece client skill fever";
+var mnemonic = "palace space dentist inherit rabbit segment wall debate fine vapor innocent glimpse";

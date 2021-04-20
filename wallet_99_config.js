@@ -1,1 +1,1 @@
-var mnemonic = "aisle reflect tomorrow still apple glory fluid audit absurd define cattle kiwi";
+var mnemonic = "bright flush enlist disagree crew stool control benefit ankle jealous used wear";

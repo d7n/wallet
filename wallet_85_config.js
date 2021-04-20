@@ -1,1 +1,1 @@
-var mnemonic = "reveal panther exercise usage race gas fitness shed elder alert kit start";
+var mnemonic = "gather total case ramp giant brass bench web just power twin patient";

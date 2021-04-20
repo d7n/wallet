@@ -1,1 +1,1 @@
-var mnemonic = "gun weapon section govern above whip frost effort bulk foil budget hockey";
+var mnemonic = "theory doll resemble sketch filter industry very crowd brother mushroom smooth oxygen";

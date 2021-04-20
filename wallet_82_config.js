@@ -1,1 +1,1 @@
-var mnemonic = "team other person place comic liquid attend snap ribbon beef cable snow";
+var mnemonic = "nut robot reflect client normal brand tiger speak acid obvious glance mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "online north amateur car harsh limit lady pet leg parade arch abandon";
+var mnemonic = "depart derive spatial recipe certain ugly improve father dwarf slot famous asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "ill near skull gown cloth situate matrix tumble picnic chalk silent remind";
+var mnemonic = "assault shell captain hub snake outside street laptop million window piano poem";

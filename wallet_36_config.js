@@ -1,1 +1,1 @@
-var mnemonic = "play vehicle rigid edge better render turkey hotel recipe typical border silk";
+var mnemonic = "behind film erosion main horror exit shy glow art sun lounge badge";

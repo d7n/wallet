@@ -1,1 +1,1 @@
-var mnemonic = "game clerk whip divorce rich piano rule stumble orbit unhappy soda copy";
+var mnemonic = "limb legend boss head quote legend nominee moral lend limb tray smoke";
