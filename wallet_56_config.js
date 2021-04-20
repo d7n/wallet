@@ -1,1 +1,1 @@
-var mnemonic = "shine sword oppose trouble toe shine apology trap pear supreme alcohol repeat";
+var mnemonic = "unit equip snake attend drive unhappy pottery void goat token fantasy scatter";

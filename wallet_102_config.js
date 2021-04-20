@@ -1,1 +1,1 @@
-var mnemonic = "reward hover six thumb pear dolphin delay hedgehog resist upgrade walk crisp";
+var mnemonic = "pledge rug misery man ocean pelican focus nice insect web video parade";

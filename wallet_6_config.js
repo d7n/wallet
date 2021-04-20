@@ -1,1 +1,1 @@
-var mnemonic = "sport announce three owner erase afford unable giggle cannon wear tell method";
+var mnemonic = "key uncover magnet rapid bounce upgrade kind exist thought neutral develop vicious";

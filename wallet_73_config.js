@@ -1,1 +1,1 @@
-var mnemonic = "lunch blush alien civil fruit security image chicken tray income behave bind";
+var mnemonic = "wise shrug tomorrow skirt parrot exile mushroom joke over engage reduce mansion";

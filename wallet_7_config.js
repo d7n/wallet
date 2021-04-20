@@ -1,1 +1,1 @@
-var mnemonic = "amount dial round verb parrot arctic best settle strong hunt observe avocado";
+var mnemonic = "suggest beauty verify stereo history assume draw portion patch vacuum camera creek";

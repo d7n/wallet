@@ -1,1 +1,1 @@
-var mnemonic = "rare banana heart address auto sorry transfer knife oil afraid outdoor soldier";
+var mnemonic = "area oil soap harvest hurry various zero word inspire duty short boring";

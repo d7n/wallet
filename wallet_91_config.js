@@ -1,1 +1,1 @@
-var mnemonic = "swear grocery bubble lonely real twelve prosper churn upper erupt discover mom";
+var mnemonic = "matrix chief melody animal foot result toilet awesome lake clap special olympic";

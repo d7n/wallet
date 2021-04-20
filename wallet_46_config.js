@@ -1,1 +1,1 @@
-var mnemonic = "truly arrow paper paper style people street velvet light couch acquire hero";
+var mnemonic = "hen evolve giggle thunder saddle fancy fit swamp carry enable someone goat";

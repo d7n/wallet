@@ -1,1 +1,1 @@
-var mnemonic = "this basic caution left legend hub attack tank bike meat useless grace";
+var mnemonic = "exact attitude wealth dynamic timber border bullet govern frost find digital orange";

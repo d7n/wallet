@@ -1,1 +1,1 @@
-var mnemonic = "curious pave portion ritual betray pitch diary camera usage option name away";
+var mnemonic = "photo host provide caught office dirt doll jaguar furnace olive diet help";

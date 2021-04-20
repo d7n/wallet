@@ -1,1 +1,1 @@
-var mnemonic = "outside town aunt hat boil soda holiday saddle unfair grant sample corn";
+var mnemonic = "dragon scrap victory skill garage damage laugh glare blue unfair envelope pupil";

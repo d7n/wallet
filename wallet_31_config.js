@@ -1,1 +1,1 @@
-var mnemonic = "doll plate wonder design dune duck adult catalog gun phrase kite hover";
+var mnemonic = "pole bless disease blind shift siren hospital skill place math click estate";

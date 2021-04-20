@@ -1,1 +1,1 @@
-var mnemonic = "present ensure sure method audit alarm angry expire scrub earth adjust argue";
+var mnemonic = "hurdle alpha vehicle reason bind maple monkey bird zebra loud miracle cattle";

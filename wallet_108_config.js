@@ -1,1 +1,1 @@
-var mnemonic = "punch achieve green asset smart whip wing horn knee foot skill shell";
+var mnemonic = "situate manage evolve fashion just salmon nest harsh cream jewel hazard clown";

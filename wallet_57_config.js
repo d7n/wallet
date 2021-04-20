@@ -1,1 +1,1 @@
-var mnemonic = "merit sing witness absent shop fiber wheel nephew ribbon illegal mother unfair";
+var mnemonic = "upper slab type wonder wrap struggle catalog brisk nest shaft turn jar";

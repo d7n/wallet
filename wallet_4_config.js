@@ -1,1 +1,1 @@
-var mnemonic = "account ceiling blur stick bonus jacket someone claw canoe disagree venue creek";
+var mnemonic = "evolve trumpet author boost labor chicken fit bundle antenna wood cool plastic";

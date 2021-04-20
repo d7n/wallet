@@ -1,1 +1,1 @@
-var mnemonic = "spatial ship side chair slam saddle truth arrive badge slight property small";
+var mnemonic = "outdoor comfort then utility vote mention arrow crop unit neither forest bone";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol great suggest puppy half cloud outside blue sample endless script gorilla";
+var mnemonic = "wealth brother route rally actress enjoy scrap impulse short faint pond dog";

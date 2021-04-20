@@ -1,1 +1,1 @@
-var mnemonic = "baby grocery wall sniff like common traffic public dose divorce burger typical";
+var mnemonic = "advance keep attack target misery leopard jeans concert bottom fox humor fantasy";

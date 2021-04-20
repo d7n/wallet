@@ -1,1 +1,1 @@
-var mnemonic = "timber kitten vibrant valve session possible mechanic rib nation glove plastic describe";
+var mnemonic = "toast grant firm garlic cheap enrich sword front brief episode frost borrow";

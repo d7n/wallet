@@ -1,1 +1,1 @@
-var mnemonic = "champion gossip near extra vast face coconut dignity race debris powder master";
+var mnemonic = "visual swear fish silent various taste spare citizen trumpet erosion bulb tag";

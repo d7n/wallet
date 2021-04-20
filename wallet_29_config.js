@@ -1,1 +1,1 @@
-var mnemonic = "repair episode air dolphin glory very outside engine near pool pyramid bunker";
+var mnemonic = "barrel increase setup learn when electric valley actor pill special absurd sphere";

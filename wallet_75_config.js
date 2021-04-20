@@ -1,1 +1,1 @@
-var mnemonic = "bonus remember insect neither town foster wealth close across green embrace sleep";
+var mnemonic = "rely repeat brush sock broken great call emerge push lemon normal mixture";

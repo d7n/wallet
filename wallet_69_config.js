@@ -1,1 +1,1 @@
-var mnemonic = "way mesh sell scrap pact hundred quarter mushroom salt phrase solid elegant";
+var mnemonic = "soon across blast salt pluck royal drive rebel flock detect limb evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "tube gossip clump foster table ticket chronic crane front reason hold drastic";
+var mnemonic = "mistake pizza project flash series smart dutch result suit height orphan husband";

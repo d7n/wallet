@@ -1,1 +1,1 @@
-var mnemonic = "anxiety unfold cereal naive retire grace heart rebuild display city wing spider";
+var mnemonic = "cradle light page rebel mule voyage hand loan estate cattle upon laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "throw craft fame echo crew riot group sample cable number negative toward";
+var mnemonic = "hunt laugh program gentle dash often unknown owner target clinic sight luggage";

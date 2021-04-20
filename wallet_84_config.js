@@ -1,1 +1,1 @@
-var mnemonic = "crime appear fuel arm verify stumble like alert prosper boy economy quality";
+var mnemonic = "soul deposit pudding kind brush cart runway humble lazy vacant cousin direct";

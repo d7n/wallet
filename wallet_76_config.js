@@ -1,1 +1,1 @@
-var mnemonic = "rather toward parrot alley win body palm prison interest solid thumb letter";
+var mnemonic = "rigid usage income churn pumpkin traffic call joke mean wise genre clock";

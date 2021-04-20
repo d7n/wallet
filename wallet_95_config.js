@@ -1,1 +1,1 @@
-var mnemonic = "state whip above update cross cousin subway grape coil expect chunk chair";
+var mnemonic = "wish pottery hotel february veteran suggest proud palace tip frown brother book";

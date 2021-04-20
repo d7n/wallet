@@ -1,1 +1,1 @@
-var mnemonic = "wrist profit doctor solution another leaf spray swarm dismiss nation stock rapid";
+var mnemonic = "fence snap south curious final sister shrug dash denial shift jacket wage";

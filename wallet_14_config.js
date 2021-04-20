@@ -1,1 +1,1 @@
-var mnemonic = "giant outside sad normal repair cotton walk bone total dinner pigeon harsh";
+var mnemonic = "shrimp verb tooth illness burst have myself swear pause remain worry whip";

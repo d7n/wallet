@@ -1,1 +1,1 @@
-var mnemonic = "left oxygen grain thunder ski enter slow crash pipe pretty close initial";
+var mnemonic = "damage mixed state luxury flash naive invest fury inform crew raccoon van";

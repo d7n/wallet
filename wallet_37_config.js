@@ -1,1 +1,1 @@
-var mnemonic = "category inject moon brick diesel business virtual ripple budget license effort moon";
+var mnemonic = "company car zero jacket kind install spray reopen sketch knife tissue wonder";

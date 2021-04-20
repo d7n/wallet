@@ -1,1 +1,1 @@
-var mnemonic = "bamboo leisure victory obvious suspect rare marriage raven zoo squirrel opinion decrease";
+var mnemonic = "this idea iron dumb wreck gown barrel marble version trap begin juice";

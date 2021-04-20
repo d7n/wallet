@@ -1,1 +1,1 @@
-var mnemonic = "laugh ready tiny talk prefer pigeon draft emerge attend choice kit kingdom";
+var mnemonic = "ahead client staff crash kind tired brick bench parrot pause pretty buffalo";

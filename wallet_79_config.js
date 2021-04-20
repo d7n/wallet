@@ -1,1 +1,1 @@
-var mnemonic = "guide outside bless remind behave charge mistake hunt swim emerge finish frog";
+var mnemonic = "grab guide thunder clinic differ meadow dog mansion region hollow concert toast";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck beauty child soft glare pigeon cinnamon duty infant index broken alone";
+var mnemonic = "parrot island pioneer addict planet seed illness pull stable maid fiber auction";

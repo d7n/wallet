@@ -1,1 +1,1 @@
-var mnemonic = "knock mammal moon when ridge usual pistol stereo eight unhappy goddess simple";
+var mnemonic = "duty attack economy boring blade spend pipe clip bike biology deal awake";

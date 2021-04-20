@@ -1,1 +1,1 @@
-var mnemonic = "power setup rule victory luxury rough narrow afford amateur tackle goat because";
+var mnemonic = "tree library culture purse during ketchup cost silk term canal glue left";

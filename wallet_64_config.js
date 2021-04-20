@@ -1,1 +1,1 @@
-var mnemonic = "estate trap gate lecture mechanic right buddy alcohol merit foam fee syrup";
+var mnemonic = "snack boring gasp label joy flame silly bundle corn easily essay deliver";

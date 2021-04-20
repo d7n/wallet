@@ -1,1 +1,1 @@
-var mnemonic = "where someone scene into river eyebrow plug kick elephant unusual legal among";
+var mnemonic = "invest lake maid leader blanket decide disorder program toilet amount ring trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "direct embrace fuel popular clever interest betray zoo occur uncover dial arch";
+var mnemonic = "render peanut spy brick insect illegal avoid asthma blade flower lab behave";

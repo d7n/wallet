@@ -1,1 +1,1 @@
-var mnemonic = "awkward gate ivory assist fire grape hungry fiber sorry shoot verb kid";
+var mnemonic = "myth question orange jungle medal roof grow effort real female loyal duty";

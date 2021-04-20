@@ -1,1 +1,1 @@
-var mnemonic = "network isolate crane smart join erupt monkey ocean oppose tooth path ready";
+var mnemonic = "seminar rhythm cause identify wave spray add flat swarm chicken inner amateur";

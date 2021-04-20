@@ -1,1 +1,1 @@
-var mnemonic = "salon output seed obscure bounce naive destroy pony fetch pact divorce episode";
+var mnemonic = "sleep female grace observe lab number post glass piano car elite age";

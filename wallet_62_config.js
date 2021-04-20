@@ -1,1 +1,1 @@
-var mnemonic = "armed boring hedgehog cause empower pear inquiry tooth morning bulb act ring";
+var mnemonic = "stock omit notable balance aisle leader network refuse inherit web gift crew";

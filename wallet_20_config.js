@@ -1,1 +1,1 @@
-var mnemonic = "island fuel gorilla purchase copper scissors gather sustain choice stable connect much";
+var mnemonic = "squeeze hedgehog wealth banana noodle valid shop adjust finger butter rapid grow";

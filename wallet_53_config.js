@@ -1,1 +1,1 @@
-var mnemonic = "basket tired oxygen security range occur sleep reunion cereal uncle depend critic";
+var mnemonic = "wrap lumber neglect sheriff train bright slam puppy raise domain glass december";

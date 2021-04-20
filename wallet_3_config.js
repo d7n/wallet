@@ -1,1 +1,1 @@
-var mnemonic = "account suffer pluck prize tooth ozone strike twin elevator around require victory";
+var mnemonic = "account senior replace material security uncover park awake valid antique high saddle";

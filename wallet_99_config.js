@@ -1,1 +1,1 @@
-var mnemonic = "exist noodle define purpose loyal fragile bottom early smooth fence black symbol";
+var mnemonic = "curtain nest pig color coyote outer husband cute police distance lemon bulk";

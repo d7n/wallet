@@ -1,1 +1,1 @@
-var mnemonic = "raccoon reflect fancy cabin opinion sphere blur wire supreme buyer hunt arch";
+var mnemonic = "vicious theory decade roof say skate lonely option decline digital early lens";

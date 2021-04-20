@@ -1,1 +1,1 @@
-var mnemonic = "secret shield develop chase clarify faint misery breeze transfer tip jewel slogan";
+var mnemonic = "chest alarm finish casino bullet right loop camera purchase drip season flight";

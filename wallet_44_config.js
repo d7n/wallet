@@ -1,1 +1,1 @@
-var mnemonic = "mirror grant trick spatial fire raw flower cook slam salmon shallow ketchup";
+var mnemonic = "weapon mule cargo pottery hint session clock drop record cruise pencil borrow";

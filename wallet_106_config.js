@@ -1,1 +1,1 @@
-var mnemonic = "letter cement level ghost brand series action tell visa tuition nothing silly";
+var mnemonic = "fix awesome seed moment pigeon sister rebel arrow feature exist inspire tunnel";

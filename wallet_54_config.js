@@ -1,1 +1,1 @@
-var mnemonic = "juice rate veteran until rate fold fabric combine you infant furnace dynamic";
+var mnemonic = "transfer sword menu donate also cave street other kiss walk enemy infant";

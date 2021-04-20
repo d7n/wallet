@@ -1,1 +1,1 @@
-var mnemonic = "maze dash piece around hole turkey enlist forest journey cake express trumpet";
+var mnemonic = "grunt orange fine toe element hello fire urban carpet finger science upon";

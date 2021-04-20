@@ -1,1 +1,1 @@
-var mnemonic = "lottery primary punch fog toss ordinary trim icon name curve negative tent";
+var mnemonic = "food blast abandon unhappy erosion install rate myself edge culture harvest bounce";

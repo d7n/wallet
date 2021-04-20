@@ -1,1 +1,1 @@
-var mnemonic = "name mansion bulk jaguar tenant soda palace erupt exotic crawl problem scan";
+var mnemonic = "coin pizza dish clarify audit satoshi possible laugh match asset describe bar";

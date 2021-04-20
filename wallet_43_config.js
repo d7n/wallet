@@ -1,1 +1,1 @@
-var mnemonic = "soldier rigid mixture seminar suspect door sister renew sunny target faith emerge";
+var mnemonic = "silly rebuild mandate hood cigar forward dune diagram stay panel hip inherit";

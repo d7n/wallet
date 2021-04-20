@@ -1,1 +1,1 @@
-var mnemonic = "velvet ill cheap suffer chicken only short wild phone box kite floor";
+var mnemonic = "name rebel film force slender enforce twenty clerk result fiscal search risk";

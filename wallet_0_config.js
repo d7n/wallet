@@ -1,1 +1,1 @@
-var mnemonic = "lamp bar siege remain defense steel analyst extend issue wagon often party";
+var mnemonic = "glare ribbon sting kite scan blush digital reform wasp rookie basket miracle";

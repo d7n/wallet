@@ -1,1 +1,1 @@
-var mnemonic = "keep warfare donor genius permit canyon amazing liar lucky already have anxiety";
+var mnemonic = "medal rare must main wealth release parent jazz teach rapid outer pink";

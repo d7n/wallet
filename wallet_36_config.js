@@ -1,1 +1,1 @@
-var mnemonic = "food wing tiger quarter eagle soldier hotel soccer view bless barrel cute";
+var mnemonic = "toward answer affair build visa pistol east color mention raise jelly toast";

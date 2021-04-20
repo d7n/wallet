@@ -1,1 +1,1 @@
-var mnemonic = "rely vintage oblige salon mail hat onion sadness hazard drastic zebra guitar";
+var mnemonic = "cheese six brave top garden gadget usual humble eternal initial figure monster";

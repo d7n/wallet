@@ -1,1 +1,1 @@
-var mnemonic = "interest equip cabbage egg abuse cheese decrease project ski divert any volcano";
+var mnemonic = "west blade kingdom base throw globe sing father road tube emotion sick";

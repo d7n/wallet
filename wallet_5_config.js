@@ -1,1 +1,1 @@
-var mnemonic = "hair toward plunge input vacant duck throw fancy monkey humble mom tiny";
+var mnemonic = "flight drastic march comic belt quality citizen march wing faint spot occur";

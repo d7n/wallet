@@ -1,1 +1,1 @@
-var mnemonic = "badge sign chunk panther lion actual hub idle quote crew obtain legal";
+var mnemonic = "merge razor fancy affair glad hurt broccoli island pig cluster water target";

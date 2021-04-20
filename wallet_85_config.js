@@ -1,1 +1,1 @@
-var mnemonic = "bleak position hill bicycle steak stereo doll simple south real labor rely";
+var mnemonic = "pudding position amused assist float target tip barely hungry balance merit woman";

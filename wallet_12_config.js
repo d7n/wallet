@@ -1,1 +1,1 @@
-var mnemonic = "bracket engage affair police draft dragon witness ramp escape empty energy bamboo";
+var mnemonic = "stable payment purchase simple funny learn torch chicken joke marine bitter evolve";

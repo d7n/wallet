@@ -1,1 +1,1 @@
-var mnemonic = "romance orbit beyond blade naive quarter pulse feel luxury acquire evolve vivid";
+var mnemonic = "know sister gaze barely area afraid merge aunt unknown sheriff reopen flat";

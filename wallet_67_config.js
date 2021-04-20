@@ -1,1 +1,1 @@
-var mnemonic = "neutral shove canoe remain advice lazy orphan guess sunny initial six kit";
+var mnemonic = "warm lake lava blame armed tiger dove dry mutual coil antique harbor";

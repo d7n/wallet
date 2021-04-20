@@ -1,1 +1,1 @@
-var mnemonic = "helmet net dragon weapon blame rail desk cloth boy first ketchup pretty";
+var mnemonic = "maid topic peace car climb lens mom outside original bus nest book";

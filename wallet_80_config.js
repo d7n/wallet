@@ -1,1 +1,1 @@
-var mnemonic = "half ridge chalk album blood divert innocent duck pitch warfare bleak clever";
+var mnemonic = "timber either review seed spice unaware orbit plate owner cloth mansion recall";

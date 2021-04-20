@@ -1,1 +1,1 @@
-var mnemonic = "taste drama pave onion letter ankle conduct stereo hub use drift scene";
+var mnemonic = "thank random dog must smile aerobic click uncover violin peanut venue gadget";

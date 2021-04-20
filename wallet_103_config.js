@@ -1,1 +1,1 @@
-var mnemonic = "place gauge token horn child cream because danger step barely quiz glare";
+var mnemonic = "message clay satoshi humor insect skate woman term issue basic author fiscal";

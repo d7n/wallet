@@ -1,1 +1,1 @@
-var mnemonic = "range favorite anger try review copper orbit task gas market result pigeon";
+var mnemonic = "increase hope minor sun horse sun cigar indoor olive boy route settle";

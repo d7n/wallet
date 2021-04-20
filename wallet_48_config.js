@@ -1,1 +1,1 @@
-var mnemonic = "child couple topple nice car silly disagree galaxy open credit leader enforce";
+var mnemonic = "aim prefer warrior march cube tennis ivory myself cable judge dry rally";

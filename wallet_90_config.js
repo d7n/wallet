@@ -1,1 +1,1 @@
-var mnemonic = "soldier undo waste awkward penalty day puppy barrel weekend riot gasp jungle";
+var mnemonic = "item buzz decade snack trigger size effort purpose damp hamster merry debate";

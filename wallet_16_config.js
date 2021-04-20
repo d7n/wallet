@@ -1,1 +1,1 @@
-var mnemonic = "warfare sunny immense wonder distance swap dress intact rose input silly work";
+var mnemonic = "estate wagon company online kind bright trumpet february brush common portion soap";

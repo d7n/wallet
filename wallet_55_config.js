@@ -1,1 +1,1 @@
-var mnemonic = "crane buyer turtle spell two despair maze prefer hover swarm sibling shell";
+var mnemonic = "obvious lumber riot canyon pencil lady shoot urban hedgehog prison circle extra";

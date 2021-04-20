@@ -1,1 +1,1 @@
-var mnemonic = "entire bullet pen breeze eager bundle place allow liberty skull blind gesture";
+var mnemonic = "success little already snake toddler siege ability engage trash leaf clap alpha";

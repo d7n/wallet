@@ -1,1 +1,1 @@
-var mnemonic = "awkward laugh sketch dentist can follow giggle admit crime merry artist what";
+var mnemonic = "noble error reflect hole grocery stage borrow street estate picture reopen cushion";

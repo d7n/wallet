@@ -1,1 +1,1 @@
-var mnemonic = "ship scale garlic buddy promote horse predict connect pet kiss traffic custom";
+var mnemonic = "gate hill exotic end budget dish regret dragon party anchor system regular";

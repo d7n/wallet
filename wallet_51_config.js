@@ -1,1 +1,1 @@
-var mnemonic = "husband harvest flower maze peasant advance mad legend dutch taste detect banner";
+var mnemonic = "era exchange youth inflict pudding curious food cherry trip river caught you";

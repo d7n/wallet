@@ -1,1 +1,1 @@
-var mnemonic = "two clump grief print steel host organ odor deposit flag exhaust veteran";
+var mnemonic = "joy east task pioneer route where salute fun valley notable pipe immune";

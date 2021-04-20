@@ -1,1 +1,1 @@
-var mnemonic = "electric apart path tornado fish movie black pet private fade moral snake";
+var mnemonic = "sudden into dolphin coin exhaust cup monitor history fetch mistake pill real";

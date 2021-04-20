@@ -1,1 +1,1 @@
-var mnemonic = "truck upper crystal impose bid relax cement crisp wet laptop maple trade";
+var mnemonic = "olympic orange domain injury add isolate early endless agent abuse oblige chase";

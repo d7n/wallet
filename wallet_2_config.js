@@ -1,1 +1,1 @@
-var mnemonic = "admit elevator choice idle extra replace found inherit route tunnel kitten leg";
+var mnemonic = "woman castle round jelly question obvious adjust dose ranch panic can medal";

@@ -1,1 +1,1 @@
-var mnemonic = "horn north bubble easily tower clump shrug say crush welcome shop used";
+var mnemonic = "flight wedding library leave appear pelican arm kingdom allow blue language final";

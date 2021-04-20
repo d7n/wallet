@@ -1,1 +1,1 @@
-var mnemonic = "royal clog tray theme celery blouse grit bomb turkey follow silver ring";
+var mnemonic = "meat report once parade glide attitude impose ceiling diesel alley myth bone";
