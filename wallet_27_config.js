@@ -1,1 +1,1 @@
-var mnemonic = "daughter another pumpkin engine repair excite athlete ice pole young laundry screen";
+var mnemonic = "puppy gallery series price waste smart rally bulk defense interest exotic hedgehog";

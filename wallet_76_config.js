@@ -1,1 +1,1 @@
-var mnemonic = "pull another purse tank harvest unable happy uncle hawk what subject correct";
+var mnemonic = "tornado enter aerobic deliver pencil noble bottom artwork few blame sunny chimney";

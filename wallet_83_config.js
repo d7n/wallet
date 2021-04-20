@@ -1,1 +1,1 @@
-var mnemonic = "final barrel lens hero process canal fun kingdom quick category beef cabbage";
+var mnemonic = "air between crucial tent hope cram soccer usual shadow gauge tomorrow enact";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb venue fiber mountain earn seminar select orange basic kite pattern discover";
+var mnemonic = "diary fame erode reduce volume what thumb sound bright cool urge perfect";

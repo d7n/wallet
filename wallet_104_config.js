@@ -1,1 +1,1 @@
-var mnemonic = "glove wolf cube library turn night govern unique tunnel genius weekend price";
+var mnemonic = "tank clean lens build valley begin bar cupboard genre fix pave whisper";

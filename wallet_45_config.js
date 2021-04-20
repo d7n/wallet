@@ -1,1 +1,1 @@
-var mnemonic = "whale chest birth banana giggle giggle wait slot snake life wasp height";
+var mnemonic = "wreck hurt brisk demise desert girl group riot tuna captain consider wait";

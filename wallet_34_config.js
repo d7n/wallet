@@ -1,1 +1,1 @@
-var mnemonic = "brisk gallery size weird tonight athlete flame buyer foam ecology interest vapor";
+var mnemonic = "chest match solution add beach pact theory print dentist silver whale segment";

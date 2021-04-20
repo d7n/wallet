@@ -1,1 +1,1 @@
-var mnemonic = "rice enter express repeat arch rabbit detail rate you chair item absent";
+var mnemonic = "genius place good upgrade suggest luxury owner embark head believe february buffalo";

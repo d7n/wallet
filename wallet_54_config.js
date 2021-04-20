@@ -1,1 +1,1 @@
-var mnemonic = "health demand snap broccoli female whisper vanish duck blast bunker festival wide";
+var mnemonic = "short custom sad tribe kidney approve divorce breeze zebra stuff jazz bench";

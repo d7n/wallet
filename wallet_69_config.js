@@ -1,1 +1,1 @@
-var mnemonic = "often blush sail soldier mirror change crime perfect episode relief route west";
+var mnemonic = "guard apple tragic provide cannon toss youth unusual practice kitten coffee boss";

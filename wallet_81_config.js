@@ -1,1 +1,1 @@
-var mnemonic = "leave decrease motion gloom wood pulp fly peanut utility media opera direct";
+var mnemonic = "banana wash wrestle enhance game saddle orient silver accident feed bless west";

@@ -1,1 +1,1 @@
-var mnemonic = "type wonder lucky arrange shine okay remember position visit rival test urban";
+var mnemonic = "brave outdoor rain voyage piece old rare color fetch embody conduct pipe";

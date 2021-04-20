@@ -1,1 +1,1 @@
-var mnemonic = "tattoo talk flag vessel cool erosion awake task danger taxi young meat";
+var mnemonic = "goddess engage sustain ceiling payment knock say vocal guard radio identify option";

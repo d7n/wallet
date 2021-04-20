@@ -1,1 +1,1 @@
-var mnemonic = "just leaf student better athlete alter gauge never file immune cool high";
+var mnemonic = "hungry matrix proud patient whale raw kit frown spend scale acquire into";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket winter hole soup winter blind device window people machine admit turkey";
+var mnemonic = "uphold risk winner excuse profit proof metal olympic notice federal hire village";

@@ -1,1 +1,1 @@
-var mnemonic = "half photo sausage amazing cricket deny apology luggage scale piece fever lumber";
+var mnemonic = "afraid away act gaze olive grow oak egg friend verb other hat";

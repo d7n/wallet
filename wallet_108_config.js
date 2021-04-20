@@ -1,1 +1,1 @@
-var mnemonic = "fee small bulb scan such make music puzzle kite slam fit move";
+var mnemonic = "garage length sponsor meat make same photo aspect urge ecology online hamster";

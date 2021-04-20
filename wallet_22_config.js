@@ -1,1 +1,1 @@
-var mnemonic = "uniform bracket program awkward urge august actress defense during paddle mesh sample";
+var mnemonic = "fame humor space swear direct sweet list common police forum squeeze frown";

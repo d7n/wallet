@@ -1,1 +1,1 @@
-var mnemonic = "lonely measure human cry explain squirrel beach chat brave baby mention verify";
+var mnemonic = "keen tip affair chimney churn awful drip quiz radio someone voice stand";

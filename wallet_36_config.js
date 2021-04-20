@@ -1,1 +1,1 @@
-var mnemonic = "observe kit dutch observe mail assist guess hundred baby cupboard top bunker";
+var mnemonic = "cream garbage tower betray either unit twist cart access decade year beef";

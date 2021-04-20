@@ -1,1 +1,1 @@
-var mnemonic = "motion year decline amateur mixture clump treat tackle sauce ten grunt fish";
+var mnemonic = "flag advance street tragic april argue tuna expand record elegant mystery arm";

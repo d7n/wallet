@@ -1,1 +1,1 @@
-var mnemonic = "develop fatigue whip car jealous tell ketchup universe welcome air bubble grain";
+var mnemonic = "conduct blind lava grant frost bitter violin lizard erode taste before piece";

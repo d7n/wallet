@@ -1,1 +1,1 @@
-var mnemonic = "hour hammer symbol hill rebuild giant style repeat negative reunion frozen income";
+var mnemonic = "shove ahead bread amount link situate erupt until shaft allow glue north";

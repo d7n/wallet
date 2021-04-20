@@ -1,1 +1,1 @@
-var mnemonic = "defy excuse before coin assume misery public object bundle portion arrow vanish";
+var mnemonic = "walnut enemy piece rifle sweet search ocean combine learn syrup quote old";

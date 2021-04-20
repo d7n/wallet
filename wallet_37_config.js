@@ -1,1 +1,1 @@
-var mnemonic = "alley between horror pool pink bike scare owner priority strike latin talent";
+var mnemonic = "unit suffer sponsor reflect night force kidney peanut pencil tiger music monkey";

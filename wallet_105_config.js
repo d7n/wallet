@@ -1,1 +1,1 @@
-var mnemonic = "knee panel music reason tourist general update gate cable seed chef despair";
+var mnemonic = "kidney key people twice ordinary edit tornado ball trouble asset differ spare";

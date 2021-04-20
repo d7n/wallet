@@ -1,1 +1,1 @@
-var mnemonic = "because romance hazard discover danger thing text ginger fish call ensure era";
+var mnemonic = "buyer subject beach input test sting auto express tribe broken stuff absent";

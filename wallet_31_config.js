@@ -1,1 +1,1 @@
-var mnemonic = "mention jar silly autumn type angry punch social bicycle beach reject ozone";
+var mnemonic = "athlete trigger mutual immense idea bridge tonight tongue dream economy idle park";

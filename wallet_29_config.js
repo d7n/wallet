@@ -1,1 +1,1 @@
-var mnemonic = "essay mango eye agent spawn abuse main canyon survey drum resemble burger";
+var mnemonic = "boring merry debate bachelor model must awake potato reject volcano fiscal surface";

@@ -1,1 +1,1 @@
-var mnemonic = "science legal stomach permit maximum quarter under tumble action when sea fan";
+var mnemonic = "know portion any wine flame chaos behave expect draw crawl beyond sight";

@@ -1,1 +1,1 @@
-var mnemonic = "gift congress dolphin half purity frequent fruit engage desk gate bone claw";
+var mnemonic = "reflect announce ski sauce fever lawn catalog real save input absent select";

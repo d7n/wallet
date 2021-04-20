@@ -1,1 +1,1 @@
-var mnemonic = "stuff edge section dizzy stage crucial inspire session guide buddy fringe twin";
+var mnemonic = "west area cruel tree swear diesel enforce remain trust else noodle ecology";

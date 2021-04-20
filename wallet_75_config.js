@@ -1,1 +1,1 @@
-var mnemonic = "error choice code town magic tide volume arch defy gate toe modify";
+var mnemonic = "scene eagle mushroom husband monkey curious vague quarter basic purity mule wish";

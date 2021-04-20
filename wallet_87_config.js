@@ -1,1 +1,1 @@
-var mnemonic = "window vapor group coast galaxy tape cheese during crawl glare moon task";
+var mnemonic = "monster merge hunt flush venture pattern abuse wheat rebuild quote exchange usual";

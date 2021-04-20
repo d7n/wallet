@@ -1,1 +1,1 @@
-var mnemonic = "stage wrist electric virus thumb forward young dwarf point sand loud brisk";
+var mnemonic = "add liberty multiply salt charge zero initial this child runway float badge";

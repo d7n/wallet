@@ -1,1 +1,1 @@
-var mnemonic = "wasp square echo funny rabbit snack east legend army soldier indicate april";
+var mnemonic = "toilet hedgehog dirt split hunt suspect donate envelope smart oppose vapor shoulder";

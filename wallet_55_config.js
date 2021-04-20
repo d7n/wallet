@@ -1,1 +1,1 @@
-var mnemonic = "casual bunker nerve flat inside vessel hurt virtual rib pole human rabbit";
+var mnemonic = "beach spice prosper come action middle zone struggle quiz neither alter identify";

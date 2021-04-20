@@ -1,1 +1,1 @@
-var mnemonic = "uniform life venture motion truck parent myself ramp few youth term domain";
+var mnemonic = "spike month burst economy topple huge pioneer pledge invest rely parade pole";

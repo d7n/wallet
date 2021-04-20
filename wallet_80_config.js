@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow volume lend awful mushroom segment vanish shallow now pledge system laptop";
+var mnemonic = "shoulder craft stuff dose pudding wool oyster atom risk romance can wasp";

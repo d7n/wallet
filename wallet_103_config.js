@@ -1,1 +1,1 @@
-var mnemonic = "under nice author decrease top route tone river moral smile denial marriage";
+var mnemonic = "neck same razor smart require blade mail ribbon wage teach addict eager";

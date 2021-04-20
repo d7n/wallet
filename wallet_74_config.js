@@ -1,1 +1,1 @@
-var mnemonic = "middle fish taste struggle fox gravity pioneer salt express outdoor spice harsh";
+var mnemonic = "luggage current author live diesel bacon fly slide wire imitate diary loop";

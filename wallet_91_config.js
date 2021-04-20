@@ -1,1 +1,1 @@
-var mnemonic = "talent pave pear miss forum wonder name visa artefact speed thrive crop";
+var mnemonic = "work amused palace way casual business neutral wrap blast crack divide guard";

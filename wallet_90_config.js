@@ -1,1 +1,1 @@
-var mnemonic = "embrace silk buzz venture mail august roof equip canal lady laundry tiny";
+var mnemonic = "kind view phrase winner unhappy sand siren junk duck silver survey legal";

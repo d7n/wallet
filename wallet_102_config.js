@@ -1,1 +1,1 @@
-var mnemonic = "portion edit sense dinner paddle payment roast prize trouble tragic act auto";
+var mnemonic = "panther key ordinary level belt fit duty exhibit ski wrist acoustic romance";

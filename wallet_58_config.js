@@ -1,1 +1,1 @@
-var mnemonic = "welcome carry public mimic direct february inquiry shrug vote curious juice denial";
+var mnemonic = "beyond panther luggage screen sword security cupboard kitten gentle pistol render lecture";

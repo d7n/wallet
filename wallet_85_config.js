@@ -1,1 +1,1 @@
-var mnemonic = "beef review deer rough sudden outer oak wave auto category window claim";
+var mnemonic = "simple produce enroll clump dust skull purse polar skate leader clutch wash";

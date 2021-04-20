@@ -1,1 +1,1 @@
-var mnemonic = "theme message never oppose small busy fresh unhappy enrich oxygen lucky first";
+var mnemonic = "melt sniff apple praise stand judge tell rich kit tape shrug travel";

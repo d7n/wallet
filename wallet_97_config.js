@@ -1,1 +1,1 @@
-var mnemonic = "song wish twelve input endless system tiny room memory keen shield refuse";
+var mnemonic = "lady copy rug satoshi unaware page friend thrive tooth purpose coach oppose";

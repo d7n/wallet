@@ -1,1 +1,1 @@
-var mnemonic = "regret caution account resemble inquiry exit rib repeat expose vault deny despair";
+var mnemonic = "position spawn cloth next minute prosper detect leave tiny theory vessel flag";

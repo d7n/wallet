@@ -1,1 +1,1 @@
-var mnemonic = "exist action fetch village shed planet lady corn weapon short stumble celery";
+var mnemonic = "stamp flat add confirm sound world flavor easily tip bone pipe member";

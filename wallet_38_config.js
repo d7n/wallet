@@ -1,1 +1,1 @@
-var mnemonic = "nose keep jazz recall upset select twelve cream device famous fringe lyrics";
+var mnemonic = "timber cat vault fiber excess three foam write nurse concert piece marble";

@@ -1,1 +1,1 @@
-var mnemonic = "fat wheel swear pulse luggage own practice rather poet caution wrist badge";
+var mnemonic = "enjoy ladder net above yard cousin amused among cabin exchange slice siren";

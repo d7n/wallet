@@ -1,1 +1,1 @@
-var mnemonic = "profit devote call wedding lunch crop pride usual muffin predict portion hire";
+var mnemonic = "cat cricket razor ill ridge relief north border unable disagree shield exit";

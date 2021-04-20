@@ -1,1 +1,1 @@
-var mnemonic = "pole rail sure reduce early can level tumble volcano veteran route put";
+var mnemonic = "cotton hurt exhibit inmate multiply orient tooth ready cruise can wing leave";

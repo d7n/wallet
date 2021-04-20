@@ -1,1 +1,1 @@
-var mnemonic = "apple sword duty delay assume fish ketchup sport more ask defense struggle";
+var mnemonic = "oyster hard denial pear laugh audit crowd quarter devote fault flee color";

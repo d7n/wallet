@@ -1,1 +1,1 @@
-var mnemonic = "brisk business balance design school invite lyrics resemble want light turkey axis";
+var mnemonic = "scrub word crouch fish speed canvas rain sport athlete library index sudden";

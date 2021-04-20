@@ -1,1 +1,1 @@
-var mnemonic = "fade unit digital audit ready wheat own only medal mouse ecology market";
+var mnemonic = "praise gasp hope drift dwarf volume agree depart pen good winter stamp";

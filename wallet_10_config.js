@@ -1,1 +1,1 @@
-var mnemonic = "system cannon lake car slot mango skill adjust lecture artist citizen drastic";
+var mnemonic = "amused law oppose coin web open eager alley garbage toe shoot fence";

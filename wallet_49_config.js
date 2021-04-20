@@ -1,1 +1,1 @@
-var mnemonic = "dinner cabbage edge excess south apart wood second slide unaware cigar outside";
+var mnemonic = "express hollow acoustic surround genre test parade swift alley raw lunar furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion guitar soup barely toilet alone margin giggle job purity equip salad";
+var mnemonic = "bulk exercise grain same aisle blame rookie park trash tuna kit book";

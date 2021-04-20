@@ -1,1 +1,1 @@
-var mnemonic = "section kiwi cheap system cake vital silly legend useless umbrella mesh permit";
+var mnemonic = "timber flash photo concert medal dune kiss mule thrive orient plunge oyster";

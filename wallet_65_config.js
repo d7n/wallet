@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fiction ghost warfare clump replace dirt arrange entire side crazy scissors";
+var mnemonic = "genre owner base snap polar grape funny puppy defense tissue eyebrow bitter";

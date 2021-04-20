@@ -1,1 +1,1 @@
-var mnemonic = "siren leader end enroll notable jungle define history elephant soul hope mad";
+var mnemonic = "crane consider exercise fragile toward castle repair enhance offer funny survey useless";

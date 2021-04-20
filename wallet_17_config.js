@@ -1,1 +1,1 @@
-var mnemonic = "return tunnel antique buzz inmate disorder olympic utility grant rug index recipe";
+var mnemonic = "adapt worth auto cool spike useful actress aware solve bicycle right pencil";

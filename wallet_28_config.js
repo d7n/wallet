@@ -1,1 +1,1 @@
-var mnemonic = "inform melody barrel dry ill traffic gasp motor word survey squeeze salad";
+var mnemonic = "fork time liberty addict supreme army alcohol ski interest render guard brother";

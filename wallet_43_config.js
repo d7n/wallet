@@ -1,1 +1,1 @@
-var mnemonic = "biology roof solution furnace until uncover service obvious cactus hold then rare";
+var mnemonic = "lawsuit magic click prefer outside glory galaxy crash notable island device exile";

@@ -1,1 +1,1 @@
-var mnemonic = "figure visa first bicycle cover affair vital absurd remember kick change know";
+var mnemonic = "jeans thunder number egg strike powder repair erode farm flavor choose dwarf";

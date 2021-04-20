@@ -1,1 +1,1 @@
-var mnemonic = "rifle cluster behind below junk action small crazy swamp paddle shrug item";
+var mnemonic = "fitness mirror must idea mother tribe shrimp man summer soldier jar change";

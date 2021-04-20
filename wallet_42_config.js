@@ -1,1 +1,1 @@
-var mnemonic = "focus pledge senior detail pave giraffe glow menu insect audit number crunch";
+var mnemonic = "state right come limit category mask shoot fashion across gallery bitter boy";

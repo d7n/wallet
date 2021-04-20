@@ -1,1 +1,1 @@
-var mnemonic = "raven hub build aisle travel asthma brass farm rhythm feature owner critic";
+var mnemonic = "update milk eagle city suit debris parrot critic weird ladder slogan siege";

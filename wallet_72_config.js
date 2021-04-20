@@ -1,1 +1,1 @@
-var mnemonic = "umbrella pyramid only bulk zoo involve cinnamon track garage child warm police";
+var mnemonic = "position soup element twin knife betray gas orange crisp agent health cycle";

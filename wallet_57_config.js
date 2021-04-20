@@ -1,1 +1,1 @@
-var mnemonic = "shop spawn kitchen holiday ready inform ozone poet sock van budget define";
+var mnemonic = "letter crane holiday palm observe discover uniform code cactus mouse original tell";

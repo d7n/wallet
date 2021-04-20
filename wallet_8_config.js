@@ -1,1 +1,1 @@
-var mnemonic = "ethics west lyrics desk bracket praise inmate trial sight brass slender dutch";
+var mnemonic = "sign impulse hockey this sick dirt speak solution debris lazy supreme cool";

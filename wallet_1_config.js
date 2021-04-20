@@ -1,1 +1,1 @@
-var mnemonic = "hand insane nephew orange dose title jaguar exchange pony again frozen actor";
+var mnemonic = "coast swim hero silly cycle glow tooth rocket mammal dinosaur gloom orchard";

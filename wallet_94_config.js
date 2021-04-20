@@ -1,1 +1,1 @@
-var mnemonic = "butter enable drink media soda frozen scene mass dog close solar ancient";
+var mnemonic = "sorry quit use taste toilet jewel pride office canal leader stock pet";

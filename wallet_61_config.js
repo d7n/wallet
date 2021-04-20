@@ -1,1 +1,1 @@
-var mnemonic = "flee pair original february raccoon crash ride swim inspire inherit bright broccoli";
+var mnemonic = "ticket need borrow duty rail cook stable clinic faculty either safe tube";

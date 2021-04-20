@@ -1,1 +1,1 @@
-var mnemonic = "distance system guitar clerk swear deposit escape fox palm drama woman fabric";
+var mnemonic = "jeans online behind multiply nurse brief velvet trash shield sentence involve join";

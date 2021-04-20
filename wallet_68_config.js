@@ -1,1 +1,1 @@
-var mnemonic = "again rule bulb great proud bottom saddle segment hen torch thought penalty";
+var mnemonic = "antenna asthma stumble mutual mountain capable solid call dad direct engage team";

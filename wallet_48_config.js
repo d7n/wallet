@@ -1,1 +1,1 @@
-var mnemonic = "before estate regular heavy egg news lift enforce maximum penalty rude fringe";
+var mnemonic = "fine lift shiver ice pigeon kiwi umbrella doctor into brief bulb wink";

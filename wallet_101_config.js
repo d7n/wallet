@@ -1,1 +1,1 @@
-var mnemonic = "okay silent iron kite box quote erode save afford champion struggle august";
+var mnemonic = "top place busy cycle view post post similar manage century search ginger";

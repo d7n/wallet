@@ -1,1 +1,1 @@
-var mnemonic = "busy erupt audit basket space aisle labor remain hard father clean clarify";
+var mnemonic = "cat guitar ceiling cave visa plug bitter ordinary similar grid train bicycle";

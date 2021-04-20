@@ -1,1 +1,1 @@
-var mnemonic = "core celery define royal dismiss average pave author mesh bone eternal banner";
+var mnemonic = "crisp main vintage tennis nice lift pretty confirm economy index amused calm";

@@ -1,1 +1,1 @@
-var mnemonic = "snap blade repeat butter expect evolve exclude chimney warrior bleak divert twenty";
+var mnemonic = "seat enter kid couch ankle engine adjust strategy salad mother second suffer";

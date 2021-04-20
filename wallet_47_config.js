@@ -1,1 +1,1 @@
-var mnemonic = "earth excite balance practice dolphin crazy kit spoil fine slow pencil trial";
+var mnemonic = "surge choice pelican stadium point beyond jacket state struggle tribe output ice";

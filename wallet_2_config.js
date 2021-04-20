@@ -1,1 +1,1 @@
-var mnemonic = "dwarf universe price define wire enforce gloom update already rate prevent canoe";
+var mnemonic = "start remain loyal decrease weather lumber defy wink knock dash grace museum";

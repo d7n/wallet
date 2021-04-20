@@ -1,1 +1,1 @@
-var mnemonic = "basic step cake trend solution trick dial leopard dilemma metal census awake";
+var mnemonic = "always sword average dinosaur mosquito nerve elder release mimic click error maze";
