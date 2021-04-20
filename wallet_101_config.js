@@ -1,1 +1,1 @@
-var mnemonic = "lottery digital tumble rug joke artist patrol wire traffic filter quit weird";
+var mnemonic = "receive length client cloth melody trap fossil welcome fiscal choose scissors trend";

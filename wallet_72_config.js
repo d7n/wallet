@@ -1,1 +1,1 @@
-var mnemonic = "remind bird empower junior check rude current oblige truck wide brass quote";
+var mnemonic = "nephew spawn cruise garment target before oppose type symptom drive fix eager";

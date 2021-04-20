@@ -1,1 +1,1 @@
-var mnemonic = "tragic tape potato surprise palm tackle harbor quality snake feel erode correct";
+var mnemonic = "extra sure lady six day real child hen defense cricket maid glass";

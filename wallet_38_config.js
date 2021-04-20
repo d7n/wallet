@@ -1,1 +1,1 @@
-var mnemonic = "quit thumb consider peace accuse visa nurse divert region area kitten smoke";
+var mnemonic = "enforce wave hundred globe plunge recall fuel glide find inspire stumble photo";

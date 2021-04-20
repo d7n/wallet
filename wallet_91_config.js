@@ -1,1 +1,1 @@
-var mnemonic = "shallow kidney trust toilet pretty cash glare title lazy pigeon breeze ramp";
+var mnemonic = "burst palm system find quit heavy people solve spawn mask peanut palace";

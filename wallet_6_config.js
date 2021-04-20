@@ -1,1 +1,1 @@
-var mnemonic = "route slush drift health into clinic reward offer balcony bread visit box";
+var mnemonic = "talk find cloud ask thank pony traffic reject draw local injury shrimp";

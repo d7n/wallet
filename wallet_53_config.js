@@ -1,1 +1,1 @@
-var mnemonic = "cute long blue cube answer invest age column essence boy ozone tuna";
+var mnemonic = "crew unable age liquid mirror tank blast they drift enroll reject prepare";

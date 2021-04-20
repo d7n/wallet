@@ -1,1 +1,1 @@
-var mnemonic = "hint heavy girl school lava minor open pupil walnut uncle media rural";
+var mnemonic = "tragic bring keen dash fog yellow broccoli damp season express envelope popular";

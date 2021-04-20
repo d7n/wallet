@@ -1,1 +1,1 @@
-var mnemonic = "audit high mirror ability poem melt middle again rice elegant express spoil";
+var mnemonic = "embark decide shuffle license margin consider ship home ramp vault marine trade";

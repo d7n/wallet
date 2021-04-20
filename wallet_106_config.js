@@ -1,1 +1,1 @@
-var mnemonic = "arctic forum winter leave open loan clock body dynamic step install depth";
+var mnemonic = "dumb weather easily game skirt card extend head fringe egg barely fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "great raw glare abstract please lecture crop style panic success six inch";
+var mnemonic = "visa next novel stamp filter assume awake flag head tired ugly cool";

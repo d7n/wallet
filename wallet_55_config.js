@@ -1,1 +1,1 @@
-var mnemonic = "industry cable second deal extra carry ghost document urban unlock hard market";
+var mnemonic = "skill double job iron timber front cook riot obvious story quick amazing";

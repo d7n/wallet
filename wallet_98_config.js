@@ -1,1 +1,1 @@
-var mnemonic = "option disease series trade strong blade now pelican friend potato appear damage";
+var mnemonic = "cruel sauce raw tuition improve evolve furnace duty paddle holiday pizza laundry";

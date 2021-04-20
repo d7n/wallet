@@ -1,1 +1,1 @@
-var mnemonic = "fun history sign mirror eagle trick space beef uncover typical clarify excite";
+var mnemonic = "faith permit region area dial catalog exhaust danger subject cradle hard sugar";

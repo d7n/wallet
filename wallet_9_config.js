@@ -1,1 +1,1 @@
-var mnemonic = "reason adapt express appear focus lawn fly horn key mansion genius correct";
+var mnemonic = "regular cinnamon say payment hard gaze faculty sunny occur square silly fitness";

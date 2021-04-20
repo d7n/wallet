@@ -1,1 +1,1 @@
-var mnemonic = "fish flame velvet catalog steak ready impose veteran chicken cloud turn fee";
+var mnemonic = "stove farm pretty trigger add utility space vault curve giant bulb extra";

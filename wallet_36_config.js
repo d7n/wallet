@@ -1,1 +1,1 @@
-var mnemonic = "snake voice initial maid that sleep clap dust butter ramp clarify quantum";
+var mnemonic = "mango throw company ability pause weekend crisp rack cram subject provide enhance";

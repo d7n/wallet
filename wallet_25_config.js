@@ -1,1 +1,1 @@
-var mnemonic = "vendor shrug jar sudden float view able patrol robot company view comfort";
+var mnemonic = "talk suit peace humble pact vintage unveil bonus bind swear feature switch";

@@ -1,1 +1,1 @@
-var mnemonic = "camp cinnamon tired hurt cactus chase effort crawl siren bounce day estate";
+var mnemonic = "image battle income cement net junk until curious already maid project bamboo";

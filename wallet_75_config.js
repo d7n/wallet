@@ -1,1 +1,1 @@
-var mnemonic = "energy material debate point shine throw artwork hand afford venture stairs client";
+var mnemonic = "ramp recall decline border exotic rug rocket better mountain october mouse away";

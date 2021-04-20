@@ -1,1 +1,1 @@
-var mnemonic = "west kick school employ feel burger number patch earth autumn other old";
+var mnemonic = "parrot ticket advance lift dash will shock person question jungle stamp vendor";

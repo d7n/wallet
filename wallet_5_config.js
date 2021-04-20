@@ -1,1 +1,1 @@
-var mnemonic = "focus quick fever dust garlic caution slab welcome zero scene husband twenty";
+var mnemonic = "milk forget harvest amateur shaft wood turn equal mask blind square differ";

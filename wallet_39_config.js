@@ -1,1 +1,1 @@
-var mnemonic = "road large nominee boat brush master shoe knee age three vivid win";
+var mnemonic = "dress steak hedgehog success speed two borrow slow flag shed pigeon divorce";

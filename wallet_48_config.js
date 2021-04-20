@@ -1,1 +1,1 @@
-var mnemonic = "gap soccer able what rigid inhale few vanish dance royal about month";
+var mnemonic = "suspect limb tray two clump result bacon pumpkin artist stumble mean fade";

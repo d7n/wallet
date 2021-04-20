@@ -1,1 +1,1 @@
-var mnemonic = "fence lift ostrich small garbage leg common seven adapt video unknown wheat";
+var mnemonic = "town rebuild false mind ability brave cable infant rubber brain element dust";

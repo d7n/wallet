@@ -1,1 +1,1 @@
-var mnemonic = "flower memory turtle harbor rib visit flock rabbit van sponsor excess letter";
+var mnemonic = "recipe movie spice item code hub spoil wage kick admit heavy prison";

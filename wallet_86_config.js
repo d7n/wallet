@@ -1,1 +1,1 @@
-var mnemonic = "seminar lucky kitten butter edit cycle strategy tobacco window enjoy domain despair";
+var mnemonic = "unusual public puzzle cousin tube snap loan congress rack void result ugly";

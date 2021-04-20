@@ -1,1 +1,1 @@
-var mnemonic = "change focus planet health figure trouble diagram crunch tobacco slush pepper identify";
+var mnemonic = "birth aunt put dentist year depart venture resource pattern video ask faith";

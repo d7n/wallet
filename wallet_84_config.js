@@ -1,1 +1,1 @@
-var mnemonic = "blue track expect pitch risk idle nurse know obscure stand weapon talent";
+var mnemonic = "swarm engage skirt elegant pilot network coil grab crouch cheap truly mixed";

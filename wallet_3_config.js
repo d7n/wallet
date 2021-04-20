@@ -1,1 +1,1 @@
-var mnemonic = "warrior admit person drastic have episode tackle afraid glass brush undo actress";
+var mnemonic = "exhaust october fix just embody addict sister dad drill scale tornado shoulder";

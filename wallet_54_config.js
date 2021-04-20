@@ -1,1 +1,1 @@
-var mnemonic = "any delay frown silk engine truly off second endless coast legend yellow";
+var mnemonic = "modify ahead beyond buddy play diesel shadow approve galaxy mass art inquiry";

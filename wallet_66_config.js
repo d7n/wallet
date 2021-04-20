@@ -1,1 +1,1 @@
-var mnemonic = "option rare wash eager submit quantum easy route region pattern shift blame";
+var mnemonic = "patient dust easily enroll despair pizza comic average intact lion head involve";

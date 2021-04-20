@@ -1,1 +1,1 @@
-var mnemonic = "wasp mix what balance please index hollow civil alarm narrow inmate climb";
+var mnemonic = "property vast pretty rather ankle inherit grunt try length claw crush brother";

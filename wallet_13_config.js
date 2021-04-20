@@ -1,1 +1,1 @@
-var mnemonic = "elephant couch stuff clap plunge fury metal slogan scheme huge galaxy census";
+var mnemonic = "october once orchard slam fragile special token pause reflect gold tenant flash";

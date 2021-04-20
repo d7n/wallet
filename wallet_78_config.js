@@ -1,1 +1,1 @@
-var mnemonic = "inmate next room jump strong market bitter buzz wrist alter season awesome";
+var mnemonic = "glass fabric frost hood fluid scout hint always smile south correct gate";

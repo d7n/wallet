@@ -1,1 +1,1 @@
-var mnemonic = "wrap because vehicle middle figure square seat tray thank charge convince armor";
+var mnemonic = "blouse resist slide aspect eager coin slight aim urban broom start dose";

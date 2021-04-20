@@ -1,1 +1,1 @@
-var mnemonic = "alter blame blame shift emerge main flee faculty adapt exhibit invest negative";
+var mnemonic = "rescue upgrade kangaroo salt reason wait mandate pulse corn vacant debris evil";

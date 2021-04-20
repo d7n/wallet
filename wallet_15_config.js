@@ -1,1 +1,1 @@
-var mnemonic = "basket right chair rifle math pigeon kid eye super season fire morning";
+var mnemonic = "skirt cousin dynamic clump want void silly material misery square impact recall";

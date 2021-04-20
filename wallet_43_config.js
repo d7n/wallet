@@ -1,1 +1,1 @@
-var mnemonic = "menu spice supreme letter bullet rocket coral model shop tail define depend";
+var mnemonic = "crystal crazy horror excite face junior scrap pet knock kiss seed chuckle";

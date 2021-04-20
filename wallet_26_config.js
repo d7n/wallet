@@ -1,1 +1,1 @@
-var mnemonic = "develop female neck leaf ribbon differ smoke ketchup sample edge journey sudden";
+var mnemonic = "used wedding match where degree drill high utility draw notable knee nasty";

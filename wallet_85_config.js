@@ -1,1 +1,1 @@
-var mnemonic = "excess load sunset draw injury piece kind citizen runway cycle anchor walk";
+var mnemonic = "diesel wrong absorb barrel price quick diary matrix source hotel finish lava";

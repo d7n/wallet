@@ -1,1 +1,1 @@
-var mnemonic = "flush wear myth coil tiny assume violin dolphin flight result relax lamp";
+var mnemonic = "spare pluck there side dirt leg clown bench frown arrive admit fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "december drill next magic prepare evolve spoon kitten debris rare tag estate";
+var mnemonic = "space fantasy process goddess oak salmon whisper hotel tragic bunker safe relief";

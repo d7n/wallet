@@ -1,1 +1,1 @@
-var mnemonic = "project announce course excuse section glove wait garage purchase sword action license";
+var mnemonic = "culture march cable point sunny blind seven force neither friend lumber hill";

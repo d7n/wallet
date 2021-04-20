@@ -1,1 +1,1 @@
-var mnemonic = "office beyond tiny today above toe boss aspect horror outer tooth olive";
+var mnemonic = "same quality depart theme crumble omit region eyebrow raven snake name party";

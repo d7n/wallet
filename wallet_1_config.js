@@ -1,1 +1,1 @@
-var mnemonic = "luggage exclude regret moon trophy ignore task scissors bunker quality cover address";
+var mnemonic = "album van claw basic puppy trap engage grape weather force stable charge";

@@ -1,1 +1,1 @@
-var mnemonic = "trade envelope donate super term blast survey maximum prepare festival boat mesh";
+var mnemonic = "denial clutch receive taste atom legend barely choose whisper isolate frozen fit";

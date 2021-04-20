@@ -1,1 +1,1 @@
-var mnemonic = "sand can claw cart nation recipe enemy current sound police chapter own";
+var mnemonic = "sight sight treat pledge thing claw erosion valley home ignore suspect cigar";

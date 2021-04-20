@@ -1,1 +1,1 @@
-var mnemonic = "whip pause resemble disagree wall insane shield carpet sort empower forest seminar";
+var mnemonic = "interest deposit bird volume auto jaguar guess stay parent job river ritual";

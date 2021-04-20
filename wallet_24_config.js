@@ -1,1 +1,1 @@
-var mnemonic = "green swarm door attract flavor ethics soccer drive draw space absent coin";
+var mnemonic = "powder above suggest fly thank pool horn leaf harsh eyebrow view warrior";

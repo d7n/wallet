@@ -1,1 +1,1 @@
-var mnemonic = "three hurt dragon because head ginger indoor push buzz benefit fog voyage";
+var mnemonic = "hollow luxury globe tilt figure biology noodle bounce home similar sketch match";

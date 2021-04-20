@@ -1,1 +1,1 @@
-var mnemonic = "gentle buddy begin exit auto mosquito circle truly donor crater skirt note";
+var mnemonic = "grit egg correct rhythm extend kangaroo release title tattoo law cage april";

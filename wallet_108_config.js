@@ -1,1 +1,1 @@
-var mnemonic = "echo float outdoor blur waste love soup meadow ship undo absorb history";
+var mnemonic = "crisp vote smoke forget grass march situate palace crouch defy denial motor";

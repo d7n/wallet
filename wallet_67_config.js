@@ -1,1 +1,1 @@
-var mnemonic = "faculty output forest tip coin reform much rate human parade melody try";
+var mnemonic = "clog cube alter various cousin permit win space enact shift giraffe corn";

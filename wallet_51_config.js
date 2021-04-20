@@ -1,1 +1,1 @@
-var mnemonic = "favorite foam spawn battle march olive grass echo together average begin divide";
+var mnemonic = "outdoor pill voyage wash enjoy other fiction motor minor opinion donor advice";

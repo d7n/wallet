@@ -1,1 +1,1 @@
-var mnemonic = "armed animal paper throw hawk limb april violin trophy canal device key";
+var mnemonic = "supreme provide swamp illegal nothing oyster mansion stereo trip manual ribbon clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "defy hedgehog sock park upon job bag raven sight mystery comfort peanut";
+var mnemonic = "tragic chief settle panel catch milk great metal nominee derive scale skate";

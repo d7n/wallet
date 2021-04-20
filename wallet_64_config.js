@@ -1,1 +1,1 @@
-var mnemonic = "meadow again put derive include hand gossip cat include loud erupt physical";
+var mnemonic = "foster round caution cube focus audit wagon local spare lunch giggle prosper";

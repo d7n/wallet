@@ -1,1 +1,1 @@
-var mnemonic = "surge turkey curtain mansion bunker fringe spend three pistol plunge april bread";
+var mnemonic = "hip horse asthma major february price alien horse disagree muffin lake reject";

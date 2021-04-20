@@ -1,1 +1,1 @@
-var mnemonic = "food black police then desert now coin torch absurd stamp rice drink";
+var mnemonic = "hotel eyebrow trick narrow buyer million execute wrap suggest vehicle kid enrich";

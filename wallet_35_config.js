@@ -1,1 +1,1 @@
-var mnemonic = "surface village record special fitness scatter abandon nut snack square share stumble";
+var mnemonic = "crack absent major town clean glove arrange then pledge royal embark near";

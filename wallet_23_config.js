@@ -1,1 +1,1 @@
-var mnemonic = "assist situate oven citizen fence duck enroll pelican fit federal quiz record";
+var mnemonic = "seven celery urban mercy focus stamp brief atom arm trigger orange ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "input live try category relief machine act code garden panda room they";
+var mnemonic = "idle tone nuclear ancient thing emerge ahead world ready trophy retire input";

@@ -1,1 +1,1 @@
-var mnemonic = "side need vibrant cheese limb exile discover aspect warfare opinion mention mirror";
+var mnemonic = "oyster struggle pen mad fantasy road brief boy ahead tenant glance wait";

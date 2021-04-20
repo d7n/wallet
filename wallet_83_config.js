@@ -1,1 +1,1 @@
-var mnemonic = "lamp sail nut note index develop chalk kangaroo sudden flash renew shock";
+var mnemonic = "oxygen desert connect stock clinic blouse panel aerobic below space inside bridge";

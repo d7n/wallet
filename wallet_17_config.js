@@ -1,1 +1,1 @@
-var mnemonic = "shoulder remain hamster federal trim shy payment hover valid cat minor push";
+var mnemonic = "earn soup wide foam noble trip now margin cheese sheriff leisure soldier";

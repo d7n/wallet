@@ -1,1 +1,1 @@
-var mnemonic = "teach stock project brave reject stamp spell curve abstract session already box";
+var mnemonic = "actual drama dress pink theme govern armor iron protect replace cute shoulder";

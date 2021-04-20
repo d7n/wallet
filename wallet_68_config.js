@@ -1,1 +1,1 @@
-var mnemonic = "present weapon shift suspect permit bulk mass force timber velvet rely clinic";
+var mnemonic = "divide heart layer appear skull chat eternal ride tape motion thrive uniform";

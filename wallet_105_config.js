@@ -1,1 +1,1 @@
-var mnemonic = "pen pigeon two lend then private knife dawn sadness another humble piano";
+var mnemonic = "desk ice life explain coast urban round nut comic defense erosion argue";

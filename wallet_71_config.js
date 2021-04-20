@@ -1,1 +1,1 @@
-var mnemonic = "pair roast cruise young coin despair will depend twin exist grid print";
+var mnemonic = "medal dolphin brand stereo april limit pool illegal furnace speak motion oblige";

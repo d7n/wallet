@@ -1,1 +1,1 @@
-var mnemonic = "early fluid into west win decorate stand man garbage position jacket bundle";
+var mnemonic = "pretty jump south cause prison empower awful cruise meadow dad diamond case";

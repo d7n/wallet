@@ -1,1 +1,1 @@
-var mnemonic = "view bottom royal relief response witness direct nest aware heavy entry enjoy";
+var mnemonic = "frame input fork measure mad slam alone sweet supply okay cry join";

@@ -1,1 +1,1 @@
-var mnemonic = "play share easy keen object fire deny dizzy miss visa baby enrich";
+var mnemonic = "time promote aisle bless vanish style digital target sadness disagree planet trust";

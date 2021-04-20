@@ -1,1 +1,1 @@
-var mnemonic = "stick expire fan firm swap fatal thing tennis fix great point saddle";
+var mnemonic = "first envelope magic expose leg onion physical fault group history oxygen evolve";

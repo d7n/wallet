@@ -1,1 +1,1 @@
-var mnemonic = "into opera vocal weird food motor genuine common sign bag sun kick";
+var mnemonic = "machine gift pottery rent wool spend unique border wash easily merry clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "mule velvet mobile remember vendor chief garden buddy wine hungry sick orange";
+var mnemonic = "trial true under hurry chef enjoy small you caution usual utility crowd";

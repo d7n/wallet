@@ -1,1 +1,1 @@
-var mnemonic = "require word gospel eight uncover submit column refuse leader devote use educate";
+var mnemonic = "dry stumble tide entry shrimp few rubber mushroom heavy wave phrase biology";

@@ -1,1 +1,1 @@
-var mnemonic = "salad quote vibrant lock brown quote shine join athlete flip fluid emerge";
+var mnemonic = "gather display topic crater jar survey rain razor alter scrap wine gorilla";

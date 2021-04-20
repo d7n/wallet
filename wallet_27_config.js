@@ -1,1 +1,1 @@
-var mnemonic = "kid biology traffic curtain target menu kite glance champion stage escape obscure";
+var mnemonic = "annual celery west march urge notice reflect cupboard road spoon reunion magic";

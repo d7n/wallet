@@ -1,1 +1,1 @@
-var mnemonic = "height alarm that degree muscle general canyon parent pause medal clinic join";
+var mnemonic = "ice antique exact truth color illness level ball purchase tragic share sense";

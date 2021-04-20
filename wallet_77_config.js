@@ -1,1 +1,1 @@
-var mnemonic = "glide catalog seminar anger merry near hair later talk spot park turkey";
+var mnemonic = "hill unveil tank concert bulk cliff winter visa uniform renew source purse";

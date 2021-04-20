@@ -1,1 +1,1 @@
-var mnemonic = "lazy venture easily sense knock strike strong myself ritual between awful cage";
+var mnemonic = "picture person young analyst uphold bamboo betray claim gorilla muscle fish exhibit";

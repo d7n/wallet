@@ -1,1 +1,1 @@
-var mnemonic = "surface best purity twin target jeans smile tuna know brain town spawn";
+var mnemonic = "catalog rain seed snow stumble nurse smart vocal also garbage used stone";

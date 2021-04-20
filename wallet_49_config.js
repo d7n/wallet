@@ -1,1 +1,1 @@
-var mnemonic = "purchase major august mask onion eagle ice shell choose huge season loud";
+var mnemonic = "east chef book limb arch grant history strike stadium radar faith soap";

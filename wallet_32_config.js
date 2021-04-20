@@ -1,1 +1,1 @@
-var mnemonic = "section mercy nuclear random nuclear detail people rival kind artwork copy holiday";
+var mnemonic = "hedgehog sort strategy venture ketchup twin nation what accident target deliver rib";

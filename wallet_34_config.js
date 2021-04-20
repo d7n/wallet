@@ -1,1 +1,1 @@
-var mnemonic = "young enjoy correct alpha liberty early earn detect absent range bus stick";
+var mnemonic = "yard nasty client vivid high egg arch swing satisfy physical slide trial";

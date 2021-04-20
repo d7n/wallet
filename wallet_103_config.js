@@ -1,1 +1,1 @@
-var mnemonic = "oppose lesson pigeon critic update gadget clerk alley drop post aim soup";
+var mnemonic = "sample train idea open address gate seat put portion coast chalk search";

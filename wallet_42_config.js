@@ -1,1 +1,1 @@
-var mnemonic = "inject decorate smoke better member adult skirt embody correct inside imitate clock";
+var mnemonic = "oven metal foam kite school fancy myth loud toddler trust fringe huge";

@@ -1,1 +1,1 @@
-var mnemonic = "time idea metal never include gravity viable brand pony fancy drop price";
+var mnemonic = "okay aim muscle diet scissors glide ritual crisp foam stem section champion";

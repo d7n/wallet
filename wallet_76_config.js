@@ -1,1 +1,1 @@
-var mnemonic = "lamp already floor horn pulse safe lava buddy fiber dog whale slot";
+var mnemonic = "switch luggage radio much local begin swift great minor top want paper";
