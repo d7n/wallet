@@ -1,1 +1,1 @@
-var mnemonic = "hour betray slide hip dragon burger hybrid coffee gentle brother grape sugar";
+var mnemonic = "noodle taste tail net riot skull thought proof drop awesome film purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion circle brain enjoy shield point pipe join typical vital notice spoon";
+var mnemonic = "fabric reflect ordinary giraffe guide cancel citizen relax seat athlete okay used";

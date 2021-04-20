@@ -1,1 +1,1 @@
-var mnemonic = "toward more poverty upgrade behave nice quit equip cup rough range pulp";
+var mnemonic = "beauty top exist arm sentence zebra fiber echo symptom maple enrich glide";

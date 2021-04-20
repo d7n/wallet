@@ -1,1 +1,1 @@
-var mnemonic = "proud student lonely asthma again world link range rebel piano exit still";
+var mnemonic = "theory forward spread mobile recycle army smart planet try west absorb they";

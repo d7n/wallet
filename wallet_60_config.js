@@ -1,1 +1,1 @@
-var mnemonic = "annual swing punch pretty jungle announce damage review cactus asset honey toy";
+var mnemonic = "run struggle road pink art receive boat spin hope marine phrase expect";

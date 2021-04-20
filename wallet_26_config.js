@@ -1,1 +1,1 @@
-var mnemonic = "cycle shuffle paddle purpose distance busy good tongue modify glimpse liberty bunker";
+var mnemonic = "frozen drink city junk disorder flame weather wide want icon depth minimum";

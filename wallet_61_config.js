@@ -1,1 +1,1 @@
-var mnemonic = "cannon drip tree comic debate verb vanish holiday arena cake enroll believe";
+var mnemonic = "ability force whale dwarf neutral used report snow man resist three neck";

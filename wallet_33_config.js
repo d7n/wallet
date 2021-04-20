@@ -1,1 +1,1 @@
-var mnemonic = "language argue coach enable retire cement diet spin shuffle abstract void charge";
+var mnemonic = "odor chronic much turn milk among trap universe grab gallery scissors twin";

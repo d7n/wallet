@@ -1,1 +1,1 @@
-var mnemonic = "strategy proof base stay work calm age stuff undo display rescue agree";
+var mnemonic = "force amateur client sight win extra world arm security sleep ice twenty";

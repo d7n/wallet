@@ -1,1 +1,1 @@
-var mnemonic = "sting bless obey network food local laugh scissors sample general pottery device";
+var mnemonic = "daring subject rack quiz unhappy day tackle capable immune mistake voice expose";

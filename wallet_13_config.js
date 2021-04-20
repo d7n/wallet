@@ -1,1 +1,1 @@
-var mnemonic = "pact make duty weapon frame whip friend immense apple voyage cheap mimic";
+var mnemonic = "slide million beyond confirm culture yellow blur social bird build cruise fire";

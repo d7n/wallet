@@ -1,1 +1,1 @@
-var mnemonic = "observe quote tribe utility settle future bronze shoot antique strong million print";
+var mnemonic = "gloom forest smooth occur detail salt talk recall off benefit educate clap";

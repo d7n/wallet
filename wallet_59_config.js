@@ -1,1 +1,1 @@
-var mnemonic = "taste couple avoid churn bicycle grape liar meat talk arch dwarf crack";
+var mnemonic = "law merge sorry this pride leg thing choose true please want field";

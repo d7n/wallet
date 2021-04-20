@@ -1,1 +1,1 @@
-var mnemonic = "runway battle purchase staff able helmet carry act sunset chicken armor panic";
+var mnemonic = "gauge author answer gossip model clarify curious spirit you panther panel baby";

@@ -1,1 +1,1 @@
-var mnemonic = "forest acid provide diet crane remind alter walk return abandon woman type";
+var mnemonic = "shock rebel brick fox sample muscle wide clean tray piece comfort immense";

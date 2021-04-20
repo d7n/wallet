@@ -1,1 +1,1 @@
-var mnemonic = "rule decrease cushion work success bunker sea accuse deposit sudden eyebrow pass";
+var mnemonic = "endorse depend attack gossip security about follow ripple hungry recall erode source";

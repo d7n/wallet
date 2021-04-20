@@ -1,1 +1,1 @@
-var mnemonic = "escape crater lawsuit crime pink arrow fork index creek humor poverty damage";
+var mnemonic = "jewel simple easy phrase slam rescue bulb protect cupboard rib into ethics";

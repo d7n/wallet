@@ -1,1 +1,1 @@
-var mnemonic = "drop real drum air flat post water wage eye exile chase normal";
+var mnemonic = "mixture route below cabin employ tilt height renew floor ecology spring symptom";

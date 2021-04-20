@@ -1,1 +1,1 @@
-var mnemonic = "fruit combine motor action symptom fire combine rain oxygen piece cheap minimum";
+var mnemonic = "cheap wasp raccoon treat jar account usual grass girl phrase analyst glow";

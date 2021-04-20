@@ -1,1 +1,1 @@
-var mnemonic = "hamster vague mule next truck sense tobacco patient distance demand canal sibling";
+var mnemonic = "energy muffin steak fossil elbow magic believe humble trigger cannon catch tag";

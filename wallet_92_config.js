@@ -1,1 +1,1 @@
-var mnemonic = "law female muffin monkey document tag voyage dad tuition file want palm";
+var mnemonic = "retreat save snake suit model key equip travel fox trick daughter ball";

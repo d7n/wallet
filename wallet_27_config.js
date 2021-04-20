@@ -1,1 +1,1 @@
-var mnemonic = "behave obvious chalk search utility dwarf crawl script oil type airport river";
+var mnemonic = "wreck filter lake rapid monitor perfect crane vendor crouch tuition hello ozone";

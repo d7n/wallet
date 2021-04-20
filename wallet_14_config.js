@@ -1,1 +1,1 @@
-var mnemonic = "because staff cancel bundle mirror expand tragic friend culture snow citizen plastic";
+var mnemonic = "rely miss foot worry portion bronze earth pig print fall crew divorce";

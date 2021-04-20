@@ -1,1 +1,1 @@
-var mnemonic = "marine broken team canoe pulp flag escape news fury trust velvet merry";
+var mnemonic = "second together budget offer hero humble jewel river rain monkey extra wool";

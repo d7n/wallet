@@ -1,1 +1,1 @@
-var mnemonic = "matrix print cry make trigger leader danger indoor catch physical grain comfort";
+var mnemonic = "blossom measure urban net orange egg wreck miracle club wear genre lottery";

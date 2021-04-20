@@ -1,1 +1,1 @@
-var mnemonic = "couch tray off length elbow economy shuffle deer offer aunt pyramid duty";
+var mnemonic = "between artefact access sudden fever stereo conduct toilet pencil diamond relax phone";

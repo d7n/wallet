@@ -1,1 +1,1 @@
-var mnemonic = "key divert poverty horn suffer two enlist maple parent dentist anchor lecture";
+var mnemonic = "guide explain salt nut arrow tobacco spread sense anger spot shiver trophy";

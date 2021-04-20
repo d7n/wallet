@@ -1,1 +1,1 @@
-var mnemonic = "motion captain conduct metal churn spare shuffle kitten pudding elephant mechanic inform";
+var mnemonic = "height veteran erosion refuse kick habit trap light alert glory tired orange";

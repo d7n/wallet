@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin health where card strategy balcony race olympic canal lounge remind coral";
+var mnemonic = "balance traffic merge near creek rapid collect autumn notable offer naive hard";

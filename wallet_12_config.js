@@ -1,1 +1,1 @@
-var mnemonic = "turkey peasant cheese blue situate control labor rug immense can honey switch";
+var mnemonic = "develop blame dust crack surface hope someone ladder suit mosquito still patient";

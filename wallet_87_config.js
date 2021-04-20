@@ -1,1 +1,1 @@
-var mnemonic = "harsh creek student venture autumn gift cry exercise view degree track climb";
+var mnemonic = "pottery wife route noise rigid amount wild letter jump seed episode monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "keen supply cash suggest girl feature denial into junk elder belt mother";
+var mnemonic = "okay sketch practice strategy bundle wheel powder kingdom zone trigger cigar blood";

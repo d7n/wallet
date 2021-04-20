@@ -1,1 +1,1 @@
-var mnemonic = "trade someone come sport rural budget unaware elder route moon mind soup";
+var mnemonic = "extend item spike age enable price bus potato still soon more laptop";

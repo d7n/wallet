@@ -1,1 +1,1 @@
-var mnemonic = "federal fan slide junk benefit wrap give return runway joy category faculty";
+var mnemonic = "alley base vendor talent boy another curious mother supreme team this pottery";

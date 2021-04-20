@@ -1,1 +1,1 @@
-var mnemonic = "salad require derive winner brick goat monster table august century twin ozone";
+var mnemonic = "tip rocket fabric slight duck off reject mobile dial bone switch industry";

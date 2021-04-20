@@ -1,1 +1,1 @@
-var mnemonic = "coral clown hen skirt coil anxiety catch outdoor social impact found dawn";
+var mnemonic = "trophy crowd apple eagle diary alter surge unit pair shuffle number ghost";

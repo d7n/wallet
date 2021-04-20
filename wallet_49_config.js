@@ -1,1 +1,1 @@
-var mnemonic = "auction castle tenant between unique birth guess top version find order oyster";
+var mnemonic = "invest derive weapon mask belt minute leopard next birth between sell tired";

@@ -1,1 +1,1 @@
-var mnemonic = "capable govern juice hawk blast eager rate you present swallow accuse giraffe";
+var mnemonic = "they olympic minimum across squirrel attitude sample judge worry stairs talent menu";

@@ -1,1 +1,1 @@
-var mnemonic = "face subject hair cream riot twin federal witness false jeans jewel embrace";
+var mnemonic = "predict master detail claim loop child tackle rabbit resource provide square pill";

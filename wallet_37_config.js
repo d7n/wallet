@@ -1,1 +1,1 @@
-var mnemonic = "drama figure solar fame depart two describe affair axis crunch mesh talent";
+var mnemonic = "outer clinic option width valve street banner maze drill find maze simple";

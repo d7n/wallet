@@ -1,1 +1,1 @@
-var mnemonic = "manual federal weird olympic barrel sport brown other spawn second coffee puzzle";
+var mnemonic = "object medal royal lunar demand interest shaft what high casino old winter";

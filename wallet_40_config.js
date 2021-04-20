@@ -1,1 +1,1 @@
-var mnemonic = "fade suspect body connect expand bulk ginger genius wild jelly flip chuckle";
+var mnemonic = "spike humor enact tone submit option load alien pottery plastic reject crime";

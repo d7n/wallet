@@ -1,1 +1,1 @@
-var mnemonic = "width fix hire law van science kit gloom correct test shuffle juice";
+var mnemonic = "now trim pole small inherit biology rent wash project proud flat focus";

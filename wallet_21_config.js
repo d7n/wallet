@@ -1,1 +1,1 @@
-var mnemonic = "soft entry example mind famous wait scrub peasant must bounce dignity record";
+var mnemonic = "jungle phone blouse try artefact sorry satoshi else silk rent bubble mom";

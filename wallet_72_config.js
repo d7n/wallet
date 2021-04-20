@@ -1,1 +1,1 @@
-var mnemonic = "afford rescue wrist deer love spoil consider marble cross elephant orange aspect";
+var mnemonic = "credit carpet liar suit trim strike orphan silent program access castle culture";

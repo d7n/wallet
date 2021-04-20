@@ -1,1 +1,1 @@
-var mnemonic = "cute bulb lonely detect barely cute unique bundle banner unknown token salad";
+var mnemonic = "fashion lake cheap target monster depth fuel level budget mind race vintage";

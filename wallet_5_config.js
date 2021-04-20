@@ -1,1 +1,1 @@
-var mnemonic = "material sniff woman scene movie sock dinosaur excuse hair praise barrel ribbon";
+var mnemonic = "fish chuckle neglect gym amount true nominee power agree pelican athlete pony";

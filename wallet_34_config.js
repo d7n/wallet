@@ -1,1 +1,1 @@
-var mnemonic = "vibrant rely tail modify fluid tuna shuffle pave develop deliver parade treat";
+var mnemonic = "crane faculty noodle remove clinic kiss gravity despair collect radar arm bachelor";

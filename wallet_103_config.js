@@ -1,1 +1,1 @@
-var mnemonic = "message powder dismiss now yellow laugh artefact federal amateur renew lawsuit monitor";
+var mnemonic = "claim photo awesome note arrest secret stone dress clerk animal bottom then";

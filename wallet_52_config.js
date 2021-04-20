@@ -1,1 +1,1 @@
-var mnemonic = "future coffee family adapt daring truth lava silver gospel embrace victory scout";
+var mnemonic = "present stock canvas plastic adjust planet busy spike parade render embark object";

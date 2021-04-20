@@ -1,1 +1,1 @@
-var mnemonic = "noise runway fringe winner dose setup latin rain stage stone until please";
+var mnemonic = "super another entire opera trigger worth holiday ride frozen target any write";

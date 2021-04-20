@@ -1,1 +1,1 @@
-var mnemonic = "danger napkin broken dawn end ready setup guess frame hen cliff expect";
+var mnemonic = "lazy summer soft author total october town inhale bronze girl plate vast";

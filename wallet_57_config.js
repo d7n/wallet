@@ -1,1 +1,1 @@
-var mnemonic = "collect kick ball reward west secret half jelly move cook cycle hunt";
+var mnemonic = "hen wall silent celery power oxygen resource artist nasty develop oxygen mass";

@@ -1,1 +1,1 @@
-var mnemonic = "risk planet judge resist sweet coral retire wise feel manage vague equal";
+var mnemonic = "sleep post security cargo unknown west hotel table scout column cloud extend";

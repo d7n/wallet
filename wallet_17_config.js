@@ -1,1 +1,1 @@
-var mnemonic = "predict bomb interest vast settle tube city pause champion deliver dad forget";
+var mnemonic = "toast when bid boat case check cash eagle kite depart refuse across";

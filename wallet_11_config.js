@@ -1,1 +1,1 @@
-var mnemonic = "slot cricket minimum transfer physical year monkey target dry brush raise quality";
+var mnemonic = "cradle retreat margin clay now merry arch pioneer flame craft now flight";

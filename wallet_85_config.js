@@ -1,1 +1,1 @@
-var mnemonic = "just miracle slim jelly position seek wage excuse next glass over arch";
+var mnemonic = "lend attract copper spice door manual room kiwi during stage super marriage";

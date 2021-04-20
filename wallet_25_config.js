@@ -1,1 +1,1 @@
-var mnemonic = "company fortune cement popular clean tray ramp tank wide sense sphere chuckle";
+var mnemonic = "venue decade choice depend put valid clown assist faint volcano sell family";

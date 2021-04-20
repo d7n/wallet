@@ -1,1 +1,1 @@
-var mnemonic = "hunt together meat cover mammal uniform rain exotic pioneer mail scissors artwork";
+var mnemonic = "month jacket health capable relief mosquito junk faint ready skirt enable room";

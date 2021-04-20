@@ -1,1 +1,1 @@
-var mnemonic = "enable begin erosion simple dose achieve recall crazy paper noble comic exact";
+var mnemonic = "zebra strike design route usage punch bone slush come pluck demand horse";

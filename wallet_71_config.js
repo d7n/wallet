@@ -1,1 +1,1 @@
-var mnemonic = "knee measure wise shrimp lizard voyage swift mansion forest stool visual park";
+var mnemonic = "resemble city chef risk crucial into labor require weasel index chimney puzzle";

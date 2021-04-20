@@ -1,1 +1,1 @@
-var mnemonic = "mail hurdle track gym emerge tilt lesson index armor useful arctic empty";
+var mnemonic = "armed museum rather time dust venture drama motor heavy couch payment lawsuit";

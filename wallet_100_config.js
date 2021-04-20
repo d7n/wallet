@@ -1,1 +1,1 @@
-var mnemonic = "gas theme summer vivid lift kite motor bitter under eyebrow blind kite";
+var mnemonic = "metal void stuff inner stand choose rookie hurdle start case orbit excite";

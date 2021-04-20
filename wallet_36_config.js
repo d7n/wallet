@@ -1,1 +1,1 @@
-var mnemonic = "turn beach giraffe snow control unfold setup produce year drink music balance";
+var mnemonic = "any foster comic loan memory garment theory wrong cactus grain anger net";

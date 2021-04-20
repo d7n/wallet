@@ -1,1 +1,1 @@
-var mnemonic = "gadget balcony remember mention wing volcano december enable chicken define detail foot";
+var mnemonic = "episode describe observe arena cloud rescue quarter ostrich write sand distance panda";

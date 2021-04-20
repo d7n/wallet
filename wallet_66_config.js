@@ -1,1 +1,1 @@
-var mnemonic = "claim throw only plunge charge iron trophy beauty number curtain evidence skirt";
+var mnemonic = "main dawn gorilla network submit saddle leaf rapid december stage gossip friend";

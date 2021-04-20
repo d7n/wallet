@@ -1,1 +1,1 @@
-var mnemonic = "bean code urban define virus radio busy below change river half dragon";
+var mnemonic = "trick unaware diamond heart risk tray rally sing give object afford sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile pumpkin initial exchange pool rebuild torch smile steak cereal imitate around";
+var mnemonic = "toy under shop noise umbrella general involve cram enable file tragic casino";

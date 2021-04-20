@@ -1,1 +1,1 @@
-var mnemonic = "father rent pilot into motor spend liar fix kit step crane raccoon";
+var mnemonic = "december trap tent bar stand course melt upon soccer current walk hard";

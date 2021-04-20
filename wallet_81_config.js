@@ -1,1 +1,1 @@
-var mnemonic = "garment alter unhappy merge chest huge define library various piece push tiger";
+var mnemonic = "coin argue fluid bird exercise diamond earn risk mass winter trim spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer era torch wood kind snow distance royal myth rely twist whip";
+var mnemonic = "act average vibrant salad zone glide put layer erosion phone gossip segment";

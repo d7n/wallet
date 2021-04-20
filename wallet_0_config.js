@@ -1,1 +1,1 @@
-var mnemonic = "clock region subway pudding cabbage air mammal code kidney exile cake birth";
+var mnemonic = "unusual useful fever pink amateur inner disorder ready age pottery mail hint";

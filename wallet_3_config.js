@@ -1,1 +1,1 @@
-var mnemonic = "until bounce sting alpha tank tray prize debris pause chaos develop motor";
+var mnemonic = "coconut lonely husband dentist extend include soccer flat nature just silk van";

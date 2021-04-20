@@ -1,1 +1,1 @@
-var mnemonic = "donate hundred immune bundle simple follow brush rain walnut naive amused flame";
+var mnemonic = "dash wrap small old soccer abuse screen rigid large dance feel abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "yard vanish auto steel sunset number enforce limit code oyster frown solid";
+var mnemonic = "remember report art float gym regular disease clarify boring reward cloud hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow north know manage trigger slot noise poverty thumb shrimp scatter road";
+var mnemonic = "mind base decide tired smart avocado rural add capable flush text pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit swing trim hint phone raven rail glow current glance glad child";
+var mnemonic = "door episode relax butter tired excuse return off fence critic thing oven";

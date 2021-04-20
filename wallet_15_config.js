@@ -1,1 +1,1 @@
-var mnemonic = "spawn ride defy ostrich flavor tree vacant tube thrive seminar surface loop";
+var mnemonic = "raise annual vital scissors coffee detect bacon table stand clap oak route";

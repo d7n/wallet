@@ -1,1 +1,1 @@
-var mnemonic = "region project tone custom doll barely hole vacant avocado moral devote day";
+var mnemonic = "square wagon online spot guard august spend fossil strong mask forget airport";

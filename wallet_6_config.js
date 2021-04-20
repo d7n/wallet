@@ -1,1 +1,1 @@
-var mnemonic = "wreck since tail myself network rare scorpion essay smart danger pet tuna";
+var mnemonic = "grunt start then flat device wall culture ahead reward era tray amazing";

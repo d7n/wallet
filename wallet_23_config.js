@@ -1,1 +1,1 @@
-var mnemonic = "like escape abuse where steel evil rival still wire spike desk muscle";
+var mnemonic = "over dress emotion wing refuse main like kingdom sponsor apology devote hope";

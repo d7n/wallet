@@ -1,1 +1,1 @@
-var mnemonic = "correct define hint scare wool repair grunt broom wine initial aim false";
+var mnemonic = "level regret device police indicate vast steak plastic excuse mind raccoon position";

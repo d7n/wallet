@@ -1,1 +1,1 @@
-var mnemonic = "hunt insane switch vacuum prize survey gym minimum surprise sock ivory answer";
+var mnemonic = "rifle close impact winter penalty pistol sell still blind valley loop blue";

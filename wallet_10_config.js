@@ -1,1 +1,1 @@
-var mnemonic = "length expire nurse oval panda ignore truth remove west narrow double custom";
+var mnemonic = "giggle main spoon drink library shuffle spatial cotton split razor matter slide";

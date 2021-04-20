@@ -1,1 +1,1 @@
-var mnemonic = "tip axis jungle gospel staff venue chalk swallow approve start recipe sense";
+var mnemonic = "slogan plate dinosaur swallow marble denial dream road plug immune slide matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "circle vast soda front thunder boy join noodle curious gasp lazy destroy";
+var mnemonic = "mobile cereal service jealous question stumble pigeon blast follow oil floor march";

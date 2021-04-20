@@ -1,1 +1,1 @@
-var mnemonic = "seek about balance wing struggle program exit pretty excuse decrease input prize";
+var mnemonic = "machine gospel dignity labor fly face easy curtain arena purpose clown riot";

@@ -1,1 +1,1 @@
-var mnemonic = "friend twice sell exile spider stairs divorce tourist grid demand term name";
+var mnemonic = "mystery mercy coast chapter cook normal onion wonder pupil label area ripple";

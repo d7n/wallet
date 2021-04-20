@@ -1,1 +1,1 @@
-var mnemonic = "urban reflect large dutch ancient rigid slam basket void salon cube pioneer";
+var mnemonic = "gasp expand echo pioneer rigid robot case lion wrestle banana culture erode";

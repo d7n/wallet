@@ -1,1 +1,1 @@
-var mnemonic = "rebel act exhaust liberty bike squeeze kiss cabbage couple pond fame marine";
+var mnemonic = "knee host regret welcome fit isolate drift label buddy oven risk runway";

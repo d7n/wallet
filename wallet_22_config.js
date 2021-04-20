@@ -1,1 +1,1 @@
-var mnemonic = "goose giant conduct notice very afford art wrist concert scissors venture fatal";
+var mnemonic = "wine ignore trouble increase glue tool purpose rabbit scatter knife lake goat";

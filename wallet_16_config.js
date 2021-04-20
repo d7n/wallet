@@ -1,1 +1,1 @@
-var mnemonic = "rib plastic reopen theory female immense regular predict metal globe bone vicious";
+var mnemonic = "puzzle solar chief liar brave tiger climb grant early damage loyal warfare";

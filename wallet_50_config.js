@@ -1,1 +1,1 @@
-var mnemonic = "inquiry slogan lesson alter laugh flag depth range wine absent fan prepare";
+var mnemonic = "cloud model figure gauge ostrich elephant glide view skirt cheap roof supreme";

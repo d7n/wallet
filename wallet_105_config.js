@@ -1,1 +1,1 @@
-var mnemonic = "inquiry borrow pet veteran silk brother town speak peace field member source";
+var mnemonic = "ancient wild wave shift holiday amazing slide immense rule innocent unusual ethics";
