@@ -1,1 +1,1 @@
-var mnemonic = "coconut swallow regret vast anger winter dad puzzle floor twelve squeeze sibling";
+var mnemonic = "million mass mix uphold weird question dog slow stairs victory pool ugly";

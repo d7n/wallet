@@ -1,1 +1,1 @@
-var mnemonic = "name addict swing genre town castle crew laugh before praise deny cliff";
+var mnemonic = "illegal know cream hope coconut rhythm post amazing salmon fossil immense day";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty spread stock orange frozen utility depth rib corn wild salon tone";
+var mnemonic = "magic warfare fit develop face become body slogan notable master kangaroo move";

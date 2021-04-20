@@ -1,1 +1,1 @@
-var mnemonic = "raw will brass survey option choose reflect impose warm common weasel wasp";
+var mnemonic = "hero taxi butter arctic era token clever blush soldier flavor tragic dust";

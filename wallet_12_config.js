@@ -1,1 +1,1 @@
-var mnemonic = "huge bread save impulse consider inmate scout traffic culture churn clutch diamond";
+var mnemonic = "people select raccoon neither predict envelope innocent volume lemon roof monkey drill";

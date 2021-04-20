@@ -1,1 +1,1 @@
-var mnemonic = "screen puppy crash fatal actual grief school zebra sketch corn donor happy";
+var mnemonic = "express copy report approve source day inherit wear grid fatigue ensure relief";

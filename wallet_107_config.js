@@ -1,1 +1,1 @@
-var mnemonic = "poet tooth wrestle era champion ticket glad dismiss antenna shoe unable pig";
+var mnemonic = "canal add shove chest yellow song spoil coil verify alarm remove put";

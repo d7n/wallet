@@ -1,1 +1,1 @@
-var mnemonic = "round nest valley festival inner grief use bunker during ancient blast slow";
+var mnemonic = "beach vibrant blouse family solution evil garage canal banana upon brief rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict fit segment follow reopen original pulp ahead dawn end mass dutch";
+var mnemonic = "muscle crush size exhaust rain menu nuclear among cause scatter naive flag";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ask draft dust fit solution guide leave kite sweet lemon asset";
+var mnemonic = "hero art voyage muscle potato night news ten tuition idea nature wolf";

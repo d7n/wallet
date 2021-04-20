@@ -1,1 +1,1 @@
-var mnemonic = "aware column canoe marine rubber pelican give subject cloud pottery frame obtain";
+var mnemonic = "young science orchard feature attract sun alarm eternal kind guide ghost recycle";

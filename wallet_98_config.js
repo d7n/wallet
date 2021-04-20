@@ -1,1 +1,1 @@
-var mnemonic = "donate gate pipe beauty tube donate winter youth alter fashion remind material";
+var mnemonic = "orient tuition grass blame soccer kangaroo dice snap lonely garbage opera galaxy";

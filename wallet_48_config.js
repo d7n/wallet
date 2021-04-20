@@ -1,1 +1,1 @@
-var mnemonic = "evolve finger life jump spawn deputy keen right border disease alarm slice";
+var mnemonic = "mixed race early ripple mutual fatal aisle ship idle rotate shield debris";

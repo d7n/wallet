@@ -1,1 +1,1 @@
-var mnemonic = "soup alone country walk head cliff chalk raise ring scout practice page";
+var mnemonic = "peasant fiction toddler present deliver loop right throw hello ankle short chimney";

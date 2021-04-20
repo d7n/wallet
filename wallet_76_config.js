@@ -1,1 +1,1 @@
-var mnemonic = "barrel hunt else brown bottom update fish raw clog father scissors pepper";
+var mnemonic = "pool fantasy error fitness dry empower term champion pact second more dune";

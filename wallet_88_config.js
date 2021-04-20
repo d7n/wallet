@@ -1,1 +1,1 @@
-var mnemonic = "syrup wage advance apology fly appear enhance differ brand option solid stairs";
+var mnemonic = "sort twin popular media reunion property bubble promote universe speed joke like";

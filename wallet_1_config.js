@@ -1,1 +1,1 @@
-var mnemonic = "doll water female arch barrel success runway settle sketch crunch limit amateur";
+var mnemonic = "near curve small island one garment lumber fly pilot siege parade great";

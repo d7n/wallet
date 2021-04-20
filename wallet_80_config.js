@@ -1,1 +1,1 @@
-var mnemonic = "chase twist trouble belt artwork rather student come pretty rubber hill clump";
+var mnemonic = "short empower mouse obtain shrug photo midnight ice corn walnut voyage lucky";

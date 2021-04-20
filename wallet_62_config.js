@@ -1,1 +1,1 @@
-var mnemonic = "flock favorite engine fish business rude jacket announce flag version quarter body";
+var mnemonic = "tumble rely federal kite piano search pride embark prevent have normal main";

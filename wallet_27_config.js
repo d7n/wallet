@@ -1,1 +1,1 @@
-var mnemonic = "off slice minor affair settle weird mercy possible wife embody media horse";
+var mnemonic = "capital annual general sustain april canoe cliff champion drift bread hen spoon";

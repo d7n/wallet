@@ -1,1 +1,1 @@
-var mnemonic = "lucky shoe praise milk weasel behave evidence earn chicken reward web undo";
+var mnemonic = "skirt exotic kind brisk mountain hockey where paper adapt heart ginger misery";

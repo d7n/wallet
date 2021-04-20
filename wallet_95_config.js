@@ -1,1 +1,1 @@
-var mnemonic = "depend collect hurdle nation garbage village turn card act view thunder myth";
+var mnemonic = "appear smooth year boring sing truth slow social corn engage orient distance";

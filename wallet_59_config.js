@@ -1,1 +1,1 @@
-var mnemonic = "agree cake just next bench scout monkey cancel wish master alley oyster";
+var mnemonic = "humor exercise motor display silk tissue myth sort edit term intact fat";

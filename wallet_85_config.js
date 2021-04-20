@@ -1,1 +1,1 @@
-var mnemonic = "second olive solve tube interest garden lonely sniff donor peace carry affair";
+var mnemonic = "silent goose old denial asset pelican city stadium entry they lake silent";

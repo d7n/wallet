@@ -1,1 +1,1 @@
-var mnemonic = "lens charge earn police west bamboo canoe drum token meadow galaxy family";
+var mnemonic = "derive soda young run improve sand turtle final divorce route predict ill";

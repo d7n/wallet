@@ -1,1 +1,1 @@
-var mnemonic = "shop chef film radio produce indoor orbit caution fan size poverty arrange";
+var mnemonic = "bag stay clarify critic kingdom replace interest pistol depth spoil room cram";

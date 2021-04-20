@@ -1,1 +1,1 @@
-var mnemonic = "rotate body inject solution silly cereal actress flash marble rule purity lazy";
+var mnemonic = "tomato sample dwarf evolve order arrange original zero peace donor apple lawsuit";

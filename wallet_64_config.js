@@ -1,1 +1,1 @@
-var mnemonic = "wire tray tube effort crime fork razor face outside spike suggest soda";
+var mnemonic = "outer ankle critic where tongue boil scheme blade message crucial early like";

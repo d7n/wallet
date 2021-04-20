@@ -1,1 +1,1 @@
-var mnemonic = "abandon grunt reflect panda music spot crunch dizzy oil select cool bacon";
+var mnemonic = "hamster basket love shoot badge action tower manual dutch youth brother drill";

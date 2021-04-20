@@ -1,1 +1,1 @@
-var mnemonic = "coconut gaze muffin hotel pigeon explain reason erase ostrich girl panda lumber";
+var mnemonic = "spike almost riot false will undo language payment hazard isolate find blossom";

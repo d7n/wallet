@@ -1,1 +1,1 @@
-var mnemonic = "supreme assault spike entire remember isolate grant decade recall ecology actor excite";
+var mnemonic = "clap decrease blossom slight syrup segment fuel icon alcohol cook ball potato";

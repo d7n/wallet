@@ -1,1 +1,1 @@
-var mnemonic = "test endless buyer distance orange shrug cabbage abandon accident slide harsh unusual";
+var mnemonic = "rather crush gain waste congress resource actor taxi upon crawl require chief";

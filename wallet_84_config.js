@@ -1,1 +1,1 @@
-var mnemonic = "opinion pistol fiction aisle tuition stand matter voyage increase cheap ordinary youth";
+var mnemonic = "actual glass erase simple able flight chapter course unique flush spy evil";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium laundry wrestle amused unit grant wink permit cute lazy brisk security";
+var mnemonic = "park ignore oil walk snake slim female illegal grit middle switch glove";

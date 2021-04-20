@@ -1,1 +1,1 @@
-var mnemonic = "denial exhibit foot art neutral wheat young there shoot flavor move blanket";
+var mnemonic = "call trick cage open surface hurry service warrior episode fish easily link";

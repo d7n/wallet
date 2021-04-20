@@ -1,1 +1,1 @@
-var mnemonic = "pull clip problem gun good spin talent scrap tobacco indoor blame hero";
+var mnemonic = "penalty cage guard couple inside net april day vanish gold judge suspect";

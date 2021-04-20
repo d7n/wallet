@@ -1,1 +1,1 @@
-var mnemonic = "relief cover october observe inject blur alone system remind sock setup margin";
+var mnemonic = "crater link eye exclude start aerobic scheme common host swift moment sea";

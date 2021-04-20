@@ -1,1 +1,1 @@
-var mnemonic = "guess scheme finish cat oil recall ask rapid dad better siren dizzy";
+var mnemonic = "all banana wisdom play violin size hurry police abuse page stove drive";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance execute crisp skill sail push shiver lucky price abandon punch bonus";
+var mnemonic = "ceiling blue cheese fly auto sword bonus meat smart shadow shy spoon";

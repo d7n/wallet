@@ -1,1 +1,1 @@
-var mnemonic = "clutch gossip daughter happy sheriff opinion student depth blue milk curious annual";
+var mnemonic = "grunt kingdom already spend barely dinosaur over yard company cover ethics desert";

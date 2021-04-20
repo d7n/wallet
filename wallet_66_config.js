@@ -1,1 +1,1 @@
-var mnemonic = "trick sauce fame hood cat act industry hidden able clarify current pulp";
+var mnemonic = "scan suspect hurt unfold fog symptom hawk raven asthma prevent ready text";

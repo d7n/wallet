@@ -1,1 +1,1 @@
-var mnemonic = "once buffalo rebel couch wild carry pen snake tomato carbon clog toy";
+var mnemonic = "steak mule pulp ribbon chef shop copy police tone crawl announce enrich";

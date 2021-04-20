@@ -1,1 +1,1 @@
-var mnemonic = "shop fork half reveal gentle lava cup giggle domain message gravity build";
+var mnemonic = "actor prepare judge must stem subject situate dash chronic certain promote hazard";

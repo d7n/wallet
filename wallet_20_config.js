@@ -1,1 +1,1 @@
-var mnemonic = "voyage total genre ahead basket erase luggage false potato shadow inflict another";
+var mnemonic = "attract people lonely exist neutral where exhibit envelope bachelor aim recipe broccoli";

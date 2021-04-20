@@ -1,1 +1,1 @@
-var mnemonic = "scout original enroll decorate impulse stadium harsh wild siege outer arm arena";
+var mnemonic = "order spy zone property machine mention into area wood exist today appear";

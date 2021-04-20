@@ -1,1 +1,1 @@
-var mnemonic = "hammer squirrel chapter balance volume round obscure elite fork quote drip flower";
+var mnemonic = "load jewel bike cabbage mention unusual school absent tackle people muffin dinner";

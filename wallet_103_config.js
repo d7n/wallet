@@ -1,1 +1,1 @@
-var mnemonic = "spend wedding virus pet capable hybrid someone body inner hurry seek paper";
+var mnemonic = "shrug daring account umbrella nothing hobby cook organ hello silver question range";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition comic sight minor reduce head similar fiscal between clean audit ecology";
+var mnemonic = "tissue dignity check puppy public ancient venture try arrive diagram scrap confirm";

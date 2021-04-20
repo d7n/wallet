@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wrestle midnight left magnet network quit ceiling spatial miss absorb magnet";
+var mnemonic = "buffalo bus lounge settle object emerge north warrior poet license chest snap";

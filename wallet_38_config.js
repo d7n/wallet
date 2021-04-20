@@ -1,1 +1,1 @@
-var mnemonic = "mean chuckle return antenna grit pledge idea provide tomorrow story alpha follow";
+var mnemonic = "coast loud canyon breeze culture joy celery catch jar steak bright slice";

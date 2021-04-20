@@ -1,1 +1,1 @@
-var mnemonic = "describe age recycle strike vicious approve finger culture seven begin matrix curve";
+var mnemonic = "cushion help obtain wrap loud pulp soldier awake cream analyst adult until";

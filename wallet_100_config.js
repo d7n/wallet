@@ -1,1 +1,1 @@
-var mnemonic = "minor zoo damp amateur time bulb run ginger wrist gravity cube have";
+var mnemonic = "sister burst ketchup kiwi addict wood unlock resemble make omit negative planet";

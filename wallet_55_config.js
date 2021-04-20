@@ -1,1 +1,1 @@
-var mnemonic = "brave civil melody exile shove gravity clever pudding gain merit sugar math";
+var mnemonic = "double cable minute plastic fox worth neutral salon just pool crucial wink";

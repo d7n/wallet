@@ -1,1 +1,1 @@
-var mnemonic = "critic diagram rebuild furnace circle patch enemy claw inmate auction slight town";
+var mnemonic = "afford snow gorilla kick forget wall hedgehog settle float bounce scan switch";

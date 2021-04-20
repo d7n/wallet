@@ -1,1 +1,1 @@
-var mnemonic = "royal tank hollow drip since portion hundred trophy document increase pattern remember";
+var mnemonic = "slow deputy hip detail jaguar smile cover royal will poverty exclude pluck";

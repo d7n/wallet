@@ -1,1 +1,1 @@
-var mnemonic = "mesh mouse tank resource toward baby fantasy endorse state lawsuit logic juice";
+var mnemonic = "decade entire near merit strong card demand ecology primary receive chalk immense";

@@ -1,1 +1,1 @@
-var mnemonic = "head gather test aerobic gravity angry payment void sun lift tortoise crisp";
+var mnemonic = "water spread task void blush average beach two letter toss auto frequent";

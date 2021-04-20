@@ -1,1 +1,1 @@
-var mnemonic = "mushroom argue divide wrap click spoon slam clog green reject exact rather";
+var mnemonic = "sell crash three length invest shift scrap regret blouse comic prosper acquire";

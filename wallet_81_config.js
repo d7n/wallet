@@ -1,1 +1,1 @@
-var mnemonic = "fitness midnight crane later fish six false primary proud blame raven emerge";
+var mnemonic = "around eager wood globe gate slim they blouse punch anger second you";

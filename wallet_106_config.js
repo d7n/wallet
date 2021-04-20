@@ -1,1 +1,1 @@
-var mnemonic = "web vacant dry shoe polar bridge toward travel try material upgrade near";
+var mnemonic = "alert polar laundry siren ostrich squeeze forum picture virus already scrap cycle";

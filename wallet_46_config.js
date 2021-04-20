@@ -1,1 +1,1 @@
-var mnemonic = "barely two album skull magnet multiply damage narrow live galaxy reflect cup";
+var mnemonic = "praise peasant script task history rubber force market swamp flame green very";

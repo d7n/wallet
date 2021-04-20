@@ -1,1 +1,1 @@
-var mnemonic = "scheme rich valve current relief arrest slush any tank face buzz drop";
+var mnemonic = "alien curtain rule shift ostrich forward cover attract palm merry purpose lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth enroll biology fog upgrade motor laundry future level mistake squirrel fruit";
+var mnemonic = "copy run inch bundle arm zone certain shoe attract room tower girl";

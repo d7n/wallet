@@ -1,1 +1,1 @@
-var mnemonic = "rifle control announce kiwi glory embrace certain adult can festival column double";
+var mnemonic = "key visit second want hybrid wolf effort meat income unaware same husband";

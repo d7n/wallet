@@ -1,1 +1,1 @@
-var mnemonic = "outer isolate spider impact medal kid own tomato patrol black human gadget";
+var mnemonic = "bird shadow rather tube plate naive artist area all believe transfer champion";

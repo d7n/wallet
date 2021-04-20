@@ -1,1 +1,1 @@
-var mnemonic = "tag saddle visa cost outside accuse alarm adapt wet success uncle bachelor";
+var mnemonic = "used exist forget convince vague exit romance double visit broom alcohol urban";

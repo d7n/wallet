@@ -1,1 +1,1 @@
-var mnemonic = "wave conduct crystal random royal emerge else term bid smooth brass palace";
+var mnemonic = "great practice food course wolf rose kite such dove minute use capital";

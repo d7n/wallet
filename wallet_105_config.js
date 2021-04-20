@@ -1,1 +1,1 @@
-var mnemonic = "never approve speed life world situate element police roof cruel body iron";
+var mnemonic = "culture tube vibrant crawl margin crucial rally twelve fragile language secret offer";

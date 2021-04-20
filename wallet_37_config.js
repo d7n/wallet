@@ -1,1 +1,1 @@
-var mnemonic = "matter merry regular job depth together horse receive like enlist require dinosaur";
+var mnemonic = "easy mimic gauge sudden busy rhythm poverty large dinosaur hole caution one";

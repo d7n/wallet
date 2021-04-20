@@ -1,1 +1,1 @@
-var mnemonic = "cliff fossil coin steak unfold scale riot next humble erupt remind share";
+var mnemonic = "volume leg opinion dog funny penalty initial now possible scorpion fury fitness";

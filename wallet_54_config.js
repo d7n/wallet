@@ -1,1 +1,1 @@
-var mnemonic = "trial kidney keep unveil evil dwarf sea valley unveil uncover empower later";
+var mnemonic = "subway bamboo suspect wrong profit squirrel recall lens disease liquid swallow relax";

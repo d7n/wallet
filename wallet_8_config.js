@@ -1,1 +1,1 @@
-var mnemonic = "eager awful speed puzzle peanut pottery prison celery program foam local caution";
+var mnemonic = "arch expire tiger draw nasty birth match shallow lemon uncle van flash";

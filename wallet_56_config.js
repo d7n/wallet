@@ -1,1 +1,1 @@
-var mnemonic = "siege castle museum forest assist seat bundle neck first stomach winter jewel";
+var mnemonic = "carpet island mirror purse flavor sun say special around eight buyer sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel lucky castle super tiny team reject check extend weather region water";
+var mnemonic = "bridge hip chalk jungle pill clip egg view vivid cloud similar response";

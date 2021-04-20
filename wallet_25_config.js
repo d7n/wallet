@@ -1,1 +1,1 @@
-var mnemonic = "endorse lock camera night orchard document century credit sweet civil one swallow";
+var mnemonic = "spike advance thumb balance then glide perfect bus trouble leisure nuclear click";

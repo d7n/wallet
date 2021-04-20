@@ -1,1 +1,1 @@
-var mnemonic = "kitten flower leg thank palm oval negative number custom moral bar grace";
+var mnemonic = "athlete skill nuclear inner imitate fossil height health two arrow immune boring";

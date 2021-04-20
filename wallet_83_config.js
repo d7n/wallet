@@ -1,1 +1,1 @@
-var mnemonic = "abandon ball bulk senior anxiety repeat funny mystery olympic disagree patch glow";
+var mnemonic = "usual tackle dance immune mystery rare false left powder glide donate winner";

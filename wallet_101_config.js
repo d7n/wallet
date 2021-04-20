@@ -1,1 +1,1 @@
-var mnemonic = "tool prosper shy excuse during length main tool snake limb fatal property";
+var mnemonic = "ride deny cram coffee tumble dial sunny loan also myself project fringe";

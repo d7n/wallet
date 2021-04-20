@@ -1,1 +1,1 @@
-var mnemonic = "truly give scissors vast before decline faint hill harbor damp hip afraid";
+var mnemonic = "letter stone test rescue menu circle crowd devote video until head jacket";

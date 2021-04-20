@@ -1,1 +1,1 @@
-var mnemonic = "air snap unlock match spin grain cotton basket regret noble tip damp";
+var mnemonic = "pretty civil wrong jazz chuckle desert festival arena vault sight quiz salt";

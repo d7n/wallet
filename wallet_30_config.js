@@ -1,1 +1,1 @@
-var mnemonic = "survey bright home urge nurse when wet myth fatigue estate near super";
+var mnemonic = "rescue stay layer doll derive pull ordinary fantasy verb wise extend pride";

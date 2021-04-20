@@ -1,1 +1,1 @@
-var mnemonic = "swear patient vast liar position sock hard suit venue aware aunt pink";
+var mnemonic = "border ready energy want life dress float fury forest order search medal";

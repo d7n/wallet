@@ -1,1 +1,1 @@
-var mnemonic = "canyon coin engine pear wash toddler decline remain tiny gun pig plug";
+var mnemonic = "code snow pave huge raise among rate movie aspect junior donkey insane";

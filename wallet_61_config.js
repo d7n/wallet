@@ -1,1 +1,1 @@
-var mnemonic = "lake rude inner eye innocent prepare piano broccoli wine east call congress";
+var mnemonic = "arm stumble blood cancel rabbit champion cinnamon please engine double impose envelope";

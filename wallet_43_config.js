@@ -1,1 +1,1 @@
-var mnemonic = "trend upon inquiry regular ripple purity trim method culture sunny remove filter";
+var mnemonic = "battle effort spend market maid present twenty ranch seek blush company neutral";

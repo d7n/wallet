@@ -1,1 +1,1 @@
-var mnemonic = "rifle female sting service mix juice wolf ginger where dutch parent victory";
+var mnemonic = "regret reveal good diet lemon pistol rib anxiety silent burden negative update";

@@ -1,1 +1,1 @@
-var mnemonic = "awake way leg lift price engage struggle puppy chef matrix spy release";
+var mnemonic = "park nothing torch kingdom legend organ cherry capital else pipe magic danger";

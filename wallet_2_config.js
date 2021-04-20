@@ -1,1 +1,1 @@
-var mnemonic = "sand soup attack noise cause box enrich cake return ladder critic census";
+var mnemonic = "begin next body argue sniff weekend sure vapor pond angle rapid shop";

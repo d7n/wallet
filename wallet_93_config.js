@@ -1,1 +1,1 @@
-var mnemonic = "warrior worry clever knee annual move trial melody vocal ostrich music venue";
+var mnemonic = "together tissue input own chapter nuclear south wrap say dress file library";

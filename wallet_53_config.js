@@ -1,1 +1,1 @@
-var mnemonic = "age evidence list shield sorry lemon empty still trial asset casino airport";
+var mnemonic = "special brisk room grit steel keep miracle truth bind path chapter art";

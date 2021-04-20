@@ -1,1 +1,1 @@
-var mnemonic = "level year test food alter physical wrestle situate wood job can loyal";
+var mnemonic = "remain sniff repeat speak chalk bone play antique royal muscle fringe pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "giant depend lounge ritual fury ketchup attack weather sphere detect ramp garment";
+var mnemonic = "game soda unable service rely swing clay loyal thrive best green broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "insane train fragile dawn hat alter idle focus donate between elite general";
+var mnemonic = "heart gentle trial join cover claw gun loyal above laugh web recycle";

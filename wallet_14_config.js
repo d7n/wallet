@@ -1,1 +1,1 @@
-var mnemonic = "rather sunset sunny direct neither parent mask maze repeat rich vital fury";
+var mnemonic = "shoot inmate birth matrix sugar umbrella jungle toast bone river glide recipe";

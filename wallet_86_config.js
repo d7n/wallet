@@ -1,1 +1,1 @@
-var mnemonic = "window arrive want element crater gather exist furnace flash measure ignore wreck";
+var mnemonic = "guard salt banana wisdom rough just airport arrest festival engine ostrich cabbage";

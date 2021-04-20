@@ -1,1 +1,1 @@
-var mnemonic = "slam wrist cancel pigeon lady monkey morning section actor dizzy traffic pretty";
+var mnemonic = "neutral window tiny square silent camp pencil post runway jelly unaware train";

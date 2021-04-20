@@ -1,1 +1,1 @@
-var mnemonic = "charge clump tragic number accident ostrich category panther tag almost joke clever";
+var mnemonic = "illness nuclear retreat simple model lion warfare lottery journey possible lumber explain";
