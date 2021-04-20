@@ -1,1 +1,1 @@
-var mnemonic = "route child arm sugar rent tobacco wonder verify minute spoon rapid enough";
+var mnemonic = "jump long shell boring already suffer express rude logic october gather sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "code off home enact wish glide glove panther mention gift gas measure";
+var mnemonic = "arch april forget shy unlock defy arch auction ready lottery dice they";

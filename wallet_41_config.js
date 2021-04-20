@@ -1,1 +1,1 @@
-var mnemonic = "copy eye plastic lady embody short develop rail feel picnic planet alpha";
+var mnemonic = "extra twenty melt mango discover aunt busy spring glory fiscal scatter ramp";

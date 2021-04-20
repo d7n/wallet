@@ -1,1 +1,1 @@
-var mnemonic = "sunset kiwi way panther say require caught trip wood leg source beauty";
+var mnemonic = "person there medal camera kingdom place vocal later coyote mean else gasp";

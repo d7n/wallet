@@ -1,1 +1,1 @@
-var mnemonic = "step blouse atom spin citizen teach lab arrange retreat across bleak episode";
+var mnemonic = "drift ten outer infant foil fire crop search guitar pave prize spare";

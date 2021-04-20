@@ -1,1 +1,1 @@
-var mnemonic = "west urge exercise negative local kiss sound empower point brass burger song";
+var mnemonic = "urge shoot unlock glimpse since cereal wise soda first vacant entry disorder";

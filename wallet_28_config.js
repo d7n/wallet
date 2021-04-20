@@ -1,1 +1,1 @@
-var mnemonic = "because drill grief orange mad draft fancy later seven poet acid suit";
+var mnemonic = "squirrel vacant episode sock nerve direct climb uncover worry fancy super frequent";

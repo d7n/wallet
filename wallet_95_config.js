@@ -1,1 +1,1 @@
-var mnemonic = "midnight space theme curve great outdoor quote square private sudden pelican depend";
+var mnemonic = "wagon transfer garage winner weapon final nurse cloth boost shiver screen keen";

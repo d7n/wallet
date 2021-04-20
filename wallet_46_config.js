@@ -1,1 +1,1 @@
-var mnemonic = "jar crunch cause purity right jeans cactus collect mass debris prize avoid";
+var mnemonic = "hero bird bar dice quick mule mercy okay kiwi viable twelve consider";

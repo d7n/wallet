@@ -1,1 +1,1 @@
-var mnemonic = "soap rally vanish random sing flush episode income moral section forget farm";
+var mnemonic = "cycle public old survey demand muscle latin life foil lizard gate volume";

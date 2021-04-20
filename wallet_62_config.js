@@ -1,1 +1,1 @@
-var mnemonic = "hire such drift pull morning tool weather pencil alpha foster sock loud";
+var mnemonic = "tattoo stuff baby cruise swarm vibrant ship collect brisk begin lend warfare";

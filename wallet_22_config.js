@@ -1,1 +1,1 @@
-var mnemonic = "already process script uncle hole jewel prevent crowd ship rent radio sand";
+var mnemonic = "reflect consider wink enhance spoon fury carry web venue travel tackle weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe sense choice hollow general filter give wear build dog stereo connect";
+var mnemonic = "tiger crucial chicken apple tool patch exit order genuine outdoor belt basket";

@@ -1,1 +1,1 @@
-var mnemonic = "public meadow april crush egg wrong route casino end river soldier task";
+var mnemonic = "motion monster solid bind omit hero bubble capital stage life stomach sign";

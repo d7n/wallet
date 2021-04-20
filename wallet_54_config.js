@@ -1,1 +1,1 @@
-var mnemonic = "mom roast holiday best misery media deer quantum regret convince poem remember";
+var mnemonic = "wash company auction truck miracle napkin minute good uncover enlist crowd lake";

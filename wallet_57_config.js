@@ -1,1 +1,1 @@
-var mnemonic = "loyal liar ranch van this chunk fruit notice phrase code wolf way";
+var mnemonic = "trouble planet aisle fetch double ticket problem dismiss ignore drink panda identify";

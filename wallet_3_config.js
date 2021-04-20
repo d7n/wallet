@@ -1,1 +1,1 @@
-var mnemonic = "genre truck cotton plastic team chicken powder wheel pupil horror fork wool";
+var mnemonic = "candy air east nurse where electric tattoo dice boring fat conduct target";

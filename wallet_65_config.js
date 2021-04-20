@@ -1,1 +1,1 @@
-var mnemonic = "obscure media pledge pass rule prison cinnamon athlete orphan praise champion pyramid";
+var mnemonic = "frozen trim wrist suffer welcome cruise bid avocado happy foot merge liar";

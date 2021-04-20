@@ -1,1 +1,1 @@
-var mnemonic = "minor brand title over cream elevator leisure target twelve vast october six";
+var mnemonic = "champion ability voice sight donate reform turtle comfort surge output bunker raise";

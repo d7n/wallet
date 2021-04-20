@@ -1,1 +1,1 @@
-var mnemonic = "acid usual unfold try pizza lava include orient enlist decide april fee";
+var mnemonic = "ignore nephew machine frown bronze pear super fire silver yellow flush mercy";

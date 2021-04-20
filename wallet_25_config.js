@@ -1,1 +1,1 @@
-var mnemonic = "bonus raise boat champion elevator erosion kitchen diet exclude exit day police";
+var mnemonic = "ketchup shell piano program fitness foil shadow flush crowd loop zoo wagon";

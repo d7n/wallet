@@ -1,1 +1,1 @@
-var mnemonic = "laundry oblige infant figure busy corn proof tiger window offer network need";
+var mnemonic = "slice student boss version same dignity elite item pioneer alley bag blush";

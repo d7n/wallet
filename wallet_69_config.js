@@ -1,1 +1,1 @@
-var mnemonic = "evolve moral safe provide strong hip source edit section wood dragon bleak";
+var mnemonic = "beach dragon year crazy artwork crouch excite hurry mean couple shift ripple";

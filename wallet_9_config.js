@@ -1,1 +1,1 @@
-var mnemonic = "giant agent orphan blood end core twelve ice steel shaft accident dice";
+var mnemonic = "truck pull entire donate scrub fold mango absorb calm host strong cradle";

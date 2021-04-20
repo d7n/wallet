@@ -1,1 +1,1 @@
-var mnemonic = "measure glimpse alpha then middle hockey screen surge radar jazz twice shift";
+var mnemonic = "hire room garden obey eye history space onion bulk ski myself fit";

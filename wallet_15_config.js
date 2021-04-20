@@ -1,1 +1,1 @@
-var mnemonic = "access adjust aisle embark anger stem shrug level swift tone manual box";
+var mnemonic = "welcome hundred gloom orange loan select bulb flash promote photo bag world";

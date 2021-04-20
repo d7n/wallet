@@ -1,1 +1,1 @@
-var mnemonic = "filter bargain bulb deny solid radar orphan flight path vivid estate decade";
+var mnemonic = "pipe bundle outer bubble network purpose total glow all expire distance noodle";

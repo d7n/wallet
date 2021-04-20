@@ -1,1 +1,1 @@
-var mnemonic = "target course autumn deputy swim mutual suspect arch copper ladder winter vapor";
+var mnemonic = "peasant reunion cart smooth ordinary pyramid subject analyst ask hurt lady pig";

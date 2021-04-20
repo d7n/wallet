@@ -1,1 +1,1 @@
-var mnemonic = "punch pottery jungle prize maple glide nut sister attack muscle range buddy";
+var mnemonic = "person enemy matter very digital frozen clerk enough immune adapt copper crash";

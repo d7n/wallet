@@ -1,1 +1,1 @@
-var mnemonic = "amount expire table blue attitude river media rib clerk foster snack lava";
+var mnemonic = "milk mesh spin toss forum alley man taxi depart toast minimum approve";

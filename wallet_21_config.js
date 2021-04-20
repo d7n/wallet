@@ -1,1 +1,1 @@
-var mnemonic = "obtain suspect jewel grief stage lottery deputy pause oak warm marine hospital";
+var mnemonic = "oil destroy guard rural island wheel mad nice flash clap awesome ecology";

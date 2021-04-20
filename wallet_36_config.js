@@ -1,1 +1,1 @@
-var mnemonic = "game donate column topic wealth ready shrug cactus curve fashion intact elevator";
+var mnemonic = "inject recipe curtain raise arrange they urge retire umbrella minimum tenant produce";

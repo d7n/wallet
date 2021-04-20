@@ -1,1 +1,1 @@
-var mnemonic = "divorce express sadness derive glimpse unlock siren brand favorite cereal phrase fix";
+var mnemonic = "correct vast enjoy link sheriff release summer wonder live million track luxury";

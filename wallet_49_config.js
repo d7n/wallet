@@ -1,1 +1,1 @@
-var mnemonic = "sadness lunar undo park know cruise engage draw celery damp snake addict";
+var mnemonic = "repeat drastic satoshi stand doll nuclear midnight snap gallery pony input put";

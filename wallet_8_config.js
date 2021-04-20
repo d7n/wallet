@@ -1,1 +1,1 @@
-var mnemonic = "action street express lake amateur violin pistol engage jazz soft direct bullet";
+var mnemonic = "piano crazy bullet thank calm talk ivory dose ladder endless abuse wait";

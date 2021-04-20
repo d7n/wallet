@@ -1,1 +1,1 @@
-var mnemonic = "onion scan slender explain couple concert clip goose attend poverty fresh knife";
+var mnemonic = "cruel club knock cream vital never away silver hockey fly busy hobby";

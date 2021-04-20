@@ -1,1 +1,1 @@
-var mnemonic = "engine ribbon canoe fall build broccoli history drift wish brain flavor upset";
+var mnemonic = "achieve already split side market club walnut immune across message attitude artwork";

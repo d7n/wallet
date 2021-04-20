@@ -1,1 +1,1 @@
-var mnemonic = "paper service loop cave foot ranch brave bronze hammer vocal pipe idle";
+var mnemonic = "dynamic sorry volume target detect please dinosaur sweet wealth easy egg foster";

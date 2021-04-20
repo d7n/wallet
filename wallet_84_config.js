@@ -1,1 +1,1 @@
-var mnemonic = "lumber equal venture bargain brass wheat alert raise chat scorpion teach mountain";
+var mnemonic = "walk puppy differ remove check shoot law move strike van derive steel";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot sing list element mixture depart usual cave soda raise fish obscure";
+var mnemonic = "arm caution isolate diagram wall praise roof core blur woman egg guitar";

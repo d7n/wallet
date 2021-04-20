@@ -1,1 +1,1 @@
-var mnemonic = "gadget nest true drama police evolve dial cram parrot power major relief";
+var mnemonic = "rival empower state person fox arrest detect blade under alter ripple oblige";

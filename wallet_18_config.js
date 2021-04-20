@@ -1,1 +1,1 @@
-var mnemonic = "load monster horn blind prison olive scare diesel adjust logic trigger sport";
+var mnemonic = "man first state hobby shaft clap tennis coil jungle daring animal door";

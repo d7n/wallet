@@ -1,1 +1,1 @@
-var mnemonic = "expand three bless chief fatal zebra belt observe salt lunch sketch bless";
+var mnemonic = "pumpkin disease sail solution network digital abstract carpet olive doll milk title";

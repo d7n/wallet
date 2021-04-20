@@ -1,1 +1,1 @@
-var mnemonic = "purpose entry rather sphere radio swallow february modify dismiss exit domain donate";
+var mnemonic = "where shove dial amount brisk timber sorry custom whale narrow comic piece";

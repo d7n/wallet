@@ -1,1 +1,1 @@
-var mnemonic = "music start among enrich regret artist tourist concert valve eight fossil section";
+var mnemonic = "food elevator pilot bike major truth sunny atom hobby grace curve million";

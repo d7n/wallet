@@ -1,1 +1,1 @@
-var mnemonic = "basic strike valid title code eyebrow protect thunder primary debate attitude rhythm";
+var mnemonic = "news glad give nice trigger record disagree pole spice task soft blame";

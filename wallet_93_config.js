@@ -1,1 +1,1 @@
-var mnemonic = "among loud design armor grunt hood hen can alter hard urge owner";
+var mnemonic = "medal melt twin rocket wealth more sure that enforce wear warm beef";

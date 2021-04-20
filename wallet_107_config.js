@@ -1,1 +1,1 @@
-var mnemonic = "clutch aunt vibrant swap valid enact urban hammer tissue mule fossil hazard";
+var mnemonic = "side dinner tunnel sleep cabbage skull robust divert because adapt stereo equip";

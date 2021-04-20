@@ -1,1 +1,1 @@
-var mnemonic = "hawk twin nasty sample sand chapter scheme spot planet eyebrow hybrid salute";
+var mnemonic = "tent diary naive lyrics giraffe grid romance car home able aware east";

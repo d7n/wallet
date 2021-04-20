@@ -1,1 +1,1 @@
-var mnemonic = "furnace fetch celery hidden ghost disease bring olympic gorilla repair stock mango";
+var mnemonic = "zero tunnel prepare purpose airport truck stick code fever upgrade friend nothing";

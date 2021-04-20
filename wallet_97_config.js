@@ -1,1 +1,1 @@
-var mnemonic = "donkey issue truly keen fit water vocal drum yellow sibling question mystery";
+var mnemonic = "slot theory stomach emotion miracle object deny school meadow body play long";

@@ -1,1 +1,1 @@
-var mnemonic = "nest piece shadow bundle month below smoke real fatigue custom move apology";
+var mnemonic = "train toe siren hungry rent friend innocent gather enlist unknown battle try";

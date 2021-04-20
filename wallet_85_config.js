@@ -1,1 +1,1 @@
-var mnemonic = "ridge torch display kidney business device one end swallow logic wet clump";
+var mnemonic = "robust february reveal sure since mammal plastic borrow bone creek embrace dumb";

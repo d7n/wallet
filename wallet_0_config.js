@@ -1,1 +1,1 @@
-var mnemonic = "else hour bonus toddler trouble shell tonight own allow front health police";
+var mnemonic = "mammal strategy summer fresh ripple enrich memory jealous donate dial lab width";

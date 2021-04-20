@@ -1,1 +1,1 @@
-var mnemonic = "name dinosaur shine hair ring limit real convince remove mosquito wedding trigger";
+var mnemonic = "aunt breeze club exile pair youth three focus torch bubble hawk pony";

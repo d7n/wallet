@@ -1,1 +1,1 @@
-var mnemonic = "news shed margin fix flip magic grape badge turtle permit ocean degree";
+var mnemonic = "dwarf remember volume federal century crowd federal alert fence end anchor soap";

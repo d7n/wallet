@@ -1,1 +1,1 @@
-var mnemonic = "retire lawsuit mind smoke pass exhaust hobby improve sense slice auction rack";
+var mnemonic = "absurd surge science empower pill trigger angle blush enable normal excuse rival";

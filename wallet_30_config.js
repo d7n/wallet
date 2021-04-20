@@ -1,1 +1,1 @@
-var mnemonic = "unaware fan hen stage relief museum image tragic athlete water hotel mountain";
+var mnemonic = "naive chapter color vacuum trophy mirror man usage mouse marine room limb";

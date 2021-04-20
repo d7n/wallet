@@ -1,1 +1,1 @@
-var mnemonic = "salmon cloth pizza proof profit boss arrest decorate use race believe staff";
+var mnemonic = "speed sick kingdom vague color write essay benefit group author all beauty";

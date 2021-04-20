@@ -1,1 +1,1 @@
-var mnemonic = "photo display shed define license ignore combine obscure valid glass devote pull";
+var mnemonic = "enact auction guard deputy kit aunt stamp gain lunar royal stairs quantum";

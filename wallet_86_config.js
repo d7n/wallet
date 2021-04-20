@@ -1,1 +1,1 @@
-var mnemonic = "mother hint crystal wide surge identify faith gap flat arch domain crater";
+var mnemonic = "theory ginger follow solar gadget swim pear argue fire seminar collect unfold";

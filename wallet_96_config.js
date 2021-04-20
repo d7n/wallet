@@ -1,1 +1,1 @@
-var mnemonic = "captain debris bomb addict urban case kitchen snack bulb urge avocado frost";
+var mnemonic = "bamboo village bridge marine saddle begin wish lawsuit client flavor minor memory";

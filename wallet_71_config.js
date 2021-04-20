@@ -1,1 +1,1 @@
-var mnemonic = "chief knee elegant toilet near bullet wealth among awake talent fat usual";
+var mnemonic = "garage swear double route outdoor journey solar nature have acoustic domain banana";

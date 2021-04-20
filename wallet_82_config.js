@@ -1,1 +1,1 @@
-var mnemonic = "photo aim message destroy deliver wet naive derive twice tank lock elbow";
+var mnemonic = "cheese fiction lens iron city public citizen cancel profit atom broccoli afford";

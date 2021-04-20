@@ -1,1 +1,1 @@
-var mnemonic = "deny cotton enhance shoe waste fit wagon leave mind nest bus glove";
+var mnemonic = "debris chalk chase please code key subway stone seminar beauty toss battle";

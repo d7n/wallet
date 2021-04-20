@@ -1,1 +1,1 @@
-var mnemonic = "purpose coast walnut village library close moment distance dentist boring alien embrace";
+var mnemonic = "sheriff walk update choose seminar supreme acquire voice track settle system industry";

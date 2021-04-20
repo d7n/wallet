@@ -1,1 +1,1 @@
-var mnemonic = "border truly taxi comfort speak flock cargo slam tooth motor ritual drive";
+var mnemonic = "canyon bachelor gesture tray curtain bacon essay repair extend school dismiss cart";

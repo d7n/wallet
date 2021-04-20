@@ -1,1 +1,1 @@
-var mnemonic = "fluid title capital stereo taxi spirit bind blame liar average update trigger";
+var mnemonic = "beyond pear rifle galaxy ball wild layer unit session topic quick expose";

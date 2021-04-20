@@ -1,1 +1,1 @@
-var mnemonic = "moral help real exhaust giggle shoulder glare entire smooth guide dice coyote";
+var mnemonic = "scheme lift letter service ethics bean lend bounce output stand rocket kiwi";

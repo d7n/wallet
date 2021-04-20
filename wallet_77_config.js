@@ -1,1 +1,1 @@
-var mnemonic = "social credit ivory humble mushroom fiscal stove act castle brain absent whisper";
+var mnemonic = "witness diet stem inflict desk lend walnut injury athlete glue toe special";

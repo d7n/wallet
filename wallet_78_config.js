@@ -1,1 +1,1 @@
-var mnemonic = "picnic sick unlock argue luxury toss rug gap faint caution twice waste";
+var mnemonic = "message detect ginger exit snake letter more siren soft burger second approve";

@@ -1,1 +1,1 @@
-var mnemonic = "easy output bronze illegal ostrich raccoon raven apple mandate cruise violin boil";
+var mnemonic = "you lake change foil spawn eternal buyer salad uniform quiz face hidden";

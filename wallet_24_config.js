@@ -1,1 +1,1 @@
-var mnemonic = "belt pride clerk price ugly two brisk squeeze spatial return cousin tent";
+var mnemonic = "february frozen velvet length fever bacon card obvious city atom smart hedgehog";

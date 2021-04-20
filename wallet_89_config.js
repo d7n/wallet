@@ -1,1 +1,1 @@
-var mnemonic = "profit truth level manual sponsor vital desert hood blanket net voice harsh";
+var mnemonic = "debate scout analyst use deal height advance pumpkin swallow flavor innocent multiply";

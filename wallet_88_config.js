@@ -1,1 +1,1 @@
-var mnemonic = "degree agree traffic depth donor stove situate merit early rather divide bitter";
+var mnemonic = "obtain doll wait ivory vault jelly monitor tennis noodle floor million simple";

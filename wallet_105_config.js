@@ -1,1 +1,1 @@
-var mnemonic = "cushion ball matter curve town divide crater bone nurse fee client hawk";
+var mnemonic = "become sustain corn gadget torch cage artefact attend ring exercise argue enhance";

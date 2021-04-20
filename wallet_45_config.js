@@ -1,1 +1,1 @@
-var mnemonic = "match climb bright silver spoil bike green ill skull blast pretty paper";
+var mnemonic = "turn exact obvious dolphin any fringe congress hundred panic once elegant giraffe";

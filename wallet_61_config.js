@@ -1,1 +1,1 @@
-var mnemonic = "forget quarter twice still cage guide height neither jacket sniff series surround";
+var mnemonic = "audit pupil derive jewel artwork jeans pyramid labor gas foil patient pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "level river genius deputy glue system such bronze miracle penalty person hobby";
+var mnemonic = "smoke seek trophy enrich merge hand siren surface pink olympic style negative";

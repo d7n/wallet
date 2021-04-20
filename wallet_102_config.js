@@ -1,1 +1,1 @@
-var mnemonic = "sound middle armed cereal lawsuit this just affair endless lounge game essay";
+var mnemonic = "kiwi floor virus valve mistake barrel icon panic click fortune blind depend";

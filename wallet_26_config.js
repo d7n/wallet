@@ -1,1 +1,1 @@
-var mnemonic = "vault curious open wire chef law edit supply harbor analyst era hospital";
+var mnemonic = "pair guitar stem reward all trade cabin crisp swift catch copper apology";

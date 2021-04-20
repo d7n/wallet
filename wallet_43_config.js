@@ -1,1 +1,1 @@
-var mnemonic = "forward music vacant conduct shine attitude enhance violin cradle object strategy today";
+var mnemonic = "language energy glory tag barrel dutch plug sure gain object raw top";

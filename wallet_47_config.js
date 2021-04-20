@@ -1,1 +1,1 @@
-var mnemonic = "spawn social bleak kind success leg cactus liberty like pear ancient beach";
+var mnemonic = "able pizza polar above scissors verb tail cube grid kingdom shuffle fox";

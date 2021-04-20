@@ -1,1 +1,1 @@
-var mnemonic = "latin turkey excess six cube curtain song better ecology tell recipe matrix";
+var mnemonic = "example virtual burden pattern praise over vacuum tuna avoid country candy coil";

@@ -1,1 +1,1 @@
-var mnemonic = "news endless laptop kit myth diet book badge render spider sea motor";
+var mnemonic = "joke believe orange arctic husband note inhale foster account proud pig certain";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt useless daring pool diary possible put sphere focus lion guess change";
+var mnemonic = "clump purchase curve describe foster crumble type royal cousin drum crash gentle";

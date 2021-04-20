@@ -1,1 +1,1 @@
-var mnemonic = "acid inject moral track code slim inject uphold biology valley churn found";
+var mnemonic = "tongue vendor ordinary purchase human fluid brush cube best issue ski worth";

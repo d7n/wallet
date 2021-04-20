@@ -1,1 +1,1 @@
-var mnemonic = "before clap heart pipe swear rebel twice party negative nothing negative choice";
+var mnemonic = "allow price slow rebuild trouble rebuild old clock section either nominee devote";

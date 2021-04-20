@@ -1,1 +1,1 @@
-var mnemonic = "smoke hawk palace usual whisper kiss approve power urban minimum crowd spin";
+var mnemonic = "silent eager income ozone cable net chuckle force dose member midnight where";

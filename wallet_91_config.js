@@ -1,1 +1,1 @@
-var mnemonic = "sheriff history copper armor virtual strong neither letter gesture car boat material";
+var mnemonic = "cage shallow goose shrimp panther enjoy liquid where melody elevator undo breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "aim dignity cancel metal asset gold about oxygen juice unit island arrow";
+var mnemonic = "muffin matrix please umbrella beauty piano rookie tail cook catalog friend crouch";

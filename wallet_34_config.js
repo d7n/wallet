@@ -1,1 +1,1 @@
-var mnemonic = "cheese rail gesture repeat receive sister capable moon field magic match dose";
+var mnemonic = "put infant happy balance bench account tomorrow galaxy comic party kitten boy";

@@ -1,1 +1,1 @@
-var mnemonic = "duty sort reunion broom winter maid spatial agree strong chief snack helmet";
+var mnemonic = "update pair kiwi frost banana creek normal drama amount beef kind top";
