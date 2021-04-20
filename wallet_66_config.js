@@ -1,1 +1,1 @@
-var mnemonic = "citizen diary neck deer suspect cost pudding solution solution local accuse side";
+var mnemonic = "sword next basket shine magnet gown seat mention ticket initial neglect place";

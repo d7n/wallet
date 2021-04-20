@@ -1,1 +1,1 @@
-var mnemonic = "cement favorite grid vibrant float top wine cement stand kitten wonder culture";
+var mnemonic = "december method peasant essence satoshi select iron involve rail reduce tribe frozen";

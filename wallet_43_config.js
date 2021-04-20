@@ -1,1 +1,1 @@
-var mnemonic = "trade notable group usage lazy exile cycle scale empower below reveal federal";
+var mnemonic = "way enforce put mass core sister smoke hungry enable torch throw menu";

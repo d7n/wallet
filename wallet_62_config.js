@@ -1,1 +1,1 @@
-var mnemonic = "daughter label mind notable hollow hurt usage wrestle liquid discover blouse recycle";
+var mnemonic = "limit price kangaroo next rain furnace finish timber misery own sign glide";

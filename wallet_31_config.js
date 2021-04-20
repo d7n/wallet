@@ -1,1 +1,1 @@
-var mnemonic = "level design market matrix core idea craft visa debate sample coin genius";
+var mnemonic = "vehicle hurdle remind high margin mosquito give taste useless wear topic spawn";

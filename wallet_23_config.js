@@ -1,1 +1,1 @@
-var mnemonic = "night reopen universe write blouse tool follow leisure like swallow chaos purity";
+var mnemonic = "cart pink drip rice embark pumpkin doll salon road lawsuit squirrel combine";

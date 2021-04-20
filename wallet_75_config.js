@@ -1,1 +1,1 @@
-var mnemonic = "because door fatigue car wheel impulse lawn twist more party speed verify";
+var mnemonic = "gift feed eight old mechanic auto promote upset rice badge shock decrease";

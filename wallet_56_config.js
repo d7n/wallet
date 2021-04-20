@@ -1,1 +1,1 @@
-var mnemonic = "person twelve tribe tuna alter history empty history impose speak turkey weapon";
+var mnemonic = "domain cattle veteran exhaust pony nature copy sustain decide soul horse skill";

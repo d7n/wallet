@@ -1,1 +1,1 @@
-var mnemonic = "small goddess hint remove record under point skin dice member group joke";
+var mnemonic = "keep digital couple option paddle awful canyon acquire depth peanut frame antique";

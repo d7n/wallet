@@ -1,1 +1,1 @@
-var mnemonic = "control blade weapon gravity rack way clap spoil creek pride boat major";
+var mnemonic = "credit shed finish ostrich earn day fruit young issue draw grab shrimp";

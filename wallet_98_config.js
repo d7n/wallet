@@ -1,1 +1,1 @@
-var mnemonic = "banana voice lawn myth exhaust setup mystery stove frog journey assist club";
+var mnemonic = "bring include process depth gallery jar argue spawn runway sock figure tribe";

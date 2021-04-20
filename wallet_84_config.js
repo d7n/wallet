@@ -1,1 +1,1 @@
-var mnemonic = "clog gym desert vital tent glide vehicle possible frozen unfold dinosaur round";
+var mnemonic = "journey catalog bind feel window vapor joy age under have dwarf giant";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar method north pilot portion palm drum drum wood alpha walnut document";
+var mnemonic = "type seek shed kick vast spray giraffe solid grab method eternal deal";

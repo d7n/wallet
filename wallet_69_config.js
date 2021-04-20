@@ -1,1 +1,1 @@
-var mnemonic = "select embrace second tenant wide canvas shiver seat adjust symptom monster kiwi";
+var mnemonic = "pelican build valve door source fabric salad quality major answer cousin pitch";

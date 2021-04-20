@@ -1,1 +1,1 @@
-var mnemonic = "reject loan bring exchange grunt window social absorb phrase jacket concert trophy";
+var mnemonic = "domain absorb misery equal seed enemy large lounge man option record jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "that napkin cactus initial dismiss thunder nation chase stay reform affair abuse";
+var mnemonic = "december knife price siege crawl bonus flip awkward spot math breeze clip";

@@ -1,1 +1,1 @@
-var mnemonic = "three lounge train grit truck faculty father hurt disagree camp grace special";
+var mnemonic = "faculty cry wrestle range tower inmate device need tortoise solution habit puzzle";

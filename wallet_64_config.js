@@ -1,1 +1,1 @@
-var mnemonic = "digital wish click clog remain donate ripple supreme monitor spring pencil orchard";
+var mnemonic = "motor ladder nature grace youth luggage pretty engine long life school empower";

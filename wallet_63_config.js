@@ -1,1 +1,1 @@
-var mnemonic = "congress sure panda theory flower magnet duck fetch leisure song indicate coast";
+var mnemonic = "crime test detail faith twist region flock essay drive vivid youth town";

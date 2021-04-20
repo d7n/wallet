@@ -1,1 +1,1 @@
-var mnemonic = "speak urban prevent anxiety surge arrange prevent essence wasp charge nut olympic";
+var mnemonic = "seven fall merry swarm promote enjoy zero velvet merry used below hair";

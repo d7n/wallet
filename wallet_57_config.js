@@ -1,1 +1,1 @@
-var mnemonic = "hamster nominee frequent benefit million usual tiny average ladder rule boy latin";
+var mnemonic = "change grit fetch nest try reunion sorry rough era song keen thought";

@@ -1,1 +1,1 @@
-var mnemonic = "garage penalty kidney modify horror west weird slogan pulp observe sauce pistol";
+var mnemonic = "strike upset hip head carbon cover mention canyon dress carry noble appear";

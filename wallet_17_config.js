@@ -1,1 +1,1 @@
-var mnemonic = "judge wink gate frown immense popular evoke book figure keep habit flower";
+var mnemonic = "media offer glare used improve eyebrow leopard witness dynamic diesel eagle photo";

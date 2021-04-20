@@ -1,1 +1,1 @@
-var mnemonic = "panic target hero will intact area concert consider sound easy wing exact";
+var mnemonic = "head write tool cherry effort top gloom winter journey sound satisfy evolve";

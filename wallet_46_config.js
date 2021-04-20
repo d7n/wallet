@@ -1,1 +1,1 @@
-var mnemonic = "crawl income angle balance choice across explain hand wage rule field display";
+var mnemonic = "first rally relief sleep lazy devote pottery brisk switch inspire inhale truth";

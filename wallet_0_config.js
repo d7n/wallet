@@ -1,1 +1,1 @@
-var mnemonic = "obscure canal rather diagram record cinnamon night pretty ecology extend biology mesh";
+var mnemonic = "dose hat pond blouse glance memory require win opinion liquid outer junior";

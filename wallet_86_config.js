@@ -1,1 +1,1 @@
-var mnemonic = "glare coconut chat minimum security napkin dose target stand raven tape control";
+var mnemonic = "egg oak similar code awful benefit eight round rhythm plug buyer sunset";

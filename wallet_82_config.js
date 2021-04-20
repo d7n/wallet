@@ -1,1 +1,1 @@
-var mnemonic = "beyond lend spray area fringe have garden abuse giggle property fiber popular";
+var mnemonic = "market vacant filter tonight movie silver category trade fuel damage chimney comfort";

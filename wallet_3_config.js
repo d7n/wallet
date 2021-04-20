@@ -1,1 +1,1 @@
-var mnemonic = "episode leader cricket advance urge push quality flat genre piano omit aisle";
+var mnemonic = "giraffe hunt toast negative family iron happy table ankle faint kit risk";

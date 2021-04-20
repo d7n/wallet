@@ -1,1 +1,1 @@
-var mnemonic = "ranch blood regular horse chicken elder proud visa lucky purpose midnight enjoy";
+var mnemonic = "injury income car exhibit settle real trash great office hundred mask festival";

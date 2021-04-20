@@ -1,1 +1,1 @@
-var mnemonic = "island indicate crisp pottery city seminar face grace office isolate gain donor";
+var mnemonic = "match poverty august carbon corn use attract cactus defense unhappy remind predict";

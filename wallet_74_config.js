@@ -1,1 +1,1 @@
-var mnemonic = "then crumble disagree example clown video home universe morning inspire move forum";
+var mnemonic = "recycle host moon track drum hover tissue gap slow stomach cruel snake";

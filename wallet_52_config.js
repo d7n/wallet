@@ -1,1 +1,1 @@
-var mnemonic = "father help any target model another build smile name short toast immune";
+var mnemonic = "skull cheese mushroom play whale dream gossip traffic write raise portion crowd";

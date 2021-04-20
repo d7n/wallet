@@ -1,1 +1,1 @@
-var mnemonic = "twice ghost bottom sadness idle amazing foster hazard bitter ugly pencil outer";
+var mnemonic = "congress coach drip deliver bone climb evoke local rate such swarm pencil";

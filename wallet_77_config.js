@@ -1,1 +1,1 @@
-var mnemonic = "wolf talent weekend increase matrix grow zone ginger dinosaur round clay rebuild";
+var mnemonic = "viable also onion lumber slice maid cupboard avocado sustain lunch pelican soon";

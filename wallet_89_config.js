@@ -1,1 +1,1 @@
-var mnemonic = "junior breeze wish scout bunker lottery crash refuse tooth large gauge lunch";
+var mnemonic = "winner tank web tonight struggle problem vessel width hammer lamp tiger dust";

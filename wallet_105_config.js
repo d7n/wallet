@@ -1,1 +1,1 @@
-var mnemonic = "topple film critic flat defy cycle tortoise pen grass surface arena debate";
+var mnemonic = "humble envelope clay portion basket awesome text poet sure learn zebra tonight";

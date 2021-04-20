@@ -1,1 +1,1 @@
-var mnemonic = "section fee hen sausage cancel eagle toward butter milk slim emerge lawsuit";
+var mnemonic = "away pond able embody finger fuel school north cute blind keep october";

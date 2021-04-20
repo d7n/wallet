@@ -1,1 +1,1 @@
-var mnemonic = "spend news wedding wheat slim turkey differ mushroom tattoo illness note salt";
+var mnemonic = "dilemma program kid style promote forest voyage flush twelve inherit almost unusual";

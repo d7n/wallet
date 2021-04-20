@@ -1,1 +1,1 @@
-var mnemonic = "claw jump leader south weasel glove place sun mechanic tank bronze exist";
+var mnemonic = "gasp toddler venue symbol switch iron lounge unusual fetch film subject perfect";

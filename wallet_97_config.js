@@ -1,1 +1,1 @@
-var mnemonic = "disease copy track pledge shoulder business defy exchange behave puzzle urge sort";
+var mnemonic = "income pause zoo you spring nose remove ozone donor squirrel bounce web";

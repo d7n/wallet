@@ -1,1 +1,1 @@
-var mnemonic = "term spend collect appear pizza jeans try cherry shop biology sponsor little";
+var mnemonic = "hurry tool verb improve quit mad scrub tonight exercise gasp place club";

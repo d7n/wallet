@@ -1,1 +1,1 @@
-var mnemonic = "skirt bracket victory old eagle element rotate dose solar tuition quantum amazing";
+var mnemonic = "label grant foot glory want cargo obvious confirm present check runway ribbon";

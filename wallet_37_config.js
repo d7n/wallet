@@ -1,1 +1,1 @@
-var mnemonic = "deny awake celery image voice cereal tackle educate raw travel trade rail";
+var mnemonic = "same disorder various sea abandon region throw tumble define goat electric wash";

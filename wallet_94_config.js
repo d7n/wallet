@@ -1,1 +1,1 @@
-var mnemonic = "unaware churn pole address settle dust vocal need funny wrestle winner example";
+var mnemonic = "ski lazy never over matter coast warrior toast stone inch brisk carpet";

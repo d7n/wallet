@@ -1,1 +1,1 @@
-var mnemonic = "abstract social permit prepare armor liquid cotton sting struggle hip hospital tragic";
+var mnemonic = "father equip ethics monitor grief dilemma effort scissors old flash lunar execute";

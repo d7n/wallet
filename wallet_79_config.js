@@ -1,1 +1,1 @@
-var mnemonic = "release often inhale sword tobacco vintage lyrics copper hold enough merit dirt";
+var mnemonic = "alcohol such flash abuse farm salmon history news photo leg reunion recall";

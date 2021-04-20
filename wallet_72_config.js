@@ -1,1 +1,1 @@
-var mnemonic = "cupboard number call stone bag bamboo kitten orient stumble clock spike staff";
+var mnemonic = "rough torch depart define fame transfer polar section goose south shop brief";

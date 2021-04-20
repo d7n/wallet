@@ -1,1 +1,1 @@
-var mnemonic = "child bean space aunt tooth upper boost caught solve carbon wedding achieve";
+var mnemonic = "seat off despair such dutch airport soul thrive attract digital bracket hidden";

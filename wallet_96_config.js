@@ -1,1 +1,1 @@
-var mnemonic = "such fever small grant topple heavy online gaze crack milk suspect around";
+var mnemonic = "neck poverty region nut kid quality quantum pistol eight duty mechanic goose";

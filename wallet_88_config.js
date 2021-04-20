@@ -1,1 +1,1 @@
-var mnemonic = "cage dignity image farm fatal squirrel aerobic web expire video saddle tape";
+var mnemonic = "rain risk barely name must pond scout soldier burden ginger mixture search";

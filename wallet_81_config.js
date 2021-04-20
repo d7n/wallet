@@ -1,1 +1,1 @@
-var mnemonic = "build best slim wild disorder bleak behind slab maximum relief movie renew";
+var mnemonic = "number portion country real parade quantum left clever shift legal option outside";

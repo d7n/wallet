@@ -1,1 +1,1 @@
-var mnemonic = "female wagon punch shy plunge fringe stay joke dish spray onion soft";
+var mnemonic = "runway pipe sphere trip crop apple math donkey sketch husband jelly gift";

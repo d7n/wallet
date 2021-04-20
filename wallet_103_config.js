@@ -1,1 +1,1 @@
-var mnemonic = "inch asthma spend cluster health silent around any sphere between doctor fit";
+var mnemonic = "intact cheese hill adult wrist solar abandon favorite loyal question want gospel";

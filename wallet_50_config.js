@@ -1,1 +1,1 @@
-var mnemonic = "now clock scare abuse chaos lazy document fantasy coil clerk broccoli brown";
+var mnemonic = "galaxy private climb art artefact raccoon debris two census pledge yard column";

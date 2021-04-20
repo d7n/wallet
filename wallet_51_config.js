@@ -1,1 +1,1 @@
-var mnemonic = "cloth curve agent vocal penalty myth dune quit obtain cup oblige meadow";
+var mnemonic = "blur inch true expose phone close hard mechanic draw river bubble eyebrow";

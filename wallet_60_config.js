@@ -1,1 +1,1 @@
-var mnemonic = "act market energy artwork neither ginger clog wrestle symptom target cash alien";
+var mnemonic = "upper mesh also lonely gap antique index swift scatter vote hurt aerobic";

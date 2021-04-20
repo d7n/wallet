@@ -1,1 +1,1 @@
-var mnemonic = "nice govern what caution stumble mirror animal picnic bleak horror tonight reflect";
+var mnemonic = "journey mother path stock picnic peasant tell spice fork wrist girl alarm";

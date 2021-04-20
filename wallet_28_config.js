@@ -1,1 +1,1 @@
-var mnemonic = "modify chimney subject employ one script help transfer quote industry salon husband";
+var mnemonic = "blue expire slide eager twice picture ten beyond trend maze opinion forum";

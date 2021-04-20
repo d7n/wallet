@@ -1,1 +1,1 @@
-var mnemonic = "army safe vacuum photo cool nuclear year snap mutual pistol apart have";
+var mnemonic = "surface brown outdoor earth ten world build bread theme soup offer tribe";

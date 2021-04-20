@@ -1,1 +1,1 @@
-var mnemonic = "glove slender fiscal insect title lady two boss permit episode scorpion lazy";
+var mnemonic = "media solid silent build idle manage total crater abuse subway exotic clean";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee pond above two hockey stock mind fever mistake thank devote enter";
+var mnemonic = "balance call traffic glad burden sight claim regret anchor series village bacon";

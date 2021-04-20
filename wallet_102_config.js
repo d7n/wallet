@@ -1,1 +1,1 @@
-var mnemonic = "link verb gasp volume assault return lion charge wait donkey disease door";
+var mnemonic = "ask monitor economy seminar junior shove rug original mystery message leg wheel";

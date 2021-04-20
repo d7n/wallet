@@ -1,1 +1,1 @@
-var mnemonic = "menu type narrow day solve economy parade jewel meadow vivid glance office";
+var mnemonic = "only ranch fitness drum absorb inner kid rude spring allow broom coach";

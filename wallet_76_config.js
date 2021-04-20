@@ -1,1 +1,1 @@
-var mnemonic = "west found large consider jeans height absent hello attitude glow arrest you";
+var mnemonic = "category bag genuine violin pilot breeze twice input symbol salon balance save";

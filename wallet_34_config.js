@@ -1,1 +1,1 @@
-var mnemonic = "step mercy announce derive attack arrange neither shallow exchange claim impact amount";
+var mnemonic = "dinosaur chapter window wise monster innocent actress blur sweet motion bubble wire";

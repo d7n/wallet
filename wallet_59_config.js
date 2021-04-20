@@ -1,1 +1,1 @@
-var mnemonic = "march this area about chronic still wasp bounce expire weather foam gasp";
+var mnemonic = "leisure visual wash exhibit coyote frame butter chuckle oblige game fiscal joy";

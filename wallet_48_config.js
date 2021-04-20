@@ -1,1 +1,1 @@
-var mnemonic = "south hope oval inspire inform always over buzz crush list aerobic sudden";
+var mnemonic = "utility shy daughter trend response patient swarm celery proud shadow face angle";

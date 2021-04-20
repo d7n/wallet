@@ -1,1 +1,1 @@
-var mnemonic = "program night spawn dentist space cause toss glance valley elder couch tuna";
+var mnemonic = "rice thunder cannon resemble act puppy vague victory pigeon harbor win ugly";

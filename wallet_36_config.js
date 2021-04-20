@@ -1,1 +1,1 @@
-var mnemonic = "episode manage organ vacuum matrix walk head ceiling era cycle crater sword";
+var mnemonic = "disagree size clog humor pluck diamond push betray clarify change mystery pencil";

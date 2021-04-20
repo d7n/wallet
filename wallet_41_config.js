@@ -1,1 +1,1 @@
-var mnemonic = "layer grunt zebra very funny vapor kit badge promote photo net aware";
+var mnemonic = "travel actual inflict health core parent delay uncover tackle deposit you ozone";

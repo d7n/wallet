@@ -1,1 +1,1 @@
-var mnemonic = "scene first mention tag creek desert obtain flight image already wire lunch";
+var mnemonic = "tomato river image midnight floor friend valley submit guess imitate notice chronic";

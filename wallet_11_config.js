@@ -1,1 +1,1 @@
-var mnemonic = "same sadness chunk snake cricket chapter gift slide swing baby vacant barely";
+var mnemonic = "exit feel record duck tumble match almost story badge island inmate primary";

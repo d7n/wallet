@@ -1,1 +1,1 @@
-var mnemonic = "match six stomach hand civil tortoise upon ketchup enlist pave burden debate";
+var mnemonic = "ceiling mail awesome oak nephew stumble island swing essence position audit endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "scan hair library guard motion matter board scan slight chase genuine say";
+var mnemonic = "crater census left total labor poverty kind rain fuel priority bean flower";

@@ -1,1 +1,1 @@
-var mnemonic = "topple tomato naive joke punch pottery excite one father vapor abstract shiver";
+var mnemonic = "verb always valve soldier bunker rebel trumpet furnace method elite nose yard";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise general panda artist reduce toss hub toilet anxiety loan ensure taste";
+var mnemonic = "embrace board silly brick drama blossom valve setup story code town luxury";

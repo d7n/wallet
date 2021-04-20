@@ -1,1 +1,1 @@
-var mnemonic = "setup view muscle elephant quit debate razor biology hand steel around awful";
+var mnemonic = "rapid spray husband truly law seminar start fault foster car either hollow";

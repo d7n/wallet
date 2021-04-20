@@ -1,1 +1,1 @@
-var mnemonic = "attend whisper auction dizzy joke ribbon purchase jewel fit recall later stable";
+var mnemonic = "hill art unfair survey yellow drink van raise insect voyage foot carbon";

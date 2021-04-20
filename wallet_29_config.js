@@ -1,1 +1,1 @@
-var mnemonic = "issue jar educate final giant laptop grace amused panda history nuclear cheap";
+var mnemonic = "fluid zebra fashion topic service meadow idle private rotate baby foam pass";

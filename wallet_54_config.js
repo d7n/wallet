@@ -1,1 +1,1 @@
-var mnemonic = "throw bomb claim destroy disorder abandon canal trumpet nose coin dove pupil";
+var mnemonic = "dry exile despair ivory destroy also cake ensure month goddess identify super";

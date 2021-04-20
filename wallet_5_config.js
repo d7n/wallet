@@ -1,1 +1,1 @@
-var mnemonic = "dumb clog bonus despair enter fury bachelor paddle fruit earth own quarter";
+var mnemonic = "absent inflict assist very velvet join power sign early mask prepare army";

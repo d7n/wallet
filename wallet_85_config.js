@@ -1,1 +1,1 @@
-var mnemonic = "option deal cotton country chicken ready either rich relax pledge genre black";
+var mnemonic = "remain tongue pledge change duck notice shrug typical design hub stuff salt";

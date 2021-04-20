@@ -1,1 +1,1 @@
-var mnemonic = "figure kit need snake item wait fox peace couch afraid worth street";
+var mnemonic = "scale analyst close obvious uphold used grocery random soccer grace street couple";

@@ -1,1 +1,1 @@
-var mnemonic = "hint level outdoor home nest burger near course kind occur orient holiday";
+var mnemonic = "rocket coin car also crop cool minute minimum report alcohol gallery tray";

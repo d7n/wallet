@@ -1,1 +1,1 @@
-var mnemonic = "duck vessel female slam mushroom across spike nasty camp sing stem river";
+var mnemonic = "letter gentle plate oxygen glue buddy tell guard pause meat drip recall";
