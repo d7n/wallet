@@ -1,1 +1,1 @@
-var mnemonic = "usual steel divorce mixed audit guilt either aspect follow invest enact stamp";
+var mnemonic = "photo vocal supreme people ceiling earn wing beauty muffin bubble goat uncle";

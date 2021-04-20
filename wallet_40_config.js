@@ -1,1 +1,1 @@
-var mnemonic = "rack display play empower hobby stick trade slow yard devote salad buzz";
+var mnemonic = "fox stem six donor hen attitude loan gaze can album claim best";

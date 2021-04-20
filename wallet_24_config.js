@@ -1,1 +1,1 @@
-var mnemonic = "bicycle cradle nut wine piece cross patch hazard hen toilet few pattern";
+var mnemonic = "shock predict maple what original style submit tragic brain wait crawl atom";

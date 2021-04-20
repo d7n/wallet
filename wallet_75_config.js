@@ -1,1 +1,1 @@
-var mnemonic = "cabin ice later village process stairs country ceiling auto head cement zebra";
+var mnemonic = "matrix medal width play crisp man involve next scissors include effort shock";

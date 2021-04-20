@@ -1,1 +1,1 @@
-var mnemonic = "bone squirrel left cube donate inhale method rapid debate enable penalty habit";
+var mnemonic = "chef merit auto snap mistake differ govern spatial true special joy crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "second hunt section cactus movie nation hair half valid lounge zoo effort";
+var mnemonic = "father taxi inform warfare debris mystery route wine garage rain will collect";

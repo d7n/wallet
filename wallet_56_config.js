@@ -1,1 +1,1 @@
-var mnemonic = "raise leopard payment thank cram movie electric benefit drive speed dentist host";
+var mnemonic = "web have peasant conduct twist agent fragile waste hidden direct venture talent";

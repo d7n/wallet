@@ -1,1 +1,1 @@
-var mnemonic = "capital legal casino fury fitness atom leader seed evidence afford margin vanish";
+var mnemonic = "combine choose awake already judge case secret cradle bag spice control parade";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter hybrid image scale truck speed grain spot range jazz hamster vacuum";
+var mnemonic = "gasp island vacuum table name type gasp lobster diet target like unveil";

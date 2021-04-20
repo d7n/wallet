@@ -1,1 +1,1 @@
-var mnemonic = "bring airport also keen place abstract hole exchange poet aspect oval cherry";
+var mnemonic = "domain route mammal bunker rigid cactus beach orange ecology file silk trick";

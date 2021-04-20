@@ -1,1 +1,1 @@
-var mnemonic = "dress vocal chat square grace sunset cradle dawn crack melt vehicle basic";
+var mnemonic = "mother online plunge game icon column season emerge man leave giggle garment";

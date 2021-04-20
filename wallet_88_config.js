@@ -1,1 +1,1 @@
-var mnemonic = "rather witness place recycle setup width winter service shy tongue fossil slogan";
+var mnemonic = "soup chalk bicycle lab help wine cost seed youth diet fall pencil";

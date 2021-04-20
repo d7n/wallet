@@ -1,1 +1,1 @@
-var mnemonic = "layer below address stumble limit south arch culture income donate device addict";
+var mnemonic = "drip alter half venue dawn exotic kit bulb dragon early rapid miracle";

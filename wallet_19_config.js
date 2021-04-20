@@ -1,1 +1,1 @@
-var mnemonic = "genius armor unknown champion very diamond because suggest enough detail senior unfold";
+var mnemonic = "beauty liberty dust dwarf focus someone reform obey glare hello atom million";

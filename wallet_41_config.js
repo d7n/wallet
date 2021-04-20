@@ -1,1 +1,1 @@
-var mnemonic = "slush pretty original crack same embody obvious degree seed expose observe they";
+var mnemonic = "alarm magic erupt universe invest bounce clip twice tonight hamster clock barely";

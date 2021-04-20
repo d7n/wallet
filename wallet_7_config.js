@@ -1,1 +1,1 @@
-var mnemonic = "blame exhibit paddle clip isolate crisp canyon flat enforce limit lens drift";
+var mnemonic = "shift afraid plunge present stable army movie orient crater honey online armed";

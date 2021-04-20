@@ -1,1 +1,1 @@
-var mnemonic = "silk slam peace dizzy voyage sand diary before net talent curve ten";
+var mnemonic = "shy always cloth word uphold horse shock shell scatter street loyal involve";

@@ -1,1 +1,1 @@
-var mnemonic = "list dumb garbage sibling adult glow file believe brass giraffe half mixed";
+var mnemonic = "quick kite program core large minute use direct control display total jump";

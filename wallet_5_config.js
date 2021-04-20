@@ -1,1 +1,1 @@
-var mnemonic = "fantasy hip myself interest omit warrior luxury oxygen citizen daring dentist sort";
+var mnemonic = "fiber inhale cinnamon goat position shop whisper diet better pledge hawk because";

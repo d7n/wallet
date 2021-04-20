@@ -1,1 +1,1 @@
-var mnemonic = "chat crunch inside clinic certain slow steel forward monitor spray ignore chronic";
+var mnemonic = "sight warrior during easily gold year place say measure mother attend source";

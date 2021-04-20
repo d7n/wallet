@@ -1,1 +1,1 @@
-var mnemonic = "comfort when copy snack urban actual cross silent soul devote bid sail";
+var mnemonic = "helmet result tray siren enforce provide wrap unlock work benefit rebuild begin";

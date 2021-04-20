@@ -1,1 +1,1 @@
-var mnemonic = "media inherit symptom seek seven topple museum height bring lounge cigar then";
+var mnemonic = "blood miracle vivid rug hover curious calm layer misery wrist course morning";

@@ -1,1 +1,1 @@
-var mnemonic = "plug crawl argue crop risk original solid error output chief during pattern";
+var mnemonic = "history faint era urge chuckle morning client tribe novel snap forum diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "eye junior ripple mosquito bonus august able loan eager dignity brief negative";
+var mnemonic = "wrap dish pistol scheme announce maze trick resemble logic pattern raise toddler";

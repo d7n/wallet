@@ -1,1 +1,1 @@
-var mnemonic = "region crazy inch almost shiver clay mixed much flat crash bean soda";
+var mnemonic = "cousin debris expire betray noise draw desk chaos rug animal you focus";

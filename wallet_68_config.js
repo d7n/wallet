@@ -1,1 +1,1 @@
-var mnemonic = "fold label seminar purse false creek ordinary tide buffalo scissors trip bean";
+var mnemonic = "gas supreme library yard hint glad insect warfare mistake smile banner era";

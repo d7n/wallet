@@ -1,1 +1,1 @@
-var mnemonic = "affair adult draft speak desert swallow core west index alone swap pear";
+var mnemonic = "casino museum multiply sniff describe guitar turtle entire ignore kitchen receive essence";

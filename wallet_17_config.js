@@ -1,1 +1,1 @@
-var mnemonic = "boy half assist upper erupt spread enough despair roast once hurry ensure";
+var mnemonic = "matter loop century supply pyramid false farm panic evolve ancient end flee";

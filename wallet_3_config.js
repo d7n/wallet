@@ -1,1 +1,1 @@
-var mnemonic = "noodle level purchase rapid junior catalog youth female february mercy air resource";
+var mnemonic = "gown stage host pipe digital body say tag vacant food insect tourist";

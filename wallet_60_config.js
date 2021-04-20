@@ -1,1 +1,1 @@
-var mnemonic = "borrow poem carpet bench bag skirt nature anchor sunny curve exit winter";
+var mnemonic = "song tattoo guard crystal island doll damage subject daughter owner deer aim";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic labor question donate together stock edge awful bubble dog awful awake";
+var mnemonic = "neutral shuffle govern fold immense few tube history explain skin scrub blame";

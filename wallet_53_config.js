@@ -1,1 +1,1 @@
-var mnemonic = "before shuffle give stereo dizzy aisle awake depend surround tip yard thrive";
+var mnemonic = "settle private eight time predict palace sign stool initial judge sheriff exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "always orange manual gift access cute eager drip fat rug mimic symbol";
+var mnemonic = "elevator oval protect hero proud between order original miss tackle property rubber";

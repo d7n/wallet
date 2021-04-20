@@ -1,1 +1,1 @@
-var mnemonic = "toddler sweet sting track mass fan square agree middle venture neck favorite";
+var mnemonic = "melt true hurry soft today liar inmate reopen leisure scene aspect play";

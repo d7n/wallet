@@ -1,1 +1,1 @@
-var mnemonic = "frame much salad flag emerge equip solution number any degree address hamster";
+var mnemonic = "hour acoustic couch drive fatal welcome coil other master plastic movie system";

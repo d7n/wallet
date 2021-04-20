@@ -1,1 +1,1 @@
-var mnemonic = "average cruise act verb dumb gloom coconut couch gadget fog wheat battle";
+var mnemonic = "wheat dynamic disorder girl name monster hockey chronic picnic legend caught net";

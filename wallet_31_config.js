@@ -1,1 +1,1 @@
-var mnemonic = "duck thrive palm helmet trash fatal coil orphan ordinary beyond robot dry";
+var mnemonic = "afford grab cupboard wagon gift grant educate guess differ habit move hub";

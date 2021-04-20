@@ -1,1 +1,1 @@
-var mnemonic = "vanish warrior culture school rural put choose inject melt record chair net";
+var mnemonic = "welcome mountain art august bunker brave whisper chapter broom puppy parade tilt";

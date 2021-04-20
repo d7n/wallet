@@ -1,1 +1,1 @@
-var mnemonic = "divert practice stairs light protect denial worry awesome smile hawk vault lobster";
+var mnemonic = "visa hole practice sample word buyer verify biology marble thing velvet trade";

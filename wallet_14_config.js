@@ -1,1 +1,1 @@
-var mnemonic = "recall crystal stick prepare shift never always try across sign vague never";
+var mnemonic = "gadget action rural this demise observe mansion resemble flag width alarm guide";

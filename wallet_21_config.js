@@ -1,1 +1,1 @@
-var mnemonic = "trip reward exist mention family finger finger survey enjoy panel fun negative";
+var mnemonic = "weekend change oven gloom where globe stock pledge lesson grocery mother pill";

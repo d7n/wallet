@@ -1,1 +1,1 @@
-var mnemonic = "buddy life suspect scatter twelve cage tuition plug question wash join ripple";
+var mnemonic = "empower work occur ball blind loop arrive front short cry quality early";

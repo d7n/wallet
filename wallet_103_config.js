@@ -1,1 +1,1 @@
-var mnemonic = "predict lumber spread glue hold swear require gentle ahead habit rib slam";
+var mnemonic = "reward disorder local wall wire tennis thumb afford concert bind snow donor";

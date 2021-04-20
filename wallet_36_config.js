@@ -1,1 +1,1 @@
-var mnemonic = "slide behind vacuum wife erosion gadget taxi staff path vocal acquire mind";
+var mnemonic = "pipe wreck defy praise earn moment hire traffic inform absorb arch crush";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth awesome consider arena endless hospital barely text awkward hair six matter";
+var mnemonic = "boil damage service endorse hire prepare benefit piano member father vivid video";

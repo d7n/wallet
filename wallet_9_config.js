@@ -1,1 +1,1 @@
-var mnemonic = "mistake busy prepare glow remain arena walk lottery chimney dry question intact";
+var mnemonic = "runway explain loyal truly master village grass wire success loop table occur";

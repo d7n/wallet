@@ -1,1 +1,1 @@
-var mnemonic = "lizard manual lucky defense member lizard bunker actress across alley helmet shiver";
+var mnemonic = "device casino nut twelve venue spy notable average mushroom oxygen express plug";

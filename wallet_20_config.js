@@ -1,1 +1,1 @@
-var mnemonic = "will ordinary sad knife vanish bench seat gasp truck connect liberty vital";
+var mnemonic = "box hour paddle evil educate perfect catalog spawn honey forum isolate useful";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow road pledge unlock click stem very fine face choice doll unlock";
+var mnemonic = "party bless cute pause model fog boat castle arrow renew side celery";

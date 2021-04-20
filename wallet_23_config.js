@@ -1,1 +1,1 @@
-var mnemonic = "tilt clay next surround join exotic crane decrease box dilemma increase medal";
+var mnemonic = "citizen square art biology canal large scene vanish tuition month wise guitar";

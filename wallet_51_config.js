@@ -1,1 +1,1 @@
-var mnemonic = "retreat depart physical outside helmet network barely wheat execute glove jump satisfy";
+var mnemonic = "energy sweet lottery involve demand opinion nut latin mango cherry liberty paper";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor level gasp belt spider hobby fury junior kite pride street recipe";
+var mnemonic = "brave kidney raise paper effort defense nasty provide unable dizzy chat neither";

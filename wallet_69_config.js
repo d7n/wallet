@@ -1,1 +1,1 @@
-var mnemonic = "local dynamic inform wave rent find dwarf price wish require advice trumpet";
+var mnemonic = "sunny fancy upset clerk celery correct remember alter pride menu evolve slender";

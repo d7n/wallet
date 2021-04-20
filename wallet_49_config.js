@@ -1,1 +1,1 @@
-var mnemonic = "utility number wisdom risk lottery rail average absent debate other antenna melt";
+var mnemonic = "brother draft deal kiwi permit embrace motor gift world tobacco surge inner";

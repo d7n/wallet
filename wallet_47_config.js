@@ -1,1 +1,1 @@
-var mnemonic = "swim drama grant peace industry rude usage chef tube thank bright holiday";
+var mnemonic = "join ordinary tomorrow common amused muscle dance ride salon enemy trigger remember";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy expect office trigger vehicle demise usual twelve fortune chat wing adult";
+var mnemonic = "total edit stable guard oak web barely minimum battle material find provide";

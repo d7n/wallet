@@ -1,1 +1,1 @@
-var mnemonic = "wonder minute loud provide divorce tide valid hollow mixed hidden language sure";
+var mnemonic = "clean involve system quit fiction sand jump pool pond inch barrel prison";

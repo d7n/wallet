@@ -1,1 +1,1 @@
-var mnemonic = "cage swim staff leader shaft blame sea oyster october comic squirrel buyer";
+var mnemonic = "exact excess wrong describe next dove fox choice online palace toddler bench";

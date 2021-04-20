@@ -1,1 +1,1 @@
-var mnemonic = "giant guide salmon menu inquiry impulse trick vacuum embark oyster comic orchard";
+var mnemonic = "devote angle inform gadget equal dune wool robust pulse habit demise nothing";

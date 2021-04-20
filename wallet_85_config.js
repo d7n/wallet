@@ -1,1 +1,1 @@
-var mnemonic = "collect cable initial salon symbol focus exhaust mandate author already glove water";
+var mnemonic = "brush stem woman hazard tennis wire parent gossip large rice calm powder";

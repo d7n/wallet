@@ -1,1 +1,1 @@
-var mnemonic = "west boost east edge group mass march exercise holiday deliver wise travel";
+var mnemonic = "aerobic feature final erode entry sun inspire exile this dose play lobster";

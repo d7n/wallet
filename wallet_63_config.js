@@ -1,1 +1,1 @@
-var mnemonic = "patch finger bunker blind mechanic calm trend pink demand glory deal tree";
+var mnemonic = "regular say urge because harsh pool reflect wait inch frost subway digital";

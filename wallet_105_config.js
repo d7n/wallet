@@ -1,1 +1,1 @@
-var mnemonic = "much topple core recipe sketch mammal barrel wage party truly olive witness";
+var mnemonic = "excuse theme raw bitter improve surge catch window impulse monster foster very";

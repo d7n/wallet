@@ -1,1 +1,1 @@
-var mnemonic = "friend forget general rather memory sorry correct scout another vapor nation army";
+var mnemonic = "blind wealth awkward youth cage milk episode next smart spin soul history";

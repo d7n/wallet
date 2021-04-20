@@ -1,1 +1,1 @@
-var mnemonic = "paddle property spend angle climb palace make speed gain label practice salon";
+var mnemonic = "hobby green cup tooth involve fat oval laundry welcome silent sphere clay";

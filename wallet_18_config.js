@@ -1,1 +1,1 @@
-var mnemonic = "screen between pepper wall clump artwork travel ask coconut add trend shrug";
+var mnemonic = "pepper magic guide census slam dove vacuum urban caution goose long apart";

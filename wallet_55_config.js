@@ -1,1 +1,1 @@
-var mnemonic = "finger library garlic capable entire cross audit heart unlock tank cry travel";
+var mnemonic = "camp wreck joy orbit debate movie acid now pudding organ dust venture";

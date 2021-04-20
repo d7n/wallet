@@ -1,1 +1,1 @@
-var mnemonic = "among enough budget avoid address clinic cart strike detect uphold simple slush";
+var mnemonic = "arrive inmate palace buyer grape east spike black silk coral lunar result";

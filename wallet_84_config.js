@@ -1,1 +1,1 @@
-var mnemonic = "cycle shock stool attend guess debate goose canvas champion water ring critic";
+var mnemonic = "fortune alley outdoor fresh lawsuit erupt inherit clap hungry want admit open";

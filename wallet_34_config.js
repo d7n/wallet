@@ -1,1 +1,1 @@
-var mnemonic = "oven clip skill visit kangaroo fun skill bid nature possible chalk behind";
+var mnemonic = "symbol believe burst also turtle shop school illness miss boil speed solar";

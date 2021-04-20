@@ -1,1 +1,1 @@
-var mnemonic = "siren ocean merge family suit canal mountain good royal barely dumb melody";
+var mnemonic = "lend amazing curve squeeze lemon crisp initial allow brand cliff rather blush";

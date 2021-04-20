@@ -1,1 +1,1 @@
-var mnemonic = "under safe copper steak remove sand measure wish dance immune cement island";
+var mnemonic = "flee gospel forum unfair source dismiss front cigar finish phone scare april";

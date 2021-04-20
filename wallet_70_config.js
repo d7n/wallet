@@ -1,1 +1,1 @@
-var mnemonic = "dumb tongue tissue will above witness earn device dust file traffic talent";
+var mnemonic = "oak nasty sauce tomato rely leaf trick dash supply snow any cruise";

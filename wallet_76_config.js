@@ -1,1 +1,1 @@
-var mnemonic = "table page often advance champion pave brush material denial wife ski cheese";
+var mnemonic = "stumble banana same stand fatal maze roof pledge potato believe allow enough";

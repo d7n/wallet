@@ -1,1 +1,1 @@
-var mnemonic = "dismiss liberty ticket kitten insane only hold divorce garlic athlete define lizard";
+var mnemonic = "pistol slow run bitter occur rug leopard duty corn space light wrap";

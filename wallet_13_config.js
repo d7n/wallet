@@ -1,1 +1,1 @@
-var mnemonic = "avocado speak limit silent gaze unveil swap oil address next will submit";
+var mnemonic = "opera paper balcony mail cactus guilt open disorder gun cash depend inhale";

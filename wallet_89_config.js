@@ -1,1 +1,1 @@
-var mnemonic = "rain cube jungle awkward bachelor off copy fine arrive silk core opinion";
+var mnemonic = "submit flip client panda absurd special glad mistake envelope squirrel affair season";

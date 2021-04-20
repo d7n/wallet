@@ -1,1 +1,1 @@
-var mnemonic = "sorry stick side brush fork reveal love clarify brass faint welcome pumpkin";
+var mnemonic = "point sunset post barrel push there pepper rally mechanic hurdle swarm chunk";

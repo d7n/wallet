@@ -1,1 +1,1 @@
-var mnemonic = "gauge stereo replace dwarf catch current put undo behind machine permit ugly";
+var mnemonic = "truth test depart arrange dial clean present idle describe clerk ecology horror";

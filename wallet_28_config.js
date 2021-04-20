@@ -1,1 +1,1 @@
-var mnemonic = "repair visit ankle large amazing segment dumb obvious bonus toss grief end";
+var mnemonic = "crater own prefer crowd place exclude edge plate much spike income bid";

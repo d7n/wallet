@@ -1,1 +1,1 @@
-var mnemonic = "cluster embody morning interest curtain silk cage hold tuition omit garage attract";
+var mnemonic = "hammer unhappy spike pepper fresh dinosaur churn code similar inmate law delay";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak six employ dress anchor guitar hat cannon snack injury parrot gain";
+var mnemonic = "believe lucky panic myth angle mosquito cram false ethics series tip flock";

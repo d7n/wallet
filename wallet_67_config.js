@@ -1,1 +1,1 @@
-var mnemonic = "tiger record whisper popular smoke suspect horror pluck column long vote adjust";
+var mnemonic = "like expose review craft flavor where will uphold air autumn general awful";

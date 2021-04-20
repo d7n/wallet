@@ -1,1 +1,1 @@
-var mnemonic = "truck knock cricket reform ritual frame ankle alone shine toy because bright";
+var mnemonic = "radar hurdle veteran coconut scan employ vendor aisle merry reject trip brother";

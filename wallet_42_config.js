@@ -1,1 +1,1 @@
-var mnemonic = "bag tide raccoon thunder retire cushion donkey erosion adult budget mirror lady";
+var mnemonic = "able oppose walk angry bunker stumble damp bunker north burst day expect";

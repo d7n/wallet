@@ -1,1 +1,1 @@
-var mnemonic = "patient just alcohol spy pole method main wage airport scene hour credit";
+var mnemonic = "merry bike chicken hungry sand useless credit muscle crowd salute clarify file";

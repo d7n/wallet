@@ -1,1 +1,1 @@
-var mnemonic = "school anchor reason service twist robot resemble royal build piece seek pair";
+var mnemonic = "output loyal lucky resource march clump vapor nose usual dice original wealth";

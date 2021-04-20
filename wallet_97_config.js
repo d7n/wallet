@@ -1,1 +1,1 @@
-var mnemonic = "paper bitter tunnel injury blind bamboo hockey cave chase bridge approve whale";
+var mnemonic = "sunset off laundry purchase decrease flat frown eye cook narrow nerve avoid";

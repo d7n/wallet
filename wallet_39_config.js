@@ -1,1 +1,1 @@
-var mnemonic = "manual wasp trial lottery outdoor pipe wrestle alcohol isolate color shadow buyer";
+var mnemonic = "possible half try later note knee play dwarf distance inspire fringe camera";

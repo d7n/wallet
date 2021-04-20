@@ -1,1 +1,1 @@
-var mnemonic = "walk bomb silly attract south book sport dress recycle discover season tooth";
+var mnemonic = "waste hidden defy kiwi peanut ten brush file often nature message decline";

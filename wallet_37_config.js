@@ -1,1 +1,1 @@
-var mnemonic = "suit snake salad across hand rotate easy gown giant style scorpion butter";
+var mnemonic = "tube trophy lend arrest daughter accuse desk target spawn fee ecology raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt belt aisle speed order shift caught pony bubble prosper palm assault";
+var mnemonic = "piece prosper aerobic youth middle derive pitch split high arrow ask decide";

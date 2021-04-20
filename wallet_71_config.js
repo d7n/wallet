@@ -1,1 +1,1 @@
-var mnemonic = "prison luxury rib bleak earth pull cabin glide speed priority paddle end";
+var mnemonic = "neck icon dwarf debate problem process patrol civil large woman ribbon lava";

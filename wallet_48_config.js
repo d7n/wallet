@@ -1,1 +1,1 @@
-var mnemonic = "rare lyrics stand jelly april require gather actual device danger view exhibit";
+var mnemonic = "hold account antenna wise banner guide across head turtle cable cash voyage";

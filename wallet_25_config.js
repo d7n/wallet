@@ -1,1 +1,1 @@
-var mnemonic = "nuclear hurry nerve holiday bounce addict seed couch neutral venture forward joke";
+var mnemonic = "trim bar broken level silk silver rival consider rice erode nation leg";

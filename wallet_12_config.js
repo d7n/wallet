@@ -1,1 +1,1 @@
-var mnemonic = "useless crucial approve mimic robust icon hat ugly damp inner chapter kingdom";
+var mnemonic = "guide door coral slight limit brisk orbit theory junk smooth cherry apple";

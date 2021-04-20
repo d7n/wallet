@@ -1,1 +1,1 @@
-var mnemonic = "file diesel fun diary lizard can embark credit cabin inject reflect vast";
+var mnemonic = "frog emerge nerve check road blood pony survey coyote path olympic accuse";

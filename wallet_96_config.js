@@ -1,1 +1,1 @@
-var mnemonic = "vintage myth pluck harvest lizard change tide curve gentle one else exercise";
+var mnemonic = "weasel blood joke live nature truck flavor family clever taxi aim fix";
