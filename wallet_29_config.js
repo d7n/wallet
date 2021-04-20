@@ -1,1 +1,1 @@
-var mnemonic = "barrel increase setup learn when electric valley actor pill special absurd sphere";
+var mnemonic = "enable begin erosion simple dose achieve recall crazy paper noble comic exact";

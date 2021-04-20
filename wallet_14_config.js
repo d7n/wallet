@@ -1,1 +1,1 @@
-var mnemonic = "shrimp verb tooth illness burst have myself swear pause remain worry whip";
+var mnemonic = "because staff cancel bundle mirror expand tragic friend culture snow citizen plastic";

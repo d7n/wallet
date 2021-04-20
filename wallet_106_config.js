@@ -1,1 +1,1 @@
-var mnemonic = "fix awesome seed moment pigeon sister rebel arrow feature exist inspire tunnel";
+var mnemonic = "motion captain conduct metal churn spare shuffle kitten pudding elephant mechanic inform";

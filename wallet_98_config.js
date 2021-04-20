@@ -1,1 +1,1 @@
-var mnemonic = "team mesh bamboo flock engage team asset hill debris section gate knock";
+var mnemonic = "risk planet judge resist sweet coral retire wise feel manage vague equal";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy journey miracle image oyster iron sign faith angry attitude master wrist";
+var mnemonic = "language argue coach enable retire cement diet spin shuffle abstract void charge";

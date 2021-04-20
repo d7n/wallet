@@ -1,1 +1,1 @@
-var mnemonic = "sudden into dolphin coin exhaust cup monitor history fetch mistake pill real";
+var mnemonic = "behave acoustic immense mango exclude file obey craft very sell suggest near";

@@ -1,1 +1,1 @@
-var mnemonic = "area oil soap harvest hurry various zero word inspire duty short boring";
+var mnemonic = "length expire nurse oval panda ignore truth remove west narrow double custom";

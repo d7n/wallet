@@ -1,1 +1,1 @@
-var mnemonic = "transfer sword menu donate also cave street other kiss walk enemy infant";
+var mnemonic = "federal fan slide junk benefit wrap give return runway joy category faculty";

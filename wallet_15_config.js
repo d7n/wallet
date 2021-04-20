@@ -1,1 +1,1 @@
-var mnemonic = "strike shrimp sun employ cat ritual into trend season pyramid target peace";
+var mnemonic = "spawn ride defy ostrich flavor tree vacant tube thrive seminar surface loop";

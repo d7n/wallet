@@ -1,1 +1,1 @@
-var mnemonic = "merge razor fancy affair glad hurt broccoli island pig cluster water target";
+var mnemonic = "unaware auto promote oblige this tiny original object lazy analyst pitch prize";

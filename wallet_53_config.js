@@ -1,1 +1,1 @@
-var mnemonic = "wrap lumber neglect sheriff train bright slam puppy raise domain glass december";
+var mnemonic = "fruit combine motor action symptom fire combine rain oxygen piece cheap minimum";

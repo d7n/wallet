@@ -1,1 +1,1 @@
-var mnemonic = "render peanut spy brick insect illegal avoid asthma blade flower lab behave";
+var mnemonic = "escape crater lawsuit crime pink arrow fork index creek humor poverty damage";

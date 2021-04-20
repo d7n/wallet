@@ -1,1 +1,1 @@
-var mnemonic = "advance keep attack target misery leopard jeans concert bottom fox humor fantasy";
+var mnemonic = "gas theme summer vivid lift kite motor bitter under eyebrow blind kite";

@@ -1,1 +1,1 @@
-var mnemonic = "name bleak economy festival friend intact shiver rib trip review husband fringe";
+var mnemonic = "goose giant conduct notice very afford art wrist concert scissors venture fatal";

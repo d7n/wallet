@@ -1,1 +1,1 @@
-var mnemonic = "ahead client staff crash kind tired brick bench parrot pause pretty buffalo";
+var mnemonic = "claim throw only plunge charge iron trophy beauty number curtain evidence skirt";

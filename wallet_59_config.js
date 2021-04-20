@@ -1,1 +1,1 @@
-var mnemonic = "fence snap south curious final sister shrug dash denial shift jacket wage";
+var mnemonic = "taste couple avoid churn bicycle grape liar meat talk arch dwarf crack";

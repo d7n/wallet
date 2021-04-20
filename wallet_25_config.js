@@ -1,1 +1,1 @@
-var mnemonic = "invest lake maid leader blanket decide disorder program toilet amount ring trouble";
+var mnemonic = "company fortune cement popular clean tray ramp tank wide sense sphere chuckle";

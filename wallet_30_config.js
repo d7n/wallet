@@ -1,1 +1,1 @@
-var mnemonic = "unusual rain unveil combine pet fury never corn glove math bundle alley";
+var mnemonic = "seek about balance wing struggle program exit pretty excuse decrease input prize";

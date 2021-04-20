@@ -1,1 +1,1 @@
-var mnemonic = "pledge rug misery man ocean pelican focus nice insect web video parade";
+var mnemonic = "trade someone come sport rural budget unaware elder route moon mind soup";

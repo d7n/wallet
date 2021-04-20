@@ -1,1 +1,1 @@
-var mnemonic = "cheese six brave top garden gadget usual humble eternal initial figure monster";
+var mnemonic = "cycle shuffle paddle purpose distance busy good tongue modify glimpse liberty bunker";

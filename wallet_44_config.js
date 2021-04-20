@@ -1,1 +1,1 @@
-var mnemonic = "weapon mule cargo pottery hint session clock drop record cruise pencil borrow";
+var mnemonic = "strategy proof base stay work calm age stuff undo display rescue agree";

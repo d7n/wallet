@@ -1,1 +1,1 @@
-var mnemonic = "food blast abandon unhappy erosion install rate myself edge culture harvest bounce";
+var mnemonic = "knee measure wise shrimp lizard voyage swift mansion forest stool visual park";

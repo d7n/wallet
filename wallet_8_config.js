@@ -1,1 +1,1 @@
-var mnemonic = "wealth brother route rally actress enjoy scrap impulse short faint pond dog";
+var mnemonic = "soccer era torch wood kind snow distance royal myth rely twist whip";

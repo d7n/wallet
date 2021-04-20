@@ -1,1 +1,1 @@
-var mnemonic = "warm lake lava blame armed tiger dove dry mutual coil antique harbor";
+var mnemonic = "tennis next faith race vessel picnic plastic dove arrive reward limit hundred";

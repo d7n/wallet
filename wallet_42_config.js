@@ -1,1 +1,1 @@
-var mnemonic = "dragon scrap victory skill garage damage laugh glare blue unfair envelope pupil";
+var mnemonic = "reunion circle brain enjoy shield point pipe join typical vital notice spoon";

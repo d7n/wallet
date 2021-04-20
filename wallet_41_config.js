@@ -1,1 +1,1 @@
-var mnemonic = "reflect cover awake spend globe surface speak dumb gesture clever elegant device";
+var mnemonic = "danger napkin broken dawn end ready setup guess frame hen cliff expect";

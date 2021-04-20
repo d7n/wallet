@@ -1,1 +1,1 @@
-var mnemonic = "basket episode brass slice denial cheap coconut trophy hope knife absurd puppy";
+var mnemonic = "like escape abuse where steel evil rival still wire spike desk muscle";

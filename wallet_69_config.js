@@ -1,1 +1,1 @@
-var mnemonic = "soon across blast salt pluck royal drive rebel flock detect limb evolve";
+var mnemonic = "drop real drum air flat post water wage eye exile chase normal";

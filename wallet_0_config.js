@@ -1,1 +1,1 @@
-var mnemonic = "glare ribbon sting kite scan blush digital reform wasp rookie basket miracle";
+var mnemonic = "clock region subway pudding cabbage air mammal code kidney exile cake birth";

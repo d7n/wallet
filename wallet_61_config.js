@@ -1,1 +1,1 @@
-var mnemonic = "parrot island pioneer addict planet seed illness pull stable maid fiber auction";
+var mnemonic = "cannon drip tree comic debate verb vanish holiday arena cake enroll believe";

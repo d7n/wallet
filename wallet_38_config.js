@@ -1,1 +1,1 @@
-var mnemonic = "chest alarm finish casino bullet right loop camera purchase drip season flight";
+var mnemonic = "toward more poverty upgrade behave nice quit equip cup rough range pulp";

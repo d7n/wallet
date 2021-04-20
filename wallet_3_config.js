@@ -1,1 +1,1 @@
-var mnemonic = "account senior replace material security uncover park awake valid antique high saddle";
+var mnemonic = "until bounce sting alpha tank tray prize debris pause chaos develop motor";

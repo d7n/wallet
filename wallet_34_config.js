@@ -1,1 +1,1 @@
-var mnemonic = "increase hope minor sun horse sun cigar indoor olive boy route settle";
+var mnemonic = "vibrant rely tail modify fluid tuna shuffle pave develop deliver parade treat";

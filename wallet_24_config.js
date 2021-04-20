@@ -1,1 +1,1 @@
-var mnemonic = "visual swear fish silent various taste spare citizen trumpet erosion bulb tag";
+var mnemonic = "fragile pumpkin initial exchange pool rebuild torch smile steak cereal imitate around";

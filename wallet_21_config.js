@@ -1,1 +1,1 @@
-var mnemonic = "hurdle alpha vehicle reason bind maple monkey bird zebra loud miracle cattle";
+var mnemonic = "soft entry example mind famous wait scrub peasant must bounce dignity record";

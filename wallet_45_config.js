@@ -1,1 +1,1 @@
-var mnemonic = "tree library culture purse during ketchup cost silk term canal glue left";
+var mnemonic = "rebel act exhaust liberty bike squeeze kiss cabbage couple pond fame marine";

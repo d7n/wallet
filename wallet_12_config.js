@@ -1,1 +1,1 @@
-var mnemonic = "stable payment purchase simple funny learn torch chicken joke marine bitter evolve";
+var mnemonic = "turkey peasant cheese blue situate control labor rug immense can honey switch";

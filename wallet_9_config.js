@@ -1,1 +1,1 @@
-var mnemonic = "gate hill exotic end budget dish regret dragon party anchor system regular";
+var mnemonic = "matrix print cry make trigger leader danger indoor catch physical grain comfort";

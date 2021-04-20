@@ -1,1 +1,1 @@
-var mnemonic = "know sister gaze barely area afraid merge aunt unknown sheriff reopen flat";
+var mnemonic = "urban reflect large dutch ancient rigid slam basket void salon cube pioneer";

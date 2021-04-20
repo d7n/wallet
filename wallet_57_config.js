@@ -1,1 +1,1 @@
-var mnemonic = "upper slab type wonder wrap struggle catalog brisk nest shaft turn jar";
+var mnemonic = "collect kick ball reward west secret half jelly move cook cycle hunt";

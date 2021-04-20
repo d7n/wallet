@@ -1,1 +1,1 @@
-var mnemonic = "outdoor comfort then utility vote mention arrow crop unit neither forest bone";
+var mnemonic = "garment alter unhappy merge chest huge define library various piece push tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "noble error reflect hole grocery stage borrow street estate picture reopen cushion";
+var mnemonic = "afford rescue wrist deer love spoil consider marble cross elephant orange aspect";

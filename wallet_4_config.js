@@ -1,1 +1,1 @@
-var mnemonic = "evolve trumpet author boost labor chicken fit bundle antenna wood cool plastic";
+var mnemonic = "marine broken team canoe pulp flag escape news fury trust velvet merry";

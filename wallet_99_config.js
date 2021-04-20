@@ -1,1 +1,1 @@
-var mnemonic = "curtain nest pig color coyote outer husband cute police distance lemon bulk";
+var mnemonic = "face subject hair cream riot twin federal witness false jeans jewel embrace";

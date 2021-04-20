@@ -1,1 +1,1 @@
-var mnemonic = "grab guide thunder clinic differ meadow dog mansion region hollow concert toast";
+var mnemonic = "proud student lonely asthma again world link range rebel piano exit still";

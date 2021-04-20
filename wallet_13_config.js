@@ -1,1 +1,1 @@
-var mnemonic = "sleep female grace observe lab number post glass piano car elite age";
+var mnemonic = "pact make duty weapon frame whip friend immense apple voyage cheap mimic";

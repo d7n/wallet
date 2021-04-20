@@ -1,1 +1,1 @@
-var mnemonic = "coin pizza dish clarify audit satoshi possible laugh match asset describe bar";
+var mnemonic = "donate hundred immune bundle simple follow brush rain walnut naive amused flame";

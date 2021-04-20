@@ -1,1 +1,1 @@
-var mnemonic = "rigid usage income churn pumpkin traffic call joke mean wise genre clock";
+var mnemonic = "yard vanish auto steel sunset number enforce limit code oyster frown solid";

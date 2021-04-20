@@ -1,1 +1,1 @@
-var mnemonic = "message clay satoshi humor insect skate woman term issue basic author fiscal";
+var mnemonic = "message powder dismiss now yellow laugh artefact federal amateur renew lawsuit monitor";

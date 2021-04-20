@@ -1,1 +1,1 @@
-var mnemonic = "joy east task pioneer route where salute fun valley notable pipe immune";
+var mnemonic = "noise runway fringe winner dose setup latin rain stage stone until please";

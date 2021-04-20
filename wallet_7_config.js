@@ -1,1 +1,1 @@
-var mnemonic = "suggest beauty verify stereo history assume draw portion patch vacuum camera creek";
+var mnemonic = "couch tray off length elbow economy shuffle deer offer aunt pyramid duty";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt orange fine toe element hello fire urban carpet finger science upon";
+var mnemonic = "correct define hint scare wool repair grunt broom wine initial aim false";

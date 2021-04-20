@@ -1,1 +1,1 @@
-var mnemonic = "obvious lumber riot canyon pencil lady shoot urban hedgehog prison circle extra";
+var mnemonic = "region project tone custom doll barely hole vacant avocado moral devote day";

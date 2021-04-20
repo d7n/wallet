@@ -1,1 +1,1 @@
-var mnemonic = "opera ethics crumble proof glow still supreme stable peanut nest tobacco panther";
+var mnemonic = "hunt together meat cover mammal uniform rain exotic pioneer mail scissors artwork";

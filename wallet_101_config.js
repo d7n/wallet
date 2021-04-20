@@ -1,1 +1,1 @@
-var mnemonic = "seminar rhythm cause identify wave spray add flat swarm chicken inner amateur";
+var mnemonic = "circle vast soda front thunder boy join noodle curious gasp lazy destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "wise shrug tomorrow skirt parrot exile mushroom joke over engage reduce mansion";
+var mnemonic = "key divert poverty horn suffer two enlist maple parent dentist anchor lecture";

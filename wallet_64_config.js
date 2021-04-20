@@ -1,1 +1,1 @@
-var mnemonic = "snack boring gasp label joy flame silly bundle corn easily essay deliver";
+var mnemonic = "gadget balcony remember mention wing volcano december enable chicken define detail foot";

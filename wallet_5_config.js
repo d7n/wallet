@@ -1,1 +1,1 @@
-var mnemonic = "flight drastic march comic belt quality citizen march wing faint spot occur";
+var mnemonic = "material sniff woman scene movie sock dinosaur excuse hair praise barrel ribbon";

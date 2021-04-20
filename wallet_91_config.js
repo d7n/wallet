@@ -1,1 +1,1 @@
-var mnemonic = "matrix chief melody animal foot result toilet awesome lake clap special olympic";
+var mnemonic = "mail hurdle track gym emerge tilt lesson index armor useful arctic empty";

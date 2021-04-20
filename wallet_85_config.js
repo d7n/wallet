@@ -1,1 +1,1 @@
-var mnemonic = "pudding position amused assist float target tip barely hungry balance merit woman";
+var mnemonic = "just miracle slim jelly position seek wage excuse next glass over arch";

@@ -1,1 +1,1 @@
-var mnemonic = "thank random dog must smile aerobic click uncover violin peanut venue gadget";
+var mnemonic = "pumpkin health where card strategy balcony race olympic canal lounge remind coral";

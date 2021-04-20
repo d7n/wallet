@@ -1,1 +1,1 @@
-var mnemonic = "shrimp awful cancel depart pelican clean bid snow fade explain scout isolate";
+var mnemonic = "predict bomb interest vast settle tube city pause champion deliver dad forget";

@@ -1,1 +1,1 @@
-var mnemonic = "maid topic peace car climb lens mom outside original bus nest book";
+var mnemonic = "thank boat stand lesson mammal alien vehicle canvas mandate explain phone crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "meat report once parade glide attitude impose ceiling diesel alley myth bone";
+var mnemonic = "august strong cook place next token kingdom diesel cave install weather arrow";

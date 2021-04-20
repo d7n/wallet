@@ -1,1 +1,1 @@
-var mnemonic = "pole bless disease blind shift siren hospital skill place math click estate";
+var mnemonic = "manual federal weird olympic barrel sport brown other spawn second coffee puzzle";

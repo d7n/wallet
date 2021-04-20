@@ -1,1 +1,1 @@
-var mnemonic = "damage mixed state luxury flash naive invest fury inform crew raccoon van";
+var mnemonic = "base snap capital silk play cereal crack narrow music crawl lemon minimum";

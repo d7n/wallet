@@ -1,1 +1,1 @@
-var mnemonic = "wish pottery hotel february veteran suggest proud palace tip frown brother book";
+var mnemonic = "broken talk exist oblige mean cushion category health pyramid organ next quit";

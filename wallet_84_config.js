@@ -1,1 +1,1 @@
-var mnemonic = "soul deposit pudding kind brush cart runway humble lazy vacant cousin direct";
+var mnemonic = "bean code urban define virus radio busy below change river half dragon";

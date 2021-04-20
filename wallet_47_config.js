@@ -1,1 +1,1 @@
-var mnemonic = "exact attitude wealth dynamic timber border bullet govern frost find digital orange";
+var mnemonic = "away cluster duty beyond lonely cabbage response citizen floor possible trap uniform";

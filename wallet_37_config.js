@@ -1,1 +1,1 @@
-var mnemonic = "company car zero jacket kind install spray reopen sketch knife tissue wonder";
+var mnemonic = "drama figure solar fame depart two describe affair axis crunch mesh talent";

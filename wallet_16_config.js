@@ -1,1 +1,1 @@
-var mnemonic = "estate wagon company online kind bright trumpet february brush common portion soap";
+var mnemonic = "rib plastic reopen theory female immense regular predict metal globe bone vicious";

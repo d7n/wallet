@@ -1,1 +1,1 @@
-var mnemonic = "medal rare must main wealth release parent jazz teach rapid outer pink";
+var mnemonic = "decade infant direct renew stool bacon genius fabric anchor educate ghost card";

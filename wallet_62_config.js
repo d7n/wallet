@@ -1,1 +1,1 @@
-var mnemonic = "stock omit notable balance aisle leader network refuse inherit web gift crew";
+var mnemonic = "father rent pilot into motor spend liar fix kit step crane raccoon";

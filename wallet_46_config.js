@@ -1,1 +1,1 @@
-var mnemonic = "hen evolve giggle thunder saddle fancy fit swamp carry enable someone goat";
+var mnemonic = "fruit swing trim hint phone raven rail glow current glance glad child";

@@ -1,1 +1,1 @@
-var mnemonic = "soda raccoon bus eternal orbit insect keep step taste galaxy wealth critic";
+var mnemonic = "more follow prefer property glance afraid shuffle wild stable window party pyramid";

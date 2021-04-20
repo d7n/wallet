@@ -1,1 +1,1 @@
-var mnemonic = "item buzz decade snack trigger size effort purpose damp hamster merry debate";
+var mnemonic = "runway battle purchase staff able helmet carry act sunset chicken armor panic";

@@ -1,1 +1,1 @@
-var mnemonic = "service stock gift post build mushroom buzz thing omit tilt evidence century";
+var mnemonic = "auction castle tenant between unique birth guess top version find order oyster";

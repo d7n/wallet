@@ -1,1 +1,1 @@
-var mnemonic = "hunt laugh program gentle dash often unknown owner target clinic sight luggage";
+var mnemonic = "hamster vague mule next truck sense tobacco patient distance demand canal sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle light page rebel mule voyage hand loan estate cattle upon laundry";
+var mnemonic = "fade suspect body connect expand bulk ginger genius wild jelly flip chuckle";

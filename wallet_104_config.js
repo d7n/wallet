@@ -1,1 +1,1 @@
-var mnemonic = "eagle artefact song voice nurse ill hurt front shallow hill casino donkey";
+var mnemonic = "capable govern juice hawk blast eager rate you present swallow accuse giraffe";

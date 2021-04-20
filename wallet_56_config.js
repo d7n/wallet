@@ -1,1 +1,1 @@
-var mnemonic = "unit equip snake attend drive unhappy pottery void goat token fantasy scatter";
+var mnemonic = "rule decrease cushion work success bunker sea accuse deposit sudden eyebrow pass";

@@ -1,1 +1,1 @@
-var mnemonic = "wish citizen ability pause denial gaze mean hero together token jewel cabbage";
+var mnemonic = "damp spray orphan smooth coast rescue ladder town float tree gain afraid";

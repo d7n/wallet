@@ -1,1 +1,1 @@
-var mnemonic = "flight wedding library leave appear pelican arm kingdom allow blue language final";
+var mnemonic = "observe quote tribe utility settle future bronze shoot antique strong million print";

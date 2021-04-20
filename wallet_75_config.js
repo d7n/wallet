@@ -1,1 +1,1 @@
-var mnemonic = "rely repeat brush sock broken great call emerge push lemon normal mixture";
+var mnemonic = "hour betray slide hip dragon burger hybrid coffee gentle brother grape sugar";

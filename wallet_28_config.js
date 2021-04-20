@@ -1,1 +1,1 @@
-var mnemonic = "asthma barrel total swear roof tell develop loyal ball spy music often";
+var mnemonic = "coral clown hen skirt coil anxiety catch outdoor social impact found dawn";

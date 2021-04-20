@@ -1,1 +1,1 @@
-var mnemonic = "olympic orange domain injury add isolate early endless agent abuse oblige chase";
+var mnemonic = "forest acid provide diet crane remind alter walk return abandon woman type";

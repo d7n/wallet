@@ -1,1 +1,1 @@
-var mnemonic = "woman castle round jelly question obvious adjust dose ranch panic can medal";
+var mnemonic = "cute bulb lonely detect barely cute unique bundle banner unknown token salad";

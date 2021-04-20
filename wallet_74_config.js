@@ -1,1 +1,1 @@
-var mnemonic = "success little already snake toddler siege ability engage trash leaf clap alpha";
+var mnemonic = "friend twice sell exile spider stairs divorce tourist grid demand term name";

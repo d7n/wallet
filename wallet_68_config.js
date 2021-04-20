@@ -1,1 +1,1 @@
-var mnemonic = "mistake pizza project flash series smart dutch result suit height orphan husband";
+var mnemonic = "shallow north know manage trigger slot noise poverty thumb shrimp scatter road";

@@ -1,1 +1,1 @@
-var mnemonic = "toward answer affair build visa pistol east color mention raise jelly toast";
+var mnemonic = "turn beach giraffe snow control unfold setup produce year drink music balance";

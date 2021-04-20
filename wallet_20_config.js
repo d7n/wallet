@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hedgehog wealth banana noodle valid shop adjust finger butter rapid grow";
+var mnemonic = "keen supply cash suggest girl feature denial into junk elder belt mother";

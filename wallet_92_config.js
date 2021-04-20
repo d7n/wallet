@@ -1,1 +1,1 @@
-var mnemonic = "myth question orange jungle medal roof grow effort real female loyal duty";
+var mnemonic = "law female muffin monkey document tag voyage dad tuition file want palm";

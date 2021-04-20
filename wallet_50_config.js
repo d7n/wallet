@@ -1,1 +1,1 @@
-var mnemonic = "duty attack economy boring blade spend pipe clip bike biology deal awake";
+var mnemonic = "inquiry slogan lesson alter laugh flag depth range wine absent fan prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "photo host provide caught office dirt doll jaguar furnace olive diet help";
+var mnemonic = "future coffee family adapt daring truth lava silver gospel embrace victory scout";

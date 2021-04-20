@@ -1,1 +1,1 @@
-var mnemonic = "era exchange youth inflict pudding curious food cherry trip river caught you";
+var mnemonic = "tip axis jungle gospel staff venue chalk swallow approve start recipe sense";

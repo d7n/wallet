@@ -1,1 +1,1 @@
-var mnemonic = "situate manage evolve fashion just salmon nest harsh cream jewel hazard clown";
+var mnemonic = "public outside foam twice fitness oppose diet also robot bunker before service";
