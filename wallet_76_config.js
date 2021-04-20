@@ -1,1 +1,1 @@
-var mnemonic = "pool fantasy error fitness dry empower term champion pact second more dune";
+var mnemonic = "nut invite ocean visual unfair connect theme portion walk express filter buffalo";

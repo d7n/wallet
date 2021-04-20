@@ -1,1 +1,1 @@
-var mnemonic = "shoot inmate birth matrix sugar umbrella jungle toast bone river glide recipe";
+var mnemonic = "heart income shop devote name note connect donkey this brain dentist juice";

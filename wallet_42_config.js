@@ -1,1 +1,1 @@
-var mnemonic = "clap decrease blossom slight syrup segment fuel icon alcohol cook ball potato";
+var mnemonic = "dolphin purity hello seek gap ski myself divide dignity buddy churn dinner";

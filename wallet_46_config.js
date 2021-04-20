@@ -1,1 +1,1 @@
-var mnemonic = "praise peasant script task history rubber force market swamp flame green very";
+var mnemonic = "ready letter panic want motion jaguar apology practice margin catch side west";

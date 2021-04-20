@@ -1,1 +1,1 @@
-var mnemonic = "volume leg opinion dog funny penalty initial now possible scorpion fury fitness";
+var mnemonic = "diary garment trust wrap list kitten sell jump equip fox saddle rail";

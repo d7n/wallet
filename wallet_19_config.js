@@ -1,1 +1,1 @@
-var mnemonic = "muscle crush size exhaust rain menu nuclear among cause scatter naive flag";
+var mnemonic = "bar pottery poet pistol giant citizen urban certain text letter blossom buzz";

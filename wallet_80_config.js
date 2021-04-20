@@ -1,1 +1,1 @@
-var mnemonic = "short empower mouse obtain shrug photo midnight ice corn walnut voyage lucky";
+var mnemonic = "poet desk truck nose abstract orient funny alone assist pact tourist surge";

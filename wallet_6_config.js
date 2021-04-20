@@ -1,1 +1,1 @@
-var mnemonic = "million mass mix uphold weird question dog slow stairs victory pool ugly";
+var mnemonic = "funny amazing toward exhibit gorilla museum pull major wrap mansion alter myth";

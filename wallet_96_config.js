@@ -1,1 +1,1 @@
-var mnemonic = "knock pizza win trumpet describe scissors wagon devote raccoon brief excess wise";
+var mnemonic = "brisk spot spin era you library woman glass clay explain head gap";

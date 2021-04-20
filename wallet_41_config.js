@@ -1,1 +1,1 @@
-var mnemonic = "code snow pave huge raise among rate movie aspect junior donkey insane";
+var mnemonic = "cool unique wreck leopard collect link smooth later great cute case seat";

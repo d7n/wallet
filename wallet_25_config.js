@@ -1,1 +1,1 @@
-var mnemonic = "spike advance thumb balance then glide perfect bus trouble leisure nuclear click";
+var mnemonic = "innocent hollow under income ticket blind ceiling file consider goddess jazz entire";

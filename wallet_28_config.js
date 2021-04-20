@@ -1,1 +1,1 @@
-var mnemonic = "load jewel bike cabbage mention unusual school absent tackle people muffin dinner";
+var mnemonic = "blade grocery they life shiver accident sibling follow amused unveil firm forum";

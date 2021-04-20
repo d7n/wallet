@@ -1,1 +1,1 @@
-var mnemonic = "arch expire tiger draw nasty birth match shallow lemon uncle van flash";
+var mnemonic = "fatal theme vanish ostrich brass female panda kitchen silent penalty bind tiny";

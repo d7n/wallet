@@ -1,1 +1,1 @@
-var mnemonic = "mixed race early ripple mutual fatal aisle ship idle rotate shield debris";
+var mnemonic = "royal raw robust decrease episode arctic copper own better cherry client foil";

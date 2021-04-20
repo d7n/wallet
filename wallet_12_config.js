@@ -1,1 +1,1 @@
-var mnemonic = "people select raccoon neither predict envelope innocent volume lemon roof monkey drill";
+var mnemonic = "secret tornado idle multiply garlic horn witness wheat vibrant arch shrug viable";

@@ -1,1 +1,1 @@
-var mnemonic = "key visit second want hybrid wolf effort meat income unaware same husband";
+var mnemonic = "net happy fossil fiber among dress goose never sweet tool office bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "sell crash three length invest shift scrap regret blouse comic prosper acquire";
+var mnemonic = "unit bargain parade air solution reward now left twin rich summer kangaroo";

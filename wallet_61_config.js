@@ -1,1 +1,1 @@
-var mnemonic = "arm stumble blood cancel rabbit champion cinnamon please engine double impose envelope";
+var mnemonic = "enhance adjust unhappy maze cabin quit convince time develop outer oak own";

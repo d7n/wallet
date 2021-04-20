@@ -1,1 +1,1 @@
-var mnemonic = "abuse ecology category addict move lucky elder decide success fossil trial core";
+var mnemonic = "outer diary pull fresh path globe goat toilet cute minor panda ankle";

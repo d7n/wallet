@@ -1,1 +1,1 @@
-var mnemonic = "young science orchard feature attract sun alarm eternal kind guide ghost recycle";
+var mnemonic = "state run idea game icon office toss donate reopen long expand fault";

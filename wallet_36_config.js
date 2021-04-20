@@ -1,1 +1,1 @@
-var mnemonic = "water spread task void blush average beach two letter toss auto frequent";
+var mnemonic = "gown insane skill wrestle art service cream number net smooth someone slight";

@@ -1,1 +1,1 @@
-var mnemonic = "steak mule pulp ribbon chef shop copy police tone crawl announce enrich";
+var mnemonic = "thumb spread runway shove brand exact sure cattle access eternal math rival";

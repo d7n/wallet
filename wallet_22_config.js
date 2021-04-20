@@ -1,1 +1,1 @@
-var mnemonic = "actor prepare judge must stem subject situate dash chronic certain promote hazard";
+var mnemonic = "pet useful rely tone duck truck grass defense knife arch beef until";

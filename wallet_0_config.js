@@ -1,1 +1,1 @@
-var mnemonic = "buffalo bus lounge settle object emerge north warrior poet license chest snap";
+var mnemonic = "scheme evil verify pioneer venture tell eye hen slam make antique similar";

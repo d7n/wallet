@@ -1,1 +1,1 @@
-var mnemonic = "express copy report approve source day inherit wear grid fatigue ensure relief";
+var mnemonic = "evoke exotic glad box able uncover rescue tomato sign equal genuine argue";

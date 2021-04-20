@@ -1,1 +1,1 @@
-var mnemonic = "outer ankle critic where tongue boil scheme blade message crucial early like";
+var mnemonic = "nominee maximum sea coffee act cancel lift first fluid test enable spring";

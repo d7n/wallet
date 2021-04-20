@@ -1,1 +1,1 @@
-var mnemonic = "magic warfare fit develop face become body slogan notable master kangaroo move";
+var mnemonic = "bundle jazz tent couple advance universe ocean pony stamp join amused comic";

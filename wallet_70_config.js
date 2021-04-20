@@ -1,1 +1,1 @@
-var mnemonic = "hurry web artwork match cover tell fork type antenna club tone fun";
+var mnemonic = "brand fantasy live route organ warrior material print label live roof clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "begin next body argue sniff weekend sure vapor pond angle rapid shop";
+var mnemonic = "whip patrol bone neck equal total equip display extra alert month canoe";

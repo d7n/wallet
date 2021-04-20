@@ -1,1 +1,1 @@
-var mnemonic = "tomato sample dwarf evolve order arrange original zero peace donor apple lawsuit";
+var mnemonic = "load laptop wheel decline tiny trigger retire club recall rug service kid";

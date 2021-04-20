@@ -1,1 +1,1 @@
-var mnemonic = "note humor silent range shoot consider orchard mix theory ignore material use";
+var mnemonic = "man either situate impact false match chicken hobby human range require artwork";

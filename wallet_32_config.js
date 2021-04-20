@@ -1,1 +1,1 @@
-var mnemonic = "october better skin slam exist dinosaur worry velvet fog fog wolf scan";
+var mnemonic = "fashion dad huge below turkey apart come furnace eight bring settle armor";

@@ -1,1 +1,1 @@
-var mnemonic = "ride deny cram coffee tumble dial sunny loan also myself project fringe";
+var mnemonic = "curve electric cruise galaxy unique deliver cute pole source hold forest occur";

@@ -1,1 +1,1 @@
-var mnemonic = "border ready energy want life dress float fury forest order search medal";
+var mnemonic = "heart olive robot group morning erosion enjoy original around runway dial nephew";

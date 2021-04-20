@@ -1,1 +1,1 @@
-var mnemonic = "bag stay clarify critic kingdom replace interest pistol depth spoil room cram";
+var mnemonic = "fitness erupt design excite one basket cloud bitter claw churn grid acid";

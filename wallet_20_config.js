@@ -1,1 +1,1 @@
-var mnemonic = "attract people lonely exist neutral where exhibit envelope bachelor aim recipe broccoli";
+var mnemonic = "chest relief tube off symptom garment weird review uncover confirm math convince";

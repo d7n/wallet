@@ -1,1 +1,1 @@
-var mnemonic = "sort twin popular media reunion property bubble promote universe speed joke like";
+var mnemonic = "much pluck pencil silk gentle force teach spoil salad uncover energy soccer";

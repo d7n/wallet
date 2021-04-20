@@ -1,1 +1,1 @@
-var mnemonic = "orient tuition grass blame soccer kangaroo dice snap lonely garbage opera galaxy";
+var mnemonic = "what agree buffalo zone aware piano airport gaze radar assume solution harbor";

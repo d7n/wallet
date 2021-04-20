@@ -1,1 +1,1 @@
-var mnemonic = "culture tube vibrant crawl margin crucial rally twelve fragile language secret offer";
+var mnemonic = "sword gospel receive sand rapid cat wide dolphin short humor curtain belt";

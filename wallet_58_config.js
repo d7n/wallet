@@ -1,1 +1,1 @@
-var mnemonic = "letter stone test rescue menu circle crowd devote video until head jacket";
+var mnemonic = "section rigid undo breeze guess copper caution gesture card marine jacket shell";

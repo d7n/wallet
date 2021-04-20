@@ -1,1 +1,1 @@
-var mnemonic = "illness nuclear retreat simple model lion warfare lottery journey possible lumber explain";
+var mnemonic = "minimum steak brown dose liquid donkey business spoil smart spray tone abstract";

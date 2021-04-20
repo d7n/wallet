@@ -1,1 +1,1 @@
-var mnemonic = "flame oil expand universe leave demand fish cup clerk rescue amazing garbage";
+var mnemonic = "walk edit obtain unit brain seed pottery abstract region chronic man bundle";

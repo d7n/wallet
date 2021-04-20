@@ -1,1 +1,1 @@
-var mnemonic = "together tissue input own chapter nuclear south wrap say dress file library";
+var mnemonic = "group valid devote frost mule gaze unveil evolve cruel egg own cash";

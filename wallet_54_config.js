@@ -1,1 +1,1 @@
-var mnemonic = "subway bamboo suspect wrong profit squirrel recall lens disease liquid swallow relax";
+var mnemonic = "dinner journey method illness tomato depend mother cotton favorite raccoon sweet apology";

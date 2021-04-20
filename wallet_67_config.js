@@ -1,1 +1,1 @@
-var mnemonic = "cushion help obtain wrap loud pulp soldier awake cream analyst adult until";
+var mnemonic = "wrap curious fitness winner blouse monitor scheme end wing together pledge myth";

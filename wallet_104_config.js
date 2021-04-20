@@ -1,1 +1,1 @@
-var mnemonic = "tissue dignity check puppy public ancient venture try arrive diagram scrap confirm";
+var mnemonic = "gossip wide beyond sugar senior payment laptop absorb skirt voice gap gift";

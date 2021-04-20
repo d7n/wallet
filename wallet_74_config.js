@@ -1,1 +1,1 @@
-var mnemonic = "ceiling blue cheese fly auto sword bonus meat smart shadow shy spoon";
+var mnemonic = "bench lemon vintage loyal input sleep track fat slight angle whip music";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete skill nuclear inner imitate fossil height health two arrow immune boring";
+var mnemonic = "gravity furnace evolve shine scrub common nation father diagram purpose fashion viable";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt kingdom already spend barely dinosaur over yard company cover ethics desert";
+var mnemonic = "honey tank chair kid mad immune patrol cinnamon rack model similar menu";

@@ -1,1 +1,1 @@
-var mnemonic = "beach vibrant blouse family solution evil garage canal banana upon brief rhythm";
+var mnemonic = "measure else undo avocado analyst stem dance history nose rescue river tail";

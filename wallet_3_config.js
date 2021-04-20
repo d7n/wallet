@@ -1,1 +1,1 @@
-var mnemonic = "skirt exotic kind brisk mountain hockey where paper adapt heart ginger misery";
+var mnemonic = "robust person over tape purse dentist tenant aunt desert fluid rice view";

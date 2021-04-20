@@ -1,1 +1,1 @@
-var mnemonic = "usual tackle dance immune mystery rare false left powder glide donate winner";
+var mnemonic = "verify enforce say comic plate sign midnight lobster west worth congress wild";

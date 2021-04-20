@@ -1,1 +1,1 @@
-var mnemonic = "sister burst ketchup kiwi addict wood unlock resemble make omit negative planet";
+var mnemonic = "crisp express guide arctic cloth furnace steak laugh current soft salmon jacket";

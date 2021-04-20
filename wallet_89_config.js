@@ -1,1 +1,1 @@
-var mnemonic = "order spy zone property machine mention into area wood exist today appear";
+var mnemonic = "venue balcony analyst afraid sting chapter spirit torch lake vivid hill paper";

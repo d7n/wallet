@@ -1,1 +1,1 @@
-var mnemonic = "nuclear tornado sorry venue caught sell nose ostrich dinner attend remind earn";
+var mnemonic = "alert city vicious solid usage crumble title access flush clock mobile cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "regret reveal good diet lemon pistol rib anxiety silent burden negative update";
+var mnemonic = "session cushion team bicycle tackle glad coyote diary inch argue front spare";

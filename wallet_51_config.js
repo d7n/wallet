@@ -1,1 +1,1 @@
-var mnemonic = "crater link eye exclude start aerobic scheme common host swift moment sea";
+var mnemonic = "initial nerve suit egg neither nuclear final rare butter also rigid cotton";

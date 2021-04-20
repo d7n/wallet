@@ -1,1 +1,1 @@
-var mnemonic = "derive soda young run improve sand turtle final divorce route predict ill";
+var mnemonic = "bounce hour health alone bind broccoli announce absorb holiday ostrich vague antique";

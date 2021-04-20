@@ -1,1 +1,1 @@
-var mnemonic = "peasant fiction toddler present deliver loop right throw hello ankle short chimney";
+var mnemonic = "close sword odor vintage bag print same assume wait churn buffalo escape";

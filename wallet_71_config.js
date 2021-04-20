@@ -1,1 +1,1 @@
-var mnemonic = "hero art voyage muscle potato night news ten tuition idea nature wolf";
+var mnemonic = "armed tuna ride crunch upgrade force dolphin debate confirm develop riot text";

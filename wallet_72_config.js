@@ -1,1 +1,1 @@
-var mnemonic = "great practice food course wolf rose kite such dove minute use capital";
+var mnemonic = "dance farm range tip submit deal inflict blame empower slow mango hello";

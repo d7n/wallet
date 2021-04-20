@@ -1,1 +1,1 @@
-var mnemonic = "park ignore oil walk snake slim female illegal grit middle switch glove";
+var mnemonic = "squirrel idle slab track tourist forget okay decorate smile adult pair family";

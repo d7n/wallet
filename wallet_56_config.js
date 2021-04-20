@@ -1,1 +1,1 @@
-var mnemonic = "carpet island mirror purse flavor sun say special around eight buyer sugar";
+var mnemonic = "farm smart hunt weird imitate pioneer guess build gesture snow clerk spin";

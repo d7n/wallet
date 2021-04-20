@@ -1,1 +1,1 @@
-var mnemonic = "afford snow gorilla kick forget wall hedgehog settle float bounce scan switch";
+var mnemonic = "goddess earth review spread unhappy clinic butter urban misery seek collect dish";

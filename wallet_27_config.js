@@ -1,1 +1,1 @@
-var mnemonic = "capital annual general sustain april canoe cliff champion drift bread hen spoon";
+var mnemonic = "hire waste ghost rule chest cake find misery approve spoil diamond debate";

@@ -1,1 +1,1 @@
-var mnemonic = "park nothing torch kingdom legend organ cherry capital else pipe magic danger";
+var mnemonic = "resemble planet north soldier edit flag balcony fashion seven wife silver grief";

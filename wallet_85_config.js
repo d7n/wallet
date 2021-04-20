@@ -1,1 +1,1 @@
-var mnemonic = "silent goose old denial asset pelican city stadium entry they lake silent";
+var mnemonic = "illegal true faith mixture midnight bamboo van risk camp siren pottery paper";

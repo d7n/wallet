@@ -1,1 +1,1 @@
-var mnemonic = "hamster basket love shoot badge action tower manual dutch youth brother drill";
+var mnemonic = "safe soap believe knock scene net horse rubber orchard soft leader february";

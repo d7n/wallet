@@ -1,1 +1,1 @@
-var mnemonic = "alert polar laundry siren ostrich squeeze forum picture virus already scrap cycle";
+var mnemonic = "join share raise danger sword neck vessel spawn spread flip twenty only";

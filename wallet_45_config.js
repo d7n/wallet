@@ -1,1 +1,1 @@
-var mnemonic = "absorb mansion style ankle accident legal liberty utility diagram reveal drive name";
+var mnemonic = "occur phrase trade analyst thunder verify item cash insane galaxy shy exhaust";

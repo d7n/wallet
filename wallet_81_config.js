@@ -1,1 +1,1 @@
-var mnemonic = "around eager wood globe gate slim they blouse punch anger second you";
+var mnemonic = "divorce steak apple describe endless trust spawn mask figure they possible blade";

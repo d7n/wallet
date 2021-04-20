@@ -1,1 +1,1 @@
-var mnemonic = "shrug daring account umbrella nothing hobby cook organ hello silver question range";
+var mnemonic = "usage mammal edge enlist lunar torch dice forget tuna rescue between job";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty cage guard couple inside net april day vanish gold judge suspect";
+var mnemonic = "staff romance bronze grunt bubble decrease hope husband solid feel glance kidney";

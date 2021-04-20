@@ -1,1 +1,1 @@
-var mnemonic = "warfare luggage flush biology clerk finish umbrella link course leave van actress";
+var mnemonic = "glove convince length danger boss response anger grab animal uncover liar stem";

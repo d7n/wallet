@@ -1,1 +1,1 @@
-var mnemonic = "humor exercise motor display silk tissue myth sort edit term intact fat";
+var mnemonic = "observe van below fashion street elite famous sing access chalk peace flip";

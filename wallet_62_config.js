@@ -1,1 +1,1 @@
-var mnemonic = "tumble rely federal kite piano search pride embark prevent have normal main";
+var mnemonic = "afford execute pepper obtain pottery away clarify script slogan love parrot dance";

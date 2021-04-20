@@ -1,1 +1,1 @@
-var mnemonic = "actual glass erase simple able flight chapter course unique flush spy evil";
+var mnemonic = "jeans find sphere entire record street mirror guess gossip length logic space";

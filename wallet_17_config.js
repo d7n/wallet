@@ -1,1 +1,1 @@
-var mnemonic = "hero taxi butter arctic era token clever blush soldier flavor tragic dust";
+var mnemonic = "stock elite body minimum draw jungle cradle antenna either express record profit";

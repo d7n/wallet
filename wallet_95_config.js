@@ -1,1 +1,1 @@
-var mnemonic = "appear smooth year boring sing truth slow social corn engage orient distance";
+var mnemonic = "fetch color film chronic movie away trophy tornado reject license cricket spoil";

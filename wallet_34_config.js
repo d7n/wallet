@@ -1,1 +1,1 @@
-var mnemonic = "slow deputy hip detail jaguar smile cover royal will poverty exclude pluck";
+var mnemonic = "border opera coin album february fix camp check crystal mean rotate gasp";

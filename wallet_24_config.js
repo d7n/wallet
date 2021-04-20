@@ -1,1 +1,1 @@
-var mnemonic = "game soda unable service rely swing clay loyal thrive best green broccoli";
+var mnemonic = "quarter marriage visual hobby love argue sail treat drink fury pig squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge hip chalk jungle pill clip egg view vivid cloud similar response";
+var mnemonic = "penalty pig pioneer rival plug use artefact faint success head mushroom robust";

@@ -1,1 +1,1 @@
-var mnemonic = "alien curtain rule shift ostrich forward cover attract palm merry purpose lyrics";
+var mnemonic = "trick fall found erupt company prefer mimic hood lamp live initial exact";

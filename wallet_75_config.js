@@ -1,1 +1,1 @@
-var mnemonic = "pretty civil wrong jazz chuckle desert festival arena vault sight quiz salt";
+var mnemonic = "tobacco believe detect any powder into absurd arrow vault ice know fire";
