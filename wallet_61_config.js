@@ -1,1 +1,1 @@
-var mnemonic = "zebra end kingdom trophy weather wing arrow sound ivory meadow upgrade shallow";
+var mnemonic = "demand note leopard pioneer champion goddess sound chicken whip help acid milk";

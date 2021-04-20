@@ -1,1 +1,1 @@
-var mnemonic = "raven milk group inspire expire steak setup broom inch exclude crater cake";
+var mnemonic = "laundry car garment phone idle laugh arctic taxi abstract exist price neck";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle series just pill habit topic arrow subject canoe coral play tube";
+var mnemonic = "fetch boost certain lecture candy swear blade verify huge pioneer bargain safe";

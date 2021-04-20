@@ -1,1 +1,1 @@
-var mnemonic = "harsh typical owner endless code perfect path before eagle write outer stay";
+var mnemonic = "rigid trap sketch fruit approve two affair approve life stadium huge glide";

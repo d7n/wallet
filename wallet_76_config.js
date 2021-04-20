@@ -1,1 +1,1 @@
-var mnemonic = "below salad wear real bonus buyer almost lottery small extra february include";
+var mnemonic = "spatial business fine input novel uphold intact deny guilt crack couch culture";

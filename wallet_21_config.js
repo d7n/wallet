@@ -1,1 +1,1 @@
-var mnemonic = "pelican door stone come pass modify glance east fly little scissors aim";
+var mnemonic = "verb merry gentle odor pill beauty drastic sick carry apart country begin";

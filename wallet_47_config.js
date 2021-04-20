@@ -1,1 +1,1 @@
-var mnemonic = "narrow example jar nurse build such increase pull hope push right august";
+var mnemonic = "liquid discover lumber dove wet misery nerve anxiety soon pelican elder arrive";

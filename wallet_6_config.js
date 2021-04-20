@@ -1,1 +1,1 @@
-var mnemonic = "math mention pencil range error denial debate cannon flavor celery various dolphin";
+var mnemonic = "price vast educate echo case bamboo collect surge include rebuild equal balcony";

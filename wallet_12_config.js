@@ -1,1 +1,1 @@
-var mnemonic = "destroy sign tape number bind electric picnic frost inquiry apology output flag";
+var mnemonic = "example near royal senior march agent example neutral isolate assist crumble valley";

@@ -1,1 +1,1 @@
-var mnemonic = "demand burst ripple margin glad run kangaroo engage fog puzzle price six";
+var mnemonic = "verify ask identify rebuild ten bleak force nose better universe awful tent";

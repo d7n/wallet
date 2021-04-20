@@ -1,1 +1,1 @@
-var mnemonic = "gravity fringe stone vintage abuse alley whale copper later vacant toss quarter";
+var mnemonic = "reveal relax chuckle knee tenant actress magnet forward reopen axis fragile suspect";

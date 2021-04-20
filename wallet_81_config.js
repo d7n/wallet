@@ -1,1 +1,1 @@
-var mnemonic = "pattern treat river obvious control blossom cover very volume clinic mountain kitten";
+var mnemonic = "around curve degree double tobacco betray rich follow always shop deputy shy";

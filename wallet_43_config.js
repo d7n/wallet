@@ -1,1 +1,1 @@
-var mnemonic = "scatter solar supreme cream spray bundle crew sell island guilt taste logic";
+var mnemonic = "laundry chaos orphan sphere essay east oppose chase unlock mercy analyst lunch";

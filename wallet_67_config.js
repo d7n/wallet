@@ -1,1 +1,1 @@
-var mnemonic = "okay blossom upset sea mechanic path trash amused bag vanish absurd sea";
+var mnemonic = "father age fetch zone process smile rare wool marine silent diet sad";

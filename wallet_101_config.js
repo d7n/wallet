@@ -1,1 +1,1 @@
-var mnemonic = "fly brain caution improve inherit moment oil access gesture risk drama machine";
+var mnemonic = "pulse click nation large stool grape table hero ranch floor jewel resource";

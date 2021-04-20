@@ -1,1 +1,1 @@
-var mnemonic = "famous list wide damp exercise soda clap media tape fitness artefact bounce";
+var mnemonic = "lesson travel pond noble renew public head february sample stone practice easy";

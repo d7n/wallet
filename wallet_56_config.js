@@ -1,1 +1,1 @@
-var mnemonic = "click tunnel relief piano leaf tongue voice fame flower tower extra bird";
+var mnemonic = "occur salt dutch abuse oxygen wasp brisk domain change voyage early original";

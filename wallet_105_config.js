@@ -1,1 +1,1 @@
-var mnemonic = "rice wrestle humble across maze lounge frog catalog away alien exit rally";
+var mnemonic = "blame brand clay often thank cheap all country next collect outer tragic";

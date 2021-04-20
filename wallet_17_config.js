@@ -1,1 +1,1 @@
-var mnemonic = "assault jaguar slogan task theory nest quote kangaroo crouch riot team story";
+var mnemonic = "else athlete meat lunch online dinner country corn method skin candy pool";

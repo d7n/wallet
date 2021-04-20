@@ -1,1 +1,1 @@
-var mnemonic = "melody magnet market between claim prosper turn hire blanket science first ability";
+var mnemonic = "ice citizen poverty upgrade brief virtual kite brisk balcony hope ridge regular";

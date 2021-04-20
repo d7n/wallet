@@ -1,1 +1,1 @@
-var mnemonic = "stay essay buddy citizen flavor neglect certain will charge pizza cook action";
+var mnemonic = "clean expand snack you inhale aware shell sweet surprise rent swim chef";

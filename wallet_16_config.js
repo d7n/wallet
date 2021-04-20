@@ -1,1 +1,1 @@
-var mnemonic = "sauce guitar humble okay despair federal radio caution barrel wide orient horn";
+var mnemonic = "length that treat lecture helmet remove struggle group repair primary moral omit";

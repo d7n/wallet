@@ -1,1 +1,1 @@
-var mnemonic = "kiwi clown below shaft chalk peace minimum despair absent treat lady client";
+var mnemonic = "glimpse humble online inmate enable frog until they motor trumpet better inform";

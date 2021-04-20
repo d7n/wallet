@@ -1,1 +1,1 @@
-var mnemonic = "amateur physical cancel chest century original comic office culture sign ancient fiscal";
+var mnemonic = "paddle uniform cinnamon stem enough sugar clerk blame inherit mask order renew";

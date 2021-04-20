@@ -1,1 +1,1 @@
-var mnemonic = "chapter friend wave culture plastic abandon behind tail ritual vivid warfare vehicle";
+var mnemonic = "infant plate arm lion elite wise mechanic wave rough inject excuse bunker";

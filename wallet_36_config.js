@@ -1,1 +1,1 @@
-var mnemonic = "mango team sample siren equip night rose survey friend give artefact sausage";
+var mnemonic = "rough deny empty title client diagram fire fly round kiwi boat acid";

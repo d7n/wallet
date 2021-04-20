@@ -1,1 +1,1 @@
-var mnemonic = "coffee tone stem broken wagon home vessel elephant celery belt enhance use";
+var mnemonic = "broccoli cave business nothing shed civil castle club prison scale toward sock";

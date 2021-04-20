@@ -1,1 +1,1 @@
-var mnemonic = "monkey easy satisfy dragon evil achieve typical category vehicle step approve response";
+var mnemonic = "fly dutch turkey bulk silly rebel major series square error program candy";

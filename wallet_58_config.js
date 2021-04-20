@@ -1,1 +1,1 @@
-var mnemonic = "giant edit wine method arrow vessel wealth couple angry dumb mixture leave";
+var mnemonic = "gravity slush trouble limit strike tunnel judge magic reduce mixture hat mom";

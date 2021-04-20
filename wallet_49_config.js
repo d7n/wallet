@@ -1,1 +1,1 @@
-var mnemonic = "toy success stove trash typical barrel frost hire problem upon celery phrase";
+var mnemonic = "clay divert zero circle hen foam mercy beyond sponsor point cycle hello";

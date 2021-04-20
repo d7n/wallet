@@ -1,1 +1,1 @@
-var mnemonic = "broken sponsor old cactus detect install convince measure easily forum category friend";
+var mnemonic = "churn melt climb february thrive furnace region custom renew glow salon flash";

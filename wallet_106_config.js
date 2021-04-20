@@ -1,1 +1,1 @@
-var mnemonic = "monitor sail tattoo soul legend undo deputy stone federal main often thought";
+var mnemonic = "destroy possible transfer fence congress gold entire zero federal carbon present poverty";

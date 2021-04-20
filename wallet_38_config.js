@@ -1,1 +1,1 @@
-var mnemonic = "quality pattern assume plate major stomach gas cabin gift polar pilot ill";
+var mnemonic = "craft virus motion two bitter clinic illegal reunion wedding riot size joke";

@@ -1,1 +1,1 @@
-var mnemonic = "bone cigar wasp waste print entire click truck cushion prefer guess diesel";
+var mnemonic = "baby hobby unable unaware satoshi cover cause panther car garment shy reduce";

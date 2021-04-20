@@ -1,1 +1,1 @@
-var mnemonic = "nerve finish script weekend sausage remember turn river girl gallery slide any";
+var mnemonic = "logic laundry claw advance water life language hidden grit stomach endless salt";

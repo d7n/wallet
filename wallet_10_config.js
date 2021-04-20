@@ -1,1 +1,1 @@
-var mnemonic = "sausage husband inherit toddler caution upgrade frozen hip track rug exhaust cereal";
+var mnemonic = "way cable guitar pitch million hood student obscure logic remain leave certain";

@@ -1,1 +1,1 @@
-var mnemonic = "initial detail liquid celery amused favorite dizzy shoe solid taste refuse sweet";
+var mnemonic = "powder ghost beach hospital universe frame nest rescue believe floor equal company";

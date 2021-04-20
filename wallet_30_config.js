@@ -1,1 +1,1 @@
-var mnemonic = "entry enemy arm occur board wasp torch embark quantum way bargain raccoon";
+var mnemonic = "snow cave track swarm large inherit step sea jaguar ripple smooth reason";

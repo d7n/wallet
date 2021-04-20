@@ -1,1 +1,1 @@
-var mnemonic = "neglect undo lend battle sausage eight tourist palace flash execute action ticket";
+var mnemonic = "force suspect cotton evoke floor pen brave plate cycle curious choice congress";

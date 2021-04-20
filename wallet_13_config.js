@@ -1,1 +1,1 @@
-var mnemonic = "rabbit inherit illness faith weasel lunar vibrant evolve goddess panther weapon dizzy";
+var mnemonic = "mansion broken imitate unique dream damp syrup deputy mango catalog consider amount";

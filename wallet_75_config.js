@@ -1,1 +1,1 @@
-var mnemonic = "grid ketchup region kingdom hint horn mystery flight check scare comic notice";
+var mnemonic = "ribbon buyer pony aunt multiply eager surge occur online onion rule enact";

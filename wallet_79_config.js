@@ -1,1 +1,1 @@
-var mnemonic = "armed paper memory staff fiber gas acoustic sock book sock notice surge";
+var mnemonic = "absurd tomato intact emotion total long gallery direct tomorrow joke clever frozen";

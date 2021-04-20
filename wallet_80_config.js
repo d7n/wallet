@@ -1,1 +1,1 @@
-var mnemonic = "radar spread paper draw utility truck title sound path library camera prize";
+var mnemonic = "meat peanut bag genuine rigid lyrics accuse mixed century nose corn virus";

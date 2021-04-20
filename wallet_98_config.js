@@ -1,1 +1,1 @@
-var mnemonic = "quick orphan diamond order chase meat nominee void juice length winter source";
+var mnemonic = "expect danger upset olympic proof planet taxi pool path stand sponsor bench";

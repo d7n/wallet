@@ -1,1 +1,1 @@
-var mnemonic = "enrich issue sick beach sugar ocean talent radio sport price moon enter";
+var mnemonic = "atom trade rib video much vote report banner nature inform now style";

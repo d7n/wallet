@@ -1,1 +1,1 @@
-var mnemonic = "smile meat voice tuition hour torch guess antique barrel output travel domain";
+var mnemonic = "brother short provide bean keep note elder eternal food debris any apology";

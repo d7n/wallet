@@ -1,1 +1,1 @@
-var mnemonic = "apple aerobic ginger smoke valid sausage crater badge hip come sight stool";
+var mnemonic = "skull winter imitate soup pulse silent fox code winter spoil web neither";

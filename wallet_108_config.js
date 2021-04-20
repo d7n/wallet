@@ -1,1 +1,1 @@
-var mnemonic = "august shuffle oak shiver thrive anxiety swap figure plate exact inspire demise";
+var mnemonic = "north clean valley pulp able angry captain convince horn color try hand";

@@ -1,1 +1,1 @@
-var mnemonic = "master oblige rice hawk leave page wild jazz volcano museum bunker real";
+var mnemonic = "hospital endless upset lobster apart asset quality crucial frost core fever rich";

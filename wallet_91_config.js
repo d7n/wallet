@@ -1,1 +1,1 @@
-var mnemonic = "anxiety fun milk joke certain before salt time hollow soap just crime";
+var mnemonic = "chat tag pattern flavor talent luggage cool huge buffalo memory segment brick";

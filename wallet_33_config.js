@@ -1,1 +1,1 @@
-var mnemonic = "crazy source north average brother parade surface glide foil loan wall crop";
+var mnemonic = "final desert worry oak ostrich cherry tumble flight vintage dance spatial old";

@@ -1,1 +1,1 @@
-var mnemonic = "section entry jazz labor picnic case gasp razor glare sample scene hero";
+var mnemonic = "live minute design shoot quality quality venue coin apple melody symptom work";

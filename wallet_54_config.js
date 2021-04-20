@@ -1,1 +1,1 @@
-var mnemonic = "top actor ladder small weasel veteran upgrade brick citizen pink hockey exotic";
+var mnemonic = "crush math vague sadness opera trip culture vanish mention myself cook fan";

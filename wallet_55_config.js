@@ -1,1 +1,1 @@
-var mnemonic = "market naive robust kingdom else replace can useless disagree east loyal check";
+var mnemonic = "put capital odor spoon rigid bubble anxiety capable raccoon item check phone";

@@ -1,1 +1,1 @@
-var mnemonic = "embody crush taxi surprise visual thrive wild resist pottery snap merry cricket";
+var mnemonic = "balance margin ethics like success zone acid shaft hood robust thought slim";

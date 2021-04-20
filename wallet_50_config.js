@@ -1,1 +1,1 @@
-var mnemonic = "crop lava victory olive entire decade castle dignity nice oil empty drive";
+var mnemonic = "develop clever gold inspire divorce expand stock act atom winter add good";

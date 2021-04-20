@@ -1,1 +1,1 @@
-var mnemonic = "delay toward cliff split that guitar fragile coconut surface draw interest scissors";
+var mnemonic = "elbow size popular robot swift balcony school stereo soon reason true spare";

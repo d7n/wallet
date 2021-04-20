@@ -1,1 +1,1 @@
-var mnemonic = "face hood ticket wrap robust recycle empty yard opera romance emotion dune";
+var mnemonic = "maple task timber unhappy act heavy roast atom damp crumble need head";

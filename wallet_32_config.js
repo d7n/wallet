@@ -1,1 +1,1 @@
-var mnemonic = "live diesel angry scale two buddy dress weapon total actual once stadium";
+var mnemonic = "stamp favorite across ostrich era subway genre potato snow nurse smart advice";

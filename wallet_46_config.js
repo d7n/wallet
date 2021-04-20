@@ -1,1 +1,1 @@
-var mnemonic = "impact error another whisper cloth armed capital bachelor link frost below jungle";
+var mnemonic = "frog banner auto tail arrange used brief goat virtual obey seminar witness";

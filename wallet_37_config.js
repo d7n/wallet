@@ -1,1 +1,1 @@
-var mnemonic = "sick service enrich dish leisure gas session regular token siren comic member";
+var mnemonic = "cactus local gauge spread unable help coffee avocado brush resist rice scan";

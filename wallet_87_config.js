@@ -1,1 +1,1 @@
-var mnemonic = "nation sure clean belt flash expire cage betray bid reopen atom pulp";
+var mnemonic = "runway vapor pledge aisle nuclear dress stadium exile canyon seven much yellow";

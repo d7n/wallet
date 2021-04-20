@@ -1,1 +1,1 @@
-var mnemonic = "manage fragile pole bitter split art cabin canal clutch naive depth suit";
+var mnemonic = "easily gift cup sick ribbon govern evil stock attend army subject together";

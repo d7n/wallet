@@ -1,1 +1,1 @@
-var mnemonic = "sample peanut police brave soap asset author ride lift eager possible wear";
+var mnemonic = "spell cattle autumn salute unveil true surface tomorrow resource cross vault region";

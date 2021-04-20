@@ -1,1 +1,1 @@
-var mnemonic = "acoustic chair tell shed maze useless hurt alter purpose trap brain celery";
+var mnemonic = "silk thank banana reveal enforce donor bread want doll float harbor obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson comic harvest cruise engage alter keep six arm comic suffer cherry";
+var mnemonic = "list beef zone cry sunny fortune vessel sniff remove tone able sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella exhaust spawn recipe garment warm success laundry museum prize banner pottery";
+var mnemonic = "turn run myth type duck frost motion rent debris seed bless shrimp";

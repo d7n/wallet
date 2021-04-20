@@ -1,1 +1,1 @@
-var mnemonic = "devote file fat idle health elegant sorry pencil ridge guard blade attract";
+var mnemonic = "above pudding present wagon smile hamster garbage else ribbon gadget topic practice";

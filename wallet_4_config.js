@@ -1,1 +1,1 @@
-var mnemonic = "excuse still hello depth nuclear quit network civil december domain gate lottery";
+var mnemonic = "book million address yard skirt welcome lobster hazard cinnamon add scissors tower";

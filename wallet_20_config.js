@@ -1,1 +1,1 @@
-var mnemonic = "negative boy moon lunch skill all congress stock light winner describe clap";
+var mnemonic = "observe snap antenna sketch battle approve submit nut enforce entry average dismiss";

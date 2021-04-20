@@ -1,1 +1,1 @@
-var mnemonic = "reunion mind method brick blur town roast beauty sugar edge rose length";
+var mnemonic = "inhale approve lab unable link auction loop engine genuine embark cloth film";

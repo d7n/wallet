@@ -1,1 +1,1 @@
-var mnemonic = "pull square that wink gate fabric split kind damage exotic always kiwi";
+var mnemonic = "whip special universe ceiling broken slight panther demise mixture board wet ladder";

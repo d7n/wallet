@@ -1,1 +1,1 @@
-var mnemonic = "ivory hire add avocado pave buyer tip derive normal clock parent chair";
+var mnemonic = "hope cruise duty winner tragic diamond monkey gadget any opinion cost embark";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet distance axis finish journey remain owner donor keen mistake always over";
+var mnemonic = "glimpse attract slush neglect casual keep oyster mushroom travel olympic nature save";

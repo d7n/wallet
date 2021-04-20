@@ -1,1 +1,1 @@
-var mnemonic = "input tray scorpion also spend merge tide rural snack panel certain dish";
+var mnemonic = "gospel snake gorilla bag ten release private account gravity clarify tube profit";

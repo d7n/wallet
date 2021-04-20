@@ -1,1 +1,1 @@
-var mnemonic = "join stuff civil gorilla nerve airport innocent there vault picture unlock theme";
+var mnemonic = "ball wing april scatter arrow enemy fan ridge exile whip gate flight";

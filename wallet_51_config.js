@@ -1,1 +1,1 @@
-var mnemonic = "pair destroy warrior void wheat coin meadow muffin chicken cheap apart matrix";
+var mnemonic = "glide order shock hobby oven athlete ketchup cash key stairs donate cage";

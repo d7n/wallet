@@ -1,1 +1,1 @@
-var mnemonic = "prepare suggest envelope tattoo identify mom inquiry section undo canal exhaust harvest";
+var mnemonic = "where amused faint index view immune spy else hawk picture fence print";

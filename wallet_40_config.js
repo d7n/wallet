@@ -1,1 +1,1 @@
-var mnemonic = "giant pioneer table small winner panther draw monkey say step cream shell";
+var mnemonic = "candy fringe eternal cover view welcome clown wheel wasp helmet educate scheme";

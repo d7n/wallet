@@ -1,1 +1,1 @@
-var mnemonic = "perfect rather envelope battle cross tired elevator monitor vault blast lend march";
+var mnemonic = "friend ability detail glory beef usual ability steak melody draft jelly husband";

@@ -1,1 +1,1 @@
-var mnemonic = "cat badge plunge require foam cushion cover exchange scheme solid coral lock";
+var mnemonic = "still mom zone coil make bounce tiny anchor mix much mix embark";

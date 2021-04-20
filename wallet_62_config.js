@@ -1,1 +1,1 @@
-var mnemonic = "wood tree slab miracle custom melody use time fox amateur alpha athlete";
+var mnemonic = "response trick jealous doctor panel kingdom smile very program naive image forget";

@@ -1,1 +1,1 @@
-var mnemonic = "spare fuel license young satisfy quantum feel sweet coach artwork radar private";
+var mnemonic = "version slogan fall immune garment ecology echo adult wine shop language dragon";

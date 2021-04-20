@@ -1,1 +1,1 @@
-var mnemonic = "coral glow dose airport one aisle pulp chef another parrot jump holiday";
+var mnemonic = "cargo tragic ready tortoise display such rather problem ivory open urban space";

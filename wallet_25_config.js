@@ -1,1 +1,1 @@
-var mnemonic = "guide excess unfair latin worth obey group cupboard cycle violin pitch require";
+var mnemonic = "harsh hungry urge casino mandate diesel file moment post museum fragile crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "drive wild surround search legend shell pioneer use gospel dignity into cheese";
+var mnemonic = "december little lawsuit winner economy damage provide come auto adapt cheap loud";

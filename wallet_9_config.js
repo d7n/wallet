@@ -1,1 +1,1 @@
-var mnemonic = "radar mail give canal siren amateur act pelican science oil hold lava";
+var mnemonic = "cloud rural cricket elder current flag casual exit reward child agent erupt";

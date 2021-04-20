@@ -1,1 +1,1 @@
-var mnemonic = "spot liberty smoke august unhappy two same palm fault upset file version";
+var mnemonic = "topple arrive cube run release envelope canal inner sheriff timber fine shadow";

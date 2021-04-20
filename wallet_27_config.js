@@ -1,1 +1,1 @@
-var mnemonic = "educate transfer noble swim myself dizzy sketch recipe limb unusual special inform";
+var mnemonic = "hair reject boss basket people office slam beef anger race slender athlete";
