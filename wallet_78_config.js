@@ -1,1 +1,1 @@
-var mnemonic = "dash wrap small old soccer abuse screen rigid large dance feel abandon";
+var mnemonic = "foil style lawsuit often advance just over twin fancy also solve price";

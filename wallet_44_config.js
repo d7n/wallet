@@ -1,1 +1,1 @@
-var mnemonic = "force amateur client sight win extra world arm security sleep ice twenty";
+var mnemonic = "vital ask ignore noble broom mimic plunge badge danger ladder lawsuit warfare";

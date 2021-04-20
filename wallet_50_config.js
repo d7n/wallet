@@ -1,1 +1,1 @@
-var mnemonic = "cloud model figure gauge ostrich elephant glide view skirt cheap roof supreme";
+var mnemonic = "glow story firm surprise concert eye loan wealth wolf chief giraffe into";

@@ -1,1 +1,1 @@
-var mnemonic = "any foster comic loan memory garment theory wrong cactus grain anger net";
+var mnemonic = "evoke announce fat bean supply type cousin soccer mansion toast wife call";

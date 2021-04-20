@@ -1,1 +1,1 @@
-var mnemonic = "slide million beyond confirm culture yellow blur social bird build cruise fire";
+var mnemonic = "yellow lawn ordinary dirt early either damage argue cute fan helmet pause";

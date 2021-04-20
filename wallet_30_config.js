@@ -1,1 +1,1 @@
-var mnemonic = "machine gospel dignity labor fly face easy curtain arena purpose clown riot";
+var mnemonic = "grass sun exit lawsuit pen enrich total pony mixture blind intact crumble";

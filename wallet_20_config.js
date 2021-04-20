@@ -1,1 +1,1 @@
-var mnemonic = "okay sketch practice strategy bundle wheel powder kingdom zone trigger cigar blood";
+var mnemonic = "price nest emerge collect sorry media royal ship hotel total adult animal";

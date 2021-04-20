@@ -1,1 +1,1 @@
-var mnemonic = "object medal royal lunar demand interest shaft what high casino old winter";
+var mnemonic = "slot child wood doll clever ice finger useless lounge peasant twenty mosquito";

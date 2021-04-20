@@ -1,1 +1,1 @@
-var mnemonic = "pottery wife route noise rigid amount wild letter jump seed episode monitor";
+var mnemonic = "advance dragon shadow resist used warfare ritual dry match laptop badge rice";

@@ -1,1 +1,1 @@
-var mnemonic = "run struggle road pink art receive boat spin hope marine phrase expect";
+var mnemonic = "maze slender dinner frost ridge gospel will limb surge paddle stairs estate";

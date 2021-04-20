@@ -1,1 +1,1 @@
-var mnemonic = "sleep post security cargo unknown west hotel table scout column cloud extend";
+var mnemonic = "few strategy utility boring ranch celery assault coconut consider expose torch nurse";

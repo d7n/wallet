@@ -1,1 +1,1 @@
-var mnemonic = "fish chuckle neglect gym amount true nominee power agree pelican athlete pony";
+var mnemonic = "track palm seven system kit inflict sudden physical blanket pipe whip execute";

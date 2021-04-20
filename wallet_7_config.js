@@ -1,1 +1,1 @@
-var mnemonic = "between artefact access sudden fever stereo conduct toilet pencil diamond relax phone";
+var mnemonic = "supreme relax blanket early half figure mango like control pretty faculty soft";

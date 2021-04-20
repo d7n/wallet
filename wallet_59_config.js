@@ -1,1 +1,1 @@
-var mnemonic = "law merge sorry this pride leg thing choose true please want field";
+var mnemonic = "output pencil coconut capable visit diamond frog photo genius catch random jacket";

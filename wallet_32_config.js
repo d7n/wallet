@@ -1,1 +1,1 @@
-var mnemonic = "month jacket health capable relief mosquito junk faint ready skirt enable room";
+var mnemonic = "dismiss dutch wrist junk rich payment there neither february decorate useful gasp";

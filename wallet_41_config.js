@@ -1,1 +1,1 @@
-var mnemonic = "lazy summer soft author total october town inhale bronze girl plate vast";
+var mnemonic = "scare frequent identify express envelope citizen forest hazard bus token time video";

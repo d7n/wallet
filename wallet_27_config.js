@@ -1,1 +1,1 @@
-var mnemonic = "wreck filter lake rapid monitor perfect crane vendor crouch tuition hello ozone";
+var mnemonic = "lecture narrow mosquito connect crunch then virtual palm steel float twelve film";

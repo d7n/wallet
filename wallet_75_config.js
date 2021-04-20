@@ -1,1 +1,1 @@
-var mnemonic = "noodle taste tail net riot skull thought proof drop awesome film purpose";
+var mnemonic = "muscle net west pond poem defy blame inquiry once aim outside cattle";

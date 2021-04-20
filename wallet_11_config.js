@@ -1,1 +1,1 @@
-var mnemonic = "cradle retreat margin clay now merry arch pioneer flame craft now flight";
+var mnemonic = "notable shell record knock puppy essence aware midnight spoon donkey fox chase";

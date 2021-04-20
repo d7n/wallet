@@ -1,1 +1,1 @@
-var mnemonic = "resemble city chef risk crucial into labor require weasel index chimney puzzle";
+var mnemonic = "casual expand join home frozen onion physical subway tiger peace cotton elephant";

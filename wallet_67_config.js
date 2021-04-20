@@ -1,1 +1,1 @@
-var mnemonic = "session decorate alert doll arch december manual tattoo dolphin draw around giggle";
+var mnemonic = "slide extra unit animal purchase humble viable artwork wood daring bread tell";

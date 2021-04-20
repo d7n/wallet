@@ -1,1 +1,1 @@
-var mnemonic = "mobile cereal service jealous question stumble pigeon blast follow oil floor march";
+var mnemonic = "domain world mule era sting toy popular winter stone churn company huge";

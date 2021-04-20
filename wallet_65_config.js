@@ -1,1 +1,1 @@
-var mnemonic = "balance traffic merge near creek rapid collect autumn notable offer naive hard";
+var mnemonic = "bacon river siren rally blush shoulder federal gather medal fatal dish earth";

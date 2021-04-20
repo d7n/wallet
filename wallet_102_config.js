@@ -1,1 +1,1 @@
-var mnemonic = "extend item spike age enable price bus potato still soon more laptop";
+var mnemonic = "bridge shock notice hat seminar page drive joy noble toe vote human";

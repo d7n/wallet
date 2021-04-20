@@ -1,1 +1,1 @@
-var mnemonic = "coin argue fluid bird exercise diamond earn risk mass winter trim spirit";
+var mnemonic = "unable urban shadow whisper radio brand rural bicycle common true purpose jungle";

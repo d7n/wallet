@@ -1,1 +1,1 @@
-var mnemonic = "alley base vendor talent boy another curious mother supreme team this pottery";
+var mnemonic = "chef mammal connect blood adjust page organ shaft cluster ask image satisfy";

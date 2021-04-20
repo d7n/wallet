@@ -1,1 +1,1 @@
-var mnemonic = "raise annual vital scissors coffee detect bacon table stand clap oak route";
+var mnemonic = "put today cabbage matrix reward film huge praise young urge chuckle thing";

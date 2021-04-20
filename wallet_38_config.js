@@ -1,1 +1,1 @@
-var mnemonic = "beauty top exist arm sentence zebra fiber echo symptom maple enrich glide";
+var mnemonic = "wing festival fantasy sauce awake rival real combine human message supply invite";

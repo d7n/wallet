@@ -1,1 +1,1 @@
-var mnemonic = "rifle close impact winter penalty pistol sell still blind valley loop blue";
+var mnemonic = "aim sense coach source aisle churn nation deny have involve honey require";

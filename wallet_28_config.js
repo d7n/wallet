@@ -1,1 +1,1 @@
-var mnemonic = "trophy crowd apple eagle diary alter surge unit pair shuffle number ghost";
+var mnemonic = "critic robust pyramid enjoy fine canal whale neglect hire enjoy assist bar";

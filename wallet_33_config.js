@@ -1,1 +1,1 @@
-var mnemonic = "odor chronic much turn milk among trap universe grab gallery scissors twin";
+var mnemonic = "nothing teach naive kangaroo cool run easy alert must negative attitude trigger";

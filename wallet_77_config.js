@@ -1,1 +1,1 @@
-var mnemonic = "sand index cool crawl gloom rice exact punch receive arctic hammer cement";
+var mnemonic = "west sad check sustain urge supreme shell solid dirt speak smile mercy";

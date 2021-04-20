@@ -1,1 +1,1 @@
-var mnemonic = "energy muffin steak fossil elbow magic believe humble trigger cannon catch tag";
+var mnemonic = "category air auto swallow mosquito candy name enforce honey sell punch scale";

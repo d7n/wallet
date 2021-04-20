@@ -1,1 +1,1 @@
-var mnemonic = "armed museum rather time dust venture drama motor heavy couch payment lawsuit";
+var mnemonic = "sick gain scatter pig glue silly put ready near tragic mention blame";

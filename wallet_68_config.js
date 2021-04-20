@@ -1,1 +1,1 @@
-var mnemonic = "mind base decide tired smart avocado rural add capable flush text pencil";
+var mnemonic = "fox title final solve throw release output absurd subway pave direct scheme";

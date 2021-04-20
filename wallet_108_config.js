@@ -1,1 +1,1 @@
-var mnemonic = "wrap penalty erupt model edit age help palace chef oppose junk moment";
+var mnemonic = "friend milk slot pig august claw fluid dial unusual tuna shaft swear";

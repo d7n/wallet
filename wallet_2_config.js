@@ -1,1 +1,1 @@
-var mnemonic = "fashion lake cheap target monster depth fuel level budget mind race vintage";
+var mnemonic = "enhance uncover hungry recipe tomato ankle tongue luggage addict pet crater submit";

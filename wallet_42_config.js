@@ -1,1 +1,1 @@
-var mnemonic = "fabric reflect ordinary giraffe guide cancel citizen relax seat athlete okay used";
+var mnemonic = "south program peace advance trick bread ostrich split caution ripple spare fiction";

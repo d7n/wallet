@@ -1,1 +1,1 @@
-var mnemonic = "gloom forest smooth occur detail salt talk recall off benefit educate clap";
+var mnemonic = "cage kiss surface upset actor super alien opinion decline tuna safe tip";

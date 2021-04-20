@@ -1,1 +1,1 @@
-var mnemonic = "jungle phone blouse try artefact sorry satoshi else silk rent bubble mom";
+var mnemonic = "screen loop false record dove ensure lonely entry violin clock lecture minor";

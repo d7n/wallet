@@ -1,1 +1,1 @@
-var mnemonic = "song lock mixed speed carry report good fiction gap sand slender public";
+var mnemonic = "custom mom shed cigar sadness possible wrong verify lemon six expect sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "lend attract copper spice door manual room kiwi during stage super marriage";
+var mnemonic = "guitar multiply trap argue power clip route surprise quote mutual quantum path";

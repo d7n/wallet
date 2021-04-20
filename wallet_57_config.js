@@ -1,1 +1,1 @@
-var mnemonic = "hen wall silent celery power oxygen resource artist nasty develop oxygen mass";
+var mnemonic = "couch pyramid bicycle fancy leopard body maple axis output tray pencil half";

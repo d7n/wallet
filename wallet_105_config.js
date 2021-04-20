@@ -1,1 +1,1 @@
-var mnemonic = "ancient wild wave shift holiday amazing slide immense rule innocent unusual ethics";
+var mnemonic = "find orbit pride dash first region describe mass broken frame immense kingdom";

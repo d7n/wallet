@@ -1,1 +1,1 @@
-var mnemonic = "guide explain salt nut arrow tobacco spread sense anger spot shiver trophy";
+var mnemonic = "cool rent journey dry fetch edge disease never tonight wild pink jealous";

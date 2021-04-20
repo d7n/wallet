@@ -1,1 +1,1 @@
-var mnemonic = "episode describe observe arena cloud rescue quarter ostrich write sand distance panda";
+var mnemonic = "goose modify goddess under brand auction acoustic final cluster come cook small";

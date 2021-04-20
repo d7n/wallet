@@ -1,1 +1,1 @@
-var mnemonic = "mystery mercy coast chapter cook normal onion wonder pupil label area ripple";
+var mnemonic = "size infant strong canvas rebel menu culture trend husband enable harbor chronic";

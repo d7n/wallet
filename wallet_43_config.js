@@ -1,1 +1,1 @@
-var mnemonic = "now trim pole small inherit biology rent wash project proud flat focus";
+var mnemonic = "unfold employ develop giggle forum good draft build excite join digital pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "record cargo slim tree apple undo usage ceiling mechanic plastic roast leader";
+var mnemonic = "giraffe disagree copper horror help odor random brass achieve pony leisure harbor";

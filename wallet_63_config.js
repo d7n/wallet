@@ -1,1 +1,1 @@
-var mnemonic = "aisle finger mind admit summer olympic beach absorb magnet copy leopard possible";
+var mnemonic = "fog damp reduce hour hurt process drastic vicious change speed advice frame";

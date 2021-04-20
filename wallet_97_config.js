@@ -1,1 +1,1 @@
-var mnemonic = "shuffle fantasy pencil beyond point trash weapon pause bless purse romance actress";
+var mnemonic = "hint able rack artwork wealth whip slab limb flush robust oak route";

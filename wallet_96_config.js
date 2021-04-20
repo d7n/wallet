@@ -1,1 +1,1 @@
-var mnemonic = "pattern trigger purse scrub benefit talk ketchup toilet property vehicle soon van";
+var mnemonic = "opera river desk wool envelope artist govern model exhibit invest mobile trophy";

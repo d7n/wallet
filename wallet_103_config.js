@@ -1,1 +1,1 @@
-var mnemonic = "claim photo awesome note arrest secret stone dress clerk animal bottom then";
+var mnemonic = "thumb swamp private ordinary eight main paddle resist burger return aunt explain";

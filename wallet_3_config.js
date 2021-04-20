@@ -1,1 +1,1 @@
-var mnemonic = "coconut lonely husband dentist extend include soccer flat nature just silk van";
+var mnemonic = "curtain clever pulp ceiling combine shock apple float collect paper nephew doctor";

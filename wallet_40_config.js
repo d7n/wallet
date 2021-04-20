@@ -1,1 +1,1 @@
-var mnemonic = "spike humor enact tone submit option load alien pottery plastic reject crime";
+var mnemonic = "security odor message extra wire trim pet pencil latin crack ranch cause";

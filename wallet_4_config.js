@@ -1,1 +1,1 @@
-var mnemonic = "second together budget offer hero humble jewel river rain monkey extra wool";
+var mnemonic = "major bleak embody soda inspire poverty burden cage blur trophy banner sorry";

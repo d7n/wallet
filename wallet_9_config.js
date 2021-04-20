@@ -1,1 +1,1 @@
-var mnemonic = "blossom measure urban net orange egg wreck miracle club wear genre lottery";
+var mnemonic = "defense cover vault endless friend help report rude nasty axis depth shove";

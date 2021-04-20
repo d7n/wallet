@@ -1,1 +1,1 @@
-var mnemonic = "toast when bid boat case check cash eagle kite depart refuse across";
+var mnemonic = "sniff glimpse web symbol claim brisk swamp love kid option fat draw";

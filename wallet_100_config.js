@@ -1,1 +1,1 @@
-var mnemonic = "metal void stuff inner stand choose rookie hurdle start case orbit excite";
+var mnemonic = "awesome adapt oak gospel liberty drum need deliver vital nose name plunge";

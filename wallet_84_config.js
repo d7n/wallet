@@ -1,1 +1,1 @@
-var mnemonic = "trick unaware diamond heart risk tray rally sing give object afford sleep";
+var mnemonic = "erupt eye run height aim double leave title obey virtual oven magnet";

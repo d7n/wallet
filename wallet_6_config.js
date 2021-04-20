@@ -1,1 +1,1 @@
-var mnemonic = "grunt start then flat device wall culture ahead reward era tray amazing";
+var mnemonic = "twenty alarm idle rapid decorate embark thunder calm panic save rival upper";

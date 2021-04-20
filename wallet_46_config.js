@@ -1,1 +1,1 @@
-var mnemonic = "door episode relax butter tired excuse return off fence critic thing oven";
+var mnemonic = "danger basket supply symptom cabbage dust artist feel alien enjoy crumble urge";

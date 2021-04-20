@@ -1,1 +1,1 @@
-var mnemonic = "act average vibrant salad zone glide put layer erosion phone gossip segment";
+var mnemonic = "bamboo small thing topic bubble envelope sheriff enable wife slot sudden blouse";

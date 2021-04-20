@@ -1,1 +1,1 @@
-var mnemonic = "rely miss foot worry portion bronze earth pig print fall crew divorce";
+var mnemonic = "erupt mad ice admit advance mixed ski trouble project fuel venue sail";

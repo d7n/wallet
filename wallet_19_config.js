@@ -1,1 +1,1 @@
-var mnemonic = "shock rebel brick fox sample muscle wide clean tray piece comfort immense";
+var mnemonic = "bone pledge test come punch author abstract hope below share stand critic";

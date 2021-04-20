@@ -1,1 +1,1 @@
-var mnemonic = "ability force whale dwarf neutral used report snow man resist three neck";
+var mnemonic = "void bleak moon virus bracket upgrade column ozone trip wrap easy heart";

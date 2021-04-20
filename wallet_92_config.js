@@ -1,1 +1,1 @@
-var mnemonic = "retreat save snake suit model key equip travel fox trick daughter ball";
+var mnemonic = "spell spike plunge orange fit nice fold sick sunset theory palm like";

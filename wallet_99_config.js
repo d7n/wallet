@@ -1,1 +1,1 @@
-var mnemonic = "predict master detail claim loop child tackle rabbit resource provide square pill";
+var mnemonic = "journey page explain page battle country unveil focus fringe put phrase fragile";

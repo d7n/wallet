@@ -1,1 +1,1 @@
-var mnemonic = "shaft fun produce plug demand rebel grief alien fire milk tube typical";
+var mnemonic = "gossip prevent van organ casual bench explain weird shallow spot embrace bird";

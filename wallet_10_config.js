@@ -1,1 +1,1 @@
-var mnemonic = "giggle main spoon drink library shuffle spatial cotton split razor matter slide";
+var mnemonic = "town fringe faint roast february flock cargo company sting memory man elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "stand famous soccer share enact nature coyote casual minimum trigger enrich spirit";
+var mnemonic = "hover return flower film front proud thunder high occur quiz squirrel bulb";

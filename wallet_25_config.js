@@ -1,1 +1,1 @@
-var mnemonic = "venue decade choice depend put valid clown assist faint volcano sell family";
+var mnemonic = "autumn virus welcome scatter giggle brisk receive ticket dilemma urge agent stuff";

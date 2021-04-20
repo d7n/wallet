@@ -1,1 +1,1 @@
-var mnemonic = "gasp expand echo pioneer rigid robot case lion wrestle banana culture erode";
+var mnemonic = "prize tobacco dance february grit series clinic detect flower bomb decade license";

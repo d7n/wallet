@@ -1,1 +1,1 @@
-var mnemonic = "theory forward spread mobile recycle army smart planet try west absorb they";
+var mnemonic = "palm fringe gasp leisure then hair walk acid hire girl practice antique";

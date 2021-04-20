@@ -1,1 +1,1 @@
-var mnemonic = "super another entire opera trigger worth holiday ride frozen target any write";
+var mnemonic = "sense buddy tree rubber orphan citizen heart negative phone measure shop glad";

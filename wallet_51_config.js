@@ -1,1 +1,1 @@
-var mnemonic = "slogan plate dinosaur swallow marble denial dream road plug immune slide matrix";
+var mnemonic = "slam useful route improve permit pizza glory usual cruel drift educate rule";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano vast hidden solution disagree rally donate fringe obtain black travel page";
+var mnemonic = "gadget stick cargo awful upon robot effort transfer elite marriage tortoise pair";

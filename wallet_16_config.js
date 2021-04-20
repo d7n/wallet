@@ -1,1 +1,1 @@
-var mnemonic = "puzzle solar chief liar brave tiger climb grant early damage loyal warfare";
+var mnemonic = "cigar opera miracle rescue betray tonight snap knock warm canal proud project";

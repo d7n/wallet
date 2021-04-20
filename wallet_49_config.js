@@ -1,1 +1,1 @@
-var mnemonic = "invest derive weapon mask belt minute leopard next birth between sell tired";
+var mnemonic = "rubber nothing smooth crucial warrior about drive leave drastic veteran usage finish";

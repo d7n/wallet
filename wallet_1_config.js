@@ -1,1 +1,1 @@
-var mnemonic = "tip rocket fabric slight duck off reject mobile dial bone switch industry";
+var mnemonic = "satisfy outside wrong library soda burden breeze retreat zero budget climb creek";

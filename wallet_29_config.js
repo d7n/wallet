@@ -1,1 +1,1 @@
-var mnemonic = "zebra strike design route usage punch bone slush come pluck demand horse";
+var mnemonic = "curious valid garlic puppy harvest day evidence behind couch subject able crouch";

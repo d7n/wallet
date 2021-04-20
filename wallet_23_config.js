@@ -1,1 +1,1 @@
-var mnemonic = "over dress emotion wing refuse main like kingdom sponsor apology devote hope";
+var mnemonic = "tent rack hint ball adapt trigger length skirt canal noble recall grab";

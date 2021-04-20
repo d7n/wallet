@@ -1,1 +1,1 @@
-var mnemonic = "diesel easily teach robot soap gasp entry art slide person happy boy";
+var mnemonic = "mirror tilt flavor desk tent wolf limb hunt someone panic skull betray";

@@ -1,1 +1,1 @@
-var mnemonic = "december trap tent bar stand course melt upon soccer current walk hard";
+var mnemonic = "buddy session answer shed exhibit shock tank gentle celery afraid wild announce";

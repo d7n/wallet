@@ -1,1 +1,1 @@
-var mnemonic = "knee host regret welcome fit isolate drift label buddy oven risk runway";
+var mnemonic = "work economy tunnel dune pave fog dress remember forum update dwarf seven";

@@ -1,1 +1,1 @@
-var mnemonic = "birth update audit pupil square tornado omit conduct degree physical vocal quick";
+var mnemonic = "fire student fragile cycle credit lemon shuffle tilt menu squeeze piano lunar";

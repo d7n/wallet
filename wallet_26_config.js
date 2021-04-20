@@ -1,1 +1,1 @@
-var mnemonic = "frozen drink city junk disorder flame weather wide want icon depth minimum";
+var mnemonic = "elder filter vicious patient carpet moral soul step valley oval bus solution";
