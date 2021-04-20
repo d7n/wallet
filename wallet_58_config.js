@@ -1,1 +1,1 @@
-var mnemonic = "exhaust key predict because spirit suggest hero vehicle rival flash grape paper";
+var mnemonic = "two clump grief print steel host organ odor deposit flag exhaust veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "receive length client cloth melody trap fossil welcome fiscal choose scissors trend";
+var mnemonic = "network isolate crane smart join erupt monkey ocean oppose tooth path ready";

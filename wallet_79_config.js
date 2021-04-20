@@ -1,1 +1,1 @@
-var mnemonic = "stumble know blush consider security axis harbor zero weather harbor hero crisp";
+var mnemonic = "guide outside bless remind behave charge mistake hunt swim emerge finish frog";

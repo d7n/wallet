@@ -1,1 +1,1 @@
-var mnemonic = "hill unveil tank concert bulk cliff winter visa uniform renew source purse";
+var mnemonic = "bamboo leisure victory obvious suspect rare marriage raven zoo squirrel opinion decrease";

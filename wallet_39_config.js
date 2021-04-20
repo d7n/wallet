@@ -1,1 +1,1 @@
-var mnemonic = "dress steak hedgehog success speed two borrow slow flag shed pigeon divorce";
+var mnemonic = "romance orbit beyond blade naive quarter pulse feel luxury acquire evolve vivid";

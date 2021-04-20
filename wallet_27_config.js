@@ -1,1 +1,1 @@
-var mnemonic = "annual celery west march urge notice reflect cupboard road spoon reunion magic";
+var mnemonic = "raccoon reflect fancy cabin opinion sphere blur wire supreme buyer hunt arch";

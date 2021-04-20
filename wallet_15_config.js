@@ -1,1 +1,1 @@
-var mnemonic = "skirt cousin dynamic clump want void silly material misery square impact recall";
+var mnemonic = "critic flush poem pet question peasant energy gain cart jaguar shrug solar";

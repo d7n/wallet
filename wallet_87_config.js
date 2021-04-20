@@ -1,1 +1,1 @@
-var mnemonic = "machine gift pottery rent wool spend unique border wash easily merry clinic";
+var mnemonic = "interest equip cabbage egg abuse cheese decrease project ski divert any volcano";

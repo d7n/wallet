@@ -1,1 +1,1 @@
-var mnemonic = "space fantasy process goddess oak salmon whisper hotel tragic bunker safe relief";
+var mnemonic = "anxiety unfold cereal naive retire grace heart rebuild display city wing spider";

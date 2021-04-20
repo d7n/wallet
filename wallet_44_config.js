@@ -1,1 +1,1 @@
-var mnemonic = "decide critic online steel depart slogan carry useless pool fence live spend";
+var mnemonic = "mirror grant trick spatial fire raw flower cook slam salmon shallow ketchup";

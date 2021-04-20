@@ -1,1 +1,1 @@
-var mnemonic = "rescue upgrade kangaroo salt reason wait mandate pulse corn vacant debris evil";
+var mnemonic = "this basic caution left legend hub attack tank bike meat useless grace";

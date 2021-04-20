@@ -1,1 +1,1 @@
-var mnemonic = "talk suit peace humble pact vintage unveil bonus bind swear feature switch";
+var mnemonic = "where someone scene into river eyebrow plug kick elephant unusual legal among";

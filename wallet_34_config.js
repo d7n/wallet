@@ -1,1 +1,1 @@
-var mnemonic = "yard nasty client vivid high egg arch swing satisfy physical slide trial";
+var mnemonic = "range favorite anger try review copper orbit task gas market result pigeon";

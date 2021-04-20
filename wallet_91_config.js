@@ -1,1 +1,1 @@
-var mnemonic = "burst palm system find quit heavy people solve spawn mask peanut palace";
+var mnemonic = "swear grocery bubble lonely real twelve prosper churn upper erupt discover mom";

@@ -1,1 +1,1 @@
-var mnemonic = "faith permit region area dial catalog exhaust danger subject cradle hard sugar";
+var mnemonic = "warfare sunny immense wonder distance swap dress intact rose input silly work";

@@ -1,1 +1,1 @@
-var mnemonic = "mango throw company ability pause weekend crisp rack cram subject provide enhance";
+var mnemonic = "food wing tiger quarter eagle soldier hotel soccer view bless barrel cute";

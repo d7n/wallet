@@ -1,1 +1,1 @@
-var mnemonic = "dumb weather easily game skirt card extend head fringe egg barely fiscal";
+var mnemonic = "letter cement level ghost brand series action tell visa tuition nothing silly";

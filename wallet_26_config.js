@@ -1,1 +1,1 @@
-var mnemonic = "used wedding match where degree drill high utility draw notable knee nasty";
+var mnemonic = "rely vintage oblige salon mail hat onion sadness hazard drastic zebra guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "switch luggage radio much local begin swift great minor top want paper";
+var mnemonic = "rather toward parrot alley win body palm prison interest solid thumb letter";

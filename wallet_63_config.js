@@ -1,1 +1,1 @@
-var mnemonic = "birth aunt put dentist year depart venture resource pattern video ask faith";
+var mnemonic = "festival wrist behave forward wedding rare farm title volume account second hobby";

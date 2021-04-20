@@ -1,1 +1,1 @@
-var mnemonic = "first envelope magic expose leg onion physical fault group history oxygen evolve";
+var mnemonic = "doll plate wonder design dune duck adult catalog gun phrase kite hover";

@@ -1,1 +1,1 @@
-var mnemonic = "damp mechanic mobile happy situate exile rocket van athlete unlock reform high";
+var mnemonic = "lumber list slight jealous insane panic tower hover bonus draw give bring";

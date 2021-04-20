@@ -1,1 +1,1 @@
-var mnemonic = "hollow luxury globe tilt figure biology noodle bounce home similar sketch match";
+var mnemonic = "amount dial round verb parrot arctic best settle strong hunt observe avocado";

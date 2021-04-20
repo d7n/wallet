@@ -1,1 +1,1 @@
-var mnemonic = "pretty jump south cause prison empower awful cruise meadow dad diamond case";
+var mnemonic = "collect wave island various total clinic guitar hub print unhappy popular trip";

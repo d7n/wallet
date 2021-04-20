@@ -1,1 +1,1 @@
-var mnemonic = "skill double job iron timber front cook riot obvious story quick amazing";
+var mnemonic = "crane buyer turtle spell two despair maze prefer hover swarm sibling shell";

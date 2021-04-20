@@ -1,1 +1,1 @@
-var mnemonic = "hip horse asthma major february price alien horse disagree muffin lake reject";
+var mnemonic = "curious pave portion ritual betray pitch diary camera usage option name away";

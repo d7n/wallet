@@ -1,1 +1,1 @@
-var mnemonic = "extra sure lady six day real child hen defense cricket maid glass";
+var mnemonic = "truly arrow paper paper style people street velvet light couch acquire hero";

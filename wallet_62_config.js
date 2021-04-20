@@ -1,1 +1,1 @@
-var mnemonic = "drive tennis tent awful phrase flavor hello curve silver sort cook dirt";
+var mnemonic = "armed boring hedgehog cause empower pear inquiry tooth morning bulb act ring";

@@ -1,1 +1,1 @@
-var mnemonic = "visa next novel stamp filter assume awake flag head tired ugly cool";
+var mnemonic = "nephew brass menu sad total harsh exotic state pilot else grant travel";

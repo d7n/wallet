@@ -1,1 +1,1 @@
-var mnemonic = "oven metal foam kite school fancy myth loud toddler trust fringe huge";
+var mnemonic = "outside town aunt hat boil soda holiday saddle unfair grant sample corn";

@@ -1,1 +1,1 @@
-var mnemonic = "crew unable age liquid mirror tank blast they drift enroll reject prepare";
+var mnemonic = "basket tired oxygen security range occur sleep reunion cereal uncle depend critic";

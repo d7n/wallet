@@ -1,1 +1,1 @@
-var mnemonic = "denial clutch receive taste atom legend barely choose whisper isolate frozen fit";
+var mnemonic = "direct embrace fuel popular clever interest betray zoo occur uncover dial arch";

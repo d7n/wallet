@@ -1,1 +1,1 @@
-var mnemonic = "talk find cloud ask thank pony traffic reject draw local injury shrimp";
+var mnemonic = "sport announce three owner erase afford unable giggle cannon wear tell method";

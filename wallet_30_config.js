@@ -1,1 +1,1 @@
-var mnemonic = "echo scissors address announce lion rebuild pole pool muscle evidence clay ladder";
+var mnemonic = "know narrow castle spring sort grid stable track planet view million accident";

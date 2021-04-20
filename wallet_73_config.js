@@ -1,1 +1,1 @@
-var mnemonic = "cargo machine order chunk source dash moral mouse vendor divide pyramid enter";
+var mnemonic = "lunch blush alien civil fruit security image chicken tray income behave bind";

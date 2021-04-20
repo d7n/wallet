@@ -1,1 +1,1 @@
-var mnemonic = "parrot ticket advance lift dash will shock person question jungle stamp vendor";
+var mnemonic = "present ensure sure method audit alarm angry expire scrub earth adjust argue";

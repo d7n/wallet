@@ -1,1 +1,1 @@
-var mnemonic = "seven celery urban mercy focus stamp brief atom arm trigger orange ugly";
+var mnemonic = "stumble vibrant thought chuckle combine offer pride february gown couple relax trash";

@@ -1,1 +1,1 @@
-var mnemonic = "clog cube alter various cousin permit win space enact shift giraffe corn";
+var mnemonic = "neutral shove canoe remain advice lazy orphan guess sunny initial six kit";

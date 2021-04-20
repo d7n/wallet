@@ -1,1 +1,1 @@
-var mnemonic = "crystal crazy horror excite face junior scrap pet knock kiss seed chuckle";
+var mnemonic = "soldier rigid mixture seminar suspect door sister renew sunny target faith emerge";

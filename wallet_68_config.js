@@ -1,1 +1,1 @@
-var mnemonic = "divide heart layer appear skull chat eternal ride tape motion thrive uniform";
+var mnemonic = "tube gossip clump foster table ticket chronic crane front reason hold drastic";

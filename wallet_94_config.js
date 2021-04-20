@@ -1,1 +1,1 @@
-var mnemonic = "electric average weasel dynamic pioneer evil hip between ski crane large sing";
+var mnemonic = "left oxygen grain thunder ski enter slow crash pipe pretty close initial";

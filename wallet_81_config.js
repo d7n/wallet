@@ -1,1 +1,1 @@
-var mnemonic = "culture march cable point sunny blind seven force neither friend lumber hill";
+var mnemonic = "spatial ship side chair slam saddle truth arrive badge slight property small";

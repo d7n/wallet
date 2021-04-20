@@ -1,1 +1,1 @@
-var mnemonic = "spoon leader conduct loan surge broom bargain legend screen cruise luxury shift";
+var mnemonic = "rare banana heart address auto sorry transfer knife oil afraid outdoor soldier";

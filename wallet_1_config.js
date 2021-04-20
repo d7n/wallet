@@ -1,1 +1,1 @@
-var mnemonic = "album van claw basic puppy trap engage grape weather force stable charge";
+var mnemonic = "supply tobacco wheel apple image rebuild knee blade glass fade humor shy";

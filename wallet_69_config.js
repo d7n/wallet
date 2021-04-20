@@ -1,1 +1,1 @@
-var mnemonic = "tragic reveal hair bag company congress total deal intact thought ketchup combine";
+var mnemonic = "way mesh sell scrap pact hundred quarter mushroom salt phrase solid elegant";

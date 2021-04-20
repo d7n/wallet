@@ -1,1 +1,1 @@
-var mnemonic = "grit egg correct rhythm extend kangaroo release title tattoo law cage april";
+var mnemonic = "repair episode air dolphin glory very outside engine near pool pyramid bunker";

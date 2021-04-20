@@ -1,1 +1,1 @@
-var mnemonic = "desk ice life explain coast urban round nut comic defense erosion argue";
+var mnemonic = "couple nose rule wedding flame blast jeans radar upgrade large hospital profit";

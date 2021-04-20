@@ -1,1 +1,1 @@
-var mnemonic = "earn soup wide foam noble trip now margin cheese sheriff leisure soldier";
+var mnemonic = "depth hunt defy remove trigger story mimic item document two deputy miss";

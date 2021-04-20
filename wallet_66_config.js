@@ -1,1 +1,1 @@
-var mnemonic = "patient dust easily enroll despair pizza comic average intact lion head involve";
+var mnemonic = "laugh ready tiny talk prefer pigeon draft emerge attend choice kit kingdom";

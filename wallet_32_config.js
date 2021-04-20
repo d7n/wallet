@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog sort strategy venture ketchup twin nation what accident target deliver rib";
+var mnemonic = "expect toward symbol plastic photo tennis mouse rare renew lift toy hill";

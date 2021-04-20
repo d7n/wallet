@@ -1,1 +1,1 @@
-var mnemonic = "replace smoke rent absent post bracket gap park unveil radio cost dinosaur";
+var mnemonic = "giant outside sad normal repair cotton walk bone total dinner pigeon harsh";

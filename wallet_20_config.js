@@ -1,1 +1,1 @@
-var mnemonic = "same quality depart theme crumble omit region eyebrow raven snake name party";
+var mnemonic = "island fuel gorilla purchase copper scissors gather sustain choice stable connect much";

@@ -1,1 +1,1 @@
-var mnemonic = "crack absent major town clean glove arrange then pledge royal embark near";
+var mnemonic = "royal clog tray theme celery blouse grit bomb turkey follow silver ring";

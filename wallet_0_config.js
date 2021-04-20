@@ -1,1 +1,1 @@
-var mnemonic = "credit follow cram clock snow lens maple diet wonder valley cram pink";
+var mnemonic = "lamp bar siege remain defense steel analyst extend issue wagon often party";

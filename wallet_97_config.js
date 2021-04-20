@@ -1,1 +1,1 @@
-var mnemonic = "trial true under hurry chef enjoy small you caution usual utility crowd";
+var mnemonic = "army pig banner gate prefer foam pride country skate drama blood slim";

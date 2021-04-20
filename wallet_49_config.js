@@ -1,1 +1,1 @@
-var mnemonic = "east chef book limb arch grant history strike stadium radar faith soap";
+var mnemonic = "return exact weather broccoli merry liberty elder abandon soup cave axis evoke";

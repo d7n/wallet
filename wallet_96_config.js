@@ -1,1 +1,1 @@
-var mnemonic = "dynamic shuffle once clock broccoli surface scrap advice wagon repair cabbage place";
+var mnemonic = "timber kitten vibrant valve session possible mechanic rib nation glove plastic describe";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp vote smoke forget grass march situate palace crouch defy denial motor";
+var mnemonic = "punch achieve green asset smart whip wing horn knee foot skill shell";

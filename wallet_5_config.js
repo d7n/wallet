@@ -1,1 +1,1 @@
-var mnemonic = "milk forget harvest amateur shaft wood turn equal mask blind square differ";
+var mnemonic = "hair toward plunge input vacant duck throw fancy monkey humble mom tiny";

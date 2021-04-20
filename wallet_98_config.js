@@ -1,1 +1,1 @@
-var mnemonic = "cruel sauce raw tuition improve evolve furnace duty paddle holiday pizza laundry";
+var mnemonic = "garden melody wrestle antique derive input fan stereo knife fault grace swap";

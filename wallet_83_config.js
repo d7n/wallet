@@ -1,1 +1,1 @@
-var mnemonic = "oxygen desert connect stock clinic blouse panel aerobic below space inside bridge";
+var mnemonic = "throw craft fame echo crew riot group sample cable number negative toward";

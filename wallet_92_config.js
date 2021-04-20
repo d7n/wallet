@@ -1,1 +1,1 @@
-var mnemonic = "tragic chief settle panel catch milk great metal nominee derive scale skate";
+var mnemonic = "awkward gate ivory assist fire grape hungry fiber sorry shoot verb kid";

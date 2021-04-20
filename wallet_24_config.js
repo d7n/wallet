@@ -1,1 +1,1 @@
-var mnemonic = "powder above suggest fly thank pool horn leaf harsh eyebrow view warrior";
+var mnemonic = "champion gossip near extra vast face coconut dignity race debris powder master";

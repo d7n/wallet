@@ -1,1 +1,1 @@
-var mnemonic = "palace depend push guard hobby april know arrive clock twin tone give";
+var mnemonic = "wrist profit doctor solution another leaf spray swarm dismiss nation stock rapid";

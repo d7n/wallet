@@ -1,1 +1,1 @@
-var mnemonic = "property vast pretty rather ankle inherit grunt try length claw crush brother";
+var mnemonic = "soldier undo waste awkward penalty day puppy barrel weekend riot gasp jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "spare pluck there side dirt leg clown bench frown arrive admit fitness";
+var mnemonic = "bracket engage affair police draft dragon witness ramp escape empty energy bamboo";

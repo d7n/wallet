@@ -1,1 +1,1 @@
-var mnemonic = "sunny awkward basic pause habit wise differ chimney swing because cupboard potato";
+var mnemonic = "velvet ill cheap suffer chicken only short wild phone box kite floor";

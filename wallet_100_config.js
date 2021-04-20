@@ -1,1 +1,1 @@
-var mnemonic = "blouse resist slide aspect eager coin slight aim urban broom start dose";
+var mnemonic = "baby grocery wall sniff like common traffic public dose divorce burger typical";

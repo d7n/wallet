@@ -1,1 +1,1 @@
-var mnemonic = "okay aim muscle diet scissors glide ritual crisp foam stem section champion";
+var mnemonic = "horn north bubble easily tower clump shrug say crush welcome shop used";

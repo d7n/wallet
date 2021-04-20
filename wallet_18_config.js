@@ -1,1 +1,1 @@
-var mnemonic = "idle tone nuclear ancient thing emerge ahead world ready trophy retire input";
+var mnemonic = "helmet net dragon weapon blame rail desk cloth boy first ketchup pretty";

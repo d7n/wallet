@@ -1,1 +1,1 @@
-var mnemonic = "glad obtain announce truth infant divide angry exclude still faint purse million";
+var mnemonic = "entire bullet pen breeze eager bundle place allow liberty skull blind gesture";

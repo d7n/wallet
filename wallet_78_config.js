@@ -1,1 +1,1 @@
-var mnemonic = "glass fabric frost hood fluid scout hint always smile south correct gate";
+var mnemonic = "name mansion bulk jaguar tenant soda palace erupt exotic crawl problem scan";

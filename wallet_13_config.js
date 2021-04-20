@@ -1,1 +1,1 @@
-var mnemonic = "october once orchard slam fragile special token pause reflect gold tenant flash";
+var mnemonic = "salon output seed obscure bounce naive destroy pony fetch pact divorce episode";

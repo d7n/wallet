@@ -1,1 +1,1 @@
-var mnemonic = "exhaust october fix just embody addict sister dad drill scale tornado shoulder";
+var mnemonic = "account suffer pluck prize tooth ozone strike twin elevator around require victory";

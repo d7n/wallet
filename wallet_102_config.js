@@ -1,1 +1,1 @@
-var mnemonic = "stove farm pretty trigger add utility space vault curve giant bulb extra";
+var mnemonic = "reward hover six thumb pear dolphin delay hedgehog resist upgrade walk crisp";

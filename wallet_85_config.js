@@ -1,1 +1,1 @@
-var mnemonic = "diesel wrong absorb barrel price quick diary matrix source hotel finish lava";
+var mnemonic = "bleak position hill bicycle steak stereo doll simple south real labor rely";

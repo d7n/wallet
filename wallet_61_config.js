@@ -1,1 +1,1 @@
-var mnemonic = "picture person young analyst uphold bamboo betray claim gorilla muscle fish exhibit";
+var mnemonic = "pluck beauty child soft glare pigeon cinnamon duty infant index broken alone";

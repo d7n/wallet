@@ -1,1 +1,1 @@
-var mnemonic = "dry stumble tide entry shrimp few rubber mushroom heavy wave phrase biology";
+var mnemonic = "power setup rule victory luxury rough narrow afford amateur tackle goat because";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme provide swamp illegal nothing oyster mansion stereo trip manual ribbon clutch";
+var mnemonic = "merit sing witness absent shop fiber wheel nephew ribbon illegal mother unfair";

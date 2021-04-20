@@ -1,1 +1,1 @@
-var mnemonic = "concert actual maximum pelican shield youth south since divorce media female grant";
+var mnemonic = "keep warfare donor genius permit canyon amazing liar lucky already have anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual public puzzle cousin tube snap loan congress rack void result ugly";
+var mnemonic = "maze dash piece around hole turkey enlist forest journey cake express trumpet";

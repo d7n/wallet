@@ -1,1 +1,1 @@
-var mnemonic = "recipe movie spice item code hub spoil wage kick admit heavy prison";
+var mnemonic = "black bronze harbor mobile resource accuse cage home swap answer flush ticket";

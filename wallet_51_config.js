@@ -1,1 +1,1 @@
-var mnemonic = "outdoor pill voyage wash enjoy other fiction motor minor opinion donor advice";
+var mnemonic = "husband harvest flower maze peasant advance mad legend dutch taste detect banner";

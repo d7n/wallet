@@ -1,1 +1,1 @@
-var mnemonic = "ice antique exact truth color illness level ball purchase tragic share sense";
+var mnemonic = "account ceiling blur stick bonus jacket someone claw canoe disagree venue creek";

@@ -1,1 +1,1 @@
-var mnemonic = "medal dolphin brand stereo april limit pool illegal furnace speak motion oblige";
+var mnemonic = "lottery primary punch fog toss ordinary trim icon name curve negative tent";

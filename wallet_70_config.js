@@ -1,1 +1,1 @@
-var mnemonic = "tragic bring keen dash fog yellow broccoli damp season express envelope popular";
+var mnemonic = "catch spatial chapter gap face abandon attack mention length eye lumber slab";

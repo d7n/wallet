@@ -1,1 +1,1 @@
-var mnemonic = "suspect limb tray two clump result bacon pumpkin artist stumble mean fade";
+var mnemonic = "child couple topple nice car silly disagree galaxy open credit leader enforce";
