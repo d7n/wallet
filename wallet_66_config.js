@@ -1,1 +1,1 @@
-var mnemonic = "reject response cycle abuse soldier helmet awesome pill help lift belt gate";
+var mnemonic = "saddle trend nest enforce retire tribe confirm phrase olympic penalty focus come";

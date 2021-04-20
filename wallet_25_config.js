@@ -1,1 +1,1 @@
-var mnemonic = "strike what joy carbon enough path detail loud salt violin judge scene";
+var mnemonic = "beauty hole fragile tackle gather vehicle story memory shine that popular address";

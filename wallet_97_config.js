@@ -1,1 +1,1 @@
-var mnemonic = "custom task spawn pact marble spare cram clever sock rifle very copper";
+var mnemonic = "render sketch mass repeat jeans sauce diagram globe unknown know fuel sad";

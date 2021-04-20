@@ -1,1 +1,1 @@
-var mnemonic = "illegal bind wall thunder right junk truly noise surge skate such fragile";
+var mnemonic = "skill moon alpha valid great wasp snake rabbit analyst riot cram easily";

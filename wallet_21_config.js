@@ -1,1 +1,1 @@
-var mnemonic = "pony ritual climb doll timber same water flight story lady snap female";
+var mnemonic = "trap fashion patient unlock sock elevator canvas grid disagree boost tourist top";

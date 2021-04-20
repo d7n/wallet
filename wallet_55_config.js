@@ -1,1 +1,1 @@
-var mnemonic = "omit wife december current explain kite embrace artwork turtle talk ceiling relax";
+var mnemonic = "wall climb start oval category patch correct satisfy erode action lucky increase";

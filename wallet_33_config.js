@@ -1,1 +1,1 @@
-var mnemonic = "march fabric verb jewel turtle receive chuckle unique better valve buffalo involve";
+var mnemonic = "luxury border dismiss flock staff link stumble future fog talent wave mad";

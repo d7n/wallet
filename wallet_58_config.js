@@ -1,1 +1,1 @@
-var mnemonic = "twin runway arena spy aisle comic hamster drum coil mixed mouse meadow";
+var mnemonic = "suffer guitar fade expand dignity pair cool egg dismiss speak hope woman";

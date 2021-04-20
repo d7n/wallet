@@ -1,1 +1,1 @@
-var mnemonic = "evoke rebuild fitness prison dismiss brown vital prison rigid coast neither ladder";
+var mnemonic = "thumb jeans double immune nation creek mad cradle icon immune talent garbage";

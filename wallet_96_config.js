@@ -1,1 +1,1 @@
-var mnemonic = "response fresh transfer mammal eight chest heavy canyon smoke bone lion detail";
+var mnemonic = "learn course crash artwork breeze insect deputy slogan attract moral tornado tenant";

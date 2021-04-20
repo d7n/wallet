@@ -1,1 +1,1 @@
-var mnemonic = "bronze swamp girl three quit book claw what when melody cactus goose";
+var mnemonic = "gun hockey august usual fence exile notable joy fun eternal north differ";

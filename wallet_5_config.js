@@ -1,1 +1,1 @@
-var mnemonic = "battle elbow daring awkward banner quote frequent river brief tragic skill boring";
+var mnemonic = "dragon cinnamon mansion year copper seminar language burden clog favorite peace season";

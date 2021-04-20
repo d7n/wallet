@@ -1,1 +1,1 @@
-var mnemonic = "inside tennis reward couch distance snap sand recycle faint twenty ostrich dress";
+var mnemonic = "strong price day begin police depth sock belt document machine pull attack";

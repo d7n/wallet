@@ -1,1 +1,1 @@
-var mnemonic = "carry treat firm spin opera duck melt faith forward electric innocent blanket";
+var mnemonic = "tortoise vehicle indicate great noodle rough sad shiver piano drill twelve evoke";

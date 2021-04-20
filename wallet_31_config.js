@@ -1,1 +1,1 @@
-var mnemonic = "text radio math narrow circle envelope park conduct strategy what promote window";
+var mnemonic = "bronze display frozen ecology gain immense garbage scout benefit salon bamboo major";

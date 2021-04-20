@@ -1,1 +1,1 @@
-var mnemonic = "fault gadget belt deal essay chimney dwarf lobster forum boost cry opera";
+var mnemonic = "cover jealous limit machine ensure clump cheese cancel quiz ripple argue endorse";

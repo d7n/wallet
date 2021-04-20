@@ -1,1 +1,1 @@
-var mnemonic = "heavy tree few flock sustain shrug solution leaf knock thumb cushion focus";
+var mnemonic = "cabbage head deal enter green deputy usual put heavy exotic universe lens";

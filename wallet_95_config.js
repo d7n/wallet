@@ -1,1 +1,1 @@
-var mnemonic = "comfort opera gasp maple dial marine illness flip visa clerk prison rescue";
+var mnemonic = "year sustain buzz jewel cycle betray fossil brain fatigue bacon cup hope";

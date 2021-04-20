@@ -1,1 +1,1 @@
-var mnemonic = "humor avocado life middle dumb blush stone claw wreck diagram cement system";
+var mnemonic = "kiss raven bullet purchase reopen mutual laptop voyage crystal stumble garlic talent";

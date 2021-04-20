@@ -1,1 +1,1 @@
-var mnemonic = "social nature circle name combine try inject spoon regular salon rain abandon";
+var mnemonic = "loop cage deliver bargain observe topic soccer plastic burst brown excite area";

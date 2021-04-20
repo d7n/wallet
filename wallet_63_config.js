@@ -1,1 +1,1 @@
-var mnemonic = "act program attitude damage ramp client empty about romance stamp oblige hire";
+var mnemonic = "erode offer heart drastic muscle error grace subway cat brain crisp engage";

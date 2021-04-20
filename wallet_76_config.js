@@ -1,1 +1,1 @@
-var mnemonic = "poet maple promote rookie album soup tackle fatigue fringe furnace large enforce";
+var mnemonic = "remove rose unaware wheel width tomato nation topic agent truly inmate famous";

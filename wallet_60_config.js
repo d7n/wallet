@@ -1,1 +1,1 @@
-var mnemonic = "strike owner excess label square eye hip hungry trial final video decrease";
+var mnemonic = "impulse gallery exact select enjoy giggle saddle hand chalk trap clever bar";

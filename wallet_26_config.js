@@ -1,1 +1,1 @@
-var mnemonic = "never glad absent casual arch vehicle shove kingdom obey alpha bounce glide";
+var mnemonic = "spice useful filter faculty speak since captain nose forget rotate whale enough";

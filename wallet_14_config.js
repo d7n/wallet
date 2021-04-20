@@ -1,1 +1,1 @@
-var mnemonic = "mouse vital alert side hockey blame knee belt echo tired peanut kingdom";
+var mnemonic = "indicate canal village fold smart inhale bless share proud page north yellow";

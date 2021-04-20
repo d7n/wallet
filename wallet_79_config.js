@@ -1,1 +1,1 @@
-var mnemonic = "special board wine kit review exit country diamond vital write first mule";
+var mnemonic = "satisfy upper stick route burst swarm novel rich caught volcano album faint";

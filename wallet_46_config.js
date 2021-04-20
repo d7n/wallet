@@ -1,1 +1,1 @@
-var mnemonic = "pact tomorrow put tent airport assist hip element remind surface stool motion";
+var mnemonic = "volume liquid enjoy gown heavy edge dwarf mechanic recipe tank subject deputy";

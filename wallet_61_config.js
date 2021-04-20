@@ -1,1 +1,1 @@
-var mnemonic = "toy direct level first paddle differ hybrid cat harvest sea pluck shadow";
+var mnemonic = "feed whisper gentle celery tide oyster first illness clinic aunt option scrap";

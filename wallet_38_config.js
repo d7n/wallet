@@ -1,1 +1,1 @@
-var mnemonic = "fluid coin blood crouch magnet venue canyon know jealous mean drastic edit";
+var mnemonic = "stove aim basic cradle neither act brief state alley false narrow hobby";

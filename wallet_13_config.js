@@ -1,1 +1,1 @@
-var mnemonic = "misery long slim next owner tribe cat master stable dinosaur donate impact";
+var mnemonic = "awesome common brush sketch client goddess sentence swear pumpkin bleak razor together";

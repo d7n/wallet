@@ -1,1 +1,1 @@
-var mnemonic = "fatal slogan come uniform tray brother snake forest place usual argue senior";
+var mnemonic = "fiction similar canyon obey setup maximum panic version tail soap derive struggle";

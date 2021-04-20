@@ -1,1 +1,1 @@
-var mnemonic = "raven lawsuit demise ability able acid grain purse alone fatal cute sphere";
+var mnemonic = "same stairs private enter finger age loop stone purpose throw carbon spatial";

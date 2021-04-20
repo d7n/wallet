@@ -1,1 +1,1 @@
-var mnemonic = "lonely pizza seed step juice umbrella type online evolve forget banana vacuum";
+var mnemonic = "cotton stick reflect ugly trust airport burger tragic crew close bean glue";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten buffalo length vital exile armed board final enough belt exist submit";
+var mnemonic = "disagree explain fancy just absurd room hawk minor father pepper world work";

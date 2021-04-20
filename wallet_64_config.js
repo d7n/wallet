@@ -1,1 +1,1 @@
-var mnemonic = "dynamic attend vessel never thumb already account street mammal onion fat hotel";
+var mnemonic = "illegal wheat since fine receive flavor canoe warfare attract acid nurse sunny";

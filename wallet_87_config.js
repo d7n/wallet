@@ -1,1 +1,1 @@
-var mnemonic = "color hobby stomach spider cram appear attract marble tribe human tone own";
+var mnemonic = "valley cotton athlete mind member doctor myself tiger whip warfare parrot coconut";

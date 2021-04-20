@@ -1,1 +1,1 @@
-var mnemonic = "setup source desert between coconut fire recipe drum energy neither stand develop";
+var mnemonic = "abandon satisfy hockey ring grid custom certain harbor mixed peace room exile";

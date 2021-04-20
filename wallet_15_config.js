@@ -1,1 +1,1 @@
-var mnemonic = "volume media cross develop empower chimney theory consider race now radar grab";
+var mnemonic = "thumb obvious upset grocery inquiry gain later flag sword kitchen inquiry side";

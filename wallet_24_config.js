@@ -1,1 +1,1 @@
-var mnemonic = "audit toward prefer relief square curve often list narrow ramp inform fee";
+var mnemonic = "pilot forget ecology weird west pencil sudden junior wrist slight tray world";

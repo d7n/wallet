@@ -1,1 +1,1 @@
-var mnemonic = "opera track color cannon lend decorate hat smart coffee vocal crunch road";
+var mnemonic = "grape smoke prefer scorpion position suffer breeze amused stairs shield poem captain";

@@ -1,1 +1,1 @@
-var mnemonic = "area nerve dad vault moon plate mesh swarm trumpet employ concert regular";
+var mnemonic = "struggle pond sand random prefer service accuse spoon guess sight cook salmon";

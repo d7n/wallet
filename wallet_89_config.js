@@ -1,1 +1,1 @@
-var mnemonic = "answer coach adapt dynamic issue sheriff property ginger misery limit arrange forget";
+var mnemonic = "coil stand where video oil reject pluck avocado include differ athlete motion";

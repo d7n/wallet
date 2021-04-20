@@ -1,1 +1,1 @@
-var mnemonic = "cricket spoon program magnet sheriff prepare head face kite about wet student";
+var mnemonic = "endorse carry income abuse cage bird praise fossil avocado feed pony oil";

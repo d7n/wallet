@@ -1,1 +1,1 @@
-var mnemonic = "hero asthma insane stem change cost illness exclude echo patient neglect clog";
+var mnemonic = "salon breeze knock plunge skull pause excess give flock sausage limit nerve";

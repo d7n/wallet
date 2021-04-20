@@ -1,1 +1,1 @@
-var mnemonic = "fatigue title install second funny rice hazard urge today world laundry access";
+var mnemonic = "use cute wisdom vague stereo dance anchor spoil position faint mix crumble";

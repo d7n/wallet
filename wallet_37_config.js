@@ -1,1 +1,1 @@
-var mnemonic = "actress logic random cable magnet source cereal tape swear emerge motion man";
+var mnemonic = "day jump nasty trophy talent broccoli upgrade ridge kingdom unlock saddle park";

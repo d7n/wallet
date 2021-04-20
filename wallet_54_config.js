@@ -1,1 +1,1 @@
-var mnemonic = "peanut rookie mango mad orient tonight coyote hurt genuine laugh simple shy";
+var mnemonic = "noble muffin high nominee blush sister tree screen budget family embody sleep";

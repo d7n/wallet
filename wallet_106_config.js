@@ -1,1 +1,1 @@
-var mnemonic = "loop divide thumb bamboo village cram case memory trick scatter crystal action";
+var mnemonic = "boss order intact comic link prevent gap beauty way custom grain sort";

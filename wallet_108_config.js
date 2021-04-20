@@ -1,1 +1,1 @@
-var mnemonic = "split cotton metal brisk anger short second truth spot wide exist type";
+var mnemonic = "margin estate kiwi opera what juice slot pigeon scissors rival pyramid endless";

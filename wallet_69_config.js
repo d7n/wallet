@@ -1,1 +1,1 @@
-var mnemonic = "mechanic undo jaguar actress diamond always include dice detail lyrics tobacco pottery";
+var mnemonic = "charge nasty october kind relax other garage rigid mad prosper bar fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom task choose method burst churn organ razor suit glow gravity come";
+var mnemonic = "predict head symbol garage love identify ride key cement soon hard vague";

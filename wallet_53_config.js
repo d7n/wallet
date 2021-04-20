@@ -1,1 +1,1 @@
-var mnemonic = "bridge maximum surround tornado coast mail flat person involve cannon rent ozone";
+var mnemonic = "result still addict gossip crop punch toward alert next design pattern play";

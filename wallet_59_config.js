@@ -1,1 +1,1 @@
-var mnemonic = "gospel laundry bunker version pony alert myth pink person furnace risk gauge";
+var mnemonic = "promote minimum parrot lift pig ghost zebra turn enforce ensure aisle category";

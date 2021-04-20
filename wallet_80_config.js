@@ -1,1 +1,1 @@
-var mnemonic = "chimney keen undo core vivid milk used consider tomorrow crew stay letter";
+var mnemonic = "team spring jump salt bleak when loud area knee stem miracle error";

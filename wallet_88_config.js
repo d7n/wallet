@@ -1,1 +1,1 @@
-var mnemonic = "prepare melt crisp purpose rule mandate method endless close unique broken raccoon";
+var mnemonic = "address disorder quote sausage shop weasel hello crater adapt eternal jeans banana";

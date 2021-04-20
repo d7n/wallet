@@ -1,1 +1,1 @@
-var mnemonic = "chimney estate arrow conduct thought exact fringe price dirt naive beauty salad";
+var mnemonic = "blur relief coach quiz animal jacket stumble clutch secret twelve deliver patrol";

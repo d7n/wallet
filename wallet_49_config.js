@@ -1,1 +1,1 @@
-var mnemonic = "purpose walk another medal claim online air kind museum involve crazy pioneer";
+var mnemonic = "place canal enemy edge cook fiber this meadow stock junk banner pupil";

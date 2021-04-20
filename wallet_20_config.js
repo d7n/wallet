@@ -1,1 +1,1 @@
-var mnemonic = "edit hotel orchard crystal toss input spin payment scrub segment animal wide";
+var mnemonic = "bounce raccoon avoid spend suggest scare bean parade water knock release expire";

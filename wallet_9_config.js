@@ -1,1 +1,1 @@
-var mnemonic = "text life sausage perfect trigger alone brief include lunar fresh essence tomorrow";
+var mnemonic = "private baby reveal column three buzz quarter wet search opera cruel blue";

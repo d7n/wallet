@@ -1,1 +1,1 @@
-var mnemonic = "patient digital puzzle fault observe spend add sorry cost mushroom credit motor";
+var mnemonic = "chuckle hawk wheel midnight vessel fruit flee crater diagram pride finish vote";

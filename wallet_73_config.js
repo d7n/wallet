@@ -1,1 +1,1 @@
-var mnemonic = "walk few umbrella clever lion rhythm ethics stamp company design spot twin";
+var mnemonic = "short stool hawk twin muscle shell carpet smooth alone dizzy clutch stock";

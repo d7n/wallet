@@ -1,1 +1,1 @@
-var mnemonic = "battle foster thing until crack spread stand measure section praise tattoo rigid";
+var mnemonic = "page ghost opinion off begin mistake filter carry purpose sadness educate fine";

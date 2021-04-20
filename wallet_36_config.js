@@ -1,1 +1,1 @@
-var mnemonic = "ring acid comic speak senior tide during obey illness cash start topic";
+var mnemonic = "secret hammer happy despair lemon once shy front truck bulk parent much";

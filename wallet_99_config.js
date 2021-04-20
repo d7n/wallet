@@ -1,1 +1,1 @@
-var mnemonic = "energy traffic axis annual walnut skate reveal board verb expire pottery practice";
+var mnemonic = "still question fish then chimney boat tail build toddler gloom dash minimum";

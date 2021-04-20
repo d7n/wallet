@@ -1,1 +1,1 @@
-var mnemonic = "play bomb language grunt apology coil once ill time rifle sea feature";
+var mnemonic = "route result away raccoon super furnace mirror market firm maximum wire sketch";

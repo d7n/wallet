@@ -1,1 +1,1 @@
-var mnemonic = "strong disease grace example actress supreme interest bonus fantasy lunar nominee click";
+var mnemonic = "frost february vault flower cram talk example core law improve crystal hunt";

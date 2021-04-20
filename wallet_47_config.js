@@ -1,1 +1,1 @@
-var mnemonic = "august hedgehog remove boil stereo angle lake toddler morning reform prize tattoo";
+var mnemonic = "melody all harbor avoid dinner survey gesture leg shift already canyon away";

@@ -1,1 +1,1 @@
-var mnemonic = "shy juice all coin poet what portion time repair illegal mango tomorrow";
+var mnemonic = "flee decade select allow maple squeeze round tortoise donkey blame act senior";

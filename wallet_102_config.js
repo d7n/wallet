@@ -1,1 +1,1 @@
-var mnemonic = "ten useless tower festival elevator couch deliver silly save fault virtual improve";
+var mnemonic = "defy garlic deliver odor suit discover camera shell water chase betray zone";

@@ -1,1 +1,1 @@
-var mnemonic = "help tail cause today chase bachelor siege until west reveal fine laptop";
+var mnemonic = "adapt thank motor oblige diesel liquid similar admit mushroom hill correct wreck";

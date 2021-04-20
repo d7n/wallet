@@ -1,1 +1,1 @@
-var mnemonic = "bunker rhythm fence diamond distance ozone this point magnet truck scheme subject";
+var mnemonic = "derive zone food tonight token donate water dream hamster peace help visa";

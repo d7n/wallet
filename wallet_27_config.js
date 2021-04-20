@@ -1,1 +1,1 @@
-var mnemonic = "raise area trumpet mushroom piece seminar endorse evolve deal lottery give close";
+var mnemonic = "foot harvest banner solid champion resource debris badge pluck owner black copy";

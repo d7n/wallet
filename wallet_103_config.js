@@ -1,1 +1,1 @@
-var mnemonic = "year survey pyramid mobile frost toy walnut right drum just scorpion mixed";
+var mnemonic = "future ball enter book phone draw nasty build vendor mention satoshi badge";

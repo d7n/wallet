@@ -1,1 +1,1 @@
-var mnemonic = "wolf gadget rich cake total wise alter gather lend patch kangaroo senior";
+var mnemonic = "setup tape cannon squirrel member woman level derive obvious evil exclude tackle";

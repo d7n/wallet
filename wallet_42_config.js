@@ -1,1 +1,1 @@
-var mnemonic = "march garage journey regret suggest liquid damage lawn choose cliff escape boil";
+var mnemonic = "group amused differ inform define garden front finger give leisure depart first";

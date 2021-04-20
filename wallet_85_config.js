@@ -1,1 +1,1 @@
-var mnemonic = "broom slot boost obtain wasp draft loud adult crash trick token extra";
+var mnemonic = "clean arctic doctor rocket miracle bridge dose lend thing fantasy equal pull";

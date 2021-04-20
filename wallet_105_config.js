@@ -1,1 +1,1 @@
-var mnemonic = "ancient cute mandate ginger message consider produce praise accuse cage autumn tongue";
+var mnemonic = "album dismiss quiz dish mule rescue nephew behave spatial march spider dinner";

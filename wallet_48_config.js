@@ -1,1 +1,1 @@
-var mnemonic = "history cloth sunset slot kiwi endorse initial cram annual talk discover city";
+var mnemonic = "reopen fork vapor rebel vehicle accident happy museum expand ship quarter balance";

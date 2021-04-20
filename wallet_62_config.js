@@ -1,1 +1,1 @@
-var mnemonic = "parrot border view aisle brave copper hour slender month armed off govern";
+var mnemonic = "clump goat hip nerve add chef security dumb pull motion increase budget";

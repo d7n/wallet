@@ -1,1 +1,1 @@
-var mnemonic = "luggage spike force hotel trophy enroll canal supreme tooth hollow number utility";
+var mnemonic = "excess supply bulb note wink assist ugly allow hint couple indoor cricket";

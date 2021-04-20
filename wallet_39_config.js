@@ -1,1 +1,1 @@
-var mnemonic = "become trick luggage mimic federal demise elegant pilot across mandate seek video";
+var mnemonic = "drink choice all fork crouch slender claw alley debate immune fossil defense";

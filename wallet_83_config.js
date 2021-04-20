@@ -1,1 +1,1 @@
-var mnemonic = "unfair food length iron target film soda project stamp once essay this";
+var mnemonic = "boy term wool certain photo ceiling banner wealth brother giraffe benefit shell";

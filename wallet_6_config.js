@@ -1,1 +1,1 @@
-var mnemonic = "impose kick juice utility manage supreme buyer miss mosquito crystal any cat";
+var mnemonic = "tower diary hire empty fruit local dynamic false upgrade minimum orchard about";

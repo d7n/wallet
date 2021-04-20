@@ -1,1 +1,1 @@
-var mnemonic = "salmon neutral forget visa once improve nothing because equal chapter that twice";
+var mnemonic = "almost pattern mother clinic spice sign rose amount someone canal web change";

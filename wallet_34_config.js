@@ -1,1 +1,1 @@
-var mnemonic = "replace guess across surprise chair burger lazy gadget arena honey cluster mom";
+var mnemonic = "error fatal salon panda nut tiny clap cheap scout produce lawn insect";

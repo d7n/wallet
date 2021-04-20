@@ -1,1 +1,1 @@
-var mnemonic = "neither crush history believe undo toilet volcano cricket utility topple squirrel match";
+var mnemonic = "lava crush off immune differ eternal amateur depart vague resemble step embody";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle clip feed spice enforce breeze category member width flight whale chapter";
+var mnemonic = "ship autumn sport local obvious deal above angle web purse nothing marriage";

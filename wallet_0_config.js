@@ -1,1 +1,1 @@
-var mnemonic = "blind wrong lonely rally guide awful bitter this broom rough meadow combine";
+var mnemonic = "exhibit wasp level caution ranch wage depart time world sick column screen";

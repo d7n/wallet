@@ -1,1 +1,1 @@
-var mnemonic = "icon broccoli neither thunder aisle frown chronic bright return boil relief attack";
+var mnemonic = "ecology garden just chimney fiction farm play domain december second rotate fold";

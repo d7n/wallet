@@ -1,1 +1,1 @@
-var mnemonic = "shoulder kick raven firm atom ostrich violin decrease world fold trash over";
+var mnemonic = "chief title waste stay clock pepper physical squeeze credit huge silk elbow";

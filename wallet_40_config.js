@@ -1,1 +1,1 @@
-var mnemonic = "spot art goddess test silk fly silent heavy knee helmet second rocket";
+var mnemonic = "useful want nuclear inmate antique bleak hub force volume donate gravity level";

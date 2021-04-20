@@ -1,1 +1,1 @@
-var mnemonic = "vendor display jump analyst mobile onion thumb prize someone jar increase enforce";
+var mnemonic = "buffalo aware differ wreck toy pave uncle build awful simple symbol invest";
