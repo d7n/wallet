@@ -1,1 +1,1 @@
-var mnemonic = "sick essay observe trick color ancient offer neither grant easy rally achieve";
+var mnemonic = "panda hockey learn banana ice bright name club mutual round swing echo";

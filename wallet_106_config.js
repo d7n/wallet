@@ -1,1 +1,1 @@
-var mnemonic = "bench crew tired various wrap hover small mutual quality noble trial present";
+var mnemonic = "goddess jaguar wild group below long sun link blade first barrel fantasy";

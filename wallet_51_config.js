@@ -1,1 +1,1 @@
-var mnemonic = "accident impose inside already supreme fall armor carpet build manual drum identify";
+var mnemonic = "assist jaguar chaos session peace nose under gym salt mention scan furnace";

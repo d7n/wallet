@@ -1,1 +1,1 @@
-var mnemonic = "remind day drip fine gauge federal clown ancient funny report east quality";
+var mnemonic = "hope sustain utility found doll enrich trick always limit tuna wish veteran";

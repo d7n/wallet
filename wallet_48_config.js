@@ -1,1 +1,1 @@
-var mnemonic = "naive swear turkey heavy seat leopard adapt laundry science garden day country";
+var mnemonic = "coral hundred pigeon punch divert aim tissue faculty indoor return fatigue abandon";

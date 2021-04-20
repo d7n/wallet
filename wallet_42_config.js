@@ -1,1 +1,1 @@
-var mnemonic = "emotion ivory waste staff loop morning sock gym strategy junk speak inhale";
+var mnemonic = "stock cargo method fire runway victory mountain during decide shuffle pass space";

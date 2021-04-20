@@ -1,1 +1,1 @@
-var mnemonic = "stage slogan bargain ceiling crop strong staff yellow weasel genius flush chimney";
+var mnemonic = "window ignore champion close treat trend canvas ginger because bitter want present";

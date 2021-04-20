@@ -1,1 +1,1 @@
-var mnemonic = "acoustic thumb tape switch parrot light panel network slim abstract grow mail";
+var mnemonic = "okay island legend under accuse suffer mother typical federal series stay globe";

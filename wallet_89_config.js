@@ -1,1 +1,1 @@
-var mnemonic = "dry okay explain keep response cigar dial budget turkey wool south renew";
+var mnemonic = "envelope gentle place zero elite paddle hour human auction ship early sand";

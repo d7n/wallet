@@ -1,1 +1,1 @@
-var mnemonic = "risk cover wild smooth oblige target live theme poverty provide cat pass";
+var mnemonic = "hill seminar gasp upon gold unique inhale ask napkin mesh reopen faint";

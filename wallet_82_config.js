@@ -1,1 +1,1 @@
-var mnemonic = "manual surface dream perfect ramp trust slight penalty file stadium shrimp mimic";
+var mnemonic = "canyon aerobic oyster fitness nut gather mouse settle battle sunny desk loyal";

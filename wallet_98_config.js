@@ -1,1 +1,1 @@
-var mnemonic = "cram motor embody battle three unlock assist absorb prefer face wise damage";
+var mnemonic = "broccoli grit step render second fever floor rich attitude mansion shop shell";

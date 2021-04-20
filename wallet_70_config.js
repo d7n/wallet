@@ -1,1 +1,1 @@
-var mnemonic = "loyal ribbon sorry junior siren economy bless brass hand gas announce hedgehog";
+var mnemonic = "scrub inquiry cute clever usage memory surge destroy wreck cupboard route enjoy";

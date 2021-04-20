@@ -1,1 +1,1 @@
-var mnemonic = "palace taste tonight bone shoulder possible faculty wear inherit gesture alien gift";
+var mnemonic = "under horn cream ridge wood smooth system foil lazy siege diary figure";

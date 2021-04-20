@@ -1,1 +1,1 @@
-var mnemonic = "alone change judge salt pattern endorse pass luggage nice marble limb urban";
+var mnemonic = "chase various useless ski intact impose tobacco memory wine wing popular soap";

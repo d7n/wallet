@@ -1,1 +1,1 @@
-var mnemonic = "feel potato profit network ski shed burden region similar resource escape various";
+var mnemonic = "success oven royal boss law scorpion arena unlock blame dress early august";

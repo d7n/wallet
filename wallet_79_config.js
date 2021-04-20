@@ -1,1 +1,1 @@
-var mnemonic = "theme cushion absorb grid device gospel grief ostrich small trim fix base";
+var mnemonic = "distance quote alien attract shop social job local phrase resemble below ritual";

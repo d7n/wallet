@@ -1,1 +1,1 @@
-var mnemonic = "push execute swing keep industry pact acoustic phone breeze fluid stage card";
+var mnemonic = "kitchen giraffe advance burden rhythm work rocket shoot toilet forget symptom glow";

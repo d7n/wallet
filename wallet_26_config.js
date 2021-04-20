@@ -1,1 +1,1 @@
-var mnemonic = "brush squirrel immune panther gather truly fish wool awake deposit frown milk";
+var mnemonic = "jump island come library tumble pole bag receive truth ring assist gift";

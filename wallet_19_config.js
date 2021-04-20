@@ -1,1 +1,1 @@
-var mnemonic = "congress punch angle guilt noodle garlic best write sample vast robust satisfy";
+var mnemonic = "endless ordinary card frozen around awkward result devote payment upset profit hockey";

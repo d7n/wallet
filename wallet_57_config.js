@@ -1,1 +1,1 @@
-var mnemonic = "divert canyon account piano mad tonight torch cigar fatigue riot defy produce";
+var mnemonic = "scatter catalog journey minute wine donate bring rapid feed pool future strong";

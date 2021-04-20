@@ -1,1 +1,1 @@
-var mnemonic = "live inflict pair switch matrix half valley blood crystal oval biology curve";
+var mnemonic = "annual ribbon include reunion general peace first luggage indicate beach shaft giraffe";

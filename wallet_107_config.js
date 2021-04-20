@@ -1,1 +1,1 @@
-var mnemonic = "clarify produce feel sea fun weekend clown dose possible stable deliver exercise";
+var mnemonic = "quantum oak wagon little offer must verify coin trash awkward venue hammer";

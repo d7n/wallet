@@ -1,1 +1,1 @@
-var mnemonic = "struggle man pet jungle bounce leg father clerk knock then meadow brush";
+var mnemonic = "siege slush rib cushion mouse source present drive record web excuse disorder";

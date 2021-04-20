@@ -1,1 +1,1 @@
-var mnemonic = "acoustic black identify rate senior toe age knock brisk cruel puzzle pond";
+var mnemonic = "section stock coil buyer stable kitchen oval early marriage rally candy label";

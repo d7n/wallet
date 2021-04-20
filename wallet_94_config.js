@@ -1,1 +1,1 @@
-var mnemonic = "jelly choice decline material clinic slush gadget peasant visual space dose vital";
+var mnemonic = "uncover slam amazing sell resemble badge laundry panic undo three range loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "size will plate puppy army combine ivory fatal sail space replace income";
+var mnemonic = "trophy still tank common vanish behave easily diamond cube nice sail ten";

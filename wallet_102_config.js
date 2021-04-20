@@ -1,1 +1,1 @@
-var mnemonic = "journey offer grit wrap banner wisdom fossil bracket head talent dice domain";
+var mnemonic = "pulp early mansion session dress piano satoshi addict scorpion sock banner panic";

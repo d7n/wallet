@@ -1,1 +1,1 @@
-var mnemonic = "luggage nothing primary century various ride border high diet december mail enter";
+var mnemonic = "uncover pet shed adapt friend blush spoon state senior oppose shock try";

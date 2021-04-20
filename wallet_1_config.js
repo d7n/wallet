@@ -1,1 +1,1 @@
-var mnemonic = "damage tortoise menu web minute crisp settle predict achieve plunge harbor cupboard";
+var mnemonic = "always van wire glove reward chuckle feed arm blue renew couch young";

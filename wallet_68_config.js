@@ -1,1 +1,1 @@
-var mnemonic = "vessel receive grant hen blush soft injury side oil thing loan board";
+var mnemonic = "life walk century shrimp maid clump wet almost infant space cloud hurdle";

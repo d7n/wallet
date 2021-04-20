@@ -1,1 +1,1 @@
-var mnemonic = "tunnel beyond race inside humor end hotel front file settle pioneer leopard";
+var mnemonic = "spin flee utility rate live cotton cruise patrol alcohol abandon tape six";

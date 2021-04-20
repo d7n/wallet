@@ -1,1 +1,1 @@
-var mnemonic = "thrive grab normal dynamic attack ride tray muscle stone story legend thank";
+var mnemonic = "gym fitness dilemma vocal retire grid avocado color light weekend guitar possible";

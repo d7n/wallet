@@ -1,1 +1,1 @@
-var mnemonic = "buddy script burst ankle champion mistake box merge wolf puppy know nurse";
+var mnemonic = "column engine vacuum jaguar concert juice air social federal village suspect tennis";

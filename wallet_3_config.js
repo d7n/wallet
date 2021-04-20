@@ -1,1 +1,1 @@
-var mnemonic = "tiger rail try peace area home abandon damage address body scale clutch";
+var mnemonic = "helmet garlic gorilla kite drip attend fun mean confirm float flush half";

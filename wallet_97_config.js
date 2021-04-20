@@ -1,1 +1,1 @@
-var mnemonic = "blame sausage oxygen scan place minute cool wife umbrella eagle organ nose";
+var mnemonic = "code appear raccoon arena warm leopard gauge awesome nephew diary hope small";

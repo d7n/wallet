@@ -1,1 +1,1 @@
-var mnemonic = "bubble insect umbrella shoot uncle surge boat onion card volcano horn weasel";
+var mnemonic = "chuckle prepare spin delay rural remain diagram buddy now confirm morning penalty";

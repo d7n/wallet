@@ -1,1 +1,1 @@
-var mnemonic = "spend carry start apple churn private portion easy unfair glove blossom ecology";
+var mnemonic = "rose dog waste train nature output giraffe enter twist auto purity session";

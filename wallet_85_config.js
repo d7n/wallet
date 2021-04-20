@@ -1,1 +1,1 @@
-var mnemonic = "alarm rug merit panda sell jacket rival category area fox lake toddler";
+var mnemonic = "bike exhaust income what stumble soccer mango deputy satisfy melt budget coyote";

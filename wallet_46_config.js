@@ -1,1 +1,1 @@
-var mnemonic = "brown retire shop stuff captain crane gate charge gospel leisure oxygen whale";
+var mnemonic = "document boy caught post poet pledge vivid find slogan arrive short release";

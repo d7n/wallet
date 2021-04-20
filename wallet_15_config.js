@@ -1,1 +1,1 @@
-var mnemonic = "giraffe season upgrade speak cousin edit quantum illegal female world fly genius";
+var mnemonic = "flat essay midnight fade erosion thank network tone army boring mammal cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "cable question praise adult original liberty rocket resemble despair armed wheat extra";
+var mnemonic = "sorry high flip topic canal educate follow sausage yellow charge kind debris";

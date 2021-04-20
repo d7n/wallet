@@ -1,1 +1,1 @@
-var mnemonic = "sure remove bench beauty weasel eager sense asset else mercy aerobic debate";
+var mnemonic = "until agent receive universe rely hobby exclude bomb allow devote luxury drink";

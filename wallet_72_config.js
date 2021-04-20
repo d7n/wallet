@@ -1,1 +1,1 @@
-var mnemonic = "force elevator entry antique ticket ring special daughter grief anchor know spray";
+var mnemonic = "acquire coyote fabric butter panther noble filter nest edit saddle cart climb";

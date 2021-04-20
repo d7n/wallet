@@ -1,1 +1,1 @@
-var mnemonic = "keep jaguar mail autumn dolphin increase camp trick junk magnet moral bicycle";
+var mnemonic = "select bag ceiling best erode antique snow ribbon crash subject clap problem";

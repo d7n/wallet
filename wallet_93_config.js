@@ -1,1 +1,1 @@
-var mnemonic = "aunt fluid alert soon penalty chimney wonder organ help normal spike hockey";
+var mnemonic = "cable orphan verify cushion hole top more cost glove copper estate lunch";

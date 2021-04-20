@@ -1,1 +1,1 @@
-var mnemonic = "need faculty before foam small wife crucial fly will apology north age";
+var mnemonic = "turkey evil exit identify hero guess review nothing shrimp blur follow fork";

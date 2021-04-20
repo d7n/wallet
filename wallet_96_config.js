@@ -1,1 +1,1 @@
-var mnemonic = "hole scale half learn accident inner patch history daring vapor cloth waste";
+var mnemonic = "purse adjust process opera repair able liberty health file luxury equip obvious";

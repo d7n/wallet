@@ -1,1 +1,1 @@
-var mnemonic = "lecture caution soccer silly wedding gloom whisper decline fat bag crazy bubble";
+var mnemonic = "universe prepare tree also decorate bulb original attend hotel power unfold book";

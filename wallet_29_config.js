@@ -1,1 +1,1 @@
-var mnemonic = "wood mechanic reunion ask element poet retire alert only virus man space";
+var mnemonic = "arena diagram crush gentle sponsor top rocket quarter grain police gospel obvious";

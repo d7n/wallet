@@ -1,1 +1,1 @@
-var mnemonic = "minimum boring vast guilt spider marble bracket nature cream ordinary region patient";
+var mnemonic = "hair fade zero practice museum trigger equal team boost material aisle produce";

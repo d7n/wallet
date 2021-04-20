@@ -1,1 +1,1 @@
-var mnemonic = "inmate wool climb pioneer smile install used lemon negative message fault relax";
+var mnemonic = "zero boring moral extra spend vivid ritual key lady submit spot laptop";

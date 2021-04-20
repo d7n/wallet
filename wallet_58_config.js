@@ -1,1 +1,1 @@
-var mnemonic = "cancel settle divorce govern street gather dizzy twice elephant dilemma trigger total";
+var mnemonic = "rice disorder quiz limit promote ceiling true edge three gate lawsuit awesome";

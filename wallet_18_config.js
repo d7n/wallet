@@ -1,1 +1,1 @@
-var mnemonic = "brass wasp sample monster motor profit hood other stairs hurry thrive picture";
+var mnemonic = "pass topic moment frozen worth churn fire essence ask history until punch";

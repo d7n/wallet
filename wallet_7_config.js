@@ -1,1 +1,1 @@
-var mnemonic = "survey assist peanut cliff donor tray pull increase season region equip bounce";
+var mnemonic = "multiply maple walnut farm invite benefit novel current begin father survey grant";

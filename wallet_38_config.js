@@ -1,1 +1,1 @@
-var mnemonic = "error web hand dust rifle vintage sense few lecture make visit current";
+var mnemonic = "vanish pink jungle margin garment toward token strong gentle uphold curve prepare";

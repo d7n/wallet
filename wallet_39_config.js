@@ -1,1 +1,1 @@
-var mnemonic = "pelican hollow gun risk method glow hedgehog ice track jewel armor hospital";
+var mnemonic = "float soul section orphan course jump quick victory horse bronze lake test";

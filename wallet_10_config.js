@@ -1,1 +1,1 @@
-var mnemonic = "easily rude file trumpet egg party devote best joke stem deliver letter";
+var mnemonic = "actress buzz roof phone distance bunker blur vague snake ten smooth spin";

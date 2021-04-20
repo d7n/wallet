@@ -1,1 +1,1 @@
-var mnemonic = "load vivid cousin school express bless snow jewel balcony follow tiny siege";
+var mnemonic = "gather dirt omit skill science diamond wheat lady glory wide wink across";

@@ -1,1 +1,1 @@
-var mnemonic = "shell obvious response flock circle prison peasant giggle empty trial lemon column";
+var mnemonic = "dry coconut essay genre virtual ordinary spider cabbage extra filter asset among";

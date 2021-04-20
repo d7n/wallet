@@ -1,1 +1,1 @@
-var mnemonic = "cloth before february keep decide turtle faculty safe spatial pitch space dizzy";
+var mnemonic = "thumb alien solid pottery rocket prize eight unusual devote capable crane enrich";

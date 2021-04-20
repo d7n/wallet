@@ -1,1 +1,1 @@
-var mnemonic = "obtain image cabbage paper act fox canvas plunge isolate away bachelor yard";
+var mnemonic = "tribe scrub island love gallery deny shoulder knock common assist height risk";

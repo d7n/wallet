@@ -1,1 +1,1 @@
-var mnemonic = "idea civil still use garbage mix gorilla pond mass pattern milk reduce";
+var mnemonic = "castle habit wait find swallow air ice cheap gap tortoise crew artist";

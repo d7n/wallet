@@ -1,1 +1,1 @@
-var mnemonic = "pair frown depart ice memory vault inch diary gadget pole advice dwarf";
+var mnemonic = "team goat wreck thought arrow glance boss ticket copper liberty cargo fall";

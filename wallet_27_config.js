@@ -1,1 +1,1 @@
-var mnemonic = "crane mystery glow dance help dilemma iron much duck dignity order twin";
+var mnemonic = "castle card impulse seven vast reduce polar upset trip mountain sausage reduce";

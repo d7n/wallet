@@ -1,1 +1,1 @@
-var mnemonic = "coconut quarter axis machine grunt divert rough remove purity firm cupboard special";
+var mnemonic = "toe echo census first adjust grid cat follow want dad camp among";

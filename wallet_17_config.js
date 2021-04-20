@@ -1,1 +1,1 @@
-var mnemonic = "across soldier taste market mad quit call inject orphan hard rapid volume";
+var mnemonic = "clutch blur about argue eyebrow dismiss security simple gentle minute female forget";

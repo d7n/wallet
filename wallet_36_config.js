@@ -1,1 +1,1 @@
-var mnemonic = "now dish uphold chicken range special must lock type poverty ranch blade";
+var mnemonic = "license easily crater replace dilemma behind camera paper clinic fine expose angle";

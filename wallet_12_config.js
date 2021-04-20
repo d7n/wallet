@@ -1,1 +1,1 @@
-var mnemonic = "cover vicious crunch curve sentence velvet monster annual off north deliver allow";
+var mnemonic = "act caught milk enact idle save social twist fame grain enjoy hospital";

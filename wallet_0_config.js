@@ -1,1 +1,1 @@
-var mnemonic = "talk auto hero angry fabric split always cook hurry risk reflect sausage";
+var mnemonic = "produce glass churn medal autumn odor icon undo tomorrow mail keen artwork";

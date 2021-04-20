@@ -1,1 +1,1 @@
-var mnemonic = "sniff post journey moon rail split talk pave draw fold public address";
+var mnemonic = "render multiply sign arch bleak carbon strike divert finger wasp either spatial";

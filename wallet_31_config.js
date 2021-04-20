@@ -1,1 +1,1 @@
-var mnemonic = "auto shock ability flock banner tonight future that canvas wreck taste foil";
+var mnemonic = "bargain almost sock near cash trouble brave gesture circle find trumpet sausage";

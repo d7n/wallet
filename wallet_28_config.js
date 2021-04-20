@@ -1,1 +1,1 @@
-var mnemonic = "nation hour trip corn address outer portion output obvious decorate crystal giggle";
+var mnemonic = "crumble delay adult draft model tobacco chuckle cycle neglect liar tell recycle";

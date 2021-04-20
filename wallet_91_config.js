@@ -1,1 +1,1 @@
-var mnemonic = "ice sunny point local sister bacon survey key online west yard file";
+var mnemonic = "moral obtain ensure camera tumble notice stock need benefit woman alone cherry";

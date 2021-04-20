@@ -1,1 +1,1 @@
-var mnemonic = "feed debris stand armed once gaze race actor latin actor smoke patrol";
+var mnemonic = "choose cover measure cause bacon impose author inspire judge parade invest exotic";

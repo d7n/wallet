@@ -1,1 +1,1 @@
-var mnemonic = "canvas such car begin bomb expire north visit forward crop ramp photo";
+var mnemonic = "trial mango woman mechanic ridge solution interest blur bulb sun canoe lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "south series ostrich wealth funny short into tape stable catalog pave gauge";
+var mnemonic = "together safe ring lyrics twice worth panther quality melt modify horror thrive";

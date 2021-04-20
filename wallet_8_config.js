@@ -1,1 +1,1 @@
-var mnemonic = "mandate jealous burden proof response head journey absorb merge illegal tree chest";
+var mnemonic = "crush first spoil enforce banner suffer daring fever prefer essence blush stage";

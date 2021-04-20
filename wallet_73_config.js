@@ -1,1 +1,1 @@
-var mnemonic = "mammal iron success viable vacant lyrics major fire boy stem distance leave";
+var mnemonic = "suffer spare way fringe cross crush dinner include leader speak empower rabbit";

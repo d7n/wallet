@@ -1,1 +1,1 @@
-var mnemonic = "fish embody rack lobster favorite project forget consider vocal radar live height";
+var mnemonic = "total pioneer ethics penalty slow ostrich anchor miss nothing attract teach canyon";

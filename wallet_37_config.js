@@ -1,1 +1,1 @@
-var mnemonic = "state bamboo guide inner mimic enable equal inform crawl limit foster code";
+var mnemonic = "gentle equip firm person erase wheat chest survey borrow swing balance alpha";

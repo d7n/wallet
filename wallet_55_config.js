@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo reduce else note describe senior jaguar harbor crouch century tuition argue";
+var mnemonic = "this bridge hollow camera round believe almost absorb venue joke south project";

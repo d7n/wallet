@@ -1,1 +1,1 @@
-var mnemonic = "deliver bid tissue giant private curve scout enemy limit wire heart merry";
+var mnemonic = "tired north trial series mercy artwork divorce nice write only reform urge";

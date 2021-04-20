@@ -1,1 +1,1 @@
-var mnemonic = "fan animal run remain rifle bunker village high snap supply skin lab";
+var mnemonic = "smart fork cheap flip lion phrase cash hunt dilemma glow crash lumber";

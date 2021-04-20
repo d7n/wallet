@@ -1,1 +1,1 @@
-var mnemonic = "rule scare audit cabin protect snap silent order sun bulk master junior";
+var mnemonic = "real hard spatial benefit choose organ virtual day steak balance matter obscure";

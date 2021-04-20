@@ -1,1 +1,1 @@
-var mnemonic = "peasant ramp expect maid reduce replace satoshi normal prevent grain arch merge";
+var mnemonic = "bubble step skirt toss detail reason sign omit feature wife thank senior";

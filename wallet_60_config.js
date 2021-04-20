@@ -1,1 +1,1 @@
-var mnemonic = "crumble earn insane other toe skirt tiger castle entry clown flee glory";
+var mnemonic = "youth else city agent siren trick purity oven ostrich december ginger shop";

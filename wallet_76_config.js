@@ -1,1 +1,1 @@
-var mnemonic = "apple language equip trim rib detect still day peanut lyrics coil brown";
+var mnemonic = "chief purpose umbrella another april rival place minimum trust twist prefer apart";
