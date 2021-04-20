@@ -1,1 +1,1 @@
-var mnemonic = "creek cloud seek embark profit frown inflict hamster casino famous kiwi gaze";
+var mnemonic = "uncle include hollow gym zone news movie invite beyond ice renew blame";

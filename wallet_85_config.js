@@ -1,1 +1,1 @@
-var mnemonic = "save glass north art awake planet merry able wet excite caught maid";
+var mnemonic = "produce shop chapter trash melody motion attend blanket very mansion scorpion wave";

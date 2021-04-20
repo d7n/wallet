@@ -1,1 +1,1 @@
-var mnemonic = "parent wild chief emotion casino appear dumb ladder olive avocado forget blind";
+var mnemonic = "direct card always quality damp fiber visa forest truth sphere stable velvet";

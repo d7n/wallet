@@ -1,1 +1,1 @@
-var mnemonic = "adapt medal hamster occur hockey surface sketch federal orphan shy include joy";
+var mnemonic = "tip ready eye beef pioneer rhythm motion young assist audit razor next";

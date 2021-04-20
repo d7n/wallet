@@ -1,1 +1,1 @@
-var mnemonic = "snack people amused hood uncle satisfy claw kiwi inject swear point buyer";
+var mnemonic = "castle frost kidney dinner indoor hedgehog parent theme exhibit deposit whale salad";

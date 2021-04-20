@@ -1,1 +1,1 @@
-var mnemonic = "remind denial skirt stumble seat library prepare peasant shadow pyramid level ten";
+var mnemonic = "kite hub aisle exotic artefact glide mean analyst yard sketch cable december";

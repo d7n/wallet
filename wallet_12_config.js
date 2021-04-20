@@ -1,1 +1,1 @@
-var mnemonic = "deposit omit sense devote sugar service swap plate write eager duck lucky";
+var mnemonic = "panther employ route that chase laundry victory delay bulk three phrase mom";

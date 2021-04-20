@@ -1,1 +1,1 @@
-var mnemonic = "interest museum rose smooth travel crystal coin battle beyond grape what tonight";
+var mnemonic = "jungle result desert meadow quiz exit robot midnight book diet skull network";

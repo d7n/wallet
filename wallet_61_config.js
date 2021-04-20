@@ -1,1 +1,1 @@
-var mnemonic = "wash occur follow unlock cliff sure machine tennis practice honey breeze portion";
+var mnemonic = "theme puppy trouble cable enough hood combine lucky seek bunker wheat tortoise";

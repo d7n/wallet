@@ -1,1 +1,1 @@
-var mnemonic = "mother concert spray sound hen piano ordinary path birth pink siege earn";
+var mnemonic = "royal fat quality figure health grass shrug law can collect spider sponsor";

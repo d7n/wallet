@@ -1,1 +1,1 @@
-var mnemonic = "law bachelor twice predict face cube pattern soccer sad setup noodle where";
+var mnemonic = "dry lounge utility hospital sadness market card disease lumber trade never any";

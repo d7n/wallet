@@ -1,1 +1,1 @@
-var mnemonic = "scan art shift napkin build body duty need ensure basic clarify pizza";
+var mnemonic = "rhythm bunker notable cost lemon number pelican rhythm foster melt brisk gossip";

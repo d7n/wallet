@@ -1,1 +1,1 @@
-var mnemonic = "improve aunt lamp despair genre maximum athlete payment almost concert bonus best";
+var mnemonic = "clock stamp betray else drift fruit real device pencil rain person bid";

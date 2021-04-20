@@ -1,1 +1,1 @@
-var mnemonic = "network hundred click embrace require globe critic diet armed ostrich unlock above";
+var mnemonic = "this twice explain own train noise worry spirit pink retreat frog swamp";

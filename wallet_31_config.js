@@ -1,1 +1,1 @@
-var mnemonic = "song fire rural uphold empty suit outdoor toilet toddler tunnel grant farm";
+var mnemonic = "math spider fall muffin valve flee foil wolf avoid lava tattoo between";

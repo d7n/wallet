@@ -1,1 +1,1 @@
-var mnemonic = "liar weird climb still answer private load century purpose predict together urge";
+var mnemonic = "rough rally minor local crumble birth soup bounce service convince garage bread";

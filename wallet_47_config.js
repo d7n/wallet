@@ -1,1 +1,1 @@
-var mnemonic = "train table begin scrub dry rude human summer much idea flavor era";
+var mnemonic = "menu window draw fabric know track select topic pottery story kingdom female";

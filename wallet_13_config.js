@@ -1,1 +1,1 @@
-var mnemonic = "frozen harsh thunder doll throw weather license bar away keep culture punch";
+var mnemonic = "athlete wise current napkin shop suit fringe multiply fruit foam stable digital";

@@ -1,1 +1,1 @@
-var mnemonic = "camp youth grow caught connect day plate legend oven crouch trumpet insect";
+var mnemonic = "desk simple upset security robust damage abstract trash drum aerobic version divide";

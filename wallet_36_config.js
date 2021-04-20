@@ -1,1 +1,1 @@
-var mnemonic = "brush gasp indicate evoke island hammer april plug improve punch then medal";
+var mnemonic = "delay spirit motor scan remain mail clock shell horror common ahead patrol";

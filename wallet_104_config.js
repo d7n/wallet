@@ -1,1 +1,1 @@
-var mnemonic = "turtle tape isolate tail ladder armor lemon power clever dirt couple mean";
+var mnemonic = "unfold shrimp ramp popular ankle chuckle knee drip swarm arena meat stone";

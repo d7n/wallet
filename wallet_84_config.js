@@ -1,1 +1,1 @@
-var mnemonic = "grit prevent lake picture unique dizzy post rain apology sample kick poem";
+var mnemonic = "day unveil vocal menu collect diet skirt fantasy useless smooth fix stairs";

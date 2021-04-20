@@ -1,1 +1,1 @@
-var mnemonic = "drum power link guilt expire clinic spike nerve garden dance wine excess";
+var mnemonic = "flavor quick crater reason entire stadium planet hospital ecology grow day author";

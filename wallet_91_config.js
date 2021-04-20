@@ -1,1 +1,1 @@
-var mnemonic = "mass vessel photo right tape second staff address metal chimney rebuild flavor";
+var mnemonic = "truly quit heavy accuse flock trend custom renew strong honey setup floor";

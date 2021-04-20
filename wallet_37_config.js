@@ -1,1 +1,1 @@
-var mnemonic = "earth beyond violin home limit hold above ask kidney depart auction puppy";
+var mnemonic = "same topic panel random quarter field squeeze apology prosper theory between victory";

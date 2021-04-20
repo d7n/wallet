@@ -1,1 +1,1 @@
-var mnemonic = "desert notable lesson brass fashion agent lemon tuna popular topple gown captain";
+var mnemonic = "example consider bean inmate keep bundle ostrich index boil quantum excite laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "remain ticket dignity column orchard chicken case repair brand promote airport magic";
+var mnemonic = "rail stable apart craft live music increase festival finger better kit eager";

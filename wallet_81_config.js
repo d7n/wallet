@@ -1,1 +1,1 @@
-var mnemonic = "dutch grid bargain fog obtain box steel shadow disagree thank word ski";
+var mnemonic = "come normal dawn comfort burger curve system reform mansion obscure erupt unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget alien divert face quote coast coffee awesome transfer disease sister push";
+var mnemonic = "physical broccoli gentle guide defy excuse vehicle gap fluid mystery marine require";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo surge crack verify nose cross about fatigue midnight stock increase short";
+var mnemonic = "token stool taxi board riot oxygen ship note two extra student artefact";

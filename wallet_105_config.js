@@ -1,1 +1,1 @@
-var mnemonic = "bomb canoe letter crystal expand wide fame middle buddy desert cute digital";
+var mnemonic = "choice vacuum glow cart town favorite close fall april pulse pistol sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel elevator trophy embark destroy loop route imitate frost moment social online";
+var mnemonic = "basket draft mystery suggest brain drift turn salmon reform elegant rival baby";

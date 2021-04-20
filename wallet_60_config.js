@@ -1,1 +1,1 @@
-var mnemonic = "side valid elephant bubble mandate fault comic fuel taste myself twist color";
+var mnemonic = "twice key hand phone decline trust duty pelican cushion nose explain gown";

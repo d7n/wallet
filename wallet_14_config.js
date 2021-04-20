@@ -1,1 +1,1 @@
-var mnemonic = "rose region cloth ostrich curtain ceiling mail cart erode pen harvest gauge";
+var mnemonic = "prevent umbrella merit pet off entry accident cheese assume setup coffee farm";

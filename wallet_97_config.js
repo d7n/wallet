@@ -1,1 +1,1 @@
-var mnemonic = "denial replace gaze peasant lawn pond nuclear once emerge ski enrich duck";
+var mnemonic = "useful weasel cheese play erase gallery police garden crack mention liquid joke";

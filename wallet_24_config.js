@@ -1,1 +1,1 @@
-var mnemonic = "flower hover report assault tuition space absurd slice afford drink couple border";
+var mnemonic = "float cargo bind silly salad gadget drink mask divide river manual crack";

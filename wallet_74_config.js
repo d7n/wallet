@@ -1,1 +1,1 @@
-var mnemonic = "resist donate tide coffee reject setup until purity armed toss keen extra";
+var mnemonic = "tomorrow off fiscal clerk boy advice open prevent song method insane direct";

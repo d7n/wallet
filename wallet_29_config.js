@@ -1,1 +1,1 @@
-var mnemonic = "hub vanish people into embark abstract buffalo place behind satoshi dial ready";
+var mnemonic = "blood sphere keen stomach just bright double photo boil tortoise play private";

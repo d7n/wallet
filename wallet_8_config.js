@@ -1,1 +1,1 @@
-var mnemonic = "submit arrow income author code seat tuna horn amount mother inhale raven";
+var mnemonic = "unlock universe enlist unveil desk six debris will clean ivory enrich there";

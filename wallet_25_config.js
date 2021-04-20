@@ -1,1 +1,1 @@
-var mnemonic = "jaguar beauty category define area egg giraffe fatigue slogan weather orange palace";
+var mnemonic = "demand train river snake shoe hurt scare month promote flame license envelope";

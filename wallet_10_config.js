@@ -1,1 +1,1 @@
-var mnemonic = "unaware action aware voice actor fun announce permit blossom lawsuit question mirror";
+var mnemonic = "example catalog what spoon surface ginger achieve fade unique lucky eager choose";

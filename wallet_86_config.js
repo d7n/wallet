@@ -1,1 +1,1 @@
-var mnemonic = "rebel rally catch flush coil jump bulb kangaroo cost enrich emotion ankle";
+var mnemonic = "attitude bounce online edge salute travel embark number auto easy spoon angry";

@@ -1,1 +1,1 @@
-var mnemonic = "broom differ close source cave course funny cotton blush airport similar alarm";
+var mnemonic = "amount happy room nothing pioneer badge vote canyon focus tiger heavy tape";

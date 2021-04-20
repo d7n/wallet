@@ -1,1 +1,1 @@
-var mnemonic = "property case mimic weasel sound race fever voice fog enact ramp vapor";
+var mnemonic = "ski arm palace sadness today crumble tree flower elder arrow quantum travel";

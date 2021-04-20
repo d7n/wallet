@@ -1,1 +1,1 @@
-var mnemonic = "funny mix yard toward swing coin assist shrimp fluid fatal absurd lyrics";
+var mnemonic = "left sudden jar clarify head silly muscle change guilt athlete brown situate";

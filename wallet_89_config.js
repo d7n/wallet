@@ -1,1 +1,1 @@
-var mnemonic = "knock flash paddle sleep then alone tragic wave pulse slush speed cream";
+var mnemonic = "penalty staff acid gas drive wonder spoon subway obscure mask convince wet";

@@ -1,1 +1,1 @@
-var mnemonic = "script critic vivid exercise stuff music unaware awesome figure point remain extra";
+var mnemonic = "put light cotton profit frog industry finish submit you road index left";

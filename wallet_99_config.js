@@ -1,1 +1,1 @@
-var mnemonic = "key draw outer pool gun rocket canoe wreck patrol write impulse awake";
+var mnemonic = "congress lamp gospel control canoe chase economy pioneer this ask used dish";

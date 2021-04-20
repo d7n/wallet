@@ -1,1 +1,1 @@
-var mnemonic = "neither fiction tail tower mansion gym learn frown explain cabbage neglect brain";
+var mnemonic = "lounge child giant unlock thrive slow approve rebel element practice divorce logic";

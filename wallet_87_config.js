@@ -1,1 +1,1 @@
-var mnemonic = "cricket soul orange civil vintage injury until clinic museum energy material fish";
+var mnemonic = "secret worth chaos diamond jacket private weekend maid alone jaguar already muffin";

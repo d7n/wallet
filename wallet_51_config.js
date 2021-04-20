@@ -1,1 +1,1 @@
-var mnemonic = "million usage hand affair enroll online erosion garbage fringe vicious ethics defense";
+var mnemonic = "click timber soap elbow more tribe flat sun also force salad high";

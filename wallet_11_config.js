@@ -1,1 +1,1 @@
-var mnemonic = "symbol spice assume return exotic jelly strong useful game black regret crane";
+var mnemonic = "segment wait keep equal hockey dry reflect credit civil boring hybrid match";

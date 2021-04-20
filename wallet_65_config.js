@@ -1,1 +1,1 @@
-var mnemonic = "express season wish sword render just shadow correct what round fruit rely";
+var mnemonic = "affair crunch olympic horror quiz squirrel build taste radar lobster clock afford";

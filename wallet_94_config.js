@@ -1,1 +1,1 @@
-var mnemonic = "mountain blue chef finger sea gesture jewel undo add shrimp ice pistol";
+var mnemonic = "engage usage usage salmon outside meadow daughter average reason dynamic major impact";

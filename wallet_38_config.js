@@ -1,1 +1,1 @@
-var mnemonic = "steel impose country program original vault brown recycle one marriage layer first";
+var mnemonic = "foil firm allow observe reason cabbage insect hamster slam elite vast wasp";

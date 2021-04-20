@@ -1,1 +1,1 @@
-var mnemonic = "whale off mean daring coin forum promote cute monkey fish retire client";
+var mnemonic = "tornado dwarf absurd friend bounce fork soul unknown coin mad fish horn";

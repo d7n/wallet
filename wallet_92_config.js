@@ -1,1 +1,1 @@
-var mnemonic = "oppose sail use online purchase base end sock you velvet dress elite";
+var mnemonic = "ignore yard jaguar antenna reunion coil boat prefer tenant pet amused jar";

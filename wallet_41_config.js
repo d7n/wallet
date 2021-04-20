@@ -1,1 +1,1 @@
-var mnemonic = "umbrella erosion govern future beach detect liquid fly tiger rib royal escape";
+var mnemonic = "exit blouse fall join radar glance advice chat economy spice resemble hero";

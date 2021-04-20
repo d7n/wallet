@@ -1,1 +1,1 @@
-var mnemonic = "range horse parrot check attitude certain jelly near express velvet wise spell";
+var mnemonic = "impact entire digital spice city midnight change ice ignore distance mom dream";

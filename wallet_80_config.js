@@ -1,1 +1,1 @@
-var mnemonic = "pottery oyster joke celery east front taxi mouse odor album patch various";
+var mnemonic = "imitate wasp electric cube exclude team permit smile antenna miracle color angry";

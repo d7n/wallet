@@ -1,1 +1,1 @@
-var mnemonic = "scout term universe carpet estate rally weekend dove promote chief party select";
+var mnemonic = "avoid regret total siege extra flight throw act clever vintage hope kidney";

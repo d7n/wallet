@@ -1,1 +1,1 @@
-var mnemonic = "social robust evolve habit explain must squeeze blood pride insane dentist table";
+var mnemonic = "century endorse agent damage soccer afraid rack island stumble call please video";

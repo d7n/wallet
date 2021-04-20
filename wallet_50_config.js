@@ -1,1 +1,1 @@
-var mnemonic = "shadow tissue subway luggage capable canyon assist addict neglect index famous ostrich";
+var mnemonic = "world lend key autumn disease erase gas venue normal sun arrest pen";

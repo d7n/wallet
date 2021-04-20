@@ -1,1 +1,1 @@
-var mnemonic = "answer spot school swift expose pottery stool wood vicious arm lottery include";
+var mnemonic = "talk clog inner laptop ask retire cousin shadow buzz bonus north truck";

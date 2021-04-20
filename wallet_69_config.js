@@ -1,1 +1,1 @@
-var mnemonic = "illness matrix strong weird economy chimney drop video good abstract equip mimic";
+var mnemonic = "guilt same hard winter pet real defy actor gas sister confirm curious";

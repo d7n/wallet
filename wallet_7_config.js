@@ -1,1 +1,1 @@
-var mnemonic = "quantum wait father funny ready dress island toward boss excite edit tired";
+var mnemonic = "join saddle exotic nuclear deliver truck agree raven trigger wife resource addict";

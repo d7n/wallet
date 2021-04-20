@@ -1,1 +1,1 @@
-var mnemonic = "myth skate tide income provide portion faith barrel affair industry hidden grief";
+var mnemonic = "lake chaos saddle play imitate close remove sock adapt switch spirit green";

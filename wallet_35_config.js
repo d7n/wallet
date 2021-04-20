@@ -1,1 +1,1 @@
-var mnemonic = "pool comfort actress check meadow cat ring step poem plug foster isolate";
+var mnemonic = "fatigue corn alley pistol damage bitter family step novel table fruit town";

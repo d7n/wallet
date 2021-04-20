@@ -1,1 +1,1 @@
-var mnemonic = "fun ankle alter shrug moon warfare essay remove near woman deny tone";
+var mnemonic = "traffic define vote olympic dolphin brush random disagree desk monster zoo enroll";

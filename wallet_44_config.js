@@ -1,1 +1,1 @@
-var mnemonic = "luggage mammal strike canvas panel dawn glow around edge destroy sick picnic";
+var mnemonic = "upon coast pink involve tiny black tongue alien fluid divide filter scheme";

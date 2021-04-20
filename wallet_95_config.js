@@ -1,1 +1,1 @@
-var mnemonic = "relief mystery mail useful slender surprise grunt gas hammer drip stairs ride";
+var mnemonic = "shop empty river burst april please eagle fork potato cruise robust cigar";

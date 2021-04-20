@@ -1,1 +1,1 @@
-var mnemonic = "boil atom fan address message twin pause broccoli consider phone message despair";
+var mnemonic = "arrest leave notice album lens blast honey cross grief dish again stable";

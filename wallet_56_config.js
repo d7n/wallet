@@ -1,1 +1,1 @@
-var mnemonic = "tree exile violin flock poem begin swear burger vital win tag puzzle";
+var mnemonic = "nephew sort copy kind auto legend unknown sunset ride witness spot hidden";

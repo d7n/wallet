@@ -1,1 +1,1 @@
-var mnemonic = "answer plate ostrich yard despair cost cover layer gallery tumble rabbit ring";
+var mnemonic = "announce pencil six cannon ensure bomb brother market theme simple fog bubble";

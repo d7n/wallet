@@ -1,1 +1,1 @@
-var mnemonic = "giggle verb hazard syrup engage fault brave noble oxygen sand rebuild gain";
+var mnemonic = "trophy fiber change smile family enlist wood scare episode invest merit rough";

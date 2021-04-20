@@ -1,1 +1,1 @@
-var mnemonic = "effort spot rule cover tank rebuild print garment turn rocket glide mother";
+var mnemonic = "start file essence million muffin autumn achieve nominee what size palace famous";

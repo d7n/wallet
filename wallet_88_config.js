@@ -1,1 +1,1 @@
-var mnemonic = "popular armor convince curve enact humble desert loop question crazy deputy reward";
+var mnemonic = "minimum output earn tiny history elder citizen gadget gift rabbit fossil view";

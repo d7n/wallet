@@ -1,1 +1,1 @@
-var mnemonic = "utility march salmon outdoor total blur capable canoe tiny collect endless metal";
+var mnemonic = "walk snap benefit kite pair peasant cereal payment theme genius close universe";

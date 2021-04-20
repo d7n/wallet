@@ -1,1 +1,1 @@
-var mnemonic = "help soft echo rely champion payment favorite drive kangaroo assist beef spirit";
+var mnemonic = "private aerobic color know section resource kingdom amazing ride aware tilt comfort";

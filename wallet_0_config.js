@@ -1,1 +1,1 @@
-var mnemonic = "comfort bargain salmon jump easy silent sting foot ceiling bonus lottery ability";
+var mnemonic = "reduce net swing quick audit catch couple disagree valid hero trade rapid";

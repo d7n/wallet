@@ -1,1 +1,1 @@
-var mnemonic = "release raw scrub visa okay awful all almost key bind detail alarm";
+var mnemonic = "submit rebel street twin marble name gravity pony nose invest erode fit";

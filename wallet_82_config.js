@@ -1,1 +1,1 @@
-var mnemonic = "ticket you copper betray merit sorry carpet around escape box bottom pigeon";
+var mnemonic = "indicate erupt height bright play crystal giraffe dentist flight dumb myth lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud because catalog envelope amazing motion exotic monitor tent color quality tree";
+var mnemonic = "valve acquire bronze picnic first spirit actress voyage know envelope belt ticket";

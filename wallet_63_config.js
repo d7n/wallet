@@ -1,1 +1,1 @@
-var mnemonic = "rather hobby cinnamon glue crane wreck build fence rival dirt laundry board";
+var mnemonic = "notice field shop arena tell hidden antenna hundred about aim sunny error";

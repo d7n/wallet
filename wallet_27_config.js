@@ -1,1 +1,1 @@
-var mnemonic = "until pumpkin flip bracket minute include demise stone flame police endless tobacco";
+var mnemonic = "chest ugly feel power around first ball sponsor trip unfold category silver";

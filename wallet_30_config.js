@@ -1,1 +1,1 @@
-var mnemonic = "amused cook wrong address trash reason blush scale luggage vacuum glow matter";
+var mnemonic = "guess weasel hotel crucial danger split demise monkey edge fruit vital pottery";

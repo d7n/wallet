@@ -1,1 +1,1 @@
-var mnemonic = "unable dress poem steel fan sugar bargain search club custom stumble slab";
+var mnemonic = "tomato lucky together material borrow change census wheel absurd hand oyster jealous";

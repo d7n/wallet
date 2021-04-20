@@ -1,1 +1,1 @@
-var mnemonic = "celery private skill often diagram sweet lottery welcome wide rhythm gauge salad";
+var mnemonic = "link such alcohol over select ask labor upset comfort gain record hobby";

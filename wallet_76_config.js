@@ -1,1 +1,1 @@
-var mnemonic = "work rocket item surface deer hamster limit flight tree black enter stool";
+var mnemonic = "foam game blossom hole sausage toward hover squeeze gap ethics inflict expose";

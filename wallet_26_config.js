@@ -1,1 +1,1 @@
-var mnemonic = "decide side tone dirt stumble mirror multiply humble license october garment mammal";
+var mnemonic = "retreat maze breeze short effort gallery unlock fetch wheat inmate zero seat";

@@ -1,1 +1,1 @@
-var mnemonic = "order wrap error screen duck economy situate butter play hood vocal phone";
+var mnemonic = "embark churn script trim broccoli police dutch globe body word require unfold";
