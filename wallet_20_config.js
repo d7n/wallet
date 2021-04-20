@@ -1,1 +1,1 @@
-var mnemonic = "wool execute knock stereo pact calm acid polar proud stairs portion used";
+var mnemonic = "wealth student piece state nest curve satisfy word dust task stay uphold";

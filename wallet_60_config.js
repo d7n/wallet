@@ -1,1 +1,1 @@
-var mnemonic = "habit velvet hazard decide physical entire imitate resource antenna concert beauty faith";
+var mnemonic = "obvious box tone rabbit sea describe resist sketch unhappy disagree time cabin";

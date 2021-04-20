@@ -1,1 +1,1 @@
-var mnemonic = "lemon tiny boat expose cost aspect donor hard armor cry dice oak";
+var mnemonic = "cry fall lens version theme search eternal suit raven episode hollow aerobic";

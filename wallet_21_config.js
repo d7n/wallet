@@ -1,1 +1,1 @@
-var mnemonic = "wise rug sphere walk stable horn exotic drop always call juice uniform";
+var mnemonic = "sorry corn material tackle inherit plate genius help shrimp stock indoor dolphin";

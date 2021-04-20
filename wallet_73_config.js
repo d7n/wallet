@@ -1,1 +1,1 @@
-var mnemonic = "bitter angry pig stick cereal chimney fabric swift air affair guess board";
+var mnemonic = "divorce turn else divert soap sock suspect horn arch glimpse tattoo tent";

@@ -1,1 +1,1 @@
-var mnemonic = "knee broken scout safe talent ordinary black still worth sail cousin tiny";
+var mnemonic = "sight sign exhaust logic grace paper leopard seek salon buyer hero dinner";

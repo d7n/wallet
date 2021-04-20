@@ -1,1 +1,1 @@
-var mnemonic = "trophy barely assault toss trap robust vast skirt source age sign rack";
+var mnemonic = "machine razor connect quarter fan slight clutch fade spy wheat assume jazz";

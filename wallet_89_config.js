@@ -1,1 +1,1 @@
-var mnemonic = "critic hen party own camera pulp reject pioneer announce web brain canvas";
+var mnemonic = "snap salad never window process evolve give enhance bird party noodle logic";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz predict cricket behind hand pause merit occur bulb lift slot hub";
+var mnemonic = "trust case usual trick shiver final sand deputy valid dress scrub other";

@@ -1,1 +1,1 @@
-var mnemonic = "maze begin castle online ostrich rug fiscal east deposit true mercy idle";
+var mnemonic = "usage bean nurse mention like draft police cupboard rookie select margin market";

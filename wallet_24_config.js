@@ -1,1 +1,1 @@
-var mnemonic = "evil vendor chalk emotion satoshi garbage domain shield arrest rebuild squeeze convince";
+var mnemonic = "bike crash error once demise pattern mixed ill ladder bubble series team";

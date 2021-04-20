@@ -1,1 +1,1 @@
-var mnemonic = "scrub bread mom target day return fat render foster nation judge wisdom";
+var mnemonic = "paddle cheese detect sad budget cupboard unit advance phone series scrub brick";

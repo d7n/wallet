@@ -1,1 +1,1 @@
-var mnemonic = "pottery panel list century tool bacon razor adult execute result common match";
+var mnemonic = "desk fade tiger rebuild repair season all donate tissue kite credit suggest";

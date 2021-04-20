@@ -1,1 +1,1 @@
-var mnemonic = "execute pact main mixed era ethics meadow fault anxiety goddess emerge gallery";
+var mnemonic = "sweet brisk guess trap edit verify razor pact effort erosion actress gallery";

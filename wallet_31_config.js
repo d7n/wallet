@@ -1,1 +1,1 @@
-var mnemonic = "chat sad outside drama stem absent asthma wasp aerobic galaxy raven stereo";
+var mnemonic = "taxi shine mansion tilt way sample gold arena behind gas erase fog";

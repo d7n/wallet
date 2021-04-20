@@ -1,1 +1,1 @@
-var mnemonic = "sound explain interest season system panda rain rough fatigue fashion nut kid";
+var mnemonic = "purse own dove arena night apart weapon breeze water cover sample fiction";

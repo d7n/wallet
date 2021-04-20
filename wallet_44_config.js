@@ -1,1 +1,1 @@
-var mnemonic = "risk ceiling okay pull jump rigid employ issue symbol tourist tired random";
+var mnemonic = "end diet dentist shell toward scheme tissue dignity camp guitar truly question";

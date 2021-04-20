@@ -1,1 +1,1 @@
-var mnemonic = "tone fire deal utility curtain prosper safe real true jaguar coach drip";
+var mnemonic = "fan author mirror protect chalk earn because muffin dice square slender goddess";

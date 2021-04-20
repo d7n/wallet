@@ -1,1 +1,1 @@
-var mnemonic = "leave butter hamster staff peace office afford town climb verb basket chapter";
+var mnemonic = "wave brush immense battle gospel soul kangaroo invest hair silver space liquid";

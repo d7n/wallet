@@ -1,1 +1,1 @@
-var mnemonic = "horse genuine upon between metal address recipe enter connect paddle canyon resist";
+var mnemonic = "syrup wear jelly giant question rich cupboard source play barely segment dutch";

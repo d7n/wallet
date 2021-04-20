@@ -1,1 +1,1 @@
-var mnemonic = "ritual army enact joke broccoli grit wing match stable force feed eager";
+var mnemonic = "okay usage gym scheme visual teach canyon another peanut rail food obscure";

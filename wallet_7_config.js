@@ -1,1 +1,1 @@
-var mnemonic = "crew birth lesson weasel razor kingdom betray dry smoke minor celery onion";
+var mnemonic = "worth hover carbon lesson pottery angry bird segment mask estate extend lava";

@@ -1,1 +1,1 @@
-var mnemonic = "fix actual wedding arena slight number oppose neck cinnamon celery clown edit";
+var mnemonic = "adjust van concert open ramp expand position squirrel hill leaf myself thunder";

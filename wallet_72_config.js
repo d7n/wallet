@@ -1,1 +1,1 @@
-var mnemonic = "priority eye festival six excite already ostrich sudden item axis solar convince";
+var mnemonic = "state bunker capable roast thank smoke hard modify present tornado panel again";

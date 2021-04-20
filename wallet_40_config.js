@@ -1,1 +1,1 @@
-var mnemonic = "giggle derive dignity radar august syrup repeat bronze bind repair guitar work";
+var mnemonic = "dog situate milk carbon route jazz expire talk utility key height chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "safe armed marble survey naive oil art inflict hundred gravity bleak very";
+var mnemonic = "van brand process cupboard edge drastic drive display lecture pill develop shadow";

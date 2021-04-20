@@ -1,1 +1,1 @@
-var mnemonic = "sting dolphin network salad human patient chimney capital average page label winner";
+var mnemonic = "silver fee rabbit cereal inside only clip lemon similar entire initial ill";

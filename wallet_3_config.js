@@ -1,1 +1,1 @@
-var mnemonic = "square spread share unlock soft gospel diamond bonus warrior turkey pumpkin creek";
+var mnemonic = "rely judge inflict test nation popular dose ankle employ adapt lab stand";

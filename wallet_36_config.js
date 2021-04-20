@@ -1,1 +1,1 @@
-var mnemonic = "clap loan print deer glue type cotton coin expect oblige thunder night";
+var mnemonic = "offer beef stone gentle grit profit emotion glimpse oxygen entire friend board";

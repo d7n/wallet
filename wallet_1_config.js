@@ -1,1 +1,1 @@
-var mnemonic = "tilt horn silent uphold day human this love express force cement repeat";
+var mnemonic = "hungry pair situate brave step tide fold double render million verify rather";

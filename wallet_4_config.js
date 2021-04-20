@@ -1,1 +1,1 @@
-var mnemonic = "assist miracle spend mother protect clerk reason mask drum pride link spin";
+var mnemonic = "jeans tissue must result surface defy couple robust okay push shift anxiety";

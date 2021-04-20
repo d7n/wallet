@@ -1,1 +1,1 @@
-var mnemonic = "sight mosquito mystery congress luggage question jeans sunny toilet depart can pumpkin";
+var mnemonic = "view divorce prize nothing hen destroy hen various toilet bamboo pigeon jewel";

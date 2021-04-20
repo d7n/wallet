@@ -1,1 +1,1 @@
-var mnemonic = "borrow loyal size very muffin poverty trap era planet soul stock reform";
+var mnemonic = "blade property craft pole saddle chef wheel tone little legend sudden monster";

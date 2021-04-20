@@ -1,1 +1,1 @@
-var mnemonic = "tree title tree bleak glove swear spoon educate sheriff unfold benefit salad";
+var mnemonic = "guitar opinion stable resemble iron craft income focus wool genuine present remember";

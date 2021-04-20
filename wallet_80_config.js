@@ -1,1 +1,1 @@
-var mnemonic = "minor fun pigeon staff donor rebel anger romance civil coil drum shy";
+var mnemonic = "walk scissors drift thought lab explain carpet lesson tag surprise festival donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "undo acquire camera divert annual spatial else cereal empty frown foam liberty";
+var mnemonic = "grape antenna game jazz exhibit anchor regret buddy fun fan critic route";

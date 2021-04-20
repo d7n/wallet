@@ -1,1 +1,1 @@
-var mnemonic = "away ask baby behind depart isolate equip matrix muscle nerve scare deer";
+var mnemonic = "rebel delay setup update equip auto spell upset donkey fee cloth muscle";

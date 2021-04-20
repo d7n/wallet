@@ -1,1 +1,1 @@
-var mnemonic = "crystal gravity perfect tattoo kingdom text zoo snow quality cupboard issue attitude";
+var mnemonic = "ignore chunk relief endorse give hotel curious bounce pencil isolate black middle";

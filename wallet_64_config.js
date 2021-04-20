@@ -1,1 +1,1 @@
-var mnemonic = "cricket useful bargain used coach shoe library captain suit away barrel armed";
+var mnemonic = "rather bus eager laugh rapid then midnight whisper that census economy horror";

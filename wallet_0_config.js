@@ -1,1 +1,1 @@
-var mnemonic = "multiply pave above run brown drive country bind news game ankle attract";
+var mnemonic = "slow advance pudding cycle barely mesh wealth use symbol soon pyramid final";

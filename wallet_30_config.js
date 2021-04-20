@@ -1,1 +1,1 @@
-var mnemonic = "loyal bamboo leisure swallow comic picnic piano already letter myth protect lazy";
+var mnemonic = "arch combine unfold alert dwarf sentence liberty dawn clever cloud demand paddle";

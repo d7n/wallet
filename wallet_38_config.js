@@ -1,1 +1,1 @@
-var mnemonic = "panic analyst tackle noble grit crawl elevator shrimp skill you club envelope";
+var mnemonic = "sad parent craft spy record twice dentist admit cash they private march";

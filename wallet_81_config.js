@@ -1,1 +1,1 @@
-var mnemonic = "soda problem basket select naive verb metal expand reform tonight poverty mistake";
+var mnemonic = "rent hybrid witness absent planet print stomach detect midnight mutual lion throw";

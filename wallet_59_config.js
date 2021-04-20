@@ -1,1 +1,1 @@
-var mnemonic = "armed noble swing prize disorder glow pizza produce observe monster robot faint";
+var mnemonic = "find type evidence where demise better balance year dose maximum manual picture";

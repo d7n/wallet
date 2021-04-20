@@ -1,1 +1,1 @@
-var mnemonic = "account yellow addict milk alter fish badge trial must obscure claw have";
+var mnemonic = "shoot effort amateur traffic tunnel skull soul improve left budget guide gas";

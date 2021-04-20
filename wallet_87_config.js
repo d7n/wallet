@@ -1,1 +1,1 @@
-var mnemonic = "arrange announce earn color soon predict upgrade bar flat protect renew orbit";
+var mnemonic = "boss impose social asset job wrong wagon tail cattle cool corn magnet";

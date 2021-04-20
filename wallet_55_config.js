@@ -1,1 +1,1 @@
-var mnemonic = "wash uniform ginger morning balance marine online wing arm fish skill digital";
+var mnemonic = "swing purity theme select dilemma farm rate depend salad tiny chaos into";

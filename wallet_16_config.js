@@ -1,1 +1,1 @@
-var mnemonic = "ready pause food gravity congress river body blanket dance tank luggage pony";
+var mnemonic = "taste list regret final switch expire ship scheme index crystal potato dolphin";

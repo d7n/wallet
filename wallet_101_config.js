@@ -1,1 +1,1 @@
-var mnemonic = "erupt remind resist anger wealth cattle bridge quality strike length unable climb";
+var mnemonic = "lesson bring bag insane kitchen kick caught leaf trial art list again";

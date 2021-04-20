@@ -1,1 +1,1 @@
-var mnemonic = "mouse friend alpha team visit web layer pluck where heavy mention present";
+var mnemonic = "laundry claw bike lend lecture force manual ethics crush jump phone tone";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture expose able cash winner auction note sentence pig web vital relax";
+var mnemonic = "maze happy ritual answer toilet marine grab version chalk only hood stuff";

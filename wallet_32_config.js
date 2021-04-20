@@ -1,1 +1,1 @@
-var mnemonic = "length lucky theory genre tennis better legend off cactus hockey cotton near";
+var mnemonic = "spike mixed cute candy palm soccer purity mix stick enforce craft polar";

@@ -1,1 +1,1 @@
-var mnemonic = "visa impose bean atom brave discover fringe creek salad search trust blade";
+var mnemonic = "blossom fringe endless easily copper harsh ostrich lottery vacuum win village puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "brother agree danger drive fresh swear stand farm winner wise repair coach";
+var mnemonic = "wrap throw section math bomb only forget fetch orbit frame rice snow";

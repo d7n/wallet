@@ -1,1 +1,1 @@
-var mnemonic = "museum above chimney impose average cricket lake sting trophy disagree sail dolphin";
+var mnemonic = "moral omit coast same fork interest cream inflict later service unable jar";

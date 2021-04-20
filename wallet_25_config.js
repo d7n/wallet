@@ -1,1 +1,1 @@
-var mnemonic = "volcano hard mom drill slim walnut clutch case patient vicious leisure clown";
+var mnemonic = "interest fame math art learn ecology vague own execute focus stuff boss";

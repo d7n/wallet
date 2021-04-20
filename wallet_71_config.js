@@ -1,1 +1,1 @@
-var mnemonic = "nice lift dentist learn pear float extend spare vague amateur heavy peace";
+var mnemonic = "range direct giggle nut soon prefer island outdoor neutral useless live meadow";

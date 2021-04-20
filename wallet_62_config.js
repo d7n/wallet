@@ -1,1 +1,1 @@
-var mnemonic = "waste mandate venture trust weather little great celery margin sick eye skill";
+var mnemonic = "hungry blood stable orchard father primary beach brush hair ladder rapid joke";

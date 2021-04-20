@@ -1,1 +1,1 @@
-var mnemonic = "kitten winner topple inject vital crucial chase fog favorite corn kite energy";
+var mnemonic = "silk recipe angry myth obscure version iron convince loyal velvet vivid carpet";

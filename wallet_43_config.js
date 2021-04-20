@@ -1,1 +1,1 @@
-var mnemonic = "grape parade copy silver artefact daring face alter enforce vendor grid logic";
+var mnemonic = "bid trust border ask radar soft better library horn chunk depart develop";

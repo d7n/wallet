@@ -1,1 +1,1 @@
-var mnemonic = "problem sunset barely right nut wire oil dinosaur survey case cement merit";
+var mnemonic = "staff weasel arrest lock example huge runway ship logic season thumb wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "input fade feed bargain sausage victory purchase clean weekend dentist dirt element";
+var mnemonic = "spell valve illness clever ignore almost title half chair float casual utility";

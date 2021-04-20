@@ -1,1 +1,1 @@
-var mnemonic = "evil addict fine fatigue mesh scout helmet faith crucial emerge shove shove";
+var mnemonic = "essay can have dust zone board tool omit gaze scene develop whale";

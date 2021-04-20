@@ -1,1 +1,1 @@
-var mnemonic = "unfair vibrant hood correct depth educate top other pet quit shock now";
+var mnemonic = "wait crumble absent great table party acoustic naive kit rescue tragic corn";

@@ -1,1 +1,1 @@
-var mnemonic = "sick copper tool frog smoke outer danger ramp grape maid second theory";
+var mnemonic = "add pass toss power wasp gasp jump ozone inform fitness paper mask";

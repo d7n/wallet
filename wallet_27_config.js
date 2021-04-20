@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ramp accident pudding reduce wealth ceiling inject damp three rapid example";
+var mnemonic = "velvet frequent wrist echo laptop snack bachelor vanish sunset bonus program mixed";

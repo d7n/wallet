@@ -1,1 +1,1 @@
-var mnemonic = "strike midnight tourist nurse stuff fall trust shrimp quick walnut volume paddle";
+var mnemonic = "work middle letter planet focus suffer smile fame cream wink obscure antenna";

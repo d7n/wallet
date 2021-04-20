@@ -1,1 +1,1 @@
-var mnemonic = "want buffalo student army enrich exile mesh sister hand unit journey gorilla";
+var mnemonic = "announce fantasy universe clinic describe law legal sphere camera stick run trouble";

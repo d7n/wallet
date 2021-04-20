@@ -1,1 +1,1 @@
-var mnemonic = "behave cost behave pony brown dynamic glide pistol trigger combine swarm olympic";
+var mnemonic = "hazard best impose rifle physical inspire sell profit cabin attack turtle obey";

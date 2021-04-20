@@ -1,1 +1,1 @@
-var mnemonic = "will buzz initial talent embark near video glue pool increase struggle bean";
+var mnemonic = "stage jealous acquire exit mechanic egg define click nation stage observe what";

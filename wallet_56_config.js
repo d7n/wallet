@@ -1,1 +1,1 @@
-var mnemonic = "hard clever inject orbit day hour mesh manage acid shiver struggle patient";
+var mnemonic = "rack that illegal panther grocery early erode execute arrange damp prison exotic";

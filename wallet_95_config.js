@@ -1,1 +1,1 @@
-var mnemonic = "rack tobacco edit under ritual labor cannon seven rescue lecture evolve shoulder";
+var mnemonic = "margin fix valley anger hockey under student doll twist sustain belt usual";

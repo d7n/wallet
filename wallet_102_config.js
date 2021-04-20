@@ -1,1 +1,1 @@
-var mnemonic = "mesh fault dog spike auto neglect oblige exercise heavy power arctic system";
+var mnemonic = "doll fruit filter hover differ summer genuine before vague belt enroll lesson";

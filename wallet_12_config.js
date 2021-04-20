@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow pluck party barely sibling topic oven frost fit memory assume wolf";
+var mnemonic = "surprise verify myself three rely release couch loan today gate profit fortune";

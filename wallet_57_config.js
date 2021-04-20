@@ -1,1 +1,1 @@
-var mnemonic = "embrace patch problem huge zoo decide they melody giggle useless motion own";
+var mnemonic = "sound quit scrub such snow any prepare hip echo grit such ethics";

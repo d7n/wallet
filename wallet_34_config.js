@@ -1,1 +1,1 @@
-var mnemonic = "midnight wagon puppy action law weird escape innocent bargain december devote coach";
+var mnemonic = "country rural scene unusual market moon length trip camp frost kingdom cost";

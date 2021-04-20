@@ -1,1 +1,1 @@
-var mnemonic = "fossil list spring lift space fox identify decorate better erode puppy virtual";
+var mnemonic = "barely wage release conduct fox cabbage bring income canoe copy tomato gym";

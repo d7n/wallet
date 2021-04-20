@@ -1,1 +1,1 @@
-var mnemonic = "ride ramp piano height pact fence syrup scene road salmon debate resist";
+var mnemonic = "noise circle essence bachelor tell riot quote witness theme pill eternal boat";

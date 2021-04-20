@@ -1,1 +1,1 @@
-var mnemonic = "hour trophy bright digital element guard carry offer quote outdoor devote craft";
+var mnemonic = "shaft square access slam unfold develop frown west expect suspect curve prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "cry half auto used draft poet voyage coral morning have surface useless";
+var mnemonic = "slab share unable pizza device proud hurry bubble member exercise city conduct";

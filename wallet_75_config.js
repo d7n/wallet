@@ -1,1 +1,1 @@
-var mnemonic = "master always always day rather urge wear bread witness weapon proof hip";
+var mnemonic = "crime bicycle salmon census rail maple open state finish venue slab asthma";

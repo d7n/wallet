@@ -1,1 +1,1 @@
-var mnemonic = "success mix ladder visual route shoulder frame ribbon close hockey mango void";
+var mnemonic = "song issue chef off idea blush traffic arrange submit pen face pattern";

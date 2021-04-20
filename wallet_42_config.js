@@ -1,1 +1,1 @@
-var mnemonic = "soft flip ripple pact document oyster program call genuine hazard desert waste";
+var mnemonic = "addict strike long shove add rocket satisfy monster artist attack document pen";

@@ -1,1 +1,1 @@
-var mnemonic = "can confirm scorpion afford engage tone tiny robust finger shell own blade";
+var mnemonic = "inquiry dress buyer banner gaze kitten stereo rug entry scale resemble admit";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe supreme clerk unit smart office clown lunch blouse gasp enable mercy";
+var mnemonic = "into scheme main good project balance cheese stereo hire special cannon artwork";

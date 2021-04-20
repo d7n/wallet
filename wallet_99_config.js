@@ -1,1 +1,1 @@
-var mnemonic = "find around gather wave bullet olympic save over pattern toward enemy barely";
+var mnemonic = "carry employ alcohol property level seed either demise phone hunt core shy";

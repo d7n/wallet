@@ -1,1 +1,1 @@
-var mnemonic = "enhance alpha author paper master gospel arrest donate input lock master note";
+var mnemonic = "tilt force diet provide van frequent secret link clean edge issue yellow";
