@@ -1,1 +1,1 @@
-var mnemonic = "column juice split width palace ski era secret monkey rude network goat";
+var mnemonic = "vintage myth pluck harvest lizard change tide curve gentle one else exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange series toy depart strike misery crash cup ritual clarify swallow hurdle";
+var mnemonic = "scatter hybrid image scale truck speed grain spot range jazz hamster vacuum";

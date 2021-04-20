@@ -1,1 +1,1 @@
-var mnemonic = "door address joy spatial country gentle home weird vessel mountain protect sample";
+var mnemonic = "giant guide salmon menu inquiry impulse trick vacuum embark oyster comic orchard";

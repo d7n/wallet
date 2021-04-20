@@ -1,1 +1,1 @@
-var mnemonic = "usage reunion rice learn royal valid exist dove sail must craft piece";
+var mnemonic = "divert practice stairs light protect denial worry awesome smile hawk vault lobster";

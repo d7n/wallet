@@ -1,1 +1,1 @@
-var mnemonic = "skin scatter brisk buyer practice crime bring century icon oak survey spawn";
+var mnemonic = "rather witness place recycle setup width winter service shy tongue fossil slogan";

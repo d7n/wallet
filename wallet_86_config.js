@@ -1,1 +1,1 @@
-var mnemonic = "aerobic near wish farm spy cable balcony loop mistake glare clarify raven";
+var mnemonic = "sorry stick side brush fork reveal love clarify brass faint welcome pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "plate hair snap zone meat theme wash window program swap assist ripple";
+var mnemonic = "always orange manual gift access cute eager drip fat rug mimic symbol";

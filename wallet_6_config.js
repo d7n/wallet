@@ -1,1 +1,1 @@
-var mnemonic = "asset butter female disagree valley syrup diagram board doll buyer silent lake";
+var mnemonic = "major behave deposit plug slight version satisfy interest thunder kingdom next tooth";

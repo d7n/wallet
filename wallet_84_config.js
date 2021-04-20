@@ -1,1 +1,1 @@
-var mnemonic = "tackle chat way winner forum grass stone error blouse east now lesson";
+var mnemonic = "cycle shock stool attend guess debate goose canvas champion water ring critic";

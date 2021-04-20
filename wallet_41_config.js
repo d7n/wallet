@@ -1,1 +1,1 @@
-var mnemonic = "gold supreme case nation invest tomorrow century canal february inject nature since";
+var mnemonic = "slush pretty original crack same embody obvious degree seed expose observe they";

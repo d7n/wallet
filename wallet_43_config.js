@@ -1,1 +1,1 @@
-var mnemonic = "you where tribe bundle race network chimney muscle tragic robot cave outside";
+var mnemonic = "friend forget general rather memory sorry correct scout another vapor nation army";

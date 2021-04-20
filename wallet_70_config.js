@@ -1,1 +1,1 @@
-var mnemonic = "unveil hospital start adult install pencil tobacco unique front problem flower girl";
+var mnemonic = "dumb tongue tissue will above witness earn device dust file traffic talent";

@@ -1,1 +1,1 @@
-var mnemonic = "way tone escape always deputy skill social jewel razor grain cargo recycle";
+var mnemonic = "truck knock cricket reform ritual frame ankle alone shine toy because bright";

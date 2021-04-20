@@ -1,1 +1,1 @@
-var mnemonic = "symptom steak innocent web quiz express flip advance relax harbor win silver";
+var mnemonic = "aunt belt aisle speed order shift caught pony bubble prosper palm assault";

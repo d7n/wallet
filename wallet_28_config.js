@@ -1,1 +1,1 @@
-var mnemonic = "option spring maple movie ready way stamp hotel tornado drop prize horror";
+var mnemonic = "repair visit ankle large amazing segment dumb obvious bonus toss grief end";

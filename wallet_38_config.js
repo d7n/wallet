@@ -1,1 +1,1 @@
-var mnemonic = "dutch mosquito despair else ill motion warrior adult reveal inmate multiply father";
+var mnemonic = "second hunt section cactus movie nation hair half valid lounge zoo effort";

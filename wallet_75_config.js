@@ -1,1 +1,1 @@
-var mnemonic = "october envelope exit hurt delay glue slow pink atom lift sort video";
+var mnemonic = "cabin ice later village process stairs country ceiling auto head cement zebra";

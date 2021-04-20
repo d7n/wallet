@@ -1,1 +1,1 @@
-var mnemonic = "test whale divert system cage catalog attract spatial demise fall various ordinary";
+var mnemonic = "object cup mobile angle absent frequent siege hungry miss deposit provide ask";

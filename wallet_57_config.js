@@ -1,1 +1,1 @@
-var mnemonic = "boost minimum elder help corn purse erase session reason upgrade cup pond";
+var mnemonic = "file diesel fun diary lizard can embark credit cabin inject reflect vast";

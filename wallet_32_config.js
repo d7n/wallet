@@ -1,1 +1,1 @@
-var mnemonic = "regular around action assume cram abuse three asthma slight ankle faculty staff";
+var mnemonic = "gain barely suit glow shed dove income will olympic guitar dolphin height";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect member boat reunion trade fatigue negative remember fat demand yellow tunnel";
+var mnemonic = "antenna glow still ignore knife dish critic carry correct game bachelor naive";

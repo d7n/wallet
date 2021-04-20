@@ -1,1 +1,1 @@
-var mnemonic = "jelly verify forget trust angle badge adjust topple unhappy hour wet angry";
+var mnemonic = "siren ocean merge family suit canal mountain good royal barely dumb melody";

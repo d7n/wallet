@@ -1,1 +1,1 @@
-var mnemonic = "lunar idea other public okay outer rule profit neutral impose castle help";
+var mnemonic = "dismiss liberty ticket kitten insane only hold divorce garlic athlete define lizard";

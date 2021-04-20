@@ -1,1 +1,1 @@
-var mnemonic = "budget enemy reunion dismiss thought noble donkey road punch say produce hazard";
+var mnemonic = "plug crawl argue crop risk original solid error output chief during pattern";

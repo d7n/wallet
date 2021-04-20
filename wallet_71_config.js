@@ -1,1 +1,1 @@
-var mnemonic = "horn century forward behind reopen dwarf claim balcony any tomato hello girl";
+var mnemonic = "prison luxury rib bleak earth pull cabin glide speed priority paddle end";

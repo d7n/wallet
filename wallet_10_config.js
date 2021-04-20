@@ -1,1 +1,1 @@
-var mnemonic = "live country praise elite stage volcano shoulder nerve pause relief vapor cricket";
+var mnemonic = "unhappy expect office trigger vehicle demise usual twelve fortune chat wing adult";

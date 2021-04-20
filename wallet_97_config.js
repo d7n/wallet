@@ -1,1 +1,1 @@
-var mnemonic = "toy kangaroo vocal chat library brisk neither pyramid dilemma jump match jealous";
+var mnemonic = "paper bitter tunnel injury blind bamboo hockey cave chase bridge approve whale";

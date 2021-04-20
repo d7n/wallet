@@ -1,1 +1,1 @@
-var mnemonic = "unit degree refuse prepare zone glue festival prosper regular child stick load";
+var mnemonic = "utility number wisdom risk lottery rail average absent debate other antenna melt";

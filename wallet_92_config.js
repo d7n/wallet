@@ -1,1 +1,1 @@
-var mnemonic = "idle sweet frozen catch traffic tray middle into canvas stumble nominee document";
+var mnemonic = "silk slam peace dizzy voyage sand diary before net talent curve ten";

@@ -1,1 +1,1 @@
-var mnemonic = "forget short rare impact series already noodle volcano treat soda jelly gold";
+var mnemonic = "rack display play empower hobby stick trade slow yard devote salad buzz";

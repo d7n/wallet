@@ -1,1 +1,1 @@
-var mnemonic = "poet inherit emerge inform mammal neck more there tongue deliver imitate sadness";
+var mnemonic = "media inherit symptom seek seven topple museum height bring lounge cigar then";

@@ -1,1 +1,1 @@
-var mnemonic = "setup stem raccoon fringe buyer pluck segment volume inquiry exhaust security egg";
+var mnemonic = "useless crucial approve mimic robust icon hat ugly damp inner chapter kingdom";

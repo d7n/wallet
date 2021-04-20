@@ -1,1 +1,1 @@
-var mnemonic = "shoulder atom talent kitten object car guard trumpet obvious maid rather shoot";
+var mnemonic = "mistake busy prepare glow remain arena walk lottery chimney dry question intact";

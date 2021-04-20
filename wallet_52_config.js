@@ -1,1 +1,1 @@
-var mnemonic = "tuna lesson embark crowd come this achieve minor whale mercy solve bachelor";
+var mnemonic = "among enough budget avoid address clinic cart strike detect uphold simple slush";

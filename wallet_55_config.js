@@ -1,1 +1,1 @@
-var mnemonic = "jar leader mind wood ensure animal blade scrub host lamp satoshi conduct";
+var mnemonic = "finger library garlic capable entire cross audit heart unlock tank cry travel";

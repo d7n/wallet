@@ -1,1 +1,1 @@
-var mnemonic = "warm language talk seven spoon sudden taste damp tank knock taxi camera";
+var mnemonic = "boy half assist upper erupt spread enough despair roast once hurry ensure";

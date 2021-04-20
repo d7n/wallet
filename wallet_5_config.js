@@ -1,1 +1,1 @@
-var mnemonic = "wink pledge layer cherry insect below install order joke broken broom marriage";
+var mnemonic = "fantasy hip myself interest omit warrior luxury oxygen citizen daring dentist sort";

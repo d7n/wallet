@@ -1,1 +1,1 @@
-var mnemonic = "custom comfort target spoon multiply imitate veteran primary medal inject wide upon";
+var mnemonic = "buddy life suspect scatter twelve cage tuition plug question wash join ripple";

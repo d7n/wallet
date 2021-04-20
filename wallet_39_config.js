@@ -1,1 +1,1 @@
-var mnemonic = "fly chronic steel decide alter school enemy nerve burger quarter limb average";
+var mnemonic = "manual wasp trial lottery outdoor pipe wrestle alcohol isolate color shadow buyer";

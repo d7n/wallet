@@ -1,1 +1,1 @@
-var mnemonic = "cactus fury glass enact leg raven sun vacuum chat average sausage surge";
+var mnemonic = "cluster embody morning interest curtain silk cage hold tuition omit garage attract";

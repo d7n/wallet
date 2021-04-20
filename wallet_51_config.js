@@ -1,1 +1,1 @@
-var mnemonic = "candy awake lazy bracket current feed sell art brown crop vibrant clarify";
+var mnemonic = "retreat depart physical outside helmet network barely wheat execute glove jump satisfy";

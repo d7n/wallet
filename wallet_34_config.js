@@ -1,1 +1,1 @@
-var mnemonic = "black plastic episode food put seven ethics game science confirm garage script";
+var mnemonic = "oven clip skill visit kangaroo fun skill bid nature possible chalk behind";

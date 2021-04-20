@@ -1,1 +1,1 @@
-var mnemonic = "pear normal midnight shed oxygen amount letter profit cook funny faith achieve";
+var mnemonic = "collect cable initial salon symbol focus exhaust mandate author already glove water";

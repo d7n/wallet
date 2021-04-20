@@ -1,1 +1,1 @@
-var mnemonic = "spring armed multiply click adjust message always lens predict engine dog airport";
+var mnemonic = "capital legal casino fury fitness atom leader seed evidence afford margin vanish";

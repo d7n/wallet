@@ -1,1 +1,1 @@
-var mnemonic = "awake fun permit wink smart shoulder box rice rotate unlock museum hidden";
+var mnemonic = "duck thrive palm helmet trash fatal coil orphan ordinary beyond robot dry";

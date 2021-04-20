@@ -1,1 +1,1 @@
-var mnemonic = "document blouse exit negative item can harsh garlic avoid luggage bitter pond";
+var mnemonic = "wonder minute loud provide divorce tide valid hollow mixed hidden language sure";

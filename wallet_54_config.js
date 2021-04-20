@@ -1,1 +1,1 @@
-var mnemonic = "badge rocket claw ritual tent crawl rib person uncover dawn fashion sauce";
+var mnemonic = "dice boss accident copy home velvet thank dragon imitate fall puppy upset";

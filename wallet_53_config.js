@@ -1,1 +1,1 @@
-var mnemonic = "artwork road reopen leopard smart elevator solution dove soon kid naive someone";
+var mnemonic = "before shuffle give stereo dizzy aisle awake depend surround tip yard thrive";

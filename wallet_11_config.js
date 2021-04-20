@@ -1,1 +1,1 @@
-var mnemonic = "minute daring polar pepper ginger blood give script seed service domain jar";
+var mnemonic = "frame much salad flag emerge equip solution number any degree address hamster";

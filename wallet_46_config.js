@@ -1,1 +1,1 @@
-var mnemonic = "machine diary birth ski bleak gravity purity fog awful shaft wash bright";
+var mnemonic = "walk bomb silly attract south book sport dress recycle discover season tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "icon segment system derive stock sand replace reform cake hard remind sibling";
+var mnemonic = "swallow road pledge unlock click stem very fine face choice doll unlock";

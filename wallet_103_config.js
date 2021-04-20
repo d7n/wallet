@@ -1,1 +1,1 @@
-var mnemonic = "any tuna all hand brave draw rose section notice wear fuel purchase";
+var mnemonic = "predict lumber spread glue hold swear require gentle ahead habit rib slam";

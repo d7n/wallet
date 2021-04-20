@@ -1,1 +1,1 @@
-var mnemonic = "proud maple around casino hair praise hero such shrug plug solar latin";
+var mnemonic = "region crazy inch almost shiver clay mixed much flat crash bean soda";

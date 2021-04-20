@@ -1,1 +1,1 @@
-var mnemonic = "spring invest come sound slam sad replace sugar favorite bonus rural argue";
+var mnemonic = "bleak six employ dress anchor guitar hat cannon snack injury parrot gain";

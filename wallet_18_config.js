@@ -1,1 +1,1 @@
-var mnemonic = "infant scissors satisfy empower inflict topic hover seek harbor pen future length";
+var mnemonic = "screen between pepper wall clump artwork travel ask coconut add trend shrug";

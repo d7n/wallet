@@ -1,1 +1,1 @@
-var mnemonic = "harsh apple aunt resist disorder spray raise find until tennis relief throw";
+var mnemonic = "swim drama grant peace industry rude usage chef tube thank bright holiday";

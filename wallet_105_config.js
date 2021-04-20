@@ -1,1 +1,1 @@
-var mnemonic = "become squirrel exact honey cake movie sleep build plastic praise ice hedgehog";
+var mnemonic = "much topple core recipe sketch mammal barrel wage party truly olive witness";

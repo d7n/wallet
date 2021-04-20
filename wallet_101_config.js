@@ -1,1 +1,1 @@
-var mnemonic = "ripple wait domain lava ski unfair cheese chicken cook black flower ride";
+var mnemonic = "comfort when copy snack urban actual cross silent soul devote bid sail";

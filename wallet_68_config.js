@@ -1,1 +1,1 @@
-var mnemonic = "hurry lumber gown pluck bronze push hover cute trip relax mixed dose";
+var mnemonic = "fold label seminar purse false creek ordinary tide buffalo scissors trip bean";

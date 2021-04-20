@@ -1,1 +1,1 @@
-var mnemonic = "rebuild gown globe wage exercise better cute mimic style floor final fragile";
+var mnemonic = "school anchor reason service twist robot resemble royal build piece seek pair";

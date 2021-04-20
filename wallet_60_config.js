@@ -1,1 +1,1 @@
-var mnemonic = "silk tool sugar danger mixed summer soon club dry humor much trial";
+var mnemonic = "borrow poem carpet bench bag skirt nature anchor sunny curve exit winter";

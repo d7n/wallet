@@ -1,1 +1,1 @@
-var mnemonic = "step acoustic come run floor rare undo sketch kangaroo prefer timber crouch";
+var mnemonic = "local dynamic inform wave rent find dwarf price wish require advice trumpet";

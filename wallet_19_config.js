@@ -1,1 +1,1 @@
-var mnemonic = "deliver slab body month subway work gauge critic soul reopen enter crumble";
+var mnemonic = "genius armor unknown champion very diamond because suggest enough detail senior unfold";

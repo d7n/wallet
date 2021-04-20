@@ -1,1 +1,1 @@
-var mnemonic = "sing fragile web trumpet scheme piece grape link figure stick breeze large";
+var mnemonic = "bone squirrel left cube donate inhale method rapid debate enable penalty habit";

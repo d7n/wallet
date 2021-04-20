@@ -1,1 +1,1 @@
-var mnemonic = "arrange jungle waste lens oyster sustain cage school legend fiction breeze domain";
+var mnemonic = "recall crystal stick prepare shift never always try across sign vague never";

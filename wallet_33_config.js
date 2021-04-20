@@ -1,1 +1,1 @@
-var mnemonic = "pistol cruel duck session already inquiry rain various fog soup enable replace";
+var mnemonic = "just noise pave open tennis shoe junior scene useless file choice invest";

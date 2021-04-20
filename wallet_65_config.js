@@ -1,1 +1,1 @@
-var mnemonic = "moment region engage announce swamp present ensure color fee globe area garment";
+var mnemonic = "vanish warrior culture school rural put choose inject melt record chair net";

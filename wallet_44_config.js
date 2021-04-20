@@ -1,1 +1,1 @@
-var mnemonic = "rebuild daring twist fatigue bottom burger outdoor patch napkin devote animal north";
+var mnemonic = "affair adult draft speak desert swallow core west index alone swap pear";

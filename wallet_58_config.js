@@ -1,1 +1,1 @@
-var mnemonic = "scare script blur junk audit shuffle reduce below tongue infant cradle hazard";
+var mnemonic = "labor already gaze chicken wide coral adapt used defense regular install proof";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel pull debate rather leaf roast catch weird hover sea artist there";
+var mnemonic = "cage swim staff leader shaft blame sea oyster october comic squirrel buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "trick aspect fit slight alarm scorpion room obscure right merit fork kind";
+var mnemonic = "blame exhibit paddle clip isolate crisp canyon flat enforce limit lens drift";

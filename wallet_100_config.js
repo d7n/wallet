@@ -1,1 +1,1 @@
-var mnemonic = "dragon merry eye open elbow space wise inject way verify fancy dismiss";
+var mnemonic = "lizard manual lucky defense member lizard bunker actress across alley helmet shiver";

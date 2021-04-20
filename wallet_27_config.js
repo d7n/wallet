@@ -1,1 +1,1 @@
-var mnemonic = "ghost primary frog proof shadow tourist unveil elder render enjoy arch bind";
+var mnemonic = "mechanic labor question donate together stock edge awful bubble dog awful awake";

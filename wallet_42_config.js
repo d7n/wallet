@@ -1,1 +1,1 @@
-var mnemonic = "exile eagle youth throw spin six decorate attract cloud pulp sadness diagram";
+var mnemonic = "bag tide raccoon thunder retire cushion donkey erosion adult budget mirror lady";

@@ -1,1 +1,1 @@
-var mnemonic = "sail sugar napkin always test trust world jazz brain remember predict neglect";
+var mnemonic = "average cruise act verb dumb gloom coconut couch gadget fog wheat battle";

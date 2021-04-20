@@ -1,1 +1,1 @@
-var mnemonic = "knock cart crouch much mean arrange discover baby middle replace wedding city";
+var mnemonic = "tilt clay next surround join exotic crane decrease box dilemma increase medal";

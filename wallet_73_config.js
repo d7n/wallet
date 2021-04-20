@@ -1,1 +1,1 @@
-var mnemonic = "feel scheme undo ritual bridge survey shoot faith lobster gun ritual kitten";
+var mnemonic = "layer below address stumble limit south arch culture income donate device addict";

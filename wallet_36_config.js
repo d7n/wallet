@@ -1,1 +1,1 @@
-var mnemonic = "helmet wage champion vocal color throw ensure gravity cinnamon defense result plunge";
+var mnemonic = "slide behind vacuum wife erosion gadget taxi staff path vocal acquire mind";

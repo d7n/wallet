@@ -1,1 +1,1 @@
-var mnemonic = "chest promote crack main weird album proof blanket unfair joy unfair juice";
+var mnemonic = "trip reward exist mention family finger finger survey enjoy panel fun negative";

@@ -1,1 +1,1 @@
-var mnemonic = "music lift wage few nature ranch actual vehicle accuse horror echo secret";
+var mnemonic = "raise leopard payment thank cram movie electric benefit drive speed dentist host";

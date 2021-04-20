@@ -1,1 +1,1 @@
-var mnemonic = "grit year merry equip exchange faint grass hundred sentence rely bottom owner";
+var mnemonic = "west boost east edge group mass march exercise holiday deliver wise travel";

@@ -1,1 +1,1 @@
-var mnemonic = "submit clump cross wide dawn depend ball field subway shed stock differ";
+var mnemonic = "usual steel divorce mixed audit guilt either aspect follow invest enact stamp";

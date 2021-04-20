@@ -1,1 +1,1 @@
-var mnemonic = "right screen castle fancy rather elevator core stone tumble since inhale buffalo";
+var mnemonic = "eye junior ripple mosquito bonus august able loan eager dignity brief negative";

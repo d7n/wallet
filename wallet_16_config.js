@@ -1,1 +1,1 @@
-var mnemonic = "liquid hill able gentle setup harsh draw deliver flip produce oak zero";
+var mnemonic = "toddler sweet sting track mass fan square agree middle venture neck favorite";

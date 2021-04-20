@@ -1,1 +1,1 @@
-var mnemonic = "damp pole square cup notable remember coin fragile trophy dynamic correct input";
+var mnemonic = "patch finger bunker blind mechanic calm trend pink demand glory deal tree";

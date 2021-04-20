@@ -1,1 +1,1 @@
-var mnemonic = "fetch daring whisper crime quick version library oyster pioneer surface climb tribe";
+var mnemonic = "bachelor level gasp belt spider hobby fury junior kite pride street recipe";

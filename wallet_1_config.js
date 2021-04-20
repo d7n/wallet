@@ -1,1 +1,1 @@
-var mnemonic = "hint meat job salmon betray rib card fury wheel glow globe client";
+var mnemonic = "gauge stereo replace dwarf catch current put undo behind machine permit ugly";
