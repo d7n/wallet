@@ -1,1 +1,1 @@
-var mnemonic = "dream reflect own praise genre suspect umbrella laptop mandate search soap cage";
+var mnemonic = "inmate wool climb pioneer smile install used lemon negative message fault relax";

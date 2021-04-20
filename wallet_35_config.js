@@ -1,1 +1,1 @@
-var mnemonic = "deposit physical bottom have anxiety tenant maze enough chronic same dice beyond";
+var mnemonic = "fluid tackle interest ice neck online chicken believe maze regret hat analyst";

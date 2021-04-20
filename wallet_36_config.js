@@ -1,1 +1,1 @@
-var mnemonic = "harbor blossom april answer december economy furnace cash later smoke desk proud";
+var mnemonic = "now dish uphold chicken range special must lock type poverty ranch blade";

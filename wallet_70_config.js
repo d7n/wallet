@@ -1,1 +1,1 @@
-var mnemonic = "taxi subject corn slight inner scale local gift misery uphold order shy";
+var mnemonic = "loyal ribbon sorry junior siren economy bless brass hand gas announce hedgehog";

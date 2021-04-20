@@ -1,1 +1,1 @@
-var mnemonic = "idle glide scorpion armed warfare advice time bus affair cricket butter garden";
+var mnemonic = "ice sunny point local sister bacon survey key online west yard file";

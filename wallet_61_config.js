@@ -1,1 +1,1 @@
-var mnemonic = "paddle rent oval slide island frown force initial force become buzz sell";
+var mnemonic = "ankle wife typical mystery cereal captain shy volcano twin phone gravity boat";

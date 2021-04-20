@@ -1,1 +1,1 @@
-var mnemonic = "dust awkward just express index damp cause hard reflect original butter elite";
+var mnemonic = "cancel settle divorce govern street gather dizzy twice elephant dilemma trigger total";

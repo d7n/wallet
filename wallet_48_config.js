@@ -1,1 +1,1 @@
-var mnemonic = "rude drama rich design enjoy tumble oak ranch zone remind police obvious";
+var mnemonic = "naive swear turkey heavy seat leopard adapt laundry science garden day country";

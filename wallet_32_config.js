@@ -1,1 +1,1 @@
-var mnemonic = "magic curtain false convince home honey situate alter join track hurt crime";
+var mnemonic = "rule scare audit cabin protect snap silent order sun bulk master junior";

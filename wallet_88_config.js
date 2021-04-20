@@ -1,1 +1,1 @@
-var mnemonic = "ring quit plastic tiger same unusual jaguar rhythm domain space rude weather";
+var mnemonic = "minimum boring vast guilt spider marble bracket nature cream ordinary region patient";

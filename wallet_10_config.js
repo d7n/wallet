@@ -1,1 +1,1 @@
-var mnemonic = "blast world fatigue tourist this oven assault tiger upon evidence lumber gym";
+var mnemonic = "easily rude file trumpet egg party devote best joke stem deliver letter";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope day laptop marine moment grit pole fitness rotate parent attitude combine";
+var mnemonic = "manage ice siege large agent creek cake wrap hollow inside taste lyrics";

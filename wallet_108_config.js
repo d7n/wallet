@@ -1,1 +1,1 @@
-var mnemonic = "segment frame genius quality tower scissors inner decorate current curious venue unhappy";
+var mnemonic = "struggle man pet jungle bounce leg father clerk knock then meadow brush";

@@ -1,1 +1,1 @@
-var mnemonic = "dove cricket lunch prison hub planet famous obey now transfer hundred dinosaur";
+var mnemonic = "thrive grab normal dynamic attack ride tray muscle stone story legend thank";

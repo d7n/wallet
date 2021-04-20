@@ -1,1 +1,1 @@
-var mnemonic = "speed dirt screen buddy coffee cycle burger umbrella rival young rough recall";
+var mnemonic = "buddy script burst ankle champion mistake box merge wolf puppy know nurse";

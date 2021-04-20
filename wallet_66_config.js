@@ -1,1 +1,1 @@
-var mnemonic = "mistake practice hurt inherit gossip dune error leave sphere chalk small exercise";
+var mnemonic = "cable question praise adult original liberty rocket resemble despair armed wheat extra";

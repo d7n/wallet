@@ -1,1 +1,1 @@
-var mnemonic = "badge start trim knock romance health outdoor garment hollow betray neck garage";
+var mnemonic = "push execute swing keep industry pact acoustic phone breeze fluid stage card";

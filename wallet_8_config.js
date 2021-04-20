@@ -1,1 +1,1 @@
-var mnemonic = "mask filter crawl phrase grant tomato three muscle they spoil agree time";
+var mnemonic = "mandate jealous burden proof response head journey absorb merge illegal tree chest";

@@ -1,1 +1,1 @@
-var mnemonic = "artist volume weasel wide click peace silly place venture elbow horn shallow";
+var mnemonic = "romance define duty grief awake muffin shrug egg olive ugly clean bright";

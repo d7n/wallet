@@ -1,1 +1,1 @@
-var mnemonic = "copper gentle infant scissors hood monitor reflect winner pill draft police film";
+var mnemonic = "sniff post journey moon rail split talk pave draw fold public address";

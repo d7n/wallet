@@ -1,1 +1,1 @@
-var mnemonic = "busy cave shoot accident squeeze slight benefit indicate three zebra fiction gadget";
+var mnemonic = "crane mystery glow dance help dilemma iron much duck dignity order twin";

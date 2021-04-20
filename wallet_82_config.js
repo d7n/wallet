@@ -1,1 +1,1 @@
-var mnemonic = "object retreat measure worry tray mansion project ring silly vote tunnel assume";
+var mnemonic = "manual surface dream perfect ramp trust slight penalty file stadium shrimp mimic";

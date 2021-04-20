@@ -1,1 +1,1 @@
-var mnemonic = "hunt pool produce bargain welcome asthma gas slogan off teach aisle castle";
+var mnemonic = "tongue stamp oil boss island crane blossom joy bicycle autumn apart double";

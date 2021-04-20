@@ -1,1 +1,1 @@
-var mnemonic = "enforce cruel swing tobacco ride turtle oven quality benefit life hour only";
+var mnemonic = "brass wasp sample monster motor profit hood other stairs hurry thrive picture";

@@ -1,1 +1,1 @@
-var mnemonic = "snake item love young robust fashion wheat chimney portion warm either hurt";
+var mnemonic = "giraffe season upgrade speak cousin edit quantum illegal female world fly genius";

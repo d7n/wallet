@@ -1,1 +1,1 @@
-var mnemonic = "ship mask side afford vital bounce carry confirm want ski project ancient";
+var mnemonic = "force elevator entry antique ticket ring special daughter grief anchor know spray";

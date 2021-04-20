@@ -1,1 +1,1 @@
-var mnemonic = "deputy aisle when guilt quiz fluid upper crystal excuse trip genius staff";
+var mnemonic = "palace taste tonight bone shoulder possible faculty wear inherit gesture alien gift";

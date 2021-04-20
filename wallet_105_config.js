@@ -1,1 +1,1 @@
-var mnemonic = "round true will awake frozen guide spring phrase brand keen circle clever";
+var mnemonic = "risk cover wild smooth oblige target live theme poverty provide cat pass";

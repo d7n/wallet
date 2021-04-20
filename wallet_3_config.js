@@ -1,1 +1,1 @@
-var mnemonic = "flight deny type inside else network burger annual please final nuclear slice";
+var mnemonic = "tiger rail try peace area home abandon damage address body scale clutch";

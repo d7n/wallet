@@ -1,1 +1,1 @@
-var mnemonic = "forum cram hunt expect catalog piano around exchange keep stuff lucky shaft";
+var mnemonic = "kangaroo reduce else note describe senior jaguar harbor crouch century tuition argue";

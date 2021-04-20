@@ -1,1 +1,1 @@
-var mnemonic = "wheel theme invite bounce else escape abstract drastic live cave phrase file";
+var mnemonic = "aunt fluid alert soon penalty chimney wonder organ help normal spike hockey";

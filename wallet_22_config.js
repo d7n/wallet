@@ -1,1 +1,1 @@
-var mnemonic = "cute cause also truck notice feature injury author spawn junior dream icon";
+var mnemonic = "need faculty before foam small wife crucial fly will apology north age";

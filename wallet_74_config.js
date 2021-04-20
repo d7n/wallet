@@ -1,1 +1,1 @@
-var mnemonic = "erupt brand fix flee quote above gather company code gauge icon nominee";
+var mnemonic = "cloth before february keep decide turtle faculty safe spatial pitch space dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "stem crash marble leopard blossom party vicious crash please beauty supply what";
+var mnemonic = "flee bring novel unit shift depend clay issue hurry undo mixed wheat";

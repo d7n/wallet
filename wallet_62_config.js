@@ -1,1 +1,1 @@
-var mnemonic = "pause salute chicken donkey burst order mixed behind project again crumble you";
+var mnemonic = "fish embody rack lobster favorite project forget consider vocal radar live height";

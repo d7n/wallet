@@ -1,1 +1,1 @@
-var mnemonic = "old improve sister deal hidden fluid math wolf kick logic shed mango";
+var mnemonic = "love stove labor soda act twist home play fruit crumble lunch balcony";

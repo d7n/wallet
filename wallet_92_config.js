@@ -1,1 +1,1 @@
-var mnemonic = "announce safe soda wheat rich decade thrive tooth figure what master mango";
+var mnemonic = "lecture caution soccer silly wedding gloom whisper decline fat bag crazy bubble";

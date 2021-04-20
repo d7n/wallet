@@ -1,1 +1,1 @@
-var mnemonic = "soul state pause update raven poem ensure hotel derive monkey boring world";
+var mnemonic = "sick essay observe trick color ancient offer neither grant easy rally achieve";

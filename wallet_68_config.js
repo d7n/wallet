@@ -1,1 +1,1 @@
-var mnemonic = "dolphin luggage parrot govern estate gospel wall surround pole garbage pattern reunion";
+var mnemonic = "vessel receive grant hen blush soft injury side oil thing loan board";

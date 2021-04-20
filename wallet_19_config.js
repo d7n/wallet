@@ -1,1 +1,1 @@
-var mnemonic = "certain will sketch brisk exotic theory obey rubber monster vacuum logic autumn";
+var mnemonic = "congress punch angle guilt noodle garlic best write sample vast robust satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon whisper space nerve ocean core alone sort bring click correct choice";
+var mnemonic = "feel potato profit network ski shed burden region similar resource escape various";

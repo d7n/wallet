@@ -1,1 +1,1 @@
-var mnemonic = "evidence include water cave task tell maid during bracket tennis screen resource";
+var mnemonic = "state bamboo guide inner mimic enable equal inform crawl limit foster code";

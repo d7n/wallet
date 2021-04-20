@@ -1,1 +1,1 @@
-var mnemonic = "series unhappy method embrace taste range ozone palm shiver gorilla blade evolve";
+var mnemonic = "rally fashion either weasel provide smoke nerve course foam matter misery pink";

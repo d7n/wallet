@@ -1,1 +1,1 @@
-var mnemonic = "define all multiply pupil rebel chase rebel fame scout jaguar enroll excite";
+var mnemonic = "manage program leisure few junk point pass sign mansion keep business bamboo";

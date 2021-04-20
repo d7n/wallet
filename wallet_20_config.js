@@ -1,1 +1,1 @@
-var mnemonic = "debate axis fox relax wool jaguar maple vanish into purse iron either";
+var mnemonic = "copy test sword walnut border poet park vocal feed dilemma alien raise";

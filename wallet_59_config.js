@@ -1,1 +1,1 @@
-var mnemonic = "argue this harbor sad tomorrow whale vote creek pumpkin fee food giant";
+var mnemonic = "toddler paper frame music citizen mirror sign duty crumble setup lab rural";

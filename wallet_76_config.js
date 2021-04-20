@@ -1,1 +1,1 @@
-var mnemonic = "purity couch now profit moral prize north wasp volume gravity limb pulp";
+var mnemonic = "apple language equip trim rib detect still day peanut lyrics coil brown";

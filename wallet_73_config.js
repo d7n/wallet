@@ -1,1 +1,1 @@
-var mnemonic = "simple exhaust assault shrug reason any second fury laugh route accuse biology";
+var mnemonic = "mammal iron success viable vacant lyrics major fire boy stem distance leave";

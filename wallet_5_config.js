@@ -1,1 +1,1 @@
-var mnemonic = "next lemon advance security total actress neck churn shoot matrix inject robot";
+var mnemonic = "luggage nothing primary century various ride border high diet december mail enter";

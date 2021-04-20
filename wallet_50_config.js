@@ -1,1 +1,1 @@
-var mnemonic = "rely foil empower spider ugly green runway fresh remain digital garlic waste";
+var mnemonic = "peasant ramp expect maid reduce replace satoshi normal prevent grain arch merge";

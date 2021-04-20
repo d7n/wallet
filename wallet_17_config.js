@@ -1,1 +1,1 @@
-var mnemonic = "stand federal tomorrow punch face dove obey ridge glide wrist curtain escape";
+var mnemonic = "across soldier taste market mad quit call inject orphan hard rapid volume";

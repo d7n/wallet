@@ -1,1 +1,1 @@
-var mnemonic = "later adult mule shaft infant quarter sweet chest fame fence pipe system";
+var mnemonic = "size will plate puppy army combine ivory fatal sail space replace income";

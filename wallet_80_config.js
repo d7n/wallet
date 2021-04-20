@@ -1,1 +1,1 @@
-var mnemonic = "banner coffee extend stage unique swim replace trouble super roof reunion armed";
+var mnemonic = "load vivid cousin school express bless snow jewel balcony follow tiny siege";

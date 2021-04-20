@@ -1,1 +1,1 @@
-var mnemonic = "total rebuild father pulse table tonight cherry much advice only segment rail";
+var mnemonic = "bench truly favorite scare daughter chest ride service decrease feel base message";

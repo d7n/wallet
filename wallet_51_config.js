@@ -1,1 +1,1 @@
-var mnemonic = "copy quit morning moon island foster balcony broccoli believe gun copper clown";
+var mnemonic = "accident impose inside already supreme fall armor carpet build manual drum identify";

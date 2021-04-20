@@ -1,1 +1,1 @@
-var mnemonic = "draw congress alone cute page craft tennis split scare gasp wrestle stove";
+var mnemonic = "feed debris stand armed once gaze race actor latin actor smoke patrol";

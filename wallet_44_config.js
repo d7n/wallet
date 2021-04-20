@@ -1,1 +1,1 @@
-var mnemonic = "quote cradle blade tail knife alien home naive truck boring bright easily";
+var mnemonic = "bubble insect umbrella shoot uncle surge boat onion card volcano horn weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "rib hero spy sign three boil drum long prefer index bind kid";
+var mnemonic = "brush squirrel immune panther gather truly fish wool awake deposit frown milk";

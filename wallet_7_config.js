@@ -1,1 +1,1 @@
-var mnemonic = "gentle original token firm civil thing bonus quality library replace pair produce";
+var mnemonic = "survey assist peanut cliff donor tray pull increase season region equip bounce";

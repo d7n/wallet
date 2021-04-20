@@ -1,1 +1,1 @@
-var mnemonic = "exhaust myself example fit inmate warfare autumn era country outer spike refuse";
+var mnemonic = "clarify produce feel sea fun weekend clown dose possible stable deliver exercise";

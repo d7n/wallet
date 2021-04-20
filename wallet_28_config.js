@@ -1,1 +1,1 @@
-var mnemonic = "trend noble capital second cattle exit rice member actor cradle vicious clerk";
+var mnemonic = "nation hour trip corn address outer portion output obvious decorate crystal giggle";

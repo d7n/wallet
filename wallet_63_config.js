@@ -1,1 +1,1 @@
-var mnemonic = "stomach enough disease now stem rich nut chicken depart voice urge sun";
+var mnemonic = "acoustic black identify rate senior toe age knock brisk cruel puzzle pond";

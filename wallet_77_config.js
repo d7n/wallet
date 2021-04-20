@@ -1,1 +1,1 @@
-var mnemonic = "elevator print shoe sketch barely salmon avoid impulse custom leisure frozen venue";
+var mnemonic = "lock interest ritual craft once reveal avoid elevator copy avocado check step";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise bamboo text donor plug bird plate depend evolve voice frame hen";
+var mnemonic = "pelican hollow gun risk method glow hedgehog ice track jewel armor hospital";

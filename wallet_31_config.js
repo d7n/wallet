@@ -1,1 +1,1 @@
-var mnemonic = "evidence security suffer medal venture swing produce expose dumb cargo brand stock";
+var mnemonic = "auto shock ability flock banner tonight future that canvas wreck taste foil";

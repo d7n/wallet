@@ -1,1 +1,1 @@
-var mnemonic = "odor canoe fruit relief lesson like hazard usual acquire owner hurry wrap";
+var mnemonic = "dry okay explain keep response cigar dial budget turkey wool south renew";

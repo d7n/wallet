@@ -1,1 +1,1 @@
-var mnemonic = "plastic virtual beach position attack quarter quantum very october spatial bridge over";
+var mnemonic = "shell obvious response flock circle prison peasant giggle empty trial lemon column";

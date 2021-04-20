@@ -1,1 +1,1 @@
-var mnemonic = "salon blanket sustain snack option offer industry girl track make real offer";
+var mnemonic = "cover vicious crunch curve sentence velvet monster annual off north deliver allow";

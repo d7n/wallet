@@ -1,1 +1,1 @@
-var mnemonic = "whale inmate endorse picture news trend jealous sunny advance first raven initial";
+var mnemonic = "silk high floor power spare various oppose attend soon female canal section";

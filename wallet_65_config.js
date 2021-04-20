@@ -1,1 +1,1 @@
-var mnemonic = "success problem echo chaos dinosaur tumble initial width library negative ripple exact";
+var mnemonic = "remind day drip fine gauge federal clown ancient funny report east quality";

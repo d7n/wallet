@@ -1,1 +1,1 @@
-var mnemonic = "account rich turtle rare original entry boy occur upset appear clever elder";
+var mnemonic = "female coast skirt invite must derive flower humor barrel survey ability sheriff";

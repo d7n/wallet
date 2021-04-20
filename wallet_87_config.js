@@ -1,1 +1,1 @@
-var mnemonic = "infant moment ridge wing mobile gossip egg shuffle life imitate wait next";
+var mnemonic = "pair frown depart ice memory vault inch diary gadget pole advice dwarf";

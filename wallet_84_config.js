@@ -1,1 +1,1 @@
-var mnemonic = "harbor diary cool depart few fox fancy small illness pipe clay friend";
+var mnemonic = "idea civil still use garbage mix gorilla pond mass pattern milk reduce";

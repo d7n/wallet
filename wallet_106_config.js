@@ -1,1 +1,1 @@
-var mnemonic = "sort orient zero acid mouse marine jealous spoil stereo thumb near fantasy";
+var mnemonic = "bench crew tired various wrap hover small mutual quality noble trial present";

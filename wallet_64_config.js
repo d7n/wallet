@@ -1,1 +1,1 @@
-var mnemonic = "carpet obtain mom discover palace puzzle stumble excess ability weasel abstract flower";
+var mnemonic = "stage slogan bargain ceiling crop strong staff yellow weasel genius flush chimney";

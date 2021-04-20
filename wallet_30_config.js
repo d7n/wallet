@@ -1,1 +1,1 @@
-var mnemonic = "wrestle flash clump trash romance film notable diet anger hunt near secret";
+var mnemonic = "spy praise rule reject assault lazy chicken timber office kind soft toss";

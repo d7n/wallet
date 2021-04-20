@@ -1,1 +1,1 @@
-var mnemonic = "ill weasel team cheap exist brick veteran daughter used tenant elegant ozone";
+var mnemonic = "alarm rug merit panda sell jacket rival category area fox lake toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "depart deposit seat force finger noble private wild theme nice gym celery";
+var mnemonic = "deliver bid tissue giant private curve scout enemy limit wire heart merry";

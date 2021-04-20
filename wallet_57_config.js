@@ -1,1 +1,1 @@
-var mnemonic = "tribe inquiry rival injury cause lazy issue eager banana extend art surge";
+var mnemonic = "divert canyon account piano mad tonight torch cigar fatigue riot defy produce";

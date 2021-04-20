@@ -1,1 +1,1 @@
-var mnemonic = "hollow inherit grape room dream minor essence laugh first pudding hold brief";
+var mnemonic = "journey offer grit wrap banner wisdom fossil bracket head talent dice domain";

@@ -1,1 +1,1 @@
-var mnemonic = "six lady unhappy sadness review unusual blood cargo lemon language spoil kiwi";
+var mnemonic = "wood mechanic reunion ask element poet retire alert only virus man space";

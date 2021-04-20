@@ -1,1 +1,1 @@
-var mnemonic = "again math cause resemble upon shop balance receive pencil potato assault spy";
+var mnemonic = "crumble earn insane other toe skirt tiger castle entry clown flee glory";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze obey area exercise gauge caution improve hard cactus muscle ramp consider";
+var mnemonic = "live inflict pair switch matrix half valley blood crystal oval biology curve";

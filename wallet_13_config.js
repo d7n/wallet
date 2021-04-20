@@ -1,1 +1,1 @@
-var mnemonic = "build taxi outside giggle stay east design switch quantum side rent close";
+var mnemonic = "fan animal run remain rifle bunker village high snap supply skin lab";

@@ -1,1 +1,1 @@
-var mnemonic = "youth kind often blind index diet affair umbrella alcohol mobile dish stove";
+var mnemonic = "genuine type move lonely increase fee pair someone fox crane jump loop";

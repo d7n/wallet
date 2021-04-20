@@ -1,1 +1,1 @@
-var mnemonic = "debris shadow visit idle win youth nation front idle reward reveal bracket";
+var mnemonic = "wheel odor wise elegant erase gift move benefit team moon wine turtle";

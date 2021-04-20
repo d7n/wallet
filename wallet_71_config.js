@@ -1,1 +1,1 @@
-var mnemonic = "offer sketch warm lava magic diamond mom setup sell ginger motor guilt";
+var mnemonic = "coconut quarter axis machine grunt divert rough remove purity firm cupboard special";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar bicycle wet funny element vibrant accident strong spring immense tongue unfold";
+var mnemonic = "damage tortoise menu web minute crisp settle predict achieve plunge harbor cupboard";

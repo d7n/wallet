@@ -1,1 +1,1 @@
-var mnemonic = "time tissue mass salt crime actor hungry business mansion laugh divorce message";
+var mnemonic = "jelly choice decline material clinic slush gadget peasant visual space dose vital";

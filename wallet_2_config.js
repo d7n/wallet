@@ -1,1 +1,1 @@
-var mnemonic = "edge depend charge oak seek drastic credit depart vintage patrol flame wave";
+var mnemonic = "sure remove bench beauty weasel eager sense asset else mercy aerobic debate";

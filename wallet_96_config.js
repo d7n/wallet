@@ -1,1 +1,1 @@
-var mnemonic = "knock zebra smile swim devote cost arctic illness era grid hazard artwork";
+var mnemonic = "hole scale half learn accident inner patch history daring vapor cloth waste";

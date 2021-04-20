@@ -1,1 +1,1 @@
-var mnemonic = "error enter inch bag lesson bitter shove fit lift news search dutch";
+var mnemonic = "anger such label gas grace letter able board regret van regret minimum";

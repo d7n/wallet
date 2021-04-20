@@ -1,1 +1,1 @@
-var mnemonic = "smile merit sketch force program silk sport expose civil visa ring casino";
+var mnemonic = "alone change judge salt pattern endorse pass luggage nice marble limb urban";

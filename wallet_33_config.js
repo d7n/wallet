@@ -1,1 +1,1 @@
-var mnemonic = "must predict develop adjust sure blossom adapt memory drill ask pepper input";
+var mnemonic = "canvas such car begin bomb expire north visit forward crop ramp photo";

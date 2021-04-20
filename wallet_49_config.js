@@ -1,1 +1,1 @@
-var mnemonic = "slender assume forum volume elegant crop maid unknown patient fine future cost";
+var mnemonic = "spend carry start apple churn private portion easy unfair glove blossom ecology";

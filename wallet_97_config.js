@@ -1,1 +1,1 @@
-var mnemonic = "flower music shrug sort business combine trash derive tired smooth misery chair";
+var mnemonic = "blame sausage oxygen scan place minute cool wife umbrella eagle organ nose";
