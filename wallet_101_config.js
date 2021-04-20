@@ -1,1 +1,1 @@
-var mnemonic = "lesson bring bag insane kitchen kick caught leaf trial art list again";
+var mnemonic = "avocado tide gate regret erase ranch drill twelve arrest craft bamboo arrest";

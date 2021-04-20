@@ -1,1 +1,1 @@
-var mnemonic = "paddle cheese detect sad budget cupboard unit advance phone series scrub brick";
+var mnemonic = "cherry spider hard planet medal apart announce portion math defy arrest shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "sad parent craft spy record twice dentist admit cash they private march";
+var mnemonic = "keen lumber throw pride curve shoot decline claim wife cousin quality cereal";

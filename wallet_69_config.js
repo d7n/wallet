@@ -1,1 +1,1 @@
-var mnemonic = "syrup wear jelly giant question rich cupboard source play barely segment dutch";
+var mnemonic = "dress play embody drill typical rotate update cupboard ski tonight twice pair";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel delay setup update equip auto spell upset donkey fee cloth muscle";
+var mnemonic = "vehicle accuse size pulp tortoise elegant goat ask pony glove expand glad";

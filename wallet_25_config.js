@@ -1,1 +1,1 @@
-var mnemonic = "interest fame math art learn ecology vague own execute focus stuff boss";
+var mnemonic = "oppose clean grab chuckle insect gauge stadium tornado click letter sure below";

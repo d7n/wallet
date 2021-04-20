@@ -1,1 +1,1 @@
-var mnemonic = "patrol satisfy fringe power promote riot bid grain palace gallery indoor width";
+var mnemonic = "pause scan group allow kit option paddle spirit absorb asthma ability start";

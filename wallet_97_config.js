@@ -1,1 +1,1 @@
-var mnemonic = "frame april insane practice bomb pistol forest focus oppose pottery below cat";
+var mnemonic = "lonely knock trash pudding sketch coral tomato anger crystal okay nurse range";

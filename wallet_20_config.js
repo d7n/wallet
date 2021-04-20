@@ -1,1 +1,1 @@
-var mnemonic = "wealth student piece state nest curve satisfy word dust task stay uphold";
+var mnemonic = "onion ahead feature across tomato stereo tired rich stuff royal measure memory";

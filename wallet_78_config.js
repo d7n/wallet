@@ -1,1 +1,1 @@
-var mnemonic = "adjust van concert open ramp expand position squirrel hill leaf myself thunder";
+var mnemonic = "wreck brown nasty hub vehicle race husband split little record floor ocean";

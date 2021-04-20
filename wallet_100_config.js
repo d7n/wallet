@@ -1,1 +1,1 @@
-var mnemonic = "ignore chunk relief endorse give hotel curious bounce pencil isolate black middle";
+var mnemonic = "trigger flock antenna asset pistol void urban distance yard glide viable poem";

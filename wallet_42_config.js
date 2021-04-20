@@ -1,1 +1,1 @@
-var mnemonic = "addict strike long shove add rocket satisfy monster artist attack document pen";
+var mnemonic = "tissue summer cool lonely vacuum beach orphan engage craft often quantum uncover";

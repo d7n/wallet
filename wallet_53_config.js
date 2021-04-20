@@ -1,1 +1,1 @@
-var mnemonic = "food tank price problem seat mom senior jeans clap chef crucial history";
+var mnemonic = "door era toast health suspect rather diet patch size move black athlete";

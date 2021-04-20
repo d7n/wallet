@@ -1,1 +1,1 @@
-var mnemonic = "moral omit coast same fork interest cream inflict later service unable jar";
+var mnemonic = "album scare slogan fresh gravity card slim invite situate bundle panther ask";

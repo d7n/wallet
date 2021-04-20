@@ -1,1 +1,1 @@
-var mnemonic = "tape kidney carbon light nurse soup cream crack essence maximum scrap shoot";
+var mnemonic = "change twist cool hill robot parent play rural confirm knife adapt lawn";

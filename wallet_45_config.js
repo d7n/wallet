@@ -1,1 +1,1 @@
-var mnemonic = "into scheme main good project balance cheese stereo hire special cannon artwork";
+var mnemonic = "connect relax mistake copy blade suggest orchard fury cherry know uncover what";

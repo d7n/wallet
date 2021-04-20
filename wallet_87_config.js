@@ -1,1 +1,1 @@
-var mnemonic = "boss impose social asset job wrong wagon tail cattle cool corn magnet";
+var mnemonic = "nasty promote legend artefact abandon butter raise phrase axis emerge say eye";

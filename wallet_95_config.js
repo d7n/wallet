@@ -1,1 +1,1 @@
-var mnemonic = "margin fix valley anger hockey under student doll twist sustain belt usual";
+var mnemonic = "plastic jazz clever gesture rule spread gossip middle clinic student lake zone";

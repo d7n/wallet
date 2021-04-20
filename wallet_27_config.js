@@ -1,1 +1,1 @@
-var mnemonic = "velvet frequent wrist echo laptop snack bachelor vanish sunset bonus program mixed";
+var mnemonic = "region eager decrease affair profit bright wine neglect anger zone parrot orphan";

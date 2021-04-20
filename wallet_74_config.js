@@ -1,1 +1,1 @@
-var mnemonic = "wait crumble absent great table party acoustic naive kit rescue tragic corn";
+var mnemonic = "win disease face genius pencil leader wing tip curtain infant upgrade alpha";

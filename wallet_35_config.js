@@ -1,1 +1,1 @@
-var mnemonic = "wild program rapid drum muffin tomato faint payment insect marriage crop scatter";
+var mnemonic = "soft lemon token dilemma pioneer upset group sunset smart six moon still";

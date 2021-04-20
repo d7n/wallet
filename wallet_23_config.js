@@ -1,1 +1,1 @@
-var mnemonic = "school unhappy quit turtle boring autumn offer people rapid walk help property";
+var mnemonic = "twice crater unaware glide radio lazy manual marine smart solution crumble struggle";

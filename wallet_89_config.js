@@ -1,1 +1,1 @@
-var mnemonic = "snap salad never window process evolve give enhance bird party noodle logic";
+var mnemonic = "clarify clock tongue woman captain code equip piano badge cloud verify act";

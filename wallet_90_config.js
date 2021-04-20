@@ -1,1 +1,1 @@
-var mnemonic = "essay can have dust zone board tool omit gaze scene develop whale";
+var mnemonic = "brand party decade solid slow island suggest shoe tragic teach chronic concert";

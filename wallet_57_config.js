@@ -1,1 +1,1 @@
-var mnemonic = "sound quit scrub such snow any prepare hip echo grit such ethics";
+var mnemonic = "label stairs that pyramid forward script eyebrow beyond bridge kit dad seek";

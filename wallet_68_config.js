@@ -1,1 +1,1 @@
-var mnemonic = "okay usage gym scheme visual teach canyon another peanut rail food obscure";
+var mnemonic = "acoustic base child rice detect debate coast garden gym coffee depend iron";

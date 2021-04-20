@@ -1,1 +1,1 @@
-var mnemonic = "view divorce prize nothing hen destroy hen various toilet bamboo pigeon jewel";
+var mnemonic = "egg romance poverty album dragon north senior affair logic monitor result tunnel";

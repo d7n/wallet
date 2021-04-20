@@ -1,1 +1,1 @@
-var mnemonic = "add pass toss power wasp gasp jump ozone inform fitness paper mask";
+var mnemonic = "silver rough initial loan explain shop attend nephew ship beach insane camera";

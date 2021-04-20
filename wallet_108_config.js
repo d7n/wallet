@@ -1,1 +1,1 @@
-var mnemonic = "announce fantasy universe clinic describe law legal sphere camera stick run trouble";
+var mnemonic = "error steel viable lab noodle direct sausage sausage display clutch february symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "purse own dove arena night apart weapon breeze water cover sample fiction";
+var mnemonic = "garment cram pet churn toddler bulk conduct diet can visual accuse lift";

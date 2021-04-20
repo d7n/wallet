@@ -1,1 +1,1 @@
-var mnemonic = "slow advance pudding cycle barely mesh wealth use symbol soon pyramid final";
+var mnemonic = "loyal square blast shock category silk display reopen caution frost daring route";

@@ -1,1 +1,1 @@
-var mnemonic = "fan author mirror protect chalk earn because muffin dice square slender goddess";
+var mnemonic = "enforce seed rain goose convince pelican pony save diagram leg escape receive";

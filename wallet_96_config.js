@@ -1,1 +1,1 @@
-var mnemonic = "machine razor connect quarter fan slight clutch fade spy wheat assume jazz";
+var mnemonic = "game bachelor dirt smoke solution symbol lava moon clap athlete energy diesel";

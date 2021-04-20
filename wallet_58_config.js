@@ -1,1 +1,1 @@
-var mnemonic = "shaft square access slam unfold develop frown west expect suspect curve prepare";
+var mnemonic = "ancient giggle liquid brief around donkey load grit trash market domain slight";

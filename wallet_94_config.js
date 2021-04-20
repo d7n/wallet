@@ -1,1 +1,1 @@
-var mnemonic = "hazard best impose rifle physical inspire sell profit cabin attack turtle obey";
+var mnemonic = "ordinary excess opera capital smile toy tomato warfare version idea home doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce turn else divert soap sock suspect horn arch glimpse tattoo tent";
+var mnemonic = "feature throw purity where stock lock screen situate armor rabbit turtle advance";

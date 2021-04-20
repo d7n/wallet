@@ -1,1 +1,1 @@
-var mnemonic = "sight sign exhaust logic grace paper leopard seek salon buyer hero dinner";
+var mnemonic = "fantasy glad hello organ evolve number flower amazing room bone bar fold";

@@ -1,1 +1,1 @@
-var mnemonic = "bike crash error once demise pattern mixed ill ladder bubble series team";
+var mnemonic = "merry flower unfold become dove hold control hazard powder until health voyage";

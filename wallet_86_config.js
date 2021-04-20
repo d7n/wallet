@@ -1,1 +1,1 @@
-var mnemonic = "jealous loop train math busy morning pipe solar position tool north section";
+var mnemonic = "seed jewel ride security about online close settle tiger frown gossip cook";

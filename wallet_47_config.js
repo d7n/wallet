@@ -1,1 +1,1 @@
-var mnemonic = "sweet brisk guess trap edit verify razor pact effort erosion actress gallery";
+var mnemonic = "vacant catch mail fee adapt nature primary wedding more engine remember delay";

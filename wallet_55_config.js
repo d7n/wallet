@@ -1,1 +1,1 @@
-var mnemonic = "swing purity theme select dilemma farm rate depend salad tiny chaos into";
+var mnemonic = "start globe quarter glass mercy garage lecture grain smoke tray unknown cinnamon";

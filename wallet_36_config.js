@@ -1,1 +1,1 @@
-var mnemonic = "offer beef stone gentle grit profit emotion glimpse oxygen entire friend board";
+var mnemonic = "region depend merit asthma key occur crisp unknown wash case sick wise";

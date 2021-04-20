@@ -1,1 +1,1 @@
-var mnemonic = "van brand process cupboard edge drastic drive display lecture pill develop shadow";
+var mnemonic = "catalog upset category client sea lake ride lock budget sick puzzle wave";

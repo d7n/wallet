@@ -1,1 +1,1 @@
-var mnemonic = "spike mixed cute candy palm soccer purity mix stick enforce craft polar";
+var mnemonic = "depart aim estate goose vicious that maze globe magic olympic purchase hunt";

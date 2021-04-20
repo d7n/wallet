@@ -1,1 +1,1 @@
-var mnemonic = "learn manual concert comfort charge merge harvest bridge glide vital need title";
+var mnemonic = "calm gun note lamp life vibrant clarify material illegal hair silly phrase";

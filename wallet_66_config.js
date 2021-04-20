@@ -1,1 +1,1 @@
-var mnemonic = "usage bean nurse mention like draft police cupboard rookie select margin market";
+var mnemonic = "arrange door earn success actual step dinosaur rookie bench amazing dirt chunk";

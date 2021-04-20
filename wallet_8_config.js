@@ -1,1 +1,1 @@
-var mnemonic = "silver fee rabbit cereal inside only clip lemon similar entire initial ill";
+var mnemonic = "join fiction hotel cannon quiz crisp render credit marine month minute rabbit";

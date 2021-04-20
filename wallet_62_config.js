@@ -1,1 +1,1 @@
-var mnemonic = "hungry blood stable orchard father primary beach brush hair ladder rapid joke";
+var mnemonic = "shock abstract will drill robot unfold vague salon invest priority okay champion";

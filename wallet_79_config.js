@@ -1,1 +1,1 @@
-var mnemonic = "blade property craft pole saddle chef wheel tone little legend sudden monster";
+var mnemonic = "cycle topic very category staff tragic normal agree hurt praise course romance";

@@ -1,1 +1,1 @@
-var mnemonic = "worth hover carbon lesson pottery angry bird segment mask estate extend lava";
+var mnemonic = "flee prosper wish become liar october give mass three tumble federal wage";

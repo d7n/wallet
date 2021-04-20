@@ -1,1 +1,1 @@
-var mnemonic = "blossom fringe endless easily copper harsh ostrich lottery vacuum win village puppy";
+var mnemonic = "aerobic sure mansion escape dash damage typical ask pave can cash window";

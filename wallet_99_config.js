@@ -1,1 +1,1 @@
-var mnemonic = "carry employ alcohol property level seed either demise phone hunt core shy";
+var mnemonic = "grief fee scatter style jewel crisp observe riot extend gauge mom split";

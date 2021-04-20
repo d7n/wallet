@@ -1,1 +1,1 @@
-var mnemonic = "wave brush immense battle gospel soul kangaroo invest hair silver space liquid";
+var mnemonic = "runway beyond develop major shy limit network foil obtain void crucial account";

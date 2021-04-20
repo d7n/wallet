@@ -1,1 +1,1 @@
-var mnemonic = "jeans tissue must result surface defy couple robust okay push shift anxiety";
+var mnemonic = "engage there firm globe gate pink laptop palm burst era depart swift";

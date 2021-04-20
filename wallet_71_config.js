@@ -1,1 +1,1 @@
-var mnemonic = "range direct giggle nut soon prefer island outdoor neutral useless live meadow";
+var mnemonic = "under elite luggage trap switch hotel shine wasp minor faith solution garden";

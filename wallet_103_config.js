@@ -1,1 +1,1 @@
-var mnemonic = "shoot effort amateur traffic tunnel skull soul improve left budget guide gas";
+var mnemonic = "engine skin surprise proof swim sail bullet air season bread subject couch";

@@ -1,1 +1,1 @@
-var mnemonic = "smart since light vote way hero crouch hidden like pave social stem";
+var mnemonic = "express kidney tool acoustic hazard glance parent shy october salon shed raven";

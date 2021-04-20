@@ -1,1 +1,1 @@
-var mnemonic = "impact equip wire hen toilet ankle spray tribe water grace occur emotion";
+var mnemonic = "impose oyster plunge sample pulse zebra cat glow crop problem velvet excuse";

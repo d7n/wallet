@@ -1,1 +1,1 @@
-var mnemonic = "taste list regret final switch expire ship scheme index crystal potato dolphin";
+var mnemonic = "source bird recipe rent biology message visa diamond reveal banana away outdoor";

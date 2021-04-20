@@ -1,1 +1,1 @@
-var mnemonic = "song issue chef off idea blush traffic arrange submit pen face pattern";
+var mnemonic = "cross push wing strategy admit horse measure behind hello desk mammal culture";

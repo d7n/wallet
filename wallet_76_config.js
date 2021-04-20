@@ -1,1 +1,1 @@
-var mnemonic = "pair example deal wool scare despair thumb clock neither design cover theme";
+var mnemonic = "chicken poet scatter scale cupboard cattle humor amount predict robust before brief";

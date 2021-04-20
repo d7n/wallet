@@ -1,1 +1,1 @@
-var mnemonic = "inquiry dress buyer banner gaze kitten stereo rug entry scale resemble admit";
+var mnemonic = "embrace daughter alpha window time tired pond pen solar dismiss feed narrow";

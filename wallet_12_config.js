@@ -1,1 +1,1 @@
-var mnemonic = "surprise verify myself three rely release couch loan today gate profit fortune";
+var mnemonic = "grow run rely feed page frown day supreme horn draft dirt width";

@@ -1,1 +1,1 @@
-var mnemonic = "screen short kid purse rubber nephew torch cloud parade tunnel great couch";
+var mnemonic = "term regular asthma train crop alone actor improve apart stage private home";

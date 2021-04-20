@@ -1,1 +1,1 @@
-var mnemonic = "country rural scene unusual market moon length trip camp frost kingdom cost";
+var mnemonic = "zoo scatter click creek tail rural help faith impose cupboard arm normal";

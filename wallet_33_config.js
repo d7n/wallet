@@ -1,1 +1,1 @@
-var mnemonic = "balcony diary reward battle program route obtain siren reflect amount stone dream";
+var mnemonic = "frozen lift domain toward rescue key ginger own vapor kangaroo water idle";

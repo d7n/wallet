@@ -1,1 +1,1 @@
-var mnemonic = "grape antenna game jazz exhibit anchor regret buddy fun fan critic route";
+var mnemonic = "trip attend color settle defy regular receive potato journey motion right address";

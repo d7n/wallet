@@ -1,1 +1,1 @@
-var mnemonic = "work middle letter planet focus suffer smile fame cream wink obscure antenna";
+var mnemonic = "sunset neutral pretty amused man order turn use inhale initial hidden tip";

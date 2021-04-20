@@ -1,1 +1,1 @@
-var mnemonic = "peasant patch injury empty razor tip flush daring cabbage address dust eyebrow";
+var mnemonic = "wolf sing feed river renew shed accuse chat journey movie popular immune";

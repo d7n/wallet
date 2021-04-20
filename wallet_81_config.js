@@ -1,1 +1,1 @@
-var mnemonic = "rent hybrid witness absent planet print stomach detect midnight mutual lion throw";
+var mnemonic = "possible tone split master parent bring famous library weather young regular blade";

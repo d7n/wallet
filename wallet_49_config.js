@@ -1,1 +1,1 @@
-var mnemonic = "wrap throw section math bomb only forget fetch orbit frame rice snow";
+var mnemonic = "dinner tobacco detail view zone camp long filter minute source garment order";

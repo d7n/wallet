@@ -1,1 +1,1 @@
-var mnemonic = "guitar opinion stable resemble iron craft income focus wool genuine present remember";
+var mnemonic = "battle become tomorrow ice radar slice sell addict begin federal connect obvious";

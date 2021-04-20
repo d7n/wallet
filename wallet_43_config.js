@@ -1,1 +1,1 @@
-var mnemonic = "bid trust border ask radar soft better library horn chunk depart develop";
+var mnemonic = "tank exact attitude swift more broccoli boil still cool bomb sand arch";

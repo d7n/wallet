@@ -1,1 +1,1 @@
-var mnemonic = "crime bicycle salmon census rail maple open state finish venue slab asthma";
+var mnemonic = "regular average field photo birth rack move pull effort summer exotic balcony";

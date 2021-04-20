@@ -1,1 +1,1 @@
-var mnemonic = "rely judge inflict test nation popular dose ankle employ adapt lab stand";
+var mnemonic = "gym gun jazz myth bachelor execute coyote option inch sell fruit exhibit";

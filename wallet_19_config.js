@@ -1,1 +1,1 @@
-var mnemonic = "slab share unable pizza device proud hurry bubble member exercise city conduct";
+var mnemonic = "praise section match machine stuff rain maple impulse robust gym flock tunnel";

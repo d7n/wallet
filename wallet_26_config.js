@@ -1,1 +1,1 @@
-var mnemonic = "spell valve illness clever ignore almost title half chair float casual utility";
+var mnemonic = "whisper airport original mask spy toe genre chair industry work topple grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "trust case usual trick shiver final sand deputy valid dress scrub other";
+var mnemonic = "play cargo motion crumble lumber amount key spatial evidence mirror stamp oyster";

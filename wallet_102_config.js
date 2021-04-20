@@ -1,1 +1,1 @@
-var mnemonic = "doll fruit filter hover differ summer genuine before vague belt enroll lesson";
+var mnemonic = "oven steel hold lazy ahead problem embody syrup fat immune change funny";

@@ -1,1 +1,1 @@
-var mnemonic = "end diet dentist shell toward scheme tissue dignity camp guitar truly question";
+var mnemonic = "soldier bring weather hero betray click tiger loop inch virtual resemble busy";

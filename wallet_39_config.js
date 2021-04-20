@@ -1,1 +1,1 @@
-var mnemonic = "staff weasel arrest lock example huge runway ship logic season thumb wonder";
+var mnemonic = "recycle year funny spoil identify unveil often vital undo shoe feature gasp";

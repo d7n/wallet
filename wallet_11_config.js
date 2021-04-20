@@ -1,1 +1,1 @@
-var mnemonic = "stage jealous acquire exit mechanic egg define click nation stage observe what";
+var mnemonic = "disagree course raise need rough hedgehog screen tribe dirt notable betray deposit";

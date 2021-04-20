@@ -1,1 +1,1 @@
-var mnemonic = "arch combine unfold alert dwarf sentence liberty dawn clever cloud demand paddle";
+var mnemonic = "never until auto shuffle omit volcano balance honey judge creek concert during";

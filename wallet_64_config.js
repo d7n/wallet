@@ -1,1 +1,1 @@
-var mnemonic = "rather bus eager laugh rapid then midnight whisper that census economy horror";
+var mnemonic = "case flip raven coil giggle pond figure wife struggle cross adapt client";

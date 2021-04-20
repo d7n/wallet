@@ -1,1 +1,1 @@
-var mnemonic = "nuclear couch return absorb shiver foam wonder friend screen assist paper art";
+var mnemonic = "panic edge tissue office genuine matter hard saddle wait flavor hotel category";

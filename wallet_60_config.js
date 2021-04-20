@@ -1,1 +1,1 @@
-var mnemonic = "obvious box tone rabbit sea describe resist sketch unhappy disagree time cabin";
+var mnemonic = "wood raw fade thunder rate swarm naive foot man extend lens original";

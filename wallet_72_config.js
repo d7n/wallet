@@ -1,1 +1,1 @@
-var mnemonic = "state bunker capable roast thank smoke hard modify present tornado panel again";
+var mnemonic = "treat chase humble music social target true robust loan tiny envelope slot";

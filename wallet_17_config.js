@@ -1,1 +1,1 @@
-var mnemonic = "maze happy ritual answer toilet marine grab version chalk only hood stuff";
+var mnemonic = "win nothing cage disorder curve hole matter sugar lyrics three health cute";
