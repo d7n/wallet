@@ -1,1 +1,1 @@
-var mnemonic = "army into huge approve drift blade estate one engage result jewel gift";
+var mnemonic = "depth total one into civil desert habit history medal cigar ghost horror";

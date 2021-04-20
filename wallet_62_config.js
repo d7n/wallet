@@ -1,1 +1,1 @@
-var mnemonic = "prevent wood route caution digital inspire foil consider spoil throw horn sell";
+var mnemonic = "garment network acoustic couple lawn soda vacuum inflict subject predict defense bar";

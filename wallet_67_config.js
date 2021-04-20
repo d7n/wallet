@@ -1,1 +1,1 @@
-var mnemonic = "rhythm reflect wet unfold unveil twist liberty survey crime snap become cluster";
+var mnemonic = "lunar afraid company salad eyebrow remind junior badge mistake female disease couple";

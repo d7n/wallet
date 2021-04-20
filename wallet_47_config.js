@@ -1,1 +1,1 @@
-var mnemonic = "tumble maple style hawk emotion general original trap lucky famous unveil purity";
+var mnemonic = "melt three error eye plate great color return social text brain alter";

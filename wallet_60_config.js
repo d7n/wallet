@@ -1,1 +1,1 @@
-var mnemonic = "height one novel aunt pink odor eight raw cinnamon narrow tornado upper";
+var mnemonic = "attract flower perfect desk expose sock toward alter smooth desk object diagram";

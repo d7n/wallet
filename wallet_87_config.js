@@ -1,1 +1,1 @@
-var mnemonic = "magnet cigar attend recycle radar parade spirit hour demand punch table chef";
+var mnemonic = "guard damage top nature treat run economy august journey burst eager roast";

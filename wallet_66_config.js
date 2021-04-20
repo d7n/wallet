@@ -1,1 +1,1 @@
-var mnemonic = "illness comfort spawn moment parent rate slush giant where income cram begin";
+var mnemonic = "spread process keep mind solution gesture slam dynamic lunar debris hollow pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust moral outer frown doll action caught west damage ten disease confirm";
+var mnemonic = "sport hunt carry flame home main tackle glove raven beach moral dynamic";

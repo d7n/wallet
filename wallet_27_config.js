@@ -1,1 +1,1 @@
-var mnemonic = "strategy awkward assist able merit high green airport film woman pulp hero";
+var mnemonic = "gasp soup word faint tower pill collect accident space dust oval powder";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran senior mimic fix when man tiger large alcohol diet volcano toss";
+var mnemonic = "exchange market void neutral knee half delay lion stable derive job valley";

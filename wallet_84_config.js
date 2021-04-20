@@ -1,1 +1,1 @@
-var mnemonic = "subject host also scatter broken blush leave oval cereal media business friend";
+var mnemonic = "witness salt auto immune stable polar blood shock employ raccoon inject false";

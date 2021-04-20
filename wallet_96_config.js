@@ -1,1 +1,1 @@
-var mnemonic = "brother daughter symbol wave lesson spell gold riot solid main blame derive";
+var mnemonic = "mechanic balcony useless attitude blue erase piece churn need cream biology atom";

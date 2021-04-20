@@ -1,1 +1,1 @@
-var mnemonic = "lottery exclude foot jump funny empower host tiger quantum wheat october forest";
+var mnemonic = "cycle stool piano word original brick ugly heart energy potato muffin news";

@@ -1,1 +1,1 @@
-var mnemonic = "actor dismiss crater beach away verify peace tree review ignore aspect spy";
+var mnemonic = "moral chimney park shoe tobacco hard kiwi skate ignore public net broom";

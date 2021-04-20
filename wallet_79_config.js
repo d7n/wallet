@@ -1,1 +1,1 @@
-var mnemonic = "copy holiday post casino basket rally smoke pepper rival sustain express luxury";
+var mnemonic = "vendor snap horror spread effort pelican attitude inform figure beach hazard inject";

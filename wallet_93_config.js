@@ -1,1 +1,1 @@
-var mnemonic = "album inspire need arena recipe offer coral wise ask next fence collect";
+var mnemonic = "must palace exhibit excuse pair oval sting under bacon ankle motion erase";

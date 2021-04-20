@@ -1,1 +1,1 @@
-var mnemonic = "arrive lens inject dismiss ski source scene all soul fresh meadow pretty";
+var mnemonic = "accuse gloom artwork matter laundry element snow scatter girl sugar arch crawl";

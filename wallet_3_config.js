@@ -1,1 +1,1 @@
-var mnemonic = "antenna faith jelly submit rhythm athlete bottom then already artist evoke genius";
+var mnemonic = "divorce paper nominee fee pudding patch flavor uniform sun torch illegal better";

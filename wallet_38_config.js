@@ -1,1 +1,1 @@
-var mnemonic = "oval thunder execute road silent stock friend course collect soldier height orient";
+var mnemonic = "impulse stamp age leader depend onion buyer win left course depart cabbage";

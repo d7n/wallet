@@ -1,1 +1,1 @@
-var mnemonic = "custom pony wear pelican rail must keen pulse half bar cram play";
+var mnemonic = "egg try hotel minute merit bird assume cruel concert spoil other planet";

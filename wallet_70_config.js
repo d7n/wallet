@@ -1,1 +1,1 @@
-var mnemonic = "tobacco robot attract duck illness fall unfair engine sick height razor faith";
+var mnemonic = "ranch deny vicious stem primary impose knife tuition stove dragon cloth range";

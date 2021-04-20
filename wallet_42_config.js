@@ -1,1 +1,1 @@
-var mnemonic = "april agree essay click immense brain lumber goddess razor uncle where scrub";
+var mnemonic = "vibrant appear beyond sense more lunch admit minute farm hair supreme destroy";

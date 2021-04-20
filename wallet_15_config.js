@@ -1,1 +1,1 @@
-var mnemonic = "manual coast inquiry glad trash hire nasty lab extend guard trust loud";
+var mnemonic = "lobster will tenant radio exotic office casino ritual shallow return account employ";

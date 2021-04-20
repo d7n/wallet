@@ -1,1 +1,1 @@
-var mnemonic = "rabbit display tomato phone will reopen nurse such unaware cactus alley recall";
+var mnemonic = "escape utility street clarify kingdom orchard shiver surprise cabin crowd belt accuse";

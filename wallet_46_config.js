@@ -1,1 +1,1 @@
-var mnemonic = "junior wrestle sponsor noodle raccoon analyst wood crater assume expect design allow";
+var mnemonic = "visit pelican term deny faith enjoy metal fish upon output maximum total";

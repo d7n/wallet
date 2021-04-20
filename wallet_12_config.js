@@ -1,1 +1,1 @@
-var mnemonic = "identify educate island sort sibling heart trick season similar crisp evil space";
+var mnemonic = "curtain amazing object route door abandon switch destroy habit army exit pill";

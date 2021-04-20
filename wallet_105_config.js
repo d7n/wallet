@@ -1,1 +1,1 @@
-var mnemonic = "night whale quantum certain enough myth aisle whale message silent stereo pipe";
+var mnemonic = "same art already obey shoulder dream dirt fade episode trophy suffer cupboard";

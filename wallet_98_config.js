@@ -1,1 +1,1 @@
-var mnemonic = "endless ten sound tobacco paper fire student clock book photo blouse fit";
+var mnemonic = "swap defy oil bird indicate middle expire bind mirror trip heavy power";

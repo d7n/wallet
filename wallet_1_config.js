@@ -1,1 +1,1 @@
-var mnemonic = "action sibling supply that vivid boring share change grab lottery brief chief";
+var mnemonic = "credit couch inmate much identify moral office lecture total treat silver index";

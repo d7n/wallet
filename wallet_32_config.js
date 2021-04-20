@@ -1,1 +1,1 @@
-var mnemonic = "slush kitchen banner exclude bulb hero mistake dinosaur recycle invest urban resemble";
+var mnemonic = "width blast office scout jeans proof endless pretty update issue diagram wink";

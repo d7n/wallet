@@ -1,1 +1,1 @@
-var mnemonic = "moment destroy industry attend cruel time simple edge waste knife decorate network";
+var mnemonic = "grape since ostrich rare amount friend loop zoo spell parade crack swamp";

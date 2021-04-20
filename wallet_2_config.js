@@ -1,1 +1,1 @@
-var mnemonic = "impact tower sunny license rude lobster oak gym hill glove rain warrior";
+var mnemonic = "parade access expose weird blade nerve armor grass woman approve two spy";

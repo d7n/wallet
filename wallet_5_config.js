@@ -1,1 +1,1 @@
-var mnemonic = "sound naive tone alley cattle wash glare parade theory also barrel entry";
+var mnemonic = "picture beach truck bubble sport scene school supreme monitor exact spatial purse";

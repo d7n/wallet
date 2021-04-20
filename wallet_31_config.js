@@ -1,1 +1,1 @@
-var mnemonic = "asset gate seven august paper common marble object depth medal crime smart";
+var mnemonic = "figure arrow company pupil monitor silk waste snap atom submit thunder velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve design home sugar rude strategy priority before feel toe guess echo";
+var mnemonic = "fence ankle crowd city puppy gasp miracle surface when shuffle reject gas";

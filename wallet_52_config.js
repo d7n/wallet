@@ -1,1 +1,1 @@
-var mnemonic = "odor sausage business subject upset truth picture south inhale garden taste hour";
+var mnemonic = "paddle master dragon veteran beach accident possible hunt raise drum orchard knock";

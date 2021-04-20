@@ -1,1 +1,1 @@
-var mnemonic = "urban connect wise now glory employ legal brick genius analyst gorilla aim";
+var mnemonic = "ghost equal cluster refuse stable inside view sing guess table pluck galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "great purchase flat dutch ball breeze worry bread shoulder evil weasel shadow";
+var mnemonic = "left result escape fantasy blade elder smooth era team mad lens virus";

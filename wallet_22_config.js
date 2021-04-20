@@ -1,1 +1,1 @@
-var mnemonic = "inquiry hub dial appear rabbit onion enroll amazing mandate catalog matter federal";
+var mnemonic = "curtain sorry swear concert material tragic glance school curve nice basket train";

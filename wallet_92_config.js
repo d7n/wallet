@@ -1,1 +1,1 @@
-var mnemonic = "visit curious immense sniff clap antenna nose stomach craft stock invite use";
+var mnemonic = "that world idle educate push hole ship section ahead alarm soul beef";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn lift trap thrive glance fade expose doctor census gospel hundred priority";
+var mnemonic = "double grocery flip baby update obtain child onion taste purity october junk";

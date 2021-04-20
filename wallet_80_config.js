@@ -1,1 +1,1 @@
-var mnemonic = "seminar nation gold ecology aspect sick term warm buffalo mom wasp steel";
+var mnemonic = "model trumpet common champion field chapter robust clump humble control thought remain";

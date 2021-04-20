@@ -1,1 +1,1 @@
-var mnemonic = "prosper clog sad extend bar put live code begin month mobile dynamic";
+var mnemonic = "glance tide mutual vapor holiday reveal race morning dumb hazard drill object";

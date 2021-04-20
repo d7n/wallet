@@ -1,1 +1,1 @@
-var mnemonic = "various antique width gas human chaos desert wheel early minor despair chalk";
+var mnemonic = "normal token surprise cattle small holiday cheap collect wrestle struggle glimpse laptop";

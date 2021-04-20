@@ -1,1 +1,1 @@
-var mnemonic = "lazy wait empty carpet alpha layer attitude vast razor correct dragon enter";
+var mnemonic = "oval tube notice wine quiz valley spider grab tuition warm trick trip";

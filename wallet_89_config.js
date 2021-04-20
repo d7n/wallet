@@ -1,1 +1,1 @@
-var mnemonic = "mobile awkward win poverty elder trick mosquito luxury miracle stock before miracle";
+var mnemonic = "little cat prevent spirit dilemma replace wear come gallery useless mass cage";

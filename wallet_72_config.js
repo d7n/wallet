@@ -1,1 +1,1 @@
-var mnemonic = "spin torch advance grape above blossom blast record tortoise alpha holiday fence";
+var mnemonic = "style pluck witness file patch novel rebuild display tiger asthma vanish bus";

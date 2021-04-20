@@ -1,1 +1,1 @@
-var mnemonic = "move fatigue add leave tray stomach book crouch step zoo any way";
+var mnemonic = "sheriff undo decorate park neutral mirror mechanic decade neglect fragile major sick";

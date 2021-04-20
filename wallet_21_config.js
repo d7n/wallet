@@ -1,1 +1,1 @@
-var mnemonic = "sausage curtain dose subject month crumble fall unit aim dad service add";
+var mnemonic = "napkin century ball dragon post apology diesel fancy glory insect rail salute";

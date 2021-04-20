@@ -1,1 +1,1 @@
-var mnemonic = "daring glare wrist skirt shuffle page sausage slam duck bomb grocery install";
+var mnemonic = "image smooth crowd bottom drum foil inner sauce process ring cruise electric";

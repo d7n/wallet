@@ -1,1 +1,1 @@
-var mnemonic = "uniform salon chief universe tackle vast nominee exclude joke drip scout reduce";
+var mnemonic = "proof depart faith absorb become cycle usual fiber catch pledge gossip supply";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage era dish moment judge attack rude display liar calm olympic predict";
+var mnemonic = "whip mask train friend visa tower raven remain occur spawn welcome discover";

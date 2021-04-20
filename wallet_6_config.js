@@ -1,1 +1,1 @@
-var mnemonic = "credit twist material uncover local pitch inspire token clap ride ticket program";
+var mnemonic = "hurt ahead scrub life relief human toy weasel clean novel stock start";

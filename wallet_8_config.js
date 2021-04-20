@@ -1,1 +1,1 @@
-var mnemonic = "unusual shoulder spy cash sadness harvest term little also reunion anxiety gas";
+var mnemonic = "wrap company hill monkey obvious wall addict category nominee furnace tilt obtain";

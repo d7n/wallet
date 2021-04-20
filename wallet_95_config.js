@@ -1,1 +1,1 @@
-var mnemonic = "genuine behave pride rifle festival boy later fan brown adult nominee swift";
+var mnemonic = "shallow frozen sport month hospital water casino science giggle demand future satoshi";

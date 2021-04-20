@@ -1,1 +1,1 @@
-var mnemonic = "rose file team metal magic wave echo long moment ignore cousin silent";
+var mnemonic = "rigid shock scrub worry consider silent wreck vicious mask autumn flower moment";

@@ -1,1 +1,1 @@
-var mnemonic = "trial public danger verb hockey bachelor surface depart sure design magic mimic";
+var mnemonic = "tonight gadget tooth hard grunt spell outside grain dash child client sunset";

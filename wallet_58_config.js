@@ -1,1 +1,1 @@
-var mnemonic = "mango upset meadow maid metal second hint anxiety method harvest chef wedding";
+var mnemonic = "trial budget impose quality hip behind exclude once priority motion glow bullet";

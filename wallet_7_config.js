@@ -1,1 +1,1 @@
-var mnemonic = "visa next vocal crash hour buyer blood staff ghost jacket level rival";
+var mnemonic = "exchange symptom someone conduct lava rabbit fitness defense gossip slush tackle catalog";

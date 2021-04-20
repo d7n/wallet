@@ -1,1 +1,1 @@
-var mnemonic = "fetch ginger slim february claim seed man fury empty ability victory version";
+var mnemonic = "clap purity interest ring style chief grape jaguar device pledge endorse nature";

@@ -1,1 +1,1 @@
-var mnemonic = "network file patch know federal dry give fabric copper snap sauce rose";
+var mnemonic = "kind finger dignity much depart allow sure stick arctic faint hidden labor";

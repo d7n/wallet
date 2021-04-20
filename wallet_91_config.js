@@ -1,1 +1,1 @@
-var mnemonic = "able robot wait volume moment swing garment industry coast warm chest misery";
+var mnemonic = "agree secret bounce dice shrug rocket post snake actress cash sell link";

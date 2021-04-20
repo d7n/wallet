@@ -1,1 +1,1 @@
-var mnemonic = "energy lake bacon gesture praise word shuffle mango milk blouse sibling sign";
+var mnemonic = "employ claw marble sail damp among mule sauce key glove laugh beauty";

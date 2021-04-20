@@ -1,1 +1,1 @@
-var mnemonic = "mix winner caught cloth kangaroo either assume bird tackle ability tornado cloud";
+var mnemonic = "owner lamp level canoe inner lazy degree execute version ecology boring year";

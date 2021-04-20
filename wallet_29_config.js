@@ -1,1 +1,1 @@
-var mnemonic = "dragon box train knee swift client frog minute auto crumble already rotate";
+var mnemonic = "honey journey party output road man welcome wink innocent weird mixed pear";

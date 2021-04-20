@@ -1,1 +1,1 @@
-var mnemonic = "rhythm betray rubber october kidney price school credit security gaze blade lake";
+var mnemonic = "orphan panda network beach proof smooth vibrant fan strong rare acid sample";

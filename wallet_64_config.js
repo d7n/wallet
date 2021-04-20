@@ -1,1 +1,1 @@
-var mnemonic = "total bike zebra weird turkey tortoise next rural concert stove online aspect";
+var mnemonic = "sight armed choose antique field flame improve tube truly option sponsor wife";

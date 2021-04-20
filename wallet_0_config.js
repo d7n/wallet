@@ -1,1 +1,1 @@
-var mnemonic = "valve fatal range buffalo meat pink hood damage poem valley close palace";
+var mnemonic = "uphold excuse question slide panther horse dizzy exclude asset tell fine pelican";

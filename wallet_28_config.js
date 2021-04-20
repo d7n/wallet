@@ -1,1 +1,1 @@
-var mnemonic = "iron install mass umbrella fee push keen essay scale energy pepper advice";
+var mnemonic = "want deposit decide village gloom idle forget earn tail clarify inflict hand";

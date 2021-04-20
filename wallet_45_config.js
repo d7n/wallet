@@ -1,1 +1,1 @@
-var mnemonic = "connect finger guitar usage recycle orchard lake fat captain gather bamboo enable";
+var mnemonic = "network smart quality since battle project crane stool stereo cat vendor fetch";

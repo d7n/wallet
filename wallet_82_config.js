@@ -1,1 +1,1 @@
-var mnemonic = "noodle leader chapter lobster ordinary siege ozone unable lunch false prison powder";
+var mnemonic = "gallery scheme welcome junk bench price twist harvest never can apology recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil slice party sick monkey slogan purchase camera course tooth sketch vibrant";
+var mnemonic = "second wood receive twice twelve report minor uphold remember wood believe shell";

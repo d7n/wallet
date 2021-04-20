@@ -1,1 +1,1 @@
-var mnemonic = "drill hybrid borrow divide there insect fatigue keep club carry notable seek";
+var mnemonic = "labor major piano mention enhance innocent upper endorse pattern grain kangaroo gift";

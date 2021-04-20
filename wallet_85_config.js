@@ -1,1 +1,1 @@
-var mnemonic = "excite glide flat pill velvet river impose tape flavor lock skill gift";
+var mnemonic = "enter dish movie few bone subway cash hawk ribbon clock sweet picnic";

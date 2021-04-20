@@ -1,1 +1,1 @@
-var mnemonic = "pony chronic mimic excuse able kidney interest square surface meat theory field";
+var mnemonic = "sun isolate young tragic original science near boy little frame coffee top";

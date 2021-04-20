@@ -1,1 +1,1 @@
-var mnemonic = "drastic victory nest baby diet clutch badge bronze echo tube divide gorilla";
+var mnemonic = "evolve media load pact diesel habit close basic tornado almost husband kitten";

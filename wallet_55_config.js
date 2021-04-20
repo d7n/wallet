@@ -1,1 +1,1 @@
-var mnemonic = "diagram assist vicious hockey cash because across rabbit leg degree earn conduct";
+var mnemonic = "mail report beyond path endorse ask tent anchor banner table mercy clock";

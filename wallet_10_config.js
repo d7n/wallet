@@ -1,1 +1,1 @@
-var mnemonic = "rally ticket flock junk series night entire reopen start duck wool alarm";
+var mnemonic = "online entry force divide piano can coral blur valve decrease canal nothing";

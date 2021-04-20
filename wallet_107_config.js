@@ -1,1 +1,1 @@
-var mnemonic = "toy tackle extra assume only blind quick vacant fancy humble sausage forget";
+var mnemonic = "milk session disorder ice paddle mother embark humble stone away wear ranch";

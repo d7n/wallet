@@ -1,1 +1,1 @@
-var mnemonic = "image ordinary wrestle priority file allow combine weasel filter original monster off";
+var mnemonic = "rigid evil honey sphere regular ice build various render flat ridge doll";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe scare dynamic feel initial all useful pizza negative beach health basic";
+var mnemonic = "act desert clay cotton glass lecture puzzle charge mixed sting rebel know";

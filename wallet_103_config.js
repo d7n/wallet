@@ -1,1 +1,1 @@
-var mnemonic = "bracket verb toss market opera bacon knock economy wood become initial rubber";
+var mnemonic = "bread upgrade tribe hawk burger settle camera coin impact vault solve poverty";

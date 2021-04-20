@@ -1,1 +1,1 @@
-var mnemonic = "lazy flash today volcano describe nerve select garbage bamboo prosper spring festival";
+var mnemonic = "arch copy cycle busy rescue dog slab album yard copper million news";

@@ -1,1 +1,1 @@
-var mnemonic = "equip ketchup adapt dress outdoor party abuse combine strategy develop three wish";
+var mnemonic = "wise figure album lens grab sibling brass miss theme print anger home";

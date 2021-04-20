@@ -1,1 +1,1 @@
-var mnemonic = "polar gospel news spike street snow village amount snack piece offer later";
+var mnemonic = "gesture joke day manual gas reveal width receive lake accident select unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "measure issue bid trick million axis fatigue flash dice like visit basic";
+var mnemonic = "jelly kingdom sausage much noodle endless mask coconut farm drip whip shiver";

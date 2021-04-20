@@ -1,1 +1,1 @@
-var mnemonic = "air push cute spell dinosaur conduct spray bring crouch suspect window april";
+var mnemonic = "left domain analyst toddler awkward soldier squirrel toy girl citizen wasp rookie";

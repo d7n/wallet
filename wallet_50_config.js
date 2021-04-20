@@ -1,1 +1,1 @@
-var mnemonic = "hurry empower select dinosaur myself labor belt mention pen penalty zebra image";
+var mnemonic = "conduct air fury spend derive glad angry before legal appear head deer";

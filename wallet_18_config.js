@@ -1,1 +1,1 @@
-var mnemonic = "license local caught typical boss view glad thunder squirrel inmate swear alley";
+var mnemonic = "curtain core stone sudden mystery sail episode exercise certain victory poem coral";

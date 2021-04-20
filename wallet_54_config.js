@@ -1,1 +1,1 @@
-var mnemonic = "wing rather anger real tackle goat floor matrix chest mystery shop inform";
+var mnemonic = "upper avoid canoe figure tenant item cart hand case matrix gym comic";

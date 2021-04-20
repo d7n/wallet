@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow diagram chronic flat brick share cotton collect tiny prize dumb reward";
+var mnemonic = "party pig panic tennis cube delay develop seek remind fun river razor";

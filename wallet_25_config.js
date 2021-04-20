@@ -1,1 +1,1 @@
-var mnemonic = "rocket move kick busy organ yellow degree rail scale dream govern stereo";
+var mnemonic = "photo coral evil arrange dirt shift load need arch silly kite foil";
