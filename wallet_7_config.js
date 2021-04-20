@@ -1,1 +1,1 @@
-var mnemonic = "flee prosper wish become liar october give mass three tumble federal wage";
+var mnemonic = "kitchen flush sell liberty plate jump joke rookie vault rural month trial";

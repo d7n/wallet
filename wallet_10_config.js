@@ -1,1 +1,1 @@
-var mnemonic = "runway beyond develop major shy limit network foil obtain void crucial account";
+var mnemonic = "bounce cactus tackle install blame disagree birth palm ramp term smoke drama";

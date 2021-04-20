@@ -1,1 +1,1 @@
-var mnemonic = "victory valve potato visit plate behave gather fog melody position system daughter";
+var mnemonic = "wagon clutch profit truth island legal matrix flat rather pave beef setup";

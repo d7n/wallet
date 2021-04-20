@@ -1,1 +1,1 @@
-var mnemonic = "onion ahead feature across tomato stereo tired rich stuff royal measure memory";
+var mnemonic = "amateur pill chest grant basic enforce tent soup wealth save dynamic jump";

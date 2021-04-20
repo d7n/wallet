@@ -1,1 +1,1 @@
-var mnemonic = "source bird recipe rent biology message visa diamond reveal banana away outdoor";
+var mnemonic = "grape agree shock jelly can cable critic ocean actual liquid sunset effort";

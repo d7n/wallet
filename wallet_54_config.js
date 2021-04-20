@@ -1,1 +1,1 @@
-var mnemonic = "pause scan group allow kit option paddle spirit absorb asthma ability start";
+var mnemonic = "barrel pulse supply educate ugly rich park elder meat toward digital until";

@@ -1,1 +1,1 @@
-var mnemonic = "keen lumber throw pride curve shoot decline claim wife cousin quality cereal";
+var mnemonic = "avoid appear mention vault ketchup pill position people toast hurt dust enlist";

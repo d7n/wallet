@@ -1,1 +1,1 @@
-var mnemonic = "battle become tomorrow ice radar slice sell addict begin federal connect obvious";
+var mnemonic = "twist rally bag satisfy valve merit quick video parade sad napkin entry";

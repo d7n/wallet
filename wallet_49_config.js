@@ -1,1 +1,1 @@
-var mnemonic = "dinner tobacco detail view zone camp long filter minute source garment order";
+var mnemonic = "pluck double orange near index cheese will flock alcohol verb wave patch";

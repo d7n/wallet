@@ -1,1 +1,1 @@
-var mnemonic = "thumb ability fence equal share adjust smooth special egg alpha vacuum album";
+var mnemonic = "cabbage indoor solar swamp attract file example square defy gossip buzz release";

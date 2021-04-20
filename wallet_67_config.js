@@ -1,1 +1,1 @@
-var mnemonic = "play cargo motion crumble lumber amount key spatial evidence mirror stamp oyster";
+var mnemonic = "emerge zoo deny luxury hungry crowd reflect animal wolf regular copper whale";

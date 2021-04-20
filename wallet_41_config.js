@@ -1,1 +1,1 @@
-var mnemonic = "patch enact hard slogan pride drill festival liquid love void betray relief";
+var mnemonic = "fruit session range dust either image impose medal number wedding fault point";

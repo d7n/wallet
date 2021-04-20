@@ -1,1 +1,1 @@
-var mnemonic = "engine skin surprise proof swim sail bullet air season bread subject couch";
+var mnemonic = "slam model brief ankle reform human club evoke poem pottery people quantum";

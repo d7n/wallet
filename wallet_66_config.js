@@ -1,1 +1,1 @@
-var mnemonic = "arrange door earn success actual step dinosaur rookie bench amazing dirt chunk";
+var mnemonic = "zebra treat clay hundred grape nature dice enemy resemble remove suspect destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "error steel viable lab noodle direct sausage sausage display clutch february symptom";
+var mnemonic = "trip secret boss sure goose canal victory knee slush head few turtle";

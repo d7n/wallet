@@ -1,1 +1,1 @@
-var mnemonic = "door era toast health suspect rather diet patch size move black athlete";
+var mnemonic = "ritual glove begin vocal frost wife shoe mesh debate dice scissors twist";

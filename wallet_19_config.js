@@ -1,1 +1,1 @@
-var mnemonic = "praise section match machine stuff rain maple impulse robust gym flock tunnel";
+var mnemonic = "enable vintage arrive practice wagon cargo bracket author capital coyote quit spend";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper airport original mask spy toe genre chair industry work topple grocery";
+var mnemonic = "net trip modify tribe ball snow thank casual parrot spider scheme street";

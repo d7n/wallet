@@ -1,1 +1,1 @@
-var mnemonic = "oven steel hold lazy ahead problem embody syrup fat immune change funny";
+var mnemonic = "educate improve jelly fatigue bright nurse screen change second harvest diary increase";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp grass witness hollow panther fruit giggle debate excess immune tumble shoot";
+var mnemonic = "embark bar fiscal hair park appear aisle thunder gallery occur casual shed";

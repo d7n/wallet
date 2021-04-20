@@ -1,1 +1,1 @@
-var mnemonic = "engage there firm globe gate pink laptop palm burst era depart swift";
+var mnemonic = "few fancy grief water face relax reopen profit today evidence captain tilt";

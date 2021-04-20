@@ -1,1 +1,1 @@
-var mnemonic = "album scare slogan fresh gravity card slim invite situate bundle panther ask";
+var mnemonic = "subject grape cook title urge win east husband silk give dog front";

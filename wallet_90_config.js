@@ -1,1 +1,1 @@
-var mnemonic = "brand party decade solid slow island suggest shoe tragic teach chronic concert";
+var mnemonic = "cube gloom inject buzz response laugh fossil chat actress slim weasel enact";

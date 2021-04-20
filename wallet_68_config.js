@@ -1,1 +1,1 @@
-var mnemonic = "acoustic base child rice detect debate coast garden gym coffee depend iron";
+var mnemonic = "also just autumn require vague hood hand artwork tribe hawk bring label";

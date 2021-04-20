@@ -1,1 +1,1 @@
-var mnemonic = "twice crater unaware glide radio lazy manual marine smart solution crumble struggle";
+var mnemonic = "mobile shove off soccer mom catalog moral cotton uncle pulse resource radio";

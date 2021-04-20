@@ -1,1 +1,1 @@
-var mnemonic = "win disease face genius pencil leader wing tip curtain infant upgrade alpha";
+var mnemonic = "lab orange coyote sketch kid arctic pond size hollow jungle dinosaur genre";

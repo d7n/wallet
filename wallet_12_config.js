@@ -1,1 +1,1 @@
-var mnemonic = "grow run rely feed page frown day supreme horn draft dirt width";
+var mnemonic = "drastic forget own middle blood more another jewel gorilla food check nut";

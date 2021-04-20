@@ -1,1 +1,1 @@
-var mnemonic = "region depend merit asthma key occur crisp unknown wash case sick wise";
+var mnemonic = "screen leopard blue common fun today diet pilot salmon stage limb labor";

@@ -1,1 +1,1 @@
-var mnemonic = "game bachelor dirt smoke solution symbol lava moon clap athlete energy diesel";
+var mnemonic = "scan seat claw leader trap hotel library list armed people slender egg";

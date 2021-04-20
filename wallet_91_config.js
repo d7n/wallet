@@ -1,1 +1,1 @@
-var mnemonic = "fantasy glad hello organ evolve number flower amazing room bone bar fold";
+var mnemonic = "poet velvet gadget crane small ramp family whale teach render hen exhibit";

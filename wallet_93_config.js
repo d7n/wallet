@@ -1,1 +1,1 @@
-var mnemonic = "embrace daughter alpha window time tired pond pen solar dismiss feed narrow";
+var mnemonic = "easy first dilemma only hire joy lion trophy diet debris sun gown";

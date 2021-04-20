@@ -1,1 +1,1 @@
-var mnemonic = "impose oyster plunge sample pulse zebra cat glow crop problem velvet excuse";
+var mnemonic = "tell club mushroom blush disorder above snap noodle dial kind attend climb";

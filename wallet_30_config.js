@@ -1,1 +1,1 @@
-var mnemonic = "never until auto shuffle omit volcano balance honey judge creek concert during";
+var mnemonic = "still viable cup gauge cousin volcano twin inch clarify receive left night";

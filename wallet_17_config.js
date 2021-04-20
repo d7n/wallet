@@ -1,1 +1,1 @@
-var mnemonic = "win nothing cage disorder curve hole matter sugar lyrics three health cute";
+var mnemonic = "amused ask keep foster adult give magnet matrix enrich amateur defy injury";

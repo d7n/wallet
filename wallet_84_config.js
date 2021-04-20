@@ -1,1 +1,1 @@
-var mnemonic = "aerobic sure mansion escape dash damage typical ask pave can cash window";
+var mnemonic = "balance country search tuna ramp team lion uncle afraid review just dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "start globe quarter glass mercy garage lecture grain smoke tray unknown cinnamon";
+var mnemonic = "swallow wrist sheriff wave steak error tenant merge spin vacuum apple powder";

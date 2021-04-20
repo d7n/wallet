@@ -1,1 +1,1 @@
-var mnemonic = "label stairs that pyramid forward script eyebrow beyond bridge kit dad seek";
+var mnemonic = "twin flag trophy pony broken parent number usage lava omit allow describe";

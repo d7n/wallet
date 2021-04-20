@@ -1,1 +1,1 @@
-var mnemonic = "frozen lift domain toward rescue key ginger own vapor kangaroo water idle";
+var mnemonic = "hotel indoor clean prevent wreck update police swift possible tank zero pill";

@@ -1,1 +1,1 @@
-var mnemonic = "wood raw fade thunder rate swarm naive foot man extend lens original";
+var mnemonic = "mule cinnamon service unusual prefer sick giggle enroll expect style seat cause";

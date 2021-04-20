@@ -1,1 +1,1 @@
-var mnemonic = "term regular asthma train crop alone actor improve apart stage private home";
+var mnemonic = "book view lens mask render any summer message asset local endless such";

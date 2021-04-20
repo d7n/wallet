@@ -1,1 +1,1 @@
-var mnemonic = "seed jewel ride security about online close settle tiger frown gossip cook";
+var mnemonic = "shine discover abandon tag author fringe tip question alien concert wild able";

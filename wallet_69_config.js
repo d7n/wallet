@@ -1,1 +1,1 @@
-var mnemonic = "dress play embody drill typical rotate update cupboard ski tonight twice pair";
+var mnemonic = "guilt rough bike enough donor transfer upper creek detect note indoor dry";

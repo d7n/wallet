@@ -1,1 +1,1 @@
-var mnemonic = "chicken poet scatter scale cupboard cattle humor amount predict robust before brief";
+var mnemonic = "faith horror surge attract invite human act tail alley venue churn love";

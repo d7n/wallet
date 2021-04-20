@@ -1,1 +1,1 @@
-var mnemonic = "risk alone number illegal route dad swing apology food lecture tonight bar";
+var mnemonic = "rate away submit pioneer drift annual neutral question galaxy stumble crowd together";

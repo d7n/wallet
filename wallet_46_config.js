@@ -1,1 +1,1 @@
-var mnemonic = "panic edge tissue office genuine matter hard saddle wait flavor hotel category";
+var mnemonic = "wedding age protect bean moral glance cruel circle ripple elegant naive domain";

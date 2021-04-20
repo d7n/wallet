@@ -1,1 +1,1 @@
-var mnemonic = "connect relax mistake copy blade suggest orchard fury cherry know uncover what";
+var mnemonic = "assault service anchor need mail you stone other furnace surge turn salute";

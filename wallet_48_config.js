@@ -1,1 +1,1 @@
-var mnemonic = "color type voyage captain useful mail vital resist swim hospital spoil exhibit";
+var mnemonic = "sauce scissors equal since soft tray maple author embody surface text change";

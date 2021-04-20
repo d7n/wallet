@@ -1,1 +1,1 @@
-var mnemonic = "explain frog trip prevent slab recycle work naive panic wire similar exist";
+var mnemonic = "used exotic milk tube great wing return ankle evil prosper human run";

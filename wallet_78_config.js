@@ -1,1 +1,1 @@
-var mnemonic = "wreck brown nasty hub vehicle race husband split little record floor ocean";
+var mnemonic = "slender team boost cheese rigid gown vehicle sausage awake pilot organ bulb";

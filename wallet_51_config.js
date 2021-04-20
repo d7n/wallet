@@ -1,1 +1,1 @@
-var mnemonic = "silver rough initial loan explain shop attend nephew ship beach insane camera";
+var mnemonic = "hold cry bomb inhale mansion napkin grant nature orchard mirror grab bike";

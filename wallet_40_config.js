@@ -1,1 +1,1 @@
-var mnemonic = "settle flower index slice profit attack soap frozen degree polar page pink";
+var mnemonic = "viable obscure easy poem goddess pledge civil rhythm begin iron chest rain";

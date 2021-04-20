@@ -1,1 +1,1 @@
-var mnemonic = "buyer click stable allow dog arch festival tennis credit sad donor crater";
+var mnemonic = "grief possible assist buddy crop elegant toilet romance parent unlock school arena";

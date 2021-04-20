@@ -1,1 +1,1 @@
-var mnemonic = "grief fee scatter style jewel crisp observe riot extend gauge mom split";
+var mnemonic = "gospel make broom firm play viable burger toe foil script mixed weekend";

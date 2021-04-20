@@ -1,1 +1,1 @@
-var mnemonic = "cross push wing strategy admit horse measure behind hello desk mammal culture";
+var mnemonic = "quiz live primary universe object exist surface super fiction country speed still";

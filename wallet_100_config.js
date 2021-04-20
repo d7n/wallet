@@ -1,1 +1,1 @@
-var mnemonic = "trigger flock antenna asset pistol void urban distance yard glide viable poem";
+var mnemonic = "heavy dismiss knee board crash jazz great maze budget orchard gown club";

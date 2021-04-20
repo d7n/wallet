@@ -1,1 +1,1 @@
-var mnemonic = "vehicle accuse size pulp tortoise elegant goat ask pony glove expand glad";
+var mnemonic = "casual news unable traffic beauty ill ecology economy witness romance turkey sad";

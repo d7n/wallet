@@ -1,1 +1,1 @@
-var mnemonic = "fold romance dignity witness purchase rapid chicken mercy loud useless post misery";
+var mnemonic = "bronze tool plug mother reveal benefit absent gather title eyebrow audit burden";

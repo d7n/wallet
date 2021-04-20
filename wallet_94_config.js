@@ -1,1 +1,1 @@
-var mnemonic = "ordinary excess opera capital smile toy tomato warfare version idea home doctor";
+var mnemonic = "sign village deposit basket baby blur usage labor ethics sponsor limit obvious";

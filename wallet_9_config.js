@@ -1,1 +1,1 @@
-var mnemonic = "lottery brain broom taste aunt charge food pumpkin anger hand canoe project";
+var mnemonic = "food copy giraffe acquire prize spare method outdoor print artwork spy logic";

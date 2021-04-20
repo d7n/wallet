@@ -1,1 +1,1 @@
-var mnemonic = "treat chase humble music social target true robust loan tiny envelope slot";
+var mnemonic = "sell nurse say what injury shift idea deputy action absorb news goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "region eager decrease affair profit bright wine neglect anger zone parrot orphan";
+var mnemonic = "follow slim glove target fiscal split merry amateur buyer when diet make";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle topic very category staff tragic normal agree hurt praise course romance";
+var mnemonic = "need feature captain plug address journey twelve chuckle comic minor segment humor";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle year funny spoil identify unveil often vital undo shoe feature gasp";
+var mnemonic = "arm flush egg address upset absent crime tenant bench loop modify thank";

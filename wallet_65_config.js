@@ -1,1 +1,1 @@
-var mnemonic = "change twist cool hill robot parent play rural confirm knife adapt lawn";
+var mnemonic = "wide pet warrior truck earth subject trick maple siege moon cram bitter";

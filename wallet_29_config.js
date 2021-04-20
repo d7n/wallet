@@ -1,1 +1,1 @@
-var mnemonic = "edit hotel board coach scene trigger spoon monkey talk taste slender hammer";
+var mnemonic = "train license anxiety tobacco soldier flush love metal assist jazz slush series";

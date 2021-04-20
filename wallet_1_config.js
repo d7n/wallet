@@ -1,1 +1,1 @@
-var mnemonic = "axis razor brick later will wonder opera embark find assume usage agree";
+var mnemonic = "giraffe glad tackle tongue course rude answer carbon fault bring same coral";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely knock trash pudding sketch coral tomato anger crystal okay nurse range";
+var mnemonic = "push when enlist artist symptom ketchup novel february fetch volcano chapter roof";

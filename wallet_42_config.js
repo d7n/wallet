@@ -1,1 +1,1 @@
-var mnemonic = "tissue summer cool lonely vacuum beach orphan engage craft often quantum uncover";
+var mnemonic = "traffic grief project cruise damage gate gesture vintage bubble six close verify";

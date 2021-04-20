@@ -1,1 +1,1 @@
-var mnemonic = "vacant catch mail fee adapt nature primary wedding more engine remember delay";
+var mnemonic = "uncle monster weird captain garbage consider upset woman since type citizen season";

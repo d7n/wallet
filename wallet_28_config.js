@@ -1,1 +1,1 @@
-var mnemonic = "enforce seed rain goose convince pelican pony save diagram leg escape receive";
+var mnemonic = "expose frame decrease dismiss fox burger lobster spring sight lazy blouse oblige";

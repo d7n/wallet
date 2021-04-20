@@ -1,1 +1,1 @@
-var mnemonic = "join fiction hotel cannon quiz crisp render credit marine month minute rabbit";
+var mnemonic = "march brisk fun crush faint unlock dry cattle replace neither orphan fence";

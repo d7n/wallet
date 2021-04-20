@@ -1,1 +1,1 @@
-var mnemonic = "shock abstract will drill robot unfold vague salon invest priority okay champion";
+var mnemonic = "hotel near ready choice account punch laptop robot black congress garlic must";

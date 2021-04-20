@@ -1,1 +1,1 @@
-var mnemonic = "soldier bring weather hero betray click tiger loop inch virtual resemble busy";
+var mnemonic = "night gather often best split wing exotic puppy behind gate easy moral";

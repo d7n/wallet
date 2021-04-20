@@ -1,1 +1,1 @@
-var mnemonic = "egg romance poverty album dragon north senior affair logic monitor result tunnel";
+var mnemonic = "wink silver stay music spice aim salmon decide indoor shock burger away";

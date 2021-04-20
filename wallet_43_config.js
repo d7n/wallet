@@ -1,1 +1,1 @@
-var mnemonic = "tank exact attitude swift more broccoli boil still cool bomb sand arch";
+var mnemonic = "twin coffee cave soldier economy credit idea risk citizen tail choice coil";

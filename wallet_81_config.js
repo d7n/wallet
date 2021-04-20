@@ -1,1 +1,1 @@
-var mnemonic = "possible tone split master parent bring famous library weather young regular blade";
+var mnemonic = "warrior green deputy strategy tip answer virtual rich update violin sick note";

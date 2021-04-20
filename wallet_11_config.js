@@ -1,1 +1,1 @@
-var mnemonic = "disagree course raise need rough hedgehog screen tribe dirt notable betray deposit";
+var mnemonic = "fatal useful tag aunt hollow mean public girl solar range steak describe";

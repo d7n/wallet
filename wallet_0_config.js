@@ -1,1 +1,1 @@
-var mnemonic = "loyal square blast shock category silk display reopen caution frost daring route";
+var mnemonic = "admit duck hunt dawn stairs festival today shrimp gauge genius vibrant bomb";

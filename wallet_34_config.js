@@ -1,1 +1,1 @@
-var mnemonic = "zoo scatter click creek tail rural help faith impose cupboard arm normal";
+var mnemonic = "roof match spider congress stable rail neck rely oblige eager tiny learn";

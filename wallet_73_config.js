@@ -1,1 +1,1 @@
-var mnemonic = "feature throw purity where stock lock screen situate armor rabbit turtle advance";
+var mnemonic = "symbol below enhance scan thunder laundry budget wealth radio someone truck cinnamon";

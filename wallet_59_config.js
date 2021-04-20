@@ -1,1 +1,1 @@
-var mnemonic = "minimum pair eyebrow fever gravity become senior firm few orange today similar";
+var mnemonic = "gas kangaroo dust invest degree bridge moment torch tunnel sting clog upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient giggle liquid brief around donkey load grit trash market domain slight";
+var mnemonic = "proof stone amazing burst pipe sense fever first unlock amused label quality";

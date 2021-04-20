@@ -1,1 +1,1 @@
-var mnemonic = "sign author endless hundred proof possible scrap raw paddle mad depart rubber";
+var mnemonic = "shine follow giant galaxy glance garage creek price net lava orphan noise";

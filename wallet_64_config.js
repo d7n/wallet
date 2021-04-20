@@ -1,1 +1,1 @@
-var mnemonic = "case flip raven coil giggle pond figure wife struggle cross adapt client";
+var mnemonic = "local hard flat twist cousin fly tribe farm rebel certain despair craft";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado tide gate regret erase ranch drill twelve arrest craft bamboo arrest";
+var mnemonic = "drill item rebel patient auto antique scan boil foot weasel message wait";

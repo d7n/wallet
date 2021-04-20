@@ -1,1 +1,1 @@
-var mnemonic = "obvious edge coach suspect civil amazing hurt kiss ice good engage episode";
+var mnemonic = "slender wave fashion grunt venue bar win route pony once gather ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "depart aim estate goose vicious that maze globe magic olympic purchase hunt";
+var mnemonic = "hint design about tool skull much delay absorb poem park motion dwarf";

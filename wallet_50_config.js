@@ -1,1 +1,1 @@
-var mnemonic = "erase bright equip force side survey bird level ring state horn embrace";
+var mnemonic = "little brisk summer bless despair area quit cycle label move rib cover";
