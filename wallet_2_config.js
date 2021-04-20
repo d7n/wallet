@@ -1,1 +1,1 @@
-var mnemonic = "refuse wisdom expand vault fringe devote salute squirrel stand salmon phrase note";
+var mnemonic = "scan art shift napkin build body duty need ensure basic clarify pizza";

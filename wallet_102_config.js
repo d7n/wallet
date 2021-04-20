@@ -1,1 +1,1 @@
-var mnemonic = "happy warfare supreme glare humor shy napkin autumn chunk peasant exotic quit";
+var mnemonic = "effort spot rule cover tank rebuild print garment turn rocket glide mother";

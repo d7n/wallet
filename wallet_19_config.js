@@ -1,1 +1,1 @@
-var mnemonic = "simple worry abandon lyrics intact surround employ cradle trophy table parrot perfect";
+var mnemonic = "cloud because catalog envelope amazing motion exotic monitor tent color quality tree";

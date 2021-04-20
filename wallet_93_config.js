@@ -1,1 +1,1 @@
-var mnemonic = "switch inside swarm success cradle cave mountain process sea guitar luxury garden";
+var mnemonic = "oven welcome hair table dilemma actress near fossil roast wage poet train";

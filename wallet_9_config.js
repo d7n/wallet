@@ -1,1 +1,1 @@
-var mnemonic = "special lobster trigger scale tonight island arrive you paddle erosion dial perfect";
+var mnemonic = "social robust evolve habit explain must squeeze blood pride insane dentist table";

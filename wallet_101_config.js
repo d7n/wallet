@@ -1,1 +1,1 @@
-var mnemonic = "seek monkey rug project outside dial install scale position sense despair country";
+var mnemonic = "human lake tumble body slender vintage size segment tomorrow trap ridge report";

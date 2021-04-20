@@ -1,1 +1,1 @@
-var mnemonic = "own chat opera enlist unfair art average actual lucky rescue ridge butter";
+var mnemonic = "law bachelor twice predict face cube pattern soccer sad setup noodle where";

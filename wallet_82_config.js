@@ -1,1 +1,1 @@
-var mnemonic = "luggage item kidney episode merge federal recipe velvet mix obey arrange friend";
+var mnemonic = "ticket you copper betray merit sorry carpet around escape box bottom pigeon";

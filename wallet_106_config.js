@@ -1,1 +1,1 @@
-var mnemonic = "utility rich hub aisle animal transfer verify wagon sunny shove company dentist";
+var mnemonic = "order wrap error screen duck economy situate butter play hood vocal phone";

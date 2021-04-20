@@ -1,1 +1,1 @@
-var mnemonic = "trumpet indoor deny fury culture symbol giant fish ceiling tomato poet broom";
+var mnemonic = "steel impose country program original vault brown recycle one marriage layer first";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe cannon violin volume suffer license list slam kit pig stool hamster";
+var mnemonic = "drum power link guilt expire clinic spike nerve garden dance wine excess";

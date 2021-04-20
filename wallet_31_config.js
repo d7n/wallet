@@ -1,1 +1,1 @@
-var mnemonic = "power sauce credit just armed switch explain dizzy alter clump smoke metal";
+var mnemonic = "song fire rural uphold empty suit outdoor toilet toddler tunnel grant farm";

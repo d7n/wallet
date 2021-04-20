@@ -1,1 +1,1 @@
-var mnemonic = "afford denial isolate glimpse survey crash guilt unaware flat tower glimpse panda";
+var mnemonic = "unaware action aware voice actor fun announce permit blossom lawsuit question mirror";

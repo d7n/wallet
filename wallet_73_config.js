@@ -1,1 +1,1 @@
-var mnemonic = "minor father else else flight sand wink file coast novel monitor wage";
+var mnemonic = "remain ticket dignity column orchard chicken case repair brand promote airport magic";

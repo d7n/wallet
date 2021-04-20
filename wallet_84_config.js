@@ -1,1 +1,1 @@
-var mnemonic = "gap hour often slogan choose patrol upper weasel renew wagon muscle sign";
+var mnemonic = "grit prevent lake picture unique dizzy post rain apology sample kick poem";

@@ -1,1 +1,1 @@
-var mnemonic = "convince recipe when naive list army swing subject gravity giggle joke canal";
+var mnemonic = "remind denial skirt stumble seat library prepare peasant shadow pyramid level ten";

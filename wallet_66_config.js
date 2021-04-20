@@ -1,1 +1,1 @@
-var mnemonic = "small hold toward bean affair syrup program impact car steel flush provide";
+var mnemonic = "answer spot school swift expose pottery stool wood vicious arm lottery include";

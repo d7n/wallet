@@ -1,1 +1,1 @@
-var mnemonic = "bounce address cool evil outdoor bargain guard luggage million solution rate fabric";
+var mnemonic = "celery private skill often diagram sweet lottery welcome wide rhythm gauge salad";

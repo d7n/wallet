@@ -1,1 +1,1 @@
-var mnemonic = "math slot mother rain zoo alarm runway clarify exist soccer book tube";
+var mnemonic = "humor spell fish grit ramp text method digital despair rabbit embrace upgrade";

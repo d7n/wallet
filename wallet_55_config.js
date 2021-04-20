@@ -1,1 +1,1 @@
-var mnemonic = "fresh system salute face choice copper warm elephant pen arrange announce wool";
+var mnemonic = "liar weird climb still answer private load century purpose predict together urge";

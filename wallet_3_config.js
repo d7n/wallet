@@ -1,1 +1,1 @@
-var mnemonic = "loud steak seminar tenant cruise trumpet battle spot nominee bike boost pear";
+var mnemonic = "gadget alien divert face quote coast coffee awesome transfer disease sister push";

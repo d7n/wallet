@@ -1,1 +1,1 @@
-var mnemonic = "slot wrist pig assist arrive sign jungle truck apology warm type salon";
+var mnemonic = "release raw scrub visa okay awful all almost key bind detail alarm";

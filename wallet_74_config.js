@@ -1,1 +1,1 @@
-var mnemonic = "web cruise impact clog protect slight parrot ten spy cloud remain thunder";
+var mnemonic = "resist donate tide coffee reject setup until purity armed toss keen extra";

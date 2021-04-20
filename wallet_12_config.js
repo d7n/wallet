@@ -1,1 +1,1 @@
-var mnemonic = "salute matrix around shrug gap school mystery hello bread siege loyal quantum";
+var mnemonic = "deposit omit sense devote sugar service swap plate write eager duck lucky";

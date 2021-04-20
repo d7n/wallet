@@ -1,1 +1,1 @@
-var mnemonic = "portion unveil letter toilet mimic cry owner ethics knock flavor apart smart";
+var mnemonic = "hold bundle cry link victory grocery fork silk organ prize sudden asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid fiscal embark pull amused sunny detect ahead cake ice jungle measure";
+var mnemonic = "snack people amused hood uncle satisfy claw kiwi inject swear point buyer";

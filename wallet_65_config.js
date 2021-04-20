@@ -1,1 +1,1 @@
-var mnemonic = "empower equip inhale border cinnamon cactus inmate quit segment spatial finish devote";
+var mnemonic = "express season wish sword render just shadow correct what round fruit rely";

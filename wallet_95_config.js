@@ -1,1 +1,1 @@
-var mnemonic = "cart fuel jelly exhaust open silly wage era develop fall gauge comfort";
+var mnemonic = "relief mystery mail useful slender surprise grunt gas hammer drip stairs ride";

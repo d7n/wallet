@@ -1,1 +1,1 @@
-var mnemonic = "nose snack render explain tonight area episode insect tattoo solution tower win";
+var mnemonic = "pottery oyster joke celery east front taxi mouse odor album patch various";

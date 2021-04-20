@@ -1,1 +1,1 @@
-var mnemonic = "heart stadium cloth air move ahead wage smooth safe weird expose frog";
+var mnemonic = "draw dizzy outside minimum oppose weekend volcano sibling knock infant alcohol return";

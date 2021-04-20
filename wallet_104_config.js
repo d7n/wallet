@@ -1,1 +1,1 @@
-var mnemonic = "artist duck fine mercy draw ignore orphan cube path this cushion occur";
+var mnemonic = "turtle tape isolate tail ladder armor lemon power clever dirt couple mean";

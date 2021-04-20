@@ -1,1 +1,1 @@
-var mnemonic = "mammal trial detect length dinosaur boil scrub grunt kidney melody soldier fragile";
+var mnemonic = "range horse parrot check attitude certain jelly near express velvet wise spell";

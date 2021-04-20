@@ -1,1 +1,1 @@
-var mnemonic = "hobby excess erase body asset deposit sword know breeze harbor print cinnamon";
+var mnemonic = "answer plate ostrich yard despair cost cover layer gallery tumble rabbit ring";

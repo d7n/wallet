@@ -1,1 +1,1 @@
-var mnemonic = "horror clock snap answer assault purpose mutual lava eagle shiver fury copy";
+var mnemonic = "rebel rally catch flush coil jump bulb kangaroo cost enrich emotion ankle";

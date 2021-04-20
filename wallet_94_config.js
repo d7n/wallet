@@ -1,1 +1,1 @@
-var mnemonic = "else such never erosion exile drip utility skin orient slide noble round";
+var mnemonic = "mountain blue chef finger sea gesture jewel undo add shrimp ice pistol";

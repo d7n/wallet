@@ -1,1 +1,1 @@
-var mnemonic = "fever nice sick never credit inner economy jungle toilet property simple often";
+var mnemonic = "property case mimic weasel sound race fever voice fog enact ramp vapor";

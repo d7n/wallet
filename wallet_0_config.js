@@ -1,1 +1,1 @@
-var mnemonic = "era junk season sign gate upset work hedgehog diet wheel hire violin";
+var mnemonic = "comfort bargain salmon jump easy silent sting foot ceiling bonus lottery ability";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion already pig advice view drill frozen tower resist state goat lesson";
+var mnemonic = "camp youth grow caught connect day plate legend oven crouch trumpet insect";

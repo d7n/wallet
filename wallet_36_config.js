@@ -1,1 +1,1 @@
-var mnemonic = "average return novel leg topic hover better gold team better vast shy";
+var mnemonic = "brush gasp indicate evoke island hammer april plug improve punch then medal";

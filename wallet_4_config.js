@@ -1,1 +1,1 @@
-var mnemonic = "fantasy border syrup peasant answer soda mom rhythm furnace flight nature rose";
+var mnemonic = "unable dress poem steel fan sugar bargain search club custom stumble slab";

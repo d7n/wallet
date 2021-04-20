@@ -1,1 +1,1 @@
-var mnemonic = "alarm dwarf slab sad width juice lunar speed myself faculty chuckle cart";
+var mnemonic = "rose region cloth ostrich curtain ceiling mail cart erode pen harvest gauge";

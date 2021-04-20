@@ -1,1 +1,1 @@
-var mnemonic = "umbrella stock minimum coyote glass maple kidney muscle ticket focus scissors enlist";
+var mnemonic = "wash occur follow unlock cliff sure machine tennis practice honey breeze portion";

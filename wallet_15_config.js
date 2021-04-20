@@ -1,1 +1,1 @@
-var mnemonic = "flash wrong name hard foot alpha suit bench person amount web index";
+var mnemonic = "desert notable lesson brass fashion agent lemon tuna popular topple gown captain";

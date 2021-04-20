@@ -1,1 +1,1 @@
-var mnemonic = "palace grab surface muffin clay slice basic equal limb monster afraid kick";
+var mnemonic = "neither fiction tail tower mansion gym learn frown explain cabbage neglect brain";

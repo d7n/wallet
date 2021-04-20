@@ -1,1 +1,1 @@
-var mnemonic = "recycle april doctor exhaust spider another arm pony song theory advance sword";
+var mnemonic = "funny mix yard toward swing coin assist shrimp fluid fatal absurd lyrics";

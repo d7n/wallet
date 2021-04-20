@@ -1,1 +1,1 @@
-var mnemonic = "island napkin supreme parent gift sibling good cactus vivid galaxy refuse coral";
+var mnemonic = "illness matrix strong weird economy chimney drop video good abstract equip mimic";

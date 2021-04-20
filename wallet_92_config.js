@@ -1,1 +1,1 @@
-var mnemonic = "mandate skull swallow relief task opera input recipe panther young setup rain";
+var mnemonic = "oppose sail use online purchase base end sock you velvet dress elite";

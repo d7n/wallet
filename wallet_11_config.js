@@ -1,1 +1,1 @@
-var mnemonic = "cram hard leopard ensure approve exhibit name usage rough skill arena attend";
+var mnemonic = "symbol spice assume return exotic jelly strong useful game black regret crane";

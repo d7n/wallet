@@ -1,1 +1,1 @@
-var mnemonic = "rely bubble ice toy virtual design sell settle crunch wonder energy gallery";
+var mnemonic = "thing limb couch audit inner panther pool zero siren bless deer cannon";

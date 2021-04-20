@@ -1,1 +1,1 @@
-var mnemonic = "whale toast repeat merit razor illness dust dismiss green book hat science";
+var mnemonic = "boil atom fan address message twin pause broccoli consider phone message despair";

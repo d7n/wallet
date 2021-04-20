@@ -1,1 +1,1 @@
-var mnemonic = "work midnight company melt armed spice original better reduce dawn obtain mention";
+var mnemonic = "adapt medal hamster occur hockey surface sketch federal orphan shy include joy";

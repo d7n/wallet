@@ -1,1 +1,1 @@
-var mnemonic = "airport twist card join outdoor order hill royal neutral inspire midnight boost";
+var mnemonic = "hub vanish people into embark abstract buffalo place behind satoshi dial ready";

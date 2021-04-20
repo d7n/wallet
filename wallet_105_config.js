@@ -1,1 +1,1 @@
-var mnemonic = "apology two shift marble deposit blush rebel display airport subway pact media";
+var mnemonic = "bomb canoe letter crystal expand wide fame middle buddy desert cute digital";

@@ -1,1 +1,1 @@
-var mnemonic = "kid bubble kangaroo correct chaos snack sign dad feel cake omit input";
+var mnemonic = "popular armor convince curve enact humble desert loop question crazy deputy reward";

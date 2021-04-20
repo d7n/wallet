@@ -1,1 +1,1 @@
-var mnemonic = "enhance hurry age adapt ozone deny motor about wine elite recycle great";
+var mnemonic = "knock flash paddle sleep then alone tragic wave pulse slush speed cream";

@@ -1,1 +1,1 @@
-var mnemonic = "pink expire bonus awake popular light slow inherit upper recipe into decide";
+var mnemonic = "million usage hand affair enroll online erosion garbage fringe vicious ethics defense";

@@ -1,1 +1,1 @@
-var mnemonic = "present plunge swarm level load silk leopard hope grid carpet bracket level";
+var mnemonic = "mass vessel photo right tape second staff address metal chimney rebuild flavor";

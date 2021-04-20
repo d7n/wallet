@@ -1,1 +1,1 @@
-var mnemonic = "seven ghost mechanic cruel diary future one educate green pitch vanish toy";
+var mnemonic = "dutch grid bargain fog obtain box steel shadow disagree thank word ski";

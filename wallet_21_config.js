@@ -1,1 +1,1 @@
-var mnemonic = "vast robot knock arrow room hope orange detect aerobic joy eye inmate";
+var mnemonic = "giggle verb hazard syrup engage fault brave noble oxygen sand rebuild gain";

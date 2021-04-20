@@ -1,1 +1,1 @@
-var mnemonic = "tonight opera confirm shy amateur clutch virtual mandate split vehicle fury sister";
+var mnemonic = "creek cloud seek embark profit frown inflict hamster casino famous kiwi gaze";

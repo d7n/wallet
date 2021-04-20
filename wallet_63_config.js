@@ -1,1 +1,1 @@
-var mnemonic = "author detect wash rather crawl link story desk warm bubble ecology humor";
+var mnemonic = "rather hobby cinnamon glue crane wreck build fence rival dirt laundry board";

@@ -1,1 +1,1 @@
-var mnemonic = "clip album reject camera cluster enroll tobacco crowd heart purity extend home";
+var mnemonic = "feature mom weird tortoise distance power main nerve episode gesture stay crucial";

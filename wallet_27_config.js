@@ -1,1 +1,1 @@
-var mnemonic = "absurd snap borrow raw drastic bench ritual fury gun lottery rice high";
+var mnemonic = "until pumpkin flip bracket minute include demise stone flame police endless tobacco";

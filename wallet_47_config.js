@@ -1,1 +1,1 @@
-var mnemonic = "put tattoo alert depend coach top rubber spend barrel school witness antique";
+var mnemonic = "train table begin scrub dry rude human summer much idea flavor era";

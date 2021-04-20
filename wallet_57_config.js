@@ -1,1 +1,1 @@
-var mnemonic = "mesh east wage awesome danger whisper fancy occur lawn price manage resource";
+var mnemonic = "interest museum rose smooth travel crystal coin battle beyond grape what tonight";

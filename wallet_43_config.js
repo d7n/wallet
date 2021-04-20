@@ -1,1 +1,1 @@
-var mnemonic = "horror angle approve square hospital outside mean major robust shine bone region";
+var mnemonic = "short popular scrap drastic forum flash casual foam soda grief model choice";

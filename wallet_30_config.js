@@ -1,1 +1,1 @@
-var mnemonic = "laptop offer silver desert plug length observe device cluster hollow umbrella exit";
+var mnemonic = "amused cook wrong address trash reason blush scale luggage vacuum glow matter";

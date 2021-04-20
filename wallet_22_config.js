@@ -1,1 +1,1 @@
-var mnemonic = "apart milk genius column illness wash memory slim farm warm cycle dignity";
+var mnemonic = "buffalo surge crack verify nose cross about fatigue midnight stock increase short";

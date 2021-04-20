@@ -1,1 +1,1 @@
-var mnemonic = "cover secret few space minimum tattoo boil faith clip manual clutch trophy";
+var mnemonic = "stay swear scrub dinosaur soccer mobile quick few ritual gain kitten lawsuit";

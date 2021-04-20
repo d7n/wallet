@@ -1,1 +1,1 @@
-var mnemonic = "dream combine dilemma spider journey vibrant super evil liberty guide govern rescue";
+var mnemonic = "diesel elevator trophy embark destroy loop route imitate frost moment social online";

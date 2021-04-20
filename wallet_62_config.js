@@ -1,1 +1,1 @@
-var mnemonic = "suit embark piano zebra siege barely dragon action problem arctic mesh recipe";
+var mnemonic = "help soft echo rely champion payment favorite drive kangaroo assist beef spirit";

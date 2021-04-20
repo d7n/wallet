@@ -1,1 +1,1 @@
-var mnemonic = "worry critic indicate code ahead tortoise fortune tonight frequent true wolf tissue";
+var mnemonic = "banana canyon property angry tired inch exhaust glory devote elephant panic news";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram wood clip ahead next vanish type inmate vocal mechanic slim enjoy";
+var mnemonic = "scout term universe carpet estate rally weekend dove promote chief party select";

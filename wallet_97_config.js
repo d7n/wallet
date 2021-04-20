@@ -1,1 +1,1 @@
-var mnemonic = "effort pumpkin oak enhance gold scheme tube diesel summer airport piece answer";
+var mnemonic = "denial replace gaze peasant lawn pond nuclear once emerge ski enrich duck";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal cover tragic goose educate toy envelope pony fortune trophy absent delay";
+var mnemonic = "side valid elephant bubble mandate fault comic fuel taste myself twist color";

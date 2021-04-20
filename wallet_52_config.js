@@ -1,1 +1,1 @@
-var mnemonic = "sand hip job around hybrid jazz tree staff record cradle side lyrics";
+var mnemonic = "found fork leaf blush tank wealth chat gather test twin clock about";

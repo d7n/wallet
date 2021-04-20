@@ -1,1 +1,1 @@
-var mnemonic = "alert squeeze antenna wealth inform always hidden easy defy brief ripple slam";
+var mnemonic = "shadow tissue subway luggage capable canyon assist addict neglect index famous ostrich";

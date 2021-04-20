@@ -1,1 +1,1 @@
-var mnemonic = "calm blush denial cradle wet only artefact helmet december recycle honey victory";
+var mnemonic = "media exercise thing skill young verb uncover master choice mixed shoulder horn";

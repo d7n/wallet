@@ -1,1 +1,1 @@
-var mnemonic = "way enjoy tobacco drive narrow miracle derive wreck liberty journey maximum mixed";
+var mnemonic = "useless lady zoo sight captain found rate wish hard rent car acquire";

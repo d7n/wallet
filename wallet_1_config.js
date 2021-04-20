@@ -1,1 +1,1 @@
-var mnemonic = "vote rack junk trust wrestle pact life output address beef disorder knee";
+var mnemonic = "bird find join volcano minor endless bullet theory lens explain jelly major";

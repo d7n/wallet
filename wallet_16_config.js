@@ -1,1 +1,1 @@
-var mnemonic = "over few smooth try same acoustic detail piece chase grain leave model";
+var mnemonic = "improve aunt lamp despair genre maximum athlete payment almost concert bonus best";

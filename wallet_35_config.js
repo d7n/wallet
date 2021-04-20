@@ -1,1 +1,1 @@
-var mnemonic = "audit one shiver inmate clown club canoe random brass exercise squeeze jeans";
+var mnemonic = "pool comfort actress check meadow cat ring step poem plug foster isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "hire equip code agree sorry dutch pistol fall earn gossip radar author";
+var mnemonic = "umbrella erosion govern future beach detect liquid fly tiger rib royal escape";

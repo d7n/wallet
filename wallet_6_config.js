@@ -1,1 +1,1 @@
-var mnemonic = "inspire unfold void genius divorce arena pretty blouse fix symbol ensure chuckle";
+var mnemonic = "noble typical suffer slush outer dish dutch nut perfect monkey where youth";

@@ -1,1 +1,1 @@
-var mnemonic = "federal forget dwarf narrow hockey direct curve cabbage razor dog frame hospital";
+var mnemonic = "decide side tone dirt stumble mirror multiply humble license october garment mammal";

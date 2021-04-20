@@ -1,1 +1,1 @@
-var mnemonic = "nest trigger soap nominee gallery eternal shoulder frost bracket bomb obvious disease";
+var mnemonic = "luggage mammal strike canvas panel dawn glow around edge destroy sick picnic";

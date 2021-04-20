@@ -1,1 +1,1 @@
-var mnemonic = "symbol shove wagon net awake plate frog kit basket ring thumb lawsuit";
+var mnemonic = "over thunder seek purse build portion slam stable buffalo shove pizza tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "air session force damp zebra congress blame suspect clap predict word mango";
+var mnemonic = "submit arrow income author code seat tuna horn amount mother inhale raven";
