@@ -1,1 +1,1 @@
-var mnemonic = "atom sign model paper forward safe action waste voice actual couple sleep";
+var mnemonic = "armed animal paper throw hawk limb april violin trophy canal device key";

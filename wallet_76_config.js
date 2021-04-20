@@ -1,1 +1,1 @@
-var mnemonic = "dizzy garment wear awesome sunset machine mammal board absorb seat will category";
+var mnemonic = "lamp already floor horn pulse safe lava buddy fiber dog whale slot";

@@ -1,1 +1,1 @@
-var mnemonic = "immense ring goat miracle flame ready mammal script suggest breeze cabin vehicle";
+var mnemonic = "unit wool uncle core field blast mountain print actress man draft ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "match bundle fortune scrub offer stereo hero immune venue leisure fossil crazy";
+var mnemonic = "glide catalog seminar anger merry near hair later talk spot park turkey";

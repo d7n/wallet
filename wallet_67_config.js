@@ -1,1 +1,1 @@
-var mnemonic = "quit kidney swap that shallow tired wish because roast seat song gadget";
+var mnemonic = "faculty output forest tip coin reform much rate human parade melody try";

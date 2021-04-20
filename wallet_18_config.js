@@ -1,1 +1,1 @@
-var mnemonic = "have bid sibling peace vibrant utility mixed kingdom load skill mandate inform";
+var mnemonic = "input live try category relief machine act code garden panda room they";

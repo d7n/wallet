@@ -1,1 +1,1 @@
-var mnemonic = "main cart bless someone first noodle net scene hollow bulk plastic ostrich";
+var mnemonic = "brick walnut west chalk immense key original since border excess three shrimp";

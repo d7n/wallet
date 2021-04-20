@@ -1,1 +1,1 @@
-var mnemonic = "lesson until impose wage bounce surround friend grocery visual scorpion reward attack";
+var mnemonic = "require word gospel eight uncover submit column refuse leader devote use educate";

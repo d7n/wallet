@@ -1,1 +1,1 @@
-var mnemonic = "lonely birth absorb fantasy modify nature believe young donate caught insane illegal";
+var mnemonic = "treat surge wage penalty vintage lift owner cigar major tenant bachelor vacuum";

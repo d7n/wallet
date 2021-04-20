@@ -1,1 +1,1 @@
-var mnemonic = "neglect inch mention flower goose license artwork mass tornado screen return word";
+var mnemonic = "wasp mix what balance please index hollow civil alarm narrow inmate climb";

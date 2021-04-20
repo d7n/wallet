@@ -1,1 +1,1 @@
-var mnemonic = "appear wet capable pilot famous govern act step tower cabin blanket indicate";
+var mnemonic = "vendor shrug jar sudden float view able patrol robot company view comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "day note fragile guard siege sunny someone organ local price vanish genius";
+var mnemonic = "surface village record special fitness scatter abandon nut snack square share stumble";

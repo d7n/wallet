@@ -1,1 +1,1 @@
-var mnemonic = "woman across enough grocery one grunt speed bag best supreme fine section";
+var mnemonic = "teach stock project brave reject stamp spell curve abstract session already box";

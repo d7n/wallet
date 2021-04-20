@@ -1,1 +1,1 @@
-var mnemonic = "universe icon tunnel cable silent kingdom rival space bid wear broccoli audit";
+var mnemonic = "stick expire fan firm swap fatal thing tennis fix great point saddle";

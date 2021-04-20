@@ -1,1 +1,1 @@
-var mnemonic = "scissors canoe ancient axis bicycle mesh diet correct below garden miracle online";
+var mnemonic = "lazy venture easily sense knock strike strong myself ritual between awful cage";

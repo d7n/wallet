@@ -1,1 +1,1 @@
-var mnemonic = "panel item cool quit addict cabbage reduce unhappy coin blanket best night";
+var mnemonic = "audit high mirror ability poem melt middle again rice elegant express spoil";

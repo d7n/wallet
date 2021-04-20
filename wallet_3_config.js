@@ -1,1 +1,1 @@
-var mnemonic = "sibling sail trial spell hen flee essay trap adjust bag someone bulk";
+var mnemonic = "warrior admit person drastic have episode tackle afraid glass brush undo actress";

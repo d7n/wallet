@@ -1,1 +1,1 @@
-var mnemonic = "twelve social popular system foam excuse response hurry carry flight crater proof";
+var mnemonic = "december drill next magic prepare evolve spoon kitten debris rare tag estate";

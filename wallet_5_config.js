@@ -1,1 +1,1 @@
-var mnemonic = "nephew parrot anger hospital admit spend scout empty chest boat sentence matter";
+var mnemonic = "focus quick fever dust garlic caution slab welcome zero scene husband twenty";

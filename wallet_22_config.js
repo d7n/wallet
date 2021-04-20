@@ -1,1 +1,1 @@
-var mnemonic = "water essence three room emerge cool satisfy people try scrap copper expect";
+var mnemonic = "flower memory turtle harbor rib visit flock rabbit van sponsor excess letter";

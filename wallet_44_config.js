@@ -1,1 +1,1 @@
-var mnemonic = "business impact script nominee siege mouse mushroom slice edit meadow boss fragile";
+var mnemonic = "arrive credit jelly silent ahead exclude pair ski benefit mule nerve click";

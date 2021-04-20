@@ -1,1 +1,1 @@
-var mnemonic = "donkey bottom lift key minimum labor expose hammer rapid gun uncle guard";
+var mnemonic = "kid biology traffic curtain target menu kite glance champion stage escape obscure";

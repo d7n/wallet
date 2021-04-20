@@ -1,1 +1,1 @@
-var mnemonic = "initial inject grape harbor wild expose sword base summer cigar mail youth";
+var mnemonic = "west kick school employ feel burger number patch earth autumn other old";

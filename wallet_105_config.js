@@ -1,1 +1,1 @@
-var mnemonic = "clap vintage oil crisp purpose happy year wide mouse case leader hawk";
+var mnemonic = "pen pigeon two lend then private knife dawn sadness another humble piano";

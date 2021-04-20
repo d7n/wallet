@@ -1,1 +1,1 @@
-var mnemonic = "lunar steel gather poem advance master gift ethics solve cry service promote";
+var mnemonic = "blue track expect pitch risk idle nurse know obscure stand weapon talent";

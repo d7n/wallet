@@ -1,1 +1,1 @@
-var mnemonic = "popular fox festival oppose logic alarm sing country forward gun code hollow";
+var mnemonic = "mule velvet mobile remember vendor chief garden buddy wine hungry sick orange";

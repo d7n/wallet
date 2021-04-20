@@ -1,1 +1,1 @@
-var mnemonic = "laundry amateur urge ranch toilet member traffic mercy gain infant venue must";
+var mnemonic = "trade envelope donate super term blast survey maximum prepare festival boat mesh";

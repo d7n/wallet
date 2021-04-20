@@ -1,1 +1,1 @@
-var mnemonic = "embrace coffee oxygen federal twist unlock add frozen dragon across door actual";
+var mnemonic = "option disease series trade strong blade now pelican friend potato appear damage";

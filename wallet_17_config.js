@@ -1,1 +1,1 @@
-var mnemonic = "matrix force select behind pigeon federal build wash neck machine limit total";
+var mnemonic = "shoulder remain hamster federal trim shy payment hover valid cat minor push";

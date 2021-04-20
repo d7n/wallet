@@ -1,1 +1,1 @@
-var mnemonic = "local tourist problem scheme visit axis wife cliff tube private salon disagree";
+var mnemonic = "meadow again put derive include hand gossip cat include loud erupt physical";

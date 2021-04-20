@@ -1,1 +1,1 @@
-var mnemonic = "marble wild thought ocean use rail major gap sketch size thought skirt";
+var mnemonic = "divide rice artwork era extend explain walk snow grunt ten junk taste";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma saddle couch adjust measure eye giant sad dizzy silent host atom";
+var mnemonic = "present weapon shift suspect permit bulk mass force timber velvet rely clinic";

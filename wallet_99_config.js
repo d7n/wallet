@@ -1,1 +1,1 @@
-var mnemonic = "cover claim tide advance fade volume gas interest sad response blue list";
+var mnemonic = "file predict shiver armed leave crazy allow sting endless dolphin describe blush";

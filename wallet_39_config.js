@@ -1,1 +1,1 @@
-var mnemonic = "tray finish engage outer fat crater gas mask hover disease prevent census";
+var mnemonic = "road large nominee boat brush master shoe knee age three vivid win";

@@ -1,1 +1,1 @@
-var mnemonic = "young blood cherry frozen wasp winner chef fatal private uphold mutual crime";
+var mnemonic = "snake voice initial maid that sleep clap dust butter ramp clarify quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce worth voice solve ticket basket apple route case junk isolate crucial";
+var mnemonic = "quit thumb consider peace accuse visa nurse divert region area kitten smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "dance crystal toy bench wolf sight alpha pitch benefit clay business fuel";
+var mnemonic = "into opera vocal weird food motor genuine common sign bag sun kick";

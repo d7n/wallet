@@ -1,1 +1,1 @@
-var mnemonic = "visa twin level cruel october venture tiny live eternal furnace maid employ";
+var mnemonic = "pair roast cruise young coin despair will depend twin exist grid print";

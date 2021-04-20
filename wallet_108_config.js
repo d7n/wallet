@@ -1,1 +1,1 @@
-var mnemonic = "become embody dizzy melody custom endorse worth trial prefer supply solve secret";
+var mnemonic = "echo float outdoor blur waste love soup meadow ship undo absorb history";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow onion camp solution behind universe reunion radar cage alcohol chicken final";
+var mnemonic = "excess load sunset draw injury piece kind citizen runway cycle anchor walk";

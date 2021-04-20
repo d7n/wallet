@@ -1,1 +1,1 @@
-var mnemonic = "emerge chunk neglect hip normal retreat snap artwork vehicle october image curve";
+var mnemonic = "surface best purity twin target jeans smile tuna know brain town spawn";

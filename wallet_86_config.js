@@ -1,1 +1,1 @@
-var mnemonic = "base wink dance heart peanut olympic this other behind neglect cable power";
+var mnemonic = "seminar lucky kitten butter edit cycle strategy tobacco window enjoy domain despair";

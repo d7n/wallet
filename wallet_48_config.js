@@ -1,1 +1,1 @@
-var mnemonic = "hat sand dress piano arrest surge stumble hat jaguar plastic fantasy board";
+var mnemonic = "gap soccer able what rigid inhale few vanish dance royal about month";

@@ -1,1 +1,1 @@
-var mnemonic = "repair fine clean media twist mammal hedgehog this egg marriage floor cave";
+var mnemonic = "change focus planet health figure trouble diagram crunch tobacco slush pepper identify";

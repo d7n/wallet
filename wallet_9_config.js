@@ -1,1 +1,1 @@
-var mnemonic = "canal unhappy midnight round tube gown sock labor shock rate more deal";
+var mnemonic = "reason adapt express appear focus lawn fly horn key mansion genius correct";

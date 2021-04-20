@@ -1,1 +1,1 @@
-var mnemonic = "smart cram winner raise water despair erupt margin rigid venue demand perfect";
+var mnemonic = "play share easy keen object fire deny dizzy miss visa baby enrich";

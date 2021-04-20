@@ -1,1 +1,1 @@
-var mnemonic = "sample february pact join hamster dragon outer limit river tackle away thumb";
+var mnemonic = "option rare wash eager submit quantum easy route region pattern shift blame";

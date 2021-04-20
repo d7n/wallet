@@ -1,1 +1,1 @@
-var mnemonic = "tenant grunt crane crystal mixed arm tip tower fantasy rely duty drama";
+var mnemonic = "basket right chair rifle math pigeon kid eye super season fire morning";

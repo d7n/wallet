@@ -1,1 +1,1 @@
-var mnemonic = "embark random village ankle edge car wave city frame bonus usage pill";
+var mnemonic = "wrap because vehicle middle figure square seat tray thank charge convince armor";

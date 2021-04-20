@@ -1,1 +1,1 @@
-var mnemonic = "shaft cheap amateur laugh glance later exchange monkey swap cousin alien supply";
+var mnemonic = "oppose lesson pigeon critic update gadget clerk alley drop post aim soup";

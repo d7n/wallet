@@ -1,1 +1,1 @@
-var mnemonic = "fog member come draft flag silent escape earth proof cinnamon venue morning";
+var mnemonic = "alter blame blame shift emerge main flee faculty adapt exhibit invest negative";

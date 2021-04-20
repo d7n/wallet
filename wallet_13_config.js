@@ -1,1 +1,1 @@
-var mnemonic = "charge leg surface timber antenna cost valley dolphin chair joke effort consider";
+var mnemonic = "elephant couch stuff clap plunge fury metal slogan scheme huge galaxy census";

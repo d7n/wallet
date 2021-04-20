@@ -1,1 +1,1 @@
-var mnemonic = "hard stick wisdom super hello apology carry gate mean early push punch";
+var mnemonic = "industry cable second deal extra carry ghost document urban unlock hard market";

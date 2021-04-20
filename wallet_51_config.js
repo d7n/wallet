@@ -1,1 +1,1 @@
-var mnemonic = "hurt rude track garage breeze snap avoid pen depth empty enrich champion";
+var mnemonic = "favorite foam spawn battle march olive grass echo together average begin divide";

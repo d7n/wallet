@@ -1,1 +1,1 @@
-var mnemonic = "scrub rookie hockey seat floor original differ hedgehog furnace ring finish enact";
+var mnemonic = "great raw glare abstract please lecture crop style panic success six inch";

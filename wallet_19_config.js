@@ -1,1 +1,1 @@
-var mnemonic = "bless twenty alien match young sun demise gentle wise spin burger park";
+var mnemonic = "fence lift ostrich small garbage leg common seven adapt video unknown wheat";

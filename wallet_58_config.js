@@ -1,1 +1,1 @@
-var mnemonic = "trust know pair crane response supreme wool amount goat patient time hat";
+var mnemonic = "radio note uphold super raccoon tooth ship slim much runway wage law";

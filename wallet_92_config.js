@@ -1,1 +1,1 @@
-var mnemonic = "eagle way siren strong trap decorate company fade impulse taxi chimney pyramid";
+var mnemonic = "defy hedgehog sock park upon job bag raven sight mystery comfort peanut";

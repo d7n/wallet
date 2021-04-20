@@ -1,1 +1,1 @@
-var mnemonic = "kid festival salad fame salute service aisle pitch sad income duck hundred";
+var mnemonic = "lamp sail nut note index develop chalk kangaroo sudden flash renew shock";

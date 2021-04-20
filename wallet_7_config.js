@@ -1,1 +1,1 @@
-var mnemonic = "town oil thank reveal laundry minimum rescue hat that confirm crime rough";
+var mnemonic = "three hurt dragon because head ginger indoor push buzz benefit fog voyage";

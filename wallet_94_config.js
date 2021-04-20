@@ -1,1 +1,1 @@
-var mnemonic = "volume dutch priority curious twelve give cage addict copper use sand debris";
+var mnemonic = "kit flower struggle before gauge question purse meat unique spin screen black";

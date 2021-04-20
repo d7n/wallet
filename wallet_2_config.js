@@ -1,1 +1,1 @@
-var mnemonic = "battle flock gap slice scheme spin craft beef domain devote corn cook";
+var mnemonic = "view bottom royal relief response witness direct nest aware heavy entry enjoy";

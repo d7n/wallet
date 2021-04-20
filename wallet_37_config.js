@@ -1,1 +1,1 @@
-var mnemonic = "vintage can maximum ranch one screen right rifle unaware prefer consider rigid";
+var mnemonic = "side need vibrant cheese limb exile discover aspect warfare opinion mention mirror";

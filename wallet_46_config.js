@@ -1,1 +1,1 @@
-var mnemonic = "tissue throw slot kiss awesome service key skill enroll nasty coin become";
+var mnemonic = "tragic tape potato surprise palm tackle harbor quality snake feel erode correct";

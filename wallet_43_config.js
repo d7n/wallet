@@ -1,1 +1,1 @@
-var mnemonic = "fortune away badge biology stomach minute save payment reveal enhance recycle peasant";
+var mnemonic = "menu spice supreme letter bullet rocket coral model shop tail define depend";

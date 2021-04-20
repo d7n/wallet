@@ -1,1 +1,1 @@
-var mnemonic = "toy nephew cloth ankle glue blind now case zoo convince trick toilet";
+var mnemonic = "gentle buddy begin exit auto mosquito circle truly donor crater skirt note";

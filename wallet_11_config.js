@@ -1,1 +1,1 @@
-var mnemonic = "salt inherit ride glad athlete cancel similar midnight member finger street endorse";
+var mnemonic = "habit antique aim differ cruise maid glare error team net congress achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "nest citizen monitor devote party token punch south retire love action cancel";
+var mnemonic = "assist situate oven citizen fence duck enroll pelican fit federal quiz record";

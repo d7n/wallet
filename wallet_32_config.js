@@ -1,1 +1,1 @@
-var mnemonic = "keen sign push biology language blossom transfer drive service snake swallow visual";
+var mnemonic = "section mercy nuclear random nuclear detail people rival kind artwork copy holiday";

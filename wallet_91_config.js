@@ -1,1 +1,1 @@
-var mnemonic = "tired spot choose uniform cabin know market exist false roast develop planet";
+var mnemonic = "shallow kidney trust toilet pretty cash glare title lazy pigeon breeze ramp";

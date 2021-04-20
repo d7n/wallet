@@ -1,1 +1,1 @@
-var mnemonic = "special daring destroy item tank toe reunion glue snack imitate test rifle";
+var mnemonic = "lamp draft retreat biology crop moment better syrup float canvas illness thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer truly copper vendor curve deposit random lyrics sell defy route pause";
+var mnemonic = "height alarm that degree muscle general canyon parent pause medal clinic join";

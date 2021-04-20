@@ -1,1 +1,1 @@
-var mnemonic = "risk sad critic draw couple water secret crumble member palm initial similar";
+var mnemonic = "purchase major august mask onion eagle ice shell choose huge season loud";

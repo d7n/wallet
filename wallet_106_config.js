@@ -1,1 +1,1 @@
-var mnemonic = "cart hip clinic add sing barrel explain ripple abstract faith bounce order";
+var mnemonic = "arctic forum winter leave open loan clock body dynamic step install depth";

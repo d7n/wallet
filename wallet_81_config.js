@@ -1,1 +1,1 @@
-var mnemonic = "excess impact talk edge stable vessel surge move runway glimpse claw flee";
+var mnemonic = "project announce course excuse section glove wait garage purchase sword action license";

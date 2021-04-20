@@ -1,1 +1,1 @@
-var mnemonic = "rail acoustic drama planet dinner kiss name develop reopen then roof cable";
+var mnemonic = "inmate next room jump strong market bitter buzz wrist alter season awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "churn next cradle moral medal account bag gorilla eye life stairs pretty";
+var mnemonic = "exchange salon tiger define amount tragic debate rare hood style boil accident";

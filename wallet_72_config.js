@@ -1,1 +1,1 @@
-var mnemonic = "net chest tissue job grocery armor grass tomato cart timber icon paper";
+var mnemonic = "remind bird empower junior check rude current oblige truck wide brass quote";

@@ -1,1 +1,1 @@
-var mnemonic = "fix sauce settle defy unit hand virus icon robot method social stuff";
+var mnemonic = "energy material debate point shine throw artwork hand afford venture stairs client";

@@ -1,1 +1,1 @@
-var mnemonic = "use transfer grocery lonely expire over rug banana undo glance sound lonely";
+var mnemonic = "wage basket dice grace expire noodle tank opera claw captain whisper dust";

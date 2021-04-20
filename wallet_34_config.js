@@ -1,1 +1,1 @@
-var mnemonic = "ability during glad access inject slush deer immense rebel ribbon uncover good";
+var mnemonic = "young enjoy correct alpha liberty early earn detect absent range bus stick";
