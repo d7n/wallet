@@ -1,1 +1,1 @@
-var mnemonic = "regular say urge because harsh pool reflect wait inch frost subway digital";
+var mnemonic = "improve choice kangaroo plug tobacco tiger chest silk second bronze trip ivory";

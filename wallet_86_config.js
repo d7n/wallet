@@ -1,1 +1,1 @@
-var mnemonic = "point sunset post barrel push there pepper rally mechanic hurdle swarm chunk";
+var mnemonic = "chase decide cry prevent myself audit duty sea write confirm attitude family";

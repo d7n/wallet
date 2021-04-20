@@ -1,1 +1,1 @@
-var mnemonic = "now hurdle neglect exile grief brick gasp economy hire crew lend isolate";
+var mnemonic = "inch mention canyon amazing shield focus rug fog clarify crime ghost access";

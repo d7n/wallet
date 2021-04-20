@@ -1,1 +1,1 @@
-var mnemonic = "waste hidden defy kiwi peanut ten brush file often nature message decline";
+var mnemonic = "ski better emotion magnet impulse upon clay clown mouse glass achieve educate";

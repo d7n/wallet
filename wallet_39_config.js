@@ -1,1 +1,1 @@
-var mnemonic = "possible half try later note knee play dwarf distance inspire fringe camera";
+var mnemonic = "pink wife cross grunt witness come bitter foil expose oblige glare enact";

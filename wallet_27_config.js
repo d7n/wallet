@@ -1,1 +1,1 @@
-var mnemonic = "neutral shuffle govern fold immense few tube history explain skin scrub blame";
+var mnemonic = "elbow scout ski vital retreat what arm pattern ticket side cable tide";

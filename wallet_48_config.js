@@ -1,1 +1,1 @@
-var mnemonic = "hold account antenna wise banner guide across head turtle cable cash voyage";
+var mnemonic = "paddle spice pretty minor cloth cage caution gloom quiz entire oyster lens";

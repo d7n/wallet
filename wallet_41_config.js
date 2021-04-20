@@ -1,1 +1,1 @@
-var mnemonic = "alarm magic erupt universe invest bounce clip twice tonight hamster clock barely";
+var mnemonic = "salute stable word notice describe canal day gold soccer wear laptop woman";

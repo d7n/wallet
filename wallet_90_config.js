@@ -1,1 +1,1 @@
-var mnemonic = "brave kidney raise paper effort defense nasty provide unable dizzy chat neither";
+var mnemonic = "canvas fox risk click lonely side erode vehicle slab fall select dawn";

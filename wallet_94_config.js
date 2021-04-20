@@ -1,1 +1,1 @@
-var mnemonic = "subway royal under major orient dress mango task hundred tissue stage cabbage";
+var mnemonic = "bachelor rescue just clump immense boost exhibit pumpkin educate clever any rival";

@@ -1,1 +1,1 @@
-var mnemonic = "radar hurdle veteran coconut scan employ vendor aisle merry reject trip brother";
+var mnemonic = "trip innocent fat train exhaust sunset milk square clever success eight drop";

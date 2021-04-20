@@ -1,1 +1,1 @@
-var mnemonic = "gas supreme library yard hint glad insect warfare mistake smile banner era";
+var mnemonic = "rare version extra bulb merry embark lazy peanut clay wrap mosquito zoo";

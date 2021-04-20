@@ -1,1 +1,1 @@
-var mnemonic = "blind wealth awkward youth cage milk episode next smart spin soul history";
+var mnemonic = "desert anxiety museum strong inside transfer shine morning coin blossom brown address";

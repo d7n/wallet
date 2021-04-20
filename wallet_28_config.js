@@ -1,1 +1,1 @@
-var mnemonic = "crater own prefer crowd place exclude edge plate much spike income bid";
+var mnemonic = "language fever cable parade bomb essence disagree book axis capital identify room";

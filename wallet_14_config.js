@@ -1,1 +1,1 @@
-var mnemonic = "gadget action rural this demise observe mansion resemble flag width alarm guide";
+var mnemonic = "fame hotel dream sun system scrub peasant goddess flower adapt minor invite";

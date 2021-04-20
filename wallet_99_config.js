@@ -1,1 +1,1 @@
-var mnemonic = "sight warrior during easily gold year place say measure mother attend source";
+var mnemonic = "tomato stick version fish dream mom erosion suffer shift palace attack point";

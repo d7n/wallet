@@ -1,1 +1,1 @@
-var mnemonic = "helmet result tray siren enforce provide wrap unlock work benefit rebuild begin";
+var mnemonic = "harvest winner canal suffer debris turtle pass object broom soap index battle";

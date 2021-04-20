@@ -1,1 +1,1 @@
-var mnemonic = "soup chalk bicycle lab help wine cost seed youth diet fall pencil";
+var mnemonic = "valid embark skull state banner require minute shoe youth kiwi mass truck";

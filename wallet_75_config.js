@@ -1,1 +1,1 @@
-var mnemonic = "matrix medal width play crisp man involve next scissors include effort shock";
+var mnemonic = "lobster tank much tissue silk recipe split valve youth grab heart best";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny fancy upset clerk celery correct remember alter pride menu evolve slender";
+var mnemonic = "man winner panda hour novel since satisfy grace away impact flavor elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator oval protect hero proud between order original miss tackle property rubber";
+var mnemonic = "depth mass taxi already giant fiction mesh million scout mix bread warm";

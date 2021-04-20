@@ -1,1 +1,1 @@
-var mnemonic = "aerobic feature final erode entry sun inspire exile this dose play lobster";
+var mnemonic = "august hint door false pistol predict buddy avocado brown want life mass";

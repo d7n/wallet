@@ -1,1 +1,1 @@
-var mnemonic = "beauty liberty dust dwarf focus someone reform obey glare hello atom million";
+var mnemonic = "cat kingdom shrug flag clarify shoot motion vanish sister polar wheel employ";

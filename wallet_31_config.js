@@ -1,1 +1,1 @@
-var mnemonic = "afford grab cupboard wagon gift grant educate guess differ habit move hub";
+var mnemonic = "uncle exhibit economy live canvas denial mind cheap pink still embody clerk";

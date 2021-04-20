@@ -1,1 +1,1 @@
-var mnemonic = "fox stem six donor hen attitude loan gaze can album claim best";
+var mnemonic = "victory arrange young require evil country inflict goddess become tide guess essence";

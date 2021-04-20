@@ -1,1 +1,1 @@
-var mnemonic = "matter loop century supply pyramid false farm panic evolve ancient end flee";
+var mnemonic = "moon cotton gate defy special other patient system cheap web budget taxi";

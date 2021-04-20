@@ -1,1 +1,1 @@
-var mnemonic = "casino museum multiply sniff describe guitar turtle entire ignore kitchen receive essence";
+var mnemonic = "empty strike hard syrup season hazard orange upgrade talk turn snake cinnamon";

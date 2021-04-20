@@ -1,1 +1,1 @@
-var mnemonic = "gasp island vacuum table name type gasp lobster diet target like unveil";
+var mnemonic = "match master cross couch simple mail emotion lab mimic over mask entire";

@@ -1,1 +1,1 @@
-var mnemonic = "merry bike chicken hungry sand useless credit muscle crowd salute clarify file";
+var mnemonic = "grace risk couple blame confirm never program panther smooth leaf gravity yellow";

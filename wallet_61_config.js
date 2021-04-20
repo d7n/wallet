@@ -1,1 +1,1 @@
-var mnemonic = "output loyal lucky resource march clump vapor nose usual dice original wealth";
+var mnemonic = "much clever gravity grow amazing feel pink dismiss tortoise position grit cover";

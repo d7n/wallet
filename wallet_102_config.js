@@ -1,1 +1,1 @@
-var mnemonic = "pistol slow run bitter occur rug leopard duty corn space light wrap";
+var mnemonic = "random good kick thrive oak accuse gate typical youth seed seven shrimp";

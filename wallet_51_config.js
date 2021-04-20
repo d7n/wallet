@@ -1,1 +1,1 @@
-var mnemonic = "energy sweet lottery involve demand opinion nut latin mango cherry liberty paper";
+var mnemonic = "stomach provide snow again diet pen mutual stable sniff breeze useless upset";

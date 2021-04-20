@@ -1,1 +1,1 @@
-var mnemonic = "tube trophy lend arrest daughter accuse desk target spawn fee ecology raccoon";
+var mnemonic = "aisle object tortoise east idle park jaguar boost evolve collect urge federal";

@@ -1,1 +1,1 @@
-var mnemonic = "neck icon dwarf debate problem process patrol civil large woman ribbon lava";
+var mnemonic = "clump offer sad strong have slender start leisure color verify staff convince";

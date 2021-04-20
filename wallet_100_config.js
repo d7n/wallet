@@ -1,1 +1,1 @@
-var mnemonic = "device casino nut twelve venue spy notable average mushroom oxygen express plug";
+var mnemonic = "laundry remind apple hospital outdoor again moon lake segment save blush result";

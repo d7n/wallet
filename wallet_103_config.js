@@ -1,1 +1,1 @@
-var mnemonic = "reward disorder local wall wire tennis thumb afford concert bind snow donor";
+var mnemonic = "country mutual obtain rely possible deal maximum write modify bread flush lava";

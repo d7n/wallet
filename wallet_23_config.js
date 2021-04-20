@@ -1,1 +1,1 @@
-var mnemonic = "citizen square art biology canal large scene vanish tuition month wise guitar";
+var mnemonic = "setup joy bacon public attitude dove update column network love scan idea";

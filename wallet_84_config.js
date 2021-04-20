@@ -1,1 +1,1 @@
-var mnemonic = "fortune alley outdoor fresh lawsuit erupt inherit clap hungry want admit open";
+var mnemonic = "friend category sing session law miss cousin oil lawn secret ripple slice";

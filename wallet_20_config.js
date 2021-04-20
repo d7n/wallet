@@ -1,1 +1,1 @@
-var mnemonic = "box hour paddle evil educate perfect catalog spawn honey forum isolate useful";
+var mnemonic = "sort fork alert need proud neck bone uniform garden whisper memory monkey";

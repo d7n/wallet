@@ -1,1 +1,1 @@
-var mnemonic = "nothing angry salad result walk sudden wink kiwi polar vault join twenty";
+var mnemonic = "cash recall middle sentence include water fortune dumb mixture immune regret filter";

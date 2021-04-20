@@ -1,1 +1,1 @@
-var mnemonic = "believe lucky panic myth angle mosquito cram false ethics series tip flock";
+var mnemonic = "relax whip before render cry boat will just gold planet fox multiply";

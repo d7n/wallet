@@ -1,1 +1,1 @@
-var mnemonic = "runway explain loyal truly master village grass wire success loop table occur";
+var mnemonic = "must skull tooth average thing stay tray giraffe trip skirt grow mimic";

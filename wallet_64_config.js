@@ -1,1 +1,1 @@
-var mnemonic = "wheat dynamic disorder girl name monster hockey chronic picnic legend caught net";
+var mnemonic = "chaos shallow burger cube craft sign enjoy obtain umbrella broken skin runway";

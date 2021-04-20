@@ -1,1 +1,1 @@
-var mnemonic = "man pelican chef exhibit gossip rude insane online hurdle mercy hawk mystery";
+var mnemonic = "screen steel minor now nephew south person security brisk shell fetch fantasy";

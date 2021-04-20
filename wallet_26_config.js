@@ -1,1 +1,1 @@
-var mnemonic = "exact excess wrong describe next dove fox choice online palace toddler bench";
+var mnemonic = "liar soap couch say blouse message train pumpkin sound unlock mosquito spray";

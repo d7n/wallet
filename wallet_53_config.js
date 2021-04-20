@@ -1,1 +1,1 @@
-var mnemonic = "settle private eight time predict palace sign stool initial judge sheriff exhibit";
+var mnemonic = "struggle attitude onion hockey segment swing surge brave huge assault trip novel";

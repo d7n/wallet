@@ -1,1 +1,1 @@
-var mnemonic = "history faint era urge chuckle morning client tribe novel snap forum diesel";
+var mnemonic = "car merge royal rabbit state plate rally final wrap rescue reunion welcome";

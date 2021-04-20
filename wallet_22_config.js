@@ -1,1 +1,1 @@
-var mnemonic = "combine choose awake already judge case secret cradle bag spice control parade";
+var mnemonic = "maximum fish verb west young lawsuit orient second monster salt soap satoshi";

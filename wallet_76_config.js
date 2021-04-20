@@ -1,1 +1,1 @@
-var mnemonic = "stumble banana same stand fatal maze roof pledge potato believe allow enough";
+var mnemonic = "still sense pitch choice gossip ceiling host upper vessel feature shift young";

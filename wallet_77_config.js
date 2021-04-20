@@ -1,1 +1,1 @@
-var mnemonic = "wrap dish pistol scheme announce maze trick resemble logic pattern raise toddler";
+var mnemonic = "potato escape about finger topic mimic sister drum document clown attack milk";

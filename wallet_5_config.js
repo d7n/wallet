@@ -1,1 +1,1 @@
-var mnemonic = "fiber inhale cinnamon goat position shop whisper diet better pledge hawk because";
+var mnemonic = "gown tackle veteran where cash evolve message weather junior disorder electric acid";

@@ -1,1 +1,1 @@
-var mnemonic = "domain route mammal bunker rigid cactus beach orange ecology file silk trick";
+var mnemonic = "loan double grain define mutual main license vapor cloth doctor sentence other";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive inmate palace buyer grape east spike black silk coral lunar result";
+var mnemonic = "kid seed priority run crystal coffee whale argue pull must movie tired";

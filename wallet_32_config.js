@@ -1,1 +1,1 @@
-var mnemonic = "tenant physical member cradle drop sail fitness mad solar kit economy grunt";
+var mnemonic = "bracket budget quick twist patch scan clown mobile apart nature extend assault";

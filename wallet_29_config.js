@@ -1,1 +1,1 @@
-var mnemonic = "boil damage service endorse hire prepare benefit piano member father vivid video";
+var mnemonic = "math flush game stay amount team tornado flash mammal key truth weapon";

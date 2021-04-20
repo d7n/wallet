@@ -1,1 +1,1 @@
-var mnemonic = "trim bar broken level silk silver rival consider rice erode nation leg";
+var mnemonic = "avocado congress chase vacuum hub either faint alcohol heart riot doctor trigger";

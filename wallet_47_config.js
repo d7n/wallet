@@ -1,1 +1,1 @@
-var mnemonic = "join ordinary tomorrow common amused muscle dance ride salon enemy trigger remember";
+var mnemonic = "height use pig arm onion mosquito squeeze history bundle topple elbow seek";

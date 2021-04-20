@@ -1,1 +1,1 @@
-var mnemonic = "piece prosper aerobic youth middle derive pitch split high arrow ask decide";
+var mnemonic = "duty eagle such fish frequent like various barely session term robust lock";

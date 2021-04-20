@@ -1,1 +1,1 @@
-var mnemonic = "father taxi inform warfare debris mystery route wine garage rain will collect";
+var mnemonic = "abuse element flavor ball ranch usual struggle dynamic put cruise print ugly";

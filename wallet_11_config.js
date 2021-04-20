@@ -1,1 +1,1 @@
-var mnemonic = "hour acoustic couch drive fatal welcome coil other master plastic movie system";
+var mnemonic = "ozone steel retreat rabbit puppy trial mandate custom message giraffe card tip";

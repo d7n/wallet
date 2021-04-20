@@ -1,1 +1,1 @@
-var mnemonic = "frog emerge nerve check road blood pony survey coyote path olympic accuse";
+var mnemonic = "west analyst rigid master popular mammal drastic veteran left street text two";

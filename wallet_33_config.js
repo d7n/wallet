@@ -1,1 +1,1 @@
-var mnemonic = "debris acid globe famous violin faculty buzz sing result arrive fatal axis";
+var mnemonic = "dutch cover toy recipe usual humble betray mother system nurse elegant tortoise";

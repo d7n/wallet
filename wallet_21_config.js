@@ -1,1 +1,1 @@
-var mnemonic = "weekend change oven gloom where globe stock pledge lesson grocery mother pill";
+var mnemonic = "already sight load until curious grunt wreck shell social afford giant execute";

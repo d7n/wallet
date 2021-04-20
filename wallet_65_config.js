@@ -1,1 +1,1 @@
-var mnemonic = "welcome mountain art august bunker brave whisper chapter broom puppy parade tilt";
+var mnemonic = "equal slight sure poet advice distance crucial camp rule onion tower language";

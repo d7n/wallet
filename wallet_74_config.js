@@ -1,1 +1,1 @@
-var mnemonic = "party bless cute pause model fog boat castle arrow renew side celery";
+var mnemonic = "small gasp describe squeeze debate turkey shine slogan quiz gravity decide camera";

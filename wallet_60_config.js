@@ -1,1 +1,1 @@
-var mnemonic = "song tattoo guard crystal island doll damage subject daughter owner deer aim";
+var mnemonic = "wisdom spy rent license blood then grid cinnamon mercy achieve tourist helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "devote angle inform gadget equal dune wool robust pulse habit demise nothing";
+var mnemonic = "giant observe hybrid collect document embrace truck lounge purity harbor trend barely";

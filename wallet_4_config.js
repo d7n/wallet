@@ -1,1 +1,1 @@
-var mnemonic = "hammer unhappy spike pepper fresh dinosaur churn code similar inmate law delay";
+var mnemonic = "unknown reward select face bacon subway fatigue cake autumn ecology review inspire";

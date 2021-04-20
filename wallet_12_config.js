@@ -1,1 +1,1 @@
-var mnemonic = "guide door coral slight limit brisk orbit theory junk smooth cherry apple";
+var mnemonic = "try tank crucial candy rural appear stick prize atom about owner absent";

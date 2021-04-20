@@ -1,1 +1,1 @@
-var mnemonic = "sunset off laundry purchase decrease flat frown eye cook narrow nerve avoid";
+var mnemonic = "mistake exclude napkin bird early brother powder scrub depart gesture member title";

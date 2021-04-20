@@ -1,1 +1,1 @@
-var mnemonic = "hobby green cup tooth involve fat oval laundry welcome silent sphere clay";
+var mnemonic = "left client only cupboard kitten interest vintage wrong divide breeze insane system";

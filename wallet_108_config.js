@@ -1,1 +1,1 @@
-var mnemonic = "quick kite program core large minute use direct control display total jump";
+var mnemonic = "system veteran clerk soccer this image typical topple orbit fit sport intact";

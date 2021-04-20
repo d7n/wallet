@@ -1,1 +1,1 @@
-var mnemonic = "total edit stable guard oak web barely minimum battle material find provide";
+var mnemonic = "aerobic ivory bottom beyond attack find shaft orphan permit recipe repair possible";

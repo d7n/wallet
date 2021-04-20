@@ -1,1 +1,1 @@
-var mnemonic = "gown stage host pipe digital body say tag vacant food insect tourist";
+var mnemonic = "unknown turkey ghost company wet witness vault about easy cluster hockey vast";

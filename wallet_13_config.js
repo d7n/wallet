@@ -1,1 +1,1 @@
-var mnemonic = "opera paper balcony mail cactus guilt open disorder gun cash depend inhale";
+var mnemonic = "casual action estate actress gravity sick mountain spoon gallery spare strong remove";

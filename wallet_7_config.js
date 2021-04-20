@@ -1,1 +1,1 @@
-var mnemonic = "shift afraid plunge present stable army movie orient crater honey online armed";
+var mnemonic = "armed brisk addict survey guess thunder case metal arm loyal beauty switch";

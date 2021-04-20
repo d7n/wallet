@@ -1,1 +1,1 @@
-var mnemonic = "meadow edge skate common ancient eye bird assume awake follow found zebra";
+var mnemonic = "normal clean key humble avoid adult math arena tide sail earth return";

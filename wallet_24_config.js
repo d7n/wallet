@@ -1,1 +1,1 @@
-var mnemonic = "shock predict maple what original style submit tragic brain wait crawl atom";
+var mnemonic = "describe bracket color bundle deal fatal across silver race connect cave invite";

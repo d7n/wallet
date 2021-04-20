@@ -1,1 +1,1 @@
-var mnemonic = "submit flip client panda absurd special glad mistake envelope squirrel affair season";
+var mnemonic = "tackle lamp rice index service crop orange motion equip clock mixture crisp";

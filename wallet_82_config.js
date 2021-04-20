@@ -1,1 +1,1 @@
-var mnemonic = "visa hole practice sample word buyer verify biology marble thing velvet trade";
+var mnemonic = "list mandate palm birth logic tortoise pistol execute local build mixed version";

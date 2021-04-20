@@ -1,1 +1,1 @@
-var mnemonic = "lend amazing curve squeeze lemon crisp initial allow brand cliff rather blush";
+var mnemonic = "bleak turn brass people future dizzy notice sauce metal magic pig decorate";

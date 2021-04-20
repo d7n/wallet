@@ -1,1 +1,1 @@
-var mnemonic = "hollow sadness round jacket select hen expect club ladder orient security imitate";
+var mnemonic = "jump tongue distance stick mixed clump crunch kid laptop treat race erupt";

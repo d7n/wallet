@@ -1,1 +1,1 @@
-var mnemonic = "awake animal world tattoo horn since robust physical thunder surprise pact burden";
+var mnemonic = "maple worry patrol grain elder wine blush board gasp crop dinosaur cheese";

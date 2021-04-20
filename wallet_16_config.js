@@ -1,1 +1,1 @@
-var mnemonic = "melt true hurry soft today liar inmate reopen leisure scene aspect play";
+var mnemonic = "soap voice garbage joy chaos will hungry tired orchard recall dragon world";

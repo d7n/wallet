@@ -1,1 +1,1 @@
-var mnemonic = "flee gospel forum unfair source dismiss front cigar finish phone scare april";
+var mnemonic = "canal easily merit symptom grab april blanket maid beef affair sunny satisfy";

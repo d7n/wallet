@@ -1,1 +1,1 @@
-var mnemonic = "pepper magic guide census slam dove vacuum urban caution goose long apart";
+var mnemonic = "student wait they pulp diamond fee stock future sudden screen own alter";

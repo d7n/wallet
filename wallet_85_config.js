@@ -1,1 +1,1 @@
-var mnemonic = "brush stem woman hazard tennis wire parent gossip large rice calm powder";
+var mnemonic = "trim tourist tube eternal hint unveil urge become else fine trouble sample";
