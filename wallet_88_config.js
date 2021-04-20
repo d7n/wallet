@@ -1,1 +1,1 @@
-var mnemonic = "sniff first identify stuff happy west pink lady grass ladder inhale oyster";
+var mnemonic = "grace keen bag electric castle cupboard nice saddle tone inhale tiger cinnamon";

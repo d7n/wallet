@@ -1,1 +1,1 @@
-var mnemonic = "student aunt filter vault island squirrel gloom zoo make salt bacon search";
+var mnemonic = "return tunnel antique buzz inmate disorder olympic utility grant rug index recipe";

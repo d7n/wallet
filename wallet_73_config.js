@@ -1,1 +1,1 @@
-var mnemonic = "scrub sleep art devote ladder rich token immune deliver shrimp silent type";
+var mnemonic = "figure visa first bicycle cover affair vital absurd remember kick change know";

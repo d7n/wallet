@@ -1,1 +1,1 @@
-var mnemonic = "region style enough weekend deer tomato brand party fog slab creek nephew";
+var mnemonic = "profit devote call wedding lunch crop pride usual muffin predict portion hire";

@@ -1,1 +1,1 @@
-var mnemonic = "wood shield canoe exhaust mother humble blood shine cheese swarm ten spoon";
+var mnemonic = "exist action fetch village shed planet lady corn weapon short stumble celery";

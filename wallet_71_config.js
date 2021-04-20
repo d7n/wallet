@@ -1,1 +1,1 @@
-var mnemonic = "hello appear segment enemy material music blind feed music lock size ramp";
+var mnemonic = "antique scorpion bottom brick cluster brand isolate buffalo identify wrestle smart spoil";

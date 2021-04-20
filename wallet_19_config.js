@@ -1,1 +1,1 @@
-var mnemonic = "pitch hybrid sauce giraffe olympic proud there shift time foster december height";
+var mnemonic = "rice enter express repeat arch rabbit detail rate you chair item absent";

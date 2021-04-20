@@ -1,1 +1,1 @@
-var mnemonic = "exotic day alarm uncle act direct remain wing pumpkin park purchase source";
+var mnemonic = "rifle cluster behind below junk action small crazy swamp paddle shrug item";

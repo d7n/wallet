@@ -1,1 +1,1 @@
-var mnemonic = "black open regret purity battle flavor attitude cat boil top salmon tourist";
+var mnemonic = "air add keen orchard cry cute skull twist shallow spare supreme drastic";

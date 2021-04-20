@@ -1,1 +1,1 @@
-var mnemonic = "east muscle hundred real unveil author aware truth again raise possible range";
+var mnemonic = "fade unit digital audit ready wheat own only medal mouse ecology market";

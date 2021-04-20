@@ -1,1 +1,1 @@
-var mnemonic = "era camp curtain rifle social pepper agent squeeze vessel moral better pear";
+var mnemonic = "song wish twelve input endless system tiny room memory keen shield refuse";

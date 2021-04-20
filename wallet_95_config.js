@@ -1,1 +1,1 @@
-var mnemonic = "enforce actress sort receive elegant fly ethics spend cherry educate hunt glance";
+var mnemonic = "patient crime venture stadium learn bus scale obey fetch cereal purpose argue";

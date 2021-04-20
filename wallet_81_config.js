@@ -1,1 +1,1 @@
-var mnemonic = "salmon pelican mechanic group work vessel infant health universe subject beef drop";
+var mnemonic = "leave decrease motion gloom wood pulp fly peanut utility media opera direct";

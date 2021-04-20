@@ -1,1 +1,1 @@
-var mnemonic = "plug surprise craft issue swear sight fantasy picnic gloom math good purchase";
+var mnemonic = "decide magnet naive fog prepare monster chaos feature noodle young split during";

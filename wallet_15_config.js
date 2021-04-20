@@ -1,1 +1,1 @@
-var mnemonic = "ranch sea coconut resemble wink fancy distance monitor wire gold duck lion";
+var mnemonic = "siren leader end enroll notable jungle define history elephant soul hope mad";

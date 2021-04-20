@@ -1,1 +1,1 @@
-var mnemonic = "urban under vacant idea urban mouse shine edge frog nose replace liquid";
+var mnemonic = "motion year decline amateur mixture clump treat tackle sauce ten grunt fish";

@@ -1,1 +1,1 @@
-var mnemonic = "cage dash gaze balance spring fault fiscal praise gravity amateur way magnet";
+var mnemonic = "butter enable drink media soda frozen scene mass dog close solar ancient";

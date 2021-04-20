@@ -1,1 +1,1 @@
-var mnemonic = "bacon clean leader seven sudden actor disagree miss choice usage edge market";
+var mnemonic = "beef review deer rough sudden outer oak wave auto category window claim";

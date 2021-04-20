@@ -1,1 +1,1 @@
-var mnemonic = "learn inherit black skin mom aware tenant notice solid pudding snake ice";
+var mnemonic = "essay mango eye agent spawn abuse main canyon survey drum resemble burger";

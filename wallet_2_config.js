@@ -1,1 +1,1 @@
-var mnemonic = "border donor awake since room syrup regular liar asthma citizen spike swamp";
+var mnemonic = "dwarf universe price define wire enforce gloom update already rate prevent canoe";

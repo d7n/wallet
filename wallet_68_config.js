@@ -1,1 +1,1 @@
-var mnemonic = "breeze during empower egg effort silver lucky divert firm opera regular access";
+var mnemonic = "again rule bulb great proud bottom saddle segment hen torch thought penalty";

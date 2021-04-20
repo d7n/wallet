@@ -1,1 +1,1 @@
-var mnemonic = "furnace crisp bronze casual bless lyrics abstract life shoulder funny music illness";
+var mnemonic = "margin rack hammer gorilla route mad ecology require lazy inhale snack human";

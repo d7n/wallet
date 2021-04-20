@@ -1,1 +1,1 @@
-var mnemonic = "vapor sweet motor meadow water hobby true stage twice desk april owner";
+var mnemonic = "middle fish taste struggle fox gravity pioneer salt express outdoor spice harsh";

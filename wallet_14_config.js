@@ -1,1 +1,1 @@
-var mnemonic = "still heavy deny gauge armor flash weekend phone rent differ mango arrest";
+var mnemonic = "raven hub build aisle travel asthma brass farm rhythm feature owner critic";

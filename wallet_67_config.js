@@ -1,1 +1,1 @@
-var mnemonic = "excuse core author pottery fog fitness other repair cheese drink battle kiwi";
+var mnemonic = "tattoo talk flag vessel cool erosion awake task danger taxi young meat";

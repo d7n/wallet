@@ -1,1 +1,1 @@
-var mnemonic = "pistol chicken camp scatter toy miss immense analyst during chronic reason orbit";
+var mnemonic = "theme message never oppose small busy fresh unhappy enrich oxygen lucky first";

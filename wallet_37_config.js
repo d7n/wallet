@@ -1,1 +1,1 @@
-var mnemonic = "bamboo copy fetch tube oxygen radar ensure visit winter toe uncover police";
+var mnemonic = "alley between horror pool pink bike scare owner priority strike latin talent";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance feel lecture fix cherry quality air cage give foster lecture leader";
+var mnemonic = "fee small bulb scan such make music puzzle kite slam fit move";

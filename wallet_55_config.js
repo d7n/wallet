@@ -1,1 +1,1 @@
-var mnemonic = "toast domain eternal peanut phone runway erode energy buyer vibrant monitor bamboo";
+var mnemonic = "casual bunker nerve flat inside vessel hurt virtual rib pole human rabbit";

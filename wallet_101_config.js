@@ -1,1 +1,1 @@
-var mnemonic = "fever assume birth auto indoor ready onion awful reveal long smooth animal";
+var mnemonic = "okay silent iron kite box quote erode save afford champion struggle august";

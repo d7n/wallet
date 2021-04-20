@@ -1,1 +1,1 @@
-var mnemonic = "lens october calm loyal frown stone child marriage suit endorse mutual sauce";
+var mnemonic = "type wonder lucky arrange shine okay remember position visit rival test urban";

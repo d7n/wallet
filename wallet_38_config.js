@@ -1,1 +1,1 @@
-var mnemonic = "blossom faith pizza element chicken axis glow access soon gadget shove idle";
+var mnemonic = "nose keep jazz recall upset select twelve cream device famous fringe lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "end shield move address dwarf purse coast scare dash parent barrel input";
+var mnemonic = "defy excuse before coin assume misery public object bundle portion arrow vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "pause outdoor century certain such aware ship reunion aim crop penalty adult";
+var mnemonic = "shop spawn kitchen holiday ready inform ozone poet sock van budget define";

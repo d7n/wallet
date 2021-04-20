@@ -1,1 +1,1 @@
-var mnemonic = "fuel peasant holiday man hen accident slot when ordinary unveil boil start";
+var mnemonic = "knock monkey awkward sudden banana demand mobile clerk box alien build above";

@@ -1,1 +1,1 @@
-var mnemonic = "detect mansion ginger almost fork nest twist duck latin extend monster stumble";
+var mnemonic = "science legal stomach permit maximum quarter under tumble action when sea fan";

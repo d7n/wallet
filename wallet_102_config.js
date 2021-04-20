@@ -1,1 +1,1 @@
-var mnemonic = "flag fold gather file pride avoid mystery trick cactus excuse crunch light";
+var mnemonic = "portion edit sense dinner paddle payment roast prize trouble tragic act auto";

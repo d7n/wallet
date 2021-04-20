@@ -1,1 +1,1 @@
-var mnemonic = "author master parrot thank copy grid service evidence ozone van orphan unaware";
+var mnemonic = "knee panel music reason tourist general update gate cable seed chef despair";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct swarm ability food unfair million print cushion together bunker aim release";
+var mnemonic = "fat wheel swear pulse luggage own practice rather poet caution wrist badge";

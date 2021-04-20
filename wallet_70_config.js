@@ -1,1 +1,1 @@
-var mnemonic = "analyst arrest simple crawl side apology pretty first eagle major diary october";
+var mnemonic = "dentist poverty soup theme hood wasp found tackle august attitude refuse trim";

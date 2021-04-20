@@ -1,1 +1,1 @@
-var mnemonic = "now liquid hello glance patrol dilemma appear ostrich resource husband uncover carbon";
+var mnemonic = "cushion guitar soup barely toilet alone margin giggle job purity equip salad";

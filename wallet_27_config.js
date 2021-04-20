@@ -1,1 +1,1 @@
-var mnemonic = "ritual now rookie ask initial flavor motion wheat injury decide debate asset";
+var mnemonic = "daughter another pumpkin engine repair excite athlete ice pole young laundry screen";

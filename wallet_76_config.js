@@ -1,1 +1,1 @@
-var mnemonic = "away shed slice panda obscure strategy emerge napkin spawn envelope useless service";
+var mnemonic = "pull another purse tank harvest unable happy uncle hawk what subject correct";

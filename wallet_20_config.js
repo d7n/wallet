@@ -1,1 +1,1 @@
-var mnemonic = "service jacket market gas end swing web private empty survey among bundle";
+var mnemonic = "lonely measure human cry explain squirrel beach chat brave baby mention verify";

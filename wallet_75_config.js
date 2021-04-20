@@ -1,1 +1,1 @@
-var mnemonic = "radar matter siren balance where lady history excess vapor zoo chair click";
+var mnemonic = "error choice code town magic tide volume arch defy gate toe modify";

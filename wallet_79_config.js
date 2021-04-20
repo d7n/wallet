@@ -1,1 +1,1 @@
-var mnemonic = "bid viable magic expose spike behind stand huge cute remain face eyebrow";
+var mnemonic = "distance system guitar clerk swear deposit escape fox palm drama woman fabric";

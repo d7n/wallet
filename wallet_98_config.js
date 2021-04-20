@@ -1,1 +1,1 @@
-var mnemonic = "fragile garden crane promote open cram tower arena ghost vehicle purpose search";
+var mnemonic = "wasp square echo funny rabbit snack east legend army soldier indicate april";

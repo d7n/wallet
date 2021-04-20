@@ -1,1 +1,1 @@
-var mnemonic = "jazz degree cigar author flip buzz method believe crunch hat input hip";
+var mnemonic = "few penalty badge labor waste regular produce ghost various keep build bridge";

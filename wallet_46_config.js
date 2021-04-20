@@ -1,1 +1,1 @@
-var mnemonic = "click rural cave elbow now there satisfy fluid main jaguar rebel pepper";
+var mnemonic = "romance spell member music amused vendor boss eternal onion sauce timber rain";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn vendor educate cousin distance thought unlock leaf blanket actor umbrella risk";
+var mnemonic = "hand insane nephew orange dose title jaguar exchange pony again frozen actor";

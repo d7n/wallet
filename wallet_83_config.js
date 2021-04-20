@@ -1,1 +1,1 @@
-var mnemonic = "chest plastic liar arch music leaf army color student marine text differ";
+var mnemonic = "final barrel lens hero process canal fun kingdom quick category beef cabbage";

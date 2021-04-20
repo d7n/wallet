@@ -1,1 +1,1 @@
-var mnemonic = "few album impose will purpose inflict window boil shell evil orbit base";
+var mnemonic = "aim protect wrestle youth animal share please unveil nephew celery frame want";

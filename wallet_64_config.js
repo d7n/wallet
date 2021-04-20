@@ -1,1 +1,1 @@
-var mnemonic = "walk copy gym kitchen version phone liberty jungle plug top devote whip";
+var mnemonic = "bulb venue fiber mountain earn seminar select orange basic kite pattern discover";

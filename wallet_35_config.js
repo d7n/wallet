@@ -1,1 +1,1 @@
-var mnemonic = "army piano fruit disease hotel spin planet brisk mobile route list fashion";
+var mnemonic = "flash shy witness science page window crack fall merry pull direct donkey";

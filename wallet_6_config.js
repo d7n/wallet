@@ -1,1 +1,1 @@
-var mnemonic = "rack audit leave ritual crumble now sense slush soup century dynamic solar";
+var mnemonic = "stage wrist electric virus thumb forward young dwarf point sand loud brisk";

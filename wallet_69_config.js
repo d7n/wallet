@@ -1,1 +1,1 @@
-var mnemonic = "woman resemble clever rural manual diet salt bulb custom drama transfer differ";
+var mnemonic = "often blush sail soldier mirror change crime perfect episode relief route west";

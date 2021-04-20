@@ -1,1 +1,1 @@
-var mnemonic = "security cargo fade double rule thrive couple like valley gas panther pupil";
+var mnemonic = "disease chuckle can divert float patrol relax trick rough fitness author solution";

@@ -1,1 +1,1 @@
-var mnemonic = "shift stereo stove rookie legend cart flight claw noodle enact happy ritual";
+var mnemonic = "inform melody barrel dry ill traffic gasp motor word survey squeeze salad";

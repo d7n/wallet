@@ -1,1 +1,1 @@
-var mnemonic = "wet dog country gold milk visual indoor baby fitness mosquito coral tank";
+var mnemonic = "rare balance they marriage wisdom phone knife raw recipe club arrest cruise";

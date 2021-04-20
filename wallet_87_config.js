@@ -1,1 +1,1 @@
-var mnemonic = "rain essay water aware alpha couch fit drama barely dish move gain";
+var mnemonic = "window vapor group coast galaxy tape cheese during crawl glare moon task";

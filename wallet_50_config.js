@@ -1,1 +1,1 @@
-var mnemonic = "public ancient sight medal flavor state gorilla animal invest share apple shoe";
+var mnemonic = "core celery define royal dismiss average pave author mesh bone eternal banner";

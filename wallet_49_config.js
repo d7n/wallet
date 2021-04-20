@@ -1,1 +1,1 @@
-var mnemonic = "govern giraffe wash size express amused rather subway suggest butter hazard gospel";
+var mnemonic = "dinner cabbage edge excess south apart wood second slide unaware cigar outside";

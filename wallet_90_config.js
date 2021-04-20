@@ -1,1 +1,1 @@
-var mnemonic = "faculty film keen fitness remind truly pig city gadget earth enable bubble";
+var mnemonic = "embrace silk buzz venture mail august roof equip canal lady laundry tiny";

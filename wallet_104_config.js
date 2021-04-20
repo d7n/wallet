@@ -1,1 +1,1 @@
-var mnemonic = "inch table muffin seat lyrics example regular girl demise roast decide faith";
+var mnemonic = "glove wolf cube library turn night govern unique tunnel genius weekend price";

@@ -1,1 +1,1 @@
-var mnemonic = "space effort fire lift decrease portion industry nation case zone vacant plastic";
+var mnemonic = "brisk gallery size weird tonight athlete flame buyer foam ecology interest vapor";

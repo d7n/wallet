@@ -1,1 +1,1 @@
-var mnemonic = "treat banana inhale camp excess bid glow wave tongue tragic salad process";
+var mnemonic = "old bleak grid long absent method maximum cat blur end document cart";

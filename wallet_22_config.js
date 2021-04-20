@@ -1,1 +1,1 @@
-var mnemonic = "average anxiety inflict hammer salon adjust myth such produce gun language nice";
+var mnemonic = "uniform bracket program awkward urge august actress defense during paddle mesh sample";

@@ -1,1 +1,1 @@
-var mnemonic = "tree jungle legend frown shoulder check unique shoe clean say grief neither";
+var mnemonic = "snap blade repeat butter expect evolve exclude chimney warrior bleak divert twenty";

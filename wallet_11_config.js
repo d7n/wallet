@@ -1,1 +1,1 @@
-var mnemonic = "blade awake absorb human reunion spend royal indicate conduct turn humor exile";
+var mnemonic = "regret caution account resemble inquiry exit rib repeat expose vault deny despair";

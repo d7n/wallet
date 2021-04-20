@@ -1,1 +1,1 @@
-var mnemonic = "idea top draw armed valid example broom curtain outdoor print valve fabric";
+var mnemonic = "biology roof solution furnace until uncover service obvious cactus hold then rare";

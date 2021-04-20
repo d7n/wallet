@@ -1,1 +1,1 @@
-var mnemonic = "gun until cool tide later lab green step guide holiday host hospital";
+var mnemonic = "brisk business balance design school invite lyrics resemble want light turkey axis";

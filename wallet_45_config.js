@@ -1,1 +1,1 @@
-var mnemonic = "better amused napkin stay lecture question weird this wild letter betray lyrics";
+var mnemonic = "whale chest birth banana giggle giggle wait slot snake life wasp height";

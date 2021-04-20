@@ -1,1 +1,1 @@
-var mnemonic = "spend theory clump remind ghost border despair unusual abuse early lounge road";
+var mnemonic = "flee pair original february raccoon crash ride swim inspire inherit bright broccoli";

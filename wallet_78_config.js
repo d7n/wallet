@@ -1,1 +1,1 @@
-var mnemonic = "track budget crane window impact matter employ nut call arena claw album";
+var mnemonic = "shoot creek step speak panther proof absent retreat impact impulse skull pretty";

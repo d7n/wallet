@@ -1,1 +1,1 @@
-var mnemonic = "renew border coin fetch long spot wonder crash weekend clog version now";
+var mnemonic = "evoke rescue noodle sauce predict spawn tragic arm early fan load orange";

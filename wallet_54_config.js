@@ -1,1 +1,1 @@
-var mnemonic = "enable pipe erase inhale egg disagree awful basket minor market trumpet sand";
+var mnemonic = "health demand snap broccoli female whisper vanish duck blast bunker festival wide";

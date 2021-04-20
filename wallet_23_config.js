@@ -1,1 +1,1 @@
-var mnemonic = "surface cry spend print valve protect gadget uncle false gauge liar word";
+var mnemonic = "stuff edge section dizzy stage crucial inspire session guide buddy fringe twin";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt window cabin worth secret certain endless mention elder water pause royal";
+var mnemonic = "earth excite balance practice dolphin crazy kit spoil fine slow pencil trial";

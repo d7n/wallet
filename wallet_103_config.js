@@ -1,1 +1,1 @@
-var mnemonic = "increase game wrap erosion move bullet diamond only radio student dentist gentle";
+var mnemonic = "under nice author decrease top route tone river moral smile denial marriage";

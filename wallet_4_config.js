@@ -1,1 +1,1 @@
-var mnemonic = "mention tail ceiling table boil provide pole error piece unit lesson crucial";
+var mnemonic = "just leaf student better athlete alter gauge never file immune cool high";

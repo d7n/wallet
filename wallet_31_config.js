@@ -1,1 +1,1 @@
-var mnemonic = "okay elephant stamp palm deal install wink punch excess endless lunar estate";
+var mnemonic = "mention jar silly autumn type angry punch social bicycle beach reject ozone";

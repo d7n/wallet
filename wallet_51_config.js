@@ -1,1 +1,1 @@
-var mnemonic = "sleep hat produce drama two fade moment hub cancel vast giggle trust";
+var mnemonic = "pottery theme infant final mango liar staff boring raise bleak merge way";

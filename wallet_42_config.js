@@ -1,1 +1,1 @@
-var mnemonic = "stool rabbit focus goose erase nasty fee try this beach radio anchor";
+var mnemonic = "focus pledge senior detail pave giraffe glow menu insect audit number crunch";

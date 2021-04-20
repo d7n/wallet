@@ -1,1 +1,1 @@
-var mnemonic = "prison tilt shift puzzle pioneer canyon isolate change suspect pudding long reject";
+var mnemonic = "that rather into amateur hedgehog domain coconut coin kiss sport ordinary agree";

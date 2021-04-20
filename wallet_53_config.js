@@ -1,1 +1,1 @@
-var mnemonic = "expire noodle poet busy pony often silly toilet kid boring drastic art";
+var mnemonic = "chief myth tooth version derive lift weapon tenant hill half faculty planet";

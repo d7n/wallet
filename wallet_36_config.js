@@ -1,1 +1,1 @@
-var mnemonic = "way squeeze crumble girl test endless cluster ribbon uphold deliver find neglect";
+var mnemonic = "observe kit dutch observe mail assist guess hundred baby cupboard top bunker";

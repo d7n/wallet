@@ -1,1 +1,1 @@
-var mnemonic = "river antique then maid address crew ski art ladder ankle deer client";
+var mnemonic = "half photo sausage amazing cricket deny apology luggage scale piece fever lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "book river normal equal draw project august front zebra person economy village";
+var mnemonic = "basic step cake trend solution trick dial leopard dilemma metal census awake";
