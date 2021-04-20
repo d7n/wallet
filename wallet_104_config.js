@@ -1,1 +1,1 @@
-var mnemonic = "choose cover measure cause bacon impose author inspire judge parade invest exotic";
+var mnemonic = "army safe vacuum photo cool nuclear year snap mutual pistol apart have";

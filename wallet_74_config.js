@@ -1,1 +1,1 @@
-var mnemonic = "thumb alien solid pottery rocket prize eight unusual devote capable crane enrich";
+var mnemonic = "then crumble disagree example clown video home universe morning inspire move forum";

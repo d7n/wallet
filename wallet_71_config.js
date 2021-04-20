@@ -1,1 +1,1 @@
-var mnemonic = "toe echo census first adjust grid cat follow want dad camp among";
+var mnemonic = "panic target hero will intact area concert consider sound easy wing exact";

@@ -1,1 +1,1 @@
-var mnemonic = "moral obtain ensure camera tumble notice stock need benefit woman alone cherry";
+var mnemonic = "nice equip vital loan cross hedgehog rabbit more device alpha card figure";

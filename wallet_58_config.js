@@ -1,1 +1,1 @@
-var mnemonic = "rice disorder quiz limit promote ceiling true edge three gate lawsuit awesome";
+var mnemonic = "glove slender fiscal insect title lady two boss permit episode scorpion lazy";

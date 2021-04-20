@@ -1,1 +1,1 @@
-var mnemonic = "trial mango woman mechanic ridge solution interest blur bulb sun canoe lecture";
+var mnemonic = "skirt bracket victory old eagle element rotate dose solar tuition quantum amazing";

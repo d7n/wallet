@@ -1,1 +1,1 @@
-var mnemonic = "broccoli grit step render second fever floor rich attitude mansion shop shell";
+var mnemonic = "banana voice lawn myth exhaust setup mystery stove frog journey assist club";

@@ -1,1 +1,1 @@
-var mnemonic = "hello sister tomato wish patrol similar you current monitor end island join";
+var mnemonic = "tell earn jungle brain area inquiry unique wrong until immense diagram shine";

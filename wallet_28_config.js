@@ -1,1 +1,1 @@
-var mnemonic = "crumble delay adult draft model tobacco chuckle cycle neglect liar tell recycle";
+var mnemonic = "modify chimney subject employ one script help transfer quote industry salon husband";

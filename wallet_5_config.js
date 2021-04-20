@@ -1,1 +1,1 @@
-var mnemonic = "uncover pet shed adapt friend blush spoon state senior oppose shock try";
+var mnemonic = "dumb clog bonus despair enter fury bachelor paddle fruit earth own quarter";

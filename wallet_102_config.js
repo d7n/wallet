@@ -1,1 +1,1 @@
-var mnemonic = "pulp early mansion session dress piano satoshi addict scorpion sock banner panic";
+var mnemonic = "link verb gasp volume assault return lion charge wait donkey disease door";

@@ -1,1 +1,1 @@
-var mnemonic = "gym fitness dilemma vocal retire grid avocado color light weekend guitar possible";
+var mnemonic = "build best slim wild disorder bleak behind slab maximum relief movie renew";

@@ -1,1 +1,1 @@
-var mnemonic = "chase various useless ski intact impose tobacco memory wine wing popular soap";
+var mnemonic = "mandate board confirm exercise country crystal choose buffalo live earth eight rival";

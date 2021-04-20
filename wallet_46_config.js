@@ -1,1 +1,1 @@
-var mnemonic = "document boy caught post poet pledge vivid find slogan arrive short release";
+var mnemonic = "crawl income angle balance choice across explain hand wage rule field display";

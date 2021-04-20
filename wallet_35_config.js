@@ -1,1 +1,1 @@
-var mnemonic = "index adult veteran acquire sing occur path dragon cube away kind mom";
+var mnemonic = "edit town east equip next help solve awake wrestle hen run orphan";

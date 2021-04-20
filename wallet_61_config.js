@@ -1,1 +1,1 @@
-var mnemonic = "fan fury amazing video dwarf river fitness other evoke promote father place";
+var mnemonic = "scan hair library guard motion matter board scan slight chase genuine say";

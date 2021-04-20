@@ -1,1 +1,1 @@
-var mnemonic = "coral hundred pigeon punch divert aim tissue faculty indoor return fatigue abandon";
+var mnemonic = "south hope oval inspire inform always over buzz crush list aerobic sudden";

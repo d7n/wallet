@@ -1,1 +1,1 @@
-var mnemonic = "jump island come library tumble pole bag receive truth ring assist gift";
+var mnemonic = "section fee hen sausage cancel eagle toward butter milk slim emerge lawsuit";

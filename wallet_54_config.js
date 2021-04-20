@@ -1,1 +1,1 @@
-var mnemonic = "zero boring moral extra spend vivid ritual key lady submit spot laptop";
+var mnemonic = "throw bomb claim destroy disorder abandon canal trumpet nose coin dove pupil";

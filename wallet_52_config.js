@@ -1,1 +1,1 @@
-var mnemonic = "inch child century thumb fabric ill taste worth grief remain flag turkey";
+var mnemonic = "father help any target model another build smile name short toast immune";

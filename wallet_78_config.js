@@ -1,1 +1,1 @@
-var mnemonic = "render multiply sign arch bleak carbon strike divert finger wasp either spatial";
+var mnemonic = "control blade weapon gravity rack way clap spoil creek pride boat major";

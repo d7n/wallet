@@ -1,1 +1,1 @@
-var mnemonic = "chuckle prepare spin delay rural remain diagram buddy now confirm morning penalty";
+var mnemonic = "hint level outdoor home nest burger near course kind occur orient holiday";

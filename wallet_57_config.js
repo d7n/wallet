@@ -1,1 +1,1 @@
-var mnemonic = "scatter catalog journey minute wine donate bring rapid feed pool future strong";
+var mnemonic = "hamster nominee frequent benefit million usual tiny average ladder rule boy latin";

@@ -1,1 +1,1 @@
-var mnemonic = "license easily crater replace dilemma behind camera paper clinic fine expose angle";
+var mnemonic = "episode manage organ vacuum matrix walk head ceiling era cycle crater sword";

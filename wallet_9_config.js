@@ -1,1 +1,1 @@
-var mnemonic = "tribe scrub island love gallery deny shoulder knock common assist height risk";
+var mnemonic = "guard try announce noise defy simple spend flat mushroom actress right transfer";

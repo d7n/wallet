@@ -1,1 +1,1 @@
-var mnemonic = "flat essay midnight fade erosion thank network tone army boring mammal cannon";
+var mnemonic = "allow unaware plate report knee refuse laundry toe assist catch organ depth";

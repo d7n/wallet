@@ -1,1 +1,1 @@
-var mnemonic = "team goat wreck thought arrow glance boss ticket copper liberty cargo fall";
+var mnemonic = "nice govern what caution stumble mirror animal picnic bleak horror tonight reflect";

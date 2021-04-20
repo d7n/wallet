@@ -1,1 +1,1 @@
-var mnemonic = "banana audit rack oven mention bachelor series sleep balcony juice pupil stomach";
+var mnemonic = "select embrace second tenant wide canvas shiver seat adjust symptom monster kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "work expand letter come answer ten style afford cattle method industry tennis";
+var mnemonic = "layer grunt zebra very funny vapor kit badge promote photo net aware";

@@ -1,1 +1,1 @@
-var mnemonic = "success oven royal boss law scorpion arena unlock blame dress early august";
+var mnemonic = "inch asthma spend cluster health silent around any sphere between doctor fit";

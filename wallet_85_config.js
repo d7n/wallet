@@ -1,1 +1,1 @@
-var mnemonic = "bike exhaust income what stumble soccer mango deputy satisfy melt budget coyote";
+var mnemonic = "option deal cotton country chicken ready either rich relax pledge genre black";

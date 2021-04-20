@@ -1,1 +1,1 @@
-var mnemonic = "cable orphan verify cushion hole top more cost glove copper estate lunch";
+var mnemonic = "scene first mention tag creek desert obtain flight image already wire lunch";

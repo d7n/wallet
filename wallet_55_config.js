@@ -1,1 +1,1 @@
-var mnemonic = "this bridge hollow camera round believe almost absorb venue joke south project";
+var mnemonic = "carpet employ bind breeze ring alien absorb gas mountain resource half club";

@@ -1,1 +1,1 @@
-var mnemonic = "code appear raccoon arena warm leopard gauge awesome nephew diary hope small";
+var mnemonic = "disease copy track pledge shoulder business defy exchange behave puzzle urge sort";

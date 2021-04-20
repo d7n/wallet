@@ -1,1 +1,1 @@
-var mnemonic = "bargain almost sock near cash trouble brave gesture circle find trumpet sausage";
+var mnemonic = "level design market matrix core idea craft visa debate sample coin genius";

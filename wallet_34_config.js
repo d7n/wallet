@@ -1,1 +1,1 @@
-var mnemonic = "attack tank false trip shield arctic tool pulp bicycle grace hedgehog follow";
+var mnemonic = "step mercy announce derive attack arrange neither shallow exchange claim impact amount";

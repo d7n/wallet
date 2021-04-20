@@ -1,1 +1,1 @@
-var mnemonic = "hope sustain utility found doll enrich trick always limit tuna wish veteran";
+var mnemonic = "cream frost under ten auction legal text patch habit shock dolphin chest";

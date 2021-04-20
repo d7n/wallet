@@ -1,1 +1,1 @@
-var mnemonic = "quantum oak wagon little offer must verify coin trash awkward venue hammer";
+var mnemonic = "relief solution speed minute tube detail mail trap hill sudden stage pumpkin";

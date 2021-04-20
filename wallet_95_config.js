@@ -1,1 +1,1 @@
-var mnemonic = "tired north trial series mercy artwork divorce nice write only reform urge";
+var mnemonic = "lunar method north pilot portion palm drum drum wood alpha walnut document";

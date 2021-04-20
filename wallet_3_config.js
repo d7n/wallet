@@ -1,1 +1,1 @@
-var mnemonic = "helmet garlic gorilla kite drip attend fun mean confirm float flush half";
+var mnemonic = "episode leader cricket advance urge push quality flat genre piano omit aisle";

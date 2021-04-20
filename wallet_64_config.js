@@ -1,1 +1,1 @@
-var mnemonic = "window ignore champion close treat trend canvas ginger because bitter want present";
+var mnemonic = "digital wish click clog remain donate ripple supreme monitor spring pencil orchard";

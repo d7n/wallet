@@ -1,1 +1,1 @@
-var mnemonic = "vanish pink jungle margin garment toward token strong gentle uphold curve prepare";
+var mnemonic = "find among canyon valid ice again another vicious purchase maple clog bitter";

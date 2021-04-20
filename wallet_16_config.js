@@ -1,1 +1,1 @@
-var mnemonic = "together safe ring lyrics twice worth panther quality melt modify horror thrive";
+var mnemonic = "claw jump leader south weasel glove place sun mechanic tank bronze exist";

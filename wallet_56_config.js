@@ -1,1 +1,1 @@
-var mnemonic = "panda hockey learn banana ice bright name club mutual round swing echo";
+var mnemonic = "person twelve tribe tuna alter history empty history impose speak turkey weapon";

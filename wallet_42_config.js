@@ -1,1 +1,1 @@
-var mnemonic = "stock cargo method fire runway victory mountain during decide shuffle pass space";
+var mnemonic = "boring wing inspire summer sphere thought require monitor dawn breeze wage horror";

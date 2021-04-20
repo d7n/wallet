@@ -1,1 +1,1 @@
-var mnemonic = "credit tuna attend task cruel front lemon canal mandate sun hour injury";
+var mnemonic = "duck vessel female slam mushroom across spike nasty camp sing stem river";

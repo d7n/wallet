@@ -1,1 +1,1 @@
-var mnemonic = "select bag ceiling best erode antique snow ribbon crash subject clap problem";
+var mnemonic = "night reopen universe write blouse tool follow leisure like swallow chaos purity";

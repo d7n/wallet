@@ -1,1 +1,1 @@
-var mnemonic = "sorry high flip topic canal educate follow sausage yellow charge kind debris";
+var mnemonic = "citizen diary neck deer suspect cost pudding solution solution local accuse side";

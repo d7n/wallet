@@ -1,1 +1,1 @@
-var mnemonic = "act caught milk enact idle save social twist fame grain enjoy hospital";
+var mnemonic = "appear mean outdoor aerobic worth excite giant desert kid bottom initial ask";

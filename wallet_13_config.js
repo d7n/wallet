@@ -1,1 +1,1 @@
-var mnemonic = "smart fork cheap flip lion phrase cash hunt dilemma glow crash lumber";
+var mnemonic = "surprise hold buzz child catalog jazz escape six squirrel plunge bachelor poet";

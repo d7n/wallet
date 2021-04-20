@@ -1,1 +1,1 @@
-var mnemonic = "vote mother silk interest common secret weasel fringe reflect tell deny enough";
+var mnemonic = "abstract social permit prepare armor liquid cotton sting struggle hip hospital tragic";

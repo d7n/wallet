@@ -1,1 +1,1 @@
-var mnemonic = "solar wall olympic despair air soul leader lift giraffe void near pull";
+var mnemonic = "cement favorite grid vibrant float top wine cement stand kitten wonder culture";

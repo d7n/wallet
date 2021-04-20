@@ -1,1 +1,1 @@
-var mnemonic = "spin flee utility rate live cotton cruise patrol alcohol abandon tape six";
+var mnemonic = "crater scheme come donor divide lend cushion muffin fox balcony high battle";

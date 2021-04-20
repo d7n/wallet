@@ -1,1 +1,1 @@
-var mnemonic = "actress buzz roof phone distance bunker blur vague snake ten smooth spin";
+var mnemonic = "ranch blood regular horse chicken elder proud visa lucky purpose midnight enjoy";

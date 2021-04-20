@@ -1,1 +1,1 @@
-var mnemonic = "multiply maple walnut farm invite benefit novel current begin father survey grant";
+var mnemonic = "figure kit need snake item wait fox peace couch afraid worth street";

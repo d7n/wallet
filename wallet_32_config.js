@@ -1,1 +1,1 @@
-var mnemonic = "real hard spatial benefit choose organ virtual day steak balance matter obscure";
+var mnemonic = "that glory occur deny outside insane today measure roof abandon purpose torch";

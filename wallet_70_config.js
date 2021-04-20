@@ -1,1 +1,1 @@
-var mnemonic = "scrub inquiry cute clever usage memory surge destroy wreck cupboard route enjoy";
+var mnemonic = "attend whisper auction dizzy joke ribbon purchase jewel fit recall later stable";

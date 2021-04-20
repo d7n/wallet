@@ -1,1 +1,1 @@
-var mnemonic = "input diesel dolphin crawl spawn famous orchard match quiz crisp author gloom";
+var mnemonic = "reject loan bring exchange grunt window social absorb phrase jacket concert trophy";

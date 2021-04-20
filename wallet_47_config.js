@@ -1,1 +1,1 @@
-var mnemonic = "label replace erosion cram clarify remain priority inside orbit rhythm hospital six";
+var mnemonic = "speak urban prevent anxiety surge arrange prevent essence wasp charge nut olympic";

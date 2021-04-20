@@ -1,1 +1,1 @@
-var mnemonic = "museum achieve infant title gesture defense parent seed crack display repeat person";
+var mnemonic = "that napkin cactus initial dismiss thunder nation chase stay reform affair abuse";

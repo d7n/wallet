@@ -1,1 +1,1 @@
-var mnemonic = "siege slush rib cushion mouse source present drive record web excuse disorder";
+var mnemonic = "jazz view tortoise enlist roast domain local crowd world scout vapor enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "until agent receive universe rely hobby exclude bomb allow devote luxury drink";
+var mnemonic = "uphold ethics wrong grape master crunch orchard possible plate trim balance clean";

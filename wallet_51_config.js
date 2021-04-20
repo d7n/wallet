@@ -1,1 +1,1 @@
-var mnemonic = "assist jaguar chaos session peace nose under gym salt mention scan furnace";
+var mnemonic = "cloth curve agent vocal penalty myth dune quit obtain cup oblige meadow";

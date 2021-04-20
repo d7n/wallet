@@ -1,1 +1,1 @@
-var mnemonic = "okay island legend under accuse suffer mother typical federal series stay globe";
+var mnemonic = "spend news wedding wheat slim turkey differ mushroom tattoo illness note salt";

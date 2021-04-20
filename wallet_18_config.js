@@ -1,1 +1,1 @@
-var mnemonic = "pass topic moment frozen worth churn fire essence ask history until punch";
+var mnemonic = "twice ghost bottom sadness idle amazing foster hazard bitter ugly pencil outer";

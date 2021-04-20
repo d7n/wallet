@@ -1,1 +1,1 @@
-var mnemonic = "section stock coil buyer stable kitchen oval early marriage rally candy label";
+var mnemonic = "congress sure panda theory flower magnet duck fetch leisure song indicate coast";

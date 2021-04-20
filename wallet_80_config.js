@@ -1,1 +1,1 @@
-var mnemonic = "gather dirt omit skill science diamond wheat lady glory wide wink across";
+var mnemonic = "island indicate crisp pottery city seminar face grace office isolate gain donor";

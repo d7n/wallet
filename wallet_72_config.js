@@ -1,1 +1,1 @@
-var mnemonic = "acquire coyote fabric butter panther noble filter nest edit saddle cart climb";
+var mnemonic = "cupboard number call stone bag bamboo kitten orient stumble clock spike staff";

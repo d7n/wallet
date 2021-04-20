@@ -1,1 +1,1 @@
-var mnemonic = "endless ordinary card frozen around awkward result devote payment upset profit hockey";
+var mnemonic = "topple tomato naive joke punch pottery excite one father vapor abstract shiver";

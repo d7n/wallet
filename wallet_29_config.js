@@ -1,1 +1,1 @@
-var mnemonic = "arena diagram crush gentle sponsor top rocket quarter grain police gospel obvious";
+var mnemonic = "issue jar educate final giant laptop grace amused panda history nuclear cheap";

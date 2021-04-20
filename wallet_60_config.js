@@ -1,1 +1,1 @@
-var mnemonic = "youth else city agent siren trick purity oven ostrich december ginger shop";
+var mnemonic = "act market energy artwork neither ginger clog wrestle symptom target cash alien";

@@ -1,1 +1,1 @@
-var mnemonic = "castle habit wait find swallow air ice cheap gap tortoise crew artist";
+var mnemonic = "clog gym desert vital tent glide vehicle possible frozen unfold dinosaur round";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch blur about argue eyebrow dismiss security simple gentle minute female forget";
+var mnemonic = "judge wink gate frown immense popular evoke book figure keep habit flower";

@@ -1,1 +1,1 @@
-var mnemonic = "chief purpose umbrella another april rival place minimum trust twist prefer apart";
+var mnemonic = "west found large consider jeans height absent hello attitude glow arrest you";

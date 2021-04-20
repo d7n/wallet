@@ -1,1 +1,1 @@
-var mnemonic = "column engine vacuum jaguar concert juice air social federal village suspect tennis";
+var mnemonic = "program night spawn dentist space cause toss glance valley elder couch tuna";

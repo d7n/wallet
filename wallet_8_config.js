@@ -1,1 +1,1 @@
-var mnemonic = "crush first spoil enforce banner suffer daring fever prefer essence blush stage";
+var mnemonic = "tortoise general panda artist reduce toss hub toilet anxiety loan ensure taste";

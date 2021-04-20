@@ -1,1 +1,1 @@
-var mnemonic = "total pioneer ethics penalty slow ostrich anchor miss nothing attract teach canyon";
+var mnemonic = "daughter label mind notable hollow hurt usage wrestle liquid discover blouse recycle";

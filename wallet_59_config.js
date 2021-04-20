@@ -1,1 +1,1 @@
-var mnemonic = "that napkin cook chunk run spawn pass phone monitor jacket powder symbol";
+var mnemonic = "march this area about chronic still wasp bounce expire weather foam gasp";

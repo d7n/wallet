@@ -1,1 +1,1 @@
-var mnemonic = "float soul section orphan course jump quick victory horse bronze lake test";
+var mnemonic = "setup view muscle elephant quit debate razor biology hand steel around awful";

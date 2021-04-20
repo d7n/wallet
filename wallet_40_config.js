@@ -1,1 +1,1 @@
-var mnemonic = "kiss menu author fall ethics ozone target copy movie blame until elite";
+var mnemonic = "three lounge train grit truck faculty father hurt disagree camp grace special";

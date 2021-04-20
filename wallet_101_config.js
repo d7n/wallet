@@ -1,1 +1,1 @@
-var mnemonic = "kitchen giraffe advance burden rhythm work rocket shoot toilet forget symptom glow";
+var mnemonic = "match six stomach hand civil tortoise upon ketchup enlist pave burden debate";

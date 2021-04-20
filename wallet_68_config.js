@@ -1,1 +1,1 @@
-var mnemonic = "life walk century shrimp maid clump wet almost infant space cloud hurdle";
+var mnemonic = "coffee pond above two hockey stock mind fever mistake thank devote enter";

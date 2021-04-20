@@ -1,1 +1,1 @@
-var mnemonic = "hill seminar gasp upon gold unique inhale ask napkin mesh reopen faint";
+var mnemonic = "topple film critic flat defy cycle tortoise pen grass surface arena debate";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey evil exit identify hero guess review nothing shrimp blur follow fork";
+var mnemonic = "female wagon punch shy plunge fringe stay joke dish spray onion soft";

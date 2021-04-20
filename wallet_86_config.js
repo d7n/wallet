@@ -1,1 +1,1 @@
-var mnemonic = "emotion slam great segment love leopard march notice rather ancient shoe hole";
+var mnemonic = "glare coconut chat minimum security napkin dose target stand raven tape control";

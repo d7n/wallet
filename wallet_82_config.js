@@ -1,1 +1,1 @@
-var mnemonic = "canyon aerobic oyster fitness nut gather mouse settle battle sunny desk loyal";
+var mnemonic = "beyond lend spray area fringe have garden abuse giggle property fiber popular";

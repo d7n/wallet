@@ -1,1 +1,1 @@
-var mnemonic = "uncover slam amazing sell resemble badge laundry panic undo three range loyal";
+var mnemonic = "unaware churn pole address settle dust vocal need funny wrestle winner example";
