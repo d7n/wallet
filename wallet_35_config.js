@@ -1,1 +1,1 @@
-var mnemonic = "humor mixed slam broccoli drive now ugly client sentence smart toast burst";
+var mnemonic = "army piano fruit disease hotel spin planet brisk mobile route list fashion";

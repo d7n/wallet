@@ -1,1 +1,1 @@
-var mnemonic = "meadow dirt ramp prepare shield lava like stove farm dial drive table";
+var mnemonic = "cage dash gaze balance spring fault fiscal praise gravity amateur way magnet";

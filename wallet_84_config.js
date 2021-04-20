@@ -1,1 +1,1 @@
-var mnemonic = "used step jealous stay public sample action zero distance collect oxygen abandon";
+var mnemonic = "gun until cool tide later lab green step guide holiday host hospital";

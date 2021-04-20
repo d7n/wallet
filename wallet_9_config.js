@@ -1,1 +1,1 @@
-var mnemonic = "suggest bicycle chuckle cake trouble six dutch much permit cute floor pipe";
+var mnemonic = "furnace crisp bronze casual bless lyrics abstract life shoulder funny music illness";

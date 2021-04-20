@@ -1,1 +1,1 @@
-var mnemonic = "captain grocery fog dutch group prepare host pigeon economy weasel shed fan";
+var mnemonic = "public ancient sight medal flavor state gorilla animal invest share apple shoe";

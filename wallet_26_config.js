@@ -1,1 +1,1 @@
-var mnemonic = "bacon entire approve gallery wreck crouch dream wage future breeze supply load";
+var mnemonic = "treat banana inhale camp excess bid glow wave tongue tragic salad process";

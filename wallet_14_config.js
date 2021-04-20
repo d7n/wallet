@@ -1,1 +1,1 @@
-var mnemonic = "fee slice busy trade horror patrol fiber inform cheap buffalo call cupboard";
+var mnemonic = "still heavy deny gauge armor flash weekend phone rent differ mango arrest";

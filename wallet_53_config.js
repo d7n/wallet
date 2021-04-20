@@ -1,1 +1,1 @@
-var mnemonic = "fluid layer hunt jacket believe infant enjoy start donor rack sail margin";
+var mnemonic = "expire noodle poet busy pony often silly toilet kid boring drastic art";

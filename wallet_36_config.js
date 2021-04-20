@@ -1,1 +1,1 @@
-var mnemonic = "muffin bread valley body toy orchard bid release hotel obey goat used";
+var mnemonic = "way squeeze crumble girl test endless cluster ribbon uphold deliver find neglect";

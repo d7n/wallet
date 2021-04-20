@@ -1,1 +1,1 @@
-var mnemonic = "asthma bag lottery tag purpose custom goat cushion over humble belt vacant";
+var mnemonic = "book river normal equal draw project august front zebra person economy village";

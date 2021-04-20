@@ -1,1 +1,1 @@
-var mnemonic = "capable situate guitar digital excess embark rail rival crew gown reunion spot";
+var mnemonic = "excuse core author pottery fog fitness other repair cheese drink battle kiwi";

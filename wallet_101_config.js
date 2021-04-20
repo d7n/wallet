@@ -1,1 +1,1 @@
-var mnemonic = "baby consider deliver drink cup risk evolve tide extra limit venue predict";
+var mnemonic = "fever assume birth auto indoor ready onion awful reveal long smooth animal";

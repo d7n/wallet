@@ -1,1 +1,1 @@
-var mnemonic = "south public robot picnic milk party flight accident betray another lady antique";
+var mnemonic = "rain essay water aware alpha couch fit drama barely dish move gain";

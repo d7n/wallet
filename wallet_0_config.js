@@ -1,1 +1,1 @@
-var mnemonic = "faint evil there guide always example situate cloth alcohol address oven oblige";
+var mnemonic = "few album impose will purpose inflict window boil shell evil orbit base";

@@ -1,1 +1,1 @@
-var mnemonic = "silly picture owner fantasy fee suggest flash sting rookie primary basket deer";
+var mnemonic = "prison tilt shift puzzle pioneer canyon isolate change suspect pudding long reject";

@@ -1,1 +1,1 @@
-var mnemonic = "box stairs anchor fresh evoke ladder raccoon forum swallow orphan dice skill";
+var mnemonic = "flag fold gather file pride avoid mystery trick cactus excuse crunch light";

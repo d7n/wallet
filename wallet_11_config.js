@@ -1,1 +1,1 @@
-var mnemonic = "bike inject art beef smart thought cannon black bone salmon truly dizzy";
+var mnemonic = "blade awake absorb human reunion spend royal indicate conduct turn humor exile";

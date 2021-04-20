@@ -1,1 +1,1 @@
-var mnemonic = "own name breeze retreat myth fog burst rookie rug table slender amateur";
+var mnemonic = "student aunt filter vault island squirrel gloom zoo make salt bacon search";

@@ -1,1 +1,1 @@
-var mnemonic = "devote brown wet exit false way canyon nasty name collect panic yard";
+var mnemonic = "renew border coin fetch long spot wonder crash weekend clog version now";

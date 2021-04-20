@@ -1,1 +1,1 @@
-var mnemonic = "glide reduce dolphin ball pudding egg diary muscle retreat scare bridge length";
+var mnemonic = "pistol chicken camp scatter toy miss immense analyst during chronic reason orbit";

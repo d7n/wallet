@@ -1,1 +1,1 @@
-var mnemonic = "side weekend enact breeze black sustain bread anxiety lottery retreat ready barrel";
+var mnemonic = "region style enough weekend deer tomato brand party fog slab creek nephew";

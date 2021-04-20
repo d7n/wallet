@@ -1,1 +1,1 @@
-var mnemonic = "equal mule practice craft position vibrant wrap surround wall fat view attack";
+var mnemonic = "bacon clean leader seven sudden actor disagree miss choice usage edge market";

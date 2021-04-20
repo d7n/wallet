@@ -1,1 +1,1 @@
-var mnemonic = "violin rent grace danger anxiety knife metal clerk bachelor nut imitate clutch";
+var mnemonic = "spawn vendor educate cousin distance thought unlock leaf blanket actor umbrella risk";

@@ -1,1 +1,1 @@
-var mnemonic = "armed dress uniform stock seed area payment voice disease bright inch sign";
+var mnemonic = "surface cry spend print valve protect gadget uncle false gauge liar word";

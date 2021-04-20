@@ -1,1 +1,1 @@
-var mnemonic = "female kick west file ski tool dwarf park crop claim nest maid";
+var mnemonic = "security cargo fade double rule thrive couple like valley gas panther pupil";

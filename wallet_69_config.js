@@ -1,1 +1,1 @@
-var mnemonic = "radio nothing orchard receive island broken tell vacant sweet decline mix boost";
+var mnemonic = "woman resemble clever rural manual diet salt bulb custom drama transfer differ";

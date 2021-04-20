@@ -1,1 +1,1 @@
-var mnemonic = "beyond cart dismiss among side assist patient donate network quarter gap talent";
+var mnemonic = "walk copy gym kitchen version phone liberty jungle plug top devote whip";

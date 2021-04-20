@@ -1,1 +1,1 @@
-var mnemonic = "loud stool between indicate rival antenna toddler corn foil echo tongue tuition";
+var mnemonic = "ritual now rookie ask initial flavor motion wheat injury decide debate asset";

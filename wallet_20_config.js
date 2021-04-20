@@ -1,1 +1,1 @@
-var mnemonic = "captain boat upset rely between vendor blush harsh alley duck still aim";
+var mnemonic = "service jacket market gas end swing web private empty survey among bundle";

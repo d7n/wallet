@@ -1,1 +1,1 @@
-var mnemonic = "behave gospel fault curious verb royal voyage family invest glass range stage";
+var mnemonic = "enhance feel lecture fix cherry quality air cage give foster lecture leader";

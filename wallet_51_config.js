@@ -1,1 +1,1 @@
-var mnemonic = "opinion laptop swarm ten party west cancel miracle clever parade knee float";
+var mnemonic = "sleep hat produce drama two fade moment hub cancel vast giggle trust";

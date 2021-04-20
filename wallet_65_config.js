@@ -1,1 +1,1 @@
-var mnemonic = "miracle village wasp sample project mom foster hero benefit marble street post";
+var mnemonic = "guitar wire visit alter anger hair unhappy involve junk liar morning curious";

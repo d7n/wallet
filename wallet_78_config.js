@@ -1,1 +1,1 @@
-var mnemonic = "castle real crowd resemble tone initial midnight garlic body neck leave rebel";
+var mnemonic = "track budget crane window impact matter employ nut call arena claw album";

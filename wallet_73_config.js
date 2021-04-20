@@ -1,1 +1,1 @@
-var mnemonic = "worth remember output horn morning panic cup check possible base citizen chase";
+var mnemonic = "scrub sleep art devote ladder rich token immune deliver shrimp silent type";

@@ -1,1 +1,1 @@
-var mnemonic = "online leader gym ice tone girl bonus come divert kit ketchup often";
+var mnemonic = "pause outdoor century certain such aware ship reunion aim crop penalty adult";

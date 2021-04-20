@@ -1,1 +1,1 @@
-var mnemonic = "prize lady net mystery person disorder rural owner glory awkward this nation";
+var mnemonic = "pelican dad discover soccer boy vibrant accident fuel pottery begin crumble priority";

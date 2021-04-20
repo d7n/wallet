@@ -1,1 +1,1 @@
-var mnemonic = "wave style actress visual decide also hour quality ramp athlete village turkey";
+var mnemonic = "chest plastic liar arch music leaf army color student marine text differ";

@@ -1,1 +1,1 @@
-var mnemonic = "filter above young wise mother april carpet life entire deputy polar napkin";
+var mnemonic = "lens october calm loyal frown stone child marriage suit endorse mutual sauce";

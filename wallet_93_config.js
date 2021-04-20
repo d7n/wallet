@@ -1,1 +1,1 @@
-var mnemonic = "supreme coconut dad carbon acid critic poet street hip diagram rebuild race";
+var mnemonic = "seat miracle useful demand glimpse fashion stereo jacket motion decade lens armed";

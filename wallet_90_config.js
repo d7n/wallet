@@ -1,1 +1,1 @@
-var mnemonic = "fish twist element eternal kangaroo second spice police eager enough turkey census";
+var mnemonic = "faculty film keen fitness remind truly pig city gadget earth enable bubble";

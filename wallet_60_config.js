@@ -1,1 +1,1 @@
-var mnemonic = "canvas loop unhappy royal river injury delay vanish slam prepare forest load";
+var mnemonic = "wood shield canoe exhaust mother humble blood shine cheese swarm ten spoon";

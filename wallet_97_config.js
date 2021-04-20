@@ -1,1 +1,1 @@
-var mnemonic = "general elegant market wealth enforce deal inner stove case hundred fog label";
+var mnemonic = "era camp curtain rifle social pepper agent squeeze vessel moral better pear";

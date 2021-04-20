@@ -1,1 +1,1 @@
-var mnemonic = "deer intact peace blood exit range truly sure cabbage guard video garlic";
+var mnemonic = "zone recycle level wrestle chunk ancient trip tip course during rice capital";

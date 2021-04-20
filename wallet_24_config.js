@@ -1,1 +1,1 @@
-var mnemonic = "off jacket over lamp balance trial cattle pudding below lounge garden apology";
+var mnemonic = "detect mansion ginger almost fork nest twist duck latin extend monster stumble";

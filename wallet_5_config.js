@@ -1,1 +1,1 @@
-var mnemonic = "hockey box spice innocent any gate casino family peace skin east strategy";
+var mnemonic = "harvest pilot fine speed soup endorse core sort angle either brain mixture";

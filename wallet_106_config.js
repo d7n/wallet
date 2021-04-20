@@ -1,1 +1,1 @@
-var mnemonic = "valid club blur describe neck receive flat large choose actual unable evolve";
+var mnemonic = "rapid asthma smoke smoke razor student staff lunar stick myself ball farm";

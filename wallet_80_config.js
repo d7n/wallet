@@ -1,1 +1,1 @@
-var mnemonic = "fantasy clap term detect clap valid barrel twelve plug saddle dial town";
+var mnemonic = "token engine phone rice clog peasant squeeze submit anchor blossom output country";

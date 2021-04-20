@@ -1,1 +1,1 @@
-var mnemonic = "inform quality pluck smoke special scout hat ocean top ketchup scene soap";
+var mnemonic = "human achieve expect clerk apology girl net dumb balance venue wood infant";

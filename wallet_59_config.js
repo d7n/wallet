@@ -1,1 +1,1 @@
-var mnemonic = "young kit hurt category spice strike damp file defy rude churn chicken";
+var mnemonic = "fuel peasant holiday man hen accident slot when ordinary unveil boil start";

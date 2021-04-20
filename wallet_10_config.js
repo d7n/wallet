@@ -1,1 +1,1 @@
-var mnemonic = "boost movie under hint quote mechanic radar orange possible buffalo age tiny";
+var mnemonic = "sand bench foam carbon unknown audit spray speak remember genre young garment";

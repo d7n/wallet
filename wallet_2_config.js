@@ -1,1 +1,1 @@
-var mnemonic = "parent toddler alone gate pact write tribe ride alien elevator attract save";
+var mnemonic = "border donor awake since room syrup regular liar asthma citizen spike swamp";

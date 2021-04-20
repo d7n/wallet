@@ -1,1 +1,1 @@
-var mnemonic = "call tower library canal nerve abandon high ticket cluster jacket magic helmet";
+var mnemonic = "breeze during empower egg effort silver lucky divert firm opera regular access";

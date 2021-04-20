@@ -1,1 +1,1 @@
-var mnemonic = "swallow other fun toilet weasel often finish erode girl pretty great flee";
+var mnemonic = "enforce actress sort receive elegant fly ethics spend cherry educate hunt glance";

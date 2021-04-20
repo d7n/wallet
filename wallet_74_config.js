@@ -1,1 +1,1 @@
-var mnemonic = "deputy balance pony claw urge civil two acquire obscure rack retire chef";
+var mnemonic = "vapor sweet motor meadow water hobby true stage twice desk april owner";

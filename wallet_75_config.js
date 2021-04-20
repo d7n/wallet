@@ -1,1 +1,1 @@
-var mnemonic = "must sweet build evil loan tissue rhythm weird kiwi answer sword solid";
+var mnemonic = "radar matter siren balance where lady history excess vapor zoo chair click";

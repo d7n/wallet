@@ -1,1 +1,1 @@
-var mnemonic = "oven scene coach short betray behind crumble absent enforce wine uphold school";
+var mnemonic = "pitch hybrid sauce giraffe olympic proud there shift time foster december height";

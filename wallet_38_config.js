@@ -1,1 +1,1 @@
-var mnemonic = "forget celery glove lesson fade cross insect panda steak subject mom bracket";
+var mnemonic = "blossom faith pizza element chicken axis glow access soon gadget shove idle";

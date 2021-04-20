@@ -1,1 +1,1 @@
-var mnemonic = "inside apology still camp kit buffalo kite stone nice position body catalog";
+var mnemonic = "urban under vacant idea urban mouse shine edge frog nose replace liquid";

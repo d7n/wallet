@@ -1,1 +1,1 @@
-var mnemonic = "body believe dynamic common shed fade circle salon boss stumble palm tonight";
+var mnemonic = "wet dog country gold milk visual indoor baby fitness mosquito coral tank";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent trick verb treat brown goose few engine genuine squirrel vintage author";
+var mnemonic = "innocent dice tooth lyrics glue odor memory audit sick second category stove";

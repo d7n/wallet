@@ -1,1 +1,1 @@
-var mnemonic = "sibling spin inspire only style like odor horn rival gift until tide";
+var mnemonic = "purchase cloth coyote naive oval empty shaft almost surprise unaware sketch wrist";

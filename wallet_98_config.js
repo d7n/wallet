@@ -1,1 +1,1 @@
-var mnemonic = "equip puzzle please stove rabbit proof else news perfect total lounge vote";
+var mnemonic = "fragile garden crane promote open cram tower arena ghost vehicle purpose search";

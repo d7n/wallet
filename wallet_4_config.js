@@ -1,1 +1,1 @@
-var mnemonic = "muffin language empty polar essence echo place sail jar join segment happy";
+var mnemonic = "mention tail ceiling table boil provide pole error piece unit lesson crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "wine anchor profit unusual aunt hour elbow brother umbrella stairs math melody";
+var mnemonic = "ranch sea coconut resemble wink fancy distance monitor wire gold duck lion";

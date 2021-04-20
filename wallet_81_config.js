@@ -1,1 +1,1 @@
-var mnemonic = "robust million load sadness youth banana pluck layer merry swim fork spend";
+var mnemonic = "salmon pelican mechanic group work vessel infant health universe subject beef drop";

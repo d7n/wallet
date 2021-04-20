@@ -1,1 +1,1 @@
-var mnemonic = "burger voyage attend case earn burger pluck vacant embark intact bean abandon";
+var mnemonic = "spend theory clump remind ghost border despair unusual abuse early lounge road";

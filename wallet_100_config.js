@@ -1,1 +1,1 @@
-var mnemonic = "sudden blame glance melt bunker case trend silver elder group miss angry";
+var mnemonic = "echo extra confirm wagon same hawk sauce display green border tobacco this";

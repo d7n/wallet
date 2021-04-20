@@ -1,1 +1,1 @@
-var mnemonic = "help various rotate connect gain net episode insane dad aunt pear powder";
+var mnemonic = "shift stereo stove rookie legend cart flight claw noodle enact happy ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "promote hamster woman absorb enrich subway drastic eyebrow pottery general kitchen world";
+var mnemonic = "gloom finish dad detect wise anger balance farm fragile mail custom impact";

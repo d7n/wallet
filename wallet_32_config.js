@@ -1,1 +1,1 @@
-var mnemonic = "check torch tornado multiply dentist raise subject crouch broken knee bundle ticket";
+var mnemonic = "conduct swarm ability food unfair million print cushion together bunker aim release";

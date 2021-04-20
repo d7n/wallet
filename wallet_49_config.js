@@ -1,1 +1,1 @@
-var mnemonic = "orphan build permit bird dumb notice ahead pretty achieve uncover fruit blue";
+var mnemonic = "govern giraffe wash size express amused rather subway suggest butter hazard gospel";

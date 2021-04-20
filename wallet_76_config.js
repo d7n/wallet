@@ -1,1 +1,1 @@
-var mnemonic = "long bachelor motor piece tip prepare primary text speed engine accident choice";
+var mnemonic = "away shed slice panda obscure strategy emerge napkin spawn envelope useless service";

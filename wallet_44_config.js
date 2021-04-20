@@ -1,1 +1,1 @@
-var mnemonic = "label depart sort silk fog upset afraid poet rule sure mixed any";
+var mnemonic = "jazz degree cigar author flip buzz method believe crunch hat input hip";

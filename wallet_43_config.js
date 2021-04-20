@@ -1,1 +1,1 @@
-var mnemonic = "crack ready leaf stomach scene measure feed business build day proud deliver";
+var mnemonic = "idea top draw armed valid example broom curtain outdoor print valve fabric";

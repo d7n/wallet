@@ -1,1 +1,1 @@
-var mnemonic = "purpose travel cheese fatigue beef reflect elephant ring raw shuffle talk eager";
+var mnemonic = "pluck grace bicycle giraffe motion dismiss rice enroll arrow tired flight soft";

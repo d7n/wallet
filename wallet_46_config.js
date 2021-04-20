@@ -1,1 +1,1 @@
-var mnemonic = "lock bacon guilt verb stove suspect social dizzy spoil pair salt future";
+var mnemonic = "click rural cave elbow now there satisfy fluid main jaguar rebel pepper";

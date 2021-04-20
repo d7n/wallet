@@ -1,1 +1,1 @@
-var mnemonic = "pyramid sport confirm correct author mask oxygen night valve element stock skin";
+var mnemonic = "end shield move address dwarf purse coast scare dash parent barrel input";

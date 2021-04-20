@@ -1,1 +1,1 @@
-var mnemonic = "era inquiry seed hole senior traffic sentence siege conduct yard model rate";
+var mnemonic = "average anxiety inflict hammer salon adjust myth such produce gun language nice";

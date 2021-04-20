@@ -1,1 +1,1 @@
-var mnemonic = "flag topic normal arena hen bronze climb reject bomb rally endless soft";
+var mnemonic = "rack audit leave ritual crumble now sense slush soup century dynamic solar";

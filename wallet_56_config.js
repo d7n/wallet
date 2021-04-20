@@ -1,1 +1,1 @@
-var mnemonic = "paper speak alone tomorrow ask copper unit group snap base humble ethics";
+var mnemonic = "river antique then maid address crew ski art ladder ankle deer client";

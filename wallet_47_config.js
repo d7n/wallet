@@ -1,1 +1,1 @@
-var mnemonic = "song banner senior echo pledge steak enough goose predict fancy wasp anxiety";
+var mnemonic = "tilt window cabin worth secret certain endless mention elder water pause royal";

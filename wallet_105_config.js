@@ -1,1 +1,1 @@
-var mnemonic = "letter lobster wait burden enemy upgrade solution couch table race midnight snow";
+var mnemonic = "author master parrot thank copy grid service evidence ozone van orphan unaware";

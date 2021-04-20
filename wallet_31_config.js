@@ -1,1 +1,1 @@
-var mnemonic = "intact squeeze roast cool broom orchard measure source theme salon believe bachelor";
+var mnemonic = "okay elephant stamp palm deal install wink punch excess endless lunar estate";

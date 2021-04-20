@@ -1,1 +1,1 @@
-var mnemonic = "example girl ginger fence urban dentist deny sure silver soul recipe argue";
+var mnemonic = "exotic day alarm uncle act direct remain wing pumpkin park purchase source";

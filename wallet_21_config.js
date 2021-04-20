@@ -1,1 +1,1 @@
-var mnemonic = "dress hollow crumble series genius wheat loyal meat cousin repair olive wish";
+var mnemonic = "black open regret purity battle flavor attitude cat boil top salmon tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "club rigid fragile sport crunch derive knee train problem attract bachelor rescue";
+var mnemonic = "hello appear segment enemy material music blind feed music lock size ramp";

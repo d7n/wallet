@@ -1,1 +1,1 @@
-var mnemonic = "tunnel grit pupil festival winner beauty need local brick cool bid cool";
+var mnemonic = "learn inherit black skin mom aware tenant notice solid pudding snake ice";

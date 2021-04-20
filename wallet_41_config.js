@@ -1,1 +1,1 @@
-var mnemonic = "story few faith neither narrow bomb unknown garden any own resource rice";
+var mnemonic = "plug surprise craft issue swear sight fantasy picnic gloom math good purchase";

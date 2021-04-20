@@ -1,1 +1,1 @@
-var mnemonic = "drop grant unfold biology method brown pass loop absorb trust valve script";
+var mnemonic = "kitten width soul frown stove describe thunder simple network celery cancel over";

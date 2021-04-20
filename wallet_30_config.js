@@ -1,1 +1,1 @@
-var mnemonic = "usage doll march hip grit rubber call wave decrease coach priority eye";
+var mnemonic = "human term club shallow body major velvet brother smooth minute syrup brown";

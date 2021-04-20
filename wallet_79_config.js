@@ -1,1 +1,1 @@
-var mnemonic = "couch wet era grain abuse trip forward entry danger local brain caught";
+var mnemonic = "bid viable magic expose spike behind stand huge cute remain face eyebrow";

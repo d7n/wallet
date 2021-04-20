@@ -1,1 +1,1 @@
-var mnemonic = "edge hello album uncover wear decrease cinnamon table angle march core then";
+var mnemonic = "merry essay grab mimic artefact food happy forward hunt cushion duck divide";

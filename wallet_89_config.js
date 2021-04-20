@@ -1,1 +1,1 @@
-var mnemonic = "divert warfare ladder similar fatal swing dog leave screen green renew critic";
+var mnemonic = "abandon special high wave outdoor travel angle auction tiger arena legal bitter";

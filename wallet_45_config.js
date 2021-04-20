@@ -1,1 +1,1 @@
-var mnemonic = "volume bright wealth normal mountain almost chase federal drop ski sad fury";
+var mnemonic = "better amused napkin stay lecture question weird this wild letter betray lyrics";

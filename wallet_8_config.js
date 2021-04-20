@@ -1,1 +1,1 @@
-var mnemonic = "avocado major other universe focus lesson trophy seminar amused flame eager logic";
+var mnemonic = "gospel matrix tissue tilt valley excess dove ankle shiver iron rain police";

@@ -1,1 +1,1 @@
-var mnemonic = "inject stay hen desert poet slow kite road awkward secret negative jewel";
+var mnemonic = "space effort fire lift decrease portion industry nation case zone vacant plastic";

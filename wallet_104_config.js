@@ -1,1 +1,1 @@
-var mnemonic = "hen fruit walk apology insane industry equal section income knock behave refuse";
+var mnemonic = "inch table muffin seat lyrics example regular girl demise roast decide faith";

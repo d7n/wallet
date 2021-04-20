@@ -1,1 +1,1 @@
-var mnemonic = "can rule peasant pigeon good mention chuckle art outdoor come gloom believe";
+var mnemonic = "enable pipe erase inhale egg disagree awful basket minor market trumpet sand";
