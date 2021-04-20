@@ -1,1 +1,1 @@
-var mnemonic = "conduct air fury spend derive glad angry before legal appear head deer";
+var mnemonic = "captain grocery fog dutch group prepare host pigeon economy weasel shed fan";

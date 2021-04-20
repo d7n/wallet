@@ -1,1 +1,1 @@
-var mnemonic = "bread upgrade tribe hawk burger settle camera coin impact vault solve poverty";
+var mnemonic = "trophy tail else moon second era phone chapter grief angry police dilemma";

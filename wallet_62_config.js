@@ -1,1 +1,1 @@
-var mnemonic = "garment network acoustic couple lawn soda vacuum inflict subject predict defense bar";
+var mnemonic = "sibling spin inspire only style like odor horn rival gift until tide";

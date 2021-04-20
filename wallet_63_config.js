@@ -1,1 +1,1 @@
-var mnemonic = "tonight gadget tooth hard grunt spell outside grain dash child client sunset";
+var mnemonic = "female kick west file ski tool dwarf park crop claim nest maid";

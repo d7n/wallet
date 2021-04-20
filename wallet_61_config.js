@@ -1,1 +1,1 @@
-var mnemonic = "egg try hotel minute merit bird assume cruel concert spoil other planet";
+var mnemonic = "burger voyage attend case earn burger pluck vacant embark intact bean abandon";

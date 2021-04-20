@@ -1,1 +1,1 @@
-var mnemonic = "normal token surprise cattle small holiday cheap collect wrestle struggle glimpse laptop";
+var mnemonic = "label depart sort silk fog upset afraid poet rule sure mixed any";

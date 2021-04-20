@@ -1,1 +1,1 @@
-var mnemonic = "orphan panda network beach proof smooth vibrant fan strong rare acid sample";
+var mnemonic = "sudden blame glance melt bunker case trend silver elder group miss angry";

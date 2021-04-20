@@ -1,1 +1,1 @@
-var mnemonic = "upper avoid canoe figure tenant item cart hand case matrix gym comic";
+var mnemonic = "can rule peasant pigeon good mention chuckle art outdoor come gloom believe";

@@ -1,1 +1,1 @@
-var mnemonic = "trial budget impose quality hip behind exclude once priority motion glow bullet";
+var mnemonic = "deer intact peace blood exit range truly sure cabbage guard video garlic";

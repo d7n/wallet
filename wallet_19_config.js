@@ -1,1 +1,1 @@
-var mnemonic = "what any educate cargo round world light credit faith present million rhythm";
+var mnemonic = "oven scene coach short betray behind crumble absent enforce wine uphold school";

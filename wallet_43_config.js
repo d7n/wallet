@@ -1,1 +1,1 @@
-var mnemonic = "evolve media load pact diesel habit close basic tornado almost husband kitten";
+var mnemonic = "crack ready leaf stomach scene measure feed business build day proud deliver";

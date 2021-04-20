@@ -1,1 +1,1 @@
-var mnemonic = "jelly kingdom sausage much noodle endless mask coconut farm drip whip shiver";
+var mnemonic = "deputy balance pony claw urge civil two acquire obscure rack retire chef";

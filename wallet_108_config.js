@@ -1,1 +1,1 @@
-var mnemonic = "sport hunt carry flame home main tackle glove raven beach moral dynamic";
+var mnemonic = "behave gospel fault curious verb royal voyage family invest glass range stage";

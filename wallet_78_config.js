@@ -1,1 +1,1 @@
-var mnemonic = "whip mask train friend visa tower raven remain occur spawn welcome discover";
+var mnemonic = "castle real crowd resemble tone initial midnight garlic body neck leave rebel";

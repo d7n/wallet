@@ -1,1 +1,1 @@
-var mnemonic = "photo awkward flavor crack push shoe vendor ski fiction brick best salmon";
+var mnemonic = "lens huge cargo shed dumb wink ask twenty exit drift cube inner";

@@ -1,1 +1,1 @@
-var mnemonic = "grape since ostrich rare amount friend loop zoo spell parade crack swamp";
+var mnemonic = "general elegant market wealth enforce deal inner stove case hundred fog label";

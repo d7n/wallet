@@ -1,1 +1,1 @@
-var mnemonic = "online entry force divide piano can coral blur valve decrease canal nothing";
+var mnemonic = "boost movie under hint quote mechanic radar orange possible buffalo age tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap company hill monkey obvious wall addict category nominee furnace tilt obtain";
+var mnemonic = "avocado major other universe focus lesson trophy seminar amused flame eager logic";

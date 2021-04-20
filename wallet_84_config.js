@@ -1,1 +1,1 @@
-var mnemonic = "witness salt auto immune stable polar blood shock employ raccoon inject false";
+var mnemonic = "used step jealous stay public sample action zero distance collect oxygen abandon";

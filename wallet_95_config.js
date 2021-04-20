@@ -1,1 +1,1 @@
-var mnemonic = "shallow frozen sport month hospital water casino science giggle demand future satoshi";
+var mnemonic = "swallow other fun toilet weasel often finish erode girl pretty great flee";

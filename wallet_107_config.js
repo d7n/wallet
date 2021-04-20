@@ -1,1 +1,1 @@
-var mnemonic = "milk session disorder ice paddle mother embark humble stone away wear ranch";
+var mnemonic = "kiss party pipe horror royal argue attack adapt relief rabbit celery tag";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle master dragon veteran beach accident possible hunt raise drum orchard knock";
+var mnemonic = "asthma bag lottery tag purpose custom goat cushion over humble belt vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce paper nominee fee pudding patch flavor uniform sun torch illegal better";
+var mnemonic = "silly picture owner fantasy fee suggest flash sting rookie primary basket deer";

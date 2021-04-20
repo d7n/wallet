@@ -1,1 +1,1 @@
-var mnemonic = "wise figure album lens grab sibling brass miss theme print anger home";
+var mnemonic = "prize lady net mystery person disorder rural owner glory awkward this nation";

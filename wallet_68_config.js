@@ -1,1 +1,1 @@
-var mnemonic = "left result escape fantasy blade elder smooth era team mad lens virus";
+var mnemonic = "call tower library canal nerve abandon high ticket cluster jacket magic helmet";

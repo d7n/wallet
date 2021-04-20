@@ -1,1 +1,1 @@
-var mnemonic = "network smart quality since battle project crane stool stereo cat vendor fetch";
+var mnemonic = "volume bright wealth normal mountain almost chase federal drop ski sad fury";

@@ -1,1 +1,1 @@
-var mnemonic = "sun isolate young tragic original science near boy little frame coffee top";
+var mnemonic = "frequent trick verb treat brown goose few engine genuine squirrel vintage author";

@@ -1,1 +1,1 @@
-var mnemonic = "clap purity interest ring style chief grape jaguar device pledge endorse nature";
+var mnemonic = "bike inject art beef smart thought cannon black bone salmon truly dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "proof depart faith absorb become cycle usual fiber catch pledge gossip supply";
+var mnemonic = "fee slice busy trade horror patrol fiber inform cheap buffalo call cupboard";

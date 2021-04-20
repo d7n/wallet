@@ -1,1 +1,1 @@
-var mnemonic = "art pave pizza key monitor axis novel skill sunset vicious describe paper";
+var mnemonic = "humor mixed slam broccoli drive now ugly client sentence smart toast burst";

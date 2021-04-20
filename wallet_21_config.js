@@ -1,1 +1,1 @@
-var mnemonic = "napkin century ball dragon post apology diesel fancy glory insect rail salute";
+var mnemonic = "dress hollow crumble series genius wheat loyal meat cousin repair olive wish";

@@ -1,1 +1,1 @@
-var mnemonic = "labor major piano mention enhance innocent upper endorse pattern grain kangaroo gift";
+var mnemonic = "anxiety resist crouch boil repair chaos lava mystery tape doctor soccer surface";

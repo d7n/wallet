@@ -1,1 +1,1 @@
-var mnemonic = "curtain sorry swear concert material tragic glance school curve nice basket train";
+var mnemonic = "era inquiry seed hole senior traffic sentence siege conduct yard model rate";

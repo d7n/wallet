@@ -1,1 +1,1 @@
-var mnemonic = "same art already obey shoulder dream dirt fade episode trophy suffer cupboard";
+var mnemonic = "letter lobster wait burden enemy upgrade solution couch table race midnight snow";

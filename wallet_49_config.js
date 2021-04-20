@@ -1,1 +1,1 @@
-var mnemonic = "tide usual obtain key stuff forward reject weapon choose region shoe object";
+var mnemonic = "orphan build permit bird dumb notice ahead pretty achieve uncover fruit blue";

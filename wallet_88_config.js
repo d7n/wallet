@@ -1,1 +1,1 @@
-var mnemonic = "rigid evil honey sphere regular ice build various render flat ridge doll";
+var mnemonic = "science swing strong essence kiss six follow minor auction want spider merry";

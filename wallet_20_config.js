@@ -1,1 +1,1 @@
-var mnemonic = "oval tube notice wine quiz valley spider grab tuition warm trick trip";
+var mnemonic = "captain boat upset rely between vendor blush harsh alley duck still aim";

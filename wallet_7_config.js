@@ -1,1 +1,1 @@
-var mnemonic = "exchange symptom someone conduct lava rabbit fitness defense gossip slush tackle catalog";
+var mnemonic = "promote hamster woman absorb enrich subway drastic eyebrow pottery general kitchen world";

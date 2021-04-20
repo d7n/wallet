@@ -1,1 +1,1 @@
-var mnemonic = "impulse stamp age leader depend onion buyer win left course depart cabbage";
+var mnemonic = "forget celery glove lesson fade cross insect panda steak subject mom bracket";

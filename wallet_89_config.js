@@ -1,1 +1,1 @@
-var mnemonic = "little cat prevent spirit dilemma replace wear come gallery useless mass cage";
+var mnemonic = "divert warfare ladder similar fatal swing dog leave screen green renew critic";

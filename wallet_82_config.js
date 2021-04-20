@@ -1,1 +1,1 @@
-var mnemonic = "gallery scheme welcome junk bench price twist harvest never can apology recycle";
+var mnemonic = "purpose travel cheese fatigue beef reflect elephant ring raw shuffle talk eager";

@@ -1,1 +1,1 @@
-var mnemonic = "that world idle educate push hole ship section ahead alarm soul beef";
+var mnemonic = "body believe dynamic common shed fade circle salon boss stumble palm tonight";

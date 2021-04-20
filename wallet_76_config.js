@@ -1,1 +1,1 @@
-var mnemonic = "owner lamp level canoe inner lazy degree execute version ecology boring year";
+var mnemonic = "long bachelor motor piece tip prepare primary text speed engine accident choice";

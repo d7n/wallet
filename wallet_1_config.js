@@ -1,1 +1,1 @@
-var mnemonic = "credit couch inmate much identify moral office lecture total treat silver index";
+var mnemonic = "violin rent grace danger anxiety knife metal clerk bachelor nut imitate clutch";

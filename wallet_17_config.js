@@ -1,1 +1,1 @@
-var mnemonic = "dirt monitor civil net echo frame couple hold meadow youth rebel mass";
+var mnemonic = "own name breeze retreat myth fog burst rookie rug table slender amateur";

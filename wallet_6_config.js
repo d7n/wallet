@@ -1,1 +1,1 @@
-var mnemonic = "hurt ahead scrub life relief human toy weasel clean novel stock start";
+var mnemonic = "flag topic normal arena hen bronze climb reject bomb rally endless soft";

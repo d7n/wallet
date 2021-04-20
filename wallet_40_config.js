@@ -1,1 +1,1 @@
-var mnemonic = "accuse gloom artwork matter laundry element snow scatter girl sugar arch crawl";
+var mnemonic = "side weekend enact breeze black sustain bread anxiety lottery retreat ready barrel";

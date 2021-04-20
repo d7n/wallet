@@ -1,1 +1,1 @@
-var mnemonic = "mad ridge better broom same onion chronic supreme hour fault matter snack";
+var mnemonic = "club rigid fragile sport crunch derive knee train problem attract bachelor rescue";

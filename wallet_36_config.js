@@ -1,1 +1,1 @@
-var mnemonic = "double grocery flip baby update obtain child onion taste purity october junk";
+var mnemonic = "muffin bread valley body toy orchard bid release hotel obey goat used";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain core stone sudden mystery sail episode exercise certain victory poem coral";
+var mnemonic = "pyramid sport confirm correct author mask oxygen night valve element stock skin";

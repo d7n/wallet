@@ -1,1 +1,1 @@
-var mnemonic = "swap defy oil bird indicate middle expire bind mirror trip heavy power";
+var mnemonic = "equip puzzle please stove rabbit proof else news perfect total lounge vote";

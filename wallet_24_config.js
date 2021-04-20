@@ -1,1 +1,1 @@
-var mnemonic = "ghost equal cluster refuse stable inside view sing guess table pluck galaxy";
+var mnemonic = "off jacket over lamp balance trial cattle pudding below lounge garden apology";

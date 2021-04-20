@@ -1,1 +1,1 @@
-var mnemonic = "parade access expose weird blade nerve armor grass woman approve two spy";
+var mnemonic = "parent toddler alone gate pact write tribe ride alien elevator attract save";

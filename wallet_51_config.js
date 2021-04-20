@@ -1,1 +1,1 @@
-var mnemonic = "kind finger dignity much depart allow sure stick arctic faint hidden labor";
+var mnemonic = "opinion laptop swarm ten party west cancel miracle clever parade knee float";

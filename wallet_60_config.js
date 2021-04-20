@@ -1,1 +1,1 @@
-var mnemonic = "attract flower perfect desk expose sock toward alter smooth desk object diagram";
+var mnemonic = "canvas loop unhappy royal river injury delay vanish slam prepare forest load";

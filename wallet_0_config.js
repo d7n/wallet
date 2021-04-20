@@ -1,1 +1,1 @@
-var mnemonic = "uphold excuse question slide panther horse dizzy exclude asset tell fine pelican";
+var mnemonic = "faint evil there guide always example situate cloth alcohol address oven oblige";

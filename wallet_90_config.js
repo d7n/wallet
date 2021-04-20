@@ -1,1 +1,1 @@
-var mnemonic = "depth total one into civil desert habit history medal cigar ghost horror";
+var mnemonic = "fish twist element eternal kangaroo second spice police eager enough turkey census";

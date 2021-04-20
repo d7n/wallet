@@ -1,1 +1,1 @@
-var mnemonic = "picture beach truck bubble sport scene school supreme monitor exact spatial purse";
+var mnemonic = "hockey box spice innocent any gate casino family peace skin east strategy";

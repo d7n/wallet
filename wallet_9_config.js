@@ -1,1 +1,1 @@
-var mnemonic = "party pig panic tennis cube delay develop seek remind fun river razor";
+var mnemonic = "suggest bicycle chuckle cake trouble six dutch much permit cute floor pipe";

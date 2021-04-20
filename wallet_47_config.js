@@ -1,1 +1,1 @@
-var mnemonic = "melt three error eye plate great color return social text brain alter";
+var mnemonic = "song banner senior echo pledge steak enough goose predict fancy wasp anxiety";

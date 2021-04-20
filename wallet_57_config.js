@@ -1,1 +1,1 @@
-var mnemonic = "fence ankle crowd city puppy gasp miracle surface when shuffle reject gas";
+var mnemonic = "online leader gym ice tone girl bonus come divert kit ketchup often";

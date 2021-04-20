@@ -1,1 +1,1 @@
-var mnemonic = "enter dish movie few bone subway cash hawk ribbon clock sweet picnic";
+var mnemonic = "equal mule practice craft position vibrant wrap surround wall fat view attack";

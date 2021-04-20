@@ -1,1 +1,1 @@
-var mnemonic = "escape utility street clarify kingdom orchard shiver surprise cabin crowd belt accuse";
+var mnemonic = "radio nothing orchard receive island broken tell vacant sweet decline mix boost";

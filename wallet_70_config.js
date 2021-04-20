@@ -1,1 +1,1 @@
-var mnemonic = "ranch deny vicious stem primary impose knife tuition stove dragon cloth range";
+var mnemonic = "pact stuff harsh first bacon cube sentence absent device actual raccoon push";

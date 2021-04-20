@@ -1,1 +1,1 @@
-var mnemonic = "sight armed choose antique field flame improve tube truly option sponsor wife";
+var mnemonic = "beyond cart dismiss among side assist patient donate network quarter gap talent";

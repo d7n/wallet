@@ -1,1 +1,1 @@
-var mnemonic = "laundry utility wire moral salt elite ketchup betray medal excess seven village";
+var mnemonic = "hen fruit walk apology insane industry equal section income knock behave refuse";

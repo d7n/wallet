@@ -1,1 +1,1 @@
-var mnemonic = "mechanic balcony useless attitude blue erase piece churn need cream biology atom";
+var mnemonic = "example girl ginger fence urban dentist deny sure silver soul recipe argue";

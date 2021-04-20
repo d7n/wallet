@@ -1,1 +1,1 @@
-var mnemonic = "lift million globe urban rifle must daring cactus judge step rifle soda";
+var mnemonic = "paper speak alone tomorrow ask copper unit group snap base humble ethics";

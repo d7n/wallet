@@ -1,1 +1,1 @@
-var mnemonic = "figure arrow company pupil monitor silk waste snap atom submit thunder velvet";
+var mnemonic = "intact squeeze roast cool broom orchard measure source theme salon believe bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "model trumpet common champion field chapter robust clump humble control thought remain";
+var mnemonic = "fantasy clap term detect clap valid barrel twelve plug saddle dial town";

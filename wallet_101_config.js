@@ -1,1 +1,1 @@
-var mnemonic = "appear bind guard pear unable tail garment frog quality orient cat position";
+var mnemonic = "baby consider deliver drink cup risk evolve tide extra limit venue predict";

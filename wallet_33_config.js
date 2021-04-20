@@ -1,1 +1,1 @@
-var mnemonic = "swarm book pool corn push elder match purpose swing mansion hand drift";
+var mnemonic = "history resist ski normal feature foam sword equip cliff album group matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "agree secret bounce dice shrug rocket post snake actress cash sell link";
+var mnemonic = "inform quality pluck smoke special scout hat ocean top ketchup scene soap";

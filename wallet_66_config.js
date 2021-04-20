@@ -1,1 +1,1 @@
-var mnemonic = "spread process keep mind solution gesture slam dynamic lunar debris hollow pitch";
+var mnemonic = "glide reduce dolphin ball pudding egg diary muscle retreat scare bridge length";

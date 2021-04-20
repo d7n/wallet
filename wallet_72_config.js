@@ -1,1 +1,1 @@
-var mnemonic = "style pluck witness file patch novel rebuild display tiger asthma vanish bus";
+var mnemonic = "drop grant unfold biology method brown pass loop absorb trust valve script";

@@ -1,1 +1,1 @@
-var mnemonic = "grid there shoot buffalo ocean palace melody ranch bid home timber bus";
+var mnemonic = "usage doll march hip grit rubber call wave decrease coach priority eye";

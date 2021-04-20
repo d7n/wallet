@@ -1,1 +1,1 @@
-var mnemonic = "mail report beyond path endorse ask tent anchor banner table mercy clock";
+var mnemonic = "obey trouble drink strong maximum business whale bus secret develop safe plate";

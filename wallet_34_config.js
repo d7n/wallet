@@ -1,1 +1,1 @@
-var mnemonic = "employ claw marble sail damp among mule sauce key glove laugh beauty";
+var mnemonic = "inject stay hen desert poet slow kite road awkward secret negative jewel";

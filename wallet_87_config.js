@@ -1,1 +1,1 @@
-var mnemonic = "guard damage top nature treat run economy august journey burst eager roast";
+var mnemonic = "south public robot picnic milk party flight accident betray another lady antique";

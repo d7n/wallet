@@ -1,1 +1,1 @@
-var mnemonic = "image smooth crowd bottom drum foil inner sauce process ring cruise electric";
+var mnemonic = "armed dress uniform stock seed area payment voice disease bright inch sign";

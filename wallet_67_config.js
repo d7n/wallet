@@ -1,1 +1,1 @@
-var mnemonic = "lunar afraid company salad eyebrow remind junior badge mistake female disease couple";
+var mnemonic = "capable situate guitar digital excess embark rail rival crew gown reunion spot";

@@ -1,1 +1,1 @@
-var mnemonic = "juice release arctic display shy math balcony roof truck hub wire strike";
+var mnemonic = "robust million load sadness youth banana pluck layer merry swim fork spend";

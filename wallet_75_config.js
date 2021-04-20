@@ -1,1 +1,1 @@
-var mnemonic = "mom stem float north busy solar shop race gentle plastic run mom";
+var mnemonic = "must sweet build evil loan tissue rhythm weird kiwi answer sword solid";

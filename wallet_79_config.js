@@ -1,1 +1,1 @@
-var mnemonic = "vendor snap horror spread effort pelican attitude inform figure beach hazard inject";
+var mnemonic = "couch wet era grain abuse trip forward entry danger local brain caught";

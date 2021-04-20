@@ -1,1 +1,1 @@
-var mnemonic = "exchange market void neutral knee half delay lion stable derive job valley";
+var mnemonic = "young kit hurt category spice strike damp file defy rude churn chicken";

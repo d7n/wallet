@@ -1,1 +1,1 @@
-var mnemonic = "service group health layer acoustic ahead hybrid disorder pulp hidden penalty absent";
+var mnemonic = "inside apology still camp kit buffalo kite stone nice position body catalog";

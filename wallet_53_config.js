@@ -1,1 +1,1 @@
-var mnemonic = "blast table emerge include weather rich modify ugly abuse world indoor hill";
+var mnemonic = "fluid layer hunt jacket believe infant enjoy start donor rack sail margin";

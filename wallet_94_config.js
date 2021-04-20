@@ -1,1 +1,1 @@
-var mnemonic = "moral chimney park shoe tobacco hard kiwi skate ignore public net broom";
+var mnemonic = "meadow dirt ramp prepare shield lava like stove farm dial drive table";

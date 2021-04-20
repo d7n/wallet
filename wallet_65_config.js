@@ -1,1 +1,1 @@
-var mnemonic = "gesture joke day manual gas reveal width receive lake accident select unfair";
+var mnemonic = "miracle village wasp sample project mom foster hero benefit marble street post";

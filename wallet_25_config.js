@@ -1,1 +1,1 @@
-var mnemonic = "photo coral evil arrange dirt shift load need arch silly kite foil";
+var mnemonic = "filter above young wise mother april carpet life entire deputy polar napkin";

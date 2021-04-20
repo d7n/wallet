@@ -1,1 +1,1 @@
-var mnemonic = "gasp soup word faint tower pill collect accident space dust oval powder";
+var mnemonic = "loud stool between indicate rival antenna toddler corn foil echo tongue tuition";

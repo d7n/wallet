@@ -1,1 +1,1 @@
-var mnemonic = "want deposit decide village gloom idle forget earn tail clarify inflict hand";
+var mnemonic = "help various rotate connect gain net episode insane dad aunt pear powder";

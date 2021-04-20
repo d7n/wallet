@@ -1,1 +1,1 @@
-var mnemonic = "dove coffee doctor cigar throw helmet pottery cart monkey loop bacon add";
+var mnemonic = "story few faith neither narrow bomb unknown garden any own resource rice";

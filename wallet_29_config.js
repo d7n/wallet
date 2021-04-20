@@ -1,1 +1,1 @@
-var mnemonic = "honey journey party output road man welcome wink innocent weird mixed pear";
+var mnemonic = "tunnel grit pupil festival winner beauty need local brick cool bid cool";

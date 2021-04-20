@@ -1,1 +1,1 @@
-var mnemonic = "width blast office scout jeans proof endless pretty update issue diagram wink";
+var mnemonic = "check torch tornado multiply dentist raise subject crouch broken knee bundle ticket";

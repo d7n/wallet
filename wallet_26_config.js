@@ -1,1 +1,1 @@
-var mnemonic = "glance tide mutual vapor holiday reveal race morning dumb hazard drill object";
+var mnemonic = "bacon entire approve gallery wreck crouch dream wage future breeze supply load";

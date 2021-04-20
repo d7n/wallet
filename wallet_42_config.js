@@ -1,1 +1,1 @@
-var mnemonic = "vibrant appear beyond sense more lunch admit minute farm hair supreme destroy";
+var mnemonic = "detect problem electric time neither quick hold exit horn traffic walk glimpse";

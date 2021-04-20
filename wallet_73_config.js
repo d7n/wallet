@@ -1,1 +1,1 @@
-var mnemonic = "surprise trophy hunt gaze try brick luggage slot frozen water forest sugar";
+var mnemonic = "worth remember output horn morning panic cup check possible base citizen chase";

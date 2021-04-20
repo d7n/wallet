@@ -1,1 +1,1 @@
-var mnemonic = "lobster will tenant radio exotic office casino ritual shallow return account employ";
+var mnemonic = "wine anchor profit unusual aunt hour elbow brother umbrella stairs math melody";
