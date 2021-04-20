@@ -1,1 +1,1 @@
-var mnemonic = "subject grape cook title urge win east husband silk give dog front";
+var mnemonic = "exhaust myself example fit inmate warfare autumn era country outer spike refuse";

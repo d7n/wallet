@@ -1,1 +1,1 @@
-var mnemonic = "office achieve unique dawn shock media harsh assist fortune pave butter blouse";
+var mnemonic = "odor canoe fruit relief lesson like hazard usual acquire owner hurry wrap";

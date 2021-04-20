@@ -1,1 +1,1 @@
-var mnemonic = "slender team boost cheese rigid gown vehicle sausage awake pilot organ bulb";
+var mnemonic = "copper gentle infant scissors hood monitor reflect winner pill draft police film";

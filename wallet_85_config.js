@@ -1,1 +1,1 @@
-var mnemonic = "casual news unable traffic beauty ill ecology economy witness romance turkey sad";
+var mnemonic = "ill weasel team cheap exist brick veteran daughter used tenant elegant ozone";

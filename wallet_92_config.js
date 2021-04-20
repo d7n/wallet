@@ -1,1 +1,1 @@
-var mnemonic = "grief possible assist buddy crop elegant toilet romance parent unlock school arena";
+var mnemonic = "announce safe soda wheat rich decade thrive tooth figure what master mango";

@@ -1,1 +1,1 @@
-var mnemonic = "amused ask keep foster adult give magnet matrix enrich amateur defy injury";
+var mnemonic = "stand federal tomorrow punch face dove obey ridge glide wrist curtain escape";

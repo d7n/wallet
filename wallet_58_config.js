@@ -1,1 +1,1 @@
-var mnemonic = "proof stone amazing burst pipe sense fever first unlock amused label quality";
+var mnemonic = "dust awkward just express index damp cause hard reflect original butter elite";

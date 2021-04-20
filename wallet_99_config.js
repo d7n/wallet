@@ -1,1 +1,1 @@
-var mnemonic = "gospel make broom firm play viable burger toe foil script mixed weekend";
+var mnemonic = "total rebuild father pulse table tonight cherry much advice only segment rail";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow wrist sheriff wave steak error tenant merge spin vacuum apple powder";
+var mnemonic = "forum cram hunt expect catalog piano around exchange keep stuff lucky shaft";

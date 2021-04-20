@@ -1,1 +1,1 @@
-var mnemonic = "heavy dismiss knee board crash jazz great maze budget orchard gown club";
+var mnemonic = "account rich turtle rare original entry boy occur upset appear clever elder";

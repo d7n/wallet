@@ -1,1 +1,1 @@
-var mnemonic = "carpet hour sell type sand valve join stand often empty month uphold";
+var mnemonic = "infant moment ridge wing mobile gossip egg shuffle life imitate wait next";

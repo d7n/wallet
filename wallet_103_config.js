@@ -1,1 +1,1 @@
-var mnemonic = "slam model brief ankle reform human club evoke poem pottery people quantum";
+var mnemonic = "bacon whisper space nerve ocean core alone sort bring click correct choice";

@@ -1,1 +1,1 @@
-var mnemonic = "shine discover abandon tag author fringe tip question alien concert wild able";
+var mnemonic = "whale inmate endorse picture news trend jealous sunny advance first raven initial";

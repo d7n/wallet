@@ -1,1 +1,1 @@
-var mnemonic = "used exotic milk tube great wing return ankle evil prosper human run";
+var mnemonic = "stomach enough disease now stem rich nut chicken depart voice urge sun";

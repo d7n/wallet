@@ -1,1 +1,1 @@
-var mnemonic = "net trip modify tribe ball snow thank casual parrot spider scheme street";
+var mnemonic = "rib hero spy sign three boil drum long prefer index bind kid";

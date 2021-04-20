@@ -1,1 +1,1 @@
-var mnemonic = "sign village deposit basket baby blur usage labor ethics sponsor limit obvious";
+var mnemonic = "time tissue mass salt crime actor hungry business mansion laugh divorce message";

@@ -1,1 +1,1 @@
-var mnemonic = "embark bar fiscal hair park appear aisle thunder gallery occur casual shed";
+var mnemonic = "smile merit sketch force program silk sport expose civil visa ring casino";

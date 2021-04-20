@@ -1,1 +1,1 @@
-var mnemonic = "traffic grief project cruise damage gate gesture vintage bubble six close verify";
+var mnemonic = "endorse deposit amount adult return dish document ski critic trust flight shiver";

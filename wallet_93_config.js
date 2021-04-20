@@ -1,1 +1,1 @@
-var mnemonic = "easy first dilemma only hire joy lion trophy diet debris sun gown";
+var mnemonic = "wheel theme invite bounce else escape abstract drastic live cave phrase file";

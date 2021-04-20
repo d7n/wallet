@@ -1,1 +1,1 @@
-var mnemonic = "shine follow giant galaxy glance garage creek price net lava orphan noise";
+var mnemonic = "evidence security suffer medal venture swing produce expose dumb cargo brand stock";

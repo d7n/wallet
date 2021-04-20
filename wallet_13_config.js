@@ -1,1 +1,1 @@
-var mnemonic = "tape violin escape wave broccoli main cousin blanket fortune confirm boil banana";
+var mnemonic = "build taxi outside giggle stay east design switch quantum side rent close";

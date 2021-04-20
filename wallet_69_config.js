@@ -1,1 +1,1 @@
-var mnemonic = "guilt rough bike enough donor transfer upper creek detect note indoor dry";
+var mnemonic = "debris shadow visit idle win youth nation front idle reward reveal bracket";

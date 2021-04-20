@@ -1,1 +1,1 @@
-var mnemonic = "warrior green deputy strategy tip answer virtual rich update violin sick note";
+var mnemonic = "dove cricket lunch prison hub planet famous obey now transfer hundred dinosaur";

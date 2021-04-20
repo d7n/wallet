@@ -1,1 +1,1 @@
-var mnemonic = "viable obscure easy poem goddess pledge civil rhythm begin iron chest rain";
+var mnemonic = "old improve sister deal hidden fluid math wolf kick logic shed mango";

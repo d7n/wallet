@@ -1,1 +1,1 @@
-var mnemonic = "rate away submit pioneer drift annual neutral question galaxy stumble crowd together";
+var mnemonic = "banner coffee extend stage unique swim replace trouble super roof reunion armed";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly lunar convince toy room face scissors craft front broccoli version prosper";
+var mnemonic = "artist volume weasel wide click peace silly place venture elbow horn shallow";

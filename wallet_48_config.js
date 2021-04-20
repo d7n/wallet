@@ -1,1 +1,1 @@
-var mnemonic = "sauce scissors equal since soft tray maple author embody surface text change";
+var mnemonic = "rude drama rich design enjoy tumble oak ranch zone remind police obvious";

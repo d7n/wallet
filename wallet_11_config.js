@@ -1,1 +1,1 @@
-var mnemonic = "fatal useful tag aunt hollow mean public girl solar range steak describe";
+var mnemonic = "envelope day laptop marine moment grit pole fitness rotate parent attitude combine";

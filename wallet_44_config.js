@@ -1,1 +1,1 @@
-var mnemonic = "night gather often best split wing exotic puppy behind gate easy moral";
+var mnemonic = "quote cradle blade tail knife alien home naive truck boring bright easily";

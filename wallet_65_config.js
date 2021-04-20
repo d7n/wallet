@@ -1,1 +1,1 @@
-var mnemonic = "wide pet warrior truck earth subject trick maple siege moon cram bitter";
+var mnemonic = "success problem echo chaos dinosaur tumble initial width library negative ripple exact";

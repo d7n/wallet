@@ -1,1 +1,1 @@
-var mnemonic = "screen leopard blue common fun today diet pilot salmon stage limb labor";
+var mnemonic = "harbor blossom april answer december economy furnace cash later smoke desk proud";

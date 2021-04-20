@@ -1,1 +1,1 @@
-var mnemonic = "sell nurse say what injury shift idea deputy action absorb news goddess";
+var mnemonic = "ship mask side afford vital bounce carry confirm want ski project ancient";

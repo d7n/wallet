@@ -1,1 +1,1 @@
-var mnemonic = "symbol below enhance scan thunder laundry budget wealth radio someone truck cinnamon";
+var mnemonic = "simple exhaust assault shrug reason any second fury laugh route accuse biology";

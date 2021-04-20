@@ -1,1 +1,1 @@
-var mnemonic = "ritual glove begin vocal frost wife shoe mesh debate dice scissors twist";
+var mnemonic = "deputy aisle when guilt quiz fluid upper crystal excuse trip genius staff";

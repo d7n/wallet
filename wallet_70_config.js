@@ -1,1 +1,1 @@
-var mnemonic = "clean popular taste sausage spy decline birth album midnight left subway soda";
+var mnemonic = "taxi subject corn slight inner scale local gift misery uphold order shy";

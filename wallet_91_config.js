@@ -1,1 +1,1 @@
-var mnemonic = "poet velvet gadget crane small ramp family whale teach render hen exhibit";
+var mnemonic = "idle glide scorpion armed warfare advice time bus affair cricket butter garden";

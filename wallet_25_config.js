@@ -1,1 +1,1 @@
-var mnemonic = "congress betray echo woman skill under patient camp pride pair seek resist";
+var mnemonic = "squeeze obey area exercise gauge caution improve hard cactus muscle ramp consider";

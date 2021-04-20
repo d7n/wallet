@@ -1,1 +1,1 @@
-var mnemonic = "recycle jungle shuffle clarify grace marriage art remind type prison globe lady";
+var mnemonic = "elevator print shoe sketch barely salmon avoid impulse custom leisure frozen venue";

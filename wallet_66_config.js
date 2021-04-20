@@ -1,1 +1,1 @@
-var mnemonic = "zebra treat clay hundred grape nature dice enemy resemble remove suspect destroy";
+var mnemonic = "mistake practice hurt inherit gossip dune error leave sphere chalk small exercise";

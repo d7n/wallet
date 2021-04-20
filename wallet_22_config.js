@@ -1,1 +1,1 @@
-var mnemonic = "quiz live primary universe object exist surface super fiction country speed still";
+var mnemonic = "cute cause also truck notice feature injury author spawn junior dream icon";

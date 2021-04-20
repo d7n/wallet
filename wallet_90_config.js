@@ -1,1 +1,1 @@
-var mnemonic = "cube gloom inject buzz response laugh fossil chat actress slim weasel enact";
+var mnemonic = "speed dirt screen buddy coffee cycle burger umbrella rival young rough recall";

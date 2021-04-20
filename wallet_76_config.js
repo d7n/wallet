@@ -1,1 +1,1 @@
-var mnemonic = "faith horror surge attract invite human act tail alley venue churn love";
+var mnemonic = "purity couch now profit moral prize north wasp volume gravity limb pulp";

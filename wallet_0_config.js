@@ -1,1 +1,1 @@
-var mnemonic = "admit duck hunt dawn stairs festival today shrimp gauge genius vibrant bomb";
+var mnemonic = "bean buzz alone spoil tennis enlist install science oak cheap used wall";

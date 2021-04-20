@@ -1,1 +1,1 @@
-var mnemonic = "also just autumn require vague hood hand artwork tribe hawk bring label";
+var mnemonic = "dolphin luggage parrot govern estate gospel wall surround pole garbage pattern reunion";

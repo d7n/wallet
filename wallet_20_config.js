@@ -1,1 +1,1 @@
-var mnemonic = "amateur pill chest grant basic enforce tent soup wealth save dynamic jump";
+var mnemonic = "debate axis fox relax wool jaguar maple vanish into purse iron either";

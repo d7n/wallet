@@ -1,1 +1,1 @@
-var mnemonic = "mask kitten clip squeeze grocery harsh author short merry steel invite purity";
+var mnemonic = "round true will awake frozen guide spring phrase brand keen circle clever";

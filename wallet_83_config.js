@@ -1,1 +1,1 @@
-var mnemonic = "unfair chapter gain apple attract gain exotic grant scrap grunt settle member";
+var mnemonic = "until awake belt spatial remove pet innocent volume stereo goddess photo knee";

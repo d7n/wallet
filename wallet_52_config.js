@@ -1,1 +1,1 @@
-var mnemonic = "victory venue grief height dirt muscle sleep cluster eyebrow increase unknown volcano";
+var mnemonic = "gown fly youth merit husband end crack label winner nuclear dwarf embody";

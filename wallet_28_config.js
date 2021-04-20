@@ -1,1 +1,1 @@
-var mnemonic = "expose frame decrease dismiss fox burger lobster spring sight lazy blouse oblige";
+var mnemonic = "trend noble capital second cattle exit rice member actor cradle vicious clerk";

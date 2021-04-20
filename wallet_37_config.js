@@ -1,1 +1,1 @@
-var mnemonic = "dutch rural forum accident hammer congress arrow daughter sniff unaware special wolf";
+var mnemonic = "evidence include water cave task tell maid during bracket tennis screen resource";

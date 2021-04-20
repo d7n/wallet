@@ -1,1 +1,1 @@
-var mnemonic = "trip secret boss sure goose canal victory knee slush head few turtle";
+var mnemonic = "segment frame genius quality tower scissors inner decorate current curious venue unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "assault practice grace absorb loan chronic major exercise sunset alley dish survey";
+var mnemonic = "depart deposit seat force finger noble private wild theme nice gym celery";

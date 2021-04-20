@@ -1,1 +1,1 @@
-var mnemonic = "follow slim glove target fiscal split merry amateur buyer when diet make";
+var mnemonic = "busy cave shoot accident squeeze slight benefit indicate three zebra fiction gadget";

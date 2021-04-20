@@ -1,1 +1,1 @@
-var mnemonic = "wagon clutch profit truth island legal matrix flat rather pave beef setup";
+var mnemonic = "ring quit plastic tiger same unusual jaguar rhythm domain space rude weather";

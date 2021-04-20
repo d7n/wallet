@@ -1,1 +1,1 @@
-var mnemonic = "little brisk summer bless despair area quit cycle label move rib cover";
+var mnemonic = "rely foil empower spider ugly green runway fresh remain digital garlic waste";

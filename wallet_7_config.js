@@ -1,1 +1,1 @@
-var mnemonic = "kitchen flush sell liberty plate jump joke rookie vault rural month trial";
+var mnemonic = "gentle original token firm civil thing bonus quality library replace pair produce";

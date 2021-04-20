@@ -1,1 +1,1 @@
-var mnemonic = "few fancy grief water face relax reopen profit today evidence captain tilt";
+var mnemonic = "rhythm pear oil trouble oak siren guilt phone napkin raccoon prison stereo";

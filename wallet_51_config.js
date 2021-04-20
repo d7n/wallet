@@ -1,1 +1,1 @@
-var mnemonic = "hold cry bomb inhale mansion napkin grant nature orchard mirror grab bike";
+var mnemonic = "copy quit morning moon island foster balcony broccoli believe gun copper clown";

@@ -1,1 +1,1 @@
-var mnemonic = "book view lens mask render any summer message asset local endless such";
+var mnemonic = "spin neutral patrol neither current private exhibit student chalk parent find mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "waste panther motion hill quit replace deliver vacuum strong embody own buzz";
+var mnemonic = "enforce cruel swing tobacco ride turtle oven quality benefit life hour only";

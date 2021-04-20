@@ -1,1 +1,1 @@
-var mnemonic = "bounce cactus tackle install blame disagree birth palm ramp term smoke drama";
+var mnemonic = "blast world fatigue tourist this oven assault tiger upon evidence lumber gym";

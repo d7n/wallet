@@ -1,1 +1,1 @@
-var mnemonic = "robot gift ensure can lunar square mosquito truth space enjoy cat course";
+var mnemonic = "offer sketch warm lava magic diamond mom setup sell ginger motor guilt";

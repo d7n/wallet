@@ -1,1 +1,1 @@
-var mnemonic = "hint design about tool skull much delay absorb poem park motion dwarf";
+var mnemonic = "magic curtain false convince home honey situate alter join track hurt crime";

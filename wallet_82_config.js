@@ -1,1 +1,1 @@
-var mnemonic = "twist rally bag satisfy valve merit quick video parade sad napkin entry";
+var mnemonic = "object retreat measure worry tray mansion project ring silly vote tunnel assume";

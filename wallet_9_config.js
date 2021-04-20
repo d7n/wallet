@@ -1,1 +1,1 @@
-var mnemonic = "food copy giraffe acquire prize spare method outdoor print artwork spy logic";
+var mnemonic = "hammer leave dawn naive city small cupboard pupil impact sound predict filter";

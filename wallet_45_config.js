@@ -1,1 +1,1 @@
-var mnemonic = "assault service anchor need mail you stone other furnace surge turn salute";
+var mnemonic = "liar moral hand oval wine short try utility lunar craft vocal pattern";

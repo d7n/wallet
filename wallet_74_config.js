@@ -1,1 +1,1 @@
-var mnemonic = "lab orange coyote sketch kid arctic pond size hollow jungle dinosaur genre";
+var mnemonic = "erupt brand fix flee quote above gather company code gauge icon nominee";

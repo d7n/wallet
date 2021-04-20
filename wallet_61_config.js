@@ -1,1 +1,1 @@
-var mnemonic = "cover travel bird mechanic short assault second remind envelope surround shell pizza";
+var mnemonic = "paddle rent oval slide island frown force initial force become buzz sell";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel near ready choice account punch laptop robot black congress garlic must";
+var mnemonic = "pause salute chicken donkey burst order mixed behind project again crumble you";

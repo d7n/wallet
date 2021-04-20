@@ -1,1 +1,1 @@
-var mnemonic = "push when enlist artist symptom ketchup novel february fetch volcano chapter roof";
+var mnemonic = "flower music shrug sort business combine trash derive tired smooth misery chair";

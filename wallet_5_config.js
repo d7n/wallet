@@ -1,1 +1,1 @@
-var mnemonic = "tell club mushroom blush disorder above snap noodle dial kind attend climb";
+var mnemonic = "next lemon advance security total actress neck churn shoot matrix inject robot";

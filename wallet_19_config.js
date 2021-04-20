@@ -1,1 +1,1 @@
-var mnemonic = "enable vintage arrive practice wagon cargo bracket author capital coyote quit spend";
+var mnemonic = "certain will sketch brisk exotic theory obey rubber monster vacuum logic autumn";

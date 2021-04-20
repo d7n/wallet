@@ -1,1 +1,1 @@
-var mnemonic = "onion polar magic long alone stairs best comfort scrub pulse alpha yard";
+var mnemonic = "series unhappy method embrace taste range ozone palm shiver gorilla blade evolve";

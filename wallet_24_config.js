@@ -1,1 +1,1 @@
-var mnemonic = "exotic fix summer input juice catch ring blouse style remember answer album";
+var mnemonic = "hunt pool produce bargain welcome asthma gas slogan off teach aisle castle";

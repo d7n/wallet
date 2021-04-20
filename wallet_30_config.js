@@ -1,1 +1,1 @@
-var mnemonic = "still viable cup gauge cousin volcano twin inch clarify receive left night";
+var mnemonic = "wrestle flash clump trash romance film notable diet anger hunt near secret";

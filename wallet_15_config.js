@@ -1,1 +1,1 @@
-var mnemonic = "wink silver stay music spice aim salmon decide indoor shock burger away";
+var mnemonic = "snake item love young robust fashion wheat chimney portion warm either hurt";

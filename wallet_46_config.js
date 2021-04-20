@@ -1,1 +1,1 @@
-var mnemonic = "wedding age protect bean moral glance cruel circle ripple elegant naive domain";
+var mnemonic = "neither flight twenty dinner lottery source possible biology naive find sense wrist";

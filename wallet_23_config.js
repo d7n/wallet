@@ -1,1 +1,1 @@
-var mnemonic = "mobile shove off soccer mom catalog moral cotton uncle pulse resource radio";
+var mnemonic = "kid panda toss enlist reward latin stuff engage length slice rather rapid";

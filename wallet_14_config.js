@@ -1,1 +1,1 @@
-var mnemonic = "slender wave fashion grunt venue bar win route pony once gather ancient";
+var mnemonic = "plastic virtual beach position attack quarter quantum very october spatial bridge over";

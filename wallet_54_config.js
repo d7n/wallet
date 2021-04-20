@@ -1,1 +1,1 @@
-var mnemonic = "barrel pulse supply educate ugly rich park elder meat toward digital until";
+var mnemonic = "dream reflect own praise genre suspect umbrella laptop mandate search soap cage";

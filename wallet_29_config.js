@@ -1,1 +1,1 @@
-var mnemonic = "train license anxiety tobacco soldier flush love metal assist jazz slush series";
+var mnemonic = "six lady unhappy sadness review unusual blood cargo lemon language spoil kiwi";

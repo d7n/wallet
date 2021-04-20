@@ -1,1 +1,1 @@
-var mnemonic = "fruit session range dust either image impose medal number wedding fault point";
+var mnemonic = "youth kind often blind index diet affair umbrella alcohol mobile dish stove";

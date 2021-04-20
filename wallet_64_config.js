@@ -1,1 +1,1 @@
-var mnemonic = "local hard flat twist cousin fly tribe farm rebel certain despair craft";
+var mnemonic = "carpet obtain mom discover palace puzzle stumble excess ability weasel abstract flower";

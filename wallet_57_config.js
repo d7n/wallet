@@ -1,1 +1,1 @@
-var mnemonic = "twin flag trophy pony broken parent number usage lava omit allow describe";
+var mnemonic = "tribe inquiry rival injury cause lazy issue eager banana extend art surge";

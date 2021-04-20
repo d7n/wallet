@@ -1,1 +1,1 @@
-var mnemonic = "scan seat claw leader trap hotel library list armed people slender egg";
+var mnemonic = "knock zebra smile swim devote cost arctic illness era grid hazard artwork";

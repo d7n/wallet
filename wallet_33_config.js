@@ -1,1 +1,1 @@
-var mnemonic = "hotel indoor clean prevent wreck update police swift possible tank zero pill";
+var mnemonic = "must predict develop adjust sure blossom adapt memory drill ask pepper input";
