@@ -1,1 +1,1 @@
-var mnemonic = "slab soccer spider fall verify zoo bread dream bitter result reject pistol";
+var mnemonic = "forget quarter twice still cage guide height neither jacket sniff series surround";

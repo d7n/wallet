@@ -1,1 +1,1 @@
-var mnemonic = "leisure force museum dad spoil mistake economy collect spoon argue suit turtle";
+var mnemonic = "shoot sing list element mixture depart usual cave soda raise fish obscure";

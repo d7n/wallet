@@ -1,1 +1,1 @@
-var mnemonic = "exchange daughter south urge donor alert stumble wrap spray govern curve spawn";
+var mnemonic = "nest piece shadow bundle month below smoke real fatigue custom move apology";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy wild require nature pride usage become grit cute burden junior cage";
+var mnemonic = "bonus raise boat champion elevator erosion kitchen diet exclude exit day police";

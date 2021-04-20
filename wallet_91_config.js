@@ -1,1 +1,1 @@
-var mnemonic = "chef core head clinic cool size express season indicate tail thought pear";
+var mnemonic = "sheriff history copper armor virtual strong neither letter gesture car boat material";

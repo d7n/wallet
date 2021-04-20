@@ -1,1 +1,1 @@
-var mnemonic = "cupboard host resource begin fish climb rough aisle song castle few metal";
+var mnemonic = "lumber equal venture bargain brass wheat alert raise chat scorpion teach mountain";

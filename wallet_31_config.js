@@ -1,1 +1,1 @@
-var mnemonic = "acid sphere circle misery crawl struggle abstract census kidney input humor pulse";
+var mnemonic = "tribe sense choice hollow general filter give wear build dog stereo connect";

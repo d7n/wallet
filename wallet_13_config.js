@@ -1,1 +1,1 @@
-var mnemonic = "always person razor task hen tuition spread saddle rich panel dog lottery";
+var mnemonic = "balcony tuna father taste alpha response hope worry sort again expect loop";

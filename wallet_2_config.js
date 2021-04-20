@@ -1,1 +1,1 @@
-var mnemonic = "twin chronic live erode galaxy debate person wet report drive senior congress";
+var mnemonic = "step blouse atom spin citizen teach lab arrange retreat across bleak episode";

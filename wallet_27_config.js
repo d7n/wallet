@@ -1,1 +1,1 @@
-var mnemonic = "crouch promote wash doll recycle bird cream air trust scheme stamp humor";
+var mnemonic = "february truck color section fantasy climb spike cushion record lemon invest allow";

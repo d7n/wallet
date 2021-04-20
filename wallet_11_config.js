@@ -1,1 +1,1 @@
-var mnemonic = "olympic drill carpet puppy evil skill conduct food fiscal fruit collect reopen";
+var mnemonic = "news shed margin fix flip magic grape badge turtle permit ocean degree";

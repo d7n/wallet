@@ -1,1 +1,1 @@
-var mnemonic = "flower protect pattern police tennis planet minimum risk soda any yard quantum";
+var mnemonic = "hip cruise often habit slot parade siren rally bless planet jewel above";

@@ -1,1 +1,1 @@
-var mnemonic = "fall expose acquire elegant wreck plastic chest fruit reveal pilot bean bounce";
+var mnemonic = "laundry oblige infant figure busy corn proof tiger window offer network need";

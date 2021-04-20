@@ -1,1 +1,1 @@
-var mnemonic = "flee face expect lounge false negative admit knee pet recycle include slight";
+var mnemonic = "food evidence junk tent attitude unit coffee word exist blood heavy fire";

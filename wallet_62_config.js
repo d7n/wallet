@@ -1,1 +1,1 @@
-var mnemonic = "husband excess brother police run autumn install grant volcano talk devote flag";
+var mnemonic = "hire such drift pull morning tool weather pencil alpha foster sock loud";

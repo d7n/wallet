@@ -1,1 +1,1 @@
-var mnemonic = "eternal warm slim room infant jazz detail good end bargain early zoo";
+var mnemonic = "measure glimpse alpha then middle hockey screen surge radar jazz twice shift";

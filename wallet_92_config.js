@@ -1,1 +1,1 @@
-var mnemonic = "robust inspire leg attract plunge off angry conduct purchase potato prosper immense";
+var mnemonic = "deny cotton enhance shoe waste fit wagon leave mind nest bus glove";

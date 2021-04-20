@@ -1,1 +1,1 @@
-var mnemonic = "quantum twelve refuse tag wall security venture miss metal chest disease scan";
+var mnemonic = "minor brand title over cream elevator leisure target twelve vast october six";

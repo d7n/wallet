@@ -1,1 +1,1 @@
-var mnemonic = "begin trash once special pond choose tree orbit hybrid hundred mass arrange";
+var mnemonic = "picnic sick unlock argue luxury toss rug gap faint caution twice waste";

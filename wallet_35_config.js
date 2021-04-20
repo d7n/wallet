@@ -1,1 +1,1 @@
-var mnemonic = "civil answer snap runway reform inside reason outside vocal start lend radar";
+var mnemonic = "punch pottery jungle prize maple glide nut sister attack muscle range buddy";

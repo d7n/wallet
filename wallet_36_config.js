@@ -1,1 +1,1 @@
-var mnemonic = "bacon pony crouch spread truly teach cattle million jacket crew room space";
+var mnemonic = "game donate column topic wealth ready shrug cactus curve fashion intact elevator";

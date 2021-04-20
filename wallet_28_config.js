@@ -1,1 +1,1 @@
-var mnemonic = "warm fabric drop joy gain sure unfair embody kidney sun leisure drip";
+var mnemonic = "because drill grief orange mad draft fancy later seven poet acid suit";

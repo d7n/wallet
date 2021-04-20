@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon patch sorry sausage kidney pink square misery ball manage ladder member";
+var mnemonic = "divorce express sadness derive glimpse unlock siren brand favorite cereal phrase fix";

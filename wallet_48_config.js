@@ -1,1 +1,1 @@
-var mnemonic = "ski half belt indicate limit siege parade mercy top waste bean canvas";
+var mnemonic = "onion scan slender explain couple concert clip goose attend poverty fresh knife";

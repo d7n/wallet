@@ -1,1 +1,1 @@
-var mnemonic = "time space goose tired organ wagon puppy manage thumb space obvious flavor";
+var mnemonic = "ship near above stage alert scale grit infant tired wait else patrol";

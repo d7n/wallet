@@ -1,1 +1,1 @@
-var mnemonic = "soda magnet chicken because rely medal series guide merge fix life squirrel";
+var mnemonic = "music start among enrich regret artist tourist concert valve eight fossil section";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha taxi uniform despair crush blame armed sword spot quantum praise connect";
+var mnemonic = "acid inject moral track code slim inject uphold biology valley churn found";

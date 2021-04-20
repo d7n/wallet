@@ -1,1 +1,1 @@
-var mnemonic = "like coconut switch coffee monitor derive crop inmate south elder embody vessel";
+var mnemonic = "purpose coast walnut village library close moment distance dentist boring alien embrace";

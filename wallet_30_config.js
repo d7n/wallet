@@ -1,1 +1,1 @@
-var mnemonic = "cram liberty girl govern sail because crumble emotion pass squeeze favorite solution";
+var mnemonic = "unaware fan hen stage relief museum image tragic athlete water hotel mountain";

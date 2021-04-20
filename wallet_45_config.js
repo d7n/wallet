@@ -1,1 +1,1 @@
-var mnemonic = "gate picture lobster sport any abstract stable gym also very file dentist";
+var mnemonic = "match climb bright silver spoil bike green ill skull blast pretty paper";

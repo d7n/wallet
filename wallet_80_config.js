@@ -1,1 +1,1 @@
-var mnemonic = "domain job nephew upgrade logic super team blade jewel fetch afraid party";
+var mnemonic = "route child arm sugar rent tobacco wonder verify minute spoon rapid enough";

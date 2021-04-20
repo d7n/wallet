@@ -1,1 +1,1 @@
-var mnemonic = "excess under hurt alert cluster clinic axis custom clay prefer family loop";
+var mnemonic = "obscure media pledge pass rule prison cinnamon athlete orphan praise champion pyramid";

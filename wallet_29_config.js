@@ -1,1 +1,1 @@
-var mnemonic = "direct prosper convince crack weather chef friend crowd forest keen genius tiny";
+var mnemonic = "smoke hawk palace usual whisper kiss approve power urban minimum crowd spin";

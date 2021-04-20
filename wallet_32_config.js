@@ -1,1 +1,1 @@
-var mnemonic = "near focus glow mind submit romance piece soul slight transfer stick above";
+var mnemonic = "sunset kiwi way panther say require caught trip wood leg source beauty";

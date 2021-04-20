@@ -1,1 +1,1 @@
-var mnemonic = "hunt accuse note face bright girl apology throw mule all void door";
+var mnemonic = "fox patrol park birth wasp potato liquid carbon float curve pulp spring";

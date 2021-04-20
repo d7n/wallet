@@ -1,1 +1,1 @@
-var mnemonic = "twelve like moment mean monitor about south prefer victory excuse state style";
+var mnemonic = "captain debris bomb addict urban case kitchen snack bulb urge avocado frost";

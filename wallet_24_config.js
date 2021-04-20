@@ -1,1 +1,1 @@
-var mnemonic = "blood crouch priority shove proof elevator option cycle funny major indicate timber";
+var mnemonic = "belt pride clerk price ugly two brisk squeeze spatial return cousin tent";

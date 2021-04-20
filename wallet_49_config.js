@@ -1,1 +1,1 @@
-var mnemonic = "flock coil north between humble foot fringe search balcony mango oxygen rhythm";
+var mnemonic = "sadness lunar undo park know cruise engage draw celery damp snake addict";

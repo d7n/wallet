@@ -1,1 +1,1 @@
-var mnemonic = "laugh then fury consider marble wool lens gallery excess black census order";
+var mnemonic = "copy eye plastic lady embody short develop rail feel picnic planet alpha";

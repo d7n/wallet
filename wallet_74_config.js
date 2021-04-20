@@ -1,1 +1,1 @@
-var mnemonic = "seven recycle erode verify rally goddess near bench divert shoulder garbage cradle";
+var mnemonic = "clip buffalo brisk risk concert basic comic wrestle bounce protect beef poet";

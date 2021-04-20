@@ -1,1 +1,1 @@
-var mnemonic = "interest indoor guess convince sibling ladder cake easily output finish hungry together";
+var mnemonic = "action street express lake amateur violin pistol engage jazz soft direct bullet";

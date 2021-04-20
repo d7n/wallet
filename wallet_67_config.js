@@ -1,1 +1,1 @@
-var mnemonic = "wheel cactus level south high sausage kick cash degree matrix shield boss";
+var mnemonic = "buffalo doll wheel truth west excess velvet evidence decade wrong unfair sudden";

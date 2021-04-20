@@ -1,1 +1,1 @@
-var mnemonic = "danger dilemma undo sorry shop provide people hat hockey ghost swallow horn";
+var mnemonic = "latin turkey excess six cube curtain song better ecology tell recipe matrix";

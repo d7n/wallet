@@ -1,1 +1,1 @@
-var mnemonic = "merit aware master question novel tissue offer gasp old riot wheat theory";
+var mnemonic = "paper service loop cave foot ranch brave bronze hammer vocal pipe idle";

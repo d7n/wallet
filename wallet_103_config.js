@@ -1,1 +1,1 @@
-var mnemonic = "sad zoo wear degree unit crucial next office bachelor acquire provide pull";
+var mnemonic = "moral help real exhaust giggle shoulder glare entire smooth guide dice coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty notable mass dust water apple able fetch lawn action cream glide";
+var mnemonic = "hawk twin nasty sample sand chapter scheme spot planet eyebrow hybrid salute";

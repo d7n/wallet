@@ -1,1 +1,1 @@
-var mnemonic = "unfair course shift talk impulse craft punch uphold author grit donor universe";
+var mnemonic = "engine ribbon canoe fall build broccoli history drift wish brain flavor upset";

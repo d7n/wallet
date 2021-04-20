@@ -1,1 +1,1 @@
-var mnemonic = "identify relief size march session blue original brass settle denial caught wonder";
+var mnemonic = "load monster horn blind prison olive scare diesel adjust logic trigger sport";

@@ -1,1 +1,1 @@
-var mnemonic = "display fever ranch frequent bulb aspect deny monitor ensure gun cluster shell";
+var mnemonic = "border truly taxi comfort speak flock cargo slam tooth motor ritual drive";

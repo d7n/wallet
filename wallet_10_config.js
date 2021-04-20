@@ -1,1 +1,1 @@
-var mnemonic = "emerge mirror move brain juice sniff decade warm because broccoli warm hand";
+var mnemonic = "easy output bronze illegal ostrich raccoon raven apple mandate cruise violin boil";

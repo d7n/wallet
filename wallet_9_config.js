@@ -1,1 +1,1 @@
-var mnemonic = "trust topple deputy bicycle ramp away depart track ask pottery inspire rotate";
+var mnemonic = "giant agent orphan blood end core twelve ice steel shaft accident dice";

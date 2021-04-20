@@ -1,1 +1,1 @@
-var mnemonic = "voyage donate dentist stumble armor moon high elephant rabbit valid planet scan";
+var mnemonic = "degree agree traffic depth donor stove situate merit early rather divide bitter";

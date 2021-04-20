@@ -1,1 +1,1 @@
-var mnemonic = "bus cover depend museum enable ankle stuff smart badge mouse awake child";
+var mnemonic = "vault curious open wire chef law edit supply harbor analyst era hospital";

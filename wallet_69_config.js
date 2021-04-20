@@ -1,1 +1,1 @@
-var mnemonic = "crazy assist mechanic giant ask grant keen trigger fade health lumber love";
+var mnemonic = "evolve moral safe provide strong hip source edit section wood dragon bleak";

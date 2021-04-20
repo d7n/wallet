@@ -1,1 +1,1 @@
-var mnemonic = "wood chest raise occur one kit picture glass afraid other flip tongue";
+var mnemonic = "name dinosaur shine hair ring limit real convince remove mosquito wedding trigger";

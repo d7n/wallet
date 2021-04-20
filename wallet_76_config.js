@@ -1,1 +1,1 @@
-var mnemonic = "forward rapid action edit grunt total below salon accuse laundry broccoli boost";
+var mnemonic = "fluid title capital stereo taxi spirit bind blame liar average update trigger";

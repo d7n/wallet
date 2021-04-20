@@ -1,1 +1,1 @@
-var mnemonic = "lizard load defy dilemma kidney chief present capital any denial act brown";
+var mnemonic = "basic strike valid title code eyebrow protect thunder primary debate attitude rhythm";

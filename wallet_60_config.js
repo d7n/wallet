@@ -1,1 +1,1 @@
-var mnemonic = "tattoo tool ordinary solve transfer screen program until scorpion blast talk disease";
+var mnemonic = "aim dignity cancel metal asset gold about oxygen juice unit island arrow";

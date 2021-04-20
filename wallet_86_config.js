@@ -1,1 +1,1 @@
-var mnemonic = "car runway bench crack connect quit people pear jaguar wild version scan";
+var mnemonic = "mother hint crystal wide surge identify faith gap flat arch domain crater";

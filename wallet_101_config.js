@@ -1,1 +1,1 @@
-var mnemonic = "quick school moral plunge cattle pond sun tube stamp trophy phone another";
+var mnemonic = "filter bargain bulb deny solid radar orphan flight path vivid estate decade";

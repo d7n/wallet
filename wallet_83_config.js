@@ -1,1 +1,1 @@
-var mnemonic = "make charge dynamic morning layer village sister cluster glory combine horror police";
+var mnemonic = "code off home enact wish glide glove panther mention gift gas measure";

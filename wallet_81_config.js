@@ -1,1 +1,1 @@
-var mnemonic = "scout cover local brief insect ten town gentle iron deposit good original";
+var mnemonic = "tissue heavy stem dinner general crouch plunge toast swallow flock labor gasp";

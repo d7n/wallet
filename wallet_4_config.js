@@ -1,1 +1,1 @@
-var mnemonic = "found permit wolf bean regular bachelor say voyage cupboard tumble alley area";
+var mnemonic = "level river genius deputy glue system such bronze miracle penalty person hobby";

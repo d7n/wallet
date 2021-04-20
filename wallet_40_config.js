@@ -1,1 +1,1 @@
-var mnemonic = "resource brick myth trash vintage actual require lion later cheap chest mixture";
+var mnemonic = "west urge exercise negative local kiss sound empower point brass burger song";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut expect laugh mutual suit paper upset armor inherit party sibling people";
+var mnemonic = "loyal liar ranch van this chunk fruit notice phrase code wolf way";

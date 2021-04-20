@@ -1,1 +1,1 @@
-var mnemonic = "remember miracle bind comfort crime faint effort luggage tired high example swim";
+var mnemonic = "profit truth level manual sponsor vital desert hood blanket net voice harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "help update blanket endless proud spread document monster maid banner company piece";
+var mnemonic = "sound middle armed cereal lawsuit this just affair endless lounge game essay";

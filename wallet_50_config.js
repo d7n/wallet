@@ -1,1 +1,1 @@
-var mnemonic = "gospel art aunt outdoor hedgehog gym minor bind wrist decrease butter monitor";
+var mnemonic = "photo display shed define license ignore combine obscure valid glass devote pull";

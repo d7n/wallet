@@ -1,1 +1,1 @@
-var mnemonic = "trap guess secret true quote bracket alter wrong view produce swing badge";
+var mnemonic = "chief knee elegant toilet near bullet wealth among awake talent fat usual";

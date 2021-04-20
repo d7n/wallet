@@ -1,1 +1,1 @@
-var mnemonic = "decorate crouch praise notable throw chair lift clean allow green battle slam";
+var mnemonic = "gadget nest true drama police evolve dial cram parrot power major relief";

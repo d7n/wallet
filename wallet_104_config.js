@@ -1,1 +1,1 @@
-var mnemonic = "remove regret flavor yellow panel advice develop problem mutual burden learn high";
+var mnemonic = "age artwork void common raise develop prize fiscal fox gadget split business";

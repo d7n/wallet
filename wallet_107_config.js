@@ -1,1 +1,1 @@
-var mnemonic = "fitness drip roast resemble success pattern cash chest puzzle involve outer offer";
+var mnemonic = "clutch aunt vibrant swap valid enact urban hammer tissue mule fossil hazard";

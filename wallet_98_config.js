@@ -1,1 +1,1 @@
-var mnemonic = "proud method reject empower brass transfer royal away issue tape bicycle cloud";
+var mnemonic = "hurt useless daring pool diary possible put sphere focus lion guess change";

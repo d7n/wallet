@@ -1,1 +1,1 @@
-var mnemonic = "erase pelican dove disagree ice east lazy angry demand almost fitness garage";
+var mnemonic = "donkey issue truly keen fit water vocal drum yellow sibling question mystery";

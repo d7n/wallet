@@ -1,1 +1,1 @@
-var mnemonic = "derive approve gather area force another barrel river coin tuition dove math";
+var mnemonic = "among loud design armor grunt hood hen can alter hard urge owner";

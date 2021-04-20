@@ -1,1 +1,1 @@
-var mnemonic = "bid grocery arrange grass bicycle strike fury surface paper sport cabbage fee";
+var mnemonic = "expand three bless chief fatal zebra belt observe salt lunch sketch bless";

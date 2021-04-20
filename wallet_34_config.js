@@ -1,1 +1,1 @@
-var mnemonic = "glow shine grass move oxygen sadness asthma zero unknown gain someone labor";
+var mnemonic = "cheese rail gesture repeat receive sister capable moon field magic match dose";

@@ -1,1 +1,1 @@
-var mnemonic = "toward usage fun predict hat derive can wall galaxy obey sport shaft";
+var mnemonic = "salmon cloth pizza proof profit boss arrest decorate use race believe staff";

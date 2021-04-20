@@ -1,1 +1,1 @@
-var mnemonic = "audit kid recipe deny measure excite such vapor mobile achieve blast sauce";
+var mnemonic = "furnace fetch celery hidden ghost disease bring olympic gorilla repair stock mango";

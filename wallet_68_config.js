@@ -1,1 +1,1 @@
-var mnemonic = "slim cause cabin circle category trend layer absurd quote farm smooth elephant";
+var mnemonic = "public meadow april crush egg wrong route casino end river soldier task";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic visual injury lens opera glance aunt arrow almost churn act ride";
+var mnemonic = "double iron floor air pretty hope chase control appear tuition runway topic";

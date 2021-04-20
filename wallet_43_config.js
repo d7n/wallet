@@ -1,1 +1,1 @@
-var mnemonic = "alert lounge giraffe snack scare blame pond calm jewel property punch virus";
+var mnemonic = "forward music vacant conduct shine attitude enhance violin cradle object strategy today";

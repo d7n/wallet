@@ -1,1 +1,1 @@
-var mnemonic = "middle discover kiwi payment airport hungry essence soft click heart ozone credit";
+var mnemonic = "waste patch lock interest pet obey marriage lumber divert head cake crunch";

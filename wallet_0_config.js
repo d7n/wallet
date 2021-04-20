@@ -1,1 +1,1 @@
-var mnemonic = "boy lucky toss physical math promote express toe property nice output discover";
+var mnemonic = "else hour bonus toddler trouble shell tonight own allow front health police";

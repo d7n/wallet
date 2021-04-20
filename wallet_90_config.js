@@ -1,1 +1,1 @@
-var mnemonic = "boost ability thing job title panda harbor wide excess traffic buzz cash";
+var mnemonic = "news endless laptop kit myth diet book badge render spider sea motor";

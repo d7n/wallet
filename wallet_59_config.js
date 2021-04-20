@@ -1,1 +1,1 @@
-var mnemonic = "dad erase pumpkin ill include jealous leopard area little wagon uncle burden";
+var mnemonic = "amount expire table blue attitude river media rib clerk foster snack lava";

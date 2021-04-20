@@ -1,1 +1,1 @@
-var mnemonic = "faculty patrol crawl mixture blossom steak cycle tomorrow art broccoli sock husband";
+var mnemonic = "before clap heart pipe swear rebel twice party negative nothing negative choice";

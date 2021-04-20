@@ -1,1 +1,1 @@
-var mnemonic = "drop winter victory hammer noise gate assume dream credit repair nominee void";
+var mnemonic = "dolphin debate forest afford garage fire emotion enrich glide pass globe wonder";

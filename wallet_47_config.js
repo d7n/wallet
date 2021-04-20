@@ -1,1 +1,1 @@
-var mnemonic = "agent museum load cruise wrong faint area stairs juice autumn coffee wait";
+var mnemonic = "spawn social bleak kind success leg cactus liberty like pear ancient beach";

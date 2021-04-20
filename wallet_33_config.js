@@ -1,1 +1,1 @@
-var mnemonic = "jelly clock elite excite guide tip call spare dice door glue parade";
+var mnemonic = "under ladder retire jacket enjoy monkey magnet own short solve cricket around";

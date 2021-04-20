@@ -1,1 +1,1 @@
-var mnemonic = "unfold century danger buyer noise void peace elder guide lend hub virus";
+var mnemonic = "obtain suspect jewel grief stage lottery deputy pause oak warm marine hospital";

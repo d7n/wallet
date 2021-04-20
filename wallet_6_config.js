@@ -1,1 +1,1 @@
-var mnemonic = "notable possible say bargain letter drift style purse frequent palace theme vote";
+var mnemonic = "retire lawsuit mind smoke pass exhaust hobby improve sense slice auction rack";

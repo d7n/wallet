@@ -1,1 +1,1 @@
-var mnemonic = "giraffe sudden sausage siege grant admit biology shaft copper pet system fever";
+var mnemonic = "jar crunch cause purity right jeans cactus collect mass debris prize avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "gap client palm bitter sugar rigid stereo chair funny switch abandon cement";
+var mnemonic = "photo aim message destroy deliver wet naive derive twice tank lock elbow";

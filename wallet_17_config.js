@@ -1,1 +1,1 @@
-var mnemonic = "utility excuse captain peace lamp square mercy water stove wet surge antenna";
+var mnemonic = "duty sort reunion broom winter maid spatial agree strong chief snack helmet";
