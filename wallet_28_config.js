@@ -1,1 +1,1 @@
-var mnemonic = "fork time liberty addict supreme army alcohol ski interest render guard brother";
+var mnemonic = "only sing useless gain truck cry popular animal common bless time can";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry quit use taste toilet jewel pride office canal leader stock pet";
+var mnemonic = "edit follow gadget swing tiger boat fold enjoy combine scale proud duty";

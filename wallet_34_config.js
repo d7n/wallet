@@ -1,1 +1,1 @@
-var mnemonic = "chest match solution add beach pact theory print dentist silver whale segment";
+var mnemonic = "harvest category enrich spray fortune frost impose motion private radio aunt prevent";

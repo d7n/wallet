@@ -1,1 +1,1 @@
-var mnemonic = "work amused palace way casual business neutral wrap blast crack divide guard";
+var mnemonic = "permit letter donor scout waste figure mirror source thumb tornado ask scatter";

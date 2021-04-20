@@ -1,1 +1,1 @@
-var mnemonic = "profit episode goose else radar view wreck method afford satoshi finger absent";
+var mnemonic = "theme document smart eager damage fetch uncle adapt also tattoo twice exit";

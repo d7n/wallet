@@ -1,1 +1,1 @@
-var mnemonic = "scene eagle mushroom husband monkey curious vague quarter basic purity mule wish";
+var mnemonic = "black volume minute give language satoshi rapid rigid dose spy author pull";

@@ -1,1 +1,1 @@
-var mnemonic = "believe duck else zero deal asthma damage patch ability save exclude crime";
+var mnemonic = "capable guide into dutch cute cloth coconut happy maximum innocent ugly coral";

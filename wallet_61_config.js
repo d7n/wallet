@@ -1,1 +1,1 @@
-var mnemonic = "ticket need borrow duty rail cook stable clinic faculty either safe tube";
+var mnemonic = "crumble jump kite plastic mix genius embody pond skate system success segment";

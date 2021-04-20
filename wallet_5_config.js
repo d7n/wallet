@@ -1,1 +1,1 @@
-var mnemonic = "cotton hurt exhibit inmate multiply orient tooth ready cruise can wing leave";
+var mnemonic = "mail income burger tilt inflict special nice park rug design warm patrol";

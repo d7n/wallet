@@ -1,1 +1,1 @@
-var mnemonic = "enjoy ladder net above yard cousin amused among cabin exchange slice siren";
+var mnemonic = "rude maximum choice upper galaxy forest paddle street soul torch mixed check";

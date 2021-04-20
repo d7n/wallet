@@ -1,1 +1,1 @@
-var mnemonic = "neck same razor smart require blade mail ribbon wage teach addict eager";
+var mnemonic = "nurse pipe thrive stay security blade upper main expand marriage brief engage";

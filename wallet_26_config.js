@@ -1,1 +1,1 @@
-var mnemonic = "estate weather ladder bag guess girl pluck sing sail pact dentist nerve";
+var mnemonic = "bus piece surge ethics cake citizen tape valley congress parent window truly";

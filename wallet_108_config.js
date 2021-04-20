@@ -1,1 +1,1 @@
-var mnemonic = "garage length sponsor meat make same photo aspect urge ecology online hamster";
+var mnemonic = "blush review crucial huge pet bicycle inspire casino birth then scatter photo";

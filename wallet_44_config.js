@@ -1,1 +1,1 @@
-var mnemonic = "burger dinosaur guilt upset teach lumber quit boil curtain web wagon victory";
+var mnemonic = "prefer chief coyote torch filter deliver ahead census noble parade hospital cart";

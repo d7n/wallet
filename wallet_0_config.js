@@ -1,1 +1,1 @@
-var mnemonic = "chalk nest gasp milk change curve order husband impulse coyote hurt faint";
+var mnemonic = "motion monitor miracle cloth artist stage bulk shiver clean bamboo proof bronze";

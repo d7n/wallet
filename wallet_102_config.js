@@ -1,1 +1,1 @@
-var mnemonic = "panther key ordinary level belt fit duty exhibit ski wrist acoustic romance";
+var mnemonic = "jelly gym arrow consider sauce scatter head tomato marine answer season era";

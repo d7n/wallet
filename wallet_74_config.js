@@ -1,1 +1,1 @@
-var mnemonic = "luggage current author live diesel bacon fly slide wire imitate diary loop";
+var mnemonic = "crater avocado answer shiver aspect erosion near maid fluid pioneer december fury";

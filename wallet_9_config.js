@@ -1,1 +1,1 @@
-var mnemonic = "ketchup horn inspire bid jelly plate crop hello orange bunker key assist";
+var mnemonic = "supreme beauty wheat actual clog young wrist slow divert sponsor person report";

@@ -1,1 +1,1 @@
-var mnemonic = "increase asset patient glimpse pudding wall original pen void cigar autumn arrest";
+var mnemonic = "devote say velvet volume very lecture absorb put oil wire mistake clap";

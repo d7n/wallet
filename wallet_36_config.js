@@ -1,1 +1,1 @@
-var mnemonic = "cream garbage tower betray either unit twist cart access decade year beef";
+var mnemonic = "time begin labor sadness solar wrap banner employ belt circle frog future";

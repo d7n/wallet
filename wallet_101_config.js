@@ -1,1 +1,1 @@
-var mnemonic = "top place busy cycle view post post similar manage century search ginger";
+var mnemonic = "mean game update session kitchen humor diary define sight pretty draft major";

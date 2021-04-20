@@ -1,1 +1,1 @@
-var mnemonic = "express hollow acoustic surround genre test parade swift alley raw lunar furnace";
+var mnemonic = "reject end pizza hat omit artwork title local gadget margin burst harbor";

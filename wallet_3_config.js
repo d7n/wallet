@@ -1,1 +1,1 @@
-var mnemonic = "atom scissors swamp faint wing load guess suggest penalty hollow time unaware";
+var mnemonic = "wise secret lend average alpha pretty blind shrimp usual question stock side";

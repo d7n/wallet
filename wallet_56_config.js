@@ -1,1 +1,1 @@
-var mnemonic = "afraid away act gaze olive grow oak egg friend verb other hat";
+var mnemonic = "limb solve dress future divorce say silent pyramid vintage usage tobacco apart";

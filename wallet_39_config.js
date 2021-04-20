@@ -1,1 +1,1 @@
-var mnemonic = "find identify tortoise limit roof napkin able result token cup school load";
+var mnemonic = "summer female you napkin drive soon upon lens child blade view beach";

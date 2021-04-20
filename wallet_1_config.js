@@ -1,1 +1,1 @@
-var mnemonic = "coast swim hero silly cycle glow tooth rocket mammal dinosaur gloom orchard";
+var mnemonic = "polar ship receive neither tiger peasant carpet illness ahead fragile scale lady";

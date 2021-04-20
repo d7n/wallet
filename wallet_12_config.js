@@ -1,1 +1,1 @@
-var mnemonic = "bulk exercise grain same aisle blame rookie park trash tuna kit book";
+var mnemonic = "iron oxygen wall nation near also venue drive real source dash script";

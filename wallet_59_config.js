@@ -1,1 +1,1 @@
-var mnemonic = "design whale kiwi trade brand oven theme area share drop panther kit";
+var mnemonic = "imitate detect galaxy remember model electric sauce brown fantasy fitness demise chalk";

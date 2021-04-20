@@ -1,1 +1,1 @@
-var mnemonic = "wreck hurt brisk demise desert girl group riot tuna captain consider wait";
+var mnemonic = "jealous slow enforce hood wire sort stay reform busy level ignore borrow";

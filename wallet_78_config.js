@@ -1,1 +1,1 @@
-var mnemonic = "capable torch cinnamon hire you grain pill vacuum catalog dynamic bonus pilot";
+var mnemonic = "shiver fuel come segment master index snake argue void bitter answer eager";

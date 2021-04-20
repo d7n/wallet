@@ -1,1 +1,1 @@
-var mnemonic = "letter crane holiday palm observe discover uniform code cactus mouse original tell";
+var mnemonic = "social dune bench sword once estate gasp carpet left plug ignore sadness";

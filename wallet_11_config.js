@@ -1,1 +1,1 @@
-var mnemonic = "position spawn cloth next minute prosper detect leave tiny theory vessel flag";
+var mnemonic = "profit canyon wrist poverty connect arrest profit leopard unknown surround cheap gloom";

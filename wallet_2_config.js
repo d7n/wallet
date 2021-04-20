@@ -1,1 +1,1 @@
-var mnemonic = "start remain loyal decrease weather lumber defy wink knock dash grace museum";
+var mnemonic = "canoe weather tray energy tiny perfect double defy alien holiday globe season";

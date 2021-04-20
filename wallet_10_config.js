@@ -1,1 +1,1 @@
-var mnemonic = "amused law oppose coin web open eager alley garbage toe shoot fence";
+var mnemonic = "pyramid exit social train rice deposit degree empty direct hotel harvest cliff";

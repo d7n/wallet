@@ -1,1 +1,1 @@
-var mnemonic = "guard apple tragic provide cannon toss youth unusual practice kitten coffee boss";
+var mnemonic = "black winter panel glass again kick author exhaust stamp brown breeze word";

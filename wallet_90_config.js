@@ -1,1 +1,1 @@
-var mnemonic = "kind view phrase winner unhappy sand siren junk duck silver survey legal";
+var mnemonic = "okay happy child old pulp federal energy floor breeze movie craft boss";

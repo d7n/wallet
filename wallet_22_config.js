@@ -1,1 +1,1 @@
-var mnemonic = "fame humor space swear direct sweet list common police forum squeeze frown";
+var mnemonic = "artwork list option napkin reunion range suggest knife manage salt answer gym";

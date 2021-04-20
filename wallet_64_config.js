@@ -1,1 +1,1 @@
-var mnemonic = "diary fame erode reduce volume what thumb sound bright cool urge perfect";
+var mnemonic = "fat excess another meat intact unknown plate glue satisfy lion iron urge";

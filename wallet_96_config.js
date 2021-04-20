@@ -1,1 +1,1 @@
-var mnemonic = "fitness mirror must idea mother tribe shrimp man summer soldier jar change";
+var mnemonic = "surround city poverty moral shoulder ramp hotel ring order blast tumble infant";

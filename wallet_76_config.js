@@ -1,1 +1,1 @@
-var mnemonic = "tornado enter aerobic deliver pencil noble bottom artwork few blame sunny chimney";
+var mnemonic = "fine desk youth word luxury spray connect snap promote timber relax leopard";

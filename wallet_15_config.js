@@ -1,1 +1,1 @@
-var mnemonic = "crane consider exercise fragile toward castle repair enhance offer funny survey useless";
+var mnemonic = "waste attract sun chapter spot trend oak upon torch vocal seminar cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "know portion any wine flame chaos behave expect draw crawl beyond sight";
+var mnemonic = "magic sun update fog crucial floor spend double orient angry room peasant";

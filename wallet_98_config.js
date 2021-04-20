@@ -1,1 +1,1 @@
-var mnemonic = "toilet hedgehog dirt split hunt suspect donate envelope smart oppose vapor shoulder";
+var mnemonic = "tone length middle mad zone more leg zero cupboard bottom judge one";

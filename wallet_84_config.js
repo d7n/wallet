@@ -1,1 +1,1 @@
-var mnemonic = "scrub word crouch fish speed canvas rain sport athlete library index sudden";
+var mnemonic = "cupboard nose donate title idea school soccer nice cargo disorder sock vacant";

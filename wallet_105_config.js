@@ -1,1 +1,1 @@
-var mnemonic = "kidney key people twice ordinary edit tornado ball trouble asset differ spare";
+var mnemonic = "truth chunk budget magic zoo grit oil lake stand puppy install message";

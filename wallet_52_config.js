@@ -1,1 +1,1 @@
-var mnemonic = "always sword average dinosaur mosquito nerve elder release mimic click error maze";
+var mnemonic = "over dress unfair fine pencil cotton toy category mobile region celery buyer";

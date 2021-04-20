@@ -1,1 +1,1 @@
-var mnemonic = "antenna asthma stumble mutual mountain capable solid call dad direct engage team";
+var mnemonic = "ginger phrase feature rain response giant dismiss ignore upper first infant know";

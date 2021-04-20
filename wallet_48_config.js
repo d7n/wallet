@@ -1,1 +1,1 @@
-var mnemonic = "fine lift shiver ice pigeon kiwi umbrella doctor into brief bulb wink";
+var mnemonic = "around october fox coral lemon indicate album filter above next try real";

@@ -1,1 +1,1 @@
-var mnemonic = "spike month burst economy topple huge pioneer pledge invest rely parade pole";
+var mnemonic = "give foam latin siege nation summer flip adult card refuse increase hope";

@@ -1,1 +1,1 @@
-var mnemonic = "genius place good upgrade suggest luxury owner embark head believe february buffalo";
+var mnemonic = "retire capital enact tongue payment flock plate squeeze lunch dolphin stool fall";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp flat add confirm sound world flavor easily tip bone pipe member";
+var mnemonic = "loud zebra regular lion load glide gorilla wish ribbon close please metal";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic artefact slim host tail eternal mirror asthma guitar true alone hello";
+var mnemonic = "sheriff venue assault interest slogan settle mirror charge liberty cream liar sea";

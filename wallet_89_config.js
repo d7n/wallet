@@ -1,1 +1,1 @@
-var mnemonic = "uphold risk winner excuse profit proof metal olympic notice federal hire village";
+var mnemonic = "possible bargain club ecology lumber review hole smart common tower manage segment";

@@ -1,1 +1,1 @@
-var mnemonic = "tank clean lens build valley begin bar cupboard genre fix pave whisper";
+var mnemonic = "catch giggle narrow skill wrap write voyage climb violin loyal noodle during";

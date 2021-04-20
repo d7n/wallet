@@ -1,1 +1,1 @@
-var mnemonic = "surge choice pelican stadium point beyond jacket state struggle tribe output ice";
+var mnemonic = "predict convince faint skate already glory once oil chimney minute render neither";

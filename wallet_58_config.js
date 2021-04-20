@@ -1,1 +1,1 @@
-var mnemonic = "beyond panther luggage screen sword security cupboard kitten gentle pistol render lecture";
+var mnemonic = "mention happy mansion anger sheriff hard illegal vault never congress fantasy happy";

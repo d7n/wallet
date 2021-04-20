@@ -1,1 +1,1 @@
-var mnemonic = "unit suffer sponsor reflect night force kidney peanut pencil tiger music monkey";
+var mnemonic = "lawn peanut ranch nose sleep whip phrase execute coyote move access next";

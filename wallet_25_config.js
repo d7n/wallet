@@ -1,1 +1,1 @@
-var mnemonic = "brave outdoor rain voyage piece old rare color fetch embody conduct pipe";
+var mnemonic = "master poet pair double over fever split idle pride toilet sample chronic";

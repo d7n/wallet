@@ -1,1 +1,1 @@
-var mnemonic = "state right come limit category mask shoot fashion across gallery bitter boy";
+var mnemonic = "race collect violin life album real anchor cheese include little surface odor";

@@ -1,1 +1,1 @@
-var mnemonic = "air between crucial tent hope cram soccer usual shadow gauge tomorrow enact";
+var mnemonic = "wet ozone chef reward inmate fox shaft master again found juice smile";

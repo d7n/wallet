@@ -1,1 +1,1 @@
-var mnemonic = "timber cat vault fiber excess three foam write nurse concert piece marble";
+var mnemonic = "album squirrel beyond impulse theme chat hope task frozen myself cute concert";

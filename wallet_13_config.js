@@ -1,1 +1,1 @@
-var mnemonic = "conduct blind lava grant frost bitter violin lizard erode taste before piece";
+var mnemonic = "shiver harbor rely ginger volcano tail debate capital nurse relief poet weasel";

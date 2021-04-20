@@ -1,1 +1,1 @@
-var mnemonic = "praise gasp hope drift dwarf volume agree depart pen good winter stamp";
+var mnemonic = "assist secret clip song story girl economy shift drill tilt blossom when";

@@ -1,1 +1,1 @@
-var mnemonic = "boring merry debate bachelor model must awake potato reject volcano fiscal surface";
+var mnemonic = "sick language transfer more coconut slow laundry eye essay oil width art";

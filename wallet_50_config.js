@@ -1,1 +1,1 @@
-var mnemonic = "crisp main vintage tennis nice lift pretty confirm economy index amused calm";
+var mnemonic = "envelope treat mountain robot core moral smart music meat afford alien embark";

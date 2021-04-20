@@ -1,1 +1,1 @@
-var mnemonic = "timber flash photo concert medal dune kiss mule thrive orient plunge oyster";
+var mnemonic = "canoe minor punch valid moment grunt punch flush left tackle carry tornado";

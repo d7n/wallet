@@ -1,1 +1,1 @@
-var mnemonic = "town letter sell approve forum buyer safe column use scare cabin near";
+var mnemonic = "chef topple garlic honey later injury such cross winter luggage play artwork";

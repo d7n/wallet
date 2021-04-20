@@ -1,1 +1,1 @@
-var mnemonic = "simple produce enroll clump dust skull purse polar skate leader clutch wash";
+var mnemonic = "ticket atom horn else urge verb despair blanket car educate obtain code";

@@ -1,1 +1,1 @@
-var mnemonic = "educate blush resemble alert match buyer trust illegal wide submit sun bicycle";
+var mnemonic = "fork lens among horror bachelor large jazz evolve excess equip orchard case";

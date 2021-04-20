@@ -1,1 +1,1 @@
-var mnemonic = "hungry matrix proud patient whale raw kit frown spend scale acquire into";
+var mnemonic = "south stamp fatigue scissors evidence weapon choose key mistake subject cute front";

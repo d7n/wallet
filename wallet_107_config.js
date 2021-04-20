@@ -1,1 +1,1 @@
-var mnemonic = "buyer subject beach input test sting auto express tribe broken stuff absent";
+var mnemonic = "divert lift govern sign trap term coast kitten kit pluck clutch sauce";

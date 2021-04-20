@@ -1,1 +1,1 @@
-var mnemonic = "keen tip affair chimney churn awful drip quiz radio someone voice stand";
+var mnemonic = "immense apple ranch rain guide cheese hand paper shell lemon crazy fancy";

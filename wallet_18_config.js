@@ -1,1 +1,1 @@
-var mnemonic = "walnut enemy piece rifle sweet search ocean combine learn syrup quote old";
+var mnemonic = "dream raccoon glad silver include love salmon exhaust powder old pitch asthma";

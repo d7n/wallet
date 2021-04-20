@@ -1,1 +1,1 @@
-var mnemonic = "oyster hard denial pear laugh audit crowd quarter devote fault flee color";
+var mnemonic = "film century rib alien october true clutch forward vessel level wreck health";

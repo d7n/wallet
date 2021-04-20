@@ -1,1 +1,1 @@
-var mnemonic = "add liberty multiply salt charge zero initial this child runway float badge";
+var mnemonic = "spawn uncle fuel hold cousin absent live over occur pond wrestle mean";

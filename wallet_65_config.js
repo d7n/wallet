@@ -1,1 +1,1 @@
-var mnemonic = "genre owner base snap polar grape funny puppy defense tissue eyebrow bitter";
+var mnemonic = "swear smooth bicycle arrive dwarf armed penalty alley tennis pear announce forum";

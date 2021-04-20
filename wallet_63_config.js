@@ -1,1 +1,1 @@
-var mnemonic = "table bread evidence doctor walk secret employ always pumpkin trap cool skate";
+var mnemonic = "dizzy crunch celery random tomato coin wire bind audit cruise course salt";

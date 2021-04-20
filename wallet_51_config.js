@@ -1,1 +1,1 @@
-var mnemonic = "multiply bleak trim weasel bone receive grab maze play vacant bus undo";
+var mnemonic = "name roast era snake often aspect lonely today dose bike regular enact";

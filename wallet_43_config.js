@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit magic click prefer outside glory galaxy crash notable island device exile";
+var mnemonic = "car problem decide segment twenty hair stumble arrange later horn file crumble";

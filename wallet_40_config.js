@@ -1,1 +1,1 @@
-var mnemonic = "cat cricket razor ill ridge relief north border unable disagree shield exit";
+var mnemonic = "diesel entire birth turn cave skate uncover tooth enrich cabin mixture trade";

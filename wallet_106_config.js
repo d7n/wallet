@@ -1,1 +1,1 @@
-var mnemonic = "shove ahead bread amount link situate erupt until shaft allow glue north";
+var mnemonic = "walnut open endorse trust divide pledge traffic path wreck animal gain rough";

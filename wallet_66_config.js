@@ -1,1 +1,1 @@
-var mnemonic = "melt sniff apple praise stand judge tell rich kit tape shrug travel";
+var mnemonic = "hospital code history view hobby copy wolf offer expire cake peasant add";

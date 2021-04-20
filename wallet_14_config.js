@@ -1,1 +1,1 @@
-var mnemonic = "update milk eagle city suit debris parrot critic weird ladder slogan siege";
+var mnemonic = "stable eager security because fatigue sort invest cover square prize outside fabric";

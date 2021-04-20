@@ -1,1 +1,1 @@
-var mnemonic = "lady copy rug satoshi unaware page friend thrive tooth purpose coach oppose";
+var mnemonic = "analyst milk office loop crisp response kitchen jealous novel snake pepper nasty";
