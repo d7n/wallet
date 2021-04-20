@@ -1,1 +1,1 @@
-var mnemonic = "heart income shop devote name note connect donkey this brain dentist juice";
+var mnemonic = "stuff suffer film husband valve seminar chair armed fuel orphan panic exotic";

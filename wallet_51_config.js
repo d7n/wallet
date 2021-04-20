@@ -1,1 +1,1 @@
-var mnemonic = "initial nerve suit egg neither nuclear final rare butter also rigid cotton";
+var mnemonic = "review ability correct close radio hazard cupboard trigger foil visa envelope ask";

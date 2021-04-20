@@ -1,1 +1,1 @@
-var mnemonic = "measure else undo avocado analyst stem dance history nose rescue river tail";
+var mnemonic = "aisle reflect tomorrow still apple glory fluid audit absurd define cattle kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess earth review spread unhappy clinic butter urban misery seek collect dish";
+var mnemonic = "pitch popular flee upper swap rescue wait pear exhaust step physical charge";

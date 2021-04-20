@@ -1,1 +1,1 @@
-var mnemonic = "bench lemon vintage loyal input sleep track fat slight angle whip music";
+var mnemonic = "online north amateur car harsh limit lady pet leg parade arch abandon";

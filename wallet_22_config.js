@@ -1,1 +1,1 @@
-var mnemonic = "pet useful rely tone duck truck grass defense knife arch beef until";
+var mnemonic = "youth bike nothing guard among safe vague antenna harsh wise awake gate";

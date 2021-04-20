@@ -1,1 +1,1 @@
-var mnemonic = "close sword odor vintage bag print same assume wait churn buffalo escape";
+var mnemonic = "illness coach left decline cigar weird sail laugh abuse fuel profit entry";

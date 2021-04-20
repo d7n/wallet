@@ -1,1 +1,1 @@
-var mnemonic = "innocent hollow under income ticket blind ceiling file consider goddess jazz entire";
+var mnemonic = "champion wage keep modify exchange design clog name bird purse melt stone";

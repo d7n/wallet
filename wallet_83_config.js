@@ -1,1 +1,1 @@
-var mnemonic = "verify enforce say comic plate sign midnight lobster west worth congress wild";
+var mnemonic = "wire good super miss firm tourist churn fat outdoor merit spoil bottom";

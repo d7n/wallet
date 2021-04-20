@@ -1,1 +1,1 @@
-var mnemonic = "robust person over tape purse dentist tenant aunt desert fluid rice view";
+var mnemonic = "during book outer virtual maple old glide mixture syrup van track satoshi";

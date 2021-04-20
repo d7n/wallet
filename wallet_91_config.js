@@ -1,1 +1,1 @@
-var mnemonic = "session cushion team bicycle tackle glad coyote diary inch argue front spare";
+var mnemonic = "october boil garden custom diagram magnet else jacket response mail dream village";

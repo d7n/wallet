@@ -1,1 +1,1 @@
-var mnemonic = "load laptop wheel decline tiny trigger retire club recall rug service kid";
+var mnemonic = "armed repeat idle wine viable athlete belt venture gown level local steak";

@@ -1,1 +1,1 @@
-var mnemonic = "question breeze drift venture core bubble audit surround canyon admit orphan smile";
+var mnemonic = "medal drive mutual busy catalog pig renew original piece client skill fever";

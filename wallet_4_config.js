@@ -1,1 +1,1 @@
-var mnemonic = "sudden together address rice toast raise layer loop front topple alpha jar";
+var mnemonic = "exhaust pear youth enhance execute flee crew weather arm cattle bullet ahead";

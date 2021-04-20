@@ -1,1 +1,1 @@
-var mnemonic = "indoor blade guess recipe sand vivid trend dinner curtain fire visit expand";
+var mnemonic = "amused easy utility age bulk normal candy police six pipe ocean fold";

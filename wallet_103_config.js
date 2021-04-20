@@ -1,1 +1,1 @@
-var mnemonic = "usage mammal edge enlist lunar torch dice forget tuna rescue between job";
+var mnemonic = "truck caught song lion number oak country smooth grant hope desert cereal";

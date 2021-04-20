@@ -1,1 +1,1 @@
-var mnemonic = "outer diary pull fresh path globe goat toilet cute minor panda ankle";
+var mnemonic = "drink mutual submit success differ credit gauge cabin zero guitar addict camera";

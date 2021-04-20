@@ -1,1 +1,1 @@
-var mnemonic = "fatal theme vanish ostrich brass female panda kitchen silent penalty bind tiny";
+var mnemonic = "dynamic awesome round scatter smart finger scare sudden action elder gas cupboard";

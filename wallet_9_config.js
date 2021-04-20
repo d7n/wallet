@@ -1,1 +1,1 @@
-var mnemonic = "walk edit obtain unit brain seed pottery abstract region chronic man bundle";
+var mnemonic = "category ice method notice drama field steel flame virtual clump wrong sock";

@@ -1,1 +1,1 @@
-var mnemonic = "farm smart hunt weird imitate pioneer guess build gesture snow clerk spin";
+var mnemonic = "oven genius robust erosion chat sniff earn feed figure ramp fade what";

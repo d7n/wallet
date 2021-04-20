@@ -1,1 +1,1 @@
-var mnemonic = "curve electric cruise galaxy unique deliver cute pole source hold forest occur";
+var mnemonic = "game clerk whip divorce rich piano rule stumble orbit unhappy soda copy";

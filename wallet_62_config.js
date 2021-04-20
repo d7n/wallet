@@ -1,1 +1,1 @@
-var mnemonic = "afford execute pepper obtain pottery away clarify script slogan love parrot dance";
+var mnemonic = "tribe offer inject shoot lobster mother hair cherry rare invest cruise naive";

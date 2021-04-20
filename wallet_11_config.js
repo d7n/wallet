@@ -1,1 +1,1 @@
-var mnemonic = "state run idea game icon office toss donate reopen long expand fault";
+var mnemonic = "century shoe inflict income flight knock agree aim anchor left curtain never";

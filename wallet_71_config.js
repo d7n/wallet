@@ -1,1 +1,1 @@
-var mnemonic = "armed tuna ride crunch upgrade force dolphin debate confirm develop riot text";
+var mnemonic = "oblige antenna surge mind blast praise drive mutual slot gorilla park nurse";

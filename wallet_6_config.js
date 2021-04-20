@@ -1,1 +1,1 @@
-var mnemonic = "funny amazing toward exhibit gorilla museum pull major wrap mansion alter myth";
+var mnemonic = "legal steel excuse crouch soup basket people profit release salad mean kidney";

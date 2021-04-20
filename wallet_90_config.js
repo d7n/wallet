@@ -1,1 +1,1 @@
-var mnemonic = "man either situate impact false match chicken hobby human range require artwork";
+var mnemonic = "version reward food legal document bright choice random regular assist motor fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "jump target promote curve wonder vote company elephant west pelican next play";
+var mnemonic = "immense icon curious indoor abandon visual bargain category hungry since crumble rough";

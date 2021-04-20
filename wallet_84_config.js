@@ -1,1 +1,1 @@
-var mnemonic = "jeans find sphere entire record street mirror guess gossip length logic space";
+var mnemonic = "slogan winner ethics zero wait lab exchange castle hockey bulk save pear";

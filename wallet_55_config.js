@@ -1,1 +1,1 @@
-var mnemonic = "proof lobster gesture mimic special salon catch fine come board equal lunar";
+var mnemonic = "digital wage swim harsh sister zone grid shy dawn outside moon govern";

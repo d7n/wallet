@@ -1,1 +1,1 @@
-var mnemonic = "timber copy scare search material frozen empower danger absurd twenty love universe";
+var mnemonic = "hope ice scout essence pencil bag ensure viable scale polar find mistake";

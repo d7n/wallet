@@ -1,1 +1,1 @@
-var mnemonic = "secret tornado idle multiply garlic horn witness wheat vibrant arch shrug viable";
+var mnemonic = "quantum bracket emerge party disagree sun galaxy water sentence program electric shrimp";

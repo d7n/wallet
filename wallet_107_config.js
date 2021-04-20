@@ -1,1 +1,1 @@
-var mnemonic = "census blue depth nasty decline settle vivid dinner victory horse frame balcony";
+var mnemonic = "course inside mercy give cook barrel rule gasp bachelor tobacco combine right";

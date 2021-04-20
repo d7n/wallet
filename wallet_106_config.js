@@ -1,1 +1,1 @@
-var mnemonic = "join share raise danger sword neck vessel spawn spread flip twenty only";
+var mnemonic = "fence asthma rare news profit average hard few empty top endorse milk";

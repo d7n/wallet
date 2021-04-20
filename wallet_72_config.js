@@ -1,1 +1,1 @@
-var mnemonic = "dance farm range tip submit deal inflict blame empower slow mango hello";
+var mnemonic = "slogan note leave avocado crawl since balcony sketch luggage meadow doctor flame";

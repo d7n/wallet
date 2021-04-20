@@ -1,1 +1,1 @@
-var mnemonic = "squirrel idle slab track tourist forget okay decorate smile adult pair family";
+var mnemonic = "spare shoe lemon february noise face stock spice idea breeze device head";

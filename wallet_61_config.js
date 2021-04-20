@@ -1,1 +1,1 @@
-var mnemonic = "enhance adjust unhappy maze cabin quit convince time develop outer oak own";
+var mnemonic = "picture clock someone tree day quiz sunny broken problem glad ozone poem";

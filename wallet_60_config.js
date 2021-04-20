@@ -1,1 +1,1 @@
-var mnemonic = "heart olive robot group morning erosion enjoy original around runway dial nephew";
+var mnemonic = "party loyal scrap pull suit great skate soda evoke fruit nut pepper";

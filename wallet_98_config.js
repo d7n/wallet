@@ -1,1 +1,1 @@
-var mnemonic = "what agree buffalo zone aware piano airport gaze radar assume solution harbor";
+var mnemonic = "nut october motor slab crisp govern aware toilet mandate plastic aunt clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "affair inquiry amount slot around pioneer call child winner surprise ride van";
+var mnemonic = "prison direct novel cover robot soccer survey flag leader rain scene marriage";

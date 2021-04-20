@@ -1,1 +1,1 @@
-var mnemonic = "trick fall found erupt company prefer mimic hood lamp live initial exact";
+var mnemonic = "tonight frost shaft pass term slogan switch clock payment volcano identify maple";

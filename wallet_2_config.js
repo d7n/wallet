@@ -1,1 +1,1 @@
-var mnemonic = "whip patrol bone neck equal total equip display extra alert month canoe";
+var mnemonic = "inhale balance find expire quiz there immense pony song fly tobacco assume";

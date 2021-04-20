@@ -1,1 +1,1 @@
-var mnemonic = "gossip wide beyond sugar senior payment laptop absorb skirt voice gap gift";
+var mnemonic = "stumble forest announce music struggle lake aerobic section taste syrup height blame";

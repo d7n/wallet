@@ -1,1 +1,1 @@
-var mnemonic = "clap genre badge funny exotic novel nurse salute shoot defy bullet unique";
+var mnemonic = "napkin people tool farm oval auction stove sun boil rabbit churn vanish";

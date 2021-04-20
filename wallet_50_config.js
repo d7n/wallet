@@ -1,1 +1,1 @@
-var mnemonic = "emerge logic flame token acoustic witness agree boat dinosaur south tunnel shoot";
+var mnemonic = "lizard news heavy major melt license tomato kick night avoid beauty board";

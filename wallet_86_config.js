@@ -1,1 +1,1 @@
-var mnemonic = "reflect entire improve denial drop antenna city arctic sugar right initial ranch";
+var mnemonic = "obscure release fire quality unique voice deliver swim floor fragile moon young";

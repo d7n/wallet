@@ -1,1 +1,1 @@
-var mnemonic = "section rigid undo breeze guess copper caution gesture card marine jacket shell";
+var mnemonic = "civil gloom since judge future unique blush salmon filter half crumble legal";

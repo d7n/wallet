@@ -1,1 +1,1 @@
-var mnemonic = "resemble planet north soldier edit flag balcony fashion seven wife silver grief";
+var mnemonic = "eagle rifle vessel toy skull miracle lake spice certain rocket hero cube";

@@ -1,1 +1,1 @@
-var mnemonic = "sword gospel receive sand rapid cat wide dolphin short humor curtain belt";
+var mnemonic = "effort venue borrow thunder produce reflect scene risk broccoli hurdle lonely bone";

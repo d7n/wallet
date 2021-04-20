@@ -1,1 +1,1 @@
-var mnemonic = "divorce steak apple describe endless trust spawn mask figure they possible blade";
+var mnemonic = "consider spin ceiling piece book rate cart avocado loop movie essence cliff";

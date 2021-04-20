@@ -1,1 +1,1 @@
-var mnemonic = "ready letter panic want motion jaguar apology practice margin catch side west";
+var mnemonic = "blush moment limit still fluid laundry wife arch cash detect blossom rich";

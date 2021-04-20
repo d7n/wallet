@@ -1,1 +1,1 @@
-var mnemonic = "east glove potato theme buyer town half robust nuclear season pattern hamster";
+var mnemonic = "combine stereo summer worry drive movie wire novel satisfy hundred kitten two";

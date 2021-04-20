@@ -1,1 +1,1 @@
-var mnemonic = "fashion dad huge below turkey apart come furnace eight bring settle armor";
+var mnemonic = "give jaguar canyon pipe sample tonight rebuild flag rich kick physical east";

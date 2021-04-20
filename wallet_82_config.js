@@ -1,1 +1,1 @@
-var mnemonic = "bacon promote program front voyage perfect normal nerve air loop start artefact";
+var mnemonic = "team other person place comic liquid attend snap ribbon beef cable snow";

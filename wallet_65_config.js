@@ -1,1 +1,1 @@
-var mnemonic = "mango draw list armed recipe merit proud slender giggle route net odor";
+var mnemonic = "tool spread fury short box hammer start scrap glass business asset asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp express guide arctic cloth furnace steak laugh current soft salmon jacket";
+var mnemonic = "ability way steel strong casino beach stuff report little crucial warrior lake";

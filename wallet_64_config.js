@@ -1,1 +1,1 @@
-var mnemonic = "nominee maximum sea coffee act cancel lift first fluid test enable spring";
+var mnemonic = "dirt approve speed captain glory toilet six oblige bright picture little heart";

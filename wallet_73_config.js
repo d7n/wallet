@@ -1,1 +1,1 @@
-var mnemonic = "minimum steak brown dose liquid donkey business spoil smart spray tone abstract";
+var mnemonic = "guess number elder blast grace hotel okay tell vintage rebuild cost hello";

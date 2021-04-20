@@ -1,1 +1,1 @@
-var mnemonic = "client fetch scrub science attitude pair parent toward solar zoo sustain lazy";
+var mnemonic = "joke behave brisk ignore helmet plunge reform sunset story book manual orphan";

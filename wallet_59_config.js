@@ -1,1 +1,1 @@
-var mnemonic = "observe van below fashion street elite famous sing access chalk peace flip";
+var mnemonic = "warrior lunar direct copper outdoor apology enjoy youth leader furnace social unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "safe soap believe knock scene net horse rubber orchard soft leader february";
+var mnemonic = "invest ride danger poverty poem hotel pull episode desert enter student egg";

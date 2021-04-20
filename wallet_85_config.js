@@ -1,1 +1,1 @@
-var mnemonic = "illegal true faith mixture midnight bamboo van risk camp siren pottery paper";
+var mnemonic = "reveal panther exercise usage race gas fitness shed elder alert kit start";

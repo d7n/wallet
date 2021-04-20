@@ -1,1 +1,1 @@
-var mnemonic = "unit bargain parade air solution reward now left twin rich summer kangaroo";
+var mnemonic = "kiss letter real setup battle dentist race world hammer tonight fine sea";

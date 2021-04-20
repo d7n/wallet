@@ -1,1 +1,1 @@
-var mnemonic = "occur phrase trade analyst thunder verify item cash insane galaxy shy exhaust";
+var mnemonic = "gun weapon section govern above whip frost effort bulk foil budget hockey";

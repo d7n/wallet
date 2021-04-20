@@ -1,1 +1,1 @@
-var mnemonic = "tonight save scale evidence sunny dutch immense state reopen assume design dream";
+var mnemonic = "eagle exit walnut stadium rubber afraid flavor curious maid seven magnet file";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb spread runway shove brand exact sure cattle access eternal math rival";
+var mnemonic = "maximum mango winner turkey grid april surface pause always piano narrow again";

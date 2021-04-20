@@ -1,1 +1,1 @@
-var mnemonic = "climb state inside budget swim silver slim table payment exile crazy trouble";
+var mnemonic = "turtle bonus cave gentle seminar mixture unusual cement lady able couple lift";

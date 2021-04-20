@@ -1,1 +1,1 @@
-var mnemonic = "fetch color film chronic movie away trophy tornado reject license cricket spoil";
+var mnemonic = "horse link upset hunt alien nasty give tortoise step joy spell wrist";

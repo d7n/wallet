@@ -1,1 +1,1 @@
-var mnemonic = "stem actress accident force three island evil rose twin smart cabin rescue";
+var mnemonic = "word immense orphan good festival life betray staff stick jelly drum true";

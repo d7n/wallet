@@ -1,1 +1,1 @@
-var mnemonic = "group valid devote frost mule gaze unveil evolve cruel egg own cash";
+var mnemonic = "tackle flash rebel mechanic drip submit curious figure song rocket vehicle choice";

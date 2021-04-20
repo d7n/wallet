@@ -1,1 +1,1 @@
-var mnemonic = "alert city vicious solid usage crumble title access flush clock mobile cereal";
+var mnemonic = "often area come design swarm bus slogan indoor barrel parrot sing pottery";

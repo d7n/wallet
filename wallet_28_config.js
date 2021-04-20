@@ -1,1 +1,1 @@
-var mnemonic = "blade grocery they life shiver accident sibling follow amused unveil firm forum";
+var mnemonic = "income comfort impose tuition anxiety clap advance start camp celery weekend muscle";

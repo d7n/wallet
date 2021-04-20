@@ -1,1 +1,1 @@
-var mnemonic = "gravity furnace evolve shine scrub common nation father diagram purpose fashion viable";
+var mnemonic = "female wink shine use section neither acid column rent pool real match";

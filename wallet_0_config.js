@@ -1,1 +1,1 @@
-var mnemonic = "scheme evil verify pioneer venture tell eye hen slam make antique similar";
+var mnemonic = "aerobic vanish outdoor fitness pottery miss chunk fancy amazing bonus crazy manage";

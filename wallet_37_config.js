@@ -1,1 +1,1 @@
-var mnemonic = "merry abuse quiz sign guitar engine often hip ball deputy box mobile";
+var mnemonic = "dune know vessel patient multiply answer shock fee erase pluck salmon fault";

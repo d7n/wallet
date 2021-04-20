@@ -1,1 +1,1 @@
-var mnemonic = "much pluck pencil silk gentle force teach spoil salad uncover energy soccer";
+var mnemonic = "warm hover return avoid fortune exhaust argue cricket tuition tray property song";

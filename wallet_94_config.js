@@ -1,1 +1,1 @@
-var mnemonic = "dentist silly cushion hire vibrant process ticket tooth pluck fruit worth antenna";
+var mnemonic = "jazz gym nephew half aunt dish upon album finger knee extend report";

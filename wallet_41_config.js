@@ -1,1 +1,1 @@
-var mnemonic = "cool unique wreck leopard collect link smooth later great cute case seat";
+var mnemonic = "rent dynamic gossip employ design unable eager age lecture machine fly eternal";

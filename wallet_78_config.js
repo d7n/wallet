@@ -1,1 +1,1 @@
-var mnemonic = "fitness erupt design excite one basket cloud bitter claw churn grid acid";
+var mnemonic = "final kite narrow ketchup match find decade dynamic one pull extra venture";

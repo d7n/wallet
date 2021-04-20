@@ -1,1 +1,1 @@
-var mnemonic = "quarter marriage visual hobby love argue sail treat drink fury pig squeeze";
+var mnemonic = "cotton choice broccoli unfair catalog stereo supply enemy wing trade virus wall";

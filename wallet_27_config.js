@@ -1,1 +1,1 @@
-var mnemonic = "hire waste ghost rule chest cake find misery approve spoil diamond debate";
+var mnemonic = "remove dragon faint gap nest popular merge above shy guard apart absurd";
