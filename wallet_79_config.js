@@ -1,1 +1,1 @@
-var mnemonic = "absurd tomato intact emotion total long gallery direct tomorrow joke clever frozen";
+var mnemonic = "rotate body inject solution silly cereal actress flash marble rule purity lazy";

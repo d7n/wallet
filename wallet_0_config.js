@@ -1,1 +1,1 @@
-var mnemonic = "list beef zone cry sunny fortune vessel sniff remove tone able sunny";
+var mnemonic = "oxygen wrestle midnight left magnet network quit ceiling spatial miss absorb magnet";

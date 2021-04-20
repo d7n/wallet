@@ -1,1 +1,1 @@
-var mnemonic = "cloud rural cricket elder current flag casual exit reward child agent erupt";
+var mnemonic = "plate cash orbit account buyer exile expect head loop flavor legal canal";

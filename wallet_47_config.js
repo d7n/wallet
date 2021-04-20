@@ -1,1 +1,1 @@
-var mnemonic = "liquid discover lumber dove wet misery nerve anxiety soon pelican elder arrive";
+var mnemonic = "coconut gaze muffin hotel pigeon explain reason erase ostrich girl panda lumber";

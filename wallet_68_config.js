@@ -1,1 +1,1 @@
-var mnemonic = "balance margin ethics like success zone acid shaft hood robust thought slim";
+var mnemonic = "mushroom argue divide wrap click spoon slam clog green reject exact rather";

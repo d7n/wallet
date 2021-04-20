@@ -1,1 +1,1 @@
-var mnemonic = "cactus local gauge spread unable help coffee avocado brush resist rice scan";
+var mnemonic = "matter merry regular job depth together horse receive like enlist require dinosaur";

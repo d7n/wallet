@@ -1,1 +1,1 @@
-var mnemonic = "ball wing april scatter arrow enemy fan ridge exile whip gate flight";
+var mnemonic = "core cash nature gossip nothing tape copper claw wool book vast spoon";

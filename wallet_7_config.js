@@ -1,1 +1,1 @@
-var mnemonic = "say orchard stock snack brown long maze fitness perfect grain collect hotel";
+var mnemonic = "lens charge earn police west bamboo canoe drum token meadow galaxy family";

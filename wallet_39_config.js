@@ -1,1 +1,1 @@
-var mnemonic = "force suspect cotton evoke floor pen brave plate cycle curious choice congress";
+var mnemonic = "sorry design explain idle noodle inject slow toward color dirt worry cherry";

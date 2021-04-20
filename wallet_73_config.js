@@ -1,1 +1,1 @@
-var mnemonic = "cargo tragic ready tortoise display such rather problem ivory open urban space";
+var mnemonic = "charge clump tragic number accident ostrich category panther tag almost joke clever";

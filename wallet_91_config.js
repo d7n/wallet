@@ -1,1 +1,1 @@
-var mnemonic = "chat tag pattern flavor talent luggage cool huge buffalo memory segment brick";
+var mnemonic = "rifle female sting service mix juice wolf ginger where dutch parent victory";

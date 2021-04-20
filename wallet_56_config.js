@@ -1,1 +1,1 @@
-var mnemonic = "occur salt dutch abuse oxygen wasp brisk domain change voyage early original";
+var mnemonic = "siege castle museum forest assist seat bundle neck first stomach winter jewel";

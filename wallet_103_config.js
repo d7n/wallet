@@ -1,1 +1,1 @@
-var mnemonic = "turn run myth type duck frost motion rent debris seed bless shrimp";
+var mnemonic = "spend wedding virus pet capable hybrid someone body inner hurry seek paper";

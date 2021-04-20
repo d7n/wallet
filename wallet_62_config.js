@@ -1,1 +1,1 @@
-var mnemonic = "response trick jealous doctor panel kingdom smile very program naive image forget";
+var mnemonic = "flock favorite engine fish business rude jacket announce flag version quarter body";

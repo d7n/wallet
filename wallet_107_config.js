@@ -1,1 +1,1 @@
-var mnemonic = "maple task timber unhappy act heavy roast atom damp crumble need head";
+var mnemonic = "poet tooth wrestle era champion ticket glad dismiss antenna shoe unable pig";

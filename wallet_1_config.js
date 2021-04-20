@@ -1,1 +1,1 @@
-var mnemonic = "live minute design shoot quality quality venue coin apple melody symptom work";
+var mnemonic = "doll water female arch barrel success runway settle sketch crunch limit amateur";

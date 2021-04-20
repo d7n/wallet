@@ -1,1 +1,1 @@
-var mnemonic = "ribbon buyer pony aunt multiply eager surge occur online onion rule enact";
+var mnemonic = "air snap unlock match spin grain cotton basket regret noble tip damp";

@@ -1,1 +1,1 @@
-var mnemonic = "february spoon level lab forward insect surprise eyebrow piece cactus section harbor";
+var mnemonic = "dad will agree indoor scrub scrub language school bright into honey indoor";

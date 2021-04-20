@@ -1,1 +1,1 @@
-var mnemonic = "runway vapor pledge aisle nuclear dress stadium exile canyon seven much yellow";
+var mnemonic = "soup alone country walk head cliff chalk raise ring scout practice page";

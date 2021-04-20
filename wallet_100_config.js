@@ -1,1 +1,1 @@
-var mnemonic = "inhale approve lab unable link auction loop engine genuine embark cloth film";
+var mnemonic = "minor zoo damp amateur time bulb run ginger wrist gravity cube have";

@@ -1,1 +1,1 @@
-var mnemonic = "around curve degree double tobacco betray rich follow always shop deputy shy";
+var mnemonic = "fitness midnight crane later fish six false primary proud blame raven emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "whip special universe ceiling broken slight panther demise mixture board wet ladder";
+var mnemonic = "awake way leg lift price engage struggle puppy chef matrix spy release";

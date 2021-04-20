@@ -1,1 +1,1 @@
-var mnemonic = "verify ask identify rebuild ten bleak force nose better universe awful tent";
+var mnemonic = "rather sunset sunny direct neither parent mask maze repeat rich vital fury";

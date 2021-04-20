@@ -1,1 +1,1 @@
-var mnemonic = "candy fringe eternal cover view welcome clown wheel wasp helmet educate scheme";
+var mnemonic = "insane train fragile dawn hat alter idle focus donate between elite general";

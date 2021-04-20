@@ -1,1 +1,1 @@
-var mnemonic = "churn melt climb february thrive furnace region custom renew glow salon flash";
+var mnemonic = "second olive solve tube interest garden lonely sniff donor peace carry affair";

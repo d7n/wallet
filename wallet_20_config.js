@@ -1,1 +1,1 @@
-var mnemonic = "observe snap antenna sketch battle approve submit nut enforce entry average dismiss";
+var mnemonic = "voyage total genre ahead basket erase luggage false potato shadow inflict another";

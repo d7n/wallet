@@ -1,1 +1,1 @@
-var mnemonic = "kiss bounce umbrella embody law secret spin guitar fold skill that call";
+var mnemonic = "indoor siren buyer huge tower clown wood garage faculty rigid achieve attend";

@@ -1,1 +1,1 @@
-var mnemonic = "snow cave track swarm large inherit step sea jaguar ripple smooth reason";
+var mnemonic = "survey bright home urge nurse when wet myth fatigue estate near super";

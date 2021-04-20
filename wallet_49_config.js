@@ -1,1 +1,1 @@
-var mnemonic = "clay divert zero circle hen foam mercy beyond sponsor point cycle hello";
+var mnemonic = "clutch gossip daughter happy sheriff opinion student depth blue milk curious annual";

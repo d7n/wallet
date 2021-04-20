@@ -1,1 +1,1 @@
-var mnemonic = "fly dutch turkey bulk silly rebel major series square error program candy";
+var mnemonic = "pretty spread stock orange frozen utility depth rib corn wild salon tone";

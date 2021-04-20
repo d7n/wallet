@@ -1,1 +1,1 @@
-var mnemonic = "friend ability detail glory beef usual ability steak melody draft jelly husband";
+var mnemonic = "wire tray tube effort crime fork razor face outside spike suggest soda";

@@ -1,1 +1,1 @@
-var mnemonic = "clean expand snack you inhale aware shell sweet surprise rent swim chef";
+var mnemonic = "eager awful speed puzzle peanut pottery prison celery program foam local caution";

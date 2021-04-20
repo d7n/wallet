@@ -1,1 +1,1 @@
-var mnemonic = "december little lawsuit winner economy damage provide come auto adapt cheap loud";
+var mnemonic = "critic diagram rebuild furnace circle patch enemy claw inmate auction slight town";

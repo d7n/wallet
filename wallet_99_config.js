@@ -1,1 +1,1 @@
-var mnemonic = "menu safe swim immense tattoo spirit what license gate blood you curious";
+var mnemonic = "round nest valley festival inner grief use bunker during ancient blast slow";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow size popular robot swift balcony school stereo soon reason true spare";
+var mnemonic = "shop fork half reveal gentle lava cup giggle domain message gravity build";

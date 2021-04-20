@@ -1,1 +1,1 @@
-var mnemonic = "where amused faint index view immune spy else hawk picture fence print";
+var mnemonic = "stadium laundry wrestle amused unit grant wink permit cute lazy brisk security";

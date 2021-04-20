@@ -1,1 +1,1 @@
-var mnemonic = "else athlete meat lunch online dinner country corn method skin candy pool";
+var mnemonic = "raw will brass survey option choose reflect impose warm common weasel wasp";

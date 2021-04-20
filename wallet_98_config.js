@@ -1,1 +1,1 @@
-var mnemonic = "expect danger upset olympic proof planet taxi pool path stand sponsor bench";
+var mnemonic = "donate gate pipe beauty tube donate winter youth alter fashion remind material";

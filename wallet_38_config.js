@@ -1,1 +1,1 @@
-var mnemonic = "craft virus motion two bitter clinic illegal reunion wedding riot size joke";
+var mnemonic = "mean chuckle return antenna grit pledge idea provide tomorrow story alpha follow";

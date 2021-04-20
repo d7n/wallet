@@ -1,1 +1,1 @@
-var mnemonic = "chuckle such crop lend early blossom acoustic churn box half clock zero";
+var mnemonic = "aware column canoe marine rubber pelican give subject cloud pottery frame obtain";

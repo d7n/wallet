@@ -1,1 +1,1 @@
-var mnemonic = "laundry car garment phone idle laugh arctic taxi abstract exist price neck";
+var mnemonic = "desk hospital fan rare doctor shuffle caution call food trip exotic rapid";

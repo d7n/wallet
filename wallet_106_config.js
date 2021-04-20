@@ -1,1 +1,1 @@
-var mnemonic = "destroy possible transfer fence congress gold entire zero federal carbon present poverty";
+var mnemonic = "web vacant dry shoe polar bridge toward travel try material upgrade near";

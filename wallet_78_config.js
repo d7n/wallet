@@ -1,1 +1,1 @@
-var mnemonic = "jacket asthma isolate panel critic valve degree destroy crisp purity desk melt";
+var mnemonic = "shop chef film radio produce indoor orbit caution fan size poverty arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "brother short provide bean keep note elder eternal food debris any apology";
+var mnemonic = "royal tank hollow drip since portion hundred trophy document increase pattern remember";

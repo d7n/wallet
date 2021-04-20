@@ -1,1 +1,1 @@
-var mnemonic = "paddle uniform cinnamon stem enough sugar clerk blame inherit mask order renew";
+var mnemonic = "tag saddle visa cost outside accuse alarm adapt wet success uncle bachelor";

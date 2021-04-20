@@ -1,1 +1,1 @@
-var mnemonic = "hair reject boss basket people office slam beef anger race slender athlete";
+var mnemonic = "off slice minor affair settle weird mercy possible wife embody media horse";

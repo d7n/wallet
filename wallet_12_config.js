@@ -1,1 +1,1 @@
-var mnemonic = "example near royal senior march agent example neutral isolate assist crumble valley";
+var mnemonic = "huge bread save impulse consider inmate scout traffic culture churn clutch diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity slush trouble limit strike tunnel judge magic reduce mixture hat mom";
+var mnemonic = "truly give scissors vast before decline faint hill harbor damp hip afraid";

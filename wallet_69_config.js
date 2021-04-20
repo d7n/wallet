@@ -1,1 +1,1 @@
-var mnemonic = "version slogan fall immune garment ecology echo adult wine shop language dragon";
+var mnemonic = "rifle control announce kiwi glory embrace certain adult can festival column double";

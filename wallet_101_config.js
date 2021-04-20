@@ -1,1 +1,1 @@
-var mnemonic = "pulse click nation large stool grape table hero ranch floor jewel resource";
+var mnemonic = "tool prosper shy excuse during length main tool snake limb fatal property";

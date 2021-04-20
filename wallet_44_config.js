@@ -1,1 +1,1 @@
-var mnemonic = "still mom zone coil make bounce tiny anchor mix much mix embark";
+var mnemonic = "outer isolate spider impact medal kid own tomato patrol black human gadget";

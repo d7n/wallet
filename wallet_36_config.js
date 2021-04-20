@@ -1,1 +1,1 @@
-var mnemonic = "rough deny empty title client diagram fire fly round kiwi boat acid";
+var mnemonic = "head gather test aerobic gravity angry payment void sun lift tortoise crisp";

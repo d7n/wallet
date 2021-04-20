@@ -1,1 +1,1 @@
-var mnemonic = "pretty horn despair vessel group seven index supreme quarter wear ski sponsor";
+var mnemonic = "age evidence list shield sorry lemon empty still trial asset casino airport";

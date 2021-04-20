@@ -1,1 +1,1 @@
-var mnemonic = "logic laundry claw advance water life language hidden grit stomach endless salt";
+var mnemonic = "depend collect hurdle nation garbage village turn card act view thunder myth";

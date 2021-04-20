@@ -1,1 +1,1 @@
-var mnemonic = "glimpse attract slush neglect casual keep oyster mushroom travel olympic nature save";
+var mnemonic = "wealth enroll biology fog upgrade motor laundry future level mistake squirrel fruit";

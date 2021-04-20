@@ -1,1 +1,1 @@
-var mnemonic = "easily gift cup sick ribbon govern evil stock attend army subject together";
+var mnemonic = "window arrive want element crater gather exist furnace flash measure ignore wreck";

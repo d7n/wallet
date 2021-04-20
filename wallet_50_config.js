@@ -1,1 +1,1 @@
-var mnemonic = "develop clever gold inspire divorce expand stock act atom winter add good";
+var mnemonic = "guess scheme finish cat oil recall ask rapid dad better siren dizzy";

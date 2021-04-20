@@ -1,1 +1,1 @@
-var mnemonic = "hope cruise duty winner tragic diamond monkey gadget any opinion cost embark";
+var mnemonic = "inflict fit segment follow reopen original pulp ahead dawn end mass dutch";

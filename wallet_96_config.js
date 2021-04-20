@@ -1,1 +1,1 @@
-var mnemonic = "above pudding present wagon smile hamster garbage else ribbon gadget topic practice";
+var mnemonic = "source foil smoke fog card sketch bicycle wing control hockey grow acquire";

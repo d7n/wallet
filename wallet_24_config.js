@@ -1,1 +1,1 @@
-var mnemonic = "reveal relax chuckle knee tenant actress magnet forward reopen axis fragile suspect";
+var mnemonic = "giant depend lounge ritual fury ketchup attack weather sphere detect ramp garment";

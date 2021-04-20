@@ -1,1 +1,1 @@
-var mnemonic = "atom trade rib video much vote report banner nature inform now style";
+var mnemonic = "scheme rich valve current relief arrest slush any tank face buzz drop";

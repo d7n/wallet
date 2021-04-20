@@ -1,1 +1,1 @@
-var mnemonic = "assist rival fold tool tired city blanket local nest below safe used";
+var mnemonic = "wave conduct crystal random royal emerge else term bid smooth brass palace";

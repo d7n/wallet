@@ -1,1 +1,1 @@
-var mnemonic = "mansion broken imitate unique dream damp syrup deputy mango catalog consider amount";
+var mnemonic = "name addict swing genre town castle crew laugh before praise deny cliff";

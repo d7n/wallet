@@ -1,1 +1,1 @@
-var mnemonic = "demand note leopard pioneer champion goddess sound chicken whip help acid milk";
+var mnemonic = "lake rude inner eye innocent prepare piano broccoli wine east call congress";

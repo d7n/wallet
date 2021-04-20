@@ -1,1 +1,1 @@
-var mnemonic = "powder ghost beach hospital universe frame nest rescue believe floor equal company";
+var mnemonic = "hammer squirrel chapter balance volume round obscure elite fork quote drip flower";

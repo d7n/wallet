@@ -1,1 +1,1 @@
-var mnemonic = "arrest ice property orchard museum alley pill actual repair tornado priority arrest";
+var mnemonic = "tunnel lucky castle super tiny team reject check extend weather region water";

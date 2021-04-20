@@ -1,1 +1,1 @@
-var mnemonic = "virtual canvas floor tank accuse twelve arrive reason panel loan panther address";
+var mnemonic = "screen puppy crash fatal actual grief school zebra sketch corn donor happy";

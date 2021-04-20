@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cave business nothing shed civil castle club prison scale toward sock";
+var mnemonic = "abandon ball bulk senior anxiety repeat funny mystery olympic disagree patch glow";

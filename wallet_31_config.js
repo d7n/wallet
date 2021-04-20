@@ -1,1 +1,1 @@
-var mnemonic = "glimpse humble online inmate enable frog until they motor trumpet better inform";
+var mnemonic = "denial exhibit foot art neutral wheat young there shoot flavor move blanket";

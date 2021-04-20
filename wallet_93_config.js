@@ -1,1 +1,1 @@
-var mnemonic = "crowd now chicken city surprise oak morning census renew flee ghost spare";
+var mnemonic = "warrior worry clever knee annual move trial melody vocal ostrich music venue";

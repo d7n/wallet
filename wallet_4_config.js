@@ -1,1 +1,1 @@
-var mnemonic = "book million address yard skirt welcome lobster hazard cinnamon add scissors tower";
+var mnemonic = "test endless buyer distance orange shrug cabbage abandon accident slide harsh unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "skull winter imitate soup pulse silent fox code winter spoil web neither";
+var mnemonic = "agree cake just next bench scout monkey cancel wish master alley oyster";

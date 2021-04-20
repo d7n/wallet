@@ -1,1 +1,1 @@
-var mnemonic = "shrug screen drum tide crystal nothing innocent wreck parent humor joy tomato";
+var mnemonic = "syrup wage advance apology fly appear enhance differ brand option solid stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "father age fetch zone process smile rare wool marine silent diet sad";
+var mnemonic = "describe age recycle strike vicious approve finger culture seven begin matrix curve";

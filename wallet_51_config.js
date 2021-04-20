@@ -1,1 +1,1 @@
-var mnemonic = "glide order shock hobby oven athlete ketchup cash key stairs donate cage";
+var mnemonic = "relief cover october observe inject blur alone system remind sock setup margin";

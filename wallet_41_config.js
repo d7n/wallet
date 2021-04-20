@@ -1,1 +1,1 @@
-var mnemonic = "million unfold agent hand dust buffalo shove result outdoor rigid cloud shop";
+var mnemonic = "canyon coin engine pear wash toddler decline remain tiny gun pig plug";

@@ -1,1 +1,1 @@
-var mnemonic = "blame brand clay often thank cheap all country next collect outer tragic";
+var mnemonic = "never approve speed life world situate element police roof cruel body iron";

@@ -1,1 +1,1 @@
-var mnemonic = "verb merry gentle odor pill beauty drastic sick carry apart country begin";
+var mnemonic = "invest romance kit dismiss maple dose someone mix note canoe friend delay";

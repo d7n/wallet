@@ -1,1 +1,1 @@
-var mnemonic = "spell cattle autumn salute unveil true surface tomorrow resource cross vault region";
+var mnemonic = "evolve finger life jump spawn deputy keen right border disease alarm slice";

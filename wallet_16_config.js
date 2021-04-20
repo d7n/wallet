@@ -1,1 +1,1 @@
-var mnemonic = "length that treat lecture helmet remove struggle group repair primary moral omit";
+var mnemonic = "slam wrist cancel pigeon lady monkey morning section actor dizzy traffic pretty";

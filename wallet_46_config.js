@@ -1,1 +1,1 @@
-var mnemonic = "frog banner auto tail arrange used brief goat virtual obey seminar witness";
+var mnemonic = "barely two album skull magnet multiply damage narrow live galaxy reflect cup";

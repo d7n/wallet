@@ -1,1 +1,1 @@
-var mnemonic = "infant plate arm lion elite wise mechanic wave rough inject excuse bunker";
+var mnemonic = "cliff fossil coin steak unfold scale riot next humble erupt remind share";

@@ -1,1 +1,1 @@
-var mnemonic = "silk thank banana reveal enforce donor bread want doll float harbor obtain";
+var mnemonic = "mesh mouse tank resource toward baby fantasy endorse state lawsuit logic juice";

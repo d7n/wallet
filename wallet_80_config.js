@@ -1,1 +1,1 @@
-var mnemonic = "meat peanut bag genuine rigid lyrics accuse mixed century nose corn virus";
+var mnemonic = "chase twist trouble belt artwork rather student come pretty rubber hill clump";

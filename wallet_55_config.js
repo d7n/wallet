@@ -1,1 +1,1 @@
-var mnemonic = "put capital odor spoon rigid bubble anxiety capable raccoon item check phone";
+var mnemonic = "brave civil melody exile shove gravity clever pudding gain merit sugar math";

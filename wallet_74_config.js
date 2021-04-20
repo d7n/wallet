@@ -1,1 +1,1 @@
-var mnemonic = "fetch boost certain lecture candy swear blade verify huge pioneer bargain safe";
+var mnemonic = "enhance execute crisp skill sail push shiver lucky price abandon punch bonus";

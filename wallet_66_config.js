@@ -1,1 +1,1 @@
-var mnemonic = "topple arrive cube run release envelope canal inner sheriff timber fine shadow";
+var mnemonic = "trick sauce fame hood cat act industry hidden able clarify current pulp";

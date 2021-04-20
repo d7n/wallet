@@ -1,1 +1,1 @@
-var mnemonic = "crush math vague sadness opera trip culture vanish mention myself cook fan";
+var mnemonic = "trial kidney keep unveil evil dwarf sea valley unveil uncover empower later";
