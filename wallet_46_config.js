@@ -1,1 +1,1 @@
-var mnemonic = "struggle salad tissue then fatigue ability stand pretty boost baby bomb vote";
+var mnemonic = "impact error another whisper cloth armed capital bachelor link frost below jungle";

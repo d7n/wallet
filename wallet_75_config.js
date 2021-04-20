@@ -1,1 +1,1 @@
-var mnemonic = "black volume minute give language satoshi rapid rigid dose spy author pull";
+var mnemonic = "grid ketchup region kingdom hint horn mystery flight check scare comic notice";

@@ -1,1 +1,1 @@
-var mnemonic = "stable eager security because fatigue sort invest cover square prize outside fabric";
+var mnemonic = "demand burst ripple margin glad run kangaroo engage fog puzzle price six";

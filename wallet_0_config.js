@@ -1,1 +1,1 @@
-var mnemonic = "motion monitor miracle cloth artist stage bulk shiver clean bamboo proof bronze";
+var mnemonic = "lesson comic harvest cruise engage alter keep six arm comic suffer cherry";

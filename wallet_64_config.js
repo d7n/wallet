@@ -1,1 +1,1 @@
-var mnemonic = "fat excess another meat intact unknown plate glue satisfy lion iron urge";
+var mnemonic = "perfect rather envelope battle cross tired elevator monitor vault blast lend march";

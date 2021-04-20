@@ -1,1 +1,1 @@
-var mnemonic = "divert lift govern sign trap term coast kitten kit pluck clutch sauce";
+var mnemonic = "face hood ticket wrap robust recycle empty yard opera romance emotion dune";

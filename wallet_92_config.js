@@ -1,1 +1,1 @@
-var mnemonic = "theme document smart eager damage fetch uncle adapt also tattoo twice exit";
+var mnemonic = "amateur physical cancel chest century original comic office culture sign ancient fiscal";

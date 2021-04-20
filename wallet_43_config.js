@@ -1,1 +1,1 @@
-var mnemonic = "car problem decide segment twenty hair stumble arrange later horn file crumble";
+var mnemonic = "scatter solar supreme cream spray bundle crew sell island guilt taste logic";

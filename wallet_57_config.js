@@ -1,1 +1,1 @@
-var mnemonic = "social dune bench sword once estate gasp carpet left plug ignore sadness";
+var mnemonic = "monkey easy satisfy dragon evil achieve typical category vehicle step approve response";

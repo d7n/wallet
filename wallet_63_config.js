@@ -1,1 +1,1 @@
-var mnemonic = "dizzy crunch celery random tomato coin wire bind audit cruise course salt";
+var mnemonic = "chapter friend wave culture plastic abandon behind tail ritual vivid warfare vehicle";

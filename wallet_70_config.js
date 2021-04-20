@@ -1,1 +1,1 @@
-var mnemonic = "devote say velvet volume very lecture absorb put oil wire mistake clap";
+var mnemonic = "join stuff civil gorilla nerve airport innocent there vault picture unlock theme";

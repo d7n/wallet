@@ -1,1 +1,1 @@
-var mnemonic = "race collect violin life album real anchor cheese include little surface odor";
+var mnemonic = "pledge model name trick taste produce surface burst tissue fantasy assist cage";

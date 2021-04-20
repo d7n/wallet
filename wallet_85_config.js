@@ -1,1 +1,1 @@
-var mnemonic = "ticket atom horn else urge verb despair blanket car educate obtain code";
+var mnemonic = "broken sponsor old cactus detect install convince measure easily forum category friend";

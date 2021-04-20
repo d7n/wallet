@@ -1,1 +1,1 @@
-var mnemonic = "jealous slow enforce hood wire sort stay reform busy level ignore borrow";
+var mnemonic = "volume pave still magnet diet tide battle universe entry just hood card";

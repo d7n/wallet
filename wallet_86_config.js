@@ -1,1 +1,1 @@
-var mnemonic = "bronze side coast ready creek engage boil dose slide diary impulse pilot";
+var mnemonic = "manage fragile pole bitter split art cabin canal clutch naive depth suit";

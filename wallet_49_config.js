@@ -1,1 +1,1 @@
-var mnemonic = "reject end pizza hat omit artwork title local gadget margin burst harbor";
+var mnemonic = "toy success stove trash typical barrel frost hire problem upon celery phrase";

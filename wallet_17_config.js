@@ -1,1 +1,1 @@
-var mnemonic = "addict effort situate patrol action drastic host pyramid radar usage side dice";
+var mnemonic = "assault jaguar slogan task theory nest quote kangaroo crouch riot team story";

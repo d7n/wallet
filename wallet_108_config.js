@@ -1,1 +1,1 @@
-var mnemonic = "blush review crucial huge pet bicycle inspire casino birth then scatter photo";
+var mnemonic = "august shuffle oak shiver thrive anxiety swap figure plate exact inspire demise";

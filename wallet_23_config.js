@@ -1,1 +1,1 @@
-var mnemonic = "stool bubble profit badge squirrel project chase vicious orphan ski mango stock";
+var mnemonic = "master oblige rice hawk leave page wild jazz volcano museum bunker real";

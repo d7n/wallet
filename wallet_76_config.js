@@ -1,1 +1,1 @@
-var mnemonic = "fine desk youth word luxury spray connect snap promote timber relax leopard";
+var mnemonic = "below salad wear real bonus buyer almost lottery small extra february include";

@@ -1,1 +1,1 @@
-var mnemonic = "dream raccoon glad silver include love salmon exhaust powder old pitch asthma";
+var mnemonic = "enrich issue sick beach sugar ocean talent radio sport price moon enter";

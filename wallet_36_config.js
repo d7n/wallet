@@ -1,1 +1,1 @@
-var mnemonic = "time begin labor sadness solar wrap banner employ belt circle frog future";
+var mnemonic = "mango team sample siren equip night rose survey friend give artefact sausage";

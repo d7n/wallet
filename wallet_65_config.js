@@ -1,1 +1,1 @@
-var mnemonic = "swear smooth bicycle arrive dwarf armed penalty alley tennis pear announce forum";
+var mnemonic = "acoustic chair tell shed maze useless hurt alter purpose trap brain celery";

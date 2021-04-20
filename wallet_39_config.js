@@ -1,1 +1,1 @@
-var mnemonic = "summer female you napkin drive soon upon lens child blade view beach";
+var mnemonic = "neglect undo lend battle sausage eight tourist palace flash execute action ticket";

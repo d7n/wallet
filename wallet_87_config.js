@@ -1,1 +1,1 @@
-var mnemonic = "figure leisure absent cause road crack reward idle hen cattle usage hover";
+var mnemonic = "nation sure clean belt flash expire cage betray bid reopen atom pulp";

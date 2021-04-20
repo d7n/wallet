@@ -1,1 +1,1 @@
-var mnemonic = "crater avocado answer shiver aspect erosion near maid fluid pioneer december fury";
+var mnemonic = "aisle series just pill habit topic arrow subject canoe coral play tube";

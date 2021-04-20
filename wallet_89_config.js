@@ -1,1 +1,1 @@
-var mnemonic = "possible bargain club ecology lumber review hole smart common tower manage segment";
+var mnemonic = "ask vanish bubble summer twist shove wolf cash replace high april coral";

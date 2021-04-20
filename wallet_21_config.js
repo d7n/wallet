@@ -1,1 +1,1 @@
-var mnemonic = "weather caution viable raccoon ordinary humble proud fatal zoo resist height valid";
+var mnemonic = "pelican door stone come pass modify glance east fly little scissors aim";

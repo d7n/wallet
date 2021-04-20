@@ -1,1 +1,1 @@
-var mnemonic = "mail income burger tilt inflict special nice park rug design warm patrol";
+var mnemonic = "raven milk group inspire expire steak setup broom inch exclude crater cake";

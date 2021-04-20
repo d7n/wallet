@@ -1,1 +1,1 @@
-var mnemonic = "album squirrel beyond impulse theme chat hope task frozen myself cute concert";
+var mnemonic = "quality pattern assume plate major stomach gas cabin gift polar pilot ill";

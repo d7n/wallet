@@ -1,1 +1,1 @@
-var mnemonic = "aunt bean opera decrease clip liberty warrior render boy twenty fortune weapon";
+var mnemonic = "market naive robust kingdom else replace can useless disagree east loyal check";

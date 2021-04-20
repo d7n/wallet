@@ -1,1 +1,1 @@
-var mnemonic = "profit canyon wrist poverty connect arrest profit leopard unknown surround cheap gloom";
+var mnemonic = "oval myself total give gather cause try small traffic lend baby awesome";

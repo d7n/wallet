@@ -1,1 +1,1 @@
-var mnemonic = "picnic library attack price seat great blossom winner gun liquid bulb talent";
+var mnemonic = "famous list wide damp exercise soda clap media tape fitness artefact bounce";

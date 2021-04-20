@@ -1,1 +1,1 @@
-var mnemonic = "lawn peanut ranch nose sleep whip phrase execute coyote move access next";
+var mnemonic = "sick service enrich dish leisure gas session regular token siren comic member";

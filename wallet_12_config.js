@@ -1,1 +1,1 @@
-var mnemonic = "iron oxygen wall nation near also venue drive real source dash script";
+var mnemonic = "destroy sign tape number bind electric picnic frost inquiry apology output flag";

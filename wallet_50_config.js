@@ -1,1 +1,1 @@
-var mnemonic = "envelope treat mountain robot core moral smart music meat afford alien embark";
+var mnemonic = "crop lava victory olive entire decade castle dignity nice oil empty drive";

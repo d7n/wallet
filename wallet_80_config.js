@@ -1,1 +1,1 @@
-var mnemonic = "track mercy frequent tragic differ cover zero aerobic case believe dinner inflict";
+var mnemonic = "radar spread paper draw utility truck title sound path library camera prize";

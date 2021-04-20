@@ -1,1 +1,1 @@
-var mnemonic = "walnut open endorse trust divide pledge traffic path wreck animal gain rough";
+var mnemonic = "monitor sail tattoo soul legend undo deputy stone federal main often thought";

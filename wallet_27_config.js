@@ -1,1 +1,1 @@
-var mnemonic = "clay food salad deposit doll system today scorpion old festival more cherry";
+var mnemonic = "educate transfer noble swim myself dizzy sketch recipe limb unusual special inform";

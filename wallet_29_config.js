@@ -1,1 +1,1 @@
-var mnemonic = "sick language transfer more coconut slow laundry eye essay oil width art";
+var mnemonic = "prepare suggest envelope tattoo identify mom inquiry section undo canal exhaust harvest";

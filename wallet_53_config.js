@@ -1,1 +1,1 @@
-var mnemonic = "return journey opinion tilt outer squeeze churn spike myself design whip miracle";
+var mnemonic = "depth recipe flock sing chronic spell jazz remain huge safe alert among";

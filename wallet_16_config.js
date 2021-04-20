@@ -1,1 +1,1 @@
-var mnemonic = "film century rib alien october true clutch forward vessel level wreck health";
+var mnemonic = "sauce guitar humble okay despair federal radio caution barrel wide orient horn";

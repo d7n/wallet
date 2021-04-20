@@ -1,1 +1,1 @@
-var mnemonic = "retire capital enact tongue payment flock plate squeeze lunch dolphin stool fall";
+var mnemonic = "ivory hire add avocado pave buyer tip derive normal clock parent chair";

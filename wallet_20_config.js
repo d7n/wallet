@@ -1,1 +1,1 @@
-var mnemonic = "immense apple ranch rain guide cheese hand paper shell lemon crazy fancy";
+var mnemonic = "negative boy moon lunch skill all congress stock light winner describe clap";

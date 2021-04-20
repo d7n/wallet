@@ -1,1 +1,1 @@
-var mnemonic = "tone length middle mad zone more leg zero cupboard bottom judge one";
+var mnemonic = "quick orphan diamond order chase meat nominee void juice length winter source";

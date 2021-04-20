@@ -1,1 +1,1 @@
-var mnemonic = "imitate detect galaxy remember model electric sauce brown fantasy fitness demise chalk";
+var mnemonic = "apple aerobic ginger smoke valid sausage crater badge hip come sight stool";

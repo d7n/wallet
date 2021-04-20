@@ -1,1 +1,1 @@
-var mnemonic = "waste attract sun chapter spot trend oak upon torch vocal seminar cherry";
+var mnemonic = "install kitchen inquiry deny split tone erupt price chicken steak vapor option";

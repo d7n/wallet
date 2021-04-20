@@ -1,1 +1,1 @@
-var mnemonic = "cupboard nose donate title idea school soccer nice cargo disorder sock vacant";
+var mnemonic = "guess small spoon knee what nephew gadget very ancient okay stadium member";

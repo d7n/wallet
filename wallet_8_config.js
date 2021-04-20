@@ -1,1 +1,1 @@
-var mnemonic = "narrow lucky rescue quote struggle engine robot girl romance odor weekend similar";
+var mnemonic = "stay essay buddy citizen flavor neglect certain will charge pizza cook action";

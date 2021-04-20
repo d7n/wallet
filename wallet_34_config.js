@@ -1,1 +1,1 @@
-var mnemonic = "harvest category enrich spray fortune frost impose motion private radio aunt prevent";
+var mnemonic = "smile meat voice tuition hour torch guess antique barrel output travel domain";

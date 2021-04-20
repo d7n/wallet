@@ -1,1 +1,1 @@
-var mnemonic = "black winter panel glass again kick author exhaust stamp brown breeze word";
+var mnemonic = "spare fuel license young satisfy quantum feel sweet coach artwork radar private";

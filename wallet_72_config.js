@@ -1,1 +1,1 @@
-var mnemonic = "chunk neutral scrap art shoulder buyer west inflict large multiply aspect shy";
+var mnemonic = "program enough hire twenty woman health visa bid twist enhance spot salon";

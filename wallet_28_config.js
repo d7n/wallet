@@ -1,1 +1,1 @@
-var mnemonic = "only sing useless gain truck cry popular animal common bless time can";
+var mnemonic = "initial detail liquid celery amused favorite dizzy shoe solid taste refuse sweet";

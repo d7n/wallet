@@ -1,1 +1,1 @@
-var mnemonic = "hospital code history view hobby copy wolf offer expire cake peasant add";
+var mnemonic = "spot liberty smoke august unhappy two same palm fault upset file version";

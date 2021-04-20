@@ -1,1 +1,1 @@
-var mnemonic = "over dress unfair fine pencil cotton toy category mobile region celery buyer";
+var mnemonic = "drive wild surround search legend shell pioneer use gospel dignity into cheese";

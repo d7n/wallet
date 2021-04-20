@@ -1,1 +1,1 @@
-var mnemonic = "zone olive where volcano real system appear purchase essence rally upset truck";
+var mnemonic = "armed paper memory staff fiber gas acoustic sock book sock notice surge";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst milk office loop crisp response kitchen jealous novel snake pepper nasty";
+var mnemonic = "daring museum imitate box long response trap into aunt electric squeeze feature";

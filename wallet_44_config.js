@@ -1,1 +1,1 @@
-var mnemonic = "prefer chief coyote torch filter deliver ahead census noble parade hospital cart";
+var mnemonic = "cat badge plunge require foam cushion cover exchange scheme solid coral lock";

@@ -1,1 +1,1 @@
-var mnemonic = "okay happy child old pulp federal energy floor breeze movie craft boss";
+var mnemonic = "harsh typical owner endless code perfect path before eagle write outer stay";

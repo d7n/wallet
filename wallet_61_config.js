@@ -1,1 +1,1 @@
-var mnemonic = "crumble jump kite plastic mix genius embody pond skate system success segment";
+var mnemonic = "zebra end kingdom trophy weather wing arrow sound ivory meadow upgrade shallow";

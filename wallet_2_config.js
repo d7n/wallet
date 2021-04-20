@@ -1,1 +1,1 @@
-var mnemonic = "canoe weather tray energy tiny perfect double defy alien holiday globe season";
+var mnemonic = "bone cigar wasp waste print entire click truck cushion prefer guess diesel";

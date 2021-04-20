@@ -1,1 +1,1 @@
-var mnemonic = "loud zebra regular lion load glide gorilla wish ribbon close please metal";
+var mnemonic = "melody magnet market between claim prosper turn hire blanket science first ability";

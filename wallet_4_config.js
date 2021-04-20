@@ -1,1 +1,1 @@
-var mnemonic = "south stamp fatigue scissors evidence weapon choose key mistake subject cute front";
+var mnemonic = "excuse still hello depth nuclear quit network civil december domain gate lottery";

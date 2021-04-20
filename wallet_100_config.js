@@ -1,1 +1,1 @@
-var mnemonic = "chef topple garlic honey later injury such cross winter luggage play artwork";
+var mnemonic = "reunion mind method brick blur town roast beauty sugar edge rose length";

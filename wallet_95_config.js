@@ -1,1 +1,1 @@
-var mnemonic = "fork lens among horror bachelor large jazz evolve excess equip orchard case";
+var mnemonic = "nerve finish script weekend sausage remember turn river girl gallery slide any";

@@ -1,1 +1,1 @@
-var mnemonic = "around october fox coral lemon indicate album filter above next try real";
+var mnemonic = "sample peanut police brave soap asset author ride lift eager possible wear";

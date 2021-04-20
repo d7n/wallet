@@ -1,1 +1,1 @@
-var mnemonic = "truth chunk budget magic zoo grit oil lake stand puppy install message";
+var mnemonic = "rice wrestle humble across maze lounge frog catalog away alien exit rally";

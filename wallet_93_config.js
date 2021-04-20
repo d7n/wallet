@@ -1,1 +1,1 @@
-var mnemonic = "roof dragon ostrich admit chaos puppy bargain bleak team health course bachelor";
+var mnemonic = "trust industry brown reunion lecture toast width spawn food brain follow party";

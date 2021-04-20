@@ -1,1 +1,1 @@
-var mnemonic = "surround city poverty moral shoulder ramp hotel ring order blast tumble infant";
+var mnemonic = "devote file fat idle health elegant sorry pencil ridge guard blade attract";

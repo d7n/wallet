@@ -1,1 +1,1 @@
-var mnemonic = "curtain cat flavor crumble habit acoustic water lucky flock patrol olive boy";
+var mnemonic = "vintage portion goat spatial duty problem tribe dilemma multiply pottery view maximum";

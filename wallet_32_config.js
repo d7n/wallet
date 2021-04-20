@@ -1,1 +1,1 @@
-var mnemonic = "rude maximum choice upper galaxy forest paddle street soul torch mixed check";
+var mnemonic = "live diesel angry scale two buddy dress weapon total actual once stadium";

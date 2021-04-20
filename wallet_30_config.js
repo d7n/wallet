@@ -1,1 +1,1 @@
-var mnemonic = "when enroll crop example exhaust harbor because blame work biology ski cigar";
+var mnemonic = "entry enemy arm occur board wasp torch embark quantum way bargain raccoon";

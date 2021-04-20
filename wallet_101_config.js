@@ -1,1 +1,1 @@
-var mnemonic = "mean game update session kitchen humor diary define sight pretty draft major";
+var mnemonic = "fly brain caution improve inherit moment oil access gesture risk drama machine";

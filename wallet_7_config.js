@@ -1,1 +1,1 @@
-var mnemonic = "side civil friend boring kiss february clump behave flush pipe frequent rib";
+var mnemonic = "kind casino check regular asset hip please license near urban hawk purse";

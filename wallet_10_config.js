@@ -1,1 +1,1 @@
-var mnemonic = "pyramid exit social train rice deposit degree empty direct hotel harvest cliff";
+var mnemonic = "sausage husband inherit toddler caution upgrade frozen hip track rug exhaust cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe minor punch valid moment grunt punch flush left tackle carry tornado";
+var mnemonic = "amazing enroll tissue finger donate jump trust promote beyond curtain grow pride";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver harbor rely ginger volcano tail debate capital nurse relief poet weasel";
+var mnemonic = "rabbit inherit illness faith weasel lunar vibrant evolve goddess panther weapon dizzy";

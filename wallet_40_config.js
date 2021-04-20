@@ -1,1 +1,1 @@
-var mnemonic = "diesel entire birth turn cave skate uncover tooth enrich cabin mixture trade";
+var mnemonic = "giant pioneer table small winner panther draw monkey say step cream shell";

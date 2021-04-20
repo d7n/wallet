@@ -1,1 +1,1 @@
-var mnemonic = "jelly gym arrow consider sauce scatter head tomato marine answer season era";
+var mnemonic = "rent pencil echo practice lift minimum glance convince find duty hazard front";

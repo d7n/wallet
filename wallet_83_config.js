@@ -1,1 +1,1 @@
-var mnemonic = "wet ozone chef reward inmate fox shaft master again found juice smile";
+var mnemonic = "coffee tone stem broken wagon home vessel elephant celery belt enhance use";

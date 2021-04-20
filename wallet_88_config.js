@@ -1,1 +1,1 @@
-var mnemonic = "sheriff venue assault interest slogan settle mirror charge liberty cream liar sea";
+var mnemonic = "summer repair truck industry swim point tent dish try kitten social eagle";

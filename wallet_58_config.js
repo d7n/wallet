@@ -1,1 +1,1 @@
-var mnemonic = "mention happy mansion anger sheriff hard illegal vault never congress fantasy happy";
+var mnemonic = "giant edit wine method arrow vessel wealth couple angry dumb mixture leave";

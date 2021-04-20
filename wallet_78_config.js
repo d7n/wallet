@@ -1,1 +1,1 @@
-var mnemonic = "shiver fuel come segment master index snake argue void bitter answer eager";
+var mnemonic = "exotic upon keep melody twice order meadow laundry inhale drastic canal pistol";

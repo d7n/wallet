@@ -1,1 +1,1 @@
-var mnemonic = "ginger phrase feature rain response giant dismiss ignore upper first infant know";
+var mnemonic = "embody crush taxi surprise visual thrive wild resist pottery snap merry cricket";

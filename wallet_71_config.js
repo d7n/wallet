@@ -1,1 +1,1 @@
-var mnemonic = "swift tape plug boil meadow bulk person fat rain shift urge husband";
+var mnemonic = "deputy reduce maximum clown exist ride scheme vessel claw bean mistake armed";

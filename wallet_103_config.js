@@ -1,1 +1,1 @@
-var mnemonic = "nurse pipe thrive stay security blade upper main expand marriage brief engage";
+var mnemonic = "umbrella exhaust spawn recipe garment warm success laundry museum prize banner pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "name roast era snake often aspect lonely today dose bike regular enact";
+var mnemonic = "pair destroy warrior void wheat coin meadow muffin chicken cheap apart matrix";

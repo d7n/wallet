@@ -1,1 +1,1 @@
-var mnemonic = "give foam latin siege nation summer flip adult card refuse increase hope";
+var mnemonic = "wood tree slab miracle custom melody use time fox amateur alpha athlete";

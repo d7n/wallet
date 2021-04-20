@@ -1,1 +1,1 @@
-var mnemonic = "globe grit spell mesh scheme lunch burden flower orbit flash brass reopen";
+var mnemonic = "okay blossom upset sea mechanic path trash amused bag vanish absurd sea";

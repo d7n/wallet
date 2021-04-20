@@ -1,1 +1,1 @@
-var mnemonic = "develop warm disagree swarm thing worth craft sand risk wing bag light";
+var mnemonic = "pattern treat river obvious control blossom cover very volume clinic mountain kitten";

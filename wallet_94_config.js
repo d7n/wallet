@@ -1,1 +1,1 @@
-var mnemonic = "edit follow gadget swing tiger boat fold enjoy combine scale proud duty";
+var mnemonic = "bullet distance axis finish journey remain owner donor keen mistake always over";
