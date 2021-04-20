@@ -1,1 +1,1 @@
-var mnemonic = "swallow antenna produce buffalo cabin amount possible arch double sound mind level";
+var mnemonic = "bunker rhythm fence diamond distance ozone this point magnet truck scheme subject";

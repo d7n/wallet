@@ -1,1 +1,1 @@
-var mnemonic = "call alpha nature luxury decade heavy bar job pave only bronze mimic";
+var mnemonic = "vendor display jump analyst mobile onion thumb prize someone jar increase enforce";

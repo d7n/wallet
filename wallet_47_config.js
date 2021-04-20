@@ -1,1 +1,1 @@
-var mnemonic = "scheme stadium beach glow cycle oxygen tiger pistol cool bitter outside sponsor";
+var mnemonic = "august hedgehog remove boil stereo angle lake toddler morning reform prize tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "help pull square crane pride wagon good decorate elephant pole ranch common";
+var mnemonic = "year survey pyramid mobile frost toy walnut right drum just scorpion mixed";

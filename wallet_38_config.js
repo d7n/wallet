@@ -1,1 +1,1 @@
-var mnemonic = "universe feel dwarf virtual water decorate income velvet reveal trouble frog manage";
+var mnemonic = "fluid coin blood crouch magnet venue canyon know jealous mean drastic edit";

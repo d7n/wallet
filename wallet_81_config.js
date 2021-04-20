@@ -1,1 +1,1 @@
-var mnemonic = "scheme apple awful expire film often vivid accident smile carry whale expose";
+var mnemonic = "help tail cause today chase bachelor siege until west reveal fine laptop";

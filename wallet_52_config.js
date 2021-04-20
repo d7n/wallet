@@ -1,1 +1,1 @@
-var mnemonic = "core deal burden rigid exit unveil castle edit spoil gap wonder inherit";
+var mnemonic = "kitten buffalo length vital exile armed board final enough belt exist submit";

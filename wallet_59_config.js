@@ -1,1 +1,1 @@
-var mnemonic = "robust top theory helmet guitar valid festival burger spirit cushion charge anger";
+var mnemonic = "gospel laundry bunker version pony alert myth pink person furnace risk gauge";

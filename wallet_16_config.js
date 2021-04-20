@@ -1,1 +1,1 @@
-var mnemonic = "error jelly happy before garment unaware affair hunt beach tower black harsh";
+var mnemonic = "fault gadget belt deal essay chimney dwarf lobster forum boost cry opera";

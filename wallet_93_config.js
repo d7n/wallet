@@ -1,1 +1,1 @@
-var mnemonic = "give speed tattoo cause method make under receive path observe model machine";
+var mnemonic = "carry treat firm spin opera duck melt faith forward electric innocent blanket";

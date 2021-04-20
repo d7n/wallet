@@ -1,1 +1,1 @@
-var mnemonic = "puppy quick detect sea little type detail another myself hope beef earn";
+var mnemonic = "sugar pizza joke myth echo convince worth return receive bag waste twice";

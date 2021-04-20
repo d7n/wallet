@@ -1,1 +1,1 @@
-var mnemonic = "island local veteran delay enhance escape guilt occur capable photo utility bronze";
+var mnemonic = "become trick luggage mimic federal demise elegant pilot across mandate seek video";

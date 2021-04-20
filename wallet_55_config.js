@@ -1,1 +1,1 @@
-var mnemonic = "better that wealth service host sad adjust viable sunset suspect ribbon egg";
+var mnemonic = "omit wife december current explain kite embrace artwork turtle talk ceiling relax";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean gasp minor valley love spell grab flag online busy vendor buzz";
+var mnemonic = "chimney estate arrow conduct thought exact fringe price dirt naive beauty salad";

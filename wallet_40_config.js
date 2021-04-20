@@ -1,1 +1,1 @@
-var mnemonic = "evolve quiz repair cage sock extend cheese error merge comfort decline chicken";
+var mnemonic = "spot art goddess test silk fly silent heavy knee helmet second rocket";

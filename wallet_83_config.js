@@ -1,1 +1,1 @@
-var mnemonic = "marriage pottery elevator fault nominee secret account hover federal window column lumber";
+var mnemonic = "unfair food length iron target film soda project stamp once essay this";

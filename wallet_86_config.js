@@ -1,1 +1,1 @@
-var mnemonic = "clutch fossil medal churn weasel neutral blue picture genre gravity stage reject";
+var mnemonic = "prosper trophy mass cupboard penalty pill tobacco mobile sadness connect source rural";

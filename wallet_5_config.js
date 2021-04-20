@@ -1,1 +1,1 @@
-var mnemonic = "toward promote pyramid forum toe stuff explain vault coral pelican maze burger";
+var mnemonic = "battle elbow daring awkward banner quote frequent river brief tragic skill boring";

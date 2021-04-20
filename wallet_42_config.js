@@ -1,1 +1,1 @@
-var mnemonic = "suspect confirm census ignore tell castle way laundry romance twist crack dream";
+var mnemonic = "march garage journey regret suggest liquid damage lawn choose cliff escape boil";

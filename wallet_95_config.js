@@ -1,1 +1,1 @@
-var mnemonic = "wet disorder moon robot genius food tiger leopard shift hand off cousin";
+var mnemonic = "comfort opera gasp maple dial marine illness flip visa clerk prison rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise muscle antique cactus game mosquito estate cross foster pioneer student subject";
+var mnemonic = "strike owner excess label square eye hip hungry trial final video decrease";

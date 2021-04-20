@@ -1,1 +1,1 @@
-var mnemonic = "citizen maple retreat fiction profit gentle dawn teach quote game web cousin";
+var mnemonic = "evoke rebuild fitness prison dismiss brown vital prison rigid coast neither ladder";

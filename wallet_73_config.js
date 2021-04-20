@@ -1,1 +1,1 @@
-var mnemonic = "urge strike scare sadness cupboard foster ginger talk coin analyst possible cause";
+var mnemonic = "walk few umbrella clever lion rhythm ethics stamp company design spot twin";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse corn cement fun mask noodle town pistol spawn plate scrub hawk";
+var mnemonic = "loop divide thumb bamboo village cram case memory trick scatter crystal action";

@@ -1,1 +1,1 @@
-var mnemonic = "lab system table ribbon cable main endless enjoy throw disease nothing abstract";
+var mnemonic = "march fabric verb jewel turtle receive chuckle unique better valve buffalo involve";

@@ -1,1 +1,1 @@
-var mnemonic = "prize spike dial rural talk motion monster car cash gossip change major";
+var mnemonic = "whale impact inmate hazard layer blue unknown face plate february pulse sail";

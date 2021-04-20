@@ -1,1 +1,1 @@
-var mnemonic = "double swallow one crystal move science repair matter fat trip hidden exhibit";
+var mnemonic = "act program attitude damage ramp client empty about romance stamp oblige hire";

@@ -1,1 +1,1 @@
-var mnemonic = "negative upon inform win defense fun era economy ozone intact boat debris";
+var mnemonic = "strike what joy carbon enough path detail loud salt violin judge scene";

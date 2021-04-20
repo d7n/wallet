@@ -1,1 +1,1 @@
-var mnemonic = "vast ethics humor hero melody intact drip unit foot cry market lady";
+var mnemonic = "special board wine kit review exit country diamond vital write first mule";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous advice dream wisdom food holiday vanish castle crystal pulse next guess";
+var mnemonic = "parrot border view aisle brave copper hour slender month armed off govern";

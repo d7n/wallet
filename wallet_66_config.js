@@ -1,1 +1,1 @@
-var mnemonic = "unlock drastic rhythm frown destroy busy bless entire try nut base jealous";
+var mnemonic = "reject response cycle abuse soldier helmet awesome pill help lift belt gate";

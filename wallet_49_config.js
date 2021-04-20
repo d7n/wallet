@@ -1,1 +1,1 @@
-var mnemonic = "cook inside body edit already page sentence vanish motor thrive never cancel";
+var mnemonic = "purpose walk another medal claim online air kind museum involve crazy pioneer";

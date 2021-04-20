@@ -1,1 +1,1 @@
-var mnemonic = "desk duty fabric bargain vivid occur drastic electric insane prefer observe street";
+var mnemonic = "ostrich scout oxygen raven glare subject walk behave ribbon cup multiply dog";

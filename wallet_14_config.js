@@ -1,1 +1,1 @@
-var mnemonic = "pyramid notable youth exotic connect sketch crouch gate motor radio lobster horse";
+var mnemonic = "mouse vital alert side hockey blame knee belt echo tired peanut kingdom";

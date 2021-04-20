@@ -1,1 +1,1 @@
-var mnemonic = "consider hammer unable spider combine renew win assist enemy client deposit stuff";
+var mnemonic = "setup source desert between coconut fire recipe drum energy neither stand develop";

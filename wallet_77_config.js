@@ -1,1 +1,1 @@
-var mnemonic = "shove kidney turkey frown trap always quick minor reduce annual maze trophy";
+var mnemonic = "among ethics aisle fashion alcohol adjust cram boil grit bundle wrist armed";

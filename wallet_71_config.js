@@ -1,1 +1,1 @@
-var mnemonic = "vault lyrics choice amateur receive armed access affair must top gas lyrics";
+var mnemonic = "cricket spoon program magnet sheriff prepare head face kite about wet student";

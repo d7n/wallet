@@ -1,1 +1,1 @@
-var mnemonic = "armor rapid banana spend river pattern six next rich kit nurse bless";
+var mnemonic = "actress logic random cable magnet source cereal tape swear emerge motion man";

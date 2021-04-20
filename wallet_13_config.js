@@ -1,1 +1,1 @@
-var mnemonic = "property area grape link change runway afraid dragon live exact energy polar";
+var mnemonic = "misery long slim next owner tribe cat master stable dinosaur donate impact";

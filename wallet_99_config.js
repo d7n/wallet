@@ -1,1 +1,1 @@
-var mnemonic = "soccer giggle diary favorite ostrich normal adjust misery observe kiwi hammer cool";
+var mnemonic = "energy traffic axis annual walnut skate reveal board verb expire pottery practice";

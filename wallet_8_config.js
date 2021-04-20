@@ -1,1 +1,1 @@
-var mnemonic = "candy pave ethics point tunnel surge frame purchase mammal slow afford glory";
+var mnemonic = "patient digital puzzle fault observe spend add sorry cost mushroom credit motor";

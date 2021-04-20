@@ -1,1 +1,1 @@
-var mnemonic = "supreme draw card rifle swing random desk era nation brush elegant valid";
+var mnemonic = "ten useless tower festival elevator couch deliver silly save fault virtual improve";

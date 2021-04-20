@@ -1,1 +1,1 @@
-var mnemonic = "clog other carry lizard wife peasant anger virtual outdoor social since salad";
+var mnemonic = "uncover arrow model elite outer stomach guitar wasp desert segment civil flash";

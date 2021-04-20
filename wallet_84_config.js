@@ -1,1 +1,1 @@
-var mnemonic = "feel stand alter food title title bulk love uniform dismiss account ball";
+var mnemonic = "icon broccoli neither thunder aisle frown chronic bright return boil relief attack";

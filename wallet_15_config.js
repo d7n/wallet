@@ -1,1 +1,1 @@
-var mnemonic = "west venue tail river volcano target clean raise talk divide sword valley";
+var mnemonic = "volume media cross develop empower chimney theory consider race now radar grab";

@@ -1,1 +1,1 @@
-var mnemonic = "valve wrap universe grief uphold axis sister team bright jealous sample upon";
+var mnemonic = "broom slot boost obtain wasp draft loud adult crash trick token extra";

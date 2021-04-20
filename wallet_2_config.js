@@ -1,1 +1,1 @@
-var mnemonic = "electric arctic purse basic cactus decline suffer unit lucky athlete soldier tilt";
+var mnemonic = "salmon neutral forget visa once improve nothing because equal chapter that twice";

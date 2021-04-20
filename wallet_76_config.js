@@ -1,1 +1,1 @@
-var mnemonic = "solution brave develop taste harvest gauge figure soft fresh artwork pretty mandate";
+var mnemonic = "poet maple promote rookie album soup tackle fatigue fringe furnace large enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub give topple soul grape twist decrease buddy code cloud beach tonight";
+var mnemonic = "innocent armed moon jump evolve unknown alone riot federal dose swamp approve";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue hurdle one clerk shoot demand horse orange spin worry dragon edit";
+var mnemonic = "pact tomorrow put tent airport assist hip element remind surface stool motion";

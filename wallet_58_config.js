@@ -1,1 +1,1 @@
-var mnemonic = "act tide fade tree alcohol acquire field element weather uphold slim comic";
+var mnemonic = "twin runway arena spy aisle comic hamster drum coil mixed mouse meadow";

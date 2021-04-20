@@ -1,1 +1,1 @@
-var mnemonic = "good science junk planet artefact approve label metal room south person can";
+var mnemonic = "pool pistol first six evil security farm easy twist boring excuse govern";

@@ -1,1 +1,1 @@
-var mnemonic = "floor hamster art skate sponsor kingdom buzz fan summer stamp fame coil";
+var mnemonic = "social nature circle name combine try inject spoon regular salon rain abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle labor thumb slot know retreat credit snow breeze master legal fog";
+var mnemonic = "response fresh transfer mammal eight chest heavy canyon smoke bone lion detail";

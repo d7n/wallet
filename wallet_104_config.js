@@ -1,1 +1,1 @@
-var mnemonic = "blur capital inquiry chuckle grocery silk now shaft spirit bless point debris";
+var mnemonic = "illegal bind wall thunder right junk truly noise surge skate such fragile";

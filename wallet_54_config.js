@@ -1,1 +1,1 @@
-var mnemonic = "expect trouble father bunker pipe prosper club penalty unaware letter absent beef";
+var mnemonic = "peanut rookie mango mad orient tonight coyote hurt genuine laugh simple shy";

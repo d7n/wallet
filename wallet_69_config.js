@@ -1,1 +1,1 @@
-var mnemonic = "west unveil hungry rent stamp energy stadium edge become gaze steak october";
+var mnemonic = "mechanic undo jaguar actress diamond always include dice detail lyrics tobacco pottery";

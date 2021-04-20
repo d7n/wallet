@@ -1,1 +1,1 @@
-var mnemonic = "client history regular umbrella goddess invest whale indicate carpet chapter ride weekend";
+var mnemonic = "just village used sauce weekend message ginger avocado access office popular raw";

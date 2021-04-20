@@ -1,1 +1,1 @@
-var mnemonic = "network thumb catch elephant fence seed baby length found twice frame model";
+var mnemonic = "ancient cute mandate ginger message consider produce praise accuse cage autumn tongue";

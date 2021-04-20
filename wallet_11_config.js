@@ -1,1 +1,1 @@
-var mnemonic = "control fee reopen language estate best same mansion dolphin clay lend tell";
+var mnemonic = "battle foster thing until crack spread stand measure section praise tattoo rigid";

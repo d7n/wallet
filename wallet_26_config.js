@@ -1,1 +1,1 @@
-var mnemonic = "day quote manual exclude mansion useless attract derive end pigeon pilot amateur";
+var mnemonic = "never glad absent casual arch vehicle shove kingdom obey alpha bounce glide";

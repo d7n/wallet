@@ -1,1 +1,1 @@
-var mnemonic = "illness curious tell cage resource rural frozen velvet donor explain property crumble";
+var mnemonic = "lonely pizza seed step juice umbrella type online evolve forget banana vacuum";

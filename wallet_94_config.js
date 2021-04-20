@@ -1,1 +1,1 @@
-var mnemonic = "wild purpose brisk allow medal dream cricket human ramp jazz raw boy";
+var mnemonic = "luggage spike force hotel trophy enroll canal supreme tooth hollow number utility";

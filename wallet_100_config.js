@@ -1,1 +1,1 @@
-var mnemonic = "hair alien nose equal hint boost swift simple poverty save powder parade";
+var mnemonic = "oyster slight loud wire hotel play box marble ghost orient output index";

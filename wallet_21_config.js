@@ -1,1 +1,1 @@
-var mnemonic = "popular faculty enjoy giggle awesome school trend small inhale act vacant sign";
+var mnemonic = "pony ritual climb doll timber same water flight story lady snap female";

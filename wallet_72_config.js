@@ -1,1 +1,1 @@
-var mnemonic = "wait tonight entire quarter gym token excess soccer genuine gain slogan nest";
+var mnemonic = "bronze swamp girl three quit book claw what when melody cactus goose";

@@ -1,1 +1,1 @@
-var mnemonic = "swear human ketchup proof bubble fault domain gasp clinic bone taste jacket";
+var mnemonic = "split cotton metal brisk anger short second truth spot wide exist type";

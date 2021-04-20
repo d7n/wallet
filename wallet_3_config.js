@@ -1,1 +1,1 @@
-var mnemonic = "solution during sea resemble danger ridge void pupil ramp expand poem vehicle";
+var mnemonic = "jacket zone diesel swift record cook rebuild genre various nuclear win bench";

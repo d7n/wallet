@@ -1,1 +1,1 @@
-var mnemonic = "curve chronic alarm quote fox prefer dismiss priority rose retreat copy video";
+var mnemonic = "text life sausage perfect trigger alone brief include lunar fresh essence tomorrow";

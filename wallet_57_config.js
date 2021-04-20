@@ -1,1 +1,1 @@
-var mnemonic = "forget merit private green believe parade credit parrot air struggle erosion ten";
+var mnemonic = "area nerve dad vault moon plate mesh swarm trumpet employ concert regular";

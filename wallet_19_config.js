@@ -1,1 +1,1 @@
-var mnemonic = "shrug suggest gas expand expand nothing draw jeans rely hospital flee pair";
+var mnemonic = "illness notable ethics lake thumb beef congress acoustic alarm drop pretty captain";

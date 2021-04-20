@@ -1,1 +1,1 @@
-var mnemonic = "random lyrics undo ladder horse between behave diagram alpha any erosion typical";
+var mnemonic = "much quarter misery goat tragic mercy often jelly horror luggage invest outside";

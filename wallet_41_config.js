@@ -1,1 +1,1 @@
-var mnemonic = "unfold about unknown tent copper real senior kingdom forget limit ship symptom";
+var mnemonic = "play bomb language grunt apology coil once ill time rifle sea feature";

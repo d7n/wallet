@@ -1,1 +1,1 @@
-var mnemonic = "wrestle key armed fiscal umbrella melody stereo female blush duck switch maid";
+var mnemonic = "april erode wreck sail industry unable market success aspect release tired interest";

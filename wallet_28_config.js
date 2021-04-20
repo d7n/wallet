@@ -1,1 +1,1 @@
-var mnemonic = "pretty exhaust enable strategy caught fiber doctor control border faculty power figure";
+var mnemonic = "struggle clip feed spice enforce breeze category member width flight whale chapter";

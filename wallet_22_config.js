@@ -1,1 +1,1 @@
-var mnemonic = "month note erosion vague borrow report window fortune float episode harbor holiday";
+var mnemonic = "heavy tree few flock sustain shrug solution leaf knock thumb cushion focus";

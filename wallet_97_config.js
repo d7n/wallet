@@ -1,1 +1,1 @@
-var mnemonic = "curve purse flash wheel afraid rebuild output finish alien frame magic crane";
+var mnemonic = "custom task spawn pact marble spare cram clever sock rifle very copper";

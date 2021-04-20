@@ -1,1 +1,1 @@
-var mnemonic = "surprise cheese board maze assault grape icon soft puppy large tooth skill";
+var mnemonic = "opera track color cannon lend decorate hat smart coffee vocal crunch road";

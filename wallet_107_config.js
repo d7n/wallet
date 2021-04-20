@@ -1,1 +1,1 @@
-var mnemonic = "fun pond frozen host scan shrimp public bulb taxi grow drip crystal";
+var mnemonic = "fatal slogan come uniform tray brother snake forest place usual argue senior";

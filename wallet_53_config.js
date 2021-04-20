@@ -1,1 +1,1 @@
-var mnemonic = "sadness plug raise play physical kangaroo vacant allow either current donate genre";
+var mnemonic = "bridge maximum surround tornado coast mail flat person involve cannon rent ozone";

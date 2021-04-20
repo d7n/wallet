@@ -1,1 +1,1 @@
-var mnemonic = "window absorb trial charge stay acoustic analyst absent wrap trophy damp pottery";
+var mnemonic = "shy juice all coin poet what portion time repair illegal mango tomorrow";

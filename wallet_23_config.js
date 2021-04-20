@@ -1,1 +1,1 @@
-var mnemonic = "humor gorilla turtle visit stomach spin tube task output empty scare resist";
+var mnemonic = "fatigue title install second funny rice hazard urge today world laundry access";

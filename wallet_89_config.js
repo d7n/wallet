@@ -1,1 +1,1 @@
-var mnemonic = "thank extra flavor toe round lyrics typical private urge dentist talk vibrant";
+var mnemonic = "answer coach adapt dynamic issue sheriff property ginger misery limit arrange forget";

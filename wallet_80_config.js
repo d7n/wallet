@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon guilt tail immune skate actor lend glow uncle mechanic planet game";
+var mnemonic = "chimney keen undo core vivid milk used consider tomorrow crew stay letter";

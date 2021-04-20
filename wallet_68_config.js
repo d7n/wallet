@@ -1,1 +1,1 @@
-var mnemonic = "now combine crumble man eagle laugh lab sketch top oblige into siege";
+var mnemonic = "humor avocado life middle dumb blush stone claw wreck diagram cement system";

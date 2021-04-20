@@ -1,1 +1,1 @@
-var mnemonic = "call fatal burst divide stock female connect light yellow donkey bachelor increase";
+var mnemonic = "text radio math narrow circle envelope park conduct strategy what promote window";

@@ -1,1 +1,1 @@
-var mnemonic = "real any square inspire today window erupt robot random bitter grab stand";
+var mnemonic = "hero asthma insane stem change cost illness exclude echo patient neglect clog";

@@ -1,1 +1,1 @@
-var mnemonic = "prison scare sleep sick lamp loop camera thunder drip save barely crumble";
+var mnemonic = "tackle taste topple lottery audit mutual idle limit junk text cupboard coach";
