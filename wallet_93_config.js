@@ -1,1 +1,1 @@
-var mnemonic = "shop exotic put message fatigue moon excuse strike grocery like evil crazy";
+var mnemonic = "useless trouble hurt elevator galaxy night sting put riot brain water middle";

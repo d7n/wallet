@@ -1,1 +1,1 @@
-var mnemonic = "jungle vessel fee chase auto tube demand fit rural casual gospel cradle";
+var mnemonic = "trap bulb hire stock amazing divorce adapt expect napkin solid diesel zebra";

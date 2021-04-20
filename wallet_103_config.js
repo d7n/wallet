@@ -1,1 +1,1 @@
-var mnemonic = "patient celery crowd throw bread coil equal ankle cabbage harvest demand destroy";
+var mnemonic = "stage deer language quantum above title hire forget thank delay put because";

@@ -1,1 +1,1 @@
-var mnemonic = "omit fortune chase subject coin era diamond spread kite quote pretty cherry";
+var mnemonic = "point marriage injury industry bag strong file fatigue exotic leaf uniform primary";

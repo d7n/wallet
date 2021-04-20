@@ -1,1 +1,1 @@
-var mnemonic = "phrase divert kangaroo lab swing talk kind sample buyer oak settle young";
+var mnemonic = "soccer material stock capital sunset smooth planet clap galaxy mansion mango thing";

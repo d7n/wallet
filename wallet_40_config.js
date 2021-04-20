@@ -1,1 +1,1 @@
-var mnemonic = "program discover zebra floor large suffer mountain panther assume desert fitness shallow";
+var mnemonic = "trim drive merit potato snack mistake hub pet ring february please fence";

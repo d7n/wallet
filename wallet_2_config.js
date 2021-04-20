@@ -1,1 +1,1 @@
-var mnemonic = "render toe front bundle hand black term spread vote number around actress";
+var mnemonic = "merge work action connect gentle tiger feature save catch asset oblige arrive";

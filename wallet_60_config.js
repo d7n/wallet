@@ -1,1 +1,1 @@
-var mnemonic = "forest humble exclude swarm always number bus useless tuition sweet about outside";
+var mnemonic = "fetch expect rose defense you rival grunt hotel share parent exit mandate";

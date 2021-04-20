@@ -1,1 +1,1 @@
-var mnemonic = "damage champion excite furnace afraid text thing spirit cover movie festival earn";
+var mnemonic = "add apple play retreat way unhappy animal tribe couple castle fly raven";

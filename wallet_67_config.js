@@ -1,1 +1,1 @@
-var mnemonic = "nose purpose cry steel rebuild scout bread position half conduct boring all";
+var mnemonic = "prepare rescue table recycle bring size glad caught little robust round habit";

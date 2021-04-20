@@ -1,1 +1,1 @@
-var mnemonic = "party debate habit enhance wasp this they code gadget detect faint quarter";
+var mnemonic = "voyage caught edge snap payment rude anxiety science toast start diesel need";

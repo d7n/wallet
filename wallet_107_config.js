@@ -1,1 +1,1 @@
-var mnemonic = "derive soap once door simple ring rocket wheat attitude oven decorate chapter";
+var mnemonic = "cruel annual organ thing ketchup gasp attend sample clown decade ten decline";

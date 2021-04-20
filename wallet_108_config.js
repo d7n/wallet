@@ -1,1 +1,1 @@
-var mnemonic = "govern nose fury pluck staff enhance social agent defy sphere fault tunnel";
+var mnemonic = "visa plug zebra salmon cup lonely false orient fluid bacon topple dove";

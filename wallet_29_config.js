@@ -1,1 +1,1 @@
-var mnemonic = "come gaze car mask live glow boost clutch real rapid puppy run";
+var mnemonic = "turn sunset correct swallow capable settle brisk woman name coil carpet hour";

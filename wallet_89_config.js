@@ -1,1 +1,1 @@
-var mnemonic = "visit huge rhythm demand achieve logic valley family another impose suit ahead";
+var mnemonic = "deny oval hamster bless leopard actual budget bus insane escape cool tray";

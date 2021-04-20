@@ -1,1 +1,1 @@
-var mnemonic = "spatial chicken merry thumb oven unknown miss admit ladder oppose ridge zone";
+var mnemonic = "garden pitch myself jelly game guitar hair atom ecology begin jar sausage";

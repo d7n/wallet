@@ -1,1 +1,1 @@
-var mnemonic = "only snake know smooth match topic catch demise actress useful wasp glimpse";
+var mnemonic = "credit warm autumn reject air congress future year rare small staff nut";

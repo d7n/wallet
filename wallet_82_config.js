@@ -1,1 +1,1 @@
-var mnemonic = "muffin write unusual employ face vessel hill dynamic caught lava tunnel arena";
+var mnemonic = "awake lunar ability never trophy miss dial sponsor hollow essence idea warm";

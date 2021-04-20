@@ -1,1 +1,1 @@
-var mnemonic = "food mountain vapor gossip judge plastic hockey hammer spoon neither already shaft";
+var mnemonic = "modify crater poem upon suspect twenty planet world hunt bomb mad common";

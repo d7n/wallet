@@ -1,1 +1,1 @@
-var mnemonic = "chalk outside catalog carpet demise cupboard apart must critic expire trash armed";
+var mnemonic = "economy check ranch cheap spider tuition skate oven evoke basket shiver rigid";

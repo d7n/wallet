@@ -1,1 +1,1 @@
-var mnemonic = "size surprise deputy educate hub output bean menu fetch crush dog behind";
+var mnemonic = "play wrestle bundle never fan crater surprise frequent release mimic weird claim";

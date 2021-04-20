@@ -1,1 +1,1 @@
-var mnemonic = "chunk patrol clever radar garbage sure body then abandon accident metal mix";
+var mnemonic = "disease shell crunch ice glad monitor bike hold oven rhythm congress already";

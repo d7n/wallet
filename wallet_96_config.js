@@ -1,1 +1,1 @@
-var mnemonic = "cook speak unlock pill antique pig physical soldier useless motor disorder midnight";
+var mnemonic = "please explain deputy payment symbol medal volcano zero now faculty asset submit";

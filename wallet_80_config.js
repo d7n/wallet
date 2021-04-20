@@ -1,1 +1,1 @@
-var mnemonic = "rally march orchard sunset concert sight dynamic again disagree siege oyster bring";
+var mnemonic = "speak tuition engage hungry season spot call math carbon sweet zero arrest";

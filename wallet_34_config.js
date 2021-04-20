@@ -1,1 +1,1 @@
-var mnemonic = "celery wisdom yellow taxi tackle radio stuff already unique galaxy canal coconut";
+var mnemonic = "admit zone funny exact proud casual silent survey harvest add favorite force";

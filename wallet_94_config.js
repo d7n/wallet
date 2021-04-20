@@ -1,1 +1,1 @@
-var mnemonic = "jacket pumpkin unfair bean matter sting enable enhance visa pink enforce photo";
+var mnemonic = "october rebel brass post ring foot chimney situate vote delay genuine stove";

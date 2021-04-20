@@ -1,1 +1,1 @@
-var mnemonic = "half ankle north purse rival window hockey sad minor rail wasp beauty";
+var mnemonic = "unfair evil brick hybrid flash mountain opinion rival truck garage spoil vault";

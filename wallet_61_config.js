@@ -1,1 +1,1 @@
-var mnemonic = "idea fly clay awkward trumpet radar practice nut wild regret hammer extend";
+var mnemonic = "swarm warrior upset siren knock wrap icon spawn crunch almost lumber liar";

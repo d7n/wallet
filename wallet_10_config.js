@@ -1,1 +1,1 @@
-var mnemonic = "party story journey country stand gap entry eagle blossom item where twenty";
+var mnemonic = "worry luxury dignity parrot million hamster increase eyebrow october thing final powder";

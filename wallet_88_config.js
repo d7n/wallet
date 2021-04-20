@@ -1,1 +1,1 @@
-var mnemonic = "decide hidden kiss pepper romance soccer energy quote index month find dismiss";
+var mnemonic = "day avoid lawn eye trade auto sound flip load decline atom seed";

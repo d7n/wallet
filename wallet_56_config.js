@@ -1,1 +1,1 @@
-var mnemonic = "favorite effort cycle slush adjust jazz easy tent endorse uncle day quarter";
+var mnemonic = "scare blur nerve city measure sorry initial audit pretty danger two worth";

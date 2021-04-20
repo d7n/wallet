@@ -1,1 +1,1 @@
-var mnemonic = "calm today thing protect cycle donkey rescue mandate sure song trap merry";
+var mnemonic = "sweet sand inhale cabin debris possible spray black odor piece waste clinic";

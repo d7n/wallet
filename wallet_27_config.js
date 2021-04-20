@@ -1,1 +1,1 @@
-var mnemonic = "giraffe chat trick heavy wave gift bless advance rug frequent hobby sauce";
+var mnemonic = "foil bright happy wife off arrive unhappy credit fire finger drop wash";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger road weird culture thank check above father bleak web pizza recycle";
+var mnemonic = "menu icon ladder wave elevator before sugar absent belt crumble glue mouse";

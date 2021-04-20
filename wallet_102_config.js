@@ -1,1 +1,1 @@
-var mnemonic = "common mistake arctic ripple goose pulse similar impose crowd apple blade delay";
+var mnemonic = "endorse brand insane already lyrics drama army donkey joy oppose what clay";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare blue fitness large drama tornado cattle menu arctic keep game control";
+var mnemonic = "private focus earth century female over once believe situate rude pet increase";

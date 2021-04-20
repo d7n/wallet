@@ -1,1 +1,1 @@
-var mnemonic = "valid horse august crime range shy resist denial novel dumb pulp ticket";
+var mnemonic = "organ clay margin diamond fortune must rude throw exchange collect attitude goose";

@@ -1,1 +1,1 @@
-var mnemonic = "input pottery race rebuild baby family there tennis busy plunge ability subway";
+var mnemonic = "divide rate figure evolve typical element color object squeeze home organ tortoise";

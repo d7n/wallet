@@ -1,1 +1,1 @@
-var mnemonic = "boost medal rail stool behind critic you bring fan brass foam panel";
+var mnemonic = "grain bike seat figure maximum message depend pepper grief lava emerge virus";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm stomach glue lunch inform federal donate comfort high salute rely plunge";
+var mnemonic = "day stamp kit pave rookie moment luggage steak mad giant then spring";

@@ -1,1 +1,1 @@
-var mnemonic = "morning motor joy core private easy reform victory dove provide crime gloom";
+var mnemonic = "genius jump drop game typical base project purse post space grab foot";

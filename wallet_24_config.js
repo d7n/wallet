@@ -1,1 +1,1 @@
-var mnemonic = "habit venue later winter add hotel draw universe message slow saddle region";
+var mnemonic = "absurd shaft coconut neutral gas exhaust wreck cousin upper glimpse security liberty";

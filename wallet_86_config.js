@@ -1,1 +1,1 @@
-var mnemonic = "harsh little room guitar glide buddy hollow problem stumble shoulder electric address";
+var mnemonic = "right vendor artefact goat puppy hill shrug gravity raccoon goose student gasp";

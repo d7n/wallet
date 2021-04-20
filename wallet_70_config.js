@@ -1,1 +1,1 @@
-var mnemonic = "scrap few adult disagree trend diary snow autumn robust dust system pioneer";
+var mnemonic = "eager manage speed coast middle action occur size fancy misery dignity ordinary";

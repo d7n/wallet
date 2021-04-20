@@ -1,1 +1,1 @@
-var mnemonic = "brisk thought save toy return decorate mushroom rough decline clump alarm human";
+var mnemonic = "weather collect napkin flip between pulse rare maid oxygen casino aspect gate";

@@ -1,1 +1,1 @@
-var mnemonic = "cement balcony pride twelve soldier auto praise divorce hope special nominee awful";
+var mnemonic = "agree cinnamon when myth clog control bargain muscle vehicle sign spoil blind";

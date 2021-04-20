@@ -1,1 +1,1 @@
-var mnemonic = "regret zone find security tone snake anger degree muffin stage swallow shift";
+var mnemonic = "valley traffic marine disorder crack problem aware tackle thrive reform guilt fire";

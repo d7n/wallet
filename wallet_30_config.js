@@ -1,1 +1,1 @@
-var mnemonic = "assume equip impact agree strong execute produce effort cart churn fortune top";
+var mnemonic = "soup purity arena style mobile bullet mad tonight hour zero unfold float";

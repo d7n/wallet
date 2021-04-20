@@ -1,1 +1,1 @@
-var mnemonic = "boy era parade card jaguar trade cost athlete current odor major refuse";
+var mnemonic = "margin valve member steel move cave stable scrap slight mammal penalty swim";

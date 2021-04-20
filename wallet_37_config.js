@@ -1,1 +1,1 @@
-var mnemonic = "live bronze rapid margin paddle flavor delay regular rice jealous lunch grocery";
+var mnemonic = "buffalo dutch fade cigar twice cattle fly release laptop unknown health dynamic";

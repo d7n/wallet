@@ -1,1 +1,1 @@
-var mnemonic = "purpose absorb loop shiver together bonus explain camera banana normal zero casual";
+var mnemonic = "cash siege machine essence phrase rail slide image obey document bitter logic";

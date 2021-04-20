@@ -1,1 +1,1 @@
-var mnemonic = "medal interest release point secret produce sport emotion clever truth just kite";
+var mnemonic = "virtual ensure chicken cinnamon toe involve crash tank age rally mail brave";

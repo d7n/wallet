@@ -1,1 +1,1 @@
-var mnemonic = "armed outer dream waste since derive pottery shoot fiscal ignore luggage valley";
+var mnemonic = "divorce laugh autumn hard plug travel flower caution cost settle dragon miracle";

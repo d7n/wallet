@@ -1,1 +1,1 @@
-var mnemonic = "runway confirm elegant hint spider inquiry change company field virtual scene wisdom";
+var mnemonic = "grace relief taste snap rotate pattern mouse unaware pull wash badge lab";

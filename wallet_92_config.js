@@ -1,1 +1,1 @@
-var mnemonic = "jeans peanut parent muffin diary fee document injury sea miss dad agent";
+var mnemonic = "corn just sweet grape plate sell call truck rifle access latin history";

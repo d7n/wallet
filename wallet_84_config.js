@@ -1,1 +1,1 @@
-var mnemonic = "say world turkey enroll horror pelican beef horse volcano tower steel example";
+var mnemonic = "plate document album vivid utility result shell divorce unable traffic midnight blind";

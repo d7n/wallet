@@ -1,1 +1,1 @@
-var mnemonic = "trigger estate dutch verify mistake silk student rebel tell city deny plastic";
+var mnemonic = "path magic acoustic buyer fog top bleak local venture fragile satoshi setup";

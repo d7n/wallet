@@ -1,1 +1,1 @@
-var mnemonic = "surround current display smart there cute stool legend patrol spell among family";
+var mnemonic = "boy card cheese memory sweet novel slogan flock middle creek razor begin";

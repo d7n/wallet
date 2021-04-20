@@ -1,1 +1,1 @@
-var mnemonic = "random mail phrase intact chaos smooth bird noise month flower divert radar";
+var mnemonic = "swarm guitar arrest street keen belt reflect album actress rather laundry bind";

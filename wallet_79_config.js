@@ -1,1 +1,1 @@
-var mnemonic = "puppy duty bind elder fee where quality turtle brief struggle certain bless";
+var mnemonic = "balance door chaos slender logic craft toast steak minute rapid develop human";

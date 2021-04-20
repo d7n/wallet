@@ -1,1 +1,1 @@
-var mnemonic = "twist oval primary round race analyst subject click axis grace ask abstract";
+var mnemonic = "private broom armor female now satoshi nature chronic uphold grief year horror";

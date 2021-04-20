@@ -1,1 +1,1 @@
-var mnemonic = "much manual expire twelve travel salute satoshi royal angle reason weird easy";
+var mnemonic = "staff wheel chest buddy crucial forget indoor object sorry moment orbit spy";

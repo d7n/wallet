@@ -1,1 +1,1 @@
-var mnemonic = "tell object salmon trigger clock icon demise claw current great venue theme";
+var mnemonic = "vicious raven refuse health arrive crowd fox desert trade ranch ocean soda";

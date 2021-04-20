@@ -1,1 +1,1 @@
-var mnemonic = "shop ugly paper maple pilot neutral eagle annual weapon define error mom";
+var mnemonic = "fatal denial ship moment uncover net govern harvest lake donate inflict garden";

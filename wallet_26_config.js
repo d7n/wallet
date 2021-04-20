@@ -1,1 +1,1 @@
-var mnemonic = "cube glad snake relax choose identify ticket wise hover success session hello";
+var mnemonic = "vocal please deposit tape message comic chief combine rally before animal canoe";

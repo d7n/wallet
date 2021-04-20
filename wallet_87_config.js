@@ -1,1 +1,1 @@
-var mnemonic = "ivory congress power meat describe okay weapon warfare choose mix barrel friend";
+var mnemonic = "casino table neglect parrot load final oak mountain rally dragon provide brand";

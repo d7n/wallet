@@ -1,1 +1,1 @@
-var mnemonic = "hire laptop vanish divorce apology model face market decade option stereo design";
+var mnemonic = "swamp prepare worry stomach pen usual traffic hen wreck clock lottery vicious";

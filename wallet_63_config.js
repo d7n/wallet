@@ -1,1 +1,1 @@
-var mnemonic = "muscle menu wheel crawl file wool truly any park govern trigger reward";
+var mnemonic = "figure medal theory grab surprise tumble neither light mammal deposit remember push";

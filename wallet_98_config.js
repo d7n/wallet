@@ -1,1 +1,1 @@
-var mnemonic = "horror immune chef pluck key receive observe execute neck envelope check damp";
+var mnemonic = "talk isolate brush mistake smile aspect ski runway short recipe nuclear first";

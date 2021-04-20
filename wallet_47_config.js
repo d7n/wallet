@@ -1,1 +1,1 @@
-var mnemonic = "airport wheel hidden grow cradle number piece promote nation lazy honey slab";
+var mnemonic = "owner ancient earn morning ship supreme thumb loop world defy setup energy";

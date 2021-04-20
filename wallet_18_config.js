@@ -1,1 +1,1 @@
-var mnemonic = "wolf labor claw clown sport carpet pull scatter liar decide three ozone";
+var mnemonic = "cool dwarf enforce glow recall useful simple toe uncle stand keep eye";

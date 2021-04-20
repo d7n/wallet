@@ -1,1 +1,1 @@
-var mnemonic = "rail party noodle dress ketchup hurdle already job fame indoor bulb cross";
+var mnemonic = "vicious crunch receive muscle dinosaur eternal problem arctic scan knock exact earn";

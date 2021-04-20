@@ -1,1 +1,1 @@
-var mnemonic = "pause army zebra basic giant wire thank steel elite relief orchard fit";
+var mnemonic = "cloth relief jaguar parent liquid news rebel dentist skin coil cattle rent";

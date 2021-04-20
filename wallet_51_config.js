@@ -1,1 +1,1 @@
-var mnemonic = "bench trust upper museum stuff mystery paddle ankle humble episode turtle damp";
+var mnemonic = "fog ceiling weasel include collect magnet romance sibling wreck shock dad stock";

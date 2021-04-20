@@ -1,1 +1,1 @@
-var mnemonic = "usual veteran manage emotion reveal donor picture eager pen tip accuse ship";
+var mnemonic = "scrap catalog glass manual omit jar dinosaur decade follow song list observe";

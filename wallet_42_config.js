@@ -1,1 +1,1 @@
-var mnemonic = "myth member notice laundry host crime blur actress toss witness chuckle leisure";
+var mnemonic = "caution obey furnace job sad devote curtain phone green clock crystal swift";

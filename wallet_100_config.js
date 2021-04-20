@@ -1,1 +1,1 @@
-var mnemonic = "educate runway write turtle code broccoli flag soccer boil fiction admit monster";
+var mnemonic = "unusual host there medal shield gasp supreme accident draw vocal shiver ball";

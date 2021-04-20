@@ -1,1 +1,1 @@
-var mnemonic = "ghost million tone violin buzz pull wine icon unknown bless airport expose";
+var mnemonic = "doll eyebrow liar jacket destroy defense boil other replace harvest material early";

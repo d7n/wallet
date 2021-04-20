@@ -1,1 +1,1 @@
-var mnemonic = "flock album rather minimum galaxy web minute mixed puzzle honey cake that";
+var mnemonic = "spot response bracket neutral moment wolf volcano render dove lottery remember gather";

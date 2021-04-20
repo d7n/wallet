@@ -1,1 +1,1 @@
-var mnemonic = "toddler elegant hammer ability become decrease dumb various mountain penalty style collect";
+var mnemonic = "involve thrive gun awful build critic traffic south offer normal chef antenna";

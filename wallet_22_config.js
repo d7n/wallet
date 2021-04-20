@@ -1,1 +1,1 @@
-var mnemonic = "slide turtle divert melt whisper dash double version kingdom together genre sleep";
+var mnemonic = "saddle wheat year north vendor file catalog good crane twenty shuffle debris";

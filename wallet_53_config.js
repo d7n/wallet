@@ -1,1 +1,1 @@
-var mnemonic = "famous buddy absent media skill detect smile hint assume exotic loud hip";
+var mnemonic = "sun choose scrub zoo lion anxiety claw major save plug change iron";

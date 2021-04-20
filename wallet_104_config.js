@@ -1,1 +1,1 @@
-var mnemonic = "fancy sibling galaxy myself strike supply hurdle huge caught oxygen clip enter";
+var mnemonic = "drift budget wealth wide album cart fringe pulp vanish speed busy equip";

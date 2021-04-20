@@ -1,1 +1,1 @@
-var mnemonic = "dose switch wool annual van artwork please jacket dolphin learn federal axis";
+var mnemonic = "front senior smart dance month genuine laundry pact zone catch cherry vacant";

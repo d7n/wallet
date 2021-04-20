@@ -1,1 +1,1 @@
-var mnemonic = "clip pull picnic arrest civil engage into side suffer spy vanish aware";
+var mnemonic = "radio boil true code excite glow ranch wonder push creek turtle fatigue";

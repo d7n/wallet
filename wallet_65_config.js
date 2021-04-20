@@ -1,1 +1,1 @@
-var mnemonic = "urge visual simple approve toy vanish salon try evolve odor release invest";
+var mnemonic = "topple wrong humor patch help bracket wide goose tube ready shed afraid";

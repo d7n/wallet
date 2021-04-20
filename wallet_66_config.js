@@ -1,1 +1,1 @@
-var mnemonic = "smoke feed biology jazz off autumn crack mansion forward inquiry steel equal";
+var mnemonic = "snack deputy doll second real job journey lumber favorite swim proud lizard";

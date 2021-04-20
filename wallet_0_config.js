@@ -1,1 +1,1 @@
-var mnemonic = "utility rude swear shrug abstract cage crowd leopard ketchup easily luxury comfort";
+var mnemonic = "trigger trick genuine talk chapter stool lift mango tobacco inspire captain awkward";
