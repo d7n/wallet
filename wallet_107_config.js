@@ -1,1 +1,1 @@
-var mnemonic = "ecology satoshi volcano mosquito agree mammal novel second cash exhaust toward napkin";
+var mnemonic = "ketchup feed inflict picture chuckle gauge episode grief conduct special flush real";

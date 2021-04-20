@@ -1,1 +1,1 @@
-var mnemonic = "keep divide grunt sick guess thrive what antenna hood place warfare test";
+var mnemonic = "dish find coyote luggage snow twelve strike lava oppose disagree castle express";

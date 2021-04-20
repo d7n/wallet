@@ -1,1 +1,1 @@
-var mnemonic = "pull ripple cactus park dwarf donkey tell weasel say convince shock note";
+var mnemonic = "satisfy emerge autumn toddler similar please jealous ramp slide ask weather apple";

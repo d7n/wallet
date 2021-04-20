@@ -1,1 +1,1 @@
-var mnemonic = "hobby wet champion witness quarter sauce screen rate jazz visit soul initial";
+var mnemonic = "chase dizzy garbage thumb fiction foil card nothing radio adapt cloth there";

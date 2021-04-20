@@ -1,1 +1,1 @@
-var mnemonic = "together crime smooth elegant melody insect enter half feel romance ocean pass";
+var mnemonic = "run wolf lecture cactus horn boss gloom rabbit tray phone obey chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco vague spirit ensure page clutch tell panel immense trigger base ahead";
+var mnemonic = "brass thumb solar fever gadget change brave throw noble tag south during";

@@ -1,1 +1,1 @@
-var mnemonic = "panther brief girl happy pony time token wedding travel size vacant expect";
+var mnemonic = "sad equip omit test photo frost anger main safe ball dial blood";

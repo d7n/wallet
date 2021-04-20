@@ -1,1 +1,1 @@
-var mnemonic = "dirt alarm play regular woman assault urban boil buyer tag rather almost";
+var mnemonic = "aim friend enjoy what real jelly over board pitch suffer bar park";

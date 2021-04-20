@@ -1,1 +1,1 @@
-var mnemonic = "spike genius alarm track strategy addict maple vault hotel water vendor vicious";
+var mnemonic = "inside attack shop reflect chapter valid chicken august column ice bicycle art";

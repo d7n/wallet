@@ -1,1 +1,1 @@
-var mnemonic = "phrase egg muffin chalk fresh exercise own another chief bike autumn tell";
+var mnemonic = "vapor victory code pink tortoise bike river infant bus fix twice doctor";

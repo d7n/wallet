@@ -1,1 +1,1 @@
-var mnemonic = "damage seek subject mesh open hood tuna sentence narrow scrap sphere deal";
+var mnemonic = "shoe couple repeat ketchup gun judge fame delay crisp fix ahead person";

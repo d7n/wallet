@@ -1,1 +1,1 @@
-var mnemonic = "recipe seek saddle cloud laptop same tray umbrella kind buyer find about";
+var mnemonic = "nothing shallow sock feature iron pulse blush appear eternal hand correct hammer";

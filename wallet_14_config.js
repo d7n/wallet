@@ -1,1 +1,1 @@
-var mnemonic = "open supply shop female wheat surface broccoli legal first domain isolate today";
+var mnemonic = "wagon neck floor shrimp couple globe episode mention wage casual wealth minimum";

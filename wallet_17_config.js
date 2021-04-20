@@ -1,1 +1,1 @@
-var mnemonic = "solid empower veteran obey mimic stumble tool nominee bracket group bleak elder";
+var mnemonic = "build net process side settle wait draw capable like arrest above pool";

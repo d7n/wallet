@@ -1,1 +1,1 @@
-var mnemonic = "stay can slush service drip few remain turkey bounce stock winner fabric";
+var mnemonic = "valid skill guess snap tourist nothing castle mail basket month toe finish";

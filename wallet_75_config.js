@@ -1,1 +1,1 @@
-var mnemonic = "gospel obtain like oak robust debate lend open mask funny accuse doll";
+var mnemonic = "palace cool will swing worth trash pelican brown arctic denial just casino";

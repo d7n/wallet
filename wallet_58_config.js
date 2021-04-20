@@ -1,1 +1,1 @@
-var mnemonic = "fragile limb normal buzz under trend jelly good industry noble bitter enhance";
+var mnemonic = "process joke hospital iron nothing able head food genre turn assume sick";

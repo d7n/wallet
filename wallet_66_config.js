@@ -1,1 +1,1 @@
-var mnemonic = "juice shock tone disagree record basic rotate rotate winner depend knock canyon";
+var mnemonic = "pyramid party cash inner boost dismiss guard theme observe rich dad favorite";

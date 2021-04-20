@@ -1,1 +1,1 @@
-var mnemonic = "surround term goddess spy seminar much twist promote hub elephant miss staff";
+var mnemonic = "brisk near actress elephant black jaguar enact comic measure behave miss marriage";

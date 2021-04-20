@@ -1,1 +1,1 @@
-var mnemonic = "forum inflict repair mask marriage hobby deliver slab width velvet afraid honey";
+var mnemonic = "chat month page suffer save cousin actor tornado exercise music doctor become";

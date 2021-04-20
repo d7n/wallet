@@ -1,1 +1,1 @@
-var mnemonic = "age inner unable forest when sport like nominee sphere october video garbage";
+var mnemonic = "term elephant raven better rare citizen high actor sausage job rib cushion";

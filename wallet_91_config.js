@@ -1,1 +1,1 @@
-var mnemonic = "speak bleak toss horn glare script staff future muscle valley blast miracle";
+var mnemonic = "correct dinosaur super alone mosquito flight stock trophy wrong swift zero print";

@@ -1,1 +1,1 @@
-var mnemonic = "pave broken family oak foot avoid hole ice assist shoot column more";
+var mnemonic = "good elbow save nose whisper clerk curve bar boost weekend dragon actress";

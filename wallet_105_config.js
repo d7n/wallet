@@ -1,1 +1,1 @@
-var mnemonic = "shallow color beach ready ecology crouch net seminar capable jacket inhale marble";
+var mnemonic = "swift adult awesome argue plug start blast accuse special panic ketchup stable";

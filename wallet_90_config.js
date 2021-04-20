@@ -1,1 +1,1 @@
-var mnemonic = "sport aunt dish paddle merge van budget glue bless defense rice keen";
+var mnemonic = "tiger toss wrist ignore record glimpse valve crazy eternal true ill code";

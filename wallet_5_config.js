@@ -1,1 +1,1 @@
-var mnemonic = "decorate season devote salad camp nurse paddle stomach wire bridge spice east";
+var mnemonic = "flight fog trumpet bullet survey pledge become anxiety inspire citizen ankle inquiry";

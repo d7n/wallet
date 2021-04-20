@@ -1,1 +1,1 @@
-var mnemonic = "enable start coin palace gauge stand spoil match radar select easily car";
+var mnemonic = "few suspect cable bird bar guide raven bike thing voyage online romance";

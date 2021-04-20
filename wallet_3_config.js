@@ -1,1 +1,1 @@
-var mnemonic = "kiwi angry regular avocado course hobby into kiss run oxygen crumble couple";
+var mnemonic = "april century net exclude disagree hover exhibit ignore deal exit hen mix";

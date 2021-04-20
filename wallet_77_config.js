@@ -1,1 +1,1 @@
-var mnemonic = "climb rather mercy prefer paddle return car buzz smoke then connect weasel";
+var mnemonic = "repeat blue piece harbor radar aerobic desert course cabin cat feed dwarf";

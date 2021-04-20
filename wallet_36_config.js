@@ -1,1 +1,1 @@
-var mnemonic = "rookie school wise rent work dumb vacant nuclear vanish pencil sell minute";
+var mnemonic = "aim trial together what alien open artefact faith lake frown frog circle";

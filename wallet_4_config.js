@@ -1,1 +1,1 @@
-var mnemonic = "shop curious lawn miss damp lumber decide dismiss pair century cabbage opinion";
+var mnemonic = "supply ride canyon artwork maid patrol bitter grab voyage client vendor record";

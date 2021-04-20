@@ -1,1 +1,1 @@
-var mnemonic = "budget cloud open success salute salmon duty voyage cigar cattle awake hat";
+var mnemonic = "canvas author vibrant library barely ten vicious trim cup master system version";

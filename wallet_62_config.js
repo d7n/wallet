@@ -1,1 +1,1 @@
-var mnemonic = "ladder gain prosper skull goose dash educate fuel game vendor rigid wasp";
+var mnemonic = "current cargo risk rose session mesh scene exhibit raw six uncover great";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire blanket cup peanut health digital board search subway select reveal renew";
+var mnemonic = "coffee ancient depart security post vivid hello sunny mask lobster adjust lens";

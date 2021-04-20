@@ -1,1 +1,1 @@
-var mnemonic = "shed bubble firm total winner unaware outside wash ceiling planet laptop trigger";
+var mnemonic = "scissors evil abuse burst nature tomato minimum speed promote girl dismiss emotion";

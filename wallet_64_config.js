@@ -1,1 +1,1 @@
-var mnemonic = "stock dash unhappy pistol void luggage neglect guard exercise must cotton taste";
+var mnemonic = "divert diary midnight online erupt blossom mad course slam special enemy invite";

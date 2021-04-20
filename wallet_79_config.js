@@ -1,1 +1,1 @@
-var mnemonic = "inner remember outer struggle lecture anchor confirm embark bonus flavor water split";
+var mnemonic = "ceiling produce slam charge shove amazing label beyond observe today celery cause";

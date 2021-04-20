@@ -1,1 +1,1 @@
-var mnemonic = "away favorite hidden simple area blossom mixed clever nasty pilot helmet index";
+var mnemonic = "quality guard cannon worry salon rookie nasty dinner twenty cute flock tape";

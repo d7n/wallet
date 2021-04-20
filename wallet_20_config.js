@@ -1,1 +1,1 @@
-var mnemonic = "glass federal tomato distance future satoshi urge common divorce lift oyster already";
+var mnemonic = "sea attend shrug valley usual mixture fan charge bitter voice minute jealous";

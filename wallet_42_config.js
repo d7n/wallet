@@ -1,1 +1,1 @@
-var mnemonic = "trim slam pride target panda brother budget layer record easily you fall";
+var mnemonic = "output flee grain puzzle occur world clever hawk brisk like bag huge";

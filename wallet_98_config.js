@@ -1,1 +1,1 @@
-var mnemonic = "local clever visual vote marble net faculty access frequent onion light elegant";
+var mnemonic = "mango quantum front weird elder empty prize play away enact pizza lady";

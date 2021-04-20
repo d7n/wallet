@@ -1,1 +1,1 @@
-var mnemonic = "usage ridge home exile stuff punch panel addict leader chronic erosion entry";
+var mnemonic = "right author glad congress sing melt physical orbit found pink before swallow";

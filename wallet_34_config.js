@@ -1,1 +1,1 @@
-var mnemonic = "gym print one sort keep surround million ordinary mechanic mutual beach oyster";
+var mnemonic = "leaf absurd baby monitor food session grant torch educate pipe addict rhythm";

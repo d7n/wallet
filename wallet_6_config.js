@@ -1,1 +1,1 @@
-var mnemonic = "artefact spell seven concert fancy clock judge erosion filter desk wave tired";
+var mnemonic = "cheese economy where easily ginger dial bag setup volcano two abstract dose";

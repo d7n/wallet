@@ -1,1 +1,1 @@
-var mnemonic = "spring dynamic civil chronic fatal head midnight scan cushion toss valid naive";
+var mnemonic = "input stage stand increase swarm verb bachelor erosion upper stool okay deposit";

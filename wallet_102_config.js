@@ -1,1 +1,1 @@
-var mnemonic = "allow junk federal letter space able chapter rough burst donkey secret boil";
+var mnemonic = "shrug razor cabin fade pelican pen topic loud prevent exhibit ankle distance";

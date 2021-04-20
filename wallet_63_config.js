@@ -1,1 +1,1 @@
-var mnemonic = "bid sleep screen unaware sound diagram paper mimic idea shy physical planet";
+var mnemonic = "require egg badge enhance napkin elbow wedding gadget gym elder next together";

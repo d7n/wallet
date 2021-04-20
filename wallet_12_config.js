@@ -1,1 +1,1 @@
-var mnemonic = "tag dizzy kitchen soda liquid tiny sword tip exhibit choice stamp tattoo";
+var mnemonic = "cigar vocal echo just pride tool truly black gain mule bunker logic";

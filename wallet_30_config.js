@@ -1,1 +1,1 @@
-var mnemonic = "panther muffin praise royal finish shuffle tackle spot marriage become syrup drum";
+var mnemonic = "since source stand future dragon jump ball use wedding secret knife benefit";

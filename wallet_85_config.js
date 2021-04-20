@@ -1,1 +1,1 @@
-var mnemonic = "ostrich job apology spare minimum initial theme all viable liberty devote develop";
+var mnemonic = "master patrol tonight assist fee excite call utility offer lock wealth rule";

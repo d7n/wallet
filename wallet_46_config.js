@@ -1,1 +1,1 @@
-var mnemonic = "abstract tourist tornado hammer ski office ready giggle tornado roast notice derive";
+var mnemonic = "book timber stomach awesome anger pigeon oppose high lock trip heavy museum";

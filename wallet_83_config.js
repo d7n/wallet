@@ -1,1 +1,1 @@
-var mnemonic = "join bench loan food pear grass spike castle human nominee sphere key";
+var mnemonic = "drive chest cross salon aware rebel pioneer balcony weekend soap plunge mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "slot oval leopard sphere soda notable wagon luggage pole depth position pilot";
+var mnemonic = "vital into size audit penalty feed exact captain spawn blame scout fog";

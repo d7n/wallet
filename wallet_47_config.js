@@ -1,1 +1,1 @@
-var mnemonic = "slice section critic else owner reform case exchange sick scatter pony trouble";
+var mnemonic = "deliver hair pepper bid soft impulse item rare obtain hire detail unable";

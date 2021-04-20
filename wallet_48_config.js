@@ -1,1 +1,1 @@
-var mnemonic = "speak rate walnut ranch patient season alpha acoustic upper supreme today naive";
+var mnemonic = "want analyst mountain verify shallow grab lady pride trophy script ripple loud";

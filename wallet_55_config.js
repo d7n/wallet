@@ -1,1 +1,1 @@
-var mnemonic = "assist angle cabin tunnel rich nut festival zoo token outside inform grab";
+var mnemonic = "soldier rent salad useless dial cabbage faint risk edge hard visual wise";

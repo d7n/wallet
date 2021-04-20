@@ -1,1 +1,1 @@
-var mnemonic = "move clock equip other focus witness demand latin page soup news garlic";
+var mnemonic = "speed device brave camera metal lucky lady wheat collect bulk civil east";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition round monitor cherry stone rain rigid bounce sound powder alien sunset";
+var mnemonic = "raccoon screen punch satisfy spice rich space cradle raise dune charge basket";

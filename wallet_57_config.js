@@ -1,1 +1,1 @@
-var mnemonic = "fuel hurdle arch language dwarf blouse service rail wagon grunt crunch usage";
+var mnemonic = "crew grief teach spin final nation puzzle truth clap immense crystal glass";

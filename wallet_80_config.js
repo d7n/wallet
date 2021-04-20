@@ -1,1 +1,1 @@
-var mnemonic = "client orchard media hurt business swap portion planet sadness sting settle embody";
+var mnemonic = "bird cradle pottery view episode tackle dose body sand clay salad liar";

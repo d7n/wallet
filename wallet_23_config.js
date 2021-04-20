@@ -1,1 +1,1 @@
-var mnemonic = "swamp clinic dignity jaguar holiday sea dismiss prefer sample pumpkin glad speak";
+var mnemonic = "later father reject hub reduce dirt lottery false shoulder tired resource ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly security fetch custom glow struggle remember scare shoot mother opera venue";
+var mnemonic = "patient glass soccer never metal rib birth muscle advance deposit list opera";

@@ -1,1 +1,1 @@
-var mnemonic = "insane miracle door vault link pilot announce useful vicious filter ecology teach";
+var mnemonic = "risk paddle cupboard spider acoustic flight until task wing next brisk write";

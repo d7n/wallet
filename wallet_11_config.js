@@ -1,1 +1,1 @@
-var mnemonic = "essence resource toe survey extra install endless tornado attack manage version student";
+var mnemonic = "oven cruise garbage grain false animal vote travel clinic supply legend deposit";

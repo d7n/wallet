@@ -1,1 +1,1 @@
-var mnemonic = "region boring fold sting source pelican gravity peanut mammal piece amused void";
+var mnemonic = "visual pulse car fantasy invest tomorrow fragile young mystery twice rack outer";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce oval ticket assault giraffe noise reject voyage drive regular display response";
+var mnemonic = "master bike soup cover hello obey coil recipe typical hood equip turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight rate curious world quiz faint inhale wagon defy witness couch change";
+var mnemonic = "chest lock sauce crunch wealth tissue guide pigeon half regular swap private";

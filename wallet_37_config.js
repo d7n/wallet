@@ -1,1 +1,1 @@
-var mnemonic = "fringe couple absorb derive clown easily cricket lizard sort decline vintage light";
+var mnemonic = "wish month behind case second category rack unit arrange space hollow identify";

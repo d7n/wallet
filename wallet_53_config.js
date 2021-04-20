@@ -1,1 +1,1 @@
-var mnemonic = "poem accuse crime captain joy erupt essence future clinic fuel produce language";
+var mnemonic = "essence list end cry permit blossom plug harsh amused deputy enhance satoshi";

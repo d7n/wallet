@@ -1,1 +1,1 @@
-var mnemonic = "athlete rally melody disagree viable van stereo consider bubble small earth beauty";
+var mnemonic = "side network miss cabbage avocado odor game spider motor fox where glad";

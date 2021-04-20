@@ -1,1 +1,1 @@
-var mnemonic = "forum idle word boy ancient ridge seven armed cram lawn double orbit";
+var mnemonic = "educate point cake hen cable firm quarter nut symptom wrong sort rice";

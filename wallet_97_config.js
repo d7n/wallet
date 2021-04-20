@@ -1,1 +1,1 @@
-var mnemonic = "treat rhythm orient domain hire copy either liar axis test any panic";
+var mnemonic = "crowd coconut science derive birth joy arena miracle assault uncover bid jungle";

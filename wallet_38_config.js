@@ -1,1 +1,1 @@
-var mnemonic = "vault pudding echo digital carry solar photo cactus mother student long equal";
+var mnemonic = "strong always inherit struggle machine annual frame oak stamp hold purse father";

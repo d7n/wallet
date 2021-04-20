@@ -1,1 +1,1 @@
-var mnemonic = "bargain sustain dune clay artwork citizen math firm want arm rabbit actress";
+var mnemonic = "coin monkey camp wine dismiss truly lobster core lab manual capable narrow";

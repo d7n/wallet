@@ -1,1 +1,1 @@
-var mnemonic = "pyramid tomorrow author hamster present better boss wrestle drill weird denial flame";
+var mnemonic = "anger pattern prosper minimum buzz fish athlete brand they fancy sick length";

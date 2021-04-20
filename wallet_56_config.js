@@ -1,1 +1,1 @@
-var mnemonic = "uphold orient thought alpha shell weekend open relief table code melody kite";
+var mnemonic = "artefact height fine fuel jazz fat buyer inch satisfy leave accident brief";

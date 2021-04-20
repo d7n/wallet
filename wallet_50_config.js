@@ -1,1 +1,1 @@
-var mnemonic = "whip boat antenna nurse stay usual gather work gold detect mask dune";
+var mnemonic = "wife reunion betray earn analyst about vibrant hammer blade trash require session";

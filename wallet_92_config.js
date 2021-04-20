@@ -1,1 +1,1 @@
-var mnemonic = "track maid deliver consider grit true tongue busy any okay zoo verb";
+var mnemonic = "pattern forward become fade base combine cotton barely melody table country leaf";

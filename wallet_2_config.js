@@ -1,1 +1,1 @@
-var mnemonic = "couple auto disagree demise access truly want enforce chaos wonder trash kidney";
+var mnemonic = "theory resist frown movie sample job entire promote crash surprise fantasy used";

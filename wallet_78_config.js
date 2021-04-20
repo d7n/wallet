@@ -1,1 +1,1 @@
-var mnemonic = "midnight ice shrimp rail usual amused ritual cliff matrix scan remind educate";
+var mnemonic = "orient sword swamp obtain diary spring melt bomb copy orient craft knife";

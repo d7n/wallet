@@ -1,1 +1,1 @@
-var mnemonic = "trial salute bronze vote cross burger hen release echo abandon paper bless";
+var mnemonic = "youth home hat labor practice fox inject tornado drift bamboo embody unfold";

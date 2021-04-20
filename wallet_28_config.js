@@ -1,1 +1,1 @@
-var mnemonic = "license disorder pole glimpse state friend increase video bunker fortune bike urban";
+var mnemonic = "thank scrub dish asset cushion can sword bullet melt easily ritual tribe";

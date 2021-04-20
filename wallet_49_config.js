@@ -1,1 +1,1 @@
-var mnemonic = "first trade weapon nothing banner people humor room cloud craft confirm urge";
+var mnemonic = "rival destroy must switch resist chief combine like hand robot lend gadget";

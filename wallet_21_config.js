@@ -1,1 +1,1 @@
-var mnemonic = "flight boss timber purchase atom between sun yellow pair bean educate buffalo";
+var mnemonic = "galaxy loud poet dust salt omit desert when erode artwork shed link";

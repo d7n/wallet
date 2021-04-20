@@ -1,1 +1,1 @@
-var mnemonic = "soldier album popular observe air super lobster bike kit essence nerve bus";
+var mnemonic = "example violin domain best vivid much link reward limit build turn crash";

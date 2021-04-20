@@ -1,1 +1,1 @@
-var mnemonic = "there submit judge brick already basket teach cereal audit boat path shove";
+var mnemonic = "destroy beef task help stumble fringe reflect true novel nasty glue lens";

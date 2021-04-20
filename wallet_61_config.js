@@ -1,1 +1,1 @@
-var mnemonic = "fat exchange resource forward super shoe shoulder pole witness edge response toddler";
+var mnemonic = "pioneer hero stem dance cactus table minor trust noodle coral moment purchase";

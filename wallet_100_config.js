@@ -1,1 +1,1 @@
-var mnemonic = "fault bright about outer library lock crime offer panic pair witness repeat";
+var mnemonic = "cup fluid reflect scheme extend odor love romance anchor syrup fabric damage";

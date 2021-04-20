@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow screen truth jar rich pioneer hockey monitor crane space stable ritual";
+var mnemonic = "only bullet laundry winner physical dolphin joke logic fetch together movie extra";

@@ -1,1 +1,1 @@
-var mnemonic = "dress extra peasant keen behind member permit jealous alcohol street mercy debris";
+var mnemonic = "danger transfer where picnic unique wet tell various hair crumble call excite";
