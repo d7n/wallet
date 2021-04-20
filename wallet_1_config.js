@@ -1,1 +1,1 @@
-var mnemonic = "abandon satisfy hockey ring grid custom certain harbor mixed peace room exile";
+var mnemonic = "tilt horn silent uphold day human this love express force cement repeat";

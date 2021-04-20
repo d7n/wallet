@@ -1,1 +1,1 @@
-var mnemonic = "spice useful filter faculty speak since captain nose forget rotate whale enough";
+var mnemonic = "input fade feed bargain sausage victory purchase clean weekend dentist dirt element";

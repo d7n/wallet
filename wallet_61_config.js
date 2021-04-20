@@ -1,1 +1,1 @@
-var mnemonic = "feed whisper gentle celery tide oyster first illness clinic aunt option scrap";
+var mnemonic = "december success field grid umbrella unit social twin scorpion tortoise dream smoke";

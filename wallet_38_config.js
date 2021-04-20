@@ -1,1 +1,1 @@
-var mnemonic = "stove aim basic cradle neither act brief state alley false narrow hobby";
+var mnemonic = "panic analyst tackle noble grit crawl elevator shrimp skill you club envelope";

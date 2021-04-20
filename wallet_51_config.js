@@ -1,1 +1,1 @@
-var mnemonic = "buffalo aware differ wreck toy pave uncle build awful simple symbol invest";
+var mnemonic = "sick copper tool frog smoke outer danger ramp grape maid second theory";

@@ -1,1 +1,1 @@
-var mnemonic = "same stairs private enter finger age loop stone purpose throw carbon spatial";
+var mnemonic = "tree title tree bleak glove swear spoon educate sheriff unfold benefit salad";

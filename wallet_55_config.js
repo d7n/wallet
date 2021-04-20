@@ -1,1 +1,1 @@
-var mnemonic = "wall climb start oval category patch correct satisfy erode action lucky increase";
+var mnemonic = "wash uniform ginger morning balance marine online wing arm fish skill digital";

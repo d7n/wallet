@@ -1,1 +1,1 @@
-var mnemonic = "salon breeze knock plunge skull pause excess give flock sausage limit nerve";
+var mnemonic = "knee broken scout safe talent ordinary black still worth sail cousin tiny";

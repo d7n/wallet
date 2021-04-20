@@ -1,1 +1,1 @@
-var mnemonic = "error fatal salon panda nut tiny clap cheap scout produce lawn insect";
+var mnemonic = "midnight wagon puppy action law weird escape innocent bargain december devote coach";

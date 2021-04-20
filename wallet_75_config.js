@@ -1,1 +1,1 @@
-var mnemonic = "cushion dad oven beyond genius oak tent spoon crumble skull feed tribe";
+var mnemonic = "master always always day rather urge wear bread witness weapon proof hip";

@@ -1,1 +1,1 @@
-var mnemonic = "learn course crash artwork breeze insect deputy slogan attract moral tornado tenant";
+var mnemonic = "trophy barely assault toss trap robust vast skirt source age sign rack";

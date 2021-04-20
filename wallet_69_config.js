@@ -1,1 +1,1 @@
-var mnemonic = "charge nasty october kind relax other garage rigid mad prosper bar fortune";
+var mnemonic = "horse genuine upon between metal address recipe enter connect paddle canyon resist";

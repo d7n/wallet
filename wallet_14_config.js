@@ -1,1 +1,1 @@
-var mnemonic = "indicate canal village fold smart inhale bless share proud page north yellow";
+var mnemonic = "ride ramp piano height pact fence syrup scene road salmon debate resist";

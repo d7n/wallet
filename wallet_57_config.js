@@ -1,1 +1,1 @@
-var mnemonic = "struggle pond sand random prefer service accuse spoon guess sight cook salmon";
+var mnemonic = "embrace patch problem huge zoo decide they melody giggle useless motion own";

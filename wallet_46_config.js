@@ -1,1 +1,1 @@
-var mnemonic = "volume liquid enjoy gown heavy edge dwarf mechanic recipe tank subject deputy";
+var mnemonic = "thunder ball margin margin trim rally scrap dish bright toast couch diamond";

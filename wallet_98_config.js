@@ -1,1 +1,1 @@
-var mnemonic = "garage lock blade sketch inject head brick angle space devote oxygen reward";
+var mnemonic = "silver rail veteran tattoo room glad track patient hill host vague inside";

@@ -1,1 +1,1 @@
-var mnemonic = "notice kitten slow mail force style knee unique program acid loop genuine";
+var mnemonic = "cry half auto used draft poet voyage coral morning have surface useless";

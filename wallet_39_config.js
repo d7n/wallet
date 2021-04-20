@@ -1,1 +1,1 @@
-var mnemonic = "drink choice all fork crouch slender claw alley debate immune fossil defense";
+var mnemonic = "problem sunset barely right nut wire oil dinosaur survey case cement merit";

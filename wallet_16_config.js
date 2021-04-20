@@ -1,1 +1,1 @@
-var mnemonic = "cover jealous limit machine ensure clump cheese cancel quiz ripple argue endorse";
+var mnemonic = "ready pause food gravity congress river body blanket dance tank luggage pony";

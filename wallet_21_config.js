@@ -1,1 +1,1 @@
-var mnemonic = "trap fashion patient unlock sock elevator canvas grid disagree boost tourist top";
+var mnemonic = "wise rug sphere walk stable horn exotic drop always call juice uniform";

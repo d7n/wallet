@@ -1,1 +1,1 @@
-var mnemonic = "tortoise vehicle indicate great noodle rough sad shiver piano drill twelve evoke";
+var mnemonic = "can confirm scorpion afford engage tone tiny robust finger shell own blade";

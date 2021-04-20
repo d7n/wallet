@@ -1,1 +1,1 @@
-var mnemonic = "beauty hole fragile tackle gather vehicle story memory shine that popular address";
+var mnemonic = "volcano hard mom drill slim walnut clutch case patient vicious leisure clown";

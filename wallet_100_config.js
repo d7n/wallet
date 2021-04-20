@@ -1,1 +1,1 @@
-var mnemonic = "task weekend firm inquiry repair clog ready mosquito above price develop west";
+var mnemonic = "crystal gravity perfect tattoo kingdom text zoo snow quality cupboard issue attitude";

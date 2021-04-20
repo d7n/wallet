@@ -1,1 +1,1 @@
-var mnemonic = "private baby reveal column three buzz quarter wet search opera cruel blue";
+var mnemonic = "insect volume lawsuit cram cheese lazy wall creek shiver book much scan";

@@ -1,1 +1,1 @@
-var mnemonic = "team spring jump salt bleak when loud area knee stem miracle error";
+var mnemonic = "minor fun pigeon staff donor rebel anger romance civil coil drum shy";

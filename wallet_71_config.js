@@ -1,1 +1,1 @@
-var mnemonic = "endorse carry income abuse cage bird praise fossil avocado feed pony oil";
+var mnemonic = "nice lift dentist learn pear float extend spare vague amateur heavy peace";

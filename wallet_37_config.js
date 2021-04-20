@@ -1,1 +1,1 @@
-var mnemonic = "day jump nasty trophy talent broccoli upgrade ridge kingdom unlock saddle park";
+var mnemonic = "undo acquire camera divert annual spatial else cereal empty frown foam liberty";

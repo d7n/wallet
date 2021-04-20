@@ -1,1 +1,1 @@
-var mnemonic = "saddle trend nest enforce retire tribe confirm phrase olympic penalty focus come";
+var mnemonic = "maze begin castle online ostrich rug fiscal east deposit true mercy idle";

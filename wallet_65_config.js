@@ -1,1 +1,1 @@
-var mnemonic = "lab person indoor vibrant health joke polar pig crew parent armed couch";
+var mnemonic = "fault alone picnic inflict dad name puppy disorder elephant balcony mistake lawn";

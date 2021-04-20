@@ -1,1 +1,1 @@
-var mnemonic = "bounce raccoon avoid spend suggest scare bean parade water knock release expire";
+var mnemonic = "wool execute knock stereo pact calm acid polar proud stairs portion used";

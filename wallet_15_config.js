@@ -1,1 +1,1 @@
-var mnemonic = "thumb obvious upset grocery inquiry gain later flag sword kitchen inquiry side";
+var mnemonic = "sight mosquito mystery congress luggage question jeans sunny toilet depart can pumpkin";

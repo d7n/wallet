@@ -1,1 +1,1 @@
-var mnemonic = "boy term wool certain photo ceiling banner wealth brother giraffe benefit shell";
+var mnemonic = "style legend wink cream twice immense spring album cactus equal candy donkey";

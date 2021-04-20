@@ -1,1 +1,1 @@
-var mnemonic = "kiss raven bullet purchase reopen mutual laptop voyage crystal stumble garlic talent";
+var mnemonic = "ritual army enact joke broccoli grit wing match stable force feed eager";

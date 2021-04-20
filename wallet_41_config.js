@@ -1,1 +1,1 @@
-var mnemonic = "route result away raccoon super furnace mirror market firm maximum wire sketch";
+var mnemonic = "fossil list spring lift space fox identify decorate better erode puppy virtual";

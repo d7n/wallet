@@ -1,1 +1,1 @@
-var mnemonic = "impulse gallery exact select enjoy giggle saddle hand chalk trap clever bar";
+var mnemonic = "habit velvet hazard decide physical entire imitate resource antenna concert beauty faith";

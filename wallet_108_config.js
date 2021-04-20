@@ -1,1 +1,1 @@
-var mnemonic = "margin estate kiwi opera what juice slot pigeon scissors rival pyramid endless";
+var mnemonic = "want buffalo student army enrich exile mesh sister hand unit journey gorilla";

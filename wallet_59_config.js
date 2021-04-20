@@ -1,1 +1,1 @@
-var mnemonic = "promote minimum parrot lift pig ghost zebra turn enforce ensure aisle category";
+var mnemonic = "armed noble swing prize disorder glow pizza produce observe monster robot faint";

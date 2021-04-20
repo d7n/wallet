@@ -1,1 +1,1 @@
-var mnemonic = "awesome common brush sketch client goddess sentence swear pumpkin bleak razor together";
+var mnemonic = "lemon tiny boat expose cost aspect donor hard armor cry dice oak";

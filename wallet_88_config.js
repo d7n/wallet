@@ -1,1 +1,1 @@
-var mnemonic = "address disorder quote sausage shop weasel hello crater adapt eternal jeans banana";
+var mnemonic = "dice fiscal fade oven nasty chimney juice pumpkin other staff table shrug";

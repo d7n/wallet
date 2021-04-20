@@ -1,1 +1,1 @@
-var mnemonic = "hurry school dutch ostrich outdoor kite eagle hire various order giant cluster";
+var mnemonic = "loyal bamboo leisure swallow comic picnic piano already letter myth protect lazy";

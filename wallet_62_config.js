@@ -1,1 +1,1 @@
-var mnemonic = "clump goat hip nerve add chef security dumb pull motion increase budget";
+var mnemonic = "waste mandate venture trust weather little great celery margin sick eye skill";

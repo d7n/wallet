@@ -1,1 +1,1 @@
-var mnemonic = "blur glory fury sword space conduct horn carpet exclude walnut task basic";
+var mnemonic = "leave butter hamster staff peace office afford town climb verb basket chapter";

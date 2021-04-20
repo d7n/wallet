@@ -1,1 +1,1 @@
-var mnemonic = "valley cotton athlete mind member doctor myself tiger whip warfare parrot coconut";
+var mnemonic = "arrange announce earn color soon predict upgrade bar flat protect renew orbit";

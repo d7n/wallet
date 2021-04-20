@@ -1,1 +1,1 @@
-var mnemonic = "still question fish then chimney boat tail build toddler gloom dash minimum";
+var mnemonic = "find around gather wave bullet olympic save over pattern toward enemy barely";

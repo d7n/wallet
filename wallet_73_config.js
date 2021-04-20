@@ -1,1 +1,1 @@
-var mnemonic = "short stool hawk twin muscle shell carpet smooth alone dizzy clutch stock";
+var mnemonic = "bitter angry pig stick cereal chimney fabric swift air affair guess board";

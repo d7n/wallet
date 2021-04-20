@@ -1,1 +1,1 @@
-var mnemonic = "useful want nuclear inmate antique bleak hub force volume donate gravity level";
+var mnemonic = "giggle derive dignity radar august syrup repeat bronze bind repair guitar work";

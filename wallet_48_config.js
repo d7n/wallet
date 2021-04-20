@@ -1,1 +1,1 @@
-var mnemonic = "reopen fork vapor rebel vehicle accident happy museum expand ship quarter balance";
+var mnemonic = "rug elbow response there toss member tortoise survey same credit give suit";

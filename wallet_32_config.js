@@ -1,1 +1,1 @@
-var mnemonic = "loop cage deliver bargain observe topic soccer plastic burst brown excite area";
+var mnemonic = "length lucky theory genre tennis better legend off cactus hockey cotton near";

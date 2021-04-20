@@ -1,1 +1,1 @@
-var mnemonic = "frost february vault flower cram talk example core law improve crystal hunt";
+var mnemonic = "tribe supreme clerk unit smart office clown lunch blouse gasp enable mercy";

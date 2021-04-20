@@ -1,1 +1,1 @@
-var mnemonic = "exhibit wasp level caution ranch wage depart time world sick column screen";
+var mnemonic = "multiply pave above run brown drive country bind news game ankle attract";

@@ -1,1 +1,1 @@
-var mnemonic = "foot harvest banner solid champion resource debris badge pluck owner black copy";
+var mnemonic = "hurdle ramp accident pudding reduce wealth ceiling inject damp three rapid example";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal wheat since fine receive flavor canoe warfare attract acid nurse sunny";
+var mnemonic = "cricket useful bargain used coach shoe library captain suit away barrel armed";

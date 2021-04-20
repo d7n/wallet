@@ -1,1 +1,1 @@
-var mnemonic = "adapt thank motor oblige diesel liquid similar admit mushroom hill correct wreck";
+var mnemonic = "soda problem basket select naive verb metal expand reform tonight poverty mistake";

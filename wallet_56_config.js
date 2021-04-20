@@ -1,1 +1,1 @@
-var mnemonic = "wrist join push fog decorate expose magnet hover material arrive rhythm december";
+var mnemonic = "hard clever inject orbit day hour mesh manage acid shiver struggle patient";

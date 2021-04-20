@@ -1,1 +1,1 @@
-var mnemonic = "derive zone food tonight token donate water dream hamster peace help visa";
+var mnemonic = "evil addict fine fatigue mesh scout helmet faith crucial emerge shove shove";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny weasel now credit auction find strong cotton damp oyster public hospital";
+var mnemonic = "fix actual wedding arena slight number oppose neck cinnamon celery clown edit";

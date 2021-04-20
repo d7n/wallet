@@ -1,1 +1,1 @@
-var mnemonic = "recipe auction lava music offer tiny bone hill mandate half business lumber";
+var mnemonic = "square spread share unlock soft gospel diamond bonus warrior turkey pumpkin creek";

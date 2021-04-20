@@ -1,1 +1,1 @@
-var mnemonic = "chuckle hawk wheel midnight vessel fruit flee crater diagram pride finish vote";
+var mnemonic = "sting dolphin network salad human patient chimney capital average page label winner";

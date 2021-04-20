@@ -1,1 +1,1 @@
-var mnemonic = "remove rose unaware wheel width tomato nation topic agent truly inmate famous";
+var mnemonic = "link crew desert cannon result festival true stem found monitor govern flee";

@@ -1,1 +1,1 @@
-var mnemonic = "flee decade select allow maple squeeze round tortoise donkey blame act senior";
+var mnemonic = "mixture expose able cash winner auction note sentence pig web vital relax";

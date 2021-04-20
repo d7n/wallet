@@ -1,1 +1,1 @@
-var mnemonic = "album dismiss quiz dish mule rescue nephew behave spatial march spider dinner";
+var mnemonic = "spare slab real napkin call deal slogan arrive cost veteran satisfy rotate";

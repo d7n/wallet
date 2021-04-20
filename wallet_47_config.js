@@ -1,1 +1,1 @@
-var mnemonic = "melody all harbor avoid dinner survey gesture leg shift already canyon away";
+var mnemonic = "execute pact main mixed era ethics meadow fault anxiety goddess emerge gallery";

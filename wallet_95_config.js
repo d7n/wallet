@@ -1,1 +1,1 @@
-var mnemonic = "year sustain buzz jewel cycle betray fossil brain fatigue bacon cup hope";
+var mnemonic = "rack tobacco edit under ritual labor cannon seven rescue lecture evolve shoulder";

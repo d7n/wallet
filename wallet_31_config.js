@@ -1,1 +1,1 @@
-var mnemonic = "bronze display frozen ecology gain immense garbage scout benefit salon bamboo major";
+var mnemonic = "chat sad outside drama stem absent asthma wasp aerobic galaxy raven stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury border dismiss flock staff link stumble future fog talent wave mad";
+var mnemonic = "juice clean forget skin spot phone lady year salad coral put argue";

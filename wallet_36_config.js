@@ -1,1 +1,1 @@
-var mnemonic = "secret hammer happy despair lemon once shy front truck bulk parent much";
+var mnemonic = "clap loan print deer glue type cotton coin expect oblige thunder night";

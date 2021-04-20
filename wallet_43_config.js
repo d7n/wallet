@@ -1,1 +1,1 @@
-var mnemonic = "grape smoke prefer scorpion position suffer breeze amused stairs shield poem captain";
+var mnemonic = "grape parade copy silver artefact daring face alter enforce vendor grid logic";

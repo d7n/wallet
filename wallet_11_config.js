@@ -1,1 +1,1 @@
-var mnemonic = "page ghost opinion off begin mistake filter carry purpose sadness educate fine";
+var mnemonic = "will buzz initial talent embark near video glue pool increase struggle bean";

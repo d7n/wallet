@@ -1,1 +1,1 @@
-var mnemonic = "panic lady naive online clap bonus return valley crane odor leader exhaust";
+var mnemonic = "risk ceiling okay pull jump rigid employ issue symbol tourist tired random";

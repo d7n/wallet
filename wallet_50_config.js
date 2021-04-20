@@ -1,1 +1,1 @@
-var mnemonic = "blur relief coach quiz animal jacket stumble clutch secret twelve deliver patrol";
+var mnemonic = "chimney erosion erase also magic into useful write member smart bunker barely";

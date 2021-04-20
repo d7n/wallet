@@ -1,1 +1,1 @@
-var mnemonic = "chief title waste stay clock pepper physical squeeze credit huge silk elbow";
+var mnemonic = "crew birth lesson weasel razor kingdom betray dry smoke minor celery onion";

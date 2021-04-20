@@ -1,1 +1,1 @@
-var mnemonic = "latin wrap any divert suffer tattoo ankle sunset indoor diary price spin";
+var mnemonic = "arm balcony private butter entire wine treat harvest together creek idle remove";

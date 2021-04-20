@@ -1,1 +1,1 @@
-var mnemonic = "satisfy upper stick route burst swarm novel rich caught volcano album faint";
+var mnemonic = "borrow loyal size very muffin poverty trap era planet soul stock reform";

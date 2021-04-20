@@ -1,1 +1,1 @@
-var mnemonic = "future ball enter book phone draw nasty build vendor mention satoshi badge";
+var mnemonic = "account yellow addict milk alter fish badge trial must obscure claw have";

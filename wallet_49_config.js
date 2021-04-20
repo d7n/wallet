@@ -1,1 +1,1 @@
-var mnemonic = "place canal enemy edge cook fiber this meadow stock junk banner pupil";
+var mnemonic = "brother agree danger drive fresh swear stand farm winner wise repair coach";

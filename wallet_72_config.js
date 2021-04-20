@@ -1,1 +1,1 @@
-var mnemonic = "gun hockey august usual fence exile notable joy fun eternal north differ";
+var mnemonic = "priority eye festival six excite already ostrich sudden item axis solar convince";

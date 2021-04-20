@@ -1,1 +1,1 @@
-var mnemonic = "setup tape cannon squirrel member woman level derive obvious evil exclude tackle";
+var mnemonic = "focus bar promote blast mountain acoustic senior crater chief imitate powder estate";

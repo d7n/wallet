@@ -1,1 +1,1 @@
-var mnemonic = "almost pattern mother clinic spice sign rose amount someone canal web change";
+var mnemonic = "pottery panel list century tool bacon razor adult execute result common match";

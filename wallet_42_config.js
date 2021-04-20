@@ -1,1 +1,1 @@
-var mnemonic = "group amused differ inform define garden front finger give leisure depart first";
+var mnemonic = "soft flip ripple pact document oyster program call genuine hazard desert waste";

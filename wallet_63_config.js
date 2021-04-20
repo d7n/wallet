@@ -1,1 +1,1 @@
-var mnemonic = "erode offer heart drastic muscle error grace subway cat brain crisp engage";
+var mnemonic = "mouse friend alpha team visit web layer pluck where heavy mention present";

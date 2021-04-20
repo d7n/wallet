@@ -1,1 +1,1 @@
-var mnemonic = "strong price day begin police depth sock belt document machine pull attack";
+var mnemonic = "safe armed marble survey naive oil art inflict hundred gravity bleak very";

@@ -1,1 +1,1 @@
-var mnemonic = "boss order intact comic link prevent gap beauty way custom grain sort";
+var mnemonic = "sound explain interest season system panda rain rough fatigue fashion nut kid";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb jeans double immune nation creek mad cradle icon immune talent garbage";
+var mnemonic = "tomorrow pluck party barely sibling topic oven frost fit memory assume wolf";

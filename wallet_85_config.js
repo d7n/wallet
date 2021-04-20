@@ -1,1 +1,1 @@
-var mnemonic = "clean arctic doctor rocket miracle bridge dose lend thing fantasy equal pull";
+var mnemonic = "away ask baby behind depart isolate equip matrix muscle nerve scare deer";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction similar canyon obey setup maximum panic version tail soap derive struggle";
+var mnemonic = "museum above chimney impose average cricket lake sting trophy disagree sail dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel suffer coconut wise shoe garden crouch mercy exile stage child base";
+var mnemonic = "unfair vibrant hood correct depth educate top other pet quit shock now";

@@ -1,1 +1,1 @@
-var mnemonic = "defy garlic deliver odor suit discover camera shell water chase betray zone";
+var mnemonic = "mesh fault dog spike auto neglect oblige exercise heavy power arctic system";

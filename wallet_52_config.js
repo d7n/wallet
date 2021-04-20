@@ -1,1 +1,1 @@
-var mnemonic = "disagree explain fancy just absurd room hawk minor father pepper world work";
+var mnemonic = "strike midnight tourist nurse stuff fall trust shrimp quick walnut volume paddle";

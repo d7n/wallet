@@ -1,1 +1,1 @@
-var mnemonic = "ship autumn sport local obvious deal above angle web purse nothing marriage";
+var mnemonic = "tone fire deal utility curtain prosper safe real true jaguar coach drip";

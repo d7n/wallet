@@ -1,1 +1,1 @@
-var mnemonic = "front furnace butter athlete toe gorilla enemy dignity omit guide category capital";
+var mnemonic = "enhance alpha author paper master gospel arrest donate input lock master note";

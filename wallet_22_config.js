@@ -1,1 +1,1 @@
-var mnemonic = "cabbage head deal enter green deputy usual put heavy exotic universe lens";
+var mnemonic = "success mix ladder visual route shoulder frame ribbon close hockey mango void";

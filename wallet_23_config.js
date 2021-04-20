@@ -1,1 +1,1 @@
-var mnemonic = "use cute wisdom vague stereo dance anchor spoil position faint mix crumble";
+var mnemonic = "board then soldier paper clinic live accident enough ridge usage fresh gossip";
