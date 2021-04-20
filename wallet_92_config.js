@@ -1,1 +1,1 @@
-var mnemonic = "keep digital couple option paddle awful canyon acquire depth peanut frame antique";
+var mnemonic = "jeans peanut parent muffin diary fee document injury sea miss dad agent";

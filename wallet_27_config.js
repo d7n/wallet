@@ -1,1 +1,1 @@
-var mnemonic = "hurry tool verb improve quit mad scrub tonight exercise gasp place club";
+var mnemonic = "giraffe chat trick heavy wave gift bless advance rug frequent hobby sauce";

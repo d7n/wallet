@@ -1,1 +1,1 @@
-var mnemonic = "bring include process depth gallery jar argue spawn runway sock figure tribe";
+var mnemonic = "horror immune chef pluck key receive observe execute neck envelope check damp";

@@ -1,1 +1,1 @@
-var mnemonic = "raw proof file nest ready business evil grit pottery apart credit deer";
+var mnemonic = "flock album rather minimum galaxy web minute mixed puzzle honey cake that";

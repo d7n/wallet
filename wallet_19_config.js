@@ -1,1 +1,1 @@
-var mnemonic = "verb always valve soldier bunker rebel trumpet furnace method elite nose yard";
+var mnemonic = "boost medal rail stool behind critic you bring fan brass foam panel";

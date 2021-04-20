@@ -1,1 +1,1 @@
-var mnemonic = "motor ladder nature grace youth luggage pretty engine long life school empower";
+var mnemonic = "hire laptop vanish divorce apology model face market decade option stereo design";

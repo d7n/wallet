@@ -1,1 +1,1 @@
-var mnemonic = "neck poverty region nut kid quality quantum pistol eight duty mechanic goose";
+var mnemonic = "cook speak unlock pill antique pig physical soldier useless motor disorder midnight";

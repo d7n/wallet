@@ -1,1 +1,1 @@
-var mnemonic = "only ranch fitness drum absorb inner kid rude spring allow broom coach";
+var mnemonic = "surround current display smart there cute stool legend patrol spell among family";

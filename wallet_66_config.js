@@ -1,1 +1,1 @@
-var mnemonic = "sword next basket shine magnet gown seat mention ticket initial neglect place";
+var mnemonic = "smoke feed biology jazz off autumn crack mansion forward inquiry steel equal";

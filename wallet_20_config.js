@@ -1,1 +1,1 @@
-var mnemonic = "fine neutral dust slam alpha tortoise become design solve purchase club giggle";
+var mnemonic = "food mountain vapor gossip judge plastic hockey hammer spoon neither already shaft";

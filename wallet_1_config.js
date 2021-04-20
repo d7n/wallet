@@ -1,1 +1,1 @@
-var mnemonic = "student confirm spirit ten awkward awake exhaust wall super lend eyebrow rifle";
+var mnemonic = "kitten human weird prize process buddy yellow cherry render phone lonely indicate";

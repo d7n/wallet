@@ -1,1 +1,1 @@
-var mnemonic = "label grant foot glory want cargo obvious confirm present check runway ribbon";
+var mnemonic = "usual veteran manage emotion reveal donor picture eager pen tip accuse ship";

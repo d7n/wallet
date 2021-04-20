@@ -1,1 +1,1 @@
-var mnemonic = "journey catalog bind feel window vapor joy age under have dwarf giant";
+var mnemonic = "say world turkey enroll horror pelican beef horse volcano tower steel example";

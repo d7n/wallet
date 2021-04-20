@@ -1,1 +1,1 @@
-var mnemonic = "away pond able embody finger fuel school north cute blind keep october";
+var mnemonic = "cube glad snake relax choose identify ticket wise hover success session hello";

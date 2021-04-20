@@ -1,1 +1,1 @@
-var mnemonic = "head write tool cherry effort top gloom winter journey sound satisfy evolve";
+var mnemonic = "brisk thought save toy return decorate mushroom rough decline clump alarm human";

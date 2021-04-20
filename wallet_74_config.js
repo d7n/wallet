@@ -1,1 +1,1 @@
-var mnemonic = "recycle host moon track drum hover tissue gap slow stomach cruel snake";
+var mnemonic = "remove bench erupt move talk weekend crash business cricket today library bottom";

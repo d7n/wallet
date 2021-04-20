@@ -1,1 +1,1 @@
-var mnemonic = "gift feed eight old mechanic auto promote upset rice badge shock decrease";
+var mnemonic = "party debate habit enhance wasp this they code gadget detect faint quarter";

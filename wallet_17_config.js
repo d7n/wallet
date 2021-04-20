@@ -1,1 +1,1 @@
-var mnemonic = "media offer glare used improve eyebrow leopard witness dynamic diesel eagle photo";
+var mnemonic = "leisure very evidence ranch pony second clarify nation portion bubble surround theme";

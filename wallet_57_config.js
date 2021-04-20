@@ -1,1 +1,1 @@
-var mnemonic = "change grit fetch nest try reunion sorry rough era song keen thought";
+var mnemonic = "tell object salmon trigger clock icon demise claw current great venue theme";

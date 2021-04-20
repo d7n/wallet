@@ -1,1 +1,1 @@
-var mnemonic = "fluid zebra fashion topic service meadow idle private rotate baby foam pass";
+var mnemonic = "come gaze car mask live glow boost clutch real rapid puppy run";

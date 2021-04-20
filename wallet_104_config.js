@@ -1,1 +1,1 @@
-var mnemonic = "surface brown outdoor earth ten world build bread theme soup offer tribe";
+var mnemonic = "fancy sibling galaxy myself strike supply hurdle huge caught oxygen clip enter";

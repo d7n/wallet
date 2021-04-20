@@ -1,1 +1,1 @@
-var mnemonic = "dose hat pond blouse glance memory require win opinion liquid outer junior";
+var mnemonic = "utility rude swear shrug abstract cage crowd leopard ketchup easily luxury comfort";

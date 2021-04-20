@@ -1,1 +1,1 @@
-var mnemonic = "balcony check concert glad subway weather humor polar now sight grace pair";
+var mnemonic = "morning motor joy core private easy reform victory dove provide crime gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "journey mother path stock picnic peasant tell spice fork wrist girl alarm";
+var mnemonic = "ivory congress power meat describe okay weapon warfare choose mix barrel friend";

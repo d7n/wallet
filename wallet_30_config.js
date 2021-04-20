@@ -1,1 +1,1 @@
-var mnemonic = "grass recycle river galaxy door auction weather drama update amateur lounge tape";
+var mnemonic = "assume equip impact agree strong execute produce effort cart churn fortune top";

@@ -1,1 +1,1 @@
-var mnemonic = "category bag genuine violin pilot breeze twice input symbol salon balance save";
+var mnemonic = "ghost million tone violin buzz pull wine icon unknown bless airport expose";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma program kid style promote forest voyage flush twelve inherit almost unusual";
+var mnemonic = "armed outer dream waste since derive pottery shoot fiscal ignore luggage valley";

@@ -1,1 +1,1 @@
-var mnemonic = "domain absorb misery equal seed enemy large lounge man option record jelly";
+var mnemonic = "habit venue later winter add hotel draw universe message slow saddle region";

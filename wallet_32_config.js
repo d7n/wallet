@@ -1,1 +1,1 @@
-var mnemonic = "fence pilot crash mother puppy slice saddle grab circle coconut cabin amazing";
+var mnemonic = "warfare blue fitness large drama tornado cattle menu arctic keep game control";

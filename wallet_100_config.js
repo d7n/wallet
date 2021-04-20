@@ -1,1 +1,1 @@
-var mnemonic = "letter gentle plate oxygen glue buddy tell guard pause meat drip recall";
+var mnemonic = "educate runway write turtle code broccoli flag soccer boil fiction admit monster";

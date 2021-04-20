@@ -1,1 +1,1 @@
-var mnemonic = "gasp toddler venue symbol switch iron lounge unusual fetch film subject perfect";
+var mnemonic = "divert crater mansion forest desert sail adjust release column infant tent flip";

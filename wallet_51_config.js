@@ -1,1 +1,1 @@
-var mnemonic = "blur inch true expose phone close hard mechanic draw river bubble eyebrow";
+var mnemonic = "bench trust upper museum stuff mystery paddle ankle humble episode turtle damp";

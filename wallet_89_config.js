@@ -1,1 +1,1 @@
-var mnemonic = "winner tank web tonight struggle problem vessel width hammer lamp tiger dust";
+var mnemonic = "visit huge rhythm demand achieve logic valley family another impose suit ahead";

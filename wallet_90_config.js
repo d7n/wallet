@@ -1,1 +1,1 @@
-var mnemonic = "rice thunder cannon resemble act puppy vague victory pigeon harbor win ugly";
+var mnemonic = "clip pull picnic arrest civil engage into side suffer spy vanish aware";

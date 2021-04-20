@@ -1,1 +1,1 @@
-var mnemonic = "scale analyst close obvious uphold used grocery random soccer grace street couple";
+var mnemonic = "phrase divert kangaroo lab swing talk kind sample buyer oak settle young";

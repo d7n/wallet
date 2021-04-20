@@ -1,1 +1,1 @@
-var mnemonic = "world source include dentist blast ocean catch guide ripple develop project shy";
+var mnemonic = "half ankle north purse rival window hockey sad minor rail wasp beauty";

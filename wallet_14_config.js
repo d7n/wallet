@@ -1,1 +1,1 @@
-var mnemonic = "strike upset hip head carbon cover mention canyon dress carry noble appear";
+var mnemonic = "medal interest release point secret produce sport emotion clever truth just kite";

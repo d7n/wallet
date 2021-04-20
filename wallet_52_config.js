@@ -1,1 +1,1 @@
-var mnemonic = "skull cheese mushroom play whale dream gossip traffic write raise portion crowd";
+var mnemonic = "cluster blood arrow panel allow stuff eagle tell mirror ecology retreat collect";

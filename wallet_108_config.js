@@ -1,1 +1,1 @@
-var mnemonic = "else join series twin before impulse near dad impose bench chapter impact";
+var mnemonic = "govern nose fury pluck staff enhance social agent defy sphere fault tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe hunt toast negative family iron happy table ankle faint kit risk";
+var mnemonic = "regret zone find security tone snake anger degree muffin stage swallow shift";

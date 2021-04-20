@@ -1,1 +1,1 @@
-var mnemonic = "notice glue fluid beef pony odor behind reveal finger diet question elephant";
+var mnemonic = "boy era parade card jaguar trade cost athlete current odor major refuse";

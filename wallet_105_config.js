@@ -1,1 +1,1 @@
-var mnemonic = "humble envelope clay portion basket awesome text poet sure learn zebra tonight";
+var mnemonic = "chalk outside catalog carpet demise cupboard apart must critic expire trash armed";

@@ -1,1 +1,1 @@
-var mnemonic = "type seek shed kick vast spray giraffe solid grab method eternal deal";
+var mnemonic = "damage champion excite furnace afraid text thing spirit cover movie festival earn";

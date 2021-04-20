@@ -1,1 +1,1 @@
-var mnemonic = "cart pink drip rice embark pumpkin doll salon road lawsuit squirrel combine";
+var mnemonic = "valid horse august crime range shy resist denial novel dumb pulp ticket";

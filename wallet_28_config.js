@@ -1,1 +1,1 @@
-var mnemonic = "blue expire slide eager twice picture ten beyond trend maze opinion forum";
+var mnemonic = "roof end friend crumble fancy divide business sorry embrace firm artist prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "runway pipe sphere trip crop apple math donkey sketch husband jelly gift";
+var mnemonic = "slide turtle divert melt whisper dash double version kingdom together genre sleep";

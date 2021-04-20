@@ -1,1 +1,1 @@
-var mnemonic = "survey patch off addict love pelican sea grunt film depart orbit tide";
+var mnemonic = "urge visual simple approve toy vanish salon try evolve odor release invest";

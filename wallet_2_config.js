@@ -1,1 +1,1 @@
-var mnemonic = "vacant direct increase install fuel sunset other eagle kiss shell private bleak";
+var mnemonic = "render toe front bundle hand black term spread vote number around actress";

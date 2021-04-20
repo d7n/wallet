@@ -1,1 +1,1 @@
-var mnemonic = "kite choose soft width lobster diesel sun pottery pyramid either slice bring";
+var mnemonic = "enforce about canoe strong labor lesson brown scale blue bottom idea stage";

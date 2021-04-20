@@ -1,1 +1,1 @@
-var mnemonic = "hill art unfair survey yellow drink van raise insect voyage foot carbon";
+var mnemonic = "scrap few adult disagree trend diary snow autumn robust dust system pioneer";

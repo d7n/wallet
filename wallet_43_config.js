@@ -1,1 +1,1 @@
-var mnemonic = "way enforce put mass core sister smoke hungry enable torch throw menu";
+var mnemonic = "only snake know smooth match topic catch demise actress useful wasp glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "win rich divert blush crunch else thrive dish usage document shield cinnamon";
+var mnemonic = "nose purpose cry steel rebuild scout bread position half conduct boring all";

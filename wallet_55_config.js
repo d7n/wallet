@@ -1,1 +1,1 @@
-var mnemonic = "spell liar jewel prosper crater trip cross acoustic among master input area";
+var mnemonic = "unhappy blanket spoil solve autumn glove canal depart table whisper talk extra";

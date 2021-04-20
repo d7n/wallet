@@ -1,1 +1,1 @@
-var mnemonic = "fiber erosion tomorrow jewel rotate share carbon cable waste effort load provide";
+var mnemonic = "omit fortune chase subject coin era diamond spread kite quote pretty cherry";

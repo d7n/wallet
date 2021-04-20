@@ -1,1 +1,1 @@
-var mnemonic = "rough torch depart define fame transfer polar section goose south shop brief";
+var mnemonic = "chunk patrol clever radar garbage sure body then abandon accident metal mix";

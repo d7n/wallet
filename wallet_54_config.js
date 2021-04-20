@@ -1,1 +1,1 @@
-var mnemonic = "dry exile despair ivory destroy also cake ensure month goddess identify super";
+var mnemonic = "twist oval primary round race analyst subject click axis grace ask abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure visual wash exhibit coyote frame butter chuckle oblige game fiscal joy";
+var mnemonic = "estate wonder lawsuit oval shadow ketchup phone stone extra you lesson unique";

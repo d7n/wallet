@@ -1,1 +1,1 @@
-var mnemonic = "same disorder various sea abandon region throw tumble define goat electric wash";
+var mnemonic = "live bronze rapid margin paddle flavor delay regular rice jealous lunch grocery";

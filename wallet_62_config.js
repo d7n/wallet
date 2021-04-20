@@ -1,1 +1,1 @@
-var mnemonic = "limit price kangaroo next rain furnace finish timber misery own sign glide";
+var mnemonic = "toddler elegant hammer ability become decrease dumb various mountain penalty style collect";

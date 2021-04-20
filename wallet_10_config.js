@@ -1,1 +1,1 @@
-var mnemonic = "injury income car exhibit settle real trash great office hundred mask festival";
+var mnemonic = "party story journey country stand gap entry eagle blossom item where twenty";

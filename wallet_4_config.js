@@ -1,1 +1,1 @@
-var mnemonic = "december method peasant essence satoshi select iron involve rail reduce tribe frozen";
+var mnemonic = "holiday brown above lawn remember wrong famous depart submit tooth emerge truth";

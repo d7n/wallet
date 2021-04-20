@@ -1,1 +1,1 @@
-var mnemonic = "rocket coin car also crop cool minute minimum report alcohol gallery tray";
+var mnemonic = "rhythm stomach glue lunch inform federal donate comfort high salute rely plunge";

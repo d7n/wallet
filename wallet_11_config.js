@@ -1,1 +1,1 @@
-var mnemonic = "exit feel record duck tumble match almost story badge island inmate primary";
+var mnemonic = "spatial chicken merry thumb oven unknown miss admit ladder oppose ridge zone";

@@ -1,1 +1,1 @@
-var mnemonic = "viable also onion lumber slice maid cupboard avocado sustain lunch pelican soon";
+var mnemonic = "input pottery race rebuild baby family there tennis busy plunge ability subway";

@@ -1,1 +1,1 @@
-var mnemonic = "utility shy daughter trend response patient swarm celery proud shadow face angle";
+var mnemonic = "shop ugly paper maple pilot neutral eagle annual weapon define error mom";

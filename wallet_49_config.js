@@ -1,1 +1,1 @@
-var mnemonic = "seat off despair such dutch airport soul thrive attract digital bracket hidden";
+var mnemonic = "wild above tail admit edit hazard want silk surge rare music domain";

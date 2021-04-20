@@ -1,1 +1,1 @@
-var mnemonic = "egg oak similar code awful benefit eight round rhythm plug buyer sunset";
+var mnemonic = "harsh little room guitar glide buddy hollow problem stumble shoulder electric address";

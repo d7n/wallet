@@ -1,1 +1,1 @@
-var mnemonic = "upper mesh also lonely gap antique index swift scatter vote hurt aerobic";
+var mnemonic = "forest humble exclude swarm always number bus useless tuition sweet about outside";

@@ -1,1 +1,1 @@
-var mnemonic = "market vacant filter tonight movie silver category trade fuel damage chimney comfort";
+var mnemonic = "muffin write unusual employ face vessel hill dynamic caught lava tunnel arena";

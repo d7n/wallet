@@ -1,1 +1,1 @@
-var mnemonic = "rapid spray husband truly law seminar start fault foster car either hollow";
+var mnemonic = "trigger estate dutch verify mistake silk student rebel tell city deny plastic";

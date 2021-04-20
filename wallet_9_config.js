@@ -1,1 +1,1 @@
-var mnemonic = "lyrics chef lazy shy egg adjust moon blue liquid buyer permit hope";
+var mnemonic = "jungle vessel fee chase auto tube demand fit rural casual gospel cradle";

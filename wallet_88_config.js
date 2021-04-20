@@ -1,1 +1,1 @@
-var mnemonic = "rain risk barely name must pond scout soldier burden ginger mixture search";
+var mnemonic = "decide hidden kiss pepper romance soccer energy quote index month find dismiss";

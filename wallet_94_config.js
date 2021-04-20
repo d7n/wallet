@@ -1,1 +1,1 @@
-var mnemonic = "ski lazy never over matter coast warrior toast stone inch brisk carpet";
+var mnemonic = "jacket pumpkin unfair bean matter sting enable enhance visa pink enforce photo";

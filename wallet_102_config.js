@@ -1,1 +1,1 @@
-var mnemonic = "ask monitor economy seminar junior shove rug original mystery message leg wheel";
+var mnemonic = "common mistake arctic ripple goose pulse similar impose crowd apple blade delay";

@@ -1,1 +1,1 @@
-var mnemonic = "father equip ethics monitor grief dilemma effort scissors old flash lunar execute";
+var mnemonic = "cement balcony pride twelve soldier auto praise divorce hope special nominee awful";

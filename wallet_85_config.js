@@ -1,1 +1,1 @@
-var mnemonic = "remain tongue pledge change duck notice shrug typical design hub stuff salt";
+var mnemonic = "pause army zebra basic giant wire thank steel elite relief orchard fit";

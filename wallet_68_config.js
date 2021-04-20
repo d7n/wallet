@@ -1,1 +1,1 @@
-var mnemonic = "balance call traffic glad burden sight claim regret anchor series village bacon";
+var mnemonic = "token combine flavor sport heavy achieve renew mansion agent wedding two gun";

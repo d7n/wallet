@@ -1,1 +1,1 @@
-var mnemonic = "click patient child machine small movie bottom sauce breeze clap benefit arctic";
+var mnemonic = "derive soap once door simple ring rocket wheat attitude oven decorate chapter";

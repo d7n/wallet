@@ -1,1 +1,1 @@
-var mnemonic = "intact cheese hill adult wrist solar abandon favorite loyal question want gospel";
+var mnemonic = "patient celery crowd throw bread coil equal ankle cabbage harvest demand destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor spin target nation soul october work tunnel snap eight diesel popular";
+var mnemonic = "run collect print wing toast duty despair strong nasty swarm humor what";

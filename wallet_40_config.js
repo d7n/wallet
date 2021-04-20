@@ -1,1 +1,1 @@
-var mnemonic = "faculty cry wrestle range tower inmate device need tortoise solution habit puzzle";
+var mnemonic = "program discover zebra floor large suffer mountain panther assume desert fitness shallow";

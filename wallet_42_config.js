@@ -1,1 +1,1 @@
-var mnemonic = "wear funny slice visit leaf glow wrap chest myself leg hungry dial";
+var mnemonic = "myth member notice laundry host crime blur actress toss witness chuckle leisure";

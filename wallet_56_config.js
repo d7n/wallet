@@ -1,1 +1,1 @@
-var mnemonic = "domain cattle veteran exhaust pony nature copy sustain decide soul horse skill";
+var mnemonic = "favorite effort cycle slush adjust jazz easy tent endorse uncle day quarter";

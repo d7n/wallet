@@ -1,1 +1,1 @@
-var mnemonic = "crime test detail faith twist region flock essay drive vivid youth town";
+var mnemonic = "muscle menu wheel crawl file wool truly any park govern trigger reward";

@@ -1,1 +1,1 @@
-var mnemonic = "first rally relief sleep lazy devote pottery brisk switch inspire inhale truth";
+var mnemonic = "area sunset obey anxiety orchard find intact jelly alarm such again bean";

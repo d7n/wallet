@@ -1,1 +1,1 @@
-var mnemonic = "vehicle hurdle remind high margin mosquito give taste useless wear topic spawn";
+var mnemonic = "ginger road weird culture thank check above father bleak web pizza recycle";

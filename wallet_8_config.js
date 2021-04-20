@@ -1,1 +1,1 @@
-var mnemonic = "embrace board silly brick drama blossom valve setup story code town luxury";
+var mnemonic = "size surprise deputy educate hub output bean menu fetch crush dog behind";

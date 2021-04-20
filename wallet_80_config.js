@@ -1,1 +1,1 @@
-var mnemonic = "match poverty august carbon corn use attract cactus defense unhappy remind predict";
+var mnemonic = "rally march orchard sunset concert sight dynamic again disagree siege oyster bring";

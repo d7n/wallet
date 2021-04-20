@@ -1,1 +1,1 @@
-var mnemonic = "congress coach drip deliver bone climb evoke local rate such swarm pencil";
+var mnemonic = "wolf labor claw clown sport carpet pull scatter liar decide three ozone";

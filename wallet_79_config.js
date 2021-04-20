@@ -1,1 +1,1 @@
-var mnemonic = "alcohol such flash abuse farm salmon history news photo leg reunion recall";
+var mnemonic = "puppy duty bind elder fee where quality turtle brief struggle certain bless";

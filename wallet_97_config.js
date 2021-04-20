@@ -1,1 +1,1 @@
-var mnemonic = "income pause zoo you spring nose remove ozone donor squirrel bounce web";
+var mnemonic = "calm today thing protect cycle donkey rescue mandate sure song trap merry";

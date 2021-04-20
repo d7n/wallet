@@ -1,1 +1,1 @@
-var mnemonic = "media solid silent build idle manage total crater abuse subway exotic clean";
+var mnemonic = "cart cheese anchor have empty dish aisle taxi congress lizard trial bacon";
