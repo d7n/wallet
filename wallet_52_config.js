@@ -1,1 +1,1 @@
-var mnemonic = "marine corn mechanic clog poverty mobile sense vault humble pupil enjoy position";
+var mnemonic = "odor sausage business subject upset truth picture south inhale garden taste hour";

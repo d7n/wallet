@@ -1,1 +1,1 @@
-var mnemonic = "day avoid lawn eye trade auto sound flip load decline atom seed";
+var mnemonic = "image ordinary wrestle priority file allow combine weasel filter original monster off";

@@ -1,1 +1,1 @@
-var mnemonic = "topple wrong humor patch help bracket wide goose tube ready shed afraid";
+var mnemonic = "polar gospel news spike street snow village amount snack piece offer later";

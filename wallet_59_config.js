@@ -1,1 +1,1 @@
-var mnemonic = "final enrich arm skate flee jealous phone trim canoe blame loud fade";
+var mnemonic = "veteran senior mimic fix when man tiger large alcohol diet volcano toss";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch expect rose defense you rival grunt hotel share parent exit mandate";
+var mnemonic = "height one novel aunt pink odor eight raw cinnamon narrow tornado upper";

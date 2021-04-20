@@ -1,1 +1,1 @@
-var mnemonic = "stage deer language quantum above title hire forget thank delay put because";
+var mnemonic = "bracket verb toss market opera bacon knock economy wood become initial rubber";

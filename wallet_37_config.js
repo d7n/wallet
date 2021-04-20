@@ -1,1 +1,1 @@
-var mnemonic = "buffalo dutch fade cigar twice cattle fly release laptop unknown health dynamic";
+var mnemonic = "lunch deer enough kid limb purse solid approve tenant behave hand buyer";

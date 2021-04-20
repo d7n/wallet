@@ -1,1 +1,1 @@
-var mnemonic = "modify crater poem upon suspect twenty planet world hunt bomb mad common";
+var mnemonic = "lazy wait empty carpet alpha layer attitude vast razor correct dragon enter";

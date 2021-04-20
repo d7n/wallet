@@ -1,1 +1,1 @@
-var mnemonic = "prepare rescue table recycle bring size glad caught little robust round habit";
+var mnemonic = "rhythm reflect wet unfold unveil twist liberty survey crime snap become cluster";

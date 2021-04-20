@@ -1,1 +1,1 @@
-var mnemonic = "disease shell crunch ice glad monitor bike hold oven rhythm congress already";
+var mnemonic = "spin torch advance grape above blossom blast record tortoise alpha holiday fence";

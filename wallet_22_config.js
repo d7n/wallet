@@ -1,1 +1,1 @@
-var mnemonic = "saddle wheat year north vendor file catalog good crane twenty shuffle debris";
+var mnemonic = "inquiry hub dial appear rabbit onion enroll amazing mandate catalog matter federal";

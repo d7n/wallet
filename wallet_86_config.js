@@ -1,1 +1,1 @@
-var mnemonic = "right vendor artefact goat puppy hill shrug gravity raccoon goose student gasp";
+var mnemonic = "mutual humor eagle noble lock outer door now scene swift sheriff husband";

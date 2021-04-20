@@ -1,1 +1,1 @@
-var mnemonic = "casino table neglect parrot load final oak mountain rally dragon provide brand";
+var mnemonic = "magnet cigar attend recycle radar parade spirit hour demand punch table chef";

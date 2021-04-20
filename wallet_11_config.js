@@ -1,1 +1,1 @@
-var mnemonic = "garden pitch myself jelly game guitar hair atom ecology begin jar sausage";
+var mnemonic = "fetch ginger slim february claim seed man fury empty ability victory version";

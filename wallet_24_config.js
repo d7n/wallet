@@ -1,1 +1,1 @@
-var mnemonic = "absurd shaft coconut neutral gas exhaust wreck cousin upper glimpse security liberty";
+var mnemonic = "urban connect wise now glory employ legal brick genius analyst gorilla aim";

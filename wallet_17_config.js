@@ -1,1 +1,1 @@
-var mnemonic = "danger mention imitate crystal ugly inspire also frog purity year shed affair";
+var mnemonic = "sentence start cable join tonight memory this dirt exhaust clean cash assault";

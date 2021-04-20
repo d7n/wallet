@@ -1,1 +1,1 @@
-var mnemonic = "bright wing dream crew indoor clog end cabin stadium clap family marine";
+var mnemonic = "iron install mass umbrella fee push keen essay scale energy pepper advice";

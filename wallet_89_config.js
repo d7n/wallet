@@ -1,1 +1,1 @@
-var mnemonic = "deny oval hamster bless leopard actual budget bus insane escape cool tray";
+var mnemonic = "mobile awkward win poverty elder trick mosquito luxury miracle stock before miracle";

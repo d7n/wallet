@@ -1,1 +1,1 @@
-var mnemonic = "sun choose scrub zoo lion anxiety claw major save plug change iron";
+var mnemonic = "shoe tenant sphere bachelor invite stadium company sort route episode ghost step";

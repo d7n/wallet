@@ -1,1 +1,1 @@
-var mnemonic = "worry luxury dignity parrot million hamster increase eyebrow october thing final powder";
+var mnemonic = "rally ticket flock junk series night entire reopen start duck wool alarm";

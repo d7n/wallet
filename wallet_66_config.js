@@ -1,1 +1,1 @@
-var mnemonic = "snack deputy doll second real job journey lumber favorite swim proud lizard";
+var mnemonic = "illness comfort spawn moment parent rate slush giant where income cram begin";

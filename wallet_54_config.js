@@ -1,1 +1,1 @@
-var mnemonic = "private broom armor female now satoshi nature chronic uphold grief year horror";
+var mnemonic = "wing rather anger real tackle goat floor matrix chest mystery shop inform";

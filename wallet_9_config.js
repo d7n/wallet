@@ -1,1 +1,1 @@
-var mnemonic = "trap bulb hire stock amazing divorce adapt expect napkin solid diesel zebra";
+var mnemonic = "eyebrow diagram chronic flat brick share cotton collect tiny prize dumb reward";

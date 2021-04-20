@@ -1,1 +1,1 @@
-var mnemonic = "please explain deputy payment symbol medal volcano zero now faculty asset submit";
+var mnemonic = "brother daughter symbol wave lesson spell gold riot solid main blame derive";

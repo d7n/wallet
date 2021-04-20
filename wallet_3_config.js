@@ -1,1 +1,1 @@
-var mnemonic = "valley traffic marine disorder crack problem aware tackle thrive reform guilt fire";
+var mnemonic = "antenna faith jelly submit rhythm athlete bottom then already artist evoke genius";

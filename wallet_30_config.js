@@ -1,1 +1,1 @@
-var mnemonic = "soup purity arena style mobile bullet mad tonight hour zero unfold float";
+var mnemonic = "duck buyer salute palm rural diamond hawk found sweet middle hero autumn";

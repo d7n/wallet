@@ -1,1 +1,1 @@
-var mnemonic = "talk isolate brush mistake smile aspect ski runway short recipe nuclear first";
+var mnemonic = "endless ten sound tobacco paper fire student clock book photo blouse fit";

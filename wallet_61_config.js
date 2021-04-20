@@ -1,1 +1,1 @@
-var mnemonic = "swarm warrior upset siren knock wrap icon spawn crunch almost lumber liar";
+var mnemonic = "custom pony wear pelican rail must keen pulse half bar cram play";

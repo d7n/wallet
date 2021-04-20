@@ -1,1 +1,1 @@
-var mnemonic = "grain bike seat figure maximum message depend pepper grief lava emerge virus";
+var mnemonic = "whisper relax brave help gift edit gym ride magic circle obscure trumpet";

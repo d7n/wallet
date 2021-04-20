@@ -1,1 +1,1 @@
-var mnemonic = "doll eyebrow liar jacket destroy defense boil other replace harvest material early";
+var mnemonic = "mix winner caught cloth kangaroo either assume bird tackle ability tornado cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "used bus example foam member enlist system slender correct hurdle inflict paper";
+var mnemonic = "junior wrestle sponsor noodle raccoon analyst wood crater assume expect design allow";

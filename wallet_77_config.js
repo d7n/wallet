@@ -1,1 +1,1 @@
-var mnemonic = "divide rate figure evolve typical element color object squeeze home organ tortoise";
+var mnemonic = "drill hybrid borrow divide there insect fatigue keep club carry notable seek";

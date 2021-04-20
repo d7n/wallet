@@ -1,1 +1,1 @@
-var mnemonic = "fog ceiling weasel include collect magnet romance sibling wreck shock dad stock";
+var mnemonic = "network file patch know federal dry give fabric copper snap sauce rose";

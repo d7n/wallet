@@ -1,1 +1,1 @@
-var mnemonic = "path magic acoustic buyer fog top bleak local venture fragile satoshi setup";
+var mnemonic = "rose file team metal magic wave echo long moment ignore cousin silent";

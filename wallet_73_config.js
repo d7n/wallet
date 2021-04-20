@@ -1,1 +1,1 @@
-var mnemonic = "point marriage injury industry bag strong file fatigue exotic leaf uniform primary";
+var mnemonic = "awake power finger claw until media scan owner boost dove equip lunch";

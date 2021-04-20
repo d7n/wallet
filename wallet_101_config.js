@@ -1,1 +1,1 @@
-var mnemonic = "vicious crunch receive muscle dinosaur eternal problem arctic scan knock exact earn";
+var mnemonic = "permit obscure either away juice island easily host insect dial swamp write";

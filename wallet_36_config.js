@@ -1,1 +1,1 @@
-var mnemonic = "front senior smart dance month genuine laundry pact zone catch cherry vacant";
+var mnemonic = "lawn lift trap thrive glance fade expose doctor census gospel hundred priority";

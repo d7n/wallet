@@ -1,1 +1,1 @@
-var mnemonic = "voyage caught edge snap payment rude anxiety science toast start diesel need";
+var mnemonic = "beach save side tell blue permit lazy fresh fly inflict draft give";

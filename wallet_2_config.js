@@ -1,1 +1,1 @@
-var mnemonic = "merge work action connect gentle tiger feature save catch asset oblige arrive";
+var mnemonic = "impact tower sunny license rude lobster oak gym hill glove rain warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "caution obey furnace job sad devote curtain phone green clock crystal swift";
+var mnemonic = "april agree essay click immense brain lumber goddess razor uncle where scrub";

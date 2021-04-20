@@ -1,1 +1,1 @@
-var mnemonic = "glide ripple volume give very various pluck cluster exact decade dress youth";
+var mnemonic = "butter town ugly rescue blade argue bonus rotate office bridge action replace";

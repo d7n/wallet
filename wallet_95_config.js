@@ -1,1 +1,1 @@
-var mnemonic = "add apple play retreat way unhappy animal tribe couple castle fly raven";
+var mnemonic = "genuine behave pride rifle festival boy later fan brown adult nominee swift";

@@ -1,1 +1,1 @@
-var mnemonic = "scare blur nerve city measure sorry initial audit pretty danger two worth";
+var mnemonic = "divide fresh lift among nose anxiety cannon brand method rescue zone action";

@@ -1,1 +1,1 @@
-var mnemonic = "exit soda mammal unit ozone animal brief double brown hire entry spy";
+var mnemonic = "action sibling supply that vivid boring share change grab lottery brief chief";

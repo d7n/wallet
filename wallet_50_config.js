@@ -1,1 +1,1 @@
-var mnemonic = "grace relief taste snap rotate pattern mouse unaware pull wash badge lab";
+var mnemonic = "hurry empower select dinosaur myself labor belt mention pen penalty zebra image";

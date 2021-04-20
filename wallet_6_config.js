@@ -1,1 +1,1 @@
-var mnemonic = "agree cinnamon when myth clog control bargain muscle vehicle sign spoil blind";
+var mnemonic = "credit twist material uncover local pitch inspire token clap ride ticket program";

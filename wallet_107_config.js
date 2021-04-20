@@ -1,1 +1,1 @@
-var mnemonic = "cruel annual organ thing ketchup gasp attend sample clown decade ten decline";
+var mnemonic = "toy tackle extra assume only blind quick vacant fancy humble sausage forget";

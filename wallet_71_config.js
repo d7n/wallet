@@ -1,1 +1,1 @@
-var mnemonic = "weather collect napkin flip between pulse rare maid oxygen casino aspect gate";
+var mnemonic = "calm morning cereal world cricket depart train transfer blast away danger dizzy";

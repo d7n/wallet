@@ -1,1 +1,1 @@
-var mnemonic = "universe park direct real travel left submit select sail firm post panther";
+var mnemonic = "identify educate island sort sibling heart trick season similar crisp evil space";

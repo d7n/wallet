@@ -1,1 +1,1 @@
-var mnemonic = "useless trouble hurt elevator galaxy night sting put riot brain water middle";
+var mnemonic = "album inspire need arena recipe offer coral wise ask next fence collect";

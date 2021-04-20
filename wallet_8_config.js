@@ -1,1 +1,1 @@
-var mnemonic = "play wrestle bundle never fan crater surprise frequent release mimic weird claim";
+var mnemonic = "unusual shoulder spy cash sadness harvest term little also reunion anxiety gas";

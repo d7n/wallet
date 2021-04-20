@@ -1,1 +1,1 @@
-var mnemonic = "speak tuition engage hungry season spot call math carbon sweet zero arrest";
+var mnemonic = "seminar nation gold ecology aspect sick term warm buffalo mom wasp steel";

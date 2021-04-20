@@ -1,1 +1,1 @@
-var mnemonic = "margin valve member steel move cave stable scrap slight mammal penalty swim";
+var mnemonic = "rocket move kick busy organ yellow degree rail scale dream govern stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "retire throw dice mix vicious suffer what purpose chat ill tissue input";
+var mnemonic = "air push cute spell dinosaur conduct spray bring crouch suspect window april";

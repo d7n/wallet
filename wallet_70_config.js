@@ -1,1 +1,1 @@
-var mnemonic = "eager manage speed coast middle action occur size fancy misery dignity ordinary";
+var mnemonic = "tobacco robot attract duck illness fall unfair engine sick height razor faith";

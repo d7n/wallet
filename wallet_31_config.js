@@ -1,1 +1,1 @@
-var mnemonic = "menu icon ladder wave elevator before sugar absent belt crumble glue mouse";
+var mnemonic = "asset gate seven august paper common marble object depth medal crime smart";

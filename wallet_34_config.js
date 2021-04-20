@@ -1,1 +1,1 @@
-var mnemonic = "admit zone funny exact proud casual silent survey harvest add favorite force";
+var mnemonic = "energy lake bacon gesture praise word shuffle mango milk blouse sibling sign";

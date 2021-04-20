@@ -1,1 +1,1 @@
-var mnemonic = "radio boil true code excite glow ranch wonder push creek turtle fatigue";
+var mnemonic = "army into huge approve drift blade estate one engage result jewel gift";

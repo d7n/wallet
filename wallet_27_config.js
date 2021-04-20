@@ -1,1 +1,1 @@
-var mnemonic = "foil bright happy wife off arrive unhappy credit fire finger drop wash";
+var mnemonic = "strategy awkward assist able merit high green airport film woman pulp hero";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken fall chaos honey eagle please crystal pigeon theory marine filter machine";
+var mnemonic = "lazy flash today volcano describe nerve select garbage bamboo prosper spring festival";

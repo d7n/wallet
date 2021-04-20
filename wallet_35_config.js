@@ -1,1 +1,1 @@
-var mnemonic = "material train deliver talent guide front polar obvious unaware item buyer special";
+var mnemonic = "toward dismiss gauge loud shop uncle jewel museum wheat you shallow van";

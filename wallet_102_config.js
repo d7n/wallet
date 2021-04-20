@@ -1,1 +1,1 @@
-var mnemonic = "endorse brand insane already lyrics drama army donkey joy oppose what clay";
+var mnemonic = "tribe scare dynamic feel initial all useful pizza negative beach health basic";

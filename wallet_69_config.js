@@ -1,1 +1,1 @@
-var mnemonic = "cash siege machine essence phrase rail slide image obey document bitter logic";
+var mnemonic = "rabbit display tomato phone will reopen nurse such unaware cactus alley recall";

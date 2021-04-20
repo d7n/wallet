@@ -1,1 +1,1 @@
-var mnemonic = "drift budget wealth wide album cart fringe pulp vanish speed busy equip";
+var mnemonic = "letter text exact bean scan occur cruel juice alter region velvet shift";

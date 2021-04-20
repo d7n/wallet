@@ -1,1 +1,1 @@
-var mnemonic = "next dune october harsh coconut because hope brief fence twin zoo shell";
+var mnemonic = "pupil slice party sick monkey slogan purchase camera course tooth sketch vibrant";

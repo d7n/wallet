@@ -1,1 +1,1 @@
-var mnemonic = "blood symbol crowd crew creek easy super model child husband tower reason";
+var mnemonic = "rely same various easy field story warfare effort olympic fury because rural";

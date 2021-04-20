@@ -1,1 +1,1 @@
-var mnemonic = "corn just sweet grape plate sell call truck rifle access latin history";
+var mnemonic = "visit curious immense sniff clap antenna nose stomach craft stock invite use";

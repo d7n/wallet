@@ -1,1 +1,1 @@
-var mnemonic = "virtual ensure chicken cinnamon toe involve crash tank age rally mail brave";
+var mnemonic = "uniform salon chief universe tackle vast nominee exclude joke drip scout reduce";

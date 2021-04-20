@@ -1,1 +1,1 @@
-var mnemonic = "surface tonight address portion aspect invest north drink sad ankle vessel music";
+var mnemonic = "mango upset meadow maid metal second hint anxiety method harvest chef wedding";

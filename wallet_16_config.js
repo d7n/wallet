@@ -1,1 +1,1 @@
-var mnemonic = "agree scan immense aisle guard credit shove worth deal tilt jacket upper";
+var mnemonic = "equip ketchup adapt dress outdoor party abuse combine strategy develop three wish";

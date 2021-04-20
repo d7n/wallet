@@ -1,1 +1,1 @@
-var mnemonic = "cool dwarf enforce glow recall useful simple toe uncle stand keep eye";
+var mnemonic = "license local caught typical boss view glad thunder squirrel inmate swear alley";

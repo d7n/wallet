@@ -1,1 +1,1 @@
-var mnemonic = "denial recall avoid object claw ladder boil silent palm afford buddy reason";
+var mnemonic = "diagram assist vicious hockey cash because across rabbit leg degree earn conduct";

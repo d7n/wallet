@@ -1,1 +1,1 @@
-var mnemonic = "swamp prepare worry stomach pen usual traffic hen wreck clock lottery vicious";
+var mnemonic = "total bike zebra weird turkey tortoise next rural concert stove online aspect";

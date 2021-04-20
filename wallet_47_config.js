@@ -1,1 +1,1 @@
-var mnemonic = "owner ancient earn morning ship supreme thumb loop world defy setup energy";
+var mnemonic = "tumble maple style hawk emotion general original trap lucky famous unveil purity";

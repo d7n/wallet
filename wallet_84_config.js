@@ -1,1 +1,1 @@
-var mnemonic = "plate document album vivid utility result shell divorce unable traffic midnight blind";
+var mnemonic = "subject host also scatter broken blush leave oval cereal media business friend";

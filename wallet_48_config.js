@@ -1,1 +1,1 @@
-var mnemonic = "fatal denial ship moment uncover net govern harvest lake donate inflict garden";
+var mnemonic = "move fatigue add leave tray stomach book crouch step zoo any way";

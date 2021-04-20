@@ -1,1 +1,1 @@
-var mnemonic = "credit warm autumn reject air congress future year rare small staff nut";
+var mnemonic = "drastic victory nest baby diet clutch badge bronze echo tube divide gorilla";

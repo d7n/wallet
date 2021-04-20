@@ -1,1 +1,1 @@
-var mnemonic = "spot response bracket neutral moment wolf volcano render dove lottery remember gather";
+var mnemonic = "able robot wait volume moment swing garment industry coast warm chest misery";

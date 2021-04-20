@@ -1,1 +1,1 @@
-var mnemonic = "divorce laugh autumn hard plug travel flower caution cost settle dragon miracle";
+var mnemonic = "connect finger guitar usage recycle orchard lake fat captain gather bamboo enable";

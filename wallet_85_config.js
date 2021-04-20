@@ -1,1 +1,1 @@
-var mnemonic = "cloth relief jaguar parent liquid news rebel dentist skin coil cattle rent";
+var mnemonic = "excite glide flat pill velvet river impose tape flavor lock skill gift";

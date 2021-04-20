@@ -1,1 +1,1 @@
-var mnemonic = "swarm guitar arrest street keen belt reflect album actress rather laundry bind";
+var mnemonic = "sausage curtain dose subject month crumble fall unit aim dad service add";

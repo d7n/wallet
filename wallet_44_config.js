@@ -1,1 +1,1 @@
-var mnemonic = "day stamp kit pave rookie moment luggage steak mad giant then spring";
+var mnemonic = "various antique width gas human chaos desert wheel early minor despair chalk";

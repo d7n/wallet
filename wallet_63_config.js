@@ -1,1 +1,1 @@
-var mnemonic = "figure medal theory grab surprise tumble neither light mammal deposit remember push";
+var mnemonic = "trial public danger verb hockey bachelor surface depart sure design magic mimic";

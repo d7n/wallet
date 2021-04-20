@@ -1,1 +1,1 @@
-var mnemonic = "rally average various garage throw chase gossip scout sweet light dial sorry";
+var mnemonic = "measure issue bid trick million axis fatigue flash dice like visit basic";

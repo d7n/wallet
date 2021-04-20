@@ -1,1 +1,1 @@
-var mnemonic = "genius jump drop game typical base project purse post space grab foot";
+var mnemonic = "pony chronic mimic excuse able kidney interest square surface meat theory field";

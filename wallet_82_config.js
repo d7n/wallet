@@ -1,1 +1,1 @@
-var mnemonic = "awake lunar ability never trophy miss dial sponsor hollow essence idea warm";
+var mnemonic = "noodle leader chapter lobster ordinary siege ozone unable lunch false prison powder";

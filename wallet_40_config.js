@@ -1,1 +1,1 @@
-var mnemonic = "trim drive merit potato snack mistake hub pet ring february please fence";
+var mnemonic = "arrive lens inject dismiss ski source scene all soul fresh meadow pretty";

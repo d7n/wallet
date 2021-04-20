@@ -1,1 +1,1 @@
-var mnemonic = "unusual host there medal shield gasp supreme accident draw vocal shiver ball";
+var mnemonic = "rhythm betray rubber october kidney price school credit security gaze blade lake";

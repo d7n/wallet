@@ -1,1 +1,1 @@
-var mnemonic = "involve thrive gun awful build critic traffic south offer normal chef antenna";
+var mnemonic = "prevent wood route caution digital inspire foil consider spoil throw horn sell";

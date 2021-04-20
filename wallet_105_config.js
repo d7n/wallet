@@ -1,1 +1,1 @@
-var mnemonic = "economy check ranch cheap spider tuition skate oven evoke basket shiver rigid";
+var mnemonic = "night whale quantum certain enough myth aisle whale message silent stereo pipe";

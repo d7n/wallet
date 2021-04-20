@@ -1,1 +1,1 @@
-var mnemonic = "turn sunset correct swallow capable settle brisk woman name coil carpet hour";
+var mnemonic = "dragon box train knee swift client frog minute auto crumble already rotate";

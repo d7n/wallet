@@ -1,1 +1,1 @@
-var mnemonic = "vocal please deposit tape message comic chief combine rally before animal canoe";
+var mnemonic = "prosper clog sad extend bar put live code begin month mobile dynamic";

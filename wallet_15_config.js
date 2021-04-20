@@ -1,1 +1,1 @@
-var mnemonic = "unfair evil brick hybrid flash mountain opinion rival truck garage spoil vault";
+var mnemonic = "manual coast inquiry glad trash hire nasty lab extend guard trust loud";
