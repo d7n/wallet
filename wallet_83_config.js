@@ -1,1 +1,1 @@
-var mnemonic = "category air auto swallow mosquito candy name enforce honey sell punch scale";
+var mnemonic = "marriage pottery elevator fault nominee secret account hover federal window column lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "maze slender dinner frost ridge gospel will limb surge paddle stairs estate";
+var mnemonic = "tortoise muscle antique cactus game mosquito estate cross foster pioneer student subject";

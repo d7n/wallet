@@ -1,1 +1,1 @@
-var mnemonic = "gadget stick cargo awful upon robot effort transfer elite marriage tortoise pair";
+var mnemonic = "wild purpose brisk allow medal dream cricket human ramp jazz raw boy";

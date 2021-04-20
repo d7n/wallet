@@ -1,1 +1,1 @@
-var mnemonic = "social noise beach brass move rigid physical pitch alien auto public burger";
+var mnemonic = "solution brave develop taste harvest gauge figure soft fresh artwork pretty mandate";

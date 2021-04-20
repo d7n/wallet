@@ -1,1 +1,1 @@
-var mnemonic = "fog damp reduce hour hurt process drastic vicious change speed advice frame";
+var mnemonic = "double swallow one crystal move science repair matter fat trip hidden exhibit";

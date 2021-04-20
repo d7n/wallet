@@ -1,1 +1,1 @@
-var mnemonic = "post degree cattle reflect plunge victory credit journey erode unable demise fan";
+var mnemonic = "core deal burden rigid exit unveil castle edit spoil gap wonder inherit";

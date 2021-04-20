@@ -1,1 +1,1 @@
-var mnemonic = "enlist glide danger cherry industry tuition spot lion miss lift ramp mammal";
+var mnemonic = "swallow antenna produce buffalo cabin amount possible arch double sound mind level";

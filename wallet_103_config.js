@@ -1,1 +1,1 @@
-var mnemonic = "thumb swamp private ordinary eight main paddle resist burger return aunt explain";
+var mnemonic = "help pull square crane pride wagon good decorate elephant pole ranch common";

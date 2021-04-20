@@ -1,1 +1,1 @@
-var mnemonic = "fox title final solve throw release output absurd subway pave direct scheme";
+var mnemonic = "now combine crumble man eagle laugh lab sketch top oblige into siege";

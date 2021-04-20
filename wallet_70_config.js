@@ -1,1 +1,1 @@
-var mnemonic = "custom mom shed cigar sadness possible wrong verify lemon six expect sunny";
+var mnemonic = "ordinary exotic silly jealous ivory worth online oyster hamster devote hawk grief";

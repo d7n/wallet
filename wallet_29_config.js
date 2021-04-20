@@ -1,1 +1,1 @@
-var mnemonic = "curious valid garlic puppy harvest day evidence behind couch subject able crouch";
+var mnemonic = "random lyrics undo ladder horse between behave diagram alpha any erosion typical";

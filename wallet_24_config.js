@@ -1,1 +1,1 @@
-var mnemonic = "force marriage army year timber win build such subway truly stage domain";
+var mnemonic = "fade lizard airport owner modify fruit frequent lizard market mad jar want";

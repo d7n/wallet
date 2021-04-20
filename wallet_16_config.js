@@ -1,1 +1,1 @@
-var mnemonic = "cigar opera miracle rescue betray tonight snap knock warm canal proud project";
+var mnemonic = "error jelly happy before garment unaware affair hunt beach tower black harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "town fringe faint roast february flock cargo company sting memory man elegant";
+var mnemonic = "good science junk planet artefact approve label metal room south person can";

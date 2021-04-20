@@ -1,1 +1,1 @@
-var mnemonic = "nothing teach naive kangaroo cool run easy alert must negative attitude trigger";
+var mnemonic = "lab system table ribbon cable main endless enjoy throw disease nothing abstract";

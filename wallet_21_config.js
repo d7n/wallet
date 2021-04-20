@@ -1,1 +1,1 @@
-var mnemonic = "screen loop false record dove ensure lonely entry violin clock lecture minor";
+var mnemonic = "popular faculty enjoy giggle awesome school trend small inhale act vacant sign";

@@ -1,1 +1,1 @@
-var mnemonic = "sense buddy tree rubber orphan citizen heart negative phone measure shop glad";
+var mnemonic = "act tide fade tree alcohol acquire field element weather uphold slim comic";

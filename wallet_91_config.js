@@ -1,1 +1,1 @@
-var mnemonic = "sick gain scatter pig glue silly put ready near tragic mention blame";
+var mnemonic = "real any square inspire today window erupt robot random bitter grab stand";

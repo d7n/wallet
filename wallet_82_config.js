@@ -1,1 +1,1 @@
-var mnemonic = "gossip prevent van organ casual bench explain weird shallow spot embrace bird";
+var mnemonic = "mountain labor define patrol cradle mutual melt must drama rebuild spy usual";

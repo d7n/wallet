@@ -1,1 +1,1 @@
-var mnemonic = "lawn ethics illness ivory attend wasp job clean panda dress repeat describe";
+var mnemonic = "olympic bunker gate party speak sign torch gasp coach emotion square rotate";

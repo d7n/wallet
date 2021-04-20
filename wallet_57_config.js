@@ -1,1 +1,1 @@
-var mnemonic = "couch pyramid bicycle fancy leopard body maple axis output tray pencil half";
+var mnemonic = "forget merit private green believe parade credit parrot air struggle erosion ten";

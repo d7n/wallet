@@ -1,1 +1,1 @@
-var mnemonic = "enhance uncover hungry recipe tomato ankle tongue luggage addict pet crater submit";
+var mnemonic = "electric arctic purse basic cactus decline suffer unit lucky athlete soldier tilt";

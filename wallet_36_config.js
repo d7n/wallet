@@ -1,1 +1,1 @@
-var mnemonic = "evoke announce fat bean supply type cousin soccer mansion toast wife call";
+var mnemonic = "buyer light slim piece word regret upper people ball pill green sentence";

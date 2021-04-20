@@ -1,1 +1,1 @@
-var mnemonic = "mirror tilt flavor desk tent wolf limb hunt someone panic skull betray";
+var mnemonic = "thank extra flavor toe round lyrics typical private urge dentist talk vibrant";

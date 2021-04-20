@@ -1,1 +1,1 @@
-var mnemonic = "unfold employ develop giggle forum good draft build excite join digital pyramid";
+var mnemonic = "surprise cheese board maze assault grape icon soft puppy large tooth skill";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy session answer shed exhibit shock tank gentle celery afraid wild announce";
+var mnemonic = "jealous advice dream wisdom food holiday vanish castle crystal pulse next guess";

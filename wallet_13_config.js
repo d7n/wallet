@@ -1,1 +1,1 @@
-var mnemonic = "yellow lawn ordinary dirt early either damage argue cute fan helmet pause";
+var mnemonic = "property area grape link change runway afraid dragon live exact energy polar";

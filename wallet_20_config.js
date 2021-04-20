@@ -1,1 +1,1 @@
-var mnemonic = "price nest emerge collect sorry media royal ship hotel total adult animal";
+var mnemonic = "cost index gown false rail senior cancel clump ranch few lock torch";

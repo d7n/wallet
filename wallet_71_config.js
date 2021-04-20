@@ -1,1 +1,1 @@
-var mnemonic = "casual expand join home frozen onion physical subway tiger peace cotton elephant";
+var mnemonic = "vault lyrics choice amateur receive armed access affair must top gas lyrics";

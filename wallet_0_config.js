@@ -1,1 +1,1 @@
-var mnemonic = "scan diagram rent million put detail century nest banner answer globe risk";
+var mnemonic = "fiber alpha crash grid fork tower coyote gather bread ten pig actress";

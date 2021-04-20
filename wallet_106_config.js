@@ -1,1 +1,1 @@
-var mnemonic = "column area direct betray matrix client helmet gown plastic stand alpha deliver";
+var mnemonic = "accuse corn cement fun mask noodle town pistol spawn plate scrub hawk";

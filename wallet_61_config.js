@@ -1,1 +1,1 @@
-var mnemonic = "void bleak moon virus bracket upgrade column ozone trip wrap easy heart";
+var mnemonic = "gentle reflect panther carbon valley music cave project what rich gaze ivory";

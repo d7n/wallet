@@ -1,1 +1,1 @@
-var mnemonic = "slot child wood doll clever ice finger useless lounge peasant twenty mosquito";
+var mnemonic = "call fatal burst divide stock female connect light yellow donkey bachelor increase";

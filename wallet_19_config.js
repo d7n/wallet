@@ -1,1 +1,1 @@
-var mnemonic = "bone pledge test come punch author abstract hope below share stand critic";
+var mnemonic = "shrug suggest gas expand expand nothing draw jeans rely hospital flee pair";

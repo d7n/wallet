@@ -1,1 +1,1 @@
-var mnemonic = "goose modify goddess under brand auction acoustic final cluster come cook small";
+var mnemonic = "excite nation goat only insane useless reduce dynamic soft peanut tube use";

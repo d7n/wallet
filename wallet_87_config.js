@@ -1,1 +1,1 @@
-var mnemonic = "advance dragon shadow resist used warfare ritual dry match laptop badge rice";
+var mnemonic = "sugar unknown mountain notice own rare solution system tone another post holiday";

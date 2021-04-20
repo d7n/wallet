@@ -1,1 +1,1 @@
-var mnemonic = "bamboo small thing topic bubble envelope sheriff enable wife slot sudden blouse";
+var mnemonic = "candy pave ethics point tunnel surge frame purchase mammal slow afford glory";

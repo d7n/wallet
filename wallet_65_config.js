@@ -1,1 +1,1 @@
-var mnemonic = "bacon river siren rally blush shoulder federal gather medal fatal dish earth";
+var mnemonic = "wrestle key armed fiscal umbrella melody stereo female blush duck switch maid";

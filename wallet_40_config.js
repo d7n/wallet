@@ -1,1 +1,1 @@
-var mnemonic = "security odor message extra wire trim pet pencil latin crack ranch cause";
+var mnemonic = "evolve quiz repair cage sock extend cheese error merge comfort decline chicken";

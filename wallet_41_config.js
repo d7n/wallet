@@ -1,1 +1,1 @@
-var mnemonic = "scare frequent identify express envelope citizen forest hazard bus token time video";
+var mnemonic = "unfold about unknown tent copper real senior kingdom forget limit ship symptom";

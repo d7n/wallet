@@ -1,1 +1,1 @@
-var mnemonic = "aim sense coach source aisle churn nation deny have involve honey require";
+var mnemonic = "cinnamon guilt tail immune skate actor lend glow uncle mechanic planet game";

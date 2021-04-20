@@ -1,1 +1,1 @@
-var mnemonic = "few strategy utility boring ranch celery assault coconut consider expose torch nurse";
+var mnemonic = "clog other carry lizard wife peasant anger virtual outdoor social since salad";

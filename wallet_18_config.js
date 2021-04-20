@@ -1,1 +1,1 @@
-var mnemonic = "fire student fragile cycle credit lemon shuffle tilt menu squeeze piano lunar";
+var mnemonic = "royal office around fiction lawsuit pyramid wide bundle bridge gym hello culture";

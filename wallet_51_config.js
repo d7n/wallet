@@ -1,1 +1,1 @@
-var mnemonic = "slam useful route improve permit pizza glory usual cruel drift educate rule";
+var mnemonic = "call alpha nature luxury decade heavy bar job pave only bronze mimic";

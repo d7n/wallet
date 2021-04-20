@@ -1,1 +1,1 @@
-var mnemonic = "hover return flower film front proud thunder high occur quiz squirrel bulb";
+var mnemonic = "hat hold wise fabric wealth balcony response steak fun cat cruise risk";

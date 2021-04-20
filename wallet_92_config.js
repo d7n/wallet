@@ -1,1 +1,1 @@
-var mnemonic = "spell spike plunge orange fit nice fold sick sunset theory palm like";
+var mnemonic = "minor lesson damp among boy birth session crawl impact salt vast region";

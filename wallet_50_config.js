@@ -1,1 +1,1 @@
-var mnemonic = "glow story firm surprise concert eye loan wealth wolf chief giraffe into";
+var mnemonic = "ocean gasp minor valley love spell grab flag online busy vendor buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber nothing smooth crucial warrior about drive leave drastic veteran usage finish";
+var mnemonic = "cook inside body edit already page sentence vanish motor thrive never cancel";

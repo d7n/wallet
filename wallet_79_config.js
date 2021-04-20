@@ -1,1 +1,1 @@
-var mnemonic = "palm fringe gasp leisure then hair walk acid hire girl practice antique";
+var mnemonic = "vast ethics humor hero melody intact drip unit foot cry market lady";

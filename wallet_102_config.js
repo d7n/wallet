@@ -1,1 +1,1 @@
-var mnemonic = "bridge shock notice hat seminar page drive joy noble toe vote human";
+var mnemonic = "supreme draw card rifle swing random desk era nation brush elegant valid";

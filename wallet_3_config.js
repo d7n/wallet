@@ -1,1 +1,1 @@
-var mnemonic = "curtain clever pulp ceiling combine shock apple float collect paper nephew doctor";
+var mnemonic = "solution during sea resemble danger ridge void pupil ramp expand poem vehicle";

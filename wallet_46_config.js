@@ -1,1 +1,1 @@
-var mnemonic = "danger basket supply symptom cabbage dust artist feel alien enjoy crumble urge";
+var mnemonic = "rescue hurdle one clerk shoot demand horse orange spin worry dragon edit";

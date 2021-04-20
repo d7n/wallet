@@ -1,1 +1,1 @@
-var mnemonic = "satisfy outside wrong library soda burden breeze retreat zero budget climb creek";
+var mnemonic = "consider hammer unable spider combine renew win assist enemy client deposit stuff";

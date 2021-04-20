@@ -1,1 +1,1 @@
-var mnemonic = "major bleak embody soda inspire poverty burden cage blur trophy banner sorry";
+var mnemonic = "scrub give topple soul grape twist decrease buddy code cloud beach tonight";

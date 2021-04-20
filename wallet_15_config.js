@@ -1,1 +1,1 @@
-var mnemonic = "put today cabbage matrix reward film huge praise young urge chuckle thing";
+var mnemonic = "west venue tail river volcano target clean raise talk divide sword valley";

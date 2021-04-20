@@ -1,1 +1,1 @@
-var mnemonic = "cool rent journey dry fetch edge disease never tonight wild pink jealous";
+var mnemonic = "urge strike scare sadness cupboard foster ginger talk coin analyst possible cause";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient olympic exit wish amused obey autumn pumpkin slender theme conduct boost";
+var mnemonic = "sadness plug raise play physical kangaroo vacant allow either current donate genre";

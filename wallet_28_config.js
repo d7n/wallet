@@ -1,1 +1,1 @@
-var mnemonic = "critic robust pyramid enjoy fine canal whale neglect hire enjoy assist bar";
+var mnemonic = "pretty exhaust enable strategy caught fiber doctor control border faculty power figure";

@@ -1,1 +1,1 @@
-var mnemonic = "defense cover vault endless friend help report rude nasty axis depth shove";
+var mnemonic = "curve chronic alarm quote fox prefer dismiss priority rose retreat copy video";

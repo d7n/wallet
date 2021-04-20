@@ -1,1 +1,1 @@
-var mnemonic = "giraffe disagree copper horror help odor random brass achieve pony leisure harbor";
+var mnemonic = "give speed tattoo cause method make under receive path observe model machine";

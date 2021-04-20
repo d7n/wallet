@@ -1,1 +1,1 @@
-var mnemonic = "supreme relax blanket early half figure mango like control pretty faculty soft";
+var mnemonic = "repeat library relax warfare brown struggle future pigeon develop where coil exclude";

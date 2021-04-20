@@ -1,1 +1,1 @@
-var mnemonic = "ability shell unfold imitate east online refuse giraffe satoshi orbit high cat";
+var mnemonic = "wet disorder moon robot genius food tiger leopard shift hand off cousin";

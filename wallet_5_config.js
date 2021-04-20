@@ -1,1 +1,1 @@
-var mnemonic = "track palm seven system kit inflict sudden physical blanket pipe whip execute";
+var mnemonic = "toward promote pyramid forum toe stuff explain vault coral pelican maze burger";

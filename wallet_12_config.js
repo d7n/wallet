@@ -1,1 +1,1 @@
-var mnemonic = "door brick chat about reduce fiber camera volcano rug egg shrimp tomato";
+var mnemonic = "citizen maple retreat fiction profit gentle dawn teach quote game web cousin";

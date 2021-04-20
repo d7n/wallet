@@ -1,1 +1,1 @@
-var mnemonic = "smooth dolphin sniff endorse arctic grab deposit law great muffin tomorrow olympic";
+var mnemonic = "unlock drastic rhythm frown destroy busy bless entire try nut base jealous";

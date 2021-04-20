@@ -1,1 +1,1 @@
-var mnemonic = "tool explain trust oak monster giggle clay ensure myth funny convince action";
+var mnemonic = "defense ankle slab wagon village champion quiz work deposit blush feed sleep";

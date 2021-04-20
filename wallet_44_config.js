@@ -1,1 +1,1 @@
-var mnemonic = "vital ask ignore noble broom mimic plunge badge danger ladder lawsuit warfare";
+var mnemonic = "prison scare sleep sick lamp loop camera thunder drip save barely crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture narrow mosquito connect crunch then virtual palm steel float twelve film";
+var mnemonic = "act easily bench square immense solid system system oblige occur ticket student";

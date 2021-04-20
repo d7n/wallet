@@ -1,1 +1,1 @@
-var mnemonic = "domain world mule era sting toy popular winter stone churn company huge";
+var mnemonic = "material switch hat grant hat ignore island client brick fine cement obscure";

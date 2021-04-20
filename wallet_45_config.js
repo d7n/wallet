@@ -1,1 +1,1 @@
-var mnemonic = "work economy tunnel dune pave fog dress remember forum update dwarf seven";
+var mnemonic = "castle into amateur cost action iron clay father tenant can can skill";

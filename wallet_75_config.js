@@ -1,1 +1,1 @@
-var mnemonic = "muscle net west pond poem defy blame inquiry once aim outside cattle";
+var mnemonic = "desk duty fabric bargain vivid occur drastic electric insane prefer observe street";

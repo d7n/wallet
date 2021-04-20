@@ -1,1 +1,1 @@
-var mnemonic = "cage kiss surface upset actor super alien opinion decline tuna safe tip";
+var mnemonic = "motion identify sheriff journey sample sadness barrel chair crash mushroom limit habit";

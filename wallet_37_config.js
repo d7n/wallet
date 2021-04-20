@@ -1,1 +1,1 @@
-var mnemonic = "endorse tray practice annual bitter stumble note image twin love inquiry favorite";
+var mnemonic = "armor rapid banana spend river pattern six next rich kit nurse bless";

@@ -1,1 +1,1 @@
-var mnemonic = "west sad check sustain urge supreme shell solid dirt speak smile mercy";
+var mnemonic = "shove kidney turkey frown trap always quick minor reduce annual maze trophy";

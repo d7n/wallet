@@ -1,1 +1,1 @@
-var mnemonic = "rotate open animal physical mercy return cause present monitor catalog rabbit tuition";
+var mnemonic = "blur capital inquiry chuckle grocery silk now shaft spirit bless point debris";

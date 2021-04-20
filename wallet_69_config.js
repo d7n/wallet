@@ -1,1 +1,1 @@
-var mnemonic = "stand breeze side swear eye hand calm lobster pudding ramp fitness purse";
+var mnemonic = "west unveil hungry rent stamp energy stadium edge become gaze steak october";

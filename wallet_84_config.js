@@ -1,1 +1,1 @@
-var mnemonic = "erupt eye run height aim double leave title obey virtual oven magnet";
+var mnemonic = "feel stand alter food title title bulk love uniform dismiss account ball";

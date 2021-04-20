@@ -1,1 +1,1 @@
-var mnemonic = "journey page explain page battle country unveil focus fringe put phrase fragile";
+var mnemonic = "soccer giggle diary favorite ostrich normal adjust misery observe kiwi hammer cool";

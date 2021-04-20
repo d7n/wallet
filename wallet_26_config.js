@@ -1,1 +1,1 @@
-var mnemonic = "elder filter vicious patient carpet moral soul step valley oval bus solution";
+var mnemonic = "day quote manual exclude mansion useless attract derive end pigeon pilot amateur";

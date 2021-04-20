@@ -1,1 +1,1 @@
-var mnemonic = "foil style lawsuit often advance just over twin fancy also solve price";
+var mnemonic = "song soon wolf ahead have bacon crisp paddle wall screen usage wear";

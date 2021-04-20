@@ -1,1 +1,1 @@
-var mnemonic = "tent rack hint ball adapt trigger length skirt canal noble recall grab";
+var mnemonic = "humor gorilla turtle visit stomach spin tube task output empty scare resist";

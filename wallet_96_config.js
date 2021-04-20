@@ -1,1 +1,1 @@
-var mnemonic = "opera river desk wool envelope artist govern model exhibit invest mobile trophy";
+var mnemonic = "recycle labor thumb slot know retreat credit snow breeze master legal fog";

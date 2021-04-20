@@ -1,1 +1,1 @@
-var mnemonic = "sniff glimpse web symbol claim brisk swamp love kid option fat draw";
+var mnemonic = "window absorb trial charge stay acoustic analyst absent wrap trophy damp pottery";

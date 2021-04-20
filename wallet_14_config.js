@@ -1,1 +1,1 @@
-var mnemonic = "erupt mad ice admit advance mixed ski trouble project fuel venue sail";
+var mnemonic = "pyramid notable youth exotic connect sketch crouch gate motor radio lobster horse";

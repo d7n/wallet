@@ -1,1 +1,1 @@
-var mnemonic = "slide extra unit animal purchase humble viable artwork wood daring bread tell";
+var mnemonic = "illness curious tell cage resource rural frozen velvet donor explain property crumble";

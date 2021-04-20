@@ -1,1 +1,1 @@
-var mnemonic = "prize tobacco dance february grit series clinic detect flower bomb decade license";
+var mnemonic = "island local veteran delay enhance escape guilt occur capable photo utility bronze";

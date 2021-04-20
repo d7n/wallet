@@ -1,1 +1,1 @@
-var mnemonic = "output pencil coconut capable visit diamond frog photo genius catch random jacket";
+var mnemonic = "robust top theory helmet guitar valid festival burger spirit cushion charge anger";
