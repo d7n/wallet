@@ -1,1 +1,1 @@
-var mnemonic = "example virtual burden pattern praise over vacuum tuna avoid country candy coil";
+var mnemonic = "relief subway curious miracle easily dance rare area rubber system vapor mutual";

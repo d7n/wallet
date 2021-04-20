@@ -1,1 +1,1 @@
-var mnemonic = "witness diet stem inflict desk lend walnut injury athlete glue toe special";
+var mnemonic = "match bundle fortune scrub offer stereo hero immune venue leisure fossil crazy";

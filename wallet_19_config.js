@@ -1,1 +1,1 @@
-var mnemonic = "cannon fluid rival enable detail behave ostrich pioneer work talk total tired";
+var mnemonic = "bless twenty alien match young sun demise gentle wise spin burger park";

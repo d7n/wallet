@@ -1,1 +1,1 @@
-var mnemonic = "mammal strategy summer fresh ripple enrich memory jealous donate dial lab width";
+var mnemonic = "lottery medal zero use physical all opinion foam left two taste upon";

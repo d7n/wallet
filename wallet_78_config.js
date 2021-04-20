@@ -1,1 +1,1 @@
-var mnemonic = "message detect ginger exit snake letter more siren soft burger second approve";
+var mnemonic = "rail acoustic drama planet dinner kiss name develop reopen then roof cable";

@@ -1,1 +1,1 @@
-var mnemonic = "motion monster solid bind omit hero bubble capital stage life stomach sign";
+var mnemonic = "asthma saddle couch adjust measure eye giant sad dizzy silent host atom";

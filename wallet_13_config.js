@@ -1,1 +1,1 @@
-var mnemonic = "wife oblige debate extra video until lounge impulse supply lunar deal play";
+var mnemonic = "charge leg surface timber antenna cost valley dolphin chair joke effort consider";

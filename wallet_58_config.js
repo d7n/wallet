@@ -1,1 +1,1 @@
-var mnemonic = "cycle public old survey demand muscle latin life foil lizard gate volume";
+var mnemonic = "trust know pair crane response supreme wool amount goat patient time hat";

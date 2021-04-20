@@ -1,1 +1,1 @@
-var mnemonic = "muffin matrix please umbrella beauty piano rookie tail cook catalog friend crouch";
+var mnemonic = "scrub rookie hockey seat floor original differ hedgehog furnace ring finish enact";

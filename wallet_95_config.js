@@ -1,1 +1,1 @@
-var mnemonic = "wagon transfer garage winner weapon final nurse cloth boost shiver screen keen";
+var mnemonic = "fluid suspect horror sunset boil human law climb myself height very voyage";

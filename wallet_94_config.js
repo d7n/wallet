@@ -1,1 +1,1 @@
-var mnemonic = "food elevator pilot bike major truth sunny atom hobby grace curve million";
+var mnemonic = "volume dutch priority curious twelve give cage addict copper use sand debris";

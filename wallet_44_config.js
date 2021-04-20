@@ -1,1 +1,1 @@
-var mnemonic = "zero tunnel prepare purpose airport truck stick code fever upgrade friend nothing";
+var mnemonic = "business impact script nominee siege mouse mushroom slice edit meadow boss fragile";

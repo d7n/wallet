@@ -1,1 +1,1 @@
-var mnemonic = "naive chapter color vacuum trophy mirror man usage mouse marine room limb";
+var mnemonic = "lonely birth absorb fantasy modify nature believe young donate caught insane illegal";

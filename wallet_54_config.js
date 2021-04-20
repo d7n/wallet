@@ -1,1 +1,1 @@
-var mnemonic = "wash company auction truck miracle napkin minute good uncover enlist crowd lake";
+var mnemonic = "zebra thank dragon bus seat gun east gloom inmate exhaust practice solution";

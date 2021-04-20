@@ -1,1 +1,1 @@
-var mnemonic = "you lake change foil spawn eternal buyer salad uniform quiz face hidden";
+var mnemonic = "churn next cradle moral medal account bag gorilla eye life stairs pretty";

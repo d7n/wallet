@@ -1,1 +1,1 @@
-var mnemonic = "achieve already split side market club walnut immune across message attitude artwork";
+var mnemonic = "tank luxury rose mean ticket pond tobacco miracle trumpet obey alter slice";

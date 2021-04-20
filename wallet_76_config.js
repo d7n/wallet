@@ -1,1 +1,1 @@
-var mnemonic = "beyond pear rifle galaxy ball wild layer unit session topic quick expose";
+var mnemonic = "dizzy garment wear awesome sunset machine mammal board absorb seat will category";

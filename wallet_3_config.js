@@ -1,1 +1,1 @@
-var mnemonic = "candy air east nurse where electric tattoo dice boring fat conduct target";
+var mnemonic = "sibling sail trial spell hen flee essay trap adjust bag someone bulk";

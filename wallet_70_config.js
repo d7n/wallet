@@ -1,1 +1,1 @@
-var mnemonic = "arm caution isolate diagram wall praise roof core blur woman egg guitar";
+var mnemonic = "thing improve rookie pulse fiction panel depend have alpha pool fat champion";

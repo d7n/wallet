@@ -1,1 +1,1 @@
-var mnemonic = "pair guitar stem reward all trade cabin crisp swift catch copper apology";
+var mnemonic = "ceiling panther divide neglect bitter leopard capable flash combine lawn keep slender";

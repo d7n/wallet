@@ -1,1 +1,1 @@
-var mnemonic = "kiwi floor virus valve mistake barrel icon panic click fortune blind depend";
+var mnemonic = "page amateur shell legend mouse away decrease fame solar heart good tennis";

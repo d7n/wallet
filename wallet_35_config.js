@@ -1,1 +1,1 @@
-var mnemonic = "person enemy matter very digital frozen clerk enough immune adapt copper crash";
+var mnemonic = "day note fragile guard siege sunny someone organ local price vanish genius";

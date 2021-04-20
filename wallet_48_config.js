@@ -1,1 +1,1 @@
-var mnemonic = "cruel club knock cream vital never away silver hockey fly busy hobby";
+var mnemonic = "hat sand dress piano arrest surge stumble hat jaguar plastic fantasy board";

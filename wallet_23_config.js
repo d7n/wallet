@@ -1,1 +1,1 @@
-var mnemonic = "rival empower state person fox arrest detect blade under alter ripple oblige";
+var mnemonic = "nest citizen monitor devote party token punch south retire love action cancel";

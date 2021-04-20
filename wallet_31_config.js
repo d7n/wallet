@@ -1,1 +1,1 @@
-var mnemonic = "tiger crucial chicken apple tool patch exit order genuine outdoor belt basket";
+var mnemonic = "universe icon tunnel cable silent kingdom rival space bid wear broccoli audit";

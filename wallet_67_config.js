@@ -1,1 +1,1 @@
-var mnemonic = "roof lobster define public purse praise rally orange remind rely ensure comfort";
+var mnemonic = "quit kidney swap that shallow tired wish because roast seat song gadget";

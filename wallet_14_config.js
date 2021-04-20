@@ -1,1 +1,1 @@
-var mnemonic = "hire room garden obey eye history space onion bulk ski myself fit";
+var mnemonic = "lemon mixed grunt embrace anxiety dragon lake neither worry only normal physical";

@@ -1,1 +1,1 @@
-var mnemonic = "walk puppy differ remove check shoot law move strike van derive steel";
+var mnemonic = "lunar steel gather poem advance master gift ethics solve cry service promote";

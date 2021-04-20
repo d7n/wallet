@@ -1,1 +1,1 @@
-var mnemonic = "able pizza polar above scissors verb tail cube grid kingdom shuffle fox";
+var mnemonic = "fog member come draft flag silent escape earth proof cinnamon venue morning";

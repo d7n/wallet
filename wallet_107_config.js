@@ -1,1 +1,1 @@
-var mnemonic = "side dinner tunnel sleep cabbage skull robust divert because adapt stereo equip";
+var mnemonic = "laundry amateur urge ranch toilet member traffic mercy gain infant venue must";

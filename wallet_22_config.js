@@ -1,1 +1,1 @@
-var mnemonic = "reflect consider wink enhance spoon fury carry web venue travel tackle weasel";
+var mnemonic = "water essence three room emerge cool satisfy people try scrap copper expect";

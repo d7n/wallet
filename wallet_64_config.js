@@ -1,1 +1,1 @@
-var mnemonic = "laundry long torch vicious start wheel grunt process slogan claw poet hospital";
+var mnemonic = "local tourist problem scheme visit axis wife cliff tube private salon disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel vacant episode sock nerve direct climb uncover worry fancy super frequent";
+var mnemonic = "emerge chunk neglect hip normal retreat snap artwork vehicle october image curve";

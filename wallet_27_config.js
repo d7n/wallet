@@ -1,1 +1,1 @@
-var mnemonic = "cage lamp group cargo motion ride entire pledge spirit grow jewel effort";
+var mnemonic = "donkey bottom lift key minimum labor expose hammer rapid gun uncle guard";

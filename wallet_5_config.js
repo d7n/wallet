@@ -1,1 +1,1 @@
-var mnemonic = "canyon bachelor gesture tray curtain bacon essay repair extend school dismiss cart";
+var mnemonic = "nephew parrot anger hospital admit spend scout empty chest boat sentence matter";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome hundred gloom orange loan select bulb flash promote photo bag world";
+var mnemonic = "tenant grunt crane crystal mixed arm tip tower fantasy rely duty drama";

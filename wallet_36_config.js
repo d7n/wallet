@@ -1,1 +1,1 @@
-var mnemonic = "inject recipe curtain raise arrange they urge retire umbrella minimum tenant produce";
+var mnemonic = "young blood cherry frozen wasp winner chef fatal private uphold mutual crime";

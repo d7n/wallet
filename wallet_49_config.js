@@ -1,1 +1,1 @@
-var mnemonic = "repeat drastic satoshi stand doll nuclear midnight snap gallery pony input put";
+var mnemonic = "risk sad critic draw couple water secret crumble member palm initial similar";

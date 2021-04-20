@@ -1,1 +1,1 @@
-var mnemonic = "theory ginger follow solar gadget swim pear argue fire seminar collect unfold";
+var mnemonic = "base wink dance heart peanut olympic this other behind neglect cable power";

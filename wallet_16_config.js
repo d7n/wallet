@@ -1,1 +1,1 @@
-var mnemonic = "news glad give nice trigger record disagree pole spice task soft blame";
+var mnemonic = "enlist govern thunder rice glance clump clinic material shock differ order million";

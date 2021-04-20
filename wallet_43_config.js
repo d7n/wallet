@@ -1,1 +1,1 @@
-var mnemonic = "language energy glory tag barrel dutch plug sure gain object raw top";
+var mnemonic = "fortune away badge biology stomach minute save payment reveal enhance recycle peasant";

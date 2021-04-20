@@ -1,1 +1,1 @@
-var mnemonic = "jump long shell boring already suffer express rude logic october gather sunset";
+var mnemonic = "december borrow tuna act popular expire torch course raven obscure leader blush";

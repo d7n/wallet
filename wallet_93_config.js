@@ -1,1 +1,1 @@
-var mnemonic = "medal melt twin rocket wealth more sure that enforce wear warm beef";
+var mnemonic = "woman across enough grocery one grunt speed bag best supreme fine section";

@@ -1,1 +1,1 @@
-var mnemonic = "steel loop cousin child social tell puppy inch office upset imitate flee";
+var mnemonic = "excess impact talk edge stable vessel surge move runway glimpse claw flee";

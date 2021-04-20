@@ -1,1 +1,1 @@
-var mnemonic = "clump purchase curve describe foster crumble type royal cousin drum crash gentle";
+var mnemonic = "embrace coffee oxygen federal twist unlock add frozen dragon across door actual";

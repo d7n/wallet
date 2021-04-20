@@ -1,1 +1,1 @@
-var mnemonic = "sheriff walk update choose seminar supreme acquire voice track settle system industry";
+var mnemonic = "fix sauce settle defy unit hand virus icon robot method social stuff";

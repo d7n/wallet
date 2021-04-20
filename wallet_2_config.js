@@ -1,1 +1,1 @@
-var mnemonic = "drift ten outer infant foil fire crop search guitar pave prize spare";
+var mnemonic = "battle flock gap slice scheme spin craft beef domain devote corn cook";

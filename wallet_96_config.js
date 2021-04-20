@@ -1,1 +1,1 @@
-var mnemonic = "bamboo village bridge marine saddle begin wish lawsuit client flavor minor memory";
+var mnemonic = "collect hand inmate diesel vague output butter dynamic cool school federal bind";

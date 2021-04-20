@@ -1,1 +1,1 @@
-var mnemonic = "tent diary naive lyrics giraffe grid romance car home able aware east";
+var mnemonic = "repair fine clean media twist mammal hedgehog this egg marriage floor cave";

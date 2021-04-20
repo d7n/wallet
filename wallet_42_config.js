@@ -1,1 +1,1 @@
-var mnemonic = "nurse account gym dragon spell myth upon grocery author leopard limit crush";
+var mnemonic = "steel increase pizza shiver original gain call hand upon gospel jazz express";

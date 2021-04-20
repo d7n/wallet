@@ -1,1 +1,1 @@
-var mnemonic = "correct vast enjoy link sheriff release summer wonder live million track luxury";
+var mnemonic = "embark random village ankle edge car wave city frame bonus usage pill";

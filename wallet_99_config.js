@@ -1,1 +1,1 @@
-var mnemonic = "aunt breeze club exile pair youth three focus torch bubble hawk pony";
+var mnemonic = "cover claim tide advance fade volume gas interest sad response blue list";

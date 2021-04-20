@@ -1,1 +1,1 @@
-var mnemonic = "obtain doll wait ivory vault jelly monitor tennis noodle floor million simple";
+var mnemonic = "armor subject idle ability popular draft verb amount over helmet sweet version";

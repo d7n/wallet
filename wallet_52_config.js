@@ -1,1 +1,1 @@
-var mnemonic = "tongue vendor ordinary purchase human fluid brush cube best issue ski worth";
+var mnemonic = "flock typical sun usage agent dove primary husband sun return lemon section";

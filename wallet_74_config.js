@@ -1,1 +1,1 @@
-var mnemonic = "tired destroy stool door later math chair country come banana cricket echo";
+var mnemonic = "special daring destroy item tank toe reunion glue snack imitate test rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe bundle outer bubble network purpose total glow all expire distance noodle";
+var mnemonic = "vacant figure toe elephant quote soon coil proud book spirit spot drive";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo stuff baby cruise swarm vibrant ship collect brisk begin lend warfare";
+var mnemonic = "cradle pottery raccoon foot broom imitate novel fashion dinosaur twenty october basic";

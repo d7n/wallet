@@ -1,1 +1,1 @@
-var mnemonic = "allow price slow rebuild trouble rebuild old clock section either nominee devote";
+var mnemonic = "tray finish engage outer fat crater gas mask hover disease prevent census";

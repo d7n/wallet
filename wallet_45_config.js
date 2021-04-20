@@ -1,1 +1,1 @@
-var mnemonic = "turn exact obvious dolphin any fringe congress hundred panic once elegant giraffe";
+var mnemonic = "lesson until impose wage bounce surround friend grocery visual scorpion reward attack";

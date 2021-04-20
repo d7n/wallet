@@ -1,1 +1,1 @@
-var mnemonic = "ignore nephew machine frown bronze pear super fire silver yellow flush mercy";
+var mnemonic = "become embody dizzy melody custom endorse worth trial prefer supply solve secret";

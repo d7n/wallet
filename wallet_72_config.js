@@ -1,1 +1,1 @@
-var mnemonic = "where shove dial amount brisk timber sorry custom whale narrow comic piece";
+var mnemonic = "net chest tissue job grocery armor grass tomato cart timber icon paper";

@@ -1,1 +1,1 @@
-var mnemonic = "garage swear double route outdoor journey solar nature have acoustic domain banana";
+var mnemonic = "visa twin level cruel october venture tiny live eternal furnace maid employ";

@@ -1,1 +1,1 @@
-var mnemonic = "cage shallow goose shrimp panther enjoy liquid where melody elevator undo breeze";
+var mnemonic = "tired spot choose uniform cabin know market exist false roast develop planet";

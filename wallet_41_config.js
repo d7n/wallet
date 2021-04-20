@@ -1,1 +1,1 @@
-var mnemonic = "extra twenty melt mango discover aunt busy spring glory fiscal scatter ramp";
+var mnemonic = "stumble judge blue memory impact scene fat hub pitch belt ritual pave";

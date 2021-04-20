@@ -1,1 +1,1 @@
-var mnemonic = "oil destroy guard rural island wheel mad nice flash clap awesome ecology";
+var mnemonic = "initial inject grape harbor wild expose sword base summer cigar mail youth";

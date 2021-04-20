@@ -1,1 +1,1 @@
-var mnemonic = "pulse scan behind figure police gold square horse morning resemble that observe";
+var mnemonic = "town oil thank reveal laundry minimum rescue hat that confirm crime rough";

@@ -1,1 +1,1 @@
-var mnemonic = "knife rebuild basket invest wet juice arm drama bless love sugar lunar";
+var mnemonic = "express measure believe mass human certain flock ozone keen find anger silver";

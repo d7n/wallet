@@ -1,1 +1,1 @@
-var mnemonic = "hero bird bar dice quick mule mercy okay kiwi viable twelve consider";
+var mnemonic = "tissue throw slot kiss awesome service key skill enroll nasty coin become";

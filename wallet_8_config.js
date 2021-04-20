@@ -1,1 +1,1 @@
-var mnemonic = "piano crazy bullet thank calm talk ivory dose ladder endless abuse wait";
+var mnemonic = "panel item cool quit addict cabbage reduce unhappy coin blanket best night";

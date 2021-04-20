@@ -1,1 +1,1 @@
-var mnemonic = "slot theory stomach emotion miracle object deny school meadow body play long";
+var mnemonic = "popular fox festival oppose logic alarm sing country forward gun code hollow";

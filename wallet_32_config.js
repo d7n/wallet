@@ -1,1 +1,1 @@
-var mnemonic = "person there medal camera kingdom place vocal later coyote mean else gasp";
+var mnemonic = "keen sign push biology language blossom transfer drive service snake swallow visual";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware ritual prevent battle gun cargo seed obey detect attack reason invest";
+var mnemonic = "immense ring goat miracle flame ready mammal script suggest breeze cabin vehicle";

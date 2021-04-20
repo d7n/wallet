@@ -1,1 +1,1 @@
-var mnemonic = "trouble planet aisle fetch double ticket problem dismiss ignore drink panda identify";
+var mnemonic = "atom sign model paper forward safe action waste voice actual couple sleep";

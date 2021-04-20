@@ -1,1 +1,1 @@
-var mnemonic = "frozen trim wrist suffer welcome cruise bid avocado happy foot merge liar";
+var mnemonic = "smart cram winner raise water despair erupt margin rigid venue demand perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "champion ability voice sight donate reform turtle comfort surge output bunker raise";
+var mnemonic = "reduce worth voice solve ticket basket apple route case junk isolate crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "audit pupil derive jewel artwork jeans pyramid labor gas foil patient pluck";
+var mnemonic = "scissors canoe ancient axis bicycle mesh diet correct below garden miracle online";

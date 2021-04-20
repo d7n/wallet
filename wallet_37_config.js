@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon drill sniff february slogan assume drive swift possible maple crop client";
+var mnemonic = "vintage can maximum ranch one screen right rifle unaware prefer consider rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf remember volume federal century crowd federal alert fence end anchor soap";
+var mnemonic = "salt inherit ride glad athlete cancel similar midnight member finger street endorse";

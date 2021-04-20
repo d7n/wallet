@@ -1,1 +1,1 @@
-var mnemonic = "february frozen velvet length fever bacon card obvious city atom smart hedgehog";
+var mnemonic = "trigger voyage latin scrub fish vehicle script web oven side recall globe";

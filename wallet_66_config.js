@@ -1,1 +1,1 @@
-var mnemonic = "turn delay fit alter muffin ugly private liquid firm afraid unfair jazz";
+var mnemonic = "sample february pact join hamster dragon outer limit river tackle away thumb";

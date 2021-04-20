@@ -1,1 +1,1 @@
-var mnemonic = "ketchup shell piano program fitness foil shadow flush crowd loop zoo wagon";
+var mnemonic = "appear wet capable pilot famous govern act step tower cabin blanket indicate";

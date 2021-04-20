@@ -1,1 +1,1 @@
-var mnemonic = "smoke seek trophy enrich merge hand siren surface pink olympic style negative";
+var mnemonic = "prefer truly copper vendor curve deposit random lyrics sell defy route pause";

@@ -1,1 +1,1 @@
-var mnemonic = "update pair kiwi frost banana creek normal drama amount beef kind top";
+var mnemonic = "matrix force select behind pigeon federal build wash neck machine limit total";

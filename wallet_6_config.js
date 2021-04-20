@@ -1,1 +1,1 @@
-var mnemonic = "absurd surge science empower pill trigger angle blush enable normal excuse rival";
+var mnemonic = "sphere turtle claw winter among exchange head devote mom traffic science brave";

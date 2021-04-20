@@ -1,1 +1,1 @@
-var mnemonic = "truck pull entire donate scrub fold mango absorb calm host strong cradle";
+var mnemonic = "canal unhappy midnight round tube gown sock labor shock rate more deal";

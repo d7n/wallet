@@ -1,1 +1,1 @@
-var mnemonic = "cheese fiction lens iron city public citizen cancel profit atom broccoli afford";
+var mnemonic = "upgrade sting digital merge farm sister remember sniff album reflect shiver spy";

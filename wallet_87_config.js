@@ -1,1 +1,1 @@
-var mnemonic = "speed sick kingdom vague color write essay benefit group author all beauty";
+var mnemonic = "dance crystal toy bench wolf sight alpha pitch benefit clay business fuel";

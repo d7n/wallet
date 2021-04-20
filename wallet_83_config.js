@@ -1,1 +1,1 @@
-var mnemonic = "arch april forget shy unlock defy arch auction ready lottery dice they";
+var mnemonic = "kid festival salad fame salute service aisle pitch sad income duck hundred";

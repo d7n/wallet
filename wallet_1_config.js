@@ -1,1 +1,1 @@
-var mnemonic = "slice student boss version same dignity elite item pioneer alley bag blush";
+var mnemonic = "current invest normal season crucial foam fragile dwarf cave payment enforce lounge";

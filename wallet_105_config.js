@@ -1,1 +1,1 @@
-var mnemonic = "become sustain corn gadget torch cage artefact attend ring exercise argue enhance";
+var mnemonic = "clap vintage oil crisp purpose happy year wide mouse case leader hawk";
