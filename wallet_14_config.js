@@ -1,1 +1,1 @@
-var mnemonic = "prevent umbrella merit pet off entry accident cheese assume setup coffee farm";
+var mnemonic = "eternal warm slim room infant jazz detail good end bargain early zoo";

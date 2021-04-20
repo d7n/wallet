@@ -1,1 +1,1 @@
-var mnemonic = "traffic define vote olympic dolphin brush random disagree desk monster zoo enroll";
+var mnemonic = "giraffe sudden sausage siege grant admit biology shaft copper pet system fever";

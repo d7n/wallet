@@ -1,1 +1,1 @@
-var mnemonic = "lounge child giant unlock thrive slow approve rebel element practice divorce logic";
+var mnemonic = "leisure force museum dad spoil mistake economy collect spoon argue suit turtle";

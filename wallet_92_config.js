@@ -1,1 +1,1 @@
-var mnemonic = "ignore yard jaguar antenna reunion coil boat prefer tenant pet amused jar";
+var mnemonic = "robust inspire leg attract plunge off angry conduct purchase potato prosper immense";

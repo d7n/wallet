@@ -1,1 +1,1 @@
-var mnemonic = "secret worth chaos diamond jacket private weekend maid alone jaguar already muffin";
+var mnemonic = "toward usage fun predict hat derive can wall galaxy obey sport shaft";

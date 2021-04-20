@@ -1,1 +1,1 @@
-var mnemonic = "brass bounce side pink bomb trouble deer welcome autumn trade gossip fiber";
+var mnemonic = "quick school moral plunge cattle pond sun tube stamp trophy phone another";

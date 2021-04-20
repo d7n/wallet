@@ -1,1 +1,1 @@
-var mnemonic = "rhythm bunker notable cost lemon number pelican rhythm foster melt brisk gossip";
+var mnemonic = "twin chronic live erode galaxy debate person wet report drive senior congress";

@@ -1,1 +1,1 @@
-var mnemonic = "basket draft mystery suggest brain drift turn salmon reform elegant rival baby";
+var mnemonic = "make charge dynamic morning layer village sister cluster glory combine horror police";

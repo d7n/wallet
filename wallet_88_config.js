@@ -1,1 +1,1 @@
-var mnemonic = "minimum output earn tiny history elder citizen gadget gift rabbit fossil view";
+var mnemonic = "voyage donate dentist stumble armor moon high elephant rabbit valid planet scan";

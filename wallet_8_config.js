@@ -1,1 +1,1 @@
-var mnemonic = "unlock universe enlist unveil desk six debris will clean ivory enrich there";
+var mnemonic = "interest indoor guess convince sibling ladder cake easily output finish hungry together";

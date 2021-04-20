@@ -1,1 +1,1 @@
-var mnemonic = "embark churn script trim broccoli police dutch globe body word require unfold";
+var mnemonic = "bid grocery arrange grass bicycle strike fury surface paper sport cabbage fee";

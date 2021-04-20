@@ -1,1 +1,1 @@
-var mnemonic = "tip ready eye beef pioneer rhythm motion young assist audit razor next";
+var mnemonic = "fitness drip roast resemble success pattern cash chest puzzle involve outer offer";

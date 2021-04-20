@@ -1,1 +1,1 @@
-var mnemonic = "twice key hand phone decline trust duty pelican cushion nose explain gown";
+var mnemonic = "tattoo tool ordinary solve transfer screen program until scorpion blast talk disease";

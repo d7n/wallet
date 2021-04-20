@@ -1,1 +1,1 @@
-var mnemonic = "upon coast pink involve tiny black tongue alien fluid divide filter scheme";
+var mnemonic = "audit kid recipe deny measure excite such vapor mobile achieve blast sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "congress lamp gospel control canoe chase economy pioneer this ask used dish";
+var mnemonic = "wood chest raise occur one kit picture glass afraid other flip tongue";

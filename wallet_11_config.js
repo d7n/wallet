@@ -1,1 +1,1 @@
-var mnemonic = "segment wait keep equal hockey dry reflect credit civil boring hybrid match";
+var mnemonic = "olympic drill carpet puppy evil skill conduct food fiscal fruit collect reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "produce shop chapter trash melody motion attend blanket very mansion scorpion wave";
+var mnemonic = "rule trip chicken prevent unknown awful define expire theme jump ensure team";

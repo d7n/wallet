@@ -1,1 +1,1 @@
-var mnemonic = "penalty staff acid gas drive wonder spoon subway obscure mask convince wet";
+var mnemonic = "remember miracle bind comfort crime faint effort luggage tired high example swim";

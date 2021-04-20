@@ -1,1 +1,1 @@
-var mnemonic = "submit rebel street twin marble name gravity pony nose invest erode fit";
+var mnemonic = "faculty patrol crawl mixture blossom steak cycle tomorrow art broccoli sock husband";

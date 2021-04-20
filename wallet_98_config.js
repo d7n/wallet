@@ -1,1 +1,1 @@
-var mnemonic = "forum save argue tree deny people reduce spread alert cousin bottom concert";
+var mnemonic = "proud method reject empower brass transfer royal away issue tape bicycle cloud";

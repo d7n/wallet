@@ -1,1 +1,1 @@
-var mnemonic = "fatigue corn alley pistol damage bitter family step novel table fruit town";
+var mnemonic = "civil answer snap runway reform inside reason outside vocal start lend radar";

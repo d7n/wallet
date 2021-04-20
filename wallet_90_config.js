@@ -1,1 +1,1 @@
-var mnemonic = "resist cause segment health drop finish mule hazard pen tenant whip quantum";
+var mnemonic = "boost ability thing job title panda harbor wide excess traffic buzz cash";

@@ -1,1 +1,1 @@
-var mnemonic = "lake chaos saddle play imitate close remove sock adapt switch spirit green";
+var mnemonic = "utility excuse captain peace lamp square mercy water stove wet surge antenna";

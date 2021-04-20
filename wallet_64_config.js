@@ -1,1 +1,1 @@
-var mnemonic = "link such alcohol over select ask labor upset comfort gain record hobby";
+var mnemonic = "drop winter victory hammer noise gate assume dream credit repair nominee void";

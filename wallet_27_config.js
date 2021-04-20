@@ -1,1 +1,1 @@
-var mnemonic = "chest ugly feel power around first ball sponsor trip unfold category silver";
+var mnemonic = "crouch promote wash doll recycle bird cream air trust scheme stamp humor";

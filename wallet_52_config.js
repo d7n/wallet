@@ -1,1 +1,1 @@
-var mnemonic = "banana outside fruit lunch nice diet speak expose author music normal wasp";
+var mnemonic = "alpha taxi uniform despair crush blame armed sword spot quantum praise connect";

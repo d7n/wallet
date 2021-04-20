@@ -1,1 +1,1 @@
-var mnemonic = "blood sphere keen stomach just bright double photo boil tortoise play private";
+var mnemonic = "direct prosper convince crack weather chef friend crowd forest keen genius tiny";

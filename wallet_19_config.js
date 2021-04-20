@@ -1,1 +1,1 @@
-var mnemonic = "valve acquire bronze picnic first spirit actress voyage know envelope belt ticket";
+var mnemonic = "time space goose tired organ wagon puppy manage thumb space obvious flavor";

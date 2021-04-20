@@ -1,1 +1,1 @@
-var mnemonic = "shop empty river burst april please eagle fork potato cruise robust cigar";
+var mnemonic = "stamp wrestle curious honey sausage split hunt ladder risk foil supreme clap";

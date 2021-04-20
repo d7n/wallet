@@ -1,1 +1,1 @@
-var mnemonic = "demand train river snake shoe hurt scare month promote flame license envelope";
+var mnemonic = "destroy wild require nature pride usage become grit cute burden junior cage";

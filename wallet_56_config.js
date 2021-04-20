@@ -1,1 +1,1 @@
-var mnemonic = "nephew sort copy kind auto legend unknown sunset ride witness spot hidden";
+var mnemonic = "exchange daughter south urge donor alert stumble wrap spray govern curve spawn";

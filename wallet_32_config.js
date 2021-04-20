@@ -1,1 +1,1 @@
-var mnemonic = "lucky already accuse carbon luggage veteran summer lemon decide talk property escape";
+var mnemonic = "near focus glow mind submit romance piece soul slight transfer stick above";

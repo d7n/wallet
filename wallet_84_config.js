@@ -1,1 +1,1 @@
-var mnemonic = "day unveil vocal menu collect diet skirt fantasy useless smooth fix stairs";
+var mnemonic = "cupboard host resource begin fish climb rough aisle song castle few metal";

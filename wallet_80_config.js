@@ -1,1 +1,1 @@
-var mnemonic = "imitate wasp electric cube exclude team permit smile antenna miracle color angry";
+var mnemonic = "domain job nephew upgrade logic super team blade jewel fetch afraid party";

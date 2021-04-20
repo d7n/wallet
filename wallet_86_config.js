@@ -1,1 +1,1 @@
-var mnemonic = "attitude bounce online edge salute travel embark number auto easy spoon angry";
+var mnemonic = "car runway bench crack connect quit people pear jaguar wild version scan";

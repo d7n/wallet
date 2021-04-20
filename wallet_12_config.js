@@ -1,1 +1,1 @@
-var mnemonic = "panther employ route that chase laundry victory delay bulk three phrase mom";
+var mnemonic = "merit aware master question novel tissue offer gasp old riot wheat theory";

@@ -1,1 +1,1 @@
-var mnemonic = "castle frost kidney dinner indoor hedgehog parent theme exhibit deposit whale salad";
+var mnemonic = "wheel cactus level south high sausage kick cash degree matrix shield boss";

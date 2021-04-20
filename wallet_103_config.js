@@ -1,1 +1,1 @@
-var mnemonic = "victory morning click actress license sweet defense mountain display lens clap magic";
+var mnemonic = "sad zoo wear degree unit crucial next office bachelor acquire provide pull";

@@ -1,1 +1,1 @@
-var mnemonic = "walk snap benefit kite pair peasant cereal payment theme genius close universe";
+var mnemonic = "trap guess secret true quote bracket alter wrong view produce swing badge";

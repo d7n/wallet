@@ -1,1 +1,1 @@
-var mnemonic = "casual royal destroy symbol wrist switch city paddle boost rib wonder another";
+var mnemonic = "fall expose acquire elegant wreck plastic chest fruit reveal pilot bean bounce";

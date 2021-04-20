@@ -1,1 +1,1 @@
-var mnemonic = "physical broccoli gentle guide defy excuse vehicle gap fluid mystery marine require";
+var mnemonic = "tool eternal join demand infant index noodle cart woman apple unique there";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy fiber change smile family enlist wood scare episode invest merit rough";
+var mnemonic = "unfold century danger buyer noise void peace elder guide lend hub virus";

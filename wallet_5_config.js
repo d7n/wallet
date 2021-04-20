@@ -1,1 +1,1 @@
-var mnemonic = "desk simple upset security robust damage abstract trash drum aerobic version divide";
+var mnemonic = "display fever ranch frequent bulb aspect deny monitor ensure gun cluster shell";

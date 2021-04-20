@@ -1,1 +1,1 @@
-var mnemonic = "tornado dwarf absurd friend bounce fork soul unknown coin mad fish horn";
+var mnemonic = "zero near pave remove danger machine push cry bird inquiry flight walk";

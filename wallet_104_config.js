@@ -1,1 +1,1 @@
-var mnemonic = "unfold shrimp ramp popular ankle chuckle knee drip swarm arena meat stone";
+var mnemonic = "remove regret flavor yellow panel advice develop problem mutual burden learn high";

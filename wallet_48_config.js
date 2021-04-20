@@ -1,1 +1,1 @@
-var mnemonic = "royal fat quality figure health grass shrug law can collect spider sponsor";
+var mnemonic = "ski half belt indicate limit siege parade mercy top waste bean canvas";

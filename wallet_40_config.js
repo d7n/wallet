@@ -1,1 +1,1 @@
-var mnemonic = "fresh sponsor trash school defense run visit syrup resist brisk rocket review";
+var mnemonic = "resource brick myth trash vintage actual require lion later cheap chest mixture";

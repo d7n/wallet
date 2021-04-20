@@ -1,1 +1,1 @@
-var mnemonic = "talk clog inner laptop ask retire cousin shadow buzz bonus north truck";
+var mnemonic = "hunt accuse note face bright girl apology throw mule all void door";

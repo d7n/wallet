@@ -1,1 +1,1 @@
-var mnemonic = "athlete wise current napkin shop suit fringe multiply fruit foam stable digital";
+var mnemonic = "always person razor task hen tuition spread saddle rich panel dog lottery";

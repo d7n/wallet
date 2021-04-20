@@ -1,1 +1,1 @@
-var mnemonic = "theme puppy trouble cable enough hood combine lucky seek bunker wheat tortoise";
+var mnemonic = "slab soccer spider fall verify zoo bread dream bitter result reject pistol";

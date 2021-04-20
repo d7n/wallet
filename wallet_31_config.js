@@ -1,1 +1,1 @@
-var mnemonic = "math spider fall muffin valve flee foil wolf avoid lava tattoo between";
+var mnemonic = "acid sphere circle misery crawl struggle abstract census kidney input humor pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "example consider bean inmate keep bundle ostrich index boil quantum excite laptop";
+var mnemonic = "today first choice approve major bind trim because drop mirror wear explain";

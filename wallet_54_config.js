@@ -1,1 +1,1 @@
-var mnemonic = "avoid regret total siege extra flight throw act clever vintage hope kidney";
+var mnemonic = "vendor pudding feed bird various setup meadow they abstract own piano dream";

@@ -1,1 +1,1 @@
-var mnemonic = "useful weasel cheese play erase gallery police garden crack mention liquid joke";
+var mnemonic = "erase pelican dove disagree ice east lazy angry demand almost fitness garage";

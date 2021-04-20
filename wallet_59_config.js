@@ -1,1 +1,1 @@
-var mnemonic = "merit pen island cement broccoli car dolphin goose arch reveal crouch rate";
+var mnemonic = "dad erase pumpkin ill include jealous leopard area little wagon uncle burden";

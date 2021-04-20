@@ -1,1 +1,1 @@
-var mnemonic = "token stool taxi board riot oxygen ship note two extra student artefact";
+var mnemonic = "float elite drive convince battle fruit assist any stay piece pizza frequent";

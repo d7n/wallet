@@ -1,1 +1,1 @@
-var mnemonic = "dry lounge utility hospital sadness market card disease lumber trade never any";
+var mnemonic = "organ sail much category hazard venue news busy immune opinion confirm hold";

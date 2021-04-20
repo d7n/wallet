@@ -1,1 +1,1 @@
-var mnemonic = "direct card always quality damp fiber visa forest truth sphere stable velvet";
+var mnemonic = "elephant tenant about blossom improve ride lumber spell glimpse section spoon pulp";

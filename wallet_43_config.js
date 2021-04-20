@@ -1,1 +1,1 @@
-var mnemonic = "rare brisk poem practice potato merit salad letter mushroom village simple resemble";
+var mnemonic = "alert lounge giraffe snack scare blame pond calm jewel property punch virus";

@@ -1,1 +1,1 @@
-var mnemonic = "century endorse agent damage soccer afraid rack island stumble call please video";
+var mnemonic = "trust topple deputy bicycle ramp away depart track ask pottery inspire rotate";

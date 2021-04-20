@@ -1,1 +1,1 @@
-var mnemonic = "amount happy room nothing pioneer badge vote canyon focus tiger heavy tape";
+var mnemonic = "begin trash once special pond choose tree orbit hybrid hundred mass arrange";

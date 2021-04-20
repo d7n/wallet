@@ -1,1 +1,1 @@
-var mnemonic = "portion destroy good price glimpse tower slender coyote edge only helmet random";
+var mnemonic = "notable possible say bargain letter drift style purse frequent palace theme vote";

@@ -1,1 +1,1 @@
-var mnemonic = "world lend key autumn disease erase gas venue normal sun arrest pen";
+var mnemonic = "gospel art aunt outdoor hedgehog gym minor bind wrist decrease butter monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "engage usage usage salmon outside meadow daughter average reason dynamic major impact";
+var mnemonic = "soda magnet chicken because rely medal series guide merge fix life squirrel";

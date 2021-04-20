@@ -1,1 +1,1 @@
-var mnemonic = "label north nation vague climb tonight story elder fragile because fruit pledge";
+var mnemonic = "wrestle knee remove swing slide sword source poverty raise rice rug hospital";

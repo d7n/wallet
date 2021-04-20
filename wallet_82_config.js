@@ -1,1 +1,1 @@
-var mnemonic = "indicate erupt height bright play crystal giraffe dentist flight dumb myth lunar";
+var mnemonic = "gap client palm bitter sugar rigid stereo chair funny switch abandon cement";

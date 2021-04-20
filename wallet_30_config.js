@@ -1,1 +1,1 @@
-var mnemonic = "guess weasel hotel crucial danger split demise monkey edge fruit vital pottery";
+var mnemonic = "cram liberty girl govern sail because crumble emotion pass squeeze favorite solution";

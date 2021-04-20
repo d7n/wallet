@@ -1,1 +1,1 @@
-var mnemonic = "ski arm palace sadness today crumble tree flower elder arrow quantum travel";
+var mnemonic = "gate picture lobster sport any abstract stable gym also very file dentist";

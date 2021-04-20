@@ -1,1 +1,1 @@
-var mnemonic = "private aerobic color know section resource kingdom amazing ride aware tilt comfort";
+var mnemonic = "husband excess brother police run autumn install grant volcano talk devote flag";

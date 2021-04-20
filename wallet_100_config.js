@@ -1,1 +1,1 @@
-var mnemonic = "put light cotton profit frog industry finish submit you road index left";
+var mnemonic = "cinnamon patch sorry sausage kidney pink square misery ball manage ladder member";

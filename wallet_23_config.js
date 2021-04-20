@@ -1,1 +1,1 @@
-var mnemonic = "announce pencil six cannon ensure bomb brother market theme simple fog bubble";
+var mnemonic = "decorate crouch praise notable throw chair lift clean allow green battle slam";

@@ -1,1 +1,1 @@
-var mnemonic = "exit blouse fall join radar glance advice chat economy spice resemble hero";
+var mnemonic = "laugh then fury consider marble wool lens gallery excess black census order";

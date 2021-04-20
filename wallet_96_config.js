@@ -1,1 +1,1 @@
-var mnemonic = "leisure alcohol matter wood sport age parade mask treat unaware pact flight";
+var mnemonic = "twelve like moment mean monitor about south prefer victory excuse state style";

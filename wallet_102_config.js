@@ -1,1 +1,1 @@
-var mnemonic = "start file essence million muffin autumn achieve nominee what size palace famous";
+var mnemonic = "help update blanket endless proud spread document monster maid banner company piece";

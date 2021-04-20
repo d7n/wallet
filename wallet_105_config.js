@@ -1,1 +1,1 @@
-var mnemonic = "choice vacuum glow cart town favorite close fall april pulse pistol sunset";
+var mnemonic = "option document cause urge hat swap dash gossip discover wrist face enact";

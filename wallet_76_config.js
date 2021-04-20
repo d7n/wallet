@@ -1,1 +1,1 @@
-var mnemonic = "foam game blossom hole sausage toward hover squeeze gap ethics inflict expose";
+var mnemonic = "forward rapid action edit grunt total below salon accuse laundry broccoli boost";

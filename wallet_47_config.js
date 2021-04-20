@@ -1,1 +1,1 @@
-var mnemonic = "menu window draw fabric know track select topic pottery story kingdom female";
+var mnemonic = "agent museum load cruise wrong faint area stairs juice autumn coffee wait";

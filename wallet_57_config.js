@@ -1,1 +1,1 @@
-var mnemonic = "jungle result desert meadow quiz exit robot midnight book diet skull network";
+var mnemonic = "peanut expect laugh mutual suit paper upset armor inherit party sibling people";

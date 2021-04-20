@@ -1,1 +1,1 @@
-var mnemonic = "uncle include hollow gym zone news movie invite beyond ice renew blame";
+var mnemonic = "fun curious involve west escape pioneer post cloud hood whale enemy ketchup";

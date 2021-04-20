@@ -1,1 +1,1 @@
-var mnemonic = "same topic panel random quarter field squeeze apology prosper theory between victory";
+var mnemonic = "picnic visual injury lens opera glance aunt arrow almost churn act ride";

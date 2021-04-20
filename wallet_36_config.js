@@ -1,1 +1,1 @@
-var mnemonic = "delay spirit motor scan remain mail clock shell horror common ahead patrol";
+var mnemonic = "bacon pony crouch spread truly teach cattle million jacket crew room space";

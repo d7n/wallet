@@ -1,1 +1,1 @@
-var mnemonic = "kite hub aisle exotic artefact glide mean analyst yard sketch cable december";
+var mnemonic = "identify relief size march session blue original brass settle denial caught wonder";

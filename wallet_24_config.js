@@ -1,1 +1,1 @@
-var mnemonic = "float cargo bind silly salad gadget drink mask divide river manual crack";
+var mnemonic = "blood crouch priority shove proof elevator option cycle funny major indicate timber";

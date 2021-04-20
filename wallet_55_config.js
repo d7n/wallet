@@ -1,1 +1,1 @@
-var mnemonic = "rough rally minor local crumble birth soup bounce service convince garage bread";
+var mnemonic = "flee face expect lounge false negative admit knee pet recycle include slight";

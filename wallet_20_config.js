@@ -1,1 +1,1 @@
-var mnemonic = "before have stadium candy stumble verb pig toy sand ginger beef scrap";
+var mnemonic = "danger dilemma undo sorry shop provide people hat hockey ghost swallow horn";

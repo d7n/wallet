@@ -1,1 +1,1 @@
-var mnemonic = "left sudden jar clarify head silly muscle change guilt athlete brown situate";
+var mnemonic = "slim cause cabin circle category trend layer absurd quote farm smooth elephant";

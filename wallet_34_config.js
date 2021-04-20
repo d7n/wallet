@@ -1,1 +1,1 @@
-var mnemonic = "sauce scrap face state lawn clip hurt layer offer tide lecture expose";
+var mnemonic = "glow shine grass move oxygen sadness asthma zero unknown gain someone labor";

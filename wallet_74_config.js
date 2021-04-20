@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow off fiscal clerk boy advice open prevent song method insane direct";
+var mnemonic = "seven recycle erode verify rally goddess near bench divert shoulder garbage cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage creek ethics slight verify drum lab quote digital recall caution cherry";
+var mnemonic = "jelly clock elite excite guide tip call spare dice door glue parade";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor quick crater reason entire stadium planet hospital ecology grow day author";
+var mnemonic = "flock coil north between humble foot fringe search balcony mango oxygen rhythm";
