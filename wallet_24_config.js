@@ -1,1 +1,1 @@
-var mnemonic = "used donate buyer concert multiply uphold mercy cram entire town sword lunar";
+var mnemonic = "joke ten flush today repeat segment neglect airport attitude shaft analyst cabin";

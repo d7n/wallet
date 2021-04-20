@@ -1,1 +1,1 @@
-var mnemonic = "play poem sniff typical you patch lawn lawn begin police holiday tell";
+var mnemonic = "liquid hill able gentle setup harsh draw deliver flip produce oak zero";

@@ -1,1 +1,1 @@
-var mnemonic = "boost genius tomorrow analyst depart resist laundry bamboo water few text flag";
+var mnemonic = "reason risk satisfy grape maid resource nature pretty local run laptop damp";

@@ -1,1 +1,1 @@
-var mnemonic = "client they ordinary nest above spider spirit sugar immense elbow latin attitude";
+var mnemonic = "awake fun permit wink smart shoulder box rice rotate unlock museum hidden";

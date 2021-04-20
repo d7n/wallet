@@ -1,1 +1,1 @@
-var mnemonic = "asthma concert nerve thing weasel front ladder protect day evolve business load";
+var mnemonic = "right screen castle fancy rather elevator core stone tumble since inhale buffalo";

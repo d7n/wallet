@@ -1,1 +1,1 @@
-var mnemonic = "sauce network lemon box ready mystery fun oyster discover shrug flight catalog";
+var mnemonic = "wink pledge layer cherry insect below install order joke broken broom marriage";

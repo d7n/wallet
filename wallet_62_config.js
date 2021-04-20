@@ -1,1 +1,1 @@
-var mnemonic = "always pill dust creek okay when inject number predict acoustic common law";
+var mnemonic = "symptom steak innocent web quiz express flip advance relax harbor win silver";

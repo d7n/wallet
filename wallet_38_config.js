@@ -1,1 +1,1 @@
-var mnemonic = "riot lawsuit heart hint photo forest arena seven network drip use flush";
+var mnemonic = "dutch mosquito despair else ill motion warrior adult reveal inmate multiply father";

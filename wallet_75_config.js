@@ -1,1 +1,1 @@
-var mnemonic = "father melt law half library bread february enlist spice wish sock glide";
+var mnemonic = "october envelope exit hurt delay glue slow pink atom lift sort video";

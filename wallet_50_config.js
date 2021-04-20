@@ -1,1 +1,1 @@
-var mnemonic = "olympic sugar cattle salad annual auto patient quarter climb crisp company fatal";
+var mnemonic = "plate hair snap zone meat theme wash window program swap assist ripple";

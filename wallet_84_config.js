@@ -1,1 +1,1 @@
-var mnemonic = "quantum sister worth metal milk park snap pond course twelve tent scout";
+var mnemonic = "tackle chat way winner forum grass stone error blouse east now lesson";

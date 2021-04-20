@@ -1,1 +1,1 @@
-var mnemonic = "next ecology invest crush sibling security load suit earn drill neglect short";
+var mnemonic = "regular around action assume cram abuse three asthma slight ankle faculty staff";

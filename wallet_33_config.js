@@ -1,1 +1,1 @@
-var mnemonic = "alarm bleak cinnamon true fish reduce scout put fine cry hello inner";
+var mnemonic = "pistol cruel duck session already inquiry rain various fog soup enable replace";

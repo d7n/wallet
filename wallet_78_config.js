@@ -1,1 +1,1 @@
-var mnemonic = "vast hope isolate case entry humor travel stick vacant luggage fog shy";
+var mnemonic = "jelly verify forget trust angle badge adjust topple unhappy hour wet angry";

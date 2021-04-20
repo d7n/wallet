@@ -1,1 +1,1 @@
-var mnemonic = "position mixture very taste truth finish process oblige evolve hope airport smoke";
+var mnemonic = "deliver slab body month subway work gauge critic soul reopen enter crumble";

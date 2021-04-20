@@ -1,1 +1,1 @@
-var mnemonic = "force success cushion conduct analyst rate machine dolphin leave reflect nut orchard";
+var mnemonic = "fuel pull debate rather leaf roast catch weird hover sea artist there";

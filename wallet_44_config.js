@@ -1,1 +1,1 @@
-var mnemonic = "race marriage whisper olive exit near hero meat faith census material brisk";
+var mnemonic = "rebuild daring twist fatigue bottom burger outdoor patch napkin devote animal north";

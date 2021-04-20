@@ -1,1 +1,1 @@
-var mnemonic = "manual toy that lizard risk exact public sand sound gate denial pelican";
+var mnemonic = "spring invest come sound slam sad replace sugar favorite bonus rural argue";

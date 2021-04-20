@@ -1,1 +1,1 @@
-var mnemonic = "prize cliff place odor kiwi wrap key crunch envelope crystal opera foster";
+var mnemonic = "ripple wait domain lava ski unfair cheese chicken cook black flower ride";

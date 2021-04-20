@@ -1,1 +1,1 @@
-var mnemonic = "bag any dry cherry stage whisper exile kangaroo print frozen angle sauce";
+var mnemonic = "hint meat job salmon betray rib card fury wheel glow globe client";

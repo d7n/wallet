@@ -1,1 +1,1 @@
-var mnemonic = "enable erupt meadow foster next main laugh frown resist maid mandate dove";
+var mnemonic = "fly chronic steel decide alter school enemy nerve burger quarter limb average";

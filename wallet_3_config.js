@@ -1,1 +1,1 @@
-var mnemonic = "piano canoe below decide stomach guard quality bachelor giggle cheese afford frozen";
+var mnemonic = "better engage muffin ugly siren approve scrub exit vast flower enlist plastic";

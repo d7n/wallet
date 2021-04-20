@@ -1,1 +1,1 @@
-var mnemonic = "mansion blame error spice boring old lecture coconut release awkward final ocean";
+var mnemonic = "dragon merry eye open elbow space wise inject way verify fancy dismiss";

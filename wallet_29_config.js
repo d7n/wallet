@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin father version blush ensure entire skin meadow tube length hybrid tourist";
+var mnemonic = "abuse focus turkey hero beauty mistake ignore magnet awful neutral biology pepper";

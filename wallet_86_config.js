@@ -1,1 +1,1 @@
-var mnemonic = "life arrange enable patch brass alpha benefit identify high remember common salute";
+var mnemonic = "aerobic near wish farm spy cable balcony loop mistake glare clarify raven";

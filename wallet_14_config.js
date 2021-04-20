@@ -1,1 +1,1 @@
-var mnemonic = "wrong fever dwarf color flash host palm coil parrot jar device solar";
+var mnemonic = "arrange jungle waste lens oyster sustain cage school legend fiction breeze domain";

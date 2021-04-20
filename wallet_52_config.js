@@ -1,1 +1,1 @@
-var mnemonic = "random pave scissors number remind balance choose knee olympic before mimic hammer";
+var mnemonic = "tuna lesson embark crowd come this achieve minor whale mercy solve bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "item praise post paddle come obtain brother also crane economy sunset object";
+var mnemonic = "female slot void physical extra maximum victory guide lottery agree mountain snap";

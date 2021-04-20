@@ -1,1 +1,1 @@
-var mnemonic = "soldier brush wrap analyst lobster sight once siege shop calm lake tunnel";
+var mnemonic = "scare script blur junk audit shuffle reduce below tongue infant cradle hazard";

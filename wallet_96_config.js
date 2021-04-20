@@ -1,1 +1,1 @@
-var mnemonic = "mom trust vote steel work tornado umbrella night obtain crane avoid claim";
+var mnemonic = "column juice split width palace ski era secret monkey rude network goat";

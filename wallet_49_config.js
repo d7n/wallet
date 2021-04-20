@@ -1,1 +1,1 @@
-var mnemonic = "approve ginger speed outdoor layer stay coin boss goddess bone modify cushion";
+var mnemonic = "unit degree refuse prepare zone glue festival prosper regular child stick load";

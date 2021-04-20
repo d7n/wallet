@@ -1,1 +1,1 @@
-var mnemonic = "shaft liberty excuse faith wing plastic dial rubber heavy input prison degree";
+var mnemonic = "gold supreme case nation invest tomorrow century canal february inject nature since";

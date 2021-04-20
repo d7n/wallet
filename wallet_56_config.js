@@ -1,1 +1,1 @@
-var mnemonic = "human initial saddle run purpose puzzle hen chalk neither excuse blade camera";
+var mnemonic = "music lift wage few nature ranch actual vehicle accuse horror echo secret";

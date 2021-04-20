@@ -1,1 +1,1 @@
-var mnemonic = "private leaf cover ignore dizzy soft palm velvet neglect renew lemon achieve";
+var mnemonic = "candy awake lazy bracket current feed sell art brown crop vibrant clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "lift eternal tonight carbon ability anchor october wine photo flock blue twin";
+var mnemonic = "boost minimum elder help corn purse erase session reason upgrade cup pond";

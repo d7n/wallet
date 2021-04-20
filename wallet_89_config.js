@@ -1,1 +1,1 @@
-var mnemonic = "neck mix prison party ability assume script case silk movie knock mimic";
+var mnemonic = "whale foil wink bamboo injury quit blind place annual hole riot angry";

@@ -1,1 +1,1 @@
-var mnemonic = "better spy salmon word cry test cart lunar rule uphold mountain tourist";
+var mnemonic = "shoulder atom talent kitten object car guard trumpet obvious maid rather shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "educate crane floor since hawk flame super supply regular jeans drink brisk";
+var mnemonic = "trick aspect fit slight alarm scorpion room obscure right merit fork kind";

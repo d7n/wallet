@@ -1,1 +1,1 @@
-var mnemonic = "funny course raccoon uphold bottom frozen live congress concert return steak act";
+var mnemonic = "jungle answer frame grab pelican interest cloud session vast lab rabbit monitor";

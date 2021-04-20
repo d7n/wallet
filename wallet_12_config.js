@@ -1,1 +1,1 @@
-var mnemonic = "black table crime veteran flat grocery service video visa calm rich false";
+var mnemonic = "setup stem raccoon fringe buyer pluck segment volume inquiry exhaust security egg";

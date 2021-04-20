@@ -1,1 +1,1 @@
-var mnemonic = "whale double poet leader lamp suspect soda man execute wheel gauge mix";
+var mnemonic = "cactus fury glass enact leg raven sun vacuum chat average sausage surge";

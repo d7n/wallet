@@ -1,1 +1,1 @@
-var mnemonic = "easy team ten onion cattle kind truck someone toilet bless ostrich vital";
+var mnemonic = "black plastic episode food put seven ethics game science confirm garage script";

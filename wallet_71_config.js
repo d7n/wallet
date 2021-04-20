@@ -1,1 +1,1 @@
-var mnemonic = "divert force cute accuse parrot mom sugar foil sport man void chapter";
+var mnemonic = "horn century forward behind reopen dwarf claim balcony any tomato hello girl";

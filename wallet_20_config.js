@@ -1,1 +1,1 @@
-var mnemonic = "surface amused cabin until crew clean chest island wet surge desk water";
+var mnemonic = "ritual ivory truth liberty vibrant purse share section alert welcome multiply abandon";

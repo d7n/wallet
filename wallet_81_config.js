@@ -1,1 +1,1 @@
-var mnemonic = "fluid unlock chalk make pet pistol strong injury silver hawk vital erosion";
+var mnemonic = "fee answer ship fiscal hero knock below owner walnut recycle cause dizzy";

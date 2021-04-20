@@ -1,1 +1,1 @@
-var mnemonic = "enough ability connect traffic season real disagree leisure vast blanket earth have";
+var mnemonic = "moment region engage announce swamp present ensure color fee globe area garment";

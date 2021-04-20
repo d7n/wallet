@@ -1,1 +1,1 @@
-var mnemonic = "moment apology ivory armor hunt mouse mind tuition valve august trouble donkey";
+var mnemonic = "jar leader mind wood ensure animal blade scrub host lamp satoshi conduct";

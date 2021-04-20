@@ -1,1 +1,1 @@
-var mnemonic = "seek mercy luxury finish jump hundred cloth repair scissors refuse lemon liquid";
+var mnemonic = "lunar idea other public okay outer rule profit neutral impose castle help";

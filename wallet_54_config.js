@@ -1,1 +1,1 @@
-var mnemonic = "shy concert balcony favorite life food rookie grid fall observe lottery gold";
+var mnemonic = "badge rocket claw ritual tent crawl rib person uncover dawn fashion sauce";

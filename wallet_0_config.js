@@ -1,1 +1,1 @@
-var mnemonic = "sense day biology visa slide donor profit field book cushion mirror kangaroo";
+var mnemonic = "door address joy spatial country gentle home weird vessel mountain protect sample";

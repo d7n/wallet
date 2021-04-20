@@ -1,1 +1,1 @@
-var mnemonic = "wife mouse room just chalk this swim property sand fix fashion onion";
+var mnemonic = "sail sugar napkin always test trust world jazz brain remember predict neglect";

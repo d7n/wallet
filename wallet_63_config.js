@@ -1,1 +1,1 @@
-var mnemonic = "myth purpose human caught tower brief you answer ask comfort cube property";
+var mnemonic = "damp pole square cup notable remember coin fragile trophy dynamic correct input";

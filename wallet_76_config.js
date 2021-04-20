@@ -1,1 +1,1 @@
-var mnemonic = "dentist bonus install vintage mesh convince pistol among build wool step coach";
+var mnemonic = "food rival slogan bag finish define mechanic announce lady shop plunge dentist";

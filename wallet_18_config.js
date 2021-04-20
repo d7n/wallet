@@ -1,1 +1,1 @@
-var mnemonic = "lizard wild plate improve tone right involve fabric owner relief rich loud";
+var mnemonic = "infant scissors satisfy empower inflict topic hover seek harbor pen future length";

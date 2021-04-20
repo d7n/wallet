@@ -1,1 +1,1 @@
-var mnemonic = "mandate dirt spirit vast aware veteran believe certain coast derive that okay";
+var mnemonic = "pear normal midnight shed oxygen amount letter profit cook funny faith achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "snow catch pistol village venture civil goddess rather lazy penalty involve shove";
+var mnemonic = "nasty neck airport depart enforce census pluck globe midnight infant please stereo";

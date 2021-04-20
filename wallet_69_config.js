@@ -1,1 +1,1 @@
-var mnemonic = "faculty air tank path lottery object crater wild orbit nose auction rent";
+var mnemonic = "step acoustic come run floor rare undo sketch kangaroo prefer timber crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder impact frozen eager negative twice hunt fly exit rail shock bless";
+var mnemonic = "charge olive need lawn choice twin yellow twelve chimney denial liquid scan";

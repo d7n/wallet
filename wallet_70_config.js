@@ -1,1 +1,1 @@
-var mnemonic = "crazy finger patient dinosaur deposit impact fat caution board sense news leader";
+var mnemonic = "unveil hospital start adult install pencil tobacco unique front problem flower girl";

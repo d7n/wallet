@@ -1,1 +1,1 @@
-var mnemonic = "venue maid stage glimpse security february agree glimpse beach demise mask twin";
+var mnemonic = "proud maple around casino hair praise hero such shrug plug solar latin";

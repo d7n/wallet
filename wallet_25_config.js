@@ -1,1 +1,1 @@
-var mnemonic = "ice borrow moment atom torch hybrid police twin abandon wine will increase";
+var mnemonic = "proud harbor bunker dutch limb zebra naive reject across viable around pink";

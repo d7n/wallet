@@ -1,1 +1,1 @@
-var mnemonic = "problem steel wonder jacket soda super artwork piano dial salute auction rely";
+var mnemonic = "toy kangaroo vocal chat library brisk neither pyramid dilemma jump match jealous";

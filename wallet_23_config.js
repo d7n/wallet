@@ -1,1 +1,1 @@
-var mnemonic = "expand rack fashion divide denial slush axis vote castle provide clarify neck";
+var mnemonic = "knock cart crouch much mean arrange discover baby middle replace wedding city";

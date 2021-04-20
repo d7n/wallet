@@ -1,1 +1,1 @@
-var mnemonic = "grid hamster random job garden silly ozone old ripple casual process brain";
+var mnemonic = "custom comfort target spoon multiply imitate veteran primary medal inject wide upon";

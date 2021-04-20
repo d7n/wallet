@@ -1,1 +1,1 @@
-var mnemonic = "hat repair mixture cliff become drastic grape design master ignore thrive suspect";
+var mnemonic = "minute daring polar pepper ginger blood give script seed service domain jar";

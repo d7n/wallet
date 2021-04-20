@@ -1,1 +1,1 @@
-var mnemonic = "regret badge entry lounge north trigger welcome danger lady notable man chef";
+var mnemonic = "grit year merry equip exchange faint grass hundred sentence rely bottom owner";

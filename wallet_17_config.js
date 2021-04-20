@@ -1,1 +1,1 @@
-var mnemonic = "left blanket early month useless treat upgrade badge club access rose oval";
+var mnemonic = "warm language talk seven spoon sudden taste damp tank knock taxi camera";

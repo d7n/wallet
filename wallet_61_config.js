@@ -1,1 +1,1 @@
-var mnemonic = "chair bean coin casual one tenant estate put hold poem various boat";
+var mnemonic = "rebuild gown globe wage exercise better cute mimic style floor final fragile";

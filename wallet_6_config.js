@@ -1,1 +1,1 @@
-var mnemonic = "dust public oven lunar vapor weapon time island census avoid victory inject";
+var mnemonic = "asset butter female disagree valley syrup diagram board doll buyer silent lake";

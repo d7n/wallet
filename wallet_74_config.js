@@ -1,1 +1,1 @@
-var mnemonic = "type promote library calm fortune critic double hen pottery heavy faculty solid";
+var mnemonic = "icon segment system derive stock sand replace reform cake hard remind sibling";

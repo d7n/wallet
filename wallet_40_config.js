@@ -1,1 +1,1 @@
-var mnemonic = "permit pen congress ozone trash pledge pretty goddess juice expect traffic lunch";
+var mnemonic = "forget short rare impact series already noodle volcano treat soda jelly gold";

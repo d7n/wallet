@@ -1,1 +1,1 @@
-var mnemonic = "acoustic title artwork inmate hundred board animal warfare survey circle all cricket";
+var mnemonic = "ghost primary frog proof shadow tourist unveil elder render enjoy arch bind";

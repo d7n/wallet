@@ -1,1 +1,1 @@
-var mnemonic = "tube text rich coyote enter fold abstract boss wagon coral book uphold";
+var mnemonic = "submit clump cross wide dawn depend ball field subway shed stock differ";

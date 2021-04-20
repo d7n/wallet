@@ -1,1 +1,1 @@
-var mnemonic = "join wagon gift dream can turtle element cruise cricket toe century miss";
+var mnemonic = "sing fragile web trumpet scheme piece grape link figure stick breeze large";

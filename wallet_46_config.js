@@ -1,1 +1,1 @@
-var mnemonic = "tissue rib result shoe digital turkey dial luxury surprise twin citizen scout";
+var mnemonic = "machine diary birth ski bleak gravity purity fog awful shaft wash bright";

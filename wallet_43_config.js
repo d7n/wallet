@@ -1,1 +1,1 @@
-var mnemonic = "level claim jeans hint person produce witness card tower mad occur rigid";
+var mnemonic = "you where tribe bundle race network chimney muscle tragic robot cave outside";

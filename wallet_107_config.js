@@ -1,1 +1,1 @@
-var mnemonic = "manual spend horse much panther equip exclude strike spider holiday cheese gorilla";
+var mnemonic = "exchange series toy depart strike misery crash cup ritual clarify swallow hurdle";

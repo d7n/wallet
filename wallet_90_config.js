@@ -1,1 +1,1 @@
-var mnemonic = "daughter stool yard please nominee prepare bacon horn funny soon hurdle abuse";
+var mnemonic = "fetch daring whisper crime quick version library oyster pioneer surface climb tribe";

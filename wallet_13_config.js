@@ -1,1 +1,1 @@
-var mnemonic = "crop trigger apple mammal across disease throw usual number desk feed tape";
+var mnemonic = "isolate disagree remain guitar hazard extend renew entire equal whisper beach kiss";

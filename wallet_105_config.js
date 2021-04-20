@@ -1,1 +1,1 @@
-var mnemonic = "render first veteran person legal citizen avocado arrive unhappy spy lend tone";
+var mnemonic = "become squirrel exact honey cake movie sleep build plastic praise ice hedgehog";

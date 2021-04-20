@@ -1,1 +1,1 @@
-var mnemonic = "eight ozone quote ticket upgrade fantasy horse goose throw course other bring";
+var mnemonic = "super invite express twist chunk alley foam hood spell tattoo violin fault";

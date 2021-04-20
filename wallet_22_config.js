@@ -1,1 +1,1 @@
-var mnemonic = "fragile panic feed awkward title huge index ghost hard lamp salt embrace";
+var mnemonic = "spring armed multiply click adjust message always lens predict engine dog airport";

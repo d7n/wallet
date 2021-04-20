@@ -1,1 +1,1 @@
-var mnemonic = "emerge two tissue glass inject runway where ice quarter august lens tide";
+var mnemonic = "usage reunion rice learn royal valid exist dove sail must craft piece";

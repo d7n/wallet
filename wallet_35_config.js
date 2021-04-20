@@ -1,1 +1,1 @@
-var mnemonic = "walk drum ensure enough kangaroo alien bulk penalty ginger piece fall dune";
+var mnemonic = "budget enemy reunion dismiss thought noble donkey road punch say produce hazard";

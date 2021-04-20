@@ -1,1 +1,1 @@
-var mnemonic = "essay defy green grain volume divorce female vast dinosaur industry timber jaguar";
+var mnemonic = "skin scatter brisk buyer practice crime bring century icon oak survey spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "rack magnet camp true dirt jump above clarify exotic caution toy keen";
+var mnemonic = "possible hold leg denial typical glare place measure system write beauty flock";

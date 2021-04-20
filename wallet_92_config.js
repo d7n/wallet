@@ -1,1 +1,1 @@
-var mnemonic = "recycle build album tiny jazz tag beyond extend hole social trade dust";
+var mnemonic = "idle sweet frozen catch traffic tray middle into canvas stumble nominee document";

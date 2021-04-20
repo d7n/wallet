@@ -1,1 +1,1 @@
-var mnemonic = "cute disease wedding treat spoon raven calm woman bleak jungle juice bid";
+var mnemonic = "silk tool sugar danger mixed summer soon club dry humor much trial";

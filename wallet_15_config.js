@@ -1,1 +1,1 @@
-var mnemonic = "clever nurse nut real topic picnic setup empty remind sphere spend stomach";
+var mnemonic = "six swear fall quality miracle key display oppose pistol language dignity force";

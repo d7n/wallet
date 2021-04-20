@@ -1,1 +1,1 @@
-var mnemonic = "analyst inspire edge fold silver test annual slab thank guitar easy raise";
+var mnemonic = "wealth interest sleep liberty phrase august inspire violin volume hammer surface mosquito";

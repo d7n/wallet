@@ -1,1 +1,1 @@
-var mnemonic = "poet december glove cabin object provide method brand flag exotic crumble engine";
+var mnemonic = "poet inherit emerge inform mammal neck more there tongue deliver imitate sadness";

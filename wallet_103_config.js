@@ -1,1 +1,1 @@
-var mnemonic = "clay copper ripple mutual detail flag bike local behave during illness depth";
+var mnemonic = "any tuna all hand brave draw rose section notice wear fuel purchase";

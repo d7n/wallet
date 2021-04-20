@@ -1,1 +1,1 @@
-var mnemonic = "security voyage open squirrel ozone learn lake guitar master ginger brief dog";
+var mnemonic = "chest promote crack main weird album proof blanket unfair joy unfair juice";

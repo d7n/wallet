@@ -1,1 +1,1 @@
-var mnemonic = "broccoli gaze enact burger hurt lumber business snake level soft sniff speak";
+var mnemonic = "helmet wage champion vocal color throw ensure gravity cinnamon defense result plunge";

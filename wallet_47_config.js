@@ -1,1 +1,1 @@
-var mnemonic = "duck viable gesture crawl clip expect theme winner lens puzzle rich adjust";
+var mnemonic = "harsh apple aunt resist disorder spray raise find until tennis relief throw";
