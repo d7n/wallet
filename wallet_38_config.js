@@ -1,1 +1,1 @@
-var mnemonic = "ranch noodle execute chalk knock tunnel hidden curtain olive body tortoise exact";
+var mnemonic = "dune spray dumb sad trigger orphan alone waste fluid charge pink flower";

@@ -1,1 +1,1 @@
-var mnemonic = "fun mobile end suggest party drastic prepare chest fork canyon civil law";
+var mnemonic = "kangaroo lock hotel inspire hover response trophy stock away install notable device";

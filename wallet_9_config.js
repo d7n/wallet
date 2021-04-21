@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow lonely caught loop divert half spoil inside kangaroo language surprise wage";
+var mnemonic = "team change method wrap october discover sad brisk sweet entire quality hidden";

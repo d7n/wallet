@@ -1,1 +1,1 @@
-var mnemonic = "modify tackle genius hungry swallow sleep appear october myth dose night ensure";
+var mnemonic = "jaguar sport spike calm grief wild laugh cloud domain portion obey erode";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly canoe nation robust boring topic identify hover check replace pigeon prevent";
+var mnemonic = "render cart letter border fork mistake invite orange bronze glass curtain cake";

@@ -1,1 +1,1 @@
-var mnemonic = "rather sadness mystery depart swallow opinion artefact tortoise demand upper cruise pave";
+var mnemonic = "gesture siren stool fragile cruel strategy meadow remind renew tent spare dice";

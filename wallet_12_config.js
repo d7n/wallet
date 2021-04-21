@@ -1,1 +1,1 @@
-var mnemonic = "image lava below title goat demand ski asset video dream cause wink";
+var mnemonic = "october option night jealous print ceiling bread phone item head fee chat";

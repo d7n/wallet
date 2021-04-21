@@ -1,1 +1,1 @@
-var mnemonic = "citizen wheat express embark loan east scan room ticket sting agree because";
+var mnemonic = "actor unhappy trouble decide baby lobster tide knee art grab husband art";

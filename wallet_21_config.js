@@ -1,1 +1,1 @@
-var mnemonic = "list initial original limit wave embody stamp stool polar tag plastic polar";
+var mnemonic = "person cook cake slender marble tooth worth segment oppose print drift disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "swift dash seat basket bomb retreat oxygen cattle wasp viable raw lady";
+var mnemonic = "buzz purchase camp scheme strategy venue define fossil teach coconut since slide";

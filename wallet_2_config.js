@@ -1,1 +1,1 @@
-var mnemonic = "acoustic mask funny clarify pepper enter bicycle best feature treat junior fringe";
+var mnemonic = "dilemma thought photo digital buyer dismiss arch trend inner gorilla budget twist";

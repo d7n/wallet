@@ -1,1 +1,1 @@
-var mnemonic = "session excess cradle jeans midnight clerk goat version normal spoon whale only";
+var mnemonic = "into evoke effort exercise tool require cherry submit shoulder quantum result pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "level job song remind charge liar fall praise response crush remain relax";
+var mnemonic = "apart maple robot design sun pause vintage capital dragon expand enact silent";

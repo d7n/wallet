@@ -1,1 +1,1 @@
-var mnemonic = "maze surface evolve insane ice maximum outdoor eye nice atom belt material";
+var mnemonic = "there region velvet language give judge fossil buyer kangaroo together market tent";

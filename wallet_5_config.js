@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow exclude disorder dignity plug daughter cigar shine female quality stable eyebrow";
+var mnemonic = "cup sleep mosquito tray acid machine ostrich proud divide fog match ghost";

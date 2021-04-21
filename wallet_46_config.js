@@ -1,1 +1,1 @@
-var mnemonic = "canal save zone bean clinic slot system canvas artefact fall quiz screen";
+var mnemonic = "suffer client shield collect invest ceiling abuse hurry picnic weather swift used";

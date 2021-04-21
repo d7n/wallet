@@ -1,1 +1,1 @@
-var mnemonic = "horn name replace nice change art drill pond mule pause that what";
+var mnemonic = "artwork alarm prevent address narrow garage length critic devote ability early confirm";

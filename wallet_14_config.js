@@ -1,1 +1,1 @@
-var mnemonic = "owner wrist alert blush pyramid hire sample seat special unique there prefer";
+var mnemonic = "trip owner fork snake cram merge agree business deer cool cement gold";

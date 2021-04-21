@@ -1,1 +1,1 @@
-var mnemonic = "ramp blood emerge cover calm decrease produce runway camp join burst champion";
+var mnemonic = "spy into trial table flight embody song provide warfare gather need slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket wood indoor banana great fiction render income run invest already shield";
+var mnemonic = "expose verify romance reopen spirit pen either neutral husband episode vessel lobster";

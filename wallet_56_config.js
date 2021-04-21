@@ -1,1 +1,1 @@
-var mnemonic = "general invest town spy guide gap tattoo remain myself nurse fringe crush";
+var mnemonic = "improve urban observe top silk mixture gown give hen power property balance";

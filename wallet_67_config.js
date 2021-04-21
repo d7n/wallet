@@ -1,1 +1,1 @@
-var mnemonic = "jazz head summer coconut tide slight slice visit weather limb brass drip";
+var mnemonic = "oval nice current where cat royal opera spray book vessel shrug nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth perfect magic swallow pause citizen argue helmet tobacco question buzz group";
+var mnemonic = "chicken spider zebra rival buddy crucial feature upgrade flavor coconut stem isolate";

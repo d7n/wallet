@@ -1,1 +1,1 @@
-var mnemonic = "absurd sword nose object left attitude snake honey jewel pear insane extra";
+var mnemonic = "venue cycle together wolf slot fan hole fine sudden light endless nest";

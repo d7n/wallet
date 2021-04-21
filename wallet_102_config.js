@@ -1,1 +1,1 @@
-var mnemonic = "thunder crane belt heart because image razor battle smile public meat shallow";
+var mnemonic = "earth leader toast student blue bulk simple equip route kind release burst";

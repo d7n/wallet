@@ -1,1 +1,1 @@
-var mnemonic = "child square south main eye exotic kitten jaguar sell tongue tortoise that";
+var mnemonic = "enforce staff lesson fat believe race valley lecture couple tag goddess film";

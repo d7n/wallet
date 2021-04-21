@@ -1,1 +1,1 @@
-var mnemonic = "jar expire push region mixed audit afford seminar annual design sight parent";
+var mnemonic = "volcano vacuum document mechanic manage initial sketch phrase join cat dune high";

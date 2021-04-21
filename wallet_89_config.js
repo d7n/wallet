@@ -1,1 +1,1 @@
-var mnemonic = "tunnel else pull guide once ill radio portion glue giant manual size";
+var mnemonic = "enable message struggle arrow nuclear movie super off engage flee cross wasp";

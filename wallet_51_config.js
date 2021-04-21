@@ -1,1 +1,1 @@
-var mnemonic = "screen indicate little misery card mixture foam fluid afford gate palm almost";
+var mnemonic = "electric position drop bread vivid link more attract poem moral utility century";

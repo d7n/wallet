@@ -1,1 +1,1 @@
-var mnemonic = "holiday medal main venture patrol protect olive assault waste surface talent urge";
+var mnemonic = "either deliver silly absent double exhibit dog hen fork very exile gossip";

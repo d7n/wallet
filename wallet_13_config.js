@@ -1,1 +1,1 @@
-var mnemonic = "faint parade direct royal behave eight rude attend silent supreme stem extend";
+var mnemonic = "swear sea bulk distance coral kite rookie dwarf core double bone damp";

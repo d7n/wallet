@@ -1,1 +1,1 @@
-var mnemonic = "since extra once urge tragic arrange ask course wrist orchard spread wall";
+var mnemonic = "shed sure flower beef cube kitten where excite cancel sight door race";

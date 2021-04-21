@@ -1,1 +1,1 @@
-var mnemonic = "tide speak minimum essay fire task erupt tuna evoke frog busy clock";
+var mnemonic = "recall perfect horn harvest comic large rigid worry rally caught ramp stereo";

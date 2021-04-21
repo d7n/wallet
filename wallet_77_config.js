@@ -1,1 +1,1 @@
-var mnemonic = "then wage advice settle high tonight worry pencil celery angle amazing exercise";
+var mnemonic = "pony virtual spin super primary puppy broccoli limb budget velvet device hen";

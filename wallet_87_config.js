@@ -1,1 +1,1 @@
-var mnemonic = "since hamster soldier pill square sponsor valley stem dog purpose tilt water";
+var mnemonic = "rebel reject meat glory embark enrich security shuffle found rebuild thumb shallow";

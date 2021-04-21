@@ -1,1 +1,1 @@
-var mnemonic = "rigid whip neglect cupboard bacon praise egg husband task inherit rose tragic";
+var mnemonic = "luggage burger ready online van glory endless library lock razor start left";

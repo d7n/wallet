@@ -1,1 +1,1 @@
-var mnemonic = "code race stairs hover suit nuclear truly olympic electric ostrich write educate";
+var mnemonic = "glare ripple pink nerve room cradle timber isolate warrior acquire feel hotel";

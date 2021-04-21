@@ -1,1 +1,1 @@
-var mnemonic = "pledge disagree smoke meadow alter famous aim trumpet struggle trial addict lecture";
+var mnemonic = "elevator today aware finger language offer shoot adapt belt husband cheese smooth";

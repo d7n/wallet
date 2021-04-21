@@ -1,1 +1,1 @@
-var mnemonic = "carbon learn wish dirt guess side maximum hire volume alert alley liberty";
+var mnemonic = "meadow crunch stem enemy thumb top sausage news winner guide fresh immune";

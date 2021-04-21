@@ -1,1 +1,1 @@
-var mnemonic = "gate donor element nurse reduce indicate antique happy pledge pool unit brief";
+var mnemonic = "net bread soldier begin supreme paper negative absent learn better upper hazard";

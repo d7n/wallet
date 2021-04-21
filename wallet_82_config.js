@@ -1,1 +1,1 @@
-var mnemonic = "wheat aunt chest isolate neck puzzle image fit copy final distance hedgehog";
+var mnemonic = "cherry pride version suggest fiscal iron slide decide relief supreme depth engage";

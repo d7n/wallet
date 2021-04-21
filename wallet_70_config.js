@@ -1,1 +1,1 @@
-var mnemonic = "idea patch nasty raise guide tiny feel reason heart clerk call dog";
+var mnemonic = "canal bamboo board access audit option bacon flee vocal actual club advice";

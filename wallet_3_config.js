@@ -1,1 +1,1 @@
-var mnemonic = "lake kitchen chapter panda worry stable grape thunder tomato tilt cloud what";
+var mnemonic = "alpha actress furnace embark obey frozen gym loyal flip equal jar elbow";

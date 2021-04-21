@@ -1,1 +1,1 @@
-var mnemonic = "narrow illness page salad entry tool analyst bone until pyramid slow garment";
+var mnemonic = "select that proof two north equip dish buffalo match patch divorce giggle";

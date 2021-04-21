@@ -1,1 +1,1 @@
-var mnemonic = "join payment salute phone giraffe can farm life story manual rescue advice";
+var mnemonic = "brief lumber mushroom embark jewel thing globe story step busy hotel hard";

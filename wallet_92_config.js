@@ -1,1 +1,1 @@
-var mnemonic = "couple million modify fashion pave morning torch idea noise ranch paddle wait";
+var mnemonic = "main motor liberty success tell strong broom venture feed spawn remember coast";

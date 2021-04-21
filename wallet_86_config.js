@@ -1,1 +1,1 @@
-var mnemonic = "dance vivid aunt alcohol syrup nature belt flower device dragon shy key";
+var mnemonic = "will leg quiz swallow load brisk then apart tissue motion rather real";

@@ -1,1 +1,1 @@
-var mnemonic = "debris bunker supreme admit one gossip kiwi release account amazing round lobster";
+var mnemonic = "range giggle better flock lizard enhance tissue case swing genuine bless slight";

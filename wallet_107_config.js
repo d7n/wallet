@@ -1,1 +1,1 @@
-var mnemonic = "garbage cigar castle right jacket element enough evil taxi desert shrug abstract";
+var mnemonic = "valid window stereo bless neck strong lake random delay insect ask ill";

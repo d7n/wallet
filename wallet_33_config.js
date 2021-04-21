@@ -1,1 +1,1 @@
-var mnemonic = "salmon asset grant curtain limb music asset trash nothing cat kid inside";
+var mnemonic = "connect remind edit token put provide term weather crop concert high area";

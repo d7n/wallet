@@ -1,1 +1,1 @@
-var mnemonic = "capital amused poet bird apart appear power float season olympic sleep autumn";
+var mnemonic = "intact shift dish funny allow nasty enhance action vault demise sudden rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol country industry poverty quit glance victory animal tragic grid carbon bean";
+var mnemonic = "tenant spell cable fever token service miracle canal whip vivid young host";

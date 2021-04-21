@@ -1,1 +1,1 @@
-var mnemonic = "proud wall guilt myth almost dinosaur siege jaguar taxi guitar typical dwarf";
+var mnemonic = "sword rude usual torch warrior list tunnel course change victory casino cushion";

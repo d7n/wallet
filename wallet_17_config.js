@@ -1,1 +1,1 @@
-var mnemonic = "sibling sword coast junk stone asthma usual office farm arm online round";
+var mnemonic = "found rate maple spare seminar upper later swap accident tuition talk feed";

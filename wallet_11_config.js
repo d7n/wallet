@@ -1,1 +1,1 @@
-var mnemonic = "minute knee circle asset ivory awkward worry canyon mountain mom must talk";
+var mnemonic = "device gentle buffalo deposit please hurdle invest expect hour height author alert";

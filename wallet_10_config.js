@@ -1,1 +1,1 @@
-var mnemonic = "path stereo crunch thunder box relief office hello shadow frost drink rice";
+var mnemonic = "lake hill hard employ version approve health amused happy wait prefer oval";

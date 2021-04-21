@@ -1,1 +1,1 @@
-var mnemonic = "brother distance sibling describe almost place recycle nut boring drastic video immense";
+var mnemonic = "venue small runway analyst boat edit heavy sleep eyebrow review valve flash";

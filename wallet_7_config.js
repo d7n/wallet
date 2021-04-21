@@ -1,1 +1,1 @@
-var mnemonic = "tree smile latin ignore tool impose annual loud trim audit eager finish";
+var mnemonic = "proud duck orphan mass bracket economy aisle lounge benefit barely online protect";

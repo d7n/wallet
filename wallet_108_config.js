@@ -1,1 +1,1 @@
-var mnemonic = "fame roof gap firm lend shed mistake desert awake depend silk absurd";
+var mnemonic = "civil ancient master phone verb actual exit remind live gloom place forest";

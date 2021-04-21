@@ -1,1 +1,1 @@
-var mnemonic = "process average fuel tired enjoy shallow extra deliver upset nut width benefit";
+var mnemonic = "give knock try oblige give timber kick impact clown action antique fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "language puzzle little broccoli toward tag common pattern better clever ensure neither";
+var mnemonic = "allow agent flag play surge tribe harvest beach spirit just awesome tone";

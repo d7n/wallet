@@ -1,1 +1,1 @@
-var mnemonic = "negative false toilet pitch will note milk mule shine pitch someone direct";
+var mnemonic = "sorry outside mix afraid unaware meat dinner release spend hidden toy cave";

@@ -1,1 +1,1 @@
-var mnemonic = "sister cash genre fruit claw industry snake slice transfer gown live april";
+var mnemonic = "donkey giraffe mesh script thing bulb teach position lens thank elevator gift";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge provide mechanic engage option battle join calm sustain hunt mirror hen";
+var mnemonic = "gold hospital document magic private pass pole round bottom rebuild comfort laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer quote trap try sun skill mosquito silent employ kid parrot come";
+var mnemonic = "loan mystery swim rain myth age daring month unfold return similar valid";

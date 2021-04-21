@@ -1,1 +1,1 @@
-var mnemonic = "lamp inspire enemy oppose wreck example gym congress fish deposit club gentle";
+var mnemonic = "stomach hill desk coast entry rose verb sad off anxiety island shy";

@@ -1,1 +1,1 @@
-var mnemonic = "shop alarm gift execute gift shed bike hip cost gasp airport chalk";
+var mnemonic = "left swing border embark crowd good sign lunar obvious tone order rose";

@@ -1,1 +1,1 @@
-var mnemonic = "hair tourist glad awake theme panther tennis huge baby purpose panda fix";
+var mnemonic = "tide label toilet transfer harvest excite hello woman visual machine climb occur";

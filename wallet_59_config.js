@@ -1,1 +1,1 @@
-var mnemonic = "truth skate skirt window limit clutch spot action page auction cruise flash";
+var mnemonic = "beach occur scrub holiday crush eternal chuckle demand dice valve palm nephew";

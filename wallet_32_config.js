@@ -1,1 +1,1 @@
-var mnemonic = "shrimp immune whale reopen pelican maximum moment visit use fire poem spoon";
+var mnemonic = "race much cat cannon piano biology gap vintage crucial chest release kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin thing dolphin write decade morning awkward away dad decrease trophy distance";
+var mnemonic = "chalk ability empower ski good talk apology example chuckle royal solve garment";

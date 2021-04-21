@@ -1,1 +1,1 @@
-var mnemonic = "mix diet cup noble correct section habit antique notice segment myth coffee";
+var mnemonic = "margin faith dress wise festival town annual evoke fatal abuse swallow window";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork bulk cream fringe cousin ugly filter option follow zoo love barrel";
+var mnemonic = "suffer assist stand excite roast charge swim session motor slice weird valid";

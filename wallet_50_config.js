@@ -1,1 +1,1 @@
-var mnemonic = "enhance ball myself wait exhibit prepare chicken stuff pull flash avoid labor";
+var mnemonic = "carry cover rocket chair deliver spend kidney figure answer lion lumber business";

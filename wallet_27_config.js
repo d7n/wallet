@@ -1,1 +1,1 @@
-var mnemonic = "bounce mule lesson gospel soda note clog donkey bargain people flush cute";
+var mnemonic = "shoot various render toddler cruel jacket fruit travel evidence tribe alpha grow";

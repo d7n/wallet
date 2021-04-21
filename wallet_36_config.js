@@ -1,1 +1,1 @@
-var mnemonic = "oyster exit notice owner truth manual sign ability spatial security cliff during";
+var mnemonic = "client excite memory around garlic chicken urge innocent demise burden view organ";

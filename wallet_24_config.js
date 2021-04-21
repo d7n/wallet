@@ -1,1 +1,1 @@
-var mnemonic = "clown shed gloom step act police frame obscure fancy kid member kangaroo";
+var mnemonic = "language february lazy park canvas round tool announce surface surface bitter mind";

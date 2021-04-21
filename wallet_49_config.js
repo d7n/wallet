@@ -1,1 +1,1 @@
-var mnemonic = "anchor pluck range tail tenant nasty situate gate load crumble cigar owner";
+var mnemonic = "snack miracle brush cinnamon opinion slight thank gate erosion angle belt federal";

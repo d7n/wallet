@@ -1,1 +1,1 @@
-var mnemonic = "shop federal evidence dove crisp drip patch negative leader nuclear marriage sample";
+var mnemonic = "pave bid image nice dry clog engine orphan coyote vocal canyon slush";

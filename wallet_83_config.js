@@ -1,1 +1,1 @@
-var mnemonic = "husband saddle decade reward fiscal inspire garlic issue teach rose oblige kingdom";
+var mnemonic = "peasant expire rare explain have nephew orient twice future stable fever document";

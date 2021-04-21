@@ -1,1 +1,1 @@
-var mnemonic = "car girl tortoise rookie cloud stairs deny light flash mesh brass category";
+var mnemonic = "super month field magic tattoo home because clown squirrel erase negative scissors";

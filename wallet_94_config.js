@@ -1,1 +1,1 @@
-var mnemonic = "thought million spot resist diary artwork lemon verify east crowd symptom upset";
+var mnemonic = "round weird few enjoy prepare define dice club zone balance blue safe";

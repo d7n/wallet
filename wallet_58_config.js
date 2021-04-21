@@ -1,1 +1,1 @@
-var mnemonic = "funny artefact scale cement omit tornado author head chase seminar dream bullet";
+var mnemonic = "wash cancel category much odor wife banana learn real laugh struggle trophy";

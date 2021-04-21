@@ -1,1 +1,1 @@
-var mnemonic = "fury theme wood weapon split debris forget rule carry must target twist";
+var mnemonic = "intact again spare grit poverty leader bunker lizard heavy picture logic deliver";

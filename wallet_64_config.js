@@ -1,1 +1,1 @@
-var mnemonic = "utility search smooth guess can strong glimpse craft such divert identify sand";
+var mnemonic = "devote hotel shop grocery exhibit goddess insect glow crawl regret toss peasant";

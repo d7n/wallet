@@ -1,1 +1,1 @@
-var mnemonic = "divorce debris coyote pear agent hope present summer legal fine need chaos";
+var mnemonic = "segment output seed sting normal uniform rocket illness major double idea nasty";

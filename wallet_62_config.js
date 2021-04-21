@@ -1,1 +1,1 @@
-var mnemonic = "liar fabric female outdoor gesture surface grocery cancel private gas jewel kit";
+var mnemonic = "verb congress sing flash glance salt lawsuit dismiss worry plastic craft kitchen";

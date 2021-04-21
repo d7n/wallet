@@ -1,1 +1,1 @@
-var mnemonic = "rate dismiss wheat captain exhaust system over void abuse crumble eternal divide";
+var mnemonic = "kind cabbage squirrel inspire shrimp huge pyramid shoulder tool grunt patch panther";

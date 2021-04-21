@@ -1,1 +1,1 @@
-var mnemonic = "suspect series news barrel oxygen rebel leader cupboard tissue asset battle cricket";
+var mnemonic = "yard table mask crunch rib race bounce fortune goose crack example invite";

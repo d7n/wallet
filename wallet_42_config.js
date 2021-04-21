@@ -1,1 +1,1 @@
-var mnemonic = "popular peace fine clerk stand hello topple exhibit destroy ensure dirt garment";
+var mnemonic = "enact two draw tilt assist film exit slender clip drive next cherry";

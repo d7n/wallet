@@ -1,1 +1,1 @@
-var mnemonic = "chronic green april despair creek flock vessel wage lady marble daring leaf";
+var mnemonic = "hidden impose stock excite seek salon image have rate unfold check enter";

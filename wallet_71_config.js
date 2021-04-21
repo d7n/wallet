@@ -1,1 +1,1 @@
-var mnemonic = "grunt physical curious tunnel canvas fetch cement rhythm jelly report suggest then";
+var mnemonic = "shed cute cover lonely genre narrow upgrade portion zero upon update matrix";

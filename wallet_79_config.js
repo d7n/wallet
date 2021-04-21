@@ -1,1 +1,1 @@
-var mnemonic = "level face woman obey combine thought armed slam regular mosquito shy nuclear";
+var mnemonic = "sword layer trash oak fetch stomach skill recycle lizard anchor prevent movie";
