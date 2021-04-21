@@ -1,1 +1,1 @@
-var mnemonic = "spy rule organ armor picture surface toward shadow local ignore gallery case";
+var mnemonic = "humble second own oak bounce farm hedgehog truck quality jelly eyebrow pig";

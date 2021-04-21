@@ -1,1 +1,1 @@
-var mnemonic = "trouble invite amateur vapor title team better achieve final ritual drip eye";
+var mnemonic = "runway please prefer dizzy loan flame public violin near profit force boil";

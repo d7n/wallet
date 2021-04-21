@@ -1,1 +1,1 @@
-var mnemonic = "maple ecology velvet knife law wide bitter eagle cement result gain ghost";
+var mnemonic = "express access pluck leader movie shallow deposit divorce absurd put very stock";

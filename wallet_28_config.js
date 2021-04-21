@@ -1,1 +1,1 @@
-var mnemonic = "jazz safe elevator tourist jewel coin pact round theory south seat reward";
+var mnemonic = "resist pool symbol sustain praise ahead appear hole cup original plate elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake tiger know crystal thumb coconut apart fortune boost else uncover merge";
+var mnemonic = "hedgehog essay embark elevator lottery style more drill napkin surround slogan nothing";

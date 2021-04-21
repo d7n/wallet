@@ -1,1 +1,1 @@
-var mnemonic = "grass trend bread kid pool bottom cattle spend blanket balance shine promote";
+var mnemonic = "lunar hospital attack sell suit brother paper ship firm curve notable cruel";

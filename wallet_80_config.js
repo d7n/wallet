@@ -1,1 +1,1 @@
-var mnemonic = "donkey reopen scene ring sting stay coral evoke oblige blade coconut wrong";
+var mnemonic = "drop dragon chest client mirror media fatal dawn layer paper hurry average";

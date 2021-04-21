@@ -1,1 +1,1 @@
-var mnemonic = "absent private water ecology derive address choose squeeze supply park degree vessel";
+var mnemonic = "hobby rent benefit various evoke need note allow answer body slogan diamond";

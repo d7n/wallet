@@ -1,1 +1,1 @@
-var mnemonic = "drift bachelor slogan purity add exclude winner shoulder siege loyal silver race";
+var mnemonic = "dinosaur hollow merry palace permit access desert regret exit recall lawsuit current";

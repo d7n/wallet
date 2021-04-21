@@ -1,1 +1,1 @@
-var mnemonic = "prepare admit unaware lake fox iron element leader during under series agent";
+var mnemonic = "hope school quantum woman hair dilemma moral elder hamster forum green web";

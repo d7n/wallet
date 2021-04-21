@@ -1,1 +1,1 @@
-var mnemonic = "mercy crowd burger magic sphere tuition kitten legend animal lazy party hunt";
+var mnemonic = "dog bag picnic shiver check immense race lens have fiber skill lab";

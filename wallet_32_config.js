@@ -1,1 +1,1 @@
-var mnemonic = "double caution perfect immune sketch wolf erosion ribbon nation smart segment flight";
+var mnemonic = "else crowd rich urge repeat ramp robot veteran remain horn sting target";

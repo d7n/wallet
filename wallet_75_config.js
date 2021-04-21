@@ -1,1 +1,1 @@
-var mnemonic = "fan air wet control perfect top result account favorite repair plug ship";
+var mnemonic = "west pave maze stock year access prepare dice loop danger right coin";

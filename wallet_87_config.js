@@ -1,1 +1,1 @@
-var mnemonic = "fringe teach save december offer jump blood song kangaroo change cheap motion";
+var mnemonic = "series script struggle life crumble capable apple artist smile book effort device";

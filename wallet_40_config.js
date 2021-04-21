@@ -1,1 +1,1 @@
-var mnemonic = "possible quality rabbit clump damp silk mushroom episode good rifle excess bamboo";
+var mnemonic = "loud group grant trigger kit skull clarify lady chalk aunt rent cute";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty veteran cherry divert avoid length field keen tuition mountain provide erode";
+var mnemonic = "galaxy lava duty man love stadium twelve scan skull satisfy gospel hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain satoshi angry prize ankle income jealous clutch brick shrimp dragon then";
+var mnemonic = "local awkward admit violin oblige switch space near upset unit diet want";

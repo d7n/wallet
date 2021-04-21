@@ -1,1 +1,1 @@
-var mnemonic = "puzzle edit bachelor athlete spoon leg peanut scatter outer quantum field tobacco";
+var mnemonic = "stool gold simple hint protect talk true minimum discover kitten jacket lyrics";

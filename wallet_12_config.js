@@ -1,1 +1,1 @@
-var mnemonic = "run coffee machine kit embody crane hybrid wolf average tray language mean";
+var mnemonic = "turn join correct frozen civil strategy limit patient auction fan truck ahead";

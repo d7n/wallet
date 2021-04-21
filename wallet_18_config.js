@@ -1,1 +1,1 @@
-var mnemonic = "refuse add wall struggle travel trim inside lobster dial track ensure impulse";
+var mnemonic = "oyster issue sail slow excite flush detect outdoor recycle suggest series people";

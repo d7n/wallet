@@ -1,1 +1,1 @@
-var mnemonic = "random ocean bounce morning kitten morning measure social pyramid aim rich solid";
+var mnemonic = "range monitor island code twelve vendor emotion six transfer someone decorate ankle";

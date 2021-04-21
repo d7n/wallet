@@ -1,1 +1,1 @@
-var mnemonic = "game lunch hunt tent tooth sight dilemma physical amazing side movie iron";
+var mnemonic = "float nut elite affair small crawl resource peace topic wink crowd bullet";

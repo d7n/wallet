@@ -1,1 +1,1 @@
-var mnemonic = "awful drop best boost post enact ketchup office grant vendor drama position";
+var mnemonic = "firm merge rotate offer labor layer patch divert print young sick domain";

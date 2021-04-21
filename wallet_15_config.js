@@ -1,1 +1,1 @@
-var mnemonic = "fire lamp blood erode move sleep boost million diet gallery renew trial";
+var mnemonic = "warrior reduce movie sound palm lab special concert cinnamon size sing because";

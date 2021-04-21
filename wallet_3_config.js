@@ -1,1 +1,1 @@
-var mnemonic = "lend edge inherit consider animal dust shadow path anxiety casino fortune scan";
+var mnemonic = "fresh apology shuffle ugly vehicle key pilot fatal vintage update inform chair";

@@ -1,1 +1,1 @@
-var mnemonic = "minor human betray they join inquiry clutch mutual author spray pretty rent";
+var mnemonic = "outdoor next tell wedding often voyage rude stereo letter summer trade tired";

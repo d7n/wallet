@@ -1,1 +1,1 @@
-var mnemonic = "soap advice census frozen gain report ivory rotate play broom follow foil";
+var mnemonic = "radar mango double hybrid asthma put iron stumble idea rhythm cry public";

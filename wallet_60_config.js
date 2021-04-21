@@ -1,1 +1,1 @@
-var mnemonic = "service sketch shrimp hamster flock surface life course require potato lobster give";
+var mnemonic = "focus canoe great woman truck calm subject portion noise drip donate creek";

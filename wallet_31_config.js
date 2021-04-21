@@ -1,1 +1,1 @@
-var mnemonic = "elevator eyebrow atom uncle marriage style spray current trouble mail client fetch";
+var mnemonic = "pear pond sight doll tennis wall pelican arctic wedding sad entire fly";

@@ -1,1 +1,1 @@
-var mnemonic = "hole oval cost session rival cluster crawl author round private manual ocean";
+var mnemonic = "salt sugar staff leaf system carry screen output agree student joke tuition";

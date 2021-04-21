@@ -1,1 +1,1 @@
-var mnemonic = "collect gap bunker fox bind media frown trash educate embody short snake";
+var mnemonic = "tag small mad undo jump duty layer eight purchase crop happy raw";

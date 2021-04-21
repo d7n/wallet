@@ -1,1 +1,1 @@
-var mnemonic = "amazing flight metal nuclear current royal salute inject moment bicycle way else";
+var mnemonic = "test penalty bulb patient home silk elbow grow liar install topic faint";

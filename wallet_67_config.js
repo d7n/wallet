@@ -1,1 +1,1 @@
-var mnemonic = "net busy clinic census pride capable card give glove crazy mixed tennis";
+var mnemonic = "range giraffe merge garden coach carry drift antique cage blossom dance amount";

@@ -1,1 +1,1 @@
-var mnemonic = "test window road throw ladder town first fortune region genre spider city";
+var mnemonic = "brave high pitch day used aim display glow bridge also panic obtain";

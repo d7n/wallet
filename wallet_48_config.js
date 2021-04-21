@@ -1,1 +1,1 @@
-var mnemonic = "flush valley various decline stamp oppose net danger spirit alter pretty usage";
+var mnemonic = "bomb stuff idea ship ready cheap connect twice tunnel glide oven plug";

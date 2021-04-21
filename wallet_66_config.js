@@ -1,1 +1,1 @@
-var mnemonic = "calm couch north pink hen program notice mean bitter when twin resource";
+var mnemonic = "thought force vital envelope sniff cute floor junk motor acid walk only";

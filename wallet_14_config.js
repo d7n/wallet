@@ -1,1 +1,1 @@
-var mnemonic = "stairs crash able family kind tuition casual peace miss bubble soccer pig";
+var mnemonic = "elephant tray captain sleep bargain grass estate mammal pumpkin arena genuine claw";

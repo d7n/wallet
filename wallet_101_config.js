@@ -1,1 +1,1 @@
-var mnemonic = "wreck rare kick flame album sting fringe clerk practice fabric gap session";
+var mnemonic = "blossom term anger thrive company kingdom notice auto income gun panda control";

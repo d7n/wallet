@@ -1,1 +1,1 @@
-var mnemonic = "gather jelly edit toss coast gorilla frog awesome rural group must poet";
+var mnemonic = "diamond copper client raw heavy original purchase token skull glove lemon jazz";

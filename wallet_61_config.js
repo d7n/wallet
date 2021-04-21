@@ -1,1 +1,1 @@
-var mnemonic = "outside kiss cousin bridge attitude cram run never cousin chef include promote";
+var mnemonic = "fantasy depth because level program sibling seed crew suggest program tip polar";

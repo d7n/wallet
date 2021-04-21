@@ -1,1 +1,1 @@
-var mnemonic = "pause account quote favorite furnace hungry pupil clap giggle crisp cook clock";
+var mnemonic = "chase swift apple convince transfer win tray sure marriage amount spike use";

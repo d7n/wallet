@@ -1,1 +1,1 @@
-var mnemonic = "punch cotton erode input spray ordinary tuna duty museum fat monkey rain";
+var mnemonic = "feed drink problem address okay cotton person toddler slogan agent math amount";

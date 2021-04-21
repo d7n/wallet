@@ -1,1 +1,1 @@
-var mnemonic = "hurry turkey cage club state detect save usual paper exchange artefact toast";
+var mnemonic = "six actual wise evil blast mask render group obscure icon exotic empower";

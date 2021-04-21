@@ -1,1 +1,1 @@
-var mnemonic = "hole copy lumber kingdom shop print chest fox coffee punch crucial still";
+var mnemonic = "tiger speak dutch off tent defense slogan drive unhappy actual oppose corn";

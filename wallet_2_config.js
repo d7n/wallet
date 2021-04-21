@@ -1,1 +1,1 @@
-var mnemonic = "empty exchange excess bamboo sad require theory hint estate test solid above";
+var mnemonic = "evidence diamond dance faint opinion actress crack thing chase cancel mandate champion";

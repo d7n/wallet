@@ -1,1 +1,1 @@
-var mnemonic = "maid cloth lyrics main elephant panther loyal degree ball hill zone run";
+var mnemonic = "keep amused reopen world soul target primary heart kidney check notice success";

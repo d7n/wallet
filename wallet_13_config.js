@@ -1,1 +1,1 @@
-var mnemonic = "swift merge develop screen outside release option method setup question find panic";
+var mnemonic = "mean sibling lawn easily body fork garment blood general nut heavy veteran";

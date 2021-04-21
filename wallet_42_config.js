@@ -1,1 +1,1 @@
-var mnemonic = "often very bring orbit chronic fabric coil sketch either slam tunnel punch";
+var mnemonic = "adjust promote talk daughter lumber robust wise voyage base hospital wide lady";

@@ -1,1 +1,1 @@
-var mnemonic = "brain laptop melt eyebrow alarm cause repair price august wide bulk kiss";
+var mnemonic = "mango fringe cliff image gallery camera better hole pink total add gossip";

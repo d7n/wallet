@@ -1,1 +1,1 @@
-var mnemonic = "oval initial midnight tag embody proof romance web food slice barrel cluster";
+var mnemonic = "expect recall eternal agent since lady gossip concert flock twin vendor topple";

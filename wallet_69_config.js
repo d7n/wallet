@@ -1,1 +1,1 @@
-var mnemonic = "fine unlock gossip prison crazy control rescue reduce armed ignore ribbon runway";
+var mnemonic = "jewel myself double rocket frost tube rabbit typical muffin keen parrot supreme";

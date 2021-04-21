@@ -1,1 +1,1 @@
-var mnemonic = "stairs hurdle alone clarify across clean zone festival gift practice body cement";
+var mnemonic = "dwarf still apology man slow cute hammer hollow media spot pulp upper";

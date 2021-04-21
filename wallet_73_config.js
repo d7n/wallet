@@ -1,1 +1,1 @@
-var mnemonic = "repeat sleep boring sleep ghost puzzle card intact invite shine fossil then";
+var mnemonic = "blood stage ski curtain asset pelican hobby sand invite churn jelly benefit";

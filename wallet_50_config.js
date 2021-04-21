@@ -1,1 +1,1 @@
-var mnemonic = "much family document basic grief glide cook polar athlete bomb cause economy";
+var mnemonic = "dirt culture wall sort shoot motor paper caught armed tornado boat wish";

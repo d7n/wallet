@@ -1,1 +1,1 @@
-var mnemonic = "lab mistake scissors select life glass pluck mirror citizen silly shuffle organ";
+var mnemonic = "aim firm current blood work knock horse resist shift topple reflect sad";

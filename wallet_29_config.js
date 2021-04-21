@@ -1,1 +1,1 @@
-var mnemonic = "poverty race night page prison crop message depend lock away aspect flush";
+var mnemonic = "ghost adapt ribbon spy frog rib problem ancient peace force door light";

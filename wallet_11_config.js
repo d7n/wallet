@@ -1,1 +1,1 @@
-var mnemonic = "mansion biology invite debate shell shove dragon typical document broken loyal know";
+var mnemonic = "execute blame loyal horror attack flee fortune endorse machine fringe text hair";

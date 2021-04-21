@@ -1,1 +1,1 @@
-var mnemonic = "brother drop trend young across wait vivid marine soul subject ethics motion";
+var mnemonic = "rely flame today engine ill neck slam short enter west merry senior";

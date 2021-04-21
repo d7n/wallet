@@ -1,1 +1,1 @@
-var mnemonic = "soap hard sustain purpose urban gesture popular wrap mystery damp spoil moment";
+var mnemonic = "despair veteran toe satisfy where decrease sample vague often nominee time stamp";

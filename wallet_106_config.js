@@ -1,1 +1,1 @@
-var mnemonic = "dolphin spatial suit quantum animal pilot hope cannon width resource shy help";
+var mnemonic = "chapter local zoo stadium perfect fortune answer barrel input unfair rally isolate";

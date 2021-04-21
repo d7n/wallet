@@ -1,1 +1,1 @@
-var mnemonic = "suggest ice lend identify give claw family display broom inch wise belt";
+var mnemonic = "pair bone car banner symbol forward roof myself stage idea imitate pond";

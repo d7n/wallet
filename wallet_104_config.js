@@ -1,1 +1,1 @@
-var mnemonic = "access pair intact toe kick empower sure borrow what six badge doll";
+var mnemonic = "office speed ribbon patient tortoise notable box ribbon eager audit weasel dynamic";

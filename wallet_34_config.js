@@ -1,1 +1,1 @@
-var mnemonic = "firm blind elder budget sample surprise artefact avocado net matrix fabric category";
+var mnemonic = "opera quick balcony nation wink glad gift eagle cinnamon machine strike lunar";

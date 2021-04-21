@@ -1,1 +1,1 @@
-var mnemonic = "use muffin outdoor burden hero oppose slow conduct panel giant demand analyst";
+var mnemonic = "curve sail tilt burger culture history upper panda achieve build happy empty";

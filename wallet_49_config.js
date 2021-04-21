@@ -1,1 +1,1 @@
-var mnemonic = "such finish erosion duty bomb cycle invite equal robust unaware gallery happy";
+var mnemonic = "reveal leisure twist sentence extra upgrade pencil trade pet endless roof curve";

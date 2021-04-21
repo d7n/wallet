@@ -1,1 +1,1 @@
-var mnemonic = "process potato issue debris sunny raw black fancy seek fun autumn orient";
+var mnemonic = "lion kind hire claw enact clip helmet wedding much razor cross song";

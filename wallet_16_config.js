@@ -1,1 +1,1 @@
-var mnemonic = "resource anchor drip ski enhance battle usage pass tell true roof labor";
+var mnemonic = "wait risk update rebel near cat exist orbit dose animal aware elder";

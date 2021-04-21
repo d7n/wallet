@@ -1,1 +1,1 @@
-var mnemonic = "exotic quarter machine silk time swim sail stove panel snake minute jeans";
+var mnemonic = "air salmon screen patient learn cannon produce august leader very pencil jacket";

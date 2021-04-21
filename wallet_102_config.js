@@ -1,1 +1,1 @@
-var mnemonic = "poet relief salt jaguar talk inmate divert hungry digital strike tank apology";
+var mnemonic = "critic liar kitchen muffin remember plunge before pudding ramp embrace pulse rebel";

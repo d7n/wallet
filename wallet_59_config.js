@@ -1,1 +1,1 @@
-var mnemonic = "pizza stool fashion vessel coyote meadow win blame edit glow salute weasel";
+var mnemonic = "off bulk sheriff office shed toward west hub buffalo mammal nominee peasant";

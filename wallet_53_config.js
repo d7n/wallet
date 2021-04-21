@@ -1,1 +1,1 @@
-var mnemonic = "milk amount oblige hidden math unaware length point fury local dumb salon";
+var mnemonic = "review patch orient merge high occur gate possible bitter raise only tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost liar define wheel tell pattern hungry blue cousin belt remind agent";
+var mnemonic = "fury perfect enrich slender debris lion curtain melt craft frequent comic once";

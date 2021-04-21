@@ -1,1 +1,1 @@
-var mnemonic = "weapon affair purpose marriage message rebel foster where razor crumble crack foil";
+var mnemonic = "other issue brown solution upon cereal burst dog pigeon hollow series measure";

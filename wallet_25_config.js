@@ -1,1 +1,1 @@
-var mnemonic = "idea resource doll weather noise traffic monkey put dynamic fix little ridge";
+var mnemonic = "protect project diagram beyond remember oblige muffin crash network twin scissors fork";

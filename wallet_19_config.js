@@ -1,1 +1,1 @@
-var mnemonic = "opinion desert carbon pigeon horror orient great exchange attack tell forget taste";
+var mnemonic = "fuel begin churn amused success curtain exercise lab rain success spy drive";

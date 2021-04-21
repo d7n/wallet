@@ -1,1 +1,1 @@
-var mnemonic = "lemon finger example thrive infant marriage earn venue immune jacket pen indoor";
+var mnemonic = "olive impulse stove trip daring bubble wall donate about hundred gun jump";

@@ -1,1 +1,1 @@
-var mnemonic = "icon since enact stereo document boil future various cat real announce mule";
+var mnemonic = "mosquito bar word coin bird mandate fiber saddle source thunder hawk industry";

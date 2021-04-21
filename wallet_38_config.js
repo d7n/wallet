@@ -1,1 +1,1 @@
-var mnemonic = "bridge coast foster page scorpion marine shuffle naive kingdom ask grant trouble";
+var mnemonic = "field pilot pair sunset icon daughter there example order stove glue panic";

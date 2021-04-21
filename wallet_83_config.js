@@ -1,1 +1,1 @@
-var mnemonic = "fragile draw execute apple reveal absorb gesture weekend lesson health task wheat";
+var mnemonic = "large floor among where hello unlock become fashion describe fiber kangaroo town";

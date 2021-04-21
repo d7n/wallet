@@ -1,1 +1,1 @@
-var mnemonic = "wear stomach joke favorite envelope fragile arrow air symbol noise liberty fuel";
+var mnemonic = "clock safe mass near ankle mirror cat lock speed stick brown glory";

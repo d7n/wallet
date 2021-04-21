@@ -1,1 +1,1 @@
-var mnemonic = "decorate develop medal mountain road chuckle perfect purchase recall math gown anchor";
+var mnemonic = "between almost response soap broom practice useful range sausage consider crop intact";

@@ -1,1 +1,1 @@
-var mnemonic = "energy key illegal only enough mountain camp hub sick march badge warm";
+var mnemonic = "grab comic opinion federal glimpse comfort stove choose kind private legal curve";

@@ -1,1 +1,1 @@
-var mnemonic = "brief escape another isolate smoke route pact whisper vehicle bread dilemma above";
+var mnemonic = "media dove romance issue must crush become process crash divert endless theme";

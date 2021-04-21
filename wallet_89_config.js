@@ -1,1 +1,1 @@
-var mnemonic = "jump clean water trap crop ozone amazing effort glad bleak hover chat";
+var mnemonic = "teach bean giant twin physical shed benefit parent prosper winner grab term";
