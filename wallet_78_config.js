@@ -1,1 +1,1 @@
-var mnemonic = "because turtle tell ask asthma curve work clap lens antique knife melt";
+var mnemonic = "wrong glory pass point market file guard tooth cancel pilot boy device";

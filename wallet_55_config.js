@@ -1,1 +1,1 @@
-var mnemonic = "finger august engage brave fatigue sister spell improve match welcome run slot";
+var mnemonic = "dragon toss inhale oppose install room hire feed brush crazy loan ready";

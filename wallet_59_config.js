@@ -1,1 +1,1 @@
-var mnemonic = "rebel between history arch proud vendor rocket latin pencil rookie ghost renew";
+var mnemonic = "nurse step critic dutch timber whale again spoil gossip cabin thunder glad";

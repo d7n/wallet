@@ -1,1 +1,1 @@
-var mnemonic = "glory melody connect wild salon lyrics ladder mention welcome alcohol fine step";
+var mnemonic = "eagle wolf coach walk dad among wife drink silk camera skirt ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "motor chicken athlete tobacco hurdle stand toy demand wild parade source lion";
+var mnemonic = "claim wonder coconut quiz party damp oil eagle hammer visit spend oval";

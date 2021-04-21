@@ -1,1 +1,1 @@
-var mnemonic = "draft husband dynamic else fossil twice control gold dignity width machine room";
+var mnemonic = "wrestle pool random ice address foil giggle injury expire key nation pair";

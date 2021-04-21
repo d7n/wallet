@@ -1,1 +1,1 @@
-var mnemonic = "pluck safe alone ostrich naive shove farm all lock feel around shadow";
+var mnemonic = "stumble rule aunt donor rib feature vintage door remind hospital circle else";

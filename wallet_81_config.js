@@ -1,1 +1,1 @@
-var mnemonic = "fold manual night relief salon drastic agree alert head ski nut define";
+var mnemonic = "master method suit trend settle egg arrange twelve tip attitude sting expand";

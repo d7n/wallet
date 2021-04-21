@@ -1,1 +1,1 @@
-var mnemonic = "employ word vessel gasp toward twenty spike patient general glimpse okay frozen";
+var mnemonic = "sick gun era ordinary frog coffee action year various possible inner echo";

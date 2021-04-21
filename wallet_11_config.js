@@ -1,1 +1,1 @@
-var mnemonic = "sphere solution since february crazy use market best accuse steel glare company";
+var mnemonic = "fork pitch pudding direct cattle envelope matrix iron pudding alley security eager";

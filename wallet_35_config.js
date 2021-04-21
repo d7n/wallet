@@ -1,1 +1,1 @@
-var mnemonic = "caught frown issue wash enjoy balance meadow area shiver almost ketchup palm";
+var mnemonic = "ball open muscle pair traffic hero material pepper target slab biology ladder";

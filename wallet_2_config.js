@@ -1,1 +1,1 @@
-var mnemonic = "easily net since normal write satisfy adult grow mammal holiday unlock trumpet";
+var mnemonic = "dynamic service radar motion like deal idle swallow soccer merry visit happy";

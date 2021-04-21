@@ -1,1 +1,1 @@
-var mnemonic = "ginger risk cave tent burst spin record goat display catalog miracle torch";
+var mnemonic = "topic rubber disorder jewel cruise below copy you venture puzzle chimney neck";

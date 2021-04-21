@@ -1,1 +1,1 @@
-var mnemonic = "airport collect venture draw virtual spring demise valve hobby act assist sauce";
+var mnemonic = "fortune retreat ability noodle find raise treat expect magic spawn soccer pupil";

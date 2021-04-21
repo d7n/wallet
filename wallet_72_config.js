@@ -1,1 +1,1 @@
-var mnemonic = "utility begin same prison across famous chimney glide online bounce renew cream";
+var mnemonic = "letter magnet perfect crunch broccoli doctor purse milk flush nut spring amateur";

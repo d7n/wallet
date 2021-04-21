@@ -1,1 +1,1 @@
-var mnemonic = "erode session prevent deal shop mirror field brown utility reform lawsuit enjoy";
+var mnemonic = "unfair bag goat prison idle weapon distance waste valve tobacco assume hungry";

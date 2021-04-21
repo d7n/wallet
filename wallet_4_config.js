@@ -1,1 +1,1 @@
-var mnemonic = "wet salt fun clock shine erosion divide engine renew path police legend";
+var mnemonic = "hammer anxiety tuna cream air sheriff three subject tree inform grab liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "shy liberty oak brain actress breeze sudden misery helmet follow fan youth";
+var mnemonic = "enrich clever coin afford measure divide know capable rail drink zone express";

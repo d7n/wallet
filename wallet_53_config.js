@@ -1,1 +1,1 @@
-var mnemonic = "iron idle sad vapor renew umbrella shaft nominee grace dose naive warrior";
+var mnemonic = "trust empower life galaxy select milk frequent amused dial name pottery approve";

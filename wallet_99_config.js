@@ -1,1 +1,1 @@
-var mnemonic = "provide connect exit cube lemon guilt exchange seminar private brown coil rent";
+var mnemonic = "hold example slide beyond rebel humor sunset solve toe ocean swarm taxi";

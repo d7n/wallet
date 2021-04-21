@@ -1,1 +1,1 @@
-var mnemonic = "retire win cloud fetch disease idea pitch pattern evidence brush globe logic";
+var mnemonic = "purse large clip perfect impulse public off iron trigger hundred sauce setup";

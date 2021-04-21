@@ -1,1 +1,1 @@
-var mnemonic = "obtain liberty duty wisdom evoke frost uncle rapid renew wide exclude domain";
+var mnemonic = "pass suspect shock virtual layer lawn deer escape item alcohol cousin velvet";

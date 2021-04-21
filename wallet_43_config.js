@@ -1,1 +1,1 @@
-var mnemonic = "addict ice inform video magic mother insane organ immune country diagram defy";
+var mnemonic = "enroll wagon puzzle awful vacant arrange offer prison magic foil across mammal";

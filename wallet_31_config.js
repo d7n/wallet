@@ -1,1 +1,1 @@
-var mnemonic = "bread legend sweet foster opinion stick basic guilt rude search text panther";
+var mnemonic = "join head soccer nation tired patch brief elegant usual balcony bundle potato";

@@ -1,1 +1,1 @@
-var mnemonic = "rare airport blur satoshi group paddle devote job wool drift tortoise defense";
+var mnemonic = "dust coyote renew effort romance unknown swap hover dose into sing easy";

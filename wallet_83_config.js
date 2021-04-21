@@ -1,1 +1,1 @@
-var mnemonic = "crisp unhappy quote model kiwi empower opera provide possible myth chest weasel";
+var mnemonic = "shield capital size change useful venture melody view margin candy equip appear";

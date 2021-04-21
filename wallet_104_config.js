@@ -1,1 +1,1 @@
-var mnemonic = "topple civil crisp drill snack enter chest enact harsh avoid erupt usage";
+var mnemonic = "ethics stand garbage promote web item change test curtain jar bike crumble";

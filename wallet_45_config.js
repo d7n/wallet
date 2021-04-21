@@ -1,1 +1,1 @@
-var mnemonic = "aim test duck stomach random forget wet symbol silk punch sea raccoon";
+var mnemonic = "paddle message gun fine gap polar hunt cancel network cricket document beauty";

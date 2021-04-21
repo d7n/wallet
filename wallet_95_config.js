@@ -1,1 +1,1 @@
-var mnemonic = "resource company recipe cannon shuffle torch border betray title chaos cruise symptom";
+var mnemonic = "exclude whip alarm merge flush pudding few source dizzy deny box achieve";

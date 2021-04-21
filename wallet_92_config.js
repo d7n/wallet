@@ -1,1 +1,1 @@
-var mnemonic = "teach clog purity poem feel toward cost lemon another cigar fresh hill";
+var mnemonic = "noise spoon catch sausage relief trouble father crane session have paddle fresh";

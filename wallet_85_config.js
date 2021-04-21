@@ -1,1 +1,1 @@
-var mnemonic = "again bomb current rifle squirrel hybrid just text miss face rather august";
+var mnemonic = "include beauty muffin work unfair trim similar motor neither problem slice join";

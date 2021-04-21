@@ -1,1 +1,1 @@
-var mnemonic = "permit talk laugh hero bulb wave unlock oyster luxury struggle cycle design";
+var mnemonic = "swallow sunny devote accuse bicycle hurt bleak enemy poet front material recipe";

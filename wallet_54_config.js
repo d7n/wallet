@@ -1,1 +1,1 @@
-var mnemonic = "thumb pitch shuffle inject blood gloom trip siege involve clog critic clarify";
+var mnemonic = "virtual erupt moral accuse icon velvet copper mistake remind display verify defy";

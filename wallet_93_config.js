@@ -1,1 +1,1 @@
-var mnemonic = "sister candy citizen system narrow fan jewel equip royal bridge foil unaware";
+var mnemonic = "insane spatial melody best trick myself eagle width pistol ribbon select knock";

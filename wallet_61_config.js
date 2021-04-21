@@ -1,1 +1,1 @@
-var mnemonic = "grain grief smooth leader primary pulp motion universe amount drink drastic lawn";
+var mnemonic = "salad arrow feed proof butter dish guilt between anchor clerk misery bone";

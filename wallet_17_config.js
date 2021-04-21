@@ -1,1 +1,1 @@
-var mnemonic = "cup emerge crime check this will gain option place fashion album peanut";
+var mnemonic = "margin quarter crunch volcano toy exhaust grab mushroom pyramid hole onion evolve";

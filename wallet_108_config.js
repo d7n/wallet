@@ -1,1 +1,1 @@
-var mnemonic = "throw copper phrase require plastic extra theme lawn radar evidence enroll hobby";
+var mnemonic = "distance rigid circle spider leave rigid mammal cactus shell custom joke tube";

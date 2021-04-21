@@ -1,1 +1,1 @@
-var mnemonic = "disease cluster cruise foot suggest mom small dress case casual blossom misery";
+var mnemonic = "nasty duck arctic someone accuse chair feel minimum reduce virus uncle about";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd finish fantasy wrestle sadness boat raccoon force evidence enable portion round";
+var mnemonic = "hundred bread match follow state spike pistol actress change small reveal auction";

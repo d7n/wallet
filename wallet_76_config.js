@@ -1,1 +1,1 @@
-var mnemonic = "seven reward hobby grant bicycle canal lonely stamp crack desert foot hurt";
+var mnemonic = "marriage walk index fancy monitor educate name rude surface divorce sail gesture";

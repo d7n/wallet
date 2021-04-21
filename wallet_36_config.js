@@ -1,1 +1,1 @@
-var mnemonic = "tent chunk vocal belt brand fiber tattoo spice manage slot hold excite";
+var mnemonic = "surround frost addict grant cook census satoshi rotate mushroom stomach arrest local";

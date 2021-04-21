@@ -1,1 +1,1 @@
-var mnemonic = "pass laundry regret horn stick lock swallow illegal grow dance clown unfair";
+var mnemonic = "logic duty turkey faint vocal endorse library trend innocent tackle noble lend";

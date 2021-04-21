@@ -1,1 +1,1 @@
-var mnemonic = "glide spoon novel system label cargo mutual plate melt victory resource spoon";
+var mnemonic = "give attack leisure best mercy myth dynamic chalk boy cross bomb until";

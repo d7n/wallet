@@ -1,1 +1,1 @@
-var mnemonic = "sadness settle defense curious spirit exhibit swamp afford allow horse vendor immense";
+var mnemonic = "miss swamp all exit buddy enable control rural echo keen wash faith";

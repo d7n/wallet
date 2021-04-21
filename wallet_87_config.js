@@ -1,1 +1,1 @@
-var mnemonic = "monkey metal brown clever camp leader tip toilet lunch lazy mansion goat";
+var mnemonic = "armed damage give unlock table blind green love boss chat first prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "noble turn glance avocado clerk grab film rule country latin lab casual";
+var mnemonic = "cinnamon enter hockey absorb smooth camp kid toast zero famous cannon trophy";

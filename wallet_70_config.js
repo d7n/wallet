@@ -1,1 +1,1 @@
-var mnemonic = "essay check move because mirror husband thing funny market magnet winner music";
+var mnemonic = "dumb poverty feel catch prison eye delay zone only control coyote leg";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit evolve inflict bounce humble vital retire travel buffalo alley over relief";
+var mnemonic = "mask million input welcome fashion program garlic essay army case region library";

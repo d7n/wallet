@@ -1,1 +1,1 @@
-var mnemonic = "cover inquiry theme giant stick tissue abstract below push decade immense tooth";
+var mnemonic = "taste panther aisle atom mom topple dune opera outside year plunge vast";

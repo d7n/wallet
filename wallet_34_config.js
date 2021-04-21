@@ -1,1 +1,1 @@
-var mnemonic = "mammal vicious present festival squirrel finger strike moon daughter piano proof situate";
+var mnemonic = "dentist valid oak rookie run consider whip cruel also tragic involve core";

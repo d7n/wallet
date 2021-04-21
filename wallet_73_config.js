@@ -1,1 +1,1 @@
-var mnemonic = "since million magnet friend volume worth two other pull three magic expire";
+var mnemonic = "sell blur dog neglect clean parent project confirm fatal awake vibrant sustain";

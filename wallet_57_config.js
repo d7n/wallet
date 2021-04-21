@@ -1,1 +1,1 @@
-var mnemonic = "animal extra normal umbrella time drill ready extra fresh language chair gorilla";
+var mnemonic = "account coast equal slogan tragic donate diary thank angry cruise lumber tired";

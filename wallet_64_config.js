@@ -1,1 +1,1 @@
-var mnemonic = "spoil twice science deputy space fetch trigger analyst okay juice click kit";
+var mnemonic = "liquid kite pact monitor useless ancient fire cloth slim observe more garden";

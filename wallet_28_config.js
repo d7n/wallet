@@ -1,1 +1,1 @@
-var mnemonic = "inside chat buffalo duty orphan skirt process easily squirrel gap camp fog";
+var mnemonic = "crush more lunar rely lamp mix student never video mention edit rich";

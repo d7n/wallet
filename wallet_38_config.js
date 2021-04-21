@@ -1,1 +1,1 @@
-var mnemonic = "turtle valley iron guide canyon satoshi clump around rent over beef predict";
+var mnemonic = "casino correct rack online tackle mobile pupil lake news horror sister extra";

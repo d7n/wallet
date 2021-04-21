@@ -1,1 +1,1 @@
-var mnemonic = "disease tenant smooth raise near start music attitude submit junk cable hour";
+var mnemonic = "caught ginger cinnamon carbon mosquito slow library evidence blame memory nerve celery";

@@ -1,1 +1,1 @@
-var mnemonic = "item simple copper drip raise garment try able crush link provide shaft";
+var mnemonic = "tackle galaxy payment forward visual rotate minor leader grid expect hover chat";

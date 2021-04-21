@@ -1,1 +1,1 @@
-var mnemonic = "solve acid cactus rubber dumb best swarm injury movie beauty exercise biology";
+var mnemonic = "typical guilt blanket embody floor mobile hole hip narrow crumble water near";

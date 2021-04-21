@@ -1,1 +1,1 @@
-var mnemonic = "file nasty fall robot gas cart already found desk desert try coach";
+var mnemonic = "impose expire unusual chalk inform remind onion kangaroo uniform slam snake still";

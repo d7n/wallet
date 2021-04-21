@@ -1,1 +1,1 @@
-var mnemonic = "warm hungry rival rookie begin put reform agent excite toddler rent kitten";
+var mnemonic = "shoe horn annual monkey glory gas grow gate trouble warrior endless hungry";

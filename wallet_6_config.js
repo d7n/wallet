@@ -1,1 +1,1 @@
-var mnemonic = "chest luggage bread zone runway swap gather bind panda soap where mosquito";
+var mnemonic = "virus still window become chair town dutch aware search moral duck enrich";

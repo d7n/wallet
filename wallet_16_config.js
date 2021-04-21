@@ -1,1 +1,1 @@
-var mnemonic = "sibling verify minor high floor rice unique identify toward fringe route envelope";
+var mnemonic = "spread immune there candy captain earth rapid range junior acid captain practice";

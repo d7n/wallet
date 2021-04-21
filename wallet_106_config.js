@@ -1,1 +1,1 @@
-var mnemonic = "provide weapon video salon key hope smart sting gadget wing can corn";
+var mnemonic = "elbow deer course alien clip siege dolphin butter transfer gloom vendor humble";

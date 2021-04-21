@@ -1,1 +1,1 @@
-var mnemonic = "warfare market vault useless kite around empower abuse water occur truly dress";
+var mnemonic = "mixed bar simple april deer flock club subway develop replace genre quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "before shield donkey regret predict young write case yellow dinner believe define";
+var mnemonic = "enemy drum matrix riot six soap ask buddy resist future ceiling subway";

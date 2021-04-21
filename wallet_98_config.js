@@ -1,1 +1,1 @@
-var mnemonic = "inquiry dragon style vessel room year acquire market click crowd curious gate";
+var mnemonic = "run pipe drill attend raccoon lemon custom dad human farm suffer record";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty journey hint parent resemble spawn eager like online claw agent tiger";
+var mnemonic = "fire upset elegant crisp valley tattoo business easily peanut pupil rebuild clock";

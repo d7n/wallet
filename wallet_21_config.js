@@ -1,1 +1,1 @@
-var mnemonic = "promote clarify board quarter lion bitter fatigue crouch tray plunge fuel sample";
+var mnemonic = "school vintage robust travel dentist jewel width test ladder nurse major dumb";

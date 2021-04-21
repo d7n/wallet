@@ -1,1 +1,1 @@
-var mnemonic = "shed knife tornado short angry century radio huge region fall slush angle";
+var mnemonic = "pigeon sad yellow poverty manage summer balance shy marriage wait memory round";

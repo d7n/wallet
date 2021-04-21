@@ -1,1 +1,1 @@
-var mnemonic = "swap update perfect public item vintage duck prevent mean fiction pencil letter";
+var mnemonic = "circle scatter spin lion arena denial detect black twelve able night vote";

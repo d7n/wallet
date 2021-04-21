@@ -1,1 +1,1 @@
-var mnemonic = "trophy sister audit panic admit essay pill hint impose pig catch tuna";
+var mnemonic = "farm dash soon punch attend envelope exercise divert attend gain shed thank";

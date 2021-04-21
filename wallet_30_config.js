@@ -1,1 +1,1 @@
-var mnemonic = "horse scissors reflect fit worry melt train flock pear reform collect access";
+var mnemonic = "group paddle worth because shove crumble grow song echo crunch crew when";

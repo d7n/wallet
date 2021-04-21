@@ -1,1 +1,1 @@
-var mnemonic = "grab finger valve series draft vintage convince conduct easy plate dismiss decide";
+var mnemonic = "upgrade story wagon fever absent shrimp tiger allow park huge deputy air";

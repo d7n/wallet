@@ -1,1 +1,1 @@
-var mnemonic = "coast size sketch sight ski catalog ocean wrestle wrap tissue total paddle";
+var mnemonic = "agree volcano cupboard onion they patrol april sight palace shuffle unlock bless";

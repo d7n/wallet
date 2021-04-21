@@ -1,1 +1,1 @@
-var mnemonic = "wood toddler wink brave behave business grape bike remove raw grief piano";
+var mnemonic = "boss sell rate clinic notable put summer blush only valley key lunch";

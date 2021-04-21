@@ -1,1 +1,1 @@
-var mnemonic = "sweet timber because reason viable hybrid inspire bird penalty mirror domain rule";
+var mnemonic = "choice apple habit foster false kick demand apart term burden delay announce";

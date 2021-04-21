@@ -1,1 +1,1 @@
-var mnemonic = "violin walnut master hurt mom mechanic upon mammal uncle object space apart";
+var mnemonic = "slice spend million attract embark chimney zebra flip rich album reunion valley";

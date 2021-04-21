@@ -1,1 +1,1 @@
-var mnemonic = "cupboard dove better demise upon stay reveal recipe drum reason never ordinary";
+var mnemonic = "game captain rural adjust undo eager output range good south permit soft";

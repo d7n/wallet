@@ -1,1 +1,1 @@
-var mnemonic = "blame broccoli spawn spatial lemon portion jealous tragic drive become crack mosquito";
+var mnemonic = "canoe soul permit scene tumble leopard clock cable coach over erosion layer";

@@ -1,1 +1,1 @@
-var mnemonic = "under decrease build antique hen manage kingdom tornado silver airport tank remember";
+var mnemonic = "jump search total ride beyond valley easily wolf tobacco super quit large";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse certain awkward slush ice chunk analyst other exchange clever space tell";
+var mnemonic = "city shadow afraid banana heavy night sausage purchase fossil enter fall only";

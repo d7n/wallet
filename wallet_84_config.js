@@ -1,1 +1,1 @@
-var mnemonic = "garden begin income enemy upper hero ostrich damp symptom educate blind misery";
+var mnemonic = "oppose chef total victory primary special flag jazz obscure rescue artefact stuff";
