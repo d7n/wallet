@@ -1,1 +1,1 @@
-var mnemonic = "hello artwork window grant sheriff race outer jealous luxury mango napkin lawn";
+var mnemonic = "mountain timber caught memory squirrel monkey country figure basket cage aware penalty";

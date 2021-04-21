@@ -1,1 +1,1 @@
-var mnemonic = "shaft napkin love funny poem bless song blouse ice coconut reopen mammal";
+var mnemonic = "warfare humble soda spirit bronze scatter confirm include light laptop wide tone";

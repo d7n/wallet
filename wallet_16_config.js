@@ -1,1 +1,1 @@
-var mnemonic = "save toast angle rural size apology trust path elevator ugly timber unique";
+var mnemonic = "strike army valid soul unfold swap pulp roof tent damp badge undo";

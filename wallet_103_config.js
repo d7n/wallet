@@ -1,1 +1,1 @@
-var mnemonic = "use pulp govern avoid design struggle buddy tag rifle hammer blast ten";
+var mnemonic = "thing rough govern squeeze caution diesel game help weather civil path cross";

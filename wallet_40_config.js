@@ -1,1 +1,1 @@
-var mnemonic = "clean business sudden oblige invest lesson citizen forum waste rich hurdle priority";
+var mnemonic = "quality hammer promote drip shop rescue special diesel enrich neither fall invite";

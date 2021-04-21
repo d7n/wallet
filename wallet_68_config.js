@@ -1,1 +1,1 @@
-var mnemonic = "sorry trash entire blanket also mirror bike worry quarter sick fame height";
+var mnemonic = "pistol little rigid magnet finish behave amount foster cool envelope switch spawn";

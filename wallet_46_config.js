@@ -1,1 +1,1 @@
-var mnemonic = "apart afraid tattoo vessel accuse fog steel wrist toss there advance naive";
+var mnemonic = "pink better aerobic hover hawk pretty pact coffee shuffle alley mix soccer";

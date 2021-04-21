@@ -1,1 +1,1 @@
-var mnemonic = "genre damage sunset fan debate funny explain rare volume puppy genre riot";
+var mnemonic = "peanut grunt scatter wrong ahead actual neck trophy index depth derive rotate";

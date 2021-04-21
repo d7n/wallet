@@ -1,1 +1,1 @@
-var mnemonic = "world general ceiling apology rigid rural sniff clutch talent taste orbit sugar";
+var mnemonic = "swear quiz water glory alone limit pole custom hidden secret trap permit";

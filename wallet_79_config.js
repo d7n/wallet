@@ -1,1 +1,1 @@
-var mnemonic = "amazing sibling good thank inquiry weekend unit judge scissors tell spoon again";
+var mnemonic = "reflect garbage knock shield sauce stumble deputy tribe bulb leave broken learn";

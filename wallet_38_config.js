@@ -1,1 +1,1 @@
-var mnemonic = "endless curtain height truck focus ivory course category soccer fresh laptop culture";
+var mnemonic = "sorry link aspect input punch hidden provide tape legal ranch will volcano";

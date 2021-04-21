@@ -1,1 +1,1 @@
-var mnemonic = "picnic render taxi vocal trophy police goose balance next build future avocado";
+var mnemonic = "coral quote post crucial enroll sad caught junk knee industry van latin";

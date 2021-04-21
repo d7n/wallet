@@ -1,1 +1,1 @@
-var mnemonic = "stereo bacon staff boy sentence elephant come scene inquiry sun call girl";
+var mnemonic = "thumb asthma duty promote jealous mouse suffer street mimic purchase honey excuse";

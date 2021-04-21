@@ -1,1 +1,1 @@
-var mnemonic = "police achieve mystery share exotic rule tenant magnet live rely anger member";
+var mnemonic = "turn luxury legend sing sudden omit heart scare basket open edge detail";

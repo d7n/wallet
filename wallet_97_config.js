@@ -1,1 +1,1 @@
-var mnemonic = "dice rural camera actual gravity tube nuclear oyster crowd divert parade engage";
+var mnemonic = "crowd cinnamon banner cheap earn engine april switch trust miracle boring pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle riot since industry inform lonely decorate design opera mobile water parade";
+var mnemonic = "sell kitchen inner obtain label reduce lucky slight outdoor romance genius bench";

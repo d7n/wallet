@@ -1,1 +1,1 @@
-var mnemonic = "large reform chair sing myself quarter stem math mom slide that calm";
+var mnemonic = "beauty author antique crunch change aware cheese can art crop cute life";

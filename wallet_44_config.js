@@ -1,1 +1,1 @@
-var mnemonic = "expose fitness funny danger midnight vague civil sort share garment burger mirror";
+var mnemonic = "spare wealth easily shiver hurt maximum harbor include sure diamond media bone";

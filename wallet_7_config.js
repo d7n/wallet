@@ -1,1 +1,1 @@
-var mnemonic = "drum swarm tumble shift genius whisper grunt grab able gauge actress connect";
+var mnemonic = "force cliff dish device spare humble sausage school congress forum melt primary";

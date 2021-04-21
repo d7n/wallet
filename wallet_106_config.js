@@ -1,1 +1,1 @@
-var mnemonic = "whisper piano pig scan win notable prosper bring negative motor engine opinion";
+var mnemonic = "siren seat gate soon axis patient coin palace cargo utility soon achieve";

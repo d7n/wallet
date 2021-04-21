@@ -1,1 +1,1 @@
-var mnemonic = "patch wisdom vessel cheap mercy parent taste soap ski aware swallow tenant";
+var mnemonic = "crane gesture hamster cart moral siren wet exclude bless clog tackle solid";

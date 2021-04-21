@@ -1,1 +1,1 @@
-var mnemonic = "main issue shrimp trim today parrot awful access file buddy walk lunar";
+var mnemonic = "achieve assume describe reform soul stick skin either alpha prefer define timber";

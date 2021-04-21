@@ -1,1 +1,1 @@
-var mnemonic = "hope boss camp guide retire scene stove envelope kiss quantum cheap body";
+var mnemonic = "dune cupboard year wet wood kitchen enact powder genius join banner kitchen";

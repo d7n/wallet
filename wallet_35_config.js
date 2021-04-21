@@ -1,1 +1,1 @@
-var mnemonic = "loud good duck decorate company topic farm upgrade casino suspect corn chuckle";
+var mnemonic = "gown lesson penalty sleep length online across fence crouch strategy cute alcohol";

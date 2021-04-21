@@ -1,1 +1,1 @@
-var mnemonic = "artist file vivid wild dynamic member alert wrap option topple opinion senior";
+var mnemonic = "sting hub goose cry when cinnamon order hold vapor aspect sign guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "main economy gorilla genre train term session bean dentist path carry chapter";
+var mnemonic = "float dog earth eye famous toddler bless runway patient flight mention pitch";

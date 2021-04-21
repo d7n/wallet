@@ -1,1 +1,1 @@
-var mnemonic = "grace wave topple hundred improve fence reflect viable focus galaxy rice rebel";
+var mnemonic = "head logic sad pyramid gorilla game scan tell bleak shiver promote diary";

@@ -1,1 +1,1 @@
-var mnemonic = "chest dinner rely nose embark among orient pen coffee napkin always addict";
+var mnemonic = "ability ranch inspire left panda amount rebel almost social dog someone series";

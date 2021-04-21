@@ -1,1 +1,1 @@
-var mnemonic = "radio logic they quality weather grit extend custom critic hero sing fruit";
+var mnemonic = "shed october allow frozen vacant slender battle profit mail candy ozone glass";

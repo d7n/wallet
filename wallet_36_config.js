@@ -1,1 +1,1 @@
-var mnemonic = "year dust feature little forum frequent maid remove rigid dice ridge chuckle";
+var mnemonic = "quote demise merge myth all radio toilet close leisure tail cave brand";

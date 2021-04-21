@@ -1,1 +1,1 @@
-var mnemonic = "chalk bright useful quality embrace action forward blade pact minimum stomach face";
+var mnemonic = "fork review hire noble own various assault fiction they produce mandate hamster";

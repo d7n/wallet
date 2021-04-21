@@ -1,1 +1,1 @@
-var mnemonic = "apology come reason affair knock invite drama hammer multiply tourist injury infant";
+var mnemonic = "region bonus lawn benefit first spoon walk yard rival room join mule";

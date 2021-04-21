@@ -1,1 +1,1 @@
-var mnemonic = "parrot setup appear collect barrel winter federal prevent lunch try basket hub";
+var mnemonic = "enlist offer noble bridge since metal sphere camera author season earth flower";

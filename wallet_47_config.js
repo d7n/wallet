@@ -1,1 +1,1 @@
-var mnemonic = "wink library budget bar picnic flight annual type casual then craft project";
+var mnemonic = "enable earth swarm rifle crew melt endless zebra satisfy scale offer off";

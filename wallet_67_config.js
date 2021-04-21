@@ -1,1 +1,1 @@
-var mnemonic = "such hunt avoid duck usage skill amazing battle copper trumpet resist frequent";
+var mnemonic = "dust inner citizen figure dignity coil any useless put program frequent zero";

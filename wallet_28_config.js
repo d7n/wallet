@@ -1,1 +1,1 @@
-var mnemonic = "lucky bubble scene giant connect settle very entry tunnel pole will screen";
+var mnemonic = "comic mesh orphan hidden light grab pig height small sibling envelope bind";

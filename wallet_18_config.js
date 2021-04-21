@@ -1,1 +1,1 @@
-var mnemonic = "bid yard file bacon destroy lawn neutral diet essence happy divide motion";
+var mnemonic = "excuse legal minute return smoke badge resist trigger nature winner syrup amused";

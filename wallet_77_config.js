@@ -1,1 +1,1 @@
-var mnemonic = "reflect few south wrestle cloth emerge silent thought field become physical impact";
+var mnemonic = "fire shock runway ready wire wash large silent carpet ginger three grape";

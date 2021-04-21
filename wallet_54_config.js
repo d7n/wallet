@@ -1,1 +1,1 @@
-var mnemonic = "artist delay wink combine base harsh couple later what include ritual inside";
+var mnemonic = "diet fiscal reveal silent vicious festival nest nut very hire endless galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "radar merge cloth suit lady devote cable stable arrest exclude mansion fluid";
+var mnemonic = "slim raise valid nut arena pluck input raccoon female staff input wonder";

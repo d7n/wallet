@@ -1,1 +1,1 @@
-var mnemonic = "hospital display magic inside pony warm random reform sausage flee orange half";
+var mnemonic = "earth about one pitch wink major rule pilot fabric box other tongue";

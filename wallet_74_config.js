@@ -1,1 +1,1 @@
-var mnemonic = "bulk daring mandate tortoise wasp else shed virus robust grunt betray tunnel";
+var mnemonic = "question hour clown film bottom glance poem opera connect repeat aunt gorilla";

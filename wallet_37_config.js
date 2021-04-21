@@ -1,1 +1,1 @@
-var mnemonic = "scale convince security organ load enter direct radar witness sphere gaze fatigue";
+var mnemonic = "sure mushroom piece divide disagree odor obvious benefit leg disorder rubber gasp";

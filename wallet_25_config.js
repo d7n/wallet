@@ -1,1 +1,1 @@
-var mnemonic = "boy secret whip deny mountain knife mean excess empower fossil panic own";
+var mnemonic = "echo merry try jewel sail soap two client hockey define sweet token";

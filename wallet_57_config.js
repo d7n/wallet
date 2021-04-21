@@ -1,1 +1,1 @@
-var mnemonic = "force shed old rib soul fabric service imitate toast stable explain course";
+var mnemonic = "suggest room sibling gap tennis pluck hub gadget ticket inflict brush domain";

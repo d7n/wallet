@@ -1,1 +1,1 @@
-var mnemonic = "mechanic hope salt brick promote desert omit fever gesture decide often winner";
+var mnemonic = "embark obtain become moment pigeon feature gesture issue nephew mix drift segment";

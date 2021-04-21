@@ -1,1 +1,1 @@
-var mnemonic = "cabin frame marine weekend long manual agree common village chronic coyote blue";
+var mnemonic = "rescue shine across almost good antique wrap dismiss bulk omit member pupil";

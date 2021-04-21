@@ -1,1 +1,1 @@
-var mnemonic = "dirt dove marble spell wasp present frown ostrich broom panic cricket corn";
+var mnemonic = "vapor arrow wasp deny rule short hobby garbage exit confirm allow weird";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet welcome floor put mouse list path bike rare still apple clog";
+var mnemonic = "salt cradle squeeze wasp zero shallow casino repeat subject wheat retire state";

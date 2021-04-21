@@ -1,1 +1,1 @@
-var mnemonic = "cross carry vacant bright shop erupt ticket dish enhance novel insane width";
+var mnemonic = "glad reduce attack advance swim tool prevent final fence neither fiber aspect";

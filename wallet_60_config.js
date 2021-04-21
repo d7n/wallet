@@ -1,1 +1,1 @@
-var mnemonic = "muffin flip wave fan easily gorilla artefact unit lunch bless hazard frame";
+var mnemonic = "attend debris belt exit appear hospital pepper mouse steak hungry winter world";

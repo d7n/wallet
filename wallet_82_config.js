@@ -1,1 +1,1 @@
-var mnemonic = "rally unveil hundred mad shell nut summer assault join diamond system slab";
+var mnemonic = "hundred feature reject slice crew dolphin city taste ocean hospital opinion little";

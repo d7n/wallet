@@ -1,1 +1,1 @@
-var mnemonic = "twin steel soul put liar coil person eternal gas weather alone neck";
+var mnemonic = "laptop already clay present error field pilot upon stairs turn volume stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh cement moon leader later velvet mesh wife possible clinic expose retire";
+var mnemonic = "will stick invest clock they tomato ten security menu manual level describe";

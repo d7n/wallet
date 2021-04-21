@@ -1,1 +1,1 @@
-var mnemonic = "elbow advance false clinic forward shop trouble negative butter slush winner clown";
+var mnemonic = "obvious next ripple outer dragon accuse cherry input net cross raven wolf";

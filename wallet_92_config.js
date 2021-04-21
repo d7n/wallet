@@ -1,1 +1,1 @@
-var mnemonic = "spoil gadget sea coffee valley success myself core state finish wrist spice";
+var mnemonic = "beef live rifle surprise veteran divert moral meadow print crash bring dust";

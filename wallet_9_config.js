@@ -1,1 +1,1 @@
-var mnemonic = "surround arrive theory tilt embody seminar when ostrich wrap monitor art coconut";
+var mnemonic = "pelican oven fame right damage kite poverty diet extend elbow sentence pencil";

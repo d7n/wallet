@@ -1,1 +1,1 @@
-var mnemonic = "person suit move wood rifle penalty library kitten glide soap ability lab";
+var mnemonic = "practice push wait situate dwarf easy below hundred save stone hobby hint";

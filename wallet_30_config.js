@@ -1,1 +1,1 @@
-var mnemonic = "extra fog call cigar scatter help game dry airport ancient dice aware";
+var mnemonic = "note october mask sword pledge popular again dove aim video crime worry";

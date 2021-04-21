@@ -1,1 +1,1 @@
-var mnemonic = "salute canal quote snack dragon street soccer ugly that nominee crawl silk";
+var mnemonic = "west banner throw scale path number exit video joke poverty wife shrimp";

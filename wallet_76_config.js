@@ -1,1 +1,1 @@
-var mnemonic = "omit method increase phrase neglect orient exchange suggest girl rely logic harsh";
+var mnemonic = "horror fine window gun style expose priority produce exclude owner flower visual";

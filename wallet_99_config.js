@@ -1,1 +1,1 @@
-var mnemonic = "slow glass pigeon core moon digital alert quarter client mansion pattern resource";
+var mnemonic = "nothing primary ceiling vital drill save perfect tissue siege lava shell just";

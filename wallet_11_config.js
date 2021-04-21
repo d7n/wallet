@@ -1,1 +1,1 @@
-var mnemonic = "era aim panda cheap bread hold fashion economy very symbol brother bonus";
+var mnemonic = "pioneer merit quick design never goat prison plastic agree either dose toilet";

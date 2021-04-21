@@ -1,1 +1,1 @@
-var mnemonic = "mansion blanket toss quit kidney else verify slice bounce captain post elder";
+var mnemonic = "skirt flee raw follow dove mutual recall coil shuffle large hub crash";

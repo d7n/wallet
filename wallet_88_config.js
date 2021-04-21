@@ -1,1 +1,1 @@
-var mnemonic = "episode other cake all ghost kiss pool area very inmate steak hazard";
+var mnemonic = "memory anger army animal crater leisure advance gain bus invite wolf raise";

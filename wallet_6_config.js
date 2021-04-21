@@ -1,1 +1,1 @@
-var mnemonic = "teach guilt blur another broom talk typical enlist spray february fatigue slice";
+var mnemonic = "ball lend gas tomato much gaze nose jealous soft news involve pilot";

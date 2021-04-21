@@ -1,1 +1,1 @@
-var mnemonic = "tumble melody blind immune man digital lady also lab switch lab cherry";
+var mnemonic = "inner badge weapon palm zebra joy confirm sad two ordinary small wrist";

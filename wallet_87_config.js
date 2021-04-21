@@ -1,1 +1,1 @@
-var mnemonic = "lecture way rifle remember recycle excess want avocado asthma tissue valley advance";
+var mnemonic = "argue rookie tilt twice ability shell comic sting kite filter among decline";

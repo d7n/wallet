@@ -1,1 +1,1 @@
-var mnemonic = "toy clog vague field bless object myth stool what payment movie armed";
+var mnemonic = "only slim eternal snap transfer enhance symbol strike sentence space outdoor gather";

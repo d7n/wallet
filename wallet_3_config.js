@@ -1,1 +1,1 @@
-var mnemonic = "field midnight animal staff vacuum deputy one patch pelican unable patch consider";
+var mnemonic = "ghost sponsor purse fresh reopen attack diesel body render diary argue funny";

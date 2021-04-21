@@ -1,1 +1,1 @@
-var mnemonic = "blood ski cream amazing crack mix license control betray paper indoor cook";
+var mnemonic = "sting slender neutral chief pride senior barely silver fee ask sunset renew";

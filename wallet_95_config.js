@@ -1,1 +1,1 @@
-var mnemonic = "motor joke wife address sadness dream guide summer such fan olive exhaust";
+var mnemonic = "one web sting silent fatigue grief promote general common maximum decade fog";

@@ -1,1 +1,1 @@
-var mnemonic = "elder science language rigid rib demand notice spring envelope invite almost garlic";
+var mnemonic = "car ticket virus drip neutral foster hawk ship betray library fresh camp";

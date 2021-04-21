@@ -1,1 +1,1 @@
-var mnemonic = "strategy anchor media helmet unit sad virtual illegal assume media flavor hazard";
+var mnemonic = "base fan credit muffin grape flush shove protect pair nation cheap physical";

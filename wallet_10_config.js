@@ -1,1 +1,1 @@
-var mnemonic = "combine foil say climb sugar gadget scout someone crime pole cotton effort";
+var mnemonic = "arm consider true garden fantasy cricket battle tone save axis syrup blind";

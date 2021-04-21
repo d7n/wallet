@@ -1,1 +1,1 @@
-var mnemonic = "public february arrow couple swear school kiss cage drive arrest lawsuit enact";
+var mnemonic = "cannon weasel diamond lonely law jeans pony scrub move consider hospital day";

@@ -1,1 +1,1 @@
-var mnemonic = "only midnight pear joy test festival dinosaur cousin flag nephew addict worth";
+var mnemonic = "bless hand bar maple twist destroy soap size carpet focus bus until";

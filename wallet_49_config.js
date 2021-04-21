@@ -1,1 +1,1 @@
-var mnemonic = "mixed kit resist call someone refuse avoid heavy modify movie maximum enemy";
+var mnemonic = "cupboard dwarf sun obtain merit ticket cream damp lend decorate curve stomach";

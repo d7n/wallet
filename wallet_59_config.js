@@ -1,1 +1,1 @@
-var mnemonic = "afraid six tobacco summer enter barely dynamic shove trumpet cloud scrap prepare";
+var mnemonic = "onion coconut know reduce half suit random crowd trim history endorse pencil";

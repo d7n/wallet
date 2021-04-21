@@ -1,1 +1,1 @@
-var mnemonic = "vote south south gasp track youth ask meadow crucial lab actress reopen";
+var mnemonic = "grape grow math total april aunt bunker vehicle snap car project submit";

@@ -1,1 +1,1 @@
-var mnemonic = "whip theme harsh blue warrior forest gun theory fatigue slice trumpet slender";
+var mnemonic = "route sorry memory delay onion pig purchase drive poet require pipe liquid";

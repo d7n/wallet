@@ -1,1 +1,1 @@
-var mnemonic = "analyst ice leader twist filter stock rug parent cream tomato kiwi fashion";
+var mnemonic = "office parade exhibit swamp over betray swim over globe include link tiger";

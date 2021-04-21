@@ -1,1 +1,1 @@
-var mnemonic = "cart actress combine inquiry ice universe lock filter fiscal modify inner buzz";
+var mnemonic = "public treat taste life fat entire gallery regret snap praise hospital decline";

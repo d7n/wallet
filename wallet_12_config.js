@@ -1,1 +1,1 @@
-var mnemonic = "math glance hundred boil top humble honey canyon arena climb shock trust";
+var mnemonic = "film chest digital viable sport item mystery warrior force evoke critic chapter";

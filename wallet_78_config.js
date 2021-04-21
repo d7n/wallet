@@ -1,1 +1,1 @@
-var mnemonic = "grow wool chair bless sister aisle shift abuse page soccer rally sock";
+var mnemonic = "describe repair firm biology dial case gown maximum elevator seminar power motor";

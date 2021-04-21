@@ -1,1 +1,1 @@
-var mnemonic = "vibrant ceiling old visit abuse slam laugh miracle butter trash record bubble";
+var mnemonic = "tube upper chronic repeat flight airport change weekend merge stable apple promote";

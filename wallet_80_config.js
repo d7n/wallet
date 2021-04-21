@@ -1,1 +1,1 @@
-var mnemonic = "word tape nasty devote defy put brave blade together announce table anxiety";
+var mnemonic = "simple fault census strategy dutch pumpkin mechanic river basket now seek weasel";

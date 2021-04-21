@@ -1,1 +1,1 @@
-var mnemonic = "burger keen metal cross broccoli insect rib initial believe absent orchard huge";
+var mnemonic = "certain close aim thumb awful pull time champion mushroom under mystery ozone";

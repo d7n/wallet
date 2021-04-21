@@ -1,1 +1,1 @@
-var mnemonic = "wish forward sorry lecture boost ahead muffin person clay female tattoo guide";
+var mnemonic = "worth legal actor imitate exhibit bread horn denial alcohol rate trade youth";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty indicate ball soul female trial because mail cake phrase quit minor";
+var mnemonic = "cost refuse march exhibit soul bike buffalo boy update income rural boss";

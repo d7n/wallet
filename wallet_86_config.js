@@ -1,1 +1,1 @@
-var mnemonic = "start help cluster ensure pig average vault figure panel slogan clinic issue";
+var mnemonic = "crop awesome capital only coin noise club pool elevator ride frown deal";
