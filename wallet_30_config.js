@@ -1,1 +1,1 @@
-var mnemonic = "minor tumble decline rival humor cigar sort mobile volcano shallow elbow live";
+var mnemonic = "coach argue cable latin clown three fiscal feature detect home win library";

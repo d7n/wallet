@@ -1,1 +1,1 @@
-var mnemonic = "grape banner luxury subject anchor capable jazz sand weird school cube best";
+var mnemonic = "venture anger resist surge random kiwi cinnamon that solar supply unhappy project";

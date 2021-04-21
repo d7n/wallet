@@ -1,1 +1,1 @@
-var mnemonic = "that pottery ceiling fuel conduct length baby table rival index risk child";
+var mnemonic = "flee attack tissue fame often amazing kidney essay yellow riot nuclear draw";

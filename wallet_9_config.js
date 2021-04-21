@@ -1,1 +1,1 @@
-var mnemonic = "logic toy awful text top core grunt mass approve shoot behind calm";
+var mnemonic = "journey buffalo wide bench differ equip custom enjoy bag police urban design";

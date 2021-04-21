@@ -1,1 +1,1 @@
-var mnemonic = "judge update bachelor rapid fish transfer target buzz weather north now twin";
+var mnemonic = "ten plastic chaos raccoon inflict theory tackle rail build lock clinic cricket";

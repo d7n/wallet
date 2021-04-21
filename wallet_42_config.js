@@ -1,1 +1,1 @@
-var mnemonic = "hazard indoor hen erode frost torch child solution laptop chalk pride require";
+var mnemonic = "supreme merit alarm sight effort gospel fix crew caution convince obtain arrive";

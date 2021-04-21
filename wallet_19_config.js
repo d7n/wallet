@@ -1,1 +1,1 @@
-var mnemonic = "hazard hybrid reason skate security pattern dentist moment team camp fence program";
+var mnemonic = "winner around cheap general right distance own fly shy vicious equip sudden";

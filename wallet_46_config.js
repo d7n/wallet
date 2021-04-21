@@ -1,1 +1,1 @@
-var mnemonic = "pull slogan output toilet invest sword dice menu save awesome riot scorpion";
+var mnemonic = "negative kick box predict flee joy sea road universe length alert now";

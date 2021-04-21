@@ -1,1 +1,1 @@
-var mnemonic = "begin paddle awful leader can congress test lamp practice remind dawn brisk";
+var mnemonic = "paper zebra distance essay arrange slot random gauge point sample glare obvious";

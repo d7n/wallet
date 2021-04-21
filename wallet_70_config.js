@@ -1,1 +1,1 @@
-var mnemonic = "chronic naive wonder horn story since piano long clip library myself snack";
+var mnemonic = "once popular napkin fancy cherry stick risk soon cart slim issue mother";

@@ -1,1 +1,1 @@
-var mnemonic = "donate across aspect photo document hill picture dry onion whip song correct";
+var mnemonic = "wet undo crazy benefit end upper route canyon reform head unique analyst";

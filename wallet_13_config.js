@@ -1,1 +1,1 @@
-var mnemonic = "claw seminar enable frost check wall defense annual crumble swim erase hundred";
+var mnemonic = "patient bitter foam uniform crew wine climb furnace entire rose music report";

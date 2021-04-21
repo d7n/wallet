@@ -1,1 +1,1 @@
-var mnemonic = "enable margin jealous remove beauty tape parrot either hungry web kangaroo secret";
+var mnemonic = "bag battle wreck wing idle finger sail fuel section oblige seed drip";

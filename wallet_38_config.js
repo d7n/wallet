@@ -1,1 +1,1 @@
-var mnemonic = "erase kidney sort time correct essay hip marriage charge claw speak dream";
+var mnemonic = "estate cat clay also burger scrap source win claim prevent blame cloth";

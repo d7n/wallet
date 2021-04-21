@@ -1,1 +1,1 @@
-var mnemonic = "nuclear motor marriage nut chase inhale provide soup good raise about escape";
+var mnemonic = "lab rent humor furnace wrap marble acquire violin purse arrow spin deputy";

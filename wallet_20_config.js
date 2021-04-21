@@ -1,1 +1,1 @@
-var mnemonic = "feed fox need ethics multiply hybrid unhappy attract sustain fan empty actor";
+var mnemonic = "stock shop then replace pear discover crawl cliff enrich toy grain kid";

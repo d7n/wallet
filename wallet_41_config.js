@@ -1,1 +1,1 @@
-var mnemonic = "autumn expose wagon drill spirit obvious ask domain sleep feel upon potato";
+var mnemonic = "frown fatigue suffer place subject blue alone cabbage creek scene tent tiger";

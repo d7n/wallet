@@ -1,1 +1,1 @@
-var mnemonic = "chronic beyond subject company picnic always swap innocent symptom duty tattoo country";
+var mnemonic = "three desert coyote brisk book clean forest engine valve lava company safe";

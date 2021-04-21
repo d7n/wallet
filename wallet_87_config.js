@@ -1,1 +1,1 @@
-var mnemonic = "nuclear liberty congress crater river pear between copy rough dizzy resist card";
+var mnemonic = "neck motion destroy phrase loud empty opera earth toward snack cabbage bulk";

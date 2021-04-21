@@ -1,1 +1,1 @@
-var mnemonic = "bid palace where purse sister shadow museum ladder animal bitter smooth dumb";
+var mnemonic = "ankle youth fiction hungry bleak social there busy summer monster wheat axis";

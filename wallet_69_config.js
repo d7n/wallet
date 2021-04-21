@@ -1,1 +1,1 @@
-var mnemonic = "charge what avoid warfare tiger trigger flock fame economy luxury stage fault";
+var mnemonic = "arena clump leaf tooth safe glare attack target endless vague tornado index";

@@ -1,1 +1,1 @@
-var mnemonic = "target gravity decorate differ water wolf rib strike slow globe hungry dinner";
+var mnemonic = "perfect gospel have toddler volume sight cancel where vapor dutch message describe";

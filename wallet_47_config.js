@@ -1,1 +1,1 @@
-var mnemonic = "fringe step that choose next empower act until present plug asset inner";
+var mnemonic = "drive erode sure easy pulse general system real fiction elbow immense color";

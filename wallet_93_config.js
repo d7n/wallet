@@ -1,1 +1,1 @@
-var mnemonic = "hood relax kid palm budget melt spatial negative brass curve access naive";
+var mnemonic = "action raccoon dad attitude target party tell then orbit exchange oak shuffle";

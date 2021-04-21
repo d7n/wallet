@@ -1,1 +1,1 @@
-var mnemonic = "quality gain spike decade zebra situate season laundry uncover scan anxiety submit";
+var mnemonic = "shock cheese cash bitter coil clarify ability city rude match affair elbow";

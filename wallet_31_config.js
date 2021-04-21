@@ -1,1 +1,1 @@
-var mnemonic = "hat tower crucial energy october token tonight guide loyal gossip bunker attitude";
+var mnemonic = "birth crazy auto rain remind crew baby sponsor city armed theory material";

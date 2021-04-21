@@ -1,1 +1,1 @@
-var mnemonic = "glare extra marriage evil false speed cupboard spray scan where zero flavor";
+var mnemonic = "vital season empower velvet ripple beauty accident scan artefact bulk access behind";

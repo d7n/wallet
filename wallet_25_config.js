@@ -1,1 +1,1 @@
-var mnemonic = "robust view figure network bamboo couple seek anxiety flush moral advance tip";
+var mnemonic = "material source explain season report book gun plug hope play admit risk";

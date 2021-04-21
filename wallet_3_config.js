@@ -1,1 +1,1 @@
-var mnemonic = "girl cloth essence sound ribbon whale witness entire game depend casino web";
+var mnemonic = "mystery profit stomach text crouch lawn parrot employ text online parade appear";

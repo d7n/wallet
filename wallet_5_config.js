@@ -1,1 +1,1 @@
-var mnemonic = "sport cart believe snack month decade hobby child blind civil lady powder";
+var mnemonic = "ten banana claw angry gallery jewel erase steel ecology hungry amazing balance";

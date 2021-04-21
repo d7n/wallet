@@ -1,1 +1,1 @@
-var mnemonic = "health jungle two certain dawn twice lock account suspect news amateur gain";
+var mnemonic = "toast soda main elbow venue total excess lyrics code lazy street when";

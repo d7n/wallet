@@ -1,1 +1,1 @@
-var mnemonic = "smooth slice divorce fault echo master word diagram few surround suspect strong";
+var mnemonic = "tape lawn luxury angle tongue salute oppose seminar demise artwork choose puppy";

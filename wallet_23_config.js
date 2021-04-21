@@ -1,1 +1,1 @@
-var mnemonic = "original silent outside misery page thing hire gap once spot balance crouch";
+var mnemonic = "stand define pumpkin group stable salon mechanic confirm amused robust piece shove";

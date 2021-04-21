@@ -1,1 +1,1 @@
-var mnemonic = "dice joke winter logic panda iron tube pupil cliff solution income tornado";
+var mnemonic = "curve stadium arch swim maid rescue cancel index real dice erosion eternal";

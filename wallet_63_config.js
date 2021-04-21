@@ -1,1 +1,1 @@
-var mnemonic = "cancel chicken admit elegant deer control wealth enlist whip blood practice about";
+var mnemonic = "bench team minute dignity lava damp away nut dry identify turtle matter";

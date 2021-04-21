@@ -1,1 +1,1 @@
-var mnemonic = "mountain envelope cart repair now prison report net prosper hundred subject goat";
+var mnemonic = "spoon hurdle cave distance resemble load sure meat garlic elephant smooth motion";

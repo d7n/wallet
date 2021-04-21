@@ -1,1 +1,1 @@
-var mnemonic = "legal february like galaxy three churn junior occur swap wage pink wet";
+var mnemonic = "chest transfer chapter acquire spring next unfair sudden capable episode school piece";

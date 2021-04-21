@@ -1,1 +1,1 @@
-var mnemonic = "already valid spawn raw turkey share vote gesture blood romance deer music";
+var mnemonic = "habit power shuffle slender giant update sample weasel vapor tennis ahead tuna";

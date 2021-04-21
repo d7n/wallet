@@ -1,1 +1,1 @@
-var mnemonic = "empty stomach come vital diet suggest birth combine universe caution catalog game";
+var mnemonic = "mixed smile tip female sea situate field similar stumble brass actor swear";

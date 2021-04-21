@@ -1,1 +1,1 @@
-var mnemonic = "post clutch spend tomorrow hat screen emerge bench client protect profit work";
+var mnemonic = "skill scene since whale net illegal kingdom setup satoshi can arm caught";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate teach evidence any above hidden flee right shadow food wide oxygen";
+var mnemonic = "prefer edit cradle remind crawl install essay upgrade clap gravity impact patch";

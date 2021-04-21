@@ -1,1 +1,1 @@
-var mnemonic = "address kid scissors slide joke give addict minimum jungle already poem fashion";
+var mnemonic = "resist dune urge any pilot evolve during satisfy siren autumn prison novel";

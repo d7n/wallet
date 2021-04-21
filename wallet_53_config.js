@@ -1,1 +1,1 @@
-var mnemonic = "devote bronze forget wedding embark suffer oppose daughter run tank inherit general";
+var mnemonic = "kidney envelope winner life whip donor hospital gold arena bamboo reform deer";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt gossip aisle fruit expand salute puzzle puzzle rigid wife deny uncover";
+var mnemonic = "surface either floor gallery word cruise hope genuine process plastic spike once";

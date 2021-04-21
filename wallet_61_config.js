@@ -1,1 +1,1 @@
-var mnemonic = "cycle organ patient hip lumber raccoon swallow brown mosquito patch roof furnace";
+var mnemonic = "there verify pool reason access inner rifle clump unable nation arrow gate";

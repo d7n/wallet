@@ -1,1 +1,1 @@
-var mnemonic = "script enlist sentence mango immense toilet bonus vital chunk output load celery";
+var mnemonic = "exotic priority bean fish romance gaze sound flame globe creek drift medal";

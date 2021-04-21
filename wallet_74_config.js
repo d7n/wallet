@@ -1,1 +1,1 @@
-var mnemonic = "alarm deposit govern shop across dragon swift venture bounce layer bicycle foster";
+var mnemonic = "grain wife acoustic session solution banner build maple toy test urge worth";

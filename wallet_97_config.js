@@ -1,1 +1,1 @@
-var mnemonic = "cargo vault fade race repair nasty fox shuffle mimic reveal bike paper";
+var mnemonic = "hospital agent pizza term jump fever cat medal village trust hole awake";

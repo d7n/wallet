@@ -1,1 +1,1 @@
-var mnemonic = "plate marriage adjust must spend case pond cabbage core water power tube";
+var mnemonic = "tongue exhibit honey expose sunny picture vivid metal brass solid copy laptop";

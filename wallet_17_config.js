@@ -1,1 +1,1 @@
-var mnemonic = "bullet velvet play scatter blame ozone ten super convince can friend jelly";
+var mnemonic = "toss appear basket glimpse vicious abuse front fine awesome dumb curious giraffe";

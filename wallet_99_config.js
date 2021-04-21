@@ -1,1 +1,1 @@
-var mnemonic = "exotic purse success absorb message garbage word magnet venture shift skate grant";
+var mnemonic = "edge tumble music amused alarm bulk model pink venture cool coffee machine";

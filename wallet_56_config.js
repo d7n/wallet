@@ -1,1 +1,1 @@
-var mnemonic = "episode absurd danger memory cute festival march disorder grunt journey admit clap";
+var mnemonic = "finish old glory season trap metal vocal sad junior second uniform laptop";

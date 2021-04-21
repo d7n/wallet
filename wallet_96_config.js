@@ -1,1 +1,1 @@
-var mnemonic = "demand hire light clarify hammer robust airport ceiling powder leg miracle note";
+var mnemonic = "ride just venture aunt radar season fiscal age ribbon off expire afford";

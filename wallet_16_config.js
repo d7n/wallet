@@ -1,1 +1,1 @@
-var mnemonic = "blush cat coconut vote receive collect image fossil link emotion media essence";
+var mnemonic = "ocean long demand eye outer edit disagree myth door ceiling upset decrease";

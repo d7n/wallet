@@ -1,1 +1,1 @@
-var mnemonic = "cover dish shoot chalk talent timber enroll version list viable bread exit";
+var mnemonic = "wagon impulse secret vanish brain gadget march debris seek novel battle armor";

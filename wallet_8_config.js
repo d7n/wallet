@@ -1,1 +1,1 @@
-var mnemonic = "sad wedding gentle team usage harbor cube fit skirt excess accuse evil";
+var mnemonic = "knife copy source tonight weird quit grocery depth crystal father shoot trap";

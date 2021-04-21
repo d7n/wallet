@@ -1,1 +1,1 @@
-var mnemonic = "sponsor onion grief neck fly always crawl park provide inspire address term";
+var mnemonic = "repeat will fit nut guard emerge shine essence fiscal cherry witness jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "sword husband onion video horror culture garbage second midnight tumble dad net";
+var mnemonic = "foil goddess margin embark web dad rug slender girl gun height taxi";

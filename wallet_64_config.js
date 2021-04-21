@@ -1,1 +1,1 @@
-var mnemonic = "kind hollow matrix ignore leg eagle general antique kick type latin excite";
+var mnemonic = "draft bird horn relief gun miracle code adapt that spray group mule";

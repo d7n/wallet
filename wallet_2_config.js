@@ -1,1 +1,1 @@
-var mnemonic = "wife drift cigar hire release know deer aerobic cost pigeon tuna put";
+var mnemonic = "install marble general suit visa shell nose sock arctic narrow position endorse";

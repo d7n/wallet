@@ -1,1 +1,1 @@
-var mnemonic = "bird film layer seat admit quarter lecture panther loan toilet van absent";
+var mnemonic = "tell unfair fragile ice found seminar sustain autumn monkey hotel embrace cement";

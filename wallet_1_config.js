@@ -1,1 +1,1 @@
-var mnemonic = "flight draw style toe country pair swing identify easy outside match egg";
+var mnemonic = "moment exchange size key about outside alert youth fantasy public adult recipe";

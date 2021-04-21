@@ -1,1 +1,1 @@
-var mnemonic = "glimpse clap certain eye rice brass team almost silver curtain cover fancy";
+var mnemonic = "screen drive member genuine critic dentist cable obey arrest world protect happy";

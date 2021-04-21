@@ -1,1 +1,1 @@
-var mnemonic = "tube wing lamp hill globe age must roof box own original few";
+var mnemonic = "network ordinary prize recall van ten olive other talk donkey nut base";

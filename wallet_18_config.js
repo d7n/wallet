@@ -1,1 +1,1 @@
-var mnemonic = "bundle violin want tobacco better bacon answer theme swear repair skate cabin";
+var mnemonic = "weather diet wrestle mom rather leave vacant later video typical sadness goat";

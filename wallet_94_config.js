@@ -1,1 +1,1 @@
-var mnemonic = "way regular shell ring apology toast embark pelican point today wedding chat";
+var mnemonic = "edit indoor scene pulp gown gauge dove over raise bind bridge corn";

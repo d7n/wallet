@@ -1,1 +1,1 @@
-var mnemonic = "prosper purse spread offer heavy step spy loan aspect west return aisle";
+var mnemonic = "excite tattoo aspect like floor reveal husband fiction arctic enforce auto duck";

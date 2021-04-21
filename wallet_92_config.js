@@ -1,1 +1,1 @@
-var mnemonic = "wet plate nice fade zone crew youth split rely manual rookie salute";
+var mnemonic = "volcano loyal obvious busy rice version level mother dawn give wrong warrior";

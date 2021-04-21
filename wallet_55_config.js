@@ -1,1 +1,1 @@
-var mnemonic = "shop must same aerobic cheese lab peace option load try can west";
+var mnemonic = "quote deliver wing dignity provide bird famous inquiry hidden toward update vacuum";

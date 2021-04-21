@@ -1,1 +1,1 @@
-var mnemonic = "mammal bamboo trap increase virus retire fan grow rather volcano love silver";
+var mnemonic = "key fiction pizza spy lucky estate pill country company fiber manual unique";

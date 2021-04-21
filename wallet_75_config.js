@@ -1,1 +1,1 @@
-var mnemonic = "ivory eyebrow wall merge seek canal monkey witness sting fiber cushion mutual";
+var mnemonic = "earn protect student alter play monkey twenty offer roast found pistol boil";

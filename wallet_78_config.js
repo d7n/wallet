@@ -1,1 +1,1 @@
-var mnemonic = "cake harsh fiber mom arrest nominee alone nose clean delay wisdom fuel";
+var mnemonic = "live rule keep combine brand decline bread latin odor kit undo wave";

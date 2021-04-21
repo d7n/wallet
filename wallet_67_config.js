@@ -1,1 +1,1 @@
-var mnemonic = "piano donate zero copper catch turkey edge shoe raw repair pact tone";
+var mnemonic = "unveil friend prevent usual pair match very exchange panda possible toss chimney";

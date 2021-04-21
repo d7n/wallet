@@ -1,1 +1,1 @@
-var mnemonic = "cost genre step harvest success hat equal pen sphere innocent lion wealth";
+var mnemonic = "core bullet course fire dose actor century album fruit install infant flee";

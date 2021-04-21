@@ -1,1 +1,1 @@
-var mnemonic = "runway glance master inject rude empty wink heavy hollow pistol wisdom virtual";
+var mnemonic = "hospital regret drink insect awake chronic water boss fossil labor magic number";

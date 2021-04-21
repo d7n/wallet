@@ -1,1 +1,1 @@
-var mnemonic = "observe grain math young track woman play power expire venture thumb combine";
+var mnemonic = "service property skirt tilt lunar quarter axis vanish crush jelly vintage loop";

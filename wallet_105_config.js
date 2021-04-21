@@ -1,1 +1,1 @@
-var mnemonic = "gallery question novel smart tuna blur civil audit fancy alert access blossom";
+var mnemonic = "solar grief income change sand pride media water shop erode clump bridge";

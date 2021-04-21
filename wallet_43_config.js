@@ -1,1 +1,1 @@
-var mnemonic = "country trouble special excite assist fame cloud blind honey pipe rebel tomorrow";
+var mnemonic = "rare nominee army snake there float clip eager total sorry receive little";

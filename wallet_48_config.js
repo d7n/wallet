@@ -1,1 +1,1 @@
-var mnemonic = "flip critic expire equal lizard void cherry valid fantasy junior super bike";
+var mnemonic = "gravity crumble curtain remember shield security edge become victory slogan machine strategy";

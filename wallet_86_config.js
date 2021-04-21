@@ -1,1 +1,1 @@
-var mnemonic = "canyon recycle lunch drill kiwi salon tray hint ivory sunset net phrase";
+var mnemonic = "claim beef praise stem fit trust can sing pretty join panther gown";

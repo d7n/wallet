@@ -1,1 +1,1 @@
-var mnemonic = "print focus crisp assault ginger forum strong distance leaf panda stamp exact";
+var mnemonic = "bronze impose gun enter box frozen consider wear review exact panther custom";

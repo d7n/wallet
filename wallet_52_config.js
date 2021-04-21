@@ -1,1 +1,1 @@
-var mnemonic = "hint shop seed improve day bridge blur glimpse volcano tiny produce bring";
+var mnemonic = "vendor pair couch zone lunar entire shrug roast ankle edge fashion fashion";

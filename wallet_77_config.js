@@ -1,1 +1,1 @@
-var mnemonic = "middle baby child loop monitor aerobic cloud romance good birth lobster glide";
+var mnemonic = "enhance athlete this air hole crush turtle barrel acquire castle cream initial";

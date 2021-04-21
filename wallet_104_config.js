@@ -1,1 +1,1 @@
-var mnemonic = "cool fog ramp venture okay corn foil point anxiety nature blue episode";
+var mnemonic = "cake draft animal spike summer cloth report autumn kangaroo small hover saddle";

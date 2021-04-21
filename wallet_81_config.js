@@ -1,1 +1,1 @@
-var mnemonic = "focus cargo kitchen sting vendor model spin grass unusual often coconut express";
+var mnemonic = "comic bonus purse symbol moral actress income another razor despair garlic narrow";

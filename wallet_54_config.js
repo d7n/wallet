@@ -1,1 +1,1 @@
-var mnemonic = "mandate unlock attitude letter angle bird scheme slight conduct early say search";
+var mnemonic = "awesome arrest second barrel afraid tiny stove calm split outside unveil vintage";

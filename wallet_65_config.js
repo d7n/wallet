@@ -1,1 +1,1 @@
-var mnemonic = "sound mandate baby drastic hen crisp year tired bottom brand heart foam";
+var mnemonic = "pledge grass manage next sea shop about cattle prefer insane stuff marble";

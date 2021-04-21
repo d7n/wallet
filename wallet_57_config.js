@@ -1,1 +1,1 @@
-var mnemonic = "drift swing skirt arm once kangaroo piece public fluid bottom good intact";
+var mnemonic = "awake truly sight doctor noise fever canal book horse evoke output orbit";

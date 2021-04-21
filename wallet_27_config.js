@@ -1,1 +1,1 @@
-var mnemonic = "method cherry jazz prize wash chat travel better bamboo utility sting farm";
+var mnemonic = "panther asthma ranch neutral toast orphan endorse pave neither tissue suspect garlic";

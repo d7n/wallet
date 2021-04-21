@@ -1,1 +1,1 @@
-var mnemonic = "middle city wisdom coil rural circle twice swarm someone season candy filter";
+var mnemonic = "nice october forget tube such gloom injury dolphin guard author hire apology";

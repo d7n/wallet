@@ -1,1 +1,1 @@
-var mnemonic = "cruel speed ability sugar culture bulb holiday cement little skull ostrich surprise";
+var mnemonic = "aisle seat riot silent mountain treat unable magnet citizen occur stairs raise";

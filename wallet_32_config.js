@@ -1,1 +1,1 @@
-var mnemonic = "reduce someone multiply solid doll someone wave report avocado moral board audit";
+var mnemonic = "round boss purse burst reason tattoo old weird inhale crew napkin primary";

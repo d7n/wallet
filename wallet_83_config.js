@@ -1,1 +1,1 @@
-var mnemonic = "oblige idea wood protect venue churn hill magic insect harbor team century";
+var mnemonic = "morning valid alter degree prize define gate involve item ugly cute prepare";

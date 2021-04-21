@@ -1,1 +1,1 @@
-var mnemonic = "trim wreck kite room glimpse honey mother float snap clog resist edit";
+var mnemonic = "smooth tuna electric month shove wonder ribbon immense beef rally enact either";

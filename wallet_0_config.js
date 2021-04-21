@@ -1,1 +1,1 @@
-var mnemonic = "decline apology bus suffer tenant always help atom tissue loop pear main";
+var mnemonic = "piano day width inherit kidney hybrid scene fun front soda canvas link";
