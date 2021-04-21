@@ -1,1 +1,1 @@
-var mnemonic = "neck tower oblige tattoo betray ski tooth crouch minute invest later prepare";
+var mnemonic = "mandate unlock attitude letter angle bird scheme slight conduct early say search";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon task recipe mom empty always speak sea slim try thumb assume";
+var mnemonic = "chronic naive wonder horn story since piano long clip library myself snack";

@@ -1,1 +1,1 @@
-var mnemonic = "census expire melt try excess exhibit crane huge security vacant festival filter";
+var mnemonic = "hazard indoor hen erode frost torch child solution laptop chalk pride require";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty video acoustic math divert image good more crop cram expire there";
+var mnemonic = "minor tumble decline rival humor cigar sort mobile volcano shallow elbow live";

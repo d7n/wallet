@@ -1,1 +1,1 @@
-var mnemonic = "quarter ecology tape make mutual equip real student liar trigger danger fat";
+var mnemonic = "tube wing lamp hill globe age must roof box own original few";

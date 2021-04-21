@@ -1,1 +1,1 @@
-var mnemonic = "sport truck yard peanut uphold phrase super season term hobby current business";
+var mnemonic = "middle city wisdom coil rural circle twice swarm someone season candy filter";

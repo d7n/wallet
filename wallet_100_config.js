@@ -1,1 +1,1 @@
-var mnemonic = "vacant catalog glory bonus chronic claw kit various tape indoor field caught";
+var mnemonic = "night pause desert pudding now sketch effort mutual record green merge estate";

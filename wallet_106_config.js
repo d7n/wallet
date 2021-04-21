@@ -1,1 +1,1 @@
-var mnemonic = "hockey illness vote antique cargo cupboard rebel again please silk mountain lunar";
+var mnemonic = "target gravity decorate differ water wolf rib strike slow globe hungry dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "damp seat weapon fever orange dad patrol cage climb hero fresh provide";
+var mnemonic = "cover dish shoot chalk talent timber enroll version list viable bread exit";

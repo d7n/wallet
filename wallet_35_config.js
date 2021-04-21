@@ -1,1 +1,1 @@
-var mnemonic = "rally divert kit axis ramp service wide drink flower cannon hotel resource";
+var mnemonic = "embrace draw grass mail section cute clean shoot sound seminar unveil valley";

@@ -1,1 +1,1 @@
-var mnemonic = "board review nest hawk camera border gift area aware child pave lady";
+var mnemonic = "glimpse clap certain eye rice brass team almost silver curtain cover fancy";

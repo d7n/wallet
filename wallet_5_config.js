@@ -1,1 +1,1 @@
-var mnemonic = "must immune able lonely clock prepare treat cheese just patient napkin feel";
+var mnemonic = "sport cart believe snack month decade hobby child blind civil lady powder";

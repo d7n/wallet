@@ -1,1 +1,1 @@
-var mnemonic = "permit subway blush loan solar fashion bridge device drama donate pink current";
+var mnemonic = "situate veteran pear hurdle ill demand cruel before season borrow split disease";

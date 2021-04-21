@@ -1,1 +1,1 @@
-var mnemonic = "guitar donor random name exhibit convince fox believe toy solid panther legend";
+var mnemonic = "drift swing skirt arm once kangaroo piece public fluid bottom good intact";

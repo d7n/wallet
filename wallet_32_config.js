@@ -1,1 +1,1 @@
-var mnemonic = "combine square similar foam jar keep entire basic brisk egg nasty turn";
+var mnemonic = "reduce someone multiply solid doll someone wave report avocado moral board audit";

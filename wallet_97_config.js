@@ -1,1 +1,1 @@
-var mnemonic = "game because document panel fitness twice wink box length fork stomach wool";
+var mnemonic = "cargo vault fade race repair nasty fox shuffle mimic reveal bike paper";

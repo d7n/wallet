@@ -1,1 +1,1 @@
-var mnemonic = "gate add illness rate capable drive orient floor almost kiwi dice anxiety";
+var mnemonic = "hood relax kid palm budget melt spatial negative brass curve access naive";

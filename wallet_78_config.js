@@ -1,1 +1,1 @@
-var mnemonic = "copper sausage credit salmon rally soldier lend spread tissue limit zebra require";
+var mnemonic = "cake harsh fiber mom arrest nominee alone nose clean delay wisdom fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "vote say spoon movie axis hidden dinner idea decrease turkey search worth";
+var mnemonic = "method cherry jazz prize wash chat travel better bamboo utility sting farm";

@@ -1,1 +1,1 @@
-var mnemonic = "original diary cupboard iron eyebrow option unveil company else clerk shrimp tumble";
+var mnemonic = "girl cloth essence sound ribbon whale witness entire game depend casino web";

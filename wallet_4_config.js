@@ -1,1 +1,1 @@
-var mnemonic = "rookie glide sight apple little bullet mask unhappy hair annual circle style";
+var mnemonic = "cruel speed ability sugar culture bulb holiday cement little skull ostrich surprise";

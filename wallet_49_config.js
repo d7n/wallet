@@ -1,1 +1,1 @@
-var mnemonic = "report cricket genuine peasant clutch popular dose essay bundle end plug rapid";
+var mnemonic = "enable margin jealous remove beauty tape parrot either hungry web kangaroo secret";

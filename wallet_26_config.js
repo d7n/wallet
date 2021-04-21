@@ -1,1 +1,1 @@
-var mnemonic = "alcohol mind smoke volcano grid roof screen twelve hold memory industry example";
+var mnemonic = "tilt gossip aisle fruit expand salute puzzle puzzle rigid wife deny uncover";

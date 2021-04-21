@@ -1,1 +1,1 @@
-var mnemonic = "build doll chapter sing mass shoe train swim crater frown arrow barely";
+var mnemonic = "that pottery ceiling fuel conduct length baby table rival index risk child";

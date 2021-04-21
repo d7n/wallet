@@ -1,1 +1,1 @@
-var mnemonic = "fit demand tiger fashion struggle guide much ahead rack farm fragile analyst";
+var mnemonic = "cost genre step harvest success hat equal pen sphere innocent lion wealth";

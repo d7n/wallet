@@ -1,1 +1,1 @@
-var mnemonic = "crowd trip space crystal gift loop used coffee execute humble mercy belt";
+var mnemonic = "wet plate nice fade zone crew youth split rely manual rookie salute";

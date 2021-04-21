@@ -1,1 +1,1 @@
-var mnemonic = "fragile original alien wet memory urban already sudden still network arrest artwork";
+var mnemonic = "cool fog ramp venture okay corn foil point anxiety nature blue episode";

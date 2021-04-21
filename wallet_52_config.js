@@ -1,1 +1,1 @@
-var mnemonic = "cost gauge student rent laugh lock main junk fashion number visit leader";
+var mnemonic = "hint shop seed improve day bridge blur glimpse volcano tiny produce bring";

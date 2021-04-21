@@ -1,1 +1,1 @@
-var mnemonic = "wheat sniff weasel mule true idle tired know saddle staff real palm";
+var mnemonic = "charge what avoid warfare tiger trigger flock fame economy luxury stage fault";

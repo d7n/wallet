@@ -1,1 +1,1 @@
-var mnemonic = "cattle catalog split loop afford horn live ramp theme tobacco mushroom try";
+var mnemonic = "episode absurd danger memory cute festival march disorder grunt journey admit clap";

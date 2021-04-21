@@ -1,1 +1,1 @@
-var mnemonic = "stairs close matrix power main truly trim decade base gravity chase floor";
+var mnemonic = "cycle organ patient hip lumber raccoon swallow brown mosquito patch roof furnace";

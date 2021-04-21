@@ -1,1 +1,1 @@
-var mnemonic = "velvet fury upgrade total park motion case brush horror receive sad hope";
+var mnemonic = "nuclear liberty congress crater river pear between copy rough dizzy resist card";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit lunch tube rug decline kiss lawn banana inspire endless insane sudden";
+var mnemonic = "dice joke winter logic panda iron tube pupil cliff solution income tornado";

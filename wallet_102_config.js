@@ -1,1 +1,1 @@
-var mnemonic = "stuff culture barely creek radar leaf degree lion very tennis latin mask";
+var mnemonic = "lesson reduce finger spell toy harbor citizen dream display soul smooth toilet";

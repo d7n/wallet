@@ -1,1 +1,1 @@
-var mnemonic = "bleak topple fold series mail island armor goddess wealth crash jealous dumb";
+var mnemonic = "original silent outside misery page thing hire gap once spot balance crouch";

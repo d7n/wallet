@@ -1,1 +1,1 @@
-var mnemonic = "butter afford review bleak smart depart thrive chalk north title repair giggle";
+var mnemonic = "runway glance master inject rude empty wink heavy hollow pistol wisdom virtual";

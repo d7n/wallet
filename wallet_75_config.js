@@ -1,1 +1,1 @@
-var mnemonic = "horse together rare wild minor ginger guess wash success fee cricket awkward";
+var mnemonic = "ivory eyebrow wall merge seek canal monkey witness sting fiber cushion mutual";

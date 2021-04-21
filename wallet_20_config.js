@@ -1,1 +1,1 @@
-var mnemonic = "leopard town area right enroll mixture audit sword light enemy pelican armed";
+var mnemonic = "feed fox need ethics multiply hybrid unhappy attract sustain fan empty actor";

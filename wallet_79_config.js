@@ -1,1 +1,1 @@
-var mnemonic = "crew penalty neither prison relief ozone assault rough train enable suggest cliff";
+var mnemonic = "quality gain spike decade zebra situate season laundry uncover scan anxiety submit";

@@ -1,1 +1,1 @@
-var mnemonic = "sense dash limit motor uncle sting way space cry resist pretty hole";
+var mnemonic = "devote bronze forget wedding embark suffer oppose daughter run tank inherit general";

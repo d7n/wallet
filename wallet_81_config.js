@@ -1,1 +1,1 @@
-var mnemonic = "online amazing rural truck debate wool protect version sunset install gauge dumb";
+var mnemonic = "focus cargo kitchen sting vendor model spin grass unusual often coconut express";

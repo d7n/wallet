@@ -1,1 +1,1 @@
-var mnemonic = "tragic bonus recall jewel citizen matter release silver various mammal else history";
+var mnemonic = "bundle violin want tobacco better bacon answer theme swear repair skate cabin";

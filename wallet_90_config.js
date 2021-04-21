@@ -1,1 +1,1 @@
-var mnemonic = "surround crime raise wire exercise thunder excess legal voice rule emerge cupboard";
+var mnemonic = "mammal bamboo trap increase virus retire fan grow rather volcano love silver";

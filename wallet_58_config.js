@@ -1,1 +1,1 @@
-var mnemonic = "soap lizard gain beef spike tonight kingdom finger tuition across feed grid";
+var mnemonic = "kind flower chest cool bundle laugh antenna message trend bar pave evolve";

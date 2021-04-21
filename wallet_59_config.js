@@ -1,1 +1,1 @@
-var mnemonic = "crumble cable few annual assist feature rapid cabbage legal marine hen tornado";
+var mnemonic = "chronic beyond subject company picnic always swap innocent symptom duty tattoo country";

@@ -1,1 +1,1 @@
-var mnemonic = "miss raise sign ordinary double smoke robust spy prevent actress vessel dinner";
+var mnemonic = "decline apology bus suffer tenant always help atom tissue loop pear main";

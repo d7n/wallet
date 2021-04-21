@@ -1,1 +1,1 @@
-var mnemonic = "magnet visit sail oak marble water antique size summer beef state floor";
+var mnemonic = "blush cat coconut vote receive collect image fossil link emotion media essence";

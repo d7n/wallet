@@ -1,1 +1,1 @@
-var mnemonic = "claim spell cup series nice echo shop lumber bomb holiday common endorse";
+var mnemonic = "sword husband onion video horror culture garbage second midnight tumble dad net";

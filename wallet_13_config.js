@@ -1,1 +1,1 @@
-var mnemonic = "nurse pet such mirror room snap top ring taxi gift wrong page";
+var mnemonic = "claw seminar enable frost check wall defense annual crumble swim erase hundred";

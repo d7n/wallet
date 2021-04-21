@@ -1,1 +1,1 @@
-var mnemonic = "vibrant prevent margin loud opera auto sniff bundle sock easy lounge wage";
+var mnemonic = "coin dinner nose dune napkin roast pink sad rigid elite rule shock";

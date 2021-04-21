@@ -1,1 +1,1 @@
-var mnemonic = "student people shift prevent cigar avocado tumble nominee song wear degree into";
+var mnemonic = "bird film layer seat admit quarter lecture panther loan toilet van absent";

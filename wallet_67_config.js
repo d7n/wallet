@@ -1,1 +1,1 @@
-var mnemonic = "famous height gas peanut skirt street essay hurdle force write table license";
+var mnemonic = "piano donate zero copper catch turkey edge shoe raw repair pact tone";

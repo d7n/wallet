@@ -1,1 +1,1 @@
-var mnemonic = "shrimp shoot life sketch divert aspect legal wrap various mail novel puppy";
+var mnemonic = "already valid spawn raw turkey share vote gesture blood romance deer music";

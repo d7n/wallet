@@ -1,1 +1,1 @@
-var mnemonic = "purchase safe table tide artefact enforce west van topic myth dream long";
+var mnemonic = "alarm deposit govern shop across dragon swift venture bounce layer bicycle foster";

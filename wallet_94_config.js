@@ -1,1 +1,1 @@
-var mnemonic = "snow answer impulse couple steel room cat north cook canvas luggage also";
+var mnemonic = "way regular shell ring apology toast embark pelican point today wedding chat";

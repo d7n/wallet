@@ -1,1 +1,1 @@
-var mnemonic = "answer dial lawn toilet damage crouch ceiling answer habit crime mind gown";
+var mnemonic = "health jungle two certain dawn twice lock account suspect news amateur gain";

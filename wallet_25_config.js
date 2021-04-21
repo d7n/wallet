@@ -1,1 +1,1 @@
-var mnemonic = "curious use move wasp balcony lake bundle under sibling essay dumb hip";
+var mnemonic = "robust view figure network bamboo couple seek anxiety flush moral advance tip";

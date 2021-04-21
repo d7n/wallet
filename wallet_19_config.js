@@ -1,1 +1,1 @@
-var mnemonic = "veteran misery pyramid test dry scan boost diary snake supreme cruise hire";
+var mnemonic = "hazard hybrid reason skate security pattern dentist moment team camp fence program";

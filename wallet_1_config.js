@@ -1,1 +1,1 @@
-var mnemonic = "badge security card teach divert long buffalo supreme hint rescue drink hour";
+var mnemonic = "flight draw style toe country pair swing identify easy outside match egg";

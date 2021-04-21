@@ -1,1 +1,1 @@
-var mnemonic = "bamboo dentist slim able loan observe wise cereal smooth camera future barrel";
+var mnemonic = "narrow buddy dismiss lion undo reopen nut electric kick link turtle size";

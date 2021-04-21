@@ -1,1 +1,1 @@
-var mnemonic = "stable piece rebel oil panda shine soda case resource fancy buyer abandon";
+var mnemonic = "observe grain math young track woman play power expire venture thumb combine";

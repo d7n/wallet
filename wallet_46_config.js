@@ -1,1 +1,1 @@
-var mnemonic = "clap force farm party swap burger cloth april pudding sad agent inform";
+var mnemonic = "pull slogan output toilet invest sword dice menu save awesome riot scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "total merge divorce about civil super idea race silk list hub curve";
+var mnemonic = "plate marriage adjust must spend case pond cabbage core water power tube";

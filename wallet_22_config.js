@@ -1,1 +1,1 @@
-var mnemonic = "purse clog antique rhythm protect chronic burger kiwi luxury fever develop impact";
+var mnemonic = "sponsor onion grief neck fly always crawl park provide inspire address term";

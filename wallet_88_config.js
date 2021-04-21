@@ -1,1 +1,1 @@
-var mnemonic = "toddler seat sock dynamic cat suffer weapon arm pilot jacket ticket space";
+var mnemonic = "nuclear motor marriage nut chase inhale provide soup good raise about escape";

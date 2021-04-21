@@ -1,1 +1,1 @@
-var mnemonic = "rent outdoor aim split inquiry task blossom view drop sun loan saddle";
+var mnemonic = "donate across aspect photo document hill picture dry onion whip song correct";

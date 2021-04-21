@@ -1,1 +1,1 @@
-var mnemonic = "expire estate act sleep time utility celery finish foot fruit book alert";
+var mnemonic = "grape banner luxury subject anchor capable jazz sand weird school cube best";

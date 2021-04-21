@@ -1,1 +1,1 @@
-var mnemonic = "evil blue cool goose copper rebel embark coral sail impose tuition jealous";
+var mnemonic = "country trouble special excite assist fame cloud blind honey pipe rebel tomorrow";

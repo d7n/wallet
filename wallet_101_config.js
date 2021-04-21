@@ -1,1 +1,1 @@
-var mnemonic = "pen faculty citizen today walk confirm school wet abandon excuse keep mind";
+var mnemonic = "address kid scissors slide joke give addict minimum jungle already poem fashion";

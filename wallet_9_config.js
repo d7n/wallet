@@ -1,1 +1,1 @@
-var mnemonic = "enact stock bar author olympic edge benefit label modify aisle save order";
+var mnemonic = "logic toy awful text top core grunt mass approve shoot behind calm";

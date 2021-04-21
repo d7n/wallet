@@ -1,1 +1,1 @@
-var mnemonic = "snack lady indicate impose knock mean fiber funny champion lawsuit crucial olive";
+var mnemonic = "begin paddle awful leader can congress test lamp practice remind dawn brisk";

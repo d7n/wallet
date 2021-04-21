@@ -1,1 +1,1 @@
-var mnemonic = "region mention vapor hamster catalog movie useless retire height final lesson forum";
+var mnemonic = "travel foot like snow guitar solution festival bag fatigue carbon sugar energy";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella two swing describe ancient immense romance runway mechanic humble slight tail";
+var mnemonic = "legal february like galaxy three churn junior occur swap wage pink wet";

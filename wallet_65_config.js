@@ -1,1 +1,1 @@
-var mnemonic = "flush gate olympic live dawn whale awesome timber add merit burden ill";
+var mnemonic = "sound mandate baby drastic hen crisp year tired bottom brand heart foam";

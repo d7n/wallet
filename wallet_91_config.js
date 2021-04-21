@@ -1,1 +1,1 @@
-var mnemonic = "drum rack eight shell twin harsh split clump armor solar creek bone";
+var mnemonic = "trim wreck kite room glimpse honey mother float snap clog resist edit";

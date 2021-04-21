@@ -1,1 +1,1 @@
-var mnemonic = "script coil hard child hurdle scare tunnel safe cup wide carpet celery";
+var mnemonic = "kind hollow matrix ignore leg eagle general antique kick type latin excite";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch hawk bicycle twist need profit menu buyer around adapt load ivory";
+var mnemonic = "edge rival rigid victory razor any absent train energy actor injury airport";

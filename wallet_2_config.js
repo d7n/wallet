@@ -1,1 +1,1 @@
-var mnemonic = "filter gaze nerve now beauty midnight jar mass voice glove flip neither";
+var mnemonic = "wife drift cigar hire release know deer aerobic cost pigeon tuna put";

@@ -1,1 +1,1 @@
-var mnemonic = "hat inside trigger fiscal shoot enemy own save castle faith private wash";
+var mnemonic = "front youth mix arrest joke grit exile obtain split sight parrot stone";

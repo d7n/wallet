@@ -1,1 +1,1 @@
-var mnemonic = "involve west try tourist appear rain royal below pet lizard risk above";
+var mnemonic = "erase kidney sort time correct essay hip marriage charge claw speak dream";

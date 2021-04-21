@@ -1,1 +1,1 @@
-var mnemonic = "seven stamp crystal tell simple danger lemon bamboo manage lazy glory flush";
+var mnemonic = "canyon recycle lunch drill kiwi salon tray hint ivory sunset net phrase";

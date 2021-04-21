@@ -1,1 +1,1 @@
-var mnemonic = "wink tattoo gate mutual merit often bind entire teach donkey entire price";
+var mnemonic = "prosper purse spread offer heavy step spy loan aspect west return aisle";

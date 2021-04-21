@@ -1,1 +1,1 @@
-var mnemonic = "burst glove embark night hollow admit dog cross shine engine lend happy";
+var mnemonic = "glare extra marriage evil false speed cupboard spray scan where zero flavor";

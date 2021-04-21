@@ -1,1 +1,1 @@
-var mnemonic = "address battle bomb notable apology ski old energy suit worry mirror below";
+var mnemonic = "school space clump lonely galaxy unveil about magic correct rely author cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage latin guide faith liar around drip pass fluid still salad coral";
+var mnemonic = "bullet velvet play scatter blame ozone ten super convince can friend jelly";

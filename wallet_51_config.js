@@ -1,1 +1,1 @@
-var mnemonic = "decade then coin flip report marriage concert scene blue extend search all";
+var mnemonic = "small build blood harbor guitar jealous extend hospital chief obscure cactus frog";

@@ -1,1 +1,1 @@
-var mnemonic = "secret humble today club bag rich nice off cake milk wrong avocado";
+var mnemonic = "autumn expose wagon drill spirit obvious ask domain sleep feel upon potato";

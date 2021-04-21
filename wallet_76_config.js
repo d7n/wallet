@@ -1,1 +1,1 @@
-var mnemonic = "other sting struggle glide spend ripple chest envelope style over film gate";
+var mnemonic = "live improve total divert weasel smart quote reopen civil mouse fee tragic";

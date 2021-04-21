@@ -1,1 +1,1 @@
-var mnemonic = "outside hawk planet suffer pause brain employ profit august since mimic symptom";
+var mnemonic = "shop must same aerobic cheese lab peace option load try can west";

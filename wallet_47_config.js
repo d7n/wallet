@@ -1,1 +1,1 @@
-var mnemonic = "pottery sketch typical lumber indoor cricket vital rubber rural twin child hurdle";
+var mnemonic = "fringe step that choose next empower act until present plug asset inner";
