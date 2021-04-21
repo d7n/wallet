@@ -1,1 +1,1 @@
-var mnemonic = "blush kite expect fault slab estate source result broom expand muffin trigger";
+var mnemonic = "eager cupboard deny cool desert kitten ring suit annual coconut ocean oval";

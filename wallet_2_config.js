@@ -1,1 +1,1 @@
-var mnemonic = "swamp devote option chunk cupboard bone guide best repair neutral logic illness";
+var mnemonic = "right key bar recipe define daring trigger spice silk ten february soda";

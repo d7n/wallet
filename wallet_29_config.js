@@ -1,1 +1,1 @@
-var mnemonic = "retire plate lizard stay shrimp dinner course width drip board vicious inmate";
+var mnemonic = "wage flight bench eager provide aspect book sun matter sweet sponsor insect";

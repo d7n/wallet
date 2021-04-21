@@ -1,1 +1,1 @@
-var mnemonic = "enjoy unhappy repeat follow essay neutral easy surface wife humor become praise";
+var mnemonic = "machine area obvious element elephant cloud scout gate exit burden quit boat";

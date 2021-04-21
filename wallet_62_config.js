@@ -1,1 +1,1 @@
-var mnemonic = "buffalo acoustic stable arrive mirror mouse road sauce faint peasant youth vintage";
+var mnemonic = "quarter tip carbon tattoo salute way jealous quarter wheat immune episode napkin";

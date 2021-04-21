@@ -1,1 +1,1 @@
-var mnemonic = "chair bounce prefer west artefact spoon suit later exit vacant club ability";
+var mnemonic = "vague gospel federal script trip snap zero inside paddle people ancient install";

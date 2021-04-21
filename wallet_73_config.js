@@ -1,1 +1,1 @@
-var mnemonic = "item fiction surface else decline six word trick tattoo trumpet rely swallow";
+var mnemonic = "board castle grape hotel shop false whale ribbon invest this suggest sustain";

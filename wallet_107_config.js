@@ -1,1 +1,1 @@
-var mnemonic = "company cancel tortoise educate camera rookie stereo envelope armor grain split lobster";
+var mnemonic = "parrot stem poet dice barely episode soft garbage alcohol dog animal unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy south leaf bamboo nasty dignity time sadness cube length social image";
+var mnemonic = "off juice cradle output program evoke offer cute pilot view valve situate";

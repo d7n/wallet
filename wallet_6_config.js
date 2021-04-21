@@ -1,1 +1,1 @@
-var mnemonic = "hazard cannon present stairs trim relax cross sweet under scan ill message";
+var mnemonic = "travel alter copy ten crouch gloom bomb drive cake bamboo exotic voice";

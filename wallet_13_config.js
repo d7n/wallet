@@ -1,1 +1,1 @@
-var mnemonic = "fatigue exhibit issue crash fat grab idle allow camp dismiss skin chuckle";
+var mnemonic = "collect emotion animal finger lock scatter ticket trust jacket remember faith shine";

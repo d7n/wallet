@@ -1,1 +1,1 @@
-var mnemonic = "horror thing blast vanish change place glove cloud verb toilet calm where";
+var mnemonic = "february bicycle poem wrist copper edge dentist tired usual protect check strong";

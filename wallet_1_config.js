@@ -1,1 +1,1 @@
-var mnemonic = "rice scrub wealth design farm divert tooth jar couch feed easily nuclear";
+var mnemonic = "maid horn feel wise danger finger access sudden inner confirm glass obscure";

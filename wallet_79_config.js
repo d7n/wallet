@@ -1,1 +1,1 @@
-var mnemonic = "pole tool wrist apology boss cry try casual anger outer keep fresh";
+var mnemonic = "list alter topple version mercy giant enhance girl tip answer cousin able";

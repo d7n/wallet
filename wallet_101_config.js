@@ -1,1 +1,1 @@
-var mnemonic = "place brisk runway velvet tourist catalog short another wisdom blouse patch connect";
+var mnemonic = "eternal cook stem pair virus time cheap cause spread hawk proof notable";

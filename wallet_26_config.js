@@ -1,1 +1,1 @@
-var mnemonic = "name coral give cluster choice help pond hire fiber ramp van impact";
+var mnemonic = "axis problem relax matter drive casino material retreat tent body gaze journey";

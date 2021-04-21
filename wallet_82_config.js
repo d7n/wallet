@@ -1,1 +1,1 @@
-var mnemonic = "soldier uniform cry pen treat bomb provide piano clip goose couple salt";
+var mnemonic = "basket aisle path night cement lottery dash hint then bullet party kidney";

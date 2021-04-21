@@ -1,1 +1,1 @@
-var mnemonic = "layer range boy few cup wave unfair anger smile rubber slam foam";
+var mnemonic = "drive ill huge student finish shrimp inspire theory month fiscal fish tired";

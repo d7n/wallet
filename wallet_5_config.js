@@ -1,1 +1,1 @@
-var mnemonic = "cost crop income holiday old gap ripple island fresh jaguar link envelope";
+var mnemonic = "hole when ugly feed staff tired armor crisp live yellow strike crater";

@@ -1,1 +1,1 @@
-var mnemonic = "wing later usual bitter impose hockey resemble album swing sword glad forum";
+var mnemonic = "scale cool saddle punch tiny hurry taste cause zone promote ancient guide";

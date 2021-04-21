@@ -1,1 +1,1 @@
-var mnemonic = "sting combine dirt subway donate patrol text fabric ahead adapt tip refuse";
+var mnemonic = "please raw throw capital mechanic fetch mosquito coin such color common usage";

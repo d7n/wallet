@@ -1,1 +1,1 @@
-var mnemonic = "biology month space bridge object number surge garbage panther reject behind ill";
+var mnemonic = "stable senior draw odor ahead census exotic basic galaxy side hood assault";

@@ -1,1 +1,1 @@
-var mnemonic = "adult stereo bind inhale wolf penalty story ridge name trial measure reveal";
+var mnemonic = "obscure must girl maze horror ill someone joy select remain city thunder";

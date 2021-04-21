@@ -1,1 +1,1 @@
-var mnemonic = "pave course rotate robust foster luxury dream table tiger worth machine gold";
+var mnemonic = "boring forest sauce ask glory leisure nephew limit fan region evil indicate";

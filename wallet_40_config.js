@@ -1,1 +1,1 @@
-var mnemonic = "trouble bench seat crouch attitude frame disagree someone exchange best actress aspect";
+var mnemonic = "thank boat market glad forum zero mimic pumpkin apple wide inch poverty";

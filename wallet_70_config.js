@@ -1,1 +1,1 @@
-var mnemonic = "vendor immense demise narrow element input toy loan average grocery gloom sport";
+var mnemonic = "million easily stadium lemon slush much easily scrap royal increase surface cannon";

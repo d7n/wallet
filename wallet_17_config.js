@@ -1,1 +1,1 @@
-var mnemonic = "carpet select kitten play deal dad fold mass lesson hidden option major";
+var mnemonic = "network perfect crystal hotel curve whisper adult sort border wool sort purity";

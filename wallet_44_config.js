@@ -1,1 +1,1 @@
-var mnemonic = "random devote dinosaur hamster neck sell ketchup student rich attend undo novel";
+var mnemonic = "earn correct such venue mask awkward media crisp kidney certain globe extra";

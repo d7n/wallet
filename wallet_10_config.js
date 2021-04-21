@@ -1,1 +1,1 @@
-var mnemonic = "arctic search defense stone scout minimum hobby verify vivid rookie rate roast";
+var mnemonic = "easy talk flower convince album among table country vacant enjoy dirt habit";

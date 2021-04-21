@@ -1,1 +1,1 @@
-var mnemonic = "enemy search era behind ostrich air install forward discover scare game mass";
+var mnemonic = "cushion velvet bubble zoo connect clerk card arrest market mention elevator tone";

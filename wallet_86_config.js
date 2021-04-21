@@ -1,1 +1,1 @@
-var mnemonic = "van airport base square yard have coconut example monster stereo guard never";
+var mnemonic = "penalty hollow tribe enlist sleep valve army meadow march chapter alter lion";

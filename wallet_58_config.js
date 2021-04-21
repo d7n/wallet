@@ -1,1 +1,1 @@
-var mnemonic = "clutch zebra ship pass absurd change noble mammal group junior slab ginger";
+var mnemonic = "fog skill annual final act pencil yard hair muscle antique zone border";

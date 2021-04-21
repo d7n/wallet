@@ -1,1 +1,1 @@
-var mnemonic = "close stage twenty identify rival enter hockey true volume urge stand okay";
+var mnemonic = "test couple wrist clutch wait scare daughter skull axis worth cancel arrive";

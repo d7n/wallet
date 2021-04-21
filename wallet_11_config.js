@@ -1,1 +1,1 @@
-var mnemonic = "swear enforce resist aunt cricket aerobic protect net dance rather fox mobile";
+var mnemonic = "way verb better this sausage name urge nasty album vast cricket cigar";

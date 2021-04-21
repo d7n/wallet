@@ -1,1 +1,1 @@
-var mnemonic = "blanket same kit unit warfare purchase day protect toy jacket plastic ask";
+var mnemonic = "book cannon cigar leg beyond tobacco surge drum vocal fresh bounce glory";

@@ -1,1 +1,1 @@
-var mnemonic = "audit seed size fruit define stable tell drop catalog renew useful this";
+var mnemonic = "trust skate shed critic scrub baby barrel exit leg decade spot radio";

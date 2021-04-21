@@ -1,1 +1,1 @@
-var mnemonic = "frame alley stove pupil erode affair this pulse portion trap aerobic cricket";
+var mnemonic = "young leader spring harvest slogan clarify major blue ill replace fox maple";

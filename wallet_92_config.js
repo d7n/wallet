@@ -1,1 +1,1 @@
-var mnemonic = "away pony vessel antenna ripple praise duck sting okay choice awake young";
+var mnemonic = "cause vibrant decrease room pyramid hurdle habit assault disease know inside fringe";

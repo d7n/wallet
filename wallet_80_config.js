@@ -1,1 +1,1 @@
-var mnemonic = "fruit assault salt spider cargo shield scale clay enter cradle kit beyond";
+var mnemonic = "cherry vault volcano summer foil question valid inner cost rural thing excess";

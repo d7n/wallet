@@ -1,1 +1,1 @@
-var mnemonic = "buffalo push abstract album sheriff slim garage video spatial skull sweet pave";
+var mnemonic = "detect lady normal vibrant lion shoulder trash tail river illegal kiss radar";

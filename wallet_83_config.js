@@ -1,1 +1,1 @@
-var mnemonic = "foam digital battle receive under return bubble relax detect sure father win";
+var mnemonic = "maze element asset scatter canoe supreme kiwi toward purity mind smooth alone";

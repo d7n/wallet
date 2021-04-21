@@ -1,1 +1,1 @@
-var mnemonic = "suffer utility grab diesel umbrella tired dad naive item camera steel hybrid";
+var mnemonic = "soft theme odor town alarm drastic leisure fortune oppose cash scout joy";

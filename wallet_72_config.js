@@ -1,1 +1,1 @@
-var mnemonic = "mimic narrow marine perfect abandon credit priority erode general pill slow accident";
+var mnemonic = "order one sponsor market stove pitch milk spider donor lock length response";

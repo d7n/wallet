@@ -1,1 +1,1 @@
-var mnemonic = "noble arm tonight shock vacant hover oval forum suit easy left ginger";
+var mnemonic = "lens library friend coast trumpet amateur join license rent mushroom ordinary night";

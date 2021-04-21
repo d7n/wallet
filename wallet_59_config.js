@@ -1,1 +1,1 @@
-var mnemonic = "wasp ahead pill vast spring check metal enemy common picture buyer quarter";
+var mnemonic = "sort permit wedding mention abstract viable brave neglect purse repeat snow wreck";

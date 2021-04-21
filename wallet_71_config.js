@@ -1,1 +1,1 @@
-var mnemonic = "chuckle faint total cash antique unveil rough lens swarm balcony fortune caution";
+var mnemonic = "produce idle erupt move lemon range clog civil artist humble figure cave";

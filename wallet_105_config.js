@@ -1,1 +1,1 @@
-var mnemonic = "peanut fade bid pizza move sure butter drum convince pudding produce alpha";
+var mnemonic = "draft purity auto way hand crane wash circle ticket this odor march";

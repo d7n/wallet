@@ -1,1 +1,1 @@
-var mnemonic = "isolate joke canal birth violin news permit moral exclude basket miracle symbol";
+var mnemonic = "easy cereal satoshi bachelor faculty fatigue crazy swallow devote horse enemy future";

@@ -1,1 +1,1 @@
-var mnemonic = "where estate benefit punch elephant dice rich page symbol frequent erode general";
+var mnemonic = "page stamp into genuine screen loyal cement convince spoil express method patch";

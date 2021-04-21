@@ -1,1 +1,1 @@
-var mnemonic = "palace split total main lamp pudding portion west shaft child lecture point";
+var mnemonic = "guilt hover obey wing paddle wish mass deny task shift fancy filter";

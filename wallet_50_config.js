@@ -1,1 +1,1 @@
-var mnemonic = "congress auto market once anchor space ivory urge faint example subject situate";
+var mnemonic = "mixture snow fashion learn never fat opinion staff practice cluster place gasp";

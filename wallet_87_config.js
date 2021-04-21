@@ -1,1 +1,1 @@
-var mnemonic = "switch noodle blanket iron foster fun gauge almost action prepare demand family";
+var mnemonic = "decrease bacon account doll happy sunset prepare reflect prison cargo follow rotate";

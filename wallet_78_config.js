@@ -1,1 +1,1 @@
-var mnemonic = "win rough museum penalty timber faith lucky security steak tail check hedgehog";
+var mnemonic = "join amused various cream bicycle cigar accident alarm enforce message grit tag";

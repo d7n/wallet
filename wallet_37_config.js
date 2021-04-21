@@ -1,1 +1,1 @@
-var mnemonic = "circle hammer noise bag vote grain sketch limb copy ring hollow renew";
+var mnemonic = "topple volume possible inherit february try camera trade size method harsh naive";

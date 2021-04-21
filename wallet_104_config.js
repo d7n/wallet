@@ -1,1 +1,1 @@
-var mnemonic = "noodle nurse verify doctor beef review rate pool rigid design mutual gallery";
+var mnemonic = "thunder reward action trend girl hamster mother father biology spike hollow helmet";

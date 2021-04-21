@@ -1,1 +1,1 @@
-var mnemonic = "world office priority broom cargo pulse salad video fuel dynamic outer mention";
+var mnemonic = "emotion business learn wonder quick hobby curious settle shaft above excess enforce";

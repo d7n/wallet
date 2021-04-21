@@ -1,1 +1,1 @@
-var mnemonic = "popular slush arctic problem fabric tourist civil like tuna hungry planet ahead";
+var mnemonic = "cushion transfer warfare fee autumn spice fox window bargain job escape carry";

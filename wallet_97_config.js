@@ -1,1 +1,1 @@
-var mnemonic = "silent seat slogan curve ankle rely evidence peace tower cricket observe lizard";
+var mnemonic = "blame opera leaf hamster fan seminar earth sure resemble eternal throw sign";

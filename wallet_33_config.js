@@ -1,1 +1,1 @@
-var mnemonic = "equal replace cost toast water spin document army six walnut taste trumpet";
+var mnemonic = "express echo ankle casual correct dove ivory kidney surprise infant chaos swing";

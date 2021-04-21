@@ -1,1 +1,1 @@
-var mnemonic = "wave female unfold theory virus focus swarm mouse vacuum scout property pulp";
+var mnemonic = "decorate abandon tourist leisure move kiwi maximum behind blame only capital success";

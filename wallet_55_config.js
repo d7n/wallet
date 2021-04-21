@@ -1,1 +1,1 @@
-var mnemonic = "jazz arrive clump suggest angle zebra comfort blast never mystery flavor siege";
+var mnemonic = "bomb approve degree shed spoon random sheriff attend forum raise chest ridge";

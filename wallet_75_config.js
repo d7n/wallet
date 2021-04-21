@@ -1,1 +1,1 @@
-var mnemonic = "tube quit apple spoon forest success buffalo book actual pluck dress guitar";
+var mnemonic = "ugly yellow reject aware sock jar rose planet inform plunge neck almost";

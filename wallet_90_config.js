@@ -1,1 +1,1 @@
-var mnemonic = "dice remove situate scorpion hint like harsh corn digital worth love jungle";
+var mnemonic = "suffer primary coconut current shy later hurry menu lumber napkin stamp twist";

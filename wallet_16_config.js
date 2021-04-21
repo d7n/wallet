@@ -1,1 +1,1 @@
-var mnemonic = "either voice tornado test road trade gentle urban inside retire author fence";
+var mnemonic = "matrix also satoshi about panel traffic detect meat strong pet spoon dry";

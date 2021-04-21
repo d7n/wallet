@@ -1,1 +1,1 @@
-var mnemonic = "struggle matter tourist inquiry best explain tiny toe ticket mule deal draw";
+var mnemonic = "disagree essay rack lunch they unknown bundle season kangaroo sauce wild syrup";

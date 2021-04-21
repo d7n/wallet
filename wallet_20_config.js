@@ -1,1 +1,1 @@
-var mnemonic = "float shift ability curtain collect pudding wrong couch weekend explain mushroom random";
+var mnemonic = "wealth style sunset tree swarm invest metal online about fossil extra attract";

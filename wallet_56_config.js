@@ -1,1 +1,1 @@
-var mnemonic = "ten snake essay taste label clean record reject combine wall dwarf plug";
+var mnemonic = "move beach mother fork curtain dolphin cricket shell lens amazing ocean lake";

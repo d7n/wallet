@@ -1,1 +1,1 @@
-var mnemonic = "obey abstract nerve bulk surprise island often approve ensure material bitter airport";
+var mnemonic = "network saddle voice aunt cave wide bag account panda end convince engine";

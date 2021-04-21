@@ -1,1 +1,1 @@
-var mnemonic = "taxi south drink holiday hunt august convince curious soda solution hidden science";
+var mnemonic = "notice thrive leg joy enforce ignore purity bicycle comfort woman snake answer";

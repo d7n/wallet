@@ -1,1 +1,1 @@
-var mnemonic = "grape lion permit assault open violin repeat tool public wedding relax promote";
+var mnemonic = "bacon black gold fork joy bonus together marine logic empty blast oak";

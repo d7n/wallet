@@ -1,1 +1,1 @@
-var mnemonic = "citizen swap crowd case alert demand praise throw oblige light buffalo enjoy";
+var mnemonic = "salon myself unit spawn pretty word antique found price recycle distance cabin";

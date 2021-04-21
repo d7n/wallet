@@ -1,1 +1,1 @@
-var mnemonic = "head economy involve grief fantasy stamp weapon actor refuse mango couch notice";
+var mnemonic = "race edit such unfair polar bike dress hand dinner notice spy tuna";

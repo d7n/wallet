@@ -1,1 +1,1 @@
-var mnemonic = "urge plunge attend capable garlic hobby business mansion undo true pyramid video";
+var mnemonic = "furnace offer stable fence siren they scene frown income speak baby side";

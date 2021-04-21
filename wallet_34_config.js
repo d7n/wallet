@@ -1,1 +1,1 @@
-var mnemonic = "discover young inspire share about cruel dog coconut tag fame boss view";
+var mnemonic = "subway often pencil excuse inside arrive tobacco naive fiction allow stick inquiry";

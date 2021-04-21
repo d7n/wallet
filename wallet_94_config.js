@@ -1,1 +1,1 @@
-var mnemonic = "agree project powder frame zone rug design across resist panic rubber quarter";
+var mnemonic = "plastic genius peace issue prosper lobster surge elevator grocery taste find vintage";

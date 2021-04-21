@@ -1,1 +1,1 @@
-var mnemonic = "harsh atom open amazing tattoo science rather age valley connect major leg";
+var mnemonic = "slab soap salad rare donkey run express debris uncover lab conduct quit";

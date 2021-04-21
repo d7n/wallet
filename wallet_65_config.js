@@ -1,1 +1,1 @@
-var mnemonic = "stairs drift topic ethics month garbage renew image decrease cake bag bread";
+var mnemonic = "inch certain tube worry tunnel expose noodle destroy cup cruel render position";

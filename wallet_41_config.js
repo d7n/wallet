@@ -1,1 +1,1 @@
-var mnemonic = "cause wire between fix vote exercise attend impose wall potato enforce excite";
+var mnemonic = "when coin inspire vessel shoulder risk radio bean cargo cricket client menu";

@@ -1,1 +1,1 @@
-var mnemonic = "salon cliff typical sibling jungle business tooth table like weather media confirm";
+var mnemonic = "address insect social have tackle whale six bundle shiver ahead volume retire";

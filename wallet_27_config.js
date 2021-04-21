@@ -1,1 +1,1 @@
-var mnemonic = "stay old keep protect silk exist video lucky lesson glory digital spy";
+var mnemonic = "diagram defense color crush kitten salt garment depth zebra lend onion beef";

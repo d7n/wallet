@@ -1,1 +1,1 @@
-var mnemonic = "bicycle mask scout swing alpha bike season broccoli attend guilt hello air";
+var mnemonic = "split goose garden typical there shoot phrase rug metal tourist control raise";

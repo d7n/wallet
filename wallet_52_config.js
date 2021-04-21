@@ -1,1 +1,1 @@
-var mnemonic = "book decade swap time cargo toast track reason law shaft parent crush";
+var mnemonic = "around reunion retreat smart frog divide fish radio master crumble occur brown";

@@ -1,1 +1,1 @@
-var mnemonic = "debate extra enemy sunset brave health tenant narrow spider federal duck employ";
+var mnemonic = "soon move absorb thrive saddle mule wealth glad swift funny junior element";

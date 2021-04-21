@@ -1,1 +1,1 @@
-var mnemonic = "crack blouse adult infant tell zebra walk mercy wheel auto twin opera";
+var mnemonic = "tell top position attract grit tomorrow nice north rival echo secret twin";

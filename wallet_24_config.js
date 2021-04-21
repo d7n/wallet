@@ -1,1 +1,1 @@
-var mnemonic = "caught noble special document excess coil category please broom busy ivory devote";
+var mnemonic = "cancel prevent zoo camp slight flush kangaroo retreat fruit rubber spawn palm";

@@ -1,1 +1,1 @@
-var mnemonic = "camera sugar broom below hen target quality unfair actual pitch forest december";
+var mnemonic = "family mercy anxiety exhaust decide empty skirt mixture leave panda damp hidden";

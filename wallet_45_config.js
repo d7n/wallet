@@ -1,1 +1,1 @@
-var mnemonic = "clay photo life room space ostrich burden source tuna casino process romance";
+var mnemonic = "moral daring design can toast donkey lemon mouse clip refuse chief monkey";

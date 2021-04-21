@@ -1,1 +1,1 @@
-var mnemonic = "hungry aware turtle attack hammer paddle display truck buffalo mercy boring chicken";
+var mnemonic = "festival civil cross atom enrich cannon empty tumble sword slush reunion cotton";

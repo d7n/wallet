@@ -1,1 +1,1 @@
-var mnemonic = "more hurry foot escape immune tenant jealous suspect observe desert glad prepare";
+var mnemonic = "lawn key cause moral critic invest north merry seat rotate reduce render";

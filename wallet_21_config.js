@@ -1,1 +1,1 @@
-var mnemonic = "actual visa chronic pull pitch action frost kiwi approve more moon cake";
+var mnemonic = "share segment spread space giraffe price slogan lake priority need sick build";

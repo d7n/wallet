@@ -1,1 +1,1 @@
-var mnemonic = "light vault praise cart zoo equal transfer orphan country loop allow tissue";
+var mnemonic = "essence online coach notable ritual civil acoustic trumpet dizzy senior original dismiss";

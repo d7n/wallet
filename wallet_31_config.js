@@ -1,1 +1,1 @@
-var mnemonic = "increase dignity cherry minor usual discover farm six napkin object cargo floor";
+var mnemonic = "destroy vessel peasant tank screen pioneer galaxy vanish dream almost evoke welcome";
