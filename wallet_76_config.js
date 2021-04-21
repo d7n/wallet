@@ -1,1 +1,1 @@
-var mnemonic = "zone dash change birth permit analyst exhaust tip mule hen bunker eagle";
+var mnemonic = "hurt spider blade right arena piece quiz field convince refuse list drive";

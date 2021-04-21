@@ -1,1 +1,1 @@
-var mnemonic = "pigeon loan start sudden gadget vault also face kangaroo ancient fence live";
+var mnemonic = "produce miracle flush label despair tail age borrow figure road obvious basket";

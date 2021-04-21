@@ -1,1 +1,1 @@
-var mnemonic = "lawn bridge capable return half move hat vague clap usage west kangaroo";
+var mnemonic = "media expect hurdle ecology spare security rural deposit flavor essence agent sadness";

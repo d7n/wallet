@@ -1,1 +1,1 @@
-var mnemonic = "pave present piano photo myself track chase panel board sure dress song";
+var mnemonic = "sketch head spawn embark hawk bunker awful erupt vibrant daughter lonely guilt";

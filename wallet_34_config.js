@@ -1,1 +1,1 @@
-var mnemonic = "cabin gold evil shrimp must dice mushroom faculty drink advance cross second";
+var mnemonic = "weasel brother fever asthma sea enlist matter puppy coral tornado crane purse";

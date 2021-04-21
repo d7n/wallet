@@ -1,1 +1,1 @@
-var mnemonic = "rhythm type run radio hospital local senior armor bless list exercise tent";
+var mnemonic = "scrub rice gadget erode service repair artefact runway orphan rate truck until";

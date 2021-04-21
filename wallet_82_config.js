@@ -1,1 +1,1 @@
-var mnemonic = "urge film earth mobile sad conduct always snack quiz furnace side famous";
+var mnemonic = "artwork silent ribbon girl home century arch knock electric nest crater great";

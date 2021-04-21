@@ -1,1 +1,1 @@
-var mnemonic = "cost breeze rhythm lunar party output march cluster sibling action barrel drift";
+var mnemonic = "square auction asset state battle exotic ugly agree shiver boy reunion tomato";

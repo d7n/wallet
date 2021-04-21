@@ -1,1 +1,1 @@
-var mnemonic = "gallery act useful squeeze toddler wave maple hurdle door script crack suspect";
+var mnemonic = "use edit blame load coral nominee scout level unknown black cool reward";

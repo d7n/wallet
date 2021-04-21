@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow total size column inch again expose popular carry salon room night";
+var mnemonic = "enjoy seat embrace theory doctor wine physical legend acquire note cat rigid";

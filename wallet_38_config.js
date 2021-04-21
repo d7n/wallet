@@ -1,1 +1,1 @@
-var mnemonic = "dwarf day sauce talk eyebrow tape apple goat flush file now drift";
+var mnemonic = "tent rely save visa adjust flame meadow void curve tenant mesh tissue";

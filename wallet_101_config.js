@@ -1,1 +1,1 @@
-var mnemonic = "drink theme reopen danger reopen middle logic blade hazard sing nuclear lend";
+var mnemonic = "drastic entry wife object piece frost age combine soft prevent other praise";

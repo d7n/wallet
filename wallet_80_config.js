@@ -1,1 +1,1 @@
-var mnemonic = "parent today own glass pottery pill copper bone trick monster planet volume";
+var mnemonic = "frame unique govern birth cradle educate aunt tail garden innocent system village";

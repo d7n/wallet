@@ -1,1 +1,1 @@
-var mnemonic = "outer rural raccoon sock refuse include damage million enemy bitter insane horn";
+var mnemonic = "river auction hedgehog fresh edit glow spider episode harbor purchase image robust";

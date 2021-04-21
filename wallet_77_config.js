@@ -1,1 +1,1 @@
-var mnemonic = "disorder safe orient double student category apple lamp drill custom immense charge";
+var mnemonic = "pelican half cushion disease luxury april walk twelve wet basket into fluid";

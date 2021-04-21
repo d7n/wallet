@@ -1,1 +1,1 @@
-var mnemonic = "vanish peasant metal devote teach company rebel item tube jewel salmon multiply";
+var mnemonic = "problem idea legend stumble nerve drop celery render coin humor tribe cash";

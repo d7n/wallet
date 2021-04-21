@@ -1,1 +1,1 @@
-var mnemonic = "unaware mean chimney tail half accident hire tackle shallow provide immune rescue";
+var mnemonic = "diet charge sort focus deputy century link ugly swift because throw ill";

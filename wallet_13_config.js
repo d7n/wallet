@@ -1,1 +1,1 @@
-var mnemonic = "drop champion vast layer chapter poem urge cost juice collect lazy adjust";
+var mnemonic = "sample grunt maze tiger vast stuff mix wool ecology boring frown labor";

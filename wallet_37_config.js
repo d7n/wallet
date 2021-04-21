@@ -1,1 +1,1 @@
-var mnemonic = "abstract ripple taxi length claw inspire border join medal pioneer seminar dance";
+var mnemonic = "monkey change swim spin giggle screen hedgehog detect acquire border slide always";

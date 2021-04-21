@@ -1,1 +1,1 @@
-var mnemonic = "extra convince mention artwork fitness domain student youth earth income public actress";
+var mnemonic = "range rhythm idea sock dream burden spy explain lamp catalog maze federal";

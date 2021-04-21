@@ -1,1 +1,1 @@
-var mnemonic = "visa bird radar eager cream danger square sustain mansion final cushion bullet";
+var mnemonic = "album rather marriage sell hip fruit doctor teach color kitchen act tool";

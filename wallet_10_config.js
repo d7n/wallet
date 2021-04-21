@@ -1,1 +1,1 @@
-var mnemonic = "blouse valid asset diet trend parent core next history bike arena churn";
+var mnemonic = "thrive blame horn sell wrong daring modify moment market luggage depth coyote";

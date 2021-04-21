@@ -1,1 +1,1 @@
-var mnemonic = "cave try taste embark fat rural ripple female fortune ancient image twin";
+var mnemonic = "fury under coast annual vivid rule shoot border sport program unveil pistol";

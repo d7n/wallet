@@ -1,1 +1,1 @@
-var mnemonic = "mosquito render smooth feel lawsuit throw speed couple liberty cattle engage lava";
+var mnemonic = "inflict there olive kitchen zero stove power resist apology erase future cloth";

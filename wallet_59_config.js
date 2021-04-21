@@ -1,1 +1,1 @@
-var mnemonic = "scissors need fatigue decade whale effort pistol used amateur raccoon anxiety pluck";
+var mnemonic = "flush keep egg hawk suit camp crop coconut lunar turkey hobby super";

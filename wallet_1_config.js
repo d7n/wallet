@@ -1,1 +1,1 @@
-var mnemonic = "suit tuna luxury patient genius ribbon parade believe catalog injury orange zoo";
+var mnemonic = "hurt rookie glass run proud wasp hedgehog toward traffic syrup ship sadness";

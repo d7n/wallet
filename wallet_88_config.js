@@ -1,1 +1,1 @@
-var mnemonic = "radar crouch casual vivid amount grit very charge submit material permit load";
+var mnemonic = "attend wrist letter example float diagram cigar rival tumble tomato swarm lava";

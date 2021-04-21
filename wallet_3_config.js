@@ -1,1 +1,1 @@
-var mnemonic = "cup quiz spawn endorse become lake ancient lonely repair flight tell walnut";
+var mnemonic = "buddy increase rifle speed pink address fresh rabbit gorilla travel husband peace";

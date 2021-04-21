@@ -1,1 +1,1 @@
-var mnemonic = "oil vault tail hub screen rain gorilla venture team engine salad genius";
+var mnemonic = "awake olympic chase seven wrong expire bicycle badge smooth occur brass cherry";

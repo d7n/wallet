@@ -1,1 +1,1 @@
-var mnemonic = "print acquire museum inmate true cannon enforce awesome sing roof domain nut";
+var mnemonic = "fruit bracket candy motion human unique execute parent enlist chronic glory child";

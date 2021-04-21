@@ -1,1 +1,1 @@
-var mnemonic = "lock umbrella actual distance hill panel morning erosion vote sea judge clap";
+var mnemonic = "guide merry floor camp aspect myself bulb chest ranch ensure aim crater";

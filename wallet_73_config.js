@@ -1,1 +1,1 @@
-var mnemonic = "elegant shoulder oven narrow scheme spring comfort tide method blade develop alley";
+var mnemonic = "lion tissue core salt excuse tomato smooth home forget rib toss frequent";

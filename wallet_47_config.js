@@ -1,1 +1,1 @@
-var mnemonic = "catalog jealous maximum either dismiss flat badge demise bachelor climb also human";
+var mnemonic = "budget scan blush topple color visa civil neglect ahead nut shaft reform";

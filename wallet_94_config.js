@@ -1,1 +1,1 @@
-var mnemonic = "tray current knife liquid wheel net black arctic carpet shed furnace buzz";
+var mnemonic = "inspire judge come year rely stage boil amount pupil weapon chicken tired";

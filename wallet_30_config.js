@@ -1,1 +1,1 @@
-var mnemonic = "melody endless resource wreck detect panic spawn unit attract cool pass choose";
+var mnemonic = "chalk lift fuel vehicle slender daughter bus grass liquid tackle thought jewel";

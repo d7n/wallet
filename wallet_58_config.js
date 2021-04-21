@@ -1,1 +1,1 @@
-var mnemonic = "entire target can owner swarm color riot shoe bless shiver genre wagon";
+var mnemonic = "upgrade total melt allow goat negative sheriff scene acquire pistol solid anger";

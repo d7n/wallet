@@ -1,1 +1,1 @@
-var mnemonic = "budget similar upgrade tumble close increase grow fault seat defense inner deputy";
+var mnemonic = "surround benefit chest vanish crisp scatter gown sausage brief fun also hero";

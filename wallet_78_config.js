@@ -1,1 +1,1 @@
-var mnemonic = "meat dynamic spy benefit check hole loan oven achieve joke clever shop";
+var mnemonic = "explain extra stumble weekend deputy pull push bike pilot rib idea mystery";

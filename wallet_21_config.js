@@ -1,1 +1,1 @@
-var mnemonic = "basic dice pitch border toward horror sausage exhibit remind knee avocado grid";
+var mnemonic = "apple actress frame smile nut shaft gown demise crumble alone bus clutch";

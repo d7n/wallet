@@ -1,1 +1,1 @@
-var mnemonic = "peanut chronic olive faith broom audit hockey body border taxi summer moment";
+var mnemonic = "cool there quote kiss gesture park company tent enemy present length song";

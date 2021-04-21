@@ -1,1 +1,1 @@
-var mnemonic = "chronic silver chair fuel pause slight protect volume teach opinion wagon lecture";
+var mnemonic = "reveal vivid coconut strong awake swamp erase apology scrap camera garlic goose";

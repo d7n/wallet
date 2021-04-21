@@ -1,1 +1,1 @@
-var mnemonic = "learn inform feature beef admit snack guilt soldier announce harsh front dinosaur";
+var mnemonic = "pet slush use time mother spatial uncover language weekend same six release";

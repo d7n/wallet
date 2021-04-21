@@ -1,1 +1,1 @@
-var mnemonic = "canyon maze slam rebuild rib wheat erosion manual deposit artist soap bright";
+var mnemonic = "poem engine flash various game crew cargo rain laugh excite forward task";

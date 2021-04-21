@@ -1,1 +1,1 @@
-var mnemonic = "forget income able acquire machine adapt grit region sound bridge resist indoor";
+var mnemonic = "shoulder permit december cheese suggest state armed cost arena alley add casino";

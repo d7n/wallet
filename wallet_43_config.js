@@ -1,1 +1,1 @@
-var mnemonic = "near day purchase volcano emerge scrub habit core ankle gorilla gold double";
+var mnemonic = "exhaust breeze destroy release cricket carry cook bulb volcano south orphan alert";

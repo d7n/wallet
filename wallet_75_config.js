@@ -1,1 +1,1 @@
-var mnemonic = "senior destroy human exile sail album soft awake have knock soup unknown";
+var mnemonic = "immense kind miracle kiwi bulb rotate limb insect edge shine trial ball";

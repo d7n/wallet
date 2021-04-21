@@ -1,1 +1,1 @@
-var mnemonic = "filter roast amused cricket expand album rare napkin decrease spare combine banana";
+var mnemonic = "joy hollow nuclear burger dust iron pizza planet century boost ball try";

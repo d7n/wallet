@@ -1,1 +1,1 @@
-var mnemonic = "alley piece discover example junk matrix report bid burst differ skin unlock";
+var mnemonic = "punch draft faint round acquire worth garlic shy vital pluck make human";

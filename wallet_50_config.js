@@ -1,1 +1,1 @@
-var mnemonic = "tent olympic blade glove liquid game anchor faculty service miracle blanket true";
+var mnemonic = "loyal border wonder carbon tell figure wonder interest robot cup cheese elite";

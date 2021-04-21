@@ -1,1 +1,1 @@
-var mnemonic = "way ball chest expose split glow rubber umbrella lunch shop earth pulse";
+var mnemonic = "knock grunt world venue trap hold absent bulb slot write install convince";

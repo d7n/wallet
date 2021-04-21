@@ -1,1 +1,1 @@
-var mnemonic = "moment crew dirt assume guitar payment squirrel iron lesson obtain swear song";
+var mnemonic = "rival decline street major finish hold virus control comic rhythm coach zoo";

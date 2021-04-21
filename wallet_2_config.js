@@ -1,1 +1,1 @@
-var mnemonic = "saddle coffee next bless outer armor smooth grape jacket say apart upset";
+var mnemonic = "empty exclude lady express forum avoid ignore mobile access truck lock design";

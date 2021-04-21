@@ -1,1 +1,1 @@
-var mnemonic = "renew leave isolate point armed all hover arrange indicate seed century picnic";
+var mnemonic = "injury cash draft avoid sheriff provide ozone power cycle mosquito fever slide";

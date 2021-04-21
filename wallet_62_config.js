@@ -1,1 +1,1 @@
-var mnemonic = "sleep pledge hat clarify tower win people super gallery mountain tonight purpose";
+var mnemonic = "vote garage sketch person mistake index catalog thrive modify dentist guitar seat";

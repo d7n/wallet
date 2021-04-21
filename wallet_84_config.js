@@ -1,1 +1,1 @@
-var mnemonic = "oblige ivory tongue cigar dash phone nasty unaware repeat glare borrow heart";
+var mnemonic = "kangaroo bulk catalog install planet sick dirt kind reunion poverty chronic meat";

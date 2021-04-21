@@ -1,1 +1,1 @@
-var mnemonic = "average dial hospital coin kit crunch sorry you clog animal impact argue";
+var mnemonic = "cabbage effort situate title try plug network bracket radio popular box cake";

@@ -1,1 +1,1 @@
-var mnemonic = "foam iron trophy replace shed town girl cool task puppy affair poem";
+var mnemonic = "unveil elbow demise flush faculty mad broccoli scorpion else canyon extra main";

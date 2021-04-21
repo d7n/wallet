@@ -1,1 +1,1 @@
-var mnemonic = "dilemma like sock token mandate leave subway zero secret furnace guess example";
+var mnemonic = "phone cycle enact version little barely wasp foil cycle dance excuse taxi";

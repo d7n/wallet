@@ -1,1 +1,1 @@
-var mnemonic = "unable divorce misery chat arrest grain glad grain honey stadium walk insect";
+var mnemonic = "hotel reflect history then calm axis click globe course fiscal initial general";

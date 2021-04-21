@@ -1,1 +1,1 @@
-var mnemonic = "glass slide rough enrich crisp address jeans goddess can gospel shoot blur";
+var mnemonic = "apple dizzy happy abstract business sail cattle story refuse budget economy tent";

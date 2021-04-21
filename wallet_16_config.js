@@ -1,1 +1,1 @@
-var mnemonic = "guilt warm say kidney harsh music earn auction post clock senior cupboard";
+var mnemonic = "orchard like cash tragic scissors file senior lift absent country upon decline";

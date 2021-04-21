@@ -1,1 +1,1 @@
-var mnemonic = "error behave praise void response shoe fall home fossil panic bird popular";
+var mnemonic = "effort prize skill trend suit source settle half minor glad express hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "learn program reflect check child whisper melt resource toddler error clown topic";
+var mnemonic = "venue snake yard game certain reason place dust pelican pact scatter acoustic";

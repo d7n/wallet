@@ -1,1 +1,1 @@
-var mnemonic = "cash age relief save direct broom tank jungle few safe hand ugly";
+var mnemonic = "gate language miss coffee wood phone foam regret cushion elevator measure scare";

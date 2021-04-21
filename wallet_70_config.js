@@ -1,1 +1,1 @@
-var mnemonic = "deer will gorilla place skirt key staff reject crowd canal slow burst";
+var mnemonic = "apart cash spirit media federal stumble shrug purse shield heart stone sign";

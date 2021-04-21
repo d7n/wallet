@@ -1,1 +1,1 @@
-var mnemonic = "water elephant wrestle ship library reject assault tumble fan garbage mystery decline";
+var mnemonic = "physical wrist hundred best easily winner acoustic any hand label token advice";

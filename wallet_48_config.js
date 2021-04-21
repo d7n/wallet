@@ -1,1 +1,1 @@
-var mnemonic = "expect sort guitar budget endorse marine bubble bargain knock spy laundry loyal";
+var mnemonic = "achieve because token bus depend shine plate embrace boat glide castle interest";

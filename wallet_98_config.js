@@ -1,1 +1,1 @@
-var mnemonic = "afraid tone loyal student find view grape copper adult arm slight wire";
+var mnemonic = "easily era power secret caution dinosaur employ arm lottery drip juice hospital";

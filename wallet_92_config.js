@@ -1,1 +1,1 @@
-var mnemonic = "vapor buzz fault afraid mobile fish enlist tornado dash arrest wrist slice";
+var mnemonic = "bounce width decrease post robot strike caught shrug loyal census real math";

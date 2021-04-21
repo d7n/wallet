@@ -1,1 +1,1 @@
-var mnemonic = "vapor explain capable identify desert kiwi scale thought orchard figure clean someone";
+var mnemonic = "rather broken clarify cost glimpse mammal melody please produce stamp shift fox";

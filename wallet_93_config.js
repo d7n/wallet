@@ -1,1 +1,1 @@
-var mnemonic = "gym diesel toe aunt quiz scare under fish negative head expose smile";
+var mnemonic = "account tone spider runway expose negative hope burden any develop snake repair";

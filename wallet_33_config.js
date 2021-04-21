@@ -1,1 +1,1 @@
-var mnemonic = "civil forest genuine claw verify hollow claw social erode seek lava hen";
+var mnemonic = "wide need slush eternal unknown wave liberty fatigue helmet provide calm rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "negative sponsor soap train play parent direct candy candy rule decide wrong";
+var mnemonic = "nest tail busy marine rare trip satoshi world easy top chair exhaust";

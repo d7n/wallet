@@ -1,1 +1,1 @@
-var mnemonic = "promote ramp credit addict stairs razor lens power practice settle virus slim";
+var mnemonic = "link virtual lock arrive clinic useful sick recipe annual rifle kick valve";

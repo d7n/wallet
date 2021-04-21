@@ -1,1 +1,1 @@
-var mnemonic = "what alcohol cave pause skate vendor dutch elder image grow card copy";
+var mnemonic = "amateur buddy notice frequent panther future foil pause market total dune oak";

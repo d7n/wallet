@@ -1,1 +1,1 @@
-var mnemonic = "penalty mean park ancient cover park energy wrap popular special canoe since";
+var mnemonic = "near cactus token protect involve doll pattern report urge artist license solid";

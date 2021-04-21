@@ -1,1 +1,1 @@
-var mnemonic = "split noble coral two cousin lucky velvet luxury valid fade trumpet saddle";
+var mnemonic = "wool mimic tool enroll inspire discover camera people attract dream time trash";

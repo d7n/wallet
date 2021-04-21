@@ -1,1 +1,1 @@
-var mnemonic = "rabbit illness option street vivid glare fiscal citizen eyebrow satoshi echo setup";
+var mnemonic = "scale student hedgehog panther state ten when peanut auto isolate hold verb";

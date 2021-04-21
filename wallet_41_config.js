@@ -1,1 +1,1 @@
-var mnemonic = "despair expose patient term suffer sorry artefact uniform pulp alone zone lady";
+var mnemonic = "head polar swim grid prefer lobster man rule clerk avocado spread negative";

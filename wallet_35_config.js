@@ -1,1 +1,1 @@
-var mnemonic = "smile load bus bright crane day violin weird inner quantum blur more";
+var mnemonic = "basket treat vacant abstract cloud soda bulk tenant crucial first derive category";

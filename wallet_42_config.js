@@ -1,1 +1,1 @@
-var mnemonic = "social roof arrive refuse essay put cup mercy key drop globe culture";
+var mnemonic = "envelope winner erode actual fan spare list praise one bread dream base";
