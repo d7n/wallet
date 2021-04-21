@@ -1,1 +1,1 @@
-var mnemonic = "addict finger iron alarm flavor echo lumber road wreck also food salon";
+var mnemonic = "cream spray nation letter stomach token armor chapter trap surprise trigger lady";

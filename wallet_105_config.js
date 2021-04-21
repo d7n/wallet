@@ -1,1 +1,1 @@
-var mnemonic = "excess confirm joy obvious flag pipe consider recall message live east enable";
+var mnemonic = "quantum gap spoil spell festival attack doctor hint dove brave about auto";

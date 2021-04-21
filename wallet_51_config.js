@@ -1,1 +1,1 @@
-var mnemonic = "aunt poverty tiger hotel run honey visa length inside violin tuition drastic";
+var mnemonic = "gauge cradle tail dirt oblige blast chaos fatal antique coyote rude isolate";

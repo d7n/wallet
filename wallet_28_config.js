@@ -1,1 +1,1 @@
-var mnemonic = "oxygen metal success smooth say demise maximum sister toss fit camp scatter";
+var mnemonic = "multiply dwarf atom hill push video afraid iron document unable skirt unusual";

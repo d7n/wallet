@@ -1,1 +1,1 @@
-var mnemonic = "decrease seed believe trophy lizard bomb spawn learn demise note snack mansion";
+var mnemonic = "anxiety slender lyrics assault size device balance sorry regret crop fashion aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "toss jealous prize joke misery danger open fun depart special can like";
+var mnemonic = "fancy ready dilemma fit job tomorrow detail initial salmon cancel monitor outside";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco miracle artwork friend drama resource goddess weird excite thumb canyon figure";
+var mnemonic = "pig nuclear dream typical search fish uniform post option cactus robust powder";

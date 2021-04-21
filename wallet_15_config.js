@@ -1,1 +1,1 @@
-var mnemonic = "lizard lab cluster short shoe burst range decline slide royal scatter story";
+var mnemonic = "struggle steel mention sadness photo mail surprise same suggest room draft joy";

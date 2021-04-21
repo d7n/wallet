@@ -1,1 +1,1 @@
-var mnemonic = "gym please rich raven surround dumb faculty cigar boss cable entire pass";
+var mnemonic = "tortoise limit seven gather safe boring document neutral belt follow rate chuckle";

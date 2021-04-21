@@ -1,1 +1,1 @@
-var mnemonic = "crazy clarify satisfy silent mouse winner tonight rough bar vanish coffee melody";
+var mnemonic = "soda forget check leisure sausage hockey water run grow hundred hard cake";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt weather audit cluster intact gospel person teach blouse lab master drift";
+var mnemonic = "monster huge budget shoulder service diagram awesome reject tube sadness business plate";

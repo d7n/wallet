@@ -1,1 +1,1 @@
-var mnemonic = "private flush cycle spare stove know cause float cluster anchor sausage beef";
+var mnemonic = "comfort review mixture ancient powder sound bounce join input around stamp soft";

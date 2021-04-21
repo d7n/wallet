@@ -1,1 +1,1 @@
-var mnemonic = "flip tonight piano ordinary benefit salmon scout medal veteran once deny before";
+var mnemonic = "retire gun moral food torch shuffle puppy hip add tail shop will";

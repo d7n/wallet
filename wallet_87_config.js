@@ -1,1 +1,1 @@
-var mnemonic = "sudden steak trouble weapon hedgehog draft twin pill raw wild inch invest";
+var mnemonic = "caught own runway input pear multiply nuclear situate hockey frost portion diesel";

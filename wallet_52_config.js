@@ -1,1 +1,1 @@
-var mnemonic = "measure inside cheese travel camp drama effort master spell column time festival";
+var mnemonic = "patrol vast jump off canyon laugh ability excess option happy erosion fancy";

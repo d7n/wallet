@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon sense special artwork alarm main anger afraid actual shiver advance town";
+var mnemonic = "bus alter quality company diagram fresh armor sorry ensure purity emerge system";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse skin cake reward practice scheme action normal method case phone settle";
+var mnemonic = "cycle pave wide outer enrich depend satoshi timber mention exit tribe runway";

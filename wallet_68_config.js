@@ -1,1 +1,1 @@
-var mnemonic = "squirrel label outside whisper clutch jungle nature process flush knock duty super";
+var mnemonic = "lab time damp uncle egg vendor odor clerk else giant nest bike";

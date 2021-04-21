@@ -1,1 +1,1 @@
-var mnemonic = "arctic border answer mean love month record rely furnace six board super";
+var mnemonic = "amused wrist dove fruit method soldier swim journey smile crumble gauge ripple";

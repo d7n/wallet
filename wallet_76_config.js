@@ -1,1 +1,1 @@
-var mnemonic = "catalog cereal journey position sport saddle year airport picture crazy liquid move";
+var mnemonic = "obtain improve offer giggle decrease helmet enhance morning innocent rather offer absent";

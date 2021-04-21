@@ -1,1 +1,1 @@
-var mnemonic = "parent law design issue planet claim swear route ahead lyrics west account";
+var mnemonic = "drum double blush claw adjust giggle solid together kite oblige oak problem";

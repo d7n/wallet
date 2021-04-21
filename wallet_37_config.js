@@ -1,1 +1,1 @@
-var mnemonic = "cloth wink kid observe select hawk hospital supreme sketch churn awesome weird";
+var mnemonic = "quit camp mystery arena enemy desk figure mosquito own smoke own shy";

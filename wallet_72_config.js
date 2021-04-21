@@ -1,1 +1,1 @@
-var mnemonic = "ocean snap suggest penalty island that license sudden drift cotton blade admit";
+var mnemonic = "pave script dynamic loud merge document cram bless rebuild differ that ignore";

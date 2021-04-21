@@ -1,1 +1,1 @@
-var mnemonic = "stand fine dizzy member mule chimney man wife filter crazy carbon salt";
+var mnemonic = "strike used mirror elbow since design slogan series again canal bachelor fade";

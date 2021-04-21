@@ -1,1 +1,1 @@
-var mnemonic = "produce gift whip flee shell feed stable vanish color recycle inspire purity";
+var mnemonic = "arctic moon trust height spawn fluid warfare resist answer device another album";

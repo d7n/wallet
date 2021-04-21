@@ -1,1 +1,1 @@
-var mnemonic = "memory bid sample bar ridge gather earth globe access sock slot fish";
+var mnemonic = "prefer primary identify collect hole august cotton poet blind carpet priority garment";

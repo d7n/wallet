@@ -1,1 +1,1 @@
-var mnemonic = "shy life suspect south loyal hard when engage erosion grab wire say";
+var mnemonic = "garden proof urban various awesome aerobic afraid acoustic fatigue public decline sort";

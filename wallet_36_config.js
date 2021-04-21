@@ -1,1 +1,1 @@
-var mnemonic = "twelve trick endless horn sunny leg forget secret doctor tray enact pen";
+var mnemonic = "actual hour vintage gas usual unlock heavy subject oyster deputy shoe relief";

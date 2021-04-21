@@ -1,1 +1,1 @@
-var mnemonic = "sibling federal dish robust frog poverty outside zoo evolve bamboo force duck";
+var mnemonic = "foam trust quick regular service mom wise boss try digital buzz project";

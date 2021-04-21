@@ -1,1 +1,1 @@
-var mnemonic = "glass panic gain dice gadget cage enemy neither wonder baby elite inside";
+var mnemonic = "picture current pattern behind denial congress spin cup obey melt stem stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion scare blue husband number report drop install angle business tornado capable";
+var mnemonic = "muffin okay drive reform frog range column image vapor wonder warrior copper";

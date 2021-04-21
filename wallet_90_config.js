@@ -1,1 +1,1 @@
-var mnemonic = "thrive improve betray bag owner relief employ slogan shuffle almost relax exile";
+var mnemonic = "silk phrase nose body group curtain list hurdle insect monkey roast stem";

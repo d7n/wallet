@@ -1,1 +1,1 @@
-var mnemonic = "crew crowd dilemma salt before zero sleep grit grunt pilot matrix orange";
+var mnemonic = "click echo inject bus scheme chat damp rough hurry tackle hole damp";

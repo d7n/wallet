@@ -1,1 +1,1 @@
-var mnemonic = "detect essence path vivid force clip rigid clerk number awkward weird roast";
+var mnemonic = "bullet fan warrior deny energy inhale tumble lumber myth napkin pledge photo";

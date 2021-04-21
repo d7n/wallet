@@ -1,1 +1,1 @@
-var mnemonic = "mammal bring seminar solid hazard tank early sadness priority shift parent title";
+var mnemonic = "retreat dog acoustic symbol father lamp cheese between lend option increase vague";

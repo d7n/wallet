@@ -1,1 +1,1 @@
-var mnemonic = "moral exhibit supply liberty shop own habit vivid volume detect impact admit";
+var mnemonic = "orient gold echo stamp outdoor stumble rabbit girl female when credit wheel";

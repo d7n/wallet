@@ -1,1 +1,1 @@
-var mnemonic = "desk siren grit parade tank tail napkin cable easy energy slice dolphin";
+var mnemonic = "glance creek hill special ill domain plastic virus ceiling maximum wreck stick";

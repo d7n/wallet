@@ -1,1 +1,1 @@
-var mnemonic = "crater prefer struggle elder discover liquid health radio globe close stem olympic";
+var mnemonic = "tape ability chair replace path joke cherry dial parade tip energy crime";

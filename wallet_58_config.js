@@ -1,1 +1,1 @@
-var mnemonic = "viable egg liquid angry elite toss main need outside burden canvas physical";
+var mnemonic = "upgrade ostrich evil usual dawn guess correct ability smart repeat random venue";

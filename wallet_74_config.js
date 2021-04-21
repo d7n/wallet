@@ -1,1 +1,1 @@
-var mnemonic = "cigar wet hospital atom pattern mixture butter nothing south float baby fun";
+var mnemonic = "please boy century siren page monster suggest faculty nice snack gather use";

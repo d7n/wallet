@@ -1,1 +1,1 @@
-var mnemonic = "process under divorce bargain other fade blush flock spread pulp rough double";
+var mnemonic = "sniff world judge desk prison flee armed kiwi inform chalk deal combine";

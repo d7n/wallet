@@ -1,1 +1,1 @@
-var mnemonic = "fine razor believe wool gift jaguar just exercise refuse limb episode tank";
+var mnemonic = "punch error cabbage result own end million hamster now video young uphold";

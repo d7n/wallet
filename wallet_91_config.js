@@ -1,1 +1,1 @@
-var mnemonic = "mammal anger fury stand room fringe summer utility program bench poem prison";
+var mnemonic = "ivory inject vocal reason sheriff power hard sausage cliff warfare jar dismiss";

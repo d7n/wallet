@@ -1,1 +1,1 @@
-var mnemonic = "mesh state lobster forum flight civil guilt judge pluck denial empty print";
+var mnemonic = "dress burden upon engage prison impulse motor hockey year protect demise crush";

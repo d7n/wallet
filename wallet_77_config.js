@@ -1,1 +1,1 @@
-var mnemonic = "gadget peace version danger increase number error twist finger upper estate enhance";
+var mnemonic = "debate copy sport toe ring craft pig alter unlock sketch control range";

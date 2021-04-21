@@ -1,1 +1,1 @@
-var mnemonic = "prefer present shrug fluid gather receive frequent convince estate cotton clip great";
+var mnemonic = "pause enact amazing pill betray camera valley charge science pass upon fiscal";

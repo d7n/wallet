@@ -1,1 +1,1 @@
-var mnemonic = "bundle angle series inch mystery concert copper grocery heart funny page device";
+var mnemonic = "aunt drama knock topic slab odor random impulse uniform picture ready private";

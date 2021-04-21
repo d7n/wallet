@@ -1,1 +1,1 @@
-var mnemonic = "canyon february ride select mosquito garlic bronze mention renew balcony affair plunge";
+var mnemonic = "brain right ignore multiply slice merry lab february wagon purpose prefer acquire";

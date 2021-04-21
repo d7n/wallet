@@ -1,1 +1,1 @@
-var mnemonic = "ordinary assist puppy art swing receive acquire scatter fragile distance soup improve";
+var mnemonic = "survey coin toast pride satisfy force purity blossom advice bunker artist timber";

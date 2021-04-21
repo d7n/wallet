@@ -1,1 +1,1 @@
-var mnemonic = "father enable pool spring village chest cheap cute runway bid warm lion";
+var mnemonic = "cross exile eye woman mesh flash stool churn obey man service brand";

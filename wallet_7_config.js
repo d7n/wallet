@@ -1,1 +1,1 @@
-var mnemonic = "neglect sleep tide rain must involve behave season bacon eye bulb access";
+var mnemonic = "allow search opera online point thing drift laptop almost struggle good curve";

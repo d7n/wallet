@@ -1,1 +1,1 @@
-var mnemonic = "mimic early public gas avocado aware chalk once basket ill jewel dizzy";
+var mnemonic = "six rack sorry area lava quantum cousin girl foot horse valve battle";

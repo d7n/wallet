@@ -1,1 +1,1 @@
-var mnemonic = "cash mountain can brick rough choice marriage place cluster slide upset prison";
+var mnemonic = "poverty boat goat wish alley leisure differ crisp bleak various pause hill";

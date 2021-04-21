@@ -1,1 +1,1 @@
-var mnemonic = "shadow promote kidney canoe pet scrub tortoise draw mail blade thrive blur";
+var mnemonic = "sweet shrimp resource swamp unfold recycle train reflect engine animal wall middle";

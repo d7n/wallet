@@ -1,1 +1,1 @@
-var mnemonic = "toss leave mansion couple abstract alien tiger skill control alcohol pool brain";
+var mnemonic = "tonight merry transfer increase lift hover long animal life hour congress coast";

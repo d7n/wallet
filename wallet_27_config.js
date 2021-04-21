@@ -1,1 +1,1 @@
-var mnemonic = "bird mandate melody muffin task shaft thought mesh call section license depend";
+var mnemonic = "master idea artefact child marriage also cram quarter ball relax truth also";

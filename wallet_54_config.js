@@ -1,1 +1,1 @@
-var mnemonic = "foot congress dune van grab goddess butter bonus soap provide learn junk";
+var mnemonic = "coach cram stairs brown rebel modify baby gorilla bronze damage organ floor";

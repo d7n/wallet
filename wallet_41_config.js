@@ -1,1 +1,1 @@
-var mnemonic = "clock crime craft avoid cigar mule calm cover next satisfy nest loop";
+var mnemonic = "stick daughter cradle story wet space glide total swear must fine dentist";

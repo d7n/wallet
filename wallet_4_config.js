@@ -1,1 +1,1 @@
-var mnemonic = "announce relief model coil bag actor anger fork spoon office topic tent";
+var mnemonic = "coach then suggest fabric sausage scorpion either tooth path fun arrange large";

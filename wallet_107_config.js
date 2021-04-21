@@ -1,1 +1,1 @@
-var mnemonic = "term shine ahead danger logic eye march print problem nominee imitate chalk";
+var mnemonic = "climb tackle else slogan guitar escape cabbage cute puppy fatal giant way";

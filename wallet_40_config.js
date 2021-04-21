@@ -1,1 +1,1 @@
-var mnemonic = "pelican absurd wrestle piece evolve before crater prefer one sunny task angle";
+var mnemonic = "predict scout bundle guilt license guilt copy library pelican boost face short";

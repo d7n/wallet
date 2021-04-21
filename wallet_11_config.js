@@ -1,1 +1,1 @@
-var mnemonic = "appear hybrid jungle month job enrich grace better control priority park cash";
+var mnemonic = "bread sauce adapt connect nature eternal utility right immune cinnamon hip fit";

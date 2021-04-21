@@ -1,1 +1,1 @@
-var mnemonic = "broken nurse pool novel foil glow anxiety pretty combine identify flight core";
+var mnemonic = "dentist other afford betray tattoo powder bitter pigeon cover alley father expand";

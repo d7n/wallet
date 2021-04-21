@@ -1,1 +1,1 @@
-var mnemonic = "bean toilet rookie usual service dizzy task track double slim pitch rug";
+var mnemonic = "mammal add horror jealous guilt crater fantasy illegal glad bar weird object";

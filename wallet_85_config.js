@@ -1,1 +1,1 @@
-var mnemonic = "husband repair dynamic chuckle burger car wedding myth jeans surprise any like";
+var mnemonic = "decide father junk just kite whale pitch immune fork curious float link";

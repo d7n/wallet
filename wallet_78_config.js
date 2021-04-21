@@ -1,1 +1,1 @@
-var mnemonic = "cradle truly tiny foil brief right pepper away same kangaroo meadow replace";
+var mnemonic = "caution joke trumpet breeze tobacco benefit foil math pig neglect elegant reform";

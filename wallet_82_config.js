@@ -1,1 +1,1 @@
-var mnemonic = "modify survey focus snake bounce manage afraid bring cover team harvest either";
+var mnemonic = "begin stereo vapor rabbit situate seat dignity economy earn coyote tortoise spring";

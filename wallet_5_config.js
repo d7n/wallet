@@ -1,1 +1,1 @@
-var mnemonic = "shock sketch grid normal problem ginger ecology broom twist fragile liberty penalty";
+var mnemonic = "object gain nominee increase odor chuckle emotion air absurd guide rival day";

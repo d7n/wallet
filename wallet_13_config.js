@@ -1,1 +1,1 @@
-var mnemonic = "caught target among replace alien october retire hub suggest shoe relief prefer";
+var mnemonic = "exotic tray awful sketch try protect nuclear pill nut lyrics review forest";

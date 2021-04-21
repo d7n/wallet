@@ -1,1 +1,1 @@
-var mnemonic = "supply raw village eager barrel know humble ivory impact all habit interest";
+var mnemonic = "marble afraid favorite cream put cute proud kind only word keen muscle";

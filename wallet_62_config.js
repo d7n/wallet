@@ -1,1 +1,1 @@
-var mnemonic = "oyster wrong resemble fashion useful album pluck moon pelican decide cloth envelope";
+var mnemonic = "wheel medal truly legend debris patrol license slender embark pyramid lounge remind";

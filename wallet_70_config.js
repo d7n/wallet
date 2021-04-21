@@ -1,1 +1,1 @@
-var mnemonic = "marble enter logic priority cherry pistol dignity gun design census run filter";
+var mnemonic = "giraffe write you surround expand expand grit job wet ethics mother fall";

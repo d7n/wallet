@@ -1,1 +1,1 @@
-var mnemonic = "fish outside recipe coconut wild boy winner nominee upper hobby quarter monkey";
+var mnemonic = "suit idle lawsuit amused smile wagon system wedding display polar eagle toilet";

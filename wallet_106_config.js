@@ -1,1 +1,1 @@
-var mnemonic = "mammal ostrich obscure lava flower horn conduct mandate month peace north join";
+var mnemonic = "miracle toss fox sketch abstract inner behind good spike goddess bubble sport";

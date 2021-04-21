@@ -1,1 +1,1 @@
-var mnemonic = "boat real barrel wife pulp office random wild staff minute rude sheriff";
+var mnemonic = "prosper boss brass chicken inmate spy wait cheese stove vault say field";

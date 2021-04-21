@@ -1,1 +1,1 @@
-var mnemonic = "conduct virus worry gate certain equal food churn adapt mask citizen pepper";
+var mnemonic = "miss start side lecture gallery radar debate ancient card cute truck today";

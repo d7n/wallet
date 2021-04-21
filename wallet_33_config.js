@@ -1,1 +1,1 @@
-var mnemonic = "theory foil copper energy panda victory umbrella october shock glide plate six";
+var mnemonic = "series only kingdom muscle jewel visual actress adjust art spot general maximum";

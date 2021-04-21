@@ -1,1 +1,1 @@
-var mnemonic = "doll upon cover answer start silk soccer gain sell van entire follow";
+var mnemonic = "solar final mistake banana deposit critic catch special west olympic census custom";

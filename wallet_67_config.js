@@ -1,1 +1,1 @@
-var mnemonic = "happy hybrid portion emotion bean radio dial zoo marriage wash tiger unhappy";
+var mnemonic = "inhale turn melody canoe popular amateur come wagon crew crack various stay";

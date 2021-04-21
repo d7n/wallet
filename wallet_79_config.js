@@ -1,1 +1,1 @@
-var mnemonic = "feed journey club column piano raven friend tired gravity upper either health";
+var mnemonic = "proud demand latin strategy nuclear grass arm cat outdoor add equip spoil";

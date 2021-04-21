@@ -1,1 +1,1 @@
-var mnemonic = "craft blossom taste index alcohol guide purchase ball vendor ugly logic foster";
+var mnemonic = "quality light unveil move barely warm allow tilt desert bacon vital turn";

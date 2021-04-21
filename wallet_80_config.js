@@ -1,1 +1,1 @@
-var mnemonic = "example foster bicycle spend shoulder faith elevator paddle tent illegal lecture digital";
+var mnemonic = "forget bottom unlock frame wave ivory before carbon purity direct burden antenna";

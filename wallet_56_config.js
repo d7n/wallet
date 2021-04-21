@@ -1,1 +1,1 @@
-var mnemonic = "vapor ceiling feel sample settle skull scrap furnace skate spoon reduce good";
+var mnemonic = "average oyster sketch series design library reject near improve smoke shadow faculty";

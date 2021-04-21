@@ -1,1 +1,1 @@
-var mnemonic = "wagon oil scrub owner learn execute once invite dawn piano fat use";
+var mnemonic = "lift crunch like bird north tooth brick avoid choice foam garment recall";

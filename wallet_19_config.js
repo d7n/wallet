@@ -1,1 +1,1 @@
-var mnemonic = "release door legal crash start feel attitude icon digital amount season step";
+var mnemonic = "warfare green february carbon evolve genre stereo alarm glory sponsor creek tail";

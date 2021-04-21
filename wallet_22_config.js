@@ -1,1 +1,1 @@
-var mnemonic = "purchase humble pride impose slogan runway token web army sun track fade";
+var mnemonic = "mass account visual height cargo host shell sniff social pole hub true";

@@ -1,1 +1,1 @@
-var mnemonic = "palm wood raven buffalo modify practice ridge dawn catch fat prefer mountain";
+var mnemonic = "poverty social salt behind skin network bullet trade gold donor denial lumber";

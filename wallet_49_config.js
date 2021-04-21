@@ -1,1 +1,1 @@
-var mnemonic = "glad dish rescue ramp sentence awesome clutch cause donkey tobacco ankle glue";
+var mnemonic = "access tube floor miracle firm rally clip sibling genius reopen genius detect";
