@@ -1,1 +1,1 @@
-var mnemonic = "journey comfort pond aunt cruel water surround person wear infant tortoise coral";
+var mnemonic = "equal seek modify sad drama coil maximum monster lounge camera worry sunny";

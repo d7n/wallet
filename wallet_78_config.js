@@ -1,1 +1,1 @@
-var mnemonic = "orient pilot file bitter marriage pause winner unique unusual such file bamboo";
+var mnemonic = "praise wisdom jungle major second van grace nephew sample october truly snack";

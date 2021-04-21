@@ -1,1 +1,1 @@
-var mnemonic = "coconut ordinary truly net vault dilemma cave response elevator trumpet car prison";
+var mnemonic = "solid volume industry lumber liar spring case caution off goddess walnut frog";

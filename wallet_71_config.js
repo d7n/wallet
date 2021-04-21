@@ -1,1 +1,1 @@
-var mnemonic = "aim celery front engage eagle surge other divide royal erase pencil ill";
+var mnemonic = "patch glance crack ball thing oyster accuse decrease awake hamster barrel april";

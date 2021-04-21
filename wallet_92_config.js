@@ -1,1 +1,1 @@
-var mnemonic = "hub basic sad tortoise notice rapid faculty rocket begin genius raise remember";
+var mnemonic = "release pencil choice sense involve expand wall width comic cancel excite debris";

@@ -1,1 +1,1 @@
-var mnemonic = "page purpose under exchange mean lamp frog tape title mystery speed they";
+var mnemonic = "card next vacuum once comic nominee fly fashion enact velvet lunch quit";

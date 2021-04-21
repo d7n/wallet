@@ -1,1 +1,1 @@
-var mnemonic = "april weasel member clump response series combine action neutral area olympic age";
+var mnemonic = "scrap oval angle buffalo image below shield super amateur income blade proof";

@@ -1,1 +1,1 @@
-var mnemonic = "eager today run artwork talent shoot usual element crawl pipe govern state";
+var mnemonic = "cancel gaze bid interest bar metal rail flush post humble chuckle cloth";

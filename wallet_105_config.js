@@ -1,1 +1,1 @@
-var mnemonic = "olympic double aim arrange page position wise owner badge anxiety helmet blur";
+var mnemonic = "print end speed develop claw pole capital liquid toilet nest main like";

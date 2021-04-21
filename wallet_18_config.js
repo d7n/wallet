@@ -1,1 +1,1 @@
-var mnemonic = "mind angle comfort close people furnace canoe brain uncover brick afford prosper";
+var mnemonic = "pear speak bargain screen nuclear view diesel logic cushion august obtain jelly";

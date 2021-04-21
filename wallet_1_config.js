@@ -1,1 +1,1 @@
-var mnemonic = "problem reform innocent other merry steel behind answer bus useful solid fringe";
+var mnemonic = "dad piece boil trade mango spoil payment emerge ripple monitor push skull";

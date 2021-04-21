@@ -1,1 +1,1 @@
-var mnemonic = "sun goat surge toy position pride derive margin only hen kitten better";
+var mnemonic = "humor predict avoid lawsuit excess uncover split camera also uphold example canyon";

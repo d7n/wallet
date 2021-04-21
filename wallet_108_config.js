@@ -1,1 +1,1 @@
-var mnemonic = "envelope half divert pulse arrow know over patrol coral insect broom clog";
+var mnemonic = "erupt clump antenna sting minor speak purity discover exercise deal fringe want";

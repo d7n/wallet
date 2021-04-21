@@ -1,1 +1,1 @@
-var mnemonic = "large update great clerk mind parent maximum kit genius useful tilt glance";
+var mnemonic = "spring various assume old snap seminar such monkey sweet fine dash kidney";

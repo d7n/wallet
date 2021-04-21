@@ -1,1 +1,1 @@
-var mnemonic = "pizza dish door foot napkin useless move inherit forget box daughter doctor";
+var mnemonic = "slot frozen target mystery invest era make adjust wheel soap must next";

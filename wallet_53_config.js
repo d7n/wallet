@@ -1,1 +1,1 @@
-var mnemonic = "lunch remain draw pet glory issue ask letter square festival steel smoke";
+var mnemonic = "deliver broom sweet vocal angle blouse icon weather forum inform bar voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "foot roof unable front spoon chapter treat vehicle base label kiwi search";
+var mnemonic = "renew man shiver lens stadium expire admit correct trial across win right";

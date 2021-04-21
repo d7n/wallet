@@ -1,1 +1,1 @@
-var mnemonic = "time best wear depend gown window neither appear viable filter obscure brass";
+var mnemonic = "warfare giraffe patient want inherit genius all music category resist zoo ethics";

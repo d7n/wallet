@@ -1,1 +1,1 @@
-var mnemonic = "frozen idle have favorite staff daring embody garment caution diet bulb future";
+var mnemonic = "blood maximum start flame pull acoustic salt tube fashion online example trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano bounce cargo pony menu prefer sign deer flash robust curtain shield";
+var mnemonic = "token subway march shine bundle sheriff antique banner book rent artist salad";

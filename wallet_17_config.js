@@ -1,1 +1,1 @@
-var mnemonic = "update only toy nature fresh kangaroo puzzle expose sorry legal axis door";
+var mnemonic = "major chef sorry diesel under economy romance rebel armor party hat switch";

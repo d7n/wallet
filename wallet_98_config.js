@@ -1,1 +1,1 @@
-var mnemonic = "slim chicken bright stone runway type punch spice walnut either crawl three";
+var mnemonic = "sleep vehicle interest spray frozen abstract erosion appear once under entry wait";

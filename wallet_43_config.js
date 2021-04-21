@@ -1,1 +1,1 @@
-var mnemonic = "mystery travel april puzzle divorce monkey million ginger traffic actress hero magnet";
+var mnemonic = "smart turn bike donate transfer lava place scheme cloud share true divert";

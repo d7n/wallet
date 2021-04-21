@@ -1,1 +1,1 @@
-var mnemonic = "grit jeans engine culture rude snake boil spirit problem lab era impulse";
+var mnemonic = "round enemy cluster bleak toast obey object bless wagon desert similar delay";

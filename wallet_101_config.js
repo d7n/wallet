@@ -1,1 +1,1 @@
-var mnemonic = "liberty twelve fetch inflict design pluck popular diary reduce rich run section";
+var mnemonic = "monster stairs parade six cinnamon erode blossom civil mystery domain please large";

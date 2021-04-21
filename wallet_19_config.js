@@ -1,1 +1,1 @@
-var mnemonic = "play panic hamster guitar guard flip onion vessel okay great aisle admit";
+var mnemonic = "choose cross honey health vocal outside music salad sleep forward drip swamp";

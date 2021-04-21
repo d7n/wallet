@@ -1,1 +1,1 @@
-var mnemonic = "fatigue polar focus bicycle desert velvet kingdom prepare cover globe cactus spare";
+var mnemonic = "sunny tool hidden extend twin then wreck mandate cereal someone october upon";

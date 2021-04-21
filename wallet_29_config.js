@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur unaware slogan affair frequent veteran caution tenant emotion trial elevator street";
+var mnemonic = "lesson hundred cream era rug legal busy pride melt glare essence tip";

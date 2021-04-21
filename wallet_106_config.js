@@ -1,1 +1,1 @@
-var mnemonic = "connect broken link need mixed cover bacon pepper tell excite badge figure";
+var mnemonic = "van awful motor bright illegal whale stick consider anxiety youth learn pretty";

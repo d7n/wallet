@@ -1,1 +1,1 @@
-var mnemonic = "measure cement dress pulp blossom easy trick prefer tree unusual nature elegant";
+var mnemonic = "sustain case science enable gather voice grain palace theme shoe caution job";

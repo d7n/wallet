@@ -1,1 +1,1 @@
-var mnemonic = "outdoor fork super boss aware album anxiety tag tree praise oblige expand";
+var mnemonic = "penalty fruit day same crop shove pelican color coconut equal trust syrup";

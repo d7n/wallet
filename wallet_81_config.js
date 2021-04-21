@@ -1,1 +1,1 @@
-var mnemonic = "hard utility crane exhibit feed poverty limit festival carpet smoke gain update";
+var mnemonic = "define grief engine hunt accuse brick tube cliff addict cinnamon violin come";

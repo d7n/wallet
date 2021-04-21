@@ -1,1 +1,1 @@
-var mnemonic = "question young inmate lecture chapter point outside disagree umbrella govern protect frown";
+var mnemonic = "chronic tackle civil later rug adult quick pizza enroll wrestle nuclear sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "sick pepper speed knee uncle figure process write suggest arch either can";
+var mnemonic = "potato comfort clip caution urban squirrel artwork that honey coast fruit bus";

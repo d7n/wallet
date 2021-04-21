@@ -1,1 +1,1 @@
-var mnemonic = "behind heavy weather charge mutual orient eyebrow prepare loop finger match insane";
+var mnemonic = "hurdle seminar obtain always coast erupt luxury syrup gold powder wrist chat";

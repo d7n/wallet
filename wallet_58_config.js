@@ -1,1 +1,1 @@
-var mnemonic = "athlete train divert cricket impact barely drink achieve cattle bottom trim rotate";
+var mnemonic = "quiz panda wheel hero still barrel sadness fashion maple trophy asthma radio";

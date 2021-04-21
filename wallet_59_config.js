@@ -1,1 +1,1 @@
-var mnemonic = "steak security dance more evidence dial enter robust cruise link online pelican";
+var mnemonic = "turtle gaze knee only panel turn involve provide argue cool swarm obscure";

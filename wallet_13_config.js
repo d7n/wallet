@@ -1,1 +1,1 @@
-var mnemonic = "all payment trust square rescue invest artefact donkey lumber rookie fragile trumpet";
+var mnemonic = "beyond win region filter drink achieve siege north lawsuit turtle cannon tomorrow";

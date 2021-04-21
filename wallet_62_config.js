@@ -1,1 +1,1 @@
-var mnemonic = "number arrange apology earn lady gaze undo absorb promote shy ecology carpet";
+var mnemonic = "peanut chat polar flush enact bundle proud skill move label plate urban";

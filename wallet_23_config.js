@@ -1,1 +1,1 @@
-var mnemonic = "spend crash twice razor unfold ready broom grief clown piece pen sword";
+var mnemonic = "claw coyote episode original hobby apology season marine awkward buyer game nation";

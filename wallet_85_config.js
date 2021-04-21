@@ -1,1 +1,1 @@
-var mnemonic = "love useless hundred work chimney endorse rookie news travel that sadness slow";
+var mnemonic = "session reason word plate artwork acquire marble equip hockey cargo fade view";

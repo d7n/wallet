@@ -1,1 +1,1 @@
-var mnemonic = "hamster devote sibling when occur stone across spare winter produce equal powder";
+var mnemonic = "easy raven three foam travel adult tunnel first lamp inner chest crouch";

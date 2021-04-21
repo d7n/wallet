@@ -1,1 +1,1 @@
-var mnemonic = "fox ensure virus market dumb stem whisper display chalk end album toy";
+var mnemonic = "penalty force unhappy elegant provide virtual start spatial very final fitness artwork";

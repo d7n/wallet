@@ -1,1 +1,1 @@
-var mnemonic = "penalty under outside rice differ caught rookie dwarf offer cream coin hurt";
+var mnemonic = "snake habit energy loop runway pet afraid repeat they strike cotton hungry";

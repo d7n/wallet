@@ -1,1 +1,1 @@
-var mnemonic = "time exit engage road art ring broccoli depart meadow giggle abuse brisk";
+var mnemonic = "cereal dignity pencil cotton damp music erase column reopen judge culture tuition";

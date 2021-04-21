@@ -1,1 +1,1 @@
-var mnemonic = "monster trend rhythm zebra steak detect modify casino green annual rubber useful";
+var mnemonic = "whisper before trick quarter stand roof grace tuna uniform venue grass humble";

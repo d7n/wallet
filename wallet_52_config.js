@@ -1,1 +1,1 @@
-var mnemonic = "penalty radar bind alley pool couch convince wire wood insect gadget balance";
+var mnemonic = "mesh kiss city aunt island diesel balance flock transfer benefit core winner";

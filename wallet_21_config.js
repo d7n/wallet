@@ -1,1 +1,1 @@
-var mnemonic = "lawn motion slam basic cute coconut ring people rate swap seat vault";
+var mnemonic = "struggle heavy clown they crouch crumble flat purse glove hard crisp strike";

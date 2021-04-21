@@ -1,1 +1,1 @@
-var mnemonic = "light pole biology skate choice weather symbol title lens pass sort blouse";
+var mnemonic = "wheat rather hybrid release sock duck mechanic mask hunt marriage stage into";

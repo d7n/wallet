@@ -1,1 +1,1 @@
-var mnemonic = "year story veteran sausage captain tree ensure labor caution embrace arrest unaware";
+var mnemonic = "physical wolf dove midnight involve fashion assume across cost nominee wine dry";

@@ -1,1 +1,1 @@
-var mnemonic = "expand banner wide coffee sunny advance high plug ethics drip educate canvas";
+var mnemonic = "rude text blanket worry poet arrest good vessel potato giraffe glide inflict";

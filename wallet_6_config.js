@@ -1,1 +1,1 @@
-var mnemonic = "forest polar sort during mouse shift then nephew avocado secret second diagram";
+var mnemonic = "silver waste resist milk summer rotate maximum junk pill layer warm correct";

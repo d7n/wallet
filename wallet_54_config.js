@@ -1,1 +1,1 @@
-var mnemonic = "trophy radio stadium grain tribe uniform lesson venture radio drive ridge neck";
+var mnemonic = "quantum notice novel option scissors nerve soldier olive question hood faint sort";

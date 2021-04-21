@@ -1,1 +1,1 @@
-var mnemonic = "crash oyster tonight salon volume neither disorder sword want slide arrow verb";
+var mnemonic = "twist depth extend celery thing riot guitar goat mom man forum demand";

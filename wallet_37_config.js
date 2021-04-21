@@ -1,1 +1,1 @@
-var mnemonic = "setup bulb swift equal release frown two kit syrup mechanic any stove";
+var mnemonic = "monkey cricket gas image glad concert bundle possible range chaos garden melt";

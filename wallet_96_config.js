@@ -1,1 +1,1 @@
-var mnemonic = "crawl kit ketchup gorilla history gadget gym enjoy demand quick prize gallery";
+var mnemonic = "recipe hip layer refuse exhibit medal sword expose chest tool trial since";

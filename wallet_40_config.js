@@ -1,1 +1,1 @@
-var mnemonic = "vicious diagram tape attack toilet excite shock private acoustic public place hunt";
+var mnemonic = "come wasp legend tackle party vacant alien surround lift coil crucial guilt";

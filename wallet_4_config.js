@@ -1,1 +1,1 @@
-var mnemonic = "jelly razor verify retreat life muffin attend reject idle wear nut trash";
+var mnemonic = "tip arctic firm please glide patrol wild sheriff anger strategy pluck move";

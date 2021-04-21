@@ -1,1 +1,1 @@
-var mnemonic = "minute ring hole antenna sing bamboo common rookie foil rack grid modify";
+var mnemonic = "sing aunt expire cable mule angle perfect impulse allow zoo order angle";

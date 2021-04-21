@@ -1,1 +1,1 @@
-var mnemonic = "empty city junk impose gym couch record boil crucial put seminar valve";
+var mnemonic = "crane vault drop august absorb phrase place chunk dinosaur pink tumble throw";

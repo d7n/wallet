@@ -1,1 +1,1 @@
-var mnemonic = "pupil shell level lemon gravity chimney problem vacant true above illness raw";
+var mnemonic = "time page cube ski west riot away verify refuse deposit husband pink";

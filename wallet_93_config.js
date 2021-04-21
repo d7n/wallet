@@ -1,1 +1,1 @@
-var mnemonic = "ozone street ensure roof hungry immense silver clever boy brave replace between";
+var mnemonic = "earn fatigue phrase keep country demand toy rose ginger smart bless cruel";

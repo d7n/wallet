@@ -1,1 +1,1 @@
-var mnemonic = "shell logic fade machine upset slice weekend fire year circle mixture decline";
+var mnemonic = "napkin pilot onion case sting auto improve enjoy worth attract spring essay";

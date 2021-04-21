@@ -1,1 +1,1 @@
-var mnemonic = "sketch estate cheap merit toy dinosaur inmate obtain return peasant glory where";
+var mnemonic = "furnace quarter side dignity turn bread essence same sock you knock spell";

@@ -1,1 +1,1 @@
-var mnemonic = "length jazz garage decrease valve pink scrub kit neither ketchup vessel pony";
+var mnemonic = "exercise cry kit deal route route border poverty island cat cash market";

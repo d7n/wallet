@@ -1,1 +1,1 @@
-var mnemonic = "file cushion ginger random stand group enemy infant have fly marble mass";
+var mnemonic = "document barely merge south nasty toe decade topic noble sheriff better approve";

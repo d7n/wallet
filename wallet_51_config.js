@@ -1,1 +1,1 @@
-var mnemonic = "copper judge song weather possible vital remember cheap limb dilemma virtual reduce";
+var mnemonic = "battle element divorce dice remember main into soup neck put emotion misery";

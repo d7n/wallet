@@ -1,1 +1,1 @@
-var mnemonic = "employ initial autumn syrup impact rotate lion tell mandate junk element mango";
+var mnemonic = "funny ignore mask right kick media captain negative laugh core main later";

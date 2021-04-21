@@ -1,1 +1,1 @@
-var mnemonic = "anger shock perfect coral input turtle cluster tortoise inflict seven very muscle";
+var mnemonic = "siege fine multiply resource melody another raccoon little polar shy wise invest";

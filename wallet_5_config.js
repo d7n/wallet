@@ -1,1 +1,1 @@
-var mnemonic = "frown field choice pitch spring absorb they badge charge busy spoon loyal";
+var mnemonic = "vote relax country tank mad observe brief all plate option rich surprise";

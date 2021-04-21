@@ -1,1 +1,1 @@
-var mnemonic = "east wish limb fine sponsor toilet spice post olive friend produce zone";
+var mnemonic = "office laugh nurse movie multiply affair roof woman trend alarm word sheriff";

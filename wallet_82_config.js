@@ -1,1 +1,1 @@
-var mnemonic = "catch delay razor rabbit quit abandon tornado garage muffin oblige morning match";
+var mnemonic = "gate royal inject together number since wait marine keen wheel modify liquid";

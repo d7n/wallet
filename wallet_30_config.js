@@ -1,1 +1,1 @@
-var mnemonic = "flag current stem skill early image install width field cricket shoot improve";
+var mnemonic = "gadget fee pulse omit local dial exit soon wash chuckle social dog";

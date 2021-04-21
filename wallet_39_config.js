@@ -1,1 +1,1 @@
-var mnemonic = "loop fame movie tenant repeat army absurd knee argue another friend lecture";
+var mnemonic = "double spray quick margin weapon say embody february betray album february anchor";

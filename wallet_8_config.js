@@ -1,1 +1,1 @@
-var mnemonic = "derive mountain keep pause mask crime decline depend drastic indoor diary case";
+var mnemonic = "happy just fantasy voyage hamster multiply apology waste idea cable soap addict";

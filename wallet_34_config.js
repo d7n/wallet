@@ -1,1 +1,1 @@
-var mnemonic = "clarify motion wonder sauce laugh debate plastic symptom insect tuition fiscal intact";
+var mnemonic = "asthma level abstract quality strike tiny wing blade service tool vocal act";

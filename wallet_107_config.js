@@ -1,1 +1,1 @@
-var mnemonic = "knee all coffee math hire cliff thumb empty cement tail hungry stone";
+var mnemonic = "woman sign capable suspect evidence group sell trumpet vanish dove pig execute";

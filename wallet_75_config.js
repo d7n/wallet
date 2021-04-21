@@ -1,1 +1,1 @@
-var mnemonic = "report rotate switch divorce layer ostrich mutual immense trophy chunk isolate spare";
+var mnemonic = "fine valley odor much thing member later wrist found ivory diamond hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow humor debate know sunny labor sea bone predict collect cup artwork";
+var mnemonic = "reopen among hope other diagram yellow unusual orbit digital arrange sail pilot";

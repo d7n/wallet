@@ -1,1 +1,1 @@
-var mnemonic = "later remove genuine rain dish head gift crouch region refuse program token";
+var mnemonic = "erase across engine awkward diamond already pole deputy bag worry grief cake";

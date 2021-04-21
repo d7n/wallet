@@ -1,1 +1,1 @@
-var mnemonic = "country puzzle say fit try exist glimpse exist canal dune among tell";
+var mnemonic = "grid marble kitchen icon child wool junior fury apple noble service science";

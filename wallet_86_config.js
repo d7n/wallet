@@ -1,1 +1,1 @@
-var mnemonic = "glare coconut famous pioneer grace shield crowd series weather confirm cattle fatigue";
+var mnemonic = "name tip lizard invest pool broom school what plug wheel garlic fetch";

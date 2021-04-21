@@ -1,1 +1,1 @@
-var mnemonic = "remove squeeze grief recipe focus zero erase green vanish series because scheme";
+var mnemonic = "tiny quantum repeat victory aunt diagram viable smart search drift submit also";

@@ -1,1 +1,1 @@
-var mnemonic = "behind solve style provide arrest double mushroom report describe stand claim argue";
+var mnemonic = "frame pilot outer pistol stay cloth lucky ranch student shop cereal guitar";
