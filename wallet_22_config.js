@@ -1,1 +1,1 @@
-var mnemonic = "swim bulb sail alpha machine critic rare subject march shield guitar nuclear";
+var mnemonic = "globe rookie spend describe ship gas recycle empty crop ritual habit recipe";

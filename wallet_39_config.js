@@ -1,1 +1,1 @@
-var mnemonic = "glory warrior glow equip remember thank silk carry surprise rookie injury soldier";
+var mnemonic = "nature bonus wage version nice loan sword network behind stomach pluck fiber";

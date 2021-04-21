@@ -1,1 +1,1 @@
-var mnemonic = "air differ trip way bring goat canvas torch rural valley mosquito plate";
+var mnemonic = "world live lion gospel bulk laugh mountain potato fish penalty remind behave";

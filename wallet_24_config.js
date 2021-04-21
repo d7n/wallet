@@ -1,1 +1,1 @@
-var mnemonic = "okay law hub menu wrap horror loop cry vital yellow alter stem";
+var mnemonic = "ripple gadget ability summer iron region police viable shaft wide try favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "detail praise blue chase despair south frame arrow crystal brave neck flavor";
+var mnemonic = "creek effort frozen smoke kit romance ride lecture unaware timber giggle recipe";

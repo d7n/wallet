@@ -1,1 +1,1 @@
-var mnemonic = "clarify regular dragon artist extend once around strategy enroll catch usual resource";
+var mnemonic = "drink version tip design soft prevent jar peace know leaf hire south";

@@ -1,1 +1,1 @@
-var mnemonic = "water fish frog adjust mutual combine pause inform delay ski pitch hockey";
+var mnemonic = "potato raccoon eyebrow clock found fury clap wish capable diesel rich border";

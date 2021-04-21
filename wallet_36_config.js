@@ -1,1 +1,1 @@
-var mnemonic = "junk bench trumpet stomach either intact chalk dry quiz worry cupboard napkin";
+var mnemonic = "useful news divide glove initial wrong profit absent sketch nasty hover magic";

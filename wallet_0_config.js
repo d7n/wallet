@@ -1,1 +1,1 @@
-var mnemonic = "awkward better cause disease fruit olive undo door review seat unit bracket";
+var mnemonic = "finish night isolate car owner banner lounge note absurd nation debate seek";

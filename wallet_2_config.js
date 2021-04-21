@@ -1,1 +1,1 @@
-var mnemonic = "sadness around film parrot hip program artist unique stamp sort surge hawk";
+var mnemonic = "impose symptom foot vicious wonder sentence since rely blood buyer refuse pond";

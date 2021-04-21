@@ -1,1 +1,1 @@
-var mnemonic = "own payment reopen move couple mutual plug vivid beauty tribe shove pave";
+var mnemonic = "exchange cheese crowd possible news royal orange length book mass below degree";

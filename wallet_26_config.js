@@ -1,1 +1,1 @@
-var mnemonic = "tackle safe junior local wish adjust unaware domain creek animal negative obvious";
+var mnemonic = "identify topple axis upper risk blood mechanic close square ranch obvious joke";

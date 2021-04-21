@@ -1,1 +1,1 @@
-var mnemonic = "bird aerobic viable impose else crumble seat dress health cement loan coconut";
+var mnemonic = "ahead search author figure exact catch acoustic unique boat define fragile cruel";

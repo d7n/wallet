@@ -1,1 +1,1 @@
-var mnemonic = "thrive spirit alpha hole torch capable anchor spread shrimp design clerk violin";
+var mnemonic = "symptom lend coil produce wink step enhance two control scheme enter hurdle";

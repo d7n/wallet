@@ -1,1 +1,1 @@
-var mnemonic = "cabin double north still soon violin output escape dice wink aware cube";
+var mnemonic = "illness liberty dad vintage border soldier shy crater inherit one meadow mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber trouble vocal garlic learn wild senior gown slow drill call enable";
+var mnemonic = "cram radio old submit eye wing accident sweet walnut parade prosper glance";

@@ -1,1 +1,1 @@
-var mnemonic = "sting room ring quarter verb shuffle code sphere fan pledge eagle sustain";
+var mnemonic = "lake six group cricket add anchor tuition trumpet usual wonder walnut throw";

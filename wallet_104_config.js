@@ -1,1 +1,1 @@
-var mnemonic = "local dry object category smile miracle kingdom craft drop present pencil small";
+var mnemonic = "lazy similar sing blade lyrics alley soda clip robot project rate story";

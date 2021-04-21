@@ -1,1 +1,1 @@
-var mnemonic = "narrow margin scale famous crowd rose night until field corn one trigger";
+var mnemonic = "light prepare spray walnut kingdom pill correct action film salon else team";

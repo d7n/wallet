@@ -1,1 +1,1 @@
-var mnemonic = "gallery rough point idle next merit push robust almost album wife symbol";
+var mnemonic = "butter chimney sudden crowd mean memory royal garment vanish awful depart tip";

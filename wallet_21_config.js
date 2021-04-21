@@ -1,1 +1,1 @@
-var mnemonic = "uncle someone heavy almost ozone cute fantasy taxi host candy giggle dwarf";
+var mnemonic = "trap approve scout diamond eight scrap veteran mandate slab noodle garbage exclude";

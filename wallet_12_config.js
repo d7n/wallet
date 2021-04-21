@@ -1,1 +1,1 @@
-var mnemonic = "picnic upgrade erosion theme marine engage exotic fantasy flavor turkey leaf gap";
+var mnemonic = "busy dinosaur salad rate honey burger debris citizen grace mushroom public limb";

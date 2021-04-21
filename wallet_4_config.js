@@ -1,1 +1,1 @@
-var mnemonic = "quantum focus unfair off conduct receive slim defy egg melody receive knock";
+var mnemonic = "surround parrot noble hungry initial slice ill bulb unit sauce old winter";

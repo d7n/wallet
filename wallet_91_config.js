@@ -1,1 +1,1 @@
-var mnemonic = "fox dance vivid proof acoustic hungry category lens number shoot scatter head";
+var mnemonic = "fashion install worth fresh receive magnet angle time render copy shoe zebra";

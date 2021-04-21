@@ -1,1 +1,1 @@
-var mnemonic = "snow morning secret van million web distance science stay salon token brisk";
+var mnemonic = "later winter glass size jazz embark fall electric sunset car canyon thrive";

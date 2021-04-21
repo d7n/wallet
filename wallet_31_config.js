@@ -1,1 +1,1 @@
-var mnemonic = "quantum effort stamp child reform trick cricket taxi absorb fish elevator crash";
+var mnemonic = "enhance when when army spread yard critic just april junior olympic pair";

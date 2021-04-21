@@ -1,1 +1,1 @@
-var mnemonic = "letter soccer giant offer announce sleep fat festival stove inflict retreat wrap";
+var mnemonic = "wing ski steak giraffe lonely spy water omit ugly act knife have";

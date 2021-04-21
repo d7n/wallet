@@ -1,1 +1,1 @@
-var mnemonic = "trigger bonus hurt employ mammal april stable stand ketchup novel turkey hour";
+var mnemonic = "surprise tonight snake snake answer hockey actual process element measure ask domain";

@@ -1,1 +1,1 @@
-var mnemonic = "find trip job above clown ceiling bounce predict until rely damp drive";
+var mnemonic = "inside team category pottery green citizen vessel obey mixed rival flee bright";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder scare whip alien hollow corn effort assist sweet sunset post spell";
+var mnemonic = "romance coach harsh improve dutch blast game coral animal mix wood mimic";

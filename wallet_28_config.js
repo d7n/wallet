@@ -1,1 +1,1 @@
-var mnemonic = "dog monkey problem loud little setup yard act rude vehicle wasp field";
+var mnemonic = "vote casino thunder ahead maid indoor knife trumpet stairs capital hollow account";

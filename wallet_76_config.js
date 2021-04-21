@@ -1,1 +1,1 @@
-var mnemonic = "answer good height simple enter current meat target supply mango talent gasp";
+var mnemonic = "rookie junk small mirror federal broken tail idea smooth half cancel shift";

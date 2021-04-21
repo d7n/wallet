@@ -1,1 +1,1 @@
-var mnemonic = "among attend brand finger ghost borrow rookie hat tonight van erosion forest";
+var mnemonic = "jar deposit voyage glow major exercise bag agent athlete royal kid long";

@@ -1,1 +1,1 @@
-var mnemonic = "only front pupil spell one oval elevator plunge way decade divorce sauce";
+var mnemonic = "shrimp exercise hero boring caught cash affair process note ship wear shrimp";

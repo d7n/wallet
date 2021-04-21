@@ -1,1 +1,1 @@
-var mnemonic = "juice sugar unable carbon common car domain second skirt blood blame spring";
+var mnemonic = "cable fetch grace spy faith mobile sister private hammer april video faculty";

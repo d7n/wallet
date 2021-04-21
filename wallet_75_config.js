@@ -1,1 +1,1 @@
-var mnemonic = "raven token salute page mass glad blade useless theory coach pave woman";
+var mnemonic = "fog kidney jacket soldier deposit lab veteran super liquid devote output legend";

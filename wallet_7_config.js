@@ -1,1 +1,1 @@
-var mnemonic = "group tenant census target rapid butter spice regret snap capital young pole";
+var mnemonic = "subway baby zoo panda ivory rubber away host diesel length famous sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "parent armor small clay truly nephew depend off diesel solve purpose shoulder";
+var mnemonic = "tattoo program crush tattoo grunt kind egg pioneer cook future prison weekend";

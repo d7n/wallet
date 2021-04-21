@@ -1,1 +1,1 @@
-var mnemonic = "famous joy wife danger know panther around circle jaguar memory grass verify";
+var mnemonic = "lunar peanut desk question act yard crop luggage head slender hurdle lumber";

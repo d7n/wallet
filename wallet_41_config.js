@@ -1,1 +1,1 @@
-var mnemonic = "census hat wing feel era lemon arrange meadow food mouse volcano skill";
+var mnemonic = "mad riot sting audit identify axis exhaust mercy area render pretty hurdle";

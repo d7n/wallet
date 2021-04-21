@@ -1,1 +1,1 @@
-var mnemonic = "mouse melt spread crisp avoid dream brick solution velvet tip cinnamon peanut";
+var mnemonic = "grab tunnel grunt surround slight share camera build nurse cabin sphere jump";

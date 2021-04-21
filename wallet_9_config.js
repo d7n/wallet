@@ -1,1 +1,1 @@
-var mnemonic = "phone slice awesome social eagle uncle fresh bind wave aisle never mobile";
+var mnemonic = "cup model mistake uphold shove cherry gate faith finish huge craft put";

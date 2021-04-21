@@ -1,1 +1,1 @@
-var mnemonic = "alert anchor eye corn face august diet frame elbow eyebrow please orient";
+var mnemonic = "truth cover hole endorse submit blur radio aware cry core pitch knife";

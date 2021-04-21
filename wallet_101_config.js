@@ -1,1 +1,1 @@
-var mnemonic = "sand kick coyote retreat bird monitor fire exact keep huge doll next";
+var mnemonic = "finish history purity secret oil bitter neutral column scheme shine luggage symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram fame method device forward wet category avoid flavor actress reason senior";
+var mnemonic = "olympic asthma accident doctor receive session pepper bronze walnut marble purity try";

@@ -1,1 +1,1 @@
-var mnemonic = "ability drop spy response minimum knee submit divorce churn robot state fix";
+var mnemonic = "popular menu range beyond velvet fly inhale stool vibrant year hamster punch";

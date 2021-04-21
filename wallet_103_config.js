@@ -1,1 +1,1 @@
-var mnemonic = "angry coffee impulse duty come law guess detail disorder lizard excite host";
+var mnemonic = "mirror spring option cross pulp step gather will twin mass life rally";

@@ -1,1 +1,1 @@
-var mnemonic = "govern nuclear response gather antique ecology sick afraid rough veteran quiz parade";
+var mnemonic = "jar try welcome today manual puzzle file history lava fix truly ripple";

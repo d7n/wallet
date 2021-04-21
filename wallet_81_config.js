@@ -1,1 +1,1 @@
-var mnemonic = "auction charge trophy merry pond must walk feed soul hobby truth arena";
+var mnemonic = "voyage plunge egg another occur task used vintage refuse maximum secret hole";

@@ -1,1 +1,1 @@
-var mnemonic = "trip lunar cousin afford panda bicycle approve scorpion squeeze sort blouse melt";
+var mnemonic = "excess feature swamp skin direct exchange hamster select pluck pass fashion property";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard century trumpet maid arrow pet damp empower any soon woman century";
+var mnemonic = "romance behave simple control lazy hole avoid siege story oyster blush castle";

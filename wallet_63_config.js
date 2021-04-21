@@ -1,1 +1,1 @@
-var mnemonic = "paper absurd kite heart discover demise entry happy board must ginger theory";
+var mnemonic = "arrange comfort rotate velvet owner supreme stock judge whale amateur tower hover";

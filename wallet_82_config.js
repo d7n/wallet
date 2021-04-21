@@ -1,1 +1,1 @@
-var mnemonic = "wing subject hand border orbit canal arch moral mango divide gift increase";
+var mnemonic = "chuckle card middle capital short prosper gospel trick pause heart excuse dog";

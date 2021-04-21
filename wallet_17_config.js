@@ -1,1 +1,1 @@
-var mnemonic = "charge way parrot call metal blast combine cry sign early wire shoot";
+var mnemonic = "please sea tube explain science leisure habit come donate credit mistake result";

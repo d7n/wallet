@@ -1,1 +1,1 @@
-var mnemonic = "boil copper decorate cushion gadget pumpkin quote tattoo squirrel near sense grab";
+var mnemonic = "track olive all return wedding tuition explain velvet oyster unlock hundred lamp";

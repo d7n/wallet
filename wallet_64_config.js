@@ -1,1 +1,1 @@
-var mnemonic = "rural cushion bless hurry dolphin stick nature present mosquito together quantum erosion";
+var mnemonic = "govern mystery envelope they similar provide region panel zone layer office tired";

@@ -1,1 +1,1 @@
-var mnemonic = "relax ivory gloom drop basket ancient crisp hen pluck crunch unhappy bag";
+var mnemonic = "butter lion fee critic breeze milk ugly wheat depend omit ill carpet";

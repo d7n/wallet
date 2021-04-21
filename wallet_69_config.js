@@ -1,1 +1,1 @@
-var mnemonic = "path cost dish seven cushion clump online relax uphold travel bright spider";
+var mnemonic = "water lake accident napkin focus list hospital fan column cactus ensure crash";

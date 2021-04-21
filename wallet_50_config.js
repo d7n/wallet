@@ -1,1 +1,1 @@
-var mnemonic = "neither wedding business age carpet bitter middle genius soccer scatter alien mobile";
+var mnemonic = "derive balance evolve neutral twist mad throw rally boy mesh motion atom";

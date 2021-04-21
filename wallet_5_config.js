@@ -1,1 +1,1 @@
-var mnemonic = "finger scout extra wolf neutral grocery surface drift casino eyebrow dice inflict";
+var mnemonic = "trash hole wine immense approve insane ensure accuse eternal bunker unfair wealth";

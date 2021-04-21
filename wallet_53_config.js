@@ -1,1 +1,1 @@
-var mnemonic = "drastic chef tape mountain dolphin gown describe smooth pear friend kingdom height";
+var mnemonic = "neither now trade bunker sudden east wrong demise rhythm manual make cannon";

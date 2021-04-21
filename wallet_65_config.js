@@ -1,1 +1,1 @@
-var mnemonic = "tomato armor knock car antique rally rival bring feature comfort special nuclear";
+var mnemonic = "shine theme fortune circle tennis wheat frequent entry must lady legal agree";

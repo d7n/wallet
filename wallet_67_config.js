@@ -1,1 +1,1 @@
-var mnemonic = "appear broken awful marble aunt field credit engage hope stamp pluck govern";
+var mnemonic = "auto eyebrow rich flame cruel belt owner drink pretty mosquito cycle nature";

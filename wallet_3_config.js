@@ -1,1 +1,1 @@
-var mnemonic = "cherry flavor ten usage provide another hurt clay derive dumb video start";
+var mnemonic = "promote kid camp giraffe strike cry work stomach flee knee sense absorb";

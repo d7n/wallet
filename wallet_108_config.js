@@ -1,1 +1,1 @@
-var mnemonic = "excess nation hello puzzle south vast small swamp coral enlist zero gain";
+var mnemonic = "stool parent reject draw height poverty length river disease word false ship";

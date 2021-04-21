@@ -1,1 +1,1 @@
-var mnemonic = "mutual exclude survey blanket smooth alone hen rude language pave flame ignore";
+var mnemonic = "pattern define anchor mule between pair reveal gentle stand soup liar loop";

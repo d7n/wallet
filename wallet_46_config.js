@@ -1,1 +1,1 @@
-var mnemonic = "mention predict rhythm crouch stove term purse skate dry inquiry interest thunder";
+var mnemonic = "helmet hope leader canyon hub little angle illegal insane stumble square doctor";

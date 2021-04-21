@@ -1,1 +1,1 @@
-var mnemonic = "filter view sun used under follow gravity market exhaust item knee multiply";
+var mnemonic = "seed concert miracle erode dragon crouch museum can room pink boost wide";

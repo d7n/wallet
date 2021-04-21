@@ -1,1 +1,1 @@
-var mnemonic = "coffee unit badge rain expose marine find useful devote solve admit sweet";
+var mnemonic = "search day sadness exhibit polar stage empower guide position then wear nature";

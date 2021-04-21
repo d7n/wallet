@@ -1,1 +1,1 @@
-var mnemonic = "famous leader income become decade comic naive consider gadget receive reunion split";
+var mnemonic = "innocent abandon shop smooth endless cost educate differ fortune recipe woman sword";

@@ -1,1 +1,1 @@
-var mnemonic = "song brisk walk labor captain oblige sting rigid woman obey paddle night";
+var mnemonic = "zero today similar enjoy gadget false brown hat hip expose crash force";

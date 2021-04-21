@@ -1,1 +1,1 @@
-var mnemonic = "tragic mountain miracle rapid manual master never traffic icon rice fun panther";
+var mnemonic = "leader pass lock notice omit glove sort cheese onion cheese elephant addict";

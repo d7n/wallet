@@ -1,1 +1,1 @@
-var mnemonic = "joke minimum fine begin can castle knife garment already unique crumble venue";
+var mnemonic = "basket comfort scrap menu depth board fancy dentist table glue organ volume";

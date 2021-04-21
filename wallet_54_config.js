@@ -1,1 +1,1 @@
-var mnemonic = "torch author tiny boy uniform tiger section age donate photo steak copy";
+var mnemonic = "rule wild eye hand theory curve kick border notable message door huge";

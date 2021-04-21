@@ -1,1 +1,1 @@
-var mnemonic = "disagree vessel degree profit banner magic diagram venue embrace doctor acoustic language";
+var mnemonic = "chicken spend anxiety cliff advice pride hen between enemy hammer digital consider";

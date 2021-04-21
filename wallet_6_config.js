@@ -1,1 +1,1 @@
-var mnemonic = "chief exact when manage main benefit neck hat coast female fiscal six";
+var mnemonic = "top correct wink catalog unusual fit burst gain wealth wolf maple gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy loan extend humor grant stuff session flower snake elite stone mutual";
+var mnemonic = "school volcano term payment sight sunset main velvet upset era shrug warm";

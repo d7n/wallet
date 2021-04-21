@@ -1,1 +1,1 @@
-var mnemonic = "burst discover ramp bind winner salmon sadness speed cup fetch change pistol";
+var mnemonic = "salmon flag opinion kick oil alert sort zoo region program dune december";

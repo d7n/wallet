@@ -1,1 +1,1 @@
-var mnemonic = "song what hockey coconut pilot point erupt monkey group robot fabric cable";
+var mnemonic = "jar jar item estate usage treat file short fiscal rely episode winner";

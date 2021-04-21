@@ -1,1 +1,1 @@
-var mnemonic = "play voice unusual can cream box logic caution text surge weather doll";
+var mnemonic = "kidney select museum mercy shy like barrel warfare cake agent script village";

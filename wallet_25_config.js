@@ -1,1 +1,1 @@
-var mnemonic = "banana clap pact agent spare diagram tide lazy soccer rich april female";
+var mnemonic = "sting security business lamp dynamic express square gap spare regular bread company";

@@ -1,1 +1,1 @@
-var mnemonic = "chief erase skill stamp visit false brown inflict main easily boat vapor";
+var mnemonic = "empty ready stock whisper there device acoustic wage soon assume inject empty";

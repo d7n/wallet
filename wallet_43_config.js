@@ -1,1 +1,1 @@
-var mnemonic = "token kingdom impulse expose chicken include brisk pave tower soldier market envelope";
+var mnemonic = "rent click buyer remember script dash assault vapor skull globe lawsuit hundred";

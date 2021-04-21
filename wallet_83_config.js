@@ -1,1 +1,1 @@
-var mnemonic = "pole universe pluck erosion goat tonight jungle wheat kitchen acquire journey bulk";
+var mnemonic = "maze opinion address strong else ostrich cake question bronze picture borrow tent";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry mandate discover quote photo olympic pledge seek oak velvet rubber guitar";
+var mnemonic = "banner clarify final subway second attract jeans bitter awake weird various enemy";

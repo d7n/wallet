@@ -1,1 +1,1 @@
-var mnemonic = "age govern thumb mimic head laundry heavy tray punch youth opera velvet";
+var mnemonic = "noble whip sister faith answer sand civil muscle century rotate shell flower";

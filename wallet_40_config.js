@@ -1,1 +1,1 @@
-var mnemonic = "twin armed loud sing valley tired link curious gorilla million uniform betray";
+var mnemonic = "blanket auction boost immense festival bicycle setup powder there praise forward home";

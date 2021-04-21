@@ -1,1 +1,1 @@
-var mnemonic = "camera radio accuse ozone empower curious number shaft fetch useful hole solution";
+var mnemonic = "include pig embrace garage sock obvious party bus ten autumn piano poet";

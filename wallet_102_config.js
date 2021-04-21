@@ -1,1 +1,1 @@
-var mnemonic = "water install vivid top grocery spawn limit guide hurt heavy naive name";
+var mnemonic = "robust blur lend clay prosper robust rotate leg bachelor reflect hole kidney";

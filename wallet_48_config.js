@@ -1,1 +1,1 @@
-var mnemonic = "strike plastic school demise involve grow parrot myth alpha concert mind rhythm";
+var mnemonic = "decline invite cable parent bag soul hazard prepare clinic giggle vibrant globe";
