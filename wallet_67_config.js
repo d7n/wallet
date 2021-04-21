@@ -1,1 +1,1 @@
-var mnemonic = "custom law lunch lesson club grass chicken hand hobby post story fire";
+var mnemonic = "rival rescue trial oxygen width close hard uniform alien favorite sleep subway";

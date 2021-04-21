@@ -1,1 +1,1 @@
-var mnemonic = "half never budget split grace arrange scare toss melody express ride essay";
+var mnemonic = "afford sentence problem laugh spice journey cluster solve endless turn recycle thrive";

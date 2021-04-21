@@ -1,1 +1,1 @@
-var mnemonic = "december drop rapid crime december amateur faculty start pear behave grocery inquiry";
+var mnemonic = "repeat oak menu fat cook enrich divert fossil device symbol stable mad";

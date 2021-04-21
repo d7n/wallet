@@ -1,1 +1,1 @@
-var mnemonic = "demand keep sort medal relax rude fluid frost grass quiz comic vacant";
+var mnemonic = "vehicle tribe enforce balance slice coral churn blur swap hundred enter eyebrow";

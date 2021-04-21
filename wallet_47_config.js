@@ -1,1 +1,1 @@
-var mnemonic = "aerobic crowd bargain public problem physical fuel enhance paddle brush cart write";
+var mnemonic = "inner follow sphere element swap tired file milk together outside vibrant ramp";

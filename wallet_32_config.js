@@ -1,1 +1,1 @@
-var mnemonic = "soup deposit unaware collect noodle bonus shallow like ketchup remember screen slush";
+var mnemonic = "gap wash clerk axis scare poet lottery drill library prepare dolphin margin";

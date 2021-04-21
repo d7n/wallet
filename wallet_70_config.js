@@ -1,1 +1,1 @@
-var mnemonic = "bottom evoke together salute rubber crumble disagree sheriff cool guess carbon virus";
+var mnemonic = "glue hold hood option effort maid glad modify arrange text govern become";

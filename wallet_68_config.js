@@ -1,1 +1,1 @@
-var mnemonic = "caution squirrel shell plunge session virtual slam grunt employ wheat nothing crack";
+var mnemonic = "point flight possible rocket enforce afraid weird grow tower poet hill buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "artist leg home oil tiger violin adult unit emotion rib syrup honey";
+var mnemonic = "animal service rocket earth inmate suspect final parent pen virus ignore second";

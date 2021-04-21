@@ -1,1 +1,1 @@
-var mnemonic = "will vocal wool black nurse anxiety good educate soon use capable ceiling";
+var mnemonic = "forum excuse volcano spring behave risk invite axis lunch reduce explain baby";

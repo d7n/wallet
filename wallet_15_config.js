@@ -1,1 +1,1 @@
-var mnemonic = "mansion pig frame miracle desk phone promote old skin try piano team";
+var mnemonic = "carbon picnic more convince shy mercy win skull jewel meadow hen clock";

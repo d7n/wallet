@@ -1,1 +1,1 @@
-var mnemonic = "twin video alone eagle teach shadow win nature cover fringe veteran leaf";
+var mnemonic = "guilt advance bachelor taste crop require mix grant diary gain pool because";

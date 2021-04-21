@@ -1,1 +1,1 @@
-var mnemonic = "cup donate sight ridge hair flavor goddess auto service pear goose minor";
+var mnemonic = "toss armor spare simple height account mask soldier saddle stadium axis joy";

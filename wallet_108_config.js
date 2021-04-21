@@ -1,1 +1,1 @@
-var mnemonic = "imitate fresh resist merit main style peace novel weasel exclude voyage glare";
+var mnemonic = "civil tobacco unfold shrimp arctic include stomach family lava turkey system runway";

@@ -1,1 +1,1 @@
-var mnemonic = "identify mule swift sustain ride leg identify kitchen brush pipe true danger";
+var mnemonic = "whisper identify frog east online reunion stairs cruise desk target stay mimic";

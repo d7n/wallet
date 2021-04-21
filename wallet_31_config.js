@@ -1,1 +1,1 @@
-var mnemonic = "sentence move dust during receive sample lock one gravity rule wrestle tomato";
+var mnemonic = "practice butter museum safe sniff top street current post busy comfort prefer";

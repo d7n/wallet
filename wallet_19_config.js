@@ -1,1 +1,1 @@
-var mnemonic = "garden dress pride spot deliver unknown stuff good fence record horror keep";
+var mnemonic = "cluster wish inflict dash wild never cry company live excess wagon surround";

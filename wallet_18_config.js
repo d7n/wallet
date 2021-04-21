@@ -1,1 +1,1 @@
-var mnemonic = "taste vehicle foil oil admit zero next snake weekend witness comic nest";
+var mnemonic = "wise science favorite strong final cash canvas humble clock buzz tuna sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "globe clerk lab metal excess side suggest sketch neutral boy accident depth";
+var mnemonic = "summer wrong total citizen scatter outdoor license gallery hub chat erosion sight";

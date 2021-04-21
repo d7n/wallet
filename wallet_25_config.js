@@ -1,1 +1,1 @@
-var mnemonic = "walk struggle unfair tuna host warm town lawn mandate media cupboard reform";
+var mnemonic = "despair mistake box truly panda refuse beyond mesh sponsor fossil fold receive";

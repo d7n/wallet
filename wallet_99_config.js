@@ -1,1 +1,1 @@
-var mnemonic = "emotion razor front access mother sorry ocean lens knee tray found retire";
+var mnemonic = "arena glad rocket lady dynamic praise comfort start slush series benefit cake";

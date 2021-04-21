@@ -1,1 +1,1 @@
-var mnemonic = "choose slim spawn sugar metal much mule legend brick icon outdoor imitate";
+var mnemonic = "youth runway aisle goddess dutch enlist dial unable now mountain bundle trigger";

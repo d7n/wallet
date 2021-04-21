@@ -1,1 +1,1 @@
-var mnemonic = "oak swim trend retire eagle together used just eternal pizza owner hockey";
+var mnemonic = "hawk flock letter income burst expect spike fever warfare range auction dish";

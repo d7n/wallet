@@ -1,1 +1,1 @@
-var mnemonic = "hazard keep forest model loud acquire access mom scatter kiss dismiss brief";
+var mnemonic = "short movie runway planet crowd step pass sight kangaroo cabin ancient job";

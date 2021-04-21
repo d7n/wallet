@@ -1,1 +1,1 @@
-var mnemonic = "unit choose turn vacuum ten warm chat tent elbow educate cherry course";
+var mnemonic = "wedding jelly boil federal hour transfer between friend core under excite unable";

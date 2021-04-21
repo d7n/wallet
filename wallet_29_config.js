@@ -1,1 +1,1 @@
-var mnemonic = "sugar exile tongue seat coyote cradle crystal joy casual cost wagon strong";
+var mnemonic = "episode genre want naive coin fiction slice still picture obey skull tuna";

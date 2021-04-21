@@ -1,1 +1,1 @@
-var mnemonic = "aerobic boost rebuild farm jewel uphold type waste spike omit defense rate";
+var mnemonic = "slot gift hawk slush advance cream shift notice bone index entry practice";

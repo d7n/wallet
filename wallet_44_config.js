@@ -1,1 +1,1 @@
-var mnemonic = "invest scrub barrel trust man engine make pledge noble report pipe brief";
+var mnemonic = "basic life dress exclude calm bright review diesel short habit pill try";

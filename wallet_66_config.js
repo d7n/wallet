@@ -1,1 +1,1 @@
-var mnemonic = "ill focus giraffe rookie swing boil pelican celery skate crane laundry capital";
+var mnemonic = "soccer family round jaguar motion omit taxi short copy pig crack diamond";

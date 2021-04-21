@@ -1,1 +1,1 @@
-var mnemonic = "suspect embark cover tape talent cherry onion discover cake reunion fiscal gloom";
+var mnemonic = "risk crisp frog hurt pool stage anchor deal appear noble hamster blush";

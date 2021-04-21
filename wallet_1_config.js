@@ -1,1 +1,1 @@
-var mnemonic = "lyrics gauge unhappy truly math float mail anger allow private social rug";
+var mnemonic = "solution wealth saddle charge grape ramp void income cigar sugar emerge unhappy";

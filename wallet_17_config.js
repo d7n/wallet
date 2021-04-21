@@ -1,1 +1,1 @@
-var mnemonic = "lazy rhythm ribbon jewel round river square lemon tip spider core expire";
+var mnemonic = "high antenna bike bean region arrow bitter federal hurt pumpkin owner toe";

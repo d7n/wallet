@@ -1,1 +1,1 @@
-var mnemonic = "sad couch dial gun alert enough winner rain desert whisper math soccer";
+var mnemonic = "siege spray snake wild portion seat cricket dirt tribe orbit keep general";

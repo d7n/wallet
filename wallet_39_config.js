@@ -1,1 +1,1 @@
-var mnemonic = "layer debate car velvet category cage carry weird rotate prevent crew exercise";
+var mnemonic = "person panic unveil urban yard hidden poet fetch deal defense april demand";

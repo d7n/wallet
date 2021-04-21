@@ -1,1 +1,1 @@
-var mnemonic = "cute own catch only tree clutch reject permit rocket choice legend grid";
+var mnemonic = "option again desert relax bread rule essay surround file future surface emotion";

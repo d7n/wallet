@@ -1,1 +1,1 @@
-var mnemonic = "focus skate swallow measure fuel naive brick regular phrase situate slush accuse";
+var mnemonic = "drive frame pulse judge rival gossip agree bread fold demise raw biology";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry rebel lens leisure intact model oval copper laundry bitter fashion ordinary";
+var mnemonic = "become door total pumpkin present twist safe fan dose river match ride";

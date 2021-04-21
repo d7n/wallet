@@ -1,1 +1,1 @@
-var mnemonic = "abuse head museum raven run large index place design hair veteran neck";
+var mnemonic = "fetch panic creek burden wave come simple device faith able exchange rib";

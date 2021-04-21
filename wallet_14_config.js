@@ -1,1 +1,1 @@
-var mnemonic = "harbor arrow title artefact mom theory reopen turkey hair post task insane";
+var mnemonic = "property erase stage hamster need mountain add razor tribe own tip kiwi";

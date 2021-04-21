@@ -1,1 +1,1 @@
-var mnemonic = "year hotel shock inner army giggle plug best rich unveil enter rocket";
+var mnemonic = "pumpkin pistol soon rubber drop cycle arrange price rather farm now lock";

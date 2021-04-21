@@ -1,1 +1,1 @@
-var mnemonic = "snack skate patch spell subway fit jealous window carry idea clarify ignore";
+var mnemonic = "palace quit thumb solid output long pattern remind figure miss high aunt";

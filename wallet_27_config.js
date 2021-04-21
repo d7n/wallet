@@ -1,1 +1,1 @@
-var mnemonic = "consider apart south alley upon sand ugly what audit anxiety blue tell";
+var mnemonic = "car hurt clarify chronic senior proof maximum another smile cost wool electric";

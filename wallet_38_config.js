@@ -1,1 +1,1 @@
-var mnemonic = "session keep quote purchase toe jewel afraid advance board oak like insect";
+var mnemonic = "food cube valid calm chief grape athlete sea evidence paper crater woman";

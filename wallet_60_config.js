@@ -1,1 +1,1 @@
-var mnemonic = "royal rapid spot lemon bitter pole merge live amused calm spread close";
+var mnemonic = "exist boy enemy document enforce unknown tattoo gain cancel veteran whisper track";

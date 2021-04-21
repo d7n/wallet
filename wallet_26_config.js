@@ -1,1 +1,1 @@
-var mnemonic = "industry world winner fee submit spawn month mammal wisdom voyage dune coach";
+var mnemonic = "decline million render merit dream hen portion identify whip ignore fall conduct";

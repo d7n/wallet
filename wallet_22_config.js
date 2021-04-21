@@ -1,1 +1,1 @@
-var mnemonic = "offer until enter taste flame coyote pizza fury device father gaze lizard";
+var mnemonic = "license drop border key regular canoe pizza great inch strike track habit";

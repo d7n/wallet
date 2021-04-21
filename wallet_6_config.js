@@ -1,1 +1,1 @@
-var mnemonic = "subway strike echo oak struggle very lunar green venture economy among party";
+var mnemonic = "ocean edit swift hour latin blossom swear bike early foster where like";

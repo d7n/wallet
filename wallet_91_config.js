@@ -1,1 +1,1 @@
-var mnemonic = "dismiss purpose ramp glove team solution blue amazing smooth donate athlete rich";
+var mnemonic = "insane section inquiry hamster rapid wall gossip olive disorder chat profit gown";

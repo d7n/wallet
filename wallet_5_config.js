@@ -1,1 +1,1 @@
-var mnemonic = "list return similar almost sting sick desert barely update embody panda amateur";
+var mnemonic = "symbol grass behind bitter abandon slogan distance resemble sure view cost kidney";

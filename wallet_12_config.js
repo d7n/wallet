@@ -1,1 +1,1 @@
-var mnemonic = "spray prize found wing service rich finger guitar slice elbow cinnamon pool";
+var mnemonic = "choose oak provide settle success trust tiny window toward fossil true road";

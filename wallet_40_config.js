@@ -1,1 +1,1 @@
-var mnemonic = "artefact decrease relax orange remind weasel shield shy few slight tourist surge";
+var mnemonic = "genuine pilot legend captain fuel flash version outdoor river calm add wire";

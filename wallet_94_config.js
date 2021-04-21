@@ -1,1 +1,1 @@
-var mnemonic = "film one bottom act page utility fame more slice shrug resist expose";
+var mnemonic = "people advice exit portion east monitor begin patrol liquid plate visit sell";

@@ -1,1 +1,1 @@
-var mnemonic = "tone they knock unveil hope gentle clever want hockey guilt pizza coin";
+var mnemonic = "mutual client ridge sight interest ice trophy venue dinner absent dance express";

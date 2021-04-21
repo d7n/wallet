@@ -1,1 +1,1 @@
-var mnemonic = "pen buyer change sample indoor desert layer apology always palace excess bracket";
+var mnemonic = "repeat gym web impose nest zone okay come april produce enact smooth";

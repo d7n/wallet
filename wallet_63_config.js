@@ -1,1 +1,1 @@
-var mnemonic = "tobacco host immune own submit kingdom token plunge fiscal involve surface climb";
+var mnemonic = "depth miss jungle poet firm region auction level lion cruise enrich misery";

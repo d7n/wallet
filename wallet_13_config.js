@@ -1,1 +1,1 @@
-var mnemonic = "demise reform obscure metal stereo cause resist inch session actor hundred analyst";
+var mnemonic = "winner head arena aisle crystal plunge august club employ concert cook public";

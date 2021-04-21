@@ -1,1 +1,1 @@
-var mnemonic = "frost flower zebra claim leopard cargo payment stock wine say truly matrix";
+var mnemonic = "fatal kick lizard lemon curve color just six carbon key raw nut";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper more minimum truck icon rhythm champion general uniform view random use";
+var mnemonic = "cry ski soldier patch doll kite chest open list wheat drama amateur";

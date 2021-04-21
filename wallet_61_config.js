@@ -1,1 +1,1 @@
-var mnemonic = "enforce desk ozone curtain gloom huge beauty flee drastic skate best magic";
+var mnemonic = "squirrel fade drama example damp pyramid poet lava music dream crunch arrange";

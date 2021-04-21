@@ -1,1 +1,1 @@
-var mnemonic = "forget reopen option kiss square donkey impulse fury aerobic tiger viable miracle";
+var mnemonic = "isolate camp village course funny swing cinnamon usual increase exchange october aisle";

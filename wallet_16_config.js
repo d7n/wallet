@@ -1,1 +1,1 @@
-var mnemonic = "pigeon version bridge wealth buffalo hollow wasp gallery together portion chief reflect";
+var mnemonic = "advice satisfy wave donate alert quick can spring allow swift mountain scrap";

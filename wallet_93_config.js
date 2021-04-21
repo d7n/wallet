@@ -1,1 +1,1 @@
-var mnemonic = "labor actor element dizzy hockey wool ginger surface lawsuit magic put puppy";
+var mnemonic = "hybrid genre idea normal simple easy fiction craft benefit worth amazing short";

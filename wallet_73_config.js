@@ -1,1 +1,1 @@
-var mnemonic = "wisdom siren mixture symbol rural detail galaxy inhale festival alone taste cable";
+var mnemonic = "head toy expect brain feature mesh smart aunt spy toward trophy anchor";

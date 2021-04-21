@@ -1,1 +1,1 @@
-var mnemonic = "flag drum now gas citizen oval raw heart kiss glue interest effort";
+var mnemonic = "jelly mass tonight road enough cook option black refuse goddess legend travel";

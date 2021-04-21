@@ -1,1 +1,1 @@
-var mnemonic = "cheap attitude catalog topic owner supply minute vacuum vicious drum detect then";
+var mnemonic = "maid step bargain liar extend pull desk three dance flee uncover deer";

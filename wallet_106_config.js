@@ -1,1 +1,1 @@
-var mnemonic = "drip one merry thing bounce jewel baby chair try true van rural";
+var mnemonic = "erode gown brisk devote announce erosion approve upgrade notice subject inflict purchase";

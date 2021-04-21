@@ -1,1 +1,1 @@
-var mnemonic = "spawn rocket hedgehog know roast coral impose over gauge jacket robust tornado";
+var mnemonic = "click face amazing reopen diet scatter wheat flat leopard spice fiber describe";

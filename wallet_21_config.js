@@ -1,1 +1,1 @@
-var mnemonic = "claim gravity ability type youth spike escape lucky culture tissue clean judge";
+var mnemonic = "mansion cousin raven symptom sure despair quality use shallow minute wild shock";

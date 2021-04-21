@@ -1,1 +1,1 @@
-var mnemonic = "cannon sorry ecology hat general donate say diet depart advice elevator picture";
+var mnemonic = "lottery genre palace peasant vacuum stamp item scatter property ship young copper";

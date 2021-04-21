@@ -1,1 +1,1 @@
-var mnemonic = "sibling share absent juice sauce rice venue gauge rocket earth fluid detect";
+var mnemonic = "ketchup umbrella truck pottery lion anchor admit hint action rural tomato rain";

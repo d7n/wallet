@@ -1,1 +1,1 @@
-var mnemonic = "crouch grid service under corn blanket cost tonight improve pause exhaust point";
+var mnemonic = "hard surprise remind melody purity upon future moral repeat bachelor outdoor wolf";

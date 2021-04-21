@@ -1,1 +1,1 @@
-var mnemonic = "subway chest decline turn liberty angle traffic strategy hazard owner reunion audit";
+var mnemonic = "spread snack boost office ostrich isolate flower either hint slam cousin awkward";

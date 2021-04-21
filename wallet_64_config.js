@@ -1,1 +1,1 @@
-var mnemonic = "million wide better swift ostrich shove emerge brisk patrol teach horn network";
+var mnemonic = "buddy occur depend razor pilot correct club beyond veteran fringe riot balance";

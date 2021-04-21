@@ -1,1 +1,1 @@
-var mnemonic = "erase woman shiver forget orphan nation swift arena slam swarm affair rapid";
+var mnemonic = "mechanic buffalo engage eight oxygen mom gown rural build short ripple weekend";

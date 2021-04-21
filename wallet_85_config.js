@@ -1,1 +1,1 @@
-var mnemonic = "depart glory melody base sunny spatial erosion season hurdle comfort park glad";
+var mnemonic = "cricket crime romance check kick vivid deal book habit depth swim various";

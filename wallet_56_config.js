@@ -1,1 +1,1 @@
-var mnemonic = "exclude render clever decrease lobster heavy dawn funny finish flash energy play";
+var mnemonic = "use hard pull strategy bean jump night sibling dash assume mimic path";

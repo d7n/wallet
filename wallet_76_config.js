@@ -1,1 +1,1 @@
-var mnemonic = "coral fabric sniff program lion regular answer narrow tiny horror parrot trick";
+var mnemonic = "march liquid erupt explain endorse input muscle junk above rug cushion flock";

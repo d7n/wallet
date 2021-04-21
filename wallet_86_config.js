@@ -1,1 +1,1 @@
-var mnemonic = "brass solar soul unusual pony park orphan proof lady keen cream now";
+var mnemonic = "load tongue purse little another copper lounge inmate wedding frequent pave muscle";

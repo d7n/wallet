@@ -1,1 +1,1 @@
-var mnemonic = "decide team orient blame smoke hip phrase margin injury fury call super";
+var mnemonic = "front drip dial buyer thunder net credit jewel fan absurd dawn quarter";

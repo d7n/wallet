@@ -1,1 +1,1 @@
-var mnemonic = "alpha crisp rocket game cheap point park light unknown verb noise secret";
+var mnemonic = "honey company chalk ahead about senior staff secret fault eternal broom lounge";

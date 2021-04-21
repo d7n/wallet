@@ -1,1 +1,1 @@
-var mnemonic = "much mushroom bubble behind demand exact afford time eagle steel father abstract";
+var mnemonic = "misery author ocean film sight already swift access squeeze approve oak diet";

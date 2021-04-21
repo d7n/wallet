@@ -1,1 +1,1 @@
-var mnemonic = "polar skirt disorder meat artwork child garden trim sting merge never main";
+var mnemonic = "awesome solar bottom cousin drill coyote divorce entry arm female can salmon";

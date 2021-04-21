@@ -1,1 +1,1 @@
-var mnemonic = "air pill finger flavor dad spring ritual metal field banana gate ride";
+var mnemonic = "fiscal medal glue book material plunge blanket arch traffic focus more diesel";

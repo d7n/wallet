@@ -1,1 +1,1 @@
-var mnemonic = "sausage rich network crop know uncover clap salt human flee fiscal company";
+var mnemonic = "manage carbon adult nerve power duck jungle desk essence custom february thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "blame shaft pottery length inherit erase rain average side drum unfold win";
+var mnemonic = "sample winter fade easy betray hobby crack sick retreat crane curve dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "fame glad equip uphold snap glide cheese smart zone scare school jazz";
+var mnemonic = "ensure husband mention kid extra mad office evil thrive raven vault auction";

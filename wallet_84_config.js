@@ -1,1 +1,1 @@
-var mnemonic = "motor expose polar zero ticket eight hedgehog wrestle fire ask broken cliff";
+var mnemonic = "tip bag million talk scale celery crazy jelly wide mushroom mammal fat";

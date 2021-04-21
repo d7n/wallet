@@ -1,1 +1,1 @@
-var mnemonic = "radio power citizen close grant refuse shadow skate float account swear cruel";
+var mnemonic = "diagram attend hurdle credit pattern visual couple letter bone rude strategy logic";
