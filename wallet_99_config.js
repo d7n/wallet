@@ -1,1 +1,1 @@
-var mnemonic = "penalty slogan minimum gasp couple engine life artwork help weekend spring amused";
+var mnemonic = "sketch taxi royal fine excuse drastic add mandate climb front tenant bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "price horror mad volcano suit clap smile ugly ten agree define mobile";
+var mnemonic = "ranch unit trap buffalo blossom sleep oblige member hire behind round skill";

@@ -1,1 +1,1 @@
-var mnemonic = "physical settle dismiss normal century helmet fix mad vapor trim vicious floor";
+var mnemonic = "occur insane recipe now mercy siren rookie fortune symptom argue fiction forum";

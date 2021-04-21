@@ -1,1 +1,1 @@
-var mnemonic = "auction swim fly crumble type link answer hill legal token hawk entire";
+var mnemonic = "lady second drift fine super become island ranch used pudding essence gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "feed leader moment badge erase exist decrease abstract medal lecture settle indicate";
+var mnemonic = "heavy dust arrange sting episode harsh cotton control typical thrive music element";

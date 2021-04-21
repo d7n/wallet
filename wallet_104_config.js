@@ -1,1 +1,1 @@
-var mnemonic = "cloth record live sausage black below require phrase dawn ethics drop grain";
+var mnemonic = "sunset swap model quit adult dune spoon absent sleep rare mother oppose";

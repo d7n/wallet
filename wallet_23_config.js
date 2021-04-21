@@ -1,1 +1,1 @@
-var mnemonic = "into dwarf promote nut drum upset virtual spell person crisp evil injury";
+var mnemonic = "favorite rifle minute dash verify canvas perfect own shrimp trend dove renew";

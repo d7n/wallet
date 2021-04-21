@@ -1,1 +1,1 @@
-var mnemonic = "alcohol monkey solid crush hub embrace matter clever sense bleak whip bracket";
+var mnemonic = "elevator play rice consider enact bonus vacant mansion helmet wedding pave transfer";

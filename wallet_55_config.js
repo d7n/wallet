@@ -1,1 +1,1 @@
-var mnemonic = "safe sick pull ball source dwarf chat bacon heart scout face grape";
+var mnemonic = "machine excuse remain area great grow swift drum very movie spice success";

@@ -1,1 +1,1 @@
-var mnemonic = "wire crisp agent cereal opera poet pattern misery fury soldier nasty cart";
+var mnemonic = "cause grass usual feel source dress napkin nothing patient spawn situate cotton";

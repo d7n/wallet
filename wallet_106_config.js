@@ -1,1 +1,1 @@
-var mnemonic = "belt number antenna nature push essay blame kind ankle squirrel display devote";
+var mnemonic = "walk illegal practice scan outdoor leader toast panic supply effort original exile";

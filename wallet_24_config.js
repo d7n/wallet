@@ -1,1 +1,1 @@
-var mnemonic = "farm hair whisper bomb awful please access venue field arctic area tank";
+var mnemonic = "betray reform swim spread wrong sad begin term radio coach weekend hurry";

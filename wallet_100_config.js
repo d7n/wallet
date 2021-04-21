@@ -1,1 +1,1 @@
-var mnemonic = "tower high please mesh fiction rough ball prison relax lazy question before";
+var mnemonic = "bullet ordinary zone together account universe demise history surge silly pencil horse";

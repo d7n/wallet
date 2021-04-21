@@ -1,1 +1,1 @@
-var mnemonic = "uphold unlock trade again hero success page swarm track edge drift elite";
+var mnemonic = "adult setup tiny write awkward middle future crumble spread waste near author";

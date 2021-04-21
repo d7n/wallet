@@ -1,1 +1,1 @@
-var mnemonic = "response ethics wear adapt shell judge usage scan hobby moon diary swing";
+var mnemonic = "win hotel electric undo gasp churn asthma please join father record tackle";

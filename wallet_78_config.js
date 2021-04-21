@@ -1,1 +1,1 @@
-var mnemonic = "style crane rude pass struggle sausage shield adjust interest become asset group";
+var mnemonic = "fancy barely burden garbage nice reflect tilt clock section better boat excess";

@@ -1,1 +1,1 @@
-var mnemonic = "battle target someone scissors bulk gauge unfold buzz quiz taste slot wash";
+var mnemonic = "father fee scout title puppy scrap favorite quantum question eternal degree away";

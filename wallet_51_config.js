@@ -1,1 +1,1 @@
-var mnemonic = "expire mad entire talent festival range identify genre thought gate february educate";
+var mnemonic = "survey valid equal interest convince skin ask coin dignity fire person draft";

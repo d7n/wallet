@@ -1,1 +1,1 @@
-var mnemonic = "radar wheat slice name bulb oblige people people skirt pudding brown dumb";
+var mnemonic = "crouch mother poem sorry excite purpose vendor term spike raise secret shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb text used fever tonight maid ticket purity mirror remind miracle under";
+var mnemonic = "lawsuit monster coyote infant island duty bag royal orange gold original write";

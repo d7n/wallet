@@ -1,1 +1,1 @@
-var mnemonic = "toss wife level surprise twin panther outside cradle shuffle list yard kangaroo";
+var mnemonic = "frame borrow lecture air lunch detail deputy medal goddess piece cotton blur";

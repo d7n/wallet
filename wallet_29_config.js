@@ -1,1 +1,1 @@
-var mnemonic = "filter seed essay frequent nut protect behind drink disagree nose road bitter";
+var mnemonic = "hub hamster mango ability wing sauce satisfy strike permit document afford medal";

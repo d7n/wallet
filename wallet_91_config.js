@@ -1,1 +1,1 @@
-var mnemonic = "forget symptom impact evil predict voyage empower cargo debris middle creek neck";
+var mnemonic = "prepare favorite drip camera wet escape culture explain carry paper scare nose";

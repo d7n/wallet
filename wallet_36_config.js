@@ -1,1 +1,1 @@
-var mnemonic = "version almost math bubble once rebuild draft cash coach know index city";
+var mnemonic = "tenant include summer grace clinic clip grit strike fiction friend robust metal";

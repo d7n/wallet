@@ -1,1 +1,1 @@
-var mnemonic = "group more swap joy example worry top relief push enjoy long online";
+var mnemonic = "salmon wait drill parade silk demise polar asthma witness dumb original early";

@@ -1,1 +1,1 @@
-var mnemonic = "hire immune sugar alone wreck benefit industry grass curious cradle same agent";
+var mnemonic = "dice chronic usual scene industry list van tiny review atom critic nurse";

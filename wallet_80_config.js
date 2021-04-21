@@ -1,1 +1,1 @@
-var mnemonic = "grant boil decline either dance glass oven core idle mosquito erupt proof";
+var mnemonic = "pool elbow culture item want shoe clog belt pond juice resource budget";

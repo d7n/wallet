@@ -1,1 +1,1 @@
-var mnemonic = "divert cloth convince open romance extra hole live panic garlic pulp strategy";
+var mnemonic = "fragile quick cruel muscle actor regular wide tell exhibit old relax odor";

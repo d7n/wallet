@@ -1,1 +1,1 @@
-var mnemonic = "seek clump milk permit donor wrist topple same science profit undo hotel";
+var mnemonic = "drop fine tomato robust fish tourist broom alarm duty give feed act";

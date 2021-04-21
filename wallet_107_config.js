@@ -1,1 +1,1 @@
-var mnemonic = "perfect void firm element link runway candy tortoise tell skate update debris";
+var mnemonic = "scene shallow gorilla core legal evidence play satoshi left news image ten";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong symbol actual tent air wide ostrich kitchen hair wheel ginger dizzy";
+var mnemonic = "horn motor drop flag shop knee pilot nose find tool taste country";

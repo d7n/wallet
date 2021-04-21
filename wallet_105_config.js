@@ -1,1 +1,1 @@
-var mnemonic = "day receive label burden fatigue romance learn kiss siren such space harbor";
+var mnemonic = "before dove spawn immense chat crime draw maze interest couple long crash";

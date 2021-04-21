@@ -1,1 +1,1 @@
-var mnemonic = "vicious gospel put fashion flat estate polar bone palace mask salad diagram";
+var mnemonic = "mirror grab slice alpha liquid cave traffic meadow arrive either call space";

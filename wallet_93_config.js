@@ -1,1 +1,1 @@
-var mnemonic = "comic inmate endorse glance punch inherit blast idle warfare glue best into";
+var mnemonic = "common spawn depend wolf outside tribe transfer raise panel trend dentist fatigue";

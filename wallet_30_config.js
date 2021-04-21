@@ -1,1 +1,1 @@
-var mnemonic = "parrot senior rifle glue peace swing prison debate large where length toy";
+var mnemonic = "fever spray crush pottery crash height harsh grit clog dilemma capital occur";

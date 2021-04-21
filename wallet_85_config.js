@@ -1,1 +1,1 @@
-var mnemonic = "middle hunt whale fan clean latin body anchor car trap nurse nasty";
+var mnemonic = "despair mystery curious item excuse they skirt forum army unusual bind asset";

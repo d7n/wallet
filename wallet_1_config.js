@@ -1,1 +1,1 @@
-var mnemonic = "betray cupboard cross smile daring night special brief palace sense normal total";
+var mnemonic = "kitchen east degree exchange siren degree harsh wheel flame still thrive tomorrow";

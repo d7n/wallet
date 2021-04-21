@@ -1,1 +1,1 @@
-var mnemonic = "before mutual document swarm earn can alpha innocent smoke quality become venue";
+var mnemonic = "version bicycle suit endorse upon verify potato minute route gift tip island";

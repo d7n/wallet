@@ -1,1 +1,1 @@
-var mnemonic = "fat volume reflect reason put blue unlock cradle electric wool caution dice";
+var mnemonic = "awake achieve bracket biology execute invest inquiry winner attitude habit school weasel";

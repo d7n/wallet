@@ -1,1 +1,1 @@
-var mnemonic = "much roof donate blossom pet winter police asset price obey token render";
+var mnemonic = "allow march fly absent liquid like defy oval ten section arrow elephant";

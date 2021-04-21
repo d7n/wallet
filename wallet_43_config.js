@@ -1,1 +1,1 @@
-var mnemonic = "trophy lyrics card despair surprise bacon ocean torch excess change friend short";
+var mnemonic = "eagle excess gym garment liberty awkward marriage sand expect mandate cloud tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "educate police rather giggle fame three any excuse enrich occur change traffic";
+var mnemonic = "borrow journey valid invest outside bicycle vessel uphold much inhale kitten iron";

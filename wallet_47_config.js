@@ -1,1 +1,1 @@
-var mnemonic = "will service kiss noise slim sponsor trade lumber nephew jelly stomach raise";
+var mnemonic = "stove churn panel witness plug force toilet pipe famous bulk paddle drum";

@@ -1,1 +1,1 @@
-var mnemonic = "damage wagon coast have illness immense network bronze world jungle arrow lake";
+var mnemonic = "cool crime earn welcome video balcony gentle pause vault duty similar forum";

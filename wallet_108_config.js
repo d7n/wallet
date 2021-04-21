@@ -1,1 +1,1 @@
-var mnemonic = "rally drink shrug outdoor wear demise shoulder bright opinion shed net wait";
+var mnemonic = "clip melt else travel border empty plunge shaft holiday fitness cute category";

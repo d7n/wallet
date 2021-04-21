@@ -1,1 +1,1 @@
-var mnemonic = "heavy illegal riot whisper room invite lobster eight diet demise loan middle";
+var mnemonic = "art butter manual mix cliff include below brief juice canyon video mountain";

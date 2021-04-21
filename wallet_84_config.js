@@ -1,1 +1,1 @@
-var mnemonic = "melody bird regular flame idle rookie monster text craft staff figure patrol";
+var mnemonic = "cereal exhaust unfair horse collect recall try embody warm box notice tackle";

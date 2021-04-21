@@ -1,1 +1,1 @@
-var mnemonic = "movie snack dynamic guilt soft language sustain timber session term frown stone";
+var mnemonic = "home salon welcome parent monitor habit slice clay possible harsh genuine critic";

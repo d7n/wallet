@@ -1,1 +1,1 @@
-var mnemonic = "purpose rhythm glide acid base scrub truly picnic street service blouse twenty";
+var mnemonic = "video trap warrior title extra when siren defy lawn bitter visual arch";

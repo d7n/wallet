@@ -1,1 +1,1 @@
-var mnemonic = "sock blush tobacco roof bike potato slight noble buddy adult enough pond";
+var mnemonic = "fiscal permit slim address simple quiz render clip enough price flower grant";

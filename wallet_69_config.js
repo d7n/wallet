@@ -1,1 +1,1 @@
-var mnemonic = "tortoise battle naive federal night human gesture stock sand jaguar dash mask";
+var mnemonic = "social arrest gasp strike view hub lunch vanish scare motor quiz price";

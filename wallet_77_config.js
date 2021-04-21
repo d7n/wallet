@@ -1,1 +1,1 @@
-var mnemonic = "ritual recipe income wrist record parent three glue wear various rib index";
+var mnemonic = "leg gospel forest box sentence protect dawn ship outside utility sword plate";

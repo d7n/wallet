@@ -1,1 +1,1 @@
-var mnemonic = "left upon mimic assist favorite earth damage tower voice month heart alcohol";
+var mnemonic = "come shrug family february tree cost stairs fortune hungry brand fox couple";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi myself wash razor mother whisper pledge century minimum inhale end laugh";
+var mnemonic = "cupboard domain barely pause finish matrix mass capital advice remind bid quote";

@@ -1,1 +1,1 @@
-var mnemonic = "grant trap false carbon flower tooth wink polar sock anchor truck food";
+var mnemonic = "disorder race spawn hobby brown exhaust better timber federal paddle curious guitar";

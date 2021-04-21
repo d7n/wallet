@@ -1,1 +1,1 @@
-var mnemonic = "antenna bus feed broom muffin season license inject spatial current slice grain";
+var mnemonic = "alarm minute ancient job echo cat year salon shift caution display prize";

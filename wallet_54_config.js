@@ -1,1 +1,1 @@
-var mnemonic = "athlete essence mistake rally talk hello accuse tank blue dynamic bomb pole";
+var mnemonic = "raven habit body inch whisper omit suffer benefit typical hundred enough spend";

@@ -1,1 +1,1 @@
-var mnemonic = "enter interest more blame clarify extend panther coconut artwork finish assist derive";
+var mnemonic = "artwork awake satisfy enable steel fabric size field grab fox settle art";

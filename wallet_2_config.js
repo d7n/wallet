@@ -1,1 +1,1 @@
-var mnemonic = "what pride access priority middle certain result sand ride quarter fuel talk";
+var mnemonic = "ranch item tent leaf since refuse mammal broom pelican start loop tree";

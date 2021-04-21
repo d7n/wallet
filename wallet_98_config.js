@@ -1,1 +1,1 @@
-var mnemonic = "orange minimum alpha ancient announce theory survey aunt uphold menu diet card";
+var mnemonic = "awake color arrow neglect later kind soft charge digital radar piano wasp";

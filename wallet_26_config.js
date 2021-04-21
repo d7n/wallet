@@ -1,1 +1,1 @@
-var mnemonic = "pilot allow quick exotic dice echo parent opinion inhale volume math youth";
+var mnemonic = "meadow atom blade give magnet game hood awful rule cover also attract";

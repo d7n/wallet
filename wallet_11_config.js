@@ -1,1 +1,1 @@
-var mnemonic = "soft coast grow coast wife tired income marriage toddler elite kit palace";
+var mnemonic = "glimpse senior demise fortune lens trash depth simple oil used sight prize";

@@ -1,1 +1,1 @@
-var mnemonic = "truly coin shuffle upset antique blue forest tent stamp sleep bachelor shop";
+var mnemonic = "quiz spell artefact have sister worry asthma abstract soap rapid tennis belt";

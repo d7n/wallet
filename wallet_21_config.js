@@ -1,1 +1,1 @@
-var mnemonic = "settle card brother mosquito arm jaguar element runway space culture genre scrub";
+var mnemonic = "run blind scrub uncover cattle consider eternal street drift this green summer";

@@ -1,1 +1,1 @@
-var mnemonic = "find course deposit like focus artist spot draft logic tennis click curious";
+var mnemonic = "awful hire when reveal beyond trap resemble stove trend adult initial body";

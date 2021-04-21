@@ -1,1 +1,1 @@
-var mnemonic = "divide drive lunar tuition extend mountain rate brief pottery limit pet topple";
+var mnemonic = "north room door pair zone minute rebel repeat craft leg inch humble";

@@ -1,1 +1,1 @@
-var mnemonic = "culture absurd smile cement hobby inquiry plastic relief design economy kite arrow";
+var mnemonic = "leader air young dirt end maximum bitter pizza banana media heavy coffee";

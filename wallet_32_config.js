@@ -1,1 +1,1 @@
-var mnemonic = "seat kite ranch discover catch music rival survey belt bronze team decade";
+var mnemonic = "solution before cement grace hand trial elegant puppy delay grocery antique sibling";

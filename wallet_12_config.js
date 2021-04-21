@@ -1,1 +1,1 @@
-var mnemonic = "spider rule stone mention hub luxury attract captain ripple secret slim pact";
+var mnemonic = "goddess change rely curious enlist regret gravity rug sound evil budget festival";

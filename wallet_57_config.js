@@ -1,1 +1,1 @@
-var mnemonic = "elevator become crime grocery forest chapter process cannon salt morning blouse rotate";
+var mnemonic = "above shock mask country artist teach tobacco remove matrix slam demise emerge";

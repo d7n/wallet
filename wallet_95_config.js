@@ -1,1 +1,1 @@
-var mnemonic = "utility humor depend present erase bicycle slush jelly elbow real hour nephew";
+var mnemonic = "twenty before urban become ski stand shadow effort bid energy math item";

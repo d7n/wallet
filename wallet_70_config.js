@@ -1,1 +1,1 @@
-var mnemonic = "ivory reason hospital diary lazy story recall liquid cake sketch because torch";
+var mnemonic = "dial punch scatter delay monster rack copper source network hat proud shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "silk sea swing truck ladder rapid cereal book secret doctor brass swap";
+var mnemonic = "curve cinnamon sock connect again divide wood galaxy answer tube maid perfect";

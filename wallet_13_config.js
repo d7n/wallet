@@ -1,1 +1,1 @@
-var mnemonic = "worry unable common pioneer camp cattle soon park danger february view arrange";
+var mnemonic = "borrow rebuild curve alcohol story royal fabric toe cousin sense glow lend";

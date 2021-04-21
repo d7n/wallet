@@ -1,1 +1,1 @@
-var mnemonic = "roof dream brass argue aisle inflict chat fatigue jazz credit install damage";
+var mnemonic = "priority judge critic unusual gift twin expire able chalk warm world match";

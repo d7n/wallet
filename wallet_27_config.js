@@ -1,1 +1,1 @@
-var mnemonic = "fence digital want large gap manage method taste stool put truth sniff";
+var mnemonic = "rug abstract armor grit recipe original physical notice lizard uniform build remove";

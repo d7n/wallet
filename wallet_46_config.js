@@ -1,1 +1,1 @@
-var mnemonic = "rough heart figure brain cabbage spoil clap unable kiwi word dolphin someone";
+var mnemonic = "during collect seat subway gap soon caution chair sibling sudden pizza wire";

@@ -1,1 +1,1 @@
-var mnemonic = "snap skirt identify say mechanic wife inject hurt tank biology awake awful";
+var mnemonic = "diet balance mention thumb raise proof can answer orient exotic enter update";

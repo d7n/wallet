@@ -1,1 +1,1 @@
-var mnemonic = "soup page bid staff comfort thought connect canal habit skull smoke ugly";
+var mnemonic = "unique parrot style erase luggage grow fiction banana hole suggest galaxy script";

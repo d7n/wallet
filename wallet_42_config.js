@@ -1,1 +1,1 @@
-var mnemonic = "pool latin guitar become depend advice speed what cash tide sting bonus";
+var mnemonic = "caution pear large marriage memory buyer receive ten tonight tattoo view casual";

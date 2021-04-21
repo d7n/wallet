@@ -1,1 +1,1 @@
-var mnemonic = "excite attitude business casual eyebrow tide retreat cabbage print doctor steel wage";
+var mnemonic = "card below amazing outdoor burden goddess mask learn connect fly attract chef";

@@ -1,1 +1,1 @@
-var mnemonic = "play chase alley slice room predict alpha add bachelor behind program live";
+var mnemonic = "brain raven repeat physical latin donate sun camp diary use retire lava";

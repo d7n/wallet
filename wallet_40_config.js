@@ -1,1 +1,1 @@
-var mnemonic = "fortune vacuum sound prefer response donor laptop stadium laundry diagram admit orange";
+var mnemonic = "once give film cable unhappy absent dress peanut horse champion gun outside";

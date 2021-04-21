@@ -1,1 +1,1 @@
-var mnemonic = "machine wait curious devote faith square theory crisp rain way olive analyst";
+var mnemonic = "scan river then public gun crop hybrid cement nasty rebuild improve lion";

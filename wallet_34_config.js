@@ -1,1 +1,1 @@
-var mnemonic = "exile repair february young welcome rib disagree force earn hood will tobacco";
+var mnemonic = "sun drive sting lock spot maximum slim reveal donor name hammer about";

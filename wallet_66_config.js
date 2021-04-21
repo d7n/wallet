@@ -1,1 +1,1 @@
-var mnemonic = "normal course card chaos pizza burst celery ozone champion glass cart skate";
+var mnemonic = "leader delay clip visual option path pole next endless symbol mimic buzz";

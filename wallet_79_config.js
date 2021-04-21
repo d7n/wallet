@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pull place casual puzzle rigid apology oval oak rate very team";
+var mnemonic = "first crystal loop earn curve company vital plate grace aunt inherit busy";

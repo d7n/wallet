@@ -1,1 +1,1 @@
-var mnemonic = "jump menu drift leopard match hair earn roast office again north tool";
+var mnemonic = "coach high absorb unaware episode curtain school process practice gap dwarf logic";

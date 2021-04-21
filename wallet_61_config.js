@@ -1,1 +1,1 @@
-var mnemonic = "celery afraid ask over decide space forum fame skate outside holiday quiz";
+var mnemonic = "grit sorry bus disorder outdoor cruise sorry beauty hero evolve chair void";

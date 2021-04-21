@@ -1,1 +1,1 @@
-var mnemonic = "mule expect zoo maid sock skull slot clever level surface wreck blade";
+var mnemonic = "harsh snap steak trip type furnace tube loop outdoor battle chaos hard";

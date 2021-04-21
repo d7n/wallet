@@ -1,1 +1,1 @@
-var mnemonic = "abstract pond boy swamp vital ask eyebrow emotion stock baby poet mountain";
+var mnemonic = "drive spring desk raccoon mask scorpion vendor solar response execute pepper tattoo";
