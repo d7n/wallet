@@ -1,1 +1,1 @@
-var mnemonic = "jump floor deputy rack avocado push nose risk tissue kangaroo link rally";
+var mnemonic = "mechanic elegant leopard april clever rack kind approve dove digital alert luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "original snack web sketch drink time tone neck scale change salad receive";
+var mnemonic = "soon man coin keep around poverty social cover able fancy glass defy";

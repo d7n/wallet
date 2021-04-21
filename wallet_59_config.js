@@ -1,1 +1,1 @@
-var mnemonic = "spare kit regret clip suit size tribe grocery anchor draw oppose panel";
+var mnemonic = "vanish visa actress dirt bounce kitten network suspect cross giggle velvet chuckle";

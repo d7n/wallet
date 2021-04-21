@@ -1,1 +1,1 @@
-var mnemonic = "ancient false series hidden floor daughter squirrel more ivory staff head clog";
+var mnemonic = "inside bulb hover security drive involve solid solution parent aisle alley kiwi";

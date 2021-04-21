@@ -1,1 +1,1 @@
-var mnemonic = "lottery party street early neutral remove trigger opinion defense tree promote wine";
+var mnemonic = "vote view south spy exit divide useful rifle enjoy siege timber two";

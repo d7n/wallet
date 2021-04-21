@@ -1,1 +1,1 @@
-var mnemonic = "transfer cause famous debate infant shift cancel wealth action midnight again tattoo";
+var mnemonic = "prefer divorce decrease heavy tilt holiday filter sister rally false minor hood";

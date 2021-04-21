@@ -1,1 +1,1 @@
-var mnemonic = "skill employ nephew normal proof toy dad candy minor wide prevent pottery";
+var mnemonic = "artwork swear express genuine avoid seven license seven spend where silk wait";

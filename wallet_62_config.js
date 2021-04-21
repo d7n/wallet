@@ -1,1 +1,1 @@
-var mnemonic = "concert earn volume sight benefit discover edge outside wealth balance shoot credit";
+var mnemonic = "tank manage fuel online random custom forward seven method tragic health neglect";

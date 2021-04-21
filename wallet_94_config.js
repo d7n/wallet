@@ -1,1 +1,1 @@
-var mnemonic = "egg neck minute case animal defense inner legend expose segment oak win";
+var mnemonic = "oil creek tuition grass wear orient hope skirt canal nurse steel acoustic";

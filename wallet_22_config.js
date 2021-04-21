@@ -1,1 +1,1 @@
-var mnemonic = "captain occur hope hen swear unusual carpet find talent barrel zone negative";
+var mnemonic = "border program skate power polar denial hospital private ritual muffin scale coconut";

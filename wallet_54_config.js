@@ -1,1 +1,1 @@
-var mnemonic = "fancy common defense purpose sustain tooth deposit fish fat segment silly shock";
+var mnemonic = "session nature insect wife delay earn bulk barrel verify radar quote pill";

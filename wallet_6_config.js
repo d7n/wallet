@@ -1,1 +1,1 @@
-var mnemonic = "world moment control measure only join primary ring hollow attend glimpse junk";
+var mnemonic = "desert dirt route muffin crunch mistake apology fix sight fox license hungry";

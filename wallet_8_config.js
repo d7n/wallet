@@ -1,1 +1,1 @@
-var mnemonic = "kitchen dwarf swarm pet before mushroom guess bind sleep razor cancel front";
+var mnemonic = "razor coral height bird cigar guess morning clever chaos usage fly soccer";

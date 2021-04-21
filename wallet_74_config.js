@@ -1,1 +1,1 @@
-var mnemonic = "match resist bicycle birth vibrant venue jazz romance priority pyramid now rural";
+var mnemonic = "obscure all wine blue student busy material palm model build few police";

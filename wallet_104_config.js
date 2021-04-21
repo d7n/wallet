@@ -1,1 +1,1 @@
-var mnemonic = "convince join express hire genius grid throw recall wisdom heavy cheap switch";
+var mnemonic = "media aerobic raise abandon spring control will nose deal palace second word";

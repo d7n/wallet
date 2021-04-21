@@ -1,1 +1,1 @@
-var mnemonic = "tomato detect rent pink ignore math identify ritual glue jar budget celery";
+var mnemonic = "crazy stem state bonus consider slender guard unhappy paddle gauge brush first";

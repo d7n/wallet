@@ -1,1 +1,1 @@
-var mnemonic = "inquiry radio fine tomorrow scrub square meadow enemy speak orchard venture frequent";
+var mnemonic = "girl expand artefact marble fresh air warrior hole point include invite duck";

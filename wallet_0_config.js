@@ -1,1 +1,1 @@
-var mnemonic = "tiny occur caught north exile analyst side razor cupboard state idle copper";
+var mnemonic = "base book pretty amused push bone fossil build home blast rubber divide";

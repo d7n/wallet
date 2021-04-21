@@ -1,1 +1,1 @@
-var mnemonic = "song lady addict thunder talent couch cannon garden torch oblige neglect chicken";
+var mnemonic = "gossip exhibit have enemy culture gown ostrich electric immense cause silver spend";

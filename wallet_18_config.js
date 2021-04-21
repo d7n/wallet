@@ -1,1 +1,1 @@
-var mnemonic = "answer ivory review canoe video glass above awesome cash outdoor vital dress";
+var mnemonic = "strong black brush hidden shuffle exercise enemy half anchor cluster nothing avocado";

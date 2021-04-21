@@ -1,1 +1,1 @@
-var mnemonic = "tumble trend process own rescue soup slice vehicle artefact steel client claw";
+var mnemonic = "labor student pear riot pond idea bleak piece minor length barrel pupil";

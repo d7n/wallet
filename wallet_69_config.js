@@ -1,1 +1,1 @@
-var mnemonic = "insect tissue other fashion you history patient hurry toy charge fold recycle";
+var mnemonic = "famous clog lady vote trade where mushroom flee sustain genre cricket immense";

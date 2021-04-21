@@ -1,1 +1,1 @@
-var mnemonic = "have warrior fiction magic royal mango case inspire save forest baby verify";
+var mnemonic = "icon horse dinosaur excuse pig peace exit come ceiling illness ladder diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "negative purpose ill hen oppose fade now option ramp domain snap trouble";
+var mnemonic = "pigeon type ankle pencil border food flat cloud ranch paddle special because";

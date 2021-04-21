@@ -1,1 +1,1 @@
-var mnemonic = "injury sausage seat category ten easily broken soft rocket shaft rural grass";
+var mnemonic = "curve come walk whip analyst donkey lawn initial gorilla palace detail theme";

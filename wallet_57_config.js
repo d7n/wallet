@@ -1,1 +1,1 @@
-var mnemonic = "seminar crop enough know view cruel govern depth dust toward cruise pluck";
+var mnemonic = "wing whip action say beach biology worth artefact loud position found match";

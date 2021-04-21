@@ -1,1 +1,1 @@
-var mnemonic = "orange rubber dragon glimpse merit bonus record smart potato dust put pair";
+var mnemonic = "secret edge spare ask lizard canyon decade slam border inflict margin ordinary";

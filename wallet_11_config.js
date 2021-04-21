@@ -1,1 +1,1 @@
-var mnemonic = "fancy danger service donkey opinion whip dune clock math exhibit fragile rain";
+var mnemonic = "slice steel oven warrior start tank sort museum leisure tip old calm";

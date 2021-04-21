@@ -1,1 +1,1 @@
-var mnemonic = "toilet first gauge scatter appear three myself awesome copy pill glow six";
+var mnemonic = "market long journey when valid monkey tide idle van cupboard grape double";

@@ -1,1 +1,1 @@
-var mnemonic = "weather actress finish increase primary arrow rebel tiger network attack vault dwarf";
+var mnemonic = "visual lemon poem ritual venue collect scorpion leisure oak sense judge zoo";

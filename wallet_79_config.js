@@ -1,1 +1,1 @@
-var mnemonic = "lamp nuclear olive trim undo harvest wire flower refuse narrow deal salmon";
+var mnemonic = "fan nature dismiss opinion couple high tent truth lift nerve bid sign";

@@ -1,1 +1,1 @@
-var mnemonic = "churn omit off ball leader trim basic urge slice dice occur sing";
+var mnemonic = "daughter girl sniff clinic either step twin concert assault cabbage pool wing";

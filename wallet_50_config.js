@@ -1,1 +1,1 @@
-var mnemonic = "short reopen cactus state infant sell pupil tired vague adult damp dress";
+var mnemonic = "labor various bag hair scorpion off derive fix possible output worth warm";

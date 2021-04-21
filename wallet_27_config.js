@@ -1,1 +1,1 @@
-var mnemonic = "route left aunt stick lobster warm question blanket firm forest start gaze";
+var mnemonic = "fly soda speak team divorce sentence october skate jump ranch include cloud";

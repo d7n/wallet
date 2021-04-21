@@ -1,1 +1,1 @@
-var mnemonic = "melt finger puppy peace exercise adjust trophy range taxi melt science hope";
+var mnemonic = "absorb actor crystal pact stereo actor post broom axis note suggest trend";

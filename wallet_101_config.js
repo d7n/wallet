@@ -1,1 +1,1 @@
-var mnemonic = "alone craft diesel skull fix game piece keen cute hero actress can";
+var mnemonic = "ability ask food glide grab hamster six season loop casual coconut elegant";

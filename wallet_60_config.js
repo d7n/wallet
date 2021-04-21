@@ -1,1 +1,1 @@
-var mnemonic = "strong arch art drip ability library inspire desert dragon attitude afraid choose";
+var mnemonic = "tower palm opinion keen burst naive safe cradle scrub genre riot announce";

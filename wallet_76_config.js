@@ -1,1 +1,1 @@
-var mnemonic = "either pill guitar similar alter lumber sad cattle goat broken sugar average";
+var mnemonic = "egg bid seek weekend casino stool demise fetch similar topic gas casino";

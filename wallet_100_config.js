@@ -1,1 +1,1 @@
-var mnemonic = "fit inside shoot output woman rely another ridge toilet lift spice chief";
+var mnemonic = "main mad grunt awake flame adjust tray elegant van fan nothing slide";

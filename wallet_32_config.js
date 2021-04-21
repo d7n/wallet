@@ -1,1 +1,1 @@
-var mnemonic = "view treat fruit viable few release cost rigid unusual behave improve empty";
+var mnemonic = "spatial small broken fun dream age middle shield unfold rather pet insect";

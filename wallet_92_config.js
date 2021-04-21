@@ -1,1 +1,1 @@
-var mnemonic = "bunker express peace desert unique minor hard unique mixture bicycle drastic pole";
+var mnemonic = "morning noise property decrease crack science twin device fiction weasel blast culture";

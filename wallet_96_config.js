@@ -1,1 +1,1 @@
-var mnemonic = "require credit tilt scheme replace arrange quiz wall boil limit file verb";
+var mnemonic = "transfer time already sauce reveal stage bunker bind crash neither leader bitter";

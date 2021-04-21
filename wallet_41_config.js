@@ -1,1 +1,1 @@
-var mnemonic = "math across opera danger drift supply over stone crouch volume push march";
+var mnemonic = "cage predict success render glove bird worry uniform disagree prefer pigeon bachelor";

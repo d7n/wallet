@@ -1,1 +1,1 @@
-var mnemonic = "weasel book know sword fault amazing emotion search trumpet about picnic story";
+var mnemonic = "recipe motion easily endless metal grape scout remove crouch spice tourist human";

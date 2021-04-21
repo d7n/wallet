@@ -1,1 +1,1 @@
-var mnemonic = "wash violin cash north obey unveil coil veteran rely cash rose trap";
+var mnemonic = "brother goose regret gossip fence holiday laugh enlist dumb spawn share vendor";

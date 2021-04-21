@@ -1,1 +1,1 @@
-var mnemonic = "empty improve crater loud rule onion jacket snap chest raven feature album";
+var mnemonic = "result ugly girl lounge truly wave carpet entry love purity cloud citizen";

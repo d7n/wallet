@@ -1,1 +1,1 @@
-var mnemonic = "antique pizza awful under creek maid chapter sock promote cave awkward early";
+var mnemonic = "cheese battle worry deny keep number zone since category afraid armor alter";

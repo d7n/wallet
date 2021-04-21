@@ -1,1 +1,1 @@
-var mnemonic = "video panther raise end humor fatigue mandate brick hospital negative elephant layer";
+var mnemonic = "crush aim miss movie shop energy eight this result dizzy clinic doctor";

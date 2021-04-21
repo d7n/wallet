@@ -1,1 +1,1 @@
-var mnemonic = "output identify fan cash lawn tennis become direct ship leader bring endless";
+var mnemonic = "guess wave coach fox scan tower miss idea inside act inmate dilemma";

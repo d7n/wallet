@@ -1,1 +1,1 @@
-var mnemonic = "giraffe orange ripple describe gas obtain trap connect dune alley scout guess";
+var mnemonic = "bless opera stick close robot badge apple asset end used media lend";

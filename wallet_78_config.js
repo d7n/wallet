@@ -1,1 +1,1 @@
-var mnemonic = "toss dinner retreat away again later wheel stage bubble baby black sell";
+var mnemonic = "appear sad attend ocean okay lion noodle spell shiver please three rebuild";

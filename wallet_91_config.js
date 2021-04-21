@@ -1,1 +1,1 @@
-var mnemonic = "skirt connect ethics page staff bench trap bless record brass punch payment";
+var mnemonic = "bright heavy page mesh lion cupboard chaos diesel wall doctor february behave";

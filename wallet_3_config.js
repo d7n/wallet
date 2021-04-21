@@ -1,1 +1,1 @@
-var mnemonic = "enact alley shoot priority lend cream jelly sadness topic unlock script can";
+var mnemonic = "win real kick cactus club program sister observe carbon about path thing";

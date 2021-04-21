@@ -1,1 +1,1 @@
-var mnemonic = "usage awake canal shy job silk sister what motor math second coral";
+var mnemonic = "arena know piano cross bless end fish planet nature planet wait primary";

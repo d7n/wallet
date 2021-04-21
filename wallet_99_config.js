@@ -1,1 +1,1 @@
-var mnemonic = "climb scheme ready track pulse afraid outer else cook lawn alley champion";
+var mnemonic = "fruit science return deputy paddle rare fossil marble wet canvas book eight";

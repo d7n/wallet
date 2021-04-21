@@ -1,1 +1,1 @@
-var mnemonic = "expand legend father match topple session before resemble future estate cook arch";
+var mnemonic = "coil ignore federal random remain axis rabbit brother run echo rack vapor";

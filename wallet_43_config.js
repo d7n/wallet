@@ -1,1 +1,1 @@
-var mnemonic = "island barely harsh inspire six shine draft recall decorate weather one clinic";
+var mnemonic = "scrap water shed claw pumpkin crowd radar oyster range glide ancient fan";

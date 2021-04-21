@@ -1,1 +1,1 @@
-var mnemonic = "scheme vicious country obtain neck reopen impose between fun rain merry chicken";
+var mnemonic = "shock angry depend slab proof horn cruise power wait pelican person tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "click because street stadium fetch beyond loop virtual voice limb habit level";
+var mnemonic = "siren party major common grass inform ability crack ask cancel promote foster";

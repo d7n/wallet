@@ -1,1 +1,1 @@
-var mnemonic = "suit bright suggest sort option dutch common bone always arena chef relax";
+var mnemonic = "heart rigid dice annual physical circle lend lucky candy corn exhaust test";

@@ -1,1 +1,1 @@
-var mnemonic = "digital nation nature song reopen olive worry shrimp include stomach pipe demand";
+var mnemonic = "hub reform spike solar mind one sight satisfy diet diamond cycle various";

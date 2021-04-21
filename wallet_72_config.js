@@ -1,1 +1,1 @@
-var mnemonic = "enlist furnace edge polar brand spy lounge candy word design cycle scan";
+var mnemonic = "supply good aim gap december ranch lake dutch cloud hamster detail good";

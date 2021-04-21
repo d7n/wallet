@@ -1,1 +1,1 @@
-var mnemonic = "repair bus win route game tunnel liar hurdle resource input novel capable";
+var mnemonic = "sand type immense local slab infant april tunnel write festival off roast";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale episode enhance cement lab street drastic word among crash illegal baby";
+var mnemonic = "surround math source carpet crawl grain space walk dust wagon patch artefact";

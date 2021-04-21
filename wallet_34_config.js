@@ -1,1 +1,1 @@
-var mnemonic = "flat easy film alien leader model coyote regular someone hawk mule note";
+var mnemonic = "cable barrel woman person ivory welcome artwork actor shuffle stuff drive guilt";

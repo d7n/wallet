@@ -1,1 +1,1 @@
-var mnemonic = "vague marriage february often slab honey eager keep skill secret estate target";
+var mnemonic = "ensure tube dose suspect parade month time advance black episode cattle energy";

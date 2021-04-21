@@ -1,1 +1,1 @@
-var mnemonic = "tennis old brown suggest faint hospital join rocket agent swift post garlic";
+var mnemonic = "occur kingdom income knee inside daring three tooth summer faculty husband uphold";

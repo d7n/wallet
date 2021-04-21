@@ -1,1 +1,1 @@
-var mnemonic = "square cry soda ride dish neither august gun across feature news make";
+var mnemonic = "side rule viable board dragon upgrade fever color reveal wrist elephant october";

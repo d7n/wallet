@@ -1,1 +1,1 @@
-var mnemonic = "list fancy solution joke mammal hospital honey job parent hover eagle defense";
+var mnemonic = "skin test earn onion milk rookie rotate valve check paper rose toast";

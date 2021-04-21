@@ -1,1 +1,1 @@
-var mnemonic = "thrive giant pipe melt fuel planet come salon deer shallow trust wagon";
+var mnemonic = "afford wrestle cherry wasp boost elephant leader capital steak access indoor gospel";

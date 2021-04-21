@@ -1,1 +1,1 @@
-var mnemonic = "assault this blade salon chase real senior hire game flame manage margin";
+var mnemonic = "worth ready trial bulk aerobic chunk fluid hospital near sting mom fiber";

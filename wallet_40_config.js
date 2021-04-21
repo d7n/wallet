@@ -1,1 +1,1 @@
-var mnemonic = "hard core small kitten doll stock duty orange special answer tackle pet";
+var mnemonic = "edge alarm note sense juice sand guess inject brief start pony mom";

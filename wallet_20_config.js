@@ -1,1 +1,1 @@
-var mnemonic = "broken jazz develop luxury neck blood caught someone proof office music dwarf";
+var mnemonic = "unveil proud craft effort whisper tourist gym kiwi female inside north chimney";

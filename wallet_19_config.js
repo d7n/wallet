@@ -1,1 +1,1 @@
-var mnemonic = "unfold draw initial protect donkey post tuna tower stick deputy climb noodle";
+var mnemonic = "error atom exit knock grid equip blossom gorilla canyon hurdle able dose";

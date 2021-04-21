@@ -1,1 +1,1 @@
-var mnemonic = "recipe walk orchard trade glare ordinary few time loop crucial pencil undo";
+var mnemonic = "strong stage connect coral boost alert air notice ring dirt develop tell";

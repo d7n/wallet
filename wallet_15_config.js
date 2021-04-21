@@ -1,1 +1,1 @@
-var mnemonic = "gain soda praise rubber normal item attack prepare grief final mercy cash";
+var mnemonic = "design icon among inherit pet ladder clown million income magic cousin school";

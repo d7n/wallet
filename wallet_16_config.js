@@ -1,1 +1,1 @@
-var mnemonic = "submit jaguar brisk fish goat minor jelly endless metal service library civil";
+var mnemonic = "order route eagle shoot measure pudding shrimp forest crater example silver cushion";

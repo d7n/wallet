@@ -1,1 +1,1 @@
-var mnemonic = "dose obtain keen staff shell quiz muscle diesel female manage mutual point";
+var mnemonic = "finger forum indoor diary hint mansion leisure breeze february dog avocado ignore";

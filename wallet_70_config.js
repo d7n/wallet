@@ -1,1 +1,1 @@
-var mnemonic = "bulb elegant escape toe limit fitness harbor quantum cabbage music way camp";
+var mnemonic = "blue subway gate below buyer screen acid enrich thought few glory jeans";

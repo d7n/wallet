@@ -1,1 +1,1 @@
-var mnemonic = "vocal enjoy museum idea planet outer oblige element salt sibling mystery blast";
+var mnemonic = "minor energy summer behind virus work erupt virtual trap street similar valve";

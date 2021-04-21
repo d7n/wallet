@@ -1,1 +1,1 @@
-var mnemonic = "involve destroy column leisure effort enable lady behind change sing banana blast";
+var mnemonic = "scan tissue choose notable upon afford hollow tide wait below piano cupboard";

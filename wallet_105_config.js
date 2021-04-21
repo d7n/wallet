@@ -1,1 +1,1 @@
-var mnemonic = "rabbit grid gather hood fatigue leaf category fault atom second under weird";
+var mnemonic = "subway beef security crime school virtual spice cube opinion asthma sunny pact";

@@ -1,1 +1,1 @@
-var mnemonic = "silver omit aim heavy wall cram fan shove face glare add crew";
+var mnemonic = "cannon same monitor mother team treat donate sudden record release public away";

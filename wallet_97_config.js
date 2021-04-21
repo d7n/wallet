@@ -1,1 +1,1 @@
-var mnemonic = "arctic bus differ patch satoshi code hurdle priority flee people hedgehog bulb";
+var mnemonic = "impulse dumb mercy mind then bean desert actress ability pause picnic impose";

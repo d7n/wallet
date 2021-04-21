@@ -1,1 +1,1 @@
-var mnemonic = "bus soda cram monkey solid dad initial rookie nephew milk picnic general";
+var mnemonic = "hungry tower game velvet virus negative boy track industry quote lazy coast";

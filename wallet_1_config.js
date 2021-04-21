@@ -1,1 +1,1 @@
-var mnemonic = "point banana open thumb review title enforce position infant impose stomach roof";
+var mnemonic = "carry sorry moment warrior rain approve wood abstract science loan digital degree";

@@ -1,1 +1,1 @@
-var mnemonic = "letter hour neutral print boss hotel fan hole school sunny parent actor";
+var mnemonic = "trash capital want stage equip shop page diesel various decade dignity length";

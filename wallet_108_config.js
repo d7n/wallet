@@ -1,1 +1,1 @@
-var mnemonic = "rebel today kit beach collect rent air awkward dial orphan bubble angle";
+var mnemonic = "say boat sibling sniff goddess food make nice exhibit middle media nest";

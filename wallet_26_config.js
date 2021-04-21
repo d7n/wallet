@@ -1,1 +1,1 @@
-var mnemonic = "tissue gift chuckle riot scout connect day lift minimum spawn muffin tank";
+var mnemonic = "advice theme faculty lucky perfect light father that pudding fade sport shove";
