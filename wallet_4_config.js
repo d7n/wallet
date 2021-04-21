@@ -1,1 +1,1 @@
-var mnemonic = "bleak target aunt setup stumble rookie shine hat proof bag strong kit";
+var mnemonic = "quantum focus unfair off conduct receive slim defy egg melody receive knock";

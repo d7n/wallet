@@ -1,1 +1,1 @@
-var mnemonic = "skate calm tired vital scan dream age venue shy photo garbage horror";
+var mnemonic = "junk bench trumpet stomach either intact chalk dry quiz worry cupboard napkin";

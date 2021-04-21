@@ -1,1 +1,1 @@
-var mnemonic = "snake devote promote pencil river stove loop monitor dune danger found fee";
+var mnemonic = "juice sugar unable carbon common car domain second skirt blood blame spring";

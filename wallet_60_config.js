@@ -1,1 +1,1 @@
-var mnemonic = "warrior suffer suffer negative soldier ripple rabbit negative gasp hockey judge decide";
+var mnemonic = "only front pupil spell one oval elevator plunge way decade divorce sauce";

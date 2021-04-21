@@ -1,1 +1,1 @@
-var mnemonic = "kiss crack real laptop such limit slogan evoke cute rescue depend circle";
+var mnemonic = "torch author tiny boy uniform tiger section age donate photo steak copy";

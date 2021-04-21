@@ -1,1 +1,1 @@
-var mnemonic = "faint blossom harsh shift album agree between match crater hour tape earth";
+var mnemonic = "gallery rough point idle next merit push robust almost album wife symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak snap gain wire camera loyal size tissue prize orient erase abandon";
+var mnemonic = "appear broken awful marble aunt field credit engage hope stamp pluck govern";

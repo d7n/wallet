@@ -1,1 +1,1 @@
-var mnemonic = "tribe floor visit phrase hungry salad photo frozen brisk fury mandate stem";
+var mnemonic = "narrow margin scale famous crowd rose night until field corn one trigger";

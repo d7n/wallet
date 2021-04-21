@@ -1,1 +1,1 @@
-var mnemonic = "rate logic must fashion bus admit loop girl ignore dust adjust subject";
+var mnemonic = "spice peace brush globe excess cabbage bench eight siren palace control thing";

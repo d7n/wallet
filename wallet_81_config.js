@@ -1,1 +1,1 @@
-var mnemonic = "boil order upset drama resist crash pencil enrich shiver syrup marble drift";
+var mnemonic = "auction charge trophy merry pond must walk feed soul hobby truth arena";

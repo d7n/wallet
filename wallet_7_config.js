@@ -1,1 +1,1 @@
-var mnemonic = "gentle horn correct want certain normal pride require wrestle develop valley pig";
+var mnemonic = "group tenant census target rapid butter spice regret snap capital young pole";

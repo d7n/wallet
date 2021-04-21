@@ -1,1 +1,1 @@
-var mnemonic = "old grit anchor soap orbit else injury height shadow purpose expire fee";
+var mnemonic = "strike plastic school demise involve grow parrot myth alpha concert mind rhythm";

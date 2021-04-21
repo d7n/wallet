@@ -1,1 +1,1 @@
-var mnemonic = "size strong magic buffalo olive upset cycle help direct wrist april check";
+var mnemonic = "lizard century trumpet maid arrow pet damp empower any soon woman century";

@@ -1,1 +1,1 @@
-var mnemonic = "visa hurdle guitar online buffalo blade approve news lab dawn cactus alcohol";
+var mnemonic = "alert anchor eye corn face august diet frame elbow eyebrow please orient";

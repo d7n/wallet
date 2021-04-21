@@ -1,1 +1,1 @@
-var mnemonic = "sort session raccoon cancel symbol destroy limb survey pact miss tackle beauty";
+var mnemonic = "famous joy wife danger know panther around circle jaguar memory grass verify";

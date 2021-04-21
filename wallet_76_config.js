@@ -1,1 +1,1 @@
-var mnemonic = "fork situate protect stadium fringe type balance wrong only mimic stuff cube";
+var mnemonic = "answer good height simple enter current meat target supply mango talent gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "slender acid answer prosper civil world trouble trumpet pitch casino major kingdom";
+var mnemonic = "snow morning secret van million web distance science stay salon token brisk";

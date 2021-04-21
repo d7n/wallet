@@ -1,1 +1,1 @@
-var mnemonic = "police remember prepare project label math virus wine ketchup tissue dial setup";
+var mnemonic = "twin armed loud sing valley tired link curious gorilla million uniform betray";

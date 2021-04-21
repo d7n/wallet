@@ -1,1 +1,1 @@
-var mnemonic = "furnace wrestle evidence blouse nasty rapid barely deer loan climb december useful";
+var mnemonic = "praise release ice excuse behave catalog arrive once sun walk myth prize";

@@ -1,1 +1,1 @@
-var mnemonic = "loud lobster eagle this winner damage sock usage act south festival manual";
+var mnemonic = "famous leader income become decade comic naive consider gadget receive reunion split";

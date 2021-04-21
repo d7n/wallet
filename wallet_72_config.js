@@ -1,1 +1,1 @@
-var mnemonic = "caught siren section tornado public general spatial crime conduct blush worth sunny";
+var mnemonic = "among attend brand finger ghost borrow rookie hat tonight van erosion forest";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh flash crucial thrive valve left rival latin orbit ability joy mixed";
+var mnemonic = "local dry object category smile miracle kingdom craft drop present pencil small";

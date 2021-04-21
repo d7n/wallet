@@ -1,1 +1,1 @@
-var mnemonic = "sauce seminar load coach goose grape secret that sniff wife couch struggle";
+var mnemonic = "song what hockey coconut pilot point erupt monkey group robot fabric cable";

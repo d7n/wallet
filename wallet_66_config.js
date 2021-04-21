@@ -1,1 +1,1 @@
-var mnemonic = "employ armed health occur armed sing agree soft cave aisle abstract spy";
+var mnemonic = "faith bind pole giraffe differ dinner innocent finish reunion resemble turn life";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual engage process case vapor tooth squirrel since green ancient panda talk";
+var mnemonic = "find trip job above clown ceiling bounce predict until rely damp drive";

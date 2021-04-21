@@ -1,1 +1,1 @@
-var mnemonic = "special holiday oval gravity decorate have impact letter decorate welcome focus clinic";
+var mnemonic = "unable comfort scissors absorb believe know throw save burst unaware drip draw";

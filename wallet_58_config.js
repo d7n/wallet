@@ -1,1 +1,1 @@
-var mnemonic = "sun pluck only dinosaur movie honey suit void onion deliver end scrub";
+var mnemonic = "measure leg chef obscure shine noodle two inch vehicle amateur knee there";

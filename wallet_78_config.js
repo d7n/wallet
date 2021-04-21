@@ -1,1 +1,1 @@
-var mnemonic = "engage slow fork tomorrow safe square use trim fog swamp burden same";
+var mnemonic = "govern nuclear response gather antique ecology sick afraid rough veteran quiz parade";

@@ -1,1 +1,1 @@
-var mnemonic = "rally deny tribe used razor point island dish tip include rebel loud";
+var mnemonic = "gather frozen extra truck critic diesel yellow audit purity rhythm phone final";

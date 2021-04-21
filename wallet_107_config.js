@@ -1,1 +1,1 @@
-var mnemonic = "clump glow coin damp visit various mimic glimpse mimic eager boost evoke";
+var mnemonic = "ability drop spy response minimum knee submit divorce churn robot state fix";

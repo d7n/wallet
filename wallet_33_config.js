@@ -1,1 +1,1 @@
-var mnemonic = "early cereal fancy zone stone divert weekend ordinary tone peace pear devote";
+var mnemonic = "lock perfect bone label design valley have clip diesel explain foot couch";

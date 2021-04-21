@@ -1,1 +1,1 @@
-var mnemonic = "arctic cash maze major elbow route become position mansion menu apology possible";
+var mnemonic = "cherry flavor ten usage provide another hurt clay derive dumb video start";

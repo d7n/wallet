@@ -1,1 +1,1 @@
-var mnemonic = "brave bring speak layer spend alarm speed mobile park ostrich gift frozen";
+var mnemonic = "place grape sort sorry toy treat describe foam wise original awesome opinion";

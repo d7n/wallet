@@ -1,1 +1,1 @@
-var mnemonic = "exclude design distance limit provide diary always open height novel soda grace";
+var mnemonic = "age govern thumb mimic head laundry heavy tray punch youth opera velvet";

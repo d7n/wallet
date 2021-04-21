@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sunset cycle art allow legend reveal nice gorilla agent reopen wrist";
+var mnemonic = "charge way parrot call metal blast combine cry sign early wire shoot";

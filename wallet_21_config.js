@@ -1,1 +1,1 @@
-var mnemonic = "crop cup south task wine sad proud effort scissors amount goddess rude";
+var mnemonic = "uncle someone heavy almost ozone cute fantasy taxi host candy giggle dwarf";

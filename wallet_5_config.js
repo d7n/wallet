@@ -1,1 +1,1 @@
-var mnemonic = "alley bag staff weapon sock exist auto until auction candy zoo happy";
+var mnemonic = "finger scout extra wolf neutral grocery surface drift casino eyebrow dice inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "message robot scheme life crater this youth cost type arm fitness fit";
+var mnemonic = "transfer jacket journey there net actress room road limit slush enrich glance";

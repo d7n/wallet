@@ -1,1 +1,1 @@
-var mnemonic = "steel oxygen recycle legal net bomb sibling unable auction switch paddle average";
+var mnemonic = "knee vocal theory letter fork twelve census tube sell stem top wall";

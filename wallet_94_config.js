@@ -1,1 +1,1 @@
-var mnemonic = "develop brush salt any evidence across ship weird kite myself smoke universe";
+var mnemonic = "boil copper decorate cushion gadget pumpkin quote tattoo squirrel near sense grab";

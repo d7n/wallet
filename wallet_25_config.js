@@ -1,1 +1,1 @@
-var mnemonic = "month cotton bridge suit ocean love sudden sword tourist vote angry portion";
+var mnemonic = "banana clap pact agent spare diagram tide lazy soccer rich april female";

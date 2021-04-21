@@ -1,1 +1,1 @@
-var mnemonic = "recipe shrimp inhale field motor shoot draw scrub mom resemble pudding pass";
+var mnemonic = "song brisk walk labor captain oblige sting rigid woman obey paddle night";

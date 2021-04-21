@@ -1,1 +1,1 @@
-var mnemonic = "ivory heavy hurry live target alley cry student close predict card easily";
+var mnemonic = "burst discover ramp bind winner salmon sadness speed cup fetch change pistol";

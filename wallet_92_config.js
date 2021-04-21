@@ -1,1 +1,1 @@
-var mnemonic = "unusual diagram plug merry flip dignity napkin tissue paddle accident helmet remove";
+var mnemonic = "enemy loan extend humor grant stuff session flower snake elite stone mutual";

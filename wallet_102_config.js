@@ -1,1 +1,1 @@
-var mnemonic = "evil clinic beach smile trap bench job leader poem release flush pudding";
+var mnemonic = "water install vivid top grocery spawn limit guide hurt heavy naive name";

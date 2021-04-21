@@ -1,1 +1,1 @@
-var mnemonic = "accuse decide debris clerk fish draft glance alert cake quality marine kitchen";
+var mnemonic = "coffee unit badge rain expose marine find useful devote solve admit sweet";

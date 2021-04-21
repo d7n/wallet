@@ -1,1 +1,1 @@
-var mnemonic = "tooth grit tower guess oak relief gasp refuse balance balance brush ocean";
+var mnemonic = "sorry mandate discover quote photo olympic pledge seek oak velvet rubber guitar";

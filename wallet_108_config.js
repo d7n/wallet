@@ -1,1 +1,1 @@
-var mnemonic = "van such canoe shy forget siege depart street opera suit unusual horror";
+var mnemonic = "excess nation hello puzzle south vast small swamp coral enlist zero gain";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate during shock assist swamp range armor reunion proud squirrel ripple holiday";
+var mnemonic = "air differ trip way bring goat canvas torch rural valley mosquito plate";

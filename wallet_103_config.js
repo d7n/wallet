@@ -1,1 +1,1 @@
-var mnemonic = "betray hybrid room extra enter bachelor reject into unfair matrix media shadow";
+var mnemonic = "angry coffee impulse duty come law guess detail disorder lizard excite host";

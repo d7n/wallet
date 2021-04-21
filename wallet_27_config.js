@@ -1,1 +1,1 @@
-var mnemonic = "cross about east cash ivory pull collect noble network sauce tray clean";
+var mnemonic = "sting room ring quarter verb shuffle code sphere fan pledge eagle sustain";

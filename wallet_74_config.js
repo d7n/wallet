@@ -1,1 +1,1 @@
-var mnemonic = "wire moral edit rebel sand goose burst frown survey stage sign ecology";
+var mnemonic = "joke minimum fine begin can castle knife garment already unique crumble venue";

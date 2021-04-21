@@ -1,1 +1,1 @@
-var mnemonic = "vehicle valid bid secret bread special penalty gain useful shock invest leg";
+var mnemonic = "rubber trouble vocal garlic learn wild senior gown slow drill call enable";

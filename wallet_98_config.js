@@ -1,1 +1,1 @@
-var mnemonic = "enhance fish fade nurse undo tide scheme indicate blouse cushion stay firm";
+var mnemonic = "relax ivory gloom drop basket ancient crisp hen pluck crunch unhappy bag";

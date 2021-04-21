@@ -1,1 +1,1 @@
-var mnemonic = "core try inmate warfare route people right you hockey faint arctic claw";
+var mnemonic = "quantum effort stamp child reform trick cricket taxi absorb fish elevator crash";

@@ -1,1 +1,1 @@
-var mnemonic = "summer crazy face warm escape soda fitness border side sibling spawn stereo";
+var mnemonic = "mouse melt spread crisp avoid dream brick solution velvet tip cinnamon peanut";

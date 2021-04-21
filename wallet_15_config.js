@@ -1,1 +1,1 @@
-var mnemonic = "second grocery thought army sure recycle eyebrow deer scheme you total nothing";
+var mnemonic = "trigger bonus hurt employ mammal april stable stand ketchup novel turkey hour";

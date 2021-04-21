@@ -1,1 +1,1 @@
-var mnemonic = "alien chalk gown poverty floor basket jump speak analyst slender arrest pipe";
+var mnemonic = "fox dance vivid proof acoustic hungry category lens number shoot scatter head";

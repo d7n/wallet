@@ -1,1 +1,1 @@
-var mnemonic = "blush tomorrow egg allow movie suffer marine hand sport distance thrive vote";
+var mnemonic = "disagree vessel degree profit banner magic diagram venue embrace doctor acoustic language";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle slight there auction inhale holiday egg science virus lawn unfold squeeze";
+var mnemonic = "cabin double north still soon violin output escape dice wink aware cube";

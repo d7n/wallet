@@ -1,1 +1,1 @@
-var mnemonic = "kitchen measure clarify enlist weird blur effort steak erupt provide hero zoo";
+var mnemonic = "dog monkey problem loud little setup yard act rude vehicle wasp field";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth divert lab during sound talk tribe cruel hen clerk lottery rookie";
+var mnemonic = "phone slice awesome social eagle uncle fresh bind wave aisle never mobile";

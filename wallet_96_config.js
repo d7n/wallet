@@ -1,1 +1,1 @@
-var mnemonic = "medal else hat front feel garden potato insect rack cat tackle police";
+var mnemonic = "parent armor small clay truly nephew depend off diesel solve purpose shoulder";

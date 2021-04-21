@@ -1,1 +1,1 @@
-var mnemonic = "able knock illegal bike ill sheriff village tide follow word cliff guide";
+var mnemonic = "glory warrior glow equip remember thank silk carry surprise rookie injury soldier";

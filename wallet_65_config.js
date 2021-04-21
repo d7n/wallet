@@ -1,1 +1,1 @@
-var mnemonic = "between slight chief mom twelve surprise concert rifle abandon able one balance";
+var mnemonic = "tomato armor knock car antique rally rival bring feature comfort special nuclear";

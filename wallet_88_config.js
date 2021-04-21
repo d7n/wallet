@@ -1,1 +1,1 @@
-var mnemonic = "jelly true have trim target online neither bridge tell wisdom enrich witness";
+var mnemonic = "play voice unusual can cream box logic caution text surge weather doll";

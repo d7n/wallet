@@ -1,1 +1,1 @@
-var mnemonic = "dismiss spin casino spin around unhappy fatigue ginger ginger trigger believe now";
+var mnemonic = "mutual exclude survey blanket smooth alone hen rude language pave flame ignore";

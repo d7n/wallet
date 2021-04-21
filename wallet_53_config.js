@@ -1,1 +1,1 @@
-var mnemonic = "mutual three sphere garbage indicate stamp audit excess pudding town flight mammal";
+var mnemonic = "drastic chef tape mountain dolphin gown describe smooth pear friend kingdom height";

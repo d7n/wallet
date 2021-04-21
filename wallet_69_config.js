@@ -1,1 +1,1 @@
-var mnemonic = "toddler estate rather junk thunder ancient much dignity tent cram hover polar";
+var mnemonic = "path cost dish seven cushion clump online relax uphold travel bright spider";

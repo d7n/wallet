@@ -1,1 +1,1 @@
-var mnemonic = "gentle current system good genre torch moral oppose judge margin cactus minute";
+var mnemonic = "chief exact when manage main benefit neck hat coast female fiscal six";

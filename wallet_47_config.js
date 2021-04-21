@@ -1,1 +1,1 @@
-var mnemonic = "physical kid enrich forget taste allow kit vital helmet panic fade detail";
+var mnemonic = "water fish frog adjust mutual combine pause inform delay ski pitch hockey";

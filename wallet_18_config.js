@@ -1,1 +1,1 @@
-var mnemonic = "settle gaze emotion fabric flower good average collect kind shield vanish perfect";
+var mnemonic = "tragic mountain miracle rapid manual master never traffic icon rice fun panther";

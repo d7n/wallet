@@ -1,1 +1,1 @@
-var mnemonic = "wire enroll tomato aware dentist work scan youth legend resist wait obtain";
+var mnemonic = "detail praise blue chase despair south frame arrow crystal brave neck flavor";

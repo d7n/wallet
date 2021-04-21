@@ -1,1 +1,1 @@
-var mnemonic = "theory urban plastic mind inherit beach weasel tortoise ankle method famous sing";
+var mnemonic = "allow biology horror insane master wire minor flock viable all pole duck";

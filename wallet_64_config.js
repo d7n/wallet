@@ -1,1 +1,1 @@
-var mnemonic = "volume wear urge cable body mask pluck fragile speed match reduce edge";
+var mnemonic = "rural cushion bless hurry dolphin stick nature present mosquito together quantum erosion";

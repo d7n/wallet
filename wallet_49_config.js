@@ -1,1 +1,1 @@
-var mnemonic = "upper zoo mountain bus ordinary bind floor retire glide together online ginger";
+var mnemonic = "guitar flush pear catch mandate stock fun ask endless animal struggle flag";

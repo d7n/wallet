@@ -1,1 +1,1 @@
-var mnemonic = "shock banana weather sunny swamp arrange unit impact usual link boil engage";
+var mnemonic = "raven token salute page mass glad blade useless theory coach pave woman";

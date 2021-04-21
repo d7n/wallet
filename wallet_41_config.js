@@ -1,1 +1,1 @@
-var mnemonic = "scale admit degree pulp stadium clown purpose term claw skill area feature";
+var mnemonic = "census hat wing feel era lemon arrange meadow food mouse volcano skill";

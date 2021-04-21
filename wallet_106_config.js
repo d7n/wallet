@@ -1,1 +1,1 @@
-var mnemonic = "hungry garlic stable leisure merit gadget wild silver sight mention angry tragic";
+var mnemonic = "pottery fade gravity sail praise siege poverty attitude stand omit trouble stay";

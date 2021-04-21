@@ -1,1 +1,1 @@
-var mnemonic = "road zero daring news erupt keep child coffee sustain excite just post";
+var mnemonic = "jump evoke time kiss frog oppose element slight toe lab space brand";

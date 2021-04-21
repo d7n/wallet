@@ -1,1 +1,1 @@
-var mnemonic = "episode disagree pulse inherit area blanket sister note crucial wage capital vendor";
+var mnemonic = "diagram fame method device forward wet category avoid flavor actress reason senior";

@@ -1,1 +1,1 @@
-var mnemonic = "trash shadow horse power yellow rain morning glue tape grab source glue";
+var mnemonic = "pepper usual menu goddess patrol priority mind cross veteran brave observe viable";

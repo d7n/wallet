@@ -1,1 +1,1 @@
-var mnemonic = "coin brave tank lyrics gauge tree around scorpion drum inherit access suffer";
+var mnemonic = "paper absurd kite heart discover demise entry happy board must ginger theory";

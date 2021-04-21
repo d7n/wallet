@@ -1,1 +1,1 @@
-var mnemonic = "either blur method fragile dismiss endorse rice soul little main stock shallow";
+var mnemonic = "sadness around film parrot hip program artist unique stamp sort surge hawk";

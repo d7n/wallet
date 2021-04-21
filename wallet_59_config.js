@@ -1,1 +1,1 @@
-var mnemonic = "twist velvet manage length chase crush castle pizza solar diesel army tide";
+var mnemonic = "camera radio accuse ozone empower curious number shaft fetch useful hole solution";

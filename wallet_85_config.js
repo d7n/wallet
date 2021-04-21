@@ -1,1 +1,1 @@
-var mnemonic = "fury useless flight bus very awkward group steel key fortune shadow increase";
+var mnemonic = "bird aerobic viable impose else crumble seat dress health cement loan coconut";

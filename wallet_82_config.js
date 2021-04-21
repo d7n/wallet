@@ -1,1 +1,1 @@
-var mnemonic = "start plate differ basket museum six axis illness now gate era depend";
+var mnemonic = "wing subject hand border orbit canal arch moral mango divide gift increase";

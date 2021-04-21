@@ -1,1 +1,1 @@
-var mnemonic = "regret ozone oyster wool bounce gap camp relax stereo all finger trial";
+var mnemonic = "clarify regular dragon artist extend once around strategy enroll catch usual resource";

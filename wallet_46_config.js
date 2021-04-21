@@ -1,1 +1,1 @@
-var mnemonic = "sweet appear below actress prefer worth category urban trophy toss peanut vicious";
+var mnemonic = "mention predict rhythm crouch stove term purse skate dry inquiry interest thunder";
