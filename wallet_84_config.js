@@ -1,1 +1,1 @@
-var mnemonic = "ladder swallow lens danger clever man camera fatal fire setup flee size";
+var mnemonic = "onion rent pretty report stool vital message stadium duty whale patrol bottom";

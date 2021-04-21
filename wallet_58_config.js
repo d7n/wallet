@@ -1,1 +1,1 @@
-var mnemonic = "drive smile begin fragile attract dress make margin nurse predict exotic praise";
+var mnemonic = "item pause stock security angry hill green pet must vendor gap regret";

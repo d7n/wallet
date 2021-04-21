@@ -1,1 +1,1 @@
-var mnemonic = "slogan other hundred dial accuse reform couch control settle fashion convince usual";
+var mnemonic = "hope critic cube project theory ocean auto harvest live away grit cruel";

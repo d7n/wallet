@@ -1,1 +1,1 @@
-var mnemonic = "shuffle obey must winner swarm sibling usual pipe rely gauge old opinion";
+var mnemonic = "sail still mention unknown inner program exile spatial busy walk paper sauce";

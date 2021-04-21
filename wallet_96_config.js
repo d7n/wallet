@@ -1,1 +1,1 @@
-var mnemonic = "session forward kite group wife gauge tent owner slice faith guard weekend";
+var mnemonic = "chat early embody loan tree speed wolf today expand health believe trouble";

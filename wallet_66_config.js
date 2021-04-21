@@ -1,1 +1,1 @@
-var mnemonic = "novel local inflict knock insane dignity seed raven weird imitate pumpkin robot";
+var mnemonic = "boat borrow purity divorce engine steak broken witness way derive enforce ladder";

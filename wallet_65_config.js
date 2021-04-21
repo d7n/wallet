@@ -1,1 +1,1 @@
-var mnemonic = "inject rabbit alpha room silly shuffle puppy soul meadow expand sport mandate";
+var mnemonic = "actual toe night ocean awesome angry outside release warrior tourist never crunch";

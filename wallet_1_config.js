@@ -1,1 +1,1 @@
-var mnemonic = "orange invest clinic notable soft strong snack album tone toward just basket";
+var mnemonic = "dust valve rookie moon ribbon pave early egg model angle home orphan";

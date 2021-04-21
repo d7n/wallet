@@ -1,1 +1,1 @@
-var mnemonic = "prepare clinic jar meat exclude snack pottery prosper nice service mesh sentence";
+var mnemonic = "cushion inner keep obscure toast focus disorder sustain blanket insect prepare run";

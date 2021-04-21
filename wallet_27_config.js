@@ -1,1 +1,1 @@
-var mnemonic = "rhythm pelican risk quantum popular include main own reveal base risk trip";
+var mnemonic = "else voyage primary huge obvious shine spot luggage luggage fee distance pass";

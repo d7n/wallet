@@ -1,1 +1,1 @@
-var mnemonic = "cannon symptom strong assist awful news table casino embrace useless exhibit inhale";
+var mnemonic = "hint lizard educate dial frog fiber cotton maple suffer quantum manage junk";

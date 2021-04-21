@@ -1,1 +1,1 @@
-var mnemonic = "rate alcohol rebel obscure once culture cave cook film hurdle gun blind";
+var mnemonic = "lecture action gospel excess hollow shaft spatial tower fun torch own radio";

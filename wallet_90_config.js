@@ -1,1 +1,1 @@
-var mnemonic = "turn fun enforce offer only feel dash bacon holiday husband horn cool";
+var mnemonic = "steel face kitten sauce joke local enact first analyst insect post test";

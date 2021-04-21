@@ -1,1 +1,1 @@
-var mnemonic = "cover thought virtual romance turtle mixture sense embark heart hobby survey culture";
+var mnemonic = "pride hurt hybrid dumb mass soda film tooth jaguar dune cluster morning";

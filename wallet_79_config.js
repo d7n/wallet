@@ -1,1 +1,1 @@
-var mnemonic = "wing vote aisle hazard business inject travel milk believe bag relief shiver";
+var mnemonic = "original borrow crime bind city label explain emerge enable coyote gauge reveal";

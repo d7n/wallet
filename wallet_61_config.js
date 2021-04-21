@@ -1,1 +1,1 @@
-var mnemonic = "element liberty mango delay bulk practice fat tilt other master permit slim";
+var mnemonic = "grid target nose lock sample measure correct balcony climb ginger shrimp yellow";

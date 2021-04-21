@@ -1,1 +1,1 @@
-var mnemonic = "artwork swim cry earn bicycle identify curious silver scrub wool cruise object";
+var mnemonic = "kick turkey donate glance robust resemble planet genre giant reunion simple cousin";

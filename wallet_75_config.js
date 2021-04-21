@@ -1,1 +1,1 @@
-var mnemonic = "need dish mandate live certain buddy lunch purity primary monster concert amused";
+var mnemonic = "flee horn age tell save mom hamster oven scheme ride grocery youth";

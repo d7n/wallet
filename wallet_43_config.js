@@ -1,1 +1,1 @@
-var mnemonic = "nut cushion obscure spider lend solid hunt snake surge trial breeze gold";
+var mnemonic = "kingdom entire brick throw party nut cloud truth ancient physical melt bid";

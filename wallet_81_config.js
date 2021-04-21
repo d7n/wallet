@@ -1,1 +1,1 @@
-var mnemonic = "object matter enter popular theory tired release dignity draft mystery divert pact";
+var mnemonic = "detect actual title cotton vibrant warfare state glove rude deputy wedding cousin";

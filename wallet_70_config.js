@@ -1,1 +1,1 @@
-var mnemonic = "split catalog mind fever captain fork else cactus artist crazy source hour";
+var mnemonic = "warm excite moon crunch cabin fatigue pepper bridge insane wisdom indicate garage";

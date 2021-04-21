@@ -1,1 +1,1 @@
-var mnemonic = "tone glad spell clever royal eight main once dial flower evolve come";
+var mnemonic = "artist face follow scan change already dentist biology mountain vote okay inch";

@@ -1,1 +1,1 @@
-var mnemonic = "juice endorse coconut ticket rate melt session gas oval swear camp capital";
+var mnemonic = "cruise extra ginger return horse spot awful alpha appear industry extend top";

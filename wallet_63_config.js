@@ -1,1 +1,1 @@
-var mnemonic = "shed general kit cry walnut later crush stereo pumpkin surface soon moral";
+var mnemonic = "flight fury use scan print bargain fluid another luggage text biology unique";

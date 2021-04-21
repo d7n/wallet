@@ -1,1 +1,1 @@
-var mnemonic = "nature head slight federal material meadow special deal dutch cabin practice one";
+var mnemonic = "gap evoke avoid system extend mother need ranch decorate gun acquire disagree";

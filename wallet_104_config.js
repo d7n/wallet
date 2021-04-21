@@ -1,1 +1,1 @@
-var mnemonic = "coral bone raccoon mule daring basket bundle order thought idle sentence axis";
+var mnemonic = "rescue kangaroo suspect nasty canyon frown engage outside orphan bone outside hard";

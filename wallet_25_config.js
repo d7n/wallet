@@ -1,1 +1,1 @@
-var mnemonic = "staff deny brief cost master garden smooth invite rent jungle surprise juice";
+var mnemonic = "dress pill gown dismiss essence little siren skill coil cushion fork fog";

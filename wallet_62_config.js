@@ -1,1 +1,1 @@
-var mnemonic = "woman snap inch firm term hockey bottom violin army produce seat doll";
+var mnemonic = "find farm female derive taste method drive chest swing goat moon gorilla";

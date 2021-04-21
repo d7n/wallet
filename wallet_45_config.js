@@ -1,1 +1,1 @@
-var mnemonic = "hybrid hub stool boy often notice noodle supreme borrow next comic online";
+var mnemonic = "hood nut arrow actor satisfy jelly extra rocket custom decide civil bonus";

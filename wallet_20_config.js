@@ -1,1 +1,1 @@
-var mnemonic = "where letter more luxury tissue first panel assault quit phone wreck wild";
+var mnemonic = "arrange next crime tip feature arena protect town tower view wage finger";

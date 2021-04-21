@@ -1,1 +1,1 @@
-var mnemonic = "silk fence delay maximum cram grain prefer wisdom blood spring dutch parade";
+var mnemonic = "control toy wine swift mom this boat oven cruise better embrace okay";

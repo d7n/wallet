@@ -1,1 +1,1 @@
-var mnemonic = "brisk card total tube hole hour liar display fatigue security ridge regret";
+var mnemonic = "hedgehog mosquito essence limit jar few jump injury you maple gift actress";

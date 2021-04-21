@@ -1,1 +1,1 @@
-var mnemonic = "drift issue pattern wool path ski echo wild grief recipe gown punch";
+var mnemonic = "grab media kit lunch advice science artefact wagon hunt rail skate mountain";

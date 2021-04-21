@@ -1,1 +1,1 @@
-var mnemonic = "fluid analyst trash minute chair right scale unusual stand tobacco castle glue";
+var mnemonic = "mention ordinary stomach abstract property invest arrive solution baby cry wire where";

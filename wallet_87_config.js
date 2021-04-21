@@ -1,1 +1,1 @@
-var mnemonic = "verify divide bronze custom multiply submit bunker joy taxi stamp concert insect";
+var mnemonic = "alley analyst suspect later erosion swamp hub jar dilemma range grow custom";

@@ -1,1 +1,1 @@
-var mnemonic = "sick peanut net replace dignity wall wink sadness host mother grape buzz";
+var mnemonic = "sleep lesson village snap general kiss ski stomach cheap keep live special";

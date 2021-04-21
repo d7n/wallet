@@ -1,1 +1,1 @@
-var mnemonic = "genuine fall witness trouble flower wasp matrix bless sight key casual lock";
+var mnemonic = "inflict trash link alpha happy guitar window toast furnace frozen text shrimp";

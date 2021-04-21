@@ -1,1 +1,1 @@
-var mnemonic = "soft fall barrel dignity amused expose arrange world vivid zero birth know";
+var mnemonic = "vocal left mule trend impact chicken great disagree million unable coin circle";

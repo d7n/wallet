@@ -1,1 +1,1 @@
-var mnemonic = "eye border width clock enable laptop drink buffalo hybrid joke icon safe";
+var mnemonic = "boil start catalog purpose cash cream expand lucky skull immense arctic city";

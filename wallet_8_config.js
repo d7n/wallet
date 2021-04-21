@@ -1,1 +1,1 @@
-var mnemonic = "never welcome march six snow hunt park tattoo cute reform spring banner";
+var mnemonic = "include away account nest warfare sustain delay derive good globe mercy entry";

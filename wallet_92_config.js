@@ -1,1 +1,1 @@
-var mnemonic = "fit bracket purity voyage word hamster lock fluid bracket judge earth wrong";
+var mnemonic = "canoe very group betray fan try utility basket female spoon leg gym";

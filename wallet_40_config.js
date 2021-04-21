@@ -1,1 +1,1 @@
-var mnemonic = "coil vast winter pig orient leg already recall stuff horror slender cage";
+var mnemonic = "clerk magnet sphere thing discover patient hint emotion pave meadow man twice";

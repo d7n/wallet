@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur member asthma move start increase patient gesture hurry razor beach retreat";
+var mnemonic = "glue case inner urge curtain pigeon betray strike muscle swear exercise dizzy";

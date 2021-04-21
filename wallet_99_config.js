@@ -1,1 +1,1 @@
-var mnemonic = "key december feel tube tooth robot ten oval level fetch hundred mutual";
+var mnemonic = "candy excuse spell field snap point spawn holiday artefact aspect math myself";

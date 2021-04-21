@@ -1,1 +1,1 @@
-var mnemonic = "switch easy theory wish burger phrase silent stereo such primary bargain check";
+var mnemonic = "blood chunk update horn series file balance margin mean angry hotel cage";

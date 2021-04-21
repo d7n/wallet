@@ -1,1 +1,1 @@
-var mnemonic = "inject help retreat whale word silver alien muffin machine arm news limb";
+var mnemonic = "guide refuse left earn moon gold jazz list message segment reveal ready";

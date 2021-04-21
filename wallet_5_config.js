@@ -1,1 +1,1 @@
-var mnemonic = "rough shuffle evolve carry fashion pink road merit horn sausage very weather";
+var mnemonic = "prison permit trigger bench volume clerk stay finger mesh kiss slim side";

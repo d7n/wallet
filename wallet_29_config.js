@@ -1,1 +1,1 @@
-var mnemonic = "arm amateur oil kite accident soccer enlist old film primary pattern weasel";
+var mnemonic = "scout chat refuse roast rapid horror kit retire lemon conduct toy company";

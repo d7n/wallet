@@ -1,1 +1,1 @@
-var mnemonic = "improve remove coyote upper because goose wrist core creek outside clap lake";
+var mnemonic = "deposit capital upper sing cool swap east thrive cupboard silver today rice";

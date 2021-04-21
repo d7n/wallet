@@ -1,1 +1,1 @@
-var mnemonic = "rail coffee alarm immune morning earth unfair glare monster giggle badge donkey";
+var mnemonic = "guilt banner drill stand bonus call mouse vital anchor force fitness bench";

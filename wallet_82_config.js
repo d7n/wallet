@@ -1,1 +1,1 @@
-var mnemonic = "turn shed window organ return rebuild round exclude hospital tomato wasp trial";
+var mnemonic = "burger fly shallow spawn private kind north another layer view laugh talk";

@@ -1,1 +1,1 @@
-var mnemonic = "stove try know guess pupil ride priority kite gasp scan gain citizen";
+var mnemonic = "confirm label ugly maid ability spider merge duck embrace shrimp burger imitate";

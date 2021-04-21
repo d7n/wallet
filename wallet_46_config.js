@@ -1,1 +1,1 @@
-var mnemonic = "exact mention repeat present stay rail salt reject riot fiscal dinosaur cereal";
+var mnemonic = "ensure useful immune pistol hill slot master trim chest leaf property best";

@@ -1,1 +1,1 @@
-var mnemonic = "ready flavor diamond input south suspect cat abuse young quit wall piece";
+var mnemonic = "sponsor hungry illness stool visit tortoise purse segment salon wing useless void";

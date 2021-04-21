@@ -1,1 +1,1 @@
-var mnemonic = "profit snap crash ginger steel error uniform team captain silly resource never";
+var mnemonic = "eternal edit canoe attitude park damage street bitter sing unfair family since";

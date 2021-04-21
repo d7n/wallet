@@ -1,1 +1,1 @@
-var mnemonic = "usual barrel miss soldier candy valid hundred scout choose view parent dash";
+var mnemonic = "image palace cream cart harvest fish laptop speak just park novel boy";

@@ -1,1 +1,1 @@
-var mnemonic = "copy energy carpet guitar model chapter nut that pigeon you put field";
+var mnemonic = "impose easy please illegal convince salad squeeze wild absorb crack parrot remind";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity negative slab law turtle trash gesture scan garlic onion route tree";
+var mnemonic = "acquire voice forget little into use police before patient animal scorpion dress";

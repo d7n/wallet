@@ -1,1 +1,1 @@
-var mnemonic = "gossip end chase keep grass purchase gaze target pledge stuff equip this";
+var mnemonic = "fish reason bamboo level dune thrive boss car attitude frost similar ozone";

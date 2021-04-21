@@ -1,1 +1,1 @@
-var mnemonic = "all edge ring cheap idle vessel decade imitate tool mansion provide cinnamon";
+var mnemonic = "girl saddle begin toddler kiwi race snow pelican review alone faith like";

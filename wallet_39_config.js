@@ -1,1 +1,1 @@
-var mnemonic = "drop tonight domain escape mass axis onion any isolate ankle dismiss protect";
+var mnemonic = "attract tooth tent ignore soft impose mouse napkin duck junk van casino";

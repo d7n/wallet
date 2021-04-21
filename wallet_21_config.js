@@ -1,1 +1,1 @@
-var mnemonic = "expose able develop couch raven solar rib foil random door blade crowd";
+var mnemonic = "insane educate library aunt celery begin believe enter illness account dress admit";

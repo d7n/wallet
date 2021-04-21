@@ -1,1 +1,1 @@
-var mnemonic = "ketchup hidden treat nest fire very kick position damage federal knee scrub";
+var mnemonic = "fetch fatigue bridge safe disorder plate beauty awake once field board length";

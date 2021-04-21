@@ -1,1 +1,1 @@
-var mnemonic = "reward about differ only wood unusual soccer method race point total unhappy";
+var mnemonic = "web peanut hood normal old view twelve trick near boost hat mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "snack pitch exit cart cattle arrive behave humble crunch blur armed strike";
+var mnemonic = "clog account close sunset easily sunset salad invite input swing picnic deliver";

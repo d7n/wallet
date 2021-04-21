@@ -1,1 +1,1 @@
-var mnemonic = "increase village again liar execute puppy fetch narrow convince mercy nation maze";
+var mnemonic = "eternal load one solar ribbon dial excite foam design spare bone miss";

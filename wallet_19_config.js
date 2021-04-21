@@ -1,1 +1,1 @@
-var mnemonic = "win pulp pole motor night spatial equal refuse kit rifle square endorse";
+var mnemonic = "scrap bulk peace peasant nut manual squeeze across arrive project anger total";

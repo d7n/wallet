@@ -1,1 +1,1 @@
-var mnemonic = "uniform wait lamp treat job surprise ten lunch spring point muffin warm";
+var mnemonic = "lion unaware shoe daring open inch cry desert hero era end miss";

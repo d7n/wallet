@@ -1,1 +1,1 @@
-var mnemonic = "assault tobacco calm random actress cart file penalty butter there cigar sure";
+var mnemonic = "gospel pluck two three sock omit act mind luxury inherit fine inquiry";

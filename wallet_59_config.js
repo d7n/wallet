@@ -1,1 +1,1 @@
-var mnemonic = "address hockey client alcohol radio layer burden fade desert patient pipe around";
+var mnemonic = "artist must quit able item ethics sense muffin bitter unveil lava alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "net thumb until mistake cousin vote toilet walk canyon economy umbrella interest";
+var mnemonic = "door bachelor six absurd much language park local switch runway soft fog";

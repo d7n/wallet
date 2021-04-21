@@ -1,1 +1,1 @@
-var mnemonic = "carpet eager abuse net flag autumn beef crane pilot dance ivory patrol";
+var mnemonic = "march invest seven limb rescue lava resist honey original smoke ice rib";

@@ -1,1 +1,1 @@
-var mnemonic = "hole debate alley rose multiply case taste goddess slush lecture mango weapon";
+var mnemonic = "spray fashion injury rhythm unveil elephant insane luxury swear dutch sea menu";

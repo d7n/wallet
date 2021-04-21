@@ -1,1 +1,1 @@
-var mnemonic = "craft buffalo few extra tuition sister valid luggage palm stay noise oxygen";
+var mnemonic = "usual rare today entry bone indoor drive joy promote inject unfair amateur";

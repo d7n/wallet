@@ -1,1 +1,1 @@
-var mnemonic = "grocery kind repeat uphold surprise pause convince wish glass system fee flavor";
+var mnemonic = "trust help reflect conduct federal minor program fresh source green annual must";

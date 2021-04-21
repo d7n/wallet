@@ -1,1 +1,1 @@
-var mnemonic = "state grass interest safe section must drop prosper wife rich recycle glue";
+var mnemonic = "diamond together trouble entry name strike forest suggest feed talk tired soup";

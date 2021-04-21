@@ -1,1 +1,1 @@
-var mnemonic = "stone purpose force fade miss agree chicken taste final gaze hazard short";
+var mnemonic = "six access entry nominee choice lesson must wait inquiry dismiss end awake";

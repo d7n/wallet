@@ -1,1 +1,1 @@
-var mnemonic = "immense modify theme dinosaur dawn hotel blur wink police race profit click";
+var mnemonic = "few method legal knee soccer sun agree opera cup torch identify foil";

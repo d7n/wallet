@@ -1,1 +1,1 @@
-var mnemonic = "square among wife people spice squirrel movie amount chicken odor scene pet";
+var mnemonic = "remove patch veteran normal odor current steak chief act sugar gather curve";

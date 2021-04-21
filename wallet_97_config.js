@@ -1,1 +1,1 @@
-var mnemonic = "purpose rural globe lawn wrap wheat milk educate illness praise math cherry";
+var mnemonic = "kidney ripple image cheese island loud middle add put surface live twin";

@@ -1,1 +1,1 @@
-var mnemonic = "owner peanut amount property harbor neck egg lake life armor enhance bonus";
+var mnemonic = "session wing filter mutual certain orient bar turkey youth garment hidden tape";

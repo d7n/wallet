@@ -1,1 +1,1 @@
-var mnemonic = "rival scissors dust hat talk filter tackle august cupboard away cook couple";
+var mnemonic = "chair genuine rare chapter veteran bachelor advice steak drink word model actor";

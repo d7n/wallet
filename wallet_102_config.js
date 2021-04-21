@@ -1,1 +1,1 @@
-var mnemonic = "canvas extra zoo surface crush pizza word hint attack nasty vessel demise";
+var mnemonic = "educate mad visit same recall code satisfy silver shine sauce trophy supreme";

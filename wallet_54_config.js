@@ -1,1 +1,1 @@
-var mnemonic = "program either tackle brown recipe orphan night cage solution obey sand simple";
+var mnemonic = "forward filter worry few glare egg rough unfair strategy real belt rice";

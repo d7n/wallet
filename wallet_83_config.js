@@ -1,1 +1,1 @@
-var mnemonic = "expect describe dry supreme soft carpet early mercy bleak usage uncle tooth";
+var mnemonic = "model rule win endorse search ketchup scissors garden model pizza kidney utility";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty airport trumpet mobile drink quiz lake bundle derive eager sand morning";
+var mnemonic = "describe crash jeans fuel bleak law seek ramp trouble vague opera capital";

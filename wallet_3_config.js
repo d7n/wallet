@@ -1,1 +1,1 @@
-var mnemonic = "absurd target animal prison tent tornado stick empty atom farm bubble since";
+var mnemonic = "they theory confirm kiss indoor turkey strike lens disagree squirrel pretty vintage";

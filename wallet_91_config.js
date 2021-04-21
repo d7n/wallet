@@ -1,1 +1,1 @@
-var mnemonic = "action music mix leave fade phone foil judge slide exist impulse paper";
+var mnemonic = "hope artwork math lift mosquito obvious blind daughter forget veteran surge add";

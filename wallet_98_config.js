@@ -1,1 +1,1 @@
-var mnemonic = "work model acoustic taste please notable matter image property reflect resist couch";
+var mnemonic = "duty hello blade license tell canoe planet switch model fossil police inform";

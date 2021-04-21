@@ -1,1 +1,1 @@
-var mnemonic = "october calm flat unable police zoo miracle disease edge enable steel garage";
+var mnemonic = "viable hub tiny unknown stand bullet state height pluck dumb sing urban";

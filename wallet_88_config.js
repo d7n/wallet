@@ -1,1 +1,1 @@
-var mnemonic = "stone paper habit exotic normal van general turkey elite choose sad night";
+var mnemonic = "require dumb mixture advance turkey during tuition bean kitchen convince shop tornado";

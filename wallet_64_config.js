@@ -1,1 +1,1 @@
-var mnemonic = "hero anxiety digital sleep gap innocent govern you pioneer bright assault welcome";
+var mnemonic = "egg treat soap venue floor unhappy lyrics math illness junior anger narrow";

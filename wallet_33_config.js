@@ -1,1 +1,1 @@
-var mnemonic = "toward repeat half attack toast daring exhibit thumb century work zero glance";
+var mnemonic = "amateur crater caution maze nice inch immense gasp stamp loud expire viable";

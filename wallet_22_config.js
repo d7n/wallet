@@ -1,1 +1,1 @@
-var mnemonic = "trim scatter cliff skull sleep piece aerobic follow maximum endless discover company";
+var mnemonic = "artefact seed forum scale portion leave safe sugar immense loyal easy manual";
