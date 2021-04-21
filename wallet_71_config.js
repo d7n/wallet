@@ -1,1 +1,1 @@
-var mnemonic = "pen web pumpkin blouse near dinosaur credit stereo turkey attend tomorrow story";
+var mnemonic = "cloud catalog mistake swift coin obvious friend sweet success animal weasel jeans";

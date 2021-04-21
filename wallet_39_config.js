@@ -1,1 +1,1 @@
-var mnemonic = "prosper boss brass chicken inmate spy wait cheese stove vault say field";
+var mnemonic = "nuclear stable theory deer zoo picture staff copper opinion humble auto immune";

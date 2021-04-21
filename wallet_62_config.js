@@ -1,1 +1,1 @@
-var mnemonic = "wheel medal truly legend debris patrol license slender embark pyramid lounge remind";
+var mnemonic = "gesture absent together notable entire genre ecology feed dawn tattoo sign decrease";

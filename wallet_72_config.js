@@ -1,1 +1,1 @@
-var mnemonic = "pave script dynamic loud merge document cram bless rebuild differ that ignore";
+var mnemonic = "desk essence indoor draw merry tide tip truck express tape push few";

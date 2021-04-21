@@ -1,1 +1,1 @@
-var mnemonic = "brain right ignore multiply slice merry lab february wagon purpose prefer acquire";
+var mnemonic = "gorilla sheriff legend age odor burden nuclear cabbage clip ball aspect room";

@@ -1,1 +1,1 @@
-var mnemonic = "begin stereo vapor rabbit situate seat dignity economy earn coyote tortoise spring";
+var mnemonic = "gravity glass honey assume segment pair rebuild almost case cancel ski essay";

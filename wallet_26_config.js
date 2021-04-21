@@ -1,1 +1,1 @@
-var mnemonic = "pig arm elite enough aisle window learn advice degree cover rough estate";
+var mnemonic = "ability solve web water base surface slow explain glue ritual vote entire";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat dog acoustic symbol father lamp cheese between lend option increase vague";
+var mnemonic = "bonus brief vicious cable border save brother holiday bid renew chief dog";

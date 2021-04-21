@@ -1,1 +1,1 @@
-var mnemonic = "worth crumble kind because picture purity fancy van swing fade rookie ill";
+var mnemonic = "cabbage still vehicle elephant easy victory time animal pupil matrix dumb jeans";

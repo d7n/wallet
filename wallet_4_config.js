@@ -1,1 +1,1 @@
-var mnemonic = "coach then suggest fabric sausage scorpion either tooth path fun arrange large";
+var mnemonic = "orphan proud easily source virus anxiety give metal garage net movie fall";

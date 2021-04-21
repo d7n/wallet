@@ -1,1 +1,1 @@
-var mnemonic = "wedding toast suspect prosper volcano almost deposit tuna place alley chuckle need";
+var mnemonic = "canvas entry ripple tomorrow profit vague clown foot lizard inquiry lock gentle";

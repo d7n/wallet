@@ -1,1 +1,1 @@
-var mnemonic = "monster huge budget shoulder service diagram awesome reject tube sadness business plate";
+var mnemonic = "fossil dad replace extra veteran clean mercy between renew pudding return marine";

@@ -1,1 +1,1 @@
-var mnemonic = "lab time damp uncle egg vendor odor clerk else giant nest bike";
+var mnemonic = "major odor miss wreck catch squeeze funny grow phrase base trick gaze";

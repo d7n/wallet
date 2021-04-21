@@ -1,1 +1,1 @@
-var mnemonic = "giraffe write you surround expand expand grit job wet ethics mother fall";
+var mnemonic = "liar wrong mother acid afford cupboard blast lake desert claw myth vessel";

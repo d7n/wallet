@@ -1,1 +1,1 @@
-var mnemonic = "tone opera bench slender napkin eyebrow shoe expose burden seed siege invite";
+var mnemonic = "essay poet charge good emotion coil slush girl world gather evidence armed";

@@ -1,1 +1,1 @@
-var mnemonic = "object gain nominee increase odor chuckle emotion air absurd guide rival day";
+var mnemonic = "marriage dumb imitate theme three never ecology taxi system dawn shell mimic";

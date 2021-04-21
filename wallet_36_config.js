@@ -1,1 +1,1 @@
-var mnemonic = "actual hour vintage gas usual unlock heavy subject oyster deputy shoe relief";
+var mnemonic = "road mass album clay giant lazy enemy canvas party bamboo palace bridge";

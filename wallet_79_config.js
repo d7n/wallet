@@ -1,1 +1,1 @@
-var mnemonic = "proud demand latin strategy nuclear grass arm cat outdoor add equip spoil";
+var mnemonic = "retire crystal verify bridge gauge alone desk collect slide left empty hair";

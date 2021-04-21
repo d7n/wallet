@@ -1,1 +1,1 @@
-var mnemonic = "predict scout bundle guilt license guilt copy library pelican boost face short";
+var mnemonic = "inform beauty because joke merit install budget toward inflict buffalo hill asset";

@@ -1,1 +1,1 @@
-var mnemonic = "lift crunch like bird north tooth brick avoid choice foam garment recall";
+var mnemonic = "subject february quiz steel general fantasy kiwi sniff keep ethics there only";

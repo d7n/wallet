@@ -1,1 +1,1 @@
-var mnemonic = "pig nuclear dream typical search fish uniform post option cactus robust powder";
+var mnemonic = "company reason relax column cart rigid mechanic afraid festival vessel moment enable";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic tray awful sketch try protect nuclear pill nut lyrics review forest";
+var mnemonic = "fatigue rate clog double arrest file found assume ribbon cargo dwarf lock";

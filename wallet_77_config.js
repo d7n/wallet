@@ -1,1 +1,1 @@
-var mnemonic = "debate copy sport toe ring craft pig alter unlock sketch control range";
+var mnemonic = "another correct style leave tank balance warrior asset barrel village odor ranch";

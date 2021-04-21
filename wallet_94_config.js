@@ -1,1 +1,1 @@
-var mnemonic = "dove brave polar modify chapter van senior prepare harsh dune sock rival";
+var mnemonic = "hollow list six unfold surface radar relax lava night average oval vehicle";

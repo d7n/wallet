@@ -1,1 +1,1 @@
-var mnemonic = "series only kingdom muscle jewel visual actress adjust art spot general maximum";
+var mnemonic = "warrior science olive hair diagram maximum length buzz source know solid bunker";

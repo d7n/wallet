@@ -1,1 +1,1 @@
-var mnemonic = "tortoise limit seven gather safe boring document neutral belt follow rate chuckle";
+var mnemonic = "entire nature aware body close option ride seed clay brain cook glass";

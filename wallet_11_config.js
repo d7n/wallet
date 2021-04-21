@@ -1,1 +1,1 @@
-var mnemonic = "bread sauce adapt connect nature eternal utility right immune cinnamon hip fit";
+var mnemonic = "modify ten net person sing luxury recall captain hurry oblige castle pudding";

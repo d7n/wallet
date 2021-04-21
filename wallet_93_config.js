@@ -1,1 +1,1 @@
-var mnemonic = "cycle pave wide outer enrich depend satoshi timber mention exit tribe runway";
+var mnemonic = "mule slim term trash bachelor wing trash flash basket garage near science";

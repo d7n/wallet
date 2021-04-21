@@ -1,1 +1,1 @@
-var mnemonic = "gauge cradle tail dirt oblige blast chaos fatal antique coyote rude isolate";
+var mnemonic = "fatigue bonus soft harbor grow peasant forget disorder scare today act property";

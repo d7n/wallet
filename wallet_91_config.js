@@ -1,1 +1,1 @@
-var mnemonic = "ivory inject vocal reason sheriff power hard sausage cliff warfare jar dismiss";
+var mnemonic = "robot oven table invest beach comfort side armed weekend pluck used crawl";

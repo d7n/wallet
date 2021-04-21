@@ -1,1 +1,1 @@
-var mnemonic = "vivid device donkey write pass chest move push recall safe satisfy orphan";
+var mnemonic = "own uniform world cricket wheat cricket wide gossip supply dwarf royal alter";

@@ -1,1 +1,1 @@
-var mnemonic = "sister sauce organ prevent addict town group sister letter tone slogan monitor";
+var mnemonic = "biology poverty badge volcano escape cute orient bonus left dragon snack chronic";

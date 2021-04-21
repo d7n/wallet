@@ -1,1 +1,1 @@
-var mnemonic = "use million awesome year cactus warm palm jungle come lens gadget quit";
+var mnemonic = "prison budget wide talk arrive where breeze picture escape salad wrong laugh";

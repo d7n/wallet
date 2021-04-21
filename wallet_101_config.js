@@ -1,1 +1,1 @@
-var mnemonic = "prefer primary identify collect hole august cotton poet blind carpet priority garment";
+var mnemonic = "depart shoot popular tomorrow primary addict giraffe coin crunch blur today start";

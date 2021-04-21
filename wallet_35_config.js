@@ -1,1 +1,1 @@
-var mnemonic = "garden proof urban various awesome aerobic afraid acoustic fatigue public decline sort";
+var mnemonic = "spawn speak concert often nut frown puzzle rate enable nice cake quality";

@@ -1,1 +1,1 @@
-var mnemonic = "six rack sorry area lava quantum cousin girl foot horse valve battle";
+var mnemonic = "window filter narrow exhibit property cannon early prepare bike apology odor cliff";

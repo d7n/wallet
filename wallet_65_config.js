@@ -1,1 +1,1 @@
-var mnemonic = "soda forget check leisure sausage hockey water run grow hundred hard cake";
+var mnemonic = "legal youth history boost later fall scale fade dismiss ready lawsuit display";

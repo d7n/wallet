@@ -1,1 +1,1 @@
-var mnemonic = "obtain improve offer giggle decrease helmet enhance morning innocent rather offer absent";
+var mnemonic = "initial vehicle order chalk eager section element come worth guess clever urban";

@@ -1,1 +1,1 @@
-var mnemonic = "again wire grit park trick chef merit guide board circle around sniff";
+var mnemonic = "hedgehog camp glimpse certain test labor blood hello hybrid interest nasty myself";

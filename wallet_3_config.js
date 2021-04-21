@@ -1,1 +1,1 @@
-var mnemonic = "suit idle lawsuit amused smile wagon system wedding display polar eagle toilet";
+var mnemonic = "salon runway pulp smile face note evoke pilot bonus sort menu weekend";

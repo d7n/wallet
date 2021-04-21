@@ -1,1 +1,1 @@
-var mnemonic = "sniff world judge desk prison flee armed kiwi inform chalk deal combine";
+var mnemonic = "cart prevent riot property squirrel window galaxy marble lecture canvas only route";

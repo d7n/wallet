@@ -1,1 +1,1 @@
-var mnemonic = "struggle steel mention sadness photo mail surprise same suggest room draft joy";
+var mnemonic = "utility affair base program tissue letter fade release scene wall force goddess";

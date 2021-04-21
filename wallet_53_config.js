@@ -1,1 +1,1 @@
-var mnemonic = "cream spray nation letter stomach token armor chapter trap surprise trigger lady";
+var mnemonic = "arena interest circle rhythm common involve topple entry control excess harsh flower";

@@ -1,1 +1,1 @@
-var mnemonic = "dress burden upon engage prison impulse motor hockey year protect demise crush";
+var mnemonic = "spice patrol easy steak hole town fit major gather walk save jacket";

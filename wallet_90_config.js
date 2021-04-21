@@ -1,1 +1,1 @@
-var mnemonic = "silk phrase nose body group curtain list hurdle insect monkey roast stem";
+var mnemonic = "diagram state coast broccoli scrub pull vault moral club cancel sweet muscle";

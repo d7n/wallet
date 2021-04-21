@@ -1,1 +1,1 @@
-var mnemonic = "cement deliver shop bike salon surround couch affair receive dust ridge curious";
+var mnemonic = "wear raccoon achieve region tiger together unable world humor found human raw";

@@ -1,1 +1,1 @@
-var mnemonic = "decide father junk just kite whale pitch immune fork curious float link";
+var mnemonic = "latin second add melody way melt diary bargain west pass evil raccoon";

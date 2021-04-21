@@ -1,1 +1,1 @@
-var mnemonic = "fiber banner enough amateur uncover toe absurd second vacuum patch kid odor";
+var mnemonic = "love opinion define can wedding hungry hope hat ramp cloth actual tiger";

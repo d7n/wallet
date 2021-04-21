@@ -1,1 +1,1 @@
-var mnemonic = "average oyster sketch series design library reject near improve smoke shadow faculty";
+var mnemonic = "slide uniform grocery perfect trophy evil penalty dune summer cradle leisure very";

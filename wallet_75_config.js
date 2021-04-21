@@ -1,1 +1,1 @@
-var mnemonic = "picture current pattern behind denial congress spin cup obey melt stem stomach";
+var mnemonic = "include ring myth vendor library victory neither clown train appear output since";

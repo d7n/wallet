@@ -1,1 +1,1 @@
-var mnemonic = "master idea artefact child marriage also cram quarter ball relax truth also";
+var mnemonic = "oblige potato furnace swim now modify skate prize crunch treat anger verb";

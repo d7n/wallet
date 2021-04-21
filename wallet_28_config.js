@@ -1,1 +1,1 @@
-var mnemonic = "multiply dwarf atom hill push video afraid iron document unable skirt unusual";
+var mnemonic = "ketchup toddler toast ozone involve galaxy venture legal october mutual affair north";

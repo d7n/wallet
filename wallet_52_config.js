@@ -1,1 +1,1 @@
-var mnemonic = "patrol vast jump off canyon laugh ability excess option happy erosion fancy";
+var mnemonic = "yellow iron tag cart mix heavy frozen enhance mix canyon electric mule";

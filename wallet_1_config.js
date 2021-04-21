@@ -1,1 +1,1 @@
-var mnemonic = "comfort review mixture ancient powder sound bounce join input around stamp soft";
+var mnemonic = "celery hungry asset quantum share title pyramid first clerk promote pencil pencil";

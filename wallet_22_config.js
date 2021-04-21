@@ -1,1 +1,1 @@
-var mnemonic = "mass account visual height cargo host shell sniff social pole hub true";
+var mnemonic = "green pole penalty amazing safe nut fresh glad female include feature smart";

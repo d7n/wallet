@@ -1,1 +1,1 @@
-var mnemonic = "warfare green february carbon evolve genre stereo alarm glory sponsor creek tail";
+var mnemonic = "say pupil wing found kick dice coin able plug cart voice vital";

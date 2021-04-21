@@ -1,1 +1,1 @@
-var mnemonic = "proud spoon insane notable chaos sudden breeze kiwi satisfy mirror category more";
+var mnemonic = "derive believe flock federal galaxy badge banana grass evidence clock deliver merit";

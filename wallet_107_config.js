@@ -1,1 +1,1 @@
-var mnemonic = "climb tackle else slogan guitar escape cabbage cute puppy fatal giant way";
+var mnemonic = "speak swim forget galaxy wine limb happy already cupboard section reason awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "valid oven onion remember tragic hair loyal magic rural approve tunnel emotion";
+var mnemonic = "gallery grant lend casino derive dice random measure nation goddess security coach";

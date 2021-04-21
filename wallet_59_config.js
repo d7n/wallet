@@ -1,1 +1,1 @@
-var mnemonic = "poverty boat goat wish alley leisure differ crisp bleak various pause hill";
+var mnemonic = "spider caught depart follow blouse lady skin angle round buddy recall faith";

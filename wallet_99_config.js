@@ -1,1 +1,1 @@
-var mnemonic = "educate hire leader picnic absurd walnut kind lonely account forest host life";
+var mnemonic = "plunge rebel army carpet wide child palm damage already heavy lobster bike";

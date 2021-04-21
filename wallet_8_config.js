@@ -1,1 +1,1 @@
-var mnemonic = "fancy ready dilemma fit job tomorrow detail initial salmon cancel monitor outside";
+var mnemonic = "indicate mixed oval stumble dial second estate brand card jungle caught ivory";

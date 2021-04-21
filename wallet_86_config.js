@@ -1,1 +1,1 @@
-var mnemonic = "audit artwork grab lottery glad fiber six fabric seek pipe gather tourist";
+var mnemonic = "feature dry punch grant marble vicious interest timber viable ahead trap pill";

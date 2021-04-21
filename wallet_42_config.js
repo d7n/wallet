@@ -1,1 +1,1 @@
-var mnemonic = "tonight merry transfer increase lift hover long animal life hour congress coast";
+var mnemonic = "luggage circle dash peace flush knee speak put stairs report input tornado";

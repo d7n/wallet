@@ -1,1 +1,1 @@
-var mnemonic = "aunt drama knock topic slab odor random impulse uniform picture ready private";
+var mnemonic = "hip coral merge basket cheap render rotate hair toast feel nerve fun";

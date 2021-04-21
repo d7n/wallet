@@ -1,1 +1,1 @@
-var mnemonic = "sweet shrimp resource swamp unfold recycle train reflect engine animal wall middle";
+var mnemonic = "wheat zoo lucky feed tornado family talent fatal pool main month fever";

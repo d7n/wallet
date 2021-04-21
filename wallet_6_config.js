@@ -1,1 +1,1 @@
-var mnemonic = "punch error cabbage result own end million hamster now video young uphold";
+var mnemonic = "fox maximum leg pigeon speak blossom crowd shuffle bind chimney pink fold";

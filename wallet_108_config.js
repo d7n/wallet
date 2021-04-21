@@ -1,1 +1,1 @@
-var mnemonic = "bus alter quality company diagram fresh armor sorry ensure purity emerge system";
+var mnemonic = "seat confirm autumn step hire curve misery light recycle panda engage dial";

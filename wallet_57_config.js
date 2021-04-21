@@ -1,1 +1,1 @@
-var mnemonic = "quality light unveil move barely warm allow tilt desert bacon vital turn";
+var mnemonic = "vapor adjust shiver ketchup health claw bar win right impulse fine valid";

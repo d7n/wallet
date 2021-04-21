@@ -1,1 +1,1 @@
-var mnemonic = "check ordinary please canyon lava romance display olive blanket dress hope wheat";
+var mnemonic = "wagon denial stomach earn gorilla pony tip mutual public planet valve quiz";

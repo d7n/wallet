@@ -1,1 +1,1 @@
-var mnemonic = "arctic moon trust height spawn fluid warfare resist answer device another album";
+var mnemonic = "trip project faith wise edge vacant because copper twin final birth hand";

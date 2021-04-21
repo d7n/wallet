@@ -1,1 +1,1 @@
-var mnemonic = "poverty social salt behind skin network bullet trade gold donor denial lumber";
+var mnemonic = "wash devote excite talk soon promote choose require garlic tip bracket siege";

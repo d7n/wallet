@@ -1,1 +1,1 @@
-var mnemonic = "bullet fan warrior deny energy inhale tumble lumber myth napkin pledge photo";
+var mnemonic = "when blame hire true gift mesh comic between observe duck mammal negative";

@@ -1,1 +1,1 @@
-var mnemonic = "please boy century siren page monster suggest faculty nice snack gather use";
+var mnemonic = "pilot unit state decrease uniform cinnamon just author glory cup daughter wise";

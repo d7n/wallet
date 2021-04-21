@@ -1,1 +1,1 @@
-var mnemonic = "marble afraid favorite cream put cute proud kind only word keen muscle";
+var mnemonic = "clap priority foam uphold venture basket gossip chunk there arena peasant prepare";

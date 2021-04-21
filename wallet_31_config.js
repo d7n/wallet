@@ -1,1 +1,1 @@
-var mnemonic = "foam trust quick regular service mom wise boss try digital buzz project";
+var mnemonic = "cloth someone dose extend second local morning wish humble divorce together theory";

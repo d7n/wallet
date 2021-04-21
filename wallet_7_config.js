@@ -1,1 +1,1 @@
-var mnemonic = "allow search opera online point thing drift laptop almost struggle good curve";
+var mnemonic = "jealous jelly dentist flash employ pudding saddle food track impact found famous";

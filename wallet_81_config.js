@@ -1,1 +1,1 @@
-var mnemonic = "miss start side lecture gallery radar debate ancient card cute truck today";
+var mnemonic = "run airport onion salt vague era earth dune either winter salmon thunder";

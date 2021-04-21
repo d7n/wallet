@@ -1,1 +1,1 @@
-var mnemonic = "orient gold echo stamp outdoor stumble rabbit girl female when credit wheel";
+var mnemonic = "exotic open between borrow truck collect water rude jewel cage tooth drift";

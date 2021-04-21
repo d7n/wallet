@@ -1,1 +1,1 @@
-var mnemonic = "tape ability chair replace path joke cherry dial parade tip energy crime";
+var mnemonic = "genre lottery oak egg across weapon volcano patient before laugh main giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "cross exile eye woman mesh flash stool churn obey man service brand";
+var mnemonic = "snap senior maid swift jelly castle outside ski weird position artefact horse";

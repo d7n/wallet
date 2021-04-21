@@ -1,1 +1,1 @@
-var mnemonic = "pause enact amazing pill betray camera valley charge science pass upon fiscal";
+var mnemonic = "action wreck govern sock love royal chaos drastic bench material pioneer swap";

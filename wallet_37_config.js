@@ -1,1 +1,1 @@
-var mnemonic = "quit camp mystery arena enemy desk figure mosquito own smoke own shy";
+var mnemonic = "fence dial virus firm latin cherry emotion dilemma napkin office become dizzy";

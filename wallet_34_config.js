@@ -1,1 +1,1 @@
-var mnemonic = "solar final mistake banana deposit critic catch special west olympic census custom";
+var mnemonic = "scheme million rigid panther craft engage palm caught mad solve exotic two";

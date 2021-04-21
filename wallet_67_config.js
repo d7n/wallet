@@ -1,1 +1,1 @@
-var mnemonic = "inhale turn melody canoe popular amateur come wagon crew crack various stay";
+var mnemonic = "state reduce tag burger person island lizard crop balance shoulder illness put";

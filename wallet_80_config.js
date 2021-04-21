@@ -1,1 +1,1 @@
-var mnemonic = "forget bottom unlock frame wave ivory before carbon purity direct burden antenna";
+var mnemonic = "aspect expect ankle there flee ancient funny impose three crunch settle next";

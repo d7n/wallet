@@ -1,1 +1,1 @@
-var mnemonic = "dentist other afford betray tattoo powder bitter pigeon cover alley father expand";
+var mnemonic = "surface arrest afford asset buyer rookie ghost champion foam industry fashion accuse";

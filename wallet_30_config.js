@@ -1,1 +1,1 @@
-var mnemonic = "muffin okay drive reform frog range column image vapor wonder warrior copper";
+var mnemonic = "final mango apple identify grow scene travel inmate chaos stay curtain dust";

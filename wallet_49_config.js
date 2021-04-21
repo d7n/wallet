@@ -1,1 +1,1 @@
-var mnemonic = "access tube floor miracle firm rally clip sibling genius reopen genius detect";
+var mnemonic = "naive kitchen exit foil lounge rebel drama bounce road alter tired uncover";

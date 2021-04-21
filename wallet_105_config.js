@@ -1,1 +1,1 @@
-var mnemonic = "quantum gap spoil spell festival attack doctor hint dove brave about auto";
+var mnemonic = "kiss eagle bike lottery forget define charge course rifle easily pact wrap";

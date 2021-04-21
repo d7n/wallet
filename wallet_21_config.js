@@ -1,1 +1,1 @@
-var mnemonic = "strike used mirror elbow since design slogan series again canal bachelor fade";
+var mnemonic = "move into skirt evolve used blanket peanut cotton faith drive cross club";

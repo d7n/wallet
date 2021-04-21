@@ -1,1 +1,1 @@
-var mnemonic = "cash lobster sword plug chest gain recall alien rice vacant latin woman";
+var mnemonic = "minimum across coconut memory mail foil hat left wet meat saddle glimpse";

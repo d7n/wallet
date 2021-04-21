@@ -1,1 +1,1 @@
-var mnemonic = "miracle toss fox sketch abstract inner behind good spike goddess bubble sport";
+var mnemonic = "prepare stable husband glass fat frost model crop fetch option cash arena";
