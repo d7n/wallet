@@ -1,1 +1,1 @@
-var mnemonic = "slush festival bridge tuna olympic rotate topic behind split limb grab kid";
+var mnemonic = "lecture way rifle remember recycle excess want avocado asthma tissue valley advance";

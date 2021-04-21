@@ -1,1 +1,1 @@
-var mnemonic = "sleep vehicle interest spray frozen abstract erosion appear once under entry wait";
+var mnemonic = "whip theme harsh blue warrior forest gun theory fatigue slice trumpet slender";

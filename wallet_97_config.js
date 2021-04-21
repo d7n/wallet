@@ -1,1 +1,1 @@
-var mnemonic = "round enemy cluster bleak toast obey object bless wagon desert similar delay";
+var mnemonic = "dice rural camera actual gravity tube nuclear oyster crowd divert parade engage";

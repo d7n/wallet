@@ -1,1 +1,1 @@
-var mnemonic = "slot frozen target mystery invest era make adjust wheel soap must next";
+var mnemonic = "apart afraid tattoo vessel accuse fog steel wrist toss there advance naive";

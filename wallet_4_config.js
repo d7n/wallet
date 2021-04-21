@@ -1,1 +1,1 @@
-var mnemonic = "tip arctic firm please glide patrol wild sheriff anger strategy pluck move";
+var mnemonic = "analyst winner enroll wasp crush hole fiscal alcohol dizzy feed cry robot";

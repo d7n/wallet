@@ -1,1 +1,1 @@
-var mnemonic = "multiply ring second daughter abuse purse unique patrol critic chunk solid drama";
+var mnemonic = "person suit move wood rifle penalty library kitten glide soap ability lab";

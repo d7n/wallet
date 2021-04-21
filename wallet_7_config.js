@@ -1,1 +1,1 @@
-var mnemonic = "time page cube ski west riot away verify refuse deposit husband pink";
+var mnemonic = "drum swarm tumble shift genius whisper grunt grab able gauge actress connect";

@@ -1,1 +1,1 @@
-var mnemonic = "easy raven three foam travel adult tunnel first lamp inner chest crouch";
+var mnemonic = "muffin flip wave fan easily gorilla artefact unit lunch bless hazard frame";

@@ -1,1 +1,1 @@
-var mnemonic = "cash round ancient aunt flag fantasy elite jealous rigid broom beef verify";
+var mnemonic = "reflect few south wrestle cloth emerge silent thought field become physical impact";

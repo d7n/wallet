@@ -1,1 +1,1 @@
-var mnemonic = "card next vacuum once comic nominee fly fashion enact velvet lunch quit";
+var mnemonic = "cabin frame marine weekend long manual agree common village chronic coyote blue";

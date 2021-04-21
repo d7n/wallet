@@ -1,1 +1,1 @@
-var mnemonic = "major chef sorry diesel under economy romance rebel armor party hat switch";
+var mnemonic = "main economy gorilla genre train term session bean dentist path carry chapter";

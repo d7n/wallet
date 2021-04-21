@@ -1,1 +1,1 @@
-var mnemonic = "sustain case science enable gather voice grain palace theme shoe caution job";
+var mnemonic = "stereo bacon staff boy sentence elephant come scene inquiry sun call girl";

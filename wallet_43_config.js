@@ -1,1 +1,1 @@
-var mnemonic = "smart turn bike donate transfer lava place scheme cloud share true divert";
+var mnemonic = "mechanic hope salt brick promote desert omit fever gesture decide often winner";

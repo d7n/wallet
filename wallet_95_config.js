@@ -1,1 +1,1 @@
-var mnemonic = "imitate armor much confirm favorite junior regular canoe action recycle panic cereal";
+var mnemonic = "motor joke wife address sadness dream guide summer such fan olive exhaust";

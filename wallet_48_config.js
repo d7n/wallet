@@ -1,1 +1,1 @@
-var mnemonic = "rotate seven catalog sort empower try extra pulse space word disorder bread";
+var mnemonic = "velvet welcome floor put mouse list path bike rare still apple clog";

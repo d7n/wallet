@@ -1,1 +1,1 @@
-var mnemonic = "print end speed develop claw pole capital liquid toilet nest main like";
+var mnemonic = "cross carry vacant bright shop erupt ticket dish enhance novel insane width";

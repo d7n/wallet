@@ -1,1 +1,1 @@
-var mnemonic = "asthma level abstract quality strike tiny wing blade service tool vocal act";
+var mnemonic = "column talk road crucial swallow coast beef luggage february leopard gym quality";

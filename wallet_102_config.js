@@ -1,1 +1,1 @@
-var mnemonic = "furnace quarter side dignity turn bread essence same sock you knock spell";
+var mnemonic = "chest dinner rely nose embark among orient pen coffee napkin always addict";

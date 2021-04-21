@@ -1,1 +1,1 @@
-var mnemonic = "penalty force unhappy elegant provide virtual start spatial very final fitness artwork";
+var mnemonic = "era aim panda cheap bread hold fashion economy very symbol brother bonus";

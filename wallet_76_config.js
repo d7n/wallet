@@ -1,1 +1,1 @@
-var mnemonic = "goat universe fabric breeze quiz clarify broken ship enemy beauty legal acid";
+var mnemonic = "omit method increase phrase neglect orient exchange suggest girl rely logic harsh";

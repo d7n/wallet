@@ -1,1 +1,1 @@
-var mnemonic = "fine valley odor much thing member later wrist found ivory diamond hockey";
+var mnemonic = "struggle riot since industry inform lonely decorate design opera mobile water parade";

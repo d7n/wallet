@@ -1,1 +1,1 @@
-var mnemonic = "mesh kiss city aunt island diesel balance flock transfer benefit core winner";
+var mnemonic = "elbow advance false clinic forward shop trouble negative butter slush winner clown";

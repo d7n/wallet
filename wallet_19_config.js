@@ -1,1 +1,1 @@
-var mnemonic = "choose cross honey health vocal outside music salad sleep forward drip swamp";
+var mnemonic = "grace wave topple hundred improve fence reflect viable focus galaxy rice rebel";

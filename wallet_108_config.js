@@ -1,1 +1,1 @@
-var mnemonic = "erupt clump antenna sting minor speak purity discover exercise deal fringe want";
+var mnemonic = "onion sand south item pottery thing conduct leopard jungle habit afraid gorilla";

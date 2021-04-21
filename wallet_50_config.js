@@ -1,1 +1,1 @@
-var mnemonic = "praise copy venue core blossom meadow light entire wall solid mimic hamster";
+var mnemonic = "hospital display magic inside pony warm random reform sausage flee orange half";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny quantum repeat victory aunt diagram viable smart search drift submit also";
+var mnemonic = "combine foil say climb sugar gadget scout someone crime pole cotton effort";

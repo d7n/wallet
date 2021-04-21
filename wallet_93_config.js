@@ -1,1 +1,1 @@
-var mnemonic = "earn fatigue phrase keep country demand toy rose ginger smart bless cruel";
+var mnemonic = "only midnight pear joy test festival dinosaur cousin flag nephew addict worth";

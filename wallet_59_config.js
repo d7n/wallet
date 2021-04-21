@@ -1,1 +1,1 @@
-var mnemonic = "turtle gaze knee only panel turn involve provide argue cool swarm obscure";
+var mnemonic = "afraid six tobacco summer enter barely dynamic shove trumpet cloud scrap prepare";

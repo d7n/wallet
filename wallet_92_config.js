@@ -1,1 +1,1 @@
-var mnemonic = "release pencil choice sense involve expand wall width comic cancel excite debris";
+var mnemonic = "spoil gadget sea coffee valley success myself core state finish wrist spice";

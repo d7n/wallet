@@ -1,1 +1,1 @@
-var mnemonic = "office laugh nurse movie multiply affair roof woman trend alarm word sheriff";
+var mnemonic = "expose fitness funny danger midnight vague civil sort share garment burger mirror";

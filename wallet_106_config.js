@@ -1,1 +1,1 @@
-var mnemonic = "van awful motor bright illegal whale stick consider anxiety youth learn pretty";
+var mnemonic = "whisper piano pig scan win notable prosper bring negative motor engine opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper before trick quarter stand roof grace tuna uniform venue grass humble";
+var mnemonic = "chalk bright useful quality embrace action forward blade pact minimum stomach face";

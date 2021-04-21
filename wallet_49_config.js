@@ -1,1 +1,1 @@
-var mnemonic = "blood maximum start flame pull acoustic salt tube fashion online example trigger";
+var mnemonic = "mixed kit resist call someone refuse avoid heavy modify movie maximum enemy";

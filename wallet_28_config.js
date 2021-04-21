@@ -1,1 +1,1 @@
-var mnemonic = "penalty fruit day same crop shove pelican color coconut equal trust syrup";
+var mnemonic = "lucky bubble scene giant connect settle very entry tunnel pole will screen";

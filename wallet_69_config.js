@@ -1,1 +1,1 @@
-var mnemonic = "warfare giraffe patient want inherit genius all music category resist zoo ethics";
+var mnemonic = "tiny defense flock pave auto under shock sword bleak pond must detect";

@@ -1,1 +1,1 @@
-var mnemonic = "renew man shiver lens stadium expire admit correct trial across win right";
+var mnemonic = "vote south south gasp track youth ask meadow crucial lab actress reopen";

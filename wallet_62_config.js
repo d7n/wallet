@@ -1,1 +1,1 @@
-var mnemonic = "peanut chat polar flush enact bundle proud skill move label plate urban";
+var mnemonic = "twin steel soul put liar coil person eternal gas weather alone neck";

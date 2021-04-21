@@ -1,1 +1,1 @@
-var mnemonic = "private perfect north pass season view trick moment hero cup man police";
+var mnemonic = "topple battle flame exercise arctic cancel need lab acquire radio refuse trend";

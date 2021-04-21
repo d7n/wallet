@@ -1,1 +1,1 @@
-var mnemonic = "random amount suggest suggest armor extend palace any return recall eight blade";
+var mnemonic = "loud good duck decorate company topic farm upgrade casino suspect corn chuckle";

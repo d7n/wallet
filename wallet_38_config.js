@@ -1,1 +1,1 @@
-var mnemonic = "unveil leisure poet essence figure track cloud run drama orient argue another";
+var mnemonic = "endless curtain height truck focus ivory course category soccer fresh laptop culture";

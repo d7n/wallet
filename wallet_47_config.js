@@ -1,1 +1,1 @@
-var mnemonic = "twist depth extend celery thing riot guitar goat mom man forum demand";
+var mnemonic = "wink library budget bar picnic flight annual type casual then craft project";

@@ -1,1 +1,1 @@
-var mnemonic = "grid marble kitchen icon child wool junior fury apple noble service science";
+var mnemonic = "mansion blanket toss quit kidney else verify slice bounce captain post elder";

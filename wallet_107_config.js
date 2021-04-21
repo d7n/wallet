@@ -1,1 +1,1 @@
-var mnemonic = "woman sign capable suspect evidence group sell trumpet vanish dove pig execute";
+var mnemonic = "apology come reason affair knock invite drama hammer multiply tourist injury infant";

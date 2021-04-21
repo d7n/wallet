@@ -1,1 +1,1 @@
-var mnemonic = "cancel gaze bid interest bar metal rail flush post humble chuckle cloth";
+var mnemonic = "world general ceiling apology rigid rural sniff clutch talent taste orbit sugar";

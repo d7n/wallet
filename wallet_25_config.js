@@ -1,1 +1,1 @@
-var mnemonic = "feed milk sentence traffic giraffe legal stool suffer medal camp satoshi canyon";
+var mnemonic = "boy secret whip deny mountain knife mean excess empower fossil panic own";

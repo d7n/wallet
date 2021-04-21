@@ -1,1 +1,1 @@
-var mnemonic = "chronic tackle civil later rug adult quick pizza enroll wrestle nuclear sunset";
+var mnemonic = "field midnight animal staff vacuum deputy one patch pelican unable patch consider";

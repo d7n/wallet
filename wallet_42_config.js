@@ -1,1 +1,1 @@
-var mnemonic = "erase across engine awkward diamond already pole deputy bag worry grief cake";
+var mnemonic = "hope boss camp guide retire scene stove envelope kiss quantum cheap body";

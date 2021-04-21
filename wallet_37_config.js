@@ -1,1 +1,1 @@
-var mnemonic = "monkey cricket gas image glad concert bundle possible range chaos garden melt";
+var mnemonic = "scale convince security organ load enter direct radar witness sphere gaze fatigue";

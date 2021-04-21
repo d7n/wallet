@@ -1,1 +1,1 @@
-var mnemonic = "equal seek modify sad drama coil maximum monster lounge camera worry sunny";
+var mnemonic = "artist file vivid wild dynamic member alert wrap option topple opinion senior";

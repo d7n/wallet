@@ -1,1 +1,1 @@
-var mnemonic = "reopen among hope other diagram yellow unusual orbit digital arrange sail pilot";
+var mnemonic = "strategy anchor media helmet unit sad virtual illegal assume media flavor hazard";

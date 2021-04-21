@@ -1,1 +1,1 @@
-var mnemonic = "fish forget confirm base hand vault robust choice car balcony around tuna";
+var mnemonic = "large reform chair sing myself quarter stem math mom slide that calm";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat rather hybrid release sock duck mechanic mask hunt marriage stage into";
+var mnemonic = "hello artwork window grant sheriff race outer jealous luxury mango napkin lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "invite same morning merge child faith whale skate spring cradle under north";
+var mnemonic = "patch wisdom vessel cheap mercy parent taste soap ski aware swallow tenant";

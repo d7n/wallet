@@ -1,1 +1,1 @@
-var mnemonic = "record prosper raven viable wreck boy rain love design slush grow bulk";
+var mnemonic = "problem negative penalty paper correct chaos obvious surface figure jacket rookie pony";

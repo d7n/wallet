@@ -1,1 +1,1 @@
-var mnemonic = "sing aunt expire cable mule angle perfect impulse allow zoo order angle";
+var mnemonic = "ticket loop wire shuffle pelican civil interest hedgehog human bunker banner night";

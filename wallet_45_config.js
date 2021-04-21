@@ -1,1 +1,1 @@
-var mnemonic = "sibling board silly million olympic leg nut spawn clip all step swamp";
+var mnemonic = "athlete open leopard number express network brand donate vote list pottery innocent";

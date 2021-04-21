@@ -1,1 +1,1 @@
-var mnemonic = "double spray quick margin weapon say embody february betray album february anchor";
+var mnemonic = "wish forward sorry lecture boost ahead muffin person clay female tattoo guide";

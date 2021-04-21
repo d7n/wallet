@@ -1,1 +1,1 @@
-var mnemonic = "situate laundry airport maid home code cattle celery best car much author";
+var mnemonic = "math glance hundred boil top humble honey canyon arena climb shock trust";

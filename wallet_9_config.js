@@ -1,1 +1,1 @@
-var mnemonic = "cereal dignity pencil cotton damp music erase column reopen judge culture tuition";
+var mnemonic = "surround arrive theory tilt embody seminar when ostrich wrap monitor art coconut";

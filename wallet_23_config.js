@@ -1,1 +1,1 @@
-var mnemonic = "claw coyote episode original hobby apology season marine awkward buyer game nation";
+var mnemonic = "tumble melody blind immune man digital lady also lab switch lab cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "among clock pact beef moment repair wife weasel almost raise hungry inflict";
+var mnemonic = "toy clog vague field bless object myth stool what payment movie armed";

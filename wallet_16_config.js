@@ -1,1 +1,1 @@
-var mnemonic = "physical wolf dove midnight involve fashion assume across cost nominee wine dry";
+var mnemonic = "save toast angle rural size apology trust path elevator ugly timber unique";

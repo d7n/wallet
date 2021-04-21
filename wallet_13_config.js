@@ -1,1 +1,1 @@
-var mnemonic = "beyond win region filter drink achieve siege north lawsuit turtle cannon tomorrow";
+var mnemonic = "guilt flame parent cube turtle gather twin desk subject ball pole cycle";

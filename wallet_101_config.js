@@ -1,1 +1,1 @@
-var mnemonic = "monster stairs parade six cinnamon erode blossom civil mystery domain please large";
+var mnemonic = "public february arrow couple swear school kiss cage drive arrest lawsuit enact";

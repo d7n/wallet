@@ -1,1 +1,1 @@
-var mnemonic = "snake habit energy loop runway pet afraid repeat they strike cotton hungry";
+var mnemonic = "picnic render taxi vocal trophy police goose balance next build future avocado";

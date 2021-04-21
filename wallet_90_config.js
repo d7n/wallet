@@ -1,1 +1,1 @@
-var mnemonic = "estate orange vapor humble penalty unique gossip skull tide diary stairs oval";
+var mnemonic = "analyst ice leader twist filter stock rug parent cream tomato kiwi fashion";

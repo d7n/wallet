@@ -1,1 +1,1 @@
-var mnemonic = "battle element divorce dice remember main into soup neck put emotion misery";
+var mnemonic = "shaft napkin love funny poem bless song blouse ice coconut reopen mammal";

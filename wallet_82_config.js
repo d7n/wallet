@@ -1,1 +1,1 @@
-var mnemonic = "gate royal inject together number since wait marine keen wheel modify liquid";
+var mnemonic = "rally unveil hundred mad shell nut summer assault join diamond system slab";

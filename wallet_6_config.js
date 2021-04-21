@@ -1,1 +1,1 @@
-var mnemonic = "silver waste resist milk summer rotate maximum junk pill layer warm correct";
+var mnemonic = "teach guilt blur another broom talk typical enlist spray february fatigue slice";

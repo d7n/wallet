@@ -1,1 +1,1 @@
-var mnemonic = "frame pilot outer pistol stay cloth lucky ranch student shop cereal guitar";
+var mnemonic = "year dust feature little forum frequent maid remove rigid dice ridge chuckle";

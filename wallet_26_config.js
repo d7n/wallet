@@ -1,1 +1,1 @@
-var mnemonic = "three acid caught street ankle gown problem elbow baby disagree uncover matter";
+var mnemonic = "fringe admit museum era pear nation favorite rich supply invite often spoon";

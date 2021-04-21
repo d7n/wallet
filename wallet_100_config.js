@@ -1,1 +1,1 @@
-var mnemonic = "afraid fox stay gauge language blur still sunny puzzle host cotton goose";
+var mnemonic = "dirt dove marble spell wasp present frown ostrich broom panic cricket corn";

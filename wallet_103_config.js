@@ -1,1 +1,1 @@
-var mnemonic = "humor predict avoid lawsuit excess uncover split camera also uphold example canyon";
+var mnemonic = "use pulp govern avoid design struggle buddy tag rifle hammer blast ten";

@@ -1,1 +1,1 @@
-var mnemonic = "price cycle advice tomorrow input illegal assume oblige beyond warm second weather";
+var mnemonic = "main issue shrimp trim today parrot awful access file buddy walk lunar";

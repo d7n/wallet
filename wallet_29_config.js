@@ -1,1 +1,1 @@
-var mnemonic = "lesson hundred cream era rug legal busy pride melt glare essence tip";
+var mnemonic = "ritual tribe fix destroy about omit cupboard fit maximum decorate pulp empower";

@@ -1,1 +1,1 @@
-var mnemonic = "solid volume industry lumber liar spring case caution off goddess walnut frog";
+var mnemonic = "burger keen metal cross broccoli insect rib initial believe absent orchard huge";

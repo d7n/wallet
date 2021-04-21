@@ -1,1 +1,1 @@
-var mnemonic = "sunny tool hidden extend twin then wreck mandate cereal someone october upon";
+var mnemonic = "sorry trash entire blanket also mirror bike worry quarter sick fame height";

@@ -1,1 +1,1 @@
-var mnemonic = "approve caught file viable arctic shed only swallow predict ankle sense art";
+var mnemonic = "slow glass pigeon core moon digital alert quarter client mansion pattern resource";

@@ -1,1 +1,1 @@
-var mnemonic = "siege fine multiply resource melody another raccoon little polar shy wise invest";
+var mnemonic = "amazing sibling good thank inquiry weekend unit judge scissors tell spoon again";

@@ -1,1 +1,1 @@
-var mnemonic = "crane vault drop august absorb phrase place chunk dinosaur pink tumble throw";
+var mnemonic = "genre damage sunset fan debate funny explain rare volume puppy genre riot";

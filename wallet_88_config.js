@@ -1,1 +1,1 @@
-var mnemonic = "spring various assume old snap seminar such monkey sweet fine dash kidney";
+var mnemonic = "episode other cake all ghost kiss pool area very inmate steak hazard";

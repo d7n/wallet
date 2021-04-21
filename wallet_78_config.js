@@ -1,1 +1,1 @@
-var mnemonic = "praise wisdom jungle major second van grace nephew sample october truly snack";
+var mnemonic = "grow wool chair bless sister aisle shift abuse page soccer rally sock";

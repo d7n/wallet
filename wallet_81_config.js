@@ -1,1 +1,1 @@
-var mnemonic = "define grief engine hunt accuse brick tube cliff addict cinnamon violin come";
+var mnemonic = "quantum april torch bike popular copper trend destroy half giraffe menu bulb";

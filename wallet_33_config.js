@@ -1,1 +1,1 @@
-var mnemonic = "document barely merge south nasty toe decade topic noble sheriff better approve";
+var mnemonic = "blood ski cream amazing crack mix license control betray paper indoor cook";

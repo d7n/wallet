@@ -1,1 +1,1 @@
-var mnemonic = "scrap oval angle buffalo image below shield super amateur income blade proof";
+var mnemonic = "force shed old rib soul fabric service imitate toast stable explain course";

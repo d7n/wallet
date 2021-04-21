@@ -1,1 +1,1 @@
-var mnemonic = "potato comfort clip caution urban squirrel artwork that honey coast fruit bus";
+var mnemonic = "such hunt avoid duck usage skill amazing battle copper trumpet resist frequent";

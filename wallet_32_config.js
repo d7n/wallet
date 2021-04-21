@@ -1,1 +1,1 @@
-var mnemonic = "garage message capital dirt tuna spot horn artefact dismiss marine attend churn";
+var mnemonic = "radio logic they quality weather grit extend custom critic hero sing fruit";

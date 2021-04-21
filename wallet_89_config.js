@@ -1,1 +1,1 @@
-var mnemonic = "hurdle seminar obtain always coast erupt luxury syrup gold powder wrist chat";
+var mnemonic = "vibrant ceiling old visit abuse slam laugh miracle butter trash record bubble";

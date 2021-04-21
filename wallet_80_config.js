@@ -1,1 +1,1 @@
-var mnemonic = "rude text blanket worry poet arrest good vessel potato giraffe glide inflict";
+var mnemonic = "word tape nasty devote defy put brave blade together announce table anxiety";

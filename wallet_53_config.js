@@ -1,1 +1,1 @@
-var mnemonic = "deliver broom sweet vocal angle blouse icon weather forum inform bar voyage";
+var mnemonic = "pretty indicate ball soul female trial because mail cake phrase quit minor";

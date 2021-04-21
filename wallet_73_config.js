@@ -1,1 +1,1 @@
-var mnemonic = "exercise cry kit deal route route border poverty island cat cash market";
+var mnemonic = "radar merge cloth suit lady devote cable stable arrest exclude mansion fluid";

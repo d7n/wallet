@@ -1,1 +1,1 @@
-var mnemonic = "gadget fee pulse omit local dial exit soon wash chuckle social dog";
+var mnemonic = "extra fog call cigar scatter help game dry airport ancient dice aware";
