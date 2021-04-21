@@ -1,1 +1,1 @@
-var mnemonic = "trust april confirm shove ostrich document step heavy viable face orient account";
+var mnemonic = "work model acoustic taste please notable matter image property reflect resist couch";

@@ -1,1 +1,1 @@
-var mnemonic = "festival december grace keep belt equip sign spirit hobby remove tuna shop";
+var mnemonic = "key december feel tube tooth robot ten oval level fetch hundred mutual";

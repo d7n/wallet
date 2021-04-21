@@ -1,1 +1,1 @@
-var mnemonic = "drink cancel say rice bundle dragon cargo wagon quiz traffic spell lucky";
+var mnemonic = "fit bracket purity voyage word hamster lock fluid bracket judge earth wrong";

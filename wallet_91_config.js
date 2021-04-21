@@ -1,1 +1,1 @@
-var mnemonic = "false jewel whale farm meat boring escape avoid build boss hammer amused";
+var mnemonic = "action music mix leave fade phone foil judge slide exist impulse paper";

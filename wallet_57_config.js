@@ -1,1 +1,1 @@
-var mnemonic = "claw rib pig silk news deposit unique laptop limit horror dry tobacco";
+var mnemonic = "trend announce inquiry agree horn rail exist august speed truly long enforce";

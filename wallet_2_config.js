@@ -1,1 +1,1 @@
-var mnemonic = "now section fade liquid relax sheriff still position drift spike usage plastic";
+var mnemonic = "craft buffalo few extra tuition sister valid luggage palm stay noise oxygen";

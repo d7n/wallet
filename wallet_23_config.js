@@ -1,1 +1,1 @@
-var mnemonic = "year finish fatigue trust civil pulp move cluster always punch middle dash";
+var mnemonic = "inject help retreat whale word silver alien muffin machine arm news limb";

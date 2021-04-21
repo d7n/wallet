@@ -1,1 +1,1 @@
-var mnemonic = "sock raw excite security coast news crouch uniform bar thunder year urban";
+var mnemonic = "october calm flat unable police zoo miracle disease edge enable steel garage";

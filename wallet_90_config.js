@@ -1,1 +1,1 @@
-var mnemonic = "enlist ribbon gold sight copper fun witness install enable chaos decide cry";
+var mnemonic = "turn fun enforce offer only feel dash bacon holiday husband horn cool";

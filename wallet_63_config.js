@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wild dizzy long betray inject skate guide swap version eternal boring";
+var mnemonic = "shed general kit cry walnut later crush stereo pumpkin surface soon moral";

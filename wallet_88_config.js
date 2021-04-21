@@ -1,1 +1,1 @@
-var mnemonic = "vehicle afraid year brand there bar jealous boring enough coral before blood";
+var mnemonic = "stone paper habit exotic normal van general turkey elite choose sad night";

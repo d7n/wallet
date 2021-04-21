@@ -1,1 +1,1 @@
-var mnemonic = "document rival ribbon describe opera cactus maximum someone talent come sunny appear";
+var mnemonic = "coral bone raccoon mule daring basket bundle order thought idle sentence axis";

@@ -1,1 +1,1 @@
-var mnemonic = "timber town trash asset common smoke defy anchor pistol wisdom mandate exotic";
+var mnemonic = "exact mention repeat present stay rail salt reject riot fiscal dinosaur cereal";

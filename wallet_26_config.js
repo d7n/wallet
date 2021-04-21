@@ -1,1 +1,1 @@
-var mnemonic = "crater hill citizen sentence total coral inject need arch regret capital hedgehog";
+var mnemonic = "profit snap crash ginger steel error uniform team captain silly resource never";

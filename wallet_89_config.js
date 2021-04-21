@@ -1,1 +1,1 @@
-var mnemonic = "entire mouse parent bicycle fatigue execute dash joke giggle exist copper scrap";
+var mnemonic = "stone purpose force fade miss agree chicken taste final gaze hazard short";

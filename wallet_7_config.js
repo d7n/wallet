@@ -1,1 +1,1 @@
-var mnemonic = "that garbage slot spread achieve caught lens merit vehicle student bean cabin";
+var mnemonic = "juice endorse coconut ticket rate melt session gas oval swear camp capital";

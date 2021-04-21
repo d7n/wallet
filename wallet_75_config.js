@@ -1,1 +1,1 @@
-var mnemonic = "spoon badge net power search hockey ribbon marriage protect gas biology hope";
+var mnemonic = "need dish mandate live certain buddy lunch purity primary monster concert amused";

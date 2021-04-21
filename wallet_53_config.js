@@ -1,1 +1,1 @@
-var mnemonic = "carry wood run energy balance head ring loyal robust junk fatigue volcano";
+var mnemonic = "poverty airport trumpet mobile drink quiz lake bundle derive eager sand morning";

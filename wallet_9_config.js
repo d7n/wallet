@@ -1,1 +1,1 @@
-var mnemonic = "chief mom inhale such glad plastic ship boost adapt dune behind move";
+var mnemonic = "slogan other hundred dial accuse reform couch control settle fashion convince usual";

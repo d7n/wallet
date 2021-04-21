@@ -1,1 +1,1 @@
-var mnemonic = "west unfold pottery execute gain index meadow bomb robust dove impose diamond";
+var mnemonic = "snack pitch exit cart cattle arrive behave humble crunch blur armed strike";

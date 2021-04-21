@@ -1,1 +1,1 @@
-var mnemonic = "sea chapter indoor blame lion viable mutual front scatter glide word use";
+var mnemonic = "ready flavor diamond input south suspect cat abuse young quit wall piece";

@@ -1,1 +1,1 @@
-var mnemonic = "same audit hockey exit pyramid organ voice rule address staff draw core";
+var mnemonic = "drop tonight domain escape mass axis onion any isolate ankle dismiss protect";

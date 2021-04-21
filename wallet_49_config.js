@@ -1,1 +1,1 @@
-var mnemonic = "eager grocery merit thought assault armor topple seed motion toilet sell warm";
+var mnemonic = "stool refuse right region choice solution nasty online can fluid today surprise";

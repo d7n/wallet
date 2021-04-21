@@ -1,1 +1,1 @@
-var mnemonic = "fossil approve polar magic squirrel trigger era desert bubble gym develop pipe";
+var mnemonic = "toward repeat half attack toast daring exhibit thumb century work zero glance";

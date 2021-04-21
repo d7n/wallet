@@ -1,1 +1,1 @@
-var mnemonic = "advance fit smoke symbol better item stock lion fix rare file artist";
+var mnemonic = "soft fall barrel dignity amused expose arrange world vivid zero birth know";

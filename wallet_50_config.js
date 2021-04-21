@@ -1,1 +1,1 @@
-var mnemonic = "expire near funny found science group alpha index sing physical broom humble";
+var mnemonic = "cannon symptom strong assist awful news table casino embrace useless exhibit inhale";

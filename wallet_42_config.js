@@ -1,1 +1,1 @@
-var mnemonic = "cricket chronic filter heavy surface security minor asthma valid quarter stage inject";
+var mnemonic = "dinosaur member asthma move start increase patient gesture hurry razor beach retreat";

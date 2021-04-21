@@ -1,1 +1,1 @@
-var mnemonic = "advance replace offer stuff sweet wonder live crisp sponsor before ignore feature";
+var mnemonic = "expect describe dry supreme soft carpet early mercy bleak usage uncle tooth";

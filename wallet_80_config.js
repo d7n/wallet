@@ -1,1 +1,1 @@
-var mnemonic = "pencil detail wine chaos design mention abandon noble tomorrow doctor snap social";
+var mnemonic = "grit ten kingdom room other limb remember report account trade when brief";

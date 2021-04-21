@@ -1,1 +1,1 @@
-var mnemonic = "practice record silk raccoon hurry guard prize dove detect task dinosaur fee";
+var mnemonic = "state grass interest safe section must drop prosper wife rich recycle glue";

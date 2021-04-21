@@ -1,1 +1,1 @@
-var mnemonic = "gather replace pyramid pluck slim loop similar bus poverty palm grain glare";
+var mnemonic = "silk fence delay maximum cram grain prefer wisdom blood spring dutch parade";

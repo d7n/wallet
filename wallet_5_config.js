@@ -1,1 +1,1 @@
-var mnemonic = "stadium apple typical rare expire giant trade hazard garment hurry inmate crowd";
+var mnemonic = "rough shuffle evolve carry fashion pink road merit horn sausage very weather";

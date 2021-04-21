@@ -1,1 +1,1 @@
-var mnemonic = "cook rely wagon hello mutual taste double outdoor pulp quality super wedding";
+var mnemonic = "drift issue pattern wool path ski echo wild grief recipe gown punch";

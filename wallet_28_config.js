@@ -1,1 +1,1 @@
-var mnemonic = "old sauce penalty hunt van broken worth kitchen cover number already trophy";
+var mnemonic = "gossip end chase keep grass purchase gaze target pledge stuff equip this";

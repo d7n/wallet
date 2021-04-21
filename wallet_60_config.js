@@ -1,1 +1,1 @@
-var mnemonic = "sport select empty alarm zone split siege click maze inquiry balcony ankle";
+var mnemonic = "pride rebuild price face jealous crazy afford forum item solar bird crush";

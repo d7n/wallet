@@ -1,1 +1,1 @@
-var mnemonic = "bronze very know card blade hurdle genius weird grocery what hub pole";
+var mnemonic = "afraid chest engine time ten tip pride toy spare legal wine bench";

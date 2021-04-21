@@ -1,1 +1,1 @@
-var mnemonic = "foil eyebrow joy list race orchard hockey provide outdoor file diamond banana";
+var mnemonic = "coil vast winter pig orient leg already recall stuff horror slender cage";

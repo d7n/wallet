@@ -1,1 +1,1 @@
-var mnemonic = "method junior battle desert moon dad execute sibling render destroy session ensure";
+var mnemonic = "absurd target animal prison tent tornado stick empty atom farm bubble since";

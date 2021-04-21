@@ -1,1 +1,1 @@
-var mnemonic = "account mansion demand attend donor grow bottom ketchup bring toddler panic hint";
+var mnemonic = "copy energy carpet guitar model chapter nut that pigeon you put field";

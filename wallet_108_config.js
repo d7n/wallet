@@ -1,1 +1,1 @@
-var mnemonic = "doll soup under detect conduct pear dismiss frozen mother garage swear copper";
+var mnemonic = "prepare clinic jar meat exclude snack pottery prosper nice service mesh sentence";

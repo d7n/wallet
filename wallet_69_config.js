@@ -1,1 +1,1 @@
-var mnemonic = "reason south misery cherry close total kind disagree shy daughter sausage quit";
+var mnemonic = "flee stamp gorilla entire real fancy dad effort kidney since chapter assist";

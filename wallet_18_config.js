@@ -1,1 +1,1 @@
-var mnemonic = "push traffic clump maximum ramp snake car need parade biology cycle moon";
+var mnemonic = "nature head slight federal material meadow special deal dutch cabin practice one";

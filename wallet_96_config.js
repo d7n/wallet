@@ -1,1 +1,1 @@
-var mnemonic = "bag sell student salt inch address bonus canvas pistol since recycle marine";
+var mnemonic = "session forward kite group wife gauge tent owner slice faith guard weekend";

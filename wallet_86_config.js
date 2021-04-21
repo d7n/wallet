@@ -1,1 +1,1 @@
-var mnemonic = "hurry peanut tortoise magnet special depart among label champion economy desert scheme";
+var mnemonic = "hole debate alley rose multiply case taste goddess slush lecture mango weapon";

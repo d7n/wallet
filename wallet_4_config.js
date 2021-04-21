@@ -1,1 +1,1 @@
-var mnemonic = "stable credit swing duck suspect chuckle powder this move crumble amazing slow";
+var mnemonic = "rival scissors dust hat talk filter tackle august cupboard away cook couple";

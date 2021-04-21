@@ -1,1 +1,1 @@
-var mnemonic = "project depth fiction observe armed grit risk lesson athlete useful client cannon";
+var mnemonic = "artwork swim cry earn bicycle identify curious silver scrub wool cruise object";

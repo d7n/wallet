@@ -1,1 +1,1 @@
-var mnemonic = "paddle throw wrong tide echo paper used traffic rather vague arrive bonus";
+var mnemonic = "diamond stereo solution citizen future cabin film moon assume public motion dune";

@@ -1,1 +1,1 @@
-var mnemonic = "vast liquid minute output also trip question manage license congress prefer digital";
+var mnemonic = "canvas extra zoo surface crush pizza word hint attack nasty vessel demise";

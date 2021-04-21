@@ -1,1 +1,1 @@
-var mnemonic = "february state winter lesson trip lion advance antique metal immune again appear";
+var mnemonic = "genuine fall witness trouble flower wasp matrix bless sight key casual lock";

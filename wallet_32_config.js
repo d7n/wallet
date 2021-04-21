@@ -1,1 +1,1 @@
-var mnemonic = "bird edit pass mom tree stable senior ship dust dose wrap swim";
+var mnemonic = "fluid analyst trash minute chair right scale unusual stand tobacco castle glue";

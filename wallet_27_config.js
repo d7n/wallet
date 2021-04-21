@@ -1,1 +1,1 @@
-var mnemonic = "estate document execute modify whip river castle ghost guard eternal paddle drop";
+var mnemonic = "rhythm pelican risk quantum popular include main own reveal base risk trip";

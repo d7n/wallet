@@ -1,1 +1,1 @@
-var mnemonic = "garment intact walk solution rescue muscle never grief surround smile lemon below";
+var mnemonic = "grocery kind repeat uphold surprise pause convince wish glass system fee flavor";

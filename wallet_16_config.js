@@ -1,1 +1,1 @@
-var mnemonic = "income safe fix north cousin install novel robot side daughter arrest wrist";
+var mnemonic = "carpet eager abuse net flag autumn beef crane pilot dance ivory patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "crane merit switch fiscal input drill farm arrive wish cube vapor whale";
+var mnemonic = "fruit infant tourist round poet excuse addict emotion chair subway solution income";

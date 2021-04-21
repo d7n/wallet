@@ -1,1 +1,1 @@
-var mnemonic = "face alley oxygen tobacco wonder bachelor six false rose tobacco fade salmon";
+var mnemonic = "wing vote aisle hazard business inject travel milk believe bag relief shiver";

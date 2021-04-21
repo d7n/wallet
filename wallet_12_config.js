@@ -1,1 +1,1 @@
-var mnemonic = "oak wish pact before comic peace initial oak nerve border crane pill";
+var mnemonic = "increase village again liar execute puppy fetch narrow convince mercy nation maze";

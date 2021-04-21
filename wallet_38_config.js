@@ -1,1 +1,1 @@
-var mnemonic = "portion tomato dune scan elbow panel wagon copy bunker trouble science robot";
+var mnemonic = "usual barrel miss soldier candy valid hundred scout choose view parent dash";

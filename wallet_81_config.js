@@ -1,1 +1,1 @@
-var mnemonic = "copper major elephant tell mixed skate tonight demand child carpet demand vicious";
+var mnemonic = "object matter enter popular theory tired release dignity draft mystery divert pact";

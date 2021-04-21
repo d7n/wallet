@@ -1,1 +1,1 @@
-var mnemonic = "foam hobby venue ripple spirit cloud round company mystery hub surround canyon";
+var mnemonic = "tone glad spell clever royal eight main once dial flower evolve come";

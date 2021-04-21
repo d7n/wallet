@@ -1,1 +1,1 @@
-var mnemonic = "wife rude glide good ecology attend offer couch tuna waste furnace mistake";
+var mnemonic = "trim scatter cliff skull sleep piece aerobic follow maximum endless discover company";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise soda elegant armor unaware music dial vague juice together finish decade";
+var mnemonic = "program either tackle brown recipe orphan night cage solution obey sand simple";

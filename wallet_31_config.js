@@ -1,1 +1,1 @@
-var mnemonic = "stumble scatter short stuff bench symptom same crime garlic pink fish jungle";
+var mnemonic = "vacuum cabbage bridge blur problem peanut doll fantasy humor dove couple glow";

@@ -1,1 +1,1 @@
-var mnemonic = "toy element emerge lesson fee hockey resource swim gospel beauty wild liquid";
+var mnemonic = "stick island flame kitten city shoot virus clown moon piano shoe horror";

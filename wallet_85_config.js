@@ -1,1 +1,1 @@
-var mnemonic = "anchor conduct picnic donor accuse fade bike text swift sustain people beauty";
+var mnemonic = "start dolphin nice length slender record open tail river useless giant identify";

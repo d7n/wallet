@@ -1,1 +1,1 @@
-var mnemonic = "wedding great nominee vital river blossom avoid mouse original basket income accuse";
+var mnemonic = "reward about differ only wood unusual soccer method race point total unhappy";

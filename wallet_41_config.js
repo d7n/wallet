@@ -1,1 +1,1 @@
-var mnemonic = "clock lottery ocean bronze know solid vacuum decline clinic cry airport inspire";
+var mnemonic = "rate alcohol rebel obscure once culture cave cook film hurdle gun blind";

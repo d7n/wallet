@@ -1,1 +1,1 @@
-var mnemonic = "isolate notice female wasp child congress blur reflect farm tray render then";
+var mnemonic = "element liberty mango delay bulk practice fat tilt other master permit slim";

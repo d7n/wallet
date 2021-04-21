@@ -1,1 +1,1 @@
-var mnemonic = "stone life eight black ankle lady amount elbow rent agent pattern face";
+var mnemonic = "stove try know guess pupil ride priority kite gasp scan gain citizen";

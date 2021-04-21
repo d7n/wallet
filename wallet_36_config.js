@@ -1,1 +1,1 @@
-var mnemonic = "tilt clever cream desert aim govern tired public dolphin lift rare puzzle";
+var mnemonic = "ketchup hidden treat nest fire very kick position damage federal knee scrub";

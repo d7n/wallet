@@ -1,1 +1,1 @@
-var mnemonic = "fence abstract wild spread true indoor vote ball concert photo relief deal";
+var mnemonic = "enroll ring correct glare snow debate merry guess coffee decade endless brand";

@@ -1,1 +1,1 @@
-var mnemonic = "august depth theory involve common river bracket educate pioneer hover valve bar";
+var mnemonic = "turn shed window organ return rebuild round exclude hospital tomato wasp trial";

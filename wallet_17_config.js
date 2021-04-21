@@ -1,1 +1,1 @@
-var mnemonic = "view silent tonight build steel fatigue chief artefact number goat adjust term";
+var mnemonic = "primary eager unknown segment cliff audit twist document congress taxi nasty pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "able beef coconut rapid project giraffe drip canal certain input mom pet";
+var mnemonic = "hero anxiety digital sleep gap innocent govern you pioneer bright assault welcome";

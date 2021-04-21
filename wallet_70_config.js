@@ -1,1 +1,1 @@
-var mnemonic = "bench piece hazard analyst wine verify wise check million error grass head";
+var mnemonic = "split catalog mind fever captain fork else cactus artist crazy source hour";

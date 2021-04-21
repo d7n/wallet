@@ -1,1 +1,1 @@
-var mnemonic = "couple indicate talk anxiety next beauty good truth number unusual source jelly";
+var mnemonic = "woman snap inch firm term hockey bottom violin army produce seat doll";

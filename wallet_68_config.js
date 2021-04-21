@@ -1,1 +1,1 @@
-var mnemonic = "water dance fluid symbol rescue voice laundry wheel appear alcohol security few";
+var mnemonic = "uniform wait lamp treat job surprise ten lunch spring point muffin warm";

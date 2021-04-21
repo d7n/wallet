@@ -1,1 +1,1 @@
-var mnemonic = "conduct sugar subway quit travel trust honey border forum online velvet garage";
+var mnemonic = "inject rabbit alpha room silly shuffle puppy soul meadow expand sport mandate";

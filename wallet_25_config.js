@@ -1,1 +1,1 @@
-var mnemonic = "crane fresh journey around scissors they sound orange wedding afraid degree crime";
+var mnemonic = "staff deny brief cost master garden smooth invite rent jungle surprise juice";

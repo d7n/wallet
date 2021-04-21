@@ -1,1 +1,1 @@
-var mnemonic = "need equal better quick crazy keen order come student south mouse stand";
+var mnemonic = "never welcome march six snow hunt park tattoo cute reform spring banner";

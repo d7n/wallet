@@ -1,1 +1,1 @@
-var mnemonic = "future state flight imitate chief holiday fragile enemy holiday napkin fuel gate";
+var mnemonic = "all edge ring cheap idle vessel decade imitate tool mansion provide cinnamon";

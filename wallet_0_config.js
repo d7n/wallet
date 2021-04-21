@@ -1,1 +1,1 @@
-var mnemonic = "output payment symbol total nest pond tornado resist danger alert slot outdoor";
+var mnemonic = "improve remove coyote upper because goose wrist core creek outside clap lake";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion prevent food stereo skull essay ugly return agree category interest august";
+var mnemonic = "sick peanut net replace dignity wall wink sadness host mother grape buzz";

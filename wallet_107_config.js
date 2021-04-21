@@ -1,1 +1,1 @@
-var mnemonic = "kiss knife scare meadow cart brisk chapter ice mule climb jump boy";
+var mnemonic = "immense modify theme dinosaur dawn hotel blur wink police race profit click";

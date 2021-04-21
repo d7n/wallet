@@ -1,1 +1,1 @@
-var mnemonic = "kind record skull bacon grab summer coral pole galaxy idle fold whisper";
+var mnemonic = "brisk card total tube hole hour liar display fatigue security ridge regret";

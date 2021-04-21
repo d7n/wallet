@@ -1,1 +1,1 @@
-var mnemonic = "excess night thunder piece naive pride afraid air elephant orange horse solve";
+var mnemonic = "cover thought virtual romance turtle mixture sense embark heart hobby survey culture";

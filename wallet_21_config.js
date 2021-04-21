@@ -1,1 +1,1 @@
-var mnemonic = "aspect fancy face radio love blame kangaroo olive weekend always toddler novel";
+var mnemonic = "expose able develop couch raven solar rib foil random door blade crowd";

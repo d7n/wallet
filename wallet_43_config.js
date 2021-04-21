@@ -1,1 +1,1 @@
-var mnemonic = "spread bright spatial action thunder acquire category tackle soap health rifle way";
+var mnemonic = "nut cushion obscure spider lend solid hunt snake surge trial breeze gold";

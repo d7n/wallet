@@ -1,1 +1,1 @@
-var mnemonic = "soon film salmon text fork cover pass sight element maximum detect scan";
+var mnemonic = "stick pipe now frequent artwork upper position view typical boost slender about";

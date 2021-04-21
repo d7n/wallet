@@ -1,1 +1,1 @@
-var mnemonic = "favorite retire firm pelican first wrist cook clay sketch defy awful silver";
+var mnemonic = "drive smile begin fragile attract dress make margin nurse predict exotic praise";

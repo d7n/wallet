@@ -1,1 +1,1 @@
-var mnemonic = "apology milk put awful vocal section doll sing autumn art glass genuine";
+var mnemonic = "assault tobacco calm random actress cart file penalty butter there cigar sure";

@@ -1,1 +1,1 @@
-var mnemonic = "season desert resist twice volume loud blouse dance tonight claw travel fantasy";
+var mnemonic = "switch easy theory wish burger phrase silent stereo such primary bargain check";

@@ -1,1 +1,1 @@
-var mnemonic = "spread second section citizen body require century spirit addict bless raise want";
+var mnemonic = "orange invest clinic notable soft strong snack album tone toward just basket";
