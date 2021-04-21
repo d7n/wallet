@@ -1,1 +1,1 @@
-var mnemonic = "hybrid bind monitor come table verb buffalo trick express vague flower unfair";
+var mnemonic = "whisper input swear flavor sort flag duty occur frame plug work bring";

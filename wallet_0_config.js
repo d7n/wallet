@@ -1,1 +1,1 @@
-var mnemonic = "miss soul grant rose album main observe federal wedding business horror luggage";
+var mnemonic = "salon blush glue mixed pony dragon tuna gym rebuild because casino educate";

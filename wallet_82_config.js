@@ -1,1 +1,1 @@
-var mnemonic = "team image leopard valley brief girl foot child april urge alter radio";
+var mnemonic = "episode adapt dolphin donor kite faint brisk hungry lady pig citizen olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan common achieve toe wide slender veteran own iron evil dirt leg";
+var mnemonic = "empty program brown jaguar genuine close pencil safe cliff stairs point shoot";

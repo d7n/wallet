@@ -1,1 +1,1 @@
-var mnemonic = "harvest health day someone nerve trap popular fragile evidence term absurd receive";
+var mnemonic = "eight pave retire square unknown tumble end kiwi gun ability polar scan";

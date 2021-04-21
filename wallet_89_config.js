@@ -1,1 +1,1 @@
-var mnemonic = "runway truck muffin surround prison afford rural ozone dumb amount web fringe";
+var mnemonic = "win seven salt coil improve dinner anchor dinner program dish protect begin";

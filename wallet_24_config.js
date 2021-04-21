@@ -1,1 +1,1 @@
-var mnemonic = "unveil release salmon differ burger cousin auto prefer film run fitness siege";
+var mnemonic = "sell toy survey merge mirror prize bind deer helmet dust pulp isolate";

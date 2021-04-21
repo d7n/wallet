@@ -1,1 +1,1 @@
-var mnemonic = "garbage joy junk tell chase swim excite veteran scout board wait race";
+var mnemonic = "joy again disease finger fan inflict tortoise resemble seed ribbon orbit bike";

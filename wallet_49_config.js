@@ -1,1 +1,1 @@
-var mnemonic = "just coin purse skate escape sample seek charge claim list horror cup";
+var mnemonic = "fluid law sister uncover flee cluster convince flash between airport ivory consider";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain tribe fault guide spring inch sentence dutch record top clip marble";
+var mnemonic = "option legal segment zebra cereal knife ghost script someone cream foot message";

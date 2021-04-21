@@ -1,1 +1,1 @@
-var mnemonic = "theme explain ghost sustain brisk ring chest cart dragon lesson victory lab";
+var mnemonic = "fetch project length fragile hundred rain country hospital asset midnight gossip rough";

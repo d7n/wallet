@@ -1,1 +1,1 @@
-var mnemonic = "pudding forget distance reform metal category oval pull invest husband tongue search";
+var mnemonic = "system poem theory aim giraffe rib save machine play file turtle patrol";

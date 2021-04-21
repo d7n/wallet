@@ -1,1 +1,1 @@
-var mnemonic = "else admit dawn notable angle absurd shiver early film foot juice charge";
+var mnemonic = "blood blind middle orchard hidden enact property easy desert rain embark brisk";

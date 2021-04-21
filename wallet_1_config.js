@@ -1,1 +1,1 @@
-var mnemonic = "cabbage vocal carpet wheel habit tortoise emerge until that mountain custom carpet";
+var mnemonic = "scorpion depart best rough road image bamboo motor install liar work dust";

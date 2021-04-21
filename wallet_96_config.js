@@ -1,1 +1,1 @@
-var mnemonic = "light chapter february cupboard sadness team chuckle apology raise december educate bacon";
+var mnemonic = "target heart peace security pistol base clay spend cause traffic reveal another";

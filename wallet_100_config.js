@@ -1,1 +1,1 @@
-var mnemonic = "person film ranch cluster wife problem symptom catalog behind bind renew debris";
+var mnemonic = "tornado age mother strategy bridge seat theory pet garbage scorpion fame hello";

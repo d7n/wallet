@@ -1,1 +1,1 @@
-var mnemonic = "juice goat execute left ship cheese labor glide shoe furnace key reward";
+var mnemonic = "assume used minor impulse sound behind tackle fiction media kid earth turkey";

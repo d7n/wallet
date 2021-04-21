@@ -1,1 +1,1 @@
-var mnemonic = "arena case fossil order quiz afraid museum father office eight solar soup";
+var mnemonic = "error tortoise spy aware print convince idle rather region trigger chaos also";

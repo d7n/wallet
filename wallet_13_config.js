@@ -1,1 +1,1 @@
-var mnemonic = "please early finish rebuild accuse strike shine rubber demand wreck switch ethics";
+var mnemonic = "team raven normal normal layer habit crime era write one firm path";

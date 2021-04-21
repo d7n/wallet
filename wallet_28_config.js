@@ -1,1 +1,1 @@
-var mnemonic = "journey refuse matter rebuild host grape write color sure again detail fold";
+var mnemonic = "turtle rocket slab front flight salad tongue creek glove sand torch bring";

@@ -1,1 +1,1 @@
-var mnemonic = "olive ribbon emerge business buffalo rain gossip laundry excess scene tiny siege";
+var mnemonic = "maid ridge two sting impulse subject drip gas address pave flight account";

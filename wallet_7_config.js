@@ -1,1 +1,1 @@
-var mnemonic = "harbor amused base around stomach nose ginger detail april use dignity pumpkin";
+var mnemonic = "select tribe atom inherit knife hidden between dutch nominee feed hip fold";

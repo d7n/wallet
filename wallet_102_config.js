@@ -1,1 +1,1 @@
-var mnemonic = "father exact kind together chief pelican spike churn brief choice hockey put";
+var mnemonic = "cheese ask august learn regular coast sphere empty tape observe trim remain";

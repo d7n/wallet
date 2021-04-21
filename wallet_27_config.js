@@ -1,1 +1,1 @@
-var mnemonic = "false daring general forget upset midnight summer climb barely wisdom normal powder";
+var mnemonic = "engage senior ketchup cute burger final opera agree dwarf grant remain harsh";

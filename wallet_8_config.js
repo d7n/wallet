@@ -1,1 +1,1 @@
-var mnemonic = "marble turkey gesture vibrant uncle venue license banner siren tilt peace differ";
+var mnemonic = "mango pencil slide doctor burst bulk ozone squirrel arrange circle crater either";

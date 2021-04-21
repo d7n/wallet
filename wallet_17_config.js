@@ -1,1 +1,1 @@
-var mnemonic = "iron name brisk reflect deposit fresh inch bleak infant parade still drive";
+var mnemonic = "harsh begin bachelor virus salt ignore little feature unit symbol cup sound";

@@ -1,1 +1,1 @@
-var mnemonic = "item lonely satoshi craft very stage cage patch evoke legend dutch butter";
+var mnemonic = "guilt accident occur very verify build mixed system rare shoulder defy junior";

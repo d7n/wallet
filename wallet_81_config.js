@@ -1,1 +1,1 @@
-var mnemonic = "come muffin leopard more tiny seed execute milk come fashion uniform submit";
+var mnemonic = "click barrel vocal alley soon capable help ball buzz door tray utility";

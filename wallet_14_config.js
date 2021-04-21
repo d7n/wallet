@@ -1,1 +1,1 @@
-var mnemonic = "impact trip task inmate whisper make west car cat trash birth guard";
+var mnemonic = "middle intact rebel mosquito awake angle sense dinner lake fade thought game";

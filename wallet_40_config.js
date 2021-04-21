@@ -1,1 +1,1 @@
-var mnemonic = "attack battle someone skin number round gas decline bus assume whip throw";
+var mnemonic = "mention lava case symbol dynamic deputy mystery ball verify blood sniff erase";

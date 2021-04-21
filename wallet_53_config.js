@@ -1,1 +1,1 @@
-var mnemonic = "slight dolphin wise prize cousin patrol pass office tent person trial choice";
+var mnemonic = "sheriff cube copy assume cable chapter basic add parent town panther bottom";

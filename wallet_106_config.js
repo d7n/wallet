@@ -1,1 +1,1 @@
-var mnemonic = "yellow farm celery arrest merge spirit resemble convince describe theme someone name";
+var mnemonic = "celery obey mask burst galaxy erupt blouse satisfy junk park impact curve";

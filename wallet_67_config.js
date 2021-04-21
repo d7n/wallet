@@ -1,1 +1,1 @@
-var mnemonic = "any win kick eye room matter typical error tennis anger royal stem";
+var mnemonic = "final short trip cash torch captain melt owner liberty inflict horror aware";

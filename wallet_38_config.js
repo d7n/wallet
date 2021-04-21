@@ -1,1 +1,1 @@
-var mnemonic = "father orange labor jewel panel blur evoke story possible amazing stereo lecture";
+var mnemonic = "fold bonus spin kitten biology asthma embrace dynamic weather equip economy used";

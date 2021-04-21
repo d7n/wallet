@@ -1,1 +1,1 @@
-var mnemonic = "electric verify rough rain brass flag axis case laundry dance catch style";
+var mnemonic = "crush install enjoy enjoy bring brain stick region later divorce myself hub";

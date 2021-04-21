@@ -1,1 +1,1 @@
-var mnemonic = "rebuild foil frown once bicycle obscure gloom task jelly assist wild punch";
+var mnemonic = "wage worth company pen green together govern country jazz bamboo cushion atom";

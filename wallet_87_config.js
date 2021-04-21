@@ -1,1 +1,1 @@
-var mnemonic = "initial boat comfort broom title guide perfect below blood cart salt pulse";
+var mnemonic = "nature horror garbage transfer pretty enemy essence bring dinosaur artist wrap tobacco";

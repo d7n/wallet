@@ -1,1 +1,1 @@
-var mnemonic = "rice glad field nose rich miss final ill doll dolphin industry exotic";
+var mnemonic = "shine recall price piano tunnel cricket lonely tobacco path balance jazz brush";

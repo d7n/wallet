@@ -1,1 +1,1 @@
-var mnemonic = "vessel wall head pluck fashion impose member sign convince act gold victory";
+var mnemonic = "cannon lecture immune network miracle flame ordinary salmon broom liquid dad ignore";

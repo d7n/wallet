@@ -1,1 +1,1 @@
-var mnemonic = "local price round answer fashion civil hood fall also erupt scale tonight";
+var mnemonic = "syrup basket fashion can clinic actor pipe spring pipe note sudden tube";

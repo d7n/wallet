@@ -1,1 +1,1 @@
-var mnemonic = "oval patch useful scatter swallow wall organ alley reform tackle upgrade solar";
+var mnemonic = "twenty ugly cheese charge forward flat umbrella language ten champion divide enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "name dance cram inhale barrel snack climb trash wealth rigid winter reflect";
+var mnemonic = "write certain blouse city myself pig recall gain error milk problem budget";

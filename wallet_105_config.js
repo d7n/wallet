@@ -1,1 +1,1 @@
-var mnemonic = "remove replace critic clutch since brass oyster wood pass ice response easy";
+var mnemonic = "hire easy cube embody only hospital ticket hawk latin script wear leisure";

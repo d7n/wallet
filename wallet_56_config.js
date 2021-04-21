@@ -1,1 +1,1 @@
-var mnemonic = "analyst broom awake conduct wrist turtle dinosaur vital cream style hurry final";
+var mnemonic = "kangaroo enforce super daughter divide innocent supreme phrase horn aware video pulse";

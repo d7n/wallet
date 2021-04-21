@@ -1,1 +1,1 @@
-var mnemonic = "spy tool monitor wrap alien lonely volcano chest twice size strong unknown";
+var mnemonic = "fit horror vintage skin glare attack click exchange spot glance engine anger";

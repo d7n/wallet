@@ -1,1 +1,1 @@
-var mnemonic = "around scissors deputy enrich pilot find window brick basket cost harvest decline";
+var mnemonic = "type clerk lawn will digital devote hobby claw hotel olive clarify yellow";

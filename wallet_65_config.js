@@ -1,1 +1,1 @@
-var mnemonic = "kit tower radio stool dilemma govern moon bamboo whip broom round bike";
+var mnemonic = "opinion pretty fold unable brown crush problem spice boost host torch outside";

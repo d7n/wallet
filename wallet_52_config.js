@@ -1,1 +1,1 @@
-var mnemonic = "gaze gain equal engine maple dragon decorate lazy average glad treat surprise";
+var mnemonic = "credit auction upgrade income mushroom baby special protect basic total cannon enroll";

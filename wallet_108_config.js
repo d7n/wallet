@@ -1,1 +1,1 @@
-var mnemonic = "elder field harbor exchange glad hat neither urban kind vicious hockey race";
+var mnemonic = "reason purse hen milk broom conduct insane curve lawsuit figure blue hobby";

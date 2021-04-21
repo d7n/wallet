@@ -1,1 +1,1 @@
-var mnemonic = "link end force carbon pattern reopen hire under lottery rare shuffle primary";
+var mnemonic = "degree local echo similar acoustic sentence summer royal virtual clip hurdle extra";

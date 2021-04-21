@@ -1,1 +1,1 @@
-var mnemonic = "hip empty napkin mutual shoulder tackle engine sell boil achieve brother happy";
+var mnemonic = "spice survey december frog lumber join once pond ordinary beauty bundle urban";

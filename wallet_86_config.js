@@ -1,1 +1,1 @@
-var mnemonic = "crater gloom census deny volume ahead valve much course eternal prevent liar";
+var mnemonic = "rain mail era hero slice wide alcohol income embrace cushion flag until";

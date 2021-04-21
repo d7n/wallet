@@ -1,1 +1,1 @@
-var mnemonic = "basic ride seed place minute morning injury struggle recycle evoke observe sock";
+var mnemonic = "same setup bachelor ceiling swap control lemon clarify book ranch inflict host";

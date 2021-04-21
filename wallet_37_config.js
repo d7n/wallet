@@ -1,1 +1,1 @@
-var mnemonic = "lab upon volume roof peace grocery shop survey lyrics another jazz wonder";
+var mnemonic = "team employ hybrid tray garment receive best tornado tuition wash clarify win";

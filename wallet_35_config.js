@@ -1,1 +1,1 @@
-var mnemonic = "draw urge senior priority crunch slice romance genius plug spawn earn spend";
+var mnemonic = "require spatial merge stool poem mother network mask rather doll donor south";

@@ -1,1 +1,1 @@
-var mnemonic = "choose extra region favorite tired hold tank neglect damage sweet twist bachelor";
+var mnemonic = "anger dinosaur ready river join flip trouble edit wave rude connect scatter";

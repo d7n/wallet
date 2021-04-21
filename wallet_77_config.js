@@ -1,1 +1,1 @@
-var mnemonic = "able real knife add frozen airport harvest toddler bullet vote jungle polar";
+var mnemonic = "seminar plastic mention shed hurt language city unfair town update ticket entry";

@@ -1,1 +1,1 @@
-var mnemonic = "choice romance pretty orbit crowd actress truth sing oak crystal network silk";
+var mnemonic = "off guard brand network any similar dose venture mandate wife tube sheriff";

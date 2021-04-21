@@ -1,1 +1,1 @@
-var mnemonic = "refuse bleak bird owner scorpion expose throw swallow job apology helmet wall";
+var mnemonic = "clip income credit unaware summer mean protect deposit quit desert girl forget";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend page wave rescue vacant toast online sea vessel enhance blast discover";
+var mnemonic = "teach resist three region sheriff toward slam faint few upper reunion asset";

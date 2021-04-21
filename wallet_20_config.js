@@ -1,1 +1,1 @@
-var mnemonic = "hen crystal bright myth gadget rubber father base state old warrior shoe";
+var mnemonic = "rain write tilt joke coil toward swing genius depart polar scissors chicken";

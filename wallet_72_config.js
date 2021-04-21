@@ -1,1 +1,1 @@
-var mnemonic = "merit melody leader capable tooth nation rabbit useless blur quit spawn fragile";
+var mnemonic = "flip approve ramp garden aunt pen cry liar fiber upset april idea";

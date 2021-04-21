@@ -1,1 +1,1 @@
-var mnemonic = "vivid ankle thunder now lobster provide country news bus open doctor asthma";
+var mnemonic = "sense stumble fantasy donkey mimic define path income cage other misery arrow";

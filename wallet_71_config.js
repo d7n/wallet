@@ -1,1 +1,1 @@
-var mnemonic = "depth cook fatigue comic tide suggest patient extra joy hat version section";
+var mnemonic = "vintage mule account neck list chicken object zoo finish dish domain brave";

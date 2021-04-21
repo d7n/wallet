@@ -1,1 +1,1 @@
-var mnemonic = "other dog super grow network belt man foil bulb pilot subway deny";
+var mnemonic = "torch silver chest person broom ethics detail observe rubber era moon face";

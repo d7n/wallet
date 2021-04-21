@@ -1,1 +1,1 @@
-var mnemonic = "quit sadness risk casino emerge clutch orange choice tonight either neutral hub";
+var mnemonic = "ice female ivory hub setup valid insect plunge mouse attack source pole";

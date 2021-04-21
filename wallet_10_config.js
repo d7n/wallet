@@ -1,1 +1,1 @@
-var mnemonic = "now never minor veteran two nasty century thank nominee paddle object upper";
+var mnemonic = "extra border grab either lady olympic bottom young cigar remember leader uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "forget humor walk output shrimp trouble expect wine example remain skate inhale";
+var mnemonic = "tomato ticket edge used foam army globe manual alter name moon please";

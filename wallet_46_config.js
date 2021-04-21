@@ -1,1 +1,1 @@
-var mnemonic = "spike unveil debris dismiss attract clap drama remind stomach shaft action gaze";
+var mnemonic = "bulb coconut salmon north century between puppy kind cable offer awesome flip";

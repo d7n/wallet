@@ -1,1 +1,1 @@
-var mnemonic = "jelly region similar omit winter fun spare cliff negative always portion artwork";
+var mnemonic = "cargo pistol result toast party since peasant trip noise fence awkward chest";

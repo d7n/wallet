@@ -1,1 +1,1 @@
-var mnemonic = "snow feel olympic guide almost build tonight pair leaf rotate apology target";
+var mnemonic = "where monitor resist motor imitate wine wrap pass nominee vast sing whip";

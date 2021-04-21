@@ -1,1 +1,1 @@
-var mnemonic = "fun humble party aerobic high merry sand corn vapor soldier twenty jazz";
+var mnemonic = "room fold mix timber exist kitten transfer reject skill torch lock tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "sister fiscal anger essay rail aerobic bottom fiber blossom accident human sail";
+var mnemonic = "emotion script churn strategy sunny move bright prize about pumpkin curtain leave";

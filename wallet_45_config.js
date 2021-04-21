@@ -1,1 +1,1 @@
-var mnemonic = "palace climb rose adjust notice visit damp gun guess power blouse figure";
+var mnemonic = "drive mule glory attend february only olympic purchase action decide series mind";

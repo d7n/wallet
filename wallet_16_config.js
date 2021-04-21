@@ -1,1 +1,1 @@
-var mnemonic = "antenna regular anxiety burger work bean canyon grunt moment sword hover rail";
+var mnemonic = "check seminar mystery embark exotic goddess box spell sentence robust panther inspire";

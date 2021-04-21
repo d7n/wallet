@@ -1,1 +1,1 @@
-var mnemonic = "forest mail ritual toward anger latin river swing twin federal maid neither";
+var mnemonic = "penalty rally join cotton lunch frown feed hurry reason response panic song";

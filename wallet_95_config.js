@@ -1,1 +1,1 @@
-var mnemonic = "day kind olympic anxiety pluck auction tackle can pool sure shuffle stool";
+var mnemonic = "level mammal feel excuse snack alone clutch chef horse oven develop exclude";

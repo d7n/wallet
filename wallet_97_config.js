@@ -1,1 +1,1 @@
-var mnemonic = "ripple dinosaur elite govern frown enough planet boat wagon enact neglect rib";
+var mnemonic = "special same usual pumpkin crunch corn govern code magnet jelly magnet detect";

@@ -1,1 +1,1 @@
-var mnemonic = "defense draw scissors retreat cry endorse obvious engage seat heavy close brave";
+var mnemonic = "rebuild assault divert wine coral elite erupt enhance robust still flame nothing";

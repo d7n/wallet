@@ -1,1 +1,1 @@
-var mnemonic = "junior gap there rabbit bring stereo appear rifle faint goat satoshi rent";
+var mnemonic = "tray eyebrow copper stable stamp frame weird frequent sphere law slow little";

@@ -1,1 +1,1 @@
-var mnemonic = "journey turn taste fault garment garment axis vessel approve gown remove head";
+var mnemonic = "manage radio require soap clutch kiwi visit eye desert caught garment capital";

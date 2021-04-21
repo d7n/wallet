@@ -1,1 +1,1 @@
-var mnemonic = "rookie game hover issue sustain believe liberty hub guide smooth found spirit";
+var mnemonic = "twice sad creek glass waste eye day treat behind mirror enroll text";

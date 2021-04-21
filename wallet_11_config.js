@@ -1,1 +1,1 @@
-var mnemonic = "airport farm vast fox rebel across light speed salute thought sketch again";
+var mnemonic = "fancy space hollow better plunge deny help debris sport castle cattle task";

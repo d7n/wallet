@@ -1,1 +1,1 @@
-var mnemonic = "sun harvest mistake pledge width ordinary found faculty survey student entire evidence";
+var mnemonic = "cute loan brave window capital wink february lava funny measure bounce oblige";

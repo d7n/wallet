@@ -1,1 +1,1 @@
-var mnemonic = "turtle leg wish torch giggle isolate inform behind syrup wild scissors sentence";
+var mnemonic = "size lonely food inspire tail route front wine holiday toddler brisk flee";

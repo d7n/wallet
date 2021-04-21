@@ -1,1 +1,1 @@
-var mnemonic = "enable adult twist unable indoor museum border flip siren canvas comic enough";
+var mnemonic = "gravity city obscure job copy grid west can avoid step vocal never";

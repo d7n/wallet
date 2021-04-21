@@ -1,1 +1,1 @@
-var mnemonic = "tissue exchange angry cube peanut churn trade impulse prefer response dice slice";
+var mnemonic = "disagree wave blood jacket ready quantum execute keen bench solve save giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "increase bulk hover eternal swap boil rookie year flush what photo report";
+var mnemonic = "faint symbol minor tide path junior kiss warfare lens mail fiber unaware";
