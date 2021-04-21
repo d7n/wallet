@@ -1,1 +1,1 @@
-var mnemonic = "recall seat sorry wire kiwi autumn much cat display utility gospel enter";
+var mnemonic = "swing beauty this benefit stairs dynamic bronze lift actress outdoor razor burger";

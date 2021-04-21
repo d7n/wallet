@@ -1,1 +1,1 @@
-var mnemonic = "stove glance trumpet script humble owner miracle orphan promote rather shift punch";
+var mnemonic = "filter roast amused cricket expand album rare napkin decrease spare combine banana";

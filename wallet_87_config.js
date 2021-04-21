@@ -1,1 +1,1 @@
-var mnemonic = "drastic total witness soda absurd dinner fall fiber romance dilemma seminar bonus";
+var mnemonic = "extra convince mention artwork fitness domain student youth earth income public actress";

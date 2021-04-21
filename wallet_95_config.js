@@ -1,1 +1,1 @@
-var mnemonic = "uncover meadow digital unable case hospital tackle fiber envelope goat visa mesh";
+var mnemonic = "renew leave isolate point armed all hover arrange indicate seed century picnic";

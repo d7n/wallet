@@ -1,1 +1,1 @@
-var mnemonic = "waste rate exercise inside nurse stick mobile like tide artefact analyst cook";
+var mnemonic = "stool sudden immune water museum best mansion skin quality open approve okay";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual skirt auction source word federal sugar retreat spell wave scan abuse";
+var mnemonic = "senior destroy human exile sail album soft awake have knock soup unknown";

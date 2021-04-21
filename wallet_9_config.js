@@ -1,1 +1,1 @@
-var mnemonic = "cushion smart draw able upset divorce eye buddy left truly ignore siege";
+var mnemonic = "siege spice view agree innocent shield bind toilet hip slogan trigger assault";

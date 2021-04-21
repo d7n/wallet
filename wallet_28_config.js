@@ -1,1 +1,1 @@
-var mnemonic = "section mention shallow whip find junior decade term zebra remove brown ridge";
+var mnemonic = "token garage bronze city patrol portion fuel version adult image drum slender";

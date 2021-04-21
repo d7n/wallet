@@ -1,1 +1,1 @@
-var mnemonic = "chaos capital scheme twist wait hotel acoustic blade custom sugar female soldier";
+var mnemonic = "wrap knock ridge adapt accuse feel exclude enroll virtual clarify debris practice";

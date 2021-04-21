@@ -1,1 +1,1 @@
-var mnemonic = "manage aspect heavy crane pigeon badge banana crowd clever dizzy carbon pipe";
+var mnemonic = "promote ramp credit addict stairs razor lens power practice settle virus slim";

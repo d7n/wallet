@@ -1,1 +1,1 @@
-var mnemonic = "pride bird ahead nature rain quick useless raven toward marriage oppose aspect";
+var mnemonic = "gallery act useful squeeze toddler wave maple hurdle door script crack suspect";

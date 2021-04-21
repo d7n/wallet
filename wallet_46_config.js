@@ -1,1 +1,1 @@
-var mnemonic = "spider arch hour what useless suggest puppy gaze involve ginger youth cricket";
+var mnemonic = "unable divorce misery chat arrest grain glad grain honey stadium walk insect";

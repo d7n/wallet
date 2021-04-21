@@ -1,1 +1,1 @@
-var mnemonic = "acid like exhaust disorder turkey power rural provide ask sight tornado antenna";
+var mnemonic = "zone dash change birth permit analyst exhaust tip mule hen bunker eagle";

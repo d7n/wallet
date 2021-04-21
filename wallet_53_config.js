@@ -1,1 +1,1 @@
-var mnemonic = "reunion convince gorilla real group bread hockey eager core axis capital moment";
+var mnemonic = "print acquire museum inmate true cannon enforce awesome sing roof domain nut";

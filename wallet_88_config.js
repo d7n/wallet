@@ -1,1 +1,1 @@
-var mnemonic = "galaxy swallow deer steak stem slide female truly episode limit obvious nature";
+var mnemonic = "radar crouch casual vivid amount grit very charge submit material permit load";

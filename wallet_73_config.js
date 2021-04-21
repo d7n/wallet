@@ -1,1 +1,1 @@
-var mnemonic = "kind they tilt police october web biology monkey safe identify ethics orphan";
+var mnemonic = "elegant shoulder oven narrow scheme spring comfort tide method blade develop alley";

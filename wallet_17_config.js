@@ -1,1 +1,1 @@
-var mnemonic = "this eye panic boat trumpet manual palm excite chunk inflict ready also";
+var mnemonic = "penalty mean park ancient cover park energy wrap popular special canoe since";

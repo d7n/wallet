@@ -1,1 +1,1 @@
-var mnemonic = "mirror odor popular early civil hello bottom sea oxygen brown summer tone";
+var mnemonic = "peanut chronic olive faith broom audit hockey body border taxi summer moment";

@@ -1,1 +1,1 @@
-var mnemonic = "reform ship copy rail horn label someone orphan this genre tiger wear";
+var mnemonic = "rabbit illness option street vivid glare fiscal citizen eyebrow satoshi echo setup";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle neither meat scene range member meadow way hybrid unlock refuse raccoon";
+var mnemonic = "slogan quality bracket peanut destroy pool symbol castle boat captain news expose";

@@ -1,1 +1,1 @@
-var mnemonic = "robot swift cloud glance pepper tape found animal symbol domain old canal";
+var mnemonic = "learn inform feature beef admit snack guilt soldier announce harsh front dinosaur";

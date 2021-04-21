@@ -1,1 +1,1 @@
-var mnemonic = "skin furnace talent luxury better fun sign afraid crater notable impose sand";
+var mnemonic = "salad shrug fit delay famous mesh grid maid gather decide later erase";

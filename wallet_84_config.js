@@ -1,1 +1,1 @@
-var mnemonic = "program please excuse polar hair wolf replace ceiling unique daughter few six";
+var mnemonic = "oblige ivory tongue cigar dash phone nasty unaware repeat glare borrow heart";

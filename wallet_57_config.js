@@ -1,1 +1,1 @@
-var mnemonic = "video segment food banana slender photo appear uncle cricket hello mother tube";
+var mnemonic = "cave try taste embark fat rural ripple female fortune ancient image twin";

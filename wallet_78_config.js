@@ -1,1 +1,1 @@
-var mnemonic = "alien pair siege lobster lift tuna tuition liquid room taxi fine okay";
+var mnemonic = "meat dynamic spy benefit check hole loan oven achieve joke clever shop";

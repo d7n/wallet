@@ -1,1 +1,1 @@
-var mnemonic = "message bamboo resource program bullet note lawn sorry merge check involve ostrich";
+var mnemonic = "vanish peasant metal devote teach company rebel item tube jewel salmon multiply";

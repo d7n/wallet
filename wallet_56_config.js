@@ -1,1 +1,1 @@
-var mnemonic = "pet foam flat fine beauty tonight turkey trumpet struggle vendor neutral alcohol";
+var mnemonic = "kid sketch stove useful antique begin surge hand give side myth club";

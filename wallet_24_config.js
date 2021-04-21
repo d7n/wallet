@@ -1,1 +1,1 @@
-var mnemonic = "ready force spy soda usual host bright slogan utility foil swift amateur";
+var mnemonic = "what alcohol cave pause skate vendor dutch elder image grow card copy";

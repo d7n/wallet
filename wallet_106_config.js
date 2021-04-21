@@ -1,1 +1,1 @@
-var mnemonic = "foam mixed outside trophy enrich old pencil cheese drum belt shuffle cover";
+var mnemonic = "title heart amused buyer convince unfold save throw mention leave develop immense";

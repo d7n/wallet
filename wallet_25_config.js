@@ -1,1 +1,1 @@
-var mnemonic = "adult mask weird lizard fault seed jungle rapid depart day unlock believe";
+var mnemonic = "supreme skate rotate trust journey advance found peace upper cereal village recall";

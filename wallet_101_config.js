@@ -1,1 +1,1 @@
-var mnemonic = "leaf fault chalk false usual bullet sing race decorate excite silly web";
+var mnemonic = "drink theme reopen danger reopen middle logic blade hazard sing nuclear lend";

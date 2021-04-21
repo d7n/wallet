@@ -1,1 +1,1 @@
-var mnemonic = "fall luxury reunion peanut arm sausage walnut nut try purity rack flock";
+var mnemonic = "pipe gas width spin jazz shuffle school deal peace meadow ripple monkey";

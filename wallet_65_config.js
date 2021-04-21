@@ -1,1 +1,1 @@
-var mnemonic = "special fringe tower hip vivid music tiger danger fog craft crash appear";
+var mnemonic = "eyebrow total size column inch again expose popular carry salon room night";

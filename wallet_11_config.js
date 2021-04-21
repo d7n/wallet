@@ -1,1 +1,1 @@
-var mnemonic = "paddle quarter never slush marine desk perfect twelve strong seminar wasp fix";
+var mnemonic = "pigeon loan start sudden gadget vault also face kangaroo ancient fence live";

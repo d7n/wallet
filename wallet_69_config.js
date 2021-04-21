@@ -1,1 +1,1 @@
-var mnemonic = "purchase other funny only flag muscle weasel legal end pilot clever language";
+var mnemonic = "split noble coral two cousin lucky velvet luxury valid fade trumpet saddle";

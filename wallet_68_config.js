@@ -1,1 +1,1 @@
-var mnemonic = "explain boss cancel power large refuse wool smart output balcony arm ozone";
+var mnemonic = "error behave praise void response shoe fall home fossil panic bird popular";

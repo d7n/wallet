@@ -1,1 +1,1 @@
-var mnemonic = "prison submit access knee produce clown orphan police double shield scorpion tennis";
+var mnemonic = "dilemma like sock token mandate leave subway zero secret furnace guess example";

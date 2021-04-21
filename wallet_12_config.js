@@ -1,1 +1,1 @@
-var mnemonic = "strategy jump giraffe upset sketch hunt maximum coach pretty dash simple region";
+var mnemonic = "bicycle mass plastic pistol simple shop giant search treat reason recycle cross";

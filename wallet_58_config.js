@@ -1,1 +1,1 @@
-var mnemonic = "young argue useless nothing twist lava marriage dance other absurd output armor";
+var mnemonic = "entire target can owner swarm color riot shoe bless shiver genre wagon";

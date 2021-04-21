@@ -1,1 +1,1 @@
-var mnemonic = "flip coil arrest deposit avocado leaf blush future ridge hill oil moment";
+var mnemonic = "fly dragon split allow wisdom toss damp cannon cook parent almost review";

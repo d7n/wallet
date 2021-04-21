@@ -1,1 +1,1 @@
-var mnemonic = "come prepare choice wrap pupil venue door stairs hand include behave ribbon";
+var mnemonic = "sponsor route sauce chest huge wash message fork burger satisfy tired lawsuit";

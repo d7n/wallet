@@ -1,1 +1,1 @@
-var mnemonic = "clock open maid disease town sport interest other brave wink staff evidence";
+var mnemonic = "way ball chest expose split glow rubber umbrella lunch shop earth pulse";

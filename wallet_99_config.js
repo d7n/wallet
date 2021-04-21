@@ -1,1 +1,1 @@
-var mnemonic = "cradle side brand disagree promote puzzle film fit floor umbrella reform secret";
+var mnemonic = "budget similar upgrade tumble close increase grow fault seat defense inner deputy";

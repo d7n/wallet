@@ -1,1 +1,1 @@
-var mnemonic = "tail unfold pave actor heart kitten penalty portion hub acquire kit pink";
+var mnemonic = "mosquito render smooth feel lawsuit throw speed couple liberty cattle engage lava";

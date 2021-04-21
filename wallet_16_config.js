@@ -1,1 +1,1 @@
-var mnemonic = "sausage kitchen faint duty tank network intact harvest long laundry lizard evolve";
+var mnemonic = "guilt warm say kidney harsh music earn auction post clock senior cupboard";

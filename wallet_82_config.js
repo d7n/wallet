@@ -1,1 +1,1 @@
-var mnemonic = "switch fly answer pave liar mail defense mind funny ensure forest napkin";
+var mnemonic = "urge film earth mobile sad conduct always snack quiz furnace side famous";

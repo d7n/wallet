@@ -1,1 +1,1 @@
-var mnemonic = "brick valve extra system spoon habit fit battle win timber believe fortune";
+var mnemonic = "outer rural raccoon sock refuse include damage million enemy bitter insane horn";

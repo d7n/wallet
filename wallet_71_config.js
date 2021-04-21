@@ -1,1 +1,1 @@
-var mnemonic = "diamond museum knock lunar turtle ship notable elder snake shy power indoor";
+var mnemonic = "quick spin silk raccoon hood melt scheme cupboard announce tunnel curve turkey";

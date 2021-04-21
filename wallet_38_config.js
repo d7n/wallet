@@ -1,1 +1,1 @@
-var mnemonic = "sense nephew thunder win knee scissors poverty van cereal track employ myth";
+var mnemonic = "dwarf day sauce talk eyebrow tape apple goat flush file now drift";

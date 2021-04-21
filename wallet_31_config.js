@@ -1,1 +1,1 @@
-var mnemonic = "balcony comic fashion release crane dial alien pulse thing clog aspect dumb";
+var mnemonic = "oil vault tail hub screen rain gorilla venture team engine salad genius";

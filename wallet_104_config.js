@@ -1,1 +1,1 @@
-var mnemonic = "coconut mango bicycle casino choice dry depart order cancel reform pass memory";
+var mnemonic = "canyon maze slam rebuild rib wheat erosion manual deposit artist soap bright";

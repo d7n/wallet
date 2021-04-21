@@ -1,1 +1,1 @@
-var mnemonic = "sketch fan unveil omit sentence loyal omit solid fun census sting fall";
+var mnemonic = "cabin gold evil shrimp must dice mushroom faculty drink advance cross second";

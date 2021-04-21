@@ -1,1 +1,1 @@
-var mnemonic = "over drink crop monitor punch penalty neither endorse coil box caught exotic";
+var mnemonic = "catalog jealous maximum either dismiss flat badge demise bachelor climb also human";

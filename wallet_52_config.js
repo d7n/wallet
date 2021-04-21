@@ -1,1 +1,1 @@
-var mnemonic = "rotate silent else exotic post fringe amused smooth sail adjust talent short";
+var mnemonic = "lock umbrella actual distance hill panel morning erosion vote sea judge clap";

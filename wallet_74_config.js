@@ -1,1 +1,1 @@
-var mnemonic = "direct charge price fiscal alcohol over payment husband sugar broom divorce lawsuit";
+var mnemonic = "forget income able acquire machine adapt grit region sound bridge resist indoor";

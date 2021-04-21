@@ -1,1 +1,1 @@
-var mnemonic = "carbon seat basic tattoo gap region jump hurry ridge oil sound faint";
+var mnemonic = "lawn bridge capable return half move hat vague clap usage west kangaroo";

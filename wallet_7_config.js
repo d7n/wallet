@@ -1,1 +1,1 @@
-var mnemonic = "core glad awful focus rapid library abandon blue cup month arm winter";
+var mnemonic = "sea gasp zebra traffic obey story pluck onion duck burger immune penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "guard upper number uncle net tongue hurt cliff mobile observe kite soon";
+var mnemonic = "basic dice pitch border toward horror sausage exhibit remind knee avocado grid";

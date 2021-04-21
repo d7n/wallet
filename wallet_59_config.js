@@ -1,1 +1,1 @@
-var mnemonic = "change casino stumble injury damp duty opera film action name spot truly";
+var mnemonic = "scissors need fatigue decade whale effort pistol used amateur raccoon anxiety pluck";

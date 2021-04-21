@@ -1,1 +1,1 @@
-var mnemonic = "shrug flat expand jealous magnet resemble certain shrug stem million only beyond";
+var mnemonic = "spoon shove renew law win garage supply vessel solid fame cool ball";

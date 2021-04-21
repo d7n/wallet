@@ -1,1 +1,1 @@
-var mnemonic = "gadget debris expect shaft quick include whale crumble busy extra oxygen salad";
+var mnemonic = "parent today own glass pottery pill copper bone trick monster planet volume";

@@ -1,1 +1,1 @@
-var mnemonic = "caution immune surface glove humble hill congress elite quality giggle border decline";
+var mnemonic = "civil forest genuine claw verify hollow claw social erode seek lava hen";

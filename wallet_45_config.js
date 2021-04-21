@@ -1,1 +1,1 @@
-var mnemonic = "afraid hospital still coffee foster copper welcome clip stage immune possible person";
+var mnemonic = "rhythm type run radio hospital local senior armor bless list exercise tent";

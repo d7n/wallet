@@ -1,1 +1,1 @@
-var mnemonic = "loan wage profit escape powder pet fragile scale age mimic neither leave";
+var mnemonic = "saddle coffee next bless outer armor smooth grape jacket say apart upset";

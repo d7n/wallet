@@ -1,1 +1,1 @@
-var mnemonic = "inhale flee enlist real trim team about oil memory soul ritual ripple";
+var mnemonic = "tray current knife liquid wheel net black arctic carpet shed furnace buzz";

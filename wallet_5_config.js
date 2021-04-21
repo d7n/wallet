@@ -1,1 +1,1 @@
-var mnemonic = "athlete space club season pass object water boat dignity rain tell census";
+var mnemonic = "learn program reflect check child whisper melt resource toddler error clown topic";

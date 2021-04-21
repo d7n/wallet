@@ -1,1 +1,1 @@
-var mnemonic = "believe swap master trouble ocean blame cricket cart sure only vault volcano";
+var mnemonic = "water elephant wrestle ship library reject assault tumble fan garbage mystery decline";

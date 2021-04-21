@@ -1,1 +1,1 @@
-var mnemonic = "friend brief cluster sign client night life harvest portion faith road parrot";
+var mnemonic = "glass slide rough enrich crisp address jeans goddess can gospel shoot blur";

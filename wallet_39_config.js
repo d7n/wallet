@@ -1,1 +1,1 @@
-var mnemonic = "frog act orient repair tortoise trade useless chunk comfort fiber merit labor";
+var mnemonic = "phrase egg column tornado visa slush capable endorse old lobster outside number";

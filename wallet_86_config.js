@@ -1,1 +1,1 @@
-var mnemonic = "always double depth price age devote drama desert bean color open bulk";
+var mnemonic = "unaware mean chimney tail half accident hire tackle shallow provide immune rescue";

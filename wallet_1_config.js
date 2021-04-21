@@ -1,1 +1,1 @@
-var mnemonic = "cost law sudden victory claw choose carpet again crouch poverty oyster excess";
+var mnemonic = "suit tuna luxury patient genius ribbon parade believe catalog injury orange zoo";

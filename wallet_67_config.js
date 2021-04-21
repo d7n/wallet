@@ -1,1 +1,1 @@
-var mnemonic = "stable parent stereo siren lecture heart budget reject stage dinner invite category";
+var mnemonic = "tonight tunnel afraid hold envelope aware olympic develop patient push base identify";

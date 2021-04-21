@@ -1,1 +1,1 @@
-var mnemonic = "jealous exact success guitar version quiz olympic lava shine weasel expire slam";
+var mnemonic = "deer will gorilla place skirt key staff reject crowd canal slow burst";

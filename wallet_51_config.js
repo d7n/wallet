@@ -1,1 +1,1 @@
-var mnemonic = "august wink embrace predict idle profit voyage choose vague soon clerk vehicle";
+var mnemonic = "disease chief hybrid basic steak couple faith latin isolate midnight quarter master";

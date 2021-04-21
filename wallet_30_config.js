@@ -1,1 +1,1 @@
-var mnemonic = "recycle defense volcano shadow small head pulp plastic mimic one egg humor";
+var mnemonic = "melody endless resource wreck detect panic spawn unit attract cool pass choose";

@@ -1,1 +1,1 @@
-var mnemonic = "digital boost three blur poet patrol relax virus strategy ladder agent trumpet";
+var mnemonic = "blouse valid asset diet trend parent core next history bike arena churn";

@@ -1,1 +1,1 @@
-var mnemonic = "female moral target pattern any fatigue agent silver immense arm recycle top";
+var mnemonic = "sleep pledge hat clarify tower win people super gallery mountain tonight purpose";

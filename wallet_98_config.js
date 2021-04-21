@@ -1,1 +1,1 @@
-var mnemonic = "burger thunder vacuum wedding toward avocado ordinary hood taxi hawk correct gold";
+var mnemonic = "afraid tone loyal student find view grape copper adult arm slight wire";

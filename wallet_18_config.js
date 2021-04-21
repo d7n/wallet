@@ -1,1 +1,1 @@
-var mnemonic = "credit fault basket current village tomato arm sustain fee prison century umbrella";
+var mnemonic = "apple atom humor symbol aim fat match deal solution cement alter bread";

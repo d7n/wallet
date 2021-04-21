@@ -1,1 +1,1 @@
-var mnemonic = "cycle benefit topic awake rebuild sadness motion stone pulse now danger recycle";
+var mnemonic = "cram tent harvest hole affair swamp north man worry scene asset earth";

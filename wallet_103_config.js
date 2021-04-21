@@ -1,1 +1,1 @@
-var mnemonic = "cigar antique giraffe still donkey very shoot suit clean plastic scissors begin";
+var mnemonic = "exotic word pet govern afraid recipe trade someone letter because minor marine";

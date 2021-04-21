@@ -1,1 +1,1 @@
-var mnemonic = "entry october fever alone mercy coral tip tide number nominee large sudden";
+var mnemonic = "near day purchase volcano emerge scrub habit core ankle gorilla gold double";

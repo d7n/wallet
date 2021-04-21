@@ -1,1 +1,1 @@
-var mnemonic = "drive display hobby bronze vibrant lend vessel another snap message crop observe";
+var mnemonic = "jump fossil sorry chalk cluster west drink become coach host sad toast";
