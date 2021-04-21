@@ -1,1 +1,1 @@
-var mnemonic = "double adapt prevent beach code reward slow three laugh renew absurd resource";
+var mnemonic = "actor transfer only horn under pull tackle elevator chunk ankle front real";

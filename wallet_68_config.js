@@ -1,1 +1,1 @@
-var mnemonic = "put demise whale kingdom twelve all usage frame cycle cabbage crouch arrange";
+var mnemonic = "method someone almost obvious tooth caution common spell gossip palm summer wing";

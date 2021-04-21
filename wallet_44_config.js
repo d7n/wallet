@@ -1,1 +1,1 @@
-var mnemonic = "boost lend scare behind consider laundry toss prevent fury life trick album";
+var mnemonic = "fancy flame truly timber surprise bracket maid where suggest melt anxiety usual";

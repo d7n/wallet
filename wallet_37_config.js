@@ -1,1 +1,1 @@
-var mnemonic = "clump tag upgrade choose fringe photo toilet wood wash easy can enroll";
+var mnemonic = "cover illness royal sauce mother corn ostrich gather garment youth you logic";

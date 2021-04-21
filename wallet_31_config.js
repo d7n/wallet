@@ -1,1 +1,1 @@
-var mnemonic = "side roof auto decrease issue affair skin agree blush useless distance bean";
+var mnemonic = "unfair shield vintage kick custom nature slab milk swift pupil pulse illness";

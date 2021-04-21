@@ -1,1 +1,1 @@
-var mnemonic = "exchange swarm easy surface rifle leaf expect float actor minute west mirror";
+var mnemonic = "either fetch among crunch napkin little forget inquiry narrow wrong fantasy velvet";

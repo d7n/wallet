@@ -1,1 +1,1 @@
-var mnemonic = "cousin junior glove twist syrup lounge vintage shoulder type diagram movie also";
+var mnemonic = "fit abstract atom provide start insane estate this spare need attend hamster";

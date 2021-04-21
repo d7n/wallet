@@ -1,1 +1,1 @@
-var mnemonic = "assault recipe across eye shoot vocal frozen actor glue funny glance file";
+var mnemonic = "people around bus brand lock enroll border elevator attitude island report sponsor";

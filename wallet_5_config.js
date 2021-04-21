@@ -1,1 +1,1 @@
-var mnemonic = "guess chimney advice arctic tooth baby pudding repeat pond asthma damage refuse";
+var mnemonic = "hole wisdom ride seek off error liar salon assist letter flock child";

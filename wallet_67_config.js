@@ -1,1 +1,1 @@
-var mnemonic = "shoulder require inflict noise grab february large people nurse patrol rival volcano";
+var mnemonic = "pet define pioneer great horse hire time capital flame city outer major";

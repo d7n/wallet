@@ -1,1 +1,1 @@
-var mnemonic = "damage cute beach dance add egg rough expand only badge tiny exist";
+var mnemonic = "citizen giant multiply height school night mom guard panther arrow high fever";

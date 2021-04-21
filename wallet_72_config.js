@@ -1,1 +1,1 @@
-var mnemonic = "adult label evoke hamster trial sunny before panda arm help virus legal";
+var mnemonic = "main patient fan design abuse manage quick income mail opera salon cradle";

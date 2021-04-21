@@ -1,1 +1,1 @@
-var mnemonic = "truth scare mad comic frost zebra rapid sell family improve visit public";
+var mnemonic = "matter cattle engine danger file idle jacket step season resource kit orchard";

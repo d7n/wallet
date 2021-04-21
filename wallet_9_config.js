@@ -1,1 +1,1 @@
-var mnemonic = "shallow breeze repeat wealth april debate grain airport note seed attitude illness";
+var mnemonic = "license force fine grid paddle opera potato almost pen fitness unveil skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "boss half laugh ritual coffee pluck caution jungle ahead gauge segment vibrant";
+var mnemonic = "quarter member sight color artwork wave arch unfair deal pluck trash decrease";

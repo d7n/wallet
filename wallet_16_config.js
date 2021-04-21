@@ -1,1 +1,1 @@
-var mnemonic = "ginger enter scorpion humble talent snow story random extend version echo spy";
+var mnemonic = "man doll melt paddle fall either swim boss camera proud board always";

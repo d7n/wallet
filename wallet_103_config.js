@@ -1,1 +1,1 @@
-var mnemonic = "wrong rifle anchor fringe busy sock wild only place lab stamp spoon";
+var mnemonic = "enrich release report ready raw enrich fat fade midnight nature phone unlock";

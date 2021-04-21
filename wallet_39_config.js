@@ -1,1 +1,1 @@
-var mnemonic = "vintage glimpse ozone broom reject right patrol tower distance symbol rib deny";
+var mnemonic = "depart deputy render crop abandon glue early humble bring garment treat vehicle";

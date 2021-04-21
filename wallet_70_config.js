@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon excite sort trust machine goose slender plunge faculty word carry table";
+var mnemonic = "inner cup detect slim file ritual industry replace spice sunny caught floor";

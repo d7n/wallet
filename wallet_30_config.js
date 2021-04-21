@@ -1,1 +1,1 @@
-var mnemonic = "bottom exist swarm burger bring beyond flat laptop laugh absorb birth leaf";
+var mnemonic = "coil usual turtle spring gossip shine bronze ordinary armed square smooth boat";

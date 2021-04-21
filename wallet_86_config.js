@@ -1,1 +1,1 @@
-var mnemonic = "salt cloud truth clay hard ahead force jeans food grid confirm derive";
+var mnemonic = "target type horse grab hen spare grant utility harvest city fine grape";

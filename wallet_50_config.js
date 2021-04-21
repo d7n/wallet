@@ -1,1 +1,1 @@
-var mnemonic = "symbol hazard eagle drift toilet lobster fall debate output window foster wet";
+var mnemonic = "waste snow village demise chimney asset skate load gravity vacuum among aunt";

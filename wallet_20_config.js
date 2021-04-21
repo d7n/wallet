@@ -1,1 +1,1 @@
-var mnemonic = "clump radar matter enjoy accuse pool copy act upon access scare ten";
+var mnemonic = "void have sick verify alley anxiety mention drill gasp uncover banner flee";

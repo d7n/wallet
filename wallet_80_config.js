@@ -1,1 +1,1 @@
-var mnemonic = "reunion access strike market moment finger zebra because seat afraid cloth parrot";
+var mnemonic = "wheel trap print diamond fine destroy sell shallow giggle chase sunset voice";

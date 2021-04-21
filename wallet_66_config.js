@@ -1,1 +1,1 @@
-var mnemonic = "fantasy evoke shoe fashion indoor slim owner always peasant absorb struggle shield";
+var mnemonic = "side sense evolve motion arrive neither strategy tortoise arrive cushion once huge";

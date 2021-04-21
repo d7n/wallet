@@ -1,1 +1,1 @@
-var mnemonic = "shuffle skate sleep snap castle blur misery guilt lunch obscure pear panda";
+var mnemonic = "toilet music dismiss taste rhythm direct donate cliff any lemon clock fly";

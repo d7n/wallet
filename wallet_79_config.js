@@ -1,1 +1,1 @@
-var mnemonic = "friend opera target polar once river bless draft author advance report identify";
+var mnemonic = "expose grocery profit hold viable autumn trash eye man puzzle region clown";

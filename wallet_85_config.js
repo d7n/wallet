@@ -1,1 +1,1 @@
-var mnemonic = "collect deer history modify lend tray twice now neutral neutral bid comic";
+var mnemonic = "pull dragon transfer dog physical desert minor popular guard slice mirror energy";

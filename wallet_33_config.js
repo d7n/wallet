@@ -1,1 +1,1 @@
-var mnemonic = "someone sadness start oven tuition palace confirm genre maple chat tip art";
+var mnemonic = "milk siege promote plunge page segment pottery churn awkward pulse dove sibling";

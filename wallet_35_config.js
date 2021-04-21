@@ -1,1 +1,1 @@
-var mnemonic = "rib alley breeze jewel mean sting forward cradle head taxi syrup trash";
+var mnemonic = "collect adapt keep license marine session salon arch edit strategy safe wood";

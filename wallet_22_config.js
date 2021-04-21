@@ -1,1 +1,1 @@
-var mnemonic = "talent act answer can risk wedding damage bulk step warfare rib adapt";
+var mnemonic = "symbol sweet hotel become cat census wisdom pledge dizzy step again dance";

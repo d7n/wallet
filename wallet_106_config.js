@@ -1,1 +1,1 @@
-var mnemonic = "always accident crunch absent priority move orient usual civil taxi zoo hero";
+var mnemonic = "emerge tape month april cereal faith hollow when able pudding dolphin vague";

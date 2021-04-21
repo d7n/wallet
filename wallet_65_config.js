@@ -1,1 +1,1 @@
-var mnemonic = "title bomb decrease buyer snap void protect right tree robust play appear";
+var mnemonic = "kind cloth calm timber pattern daring strategy myth spike license time list";

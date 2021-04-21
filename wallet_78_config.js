@@ -1,1 +1,1 @@
-var mnemonic = "this round tourist champion picnic more private trial garlic loop ketchup usual";
+var mnemonic = "balcony cash promote media snap cricket case arch blood similar rough proud";

@@ -1,1 +1,1 @@
-var mnemonic = "sing impose absorb main obscure shoe develop example strike parrot public ocean";
+var mnemonic = "manual episode power renew poet cotton girl secret exotic blanket rate empty";

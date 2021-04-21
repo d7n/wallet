@@ -1,1 +1,1 @@
-var mnemonic = "joy can rail cost program luxury junior wasp gadget festival flame amateur";
+var mnemonic = "method armor drive advice card shield ranch transfer balance calm hold light";

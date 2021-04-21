@@ -1,1 +1,1 @@
-var mnemonic = "slim page cloud sponsor tuna calm piano tower view inch dizzy demand";
+var mnemonic = "pitch reward eager staff van sting ozone spawn lawsuit engage cotton bench";

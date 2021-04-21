@@ -1,1 +1,1 @@
-var mnemonic = "engine spin divorce clock muffin index velvet liquid pipe cat truth lawn";
+var mnemonic = "sense bread dirt swap furnace vote resemble meadow order tomato hair ginger";

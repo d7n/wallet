@@ -1,1 +1,1 @@
-var mnemonic = "exile couch civil erase nice crawl buddy annual attend video prepare still";
+var mnemonic = "visa van stomach smile bridge monitor decorate coffee oppose shuffle shell bundle";

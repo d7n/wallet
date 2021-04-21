@@ -1,1 +1,1 @@
-var mnemonic = "fossil library royal govern pair olympic unique aerobic connect awful valid rally";
+var mnemonic = "climb dove bird uphold during silent mention quantum swarm concert hotel inherit";

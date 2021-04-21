@@ -1,1 +1,1 @@
-var mnemonic = "cat raw uniform design slim wrist diary oval salon eyebrow guess begin";
+var mnemonic = "clinic slush nation monkey endorse table auto suspect useful report system aspect";

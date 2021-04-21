@@ -1,1 +1,1 @@
-var mnemonic = "jacket sure west cube trash diary abuse fresh follow genuine fade beach";
+var mnemonic = "hawk cinnamon sick use patient alcohol garment comic evidence salmon shaft useful";

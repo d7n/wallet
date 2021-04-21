@@ -1,1 +1,1 @@
-var mnemonic = "video exit resist master burden box carbon process secret write cash noise";
+var mnemonic = "tape effort mirror unlock garment illegal surge icon wrong begin cancel level";

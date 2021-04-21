@@ -1,1 +1,1 @@
-var mnemonic = "excite stove alpha develop matter hero dance flight laundry tomorrow oven repeat";
+var mnemonic = "filter door skin track mystery enforce silver predict option legal slab such";

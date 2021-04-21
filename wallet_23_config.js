@@ -1,1 +1,1 @@
-var mnemonic = "void script depend train acoustic pole cash fix chase outdoor muscle plate";
+var mnemonic = "rapid return float sight crane alone buddy hand super canal useful spend";

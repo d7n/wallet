@@ -1,1 +1,1 @@
-var mnemonic = "weird mail color audit coil joke increase method bean ride return sure";
+var mnemonic = "found habit denial knee mammal sweet lemon velvet ask silver reflect lucky";

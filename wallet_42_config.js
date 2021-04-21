@@ -1,1 +1,1 @@
-var mnemonic = "banana breeze badge will guess explain where sure doctor wheat garden letter";
+var mnemonic = "diamond sand eagle primary alpha frown finger vibrant alone such seat toast";

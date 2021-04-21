@@ -1,1 +1,1 @@
-var mnemonic = "all timber render truck pigeon patient pulp evolve castle cabbage anchor venture";
+var mnemonic = "trap float cactus snow leaf asset cluster april tattoo number stone life";

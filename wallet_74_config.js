@@ -1,1 +1,1 @@
-var mnemonic = "music fun obtain movie life track tide drip token accuse later region";
+var mnemonic = "chase climb swift vote camp custom issue daring throw drive topic gadget";

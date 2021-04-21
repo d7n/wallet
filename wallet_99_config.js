@@ -1,1 +1,1 @@
-var mnemonic = "dolphin shove ceiling execute jump involve during target misery turn void install";
+var mnemonic = "cup online huge boil drastic argue share bounce focus grunt april ahead";

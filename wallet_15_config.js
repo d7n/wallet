@@ -1,1 +1,1 @@
-var mnemonic = "strong point size wine talk chuckle option discover right curve recipe arrange";
+var mnemonic = "list digital busy draw believe globe inform unfair wine season song render";

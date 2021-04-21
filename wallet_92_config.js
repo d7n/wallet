@@ -1,1 +1,1 @@
-var mnemonic = "defense silk share clutch boost divorce entire scare ticket goose lion swift";
+var mnemonic = "flag issue junior drop nation repeat cherry lens sad boss ten glow";

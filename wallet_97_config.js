@@ -1,1 +1,1 @@
-var mnemonic = "settle hedgehog oppose round power voyage pill body pen typical jealous remember";
+var mnemonic = "travel album display situate such voyage edit horn romance episode devote knock";

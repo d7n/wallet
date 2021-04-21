@@ -1,1 +1,1 @@
-var mnemonic = "library insect profit clip tilt rival wife critic cage deal swing public";
+var mnemonic = "armor obey transfer dignity host proud cupboard three exhaust shaft return elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "check say walnut bone mosquito range leisure pact license polar chronic attract";
+var mnemonic = "enemy gown raw buyer rate mom desk provide journey glare moment hub";

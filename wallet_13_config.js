@@ -1,1 +1,1 @@
-var mnemonic = "tragic easy group wave easy drama million shoulder bench stove cash muscle";
+var mnemonic = "used leave siren enjoy junior bean future dinner bid brain ranch quiz";

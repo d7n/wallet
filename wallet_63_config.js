@@ -1,1 +1,1 @@
-var mnemonic = "mind acid wheat use decline orange drift quiz tone priority swear dentist";
+var mnemonic = "melt about seminar scrap area busy forest dry donor mansion muffin celery";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco appear critic wonder twist whale stumble spy strike glide van leaf";
+var mnemonic = "paper robot shiver advice fade cause negative main panda wood wasp universe";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige space alter wish produce empty fiction antique veteran credit rice spring";
+var mnemonic = "benefit indoor video trophy wrist furnace panda exhibit galaxy actual one wool";

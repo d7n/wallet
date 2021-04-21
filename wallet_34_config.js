@@ -1,1 +1,1 @@
-var mnemonic = "toe wisdom rebel scrub hold express anger elephant walk subject iron beyond";
+var mnemonic = "faith clinic panic daring fall gas adult choice champion fresh mobile width";

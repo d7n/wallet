@@ -1,1 +1,1 @@
-var mnemonic = "corn flight novel balance pelican govern wave minor jazz solve one oval";
+var mnemonic = "cabin sentence learn athlete jealous luggage lyrics victory burger enough layer bronze";

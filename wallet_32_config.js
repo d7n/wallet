@@ -1,1 +1,1 @@
-var mnemonic = "tomato glance first book useless anxiety car digital margin legend asthma cattle";
+var mnemonic = "random daughter leader barely traffic final fitness damage mom brown soap vacuum";

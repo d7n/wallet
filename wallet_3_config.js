@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow problem autumn strategy tiger slow brisk smart lady edge siege rather";
+var mnemonic = "evolve resist accuse engage visual move actor dignity embody amount crack bike";

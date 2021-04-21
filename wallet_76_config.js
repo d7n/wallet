@@ -1,1 +1,1 @@
-var mnemonic = "reflect slender citizen embody quarter provide strong curve dad expect bone dumb";
+var mnemonic = "human blanket interest jazz cradle exchange cabin latin canal butter bread globe";

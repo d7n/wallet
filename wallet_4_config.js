@@ -1,1 +1,1 @@
-var mnemonic = "shy spice enact alert eight help pipe onion naive gesture sea supreme";
+var mnemonic = "certain giant shift capital zebra yellow hotel cargo cradle monitor humble length";

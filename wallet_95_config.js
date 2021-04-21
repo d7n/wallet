@@ -1,1 +1,1 @@
-var mnemonic = "dry have thrive marine panel moon label stock earn original olympic target";
+var mnemonic = "fever amazing service onion zone seven case lemon mixture rebuild certain glance";

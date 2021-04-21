@@ -1,1 +1,1 @@
-var mnemonic = "finish layer option world ordinary orphan salon chaos van dice sorry address";
+var mnemonic = "deer twist render pulp hole script spread romance brass bridge cross evidence";

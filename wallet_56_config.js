@@ -1,1 +1,1 @@
-var mnemonic = "together aisle floor sustain arrive junk race direct glow image elevator sibling";
+var mnemonic = "tobacco lemon argue another fit dismiss wise wall exchange room office shaft";

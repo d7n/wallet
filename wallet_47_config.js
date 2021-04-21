@@ -1,1 +1,1 @@
-var mnemonic = "riot gossip romance chair knock indicate blind rug chronic pilot spare wish";
+var mnemonic = "element fit cover fiction wrap fancy fit ceiling coffee tribe lizard lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "melt photo post mammal rather lake defense enter level aspect bitter super";
+var mnemonic = "ocean staff federal round kick movie type odor explain equal smart stuff";

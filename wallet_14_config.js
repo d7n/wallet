@@ -1,1 +1,1 @@
-var mnemonic = "all slab tattoo problem ugly random crazy acquire spray erase ridge any";
+var mnemonic = "lecture bright arm milk jar bind net clock thunder fine cactus pipe";

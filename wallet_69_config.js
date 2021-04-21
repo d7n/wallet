@@ -1,1 +1,1 @@
-var mnemonic = "amazing fit cram swift glory found ignore enforce inner blanket release subway";
+var mnemonic = "drip suffer thumb fan pioneer weekend grab cactus canvas price exclude bone";

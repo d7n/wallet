@@ -1,1 +1,1 @@
-var mnemonic = "broken oblige recall deer wheel breeze nature deer bonus decline mad civil";
+var mnemonic = "oxygen range fresh outdoor magnet choice typical flash culture valid maximum ball";

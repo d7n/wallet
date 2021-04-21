@@ -1,1 +1,1 @@
-var mnemonic = "gaze fame summer damage mixture desk easy hub wood light flush exercise";
+var mnemonic = "onion tobacco express surround obtain donate close receive equal abuse enhance favorite";

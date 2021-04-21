@@ -1,1 +1,1 @@
-var mnemonic = "middle annual private tuition lion fee recall wait chunk head soldier erupt";
+var mnemonic = "soap entry depth mean party clean shoe filter path lounge choice scan";

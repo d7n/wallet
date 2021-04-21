@@ -1,1 +1,1 @@
-var mnemonic = "drill dentist thought hollow eager comic dirt base model auto slim shuffle";
+var mnemonic = "cute tide maximum dinner zone humor record news renew monkey bike day";

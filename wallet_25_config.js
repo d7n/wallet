@@ -1,1 +1,1 @@
-var mnemonic = "various smoke remove flag bargain pumpkin chalk weird lawsuit ridge final various";
+var mnemonic = "aim symbol water unknown soap jazz chat cattle theory ranch name rookie";

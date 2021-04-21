@@ -1,1 +1,1 @@
-var mnemonic = "fringe know rebuild address dove pipe fence absurd hole funny west people";
+var mnemonic = "gasp discover mask asthma length soul demand fork copy cushion favorite mean";

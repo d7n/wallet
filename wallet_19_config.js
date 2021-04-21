@@ -1,1 +1,1 @@
-var mnemonic = "work fold danger forum milk animal toward tackle design angle tube erupt";
+var mnemonic = "shaft double sample similar broom solution armed eternal vessel remain cabin oil";

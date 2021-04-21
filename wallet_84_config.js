@@ -1,1 +1,1 @@
-var mnemonic = "claw october fix ahead enable empty cloth winter city rival include hurdle";
+var mnemonic = "slush silk vibrant nurse tank bitter spread add quarter fury pony detect";

@@ -1,1 +1,1 @@
-var mnemonic = "still bronze upgrade zone above kick tube cupboard once fatigue method lady";
+var mnemonic = "mouse blind world traffic memory provide weasel barely join vicious alter ride";

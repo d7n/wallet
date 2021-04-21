@@ -1,1 +1,1 @@
-var mnemonic = "exchange garbage assume version flip able goat opera burger artwork turtle kangaroo";
+var mnemonic = "wire barely jump pigeon rabbit install left bid cube word burger sweet";

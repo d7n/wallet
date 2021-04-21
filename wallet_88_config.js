@@ -1,1 +1,1 @@
-var mnemonic = "must else round local latin above pencil shove topple lady dilemma unit";
+var mnemonic = "green timber rice crunch away degree hollow foil icon improve lobster route";

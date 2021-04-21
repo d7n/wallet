@@ -1,1 +1,1 @@
-var mnemonic = "hero crack remember cereal false elegant chef cage action hero tilt neutral";
+var mnemonic = "ugly congress raw nasty stand dose heavy rifle ostrich pupil library echo";

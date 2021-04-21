@@ -1,1 +1,1 @@
-var mnemonic = "today possible benefit nuclear feed number kid excess regular liberty stage flash";
+var mnemonic = "husband timber early where private text hidden alley jacket ridge accuse design";

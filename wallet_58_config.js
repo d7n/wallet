@@ -1,1 +1,1 @@
-var mnemonic = "shadow raven episode dust runway leg two link surprise dune rug mixture";
+var mnemonic = "margin naive wool sibling myself demise sudden oyster quarter razor festival top";

@@ -1,1 +1,1 @@
-var mnemonic = "turtle can cheese invite swap clutch anchor note sugar marine vocal slot";
+var mnemonic = "dinosaur surface ivory meat subway sport ahead address coconut monkey upper during";

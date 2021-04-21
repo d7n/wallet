@@ -1,1 +1,1 @@
-var mnemonic = "version knee viable cake debris pair enemy still bottom bird machine kind";
+var mnemonic = "mix bulk lens shield prepare puppy artefact video just argue diesel muscle";

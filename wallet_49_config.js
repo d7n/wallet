@@ -1,1 +1,1 @@
-var mnemonic = "health describe bus foster vocal inside shy elite release law awake goddess";
+var mnemonic = "chunk speak lecture detail sting dad smooth solution alien sting unlock two";

@@ -1,1 +1,1 @@
-var mnemonic = "item move drum chronic flower reward squeeze metal side special decade sign";
+var mnemonic = "excite they useful glow human faculty first system pretty improve plunge bright";
