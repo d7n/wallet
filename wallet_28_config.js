@@ -1,1 +1,1 @@
-var mnemonic = "chalk ability empower ski good talk apology example chuckle royal solve garment";
+var mnemonic = "kitchen measure clarify enlist weird blur effort steak erupt provide hero zoo";

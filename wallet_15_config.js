@@ -1,1 +1,1 @@
-var mnemonic = "gentle purse photo consider scene relax drive soul sight help hotel december";
+var mnemonic = "second grocery thought army sure recycle eyebrow deer scheme you total nothing";

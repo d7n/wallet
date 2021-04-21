@@ -1,1 +1,1 @@
-var mnemonic = "hidden impose stock excite seek salon image have rate unfold check enter";
+var mnemonic = "physical kid enrich forget taste allow kit vital helmet panic fade detail";

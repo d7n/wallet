@@ -1,1 +1,1 @@
-var mnemonic = "torch time capable fat island puppy pupil glare boy recycle know extend";
+var mnemonic = "rally deny tribe used razor point island dish tip include rebel loud";

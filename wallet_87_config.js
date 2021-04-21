@@ -1,1 +1,1 @@
-var mnemonic = "rebel reject meat glory embark enrich security shuffle found rebuild thumb shallow";
+var mnemonic = "theory urban plastic mind inherit beach weasel tortoise ankle method famous sing";

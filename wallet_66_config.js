@@ -1,1 +1,1 @@
-var mnemonic = "intact shift dish funny allow nasty enhance action vault demise sudden rebel";
+var mnemonic = "employ armed health occur armed sing agree soft cave aisle abstract spy";

@@ -1,1 +1,1 @@
-var mnemonic = "person cook cake slender marble tooth worth segment oppose print drift disorder";
+var mnemonic = "crop cup south task wine sad proud effort scissors amount goddess rude";

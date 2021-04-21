@@ -1,1 +1,1 @@
-var mnemonic = "render cart letter border fork mistake invite orange bronze glass curtain cake";
+var mnemonic = "caught siren section tornado public general spatial crime conduct blush worth sunny";

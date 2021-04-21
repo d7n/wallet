@@ -1,1 +1,1 @@
-var mnemonic = "train obvious neglect chunk siren genuine program resist host exotic sound border";
+var mnemonic = "shock banana weather sunny swamp arrange unit impact usual link boil engage";

@@ -1,1 +1,1 @@
-var mnemonic = "example length segment ivory luggage brick know fury muscle various across saddle";
+var mnemonic = "coin brave tank lyrics gauge tree around scorpion drum inherit access suffer";

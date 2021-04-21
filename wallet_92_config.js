@@ -1,1 +1,1 @@
-var mnemonic = "main motor liberty success tell strong broom venture feed spawn remember coast";
+var mnemonic = "unusual diagram plug merry flip dignity napkin tissue paddle accident helmet remove";

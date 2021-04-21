@@ -1,1 +1,1 @@
-var mnemonic = "album ensure amused slogan crush fire office life need ball bundle face";
+var mnemonic = "fork situate protect stadium fringe type balance wrong only mimic stuff cube";

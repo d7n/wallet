@@ -1,1 +1,1 @@
-var mnemonic = "lake hill hard employ version approve health amused happy wait prefer oval";
+var mnemonic = "accuse decide debris clerk fish draft glance alert cake quality marine kitchen";

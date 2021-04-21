@@ -1,1 +1,1 @@
-var mnemonic = "into evoke effort exercise tool require cherry submit shoulder quantum result pottery";
+var mnemonic = "dynamic hidden drift puppy say trouble combine veteran love answer eyebrow fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow crunch stem enemy thumb top sausage news winner guide fresh immune";
+var mnemonic = "episode disagree pulse inherit area blanket sister note crucial wage capital vendor";

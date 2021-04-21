@@ -1,1 +1,1 @@
-var mnemonic = "language february lazy park canvas round tool announce surface surface bitter mind";
+var mnemonic = "bread tooth clap enable plunge era betray fine night helmet hand glare";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce staff lesson fat believe race valley lecture couple tag goddess film";
+var mnemonic = "filter fall permit swamp loyal rally guide smooth cry mad affair hand";

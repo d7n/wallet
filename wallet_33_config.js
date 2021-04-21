@@ -1,1 +1,1 @@
-var mnemonic = "connect remind edit token put provide term weather crop concert high area";
+var mnemonic = "early cereal fancy zone stone divert weekend ordinary tone peace pear devote";

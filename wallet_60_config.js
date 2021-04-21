@@ -1,1 +1,1 @@
-var mnemonic = "allow agent flag play surge tribe harvest beach spirit just awesome tone";
+var mnemonic = "warrior suffer suffer negative soldier ripple rabbit negative gasp hockey judge decide";

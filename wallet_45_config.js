@@ -1,1 +1,1 @@
-var mnemonic = "intact again spare grit poverty leader bunker lizard heavy picture logic deliver";
+var mnemonic = "snake devote promote pencil river stove loop monitor dune danger found fee";

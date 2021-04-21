@@ -1,1 +1,1 @@
-var mnemonic = "sword layer trash oak fetch stomach skill recycle lizard anchor prevent movie";
+var mnemonic = "sauce seminar load coach goose grape secret that sniff wife couch struggle";

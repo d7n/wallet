@@ -1,1 +1,1 @@
-var mnemonic = "minimum lottery frog parade birth nasty add asset artwork narrow type zone";
+var mnemonic = "laugh flash crucial thrive valve left rival latin orbit ability joy mixed";

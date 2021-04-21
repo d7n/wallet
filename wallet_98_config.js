@@ -1,1 +1,1 @@
-var mnemonic = "there region velvet language give judge fossil buyer kangaroo together market tent";
+var mnemonic = "enhance fish fade nurse undo tide scheme indicate blouse cushion stay firm";

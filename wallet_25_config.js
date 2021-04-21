@@ -1,1 +1,1 @@
-var mnemonic = "select that proof two north equip dish buffalo match patch divorce giggle";
+var mnemonic = "month cotton bridge suit ocean love sudden sword tourist vote angry portion";

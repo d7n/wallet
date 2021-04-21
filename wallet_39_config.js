@@ -1,1 +1,1 @@
-var mnemonic = "segment output seed sting normal uniform rocket illness major double idea nasty";
+var mnemonic = "able knock illegal bike ill sheriff village tide follow word cliff guide";

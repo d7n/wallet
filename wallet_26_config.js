@@ -1,1 +1,1 @@
-var mnemonic = "give knock try oblige give timber kick impact clown action antique fiscal";
+var mnemonic = "modify truck element blue inmate author mobile happy scale champion large divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "enact two draw tilt assist film exit slender clip drive next cherry";
+var mnemonic = "flight forward rather robust dance bullet leader burger crumble maze surge eye";

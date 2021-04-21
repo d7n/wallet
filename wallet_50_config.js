@@ -1,1 +1,1 @@
-var mnemonic = "carry cover rocket chair deliver spend kidney figure answer lion lumber business";
+var mnemonic = "verb topic marine armor impact purchase school coil mind acid fence latin";

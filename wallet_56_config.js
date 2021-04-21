@@ -1,1 +1,1 @@
-var mnemonic = "improve urban observe top silk mixture gown give hen power property balance";
+var mnemonic = "combine lesson dilemma alarm zero hurt shrug monster range illegal report shy";

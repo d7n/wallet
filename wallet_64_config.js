@@ -1,1 +1,1 @@
-var mnemonic = "devote hotel shop grocery exhibit goddess insect glow crawl regret toss peasant";
+var mnemonic = "volume wear urge cable body mask pluck fragile speed match reduce edge";

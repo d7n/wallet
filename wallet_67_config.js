@@ -1,1 +1,1 @@
-var mnemonic = "oval nice current where cat royal opera spray book vessel shrug nephew";
+var mnemonic = "bleak snap gain wire camera loyal size tissue prize orient erase abandon";

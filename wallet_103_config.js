@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo lock hotel inspire hover response trophy stock away install notable device";
+var mnemonic = "betray hybrid room extra enter bachelor reject into unfair matrix media shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "beach occur scrub holiday crush eternal chuckle demand dice valve palm nephew";
+var mnemonic = "twist velvet manage length chase crush castle pizza solar diesel army tide";

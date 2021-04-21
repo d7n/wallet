@@ -1,1 +1,1 @@
-var mnemonic = "bring borrow lobster kite merge fly dream spatial treat loan fee journey";
+var mnemonic = "engage slow fork tomorrow safe square use trim fog swamp burden same";

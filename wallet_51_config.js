@@ -1,1 +1,1 @@
-var mnemonic = "electric position drop bread vivid link more attract poem moral utility century";
+var mnemonic = "wire enroll tomato aware dentist work scan youth legend resist wait obtain";

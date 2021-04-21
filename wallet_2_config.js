@@ -1,1 +1,1 @@
-var mnemonic = "dilemma thought photo digital buyer dismiss arch trend inner gorilla budget twist";
+var mnemonic = "either blur method fragile dismiss endorse rice soul little main stock shallow";

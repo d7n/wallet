@@ -1,1 +1,1 @@
-var mnemonic = "loan mystery swim rain myth age daring month unfold return similar valid";
+var mnemonic = "between slight chief mom twelve surprise concert rifle abandon able one balance";

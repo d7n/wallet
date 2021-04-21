@@ -1,1 +1,1 @@
-var mnemonic = "pony virtual spin super primary puppy broccoli limb budget velvet device hen";
+var mnemonic = "loud lobster eagle this winner damage sock usage act south festival manual";

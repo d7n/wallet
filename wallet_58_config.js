@@ -1,1 +1,1 @@
-var mnemonic = "wash cancel category much odor wife banana learn real laugh struggle trophy";
+var mnemonic = "sun pluck only dinosaur movie honey suit void onion deliver end scrub";

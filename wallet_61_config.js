@@ -1,1 +1,1 @@
-var mnemonic = "pave bid image nice dry clog engine orphan coyote vocal canyon slush";
+var mnemonic = "dismiss spin casino spin around unhappy fatigue ginger ginger trigger believe now";

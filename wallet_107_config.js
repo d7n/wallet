@@ -1,1 +1,1 @@
-var mnemonic = "valid window stereo bless neck strong lake random delay insect ask ill";
+var mnemonic = "clump glow coin damp visit various mimic glimpse mimic eager boost evoke";

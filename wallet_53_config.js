@@ -1,1 +1,1 @@
-var mnemonic = "actor unhappy trouble decide baby lobster tide knee art grab husband art";
+var mnemonic = "mutual three sphere garbage indicate stamp audit excess pudding town flight mammal";

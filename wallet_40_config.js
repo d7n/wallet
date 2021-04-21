@@ -1,1 +1,1 @@
-var mnemonic = "tide label toilet transfer harvest excite hello woman visual machine climb occur";
+var mnemonic = "police remember prepare project label math virus wine ketchup tissue dial setup";

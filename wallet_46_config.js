@@ -1,1 +1,1 @@
-var mnemonic = "suffer client shield collect invest ceiling abuse hurry picnic weather swift used";
+var mnemonic = "sweet appear below actress prefer worth category urban trophy toss peanut vicious";

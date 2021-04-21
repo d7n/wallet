@@ -1,1 +1,1 @@
-var mnemonic = "across vital immune diary street figure stage lava model glide cereal item";
+var mnemonic = "core try inmate warfare route people right you hockey faint arctic claw";

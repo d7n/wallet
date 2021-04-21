@@ -1,1 +1,1 @@
-var mnemonic = "range giggle better flock lizard enhance tissue case swing genuine bless slight";
+var mnemonic = "fury useless flight bus very awkward group steel key fortune shadow increase";

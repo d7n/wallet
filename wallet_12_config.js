@@ -1,1 +1,1 @@
-var mnemonic = "october option night jealous print ceiling bread phone item head fee chat";
+var mnemonic = "blanket grass talk false priority verify nurse cart lecture brick polar refuse";

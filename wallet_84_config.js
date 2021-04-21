@@ -1,1 +1,1 @@
-var mnemonic = "either deliver silly absent double exhibit dog hen fork very exile gossip";
+var mnemonic = "steel oxygen recycle legal net bomb sibling unable auction switch paddle average";

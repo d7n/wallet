@@ -1,1 +1,1 @@
-var mnemonic = "trip owner fork snake cram merge agree business deer cool cement gold";
+var mnemonic = "scrub fat sing wrist nurse crouch intact venture tip lunch giggle cabin";

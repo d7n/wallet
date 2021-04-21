@@ -1,1 +1,1 @@
-var mnemonic = "margin faith dress wise festival town annual evoke fatal abuse swallow window";
+var mnemonic = "gap drift improve tool extra laugh unfold pen describe canoe roast present";

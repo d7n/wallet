@@ -1,1 +1,1 @@
-var mnemonic = "peasant expire rare explain have nephew orient twice future stable fever document";
+var mnemonic = "want chest lock sense system disagree whisper favorite profit manage margin visa";

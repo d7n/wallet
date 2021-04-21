@@ -1,1 +1,1 @@
-var mnemonic = "dune spray dumb sad trigger orphan alone waste fluid charge pink flower";
+var mnemonic = "brave bring speak layer spend alarm speed mobile park ostrich gift frozen";

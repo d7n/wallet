@@ -1,1 +1,1 @@
-var mnemonic = "proud duck orphan mass bracket economy aisle lounge benefit barely online protect";
+var mnemonic = "gentle horn correct want certain normal pride require wrestle develop valley pig";

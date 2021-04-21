@@ -1,1 +1,1 @@
-var mnemonic = "remain car ski actual purpose team salmon immense network tennis permit index";
+var mnemonic = "jelly true have trim target online neither bridge tell wisdom enrich witness";

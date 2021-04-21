@@ -1,1 +1,1 @@
-var mnemonic = "snack miracle brush cinnamon opinion slight thank gate erosion angle belt federal";
+var mnemonic = "upper zoo mountain bus ordinary bind floor retire glide together online ginger";

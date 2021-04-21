@@ -1,1 +1,1 @@
-var mnemonic = "glare ripple pink nerve room cradle timber isolate warrior acquire feel hotel";
+var mnemonic = "size strong magic buffalo olive upset cycle help direct wrist april check";

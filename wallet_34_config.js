@@ -1,1 +1,1 @@
-var mnemonic = "chicken spider zebra rival buddy crucial feature upgrade flavor coconut stem isolate";
+var mnemonic = "give consider chest bird express humor render expire front measure fringe mango";

@@ -1,1 +1,1 @@
-var mnemonic = "effort drop defense neglect outer refuse little satoshi mixed already carbon delay";
+var mnemonic = "equip juice spray trip marriage behind visual language extra burger green lesson";

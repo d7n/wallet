@@ -1,1 +1,1 @@
-var mnemonic = "donkey giraffe mesh script thing bulb teach position lens thank elevator gift";
+var mnemonic = "settle gaze emotion fabric flower good average collect kind shield vanish perfect";

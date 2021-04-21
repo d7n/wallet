@@ -1,1 +1,1 @@
-var mnemonic = "elevator today aware finger language offer shoot adapt belt husband cheese smooth";
+var mnemonic = "link blame fuel assault mixture smooth insect journey defy fiscal income lock";

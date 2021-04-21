@@ -1,1 +1,1 @@
-var mnemonic = "mystery amazing comfort marble grab rely release match deposit laptop essay purse";
+var mnemonic = "virtual engage process case vapor tooth squirrel since green ancient panda talk";

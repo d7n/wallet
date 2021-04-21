@@ -1,1 +1,1 @@
-var mnemonic = "gesture siren stool fragile cruel strategy meadow remind renew tent spare dice";
+var mnemonic = "kiss crack real laptop such limit slogan evoke cute rescue depend circle";

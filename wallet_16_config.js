@@ -1,1 +1,1 @@
-var mnemonic = "sword rude usual torch warrior list tunnel course change victory casino cushion";
+var mnemonic = "blush tomorrow egg allow movie suffer marine hand sport distance thrive vote";

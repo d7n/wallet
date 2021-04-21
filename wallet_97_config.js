@@ -1,1 +1,1 @@
-var mnemonic = "buzz purchase camp scheme strategy venue define fossil teach coconut since slide";
+var mnemonic = "furnace wrestle evidence blouse nasty rapid barely deer loan climb december useful";

@@ -1,1 +1,1 @@
-var mnemonic = "civil ancient master phone verb actual exit remind live gloom place forest";
+var mnemonic = "van such canoe shy forget siege depart street opera suit unusual horror";

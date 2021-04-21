@@ -1,1 +1,1 @@
-var mnemonic = "artwork alarm prevent address narrow garage length critic devote ability early confirm";
+var mnemonic = "hungry garlic stable leisure merit gadget wild silver sight mention angry tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "shed sure flower beef cube kitten where excite cancel sight door race";
+var mnemonic = "recipe shrimp inhale field motor shoot draw scrub mom resemble pudding pass";

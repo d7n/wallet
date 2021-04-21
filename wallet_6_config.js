@@ -1,1 +1,1 @@
-var mnemonic = "super month field magic tattoo home because clown squirrel erase negative scissors";
+var mnemonic = "gentle current system good genre torch moral oppose judge margin cactus minute";

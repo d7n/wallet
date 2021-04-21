@@ -1,1 +1,1 @@
-var mnemonic = "venue small runway analyst boat edit heavy sleep eyebrow review valve flash";
+var mnemonic = "old grit anchor soap orbit else injury height shadow purpose expire fee";

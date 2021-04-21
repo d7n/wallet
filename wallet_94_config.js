@@ -1,1 +1,1 @@
-var mnemonic = "round weird few enjoy prepare define dice club zone balance blue safe";
+var mnemonic = "develop brush salt any evidence across ship weird kite myself smoke universe";

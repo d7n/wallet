@@ -1,1 +1,1 @@
-var mnemonic = "alpha actress furnace embark obey frozen gym loyal flip equal jar elbow";
+var mnemonic = "arctic cash maze major elbow route become position mansion menu apology possible";

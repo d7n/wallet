@@ -1,1 +1,1 @@
-var mnemonic = "upon gossip gym vacuum ocean fiction day tag upgrade illegal uphold fish";
+var mnemonic = "vehicle valid bid secret bread special penalty gain useful shock invest leg";

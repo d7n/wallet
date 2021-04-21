@@ -1,1 +1,1 @@
-var mnemonic = "stomach hill desk coast entry rose verb sad off anxiety island shy";
+var mnemonic = "grow flash nation hill shuffle oak during hedgehog fat royal pelican craft";

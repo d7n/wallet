@@ -1,1 +1,1 @@
-var mnemonic = "task accuse filter avoid eagle make sample forum mind stick farm order";
+var mnemonic = "boil order upset drama resist crash pencil enrich shiver syrup marble drift";

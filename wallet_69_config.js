@@ -1,1 +1,1 @@
-var mnemonic = "expose verify romance reopen spirit pen either neutral husband episode vessel lobster";
+var mnemonic = "toddler estate rather junk thunder ancient much dignity tent cram hover polar";

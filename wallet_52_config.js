@@ -1,1 +1,1 @@
-var mnemonic = "idle tackle duty observe put prosper solid behave various much absurd obvious";
+var mnemonic = "road zero daring news erupt keep child coffee sustain excite just post";

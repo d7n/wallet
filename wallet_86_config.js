@@ -1,1 +1,1 @@
-var mnemonic = "will leg quiz swallow load brisk then apart tissue motion rather real";
+var mnemonic = "muscle side because marble pretty company shield impulse silk yard soldier merry";

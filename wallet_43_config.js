@@ -1,1 +1,1 @@
-var mnemonic = "venue cycle together wolf slot fan hole fine sudden light endless nest";
+var mnemonic = "wasp inflict click ask skin double match usage around raven recipe mask";

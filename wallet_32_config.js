@@ -1,1 +1,1 @@
-var mnemonic = "race much cat cannon piano biology gap vintage crucial chest release kitchen";
+var mnemonic = "exclude design distance limit provide diary always open height novel soda grace";

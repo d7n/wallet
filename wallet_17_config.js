@@ -1,1 +1,1 @@
-var mnemonic = "found rate maple spare seminar upper later swap accident tuition talk feed";
+var mnemonic = "tattoo sunset cycle art allow legend reveal nice gorilla agent reopen wrist";

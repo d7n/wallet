@@ -1,1 +1,1 @@
-var mnemonic = "apart industry reopen enjoy cattle kingdom toe chair sun fold piano neck";
+var mnemonic = "sort session raccoon cancel symbol destroy limb survey pact miss tackle beauty";

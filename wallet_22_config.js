@@ -1,1 +1,1 @@
-var mnemonic = "left swing border embark crowd good sign lunar obvious tone order rose";
+var mnemonic = "inquiry system frown urge alley anxiety viable fault rent distance elegant license";

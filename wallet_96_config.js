@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow access chronic north mom evidence offer loyal program gauge glare other";
+var mnemonic = "medal else hat front feel garden potato insect rack cat tackle police";

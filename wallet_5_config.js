@@ -1,1 +1,1 @@
-var mnemonic = "cup sleep mosquito tray acid machine ostrich proud divide fog match ghost";
+var mnemonic = "alley bag staff weapon sock exist auto until auction candy zoo happy";

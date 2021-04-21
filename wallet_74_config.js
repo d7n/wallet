@@ -1,1 +1,1 @@
-var mnemonic = "brief lumber mushroom embark jewel thing globe story step busy hotel hard";
+var mnemonic = "wire moral edit rebel sand goose burst frown survey stage sign ecology";

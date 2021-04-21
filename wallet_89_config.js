@@ -1,1 +1,1 @@
-var mnemonic = "enable message struggle arrow nuclear movie super off engage flee cross wasp";
+var mnemonic = "faint blossom harsh shift album agree between match crater hour tape earth";

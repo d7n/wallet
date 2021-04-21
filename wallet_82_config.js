@@ -1,1 +1,1 @@
-var mnemonic = "cherry pride version suggest fiscal iron slide decide relief supreme depth engage";
+var mnemonic = "start plate differ basket museum six axis illness now gate era depend";

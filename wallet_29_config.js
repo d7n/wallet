@@ -1,1 +1,1 @@
-var mnemonic = "spy into trial table flight embody song provide warfare gather need slogan";
+var mnemonic = "trash shadow horse power yellow rain morning glue tape grab source glue";

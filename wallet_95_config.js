@@ -1,1 +1,1 @@
-var mnemonic = "gold hospital document magic private pass pole round bottom rebuild comfort laugh";
+var mnemonic = "summer crazy face warm escape soda fitness border side sibling spawn stereo";

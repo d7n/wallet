@@ -1,1 +1,1 @@
-var mnemonic = "verb congress sing flash glance salt lawsuit dismiss worry plastic craft kitchen";
+var mnemonic = "ivory heavy hurry live target alley cry student close predict card easily";
