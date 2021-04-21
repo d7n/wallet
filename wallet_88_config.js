@@ -1,1 +1,1 @@
-var mnemonic = "green timber rice crunch away degree hollow foil icon improve lobster route";
+var mnemonic = "enforce receive embody horn purse code double wave bachelor craft vintage wrist";

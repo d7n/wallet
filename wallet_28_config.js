@@ -1,1 +1,1 @@
-var mnemonic = "toilet music dismiss taste rhythm direct donate cliff any lemon clock fly";
+var mnemonic = "pumpkin thing dolphin write decade morning awkward away dad decrease trophy distance";

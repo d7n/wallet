@@ -1,1 +1,1 @@
-var mnemonic = "pet define pioneer great horse hire time capital flame city outer major";
+var mnemonic = "jazz head summer coconut tide slight slice visit weather limb brass drip";

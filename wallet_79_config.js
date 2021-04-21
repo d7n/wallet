@@ -1,1 +1,1 @@
-var mnemonic = "expose grocery profit hold viable autumn trash eye man puzzle region clown";
+var mnemonic = "level face woman obey combine thought armed slam regular mosquito shy nuclear";

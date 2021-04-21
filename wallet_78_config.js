@@ -1,1 +1,1 @@
-var mnemonic = "balcony cash promote media snap cricket case arch blood similar rough proud";
+var mnemonic = "fantasy hen medal pave unfair topple smooth slide they stick expect asset";

@@ -1,1 +1,1 @@
-var mnemonic = "element fit cover fiction wrap fancy fit ceiling coffee tribe lizard lesson";
+var mnemonic = "chronic green april despair creek flock vessel wage lady marble daring leaf";

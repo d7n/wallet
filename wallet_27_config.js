@@ -1,1 +1,1 @@
-var mnemonic = "people around bus brand lock enroll border elevator attitude island report sponsor";
+var mnemonic = "bounce mule lesson gospel soda note clog donkey bargain people flush cute";

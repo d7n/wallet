@@ -1,1 +1,1 @@
-var mnemonic = "filter door skin track mystery enforce silver predict option legal slab such";
+var mnemonic = "screen indicate little misery card mixture foam fluid afford gate palm almost";

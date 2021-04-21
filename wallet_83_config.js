@@ -1,1 +1,1 @@
-var mnemonic = "wool anger coconut unveil bleak wing apple gain case capable check fence";
+var mnemonic = "husband saddle decade reward fiscal inspire garlic issue teach rose oblige kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "collect adapt keep license marine session salon arch edit strategy safe wood";
+var mnemonic = "child square south main eye exotic kitten jaguar sell tongue tortoise that";

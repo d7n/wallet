@@ -1,1 +1,1 @@
-var mnemonic = "ugly congress raw nasty stand dose heavy rifle ostrich pupil library echo";
+var mnemonic = "maze surface evolve insane ice maximum outdoor eye nice atom belt material";

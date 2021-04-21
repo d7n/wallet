@@ -1,1 +1,1 @@
-var mnemonic = "diamond sand eagle primary alpha frown finger vibrant alone such seat toast";
+var mnemonic = "popular peace fine clerk stand hello topple exhibit destroy ensure dirt garment";

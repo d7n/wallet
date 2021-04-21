@@ -1,1 +1,1 @@
-var mnemonic = "chase climb swift vote camp custom issue daring throw drive topic gadget";
+var mnemonic = "join payment salute phone giraffe can farm life story manual rescue advice";

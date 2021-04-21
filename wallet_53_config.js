@@ -1,1 +1,1 @@
-var mnemonic = "wire barely jump pigeon rabbit install left bid cube word burger sweet";
+var mnemonic = "citizen wheat express embark loan east scan room ticket sting agree because";

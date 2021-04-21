@@ -1,1 +1,1 @@
-var mnemonic = "method someone almost obvious tooth caution common spell gossip palm summer wing";
+var mnemonic = "since extra once urge tragic arrange ask course wrist orchard spread wall";

@@ -1,1 +1,1 @@
-var mnemonic = "tape effort mirror unlock garment illegal surge icon wrong begin cancel level";
+var mnemonic = "truth skate skirt window limit clutch spot action page auction cruise flash";

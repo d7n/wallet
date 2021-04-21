@@ -1,1 +1,1 @@
-var mnemonic = "excite they useful glow human faculty first system pretty improve plunge bright";
+var mnemonic = "thunder crane belt heart because image razor battle smile public meat shallow";

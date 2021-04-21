@@ -1,1 +1,1 @@
-var mnemonic = "panel mistake canoe ripple churn mail toe blue claim before unveil energy";
+var mnemonic = "hair tourist glad awake theme panther tennis huge baby purpose panda fix";

@@ -1,1 +1,1 @@
-var mnemonic = "inner cup detect slim file ritual industry replace spice sunny caught floor";
+var mnemonic = "idea patch nasty raise guide tiny feel reason heart clerk call dog";

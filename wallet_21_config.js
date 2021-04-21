@@ -1,1 +1,1 @@
-var mnemonic = "course acoustic foil hedgehog clever puppy piano sing shallow steel announce close";
+var mnemonic = "list initial original limit wave embody stamp stool polar tag plastic polar";

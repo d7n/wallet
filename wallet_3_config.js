@@ -1,1 +1,1 @@
-var mnemonic = "evolve resist accuse engage visual move actor dignity embody amount crack bike";
+var mnemonic = "lake kitchen chapter panda worry stable grape thunder tomato tilt cloud what";

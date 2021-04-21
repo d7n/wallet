@@ -1,1 +1,1 @@
-var mnemonic = "armor obey transfer dignity host proud cupboard three exhaust shaft return elephant";
+var mnemonic = "path stereo crunch thunder box relief office hello shadow frost drink rice";

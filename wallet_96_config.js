@@ -1,1 +1,1 @@
-var mnemonic = "matter cattle engine danger file idle jacket step season resource kit orchard";
+var mnemonic = "glove across spare this flat speak program general loyal simple horse found";

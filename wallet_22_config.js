@@ -1,1 +1,1 @@
-var mnemonic = "symbol sweet hotel become cat census wisdom pledge dizzy step again dance";
+var mnemonic = "shop alarm gift execute gift shed bike hip cost gasp airport chalk";

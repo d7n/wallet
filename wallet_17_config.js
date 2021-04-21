@@ -1,1 +1,1 @@
-var mnemonic = "visa van stomach smile bridge monitor decorate coffee oppose shuffle shell bundle";
+var mnemonic = "sibling sword coast junk stone asthma usual office farm arm online round";

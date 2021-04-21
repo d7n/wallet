@@ -1,1 +1,1 @@
-var mnemonic = "used leave siren enjoy junior bean future dinner bid brain ranch quiz";
+var mnemonic = "faint parade direct royal behave eight rude attend silent supreme stem extend";

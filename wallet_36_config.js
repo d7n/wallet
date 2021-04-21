@@ -1,1 +1,1 @@
-var mnemonic = "cabin sentence learn athlete jealous luggage lyrics victory burger enough layer bronze";
+var mnemonic = "oyster exit notice owner truth manual sign ability spatial security cliff during";

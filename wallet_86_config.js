@@ -1,1 +1,1 @@
-var mnemonic = "target type horse grab hen spare grant utility harvest city fine grape";
+var mnemonic = "dance vivid aunt alcohol syrup nature belt flower device dragon shy key";

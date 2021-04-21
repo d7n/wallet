@@ -1,1 +1,1 @@
-var mnemonic = "mix bulk lens shield prepare puppy artefact video just argue diesel muscle";
+var mnemonic = "then wage advice settle high tonight worry pencil celery angle amazing exercise";

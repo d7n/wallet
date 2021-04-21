@@ -1,1 +1,1 @@
-var mnemonic = "gasp discover mask asthma length soul demand fork copy cushion favorite mean";
+var mnemonic = "minute knee circle asset ivory awkward worry canyon mountain mom must talk";

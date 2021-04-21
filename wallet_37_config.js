@@ -1,1 +1,1 @@
-var mnemonic = "cover illness royal sauce mother corn ostrich gather garment youth you logic";
+var mnemonic = "modify tackle genius hungry swallow sleep appear october myth dose night ensure";

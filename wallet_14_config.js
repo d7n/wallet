@@ -1,1 +1,1 @@
-var mnemonic = "lecture bright arm milk jar bind net clock thunder fine cactus pipe";
+var mnemonic = "owner wrist alert blush pyramid hire sample seat special unique there prefer";

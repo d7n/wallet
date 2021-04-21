@@ -1,1 +1,1 @@
-var mnemonic = "renew ride crumble frown puzzle subway breeze rail income rigid point figure";
+var mnemonic = "fame roof gap firm lend shed mistake desert awake depend silk absurd";

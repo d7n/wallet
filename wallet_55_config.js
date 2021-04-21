@@ -1,1 +1,1 @@
-var mnemonic = "climb dove bird uphold during silent mention quantum swarm concert hotel inherit";
+var mnemonic = "mosquito lazy garden hazard mind surround ride knock awkward velvet spice detail";

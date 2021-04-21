@@ -1,1 +1,1 @@
-var mnemonic = "hole wisdom ride seek off error liar salon assist letter flock child";
+var mnemonic = "eyebrow exclude disorder dignity plug daughter cigar shine female quality stable eyebrow";

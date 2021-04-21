@@ -1,1 +1,1 @@
-var mnemonic = "run strong strike unlock father remain quit digital split celery ethics aware";
+var mnemonic = "wheat aunt chest isolate neck puzzle image fit copy final distance hedgehog";

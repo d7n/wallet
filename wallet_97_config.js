@@ -1,1 +1,1 @@
-var mnemonic = "travel album display situate such voyage edit horn romance episode devote knock";
+var mnemonic = "swift dash seat basket bomb retreat oxygen cattle wasp viable raw lady";

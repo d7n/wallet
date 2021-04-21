@@ -1,1 +1,1 @@
-var mnemonic = "flag issue junior drop nation repeat cherry lens sad boss ten glow";
+var mnemonic = "couple million modify fashion pave morning torch idea noise ranch paddle wait";

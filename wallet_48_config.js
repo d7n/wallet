@@ -1,1 +1,1 @@
-var mnemonic = "blood tail weird claw bench glue time tissue wide busy dawn hedgehog";
+var mnemonic = "brother distance sibling describe almost place recycle nut boring drastic video immense";

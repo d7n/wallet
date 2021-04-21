@@ -1,1 +1,1 @@
-var mnemonic = "melt about seminar scrap area busy forest dry donor mansion muffin celery";
+var mnemonic = "topple coil small poem kangaroo energy memory unfold pottery code ability piece";

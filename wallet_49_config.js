@@ -1,1 +1,1 @@
-var mnemonic = "chunk speak lecture detail sting dad smooth solution alien sting unlock two";
+var mnemonic = "anchor pluck range tail tenant nasty situate gate load crumble cigar owner";

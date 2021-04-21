@@ -1,1 +1,1 @@
-var mnemonic = "random daughter leader barely traffic final fitness damage mom brown soap vacuum";
+var mnemonic = "shrimp immune whale reopen pelican maximum moment visit use fire poem spoon";

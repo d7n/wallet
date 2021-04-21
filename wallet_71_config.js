@@ -1,1 +1,1 @@
-var mnemonic = "fit abstract atom provide start insane estate this spare need attend hamster";
+var mnemonic = "grunt physical curious tunnel canvas fetch cement rhythm jelly report suggest then";

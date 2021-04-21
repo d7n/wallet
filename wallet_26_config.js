@@ -1,1 +1,1 @@
-var mnemonic = "citizen giant multiply height school night mom guard panther arrow high fever";
+var mnemonic = "process average fuel tired enjoy shallow extra deliver upset nut width benefit";

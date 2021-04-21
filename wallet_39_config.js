@@ -1,1 +1,1 @@
-var mnemonic = "depart deputy render crop abandon glue early humble bring garment treat vehicle";
+var mnemonic = "divorce debris coyote pear agent hope present summer legal fine need chaos";

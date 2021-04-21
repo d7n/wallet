@@ -1,1 +1,1 @@
-var mnemonic = "trap float cactus snow leaf asset cluster april tattoo number stone life";
+var mnemonic = "ramp blood emerge cover calm decrease produce runway camp join burst champion";

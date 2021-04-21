@@ -1,1 +1,1 @@
-var mnemonic = "coil usual turtle spring gossip shine bronze ordinary armed square smooth boat";
+var mnemonic = "artwork bulk cream fringe cousin ugly filter option follow zoo love barrel";

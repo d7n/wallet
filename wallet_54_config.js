@@ -1,1 +1,1 @@
-var mnemonic = "soap entry depth mean party clean shoe filter path lounge choice scan";
+var mnemonic = "rather sadness mystery depart swallow opinion artefact tortoise demand upper cruise pave";

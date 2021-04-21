@@ -1,1 +1,1 @@
-var mnemonic = "february chase pudding deliver ordinary angle evidence scale engine razor near crack";
+var mnemonic = "car girl tortoise rookie cloud stairs deny light flash mesh brass category";

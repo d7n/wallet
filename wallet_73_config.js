@@ -1,1 +1,1 @@
-var mnemonic = "sense bread dirt swap furnace vote resemble meadow order tomato hair ginger";
+var mnemonic = "tide speak minimum essay fire task erupt tuna evoke frog busy clock";

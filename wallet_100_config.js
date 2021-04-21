@@ -1,1 +1,1 @@
-var mnemonic = "deer twist render pulp hole script spread romance brass bridge cross evidence";
+var mnemonic = "mix diet cup noble correct section habit antique notice segment myth coffee";

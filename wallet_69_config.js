@@ -1,1 +1,1 @@
-var mnemonic = "drip suffer thumb fan pioneer weekend grab cactus canvas price exclude bone";
+var mnemonic = "ticket wood indoor banana great fiction render income run invest already shield";

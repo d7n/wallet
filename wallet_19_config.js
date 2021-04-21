@@ -1,1 +1,1 @@
-var mnemonic = "shaft double sample similar broom solution armed eternal vessel remain cabin oil";
+var mnemonic = "pledge disagree smoke meadow alter famous aim trumpet struggle trial addict lecture";

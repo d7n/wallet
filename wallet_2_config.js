@@ -1,1 +1,1 @@
-var mnemonic = "onion tobacco express surround obtain donate close receive equal abuse enhance favorite";
+var mnemonic = "acoustic mask funny clarify pepper enter bicycle best feature treat junior fringe";

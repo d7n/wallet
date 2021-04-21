@@ -1,1 +1,1 @@
-var mnemonic = "cup online huge boil drastic argue share bounce focus grunt april ahead";
+var mnemonic = "carbon learn wish dirt guess side maximum hire volume alert alley liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch reward eager staff van sting ozone spawn lawsuit engage cotton bench";
+var mnemonic = "ranch noodle execute chalk knock tunnel hidden curtain olive body tortoise exact";

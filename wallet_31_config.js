@@ -1,1 +1,1 @@
-var mnemonic = "unfair shield vintage kick custom nature slab milk swift pupil pulse illness";
+var mnemonic = "burst found potato fortune voice more tornado hold clump logic join very";

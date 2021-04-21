@@ -1,1 +1,1 @@
-var mnemonic = "ocean staff federal round kick movie type odor explain equal smart stuff";
+var mnemonic = "tunnel else pull guide once ill radio portion glue giant manual size";

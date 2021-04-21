@@ -1,1 +1,1 @@
-var mnemonic = "paper robot shiver advice fade cause negative main panda wood wasp universe";
+var mnemonic = "boy food also raven moment amount amused casino derive script warfare pig";

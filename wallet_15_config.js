@@ -1,1 +1,1 @@
-var mnemonic = "list digital busy draw believe globe inform unfair wine season song render";
+var mnemonic = "mango despair mix twelve pass lucky liberty science style heart knock agree";

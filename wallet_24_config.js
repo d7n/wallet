@@ -1,1 +1,1 @@
-var mnemonic = "tag oval knife truck welcome ice owner yellow cross neither screen uncle";
+var mnemonic = "clown shed gloom step act police frame obscure fancy kid member kangaroo";

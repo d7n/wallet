@@ -1,1 +1,1 @@
-var mnemonic = "pull dragon transfer dog physical desert minor popular guard slice mirror energy";
+var mnemonic = "debris bunker supreme admit one gossip kiwi release account amazing round lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "method armor drive advice card shield ranch transfer balance calm hold light";
+var mnemonic = "awesome trouble sibling uphold shallow scissors bottom exhibit tilt parent crawl tide";

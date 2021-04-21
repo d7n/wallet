@@ -1,1 +1,1 @@
-var mnemonic = "kind cloth calm timber pattern daring strategy myth spike license time list";
+var mnemonic = "pioneer quote trap try sun skill mosquito silent employ kid parrot come";

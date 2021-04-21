@@ -1,1 +1,1 @@
-var mnemonic = "camera engage license decade prepare three wrap appear nerve nice pen render";
+var mnemonic = "tree smile latin ignore tool impose annual loud trim audit eager finish";

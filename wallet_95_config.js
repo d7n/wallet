@@ -1,1 +1,1 @@
-var mnemonic = "fever amazing service onion zone seven case lemon mixture rebuild certain glance";
+var mnemonic = "pledge provide mechanic engage option battle join calm sustain hunt mirror hen";

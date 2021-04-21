@@ -1,1 +1,1 @@
-var mnemonic = "enemy gown raw buyer rate mom desk provide journey glare moment hub";
+var mnemonic = "gate donor element nurse reduce indicate antique happy pledge pool unit brief";

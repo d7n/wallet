@@ -1,1 +1,1 @@
-var mnemonic = "man doll melt paddle fall either swim boss camera proud board always";
+var mnemonic = "proud wall guilt myth almost dinosaur siege jaguar taxi guitar typical dwarf";

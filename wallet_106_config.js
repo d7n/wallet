@@ -1,1 +1,1 @@
-var mnemonic = "emerge tape month april cereal faith hollow when able pudding dolphin vague";
+var mnemonic = "horn name replace nice change art drill pond mule pause that what";

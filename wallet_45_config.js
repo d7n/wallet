@@ -1,1 +1,1 @@
-var mnemonic = "mouse blind world traffic memory provide weasel barely join vicious alter ride";
+var mnemonic = "fury theme wood weapon split debris forget rule carry must target twist";

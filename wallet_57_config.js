@@ -1,1 +1,1 @@
-var mnemonic = "husband timber early where private text hidden alley jacket ridge accuse design";
+var mnemonic = "peasant wheat powder catalog soup anxiety fresh inform fatigue limit river convince";

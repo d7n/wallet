@@ -1,1 +1,1 @@
-var mnemonic = "clinic slush nation monkey endorse table auto suspect useful report system aspect";
+var mnemonic = "whisper opera eyebrow level distance test boost amused ocean hurt check vital";

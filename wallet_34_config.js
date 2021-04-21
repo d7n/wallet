@@ -1,1 +1,1 @@
-var mnemonic = "faith clinic panic daring fall gas adult choice champion fresh mobile width";
+var mnemonic = "smooth perfect magic swallow pause citizen argue helmet tobacco question buzz group";

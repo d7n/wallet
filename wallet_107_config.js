@@ -1,1 +1,1 @@
-var mnemonic = "found habit denial knee mammal sweet lemon velvet ask silver reflect lucky";
+var mnemonic = "garbage cigar castle right jacket element enough evil taxi desert shrug abstract";

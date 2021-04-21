@@ -1,1 +1,1 @@
-var mnemonic = "wheel trap print diamond fine destroy sell shallow giggle chase sunset voice";
+var mnemonic = "jar expire push region mixed audit afford seminar annual design sight parent";

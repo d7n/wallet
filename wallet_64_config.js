@@ -1,1 +1,1 @@
-var mnemonic = "cute tide maximum dinner zone humor record news renew monkey bike day";
+var mnemonic = "utility search smooth guess can strong glimpse craft such divert identify sand";

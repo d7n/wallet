@@ -1,1 +1,1 @@
-var mnemonic = "actor transfer only horn under pull tackle elevator chunk ankle front real";
+var mnemonic = "code race stairs hover suit nuclear truly olympic electric ostrich write educate";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich release report ready raw enrich fat fade midnight nature phone unlock";
+var mnemonic = "fun mobile end suggest party drastic prepare chest fork canyon civil law";

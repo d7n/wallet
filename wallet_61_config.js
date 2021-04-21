@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur surface ivory meat subway sport ahead address coconut monkey upper during";
+var mnemonic = "shop federal evidence dove crisp drip patch negative leader nuclear marriage sample";

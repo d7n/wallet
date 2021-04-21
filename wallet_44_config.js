@@ -1,1 +1,1 @@
-var mnemonic = "fancy flame truly timber surprise bracket maid where suggest melt anxiety usual";
+var mnemonic = "level job song remind charge liar fall praise response crush remain relax";

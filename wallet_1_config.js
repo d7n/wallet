@@ -1,1 +1,1 @@
-var mnemonic = "hawk cinnamon sick use patient alcohol garment comic evidence salmon shaft useful";
+var mnemonic = "rigid whip neglect cupboard bacon praise egg husband task inherit rose tragic";

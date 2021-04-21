@@ -1,1 +1,1 @@
-var mnemonic = "oxygen range fresh outdoor magnet choice typical flash culture valid maximum ball";
+var mnemonic = "aware gossip nose resist job crisp monkey bleak throw sustain soda flash";

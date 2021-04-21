@@ -1,1 +1,1 @@
-var mnemonic = "cycle since hawk seven what disease roof lizard credit travel garden pony";
+var mnemonic = "canal save zone bean clinic slot system canvas artefact fall quiz screen";

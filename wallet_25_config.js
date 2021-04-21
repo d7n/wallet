@@ -1,1 +1,1 @@
-var mnemonic = "aim symbol water unknown soap jazz chat cattle theory ranch name rookie";
+var mnemonic = "narrow illness page salad entry tool analyst bone until pyramid slow garment";

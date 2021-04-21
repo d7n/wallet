@@ -1,1 +1,1 @@
-var mnemonic = "waste snow village demise chimney asset skate load gravity vacuum among aunt";
+var mnemonic = "enhance ball myself wait exhibit prepare chicken stuff pull flash avoid labor";

@@ -1,1 +1,1 @@
-var mnemonic = "main patient fan design abuse manage quick income mail opera salon cradle";
+var mnemonic = "ugly canoe nation robust boring topic identify hover check replace pigeon prevent";

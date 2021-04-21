@@ -1,1 +1,1 @@
-var mnemonic = "manual episode power renew poet cotton girl secret exotic blanket rate empty";
+var mnemonic = "garlic virtual scene until avoid awesome blood enlist walk actual saddle nation";

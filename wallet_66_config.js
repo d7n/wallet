@@ -1,1 +1,1 @@
-var mnemonic = "side sense evolve motion arrive neither strategy tortoise arrive cushion once huge";
+var mnemonic = "capital amused poet bird apart appear power float season olympic sleep autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter member sight color artwork wave arch unfair deal pluck trash decrease";
+var mnemonic = "liar fabric female outdoor gesture surface grocery cancel private gas jewel kit";
