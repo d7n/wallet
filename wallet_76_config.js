@@ -1,1 +1,1 @@
-var mnemonic = "mystery thank father analyst pioneer film spread ecology session nose process rely";
+var mnemonic = "amazing orient evolve lizard west claim two coin news parrot soldier spare";

@@ -1,1 +1,1 @@
-var mnemonic = "steak churn job gym split network fiscal school level grid seed height";
+var mnemonic = "what pride access priority middle certain result sand ride quarter fuel talk";

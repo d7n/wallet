@@ -1,1 +1,1 @@
-var mnemonic = "human leopard edit saddle assault nurse first hope snap helmet fork size";
+var mnemonic = "auction swim fly crumble type link answer hill legal token hawk entire";

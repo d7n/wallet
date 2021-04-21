@@ -1,1 +1,1 @@
-var mnemonic = "spice fruit legal alarm please task matter deny affair mandate trade develop";
+var mnemonic = "purpose rhythm glide acid base scrub truly picnic street service blouse twenty";

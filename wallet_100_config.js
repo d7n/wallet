@@ -1,1 +1,1 @@
-var mnemonic = "stomach battle area cactus pluck alpha tissue illegal endorse latin knock when";
+var mnemonic = "tower high please mesh fiction rough ball prison relax lazy question before";

@@ -1,1 +1,1 @@
-var mnemonic = "novel accident finish disagree tobacco minute roof frost fresh snack jungle address";
+var mnemonic = "much roof donate blossom pet winter police asset price obey token render";

@@ -1,1 +1,1 @@
-var mnemonic = "output width ethics harbor pave culture alert primary oblige absent gauge feed";
+var mnemonic = "kingdom pull place casual puzzle rigid apology oval oak rate very team";

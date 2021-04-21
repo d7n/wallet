@@ -1,1 +1,1 @@
-var mnemonic = "lamp over neutral medal amateur rain accuse fresh adjust region tissue lounge";
+var mnemonic = "exile repair february young welcome rib disagree force earn hood will tobacco";

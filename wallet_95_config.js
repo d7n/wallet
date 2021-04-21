@@ -1,1 +1,1 @@
-var mnemonic = "curve happy annual embody garment ring owner ridge evolve raccoon drive expand";
+var mnemonic = "utility humor depend present erase bicycle slush jelly elbow real hour nephew";

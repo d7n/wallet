@@ -1,1 +1,1 @@
-var mnemonic = "hotel nature promote cake situate chimney senior office protect glad list pilot";
+var mnemonic = "hire immune sugar alone wreck benefit industry grass curious cradle same agent";

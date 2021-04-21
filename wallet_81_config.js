@@ -1,1 +1,1 @@
-var mnemonic = "giraffe cannon shove object six olive clog loan way reason pave awkward";
+var mnemonic = "wire crisp agent cereal opera poet pattern misery fury soldier nasty cart";

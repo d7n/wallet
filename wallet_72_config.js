@@ -1,1 +1,1 @@
-var mnemonic = "awkward team build picnic citizen bench manual acid urban spot barrel eagle";
+var mnemonic = "adapt artist page joke rescue eye shop danger father diet nest garbage";

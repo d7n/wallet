@@ -1,1 +1,1 @@
-var mnemonic = "hint piece prison steak rug casino tuition bracket peace logic raise gadget";
+var mnemonic = "uphold unlock trade again hero success page swarm track edge drift elite";

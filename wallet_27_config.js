@@ -1,1 +1,1 @@
-var mnemonic = "tell ahead style absent pulse room regret club elephant empty flash wagon";
+var mnemonic = "fence digital want large gap manage method taste stool put truth sniff";

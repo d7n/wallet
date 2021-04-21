@@ -1,1 +1,1 @@
-var mnemonic = "okay hollow iron endorse rapid elephant laugh ability whisper sadness trouble novel";
+var mnemonic = "perfect void firm element link runway candy tortoise tell skate update debris";

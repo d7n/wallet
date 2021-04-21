@@ -1,1 +1,1 @@
-var mnemonic = "blush siege major figure odor pond decade blood bamboo siren direct speak";
+var mnemonic = "vicious gospel put fashion flat estate polar bone palace mask salad diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "design orphan bulb reopen barrel adjust road doctor scrap space crime polar";
+var mnemonic = "response ethics wear adapt shell judge usage scan hobby moon diary swing";

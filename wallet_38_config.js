@@ -1,1 +1,1 @@
-var mnemonic = "vendor area assault learn leg summer author tilt rail artist neglect table";
+var mnemonic = "play chase alley slice room predict alpha add bachelor behind program live";

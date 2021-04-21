@@ -1,1 +1,1 @@
-var mnemonic = "work celery result impact similar chair rough ivory ride dinosaur front syrup";
+var mnemonic = "road hold peanut muffin ability waste what off agree gasp agent enough";

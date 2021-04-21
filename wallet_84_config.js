@@ -1,1 +1,1 @@
-var mnemonic = "accuse silly snow scrap hospital hazard joy pattern oven water print dilemma";
+var mnemonic = "melody bird regular flame idle rookie monster text craft staff figure patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "century school today legend disagree promote increase wise child rotate pottery enforce";
+var mnemonic = "before mutual document swarm earn can alpha innocent smoke quality become venue";

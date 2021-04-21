@@ -1,1 +1,1 @@
-var mnemonic = "sibling brush still sock ugly because either vote picnic degree lumber float";
+var mnemonic = "pool latin guitar become depend advice speed what cash tide sting bonus";

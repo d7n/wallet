@@ -1,1 +1,1 @@
-var mnemonic = "pretty spread tool eager shrug embody time buddy picture cargo wing company";
+var mnemonic = "worry unable common pioneer camp cattle soon park danger february view arrange";

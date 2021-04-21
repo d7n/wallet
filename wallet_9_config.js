@@ -1,1 +1,1 @@
-var mnemonic = "pipe need chalk aerobic smart plunge bleak demise collect balcony oval chapter";
+var mnemonic = "west lecture lumber funny empty estate outside please update sponsor blame round";

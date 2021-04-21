@@ -1,1 +1,1 @@
-var mnemonic = "surprise ramp drum keep night argue valid social elevator inch symptom cream";
+var mnemonic = "gadget purpose grit equal solve card net such height guard crucial marriage";

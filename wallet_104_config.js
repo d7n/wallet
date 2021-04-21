@@ -1,1 +1,1 @@
-var mnemonic = "verb couple gain someone echo expire fix trial rely explain involve submit";
+var mnemonic = "cloth record live sausage black below require phrase dawn ethics drop grain";

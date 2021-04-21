@@ -1,1 +1,1 @@
-var mnemonic = "denial image isolate panic rib friend above distance clinic able any shell";
+var mnemonic = "educate police rather giggle fame three any excuse enrich occur change traffic";

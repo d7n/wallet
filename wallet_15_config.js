@@ -1,1 +1,1 @@
-var mnemonic = "nothing budget parent toilet eternal ill track squeeze wink stable chimney basic";
+var mnemonic = "infant second juice man swallow culture arrow magic tiger choose culture oxygen";

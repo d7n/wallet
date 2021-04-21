@@ -1,1 +1,1 @@
-var mnemonic = "lyrics release south coyote miss acquire witness camp moment suffer share always";
+var mnemonic = "element diet typical love drum aunt mad expire year right safe harbor";

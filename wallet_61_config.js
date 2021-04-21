@@ -1,1 +1,1 @@
-var mnemonic = "source asset erode gospel kingdom bacon bottom final total machine trip quit";
+var mnemonic = "celery afraid ask over decide space forum fame skate outside holiday quiz";

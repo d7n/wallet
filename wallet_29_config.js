@@ -1,1 +1,1 @@
-var mnemonic = "author blue excite myself damp sweet give now collect three apple artefact";
+var mnemonic = "filter seed essay frequent nut protect behind drink disagree nose road bitter";

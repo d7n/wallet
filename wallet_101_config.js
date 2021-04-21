@@ -1,1 +1,1 @@
-var mnemonic = "during know credit nothing stove cool crucial jar fold bubble enter piano";
+var mnemonic = "vehicle labor strike grief door curve meat document morning valve fly blur";

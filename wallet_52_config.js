@@ -1,1 +1,1 @@
-var mnemonic = "mirror sphere couch outside narrow age stable toward grab door already blade";
+var mnemonic = "left upon mimic assist favorite earth damage tower voice month heart alcohol";

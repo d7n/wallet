@@ -1,1 +1,1 @@
-var mnemonic = "critic extend oil ice frequent approve spin discover pilot food dial kangaroo";
+var mnemonic = "wrong symbol actual tent air wide ostrich kitchen hair wheel ginger dizzy";

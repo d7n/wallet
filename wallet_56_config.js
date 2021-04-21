@@ -1,1 +1,1 @@
-var mnemonic = "february main erase food benefit rough action attack clown impact age valve";
+var mnemonic = "crack unaware brand lion cat antenna salt knock act gather renew umbrella";

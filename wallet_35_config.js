@@ -1,1 +1,1 @@
-var mnemonic = "fresh rocket parade proof glass lend wine hub dream giggle nurse clean";
+var mnemonic = "price horror mad volcano suit clap smile ugly ten agree define mobile";

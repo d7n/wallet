@@ -1,1 +1,1 @@
-var mnemonic = "used story electric festival sheriff enhance pact robot couple inside neck state";
+var mnemonic = "comic inmate endorse glance punch inherit blast idle warfare glue best into";

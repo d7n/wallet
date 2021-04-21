@@ -1,1 +1,1 @@
-var mnemonic = "curtain double enrich saddle elephant snap law ring jeans kidney impulse bitter";
+var mnemonic = "enter interest more blame clarify extend panther coconut artwork finish assist derive";

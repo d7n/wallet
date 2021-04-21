@@ -1,1 +1,1 @@
-var mnemonic = "milk pulse rain original miracle mouse runway razor cat design scout wagon";
+var mnemonic = "penalty slogan minimum gasp couple engine life artwork help weekend spring amused";

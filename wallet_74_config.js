@@ -1,1 +1,1 @@
-var mnemonic = "hidden struggle fetch lab day depth gold gravity position require tooth barely";
+var mnemonic = "excite attitude business casual eyebrow tide retreat cabbage print doctor steel wage";

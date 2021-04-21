@@ -1,1 +1,1 @@
-var mnemonic = "dirt plastic light before blanket chaos together robust cigar uniform slow hen";
+var mnemonic = "mind increase screen light opera festival rose either want knock must dawn";

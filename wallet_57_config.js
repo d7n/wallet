@@ -1,1 +1,1 @@
-var mnemonic = "rubber urge couple analyst bottom antique multiply elite veteran legal rule figure";
+var mnemonic = "elevator become crime grocery forest chapter process cannon salt morning blouse rotate";

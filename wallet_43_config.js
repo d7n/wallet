@@ -1,1 +1,1 @@
-var mnemonic = "swarm giraffe help narrow used caution unique file vintage aim swift leaf";
+var mnemonic = "trophy lyrics card despair surprise bacon ocean torch excess change friend short";

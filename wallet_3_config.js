@@ -1,1 +1,1 @@
-var mnemonic = "tortoise all foot relax divide opera easily quiz disorder topic own deny";
+var mnemonic = "seek clump milk permit donor wrist topple same science profit undo hotel";

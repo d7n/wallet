@@ -1,1 +1,1 @@
-var mnemonic = "coyote magic entire bacon team soul device enroll boil oblige polar spell";
+var mnemonic = "fat volume reflect reason put blue unlock cradle electric wool caution dice";

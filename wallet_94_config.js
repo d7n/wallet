@@ -1,1 +1,1 @@
-var mnemonic = "dose canyon witness usual urban later inside like ladder awake uncle method";
+var mnemonic = "snap skirt identify say mechanic wife inject hurt tank biology awake awful";

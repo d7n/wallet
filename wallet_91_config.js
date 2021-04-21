@@ -1,1 +1,1 @@
-var mnemonic = "trophy vital virtual merge sugar aisle purse genuine silly game together learn";
+var mnemonic = "forget symptom impact evil predict voyage empower cargo debris middle creek neck";

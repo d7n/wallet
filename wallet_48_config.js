@@ -1,1 +1,1 @@
-var mnemonic = "flag oval couple survey sound enter exist during omit cherry foam all";
+var mnemonic = "mule expect zoo maid sock skull slot clever level surface wreck blade";

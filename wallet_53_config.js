@@ -1,1 +1,1 @@
-var mnemonic = "admit limb cattle banner smart cart bullet deny praise effort require leave";
+var mnemonic = "soft conduct nephew air length own digital prize sentence pledge festival cabin";

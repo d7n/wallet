@@ -1,1 +1,1 @@
-var mnemonic = "pink easy example leopard valid again indoor cigar layer fiction exact silly";
+var mnemonic = "belt number antenna nature push essay blame kind ankle squirrel display devote";

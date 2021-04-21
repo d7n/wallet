@@ -1,1 +1,1 @@
-var mnemonic = "keen keep danger summer pony mail hotel crime city champion hybrid ensure";
+var mnemonic = "tortoise battle naive federal night human gesture stock sand jaguar dash mask";

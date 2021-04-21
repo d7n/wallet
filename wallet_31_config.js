@@ -1,1 +1,1 @@
-var mnemonic = "guide egg olympic ceiling couple fun draft initial laundry quality name path";
+var mnemonic = "mirror ship noise interest ceiling olympic jacket cigar normal prison west twelve";

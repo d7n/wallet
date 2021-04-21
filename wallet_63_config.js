@@ -1,1 +1,1 @@
-var mnemonic = "scale risk purity sphere first unique believe twelve nature witness trick pigeon";
+var mnemonic = "where devote appear useful run clump license uncle enhance napkin about march";

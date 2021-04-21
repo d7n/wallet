@@ -1,1 +1,1 @@
-var mnemonic = "green spider awkward vintage trumpet imitate hat anchor flight scorpion seek maze";
+var mnemonic = "middle hunt whale fan clean latin body anchor car trap nurse nasty";

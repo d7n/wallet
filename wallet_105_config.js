@@ -1,1 +1,1 @@
-var mnemonic = "stuff parrot idle harbor increase twin vacuum carry cradle swift property pelican";
+var mnemonic = "day receive label burden fatigue romance learn kiss siren such space harbor";

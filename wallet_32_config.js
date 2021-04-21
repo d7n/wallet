@@ -1,1 +1,1 @@
-var mnemonic = "hamster equip shuffle garlic blur lady demise peasant planet quantum network trophy";
+var mnemonic = "seat kite ranch discover catch music rival survey belt bronze team decade";

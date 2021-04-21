@@ -1,1 +1,1 @@
-var mnemonic = "better girl drop furnace typical minor hill girl brave stable during allow";
+var mnemonic = "soup page bid staff comfort thought connect canal habit skull smoke ugly";

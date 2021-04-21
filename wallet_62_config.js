@@ -1,1 +1,1 @@
-var mnemonic = "rebel key scrap exchange canal ranch phrase double super fade trip rocket";
+var mnemonic = "find course deposit like focus artist spot draft logic tennis click curious";

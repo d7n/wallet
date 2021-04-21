@@ -1,1 +1,1 @@
-var mnemonic = "fury case prison census control athlete element convince demise diesel cliff chest";
+var mnemonic = "farm hair whisper bomb awful please access venue field arctic area tank";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol abuse carry stem team body sudden gadget neck blast way mountain";
+var mnemonic = "parrot senior rifle glue peace swing prison debate large where length toy";

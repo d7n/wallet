@@ -1,1 +1,1 @@
-var mnemonic = "over bless lawsuit rare local friend drum twin often shaft use utility";
+var mnemonic = "physical settle dismiss normal century helmet fix mad vapor trim vicious floor";

@@ -1,1 +1,1 @@
-var mnemonic = "toe journey easily practice adapt kidney success bright tuna cool water pride";
+var mnemonic = "abstract pond boy swamp vital ask eyebrow emotion stock baby poet mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "board spot coffee street common lecture impact engine couple smooth burden farm";
+var mnemonic = "rally drink shrug outdoor wear demise shoulder bright opinion shed net wait";

@@ -1,1 +1,1 @@
-var mnemonic = "sister tired extend april any vintage legal ramp side cube depart gospel";
+var mnemonic = "grant boil decline either dance glass oven core idle mosquito erupt proof";

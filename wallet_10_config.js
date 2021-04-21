@@ -1,1 +1,1 @@
-var mnemonic = "genre coil crater board tonight air swap rotate observe oxygen trouble better";
+var mnemonic = "stove amateur marble caught clinic object erode faith child adapt onion empty";

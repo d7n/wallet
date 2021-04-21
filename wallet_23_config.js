@@ -1,1 +1,1 @@
-var mnemonic = "crop false venture clerk parent meat donate reflect short change strong armed";
+var mnemonic = "into dwarf promote nut drum upset virtual spell person crisp evil injury";

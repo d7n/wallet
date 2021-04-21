@@ -1,1 +1,1 @@
-var mnemonic = "helmet snake online normal chicken dirt review panther alley wise tuna exclude";
+var mnemonic = "receive label marble wisdom word install jazz pottery cricket family forward pass";

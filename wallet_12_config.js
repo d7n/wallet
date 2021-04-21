@@ -1,1 +1,1 @@
-var mnemonic = "coin cloud inflict repair sell paper segment casino sunny oil absorb trumpet";
+var mnemonic = "spider rule stone mention hub luxury attract captain ripple secret slim pact";

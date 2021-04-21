@@ -1,1 +1,1 @@
-var mnemonic = "dolphin hazard chuckle name parent rapid bomb blade oven portion zoo public";
+var mnemonic = "bomb text used fever tonight maid ticket purity mirror remind miracle under";

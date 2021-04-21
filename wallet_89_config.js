@@ -1,1 +1,1 @@
-var mnemonic = "someone they stumble flag shield tail uphold warfare minor off wink goddess";
+var mnemonic = "machine wait curious devote faith square theory crisp rain way olive analyst";

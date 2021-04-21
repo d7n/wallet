@@ -1,1 +1,1 @@
-var mnemonic = "mystery machine alarm custom token weasel crime shift used balance birth neither";
+var mnemonic = "ritual recipe income wrist record parent three glue wear various rib index";

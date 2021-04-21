@@ -1,1 +1,1 @@
-var mnemonic = "frozen art office cement frame quantum immune group awesome plunge ride begin";
+var mnemonic = "ivory reason hospital diary lazy story recall liquid cake sketch because torch";

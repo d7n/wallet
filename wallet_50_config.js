@@ -1,1 +1,1 @@
-var mnemonic = "notice turn face settle music tape trim tattoo decline keep artefact clutch";
+var mnemonic = "adult october fiscal hotel bean frown six genius obey biology lock chair";

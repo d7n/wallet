@@ -1,1 +1,1 @@
-var mnemonic = "trouble bitter eternal fold common junior coil wisdom true theme engine social";
+var mnemonic = "grant trap false carbon flower tooth wink polar sock anchor truck food";

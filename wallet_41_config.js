@@ -1,1 +1,1 @@
-var mnemonic = "water turkey library fox manual side cheap unlock addict castle wink typical";
+var mnemonic = "sock blush tobacco roof bike potato slight noble buddy adult enough pond";

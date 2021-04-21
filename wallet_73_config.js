@@ -1,1 +1,1 @@
-var mnemonic = "rival guitar useless find cabbage correct pizza stem nerve universe jump cute";
+var mnemonic = "culture absurd smile cement hobby inquiry plastic relief design economy kite arrow";

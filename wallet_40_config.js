@@ -1,1 +1,1 @@
-var mnemonic = "tourist negative embody length neglect survey seed logic cupboard defy boil neither";
+var mnemonic = "fortune vacuum sound prefer response donor laptop stadium laundry diagram admit orange";

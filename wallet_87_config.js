@@ -1,1 +1,1 @@
-var mnemonic = "plastic amateur caution relief assist lab rotate mango squirrel flash assume weekend";
+var mnemonic = "battle target someone scissors bulk gauge unfold buzz quiz taste slot wash";

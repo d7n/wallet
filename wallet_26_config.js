@@ -1,1 +1,1 @@
-var mnemonic = "predict meadow alter chicken urge coffee fiscal public van fence more december";
+var mnemonic = "pilot allow quick exotic dice echo parent opinion inhale volume math youth";

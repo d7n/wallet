@@ -1,1 +1,1 @@
-var mnemonic = "swallow there isolate erupt swing hidden security apple couple butter crumble peanut";
+var mnemonic = "apology write stairs mimic sell pig curve couple library roast limit forward";

@@ -1,1 +1,1 @@
-var mnemonic = "humor empower country skull either hover gadget quantum quote bitter tackle legal";
+var mnemonic = "alcohol monkey solid crush hub embrace matter clever sense bleak whip bracket";

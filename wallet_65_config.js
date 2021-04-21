@@ -1,1 +1,1 @@
-var mnemonic = "special hint creek glow cart offer budget donate frog soup black siege";
+var mnemonic = "kiwi myself wash razor mother whisper pledge century minimum inhale end laugh";

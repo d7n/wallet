@@ -1,1 +1,1 @@
-var mnemonic = "genius picnic smooth vital worth calm unable arch toe junk brisk dentist";
+var mnemonic = "rough heart figure brain cabbage spoil clap unable kiwi word dolphin someone";

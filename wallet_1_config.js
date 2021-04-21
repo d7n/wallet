@@ -1,1 +1,1 @@
-var mnemonic = "chaos lake innocent luxury frozen nose spell arrest retreat source arctic drama";
+var mnemonic = "betray cupboard cross smile daring night special brief palace sense normal total";

@@ -1,1 +1,1 @@
-var mnemonic = "sad knock almost split beef actor cancel magic orbit danger room orange";
+var mnemonic = "toss wife level surprise twin panther outside cradle shuffle list yard kangaroo";

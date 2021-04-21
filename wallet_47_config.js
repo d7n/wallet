@@ -1,1 +1,1 @@
-var mnemonic = "oppose fine luggage face junk often fringe arrive sad aim call excuse";
+var mnemonic = "will service kiss noise slim sponsor trade lumber nephew jelly stomach raise";

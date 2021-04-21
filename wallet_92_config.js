@@ -1,1 +1,1 @@
-var mnemonic = "grant clerk enhance skate insane episode van goat leopard umbrella act dynamic";
+var mnemonic = "truly coin shuffle upset antique blue forest tent stamp sleep bachelor shop";

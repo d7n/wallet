@@ -1,1 +1,1 @@
-var mnemonic = "check prepare water dutch trophy execute unhappy okay uncle column vocal marriage";
+var mnemonic = "antenna bus feed broom muffin season license inject spatial current slice grain";

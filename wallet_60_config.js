@@ -1,1 +1,1 @@
-var mnemonic = "hip mountain plug loop mountain process load cause dumb buddy detail hurt";
+var mnemonic = "divert cloth convince open romance extra hole live panic garlic pulp strategy";

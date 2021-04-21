@@ -1,1 +1,1 @@
-var mnemonic = "sibling enlist squeeze vacant stable amateur between spell alarm entry surround hero";
+var mnemonic = "athlete essence mistake rally talk hello accuse tank blue dynamic bomb pole";

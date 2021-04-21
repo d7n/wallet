@@ -1,1 +1,1 @@
-var mnemonic = "dish faint hint aisle humor blade neither eight brick layer spoon glimpse";
+var mnemonic = "divide drive lunar tuition extend mountain rate brief pottery limit pet topple";
