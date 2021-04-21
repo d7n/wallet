@@ -1,1 +1,1 @@
-var mnemonic = "science gravity finger idle suit rule scrap ivory neither rate toilet purchase";
+var mnemonic = "surge toilet cage glass pluck ignore power amateur owner useless merit number";

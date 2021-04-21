@@ -1,1 +1,1 @@
-var mnemonic = "decrease super hard virus rent profit project system capable twice shock punch";
+var mnemonic = "announce economy cushion measure vehicle vote account mail enroll search build kit";

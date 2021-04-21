@@ -1,1 +1,1 @@
-var mnemonic = "ritual torch student skull valley coral defense guide sweet fatal alien someone";
+var mnemonic = "exile emerge bone quarter yard above taste whisper harsh juice tragic assault";

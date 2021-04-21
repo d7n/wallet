@@ -1,1 +1,1 @@
-var mnemonic = "denial memory diesel tag sail only enhance athlete march tiger access derive";
+var mnemonic = "girl enact tiger guitar yard absorb best verb bonus point pluck drip";

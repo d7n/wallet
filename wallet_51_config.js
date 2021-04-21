@@ -1,1 +1,1 @@
-var mnemonic = "message frequent maze scorpion insect shove despair control equip diet affair capital";
+var mnemonic = "more shed wash online helmet light capable maple wall pear moral around";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster lottery trumpet letter cable rebel scene carry kind power grief disorder";
+var mnemonic = "thunder rough open oak insane cricket dry often general direct cherry youth";

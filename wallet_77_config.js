@@ -1,1 +1,1 @@
-var mnemonic = "army position spawn love reflect winner bulk jazz lyrics meadow arena orphan";
+var mnemonic = "tuna bargain anchor stadium arm divert color design library skate hen veteran";

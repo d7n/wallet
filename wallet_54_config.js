@@ -1,1 +1,1 @@
-var mnemonic = "illegal camera wagon pear opera spatial armor audit devote flip jacket keep";
+var mnemonic = "liberty leopard initial opera venture admit hill grape rude kidney indicate search";

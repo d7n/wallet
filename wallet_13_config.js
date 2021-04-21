@@ -1,1 +1,1 @@
-var mnemonic = "obscure hub lava attend recall element allow roof mammal kitten pulp trophy";
+var mnemonic = "mirror orbit reunion cream speed bachelor still desk cave rich debris minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "payment emerge prison scare grab spring seminar multiply taxi capable penalty drift";
+var mnemonic = "coral legend elegant grab promote wise grief under harsh crew route shuffle";

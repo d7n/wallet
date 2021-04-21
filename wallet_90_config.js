@@ -1,1 +1,1 @@
-var mnemonic = "wolf onion wheel express shoe suffer fetch waste bundle useless cancel word";
+var mnemonic = "slim review moon radio truth car little auction debris quit true report";

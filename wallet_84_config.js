@@ -1,1 +1,1 @@
-var mnemonic = "text indoor receive direct unable rent dignity absurd start immense sibling gold";
+var mnemonic = "labor exchange solve winter cheap entire list verify brown purity indoor exhaust";

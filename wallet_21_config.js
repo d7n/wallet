@@ -1,1 +1,1 @@
-var mnemonic = "retire excuse please hurdle bird region wine aisle autumn choice cargo version";
+var mnemonic = "twice honey seven vendor document okay rubber grocery enable position angry bracket";

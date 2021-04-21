@@ -1,1 +1,1 @@
-var mnemonic = "engage speak enrich rival entry pond organ join error fan rate chaos";
+var mnemonic = "curve destroy current clean crisp risk injury broom dwarf system people elephant";

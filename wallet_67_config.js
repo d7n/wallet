@@ -1,1 +1,1 @@
-var mnemonic = "nest song typical maze mango allow stadium salt inmate tone nuclear turtle";
+var mnemonic = "blossom brush path match egg habit strike poet diary sauce pluck talent";

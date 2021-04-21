@@ -1,1 +1,1 @@
-var mnemonic = "various cat lift bind sudden claim lunch until mansion bracket modify post";
+var mnemonic = "elegant tower wheel august busy alarm canyon pole burst pill together brother";

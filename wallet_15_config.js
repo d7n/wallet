@@ -1,1 +1,1 @@
-var mnemonic = "child announce happy discover total setup rather gasp keen stick detail guard";
+var mnemonic = "critic deer shrug mask buyer fog rubber monitor mesh weird merit tornado";

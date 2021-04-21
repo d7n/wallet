@@ -1,1 +1,1 @@
-var mnemonic = "gauge mom goose rural erosion rebuild rely bitter flower truth south undo";
+var mnemonic = "machine bacon distance confirm rubber clock lab entry antenna air tooth settle";

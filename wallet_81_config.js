@@ -1,1 +1,1 @@
-var mnemonic = "legal medal bargain earth desert pulp glare harsh shallow wait fit reason";
+var mnemonic = "bracket link lock salt hungry essence armed flame diet cat place raise";

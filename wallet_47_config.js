@@ -1,1 +1,1 @@
-var mnemonic = "leader elbow wealth spy chef arrange smile monitor wreck turtle human voyage";
+var mnemonic = "laptop flight attack shop asset grit thrive viable frame destroy gaze sand";

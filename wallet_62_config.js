@@ -1,1 +1,1 @@
-var mnemonic = "stove spider coyote car general soda scrap urban device roof garbage purity";
+var mnemonic = "smooth case dust rule please prepare vote pupil pet record solution surface";

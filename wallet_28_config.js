@@ -1,1 +1,1 @@
-var mnemonic = "gospel green woman hat summer demise observe casino cactus uncover visual purse";
+var mnemonic = "limb slush true tube axis novel tide nominee clump anchor envelope relief";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter truck aerobic reduce exhaust notable fame syrup magic fruit orchard own";
+var mnemonic = "violin reveal athlete material step few wrong hen family session gather ship";

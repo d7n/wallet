@@ -1,1 +1,1 @@
-var mnemonic = "husband fault joke helmet jaguar dignity era current panda sustain require awful";
+var mnemonic = "found next affair bulb feel almost fade tiny divorce dolphin rug all";

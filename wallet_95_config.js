@@ -1,1 +1,1 @@
-var mnemonic = "author option monitor glory deposit hint age more clerk razor state you";
+var mnemonic = "crop gadget borrow bleak property assault adapt invite surprise avoid strike return";

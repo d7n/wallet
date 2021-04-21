@@ -1,1 +1,1 @@
-var mnemonic = "baby foil require imitate book gap lunar human virtual own barely true";
+var mnemonic = "gaze rule novel degree song odor awake metal apple pony cricket edit";

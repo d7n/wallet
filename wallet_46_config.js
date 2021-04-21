@@ -1,1 +1,1 @@
-var mnemonic = "mention scene minor evoke faith wood nation own adapt south depend today";
+var mnemonic = "boat polar nest tackle grab match hedgehog team amount potato ball okay";

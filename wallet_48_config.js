@@ -1,1 +1,1 @@
-var mnemonic = "program unique seat tenant humble body cousin argue own silk seek during";
+var mnemonic = "ring oyster vehicle clip face east lend camp ring envelope inherit abandon";

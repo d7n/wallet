@@ -1,1 +1,1 @@
-var mnemonic = "huge wink grass siren victory slab body obey bar fee control antique";
+var mnemonic = "spatial because battle bachelor elevator initial fan nation burst image weasel poet";

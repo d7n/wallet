@@ -1,1 +1,1 @@
-var mnemonic = "wild bind actor wood evidence sun leader thumb chuckle just scissors advice";
+var mnemonic = "track wild group apple cloud invest teach knee girl pig source cliff";

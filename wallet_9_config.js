@@ -1,1 +1,1 @@
-var mnemonic = "forum dial invest tragic sudden surface truck usage impose dentist thumb page";
+var mnemonic = "job mushroom flower genius angry item such assume useful token permit kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "knee puppy hood fancy ride enroll manual soccer rent flip infant asthma";
+var mnemonic = "base sing wonder rubber kitten umbrella april rebuild tattoo artist scorpion asthma";

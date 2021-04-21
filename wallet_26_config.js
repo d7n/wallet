@@ -1,1 +1,1 @@
-var mnemonic = "lounge fold adult fish advice sponsor glory six stage deny census sport";
+var mnemonic = "inform able dry slogan either congress screen broken decrease drastic venue buyer";

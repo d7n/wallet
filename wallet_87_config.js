@@ -1,1 +1,1 @@
-var mnemonic = "major immune carpet alert mystery atom document remain keen congress extra miss";
+var mnemonic = "cycle excuse enable street satisfy aspect steel dash junior tiny tree feel";

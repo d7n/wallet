@@ -1,1 +1,1 @@
-var mnemonic = "manage discover wage magnet airport prison crime upon disagree fame follow favorite";
+var mnemonic = "wave grass cruel language balance elephant later fix sail vague access novel";

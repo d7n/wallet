@@ -1,1 +1,1 @@
-var mnemonic = "bitter clerk proud cage toast riot globe chicken moon badge among calm";
+var mnemonic = "tiger grace trophy label tissue treat core retire cry hotel glove security";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile expect lazy life cube neck turkey cruise story zero output fruit";
+var mnemonic = "start inherit letter cheap cargo exhibit axis region weather satisfy help walk";

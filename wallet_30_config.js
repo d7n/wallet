@@ -1,1 +1,1 @@
-var mnemonic = "dash convince sing account skate coconut clap tooth half topic invite test";
+var mnemonic = "hover hundred crouch gloom blouse rigid life wink flee primary drastic pull";

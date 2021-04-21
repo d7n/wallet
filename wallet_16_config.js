@@ -1,1 +1,1 @@
-var mnemonic = "gossip reduce figure salad salt ostrich piano puzzle hybrid camera relax basket";
+var mnemonic = "split dizzy adult live rocket emerge deputy reflect length regular nasty husband";

@@ -1,1 +1,1 @@
-var mnemonic = "equal ignore fruit fitness loud catch cost few spend crouch panther memory";
+var mnemonic = "security lady network core mention picnic symbol grow repeat machine spare stuff";

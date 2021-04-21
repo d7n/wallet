@@ -1,1 +1,1 @@
-var mnemonic = "damage error maximum nut truly chalk random orange labor train make energy";
+var mnemonic = "token example guess fold post credit siren promote artist slight maid jacket";

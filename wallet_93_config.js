@@ -1,1 +1,1 @@
-var mnemonic = "ready chat glove oppose wish mixed clock sustain coffee know pill waste";
+var mnemonic = "suggest dinner coast antique interest sibling laundry trophy possible emotion love trick";

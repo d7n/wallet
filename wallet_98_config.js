@@ -1,1 +1,1 @@
-var mnemonic = "trap story sort limb code one melody violin host nest barrel lake";
+var mnemonic = "bike infant stone broom photo day brisk wire drastic spray waste piece";

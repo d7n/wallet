@@ -1,1 +1,1 @@
-var mnemonic = "style subway such camera ski wear lake family tortoise auction panda saddle";
+var mnemonic = "own typical state wait pizza mountain orphan hill dismiss fiscal between mesh";

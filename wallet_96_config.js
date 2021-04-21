@@ -1,1 +1,1 @@
-var mnemonic = "absurd orient oven salute desert puppy copper beef junior duck tent adjust";
+var mnemonic = "tiny before calm element slice bicycle label captain trade model try bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence praise learn want rely fall punch slight century lunar various media";
+var mnemonic = "arrow end hundred decline miss error merit gaze cycle rebuild multiply mouse";

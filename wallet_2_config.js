@@ -1,1 +1,1 @@
-var mnemonic = "sustain bottom hub that stay slim exhaust seven column siege fragile fold";
+var mnemonic = "innocent keep sea silver clump coffee detect peace home attack monitor act";

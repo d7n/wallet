@@ -1,1 +1,1 @@
-var mnemonic = "boss moral hospital pluck object label source shuffle practice lucky february month";
+var mnemonic = "comic short chase office relax segment rely tape attend fire capable wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "junior family fresh autumn wing only gas twenty ecology orphan identify debris";
+var mnemonic = "oxygen initial tip flame panel edit dash lemon pioneer tornado sail current";

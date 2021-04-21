@@ -1,1 +1,1 @@
-var mnemonic = "moon oxygen nuclear acoustic man leg vicious used gossip gun vast worry";
+var mnemonic = "blush pear say father emerge bunker plastic narrow add crime wide enrich";

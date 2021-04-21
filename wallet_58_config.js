@@ -1,1 +1,1 @@
-var mnemonic = "dog force pool hip twenty scissors hill trophy unusual bless demand scatter";
+var mnemonic = "become road decade wash identify tray fitness exchange fluid twist foil trust";

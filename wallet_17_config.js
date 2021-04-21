@@ -1,1 +1,1 @@
-var mnemonic = "calm where swing cinnamon lobster eight require achieve illness over novel people";
+var mnemonic = "repeat error tourist please advance ask already orchard assist result luggage next";

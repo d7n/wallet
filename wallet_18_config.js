@@ -1,1 +1,1 @@
-var mnemonic = "quit usual sponsor legal penalty borrow antenna message bicycle powder fuel miss";
+var mnemonic = "also poem regular diagram garbage initial song earth alone depart regret exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "patch heart pipe theory penalty detect name thought ignore blur blouse link";
+var mnemonic = "steel bread possible glad quit sorry tattoo broken ice dynamic host blood";

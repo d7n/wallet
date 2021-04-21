@@ -1,1 +1,1 @@
-var mnemonic = "knife easily edge width rate own laugh field pen pupil toast enable";
+var mnemonic = "victory skull page arrange wagon make host mimic city shed increase harvest";

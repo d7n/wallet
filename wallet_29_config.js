@@ -1,1 +1,1 @@
-var mnemonic = "spawn shop embody agree crop young ramp desk twin vague next upon";
+var mnemonic = "staff lucky extra chase advance real coin keen safe kiss frown only";

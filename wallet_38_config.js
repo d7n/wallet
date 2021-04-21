@@ -1,1 +1,1 @@
-var mnemonic = "anger error voyage gaze hedgehog live bargain day choose park salad design";
+var mnemonic = "tattoo one survey finger smooth tube anxiety trophy poet congress mutual staff";

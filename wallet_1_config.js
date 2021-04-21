@@ -1,1 +1,1 @@
-var mnemonic = "among army act catalog state attitude fork force acquire warfare reflect sight";
+var mnemonic = "gravity until foil chapter innocent horse letter solid poem scatter market brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "amused faith warrior top clutch first excess napkin erode grocery lounge clog";
+var mnemonic = "search pelican trade cinnamon input elegant vacuum desk okay gadget gravity toy";

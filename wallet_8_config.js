@@ -1,1 +1,1 @@
-var mnemonic = "february remember iron family maze update track upon talent dinosaur since response";
+var mnemonic = "bless sock woman blush plate sheriff open hawk sort sign catalog hurt";

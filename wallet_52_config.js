@@ -1,1 +1,1 @@
-var mnemonic = "royal tuna seed hurdle benefit lumber attract attract pattern master panel adult";
+var mnemonic = "mouse glimpse actor defense virus clay sock chair assist camera vessel broken";

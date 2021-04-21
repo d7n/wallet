@@ -1,1 +1,1 @@
-var mnemonic = "kit prison fiscal scrap loyal trophy flat version bamboo parrot glide bind";
+var mnemonic = "office release walk potato chair shuffle clerk pelican notable grit gasp craft";

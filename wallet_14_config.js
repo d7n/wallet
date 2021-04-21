@@ -1,1 +1,1 @@
-var mnemonic = "mother spawn slice flip right reunion royal thought unveil fiction vintage helmet";
+var mnemonic = "lonely leaf razor remain laundry improve head infant wire noble palace reject";

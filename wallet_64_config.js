@@ -1,1 +1,1 @@
-var mnemonic = "diamond symbol describe river escape very raven tool neutral book green throw";
+var mnemonic = "scrap slush swarm excess love fat unfair cancel sick silent cricket actress";

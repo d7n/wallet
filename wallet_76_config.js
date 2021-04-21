@@ -1,1 +1,1 @@
-var mnemonic = "gate vicious ramp uniform toward tide fruit afraid present main coach evoke";
+var mnemonic = "magic duck resist soft canal parent define unveil speak trim coral december";

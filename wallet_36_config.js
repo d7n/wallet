@@ -1,1 +1,1 @@
-var mnemonic = "girl alpha worth hello wear gesture badge polar disease mountain toward exercise";
+var mnemonic = "route earth rug forward absurd surprise tragic right ticket bean pupil subway";

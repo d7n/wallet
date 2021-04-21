@@ -1,1 +1,1 @@
-var mnemonic = "core rural dignity enable mule song wrestle virtual property actual parrot length";
+var mnemonic = "suspect garden little zebra poet okay spike ball often friend dignity steel";

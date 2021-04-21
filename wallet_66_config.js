@@ -1,1 +1,1 @@
-var mnemonic = "horror across bone hen slice spell check fee drink monster juice letter";
+var mnemonic = "victory noodle over slice large miracle cheap mesh give pizza gospel animal";

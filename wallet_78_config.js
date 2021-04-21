@@ -1,1 +1,1 @@
-var mnemonic = "reject return approve hidden oak fiber coin bread solid skill valve rice";
+var mnemonic = "copy tape oyster frozen hospital jewel choose brown real south wrist ginger";

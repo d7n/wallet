@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow math news hockey arctic jar bullet enrich magnet park view sunny";
+var mnemonic = "canoe arm attitude memory success garbage relax organ alter visa reduce strong";

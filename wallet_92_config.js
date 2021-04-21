@@ -1,1 +1,1 @@
-var mnemonic = "vocal antenna vocal couch worth regret grain capital poem vote bullet culture";
+var mnemonic = "either panda luxury club maximum march step tragic buffalo school apart thumb";

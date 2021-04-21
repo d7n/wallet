@@ -1,1 +1,1 @@
-var mnemonic = "grit arctic sniff choose okay ordinary fossil day animal sniff cost pitch";
+var mnemonic = "shell such skate upper announce erase valley give miracle used charge orphan";

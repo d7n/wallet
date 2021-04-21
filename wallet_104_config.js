@@ -1,1 +1,1 @@
-var mnemonic = "unhappy fabric cannon remove include believe cave decide glance miss attract memory";
+var mnemonic = "beach goose enact vast range prevent angle mango hurdle amazing van web";

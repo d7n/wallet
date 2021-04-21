@@ -1,1 +1,1 @@
-var mnemonic = "display swallow onion shop dragon claw reform brass rhythm disease delay rail";
+var mnemonic = "wire blur cup move zoo minor belt tray winner poet color humor";

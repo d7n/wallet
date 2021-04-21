@@ -1,1 +1,1 @@
-var mnemonic = "village session need lava kid special cake now resource payment merry fit";
+var mnemonic = "conduct order property maximum trash mean attack analyst stuff puzzle bunker utility";

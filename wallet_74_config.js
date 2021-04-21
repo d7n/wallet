@@ -1,1 +1,1 @@
-var mnemonic = "practice axis license because mystery inside stage trouble absurd slice famous recipe";
+var mnemonic = "deposit setup person nice crush divorce home rival toss habit deliver cricket";

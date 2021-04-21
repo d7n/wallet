@@ -1,1 +1,1 @@
-var mnemonic = "extra simple mad current cabin vault brand second toilet miracle grunt disease";
+var mnemonic = "allow spring tumble reduce angle only pyramid clip route large sell version";

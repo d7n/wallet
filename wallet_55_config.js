@@ -1,1 +1,1 @@
-var mnemonic = "prepare obtain demise swing retreat extend toward lens hood suggest predict scrap";
+var mnemonic = "spot system unable ginger pyramid spider kangaroo hole desk amount jeans regular";

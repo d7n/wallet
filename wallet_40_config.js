@@ -1,1 +1,1 @@
-var mnemonic = "way addict gorilla sketch protect clever mind member night evidence step guess";
+var mnemonic = "toilet deer tag pulp purpose mom put raise need boil camp bless";

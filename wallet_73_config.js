@@ -1,1 +1,1 @@
-var mnemonic = "cancel clock visit bright grab enact afraid drink swamp wedding trick winner";
+var mnemonic = "entire disease analyst borrow that insect carry peanut initial cat reveal announce";

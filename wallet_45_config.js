@@ -1,1 +1,1 @@
-var mnemonic = "rib farm neglect main small improve plastic knife frown soft gather tooth";
+var mnemonic = "art voyage envelope used already bag tuition guilt school awkward drum armor";

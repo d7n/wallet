@@ -1,1 +1,1 @@
-var mnemonic = "goose rifle annual beauty predict divorce midnight hawk fiction credit rival quality";
+var mnemonic = "rhythm sword wreck quality shift sting picnic suggest coral bag music pigeon";

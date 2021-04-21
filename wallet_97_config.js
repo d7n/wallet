@@ -1,1 +1,1 @@
-var mnemonic = "heart yard lamp airport century salad gloom pave assault naive figure kidney";
+var mnemonic = "stamp craft farm abuse trend month law coffee apple damage wear model";

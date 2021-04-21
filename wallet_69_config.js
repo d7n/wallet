@@ -1,1 +1,1 @@
-var mnemonic = "viable nation renew honey common refuse fiber brief snow sport ready before";
+var mnemonic = "march bless author wasp echo fever salute float clerk farm useful cliff";

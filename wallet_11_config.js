@@ -1,1 +1,1 @@
-var mnemonic = "smooth curve board autumn blind result cupboard concert casual evil soap dream";
+var mnemonic = "craft robust thrive siren image inflict outside sheriff symbol rug canyon match";

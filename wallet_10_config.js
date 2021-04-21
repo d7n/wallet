@@ -1,1 +1,1 @@
-var mnemonic = "tobacco step grid point language wet mule burger olympic nut iron say";
+var mnemonic = "alter click dash loan already abstract evolve eye help border danger ranch";

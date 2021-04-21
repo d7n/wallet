@@ -1,1 +1,1 @@
-var mnemonic = "perfect plastic soul myself world pioneer holiday coach stereo absurd light stick";
+var mnemonic = "race stadium snap rotate arch derive above foot snow tissue ugly speed";

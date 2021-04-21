@@ -1,1 +1,1 @@
-var mnemonic = "lesson swap nephew legal razor analyst slot artist dutch clutch undo vehicle";
+var mnemonic = "sick morning elbow leave chef rich off blanket harsh police mask offer";

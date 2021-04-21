@@ -1,1 +1,1 @@
-var mnemonic = "front caught spend sudden session century curtain field find doll region shift";
+var mnemonic = "opinion nurse amateur weasel robust lady project nurse awake supply space infant";
