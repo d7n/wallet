@@ -1,1 +1,1 @@
-var mnemonic = "bench sniff forward shed edit weapon toe direct safe arrest spider soon";
+var mnemonic = "noble arm tonight shock vacant hover oval forum suit easy left ginger";

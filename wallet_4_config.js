@@ -1,1 +1,1 @@
-var mnemonic = "liberty brick skill result permit hold ahead warfare real minimum elbow question";
+var mnemonic = "close stage twenty identify rival enter hockey true volume urge stand okay";

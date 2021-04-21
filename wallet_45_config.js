@@ -1,1 +1,1 @@
-var mnemonic = "shallow digital warrior enhance camera bench maid virus odor home liar flee";
+var mnemonic = "clay photo life room space ostrich burden source tuna casino process romance";

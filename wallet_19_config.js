@@ -1,1 +1,1 @@
-var mnemonic = "evoke vibrant found sentence resist friend vocal call oval lift way already";
+var mnemonic = "tribe angle learn garment song armor another brush load swim forum unaware";

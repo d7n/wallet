@@ -1,1 +1,1 @@
-var mnemonic = "erode link fun belt toe scout canoe horse slab mansion cattle mirror";
+var mnemonic = "scan imitate theme cruise swallow guess save retreat gun middle property valid";

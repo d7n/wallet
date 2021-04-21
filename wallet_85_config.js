@@ -1,1 +1,1 @@
-var mnemonic = "fine thank biology split daring solve pigeon ability basket cool pencil health";
+var mnemonic = "carry vintage walk east often anger right predict sunset sell swap wet";

@@ -1,1 +1,1 @@
-var mnemonic = "gas knock wheat vanish tattoo glory carpet fresh collect element police travel";
+var mnemonic = "cause wire between fix vote exercise attend impose wall potato enforce excite";

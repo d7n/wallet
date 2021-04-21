@@ -1,1 +1,1 @@
-var mnemonic = "assault embody grass adult owner gown step source retire key puppy trap";
+var mnemonic = "blush kite expect fault slab estate source result broom expand muffin trigger";

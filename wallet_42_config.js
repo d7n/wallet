@@ -1,1 +1,1 @@
-var mnemonic = "quality race cruel bleak small wisdom attend donor estate puzzle kind combine";
+var mnemonic = "horror thing blast vanish change place glove cloud verb toilet calm where";

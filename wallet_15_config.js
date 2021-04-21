@@ -1,1 +1,1 @@
-var mnemonic = "range hybrid girl color fabric team jeans boil combine kitten father parade";
+var mnemonic = "dial ice disorder begin caught tape balance test broom ocean state rotate";

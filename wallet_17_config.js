@@ -1,1 +1,1 @@
-var mnemonic = "decrease ten stadium extend captain fence behave position honey thunder strong front";
+var mnemonic = "carpet select kitten play deal dad fold mass lesson hidden option major";

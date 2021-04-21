@@ -1,1 +1,1 @@
-var mnemonic = "fetch next steak cannon episode roof next used peace casino derive grain";
+var mnemonic = "rice scrub wealth design farm divert tooth jar couch feed easily nuclear";

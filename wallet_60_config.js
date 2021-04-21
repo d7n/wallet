@@ -1,1 +1,1 @@
-var mnemonic = "expose treat garage price spring clay sweet useful range degree food tumble";
+var mnemonic = "camera sugar broom below hen target quality unfair actual pitch forest december";

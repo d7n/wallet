@@ -1,1 +1,1 @@
-var mnemonic = "metal raccoon degree salmon nominee harvest indicate thought nominee about beef cause";
+var mnemonic = "ten snake essay taste label clean record reject combine wall dwarf plug";

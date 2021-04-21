@@ -1,1 +1,1 @@
-var mnemonic = "sunny camera vote pen joke planet post garbage bridge situate review behave";
+var mnemonic = "win rough museum penalty timber faith lucky security steak tail check hedgehog";

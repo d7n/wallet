@@ -1,1 +1,1 @@
-var mnemonic = "annual piece copy artwork fence sister enough sock lumber basket strategy aunt";
+var mnemonic = "twice elder bid monster movie umbrella stadium nephew pulse purity suffer same";

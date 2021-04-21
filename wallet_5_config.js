@@ -1,1 +1,1 @@
-var mnemonic = "ecology receive lunar boat phone sea sad fever fiber evil flush digital";
+var mnemonic = "cost crop income holiday old gap ripple island fresh jaguar link envelope";

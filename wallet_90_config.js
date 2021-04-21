@@ -1,1 +1,1 @@
-var mnemonic = "mystery asset plate flat harsh chat badge useful gun prison skirt hub";
+var mnemonic = "dice remove situate scorpion hint like harsh corn digital worth love jungle";

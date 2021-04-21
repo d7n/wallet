@@ -1,1 +1,1 @@
-var mnemonic = "range cram wage property unaware coin tennis kite address moon system coffee";
+var mnemonic = "popular slush arctic problem fabric tourist civil like tuna hungry planet ahead";

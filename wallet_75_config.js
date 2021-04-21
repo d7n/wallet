@@ -1,1 +1,1 @@
-var mnemonic = "monster ship attract crew hospital cactus clap brain rotate myself reform meadow";
+var mnemonic = "tube quit apple spoon forest success buffalo book actual pluck dress guitar";

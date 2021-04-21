@@ -1,1 +1,1 @@
-var mnemonic = "syrup elbow diesel fence cover salute pipe time lazy twice online find";
+var mnemonic = "isolate joke canal birth violin news permit moral exclude basket miracle symbol";

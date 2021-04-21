@@ -1,1 +1,1 @@
-var mnemonic = "ritual riot oppose salute vivid sing spider goose escape hover will alter";
+var mnemonic = "rude display debate invite maze champion live since village alone dune clown";

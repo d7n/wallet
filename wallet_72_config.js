@@ -1,1 +1,1 @@
-var mnemonic = "clown hundred forum shift steel cement pistol action else feature apology immune";
+var mnemonic = "mimic narrow marine perfect abandon credit priority erode general pill slow accident";

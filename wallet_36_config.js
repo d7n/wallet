@@ -1,1 +1,1 @@
-var mnemonic = "deer pole rude outside sheriff caught reward differ glue milk patient much";
+var mnemonic = "palace split total main lamp pudding portion west shaft child lecture point";

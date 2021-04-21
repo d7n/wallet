@@ -1,1 +1,1 @@
-var mnemonic = "avocado metal supreme matrix cream file permit guard never genuine pottery aisle";
+var mnemonic = "crack blouse adult infant tell zebra walk mercy wheel auto twin opera";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator false cake sail sentence table normal famous left grow swap cousin";
+var mnemonic = "obey abstract nerve bulk surprise island often approve ensure material bitter airport";

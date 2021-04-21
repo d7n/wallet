@@ -1,1 +1,1 @@
-var mnemonic = "female adjust liquid notice pledge stairs use render angle zero rice faculty";
+var mnemonic = "hungry aware turtle attack hammer paddle display truck buffalo mercy boring chicken";

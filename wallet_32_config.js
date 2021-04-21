@@ -1,1 +1,1 @@
-var mnemonic = "breeze property trophy rookie swim resource trim drastic seek soap clinic develop";
+var mnemonic = "harsh atom open amazing tattoo science rather age valley connect major leg";

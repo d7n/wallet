@@ -1,1 +1,1 @@
-var mnemonic = "myth bomb edit sort prevent weasel like flash dog more elegant orphan";
+var mnemonic = "foam digital battle receive under return bubble relax detect sure father win";

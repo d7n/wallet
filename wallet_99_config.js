@@ -1,1 +1,1 @@
-var mnemonic = "thing category street loop issue story toe material run hint mirror install";
+var mnemonic = "buffalo push abstract album sheriff slim garage video spatial skull sweet pave";

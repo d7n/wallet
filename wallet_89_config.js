@@ -1,1 +1,1 @@
-var mnemonic = "police state forum afraid future solar rebel good door tell sweet powder";
+var mnemonic = "where estate benefit punch elephant dice rich page symbol frequent erode general";

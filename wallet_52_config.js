@@ -1,1 +1,1 @@
-var mnemonic = "banana flight nuclear shift vintage deposit baby pride affair lottery three ahead";
+var mnemonic = "book decade swap time cargo toast track reason law shaft parent crush";

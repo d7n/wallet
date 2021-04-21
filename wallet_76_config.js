@@ -1,1 +1,1 @@
-var mnemonic = "woman bundle faint version liquid demise cruel gauge figure river devote crumble";
+var mnemonic = "adult stereo bind inhale wolf penalty story ridge name trial measure reveal";

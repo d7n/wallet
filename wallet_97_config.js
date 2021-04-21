@@ -1,1 +1,1 @@
-var mnemonic = "voyage sauce earn asthma boss violin sport cherry regular place quality ripple";
+var mnemonic = "silent seat slogan curve ankle rely evidence peace tower cricket observe lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "army sick access quantum fun grit upset quantum veteran wise already fish";
+var mnemonic = "satoshi hero scale link trust piano east increase fish order half donate";

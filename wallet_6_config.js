@@ -1,1 +1,1 @@
-var mnemonic = "short city hospital grid rose cloth short uncover olive quality attitude spice";
+var mnemonic = "hazard cannon present stairs trim relax cross sweet under scan ill message";

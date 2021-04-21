@@ -1,1 +1,1 @@
-var mnemonic = "palm atom devote brave brick melody drink grace bread hurry ceiling unique";
+var mnemonic = "stay old keep protect silk exist video lucky lesson glory digital spy";

@@ -1,1 +1,1 @@
-var mnemonic = "solar divide stove frown estate bar mandate cancel churn proud garbage model";
+var mnemonic = "jazz arrive clump suggest angle zebra comfort blast never mystery flavor siege";

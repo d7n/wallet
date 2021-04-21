@@ -1,1 +1,1 @@
-var mnemonic = "medal liberty dignity sound bike crane impact useful delay drift cycle despair";
+var mnemonic = "chuckle faint total cash antique unveil rough lens swarm balcony fortune caution";

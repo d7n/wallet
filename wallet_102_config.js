@@ -1,1 +1,1 @@
-var mnemonic = "cradle element skill animal crop option diet wonder vague friend lawsuit luggage";
+var mnemonic = "salon cliff typical sibling jungle business tooth table like weather media confirm";

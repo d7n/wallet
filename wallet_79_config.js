@@ -1,1 +1,1 @@
-var mnemonic = "obscure live flame toilet filter lumber hospital net indoor true brown room";
+var mnemonic = "pole tool wrist apology boss cry try casual anger outer keep fresh";

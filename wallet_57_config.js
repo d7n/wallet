@@ -1,1 +1,1 @@
-var mnemonic = "dish finger spider rubber walnut hope ranch demise crack spirit notable gaze";
+var mnemonic = "smile radio meadow fee day gadget spring skin base grocery age pulse";

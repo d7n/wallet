@@ -1,1 +1,1 @@
-var mnemonic = "sentence filter web axis must artist top repair envelope edge neutral bunker";
+var mnemonic = "fatigue exhibit issue crash fat grab idle allow camp dismiss skin chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "charge emerge trigger digital hand dentist situate economy act media dentist about";
+var mnemonic = "frame alley stove pupil erode affair this pulse portion trap aerobic cricket";

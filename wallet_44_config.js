@@ -1,1 +1,1 @@
-var mnemonic = "length pelican crush elite cigar veteran urban fence ring indicate custom insane";
+var mnemonic = "random devote dinosaur hamster neck sell ketchup student rich attend undo novel";

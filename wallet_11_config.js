@@ -1,1 +1,1 @@
-var mnemonic = "disease myself lock upset direct genius act wing young burst dinosaur method";
+var mnemonic = "swear enforce resist aunt cricket aerobic protect net dance rather fox mobile";

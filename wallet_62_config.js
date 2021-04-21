@@ -1,1 +1,1 @@
-var mnemonic = "page expire kid trend possible dignity spray key bread involve person churn";
+var mnemonic = "buffalo acoustic stable arrive mirror mouse road sauce faint peasant youth vintage";

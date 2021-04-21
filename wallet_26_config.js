@@ -1,1 +1,1 @@
-var mnemonic = "edit favorite electric blouse curtain pear alter buffalo fiber hip napkin make";
+var mnemonic = "name coral give cluster choice help pond hire fiber ramp van impact";

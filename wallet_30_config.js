@@ -1,1 +1,1 @@
-var mnemonic = "earth roast grab before tell liar bacon book have game olympic leave";
+var mnemonic = "pave course rotate robust foster luxury dream table tiger worth machine gold";

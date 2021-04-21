@@ -1,1 +1,1 @@
-var mnemonic = "kitchen cupboard foil orchard wave design reflect eagle vessel net actress patrol";
+var mnemonic = "either voice tornado test road trade gentle urban inside retire author fence";

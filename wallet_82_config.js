@@ -1,1 +1,1 @@
-var mnemonic = "put torch street asthma time again spirit chat grab fork bundle come";
+var mnemonic = "soldier uniform cry pen treat bomb provide piano clip goose couple salt";

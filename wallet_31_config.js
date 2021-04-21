@@ -1,1 +1,1 @@
-var mnemonic = "open square chapter ghost flight fluid rigid radar say laptop citizen lonely";
+var mnemonic = "increase dignity cherry minor usual discover farm six napkin object cargo floor";

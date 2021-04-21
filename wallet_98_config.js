@@ -1,1 +1,1 @@
-var mnemonic = "hire raw same era method baby tooth attract name vault chief junk";
+var mnemonic = "urge plunge attend capable garlic hobby business mansion undo true pyramid video";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate scrap leader enemy when poet surround witness gesture art garage ginger";
+var mnemonic = "van airport base square yard have coconut example monster stereo guard never";

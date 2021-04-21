@@ -1,1 +1,1 @@
-var mnemonic = "own employ oven prepare remember luxury pet top moon vapor explain have";
+var mnemonic = "wash because kind time remove patient kitchen oven timber hire eternal meat";

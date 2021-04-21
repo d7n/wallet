@@ -1,1 +1,1 @@
-var mnemonic = "valid hub tape pattern fire virus galaxy sugar process lecture now kidney";
+var mnemonic = "world office priority broom cargo pulse salad video fuel dynamic outer mention";

@@ -1,1 +1,1 @@
-var mnemonic = "blur ticket accident average what rib split bid rate open napkin album";
+var mnemonic = "suffer utility grab diesel umbrella tired dad naive item camera steel hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "ball animal this tomato curtain seed okay canal flower harsh monster saddle";
+var mnemonic = "wing later usual bitter impose hockey resemble album swing sword glad forum";

@@ -1,1 +1,1 @@
-var mnemonic = "solar collect bus appear acquire culture auction glow skate valve moral actress";
+var mnemonic = "swamp devote option chunk cupboard bone guide best repair neutral logic illness";

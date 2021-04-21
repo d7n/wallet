@@ -1,1 +1,1 @@
-var mnemonic = "ignore dry cousin hotel level stock auto author produce fun grant truly";
+var mnemonic = "item fiction surface else decline six word trick tattoo trumpet rely swallow";

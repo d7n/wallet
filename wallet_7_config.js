@@ -1,1 +1,1 @@
-var mnemonic = "mistake decide bounce fury slight shock marriage airport topic raven giggle orient";
+var mnemonic = "wave female unfold theory virus focus swarm mouse vacuum scout property pulp";

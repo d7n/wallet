@@ -1,1 +1,1 @@
-var mnemonic = "arrive toast valid area now cancel throw foot topic recall vendor regular";
+var mnemonic = "caught noble special document excess coil category please broom busy ivory devote";

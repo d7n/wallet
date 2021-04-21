@@ -1,1 +1,1 @@
-var mnemonic = "evil need outer black rent acoustic midnight planet top three budget surround";
+var mnemonic = "galaxy south leaf bamboo nasty dignity time sadness cube length social image";

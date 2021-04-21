@@ -1,1 +1,1 @@
-var mnemonic = "struggle peace october beef error end remain option month slot distance someone";
+var mnemonic = "blanket same kit unit warfare purchase day protect toy jacket plastic ask";

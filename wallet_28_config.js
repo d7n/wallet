@@ -1,1 +1,1 @@
-var mnemonic = "empower bless pole position goat fragile unlock shoulder oil city seed service";
+var mnemonic = "taxi south drink holiday hunt august convince curious soda solution hidden science";

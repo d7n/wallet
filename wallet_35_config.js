@@ -1,1 +1,1 @@
-var mnemonic = "peace seat van gap mansion jewel guess avocado usage era walnut guilt";
+var mnemonic = "enemy search era behind ostrich air install forward discover scare game mass";

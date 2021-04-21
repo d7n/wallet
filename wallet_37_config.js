@@ -1,1 +1,1 @@
-var mnemonic = "foot slow decline abandon couple rhythm fatigue usual initial snap aware cloud";
+var mnemonic = "circle hammer noise bag vote grain sketch limb copy ring hollow renew";

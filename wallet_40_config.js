@@ -1,1 +1,1 @@
-var mnemonic = "lyrics easy fortune pitch sister hero crack broccoli blanket candy devote gentle";
+var mnemonic = "trouble bench seat crouch attitude frame disagree someone exchange best actress aspect";

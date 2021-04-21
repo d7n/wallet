@@ -1,1 +1,1 @@
-var mnemonic = "ill decrease join muffin note way nominee rule news damage veteran assume";
+var mnemonic = "peanut fade bid pizza move sure butter drum convince pudding produce alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant spike identify earth produce teach wedding famous meadow release yard crack";
+var mnemonic = "casino remain avocado increase hundred labor nation length speed success chest misery";

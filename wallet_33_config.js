@@ -1,1 +1,1 @@
-var mnemonic = "job art hand summer paper soldier snow zone venture measure spice juice";
+var mnemonic = "equal replace cost toast water spin document army six walnut taste trumpet";

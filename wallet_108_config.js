@@ -1,1 +1,1 @@
-var mnemonic = "cushion bracket bright jump jar come situate rely mutual give tired normal";
+var mnemonic = "high blood tobacco fat edge bright brain opinion owner glad resist describe";

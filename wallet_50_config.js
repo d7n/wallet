@@ -1,1 +1,1 @@
-var mnemonic = "shadow short short hover unfair palm grant rifle tumble glance denial hotel";
+var mnemonic = "congress auto market once anchor space ivory urge faint example subject situate";

@@ -1,1 +1,1 @@
-var mnemonic = "idle tone green harsh soup good cactus load blade end aunt brave";
+var mnemonic = "place brisk runway velvet tourist catalog short another wisdom blouse patch connect";

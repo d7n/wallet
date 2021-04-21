@@ -1,1 +1,1 @@
-var mnemonic = "dragon mail cat click impose outer skull spray pull expire tennis pool";
+var mnemonic = "display tunnel slice candy uncle salt case damage swift model pudding robust";

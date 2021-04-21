@@ -1,1 +1,1 @@
-var mnemonic = "plate execute aspect engine love level cave peanut feature burger dinner bless";
+var mnemonic = "enjoy unhappy repeat follow essay neutral easy surface wife humor become praise";

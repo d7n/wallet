@@ -1,1 +1,1 @@
-var mnemonic = "verb silk vicious lounge universe lawsuit asset now atom humble erupt little";
+var mnemonic = "bicycle mask scout swing alpha bike season broccoli attend guilt hello air";

@@ -1,1 +1,1 @@
-var mnemonic = "best abuse advance robot famous capital hen admit egg swap damage junior";
+var mnemonic = "earn frost casual swear reunion join property celery radar simple toy banner";

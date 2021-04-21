@@ -1,1 +1,1 @@
-var mnemonic = "often large rural steel motor enlist area leisure manual size bunker thing";
+var mnemonic = "little atom fault nice notable update wing true weekend tuna raw retire";

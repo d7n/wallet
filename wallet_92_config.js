@@ -1,1 +1,1 @@
-var mnemonic = "mango hat drink best also verify choose dove never umbrella pen safe";
+var mnemonic = "away pony vessel antenna ripple praise duck sting okay choice awake young";

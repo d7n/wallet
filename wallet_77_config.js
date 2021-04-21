@@ -1,1 +1,1 @@
-var mnemonic = "link that small mixture broom shaft grief left reflect gate setup mask";
+var mnemonic = "audit seed size fruit define stable tell drop catalog renew useful this";

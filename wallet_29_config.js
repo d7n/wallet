@@ -1,1 +1,1 @@
-var mnemonic = "prevent horn motor draft spatial angry occur seven apology enlist spare sight";
+var mnemonic = "retire plate lizard stay shrimp dinner course width drip board vicious inmate";

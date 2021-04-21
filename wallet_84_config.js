@@ -1,1 +1,1 @@
-var mnemonic = "rival young inch swear lumber spy soft faculty muffin fix layer elegant";
+var mnemonic = "more hurry foot escape immune tenant jealous suspect observe desert glad prepare";

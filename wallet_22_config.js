@@ -1,1 +1,1 @@
-var mnemonic = "code budget receive armed coil reject refuse spike crop grain mobile clog";
+var mnemonic = "light vault praise cart zoo equal transfer orphan country loop allow tissue";

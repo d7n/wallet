@@ -1,1 +1,1 @@
-var mnemonic = "vendor pole silly rib advance style length slice diet hybrid main uniform";
+var mnemonic = "agree project powder frame zone rug design across resist panic rubber quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete inherit airport latin advance alone belt leisure elite bench ceiling yellow";
+var mnemonic = "scare frequent staff fog film grunt alter image globe hold under glue";

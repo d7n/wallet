@@ -1,1 +1,1 @@
-var mnemonic = "oven quality pole view clean tent one brisk woman wreck snow output";
+var mnemonic = "head economy involve grief fantasy stamp weapon actor refuse mango couch notice";

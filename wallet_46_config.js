@@ -1,1 +1,1 @@
-var mnemonic = "stamp fan cliff summer oxygen talk toddler stem poem mirror harvest power";
+var mnemonic = "can quote clump sun income project middle piece number caught alien brand";

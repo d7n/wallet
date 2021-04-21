@@ -1,1 +1,1 @@
-var mnemonic = "bitter remind found dove manual mobile fitness safe best kitten penalty between";
+var mnemonic = "noodle nurse verify doctor beef review rate pool rigid design mutual gallery";

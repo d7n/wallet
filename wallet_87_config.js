@@ -1,1 +1,1 @@
-var mnemonic = "creek eyebrow hub gesture urban time easy soap path color economy income";
+var mnemonic = "switch noodle blanket iron foster fun gauge almost action prepare demand family";

@@ -1,1 +1,1 @@
-var mnemonic = "this voyage certain square bronze stove fever capital mesh tank table require";
+var mnemonic = "struggle matter tourist inquiry best explain tiny toe ticket mule deal draw";

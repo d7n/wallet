@@ -1,1 +1,1 @@
-var mnemonic = "school way divert radar hawk reveal wrong moment tuition worry congress move";
+var mnemonic = "debate extra enemy sunset brave health tenant narrow spider federal duck employ";

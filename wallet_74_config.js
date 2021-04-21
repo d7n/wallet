@@ -1,1 +1,1 @@
-var mnemonic = "animal idle power sibling able sense hold liquid rescue devote syrup mutual";
+var mnemonic = "grape lion permit assault open violin repeat tool public wedding relax promote";

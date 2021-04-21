@@ -1,1 +1,1 @@
-var mnemonic = "belt fruit portion disease sun erosion capable measure scorpion ridge bike cost";
+var mnemonic = "float shift ability curtain collect pudding wrong couch weekend explain mushroom random";

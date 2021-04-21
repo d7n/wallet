@@ -1,1 +1,1 @@
-var mnemonic = "explain tenant excite anxiety van rain tree boost snow half antenna sausage";
+var mnemonic = "chair bounce prefer west artefact spoon suit later exit vacant club ability";
