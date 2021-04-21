@@ -1,1 +1,1 @@
-var mnemonic = "enroll wagon puzzle awful vacant arrange offer prison magic foil across mammal";
+var mnemonic = "mystery travel april puzzle divorce monkey million ginger traffic actress hero magnet";

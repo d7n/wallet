@@ -1,1 +1,1 @@
-var mnemonic = "logic duty turkey faint vocal endorse library trend innocent tackle noble lend";
+var mnemonic = "actress insane live lunar argue rib hill easy teach express genius sausage";

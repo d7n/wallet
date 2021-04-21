@@ -1,1 +1,1 @@
-var mnemonic = "topic rubber disorder jewel cruise below copy you venture puzzle chimney neck";
+var mnemonic = "minute ring hole antenna sing bamboo common rookie foil rack grid modify";

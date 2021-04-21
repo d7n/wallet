@@ -1,1 +1,1 @@
-var mnemonic = "slice spend million attract embark chimney zebra flip rich album reunion valley";
+var mnemonic = "liberty twelve fetch inflict design pluck popular diary reduce rich run section";

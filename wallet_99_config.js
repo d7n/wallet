@@ -1,1 +1,1 @@
-var mnemonic = "hold example slide beyond rebel humor sunset solve toe ocean swarm taxi";
+var mnemonic = "sport moral level actual riot cabbage night axis lemon early correct among";

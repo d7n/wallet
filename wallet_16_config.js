@@ -1,1 +1,1 @@
-var mnemonic = "spread immune there candy captain earth rapid range junior acid captain practice";
+var mnemonic = "year story veteran sausage captain tree ensure labor caution embrace arrest unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "boss sell rate clinic notable put summer blush only valley key lunch";
+var mnemonic = "fatigue polar focus bicycle desert velvet kingdom prepare cover globe cactus spare";

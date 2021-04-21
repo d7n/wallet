@@ -1,1 +1,1 @@
-var mnemonic = "stadium film stand zoo abandon ankle vintage mushroom merry twist century extend";
+var mnemonic = "light pole biology skate choice weather symbol title lens pass sort blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe horn annual monkey glory gas grow gate trouble warrior endless hungry";
+var mnemonic = "kiss flock normal like exclude throw you grit prefer wife romance capital";

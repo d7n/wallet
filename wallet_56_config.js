@@ -1,1 +1,1 @@
-var mnemonic = "agree volcano cupboard onion they patrol april sight palace shuffle unlock bless";
+var mnemonic = "monster trend rhythm zebra steak detect modify casino green annual rubber useful";

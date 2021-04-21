@@ -1,1 +1,1 @@
-var mnemonic = "cool primary dumb warm naive burden rally creek slam derive minimum trumpet";
+var mnemonic = "expand banner wide coffee sunny advance high plug ethics drip educate canvas";

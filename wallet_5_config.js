@@ -1,1 +1,1 @@
-var mnemonic = "market train glad card ride wall access toward resemble cause stairs confirm";
+var mnemonic = "frown field choice pitch spring absorb they badge charge busy spoon loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb poverty feel catch prison eye delay zone only control coyote leg";
+var mnemonic = "measure cement dress pulp blossom easy trick prefer tree unusual nature elegant";

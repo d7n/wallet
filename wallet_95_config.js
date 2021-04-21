@@ -1,1 +1,1 @@
-var mnemonic = "exclude whip alarm merge flush pudding few source dizzy deny box achieve";
+var mnemonic = "leg cricket mobile blouse use toddler vital stage machine sausage orchard system";

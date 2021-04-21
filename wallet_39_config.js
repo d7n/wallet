@@ -1,1 +1,1 @@
-var mnemonic = "claim wonder coconut quiz party damp oil eagle hammer visit spend oval";
+var mnemonic = "loop fame movie tenant repeat army absurd knee argue another friend lecture";

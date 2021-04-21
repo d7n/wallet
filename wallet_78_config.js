@@ -1,1 +1,1 @@
-var mnemonic = "wrong glory pass point market file guard tooth cancel pilot boy device";
+var mnemonic = "orient pilot file bitter marriage pause winner unique unusual such file bamboo";

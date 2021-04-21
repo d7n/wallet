@@ -1,1 +1,1 @@
-var mnemonic = "bone strike very crane salad steak thumb ski afford erase hurdle adult";
+var mnemonic = "catch delay razor rabbit quit abandon tornado garage muffin oblige morning match";

@@ -1,1 +1,1 @@
-var mnemonic = "sell blur dog neglect clean parent project confirm fatal awake vibrant sustain";
+var mnemonic = "length jazz garage decrease valve pink scrub kit neither ketchup vessel pony";

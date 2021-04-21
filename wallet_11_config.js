@@ -1,1 +1,1 @@
-var mnemonic = "fork pitch pudding direct cattle envelope matrix iron pudding alley security eager";
+var mnemonic = "fox ensure virus market dumb stem whisper display chalk end album toy";

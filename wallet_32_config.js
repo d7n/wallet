@@ -1,1 +1,1 @@
-var mnemonic = "purse large clip perfect impulse public off iron trigger hundred sauce setup";
+var mnemonic = "evolve town ignore token patrol warrior exit target bright toward salon become";

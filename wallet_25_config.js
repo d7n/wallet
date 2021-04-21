@@ -1,1 +1,1 @@
-var mnemonic = "eagle wolf coach walk dad among wife drink silk camera skirt ostrich";
+var mnemonic = "cool pave bitter sustain erase absent satisfy since area congress earn ocean";

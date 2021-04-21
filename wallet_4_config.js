@@ -1,1 +1,1 @@
-var mnemonic = "hammer anxiety tuna cream air sheriff three subject tree inform grab liquid";
+var mnemonic = "jelly razor verify retreat life muffin attend reject idle wear nut trash";

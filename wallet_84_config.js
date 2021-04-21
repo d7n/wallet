@@ -1,1 +1,1 @@
-var mnemonic = "oppose chef total victory primary special flag jazz obscure rescue artefact stuff";
+var mnemonic = "open insane clever tragic liberty crime brisk buddy regret absorb once acquire";

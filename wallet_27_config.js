@@ -1,1 +1,1 @@
-var mnemonic = "uncle exact fog copy merry remember board bread include cousin sweet youth";
+var mnemonic = "unveil amount vast annual use velvet ski hurdle exhibit way pigeon canoe";

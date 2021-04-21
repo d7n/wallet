@@ -1,1 +1,1 @@
-var mnemonic = "jump search total ride beyond valley easily wolf tobacco super quit large";
+var mnemonic = "quit vote around balance silent skirt butter dress case awful athlete select";

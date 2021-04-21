@@ -1,1 +1,1 @@
-var mnemonic = "insane spatial melody best trick myself eagle width pistol ribbon select knock";
+var mnemonic = "ozone street ensure roof hungry immense silver clever boy brave replace between";

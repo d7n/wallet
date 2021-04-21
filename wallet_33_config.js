@@ -1,1 +1,1 @@
-var mnemonic = "typical guilt blanket embody floor mobile hole hip narrow crumble water near";
+var mnemonic = "file cushion ginger random stand group enemy infant have fly marble mass";

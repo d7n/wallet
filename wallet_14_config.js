@@ -1,1 +1,1 @@
-var mnemonic = "glove exile flag tide mistake tooth junk fine town extra sound retire";
+var mnemonic = "page purpose under exchange mean lamp frog tape title mystery speed they";

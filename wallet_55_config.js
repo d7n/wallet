@@ -1,1 +1,1 @@
-var mnemonic = "dragon toss inhale oppose install room hire feed brush crazy loan ready";
+var mnemonic = "shell logic fade machine upset slice weekend fire year circle mixture decline";

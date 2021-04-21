@@ -1,1 +1,1 @@
-var mnemonic = "liquid kite pact monitor useless ancient fire cloth slim observe more garden";
+var mnemonic = "east hard clarify wire image ankle baby tomorrow dumb crack embark minor";

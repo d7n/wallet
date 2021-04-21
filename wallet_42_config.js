@@ -1,1 +1,1 @@
-var mnemonic = "mixed bar simple april deer flock club subway develop replace genre quiz";
+var mnemonic = "later remove genuine rain dish head gift crouch region refuse program token";

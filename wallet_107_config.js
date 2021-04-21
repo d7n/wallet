@@ -1,1 +1,1 @@
-var mnemonic = "wrestle pool random ice address foil giggle injury expire key nation pair";
+var mnemonic = "knee all coffee math hire cliff thumb empty cement tail hungry stone";

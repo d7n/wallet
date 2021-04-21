@@ -1,1 +1,1 @@
-var mnemonic = "hundred bread match follow state spike pistol actress change small reveal auction";
+var mnemonic = "vicious diagram tape attack toilet excite shock private acoustic public place hunt";

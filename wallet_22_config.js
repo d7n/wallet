@@ -1,1 +1,1 @@
-var mnemonic = "income vibrant subway strategy coast horn bleak pear town cable huge arrow";
+var mnemonic = "diesel scale blossom step trigger strategy spare lift verb govern hurt barely";

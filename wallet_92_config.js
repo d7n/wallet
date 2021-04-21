@@ -1,1 +1,1 @@
-var mnemonic = "noise spoon catch sausage relief trouble father crane session have paddle fresh";
+var mnemonic = "hub basic sad tortoise notice rapid faculty rocket begin genius raise remember";

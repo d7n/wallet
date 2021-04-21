@@ -1,1 +1,1 @@
-var mnemonic = "marriage walk index fancy monitor educate name rude surface divorce sail gesture";
+var mnemonic = "impulse route wall weather obvious spice scout awesome round ski display vital";

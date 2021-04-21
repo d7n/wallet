@@ -1,1 +1,1 @@
-var mnemonic = "paddle message gun fine gap polar hunt cancel network cricket document beauty";
+var mnemonic = "ahead candy album sauce odor ordinary extra army slight poet breeze crack";

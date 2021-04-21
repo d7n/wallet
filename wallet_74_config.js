@@ -1,1 +1,1 @@
-var mnemonic = "miss swamp all exit buddy enable control rural echo keen wash faith";
+var mnemonic = "employ initial autumn syrup impact rotate lion tell mandate junk element mango";

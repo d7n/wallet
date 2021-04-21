@@ -1,1 +1,1 @@
-var mnemonic = "margin quarter crunch volcano toy exhaust grab mushroom pyramid hole onion evolve";
+var mnemonic = "update only toy nature fresh kangaroo puzzle expose sorry legal axis door";

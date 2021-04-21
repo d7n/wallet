@@ -1,1 +1,1 @@
-var mnemonic = "stumble rule aunt donor rib feature vintage door remind hospital circle else";
+var mnemonic = "penalty radar bind alley pool couch convince wire wood insect gadget balance";

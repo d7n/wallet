@@ -1,1 +1,1 @@
-var mnemonic = "unfair bag goat prison idle weapon distance waste valve tobacco assume hungry";
+var mnemonic = "spend crash twice razor unfold ready broom grief clown piece pen sword";

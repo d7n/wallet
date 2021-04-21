@@ -1,1 +1,1 @@
-var mnemonic = "school vintage robust travel dentist jewel width test ladder nurse major dumb";
+var mnemonic = "lawn motion slam basic cute coconut ring people rate swap seat vault";

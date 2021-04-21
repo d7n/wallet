@@ -1,1 +1,1 @@
-var mnemonic = "nurse step critic dutch timber whale again spoil gossip cabin thunder glad";
+var mnemonic = "steak security dance more evidence dial enter robust cruise link online pelican";

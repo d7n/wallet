@@ -1,1 +1,1 @@
-var mnemonic = "laundry harsh radio crunch virus defy decline badge fly allow account marriage";
+var mnemonic = "frozen idle have favorite staff daring embody garment caution diet bulb future";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic service radar motion like deal idle swallow soccer merry visit happy";
+var mnemonic = "empty city junk impose gym couch record boil crucial put seminar valve";

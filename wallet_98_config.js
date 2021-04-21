@@ -1,1 +1,1 @@
-var mnemonic = "run pipe drill attend raccoon lemon custom dad human farm suffer record";
+var mnemonic = "slim chicken bright stone runway type punch spice walnut either crawl three";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow neglect bundle owner space apple ketchup soup snake wine artist crazy";
+var mnemonic = "setup bulb swift equal release frown two kit syrup mechanic any stove";

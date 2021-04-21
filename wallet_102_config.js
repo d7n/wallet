@@ -1,1 +1,1 @@
-var mnemonic = "circle scatter spin lion arena denial detect black twelve able night vote";
+var mnemonic = "sketch estate cheap merit toy dinosaur inmate obtain return peasant glory where";

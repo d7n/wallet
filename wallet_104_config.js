@@ -1,1 +1,1 @@
-var mnemonic = "ethics stand garbage promote web item change test curtain jar bike crumble";
+var mnemonic = "foot roof unable front spoon chapter treat vehicle base label kiwi search";

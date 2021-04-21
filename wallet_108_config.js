@@ -1,1 +1,1 @@
-var mnemonic = "distance rigid circle spider leave rigid mammal cactus shell custom joke tube";
+var mnemonic = "envelope half divert pulse arrow know over patrol coral insect broom clog";

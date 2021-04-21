@@ -1,1 +1,1 @@
-var mnemonic = "nasty duck arctic someone accuse chair feel minimum reduce virus uncle about";
+var mnemonic = "crawl kit ketchup gorilla history gadget gym enjoy demand quick prize gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon sand require bike gap baby found miss duck capital endorse find";
+var mnemonic = "merit raw fire atom guide feature salon also science market rain embrace";

@@ -1,1 +1,1 @@
-var mnemonic = "taste panther aisle atom mom topple dune opera outside year plunge vast";
+var mnemonic = "wreck axis emotion circle produce income message supreme doctor clinic return copy";

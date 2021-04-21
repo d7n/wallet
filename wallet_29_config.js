@@ -1,1 +1,1 @@
-var mnemonic = "pass suspect shock virtual layer lawn deer escape item alcohol cousin velvet";
+var mnemonic = "dinosaur unaware slogan affair frequent veteran caution tenant emotion trial elevator street";

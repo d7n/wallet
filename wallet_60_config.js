@@ -1,1 +1,1 @@
-var mnemonic = "design bag limb fitness satisfy noise spin pink tip shop opinion conduct";
+var mnemonic = "hamster devote sibling when occur stone across spare winter produce equal powder";

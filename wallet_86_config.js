@@ -1,1 +1,1 @@
-var mnemonic = "divorce wool much find art obey force favorite aware demise tower undo";
+var mnemonic = "glare coconut famous pioneer grace shield crowd series weather confirm cattle fatigue";

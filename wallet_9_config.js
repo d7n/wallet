@@ -1,1 +1,1 @@
-var mnemonic = "curious prison atom violin point valve copper update gasp home carry private";
+var mnemonic = "time exit engage road art ring broccoli depart meadow giggle abuse brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "crush more lunar rely lamp mix student never video mention edit rich";
+var mnemonic = "outdoor fork super boss aware album anxiety tag tree praise oblige expand";

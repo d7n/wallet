@@ -1,1 +1,1 @@
-var mnemonic = "master method suit trend settle egg arrange twelve tip attitude sting expand";
+var mnemonic = "hard utility crane exhibit feed poverty limit festival carpet smoke gain update";

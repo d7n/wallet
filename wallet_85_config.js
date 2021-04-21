@@ -1,1 +1,1 @@
-var mnemonic = "include beauty muffin work unfair trim similar motor neither problem slice join";
+var mnemonic = "love useless hundred work chimney endorse rookie news travel that sadness slow";

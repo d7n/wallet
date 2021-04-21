@@ -1,1 +1,1 @@
-var mnemonic = "give attack leisure best mercy myth dynamic chalk boy cross bomb until";
+var mnemonic = "report rotate switch divorce layer ostrich mutual immense trophy chunk isolate spare";

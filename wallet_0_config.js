@@ -1,1 +1,1 @@
-var mnemonic = "game captain rural adjust undo eager output range good south permit soft";
+var mnemonic = "volume wait oven direct flip aunt message wood donate trust group vague";

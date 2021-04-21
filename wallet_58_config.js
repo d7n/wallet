@@ -1,1 +1,1 @@
-var mnemonic = "slot like ginger embrace inform now muffin calm tumble patrol rich fade";
+var mnemonic = "athlete train divert cricket impact barely drink achieve cattle bottom trim rotate";

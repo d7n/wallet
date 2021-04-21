@@ -1,1 +1,1 @@
-var mnemonic = "perfect code school coach indoor soda sample flee possible humble sport practice";
+var mnemonic = "time best wear depend gown window neither appear viable filter obscure brass";

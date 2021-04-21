@@ -1,1 +1,1 @@
-var mnemonic = "daughter guard better kit false thing truly weird kiwi royal invest great";
+var mnemonic = "remove squeeze grief recipe focus zero erase green vanish series because scheme";

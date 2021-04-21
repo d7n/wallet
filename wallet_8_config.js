@@ -1,1 +1,1 @@
-var mnemonic = "enrich clever coin afford measure divide know capable rail drink zone express";
+var mnemonic = "derive mountain keep pause mask crime decline depend drastic indoor diary case";

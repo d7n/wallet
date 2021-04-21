@@ -1,1 +1,1 @@
-var mnemonic = "area tackle seed gauge say dad bright plunge clarify deer dove soon";
+var mnemonic = "play panic hamster guitar guard flip onion vessel okay great aisle admit";

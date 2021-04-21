@@ -1,1 +1,1 @@
-var mnemonic = "fire upset elegant crisp valley tattoo business easily peanut pupil rebuild clock";
+var mnemonic = "best ladder mansion letter used tail soap shiver foam glimpse inflict twin";

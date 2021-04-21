@@ -1,1 +1,1 @@
-var mnemonic = "shield capital size change useful venture melody view margin candy equip appear";
+var mnemonic = "eager today run artwork talent shoot usual element crawl pipe govern state";

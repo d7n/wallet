@@ -1,1 +1,1 @@
-var mnemonic = "ball open muscle pair traffic hero material pepper target slab biology ladder";
+var mnemonic = "head coffee slow doll garment west predict armor beauty season guilt unique";

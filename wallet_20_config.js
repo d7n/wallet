@@ -1,1 +1,1 @@
-var mnemonic = "enrich idea glance inhale leisure nominee figure install access save describe cotton";
+var mnemonic = "volcano bounce cargo pony menu prefer sign deer flash robust curtain shield";

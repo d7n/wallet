@@ -1,1 +1,1 @@
-var mnemonic = "trust empower life galaxy select milk frequent amused dial name pottery approve";
+var mnemonic = "lunch remain draw pet glory issue ask letter square festival steel smoke";

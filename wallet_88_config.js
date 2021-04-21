@@ -1,1 +1,1 @@
-var mnemonic = "tackle galaxy payment forward visual rotate minor leader grid expect hover chat";
+var mnemonic = "large update great clerk mind parent maximum kit genius useful tilt glance";

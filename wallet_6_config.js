@@ -1,1 +1,1 @@
-var mnemonic = "virus still window become chair town dutch aware search moral duck enrich";
+var mnemonic = "forest polar sort during mouse shift then nephew avocado secret second diagram";

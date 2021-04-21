@@ -1,1 +1,1 @@
-var mnemonic = "fortune retreat ability noodle find raise treat expect magic spawn soccer pupil";
+var mnemonic = "concert tank cancel enjoy gift quote situate attend demand erosion toilet vehicle";

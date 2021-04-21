@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon enter hockey absorb smooth camp kid toast zero famous cannon trophy";
+var mnemonic = "country puzzle say fit try exist glimpse exist canal dune among tell";

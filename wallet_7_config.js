@@ -1,1 +1,1 @@
-var mnemonic = "choice apple habit foster false kick demand apart term burden delay announce";
+var mnemonic = "pupil shell level lemon gravity chimney problem vacant true above illness raw";

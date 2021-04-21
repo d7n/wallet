@@ -1,1 +1,1 @@
-var mnemonic = "impose expire unusual chalk inform remind onion kangaroo uniform slam snake still";
+var mnemonic = "sick pepper speed knee uncle figure process write suggest arch either can";

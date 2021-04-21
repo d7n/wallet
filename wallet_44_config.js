@@ -1,1 +1,1 @@
-var mnemonic = "mask million input welcome fashion program garlic essay army case region library";
+var mnemonic = "east wish limb fine sponsor toilet spice post olive friend produce zone";

@@ -1,1 +1,1 @@
-var mnemonic = "group paddle worth because shove crumble grow song echo crunch crew when";
+var mnemonic = "flag current stem skill early image install width field cricket shoot improve";

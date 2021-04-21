@@ -1,1 +1,1 @@
-var mnemonic = "join head soccer nation tired patch brief elegant usual balcony bundle potato";
+var mnemonic = "swallow humor debate know sunny labor sea bone predict collect cup artwork";

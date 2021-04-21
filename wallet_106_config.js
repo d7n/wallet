@@ -1,1 +1,1 @@
-var mnemonic = "elbow deer course alien clip siege dolphin butter transfer gloom vendor humble";
+var mnemonic = "connect broken link need mixed cover bacon pepper tell excite badge figure";

@@ -1,1 +1,1 @@
-var mnemonic = "surround frost addict grant cook census satoshi rotate mushroom stomach arrest local";
+var mnemonic = "behind solve style provide arrest double mushroom report describe stand claim argue";

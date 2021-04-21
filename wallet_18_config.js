@@ -1,1 +1,1 @@
-var mnemonic = "maid capital short season attract host alcohol middle mixture uphold autumn equip";
+var mnemonic = "mind angle comfort close people furnace canoe brain uncover brick afford prosper";

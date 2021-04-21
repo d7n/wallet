@@ -1,1 +1,1 @@
-var mnemonic = "salad arrow feed proof butter dish guilt between anchor clerk misery bone";
+var mnemonic = "coconut ordinary truly net vault dilemma cave response elevator trumpet car prison";
