@@ -1,1 +1,1 @@
-var mnemonic = "settle field dirt suggest alter wear chimney episode angry course cannon pyramid";
+var mnemonic = "forum dial invest tragic sudden surface truck usage impose dentist thumb page";

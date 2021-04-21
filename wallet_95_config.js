@@ -1,1 +1,1 @@
-var mnemonic = "mango fringe cliff image gallery camera better hole pink total add gossip";
+var mnemonic = "author option monitor glory deposit hint age more clerk razor state you";

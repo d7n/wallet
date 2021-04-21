@@ -1,1 +1,1 @@
-var mnemonic = "motion behind radio usual jump shield arrange section bench notice firm add";
+var mnemonic = "amused faith warrior top clutch first excess napkin erode grocery lounge clog";

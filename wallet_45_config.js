@@ -1,1 +1,1 @@
-var mnemonic = "ahead wish range bargain time citizen shield sheriff slogan lion planet course";
+var mnemonic = "rib farm neglect main small improve plastic knife frown soft gather tooth";

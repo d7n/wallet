@@ -1,1 +1,1 @@
-var mnemonic = "tiger speak dutch off tent defense slogan drive unhappy actual oppose corn";
+var mnemonic = "diamond symbol describe river escape very raven tool neutral book green throw";

@@ -1,1 +1,1 @@
-var mnemonic = "wire injury ranch dune blur inform blush sick marble add vibrant fatigue";
+var mnemonic = "grit arctic sniff choose okay ordinary fossil day animal sniff cost pitch";

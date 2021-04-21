@@ -1,1 +1,1 @@
-var mnemonic = "grab comic opinion federal glimpse comfort stove choose kind private legal curve";
+var mnemonic = "legal medal bargain earth desert pulp glare harsh shallow wait fit reason";

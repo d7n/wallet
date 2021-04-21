@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog essay embark elevator lottery style more drill napkin surround slogan nothing";
+var mnemonic = "decrease super hard virus rent profit project system capable twice shock punch";

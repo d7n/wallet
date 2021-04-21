@@ -1,1 +1,1 @@
-var mnemonic = "firm merge rotate offer labor layer patch divert print young sick domain";
+var mnemonic = "dynamic program shell treat hand miracle knee enable jazz someone kite strong";

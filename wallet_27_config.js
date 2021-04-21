@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur hollow merry palace permit access desert regret exit recall lawsuit current";
+var mnemonic = "boss immense rhythm marble possible dinosaur urge skirt firm notable measure chaos";

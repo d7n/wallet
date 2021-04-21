@@ -1,1 +1,1 @@
-var mnemonic = "warrior reduce movie sound palm lab special concert cinnamon size sing because";
+var mnemonic = "child announce happy discover total setup rather gasp keen stick detail guard";

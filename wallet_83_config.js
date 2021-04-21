@@ -1,1 +1,1 @@
-var mnemonic = "large floor among where hello unlock become fashion describe fiber kangaroo town";
+var mnemonic = "knife easily edge width rate own laugh field pen pupil toast enable";

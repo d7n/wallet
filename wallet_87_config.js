@@ -1,1 +1,1 @@
-var mnemonic = "series script struggle life crumble capable apple artist smile book effort device";
+var mnemonic = "major immune carpet alert mystery atom document remain keen congress extra miss";

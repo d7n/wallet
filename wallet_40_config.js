@@ -1,1 +1,1 @@
-var mnemonic = "loud group grant trigger kit skull clarify lady chalk aunt rent cute";
+var mnemonic = "way addict gorilla sketch protect clever mind member night evidence step guess";

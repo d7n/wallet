@@ -1,1 +1,1 @@
-var mnemonic = "six actual wise evil blast mask render group obscure icon exotic empower";
+var mnemonic = "absurd orient oven salute desert puppy copper beef junior duck tent adjust";

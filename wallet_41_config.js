@@ -1,1 +1,1 @@
-var mnemonic = "curve sail tilt burger culture history upper panda achieve build happy empty";
+var mnemonic = "right dinosaur dumb bulk author level carpet manage beef someone ill skirt";

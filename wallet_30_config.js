@@ -1,1 +1,1 @@
-var mnemonic = "circle output dune snap receive ski cluster thought honey pupil install sweet";
+var mnemonic = "dash convince sing account skate coconut clap tooth half topic invite test";

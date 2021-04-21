@@ -1,1 +1,1 @@
-var mnemonic = "off bulk sheriff office shed toward west hub buffalo mammal nominee peasant";
+var mnemonic = "damage error maximum nut truly chalk random orange labor train make energy";

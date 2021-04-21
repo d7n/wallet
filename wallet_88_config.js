@@ -1,1 +1,1 @@
-var mnemonic = "brave high pitch day used aim display glow bridge also panic obtain";
+var mnemonic = "core rural dignity enable mule song wrestle virtual property actual parrot length";

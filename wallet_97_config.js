@@ -1,1 +1,1 @@
-var mnemonic = "hope school quantum woman hair dilemma moral elder hamster forum green web";
+var mnemonic = "heart yard lamp airport century salad gloom pave assault naive figure kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond copper client raw heavy original purchase token skull glove lemon jazz";
+var mnemonic = "retire excuse please hurdle bird region wine aisle autumn choice cargo version";

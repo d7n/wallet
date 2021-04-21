@@ -1,1 +1,1 @@
-var mnemonic = "high judge few exotic grief engine today illness chronic history middle vendor";
+var mnemonic = "daughter truck aerobic reduce exhaust notable fame syrup magic fruit orchard own";

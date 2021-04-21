@@ -1,1 +1,1 @@
-var mnemonic = "stool gold simple hint protect talk true minimum discover kitten jacket lyrics";
+var mnemonic = "text indoor receive direct unable rent dignity absurd start immense sibling gold";

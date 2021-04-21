@@ -1,1 +1,1 @@
-var mnemonic = "galaxy lava duty man love stadium twelve scan skull satisfy gospel hunt";
+var mnemonic = "latin recipe crush recipe economy hungry marble like tenant assist link trumpet";

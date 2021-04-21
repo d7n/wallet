@@ -1,1 +1,1 @@
-var mnemonic = "critic liar kitchen muffin remember plunge before pudding ramp embrace pulse rebel";
+var mnemonic = "kit prison fiscal scrap loyal trophy flat version bamboo parrot glide bind";

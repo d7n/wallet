@@ -1,1 +1,1 @@
-var mnemonic = "spray taste vault apart boss chief sample season bean infant arm alcohol";
+var mnemonic = "gate vicious ramp uniform toward tide fruit afraid present main coach evoke";

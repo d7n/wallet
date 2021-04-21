@@ -1,1 +1,1 @@
-var mnemonic = "media dove romance issue must crush become process crash divert endless theme";
+var mnemonic = "reject return approve hidden oak fiber coin bread solid skill valve rice";

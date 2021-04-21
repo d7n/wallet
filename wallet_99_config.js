@@ -1,1 +1,1 @@
-var mnemonic = "humble second own oak bounce farm hedgehog truck quality jelly eyebrow pig";
+var mnemonic = "engage speak enrich rival entry pond organ join error fan rate chaos";

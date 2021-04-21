@@ -1,1 +1,1 @@
-var mnemonic = "evidence diamond dance faint opinion actress crack thing chase cancel mandate champion";
+var mnemonic = "sustain bottom hub that stay slim exhaust seven column siege fragile fold";

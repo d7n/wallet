@@ -1,1 +1,1 @@
-var mnemonic = "local awkward admit violin oblige switch space near upset unit diet want";
+var mnemonic = "mobile expect lazy life cube neck turkey cruise story zero output fruit";

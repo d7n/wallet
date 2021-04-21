@@ -1,1 +1,1 @@
-var mnemonic = "bomb stuff idea ship ready cheap connect twice tunnel glide oven plug";
+var mnemonic = "program unique seat tenant humble body cousin argue own silk seek during";

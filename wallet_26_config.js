@@ -1,1 +1,1 @@
-var mnemonic = "sniff document cable post soccer juice liberty calm ahead olive produce raise";
+var mnemonic = "lounge fold adult fish advice sponsor glory six stage deny census sport";

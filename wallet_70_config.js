@@ -1,1 +1,1 @@
-var mnemonic = "lunar hospital attack sell suit brother paper ship firm curve notable cruel";
+var mnemonic = "junior family fresh autumn wing only gas twenty ecology orphan identify debris";

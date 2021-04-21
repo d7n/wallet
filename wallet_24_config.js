@@ -1,1 +1,1 @@
-var mnemonic = "post zoo apart december give resemble giggle cousin sister ostrich timber pass";
+var mnemonic = "evidence praise learn want rely fall punch slight century lunar various media";

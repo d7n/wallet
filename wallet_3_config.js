@@ -1,1 +1,1 @@
-var mnemonic = "fresh apology shuffle ugly vehicle key pilot fatal vintage update inform chair";
+var mnemonic = "display swallow onion shop dragon claw reform brass rhythm disease delay rail";

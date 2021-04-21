@@ -1,1 +1,1 @@
-var mnemonic = "expect recall eternal agent since lady gossip concert flock twin vendor topple";
+var mnemonic = "girl alpha worth hello wear gesture badge polar disease mountain toward exercise";

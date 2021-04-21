@@ -1,1 +1,1 @@
-var mnemonic = "blood stage ski curtain asset pelican hobby sand invite churn jelly benefit";
+var mnemonic = "cancel clock visit bright grab enact afraid drink swamp wedding trick winner";

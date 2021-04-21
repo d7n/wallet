@@ -1,1 +1,1 @@
-var mnemonic = "feed drink problem address okay cotton person toddler slogan agent math amount";
+var mnemonic = "stove spider coyote car general soda scrap urban device roof garbage purity";

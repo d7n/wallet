@@ -1,1 +1,1 @@
-var mnemonic = "minute dog possible over quick umbrella rocket deal one abstract tilt laugh";
+var mnemonic = "perfect plastic soul myself world pioneer holiday coach stereo absurd light stick";

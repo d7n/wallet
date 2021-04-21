@@ -1,1 +1,1 @@
-var mnemonic = "range monitor island code twelve vendor emotion six transfer someone decorate ankle";
+var mnemonic = "animal trash aisle liquid uncle destroy speak pear shield cool width curtain";

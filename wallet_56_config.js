@@ -1,1 +1,1 @@
-var mnemonic = "devote solve elephant plug later miracle grunt grass grab sheriff federal envelope";
+var mnemonic = "heart garage hover weekend profit time zero island vintage lonely fence west";

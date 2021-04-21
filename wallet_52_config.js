@@ -1,1 +1,1 @@
-var mnemonic = "fury perfect enrich slender debris lion curtain melt craft frequent comic once";
+var mnemonic = "royal tuna seed hurdle benefit lumber attract attract pattern master panel adult";

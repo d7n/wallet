@@ -1,1 +1,1 @@
-var mnemonic = "clock safe mass near ankle mirror cat lock speed stick brown glory";
+var mnemonic = "message frequent maze scorpion insect shove despair control equip diet affair capital";

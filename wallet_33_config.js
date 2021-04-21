@@ -1,1 +1,1 @@
-var mnemonic = "fox purity nut wife another hybrid alien sight faculty spice cloth lucky";
+var mnemonic = "equal ignore fruit fitness loud catch cost few spend crouch panther memory";

@@ -1,1 +1,1 @@
-var mnemonic = "office speed ribbon patient tortoise notable box ribbon eager audit weasel dynamic";
+var mnemonic = "unhappy fabric cannon remove include believe cave decide glance miss attract memory";

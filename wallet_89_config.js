@@ -1,1 +1,1 @@
-var mnemonic = "teach bean giant twin physical shed benefit parent prosper winner grab term";
+var mnemonic = "science gravity finger idle suit rule scrap ivory neither rate toilet purchase";

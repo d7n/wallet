@@ -1,1 +1,1 @@
-var mnemonic = "mosquito bar word coin bird mandate fiber saddle source thunder hawk industry";
+var mnemonic = "calm where swing cinnamon lobster eight require achieve illness over novel people";

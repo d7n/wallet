@@ -1,1 +1,1 @@
-var mnemonic = "focus canoe great woman truck calm subject portion noise drip donate creek";
+var mnemonic = "cupboard rescue tell trap sail present hood also nest promote woman average";

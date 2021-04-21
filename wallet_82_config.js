@@ -1,1 +1,1 @@
-var mnemonic = "float nut elite affair small crawl resource peace topic wink crowd bullet";
+var mnemonic = "various cat lift bind sudden claim lunch until mansion bracket modify post";

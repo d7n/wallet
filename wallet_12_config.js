@@ -1,1 +1,1 @@
-var mnemonic = "turn join correct frozen civil strategy limit patient auction fan truck ahead";
+var mnemonic = "lesson swap nephew legal razor analyst slot artist dutch clutch undo vehicle";

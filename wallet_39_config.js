@@ -1,1 +1,1 @@
-var mnemonic = "post color grid interest torch harsh dolphin absorb flower atom bulk knife";
+var mnemonic = "copper spirit price cube claw oxygen vacuum share glory leader siege boil";

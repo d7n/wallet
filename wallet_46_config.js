@@ -1,1 +1,1 @@
-var mnemonic = "crumble genius swallow solution vague inch rookie fence below surprise decline scale";
+var mnemonic = "mention scene minor evoke faith wood nation own adapt south depend today";

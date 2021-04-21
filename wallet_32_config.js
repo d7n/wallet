@@ -1,1 +1,1 @@
-var mnemonic = "else crowd rich urge repeat ramp robot veteran remain horn sting target";
+var mnemonic = "huge wink grass siren victory slab body obey bar fee control antique";

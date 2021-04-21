@@ -1,1 +1,1 @@
-var mnemonic = "field pilot pair sunset icon daughter there example order stove glue panic";
+var mnemonic = "anger error voyage gaze hedgehog live bargain day choose park salad design";

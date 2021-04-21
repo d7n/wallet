@@ -1,1 +1,1 @@
-var mnemonic = "despair veteran toe satisfy where decrease sample vague often nominee time stamp";
+var mnemonic = "illegal camera wagon pear opera spatial armor audit devote flip jacket keep";

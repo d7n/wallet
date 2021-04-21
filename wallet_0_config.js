@@ -1,1 +1,1 @@
-var mnemonic = "air salmon screen patient learn cannon produce august leader very pencil jacket";
+var mnemonic = "husband fault joke helmet jaguar dignity era current panda sustain require awful";

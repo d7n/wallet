@@ -1,1 +1,1 @@
-var mnemonic = "fantasy depth because level program sibling seed crew suggest program tip polar";
+var mnemonic = "knee puppy hood fancy ride enroll manual soccer rent flip infant asthma";

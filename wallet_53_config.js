@@ -1,1 +1,1 @@
-var mnemonic = "review patch orient merge high occur gate possible bitter raise only tuition";
+var mnemonic = "harsh tomato turn mandate time gospel warrior vague pony ability churn example";

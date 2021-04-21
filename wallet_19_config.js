@@ -1,1 +1,1 @@
-var mnemonic = "fuel begin churn amused success curtain exercise lab rain success spy drive";
+var mnemonic = "tail type interest stone chalk review illness safe dust resource move possible";

@@ -1,1 +1,1 @@
-var mnemonic = "desk monster zero candy advice virtual collect never truck outdoor link advice";
+var mnemonic = "moon oxygen nuclear acoustic man leg vicious used gossip gun vast worry";

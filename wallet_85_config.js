@@ -1,1 +1,1 @@
-var mnemonic = "garden question hold next illness face reform logic liberty vapor buffalo zebra";
+var mnemonic = "bitter clerk proud cage toast riot globe chicken moon badge among calm";

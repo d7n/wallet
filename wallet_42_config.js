@@ -1,1 +1,1 @@
-var mnemonic = "adjust promote talk daughter lumber robust wise voyage base hospital wide lady";
+var mnemonic = "merge gravity core dirt master depth erosion motion rail any curious trip";

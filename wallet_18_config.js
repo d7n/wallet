@@ -1,1 +1,1 @@
-var mnemonic = "oyster issue sail slow excite flush detect outdoor recycle suggest series people";
+var mnemonic = "quit usual sponsor legal penalty borrow antenna message bicycle powder fuel miss";

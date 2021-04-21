@@ -1,1 +1,1 @@
-var mnemonic = "protect project diagram beyond remember oblige muffin crash network twin scissors fork";
+var mnemonic = "boss moral hospital pluck object label source shuffle practice lucky february month";

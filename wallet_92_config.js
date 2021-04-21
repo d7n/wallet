@@ -1,1 +1,1 @@
-var mnemonic = "express access pluck leader movie shallow deposit divorce absurd put very stock";
+var mnemonic = "vocal antenna vocal couch worth regret grain capital poem vote bullet culture";

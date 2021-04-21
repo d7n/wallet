@@ -1,1 +1,1 @@
-var mnemonic = "runway please prefer dizzy loan flame public violin near profit force boil";
+var mnemonic = "ready chat glove oppose wish mixed clock sustain coffee know pill waste";

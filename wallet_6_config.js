@@ -1,1 +1,1 @@
-var mnemonic = "dog bag picnic shiver check immense race lens have fiber skill lab";
+var mnemonic = "denial memory diesel tag sail only enhance athlete march tiger access derive";

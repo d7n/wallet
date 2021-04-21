@@ -1,1 +1,1 @@
-var mnemonic = "hobby rent benefit various evoke need note allow answer body slogan diamond";
+var mnemonic = "tobacco step grid point language wet mule burger olympic nut iron say";

@@ -1,1 +1,1 @@
-var mnemonic = "pear pond sight doll tennis wall pelican arctic wedding sad entire fly";
+var mnemonic = "lion prize venture velvet nice milk timber grant divorce east endless raw";

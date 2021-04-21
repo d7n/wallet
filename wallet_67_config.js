@@ -1,1 +1,1 @@
-var mnemonic = "range giraffe merge garden coach carry drift antique cage blossom dance amount";
+var mnemonic = "nest song typical maze mango allow stadium salt inmate tone nuclear turtle";

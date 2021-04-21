@@ -1,1 +1,1 @@
-var mnemonic = "salt sugar staff leaf system carry screen output agree student joke tuition";
+var mnemonic = "answer gossip screen worry hammer axis anger roast lake process tool physical";

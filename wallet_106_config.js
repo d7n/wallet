@@ -1,1 +1,1 @@
-var mnemonic = "chapter local zoo stadium perfect fortune answer barrel input unfair rally isolate";
+var mnemonic = "hamster lottery trumpet letter cable rebel scene carry kind power grief disorder";

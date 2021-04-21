@@ -1,1 +1,1 @@
-var mnemonic = "tip reflect nice warfare case have pipe hazard stay violin dentist leg";
+var mnemonic = "dog force pool hip twenty scissors hill trophy unusual bless demand scatter";

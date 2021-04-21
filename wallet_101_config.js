@@ -1,1 +1,1 @@
-var mnemonic = "blossom term anger thrive company kingdom notice auto income gun panda control";
+var mnemonic = "wing smile reopen hobby climb celery say cool chuckle poem produce forward";

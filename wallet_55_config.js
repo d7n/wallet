@@ -1,1 +1,1 @@
-var mnemonic = "olive impulse stove trip daring bubble wall donate about hundred gun jump";
+var mnemonic = "prepare obtain demise swing retreat extend toward lens hood suggest predict scrap";

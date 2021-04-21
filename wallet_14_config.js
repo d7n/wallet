@@ -1,1 +1,1 @@
-var mnemonic = "elephant tray captain sleep bargain grass estate mammal pumpkin arena genuine claw";
+var mnemonic = "mother spawn slice flip right reunion royal thought unveil fiction vintage helmet";

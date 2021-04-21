@@ -1,1 +1,1 @@
-var mnemonic = "baby rapid keen drastic fee engage text govern issue weird repeat hub";
+var mnemonic = "barrel volume student achieve remind marriage fiscal wear surprise sound flower require";

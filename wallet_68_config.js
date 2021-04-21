@@ -1,1 +1,1 @@
-var mnemonic = "outdoor next tell wedding often voyage rude stereo letter summer trade tired";
+var mnemonic = "village session need lava kid special cake now resource payment merry fit";

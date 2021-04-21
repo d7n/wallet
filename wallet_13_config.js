@@ -1,1 +1,1 @@
-var mnemonic = "mean sibling lawn easily body fork garment blood general nut heavy veteran";
+var mnemonic = "obscure hub lava attend recall element allow roof mammal kitten pulp trophy";

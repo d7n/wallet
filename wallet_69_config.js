@@ -1,1 +1,1 @@
-var mnemonic = "jewel myself double rocket frost tube rabbit typical muffin keen parrot supreme";
+var mnemonic = "viable nation renew honey common refuse fiber brief snow sport ready before";

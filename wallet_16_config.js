@@ -1,1 +1,1 @@
-var mnemonic = "wait risk update rebel near cat exist orbit dose animal aware elder";
+var mnemonic = "gossip reduce figure salad salt ostrich piano puzzle hybrid camera relax basket";

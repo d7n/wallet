@@ -1,1 +1,1 @@
-var mnemonic = "aim firm current blood work knock horse resist shift topple reflect sad";
+var mnemonic = "wild bind actor wood evidence sun leader thumb chuckle just scissors advice";

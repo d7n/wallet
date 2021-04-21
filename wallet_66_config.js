@@ -1,1 +1,1 @@
-var mnemonic = "thought force vital envelope sniff cute floor junk motor acid walk only";
+var mnemonic = "horror across bone hen slice spell check fee drink monster juice letter";

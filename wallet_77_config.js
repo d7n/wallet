@@ -1,1 +1,1 @@
-var mnemonic = "keep amused reopen world soul target primary heart kidney check notice success";
+var mnemonic = "army position spawn love reflect winner bulk jazz lyrics meadow arena orphan";

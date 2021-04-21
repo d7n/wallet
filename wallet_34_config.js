@@ -1,1 +1,1 @@
-var mnemonic = "opera quick balcony nation wink glad gift eagle cinnamon machine strike lunar";
+var mnemonic = "shove cabin spy online surface habit zone bike skirt skin luggage faith";

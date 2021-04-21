@@ -1,1 +1,1 @@
-var mnemonic = "between almost response soap broom practice useful range sausage consider crop intact";
+var mnemonic = "law ugly tired barrel often iron loud wink else genius clinic brush";

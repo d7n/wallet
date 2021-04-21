@@ -1,1 +1,1 @@
-var mnemonic = "radar mango double hybrid asthma put iron stumble idea rhythm cry public";
+var mnemonic = "trap story sort limb code one melody violin host nest barrel lake";

@@ -1,1 +1,1 @@
-var mnemonic = "lion kind hire claw enact clip helmet wedding much razor cross song";
+var mnemonic = "leader elbow wealth spy chef arrange smile monitor wreck turtle human voyage";

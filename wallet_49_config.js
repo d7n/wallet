@@ -1,1 +1,1 @@
-var mnemonic = "reveal leisure twist sentence extra upgrade pencil trade pet endless roof curve";
+var mnemonic = "baby foil require imitate book gap lunar human virtual own barely true";

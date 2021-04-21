@@ -1,1 +1,1 @@
-var mnemonic = "rely flame today engine ill neck slam short enter west merry senior";
+var mnemonic = "front caught spend sudden session century curtain field find doll region shift";

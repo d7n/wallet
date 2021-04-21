@@ -1,1 +1,1 @@
-var mnemonic = "other issue brown solution upon cereal burst dog pigeon hollow series measure";
+var mnemonic = "ritual torch student skull valley coral defense guide sweet fatal alien someone";

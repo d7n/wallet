@@ -1,1 +1,1 @@
-var mnemonic = "resist pool symbol sustain praise ahead appear hole cup original plate elevator";
+var mnemonic = "gospel green woman hat summer demise observe casino cactus uncover visual purse";
