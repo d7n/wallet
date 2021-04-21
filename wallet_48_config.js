@@ -1,1 +1,1 @@
-var mnemonic = "tuna leg pudding damp sort figure level foot goat vintage fly nasty";
+var mnemonic = "name dance cram inhale barrel snack climb trash wealth rigid winter reflect";

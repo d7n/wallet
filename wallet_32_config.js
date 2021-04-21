@@ -1,1 +1,1 @@
-var mnemonic = "correct grit process airport thought people notice rifle figure ladder blast file";
+var mnemonic = "cupboard stone fuel guilt strike fury join royal state space ethics jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue boring tooth come ask like purchase human coral rural pumpkin bright";
+var mnemonic = "marble turkey gesture vibrant uncle venue license banner siren tilt peace differ";

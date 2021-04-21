@@ -1,1 +1,1 @@
-var mnemonic = "snack lecture shop rely prevent weapon deal hammer among open bless social";
+var mnemonic = "horror gap stage keen buzz debate loud doctor slush cry action addict";

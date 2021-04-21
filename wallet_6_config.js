@@ -1,1 +1,1 @@
-var mnemonic = "indoor urban mystery hedgehog write purpose lunar kingdom frame swap empty drill";
+var mnemonic = "rice glad field nose rich miss final ill doll dolphin industry exotic";

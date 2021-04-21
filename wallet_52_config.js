@@ -1,1 +1,1 @@
-var mnemonic = "pen pave borrow galaxy deny cage another artwork actor seminar dirt cruise";
+var mnemonic = "gaze gain equal engine maple dragon decorate lazy average glad treat surprise";

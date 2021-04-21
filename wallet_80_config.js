@@ -1,1 +1,1 @@
-var mnemonic = "such ankle sure mechanic color license shell bird foil wrap flavor dash";
+var mnemonic = "basic ride seed place minute morning injury struggle recycle evoke observe sock";

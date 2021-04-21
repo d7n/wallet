@@ -1,1 +1,1 @@
-var mnemonic = "tortoise invite smart escape best always lawn capable fan kitten convince fly";
+var mnemonic = "dignity purity session maid cloth lizard already gold chat blur actual theory";

@@ -1,1 +1,1 @@
-var mnemonic = "come journey trigger van sheriff verb burden cat horn client raw dawn";
+var mnemonic = "journey turn taste fault garment garment axis vessel approve gown remove head";

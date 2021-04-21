@@ -1,1 +1,1 @@
-var mnemonic = "oak stone famous hockey auto frown genre toss save youth together mimic";
+var mnemonic = "enable adult twist unable indoor museum border flip siren canvas comic enough";

@@ -1,1 +1,1 @@
-var mnemonic = "angle feel arm spot globe laugh sure observe fit weird brave twist";
+var mnemonic = "merit melody leader capable tooth nation rabbit useless blur quit spawn fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "width culture tomato glimpse hockey ability exchange matrix convince swallow jazz rapid";
+var mnemonic = "yellow farm celery arrest merge spirit resemble convince describe theme someone name";

@@ -1,1 +1,1 @@
-var mnemonic = "crash source loud carry tongue online mesh crane brass empty match snap";
+var mnemonic = "vessel wall head pluck fashion impose member sign convince act gold victory";

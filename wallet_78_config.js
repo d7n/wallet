@@ -1,1 +1,1 @@
-var mnemonic = "return flat critic economy soldier van tail rate innocent film tornado sound";
+var mnemonic = "future invest wolf oyster announce strategy toe survey popular wide feed kid";

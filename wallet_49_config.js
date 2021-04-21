@@ -1,1 +1,1 @@
-var mnemonic = "essay ginger raw obvious verify crater poem bean false miracle soul open";
+var mnemonic = "just coin purse skate escape sample seek charge claim list horror cup";

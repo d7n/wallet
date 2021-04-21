@@ -1,1 +1,1 @@
-var mnemonic = "recipe fame cruel february actress punch angry bag warm spawn dance beauty";
+var mnemonic = "impact trip task inmate whisper make west car cat trash birth guard";

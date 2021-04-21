@@ -1,1 +1,1 @@
-var mnemonic = "save depend boil broccoli tornado shine endorse debris accident improve ritual air";
+var mnemonic = "now never minor veteran two nasty century thank nominee paddle object upper";

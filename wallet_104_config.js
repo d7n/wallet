@@ -1,1 +1,1 @@
-var mnemonic = "beef tourist rally light increase metal dilemma juice famous lottery mushroom confirm";
+var mnemonic = "rookie game hover issue sustain believe liberty hub guide smooth found spirit";

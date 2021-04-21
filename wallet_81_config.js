@@ -1,1 +1,1 @@
-var mnemonic = "water primary retreat tumble search cream fringe quick space under heart pencil";
+var mnemonic = "come muffin leopard more tiny seed execute milk come fashion uniform submit";

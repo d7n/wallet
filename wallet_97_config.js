@@ -1,1 +1,1 @@
-var mnemonic = "summer garment midnight carpet transfer source husband curtain dolphin artist obtain doll";
+var mnemonic = "ripple dinosaur elite govern frown enough planet boat wagon enact neglect rib";

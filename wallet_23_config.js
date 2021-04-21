@@ -1,1 +1,1 @@
-var mnemonic = "place laundry boy near case project believe stumble flush release upper jar";
+var mnemonic = "reason hurt hurt leaf seat glance hard indoor knife sibling horn release";

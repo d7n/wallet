@@ -1,1 +1,1 @@
-var mnemonic = "final renew source radio essence business safe dose apology letter rocket pulse";
+var mnemonic = "lab upon volume roof peace grocery shop survey lyrics another jazz wonder";

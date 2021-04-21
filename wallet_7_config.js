@@ -1,1 +1,1 @@
-var mnemonic = "doll blood job buzz brave time argue smart vintage transfer giggle icon";
+var mnemonic = "harbor amused base around stomach nose ginger detail april use dignity pumpkin";

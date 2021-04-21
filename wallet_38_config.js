@@ -1,1 +1,1 @@
-var mnemonic = "bulk chest state flight observe alley swap primary genuine badge claim undo";
+var mnemonic = "father orange labor jewel panel blur evoke story possible amazing stereo lecture";

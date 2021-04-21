@@ -1,1 +1,1 @@
-var mnemonic = "dad defense pole weekend repair crumble master nest reject unit combine mad";
+var mnemonic = "fun humble party aerobic high merry sand corn vapor soldier twenty jazz";

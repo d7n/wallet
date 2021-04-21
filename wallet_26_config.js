@@ -1,1 +1,1 @@
-var mnemonic = "athlete rule equal size paddle minute rebuild brown health stomach insect staff";
+var mnemonic = "hybrid bind monitor come table verb buffalo trick express vague flower unfair";

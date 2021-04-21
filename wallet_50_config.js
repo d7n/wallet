@@ -1,1 +1,1 @@
-var mnemonic = "light patch army buzz puzzle swear mom arena grief drum exclude meadow";
+var mnemonic = "else admit dawn notable angle absurd shiver early film foot juice charge";

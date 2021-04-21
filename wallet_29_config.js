@@ -1,1 +1,1 @@
-var mnemonic = "please enhance kiwi gown bottom cruise wrap vicious team lady resist van";
+var mnemonic = "capable cycle wine pulp parade leisure grace truly system inflict swift easily";

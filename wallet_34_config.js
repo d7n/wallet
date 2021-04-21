@@ -1,1 +1,1 @@
-var mnemonic = "modify favorite always boy duck kangaroo thing enact dash reduce color anxiety";
+var mnemonic = "electric verify rough rain brass flag axis case laundry dance catch style";

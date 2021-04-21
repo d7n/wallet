@@ -1,1 +1,1 @@
-var mnemonic = "pulse orbit fold easily menu kitchen banner found seed use yard stove";
+var mnemonic = "runway truck muffin surround prison afford rural ozone dumb amount web fringe";

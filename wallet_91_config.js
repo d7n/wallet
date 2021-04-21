@@ -1,1 +1,1 @@
-var mnemonic = "razor result phrase end replace stuff circle common tongue impact choice swap";
+var mnemonic = "junior gap there rabbit bring stereo appear rifle faint goat satoshi rent";

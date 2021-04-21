@@ -1,1 +1,1 @@
-var mnemonic = "weather effort belt seed nest burst nice supreme rice ridge casual ethics";
+var mnemonic = "refuse bleak bird owner scorpion expose throw swallow job apology helmet wall";

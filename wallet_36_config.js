@@ -1,1 +1,1 @@
-var mnemonic = "behind film erosion main horror exit shy glow art sun lounge badge";
+var mnemonic = "apology town arctic text private inhale asset behave inch history swift bounce";

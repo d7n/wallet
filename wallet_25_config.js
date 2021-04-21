@@ -1,1 +1,1 @@
-var mnemonic = "start fog fatal tell come submit zone source truck card neglect nothing";
+var mnemonic = "demand frost eagle main armed tide promote eye misery round blossom fat";

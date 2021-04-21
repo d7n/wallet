@@ -1,1 +1,1 @@
-var mnemonic = "security dad anxiety begin cable voice history chuckle spin scheme butter shine";
+var mnemonic = "around scissors deputy enrich pilot find window brick basket cost harvest decline";

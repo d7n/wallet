@@ -1,1 +1,1 @@
-var mnemonic = "sponsor tower key file sound basket craft situate forest regret try forward";
+var mnemonic = "journey refuse matter rebuild host grape write color sure again detail fold";

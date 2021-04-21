@@ -1,1 +1,1 @@
-var mnemonic = "chair dad trumpet amazing once scheme unveil pet invite decrease cattle cream";
+var mnemonic = "slogan common achieve toe wide slender veteran own iron evil dirt leg";

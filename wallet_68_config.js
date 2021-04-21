@@ -1,1 +1,1 @@
-var mnemonic = "enrich evil misery orange moral helmet ball swarm still system method proof";
+var mnemonic = "vivid ankle thunder now lobster provide country news bus open doctor asthma";

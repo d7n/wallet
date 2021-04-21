@@ -1,1 +1,1 @@
-var mnemonic = "rookie width steel kingdom alcohol donor crouch acquire tornado gain weasel theme";
+var mnemonic = "weekend page wave rescue vacant toast online sea vessel enhance blast discover";

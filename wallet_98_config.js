@@ -1,1 +1,1 @@
-var mnemonic = "force omit elephant cube tongue index critic zebra marine miss mind muscle";
+var mnemonic = "increase bulk hover eternal swap boil rookie year flush what photo report";

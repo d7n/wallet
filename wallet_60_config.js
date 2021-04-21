@@ -1,1 +1,1 @@
-var mnemonic = "exhibit just dismiss icon truck stick left danger potato outer soldier flip";
+var mnemonic = "link end force carbon pattern reopen hire under lottery rare shuffle primary";

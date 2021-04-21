@@ -1,1 +1,1 @@
-var mnemonic = "depart derive spatial recipe certain ugly improve father dwarf slot famous asthma";
+var mnemonic = "snow feel olympic guide almost build tonight pair leaf rotate apology target";

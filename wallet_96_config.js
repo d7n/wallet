@@ -1,1 +1,1 @@
-var mnemonic = "ecology oxygen tiny target security update impose jeans sea riot sibling ankle";
+var mnemonic = "light chapter february cupboard sadness team chuckle apology raise december educate bacon";

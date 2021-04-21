@@ -1,1 +1,1 @@
-var mnemonic = "limb legend boss head quote legend nominee moral lend limb tray smoke";
+var mnemonic = "combine abuse depth call trick oil noodle walk naive sponsor joy panda";

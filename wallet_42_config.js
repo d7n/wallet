@@ -1,1 +1,1 @@
-var mnemonic = "gloom struggle round raven use wine average notable vacant off december stand";
+var mnemonic = "olive ribbon emerge business buffalo rain gossip laundry excess scene tiny siege";

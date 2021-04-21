@@ -1,1 +1,1 @@
-var mnemonic = "pig grass bachelor more luggage liar recall mule hurry number have behind";
+var mnemonic = "pudding forget distance reform metal category oval pull invest husband tongue search";

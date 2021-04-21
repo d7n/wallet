@@ -1,1 +1,1 @@
-var mnemonic = "oak poem main ridge zebra gas because concert ancient enough melody dynamic";
+var mnemonic = "false daring general forget upset midnight summer climb barely wisdom normal powder";

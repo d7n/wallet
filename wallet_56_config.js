@@ -1,1 +1,1 @@
-var mnemonic = "garage walnut ritual hero reopen festival crime slot panel lens icon slim";
+var mnemonic = "analyst broom awake conduct wrist turtle dinosaur vital cream style hurry final";

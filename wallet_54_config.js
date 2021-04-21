@@ -1,1 +1,1 @@
-var mnemonic = "current scissors run excess brief about know effort bounce satoshi beach window";
+var mnemonic = "foam remove dice episode pepper guitar retreat rally drip install property behave";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf salmon over force sadness demand fringe success shoe curve link person";
+var mnemonic = "choose extra region favorite tired hold tank neglect damage sweet twist bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "roof bridge reflect skill glimpse clap insane reduce train weasel near gallery";
+var mnemonic = "elder field harbor exchange glad hat neither urban kind vicious hockey race";

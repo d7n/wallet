@@ -1,1 +1,1 @@
-var mnemonic = "engage bird square laugh current artist husband raise dune punch pepper manual";
+var mnemonic = "unveil release salmon differ burger cousin auto prefer film run fitness siege";

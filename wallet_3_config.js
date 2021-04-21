@@ -1,1 +1,1 @@
-var mnemonic = "pave ten filter lobster sheriff exclude cake neither finger venture deputy endless";
+var mnemonic = "mass auto glow announce feature total fortune clinic visual measure random aim";

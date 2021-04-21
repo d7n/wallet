@@ -1,1 +1,1 @@
-var mnemonic = "transfer enforce debate deer receive perfect glass visa milk evidence canoe element";
+var mnemonic = "hen crystal bright myth gadget rubber father base state old warrior shoe";

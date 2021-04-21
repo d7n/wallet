@@ -1,1 +1,1 @@
-var mnemonic = "wish tongue priority apart tilt tumble almost confirm doctor grief story pioneer";
+var mnemonic = "crater gloom census deny volume ahead valve much course eternal prevent liar";

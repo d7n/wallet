@@ -1,1 +1,1 @@
-var mnemonic = "deposit feed glow depth now trap avocado october input slot aunt ocean";
+var mnemonic = "remove replace critic clutch since brass oyster wood pass ice response easy";

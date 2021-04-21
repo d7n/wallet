@@ -1,1 +1,1 @@
-var mnemonic = "category embark tissue imitate visa soap portion brief until uphold certain arrange";
+var mnemonic = "arena case fossil order quiz afraid museum father office eight solar soup";

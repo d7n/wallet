@@ -1,1 +1,1 @@
-var mnemonic = "gather total case ramp giant brass bench web just power twin patient";
+var mnemonic = "tissue exchange angry cube peanut churn trade impulse prefer response dice slice";

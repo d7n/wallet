@@ -1,1 +1,1 @@
-var mnemonic = "virus eternal shell flash shove slab album tone camp vacant ordinary genre";
+var mnemonic = "depth cook fatigue comic tide suggest patient extra joy hat version section";

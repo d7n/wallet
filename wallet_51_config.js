@@ -1,1 +1,1 @@
-var mnemonic = "adapt network fiber agree display play mesh leisure fault mechanic river virtual";
+var mnemonic = "bargain tribe fault guide spring inch sentence dutch record top clip marble";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose pupil connect myself enable brass turtle satisfy ceiling vocal oil cancel";
+var mnemonic = "iron name brisk reflect deposit fresh inch bleak infant parade still drive";

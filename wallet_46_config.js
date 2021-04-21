@@ -1,1 +1,1 @@
-var mnemonic = "misery gloom bamboo trigger manage where cry quick scrub scissors tongue crime";
+var mnemonic = "spike unveil debris dismiss attract clap drama remind stomach shaft action gaze";

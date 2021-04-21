@@ -1,1 +1,1 @@
-var mnemonic = "swear coin reject run tonight expand wood stereo slide quiz detect inmate";
+var mnemonic = "lawsuit settle ozone match flag fitness dad hood mad wave design hospital";

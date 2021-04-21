@@ -1,1 +1,1 @@
-var mnemonic = "juice gown mountain clown cover novel sound call name purse assault mammal";
+var mnemonic = "range vehicle second regular cloud trash street dismiss surge share fresh patch";

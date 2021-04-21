@@ -1,1 +1,1 @@
-var mnemonic = "close soldier analyst save gaze focus novel shrimp grow engage bullet thunder";
+var mnemonic = "attack battle someone skin number round gas decline bus assume whip throw";

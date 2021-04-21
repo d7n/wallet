@@ -1,1 +1,1 @@
-var mnemonic = "humor fault square stadium bone zero salute sight bone expire december secret";
+var mnemonic = "miss library august palm filter purity energy rally guard velvet hurt clean";

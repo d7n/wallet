@@ -1,1 +1,1 @@
-var mnemonic = "snack ramp insect firm oil leader stand present today renew alcohol beach";
+var mnemonic = "harvest health day someone nerve trap popular fragile evidence term absurd receive";

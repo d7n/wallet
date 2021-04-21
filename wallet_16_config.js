@@ -1,1 +1,1 @@
-var mnemonic = "palace space dentist inherit rabbit segment wall debate fine vapor innocent glimpse";
+var mnemonic = "antenna regular anxiety burger work bean canyon grunt moment sword hover rail";

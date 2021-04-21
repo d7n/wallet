@@ -1,1 +1,1 @@
-var mnemonic = "heart opera swamp oblige wire guilt clever leave trouble erupt say limit";
+var mnemonic = "endless rug slim live patrol connect royal error melody alien reject glue";

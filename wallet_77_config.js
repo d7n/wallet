@@ -1,1 +1,1 @@
-var mnemonic = "number seat melody group cinnamon devote sick half hockey call toilet ostrich";
+var mnemonic = "able real knife add frozen airport harvest toddler bullet vote jungle polar";

@@ -1,1 +1,1 @@
-var mnemonic = "nest crystal announce gauge enter wing inside try trophy tiger thrive midnight";
+var mnemonic = "cabbage vocal carpet wheel habit tortoise emerge until that mountain custom carpet";

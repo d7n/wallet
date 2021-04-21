@@ -1,1 +1,1 @@
-var mnemonic = "unusual loop trust case brand glue oppose cabbage tiny pair animal together";
+var mnemonic = "turtle leg wish torch giggle isolate inform behind syrup wild scissors sentence";

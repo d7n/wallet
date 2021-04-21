@@ -1,1 +1,1 @@
-var mnemonic = "account appear stool foil pioneer fan lawsuit rib absurd drive auto sugar";
+var mnemonic = "quit sadness risk casino emerge clutch orange choice tonight either neutral hub";

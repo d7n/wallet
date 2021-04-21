@@ -1,1 +1,1 @@
-var mnemonic = "dentist trial young matter forget income enroll athlete hard stumble someone increase";
+var mnemonic = "person film ranch cluster wife problem symptom catalog behind bind renew debris";

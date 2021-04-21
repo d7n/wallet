@@ -1,1 +1,1 @@
-var mnemonic = "detect uncle glide choice exhibit shiver cupboard sense such abstract winter elegant";
+var mnemonic = "defense draw scissors retreat cry endorse obvious engage seat heavy close brave";

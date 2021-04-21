@@ -1,1 +1,1 @@
-var mnemonic = "nasty exchange question question blush certain unknown rack ridge best march rough";
+var mnemonic = "any win kick eye room matter typical error tennis anger royal stem";

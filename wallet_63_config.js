@@ -1,1 +1,1 @@
-var mnemonic = "buzz party dwarf price current path clump motor talent track kind frog";
+var mnemonic = "garbage joy junk tell chase swim excite veteran scout board wait race";

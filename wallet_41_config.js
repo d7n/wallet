@@ -1,1 +1,1 @@
-var mnemonic = "alpha salon wolf cupboard client movie cement stadium inject toss hood medal";
+var mnemonic = "sail sketch capable throw hurry unfair loop stadium tag old shine uphold";

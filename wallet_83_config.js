@@ -1,1 +1,1 @@
-var mnemonic = "lens century account creek cash unhappy muffin globe adult draft net pool";
+var mnemonic = "oval patch useful scatter swallow wall organ alley reform tackle upgrade solar";

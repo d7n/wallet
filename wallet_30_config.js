@@ -1,1 +1,1 @@
-var mnemonic = "fringe raise olive often ordinary ride meat kid person access onion assist";
+var mnemonic = "theme explain ghost sustain brisk ring chest cart dragon lesson victory lab";

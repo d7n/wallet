@@ -1,1 +1,1 @@
-var mnemonic = "cargo basic chat add power business liquid street verify judge core wide";
+var mnemonic = "item lonely satoshi craft very stage cage patch evoke legend dutch butter";

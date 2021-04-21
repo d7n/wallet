@@ -1,1 +1,1 @@
-var mnemonic = "evolve lunch together december giant unique collect unfair cricket economy find funny";
+var mnemonic = "jelly region similar omit winter fun spare cliff negative always portion artwork";
