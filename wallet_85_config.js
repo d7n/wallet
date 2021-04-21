@@ -1,1 +1,1 @@
-var mnemonic = "cricket crime romance check kick vivid deal book habit depth swim various";
+var mnemonic = "husband repair dynamic chuckle burger car wedding myth jeans surprise any like";

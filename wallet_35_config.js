@@ -1,1 +1,1 @@
-var mnemonic = "youth runway aisle goddess dutch enlist dial unable now mountain bundle trigger";
+var mnemonic = "shy life suspect south loyal hard when engage erosion grab wire say";

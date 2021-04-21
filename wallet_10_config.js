@@ -1,1 +1,1 @@
-var mnemonic = "jelly mass tonight road enough cook option black refuse goddess legend travel";
+var mnemonic = "sauce doll match satoshi fix exile width share first around rival fire";

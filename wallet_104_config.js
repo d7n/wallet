@@ -1,1 +1,1 @@
-var mnemonic = "repeat gym web impose nest zone okay come april produce enact smooth";
+var mnemonic = "bean toilet rookie usual service dizzy task track double slim pitch rug";

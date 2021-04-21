@@ -1,1 +1,1 @@
-var mnemonic = "umbrella pony tomato decorate thrive glimpse notice same leader night fortune patient";
+var mnemonic = "clock crime craft avoid cigar mule calm cover next satisfy nest loop";

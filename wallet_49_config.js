@@ -1,1 +1,1 @@
-var mnemonic = "fatigue shiver garbage blanket sugar vague legend fix tennis gun actor stadium";
+var mnemonic = "glad dish rescue ramp sentence awesome clutch cause donkey tobacco ankle glue";

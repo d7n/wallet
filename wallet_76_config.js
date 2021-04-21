@@ -1,1 +1,1 @@
-var mnemonic = "march liquid erupt explain endorse input muscle junk above rug cushion flock";
+var mnemonic = "catalog cereal journey position sport saddle year airport picture crazy liquid move";

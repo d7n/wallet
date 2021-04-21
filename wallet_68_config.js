@@ -1,1 +1,1 @@
-var mnemonic = "point flight possible rocket enforce afraid weird grow tower poet hill buzz";
+var mnemonic = "squirrel label outside whisper clutch jungle nature process flush knock duty super";

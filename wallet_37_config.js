@@ -1,1 +1,1 @@
-var mnemonic = "click face amazing reopen diet scatter wheat flat leopard spice fiber describe";
+var mnemonic = "cloth wink kid observe select hawk hospital supreme sketch churn awesome weird";

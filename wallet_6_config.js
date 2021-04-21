@@ -1,1 +1,1 @@
-var mnemonic = "ocean edit swift hour latin blossom swear bike early foster where like";
+var mnemonic = "fine razor believe wool gift jaguar just exercise refuse limb episode tank";

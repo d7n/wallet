@@ -1,1 +1,1 @@
-var mnemonic = "become door total pumpkin present twist safe fan dose river match ride";
+var mnemonic = "idea jealous typical floor pretty special select library surround crawl dune turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "despair mistake box truly panda refuse beyond mesh sponsor fossil fold receive";
+var mnemonic = "tilt weather audit cluster intact gospel person teach blouse lab master drift";

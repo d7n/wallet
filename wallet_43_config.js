@@ -1,1 +1,1 @@
-var mnemonic = "mutual client ridge sight interest ice trophy venue dinner absent dance express";
+var mnemonic = "moral exhibit supply liberty shop own habit vivid volume detect impact admit";

@@ -1,1 +1,1 @@
-var mnemonic = "load tongue purse little another copper lounge inmate wedding frequent pave muscle";
+var mnemonic = "satoshi normal erupt cash smoke position mad stable bundle rice worth offer";

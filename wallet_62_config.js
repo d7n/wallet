@@ -1,1 +1,1 @@
-var mnemonic = "cupboard curtain lion pilot buddy arena fluid dial regret autumn must skull";
+var mnemonic = "oyster wrong resemble fashion useful album pluck moon pelican decide cloth envelope";

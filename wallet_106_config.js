@@ -1,1 +1,1 @@
-var mnemonic = "erode gown brisk devote announce erosion approve upgrade notice subject inflict purchase";
+var mnemonic = "mammal ostrich obscure lava flower horn conduct mandate month peace north join";

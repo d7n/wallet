@@ -1,1 +1,1 @@
-var mnemonic = "afford sentence problem laugh spice journey cluster solve endless turn recycle thrive";
+var mnemonic = "push voyage unique kick over track leaf wreck maximum alcohol unhappy smart";

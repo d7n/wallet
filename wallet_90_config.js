@@ -1,1 +1,1 @@
-var mnemonic = "option again desert relax bread rule essay surround file future surface emotion";
+var mnemonic = "thrive improve betray bag owner relief employ slogan shuffle almost relax exile";

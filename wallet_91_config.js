@@ -1,1 +1,1 @@
-var mnemonic = "insane section inquiry hamster rapid wall gossip olive disorder chat profit gown";
+var mnemonic = "mammal anger fury stand room fringe summer utility program bench poem prison";

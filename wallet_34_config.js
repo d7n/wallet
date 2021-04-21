@@ -1,1 +1,1 @@
-var mnemonic = "fetch panic creek burden wave come simple device faith able exchange rib";
+var mnemonic = "doll upon cover answer start silk soccer gain sell van entire follow";

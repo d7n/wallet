@@ -1,1 +1,1 @@
-var mnemonic = "sample winter fade easy betray hobby crack sick retreat crane curve dwarf";
+var mnemonic = "donate diamond give combine scare ready thrive trap crumble close leaf speed";

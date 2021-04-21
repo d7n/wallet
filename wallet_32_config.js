@@ -1,1 +1,1 @@
-var mnemonic = "gap wash clerk axis scare poet lottery drill library prepare dolphin margin";
+var mnemonic = "mimic early public gas avocado aware chalk once basket ill jewel dizzy";

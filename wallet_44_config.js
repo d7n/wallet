@@ -1,1 +1,1 @@
-var mnemonic = "basic life dress exclude calm bright review diesel short habit pill try";
+var mnemonic = "clock wealth aerobic pill bulk model over cable patrol wonder race voyage";

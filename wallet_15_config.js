@@ -1,1 +1,1 @@
-var mnemonic = "carbon picnic more convince shy mercy win skull jewel meadow hen clock";
+var mnemonic = "lizard lab cluster short shoe burst range decline slide royal scatter story";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel fade drama example damp pyramid poet lava music dream crunch arrange";
+var mnemonic = "mesh state lobster forum flight civil guilt judge pluck denial empty print";

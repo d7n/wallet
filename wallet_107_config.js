@@ -1,1 +1,1 @@
-var mnemonic = "hawk flock letter income burst expect spike fever warfare range auction dish";
+var mnemonic = "term shine ahead danger logic eye march print problem nominee imitate chalk";

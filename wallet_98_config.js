@@ -1,1 +1,1 @@
-var mnemonic = "notice during three paper syrup slush lesson mad congress envelope east bag";
+var mnemonic = "flip tonight piano ordinary benefit salmon scout medal veteran once deny before";

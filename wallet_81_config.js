@@ -1,1 +1,1 @@
-var mnemonic = "office adult patch whale extra entire miracle cruise fresh erosion clap biology";
+var mnemonic = "conduct virus worry gate certain equal food churn adapt mask citizen pepper";

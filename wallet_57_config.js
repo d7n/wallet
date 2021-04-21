@@ -1,1 +1,1 @@
-var mnemonic = "honey company chalk ahead about senior staff secret fault eternal broom lounge";
+var mnemonic = "craft blossom taste index alcohol guide purchase ball vendor ugly logic foster";

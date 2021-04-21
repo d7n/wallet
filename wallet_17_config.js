@@ -1,1 +1,1 @@
-var mnemonic = "high antenna bike bean region arrow bitter federal hurt pumpkin owner toe";
+var mnemonic = "return explain fortune distance beach behind assist business tip spawn suspect output";

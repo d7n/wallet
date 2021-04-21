@@ -1,1 +1,1 @@
-var mnemonic = "angle flame act smoke glide blade hockey found wage kite squirrel federal";
+var mnemonic = "twelve trick endless horn sunny leg forget secret doctor tray enact pen";

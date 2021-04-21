@@ -1,1 +1,1 @@
-var mnemonic = "isolate camp village course funny swing cinnamon usual increase exchange october aisle";
+var mnemonic = "desk siren grit parade tank tail napkin cable easy energy slice dolphin";

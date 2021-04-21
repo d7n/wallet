@@ -1,1 +1,1 @@
-var mnemonic = "car hurt clarify chronic senior proof maximum another smile cost wool electric";
+var mnemonic = "bird mandate melody muffin task shaft thought mesh call section license depend";

@@ -1,1 +1,1 @@
-var mnemonic = "hard surprise remind melody purity upon future moral repeat bachelor outdoor wolf";
+var mnemonic = "ocean snap suggest penalty island that license sudden drift cotton blade admit";

@@ -1,1 +1,1 @@
-var mnemonic = "animal service rocket earth inmate suspect final parent pen virus ignore second";
+var mnemonic = "glass panic gain dice gadget cage enemy neither wonder baby elite inside";

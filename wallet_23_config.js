@@ -1,1 +1,1 @@
-var mnemonic = "manage carbon adult nerve power duck jungle desk essence custom february thunder";
+var mnemonic = "crater prefer struggle elder discover liquid health radio globe close stem olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "spot buyer artist author alter happy assume grape unique ignore cat predict";
+var mnemonic = "neglect sleep tide rain must involve behave season bacon eye bulb access";

@@ -1,1 +1,1 @@
-var mnemonic = "display vacant crunch blossom noodle hill include clay pitch chronic nasty traffic";
+var mnemonic = "wrist melody milk human inside treat engine prevent desert arrow copy clerk";

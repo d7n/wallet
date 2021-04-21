@@ -1,1 +1,1 @@
-var mnemonic = "advice satisfy wave donate alert quick can spring allow swift mountain scrap";
+var mnemonic = "ordinary assist puppy art swing receive acquire scatter fragile distance soup improve";

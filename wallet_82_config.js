@@ -1,1 +1,1 @@
-var mnemonic = "lottery genre palace peasant vacuum stamp item scatter property ship young copper";
+var mnemonic = "modify survey focus snake bounce manage afraid bring cover team harvest either";

@@ -1,1 +1,1 @@
-var mnemonic = "license drop border key regular canoe pizza great inch strike track habit";
+var mnemonic = "purchase humble pride impose slogan runway token web army sun track fade";

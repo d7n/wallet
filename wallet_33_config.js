@@ -1,1 +1,1 @@
-var mnemonic = "awesome solar bottom cousin drill coyote divorce entry arm female can salmon";
+var mnemonic = "theory foil copper energy panda victory umbrella october shock glide plate six";

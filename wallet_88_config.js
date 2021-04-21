@@ -1,1 +1,1 @@
-var mnemonic = "fly mango hen scene gas oyster sock barely afford world silver when";
+var mnemonic = "gym please rich raven surround dumb faculty cigar boss cable entire pass";

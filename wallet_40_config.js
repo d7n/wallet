@@ -1,1 +1,1 @@
-var mnemonic = "genuine pilot legend captain fuel flash version outdoor river calm add wire";
+var mnemonic = "pelican absurd wrestle piece evolve before crater prefer one sunny task angle";

@@ -1,1 +1,1 @@
-var mnemonic = "choose oak provide settle success trust tiny window toward fossil true road";
+var mnemonic = "produce gift whip flee shell feed stable vanish color recycle inspire purity";

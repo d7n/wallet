@@ -1,1 +1,1 @@
-var mnemonic = "fiscal medal glue book material plunge blanket arch traffic focus more diesel";
+var mnemonic = "demise brave forget rich mean surface basket voyage blur day design brick";

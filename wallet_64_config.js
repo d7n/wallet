@@ -1,1 +1,1 @@
-var mnemonic = "buddy occur depend razor pilot correct club beyond veteran fringe riot balance";
+var mnemonic = "process under divorce bargain other fade blush flock spread pulp rough double";

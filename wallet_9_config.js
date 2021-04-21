@@ -1,1 +1,1 @@
-var mnemonic = "front drip dial buyer thunder net credit jewel fan absurd dawn quarter";
+var mnemonic = "palm wood raven buffalo modify practice ridge dawn catch fat prefer mountain";

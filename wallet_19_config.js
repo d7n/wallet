@@ -1,1 +1,1 @@
-var mnemonic = "cluster wish inflict dash wild never cry company live excess wagon surround";
+var mnemonic = "release door legal crash start feel attitude icon digital amount season step";

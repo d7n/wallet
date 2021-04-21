@@ -1,1 +1,1 @@
-var mnemonic = "solution wealth saddle charge grape ramp void income cigar sugar emerge unhappy";
+var mnemonic = "private flush cycle spare stove know cause float cluster anchor sausage beef";

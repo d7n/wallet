@@ -1,1 +1,1 @@
-var mnemonic = "myself change luxury glad taste ocean alert verb engage poem senior shoe";
+var mnemonic = "feed journey club column piano raven friend tired gravity upper either health";

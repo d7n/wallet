@@ -1,1 +1,1 @@
-var mnemonic = "diagram attend hurdle credit pattern visual couple letter bone rude strategy logic";
+var mnemonic = "gadget peace version danger increase number error twist finger upper estate enhance";

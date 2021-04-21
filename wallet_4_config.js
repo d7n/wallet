@@ -1,1 +1,1 @@
-var mnemonic = "mechanic buffalo engage eight oxygen mom gown rural build short ripple weekend";
+var mnemonic = "announce relief model coil bag actor anger fork spoon office topic tent";

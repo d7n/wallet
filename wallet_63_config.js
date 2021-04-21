@@ -1,1 +1,1 @@
-var mnemonic = "depth miss jungle poet firm region auction level lion cruise enrich misery";
+var mnemonic = "mammal bring seminar solid hazard tank early sadness priority shift parent title";

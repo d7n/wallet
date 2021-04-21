@@ -1,1 +1,1 @@
-var mnemonic = "loan repeat reduce wrap history office exhaust drama clay north wrestle breeze";
+var mnemonic = "vacant sweet citizen battle inspire travel remove fruit cheese recall ramp dial";

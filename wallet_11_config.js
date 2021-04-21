@@ -1,1 +1,1 @@
-var mnemonic = "guilt advance bachelor taste crop require mix grant diary gain pool because";
+var mnemonic = "appear hybrid jungle month job enrich grace better control priority park cash";

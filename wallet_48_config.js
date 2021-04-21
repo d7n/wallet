@@ -1,1 +1,1 @@
-var mnemonic = "risk crisp frog hurt pool stage anchor deal appear noble hamster blush";
+var mnemonic = "supply raw village eager barrel know humble ivory impact all habit interest";

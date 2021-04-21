@@ -1,1 +1,1 @@
-var mnemonic = "palace quit thumb solid output long pattern remind figure miss high aunt";
+var mnemonic = "viable egg liquid angry elite toss main need outside burden canvas physical";

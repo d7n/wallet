@@ -1,1 +1,1 @@
-var mnemonic = "sail video game witness cluster crisp pave now uncover faith six fiction";
+var mnemonic = "fish outside recipe coconut wild boy winner nominee upper hobby quarter monkey";

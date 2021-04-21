@@ -1,1 +1,1 @@
-var mnemonic = "arena glad rocket lady dynamic praise comfort start slush series benefit cake";
+var mnemonic = "fiber stumble cinnamon between february grass recipe congress steak bullet novel fever";

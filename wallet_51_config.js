@@ -1,1 +1,1 @@
-var mnemonic = "short movie runway planet crowd step pass sight kangaroo cabin ancient job";
+var mnemonic = "aunt poverty tiger hotel run honey visa length inside violin tuition drastic";

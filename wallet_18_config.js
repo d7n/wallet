@@ -1,1 +1,1 @@
-var mnemonic = "wise science favorite strong final cash canvas humble clock buzz tuna sketch";
+var mnemonic = "slam decline humor gorilla symptom ketchup novel again grain woman friend install";

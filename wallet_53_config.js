@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin pistol soon rubber drop cycle arrange price rather farm now lock";
+var mnemonic = "addict finger iron alarm flavor echo lumber road wreck also food salon";

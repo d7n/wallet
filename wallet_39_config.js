@@ -1,1 +1,1 @@
-var mnemonic = "person panic unveil urban yard hidden poet fetch deal defense april demand";
+var mnemonic = "boat real barrel wife pulp office random wild staff minute rude sheriff";

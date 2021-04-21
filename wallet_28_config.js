@@ -1,1 +1,1 @@
-var mnemonic = "ketchup umbrella truck pottery lion anchor admit hint action rural tomato rain";
+var mnemonic = "oxygen metal success smooth say demise maximum sister toss fit camp scatter";

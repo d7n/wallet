@@ -1,1 +1,1 @@
-var mnemonic = "circle discover sock calm dry either loyal together drink fury tent clinic";
+var mnemonic = "toss leave mansion couple abstract alien tiger skill control alcohol pool brain";

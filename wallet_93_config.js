@@ -1,1 +1,1 @@
-var mnemonic = "hybrid genre idea normal simple easy fiction craft benefit worth amazing short";
+var mnemonic = "impulse skin cake reward practice scheme action normal method case phone settle";

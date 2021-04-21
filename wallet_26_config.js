@@ -1,1 +1,1 @@
-var mnemonic = "decline million render merit dream hen portion identify whip ignore fall conduct";
+var mnemonic = "put draw airport smoke pluck organ praise deliver reason flower labor economy";

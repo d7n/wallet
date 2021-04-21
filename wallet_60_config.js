@@ -1,1 +1,1 @@
-var mnemonic = "exist boy enemy document enforce unknown tattoo gain cancel veteran whisper track";
+var mnemonic = "detect essence path vivid force clip rigid clerk number awkward weird roast";

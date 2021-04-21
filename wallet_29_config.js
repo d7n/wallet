@@ -1,1 +1,1 @@
-var mnemonic = "episode genre want naive coin fiction slice still picture obey skull tuna";
+var mnemonic = "crew crowd dilemma salt before zero sleep grit grunt pilot matrix orange";

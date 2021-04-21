@@ -1,1 +1,1 @@
-var mnemonic = "use hard pull strategy bean jump night sibling dash assume mimic path";
+var mnemonic = "vapor ceiling feel sample settle skull scrap furnace skate spoon reduce good";

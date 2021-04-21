@@ -1,1 +1,1 @@
-var mnemonic = "practice butter museum safe sniff top street current post busy comfort prefer";
+var mnemonic = "sibling federal dish robust frog poverty outside zoo evolve bamboo force duck";

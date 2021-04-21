@@ -1,1 +1,1 @@
-var mnemonic = "domain bread rule empty accuse play loan consider alert kiwi museum mouse";
+var mnemonic = "arctic border answer mean love month record rely furnace six board super";

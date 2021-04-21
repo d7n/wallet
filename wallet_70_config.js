@@ -1,1 +1,1 @@
-var mnemonic = "glue hold hood option effort maid glad modify arrange text govern become";
+var mnemonic = "marble enter logic priority cherry pistol dignity gun design census run filter";

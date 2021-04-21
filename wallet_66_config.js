@@ -1,1 +1,1 @@
-var mnemonic = "soccer family round jaguar motion omit taxi short copy pig crack diamond";
+var mnemonic = "now spot divert safe supreme shrimp meadow spare month hungry blood zone";

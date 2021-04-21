@@ -1,1 +1,1 @@
-var mnemonic = "summer wrong total citizen scatter outdoor license gallery hub chat erosion sight";
+var mnemonic = "advance undo empower fish extra never next kangaroo under jaguar pole mixed";

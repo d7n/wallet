@@ -1,1 +1,1 @@
-var mnemonic = "slot gift hawk slush advance cream shift notice bone index entry practice";
+var mnemonic = "excess confirm joy obvious flag pipe consider recall message live east enable";

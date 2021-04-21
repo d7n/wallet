@@ -1,1 +1,1 @@
-var mnemonic = "spread snack boost office ostrich isolate flower either hint slam cousin awkward";
+var mnemonic = "tobacco miracle artwork friend drama resource goddess weird excite thumb canyon figure";

@@ -1,1 +1,1 @@
-var mnemonic = "head toy expect brain feature mesh smart aunt spy toward trophy anchor";
+var mnemonic = "decrease seed believe trophy lizard bomb spawn learn demise note snack mansion";

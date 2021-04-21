@@ -1,1 +1,1 @@
-var mnemonic = "news fruit they fantasy lawn obtain birth load shuffle claim oven decide";
+var mnemonic = "example foster bicycle spend shoulder faith elevator paddle tent illegal lecture digital";

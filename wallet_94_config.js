@@ -1,1 +1,1 @@
-var mnemonic = "people advice exit portion east monitor begin patrol liquid plate visit sell";
+var mnemonic = "until witness front nurse expire ugly glove weapon cabbage minute assist quote";

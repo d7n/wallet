@@ -1,1 +1,1 @@
-var mnemonic = "tip bag million talk scale celery crazy jelly wide mushroom mammal fat";
+var mnemonic = "bundle angle series inch mystery concert copper grocery heart funny page device";

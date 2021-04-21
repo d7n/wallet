@@ -1,1 +1,1 @@
-var mnemonic = "wedding jelly boil federal hour transfer between friend core under excite unable";
+var mnemonic = "measure inside cheese travel camp drama effort master spell column time festival";

@@ -1,1 +1,1 @@
-var mnemonic = "property erase stage hamster need mountain add razor tribe own tip kiwi";
+var mnemonic = "canyon february ride select mosquito garlic bronze mention renew balcony affair plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "drive frame pulse judge rival gossip agree bread fold demise raw biology";
+var mnemonic = "battle brush visa hobby start decline upset attend cross water hollow drum";

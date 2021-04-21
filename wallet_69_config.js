@@ -1,1 +1,1 @@
-var mnemonic = "misery author ocean film sight already swift access squeeze approve oak diet";
+var mnemonic = "shadow medal actor talent chicken ball best mention chicken reopen elephant sentence";

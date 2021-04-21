@@ -1,1 +1,1 @@
-var mnemonic = "maid step bargain liar extend pull desk three dance flee uncover deer";
+var mnemonic = "cradle truly tiny foil brief right pepper away same kangaroo meadow replace";

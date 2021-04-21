@@ -1,1 +1,1 @@
-var mnemonic = "ensure husband mention kid extra mad office evil thrive raven vault auction";
+var mnemonic = "cigar wet hospital atom pattern mixture butter nothing south float baby fun";

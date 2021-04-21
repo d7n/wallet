@@ -1,1 +1,1 @@
-var mnemonic = "forum excuse volcano spring behave risk invite axis lunch reduce explain baby";
+var mnemonic = "cash mountain can brick rough choice marriage place cluster slide upset prison";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze adapt public year thank grid horror suggest thumb captain derive fossil";
+var mnemonic = "broken nurse pool novel foil glow anxiety pretty combine identify flight core";

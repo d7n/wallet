@@ -1,1 +1,1 @@
-var mnemonic = "inner follow sphere element swap tired file milk together outside vibrant ramp";
+var mnemonic = "wagon oil scrub owner learn execute once invite dawn piano fat use";

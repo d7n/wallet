@@ -1,1 +1,1 @@
-var mnemonic = "cry ski soldier patch doll kite chest open list wheat drama amateur";
+var mnemonic = "sudden steak trouble weapon hedgehog draft twin pill raw wild inch invest";
