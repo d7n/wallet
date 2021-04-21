@@ -1,1 +1,1 @@
-var mnemonic = "express stuff chapter excuse someone wave kidney spoon glance soup scrap script";
+var mnemonic = "this sausage stable lawn vintage speed sudden moral debris antique vivid marriage";

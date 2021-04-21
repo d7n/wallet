@@ -1,1 +1,1 @@
-var mnemonic = "already cricket empty lift taste kitchen bottom manage joke orient kitchen dove";
+var mnemonic = "credit possible coast bargain salon exact detect hole payment budget tonight decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest warrior much nose unable surprise uncover depth table car girl sort";
+var mnemonic = "drip duck other soft reduce truck miracle spike brave genuine spin one";

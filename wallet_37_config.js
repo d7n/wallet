@@ -1,1 +1,1 @@
-var mnemonic = "crowd alley require afraid surprise liberty shove quality gloom energy never rail";
+var mnemonic = "forum output chief material smoke void elevator toe once goddess myself patch";

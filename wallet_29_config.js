@@ -1,1 +1,1 @@
-var mnemonic = "shield ankle code tired soldier slim relax budget hole rate tired stove";
+var mnemonic = "evil grant dry misery silver foam scale find dinner song gadget also";

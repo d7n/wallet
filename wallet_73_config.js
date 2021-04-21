@@ -1,1 +1,1 @@
-var mnemonic = "apple main soccer stumble sauce slight repeat answer subway box neither liar";
+var mnemonic = "soldier spike once robot slender agent artist stay snack nephew area habit";

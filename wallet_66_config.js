@@ -1,1 +1,1 @@
-var mnemonic = "stumble twice ankle caught cream job skull author quick sword myth jungle";
+var mnemonic = "canyon snake artwork absorb mystery filter swamp atom abandon cool patrol galaxy";

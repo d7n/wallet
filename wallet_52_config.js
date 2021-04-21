@@ -1,1 +1,1 @@
-var mnemonic = "slush guard recipe swim decade rice own silver grass orange chapter hollow";
+var mnemonic = "elegant tired narrow post animal spring repeat bicycle fiber collect fancy rare";

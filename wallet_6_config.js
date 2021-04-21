@@ -1,1 +1,1 @@
-var mnemonic = "minimum motion sea service amateur inside safe van reflect pass good truly";
+var mnemonic = "ready school input cannon gesture remind fire crazy poem junk duck home";

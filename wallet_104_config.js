@@ -1,1 +1,1 @@
-var mnemonic = "gospel team biology machine drill sad charge range card allow motor crack";
+var mnemonic = "pencil lesson access symbol flip merry around bulb veteran into fly elite";

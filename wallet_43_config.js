@@ -1,1 +1,1 @@
-var mnemonic = "town chef wide carpet staff subway cinnamon offer trade alcohol swim mountain";
+var mnemonic = "smoke wood shed organ problem twenty bicycle slush hazard vanish target thumb";

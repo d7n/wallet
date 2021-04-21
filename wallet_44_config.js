@@ -1,1 +1,1 @@
-var mnemonic = "coral reveal proof image mirror balcony execute ride bracket vacant bargain thrive";
+var mnemonic = "chronic net erupt upon wreck coach thrive dress cram sport fiction eager";

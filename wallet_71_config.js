@@ -1,1 +1,1 @@
-var mnemonic = "middle across alcohol phone casino exercise bamboo sign rally position tenant tail";
+var mnemonic = "bridge certain cinnamon soda chase street search can ocean dad question chalk";

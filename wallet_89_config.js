@@ -1,1 +1,1 @@
-var mnemonic = "drive apple income lens predict hotel slender hold stairs tray scene wagon";
+var mnemonic = "awful winner will forest seed twenty tribe light deny fan leave suspect";

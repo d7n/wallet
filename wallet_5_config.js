@@ -1,1 +1,1 @@
-var mnemonic = "gospel style knee tomato exotic laugh paper borrow field camera hard hammer";
+var mnemonic = "neither rifle lobster ticket must tenant average antique reflect keen gorilla crisp";

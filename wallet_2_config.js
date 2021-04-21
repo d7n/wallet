@@ -1,1 +1,1 @@
-var mnemonic = "panic found interest inmate scale tunnel edit sphere copy galaxy airport utility";
+var mnemonic = "mean mango dish marine remain useful toilet clog spin eyebrow illegal swarm";

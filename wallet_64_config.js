@@ -1,1 +1,1 @@
-var mnemonic = "renew surface vote six notable improve magnet oven juice illness neglect search";
+var mnemonic = "sauce winner hazard luxury where raise stand car hunt tag mechanic absorb";

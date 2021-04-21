@@ -1,1 +1,1 @@
-var mnemonic = "danger anxiety soldier stumble eight clip mimic problem hospital enable strike furnace";
+var mnemonic = "boost matrix swing usage attract volcano access arch spot express emerge depart";

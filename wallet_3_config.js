@@ -1,1 +1,1 @@
-var mnemonic = "gun frequent spot liar grace bottom donor saddle fence decrease decorate creek";
+var mnemonic = "lecture stove fish winter major keen steak jaguar cost neck honey neutral";

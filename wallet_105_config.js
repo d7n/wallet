@@ -1,1 +1,1 @@
-var mnemonic = "soap scale sudden orphan bomb culture gauge turtle offer frequent police valid";
+var mnemonic = "poverty pretty about cloud myth dial acquire anxiety steel thank forum section";

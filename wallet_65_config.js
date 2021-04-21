@@ -1,1 +1,1 @@
-var mnemonic = "myth advice average primary deputy tribe donate keep mystery robust fog odor";
+var mnemonic = "pitch notice morning world alley divert arrange innocent defense twenty message recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "motion wonder tired act robust possible word axis provide evolve side trial";
+var mnemonic = "travel stable anxiety cloth brave sheriff spend hold subway satisfy above reduce";

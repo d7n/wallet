@@ -1,1 +1,1 @@
-var mnemonic = "valid oyster hire green paddle assume dune flame country thunder nominee discover";
+var mnemonic = "envelope era nest outer tail fox blur blanket arrest fringe sand width";

@@ -1,1 +1,1 @@
-var mnemonic = "empower drive base exit monkey crunch thunder dinner era glue upgrade kid";
+var mnemonic = "layer aerobic kiss north segment affair luxury trim crouch student still scrub";

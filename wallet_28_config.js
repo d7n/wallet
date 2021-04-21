@@ -1,1 +1,1 @@
-var mnemonic = "piano lesson guess clerk keep path monitor uniform field shrug merry cabbage";
+var mnemonic = "puppy stage cotton black victory occur tip spend mom bind dutch ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "cook bag steel gentle diet run palm audit word typical before outdoor";
+var mnemonic = "bus rather water fury gossip glow wolf train budget swamp cabin stamp";

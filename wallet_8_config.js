@@ -1,1 +1,1 @@
-var mnemonic = "interest length release sing cherry menu describe morning autumn spice oppose reason";
+var mnemonic = "short tone stone nerve wolf uniform whale screen candy mansion over figure";

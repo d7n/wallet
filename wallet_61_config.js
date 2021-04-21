@@ -1,1 +1,1 @@
-var mnemonic = "office bone obvious elbow muscle orchard vintage dad version train vacuum egg";
+var mnemonic = "absurd hand alien inspire clay hurdle forum cable coach family picnic tobacco";

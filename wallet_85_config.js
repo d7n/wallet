@@ -1,1 +1,1 @@
-var mnemonic = "divide wealth accident upset sort fossil aisle wrist trap digital share habit";
+var mnemonic = "become fruit enjoy card bullet disagree awake attack agree shaft below concert";

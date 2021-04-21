@@ -1,1 +1,1 @@
-var mnemonic = "lounge cereal fitness bullet luggage small pen body eternal pitch peanut happy";
+var mnemonic = "believe marble axis accident uniform tilt call cereal asthma stone pen half";

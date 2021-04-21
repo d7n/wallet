@@ -1,1 +1,1 @@
-var mnemonic = "solution spot brief column hammer sell seminar swamp innocent cross issue citizen";
+var mnemonic = "rose thing noble slice cluster budget intact step unaware miss tool dance";

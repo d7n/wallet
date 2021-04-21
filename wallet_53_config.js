@@ -1,1 +1,1 @@
-var mnemonic = "drop armor tiger strike knee under powder rally cheese seminar ribbon famous";
+var mnemonic = "hire orient moment transfer oyster giraffe city trust useful coffee oak often";

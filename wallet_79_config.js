@@ -1,1 +1,1 @@
-var mnemonic = "never valve common make range aware fit word avoid protect divide ensure";
+var mnemonic = "volcano catalog village theory bulb since diesel panther wreck awkward dragon budget";

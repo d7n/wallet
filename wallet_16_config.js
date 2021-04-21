@@ -1,1 +1,1 @@
-var mnemonic = "false creek ethics prize float culture target crucial flag federal faculty tone";
+var mnemonic = "plug proud among object crisp stage suit path eagle idle arrow place";

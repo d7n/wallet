@@ -1,1 +1,1 @@
-var mnemonic = "fatal sphere satoshi game remember elite history bonus crouch drip project knee";
+var mnemonic = "found leave steel guard denial near unlock regret exotic cruel bargain solar";

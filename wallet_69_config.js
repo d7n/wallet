@@ -1,1 +1,1 @@
-var mnemonic = "execute trumpet icon foster skirt shield scorpion else wash foam autumn monkey";
+var mnemonic = "accident pelican essence inspire tiger guard find glue victory middle where first";

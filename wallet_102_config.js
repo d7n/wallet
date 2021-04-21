@@ -1,1 +1,1 @@
-var mnemonic = "town foam welcome educate evil awesome crane dolphin manage copper tongue garage";
+var mnemonic = "give total measure shallow depend decorate wasp saddle shield punch cluster forget";

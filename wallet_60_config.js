@@ -1,1 +1,1 @@
-var mnemonic = "village fox core grief notable kangaroo language easy film undo offer above";
+var mnemonic = "arrow blue bike uncover account device utility wood faint head source stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect regular hand junior box sponsor evolve common soup print keep rubber";
+var mnemonic = "mass cereal unaware style witness depth hole armor library can mystery broken";

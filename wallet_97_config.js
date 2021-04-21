@@ -1,1 +1,1 @@
-var mnemonic = "ill win cash muscle case party shy pretty useful anger nose choose";
+var mnemonic = "category gadget alley bike fruit mirror school consider omit shoulder vacuum daring";

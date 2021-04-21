@@ -1,1 +1,1 @@
-var mnemonic = "mixed carpet verb pave cook tank wine answer uniform pencil town creek";
+var mnemonic = "skill initial either lecture team heavy error token icon welcome erupt climb";

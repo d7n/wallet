@@ -1,1 +1,1 @@
-var mnemonic = "auction ghost museum version inflict sport huge verb cruise response copper sign";
+var mnemonic = "motor lady unveil member seat village leisure enjoy ozone ski lunar argue";

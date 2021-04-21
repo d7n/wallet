@@ -1,1 +1,1 @@
-var mnemonic = "minor order scrub ignore inspire skin blade vivid flower scene broken ready";
+var mnemonic = "tiny toddler merry multiply aspect front pave weapon field kitten ticket pipe";

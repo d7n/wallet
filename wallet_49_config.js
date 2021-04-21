@@ -1,1 +1,1 @@
-var mnemonic = "vibrant logic round city rocket knee miracle situate axis reopen kind snake";
+var mnemonic = "elder round tumble vivid sad color live inmate motor neither drink cinnamon";

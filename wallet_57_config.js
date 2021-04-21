@@ -1,1 +1,1 @@
-var mnemonic = "vicious carry govern impact universe end enroll under civil scrub mass basic";
+var mnemonic = "stamp win wash fire sort mule eagle battle permit shoot capable debate";

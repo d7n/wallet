@@ -1,1 +1,1 @@
-var mnemonic = "frozen tissue idle corn during celery where rebel cargo upon enable debate";
+var mnemonic = "rule acquire chapter federal soup alley enlist effort illness raccoon nest fly";

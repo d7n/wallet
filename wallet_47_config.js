@@ -1,1 +1,1 @@
-var mnemonic = "pilot open energy typical brush ocean pride scout warfare slow stick cute";
+var mnemonic = "swing pelican purpose inner unlock bean dance pyramid faith turtle believe banner";

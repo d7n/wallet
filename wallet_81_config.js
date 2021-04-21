@@ -1,1 +1,1 @@
-var mnemonic = "knock desert annual glad improve danger strong occur strategy knock trim infant";
+var mnemonic = "winter soup account swallow hold apart capital system fiction foam grid thumb";

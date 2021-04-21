@@ -1,1 +1,1 @@
-var mnemonic = "learn nest outside drill bamboo pole middle blame album bar gloom feature";
+var mnemonic = "pizza machine simple spend sort super off labor scrub deliver impact recycle";

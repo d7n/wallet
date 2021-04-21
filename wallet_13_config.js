@@ -1,1 +1,1 @@
-var mnemonic = "decade fashion jazz type donkey coin attitude latin cabbage weekend gasp person";
+var mnemonic = "vault laptop mandate poverty border rack payment ill anger hotel siren multiply";

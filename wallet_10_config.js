@@ -1,1 +1,1 @@
-var mnemonic = "fiber file fatigue change speed card blossom total hero snow wet laugh";
+var mnemonic = "pair page hip distance effort frost ugly bar play fold upon suit";

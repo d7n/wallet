@@ -1,1 +1,1 @@
-var mnemonic = "another client review away winter between spirit merge cash tower guard negative";
+var mnemonic = "midnight science glue law rural improve push amount intact orbit sniff print";

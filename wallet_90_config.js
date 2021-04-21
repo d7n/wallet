@@ -1,1 +1,1 @@
-var mnemonic = "puppy depth increase west mean test post account puzzle toy video pigeon";
+var mnemonic = "device nephew prison tongue dismiss marine horn pet cave above usual girl";

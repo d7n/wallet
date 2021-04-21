@@ -1,1 +1,1 @@
-var mnemonic = "entire siren portion fish tonight pencil chalk eternal auction picture luggage grab";
+var mnemonic = "left broken master census merit brief capital brother antique oxygen language spirit";

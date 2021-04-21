@@ -1,1 +1,1 @@
-var mnemonic = "rocket lecture glue month tonight horse risk record point excuse all gas";
+var mnemonic = "shaft joke army grit cabin scout purity valve upper clever cupboard mandate";

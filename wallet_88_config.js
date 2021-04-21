@@ -1,1 +1,1 @@
-var mnemonic = "village report noise slush dish pass lens steel suspect either fury produce";
+var mnemonic = "lesson cherry animal junk chair daring parrot hire bind child ecology double";

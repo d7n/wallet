@@ -1,1 +1,1 @@
-var mnemonic = "brief pulse hand place fox shrug color dismiss empty enjoy palace cattle";
+var mnemonic = "ensure need ship donkey ghost cricket salad decade bring rose possible pen";

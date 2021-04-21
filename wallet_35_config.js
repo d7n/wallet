@@ -1,1 +1,1 @@
-var mnemonic = "bean van mixture useful nerve enjoy pipe range square shuffle output sentence";
+var mnemonic = "uncle reject raw category slogan pepper inspire faculty web stadium nest train";

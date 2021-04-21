@@ -1,1 +1,1 @@
-var mnemonic = "mimic advice true harvest antenna engine sick blossom letter settle elephant north";
+var mnemonic = "negative palace season produce roast media basket visa seed check magnet lecture";

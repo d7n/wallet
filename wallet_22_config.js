@@ -1,1 +1,1 @@
-var mnemonic = "put celery device abuse armed easily spike build ask ship ramp frozen";
+var mnemonic = "spoil salt educate author venue salad pen craft muffin announce call myself";

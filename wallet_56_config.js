@@ -1,1 +1,1 @@
-var mnemonic = "orbit duck number enter awesome census myself blue machine book fever wool";
+var mnemonic = "forward length script trim student oval avocado gloom fame vault imitate legend";

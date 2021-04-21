@@ -1,1 +1,1 @@
-var mnemonic = "what pink clever couch kitchen pond cross scout federal neither lesson range";
+var mnemonic = "spring obtain attract figure order deliver notable cruel sword choice canal target";

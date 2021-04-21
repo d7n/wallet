@@ -1,1 +1,1 @@
-var mnemonic = "among forget miss edit face sadness blue lock idle roast provide buddy";
+var mnemonic = "best apology olympic push strategy alien cargo ready index thought company gun";

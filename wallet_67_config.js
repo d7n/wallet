@@ -1,1 +1,1 @@
-var mnemonic = "lazy august midnight various dance letter will grant frozen term female embark";
+var mnemonic = "punch dog transfer bacon seek include peanut brick ecology muffin expand lonely";

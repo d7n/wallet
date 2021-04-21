@@ -1,1 +1,1 @@
-var mnemonic = "cactus record turkey ghost raven debate index bomb online okay hockey fault";
+var mnemonic = "lunar pony stem ketchup blood globe just there near expose nation guilt";

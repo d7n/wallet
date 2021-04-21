@@ -1,1 +1,1 @@
-var mnemonic = "oven property friend ecology silver end embrace region require jacket clever online";
+var mnemonic = "office rare person need secret soda strike march garden total debate rebel";

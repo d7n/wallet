@@ -1,1 +1,1 @@
-var mnemonic = "diary bench census pool oxygen damage couple outside solid retreat federal useless";
+var mnemonic = "unhappy night include uncover goat curtain bring infant purse polar deposit drama";

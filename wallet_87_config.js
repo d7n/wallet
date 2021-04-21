@@ -1,1 +1,1 @@
-var mnemonic = "mouse acoustic car between congress ignore pipe life mention rule census history";
+var mnemonic = "salmon forest uniform ski ensure matrix punch can sense upper before success";

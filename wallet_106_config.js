@@ -1,1 +1,1 @@
-var mnemonic = "near soft sniff debate buffalo black unfair slender slice room include someone";
+var mnemonic = "one marine spy tone inform list nerve blood strategy title scene belt";

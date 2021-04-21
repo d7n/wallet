@@ -1,1 +1,1 @@
-var mnemonic = "armed flame match price try remind distance kiss pave roast used flower";
+var mnemonic = "vault ribbon ripple explain dumb alert fiber copy treat explain during erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "flee purchase baby clog audit anger grace tooth heart piano rail palace";
+var mnemonic = "plunge pioneer link leisure pluck silver diamond tool little pink wreck foam";

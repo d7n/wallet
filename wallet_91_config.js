@@ -1,1 +1,1 @@
-var mnemonic = "meadow person toy organ juice impact exhaust lion smooth board judge minor";
+var mnemonic = "dry volcano glad option check mandate antique shoot gloom tomorrow fault baby";

@@ -1,1 +1,1 @@
-var mnemonic = "damp alert proud owner syrup slow web sound brief hurt risk near";
+var mnemonic = "blade west during peasant spring swap feature flock renew range camera book";

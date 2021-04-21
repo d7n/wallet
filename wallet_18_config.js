@@ -1,1 +1,1 @@
-var mnemonic = "promote keep patch drip umbrella spray walnut mind best arctic suffer stem";
+var mnemonic = "popular possible turn purse smart culture negative theory lounge segment super van";

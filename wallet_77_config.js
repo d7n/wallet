@@ -1,1 +1,1 @@
-var mnemonic = "sad mechanic stairs garden pattern used door verb help replace hub cliff";
+var mnemonic = "hat anxiety predict arrange spin silly logic layer enact earn blade flush";

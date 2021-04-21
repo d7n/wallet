@@ -1,1 +1,1 @@
-var mnemonic = "early input rose burst era benefit battle team scare fashion online actor";
+var mnemonic = "bamboo food unit senior dawn private thought angry snow circle ethics seed";

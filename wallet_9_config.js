@@ -1,1 +1,1 @@
-var mnemonic = "evidence arena burger expose donate dignity tooth width run cloud tomato rely";
+var mnemonic = "feature service cliff edge jungle twenty tourist any bottom scare pretty cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "flower script honey family much analyst express angry wage install banner city";
+var mnemonic = "alcohol owner differ comfort resist measure modify wash bind sheriff source cousin";

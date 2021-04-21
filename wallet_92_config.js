@@ -1,1 +1,1 @@
-var mnemonic = "board recall holiday join animal famous unaware satisfy heavy alter actual enact";
+var mnemonic = "lion abandon wonder forward section thank clarify present state inject surround library";

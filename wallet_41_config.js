@@ -1,1 +1,1 @@
-var mnemonic = "custom avoid rebuild capable aerobic local plunge fruit simple shoot lumber town";
+var mnemonic = "tray argue law rotate wool mask decline round dog mirror scrub skate";

@@ -1,1 +1,1 @@
-var mnemonic = "notice hole note category price few bamboo roast cash various hockey naive";
+var mnemonic = "penalty rhythm often melt high thank elite minimum initial heavy innocent truth";

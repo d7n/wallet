@@ -1,1 +1,1 @@
-var mnemonic = "range athlete cave dumb dove dirt helmet august stock cheap shuffle such";
+var mnemonic = "spirit grace skin acquire stem return rack uncle avocado outside ordinary hope";

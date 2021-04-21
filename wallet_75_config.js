@@ -1,1 +1,1 @@
-var mnemonic = "garlic slogan coil wing divert drink craft muffin plastic carry section please";
+var mnemonic = "ribbon chicken motion breeze steel predict jump tell tiger oppose hunt symbol";

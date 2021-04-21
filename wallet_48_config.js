@@ -1,1 +1,1 @@
-var mnemonic = "crane trouble bleak snow maid grow trial miracle forget blame ocean disease";
+var mnemonic = "wine session viable inflict square vicious exercise book search forget moon develop";

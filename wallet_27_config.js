@@ -1,1 +1,1 @@
-var mnemonic = "still bundle betray maximum script hip satoshi yard another foam husband gadget";
+var mnemonic = "scene wrap enough abandon water artwork defense debate design gym possible vanish";

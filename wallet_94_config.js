@@ -1,1 +1,1 @@
-var mnemonic = "enrich zebra island beach water still agent bridge uniform usage initial moment";
+var mnemonic = "feel uncover select inch crime wonder daring very shine shove trust stove";

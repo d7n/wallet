@@ -1,1 +1,1 @@
-var mnemonic = "galaxy twelve person barely laundry endorse connect tilt february avocado effort vibrant";
+var mnemonic = "lemon message video merry napkin fan damp awake bleak comic label hundred";

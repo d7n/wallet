@@ -1,1 +1,1 @@
-var mnemonic = "beauty mask open require grant jealous cool pulp never quarter symbol boring";
+var mnemonic = "dragon spell morning extend result fault blame drama worth waste dirt traffic";
