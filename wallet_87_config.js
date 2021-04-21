@@ -1,1 +1,1 @@
-var mnemonic = "maximum float nurse cattle current able pigeon oval warrior symptom since impact";
+var mnemonic = "pepper more minimum truck icon rhythm champion general uniform view random use";

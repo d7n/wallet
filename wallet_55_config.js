@@ -1,1 +1,1 @@
-var mnemonic = "father lawn trophy human ensure daring phrase option motor grow cluster coach";
+var mnemonic = "half never budget split grace arrange scare toss melody express ride essay";

@@ -1,1 +1,1 @@
-var mnemonic = "six believe dismiss notice become winter slow stove awful grit smoke click";
+var mnemonic = "imitate fresh resist merit main style peace novel weasel exclude voyage glare";

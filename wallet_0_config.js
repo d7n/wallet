@@ -1,1 +1,1 @@
-var mnemonic = "enroll cool ostrich step increase wait search ranch celery tackle target regret";
+var mnemonic = "focus skate swallow measure fuel naive brick regular phrase situate slush accuse";

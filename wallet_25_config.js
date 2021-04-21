@@ -1,1 +1,1 @@
-var mnemonic = "jump alcohol detect celery laundry crumble benefit bar puppy finish predict glass";
+var mnemonic = "walk struggle unfair tuna host warm town lawn mandate media cupboard reform";

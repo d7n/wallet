@@ -1,1 +1,1 @@
-var mnemonic = "easy close traffic chaos obscure core tower ostrich demise wrap infant upon";
+var mnemonic = "reunion fish middle regular trap topic damage faint fan burst ankle owner";

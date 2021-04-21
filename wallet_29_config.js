@@ -1,1 +1,1 @@
-var mnemonic = "chief thumb royal section one wood fresh inject hazard crush flower coil";
+var mnemonic = "sugar exile tongue seat coyote cradle crystal joy casual cost wagon strong";

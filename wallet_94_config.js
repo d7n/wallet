@@ -1,1 +1,1 @@
-var mnemonic = "combine silk puzzle clutch era dove beauty mule basket jeans next ghost";
+var mnemonic = "film one bottom act page utility fame more slice shrug resist expose";

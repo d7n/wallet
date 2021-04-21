@@ -1,1 +1,1 @@
-var mnemonic = "sail tone fat edit drive mammal oak cute spring cupboard bamboo west";
+var mnemonic = "enforce desk ozone curtain gloom huge beauty flee drastic skate best magic";

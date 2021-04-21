@@ -1,1 +1,1 @@
-var mnemonic = "plastic often enact border swing walk happy wife correct silver milk gorilla";
+var mnemonic = "erode main waste deny toast oppose reject will reunion lady forget half";

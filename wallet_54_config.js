@@ -1,1 +1,1 @@
-var mnemonic = "vacant gift primary prison bunker strategy ripple unlock excuse bring stay plug";
+var mnemonic = "december drop rapid crime december amateur faculty start pear behave grocery inquiry";

@@ -1,1 +1,1 @@
-var mnemonic = "unable polar asset believe winner step dizzy stomach athlete huge glass hedgehog";
+var mnemonic = "tobacco host immune own submit kingdom token plunge fiscal involve surface climb";

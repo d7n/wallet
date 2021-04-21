@@ -1,1 +1,1 @@
-var mnemonic = "smart make liquid trim cigar frozen tent input split drop alone mansion";
+var mnemonic = "garden dress pride spot deliver unknown stuff good fence record horror keep";

@@ -1,1 +1,1 @@
-var mnemonic = "slam practice blade horn idle ecology reason attitude trip dinner rescue cart";
+var mnemonic = "cute own catch only tree clutch reject permit rocket choice legend grid";

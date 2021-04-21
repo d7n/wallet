@@ -1,1 +1,1 @@
-var mnemonic = "electric smoke myself budget gallery accuse eagle liberty buyer merge pilot blind";
+var mnemonic = "emotion razor front access mother sorry ocean lens knee tray found retire";

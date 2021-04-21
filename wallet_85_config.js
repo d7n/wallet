@@ -1,1 +1,1 @@
-var mnemonic = "cake antenna review goat mango foot swing jeans saddle wide human nature";
+var mnemonic = "depart glory melody base sunny spatial erosion season hurdle comfort park glad";

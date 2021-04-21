@@ -1,1 +1,1 @@
-var mnemonic = "essence inject bring model soap question wagon myself tone right track interest";
+var mnemonic = "labor actor element dizzy hockey wool ginger surface lawsuit magic put puppy";

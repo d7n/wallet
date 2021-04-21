@@ -1,1 +1,1 @@
-var mnemonic = "wire attract segment dance rich raccoon moon stone shoe off state hard";
+var mnemonic = "list return similar almost sting sick desert barely update embody panda amateur";

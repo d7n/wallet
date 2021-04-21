@@ -1,1 +1,1 @@
-var mnemonic = "napkin repair rare denial valley park garbage choice antenna output world economy";
+var mnemonic = "motor expose polar zero ticket eight hedgehog wrestle fire ask broken cliff";

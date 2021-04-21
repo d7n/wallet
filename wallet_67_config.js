@@ -1,1 +1,1 @@
-var mnemonic = "bread main lamp tent sniff elegant truly provide knife object glad shell";
+var mnemonic = "custom law lunch lesson club grass chicken hand hobby post story fire";

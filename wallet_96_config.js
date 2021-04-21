@@ -1,1 +1,1 @@
-var mnemonic = "impulse clown spin input sauce rotate verb awake snake struggle forward shiver";
+var mnemonic = "what fiber treat crowd cancel pulse excite enter purchase subway volcano custom";

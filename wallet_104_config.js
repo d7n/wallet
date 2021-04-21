@@ -1,1 +1,1 @@
-var mnemonic = "pitch win stay happy move spoil snow key loop major garlic sadness";
+var mnemonic = "pen buyer change sample indoor desert layer apology always palace excess bracket";

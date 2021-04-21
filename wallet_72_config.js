@@ -1,1 +1,1 @@
-var mnemonic = "joy canvas cage produce lemon festival window year later quick bag original";
+var mnemonic = "crouch grid service under corn blanket cost tonight improve pause exhaust point";

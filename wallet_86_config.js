@@ -1,1 +1,1 @@
-var mnemonic = "drastic bid tomato escape dizzy ginger alcohol visual any happy dumb winter";
+var mnemonic = "brass solar soul unusual pony park orphan proof lady keen cream now";

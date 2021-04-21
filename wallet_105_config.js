@@ -1,1 +1,1 @@
-var mnemonic = "arena rice steak deposit such cloth rain sell close orphan auction safe";
+var mnemonic = "aerobic boost rebuild farm jewel uphold type waste spike omit defense rate";

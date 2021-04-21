@@ -1,1 +1,1 @@
-var mnemonic = "sick utility immune catch unaware genius false math teach donor repair sort";
+var mnemonic = "soup deposit unaware collect noodle bonus shallow like ketchup remember screen slush";

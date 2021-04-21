@@ -1,1 +1,1 @@
-var mnemonic = "fashion brave strong impulse belt fiscal squirrel settle surround angle device net";
+var mnemonic = "bottom evoke together salute rubber crumble disagree sheriff cool guess carbon virus";

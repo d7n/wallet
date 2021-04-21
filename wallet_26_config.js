@@ -1,1 +1,1 @@
-var mnemonic = "chapter unhappy green know shove trophy village episode woman test couch marriage";
+var mnemonic = "industry world winner fee submit spawn month mammal wisdom voyage dune coach";

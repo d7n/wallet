@@ -1,1 +1,1 @@
-var mnemonic = "virtual ticket nature champion rigid surge poverty priority ladder shield hover dentist";
+var mnemonic = "ball seat wife earn iron slice range bind cruise bronze unusual neglect";

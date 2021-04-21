@@ -1,1 +1,1 @@
-var mnemonic = "opera initial skin will between annual kiwi impose help pepper fiscal resist";
+var mnemonic = "snack skate patch spell subway fit jealous window carry idea clarify ignore";

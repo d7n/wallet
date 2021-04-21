@@ -1,1 +1,1 @@
-var mnemonic = "reason amount echo arch ice nut skate already love large throw table";
+var mnemonic = "kidney exit upset mercy minor replace wash math spy snap jungle baby";

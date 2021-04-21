@@ -1,1 +1,1 @@
-var mnemonic = "object plug useful prevent clip finish athlete leopard attract seminar frog course";
+var mnemonic = "flag drum now gas citizen oval raw heart kiss glue interest effort";

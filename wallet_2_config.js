@@ -1,1 +1,1 @@
-var mnemonic = "expire begin device patient major put negative traffic expand hero speed fever";
+var mnemonic = "frost flower zebra claim leopard cargo payment stock wine say truly matrix";

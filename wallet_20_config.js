@@ -1,1 +1,1 @@
-var mnemonic = "onion lion achieve employ alien voyage kingdom ripple lounge common forum upon";
+var mnemonic = "clutch wagon polar tool inside echo sketch program victory divorce father embody";

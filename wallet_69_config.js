@@ -1,1 +1,1 @@
-var mnemonic = "tobacco trap board apology arrest drive trick digital stumble rain key just";
+var mnemonic = "much mushroom bubble behind demand exact afford time eagle steel father abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow space pledge board claim defy jewel pool pitch guilt elder stove";
+var mnemonic = "lyrics gauge unhappy truly math float mail anger allow private social rug";

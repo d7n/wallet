@@ -1,1 +1,1 @@
-var mnemonic = "design cost smooth mercy blanket lucky hedgehog concert sort equal note ability";
+var mnemonic = "sad couch dial gun alert enough winner rain desert whisper math soccer";

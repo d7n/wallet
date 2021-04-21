@@ -1,1 +1,1 @@
-var mnemonic = "undo lion web above inner rail man flavor gossip imitate diary cross";
+var mnemonic = "spray prize found wing service rich finger guitar slice elbow cinnamon pool";

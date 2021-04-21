@@ -1,1 +1,1 @@
-var mnemonic = "stereo sail budget green report clip axis that switch scene theory craft";
+var mnemonic = "radio power citizen close grant refuse shadow skate float account swear cruel";

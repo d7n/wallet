@@ -1,1 +1,1 @@
-var mnemonic = "squeeze awake visit quote flash pony youth prosper time jeans special use";
+var mnemonic = "abuse head museum raven run large index place design hair veteran neck";

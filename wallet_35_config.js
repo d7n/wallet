@@ -1,1 +1,1 @@
-var mnemonic = "hint century spawn youth since fiscal address rack engine real gain syrup";
+var mnemonic = "choose slim spawn sugar metal much mule legend brick icon outdoor imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "predict knife dizzy slam arch joke wave below below avocado deny rail";
+var mnemonic = "subway strike echo oak struggle very lunar green venture economy among party";

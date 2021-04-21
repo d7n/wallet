@@ -1,1 +1,1 @@
-var mnemonic = "chaos buffalo barely mail rifle fringe super stay hawk thought apple bridge";
+var mnemonic = "mosquito axis spot clay brother thing vast legend interest giraffe brown rug";

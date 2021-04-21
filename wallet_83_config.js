@@ -1,1 +1,1 @@
-var mnemonic = "calm decrease turtle ball frozen rib raccoon route foster web inform process";
+var mnemonic = "cement million detect build only bean ill ship rib firm garbage sadness";

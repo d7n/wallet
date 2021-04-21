@@ -1,1 +1,1 @@
-var mnemonic = "address buyer gesture convince avocado sniff impose produce client clump series crush";
+var mnemonic = "ill focus giraffe rookie swing boil pelican celery skate crane laundry capital";

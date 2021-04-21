@@ -1,1 +1,1 @@
-var mnemonic = "nominee vibrant else pitch tomato panda chase appear client village gauge category";
+var mnemonic = "final when prefer spare tip broken pumpkin shell child deliver wonder knee";

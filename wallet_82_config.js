@@ -1,1 +1,1 @@
-var mnemonic = "mad august aerobic cement coach combine local brick wait knock sword tennis";
+var mnemonic = "cannon sorry ecology hat general donate say diet depart advice elevator picture";

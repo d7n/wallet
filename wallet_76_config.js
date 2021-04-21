@@ -1,1 +1,1 @@
-var mnemonic = "rude nurse roof habit echo payment trim meat inner couch charge veteran";
+var mnemonic = "coral fabric sniff program lion regular answer narrow tiny horror parrot trick";

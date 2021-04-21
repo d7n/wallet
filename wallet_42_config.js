@@ -1,1 +1,1 @@
-var mnemonic = "butter before era donate twist enforce first poverty view emotion zone notable";
+var mnemonic = "easy plunge enhance motor depth chunk aunt half ordinary useful naive disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "behave injury deliver industry lake ability lens panther crack rib mystery goddess";
+var mnemonic = "offer until enter taste flame coyote pizza fury device father gaze lizard";

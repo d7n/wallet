@@ -1,1 +1,1 @@
-var mnemonic = "virtual luxury sample tube club latin copy lecture coach mention whip main";
+var mnemonic = "cheap attitude catalog topic owner supply minute vacuum vicious drum detect then";

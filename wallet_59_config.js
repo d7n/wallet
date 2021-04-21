@@ -1,1 +1,1 @@
-var mnemonic = "any direct mountain client change unfair river add base toe scatter rifle";
+var mnemonic = "will vocal wool black nurse anxiety good educate soon use capable ceiling";

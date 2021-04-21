@@ -1,1 +1,1 @@
-var mnemonic = "sister noodle orchard clever ritual churn car hope trouble rhythm mean fat";
+var mnemonic = "dismiss purpose ramp glove team solution blue amazing smooth donate athlete rich";

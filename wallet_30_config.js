@@ -1,1 +1,1 @@
-var mnemonic = "toss coil void bitter swear tag joke youth quantum demise yellow guitar";
+var mnemonic = "swarm kidney seed morning empty evoke pioneer cargo enforce length badge loud";

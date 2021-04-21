@@ -1,1 +1,1 @@
-var mnemonic = "together law gadget undo home battle muscle sauce reflect mimic quantum destroy";
+var mnemonic = "calm large magnet monster square loop shrug extra hand pulp spirit sleep";

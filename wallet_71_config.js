@@ -1,1 +1,1 @@
-var mnemonic = "radar exotic cave indicate diamond sound cute home limb kangaroo cabbage problem";
+var mnemonic = "globe clerk lab metal excess side suggest sketch neutral boy accident depth";

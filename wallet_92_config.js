@@ -1,1 +1,1 @@
-var mnemonic = "baby scorpion match mistake shadow ancient coast rule defy donor trick proud";
+var mnemonic = "pass joke any paddle horse resist gospel remember spider reveal midnight vintage";

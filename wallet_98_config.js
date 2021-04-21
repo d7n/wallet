@@ -1,1 +1,1 @@
-var mnemonic = "scorpion scare try rookie poem aerobic clever review crouch evoke junk goose";
+var mnemonic = "service organ mixture chef shuffle double one waste other position pave caution";

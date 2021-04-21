@@ -1,1 +1,1 @@
-var mnemonic = "school siege pattern helmet pill whisper kiss swallow wish sting raccoon burger";
+var mnemonic = "horn reopen hen group couple jaguar chuckle pelican mixture damp list leopard";

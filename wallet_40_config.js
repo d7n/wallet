@@ -1,1 +1,1 @@
-var mnemonic = "jeans security pottery surround palace long garment congress leave decrease method venue";
+var mnemonic = "artefact decrease relax orange remind weasel shield shy few slight tourist surge";

@@ -1,1 +1,1 @@
-var mnemonic = "leader stamp spatial final output siren diagram mechanic trap dial unveil swarm";
+var mnemonic = "lazy rhythm ribbon jewel round river square lemon tip spider core expire";

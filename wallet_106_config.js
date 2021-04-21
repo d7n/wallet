@@ -1,1 +1,1 @@
-var mnemonic = "april duty element panther bottom delay diagram hen label sound acoustic nasty";
+var mnemonic = "drip one merry thing bounce jewel baby chair try true van rural";

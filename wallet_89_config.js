@@ -1,1 +1,1 @@
-var mnemonic = "glory prepare cotton media arrow emotion acid river bread ginger taste raw";
+var mnemonic = "subway chest decline turn liberty angle traffic strategy hazard owner reunion audit";

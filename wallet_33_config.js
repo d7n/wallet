@@ -1,1 +1,1 @@
-var mnemonic = "kind trim link ice soul daughter saddle truth local diet early crunch";
+var mnemonic = "polar skirt disorder meat artwork child garden trim sting merge never main";

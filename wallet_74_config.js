@@ -1,1 +1,1 @@
-var mnemonic = "nasty grab bacon skirt evidence sketch winner sight knee topic empty solve";
+var mnemonic = "fame glad equip uphold snap glide cheese smart zone scare school jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen weather village nose random south wet outside prefer pelican jaguar celery";
+var mnemonic = "staff notice accuse rebel drive chase sell energy cancel curious echo rate";

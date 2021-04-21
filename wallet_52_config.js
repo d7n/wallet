@@ -1,1 +1,1 @@
-var mnemonic = "blouse upgrade cushion mistake health announce grant keep exotic dry young muffin";
+var mnemonic = "unit choose turn vacuum ten warm chat tent elbow educate cherry course";

@@ -1,1 +1,1 @@
-var mnemonic = "blood gaze mother prison struggle radar tide feed away wing faint fat";
+var mnemonic = "suspect embark cover tape talent cherry onion discover cake reunion fiscal gloom";

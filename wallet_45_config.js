@@ -1,1 +1,1 @@
-var mnemonic = "orphan erase novel trade dizzy fiber science oval you wave error width";
+var mnemonic = "blame shaft pottery length inherit erase rain average side drum unfold win";

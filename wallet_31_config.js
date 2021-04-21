@@ -1,1 +1,1 @@
-var mnemonic = "breeze heavy acid excite cactus bubble spoil gentle august edit key entire";
+var mnemonic = "sentence move dust during receive sample lock one gravity rule wrestle tomato";

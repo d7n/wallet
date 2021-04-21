@@ -1,1 +1,1 @@
-var mnemonic = "will sock radio goddess camp display empty ecology nurse total lock lizard";
+var mnemonic = "spawn rocket hedgehog know roast coral impose over gauge jacket robust tornado";

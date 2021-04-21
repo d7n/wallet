@@ -1,1 +1,1 @@
-var mnemonic = "chair dismiss absorb join area capital story network dirt aspect prison peanut";
+var mnemonic = "tone they knock unveil hope gentle clever want hockey guilt pizza coin";

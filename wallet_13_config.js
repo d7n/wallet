@@ -1,1 +1,1 @@
-var mnemonic = "small diesel media step wet figure copper coconut acid snake hood reject";
+var mnemonic = "demise reform obscure metal stereo cause resist inch session actor hundred analyst";

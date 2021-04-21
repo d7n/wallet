@@ -1,1 +1,1 @@
-var mnemonic = "romance bar bonus rocket help dad release large power cannon unusual make";
+var mnemonic = "consider apart south alley upon sand ugly what audit anxiety blue tell";

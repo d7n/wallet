@@ -1,1 +1,1 @@
-var mnemonic = "divide news alien truly where reject rent reopen grain setup expose course";
+var mnemonic = "wisdom siren mixture symbol rural detail galaxy inhale festival alone taste cable";

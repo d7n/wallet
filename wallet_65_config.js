@@ -1,1 +1,1 @@
-var mnemonic = "evolve hunt angle excess lend tattoo stumble video tone fog today scale";
+var mnemonic = "demand keep sort medal relax rude fluid frost grass quiz comic vacant";

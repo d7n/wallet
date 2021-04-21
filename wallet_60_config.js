@@ -1,1 +1,1 @@
-var mnemonic = "isolate middle art identify soft crystal film about seminar say arena guide";
+var mnemonic = "royal rapid spot lemon bitter pole merge live amused calm spread close";

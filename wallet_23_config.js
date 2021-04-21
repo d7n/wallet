@@ -1,1 +1,1 @@
-var mnemonic = "divide calm cup scout wear raw small shift axis goddess universe inject";
+var mnemonic = "sausage rich network crop know uncover clap salt human flee fiscal company";

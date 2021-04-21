@@ -1,1 +1,1 @@
-var mnemonic = "roast renew access chronic code find book hollow car fiscal nut cluster";
+var mnemonic = "exclude render clever decrease lobster heavy dawn funny finish flash energy play";

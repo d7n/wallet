@@ -1,1 +1,1 @@
-var mnemonic = "morning choice dentist birth tissue swim dizzy culture seminar dad lunar bright";
+var mnemonic = "oak swim trend retire eagle together used just eternal pizza owner hockey";

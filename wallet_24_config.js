@@ -1,1 +1,1 @@
-var mnemonic = "scale neither brief fatigue cigar hamster scrap erosion fan shine october prosper";
+var mnemonic = "forget reopen option kiss square donkey impulse fury aerobic tiger viable miracle";

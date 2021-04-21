@@ -1,1 +1,1 @@
-var mnemonic = "rival history puppy slab address cry turkey audit eyebrow limb gaze parrot";
+var mnemonic = "caution squirrel shell plunge session virtual slam grunt employ wheat nothing crack";

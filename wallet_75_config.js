@@ -1,1 +1,1 @@
-var mnemonic = "grant quick wear bread student local arrow girl month giggle betray option";
+var mnemonic = "artist leg home oil tiger violin adult unit emotion rib syrup honey";

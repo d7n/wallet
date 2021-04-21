@@ -1,1 +1,1 @@
-var mnemonic = "quality roast winner buyer bottom access void regular predict almost hedgehog pet";
+var mnemonic = "million wide better swift ostrich shove emerge brisk patrol teach horn network";

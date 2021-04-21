@@ -1,1 +1,1 @@
-var mnemonic = "curve march program long image rely unable bid task notable mechanic social";
+var mnemonic = "erase woman shiver forget orphan nation swift arena slam swarm affair rapid";

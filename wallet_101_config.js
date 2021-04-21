@@ -1,1 +1,1 @@
-var mnemonic = "frog home myself ill warrior boy curious debris rate conduct when ticket";
+var mnemonic = "cup donate sight ridge hair flavor goddess auto service pear goose minor";

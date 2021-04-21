@@ -1,1 +1,1 @@
-var mnemonic = "rail undo actress mind forest clip original stove music holiday disorder hole";
+var mnemonic = "twin video alone eagle teach shadow win nature cover fringe veteran leaf";

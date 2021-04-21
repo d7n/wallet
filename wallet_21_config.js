@@ -1,1 +1,1 @@
-var mnemonic = "recycle bunker fury dial castle sail obscure silk length cat rabbit tube";
+var mnemonic = "claim gravity ability type youth spike escape lucky culture tissue clean judge";

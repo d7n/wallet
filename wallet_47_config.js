@@ -1,1 +1,1 @@
-var mnemonic = "bench giraffe maze test above again dance enhance kangaroo poem one climb";
+var mnemonic = "aerobic crowd bargain public problem physical fuel enhance paddle brush cart write";

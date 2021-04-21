@@ -1,1 +1,1 @@
-var mnemonic = "confirm foam weapon tackle sibling slab jar attack athlete walnut scout inside";
+var mnemonic = "session keep quote purchase toe jewel afraid advance board oak like insect";

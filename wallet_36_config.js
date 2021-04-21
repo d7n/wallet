@@ -1,1 +1,1 @@
-var mnemonic = "slender student beef gather soft remove pilot service nuclear weekend ranch course";
+var mnemonic = "stay jacket awkward brick course test jaguar frog already measure oven resemble";
