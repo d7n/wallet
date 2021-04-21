@@ -1,1 +1,1 @@
-var mnemonic = "easy cereal satoshi bachelor faculty fatigue crazy swallow devote horse enemy future";
+var mnemonic = "tobacco trap board apology arrest drive trick digital stumble rain key just";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter tip carbon tattoo salute way jealous quarter wheat immune episode napkin";
+var mnemonic = "together law gadget undo home battle muscle sauce reflect mimic quantum destroy";

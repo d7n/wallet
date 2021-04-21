@@ -1,1 +1,1 @@
-var mnemonic = "wealth style sunset tree swarm invest metal online about fossil extra attract";
+var mnemonic = "onion lion achieve employ alien voyage kingdom ripple lounge common forum upon";

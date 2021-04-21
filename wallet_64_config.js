@@ -1,1 +1,1 @@
-var mnemonic = "race edit such unfair polar bike dress hand dinner notice spy tuna";
+var mnemonic = "quality roast winner buyer bottom access void regular predict almost hedgehog pet";

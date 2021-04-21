@@ -1,1 +1,1 @@
-var mnemonic = "young leader spring harvest slogan clarify major blue ill replace fox maple";
+var mnemonic = "easy close traffic chaos obscure core tower ostrich demise wrap infant upon";

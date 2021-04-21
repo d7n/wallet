@@ -1,1 +1,1 @@
-var mnemonic = "ugly yellow reject aware sock jar rose planet inform plunge neck almost";
+var mnemonic = "grant quick wear bread student local arrow girl month giggle betray option";

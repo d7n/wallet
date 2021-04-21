@@ -1,1 +1,1 @@
-var mnemonic = "axis problem relax matter drive casino material retreat tent body gaze journey";
+var mnemonic = "chapter unhappy green know shove trophy village episode woman test couch marriage";

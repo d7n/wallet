@@ -1,1 +1,1 @@
-var mnemonic = "share segment spread space giraffe price slogan lake priority need sick build";
+var mnemonic = "recycle bunker fury dial castle sail obscure silk length cat rabbit tube";

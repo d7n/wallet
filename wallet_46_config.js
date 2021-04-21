@@ -1,1 +1,1 @@
-var mnemonic = "enjoy release leader method exotic math help arrest denial reopen grief space";
+var mnemonic = "kitchen weather village nose random south wet outside prefer pelican jaguar celery";

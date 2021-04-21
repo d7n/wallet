@@ -1,1 +1,1 @@
-var mnemonic = "please raw throw capital mechanic fetch mosquito coin such color common usage";
+var mnemonic = "design cost smooth mercy blanket lucky hedgehog concert sort equal note ability";

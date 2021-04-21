@@ -1,1 +1,1 @@
-var mnemonic = "hole when ugly feed staff tired armor crisp live yellow strike crater";
+var mnemonic = "wire attract segment dance rich raccoon moon stone shoe off state hard";

@@ -1,1 +1,1 @@
-var mnemonic = "online floor stumble series evolve holiday test image hunt style north rifle";
+var mnemonic = "divide calm cup scout wear raw small shift axis goddess universe inject";

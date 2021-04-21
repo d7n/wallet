@@ -1,1 +1,1 @@
-var mnemonic = "network perfect crystal hotel curve whisper adult sort border wool sort purity";
+var mnemonic = "leader stamp spatial final output siren diagram mechanic trap dial unveil swarm";

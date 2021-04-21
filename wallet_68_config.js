@@ -1,1 +1,1 @@
-var mnemonic = "machine area obvious element elephant cloud scout gate exit burden quit boat";
+var mnemonic = "rival history puppy slab address cry turkey audit eyebrow limb gaze parrot";

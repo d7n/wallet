@@ -1,1 +1,1 @@
-var mnemonic = "emotion business learn wonder quick hobby curious settle shaft above excess enforce";
+var mnemonic = "jealous switch author clump stable toss junior series enable mountain guard lonely";

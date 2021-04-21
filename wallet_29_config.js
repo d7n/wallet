@@ -1,1 +1,1 @@
-var mnemonic = "wage flight bench eager provide aspect book sun matter sweet sponsor insect";
+var mnemonic = "chief thumb royal section one wood fresh inject hazard crush flower coil";

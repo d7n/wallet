@@ -1,1 +1,1 @@
-var mnemonic = "cancel prevent zoo camp slight flush kangaroo retreat fruit rubber spawn palm";
+var mnemonic = "scale neither brief fatigue cigar hamster scrap erosion fan shine october prosper";

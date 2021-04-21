@@ -1,1 +1,1 @@
-var mnemonic = "family mercy anxiety exhaust decide empty skirt mixture leave panda damp hidden";
+var mnemonic = "isolate middle art identify soft crystal film about seminar say arena guide";

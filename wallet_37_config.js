@@ -1,1 +1,1 @@
-var mnemonic = "topple volume possible inherit february try camera trade size method harsh naive";
+var mnemonic = "will sock radio goddess camp display empty ecology nurse total lock lizard";

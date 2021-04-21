@@ -1,1 +1,1 @@
-var mnemonic = "detect lady normal vibrant lion shoulder trash tail river illegal kiss radar";
+var mnemonic = "electric smoke myself budget gallery accuse eagle liberty buyer merge pilot blind";

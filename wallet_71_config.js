@@ -1,1 +1,1 @@
-var mnemonic = "produce idle erupt move lemon range clog civil artist humble figure cave";
+var mnemonic = "radar exotic cave indicate diamond sound cute home limb kangaroo cabbage problem";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram defense color crush kitten salt garment depth zebra lend onion beef";
+var mnemonic = "romance bar bonus rocket help dad release large power cannon unusual make";

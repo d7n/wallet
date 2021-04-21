@@ -1,1 +1,1 @@
-var mnemonic = "way verb better this sausage name urge nasty album vast cricket cigar";
+var mnemonic = "rail undo actress mind forest clip original stove music holiday disorder hole";

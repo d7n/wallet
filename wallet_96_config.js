@@ -1,1 +1,1 @@
-var mnemonic = "off juice cradle output program evoke offer cute pilot view valve situate";
+var mnemonic = "impulse clown spin input sauce rotate verb awake snake struggle forward shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt hover obey wing paddle wish mass deny task shift fancy filter";
+var mnemonic = "slender student beef gather soft remove pilot service nuclear weekend ranch course";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder reward action trend girl hamster mother father biology spike hollow helmet";
+var mnemonic = "pitch win stay happy move spoil snow key loop major garlic sadness";

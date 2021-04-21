@@ -1,1 +1,1 @@
-var mnemonic = "hire already drill match moral walnut exchange unique input then legend rival";
+var mnemonic = "cake antenna review goat mango foot swing jeans saddle wide human nature";

@@ -1,1 +1,1 @@
-var mnemonic = "when coin inspire vessel shoulder risk radio bean cargo cricket client menu";
+var mnemonic = "reason amount echo arch ice nut skate already love large throw table";

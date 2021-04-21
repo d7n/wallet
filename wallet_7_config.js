@@ -1,1 +1,1 @@
-var mnemonic = "decorate abandon tourist leisure move kiwi maximum behind blame only capital success";
+var mnemonic = "soda boil drastic veteran tragic dad raven invite cash also boy heavy";

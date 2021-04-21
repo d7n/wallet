@@ -1,1 +1,1 @@
-var mnemonic = "subway often pencil excuse inside arrive tobacco naive fiction allow stick inquiry";
+var mnemonic = "squeeze awake visit quote flash pony youth prosper time jeans special use";

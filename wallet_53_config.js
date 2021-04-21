@@ -1,1 +1,1 @@
-var mnemonic = "join cloud own renew cluster issue glimpse bullet melody woman detect diamond";
+var mnemonic = "install lunar slender judge million feed click universe custom fee trap gallery";

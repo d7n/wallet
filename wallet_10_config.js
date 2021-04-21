@@ -1,1 +1,1 @@
-var mnemonic = "easy talk flower convince album among table country vacant enjoy dirt habit";
+var mnemonic = "object plug useful prevent clip finish athlete leopard attract seminar frog course";

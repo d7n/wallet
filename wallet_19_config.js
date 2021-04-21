@@ -1,1 +1,1 @@
-var mnemonic = "walnut stem music glass thought credit elder tongue drastic holiday tenant essay";
+var mnemonic = "smart make liquid trim cigar frozen tent input split drop alone mansion";

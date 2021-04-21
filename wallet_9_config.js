@@ -1,1 +1,1 @@
-var mnemonic = "disagree essay rack lunch they unknown bundle season kangaroo sauce wild syrup";
+var mnemonic = "voyage work pluck mistake bracket truth cousin humor lunar wealth nuclear nut";

@@ -1,1 +1,1 @@
-var mnemonic = "network saddle voice aunt cave wide bag account panda end convince engine";
+var mnemonic = "essence inject bring model soap question wagon myself tone right track interest";

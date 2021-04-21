@@ -1,1 +1,1 @@
-var mnemonic = "order one sponsor market stove pitch milk spider donor lock length response";
+var mnemonic = "joy canvas cage produce lemon festival window year later quick bag original";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture snow fashion learn never fat opinion staff practice cluster place gasp";
+var mnemonic = "country badge project funny crater major use enforce grape fiber misery annual";

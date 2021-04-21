@@ -1,1 +1,1 @@
-var mnemonic = "mango belt any worth good divert ring club balance clog head delay";
+var mnemonic = "school siege pattern helmet pill whisper kiss swallow wish sting raccoon burger";

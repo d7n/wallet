@@ -1,1 +1,1 @@
-var mnemonic = "crash cream year smart frog elephant guitar various brand this ethics exclude";
+var mnemonic = "blood gaze mother prison struggle radar tide feed away wing faint fat";

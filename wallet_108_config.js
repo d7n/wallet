@@ -1,1 +1,1 @@
-var mnemonic = "cliff promote lake taste prosper chief distance glad culture type police winner";
+var mnemonic = "six believe dismiss notice become winter slow stove awful grit smoke click";

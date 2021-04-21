@@ -1,1 +1,1 @@
-var mnemonic = "decrease bacon account doll happy sunset prepare reflect prison cargo follow rotate";
+var mnemonic = "maximum float nurse cattle current able pigeon oval warrior symptom since impact";

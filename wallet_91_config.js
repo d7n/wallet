@@ -1,1 +1,1 @@
-var mnemonic = "advance initial only traffic forget switch recall lawsuit fire museum between next";
+var mnemonic = "sister noodle orchard clever ritual churn car hope trouble rhythm mean fat";

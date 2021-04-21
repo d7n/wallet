@@ -1,1 +1,1 @@
-var mnemonic = "slab soap salad rare donkey run express debris uncover lab conduct quit";
+var mnemonic = "sick utility immune catch unaware genius false math teach donor repair sort";

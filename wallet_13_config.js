@@ -1,1 +1,1 @@
-var mnemonic = "collect emotion animal finger lock scatter ticket trust jacket remember faith shine";
+var mnemonic = "small diesel media step wet figure copper coconut acid snake hood reject";

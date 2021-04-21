@@ -1,1 +1,1 @@
-var mnemonic = "salon myself unit spawn pretty word antique found price recycle distance cabin";
+var mnemonic = "soft donkey bounce open spirit south transfer hen address shrug earth merry";

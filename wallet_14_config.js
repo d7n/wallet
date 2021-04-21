@@ -1,1 +1,1 @@
-var mnemonic = "stable senior draw odor ahead census exotic basic galaxy side hood assault";
+var mnemonic = "draft harsh slow unit axis stone fade side soldier envelope fence window";

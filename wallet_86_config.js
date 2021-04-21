@@ -1,1 +1,1 @@
-var mnemonic = "penalty hollow tribe enlist sleep valve army meadow march chapter alter lion";
+var mnemonic = "drastic bid tomato escape dizzy ginger alcohol visual any happy dumb winter";

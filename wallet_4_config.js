@@ -1,1 +1,1 @@
-var mnemonic = "test couple wrist clutch wait scare daughter skull axis worth cancel arrive";
+var mnemonic = "curve march program long image rely unable bid task notable mechanic social";

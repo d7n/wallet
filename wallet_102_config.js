@@ -1,1 +1,1 @@
-var mnemonic = "address insect social have tackle whale six bundle shiver ahead volume retire";
+var mnemonic = "fly piece what number strike wish security pyramid orphan news submit accident";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure must girl maze horror ill someone joy select remain city thunder";
+var mnemonic = "rude nurse roof habit echo payment trim meat inner couch charge veteran";

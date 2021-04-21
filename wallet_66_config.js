@@ -1,1 +1,1 @@
-var mnemonic = "eager cupboard deny cool desert kitten ring suit annual coconut ocean oval";
+var mnemonic = "address buyer gesture convince avocado sniff impose produce client clump series crush";

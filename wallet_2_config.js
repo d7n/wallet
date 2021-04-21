@@ -1,1 +1,1 @@
-var mnemonic = "right key bar recipe define daring trigger spice silk ten february soda";
+var mnemonic = "expire begin device patient major put negative traffic expand hero speed fever";

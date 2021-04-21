@@ -1,1 +1,1 @@
-var mnemonic = "earn correct such venue mask awkward media crisp kidney certain globe extra";
+var mnemonic = "current van reunion prosper magnet obtain soda ketchup tray glow issue fuel";

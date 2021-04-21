@@ -1,1 +1,1 @@
-var mnemonic = "suffer primary coconut current shy later hurry menu lumber napkin stamp twist";
+var mnemonic = "slam practice blade horn idle ecology reason attitude trip dinner rescue cart";

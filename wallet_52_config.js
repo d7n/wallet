@@ -1,1 +1,1 @@
-var mnemonic = "around reunion retreat smart frog divide fish radio master crumble occur brown";
+var mnemonic = "blouse upgrade cushion mistake health announce grant keep exotic dry young muffin";

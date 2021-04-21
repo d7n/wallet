@@ -1,1 +1,1 @@
-var mnemonic = "notice thrive leg joy enforce ignore purity bicycle comfort woman snake answer";
+var mnemonic = "observe name sure trumpet grace comic fan crane fly island amount town";

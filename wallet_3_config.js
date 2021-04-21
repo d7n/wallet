@@ -1,1 +1,1 @@
-var mnemonic = "book cannon cigar leg beyond tobacco surge drum vocal fresh bounce glory";
+var mnemonic = "nominee vibrant else pitch tomato panda chase appear client village gauge category";

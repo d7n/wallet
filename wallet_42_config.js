@@ -1,1 +1,1 @@
-var mnemonic = "february bicycle poem wrist copper edge dentist tired usual protect check strong";
+var mnemonic = "butter before era donate twist enforce first poverty view emotion zone notable";

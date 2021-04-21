@@ -1,1 +1,1 @@
-var mnemonic = "eternal cook stem pair virus time cheap cause spread hawk proof notable";
+var mnemonic = "frog home myself ill warrior boy curious debris rate conduct when ticket";

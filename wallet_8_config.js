@@ -1,1 +1,1 @@
-var mnemonic = "lens library friend coast trumpet amateur join license rent mushroom ordinary night";
+var mnemonic = "muscle agent fluid title wedding main virus other report brown frozen diary";

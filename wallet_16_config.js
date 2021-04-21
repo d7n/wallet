@@ -1,1 +1,1 @@
-var mnemonic = "matrix also satoshi about panel traffic detect meat strong pet spoon dry";
+var mnemonic = "return forget start cable over excite shell foster firm figure upon hybrid";

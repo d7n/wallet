@@ -1,1 +1,1 @@
-var mnemonic = "page stamp into genuine screen loyal cement convince spoil express method patch";
+var mnemonic = "glory prepare cotton media arrow emotion acid river bread ginger taste raw";

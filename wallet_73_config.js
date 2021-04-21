@@ -1,1 +1,1 @@
-var mnemonic = "board castle grape hotel shop false whale ribbon invest this suggest sustain";
+var mnemonic = "divide news alien truly where reject rent reopen grain setup expose course";

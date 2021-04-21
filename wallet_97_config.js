@@ -1,1 +1,1 @@
-var mnemonic = "blame opera leaf hamster fan seminar earth sure resemble eternal throw sign";
+var mnemonic = "calm brother shield enable cement jump ship gown song country wedding obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "trust skate shed critic scrub baby barrel exit leg decade spot radio";
+var mnemonic = "stereo sail budget green report clip axis that switch scene theory craft";

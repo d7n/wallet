@@ -1,1 +1,1 @@
-var mnemonic = "maid horn feel wise danger finger access sudden inner confirm glass obscure";
+var mnemonic = "swallow space pledge board claim defy jewel pool pitch guilt elder stove";

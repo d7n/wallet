@@ -1,1 +1,1 @@
-var mnemonic = "parrot stem poet dice barely episode soft garbage alcohol dog animal unfold";
+var mnemonic = "morning choice dentist birth tissue swim dizzy culture seminar dad lunar bright";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb approve degree shed spoon random sheriff attend forum raise chest ridge";
+var mnemonic = "father lawn trophy human ensure daring phrase option motor grow cluster coach";

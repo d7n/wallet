@@ -1,1 +1,1 @@
-var mnemonic = "furnace offer stable fence siren they scene frown income speak baby side";
+var mnemonic = "scorpion scare try rookie poem aerobic clever review crouch evoke junk goose";

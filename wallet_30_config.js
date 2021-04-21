@@ -1,1 +1,1 @@
-var mnemonic = "boring forest sauce ask glory leisure nephew limit fan region evil indicate";
+var mnemonic = "toss coil void bitter swear tag joke youth quantum demise yellow guitar";

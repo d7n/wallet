@@ -1,1 +1,1 @@
-var mnemonic = "soon move absorb thrive saddle mule wealth glad swift funny junior element";
+var mnemonic = "chair dismiss absorb join area capital story network dirt aspect prison peanut";

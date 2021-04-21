@@ -1,1 +1,1 @@
-var mnemonic = "cushion velvet bubble zoo connect clerk card arrest market mention elevator tone";
+var mnemonic = "hint century spawn youth since fiscal address rack engine real gain syrup";

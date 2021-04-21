@@ -1,1 +1,1 @@
-var mnemonic = "soft theme odor town alarm drastic leisure fortune oppose cash scout joy";
+var mnemonic = "undo lion web above inner rail man flavor gossip imitate diary cross";

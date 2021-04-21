@@ -1,1 +1,1 @@
-var mnemonic = "gas primary ill wise sing taste unknown ribbon two column sphere copy";
+var mnemonic = "plastic often enact border swing walk happy wife correct silver milk gorilla";

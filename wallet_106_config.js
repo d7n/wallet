@@ -1,1 +1,1 @@
-var mnemonic = "scale cool saddle punch tiny hurry taste cause zone promote ancient guide";
+var mnemonic = "april duty element panther bottom delay diagram hen label sound acoustic nasty";

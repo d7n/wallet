@@ -1,1 +1,1 @@
-var mnemonic = "plastic genius peace issue prosper lobster surge elevator grocery taste find vintage";
+var mnemonic = "combine silk puzzle clutch era dove beauty mule basket jeans next ghost";

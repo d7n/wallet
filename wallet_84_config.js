@@ -1,1 +1,1 @@
-var mnemonic = "lawn key cause moral critic invest north merry seat rotate reduce render";
+var mnemonic = "napkin repair rare denial valley park garbage choice antenna output world economy";

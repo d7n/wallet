@@ -1,1 +1,1 @@
-var mnemonic = "cause vibrant decrease room pyramid hurdle habit assault disease know inside fringe";
+var mnemonic = "baby scorpion match mistake shadow ancient coast rule defy donor trick proud";

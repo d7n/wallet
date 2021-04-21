@@ -1,1 +1,1 @@
-var mnemonic = "drive ill huge student finish shrimp inspire theory month fiscal fish tired";
+var mnemonic = "unable polar asset believe winner step dizzy stomach athlete huge glass hedgehog";

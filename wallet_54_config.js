@@ -1,1 +1,1 @@
-var mnemonic = "cushion transfer warfare fee autumn spice fox window bargain job escape carry";
+var mnemonic = "vacant gift primary prison bunker strategy ripple unlock excuse bring stay plug";

@@ -1,1 +1,1 @@
-var mnemonic = "risk maximum surround viable defense fade name camp police razor where injury";
+var mnemonic = "sail tone fat edit drive mammal oak cute spring cupboard bamboo west";

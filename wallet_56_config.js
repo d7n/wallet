@@ -1,1 +1,1 @@
-var mnemonic = "move beach mother fork curtain dolphin cricket shell lens amazing ocean lake";
+var mnemonic = "roast renew access chronic code find book hollow car fiscal nut cluster";

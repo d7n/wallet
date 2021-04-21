@@ -1,1 +1,1 @@
-var mnemonic = "find charge kind police mixed flock coil miss flip when script inform";
+var mnemonic = "strike point project reform wish cloud dad affair shadow sick amazing clutch";

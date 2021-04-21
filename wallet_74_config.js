@@ -1,1 +1,1 @@
-var mnemonic = "bacon black gold fork joy bonus together marine logic empty blast oak";
+var mnemonic = "nasty grab bacon skirt evidence sketch winner sight knee topic empty solve";

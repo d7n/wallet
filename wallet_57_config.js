@@ -1,1 +1,1 @@
-var mnemonic = "vanish cute oven explain bullet frost kidney cheese mother sing glance night";
+var mnemonic = "just hockey veteran bonus glance scout entry lab sick light gift dress";

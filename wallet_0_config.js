@@ -1,1 +1,1 @@
-var mnemonic = "latin plunge fitness mechanic service visual goddess detect dinner cup supply brisk";
+var mnemonic = "enroll cool ostrich step increase wait search ranch celery tackle target regret";

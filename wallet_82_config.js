@@ -1,1 +1,1 @@
-var mnemonic = "basket aisle path night cement lottery dash hint then bullet party kidney";
+var mnemonic = "mad august aerobic cement coach combine local brick wait knock sword tennis";
