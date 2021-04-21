@@ -1,1 +1,1 @@
-var mnemonic = "west grape silk bid improve force birth can tenant page license clog";
+var mnemonic = "engine spin divorce clock muffin index velvet liquid pipe cat truth lawn";

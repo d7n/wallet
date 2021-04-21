@@ -1,1 +1,1 @@
-var mnemonic = "air tuition salon practice april hire unlock hint man put twice reflect";
+var mnemonic = "hole scan reflect crystal giraffe away scale recipe pulp disorder rifle chimney";

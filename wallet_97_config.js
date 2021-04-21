@@ -1,1 +1,1 @@
-var mnemonic = "pelican divert lonely outer prevent walk bacon left catalog base arena save";
+var mnemonic = "settle hedgehog oppose round power voyage pill body pen typical jealous remember";

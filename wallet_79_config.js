@@ -1,1 +1,1 @@
-var mnemonic = "skin rose mansion spawn north magic dwarf either defense hamster render month";
+var mnemonic = "friend opera target polar once river bless draft author advance report identify";

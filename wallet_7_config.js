@@ -1,1 +1,1 @@
-var mnemonic = "tonight mosquito people sibling unlock control cook route snap obtain such actress";
+var mnemonic = "trade huge banner easily siren finish dash belt indoor negative fortune transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform oxygen economy swamp quantum rail lounge fold lava credit crowd spice";
+var mnemonic = "corn flight novel balance pelican govern wave minor jazz solve one oval";

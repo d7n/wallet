@@ -1,1 +1,1 @@
-var mnemonic = "arena know waste slot width then damage doctor dinner prevent zone price";
+var mnemonic = "session credit hundred educate plate material aerobic trip tip tip shrimp glow";

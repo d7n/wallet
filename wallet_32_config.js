@@ -1,1 +1,1 @@
-var mnemonic = "minor seminar brown high grow amount ladder virtual junior topic dawn endorse";
+var mnemonic = "tomato glance first book useless anxiety car digital margin legend asthma cattle";

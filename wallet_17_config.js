@@ -1,1 +1,1 @@
-var mnemonic = "dust lab attract nice among chronic link zoo flee vacant place rule";
+var mnemonic = "exile couch civil erase nice crawl buddy annual attend video prepare still";

@@ -1,1 +1,1 @@
-var mnemonic = "horse corn laugh match apple jaguar text weather abstract dirt pluck goddess";
+var mnemonic = "truth scare mad comic frost zebra rapid sell family improve visit public";

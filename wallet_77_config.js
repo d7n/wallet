@@ -1,1 +1,1 @@
-var mnemonic = "reveal tide rug item usual soldier aunt banana wasp vintage service captain";
+var mnemonic = "version knee viable cake debris pair enemy still bottom bird machine kind";

@@ -1,1 +1,1 @@
-var mnemonic = "live inch prize series assault column adapt someone bronze identify common shield";
+var mnemonic = "still bronze upgrade zone above kick tube cupboard once fatigue method lady";

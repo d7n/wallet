@@ -1,1 +1,1 @@
-var mnemonic = "vote draft trade cave host exchange spray eternal sleep amused demise obey";
+var mnemonic = "double adapt prevent beach code reward slow three laugh renew absurd resource";

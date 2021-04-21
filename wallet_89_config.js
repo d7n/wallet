@@ -1,1 +1,1 @@
-var mnemonic = "birth arch seven outer comic strike cereal cage tribe perfect laundry abandon";
+var mnemonic = "melt photo post mammal rather lake defense enter level aspect bitter super";

@@ -1,1 +1,1 @@
-var mnemonic = "miss swing park road shrug little road turtle convince health travel usual";
+var mnemonic = "mind acid wheat use decline orange drift quiz tone priority swear dentist";

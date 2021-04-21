@@ -1,1 +1,1 @@
-var mnemonic = "cook vicious elite pottery around exile lonely meadow use oxygen effort coral";
+var mnemonic = "auto kind claw almost olympic ostrich where second promote unknown what demise";

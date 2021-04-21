@@ -1,1 +1,1 @@
-var mnemonic = "fun mutual manage legal census disorder card exit embrace together license awkward";
+var mnemonic = "slim page cloud sponsor tuna calm piano tower view inch dizzy demand";

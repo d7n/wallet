@@ -1,1 +1,1 @@
-var mnemonic = "note hole stomach process engine garage glove cause wink wagon labor wide";
+var mnemonic = "collect deer history modify lend tray twice now neutral neutral bid comic";

@@ -1,1 +1,1 @@
-var mnemonic = "sure taxi sibling loyal vote column west arm negative strategy mandate sell";
+var mnemonic = "void script depend train acoustic pole cash fix chase outdoor muscle plate";

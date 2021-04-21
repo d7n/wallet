@@ -1,1 +1,1 @@
-var mnemonic = "very boost liberty rifle slot super cook where delay emotion forget green";
+var mnemonic = "put demise whale kingdom twelve all usage frame cycle cabbage crouch arrange";

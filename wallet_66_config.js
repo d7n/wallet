@@ -1,1 +1,1 @@
-var mnemonic = "enforce pink evil blade couple tide web upon artist lend eager struggle";
+var mnemonic = "fantasy evoke shoe fashion indoor slim owner always peasant absorb struggle shield";

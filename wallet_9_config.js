@@ -1,1 +1,1 @@
-var mnemonic = "purchase mystery season round equal margin pear match dust diesel favorite dust";
+var mnemonic = "shallow breeze repeat wealth april debate grain airport note seed attitude illness";

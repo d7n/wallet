@@ -1,1 +1,1 @@
-var mnemonic = "release license vast sausage tail chronic praise practice maid video romance pudding";
+var mnemonic = "reflect slender citizen embody quarter provide strong curve dad expect bone dumb";

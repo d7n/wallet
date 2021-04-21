@@ -1,1 +1,1 @@
-var mnemonic = "dance ladder bargain early target weekend scale box enroll garbage oak worry";
+var mnemonic = "logic silly boring menu raccoon bottom coast this trouble fashion roast defense";

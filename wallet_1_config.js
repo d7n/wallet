@@ -1,1 +1,1 @@
-var mnemonic = "reopen knee grow laundry garment pepper orchard invite evolve flame friend patrol";
+var mnemonic = "jacket sure west cube trash diary abuse fresh follow genuine fade beach";

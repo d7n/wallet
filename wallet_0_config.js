@@ -1,1 +1,1 @@
-var mnemonic = "media mesh stem skin differ pole maximum egg fashion aspect drill dial";
+var mnemonic = "view affair mushroom bomb drastic dizzy gauge author sense stone lonely stereo";

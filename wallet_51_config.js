@@ -1,1 +1,1 @@
-var mnemonic = "crisp math tonight increase inquiry broken almost ask near armed meat hurt";
+var mnemonic = "excite stove alpha develop matter hero dance flight laundry tomorrow oven repeat";

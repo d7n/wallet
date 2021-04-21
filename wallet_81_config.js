@@ -1,1 +1,1 @@
-var mnemonic = "devote peasant episode cream sunset furnace joy world fancy regular eternal turtle";
+var mnemonic = "cat raw uniform design slim wrist diary oval salon eyebrow guess begin";

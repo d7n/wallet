@@ -1,1 +1,1 @@
-var mnemonic = "kit dawn rule actor result latin advance whale nerve fox debris call";
+var mnemonic = "side roof auto decrease issue affair skin agree blush useless distance bean";

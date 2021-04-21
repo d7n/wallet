@@ -1,1 +1,1 @@
-var mnemonic = "hen icon food vivid square real crowd clutch crater trap client clay";
+var mnemonic = "toe wisdom rebel scrub hold express anger elephant walk subject iron beyond";

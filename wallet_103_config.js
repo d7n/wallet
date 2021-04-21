@@ -1,1 +1,1 @@
-var mnemonic = "auction caught uncle law spatial title ecology elephant blue mother cloud title";
+var mnemonic = "wrong rifle anchor fringe busy sock wild only place lab stamp spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe snack glory excess pride you rotate ozone crucial naive adjust treat";
+var mnemonic = "middle annual private tuition lion fee recall wait chunk head soldier erupt";

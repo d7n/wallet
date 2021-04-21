@@ -1,1 +1,1 @@
-var mnemonic = "need kick false cook undo jungle cram security unfold tortoise moon symbol";
+var mnemonic = "ginger enter scorpion humble talent snow story random extend version echo spy";

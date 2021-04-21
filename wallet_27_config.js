@@ -1,1 +1,1 @@
-var mnemonic = "card traffic aunt pigeon gorilla finish patrol advice finish solid caution mom";
+var mnemonic = "assault recipe across eye shoot vocal frozen actor glue funny glance file";

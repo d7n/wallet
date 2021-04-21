@@ -1,1 +1,1 @@
-var mnemonic = "run rhythm clock use bonus flash cross interest sting yard seminar belt";
+var mnemonic = "shuffle skate sleep snap castle blur misery guilt lunch obscure pear panda";

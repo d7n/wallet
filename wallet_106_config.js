@@ -1,1 +1,1 @@
-var mnemonic = "female symptom source obvious brick reveal expose birth fuel main rhythm gas";
+var mnemonic = "always accident crunch absent priority move orient usual civil taxi zoo hero";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco claw envelope wink chef clean sketch setup recall place ancient country";
+var mnemonic = "canoe adult erase service stand fall crew grow strategy habit rigid open";

@@ -1,1 +1,1 @@
-var mnemonic = "intact audit fire race panda outside ugly clown scare mule elbow audit";
+var mnemonic = "rib alley breeze jewel mean sting forward cradle head taxi syrup trash";

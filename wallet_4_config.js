@@ -1,1 +1,1 @@
-var mnemonic = "stuff addict oxygen wreck ethics screen vanish energy snow capital eye color";
+var mnemonic = "shy spice enact alert eight help pipe onion naive gesture sea supreme";

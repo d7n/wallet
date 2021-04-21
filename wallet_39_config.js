@@ -1,1 +1,1 @@
-var mnemonic = "fluid better fault buzz discover story october cement actor into noodle lion";
+var mnemonic = "vintage glimpse ozone broom reject right patrol tower distance symbol rib deny";

@@ -1,1 +1,1 @@
-var mnemonic = "bind asset thing much discover humble glare swarm voice army fortune purity";
+var mnemonic = "salt cloud truth clay hard ahead force jeans food grid confirm derive";

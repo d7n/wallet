@@ -1,1 +1,1 @@
-var mnemonic = "ten light fish soon goddess scorpion stand air decide car meat enough";
+var mnemonic = "shoulder require inflict noise grab february large people nurse patrol rival volcano";

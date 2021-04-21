@@ -1,1 +1,1 @@
-var mnemonic = "post wash raise bunker debris sell still bronze enter critic side oak";
+var mnemonic = "wonder monster leaf car any feel purse claim either pill pupil easy";

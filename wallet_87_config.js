@@ -1,1 +1,1 @@
-var mnemonic = "error trust vast goat few tired assist uncle romance trash orphan flag";
+var mnemonic = "profit vicious disease patch summer shoot dizzy fall awful artefact display insect";

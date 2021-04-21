@@ -1,1 +1,1 @@
-var mnemonic = "october derive oppose spell match pear reward cart swear maple quick symptom";
+var mnemonic = "health describe bus foster vocal inside shy elite release law awake goddess";

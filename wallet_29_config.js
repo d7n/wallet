@@ -1,1 +1,1 @@
-var mnemonic = "deliver grit jewel chuckle denial puzzle large pact fiscal office chimney endorse";
+var mnemonic = "all timber render truck pigeon patient pulp evolve castle cabbage anchor venture";

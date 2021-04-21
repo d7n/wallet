@@ -1,1 +1,1 @@
-var mnemonic = "wife desk helmet pig drip gaze little ranch winter main empty fiber";
+var mnemonic = "symbol hazard eagle drift toilet lobster fall debate output window foster wet";

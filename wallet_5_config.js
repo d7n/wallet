@@ -1,1 +1,1 @@
-var mnemonic = "hollow awake chalk tower horse limit garlic possible whale have federal swamp";
+var mnemonic = "guess chimney advice arctic tooth baby pudding repeat pond asthma damage refuse";

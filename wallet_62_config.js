@@ -1,1 +1,1 @@
-var mnemonic = "aspect scan bar lesson corn welcome crush shield zoo flee heavy cactus";
+var mnemonic = "boss half laugh ritual coffee pluck caution jungle ahead gauge segment vibrant";

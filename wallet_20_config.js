@@ -1,1 +1,1 @@
-var mnemonic = "upset hotel patrol erupt come swing bid library balcony attend funny cheap";
+var mnemonic = "clump radar matter enjoy accuse pool copy act upon access scare ten";

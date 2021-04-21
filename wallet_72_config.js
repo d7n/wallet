@@ -1,1 +1,1 @@
-var mnemonic = "private enter ghost punch legal option inch start level cram owner swing";
+var mnemonic = "adult label evoke hamster trial sunny before panda arm help virus legal";

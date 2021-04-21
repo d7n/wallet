@@ -1,1 +1,1 @@
-var mnemonic = "ginger panel usage wisdom unfold vendor load pyramid purse execute mixed argue";
+var mnemonic = "defense silk share clutch boost divorce entire scare ticket goose lion swift";

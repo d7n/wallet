@@ -1,1 +1,1 @@
-var mnemonic = "acoustic obey what verify level horn oxygen lobster police boss panda domain";
+var mnemonic = "eyebrow problem autumn strategy tiger slow brisk smart lady edge siege rather";

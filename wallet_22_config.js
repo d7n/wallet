@@ -1,1 +1,1 @@
-var mnemonic = "recycle false crazy crack subject book tent abstract cattle real sound outer";
+var mnemonic = "talent act answer can risk wedding damage bulk step warfare rib adapt";

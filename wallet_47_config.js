@@ -1,1 +1,1 @@
-var mnemonic = "around myself clean pond senior bundle hurry narrow mean endless clog injury";
+var mnemonic = "riot gossip romance chair knock indicate blind rug chronic pilot spare wish";

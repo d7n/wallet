@@ -1,1 +1,1 @@
-var mnemonic = "scene weasel divorce scan jar salt victory jealous pond finish runway total";
+var mnemonic = "dry have thrive marine panel moon label stock earn original olympic target";

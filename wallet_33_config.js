@@ -1,1 +1,1 @@
-var mnemonic = "reason sentence bless budget unfold hurt trip master kitchen lemon cancel angry";
+var mnemonic = "someone sadness start oven tuition palace confirm genre maple chat tip art";

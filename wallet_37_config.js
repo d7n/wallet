@@ -1,1 +1,1 @@
-var mnemonic = "enrich cruise accuse daring labor wall morning sphere arm credit iron grant";
+var mnemonic = "clump tag upgrade choose fringe photo toilet wood wash easy can enroll";

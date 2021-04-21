@@ -1,1 +1,1 @@
-var mnemonic = "distance hub over wrap tube wagon frozen badge predict hood arch cry";
+var mnemonic = "claw october fix ahead enable empty cloth winter city rival include hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle script crush admit they fog history group topic picnic sphere biology";
+var mnemonic = "finish layer option world ordinary orphan salon chaos van dice sorry address";

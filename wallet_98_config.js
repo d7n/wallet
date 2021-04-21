@@ -1,1 +1,1 @@
-var mnemonic = "tribe analyst exist crouch body situate pink spring volume device century purse";
+var mnemonic = "hero crack remember cereal false elegant chef cage action hero tilt neutral";

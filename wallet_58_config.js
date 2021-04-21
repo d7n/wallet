@@ -1,1 +1,1 @@
-var mnemonic = "taste poverty decline pull outdoor cabin unknown other tooth find pony vital";
+var mnemonic = "shadow raven episode dust runway leg two link surprise dune rug mixture";

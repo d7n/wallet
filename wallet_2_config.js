@@ -1,1 +1,1 @@
-var mnemonic = "sustain settle legal trial bacon else coast home warm quit insane kiss";
+var mnemonic = "gaze fame summer damage mixture desk easy hub wood light flush exercise";

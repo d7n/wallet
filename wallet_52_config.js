@@ -1,1 +1,1 @@
-var mnemonic = "sadness guess roof you curtain valid impulse cannon multiply sheriff confirm goddess";
+var mnemonic = "tobacco appear critic wonder twist whale stumble spy strike glide van leaf";

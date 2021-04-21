@@ -1,1 +1,1 @@
-var mnemonic = "stand team album tobacco bid grid nice recall media crazy lens endorse";
+var mnemonic = "reunion access strike market moment finger zebra because seat afraid cloth parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "host organ list trigger knock amused nose egg crime taste shallow actress";
+var mnemonic = "strong point size wine talk chuckle option discover right curve recipe arrange";

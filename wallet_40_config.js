@@ -1,1 +1,1 @@
-var mnemonic = "category puppy sweet liquid crash limb sting bench child merry nature victory";
+var mnemonic = "kitchen dynamic cream tissue smile child worry river rack neglect usage quick";

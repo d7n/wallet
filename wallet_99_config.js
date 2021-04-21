@@ -1,1 +1,1 @@
-var mnemonic = "spring input now diesel theme network oxygen exercise ball frame fragile craft";
+var mnemonic = "dolphin shove ceiling execute jump involve during target misery turn void install";

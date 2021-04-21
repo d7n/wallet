@@ -1,1 +1,1 @@
-var mnemonic = "brush save camp dilemma diagram behind ignore subject private song damage net";
+var mnemonic = "must else round local latin above pencil shove topple lady dilemma unit";

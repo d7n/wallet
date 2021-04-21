@@ -1,1 +1,1 @@
-var mnemonic = "lion torch mix crisp fancy ranch robust hundred bounce leave paper damage";
+var mnemonic = "check say walnut bone mosquito range leisure pact license polar chronic attract";

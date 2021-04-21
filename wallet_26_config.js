@@ -1,1 +1,1 @@
-var mnemonic = "tip valid adapt figure fade bind poverty wood switch lunch amateur dinosaur";
+var mnemonic = "damage cute beach dance add egg rough expand only badge tiny exist";

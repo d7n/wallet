@@ -1,1 +1,1 @@
-var mnemonic = "kingdom gap cannon gallery van lock meat brick depend mystery frost machine";
+var mnemonic = "music fun obtain movie life track tide drip token accuse later region";

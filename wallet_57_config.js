@@ -1,1 +1,1 @@
-var mnemonic = "palm journey depth era outer live tiny combine forest vacant reward lazy";
+var mnemonic = "today possible benefit nuclear feed number kid excess regular liberty stage flash";

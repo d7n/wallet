@@ -1,1 +1,1 @@
-var mnemonic = "tennis between empower inside ecology hope hub seat tail tower that fringe";
+var mnemonic = "joy can rail cost program luxury junior wasp gadget festival flame amateur";

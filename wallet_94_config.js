@@ -1,1 +1,1 @@
-var mnemonic = "unhappy cry candy vintage just print enemy about club zone cargo misery";
+var mnemonic = "helmet wet blood ocean oven neither trigger injury arm tide mushroom okay";

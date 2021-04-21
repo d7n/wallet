@@ -1,1 +1,1 @@
-var mnemonic = "culture wheat virtual tortoise world rifle odor abuse question apart gorilla sun";
+var mnemonic = "sing impose absorb main obscure shoe develop example strike parrot public ocean";

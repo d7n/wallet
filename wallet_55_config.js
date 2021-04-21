@@ -1,1 +1,1 @@
-var mnemonic = "eagle vendor source object bag later token seat absent reopen reunion finish";
+var mnemonic = "fossil library royal govern pair olympic unique aerobic connect awful valid rally";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage wise industry remind hotel tired heart mad misery bounce teach brief";
+var mnemonic = "turtle can cheese invite swap clutch anchor note sugar marine vocal slot";

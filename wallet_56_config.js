@@ -1,1 +1,1 @@
-var mnemonic = "impact pill indoor pet hollow worth gadget fall legal salt cave economy";
+var mnemonic = "together aisle floor sustain arrive junk race direct glow image elevator sibling";

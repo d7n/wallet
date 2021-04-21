@@ -1,1 +1,1 @@
-var mnemonic = "unlock sail buzz hello match kiwi repeat crisp legal good firm future";
+var mnemonic = "banana breeze badge will guess explain where sure doctor wheat garden letter";

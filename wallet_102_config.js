@@ -1,1 +1,1 @@
-var mnemonic = "decorate unlock party reason enemy bind paddle knee faith maximum tuition problem";
+var mnemonic = "item move drum chronic flower reward squeeze metal side special decade sign";

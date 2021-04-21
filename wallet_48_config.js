@@ -1,1 +1,1 @@
-var mnemonic = "plastic whale muscle ankle cabin appear artist shallow hurry rare sausage guess";
+var mnemonic = "emotion special soda glove window monkey nation inherit make nephew brave second";

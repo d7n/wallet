@@ -1,1 +1,1 @@
-var mnemonic = "demand crazy police struggle goose transfer write trophy exit truth hand apology";
+var mnemonic = "cinnamon excite sort trust machine goose slender plunge faculty word carry table";

@@ -1,1 +1,1 @@
-var mnemonic = "fee cat fortune mask hub atom arrow crisp snake opera connect affair";
+var mnemonic = "all slab tattoo problem ugly random crazy acquire spray erase ridge any";

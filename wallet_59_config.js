@@ -1,1 +1,1 @@
-var mnemonic = "theme consider action issue advice cross excess stock material text once despair";
+var mnemonic = "video exit resist master burden box carbon process secret write cash noise";

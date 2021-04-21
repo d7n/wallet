@@ -1,1 +1,1 @@
-var mnemonic = "spoon general bridge rebuild theme era vicious layer family flight token sure";
+var mnemonic = "various smoke remove flag bargain pumpkin chalk weird lawsuit ridge final various";

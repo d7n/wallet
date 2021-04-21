@@ -1,1 +1,1 @@
-var mnemonic = "item idle toast empty case magnet remove trend evolve bicycle define final";
+var mnemonic = "weird mail color audit coil joke increase method bean ride return sure";

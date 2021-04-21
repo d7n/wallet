@@ -1,1 +1,1 @@
-var mnemonic = "whip tuition wood erode tail aspect ignore tower reflect fantasy clerk egg";
+var mnemonic = "library insect profit clip tilt rival wife critic cage deal swing public";

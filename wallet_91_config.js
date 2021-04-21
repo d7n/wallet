@@ -1,1 +1,1 @@
-var mnemonic = "bless police trip tired enemy rural fragile fee giggle reflect card list";
+var mnemonic = "oblige space alter wish produce empty fiction antique veteran credit rice spring";

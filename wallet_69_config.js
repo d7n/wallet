@@ -1,1 +1,1 @@
-var mnemonic = "episode pink private idle bachelor sponsor horror acid miracle artist ill copy";
+var mnemonic = "amazing fit cram swift glory found ignore enforce inner blanket release subway";

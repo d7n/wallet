@@ -1,1 +1,1 @@
-var mnemonic = "gravity wife ranch control lava amused easily salt arm shove swear muffin";
+var mnemonic = "perfect dove notice capable crowd slender gate feel zebra toss island stage";

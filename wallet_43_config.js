@@ -1,1 +1,1 @@
-var mnemonic = "shiver slot dust later train ten peanut scheme tilt blame film choose";
+var mnemonic = "cloud jeans alpha sponsor castle clay coconut dismiss notice property brain mother";

@@ -1,1 +1,1 @@
-var mnemonic = "section napkin diesel rude cabin promote inject mail neither click few road";
+var mnemonic = "yellow market best result text host main news bamboo visa earth visa";

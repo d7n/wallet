@@ -1,1 +1,1 @@
-var mnemonic = "sell energy exact age wrap turn history sphere almost luxury tube remember";
+var mnemonic = "toast state ancient desert enroll core pumpkin sad hill field regular either";

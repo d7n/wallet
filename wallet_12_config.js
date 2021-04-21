@@ -1,1 +1,1 @@
-var mnemonic = "earn double ethics mixture neglect huge certain knock tube group asthma fix";
+var mnemonic = "exchange swarm easy surface rifle leaf expect float actor minute west mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage swamp kit settle hope middle until boost alcohol later remain mandate";
+var mnemonic = "drill dentist thought hollow eager comic dirt base model auto slim shuffle";
