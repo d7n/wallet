@@ -1,1 +1,1 @@
-var mnemonic = "next program distance hotel crack divorce session luxury table curve army trap";
+var mnemonic = "empower bless pole position goat fragile unlock shoulder oil city seed service";

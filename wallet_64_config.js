@@ -1,1 +1,1 @@
-var mnemonic = "brown patrol comfort aim much hybrid orient bamboo sock length coach liberty";
+var mnemonic = "oven quality pole view clean tent one brisk woman wreck snow output";

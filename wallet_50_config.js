@@ -1,1 +1,1 @@
-var mnemonic = "west bonus stuff squeeze capable proud man mobile trick gloom crime extend";
+var mnemonic = "shadow short short hover unfair palm grant rifle tumble glance denial hotel";

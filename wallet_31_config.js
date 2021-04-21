@@ -1,1 +1,1 @@
-var mnemonic = "turtle rose blue forum section tower dinner danger reflect base tent concert";
+var mnemonic = "open square chapter ghost flight fluid rigid radar say laptop citizen lonely";

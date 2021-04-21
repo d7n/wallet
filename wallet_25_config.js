@@ -1,1 +1,1 @@
-var mnemonic = "street spread cause palace differ also puzzle zone immense awkward absorb become";
+var mnemonic = "explain tenant excite anxiety van rain tree boost snow half antenna sausage";

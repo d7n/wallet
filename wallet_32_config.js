@@ -1,1 +1,1 @@
-var mnemonic = "miracle gorilla crush among join unveil message fan coil happy slogan garlic";
+var mnemonic = "breeze property trophy rookie swim resource trim drastic seek soap clinic develop";

@@ -1,1 +1,1 @@
-var mnemonic = "teach glimpse ugly across tribe laundry style angle fetch network carry method";
+var mnemonic = "vibrant spike identify earth produce teach wedding famous meadow release yard crack";

@@ -1,1 +1,1 @@
-var mnemonic = "silver put item vast action grain meat soft topple busy stadium dynamic";
+var mnemonic = "liberty brick skill result permit hold ahead warfare real minimum elbow question";

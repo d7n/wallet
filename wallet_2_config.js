@@ -1,1 +1,1 @@
-var mnemonic = "screen umbrella leaf jacket ghost weekend fix inmate oil cruise seminar dynamic";
+var mnemonic = "solar collect bus appear acquire culture auction glow skate valve moral actress";

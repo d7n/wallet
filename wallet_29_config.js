@@ -1,1 +1,1 @@
-var mnemonic = "zebra burger dad today fan critic change layer win draft copy feature";
+var mnemonic = "prevent horn motor draft spatial angry occur seven apology enlist spare sight";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber fatigue february outer arrive race news story pole firm dash post";
+var mnemonic = "spread salon turkey legal inherit beach call quick shy addict dove unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "someone tell arch found undo pepper refuse push answer royal trend olive";
+var mnemonic = "hire raw same era method baby tooth attract name vault chief junk";

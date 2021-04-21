@@ -1,1 +1,1 @@
-var mnemonic = "dance seven toe decrease peanut differ chef faith junior unit bamboo auto";
+var mnemonic = "cushion bracket bright jump jar come situate rely mutual give tired normal";

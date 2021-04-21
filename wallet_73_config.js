@@ -1,1 +1,1 @@
-var mnemonic = "odor nurse acquire figure market shine mad vicious ill across mouse panda";
+var mnemonic = "ignore dry cousin hotel level stock auto author produce fun grant truly";

@@ -1,1 +1,1 @@
-var mnemonic = "attend moral mutual dinner seminar culture copy output major liberty observe clown";
+var mnemonic = "thing category street loop issue story toe material run hint mirror install";

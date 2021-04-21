@@ -1,1 +1,1 @@
-var mnemonic = "reject purpose pony young bounce suspect general card glow rebel ice nasty";
+var mnemonic = "best abuse advance robot famous capital hen admit egg swap damage junior";

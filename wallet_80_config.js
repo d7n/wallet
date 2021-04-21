@@ -1,1 +1,1 @@
-var mnemonic = "owner noodle interest forum chief magic grid manage quality crater notable exotic";
+var mnemonic = "devote cycle family success rotate safe detail ill grace armor close glove";

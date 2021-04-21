@@ -1,1 +1,1 @@
-var mnemonic = "final peasant amused panther observe panel want corn guilt duck little bread";
+var mnemonic = "plate execute aspect engine love level cave peanut feature burger dinner bless";

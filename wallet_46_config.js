@@ -1,1 +1,1 @@
-var mnemonic = "quality embody hammer snap august exchange attend legal harvest snake jaguar follow";
+var mnemonic = "stamp fan cliff summer oxygen talk toddler stem poem mirror harvest power";

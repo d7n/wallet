@@ -1,1 +1,1 @@
-var mnemonic = "occur cool vapor injury relax behind travel collect angry icon snake vast";
+var mnemonic = "dove muscle comic pumpkin exist ahead broom kind grit holiday fine suit";

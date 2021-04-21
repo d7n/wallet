@@ -1,1 +1,1 @@
-var mnemonic = "solid midnight circle panel pride glass exist enough fun actual flight liberty";
+var mnemonic = "ball animal this tomato curtain seed okay canal flower harsh monster saddle";

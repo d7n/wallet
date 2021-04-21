@@ -1,1 +1,1 @@
-var mnemonic = "sorry rebel drift piece bring chuckle poet lawsuit remember divorce gain way";
+var mnemonic = "job art hand summer paper soldier snow zone venture measure spice juice";

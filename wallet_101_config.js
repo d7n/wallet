@@ -1,1 +1,1 @@
-var mnemonic = "keep agree smart wealth whip bracket brick prefer tent photo churn parrot";
+var mnemonic = "idle tone green harsh soup good cactus load blade end aunt brave";

@@ -1,1 +1,1 @@
-var mnemonic = "filter erode repeat draw pledge excite warrior panic nephew hammer foster way";
+var mnemonic = "rival young inch swear lumber spy soft faculty muffin fix layer elegant";

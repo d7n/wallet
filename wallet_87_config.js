@@ -1,1 +1,1 @@
-var mnemonic = "decorate road silver order clog demand leisure beach yellow crisp gospel angle";
+var mnemonic = "creek eyebrow hub gesture urban time easy soap path color economy income";

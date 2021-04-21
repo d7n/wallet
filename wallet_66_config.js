@@ -1,1 +1,1 @@
-var mnemonic = "either exhaust exist dentist uphold youth mercy offer supply unveil fold poem";
+var mnemonic = "assault embody grass adult owner gown step source retire key puppy trap";

@@ -1,1 +1,1 @@
-var mnemonic = "share various claw loud shaft speak before song neither obey split destroy";
+var mnemonic = "code budget receive armed coil reject refuse spike crop grain mobile clog";

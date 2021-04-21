@@ -1,1 +1,1 @@
-var mnemonic = "pole carry erase repeat couple student junk update ostrich piano ocean veteran";
+var mnemonic = "multiply anxiety lunar robot reduce youth denial punch blanket express window slide";

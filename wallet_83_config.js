@@ -1,1 +1,1 @@
-var mnemonic = "tongue thumb caution spawn autumn certain bronze reject stage hurdle upon pretty";
+var mnemonic = "myth bomb edit sort prevent weasel like flash dog more elegant orphan";

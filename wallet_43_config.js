@@ -1,1 +1,1 @@
-var mnemonic = "used sample fluid elevator mule pottery pottery pole double blood fly topic";
+var mnemonic = "school way divert radar hawk reveal wrong moment tuition worry congress move";

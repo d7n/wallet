@@ -1,1 +1,1 @@
-var mnemonic = "siege glove ride vapor coconut result state window solid space hungry plate";
+var mnemonic = "syrup elbow diesel fence cover salute pipe time lazy twice online find";

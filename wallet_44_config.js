@@ -1,1 +1,1 @@
-var mnemonic = "huge rough track capable slow usage soup morning supply transfer tiger bracket";
+var mnemonic = "length pelican crush elite cigar veteran urban fence ring indicate custom insane";

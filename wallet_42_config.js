@@ -1,1 +1,1 @@
-var mnemonic = "old picture wine history warm between document mistake olympic gloom drip immune";
+var mnemonic = "quality race cruel bleak small wisdom attend donor estate puzzle kind combine";

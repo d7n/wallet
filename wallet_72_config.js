@@ -1,1 +1,1 @@
-var mnemonic = "good win father can short three traffic disease clump video raw sponsor";
+var mnemonic = "clown hundred forum shift steel cement pistol action else feature apology immune";

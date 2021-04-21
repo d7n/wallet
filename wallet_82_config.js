@@ -1,1 +1,1 @@
-var mnemonic = "drama art second sense bronze marine tooth bench scorpion cause venture bacon";
+var mnemonic = "put torch street asthma time again spirit chat grab fork bundle come";

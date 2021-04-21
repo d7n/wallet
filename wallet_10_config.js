@@ -1,1 +1,1 @@
-var mnemonic = "gauge month accuse eye radar eight gift buzz table easy hurt laugh";
+var mnemonic = "phone thought loop reopen observe alley avoid soft ship common dress blame";

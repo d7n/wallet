@@ -1,1 +1,1 @@
-var mnemonic = "inch scare address since entry salute surface traffic mouse stick size inner";
+var mnemonic = "annual piece copy artwork fence sister enough sock lumber basket strategy aunt";

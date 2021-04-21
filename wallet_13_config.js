@@ -1,1 +1,1 @@
-var mnemonic = "basket comfort equal hood eager ketchup aunt offer bird tree then ordinary";
+var mnemonic = "sentence filter web axis must artist top repair envelope edge neutral bunker";

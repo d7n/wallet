@@ -1,1 +1,1 @@
-var mnemonic = "wild wrong energy jazz park tiny rate bag because retreat tragic fan";
+var mnemonic = "decrease ten stadium extend captain fence behave position honey thunder strong front";

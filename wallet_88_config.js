@@ -1,1 +1,1 @@
-var mnemonic = "sport stage nerve bleak edge clog panel spoil whale shuffle sibling artwork";
+var mnemonic = "valid hub tape pattern fire virus galaxy sugar process lecture now kidney";

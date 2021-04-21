@@ -1,1 +1,1 @@
-var mnemonic = "web fade toilet deposit virus pluck outside captain gorilla oak source stem";
+var mnemonic = "obscure live flame toilet filter lumber hospital net indoor true brown room";

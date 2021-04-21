@@ -1,1 +1,1 @@
-var mnemonic = "patrol coral repair cargo engage window kind exclude hour demand slab wreck";
+var mnemonic = "woman bundle faint version liquid demise cruel gauge figure river devote crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy home enrich lake ready catch bid faint truth urge twelve seek";
+var mnemonic = "mystery asset plate flat harsh chat badge useful gun prison skirt hub";

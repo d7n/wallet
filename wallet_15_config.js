@@ -1,1 +1,1 @@
-var mnemonic = "nut shine pink swap leg dawn tell outer butter session relax rug";
+var mnemonic = "range hybrid girl color fabric team jeans boil combine kitten father parade";

@@ -1,1 +1,1 @@
-var mnemonic = "clean elbow clay explain diesel simple you amazing high pole decide final";
+var mnemonic = "edit favorite electric blouse curtain pear alter buffalo fiber hip napkin make";

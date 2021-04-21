@@ -1,1 +1,1 @@
-var mnemonic = "borrow cute light tattoo crack uphold swallow junior silk audit library wet";
+var mnemonic = "avocado metal supreme matrix cream file permit guard never genuine pottery aisle";

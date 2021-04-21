@@ -1,1 +1,1 @@
-var mnemonic = "elite mammal margin ability pelican disorder sweet bless abstract dice mimic daughter";
+var mnemonic = "banana flight nuclear shift vintage deposit baby pride affair lottery three ahead";

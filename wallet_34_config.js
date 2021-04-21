@@ -1,1 +1,1 @@
-var mnemonic = "flavor good quick provide fringe appear nuclear side camp coin another divorce";
+var mnemonic = "consider iron supreme end limb large ketchup burst marine despair inquiry since";

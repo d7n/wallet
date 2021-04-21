@@ -1,1 +1,1 @@
-var mnemonic = "apart junk mass toy service glow gown right gold solution actual help";
+var mnemonic = "struggle peace october beef error end remain option month slot distance someone";

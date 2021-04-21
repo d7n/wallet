@@ -1,1 +1,1 @@
-var mnemonic = "gold scrub notable prison media fade glass august tornado board excuse energy";
+var mnemonic = "female adjust liquid notice pledge stairs use render angle zero rice faculty";

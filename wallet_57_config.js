@@ -1,1 +1,1 @@
-var mnemonic = "talent apology enable aspect price alley junk music grow panic bronze odor";
+var mnemonic = "dish finger spider rubber walnut hope ranch demise crack spirit notable gaze";

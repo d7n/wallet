@@ -1,1 +1,1 @@
-var mnemonic = "reflect disorder arrive mind embody metal beyond push theory art ethics night";
+var mnemonic = "link that small mixture broom shaft grief left reflect gate setup mask";

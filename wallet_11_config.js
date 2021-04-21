@@ -1,1 +1,1 @@
-var mnemonic = "crucial dog screen foster practice april bunker possible lounge upgrade fiscal myself";
+var mnemonic = "disease myself lock upset direct genius act wing young burst dinosaur method";

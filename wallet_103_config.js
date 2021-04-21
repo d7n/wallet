@@ -1,1 +1,1 @@
-var mnemonic = "monitor daughter sunny credit zoo card width enough spy steak replace message";
+var mnemonic = "army sick access quantum fun grit upset quantum veteran wise already fish";

@@ -1,1 +1,1 @@
-var mnemonic = "hero record square field jump ceiling holiday busy tower earn jungle pumpkin";
+var mnemonic = "charge emerge trigger digital hand dentist situate economy act media dentist about";

@@ -1,1 +1,1 @@
-var mnemonic = "agent receive pyramid pave layer convince message muffin popular arrive expire symptom";
+var mnemonic = "gas knock wheat vanish tattoo glory carpet fresh collect element police travel";

@@ -1,1 +1,1 @@
-var mnemonic = "bike giggle matter immune vicious nature damp harsh tonight bench proud lounge";
+var mnemonic = "kitchen cupboard foil orchard wave design reflect eagle vessel net actress patrol";

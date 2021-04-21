@@ -1,1 +1,1 @@
-var mnemonic = "book sport air rebuild change ripple comfort view include wolf autumn once";
+var mnemonic = "measure avoid theory quick goose panther lend toddler apple owner biology antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "group cable essay advice adult rug ketchup design erupt dutch slam hold";
+var mnemonic = "cradle element skill animal crop option diet wonder vague friend lawsuit luggage";

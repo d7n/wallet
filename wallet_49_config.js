@@ -1,1 +1,1 @@
-var mnemonic = "human pig magnet season jealous six twice case midnight clean old rural";
+var mnemonic = "often large rural steel motor enlist area leisure manual size bunker thing";

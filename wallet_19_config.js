@@ -1,1 +1,1 @@
-var mnemonic = "educate mystery image evolve addict leader arm sunset glad immune syrup school";
+var mnemonic = "evoke vibrant found sentence resist friend vocal call oval lift way already";

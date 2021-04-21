@@ -1,1 +1,1 @@
-var mnemonic = "focus similar debate foam faint march property effort giggle shield stock trophy";
+var mnemonic = "dragon mail cat click impose outer skull spray pull expire tennis pool";

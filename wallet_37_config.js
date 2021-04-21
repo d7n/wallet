@@ -1,1 +1,1 @@
-var mnemonic = "mesh number lady dragon equal taxi palm voice oak cloud little size";
+var mnemonic = "foot slow decline abandon couple rhythm fatigue usual initial snap aware cloud";

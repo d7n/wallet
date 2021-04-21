@@ -1,1 +1,1 @@
-var mnemonic = "entry earth help finish horn vessel real journey across achieve spoil peanut";
+var mnemonic = "arrive toast valid area now cancel throw foot topic recall vendor regular";

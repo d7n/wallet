@@ -1,1 +1,1 @@
-var mnemonic = "word across gospel plastic vital recall remember estate gossip recall near find";
+var mnemonic = "earth roast grab before tell liar bacon book have game olympic leave";

@@ -1,1 +1,1 @@
-var mnemonic = "tape month desert toddler gentle tattoo peanut mad other brave car eye";
+var mnemonic = "voyage sauce earn asthma boss violin sport cherry regular place quality ripple";

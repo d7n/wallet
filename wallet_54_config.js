@@ -1,1 +1,1 @@
-var mnemonic = "strong pretty keep turtle episode rug dress media pig vivid comic survey";
+var mnemonic = "range cram wage property unaware coin tennis kite address moon system coffee";

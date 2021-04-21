@@ -1,1 +1,1 @@
-var mnemonic = "atom blind damage clever near basket stand outdoor list pig fatigue caught";
+var mnemonic = "peace seat van gap mansion jewel guess avocado usage era walnut guilt";

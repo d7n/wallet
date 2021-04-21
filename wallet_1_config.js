@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fiscal near curve few time consider love satisfy club surprise close";
+var mnemonic = "fetch next steak cannon episode roof next used peace casino derive grain";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty grocery just scare vendor goose favorite pottery beyond hedgehog choice pudding";
+var mnemonic = "deer pole rude outside sheriff caught reward differ glue milk patient much";

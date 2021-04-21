@@ -1,1 +1,1 @@
-var mnemonic = "survey involve vague system fatal pride find floor kick script injury dizzy";
+var mnemonic = "coyote battle clog filter hawk bitter learn morning guitar thing poet chair";

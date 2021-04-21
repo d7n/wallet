@@ -1,1 +1,1 @@
-var mnemonic = "body occur gentle renew brick transfer extend other umbrella puzzle input thrive";
+var mnemonic = "clip fine umbrella demise six seat shove maximum relax ramp scrub sister";

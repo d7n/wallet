@@ -1,1 +1,1 @@
-var mnemonic = "cool tourist other nut help benefit forum order box amazing bicycle success";
+var mnemonic = "kitchen flee woman often open jar dynamic unfair much narrow fury table";

@@ -1,1 +1,1 @@
-var mnemonic = "regret woman title laundry cabin then hard manual oyster jacket habit raise";
+var mnemonic = "page expire kid trend possible dignity spray key bread involve person churn";

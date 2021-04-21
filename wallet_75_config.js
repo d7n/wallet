@@ -1,1 +1,1 @@
-var mnemonic = "cheese nasty bubble misery ozone view library apart scene lounge celery chat";
+var mnemonic = "monster ship attract crew hospital cactus clap brain rotate myself reform meadow";

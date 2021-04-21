@@ -1,1 +1,1 @@
-var mnemonic = "rather silver ridge hedgehog wasp spoil rabbit turtle brave drum capable tip";
+var mnemonic = "palm atom devote brave brick melody drink grace bread hurry ceiling unique";

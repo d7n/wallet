@@ -1,1 +1,1 @@
-var mnemonic = "globe tube symptom tackle police foster gather buddy element awful student property";
+var mnemonic = "shallow digital warrior enhance camera bench maid virus odor home liar flee";

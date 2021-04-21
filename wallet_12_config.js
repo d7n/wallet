@@ -1,1 +1,1 @@
-var mnemonic = "change phone uncle horror direct episode alpha elder draft grass cook mass";
+var mnemonic = "blur ticket accident average what rib split bid rate open napkin album";

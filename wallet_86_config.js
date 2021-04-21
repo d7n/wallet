@@ -1,1 +1,1 @@
-var mnemonic = "home toss february park trophy umbrella laptop latin holiday sauce film shadow";
+var mnemonic = "indicate scrap leader enemy when poet surround witness gesture art garage ginger";

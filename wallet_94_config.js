@@ -1,1 +1,1 @@
-var mnemonic = "talent quote gaze topple forget mom bag machine remove bunker ride rely";
+var mnemonic = "vendor pole silly rib advance style length slice diet hybrid main uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "camp area dinosaur found addict clarify uncover season dwarf share same sorry";
+var mnemonic = "police state forum afraid future solar rebel good door tell sweet powder";

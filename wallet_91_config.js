@@ -1,1 +1,1 @@
-var mnemonic = "holiday orphan promote photo oxygen tide step reopen sponsor envelope play film";
+var mnemonic = "athlete inherit airport latin advance alone belt leisure elite bench ceiling yellow";

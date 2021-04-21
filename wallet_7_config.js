@@ -1,1 +1,1 @@
-var mnemonic = "syrup pull two practice couch frog parade boss border way burger can";
+var mnemonic = "mistake decide bounce fury slight shock marriage airport topic raven giggle orient";

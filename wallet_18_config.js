@@ -1,1 +1,1 @@
-var mnemonic = "enlist omit robot just legal climb army vague play loan wife expect";
+var mnemonic = "ritual riot oppose salute vivid sing spider goose escape hover will alter";

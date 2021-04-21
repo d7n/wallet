@@ -1,1 +1,1 @@
-var mnemonic = "kiwi dove staff toss symbol joy random monitor glow jar sweet check";
+var mnemonic = "own employ oven prepare remember luxury pet top moon vapor explain have";

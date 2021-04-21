@@ -1,1 +1,1 @@
-var mnemonic = "refuse jungle will mobile mimic poet search whisper inhale hero human gorilla";
+var mnemonic = "expose treat garage price spring clay sweet useful range degree food tumble";

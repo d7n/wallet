@@ -1,1 +1,1 @@
-var mnemonic = "tube club episode game income truly theme couch meat reduce fatal exile";
+var mnemonic = "ill decrease join muffin note way nominee rule news damage veteran assume";

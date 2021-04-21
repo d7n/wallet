@@ -1,1 +1,1 @@
-var mnemonic = "shy helmet fuel deposit evil boss used giant unfair unknown prize cheap";
+var mnemonic = "solar divide stove frown estate bar mandate cancel churn proud garbage model";

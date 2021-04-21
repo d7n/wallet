@@ -1,1 +1,1 @@
-var mnemonic = "surround sting journey stone bachelor lake finish glow eager toss hold sponsor";
+var mnemonic = "belt fruit portion disease sun erosion capable measure scorpion ridge bike cost";

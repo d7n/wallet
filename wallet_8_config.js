@@ -1,1 +1,1 @@
-var mnemonic = "detail soul escape wave tone victory siren park what ready error morning";
+var mnemonic = "bench sniff forward shed edit weapon toe direct safe arrest spider soon";

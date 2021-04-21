@@ -1,1 +1,1 @@
-var mnemonic = "body argue later guard universe guilt flower shiver crucial eyebrow uphold clever";
+var mnemonic = "goddess effort romance razor assault blue pool sauce eternal sustain shell inhale";

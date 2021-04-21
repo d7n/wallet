@@ -1,1 +1,1 @@
-var mnemonic = "early grunt give color world tortoise garden bounce zero bounce wine eternal";
+var mnemonic = "metal raccoon degree salmon nominee harvest indicate thought nominee about beef cause";

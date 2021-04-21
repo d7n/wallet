@@ -1,1 +1,1 @@
-var mnemonic = "double wing announce south network leg damp patch shrimp stem hero health";
+var mnemonic = "winner donkey outer better swing rotate board dinner change deliver prize volcano";
