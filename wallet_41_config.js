@@ -1,1 +1,1 @@
-var mnemonic = "cage predict success render glove bird worry uniform disagree prefer pigeon bachelor";
+var mnemonic = "decide capital bottom gift shoe file once collect dry vocal sure pluck";

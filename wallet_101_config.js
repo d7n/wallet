@@ -1,1 +1,1 @@
-var mnemonic = "ability ask food glide grab hamster six season loop casual coconut elegant";
+var mnemonic = "mercy embark square tongue injury group giant embody manual travel interest soccer";

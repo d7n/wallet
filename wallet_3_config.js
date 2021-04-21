@@ -1,1 +1,1 @@
-var mnemonic = "win real kick cactus club program sister observe carbon about path thing";
+var mnemonic = "two cover orbit alien promote ahead double insane seek basic student purpose";

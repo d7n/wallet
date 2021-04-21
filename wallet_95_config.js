@@ -1,1 +1,1 @@
-var mnemonic = "crush aim miss movie shop energy eight this result dizzy clinic doctor";
+var mnemonic = "prepare often tiny december paddle protect guitar sort flock reject purchase senior";

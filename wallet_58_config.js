@@ -1,1 +1,1 @@
-var mnemonic = "trash capital want stage equip shop page diesel various decade dignity length";
+var mnemonic = "pumpkin feature resource lock nature stay crane liar script amazing hair equip";

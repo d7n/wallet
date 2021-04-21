@@ -1,1 +1,1 @@
-var mnemonic = "recipe motion easily endless metal grape scout remove crouch spice tourist human";
+var mnemonic = "phrase impact still little vocal make blush chapter round busy away finish";

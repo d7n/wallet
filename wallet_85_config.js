@@ -1,1 +1,1 @@
-var mnemonic = "scan tissue choose notable upon afford hollow tide wait below piano cupboard";
+var mnemonic = "shuffle future network runway manage swift feed phrase media parade leg total";

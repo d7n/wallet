@@ -1,1 +1,1 @@
-var mnemonic = "labor various bag hair scorpion off derive fix possible output worth warm";
+var mnemonic = "almost area picnic mixture gospel enhance ozone loan side boost visual below";

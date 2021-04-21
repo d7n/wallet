@@ -1,1 +1,1 @@
-var mnemonic = "say boat sibling sniff goddess food make nice exhibit middle media nest";
+var mnemonic = "measure talent capable size journey trial barely radar message alert tired puzzle";

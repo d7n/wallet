@@ -1,1 +1,1 @@
-var mnemonic = "scrap water shed claw pumpkin crowd radar oyster range glide ancient fan";
+var mnemonic = "flip universe saddle always such garden friend ordinary hospital away metal outdoor";

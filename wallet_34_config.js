@@ -1,1 +1,1 @@
-var mnemonic = "cable barrel woman person ivory welcome artwork actor shuffle stuff drive guilt";
+var mnemonic = "foil exit gesture recycle small attack jewel security seat extend vague pyramid";

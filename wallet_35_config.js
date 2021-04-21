@@ -1,1 +1,1 @@
-var mnemonic = "soon man coin keep around poverty social cover able fancy glass defy";
+var mnemonic = "stone height oxygen approve stay leave park peasant catalog major word shed";

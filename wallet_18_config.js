@@ -1,1 +1,1 @@
-var mnemonic = "strong black brush hidden shuffle exercise enemy half anchor cluster nothing avocado";
+var mnemonic = "slim weasel evil hammer priority slot wonder mass giraffe purchase drive eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork swear express genuine avoid seven license seven spend where silk wait";
+var mnemonic = "enjoy poem grow price boring habit sweet change snap clutch erupt laptop";

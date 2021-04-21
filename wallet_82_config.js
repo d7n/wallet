@@ -1,1 +1,1 @@
-var mnemonic = "hungry tower game velvet virus negative boy track industry quote lazy coast";
+var mnemonic = "verify ketchup border become borrow frequent case lunch animal feed blade caution";

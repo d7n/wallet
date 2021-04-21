@@ -1,1 +1,1 @@
-var mnemonic = "mutual surround scorpion gate then barely text laptop paper sport master useful";
+var mnemonic = "fun hover solve festival rapid peanut split fat exclude hover organ will";

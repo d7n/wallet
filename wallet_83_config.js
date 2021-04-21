@@ -1,1 +1,1 @@
-var mnemonic = "side rule viable board dragon upgrade fever color reveal wrist elephant october";
+var mnemonic = "air jacket just have tuna endorse strike grunt depend goat admit rose";

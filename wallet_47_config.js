@@ -1,1 +1,1 @@
-var mnemonic = "brother goose regret gossip fence holiday laugh enlist dumb spawn share vendor";
+var mnemonic = "rapid permit guard version scrub ladder drastic video wagon educate pulse recipe";

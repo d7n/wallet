@@ -1,1 +1,1 @@
-var mnemonic = "egg bid seek weekend casino stool demise fetch similar topic gas casino";
+var mnemonic = "message punch awful street insect used road squeeze degree acquire visa future";

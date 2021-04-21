@@ -1,1 +1,1 @@
-var mnemonic = "result ugly girl lounge truly wave carpet entry love purity cloud citizen";
+var mnemonic = "marriage pitch mention lawsuit volcano rival useless wrong elbow response wool fish";

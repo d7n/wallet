@@ -1,1 +1,1 @@
-var mnemonic = "finger forum indoor diary hint mansion leisure breeze february dog avocado ignore";
+var mnemonic = "sugar debris maze erase bright bulk together cattle cable toward exercise shadow";

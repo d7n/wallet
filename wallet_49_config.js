@@ -1,1 +1,1 @@
-var mnemonic = "market long journey when valid monkey tide idle van cupboard grape double";
+var mnemonic = "myself pigeon impulse forget token frown amazing lazy elbow brass cheese motion";

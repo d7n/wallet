@@ -1,1 +1,1 @@
-var mnemonic = "cannon same monitor mother team treat donate sudden record release public away";
+var mnemonic = "flat produce afraid crew engine vanish prevent suit great fever obscure approve";

@@ -1,1 +1,1 @@
-var mnemonic = "icon horse dinosaur excuse pig peace exit come ceiling illness ladder diagram";
+var mnemonic = "rapid trip journey spend evil nominee abstract clever weapon dove true horror";

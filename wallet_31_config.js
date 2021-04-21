@@ -1,1 +1,1 @@
-var mnemonic = "valid hard unhappy coach fantasy become tomorrow mention pulse bring appear add";
+var mnemonic = "confirm smart element abandon bachelor divorce burden hungry hazard pair poet legend";

@@ -1,1 +1,1 @@
-var mnemonic = "edge alarm note sense juice sand guess inject brief start pony mom";
+var mnemonic = "possible normal gasp fence clock pizza among issue liquid saddle grass draft";

@@ -1,1 +1,1 @@
-var mnemonic = "sand type immense local slab infant april tunnel write festival off roast";
+var mnemonic = "giant monkey cancel bus fashion vivid six betray panther silly vault public";

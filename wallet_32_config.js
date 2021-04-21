@@ -1,1 +1,1 @@
-var mnemonic = "spatial small broken fun dream age middle shield unfold rather pet insect";
+var mnemonic = "wink little crack flash rough foam wage aunt guard two tackle property";

@@ -1,1 +1,1 @@
-var mnemonic = "blue subway gate below buyer screen acid enrich thought few glory jeans";
+var mnemonic = "sibling wood faint attract regret spirit excite throw theory apple buffalo print";

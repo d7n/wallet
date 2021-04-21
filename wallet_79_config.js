@@ -1,1 +1,1 @@
-var mnemonic = "fan nature dismiss opinion couple high tent truth lift nerve bid sign";
+var mnemonic = "month ethics cattle pulp noodle diamond fresh town alert account cave birth";

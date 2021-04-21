@@ -1,1 +1,1 @@
-var mnemonic = "appear sad attend ocean okay lion noodle spell shiver please three rebuild";
+var mnemonic = "skate whisper imitate there moral fox catalog language finger bottom snack fan";

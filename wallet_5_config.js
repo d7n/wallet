@@ -1,1 +1,1 @@
-var mnemonic = "cheese battle worry deny keep number zone since category afraid armor alter";
+var mnemonic = "reward fatal engage cup mix chalk shell unable leisure human rug click";

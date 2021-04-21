@@ -1,1 +1,1 @@
-var mnemonic = "minor energy summer behind virus work erupt virtual trap street similar valve";
+var mnemonic = "tower produce rate early drip pyramid young benefit joke advice country twist";

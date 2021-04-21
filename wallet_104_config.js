@@ -1,1 +1,1 @@
-var mnemonic = "media aerobic raise abandon spring control will nose deal palace second word";
+var mnemonic = "twin deny human hover cupboard filter bomb nominee leave cabbage hard shoe";

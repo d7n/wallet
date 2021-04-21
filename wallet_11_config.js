@@ -1,1 +1,1 @@
-var mnemonic = "slice steel oven warrior start tank sort museum leisure tip old calm";
+var mnemonic = "fault hole garage design can wasp kitchen panel common bulk swift tennis";

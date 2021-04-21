@@ -1,1 +1,1 @@
-var mnemonic = "mechanic elegant leopard april clever rack kind approve dove digital alert luxury";
+var mnemonic = "spot burden usage jewel tube melody erase sunset poet slow boil category";

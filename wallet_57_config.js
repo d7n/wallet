@@ -1,1 +1,1 @@
-var mnemonic = "wing whip action say beach biology worth artefact loud position found match";
+var mnemonic = "blade mad flame install regular during palm tide danger history tuition name";

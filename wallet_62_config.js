@@ -1,1 +1,1 @@
-var mnemonic = "tank manage fuel online random custom forward seven method tragic health neglect";
+var mnemonic = "erosion luxury april remind smoke brisk math soccer home thumb hamster bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "spare arch depart park nominee ancient dry elegant claim tower funny author";
+var mnemonic = "aunt pulp can pigeon choose game innocent little brush dragon eyebrow small";

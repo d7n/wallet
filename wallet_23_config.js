@@ -1,1 +1,1 @@
-var mnemonic = "curve come walk whip analyst donkey lawn initial gorilla palace detail theme";
+var mnemonic = "cigar apology cotton zone hand capital entry cannon tape elephant volcano truth";

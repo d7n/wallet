@@ -1,1 +1,1 @@
-var mnemonic = "guess wave coach fox scan tower miss idea inside act inmate dilemma";
+var mnemonic = "wasp bubble that dance object opinion odor spend shoe gesture country pitch";

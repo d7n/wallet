@@ -1,1 +1,1 @@
-var mnemonic = "main mad grunt awake flame adjust tray elegant van fan nothing slide";
+var mnemonic = "swap soft name exercise panther analyst two universe isolate wool physical wood";

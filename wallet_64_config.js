@@ -1,1 +1,1 @@
-var mnemonic = "strong stage connect coral boost alert air notice ring dirt develop tell";
+var mnemonic = "oil recall easily ice pill online right raw bridge acoustic deer brisk";

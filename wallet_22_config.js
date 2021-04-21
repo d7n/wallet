@@ -1,1 +1,1 @@
-var mnemonic = "border program skate power polar denial hospital private ritual muffin scale coconut";
+var mnemonic = "mechanic morning hospital focus essence upgrade indoor rigid tilt vessel forward business";

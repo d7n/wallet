@@ -1,1 +1,1 @@
-var mnemonic = "rival coast end round dinner sustain orange anxiety foil just wash jewel";
+var mnemonic = "cousin rice bracket cereal drastic sunset kingdom cherry path lemon adult athlete";

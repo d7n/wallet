@@ -1,1 +1,1 @@
-var mnemonic = "economy meat original metal bread aunt embody curtain badge boss seminar barely";
+var mnemonic = "garlic path weather escape mixed cereal yellow salute fruit indicate wasp rich";

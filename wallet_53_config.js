@@ -1,1 +1,1 @@
-var mnemonic = "daughter girl sniff clinic either step twin concert assault cabbage pool wing";
+var mnemonic = "exclude beauty fetch apple garden body patient rib pond sweet render used";

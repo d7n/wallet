@@ -1,1 +1,1 @@
-var mnemonic = "fruit science return deputy paddle rare fossil marble wet canvas book eight";
+var mnemonic = "crowd salt oval bike wish soda junk circle lawsuit slogan govern flock";

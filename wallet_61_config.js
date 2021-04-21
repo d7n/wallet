@@ -1,1 +1,1 @@
-var mnemonic = "shock angry depend slab proof horn cruise power wait pelican person tomorrow";
+var mnemonic = "ask cry account assume razor salmon steak depth immense differ hollow deer";

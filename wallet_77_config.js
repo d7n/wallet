@@ -1,1 +1,1 @@
-var mnemonic = "vote view south spy exit divide useful rifle enjoy siege timber two";
+var mnemonic = "hospital neck express style transfer core metal neither good over globe broken";

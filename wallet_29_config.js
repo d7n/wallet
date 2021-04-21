@@ -1,1 +1,1 @@
-var mnemonic = "pigeon type ankle pencil border food flat cloud ranch paddle special because";
+var mnemonic = "cheap nephew wealth buzz rib solar tunnel matrix skill spot horror abstract";

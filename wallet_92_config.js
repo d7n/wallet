@@ -1,1 +1,1 @@
-var mnemonic = "morning noise property decrease crack science twin device fiction weasel blast culture";
+var mnemonic = "rigid guide license vibrant web vote fold trim inhale original diesel caught";

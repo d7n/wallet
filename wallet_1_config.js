@@ -1,1 +1,1 @@
-var mnemonic = "carry sorry moment warrior rain approve wood abstract science loan digital degree";
+var mnemonic = "bleak client pear economy sweet endless tuna swim wall hungry clog apart";

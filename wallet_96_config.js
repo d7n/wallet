@@ -1,1 +1,1 @@
-var mnemonic = "transfer time already sauce reveal stage bunker bind crash neither leader bitter";
+var mnemonic = "master toy million rate easy fatal survey click hybrid then retire trick";

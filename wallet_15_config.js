@@ -1,1 +1,1 @@
-var mnemonic = "design icon among inherit pet ladder clown million income magic cousin school";
+var mnemonic = "hurt cricket super mule involve thrive various reflect hurt neutral tribe test";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip exhibit have enemy culture gown ostrich electric immense cause silver spend";
+var mnemonic = "buyer basket select kiwi drip possible patch garlic spawn arena rhythm this";

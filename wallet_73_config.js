@@ -1,1 +1,1 @@
-var mnemonic = "occur kingdom income knee inside daring three tooth summer faculty husband uphold";
+var mnemonic = "host bag chest flower frown rack lazy accident luggage pond build future";

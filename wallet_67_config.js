@@ -1,1 +1,1 @@
-var mnemonic = "siren party major common grass inform ability crack ask cancel promote foster";
+var mnemonic = "domain search away narrow dirt dilemma put quarter glide record ritual faith";

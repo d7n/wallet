@@ -1,1 +1,1 @@
-var mnemonic = "visual lemon poem ritual venue collect scorpion leisure oak sense judge zoo";
+var mnemonic = "aisle blouse jazz hour dose biology wing clay provide broccoli dune bachelor";

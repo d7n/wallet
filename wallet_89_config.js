@@ -1,1 +1,1 @@
-var mnemonic = "weird earth grit gravity crawl upper sniff civil live noble kind company";
+var mnemonic = "clown decrease omit lens power write purity coyote snow nice buyer agent";

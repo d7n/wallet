@@ -1,1 +1,1 @@
-var mnemonic = "supply good aim gap december ranch lake dutch cloud hamster detail good";
+var mnemonic = "endorse finish regular cupboard mercy budget minute walk motor vehicle chuckle style";

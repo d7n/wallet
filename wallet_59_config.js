@@ -1,1 +1,1 @@
-var mnemonic = "vanish visa actress dirt bounce kitten network suspect cross giggle velvet chuckle";
+var mnemonic = "soup purse lemon meat soap fiber nice soccer usage head zebra grit";

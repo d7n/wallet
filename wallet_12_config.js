@@ -1,1 +1,1 @@
-var mnemonic = "iron fatal gospel prosper swallow blame lesson purity apple spice air escape";
+var mnemonic = "offer beyond fluid canyon drop romance already warfare wrap harsh friend sunset";

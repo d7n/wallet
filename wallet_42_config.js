@@ -1,1 +1,1 @@
-var mnemonic = "inside bulb hover security drive involve solid solution parent aisle alley kiwi";
+var mnemonic = "theory sheriff trouble creek brass six siege give jelly liquid arrow isolate";

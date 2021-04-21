@@ -1,1 +1,1 @@
-var mnemonic = "surround math source carpet crawl grain space walk dust wagon patch artefact";
+var mnemonic = "treat basket display clock forest danger okay struggle general polar toilet border";

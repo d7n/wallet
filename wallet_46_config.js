@@ -1,1 +1,1 @@
-var mnemonic = "coil ignore federal random remain axis rabbit brother run echo rack vapor";
+var mnemonic = "wire improve bullet rate opera bar tackle note tide despair lady forest";

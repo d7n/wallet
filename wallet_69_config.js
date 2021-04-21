@@ -1,1 +1,1 @@
-var mnemonic = "famous clog lady vote trade where mushroom flee sustain genre cricket immense";
+var mnemonic = "like brand walk gain situate sunny asset mushroom toe peace bundle erupt";

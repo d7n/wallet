@@ -1,1 +1,1 @@
-var mnemonic = "bless opera stick close robot badge apple asset end used media lend";
+var mnemonic = "deny special salon melody present enemy raise stomach path soul garlic female";

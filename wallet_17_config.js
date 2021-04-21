@@ -1,1 +1,1 @@
-var mnemonic = "siren enemy bunker tennis possible vote strategy cook music hybrid match zebra";
+var mnemonic = "toilet wealth face wire illness fringe mechanic patch old distance pretty amused";

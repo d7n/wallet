@@ -1,1 +1,1 @@
-var mnemonic = "skin test earn onion milk rookie rotate valve check paper rose toast";
+var mnemonic = "filter silver connect result make awesome inflict tape banana drive vintage enrich";

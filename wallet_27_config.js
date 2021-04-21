@@ -1,1 +1,1 @@
-var mnemonic = "fly soda speak team divorce sentence october skate jump ranch include cloud";
+var mnemonic = "perfect cheese surround canvas suffer cream harsh peanut legal tonight bring survey";

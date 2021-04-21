@@ -1,1 +1,1 @@
-var mnemonic = "impulse dumb mercy mind then bean desert actress ability pause picnic impose";
+var mnemonic = "romance poem social tongue salmon lumber discover cake uphold bus slim ice";

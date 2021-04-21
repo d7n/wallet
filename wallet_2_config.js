@@ -1,1 +1,1 @@
-var mnemonic = "hollow put royal burden gaze bench misery adjust update daughter harvest mind";
+var mnemonic = "seven organ across fiction anchor before more later corn season vendor truth";

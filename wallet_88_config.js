@@ -1,1 +1,1 @@
-var mnemonic = "bird fly horror color genuine series habit flight nuclear obtain kitten inside";
+var mnemonic = "water volcano flat gauge snake ankle harbor mom blossom inherit exist expire";

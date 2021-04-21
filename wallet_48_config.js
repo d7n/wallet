@@ -1,1 +1,1 @@
-var mnemonic = "hub reform spike solar mind one sight satisfy diet diamond cycle various";
+var mnemonic = "ahead quarter scrub wisdom father crash butter exhibit buyer magic upper garden";

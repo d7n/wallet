@@ -1,1 +1,1 @@
-var mnemonic = "oil creek tuition grass wear orient hope skirt canal nurse steel acoustic";
+var mnemonic = "stool village trend garbage long special final inside attack deposit vibrant please";

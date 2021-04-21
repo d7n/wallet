@@ -1,1 +1,1 @@
-var mnemonic = "arena know piano cross bless end fish planet nature planet wait primary";
+var mnemonic = "cruise unlock silver vendor outdoor slot cupboard robot crush glass damage track";

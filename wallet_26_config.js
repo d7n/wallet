@@ -1,1 +1,1 @@
-var mnemonic = "advice theme faculty lucky perfect light father that pudding fade sport shove";
+var mnemonic = "cloth film net include smoke century license exotic penalty member pony naive";

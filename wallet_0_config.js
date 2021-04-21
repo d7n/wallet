@@ -1,1 +1,1 @@
-var mnemonic = "base book pretty amused push bone fossil build home blast rubber divide";
+var mnemonic = "busy strategy traffic private brown panic desert fox slab twelve cage ability";

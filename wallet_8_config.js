@@ -1,1 +1,1 @@
-var mnemonic = "razor coral height bird cigar guess morning clever chaos usage fly soccer";
+var mnemonic = "patrol demise present dog face supreme caution flat school cement tooth monster";

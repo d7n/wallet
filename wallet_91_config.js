@@ -1,1 +1,1 @@
-var mnemonic = "bright heavy page mesh lion cupboard chaos diesel wall doctor february behave";
+var mnemonic = "involve beach price stock wrap high bag winter muffin century come mystery";

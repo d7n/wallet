@@ -1,1 +1,1 @@
-var mnemonic = "disagree ride warm crumble snow become clog island vibrant kick twist banner";
+var mnemonic = "exhibit hard gesture viable ritual tiny casual mixture dash plunge host arch";

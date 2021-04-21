@@ -1,1 +1,1 @@
-var mnemonic = "girl expand artefact marble fresh air warrior hole point include invite duck";
+var mnemonic = "jump multiply soup castle glide rough apple crowd mimic adjust swarm fossil";

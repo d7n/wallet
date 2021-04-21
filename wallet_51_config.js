@@ -1,1 +1,1 @@
-var mnemonic = "worth ready trial bulk aerobic chunk fluid hospital near sting mom fiber";
+var mnemonic = "differ slot width staff help dumb stereo stereo evolve body melody great";

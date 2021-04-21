@@ -1,1 +1,1 @@
-var mnemonic = "afford wrestle cherry wasp boost elephant leader capital steak access indoor gospel";
+var mnemonic = "switch south damp flip total rich trophy slice walk limit worry blood";

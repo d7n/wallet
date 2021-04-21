@@ -1,1 +1,1 @@
-var mnemonic = "cause ozone prepare robust cruel object dog coach conduct antique basket together";
+var mnemonic = "try layer lottery sentence inspire knife tuna gorilla angle denial point quote";

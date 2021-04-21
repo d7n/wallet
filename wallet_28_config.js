@@ -1,1 +1,1 @@
-var mnemonic = "heart rigid dice annual physical circle lend lucky candy corn exhaust test";
+var mnemonic = "power license picture mention solar bamboo dress humor minute elevator crawl alter";

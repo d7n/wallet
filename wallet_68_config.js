@@ -1,1 +1,1 @@
-var mnemonic = "absorb actor crystal pact stereo actor post broom axis note suggest trend";
+var mnemonic = "jar often model anger dad transfer deputy era faculty expand hood person";

@@ -1,1 +1,1 @@
-var mnemonic = "desert dirt route muffin crunch mistake apology fix sight fox license hungry";
+var mnemonic = "image auto innocent ice what blue swallow virtual middle blush prosper doctor";

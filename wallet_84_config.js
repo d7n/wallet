@@ -1,1 +1,1 @@
-var mnemonic = "invest round organ dutch asset left either forget august engine egg beauty";
+var mnemonic = "service jelly version laundry man power sense little title coffee void fiber";

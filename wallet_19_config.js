@@ -1,1 +1,1 @@
-var mnemonic = "error atom exit knock grid equip blossom gorilla canyon hurdle able dose";
+var mnemonic = "agree pause hard report alarm punch nurse pepper rescue universe shell wave";

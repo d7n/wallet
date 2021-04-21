@@ -1,1 +1,1 @@
-var mnemonic = "subway beef security crime school virtual spice cube opinion asthma sunny pact";
+var mnemonic = "arch skill circle kite seven school joke flip army reflect legend can";

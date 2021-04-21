@@ -1,1 +1,1 @@
-var mnemonic = "turn cruel fix public iron camera scare hurt giraffe decrease crane crumble";
+var mnemonic = "cruise clinic balance record parrot crumble wet spy tip enhance choice length";

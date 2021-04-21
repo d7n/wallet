@@ -1,1 +1,1 @@
-var mnemonic = "job seed ready major gun timber car always add nephew convince enable";
+var mnemonic = "range tilt hero circle build biology ten tenant animal index enforce humor";
