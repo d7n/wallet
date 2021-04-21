@@ -1,1 +1,1 @@
-var mnemonic = "earn protect student alter play monkey twenty offer roast found pistol boil";
+var mnemonic = "song lady addict thunder talent couch cannon garden torch oblige neglect chicken";

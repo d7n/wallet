@@ -1,1 +1,1 @@
-var mnemonic = "lab rent humor furnace wrap marble acquire violin purse arrow spin deputy";
+var mnemonic = "romance service that stuff adult cupboard spice oppose crime tornado dumb expand";

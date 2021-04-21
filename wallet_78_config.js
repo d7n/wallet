@@ -1,1 +1,1 @@
-var mnemonic = "live rule keep combine brand decline bread latin odor kit undo wave";
+var mnemonic = "toss dinner retreat away again later wheel stage bubble baby black sell";

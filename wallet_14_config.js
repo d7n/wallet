@@ -1,1 +1,1 @@
-var mnemonic = "toast soda main elbow venue total excess lyrics code lazy street when";
+var mnemonic = "season october expect toward abuse rally abuse frozen lottery bitter science elegant";

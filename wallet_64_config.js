@@ -1,1 +1,1 @@
-var mnemonic = "draft bird horn relief gun miracle code adapt that spray group mule";
+var mnemonic = "recipe walk orchard trade glare ordinary few time loop crucial pencil undo";

@@ -1,1 +1,1 @@
-var mnemonic = "regular inject better vote denial brand neutral more blanket unveil slim simple";
+var mnemonic = "assault this blade salon chase real senior hire game flame manage margin";

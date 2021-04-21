@@ -1,1 +1,1 @@
-var mnemonic = "type clog brisk office extend more apart size announce sense balance want";
+var mnemonic = "skill employ nephew normal proof toy dad candy minor wide prevent pottery";

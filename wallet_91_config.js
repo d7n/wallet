@@ -1,1 +1,1 @@
-var mnemonic = "smooth tuna electric month shove wonder ribbon immense beef rally enact either";
+var mnemonic = "skirt connect ethics page staff bench trap bless record brass punch payment";

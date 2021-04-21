@@ -1,1 +1,1 @@
-var mnemonic = "spoon hurdle cave distance resemble load sure meat garlic elephant smooth motion";
+var mnemonic = "melt finger puppy peace exercise adjust trophy range taxi melt science hope";

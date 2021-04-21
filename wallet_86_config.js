@@ -1,1 +1,1 @@
-var mnemonic = "claim beef praise stem fit trust can sing pretty join panther gown";
+var mnemonic = "thrive giant pipe melt fuel planet come salon deer shallow trust wagon";

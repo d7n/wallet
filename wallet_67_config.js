@@ -1,1 +1,1 @@
-var mnemonic = "unveil friend prevent usual pair match very exchange panda possible toss chimney";
+var mnemonic = "click because street stadium fetch beyond loop virtual voice limb habit level";

@@ -1,1 +1,1 @@
-var mnemonic = "key fiction pizza spy lucky estate pill country company fiber manual unique";
+var mnemonic = "during capital vacuum uncover busy unhappy depart anger bread attack dial birth";

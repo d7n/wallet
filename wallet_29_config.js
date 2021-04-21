@@ -1,1 +1,1 @@
-var mnemonic = "wagon impulse secret vanish brain gadget march debris seek novel battle armor";
+var mnemonic = "negative purpose ill hen oppose fade now option ramp domain snap trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "excite tattoo aspect like floor reveal husband fiction arctic enforce auto duck";
+var mnemonic = "suit bright suggest sort option dutch common bone always arena chef relax";

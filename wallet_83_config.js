@@ -1,1 +1,1 @@
-var mnemonic = "morning valid alter degree prize define gate involve item ugly cute prepare";
+var mnemonic = "square cry soda ride dish neither august gun across feature news make";

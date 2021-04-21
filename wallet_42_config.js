@@ -1,1 +1,1 @@
-var mnemonic = "supreme merit alarm sight effort gospel fix crew caution convince obtain arrive";
+var mnemonic = "ancient false series hidden floor daughter squirrel more ivory staff head clog";

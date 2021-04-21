@@ -1,1 +1,1 @@
-var mnemonic = "service property skirt tilt lunar quarter axis vanish crush jelly vintage loop";
+var mnemonic = "inhale episode enhance cement lab street drastic word among crash illegal baby";

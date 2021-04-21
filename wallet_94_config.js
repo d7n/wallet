@@ -1,1 +1,1 @@
-var mnemonic = "edit indoor scene pulp gown gauge dove over raise bind bridge corn";
+var mnemonic = "egg neck minute case animal defense inner legend expose segment oak win";

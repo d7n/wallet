@@ -1,1 +1,1 @@
-var mnemonic = "tongue exhibit honey expose sunny picture vivid metal brass solid copy laptop";
+var mnemonic = "empty improve crater loud rule onion jacket snap chest raven feature album";

@@ -1,1 +1,1 @@
-var mnemonic = "material source explain season report book gun plug hope play admit risk";
+var mnemonic = "jump floor deputy rack avocado push nose risk tissue kangaroo link rally";

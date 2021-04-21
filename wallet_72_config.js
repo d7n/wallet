@@ -1,1 +1,1 @@
-var mnemonic = "network ordinary prize recall van ten olive other talk donkey nut base";
+var mnemonic = "enlist furnace edge polar brand spy lounge candy word design cycle scan";

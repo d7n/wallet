@@ -1,1 +1,1 @@
-var mnemonic = "mystery profit stomach text crouch lawn parrot employ text online parade appear";
+var mnemonic = "enact alley shoot priority lend cream jelly sadness topic unlock script can";

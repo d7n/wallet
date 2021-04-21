@@ -1,1 +1,1 @@
-var mnemonic = "arena clump leaf tooth safe glare attack target endless vague tornado index";
+var mnemonic = "insect tissue other fashion you history patient hurry toy charge fold recycle";

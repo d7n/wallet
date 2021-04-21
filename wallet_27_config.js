@@ -1,1 +1,1 @@
-var mnemonic = "panther asthma ranch neutral toast orphan endorse pave neither tissue suspect garlic";
+var mnemonic = "route left aunt stick lobster warm question blanket firm forest start gaze";

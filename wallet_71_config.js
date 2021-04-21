@@ -1,1 +1,1 @@
-var mnemonic = "leader require nest head next ribbon ankle airport diary sister popular diagram";
+var mnemonic = "thrive raw hole stomach smile harbor way involve patrol skate delay dash";

@@ -1,1 +1,1 @@
-var mnemonic = "patient bitter foam uniform crew wine climb furnace entire rose music report";
+var mnemonic = "giraffe orange ripple describe gas obtain trap connect dune alley scout guess";

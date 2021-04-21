@@ -1,1 +1,1 @@
-var mnemonic = "core bullet course fire dose actor century album fruit install infant flee";
+var mnemonic = "fancy danger service donkey opinion whip dune clock math exhibit fragile rain";

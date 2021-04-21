@@ -1,1 +1,1 @@
-var mnemonic = "screen drive member genuine critic dentist cable obey arrest world protect happy";
+var mnemonic = "dawn casual betray pencil breeze reopen grid slender battle pipe hamster execute";

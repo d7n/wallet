@@ -1,1 +1,1 @@
-var mnemonic = "awake truly sight doctor noise fever canal book horse evoke output orbit";
+var mnemonic = "seminar crop enough know view cruel govern depth dust toward cruise pluck";

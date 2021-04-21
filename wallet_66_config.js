@@ -1,1 +1,1 @@
-var mnemonic = "skill scene since whale net illegal kingdom setup satoshi can arm caught";
+var mnemonic = "orange rubber dragon glimpse merit bonus record smart potato dust put pair";

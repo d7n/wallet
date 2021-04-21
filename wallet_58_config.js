@@ -1,1 +1,1 @@
-var mnemonic = "december oval note half assault sorry roof cage century alpha include dose";
+var mnemonic = "letter hour neutral print boss hotel fan hole school sunny parent actor";

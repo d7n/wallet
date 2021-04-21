@@ -1,1 +1,1 @@
-var mnemonic = "birth crazy auto rain remind crew baby sponsor city armed theory material";
+var mnemonic = "roast appear shrug tide degree edge depart kit skirt gold slim same";

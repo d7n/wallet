@@ -1,1 +1,1 @@
-var mnemonic = "elbow filter duck hunt shoot author visual before letter spoil express weekend";
+var mnemonic = "world moment control measure only join primary ring hollow attend glimpse junk";

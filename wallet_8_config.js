@@ -1,1 +1,1 @@
-var mnemonic = "knife copy source tonight weird quit grocery depth crystal father shoot trap";
+var mnemonic = "kitchen dwarf swarm pet before mushroom guess bind sleep razor cancel front";

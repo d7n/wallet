@@ -1,1 +1,1 @@
-var mnemonic = "curve stadium arch swim maid rescue cancel index real dice erosion eternal";
+var mnemonic = "concert earn volume sight benefit discover edge outside wealth balance shoot credit";

@@ -1,1 +1,1 @@
-var mnemonic = "ride just venture aunt radar season fiscal age ribbon off expire afford";
+var mnemonic = "require credit tilt scheme replace arrange quiz wall boil limit file verb";

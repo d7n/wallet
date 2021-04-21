@@ -1,1 +1,1 @@
-var mnemonic = "surface either floor gallery word cruise hope genuine process plastic spike once";
+var mnemonic = "tissue gift chuckle riot scout connect day lift minimum spawn muffin tank";

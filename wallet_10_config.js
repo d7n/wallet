@@ -1,1 +1,1 @@
-var mnemonic = "ten plastic chaos raccoon inflict theory tackle rail build lock clinic cricket";
+var mnemonic = "nation shy tent gown defense fresh blast forum surround system bitter flight";

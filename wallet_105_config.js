@@ -1,1 +1,1 @@
-var mnemonic = "solar grief income change sand pride media water shop erode clump bridge";
+var mnemonic = "rabbit grid gather hood fatigue leaf category fault atom second under weird";

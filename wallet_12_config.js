@@ -1,1 +1,1 @@
-var mnemonic = "habit power shuffle slender giant update sample weasel vapor tennis ahead tuna";
+var mnemonic = "tomato stuff fresh result basic fragile offer clown high wave segment garage";

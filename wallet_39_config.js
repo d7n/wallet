@@ -1,1 +1,1 @@
-var mnemonic = "bronze impose gun enter box frozen consider wear review exact panther custom";
+var mnemonic = "model glimpse sock arena letter kidney above scan extend post allow silent";

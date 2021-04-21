@@ -1,1 +1,1 @@
-var mnemonic = "stock shop then replace pear discover crawl cliff enrich toy grain kid";
+var mnemonic = "broken jazz develop luxury neck blood caught someone proof office music dwarf";

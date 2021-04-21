@@ -1,1 +1,1 @@
-var mnemonic = "nice october forget tube such gloom injury dolphin guard author hire apology";
+var mnemonic = "child credit loop moment arena dumb scout prison cannon barrel tail one";

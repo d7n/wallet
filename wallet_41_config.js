@@ -1,1 +1,1 @@
-var mnemonic = "frown fatigue suffer place subject blue alone cabbage creek scene tent tiger";
+var mnemonic = "math across opera danger drift supply over stone crouch volume push march";

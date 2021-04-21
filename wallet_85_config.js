@@ -1,1 +1,1 @@
-var mnemonic = "tell unfair fragile ice found seminar sustain autumn monkey hotel embrace cement";
+var mnemonic = "involve destroy column leisure effort enable lady behind change sing banana blast";

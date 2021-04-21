@@ -1,1 +1,1 @@
-var mnemonic = "estate cat clay also burger scrap source win claim prevent blame cloth";
+var mnemonic = "silver omit aim heavy wall cram fan shove face glare add crew";

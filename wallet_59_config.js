@@ -1,1 +1,1 @@
-var mnemonic = "three desert coyote brisk book clean forest engine valve lava company safe";
+var mnemonic = "spare kit regret clip suit size tribe grocery anchor draw oppose panel";

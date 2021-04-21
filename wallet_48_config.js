@@ -1,1 +1,1 @@
-var mnemonic = "gravity crumble curtain remember shield security edge become victory slogan machine strategy";
+var mnemonic = "digital nation nature song reopen olive worry shrimp include stomach pipe demand";

@@ -1,1 +1,1 @@
-var mnemonic = "vital season empower velvet ripple beauty accident scan artefact bulk access behind";
+var mnemonic = "rebel today kit beach collect rent air awkward dial orphan bubble angle";

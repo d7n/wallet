@@ -1,1 +1,1 @@
-var mnemonic = "kidney envelope winner life whip donor hospital gold arena bamboo reform deer";
+var mnemonic = "churn omit off ball leader trim basic urge slice dice occur sing";

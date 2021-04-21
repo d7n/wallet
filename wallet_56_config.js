@@ -1,1 +1,1 @@
-var mnemonic = "finish old glory season trap metal vocal sad junior second uniform laptop";
+var mnemonic = "have warrior fiction magic royal mango case inspire save forest baby verify";

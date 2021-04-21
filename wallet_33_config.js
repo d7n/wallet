@@ -1,1 +1,1 @@
-var mnemonic = "hospital regret drink insect awake chronic water boss fossil labor magic number";
+var mnemonic = "list fancy solution joke mammal hospital honey job parent hover eagle defense";

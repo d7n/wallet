@@ -1,1 +1,1 @@
-var mnemonic = "logic flame borrow wisdom lion label together ecology sound fatal letter foot";
+var mnemonic = "bus soda cram monkey solid dad initial rookie nephew milk picnic general";

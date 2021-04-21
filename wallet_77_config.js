@@ -1,1 +1,1 @@
-var mnemonic = "enhance athlete this air hole crush turtle barrel acquire castle cream initial";
+var mnemonic = "lottery party street early neutral remove trigger opinion defense tree promote wine";

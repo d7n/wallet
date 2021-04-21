@@ -1,1 +1,1 @@
-var mnemonic = "comic bonus purse symbol moral actress income another razor despair garlic narrow";
+var mnemonic = "vague marriage february often slab honey eager keep skill secret estate target";

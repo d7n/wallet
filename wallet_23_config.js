@@ -1,1 +1,1 @@
-var mnemonic = "stand define pumpkin group stable salon mechanic confirm amused robust piece shove";
+var mnemonic = "injury sausage seat category ten easily broken soft rocket shaft rural grass";

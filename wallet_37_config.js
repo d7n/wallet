@@ -1,1 +1,1 @@
-var mnemonic = "paper zebra distance essay arrange slot random gauge point sample glare obvious";
+var mnemonic = "slice dolphin ecology fan mass shy sketch fantasy net mix engine basket";

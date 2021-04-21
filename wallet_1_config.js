@@ -1,1 +1,1 @@
-var mnemonic = "moment exchange size key about outside alert youth fantasy public adult recipe";
+var mnemonic = "point banana open thumb review title enforce position infant impose stomach roof";

@@ -1,1 +1,1 @@
-var mnemonic = "chest transfer chapter acquire spring next unfair sudden capable episode school piece";
+var mnemonic = "gain soda praise rubber normal item attack prepare grief final mercy cash";

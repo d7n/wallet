@@ -1,1 +1,1 @@
-var mnemonic = "bridge actress dawn convince barely stove eye view toilet apart always baby";
+var mnemonic = "short reopen cactus state infant sell pupil tired vague adult damp dress";

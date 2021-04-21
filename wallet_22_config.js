@@ -1,1 +1,1 @@
-var mnemonic = "repeat will fit nut guard emerge shine essence fiscal cherry witness jelly";
+var mnemonic = "captain occur hope hen swear unusual carpet find talent barrel zone negative";

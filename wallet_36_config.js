@@ -1,1 +1,1 @@
-var mnemonic = "various jealous dwarf delay river visual water toddler hockey sorry bubble gospel";
+var mnemonic = "weather actress finish increase primary arrow rebel tiger network attack vault dwarf";

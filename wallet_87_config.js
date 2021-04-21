@@ -1,1 +1,1 @@
-var mnemonic = "neck motion destroy phrase loud empty opera earth toward snack cabbage bulk";
+var mnemonic = "repair bus win route game tunnel liar hurdle resource input novel capable";

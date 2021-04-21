@@ -1,1 +1,1 @@
-var mnemonic = "once popular napkin fancy cherry stick risk soon cart slim issue mother";
+var mnemonic = "bulb elegant escape toe limit fitness harbor quantum cabbage music way camp";

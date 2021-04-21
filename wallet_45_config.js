@@ -1,1 +1,1 @@
-var mnemonic = "design maximum valid favorite control conduct kidney motor enemy search else extra";
+var mnemonic = "transfer cause famous debate infant shift cancel wealth action midnight again tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer edit cradle remind crawl install essay upgrade clap gravity impact patch";
+var mnemonic = "tennis old brown suggest faint hospital join rocket agent swift post garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "cake draft animal spike summer cloth report autumn kangaroo small hover saddle";
+var mnemonic = "convince join express hire genius grid throw recall wisdom heavy cheap switch";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle youth fiction hungry bleak social there busy summer monster wheat axis";
+var mnemonic = "kid alter prevent convince shift tube crunch weekend utility quarter soda announce";

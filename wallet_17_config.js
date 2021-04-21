@@ -1,1 +1,1 @@
-var mnemonic = "toss appear basket glimpse vicious abuse front fine awesome dumb curious giraffe";
+var mnemonic = "loop gym escape transfer like this pudding feature joy series spot clutch";

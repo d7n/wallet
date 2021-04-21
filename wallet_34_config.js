@@ -1,1 +1,1 @@
-var mnemonic = "hunt panther crucial middle connect fan verify column head gift square load";
+var mnemonic = "flat easy film alien leader model coyote regular someone hawk mule note";

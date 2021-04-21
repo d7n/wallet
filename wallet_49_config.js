@@ -1,1 +1,1 @@
-var mnemonic = "bag battle wreck wing idle finger sail fuel section oblige seed drip";
+var mnemonic = "toilet first gauge scatter appear three myself awesome copy pill glow six";

@@ -1,1 +1,1 @@
-var mnemonic = "coach argue cable latin clown three fiscal feature detect home win library";
+var mnemonic = "dentist kangaroo spend alter social wonder crumble away margin drive notice farm";

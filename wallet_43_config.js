@@ -1,1 +1,1 @@
-var mnemonic = "rare nominee army snake there float clip eager total sorry receive little";
+var mnemonic = "island barely harsh inspire six shine draft recall decorate weather one clinic";

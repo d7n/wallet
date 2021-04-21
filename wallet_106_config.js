@@ -1,1 +1,1 @@
-var mnemonic = "perfect gospel have toddler volume sight cancel where vapor dutch message describe";
+var mnemonic = "output identify fan cash lawn tennis become direct ship leader bring endless";

@@ -1,1 +1,1 @@
-var mnemonic = "ten banana claw angry gallery jewel erase steel ecology hungry amazing balance";
+var mnemonic = "antique pizza awful under creek maid chapter sock promote cave awkward early";

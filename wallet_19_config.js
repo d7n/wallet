@@ -1,1 +1,1 @@
-var mnemonic = "winner around cheap general right distance own fly shy vicious equip sudden";
+var mnemonic = "unfold draw initial protect donkey post tuna tower stick deputy climb noodle";

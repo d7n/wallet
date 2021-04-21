@@ -1,1 +1,1 @@
-var mnemonic = "bench team minute dignity lava damp away nut dry identify turtle matter";
+var mnemonic = "usage awake canal shy job silk sister what motor math second coral";

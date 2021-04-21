@@ -1,1 +1,1 @@
-var mnemonic = "venture anger resist surge random kiwi cinnamon that solar supply unhappy project";
+var mnemonic = "strong arch art drip ability library inspire desert dragon attitude afraid choose";

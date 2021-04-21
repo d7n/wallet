@@ -1,1 +1,1 @@
-var mnemonic = "action raccoon dad attitude target party tell then orbit exchange oak shuffle";
+var mnemonic = "spoon nuclear lizard toddler symptom auction use brass always siege demise plunge";

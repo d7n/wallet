@@ -1,1 +1,1 @@
-var mnemonic = "exotic priority bean fish romance gaze sound flame globe creek drift medal";
+var mnemonic = "tumble trend process own rescue soup slice vehicle artefact steel client claw";

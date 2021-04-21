@@ -1,1 +1,1 @@
-var mnemonic = "vendor pair couch zone lunar entire shrug roast ankle edge fashion fashion";
+var mnemonic = "inquiry radio fine tomorrow scrub square meadow enemy speak orchard venture frequent";

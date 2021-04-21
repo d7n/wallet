@@ -1,1 +1,1 @@
-var mnemonic = "castle wolf champion recall sport boat inch goose remove ball manual helmet";
+var mnemonic = "man lens mushroom credit chunk movie program imitate anchor such depth nut";

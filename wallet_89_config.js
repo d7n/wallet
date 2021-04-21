@@ -1,1 +1,1 @@
-var mnemonic = "foil goddess margin embark web dad rug slender girl gun height taxi";
+var mnemonic = "quality clip abandon cool sail combine burger pattern fitness manage connect jealous";

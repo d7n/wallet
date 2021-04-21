@@ -1,1 +1,1 @@
-var mnemonic = "aisle seat riot silent mountain treat unable magnet citizen occur stairs raise";
+var mnemonic = "tomato detect rent pink ignore math identify ritual glue jar budget celery";

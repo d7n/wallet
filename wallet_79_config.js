@@ -1,1 +1,1 @@
-var mnemonic = "shock cheese cash bitter coil clarify ability city rude match affair elbow";
+var mnemonic = "lamp nuclear olive trim undo harvest wire flower refuse narrow deal salmon";

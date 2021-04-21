@@ -1,1 +1,1 @@
-var mnemonic = "grain wife acoustic session solution banner build maple toy test urge worth";
+var mnemonic = "match resist bicycle birth vibrant venue jazz romance priority pyramid now rural";

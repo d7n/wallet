@@ -1,1 +1,1 @@
-var mnemonic = "pledge grass manage next sea shop about cattle prefer insane stuff marble";
+var mnemonic = "lazy shed absent bulb table maximum beef metal river great ensure evil";

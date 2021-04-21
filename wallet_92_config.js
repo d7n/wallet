@@ -1,1 +1,1 @@
-var mnemonic = "volcano loyal obvious busy rice version level mother dawn give wrong warrior";
+var mnemonic = "bunker express peace desert unique minor hard unique mixture bicycle drastic pole";

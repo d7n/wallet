@@ -1,1 +1,1 @@
-var mnemonic = "tape lawn luxury angle tongue salute oppose seminar demise artwork choose puppy";
+var mnemonic = "video panther raise end humor fatigue mandate brick hospital negative elephant layer";

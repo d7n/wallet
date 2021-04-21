@@ -1,1 +1,1 @@
-var mnemonic = "resist dune urge any pilot evolve during satisfy siren autumn prison novel";
+var mnemonic = "alone craft diesel skull fix game piece keen cute hero actress can";

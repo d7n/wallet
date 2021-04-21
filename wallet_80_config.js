@@ -1,1 +1,1 @@
-var mnemonic = "mixed smile tip female sea situate field similar stumble brass actor swear";
+var mnemonic = "dose obtain keen staff shell quiz muscle diesel female manage mutual point";

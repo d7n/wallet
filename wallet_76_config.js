@@ -1,1 +1,1 @@
-var mnemonic = "vote dial area royal eight version april proud prize virtual ability robust";
+var mnemonic = "either pill guitar similar alter lumber sad cattle goat broken sugar average";
