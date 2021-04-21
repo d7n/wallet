@@ -1,1 +1,1 @@
-var mnemonic = "lady second drift fine super become island ranch used pudding essence gauge";
+var mnemonic = "fever shy vivid enhance soup offer survey bracket dice various fame know";

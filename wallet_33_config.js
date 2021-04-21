@@ -1,1 +1,1 @@
-var mnemonic = "salmon wait drill parade silk demise polar asthma witness dumb original early";
+var mnemonic = "sorry rebel drift piece bring chuckle poet lawsuit remember divorce gain way";

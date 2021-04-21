@@ -1,1 +1,1 @@
-var mnemonic = "twenty before urban become ski stand shadow effort bid energy math item";
+var mnemonic = "hero record square field jump ceiling holiday busy tower earn jungle pumpkin";

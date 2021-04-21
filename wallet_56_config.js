@@ -1,1 +1,1 @@
-var mnemonic = "swim program sugar suggest room sea shoulder material lumber ship toddler fall";
+var mnemonic = "early grunt give color world tortoise garden bounce zero bounce wine eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "despair mystery curious item excuse they skirt forum army unusual bind asset";
+var mnemonic = "spawn naive coast kite input will much zone desert harbor emerge audit";

@@ -1,1 +1,1 @@
-var mnemonic = "awake achieve bracket biology execute invest inquiry winner attitude habit school weasel";
+var mnemonic = "silver put item vast action grain meat soft topple busy stadium dynamic";

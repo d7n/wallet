@@ -1,1 +1,1 @@
-var mnemonic = "disorder race spawn hobby brown exhaust better timber federal paddle curious guitar";
+var mnemonic = "home toss february park trophy umbrella laptop latin holiday sauce film shadow";

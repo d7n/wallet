@@ -1,1 +1,1 @@
-var mnemonic = "during collect seat subway gap soon caution chair sibling sudden pizza wire";
+var mnemonic = "quality embody hammer snap august exchange attend legal harvest snake jaguar follow";

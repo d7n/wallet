@@ -1,1 +1,1 @@
-var mnemonic = "sunset swap model quit adult dune spoon absent sleep rare mother oppose";
+var mnemonic = "noble tiny cloud humor common vacuum shed attack aware hen gap risk";

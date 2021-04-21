@@ -1,1 +1,1 @@
-var mnemonic = "cause grass usual feel source dress napkin nothing patient spawn situate cotton";
+var mnemonic = "boil health spring enjoy gravity coach palace ketchup casino response chicken fuel";

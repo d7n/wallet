@@ -1,1 +1,1 @@
-var mnemonic = "social arrest gasp strike view hub lunch vanish scare motor quiz price";
+var mnemonic = "siege glove ride vapor coconut result state window solid space hungry plate";

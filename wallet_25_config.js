@@ -1,1 +1,1 @@
-var mnemonic = "chicken bar strike desert escape warfare carbon wash decline fatal increase immune";
+var mnemonic = "street spread cause palace differ also puzzle zone immense awkward absorb become";

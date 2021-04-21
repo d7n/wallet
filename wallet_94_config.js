@@ -1,1 +1,1 @@
-var mnemonic = "diet balance mention thumb raise proof can answer orient exotic enter update";
+var mnemonic = "talent quote gaze topple forget mom bag machine remove bunker ride rely";

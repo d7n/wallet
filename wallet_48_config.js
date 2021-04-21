@@ -1,1 +1,1 @@
-var mnemonic = "harsh snap steak trip type furnace tube loop outdoor battle chaos hard";
+var mnemonic = "reject purpose pony young bounce suspect general card glow rebel ice nasty";

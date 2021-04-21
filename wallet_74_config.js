@@ -1,1 +1,1 @@
-var mnemonic = "card below amazing outdoor burden goddess mask learn connect fly attract chef";
+var mnemonic = "machine boat build shift card lab wild pattern amateur flee syrup border";

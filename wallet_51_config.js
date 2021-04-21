@@ -1,1 +1,1 @@
-var mnemonic = "survey valid equal interest convince skin ask coin dignity fire person draft";
+var mnemonic = "gold scrub notable prison media fade glass august tornado board excuse energy";

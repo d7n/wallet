@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit monster coyote infant island duty bag royal orange gold original write";
+var mnemonic = "enlist omit robot just legal climb army vague play loan wife expect";

@@ -1,1 +1,1 @@
-var mnemonic = "double wood churn prevent inherit ginger world female autumn bicycle vault owner";
+var mnemonic = "human pig magnet season jealous six twice case midnight clean old rural";

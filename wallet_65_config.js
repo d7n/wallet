@@ -1,1 +1,1 @@
-var mnemonic = "cupboard domain barely pause finish matrix mass capital advice remind bid quote";
+var mnemonic = "survey involve vague system fatal pride find floor kick script injury dizzy";

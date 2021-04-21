@@ -1,1 +1,1 @@
-var mnemonic = "rice mother planet brother someone upon civil lonely manual manual language hurt";
+var mnemonic = "nut shine pink swap leg dawn tell outer butter session relax rug";

@@ -1,1 +1,1 @@
-var mnemonic = "scan river then public gun crop hybrid cement nasty rebuild improve lion";
+var mnemonic = "camp area dinosaur found addict clarify uncover season dwarf share same sorry";

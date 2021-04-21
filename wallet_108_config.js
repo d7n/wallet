@@ -1,1 +1,1 @@
-var mnemonic = "clip melt else travel border empty plunge shaft holiday fitness cute category";
+var mnemonic = "dance seven toe decrease peanut differ chef faith junior unit bamboo auto";

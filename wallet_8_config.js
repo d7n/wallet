@@ -1,1 +1,1 @@
-var mnemonic = "frame borrow lecture air lunch detail deputy medal goddess piece cotton blur";
+var mnemonic = "detail soul escape wave tone victory siren park what ready error morning";

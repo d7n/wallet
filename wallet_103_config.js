@@ -1,1 +1,1 @@
-var mnemonic = "occur insane recipe now mercy siren rookie fortune symptom argue fiction forum";
+var mnemonic = "monitor daughter sunny credit zoo card width enough spy steak replace message";

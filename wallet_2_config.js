@@ -1,1 +1,1 @@
-var mnemonic = "ranch item tent leaf since refuse mammal broom pelican start loop tree";
+var mnemonic = "screen umbrella leaf jacket ghost weekend fix inmate oil cruise seminar dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "pool elbow culture item want shoe clog belt pond juice resource budget";
+var mnemonic = "owner noodle interest forum chief magic grid manage quality crater notable exotic";

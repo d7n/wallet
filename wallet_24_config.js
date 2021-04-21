@@ -1,1 +1,1 @@
-var mnemonic = "betray reform swim spread wrong sad begin term radio coach weekend hurry";
+var mnemonic = "entry earth help finish horn vessel real journey across achieve spoil peanut";

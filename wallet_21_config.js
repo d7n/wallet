@@ -1,1 +1,1 @@
-var mnemonic = "run blind scrub uncover cattle consider eternal street drift this green summer";
+var mnemonic = "body occur gentle renew brick transfer extend other umbrella puzzle input thrive";

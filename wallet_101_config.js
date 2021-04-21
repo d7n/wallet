@@ -1,1 +1,1 @@
-var mnemonic = "prison vessel hundred spoil dragon turkey sport owner absorb fashion whip budget";
+var mnemonic = "keep agree smart wealth whip bracket brick prefer tent photo churn parrot";

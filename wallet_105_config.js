@@ -1,1 +1,1 @@
-var mnemonic = "before dove spawn immense chat crime draw maze interest couple long crash";
+var mnemonic = "tube club episode game income truly theme couch meat reduce fatal exile";

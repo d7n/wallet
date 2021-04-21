@@ -1,1 +1,1 @@
-var mnemonic = "finger erupt bind lecture cloth square citizen kitchen ski escape vessel amount";
+var mnemonic = "drama art second sense bronze marine tooth bench scorpion cause venture bacon";

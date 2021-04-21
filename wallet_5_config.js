@@ -1,1 +1,1 @@
-var mnemonic = "cool crime earn welcome video balcony gentle pause vault duty similar forum";
+var mnemonic = "arrow fan help bracket fold ancient hungry subway shy cute face gown";

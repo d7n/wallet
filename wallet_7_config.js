@@ -1,1 +1,1 @@
-var mnemonic = "crouch mother poem sorry excite purpose vendor term spike raise secret shadow";
+var mnemonic = "syrup pull two practice couch frog parade boss border way burger can";

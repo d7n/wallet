@@ -1,1 +1,1 @@
-var mnemonic = "coach high absorb unaware episode curtain school process practice gap dwarf logic";
+var mnemonic = "occur cool vapor injury relax behind travel collect angry icon snake vast";

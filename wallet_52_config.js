@@ -1,1 +1,1 @@
-var mnemonic = "come shrug family february tree cost stairs fortune hungry brand fox couple";
+var mnemonic = "elite mammal margin ability pelican disorder sweet bless abstract dice mimic daughter";

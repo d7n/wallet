@@ -1,1 +1,1 @@
-var mnemonic = "horn motor drop flag shop knee pilot nose find tool taste country";
+var mnemonic = "tennis like embark seed explain sibling double frozen human pass whisper jungle";

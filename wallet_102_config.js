@@ -1,1 +1,1 @@
-var mnemonic = "north room door pair zone minute rebel repeat craft leg inch humble";
+var mnemonic = "group cable essay advice adult rug ketchup design erupt dutch slam hold";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy dust arrange sting episode harsh cotton control typical thrive music element";
+var mnemonic = "mesh number lady dragon equal taxi palm voice oak cloud little size";

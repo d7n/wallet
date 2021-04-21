@@ -1,1 +1,1 @@
-var mnemonic = "coffee firm stand provide middle click sail grass donkey segment kangaroo enrich";
+var mnemonic = "cool tourist other nut help benefit forum order box amazing bicycle success";

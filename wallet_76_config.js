@@ -1,1 +1,1 @@
-var mnemonic = "soup panther embody universe leaf south still garbage grocery flip excite cup";
+var mnemonic = "patrol coral repair cargo engage window kind exclude hour demand slab wreck";

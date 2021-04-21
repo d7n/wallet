@@ -1,1 +1,1 @@
-var mnemonic = "ten wheel pitch faint sock zero gather relax dice junk casual sibling";
+var mnemonic = "west bonus stuff squeeze capable proud man mobile trick gloom crime extend";

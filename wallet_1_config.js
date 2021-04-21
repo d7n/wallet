@@ -1,1 +1,1 @@
-var mnemonic = "kitchen east degree exchange siren degree harsh wheel flame still thrive tomorrow";
+var mnemonic = "kitchen fiscal near curve few time consider love satisfy club surprise close";

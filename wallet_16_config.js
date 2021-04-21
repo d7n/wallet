@@ -1,1 +1,1 @@
-var mnemonic = "version bicycle suit endorse upon verify potato minute route gift tip island";
+var mnemonic = "bike giggle matter immune vicious nature damp harsh tonight bench proud lounge";

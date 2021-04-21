@@ -1,1 +1,1 @@
-var mnemonic = "leader air young dirt end maximum bitter pizza banana media heavy coffee";
+var mnemonic = "odor nurse acquire figure market shine mad vicious ill across mouse panda";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal permit slim address simple quiz render clip enough price flower grant";
+var mnemonic = "agent receive pyramid pave layer convince message muffin popular arrive expire symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "immense change glass ball phrase industry frozen two hard fever cool length";
+var mnemonic = "turtle rose blue forum section tower dinner danger reflect base tent concert";

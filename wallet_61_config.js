@@ -1,1 +1,1 @@
-var mnemonic = "grit sorry bus disorder outdoor cruise sorry beauty hero evolve chair void";
+var mnemonic = "body argue later guard universe guilt flower shiver crucial eyebrow uphold clever";

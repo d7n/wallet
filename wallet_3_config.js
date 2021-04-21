@@ -1,1 +1,1 @@
-var mnemonic = "drop fine tomato robust fish tourist broom alarm duty give feed act";
+var mnemonic = "apart junk mass toy service glow gown right gold solution actual help";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow atom blade give magnet game hood awful rule cover also attract";
+var mnemonic = "clean elbow clay explain diesel simple you amazing high pole decide final";

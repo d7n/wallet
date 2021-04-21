@@ -1,1 +1,1 @@
-var mnemonic = "sun drive sting lock spot maximum slim reveal donor name hammer about";
+var mnemonic = "flavor good quick provide fringe appear nuclear side camp coin another divorce";

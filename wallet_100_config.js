@@ -1,1 +1,1 @@
-var mnemonic = "bullet ordinary zone together account universe demise history surge silly pencil horse";
+var mnemonic = "pole carry erase repeat couple student junk update ostrich piano ocean veteran";

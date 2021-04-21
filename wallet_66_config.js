@@ -1,1 +1,1 @@
-var mnemonic = "leader delay clip visual option path pole next endless symbol mimic buzz";
+var mnemonic = "either exhaust exist dentist uphold youth mercy offer supply unveil fold poem";

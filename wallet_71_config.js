@@ -1,1 +1,1 @@
-var mnemonic = "allow march fly absent liquid like defy oval ten section arrow elephant";
+var mnemonic = "earn promote confirm there ridge heavy bunker scorpion romance museum trophy approve";

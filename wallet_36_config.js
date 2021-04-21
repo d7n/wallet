@@ -1,1 +1,1 @@
-var mnemonic = "tenant include summer grace clinic clip grit strike fiction friend robust metal";
+var mnemonic = "twenty grocery just scare vendor goose favorite pottery beyond hedgehog choice pudding";

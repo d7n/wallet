@@ -1,1 +1,1 @@
-var mnemonic = "arrest subject village rally primary column rabbit ostrich between buyer indoor exist";
+var mnemonic = "good win father can short three traffic disease clump video raw sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "drive spring desk raccoon mask scorpion vendor solar response execute pepper tattoo";
+var mnemonic = "brown patrol comfort aim much hybrid orient bamboo sock length coach liberty";

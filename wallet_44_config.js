@@ -1,1 +1,1 @@
-var mnemonic = "dizzy problem regret story bicycle mesh correct rather multiply chef across bubble";
+var mnemonic = "huge rough track capable slow usage soup morning supply transfer tiger bracket";

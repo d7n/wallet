@@ -1,1 +1,1 @@
-var mnemonic = "raven habit body inch whisper omit suffer benefit typical hundred enough spend";
+var mnemonic = "strong pretty keep turtle episode rug dress media pig vivid comic survey";

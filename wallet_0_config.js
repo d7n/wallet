@@ -1,1 +1,1 @@
-var mnemonic = "mirror grab slice alpha liquid cave traffic meadow arrive either call space";
+var mnemonic = "kiwi dove staff toss symbol joy random monitor glow jar sweet check";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow journey valid invest outside bicycle vessel uphold much inhale kitten iron";
+var mnemonic = "rubber fatigue february outer arrive race news story pole firm dash post";

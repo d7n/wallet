@@ -1,1 +1,1 @@
-var mnemonic = "hub hamster mango ability wing sauce satisfy strike permit document afford medal";
+var mnemonic = "zebra burger dad today fan critic change layer win draft copy feature";

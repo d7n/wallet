@@ -1,1 +1,1 @@
-var mnemonic = "elevator play rice consider enact bonus vacant mansion helmet wedding pave transfer";
+var mnemonic = "share various claw loud shaft speak before song neither obey split destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch unit trap buffalo blossom sleep oblige member hire behind round skill";
+var mnemonic = "atom blind damage clever near basket stand outdoor list pig fatigue caught";

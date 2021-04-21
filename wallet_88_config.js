@@ -1,1 +1,1 @@
-var mnemonic = "adult setup tiny write awkward middle future crumble spread waste near author";
+var mnemonic = "sport stage nerve bleak edge clog panel spoil whale shuffle sibling artwork";

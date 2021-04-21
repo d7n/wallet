@@ -1,1 +1,1 @@
-var mnemonic = "unique parrot style erase luggage grow fiction banana hole suggest galaxy script";
+var mnemonic = "next program distance hotel crack divorce session luxury table curve army trap";

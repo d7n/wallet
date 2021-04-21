@@ -1,1 +1,1 @@
-var mnemonic = "art butter manual mix cliff include below brief juice canyon video mountain";
+var mnemonic = "wild wrong energy jazz park tiny rate bag because retreat tragic fan";

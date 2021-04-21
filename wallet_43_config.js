@@ -1,1 +1,1 @@
-var mnemonic = "eagle excess gym garment liberty awkward marriage sand expect mandate cloud tragic";
+var mnemonic = "used sample fluid elevator mule pottery pottery pole double blood fly topic";

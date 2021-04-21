@@ -1,1 +1,1 @@
-var mnemonic = "priority judge critic unusual gift twin expire able chalk warm world match";
+var mnemonic = "educate mystery image evolve addict leader arm sunset glad immune syrup school";

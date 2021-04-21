@@ -1,1 +1,1 @@
-var mnemonic = "glimpse senior demise fortune lens trash depth simple oil used sight prize";
+var mnemonic = "crucial dog screen foster practice april bunker possible lounge upgrade fiscal myself";

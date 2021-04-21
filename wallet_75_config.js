@@ -1,1 +1,1 @@
-var mnemonic = "video trap warrior title extra when siren defy lawn bitter visual arch";
+var mnemonic = "cheese nasty bubble misery ozone view library apart scene lounge celery chat";

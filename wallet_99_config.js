@@ -1,1 +1,1 @@
-var mnemonic = "sketch taxi royal fine excuse drastic add mandate climb front tenant bullet";
+var mnemonic = "attend moral mutual dinner seminar culture copy output major liberty observe clown";

@@ -1,1 +1,1 @@
-var mnemonic = "first crystal loop earn curve company vital plate grace aunt inherit busy";
+var mnemonic = "web fade toilet deposit virus pluck outside captain gorilla oak source stem";

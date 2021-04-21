@@ -1,1 +1,1 @@
-var mnemonic = "fancy barely burden garbage nice reflect tilt clock section better boat excess";
+var mnemonic = "pencil season retreat degree language wave wild surprise oval cloud burden bean";

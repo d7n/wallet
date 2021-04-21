@@ -1,1 +1,1 @@
-var mnemonic = "scene shallow gorilla core legal evidence play satoshi left news image ten";
+var mnemonic = "clean practice pave door equal smart ceiling slam retire poet camera lawsuit";

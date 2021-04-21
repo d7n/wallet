@@ -1,1 +1,1 @@
-var mnemonic = "stove churn panel witness plug force toilet pipe famous bulk paddle drum";
+var mnemonic = "inch scare address since entry salute surface traffic mouse stick size inner";

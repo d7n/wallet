@@ -1,1 +1,1 @@
-var mnemonic = "awake color arrow neglect later kind soft charge digital radar piano wasp";
+var mnemonic = "someone tell arch found undo pepper refuse push answer royal trend olive";

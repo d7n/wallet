@@ -1,1 +1,1 @@
-var mnemonic = "rug abstract armor grit recipe original physical notice lizard uniform build remove";
+var mnemonic = "rather silver ridge hedgehog wasp spoil rabbit turtle brave drum capable tip";

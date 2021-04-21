@@ -1,1 +1,1 @@
-var mnemonic = "win hotel electric undo gasp churn asthma please join father record tackle";
+var mnemonic = "tape month desert toddler gentle tattoo peanut mad other brave car eye";

@@ -1,1 +1,1 @@
-var mnemonic = "once give film cable unhappy absent dress peanut horse champion gun outside";
+var mnemonic = "scatter cram soccer mad lift lonely common smart negative glare travel amount";

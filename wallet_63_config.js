@@ -1,1 +1,1 @@
-var mnemonic = "cargo ethics post settle chronic rifle table six grant popular monkey cable";
+var mnemonic = "book sport air rebuild change ripple comfort view include wolf autumn once";

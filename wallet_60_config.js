@@ -1,1 +1,1 @@
-var mnemonic = "fragile quick cruel muscle actor regular wide tell exhibit old relax odor";
+var mnemonic = "refuse jungle will mobile mimic poet search whisper inhale hero human gorilla";

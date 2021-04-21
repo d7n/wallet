@@ -1,1 +1,1 @@
-var mnemonic = "dice chronic usual scene industry list van tiny review atom critic nurse";
+var mnemonic = "borrow cute light tattoo crack uphold swallow junior silk audit library wet";

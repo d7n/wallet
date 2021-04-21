@@ -1,1 +1,1 @@
-var mnemonic = "above shock mask country artist teach tobacco remove matrix slam demise emerge";
+var mnemonic = "talent apology enable aspect price alley junk music grow panic bronze odor";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow rebuild curve alcohol story royal fabric toe cousin sense glow lend";
+var mnemonic = "basket comfort equal hood eager ketchup aunt offer bird tree then ordinary";

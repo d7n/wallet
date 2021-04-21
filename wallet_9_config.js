@@ -1,1 +1,1 @@
-var mnemonic = "fame profit answer gasp guard just regular abuse rule insane recipe hurt";
+var mnemonic = "always marble disease wink cook minimum thought swim begin collect embark grunt";

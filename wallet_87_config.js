@@ -1,1 +1,1 @@
-var mnemonic = "father fee scout title puppy scrap favorite quantum question eternal degree away";
+var mnemonic = "decorate road silver order clog demand leisure beach yellow crisp gospel angle";

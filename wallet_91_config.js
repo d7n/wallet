@@ -1,1 +1,1 @@
-var mnemonic = "prepare favorite drip camera wet escape culture explain carry paper scare nose";
+var mnemonic = "holiday orphan promote photo oxygen tide step reopen sponsor envelope play film";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal exhaust unfair horse collect recall try embody warm box notice tackle";
+var mnemonic = "filter erode repeat draw pledge excite warrior panic nephew hammer foster way";

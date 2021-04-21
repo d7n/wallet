@@ -1,1 +1,1 @@
-var mnemonic = "fever spray crush pottery crash height harsh grit clog dilemma capital occur";
+var mnemonic = "word across gospel plastic vital recall remember estate gossip recall near find";

@@ -1,1 +1,1 @@
-var mnemonic = "spell misery bubble cheese extend mom reunion expire hint extend grunt public";
+var mnemonic = "focus similar debate foam faint march property effort giggle shield stock trophy";

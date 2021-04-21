@@ -1,1 +1,1 @@
-var mnemonic = "walk illegal practice scan outdoor leader toast panic supply effort original exile";
+var mnemonic = "solid midnight circle panel pride glass exist enough fun actual flight liberty";

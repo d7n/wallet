@@ -1,1 +1,1 @@
-var mnemonic = "file eye gravity boss crane hood erupt spike broccoli noble town spread";
+var mnemonic = "scan nature learn knock inquiry volcano cave profit abstract merit cloth piece";
