@@ -1,1 +1,1 @@
-var mnemonic = "viable hub tiny unknown stand bullet state height pluck dumb sing urban";
+var mnemonic = "island celery wheat act curve satoshi patient donate few beef move humble";

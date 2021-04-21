@@ -1,1 +1,1 @@
-var mnemonic = "steel face kitten sauce joke local enact first analyst insect post test";
+var mnemonic = "mirror odor popular early civil hello bottom sea oxygen brown summer tone";

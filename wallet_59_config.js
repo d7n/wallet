@@ -1,1 +1,1 @@
-var mnemonic = "artist must quit able item ethics sense muffin bitter unveil lava alpha";
+var mnemonic = "change casino stumble injury damp duty opera film action name spot truly";

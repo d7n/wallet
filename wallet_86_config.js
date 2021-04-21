@@ -1,1 +1,1 @@
-var mnemonic = "spray fashion injury rhythm unveil elephant insane luxury swear dutch sea menu";
+var mnemonic = "always double depth price age devote drama desert bean color open bulk";

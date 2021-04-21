@@ -1,1 +1,1 @@
-var mnemonic = "require dumb mixture advance turkey during tuition bean kitchen convince shop tornado";
+var mnemonic = "galaxy swallow deer steak stem slide female truly episode limit obvious nature";

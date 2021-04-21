@@ -1,1 +1,1 @@
-var mnemonic = "usual rare today entry bone indoor drive joy promote inject unfair amateur";
+var mnemonic = "loan wage profit escape powder pet fragile scale age mimic neither leave";

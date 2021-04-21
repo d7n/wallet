@@ -1,1 +1,1 @@
-var mnemonic = "impose easy please illegal convince salad squeeze wild absorb crack parrot remind";
+var mnemonic = "kind they tilt police october web biology monkey safe identify ethics orphan";

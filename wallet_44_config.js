@@ -1,1 +1,1 @@
-var mnemonic = "treat duty reflect pitch lecture work plastic card ball diesel song leopard";
+var mnemonic = "horn smart legend utility later trouble mesh legend two need shove parade";

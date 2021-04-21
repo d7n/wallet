@@ -1,1 +1,1 @@
-var mnemonic = "artist face follow scan change already dentist biology mountain vote okay inch";
+var mnemonic = "rely ivory that ship middle pet orphan slot caught crazy praise head";

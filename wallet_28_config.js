@@ -1,1 +1,1 @@
-var mnemonic = "fish reason bamboo level dune thrive boss car attitude frost similar ozone";
+var mnemonic = "section mention shallow whip find junior decade term zebra remove brown ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "web peanut hood normal old view twelve trick near boost hat mirror";
+var mnemonic = "license pigeon hazard radio intact feed flower vanish broccoli kiss stomach length";

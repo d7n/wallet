@@ -1,1 +1,1 @@
-var mnemonic = "cushion inner keep obscure toast focus disorder sustain blanket insect prepare run";
+var mnemonic = "shrug flat expand jealous magnet resemble certain shrug stem million only beyond";

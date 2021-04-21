@@ -1,1 +1,1 @@
-var mnemonic = "duty hello blade license tell canoe planet switch model fossil police inform";
+var mnemonic = "burger thunder vacuum wedding toward avocado ordinary hood taxi hawk correct gold";

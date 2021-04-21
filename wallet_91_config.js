@@ -1,1 +1,1 @@
-var mnemonic = "hope artwork math lift mosquito obvious blind daughter forget veteran surge add";
+var mnemonic = "basket crawl old gasp cricket check build hospital blouse drip common palace";

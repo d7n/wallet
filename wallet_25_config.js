@@ -1,1 +1,1 @@
-var mnemonic = "dress pill gown dismiss essence little siren skill coil cushion fork fog";
+var mnemonic = "adult mask weird lizard fault seed jungle rapid depart day unlock believe";

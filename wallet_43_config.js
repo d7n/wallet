@@ -1,1 +1,1 @@
-var mnemonic = "kingdom entire brick throw party nut cloud truth ancient physical melt bid";
+var mnemonic = "entry october fever alone mercy coral tip tide number nominee large sudden";

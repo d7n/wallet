@@ -1,1 +1,1 @@
-var mnemonic = "actual toe night ocean awesome angry outside release warrior tourist never crunch";
+var mnemonic = "special fringe tower hip vivid music tiger danger fog craft crash appear";

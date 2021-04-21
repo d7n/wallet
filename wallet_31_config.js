@@ -1,1 +1,1 @@
-var mnemonic = "close lift accuse voyage help voyage jar voyage hold raw crew strategy";
+var mnemonic = "balcony comic fashion release crane dial alien pulse thing clog aspect dumb";

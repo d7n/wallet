@@ -1,1 +1,1 @@
-var mnemonic = "lecture action gospel excess hollow shaft spatial tower fun torch own radio";
+var mnemonic = "raise palace dry attitude evil enrich piano dragon void return manual diet";

@@ -1,1 +1,1 @@
-var mnemonic = "model rule win endorse search ketchup scissors garden model pizza kidney utility";
+var mnemonic = "robot swift cloud glance pepper tape found animal symbol domain old canal";

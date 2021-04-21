@@ -1,1 +1,1 @@
-var mnemonic = "item pause stock security angry hill green pet must vendor gap regret";
+var mnemonic = "young argue useless nothing twist lava marriage dance other absurd output armor";

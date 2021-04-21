@@ -1,1 +1,1 @@
-var mnemonic = "march invest seven limb rescue lava resist honey original smoke ice rib";
+var mnemonic = "sausage kitchen faint duty tank network intact harvest long laundry lizard evolve";

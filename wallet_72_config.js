@@ -1,1 +1,1 @@
-var mnemonic = "door bachelor six absurd much language park local switch runway soft fog";
+var mnemonic = "prison submit access knee produce clown orphan police double shield scorpion tennis";

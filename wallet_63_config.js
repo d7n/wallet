@@ -1,1 +1,1 @@
-var mnemonic = "flight fury use scan print bargain fluid another luggage text biology unique";
+var mnemonic = "nuclear three code artwork extend laugh grit survey rubber pet air average";

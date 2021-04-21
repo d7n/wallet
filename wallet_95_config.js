@@ -1,1 +1,1 @@
-var mnemonic = "acquire voice forget little into use police before patient animal scorpion dress";
+var mnemonic = "uncover meadow digital unable case hospital tackle fiber envelope goat visa mesh";

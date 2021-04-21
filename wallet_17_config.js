@@ -1,1 +1,1 @@
-var mnemonic = "erode device beyond focus spot purse play chair message delay always imitate";
+var mnemonic = "this eye panic boat trumpet manual palm excite chunk inflict ready also";

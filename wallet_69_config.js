@@ -1,1 +1,1 @@
-var mnemonic = "life empower proof arch beyond rose amazing scissors execute adjust valid sad";
+var mnemonic = "purchase other funny only flag muscle weasel legal end pilot clever language";

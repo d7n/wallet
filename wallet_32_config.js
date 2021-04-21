@@ -1,1 +1,1 @@
-var mnemonic = "mention ordinary stomach abstract property invest arrive solution baby cry wire where";
+var mnemonic = "urban elegant web repeat legend fine document arm toast label fabric shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "girl saddle begin toddler kiwi race snow pelican review alone faith like";
+var mnemonic = "digital boost three blur poet patrol relax virus strategy ladder agent trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "clog account close sunset easily sunset salad invite input swing picnic deliver";
+var mnemonic = "cousin tornado swim add comic lumber assist job smile song shaft arch";

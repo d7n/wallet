@@ -1,1 +1,1 @@
-var mnemonic = "original borrow crime bind city label explain emerge enable coyote gauge reveal";
+var mnemonic = "obey script crazy atom sting minor pumpkin vessel trial teach sad addict";

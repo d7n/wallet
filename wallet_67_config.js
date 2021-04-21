@@ -1,1 +1,1 @@
-var mnemonic = "reveal health legal debris legal punch cable token motion nasty sniff remind";
+var mnemonic = "stable parent stereo siren lecture heart budget reject stage dinner invite category";

@@ -1,1 +1,1 @@
-var mnemonic = "hope critic cube project theory ocean auto harvest live away grit cruel";
+var mnemonic = "cushion smart draw able upset divorce eye buddy left truly ignore siege";

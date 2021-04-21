@@ -1,1 +1,1 @@
-var mnemonic = "usage struggle cushion asthma puppy harsh comfort craft art voyage solar wait";
+var mnemonic = "video segment food banana slender photo appear uncle cricket hello mother tube";

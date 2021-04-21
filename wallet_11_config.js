@@ -1,1 +1,1 @@
-var mnemonic = "diamond together trouble entry name strike forest suggest feed talk tired soup";
+var mnemonic = "paddle quarter never slush marine desk perfect twelve strong seminar wasp fix";

@@ -1,1 +1,1 @@
-var mnemonic = "find farm female derive taste method drive chest swing goat moon gorilla";
+var mnemonic = "female moral target pattern any fatigue agent silver immense arm recycle top";

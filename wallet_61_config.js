@@ -1,1 +1,1 @@
-var mnemonic = "grid target nose lock sample measure correct balcony climb ginger shrimp yellow";
+var mnemonic = "flip coil arrest deposit avocado leaf blush future ridge hill oil moment";

@@ -1,1 +1,1 @@
-var mnemonic = "hint lizard educate dial frog fiber cotton maple suffer quantum manage junk";
+var mnemonic = "giraffe web skull detail vital estate robust tower grape team report visit";

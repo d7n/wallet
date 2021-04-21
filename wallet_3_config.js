@@ -1,1 +1,1 @@
-var mnemonic = "they theory confirm kiss indoor turkey strike lens disagree squirrel pretty vintage";
+var mnemonic = "liquid dad timber snack capital goddess thank program virtual wrist better science";

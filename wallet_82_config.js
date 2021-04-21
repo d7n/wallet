@@ -1,1 +1,1 @@
-var mnemonic = "burger fly shallow spawn private kind north another layer view laugh talk";
+var mnemonic = "switch fly answer pave liar mail defense mind funny ensure forest napkin";

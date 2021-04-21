@@ -1,1 +1,1 @@
-var mnemonic = "else voyage primary huge obvious shine spot luggage luggage fee distance pass";
+var mnemonic = "arch kind clever win private damp fish sustain hold around milk ribbon";

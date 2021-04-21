@@ -1,1 +1,1 @@
-var mnemonic = "blood chunk update horn series file balance margin mean angry hotel cage";
+var mnemonic = "leaf fault chalk false usual bullet sing race decorate excite silly web";

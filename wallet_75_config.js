@@ -1,1 +1,1 @@
-var mnemonic = "flee horn age tell save mom hamster oven scheme ride grocery youth";
+var mnemonic = "mutual skirt auction source word federal sugar retreat spell wave scan abuse";

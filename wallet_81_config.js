@@ -1,1 +1,1 @@
-var mnemonic = "detect actual title cotton vibrant warfare state glove rude deputy wedding cousin";
+var mnemonic = "come prepare choice wrap pupil venue door stairs hand include behave ribbon";

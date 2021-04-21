@@ -1,1 +1,1 @@
-var mnemonic = "cute save blossom alter nasty rigid reveal garbage tonight nose family school";
+var mnemonic = "recall seat sorry wire kiwi autumn much cat display utility gospel enter";

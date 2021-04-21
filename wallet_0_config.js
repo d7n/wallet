@@ -1,1 +1,1 @@
-var mnemonic = "deposit capital upper sing cool swap east thrive cupboard silver today rice";
+var mnemonic = "invite parade final hospital share acid tiny attitude material ball hub hen";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal edit canoe attitude park damage street bitter sing unfair family since";
+var mnemonic = "friend brief cluster sign client night life harvest portion faith road parrot";

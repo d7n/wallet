@@ -1,1 +1,1 @@
-var mnemonic = "sail still mention unknown inner program exile spatial busy walk paper sauce";
+var mnemonic = "skin furnace talent luxury better fun sign afraid crater notable impose sand";

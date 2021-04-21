@@ -1,1 +1,1 @@
-var mnemonic = "sponsor hungry illness stool visit tortoise purse segment salon wing useless void";
+var mnemonic = "ready force spy soda usual host bright slogan utility foil swift amateur";

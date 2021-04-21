@@ -1,1 +1,1 @@
-var mnemonic = "vocal left mule trend impact chicken great disagree million unable coin circle";
+var mnemonic = "chaos capital scheme twist wait hotel acoustic blade custom sugar female soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "trust help reflect conduct federal minor program fresh source green annual must";
+var mnemonic = "over drink crop monitor punch penalty neither endorse coil box caught exotic";

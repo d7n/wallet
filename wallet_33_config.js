@@ -1,1 +1,1 @@
-var mnemonic = "amateur crater caution maze nice inch immense gasp stamp loud expire viable";
+var mnemonic = "caution immune surface glove humble hill congress elite quality giggle border decline";

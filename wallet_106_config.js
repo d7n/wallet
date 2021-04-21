@@ -1,1 +1,1 @@
-var mnemonic = "sleep lesson village snap general kiss ski stomach cheap keep live special";
+var mnemonic = "foam mixed outside trophy enrich old pencil cheese drum belt shuffle cover";

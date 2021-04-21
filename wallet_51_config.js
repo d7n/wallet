@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog mosquito essence limit jar few jump injury you maple gift actress";
+var mnemonic = "august wink embrace predict idle profit voyage choose vague soon clerk vehicle";

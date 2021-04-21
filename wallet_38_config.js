@@ -1,1 +1,1 @@
-var mnemonic = "image palace cream cart harvest fish laptop speak just park novel boy";
+var mnemonic = "sense nephew thunder win knee scissors poverty van cereal track employ myth";

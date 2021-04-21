@@ -1,1 +1,1 @@
-var mnemonic = "steak surprise educate panic practice maid bracket confirm yard minute behave bamboo";
+var mnemonic = "inhale flee enlist real trim team about oil memory soul ritual ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise extra ginger return horse spot awful alpha appear industry extend top";
+var mnemonic = "core glad awful focus rapid library abandon blue cup month arm winter";

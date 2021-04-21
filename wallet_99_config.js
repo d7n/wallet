@@ -1,1 +1,1 @@
-var mnemonic = "candy excuse spell field snap point spawn holiday artefact aspect math myself";
+var mnemonic = "cradle side brand disagree promote puzzle film fit floor umbrella reform secret";

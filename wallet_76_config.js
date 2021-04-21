@@ -1,1 +1,1 @@
-var mnemonic = "gospel pluck two three sock omit act mind luxury inherit fine inquiry";
+var mnemonic = "acid like exhaust disorder turkey power rural provide ask sight tornado antenna";

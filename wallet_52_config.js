@@ -1,1 +1,1 @@
-var mnemonic = "inflict trash link alpha happy guitar window toast furnace frozen text shrimp";
+var mnemonic = "rotate silent else exotic post fringe amused smooth sail adjust talent short";

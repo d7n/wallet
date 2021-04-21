@@ -1,1 +1,1 @@
-var mnemonic = "include away account nest warfare sustain delay derive good globe mercy entry";
+var mnemonic = "brick valve extra system spoon habit fit battle win timber believe fortune";

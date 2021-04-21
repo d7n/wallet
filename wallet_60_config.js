@@ -1,1 +1,1 @@
-var mnemonic = "fresh modify chapter biology river acid tape burger text pig sketch manual";
+var mnemonic = "stove glance trumpet script humble owner miracle orphan promote rather shift punch";

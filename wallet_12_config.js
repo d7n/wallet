@@ -1,1 +1,1 @@
-var mnemonic = "eternal load one solar ribbon dial excite foam design spare bone miss";
+var mnemonic = "strategy jump giraffe upset sketch hunt maximum coach pretty dash simple region";

@@ -1,1 +1,1 @@
-var mnemonic = "insane educate library aunt celery begin believe enter illness account dress admit";
+var mnemonic = "guard upper number uncle net tongue hurt cliff mobile observe kite soon";

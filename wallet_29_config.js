@@ -1,1 +1,1 @@
-var mnemonic = "scout chat refuse roast rapid horror kit retire lemon conduct toy company";
+var mnemonic = "manage aspect heavy crane pigeon badge banana crowd clever dizzy carbon pipe";

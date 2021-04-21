@@ -1,1 +1,1 @@
-var mnemonic = "kidney ripple image cheese island loud middle add put surface live twin";
+var mnemonic = "clock open maid disease town sport interest other brave wink staff evidence";

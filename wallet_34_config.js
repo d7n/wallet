@@ -1,1 +1,1 @@
-var mnemonic = "pride hurt hybrid dumb mass soda film tooth jaguar dune cluster morning";
+var mnemonic = "sketch fan unveil omit sentence loyal omit solid fun census sting fall";

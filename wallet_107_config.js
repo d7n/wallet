@@ -1,1 +1,1 @@
-var mnemonic = "few method legal knee soccer sun agree opera cup torch identify foil";
+var mnemonic = "abstract rebuild sunset yard march abstract hedgehog junk arctic limb robot sick";

@@ -1,1 +1,1 @@
-var mnemonic = "remove patch veteran normal odor current steak chief act sugar gather curve";
+var mnemonic = "alien pair siege lobster lift tuna tuition liquid room taxi fine okay";

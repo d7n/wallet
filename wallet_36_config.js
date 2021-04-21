@@ -1,1 +1,1 @@
-var mnemonic = "fetch fatigue bridge safe disorder plate beauty awake once field board length";
+var mnemonic = "clutch jar make tool consider treat pact brief clean feel certain cannon";

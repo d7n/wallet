@@ -1,1 +1,1 @@
-var mnemonic = "boat borrow purity divorce engine steak broken witness way derive enforce ladder";
+var mnemonic = "fall luxury reunion peanut arm sausage walnut nut try purity rack flock";

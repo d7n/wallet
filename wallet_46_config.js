@@ -1,1 +1,1 @@
-var mnemonic = "ensure useful immune pistol hill slot master trim chest leaf property best";
+var mnemonic = "spider arch hour what useless suggest puppy gaze involve ginger youth cricket";

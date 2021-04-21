@@ -1,1 +1,1 @@
-var mnemonic = "egg treat soap venue floor unhappy lyrics math illness junior anger narrow";
+var mnemonic = "reform ship copy rail horn label someone orphan this genre tiger wear";

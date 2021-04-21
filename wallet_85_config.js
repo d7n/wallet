@@ -1,1 +1,1 @@
-var mnemonic = "strong find kitten public example uphold breeze rabbit bone across online begin";
+var mnemonic = "carbon seat basic tattoo gap region jump hurry ridge oil sound faint";

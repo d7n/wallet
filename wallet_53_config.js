@@ -1,1 +1,1 @@
-var mnemonic = "describe crash jeans fuel bleak law seek ramp trouble vague opera capital";
+var mnemonic = "reunion convince gorilla real group bread hockey eager core axis capital moment";

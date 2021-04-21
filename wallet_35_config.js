@@ -1,1 +1,1 @@
-var mnemonic = "sport jump helmet connect inside average safe party patch science interest extend";
+var mnemonic = "horn plastic client display slab segment shiver shaft multiply fluid cake grain";

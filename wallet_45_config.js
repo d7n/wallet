@@ -1,1 +1,1 @@
-var mnemonic = "hood nut arrow actor satisfy jelly extra rocket custom decide civil bonus";
+var mnemonic = "afraid hospital still coffee foster copper welcome clip stage immune possible person";

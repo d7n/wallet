@@ -1,1 +1,1 @@
-var mnemonic = "guide refuse left earn moon gold jazz list message segment reveal ready";
+var mnemonic = "drive display hobby bronze vibrant lend vessel another snap message crop observe";

@@ -1,1 +1,1 @@
-var mnemonic = "chat early embody loan tree speed wolf today expand health believe trouble";
+var mnemonic = "announce trumpet wonder smoke hello meadow ladder middle almost famous photo pink";

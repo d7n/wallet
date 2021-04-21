@@ -1,1 +1,1 @@
-var mnemonic = "chair genuine rare chapter veteran bachelor advice steak drink word model actor";
+var mnemonic = "message bamboo resource program bullet note lawn sorry merge check involve ostrich";

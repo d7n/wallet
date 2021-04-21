@@ -1,1 +1,1 @@
-var mnemonic = "clerk magnet sphere thing discover patient hint emotion pave meadow man twice";
+var mnemonic = "cycle benefit topic awake rebuild sadness motion stone pulse now danger recycle";

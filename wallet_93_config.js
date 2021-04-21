@@ -1,1 +1,1 @@
-var mnemonic = "boil start catalog purpose cash cream expand lucky skull immense arctic city";
+var mnemonic = "velvet theme bind impulse dentist rotate dish zero arch two virus gospel";

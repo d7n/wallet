@@ -1,1 +1,1 @@
-var mnemonic = "educate mad visit same recall code satisfy silver shine sauce trophy supreme";
+var mnemonic = "gentle neither meat scene range member meadow way hybrid unlock refuse raccoon";

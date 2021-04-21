@@ -1,1 +1,1 @@
-var mnemonic = "clap lesson ready life brief human rapid confirm culture fragile method dream";
+var mnemonic = "pet foam flat fine beauty tonight turkey trumpet struggle vendor neutral alcohol";

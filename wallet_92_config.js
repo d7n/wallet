@@ -1,1 +1,1 @@
-var mnemonic = "canoe very group betray fan try utility basket female spoon leg gym";
+var mnemonic = "inflict rough favorite jewel crowd pave sponsor crop output diamond just trip";

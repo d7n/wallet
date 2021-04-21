@@ -1,1 +1,1 @@
-var mnemonic = "artefact seed forum scale portion leave safe sugar immense loyal easy manual";
+var mnemonic = "want shrug material exit wine frequent grief shell crawl harvest subway wheel";

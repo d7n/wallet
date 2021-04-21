@@ -1,1 +1,1 @@
-var mnemonic = "forward filter worry few glare egg rough unfair strategy real belt rice";
+var mnemonic = "believe swap master trouble ocean blame cricket cart sure only vault volcano";

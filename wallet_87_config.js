@@ -1,1 +1,1 @@
-var mnemonic = "alley analyst suspect later erosion swamp hub jar dilemma range grow custom";
+var mnemonic = "drastic total witness soda absurd dinner fall fiber romance dilemma seminar bonus";

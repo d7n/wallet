@@ -1,1 +1,1 @@
-var mnemonic = "place evil picnic morning genre dish twenty season badge finish pioneer bright";
+var mnemonic = "gadget debris expect shaft quick include whale crumble busy extra oxygen salad";

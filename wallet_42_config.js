@@ -1,1 +1,1 @@
-var mnemonic = "glue case inner urge curtain pigeon betray strike muscle swear exercise dizzy";
+var mnemonic = "planet decide violin rural install turn wet inform glue oil unhappy orbit";

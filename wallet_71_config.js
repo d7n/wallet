@@ -1,1 +1,1 @@
-var mnemonic = "session wing filter mutual certain orient bar turkey youth garment hidden tape";
+var mnemonic = "diamond museum knock lunar turtle ship notable elder snake shy power indoor";

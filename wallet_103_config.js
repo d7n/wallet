@@ -1,1 +1,1 @@
-var mnemonic = "guilt banner drill stand bonus call mouse vital anchor force fitness bench";
+var mnemonic = "cigar antique giraffe still donkey very shoot suit clean plastic scissors begin";
