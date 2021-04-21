@@ -1,1 +1,1 @@
-var mnemonic = "gown lesson penalty sleep length online across fence crouch strategy cute alcohol";
+var mnemonic = "fresh rocket parade proof glass lend wine hub dream giggle nurse clean";

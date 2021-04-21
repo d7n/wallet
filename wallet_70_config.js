@@ -1,1 +1,1 @@
-var mnemonic = "thumb asthma duty promote jealous mouse suffer street mimic purchase honey excuse";
+var mnemonic = "frozen art office cement frame quantum immune group awesome plunge ride begin";

@@ -1,1 +1,1 @@
-var mnemonic = "practice push wait situate dwarf easy below hundred save stone hobby hint";
+var mnemonic = "awkward team build picnic citizen bench manual acid urban spot barrel eagle";

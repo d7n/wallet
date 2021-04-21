@@ -1,1 +1,1 @@
-var mnemonic = "glad reduce attack advance swim tool prevent final fence neither fiber aspect";
+var mnemonic = "stuff parrot idle harbor increase twin vacuum carry cradle swift property pelican";

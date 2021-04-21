@@ -1,1 +1,1 @@
-var mnemonic = "siren seat gate soon axis patient coin palace cargo utility soon achieve";
+var mnemonic = "pink easy example leopard valid again indoor cigar layer fiction exact silly";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain timber caught memory squirrel monkey country figure basket cage aware penalty";
+var mnemonic = "fury case prison census control athlete element convince demise diesel cliff chest";

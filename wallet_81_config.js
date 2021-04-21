@@ -1,1 +1,1 @@
-var mnemonic = "venture half debate cruel wrist expose begin base sport just cause bronze";
+var mnemonic = "giraffe cannon shove object six olive clog loan way reason pave awkward";

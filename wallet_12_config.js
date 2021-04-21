@@ -1,1 +1,1 @@
-var mnemonic = "film chest digital viable sport item mystery warrior force evoke critic chapter";
+var mnemonic = "coin cloud inflict repair sell paper segment casino sunny oil absorb trumpet";

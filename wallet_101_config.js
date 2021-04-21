@@ -1,1 +1,1 @@
-var mnemonic = "cannon weasel diamond lonely law jeans pony scrub move consider hospital day";
+var mnemonic = "during know credit nothing stove cool crucial jar fold bubble enter piano";

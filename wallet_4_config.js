@@ -1,1 +1,1 @@
-var mnemonic = "found reflect exercise unit address now prevent goose bright ready chalk nut";
+var mnemonic = "coyote magic entire bacon team soul device enroll boil oblige polar spell";

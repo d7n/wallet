@@ -1,1 +1,1 @@
-var mnemonic = "beauty author antique crunch change aware cheese can art crop cute life";
+var mnemonic = "humor empower country skull either hover gadget quantum quote bitter tackle legal";

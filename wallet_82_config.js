@@ -1,1 +1,1 @@
-var mnemonic = "hundred feature reject slice crew dolphin city taste ocean hospital opinion little";
+var mnemonic = "helmet snake online normal chicken dirt review panther alley wise tuna exclude";

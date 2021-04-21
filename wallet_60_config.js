@@ -1,1 +1,1 @@
-var mnemonic = "attend debris belt exit appear hospital pepper mouse steak hungry winter world";
+var mnemonic = "hip mountain plug loop mountain process load cause dumb buddy detail hurt";

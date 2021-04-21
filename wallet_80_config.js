@@ -1,1 +1,1 @@
-var mnemonic = "simple fault census strategy dutch pumpkin mechanic river basket now seek weasel";
+var mnemonic = "sister tired extend april any vintage legal ramp side cube depart gospel";

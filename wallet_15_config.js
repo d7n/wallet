@@ -1,1 +1,1 @@
-var mnemonic = "diet away team mutual gadget push balcony faith found boss dawn purse";
+var mnemonic = "nothing budget parent toilet eternal ill track squeeze wink stable chimney basic";

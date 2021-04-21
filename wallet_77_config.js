@@ -1,1 +1,1 @@
-var mnemonic = "fire shock runway ready wire wash large silent carpet ginger three grape";
+var mnemonic = "mystery machine alarm custom token weasel crime shift used balance birth neither";

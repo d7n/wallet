@@ -1,1 +1,1 @@
-var mnemonic = "skirt flee raw follow dove mutual recall coil shuffle large hub crash";
+var mnemonic = "dose canyon witness usual urban later inside like ladder awake uncle method";

@@ -1,1 +1,1 @@
-var mnemonic = "public treat taste life fat entire gallery regret snap praise hospital decline";
+var mnemonic = "trophy vital virtual merge sugar aisle purse genuine silly game together learn";

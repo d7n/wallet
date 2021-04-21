@@ -1,1 +1,1 @@
-var mnemonic = "pink better aerobic hover hawk pretty pact coffee shuffle alley mix soccer";
+var mnemonic = "genius picnic smooth vital worth calm unable arch toe junk brisk dentist";

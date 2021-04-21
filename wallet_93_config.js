@@ -1,1 +1,1 @@
-var mnemonic = "bless hand bar maple twist destroy soap size carpet focus bus until";
+var mnemonic = "used story electric festival sheriff enhance pact robot couple inside neck state";

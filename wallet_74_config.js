@@ -1,1 +1,1 @@
-var mnemonic = "question hour clown film bottom glance poem opera connect repeat aunt gorilla";
+var mnemonic = "hidden struggle fetch lab day depth gold gravity position require tooth barely";

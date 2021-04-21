@@ -1,1 +1,1 @@
-var mnemonic = "region bonus lawn benefit first spoon walk yard rival room join mule";
+var mnemonic = "okay hollow iron endorse rapid elephant laugh ability whisper sadness trouble novel";

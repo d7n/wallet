@@ -1,1 +1,1 @@
-var mnemonic = "always suggest angle enact finish act swing quiz worry wave goat shoulder";
+var mnemonic = "author blue excite myself damp sweet give now collect three apple artefact";

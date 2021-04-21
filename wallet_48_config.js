@@ -1,1 +1,1 @@
-var mnemonic = "salt cradle squeeze wasp zero shallow casino repeat subject wheat retire state";
+var mnemonic = "flag oval couple survey sound enter exist during omit cherry foam all";

@@ -1,1 +1,1 @@
-var mnemonic = "world crew size garage trend above enlist board bar size tag column";
+var mnemonic = "lamp over neutral medal amateur rain accuse fresh adjust region tissue lounge";

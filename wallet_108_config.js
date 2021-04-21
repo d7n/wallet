@@ -1,1 +1,1 @@
-var mnemonic = "infant hover cube spare purse point input slush mad sick short receive";
+var mnemonic = "board spot coffee street common lecture impact engine couple smooth burden farm";

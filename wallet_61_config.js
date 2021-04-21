@@ -1,1 +1,1 @@
-var mnemonic = "certain close aim thumb awful pull time champion mushroom under mystery ozone";
+var mnemonic = "source asset erode gospel kingdom bacon bottom final total machine trip quit";

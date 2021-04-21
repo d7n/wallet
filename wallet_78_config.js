@@ -1,1 +1,1 @@
-var mnemonic = "describe repair firm biology dial case gown maximum elevator seminar power motor";
+var mnemonic = "increase tumble purity energy cube tuition spoon submit display away warm flash";

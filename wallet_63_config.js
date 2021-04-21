@@ -1,1 +1,1 @@
-var mnemonic = "birth push now huge hazard black ketchup curious total dirt portion pledge";
+var mnemonic = "scale risk purity sphere first unique believe twelve nature witness trick pigeon";

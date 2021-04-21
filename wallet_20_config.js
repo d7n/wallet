@@ -1,1 +1,1 @@
-var mnemonic = "will stick invest clock they tomato ten security menu manual level describe";
+var mnemonic = "check prepare water dutch trophy execute unhappy okay uncle column vocal marriage";

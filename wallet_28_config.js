@@ -1,1 +1,1 @@
-var mnemonic = "comic mesh orphan hidden light grab pig height small sibling envelope bind";
+var mnemonic = "better girl drop furnace typical minor hill girl brave stable during allow";

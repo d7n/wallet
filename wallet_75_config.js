@@ -1,1 +1,1 @@
-var mnemonic = "sell kitchen inner obtain label reduce lucky slight outdoor romance genius bench";
+var mnemonic = "spice fruit legal alarm please task matter deny affair mandate trade develop";

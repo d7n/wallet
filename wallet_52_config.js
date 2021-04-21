@@ -1,1 +1,1 @@
-var mnemonic = "obvious next ripple outer dragon accuse cherry input net cross raven wolf";
+var mnemonic = "mirror sphere couch outside narrow age stable toward grab door already blade";

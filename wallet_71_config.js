@@ -1,1 +1,1 @@
-var mnemonic = "cliff glue slow demise knee meat tennis slice order clean merry upset";
+var mnemonic = "novel accident finish disagree tobacco minute roof frost fresh snack jungle address";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost sponsor purse fresh reopen attack diesel body render diary argue funny";
+var mnemonic = "tortoise all foot relax divide opera easily quiz disorder topic own deny";

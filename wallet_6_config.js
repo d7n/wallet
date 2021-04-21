@@ -1,1 +1,1 @@
-var mnemonic = "ball lend gas tomato much gaze nose jealous soft news involve pilot";
+var mnemonic = "critic extend oil ice frequent approve spin discover pilot food dial kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "spare wealth easily shiver hurt maximum harbor include sure diamond media bone";
+var mnemonic = "used flee sentence mosquito parent avocado usage start crouch decade pepper will";

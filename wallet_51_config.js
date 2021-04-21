@@ -1,1 +1,1 @@
-var mnemonic = "warfare humble soda spirit bronze scatter confirm include light laptop wide tone";
+var mnemonic = "thumb loud luxury balance science path music gap auto dad gossip elder";

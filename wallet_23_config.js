@@ -1,1 +1,1 @@
-var mnemonic = "inner badge weapon palm zebra joy confirm sad two ordinary small wrist";
+var mnemonic = "crop false venture clerk parent meat donate reflect short change strong armed";

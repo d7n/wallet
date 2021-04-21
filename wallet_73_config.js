@@ -1,1 +1,1 @@
-var mnemonic = "slim raise valid nut arena pluck input raccoon female staff input wonder";
+var mnemonic = "rival guitar useless find cabbage correct pizza stem nerve universe jump cute";

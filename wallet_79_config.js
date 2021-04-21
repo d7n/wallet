@@ -1,1 +1,1 @@
-var mnemonic = "reflect garbage knock shield sauce stumble deputy tribe bulb leave broken learn";
+var mnemonic = "output width ethics harbor pave culture alert primary oblige absent gauge feed";

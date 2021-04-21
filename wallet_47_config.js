@@ -1,1 +1,1 @@
-var mnemonic = "enable earth swarm rifle crew melt endless zebra satisfy scale offer off";
+var mnemonic = "oppose fine luggage face junk often fringe arrive sad aim call excuse";

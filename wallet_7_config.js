@@ -1,1 +1,1 @@
-var mnemonic = "force cliff dish device spare humble sausage school congress forum melt primary";
+var mnemonic = "tragic amount patrol edit crucial can scrap tattoo faint mixed vapor cost";

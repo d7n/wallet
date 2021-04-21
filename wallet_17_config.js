@@ -1,1 +1,1 @@
-var mnemonic = "float dog earth eye famous toddler bless runway patient flight mention pitch";
+var mnemonic = "thrive cactus enough blame tray velvet bulk turtle attract vivid giggle slam";

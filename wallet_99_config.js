@@ -1,1 +1,1 @@
-var mnemonic = "nothing primary ceiling vital drill save perfect tissue siege lava shell just";
+var mnemonic = "milk pulse rain original miracle mouse runway razor cat design scout wagon";

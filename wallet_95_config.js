@@ -1,1 +1,1 @@
-var mnemonic = "one web sting silent fatigue grief promote general common maximum decade fog";
+var mnemonic = "curve happy annual embody garment ring owner ridge evolve raccoon drive expand";

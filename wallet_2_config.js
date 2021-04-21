@@ -1,1 +1,1 @@
-var mnemonic = "peanut grunt scatter wrong ahead actual neck trophy index depth derive rotate";
+var mnemonic = "steak churn job gym split network fiscal school level grid seed height";

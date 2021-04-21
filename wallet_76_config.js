@@ -1,1 +1,1 @@
-var mnemonic = "horror fine window gun style expose priority produce exclude owner flower visual";
+var mnemonic = "mystery thank father analyst pioneer film spread ecology session nose process rely";

@@ -1,1 +1,1 @@
-var mnemonic = "quality hammer promote drip shop rescue special diesel enrich neither fall invite";
+var mnemonic = "tourist negative embody length neglect survey seed logic cupboard defy boil neither";

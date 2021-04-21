@@ -1,1 +1,1 @@
-var mnemonic = "beef live rifle surprise veteran divert moral meadow print crash bring dust";
+var mnemonic = "grant clerk enhance skate insane episode van goat leopard umbrella act dynamic";

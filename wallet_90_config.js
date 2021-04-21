@@ -1,1 +1,1 @@
-var mnemonic = "office parade exhibit swamp over betray swim over globe include link tiger";
+var mnemonic = "lyrics release south coyote miss acquire witness camp moment suffer share always";

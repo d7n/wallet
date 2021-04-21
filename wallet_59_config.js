@@ -1,1 +1,1 @@
-var mnemonic = "onion coconut know reduce half suit random crowd trim history endorse pencil";
+var mnemonic = "denial image isolate panic rib friend above distance clinic able any shell";

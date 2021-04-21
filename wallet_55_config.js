@@ -1,1 +1,1 @@
-var mnemonic = "together metal mansion elder series skate object leg height foam move meadow";
+var mnemonic = "scrap guess spider salon sting cargo recipe icon grab fade glass awkward";

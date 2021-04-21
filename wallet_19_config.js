@@ -1,1 +1,1 @@
-var mnemonic = "head logic sad pyramid gorilla game scan tell bleak shiver promote diary";
+var mnemonic = "agent razor okay scout envelope bachelor drink tobacco approve jungle divorce address";

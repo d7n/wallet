@@ -1,1 +1,1 @@
-var mnemonic = "route sorry memory delay onion pig purchase drive poet require pipe liquid";
+var mnemonic = "future slide guitar exercise weasel exact mother total mean spice million scatter";

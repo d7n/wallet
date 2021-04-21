@@ -1,1 +1,1 @@
-var mnemonic = "argue rookie tilt twice ability shell comic sting kite filter among decline";
+var mnemonic = "plastic amateur caution relief assist lab rotate mango squirrel flash assume weekend";

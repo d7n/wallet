@@ -1,1 +1,1 @@
-var mnemonic = "tube upper chronic repeat flight airport change weekend merge stable apple promote";
+var mnemonic = "someone they stumble flag shield tail uphold warfare minor off wink goddess";

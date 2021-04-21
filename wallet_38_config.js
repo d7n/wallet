@@ -1,1 +1,1 @@
-var mnemonic = "sorry link aspect input punch hidden provide tape legal ranch will volcano";
+var mnemonic = "vendor area assault learn leg summer author tilt rail artist neglect table";

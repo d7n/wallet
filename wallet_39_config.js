@@ -1,1 +1,1 @@
-var mnemonic = "worth legal actor imitate exhibit bread horn denial alcohol rate trade youth";
+var mnemonic = "surprise ramp drum keep night argue valid social elevator inch symptom cream";

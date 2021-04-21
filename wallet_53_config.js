@@ -1,1 +1,1 @@
-var mnemonic = "cost refuse march exhibit soul bike buffalo boy update income rural boss";
+var mnemonic = "admit limb cattle banner smart cart bullet deny praise effort require leave";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol little rigid magnet finish behave amount foster cool envelope switch spawn";
+var mnemonic = "curtain double enrich saddle elephant snap law ring jeans kidney impulse bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "arm consider true garden fantasy cricket battle tone save axis syrup blind";
+var mnemonic = "genre coil crater board tonight air swap rotate observe oxygen trouble better";

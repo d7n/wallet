@@ -1,1 +1,1 @@
-var mnemonic = "turn luxury legend sing sudden omit heart scare basket open edge detail";
+var mnemonic = "choice warrior syrup mule meadow derive corn lounge host spatial correct way";

@@ -1,1 +1,1 @@
-var mnemonic = "ability ranch inspire left panda amount rebel almost social dog someone series";
+var mnemonic = "dish faint hint aisle humor blade neither eight brick layer spoon glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "dune cupboard year wet wood kitchen enact powder genius join banner kitchen";
+var mnemonic = "sibling brush still sock ugly because either vote picnic degree lumber float";

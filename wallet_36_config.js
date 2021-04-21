@@ -1,1 +1,1 @@
-var mnemonic = "quote demise merge myth all radio toilet close leisure tail cave brand";
+var mnemonic = "shift play just wife attract slice office lobster say target maze ghost";

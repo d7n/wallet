@@ -1,1 +1,1 @@
-var mnemonic = "base fan credit muffin grape flush shove protect pair nation cheap physical";
+var mnemonic = "guide egg olympic ceiling couple fun draft initial laundry quality name path";

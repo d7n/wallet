@@ -1,1 +1,1 @@
-var mnemonic = "fork review hire noble own various assault fiction they produce mandate hamster";
+var mnemonic = "february main erase food benefit rough action attack clown impact age valve";

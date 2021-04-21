@@ -1,1 +1,1 @@
-var mnemonic = "crane gesture hamster cart moral siren wet exclude bless clog tackle solid";
+var mnemonic = "tell ahead style absent pulse room regret club elephant empty flash wagon";

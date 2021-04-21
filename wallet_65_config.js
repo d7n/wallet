@@ -1,1 +1,1 @@
-var mnemonic = "coral quote post crucial enroll sad caught junk knee industry van latin";
+var mnemonic = "special hint creek glow cart offer budget donate frog soup black siege";

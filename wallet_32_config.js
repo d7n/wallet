@@ -1,1 +1,1 @@
-var mnemonic = "shed october allow frozen vacant slender battle profit mail candy ozone glass";
+var mnemonic = "hamster equip shuffle garlic blur lady demise peasant planet quantum network trophy";

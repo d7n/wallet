@@ -1,1 +1,1 @@
-var mnemonic = "thing rough govern squeeze caution diesel game help weather civil path cross";
+var mnemonic = "over bless lawsuit rare local friend drum twin often shaft use utility";

@@ -1,1 +1,1 @@
-var mnemonic = "sting slender neutral chief pride senior barely silver fee ask sunset renew";
+var mnemonic = "bind loyal when method square dust simple naive burst soon amateur aunt";

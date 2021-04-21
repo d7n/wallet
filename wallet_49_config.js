@@ -1,1 +1,1 @@
-var mnemonic = "cupboard dwarf sun obtain merit ticket cream damp lend decorate curve stomach";
+var mnemonic = "swallow there isolate erupt swing hidden security apple couple butter crumble peanut";

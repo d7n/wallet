@@ -1,1 +1,1 @@
-var mnemonic = "panic ahead alpha stamp soccer hour embody quit novel cabbage shoulder crater";
+var mnemonic = "predict meadow alter chicken urge coffee fiscal public van fence more december";

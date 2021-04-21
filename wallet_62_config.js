@@ -1,1 +1,1 @@
-var mnemonic = "laptop already clay present error field pilot upon stairs turn volume stairs";
+var mnemonic = "rebel key scrap exchange canal ranch phrase double super fade trip rocket";

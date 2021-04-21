@@ -1,1 +1,1 @@
-var mnemonic = "range add notable coconut any monitor cake poet shoulder trade resource vacant";
+var mnemonic = "water turkey library fox manual side cheap unlock addict castle wink typical";

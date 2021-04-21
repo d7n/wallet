@@ -1,1 +1,1 @@
-var mnemonic = "patient asset noodle object toward flower omit mule hurry evolve exile gap";
+var mnemonic = "vapor volume company answer unit captain raven barely happy era bid version";

@@ -1,1 +1,1 @@
-var mnemonic = "sting hub goose cry when cinnamon order hold vapor aspect sign guilt";
+var mnemonic = "economy cradle dance dream crack vibrant bulk profit dismiss require below cricket";

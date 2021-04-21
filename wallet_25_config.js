@@ -1,1 +1,1 @@
-var mnemonic = "echo merry try jewel sail soap two client hockey define sweet token";
+var mnemonic = "dirt plastic light before blanket chaos together robust cigar uniform slow hen";

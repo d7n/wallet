@@ -1,1 +1,1 @@
-var mnemonic = "crowd cinnamon banner cheap earn engine april switch trust miracle boring pottery";
+var mnemonic = "design orphan bulb reopen barrel adjust road doctor scrap space crime polar";

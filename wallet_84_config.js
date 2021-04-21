@@ -1,1 +1,1 @@
-var mnemonic = "wrist type essence country horror naive flat swift scorpion original obvious chest";
+var mnemonic = "accuse silly snow scrap hospital hazard joy pattern oven water print dilemma";

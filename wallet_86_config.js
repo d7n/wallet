@@ -1,1 +1,1 @@
-var mnemonic = "crop awesome capital only coin noise club pool elevator ride frown deal";
+var mnemonic = "trouble bitter eternal fold common junior coil wisdom true theme engine social";

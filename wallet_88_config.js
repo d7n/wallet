@@ -1,1 +1,1 @@
-var mnemonic = "memory anger army animal crater leisure advance gain bus invite wolf raise";
+var mnemonic = "hint piece prison steak rug casino tuition bracket peace logic raise gadget";

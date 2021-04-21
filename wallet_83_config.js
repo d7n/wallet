@@ -1,1 +1,1 @@
-var mnemonic = "swear quiz water glory alone limit pole custom hidden secret trap permit";
+var mnemonic = "suspect vital better menu blush trouble ghost ring virtual decrease quality vanish";

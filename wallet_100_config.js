@@ -1,1 +1,1 @@
-var mnemonic = "vapor arrow wasp deny rule short hobby garbage exit confirm allow weird";
+var mnemonic = "stomach battle area cactus pluck alpha tissue illegal endorse latin knock when";

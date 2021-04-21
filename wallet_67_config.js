@@ -1,1 +1,1 @@
-var mnemonic = "dust inner citizen figure dignity coil any useless put program frequent zero";
+var mnemonic = "hotel nature promote cake situate chimney senior office protect glad list pilot";

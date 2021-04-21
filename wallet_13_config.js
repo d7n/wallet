@@ -1,1 +1,1 @@
-var mnemonic = "dial blind benefit dragon negative can check sunset debris march flock melody";
+var mnemonic = "pretty spread tool eager shrug embody time buddy picture cargo wing company";

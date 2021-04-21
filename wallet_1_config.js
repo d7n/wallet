@@ -1,1 +1,1 @@
-var mnemonic = "west banner throw scale path number exit video joke poverty wife shrimp";
+var mnemonic = "chaos lake innocent luxury frozen nose spell arrest retreat source arctic drama";
