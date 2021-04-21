@@ -1,1 +1,1 @@
-var mnemonic = "torch silver chest person broom ethics detail observe rubber era moon face";
+var mnemonic = "village report noise slush dish pass lens steel suspect either fury produce";

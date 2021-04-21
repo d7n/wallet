@@ -1,1 +1,1 @@
-var mnemonic = "eight pave retire square unknown tumble end kiwi gun ability polar scan";
+var mnemonic = "police artefact rude sun truth sphere fitness require bean reject wide mesh";

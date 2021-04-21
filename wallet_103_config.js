@@ -1,1 +1,1 @@
-var mnemonic = "face jeans gym decide spirit time announce choose excite silk delay gauge";
+var mnemonic = "travel edge real creek fabric melody verify glove acoustic grain keep label";

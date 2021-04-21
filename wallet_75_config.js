@@ -1,1 +1,1 @@
-var mnemonic = "blame easily vacuum arrest sea volcano orient bone next hurdle goat kitten";
+var mnemonic = "garlic slogan coil wing divert drink craft muffin plastic carry section please";

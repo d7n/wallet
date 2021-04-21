@@ -1,1 +1,1 @@
-var mnemonic = "where monitor resist motor imitate wine wrap pass nominee vast sing whip";
+var mnemonic = "cook bag steel gentle diet run palm audit word typical before outdoor";

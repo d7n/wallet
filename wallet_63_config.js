@@ -1,1 +1,1 @@
-var mnemonic = "joy again disease finger fan inflict tortoise resemble seed ribbon orbit bike";
+var mnemonic = "valley borrow visual slender banana raise jeans effort firm develop clog flower";

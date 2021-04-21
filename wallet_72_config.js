@@ -1,1 +1,1 @@
-var mnemonic = "flip approve ramp garden aunt pen cry liar fiber upset april idea";
+var mnemonic = "galaxy twelve person barely laundry endorse connect tilt february avocado effort vibrant";

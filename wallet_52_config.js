@@ -1,1 +1,1 @@
-var mnemonic = "credit auction upgrade income mushroom baby special protect basic total cannon enroll";
+var mnemonic = "slush guard recipe swim decade rice own silver grass orange chapter hollow";

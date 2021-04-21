@@ -1,1 +1,1 @@
-var mnemonic = "faint symbol minor tide path junior kiss warfare lens mail fiber unaware";
+var mnemonic = "action feature mimic seek wheel satisfy swamp negative media taste fruit wood";

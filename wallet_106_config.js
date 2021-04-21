@@ -1,1 +1,1 @@
-var mnemonic = "celery obey mask burst galaxy erupt blouse satisfy junk park impact curve";
+var mnemonic = "near soft sniff debate buffalo black unfair slender slice room include someone";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity city obscure job copy grid west can avoid step vocal never";
+var mnemonic = "office bone obvious elbow muscle orchard vintage dad version train vacuum egg";

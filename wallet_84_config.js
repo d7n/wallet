@@ -1,1 +1,1 @@
-var mnemonic = "guilt accident occur very verify build mixed system rare shoulder defy junior";
+var mnemonic = "despair short family still there student mutual farm reject reduce topple add";

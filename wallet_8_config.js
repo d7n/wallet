@@ -1,1 +1,1 @@
-var mnemonic = "mango pencil slide doctor burst bulk ozone squirrel arrange circle crater either";
+var mnemonic = "interest length release sing cherry menu describe morning autumn spice oppose reason";

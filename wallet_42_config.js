@@ -1,1 +1,1 @@
-var mnemonic = "maid ridge two sting impulse subject drip gas address pave flight account";
+var mnemonic = "notice hole note category price few bamboo roast cash various hockey naive";

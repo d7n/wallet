@@ -1,1 +1,1 @@
-var mnemonic = "clip income credit unaware summer mean protect deposit quit desert girl forget";
+var mnemonic = "vicious carry govern impact universe end enroll under civil scrub mass basic";

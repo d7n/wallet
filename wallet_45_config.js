@@ -1,1 +1,1 @@
-var mnemonic = "drive mule glory attend february only olympic purchase action decide series mind";
+var mnemonic = "elevator track despair govern budget cake giraffe much prize tuna sting biology";

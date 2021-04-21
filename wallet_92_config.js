@@ -1,1 +1,1 @@
-var mnemonic = "size lonely food inspire tail route front wine holiday toddler brisk flee";
+var mnemonic = "board recall holiday join animal famous unaware satisfy heavy alter actual enact";

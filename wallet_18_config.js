@@ -1,1 +1,1 @@
-var mnemonic = "cargo pistol result toast party since peasant trip noise fence awkward chest";
+var mnemonic = "promote keep patch drip umbrella spray walnut mind best arctic suffer stem";

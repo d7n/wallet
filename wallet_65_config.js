@@ -1,1 +1,1 @@
-var mnemonic = "opinion pretty fold unable brown crush problem spice boost host torch outside";
+var mnemonic = "myth advice average primary deputy tribe donate keep mystery robust fog odor";

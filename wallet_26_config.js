@@ -1,1 +1,1 @@
-var mnemonic = "whisper input swear flavor sort flag duty occur frame plug work bring";
+var mnemonic = "another client review away winter between spirit merge cash tower guard negative";

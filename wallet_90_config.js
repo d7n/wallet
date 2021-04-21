@@ -1,1 +1,1 @@
-var mnemonic = "leopard gain vessel rifle embark satisfy parent neutral force cube twelve cinnamon";
+var mnemonic = "puppy depth increase west mean test post account puzzle toy video pigeon";

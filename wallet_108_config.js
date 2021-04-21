@@ -1,1 +1,1 @@
-var mnemonic = "reason purse hen milk broom conduct insane curve lawsuit figure blue hobby";
+var mnemonic = "rocket lecture glue month tonight horse risk record point excuse all gas";

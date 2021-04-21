@@ -1,1 +1,1 @@
-var mnemonic = "vacant boring ginger ticket matter steel police fringe ribbon antenna absent drill";
+var mnemonic = "custom avoid rebuild capable aerobic local plunge fruit simple shoot lumber town";

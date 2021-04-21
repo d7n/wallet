@@ -1,1 +1,1 @@
-var mnemonic = "crush install enjoy enjoy bring brain stick region later divorce myself hub";
+var mnemonic = "already cricket empty lift taste kitchen bottom manage joke orient kitchen dove";

@@ -1,1 +1,1 @@
-var mnemonic = "media neither gallery wall symbol ladder rug olive tape sugar eight slot";
+var mnemonic = "enrich zebra island beach water still agent bridge uniform usage initial moment";

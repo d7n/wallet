@@ -1,1 +1,1 @@
-var mnemonic = "system poem theory aim giraffe rib save machine play file turtle patrol";
+var mnemonic = "predict clever image entry need smooth measure camp marble fluid veteran electric";

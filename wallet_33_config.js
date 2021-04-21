@@ -1,1 +1,1 @@
-var mnemonic = "curtain pride skull legal muffin thunder humor runway finger blur syrup vicious";
+var mnemonic = "shadow fog marriage faint ensure scatter glad useless member march erase harsh";

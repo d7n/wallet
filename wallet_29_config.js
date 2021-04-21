@@ -1,1 +1,1 @@
-var mnemonic = "skill doctor ripple pen mansion legal cricket scare awake canal swallow door";
+var mnemonic = "shield ankle code tired soldier slim relax budget hole rate tired stove";

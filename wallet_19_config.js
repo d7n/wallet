@@ -1,1 +1,1 @@
-var mnemonic = "type clerk lawn will digital devote hobby claw hotel olive clarify yellow";
+var mnemonic = "stand pledge broom limit journey various news around destroy put canvas calm";

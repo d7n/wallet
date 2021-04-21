@@ -1,1 +1,1 @@
-var mnemonic = "seminar plastic mention shed hurt language city unfair town update ticket entry";
+var mnemonic = "sad mechanic stairs garden pattern used door verb help replace hub cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree wave blood jacket ready quantum execute keen bench solve save giggle";
+var mnemonic = "divide wealth accident upset sort fossil aisle wrist trap digital share habit";

@@ -1,1 +1,1 @@
-var mnemonic = "target heart peace security pistol base clay spend cause traffic reveal another";
+var mnemonic = "few nasty stage rebel ridge hen guess member lecture still hungry retire";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion depart best rough road image bamboo motor install liar work dust";
+var mnemonic = "brief pulse hand place fox shrug color dismiss empty enjoy palace cattle";

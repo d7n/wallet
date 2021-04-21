@@ -1,1 +1,1 @@
-var mnemonic = "rebuild assault divert wine coral elite erupt enhance robust still flame nothing";
+var mnemonic = "opinion celery biology twenty judge math logic gospel north grain logic note";

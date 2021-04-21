@@ -1,1 +1,1 @@
-var mnemonic = "degree local echo similar acoustic sentence summer royal virtual clip hurdle extra";
+var mnemonic = "village fox core grief notable kangaroo language easy film undo offer above";

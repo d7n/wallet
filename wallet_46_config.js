@@ -1,1 +1,1 @@
-var mnemonic = "bulb coconut salmon north century between puppy kind cable offer awesome flip";
+var mnemonic = "diary bench census pool oxygen damage couple outside solid retreat federal useless";

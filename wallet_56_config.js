@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo enforce super daughter divide innocent supreme phrase horn aware video pulse";
+var mnemonic = "orbit duck number enter awesome census myself blue machine book fever wool";

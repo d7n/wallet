@@ -1,1 +1,1 @@
-var mnemonic = "require spatial merge stool poem mother network mask rather doll donor south";
+var mnemonic = "bean van mixture useful nerve enjoy pipe range square shuffle output sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "off guard brand network any similar dose venture mandate wife tube sheriff";
+var mnemonic = "apple main soccer stumble sauce slight repeat answer subway box neither liar";

@@ -1,1 +1,1 @@
-var mnemonic = "fit horror vintage skin glare attack click exchange spot glance engine anger";
+var mnemonic = "what pink clever couch kitchen pond cross scout federal neither lesson range";

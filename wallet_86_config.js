@@ -1,1 +1,1 @@
-var mnemonic = "rain mail era hero slice wide alcohol income embrace cushion flag until";
+var mnemonic = "auction ghost museum version inflict sport huge verb cruise response copper sign";

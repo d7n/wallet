@@ -1,1 +1,1 @@
-var mnemonic = "there mother staff message journey lemon marine ask guard joke cart oak";
+var mnemonic = "gun frequent spot liar grace bottom donor saddle fence decrease decorate creek";

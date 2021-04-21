@@ -1,1 +1,1 @@
-var mnemonic = "salon blush glue mixed pony dragon tuna gym rebuild because casino educate";
+var mnemonic = "flight assume glad bind magic equal school clay mail hurdle pause program";

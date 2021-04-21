@@ -1,1 +1,1 @@
-var mnemonic = "cute loan brave window capital wink february lava funny measure bounce oblige";
+var mnemonic = "fault banner suffer depend donor job scan upset spin economy cherry salon";

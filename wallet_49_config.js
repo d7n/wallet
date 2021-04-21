@@ -1,1 +1,1 @@
-var mnemonic = "fluid law sister uncover flee cluster convince flash between airport ivory consider";
+var mnemonic = "vibrant logic round city rocket knee miracle situate axis reopen kind snake";

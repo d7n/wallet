@@ -1,1 +1,1 @@
-var mnemonic = "mention lava case symbol dynamic deputy mystery ball verify blood sniff erase";
+var mnemonic = "early input rose burst era benefit battle team scare fashion online actor";

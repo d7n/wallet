@@ -1,1 +1,1 @@
-var mnemonic = "fury pipe spider chunk detail slogan neglect veteran seven wealth gown topic";
+var mnemonic = "enemy quick gun list dilemma when liberty hire basket secret regret photo";

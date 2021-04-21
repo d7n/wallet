@@ -1,1 +1,1 @@
-var mnemonic = "click barrel vocal alley soon capable help ball buzz door tray utility";
+var mnemonic = "knock desert annual glad improve danger strong occur strategy knock trim infant";

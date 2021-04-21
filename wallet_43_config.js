@@ -1,1 +1,1 @@
-var mnemonic = "assume used minor impulse sound behind tackle fiction media kid earth turkey";
+var mnemonic = "town chef wide carpet staff subway cinnamon offer trade alcohol swim mountain";

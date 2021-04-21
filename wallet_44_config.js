@@ -1,1 +1,1 @@
-var mnemonic = "anger dinosaur ready river join flip trouble edit wave rude connect scatter";
+var mnemonic = "coral reveal proof image mirror balcony execute ride bracket vacant bargain thrive";

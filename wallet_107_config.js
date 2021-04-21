@@ -1,1 +1,1 @@
-var mnemonic = "room fold mix timber exist kitten transfer reject skill torch lock tomato";
+var mnemonic = "oven property friend ecology silver end embrace region require jacket clever online";

@@ -1,1 +1,1 @@
-var mnemonic = "special same usual pumpkin crunch corn govern code magnet jelly magnet detect";
+var mnemonic = "ill win cash muscle case party shy pretty useful anger nose choose";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado age mother strategy bridge seat theory pet garbage scorpion fame hello";
+var mnemonic = "lounge cereal fitness bullet luggage small pen body eternal pitch peanut happy";

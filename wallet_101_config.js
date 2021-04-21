@@ -1,1 +1,1 @@
-var mnemonic = "seek kit dizzy that arm glance asthma keen hobby slab abuse puzzle";
+var mnemonic = "piece tuition forget coast cousin pen apple grab glide call typical desk";

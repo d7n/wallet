@@ -1,1 +1,1 @@
-var mnemonic = "sell toy survey merge mirror prize bind deer helmet dust pulp isolate";
+var mnemonic = "reflect regular hand junior box sponsor evolve common soup print keep rubber";

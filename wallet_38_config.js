@@ -1,1 +1,1 @@
-var mnemonic = "fold bonus spin kitten biology asthma embrace dynamic weather equip economy used";
+var mnemonic = "damp alert proud owner syrup slow web sound brief hurt risk near";

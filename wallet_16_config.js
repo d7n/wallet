@@ -1,1 +1,1 @@
-var mnemonic = "check seminar mystery embark exotic goddess box spell sentence robust panther inspire";
+var mnemonic = "false creek ethics prize float culture target crucial flag federal faculty tone";

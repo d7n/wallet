@@ -1,1 +1,1 @@
-var mnemonic = "motor craft home acoustic pet chimney index humor exclude spell illness blood";
+var mnemonic = "beauty mask open require grant jealous cool pulp never quarter symbol boring";

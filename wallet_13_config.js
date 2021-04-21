@@ -1,1 +1,1 @@
-var mnemonic = "team raven normal normal layer habit crime era write one firm path";
+var mnemonic = "decade fashion jazz type donkey coin attitude latin cabbage weekend gasp person";

@@ -1,1 +1,1 @@
-var mnemonic = "manage radio require soap clutch kiwi visit eye desert caught garment capital";
+var mnemonic = "armed flame match price try remind distance kiss pave roast used flower";

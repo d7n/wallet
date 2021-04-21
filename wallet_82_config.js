@@ -1,1 +1,1 @@
-var mnemonic = "episode adapt dolphin donor kite faint brisk hungry lady pig citizen olympic";
+var mnemonic = "harvest warrior much nose unable surprise uncover depth table car girl sort";

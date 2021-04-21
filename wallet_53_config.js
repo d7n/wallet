@@ -1,1 +1,1 @@
-var mnemonic = "sheriff cube copy assume cable chapter basic add parent town panther bottom";
+var mnemonic = "drop armor tiger strike knee under powder rally cheese seminar ribbon famous";

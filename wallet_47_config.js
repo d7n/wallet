@@ -1,1 +1,1 @@
-var mnemonic = "empty program brown jaguar genuine close pencil safe cliff stairs point shoot";
+var mnemonic = "pilot open energy typical brush ocean pride scout warfare slow stick cute";

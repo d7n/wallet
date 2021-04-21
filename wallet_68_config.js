@@ -1,1 +1,1 @@
-var mnemonic = "sense stumble fantasy donkey mimic define path income cage other misery arrow";
+var mnemonic = "frozen tissue idle corn during celery where rebel cargo upon enable debate";

@@ -1,1 +1,1 @@
-var mnemonic = "ice female ivory hub setup valid insect plunge mouse attack source pole";
+var mnemonic = "panic found interest inmate scale tunnel edit sphere copy galaxy airport utility";

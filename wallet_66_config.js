@@ -1,1 +1,1 @@
-var mnemonic = "error tortoise spy aware print convince idle rather region trigger chaos also";
+var mnemonic = "stumble twice ankle caught cream job skull author quick sword myth jungle";

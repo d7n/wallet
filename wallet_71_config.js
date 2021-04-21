@@ -1,1 +1,1 @@
-var mnemonic = "vintage mule account neck list chicken object zoo finish dish domain brave";
+var mnemonic = "middle across alcohol phone casino exercise bamboo sign rally position tenant tail";

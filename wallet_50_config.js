@@ -1,1 +1,1 @@
-var mnemonic = "blood blind middle orchard hidden enact property easy desert rain embark brisk";
+var mnemonic = "entire siren portion fish tonight pencil chalk eternal auction picture luggage grab";

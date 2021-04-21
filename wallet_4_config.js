@@ -1,1 +1,1 @@
-var mnemonic = "wage worth company pen green together govern country jazz bamboo cushion atom";
+var mnemonic = "learn nest outside drill bamboo pole middle blame album bar gloom feature";

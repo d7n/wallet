@@ -1,1 +1,1 @@
-var mnemonic = "shine recall price piano tunnel cricket lonely tobacco path balance jazz brush";
+var mnemonic = "minimum motion sea service amateur inside safe van reflect pass good truly";

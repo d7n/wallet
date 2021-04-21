@@ -1,1 +1,1 @@
-var mnemonic = "tomato ticket edge used foam army globe manual alter name moon please";
+var mnemonic = "asset waste claim crane check catalog fly seminar route seek trade ice";

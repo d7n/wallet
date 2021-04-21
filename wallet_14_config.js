@@ -1,1 +1,1 @@
-var mnemonic = "middle intact rebel mosquito awake angle sense dinner lake fade thought game";
+var mnemonic = "flower script honey family much analyst express angry wage install banner city";

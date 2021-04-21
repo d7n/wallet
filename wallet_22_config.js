@@ -1,1 +1,1 @@
-var mnemonic = "penalty rally join cotton lunch frown feed hurry reason response panic song";
+var mnemonic = "put celery device abuse armed easily spike build ask ship ramp frozen";

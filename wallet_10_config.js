@@ -1,1 +1,1 @@
-var mnemonic = "extra border grab either lady olympic bottom young cigar remember leader uphold";
+var mnemonic = "fiber file fatigue change speed card blossom total hero snow wet laugh";

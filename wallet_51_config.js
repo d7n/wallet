@@ -1,1 +1,1 @@
-var mnemonic = "option legal segment zebra cereal knife ghost script someone cream foot message";
+var mnemonic = "minor order scrub ignore inspire skin blade vivid flower scene broken ready";

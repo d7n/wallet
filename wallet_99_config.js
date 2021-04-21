@@ -1,1 +1,1 @@
-var mnemonic = "spice survey december frog lumber join once pond ordinary beauty bundle urban";
+var mnemonic = "solution spot brief column hammer sell seminar swamp innocent cross issue citizen";

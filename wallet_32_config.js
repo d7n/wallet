@@ -1,1 +1,1 @@
-var mnemonic = "word art invite base sense citizen mom space spirit vapor giggle degree";
+var mnemonic = "shell there issue celery wave mandate decorate come abstract climb funny fade";

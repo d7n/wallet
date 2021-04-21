@@ -1,1 +1,1 @@
-var mnemonic = "syrup basket fashion can clinic actor pipe spring pipe note sudden tube";
+var mnemonic = "motion wonder tired act robust possible word axis provide evolve side trial";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh begin bachelor virus salt ignore little feature unit symbol cup sound";
+var mnemonic = "flee purchase baby clog audit anger grace tooth heart piano rail palace";

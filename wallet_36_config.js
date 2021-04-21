@@ -1,1 +1,1 @@
-var mnemonic = "fancy pair senior celery clay wide crystal priority deliver warfare rely rely";
+var mnemonic = "cactus record turkey ghost raven debate index bomb online okay hockey fault";

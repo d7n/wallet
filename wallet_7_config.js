@@ -1,1 +1,1 @@
-var mnemonic = "select tribe atom inherit knife hidden between dutch nominee feed hip fold";
+var mnemonic = "express stuff chapter excuse someone wave kidney spoon glance soup scrap script";

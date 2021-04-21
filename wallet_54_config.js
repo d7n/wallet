@@ -1,1 +1,1 @@
-var mnemonic = "sure trend net waste artefact vivid cricket erosion smile pilot already any";
+var mnemonic = "fatal sphere satoshi game remember elite history bonus crouch drip project knee";

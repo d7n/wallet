@@ -1,1 +1,1 @@
-var mnemonic = "level mammal feel excuse snack alone clutch chef horse oven develop exclude";
+var mnemonic = "mimic advice true harvest antenna engine sick blossom letter settle elephant north";
