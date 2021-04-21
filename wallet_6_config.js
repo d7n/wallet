@@ -1,1 +1,1 @@
-var mnemonic = "image auto innocent ice what blue swallow virtual middle blush prosper doctor";
+var mnemonic = "mercy crowd burger magic sphere tuition kitten legend animal lazy party hunt";

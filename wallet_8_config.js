@@ -1,1 +1,1 @@
-var mnemonic = "patrol demise present dog face supreme caution flat school cement tooth monster";
+var mnemonic = "vessel desk window enhance broccoli good parent silk wagon defense hen axis";

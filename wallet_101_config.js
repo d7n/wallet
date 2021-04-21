@@ -1,1 +1,1 @@
-var mnemonic = "mercy embark square tongue injury group giant embody manual travel interest soccer";
+var mnemonic = "wreck rare kick flame album sting fringe clerk practice fabric gap session";

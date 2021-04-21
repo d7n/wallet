@@ -1,1 +1,1 @@
-var mnemonic = "lazy keen wife erupt about today pottery nose bone whip kangaroo assault";
+var mnemonic = "unfold toe tumble loan produce roast wrong behave start knife vacuum curious";

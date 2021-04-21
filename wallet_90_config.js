@@ -1,1 +1,1 @@
-var mnemonic = "top mind unfold require blast warfare crowd diamond level midnight canal normal";
+var mnemonic = "amazing flight metal nuclear current royal salute inject moment bicycle way else";

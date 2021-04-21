@@ -1,1 +1,1 @@
-var mnemonic = "buyer basket select kiwi drip possible patch garlic spawn arena rhythm this";
+var mnemonic = "fan air wet control perfect top result account favorite repair plug ship";

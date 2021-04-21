@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin feature resource lock nature stay crane liar script amazing hair equip";
+var mnemonic = "eager thunder strong wild case mother security false quiz size general copy";

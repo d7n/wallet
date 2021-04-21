@@ -1,1 +1,1 @@
-var mnemonic = "two cover orbit alien promote ahead double insane seek basic student purpose";
+var mnemonic = "lend edge inherit consider animal dust shadow path anxiety casino fortune scan";

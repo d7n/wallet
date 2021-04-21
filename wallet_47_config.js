@@ -1,1 +1,1 @@
-var mnemonic = "rapid permit guard version scrub ladder drastic video wagon educate pulse recipe";
+var mnemonic = "process potato issue debris sunny raw black fancy seek fun autumn orient";

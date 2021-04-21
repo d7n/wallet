@@ -1,1 +1,1 @@
-var mnemonic = "power license picture mention solar bamboo dress humor minute elevator crawl alter";
+var mnemonic = "jazz safe elevator tourist jewel coin pact round theory south seat reward";

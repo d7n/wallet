@@ -1,1 +1,1 @@
-var mnemonic = "reward fatal engage cup mix chalk shell unable leisure human rug click";
+var mnemonic = "mistake tiger know crystal thumb coconut apart fortune boost else uncover merge";

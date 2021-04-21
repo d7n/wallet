@@ -1,1 +1,1 @@
-var mnemonic = "message punch awful street insect used road squeeze degree acquire visa future";
+var mnemonic = "employ dice mutual dry subway kitchen mad super breeze income sugar rubber";

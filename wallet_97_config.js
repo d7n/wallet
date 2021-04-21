@@ -1,1 +1,1 @@
-var mnemonic = "romance poem social tongue salmon lumber discover cake uphold bus slim ice";
+var mnemonic = "prepare admit unaware lake fox iron element leader during under series agent";

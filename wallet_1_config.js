@@ -1,1 +1,1 @@
-var mnemonic = "bleak client pear economy sweet endless tuna swim wall hungry clog apart";
+var mnemonic = "trip car side play season gossip glue fold urge piece energy debris";

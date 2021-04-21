@@ -1,1 +1,1 @@
-var mnemonic = "sibling wood faint attract regret spirit excite throw theory apple buffalo print";
+var mnemonic = "grass trend bread kid pool bottom cattle spend blanket balance shine promote";

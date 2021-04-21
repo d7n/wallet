@@ -1,1 +1,1 @@
-var mnemonic = "differ slot width staff help dumb stereo stereo evolve body melody great";
+var mnemonic = "wear stomach joke favorite envelope fragile arrow air symbol noise liberty fuel";

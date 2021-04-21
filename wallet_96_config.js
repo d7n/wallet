@@ -1,1 +1,1 @@
-var mnemonic = "master toy million rate easy fatal survey click hybrid then retire trick";
+var mnemonic = "hurry turkey cage club state detect save usual paper exchange artefact toast";

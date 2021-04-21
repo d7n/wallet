@@ -1,1 +1,1 @@
-var mnemonic = "involve beach price stock wrap high bag winter muffin century come mystery";
+var mnemonic = "weapon affair purpose marriage message rebel foster where razor crumble crack foil";

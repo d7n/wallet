@@ -1,1 +1,1 @@
-var mnemonic = "rigid guide license vibrant web vote fold trim inhale original diesel caught";
+var mnemonic = "maple ecology velvet knife law wide bitter eagle cement result gain ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "jump multiply soup castle glide rough apple crowd mimic adjust swarm fossil";
+var mnemonic = "ghost liar define wheel tell pattern hungry blue cousin belt remind agent";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage pitch mention lawsuit volcano rival useless wrong elbow response wool fish";
+var mnemonic = "gather jelly edit toss coast gorilla frog awesome rural group must poet";

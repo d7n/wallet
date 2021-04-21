@@ -1,1 +1,1 @@
-var mnemonic = "wink little crack flash rough foam wage aunt guard two tackle property";
+var mnemonic = "double caution perfect immune sketch wolf erosion ribbon nation smart segment flight";

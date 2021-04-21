@@ -1,1 +1,1 @@
-var mnemonic = "soup purse lemon meat soap fiber nice soccer usage head zebra grit";
+var mnemonic = "pizza stool fashion vessel coyote meadow win blame edit glow salute weasel";

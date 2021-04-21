@@ -1,1 +1,1 @@
-var mnemonic = "aisle blouse jazz hour dose biology wing clay provide broccoli dune bachelor";
+var mnemonic = "oval initial midnight tag embody proof romance web food slice barrel cluster";

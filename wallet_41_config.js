@@ -1,1 +1,1 @@
-var mnemonic = "decide capital bottom gift shoe file once collect dry vocal sure pluck";
+var mnemonic = "use muffin outdoor burden hero oppose slow conduct panel giant demand analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "deny special salon melody present enemy raise stomach path soul garlic female";
+var mnemonic = "swift merge develop screen outside release option method setup question find panic";

@@ -1,1 +1,1 @@
-var mnemonic = "air jacket just have tuna endorse strike grunt depend goat admit rose";
+var mnemonic = "fragile draw execute apple reveal absorb gesture weekend lesson health task wheat";

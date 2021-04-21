@@ -1,1 +1,1 @@
-var mnemonic = "ahead quarter scrub wisdom father crash butter exhibit buyer magic upper garden";
+var mnemonic = "flush valley various decline stamp oppose net danger spirit alter pretty usage";

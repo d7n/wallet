@@ -1,1 +1,1 @@
-var mnemonic = "service jelly version laundry man power sense little title coffee void fiber";
+var mnemonic = "puzzle edit bachelor athlete spoon leg peanut scatter outer quantum field tobacco";

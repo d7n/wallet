@@ -1,1 +1,1 @@
-var mnemonic = "domain search away narrow dirt dilemma put quarter glide record ritual faith";
+var mnemonic = "net busy clinic census pride capable card give glove crazy mixed tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "treat basket display clock forest danger okay struggle general polar toilet border";
+var mnemonic = "fire emotion oyster poem shrimp better lobster talk street into hazard fan";

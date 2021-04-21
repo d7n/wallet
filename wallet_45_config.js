@@ -1,1 +1,1 @@
-var mnemonic = "opinion fan suspect tiger suffer knee feel shove wrap random bike table";
+var mnemonic = "boil hill fiber parrot sadness unaware emerge move cheese crane fat adapt";

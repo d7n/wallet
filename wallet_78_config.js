@@ -1,1 +1,1 @@
-var mnemonic = "skate whisper imitate there moral fox catalog language finger bottom snack fan";
+var mnemonic = "brief escape another isolate smoke route pact whisper vehicle bread dilemma above";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin rice bracket cereal drastic sunset kingdom cherry path lemon adult athlete";
+var mnemonic = "stairs crash able family kind tuition casual peace miss bubble soccer pig";

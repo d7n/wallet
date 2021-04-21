@@ -1,1 +1,1 @@
-var mnemonic = "mystery village rate false absent mind toward green pilot win photo ability";
+var mnemonic = "soap advice census frozen gain report ivory rotate play broom follow foil";

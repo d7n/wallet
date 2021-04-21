@@ -1,1 +1,1 @@
-var mnemonic = "juice world ready honey frost flame reject wasp load stamp arrange aspect";
+var mnemonic = "winter hover shoe alien top believe artist salad obtain emerge cruise coconut";

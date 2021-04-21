@@ -1,1 +1,1 @@
-var mnemonic = "hurt cricket super mule involve thrive various reflect hurt neutral tribe test";
+var mnemonic = "fire lamp blood erode move sleep boost million diet gallery renew trial";

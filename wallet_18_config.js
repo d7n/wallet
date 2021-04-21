@@ -1,1 +1,1 @@
-var mnemonic = "slim weasel evil hammer priority slot wonder mass giraffe purchase drive eyebrow";
+var mnemonic = "refuse add wall struggle travel trim inside lobster dial track ensure impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "oil recall easily ice pill online right raw bridge acoustic deer brisk";
+var mnemonic = "hole copy lumber kingdom shop print chest fox coffee punch crucial still";

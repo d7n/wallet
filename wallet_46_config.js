@@ -1,1 +1,1 @@
-var mnemonic = "wire improve bullet rate opera bar tackle note tide despair lady forest";
+var mnemonic = "fade eight sad leisure human crouch month friend reunion version reflect venture";

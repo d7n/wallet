@@ -1,1 +1,1 @@
-var mnemonic = "erosion luxury april remind smoke brisk math soccer home thumb hamster bracket";
+var mnemonic = "punch cotton erode input spray ordinary tuna duty museum fat monkey rain";

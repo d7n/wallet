@@ -1,1 +1,1 @@
-var mnemonic = "prepare often tiny december paddle protect guitar sort flock reject purchase senior";
+var mnemonic = "brain laptop melt eyebrow alarm cause repair price august wide bulk kiss";

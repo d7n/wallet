@@ -1,1 +1,1 @@
-var mnemonic = "arch skill circle kite seven school joke flip army reflect legend can";
+var mnemonic = "decorate develop medal mountain road chuckle perfect purchase recall math gown anchor";

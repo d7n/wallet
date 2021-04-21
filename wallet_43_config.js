@@ -1,1 +1,1 @@
-var mnemonic = "flip universe saddle always such garden friend ordinary hospital away metal outdoor";
+var mnemonic = "pause account quote favorite furnace hungry pupil clap giggle crisp cook clock";

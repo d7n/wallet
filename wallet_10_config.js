@@ -1,1 +1,1 @@
-var mnemonic = "range tilt hero circle build biology ten tenant animal index enforce humor";
+var mnemonic = "absent private water ecology derive address choose squeeze supply park degree vessel";

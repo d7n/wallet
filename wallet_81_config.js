@@ -1,1 +1,1 @@
-var mnemonic = "rack asset math eternal duty sample stone distance chat remind today scare";
+var mnemonic = "energy key illegal only enough mountain camp hub sick march badge warm";

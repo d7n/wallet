@@ -1,1 +1,1 @@
-var mnemonic = "endorse finish regular cupboard mercy budget minute walk motor vehicle chuckle style";
+var mnemonic = "brother drop trend young across wait vivid marine soul subject ethics motion";

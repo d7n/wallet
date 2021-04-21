@@ -1,1 +1,1 @@
-var mnemonic = "exclude beauty fetch apple garden body patient rib pond sweet render used";
+var mnemonic = "milk amount oblige hidden math unaware length point fury local dumb salon";

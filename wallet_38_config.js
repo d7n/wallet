@@ -1,1 +1,1 @@
-var mnemonic = "flat produce afraid crew engine vanish prevent suit great fever obscure approve";
+var mnemonic = "bridge coast foster page scorpion marine shuffle naive kingdom ask grant trouble";

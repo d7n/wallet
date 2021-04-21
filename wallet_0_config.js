@@ -1,1 +1,1 @@
-var mnemonic = "busy strategy traffic private brown panic desert fox slab twelve cage ability";
+var mnemonic = "exotic quarter machine silk time swim sail stove panel snake minute jeans";

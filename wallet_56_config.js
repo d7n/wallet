@@ -1,1 +1,1 @@
-var mnemonic = "rapid trip journey spend evil nominee abstract clever weapon dove true horror";
+var mnemonic = "caught ramp donor expire angle champion dolphin hand tenant poet cream bleak";

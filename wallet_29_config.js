@@ -1,1 +1,1 @@
-var mnemonic = "cheap nephew wealth buzz rib solar tunnel matrix skill spot horror abstract";
+var mnemonic = "poverty race night page prison crop message depend lock away aspect flush";

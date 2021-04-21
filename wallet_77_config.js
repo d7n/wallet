@@ -1,1 +1,1 @@
-var mnemonic = "hospital neck express style transfer core metal neither good over globe broken";
+var mnemonic = "maid cloth lyrics main elephant panther loyal degree ball hill zone run";

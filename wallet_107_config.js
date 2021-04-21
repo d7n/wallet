@@ -1,1 +1,1 @@
-var mnemonic = "predict matter coach cube elevator casino price donor myth hand sort wood";
+var mnemonic = "hole oval cost session rival cluster crawl author round private manual ocean";

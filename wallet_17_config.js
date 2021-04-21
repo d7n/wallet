@@ -1,1 +1,1 @@
-var mnemonic = "toilet wealth face wire illness fringe mechanic patch old distance pretty amused";
+var mnemonic = "icon since enact stereo document boil future various cat real announce mule";

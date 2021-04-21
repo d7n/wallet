@@ -1,1 +1,1 @@
-var mnemonic = "fault hole garage design can wasp kitchen panel common bulk swift tennis";
+var mnemonic = "mansion biology invite debate shell shove dragon typical document broken loyal know";

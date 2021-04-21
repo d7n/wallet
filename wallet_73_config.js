@@ -1,1 +1,1 @@
-var mnemonic = "host bag chest flower frown rack lazy accident luggage pond build future";
+var mnemonic = "repeat sleep boring sleep ghost puzzle card intact invite shine fossil then";

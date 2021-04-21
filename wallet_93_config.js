@@ -1,1 +1,1 @@
-var mnemonic = "fun hover solve festival rapid peanut split fat exclude hover organ will";
+var mnemonic = "trouble invite amateur vapor title team better achieve final ritual drip eye";

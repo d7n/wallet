@@ -1,1 +1,1 @@
-var mnemonic = "try layer lottery sentence inspire knife tuna gorilla angle denial point quote";
+var mnemonic = "cloud project hair width noble drill fun ill exchange brisk mean ecology";

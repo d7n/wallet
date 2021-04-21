@@ -1,1 +1,1 @@
-var mnemonic = "swap soft name exercise panther analyst two universe isolate wool physical wood";
+var mnemonic = "lab mistake scissors select life glass pluck mirror citizen silly shuffle organ";

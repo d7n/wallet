@@ -1,1 +1,1 @@
-var mnemonic = "phrase impact still little vocal make blush chapter round busy away finish";
+var mnemonic = "awful drop best boost post enact ketchup office grant vendor drama position";

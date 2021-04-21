@@ -1,1 +1,1 @@
-var mnemonic = "gold also achieve carry talent minute noodle bounce elder school quit tonight";
+var mnemonic = "stairs hurdle alone clarify across clean zone festival gift practice body cement";

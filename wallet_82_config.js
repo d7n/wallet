@@ -1,1 +1,1 @@
-var mnemonic = "verify ketchup border become borrow frequent case lunch animal feed blade caution";
+var mnemonic = "game lunch hunt tent tooth sight dilemma physical amazing side movie iron";

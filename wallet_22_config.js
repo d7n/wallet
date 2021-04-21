@@ -1,1 +1,1 @@
-var mnemonic = "mechanic morning hospital focus essence upgrade indoor rigid tilt vessel forward business";
+var mnemonic = "pistol exclude consider ghost quality annual atom cook ranch tiger script produce";

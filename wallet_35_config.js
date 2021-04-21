@@ -1,1 +1,1 @@
-var mnemonic = "stone height oxygen approve stay leave park peasant catalog major word shed";
+var mnemonic = "puppy provide remove accuse custom warm legend vacant imitate creek steak heavy";

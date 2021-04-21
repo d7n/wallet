@@ -1,1 +1,1 @@
-var mnemonic = "audit symptom rival fatal old shallow clump dust imitate leopard super blossom";
+var mnemonic = "service sketch shrimp hamster flock surface life course require potato lobster give";

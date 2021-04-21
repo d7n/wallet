@@ -1,1 +1,1 @@
-var mnemonic = "sugar debris maze erase bright bulk together cattle cable toward exercise shadow";
+var mnemonic = "donkey reopen scene ring sting stay coral evoke oblige blade coconut wrong";

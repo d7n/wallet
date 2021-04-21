@@ -1,1 +1,1 @@
-var mnemonic = "spot burden usage jewel tube melody erase sunset poet slow boil category";
+var mnemonic = "idea resource doll weather noise traffic monkey put dynamic fix little ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "switch south damp flip total rich trophy slice walk limit worry blood";
+var mnemonic = "mansion guide simple evoke topic simple flip across agent impose clean alien";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic attract have carpet seek cactus repeat wish solid rubber anchor list";
+var mnemonic = "random ocean bounce morning kitten morning measure social pyramid aim rich solid";

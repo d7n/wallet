@@ -1,1 +1,1 @@
-var mnemonic = "dragon bitter hill clay evil buzz talk present disagree bullet because swift";
+var mnemonic = "soap hard sustain purpose urban gesture popular wrap mystery damp spoil moment";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth film net include smoke century license exotic penalty member pony naive";
+var mnemonic = "angry pill same toddler holiday immense burst indoor edit host garlic topple";

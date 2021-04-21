@@ -1,1 +1,1 @@
-var mnemonic = "tower produce rate early drip pyramid young benefit joke advice country twist";
+var mnemonic = "lemon finger example thrive infant marriage earn venue immune jacket pen indoor";

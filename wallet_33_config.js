@@ -1,1 +1,1 @@
-var mnemonic = "filter silver connect result make awesome inflict tape banana drive vintage enrich";
+var mnemonic = "bulk jacket convince program pool mom movie clerk loyal make exclude visual";

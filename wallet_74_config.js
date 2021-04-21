@@ -1,1 +1,1 @@
-var mnemonic = "immune indicate bike must glass dust dream wolf violin ribbon trash hip";
+var mnemonic = "collect gap bunker fox bind media frown trash educate embody short snake";

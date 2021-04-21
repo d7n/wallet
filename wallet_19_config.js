@@ -1,1 +1,1 @@
-var mnemonic = "agree pause hard report alarm punch nurse pepper rescue universe shell wave";
+var mnemonic = "opinion desert carbon pigeon horror orient great exchange attack tell forget taste";

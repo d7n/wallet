@@ -1,1 +1,1 @@
-var mnemonic = "offer beyond fluid canyon drop romance already warfare wrap harsh friend sunset";
+var mnemonic = "run coffee machine kit embody crane hybrid wolf average tray language mean";

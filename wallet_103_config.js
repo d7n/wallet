@@ -1,1 +1,1 @@
-var mnemonic = "aunt pulp can pigeon choose game innocent little brush dragon eyebrow small";
+var mnemonic = "nasty veteran cherry divert avoid length field keen tuition mountain provide erode";

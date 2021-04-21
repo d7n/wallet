@@ -1,1 +1,1 @@
-var mnemonic = "crowd salt oval bike wish soda junk circle lawsuit slogan govern flock";
+var mnemonic = "spy rule organ armor picture surface toward shadow local ignore gallery case";

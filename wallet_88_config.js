@@ -1,1 +1,1 @@
-var mnemonic = "water volcano flat gauge snake ankle harbor mom blossom inherit exist expire";
+var mnemonic = "test window road throw ladder town first fortune region genre spider city";

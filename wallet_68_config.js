@@ -1,1 +1,1 @@
-var mnemonic = "jar often model anger dad transfer deputy era faculty expand hood person";
+var mnemonic = "minor human betray they join inquiry clutch mutual author spray pretty rent";

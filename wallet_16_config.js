@@ -1,1 +1,1 @@
-var mnemonic = "story myself horse switch brain business useless rich blossom island woman trust";
+var mnemonic = "resource anchor drip ski enhance battle usage pass tell true roof labor";

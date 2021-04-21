@@ -1,1 +1,1 @@
-var mnemonic = "almost area picnic mixture gospel enhance ozone loan side boost visual below";
+var mnemonic = "much family document basic grief glide cook polar athlete bomb cause economy";

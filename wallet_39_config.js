@@ -1,1 +1,1 @@
-var mnemonic = "garlic path weather escape mixed cereal yellow salute fruit indicate wasp rich";
+var mnemonic = "soap horse travel universe attend gadget doll paper cup reflect pen proud";

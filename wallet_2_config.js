@@ -1,1 +1,1 @@
-var mnemonic = "seven organ across fiction anchor before more later corn season vendor truth";
+var mnemonic = "empty exchange excess bamboo sad require theory hint estate test solid above";

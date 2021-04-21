@@ -1,1 +1,1 @@
-var mnemonic = "month ethics cattle pulp noodle diamond fresh town alert account cave birth";
+var mnemonic = "curtain satoshi angry prize ankle income jealous clutch brick shrimp dragon then";

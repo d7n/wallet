@@ -1,1 +1,1 @@
-var mnemonic = "confirm smart element abandon bachelor divorce burden hungry hazard pair poet legend";
+var mnemonic = "elevator eyebrow atom uncle marriage style spray current trouble mail client fetch";

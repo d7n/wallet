@@ -1,1 +1,1 @@
-var mnemonic = "blade mad flame install regular during palm tide danger history tuition name";
+var mnemonic = "suggest ice lend identify give claw family display broom inch wise belt";

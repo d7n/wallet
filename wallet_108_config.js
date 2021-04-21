@@ -1,1 +1,1 @@
-var mnemonic = "measure talent capable size journey trial barely radar message alert tired puzzle";
+var mnemonic = "they dog spirit fantasy middle laugh daughter dice more sunny fame theme";

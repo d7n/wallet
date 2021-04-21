@@ -1,1 +1,1 @@
-var mnemonic = "stool village trend garbage long special final inside attack deposit vibrant please";
+var mnemonic = "demise dutch wine bunker sight engage wreck weasel vicious symbol torch marble";

@@ -1,1 +1,1 @@
-var mnemonic = "twin deny human hover cupboard filter bomb nominee leave cabbage hard shoe";
+var mnemonic = "access pair intact toe kick empower sure borrow what six badge doll";

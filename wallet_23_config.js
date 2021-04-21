@@ -1,1 +1,1 @@
-var mnemonic = "cigar apology cotton zone hand capital entry cannon tape elephant volcano truth";
+var mnemonic = "praise slender trigger mom bag neither seat age document distance budget street";

@@ -1,1 +1,1 @@
-var mnemonic = "theory sheriff trouble creek brass six siege give jelly liquid arrow isolate";
+var mnemonic = "often very bring orbit chronic fabric coil sketch either slam tunnel punch";
