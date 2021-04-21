@@ -1,1 +1,1 @@
-var mnemonic = "derive balance evolve neutral twist mad throw rally boy mesh motion atom";
+var mnemonic = "expire near funny found science group alpha index sing physical broom humble";

@@ -1,1 +1,1 @@
-var mnemonic = "hood perfect music divert distance resist advice brain trial spot lumber perfect";
+var mnemonic = "eager grocery merit thought assault armor topple seed motion toilet sell warm";

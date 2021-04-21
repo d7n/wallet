@@ -1,1 +1,1 @@
-var mnemonic = "away sign unfold small apple argue travel tornado mention rapid leopard expire";
+var mnemonic = "fossil approve polar magic squirrel trigger era desert bubble gym develop pipe";

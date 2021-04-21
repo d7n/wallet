@@ -1,1 +1,1 @@
-var mnemonic = "mirror spring option cross pulp step gather will twin mass life rally";
+var mnemonic = "tilt actual make comfort stand village crop present dash index inhale torch";

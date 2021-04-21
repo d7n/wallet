@@ -1,1 +1,1 @@
-var mnemonic = "leader pass lock notice omit glove sort cheese onion cheese elephant addict";
+var mnemonic = "push traffic clump maximum ramp snake car need parade biology cycle moon";

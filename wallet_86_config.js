@@ -1,1 +1,1 @@
-var mnemonic = "age mobile october health supply never rotate drop term mandate annual music";
+var mnemonic = "hurry peanut tortoise magnet special depart among label champion economy desert scheme";

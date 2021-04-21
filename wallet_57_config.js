@@ -1,1 +1,1 @@
-var mnemonic = "lunar peanut desk question act yard crop luggage head slender hurdle lumber";
+var mnemonic = "claw rib pig silk news deposit unique laptop limit horror dry tobacco";

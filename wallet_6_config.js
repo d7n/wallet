@@ -1,1 +1,1 @@
-var mnemonic = "top correct wink catalog unusual fit burst gain wealth wolf maple gospel";
+var mnemonic = "project depth fiction observe armed grit risk lesson athlete useful client cannon";

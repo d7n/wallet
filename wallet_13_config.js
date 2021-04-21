@@ -1,1 +1,1 @@
-var mnemonic = "exchange cheese crowd possible news royal orange length book mass below degree";
+var mnemonic = "wedding great nominee vital river blossom avoid mouse original basket income accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "identify topple axis upper risk blood mechanic close square ranch obvious joke";
+var mnemonic = "crater hill citizen sentence total coral inject need arch regret capital hedgehog";

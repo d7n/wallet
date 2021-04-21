@@ -1,1 +1,1 @@
-var mnemonic = "promote kid camp giraffe strike cry work stomach flee knee sense absorb";
+var mnemonic = "method junior battle desert moon dad execute sibling render destroy session ensure";

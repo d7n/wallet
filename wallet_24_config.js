@@ -1,1 +1,1 @@
-var mnemonic = "ripple gadget ability summer iron region police viable shaft wide try favorite";
+var mnemonic = "sea chapter indoor blame lion viable mutual front scatter glide word use";

@@ -1,1 +1,1 @@
-var mnemonic = "will normal toddler that ugly circle enlist seed cannon group coach enough";
+var mnemonic = "radio arrest index either genius vague cactus actress mutual aim village mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "crop blossom agent reward away negative episode robot asset mango catch master";
+var mnemonic = "excess night thunder piece naive pride afraid air elephant orange horse solve";

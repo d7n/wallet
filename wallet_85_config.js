@@ -1,1 +1,1 @@
-var mnemonic = "ahead search author figure exact catch acoustic unique boat define fragile cruel";
+var mnemonic = "anchor conduct picnic donor accuse fade bike text swift sustain people beauty";

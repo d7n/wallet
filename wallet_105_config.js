@@ -1,1 +1,1 @@
-var mnemonic = "inside team category pottery green citizen vessel obey mixed rival flee bright";
+var mnemonic = "foot police ocean happy side term focus shock boring cycle strategy make";

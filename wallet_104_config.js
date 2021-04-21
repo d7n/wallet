@@ -1,1 +1,1 @@
-var mnemonic = "lazy similar sing blade lyrics alley soda clip robot project rate story";
+var mnemonic = "document rival ribbon describe opera cactus maximum someone talent come sunny appear";

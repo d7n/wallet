@@ -1,1 +1,1 @@
-var mnemonic = "lake six group cricket add anchor tuition trumpet usual wonder walnut throw";
+var mnemonic = "estate document execute modify whip river castle ghost guard eternal paddle drop";

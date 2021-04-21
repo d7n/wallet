@@ -1,1 +1,1 @@
-var mnemonic = "scan fluid soldier brush oak churn hero vast biology panda buffalo elbow";
+var mnemonic = "movie woman empower shove razor humble fox velvet shoulder trim voyage robust";

@@ -1,1 +1,1 @@
-var mnemonic = "sting security business lamp dynamic express square gap spare regular bread company";
+var mnemonic = "crane fresh journey around scissors they sound orange wedding afraid degree crime";

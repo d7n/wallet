@@ -1,1 +1,1 @@
-var mnemonic = "zero today similar enjoy gadget false brown hat hip expose crash force";
+var mnemonic = "water dance fluid symbol rescue voice laundry wheel appear alcohol security few";

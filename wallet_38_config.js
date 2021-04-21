@@ -1,1 +1,1 @@
-var mnemonic = "update hope average balance emotion warfare mansion habit wave elegant blossom exhaust";
+var mnemonic = "portion tomato dune scan elbow panel wagon copy bunker trouble science robot";

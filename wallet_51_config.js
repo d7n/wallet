@@ -1,1 +1,1 @@
-var mnemonic = "creek effort frozen smoke kit romance ride lecture unaware timber giggle recipe";
+var mnemonic = "kind record skull bacon grab summer coral pole galaxy idle fold whisper";

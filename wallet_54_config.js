@@ -1,1 +1,1 @@
-var mnemonic = "rule wild eye hand theory curve kick border notable message door huge";
+var mnemonic = "cruise soda elegant armor unaware music dial vague juice together finish decade";

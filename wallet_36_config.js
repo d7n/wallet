@@ -1,1 +1,1 @@
-var mnemonic = "useful news divide glove initial wrong profit absent sketch nasty hover magic";
+var mnemonic = "tilt clever cream desert aim govern tired public dolphin lift rare puzzle";

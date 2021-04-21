@@ -1,1 +1,1 @@
-var mnemonic = "shine theme fortune circle tennis wheat frequent entry must lady legal agree";
+var mnemonic = "conduct sugar subway quit travel trust honey border forum online velvet garage";

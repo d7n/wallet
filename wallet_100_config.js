@@ -1,1 +1,1 @@
-var mnemonic = "wing ski steak giraffe lonely spy water omit ugly act knife have";
+var mnemonic = "stone life eight black ankle lady amount elbow rent agent pattern face";

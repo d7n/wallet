@@ -1,1 +1,1 @@
-var mnemonic = "symptom lend coil produce wink step enhance two control scheme enter hurdle";
+var mnemonic = "soon film salmon text fork cover pass sight element maximum detect scan";

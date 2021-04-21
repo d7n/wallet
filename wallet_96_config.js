@@ -1,1 +1,1 @@
-var mnemonic = "tattoo program crush tattoo grunt kind egg pioneer cook future prison weekend";
+var mnemonic = "bag sell student salt inch address bonus canvas pistol since recycle marine";

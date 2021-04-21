@@ -1,1 +1,1 @@
-var mnemonic = "shrimp exercise hero boring caught cash affair process note ship wear shrimp";
+var mnemonic = "sport select empty alarm zone split siege click maze inquiry balcony ankle";

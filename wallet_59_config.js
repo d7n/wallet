@@ -1,1 +1,1 @@
-var mnemonic = "include pig embrace garage sock obvious party bus ten autumn piano poet";
+var mnemonic = "hospital mutual draw magic usual home urge clay fossil light deliver print";

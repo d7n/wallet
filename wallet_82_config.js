@@ -1,1 +1,1 @@
-var mnemonic = "chuckle card middle capital short prosper gospel trick pause heart excuse dog";
+var mnemonic = "august depth theory involve common river bracket educate pioneer hover valve bar";

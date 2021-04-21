@@ -1,1 +1,1 @@
-var mnemonic = "voyage plunge egg another occur task used vintage refuse maximum secret hole";
+var mnemonic = "copper major elephant tell mixed skate tonight demand child carpet demand vicious";

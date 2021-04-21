@@ -1,1 +1,1 @@
-var mnemonic = "arrange comfort rotate velvet owner supreme stock judge whale amateur tower hover";
+var mnemonic = "kiwi wild dizzy long betray inject skate guide swap version eternal boring";

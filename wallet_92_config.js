@@ -1,1 +1,1 @@
-var mnemonic = "school volcano term payment sight sunset main velvet upset era shrug warm";
+var mnemonic = "drink cancel say rice bundle dragon cargo wagon quiz traffic spell lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "neither now trade bunker sudden east wrong demise rhythm manual make cannon";
+var mnemonic = "carry wood run energy balance head ring loyal robust junk fatigue volcano";

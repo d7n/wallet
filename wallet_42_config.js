@@ -1,1 +1,1 @@
-var mnemonic = "card shuffle razor voice prize mean wasp lazy issue pond able ritual";
+var mnemonic = "cricket chronic filter heavy surface security minor asthma valid quarter stage inject";

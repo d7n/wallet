@@ -1,1 +1,1 @@
-var mnemonic = "dove park festival rack toe olive pulse wish reject salute explain safe";
+var mnemonic = "crane merit switch fiscal input drill farm arrive wish cube vapor whale";

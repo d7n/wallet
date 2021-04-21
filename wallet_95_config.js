@@ -1,1 +1,1 @@
-var mnemonic = "grab tunnel grunt surround slight share camera build nurse cabin sphere jump";
+var mnemonic = "detail bamboo cabin hip frame chair laugh common payment switch prepare symbol";

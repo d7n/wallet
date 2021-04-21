@@ -1,1 +1,1 @@
-var mnemonic = "auto eyebrow rich flame cruel belt owner drink pretty mosquito cycle nature";
+var mnemonic = "fence abstract wild spread true indoor vote ball concert photo relief deal";

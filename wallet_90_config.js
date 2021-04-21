@@ -1,1 +1,1 @@
-var mnemonic = "drink version tip design soft prevent jar peace know leaf hire south";
+var mnemonic = "enlist ribbon gold sight copper fun witness install enable chaos decide cry";

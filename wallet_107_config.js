@@ -1,1 +1,1 @@
-var mnemonic = "popular menu range beyond velvet fly inhale stool vibrant year hamster punch";
+var mnemonic = "kiss knife scare meadow cart brisk chapter ice mule climb jump boy";

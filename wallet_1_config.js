@@ -1,1 +1,1 @@
-var mnemonic = "world live lion gospel bulk laugh mountain potato fish penalty remind behave";
+var mnemonic = "spread second section citizen body require century spirit addict bless raise want";

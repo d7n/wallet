@@ -1,1 +1,1 @@
-var mnemonic = "romance coach harsh improve dutch blast game coral animal mix wood mimic";
+var mnemonic = "kangaroo crop very prosper abuse idle update energy talent palm century sister";

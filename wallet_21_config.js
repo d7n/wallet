@@ -1,1 +1,1 @@
-var mnemonic = "trap approve scout diamond eight scrap veteran mandate slab noodle garbage exclude";
+var mnemonic = "aspect fancy face radio love blame kangaroo olive weekend always toddler novel";

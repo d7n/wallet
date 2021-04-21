@@ -1,1 +1,1 @@
-var mnemonic = "olympic asthma accident doctor receive session pepper bronze walnut marble purity try";
+var mnemonic = "festival december grace keep belt equip sign spirit hobby remove tuna shop";

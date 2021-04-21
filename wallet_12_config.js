@@ -1,1 +1,1 @@
-var mnemonic = "busy dinosaur salad rate honey burger debris citizen grace mushroom public limb";
+var mnemonic = "oak wish pact before comic peace initial oak nerve border crane pill";

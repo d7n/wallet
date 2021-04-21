@@ -1,1 +1,1 @@
-var mnemonic = "salmon flag opinion kick oil alert sort zoo region program dune december";
+var mnemonic = "couple indicate talk anxiety next beauty good truth number unusual source jelly";

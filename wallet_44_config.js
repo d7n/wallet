@@ -1,1 +1,1 @@
-var mnemonic = "truth cover hole endorse submit blur radio aware cry core pitch knife";
+var mnemonic = "toy element emerge lesson fee hockey resource swim gospel beauty wild liquid";

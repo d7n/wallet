@@ -1,1 +1,1 @@
-var mnemonic = "helmet hope leader canyon hub little angle illegal insane stumble square doctor";
+var mnemonic = "timber town trash asset common smoke defy anchor pistol wisdom mandate exotic";

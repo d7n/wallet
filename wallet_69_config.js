@@ -1,1 +1,1 @@
-var mnemonic = "water lake accident napkin focus list hospital fan column cactus ensure crash";
+var mnemonic = "reason south misery cherry close total kind disagree shy daughter sausage quit";

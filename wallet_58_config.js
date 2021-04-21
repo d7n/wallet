@@ -1,1 +1,1 @@
-var mnemonic = "duck slush label end soon cable theory arrange crater flight captain goat";
+var mnemonic = "favorite retire firm pelican first wrist cook clay sketch defy awful silver";

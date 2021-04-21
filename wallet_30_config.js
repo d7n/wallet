@@ -1,1 +1,1 @@
-var mnemonic = "dragon local replace action pulp pretty fall pink hint clock smoke pyramid";
+var mnemonic = "cook rely wagon hello mutual taste double outdoor pulp quality super wedding";

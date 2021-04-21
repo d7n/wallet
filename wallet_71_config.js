@@ -1,1 +1,1 @@
-var mnemonic = "later winter glass size jazz embark fall electric sunset car canyon thrive";
+var mnemonic = "attract east bone siren picture palm seminar prize alcohol success drip model";

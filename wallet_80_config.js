@@ -1,1 +1,1 @@
-var mnemonic = "illness liberty dad vintage border soldier shy crater inherit one meadow mandate";
+var mnemonic = "pencil detail wine chaos design mention abandon noble tomorrow doctor snap social";

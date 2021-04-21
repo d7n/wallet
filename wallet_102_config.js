@@ -1,1 +1,1 @@
-var mnemonic = "robust blur lend clay prosper robust rotate leg bachelor reflect hole kidney";
+var mnemonic = "vast liquid minute output also trip question manage license congress prefer digital";

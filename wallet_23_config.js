@@ -1,1 +1,1 @@
-var mnemonic = "empty ready stock whisper there device acoustic wage soon assume inject empty";
+var mnemonic = "year finish fatigue trust civil pulp move cluster always punch middle dash";

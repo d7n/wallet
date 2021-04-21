@@ -1,1 +1,1 @@
-var mnemonic = "file argue liar dinosaur blanket thing power elegant rich front catch frequent";
+var mnemonic = "boat badge idea ready situate come power alarm crack tennis illness jar";

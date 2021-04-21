@@ -1,1 +1,1 @@
-var mnemonic = "clip dutch smoke write sentence saddle simple dizzy limb bullet ride radio";
+var mnemonic = "creek lunch dream balcony toddler throw image life guitar earn month salt";

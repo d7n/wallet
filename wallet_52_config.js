@@ -1,1 +1,1 @@
-var mnemonic = "juice veteran dragon update dinner icon wasp carry bounce almost true country";
+var mnemonic = "february state winter lesson trip lion advance antique metal immune again appear";

@@ -1,1 +1,1 @@
-var mnemonic = "banner clarify final subway second attract jeans bitter awake weird various enemy";
+var mnemonic = "practice record silk raccoon hurry guard prize dove detect task dinosaur fee";

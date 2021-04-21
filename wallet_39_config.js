@@ -1,1 +1,1 @@
-var mnemonic = "nature bonus wage version nice loan sword network behind stomach pluck fiber";
+var mnemonic = "same audit hockey exit pyramid organ voice rule address staff draw core";

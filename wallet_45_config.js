@@ -1,1 +1,1 @@
-var mnemonic = "cable fetch grace spy faith mobile sister private hammer april video faculty";
+var mnemonic = "resemble one fault chimney century book glue drastic country reduce casual fish";

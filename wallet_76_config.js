@@ -1,1 +1,1 @@
-var mnemonic = "rookie junk small mirror federal broken tail idea smooth half cancel shift";
+var mnemonic = "apology milk put awful vocal section doll sing autumn art glass genuine";

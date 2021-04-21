@@ -1,1 +1,1 @@
-var mnemonic = "track olive all return wedding tuition explain velvet oyster unlock hundred lamp";
+var mnemonic = "paddle throw wrong tide echo paper used traffic rather vague arrive bonus";

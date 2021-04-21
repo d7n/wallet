@@ -1,1 +1,1 @@
-var mnemonic = "light prepare spray walnut kingdom pill correct action film salon else team";
+var mnemonic = "account mansion demand attend donor grow bottom ketchup bring toddler panic hint";

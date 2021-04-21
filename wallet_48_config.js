@@ -1,1 +1,1 @@
-var mnemonic = "decline invite cable parent bag soul hazard prepare clinic giggle vibrant globe";
+var mnemonic = "west unfold pottery execute gain index meadow bomb robust dove impose diamond";

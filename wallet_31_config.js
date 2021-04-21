@@ -1,1 +1,1 @@
-var mnemonic = "enhance when when army spread yard critic just april junior olympic pair";
+var mnemonic = "stumble scatter short stuff bench symptom same crime garlic pink fish jungle";

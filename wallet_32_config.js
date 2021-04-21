@@ -1,1 +1,1 @@
-var mnemonic = "noble whip sister faith answer sand civil muscle century rotate shell flower";
+var mnemonic = "bird edit pass mom tree stable senior ship dust dose wrap swim";

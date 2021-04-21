@@ -1,1 +1,1 @@
-var mnemonic = "jar jar item estate usage treat file short fiscal rely episode winner";
+var mnemonic = "face alley oxygen tobacco wonder bachelor six false rose tobacco fade salmon";

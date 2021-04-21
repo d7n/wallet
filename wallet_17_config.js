@@ -1,1 +1,1 @@
-var mnemonic = "please sea tube explain science leisure habit come donate credit mistake result";
+var mnemonic = "view silent tonight build steel fatigue chief artefact number goat adjust term";

@@ -1,1 +1,1 @@
-var mnemonic = "basket comfort scrap menu depth board fancy dentist table glue organ volume";
+var mnemonic = "gather replace pyramid pluck slim loop similar bus poverty palm grain glare";

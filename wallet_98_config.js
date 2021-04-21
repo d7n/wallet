@@ -1,1 +1,1 @@
-var mnemonic = "butter lion fee critic breeze milk ugly wheat depend omit ill carpet";
+var mnemonic = "trust april confirm shove ostrich document step heavy viable face orient account";

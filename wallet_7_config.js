@@ -1,1 +1,1 @@
-var mnemonic = "subway baby zoo panda ivory rubber away host diesel length famous sustain";
+var mnemonic = "that garbage slot spread achieve caught lens merit vehicle student bean cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "butter chimney sudden crowd mean memory royal garment vanish awful depart tip";
+var mnemonic = "entire mouse parent bicycle fatigue execute dash joke giggle exist copper scrap";

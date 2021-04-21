@@ -1,1 +1,1 @@
-var mnemonic = "excess feature swamp skin direct exchange hamster select pluck pass fashion property";
+var mnemonic = "advance fit smoke symbol better item stock lion fix rare file artist";

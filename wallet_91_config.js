@@ -1,1 +1,1 @@
-var mnemonic = "fashion install worth fresh receive magnet angle time render copy shoe zebra";
+var mnemonic = "false jewel whale farm meat boring escape avoid build boss hammer amused";

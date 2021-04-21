@@ -1,1 +1,1 @@
-var mnemonic = "romance behave simple control lazy hole avoid siege story oyster blush castle";
+var mnemonic = "need equal better quick crazy keen order come student south mouse stand";

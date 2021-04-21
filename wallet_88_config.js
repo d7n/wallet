@@ -1,1 +1,1 @@
-var mnemonic = "kidney select museum mercy shy like barrel warfare cake agent script village";
+var mnemonic = "vehicle afraid year brand there bar jealous boring enough coral before blood";

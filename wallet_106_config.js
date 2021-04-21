@@ -1,1 +1,1 @@
-var mnemonic = "pill amazing muscle ring exhaust pipe unknown control rookie slow frost stay";
+var mnemonic = "opinion prevent food stereo skull essay ugly return agree category interest august";

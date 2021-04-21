@@ -1,1 +1,1 @@
-var mnemonic = "finish night isolate car owner banner lounge note absurd nation debate seek";
+var mnemonic = "output payment symbol total nest pond tornado resist danger alert slot outdoor";

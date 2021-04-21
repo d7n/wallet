@@ -1,1 +1,1 @@
-var mnemonic = "innocent abandon shop smooth endless cost educate differ fortune recipe woman sword";
+var mnemonic = "sock raw excite security coast news crouch uniform bar thunder year urban";

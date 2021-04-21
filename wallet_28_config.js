@@ -1,1 +1,1 @@
-var mnemonic = "vote casino thunder ahead maid indoor knife trumpet stairs capital hollow account";
+var mnemonic = "old sauce penalty hunt van broken worth kitchen cover number already trophy";

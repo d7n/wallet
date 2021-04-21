@@ -1,1 +1,1 @@
-var mnemonic = "chicken spend anxiety cliff advice pride hen between enemy hammer digital consider";
+var mnemonic = "income safe fix north cousin install novel robot side daughter arrest wrist";

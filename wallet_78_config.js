@@ -1,1 +1,1 @@
-var mnemonic = "jar try welcome today manual puzzle file history lava fix truly ripple";
+var mnemonic = "beauty section trouble simple material taxi lumber fee head hybrid prize hero";

@@ -1,1 +1,1 @@
-var mnemonic = "jar deposit voyage glow major exercise bag agent athlete royal kid long";
+var mnemonic = "finish unusual regular smooth garbage cheap dawn stone giraffe lyrics crane cute";

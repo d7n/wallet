@@ -1,1 +1,1 @@
-var mnemonic = "stool parent reject draw height poverty length river disease word false ship";
+var mnemonic = "doll soup under detect conduct pear dismiss frozen mother garage swear copper";

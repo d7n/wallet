@@ -1,1 +1,1 @@
-var mnemonic = "fog kidney jacket soldier deposit lab veteran super liquid devote output legend";
+var mnemonic = "spoon badge net power search hockey ribbon marriage protect gas biology hope";

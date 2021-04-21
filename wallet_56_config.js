@@ -1,1 +1,1 @@
-var mnemonic = "seed concert miracle erode dragon crouch museum can room pink boost wide";
+var mnemonic = "bronze very know card blade hurdle genius weird grocery what hub pole";

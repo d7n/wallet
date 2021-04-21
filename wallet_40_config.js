@@ -1,1 +1,1 @@
-var mnemonic = "blanket auction boost immense festival bicycle setup powder there praise forward home";
+var mnemonic = "foil eyebrow joy list race orchard hockey provide outdoor file diamond banana";

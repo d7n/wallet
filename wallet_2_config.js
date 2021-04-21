@@ -1,1 +1,1 @@
-var mnemonic = "impose symptom foot vicious wonder sentence since rely blood buyer refuse pond";
+var mnemonic = "now section fade liquid relax sheriff still position drift spike usage plastic";

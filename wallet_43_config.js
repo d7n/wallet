@@ -1,1 +1,1 @@
-var mnemonic = "rent click buyer remember script dash assault vapor skull globe lawsuit hundred";
+var mnemonic = "spread bright spatial action thunder acquire category tackle soap health rifle way";
