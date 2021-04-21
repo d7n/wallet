@@ -1,1 +1,1 @@
-var mnemonic = "accident pelican essence inspire tiger guard find glue victory middle where first";
+var mnemonic = "episode pink private idle bachelor sponsor horror acid miracle artist ill copy";

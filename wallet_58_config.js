@@ -1,1 +1,1 @@
-var mnemonic = "spring obtain attract figure order deliver notable cruel sword choice canal target";
+var mnemonic = "taste poverty decline pull outdoor cabin unknown other tooth find pony vital";

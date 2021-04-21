@@ -1,1 +1,1 @@
-var mnemonic = "credit possible coast bargain salon exact detect hole payment budget tonight decorate";
+var mnemonic = "hen icon food vivid square real crowd clutch crater trap client clay";

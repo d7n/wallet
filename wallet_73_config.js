@@ -1,1 +1,1 @@
-var mnemonic = "soldier spike once robot slender agent artist stay snack nephew area habit";
+var mnemonic = "west grape silk bid improve force birth can tenant page license clog";

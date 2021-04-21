@@ -1,1 +1,1 @@
-var mnemonic = "spoil salt educate author venue salad pen craft muffin announce call myself";
+var mnemonic = "recycle false crazy crack subject book tent abstract cattle real sound outer";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy stage cotton black victory occur tip spend mom bind dutch ancient";
+var mnemonic = "run rhythm clock use bonus flash cross interest sting yard seminar belt";

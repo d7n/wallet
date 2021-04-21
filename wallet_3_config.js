@@ -1,1 +1,1 @@
-var mnemonic = "lecture stove fish winter major keen steak jaguar cost neck honey neutral";
+var mnemonic = "acoustic obey what verify level horn oxygen lobster police boss panda domain";

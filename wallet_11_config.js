@@ -1,1 +1,1 @@
-var mnemonic = "rib school wheat loyal cancel result lyrics slow love song ride girl";
+var mnemonic = "music valve fault capital decade supply marble ball force prize clown trumpet";

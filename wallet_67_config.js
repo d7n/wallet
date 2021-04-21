@@ -1,1 +1,1 @@
-var mnemonic = "punch dog transfer bacon seek include peanut brick ecology muffin expand lonely";
+var mnemonic = "ten light fish soon goddess scorpion stand air decide car meat enough";

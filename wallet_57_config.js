@@ -1,1 +1,1 @@
-var mnemonic = "stamp win wash fire sort mule eagle battle permit shoot capable debate";
+var mnemonic = "palm journey depth era outer live tiny combine forest vacant reward lazy";

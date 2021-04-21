@@ -1,1 +1,1 @@
-var mnemonic = "sauce winner hazard luxury where raise stand car hunt tag mechanic absorb";
+var mnemonic = "sausage swamp kit settle hope middle until boost alcohol later remain mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "plug proud among object crisp stage suit path eagle idle arrow place";
+var mnemonic = "need kick false cook undo jungle cram security unfold tortoise moon symbol";

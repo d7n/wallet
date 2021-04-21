@@ -1,1 +1,1 @@
-var mnemonic = "neither rifle lobster ticket must tenant average antique reflect keen gorilla crisp";
+var mnemonic = "hollow awake chalk tower horse limit garlic possible whale have federal swamp";

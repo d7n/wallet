@@ -1,1 +1,1 @@
-var mnemonic = "tray argue law rotate wool mask decline round dog mirror scrub skate";
+var mnemonic = "lion torch mix crisp fancy ranch robust hundred bounce leave paper damage";

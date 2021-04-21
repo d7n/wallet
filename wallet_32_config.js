@@ -1,1 +1,1 @@
-var mnemonic = "obey tragic gloom question cruel ghost miracle wool kangaroo science theme ancient";
+var mnemonic = "minor seminar brown high grow amount ladder virtual junior topic dawn endorse";

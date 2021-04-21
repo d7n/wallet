@@ -1,1 +1,1 @@
-var mnemonic = "vault ribbon ripple explain dumb alert fiber copy treat explain during erupt";
+var mnemonic = "host organ list trigger knock amused nose egg crime taste shallow actress";

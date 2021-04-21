@@ -1,1 +1,1 @@
-var mnemonic = "believe marble axis accident uniform tilt call cereal asthma stone pen half";
+var mnemonic = "eagle script crush admit they fog history group topic picnic sphere biology";

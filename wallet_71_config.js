@@ -1,1 +1,1 @@
-var mnemonic = "bridge certain cinnamon soda chase street search can ocean dad question chalk";
+var mnemonic = "type fade slab virus space series random nerve only field clerk distance";

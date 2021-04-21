@@ -1,1 +1,1 @@
-var mnemonic = "lion abandon wonder forward section thank clarify present state inject surround library";
+var mnemonic = "ginger panel usage wisdom unfold vendor load pyramid purse execute mixed argue";

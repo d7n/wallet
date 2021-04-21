@@ -1,1 +1,1 @@
-var mnemonic = "hat anxiety predict arrange spin silly logic layer enact earn blade flush";
+var mnemonic = "reveal tide rug item usual soldier aunt banana wasp vintage service captain";

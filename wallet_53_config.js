@@ -1,1 +1,1 @@
-var mnemonic = "hire orient moment transfer oyster giraffe city trust useful coffee oak often";
+var mnemonic = "crane ride avocado stock solution icon genre canoe arch various either honey";

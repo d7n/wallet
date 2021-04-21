@@ -1,1 +1,1 @@
-var mnemonic = "shaft joke army grit cabin scout purity valve upper clever cupboard mandate";
+var mnemonic = "cook vicious elite pottery around exile lonely meadow use oxygen effort coral";

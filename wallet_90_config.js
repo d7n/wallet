@@ -1,1 +1,1 @@
-var mnemonic = "device nephew prison tongue dismiss marine horn pet cave above usual girl";
+var mnemonic = "post wash raise bunker debris sell still bronze enter critic side oak";

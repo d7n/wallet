@@ -1,1 +1,1 @@
-var mnemonic = "bus rather water fury gossip glow wolf train budget swamp cabin stamp";
+var mnemonic = "kingdom gap cannon gallery van lock meat brick depend mystery frost machine";

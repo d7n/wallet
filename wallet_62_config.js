@@ -1,1 +1,1 @@
-var mnemonic = "attract alcohol still diesel allow auction camera improve laugh puppy save donor";
+var mnemonic = "aspect scan bar lesson corn welcome crush shield zoo flee heavy cactus";

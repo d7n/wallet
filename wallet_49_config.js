@@ -1,1 +1,1 @@
-var mnemonic = "elder round tumble vivid sad color live inmate motor neither drink cinnamon";
+var mnemonic = "october derive oppose spell match pear reward cart swear maple quick symptom";

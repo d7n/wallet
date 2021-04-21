@@ -1,1 +1,1 @@
-var mnemonic = "alcohol owner differ comfort resist measure modify wash bind sheriff source cousin";
+var mnemonic = "fee cat fortune mask hub atom arrow crisp snake opera connect affair";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd hand alien inspire clay hurdle forum cable coach family picnic tobacco";
+var mnemonic = "cabbage wise industry remind hotel tired heart mad misery bounce teach brief";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty pretty about cloud myth dial acquire anxiety steel thank forum section";
+var mnemonic = "culture wheat virtual tortoise world rifle odor abuse question apart gorilla sun";

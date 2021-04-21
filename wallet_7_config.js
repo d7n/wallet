@@ -1,1 +1,1 @@
-var mnemonic = "this sausage stable lawn vintage speed sudden moral debris antique vivid marriage";
+var mnemonic = "tonight mosquito people sibling unlock control cook route snap obtain such actress";

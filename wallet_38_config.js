@@ -1,1 +1,1 @@
-var mnemonic = "blade west during peasant spring swap feature flock renew range camera book";
+var mnemonic = "fun mutual manage legal census disorder card exit embrace together license awkward";

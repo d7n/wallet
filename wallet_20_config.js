@@ -1,1 +1,1 @@
-var mnemonic = "spirit grace skin acquire stem return rack uncle avocado outside ordinary hope";
+var mnemonic = "upset hotel patrol erupt come swing bid library balcony attend funny cheap";

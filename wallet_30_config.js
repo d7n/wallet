@@ -1,1 +1,1 @@
-var mnemonic = "skill initial either lecture team heavy error token icon welcome erupt climb";
+var mnemonic = "client wood orange artefact balance motion abuse item captain play close one";

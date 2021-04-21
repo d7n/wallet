@@ -1,1 +1,1 @@
-var mnemonic = "rose thing noble slice cluster budget intact step unaware miss tool dance";
+var mnemonic = "spring input now diesel theme network oxygen exercise ball frame fragile craft";

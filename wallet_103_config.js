@@ -1,1 +1,1 @@
-var mnemonic = "lizard horn pet team alert pupil lens wrong sleep galaxy odor fall";
+var mnemonic = "auction caught uncle law spatial title ecology elephant blue mother cloud title";

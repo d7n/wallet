@@ -1,1 +1,1 @@
-var mnemonic = "lesson cherry animal junk chair daring parrot hire bind child ecology double";
+var mnemonic = "brush save camp dilemma diagram behind ignore subject private song damage net";

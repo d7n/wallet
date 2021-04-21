@@ -1,1 +1,1 @@
-var mnemonic = "dry volcano glad option check mandate antique shoot gloom tomorrow fault baby";
+var mnemonic = "bless police trip tired enemy rural fragile fee giggle reflect card list";

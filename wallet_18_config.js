@@ -1,1 +1,1 @@
-var mnemonic = "popular possible turn purse smart culture negative theory lounge segment super van";
+var mnemonic = "kitchen boost around mad knock uncover genre wink chalk flock illness napkin";

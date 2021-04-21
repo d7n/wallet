@@ -1,1 +1,1 @@
-var mnemonic = "tiny toddler merry multiply aspect front pave weapon field kitten ticket pipe";
+var mnemonic = "crisp math tonight increase inquiry broken almost ask near armed meat hurt";

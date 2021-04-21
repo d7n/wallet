@@ -1,1 +1,1 @@
-var mnemonic = "forward length script trim student oval avocado gloom fame vault imitate legend";
+var mnemonic = "impact pill indoor pet hollow worth gadget fall legal salt cave economy";

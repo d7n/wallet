@@ -1,1 +1,1 @@
-var mnemonic = "volcano catalog village theory bulb since diesel panther wreck awkward dragon budget";
+var mnemonic = "skin rose mansion spawn north magic dwarf either defense hamster render month";

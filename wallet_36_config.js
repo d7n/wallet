@@ -1,1 +1,1 @@
-var mnemonic = "lunar pony stem ketchup blood globe just there near expose nation guilt";
+var mnemonic = "uniform oxygen economy swamp quantum rail lounge fold lava credit crowd spice";

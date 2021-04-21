@@ -1,1 +1,1 @@
-var mnemonic = "forum output chief material smoke void elevator toe once goddess myself patch";
+var mnemonic = "enrich cruise accuse daring labor wall morning sphere arm credit iron grant";

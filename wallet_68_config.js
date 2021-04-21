@@ -1,1 +1,1 @@
-var mnemonic = "rule acquire chapter federal soup alley enlist effort illness raccoon nest fly";
+var mnemonic = "very boost liberty rifle slot super cook where delay emotion forget green";

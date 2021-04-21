@@ -1,1 +1,1 @@
-var mnemonic = "quote guess patch aware found thank blush slogan stadium web minor brother";
+var mnemonic = "tribe analyst exist crouch body situate pink spring volume device century purse";

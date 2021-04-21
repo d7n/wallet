@@ -1,1 +1,1 @@
-var mnemonic = "glue riot enrich quiz brick velvet rifle youth pumpkin person liberty oval";
+var mnemonic = "stand team album tobacco bid grid nice recall media crazy lens endorse";

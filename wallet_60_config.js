@@ -1,1 +1,1 @@
-var mnemonic = "arrow blue bike uncover account device utility wood faint head source stairs";
+var mnemonic = "arena know waste slot width then damage doctor dinner prevent zone price";

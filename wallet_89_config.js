@@ -1,1 +1,1 @@
-var mnemonic = "awful winner will forest seed twenty tribe light deny fan leave suspect";
+var mnemonic = "birth arch seven outer comic strike cereal cage tribe perfect laundry abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "width useless accident help trust sorry session little renew blouse humble deputy";
+var mnemonic = "miss swing park road shrug little road turtle convince health travel usual";

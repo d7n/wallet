@@ -1,1 +1,1 @@
-var mnemonic = "pizza machine simple spend sort super off labor scrub deliver impact recycle";
+var mnemonic = "stuff addict oxygen wreck ethics screen vanish energy snow capital eye color";

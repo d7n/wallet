@@ -1,1 +1,1 @@
-var mnemonic = "minute mandate icon plunge stereo tackle roof census panic trick juice fragile";
+var mnemonic = "demand crazy police struggle goose transfer write trophy exit truth hand apology";

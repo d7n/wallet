@@ -1,1 +1,1 @@
-var mnemonic = "crowd image door assist dice tell divorce list apology lecture enforce can";
+var mnemonic = "spoon general bridge rebuild theme era vicious layer family flight token sure";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel van fish have always canal fly result stamp magic become sweet";
+var mnemonic = "distance hub over wrap tube wagon frozen badge predict hood arch cry";

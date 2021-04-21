@@ -1,1 +1,1 @@
-var mnemonic = "become fruit enjoy card bullet disagree awake attack agree shaft below concert";
+var mnemonic = "note hole stomach process engine garage glove cause wink wagon labor wide";

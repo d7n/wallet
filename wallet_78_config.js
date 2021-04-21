@@ -1,1 +1,1 @@
-var mnemonic = "layer aerobic kiss north segment affair luxury trim crouch student still scrub";
+var mnemonic = "public river tired ripple harvest input chef slot series call drama poverty";

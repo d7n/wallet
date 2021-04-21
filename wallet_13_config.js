@@ -1,1 +1,1 @@
-var mnemonic = "vault laptop mandate poverty border rack payment ill anger hotel siren multiply";
+var mnemonic = "predict assume salmon feed banner chronic erosion analyst vault multiply siege canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "access dumb food pink enemy identify earth harbor answer finish cherry decorate";
+var mnemonic = "earn double ethics mixture neglect huge certain knock tube group asthma fix";

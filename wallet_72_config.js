@@ -1,1 +1,1 @@
-var mnemonic = "lemon message video merry napkin fan damp awake bleak comic label hundred";
+var mnemonic = "private enter ghost punch legal option inch start level cram owner swing";

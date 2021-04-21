@@ -1,1 +1,1 @@
-var mnemonic = "penalty rhythm often melt high thank elite minimum initial heavy innocent truth";
+var mnemonic = "unlock sail buzz hello match kiwi repeat crisp legal good firm future";

@@ -1,1 +1,1 @@
-var mnemonic = "office rare person need secret soda strike march garden total debate rebel";
+var mnemonic = "item idle toast empty case magnet remove trend evolve bicycle define final";

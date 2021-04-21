@@ -1,1 +1,1 @@
-var mnemonic = "dragon spell morning extend result fault blame drama worth waste dirt traffic";
+var mnemonic = "air tuition salon practice april hire unlock hint man put twice reflect";

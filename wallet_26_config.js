@@ -1,1 +1,1 @@
-var mnemonic = "midnight science glue law rural improve push amount intact orbit sniff print";
+var mnemonic = "tip valid adapt figure fade bind poverty wood switch lunch amateur dinosaur";

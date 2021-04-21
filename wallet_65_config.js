@@ -1,1 +1,1 @@
-var mnemonic = "pitch notice morning world alley divert arrange innocent defense twenty message recipe";
+var mnemonic = "expand dry virtual opera crowd increase conduct almost hamster flight absent grape";

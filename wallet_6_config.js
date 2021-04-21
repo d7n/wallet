@@ -1,1 +1,1 @@
-var mnemonic = "ready school input cannon gesture remind fire crazy poem junk duck home";
+var mnemonic = "furnace bronze mango private arctic divide fly dry sustain margin toward pluck";

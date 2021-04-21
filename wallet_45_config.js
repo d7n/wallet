@@ -1,1 +1,1 @@
-var mnemonic = "flip scissors silly friend tonight poet melt chicken effort fog together decorate";
+var mnemonic = "live inch prize series assault column adapt someone bronze identify common shield";

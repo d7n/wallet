@@ -1,1 +1,1 @@
-var mnemonic = "scene wrap enough abandon water artwork defense debate design gym possible vanish";
+var mnemonic = "card traffic aunt pigeon gorilla finish patrol advice finish solid caution mom";

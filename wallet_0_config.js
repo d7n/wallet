@@ -1,1 +1,1 @@
-var mnemonic = "fork remove cram worth kid rice pulse cake morning citizen expand tenant";
+var mnemonic = "media mesh stem skin differ pole maximum egg fashion aspect drill dial";

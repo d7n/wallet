@@ -1,1 +1,1 @@
-var mnemonic = "category gadget alley bike fruit mirror school consider omit shoulder vacuum daring";
+var mnemonic = "pelican divert lonely outer prevent walk bacon left catalog base arena save";

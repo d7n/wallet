@@ -1,1 +1,1 @@
-var mnemonic = "pencil lesson access symbol flip merry around bulb veteran into fly elite";
+var mnemonic = "tennis between empower inside ecology hope hub seat tail tower that fringe";

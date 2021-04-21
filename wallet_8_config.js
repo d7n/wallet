@@ -1,1 +1,1 @@
-var mnemonic = "short tone stone nerve wolf uniform whale screen candy mansion over figure";
+var mnemonic = "vote draft trade cave host exchange spray eternal sleep amused demise obey";

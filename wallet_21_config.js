@@ -1,1 +1,1 @@
-var mnemonic = "kitchen radar tunnel frost marriage spell climb demise jungle unusual duck rally";
+var mnemonic = "flock coach analyst connect alpha document drink arctic ginger comfort chimney fragile";

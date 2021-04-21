@@ -1,1 +1,1 @@
-var mnemonic = "ensure need ship donkey ghost cricket salad decade bring rose possible pen";
+var mnemonic = "reopen knee grow laundry garment pepper orchard invite evolve flame friend patrol";

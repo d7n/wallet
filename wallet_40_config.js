@@ -1,1 +1,1 @@
-var mnemonic = "bamboo food unit senior dawn private thought angry snow circle ethics seed";
+var mnemonic = "category puppy sweet liquid crash limb sting bench child merry nature victory";

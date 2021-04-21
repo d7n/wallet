@@ -1,1 +1,1 @@
-var mnemonic = "mean mango dish marine remain useful toilet clog spin eyebrow illegal swarm";
+var mnemonic = "sustain settle legal trial bacon else coast home warm quit insane kiss";

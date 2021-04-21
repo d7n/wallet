@@ -1,1 +1,1 @@
-var mnemonic = "motor lady unveil member seat village leisure enjoy ozone ski lunar argue";
+var mnemonic = "bind asset thing much discover humble glare swarm voice army fortune purity";

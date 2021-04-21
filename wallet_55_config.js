@@ -1,1 +1,1 @@
-var mnemonic = "boost matrix swing usage attract volcano access arch spot express emerge depart";
+var mnemonic = "eagle vendor source object bag later token seat absent reopen reunion finish";

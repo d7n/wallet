@@ -1,1 +1,1 @@
-var mnemonic = "one marine spy tone inform list nerve blood strategy title scene belt";
+var mnemonic = "female symptom source obvious brick reveal expose birth fuel main rhythm gas";

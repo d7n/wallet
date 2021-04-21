@@ -1,1 +1,1 @@
-var mnemonic = "best apology olympic push strategy alien cargo ready index thought company gun";
+var mnemonic = "release license vast sausage tail chronic praise practice maid video romance pudding";

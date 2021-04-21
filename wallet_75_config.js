@@ -1,1 +1,1 @@
-var mnemonic = "ribbon chicken motion breeze steel predict jump tell tiger oppose hunt symbol";
+var mnemonic = "flee fever pattern pass jaguar enough hill boil reason patch wonder effort";

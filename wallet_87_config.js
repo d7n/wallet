@@ -1,1 +1,1 @@
-var mnemonic = "salmon forest uniform ski ensure matrix punch can sense upper before success";
+var mnemonic = "error trust vast goat few tired assist uncle romance trash orphan flag";

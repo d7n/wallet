@@ -1,1 +1,1 @@
-var mnemonic = "winter soup account swallow hold apart capital system fiction foam grid thumb";
+var mnemonic = "devote peasant episode cream sunset furnace joy world fancy regular eternal turtle";

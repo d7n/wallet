@@ -1,1 +1,1 @@
-var mnemonic = "wine session viable inflict square vicious exercise book search forget moon develop";
+var mnemonic = "plastic whale muscle ankle cabin appear artist shallow hurry rare sausage guess";

@@ -1,1 +1,1 @@
-var mnemonic = "evil grant dry misery silver foam scale find dinner song gadget also";
+var mnemonic = "deliver grit jewel chuckle denial puzzle large pact fiscal office chimney endorse";

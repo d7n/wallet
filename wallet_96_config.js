@@ -1,1 +1,1 @@
-var mnemonic = "image model tool grass furnace supply fee stand pact solid hire mystery";
+var mnemonic = "horse corn laugh match apple jaguar text weather abstract dirt pluck goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "mass cereal unaware style witness depth hole armor library can mystery broken";
+var mnemonic = "tobacco claw envelope wink chef clean sketch setup recall place ancient country";

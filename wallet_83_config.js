@@ -1,1 +1,1 @@
-var mnemonic = "envelope era nest outer tail fox blur blanket arrest fringe sand width";
+var mnemonic = "gravity wife ranch control lava amused easily salt arm shove swear muffin";

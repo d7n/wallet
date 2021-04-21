@@ -1,1 +1,1 @@
-var mnemonic = "swing pelican purpose inner unlock bean dance pyramid faith turtle believe banner";
+var mnemonic = "around myself clean pond senior bundle hurry narrow mean endless clog injury";

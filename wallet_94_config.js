@@ -1,1 +1,1 @@
-var mnemonic = "feel uncover select inch crime wonder daring very shine shove trust stove";
+var mnemonic = "unhappy cry candy vintage just print enemy about club zone cargo misery";

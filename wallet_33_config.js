@@ -1,1 +1,1 @@
-var mnemonic = "steel fortune expire trap away armor flight floor lizard invite market cluster";
+var mnemonic = "reason sentence bless budget unfold hurt trip master kitchen lemon cancel angry";

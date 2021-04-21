@@ -1,1 +1,1 @@
-var mnemonic = "smoke wood shed organ problem twenty bicycle slush hazard vanish target thumb";
+var mnemonic = "shiver slot dust later train ten peanut scheme tilt blame film choose";

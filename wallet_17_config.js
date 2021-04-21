@@ -1,1 +1,1 @@
-var mnemonic = "plunge pioneer link leisure pluck silver diamond tool little pink wreck foam";
+var mnemonic = "dust lab attract nice among chronic link zoo flee vacant place rule";

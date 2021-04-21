@@ -1,1 +1,1 @@
-var mnemonic = "elegant tired narrow post animal spring repeat bicycle fiber collect fancy rare";
+var mnemonic = "sadness guess roof you curtain valid impulse cannon multiply sheriff confirm goddess";

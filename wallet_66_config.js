@@ -1,1 +1,1 @@
-var mnemonic = "canyon snake artwork absorb mystery filter swamp atom abandon cool patrol galaxy";
+var mnemonic = "enforce pink evil blade couple tide web upon artist lend eager struggle";

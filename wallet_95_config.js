@@ -1,1 +1,1 @@
-var mnemonic = "negative palace season produce roast media basket visa seed check magnet lecture";
+var mnemonic = "scene weasel divorce scan jar salt victory jealous pond finish runway total";

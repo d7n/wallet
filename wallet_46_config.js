@@ -1,1 +1,1 @@
-var mnemonic = "unhappy night include uncover goat curtain bring infant purse polar deposit drama";
+var mnemonic = "dance ladder bargain early target weekend scale box enroll garbage oak worry";

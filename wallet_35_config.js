@@ -1,1 +1,1 @@
-var mnemonic = "uncle reject raw category slogan pepper inspire faculty web stadium nest train";
+var mnemonic = "intact audit fire race panda outside ugly clown scare mule elbow audit";

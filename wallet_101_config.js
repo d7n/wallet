@@ -1,1 +1,1 @@
-var mnemonic = "crash tourist drive file express noise menu gate burst trigger loyal leader";
+var mnemonic = "sell energy exact age wrap turn history sphere almost luxury tube remember";

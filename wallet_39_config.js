@@ -1,1 +1,1 @@
-var mnemonic = "travel stable anxiety cloth brave sheriff spend hold subway satisfy above reduce";
+var mnemonic = "fluid better fault buzz discover story october cement actor into noodle lion";
