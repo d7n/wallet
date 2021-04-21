@@ -1,1 +1,1 @@
-var mnemonic = "hollow list six unfold surface radar relax lava night average oval vehicle";
+var mnemonic = "snow answer impulse couple steel room cat north cook canvas luggage also";

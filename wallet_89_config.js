@@ -1,1 +1,1 @@
-var mnemonic = "company reason relax column cart rigid mechanic afraid festival vessel moment enable";
+var mnemonic = "claim spell cup series nice echo shop lumber bomb holiday common endorse";

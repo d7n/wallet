@@ -1,1 +1,1 @@
-var mnemonic = "aspect expect ankle there flee ancient funny impose three crunch settle next";
+var mnemonic = "lonely title rate rice pet merge car pig inhale guilt indicate bus";

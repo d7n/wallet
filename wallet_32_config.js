@@ -1,1 +1,1 @@
-var mnemonic = "window filter narrow exhibit property cannon early prepare bike apology odor cliff";
+var mnemonic = "combine square similar foam jar keep entire basic brisk egg nasty turn";

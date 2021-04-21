@@ -1,1 +1,1 @@
-var mnemonic = "spice patrol easy steak hole town fit major gather walk save jacket";
+var mnemonic = "stairs close matrix power main truly trim decade base gravity chase floor";

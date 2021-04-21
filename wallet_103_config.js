@@ -1,1 +1,1 @@
-var mnemonic = "surface arrest afford asset buyer rookie ghost champion foam industry fashion accuse";
+var mnemonic = "address battle bomb notable apology ski old energy suit worry mirror below";

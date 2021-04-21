@@ -1,1 +1,1 @@
-var mnemonic = "speak swim forget galaxy wine limb happy already cupboard section reason awkward";
+var mnemonic = "sport truck yard peanut uphold phrase super season term hobby current business";

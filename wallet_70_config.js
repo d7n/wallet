@@ -1,1 +1,1 @@
-var mnemonic = "liar wrong mother acid afford cupboard blast lake desert claw myth vessel";
+var mnemonic = "cinnamon task recipe mom empty always speak sea slim try thumb assume";

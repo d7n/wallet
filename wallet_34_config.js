@@ -1,1 +1,1 @@
-var mnemonic = "scheme million rigid panther craft engage palm caught mad solve exotic two";
+var mnemonic = "hat inside trigger fiscal shoot enemy own save castle faith private wash";

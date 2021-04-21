@@ -1,1 +1,1 @@
-var mnemonic = "subject february quiz steel general fantasy kiwi sniff keep ethics there only";
+var mnemonic = "pottery sketch typical lumber indoor cricket vital rubber rural twin child hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare stable husband glass fat frost model crop fetch option cash arena";
+var mnemonic = "hockey illness vote antique cargo cupboard rebel again please silk mountain lunar";

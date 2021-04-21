@@ -1,1 +1,1 @@
-var mnemonic = "diagram state coast broccoli scrub pull vault moral club cancel sweet muscle";
+var mnemonic = "surround crime raise wire exercise thunder excess legal voice rule emerge cupboard";

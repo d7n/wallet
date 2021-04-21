@@ -1,1 +1,1 @@
-var mnemonic = "prison budget wide talk arrive where breeze picture escape salad wrong laugh";
+var mnemonic = "fetch hawk bicycle twist need profit menu buyer around adapt load ivory";

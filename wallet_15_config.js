@@ -1,1 +1,1 @@
-var mnemonic = "utility affair base program tissue letter fade release scene wall force goddess";
+var mnemonic = "umbrella two swing describe ancient immense romance runway mechanic humble slight tail";

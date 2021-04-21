@@ -1,1 +1,1 @@
-var mnemonic = "churn bike adult boss online betray vacant mystery barrel aisle fan left";
+var mnemonic = "gaze inside add arrange budget fruit dirt rule method shield grape north";

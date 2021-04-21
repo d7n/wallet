@@ -1,1 +1,1 @@
-var mnemonic = "desk essence indoor draw merry tide tip truck express tape push few";
+var mnemonic = "quarter ecology tape make mutual equip real student liar trigger danger fat";

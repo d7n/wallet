@@ -1,1 +1,1 @@
-var mnemonic = "celery hungry asset quantum share title pyramid first clerk promote pencil pencil";
+var mnemonic = "badge security card teach divert long buffalo supreme hint rescue drink hour";

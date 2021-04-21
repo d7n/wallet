@@ -1,1 +1,1 @@
-var mnemonic = "fence dial virus firm latin cherry emotion dilemma napkin office become dizzy";
+var mnemonic = "snack lady indicate impose knock mean fiber funny champion lawsuit crucial olive";

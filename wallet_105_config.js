@@ -1,1 +1,1 @@
-var mnemonic = "kiss eagle bike lottery forget define charge course rifle easily pact wrap";
+var mnemonic = "seven entire supply spare chair knee wish market again sort meadow chat";

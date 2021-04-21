@@ -1,1 +1,1 @@
-var mnemonic = "exotic open between borrow truck collect water rude jewel cage tooth drift";
+var mnemonic = "evil blue cool goose copper rebel embark coral sail impose tuition jealous";

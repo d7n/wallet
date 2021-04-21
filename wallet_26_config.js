@@ -1,1 +1,1 @@
-var mnemonic = "ability solve web water base surface slow explain glue ritual vote entire";
+var mnemonic = "alcohol mind smoke volcano grid roof screen twelve hold memory industry example";

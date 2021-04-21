@@ -1,1 +1,1 @@
-var mnemonic = "biology poverty badge volcano escape cute orient bonus left dragon snack chronic";
+var mnemonic = "game because document panel fitness twice wink box length fork stomach wool";

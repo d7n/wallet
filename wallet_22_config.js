@@ -1,1 +1,1 @@
-var mnemonic = "green pole penalty amazing safe nut fresh glad female include feature smart";
+var mnemonic = "purse clog antique rhythm protect chronic burger kiwi luxury fever develop impact";

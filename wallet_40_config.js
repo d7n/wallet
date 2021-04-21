@@ -1,1 +1,1 @@
-var mnemonic = "inform beauty because joke merit install budget toward inflict buffalo hill asset";
+var mnemonic = "build doll chapter sing mass shoe train swim crater frown arrow barely";

@@ -1,1 +1,1 @@
-var mnemonic = "include ring myth vendor library victory neither clown train appear output since";
+var mnemonic = "horse together rare wild minor ginger guess wash success fee cricket awkward";

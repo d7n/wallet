@@ -1,1 +1,1 @@
-var mnemonic = "cloth someone dose extend second local morning wish humble divorce together theory";
+var mnemonic = "exhibit keen chest gown inherit bag food border zone final piece frame";

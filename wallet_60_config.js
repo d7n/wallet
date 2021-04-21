@@ -1,1 +1,1 @@
-var mnemonic = "when blame hire true gift mesh comic between observe duck mammal negative";
+var mnemonic = "expire estate act sleep time utility celery finish foot fruit book alert";

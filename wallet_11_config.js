@@ -1,1 +1,1 @@
-var mnemonic = "modify ten net person sing luxury recall captain hurry oblige castle pudding";
+var mnemonic = "fit demand tiger fashion struggle guide much ahead rack farm fragile analyst";

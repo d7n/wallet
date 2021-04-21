@@ -1,1 +1,1 @@
-var mnemonic = "say pupil wing found kick dice coin able plug cart voice vital";
+var mnemonic = "veteran misery pyramid test dry scan boost diary snake supreme cruise hire";

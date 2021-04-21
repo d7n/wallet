@@ -1,1 +1,1 @@
-var mnemonic = "wear raccoon achieve region tiger together unable world humor found human raw";
+var mnemonic = "outside hawk planet suffer pause brain employ profit august since mimic symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon denial stomach earn gorilla pony tip mutual public planet valve quiz";
+var mnemonic = "wheat sniff weasel mule true idle tired know saddle staff real palm";

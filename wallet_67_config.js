@@ -1,1 +1,1 @@
-var mnemonic = "state reduce tag burger person island lizard crop balance shoulder illness put";
+var mnemonic = "famous height gas peanut skirt street essay hurdle force write table license";

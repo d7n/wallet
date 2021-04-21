@@ -1,1 +1,1 @@
-var mnemonic = "retire crystal verify bridge gauge alone desk collect slide left empty hair";
+var mnemonic = "crew penalty neither prison relief ozone assault rough train enable suggest cliff";

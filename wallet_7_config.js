@@ -1,1 +1,1 @@
-var mnemonic = "jealous jelly dentist flash employ pudding saddle food track impact found famous";
+var mnemonic = "rent outdoor aim split inquiry task blossom view drop sun loan saddle";

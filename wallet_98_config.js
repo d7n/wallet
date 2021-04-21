@@ -1,1 +1,1 @@
-var mnemonic = "merge need soccer scatter slice identify hammer cross decrease violin sea outside";
+var mnemonic = "board review nest hawk camera border gift area aware child pave lady";

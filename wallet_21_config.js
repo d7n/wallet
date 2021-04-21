@@ -1,1 +1,1 @@
-var mnemonic = "move into skirt evolve used blanket peanut cotton faith drive cross club";
+var mnemonic = "total merge divorce about civil super idea race silk list hub curve";

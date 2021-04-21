@@ -1,1 +1,1 @@
-var mnemonic = "arm caught worry race hobby share salon predict cheap weasel category often";
+var mnemonic = "velvet fury upgrade total park motion case brush horror receive sad hope";

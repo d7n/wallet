@@ -1,1 +1,1 @@
-var mnemonic = "pilot unit state decrease uniform cinnamon just author glory cup daughter wise";
+var mnemonic = "purchase safe table tide artefact enforce west van topic myth dream long";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor adjust shiver ketchup health claw bar win right impulse fine valid";
+var mnemonic = "guitar donor random name exhibit convince fox believe toy solid panther legend";

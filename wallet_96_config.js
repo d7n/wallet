@@ -1,1 +1,1 @@
-var mnemonic = "minimum across coconut memory mail foil hat left wet meat saddle glimpse";
+var mnemonic = "panic cat catalog month erosion bright eagle struggle armed sheriff rain shock";

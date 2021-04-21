@@ -1,1 +1,1 @@
-var mnemonic = "gallery grant lend casino derive dice random measure nation goddess security coach";
+var mnemonic = "stuff culture barely creek radar leaf degree lion very tennis latin mask";

@@ -1,1 +1,1 @@
-var mnemonic = "feature dry punch grant marble vicious interest timber viable ahead trap pill";
+var mnemonic = "seven stamp crystal tell simple danger lemon bamboo manage lazy glory flush";

@@ -1,1 +1,1 @@
-var mnemonic = "naive kitchen exit foil lounge rebel drama bounce road alter tired uncover";
+var mnemonic = "report cricket genuine peasant clutch popular dose essay bundle end plug rapid";

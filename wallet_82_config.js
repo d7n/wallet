@@ -1,1 +1,1 @@
-var mnemonic = "gravity glass honey assume segment pair rebuild almost case cancel ski essay";
+var mnemonic = "region mention vapor hamster catalog movie useless retire height final lesson forum";

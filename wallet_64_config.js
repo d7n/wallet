@@ -1,1 +1,1 @@
-var mnemonic = "cart prevent riot property squirrel window galaxy marble lecture canvas only route";
+var mnemonic = "script coil hard child hurdle scare tunnel safe cup wide carpet celery";

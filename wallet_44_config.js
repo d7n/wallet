@@ -1,1 +1,1 @@
-var mnemonic = "poverty sphere lumber turkey penalty easily category gas reopen ski color shaft";
+var mnemonic = "magnet mango badge panda radio book student cliff weasel super near verb";

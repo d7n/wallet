@@ -1,1 +1,1 @@
-var mnemonic = "seat confirm autumn step hire curve misery light recycle panda engage dial";
+var mnemonic = "burst glove embark night hollow admit dog cross shine engine lend happy";

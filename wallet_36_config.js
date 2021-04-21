@@ -1,1 +1,1 @@
-var mnemonic = "road mass album clay giant lazy enemy canvas party bamboo palace bridge";
+var mnemonic = "permit subway blush loan solar fashion bridge device drama donate pink current";

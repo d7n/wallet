@@ -1,1 +1,1 @@
-var mnemonic = "canvas entry ripple tomorrow profit vague clown foot lizard inquiry lock gentle";
+var mnemonic = "leaf pottery valley define jump ozone engine crawl name exist advice fork";

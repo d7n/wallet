@@ -1,1 +1,1 @@
-var mnemonic = "oblige potato furnace swim now modify skate prize crunch treat anger verb";
+var mnemonic = "vote say spoon movie axis hidden dinner idea decrease turkey search worth";

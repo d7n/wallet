@@ -1,1 +1,1 @@
-var mnemonic = "snap senior maid swift jelly castle outside ski weird position artefact horse";
+var mnemonic = "crowd trip space crystal gift loop used coffee execute humble mercy belt";

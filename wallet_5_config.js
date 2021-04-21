@@ -1,1 +1,1 @@
-var mnemonic = "marriage dumb imitate theme three never ecology taxi system dawn shell mimic";
+var mnemonic = "must immune able lonely clock prepare treat cheese just patient napkin feel";

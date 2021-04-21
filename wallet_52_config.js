@@ -1,1 +1,1 @@
-var mnemonic = "yellow iron tag cart mix heavy frozen enhance mix canyon electric mule";
+var mnemonic = "cost gauge student rent laugh lock main junk fashion number visit leader";

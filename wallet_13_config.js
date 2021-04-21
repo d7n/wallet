@@ -1,1 +1,1 @@
-var mnemonic = "fatigue rate clog double arrest file found assume ribbon cargo dwarf lock";
+var mnemonic = "nurse pet such mirror room snap top ring taxi gift wrong page";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure distance rabbit drift reason slam blood when confirm vocal pluck myself";
+var mnemonic = "soap lizard gain beef spike tonight kingdom finger tuition across feed grid";

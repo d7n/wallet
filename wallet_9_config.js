@@ -1,1 +1,1 @@
-var mnemonic = "wash devote excite talk soon promote choose require garlic tip bracket siege";
+var mnemonic = "enact stock bar author olympic edge benefit label modify aisle save order";

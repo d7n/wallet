@@ -1,1 +1,1 @@
-var mnemonic = "hip coral merge basket cheap render rotate hair toast feel nerve fun";
+var mnemonic = "offer young arrive gaze eager evil stock toy laptop category trash remain";

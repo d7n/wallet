@@ -1,1 +1,1 @@
-var mnemonic = "luggage circle dash peace flush knee speak put stairs report input tornado";
+var mnemonic = "census expire melt try excess exhibit crane huge security vacant festival filter";

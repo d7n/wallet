@@ -1,1 +1,1 @@
-var mnemonic = "warrior science olive hair diagram maximum length buzz source know solid bunker";
+var mnemonic = "butter afford review bleak smart depart thrive chalk north title repair giggle";

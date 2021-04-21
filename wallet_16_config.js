@@ -1,1 +1,1 @@
-var mnemonic = "inherit select oven project guard winner saddle picture friend wink alley rice";
+var mnemonic = "magnet visit sail oak marble water antique size summer beef state floor";

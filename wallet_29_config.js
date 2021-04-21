@@ -1,1 +1,1 @@
-var mnemonic = "quit alien toast must devote bus word once juice sell square regular";
+var mnemonic = "damp seat weapon fever orange dad patrol cage climb hero fresh provide";

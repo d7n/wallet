@@ -1,1 +1,1 @@
-var mnemonic = "argue drop junk daring old differ income horse account fault nose swamp";
+var mnemonic = "neck tower oblige tattoo betray ski tooth crouch minute invest later prepare";

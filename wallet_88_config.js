@@ -1,1 +1,1 @@
-var mnemonic = "entire nature aware body close option ride seed clay brain cook glass";
+var mnemonic = "toddler seat sock dynamic cat suffer weapon arm pilot jacket ticket space";

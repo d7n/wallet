@@ -1,1 +1,1 @@
-var mnemonic = "spawn speak concert often nut frown puzzle rate enable nice cake quality";
+var mnemonic = "rally divert kit axis ramp service wide drink flower cannon hotel resource";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog camp glimpse certain test labor blood hello hybrid interest nasty myself";
+var mnemonic = "miss raise sign ordinary double smoke robust spy prevent actress vessel dinner";

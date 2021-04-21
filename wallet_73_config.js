@@ -1,1 +1,1 @@
-var mnemonic = "riot photo solar fabric expire series bright jealous flame upset album mirror";
+var mnemonic = "street pond ill sample toilet tackle gym bargain economy blade jump million";

@@ -1,1 +1,1 @@
-var mnemonic = "spider caught depart follow blouse lady skin angle round buddy recall faith";
+var mnemonic = "crumble cable few annual assist feature rapid cabbage legal marine hen tornado";

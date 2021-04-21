@@ -1,1 +1,1 @@
-var mnemonic = "medal found hammer lumber awake damage brave spend orange add chuckle sunny";
+var mnemonic = "stable piece rebel oil panda shine soda case resource fancy buyer abandon";

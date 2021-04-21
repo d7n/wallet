@@ -1,1 +1,1 @@
-var mnemonic = "cloud catalog mistake swift coin obvious friend sweet success animal weasel jeans";
+var mnemonic = "vibrant prevent margin loud opera auto sniff bundle sock easy lounge wage";

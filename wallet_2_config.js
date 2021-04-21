@@ -1,1 +1,1 @@
-var mnemonic = "action wreck govern sock love royal chaos drastic bench material pioneer swap";
+var mnemonic = "filter gaze nerve now beauty midnight jar mass voice glove flip neither";

@@ -1,1 +1,1 @@
-var mnemonic = "essay poet charge good emotion coil slush girl world gather evidence armed";
+var mnemonic = "army grow oblige return police federal silver place scatter ancient anchor source";

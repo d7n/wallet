@@ -1,1 +1,1 @@
-var mnemonic = "gesture absent together notable entire genre ecology feed dawn tattoo sign decrease";
+var mnemonic = "spirit lunch tube rug decline kiss lawn banana inspire endless insane sudden";

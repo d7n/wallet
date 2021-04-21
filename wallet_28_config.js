@@ -1,1 +1,1 @@
-var mnemonic = "ketchup toddler toast ozone involve galaxy venture legal october mutual affair north";
+var mnemonic = "wink tattoo gate mutual merit often bind entire teach donkey entire price";

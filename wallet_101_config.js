@@ -1,1 +1,1 @@
-var mnemonic = "depart shoot popular tomorrow primary addict giraffe coin crunch blur today start";
+var mnemonic = "pen faculty citizen today walk confirm school wet abandon excuse keep mind";

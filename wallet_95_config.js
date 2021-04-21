@@ -1,1 +1,1 @@
-var mnemonic = "own uniform world cricket wheat cricket wide gossip supply dwarf royal alter";
+var mnemonic = "process mouse egg excite float dismiss tourist stand vocal enough tool emerge";

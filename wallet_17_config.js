@@ -1,1 +1,1 @@
-var mnemonic = "cabbage still vehicle elephant easy victory time animal pupil matrix dumb jeans";
+var mnemonic = "cabbage latin guide faith liar around drip pass fluid still salad coral";

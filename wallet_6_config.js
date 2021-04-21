@@ -1,1 +1,1 @@
-var mnemonic = "fox maximum leg pigeon speak blossom crowd shuffle bind chimney pink fold";
+var mnemonic = "bamboo dentist slim able loan observe wise cereal smooth camera future barrel";

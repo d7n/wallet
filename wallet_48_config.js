@@ -1,1 +1,1 @@
-var mnemonic = "clap priority foam uphold venture basket gossip chunk there arena peasant prepare";
+var mnemonic = "bag strategy thought agent range today distance exist wreck angle iron crime";

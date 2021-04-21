@@ -1,1 +1,1 @@
-var mnemonic = "run airport onion salt vague era earth dune either winter salmon thunder";
+var mnemonic = "online amazing rural truck debate wool protect version sunset install gauge dumb";

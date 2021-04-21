@@ -1,1 +1,1 @@
-var mnemonic = "legal youth history boost later fall scale fade dismiss ready lawsuit display";
+var mnemonic = "flush gate olympic live dawn whale awesome timber add merit burden ill";

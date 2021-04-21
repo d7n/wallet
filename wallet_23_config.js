@@ -1,1 +1,1 @@
-var mnemonic = "genre lottery oak egg across weapon volcano patient before laugh main giggle";
+var mnemonic = "bleak topple fold series mail island armor goddess wealth crash jealous dumb";

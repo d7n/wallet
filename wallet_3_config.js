@@ -1,1 +1,1 @@
-var mnemonic = "salon runway pulp smile face note evoke pilot bonus sort menu weekend";
+var mnemonic = "original diary cupboard iron eyebrow option unveil company else clerk shrimp tumble";

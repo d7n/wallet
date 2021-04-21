@@ -1,1 +1,1 @@
-var mnemonic = "wheat zoo lucky feed tornado family talent fatal pool main month fever";
+var mnemonic = "vacant catalog glory bonus chronic claw kit various tape indoor field caught";

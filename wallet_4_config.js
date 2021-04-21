@@ -1,1 +1,1 @@
-var mnemonic = "orphan proud easily source virus anxiety give metal garage net movie fall";
+var mnemonic = "rookie glide sight apple little bullet mask unhappy hair annual circle style";

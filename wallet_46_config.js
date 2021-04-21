@@ -1,1 +1,1 @@
-var mnemonic = "rural any ten task yard blush alcohol urban amused grant item keep";
+var mnemonic = "clap force farm party swap burger cloth april pudding sad agent inform";
