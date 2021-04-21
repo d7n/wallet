@@ -1,1 +1,1 @@
-var mnemonic = "immense kind miracle kiwi bulb rotate limb insect edge shine trial ball";
+var mnemonic = "glide spoon novel system label cargo mutual plate melt victory resource spoon";

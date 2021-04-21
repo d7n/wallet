@@ -1,1 +1,1 @@
-var mnemonic = "guitar vintage fresh silk trial occur curious mass mule veteran model snap";
+var mnemonic = "mixed sell fuel genre used bitter track stereo museum guess divide flower";

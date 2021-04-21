@@ -1,1 +1,1 @@
-var mnemonic = "wool mimic tool enroll inspire discover camera people attract dream time trash";
+var mnemonic = "coin anchor forum border subject memory thought joy math jaguar change dance";

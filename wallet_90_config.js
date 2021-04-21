@@ -1,1 +1,1 @@
-var mnemonic = "cool there quote kiss gesture park company tent enemy present length song";
+var mnemonic = "warm hungry rival rookie begin put reform agent excite toddler rent kitten";

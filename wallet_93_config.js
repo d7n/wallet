@@ -1,1 +1,1 @@
-var mnemonic = "account tone spider runway expose negative hope burden any develop snake repair";
+var mnemonic = "sister candy citizen system narrow fan jewel equip royal bridge foil unaware";

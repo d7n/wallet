@@ -1,1 +1,1 @@
-var mnemonic = "near cactus token protect involve doll pattern report urge artist license solid";
+var mnemonic = "cup emerge crime check this will gain option place fashion album peanut";

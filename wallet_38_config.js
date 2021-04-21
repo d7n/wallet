@@ -1,1 +1,1 @@
-var mnemonic = "tent rely save visa adjust flame meadow void curve tenant mesh tissue";
+var mnemonic = "turtle valley iron guide canyon satoshi clump around rent over beef predict";

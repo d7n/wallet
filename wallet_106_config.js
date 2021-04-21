@@ -1,1 +1,1 @@
-var mnemonic = "wait pattern emerge favorite exclude idle paddle credit humble wrong cricket very";
+var mnemonic = "provide weapon video salon key hope smart sting gadget wing can corn";

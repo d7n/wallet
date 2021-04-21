@@ -1,1 +1,1 @@
-var mnemonic = "punch draft faint round acquire worth garlic shy vital pluck make human";
+var mnemonic = "tent chunk vocal belt brand fiber tattoo spice manage slot hold excite";

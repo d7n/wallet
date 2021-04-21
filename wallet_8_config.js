@@ -1,1 +1,1 @@
-var mnemonic = "river auction hedgehog fresh edit glow spider episode harbor purchase image robust";
+var mnemonic = "shy liberty oak brain actress breeze sudden misery helmet follow fan youth";

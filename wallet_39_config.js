@@ -1,1 +1,1 @@
-var mnemonic = "twist thumb clean media region wild daughter useless history what gain party";
+var mnemonic = "motor chicken athlete tobacco hurdle stand toy demand wild parade source lion";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel brother fever asthma sea enlist matter puppy coral tornado crane purse";
+var mnemonic = "mammal vicious present festival squirrel finger strike moon daughter piano proof situate";

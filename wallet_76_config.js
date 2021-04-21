@@ -1,1 +1,1 @@
-var mnemonic = "hurt spider blade right arena piece quiz field convince refuse list drive";
+var mnemonic = "seven reward hobby grant bicycle canal lonely stamp crack desert foot hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "effort prize skill trend suit source settle half minor glad express hurry";
+var mnemonic = "wood toddler wink brave behave business grape bike remove raw grief piano";

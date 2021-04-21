@@ -1,1 +1,1 @@
-var mnemonic = "drastic entry wife object piece frost age combine soft prevent other praise";
+var mnemonic = "violin walnut master hurt mom mechanic upon mammal uncle object space apart";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel join bomb dice clay minimum person jeans bag lock document dignity";
+var mnemonic = "retire win cloud fetch disease idea pitch pattern evidence brush globe logic";

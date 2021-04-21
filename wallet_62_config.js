@@ -1,1 +1,1 @@
-var mnemonic = "vote garage sketch person mistake index catalog thrive modify dentist guitar seat";
+var mnemonic = "sadness wedding law travel secret army any grocery north ride glove goose";

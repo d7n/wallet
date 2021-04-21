@@ -1,1 +1,1 @@
-var mnemonic = "traffic combine dumb sing scheme siege chronic answer idea road dolphin hint";
+var mnemonic = "fade people brisk tide siege hurdle entry ready cruise armor dwarf nature";

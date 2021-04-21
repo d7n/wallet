@@ -1,1 +1,1 @@
-var mnemonic = "hurt rookie glass run proud wasp hedgehog toward traffic syrup ship sadness";
+var mnemonic = "pulse certain awkward slush ice chunk analyst other exchange clever space tell";

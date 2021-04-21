@@ -1,1 +1,1 @@
-var mnemonic = "apart cash spirit media federal stumble shrug purse shield heart stone sign";
+var mnemonic = "essay check move because mirror husband thing funny market magnet winner music";

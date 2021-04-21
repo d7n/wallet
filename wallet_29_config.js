@@ -1,1 +1,1 @@
-var mnemonic = "link virtual lock arrive clinic useful sick recipe annual rifle kick valve";
+var mnemonic = "obtain liberty duty wisdom evoke frost uncle rapid renew wide exclude domain";

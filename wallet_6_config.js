@@ -1,1 +1,1 @@
-var mnemonic = "nest tail busy marine rare trip satoshi world easy top chair exhaust";
+var mnemonic = "chest luggage bread zone runway swap gather bind panda soap where mosquito";

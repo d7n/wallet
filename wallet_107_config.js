@@ -1,1 +1,1 @@
-var mnemonic = "duty elder board differ lesson december there cherry paddle deputy author artist";
+var mnemonic = "draft husband dynamic else fossil twice control gold dignity width machine room";

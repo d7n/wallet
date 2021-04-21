@@ -1,1 +1,1 @@
-var mnemonic = "range rhythm idea sock dream burden spy explain lamp catalog maze federal";
+var mnemonic = "monkey metal brown clever camp leader tip toilet lunch lazy mansion goat";

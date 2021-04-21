@@ -1,1 +1,1 @@
-var mnemonic = "lion tissue core salt excuse tomato smooth home forget rib toss frequent";
+var mnemonic = "since million magnet friend volume worth two other pull three magic expire";

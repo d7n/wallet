@@ -1,1 +1,1 @@
-var mnemonic = "head polar swim grid prefer lobster man rule clerk avocado spread negative";
+var mnemonic = "ginger risk cave tent burst spin record goat display catalog miracle torch";

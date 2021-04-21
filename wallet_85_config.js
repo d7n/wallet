@@ -1,1 +1,1 @@
-var mnemonic = "media expect hurdle ecology spare security rural deposit flavor essence agent sadness";
+var mnemonic = "again bomb current rifle squirrel hybrid just text miss face rather august";

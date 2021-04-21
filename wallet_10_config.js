@@ -1,1 +1,1 @@
-var mnemonic = "thrive blame horn sell wrong daring modify moment market luggage depth coyote";
+var mnemonic = "venture negative honey city oval journey sunset involve supply path west among";

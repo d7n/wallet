@@ -1,1 +1,1 @@
-var mnemonic = "inspire judge come year rely stage boil amount pupil weapon chicken tired";
+var mnemonic = "noble turn glance avocado clerk grab film rule country latin lab casual";

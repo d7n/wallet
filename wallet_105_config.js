@@ -1,1 +1,1 @@
-var mnemonic = "just property nut oxygen sun boost middle attend hint canoe mind affair";
+var mnemonic = "disease tenant smooth raise near start music attitude submit junk cable hour";

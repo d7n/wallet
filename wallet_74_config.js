@@ -1,1 +1,1 @@
-var mnemonic = "shoulder permit december cheese suggest state armed cost arena alley add casino";
+var mnemonic = "sadness settle defense curious spirit exhibit swamp afford allow horse vendor immense";

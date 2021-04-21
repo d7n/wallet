@@ -1,1 +1,1 @@
-var mnemonic = "apple actress frame smile nut shaft gown demise crumble alone bus clutch";
+var mnemonic = "promote clarify board quarter lion bitter fatigue crouch tray plunge fuel sample";

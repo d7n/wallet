@@ -1,1 +1,1 @@
-var mnemonic = "video expect cute craft electric sadness skate angry crowd aunt antique two";
+var mnemonic = "orange believe castle good brush canvas visa pave civil pet sting loyal";

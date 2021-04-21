@@ -1,1 +1,1 @@
-var mnemonic = "use edit blame load coral nominee scout level unknown black cool reward";
+var mnemonic = "under decrease build antique hen manage kingdom tornado silver airport tank remember";

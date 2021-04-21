@@ -1,1 +1,1 @@
-var mnemonic = "scale student hedgehog panther state ten when peanut auto isolate hold verb";
+var mnemonic = "spoil twice science deputy space fetch trigger analyst okay juice click kit";

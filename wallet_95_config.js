@@ -1,1 +1,1 @@
-var mnemonic = "injury cash draft avoid sheriff provide ozone power cycle mosquito fever slide";
+var mnemonic = "resource company recipe cannon shuffle torch border betray title chaos cruise symptom";

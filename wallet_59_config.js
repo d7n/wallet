@@ -1,1 +1,1 @@
-var mnemonic = "flush keep egg hawk suit camp crop coconut lunar turkey hobby super";
+var mnemonic = "rebel between history arch proud vendor rocket latin pencil rookie ghost renew";

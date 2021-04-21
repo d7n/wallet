@@ -1,1 +1,1 @@
-var mnemonic = "venue snake yard game certain reason place dust pelican pact scatter acoustic";
+var mnemonic = "owner plastic year curious area require vessel jelly pass volume behind client";

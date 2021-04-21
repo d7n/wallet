@@ -1,1 +1,1 @@
-var mnemonic = "album rather marriage sell hip fruit doctor teach color kitchen act tool";
+var mnemonic = "before shield donkey regret predict young write case yellow dinner believe define";

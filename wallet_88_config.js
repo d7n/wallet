@@ -1,1 +1,1 @@
-var mnemonic = "attend wrist letter example float diagram cigar rival tumble tomato swarm lava";
+var mnemonic = "item simple copper drip raise garment try able crush link provide shaft";

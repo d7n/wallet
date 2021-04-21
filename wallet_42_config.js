@@ -1,1 +1,1 @@
-var mnemonic = "envelope winner erode actual fan spare list praise one bread dream base";
+var mnemonic = "warfare market vault useless kite around empower abuse water occur truly dress";

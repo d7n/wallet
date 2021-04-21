@@ -1,1 +1,1 @@
-var mnemonic = "rival decline street major finish hold virus control comic rhythm coach zoo";
+var mnemonic = "pass laundry regret horn stick lock swallow illegal grow dance clown unfair";

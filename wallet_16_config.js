@@ -1,1 +1,1 @@
-var mnemonic = "orchard like cash tragic scissors file senior lift absent country upon decline";
+var mnemonic = "sibling verify minor high floor rice unique identify toward fringe route envelope";

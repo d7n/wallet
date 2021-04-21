@@ -1,1 +1,1 @@
-var mnemonic = "guide merry floor camp aspect myself bulb chest ranch ensure aim crater";
+var mnemonic = "pluck safe alone ostrich naive shove farm all lock feel around shadow";

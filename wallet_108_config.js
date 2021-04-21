@@ -1,1 +1,1 @@
-var mnemonic = "stick recycle stay chunk board margin park inherit scheme follow stay sock";
+var mnemonic = "throw copper phrase require plastic extra theme lawn radar evidence enroll hobby";

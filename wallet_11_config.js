@@ -1,1 +1,1 @@
-var mnemonic = "produce miracle flush label despair tail age borrow figure road obvious basket";
+var mnemonic = "sphere solution since february crazy use market best accuse steel glare company";

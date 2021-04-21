@@ -1,1 +1,1 @@
-var mnemonic = "apple dizzy happy abstract business sail cattle story refuse budget economy tent";
+var mnemonic = "airport collect venture draw virtual spring demise valve hobby act assist sauce";

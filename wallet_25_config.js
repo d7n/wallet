@@ -1,1 +1,1 @@
-var mnemonic = "primary lawn north gorilla peace width share display battle fee crazy diesel";
+var mnemonic = "glory melody connect wild salon lyrics ladder mention welcome alcohol fine step";

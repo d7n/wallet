@@ -1,1 +1,1 @@
-var mnemonic = "abuse option code fringe away traffic minimum awful shed recycle onion diamond";
+var mnemonic = "sweet timber because reason viable hybrid inspire bird penalty mirror domain rule";

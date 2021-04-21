@@ -1,1 +1,1 @@
-var mnemonic = "fiber cheap easily cliff cake quote swap bronze trap select harsh surround";
+var mnemonic = "submit festival canoe oxygen sausage citizen midnight claim hand light nice mushroom";

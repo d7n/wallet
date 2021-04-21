@@ -1,1 +1,1 @@
-var mnemonic = "physical wrist hundred best easily winner acoustic any hand label token advice";
+var mnemonic = "thumb pitch shuffle inject blood gloom trip siege involve clog critic clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur buddy notice frequent panther future foil pause market total dune oak";
+var mnemonic = "cup tunnel mule device aunt bone sudden involve student noodle return mosquito";

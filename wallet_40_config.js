@@ -1,1 +1,1 @@
-var mnemonic = "asset fix move nature wealth prison age pepper invest armed blame winter";
+var mnemonic = "absurd finish fantasy wrestle sadness boat raccoon force evidence enable portion round";

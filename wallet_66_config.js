@@ -1,1 +1,1 @@
-var mnemonic = "soap eight east suggest negative jump smooth virus income warfare laugh approve";
+var mnemonic = "badge olive ticket gossip foam network matter differ proud spike indicate tank";

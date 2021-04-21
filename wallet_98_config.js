@@ -1,1 +1,1 @@
-var mnemonic = "easily era power secret caution dinosaur employ arm lottery drip juice hospital";
+var mnemonic = "inquiry dragon style vessel room year acquire market click crowd curious gate";

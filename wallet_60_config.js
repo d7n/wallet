@@ -1,1 +1,1 @@
-var mnemonic = "joy hollow nuclear burger dust iron pizza planet century boost ball try";
+var mnemonic = "access mother anger earn season mom online language noise rival useless crane";

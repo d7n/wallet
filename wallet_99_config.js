@@ -1,1 +1,1 @@
-var mnemonic = "surround benefit chest vanish crisp scatter gown sausage brief fun also hero";
+var mnemonic = "provide connect exit cube lemon guilt exchange seminar private brown coil rent";

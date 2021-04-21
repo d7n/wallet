@@ -1,1 +1,1 @@
-var mnemonic = "frame unique govern birth cradle educate aunt tail garden innocent system village";
+var mnemonic = "wise zone crunch roof only buddy silent summer expose east demand dirt";

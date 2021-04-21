@@ -1,1 +1,1 @@
-var mnemonic = "fatal plunge energy build typical warm present drastic junk garbage plunge orphan";
+var mnemonic = "inside chat buffalo duty orphan skirt process easily squirrel gap camp fog";

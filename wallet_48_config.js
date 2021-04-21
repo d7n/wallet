@@ -1,1 +1,1 @@
-var mnemonic = "achieve because token bus depend shine plate embrace boat glide castle interest";
+var mnemonic = "cover inquiry theme giant stick tissue abstract below push decade immense tooth";

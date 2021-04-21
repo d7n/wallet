@@ -1,1 +1,1 @@
-var mnemonic = "cabbage effort situate title try plug network bracket radio popular box cake";
+var mnemonic = "disease cluster cruise foot suggest mom small dress case casual blossom misery";

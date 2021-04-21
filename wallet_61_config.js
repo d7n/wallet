@@ -1,1 +1,1 @@
-var mnemonic = "track grain spawn hello alarm what distance hobby bag spy service service";
+var mnemonic = "grain grief smooth leader primary pulp motion universe amount drink drastic lawn";

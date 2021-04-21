@@ -1,1 +1,1 @@
-var mnemonic = "sample grunt maze tiger vast stuff mix wool ecology boring frown labor";
+var mnemonic = "blame broccoli spawn spatial lemon portion jealous tragic drive become crack mosquito";

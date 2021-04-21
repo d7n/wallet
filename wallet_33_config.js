@@ -1,1 +1,1 @@
-var mnemonic = "wide need slush eternal unknown wave liberty fatigue helmet provide calm rigid";
+var mnemonic = "solve acid cactus rubber dumb best swarm injury movie beauty exercise biology";

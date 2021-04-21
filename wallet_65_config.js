@@ -1,1 +1,1 @@
-var mnemonic = "enjoy seat embrace theory doctor wine physical legend acquire note cat rigid";
+var mnemonic = "mandate jacket plunge change obtain define movie inform include stairs torch glance";

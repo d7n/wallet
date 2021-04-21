@@ -1,1 +1,1 @@
-var mnemonic = "awake olympic chase seven wrong expire bicycle badge smooth occur brass cherry";
+var mnemonic = "bread legend sweet foster opinion stick basic guilt rude search text panther";

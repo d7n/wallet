@@ -1,1 +1,1 @@
-var mnemonic = "upgrade total melt allow goat negative sheriff scene acquire pistol solid anger";
+var mnemonic = "mix seven senior harbor fabric weather merit useless custom goose organ piece";

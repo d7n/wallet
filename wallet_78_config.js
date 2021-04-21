@@ -1,1 +1,1 @@
-var mnemonic = "explain extra stumble weekend deputy pull push bike pilot rib idea mystery";
+var mnemonic = "because turtle tell ask asthma curve work clap lens antique knife melt";

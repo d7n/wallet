@@ -1,1 +1,1 @@
-var mnemonic = "problem idea legend stumble nerve drop celery render coin humor tribe cash";
+var mnemonic = "wet salt fun clock shine erosion divide engine renew path police legend";

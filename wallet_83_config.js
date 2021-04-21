@@ -1,1 +1,1 @@
-var mnemonic = "pet slush use time mother spatial uncover language weekend same six release";
+var mnemonic = "crisp unhappy quote model kiwi empower opera provide possible myth chest weasel";

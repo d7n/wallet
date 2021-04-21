@@ -1,1 +1,1 @@
-var mnemonic = "loyal border wonder carbon tell figure wonder interest robot cup cheese elite";
+var mnemonic = "employ word vessel gasp toward twenty spike patient general glimpse okay frozen";

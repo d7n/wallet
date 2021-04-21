@@ -1,1 +1,1 @@
-var mnemonic = "manual daughter slim royal learn around cruel anchor vague fabric work cloud";
+var mnemonic = "swap update perfect public item vintage duck prevent mean fiction pencil letter";

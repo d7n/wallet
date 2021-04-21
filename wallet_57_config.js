@@ -1,1 +1,1 @@
-var mnemonic = "fury under coast annual vivid rule shoot border sport program unveil pistol";
+var mnemonic = "animal extra normal umbrella time drill ready extra fresh language chair gorilla";

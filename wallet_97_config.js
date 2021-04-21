@@ -1,1 +1,1 @@
-var mnemonic = "knock grunt world venue trap hold absent bulb slot write install convince";
+var mnemonic = "grab finger valve series draft vintage convince conduct easy plate dismiss decide";

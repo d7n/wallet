@@ -1,1 +1,1 @@
-var mnemonic = "budget scan blush topple color visa civil neglect ahead nut shaft reform";
+var mnemonic = "trophy sister audit panic admit essay pill hint impose pig catch tuna";

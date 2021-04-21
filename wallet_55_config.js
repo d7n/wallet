@@ -1,1 +1,1 @@
-var mnemonic = "unveil elbow demise flush faculty mad broccoli scorpion else canyon extra main";
+var mnemonic = "finger august engage brave fatigue sister spell improve match welcome run slot";

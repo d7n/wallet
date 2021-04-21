@@ -1,1 +1,1 @@
-var mnemonic = "square auction asset state battle exotic ugly agree shiver boy reunion tomato";
+var mnemonic = "spirit evolve inflict bounce humble vital retire travel buffalo alley over relief";

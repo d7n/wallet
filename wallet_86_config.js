@@ -1,1 +1,1 @@
-var mnemonic = "diet charge sort focus deputy century link ugly swift because throw ill";
+var mnemonic = "maze enrich myself rotate abandon swarm sniff wear business elephant only ball";

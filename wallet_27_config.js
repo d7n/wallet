@@ -1,1 +1,1 @@
-var mnemonic = "reveal vivid coconut strong awake swamp erase apology scrap camera garlic goose";
+var mnemonic = "town ugly now false decide insect despair rely winter recall mango month";

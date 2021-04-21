@@ -1,1 +1,1 @@
-var mnemonic = "hotel reflect history then calm axis click globe course fiscal initial general";
+var mnemonic = "permit talk laugh hero bulb wave unlock oyster luxury struggle cycle design";

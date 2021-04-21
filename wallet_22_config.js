@@ -1,1 +1,1 @@
-var mnemonic = "replace embody yard habit idle future car oblige remind orphan pink mother";
+var mnemonic = "chat bitter knee gauge slush potato visual tuition deliver very cover naive";

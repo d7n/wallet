@@ -1,1 +1,1 @@
-var mnemonic = "scrub rice gadget erode service repair artefact runway orphan rate truck until";
+var mnemonic = "aim test duck stomach random forget wet symbol silk punch sea raccoon";

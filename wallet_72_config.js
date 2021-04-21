@@ -1,1 +1,1 @@
-var mnemonic = "phone cycle enact version little barely wasp foil cycle dance excuse taxi";
+var mnemonic = "utility begin same prison across famous chimney glide online bounce renew cream";
