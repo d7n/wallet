@@ -1,1 +1,1 @@
-var mnemonic = "shell such skate upper announce erase valley give miracle used charge orphan";
+var mnemonic = "unable desk ahead viable fabric dwarf calm pet tragic oven fuel empower";

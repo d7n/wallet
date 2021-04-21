@@ -1,1 +1,1 @@
-var mnemonic = "craft robust thrive siren image inflict outside sheriff symbol rug canyon match";
+var mnemonic = "fuel people cousin large shell protect deliver claim use torch twenty capable";

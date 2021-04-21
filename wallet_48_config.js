@@ -1,1 +1,1 @@
-var mnemonic = "ring oyster vehicle clip face east lend camp ring envelope inherit abandon";
+var mnemonic = "remove food trim model brown force silver absent lesson mesh make west";

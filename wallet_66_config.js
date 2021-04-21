@@ -1,1 +1,1 @@
-var mnemonic = "victory noodle over slice large miracle cheap mesh give pizza gospel animal";
+var mnemonic = "hand marriage shrug submit exercise rebel awful october decide salute normal trip";

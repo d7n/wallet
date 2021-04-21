@@ -1,1 +1,1 @@
-var mnemonic = "exile emerge bone quarter yard above taste whisper harsh juice tragic assault";
+var mnemonic = "change fold throw sweet whip version garden velvet text erupt screen acoustic";

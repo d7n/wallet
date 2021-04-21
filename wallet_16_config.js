@@ -1,1 +1,1 @@
-var mnemonic = "split dizzy adult live rocket emerge deputy reflect length regular nasty husband";
+var mnemonic = "wealth hand road calm sustain true vast tired option favorite dream effort";

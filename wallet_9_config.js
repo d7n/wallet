@@ -1,1 +1,1 @@
-var mnemonic = "job mushroom flower genius angry item such assume useful token permit kangaroo";
+var mnemonic = "wage need either connect clean twelve fit feel garbage journey unknown auction";

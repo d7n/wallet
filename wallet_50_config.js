@@ -1,1 +1,1 @@
-var mnemonic = "canoe arm attitude memory success garbage relax organ alter visa reduce strong";
+var mnemonic = "awake federal horn maple lake version jelly pig trumpet subway magnet hello";

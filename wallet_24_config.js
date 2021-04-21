@@ -1,1 +1,1 @@
-var mnemonic = "arrow end hundred decline miss error merit gaze cycle rebuild multiply mouse";
+var mnemonic = "quit live minute once fire fire oval spoon harbor job demand burger";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely leaf razor remain laundry improve head infant wire noble palace reject";
+var mnemonic = "tide pepper version wisdom nasty dice mansion eagle mix sting boy kitchen";

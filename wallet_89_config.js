@@ -1,1 +1,1 @@
-var mnemonic = "surge toilet cage glass pluck ignore power amateur owner useless merit number";
+var mnemonic = "biology shoulder manage athlete oppose write plate pink monster merge reject spend";

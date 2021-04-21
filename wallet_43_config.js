@@ -1,1 +1,1 @@
-var mnemonic = "wave grass cruel language balance elephant later fix sail vague access novel";
+var mnemonic = "prefer nest winter diesel viable eager stay ankle ask abstract blood carpet";

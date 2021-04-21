@@ -1,1 +1,1 @@
-var mnemonic = "comic short chase office relax segment rely tape attend fire capable wolf";
+var mnemonic = "course three current potato man join room again learn leaf misery orbit";

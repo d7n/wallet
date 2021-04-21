@@ -1,1 +1,1 @@
-var mnemonic = "twice honey seven vendor document okay rubber grocery enable position angry bracket";
+var mnemonic = "radar flip soup discover add render session mountain random muffin merge taste";

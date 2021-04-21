@@ -1,1 +1,1 @@
-var mnemonic = "conduct order property maximum trash mean attack analyst stuff puzzle bunker utility";
+var mnemonic = "bone envelope coin bird raven define royal small you pair course arm";

@@ -1,1 +1,1 @@
-var mnemonic = "token example guess fold post credit siren promote artist slight maid jacket";
+var mnemonic = "muscle dial waste magnet wage siege mistake ceiling olympic glimpse envelope theme";

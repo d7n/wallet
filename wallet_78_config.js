@@ -1,1 +1,1 @@
-var mnemonic = "copy tape oyster frozen hospital jewel choose brown real south wrist ginger";
+var mnemonic = "produce assume dolphin aim lion install fossil ancient art void monkey champion";

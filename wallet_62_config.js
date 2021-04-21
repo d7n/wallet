@@ -1,1 +1,1 @@
-var mnemonic = "smooth case dust rule please prepare vote pupil pet record solution surface";
+var mnemonic = "pig wagon chicken gospel final charge visit jungle fiscal this weather insect";

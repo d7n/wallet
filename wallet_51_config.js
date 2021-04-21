@@ -1,1 +1,1 @@
-var mnemonic = "more shed wash online helmet light capable maple wall pear moral around";
+var mnemonic = "glass beach hybrid rookie valve address jar cheap lounge news parade gorilla";

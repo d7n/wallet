@@ -1,1 +1,1 @@
-var mnemonic = "violin reveal athlete material step few wrong hen family session gather ship";
+var mnemonic = "explain figure room usage life tiny property resist define human unveil fish";

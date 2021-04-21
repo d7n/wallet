@@ -1,1 +1,1 @@
-var mnemonic = "machine bacon distance confirm rubber clock lab entry antenna air tooth settle";
+var mnemonic = "rent helmet frog affair honey hotel where enough hockey furnace confirm two";

@@ -1,1 +1,1 @@
-var mnemonic = "story vapor unlock despair bless tenant bitter impulse infant turtle adapt dwarf";
+var mnemonic = "call planet donkey gallery stem leaf network depart spice meat eye tattoo";

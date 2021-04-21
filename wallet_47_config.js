@@ -1,1 +1,1 @@
-var mnemonic = "laptop flight attack shop asset grit thrive viable frame destroy gaze sand";
+var mnemonic = "cost local cause lady van tray sword illegal aware rookie material amateur";

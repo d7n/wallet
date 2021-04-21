@@ -1,1 +1,1 @@
-var mnemonic = "slab spray replace beyond fury inhale case craft ozone what welcome innocent";
+var mnemonic = "valley cereal promote swarm paper useless appear you permit actor cotton grass";

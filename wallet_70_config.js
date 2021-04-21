@@ -1,1 +1,1 @@
-var mnemonic = "oxygen initial tip flame panel edit dash lemon pioneer tornado sail current";
+var mnemonic = "accident seat surge sibling olympic argue suspect liar cupboard wish retire term";

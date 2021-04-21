@@ -1,1 +1,1 @@
-var mnemonic = "either panda luxury club maximum march step tragic buffalo school apart thumb";
+var mnemonic = "junk elegant region track attract blue swamp session stomach melt section brief";

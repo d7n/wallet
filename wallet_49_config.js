@@ -1,1 +1,1 @@
-var mnemonic = "gaze rule novel degree song odor awake metal apple pony cricket edit";
+var mnemonic = "prize rose eye endless open fringe layer crystal invest choose path chalk";

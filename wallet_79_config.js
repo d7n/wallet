@@ -1,1 +1,1 @@
-var mnemonic = "start inherit letter cheap cargo exhibit axis region weather satisfy help walk";
+var mnemonic = "know visit broom time rabbit illegal game wash daughter frog shallow dilemma";

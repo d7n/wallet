@@ -1,1 +1,1 @@
-var mnemonic = "sick morning elbow leave chef rich off blanket harsh police mask offer";
+var mnemonic = "sound seed produce limb property drink absurd shy cradle mix elegant dash";

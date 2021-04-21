@@ -1,1 +1,1 @@
-var mnemonic = "beach goose enact vast range prevent angle mango hurdle amazing van web";
+var mnemonic = "unhappy square bottom portion shoulder caught six vivid express educate please install";

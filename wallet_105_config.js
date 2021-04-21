@@ -1,1 +1,1 @@
-var mnemonic = "insect attitude lucky movie game code miracle legend math second middle senior";
+var mnemonic = "position infant rack trumpet reform poverty young curve theme minute giant dust";

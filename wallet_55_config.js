@@ -1,1 +1,1 @@
-var mnemonic = "spot system unable ginger pyramid spider kangaroo hole desk amount jeans regular";
+var mnemonic = "rocket potato fruit hamster tell lens holiday trick erase cement damage kingdom";

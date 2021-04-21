@@ -1,1 +1,1 @@
-var mnemonic = "bike infant stone broom photo day brisk wire drastic spray waste piece";
+var mnemonic = "few occur eagle image man phone drama question never want suit rocket";

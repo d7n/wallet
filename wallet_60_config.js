@@ -1,1 +1,1 @@
-var mnemonic = "route bullet scheme place alarm field echo mix dust purse unique icon";
+var mnemonic = "noble brush art increase puppy other roast north aspect empty popular stick";

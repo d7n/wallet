@@ -1,1 +1,1 @@
-var mnemonic = "security lady network core mention picnic symbol grow repeat machine spare stuff";
+var mnemonic = "scare play brain series extend level pride kid also discover profit crew";

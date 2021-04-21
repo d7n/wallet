@@ -1,1 +1,1 @@
-var mnemonic = "rhythm sword wreck quality shift sting picnic suggest coral bag music pigeon";
+var mnemonic = "input correct badge hungry trust egg garden wagon strong luxury hungry emotion";

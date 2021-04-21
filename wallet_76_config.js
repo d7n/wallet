@@ -1,1 +1,1 @@
-var mnemonic = "magic duck resist soft canal parent define unveil speak trim coral december";
+var mnemonic = "pupil eyebrow kingdom source broom left rigid since mad general kid mechanic";

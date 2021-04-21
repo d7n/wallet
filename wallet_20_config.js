@@ -1,1 +1,1 @@
-var mnemonic = "own typical state wait pizza mountain orphan hill dismiss fiscal between mesh";
+var mnemonic = "border acquire impact domain fog lounge brain orient person gauge absurd opinion";

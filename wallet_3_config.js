@@ -1,1 +1,1 @@
-var mnemonic = "wire blur cup move zoo minor belt tray winner poet color humor";
+var mnemonic = "top few blame carpet gown uncover trap case oven battle pear master";

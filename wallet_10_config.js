@@ -1,1 +1,1 @@
-var mnemonic = "alter click dash loan already abstract evolve eye help border danger ranch";
+var mnemonic = "garment click talent foil tissue apology artefact hope fork pact jelly attitude";

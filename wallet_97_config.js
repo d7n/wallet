@@ -1,1 +1,1 @@
-var mnemonic = "stamp craft farm abuse trend month law coffee apple damage wear model";
+var mnemonic = "ensure capital cheap license below mask ocean between defy sphere filter company";

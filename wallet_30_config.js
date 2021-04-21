@@ -1,1 +1,1 @@
-var mnemonic = "hover hundred crouch gloom blouse rigid life wink flee primary drastic pull";
+var mnemonic = "blouse spatial erosion leaf brother sight crush sauce march parade lawsuit oak";

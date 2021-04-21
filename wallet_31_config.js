@@ -1,1 +1,1 @@
-var mnemonic = "divert summer account edit ring kitten gasp trick entry wild awkward trigger";
+var mnemonic = "before chest audit wealth item crash total sample rude potato hip exhaust";

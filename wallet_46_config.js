@@ -1,1 +1,1 @@
-var mnemonic = "boat polar nest tackle grab match hedgehog team amount potato ball okay";
+var mnemonic = "ridge whisper know gorilla around clarify amazing upgrade initial outside dad bullet";

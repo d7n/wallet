@@ -1,1 +1,1 @@
-var mnemonic = "fit charge toe they assume secret easy frost caution wonder picnic robot";
+var mnemonic = "fashion rotate fitness now employ balance cargo imitate minute tent urban property";

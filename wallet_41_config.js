@@ -1,1 +1,1 @@
-var mnemonic = "wealth pause ensure simple maze leader fire humble destroy brisk phone wine";
+var mnemonic = "return trick pave virus soft truth sweet bargain agree estate fork fee";

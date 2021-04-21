@@ -1,1 +1,1 @@
-var mnemonic = "liberty leopard initial opera venture admit hill grape rude kidney indicate search";
+var mnemonic = "expand insane jungle response vessel ice goat cart common catalog dice tongue";

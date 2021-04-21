@@ -1,1 +1,1 @@
-var mnemonic = "current pact myself resource speak comic anxiety actress funny bicycle adult hazard";
+var mnemonic = "taste know love luxury autumn engage pass enlist follow area slight stumble";

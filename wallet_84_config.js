@@ -1,1 +1,1 @@
-var mnemonic = "labor exchange solve winter cheap entire list verify brown purity indoor exhaust";
+var mnemonic = "antique neglect scrap drift grocery concert cover trophy turtle manage corn wink";

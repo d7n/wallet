@@ -1,1 +1,1 @@
-var mnemonic = "coral legend elegant grab promote wise grief under harsh crew route shuffle";
+var mnemonic = "bird envelope execute say soap armed reform catch loud either verify height";

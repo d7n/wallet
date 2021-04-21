@@ -1,1 +1,1 @@
-var mnemonic = "gift buzz subway essay title pig across until sleep act thunder often";
+var mnemonic = "west cruise dwarf love height lunar coral wave figure farm endorse pull";

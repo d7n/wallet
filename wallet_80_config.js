@@ -1,1 +1,1 @@
-var mnemonic = "allow spring tumble reduce angle only pyramid clip route large sell version";
+var mnemonic = "chalk place normal aerobic plunge thing kid style wonder toe spirit style";

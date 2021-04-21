@@ -1,1 +1,1 @@
-var mnemonic = "tuna bargain anchor stadium arm divert color design library skate hen veteran";
+var mnemonic = "decade enlist awesome dove fruit chunk glance garbage reward grape side frown";

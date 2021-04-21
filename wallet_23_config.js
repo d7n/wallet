@@ -1,1 +1,1 @@
-var mnemonic = "search pelican trade cinnamon input elegant vacuum desk okay gadget gravity toy";
+var mnemonic = "fun actor task thrive daring clever kit kind sphere space pistol nice";

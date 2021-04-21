@@ -1,1 +1,1 @@
-var mnemonic = "base sing wonder rubber kitten umbrella april rebuild tattoo artist scorpion asthma";
+var mnemonic = "excess luxury around fabric sell wool noodle wheel tray inspire nose street";

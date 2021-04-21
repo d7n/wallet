@@ -1,1 +1,1 @@
-var mnemonic = "staff lucky extra chase advance real coin keen safe kiss frown only";
+var mnemonic = "endless bachelor behind today video clip spin wise middle blind pig museum";

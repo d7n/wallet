@@ -1,1 +1,1 @@
-var mnemonic = "tattoo one survey finger smooth tube anxiety trophy poet congress mutual staff";
+var mnemonic = "annual scout sadness usage dry ankle horn allow drama cupboard clump foil";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny before calm element slice bicycle label captain trade model try bottom";
+var mnemonic = "pistol wash split elegant sniff gather detect news rookie vintage slam economy";

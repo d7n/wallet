@@ -1,1 +1,1 @@
-var mnemonic = "bless sock woman blush plate sheriff open hawk sort sign catalog hurt";
+var mnemonic = "express index vacant trap pledge change grace auction bronze easily unveil awkward";

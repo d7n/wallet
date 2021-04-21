@@ -1,1 +1,1 @@
-var mnemonic = "casino elegant minimum twelve antenna brave access file photo broom worry ancient";
+var mnemonic = "nothing small wash dinosaur wool common fog road engage grape find picture";

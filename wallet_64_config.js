@@ -1,1 +1,1 @@
-var mnemonic = "scrap slush swarm excess love fat unfair cancel sick silent cricket actress";
+var mnemonic = "artefact surface net night grain pioneer margin vicious report inspire hold involve";

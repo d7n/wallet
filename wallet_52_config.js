@@ -1,1 +1,1 @@
-var mnemonic = "mouse glimpse actor defense virus clay sock chair assist camera vessel broken";
+var mnemonic = "liquid debris ketchup iron priority lyrics stadium ocean inquiry almost involve sausage";

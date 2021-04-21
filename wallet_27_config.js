@@ -1,1 +1,1 @@
-var mnemonic = "gossip asset assault sock sketch cry crucial patrol craft assume sustain language";
+var mnemonic = "round best topple other boil there logic pottery force switch pudding narrow";

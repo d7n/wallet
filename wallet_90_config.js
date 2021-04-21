@@ -1,1 +1,1 @@
-var mnemonic = "slim review moon radio truth car little auction debris quit true report";
+var mnemonic = "spider video season thing acoustic fitness enhance buzz fragile fever glance bundle";

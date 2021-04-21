@@ -1,1 +1,1 @@
-var mnemonic = "also poem regular diagram garbage initial song earth alone depart regret exotic";
+var mnemonic = "dog rose elegant trash genre twist rebel upon shock snow arena hybrid";

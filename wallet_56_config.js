@@ -1,1 +1,1 @@
-var mnemonic = "entry verify ocean address section bitter brother lava beach seminar window sibling";
+var mnemonic = "forum leave sting mechanic couple indoor window cannon faint under setup airport";

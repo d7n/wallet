@@ -1,1 +1,1 @@
-var mnemonic = "theory wrong eager city rough dinosaur utility birth situate rhythm visa decline";
+var mnemonic = "dose gospel salon island inform ask myself gym heart hammer acoustic spend";

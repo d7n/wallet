@@ -1,1 +1,1 @@
-var mnemonic = "art voyage envelope used already bag tuition guilt school awkward drum armor";
+var mnemonic = "shy case solar labor bracket please glad rate zebra buyer mango kitchen";

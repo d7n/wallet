@@ -1,1 +1,1 @@
-var mnemonic = "track wild group apple cloud invest teach knee girl pig source cliff";
+var mnemonic = "shuffle later please alter lend afford repair bench alarm ill envelope myself";

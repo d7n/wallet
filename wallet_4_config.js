@@ -1,1 +1,1 @@
-var mnemonic = "trim swift purity present vocal outside divert angle review stove almost phone";
+var mnemonic = "pole prefer world elephant topic whale mechanic spirit wonder horror twice wonder";

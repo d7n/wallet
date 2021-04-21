@@ -1,1 +1,1 @@
-var mnemonic = "kitten laundry then stumble hamster tool ride north orient medal smooth explain";
+var mnemonic = "hunt polar bind rather pitch regular fall spice immune census average shock";

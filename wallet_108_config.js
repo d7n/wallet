@@ -1,1 +1,1 @@
-var mnemonic = "race stadium snap rotate arch derive above foot snow tissue ugly speed";
+var mnemonic = "acoustic tissue citizen simple viable patch sphere mesh recycle mother wrong guilt";

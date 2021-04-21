@@ -1,1 +1,1 @@
-var mnemonic = "mirror orbit reunion cream speed bachelor still desk cave rich debris minimum";
+var mnemonic = "logic autumn trip position solar album hair maze retire height tissue mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket link lock salt hungry essence armed flame diet cat place raise";
+var mnemonic = "dentist sand dutch vendor dress excite churn like mention cancel hundred hobby";

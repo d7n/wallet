@@ -1,1 +1,1 @@
-var mnemonic = "suggest dinner coast antique interest sibling laundry trophy possible emotion love trick";
+var mnemonic = "fetch victory note awake faith weasel sport silly pool coyote cruel pretty";

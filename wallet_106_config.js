@@ -1,1 +1,1 @@
-var mnemonic = "thunder rough open oak insane cricket dry often general direct cherry youth";
+var mnemonic = "doll father depend physical found anger age broken usage nothing observe diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "steel bread possible glad quit sorry tattoo broken ice dynamic host blood";
+var mnemonic = "snake edit end exotic seat pilot supply melody oyster rabbit language zebra";

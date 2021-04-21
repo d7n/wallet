@@ -1,1 +1,1 @@
-var mnemonic = "shop earn loyal attend emotion skull meadow ancient scheme seminar market panic";
+var mnemonic = "oil napkin case fame sketch gap punch indoor labor lake escape plunge";

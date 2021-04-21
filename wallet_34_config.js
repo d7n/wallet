@@ -1,1 +1,1 @@
-var mnemonic = "before allow sustain ginger stereo real floor sheriff fancy solid arctic draw";
+var mnemonic = "dilemma release gorilla work replace ignore same drink drama tower voyage hunt";

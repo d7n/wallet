@@ -1,1 +1,1 @@
-var mnemonic = "found next affair bulb feel almost fade tiny divorce dolphin rug all";
+var mnemonic = "medal atom problem impact paddle blade hand expose jaguar custom mosquito match";

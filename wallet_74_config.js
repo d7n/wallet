@@ -1,1 +1,1 @@
-var mnemonic = "deposit setup person nice crush divorce home rival toss habit deliver cricket";
+var mnemonic = "lift casual artwork ball property obscure couple prize august phone curve naive";

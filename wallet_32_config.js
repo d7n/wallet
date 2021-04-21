@@ -1,1 +1,1 @@
-var mnemonic = "spatial because battle bachelor elevator initial fan nation burst image weasel poet";
+var mnemonic = "save book grit achieve cake universe salute wolf world husband rice brain";

@@ -1,1 +1,1 @@
-var mnemonic = "entire disease analyst borrow that insect carry peanut initial cat reveal announce";
+var mnemonic = "evidence supreme state enhance around spot bike wolf science anchor curve blame";

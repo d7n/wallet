@@ -1,1 +1,1 @@
-var mnemonic = "announce economy cushion measure vehicle vote account mail enroll search build kit";
+var mnemonic = "ask style river hidden network shoe town want bread grant olympic off";

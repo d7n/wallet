@@ -1,1 +1,1 @@
-var mnemonic = "crop gadget borrow bleak property assault adapt invite surprise avoid strike return";
+var mnemonic = "nation obey west fringe rival segment auction boring crime say source stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "visa credit fancy match voice crazy coffee slow claw metal situate broccoli";
+var mnemonic = "brain wrestle ordinary foam agree key seat project van depth hello milk";

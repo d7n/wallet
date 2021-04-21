@@ -1,1 +1,1 @@
-var mnemonic = "girl enact tiger guitar yard absorb best verb bonus point pluck drip";
+var mnemonic = "wall primary feed gorilla ready say error artwork blossom blade exile whisper";

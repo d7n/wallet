@@ -1,1 +1,1 @@
-var mnemonic = "victory skull page arrange wagon make host mimic city shed increase harvest";
+var mnemonic = "escape wait wasp weather glove board december song suffer knee sunny junk";

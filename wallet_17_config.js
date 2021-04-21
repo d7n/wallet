@@ -1,1 +1,1 @@
-var mnemonic = "repeat error tourist please advance ask already orchard assist result luggage next";
+var mnemonic = "notice fall margin increase deny upper acoustic salmon agree cost diagram dove";

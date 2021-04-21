@@ -1,1 +1,1 @@
-var mnemonic = "blossom brush path match egg habit strike poet diary sauce pluck talent";
+var mnemonic = "poverty middle slogan common spoon okay arch surprise fall old gravity achieve";

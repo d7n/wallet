@@ -1,1 +1,1 @@
-var mnemonic = "tiger grace trophy label tissue treat core retire cry hotel glove security";
+var mnemonic = "code pride grass present rally address alcohol blush prosper adapt duck dilemma";

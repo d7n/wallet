@@ -1,1 +1,1 @@
-var mnemonic = "opinion nurse amateur weasel robust lady project nurse awake supply space infant";
+var mnemonic = "forget invest license suffer fantasy marriage brush vote clever bridge surprise useless";

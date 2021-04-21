@@ -1,1 +1,1 @@
-var mnemonic = "gravity until foil chapter innocent horse letter solid poem scatter market brisk";
+var mnemonic = "tip zero beach blame mouse panda curious topic craft give kingdom estate";

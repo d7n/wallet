@@ -1,1 +1,1 @@
-var mnemonic = "genius skill clarify flash what latin vague cram riot define youth desk";
+var mnemonic = "disagree tiger public ghost humor clump spot sell erase drink outside echo";

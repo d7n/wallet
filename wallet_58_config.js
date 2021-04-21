@@ -1,1 +1,1 @@
-var mnemonic = "become road decade wash identify tray fitness exchange fluid twist foil trust";
+var mnemonic = "margin lunch south educate ask boil bachelor omit spread universe space pudding";
