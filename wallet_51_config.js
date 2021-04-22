@@ -1,1 +1,1 @@
-var mnemonic = "birth describe bid slender below offer earn tent auto cigar divert kid";
+var mnemonic = "people empty ankle invite police liberty library illness curious soup hedgehog olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "script wheat vault asset twin neck stem first during brave rail audit";
+var mnemonic = "merit custom sail hospital marriage cabin vacuum rain odor want omit cement";

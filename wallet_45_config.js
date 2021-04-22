@@ -1,1 +1,1 @@
-var mnemonic = "hover badge insect vintage asset cake until coil rebuild era void clarify";
+var mnemonic = "make ridge impulse wrong trim earn monkey night kite crowd rhythm tone";

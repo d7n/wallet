@@ -1,1 +1,1 @@
-var mnemonic = "slam strategy right barely demise daring grain yellow vocal long make party";
+var mnemonic = "ecology dial hundred tray brass fold main dove pupil claim obscure domain";

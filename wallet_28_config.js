@@ -1,1 +1,1 @@
-var mnemonic = "mechanic mountain maid movie void flee garage stumble drill dad front student";
+var mnemonic = "best fan all tree foil vocal stock wet champion silk farm welcome";

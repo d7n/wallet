@@ -1,1 +1,1 @@
-var mnemonic = "weather lazy absorb regret diet bleak bulk bottom champion combine ship dumb";
+var mnemonic = "flight nephew amused rent donor bench bar speed foam mind army garage";

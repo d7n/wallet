@@ -1,1 +1,1 @@
-var mnemonic = "model ugly fan era sudden leave need nothing athlete alpha hen convince";
+var mnemonic = "upset goat pear rural stool neck then hover just lumber switch churn";

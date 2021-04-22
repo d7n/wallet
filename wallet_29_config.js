@@ -1,1 +1,1 @@
-var mnemonic = "sphere seven deliver blind top sure wonder urge ethics local blind wash";
+var mnemonic = "excite able dad avoid sight doctor three exchange useful acquire warfare erode";

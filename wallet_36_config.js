@@ -1,1 +1,1 @@
-var mnemonic = "fashion blouse space acoustic emotion inhale resemble guitar news balance crumble flush";
+var mnemonic = "neck cradle above kiwi fire pair lock absurd decline east about rail";

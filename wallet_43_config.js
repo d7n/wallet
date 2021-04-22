@@ -1,1 +1,1 @@
-var mnemonic = "canoe under genius habit sister work donate kid add angry need vessel";
+var mnemonic = "zero point sibling burger suspect dawn barely patrol suspect health panther forum";

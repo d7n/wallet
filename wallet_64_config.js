@@ -1,1 +1,1 @@
-var mnemonic = "fix fire manual lady clog draft trick engine rhythm woman decrease unable";
+var mnemonic = "genre green meadow cave talent antique gift cliff noble bridge copper shadow";

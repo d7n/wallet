@@ -1,1 +1,1 @@
-var mnemonic = "story evil used favorite debate dirt mind choose caught business sun ranch";
+var mnemonic = "broccoli top cup jelly student observe orbit lion agree leader analyst require";

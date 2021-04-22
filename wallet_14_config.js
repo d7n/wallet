@@ -1,1 +1,1 @@
-var mnemonic = "snow book mixture payment various wreck tiny castle crash join estate naive";
+var mnemonic = "project blood analyst embark junior yard envelope sail century venture limit smart";

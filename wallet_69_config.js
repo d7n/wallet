@@ -1,1 +1,1 @@
-var mnemonic = "cactus rhythm rhythm pulse juice amount black regret riot hedgehog chat erase";
+var mnemonic = "twenty sing minimum success youth shiver eight toilet humble exchange ladder depart";

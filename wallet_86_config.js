@@ -1,1 +1,1 @@
-var mnemonic = "acoustic jeans diagram siren alone click lend pitch orient hunt someone mobile";
+var mnemonic = "polar carbon bargain gap elite fee yellow scorpion actual until slow divert";

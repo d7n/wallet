@@ -1,1 +1,1 @@
-var mnemonic = "exhibit link avoid ramp material appear session final merit embark glue stone";
+var mnemonic = "anchor bench switch below cart misery tube spend file mix decade today";

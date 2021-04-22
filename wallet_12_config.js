@@ -1,1 +1,1 @@
-var mnemonic = "vanish host desk express box park leg swap inherit bridge spoil brief";
+var mnemonic = "lounge fan path wing fluid shield debris blame broccoli wife earn discover";

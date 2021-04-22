@@ -1,1 +1,1 @@
-var mnemonic = "scout bulb task rebuild magnet clever swing found screen anger flag filter";
+var mnemonic = "practice fringe actual soda what shoulder element seek under box dial inform";

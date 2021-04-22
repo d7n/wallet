@@ -1,1 +1,1 @@
-var mnemonic = "river fresh oyster maple captain hello walk frozen harbor puzzle humor accuse";
+var mnemonic = "leopard goat boring assault smart maid board lemon monkey smoke lion major";

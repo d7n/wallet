@@ -1,1 +1,1 @@
-var mnemonic = "total chef shove million delay stamp razor great tired earth gloom there";
+var mnemonic = "leader ridge service grow manage flower radar frozen exile shop blood robot";

@@ -1,1 +1,1 @@
-var mnemonic = "modify mention vicious tragic gorilla deal antique infant riot blouse brush token";
+var mnemonic = "because success series nerve still stand music describe panther ozone phone ridge";

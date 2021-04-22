@@ -1,1 +1,1 @@
-var mnemonic = "average taste nephew iron dance fancy crowd shrimp remind bone mystery diagram";
+var mnemonic = "decide live lumber essence barely hill sail balance dolphin aunt science host";

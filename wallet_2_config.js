@@ -1,1 +1,1 @@
-var mnemonic = "sentence horn solve silk cactus gain like nature behind island spider crater";
+var mnemonic = "win hamster slam post typical little expand number space hole fury leader";

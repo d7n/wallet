@@ -1,1 +1,1 @@
-var mnemonic = "occur acoustic eight habit enough until lock hotel medal about flash kitchen";
+var mnemonic = "melt wool science you assault depth trap become black give bunker escape";

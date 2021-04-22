@@ -1,1 +1,1 @@
-var mnemonic = "stairs element flat detect purpose subject frost item slim domain live crystal";
+var mnemonic = "ride current guitar tattoo youth ready teach soft until hungry diagram small";

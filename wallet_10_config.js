@@ -1,1 +1,1 @@
-var mnemonic = "saddle link trip close almost weasel high cigar object feel olympic update";
+var mnemonic = "pole super reflect tape reason kiwi coral wreck veteran ethics immense cross";

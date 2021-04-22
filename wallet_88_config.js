@@ -1,1 +1,1 @@
-var mnemonic = "toilet size miracle train elder net advice velvet squirrel cushion sunny option";
+var mnemonic = "wild able siren famous exact dolphin birth obscure kite cheap wreck best";

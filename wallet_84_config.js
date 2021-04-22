@@ -1,1 +1,1 @@
-var mnemonic = "swim figure enrich now access endorse stock suffer attack grass entire believe";
+var mnemonic = "paper under need pretty magnet health fly knee stairs skull property element";

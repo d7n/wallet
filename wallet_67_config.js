@@ -1,1 +1,1 @@
-var mnemonic = "family pepper crime news raise crack inherit hen giggle code outer amazing";
+var mnemonic = "weapon agree angle okay proof ivory machine gospel search escape credit parent";

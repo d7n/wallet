@@ -1,1 +1,1 @@
-var mnemonic = "sock want fuel return stove shrimp nice hedgehog taste admit document gentle";
+var mnemonic = "naive produce puzzle obtain swear trade time video liberty segment nurse hammer";

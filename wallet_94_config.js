@@ -1,1 +1,1 @@
-var mnemonic = "lend panel pledge asthma sleep typical young plug frog various apple double";
+var mnemonic = "can lab army trial drop answer urge cluster learn funny panic shoe";

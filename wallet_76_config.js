@@ -1,1 +1,1 @@
-var mnemonic = "one ignore spike cage exact paddle material can jaguar sun oval law";
+var mnemonic = "lyrics amazing loud torch sleep simple fall time tobacco castle senior game";

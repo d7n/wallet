@@ -1,1 +1,1 @@
-var mnemonic = "pass demise mean will matter flat utility awesome myself island program risk";
+var mnemonic = "bottom clutch country screen settle wire spot adjust remember attend morning thought";

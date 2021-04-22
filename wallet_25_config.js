@@ -1,1 +1,1 @@
-var mnemonic = "oval aerobic kind tissue scatter photo vacuum cloud alert bleak couple believe";
+var mnemonic = "eternal myself grid inside verb identify wave avocado thought execute fade museum";

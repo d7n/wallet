@@ -1,1 +1,1 @@
-var mnemonic = "chimney desert clock grant endorse narrow rally soft south parade remain capable";
+var mnemonic = "palace select biology firm enable junior drill ocean scheme harsh relief close";

@@ -1,1 +1,1 @@
-var mnemonic = "bless armed pupil remember decrease duty deposit poet cruise sunny rifle olympic";
+var mnemonic = "title foil attitude play iron result quantum winter fever rate fire super";

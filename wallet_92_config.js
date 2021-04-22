@@ -1,1 +1,1 @@
-var mnemonic = "gas mango mansion stuff banana hard public virus response bounce figure popular";
+var mnemonic = "island chest dilemma unhappy task length add boring strategy empower wolf jazz";

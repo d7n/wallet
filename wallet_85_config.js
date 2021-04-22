@@ -1,1 +1,1 @@
-var mnemonic = "immense year enact chalk honey menu pet produce teach summer there mammal";
+var mnemonic = "inform snack close coyote panel vanish vicious panda hurdle glue process scrub";

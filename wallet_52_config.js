@@ -1,1 +1,1 @@
-var mnemonic = "wash unit cup myself trust quit town shove marine elegant dust split";
+var mnemonic = "topple ski salad bicycle family face toy certain dream purpose unit play";

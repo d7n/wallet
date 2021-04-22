@@ -1,1 +1,1 @@
-var mnemonic = "they assist crop able adapt bleak wheel absent ocean grace convince runway";
+var mnemonic = "enemy reform glow soon theme disagree offer bulb market snap apple mean";

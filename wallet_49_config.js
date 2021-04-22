@@ -1,1 +1,1 @@
-var mnemonic = "index artist recycle theory achieve uncle result fragile dice milk flower repair";
+var mnemonic = "angry chaos fame magnet tent dose survey kangaroo scrap pear grain menu";

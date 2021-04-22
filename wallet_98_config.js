@@ -1,1 +1,1 @@
-var mnemonic = "choice guitar accident cushion play venue arm economy half ethics color potato";
+var mnemonic = "trim display very patch gain input climb hard senior today park clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "front frown learn tower ancient fruit venue truly around venture nephew more";
+var mnemonic = "unaware mansion scan surface extra faith today gospel expose puzzle mask rebel";

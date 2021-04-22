@@ -1,1 +1,1 @@
-var mnemonic = "limb remind chimney cotton artefact security warm trash energy stumble castle day";
+var mnemonic = "please mammal slab ginger trade immense hire medal chair remain utility uncover";

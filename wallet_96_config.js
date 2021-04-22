@@ -1,1 +1,1 @@
-var mnemonic = "wire twin penalty online solid stomach steel company attend artefact forest cloud";
+var mnemonic = "balance firm trim north fragile extra coach crack march cube water timber";

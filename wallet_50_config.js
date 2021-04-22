@@ -1,1 +1,1 @@
-var mnemonic = "slush photo fog cup tortoise resist eight dose deal grass broccoli kitchen";
+var mnemonic = "course rule leader just wool one husband glue express prepare consider demand";

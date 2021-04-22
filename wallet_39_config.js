@@ -1,1 +1,1 @@
-var mnemonic = "sense increase garlic country symbol alarm finish february wool artwork undo sign";
+var mnemonic = "mobile marriage safe travel remind decorate balance domain arena until keen review";

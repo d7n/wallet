@@ -1,1 +1,1 @@
-var mnemonic = "unaware benefit atom trash scatter pumpkin century happy obvious where six yard";
+var mnemonic = "gun tray crater penalty transfer skin swim vote predict truck find convince";

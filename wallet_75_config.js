@@ -1,1 +1,1 @@
-var mnemonic = "rug casino green ready electric leopard idle beef bicycle struggle heavy clever";
+var mnemonic = "relief oblige grit cruise course myth angle naive female away hammer snack";

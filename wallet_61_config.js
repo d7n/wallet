@@ -1,1 +1,1 @@
-var mnemonic = "poet dry flower excess coin material pave winter muffin average february joy";
+var mnemonic = "fold seven random gain stove chef sock cliff evolve sign mobile start";

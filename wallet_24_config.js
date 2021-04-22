@@ -1,1 +1,1 @@
-var mnemonic = "live demand game nurse door auto camera still security age anchor carpet";
+var mnemonic = "drive alarm scrap sketch silk tone awesome upset oxygen float run middle";

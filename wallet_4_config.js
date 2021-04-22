@@ -1,1 +1,1 @@
-var mnemonic = "category mutual giggle special medal media earn tiger science awful thunder orchard";
+var mnemonic = "moral renew patient lyrics alley script key caution recipe harvest huge change";

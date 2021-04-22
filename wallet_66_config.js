@@ -1,1 +1,1 @@
-var mnemonic = "joy library wheel once room nut chicken video door spice venture despair";
+var mnemonic = "park magnet energy exile outside actress august actor luxury staff drop soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "divide soccer popular turkey access curtain fire globe grace argue crystal trick";
+var mnemonic = "attitude glass topple token final obey burst nuclear replace vehicle polar trial";

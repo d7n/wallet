@@ -1,1 +1,1 @@
-var mnemonic = "river miss will puzzle bike muffin social cactus enemy net hour erupt";
+var mnemonic = "scan notice game reform dignity result various frequent wild bless verb blast";

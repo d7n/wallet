@@ -1,1 +1,1 @@
-var mnemonic = "skin act jungle armor solution dose banana plastic pair gospel output woman";
+var mnemonic = "twice wing biology panel retreat client cloud jacket reform subject gym auction";

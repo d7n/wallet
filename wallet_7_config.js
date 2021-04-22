@@ -1,1 +1,1 @@
-var mnemonic = "ethics advice arrive express jump window chef pink matter guide ball spring";
+var mnemonic = "captain tumble rare escape circle excuse embrace error spray apart echo setup";

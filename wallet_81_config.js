@@ -1,1 +1,1 @@
-var mnemonic = "wheel autumn eight wing hub salad crime globe april pink thrive easily";
+var mnemonic = "tattoo grit gesture excite enlist casual stove object hawk drift garden bracket";

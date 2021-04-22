@@ -1,1 +1,1 @@
-var mnemonic = "own return radar sail sure clinic dismiss badge gather because close pistol";
+var mnemonic = "ocean trumpet badge march large list morning range they organ silk bus";

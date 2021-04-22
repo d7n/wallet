@@ -1,1 +1,1 @@
-var mnemonic = "trigger great document ring puzzle diagram enemy aware fence average aerobic theory";
+var mnemonic = "art kidney tilt veteran vintage neglect fee veteran shrimp custom shove faint";

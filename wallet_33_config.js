@@ -1,1 +1,1 @@
-var mnemonic = "one about item exist tower cabbage sound shield student gold strong mandate";
+var mnemonic = "enough provide pilot strike tool lottery muffin market jaguar federal replace drive";

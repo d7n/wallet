@@ -1,1 +1,1 @@
-var mnemonic = "bring empower always icon income chunk purchase arrow cry position expire seminar";
+var mnemonic = "evolve lawn clarify dress among quote vacuum rookie wife village keep crater";

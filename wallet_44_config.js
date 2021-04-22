@@ -1,1 +1,1 @@
-var mnemonic = "trial roast toward margin woman shuffle position all silver despair radar carpet";
+var mnemonic = "tell type noise praise drama hobby engage caution target search bike relax";

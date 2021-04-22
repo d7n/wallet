@@ -1,1 +1,1 @@
-var mnemonic = "sad olive holiday appear version flock glow like lady power mention surprise";
+var mnemonic = "blossom knife mansion apart sea night fortune decorate lava maid key midnight";

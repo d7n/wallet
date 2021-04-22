@@ -1,1 +1,1 @@
-var mnemonic = "tobacco combine until lady winner garage damp slow caught element kid nothing";
+var mnemonic = "then obtain worth century lamp foil cry fiber citizen cruel tail session";

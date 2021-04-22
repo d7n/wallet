@@ -1,1 +1,1 @@
-var mnemonic = "nephew rescue aware night movie thought crush worth garment spike extra install";
+var mnemonic = "animal curious toy exotic globe slot nephew actress leg utility symptom inner";

@@ -1,1 +1,1 @@
-var mnemonic = "secret praise mouse certain arena breeze hunt wash edge slam absent soccer";
+var mnemonic = "input disorder fat seven connect spoon mammal ritual hurt artwork victory carry";

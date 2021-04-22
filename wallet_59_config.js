@@ -1,1 +1,1 @@
-var mnemonic = "farm hamster lottery more rotate saddle prepare employ appear vehicle gold purse";
+var mnemonic = "similar hen diesel omit canal train pet claim husband unveil develop couch";

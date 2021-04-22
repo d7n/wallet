@@ -1,1 +1,1 @@
-var mnemonic = "merit garage assault mosquito profit vendor combine agree alarm hamster hole slice";
+var mnemonic = "exit injury royal more book remain hope devote cram decorate noodle nuclear";

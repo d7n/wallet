@@ -1,1 +1,1 @@
-var mnemonic = "this lady child shuffle dilemma pill mercy include speak van describe adjust";
+var mnemonic = "behave another discover tragic lyrics coast cover liar globe battle ecology orphan";

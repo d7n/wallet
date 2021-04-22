@@ -1,1 +1,1 @@
-var mnemonic = "sweet provide grant evidence entry option above accident list cattle very luggage";
+var mnemonic = "bronze solid spirit choice radar cheap asthma menu floor west during blind";

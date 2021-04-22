@@ -1,1 +1,1 @@
-var mnemonic = "bounce puzzle regret reduce biology off boring entry keep ethics vital divorce";
+var mnemonic = "inch clog shell margin sponsor flight example shuffle fat holiday school cart";

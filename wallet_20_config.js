@@ -1,1 +1,1 @@
-var mnemonic = "ethics merit used rather poet minute feed ski enough boost twice illegal";
+var mnemonic = "clutch enrich vapor pledge soul potato group regret royal song danger voyage";

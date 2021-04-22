@@ -1,1 +1,1 @@
-var mnemonic = "inject swift soup weasel tooth bacon transfer office habit asset gravity want";
+var mnemonic = "person heavy risk faint prize lake diesel cute gold plug bundle region";

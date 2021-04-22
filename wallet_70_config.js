@@ -1,1 +1,1 @@
-var mnemonic = "jazz bind trip spike cat turn opinion fury sheriff imitate liberty food";
+var mnemonic = "clean gap kind offer text ice fame peace van inhale collect hurry";

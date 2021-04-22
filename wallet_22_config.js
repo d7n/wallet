@@ -1,1 +1,1 @@
-var mnemonic = "antique twelve congress palm smooth exhaust real awesome stomach horn raccoon note";
+var mnemonic = "switch cause large uphold engage pear luggage guess slide borrow stuff inflict";

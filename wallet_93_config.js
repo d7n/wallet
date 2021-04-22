@@ -1,1 +1,1 @@
-var mnemonic = "lion ranch swift sphere pioneer promote scan lottery abandon else all sister";
+var mnemonic = "guide cinnamon wisdom feature sniff hair earn aisle dress unfair mule crime";

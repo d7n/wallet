@@ -1,1 +1,1 @@
-var mnemonic = "winter analyst wild awesome all rate neglect vote hour glove quick object";
+var mnemonic = "rapid give bracket false crunch amount ride whisper wage place there rude";

@@ -1,1 +1,1 @@
-var mnemonic = "piano bring exhibit guilt visa burger lab swear copy govern bird decade";
+var mnemonic = "review smile useful piano account notice elder someone place already canal spoon";

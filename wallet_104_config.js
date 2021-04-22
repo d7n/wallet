@@ -1,1 +1,1 @@
-var mnemonic = "depart short cliff usual host about enter claim scan improve sick skate";
+var mnemonic = "marriage survey spirit ecology injury polar torch flock tree brave aunt lobster";

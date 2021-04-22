@@ -1,1 +1,1 @@
-var mnemonic = "husband wrap match pizza sea cream sense mule sense purse used junk";
+var mnemonic = "solar entry uniform job swing raise heavy stadium element broom dust cream";

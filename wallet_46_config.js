@@ -1,1 +1,1 @@
-var mnemonic = "lens desk amateur eye staff release digital bring pull swift jewel initial";
+var mnemonic = "attitude deer inner click argue spatial illegal nature trophy beef inch business";

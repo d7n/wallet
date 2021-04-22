@@ -1,1 +1,1 @@
-var mnemonic = "spell swear access old maple brief old topple used analyst shaft toss";
+var mnemonic = "job arena object multiply top cargo elder voyage they endorse series novel";

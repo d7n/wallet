@@ -1,1 +1,1 @@
-var mnemonic = "error possible future hello length bitter stone two puppy exact column client";
+var mnemonic = "tissue expire ocean letter salon long amount refuse cloth excuse wash library";

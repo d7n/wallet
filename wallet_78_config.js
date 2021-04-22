@@ -1,1 +1,1 @@
-var mnemonic = "please pulse radar rigid napkin margin bean file laugh borrow lesson section";
+var mnemonic = "force hub pony cotton attack monster clever panic critic catalog end rose";

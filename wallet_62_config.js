@@ -1,1 +1,1 @@
-var mnemonic = "song grab crazy caught liquid shoe quote scrub fashion kitten puzzle submit";
+var mnemonic = "lunar ivory fortune chief security spice budget canal member lyrics life receive";

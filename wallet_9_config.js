@@ -1,1 +1,1 @@
-var mnemonic = "elbow behave notable paper trend rabbit sun nut trend illness grit hover";
+var mnemonic = "mule video divide decline lawsuit math payment view lift level predict now";

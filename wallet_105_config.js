@@ -1,1 +1,1 @@
-var mnemonic = "magnet tattoo act carry amused live cheap spell afraid history mixed crack";
+var mnemonic = "simple cliff praise essence course inform ugly they indicate purity acoustic supreme";
