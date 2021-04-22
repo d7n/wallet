@@ -1,1 +1,1 @@
-var mnemonic = "tackle palace repair shell donkey dash benefit consider patient frozen deny thrive";
+var mnemonic = "conduct above regular build slice today venture mention pulse grief false surge";

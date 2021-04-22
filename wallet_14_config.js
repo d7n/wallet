@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow odor subway leader syrup sauce flash sting file medal boring notable";
+var mnemonic = "bullet shrimp uncle toddler march menu belt ordinary country huge stuff express";

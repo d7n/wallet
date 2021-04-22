@@ -1,1 +1,1 @@
-var mnemonic = "cave oyster theme city road oppose profit palm champion sketch mention truck";
+var mnemonic = "myth any stairs ocean miss leopard muffin cover antique depart alone immense";

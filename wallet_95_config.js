@@ -1,1 +1,1 @@
-var mnemonic = "unique marble uphold else meadow delay spend conduct energy arrive toe cabin";
+var mnemonic = "tongue drift cigar predict awful gym awake devote group practice winner ticket";

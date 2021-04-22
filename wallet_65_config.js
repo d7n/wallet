@@ -1,1 +1,1 @@
-var mnemonic = "tragic husband honey public ordinary lobster helmet axis excite reduce open section";
+var mnemonic = "eagle guilt angry spawn album cup capable enable make pet garage struggle";

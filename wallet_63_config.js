@@ -1,1 +1,1 @@
-var mnemonic = "short spirit true accuse lava often also sibling abstract season account define";
+var mnemonic = "bamboo success ready pupil sweet legal unveil decline thumb boring finger effort";

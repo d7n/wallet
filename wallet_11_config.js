@@ -1,1 +1,1 @@
-var mnemonic = "diamond hungry cute exact skirt razor disagree addict there garage board trend";
+var mnemonic = "rather frequent theme soda round seven there burst gloom injury meadow syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "federal above month aware donkey tube maid primary quarter choose depend zebra";
+var mnemonic = "little reform insect then top cloth swear cargo embody mouse favorite clinic";

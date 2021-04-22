@@ -1,1 +1,1 @@
-var mnemonic = "faith venue lady aunt amateur physical pattern rich husband earn grass junk";
+var mnemonic = "cry naive stool safe miss turn cigar snack quick drop tooth slow";

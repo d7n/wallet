@@ -1,1 +1,1 @@
-var mnemonic = "clown actress museum involve pen begin music this enhance oval palm pony";
+var mnemonic = "elephant mesh leader confirm report dismiss order two fee frequent issue mail";

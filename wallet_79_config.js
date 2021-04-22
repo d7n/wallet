@@ -1,1 +1,1 @@
-var mnemonic = "left sound copper method steel neglect endorse lucky sadness private bubble satoshi";
+var mnemonic = "assault immune power year sun cloud tomato width achieve garbage aerobic diagram";

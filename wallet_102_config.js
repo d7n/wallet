@@ -1,1 +1,1 @@
-var mnemonic = "person space ride error brave below tourist gesture treat always world profit";
+var mnemonic = "bonus symptom similar bomb resource inherit token polar animal album latin october";

@@ -1,1 +1,1 @@
-var mnemonic = "movie east arctic inherit find success romance fiscal diet beach flat pole";
+var mnemonic = "swap globe protect deliver attitude captain warm grit inject hold fatal music";

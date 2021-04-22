@@ -1,1 +1,1 @@
-var mnemonic = "alert walnut head engine decide where smoke rice primary render estate artist";
+var mnemonic = "unfold pizza cute memory today desert roast rain inquiry kite rate route";

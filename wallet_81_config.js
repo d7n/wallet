@@ -1,1 +1,1 @@
-var mnemonic = "fatal oppose fever average crime dune ivory attack boy ill search master";
+var mnemonic = "helmet broom trigger sustain kidney subject buffalo fence soul badge library phone";

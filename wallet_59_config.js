@@ -1,1 +1,1 @@
-var mnemonic = "torch evolve three visual cupboard such true rich shine main unfold copper";
+var mnemonic = "agent monkey kite desert glance diagram minimum dilemma old fatigue pen pluck";

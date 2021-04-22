@@ -1,1 +1,1 @@
-var mnemonic = "chimney dial spatial fossil awake favorite claw cruel vessel target ozone situate";
+var mnemonic = "region solution kid floor horse shock happy inner narrow practice gravity service";

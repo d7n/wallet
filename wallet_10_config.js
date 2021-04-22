@@ -1,1 +1,1 @@
-var mnemonic = "deliver unaware escape black humble fiber tone armor settle nuclear army tattoo";
+var mnemonic = "fitness glove upper barrel gun ordinary enforce journey stairs balcony nice learn";

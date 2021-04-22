@@ -1,1 +1,1 @@
-var mnemonic = "alert gadget nuclear matter cannon shaft rule fruit noise doctor hundred apology";
+var mnemonic = "ten drink cool hurt scrap scissors guitar sure priority insect inhale sick";

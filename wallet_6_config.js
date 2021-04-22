@@ -1,1 +1,1 @@
-var mnemonic = "grain aspect giggle beauty object gospel clean marine roast need reason rubber";
+var mnemonic = "capital gate sheriff delay rose bargain idea away pull shed next zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "carry play salmon praise tent lemon rent angle together cotton hint nephew";
+var mnemonic = "shine zero hole switch source fold seminar hair tobacco ring poet gather";

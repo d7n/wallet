@@ -1,1 +1,1 @@
-var mnemonic = "dumb avoid property exhaust obey baby install drive fossil answer delay alert";
+var mnemonic = "beef device wheat obscure upset furnace satisfy dignity budget fancy hunt combine";

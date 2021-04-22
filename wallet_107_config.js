@@ -1,1 +1,1 @@
-var mnemonic = "jacket process toss scheme palace two rose smoke wreck thought muscle aerobic";
+var mnemonic = "shadow also crop describe envelope outer item kitten analyst session identify violin";

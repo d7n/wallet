@@ -1,1 +1,1 @@
-var mnemonic = "witness save ridge toy naive large dirt sail romance inner mask shoulder";
+var mnemonic = "love grief payment lounge differ neutral return long isolate goose pulp minor";

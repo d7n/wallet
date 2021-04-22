@@ -1,1 +1,1 @@
-var mnemonic = "verb bracket number banana easy ten road special dream valid velvet letter";
+var mnemonic = "return cage panel waste give boss say high install canyon sadness scheme";

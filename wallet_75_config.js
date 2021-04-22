@@ -1,1 +1,1 @@
-var mnemonic = "stool load rotate hunt abstract electric spin despair fox trash snack tourist";
+var mnemonic = "fever entire under kid hazard squirrel stadium now cream cream crack field";

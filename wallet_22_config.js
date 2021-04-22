@@ -1,1 +1,1 @@
-var mnemonic = "tongue bitter salmon device traffic gather dad another bird pottery sheriff alone";
+var mnemonic = "artist cliff garment exercise involve fish talent innocent plate win better equal";

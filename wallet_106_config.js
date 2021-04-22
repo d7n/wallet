@@ -1,1 +1,1 @@
-var mnemonic = "roast scatter choose solar crew suspect garbage impose wrong sick pigeon another";
+var mnemonic = "enjoy snake become surprise opera raccoon argue change skull pride staff shock";

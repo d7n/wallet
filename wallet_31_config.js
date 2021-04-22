@@ -1,1 +1,1 @@
-var mnemonic = "hill sing video arch crop phone height uphold abuse midnight north develop";
+var mnemonic = "fatigue provide rapid smoke very law mix increase globe detect stick bread";

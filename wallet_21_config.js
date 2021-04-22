@@ -1,1 +1,1 @@
-var mnemonic = "sheriff market lobster arm tumble air enlist hope casino bread spatial fuel";
+var mnemonic = "indicate stool sadness donate baby leisure audit same remember taste symptom glance";

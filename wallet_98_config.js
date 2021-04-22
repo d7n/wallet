@@ -1,1 +1,1 @@
-var mnemonic = "treat chaos auction erode machine weird owner cloth speed vendor lawn remember";
+var mnemonic = "adapt creek trumpet holiday often match segment movie swamp again noise note";

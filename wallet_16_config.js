@@ -1,1 +1,1 @@
-var mnemonic = "vague obscure crumble acquire industry tired casino large acquire nominee collect february";
+var mnemonic = "soap adult visual nothing doctor audit liar awful prevent feed kind dial";

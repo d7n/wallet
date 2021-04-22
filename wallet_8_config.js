@@ -1,1 +1,1 @@
-var mnemonic = "noise frequent tonight result carbon animal piece other swallow turn cube sibling";
+var mnemonic = "brass script sort must coyote remind medal hero kidney drift laugh wide";

@@ -1,1 +1,1 @@
-var mnemonic = "jar merry kingdom exist car place sweet inside vote intact adapt subject";
+var mnemonic = "gate hundred maid liberty priority anxiety noodle wear dove patrol fall worth";

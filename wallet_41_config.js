@@ -1,1 +1,1 @@
-var mnemonic = "type venue legal machine relief daughter try adult soup conduct razor banner";
+var mnemonic = "teach inspire direct bicycle property inside inspire trend will else train march";

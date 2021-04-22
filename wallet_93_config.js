@@ -1,1 +1,1 @@
-var mnemonic = "gun crane canoe provide foam accuse melt shadow food word vacuum armor";
+var mnemonic = "click toward fitness liquid omit vapor pole stadium indoor rain maximum judge";

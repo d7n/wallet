@@ -1,1 +1,1 @@
-var mnemonic = "caution dwarf enroll talk bag below three brown silly short antique orient";
+var mnemonic = "network nothing invite curious gym taxi easily chunk unit duck monster now";

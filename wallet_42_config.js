@@ -1,1 +1,1 @@
-var mnemonic = "monkey scorpion resist another hair intact timber enter siege dry gather force";
+var mnemonic = "prize lava elegant glance bamboo bar day twenty cabbage caught victory next";

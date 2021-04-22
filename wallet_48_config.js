@@ -1,1 +1,1 @@
-var mnemonic = "copy galaxy slogan first soda garbage joke print arrest tide spider fringe";
+var mnemonic = "taste health evolve vapor advice honey science detail trim lobster bridge genius";

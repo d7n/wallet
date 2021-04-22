@@ -1,1 +1,1 @@
-var mnemonic = "dismiss rice winter boss key dumb owner hood planet kind profit calm";
+var mnemonic = "engage any kingdom mosquito convince sleep ugly rival tip trouble genuine letter";

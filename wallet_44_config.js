@@ -1,1 +1,1 @@
-var mnemonic = "material slab gasp spatial screen axis hard wood rubber thought cousin evil";
+var mnemonic = "light receive weather clarify unable sail combine fashion stage van crime you";

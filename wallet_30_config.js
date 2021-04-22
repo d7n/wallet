@@ -1,1 +1,1 @@
-var mnemonic = "notable correct hope chaos engage keen churn upgrade first find bamboo radar";
+var mnemonic = "misery true win chapter river denial boss favorite boss topple sell job";

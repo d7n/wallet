@@ -1,1 +1,1 @@
-var mnemonic = "meat portion pass ketchup uncle across strategy resemble into message ostrich reflect";
+var mnemonic = "illegal boring boring provide tennis garbage call cash warfare gain learn risk";

@@ -1,1 +1,1 @@
-var mnemonic = "earn total bless physical physical any high comic foam roast cat balcony";
+var mnemonic = "table february keep because remain today hello document put phone category purse";

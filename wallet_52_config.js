@@ -1,1 +1,1 @@
-var mnemonic = "print meat bamboo foil cover cinnamon actress unfold crane ceiling mail share";
+var mnemonic = "steel sick find crime monster lunar alone bargain smart elegant already bitter";

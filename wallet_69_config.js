@@ -1,1 +1,1 @@
-var mnemonic = "bomb wedding budget ramp state across curve kangaroo monkey when birth work";
+var mnemonic = "select allow increase warm accuse joy wall strategy deputy doctor hospital drill";

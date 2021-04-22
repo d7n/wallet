@@ -1,1 +1,1 @@
-var mnemonic = "monitor bid upset kidney decade genre crack depth pledge grit tornado what";
+var mnemonic = "walnut orbit blossom spike wage antenna sustain inform print tray all kite";

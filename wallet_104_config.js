@@ -1,1 +1,1 @@
-var mnemonic = "blade acquire sting sign soul coast rocket abandon sheriff key park rocket";
+var mnemonic = "gorilla second before vague canvas refuse receive decade little flush estate close";

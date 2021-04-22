@@ -1,1 +1,1 @@
-var mnemonic = "bronze predict giggle over visa puppy potato pink pencil diagram twin eternal";
+var mnemonic = "tide broccoli final spring mountain topic awful around heavy face join fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist letter tuna solution hip sponsor flip surge hockey about pattern yellow";
+var mnemonic = "must tower chunk pizza immune pioneer tired collect universe liar high know";

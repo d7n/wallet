@@ -1,1 +1,1 @@
-var mnemonic = "under split museum pact fashion destroy define candy stomach wife lunch plastic";
+var mnemonic = "pill pottery try gas afraid cute solve marble buyer marriage judge below";

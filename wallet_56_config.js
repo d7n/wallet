@@ -1,1 +1,1 @@
-var mnemonic = "issue tourist garden bike decide actual concert between situate chimney battle neutral";
+var mnemonic = "beach require artwork educate front raw behind crazy jewel long section marriage";

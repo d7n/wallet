@@ -1,1 +1,1 @@
-var mnemonic = "theory rack bargain develop cable buffalo barrel school endless human tongue volume";
+var mnemonic = "garment apple present sudden lab fade grunt belt mosquito wagon decide butter";

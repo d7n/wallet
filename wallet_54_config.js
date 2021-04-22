@@ -1,1 +1,1 @@
-var mnemonic = "august great wing skate space fee enrich cheese kangaroo alley notable plate";
+var mnemonic = "there capable connect nut april modify laptop question excess venue layer record";

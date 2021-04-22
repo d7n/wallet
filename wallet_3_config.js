@@ -1,1 +1,1 @@
-var mnemonic = "sleep truck strategy phone myself army various thunder chunk carpet yellow remember";
+var mnemonic = "face bring what field pipe awkward autumn fine sword denial shuffle vehicle";

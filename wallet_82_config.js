@@ -1,1 +1,1 @@
-var mnemonic = "light matrix usual flock destroy mention convince buddy network mammal claw dismiss";
+var mnemonic = "inmate impose theory lady sunset upset teach real obscure under economy bind";

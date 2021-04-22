@@ -1,1 +1,1 @@
-var mnemonic = "citizen army impose warrior point feature rent pottery gloom category vocal upper";
+var mnemonic = "private joy toast enforce unlock scorpion slogan little thunder nothing gold bench";

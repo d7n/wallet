@@ -1,1 +1,1 @@
-var mnemonic = "tumble rent camp key speed network text flash between delay among can";
+var mnemonic = "call proof act diagram face sample fiction hold butter custom season word";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday chef aware rack illegal novel educate royal family supreme enlist awake";
+var mnemonic = "head flee coconut cargo leopard assume gift nurse neither staff rule rival";

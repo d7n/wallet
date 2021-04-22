@@ -1,1 +1,1 @@
-var mnemonic = "swift identify brain method clump lift peanut work wife render subway spray";
+var mnemonic = "river clown trouble start taxi helmet text sing rib rack recipe clock";

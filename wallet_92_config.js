@@ -1,1 +1,1 @@
-var mnemonic = "crane labor divorce famous digital imitate journey romance glow focus globe layer";
+var mnemonic = "steak solid shoulder find repair flight wave switch balance destroy tenant ask";

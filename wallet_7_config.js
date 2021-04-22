@@ -1,1 +1,1 @@
-var mnemonic = "virtual cactus style mean gasp knock satoshi corn wrap path dirt hamster";
+var mnemonic = "rhythm picnic rice destroy success gauge fun health symbol coast basket title";

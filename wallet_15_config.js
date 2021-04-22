@@ -1,1 +1,1 @@
-var mnemonic = "bless measure police topple clay float follow rug faint firm enlist sweet";
+var mnemonic = "gasp rally expire dial token shield daughter put exile sound auto equal";

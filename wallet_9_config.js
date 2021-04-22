@@ -1,1 +1,1 @@
-var mnemonic = "change clutch fatal various student roof crazy faculty share enable soap sea";
+var mnemonic = "boil strategy license start cycle vital scale whale subway around away crawl";

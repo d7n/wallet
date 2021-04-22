@@ -1,1 +1,1 @@
-var mnemonic = "hungry robot food absorb write shine major fold mango feed reunion lemon";
+var mnemonic = "zebra wreck taxi since buyer glue camp kitten know observe prepare damp";

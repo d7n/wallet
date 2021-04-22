@@ -1,1 +1,1 @@
-var mnemonic = "sentence sick symptom coffee mad regret digital also busy fire usual boat";
+var mnemonic = "process stick check feed giggle grass also describe clinic water federal net";

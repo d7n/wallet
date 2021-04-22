@@ -1,1 +1,1 @@
-var mnemonic = "immune until ostrich wild banner embark ocean rent provide game expand trade";
+var mnemonic = "six federal tongue walnut noodle move scare tunnel world debate song rural";

@@ -1,1 +1,1 @@
-var mnemonic = "table pony there prefer you casual sick spare key sick ancient pudding";
+var mnemonic = "hard obvious swarm exchange okay tent hire weather crunch version camera gallery";

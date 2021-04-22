@@ -1,1 +1,1 @@
-var mnemonic = "owner private outer horror entire bag layer hunt ethics humble grain vote";
+var mnemonic = "bike enforce mule poverty flock economy glimpse cloud ridge bunker kidney nuclear";

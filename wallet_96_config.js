@@ -1,1 +1,1 @@
-var mnemonic = "hotel music month novel gospel abstract safe foam uniform impose always stumble";
+var mnemonic = "blanket leg price inner salute frog save argue rapid cage blur panel";

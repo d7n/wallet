@@ -1,1 +1,1 @@
-var mnemonic = "curious alarm clip shrug must this brown object public shadow pull close";
+var mnemonic = "acid intact gap stomach auction spice agent wood decrease doctor gold scout";

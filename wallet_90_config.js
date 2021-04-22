@@ -1,1 +1,1 @@
-var mnemonic = "cave resource daughter boss river fire supply hood gospel clap embody error";
+var mnemonic = "detect erode elbow vacant salon raise elegant whale rail tissue glue bundle";

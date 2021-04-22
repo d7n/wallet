@@ -1,1 +1,1 @@
-var mnemonic = "brisk cactus fringe alley miracle unknown shoe wash gorilla casual expire pledge";
+var mnemonic = "credit sadness average card solution loan soft hub exclude odor weasel power";

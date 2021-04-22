@@ -1,1 +1,1 @@
-var mnemonic = "trial lunch cave nut balance cross same length urge oval fluid rookie";
+var mnemonic = "fish indoor book apart series few cat same walnut endorse insect copper";

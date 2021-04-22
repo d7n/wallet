@@ -1,1 +1,1 @@
-var mnemonic = "another abuse pilot breeze used swift obvious sugar call space nest crucial";
+var mnemonic = "into scene project excess goose together horn lend cupboard business obey accuse";

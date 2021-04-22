@@ -1,1 +1,1 @@
-var mnemonic = "weasel install strategy parade worry dune police captain pyramid laundry unable future";
+var mnemonic = "old cactus fantasy lava double subject humble kangaroo reveal trend spike flavor";

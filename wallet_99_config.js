@@ -1,1 +1,1 @@
-var mnemonic = "allow impact order pony tragic jelly pause wet guess hope legend little";
+var mnemonic = "dawn cousin margin future over column kick you reason dwarf employ certain";

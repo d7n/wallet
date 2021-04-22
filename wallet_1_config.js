@@ -1,1 +1,1 @@
-var mnemonic = "impose horse attack round village wet illness style add element nice useful";
+var mnemonic = "fox cannon umbrella glue approve seat forum sad life seven raw hen";

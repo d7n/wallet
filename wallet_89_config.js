@@ -1,1 +1,1 @@
-var mnemonic = "lizard enemy neither dust lunch toe uncle script rack cupboard lens split";
+var mnemonic = "unveil assault rug spring length coast next nephew gold hood vessel moral";

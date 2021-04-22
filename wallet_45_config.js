@@ -1,1 +1,1 @@
-var mnemonic = "hawk since primary project impulse dish security vicious video elevator disorder mistake";
+var mnemonic = "fruit neck path excuse acquire crew stumble luxury illegal dolphin muffin water";

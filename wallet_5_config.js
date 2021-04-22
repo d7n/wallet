@@ -1,1 +1,1 @@
-var mnemonic = "blame output title grape puzzle reopen game play pact reason crouch student";
+var mnemonic = "nice company seed joy peanut distance train boil gauge phone rose segment";

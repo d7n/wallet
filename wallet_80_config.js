@@ -1,1 +1,1 @@
-var mnemonic = "tissue polar tribe anxiety trigger old danger utility library inch abuse winner";
+var mnemonic = "derive midnight answer range diesel kitchen oak aerobic zoo weasel swim warrior";

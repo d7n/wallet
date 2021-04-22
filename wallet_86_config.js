@@ -1,1 +1,1 @@
-var mnemonic = "shiver dry soccer truth april design neck dinosaur vote bounce jelly trumpet";
+var mnemonic = "razor common figure still ginger faith menu arctic stuff flame blood party";

@@ -1,1 +1,1 @@
-var mnemonic = "inject recipe merit equal era liquid anxiety rare galaxy remove pilot margin";
+var mnemonic = "same faint venture injury toward finish antenna lizard old basic camp fancy";

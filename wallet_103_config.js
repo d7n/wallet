@@ -1,1 +1,1 @@
-var mnemonic = "quit hole liquid teach minor zone broccoli bird hip wisdom stomach nothing";
+var mnemonic = "initial debris wealth stick glow amazing final warrior raven vault faculty logic";

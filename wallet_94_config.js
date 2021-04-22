@@ -1,1 +1,1 @@
-var mnemonic = "shove normal bean admit boil squeeze problem common equip bridge desk age";
+var mnemonic = "turn trial shrimp cluster seek before echo divorce deposit start announce tiny";

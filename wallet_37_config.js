@@ -1,1 +1,1 @@
-var mnemonic = "total furnace will elevator permit summer volcano dad balcony current become spice";
+var mnemonic = "seminar hurt quote party gown piece lend oppose adjust crawl law minor";

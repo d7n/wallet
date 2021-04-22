@@ -1,1 +1,1 @@
-var mnemonic = "win surprise disease off upon erupt minor garlic ramp ten celery reflect";
+var mnemonic = "invite virus spy early depth lab head balance bunker picnic toy switch";

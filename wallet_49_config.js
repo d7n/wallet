@@ -1,1 +1,1 @@
-var mnemonic = "swift hurry iron discover tent banner depth figure cricket enable aim explain";
+var mnemonic = "regular settle laugh tomorrow sun length blood harbor reason cart position dial";

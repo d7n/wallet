@@ -1,1 +1,1 @@
-var mnemonic = "outer ticket hurdle aerobic rail oyster check blade stay debris rug fat";
+var mnemonic = "divert jazz notice half good black struggle raven witness differ squirrel this";

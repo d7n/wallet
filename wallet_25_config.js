@@ -1,1 +1,1 @@
-var mnemonic = "fox message arrange hotel uncle enrich scissors mosquito penalty enforce eye beach";
+var mnemonic = "need rail issue group romance vivid verb kitchen bamboo timber lava usual";

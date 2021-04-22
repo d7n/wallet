@@ -1,1 +1,1 @@
-var mnemonic = "name reunion radar ankle move rebel belt cruel plate verify tumble trophy";
+var mnemonic = "giraffe position feel bind cattle crunch there half sea topple text practice";
