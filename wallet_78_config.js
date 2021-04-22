@@ -1,1 +1,1 @@
-var mnemonic = "uncover equip slam tomorrow message parade dinner dismiss honey faculty answer rally";
+var mnemonic = "word core olive arena thing shaft depart duck punch kite better island";

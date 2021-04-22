@@ -1,1 +1,1 @@
-var mnemonic = "emerge solve bench cancel edit begin property light soul zero pyramid hospital";
+var mnemonic = "ability recycle derive force interest impact crack kangaroo marble secret believe inspire";

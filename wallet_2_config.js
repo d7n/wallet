@@ -1,1 +1,1 @@
-var mnemonic = "response saddle tomato immense scare divide vessel inflict meadow dance grid atom";
+var mnemonic = "advance figure fitness illegal caution original decide tank orbit come crouch supply";

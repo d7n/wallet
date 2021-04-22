@@ -1,1 +1,1 @@
-var mnemonic = "network comic brain sail exhaust bench sibling sad slush clock tag rack";
+var mnemonic = "bunker symbol dog track sell glow cry train depth skin coyote acquire";

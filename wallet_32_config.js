@@ -1,1 +1,1 @@
-var mnemonic = "rescue leaf husband prosper increase slim moon snack have arena private wasp";
+var mnemonic = "hungry hand drastic arm afford patrol slight antique fabric say chapter utility";

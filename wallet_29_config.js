@@ -1,1 +1,1 @@
-var mnemonic = "scheme recycle hammer borrow popular problem box rookie negative pole note later";
+var mnemonic = "excite cause olive crunch lottery flame exact choose dolphin head afford stand";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest legend broken write muffin intact grocery volcano already harvest canoe task";
+var mnemonic = "major rule ghost coffee clerk twenty profit stable bomb course exile enrich";

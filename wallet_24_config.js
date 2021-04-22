@@ -1,1 +1,1 @@
-var mnemonic = "execute power rib cattle breeze color pledge response history staff danger club";
+var mnemonic = "travel crush corn solar world critic build plastic example hungry original tiny";

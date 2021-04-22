@@ -1,1 +1,1 @@
-var mnemonic = "concert tortoise museum punch moment laptop mirror engine fiscal material flame bachelor";
+var mnemonic = "pulp host index chunk impact junior ensure dune can mobile undo milk";

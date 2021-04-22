@@ -1,1 +1,1 @@
-var mnemonic = "any fever catch twelve cliff bachelor dizzy two kitten never theory taxi";
+var mnemonic = "front vocal sugar symbol remember inspire harsh civil canvas sun spin retire";

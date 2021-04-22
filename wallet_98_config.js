@@ -1,1 +1,1 @@
-var mnemonic = "nasty habit near engage raw expand lesson oxygen exercise explain light master";
+var mnemonic = "reflect sniff urban pluck toss cigar column cheese useful famous elevator sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet inherit resource session stable excite want maze sight record early bean";
+var mnemonic = "cigar author mouse narrow shadow can wreck camera second rich outdoor buffalo";

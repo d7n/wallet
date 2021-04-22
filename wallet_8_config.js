@@ -1,1 +1,1 @@
-var mnemonic = "shove pony biology divide damage property gym equal fade stock bring destroy";
+var mnemonic = "library rich uncle pole execute visual journey kick interest popular offer property";

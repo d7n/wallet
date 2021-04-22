@@ -1,1 +1,1 @@
-var mnemonic = "bench hidden define better manual blame pipe amazing sock logic exclude still";
+var mnemonic = "sea nature patch galaxy cousin guilt business discover wonder rich remove swift";

@@ -1,1 +1,1 @@
-var mnemonic = "rice source soft olympic december secret monkey settle ice dust large garage";
+var mnemonic = "flavor inhale turtle zoo multiply credit ribbon wrist spell crystal magnet success";

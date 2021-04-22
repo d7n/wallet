@@ -1,1 +1,1 @@
-var mnemonic = "nation call oyster tent grass climb parrot fluid slight project nothing zebra";
+var mnemonic = "struggle kind alpha patient turn give tape measure betray target tortoise trick";

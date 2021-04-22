@@ -1,1 +1,1 @@
-var mnemonic = "pitch merit matter place kidney credit iron inject act anger park equip";
+var mnemonic = "tooth visual visa decorate antique supreme flock kiwi payment loop seek mountain";

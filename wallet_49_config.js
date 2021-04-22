@@ -1,1 +1,1 @@
-var mnemonic = "detect flame egg image shadow coral wisdom feature because weasel must now";
+var mnemonic = "sheriff leader anchor talent video addict summer degree buyer top major trouble";

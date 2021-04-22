@@ -1,1 +1,1 @@
-var mnemonic = "very lyrics absent tattoo force ring october thumb faint order speed wisdom";
+var mnemonic = "monitor focus topic antenna boring tuition struggle wild about exchange hat remind";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal lend arm spawn render team scrub swamp involve ripple obtain polar";
+var mnemonic = "alley expand debris cycle barrel sun deposit print north crucial lesson hand";

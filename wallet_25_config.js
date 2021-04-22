@@ -1,1 +1,1 @@
-var mnemonic = "lesson trumpet suspect reveal road around panther claw water voyage cruise upper";
+var mnemonic = "comic essence code catch click link home divert nest drastic pull party";

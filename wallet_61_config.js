@@ -1,1 +1,1 @@
-var mnemonic = "cry frequent figure mind mutual update hat absorb blade arctic sea engine";
+var mnemonic = "sense develop kitten board stone reveal into okay save appear alone number";

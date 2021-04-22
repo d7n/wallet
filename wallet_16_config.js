@@ -1,1 +1,1 @@
-var mnemonic = "example fat wet local clay begin hub melody wing mouse scan upper";
+var mnemonic = "marine market other middle bulb bamboo aspect grace emerge hungry either guitar";

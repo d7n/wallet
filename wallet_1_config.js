@@ -1,1 +1,1 @@
-var mnemonic = "loud fat physical merry link sword shoulder humor claw youth bus ginger";
+var mnemonic = "market ketchup hurry talent soul adult narrow truth seminar hat elevator shed";

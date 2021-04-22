@@ -1,1 +1,1 @@
-var mnemonic = "april theory fantasy sphere ring guess various gun twenty patient wealth guide";
+var mnemonic = "narrow marble surprise vibrant like sense cage lock clog scene lift wire";

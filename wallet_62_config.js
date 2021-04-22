@@ -1,1 +1,1 @@
-var mnemonic = "honey name donkey know palm buyer process waste stumble tunnel only lake";
+var mnemonic = "liar gap street balance grant siege sport cabbage clean tenant corn poem";

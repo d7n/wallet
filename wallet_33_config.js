@@ -1,1 +1,1 @@
-var mnemonic = "famous electric jacket van another stumble when brush ramp mammal advice average";
+var mnemonic = "spatial amazing glow wheel hero brisk then used since uncle protect six";

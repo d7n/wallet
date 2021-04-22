@@ -1,1 +1,1 @@
-var mnemonic = "teach tonight often system umbrella loud interest false ivory bounce defy bridge";
+var mnemonic = "payment canoe side depart exact route parrot bridge mosquito sun response giggle";

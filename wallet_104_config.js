@@ -1,1 +1,1 @@
-var mnemonic = "make gadget spin blossom citizen canvas method public claim clever select people";
+var mnemonic = "chapter joy expect cotton airport chef father brother champion dad near reveal";

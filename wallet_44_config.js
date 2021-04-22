@@ -1,1 +1,1 @@
-var mnemonic = "slice allow bubble escape scan kangaroo brother pass miracle sustain whip before";
+var mnemonic = "theory project raw three equal baby begin dove dust crowd trick glide";

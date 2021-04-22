@@ -1,1 +1,1 @@
-var mnemonic = "belt enemy tissue faint crush tower hover crumble cushion snake pause clay";
+var mnemonic = "talent learn load estate loop cool similar famous shoe butter habit olympic";

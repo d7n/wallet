@@ -1,1 +1,1 @@
-var mnemonic = "huge frozen frozen horn salon tent buyer skate butter rely cradle endorse";
+var mnemonic = "swallow page resemble push hat rude disorder harvest blossom oyster film ice";

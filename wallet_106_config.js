@@ -1,1 +1,1 @@
-var mnemonic = "document extend spider cart board become act depend goat disease eager initial";
+var mnemonic = "cake anxiety order gasp judge switch card series super picture cargo peanut";

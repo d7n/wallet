@@ -1,1 +1,1 @@
-var mnemonic = "enable explain satisfy name woman great exact penalty age hub wall biology";
+var mnemonic = "swamp cotton tube camp apple hold suggest flight bean outdoor foster core";

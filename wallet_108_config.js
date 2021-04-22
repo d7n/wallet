@@ -1,1 +1,1 @@
-var mnemonic = "exotic foster leader piece walnut once either proof eagle about butter voice";
+var mnemonic = "penalty drive decrease hard emotion play gesture seed budget finger puzzle drift";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot blouse galaxy satisfy broken lift risk service alpha lumber solar senior";
+var mnemonic = "behave increase shield fault purpose aware provide column similar cave bulb upon";

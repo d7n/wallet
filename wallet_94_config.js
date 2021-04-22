@@ -1,1 +1,1 @@
-var mnemonic = "badge bulk tackle essay fantasy audit pig wheat clean enact mule teach";
+var mnemonic = "decorate tooth mask good sponsor dignity slight coil burden glow panda nuclear";

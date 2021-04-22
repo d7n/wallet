@@ -1,1 +1,1 @@
-var mnemonic = "basket belt hair panic tomato menu black material absent remember anger fix";
+var mnemonic = "abuse round bright drama basket clock twenty normal craft clock mask soup";

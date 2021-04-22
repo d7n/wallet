@@ -1,1 +1,1 @@
-var mnemonic = "horse roast private style famous shop start girl wrestle uncover payment blanket";
+var mnemonic = "rather cake march antenna bonus weather bread lucky peasant fiction guide initial";

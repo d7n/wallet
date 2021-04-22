@@ -1,1 +1,1 @@
-var mnemonic = "upgrade gold come license electric very caution diagram city truly ride surround";
+var mnemonic = "narrow push soda magnet letter zebra describe tilt elephant suffer medal venue";

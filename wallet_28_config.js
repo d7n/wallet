@@ -1,1 +1,1 @@
-var mnemonic = "arrow wild panther payment wide bonus rookie advice bomb emotion parade climb";
+var mnemonic = "space yard ribbon medal bar tilt track wife outer outside injury state";

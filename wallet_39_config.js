@@ -1,1 +1,1 @@
-var mnemonic = "essay repair act marble permit dream prepare range swim draft buyer praise";
+var mnemonic = "wage enhance frost grab portion pig ceiling silk column sure account avoid";

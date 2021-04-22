@@ -1,1 +1,1 @@
-var mnemonic = "lava disorder shaft raise solution setup penalty rare space trouble solar high";
+var mnemonic = "roof remember fee absorb pulp good unable fall lunar goat alpha million";

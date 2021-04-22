@@ -1,1 +1,1 @@
-var mnemonic = "fence seat exhibit concert egg member energy evil purse joy offer spirit";
+var mnemonic = "hidden era bike sketch usual city gaze bird vibrant tone express oppose";

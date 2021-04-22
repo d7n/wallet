@@ -1,1 +1,1 @@
-var mnemonic = "tool winter coffee nature mushroom bright else give bread olympic spoon pumpkin";
+var mnemonic = "flame urge gesture describe gun fox actor urban over evil banana insane";

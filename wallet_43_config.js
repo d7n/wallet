@@ -1,1 +1,1 @@
-var mnemonic = "broom toilet gadget knock grunt fluid mixed first pride home park fiction";
+var mnemonic = "problem scorpion three furnace bicycle front knee coyote accuse world erosion flush";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot tent awful airport angle pact brown intact all practice pull correct";
+var mnemonic = "snake leisure target ship unfold sponsor coast diamond purpose fashion dinner airport";

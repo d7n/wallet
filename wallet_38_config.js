@@ -1,1 +1,1 @@
-var mnemonic = "soccer program arrange luxury purity clap just guitar vocal uncle code curtain";
+var mnemonic = "forest aware leisure general scrub shallow exercise lady head frozen faculty quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor rocket small unusual connect flavor give comic network entire buddy expand";
+var mnemonic = "suggest trap forward torch behind rent spike light pause kitchen wet attend";

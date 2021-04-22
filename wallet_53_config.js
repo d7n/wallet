@@ -1,1 +1,1 @@
-var mnemonic = "seminar street lunch today strong diary soft engage earth flat debate floor";
+var mnemonic = "spatial pear bleak burst purpose bridge crouch faith soldier sweet sword raise";

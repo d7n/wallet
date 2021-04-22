@@ -1,1 +1,1 @@
-var mnemonic = "offer avocado ticket near nephew night water blame found purity gauge apart";
+var mnemonic = "regular subject tenant joy mansion liar enforce nephew punch panic valve pencil";

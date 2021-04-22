@@ -1,1 +1,1 @@
-var mnemonic = "century mobile way two afraid stand seed alpha liar bring convince private";
+var mnemonic = "buffalo moment renew catch army prefer upper oak nation tower device there";

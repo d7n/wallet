@@ -1,1 +1,1 @@
-var mnemonic = "fatigue soda movie script ticket gift often sight tiger brand knife basket";
+var mnemonic = "gospel welcome aware script seat broom real fall vast gentle alter mass";

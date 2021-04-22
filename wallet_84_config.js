@@ -1,1 +1,1 @@
-var mnemonic = "net transfer reject become dumb parent vital there crucial what educate skull";
+var mnemonic = "plate erosion major kidney jacket faint curious subject differ tornado novel where";

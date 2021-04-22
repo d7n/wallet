@@ -1,1 +1,1 @@
-var mnemonic = "rain category have capable kiwi nice draw funny fence head pool blur";
+var mnemonic = "ankle faculty celery hazard best daughter enough pen rich humble enhance zone";

@@ -1,1 +1,1 @@
-var mnemonic = "smart famous energy acoustic globe buffalo suit square unique memory wrist prosper";
+var mnemonic = "relax shadow glue raw obey screen mention aim swift luxury solar romance";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite valve accuse smooth trophy possible live fog mirror search confirm portion";
+var mnemonic = "drive truth child hill stable stable hat donor valley later electric hole";

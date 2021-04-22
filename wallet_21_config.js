@@ -1,1 +1,1 @@
-var mnemonic = "neglect sketch syrup judge race furnace hub bonus festival disorder eye estate";
+var mnemonic = "squirrel poet wonder volcano artefact hold slim reduce recipe confirm stick ribbon";

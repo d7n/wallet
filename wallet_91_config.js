@@ -1,1 +1,1 @@
-var mnemonic = "travel odor rug road tube divorce company blast canoe lock fix give";
+var mnemonic = "pluck foam believe tape scatter paddle keen brief girl friend true stairs";

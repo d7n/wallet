@@ -1,1 +1,1 @@
-var mnemonic = "gap hamster bind valve picture proud craft another pencil tourist dash perfect";
+var mnemonic = "chair delay attitude enact finger reopen age pass october taxi island large";

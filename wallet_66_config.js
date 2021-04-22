@@ -1,1 +1,1 @@
-var mnemonic = "remove slush oblige pulp note frame arena reopen remind decide lounge bicycle";
+var mnemonic = "document drive between entire twist claw poet grid vivid swift swamp bottom";

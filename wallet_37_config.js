@@ -1,1 +1,1 @@
-var mnemonic = "imitate peasant deputy welcome hazard broken style wolf best movie police ritual";
+var mnemonic = "promote rally retire syrup witness act life glide tennis mask rate glad";

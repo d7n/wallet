@@ -1,1 +1,1 @@
-var mnemonic = "soon spoon select distance bike nasty lemon air hybrid that road crazy";
+var mnemonic = "car liquid tail lecture point sibling grunt penalty drama gloom safe tray";

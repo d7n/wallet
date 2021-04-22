@@ -1,1 +1,1 @@
-var mnemonic = "false mango venue blouse input shuffle monster depart female sniff mechanic diet";
+var mnemonic = "title gloom nephew tired turkey drama begin teach rose broken tourist put";

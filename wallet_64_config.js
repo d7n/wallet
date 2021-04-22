@@ -1,1 +1,1 @@
-var mnemonic = "atom fiber toast injury goose mercy daring garment boy excess famous gain";
+var mnemonic = "vault couple fork vintage rent tide same govern will spice pattern swallow";

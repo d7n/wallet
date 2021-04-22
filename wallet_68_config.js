@@ -1,1 +1,1 @@
-var mnemonic = "quantum matrix reopen hair question predict echo scout derive pelican afford tackle";
+var mnemonic = "hurt vicious idea swarm width extra engine matrix doll injury worth organ";

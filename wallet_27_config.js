@@ -1,1 +1,1 @@
-var mnemonic = "noble october man april tornado analyst guess alarm hockey carry feed switch";
+var mnemonic = "surprise ladder giraffe lend life horror robust firm ceiling field give scorpion";

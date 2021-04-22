@@ -1,1 +1,1 @@
-var mnemonic = "fall popular hover attack omit invite final dune amazing opera lab squeeze";
+var mnemonic = "subject sustain raccoon notable dragon marine result hybrid arena crowd glare project";

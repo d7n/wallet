@@ -1,1 +1,1 @@
-var mnemonic = "skin clip plastic eternal still bicycle mosquito stone soul replace chimney never";
+var mnemonic = "differ main elite cereal artefact basic gloom file unable lizard team song";

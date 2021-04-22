@@ -1,1 +1,1 @@
-var mnemonic = "actor celery public staff nest bounce pupil royal ketchup smoke deer current";
+var mnemonic = "cheese amazing manual sand where text pistol idle punch fly guard survey";

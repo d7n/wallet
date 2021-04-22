@@ -1,1 +1,1 @@
-var mnemonic = "impact demand plug sketch potato egg ripple purse firm blame question earn";
+var mnemonic = "candy denial humble pluck glad accident misery wrist luxury diesel rib skin";

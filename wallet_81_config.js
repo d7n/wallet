@@ -1,1 +1,1 @@
-var mnemonic = "extra flash brisk voice renew car fence detect cause animal vague borrow";
+var mnemonic = "velvet rigid vessel rose drink solve manage own air arrive soul fog";

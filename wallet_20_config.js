@@ -1,1 +1,1 @@
-var mnemonic = "fruit night exact scare burden decorate toast modify abuse opera dress dolphin";
+var mnemonic = "kid antenna any north guilt define topple depth together urge race chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy motion daring february level wife unaware suggest choose key cloud thank";
+var mnemonic = "female direct wear vanish soup thrive dirt clap define example chase industry";

@@ -1,1 +1,1 @@
-var mnemonic = "solve bulk negative cart weapon lawn air movie alter vast busy churn";
+var mnemonic = "adapt large lecture comfort evidence sure option lecture panic else future fluid";

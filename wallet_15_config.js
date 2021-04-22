@@ -1,1 +1,1 @@
-var mnemonic = "asthma usual hold cream custom table undo must where switch magnet trophy";
+var mnemonic = "sad solid sight dust push engage age addict candy sleep pottery borrow";

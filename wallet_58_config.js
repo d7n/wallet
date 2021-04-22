@@ -1,1 +1,1 @@
-var mnemonic = "priority universe hard main craft control drift theory payment usual say supreme";
+var mnemonic = "that wheel direct amount ozone family vocal math key mansion level penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "truly client section excite order rice fortune tuna talk member material provide";
+var mnemonic = "comfort load license portion hazard swear trip quit relax rich alcohol skate";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin lift orange before distance addict strategy buzz buddy else cute velvet";
+var mnemonic = "cup metal frog squirrel direct roast account own pulse share cup deer";

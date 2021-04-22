@@ -1,1 +1,1 @@
-var mnemonic = "lottery canoe around voyage lend dial lab under wise inherit office delay";
+var mnemonic = "marine people shoe flower crack other miss soft clap claw mixture globe";

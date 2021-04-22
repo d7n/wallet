@@ -1,1 +1,1 @@
-var mnemonic = "cheap angry army vague begin super finger true slam flush pill shop";
+var mnemonic = "tilt solve ostrich isolate actor wedding bunker force future split summer slice";

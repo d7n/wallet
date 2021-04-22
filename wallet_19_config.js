@@ -1,1 +1,1 @@
-var mnemonic = "prevent fury street drive typical chat crowd trumpet juice inmate column picnic";
+var mnemonic = "outside motor film renew clog menu helmet power spice now crack nuclear";

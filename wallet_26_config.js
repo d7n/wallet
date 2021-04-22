@@ -1,1 +1,1 @@
-var mnemonic = "captain giggle enact later mushroom sentence method stomach outer hospital wasp mean";
+var mnemonic = "tag twist poem language radio elite danger unfold journey useless sun warfare";

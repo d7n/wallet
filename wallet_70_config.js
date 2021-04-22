@@ -1,1 +1,1 @@
-var mnemonic = "unveil donkey brush october away olympic seven dinner begin legend nephew globe";
+var mnemonic = "loud detail skate candy stairs inspire quit march repair useless wrong behave";

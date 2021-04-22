@@ -1,1 +1,1 @@
-var mnemonic = "tissue blanket sting rail combine despair tomato explain diesel empty olive giraffe";
+var mnemonic = "luggage eager museum rigid rhythm ensure spice old aerobic mercy pledge napkin";

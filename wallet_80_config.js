@@ -1,1 +1,1 @@
-var mnemonic = "garden paddle silent cricket push tip light lemon hint price february crouch";
+var mnemonic = "thunder flat alpha put click perfect avocado cram true crazy divide neglect";

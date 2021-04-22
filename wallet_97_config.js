@@ -1,1 +1,1 @@
-var mnemonic = "vote step hybrid prize city armed lawn echo despair fashion trial unlock";
+var mnemonic = "field enable little educate fire moon opinion sting chef trophy dignity broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle demand fresh fabric goddess length degree slender scare country treat soft";
+var mnemonic = "horn enlist raccoon super boil bonus escape fire assist tomorrow puppy discover";

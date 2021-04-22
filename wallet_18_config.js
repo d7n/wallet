@@ -1,1 +1,1 @@
-var mnemonic = "cushion valid door defense almost need catch ticket gloom elder strategy peanut";
+var mnemonic = "detect bronze absurd poverty smoke alcohol patch broom neutral image history wet";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy flee brass tone tennis weekend ski blur zebra olympic crane recall";
+var mnemonic = "movie about pizza roast club soap patrol length craft must need night";

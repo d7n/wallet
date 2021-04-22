@@ -1,1 +1,1 @@
-var mnemonic = "write hungry make habit lawn accident pupil sound tennis embark catch never";
+var mnemonic = "lion load because sight indicate island label charge window copy oval tide";

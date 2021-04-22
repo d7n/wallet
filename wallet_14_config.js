@@ -1,1 +1,1 @@
-var mnemonic = "adult much refuse north nothing monster wire predict stomach girl grocery oxygen";
+var mnemonic = "drastic saddle pond retire never kid face couple surge mule symptom clever";
