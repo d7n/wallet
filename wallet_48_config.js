@@ -1,1 +1,1 @@
-var mnemonic = "town lion goat adult piece pottery summer style one diagram try lady";
+var mnemonic = "clap thing bring finger math squeeze teach hub only cake home income";

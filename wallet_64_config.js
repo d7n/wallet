@@ -1,1 +1,1 @@
-var mnemonic = "strong agent approve fury smart skin casino smile theory tree lava eight";
+var mnemonic = "fix fire manual lady clog draft trick engine rhythm woman decrease unable";

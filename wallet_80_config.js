@@ -1,1 +1,1 @@
-var mnemonic = "oyster blade dad rack picnic useful forest apology loop area dish elephant";
+var mnemonic = "weather lazy absorb regret diet bleak bulk bottom champion combine ship dumb";

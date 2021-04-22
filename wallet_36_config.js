@@ -1,1 +1,1 @@
-var mnemonic = "improve alien together muffin wrist injury nuclear member invite proof whisper attack";
+var mnemonic = "fashion blouse space acoustic emotion inhale resemble guitar news balance crumble flush";

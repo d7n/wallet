@@ -1,1 +1,1 @@
-var mnemonic = "region protect believe sure fatigue remove easily picnic garden screen enemy velvet";
+var mnemonic = "modify mention vicious tragic gorilla deal antique infant riot blouse brush token";

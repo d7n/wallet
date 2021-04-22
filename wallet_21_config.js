@@ -1,1 +1,1 @@
-var mnemonic = "upset error orient sense stumble extra salute public volcano arm employ nerve";
+var mnemonic = "story evil used favorite debate dirt mind choose caught business sun ranch";

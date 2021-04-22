@@ -1,1 +1,1 @@
-var mnemonic = "silly remind valid smooth foam tribe oblige lunar cigar weasel afraid catalog";
+var mnemonic = "nephew rescue aware night movie thought crush worth garment spike extra install";

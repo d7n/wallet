@@ -1,1 +1,1 @@
-var mnemonic = "hello cancel noble loyal poem sunset wing powder tree ocean buzz regret";
+var mnemonic = "lion ranch swift sphere pioneer promote scan lottery abandon else all sister";

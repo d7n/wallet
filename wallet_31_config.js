@@ -1,1 +1,1 @@
-var mnemonic = "ignore hint swarm note donate ice gorilla region income gallery struggle bid";
+var mnemonic = "divide soccer popular turkey access curtain fire globe grace argue crystal trick";

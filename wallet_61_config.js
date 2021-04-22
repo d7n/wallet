@@ -1,1 +1,1 @@
-var mnemonic = "drive immense age smoke any drop unlock wine scan monster jaguar jazz";
+var mnemonic = "poet dry flower excess coin material pave winter muffin average february joy";

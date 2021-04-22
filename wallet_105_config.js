@@ -1,1 +1,1 @@
-var mnemonic = "dice blush achieve buyer seat lottery ancient mushroom witness spice cushion badge";
+var mnemonic = "magnet tattoo act carry amused live cheap spell afraid history mixed crack";

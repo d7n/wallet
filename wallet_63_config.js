@@ -1,1 +1,1 @@
-var mnemonic = "loud tumble outer equip ugly student suspect sense hedgehog curve cup allow";
+var mnemonic = "limb remind chimney cotton artefact security warm trash energy stumble castle day";

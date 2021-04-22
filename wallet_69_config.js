@@ -1,1 +1,1 @@
-var mnemonic = "desert autumn sort toy much transfer rely spoon laptop unique inner settle";
+var mnemonic = "cactus rhythm rhythm pulse juice amount black regret riot hedgehog chat erase";

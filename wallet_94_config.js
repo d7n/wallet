@@ -1,1 +1,1 @@
-var mnemonic = "isolate push stumble increase topple large west net letter coach ski dawn";
+var mnemonic = "lend panel pledge asthma sleep typical young plug frog various apple double";

@@ -1,1 +1,1 @@
-var mnemonic = "media raw kick flag target debris furnace tissue mouse case eyebrow injury";
+var mnemonic = "sense increase garlic country symbol alarm finish february wool artwork undo sign";

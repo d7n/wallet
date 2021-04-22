@@ -1,1 +1,1 @@
-var mnemonic = "trouble lunch valley change life violin easily blind grape pear scrap tool";
+var mnemonic = "normal fence job brother slender project rib sure eight tree pear evidence";

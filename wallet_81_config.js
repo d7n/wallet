@@ -1,1 +1,1 @@
-var mnemonic = "caution office abstract banana forward ship august pitch combine theory impulse clean";
+var mnemonic = "wheel autumn eight wing hub salad crime globe april pink thrive easily";

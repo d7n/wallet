@@ -1,1 +1,1 @@
-var mnemonic = "correct pioneer bag orient display result midnight bulb february roof relax modify";
+var mnemonic = "basic roof bridge enlist decorate slab author piano fancy off knee goat";

@@ -1,1 +1,1 @@
-var mnemonic = "seat frozen record unaware wrestle staff visit cotton able foam age moral";
+var mnemonic = "concert artist own base expose admit allow miracle ketchup uncover increase dry";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf snow asset depth cannon paper mango favorite course come beauty spawn";
+var mnemonic = "immense year enact chalk honey menu pet produce teach summer there mammal";

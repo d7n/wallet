@@ -1,1 +1,1 @@
-var mnemonic = "south loop census first coconut tell embody rabbit carpet loop quick pepper";
+var mnemonic = "position raw smart stadium will bomb easily educate current monster stadium wire";

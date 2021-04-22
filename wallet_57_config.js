@@ -1,1 +1,1 @@
-var mnemonic = "alien extend fly family garbage review toast palm list ugly pave fork";
+var mnemonic = "occur acoustic eight habit enough until lock hotel medal about flash kitchen";

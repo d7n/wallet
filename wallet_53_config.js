@@ -1,1 +1,1 @@
-var mnemonic = "again jazz cross tenant salon ahead food engage govern couple hurry horror";
+var mnemonic = "bounce puzzle regret reduce biology off boring entry keep ethics vital divorce";

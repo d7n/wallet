@@ -1,1 +1,1 @@
-var mnemonic = "behave clock quick ball peasant lion response scissors cause coil eyebrow gown";
+var mnemonic = "choice guitar accident cushion play venue arm economy half ethics color potato";

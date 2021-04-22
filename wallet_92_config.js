@@ -1,1 +1,1 @@
-var mnemonic = "volcano admit enlist brief spray genuine wild tooth upset neither begin spatial";
+var mnemonic = "gas mango mansion stuff banana hard public virus response bounce figure popular";

@@ -1,1 +1,1 @@
-var mnemonic = "dove damp visual cluster reform cable occur chase lake wine release strong";
+var mnemonic = "connect fuel guide bread various alarm mirror unique text until february utility";

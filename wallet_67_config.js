@@ -1,1 +1,1 @@
-var mnemonic = "believe fall rail shed dry clean become ostrich adult nephew cheese spider";
+var mnemonic = "family pepper crime news raise crack inherit hen giggle code outer amazing";

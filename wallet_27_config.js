@@ -1,1 +1,1 @@
-var mnemonic = "talk bring fossil three twice twelve memory satisfy picnic produce clay mansion";
+var mnemonic = "skin act jungle armor solution dose banana plastic pair gospel output woman";

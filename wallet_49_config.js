@@ -1,1 +1,1 @@
-var mnemonic = "fork attend entire cupboard aim apology deer twist cherry strong prefer cost";
+var mnemonic = "index artist recycle theory achieve uncle result fragile dice milk flower repair";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic yard pudding destroy dolphin give monitor donkey seven female remind affair";
+var mnemonic = "ethics merit used rather poet minute feed ski enough boost twice illegal";

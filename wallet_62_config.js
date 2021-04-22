@@ -1,1 +1,1 @@
-var mnemonic = "future canoe truth surface gossip artwork control practice kit broom slender lava";
+var mnemonic = "song grab crazy caught liquid shoe quote scrub fashion kitten puzzle submit";

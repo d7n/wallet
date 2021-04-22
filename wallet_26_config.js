@@ -1,1 +1,1 @@
-var mnemonic = "repair sibling gym spray message lumber chicken unfair despair woman benefit opera";
+var mnemonic = "recall people panda dune unique room toy grant quarter educate stable juice";

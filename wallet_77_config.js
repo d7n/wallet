@@ -1,1 +1,1 @@
-var mnemonic = "thumb cake leave quarter puppy crisp nut fish express someone erode lend";
+var mnemonic = "they assist crop able adapt bleak wheel absent ocean grace convince runway";

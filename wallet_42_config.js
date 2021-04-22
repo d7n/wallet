@@ -1,1 +1,1 @@
-var mnemonic = "device visa ocean still bright what wink illegal park table phrase artwork";
+var mnemonic = "scout bulb task rebuild magnet clever swing found screen anger flag filter";

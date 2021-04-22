@@ -1,1 +1,1 @@
-var mnemonic = "victory web local exclude flavor attract desk base floor gallery divide dumb";
+var mnemonic = "depart short cliff usual host about enter claim scan improve sick skate";

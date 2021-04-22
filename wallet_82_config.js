@@ -1,1 +1,1 @@
-var mnemonic = "craft help tourist capable cook mandate suit apart fire voice more twin";
+var mnemonic = "average taste nephew iron dance fancy crowd shrimp remind bone mystery diagram";

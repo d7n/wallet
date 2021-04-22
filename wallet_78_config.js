@@ -1,1 +1,1 @@
-var mnemonic = "confirm moral sea proof obvious feed twice shoot act elder pipe pole";
+var mnemonic = "please pulse radar rigid napkin margin bean file laugh borrow lesson section";

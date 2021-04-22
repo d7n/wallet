@@ -1,1 +1,1 @@
-var mnemonic = "educate life apology much where eyebrow young puppy coconut ramp frost depth";
+var mnemonic = "slam strategy right barely demise daring grain yellow vocal long make party";

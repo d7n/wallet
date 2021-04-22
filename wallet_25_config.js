@@ -1,1 +1,1 @@
-var mnemonic = "sheriff audit multiply uncle kick alcohol practice cushion market nose buffalo stumble";
+var mnemonic = "oval aerobic kind tissue scatter photo vacuum cloud alert bleak couple believe";

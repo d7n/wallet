@@ -1,1 +1,1 @@
-var mnemonic = "someone rack blouse shy demise grain client hold patient confirm expose original";
+var mnemonic = "acoustic jeans diagram siren alone click lend pitch orient hunt someone mobile";

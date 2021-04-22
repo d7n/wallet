@@ -1,1 +1,1 @@
-var mnemonic = "camp organ forest cloud always thrive bind bulb wrong club away deer";
+var mnemonic = "stairs element flat detect purpose subject frost item slim domain live crystal";

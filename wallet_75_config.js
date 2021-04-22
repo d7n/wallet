@@ -1,1 +1,1 @@
-var mnemonic = "dumb fox twist kind name used proof require snap radio viable trouble";
+var mnemonic = "rug casino green ready electric leopard idle beef bicycle struggle heavy clever";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform frame debris bid wife feature all finish bicycle rotate practice equal";
+var mnemonic = "wire twin penalty online solid stomach steel company attend artefact forest cloud";

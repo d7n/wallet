@@ -1,1 +1,1 @@
-var mnemonic = "enter asset artefact surround cheap stay east view volcano rifle juice submit";
+var mnemonic = "trial roast toward margin woman shuffle position all silver despair radar carpet";

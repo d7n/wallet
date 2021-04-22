@@ -1,1 +1,1 @@
-var mnemonic = "observe various evolve monkey tiger husband super aisle around finish verb lamp";
+var mnemonic = "inform giggle suffer demise coast bulk capable tiger side patrol snow spread";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt original neck sea delay gun blast deliver cycle puppy sign divide";
+var mnemonic = "bring empower always icon income chunk purchase arrow cry position expire seminar";

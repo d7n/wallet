@@ -1,1 +1,1 @@
-var mnemonic = "typical kiwi draft material document end network trophy emotion gravity neither answer";
+var mnemonic = "ethics advice arrive express jump window chef pink matter guide ball spring";

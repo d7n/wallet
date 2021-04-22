@@ -1,1 +1,1 @@
-var mnemonic = "credit capable meat screen rapid stock wheat tongue neither unfair grit ordinary";
+var mnemonic = "wash unit cup myself trust quit town shove marine elegant dust split";

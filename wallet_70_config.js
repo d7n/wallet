@@ -1,1 +1,1 @@
-var mnemonic = "diamond pizza alley cool retreat cruise history toilet legend narrow liar color";
+var mnemonic = "jazz bind trip spike cat turn opinion fury sheriff imitate liberty food";

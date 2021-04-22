@@ -1,1 +1,1 @@
-var mnemonic = "medal document salon stamp feel large vehicle glad obscure vessel kid pretty";
+var mnemonic = "sad olive holiday appear version flock glow like lady power mention surprise";

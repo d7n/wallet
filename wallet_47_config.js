@@ -1,1 +1,1 @@
-var mnemonic = "burger cause brief like balcony gun firm steak medal powder spread job";
+var mnemonic = "river miss will puzzle bike muffin social cactus enemy net hour erupt";

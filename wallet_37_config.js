@@ -1,1 +1,1 @@
-var mnemonic = "pact train obscure deer thunder hover route next wagon purpose unusual basic";
+var mnemonic = "pretty random expire disorder ginger wash brown sentence undo hurry bean carbon";

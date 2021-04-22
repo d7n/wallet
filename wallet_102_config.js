@@ -1,1 +1,1 @@
-var mnemonic = "exhibit acid allow charge biology lab mad rough crawl monitor blast truth";
+var mnemonic = "error possible future hello length bitter stone two puppy exact column client";

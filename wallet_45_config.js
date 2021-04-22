@@ -1,1 +1,1 @@
-var mnemonic = "version century bag guide seminar pelican betray explain unknown combine torch green";
+var mnemonic = "hover badge insect vintage asset cake until coil rebuild era void clarify";

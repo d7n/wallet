@@ -1,1 +1,1 @@
-var mnemonic = "produce proud lab peanut damage first soul sausage honey laundry athlete wife";
+var mnemonic = "saddle link trip close almost weasel high cigar object feel olympic update";

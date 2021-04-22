@@ -1,1 +1,1 @@
-var mnemonic = "cream skull brass tuna trial during repeat fitness equip super fan bounce";
+var mnemonic = "comfort soldier gate sauce amused goose toy guard announce oil knife zoo";

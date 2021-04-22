@@ -1,1 +1,1 @@
-var mnemonic = "auto taxi convince peasant common century notable right special scout shadow dose";
+var mnemonic = "spell swear access old maple brief old topple used analyst shaft toss";

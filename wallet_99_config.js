@@ -1,1 +1,1 @@
-var mnemonic = "film soccer swarm drive sea swamp buyer cool this regret expose snap";
+var mnemonic = "list detail federal soul expose submit punch notice claw custom aware nominee";

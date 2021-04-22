@@ -1,1 +1,1 @@
-var mnemonic = "coral service figure kitten error nut obtain hair inspire emerge shrimp cotton";
+var mnemonic = "inject swift soup weasel tooth bacon transfer office habit asset gravity want";

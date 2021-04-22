@@ -1,1 +1,1 @@
-var mnemonic = "wonder title farm material leaf present daring recall stairs click autumn virtual";
+var mnemonic = "exhibit link avoid ramp material appear session final merit embark glue stone";

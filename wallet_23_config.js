@@ -1,1 +1,1 @@
-var mnemonic = "south fee square blade pill knock shrimp produce topple spare attitude strong";
+var mnemonic = "sock want fuel return stove shrimp nice hedgehog taste admit document gentle";

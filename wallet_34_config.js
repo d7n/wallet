@@ -1,1 +1,1 @@
-var mnemonic = "million cute swarm hybrid public screen true burden crazy letter sugar cancel";
+var mnemonic = "unaware benefit atom trash scatter pumpkin century happy obvious where six yard";

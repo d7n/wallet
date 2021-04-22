@@ -1,1 +1,1 @@
-var mnemonic = "wheat glory tray matrix stand core post eye glad hour trophy share";
+var mnemonic = "joy library wheel once room nut chicken video door spice venture despair";

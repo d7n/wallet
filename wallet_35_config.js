@@ -1,1 +1,1 @@
-var mnemonic = "hockey decorate pistol jazz bracket saddle another betray hello topic potato list";
+var mnemonic = "sister flock power hotel little name always before lemon satoshi narrow divert";

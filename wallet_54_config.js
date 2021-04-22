@@ -1,1 +1,1 @@
-var mnemonic = "demand call series smart crunch kit cover muscle name hour biology note";
+var mnemonic = "humble random vocal material come tilt approve ignore immense ecology quality income";

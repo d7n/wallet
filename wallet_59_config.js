@@ -1,1 +1,1 @@
-var mnemonic = "loyal rent beauty that cute develop differ gold crater used rocket board";
+var mnemonic = "farm hamster lottery more rotate saddle prepare employ appear vehicle gold purse";

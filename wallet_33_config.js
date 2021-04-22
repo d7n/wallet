@@ -1,1 +1,1 @@
-var mnemonic = "grow tiny lava matrix crowd media menu blur below menu gorilla that";
+var mnemonic = "one about item exist tower cabbage sound shield student gold strong mandate";

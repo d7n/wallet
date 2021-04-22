@@ -1,1 +1,1 @@
-var mnemonic = "grid depth dog large again elevator learn message brisk good decide exchange";
+var mnemonic = "trigger great document ring puzzle diagram enemy aware fence average aerobic theory";

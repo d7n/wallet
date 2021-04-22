@@ -1,1 +1,1 @@
-var mnemonic = "advice juice benefit praise amazing leopard maple achieve hidden diet cave tent";
+var mnemonic = "pass demise mean will matter flat utility awesome myself island program risk";

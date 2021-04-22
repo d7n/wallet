@@ -1,1 +1,1 @@
-var mnemonic = "practice void shed conduct narrow table habit hover track match void fix";
+var mnemonic = "category mutual giggle special medal media earn tiger science awful thunder orchard";

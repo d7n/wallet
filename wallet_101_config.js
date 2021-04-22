@@ -1,1 +1,1 @@
-var mnemonic = "junior pistol obey slight unit foil use worry metal receive under carpet";
+var mnemonic = "husband wrap match pizza sea cream sense mule sense purse used junk";

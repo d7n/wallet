@@ -1,1 +1,1 @@
-var mnemonic = "output race patient grant piece regular special shrimp vacant chat ice zone";
+var mnemonic = "mechanic mountain maid movie void flee garage stumble drill dad front student";

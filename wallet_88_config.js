@@ -1,1 +1,1 @@
-var mnemonic = "share ceiling host aspect emerge suggest whisper candy bullet pass remember cloth";
+var mnemonic = "toilet size miracle train elder net advice velvet squirrel cushion sunny option";

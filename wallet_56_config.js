@@ -1,1 +1,1 @@
-var mnemonic = "honey hold gown capital west cousin manage shy host bar refuse twice";
+var mnemonic = "fantasy illness system height canyon spray captain arm glove sample brick harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "another bracket amount ability crush pass zebra hen derive vault high funny";
+var mnemonic = "clerk chunk coral tuition outside tonight judge square combine young coast input";

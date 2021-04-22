@@ -1,1 +1,1 @@
-var mnemonic = "sick spoon token elbow loud foster table nose industry sound warm marble";
+var mnemonic = "piano bring exhibit guilt visa burger lab swear copy govern bird decade";

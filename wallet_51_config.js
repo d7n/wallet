@@ -1,1 +1,1 @@
-var mnemonic = "brave rug decrease off depth large code core artist index head salute";
+var mnemonic = "birth describe bid slender below offer earn tent auto cigar divert kid";

@@ -1,1 +1,1 @@
-var mnemonic = "series supreme pool galaxy frozen track tip topic rebel item tribe tired";
+var mnemonic = "elbow behave notable paper trend rabbit sun nut trend illness grit hover";

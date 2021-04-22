@@ -1,1 +1,1 @@
-var mnemonic = "chair face canyon resource today address actual trim borrow powder copy feed";
+var mnemonic = "sphere seven deliver blind top sure wonder urge ethics local blind wash";

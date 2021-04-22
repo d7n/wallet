@@ -1,1 +1,1 @@
-var mnemonic = "pause reason relief put debate fire fever future square knock mesh please";
+var mnemonic = "antique twelve congress palm smooth exhaust real awesome stomach horn raccoon note";

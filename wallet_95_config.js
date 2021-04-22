@@ -1,1 +1,1 @@
-var mnemonic = "alpha danger win laugh label pill tuition fabric deputy summer cause any";
+var mnemonic = "bless armed pupil remember decrease duty deposit poet cruise sunny rifle olympic";

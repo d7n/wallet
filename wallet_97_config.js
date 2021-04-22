@@ -1,1 +1,1 @@
-var mnemonic = "skirt deposit gift basic sorry online canvas hunt please floor safe unusual";
+var mnemonic = "model ugly fan era sudden leave need nothing athlete alpha hen convince";

@@ -1,1 +1,1 @@
-var mnemonic = "raise gasp visual salute usage bacon symptom kitchen unhappy rule cluster practice";
+var mnemonic = "canoe under genius habit sister work donate kid add angry need vessel";

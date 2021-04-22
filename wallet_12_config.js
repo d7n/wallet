@@ -1,1 +1,1 @@
-var mnemonic = "armor dash luxury medal rib very olympic elephant armed lucky answer squirrel";
+var mnemonic = "vanish host desk express box park leg swap inherit bridge spoil brief";

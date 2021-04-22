@@ -1,1 +1,1 @@
-var mnemonic = "leg drive salad mansion follow belt whisper excite lamp direct search forest";
+var mnemonic = "secret praise mouse certain arena breeze hunt wash edge slam absent soccer";

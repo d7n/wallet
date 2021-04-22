@@ -1,1 +1,1 @@
-var mnemonic = "duck wall meadow once night spread zoo seminar square useless net minimum";
+var mnemonic = "swim figure enrich now access endorse stock suffer attack grass entire believe";

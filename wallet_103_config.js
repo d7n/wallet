@@ -1,1 +1,1 @@
-var mnemonic = "parrot cereal index junior toy jaguar multiply into hello gallery cannon oven";
+var mnemonic = "river fresh oyster maple captain hello walk frozen harbor puzzle humor accuse";

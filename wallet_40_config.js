@@ -1,1 +1,1 @@
-var mnemonic = "match hero usual high device pet target isolate reflect solve bicycle citizen";
+var mnemonic = "merit garage assault mosquito profit vendor combine agree alarm hamster hole slice";

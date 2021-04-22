@@ -1,1 +1,1 @@
-var mnemonic = "elevator wrist unfair pretty slot segment around feed slender stadium move spread";
+var mnemonic = "this lady child shuffle dilemma pill mercy include speak van describe adjust";

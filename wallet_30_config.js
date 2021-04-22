@@ -1,1 +1,1 @@
-var mnemonic = "spoil wet earth remove wild crucial isolate ice another swing decorate figure";
+var mnemonic = "front frown learn tower ancient fruit venue truly around venture nephew more";

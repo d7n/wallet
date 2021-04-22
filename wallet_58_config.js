@@ -1,1 +1,1 @@
-var mnemonic = "satisfy possible wrap security once simple produce drift badge valve radar tent";
+var mnemonic = "script wheat vault asset twin neck stem first during brave rail audit";

@@ -1,1 +1,1 @@
-var mnemonic = "fine report size waste demise diet joy emotion brick farm fever enrich";
+var mnemonic = "slush photo fog cup tortoise resist eight dose deal grass broccoli kitchen";
