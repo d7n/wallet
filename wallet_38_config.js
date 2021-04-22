@@ -1,1 +1,1 @@
-var mnemonic = "annual scout sadness usage dry ankle horn allow drama cupboard clump foil";
+var mnemonic = "stick idle mosquito observe service muffin welcome element photo youth possible inside";

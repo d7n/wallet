@@ -1,1 +1,1 @@
-var mnemonic = "ensure capital cheap license below mask ocean between defy sphere filter company";
+var mnemonic = "armor armed nose trigger crowd copper carbon kiss start stay tragic fog";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist sand dutch vendor dress excite churn like mention cancel hundred hobby";
+var mnemonic = "piece brass sponsor black extend cover arena dwarf remove fence hollow potato";

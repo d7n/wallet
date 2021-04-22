@@ -1,1 +1,1 @@
-var mnemonic = "rocket potato fruit hamster tell lens holiday trick erase cement damage kingdom";
+var mnemonic = "door find victory memory skill market moral fever check gain crisp kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "explain figure room usage life tiny property resist define human unveil fish";
+var mnemonic = "lend kidney remain impact pioneer receive wasp copper bar file saddle comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil eyebrow kingdom source broom left rigid since mad general kid mechanic";
+var mnemonic = "grab moral pool cruel local reason pride fault cloth luggage barely sister";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid debris ketchup iron priority lyrics stadium ocean inquiry almost involve sausage";
+var mnemonic = "hill siege broom cross dentist medal cloud abandon deer provide thrive hen";

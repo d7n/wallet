@@ -1,1 +1,1 @@
-var mnemonic = "blouse spatial erosion leaf brother sight crush sauce march parade lawsuit oak";
+var mnemonic = "power giant loop sing moon receive pudding margin turn economy blur nest";

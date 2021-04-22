@@ -1,1 +1,1 @@
-var mnemonic = "nothing small wash dinosaur wool common fog road engage grape find picture";
+var mnemonic = "civil mesh south mention patient gift utility steak flip upgrade oyster two";

@@ -1,1 +1,1 @@
-var mnemonic = "old imitate struggle hawk balcony kite camp cluster keep stairs peace craft";
+var mnemonic = "try life link two quarter winter measure primary priority raise draft need";

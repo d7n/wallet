@@ -1,1 +1,1 @@
-var mnemonic = "ask style river hidden network shoe town want bread grant olympic off";
+var mnemonic = "hobby waste bullet dust owner sniff lyrics alone delay tissue oyster priority";

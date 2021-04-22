@@ -1,1 +1,1 @@
-var mnemonic = "cost local cause lady van tray sword illegal aware rookie material amateur";
+var mnemonic = "quit next machine end dilemma twenty furnace saddle vocal topic midnight leaf";

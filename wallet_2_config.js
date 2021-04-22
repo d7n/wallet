@@ -1,1 +1,1 @@
-var mnemonic = "midnight length sauce basic scout joke crew point half nurse move jealous";
+var mnemonic = "stem circle oppose below borrow disagree muffin depend region wealth fog worry";

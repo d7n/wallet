@@ -1,1 +1,1 @@
-var mnemonic = "carpet more world vintage captain vague outer manage mansion army mesh trust";
+var mnemonic = "torch moon hawk guilt awful harbor gown promote shallow market pupil glide";

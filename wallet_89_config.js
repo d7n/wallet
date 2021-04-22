@@ -1,1 +1,1 @@
-var mnemonic = "biology shoulder manage athlete oppose write plate pink monster merge reject spend";
+var mnemonic = "secret clarify shove farm educate evoke expect east color vital lift cattle";

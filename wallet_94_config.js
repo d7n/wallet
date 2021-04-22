@@ -1,1 +1,1 @@
-var mnemonic = "oil napkin case fame sketch gap punch indoor labor lake escape plunge";
+var mnemonic = "pluck creek ridge express pretty unveil victory repair slight bone mixed limb";

@@ -1,1 +1,1 @@
-var mnemonic = "noble brush art increase puppy other roast north aspect empty popular stick";
+var mnemonic = "punch join riot train kiwi feed cream core success this antenna exhibit";

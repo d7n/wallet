@@ -1,1 +1,1 @@
-var mnemonic = "garment click talent foil tissue apology artefact hope fork pact jelly attitude";
+var mnemonic = "ice quit hint loan diet engine dolphin sock polar issue cupboard call";

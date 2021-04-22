@@ -1,1 +1,1 @@
-var mnemonic = "fun actor task thrive daring clever kit kind sphere space pistol nice";
+var mnemonic = "hill snake quality token tide urban start beauty print ostrich reward purpose";

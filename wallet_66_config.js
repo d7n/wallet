@@ -1,1 +1,1 @@
-var mnemonic = "hand marriage shrug submit exercise rebel awful october decide salute normal trip";
+var mnemonic = "typical flavor mule toe tunnel erase wrong wine quantum find metal train";

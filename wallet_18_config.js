@@ -1,1 +1,1 @@
-var mnemonic = "dog rose elegant trash genre twist rebel upon shock snow arena hybrid";
+var mnemonic = "gain pyramid mistake away vote city toilet when goose like shuffle because";

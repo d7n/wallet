@@ -1,1 +1,1 @@
-var mnemonic = "few occur eagle image man phone drama question never want suit rocket";
+var mnemonic = "dream brief welcome problem imitate embody speed upon crystal wonder fossil ivory";

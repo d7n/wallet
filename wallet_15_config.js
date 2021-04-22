@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sing dial ordinary prosper gossip below mistake seminar useful entire balcony";
+var mnemonic = "alley welcome angle female little service relief few nephew head dawn trick";

@@ -1,1 +1,1 @@
-var mnemonic = "notice fall margin increase deny upper acoustic salmon agree cost diagram dove";
+var mnemonic = "hurt what biology latin over vacuum history unfair rule play stomach corn";

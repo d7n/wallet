@@ -1,1 +1,1 @@
-var mnemonic = "wall primary feed gorilla ready say error artwork blossom blade exile whisper";
+var mnemonic = "crowd issue empower right initial fatigue much lunar whisper auction thumb inject";

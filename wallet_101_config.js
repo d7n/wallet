@@ -1,1 +1,1 @@
-var mnemonic = "taste know love luxury autumn engage pass enlist follow area slight stumble";
+var mnemonic = "present hand addict brush foam coin chuckle member turkey vehicle supreme drive";

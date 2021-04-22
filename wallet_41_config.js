@@ -1,1 +1,1 @@
-var mnemonic = "return trick pave virus soft truth sweet bargain agree estate fork fee";
+var mnemonic = "much bread gaze control update double harbor topic arctic clap keen shove";

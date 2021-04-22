@@ -1,1 +1,1 @@
-var mnemonic = "valley cereal promote swarm paper useless appear you permit actor cotton grass";
+var mnemonic = "food auto plastic soccer weekend little admit pluck mass magnet between flat";

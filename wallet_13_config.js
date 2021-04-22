@@ -1,1 +1,1 @@
-var mnemonic = "logic autumn trip position solar album hair maze retire height tissue mobile";
+var mnemonic = "trim ring fever chronic slow bundle genuine labor depart material visit holiday";

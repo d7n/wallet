@@ -1,1 +1,1 @@
-var mnemonic = "save book grit achieve cake universe salute wolf world husband rice brain";
+var mnemonic = "tomorrow velvet crucial dad thumb first floor zero gravity chronic agent omit";

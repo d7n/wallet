@@ -1,1 +1,1 @@
-var mnemonic = "doll father depend physical found anger age broken usage nothing observe diagram";
+var mnemonic = "pitch pipe picture tumble attack glance giant demand pigeon twice degree flip";

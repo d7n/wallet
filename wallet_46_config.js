@@ -1,1 +1,1 @@
-var mnemonic = "ridge whisper know gorilla around clarify amazing upgrade initial outside dad bullet";
+var mnemonic = "spatial baby spell lucky margin alter match pumpkin night limb cherry cake";

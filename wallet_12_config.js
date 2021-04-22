@@ -1,1 +1,1 @@
-var mnemonic = "sound seed produce limb property drink absurd shy cradle mix elegant dash";
+var mnemonic = "degree garbage twelve ecology angry cactus lyrics load brisk settle want always";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer nest winter diesel viable eager stay ankle ask abstract blood carpet";
+var mnemonic = "chimney narrow throw salute blade obvious rocket annual object firm nominee fine";

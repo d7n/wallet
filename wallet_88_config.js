@@ -1,1 +1,1 @@
-var mnemonic = "cloud vivid ocean crunch scan amateur senior aspect eager already boy husband";
+var mnemonic = "believe yellow clap soup forward bike claw ecology monitor space toast patch";

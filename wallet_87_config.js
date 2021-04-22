@@ -1,1 +1,1 @@
-var mnemonic = "act fat fluid indoor tumble crawl turtle feature antique absent seek broom";
+var mnemonic = "between word grow shoe actress wasp nephew alcohol swamp edit blouse include";

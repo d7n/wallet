@@ -1,1 +1,1 @@
-var mnemonic = "dose gospel salon island inform ask myself gym heart hammer acoustic spend";
+var mnemonic = "garlic want bring super will mouse clarify secret cargo cattle nature joy";

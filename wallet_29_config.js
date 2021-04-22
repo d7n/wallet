@@ -1,1 +1,1 @@
-var mnemonic = "endless bachelor behind today video clip spin wise middle blind pig museum";
+var mnemonic = "alley grow brisk actress sea top pilot audit saddle degree there piece";

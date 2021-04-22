@@ -1,1 +1,1 @@
-var mnemonic = "position infant rack trumpet reform poverty young curve theme minute giant dust";
+var mnemonic = "kitchen fatal amateur lunch ghost thrive chapter harsh claim kind pipe claw";

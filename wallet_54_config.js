@@ -1,1 +1,1 @@
-var mnemonic = "expand insane jungle response vessel ice goat cart common catalog dice tongue";
+var mnemonic = "weapon illness phone pledge fade afford spin adjust rack method pumpkin category";

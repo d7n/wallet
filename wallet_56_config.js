@@ -1,1 +1,1 @@
-var mnemonic = "forum leave sting mechanic couple indoor window cannon faint under setup airport";
+var mnemonic = "interest bitter enable recipe wing fire credit flat tone salt found wash";

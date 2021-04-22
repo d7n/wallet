@@ -1,1 +1,1 @@
-var mnemonic = "know visit broom time rabbit illegal game wash daughter frog shallow dilemma";
+var mnemonic = "mosquito medal magnet crawl network resist similar drive scrub now label keep";

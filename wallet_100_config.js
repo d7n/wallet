@@ -1,1 +1,1 @@
-var mnemonic = "shuffle later please alter lend afford repair bench alarm ill envelope myself";
+var mnemonic = "bacon gloom search achieve maple mystery urban damp lion zone birth creek";

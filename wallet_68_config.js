@@ -1,1 +1,1 @@
-var mnemonic = "bone envelope coin bird raven define royal small you pair course arm";
+var mnemonic = "wall siege fiscal battle empty rate museum spring water obey reopen concert";

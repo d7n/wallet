@@ -1,1 +1,1 @@
-var mnemonic = "express index vacant trap pledge change grace auction bronze easily unveil awkward";
+var mnemonic = "illegal ugly dawn expand seminar endless tragic gossip repeat torch great shed";

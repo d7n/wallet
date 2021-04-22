@@ -1,1 +1,1 @@
-var mnemonic = "top few blame carpet gown uncover trap case oven battle pear master";
+var mnemonic = "today panda mixed ring gap chief drama wash loan dwarf inside unveil";

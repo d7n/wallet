@@ -1,1 +1,1 @@
-var mnemonic = "shy case solar labor bracket please glad rate zebra buyer mango kitchen";
+var mnemonic = "tower basic february social empty nuclear rich alpha shallow strategy manual weather";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle dial waste magnet wage siege mistake ceiling olympic glimpse envelope theme";
+var mnemonic = "sustain stadium become stand chapter true soccer little borrow hazard sniff link";

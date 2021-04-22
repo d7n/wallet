@@ -1,1 +1,1 @@
-var mnemonic = "input correct badge hungry trust egg garden wagon strong luxury hungry emotion";
+var mnemonic = "cigar coin defy strategy immense fame couch honey candy extra outer wage";

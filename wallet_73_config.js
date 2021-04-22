@@ -1,1 +1,1 @@
-var mnemonic = "evidence supreme state enhance around spot bike wolf science anchor curve blame";
+var mnemonic = "annual limit betray decline clarify drill stomach audit chaos auto endless garment";

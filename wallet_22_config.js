@@ -1,1 +1,1 @@
-var mnemonic = "unable desk ahead viable fabric dwarf calm pet tragic oven fuel empower";
+var mnemonic = "undo keep maximum learn come deer column tide miss couple weather tower";

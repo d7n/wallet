@@ -1,1 +1,1 @@
-var mnemonic = "course three current potato man join room again learn leaf misery orbit";
+var mnemonic = "upset mystery naive fragile sound apology again rally cushion only debate famous";

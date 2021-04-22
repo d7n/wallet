@@ -1,1 +1,1 @@
-var mnemonic = "tip zero beach blame mouse panda curious topic craft give kingdom estate";
+var mnemonic = "involve lock simple fame snap purchase engage round citizen buffalo skill body";

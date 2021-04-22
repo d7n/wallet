@@ -1,1 +1,1 @@
-var mnemonic = "code pride grass present rally address alcohol blush prosper adapt duck dilemma";
+var mnemonic = "element evolve weather furnace bulk flip palace catalog nothing carpet wheat raise";

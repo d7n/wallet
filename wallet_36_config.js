@@ -1,1 +1,1 @@
-var mnemonic = "smart print include harbor couch dad since stick glance define glad spoil";
+var mnemonic = "bicycle liquid foam trend humor ride divorce elephant bulk menu gadget please";

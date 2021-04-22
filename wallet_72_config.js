@@ -1,1 +1,1 @@
-var mnemonic = "forget invest license suffer fantasy marriage brush vote clever bridge surprise useless";
+var mnemonic = "street course doll alcohol clever move double electric time unaware embody dentist";

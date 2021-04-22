@@ -1,1 +1,1 @@
-var mnemonic = "escape wait wasp weather glove board december song suffer knee sunny junk";
+var mnemonic = "yard lonely egg ski awesome home message volcano shrug harsh pioneer steak";

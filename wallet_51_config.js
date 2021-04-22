@@ -1,1 +1,1 @@
-var mnemonic = "glass beach hybrid rookie valve address jar cheap lounge news parade gorilla";
+var mnemonic = "only spirit captain film decline keep child phrase slam mask grid humble";

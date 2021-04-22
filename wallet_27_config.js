@@ -1,1 +1,1 @@
-var mnemonic = "round best topple other boil there logic pottery force switch pudding narrow";
+var mnemonic = "mind anchor credit canoe business blame funny mango crazy eternal guilt desert";

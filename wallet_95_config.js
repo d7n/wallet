@@ -1,1 +1,1 @@
-var mnemonic = "nation obey west fringe rival segment auction boring crime say source stomach";
+var mnemonic = "eye enjoy flower ring mountain pass ghost urge worth envelope industry liquid";

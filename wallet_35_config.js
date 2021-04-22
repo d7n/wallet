@@ -1,1 +1,1 @@
-var mnemonic = "hunt polar bind rather pitch regular fall spice immune census average shock";
+var mnemonic = "indicate source shallow token industry relief arena nature mushroom grunt advice depart";

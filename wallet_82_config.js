@@ -1,1 +1,1 @@
-var mnemonic = "fall vault rain fiction birth couple salad aim seek breeze cereal scout";
+var mnemonic = "pipe degree route cradle good wave edge verb smoke bind casual debate";

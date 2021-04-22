@@ -1,1 +1,1 @@
-var mnemonic = "okay current among recall glance spike abstract enjoy parrot damp bargain tortoise";
+var mnemonic = "adapt sudden upgrade code culture film warfare silly nuclear filter aim sad";

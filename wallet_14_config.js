@@ -1,1 +1,1 @@
-var mnemonic = "tide pepper version wisdom nasty dice mansion eagle mix sting boy kitchen";
+var mnemonic = "culture trend rotate border answer during purity isolate expire thought problem absorb";

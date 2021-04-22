@@ -1,1 +1,1 @@
-var mnemonic = "unhappy square bottom portion shoulder caught six vivid express educate please install";
+var mnemonic = "monkey source method execute scatter source faint bullet refuse moral document poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "angle enjoy glare trumpet power fix exchange blast task glow shove pass";
+var mnemonic = "monkey cat laugh angry once close soft broom paper unveil core medal";

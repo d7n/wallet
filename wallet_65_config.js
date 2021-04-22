@@ -1,1 +1,1 @@
-var mnemonic = "snake edit end exotic seat pilot supply melody oyster rabbit language zebra";
+var mnemonic = "decline tide rabbit dish coach mom patrol dry traffic spray table novel";

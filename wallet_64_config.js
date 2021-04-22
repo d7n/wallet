@@ -1,1 +1,1 @@
-var mnemonic = "artefact surface net night grain pioneer margin vicious report inspire hold involve";
+var mnemonic = "welcome cross salon admit garlic unique sister wife volcano science flush laundry";

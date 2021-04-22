@@ -1,1 +1,1 @@
-var mnemonic = "call planet donkey gallery stem leaf network depart spice meat eye tattoo";
+var mnemonic = "jealous cover radar section market snow beauty syrup target liquid eye capital";

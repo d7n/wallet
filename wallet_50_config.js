@@ -1,1 +1,1 @@
-var mnemonic = "awake federal horn maple lake version jelly pig trumpet subway magnet hello";
+var mnemonic = "satisfy ketchup load squirrel rural pull angry satoshi round excess uncle horn";

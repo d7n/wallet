@@ -1,1 +1,1 @@
-var mnemonic = "poverty middle slogan common spoon okay arch surprise fall old gravity achieve";
+var mnemonic = "improve possible hollow flee build fame glass fish april case slogan typical";

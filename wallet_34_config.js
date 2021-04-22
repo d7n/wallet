@@ -1,1 +1,1 @@
-var mnemonic = "dilemma release gorilla work replace ignore same drink drama tower voyage hunt";
+var mnemonic = "talk method oblige spatial merit blind umbrella arrest toast frozen vivid people";

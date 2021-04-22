@@ -1,1 +1,1 @@
-var mnemonic = "game name media humor hen first lyrics outdoor cream thought suggest body";
+var mnemonic = "source circle keen pretty useless bamboo spy strike smile term shrimp text";

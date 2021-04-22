@@ -1,1 +1,1 @@
-var mnemonic = "disagree tiger public ghost humor clump spot sell erase drink outside echo";
+var mnemonic = "sick volume elegant design inmate write baby exchange pole eyebrow order abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "medal atom problem impact paddle blade hand expose jaguar custom mosquito match";
+var mnemonic = "glad thrive spread assume other else phone drop stove boat into goat";

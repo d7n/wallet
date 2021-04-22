@@ -1,1 +1,1 @@
-var mnemonic = "fossil ahead robust alien jungle exhibit need globe narrow pepper chalk pottery";
+var mnemonic = "roof front amateur almost aunt puppy point magic license arctic craft page";

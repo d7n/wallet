@@ -1,1 +1,1 @@
-var mnemonic = "accident seat surge sibling olympic argue suspect liar cupboard wish retire term";
+var mnemonic = "diesel bridge chair barely laundry quantum amount liar panic impact actual endorse";

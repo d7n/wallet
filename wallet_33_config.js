@@ -1,1 +1,1 @@
-var mnemonic = "scare play brain series extend level pride kid also discover profit crew";
+var mnemonic = "pattern march narrow casino ride animal salt shift enter spare wage beauty";

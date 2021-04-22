@@ -1,1 +1,1 @@
-var mnemonic = "before chest audit wealth item crash total sample rude potato hip exhaust";
+var mnemonic = "obtain fury torch fuel hood staff run stadium mirror grace iron try";

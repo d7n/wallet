@@ -1,1 +1,1 @@
-var mnemonic = "margin lunch south educate ask boil bachelor omit spread universe space pudding";
+var mnemonic = "clutch tennis goat member nation puppy swear marble fortune confirm buffalo web";

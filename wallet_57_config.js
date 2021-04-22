@@ -1,1 +1,1 @@
-var mnemonic = "rent helmet frog affair honey hotel where enough hockey furnace confirm two";
+var mnemonic = "fury finish age clay soldier view minute void bargain assume gain hover";

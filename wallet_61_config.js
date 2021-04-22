@@ -1,1 +1,1 @@
-var mnemonic = "excess luxury around fabric sell wool noodle wheel tray inspire nose street";
+var mnemonic = "rug whale derive language liquid crime net slot clown bracket virus diagram";

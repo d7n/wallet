@@ -1,1 +1,1 @@
-var mnemonic = "bird envelope execute say soap armed reform catch loud either verify height";
+var mnemonic = "few program stool group multiply wall shoe birth helmet fiber have rescue";

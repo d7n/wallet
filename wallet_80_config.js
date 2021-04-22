@@ -1,1 +1,1 @@
-var mnemonic = "chalk place normal aerobic plunge thing kid style wonder toe spirit style";
+var mnemonic = "diagram verify tip sun spend dawn width enrich card alarm gossip cash";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion rotate fitness now employ balance cargo imitate minute tent urban property";
+var mnemonic = "original curious certain concert general outer legend final cross enforce increase effort";

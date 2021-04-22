@@ -1,1 +1,1 @@
-var mnemonic = "acoustic tissue citizen simple viable patch sphere mesh recycle mother wrong guilt";
+var mnemonic = "you dismiss figure during limb vital bunker omit wheel trash post dismiss";

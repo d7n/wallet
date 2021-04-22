@@ -1,1 +1,1 @@
-var mnemonic = "wage need either connect clean twelve fit feel garbage journey unknown auction";
+var mnemonic = "evoke possible length year throw real suspect error egg crouch mind movie";

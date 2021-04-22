@@ -1,1 +1,1 @@
-var mnemonic = "manage auto valid tail disorder update grunt hero chronic two casino manual";
+var mnemonic = "size slow first sorry lock gauge symbol cruel tilt sister course ancient";

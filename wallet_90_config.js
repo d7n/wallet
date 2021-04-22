@@ -1,1 +1,1 @@
-var mnemonic = "spider video season thing acoustic fitness enhance buzz fragile fever glance bundle";
+var mnemonic = "civil bargain exercise unusual reason sustain patrol chimney cause track author unable";

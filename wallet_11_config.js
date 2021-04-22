@@ -1,1 +1,1 @@
-var mnemonic = "fuel people cousin large shell protect deliver claim use torch twenty capable";
+var mnemonic = "resemble walk hurdle divert winter captain famous job vivid hello dose cloth";

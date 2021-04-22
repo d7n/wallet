@@ -1,1 +1,1 @@
-var mnemonic = "junk elegant region track attract blue swamp session stomach melt section brief";
+var mnemonic = "initial demand buyer castle vital cool nasty letter dry transfer napkin flag";

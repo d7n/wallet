@@ -1,1 +1,1 @@
-var mnemonic = "wealth hand road calm sustain true vast tired option favorite dream effort";
+var mnemonic = "tumble wolf occur invest outside upon chest ability enroll pudding fancy differ";

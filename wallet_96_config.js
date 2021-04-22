@@ -1,1 +1,1 @@
-var mnemonic = "pistol wash split elegant sniff gather detect news rookie vintage slam economy";
+var mnemonic = "identify ripple sweet half lab service hurry heavy warm danger advice vicious";

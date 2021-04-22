@@ -1,1 +1,1 @@
-var mnemonic = "lift casual artwork ball property obscure couple prize august phone curve naive";
+var mnemonic = "absorb dash bag duck renew gospel exit ticket behave battle worth blade";
