@@ -1,1 +1,1 @@
-var mnemonic = "empower fluid mixture suggest basic dismiss artefact panel jaguar soup among silent";
+var mnemonic = "provide monster dolphin roast bubble onion snow muscle nation impose insect pear";

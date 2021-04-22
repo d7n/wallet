@@ -1,1 +1,1 @@
-var mnemonic = "onion canal they mass notable pistol goat screen frequent magnet cart replace";
+var mnemonic = "april pitch pond crawl valley expect flock obey peanut chat lady table";

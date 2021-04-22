@@ -1,1 +1,1 @@
-var mnemonic = "castle custom hint nothing tower method gather bounce sad moon cool sample";
+var mnemonic = "giraffe resource price frozen evil manual flash grape world early box hill";

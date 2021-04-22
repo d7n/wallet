@@ -1,1 +1,1 @@
-var mnemonic = "drum liberty inquiry toddler impact bulb measure proof divide powder fuel material";
+var mnemonic = "toy sea strong shift print path minimum erosion aim dose friend vacant";

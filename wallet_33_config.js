@@ -1,1 +1,1 @@
-var mnemonic = "pledge deputy stumble lounge horse nice promote adult tip vibrant news upset";
+var mnemonic = "zebra accident plate cool then very spatial egg initial valve nature custom";

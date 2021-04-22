@@ -1,1 +1,1 @@
-var mnemonic = "toe canoe faculty hat guard atom fetch wheat world punch knee plunge";
+var mnemonic = "improve regret endless omit forget park stamp acoustic pelican chat visit target";

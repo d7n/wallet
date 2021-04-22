@@ -1,1 +1,1 @@
-var mnemonic = "sorry begin issue comfort someone canal chest one prefer patrol false assist";
+var mnemonic = "truly spider quick breeze squeeze maximum patrol exact invite maze punch model";

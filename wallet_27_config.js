@@ -1,1 +1,1 @@
-var mnemonic = "garment neglect city skate hour layer glide fee echo brand disorder wife";
+var mnemonic = "slender stomach stage alien trumpet critic autumn rigid mother mistake shallow manage";

@@ -1,1 +1,1 @@
-var mnemonic = "twin catch long museum race pitch radar unlock mass tree exit trash";
+var mnemonic = "improve meat plug glimpse feed fitness joke exchange conduct cigar country loan";

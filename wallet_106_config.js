@@ -1,1 +1,1 @@
-var mnemonic = "agree noble nuclear present staff gift walk jaguar cry drum shy document";
+var mnemonic = "hen fire priority divert idea proud push version image uncle orbit fee";

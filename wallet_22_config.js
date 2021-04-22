@@ -1,1 +1,1 @@
-var mnemonic = "dance input carpet champion walk fish capable inject discover change rib valley";
+var mnemonic = "clever there adapt notice blue require rubber motion nature large hope two";

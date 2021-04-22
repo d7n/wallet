@@ -1,1 +1,1 @@
-var mnemonic = "shell deal degree ugly judge senior surround defy area cable business rude";
+var mnemonic = "naive argue chuckle level enroll mountain coil cry road mention scare salon";

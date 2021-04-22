@@ -1,1 +1,1 @@
-var mnemonic = "hour explain round rice jazz online chase install boost road between school";
+var mnemonic = "industry door trash suit daughter grant click parrot tilt six cereal true";

@@ -1,1 +1,1 @@
-var mnemonic = "mind correct snow stone buddy assault huge afford suggest timber dilemma frame";
+var mnemonic = "child water brick deposit rebel worry section notice ritual shove omit core";

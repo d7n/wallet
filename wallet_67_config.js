@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit roast flavor paper mimic coil awesome glare certain replace noise sign";
+var mnemonic = "belt viable custom accuse lab stereo window discover profit guard joke fox";

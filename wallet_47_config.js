@@ -1,1 +1,1 @@
-var mnemonic = "result surround village crucial much absorb card camera cricket skill reason tunnel";
+var mnemonic = "obvious soldier treat near blur furnace popular powder love lumber original armed";

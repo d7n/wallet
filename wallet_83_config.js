@@ -1,1 +1,1 @@
-var mnemonic = "strategy recall whip bargain business prison oil ride toe mother ride absurd";
+var mnemonic = "six clog ladder tortoise identify group torch behave giggle document fix motion";

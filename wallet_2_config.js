@@ -1,1 +1,1 @@
-var mnemonic = "deal beef convince bundle repeat endorse oil dynamic immense rotate river mind";
+var mnemonic = "peanut knee enter enter major solar nurse jealous second humor hollow focus";

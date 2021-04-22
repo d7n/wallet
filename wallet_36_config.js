@@ -1,1 +1,1 @@
-var mnemonic = "crowd float already crater unknown property gravity culture supreme bleak reform model";
+var mnemonic = "area involve rose satoshi bicycle that boy soda message six rice session";

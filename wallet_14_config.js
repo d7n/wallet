@@ -1,1 +1,1 @@
-var mnemonic = "toe bleak expect stadium close giggle short shine original speak machine jeans";
+var mnemonic = "matrix spend renew move ecology where age cook achieve giggle news valid";

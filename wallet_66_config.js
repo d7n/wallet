@@ -1,1 +1,1 @@
-var mnemonic = "dream electric glide grit favorite limit empower drive monster yellow salon umbrella";
+var mnemonic = "hope strike then gate put coconut first practice cart mandate solid oven";

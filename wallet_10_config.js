@@ -1,1 +1,1 @@
-var mnemonic = "fire large beyond curve aware energy vintage naive vehicle spot major antique";
+var mnemonic = "only local boost creek feed girl wheat token there fury repair crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend bacon join short stay obey permit column renew man guide provide";
+var mnemonic = "above clutch slight beauty few lounge poverty come meadow use name brush";

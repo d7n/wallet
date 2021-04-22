@@ -1,1 +1,1 @@
-var mnemonic = "loyal scrub unit stomach paddle wrap engage sound any envelope neck cycle";
+var mnemonic = "explain display strategy mouse seed math health tank spring again wedding carbon";

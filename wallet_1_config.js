@@ -1,1 +1,1 @@
-var mnemonic = "hundred loud impose easily vessel raise coral flee sword beef start vote";
+var mnemonic = "bacon domain addict off polar shrimp proof rude rookie cricket old face";

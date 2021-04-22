@@ -1,1 +1,1 @@
-var mnemonic = "dizzy drink post stairs sunny all image private cousin easy around able";
+var mnemonic = "ripple skull beyond theme miss position depart endorse blue aerobic explain slam";

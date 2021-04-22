@@ -1,1 +1,1 @@
-var mnemonic = "mountain heart spatial wish veteran box crowd blanket guitar fold eye fold";
+var mnemonic = "ranch special hurdle brush road uncle genius radio correct fatal knock long";

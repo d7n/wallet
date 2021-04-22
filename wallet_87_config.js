@@ -1,1 +1,1 @@
-var mnemonic = "poem crouch atom tonight buffalo pistol cube diagram rely spring spring fork";
+var mnemonic = "spend wreck castle walk cram leopard public weapon purity nature quality fiber";

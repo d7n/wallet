@@ -1,1 +1,1 @@
-var mnemonic = "sort wrist swamp vacuum myself click tree gather input consider solve romance";
+var mnemonic = "gym biology nominee detail aspect figure orbit defense eight online tone since";

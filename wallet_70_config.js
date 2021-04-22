@@ -1,1 +1,1 @@
-var mnemonic = "alcohol miss coyote room friend half gold alone fame focus clever duty";
+var mnemonic = "feed muscle shell nasty paddle area curious rotate casino any salute stage";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset mass couch inmate yellow amazing spare income later cool gravity spoon";
+var mnemonic = "raccoon curious shift brass earn wait bus knock orient path prepare doctor";

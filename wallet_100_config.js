@@ -1,1 +1,1 @@
-var mnemonic = "fabric bright pass useful priority kite fetch trend snap cry over ostrich";
+var mnemonic = "boss use recall stem cool scout elegant slim equal shoe load canal";

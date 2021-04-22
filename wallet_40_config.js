@@ -1,1 +1,1 @@
-var mnemonic = "leader online blush vivid bike casino bean alpha glide grain topic gentle";
+var mnemonic = "practice slogan float label trigger hub universe doctor convince develop fine note";

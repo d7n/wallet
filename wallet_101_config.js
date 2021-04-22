@@ -1,1 +1,1 @@
-var mnemonic = "tail major catch wealth mention wrestle lucky nose despair boss limit there";
+var mnemonic = "happy mom cloud hurdle share memory manual canoe topple adult month silver";

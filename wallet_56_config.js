@@ -1,1 +1,1 @@
-var mnemonic = "crawl laptop cupboard bomb rose goat enable pact focus broken leopard hamster";
+var mnemonic = "peasant eye velvet bleak supreme matrix cabin enable ginger excite fitness palace";

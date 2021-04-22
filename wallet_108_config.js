@@ -1,1 +1,1 @@
-var mnemonic = "comic deposit potato payment load region dash lunch tourist decorate practice giraffe";
+var mnemonic = "artwork club crisp congress merry pulse raven sun force panic replace turn";

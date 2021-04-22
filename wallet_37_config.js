@@ -1,1 +1,1 @@
-var mnemonic = "tragic feature prison speed bicycle slender soft crouch borrow divorce tail dance";
+var mnemonic = "energy proud more code caution salute great glass sing ability assault select";

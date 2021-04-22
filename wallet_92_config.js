@@ -1,1 +1,1 @@
-var mnemonic = "armor minor bid video doctor vault join cover abstract note wait floor";
+var mnemonic = "faint attract mammal food genre shoe smooth close hole dilemma fuel census";

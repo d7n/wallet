@@ -1,1 +1,1 @@
-var mnemonic = "hen street two snap moment industry clerk supreme able catalog grit local";
+var mnemonic = "funny actor basic wood tree april dial tobacco gloom smart entry energy";

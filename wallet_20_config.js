@@ -1,1 +1,1 @@
-var mnemonic = "access wait tired cruise bleak behave push reveal grief adapt where syrup";
+var mnemonic = "mushroom fork fancy small ridge ring awkward stuff brown badge health caught";

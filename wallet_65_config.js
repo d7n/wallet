@@ -1,1 +1,1 @@
-var mnemonic = "undo stairs stomach boat vanish horn make hole boil cotton cement bird";
+var mnemonic = "matter horror gallery else come fetch rhythm side father expose enact sword";

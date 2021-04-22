@@ -1,1 +1,1 @@
-var mnemonic = "cave leader boil blanket beyond stuff large income aspect furnace bag bind";
+var mnemonic = "ethics omit daughter already need focus nose exclude price book fancy together";

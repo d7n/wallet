@@ -1,1 +1,1 @@
-var mnemonic = "pretty moon fresh cargo squeeze office fetch pet concert exile risk forget";
+var mnemonic = "argue ladder enough segment ocean subject aerobic nest position cotton unfold there";

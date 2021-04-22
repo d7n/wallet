@@ -1,1 +1,1 @@
-var mnemonic = "unable page shoe cave crowd hurry cabbage still flag dinosaur strategy genuine";
+var mnemonic = "camera adult brother today vibrant essay culture goddess flower void kick stone";

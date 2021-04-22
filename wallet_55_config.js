@@ -1,1 +1,1 @@
-var mnemonic = "child address height zone furnace brave bean dutch sense flavor cover tattoo";
+var mnemonic = "lucky exact you dune burst saddle weird dragon original kingdom pigeon quarter";

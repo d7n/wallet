@@ -1,1 +1,1 @@
-var mnemonic = "ghost small hybrid connect victory reason affair erode benefit swing goddess shoulder";
+var mnemonic = "penalty axis ski empower cup obey dish young swarm green butter false";

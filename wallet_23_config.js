@@ -1,1 +1,1 @@
-var mnemonic = "reject cotton boss hat patient express state arm lamp foil hold used";
+var mnemonic = "run canoe morning fade pledge whisper response clip wood minor miss essay";

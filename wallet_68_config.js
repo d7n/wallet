@@ -1,1 +1,1 @@
-var mnemonic = "exhibit lunch pave bottom settle razor okay raw boy skate luxury calm";
+var mnemonic = "essence polar will swing guess purity update museum target trumpet diamond card";

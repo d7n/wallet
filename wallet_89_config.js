@@ -1,1 +1,1 @@
-var mnemonic = "load seminar dress attend cat title open they humble spike carpet festival";
+var mnemonic = "clay diagram film chuckle lawsuit square payment load tennis mail grunt leave";

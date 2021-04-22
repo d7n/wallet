@@ -1,1 +1,1 @@
-var mnemonic = "exclude cry unfair castle fault double pause usual steak fabric faith door";
+var mnemonic = "since neutral nothing hidden buyer nothing humor order island total guilt spoon";

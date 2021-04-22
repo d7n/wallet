@@ -1,1 +1,1 @@
-var mnemonic = "spike cluster tube evil soldier kite picture sibling else citizen daughter clog";
+var mnemonic = "answer cave silly bracket flavor owner brick dress until scene write april";

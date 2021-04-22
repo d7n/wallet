@@ -1,1 +1,1 @@
-var mnemonic = "owner pull shy resource deny task victory oak eye baby session roast";
+var mnemonic = "enrich select velvet cheese thumb toe sound still sadness churn juice drama";

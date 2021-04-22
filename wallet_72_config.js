@@ -1,1 +1,1 @@
-var mnemonic = "reform flip wasp night hobby social image language smile peanut push panther";
+var mnemonic = "stay universe glide bench idea exile mesh erosion husband document laugh battle";

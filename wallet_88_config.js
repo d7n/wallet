@@ -1,1 +1,1 @@
-var mnemonic = "survey country clump whip poverty regular grace pluck fade label conduct protect";
+var mnemonic = "cloth depth sing elevator sorry lab genius tiny sure must ecology world";

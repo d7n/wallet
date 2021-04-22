@@ -1,1 +1,1 @@
-var mnemonic = "body confirm park summer favorite business debate fly swing speed empower woman";
+var mnemonic = "trial middle private quote trial cannon oven tray couch father card grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage mosquito expect seminar buddy brief green wedding fault purchase witness canoe";
+var mnemonic = "tonight seminar purchase phone kid swim advance hen hood concert enlist panda";

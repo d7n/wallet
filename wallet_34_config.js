@@ -1,1 +1,1 @@
-var mnemonic = "collect auto sadness civil banner pen aunt output grid electric business display";
+var mnemonic = "short culture call chalk amateur produce dwarf slide alone cluster mansion never";

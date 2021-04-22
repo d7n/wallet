@@ -1,1 +1,1 @@
-var mnemonic = "scatter half ethics key change edit trophy version spice entry swim joke";
+var mnemonic = "spread outdoor uncle blast seed decline sing able lobster summer work upper";

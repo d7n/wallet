@@ -1,1 +1,1 @@
-var mnemonic = "journey escape return shrimp endless wash hair tent net potato inflict unique";
+var mnemonic = "merge wreck submit high more prepare fall hood seed balance cancel menu";

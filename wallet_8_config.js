@@ -1,1 +1,1 @@
-var mnemonic = "also emerge frequent among clog pretty indicate end bamboo artist attract squirrel";
+var mnemonic = "beach reunion narrow chuckle peasant zero cotton wage excess install home spatial";

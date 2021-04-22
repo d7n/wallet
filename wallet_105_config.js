@@ -1,1 +1,1 @@
-var mnemonic = "soccer pioneer version win elbow marine cable sell topic hill twist long";
+var mnemonic = "extend dry liquid reject glide acoustic birth hunt liquid very catch hazard";

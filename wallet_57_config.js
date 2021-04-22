@@ -1,1 +1,1 @@
-var mnemonic = "candy proof account young swing table figure lonely famous claw journey uphold";
+var mnemonic = "garage dog path echo verb orange always skull blame uncle dragon picture";

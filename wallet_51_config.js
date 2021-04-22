@@ -1,1 +1,1 @@
-var mnemonic = "dismiss angry unlock raccoon awesome black forest soap banana joke bus achieve";
+var mnemonic = "sell magnet ride hint announce bubble have payment picnic exchange culture nephew";

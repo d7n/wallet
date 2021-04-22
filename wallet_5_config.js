@@ -1,1 +1,1 @@
-var mnemonic = "any relax mind rate replace trend unfold various indoor profit rubber morning";
+var mnemonic = "shy cluster empower doctor kitchen seat hockey height rotate wealth marine evoke";

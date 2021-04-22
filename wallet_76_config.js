@@ -1,1 +1,1 @@
-var mnemonic = "loop goose dance menu frequent minor hockey episode measure toe slim grit";
+var mnemonic = "olive person alter giggle consider payment differ mango retire time toe market";

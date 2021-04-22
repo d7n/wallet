@@ -1,1 +1,1 @@
-var mnemonic = "type fortune hurry primary laugh license brown include monitor agent say giant";
+var mnemonic = "head pyramid quarter sadness ice struggle neck two matter science health ski";

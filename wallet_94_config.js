@@ -1,1 +1,1 @@
-var mnemonic = "knife neutral trick dial question idle nose avocado kingdom priority expect rely";
+var mnemonic = "harbor side license bean hundred abandon early sudden choice sketch sun busy";

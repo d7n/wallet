@@ -1,1 +1,1 @@
-var mnemonic = "traffic govern north hybrid floor leader insane wagon cancel keep more pupil";
+var mnemonic = "little glide future fever wisdom health juice easy saddle reflect tail squeeze";

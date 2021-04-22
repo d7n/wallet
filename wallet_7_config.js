@@ -1,1 +1,1 @@
-var mnemonic = "deputy clip shoe case yellow gym like choose comfort sugar crisp chair";
+var mnemonic = "rhythm recipe dad wonder flee property stool upon symptom spare patient radar";

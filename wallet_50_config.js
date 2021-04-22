@@ -1,1 +1,1 @@
-var mnemonic = "job couch mean negative enter bless walk fee plate birth organ smoke";
+var mnemonic = "depart track learn timber already quote enable embark follow welcome promote praise";

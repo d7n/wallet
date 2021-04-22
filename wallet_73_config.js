@@ -1,1 +1,1 @@
-var mnemonic = "huge vapor entire cool salad shock solid steak question below report alley";
+var mnemonic = "victory put clock review joy short busy unfold beef hobby uniform cactus";

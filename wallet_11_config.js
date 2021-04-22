@@ -1,1 +1,1 @@
-var mnemonic = "marriage civil bottom picture uncle middle first aware island minute satoshi citizen";
+var mnemonic = "alcohol present step fringe oak crew trophy night theme neutral okay wealth";

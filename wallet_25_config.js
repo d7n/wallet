@@ -1,1 +1,1 @@
-var mnemonic = "slow bachelor certain clutch equip ignore fun cement fury anger auction slogan";
+var mnemonic = "shoulder million fee useful future stereo rent october two grain small border";

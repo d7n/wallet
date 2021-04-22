@@ -1,1 +1,1 @@
-var mnemonic = "canoe tilt exhibit december segment gaze trade foster avoid panel vanish slim";
+var mnemonic = "violin pilot spoil square diesel front because kind upgrade clock dwarf jealous";

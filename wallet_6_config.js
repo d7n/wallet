@@ -1,1 +1,1 @@
-var mnemonic = "image rubber athlete media say spider special win exhibit lyrics female word";
+var mnemonic = "weasel night junk venue ketchup peasant method price priority peanut traffic skin";

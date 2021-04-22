@@ -1,1 +1,1 @@
-var mnemonic = "point helmet fame broom online deposit boy verb jelly farm input antenna";
+var mnemonic = "predict fatigue siren upper fog demand practice spring pupil season argue soup";

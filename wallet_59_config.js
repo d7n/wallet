@@ -1,1 +1,1 @@
-var mnemonic = "ramp fantasy image broken lunar receive party motion enrich allow little fame";
+var mnemonic = "dress search drift story hobby half pilot either enlist portion vast betray";

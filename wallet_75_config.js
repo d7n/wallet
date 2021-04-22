@@ -1,1 +1,1 @@
-var mnemonic = "side catalog enforce grocery crush february bullet casual law hurry giggle hope";
+var mnemonic = "hood hedgehog flavor arrange artwork sketch oil lawn secret indoor mansion quarter";

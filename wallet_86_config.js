@@ -1,1 +1,1 @@
-var mnemonic = "benefit lonely trip impact harsh bicycle okay clump shoe level force number";
+var mnemonic = "armor decorate soldier foot outside cruise keep junior blame shiver evolve clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "march sleep end silent service main obvious claim door slice fish cat";
+var mnemonic = "sentence tent cupboard puzzle comic mesh dolphin impulse business inhale enlist when";

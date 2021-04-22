@@ -1,1 +1,1 @@
-var mnemonic = "analyst equip nuclear vicious desert hint width inquiry bomb despair chair lion";
+var mnemonic = "edit weasel you nation hedgehog weekend giraffe attract thunder crater gather review";

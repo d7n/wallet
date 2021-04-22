@@ -1,1 +1,1 @@
-var mnemonic = "maid endorse toilet neither language bridge velvet artist nose assault job empty";
+var mnemonic = "measure leader before sponsor post want sight rebuild game awesome wedding motor";

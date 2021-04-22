@@ -1,1 +1,1 @@
-var mnemonic = "remind onion shed antique protect monitor swamp brother you tree oven minor";
+var mnemonic = "brand people elephant yard goose seminar adapt hub abandon state dignity scale";

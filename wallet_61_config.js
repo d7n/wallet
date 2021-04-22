@@ -1,1 +1,1 @@
-var mnemonic = "gain clog bronze mushroom fog rescue stumble oyster rocket multiply envelope desert";
+var mnemonic = "welcome shrimp you giant denial squeeze arrest type sense dog lunar blame";

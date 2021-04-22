@@ -1,1 +1,1 @@
-var mnemonic = "skull twice bunker finger myth capable alone spy collect pioneer detail dust";
+var mnemonic = "high equip reform rent vibrant dinosaur decrease wreck dream husband moral minute";

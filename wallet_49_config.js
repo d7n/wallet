@@ -1,1 +1,1 @@
-var mnemonic = "purpose surprise almost purpose reveal field swamp board kitten force orbit narrow";
+var mnemonic = "pilot portion pattern ship skill matrix blade glad into dragon produce soda";

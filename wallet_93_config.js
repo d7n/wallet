@@ -1,1 +1,1 @@
-var mnemonic = "feature youth transfer rural soon color toddler fee inmate voyage kingdom thing";
+var mnemonic = "water indoor derive furnace example muscle satoshi consider fatigue impact kangaroo easily";

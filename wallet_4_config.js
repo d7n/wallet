@@ -1,1 +1,1 @@
-var mnemonic = "winter rare erupt test start riot unveil rescue erosion shy switch quote";
+var mnemonic = "kidney ticket photo hero antique erosion wreck unit frame knock odor december";

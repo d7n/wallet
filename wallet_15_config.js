@@ -1,1 +1,1 @@
-var mnemonic = "uniform era charge embrace virus item obscure elevator sense maple wasp sign";
+var mnemonic = "grow output outside senior craft drum sick type venture mobile hill ghost";
