@@ -1,1 +1,1 @@
-var mnemonic = "hobby alarm hero auto grid able churn pepper patch kitten cargo trim";
+var mnemonic = "shove normal bean admit boil squeeze problem common equip bridge desk age";

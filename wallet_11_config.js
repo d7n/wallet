@@ -1,1 +1,1 @@
-var mnemonic = "fluid final steel employ resist pass rent knife desk gift wage couple";
+var mnemonic = "diamond hungry cute exact skirt razor disagree addict there garage board trend";

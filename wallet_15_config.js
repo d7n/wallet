@@ -1,1 +1,1 @@
-var mnemonic = "point sugar adult yard awkward retire clip aerobic claw cup era find";
+var mnemonic = "bless measure police topple clay float follow rug faint firm enlist sweet";

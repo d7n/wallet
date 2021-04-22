@@ -1,1 +1,1 @@
-var mnemonic = "unhappy there help submit ahead road tide apart above aware link equip";
+var mnemonic = "shiver dry soccer truth april design neck dinosaur vote bounce jelly trumpet";

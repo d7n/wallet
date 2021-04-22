@@ -1,1 +1,1 @@
-var mnemonic = "margin wage tortoise weapon pudding festival erupt dog risk regular fluid bicycle";
+var mnemonic = "copy galaxy slogan first soda garbage joke print arrest tide spider fringe";

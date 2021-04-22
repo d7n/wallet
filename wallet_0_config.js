@@ -1,1 +1,1 @@
-var mnemonic = "effort make tortoise carbon blossom announce divide brain grid retire gate normal";
+var mnemonic = "clown actress museum involve pen begin music this enhance oval palm pony";

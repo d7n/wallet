@@ -1,1 +1,1 @@
-var mnemonic = "release injury toilet powder pizza fiscal need pupil hammer chat menu magic";
+var mnemonic = "notable correct hope chaos engage keen churn upgrade first find bamboo radar";

@@ -1,1 +1,1 @@
-var mnemonic = "settle pretty thought fatal lava snake tiger black vast engine voice rally";
+var mnemonic = "bomb wedding budget ramp state across curve kangaroo monkey when birth work";

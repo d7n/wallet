@@ -1,1 +1,1 @@
-var mnemonic = "reward hazard glove item away nasty layer extra bullet elevator trim priority";
+var mnemonic = "caution dwarf enroll talk bag below three brown silly short antique orient";

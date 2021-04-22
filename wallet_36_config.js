@@ -1,1 +1,1 @@
-var mnemonic = "flip culture that sample all wonder poverty host mesh gasp profit spawn";
+var mnemonic = "dumb avoid property exhaust obey baby install drive fossil answer delay alert";

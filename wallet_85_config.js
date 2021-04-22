@@ -1,1 +1,1 @@
-var mnemonic = "judge eternal critic proof fix squirrel hazard perfect grow ahead latin size";
+var mnemonic = "name reunion radar ankle move rebel belt cruel plate verify tumble trophy";

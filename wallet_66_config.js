@@ -1,1 +1,1 @@
-var mnemonic = "pistol gloom census light rude blossom depend ginger eager garment switch once";
+var mnemonic = "weasel install strategy parade worry dune police captain pyramid laundry unable future";

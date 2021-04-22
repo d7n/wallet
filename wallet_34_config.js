@@ -1,1 +1,1 @@
-var mnemonic = "dentist still split detail wasp business group hour betray color purchase ancient";
+var mnemonic = "carry play salmon praise tent lemon rent angle together cotton hint nephew";

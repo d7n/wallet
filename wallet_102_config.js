@@ -1,1 +1,1 @@
-var mnemonic = "chicken hat insane alarm diagram ivory curtain bunker awesome raccoon horror carbon";
+var mnemonic = "person space ride error brave below tourist gesture treat always world profit";

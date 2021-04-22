@@ -1,1 +1,1 @@
-var mnemonic = "settle auto spirit sausage ankle depend soap spoon remind ready method diagram";
+var mnemonic = "cave resource daughter boss river fire supply hood gospel clap embody error";

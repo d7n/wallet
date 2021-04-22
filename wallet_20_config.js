@@ -1,1 +1,1 @@
-var mnemonic = "quantum menu ensure saddle uncover parade senior pitch permit muffin lonely spot";
+var mnemonic = "trial lunch cave nut balance cross same length urge oval fluid rookie";

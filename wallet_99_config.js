@@ -1,1 +1,1 @@
-var mnemonic = "fluid sphere audit muffin fashion chat pool size nut car abuse tortoise";
+var mnemonic = "allow impact order pony tragic jelly pause wet guess hope legend little";

@@ -1,1 +1,1 @@
-var mnemonic = "spring ritual erase make receive front stomach alcohol funny describe ring pigeon";
+var mnemonic = "tumble rent camp key speed network text flash between delay among can";

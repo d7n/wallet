@@ -1,1 +1,1 @@
-var mnemonic = "occur lobster obvious lion chase vendor sick bean enrich involve monster sweet";
+var mnemonic = "print meat bamboo foil cover cinnamon actress unfold crane ceiling mail share";

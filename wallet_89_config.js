@@ -1,1 +1,1 @@
-var mnemonic = "load salad this fabric absorb rebuild demise safe half trial aunt unveil";
+var mnemonic = "lizard enemy neither dust lunch toe uncle script rack cupboard lens split";

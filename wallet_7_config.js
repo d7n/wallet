@@ -1,1 +1,1 @@
-var mnemonic = "until jump jaguar tuna monkey require boy grace subject bicycle sense midnight";
+var mnemonic = "virtual cactus style mean gasp knock satoshi corn wrap path dirt hamster";

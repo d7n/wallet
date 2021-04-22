@@ -1,1 +1,1 @@
-var mnemonic = "frown pilot trust genre virus baby sketch wrap dumb feel lion brisk";
+var mnemonic = "grain aspect giggle beauty object gospel clean marine roast need reason rubber";

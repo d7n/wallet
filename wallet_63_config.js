@@ -1,1 +1,1 @@
-var mnemonic = "sign consider spring frown height match muffin reopen mesh beef chaos fork";
+var mnemonic = "short spirit true accuse lava often also sibling abstract season account define";

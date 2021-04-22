@@ -1,1 +1,1 @@
-var mnemonic = "about language avocado borrow sketch ketchup surge drink dawn smooth magic quote";
+var mnemonic = "blade acquire sting sign soul coast rocket abandon sheriff key park rocket";

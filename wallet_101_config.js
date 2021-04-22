@@ -1,1 +1,1 @@
-var mnemonic = "episode jungle identify era grab all decade valley token bless sleep settle";
+var mnemonic = "alert walnut head engine decide where smoke rice primary render estate artist";

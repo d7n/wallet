@@ -1,1 +1,1 @@
-var mnemonic = "wool coin consider census pioneer category wise arena minor honey anger bitter";
+var mnemonic = "promote inch window raven fantasy crunch husband call flower once wool clinic";

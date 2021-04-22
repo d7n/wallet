@@ -1,1 +1,1 @@
-var mnemonic = "fancy dad other cost aspect win foam fiber pact dignity lyrics come";
+var mnemonic = "monitor bid upset kidney decade genre crack depth pledge grit tornado what";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder juice cart toss post loud sword clarify lava marble shoulder bachelor";
+var mnemonic = "sheriff market lobster arm tumble air enlist hope casino bread spatial fuel";

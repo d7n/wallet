@@ -1,1 +1,1 @@
-var mnemonic = "feed hawk grunt chair motor tourist where must tumble agent victory citizen";
+var mnemonic = "vague obscure crumble acquire industry tired casino large acquire nominee collect february";

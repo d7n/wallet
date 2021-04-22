@@ -1,1 +1,1 @@
-var mnemonic = "glass federal fruit bless ship cart elder dune region couch patient example";
+var mnemonic = "eyebrow odor subway leader syrup sauce flash sting file medal boring notable";

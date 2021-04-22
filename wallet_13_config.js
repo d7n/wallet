@@ -1,1 +1,1 @@
-var mnemonic = "interest bar pride decade umbrella machine fluid dragon split modify retreat visa";
+var mnemonic = "hungry robot food absorb write shine major fold mango feed reunion lemon";

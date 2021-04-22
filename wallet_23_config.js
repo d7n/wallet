@@ -1,1 +1,1 @@
-var mnemonic = "guide artwork skill day risk twenty custom math pink trash law anger";
+var mnemonic = "pudding orchard sausage depart cricket obvious funny detect keen bundle accuse alpha";

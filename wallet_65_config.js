@@ -1,1 +1,1 @@
-var mnemonic = "uphold magnet erode raise tank latin cycle abuse hole artist version giraffe";
+var mnemonic = "tragic husband honey public ordinary lobster helmet axis excite reduce open section";

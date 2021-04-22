@@ -1,1 +1,1 @@
-var mnemonic = "shed oven field mansion since bitter seat patch explain razor truly merit";
+var mnemonic = "treat chaos auction erode machine weird owner cloth speed vendor lawn remember";

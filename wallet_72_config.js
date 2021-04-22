@@ -1,1 +1,1 @@
-var mnemonic = "north machine salon admit vendor market exotic crisp vote canoe kite nominee";
+var mnemonic = "outer ticket hurdle aerobic rail oyster check blade stay debris rug fat";

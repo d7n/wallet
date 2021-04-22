@@ -1,1 +1,1 @@
-var mnemonic = "devote immense brick giggle portion fuel confirm birth portion expand silver stairs";
+var mnemonic = "gun crane canoe provide foam accuse melt shadow food word vacuum armor";

@@ -1,1 +1,1 @@
-var mnemonic = "castle kick spawn just favorite castle worry term cage doll water scheme";
+var mnemonic = "cave oyster theme city road oppose profit palm champion sketch mention truck";

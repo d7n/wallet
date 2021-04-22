@@ -1,1 +1,1 @@
-var mnemonic = "maximum actor clump deliver dance address hawk sick miss gown face month";
+var mnemonic = "issue tourist garden bike decide actual concert between situate chimney battle neutral";

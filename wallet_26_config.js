@@ -1,1 +1,1 @@
-var mnemonic = "mouse monster bar quality keen buzz basic skin nurse dad carbon chalk";
+var mnemonic = "table pony there prefer you casual sick spare key sick ancient pudding";

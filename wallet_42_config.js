@@ -1,1 +1,1 @@
-var mnemonic = "leopard message circle regular unable asthma object exist liberty retreat loop crouch";
+var mnemonic = "monkey scorpion resist another hair intact timber enter siege dry gather force";

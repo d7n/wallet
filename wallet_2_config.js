@@ -1,1 +1,1 @@
-var mnemonic = "slight wreck bright truly marble twelve atom pass sphere above attitude resemble";
+var mnemonic = "alert gadget nuclear matter cannon shaft rule fruit noise doctor hundred apology";

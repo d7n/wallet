@@ -1,1 +1,1 @@
-var mnemonic = "hidden direct doll renew ginger glare blue artefact bus crash current talent";
+var mnemonic = "tissue polar tribe anxiety trigger old danger utility library inch abuse winner";

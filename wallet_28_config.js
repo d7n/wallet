@@ -1,1 +1,1 @@
-var mnemonic = "hybrid cement correct tower woman end drop since camp dignity submit vacant";
+var mnemonic = "jar merry kingdom exist car place sweet inside vote intact adapt subject";

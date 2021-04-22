@@ -1,1 +1,1 @@
-var mnemonic = "conduct vital door almost empty drift avocado fun thrive parrot marine myth";
+var mnemonic = "route salt prize exchange twist clown what angle daring dilemma about hurdle";

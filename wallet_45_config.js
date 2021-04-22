@@ -1,1 +1,1 @@
-var mnemonic = "health erase lock ankle three bus sad square piano disease marble sadness";
+var mnemonic = "hawk since primary project impulse dish security vicious video elevator disorder mistake";

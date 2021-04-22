@@ -1,1 +1,1 @@
-var mnemonic = "humble enable certain tube kiwi tell addict promote twist gasp write seven";
+var mnemonic = "torch evolve three visual cupboard such true rich shine main unfold copper";

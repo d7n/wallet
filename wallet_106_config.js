@@ -1,1 +1,1 @@
-var mnemonic = "blur van village athlete science random wrong toddler season auction only long";
+var mnemonic = "roast scatter choose solar crew suspect garbage impose wrong sick pigeon another";

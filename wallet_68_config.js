@@ -1,1 +1,1 @@
-var mnemonic = "bridge property owner glide diary region rent census topic bottom garage marble";
+var mnemonic = "divorce veteran average strong bonus suggest slab spot subject silent garment north";

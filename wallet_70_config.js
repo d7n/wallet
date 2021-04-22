@@ -1,1 +1,1 @@
-var mnemonic = "loan pull pulp lemon hope vanish fortune mercy clinic coral trim daughter";
+var mnemonic = "theory rack bargain develop cable buffalo barrel school endless human tongue volume";

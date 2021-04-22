@@ -1,1 +1,1 @@
-var mnemonic = "ethics drama material ready slot biology jungle any rescue stool nothing melody";
+var mnemonic = "immune until ostrich wild banner embark ocean rent provide game expand trade";

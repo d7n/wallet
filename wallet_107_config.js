@@ -1,1 +1,1 @@
-var mnemonic = "defy sun muscle liberty gap advice flush slam evolve surge power lyrics";
+var mnemonic = "jacket process toss scheme palace two rose smoke wreck thought muscle aerobic";

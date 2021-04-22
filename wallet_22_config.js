@@ -1,1 +1,1 @@
-var mnemonic = "author pigeon gain bench original bench circle cost cancel usage hotel any";
+var mnemonic = "tongue bitter salmon device traffic gather dad another bird pottery sheriff alone";

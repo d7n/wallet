@@ -1,1 +1,1 @@
-var mnemonic = "index narrow three yard emerge category tool dizzy hundred young final trick";
+var mnemonic = "movie east arctic inherit find success romance fiscal diet beach flat pole";

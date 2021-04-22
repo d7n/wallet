@@ -1,1 +1,1 @@
-var mnemonic = "merry feed tornado topple shrug rent verify toward round good cancel canvas";
+var mnemonic = "sleep truck strategy phone myself army various thunder chunk carpet yellow remember";

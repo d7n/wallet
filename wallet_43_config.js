@@ -1,1 +1,1 @@
-var mnemonic = "captain various plastic rapid bone alcohol sponsor pact comfort trial gate infant";
+var mnemonic = "swift identify brain method clump lift peanut work wife render subway spray";

@@ -1,1 +1,1 @@
-var mnemonic = "remember gravity exact shoulder total try animal milk together invest hazard defy";
+var mnemonic = "win surprise disease off upon erupt minor garlic ramp ten celery reflect";

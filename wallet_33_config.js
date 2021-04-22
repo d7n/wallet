@@ -1,1 +1,1 @@
-var mnemonic = "jeans pencil odor valve gauge venture spike candy catalog visa left over";
+var mnemonic = "rice ask love club jump scatter because wood inherit dish genius useless";

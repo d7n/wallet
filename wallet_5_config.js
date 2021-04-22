@@ -1,1 +1,1 @@
-var mnemonic = "roof screen pigeon fury veteran ski hurry old gold museum pretty such";
+var mnemonic = "blame output title grape puzzle reopen game play pact reason crouch student";

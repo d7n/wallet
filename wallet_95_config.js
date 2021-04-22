@@ -1,1 +1,1 @@
-var mnemonic = "ignore joke garlic subject ladder surprise roast inside ice priority poem ceiling";
+var mnemonic = "unique marble uphold else meadow delay spend conduct energy arrive toe cabin";

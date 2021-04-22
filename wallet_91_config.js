@@ -1,1 +1,1 @@
-var mnemonic = "spread shrug magic anchor genius believe middle artwork memory buzz slot pottery";
+var mnemonic = "verb bracket number banana easy ten road special dream valid velvet letter";

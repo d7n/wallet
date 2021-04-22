@@ -1,1 +1,1 @@
-var mnemonic = "taste interest drip input balcony category spread stairs mushroom upper vault warfare";
+var mnemonic = "case ginger mom devote draw undo shrimp robust embark blouse cross doctor";

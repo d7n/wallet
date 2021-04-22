@@ -1,1 +1,1 @@
-var mnemonic = "mom someone canvas insane abuse drink confirm menu black supreme online electric";
+var mnemonic = "opinion senior brass solve firm begin refuse screen friend rabbit loop useful";

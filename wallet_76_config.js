@@ -1,1 +1,1 @@
-var mnemonic = "often tobacco urban frog disagree abstract shine rigid hedgehog kangaroo erode glue";
+var mnemonic = "holiday chef aware rack illegal novel educate royal family supreme enlist awake";

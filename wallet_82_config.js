@@ -1,1 +1,1 @@
-var mnemonic = "nut when because inside mail silly wash account erode position gift water";
+var mnemonic = "light matrix usual flock destroy mention convince buddy network mammal claw dismiss";

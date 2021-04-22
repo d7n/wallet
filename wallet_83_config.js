@@ -1,1 +1,1 @@
-var mnemonic = "spawn fantasy coral dad choose width dune parent wrong stadium jump olympic";
+var mnemonic = "elite buffalo math core earn kind token enough effort above large economy";

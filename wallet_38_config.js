@@ -1,1 +1,1 @@
-var mnemonic = "stove embark peasant foster chat music amazing survey vault front same spawn";
+var mnemonic = "song blame grape ring bind oblige canoe gasp merge peanut agent token";

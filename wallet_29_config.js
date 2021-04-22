@@ -1,1 +1,1 @@
-var mnemonic = "bargain grass cinnamon route garlic pride adjust nasty repeat gospel dirt shield";
+var mnemonic = "earn total bless physical physical any high comic foam roast cat balcony";

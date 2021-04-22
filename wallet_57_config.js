@@ -1,1 +1,1 @@
-var mnemonic = "tornado praise vibrant buddy bicycle industry true sunset minimum jazz tail ketchup";
+var mnemonic = "bronze predict giggle over visa puppy potato pink pencil diagram twin eternal";

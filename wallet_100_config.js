@@ -1,1 +1,1 @@
-var mnemonic = "play hungry captain trick pave train vocal old pizza meat scissors ghost";
+var mnemonic = "curious alarm clip shrug must this brown object public shadow pull close";

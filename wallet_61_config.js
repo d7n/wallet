@@ -1,1 +1,1 @@
-var mnemonic = "funny blush winter yellow bring call toe truth cement claw hybrid zero";
+var mnemonic = "inject recipe merit equal era liquid anxiety rare galaxy remove pilot margin";

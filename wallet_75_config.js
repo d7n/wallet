@@ -1,1 +1,1 @@
-var mnemonic = "twist kitchen improve begin hollow deposit aerobic agent claim lens track cherry";
+var mnemonic = "stool load rotate hunt abstract electric spin despair fox trash snack tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "offer slice biology claim prosper boss sail dinosaur flat home wedding abstract";
+var mnemonic = "deliver unaware escape black humble fiber tone armor settle nuclear army tattoo";

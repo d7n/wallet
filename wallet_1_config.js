@@ -1,1 +1,1 @@
-var mnemonic = "art curtain noble cream tent during mean issue elevator series type tail";
+var mnemonic = "impose horse attack round village wet illness style add element nice useful";

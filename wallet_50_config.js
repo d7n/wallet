@@ -1,1 +1,1 @@
-var mnemonic = "orange pause outer nothing crew much fan city echo million company follow";
+var mnemonic = "meat portion pass ketchup uncle across strategy resemble into message ostrich reflect";

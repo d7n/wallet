@@ -1,1 +1,1 @@
-var mnemonic = "winner actor noodle census chair unique bar sibling voyage walk receive tenant";
+var mnemonic = "witness save ridge toy naive large dirt sail romance inner mask shoulder";

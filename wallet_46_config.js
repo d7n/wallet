@@ -1,1 +1,1 @@
-var mnemonic = "marble gadget inject catalog practice ancient child begin fog depend baby cost";
+var mnemonic = "another abuse pilot breeze used swift obvious sugar call space nest crucial";

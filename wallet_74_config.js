@@ -1,1 +1,1 @@
-var mnemonic = "check auction problem point question wolf alone sleep arrange pioneer addict still";
+var mnemonic = "surprise two present survey kind segment demand concert announce pull humble crazy";

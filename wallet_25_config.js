@@ -1,1 +1,1 @@
-var mnemonic = "finish flee youth organ snake rate walnut caught visual public valid barrel";
+var mnemonic = "fox message arrange hotel uncle enrich scissors mosquito penalty enforce eye beach";

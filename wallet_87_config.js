@@ -1,1 +1,1 @@
-var mnemonic = "swift scout silent monster afraid faith autumn digital lunar remind diary dutch";
+var mnemonic = "left elephant foster exile magic invest winter grain huge diary boy pear";

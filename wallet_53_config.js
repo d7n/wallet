@@ -1,1 +1,1 @@
-var mnemonic = "mom virtual essence gallery fish elevator apple liberty speed congress latin staff";
+var mnemonic = "target despair rib taste yard grass claim useless face can float crash";

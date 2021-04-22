@@ -1,1 +1,1 @@
-var mnemonic = "echo piano tortoise recall coach forget blur square skin enroll child ticket";
+var mnemonic = "federal above month aware donkey tube maid primary quarter choose depend zebra";

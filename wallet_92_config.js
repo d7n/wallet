@@ -1,1 +1,1 @@
-var mnemonic = "account name basket damp tiny muffin movie smart fine cactus blush laptop";
+var mnemonic = "crane labor divorce famous digital imitate journey romance glow focus globe layer";

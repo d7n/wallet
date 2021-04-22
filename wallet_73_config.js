@@ -1,1 +1,1 @@
-var mnemonic = "engage tip sad nut outdoor neutral jeans idle detect very also slice";
+var mnemonic = "chimney dial spatial fossil awake favorite claw cruel vessel target ozone situate";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor anger model cruel damage cheap junk book betray middle order flag";
+var mnemonic = "easily home display foil recycle detail grocery cross course merge goose lumber";

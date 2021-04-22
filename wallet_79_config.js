@@ -1,1 +1,1 @@
-var mnemonic = "pottery bless interest mutual code clerk vacuum clip smoke human desert parade";
+var mnemonic = "left sound copper method steel neglect endorse lucky sadness private bubble satoshi";

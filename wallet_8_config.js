@@ -1,1 +1,1 @@
-var mnemonic = "clarify strategy duty collect subway lamp mad owner armed target soldier connect";
+var mnemonic = "noise frequent tonight result carbon animal piece other swallow turn cube sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "earth hurt brisk vote alert try divide various settle gadget balcony walnut";
+var mnemonic = "citizen army impose warrior point feature rent pottery gloom category vocal upper";

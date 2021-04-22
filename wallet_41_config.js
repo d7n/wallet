@@ -1,1 +1,1 @@
-var mnemonic = "behind rookie cheap position holiday night real aim bulb abandon piece february";
+var mnemonic = "type venue legal machine relief daughter try adult soup conduct razor banner";

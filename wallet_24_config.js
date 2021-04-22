@@ -1,1 +1,1 @@
-var mnemonic = "author tourist question old lemon squirrel spy finish clay fruit duty awful";
+var mnemonic = "door champion subject cherry zoo learn improve option betray iron firm tree";

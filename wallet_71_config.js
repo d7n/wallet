@@ -1,1 +1,1 @@
-var mnemonic = "volume road volume reform will copper exact cinnamon excite ring hip payment";
+var mnemonic = "tackle palace repair shell donkey dash benefit consider patient frozen deny thrive";

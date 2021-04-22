@@ -1,1 +1,1 @@
-var mnemonic = "correct quick security quote street snack debate hollow scrap protect badge raw";
+var mnemonic = "under split museum pact fashion destroy define candy stomach wife lunch plastic";

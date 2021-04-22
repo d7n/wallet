@@ -1,1 +1,1 @@
-var mnemonic = "point fall fade size face now accuse wrist dial buffalo earn artist";
+var mnemonic = "then journey action elbow wish ladder check erase avoid tray round reason";

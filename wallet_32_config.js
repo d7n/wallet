@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon govern fox alpha thank abstract relax right dish rally timber satoshi";
+var mnemonic = "over hand egg eternal result island head index asthma course raven sudden";

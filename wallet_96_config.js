@@ -1,1 +1,1 @@
-var mnemonic = "cat wonder blade shield firm half run alpha picture sheriff arrow woman";
+var mnemonic = "hotel music month novel gospel abstract safe foam uniform impose always stumble";
