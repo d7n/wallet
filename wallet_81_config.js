@@ -1,1 +1,1 @@
-var mnemonic = "velvet rigid vessel rose drink solve manage own air arrive soul fog";
+var mnemonic = "famous tag asset access answer valve route grant car border cage ring";

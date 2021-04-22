@@ -1,1 +1,1 @@
-var mnemonic = "field enable little educate fire moon opinion sting chef trophy dignity broccoli";
+var mnemonic = "jaguar before liar shrug blade frame horse year income fantasy face cigar";

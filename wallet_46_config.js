@@ -1,1 +1,1 @@
-var mnemonic = "regular subject tenant joy mansion liar enforce nephew punch panic valve pencil";
+var mnemonic = "unusual warrior empty matter bridge area stem clog food energy priority mad";

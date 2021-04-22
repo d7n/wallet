@@ -1,1 +1,1 @@
-var mnemonic = "industry slam motor float discover mandate nest film feature island waste reform";
+var mnemonic = "vendor exclude toilet glad lizard very brain cluster shoe nice entire diet";

@@ -1,1 +1,1 @@
-var mnemonic = "alley expand debris cycle barrel sun deposit print north crucial lesson hand";
+var mnemonic = "rice impose powder hurdle retire keen few ball adjust example foot improve";

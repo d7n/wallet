@@ -1,1 +1,1 @@
-var mnemonic = "marine market other middle bulb bamboo aspect grace emerge hungry either guitar";
+var mnemonic = "bargain learn curtain luxury spread silk clay veteran day deputy clap enlist";

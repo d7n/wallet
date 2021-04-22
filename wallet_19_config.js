@@ -1,1 +1,1 @@
-var mnemonic = "outside motor film renew clog menu helmet power spice now crack nuclear";
+var mnemonic = "seed shell like pave style gas napkin lesson ginger fault any tower";

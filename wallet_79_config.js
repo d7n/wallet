@@ -1,1 +1,1 @@
-var mnemonic = "tooth visual visa decorate antique supreme flock kiwi payment loop seek mountain";
+var mnemonic = "cabbage neck person laugh satisfy silk able license cluster double fox riot";

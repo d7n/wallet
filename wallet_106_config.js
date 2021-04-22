@@ -1,1 +1,1 @@
-var mnemonic = "cake anxiety order gasp judge switch card series super picture cargo peanut";
+var mnemonic = "wear paddle ethics inform winter situate tooth artwork misery sniff ready absent";

@@ -1,1 +1,1 @@
-var mnemonic = "title gloom nephew tired turkey drama begin teach rose broken tourist put";
+var mnemonic = "stock crisp arrange empower sauce sort endorse wheel swarm mouse own pig";

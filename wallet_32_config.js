@@ -1,1 +1,1 @@
-var mnemonic = "hungry hand drastic arm afford patrol slight antique fabric say chapter utility";
+var mnemonic = "leopard salon jealous wise magic lion monkey wear net sugar ring nasty";

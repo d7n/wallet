@@ -1,1 +1,1 @@
-var mnemonic = "expire scene pill summer govern flame outside crumble grass school favorite cage";
+var mnemonic = "stool shock artefact property nurse demand embrace deer prosper quiz grunt stay";

@@ -1,1 +1,1 @@
-var mnemonic = "gain bronze setup oxygen flag robot lock make box impose make cat";
+var mnemonic = "twin phone borrow gather certain panic dream alcohol base relief elder omit";

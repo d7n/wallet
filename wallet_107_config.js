@@ -1,1 +1,1 @@
-var mnemonic = "cup metal frog squirrel direct roast account own pulse share cup deer";
+var mnemonic = "view social orphan absent worth bomb credit topic true salad castle alert";

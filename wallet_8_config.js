@@ -1,1 +1,1 @@
-var mnemonic = "library rich uncle pole execute visual journey kick interest popular offer property";
+var mnemonic = "multiply model report wage dish wine charge census subway know dentist salad";

@@ -1,1 +1,1 @@
-var mnemonic = "comic essence code catch click link home divert nest drastic pull party";
+var mnemonic = "ask cruel crisp broken gift north mushroom area brass cave deny garden";

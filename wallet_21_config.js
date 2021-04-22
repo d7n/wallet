@@ -1,1 +1,1 @@
-var mnemonic = "squirrel poet wonder volcano artefact hold slim reduce recipe confirm stick ribbon";
+var mnemonic = "salmon badge draft veteran differ crawl account fit sugar powder field scorpion";

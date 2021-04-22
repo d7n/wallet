@@ -1,1 +1,1 @@
-var mnemonic = "sing grant program extend caution picnic hill kitten endorse swear cinnamon security";
+var mnemonic = "moral bulk portion banana salt bulb guitar rebuild deal deer better dose";

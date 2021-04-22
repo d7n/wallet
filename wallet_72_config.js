@@ -1,1 +1,1 @@
-var mnemonic = "table puzzle furnace luxury slam hold soap parade grocery shiver chase throw";
+var mnemonic = "thought door human maid memory nation earn address unable morning expire knock";

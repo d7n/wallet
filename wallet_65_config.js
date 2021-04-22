@@ -1,1 +1,1 @@
-var mnemonic = "weapon shrimp license old dismiss sorry demise unknown asset twice vapor glow";
+var mnemonic = "capital voyage theme depart sail service police foam undo crime security found";

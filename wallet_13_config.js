@@ -1,1 +1,1 @@
-var mnemonic = "gospel welcome aware script seat broom real fall vast gentle alter mass";
+var mnemonic = "forest effort huge rifle few accuse live skirt world polar pony farm";

@@ -1,1 +1,1 @@
-var mnemonic = "bind empower elephant regular bacon level museum valve carpet grass ginger liberty";
+var mnemonic = "arctic flash guitar jar flame tiny cannon then transfer twice pioneer possible";

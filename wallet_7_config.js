@@ -1,1 +1,1 @@
-var mnemonic = "suggest trap forward torch behind rent spike light pause kitchen wet attend";
+var mnemonic = "negative more engage impulse trend peasant develop receive forget lunar notice reward";

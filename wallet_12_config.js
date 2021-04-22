@@ -1,1 +1,1 @@
-var mnemonic = "clog road list arch dinosaur will hello pair dinosaur leader truck lounge";
+var mnemonic = "order always dirt addict potato describe exile give grain fatigue close click";

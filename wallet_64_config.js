@@ -1,1 +1,1 @@
-var mnemonic = "vault couple fork vintage rent tide same govern will spice pattern swallow";
+var mnemonic = "admit icon just lock maple debate payment arrive page slush cat renew";

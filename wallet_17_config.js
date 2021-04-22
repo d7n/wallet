@@ -1,1 +1,1 @@
-var mnemonic = "tilt solve ostrich isolate actor wedding bunker force future split summer slice";
+var mnemonic = "rhythm theme program craft reflect syrup secret sadness build truly noble surround";

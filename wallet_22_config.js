@@ -1,1 +1,1 @@
-var mnemonic = "payment canoe side depart exact route parrot bridge mosquito sun response giggle";
+var mnemonic = "powder reason call trip relax lottery glove silly romance random reward differ";

@@ -1,1 +1,1 @@
-var mnemonic = "letter anchor act coyote cheap large luggage neutral solve mask stand phrase";
+var mnemonic = "finger health write predict effort mistake silver mix clip income invest snow";

@@ -1,1 +1,1 @@
-var mnemonic = "subject sustain raccoon notable dragon marine result hybrid arena crowd glare project";
+var mnemonic = "silk monkey author pitch birth reward trim couple sweet globe remove voice";

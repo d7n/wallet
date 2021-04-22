@@ -1,1 +1,1 @@
-var mnemonic = "market ketchup hurry talent soul adult narrow truth seminar hat elevator shed";
+var mnemonic = "rocket ozone canvas invite twenty volume box expand doctor involve eight process";

@@ -1,1 +1,1 @@
-var mnemonic = "wage enhance frost grab portion pig ceiling silk column sure account avoid";
+var mnemonic = "fine regret sphere sauce left crucial around close craft craft feel either";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort load license portion hazard swear trip quit relax rich alcohol skate";
+var mnemonic = "oil amazing slight flavor cat goose ramp subway typical fabric denial meadow";

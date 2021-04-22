@@ -1,1 +1,1 @@
-var mnemonic = "word core olive arena thing shaft depart duck punch kite better island";
+var mnemonic = "economy photo valley grain public holiday dizzy smart drum mutual heart coast";

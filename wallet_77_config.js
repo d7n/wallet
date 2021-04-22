@@ -1,1 +1,1 @@
-var mnemonic = "flame urge gesture describe gun fox actor urban over evil banana insane";
+var mnemonic = "energy quick inform pledge filter nerve estate retire elegant loan tourist tonight";

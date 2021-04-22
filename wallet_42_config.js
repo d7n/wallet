@@ -1,1 +1,1 @@
-var mnemonic = "monitor focus topic antenna boring tuition struggle wild about exchange hat remind";
+var mnemonic = "review truth trend gloom turn segment scale success parrot chat spawn dinner";

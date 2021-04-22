@@ -1,1 +1,1 @@
-var mnemonic = "cigar author mouse narrow shadow can wreck camera second rich outdoor buffalo";
+var mnemonic = "dignity please scissors between stomach infant journey usual indoor vast equip morning";

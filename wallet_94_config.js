@@ -1,1 +1,1 @@
-var mnemonic = "decorate tooth mask good sponsor dignity slight coil burden glow panda nuclear";
+var mnemonic = "neither present usual trigger capable era little valid popular coil jeans seed";

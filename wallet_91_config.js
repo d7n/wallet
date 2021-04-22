@@ -1,1 +1,1 @@
-var mnemonic = "pluck foam believe tape scatter paddle keen brief girl friend true stairs";
+var mnemonic = "act cluster knee then tackle seed seek always leisure neither endorse curtain";

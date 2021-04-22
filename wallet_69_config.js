@@ -1,1 +1,1 @@
-var mnemonic = "adapt large lecture comfort evidence sure option lecture panic else future fluid";
+var mnemonic = "giraffe ostrich flee useless another topic lottery next shoulder trade squirrel lemon";

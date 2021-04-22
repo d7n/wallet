@@ -1,1 +1,1 @@
-var mnemonic = "space yard ribbon medal bar tilt track wife outer outside injury state";
+var mnemonic = "paddle happy own you equal section attract pink save great area cute";

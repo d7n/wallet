@@ -1,1 +1,1 @@
-var mnemonic = "document drive between entire twist claw poet grid vivid swift swamp bottom";
+var mnemonic = "digital face globe oblige bridge item earn gadget install squeeze garbage silly";

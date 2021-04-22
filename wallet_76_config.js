@@ -1,1 +1,1 @@
-var mnemonic = "hidden era bike sketch usual city gaze bird vibrant tone express oppose";
+var mnemonic = "crime swift pave better jelly review arrest dragon donor vague lucky tobacco";

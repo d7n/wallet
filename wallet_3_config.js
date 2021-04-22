@@ -1,1 +1,1 @@
-var mnemonic = "sea nature patch galaxy cousin guilt business discover wonder rich remove swift";
+var mnemonic = "large poet hole paper siren violin rabbit female pair praise logic novel";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder flat alpha put click perfect avocado cram true crazy divide neglect";
+var mnemonic = "decorate flip side small staff exercise spawn voyage wheel icon beach brand";

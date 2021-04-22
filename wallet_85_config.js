@@ -1,1 +1,1 @@
-var mnemonic = "flavor inhale turtle zoo multiply credit ribbon wrist spell crystal magnet success";
+var mnemonic = "mind diary thing chaos sell matter story slush meat horror loyal online";

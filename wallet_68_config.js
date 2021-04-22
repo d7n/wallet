@@ -1,1 +1,1 @@
-var mnemonic = "hurt vicious idea swarm width extra engine matrix doll injury worth organ";
+var mnemonic = "jar vibrant fine stand smile sock twin slight few mind hundred outside";

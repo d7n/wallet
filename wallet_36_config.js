@@ -1,1 +1,1 @@
-var mnemonic = "swallow page resemble push hat rude disorder harvest blossom oyster film ice";
+var mnemonic = "father section more video ginger maple increase distance give tobacco exotic electric";

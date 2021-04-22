@@ -1,1 +1,1 @@
-var mnemonic = "pitch face flower uniform emerge nothing latin seminar cake episode weird minor";
+var mnemonic = "only flat lend learn tattoo diesel bright jelly shallow era egg motion";

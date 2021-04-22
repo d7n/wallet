@@ -1,1 +1,1 @@
-var mnemonic = "horn enlist raccoon super boil bonus escape fire assist tomorrow puppy discover";
+var mnemonic = "worry universe flavor pole chalk absent volume away vendor cancel fit ball";

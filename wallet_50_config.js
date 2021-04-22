@@ -1,1 +1,1 @@
-var mnemonic = "narrow push soda magnet letter zebra describe tilt elephant suffer medal venue";
+var mnemonic = "soap hub laptop fabric harvest leisure plug weekend strike negative pear sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "problem scorpion three furnace bicycle front knee coyote accuse world erosion flush";
+var mnemonic = "quote shoulder roast mimic impulse garment language flush unable execute spatial kind";

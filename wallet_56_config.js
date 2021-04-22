@@ -1,1 +1,1 @@
-var mnemonic = "major rule ghost coffee clerk twenty profit stable bomb course exile enrich";
+var mnemonic = "weather essence fence pride main design machine direct plunge accident mule surprise";

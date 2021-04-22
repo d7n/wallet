@@ -1,1 +1,1 @@
-var mnemonic = "promote rally retire syrup witness act life glide tennis mask rate glad";
+var mnemonic = "return embody heart develop large burden fox scare pave party quit sibling";

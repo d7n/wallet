@@ -1,1 +1,1 @@
-var mnemonic = "buffalo moment renew catch army prefer upper oak nation tower device there";
+var mnemonic = "fantasy rent oxygen happy pact series afford appear zebra warrior crush force";

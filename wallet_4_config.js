@@ -1,1 +1,1 @@
-var mnemonic = "front vocal sugar symbol remember inspire harsh civil canvas sun spin retire";
+var mnemonic = "example cost drive update rotate army health choice brass mushroom bread slam";

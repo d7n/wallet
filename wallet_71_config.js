@@ -1,1 +1,1 @@
-var mnemonic = "drive truth child hill stable stable hat donor valley later electric hole";
+var mnemonic = "gap maximum delay raise toast unlock denial blush dune subject heavy puzzle";

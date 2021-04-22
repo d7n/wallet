@@ -1,1 +1,1 @@
-var mnemonic = "plate erosion major kidney jacket faint curious subject differ tornado novel where";
+var mnemonic = "slice kiwi own custom alpha away elephant alley hybrid food expire ladder";

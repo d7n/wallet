@@ -1,1 +1,1 @@
-var mnemonic = "deputy motion kit job kingdom various envelope soda wagon behind reunion juice";
+var mnemonic = "stairs aspect panel south more poverty unfair fly crowd drill okay ugly";

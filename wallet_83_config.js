@@ -1,1 +1,1 @@
-var mnemonic = "movie about pizza roast club soap patrol length craft must need night";
+var mnemonic = "setup sure travel deposit common head whale cricket damage version ski wool";

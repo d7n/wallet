@@ -1,1 +1,1 @@
-var mnemonic = "struggle kind alpha patient turn give tape measure betray target tortoise trick";
+var mnemonic = "surface search open popular start bulb need hope foam wealth catalog lobster";

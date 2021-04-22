@@ -1,1 +1,1 @@
-var mnemonic = "abuse round bright drama basket clock twenty normal craft clock mask soup";
+var mnemonic = "carbon image book invest sunset breeze atom grape illness grain olympic relief";

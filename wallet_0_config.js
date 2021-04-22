@@ -1,1 +1,1 @@
-var mnemonic = "relax shadow glue raw obey screen mention aim swift luxury solar romance";
+var mnemonic = "course small spoon fox start old bone elevator swap siege marble parent";

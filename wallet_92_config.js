@@ -1,1 +1,1 @@
-var mnemonic = "cheese amazing manual sand where text pistol idle punch fly guard survey";
+var mnemonic = "method spray solve tower spatial talk north sun fix present giraffe rich";

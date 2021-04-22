@@ -1,1 +1,1 @@
-var mnemonic = "marine people shoe flower crack other miss soft clap claw mixture globe";
+var mnemonic = "science learn kangaroo arrange airport parrot retreat leopard depend clean empty stool";

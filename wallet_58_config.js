@@ -1,1 +1,1 @@
-var mnemonic = "that wheel direct amount ozone family vocal math key mansion level penalty";
+var mnemonic = "gadget need submit regular atom must sign draw salad success need possible";

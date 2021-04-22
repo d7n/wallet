@@ -1,1 +1,1 @@
-var mnemonic = "car liquid tail lecture point sibling grunt penalty drama gloom safe tray";
+var mnemonic = "churn market bag rude apple can acid virus able trophy main pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "advance figure fitness illegal caution original decide tank orbit come crouch supply";
+var mnemonic = "dream pistol must viable sense engage plug domain warfare scare unknown jungle";

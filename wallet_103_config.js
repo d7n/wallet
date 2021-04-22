@@ -1,1 +1,1 @@
-var mnemonic = "narrow marble surprise vibrant like sense cage lock clog scene lift wire";
+var mnemonic = "suggest door grab bundle lucky robot unable arrow pluck space dragon drama";

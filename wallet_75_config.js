@@ -1,1 +1,1 @@
-var mnemonic = "behave increase shield fault purpose aware provide column similar cave bulb upon";
+var mnemonic = "island tag install strike victory sand want reopen flee orphan cable siren";

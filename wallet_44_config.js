@@ -1,1 +1,1 @@
-var mnemonic = "theory project raw three equal baby begin dove dust crowd trick glide";
+var mnemonic = "voice long social asset soda label since panic target lunch gauge strike";

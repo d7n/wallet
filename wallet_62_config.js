@@ -1,1 +1,1 @@
-var mnemonic = "liar gap street balance grant siege sport cabbage clean tenant corn poem";
+var mnemonic = "celery jazz merge vanish winner media name team target hello visual kit";

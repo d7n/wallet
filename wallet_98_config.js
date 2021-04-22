@@ -1,1 +1,1 @@
-var mnemonic = "reflect sniff urban pluck toss cigar column cheese useful famous elevator sleep";
+var mnemonic = "client hole glance payment tank present forest oblige major fatal boil surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "rather cake march antenna bonus weather bread lucky peasant fiction guide initial";
+var mnemonic = "magic fly light wild wreck health begin appear science code mom allow";

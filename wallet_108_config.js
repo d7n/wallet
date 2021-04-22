@@ -1,1 +1,1 @@
-var mnemonic = "penalty drive decrease hard emotion play gesture seed budget finger puzzle drift";
+var mnemonic = "siege home farm cancel young program balance tide scrub sleep slogan senior";

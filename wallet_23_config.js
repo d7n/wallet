@@ -1,1 +1,1 @@
-var mnemonic = "snake leisure target ship unfold sponsor coast diamond purpose fashion dinner airport";
+var mnemonic = "lyrics payment diary below useful tongue clog snow bulk husband expose happy";

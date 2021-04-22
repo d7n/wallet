@@ -1,1 +1,1 @@
-var mnemonic = "talent learn load estate loop cool similar famous shoe butter habit olympic";
+var mnemonic = "angle acid mesh hover session nurse already wet habit void similar save";

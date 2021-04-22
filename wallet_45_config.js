@@ -1,1 +1,1 @@
-var mnemonic = "couch doctor robust tuna enter pupil sphere rail chunk okay equip naive";
+var mnemonic = "bicycle two rebel allow hobby exact travel drive paddle impose neglect what";

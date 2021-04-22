@@ -1,1 +1,1 @@
-var mnemonic = "ability recycle derive force interest impact crack kangaroo marble secret believe inspire";
+var mnemonic = "track goddess skin coyote width decade plate payment warrior gasp order angry";

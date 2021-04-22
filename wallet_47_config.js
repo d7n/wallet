@@ -1,1 +1,1 @@
-var mnemonic = "lion load because sight indicate island label charge window copy oval tide";
+var mnemonic = "initial decide abuse food alarm plastic metal cream attend vague pig ginger";

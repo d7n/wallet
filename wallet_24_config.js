@@ -1,1 +1,1 @@
-var mnemonic = "travel crush corn solar world critic build plastic example hungry original tiny";
+var mnemonic = "defense winner view layer scrap ghost corn grace crumble tank swap asset";

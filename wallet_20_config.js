@@ -1,1 +1,1 @@
-var mnemonic = "kid antenna any north guilt define topple depth together urge race chronic";
+var mnemonic = "usage moral fabric short monkey puppy river screen exact accuse crack mammal";

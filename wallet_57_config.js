@@ -1,1 +1,1 @@
-var mnemonic = "buddy priority vital shove canyon note actor flower chef merit home breeze";
+var mnemonic = "chuckle clarify prepare code wool neutral arrive knock acquire spin arrow crater";

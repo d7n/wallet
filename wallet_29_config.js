@@ -1,1 +1,1 @@
-var mnemonic = "excite cause olive crunch lottery flame exact choose dolphin head afford stand";
+var mnemonic = "brass enjoy emotion lock donor yard mushroom diamond relief ask logic paper";

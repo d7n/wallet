@@ -1,1 +1,1 @@
-var mnemonic = "differ main elite cereal artefact basic gloom file unable lizard team song";
+var mnemonic = "session phone cricket case scheme train fuel catalog leisure ghost session party";

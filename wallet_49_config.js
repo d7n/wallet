@@ -1,1 +1,1 @@
-var mnemonic = "sheriff leader anchor talent video addict summer degree buyer top major trouble";
+var mnemonic = "motion surround village catalog symptom venture wagon load topple famous fortune barely";

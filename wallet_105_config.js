@@ -1,1 +1,1 @@
-var mnemonic = "bunker symbol dog track sell glow cry train depth skin coyote acquire";
+var mnemonic = "apart type identify deposit tool answer mention priority spoil accident soon turn";

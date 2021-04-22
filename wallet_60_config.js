@@ -1,1 +1,1 @@
-var mnemonic = "pulp host index chunk impact junior ensure dune can mobile undo milk";
+var mnemonic = "nephew excite club hero shine stick essay shop account quality artwork increase";

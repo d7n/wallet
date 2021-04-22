@@ -1,1 +1,1 @@
-var mnemonic = "luggage eager museum rigid rhythm ensure spice old aerobic mercy pledge napkin";
+var mnemonic = "scatter that school oblige tray salon empower apple laugh alone gym goddess";

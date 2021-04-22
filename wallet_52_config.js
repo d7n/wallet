@@ -1,1 +1,1 @@
-var mnemonic = "swamp cotton tube camp apple hold suggest flight bean outdoor foster core";
+var mnemonic = "diamond bench inform legend clean way hole charge gap cruel dream trumpet";

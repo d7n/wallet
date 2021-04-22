@@ -1,1 +1,1 @@
-var mnemonic = "tag twist poem language radio elite danger unfold journey useless sun warfare";
+var mnemonic = "junior remove tomato behind mistake space crunch grief correct uphold donor magic";

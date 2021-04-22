@@ -1,1 +1,1 @@
-var mnemonic = "roof remember fee absorb pulp good unable fall lunar goat alpha million";
+var mnemonic = "hundred such raw vicious female spatial infant state drink material dry embody";

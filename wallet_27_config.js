@@ -1,1 +1,1 @@
-var mnemonic = "surprise ladder giraffe lend life horror robust firm ceiling field give scorpion";
+var mnemonic = "come super hair obtain source model trap pottery feature canvas sock taste";

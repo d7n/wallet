@@ -1,1 +1,1 @@
-var mnemonic = "chapter joy expect cotton airport chef father brother champion dad near reveal";
+var mnemonic = "city detail curve bird audit energy badge floor alter flash bridge acoustic";

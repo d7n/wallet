@@ -1,1 +1,1 @@
-var mnemonic = "detect bronze absurd poverty smoke alcohol patch broom neutral image history wet";
+var mnemonic = "start dream mom wild orchard hospital naive club matrix corn struggle else";

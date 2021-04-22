@@ -1,1 +1,1 @@
-var mnemonic = "net hybrid tell wonder silver either quantum early absent shift inquiry box";
+var mnemonic = "theory horn enhance exit stove maid sting decrease load below pink topple";

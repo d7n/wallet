@@ -1,1 +1,1 @@
-var mnemonic = "enable camp cram element fade ordinary gas unique march thunder sketch enforce";
+var mnemonic = "reward detect sell nice sad pair excuse exhaust zero room angle toward";

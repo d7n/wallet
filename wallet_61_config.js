@@ -1,1 +1,1 @@
-var mnemonic = "sense develop kitten board stone reveal into okay save appear alone number";
+var mnemonic = "symbol around twenty drill wedding poverty doll buffalo suit trash polar bird";
