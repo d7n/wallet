@@ -1,1 +1,1 @@
-var mnemonic = "walnut orbit blossom spike wage antenna sustain inform print tray all kite";
+var mnemonic = "taxi measure enemy chest pizza such bunker license frost job slight rely";

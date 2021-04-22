@@ -1,1 +1,1 @@
-var mnemonic = "steel sick find crime monster lunar alone bargain smart elegant already bitter";
+var mnemonic = "crouch share raven uncover harvest pilot essay decade knee swear rich seek";

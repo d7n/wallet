@@ -1,1 +1,1 @@
-var mnemonic = "head flee coconut cargo leopard assume gift nurse neither staff rule rival";
+var mnemonic = "knee pact cushion empty eager diagram bacon system offer danger category flee";

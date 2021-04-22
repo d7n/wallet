@@ -1,1 +1,1 @@
-var mnemonic = "myth any stairs ocean miss leopard muffin cover antique depart alone immense";
+var mnemonic = "paper mobile drip stadium cereal logic bachelor error empty verb mistake sight";

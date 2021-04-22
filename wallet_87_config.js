@@ -1,1 +1,1 @@
-var mnemonic = "banner donor style accuse swear huge fluid boy aim ready keep peanut";
+var mnemonic = "plate close bag direct fan city ordinary just great napkin picture secret";

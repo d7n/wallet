@@ -1,1 +1,1 @@
-var mnemonic = "soap adult visual nothing doctor audit liar awful prevent feed kind dial";
+var mnemonic = "license robot small bag faint duck sea spring catalog guitar city drill";

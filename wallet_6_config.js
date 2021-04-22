@@ -1,1 +1,1 @@
-var mnemonic = "capital gate sheriff delay rose bargain idea away pull shed next zebra";
+var mnemonic = "chaos wisdom diamond merry capital praise popular cattle wage future dash empower";

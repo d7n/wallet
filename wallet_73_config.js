@@ -1,1 +1,1 @@
-var mnemonic = "region solution kid floor horse shock happy inner narrow practice gravity service";
+var mnemonic = "tunnel appear embrace clutch farm sample gain ahead anchor already purity learn";

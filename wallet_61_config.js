@@ -1,1 +1,1 @@
-var mnemonic = "same faint venture injury toward finish antenna lizard old basic camp fancy";
+var mnemonic = "drink announce cotton nice suffer upgrade claw similar shuffle unfold soft cram";

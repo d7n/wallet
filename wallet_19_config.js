@@ -1,1 +1,1 @@
-var mnemonic = "credit sadness average card solution loan soft hub exclude odor weasel power";
+var mnemonic = "guilt kick debate indicate ahead slow nation entire harvest danger muffin media";

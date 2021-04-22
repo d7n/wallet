@@ -1,1 +1,1 @@
-var mnemonic = "pill pottery try gas afraid cute solve marble buyer marriage judge below";
+var mnemonic = "video orange imitate border fan belt drift solid blood aim carbon equip";

@@ -1,1 +1,1 @@
-var mnemonic = "divert jazz notice half good black struggle raven witness differ squirrel this";
+var mnemonic = "level emerge feed universe there category climb swamp carpet hawk kitten able";

@@ -1,1 +1,1 @@
-var mnemonic = "light receive weather clarify unable sail combine fashion stage van crime you";
+var mnemonic = "tell outdoor alert maximum display network dust pride economy short emerge key";

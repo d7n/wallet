@@ -1,1 +1,1 @@
-var mnemonic = "omit buyer truck fog loan scatter uncover erase describe tenant drama spider";
+var mnemonic = "lobster voyage differ smile afford cost budget cash clump fitness boy exact";

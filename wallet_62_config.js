@@ -1,1 +1,1 @@
-var mnemonic = "engage any kingdom mosquito convince sleep ugly rival tip trouble genuine letter";
+var mnemonic = "fame bargain dumb solution earth gate leopard conduct zero memory such decide";

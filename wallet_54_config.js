@@ -1,1 +1,1 @@
-var mnemonic = "there capable connect nut april modify laptop question excess venue layer record";
+var mnemonic = "forest fan fossil woman swallow field doctor vocal ramp amount gentle accident";

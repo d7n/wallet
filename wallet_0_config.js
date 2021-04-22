@@ -1,1 +1,1 @@
-var mnemonic = "elephant mesh leader confirm report dismiss order two fee frequent issue mail";
+var mnemonic = "average calm survey setup siege clarify reflect sock knock stadium fabric judge";

@@ -1,1 +1,1 @@
-var mnemonic = "river clown trouble start taxi helmet text sing rib rack recipe clock";
+var mnemonic = "hawk gather sleep cement fence empty rapid social symptom echo mom survey";

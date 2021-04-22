@@ -1,1 +1,1 @@
-var mnemonic = "vibrant hazard reflect banana all motor spatial charge traffic vapor erosion vault";
+var mnemonic = "winter shift dial cycle only rib exact car hybrid fee rib grain";

@@ -1,1 +1,1 @@
-var mnemonic = "toss various gap design hover armor lazy mechanic emerge reduce gasp have";
+var mnemonic = "task valley moment trash scatter february beyond sting essay coin apart cotton";

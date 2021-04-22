@@ -1,1 +1,1 @@
-var mnemonic = "misery true win chapter river denial boss favorite boss topple sell job";
+var mnemonic = "sister fiscal either picnic bundle fun cause where surface excite bike spread";

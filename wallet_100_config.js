@@ -1,1 +1,1 @@
-var mnemonic = "acid intact gap stomach auction spice agent wood decrease doctor gold scout";
+var mnemonic = "cross street hockey awful offer silver toss melt vault artwork length trip";

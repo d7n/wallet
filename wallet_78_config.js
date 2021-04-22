@@ -1,1 +1,1 @@
-var mnemonic = "network nothing invite curious gym taxi easily chunk unit duck monster now";
+var mnemonic = "cushion enter theme menu upon envelope frost diesel thrive wait awkward melody";

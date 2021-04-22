@@ -1,1 +1,1 @@
-var mnemonic = "skill disorder inquiry blue twin race month brick position cancel police bleak";
+var mnemonic = "announce morning hurry tube luxury cruise collect energy fork diamond rule lamp";

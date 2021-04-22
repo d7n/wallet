@@ -1,1 +1,1 @@
-var mnemonic = "unfold pizza cute memory today desert roast rain inquiry kite rate route";
+var mnemonic = "observe submit brand license toilet steel swift edge mimic next sustain million";

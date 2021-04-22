@@ -1,1 +1,1 @@
-var mnemonic = "giraffe position feel bind cattle crunch there half sea topple text practice";
+var mnemonic = "glass loop load drama bar mule smoke shell birth result control stereo";

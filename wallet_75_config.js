@@ -1,1 +1,1 @@
-var mnemonic = "fever entire under kid hazard squirrel stadium now cream cream crack field";
+var mnemonic = "illness lab host arrange camera skill jaguar south position sketch method steak";

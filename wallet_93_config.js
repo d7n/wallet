@@ -1,1 +1,1 @@
-var mnemonic = "click toward fitness liquid omit vapor pole stadium indoor rain maximum judge";
+var mnemonic = "fox genuine drama decorate purity head draw digital embrace whale ranch decide";

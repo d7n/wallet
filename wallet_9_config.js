@@ -1,1 +1,1 @@
-var mnemonic = "boil strategy license start cycle vital scale whale subway around away crawl";
+var mnemonic = "section menu segment either paddle slogan muffin nut october anxiety nerve quick";

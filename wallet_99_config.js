@@ -1,1 +1,1 @@
-var mnemonic = "dawn cousin margin future over column kick you reason dwarf employ certain";
+var mnemonic = "mango burst plastic nuclear borrow virus weapon round thrive upset fame puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar hurt quote party gown piece lend oppose adjust crawl law minor";
+var mnemonic = "social library tiny matter slam picnic jump pink rate thumb harvest direct";

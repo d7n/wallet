@@ -1,1 +1,1 @@
-var mnemonic = "scissors profit elegant pride dish tumble speed athlete exercise omit artist siren";
+var mnemonic = "figure wave describe fork walk undo raven man warrior glad long dismiss";

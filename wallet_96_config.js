@@ -1,1 +1,1 @@
-var mnemonic = "blanket leg price inner salute frog save argue rapid cage blur panel";
+var mnemonic = "bid water noodle three report mix debris tooth twist step find viable";

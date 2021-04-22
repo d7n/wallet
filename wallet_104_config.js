@@ -1,1 +1,1 @@
-var mnemonic = "gorilla second before vague canvas refuse receive decade little flush estate close";
+var mnemonic = "oyster slam oxygen bright dynamic battle school cheese auction ridge hobby liar";

@@ -1,1 +1,1 @@
-var mnemonic = "fox cannon umbrella glue approve seat forum sad life seven raw hen";
+var mnemonic = "lazy skull song glare record essay shock hand flight noodle shove pond";

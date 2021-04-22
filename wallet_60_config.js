@@ -1,1 +1,1 @@
-var mnemonic = "tumble local quarter secret auto manual table lizard joy canal great chaos";
+var mnemonic = "chat chunk balcony crash magnet trial alter sand slight letter awake crawl";

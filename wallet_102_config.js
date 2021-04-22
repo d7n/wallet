@@ -1,1 +1,1 @@
-var mnemonic = "bonus symptom similar bomb resource inherit token polar animal album latin october";
+var mnemonic = "someone wheat mom farm amused farm clap coast inner eagle mail swear";

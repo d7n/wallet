@@ -1,1 +1,1 @@
-var mnemonic = "prize lava elegant glance bamboo bar day twenty cabbage caught victory next";
+var mnemonic = "sell acquire network grass sad card skill extra number metal dune garden";

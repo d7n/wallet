@@ -1,1 +1,1 @@
-var mnemonic = "razor common figure still ginger faith menu arctic stuff flame blood party";
+var mnemonic = "book pipe trophy valley pole farm clown flight together border party run";

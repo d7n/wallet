@@ -1,1 +1,1 @@
-var mnemonic = "hard obvious swarm exchange okay tent hire weather crunch version camera gallery";
+var mnemonic = "audit cook merge rib wreck wreck silver outer pause high state truth";

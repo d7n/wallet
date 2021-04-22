@@ -1,1 +1,1 @@
-var mnemonic = "initial debris wealth stick glow amazing final warrior raven vault faculty logic";
+var mnemonic = "shy expect evil estate improve violin picnic present pause bone extra people";

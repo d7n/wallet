@@ -1,1 +1,1 @@
-var mnemonic = "call proof act diagram face sample fiction hold butter custom season word";
+var mnemonic = "ostrich marble emotion hill swallow drop tiny scale coil final improve liquid";

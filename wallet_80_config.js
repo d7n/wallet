@@ -1,1 +1,1 @@
-var mnemonic = "derive midnight answer range diesel kitchen oak aerobic zoo weasel swim warrior";
+var mnemonic = "slice tail scheme fiction spike skill require hair slam uphold hawk sibling";

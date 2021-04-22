@@ -1,1 +1,1 @@
-var mnemonic = "inmate impose theory lady sunset upset teach real obscure under economy bind";
+var mnemonic = "rally december sponsor gym test sorry gravity canvas foam balance public above";

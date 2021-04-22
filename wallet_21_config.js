@@ -1,1 +1,1 @@
-var mnemonic = "indicate stool sadness donate baby leisure audit same remember taste symptom glance";
+var mnemonic = "hospital social elder hedgehog enemy horse govern wave woman forward duty light";

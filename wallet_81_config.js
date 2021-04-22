@@ -1,1 +1,1 @@
-var mnemonic = "helmet broom trigger sustain kidney subject buffalo fence soul badge library phone";
+var mnemonic = "swarm snow merge arctic grace woman guitar this enforce universe feed scan";

@@ -1,1 +1,1 @@
-var mnemonic = "nice company seed joy peanut distance train boil gauge phone rose segment";
+var mnemonic = "trap artefact humble regret menu approve clump smile mean engine rocket bind";

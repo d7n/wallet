@@ -1,1 +1,1 @@
-var mnemonic = "beef device wheat obscure upset furnace satisfy dignity budget fancy hunt combine";
+var mnemonic = "trigger disorder arrive mad wrestle labor sad couple town mirror magnet flush";

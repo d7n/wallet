@@ -1,1 +1,1 @@
-var mnemonic = "shadow also crop describe envelope outer item kitten analyst session identify violin";
+var mnemonic = "gossip huge mandate roast hospital moon system funny replace coil because dinner";

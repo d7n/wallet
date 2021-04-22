@@ -1,1 +1,1 @@
-var mnemonic = "fitness glove upper barrel gun ordinary enforce journey stairs balcony nice learn";
+var mnemonic = "flame blur offer type expose noise clutch valve end tragic second actor";

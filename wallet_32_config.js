@@ -1,1 +1,1 @@
-var mnemonic = "grant crash hungry cake doctor put piano walk monster solve relief skill";
+var mnemonic = "cannon fence leisure book net spoil crazy cute account sugar jungle cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal boring boring provide tennis garbage call cash warfare gain learn risk";
+var mnemonic = "meat eternal april yellow trim parade vacant razor can venue talent reform";

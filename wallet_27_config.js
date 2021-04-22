@@ -1,1 +1,1 @@
-var mnemonic = "bike enforce mule poverty flock economy glimpse cloud ridge bunker kidney nuclear";
+var mnemonic = "spend cancel shove slight virus voice day one boy divide amazing online";

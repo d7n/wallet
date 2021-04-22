@@ -1,1 +1,1 @@
-var mnemonic = "unveil assault rug spring length coast next nephew gold hood vessel moral";
+var mnemonic = "liquid play head senior total medal match any fish attract chuckle tilt";

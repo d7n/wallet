@@ -1,1 +1,1 @@
-var mnemonic = "six federal tongue walnut noodle move scare tunnel world debate song rural";
+var mnemonic = "exhaust possible age stand high length saddle defense vehicle leader peace disorder";

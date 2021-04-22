@@ -1,1 +1,1 @@
-var mnemonic = "mesh salad divorce cushion track walnut elephant advance valve capable engage wait";
+var mnemonic = "agent dentist elder leg idea jazz lemon snap drill atom clerk box";

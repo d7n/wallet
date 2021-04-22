@@ -1,1 +1,1 @@
-var mnemonic = "table february keep because remain today hello document put phone category purse";
+var mnemonic = "planet outer loan bag dinner frog art clerk truck blind harvest impact";

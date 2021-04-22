@@ -1,1 +1,1 @@
-var mnemonic = "rhythm picnic rice destroy success gauge fun health symbol coast basket title";
+var mnemonic = "drum gentle pepper west good sorry decade awake injury giant earn vague";

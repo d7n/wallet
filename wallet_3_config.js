@@ -1,1 +1,1 @@
-var mnemonic = "face bring what field pipe awkward autumn fine sword denial shuffle vehicle";
+var mnemonic = "fitness observe brush jungle beach trouble assume coast medal extra garage vanish";

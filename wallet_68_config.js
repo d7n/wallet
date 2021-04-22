@@ -1,1 +1,1 @@
-var mnemonic = "magnet october tiny gentle butter private shove shed hold subject network cool";
+var mnemonic = "fitness initial inject rain dice glide voyage such dad clerk negative seed";

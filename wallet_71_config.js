@@ -1,1 +1,1 @@
-var mnemonic = "conduct above regular build slice today venture mention pulse grief false surge";
+var mnemonic = "accuse language decorate stand what husband foot false clip sting remain reduce";

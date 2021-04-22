@@ -1,1 +1,1 @@
-var mnemonic = "expose despair board leisure recipe code room pride civil device walk mule";
+var mnemonic = "tag green route series clever tail liar moon bus burst imitate bamboo";

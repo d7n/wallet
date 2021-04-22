@@ -1,1 +1,1 @@
-var mnemonic = "tongue drift cigar predict awful gym awake devote group practice winner ticket";
+var mnemonic = "voice tomato inquiry soup unhappy trouble ahead lazy matrix excuse surface refuse";

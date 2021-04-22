@@ -1,1 +1,1 @@
-var mnemonic = "little reform insect then top cloth swear cargo embody mouse favorite clinic";
+var mnemonic = "action sting sun canvas ostrich danger idle tornado dish waste couple helmet";

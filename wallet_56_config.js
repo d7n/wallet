@@ -1,1 +1,1 @@
-var mnemonic = "beach require artwork educate front raw behind crazy jewel long section marriage";
+var mnemonic = "food primary nation electric cook nasty punch razor scan need announce sun";

@@ -1,1 +1,1 @@
-var mnemonic = "garment apple present sudden lab fade grunt belt mosquito wagon decide butter";
+var mnemonic = "congress shuffle casino weapon liar envelope opinion fetch trim poet drop axis";

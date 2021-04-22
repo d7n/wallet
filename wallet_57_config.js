@@ -1,1 +1,1 @@
-var mnemonic = "tide broccoli final spring mountain topic awful around heavy face join fragile";
+var mnemonic = "license nice real degree direct jewel faint hollow swift gesture scheme summer";

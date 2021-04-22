@@ -1,1 +1,1 @@
-var mnemonic = "bamboo success ready pupil sweet legal unveil decline thumb boring finger effort";
+var mnemonic = "fee pass chunk citizen spend lesson stereo position scatter coffee welcome laundry";

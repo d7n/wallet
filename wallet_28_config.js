@@ -1,1 +1,1 @@
-var mnemonic = "gate hundred maid liberty priority anxiety noodle wear dove patrol fall worth";
+var mnemonic = "grape close angle reform sign gauge avoid sea aunt extra unique limit";

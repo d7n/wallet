@@ -1,1 +1,1 @@
-var mnemonic = "steak solid shoulder find repair flight wave switch balance destroy tenant ask";
+var mnemonic = "arrow park thunder trust trouble hip aerobic mirror mirror ceiling ranch flame";

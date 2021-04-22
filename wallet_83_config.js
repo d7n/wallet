@@ -1,1 +1,1 @@
-var mnemonic = "tag pool dog usual stove joke govern boy hundred oblige sibling board";
+var mnemonic = "term casino window habit cover boring lunch infant index winner water reject";

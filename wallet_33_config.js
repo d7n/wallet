@@ -1,1 +1,1 @@
-var mnemonic = "praise advance inside fresh virtual author beach fabric juice thumb brush call";
+var mnemonic = "street you say gallery morning dream solid silver seven split lawn inherit";

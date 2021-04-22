@@ -1,1 +1,1 @@
-var mnemonic = "zebra wreck taxi since buyer glue camp kitten know observe prepare damp";
+var mnemonic = "shoulder science lawn cement joke sibling follow sense zebra boost idle seek";

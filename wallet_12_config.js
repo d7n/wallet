@@ -1,1 +1,1 @@
-var mnemonic = "rocket salon loyal kidney core bomb boss innocent symptom maid twice idea";
+var mnemonic = "cage never tiny quality mix remember gauge top alien once asthma such";

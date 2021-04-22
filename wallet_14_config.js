@@ -1,1 +1,1 @@
-var mnemonic = "bullet shrimp uncle toddler march menu belt ordinary country huge stuff express";
+var mnemonic = "comfort flash loud vanish flock glance perfect chest lesson scare diamond puzzle";

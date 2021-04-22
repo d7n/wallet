@@ -1,1 +1,1 @@
-var mnemonic = "ten drink cool hurt scrap scissors guitar sure priority insect inhale sick";
+var mnemonic = "bullet ticket one curtain split spirit vote neglect antenna fan detail crater";

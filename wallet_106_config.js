@@ -1,1 +1,1 @@
-var mnemonic = "enjoy snake become surprise opera raccoon argue change skull pride staff shock";
+var mnemonic = "give night barrel depart fiction elite absorb harsh giant sleep hero better";

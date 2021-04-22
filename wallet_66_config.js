@@ -1,1 +1,1 @@
-var mnemonic = "old cactus fantasy lava double subject humble kangaroo reveal trend spike flavor";
+var mnemonic = "month member mail segment oppose cradle huge bracket weekend page three ostrich";

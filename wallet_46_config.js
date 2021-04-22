@@ -1,1 +1,1 @@
-var mnemonic = "into scene project excess goose together horn lend cupboard business obey accuse";
+var mnemonic = "else blanket apart squeeze panther ski spray nuclear have brain sketch rotate";

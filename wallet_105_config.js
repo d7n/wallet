@@ -1,1 +1,1 @@
-var mnemonic = "invite virus spy early depth lab head balance bunker picnic toy switch";
+var mnemonic = "connect scrap truly little tank match enjoy wish figure mandate shoulder enhance";

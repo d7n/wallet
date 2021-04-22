@@ -1,1 +1,1 @@
-var mnemonic = "rookie country market physical egg street position giraffe razor smooth cattle blouse";
+var mnemonic = "butter mammal blame add bubble drop person bleak junior category response flat";

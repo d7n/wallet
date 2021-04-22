@@ -1,1 +1,1 @@
-var mnemonic = "process stick check feed giggle grass also describe clinic water federal net";
+var mnemonic = "exercise daughter garment salon asthma drastic spice salute route picture nurse maze";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt creek trumpet holiday often match segment movie swamp again noise note";
+var mnemonic = "elite across blanket lumber device round dove together absurd suspect rebel moral";

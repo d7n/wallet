@@ -1,1 +1,1 @@
-var mnemonic = "shine zero hole switch source fold seminar hair tobacco ring poet gather";
+var mnemonic = "dirt lake aim finish peace riot state friend tank absorb zebra argue";

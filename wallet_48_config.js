@@ -1,1 +1,1 @@
-var mnemonic = "taste health evolve vapor advice honey science detail trim lobster bridge genius";
+var mnemonic = "picnic young rigid cable hammer ridge guess accuse cricket endorse record salt";

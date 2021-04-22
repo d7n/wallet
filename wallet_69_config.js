@@ -1,1 +1,1 @@
-var mnemonic = "select allow increase warm accuse joy wall strategy deputy doctor hospital drill";
+var mnemonic = "jungle neck opera bunker start world rose guard staff bronze intact clog";

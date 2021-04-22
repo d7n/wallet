@@ -1,1 +1,1 @@
-var mnemonic = "fatigue provide rapid smoke very law mix increase globe detect stick bread";
+var mnemonic = "fury chapter smart ocean depart sand boost switch equip panel material blossom";

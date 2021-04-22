@@ -1,1 +1,1 @@
-var mnemonic = "swap globe protect deliver attitude captain warm grit inject hold fatal music";
+var mnemonic = "symbol myself budget speak column balance style since arch cattle aspect mountain";

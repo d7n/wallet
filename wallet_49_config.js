@@ -1,1 +1,1 @@
-var mnemonic = "regular settle laugh tomorrow sun length blood harbor reason cart position dial";
+var mnemonic = "script reunion ignore voyage audit cost left keep bunker silk assault six";

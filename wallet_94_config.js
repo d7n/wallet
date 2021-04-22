@@ -1,1 +1,1 @@
-var mnemonic = "turn trial shrimp cluster seek before echo divorce deposit start announce tiny";
+var mnemonic = "planet notable fine victory fee denial leader add box melody phone soap";

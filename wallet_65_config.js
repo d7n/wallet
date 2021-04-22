@@ -1,1 +1,1 @@
-var mnemonic = "eagle guilt angry spawn album cup capable enable make pet garage struggle";
+var mnemonic = "devote club track confirm air jeans sunset giggle venue solve thrive glide";

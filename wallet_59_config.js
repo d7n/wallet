@@ -1,1 +1,1 @@
-var mnemonic = "agent monkey kite desert glance diagram minimum dilemma old fatigue pen pluck";
+var mnemonic = "fade music wrap rely awake poet regular relief edit way museum cruel";

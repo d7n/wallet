@@ -1,1 +1,1 @@
-var mnemonic = "cry naive stool safe miss turn cigar snack quick drop tooth slow";
+var mnemonic = "elbow brick kangaroo ordinary hole hawk wedding theory wide wreck draw express";

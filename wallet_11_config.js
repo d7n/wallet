@@ -1,1 +1,1 @@
-var mnemonic = "rather frequent theme soda round seven there burst gloom injury meadow syrup";
+var mnemonic = "tuna pull utility safe spread oval wait expect identify tongue skin uncover";

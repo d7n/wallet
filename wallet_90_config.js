@@ -1,1 +1,1 @@
-var mnemonic = "detect erode elbow vacant salon raise elegant whale rail tissue glue bundle";
+var mnemonic = "knock pulse exile around bean diagram auction thought unaware income autumn coyote";

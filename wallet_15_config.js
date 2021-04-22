@@ -1,1 +1,1 @@
-var mnemonic = "gasp rally expire dial token shield daughter put exile sound auto equal";
+var mnemonic = "rabbit nerve entire easy wear naive ancient senior cross stable enhance genre";

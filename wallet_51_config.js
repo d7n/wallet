@@ -1,1 +1,1 @@
-var mnemonic = "must tower chunk pizza immune pioneer tired collect universe liar high know";
+var mnemonic = "math what celery renew sibling effort inner spice inmate atom isolate joke";
