@@ -1,1 +1,1 @@
-var mnemonic = "trumpet initial cattle zero shaft rent high degree winner chunk anger response";
+var mnemonic = "lounge cinnamon runway helmet dish airport impulse exclude task rail large slam";

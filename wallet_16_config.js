@@ -1,1 +1,1 @@
-var mnemonic = "blast cotton wreck shell hospital satisfy text mix orange comfort great invite";
+var mnemonic = "change elbow peanut tornado original modify sister source play ribbon morning later";

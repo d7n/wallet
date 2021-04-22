@@ -1,1 +1,1 @@
-var mnemonic = "mix square tiny nation federal favorite desert bright excess render main fury";
+var mnemonic = "wear knock absorb donkey host deliver crop repair paddle pupil echo state";

@@ -1,1 +1,1 @@
-var mnemonic = "scene marble glad peanut draft sense spider kidney quote eagle write noble";
+var mnemonic = "loan story copper reason pluck catch try impulse machine slush soup camera";

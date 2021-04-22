@@ -1,1 +1,1 @@
-var mnemonic = "grape wife alley hollow faculty student grape tooth edit powder identify retreat";
+var mnemonic = "march bike wild happy degree subject light turtle name resemble citizen demise";

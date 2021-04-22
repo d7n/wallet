@@ -1,1 +1,1 @@
-var mnemonic = "voice clay coach build cabbage tired debris donate expose cement idle taste";
+var mnemonic = "desk expand ready boss tree skull surface ketchup dynamic coffee flavor toward";

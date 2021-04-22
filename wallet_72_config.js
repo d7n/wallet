@@ -1,1 +1,1 @@
-var mnemonic = "gaze bind east express tooth horse dress wide urban brother diary avoid";
+var mnemonic = "enrich eager again bottom audit hire maze hill stand organ want trial";

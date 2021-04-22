@@ -1,1 +1,1 @@
-var mnemonic = "tail sight same ripple demise mom timber nose grow marriage core stamp";
+var mnemonic = "green habit page east gossip blue example hard damage moment target slot";

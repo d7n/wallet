@@ -1,1 +1,1 @@
-var mnemonic = "stool grass beef hotel since path soda model smart start pizza twice";
+var mnemonic = "define narrow toast matrix kangaroo snow cereal garden group mail also refuse";

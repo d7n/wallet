@@ -1,1 +1,1 @@
-var mnemonic = "beauty belt ill negative mirror crack insane vapor ribbon evil derive equal";
+var mnemonic = "evoke student another village clock describe notice more glide task south maid";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow silk oval cover shift velvet fade rally slim moon you short";
+var mnemonic = "rely cute quantum inform law neglect company observe limb group subject cargo";

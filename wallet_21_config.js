@@ -1,1 +1,1 @@
-var mnemonic = "vague certain liberty shiver biology aspect way vacuum logic gun wagon either";
+var mnemonic = "hammer mansion capital atom away nurse stereo kiwi first snow hint include";

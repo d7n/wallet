@@ -1,1 +1,1 @@
-var mnemonic = "word siege zero firm edit neutral truth wet rhythm joke almost junior";
+var mnemonic = "firm rule sound cruise maid portion faint adult despair truck maple possible";

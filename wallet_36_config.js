@@ -1,1 +1,1 @@
-var mnemonic = "stuff employ hard settle erosion boost impact month enrich empty cave question";
+var mnemonic = "arctic connect blue two avocado tree fancy soccer desk advance spot slogan";

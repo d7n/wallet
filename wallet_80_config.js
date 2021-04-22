@@ -1,1 +1,1 @@
-var mnemonic = "beyond tomorrow mountain song nose switch cupboard gospel bargain much fit baby";
+var mnemonic = "solid hundred cupboard vicious cheese observe treat lemon pattern coil lion please";

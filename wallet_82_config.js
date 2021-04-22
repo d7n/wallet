@@ -1,1 +1,1 @@
-var mnemonic = "sugar clutch question sponsor census dinner crop job bullet bleak tumble victory";
+var mnemonic = "happy civil walnut chronic appear cloth color script glide negative pink deer";

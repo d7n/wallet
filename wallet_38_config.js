@@ -1,1 +1,1 @@
-var mnemonic = "hotel depart novel rubber beef island hero horse seminar silk mixture bamboo";
+var mnemonic = "letter nurse wash fit caution oven bright false depend exhibit fiscal book";

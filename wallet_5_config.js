@@ -1,1 +1,1 @@
-var mnemonic = "payment abstract hole whip right verb around stadium abstract phrase reopen loud";
+var mnemonic = "boring moment enable idle report tonight feed option never cloud half scare";

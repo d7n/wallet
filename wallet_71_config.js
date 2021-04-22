@@ -1,1 +1,1 @@
-var mnemonic = "claw option rural empty giggle bamboo near lunch silent middle club more";
+var mnemonic = "frown mad lend city average rough job scissors hover very swing print";

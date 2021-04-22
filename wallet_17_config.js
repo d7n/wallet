@@ -1,1 +1,1 @@
-var mnemonic = "liberty hundred demand popular tissue glory iron exchange coral autumn skirt scatter";
+var mnemonic = "grow fruit manual field awkward album pupil spare dog boost spy razor";

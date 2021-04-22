@@ -1,1 +1,1 @@
-var mnemonic = "beach daughter rookie quick champion awake envelope cricket ritual sun clutch letter";
+var mnemonic = "mushroom excuse size enact nephew must solar submit news toy half also";

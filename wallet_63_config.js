@@ -1,1 +1,1 @@
-var mnemonic = "coast bleak salt supreme good auction fever sleep maze drop afraid address";
+var mnemonic = "sunny knee country awkward vicious move sure solid giggle patrol powder critic";

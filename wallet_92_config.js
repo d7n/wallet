@@ -1,1 +1,1 @@
-var mnemonic = "multiply woman strategy giggle chase island put high soup core glance album";
+var mnemonic = "increase oak fame obtain vault essence gloom credit pulse finish arch cactus";

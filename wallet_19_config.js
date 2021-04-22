@@ -1,1 +1,1 @@
-var mnemonic = "aisle nose defy sheriff october jewel saddle split glass glory order inner";
+var mnemonic = "awkward false flag rabbit unit vessel crime during random warm rally small";

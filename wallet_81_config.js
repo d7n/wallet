@@ -1,1 +1,1 @@
-var mnemonic = "rabbit fog begin reform license express use honey evil school work rug";
+var mnemonic = "vital someone frost property floor leave tenant invite soul winter woman tissue";

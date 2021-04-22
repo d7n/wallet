@@ -1,1 +1,1 @@
-var mnemonic = "candy pulp random stick promote wealth derive juice valley win embody matrix";
+var mnemonic = "flat aunt frame shift wink float insect deer deposit shove gentle seat";

@@ -1,1 +1,1 @@
-var mnemonic = "era remain photo joke live extend armor season bike word expose knife";
+var mnemonic = "order crop abandon solar shop cause fiction match reunion art unit traffic";

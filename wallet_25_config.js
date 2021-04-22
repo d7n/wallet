@@ -1,1 +1,1 @@
-var mnemonic = "lottery patrol solution bicycle sight rookie bulk brave matter gallery shaft mistake";
+var mnemonic = "then account subject undo accident achieve wall enhance purpose soul message extend";

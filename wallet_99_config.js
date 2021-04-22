@@ -1,1 +1,1 @@
-var mnemonic = "path scene artist exile person unfair admit remind sentence suit shrug tomorrow";
+var mnemonic = "interest tray gallery assume minute good genius stairs animal urban much leisure";

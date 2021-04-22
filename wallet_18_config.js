@@ -1,1 +1,1 @@
-var mnemonic = "audit property stereo paddle diet version arrow super juice know differ people";
+var mnemonic = "dune embrace robot differ boat manual youth equip mail measure parade arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "auto blouse zebra color learn head knife opinion surge swamp behave camp";
+var mnemonic = "whip prison tunnel float shine wealth input fresh dove bonus hammer crime";

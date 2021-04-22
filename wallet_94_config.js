@@ -1,1 +1,1 @@
-var mnemonic = "thing olympic vault gossip easy exhibit chase torch unusual candy drift notable";
+var mnemonic = "harbor blue wet long broken job owner gold clinic marble vicious armor";

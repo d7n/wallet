@@ -1,1 +1,1 @@
-var mnemonic = "output return organ sing text vessel kiss stamp together soda height organ";
+var mnemonic = "road motion hamster zoo pill woman fury often one word scout dynamic";

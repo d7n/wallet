@@ -1,1 +1,1 @@
-var mnemonic = "wood cry lazy cement favorite usual any cattle melt farm chef giraffe";
+var mnemonic = "mom avoid slogan virtual neutral drink power survey drip entire upon slam";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter firm claw version extra oven photo various rough crumble mammal swim";
+var mnemonic = "service nuclear skull athlete alter fabric sell oppose draw bright term snow";

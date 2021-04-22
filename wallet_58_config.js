@@ -1,1 +1,1 @@
-var mnemonic = "clean infant guess border width combine kidney toss local common stomach present";
+var mnemonic = "hazard inflict soft captain dentist index wise two envelope ghost laptop pledge";

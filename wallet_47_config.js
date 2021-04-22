@@ -1,1 +1,1 @@
-var mnemonic = "exact donate pupil noble hat appear boss reduce cable steel describe balance";
+var mnemonic = "mesh rude loop dynamic sail bronze arch believe script child sound shrimp";

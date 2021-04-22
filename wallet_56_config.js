@@ -1,1 +1,1 @@
-var mnemonic = "impose record eternal ripple fork task hire derive clap inside require mechanic";
+var mnemonic = "ankle lottery between oak coral artwork door response brush best again budget";

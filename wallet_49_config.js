@@ -1,1 +1,1 @@
-var mnemonic = "valid bone come rival beef try spray diamond transfer pledge adapt bread";
+var mnemonic = "advice vacant humor bird chunk capital spread elegant offer trophy nephew genius";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct dress burger fortune hurry run funny abandon today farm vault bullet";
+var mnemonic = "develop affair effort august village false shuffle nest female midnight session forum";

@@ -1,1 +1,1 @@
-var mnemonic = "dish ostrich badge library snake alien humble wool engine chalk wrap sister";
+var mnemonic = "shrug casual area soda kite coast hero industry crucial camera route visual";

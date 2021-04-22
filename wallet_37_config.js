@@ -1,1 +1,1 @@
-var mnemonic = "fever festival luggage detect donate frame subject puzzle salon barely range sphere";
+var mnemonic = "wife recall virus cheap ethics exit harsh just squeeze daughter equal pulse";

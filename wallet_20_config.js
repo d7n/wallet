@@ -1,1 +1,1 @@
-var mnemonic = "attract spider deliver easy close render gentle abandon october scare alcohol vote";
+var mnemonic = "cradle rookie erupt dose finish drum together spot add direct core spring";

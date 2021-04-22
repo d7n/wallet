@@ -1,1 +1,1 @@
-var mnemonic = "broken misery bitter inflict marine album exercise shove emerge season work denial";
+var mnemonic = "police check dune expand myself monster shell lawn fine inquiry trick trigger";

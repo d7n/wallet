@@ -1,1 +1,1 @@
-var mnemonic = "kiwi acquire normal assume aware since slam awake chaos kiss any nephew";
+var mnemonic = "walk cave acid secret motion reunion fringe ticket metal juice bridge smoke";

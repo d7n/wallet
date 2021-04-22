@@ -1,1 +1,1 @@
-var mnemonic = "enter vocal sunny shoulder betray earth admit race august oblige index deer";
+var mnemonic = "taste move loan current village foot surface hammer cry divide fetch culture";

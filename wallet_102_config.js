@@ -1,1 +1,1 @@
-var mnemonic = "repeat garbage index divide degree whisper mind hub romance leaf decorate rich";
+var mnemonic = "sibling argue law bunker grain crucial measure october smart situate diary either";

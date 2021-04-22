@@ -1,1 +1,1 @@
-var mnemonic = "churn end bitter truck wine grit acquire sell defy aspect focus unusual";
+var mnemonic = "impact bullet soap bachelor flush swamp owner bitter rival subject nest toe";

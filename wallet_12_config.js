@@ -1,1 +1,1 @@
-var mnemonic = "mask enrich giggle drill desert coil purchase radar they laptop inner theory";
+var mnemonic = "brush legend term accuse wagon help lucky library absorb six normal sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "problem april grant swap pink awesome region alter three jaguar february bird";
+var mnemonic = "range panel raven ocean soon soccer race laundry usage success arrive riot";

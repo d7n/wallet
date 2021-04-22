@@ -1,1 +1,1 @@
-var mnemonic = "saddle sea swing language annual insane dust egg whip cloth empower balcony";
+var mnemonic = "elite benefit income mammal quote hidden reflect evolve modify ask brass modify";

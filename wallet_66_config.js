@@ -1,1 +1,1 @@
-var mnemonic = "ride outer interest puppy happy crush combine rail neck snake video toward";
+var mnemonic = "tilt inner meadow fabric general quick cost truck wild machine curious predict";

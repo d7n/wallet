@@ -1,1 +1,1 @@
-var mnemonic = "segment group opera resemble tuna advance aware uphold sauce salmon economy add";
+var mnemonic = "enough lunar fame liquid stand mail online aerobic cannon open trip evil";

@@ -1,1 +1,1 @@
-var mnemonic = "subject install movie cloud together reflect imitate caught giant olympic fury era";
+var mnemonic = "space cliff speed kite ticket derive method dog love guard code close";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt mean arrow gaze busy welcome enjoy reflect onion wink ankle assault";
+var mnemonic = "cotton degree lumber error connect agree double concert hockey hundred remain beauty";

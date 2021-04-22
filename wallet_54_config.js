@@ -1,1 +1,1 @@
-var mnemonic = "frozen heart have half endless mad onion museum glad island flag black";
+var mnemonic = "cousin artefact dice nurse truly silent milk drum boost cloud away detail";

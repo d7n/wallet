@@ -1,1 +1,1 @@
-var mnemonic = "bargain festival lawn omit priority vocal violin hen photo snake shock lottery";
+var mnemonic = "chest good charge grunt bright excuse fall result summer spare stadium song";

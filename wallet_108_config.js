@@ -1,1 +1,1 @@
-var mnemonic = "merry unique perfect again fix enemy fatal heart scare anchor endless cable";
+var mnemonic = "broom pair essay matrix hire caught rule rookie quit hawk rookie duck";

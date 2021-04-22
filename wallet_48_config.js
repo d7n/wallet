@@ -1,1 +1,1 @@
-var mnemonic = "abandon heart reward armed cement hockey apology trip person left lake fiscal";
+var mnemonic = "mean riot verify diagram lake town plunge reward runway rotate cause payment";

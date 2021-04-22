@@ -1,1 +1,1 @@
-var mnemonic = "image fiction glove sea speak save head visual word miss enact matter";
+var mnemonic = "reunion equal reduce disagree kite bachelor october foil chicken asset border biology";

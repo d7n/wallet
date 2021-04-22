@@ -1,1 +1,1 @@
-var mnemonic = "fame stomach total game suspect rhythm ritual feel have grass online stumble";
+var mnemonic = "patch surge scout crucial usual auto brief clean spatial rate pepper scale";

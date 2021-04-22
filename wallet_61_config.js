@@ -1,1 +1,1 @@
-var mnemonic = "derive stereo brother tower expand eight crawl ribbon diesel sign mango chase";
+var mnemonic = "trade legal doctor uphold license vote remember normal human citizen poet rigid";

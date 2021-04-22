@@ -1,1 +1,1 @@
-var mnemonic = "sketch push next matrix order asthma blouse sugar identify inhale level false";
+var mnemonic = "scan rookie twin hedgehog winter print bread hockey throw hedgehog dentist festival";

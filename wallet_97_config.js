@@ -1,1 +1,1 @@
-var mnemonic = "average aisle slogan live tennis success purchase result quality legend moon find";
+var mnemonic = "select viable fragile pudding notice source rare surprise legal equal monkey shop";

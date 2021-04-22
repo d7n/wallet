@@ -1,1 +1,1 @@
-var mnemonic = "program hockey sad theme switch letter man picture napkin river token wise";
+var mnemonic = "liar mesh skull hello heavy army milk faint gospel lawn release keen";

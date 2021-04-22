@@ -1,1 +1,1 @@
-var mnemonic = "ladder upgrade mule enter soup door until note impulse person mean cabin";
+var mnemonic = "client donate primary situate absent regret raise focus useful dragon buzz lazy";

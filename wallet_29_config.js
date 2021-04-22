@@ -1,1 +1,1 @@
-var mnemonic = "seek wagon tragic balcony stomach peace artist kiwi rival digital unit holiday";
+var mnemonic = "recipe three clip scan myself marriage virtual system copy recall sunny atom";

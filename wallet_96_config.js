@@ -1,1 +1,1 @@
-var mnemonic = "fiction zone fury raccoon lend borrow champion captain escape purity fall flight";
+var mnemonic = "artefact crack year radio evoke sound undo utility weekend deliver toast stock";

@@ -1,1 +1,1 @@
-var mnemonic = "trick cake void suspect mass gospel sustain lucky expand rocket daughter snake";
+var mnemonic = "review hello cake crouch carbon jazz shed treat fantasy grocery subway empty";

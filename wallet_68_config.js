@@ -1,1 +1,1 @@
-var mnemonic = "plug dentist absorb wagon stomach illness settle knee empty measure rescue general";
+var mnemonic = "agree omit youth truck spawn mother skill farm cancel slush print alone";

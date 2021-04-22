@@ -1,1 +1,1 @@
-var mnemonic = "uniform ill rally best spice crop unveil soda coffee sun tiny evil";
+var mnemonic = "cash else member frame health devote hire dolphin tent easily special kid";

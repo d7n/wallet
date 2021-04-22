@@ -1,1 +1,1 @@
-var mnemonic = "crumble era over unable creek resist maximum artist then behave else dutch";
+var mnemonic = "avocado pulse replace unfair grit upgrade detect horror sun cargo cream poet";

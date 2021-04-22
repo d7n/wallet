@@ -1,1 +1,1 @@
-var mnemonic = "alert fee cook strategy tattoo typical canal flavor comfort culture pony meadow";
+var mnemonic = "cause half weather shrug fox wealth business victory empty gas juice unfold";

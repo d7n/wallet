@@ -1,1 +1,1 @@
-var mnemonic = "glare bicycle excite walk sniff useless hurry miss cinnamon side crater isolate";
+var mnemonic = "scan you depth foil because jazz hub program tenant menu coral square";

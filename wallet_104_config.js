@@ -1,1 +1,1 @@
-var mnemonic = "dune rifle myself carry favorite rapid rug glory carry depend depart ring";
+var mnemonic = "chalk sad angry pelican usual casino battle absorb moon need tongue antique";

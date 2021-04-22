@@ -1,1 +1,1 @@
-var mnemonic = "gospel sleep lake just habit over inherit since illness rule kind upper";
+var mnemonic = "merry social mom thrive phone shoe usage shrug teach liar assist ship";

@@ -1,1 +1,1 @@
-var mnemonic = "grit crazy swarm clinic risk antenna law entire action firm glare pole";
+var mnemonic = "jeans abuse wave earn during sand fabric topic primary leaf major scorpion";

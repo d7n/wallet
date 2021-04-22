@@ -1,1 +1,1 @@
-var mnemonic = "you suffer fade cherry grit shock equal spell oppose burden cheese output";
+var mnemonic = "nation blast never laugh dry together genuine increase master normal power wisdom";

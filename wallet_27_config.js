@@ -1,1 +1,1 @@
-var mnemonic = "chase win shell horn day kitchen price screen occur ball head build";
+var mnemonic = "depart bind burger differ blossom child mammal shadow certain mouse involve cricket";

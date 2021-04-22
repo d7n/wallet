@@ -1,1 +1,1 @@
-var mnemonic = "boost risk kit movie laundry exact present bullet spoil fashion library uphold";
+var mnemonic = "spirit cabin farm hold craft service fade device another caught panda ten";

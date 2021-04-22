@@ -1,1 +1,1 @@
-var mnemonic = "someone teach disease barrel funny mouse sand undo mechanic dwarf drum nuclear";
+var mnemonic = "pave hat recycle donor ring simple share federal awful burst sick electric";

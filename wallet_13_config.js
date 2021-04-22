@@ -1,1 +1,1 @@
-var mnemonic = "patrol dove canyon fat edit coyote law eager hotel popular net assault";
+var mnemonic = "build recycle assault trim buzz degree chalk more light snap organ noble";

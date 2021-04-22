@@ -1,1 +1,1 @@
-var mnemonic = "ice endless ten surround dizzy connect perfect burden police van table false";
+var mnemonic = "gentle equal start quote wish pink border rotate step fold foam divert";

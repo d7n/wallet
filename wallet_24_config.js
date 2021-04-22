@@ -1,1 +1,1 @@
-var mnemonic = "city miracle service bounce speed purity leaf pretty flip pigeon screen select";
+var mnemonic = "giggle wash pair slender earth cabbage brush hill slam dice prefer face";

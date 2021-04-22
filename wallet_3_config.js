@@ -1,1 +1,1 @@
-var mnemonic = "gossip will disagree kitchen mom carbon stamp behind collect cycle judge adjust";
+var mnemonic = "please depend trumpet alone deliver payment clay stuff poverty lift heart split";

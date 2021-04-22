@@ -1,1 +1,1 @@
-var mnemonic = "biology hospital submit stadium hurry sustain only hollow swap toe bless sick";
+var mnemonic = "goddess timber lunch develop arena someone board light nation quote leisure slice";

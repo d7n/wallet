@@ -1,1 +1,1 @@
-var mnemonic = "galaxy vague fix horse dizzy sell tower reflect mind egg wolf test";
+var mnemonic = "spawn ill sunny fog nerve luggage raven stuff employ egg jewel toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "poem aspect tragic champion digital search matrix problem often album silver double";
+var mnemonic = "abstract skirt velvet wink glare bench elephant slight renew pencil essence carbon";

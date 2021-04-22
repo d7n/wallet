@@ -1,1 +1,1 @@
-var mnemonic = "employ old wine manual announce age royal lunar remember please practice nose";
+var mnemonic = "couple grace toddler perfect tomorrow keen dad price else lumber nominee jewel";
