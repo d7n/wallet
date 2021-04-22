@@ -1,1 +1,1 @@
-var mnemonic = "custom globe diagram quote blur idea use shop endless void lucky liquid";
+var mnemonic = "barely alarm loan nothing average silly paper before runway saddle mechanic open";

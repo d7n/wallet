@@ -1,1 +1,1 @@
-var mnemonic = "valve slight surge liquid rotate hidden select search table feature tissue demand";
+var mnemonic = "repeat owner chat round purpose fatal length dad bamboo coffee enrich pelican";

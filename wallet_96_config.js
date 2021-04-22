@@ -1,1 +1,1 @@
-var mnemonic = "citizen veteran polar area feature earn decline theme december budget report stone";
+var mnemonic = "obvious sunny romance sort text debate setup walk galaxy pave switch artwork";

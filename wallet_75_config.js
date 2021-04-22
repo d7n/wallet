@@ -1,1 +1,1 @@
-var mnemonic = "pink game web update dry palm catalog hen library believe cabin laptop";
+var mnemonic = "empower dilemma slogan want hurdle lava spirit culture crane series proud sort";

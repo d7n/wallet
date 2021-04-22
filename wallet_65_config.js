@@ -1,1 +1,1 @@
-var mnemonic = "mandate dog ball usual critic search engage grief typical mouse various eagle";
+var mnemonic = "any woman elegant require spatial gown image current truly illness piece exercise";

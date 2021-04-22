@@ -1,1 +1,1 @@
-var mnemonic = "impose surface crumble episode olympic gain riot mixed gasp nothing drip engage";
+var mnemonic = "upper love pupil people hen bird walk oil taxi network eye wire";

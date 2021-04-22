@@ -1,1 +1,1 @@
-var mnemonic = "wool retire clinic unknown certain math side usage become section embark danger";
+var mnemonic = "first truth coach switch tooth evoke gym fatal peasant aunt urge coin";

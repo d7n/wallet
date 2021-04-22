@@ -1,1 +1,1 @@
-var mnemonic = "cereal pyramid group raise desk need wink journey balcony wall cheese devote";
+var mnemonic = "moral shop alpha drastic blast analyst picnic often october patient direct surface";

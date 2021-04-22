@@ -1,1 +1,1 @@
-var mnemonic = "mushroom endless differ wrestle example year sick clock whip able purpose addict";
+var mnemonic = "index garden title ordinary people detect unveil canal final office follow valid";

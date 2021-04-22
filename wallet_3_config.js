@@ -1,1 +1,1 @@
-var mnemonic = "twin sauce excite gossip boss auto photo acoustic black join marine abuse";
+var mnemonic = "menu inflict gas over kangaroo aunt rescue forget risk citizen wonder athlete";

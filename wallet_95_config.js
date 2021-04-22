@@ -1,1 +1,1 @@
-var mnemonic = "ethics mom magic memory hazard alone test marble daring scene smart always";
+var mnemonic = "will series pupil dynamic wall domain away raise lava humble sport room";

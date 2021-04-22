@@ -1,1 +1,1 @@
-var mnemonic = "royal sleep exhibit powder amazing slide pave wasp predict drip fog dragon";
+var mnemonic = "immune change effort mushroom slender school disorder glad kitchen notable change nest";

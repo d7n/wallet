@@ -1,1 +1,1 @@
-var mnemonic = "bicycle leaf divert enable machine bonus carbon enhance dwarf limb quarter bomb";
+var mnemonic = "turkey inspire object hole three regret rice fetch melt vapor dragon amused";

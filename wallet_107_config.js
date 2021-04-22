@@ -1,1 +1,1 @@
-var mnemonic = "library equip slow amateur best turtle defense practice unknown lonely express trade";
+var mnemonic = "tank helmet flat carry avocado never fatal pudding park robot ship dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal ostrich pact chimney write ability estate spoon twist budget side noise";
+var mnemonic = "casual stomach leader oil various stove divorce rapid suggest kick voyage wealth";

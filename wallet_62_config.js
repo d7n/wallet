@@ -1,1 +1,1 @@
-var mnemonic = "pause age vanish wave this unveil amused tomorrow engine comfort usage tent";
+var mnemonic = "valid length below weather town gather vault element wear lawsuit dish play";

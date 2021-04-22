@@ -1,1 +1,1 @@
-var mnemonic = "fade crunch mandate confirm impact fee quantum until lift despair potato since";
+var mnemonic = "group twist boost destroy canvas bleak keen used cool abuse seminar correct";

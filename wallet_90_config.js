@@ -1,1 +1,1 @@
-var mnemonic = "invite farm spot recipe toilet circle provide dizzy voice utility copy author";
+var mnemonic = "junior afford hurt fork erosion reason ability rather they viable penalty crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk start cave world total broom loyal parent degree steel diamond fiction";
+var mnemonic = "common gasp lend bunker enroll argue mind pride try outside fiber spell";

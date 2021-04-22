@@ -1,1 +1,1 @@
-var mnemonic = "couple damp direct local rule february bachelor neglect coast when they bone";
+var mnemonic = "match keen expire thing clown spoil upgrade myself explain fiscal moment engage";

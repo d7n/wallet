@@ -1,1 +1,1 @@
-var mnemonic = "machine enemy census shell ivory enroll already clarify awful urge rather corn";
+var mnemonic = "august cream deliver blast crucial clump soft prefer remind minor head quarter";

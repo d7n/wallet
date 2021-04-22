@@ -1,1 +1,1 @@
-var mnemonic = "bounce off rally cushion pact fringe bicycle imitate boil client emerge sugar";
+var mnemonic = "toast giraffe debris shallow deny noble orchard fiction portion diet blast rice";

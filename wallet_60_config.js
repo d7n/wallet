@@ -1,1 +1,1 @@
-var mnemonic = "pulp allow mistake glow hero gym believe pulse ivory glimpse shock increase";
+var mnemonic = "attend hole game mixture art shoot funny carpet receive manual horse consider";

@@ -1,1 +1,1 @@
-var mnemonic = "credit will inform crew catch dignity observe silly skin net lend shield";
+var mnemonic = "exact valley pistol betray source trumpet yard survey acid eyebrow ice cancel";

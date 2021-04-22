@@ -1,1 +1,1 @@
-var mnemonic = "pretty away opera sorry sight proud until abandon mean hire dove major";
+var mnemonic = "act airport wish climb secret switch deer comic across average clown vote";

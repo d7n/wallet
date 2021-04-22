@@ -1,1 +1,1 @@
-var mnemonic = "where reflect behind balcony stove glance female cigar kiwi wedding tooth glory";
+var mnemonic = "because order crisp harvest kite fitness child input blur mask camp claim";

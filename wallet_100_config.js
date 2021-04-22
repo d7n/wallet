@@ -1,1 +1,1 @@
-var mnemonic = "spend receive forest outer okay palm assault online school tell inmate bounce";
+var mnemonic = "code warfare flower crash ready now feature cup turtle priority sample wheel";

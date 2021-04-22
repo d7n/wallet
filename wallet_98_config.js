@@ -1,1 +1,1 @@
-var mnemonic = "east meat tank rice real call limit sunny envelope judge mushroom pupil";
+var mnemonic = "next today pistol peanut ring scheme loud trap same brief wear curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "also evoke sand staff service crime luxury tongue random cart toe initial";
+var mnemonic = "cash novel vendor violin across coral eager jewel speak excuse top mobile";

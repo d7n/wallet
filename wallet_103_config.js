@@ -1,1 +1,1 @@
-var mnemonic = "thrive opera legal evil toddler slab lemon sister circle luxury option sentence";
+var mnemonic = "detail glare misery weird drink wage salt idea medal flush two expect";

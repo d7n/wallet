@@ -1,1 +1,1 @@
-var mnemonic = "pepper december social taste pulp rescue pair crater abandon tennis zoo raccoon";
+var mnemonic = "next steak upon indoor sibling few depend yellow thank device fan below";

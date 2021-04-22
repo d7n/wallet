@@ -1,1 +1,1 @@
-var mnemonic = "divide offer reveal empty toy paper pig someone shine violin lunch way";
+var mnemonic = "insect device dumb expose problem theme cost hurdle dove behind dial reveal";

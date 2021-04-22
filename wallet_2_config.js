@@ -1,1 +1,1 @@
-var mnemonic = "doll nation high trick person sketch increase then soda inmate process galaxy";
+var mnemonic = "maid deputy trigger pig receive pill any stumble tide inherit detect teach";

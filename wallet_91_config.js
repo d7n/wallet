@@ -1,1 +1,1 @@
-var mnemonic = "together tongue write egg disagree receive body convince salon shield stove tag";
+var mnemonic = "blanket wisdom velvet near parade defy element fury speed name banner father";

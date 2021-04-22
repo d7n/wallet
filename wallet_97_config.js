@@ -1,1 +1,1 @@
-var mnemonic = "short hole aerobic notable service royal engine dish butter fossil among human";
+var mnemonic = "bunker curious art fancy other arena wet inside camp bus electric blade";

@@ -1,1 +1,1 @@
-var mnemonic = "news rubber inquiry maid angle budget law primary birth surround promote mail";
+var mnemonic = "green report crunch nature endorse divert flame present buyer pulp acoustic spot";

@@ -1,1 +1,1 @@
-var mnemonic = "dice sure globe era pigeon employ piece edge expire dress calm shiver";
+var mnemonic = "mom merge inspire afraid glove gap universe imitate broken replace sleep minute";

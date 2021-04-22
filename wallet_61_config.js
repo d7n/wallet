@@ -1,1 +1,1 @@
-var mnemonic = "pass divide relief page mesh jealous drink glide like denial scout nuclear";
+var mnemonic = "theme story feed forward topic gate planet melt two spell emerge mansion";

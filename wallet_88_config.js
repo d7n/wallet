@@ -1,1 +1,1 @@
-var mnemonic = "fancy bronze wash scorpion salad ordinary twice power thought kit curious cool";
+var mnemonic = "park offer core opinion involve pepper hammer produce faint wrap lucky acoustic";

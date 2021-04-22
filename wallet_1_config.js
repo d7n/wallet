@@ -1,1 +1,1 @@
-var mnemonic = "frost crush milk joke section exclude naive artefact much chronic ozone annual";
+var mnemonic = "idea august digital label genius system shop cradle bubble spare spy sniff";

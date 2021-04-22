@@ -1,1 +1,1 @@
-var mnemonic = "theme amazing panther garbage group pen pig release mercy change quote boring";
+var mnemonic = "eagle sweet science please diagram year diet garment wish dutch maid choice";

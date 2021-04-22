@@ -1,1 +1,1 @@
-var mnemonic = "cruel inherit rebuild regret oval split total face skull grunt grant post";
+var mnemonic = "aunt month manage expire code claim soccer aerobic burden annual tent problem";

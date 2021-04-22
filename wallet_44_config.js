@@ -1,1 +1,1 @@
-var mnemonic = "relief pelican steel recipe heart labor crew icon very fresh rescue arrest";
+var mnemonic = "off alley planet rule plunge uniform pattern knife donor device mixture romance";

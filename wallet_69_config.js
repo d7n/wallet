@@ -1,1 +1,1 @@
-var mnemonic = "topic tennis peasant image miss announce primary general alter mystery shield apart";
+var mnemonic = "cancel monster profit swift leave shoe fringe unfair kidney climb dawn grunt";

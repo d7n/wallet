@@ -1,1 +1,1 @@
-var mnemonic = "excuse dash cactus orphan remind super turn worth august vintage aerobic olive";
+var mnemonic = "snap mean kite scale ivory adapt buffalo salon tone filter six about";

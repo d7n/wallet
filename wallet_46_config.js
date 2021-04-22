@@ -1,1 +1,1 @@
-var mnemonic = "escape heavy just grocery another trigger neutral prize tackle build scrap trip";
+var mnemonic = "advance butter rapid share own target whale hand citizen daughter cliff inside";

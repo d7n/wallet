@@ -1,1 +1,1 @@
-var mnemonic = "beyond shaft lottery safe talk early turn tattoo annual engine pottery alcohol";
+var mnemonic = "blossom reward crouch company cannon tray explain gesture void warrior dove become";

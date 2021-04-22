@@ -1,1 +1,1 @@
-var mnemonic = "want humor next dynamic skill mammal solution gossip lobster save retreat image";
+var mnemonic = "unaware identify hollow repair grant jelly dash glow cheese bleak good next";

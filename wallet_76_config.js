@@ -1,1 +1,1 @@
-var mnemonic = "mule custom pass bone verb common before orange island time cactus short";
+var mnemonic = "awake runway ready hospital jar marine anger error honey express leave siege";

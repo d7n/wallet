@@ -1,1 +1,1 @@
-var mnemonic = "pottery ridge metal gate marine enroll use build vault slam blue angle";
+var mnemonic = "market harsh door zone kiss tobacco truck review tired grow reduce quantum";

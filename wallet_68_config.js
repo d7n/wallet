@@ -1,1 +1,1 @@
-var mnemonic = "quiz donkey goose target ostrich wonder exercise broom network habit merit company";
+var mnemonic = "deputy dismiss invest urge castle notice where embark loyal section jungle water";

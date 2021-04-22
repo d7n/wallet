@@ -1,1 +1,1 @@
-var mnemonic = "stand ball frost hawk assume candy sample gap asset poverty need put";
+var mnemonic = "safe world potato balance cupboard valid bullet coin mother quality dilemma unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "before spice lock ask lecture cat endless asthma reveal top any hover";
+var mnemonic = "change vintage inmate lady purity crater ramp lounge inner maple follow hire";

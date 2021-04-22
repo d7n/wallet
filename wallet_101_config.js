@@ -1,1 +1,1 @@
-var mnemonic = "true stamp rice deny judge exhaust gorilla announce gift quality chuckle million";
+var mnemonic = "stand pill talent blouse forward want hybrid drill include venture book start";

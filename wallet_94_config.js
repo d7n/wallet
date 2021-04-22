@@ -1,1 +1,1 @@
-var mnemonic = "worth captain convince toilet box escape print clutch priority silk good eyebrow";
+var mnemonic = "silly medal diet walk grief minute want spoon verb guide notice chronic";

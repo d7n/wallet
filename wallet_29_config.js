@@ -1,1 +1,1 @@
-var mnemonic = "drama cargo ten core auto behind gap ribbon blossom cinnamon laundry holiday";
+var mnemonic = "fault split cattle split dutch raise alter project mask cloth roast chalk";

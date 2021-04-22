@@ -1,1 +1,1 @@
-var mnemonic = "couple innocent this volcano grass cheese mad purity race explain vessel safe";
+var mnemonic = "gadget scare pink embody reflect barely forest jealous honey pencil original hollow";

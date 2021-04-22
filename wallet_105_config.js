@@ -1,1 +1,1 @@
-var mnemonic = "mandate tongue grocery describe parrot depth tomorrow arch toilet kit slim stand";
+var mnemonic = "capital eagle mesh stone nose always mean survey various belt animal slide";

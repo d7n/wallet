@@ -1,1 +1,1 @@
-var mnemonic = "salute park cash chase cube stay toilet hobby split plastic unaware that";
+var mnemonic = "more grain deliver normal coast idea dignity post motion tilt area affair";

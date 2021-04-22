@@ -1,1 +1,1 @@
-var mnemonic = "seat weird tunnel whale eager illness cruise birth brand relief number route";
+var mnemonic = "blind behind worth metal cattle kitchen lava turn good ordinary engine sad";

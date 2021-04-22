@@ -1,1 +1,1 @@
-var mnemonic = "brother sick police drip deposit warrior mango stamp access salmon pepper cliff";
+var mnemonic = "alley rival help box pipe pilot special olympic spatial flush approve occur";

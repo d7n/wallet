@@ -1,1 +1,1 @@
-var mnemonic = "degree anchor visual example beauty maid oppose abandon dove hour mixed whisper";
+var mnemonic = "rail bundle snap dwarf sleep horn toast primary talk ready pen labor";

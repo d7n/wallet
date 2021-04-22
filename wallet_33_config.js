@@ -1,1 +1,1 @@
-var mnemonic = "cereal gate defense agent garbage never globe fault time harsh anger trash";
+var mnemonic = "bright cigar hungry staff civil discover quiz whip clean monkey program lady";

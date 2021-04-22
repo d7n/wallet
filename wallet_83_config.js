@@ -1,1 +1,1 @@
-var mnemonic = "craft horror match replace odor bicycle column segment sauce reason board cargo";
+var mnemonic = "spin scout wise love empower hub nature kitten copy scene cousin nature";

@@ -1,1 +1,1 @@
-var mnemonic = "finish enable wrap prefer only dress chronic math claim wife leisure north";
+var mnemonic = "castle august spoil pupil flame blur tip degree shed guard room pass";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow unhappy coffee poet orient actor lemon tray noble gossip list pattern";
+var mnemonic = "control broken entire glance frame flock fat noodle radar poem foil frozen";

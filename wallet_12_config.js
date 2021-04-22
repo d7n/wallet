@@ -1,1 +1,1 @@
-var mnemonic = "display pass unit impose cube scrap fatigue hurry good frozen custom such";
+var mnemonic = "piece zebra drama human aisle hip detect wrap stamp view donate season";

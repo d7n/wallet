@@ -1,1 +1,1 @@
-var mnemonic = "render dress owner enough dream bus inform syrup donate believe session hip";
+var mnemonic = "wild toward idle injury assume staff oyster sauce exchange spatial dream husband";

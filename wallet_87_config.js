@@ -1,1 +1,1 @@
-var mnemonic = "sausage true caught front club aspect toss sausage silver shrug grape talent";
+var mnemonic = "bacon snap dog turtle steel dragon sign under squeeze yellow eager path";

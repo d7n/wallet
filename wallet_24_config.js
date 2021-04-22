@@ -1,1 +1,1 @@
-var mnemonic = "afraid diet illness section athlete dream globe across sun infant rug short";
+var mnemonic = "escape impose farm convince slush name dove liberty bulb cheap drama add";

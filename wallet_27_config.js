@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cradle certain muscle vocal endless bar divert effort detect frozen resemble";
+var mnemonic = "gallery valve goddess waste subject crash liar detail fault cheese inside label";

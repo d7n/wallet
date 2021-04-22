@@ -1,1 +1,1 @@
-var mnemonic = "ranch knife just erosion wall arena timber suspect wink addict arena void";
+var mnemonic = "garage long decide culture erase salon dust token cube wealth north select";

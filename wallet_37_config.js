@@ -1,1 +1,1 @@
-var mnemonic = "clap sing fatal tuna review surge doll yellow afraid elevator assault run";
+var mnemonic = "cupboard ramp breeze brush absent cliff asthma evolve harbor siren fence arch";

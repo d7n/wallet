@@ -1,1 +1,1 @@
-var mnemonic = "memory clap ritual age remain desk camp glare cover dress opera visit";
+var mnemonic = "boil afford idea never match price rib melody boss sea crucial tail";

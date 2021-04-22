@@ -1,1 +1,1 @@
-var mnemonic = "aerobic goat inherit title tail pitch enemy churn tattoo jeans degree lava";
+var mnemonic = "ritual soft charge they hold toward gold letter panda couch satoshi knife";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest media rail myself return fancy submit discover force reunion stairs angry";
+var mnemonic = "pitch again head enable awful orchard junior myself luxury credit during pear";

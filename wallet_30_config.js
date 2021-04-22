@@ -1,1 +1,1 @@
-var mnemonic = "naive come tag rib dismiss piano scene side aerobic depth often domain";
+var mnemonic = "best airport juice wealth grain another clip about front enter say acid";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh smile tilt modify tree bottom pledge same ivory feature gift tone";
+var mnemonic = "garlic extra firm again predict worth raise subject image limb dinner agent";

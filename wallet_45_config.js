@@ -1,1 +1,1 @@
-var mnemonic = "across round leader south miss possible pond brown tube weird until safe";
+var mnemonic = "lamp garment grunt same pet axis bottom broom truly bachelor cradle damage";

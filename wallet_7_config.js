@@ -1,1 +1,1 @@
-var mnemonic = "water inner portion hunt april room galaxy embody swallow ill zebra client";
+var mnemonic = "price few shed vessel tourist asset blood upgrade table affair census capital";

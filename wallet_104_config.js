@@ -1,1 +1,1 @@
-var mnemonic = "switch leaf image zoo insect cause border raise empower garden unable slab";
+var mnemonic = "kidney key cabbage swallow brass broom detect quantum define magnet feed together";

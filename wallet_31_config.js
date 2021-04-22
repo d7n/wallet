@@ -1,1 +1,1 @@
-var mnemonic = "episode cake core ecology sleep clip arm ecology sweet weasel sound much";
+var mnemonic = "surprise cloud smart write tent erupt resemble vague wedding honey undo jewel";

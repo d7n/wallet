@@ -1,1 +1,1 @@
-var mnemonic = "ability material thrive scissors term cancel dolphin ramp valve raccoon history fiscal";
+var mnemonic = "physical alley turkey paper honey daring happy loud luggage clean poet argue";

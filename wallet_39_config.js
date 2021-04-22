@@ -1,1 +1,1 @@
-var mnemonic = "off pledge miracle easy wait exotic around boy feed like liberty sell";
+var mnemonic = "hurt protect exclude dial ensure zebra warm vendor kite believe romance cycle";

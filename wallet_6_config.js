@@ -1,1 +1,1 @@
-var mnemonic = "asthma congress element fancy pistol priority frame blind job burden unfold hazard";
+var mnemonic = "cactus place struggle sing abstract glimpse voyage catalog soccer affair popular choose";

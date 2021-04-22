@@ -1,1 +1,1 @@
-var mnemonic = "make quit bomb below leader service laugh convince shaft vibrant famous treat";
+var mnemonic = "protect eagle kiwi dust leisure fossil chest blouse dilemma sniff jungle find";

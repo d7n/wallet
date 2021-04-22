@@ -1,1 +1,1 @@
-var mnemonic = "depend canyon base bacon hair girl pledge drill myth today ride abuse";
+var mnemonic = "emotion mass glance file column width exclude effort twenty anger resist riot";

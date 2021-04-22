@@ -1,1 +1,1 @@
-var mnemonic = "diet fluid moment eagle museum neck syrup return cruise offer camp vault";
+var mnemonic = "world tape pact budget airport horror jungle awful degree finish retire fluid";

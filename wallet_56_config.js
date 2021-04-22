@@ -1,1 +1,1 @@
-var mnemonic = "twelve young gym soul depart note absurd own parent salmon seminar there";
+var mnemonic = "pig spice pear scale midnight umbrella slam okay robot old sell swim";

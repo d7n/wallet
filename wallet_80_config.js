@@ -1,1 +1,1 @@
-var mnemonic = "slam odor wasp result brisk swear coyote lyrics chimney element certain mom";
+var mnemonic = "carry donor topple manage good image diagram pipe keep nothing east monster";

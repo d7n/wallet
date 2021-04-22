@@ -1,1 +1,1 @@
-var mnemonic = "naive mixed excess mountain response local solution library have public stuff sausage";
+var mnemonic = "verify penalty salute man sock desert recall yellow wood ability suspect accident";

@@ -1,1 +1,1 @@
-var mnemonic = "original truth stage diamond video prosper memory reform purchase weather dad crew";
+var mnemonic = "twelve spice dune poet few tumble dumb habit mosquito puzzle insect jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge response exercise remind truth curve farm emotion shop record announce game";
+var mnemonic = "supply result skull hill fossil runway mammal dentist add fame awake suggest";

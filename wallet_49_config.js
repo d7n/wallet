@@ -1,1 +1,1 @@
-var mnemonic = "afford museum among gorilla valley team practice squeeze opera weasel skill merit";
+var mnemonic = "similar clutch wait tired neither grab orange oven wine hobby seek trumpet";

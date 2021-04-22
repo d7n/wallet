@@ -1,1 +1,1 @@
-var mnemonic = "name talk mechanic aerobic clown double inflict tennis glance lesson galaxy nephew";
+var mnemonic = "also interest dismiss eternal shine wild forest awful grass prefer awesome display";

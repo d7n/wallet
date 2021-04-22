@@ -1,1 +1,1 @@
-var mnemonic = "same rocket morning dress life relief dust result vintage dry sustain borrow";
+var mnemonic = "window unfold spice drive rural hat still tuna ceiling airport combine gas";

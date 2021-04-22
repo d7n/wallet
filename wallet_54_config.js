@@ -1,1 +1,1 @@
-var mnemonic = "garden breeze indicate veteran session hope cry deputy title prison lock diesel";
+var mnemonic = "museum human public silent oblige green oak place struggle crazy husband same";

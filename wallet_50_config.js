@@ -1,1 +1,1 @@
-var mnemonic = "bacon rich boil fuel start dove bicycle sick day denial maple manage";
+var mnemonic = "leaf club useless decorate carpet search idea aware awesome blast zone crowd";
