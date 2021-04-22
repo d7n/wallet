@@ -1,1 +1,1 @@
-var mnemonic = "occur clever they junior blossom west symbol fire alcohol fancy cabbage camera";
+var mnemonic = "cheap shiver erode elbow coffee token empower pulp slight blossom cute meadow";

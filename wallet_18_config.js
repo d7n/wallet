@@ -1,1 +1,1 @@
-var mnemonic = "crawl street stadium load other leaf save scene rug canyon glue fan";
+var mnemonic = "calm scatter car jewel poet wine stumble engage chest sure glow cargo";

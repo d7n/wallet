@@ -1,1 +1,1 @@
-var mnemonic = "author rare twice loud leisure region away genre clutch fork tiny bid";
+var mnemonic = "simple shove plug main dream cinnamon survey pepper yellow remind cover science";

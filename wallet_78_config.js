@@ -1,1 +1,1 @@
-var mnemonic = "kid woman entry deliver lyrics feed visa settle guide evoke tortoise monkey";
+var mnemonic = "trust indoor charge practice wheat hunt arrest will story clog hope middle";

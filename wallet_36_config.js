@@ -1,1 +1,1 @@
-var mnemonic = "damage swim team switch guilt sure bid parade impact auto ozone pole";
+var mnemonic = "rookie poem change leaf cable enforce garlic mutual flush tired lend approve";

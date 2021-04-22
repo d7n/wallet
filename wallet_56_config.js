@@ -1,1 +1,1 @@
-var mnemonic = "erosion gate return palm spring chicken radio burden wire upset chronic artwork";
+var mnemonic = "call hazard lunch seven lunch vicious faculty dignity source burger pact toe";

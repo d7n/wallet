@@ -1,1 +1,1 @@
-var mnemonic = "person layer auction play car speak office ready picture frown uncle laptop";
+var mnemonic = "trip floor salon slow olive subway any victory alpha chuckle pigeon type";

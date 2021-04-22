@@ -1,1 +1,1 @@
-var mnemonic = "organ rigid ranch chat seat dynamic response regret alter choice gloom vacuum";
+var mnemonic = "gadget across elbow core police sphere soul drip awful swallow congress turkey";

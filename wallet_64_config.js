@@ -1,1 +1,1 @@
-var mnemonic = "feed case ankle cart dragon volume bench perfect emotion winner anchor chimney";
+var mnemonic = "easily symptom autumn exit grit pride vacuum cotton record green blur believe";

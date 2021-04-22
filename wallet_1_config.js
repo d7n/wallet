@@ -1,1 +1,1 @@
-var mnemonic = "swap embrace until sadness glad area genre pistol worry rural author average";
+var mnemonic = "equal tank rely sunny grant style reward tobacco spot cause like hundred";

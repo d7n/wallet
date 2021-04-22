@@ -1,1 +1,1 @@
-var mnemonic = "digital lonely gauge anger explain fringe depend can where apology inherit arrange";
+var mnemonic = "spoil guide hood pistol marriage pilot ordinary coral arrange film rule board";

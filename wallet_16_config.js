@@ -1,1 +1,1 @@
-var mnemonic = "fish abstract unfold slot federal leader number scan face audit trigger snap";
+var mnemonic = "enjoy pride dynamic finish stage damage together color mosquito useful suspect ring";

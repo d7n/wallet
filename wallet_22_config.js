@@ -1,1 +1,1 @@
-var mnemonic = "require clinic mixed broom thought practice ski allow ecology social this link";
+var mnemonic = "spoil harvest fresh project merry behind elbow team polar expand soldier young";

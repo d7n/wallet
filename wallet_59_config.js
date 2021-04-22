@@ -1,1 +1,1 @@
-var mnemonic = "buddy velvet color swim fork gun decide outer short vendor cry stamp";
+var mnemonic = "phrase noise often material draw demise entry fashion credit police hero paddle";

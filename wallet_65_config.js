@@ -1,1 +1,1 @@
-var mnemonic = "army carbon security gesture all wave pioneer cute burst rescue elbow lucky";
+var mnemonic = "salon nice valid equip doll sport stick future mom setup satisfy correct";

@@ -1,1 +1,1 @@
-var mnemonic = "member foil crisp seed uncover wrong awful drastic firm dove boring monster";
+var mnemonic = "brief stuff kiss route obey pony steel wild enforce radar satoshi final";

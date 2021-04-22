@@ -1,1 +1,1 @@
-var mnemonic = "economy tuition birth bottom inject coil surge chuckle abstract gasp describe volcano";
+var mnemonic = "vital borrow daring coin poverty improve hope dice embrace wool prison person";

@@ -1,1 +1,1 @@
-var mnemonic = "erase pigeon ship genuine major decorate jealous cover route negative toddler famous";
+var mnemonic = "talent local can company there ticket produce major ridge slice old stage";

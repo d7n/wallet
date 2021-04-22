@@ -1,1 +1,1 @@
-var mnemonic = "slot tumble cabin only alpha engage almost sing drill before happy switch";
+var mnemonic = "shop fury series bulb eagle mad eternal symptom knee host enjoy topic";

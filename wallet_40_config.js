@@ -1,1 +1,1 @@
-var mnemonic = "cattle visit sweet identify evolve clump honey eyebrow express trigger august rare";
+var mnemonic = "frown else reopen oxygen muscle rack crowd harbor divert milk suffer worry";

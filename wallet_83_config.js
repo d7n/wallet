@@ -1,1 +1,1 @@
-var mnemonic = "hero sure vanish basic task option medal grant hope aware call swallow";
+var mnemonic = "avocado wide cake exile tennis long hope rebel earth sustain save mandate";

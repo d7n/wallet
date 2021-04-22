@@ -1,1 +1,1 @@
-var mnemonic = "amateur inform blame give furnace uncover energy pool spy satoshi antique water";
+var mnemonic = "shed naive govern sick manual fragile rifle credit parade assume uncover artefact";

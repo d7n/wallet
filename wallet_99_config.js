@@ -1,1 +1,1 @@
-var mnemonic = "announce kick erode abuse census fall moral mask float skirt match child";
+var mnemonic = "can point crazy cargo disease roast excess shoulder fox donkey vanish cactus";

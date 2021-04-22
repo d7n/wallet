@@ -1,1 +1,1 @@
-var mnemonic = "connect response settle gallery give network unit vital must false spider typical";
+var mnemonic = "ripple report enforce sport axis tip work raise return now gloom grass";

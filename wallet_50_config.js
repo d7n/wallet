@@ -1,1 +1,1 @@
-var mnemonic = "frequent era beauty rain trust bargain forward aware ignore obtain verify believe";
+var mnemonic = "engine pumpkin member animal canvas language mad clap draft glue tumble paddle";

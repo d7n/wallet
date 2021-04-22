@@ -1,1 +1,1 @@
-var mnemonic = "monitor balance total clump salmon evidence absorb firm era crouch cable stay";
+var mnemonic = "tuition duty skirt fee flavor able chef setup atom distance candy divide";

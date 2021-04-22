@@ -1,1 +1,1 @@
-var mnemonic = "elephant prevent what educate glad deliver spike chief fiction ensure auction repair";
+var mnemonic = "acid interest glimpse claw grief dignity woman typical drive govern call area";

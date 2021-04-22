@@ -1,1 +1,1 @@
-var mnemonic = "express hire wrong erosion staff draw flee spare eternal mean deer fringe";
+var mnemonic = "credit cinnamon miracle laugh second fossil evolve solve sphere pole box theme";

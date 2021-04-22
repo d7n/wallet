@@ -1,1 +1,1 @@
-var mnemonic = "citizen wine square wet between deliver tone void reason hobby letter tunnel";
+var mnemonic = "three enrich badge jelly travel dilemma coffee clutch amateur hood stove describe";

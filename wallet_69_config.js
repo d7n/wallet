@@ -1,1 +1,1 @@
-var mnemonic = "battle wide odor slab you position disagree blade void desk draw mind";
+var mnemonic = "enemy wisdom east winner novel smart genius scissors say honey october kingdom";

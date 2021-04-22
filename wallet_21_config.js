@@ -1,1 +1,1 @@
-var mnemonic = "suit dismiss tank wise wagon wolf spring attract marriage burden busy enough";
+var mnemonic = "calm tissue version baby burden present scout fashion output three drip aisle";

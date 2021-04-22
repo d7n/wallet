@@ -1,1 +1,1 @@
-var mnemonic = "trust allow pupil sunset lava minimum offer dragon prepare notice lamp enrich";
+var mnemonic = "happy best lounge breeze gold visual hawk speak volume glare dash crouch";

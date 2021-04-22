@@ -1,1 +1,1 @@
-var mnemonic = "visit cheese unhappy absorb essay ten exercise warfare pen window year wise";
+var mnemonic = "say output clinic umbrella fresh web trip artwork salon dwarf voyage immune";

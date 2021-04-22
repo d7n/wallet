@@ -1,1 +1,1 @@
-var mnemonic = "ball legal rate arrow fashion trick lab donor orbit brush echo struggle";
+var mnemonic = "own climb believe bitter brown program doctor clean normal decrease inmate input";

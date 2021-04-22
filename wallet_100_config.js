@@ -1,1 +1,1 @@
-var mnemonic = "huge ensure initial lion lift powder plunge paper uncle urban carbon update";
+var mnemonic = "fashion endorse broken spin pepper people steak stove vast adapt segment smile";

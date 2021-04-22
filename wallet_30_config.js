@@ -1,1 +1,1 @@
-var mnemonic = "trash diesel warrior radio cigar wood pool current snow scan differ omit";
+var mnemonic = "advice merry survey humor have vast relax thumb vessel normal horse lady";

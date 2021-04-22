@@ -1,1 +1,1 @@
-var mnemonic = "shrug case vanish miracle field culture family purse apology venue motor fetch";
+var mnemonic = "few sing uphold grant mule educate flash century patient teach usual milk";

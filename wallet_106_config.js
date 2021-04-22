@@ -1,1 +1,1 @@
-var mnemonic = "letter alone river divorce message siege dove drift year call bomb volcano";
+var mnemonic = "now side pattern swarm false roof garlic surprise home explain twelve october";

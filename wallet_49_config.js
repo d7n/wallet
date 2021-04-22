@@ -1,1 +1,1 @@
-var mnemonic = "uphold sample text duty document warrior funny reopen forest there energy cinnamon";
+var mnemonic = "pause slice radio feed orient argue path clinic often gold borrow again";

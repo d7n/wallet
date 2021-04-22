@@ -1,1 +1,1 @@
-var mnemonic = "slogan medal tattoo such clutch ball gorilla laptop venue affair people scheme";
+var mnemonic = "used recipe hip squeeze bubble whisper minimum top address kidney gauge diary";

@@ -1,1 +1,1 @@
-var mnemonic = "travel virus dismiss nation useful maid hen dutch view you champion just";
+var mnemonic = "engine camera phone simple harbor sunny elder puppy donate improve slender question";

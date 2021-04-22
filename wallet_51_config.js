@@ -1,1 +1,1 @@
-var mnemonic = "believe arena alcohol fence joke summer orbit resource paddle hybrid shed toe";
+var mnemonic = "thunder near file dawn scorpion love liquid virus toast box round slight";

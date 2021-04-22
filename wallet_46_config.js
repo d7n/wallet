@@ -1,1 +1,1 @@
-var mnemonic = "mansion paddle winner shove bus expire legal east major fruit hunt enforce";
+var mnemonic = "echo mule flavor slam gym carpet myth cash jungle task fabric transfer";

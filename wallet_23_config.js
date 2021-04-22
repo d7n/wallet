@@ -1,1 +1,1 @@
-var mnemonic = "capable deer embrace timber coconut call convince gown arrest sheriff midnight consider";
+var mnemonic = "ship identify canoe pudding ring seat pact oxygen sign affair surge bachelor";

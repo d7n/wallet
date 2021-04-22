@@ -1,1 +1,1 @@
-var mnemonic = "tag fashion track sorry siege hungry average affair wise inch lawn nut";
+var mnemonic = "security win spend lens nature before odor render gather joke speak another";

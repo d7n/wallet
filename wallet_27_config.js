@@ -1,1 +1,1 @@
-var mnemonic = "fatigue scheme head problem verify scrub travel rib extra inner logic ancient";
+var mnemonic = "together oil thrive grant thrive situate embrace ability humor body hole list";

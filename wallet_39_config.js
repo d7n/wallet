@@ -1,1 +1,1 @@
-var mnemonic = "broken forest real main wagon pull upon uphold alien off bundle guitar";
+var mnemonic = "peace spider original mosquito elephant polar topple tribe boy lucky estate sun";

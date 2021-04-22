@@ -1,1 +1,1 @@
-var mnemonic = "gold cool feed patrol accident people any plate orange usual world weasel";
+var mnemonic = "card cradle detail whip panel artefact gossip cactus slight else frog issue";

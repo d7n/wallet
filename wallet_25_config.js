@@ -1,1 +1,1 @@
-var mnemonic = "exhaust measure trust clown distance canyon tourist lens nominee truly reform title";
+var mnemonic = "kitten orchard fault mean olive body regular panda vacant shoulder unhappy kiss";

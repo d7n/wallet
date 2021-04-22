@@ -1,1 +1,1 @@
-var mnemonic = "crush budget athlete cigar broccoli sudden vacuum frost laugh risk image basket";
+var mnemonic = "immense habit memory risk truth crush cook enrich news abuse smile chicken";

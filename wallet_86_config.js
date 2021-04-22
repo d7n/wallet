@@ -1,1 +1,1 @@
-var mnemonic = "state between nasty amazing green diet exercise loop siege update web damp";
+var mnemonic = "mass sample rain venue torch success sunny purchase alarm glare price mixed";

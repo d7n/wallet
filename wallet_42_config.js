@@ -1,1 +1,1 @@
-var mnemonic = "endless erase limb vehicle photo endorse flower moral rival affair drill cattle";
+var mnemonic = "occur raise cushion begin long raccoon cricket left vacant observe expect fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "patch bus shrimp cactus race pledge any hint push panel shy update";
+var mnemonic = "ice review flight expire village giant uniform assume supreme hen design wide";

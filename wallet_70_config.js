@@ -1,1 +1,1 @@
-var mnemonic = "gasp render first jungle basket sudden wear sport shadow chase amateur mix";
+var mnemonic = "hello flight perfect version asthma early large worry theory throw cliff cover";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest usual crazy auto detect daring gold derive airport rather tell sheriff";
+var mnemonic = "robust twelve uniform sure clap brave sentence scare enlist butter frost actor";

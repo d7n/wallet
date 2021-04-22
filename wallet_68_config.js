@@ -1,1 +1,1 @@
-var mnemonic = "case fix horror infant picture float hat patch blind ribbon course east";
+var mnemonic = "helmet old define tenant enroll dentist rookie neglect actress angle brush text";

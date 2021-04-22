@@ -1,1 +1,1 @@
-var mnemonic = "tray tomato crew drum few speed donkey enough impose dinosaur initial glad";
+var mnemonic = "urge purse alter suffer lemon goose royal emerge ancient token engine obscure";

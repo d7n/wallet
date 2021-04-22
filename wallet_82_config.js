@@ -1,1 +1,1 @@
-var mnemonic = "arrest dutch gap length bachelor life rural increase raccoon scare where supply";
+var mnemonic = "cliff common stomach essence gloom vague question link health police genius shy";

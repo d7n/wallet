@@ -1,1 +1,1 @@
-var mnemonic = "force teach skill public this rhythm sister pear injury regular gaze else";
+var mnemonic = "expect energy light penalty buzz wear panda wrist crunch ship misery pelican";

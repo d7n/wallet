@@ -1,1 +1,1 @@
-var mnemonic = "return swamp brick have prepare rate train spice miracle doll double hungry";
+var mnemonic = "ugly toward supreme spider water ocean always tree choice man tell fit";

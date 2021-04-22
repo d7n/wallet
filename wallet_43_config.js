@@ -1,1 +1,1 @@
-var mnemonic = "group garden client mountain film radio iron forum warm cigar gain live";
+var mnemonic = "celery wasp defy liquid hint prepare address best genius gesture question filter";

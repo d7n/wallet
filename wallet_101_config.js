@@ -1,1 +1,1 @@
-var mnemonic = "gravity light scene bamboo lyrics degree kite capital torch clinic submit base";
+var mnemonic = "tone normal zoo resource illness embody prize during employ diamond trouble vapor";

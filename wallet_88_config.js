@@ -1,1 +1,1 @@
-var mnemonic = "rally fox convince rely tool area market biology diary basket super wrist";
+var mnemonic = "climb sick night wash lecture crumble neck hundred actress faint bread swing";

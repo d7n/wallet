@@ -1,1 +1,1 @@
-var mnemonic = "monitor peace stage region quantum frozen must crane peasant position cliff brisk";
+var mnemonic = "decorate unit suspect refuse curve cinnamon sell net gun armor pelican raise";

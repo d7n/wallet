@@ -1,1 +1,1 @@
-var mnemonic = "cake grocery success claim wrist vapor math mouse truck govern gun ski";
+var mnemonic = "lonely mad romance comfort odor pretty desert tag impose quantum same behave";

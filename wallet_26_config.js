@@ -1,1 +1,1 @@
-var mnemonic = "lounge face column notice fish mixed pigeon move dune outdoor mix labor";
+var mnemonic = "tobacco venue journey mad suffer online seat hen nuclear scorpion title skate";

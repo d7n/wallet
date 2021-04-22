@@ -1,1 +1,1 @@
-var mnemonic = "brush fiber elder trade have nature traffic sock robot lion ripple parent";
+var mnemonic = "consider appear maple crouch among receive clog enlist omit rose benefit bundle";

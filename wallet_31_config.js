@@ -1,1 +1,1 @@
-var mnemonic = "puppy else enforce olive captain verb change truth price manage song asthma";
+var mnemonic = "knee exclude air sand rude circle keen violin since measure worth response";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow receive joy mad load cover million virtual space design legal lock";
+var mnemonic = "strong scatter borrow begin output east jazz used design copper guess hat";

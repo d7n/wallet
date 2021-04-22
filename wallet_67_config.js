@@ -1,1 +1,1 @@
-var mnemonic = "security curious ozone affair unlock plug market yard exercise shield allow journey";
+var mnemonic = "fit dress odor supply symptom thumb slot dress play aim allow coach";

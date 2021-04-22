@@ -1,1 +1,1 @@
-var mnemonic = "amount that pulp silly truck virtual hip salon today century brain upset";
+var mnemonic = "gravity quote diet sport genius tool regret easily short eight unlock erase";

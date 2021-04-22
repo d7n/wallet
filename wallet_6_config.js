@@ -1,1 +1,1 @@
-var mnemonic = "skill ladder quiz people churn goddess cricket risk gauge barrel survey warrior";
+var mnemonic = "hour bronze mask discover window shiver film frame piece tonight return twice";

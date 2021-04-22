@@ -1,1 +1,1 @@
-var mnemonic = "large catch casino unusual rhythm miracle atom flush random pretty safe lunar";
+var mnemonic = "tooth decrease horse peace coast scan sing defense filter desk today venue";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer victory vital acquire eternal panda repeat gun zero quote grit potato";
+var mnemonic = "market concert office mimic crisp undo quick task jar acid clever scare";

@@ -1,1 +1,1 @@
-var mnemonic = "rent ivory swap benefit orphan awful return family kiss general produce elegant";
+var mnemonic = "van canoe hold music correct eyebrow side acoustic crime olympic miss suspect";

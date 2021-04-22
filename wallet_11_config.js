@@ -1,1 +1,1 @@
-var mnemonic = "uphold matter usage limit meadow decide chef ritual mule inquiry caught that";
+var mnemonic = "pyramid scrub funny bachelor dinosaur pink north swear upset about dash name";

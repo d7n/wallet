@@ -1,1 +1,1 @@
-var mnemonic = "search select play beyond puppy bubble clean daughter smoke crumble grief gospel";
+var mnemonic = "border return near report door then museum regular wrist attract tide flight";

@@ -1,1 +1,1 @@
-var mnemonic = "term drive cube village solve border strong auto organ sign remove ball";
+var mnemonic = "exhibit leg bridge month life seat diary lecture order shuffle area ceiling";

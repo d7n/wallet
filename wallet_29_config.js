@@ -1,1 +1,1 @@
-var mnemonic = "pull scorpion pupil tragic ranch response forward will bomb praise knee copper";
+var mnemonic = "panda bus bus joy delay file upset help almost stumble fatal canal";

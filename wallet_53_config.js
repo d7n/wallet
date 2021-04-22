@@ -1,1 +1,1 @@
-var mnemonic = "demand artist own siren silent social obtain barrel dish print cushion satisfy";
+var mnemonic = "maple fever impose world sure million mail era motor family connect dust";

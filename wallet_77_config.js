@@ -1,1 +1,1 @@
-var mnemonic = "good flight blood ancient salmon rifle hurdle coyote view lizard group useful";
+var mnemonic = "method wing execute title trial project mad alley round tide toe laugh";

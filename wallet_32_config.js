@@ -1,1 +1,1 @@
-var mnemonic = "wave weapon enlist half puzzle wild dizzy crater skate pig seminar mountain";
+var mnemonic = "clog control insect help rabbit meadow never little traffic pudding rack because";

@@ -1,1 +1,1 @@
-var mnemonic = "brick shoe faculty flag path chest ability effort post model noble syrup";
+var mnemonic = "design planet ensure business dawn vote around lend vessel jar dose planet";

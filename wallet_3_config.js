@@ -1,1 +1,1 @@
-var mnemonic = "mutual trip argue sleep empower picture jar liberty early giant equip ribbon";
+var mnemonic = "now venture pitch scheme blur width autumn elephant peasant grow still heart";

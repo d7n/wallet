@@ -1,1 +1,1 @@
-var mnemonic = "silk special joke post night fancy brown win already engine endless inflict";
+var mnemonic = "cup degree nothing pitch behave panther talent math lawn merry wise elbow";

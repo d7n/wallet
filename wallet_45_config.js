@@ -1,1 +1,1 @@
-var mnemonic = "orchard measure life garlic snack aware require key segment unit drip hospital";
+var mnemonic = "fruit draw until athlete easily minute mechanic debris record fantasy crash hollow";
