@@ -1,1 +1,1 @@
-var mnemonic = "display tuna noble source close circle glow test custom move loan iron";
+var mnemonic = "floor enforce hood credit spawn embody vehicle address cannon maximum wagon leave";

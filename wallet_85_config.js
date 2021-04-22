@@ -1,1 +1,1 @@
-var mnemonic = "item neutral dash more gloom interest faculty charge shop leave input ridge";
+var mnemonic = "can aunt drift cycle method defense project deposit sea dice language talent";

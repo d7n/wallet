@@ -1,1 +1,1 @@
-var mnemonic = "fruit cigar twenty bone hollow box shaft seven damp monster either canal";
+var mnemonic = "illness collect ring road note suspect manage pull reopen country table rather";

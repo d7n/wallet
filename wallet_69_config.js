@@ -1,1 +1,1 @@
-var mnemonic = "swallow hand advance indoor since alien move great attend snap stumble pyramid";
+var mnemonic = "help phone crucial token pulp glove quit case napkin summer daring prepare";

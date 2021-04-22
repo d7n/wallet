@@ -1,1 +1,1 @@
-var mnemonic = "grunt expect stage mercy manage pause deliver wisdom concert shift cry sense";
+var mnemonic = "climb history tongue shaft toward robot milk kid tape sniff switch thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "panda crash pony scheme middle frequent neither simple rare pluck suspect hair";
+var mnemonic = "adapt bunker broccoli input misery broken spring sunset gloom feed antenna crater";

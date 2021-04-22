@@ -1,1 +1,1 @@
-var mnemonic = "move pelican letter silly slight exhibit rocket bean club sense guess upset";
+var mnemonic = "innocent invite border saddle glare fortune fun deer lizard detail poem grape";

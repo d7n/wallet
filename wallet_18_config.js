@@ -1,1 +1,1 @@
-var mnemonic = "muscle garage tool insane inner glove glare weekend seed music double recycle";
+var mnemonic = "proud prefer tourist remove inquiry trash excite argue all kitchen ask lesson";

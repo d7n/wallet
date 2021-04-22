@@ -1,1 +1,1 @@
-var mnemonic = "enroll disease call chalk future metal general chat rack jewel oyster wet";
+var mnemonic = "cargo solution salad cart flower climb urban gun begin sport oppose attack";

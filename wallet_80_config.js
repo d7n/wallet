@@ -1,1 +1,1 @@
-var mnemonic = "neutral dry vehicle cruise catalog salon sphere route slim interest rich wave";
+var mnemonic = "ordinary true mosquito relax main usage chief melody delay enroll dad diamond";

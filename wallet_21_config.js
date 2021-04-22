@@ -1,1 +1,1 @@
-var mnemonic = "exact mushroom shed caution steak dry saddle fold parrot box select agent";
+var mnemonic = "fiber edit hand double pond volcano across animal shoot coffee inch throw";

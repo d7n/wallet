@@ -1,1 +1,1 @@
-var mnemonic = "shoe smile extend clerk orphan material butter glimpse sing include frame orient";
+var mnemonic = "stage demand glass wall near embody balance history reduce work provide elder";

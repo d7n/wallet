@@ -1,1 +1,1 @@
-var mnemonic = "brick bullet flower lion decade elbow inform usage time jaguar solar planet";
+var mnemonic = "pool track hat glass west sort afraid scout loyal mule bone hill";

@@ -1,1 +1,1 @@
-var mnemonic = "limit knee sugar rack lava warfare ozone speed bulb wild lobster wire";
+var mnemonic = "situate tuition bomb lyrics type borrow brisk kiwi yard obscure twenty zone";

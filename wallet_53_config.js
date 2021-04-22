@@ -1,1 +1,1 @@
-var mnemonic = "ribbon clarify jar galaxy honey park advice better library decorate mom ramp";
+var mnemonic = "divide borrow eyebrow topic subway expire pact mass blood escape shove pledge";

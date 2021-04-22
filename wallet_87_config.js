@@ -1,1 +1,1 @@
-var mnemonic = "noodle hint raven job allow load arctic flag nature cloth frozen venture";
+var mnemonic = "output culture lyrics bachelor dutch length uncle unusual dinosaur cruel foam gas";

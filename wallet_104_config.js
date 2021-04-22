@@ -1,1 +1,1 @@
-var mnemonic = "battle crowd game hotel accuse moral elegant path waste banana wise blush";
+var mnemonic = "gospel wear canal onion master lab right clerk oyster glove choice drum";

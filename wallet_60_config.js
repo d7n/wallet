@@ -1,1 +1,1 @@
-var mnemonic = "glimpse mushroom thing scare prize frozen any young auction essence song bid";
+var mnemonic = "mechanic analyst amount maple apology saddle pepper recall simple obscure input spin";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty meadow giraffe tilt cattle major income federal note satoshi rifle rack";
+var mnemonic = "object used advance carpet clinic sketch abandon casino danger flush drift stumble";

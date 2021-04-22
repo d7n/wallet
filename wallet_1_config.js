@@ -1,1 +1,1 @@
-var mnemonic = "decide warfare leave wrist stage please piece sting crush ready illegal large";
+var mnemonic = "gate offer idea since memory once chef another comfort cement chalk dawn";

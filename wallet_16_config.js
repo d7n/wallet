@@ -1,1 +1,1 @@
-var mnemonic = "shine genre weekend type brand unlock follow differ sort keep warfare valve";
+var mnemonic = "million ramp right keep remind elbow gossip advance neutral conduct weasel cloth";

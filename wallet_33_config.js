@@ -1,1 +1,1 @@
-var mnemonic = "hand another seminar rice south diary boy fan soft hero goat decade";
+var mnemonic = "funny post crop fish dolphin odor resemble fatal bachelor story small enemy";

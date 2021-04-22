@@ -1,1 +1,1 @@
-var mnemonic = "friend barrel ill similar they shrug only hat joke shoot letter eternal";
+var mnemonic = "used ritual multiply mother someone soccer smile sniff almost limb final vivid";

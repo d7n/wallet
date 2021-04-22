@@ -1,1 +1,1 @@
-var mnemonic = "scout surround joy bullet trash detail indicate machine front rival you demise";
+var mnemonic = "nephew jaguar ostrich current pride lens world network turtle elite advice economy";

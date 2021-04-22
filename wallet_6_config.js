@@ -1,1 +1,1 @@
-var mnemonic = "picnic vessel connect various rifle tooth pencil page range very bacon zero";
+var mnemonic = "length border tree peace ticket banner glove switch flash uncover album crop";

@@ -1,1 +1,1 @@
-var mnemonic = "axis wrist artwork power glimpse general merry title tourist glimpse much ability";
+var mnemonic = "traffic shock disease local shove wisdom mom coyote rebuild border wonder fury";

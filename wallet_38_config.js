@@ -1,1 +1,1 @@
-var mnemonic = "stuff three journey two topic involve major toe argue outer allow six";
+var mnemonic = "swing lucky basket very flee hard obtain sail picnic fiscal vivid immune";

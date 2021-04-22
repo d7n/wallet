@@ -1,1 +1,1 @@
-var mnemonic = "spend involve rib depend chat sun floor captain trumpet employ setup uniform";
+var mnemonic = "deputy edit alcohol soon program settle alien lion file sadness girl labor";

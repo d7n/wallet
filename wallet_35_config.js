@@ -1,1 +1,1 @@
-var mnemonic = "guard minute popular science ice chunk gate genre mesh again metal exact";
+var mnemonic = "social vicious produce shadow transfer stereo frame guard dumb slogan loud result";

@@ -1,1 +1,1 @@
-var mnemonic = "tower prison eyebrow island kiwi champion extra stool clean boost skin concert";
+var mnemonic = "address lawn best coffee phrase output wage giraffe obvious corn bread tiny";

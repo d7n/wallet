@@ -1,1 +1,1 @@
-var mnemonic = "start castle neutral say gather water remain almost explain legend all anchor";
+var mnemonic = "provide nice exotic help comic normal ride figure genuine genre witness brother";

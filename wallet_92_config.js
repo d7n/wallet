@@ -1,1 +1,1 @@
-var mnemonic = "cherry peanut zone shop sentence cheese spot evolve debris pulse smile screen";
+var mnemonic = "luxury ignore thumb vessel step ask december pond beyond awkward track sell";

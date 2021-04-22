@@ -1,1 +1,1 @@
-var mnemonic = "rapid behind beyond fun silver lottery very board ramp custom strategy bicycle";
+var mnemonic = "dress dilemma club snack spawn gym penalty icon husband among increase piano";

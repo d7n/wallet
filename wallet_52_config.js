@@ -1,1 +1,1 @@
-var mnemonic = "fix afford weasel still nephew view pioneer afraid winter rich bone saddle";
+var mnemonic = "pole attack trust assume romance buyer question what great shop lumber deliver";

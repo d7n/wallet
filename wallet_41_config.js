@@ -1,1 +1,1 @@
-var mnemonic = "smoke sauce release essay lake planet accuse drift shaft veteran smoke admit";
+var mnemonic = "else faith age payment figure mistake solve noble digital mercy senior keep";

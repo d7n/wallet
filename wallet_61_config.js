@@ -1,1 +1,1 @@
-var mnemonic = "valve early forum never raw develop wage very spawn retreat bar suit";
+var mnemonic = "science carbon fringe senior scan ecology local apart maze vital payment odor";

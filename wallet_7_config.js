@@ -1,1 +1,1 @@
-var mnemonic = "tunnel valley error crew industry slot what live define bike busy grain";
+var mnemonic = "scheme february voice gain series illegal rabbit among walk vocal lounge gallery";

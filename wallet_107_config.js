@@ -1,1 +1,1 @@
-var mnemonic = "general faint caution love element crisp time come shallow include gauge future";
+var mnemonic = "unlock curve object cliff trumpet siren catalog model mimic walnut stereo worry";

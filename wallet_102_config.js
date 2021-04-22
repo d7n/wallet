@@ -1,1 +1,1 @@
-var mnemonic = "stable true thank window merry cabbage term ignore punch fury harsh grunt";
+var mnemonic = "famous slam carpet auction student duck dragon cost near spider soap nasty";

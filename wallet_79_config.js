@@ -1,1 +1,1 @@
-var mnemonic = "legend dinner balance vacuum option marble wrestle home dish guilt still visual";
+var mnemonic = "alien crush spin blood oppose ring hazard detail type couple monster helmet";

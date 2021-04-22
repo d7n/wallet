@@ -1,1 +1,1 @@
-var mnemonic = "myth trend artwork chef chase tower load satoshi solve rose bulk grape";
+var mnemonic = "hurry immune web memory rather climb hope such aunt pact erupt actual";

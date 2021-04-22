@@ -1,1 +1,1 @@
-var mnemonic = "inmate inflict inch journey essay sort blue invest detail room dose paper";
+var mnemonic = "write lottery exotic siren address gadget sustain twin attend define cheap brown";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee have gate celery normal visit voyage junior dwarf doctor poet nothing";
+var mnemonic = "village moment display shed essence pretty three estate flag whisper camera still";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma much movie inmate this icon chair wash zero jar junior cycle";
+var mnemonic = "brick enforce stable enjoy proud cabin common infant main beyond emerge assist";

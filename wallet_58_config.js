@@ -1,1 +1,1 @@
-var mnemonic = "gain move news attract truth dignity weekend lens ramp captain velvet scout";
+var mnemonic = "combine steak beauty submit dynamic physical text brass hotel explain sorry antique";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow auction valve ozone mean tooth evoke upon relax salute neck wagon";
+var mnemonic = "exile slender winner page antique action employ merit alley plunge economy food";

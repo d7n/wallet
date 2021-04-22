@@ -1,1 +1,1 @@
-var mnemonic = "attend split find absorb panther session cloud motor sick fox umbrella three";
+var mnemonic = "begin giraffe return trumpet never into uncle alien that have wear random";

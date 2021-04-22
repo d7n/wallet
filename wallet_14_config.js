@@ -1,1 +1,1 @@
-var mnemonic = "submit bag wonder envelope quarter switch family citizen unveil latin clip fault";
+var mnemonic = "noise wrist doctor vast enjoy detail taste recipe surround broken manage theory";

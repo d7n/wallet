@@ -1,1 +1,1 @@
-var mnemonic = "note sand exchange random tonight mention name token rely solution vacant kid";
+var mnemonic = "modify task episode absorb toddler frost inject canal hint flight slush dynamic";

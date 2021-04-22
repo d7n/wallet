@@ -1,1 +1,1 @@
-var mnemonic = "acoustic estate tonight raccoon sibling pole couple scheme dinosaur size other flight";
+var mnemonic = "tenant manage figure shallow join arrange wife pulp upset scout monkey hello";

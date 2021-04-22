@@ -1,1 +1,1 @@
-var mnemonic = "wish host zebra absent rather tube phone feed voice blood term crazy";
+var mnemonic = "seed lava wrong brain lake water today federal cost axis confirm major";

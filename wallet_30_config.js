@@ -1,1 +1,1 @@
-var mnemonic = "patient polar candy exotic sail tribe antenna bomb diet angle arrest grocery";
+var mnemonic = "nature access east universe panda wide include melt critic turkey bus window";

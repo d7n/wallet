@@ -1,1 +1,1 @@
-var mnemonic = "coral judge jazz review purchase found live screen retreat furnace detect puppy";
+var mnemonic = "zone alert jeans outer hope record swarm saddle hurt hover guard dose";

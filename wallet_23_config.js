@@ -1,1 +1,1 @@
-var mnemonic = "affair gauge thunder office require butter horror blossom again metal correct desk";
+var mnemonic = "key aware lamp reflect fog marriage badge local speed virus primary tortoise";

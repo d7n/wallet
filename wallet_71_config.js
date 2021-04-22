@@ -1,1 +1,1 @@
-var mnemonic = "cereal window apple fantasy super during grid series awesome describe tool service";
+var mnemonic = "april casino barely army friend clean dial season hawk north stove weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "garden quality accuse surprise wreck gospel depth chest vocal pony various radar";
+var mnemonic = "profit assume blur document forum start fix injury address apart skin blind";

@@ -1,1 +1,1 @@
-var mnemonic = "flame two soup chief reveal palace mail fence job hard borrow crash";
+var mnemonic = "hello clerk ahead mushroom world history absorb liberty mandate oak mixed elephant";

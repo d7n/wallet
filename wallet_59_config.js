@@ -1,1 +1,1 @@
-var mnemonic = "mixed dismiss educate arch art tiny reveal west squirrel essay axis glove";
+var mnemonic = "arrow video entry fatigue attract frown velvet palace orphan also army pair";

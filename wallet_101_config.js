@@ -1,1 +1,1 @@
-var mnemonic = "leave offer dizzy umbrella unfair reform earth tennis patrol giggle upgrade trap";
+var mnemonic = "wrap angry danger shaft clap frog crucial silver valid soldier jaguar enjoy";

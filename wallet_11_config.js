@@ -1,1 +1,1 @@
-var mnemonic = "always battle gold snack weather property mom sponsor remind six health hood";
+var mnemonic = "candy trick home soft tank private sting bone element like click sugar";

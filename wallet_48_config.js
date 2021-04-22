@@ -1,1 +1,1 @@
-var mnemonic = "museum opera margin forest dream steak riot game cook gallery identify record";
+var mnemonic = "derive put wing usage private buyer ignore inch trip short already such";

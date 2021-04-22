@@ -1,1 +1,1 @@
-var mnemonic = "glance diary figure patrol dish tool world love athlete filter siege idle";
+var mnemonic = "assume list pill smoke room spice pelican jewel cereal walnut media supreme";

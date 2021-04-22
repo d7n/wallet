@@ -1,1 +1,1 @@
-var mnemonic = "giggle antique rotate among fitness dad property fish snake current spawn involve";
+var mnemonic = "focus pipe zero client female phone record employ finish grab dirt sense";

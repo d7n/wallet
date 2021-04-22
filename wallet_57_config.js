@@ -1,1 +1,1 @@
-var mnemonic = "view plastic parade phone push humor deal retire fashion inhale ivory hundred";
+var mnemonic = "churn quality rhythm impact random public room tell traffic tribe upper draw";

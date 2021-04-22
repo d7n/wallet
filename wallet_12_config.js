@@ -1,1 +1,1 @@
-var mnemonic = "sweet unable brand drive region fall believe power verify fog dirt strike";
+var mnemonic = "boil clap aware actress puzzle female evidence mango leaf alley win symptom";

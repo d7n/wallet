@@ -1,1 +1,1 @@
-var mnemonic = "sport confirm furnace boil woman mansion fall zero easily infant push entire";
+var mnemonic = "amount stem lecture kitchen holiday misery parrot purse order rack tackle enact";

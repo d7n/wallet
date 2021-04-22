@@ -1,1 +1,1 @@
-var mnemonic = "knife sheriff faint loyal eyebrow ghost winner lift aspect awake derive charge";
+var mnemonic = "book test rule long zoo tool famous diamond stairs citizen miss romance";

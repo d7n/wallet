@@ -1,1 +1,1 @@
-var mnemonic = "swarm loud beach engine elite venture age act devote extra law sight";
+var mnemonic = "exchange stomach have company situate nothing rail crane outdoor ivory solve toast";

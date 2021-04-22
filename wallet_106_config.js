@@ -1,1 +1,1 @@
-var mnemonic = "fresh next deposit drip much minute elegant over twist into rocket truck";
+var mnemonic = "track tone claim identify nature embody admit camp ethics uniform unusual list";

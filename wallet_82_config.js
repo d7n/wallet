@@ -1,1 +1,1 @@
-var mnemonic = "citizen artwork bonus another deputy lawn nation cave until tunnel mom tennis";
+var mnemonic = "hidden canal lab vacuum matrix siege tilt upon wet transfer quality bone";

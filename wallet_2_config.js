@@ -1,1 +1,1 @@
-var mnemonic = "pond radar eagle orphan doll bean asthma island badge chuckle fly carbon";
+var mnemonic = "rescue duck item region victory rare cover april drastic summer sign social";

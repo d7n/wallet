@@ -1,1 +1,1 @@
-var mnemonic = "mistake van mother divorce viable protect miss phone program return age involve";
+var mnemonic = "logic deer law clown light vehicle answer valve blame misery donor mixed";

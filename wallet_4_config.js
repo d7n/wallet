@@ -1,1 +1,1 @@
-var mnemonic = "possible bargain still wasp fringe laptop bargain chapter erase draw ordinary spread";
+var mnemonic = "pig network unable gesture biology apology coyote eternal outer journey edge rifle";

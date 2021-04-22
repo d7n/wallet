@@ -1,1 +1,1 @@
-var mnemonic = "dilemma spare bracket version crane volume rookie memory catch spin runway galaxy";
+var mnemonic = "portion differ nephew snow bright gun slam execute coconut fold gesture genius";

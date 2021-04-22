@@ -1,1 +1,1 @@
-var mnemonic = "window immune identify jelly hello grass lawsuit elegant reject squeeze physical claim";
+var mnemonic = "bundle change cabbage child finger ask garbage luxury marble athlete round push";

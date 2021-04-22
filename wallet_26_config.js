@@ -1,1 +1,1 @@
-var mnemonic = "scout aisle phone attitude can intact animal young isolate lucky deal behind";
+var mnemonic = "average flash distance slice ability jacket wife fox cushion smooth expect tiny";

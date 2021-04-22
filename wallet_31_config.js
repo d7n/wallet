@@ -1,1 +1,1 @@
-var mnemonic = "exit topple setup useful stand student east solution cloth wasp reject save";
+var mnemonic = "depend afford gallery fee length rib increase thumb purse express uncover public";

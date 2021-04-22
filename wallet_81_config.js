@@ -1,1 +1,1 @@
-var mnemonic = "honey wrist across dress skill tackle reflect useless kitchen roof marine nominee";
+var mnemonic = "pen phone grab castle slab hurdle rifle slot throw roof corn talent";

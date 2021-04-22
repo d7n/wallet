@@ -1,1 +1,1 @@
-var mnemonic = "opera sentence stuff put horn hair chuckle valley ticket case method core";
+var mnemonic = "exchange symbol shine peace tornado wealth you tell traffic giant lunch three";

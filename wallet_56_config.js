@@ -1,1 +1,1 @@
-var mnemonic = "arrange crew nest later rather super current reason mad aisle security wonder";
+var mnemonic = "dial news session audit census attitude tower direct parade burden section ladder";

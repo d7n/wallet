@@ -1,1 +1,1 @@
-var mnemonic = "silent keen angry brush minor lift work athlete hammer drum symbol couch";
+var mnemonic = "zebra olive repair satoshi end gravity country rival ten sun crunch couple";

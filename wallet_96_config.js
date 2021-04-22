@@ -1,1 +1,1 @@
-var mnemonic = "run sausage occur pair arrange team apart enforce explain sheriff measure soup";
+var mnemonic = "notable sketch one curve member steel ankle master push skirt ethics east";

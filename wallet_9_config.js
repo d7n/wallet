@@ -1,1 +1,1 @@
-var mnemonic = "iron law real cargo model soccer near athlete insect dust patrol tuna";
+var mnemonic = "give basket ankle wide bonus notice scan slogan trash possible liar churn";

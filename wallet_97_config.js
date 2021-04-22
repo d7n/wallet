@@ -1,1 +1,1 @@
-var mnemonic = "genre soft ball resist garlic orphan material reward bar razor reason excuse";
+var mnemonic = "soon receive purse bamboo frozen panic tiny obey mom point come sweet";

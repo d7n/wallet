@@ -1,1 +1,1 @@
-var mnemonic = "index bachelor blue bullet penalty destroy train blood history cup idea access";
+var mnemonic = "infant prize enter fly behave muffin vapor shaft secret hold much nest";

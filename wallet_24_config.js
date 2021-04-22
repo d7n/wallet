@@ -1,1 +1,1 @@
-var mnemonic = "measure sniff screen type casual penalty lonely swear defense sport people bomb";
+var mnemonic = "quote toe tornado alien render under angry critic thrive letter they essence";

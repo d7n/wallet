@@ -1,1 +1,1 @@
-var mnemonic = "anxiety social year quit special input rotate next raccoon absurd extra flash";
+var mnemonic = "romance stereo planet guard vibrant increase snow tube chief mixture bench enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "minor season alone frame seek source room group comfort peace brown panda";
+var mnemonic = "whip enemy someone violin uncover swing popular endless paper wealth manual ketchup";

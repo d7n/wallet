@@ -1,1 +1,1 @@
-var mnemonic = "throw pumpkin roast desk romance spray acoustic exile camp fog dutch echo";
+var mnemonic = "damage small goose flip merge tone clip duck situate exhaust sketch sphere";
