@@ -1,1 +1,1 @@
-var mnemonic = "bronze hire rotate host alone anger party duty treat quit hold fatal";
+var mnemonic = "left vehicle total funny equal attitude stumble pony emotion report explain drip";

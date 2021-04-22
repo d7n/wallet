@@ -1,1 +1,1 @@
-var mnemonic = "scale shove answer trumpet direct length number network skull normal wheel absurd";
+var mnemonic = "rabbit ginger bright pause cinnamon minor glide dice rapid violin blood hat";

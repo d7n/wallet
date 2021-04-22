@@ -1,1 +1,1 @@
-var mnemonic = "fine winter subject record swap finger code venture network unfold absorb come";
+var mnemonic = "since enemy airport chair egg claim hour bitter energy avoid purse spawn";

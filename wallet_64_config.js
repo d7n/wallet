@@ -1,1 +1,1 @@
-var mnemonic = "gossip theory trick repeat exact aim spider inherit glare scrap tail parent";
+var mnemonic = "emotion convince fence please radar must garbage agent nut talk evidence rather";

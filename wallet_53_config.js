@@ -1,1 +1,1 @@
-var mnemonic = "angry review exile write tomato spell month adult supreme south require organ";
+var mnemonic = "husband earth illegal census wear lizard worth maze angry copy ill jealous";

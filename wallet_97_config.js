@@ -1,1 +1,1 @@
-var mnemonic = "scorpion zone stomach barely improve occur bar mother gesture success brass surge";
+var mnemonic = "syrup soldier celery obscure echo worth step safe enable time fiction garden";

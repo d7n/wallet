@@ -1,1 +1,1 @@
-var mnemonic = "keen near noise tonight school cool vacuum flash absorb atom source bus";
+var mnemonic = "route judge wealth tape firm avoid sugar beach west clip section teach";

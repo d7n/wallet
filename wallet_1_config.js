@@ -1,1 +1,1 @@
-var mnemonic = "smile right gentle tower oppose panda balcony slim jewel upon spider blood";
+var mnemonic = "two atom valley curious engage raise biology kiwi cost enjoy hammer doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "black north veteran dentist sign noble farm crunch possible sand rabbit scare";
+var mnemonic = "betray wait endless history unable infant coffee snow vanish capable trap dad";

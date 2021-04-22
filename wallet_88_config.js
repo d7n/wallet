@@ -1,1 +1,1 @@
-var mnemonic = "setup emotion among north top whip gossip parent prison gas paddle desk";
+var mnemonic = "ramp invite gasp decline wing purity garbage level evoke frost bottom coffee";

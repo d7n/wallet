@@ -1,1 +1,1 @@
-var mnemonic = "ripple asset strong flame rapid switch bitter essence donkey only art student";
+var mnemonic = "cliff sibling eyebrow exist erosion slot lunar orchard future ocean truth birth";

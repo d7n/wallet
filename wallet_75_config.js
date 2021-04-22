@@ -1,1 +1,1 @@
-var mnemonic = "buddy curve general snow link woman wrong two abandon chest damp melody";
+var mnemonic = "scrub ramp trust elephant frame surge explain dance evoke hobby scene fortune";

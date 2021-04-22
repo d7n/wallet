@@ -1,1 +1,1 @@
-var mnemonic = "coffee sound unaware tongue whisper sadness museum slab faculty govern region pledge";
+var mnemonic = "note legend eight dignity kitchen venture insect cup patient raise mirror sustain";

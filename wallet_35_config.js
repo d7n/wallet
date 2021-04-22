@@ -1,1 +1,1 @@
-var mnemonic = "distance foot patient recycle genius labor window chalk rug copy salmon shrimp";
+var mnemonic = "resemble cry story bachelor vessel embody pupil ready sorry rabbit afraid fit";

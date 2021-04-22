@@ -1,1 +1,1 @@
-var mnemonic = "way hotel river announce front inform impact use brother urge another utility";
+var mnemonic = "pony acoustic tank blast orchard dismiss found pigeon excess hour boring caught";

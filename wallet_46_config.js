@@ -1,1 +1,1 @@
-var mnemonic = "output then pudding involve portion noise merge nose artefact swim road limit";
+var mnemonic = "road farm reject unit few bar gorilla camp sponsor chalk attack lesson";

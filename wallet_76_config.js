@@ -1,1 +1,1 @@
-var mnemonic = "will caught struggle evidence horse monster eight ordinary guitar frequent bless uncle";
+var mnemonic = "blush delay cool tape path elder tornado valve plug report armed immense";

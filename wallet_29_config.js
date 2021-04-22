@@ -1,1 +1,1 @@
-var mnemonic = "tuna edit toddler side short mystery enact print bitter tribe figure barrel";
+var mnemonic = "tree usage ticket tonight ring rhythm clean welcome liberty burden crowd delay";

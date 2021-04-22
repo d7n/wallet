@@ -1,1 +1,1 @@
-var mnemonic = "heavy mimic mistake robot already chef shoulder cable ocean true category nest";
+var mnemonic = "join current piano penalty odor nest slice knife okay enemy yellow rich";

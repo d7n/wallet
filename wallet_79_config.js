@@ -1,1 +1,1 @@
-var mnemonic = "oyster cheese dismiss eager omit rigid jungle talk talent shell wood vacuum";
+var mnemonic = "blue crack unique dentist saddle rice chest unveil trophy mango quantum emotion";

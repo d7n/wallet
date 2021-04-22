@@ -1,1 +1,1 @@
-var mnemonic = "route stone fetch nothing entry index rib axis ordinary venue clever lizard";
+var mnemonic = "expose muffin peasant police wedding battle artefact trip course tell cup uniform";

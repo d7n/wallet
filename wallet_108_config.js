@@ -1,1 +1,1 @@
-var mnemonic = "alter bird catalog jacket number clever elephant smoke gift language priority ignore";
+var mnemonic = "lava owner plate captain endless key list thank nature bar kangaroo gas";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot blush laundry gadget similar goddess boat duck recipe human hero gadget";
+var mnemonic = "shoe nurse omit various thunder just canvas icon very creek gesture satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "gap resist near coast people oxygen mask size craft absent power loud";
+var mnemonic = "announce illness multiply sell bracket throw awful sunny matrix then legend beef";

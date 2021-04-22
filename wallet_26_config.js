@@ -1,1 +1,1 @@
-var mnemonic = "casino focus space bitter crowd hair evolve wet gas net cushion giant";
+var mnemonic = "tiger vocal vintage people post panther pride skin olympic barrel gain notable";

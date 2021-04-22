@@ -1,1 +1,1 @@
-var mnemonic = "juice win sustain town uniform pair kangaroo example ride charge pigeon mystery";
+var mnemonic = "furnace crystal agent afford poem grief major seek custom innocent lamp prize";

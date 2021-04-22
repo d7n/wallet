@@ -1,1 +1,1 @@
-var mnemonic = "fiber cable arrow chief accuse second maximum suspect coil fresh skull prefer";
+var mnemonic = "tape able later blame tape anchor inside knee erupt burger month marine";

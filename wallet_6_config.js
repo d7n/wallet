@@ -1,1 +1,1 @@
-var mnemonic = "task bridge control worth wealth awful auction supply army because mirror another";
+var mnemonic = "imitate foam fortune evidence option window genuine any satoshi first cage divert";

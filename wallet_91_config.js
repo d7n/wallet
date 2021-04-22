@@ -1,1 +1,1 @@
-var mnemonic = "crash young ranch clog keep air evoke action barrel trigger stadium pipe";
+var mnemonic = "mask upset runway mesh arctic agree motion boil depth opinion waste bench";

@@ -1,1 +1,1 @@
-var mnemonic = "memory name quantum entry rebel lawsuit essay shift illegal bomb federal filter";
+var mnemonic = "present slam antenna detail harvest sea super calm harsh enter group swim";

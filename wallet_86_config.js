@@ -1,1 +1,1 @@
-var mnemonic = "path estate report glove there describe rude original pyramid depart shine garment";
+var mnemonic = "pull stem torch busy raven stay curtain news heart sugar badge fence";

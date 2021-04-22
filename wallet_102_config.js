@@ -1,1 +1,1 @@
-var mnemonic = "puppy magic torch install setup panda stem cigar cry estate siren shiver";
+var mnemonic = "engage nerve thunder same right forum toast bench scan anger asset solar";

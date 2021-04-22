@@ -1,1 +1,1 @@
-var mnemonic = "butter puzzle april cry cricket solve fox view matrix setup cattle farm";
+var mnemonic = "hint skirt amount excess arrive sleep sort artwork inner scrub come opera";

@@ -1,1 +1,1 @@
-var mnemonic = "raise lemon shiver drill spell estate mimic swim frog clutch when kitten";
+var mnemonic = "lemon tool castle truth rather hole crash adult diesel wrap kit prison";

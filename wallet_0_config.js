@@ -1,1 +1,1 @@
-var mnemonic = "obtain average host fade diamond resist syrup outdoor rather surface meat runway";
+var mnemonic = "imitate birth like lounge fun sad place farm company foster ancient dove";

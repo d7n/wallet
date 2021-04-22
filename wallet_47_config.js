@@ -1,1 +1,1 @@
-var mnemonic = "call shove black fruit act indoor deliver spread impulse gossip someone render";
+var mnemonic = "main clerk twist run style pioneer fancy amazing grape frog vehicle weird";

@@ -1,1 +1,1 @@
-var mnemonic = "merge illness change section early dice shove tackle cram burger broccoli always";
+var mnemonic = "above inhale gorilla suggest chapter blast struggle simple idea keen desert return";

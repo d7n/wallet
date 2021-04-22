@@ -1,1 +1,1 @@
-var mnemonic = "doctor pause animal curtain elite stadium episode twenty mixed journey second spray";
+var mnemonic = "rabbit gym taste essence elephant category famous chicken rescue average prepare void";

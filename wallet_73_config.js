@@ -1,1 +1,1 @@
-var mnemonic = "wife lumber convince observe taste siren cross transfer reject good prize settle";
+var mnemonic = "convince scissors raw know knee bike alley hammer napkin amazing climb endorse";

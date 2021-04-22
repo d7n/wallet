@@ -1,1 +1,1 @@
-var mnemonic = "enough destroy glory ankle south divide expose relax behave offer letter scale";
+var mnemonic = "injury fit insane later lesson giggle confirm inform rapid bless worry royal";

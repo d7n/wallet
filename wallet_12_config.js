@@ -1,1 +1,1 @@
-var mnemonic = "wealth exhibit judge match group theory velvet caught boost saddle industry crop";
+var mnemonic = "ugly elegant friend sport various clog leader cliff heavy floor bullet employ";

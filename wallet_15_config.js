@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo country own firm trouble sniff use slab stem address echo image";
+var mnemonic = "potato guilt boy tragic swift ketchup nasty mutual kidney doctor cannon real";

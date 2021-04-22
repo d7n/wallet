@@ -1,1 +1,1 @@
-var mnemonic = "engage flock produce mammal glance diet armed option antique relief uniform purse";
+var mnemonic = "dwarf rich liberty autumn cry now rib liquid quarter butter praise relax";

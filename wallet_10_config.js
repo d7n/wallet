@@ -1,1 +1,1 @@
-var mnemonic = "grass lyrics play this essence beyond blanket skirt swarm expand concert host";
+var mnemonic = "make faculty sound mom unfold resemble own palm stock ready liar cash";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger glance chat eyebrow grunt choose nothing scare dutch tackle juice illegal";
+var mnemonic = "mansion receive novel cute alarm adapt float idea student voyage weird select";

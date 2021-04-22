@@ -1,1 +1,1 @@
-var mnemonic = "auction prevent message program rebuild middle risk child oppose short robot video";
+var mnemonic = "burden pattern phone merry major rice panic attend bottom hollow shoulder sentence";

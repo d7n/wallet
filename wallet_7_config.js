@@ -1,1 +1,1 @@
-var mnemonic = "differ brave asthma olive mouse version resist ocean smart series clutch dawn";
+var mnemonic = "elegant task wonder motion cave promote bronze tuition master prevent deposit fortune";

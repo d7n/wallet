@@ -1,1 +1,1 @@
-var mnemonic = "domain identify supreme oxygen beef accuse tank usage genius quit earn wrap";
+var mnemonic = "achieve fame claw idea wheel umbrella apple plastic deny amused ladder six";

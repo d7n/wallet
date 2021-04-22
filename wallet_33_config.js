@@ -1,1 +1,1 @@
-var mnemonic = "climb village twice word dice avoid flavor number wrap spawn valley six";
+var mnemonic = "mushroom grit powder toilet margin voyage forum material leader differ soldier craft";

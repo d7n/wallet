@@ -1,1 +1,1 @@
-var mnemonic = "forget such chef differ measure float corn chicken banana hurry range hedgehog";
+var mnemonic = "crucial quote when water tip loan cheap hospital coin scheme emerge income";

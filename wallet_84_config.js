@@ -1,1 +1,1 @@
-var mnemonic = "strike short space front walk bike student diamond learn dash peasant master";
+var mnemonic = "bench stable clock elder smart emerge enroll off level vocal trap rice";

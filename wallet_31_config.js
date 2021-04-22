@@ -1,1 +1,1 @@
-var mnemonic = "use mushroom logic vintage bench critic glad become unusual wheat box they";
+var mnemonic = "transfer senior mesh borrow letter midnight cry essence interest unknown grab coil";

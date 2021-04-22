@@ -1,1 +1,1 @@
-var mnemonic = "remove vacuum trigger unable injury mention coyote still law fitness account swear";
+var mnemonic = "potato sunset between enact permit shaft chronic glass destroy hover jacket velvet";

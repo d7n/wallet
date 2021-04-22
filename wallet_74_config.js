@@ -1,1 +1,1 @@
-var mnemonic = "enhance prison document rebel human true horse leave cargo spread reunion frown";
+var mnemonic = "leg dial raccoon zebra keen rug demise bone amateur message shock seat";

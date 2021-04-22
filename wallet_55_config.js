@@ -1,1 +1,1 @@
-var mnemonic = "payment grape fragile garage ignore angle violin marble work tongue usual alcohol";
+var mnemonic = "control staff outside brass treat afford auction only broken fossil real admit";

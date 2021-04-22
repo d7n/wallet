@@ -1,1 +1,1 @@
-var mnemonic = "biology tomato various grief input clean project movie print rich speed pattern";
+var mnemonic = "diamond icon magnet pledge muscle original check dust stay tennis rubber sail";

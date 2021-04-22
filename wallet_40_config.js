@@ -1,1 +1,1 @@
-var mnemonic = "like finger scorpion cement announce virtual wise hammer broken quiz whale consider";
+var mnemonic = "invest hint wood december joy soul mountain suspect churn expose appear eternal";

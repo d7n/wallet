@@ -1,1 +1,1 @@
-var mnemonic = "kick fortune immune drum frame pig this foil lounge toast debris pause";
+var mnemonic = "cotton gossip insect run guard recall zero love swamp sudden gallery define";

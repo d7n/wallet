@@ -1,1 +1,1 @@
-var mnemonic = "toss receive crime plug lucky bleak party truth blossom element street leaf";
+var mnemonic = "forum main guitar already asthma person alpha pyramid neglect turn outdoor maximum";

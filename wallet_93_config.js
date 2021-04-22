@@ -1,1 +1,1 @@
-var mnemonic = "vapor east click copy water fiber spin skin series sting execute pen";
+var mnemonic = "yard certain rural inform elegant midnight focus rent crawl quiz anchor sound";

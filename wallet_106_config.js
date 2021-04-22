@@ -1,1 +1,1 @@
-var mnemonic = "fence cradle alter rather prize rain luxury demise arctic devote spell dice";
+var mnemonic = "must hockey hard fetch story mandate unfold dance canyon child letter print";

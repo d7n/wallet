@@ -1,1 +1,1 @@
-var mnemonic = "slide glide electric october buffalo broom achieve tragic camp caution parrot beyond";
+var mnemonic = "print giraffe nasty become sun usual forget dry retire turkey reason rookie";

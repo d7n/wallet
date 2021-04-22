@@ -1,1 +1,1 @@
-var mnemonic = "jewel comfort code display horn cabbage alter sing crisp duck inhale issue";
+var mnemonic = "uncle endorse winter lawsuit exclude glove render comic hover innocent metal general";

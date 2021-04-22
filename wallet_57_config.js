@@ -1,1 +1,1 @@
-var mnemonic = "carpet atom curious disease tuition pony feel flat panic eagle opinion welcome";
+var mnemonic = "dwarf few save view staff voice rely slim describe install bracket sock";

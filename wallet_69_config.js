@@ -1,1 +1,1 @@
-var mnemonic = "shallow possible quiz initial barrel struggle mind cruel identify renew emerge faint";
+var mnemonic = "body wall detect fold punch physical muscle avoid arena remind mushroom laundry";

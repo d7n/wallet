@@ -1,1 +1,1 @@
-var mnemonic = "zoo small liberty price clean year toe wedding glimpse home can voice";
+var mnemonic = "security rebel tide ugly saddle dynamic grain journey ignore hawk shell blanket";

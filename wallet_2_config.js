@@ -1,1 +1,1 @@
-var mnemonic = "bulk enemy donkey once dose slide rent response drift robust travel dance";
+var mnemonic = "remain stamp office donate success tornado shaft budget essay pipe miracle gun";

@@ -1,1 +1,1 @@
-var mnemonic = "medal lion evolve tilt gloom away simple camp evidence dad never clinic";
+var mnemonic = "forum dinosaur smart enjoy spot mixture payment beef velvet snack scheme snack";

@@ -1,1 +1,1 @@
-var mnemonic = "wood census pitch try magic sample nuclear image knee twelve tribe announce";
+var mnemonic = "glance there home blush army enter motion sad inmate banner refuse pioneer";

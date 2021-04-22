@@ -1,1 +1,1 @@
-var mnemonic = "forum kick edit miss judge pizza plug damage hundred paper appear breeze";
+var mnemonic = "habit cover put echo bus visit attract pact sponsor odor kidney confirm";

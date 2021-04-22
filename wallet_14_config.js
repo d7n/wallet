@@ -1,1 +1,1 @@
-var mnemonic = "wild code oppose kiss bus utility shed soda river crucial tonight actress";
+var mnemonic = "trigger can castle steel piano bright train language arrange correct involve jaguar";

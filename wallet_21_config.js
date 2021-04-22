@@ -1,1 +1,1 @@
-var mnemonic = "famous zero next glide already hobby column loud install sunny filter error";
+var mnemonic = "jungle season virtual capable seed direct define amateur donor gown diary view";

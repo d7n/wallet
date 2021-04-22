@@ -1,1 +1,1 @@
-var mnemonic = "when ozone early wet feed road dismiss cake soon quantum shallow water";
+var mnemonic = "embark enough view leaf alley slot divorce print engine odor ketchup hollow";

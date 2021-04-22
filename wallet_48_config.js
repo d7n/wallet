@@ -1,1 +1,1 @@
-var mnemonic = "obey cluster song make donkey category panel insect myth assume junior dentist";
+var mnemonic = "inspire surge index distance derive lemon weekend flavor disorder board sunny kite";

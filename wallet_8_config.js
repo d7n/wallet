@@ -1,1 +1,1 @@
-var mnemonic = "cage assault donor sentence youth tuition left bullet name sword ask cloud";
+var mnemonic = "muffin doll about inform subject captain useless twin peace color outer cry";

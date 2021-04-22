@@ -1,1 +1,1 @@
-var mnemonic = "case tape tissue glove hurt ripple tilt world paper chief energy dwarf";
+var mnemonic = "photo deny jungle address remind nasty beyond finger rally combine arrange earth";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond upgrade connect junk night nominee case height clay bench bus skirt";
+var mnemonic = "february general leisure canoe blame render record melody fringe cactus pair buzz";

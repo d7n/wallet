@@ -1,1 +1,1 @@
-var mnemonic = "cradle when nice acquire leaf drum connect plate radio social organ analyst";
+var mnemonic = "tide cliff estate equip area chaos muffin cube kite wheat deny cricket";

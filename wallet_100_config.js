@@ -1,1 +1,1 @@
-var mnemonic = "creek mule canvas renew glimpse trade elbow hazard skull satoshi fringe orient";
+var mnemonic = "liberty alpha faculty industry coral across blossom seat weekend surround struggle call";

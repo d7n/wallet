@@ -1,1 +1,1 @@
-var mnemonic = "pledge fat exile jazz wolf curtain curve round elite blossom kidney mother";
+var mnemonic = "boring air celery screen strong cabbage false shiver frame fruit switch foster";

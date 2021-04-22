@@ -1,1 +1,1 @@
-var mnemonic = "recycle shed wire rival guard push spider divide convince demise another kite";
+var mnemonic = "matrix curve destroy between inch wait measure wheat giraffe island reject century";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue accident afford wine scene flag december clog bacon shop early trash";
+var mnemonic = "uncover grape throw vital fall bleak metal hover worth voyage select surround";

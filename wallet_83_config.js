@@ -1,1 +1,1 @@
-var mnemonic = "rent blade sting wisdom guilt network height brain tornado coach blade ankle";
+var mnemonic = "latin clay warrior immune lake canyon slab whale into margin decrease napkin";
