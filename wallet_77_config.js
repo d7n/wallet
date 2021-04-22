@@ -1,1 +1,1 @@
-var mnemonic = "resemble unique daughter erase alter blush kingdom ride burden asthma owner trophy";
+var mnemonic = "ethics ice coach laptop assume vocal skull fabric lucky blouse inquiry wagon";

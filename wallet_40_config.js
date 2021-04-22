@@ -1,1 +1,1 @@
-var mnemonic = "genius sleep soul host exercise foam offer dragon rebuild pink saddle dolphin";
+var mnemonic = "like finger scorpion cement announce virtual wise hammer broken quiz whale consider";

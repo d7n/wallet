@@ -1,1 +1,1 @@
-var mnemonic = "cliff hard hover vintage taxi capital hope brain wink chuckle abuse myself";
+var mnemonic = "wealth exhibit judge match group theory velvet caught boost saddle industry crop";

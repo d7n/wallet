@@ -1,1 +1,1 @@
-var mnemonic = "provide squirrel grant plastic garbage labor blossom wash ankle evoke vast phone";
+var mnemonic = "come rough limit detect north bullet grant magic fever magnet twenty blood";

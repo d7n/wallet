@@ -1,1 +1,1 @@
-var mnemonic = "marriage jazz grab nasty belt echo tube peanut guilt coil protect copy";
+var mnemonic = "domain identify supreme oxygen beef accuse tank usage genius quit earn wrap";

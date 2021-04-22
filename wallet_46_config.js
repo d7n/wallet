@@ -1,1 +1,1 @@
-var mnemonic = "lunar acquire drive have during valley topple such light dash cup isolate";
+var mnemonic = "output then pudding involve portion noise merge nose artefact swim road limit";

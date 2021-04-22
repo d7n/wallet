@@ -1,1 +1,1 @@
-var mnemonic = "joy strike hello crush soul bid vendor kick prison task kid regular";
+var mnemonic = "anchor clog myself nothing skill bottom grit result there argue either cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle tackle absurd social odor receive doctor witness voice afford surprise drift";
+var mnemonic = "jewel comfort code display horn cabbage alter sing crisp duck inhale issue";

@@ -1,1 +1,1 @@
-var mnemonic = "frost rival jacket boss lobster pony easily armed whale advance warrior coast";
+var mnemonic = "slide glide electric october buffalo broom achieve tragic camp caution parrot beyond";

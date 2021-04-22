@@ -1,1 +1,1 @@
-var mnemonic = "scene interest arrow farm husband book armor whale episode debate guide alert";
+var mnemonic = "voice eye wear slow oval width update hedgehog access twice pulse much";

@@ -1,1 +1,1 @@
-var mnemonic = "choose youth first surround rude rug also gallery damp devote noble medal";
+var mnemonic = "kiss border raise loop cushion stone spatial custom hotel shell speak brave";

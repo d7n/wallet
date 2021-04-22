@@ -1,1 +1,1 @@
-var mnemonic = "penalty cake rotate rural void blame achieve congress swamp present inject quick";
+var mnemonic = "case tape tissue glove hurt ripple tilt world paper chief energy dwarf";

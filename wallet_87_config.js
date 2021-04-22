@@ -1,1 +1,1 @@
-var mnemonic = "resemble manage tortoise offer cupboard liberty toe offer angle above client trash";
+var mnemonic = "spin lion above input pond speed surge jazz fabric pluck gasp obtain";

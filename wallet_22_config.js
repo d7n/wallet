@@ -1,1 +1,1 @@
-var mnemonic = "blanket knee over tribe tattoo hire proud million edit chimney blanket goose";
+var mnemonic = "wood census pitch try magic sample nuclear image knee twelve tribe announce";

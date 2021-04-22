@@ -1,1 +1,1 @@
-var mnemonic = "vacuum security will arena intact earn erase shiver cabin stadium hawk fatal";
+var mnemonic = "medal lion evolve tilt gloom away simple camp evidence dad never clinic";

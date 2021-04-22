@@ -1,1 +1,1 @@
-var mnemonic = "damage deposit require citizen mesh letter desk trade inquiry reason exchange city";
+var mnemonic = "excuse critic ice produce stay proud cream length mom whip proud glow";

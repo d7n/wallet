@@ -1,1 +1,1 @@
-var mnemonic = "burden load kite fall enact clip clerk unknown vanish bachelor critic sister";
+var mnemonic = "result exist wild bulk wage slide fence van all firm cook program";

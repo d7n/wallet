@@ -1,1 +1,1 @@
-var mnemonic = "grief obvious enhance future glance finger fatigue reject wool calm shoulder gravity";
+var mnemonic = "task bridge control worth wealth awful auction supply army because mirror another";

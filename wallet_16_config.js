@@ -1,1 +1,1 @@
-var mnemonic = "slot dream margin imitate vessel laptop night alone fiscal weasel sport such";
+var mnemonic = "recycle shed wire rival guard push spider divide convince demise another kite";

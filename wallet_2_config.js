@@ -1,1 +1,1 @@
-var mnemonic = "abstract intact view armed another sell damage pony theory peanut novel syrup";
+var mnemonic = "bulk enemy donkey once dose slide rent response drift robust travel dance";

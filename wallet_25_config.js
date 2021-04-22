@@ -1,1 +1,1 @@
-var mnemonic = "choose pet image stumble depth goddess gun riot hockey mutual million start";
+var mnemonic = "chuckle slide west still fold fresh estate mosquito area forum admit sign";

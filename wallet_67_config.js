@@ -1,1 +1,1 @@
-var mnemonic = "equal hurdle machine battle embrace bean idea arrive glide capable month cattle";
+var mnemonic = "enroll tent snack muffin glide social tomato bird used trim misery pluck";

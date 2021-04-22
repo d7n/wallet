@@ -1,1 +1,1 @@
-var mnemonic = "nasty wife almost inject wait switch provide toilet profit radar friend beyond";
+var mnemonic = "casino focus space bitter crowd hair evolve wet gas net cushion giant";

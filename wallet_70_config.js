@@ -1,1 +1,1 @@
-var mnemonic = "december indicate concert ball rural become service proof rose net involve meadow";
+var mnemonic = "doctor pause animal curtain elite stadium episode twenty mixed journey second spray";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity sleep when zone sport grape split deal mirror venture betray pluck";
+var mnemonic = "famous zero next glide already hobby column loud install sunny filter error";

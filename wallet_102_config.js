@@ -1,1 +1,1 @@
-var mnemonic = "element course effort endorse stick chair settle any region rather spare october";
+var mnemonic = "puppy magic torch install setup panda stem cigar cry estate siren shiver";

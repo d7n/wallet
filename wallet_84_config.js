@@ -1,1 +1,1 @@
-var mnemonic = "mechanic deer clever wasp canyon draw position suit planet follow forest want";
+var mnemonic = "strike short space front walk bike student diamond learn dash peasant master";

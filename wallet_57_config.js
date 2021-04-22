@@ -1,1 +1,1 @@
-var mnemonic = "deliver still clown engage airport talent useless foil spoon boy birth source";
+var mnemonic = "carpet atom curious disease tuition pony feel flat panic eagle opinion welcome";

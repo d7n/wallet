@@ -1,1 +1,1 @@
-var mnemonic = "regular carbon wasp exile crisp setup major glove horn absent copper wrap";
+var mnemonic = "vapor east click copy water fiber spin skin series sting execute pen";

@@ -1,1 +1,1 @@
-var mnemonic = "large enact ostrich discover purpose cake moon pave cancel bean know ordinary";
+var mnemonic = "tissue accident afford wine scene flag december clog bacon shop early trash";

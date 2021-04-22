@@ -1,1 +1,1 @@
-var mnemonic = "steak comic level ready stable key search type culture light talent rack";
+var mnemonic = "coffee sound unaware tongue whisper sadness museum slab faculty govern region pledge";

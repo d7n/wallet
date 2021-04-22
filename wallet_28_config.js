@@ -1,1 +1,1 @@
-var mnemonic = "have sample dentist december lunch snake swamp casino ostrich mad airport wife";
+var mnemonic = "keen near noise tonight school cool vacuum flash absorb atom source bus";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction sand only mass cash coast elephant custom interest visual idle entire";
+var mnemonic = "wild code oppose kiss bus utility shed soda river crucial tonight actress";

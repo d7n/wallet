@@ -1,1 +1,1 @@
-var mnemonic = "category door taxi plastic begin small drink path butter winner upgrade salmon";
+var mnemonic = "engage flock produce mammal glance diet armed option antique relief uniform purse";

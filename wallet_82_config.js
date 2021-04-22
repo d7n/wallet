@@ -1,1 +1,1 @@
-var mnemonic = "topple vivid draft axis near wheat sound elbow furnace prepare board auto";
+var mnemonic = "aspect cruise brush belt engine kiss drum unit gadget assist enlist siege";

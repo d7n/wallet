@@ -1,1 +1,1 @@
-var mnemonic = "another author voice rally mistake spoil again liar tornado waste night define";
+var mnemonic = "oyster cheese dismiss eager omit rigid jungle talk talent shell wood vacuum";

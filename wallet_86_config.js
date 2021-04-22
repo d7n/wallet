@@ -1,1 +1,1 @@
-var mnemonic = "fence inherit error blood cinnamon regret increase key sphere cube join erupt";
+var mnemonic = "path estate report glove there describe rude original pyramid depart shine garment";

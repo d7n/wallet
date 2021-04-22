@@ -1,1 +1,1 @@
-var mnemonic = "blur symbol position predict fetch gather garage zebra guilt vintage swallow use";
+var mnemonic = "heavy mimic mistake robot already chef shoulder cable ocean true category nest";

@@ -1,1 +1,1 @@
-var mnemonic = "color exhibit push lottery famous record rather shoe penalty attract demise silk";
+var mnemonic = "tuna edit toddler side short mystery enact print bitter tribe figure barrel";

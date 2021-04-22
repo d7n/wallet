@@ -1,1 +1,1 @@
-var mnemonic = "purity into traffic act nose veteran project jeans unaware travel oblige crumble";
+var mnemonic = "enough destroy glory ankle south divide expose relax behave offer letter scale";

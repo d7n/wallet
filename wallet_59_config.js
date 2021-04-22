@@ -1,1 +1,1 @@
-var mnemonic = "book decide math crunch march detail vessel space obtain eternal evidence cotton";
+var mnemonic = "auction prevent message program rebuild middle risk child oppose short robot video";

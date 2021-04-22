@@ -1,1 +1,1 @@
-var mnemonic = "item spatial cinnamon thank wolf still fit age cheese theme sword palm";
+var mnemonic = "way hotel river announce front inform impact use brother urge another utility";

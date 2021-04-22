@@ -1,1 +1,1 @@
-var mnemonic = "silly corn soldier pottery news shoe extra raven lottery fold dune govern";
+var mnemonic = "angry review exile write tomato spell month adult supreme south require organ";

@@ -1,1 +1,1 @@
-var mnemonic = "unique impulse sail insect alcohol cup shell permit tired survey direct open";
+var mnemonic = "black north veteran dentist sign noble farm crunch possible sand rabbit scare";

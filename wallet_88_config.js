@@ -1,1 +1,1 @@
-var mnemonic = "marble chief frequent favorite never solar giant food practice skirt length panel";
+var mnemonic = "setup emotion among north top whip gossip parent prison gas paddle desk";

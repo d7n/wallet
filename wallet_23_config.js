@@ -1,1 +1,1 @@
-var mnemonic = "mutual famous rotate usual gorilla disease cousin disease cement boil claw rough";
+var mnemonic = "notable monkey adjust skull sadness post tongue mechanic income first wrap ski";

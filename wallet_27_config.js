@@ -1,1 +1,1 @@
-var mnemonic = "slender differ top crime stadium lounge smooth industry choose entire cattle rail";
+var mnemonic = "wreck protect throw note object minimum defense museum cluster video ahead sun";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat style quantum federal stable bar cabbage fitness trust dentist evil exact";
+var mnemonic = "exit embrace poem buddy upon normal bone crunch amount portion coach gloom";

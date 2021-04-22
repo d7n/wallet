@@ -1,1 +1,1 @@
-var mnemonic = "next swing farm blade vanish cool afraid come nuclear total add file";
+var mnemonic = "use mushroom logic vintage bench critic glad become unusual wheat box they";

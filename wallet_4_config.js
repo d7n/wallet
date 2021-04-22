@@ -1,1 +1,1 @@
-var mnemonic = "federal tourist suspect myself silver resemble oval jelly diary panther kitten pride";
+var mnemonic = "mechanic power yellow essay empower hand patch shove soft miss already crane";

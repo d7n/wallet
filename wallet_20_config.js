@@ -1,1 +1,1 @@
-var mnemonic = "try rebel lamp broccoli truck giant eager pony baby song tired gift";
+var mnemonic = "forget such chef differ measure float corn chicken banana hurry range hedgehog";

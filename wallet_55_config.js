@@ -1,1 +1,1 @@
-var mnemonic = "endorse luggage mystery light require peace fortune inflict horse opera proof main";
+var mnemonic = "payment grape fragile garage ignore angle violin marble work tongue usual alcohol";

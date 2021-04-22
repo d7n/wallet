@@ -1,1 +1,1 @@
-var mnemonic = "power rebel nest crucial leaf usual genius width pass already ginger student";
+var mnemonic = "distance foot patient recycle genius labor window chalk rug copy salmon shrimp";

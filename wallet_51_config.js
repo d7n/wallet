@@ -1,1 +1,1 @@
-var mnemonic = "street mountain toilet clump student exhaust sword enrich sunny split filter feed";
+var mnemonic = "juice win sustain town uniform pair kangaroo example ride charge pigeon mystery";

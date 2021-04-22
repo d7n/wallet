@@ -1,1 +1,1 @@
-var mnemonic = "raw puppy slogan frequent fresh van mango reflect habit diary deer south";
+var mnemonic = "kangaroo country own firm trouble sniff use slab stem address echo image";

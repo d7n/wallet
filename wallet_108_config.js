@@ -1,1 +1,1 @@
-var mnemonic = "resist dentist plug involve over basic slam brown rural salmon runway bid";
+var mnemonic = "alter bird catalog jacket number clever elephant smoke gift language priority ignore";

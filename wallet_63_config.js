@@ -1,1 +1,1 @@
-var mnemonic = "wreck citizen hockey fade account crystal gallery file heavy chuckle crop segment";
+var mnemonic = "acid barrel casino tuna endless sock regret logic cargo chuckle narrow seed";

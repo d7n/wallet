@@ -1,1 +1,1 @@
-var mnemonic = "phone alcohol main often ethics equip trophy rent order matter marble tail";
+var mnemonic = "fence cradle alter rather prize rain luxury demise arctic devote spell dice";

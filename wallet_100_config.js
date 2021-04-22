@@ -1,1 +1,1 @@
-var mnemonic = "coast squeeze amount gather demand once mesh vocal exile wolf digital bone";
+var mnemonic = "creek mule canvas renew glimpse trade elbow hazard skull satoshi fringe orient";

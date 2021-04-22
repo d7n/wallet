@@ -1,1 +1,1 @@
-var mnemonic = "coyote injury impose section august either pony title enter comfort domain double";
+var mnemonic = "obtain average host fade diamond resist syrup outdoor rather surface meat runway";

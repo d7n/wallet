@@ -1,1 +1,1 @@
-var mnemonic = "fragile chef tag rather text forget hockey tonight analyst pen embrace cricket";
+var mnemonic = "cruise sadness city garden reform identify display buddy reflect success identify bachelor";

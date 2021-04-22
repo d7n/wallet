@@ -1,1 +1,1 @@
-var mnemonic = "stick cigar accuse tool state air palm midnight plate monster law high";
+var mnemonic = "memory name quantum entry rebel lawsuit essay shift illegal bomb federal filter";

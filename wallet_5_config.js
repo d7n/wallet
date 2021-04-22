@@ -1,1 +1,1 @@
-var mnemonic = "roof cruise false upgrade cargo link recall warm reopen caution narrow echo";
+var mnemonic = "scale shove answer trumpet direct length number network skull normal wheel absurd";

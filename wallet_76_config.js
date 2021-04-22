@@ -1,1 +1,1 @@
-var mnemonic = "ball acoustic certain lake brush arrow trip volcano alley office speak sibling";
+var mnemonic = "will caught struggle evidence horse monster eight ordinary guitar frequent bless uncle";

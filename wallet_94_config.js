@@ -1,1 +1,1 @@
-var mnemonic = "solve smooth ranch harvest leopard agent later wagon moon oak craft ranch";
+var mnemonic = "forum kick edit miss judge pizza plug damage hundred paper appear breeze";

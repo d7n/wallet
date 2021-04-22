@@ -1,1 +1,1 @@
-var mnemonic = "tell dish area elephant castle neglect index silent must sad bike item";
+var mnemonic = "crash young ranch clog keep air evoke action barrel trigger stadium pipe";

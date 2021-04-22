@@ -1,1 +1,1 @@
-var mnemonic = "whale field lounge destroy outside melt what help alarm busy coast before";
+var mnemonic = "enhance prison document rebel human true horse leave cargo spread reunion frown";

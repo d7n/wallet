@@ -1,1 +1,1 @@
-var mnemonic = "swarm problem engage bachelor escape goddess voice scheme toss warfare region bread";
+var mnemonic = "toss receive crime plug lucky bleak party truth blossom element street leaf";

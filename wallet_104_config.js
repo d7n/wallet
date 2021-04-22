@@ -1,1 +1,1 @@
-var mnemonic = "surround tent gas smile safe curious torch sibling ball genre draw clever";
+var mnemonic = "kick fortune immune drum frame pig this foil lounge toast debris pause";

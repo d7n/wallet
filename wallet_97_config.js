@@ -1,1 +1,1 @@
-var mnemonic = "advice dragon hard raw clip undo adjust neglect fire horse end salute";
+var mnemonic = "scorpion zone stomach barely improve occur bar mother gesture success brass surge";

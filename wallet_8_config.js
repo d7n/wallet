@@ -1,1 +1,1 @@
-var mnemonic = "news sort party remember piano wheat material dish cream silver script peanut";
+var mnemonic = "cage assault donor sentence youth tuition left bullet name sword ask cloud";

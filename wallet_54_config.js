@@ -1,1 +1,1 @@
-var mnemonic = "spot prevent panther predict garlic web beef knife mass tip bean despair";
+var mnemonic = "ripple asset strong flame rapid switch bitter essence donkey only art student";

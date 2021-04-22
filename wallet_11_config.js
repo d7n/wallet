@@ -1,1 +1,1 @@
-var mnemonic = "judge tip outdoor artwork they wire desert file student travel lift banana";
+var mnemonic = "beyond upgrade connect junk night nominee case height clay bench bus skirt";

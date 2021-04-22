@@ -1,1 +1,1 @@
-var mnemonic = "drastic kind glance bulb curtain vanish kiss fever depth nurse fetch multiply";
+var mnemonic = "kind traffic all exhaust puzzle make lumber help pool main aspect object";

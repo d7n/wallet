@@ -1,1 +1,1 @@
-var mnemonic = "kingdom term heavy muscle siren battle giraffe salon sunset guitar flower urban";
+var mnemonic = "zoo small liberty price clean year toe wedding glimpse home can voice";

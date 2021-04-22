@@ -1,1 +1,1 @@
-var mnemonic = "glow escape patient surface holiday area tribe panel slow health tribe ignore";
+var mnemonic = "pilot blush laundry gadget similar goddess boat duck recipe human hero gadget";

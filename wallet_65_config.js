@@ -1,1 +1,1 @@
-var mnemonic = "siren struggle embody head episode account profit able setup series you subject";
+var mnemonic = "pledge fat exile jazz wolf curtain curve round elite blossom kidney mother";

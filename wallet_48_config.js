@@ -1,1 +1,1 @@
-var mnemonic = "already gate company race crane path charge lonely final satisfy punch bulb";
+var mnemonic = "obey cluster song make donkey category panel insect myth assume junior dentist";

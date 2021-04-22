@@ -1,1 +1,1 @@
-var mnemonic = "outdoor glory language order treat unique solution viable nasty peasant cage catch";
+var mnemonic = "differ brave asthma olive mouse version resist ocean smart series clutch dawn";

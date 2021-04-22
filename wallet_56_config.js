@@ -1,1 +1,1 @@
-var mnemonic = "device mandate blanket lift found video giraffe hill glimpse couch sunny raven";
+var mnemonic = "fiber cable arrow chief accuse second maximum suspect coil fresh skull prefer";

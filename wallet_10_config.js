@@ -1,1 +1,1 @@
-var mnemonic = "scrub coin walk clip beef giggle sword wrist art broccoli pyramid world";
+var mnemonic = "grass lyrics play this essence beyond blanket skirt swarm expand concert host";

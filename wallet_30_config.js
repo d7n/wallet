@@ -1,1 +1,1 @@
-var mnemonic = "giraffe portion rookie brain swap keep frog extra explain name dragon primary";
+var mnemonic = "basket autumn casual claim luggage bring eternal grass cloth object local mix";

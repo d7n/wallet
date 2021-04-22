@@ -1,1 +1,1 @@
-var mnemonic = "cradle emotion scan flame ginger buddy chunk act magic ball neck assist";
+var mnemonic = "shallow possible quiz initial barrel struggle mind cruel identify renew emerge faint";

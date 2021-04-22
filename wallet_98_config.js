@@ -1,1 +1,1 @@
-var mnemonic = "rival turkey phone process license then silly merry price follow cactus invite";
+var mnemonic = "butter puzzle april cry cricket solve fox view matrix setup cattle farm";

@@ -1,1 +1,1 @@
-var mnemonic = "license cattle connect few argue front verb assist bomb holiday illness absorb";
+var mnemonic = "silver father cupboard public cage follow patch master drama timber exchange melt";

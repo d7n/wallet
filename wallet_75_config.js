@@ -1,1 +1,1 @@
-var mnemonic = "tray supreme cement runway oblige west arctic reopen surface raccoon film cycle";
+var mnemonic = "buddy curve general snow link woman wrong two abandon chest damp melody";

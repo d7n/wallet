@@ -1,1 +1,1 @@
-var mnemonic = "evidence rack salt confirm north fork sudden buffalo chief power lumber flush";
+var mnemonic = "trigger glance chat eyebrow grunt choose nothing scare dutch tackle juice illegal";

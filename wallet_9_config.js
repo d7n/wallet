@@ -1,1 +1,1 @@
-var mnemonic = "tennis produce clerk destroy exercise dragon attract crash perfect divert ice problem";
+var mnemonic = "banana place enable belt angry logic ten surround unit index ketchup you";

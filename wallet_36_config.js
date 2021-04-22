@@ -1,1 +1,1 @@
-var mnemonic = "strike pluck sample mom degree topic fury usual lab chair anxiety wheel";
+var mnemonic = "when ozone early wet feed road dismiss cake soon quantum shallow water";

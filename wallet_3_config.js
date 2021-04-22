@@ -1,1 +1,1 @@
-var mnemonic = "sign chuckle trophy loop abstract ranch science suffer harbor wrestle shoe dinosaur";
+var mnemonic = "midnight trouble draw deny ugly possible aisle silver release cotton ugly peasant";
