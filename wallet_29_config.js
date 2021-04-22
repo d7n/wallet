@@ -1,1 +1,1 @@
-var mnemonic = "pool track hat glass west sort afraid scout loyal mule bone hill";
+var mnemonic = "chronic slam skull history early trash double labor junior humble decline amount";

@@ -1,1 +1,1 @@
-var mnemonic = "notable sketch one curve member steel ankle master push skirt ethics east";
+var mnemonic = "trim noodle trap ski wheel wool where outer live strike choice task";

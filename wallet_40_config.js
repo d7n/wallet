@@ -1,1 +1,1 @@
-var mnemonic = "tenant manage figure shallow join arrange wife pulp upset scout monkey hello";
+var mnemonic = "sunset remain dress sunny trial strong green early wrong resemble feel welcome";

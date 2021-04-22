@@ -1,1 +1,1 @@
-var mnemonic = "million ramp right keep remind elbow gossip advance neutral conduct weasel cloth";
+var mnemonic = "message long liberty dice increase office brand attract hub screen daughter cinnamon";

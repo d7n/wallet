@@ -1,1 +1,1 @@
-var mnemonic = "portion differ nephew snow bright gun slam execute coconut fold gesture genius";
+var mnemonic = "first people novel until obey usual grunt submit general better cushion rubber";

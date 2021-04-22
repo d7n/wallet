@@ -1,1 +1,1 @@
-var mnemonic = "alien crush spin blood oppose ring hazard detail type couple monster helmet";
+var mnemonic = "digital rally false caution false hundred saddle long west six fox pass";

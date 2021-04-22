@@ -1,1 +1,1 @@
-var mnemonic = "quote toe tornado alien render under angry critic thrive letter they essence";
+var mnemonic = "stage rug harbor tonight clean nuclear derive scrub alcohol usual monitor match";

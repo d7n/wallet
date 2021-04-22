@@ -1,1 +1,1 @@
-var mnemonic = "dress dilemma club snack spawn gym penalty icon husband among increase piano";
+var mnemonic = "bring barrel major gallery jungle split soap electric exist abuse birth then";

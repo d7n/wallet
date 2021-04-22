@@ -1,1 +1,1 @@
-var mnemonic = "anxiety witness inhale laundry illegal manual year borrow trumpet cousin cushion letter";
+var mnemonic = "enroll slim merit claw phrase century volcano story jungle obtain add grit";

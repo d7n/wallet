@@ -1,1 +1,1 @@
-var mnemonic = "length border tree peace ticket banner glove switch flash uncover album crop";
+var mnemonic = "potato supreme fragile pear frame three virus fun elbow repeat primary skirt";

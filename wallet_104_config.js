@@ -1,1 +1,1 @@
-var mnemonic = "gospel wear canal onion master lab right clerk oyster glove choice drum";
+var mnemonic = "kit never tide crawl exclude chief diesel real victory income crystal exclude";

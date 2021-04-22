@@ -1,1 +1,1 @@
-var mnemonic = "nature access east universe panda wide include melt critic turkey bus window";
+var mnemonic = "across dinosaur onion dragon bacon stumble pool this abandon view trial gold";

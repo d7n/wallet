@@ -1,1 +1,1 @@
-var mnemonic = "exile slender winner page antique action employ merit alley plunge economy food";
+var mnemonic = "crop donor slender spot morning inherit expose chef sound brand distance biology";

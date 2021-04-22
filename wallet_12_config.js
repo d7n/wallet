@@ -1,1 +1,1 @@
-var mnemonic = "boil clap aware actress puzzle female evidence mango leaf alley win symptom";
+var mnemonic = "observe hurt swear toss crane seek february slab thunder maze merry bag";

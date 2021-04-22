@@ -1,1 +1,1 @@
-var mnemonic = "output culture lyrics bachelor dutch length uncle unusual dinosaur cruel foam gas";
+var mnemonic = "tell bundle crucial bulb foil nerve goat void habit rose reopen surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic dice hip orange champion ceiling blur image pet city material account";
+var mnemonic = "term custom van circle better same toe process frozen asthma life wrestle";

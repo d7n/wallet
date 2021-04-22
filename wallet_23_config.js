@@ -1,1 +1,1 @@
-var mnemonic = "key aware lamp reflect fog marriage badge local speed virus primary tortoise";
+var mnemonic = "common idle resist fine warm scissors pigeon rely come canal type rocket";

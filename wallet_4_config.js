@@ -1,1 +1,1 @@
-var mnemonic = "pig network unable gesture biology apology coyote eternal outer journey edge rifle";
+var mnemonic = "between spread outside trash chuckle cover biology syrup taste damage main donkey";

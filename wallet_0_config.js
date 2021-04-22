@@ -1,1 +1,1 @@
-var mnemonic = "address lawn best coffee phrase output wage giraffe obvious corn bread tiny";
+var mnemonic = "toy metal cause exhaust hope neither sun kid casual cover room swamp";

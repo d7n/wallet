@@ -1,1 +1,1 @@
-var mnemonic = "can aunt drift cycle method defense project deposit sea dice language talent";
+var mnemonic = "tide genre media flat media course surge elegant diagram wealth dial wolf";

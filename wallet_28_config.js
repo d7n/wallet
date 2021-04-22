@@ -1,1 +1,1 @@
-var mnemonic = "hello clerk ahead mushroom world history absorb liberty mandate oak mixed elephant";
+var mnemonic = "moon hover brick first valley damp mushroom glass escape glad hotel bus";

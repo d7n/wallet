@@ -1,1 +1,1 @@
-var mnemonic = "science carbon fringe senior scan ecology local apart maze vital payment odor";
+var mnemonic = "bird diamond hurt diagram over drop diesel dog usage inhale wild upper";

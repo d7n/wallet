@@ -1,1 +1,1 @@
-var mnemonic = "soon receive purse bamboo frozen panic tiny obey mom point come sweet";
+var mnemonic = "kiss answer wash stamp fix because valley badge dirt obey team fringe";

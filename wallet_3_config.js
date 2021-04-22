@@ -1,1 +1,1 @@
-var mnemonic = "begin giraffe return trumpet never into uncle alien that have wear random";
+var mnemonic = "derive diary absorb kingdom grain history opinion surface napkin famous purpose spring";

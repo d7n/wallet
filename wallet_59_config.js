@@ -1,1 +1,1 @@
-var mnemonic = "arrow video entry fatigue attract frown velvet palace orphan also army pair";
+var mnemonic = "blue resource peanut raw civil cotton lake crystal depend bronze woman ladder";

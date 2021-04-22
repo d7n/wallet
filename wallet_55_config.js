@@ -1,1 +1,1 @@
-var mnemonic = "profit assume blur document forum start fix injury address apart skin blind";
+var mnemonic = "biology fatal wreck water survey series rather couple burst bid series debris";

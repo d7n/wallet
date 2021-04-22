@@ -1,1 +1,1 @@
-var mnemonic = "object used advance carpet clinic sketch abandon casino danger flush drift stumble";
+var mnemonic = "payment riot pretty patient energy jacket knee imitate month that sugar trust";

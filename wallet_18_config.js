@@ -1,1 +1,1 @@
-var mnemonic = "proud prefer tourist remove inquiry trash excite argue all kitchen ask lesson";
+var mnemonic = "toe trophy insect town virus hello empty script loop young merit fabric";

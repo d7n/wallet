@@ -1,1 +1,1 @@
-var mnemonic = "book test rule long zoo tool famous diamond stairs citizen miss romance";
+var mnemonic = "later crystal electric sort style industry mansion deer tell believe chief deer";

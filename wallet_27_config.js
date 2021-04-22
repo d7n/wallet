@@ -1,1 +1,1 @@
-var mnemonic = "exchange symbol shine peace tornado wealth you tell traffic giant lunch three";
+var mnemonic = "chef canvas ahead apple concert ugly letter they close useless above camera";

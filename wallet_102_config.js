@@ -1,1 +1,1 @@
-var mnemonic = "famous slam carpet auction student duck dragon cost near spider soap nasty";
+var mnemonic = "purse toast nominee crack job strategy donkey poet copy upon lottery logic";

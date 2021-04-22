@@ -1,1 +1,1 @@
-var mnemonic = "sphere clock install daughter slot frown sign another snap joy gadget supreme";
+var mnemonic = "blood repair atom capital click typical accuse inject dry lawsuit rabbit crop";

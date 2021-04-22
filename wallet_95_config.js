@@ -1,1 +1,1 @@
-var mnemonic = "modify task episode absorb toddler frost inject canal hint flight slush dynamic";
+var mnemonic = "seat vivid among iron sock crowd base now harbor submit satisfy visit";

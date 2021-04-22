@@ -1,1 +1,1 @@
-var mnemonic = "ginger strong choice shy key exile indoor token behave divert funny reason";
+var mnemonic = "gas auto retire dentist soup rally photo uncle adjust dwarf label seed";

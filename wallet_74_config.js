@@ -1,1 +1,1 @@
-var mnemonic = "climb history tongue shaft toward robot milk kid tape sniff switch thunder";
+var mnemonic = "project olympic purpose fringe target tobacco tooth option scorpion book caught boss";

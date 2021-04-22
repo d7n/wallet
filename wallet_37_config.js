@@ -1,1 +1,1 @@
-var mnemonic = "logic deer law clown light vehicle answer valve blame misery donor mixed";
+var mnemonic = "random during suspect near buzz craft crisp bullet other parade tissue engine";

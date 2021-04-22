@@ -1,1 +1,1 @@
-var mnemonic = "bundle change cabbage child finger ask garbage luxury marble athlete round push";
+var mnemonic = "income cable gift feel home when police cabin term avoid film pave";

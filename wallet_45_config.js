@@ -1,1 +1,1 @@
-var mnemonic = "provide nice exotic help comic normal ride figure genuine genre witness brother";
+var mnemonic = "current crystal blossom slim swallow faint carbon dolphin want tackle clutch leg";

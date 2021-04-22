@@ -1,1 +1,1 @@
-var mnemonic = "used ritual multiply mother someone soccer smile sniff almost limb final vivid";
+var mnemonic = "timber involve draw coach script swing stick night garbage calm access spike";

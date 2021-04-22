@@ -1,1 +1,1 @@
-var mnemonic = "adapt bunker broccoli input misery broken spring sunset gloom feed antenna crater";
+var mnemonic = "shove tank transfer vehicle layer acquire scrub flush sunny slice paper jealous";

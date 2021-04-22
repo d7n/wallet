@@ -1,1 +1,1 @@
-var mnemonic = "whip enemy someone violin uncover swing popular endless paper wealth manual ketchup";
+var mnemonic = "frequent zoo audit lemon ivory screen daring recipe below name plug survey";

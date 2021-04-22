@@ -1,1 +1,1 @@
-var mnemonic = "social vicious produce shadow transfer stereo frame guard dumb slogan loud result";
+var mnemonic = "toss maid mansion immune tiger pencil evidence honey wage curious skate bachelor";

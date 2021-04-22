@@ -1,1 +1,1 @@
-var mnemonic = "hidden canal lab vacuum matrix siege tilt upon wet transfer quality bone";
+var mnemonic = "transfer ship million leg proof solid cloth range grid cycle bronze army";

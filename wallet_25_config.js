@@ -1,1 +1,1 @@
-var mnemonic = "ignore rocket fix observe car zero cat embrace sock wink waste stage";
+var mnemonic = "bubble behind claim regular furnace noodle misery diamond echo school outer attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo solution salad cart flower climb urban gun begin sport oppose attack";
+var mnemonic = "elite exist wool infant erupt patrol slot try race initial nut sunset";

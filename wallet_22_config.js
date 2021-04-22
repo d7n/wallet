@@ -1,1 +1,1 @@
-var mnemonic = "amount stem lecture kitchen holiday misery parrot purse order rack tackle enact";
+var mnemonic = "vast unveil give banana park crane soap feature leopard hurry earn model";

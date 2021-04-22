@@ -1,1 +1,1 @@
-var mnemonic = "fiber edit hand double pond volcano across animal shoot coffee inch throw";
+var mnemonic = "bottom album assume sword pool primary earn beach evoke budget episode stereo";

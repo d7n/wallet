@@ -1,1 +1,1 @@
-var mnemonic = "carbon hint lucky recycle relief market siren again movie shove vault mass";
+var mnemonic = "task gas bonus history honey consider among pause flame head genius chef";

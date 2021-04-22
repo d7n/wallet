@@ -1,1 +1,1 @@
-var mnemonic = "funny post crop fish dolphin odor resemble fatal bachelor story small enemy";
+var mnemonic = "ten boil mirror original nephew menu visual sponsor rice surface pattern surge";

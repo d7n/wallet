@@ -1,1 +1,1 @@
-var mnemonic = "write lottery exotic siren address gadget sustain twin attend define cheap brown";
+var mnemonic = "orient easily still trumpet blame misery genre payment glance economy scrap flock";

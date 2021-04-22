@@ -1,1 +1,1 @@
-var mnemonic = "assault park security cigar fit morning arena squirrel hint match plastic script";
+var mnemonic = "shell vacuum town galaxy regret isolate snake police find enjoy song supreme";

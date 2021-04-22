@@ -1,1 +1,1 @@
-var mnemonic = "track tone claim identify nature embody admit camp ethics uniform unusual list";
+var mnemonic = "barely gossip chair width member wear crawl scan split useful nice exact";

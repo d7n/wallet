@@ -1,1 +1,1 @@
-var mnemonic = "pen phone grab castle slab hurdle rifle slot throw roof corn talent";
+var mnemonic = "turn talent car frozen twist odor sunset fitness side crawl case figure";

@@ -1,1 +1,1 @@
-var mnemonic = "stage demand glass wall near embody balance history reduce work provide elder";
+var mnemonic = "fit ketchup cruel castle pole brick husband observe have giraffe keen auction";

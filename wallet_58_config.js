@@ -1,1 +1,1 @@
-var mnemonic = "combine steak beauty submit dynamic physical text brass hotel explain sorry antique";
+var mnemonic = "modify awake story tongue plastic dash grow horn scene come gesture drill";

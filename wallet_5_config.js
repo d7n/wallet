@@ -1,1 +1,1 @@
-var mnemonic = "interest wreck steel flavor moon live tourist lemon blush unusual dolphin fever";
+var mnemonic = "bird comfort attend crowd crowd team swarm whale inside cloth spot combine";

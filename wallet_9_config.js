@@ -1,1 +1,1 @@
-var mnemonic = "give basket ankle wide bonus notice scan slogan trash possible liar churn";
+var mnemonic = "profit basket cool toy tenant fire disease name enable remember piano solid";

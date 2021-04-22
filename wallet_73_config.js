@@ -1,1 +1,1 @@
-var mnemonic = "victory boil suspect catch couple sentence river dog wolf junior balcony giggle";
+var mnemonic = "snack achieve garage method letter peanut current daring myself strategy subject spirit";

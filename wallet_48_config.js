@@ -1,1 +1,1 @@
-var mnemonic = "derive put wing usage private buyer ignore inch trip short already such";
+var mnemonic = "diet major scorpion tumble entire limit awesome wagon antenna pizza space warfare";

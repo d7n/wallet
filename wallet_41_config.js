@@ -1,1 +1,1 @@
-var mnemonic = "else faith age payment figure mistake solve noble digital mercy senior keep";
+var mnemonic = "spend bamboo city echo olympic venue face jazz now tissue patch chase";

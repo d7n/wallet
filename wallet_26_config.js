@@ -1,1 +1,1 @@
-var mnemonic = "average flash distance slice ability jacket wife fox cushion smooth expect tiny";
+var mnemonic = "morning divert crowd boss since vacant tray mandate second buzz rose elite";

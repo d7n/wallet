@@ -1,1 +1,1 @@
-var mnemonic = "scheme february voice gain series illegal rabbit among walk vocal lounge gallery";
+var mnemonic = "divert tissue usual eager today winner vacuum celery bundle main turtle ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "depend afford gallery fee length rib increase thumb purse express uncover public";
+var mnemonic = "short express spatial dilemma theme certain unusual boost casual congress measure window";

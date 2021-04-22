@@ -1,1 +1,1 @@
-var mnemonic = "rescue duck item region victory rare cover april drastic summer sign social";
+var mnemonic = "venue ribbon couple lens focus enable country over wheat neglect menu canoe";

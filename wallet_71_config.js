@@ -1,1 +1,1 @@
-var mnemonic = "april casino barely army friend clean dial season hawk north stove weekend";
+var mnemonic = "balance scheme live chaos fragile anxiety round cube focus hero broccoli cup";

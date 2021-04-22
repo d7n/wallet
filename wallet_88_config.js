@@ -1,1 +1,1 @@
-var mnemonic = "assume list pill smoke room spice pelican jewel cereal walnut media supreme";
+var mnemonic = "abstract grunt pupil hunt organ unit unable aim ill solution eagle tomorrow";

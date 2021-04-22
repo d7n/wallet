@@ -1,1 +1,1 @@
-var mnemonic = "churn quality rhythm impact random public room tell traffic tribe upper draw";
+var mnemonic = "pipe meadow milk health child staff neck nice erupt find tomorrow other";

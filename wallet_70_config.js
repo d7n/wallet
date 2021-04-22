@@ -1,1 +1,1 @@
-var mnemonic = "zebra olive repair satoshi end gravity country rival ten sun crunch couple";
+var mnemonic = "gun silk need control hunt security general husband exist office bench heart";

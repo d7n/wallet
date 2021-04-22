@@ -1,1 +1,1 @@
-var mnemonic = "execute balance outer dial wheat find aisle clog pipe salmon ridge rich";
+var mnemonic = "jump board bachelor ostrich duck sea wild van cake health river venture";

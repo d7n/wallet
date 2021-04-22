@@ -1,1 +1,1 @@
-var mnemonic = "pole attack trust assume romance buyer question what great shop lumber deliver";
+var mnemonic = "lava assume dragon bless toe despair favorite thrive pottery marriage fever legal";

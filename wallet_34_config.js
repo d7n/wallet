@@ -1,1 +1,1 @@
-var mnemonic = "illness collect ring road note suspect manage pull reopen country table rather";
+var mnemonic = "kidney useful photo stock profit great give garlic lava civil evoke frown";

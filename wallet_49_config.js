@@ -1,1 +1,1 @@
-var mnemonic = "village moment display shed essence pretty three estate flag whisper camera still";
+var mnemonic = "master profit upon museum wreck aspect record rely noodle amazing kick witness";

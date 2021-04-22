@@ -1,1 +1,1 @@
-var mnemonic = "deputy edit alcohol soon program settle alien lion file sadness girl labor";
+var mnemonic = "shell cricket menu grace limit swallow puzzle demand place host stick leopard";

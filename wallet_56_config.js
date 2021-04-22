@@ -1,1 +1,1 @@
-var mnemonic = "dial news session audit census attitude tower direct parade burden section ladder";
+var mnemonic = "involve include immense absorb water gas random scare provide gown rule salute";

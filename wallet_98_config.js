@@ -1,1 +1,1 @@
-var mnemonic = "seed lava wrong brain lake water today federal cost axis confirm major";
+var mnemonic = "hard milk young girl swap dumb winner segment blur fashion resource salt";

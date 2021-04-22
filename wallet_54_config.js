@@ -1,1 +1,1 @@
-var mnemonic = "brick enforce stable enjoy proud cabin common infant main beyond emerge assist";
+var mnemonic = "student company female coyote time jacket text leg cotton inspire kangaroo tornado";

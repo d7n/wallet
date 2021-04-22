@@ -1,1 +1,1 @@
-var mnemonic = "luxury ignore thumb vessel step ask december pond beyond awkward track sell";
+var mnemonic = "toy addict close rude virus ozone disagree they health large couple sand";

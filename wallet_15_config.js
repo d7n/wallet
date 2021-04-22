@@ -1,1 +1,1 @@
-var mnemonic = "wish silly hint volcano jealous govern toddler face author cave expire client";
+var mnemonic = "attract inflict february hen portion beauty broken clog romance reject avoid whisper";

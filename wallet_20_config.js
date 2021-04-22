@@ -1,1 +1,1 @@
-var mnemonic = "choice awful project diet police beach sunny name doctor marble ginger blade";
+var mnemonic = "fog minor gadget identify turkey hope round avoid rally coconut sight detect";

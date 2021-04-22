@@ -1,1 +1,1 @@
-var mnemonic = "candy trick home soft tank private sting bone element like click sugar";
+var mnemonic = "tornado pair animal parent outdoor corn weather message question stand liquid cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "help phone crucial token pulp glove quit case napkin summer daring prepare";
+var mnemonic = "sort cube dentist senior farm stand belt equip lyrics guard jump paddle";

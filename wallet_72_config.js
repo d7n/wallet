@@ -1,1 +1,1 @@
-var mnemonic = "focus pipe zero client female phone record employ finish grab dirt sense";
+var mnemonic = "tiny sheriff wood oven maze adapt educate subway second giant over outdoor";

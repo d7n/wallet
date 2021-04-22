@@ -1,1 +1,1 @@
-var mnemonic = "divide borrow eyebrow topic subway expire pact mass blood escape shove pledge";
+var mnemonic = "fruit slim solid picnic taste large amount mistake wife vital shrimp know";

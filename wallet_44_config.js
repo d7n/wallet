@@ -1,1 +1,1 @@
-var mnemonic = "romance stereo planet guard vibrant increase snow tube chief mixture bench enjoy";
+var mnemonic = "submit blossom bike blame agree refuse wreck act echo tree actress kiwi";

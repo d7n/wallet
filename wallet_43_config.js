@@ -1,1 +1,1 @@
-var mnemonic = "glue arch wealth involve grain tail treat happy father shrug galaxy post";
+var mnemonic = "initial permit include fee laugh love edge token nice away mixed rotate";

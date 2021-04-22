@@ -1,1 +1,1 @@
-var mnemonic = "unlock curve object cliff trumpet siren catalog model mimic walnut stereo worry";
+var mnemonic = "below loyal behave palace junior meadow front abuse noble vicious fox turtle";

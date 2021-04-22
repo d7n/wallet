@@ -1,1 +1,1 @@
-var mnemonic = "limb book alcohol almost beach tribe ozone people one fade stuff local";
+var mnemonic = "tobacco paper inherit sun flight december trade sample slide laugh giggle nurse";
