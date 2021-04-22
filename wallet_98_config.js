@@ -1,1 +1,1 @@
-var mnemonic = "start property armed goose common stay barely piece lonely try verify enhance";
+var mnemonic = "sister hospital happy refuse beauty cave whip moral okay rather aim menu";

@@ -1,1 +1,1 @@
-var mnemonic = "praise point submit lizard nature keep crack miracle eight winter work day";
+var mnemonic = "august cluster appear bean donate hospital buddy bunker wire lava alien expire";

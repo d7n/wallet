@@ -1,1 +1,1 @@
-var mnemonic = "myth blame share recycle spring jungle solar crash trophy inflict wing notable";
+var mnemonic = "spread correct pony possible jeans sweet spoon engine pull purpose vintage ball";

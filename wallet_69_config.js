@@ -1,1 +1,1 @@
-var mnemonic = "riot worry time arrow east dash now reopen ivory prevent bar future";
+var mnemonic = "win sister exclude language hello tonight wave olive pill mixture laptop fix";

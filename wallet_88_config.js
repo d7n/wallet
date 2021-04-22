@@ -1,1 +1,1 @@
-var mnemonic = "fortune turn ceiling used deliver educate price meat order science seek inspire";
+var mnemonic = "above idea grocery scale mixture fiscal hello unfold giraffe bachelor combine winter";

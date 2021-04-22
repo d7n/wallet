@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow come talk traffic hard age regret decade poverty build sunny region";
+var mnemonic = "produce useless afraid plastic quality whip income cotton resemble universe habit alter";

@@ -1,1 +1,1 @@
-var mnemonic = "true almost clever furnace field topic enrich flavor drift peace wave sweet";
+var mnemonic = "miss video correct inhale plug congress finish nothing benefit emotion refuse travel";

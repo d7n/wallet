@@ -1,1 +1,1 @@
-var mnemonic = "room enough resource cannon panda child price slow actress govern tail high";
+var mnemonic = "rabbit again social tank glare unlock crane total man method warfare mom";

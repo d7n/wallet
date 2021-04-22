@@ -1,1 +1,1 @@
-var mnemonic = "cement salmon ticket goat dust fruit call mirror later cake spike post";
+var mnemonic = "bulb loyal notable surge divorce math shine waste lumber keep figure strong";

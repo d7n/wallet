@@ -1,1 +1,1 @@
-var mnemonic = "remove sphere poverty nature mom miracle project isolate basic control hobby coast";
+var mnemonic = "knee web pull purity trade bind load spare toy slow have baby";

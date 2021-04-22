@@ -1,1 +1,1 @@
-var mnemonic = "grass one brush frost hurt move obtain often now brain luggage season";
+var mnemonic = "puppy wise smart trip sleep shoot liberty summer frequent brown caution buyer";

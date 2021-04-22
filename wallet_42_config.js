@@ -1,1 +1,1 @@
-var mnemonic = "junk try tackle grid dune fluid track situate must analyst width column";
+var mnemonic = "cake left view now tobacco custom obtain shift latin produce desert oil";

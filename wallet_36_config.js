@@ -1,1 +1,1 @@
-var mnemonic = "column boy goat portion drift remove decide middle twice tornado turkey hospital";
+var mnemonic = "future agree below quantum draft please fade labor mix choose embark wood";

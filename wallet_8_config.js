@@ -1,1 +1,1 @@
-var mnemonic = "invite stereo crew random jacket antique emotion fitness wool clap want mechanic";
+var mnemonic = "test faith choose extra story age stomach document detect life rabbit wild";

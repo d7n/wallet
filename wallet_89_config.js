@@ -1,1 +1,1 @@
-var mnemonic = "wet suspect author toy way acquire cherry outdoor ecology edit salute beef";
+var mnemonic = "engine rain grass plunge uniform slide secret strategy payment ocean panel keen";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis retire world ranch option model guard silly obtain cotton ill lamp";
+var mnemonic = "gun average wheat motion load abstract planet heavy lucky inside three flip";

@@ -1,1 +1,1 @@
-var mnemonic = "theory flock about daughter today like clump venue curve march brave stick";
+var mnemonic = "quiz orchard sentence clump cruel refuse toward strong stick fiction awkward rabbit";

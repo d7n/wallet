@@ -1,1 +1,1 @@
-var mnemonic = "response worry icon soldier where melt anxiety vivid join dynamic neck climb";
+var mnemonic = "quality group gun dismiss rib inside time swamp decade music shove canal";

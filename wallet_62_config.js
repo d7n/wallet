@@ -1,1 +1,1 @@
-var mnemonic = "fantasy hard arrive typical humble spoil stadium other method sport item mean";
+var mnemonic = "output bind rug below lock place remember apology casual carbon tray expose";

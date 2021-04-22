@@ -1,1 +1,1 @@
-var mnemonic = "drink segment brass agree embody second income enforce occur double cereal inquiry";
+var mnemonic = "start fragile deputy fashion ill broom sadness brass stick image scare fit";

@@ -1,1 +1,1 @@
-var mnemonic = "gate ridge visit minimum logic floor merge click river sphere work rebuild";
+var mnemonic = "output soul antique limit treat hire supply produce weapon manual earn credit";

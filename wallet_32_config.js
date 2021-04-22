@@ -1,1 +1,1 @@
-var mnemonic = "unaware kiss wise bacon despair better burden clarify matter easy novel agent";
+var mnemonic = "advance couple predict spoil east bitter video unable actor excuse rough above";

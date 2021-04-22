@@ -1,1 +1,1 @@
-var mnemonic = "dress various donate accuse match share dose beach capital pepper dignity shield";
+var mnemonic = "blue episode rigid buddy clip upper ripple supply organ cabbage honey survey";

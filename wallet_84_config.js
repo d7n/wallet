@@ -1,1 +1,1 @@
-var mnemonic = "curious long trade draft spy mixture response evidence focus curve scare mesh";
+var mnemonic = "erase run pilot trumpet mechanic truth flag moon setup clap gasp rain";

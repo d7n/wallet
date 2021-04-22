@@ -1,1 +1,1 @@
-var mnemonic = "trap wood mix vocal regret magic electric build silver castle film license";
+var mnemonic = "cube beyond garden tattoo omit beauty believe cream decrease escape question trophy";

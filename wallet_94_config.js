@@ -1,1 +1,1 @@
-var mnemonic = "guide artist opinion another library lyrics exit file problem ordinary cancel medal";
+var mnemonic = "fence hood beach clown glance wide before goddess taste luggage unit trash";

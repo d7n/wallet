@@ -1,1 +1,1 @@
-var mnemonic = "taxi midnight worry size feature apple kidney tribe cabin cluster identify also";
+var mnemonic = "dolphin crunch keen angle battle second cross entry metal wait pattern water";

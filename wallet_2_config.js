@@ -1,1 +1,1 @@
-var mnemonic = "elder beyond write seek property bird label will inch debate coast cheese";
+var mnemonic = "cream heavy amateur parade ordinary garlic know wise sponsor execute exit delay";

@@ -1,1 +1,1 @@
-var mnemonic = "source planet neutral disorder dry sadness same captain arrest element apology hint";
+var mnemonic = "whisper more angle there mix tool foil rapid adjust true sad purpose";

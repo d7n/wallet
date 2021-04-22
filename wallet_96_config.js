@@ -1,1 +1,1 @@
-var mnemonic = "track survey always like future mutual crime first shine system hockey include";
+var mnemonic = "elephant tuna bamboo oil warrior mistake cart stomach find online grunt angry";

@@ -1,1 +1,1 @@
-var mnemonic = "limit rebel youth hidden income model decide divorce barrel access input derive";
+var mnemonic = "half thunder summer pen frog between tiger transfer spy slab hour novel";

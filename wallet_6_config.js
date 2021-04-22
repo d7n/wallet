@@ -1,1 +1,1 @@
-var mnemonic = "chat exchange marriage session slide mammal drift ostrich helmet fashion marine rose";
+var mnemonic = "rail float sunny safe slab stay turkey mail senior bronze bleak must";

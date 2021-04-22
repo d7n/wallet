@@ -1,1 +1,1 @@
-var mnemonic = "once deposit magic violin hover afraid approve ensure print denial cage logic";
+var mnemonic = "hen switch miracle report clock loyal proof just exhaust poverty picture strategy";

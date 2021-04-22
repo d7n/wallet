@@ -1,1 +1,1 @@
-var mnemonic = "inspire core match prize mutual confirm lift quantum bicycle legal process broken";
+var mnemonic = "gasp rabbit busy pepper tower similar term village honey slender scorpion unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow discover hair wonder mirror century prepare excite inject improve alien crunch";
+var mnemonic = "invest during question dinner gift mosquito delay hamster arch enter call fiber";

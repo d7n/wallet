@@ -1,1 +1,1 @@
-var mnemonic = "rookie spin betray another allow book urban pulse capable certain parent annual";
+var mnemonic = "accident scout divorce cup elevator ring salon essence horn write dry flame";

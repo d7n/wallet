@@ -1,1 +1,1 @@
-var mnemonic = "bargain situate rail predict return relax oven place faint dial original chest";
+var mnemonic = "found north better hen knee hair clever member belt kid cat shine";

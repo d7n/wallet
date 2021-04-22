@@ -1,1 +1,1 @@
-var mnemonic = "cotton employ benefit ozone genuine sausage core local prepare potato crowd senior";
+var mnemonic = "index vocal champion cargo fossil civil arch firm orient dust crowd delay";

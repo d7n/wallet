@@ -1,1 +1,1 @@
-var mnemonic = "make ridge battle height tenant girl typical cream trigger young sketch motor";
+var mnemonic = "riot know give story universe secret nation keep gesture drama person strategy";

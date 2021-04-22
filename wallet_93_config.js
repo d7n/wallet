@@ -1,1 +1,1 @@
-var mnemonic = "foot thought thumb fish that trash weasel proof tiny crater disorder invite";
+var mnemonic = "reveal smart mother review bounce bullet will private tortoise leopard ridge miss";

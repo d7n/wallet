@@ -1,1 +1,1 @@
-var mnemonic = "purity emotion rare before term aim minimum crunch fatal enforce board melody";
+var mnemonic = "pact you essay search stove cage stumble town source force brass account";

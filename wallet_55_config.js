@@ -1,1 +1,1 @@
-var mnemonic = "pigeon noodle cause poem alpha drop remove desert evolve trim oven claim";
+var mnemonic = "slice trip obtain cry couch then stay forward sea ship elegant humor";

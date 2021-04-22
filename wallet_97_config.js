@@ -1,1 +1,1 @@
-var mnemonic = "hold cram size million fly dragon chat gadget pig net blanket dignity";
+var mnemonic = "fantasy list wage search code hat curious hazard thought ride copper message";

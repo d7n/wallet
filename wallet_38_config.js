@@ -1,1 +1,1 @@
-var mnemonic = "mesh foil midnight clever divorce spread flock wish mom giraffe wink ready";
+var mnemonic = "boost nose cattle universe load across choose fold cluster vintage voyage slight";

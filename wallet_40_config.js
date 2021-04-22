@@ -1,1 +1,1 @@
-var mnemonic = "bulb secret sustain alley fit predict gather family wire stick ceiling range";
+var mnemonic = "behave bacon tobacco swallow text month round tornado panda poem lion odor";

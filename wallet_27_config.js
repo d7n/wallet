@@ -1,1 +1,1 @@
-var mnemonic = "bring forum employ cannon easily possible crash soup picnic antique close pact";
+var mnemonic = "city grape occur hole age lizard iron ensure skill pilot tray stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "whip crater civil family gorilla cinnamon shift buddy dance audit release auto";
+var mnemonic = "submit behave wedding divide virus ordinary guilt injury earth episode airport become";

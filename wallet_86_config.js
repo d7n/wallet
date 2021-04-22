@@ -1,1 +1,1 @@
-var mnemonic = "remain oil film strong lawsuit ignore frequent cradle open spike foot essay";
+var mnemonic = "hair soccer reveal member labor member all argue iron invest artist warfare";

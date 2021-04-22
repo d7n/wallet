@@ -1,1 +1,1 @@
-var mnemonic = "argue cabbage enjoy drum decline jaguar blanket describe sun snake payment negative";
+var mnemonic = "fiber jungle decade path celery scrub cat bean keep change same arena";

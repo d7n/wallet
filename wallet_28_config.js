@@ -1,1 +1,1 @@
-var mnemonic = "tower course kidney assume injury come split know resource scissors fee hawk";
+var mnemonic = "habit among labor ignore prevent hen dial often captain divert soul laugh";

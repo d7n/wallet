@@ -1,1 +1,1 @@
-var mnemonic = "tag law broken advice arrow sun glue blood shock mixed same wheel";
+var mnemonic = "wide vacuum olive crane forum endorse please clap monitor zoo achieve era";

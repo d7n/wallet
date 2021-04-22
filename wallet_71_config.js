@@ -1,1 +1,1 @@
-var mnemonic = "peanut satisfy split pact uncle tell coffee reduce milk surround pumpkin core";
+var mnemonic = "segment grace segment shallow scan clarify street upon spot coach air turtle";

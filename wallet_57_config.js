@@ -1,1 +1,1 @@
-var mnemonic = "easy fabric dragon pigeon finish juice profit diagram grow school gadget happy";
+var mnemonic = "error awesome they grunt ahead paddle shrimp orient fiction climb disorder despair";

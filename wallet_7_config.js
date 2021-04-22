@@ -1,1 +1,1 @@
-var mnemonic = "meat prepare voice foil cover silver leave normal flight blossom title ugly";
+var mnemonic = "index shoe bronze drift cute awesome lift grocery define narrow private rabbit";

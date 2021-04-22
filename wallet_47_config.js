@@ -1,1 +1,1 @@
-var mnemonic = "lounge enable swing push chest turtle wheel meadow slot pink barrel bright";
+var mnemonic = "wrestle elegant cherry bargain there crane crew regular glue view squeeze awful";

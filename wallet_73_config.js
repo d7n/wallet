@@ -1,1 +1,1 @@
-var mnemonic = "lake snow impact snack marriage spoon essay behind hub sorry chair purse";
+var mnemonic = "various dry barrel prepare park shallow damage tongue width piece fix steak";

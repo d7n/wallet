@@ -1,1 +1,1 @@
-var mnemonic = "join goat three reason name gather feed become lunar history ride winner";
+var mnemonic = "corn enforce draw guard index announce tired snack update fitness shrug chat";

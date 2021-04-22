@@ -1,1 +1,1 @@
-var mnemonic = "couch harsh fancy enforce mail egg member kangaroo comic sentence aunt episode";
+var mnemonic = "scheme wasp draw napkin gesture shield unveil kite second want bottom army";

@@ -1,1 +1,1 @@
-var mnemonic = "long gauge scissors atom client twelve soon nominee punch rescue deposit shallow";
+var mnemonic = "pig steak pause faculty blind edit rescue credit special trip fire hero";

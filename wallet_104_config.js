@@ -1,1 +1,1 @@
-var mnemonic = "pyramid torch clutch car stuff father poet inside bless resource hole tomato";
+var mnemonic = "wrestle south design drip alert quick search explain situate consider kit apology";

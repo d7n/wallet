@@ -1,1 +1,1 @@
-var mnemonic = "cancel quarter afford cup evoke amount motor upgrade palm scatter boil swap";
+var mnemonic = "edge file seek logic stumble rabbit benefit kitten search bacon spare meadow";

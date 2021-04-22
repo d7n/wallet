@@ -1,1 +1,1 @@
-var mnemonic = "spice child punch tragic seat arrive produce pen praise invest blur runway";
+var mnemonic = "lounge crew fold team panther gate abstract wink opera feed material you";

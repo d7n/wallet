@@ -1,1 +1,1 @@
-var mnemonic = "mammal cattle ball found hill wear caution arena resemble spatial sadness size";
+var mnemonic = "salon edge parent remove morning swing smooth cloud era embody sock initial";

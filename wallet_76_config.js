@@ -1,1 +1,1 @@
-var mnemonic = "boil shoulder deal gas still submit multiply trash salad spare drill elephant";
+var mnemonic = "cause nominee hurry record bachelor tooth because dinner captain funny cash visual";

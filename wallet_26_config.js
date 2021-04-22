@@ -1,1 +1,1 @@
-var mnemonic = "canyon ecology evolve where high much together prefer judge become clinic ugly";
+var mnemonic = "intact alert flat penalty assume comic motor perfect cherry siege siege flat";

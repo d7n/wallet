@@ -1,1 +1,1 @@
-var mnemonic = "execute hour tiny friend mixed hospital excuse print round deny spy total";
+var mnemonic = "outer price math crouch radar venue toss tape leisure shaft sorry mutual";

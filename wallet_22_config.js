@@ -1,1 +1,1 @@
-var mnemonic = "hundred also balcony bright crouch you hour tank damp eager victory bike";
+var mnemonic = "display result enable utility pattern collect liar camp rocket utility machine throw";

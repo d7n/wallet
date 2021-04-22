@@ -1,1 +1,1 @@
-var mnemonic = "venue soon educate usage upper rude speed old lazy feed slam again";
+var mnemonic = "city security require fiction settle jacket verify frozen valid radar pave rabbit";

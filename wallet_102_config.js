@@ -1,1 +1,1 @@
-var mnemonic = "sausage jump umbrella imitate near win bacon master festival fortune cargo skull";
+var mnemonic = "patient two fitness venture average fluid proud equip hobby nature season lend";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella winner prefer evoke visual wood grab volume salt admit black airport";
+var mnemonic = "receive token cat glad human tree hunt path immune pipe hazard lab";

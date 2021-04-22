@@ -1,1 +1,1 @@
-var mnemonic = "spoil island beyond slice clarify safe finish grocery luggage fee fence still";
+var mnemonic = "useless display tortoise forget ticket ball grief wasp shift vivid exist autumn";

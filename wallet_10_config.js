@@ -1,1 +1,1 @@
-var mnemonic = "future cash divide world inhale slight anger spice length vessel switch buyer";
+var mnemonic = "ability market million subject chat funny auction shoot inmate tissue tower feature";

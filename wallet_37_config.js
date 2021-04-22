@@ -1,1 +1,1 @@
-var mnemonic = "electric custom auto near pet breeze funny surface food muffin panda virtual";
+var mnemonic = "depart tilt zoo until galaxy giraffe connect quote asthma long direct dirt";

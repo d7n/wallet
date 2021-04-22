@@ -1,1 +1,1 @@
-var mnemonic = "barrel cream exile actor trip world satoshi push gossip stove hire normal";
+var mnemonic = "stool license picnic warrior million actor mention index frequent awake shield never";

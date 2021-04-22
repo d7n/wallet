@@ -1,1 +1,1 @@
-var mnemonic = "burden where dash party universe onion together brother rare glimpse child eight";
+var mnemonic = "fire scorpion anger dose autumn crucial lava paddle card night ostrich bone";

@@ -1,1 +1,1 @@
-var mnemonic = "poem matrix lunch work ridge employ tenant danger math turn bind promote";
+var mnemonic = "truly fuel junk net inspire dice title near ordinary pumpkin bacon skull";

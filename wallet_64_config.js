@@ -1,1 +1,1 @@
-var mnemonic = "build mother vacuum roast link fiscal deputy laugh magic fantasy glimpse advice";
+var mnemonic = "pact agent goose inner frost only exhibit hood target earn sleep picture";

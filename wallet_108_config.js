@@ -1,1 +1,1 @@
-var mnemonic = "buyer vintage method infant match nice clump urban easy spoil screen enact";
+var mnemonic = "defy spider minute diary have pair misery orbit left mandate they dizzy";

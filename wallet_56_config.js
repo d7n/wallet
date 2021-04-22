@@ -1,1 +1,1 @@
-var mnemonic = "page identify gospel pink radio quit poet wood margin define reason disagree";
+var mnemonic = "treat capital saddle degree stomach green forget leader pig resemble blouse much";

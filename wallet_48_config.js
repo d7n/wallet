@@ -1,1 +1,1 @@
-var mnemonic = "hospital attitude tired aspect night banner shallow essence path skull below assume";
+var mnemonic = "child off hunt gain route flame surprise legal bounce salad satisfy hunt";

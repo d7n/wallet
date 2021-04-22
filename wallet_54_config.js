@@ -1,1 +1,1 @@
-var mnemonic = "gown wise marriage slender warrior pave swallow today know upper demise erode";
+var mnemonic = "reject struggle track radio captain until notable radar okay boring cover helmet";

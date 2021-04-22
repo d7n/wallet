@@ -1,1 +1,1 @@
-var mnemonic = "video leader skill love build matter sauce lend arm just year atom";
+var mnemonic = "lens inmate special cry judge brand hammer nurse street salmon equal forget";

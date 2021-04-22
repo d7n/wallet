@@ -1,1 +1,1 @@
-var mnemonic = "parrot interest april fossil estate shed loud giraffe relief cart super budget";
+var mnemonic = "truth fat surface provide cereal project one gate style what opera man";

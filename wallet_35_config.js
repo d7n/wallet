@@ -1,1 +1,1 @@
-var mnemonic = "cause judge fluid hard risk daughter birth effort enough much desk rely";
+var mnemonic = "clever nothing labor settle public actor luggage globe spend remind trial head";

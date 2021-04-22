@@ -1,1 +1,1 @@
-var mnemonic = "sight measure claw stand garbage river mammal awful regret grief refuse run";
+var mnemonic = "burger party lawsuit panic face alley private prefer snack purity goddess perfect";

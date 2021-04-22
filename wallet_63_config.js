@@ -1,1 +1,1 @@
-var mnemonic = "diesel love hill rapid second ethics hundred erupt item rocket remove athlete";
+var mnemonic = "author finish gate explain story measure share fancy provide lobster lawn harsh";

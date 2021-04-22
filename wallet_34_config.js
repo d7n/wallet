@@ -1,1 +1,1 @@
-var mnemonic = "electric buddy social nasty disorder hurdle raw oven bubble appear jungle story";
+var mnemonic = "tomorrow climb remove noise erosion fall head doctor antique twice museum water";

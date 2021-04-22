@@ -1,1 +1,1 @@
-var mnemonic = "make raccoon scan palace quantum coconut seat dismiss believe neck oven accident";
+var mnemonic = "neglect car ozone volcano hotel baby congress slot find post bunker melody";

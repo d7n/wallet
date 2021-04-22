@@ -1,1 +1,1 @@
-var mnemonic = "book repeat humble fringe layer acoustic uncle theory afford venue salt zone";
+var mnemonic = "notice calm camera autumn option fatal negative paper forest behave front common";

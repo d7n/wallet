@@ -1,1 +1,1 @@
-var mnemonic = "iron life love network mercy insane public club surge curve lab roof";
+var mnemonic = "ozone frown flavor shield night tomorrow flame cattle margin lottery asset ignore";

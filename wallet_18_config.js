@@ -1,1 +1,1 @@
-var mnemonic = "push crime sunset begin cactus february vast october arrest cute woman scrub";
+var mnemonic = "lab public sweet hollow prevent collect law month yellow chaos blue define";

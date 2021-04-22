@@ -1,1 +1,1 @@
-var mnemonic = "focus pulp scrub rely grass quote way grit feed youth oppose boil";
+var mnemonic = "coral gentle share rule step bike setup absent banner smoke cabin middle";

@@ -1,1 +1,1 @@
-var mnemonic = "assume update extend foot glass law heart foster wise ghost arctic actual";
+var mnemonic = "force cinnamon runway assault lunch hold appear fashion popular genius popular gloom";

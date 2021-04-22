@@ -1,1 +1,1 @@
-var mnemonic = "quarter visa siren option setup joy olympic drink wedding table peasant year";
+var mnemonic = "wait over urban vintage snake trick answer joy alien glimpse salute maid";
