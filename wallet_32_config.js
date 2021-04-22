@@ -1,1 +1,1 @@
-var mnemonic = "garden fantasy shiver scatter upon caught accuse pencil blame cabbage alpha coconut";
+var mnemonic = "zebra afford wine can much involve dune differ arrive endless copper expose";

@@ -1,1 +1,1 @@
-var mnemonic = "lend primary pudding doll pencil actor dolphin mind cigar detect cliff foam";
+var mnemonic = "crazy mom saddle decline segment that keep able start venue vital twin";

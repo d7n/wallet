@@ -1,1 +1,1 @@
-var mnemonic = "viable admit bachelor glory airport rapid health grass wood custom entire box";
+var mnemonic = "road purity answer inquiry captain cattle wine motor fringe diesel endless symptom";

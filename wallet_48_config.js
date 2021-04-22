@@ -1,1 +1,1 @@
-var mnemonic = "fine improve come original clog sphere traffic ring kid scrub remember neglect";
+var mnemonic = "warrior wheat fuel goat gown voyage cinnamon subway rose seek ladder core";

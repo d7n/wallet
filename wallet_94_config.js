@@ -1,1 +1,1 @@
-var mnemonic = "insane bounce into rice raven build tuition drop crater shy eye pave";
+var mnemonic = "pill coach scare media often offer sketch milk market rigid size rose";

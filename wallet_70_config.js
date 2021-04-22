@@ -1,1 +1,1 @@
-var mnemonic = "around talent diet proud height ivory teach spider nominee nice brain liberty";
+var mnemonic = "ahead boy brief snack style glory arrive bronze latin solution render immune";

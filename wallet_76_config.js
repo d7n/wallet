@@ -1,1 +1,1 @@
-var mnemonic = "mandate pulse next access possible eyebrow position birth lecture equal heavy oppose";
+var mnemonic = "quantum squirrel way taxi bullet differ dial virtual benefit domain era clay";

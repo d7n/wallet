@@ -1,1 +1,1 @@
-var mnemonic = "credit gorilla output busy fiscal choice renew course include inside defy rain";
+var mnemonic = "walnut million sleep fade conduct kidney payment aunt region board foster lonely";

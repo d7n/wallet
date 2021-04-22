@@ -1,1 +1,1 @@
-var mnemonic = "click heavy typical neither damp rural expand jeans infant bachelor grass slide";
+var mnemonic = "giant success vanish voice economy banana lesson acoustic equal state sound west";

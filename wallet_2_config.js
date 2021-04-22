@@ -1,1 +1,1 @@
-var mnemonic = "topic gorilla later black denial dignity potato decide script stone river census";
+var mnemonic = "box include enable budget pink pink hunt okay purse craft struggle place";

@@ -1,1 +1,1 @@
-var mnemonic = "useless maid resource illegal belt leave alter transfer that breeze trumpet prepare";
+var mnemonic = "lecture midnight addict slot eager autumn service edit oval topic under mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle coconut finish stomach bitter crew glove pave health fix month doctor";
+var mnemonic = "process duck call staff dutch equal identify bag cook insect wasp music";

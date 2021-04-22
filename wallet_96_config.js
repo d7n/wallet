@@ -1,1 +1,1 @@
-var mnemonic = "scrap merge survey student mercy champion jaguar clock over cliff surprise chief";
+var mnemonic = "track filter aisle female type summer hip paper fatigue rhythm flee arrive";

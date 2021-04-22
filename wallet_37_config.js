@@ -1,1 +1,1 @@
-var mnemonic = "sustain chimney noble option novel siren fire filter machine fruit broken siege";
+var mnemonic = "mandate rival toy pact text cable cherry shadow divert urban detect ripple";

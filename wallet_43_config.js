@@ -1,1 +1,1 @@
-var mnemonic = "dawn display pole manual planet divert shove nice casino loop crack echo";
+var mnemonic = "theory guilt fault truth supreme hunt joy spell road sugar radio jungle";

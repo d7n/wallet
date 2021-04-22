@@ -1,1 +1,1 @@
-var mnemonic = "noble right betray jar wagon fan surge wife woman coil expose disorder";
+var mnemonic = "script nest disagree verify fold author subway owner always air number husband";

@@ -1,1 +1,1 @@
-var mnemonic = "title eagle milk pulse consider lens little between gadget pencil exclude panther";
+var mnemonic = "civil brown pet stadium manage weather ecology uncle exist good bunker alien";

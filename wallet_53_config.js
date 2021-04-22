@@ -1,1 +1,1 @@
-var mnemonic = "pool diamond seek egg earth cycle fancy dance undo lecture attitude ten";
+var mnemonic = "robot vendor surprise fortune wedding gold heart dignity field blind expire dismiss";

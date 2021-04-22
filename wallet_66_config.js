@@ -1,1 +1,1 @@
-var mnemonic = "category vacuum marble useless traffic occur speak panel tissue crawl sibling card";
+var mnemonic = "stool oven sort time noise unveil seat rifle connect effort prefer route";

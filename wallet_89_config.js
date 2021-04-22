@@ -1,1 +1,1 @@
-var mnemonic = "denial language screen forest pledge blast ordinary burger employ estate ice lottery";
+var mnemonic = "melody goat zoo avoid spirit reason design century area worth lawsuit idle";

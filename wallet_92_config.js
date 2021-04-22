@@ -1,1 +1,1 @@
-var mnemonic = "spend sorry pulse sell saddle theme spoon cactus inspire noise cricket degree";
+var mnemonic = "capital frame paddle change fit cheese negative tomato home random ten bench";

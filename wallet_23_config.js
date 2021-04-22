@@ -1,1 +1,1 @@
-var mnemonic = "old bag decrease century nature lock smoke quit large diamond nest six";
+var mnemonic = "mosquito genius lens enlist enough gallery language pill toast tank ancient choose";

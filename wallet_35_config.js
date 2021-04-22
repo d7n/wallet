@@ -1,1 +1,1 @@
-var mnemonic = "modify input make lake tool wheat boring bacon ocean enter drum snack";
+var mnemonic = "attitude universe cat father clip taste age situate shift cute fitness name";

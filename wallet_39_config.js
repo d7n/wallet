@@ -1,1 +1,1 @@
-var mnemonic = "mean mass artefact tube naive model skirt unable still kingdom rich sunset";
+var mnemonic = "kick bottom pill fog grant exchange shuffle alien delay neck sport now";

@@ -1,1 +1,1 @@
-var mnemonic = "desert cook describe fitness gather bless moon endorse soccer walnut flame zebra";
+var mnemonic = "position adapt amazing broccoli burger unveil coconut scorpion wink warfare mistake area";

@@ -1,1 +1,1 @@
-var mnemonic = "dose curtain soft elder wagon render iron asthma name alpha mandate usage";
+var mnemonic = "penalty rural purity silk speed album elevator mesh mobile that nerve begin";

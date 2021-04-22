@@ -1,1 +1,1 @@
-var mnemonic = "absorb prison action spring wrap endless business end upgrade autumn elder patch";
+var mnemonic = "advice guard shoe occur enforce holiday region diagram trip wise inch day";

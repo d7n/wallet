@@ -1,1 +1,1 @@
-var mnemonic = "half great between inquiry aspect panic debate boss wrong tilt law shell";
+var mnemonic = "movie window dolphin dial slender rack asthma play tobacco raccoon deputy kid";

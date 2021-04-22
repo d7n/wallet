@@ -1,1 +1,1 @@
-var mnemonic = "hire heart bundle length ahead candy brisk orient shoulder cause stem fury";
+var mnemonic = "output trash wet slow grocery follow diary hybrid system laugh plug fence";

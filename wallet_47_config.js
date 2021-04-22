@@ -1,1 +1,1 @@
-var mnemonic = "drip sense magic spray grocery balance bright under double pause inform unfair";
+var mnemonic = "confirm country neutral soup stone glue else taste traffic autumn urban spread";

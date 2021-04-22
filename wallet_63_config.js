@@ -1,1 +1,1 @@
-var mnemonic = "beach lonely tobacco outside bicycle already valley lens grow tail link change";
+var mnemonic = "rate place recipe cool lens parrot gentle crew tool balcony gap local";

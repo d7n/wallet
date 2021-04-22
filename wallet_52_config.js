@@ -1,1 +1,1 @@
-var mnemonic = "wear gift winner dinner mobile velvet feel citizen bracket lava pause idle";
+var mnemonic = "follow page stamp athlete manage promote inflict gift trial uncover gentle grief";

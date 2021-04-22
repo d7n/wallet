@@ -1,1 +1,1 @@
-var mnemonic = "flat cycle machine rain person caught flavor smooth globe stable mosquito garbage";
+var mnemonic = "swallow model dice recycle fancy cage almost fancy scrap enjoy amused remove";

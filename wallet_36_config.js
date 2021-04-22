@@ -1,1 +1,1 @@
-var mnemonic = "pitch club wild great discover renew sudden mother energy come pudding proof";
+var mnemonic = "stool lamp artwork ordinary evoke calm source volcano coconut test arrow pole";

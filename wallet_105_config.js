@@ -1,1 +1,1 @@
-var mnemonic = "inner swing sleep narrow scissors glow now window flock mad find enable";
+var mnemonic = "remain super clump record core nasty midnight virtual series novel solution pumpkin";

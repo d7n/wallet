@@ -1,1 +1,1 @@
-var mnemonic = "priority usual will hair source settle topic pet fog soldier crouch subway";
+var mnemonic = "fold change tragic bench again sister print warrior pride desert comfort laugh";

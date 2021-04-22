@@ -1,1 +1,1 @@
-var mnemonic = "smile opinion crew online robust number south lizard soon brush believe skirt";
+var mnemonic = "above annual scene fog market limb floor educate topic inch brave cruise";

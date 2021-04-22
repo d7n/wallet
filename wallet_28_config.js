@@ -1,1 +1,1 @@
-var mnemonic = "galaxy domain crunch pumpkin pizza chair wealth exile climb captain remove deny";
+var mnemonic = "equip check able bright noble end ghost vacant cage cushion daring silk";

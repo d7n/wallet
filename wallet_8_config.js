@@ -1,1 +1,1 @@
-var mnemonic = "noise nose wrestle digital security comic grant virus board diesel goose win";
+var mnemonic = "stove mammal century match surge device style gap subject elevator rebel lake";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle easily drill add announce begin fragile joke bulb record figure style";
+var mnemonic = "tip daring member dial search scan result grow box gloom text valid";

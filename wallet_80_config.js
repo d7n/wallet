@@ -1,1 +1,1 @@
-var mnemonic = "slush cancel meat game scorpion seek isolate hammer divide lazy intact evidence";
+var mnemonic = "execute outer night viable jacket pave cancel rack gather all girl lemon";

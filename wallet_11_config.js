@@ -1,1 +1,1 @@
-var mnemonic = "frost business cinnamon soccer bundle ugly morning amateur movie citizen afraid eager";
+var mnemonic = "flock uncover wreck fashion swear letter swear come alpha leisure prosper typical";

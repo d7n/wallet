@@ -1,1 +1,1 @@
-var mnemonic = "series payment diary turtle industry dawn blast demand oval cherry mirror senior";
+var mnemonic = "lady fabric buffalo open exit connect foster entry load van record bullet";

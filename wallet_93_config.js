@@ -1,1 +1,1 @@
-var mnemonic = "enforce float kit patient deliver wisdom skin market visual witness decide shed";
+var mnemonic = "proud kid dash behave file bless stick kite rely picture loyal review";

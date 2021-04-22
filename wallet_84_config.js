@@ -1,1 +1,1 @@
-var mnemonic = "deposit midnight merry drop judge believe bleak client exhaust season apart build";
+var mnemonic = "latin unaware common sail foster kidney pelican express tone industry circle sing";

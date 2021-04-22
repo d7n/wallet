@@ -1,1 +1,1 @@
-var mnemonic = "pyramid favorite curious friend mutual interest wet sketch quick thunder deputy type";
+var mnemonic = "beyond genius eagle oval choose coast unit stage iron menu exhaust speed";

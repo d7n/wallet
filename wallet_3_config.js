@@ -1,1 +1,1 @@
-var mnemonic = "hair pottery total glide aware actual animal water medal amazing credit laptop";
+var mnemonic = "present pause combine barely coconut stool finger state suspect shadow hint alcohol";

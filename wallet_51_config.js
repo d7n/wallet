@@ -1,1 +1,1 @@
-var mnemonic = "ozone right smoke retire imitate invest combine life cannon certain feature improve";
+var mnemonic = "summer fluid swing disagree orange arrive trumpet cup mule raven satoshi giggle";

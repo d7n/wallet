@@ -1,1 +1,1 @@
-var mnemonic = "mail any twist work ghost viable hurdle chronic dilemma onion strategy thought";
+var mnemonic = "nice hint fold volume regular merge better blood only smooth recycle seed";

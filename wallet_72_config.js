@@ -1,1 +1,1 @@
-var mnemonic = "fiscal poverty cinnamon right define crawl inspire library tube glide people call";
+var mnemonic = "area food jacket elder van piano auto half crane lock spatial faith";

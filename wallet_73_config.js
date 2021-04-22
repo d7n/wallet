@@ -1,1 +1,1 @@
-var mnemonic = "permit street job match jealous hip fresh sleep reduce lonely can trash";
+var mnemonic = "torch bird tape six rude country spare inform patient source broom cotton";

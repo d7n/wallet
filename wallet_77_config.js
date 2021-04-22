@@ -1,1 +1,1 @@
-var mnemonic = "oven monitor ankle exist soldier piece holiday fire opera kind another task";
+var mnemonic = "census autumn sell cry coach coyote borrow pigeon mom spy reunion bid";

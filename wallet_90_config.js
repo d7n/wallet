@@ -1,1 +1,1 @@
-var mnemonic = "art update better veteran sword piece bridge link cliff enlist amount win";
+var mnemonic = "clarify onion wrap source virtual squeeze correct session exhibit helmet flee victory";

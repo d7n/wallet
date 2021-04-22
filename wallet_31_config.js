@@ -1,1 +1,1 @@
-var mnemonic = "fragile impact jealous north pattern east morning bargain rural junk picture describe";
+var mnemonic = "labor work gloom blame blouse tiny poem answer dilemma live secret humor";

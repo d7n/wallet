@@ -1,1 +1,1 @@
-var mnemonic = "bind fragile frequent clean tuna parade viable night car lion laptop sustain";
+var mnemonic = "result length guilt unit camera edge cheese make decorate holiday project person";

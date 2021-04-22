@@ -1,1 +1,1 @@
-var mnemonic = "achieve acid author eagle loyal bring brick chunk ridge vehicle faint system";
+var mnemonic = "surge ritual grid upon become organ robot figure peasant remind sight winner";

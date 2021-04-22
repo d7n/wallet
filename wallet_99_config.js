@@ -1,1 +1,1 @@
-var mnemonic = "provide frame churn student fish scatter venue fiction opera follow ceiling wild";
+var mnemonic = "tank manage exhaust school mad average strong upper enhance attack throw cube";

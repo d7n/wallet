@@ -1,1 +1,1 @@
-var mnemonic = "emotion expose brass glory blame olive success eternal awful eight nice middle";
+var mnemonic = "bean climb stone junk where guilt fortune enter bird cushion craft one";

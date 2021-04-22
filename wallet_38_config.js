@@ -1,1 +1,1 @@
-var mnemonic = "cat discover trend extra script bounce spot evoke now practice knee kitchen";
+var mnemonic = "mistake shoe begin lesson exhibit absurd only circle pelican insect cool coffee";

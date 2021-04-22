@@ -1,1 +1,1 @@
-var mnemonic = "almost gym shock casual glue dwarf cream hub absorb fog era zebra";
+var mnemonic = "myth path travel hurt clap theory frequent glue east unlock slam unfair";

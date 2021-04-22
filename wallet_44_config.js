@@ -1,1 +1,1 @@
-var mnemonic = "tag festival energy diesel unknown blossom enough erase lake mention orient baby";
+var mnemonic = "liquid endorse beach between ghost deposit length victory era asthma arrow friend";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic draft drastic elephant surprise field employ tray kitchen dose pottery merge";
+var mnemonic = "small smile quiz minimum parade zebra script slogan license teach hybrid search";

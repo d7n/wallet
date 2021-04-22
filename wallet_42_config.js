@@ -1,1 +1,1 @@
-var mnemonic = "faint awesome castle toddler ride photo cloth practice message sea aerobic mom";
+var mnemonic = "soft slow target increase sick train canal engage nature hold clog model";

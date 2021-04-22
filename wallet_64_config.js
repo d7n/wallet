@@ -1,1 +1,1 @@
-var mnemonic = "athlete argue arrow raccoon noble deposit action company example method hurdle mimic";
+var mnemonic = "cloth ranch deny card include tunnel goat muscle fly else calm regret";

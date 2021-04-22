@@ -1,1 +1,1 @@
-var mnemonic = "laptop apple clay tragic hawk bag lab dinner merge mean torch surface";
+var mnemonic = "hold great hover rifle corn caught sudden risk usual west future victory";

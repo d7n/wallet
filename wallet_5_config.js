@@ -1,1 +1,1 @@
-var mnemonic = "ridge figure rib artwork pattern jump nerve ginger infant bonus dial empower";
+var mnemonic = "badge boss dinner body remove balance grass dance illegal robust boss debate";

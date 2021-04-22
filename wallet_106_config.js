@@ -1,1 +1,1 @@
-var mnemonic = "gather club finish fury film label huge clump deliver aerobic wool dish";
+var mnemonic = "old soft canal outside rookie nasty zoo luxury lazy legal party visa";

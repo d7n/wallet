@@ -1,1 +1,1 @@
-var mnemonic = "perfect goose pepper crucial warrior transfer audit swim absurd exhaust hurry carbon";
+var mnemonic = "fancy soap seven trick mistake lift fun parade floor frog hospital start";

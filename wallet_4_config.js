@@ -1,1 +1,1 @@
-var mnemonic = "utility prevent tube misery various sleep lunch tree tiny october firm warfare";
+var mnemonic = "window dream gospel rescue people silly office soda pudding destroy patch genre";

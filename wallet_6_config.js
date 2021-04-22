@@ -1,1 +1,1 @@
-var mnemonic = "betray modify bring thumb modify skull govern frost ivory duty typical lion";
+var mnemonic = "tip nation valley resource model fetch obey turn shadow trick kitchen odor";

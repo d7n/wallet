@@ -1,1 +1,1 @@
-var mnemonic = "joke cash leader walk monkey receive melt kidney indoor valid able knee";
+var mnemonic = "curtain change curve napkin truck brain fatigue input ritual innocent dynamic twist";

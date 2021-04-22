@@ -1,1 +1,1 @@
-var mnemonic = "begin ugly cannon prison express pony bicycle mechanic arrange inject step curve";
+var mnemonic = "north brain rocket chair floor blade charge bamboo acid curve ethics lawn";

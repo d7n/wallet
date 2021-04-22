@@ -1,1 +1,1 @@
-var mnemonic = "alpha zebra lake chicken egg dad appear post board comfort kitten april";
+var mnemonic = "endorse inflict equip connect sail push agree sell unfair gym lady disorder";

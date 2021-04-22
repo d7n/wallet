@@ -1,1 +1,1 @@
-var mnemonic = "hawk arrange noodle peace prosper dish bronze teach frame senior width expose";
+var mnemonic = "aware suspect bright retire denial bright exhaust spike peace hurdle estate foil";

@@ -1,1 +1,1 @@
-var mnemonic = "street car wet obvious cluster resemble crazy slight copy drum demand capable";
+var mnemonic = "foot twelve transfer capital lawn glove armed crumble typical loop insect oil";

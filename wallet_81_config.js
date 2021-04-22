@@ -1,1 +1,1 @@
-var mnemonic = "twenty music buffalo walk differ paper bullet auto rabbit push congress army";
+var mnemonic = "lawsuit monster area fever near rescue fantasy great kiwi agree finish urge";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel large spring option boat adjust artefact clutch fabric comfort capable firm";
+var mnemonic = "extend proof either stereo insect find joke damp liberty match task sugar";

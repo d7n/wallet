@@ -1,1 +1,1 @@
-var mnemonic = "pride ketchup stay news surge observe style easily core garage make furnace";
+var mnemonic = "van cradle pledge west rain solar accuse void car wild easy stage";

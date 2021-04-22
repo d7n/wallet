@@ -1,1 +1,1 @@
-var mnemonic = "fee reveal mirror sentence clarify beach stable luxury offer junk satisfy leader";
+var mnemonic = "length garment half order grow curious permit trumpet habit relief major alien";

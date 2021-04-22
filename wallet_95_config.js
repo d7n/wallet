@@ -1,1 +1,1 @@
-var mnemonic = "humble bamboo tonight bonus captain perfect fly rail rent surround syrup stamp";
+var mnemonic = "until seven symbol nuclear actor clap rally bird victory rare adapt interest";

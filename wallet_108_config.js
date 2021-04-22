@@ -1,1 +1,1 @@
-var mnemonic = "build art tomorrow identify share warm cannon just orient curious menu frown";
+var mnemonic = "letter scorpion mention sleep wine use wheat alley distance crawl man find";

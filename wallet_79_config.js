@@ -1,1 +1,1 @@
-var mnemonic = "section security oxygen census enjoy clarify globe tomorrow include problem someone faint";
+var mnemonic = "excuse tail notable tower leg bring decide clarify amateur dash sauce photo";

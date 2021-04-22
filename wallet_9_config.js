@@ -1,1 +1,1 @@
-var mnemonic = "make insect learn main visa winter onion sign differ power escape pottery";
+var mnemonic = "burden gossip evil cousin nasty brisk plug shed boost bicycle layer come";

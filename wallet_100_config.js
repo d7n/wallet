@@ -1,1 +1,1 @@
-var mnemonic = "opinion helmet chunk book artefact congress organ stand horse remove mean grocery";
+var mnemonic = "stadium pet buyer gym fall mention decorate vast pause envelope soul near";

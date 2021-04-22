@@ -1,1 +1,1 @@
-var mnemonic = "enter pool stereo tank turn axis attitude phone creek quiz begin bind";
+var mnemonic = "palace merry vibrant typical real alone vocal various false exile alien rhythm";

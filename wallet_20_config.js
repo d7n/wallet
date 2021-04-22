@@ -1,1 +1,1 @@
-var mnemonic = "holiday follow feel invite vague real bleak arrow scrub narrow envelope describe";
+var mnemonic = "near curtain index grocery ability garden begin pond door case lounge poet";

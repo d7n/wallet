@@ -1,1 +1,1 @@
-var mnemonic = "cotton favorite possible alarm impulse fish copy celery march oxygen feed shoe";
+var mnemonic = "pioneer add fat minimum cloth satisfy pause old beauty aisle bamboo round";

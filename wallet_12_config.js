@@ -1,1 +1,1 @@
-var mnemonic = "seat spy brother lunch survey stage oblige lake chair swift parrot excite";
+var mnemonic = "neglect acoustic carpet balcony tomato knock flavor burden fantasy move second veteran";

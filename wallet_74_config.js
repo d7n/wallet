@@ -1,1 +1,1 @@
-var mnemonic = "sniff sleep medal wheat release produce assault chicken dog girl pioneer stumble";
+var mnemonic = "message office result curve risk penalty rug wheat alone cement across husband";

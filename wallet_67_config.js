@@ -1,1 +1,1 @@
-var mnemonic = "guess pulp torch provide trouble evidence basic motion blush abstract theory magic";
+var mnemonic = "print series shove ivory two purchase side piano tool hurry portion average";

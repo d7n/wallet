@@ -1,1 +1,1 @@
-var mnemonic = "patrol coast across income tuna attack finish weather cushion then tape aerobic";
+var mnemonic = "adjust suit piece peanut warrior wear piano chest kick certain wall empower";
