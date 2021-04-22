@@ -1,1 +1,1 @@
-var mnemonic = "bronze solid spirit choice radar cheap asthma menu floor west during blind";
+var mnemonic = "bird skill hobby ice style suspect awful disagree flock donkey wild exit";

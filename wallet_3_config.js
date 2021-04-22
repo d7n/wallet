@@ -1,1 +1,1 @@
-var mnemonic = "method wolf author pledge pave cable castle punch forward deal ancient idle";
+var mnemonic = "traffic alien fire track parrot drive cruise fiscal wheel vintage rapid barrel";

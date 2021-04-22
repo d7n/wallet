@@ -1,1 +1,1 @@
-var mnemonic = "eternal myself grid inside verb identify wave avocado thought execute fade museum";
+var mnemonic = "tattoo horn size mouse fatal alpha club syrup they civil verify tag";

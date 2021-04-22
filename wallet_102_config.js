@@ -1,1 +1,1 @@
-var mnemonic = "tissue expire ocean letter salon long amount refuse cloth excuse wash library";
+var mnemonic = "popular powder swamp frost pigeon trigger crash caution twice quantum worry vessel";

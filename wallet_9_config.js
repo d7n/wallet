@@ -1,1 +1,1 @@
-var mnemonic = "mule video divide decline lawsuit math payment view lift level predict now";
+var mnemonic = "morning between slice someone neglect reveal protect chaos museum angle maze steak";

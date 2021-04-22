@@ -1,1 +1,1 @@
-var mnemonic = "twice wing biology panel retreat client cloud jacket reform subject gym auction";
+var mnemonic = "orient kiss jelly gospel castle square group develop obscure large uncover tiny";

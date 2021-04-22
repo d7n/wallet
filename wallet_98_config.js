@@ -1,1 +1,1 @@
-var mnemonic = "trim display very patch gain input climb hard senior today park clinic";
+var mnemonic = "friend above pottery illness stairs stem artist wheat denial spy utility world";

@@ -1,1 +1,1 @@
-var mnemonic = "decide live lumber essence barely hill sail balance dolphin aunt science host";
+var mnemonic = "kitchen bar love involve make equip echo shed summer garage injury narrow";

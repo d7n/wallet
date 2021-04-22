@@ -1,1 +1,1 @@
-var mnemonic = "genre green meadow cave talent antique gift cliff noble bridge copper shadow";
+var mnemonic = "bid clap depth front catch neglect under service ozone fossil arch table";

@@ -1,1 +1,1 @@
-var mnemonic = "zero point sibling burger suspect dawn barely patrol suspect health panther forum";
+var mnemonic = "divide account reflect mixed peace planet punch dinosaur front muscle crop track";

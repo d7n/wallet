@@ -1,1 +1,1 @@
-var mnemonic = "people empty ankle invite police liberty library illness curious soup hedgehog olympic";
+var mnemonic = "luggage have economy heart bottom olympic stairs clutch burger candy local defy";

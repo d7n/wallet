@@ -1,1 +1,1 @@
-var mnemonic = "horror rate village suggest match fancy across armor damp panic tool regular";
+var mnemonic = "royal million usual supply dumb enable long sing student echo awake engage";

@@ -1,1 +1,1 @@
-var mnemonic = "palace select biology firm enable junior drill ocean scheme harsh relief close";
+var mnemonic = "parade shaft heart ghost oyster shaft arrest nothing forward nasty type early";

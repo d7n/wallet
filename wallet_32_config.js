@@ -1,1 +1,1 @@
-var mnemonic = "input disorder fat seven connect spoon mammal ritual hurt artwork victory carry";
+var mnemonic = "valid health abuse miracle tomorrow carry news comic recall toe umbrella glance";

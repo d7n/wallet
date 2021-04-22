@@ -1,1 +1,1 @@
-var mnemonic = "force hub pony cotton attack monster clever panic critic catalog end rose";
+var mnemonic = "drink knife render welcome borrow pitch volume slot calm flag coast magnet";

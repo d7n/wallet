@@ -1,1 +1,1 @@
-var mnemonic = "naive produce puzzle obtain swear trade time video liberty segment nurse hammer";
+var mnemonic = "knee escape throw roast normal drift ladder antique business coral girl about";

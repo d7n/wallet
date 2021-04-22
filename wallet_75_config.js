@@ -1,1 +1,1 @@
-var mnemonic = "relief oblige grit cruise course myth angle naive female away hammer snack";
+var mnemonic = "patrol panel will daring burden item thing room company pizza demise adapt";

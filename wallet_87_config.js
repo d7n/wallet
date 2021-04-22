@@ -1,1 +1,1 @@
-var mnemonic = "bottom clutch country screen settle wire spot adjust remember attend morning thought";
+var mnemonic = "task equal brand differ rival laugh tackle harsh wrap divorce blouse fan";

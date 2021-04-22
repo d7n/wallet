@@ -1,1 +1,1 @@
-var mnemonic = "clean gap kind offer text ice fame peace van inhale collect hurry";
+var mnemonic = "wish tide hint shine castle indoor canvas noise ask found lounge prize";

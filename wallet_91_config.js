@@ -1,1 +1,1 @@
-var mnemonic = "lens shock dumb possible diary amazing anger physical invest pig turn candy";
+var mnemonic = "harbor genre concert mother opera quality sibling project language congress lumber reject";

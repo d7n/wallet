@@ -1,1 +1,1 @@
-var mnemonic = "captain tumble rare escape circle excuse embrace error spray apart echo setup";
+var mnemonic = "indicate rug paper spider luxury machine company issue cheap wreck front beach";

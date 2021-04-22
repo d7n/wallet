@@ -1,1 +1,1 @@
-var mnemonic = "lunar ivory fortune chief security spice budget canal member lyrics life receive";
+var mnemonic = "monster narrow argue tape olympic melody mimic door elder helmet execute genuine";

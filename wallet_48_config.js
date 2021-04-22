@@ -1,1 +1,1 @@
-var mnemonic = "over shoulder upon teach shoulder stomach social coffee pool answer paddle noodle";
+var mnemonic = "walk brick blanket hat super embrace dice theory school prosper alien fatal";

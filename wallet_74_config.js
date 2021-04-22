@@ -1,1 +1,1 @@
-var mnemonic = "thing aim camp subject violin daughter share ecology corn gain cram about";
+var mnemonic = "virtual leave sphere dial enable clay debate burger matter actual hunt food";

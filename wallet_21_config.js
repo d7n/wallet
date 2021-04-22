@@ -1,1 +1,1 @@
-var mnemonic = "broccoli top cup jelly student observe orbit lion agree leader analyst require";
+var mnemonic = "describe lift medal engine rally cattle hover execute puzzle arena want vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "title foil attitude play iron result quantum winter fever rate fire super";
+var mnemonic = "book then despair brief cloud beauty clock room bleak fade cargo minor";

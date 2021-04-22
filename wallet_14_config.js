@@ -1,1 +1,1 @@
-var mnemonic = "project blood analyst embark junior yard envelope sail century venture limit smart";
+var mnemonic = "apple nose cable peace rival left inch tiny sand service update merit";

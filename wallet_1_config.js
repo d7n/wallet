@@ -1,1 +1,1 @@
-var mnemonic = "behave another discover tragic lyrics coast cover liar globe battle ecology orphan";
+var mnemonic = "victory patient expose dress common hurry section save call penalty horror banana";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean trumpet badge march large list morning range they organ silk bus";
+var mnemonic = "front humor video error cruise rescue bird length chef depend appear steel";

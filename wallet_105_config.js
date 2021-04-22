@@ -1,1 +1,1 @@
-var mnemonic = "simple cliff praise essence course inform ugly they indicate purity acoustic supreme";
+var mnemonic = "pledge stomach topic pole doctor suffer canvas blame donkey pool hood orchard";

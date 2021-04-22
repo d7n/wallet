@@ -1,1 +1,1 @@
-var mnemonic = "tell type noise praise drama hobby engage caution target search bike relax";
+var mnemonic = "fine crane blast umbrella amused romance spike expect body dwarf pluck voyage";

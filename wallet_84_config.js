@@ -1,1 +1,1 @@
-var mnemonic = "paper under need pretty magnet health fly knee stairs skull property element";
+var mnemonic = "vocal jelly despair soon there cloth ghost cute exist echo beach injury";

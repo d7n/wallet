@@ -1,1 +1,1 @@
-var mnemonic = "excite able dad avoid sight doctor three exchange useful acquire warfare erode";
+var mnemonic = "fossil dose steak dish orange index vast glove wrap donor wet camera";

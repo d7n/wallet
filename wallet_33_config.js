@@ -1,1 +1,1 @@
-var mnemonic = "enough provide pilot strike tool lottery muffin market jaguar federal replace drive";
+var mnemonic = "motion spice seed produce loan ring also level morning pen top collect";

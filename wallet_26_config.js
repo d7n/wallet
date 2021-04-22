@@ -1,1 +1,1 @@
-var mnemonic = "illness link stock weapon wild worry tragic aunt vague receive barely maple";
+var mnemonic = "board guitar candy cricket ostrich pupil reform urban hub pulp pottery source";

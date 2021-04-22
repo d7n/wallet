@@ -1,1 +1,1 @@
-var mnemonic = "solar entry uniform job swing raise heavy stadium element broom dust cream";
+var mnemonic = "antenna again process hamster force because right plate require churn arrest walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "then obtain worth century lamp foil cry fiber citizen cruel tail session";
+var mnemonic = "jelly kitten spawn foam range muffin razor spend slab mother relief neither";

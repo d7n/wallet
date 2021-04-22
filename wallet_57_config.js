@@ -1,1 +1,1 @@
-var mnemonic = "melt wool science you assault depth trap become black give bunker escape";
+var mnemonic = "owner grain distance middle deputy frost liar cereal fine shoulder renew index";

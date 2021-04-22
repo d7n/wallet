@@ -1,1 +1,1 @@
-var mnemonic = "pole super reflect tape reason kiwi coral wreck veteran ethics immense cross";
+var mnemonic = "sound canyon relief follow parade roast essence exile return ignore access load";

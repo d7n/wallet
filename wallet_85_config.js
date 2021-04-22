@@ -1,1 +1,1 @@
-var mnemonic = "inform snack close coyote panel vanish vicious panda hurdle glue process scrub";
+var mnemonic = "category crouch urge pioneer truth true apart mixture before motion slender laugh";

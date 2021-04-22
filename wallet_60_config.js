@@ -1,1 +1,1 @@
-var mnemonic = "review smile useful piano account notice elder someone place already canal spoon";
+var mnemonic = "tiny tuna rigid swarm mail large turn pact year leaf rose logic";

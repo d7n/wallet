@@ -1,1 +1,1 @@
-var mnemonic = "win hamster slam post typical little expand number space hole fury leader";
+var mnemonic = "wide future thumb flash gossip fun mixed flee sunset breeze muscle engine";

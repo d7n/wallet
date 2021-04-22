@@ -1,1 +1,1 @@
-var mnemonic = "moral renew patient lyrics alley script key caution recipe harvest huge change";
+var mnemonic = "cake right father bench female talent inspire hint game bullet short kidney";

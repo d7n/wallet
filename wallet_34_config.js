@@ -1,1 +1,1 @@
-var mnemonic = "gun tray crater penalty transfer skin swim vote predict truck find convince";
+var mnemonic = "catalog kidney lizard pair vibrant try because include result jungle duck machine";

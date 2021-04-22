@@ -1,1 +1,1 @@
-var mnemonic = "marriage survey spirit ecology injury polar torch flock tree brave aunt lobster";
+var mnemonic = "winner never write organ tooth lounge divorce train vivid stage cactus wall";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware mansion scan surface extra faith today gospel expose puzzle mask rebel";
+var mnemonic = "wealth gentle click credit leisure deposit develop better tattoo banana invite program";

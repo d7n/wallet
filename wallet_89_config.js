@@ -1,1 +1,1 @@
-var mnemonic = "animal curious toy exotic globe slot nephew actress leg utility symptom inner";
+var mnemonic = "message lottery churn mirror link legal couch usage spy pink eternal can";

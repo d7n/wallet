@@ -1,1 +1,1 @@
-var mnemonic = "polar carbon bargain gap elite fee yellow scorpion actual until slow divert";
+var mnemonic = "ripple merry wise maid second theme where million robot pause twenty icon";

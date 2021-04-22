@@ -1,1 +1,1 @@
-var mnemonic = "course rule leader just wool one husband glue express prepare consider demand";
+var mnemonic = "insane lift render traffic treat resource bronze moon clinic idle weapon shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "drive alarm scrap sketch silk tone awesome upset oxygen float run middle";
+var mnemonic = "surround private few youth birth large night shell resemble garlic arrest debate";

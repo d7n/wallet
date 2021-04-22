@@ -1,1 +1,1 @@
-var mnemonic = "best fan all tree foil vocal stock wet champion silk farm welcome";
+var mnemonic = "bachelor where true abandon door donor spoon milk barrel cook hammer flower";

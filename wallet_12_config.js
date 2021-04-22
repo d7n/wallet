@@ -1,1 +1,1 @@
-var mnemonic = "lounge fan path wing fluid shield debris blame broccoli wife earn discover";
+var mnemonic = "spare trial sustain remain check infant morning short movie biology busy sort";

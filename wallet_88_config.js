@@ -1,1 +1,1 @@
-var mnemonic = "wild able siren famous exact dolphin birth obscure kite cheap wreck best";
+var mnemonic = "idea matrix unable scissors clay laundry engage need earn tower language scene";

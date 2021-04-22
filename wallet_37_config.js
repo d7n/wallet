@@ -1,1 +1,1 @@
-var mnemonic = "obscure rose pitch town skirt together common adapt topple gift peasant identify";
+var mnemonic = "hedgehog glimpse canal that patch ice need despair again silly lens mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "flight nephew amused rent donor bench bar speed foam mind army garage";
+var mnemonic = "same enjoy mobile capable fancy bleak vivid impulse enjoy topic add what";

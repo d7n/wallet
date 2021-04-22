@@ -1,1 +1,1 @@
-var mnemonic = "tattoo grit gesture excite enlist casual stove object hawk drift garden bracket";
+var mnemonic = "wide sample actress rural notable robot dynamic twin glory glass kitchen short";

@@ -1,1 +1,1 @@
-var mnemonic = "make ridge impulse wrong trim earn monkey night kite crowd rhythm tone";
+var mnemonic = "give hope normal dirt horn where total hood seminar mail success weekend";

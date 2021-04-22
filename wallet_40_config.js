@@ -1,1 +1,1 @@
-var mnemonic = "exit injury royal more book remain hope devote cram decorate noodle nuclear";
+var mnemonic = "tooth angle sense october possible limb motion host trick fancy hybrid link";

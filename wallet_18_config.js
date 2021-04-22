@@ -1,1 +1,1 @@
-var mnemonic = "job arena object multiply top cargo elder voyage they endorse series novel";
+var mnemonic = "margin evoke adapt meadow science lonely actress film between episode bean pledge";

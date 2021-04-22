@@ -1,1 +1,1 @@
-var mnemonic = "demand orphan beach payment police check armor expect arrive tonight sight bullet";
+var mnemonic = "annual twice plunge aspect recipe material sick drill twin absurd stadium timber";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth occur shiver other turn paper resemble observe torch display ridge express";
+var mnemonic = "prosper mixed cost priority inject avocado where swim enable trial extend topple";

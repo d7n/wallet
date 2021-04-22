@@ -1,1 +1,1 @@
-var mnemonic = "please mammal slab ginger trade immense hire medal chair remain utility uncover";
+var mnemonic = "winter rug fish joke fantasy glance old chair chef actual advance ripple";

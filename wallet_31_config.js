@@ -1,1 +1,1 @@
-var mnemonic = "attitude glass topple token final obey burst nuclear replace vehicle polar trial";
+var mnemonic = "flash federal blouse sweet gown better size crawl crumble enroll mix steak";

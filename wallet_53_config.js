@@ -1,1 +1,1 @@
-var mnemonic = "inch clog shell margin sponsor flight example shuffle fat holiday school cart";
+var mnemonic = "often popular leader tiny banner trick truly obey convince girl urban manage";

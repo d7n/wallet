@@ -1,1 +1,1 @@
-var mnemonic = "twenty sing minimum success youth shiver eight toilet humble exchange ladder depart";
+var mnemonic = "limit rely topic apology sound aunt congress secret dwarf novel sand mother";

@@ -1,1 +1,1 @@
-var mnemonic = "can lab army trial drop answer urge cluster learn funny panic shoe";
+var mnemonic = "offer deal fiction swallow solution reform bread alter leg joy miss cave";

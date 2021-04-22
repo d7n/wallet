@@ -1,1 +1,1 @@
-var mnemonic = "because success series nerve still stand music describe panther ozone phone ridge";
+var mnemonic = "dentist quality add guitar phrase cost polar method room yard easy bird";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor bench switch below cart misery tube spend file mix decade today";
+var mnemonic = "fabric coyote language welcome fancy margin solid cube discover brush repair valid";

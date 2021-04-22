@@ -1,1 +1,1 @@
-var mnemonic = "youth priority gain woman coast artist fine capable glass maid board always";
+var mnemonic = "ketchup horror sheriff frown job vague return inner olive autumn coral sheriff";

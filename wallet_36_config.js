@@ -1,1 +1,1 @@
-var mnemonic = "neck cradle above kiwi fire pair lock absurd decline east about rail";
+var mnemonic = "spice window celery stairs lawsuit chronic sport cabin power return clever truck";

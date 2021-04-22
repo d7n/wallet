@@ -1,1 +1,1 @@
-var mnemonic = "weapon agree angle okay proof ivory machine gospel search escape credit parent";
+var mnemonic = "result female bubble dizzy style wall own soon caution another comic rich";

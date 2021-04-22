@@ -1,1 +1,1 @@
-var mnemonic = "upset goat pear rural stool neck then hover just lumber switch churn";
+var mnemonic = "slab fit warrior calm soon into elegant emerge gather father off dry";

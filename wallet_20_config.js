@@ -1,1 +1,1 @@
-var mnemonic = "clutch enrich vapor pledge soul potato group regret royal song danger voyage";
+var mnemonic = "butter slide derive plunge champion escape breeze apology power group giraffe desk";

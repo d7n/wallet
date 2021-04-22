@@ -1,1 +1,1 @@
-var mnemonic = "balance firm trim north fragile extra coach crack march cube water timber";
+var mnemonic = "cinnamon mix lock antenna coffee inject govern art dash ahead cigar sample";

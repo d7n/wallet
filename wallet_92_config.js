@@ -1,1 +1,1 @@
-var mnemonic = "island chest dilemma unhappy task length add boring strategy empower wolf jazz";
+var mnemonic = "segment document pioneer meat wrestle replace myself hero bachelor frozen garden system";

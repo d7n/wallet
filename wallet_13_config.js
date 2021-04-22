@@ -1,1 +1,1 @@
-var mnemonic = "orchard artist spice force exist advance logic crash solar repeat elite patch";
+var mnemonic = "dream diesel duck employ observe poet draw snake enroll industry audit life";

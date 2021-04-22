@@ -1,1 +1,1 @@
-var mnemonic = "topple ski salad bicycle family face toy certain dream purpose unit play";
+var mnemonic = "enforce sentence cigar cherry raise kitten invite monster legal soon stumble produce";

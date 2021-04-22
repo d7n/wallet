@@ -1,1 +1,1 @@
-var mnemonic = "ankle slush spice world rely smart lecture screen symbol enlist stamp when";
+var mnemonic = "east exchange law fault split choose genius six ramp wrist oblige inherit";

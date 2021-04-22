@@ -1,1 +1,1 @@
-var mnemonic = "fold seven random gain stove chef sock cliff evolve sign mobile start";
+var mnemonic = "token slush pet try auto pepper raise deputy daring tooth around abstract";

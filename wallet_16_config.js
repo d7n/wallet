@@ -1,1 +1,1 @@
-var mnemonic = "dash shoe crop video oven cost garden odor across strategy promote cheap";
+var mnemonic = "safe veteran fresh author decide shop cigar pigeon lab fancy account cage";

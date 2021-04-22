@@ -1,1 +1,1 @@
-var mnemonic = "blossom knife mansion apart sea night fortune decorate lava maid key midnight";
+var mnemonic = "huge circle snake resource grape wrap room call control talk morning hybrid";

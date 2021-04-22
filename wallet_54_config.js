@@ -1,1 +1,1 @@
-var mnemonic = "sail there tongue fantasy knife smooth wash across soup aim convince exhibit";
+var mnemonic = "taste knee cage cement prison pig wild begin memory vapor pizza all";

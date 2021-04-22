@@ -1,1 +1,1 @@
-var mnemonic = "ecology dial hundred tray brass fold main dove pupil claim obscure domain";
+var mnemonic = "enforce dove phone impulse bone notice virtual heart worth uphold evil comic";

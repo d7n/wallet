@@ -1,1 +1,1 @@
-var mnemonic = "art kidney tilt veteran vintage neglect fee veteran shrimp custom shove faint";
+var mnemonic = "punch coin lesson pluck cabin increase become business deliver captain dial actual";

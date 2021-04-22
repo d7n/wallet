@@ -1,1 +1,1 @@
-var mnemonic = "enemy reform glow soon theme disagree offer bulb market snap apple mean";
+var mnemonic = "notable stairs museum ripple quality desk congress next stamp cash bird spawn";

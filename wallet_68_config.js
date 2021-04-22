@@ -1,1 +1,1 @@
-var mnemonic = "news body desert over goat monkey diamond cabin push immense unaware often";
+var mnemonic = "cattle hockey nasty toward silent upon catch entry pole cube chunk holiday";

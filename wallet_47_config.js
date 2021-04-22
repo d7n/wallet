@@ -1,1 +1,1 @@
-var mnemonic = "scan notice game reform dignity result various frequent wild bless verb blast";
+var mnemonic = "math daring benefit glare garage proof chase wheat south youth quality domain";

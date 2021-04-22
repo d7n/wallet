@@ -1,1 +1,1 @@
-var mnemonic = "attitude deer inner click argue spatial illegal nature trophy beef inch business";
+var mnemonic = "trade phone journey peasant still worth inflict slow impose lunar fence once";

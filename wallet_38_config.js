@@ -1,1 +1,1 @@
-var mnemonic = "rapid give bracket false crunch amount ride whisper wage place there rude";
+var mnemonic = "bachelor easy frown flat face betray deal bracket warrior exclude brisk away";

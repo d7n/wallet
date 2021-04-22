@@ -1,1 +1,1 @@
-var mnemonic = "leader ridge service grow manage flower radar frozen exile shop blood robot";
+var mnemonic = "alter great warm taste pact rural limb breeze net captain mercy term";

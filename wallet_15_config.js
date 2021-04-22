@@ -1,1 +1,1 @@
-var mnemonic = "person heavy risk faint prize lake diesel cute gold plug bundle region";
+var mnemonic = "snap naive unique trim lazy flush capable together coffee damp turkey pulse";

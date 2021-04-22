@@ -1,1 +1,1 @@
-var mnemonic = "guide cinnamon wisdom feature sniff hair earn aisle dress unfair mule crime";
+var mnemonic = "taxi crowd cram submit vintage verb couple federal ranch insane panel almost";

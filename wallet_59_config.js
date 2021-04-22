@@ -1,1 +1,1 @@
-var mnemonic = "similar hen diesel omit canal train pet claim husband unveil develop couch";
+var mnemonic = "glory avocado street quality clown someone arena text love blur waste crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "coil fold monkey myself praise enter radar board reform badge sunset sing";
+var mnemonic = "vacuum replace gesture brisk oyster armor tornado inspire decade blame exotic mushroom";
