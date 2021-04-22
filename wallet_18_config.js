@@ -1,1 +1,1 @@
-var mnemonic = "food furnace quit silly dash bone eye credit pizza brain dwarf cherry";
+var mnemonic = "salmon raw build during tower old save tool purchase cup goddess century";

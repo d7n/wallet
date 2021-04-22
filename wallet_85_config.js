@@ -1,1 +1,1 @@
-var mnemonic = "mother wise math install dolphin cable army number notable issue family tennis";
+var mnemonic = "general hobby team donate render door like day grunt fix couch shrimp";

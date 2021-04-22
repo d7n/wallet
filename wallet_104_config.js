@@ -1,1 +1,1 @@
-var mnemonic = "water cruise deal crack fancy spoil bring whale addict easy loud afford";
+var mnemonic = "crawl regret ill teach brisk frequent velvet soul pupil put federal hat";

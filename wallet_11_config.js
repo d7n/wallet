@@ -1,1 +1,1 @@
-var mnemonic = "alter carpet need oxygen slogan violin drink exit industry young liar benefit";
+var mnemonic = "fix service course match volume laptop rebuild finish paddle lens mosquito sock";

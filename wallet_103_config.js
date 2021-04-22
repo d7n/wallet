@@ -1,1 +1,1 @@
-var mnemonic = "isolate thunder round blush habit hen shoulder sport flee digital swift save";
+var mnemonic = "moral dragon into indicate budget admit rib spider road inform mix brand";

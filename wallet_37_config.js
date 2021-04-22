@@ -1,1 +1,1 @@
-var mnemonic = "blur position day equal stick gold apple surround obey they guess kiwi";
+var mnemonic = "space crater decline fetch tragic board post powder jealous else case turn";

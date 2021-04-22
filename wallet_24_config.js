@@ -1,1 +1,1 @@
-var mnemonic = "write tiger broom desk carry month rule soccer logic husband leg motor";
+var mnemonic = "toy photo saddle arch perfect uniform throw afford wash intact change reveal";

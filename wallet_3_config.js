@@ -1,1 +1,1 @@
-var mnemonic = "doctor link shiver flight camera still immune special ranch good review crew";
+var mnemonic = "treat owner drift input portion frozen artwork breeze shock inner lunch edge";

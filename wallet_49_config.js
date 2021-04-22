@@ -1,1 +1,1 @@
-var mnemonic = "tray fluid choice virus act charge ghost must supply foam suggest fee";
+var mnemonic = "someone vital blast bright north kite caught trick neutral odor legal retire";

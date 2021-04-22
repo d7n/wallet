@@ -1,1 +1,1 @@
-var mnemonic = "run matter middle acquire verify escape weekend kind omit basket antique motor";
+var mnemonic = "since affair series shrimp collect kid admit pet bike orchard power vote";

@@ -1,1 +1,1 @@
-var mnemonic = "load tooth aerobic panther come forest predict ripple antenna table motion scissors";
+var mnemonic = "excuse spring silent poem torch mail ask turtle alone rack cover distance";

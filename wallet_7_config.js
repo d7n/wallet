@@ -1,1 +1,1 @@
-var mnemonic = "inside hidden come siren frown frozen success soft naive sign inside print";
+var mnemonic = "risk cupboard ribbon oven dance paddle already mail all brother spatial swear";

@@ -1,1 +1,1 @@
-var mnemonic = "remember canyon crucial near basket artist page imitate genuine table someone false";
+var mnemonic = "mirror chalk burden tired swamp execute shell focus stem speak silent number";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle merit mass bargain world nuclear slam nuclear false blush boss trade";
+var mnemonic = "lawsuit ice tuition glory virtual area noble immense cargo tower destroy cement";

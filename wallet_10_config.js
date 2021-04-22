@@ -1,1 +1,1 @@
-var mnemonic = "debate slab glass nurse eyebrow immune proud garlic denial chuckle search stable";
+var mnemonic = "loan erode round scout mango civil cart vast bamboo couch two obey";

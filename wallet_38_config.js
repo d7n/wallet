@@ -1,1 +1,1 @@
-var mnemonic = "siren shield palm crumble outdoor grant peanut thrive allow enable bicycle wheel";
+var mnemonic = "double breeze orange shadow praise lady wonder ranch spray dinosaur rule tree";

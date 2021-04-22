@@ -1,1 +1,1 @@
-var mnemonic = "chase file hat patch tobacco wagon hawk chunk cinnamon pelican network usage";
+var mnemonic = "code jeans warrior wet urban lounge dice cinnamon hat crumble rural want";

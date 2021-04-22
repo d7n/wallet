@@ -1,1 +1,1 @@
-var mnemonic = "armed cluster enable october crisp try game color have year stuff latin";
+var mnemonic = "arch law essence scrub chapter fresh elder morning broom vote car weekend";

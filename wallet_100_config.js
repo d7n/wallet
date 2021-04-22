@@ -1,1 +1,1 @@
-var mnemonic = "hidden quantum domain try ramp already december melody brick two such cinnamon";
+var mnemonic = "picture silk witness grit eternal inform same expose recipe rain curious little";

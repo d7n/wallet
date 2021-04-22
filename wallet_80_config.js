@@ -1,1 +1,1 @@
-var mnemonic = "ketchup share music warrior inspire camera mixed subway history horse latin salute";
+var mnemonic = "tool rough danger purity stay situate popular hover smoke ugly label curious";

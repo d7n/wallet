@@ -1,1 +1,1 @@
-var mnemonic = "skin garment wash jazz square inspire miss artist exhaust tower reunion test";
+var mnemonic = "base inside table duck client problem velvet confirm then fatigue twice hair";

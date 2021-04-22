@@ -1,1 +1,1 @@
-var mnemonic = "chalk empty veteran girl news target want area amused walnut jacket lyrics";
+var mnemonic = "output supply goat hair chat embody nice renew civil plastic mixed dream";

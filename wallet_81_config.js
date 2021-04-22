@@ -1,1 +1,1 @@
-var mnemonic = "math purse anger hurt night two hundred axis window enforce rotate protect";
+var mnemonic = "shoot evolve because toss layer domain latin refuse install protect mystery clinic";

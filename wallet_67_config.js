@@ -1,1 +1,1 @@
-var mnemonic = "sight correct novel heart where risk special menu dawn rural gas improve";
+var mnemonic = "ten invite skill twice danger path horn slight dune now crane girl";

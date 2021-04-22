@@ -1,1 +1,1 @@
-var mnemonic = "category text deal suffer finger hero dinner hand light fold wood clown";
+var mnemonic = "reward buffalo portion uphold limb boy pepper route void woman copy exotic";

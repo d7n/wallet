@@ -1,1 +1,1 @@
-var mnemonic = "bird quiz eyebrow reveal found leg bundle cry old crumble paddle popular";
+var mnemonic = "tonight turtle obtain type path senior wife celery damp grid erode piece";

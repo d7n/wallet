@@ -1,1 +1,1 @@
-var mnemonic = "slice expect oval bomb sword light apple just shield tornado mask put";
+var mnemonic = "lawsuit journey soldier business glory reflect innocent achieve bind curtain real chief";

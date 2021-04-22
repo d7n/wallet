@@ -1,1 +1,1 @@
-var mnemonic = "enrich miracle case element object patient maximum crowd turkey movie cave vintage";
+var mnemonic = "private hollow outside space evolve bicycle gossip absorb noble bubble label light";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude abuse push history happy toast retreat then dog rose someone thought";
+var mnemonic = "armed story sponsor bachelor race cherry tank violin intact photo mask swap";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant aunt weasel orbit message infant between fog laugh alert drama fun";
+var mnemonic = "machine mask heavy wise future file journey wise episode puppy mesh buzz";

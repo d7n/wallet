@@ -1,1 +1,1 @@
-var mnemonic = "merge pact snack forget soda reunion disorder rhythm ivory forum recall text";
+var mnemonic = "chalk venture develop scrub cannon armor certain tag quote meat harbor voyage";

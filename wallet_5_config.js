@@ -1,1 +1,1 @@
-var mnemonic = "scatter dial multiply oil kidney beef network target orient champion remove girl";
+var mnemonic = "fossil web goose bacon tired come knee zone major model pair elder";

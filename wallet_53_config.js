@@ -1,1 +1,1 @@
-var mnemonic = "metal advice charge proud whale cave fog curve south neck snap damp";
+var mnemonic = "double net suggest decide medal wisdom anchor fee patrol fiscal tuition embody";

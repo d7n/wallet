@@ -1,1 +1,1 @@
-var mnemonic = "ball wrestle deposit gauge shoot palm digital noble violin pact record catch";
+var mnemonic = "romance recycle distance garbage early silk outdoor frost organ flame wide elephant";

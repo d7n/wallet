@@ -1,1 +1,1 @@
-var mnemonic = "spell brisk critic cook already dwarf farm arm tape just embody market";
+var mnemonic = "pair bleak topple tourist menu buddy throw country mass already essence fit";

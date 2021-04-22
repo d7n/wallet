@@ -1,1 +1,1 @@
-var mnemonic = "genius order pear basket birth expire attract furnace pave hole chalk measure";
+var mnemonic = "alien elite deliver tribe initial eyebrow grocery tonight rely execute keep hover";

@@ -1,1 +1,1 @@
-var mnemonic = "reason slot tomato cabin menu myth ocean patient fever amount sun cave";
+var mnemonic = "broccoli slot celery diamond range whisper exclude seven sniff share mountain sea";

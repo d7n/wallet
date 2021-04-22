@@ -1,1 +1,1 @@
-var mnemonic = "violin answer together patrol pull fog solution start erosion wonder cliff fantasy";
+var mnemonic = "bone twice session buyer dress unveil enact fun almost call slot tilt";

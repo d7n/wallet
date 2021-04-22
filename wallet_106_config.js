@@ -1,1 +1,1 @@
-var mnemonic = "mind switch advice festival energy disease mango essence join sponsor uniform enemy";
+var mnemonic = "focus rely fault match unique celery comfort virtual nephew voyage charge adapt";

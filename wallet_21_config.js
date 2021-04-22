@@ -1,1 +1,1 @@
-var mnemonic = "kitten piano luggage hour camera table lonely tube nurse connect age tunnel";
+var mnemonic = "again jar foil mutual margin wage praise trim excess address ecology enroll";

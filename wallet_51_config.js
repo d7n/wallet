@@ -1,1 +1,1 @@
-var mnemonic = "review destroy asset wrap win grape hero swing six when legal setup";
+var mnemonic = "bracket company exact planet twelve theme gain aim short scare leisure shop";

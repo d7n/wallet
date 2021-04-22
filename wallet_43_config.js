@@ -1,1 +1,1 @@
-var mnemonic = "detect they waste swamp step caught void sibling when apple possible they";
+var mnemonic = "this essay toe sorry milk remain wrestle mobile mistake finish urge crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "mother galaxy credit frame cheap sketch airport concert laptop dawn life come";
+var mnemonic = "peace match top embark weekend dolphin wealth lizard yard merry goat diamond";

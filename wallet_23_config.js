@@ -1,1 +1,1 @@
-var mnemonic = "hamster wild apart sugar diamond process dose kiwi carpet uphold later ahead";
+var mnemonic = "guilt please timber never final kit garden ignore supply across panel interest";

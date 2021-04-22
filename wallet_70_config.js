@@ -1,1 +1,1 @@
-var mnemonic = "awake lock dismiss shock approve business master aunt seed ready exotic echo";
+var mnemonic = "repair camp song chef involve cruel opinion connect axis sunset noble puzzle";

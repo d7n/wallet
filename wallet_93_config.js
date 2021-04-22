@@ -1,1 +1,1 @@
-var mnemonic = "ordinary elephant client drink sense gloom trial cattle afraid kingdom enhance drink";
+var mnemonic = "drip envelope truly shrug seven odor hour remove vessel fossil screen session";

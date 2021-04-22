@@ -1,1 +1,1 @@
-var mnemonic = "blind desk inspire split struggle okay foot muscle imitate culture lend save";
+var mnemonic = "cricket crack blush busy later stairs gun craft river acid language sad";

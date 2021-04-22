@@ -1,1 +1,1 @@
-var mnemonic = "task cradle festival code appear foot total carry decline negative bean solve";
+var mnemonic = "arrive captain system beef corn cigar bargain spider ugly mind arrange bottom";

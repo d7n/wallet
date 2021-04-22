@@ -1,1 +1,1 @@
-var mnemonic = "depart copy supply increase acquire youth promote curious shove sail try kit";
+var mnemonic = "then arctic prize boy moment season globe cabin dash stand assault service";

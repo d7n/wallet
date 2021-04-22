@@ -1,1 +1,1 @@
-var mnemonic = "buddy mountain man lumber mass odor debate jump sadness pulp key gift";
+var mnemonic = "toward advance small smoke crumble ancient ribbon theory interest price monitor protect";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic between lesson business oil patch boy pilot program vacant wheat rapid";
+var mnemonic = "shallow trumpet dice hedgehog spend zero feature innocent pretty mountain leave matter";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose above permit help leopard render this mouse visa runway moment pulse";
+var mnemonic = "monkey month drum delay puppy vacant cloud discover forum duty stamp pair";

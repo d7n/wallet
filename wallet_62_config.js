@@ -1,1 +1,1 @@
-var mnemonic = "turn always pepper logic crush stand cabin pigeon same punch arrive nose";
+var mnemonic = "gentle tip boost depart idea faculty meadow front proud alpha year appear";

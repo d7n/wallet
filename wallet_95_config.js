@@ -1,1 +1,1 @@
-var mnemonic = "festival oak scout wide bonus ripple certain debris upon bracket pony stadium";
+var mnemonic = "verify flame hint inform fever garage carbon erosion melt middle actual lucky";

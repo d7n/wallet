@@ -1,1 +1,1 @@
-var mnemonic = "stomach afford eagle erupt tool exact fat wet this supreme become priority";
+var mnemonic = "kick ugly chuckle medal mammal demise claim spring excuse history behind average";

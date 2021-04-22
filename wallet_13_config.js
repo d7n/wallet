@@ -1,1 +1,1 @@
-var mnemonic = "budget human town master dismiss stem arm before because woman tooth such";
+var mnemonic = "consider lend elbow tag student access tortoise skirt fever what pencil evolve";

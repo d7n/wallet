@@ -1,1 +1,1 @@
-var mnemonic = "deposit visit various stable hundred select initial exit mistake desert monkey one";
+var mnemonic = "right chair problem original quiz weasel practice afford lumber indoor panel sheriff";

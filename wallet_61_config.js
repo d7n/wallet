@@ -1,1 +1,1 @@
-var mnemonic = "genuine copper brown priority emerge bitter resist symptom exile draw magnet minimum";
+var mnemonic = "typical swift calm woman rug tennis merge salad smooth real walnut solution";

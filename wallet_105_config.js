@@ -1,1 +1,1 @@
-var mnemonic = "act toy wheat gadget normal toe grace animal share own label pencil";
+var mnemonic = "provide guilt coral quit tackle scheme girl elegant extend rather huge confirm";

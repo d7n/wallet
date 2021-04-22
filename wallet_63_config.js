@@ -1,1 +1,1 @@
-var mnemonic = "review lock leave choose vendor eager exhaust search mad transfer banana cube";
+var mnemonic = "dizzy wonder mean upgrade region keen trend hawk rule size rug chief";

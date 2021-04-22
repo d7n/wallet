@@ -1,1 +1,1 @@
-var mnemonic = "hybrid traffic wave illness basic floor wisdom follow advice cargo share surprise";
+var mnemonic = "use panic water enemy jungle empty lock hurt inner pledge uncover title";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet cross prevent youth own law prize coast era banana time pride";
+var mnemonic = "awkward barrel alarm engine test mirror mandate fancy conduct payment farm quality";

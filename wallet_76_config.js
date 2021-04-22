@@ -1,1 +1,1 @@
-var mnemonic = "spike crash double lizard cruel finger enroll weekend grief increase bullet exist";
+var mnemonic = "network stay stereo canyon van march enforce patrol sugar current issue uphold";

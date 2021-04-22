@@ -1,1 +1,1 @@
-var mnemonic = "drift true thumb exhaust unveil brass cloud dust heart mercy dash almost";
+var mnemonic = "wisdom love begin page dilemma cheap wild brief sister main badge recipe";

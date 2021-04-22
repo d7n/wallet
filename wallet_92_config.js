@@ -1,1 +1,1 @@
-var mnemonic = "shed chair galaxy document quit proud laugh royal quote evolve weather minimum";
+var mnemonic = "naive health walnut resource myself april true join job news dinner glue";

@@ -1,1 +1,1 @@
-var mnemonic = "during guess example ripple afraid draft diagram cargo vital trumpet hybrid broken";
+var mnemonic = "digital myself brief finish cool true myself danger glide easily sorry repair";

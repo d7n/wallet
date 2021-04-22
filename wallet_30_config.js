@@ -1,1 +1,1 @@
-var mnemonic = "maze human liar hybrid ridge talent inside concert laptop degree issue habit";
+var mnemonic = "shaft level faith wide verify slice sustain float cup jungle mistake ketchup";

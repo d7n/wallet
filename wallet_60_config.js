@@ -1,1 +1,1 @@
-var mnemonic = "record garment cram tube hazard mind bag potato draft tortoise expect mind";
+var mnemonic = "mountain lobster property torch reduce adapt fox film humor audit frozen you";

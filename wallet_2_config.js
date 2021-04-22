@@ -1,1 +1,1 @@
-var mnemonic = "glory book urge method lobster people income art tone smart strong limit";
+var mnemonic = "moral yellow filter depth catch section pilot tail special hood mix shop";

@@ -1,1 +1,1 @@
-var mnemonic = "close review advance float hurry between myth across vague spoil festival close";
+var mnemonic = "engage sense sphere grow govern leaf divorce rigid alley prefer orange sell";

@@ -1,1 +1,1 @@
-var mnemonic = "ship ship man jelly fiscal leaf cube shock bright clog entire tattoo";
+var mnemonic = "fan shield elite celery room symbol devote motion cherry blanket ecology wonder";

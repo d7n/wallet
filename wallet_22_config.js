@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit armed brisk thumb spawn desk width bar order cave cage paper";
+var mnemonic = "initial happy park struggle range good cigar cat frown you together spice";

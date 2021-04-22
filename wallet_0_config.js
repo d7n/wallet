@@ -1,1 +1,1 @@
-var mnemonic = "vital broom tortoise dice wheel net burden supply right valve assist embark";
+var mnemonic = "join bright green hold athlete math language boy disease gap wrist episode";

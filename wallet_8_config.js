@@ -1,1 +1,1 @@
-var mnemonic = "dinner left wolf involve edge limb among scheme relief raccoon search wisdom";
+var mnemonic = "pluck analyst squirrel sad liar food bullet ability intact female double collect";

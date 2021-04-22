@@ -1,1 +1,1 @@
-var mnemonic = "purity boring bulk hand purchase can custom chair retire cable setup humor";
+var mnemonic = "echo alien lyrics gorilla lion seven primary jelly swamp music left guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "will accident mushroom merry radar scale sudden series together jewel climb fade";
+var mnemonic = "horse slice seat eight meat math spirit thought genre view rain usual";

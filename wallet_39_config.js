@@ -1,1 +1,1 @@
-var mnemonic = "shuffle situate coast civil travel cross smart habit razor myself nurse trim";
+var mnemonic = "utility diagram add develop license nothing inherit bean ranch banana time theory";

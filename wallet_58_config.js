@@ -1,1 +1,1 @@
-var mnemonic = "tonight clap enhance wash lounge utility kidney evolve alone impose blanket climb";
+var mnemonic = "half layer peanut poem office harsh satisfy next bundle cancel tired puzzle";

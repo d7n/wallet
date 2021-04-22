@@ -1,1 +1,1 @@
-var mnemonic = "merry perfect transfer hire craft promote shrimp other debris raise vast neutral";
+var mnemonic = "sausage labor express loan hand bitter report demand old update another clock";

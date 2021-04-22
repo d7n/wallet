@@ -1,1 +1,1 @@
-var mnemonic = "turkey crowd minute magnet crush foam rhythm blanket mountain poverty symbol hold";
+var mnemonic = "room jelly ecology kind dignity able tourist cause scissors code dragon oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk arrow example medal spin tiny extend mystery divide call human airport";
+var mnemonic = "surge piano much step regret cliff grab perfect grape find gift gym";

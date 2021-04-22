@@ -1,1 +1,1 @@
-var mnemonic = "utility step kit hero wedding inner travel cargo decade letter permit wrist";
+var mnemonic = "basket planet bulk text february response expire net gallery avoid leave arrive";

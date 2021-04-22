@@ -1,1 +1,1 @@
-var mnemonic = "simple desk health infant matrix few mesh sheriff layer stadium add prevent";
+var mnemonic = "exhaust excite topic bean soup spare fault physical hour exclude family promote";

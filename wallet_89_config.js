@@ -1,1 +1,1 @@
-var mnemonic = "help cotton tip tiny glove lucky embark subway clever drop rude amazing";
+var mnemonic = "beach cabbage naive pelican ask refuse crawl message shine jewel style human";

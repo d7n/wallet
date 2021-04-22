@@ -1,1 +1,1 @@
-var mnemonic = "ready autumn canoe lobster hello salmon reason actress test blossom pledge organ";
+var mnemonic = "crane club voyage worth certain catch fresh brick outer afraid echo imitate";

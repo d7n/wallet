@@ -1,1 +1,1 @@
-var mnemonic = "sugar wolf van lamp pilot enhance fatal switch steak inmate smooth old";
+var mnemonic = "prison echo friend journey eagle hurry face sibling photo decade brave hole";

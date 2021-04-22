@@ -1,1 +1,1 @@
-var mnemonic = "since medal dinosaur upper left used sunset bid garden there system virtual";
+var mnemonic = "filter penalty prize online ethics cradle squirrel strategy faint sort isolate loyal";

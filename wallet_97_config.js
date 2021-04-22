@@ -1,1 +1,1 @@
-var mnemonic = "anger sniff diagram pig load essay shoot flip neck owner tell picnic";
+var mnemonic = "valid case keen cradle canal client essay prison web hen bounce flag";

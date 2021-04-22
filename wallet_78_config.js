@@ -1,1 +1,1 @@
-var mnemonic = "fiction write comfort jeans goddess robot miracle annual timber dutch cream alone";
+var mnemonic = "spy include unaware drift inspire swarm claim kingdom foil media grant cover";

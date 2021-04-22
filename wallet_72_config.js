@@ -1,1 +1,1 @@
-var mnemonic = "grit struggle throw tag combine balcony science start move stand erase snack";
+var mnemonic = "dove father upset police camp oxygen such fancy receive cheese online myself";

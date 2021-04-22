@@ -1,1 +1,1 @@
-var mnemonic = "phrase attitude invest car jeans above cheap first smoke toward comfort swift";
+var mnemonic = "shaft hunt please moon reject car expect remind allow path belt soft";

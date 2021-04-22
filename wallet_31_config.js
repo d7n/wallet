@@ -1,1 +1,1 @@
-var mnemonic = "juice card lunch thumb marriage million cry story innocent midnight sea kangaroo";
+var mnemonic = "fiction hobby join celery bag away pizza young blouse globe drill forward";

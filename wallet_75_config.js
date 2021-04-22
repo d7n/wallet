@@ -1,1 +1,1 @@
-var mnemonic = "picnic winner crush olympic long shield bubble duck imitate forward behind engage";
+var mnemonic = "tongue display oil brick brief video buffalo because anchor proof nose meadow";
