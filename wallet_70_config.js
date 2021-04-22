@@ -1,1 +1,1 @@
-var mnemonic = "cube wagon sport snake physical divorce city area advice volume frozen million";
+var mnemonic = "vague snow circle fat shed blade feel slam stool reopen excess fat";

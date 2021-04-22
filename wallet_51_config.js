@@ -1,1 +1,1 @@
-var mnemonic = "car market brain company scheme twelve acquire example wall human solar rookie";
+var mnemonic = "retreat wage idle leaf that time ball cool glow cover knock speak";

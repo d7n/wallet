@@ -1,1 +1,1 @@
-var mnemonic = "outside champion search rain room glare slot resource correct famous because chuckle";
+var mnemonic = "people math fashion all strategy question gown cabbage rigid list govern remain";

@@ -1,1 +1,1 @@
-var mnemonic = "rib today dune shoulder seminar tide fortune health hurdle capital frost space";
+var mnemonic = "vintage sick that float artefact nuclear attack width crack swamp display blade";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor scan whisper neck clip twin wink elder elephant okay only dynamic";
+var mnemonic = "swarm winner water retire place fault jump ranch body average purpose humor";

@@ -1,1 +1,1 @@
-var mnemonic = "marine banana famous embark zebra sand awesome vault electric kiwi awful north";
+var mnemonic = "foot install prefer decline robot mass diary orange muscle cart shield meadow";

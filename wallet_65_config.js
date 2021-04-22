@@ -1,1 +1,1 @@
-var mnemonic = "tooth entry cargo cherry again wine human odor tragic crush pig blouse";
+var mnemonic = "imitate debate either legend fitness slab door wise train acid drop grab";

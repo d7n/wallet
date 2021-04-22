@@ -1,1 +1,1 @@
-var mnemonic = "alone shove resist tray first rate awake merge village pudding salt peasant";
+var mnemonic = "clerk fragile notable answer build repair amount cousin liar surge similar month";

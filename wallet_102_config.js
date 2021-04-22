@@ -1,1 +1,1 @@
-var mnemonic = "auto rough ride cook village onion useful jaguar apart chair van wrap";
+var mnemonic = "private citizen pudding build ten flock circle witness prepare win sad traffic";

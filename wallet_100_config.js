@@ -1,1 +1,1 @@
-var mnemonic = "faculty plug situate brave sentence imitate decline six hen federal bulk memory";
+var mnemonic = "celery board orange leave among style grid brick skirt edit cram wash";

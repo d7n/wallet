@@ -1,1 +1,1 @@
-var mnemonic = "power field attack grab skin nerve detail cross edit village jar rifle";
+var mnemonic = "rule sell merit debris sense any include frown evoke license antenna wine";

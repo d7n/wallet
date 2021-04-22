@@ -1,1 +1,1 @@
-var mnemonic = "mix draft benefit awful will proof rebuild wedding credit digital suit open";
+var mnemonic = "beauty scrub reflect dragon abandon oval enjoy bench pair pitch glory pair";

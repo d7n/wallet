@@ -1,1 +1,1 @@
-var mnemonic = "topic atom ripple average royal believe day midnight disagree response fog drum";
+var mnemonic = "hold output develop danger potato west twice kit owner flame fitness retreat";

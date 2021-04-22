@@ -1,1 +1,1 @@
-var mnemonic = "rule ridge swarm marine obtain lizard arrest mask waste head focus burden";
+var mnemonic = "spoon allow concert early crash among frog robot cousin together toddler purse";

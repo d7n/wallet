@@ -1,1 +1,1 @@
-var mnemonic = "invest utility disagree february skill reveal key use ghost veteran direct two";
+var mnemonic = "ancient month nose wear moral clog slush scorpion penalty fish bus seed";

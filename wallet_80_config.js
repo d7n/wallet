@@ -1,1 +1,1 @@
-var mnemonic = "twist winner vendor smile cradle exact planet name motor purity medal output";
+var mnemonic = "wait rookie keen decrease swarm tube swift camera dove bike cash scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "pen flat goddess lawn blouse scrub siege polar cereal aware birth stereo";
+var mnemonic = "health brief electric recipe extend siren ugly list unable velvet spoil guide";

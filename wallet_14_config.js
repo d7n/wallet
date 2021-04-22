@@ -1,1 +1,1 @@
-var mnemonic = "ankle ahead audit foot flavor wet rare grid quantum cabin grab chair";
+var mnemonic = "magnet there analyst symbol inject myself scout nothing pink learn minor hood";

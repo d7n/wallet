@@ -1,1 +1,1 @@
-var mnemonic = "make shallow whisper hour novel rough topic rival battle trumpet mass early";
+var mnemonic = "ladder puzzle tired oppose exhibit frame history mushroom twin screen lizard banner";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude session knee patient try jelly cloud glove confirm foster loan know";
+var mnemonic = "pride satoshi clerk endorse hand fly sample visual fall loud nest fossil";

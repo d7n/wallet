@@ -1,1 +1,1 @@
-var mnemonic = "rabbit worth cliff city elevator skin call coast this outside hat discover";
+var mnemonic = "chimney core ensure giggle weekend sand hurdle submit champion fitness cube napkin";

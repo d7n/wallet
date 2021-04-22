@@ -1,1 +1,1 @@
-var mnemonic = "betray trick crunch tiger undo car interest include scheme dilemma ensure fatigue";
+var mnemonic = "pyramid pitch tenant reason morning fringe among crucial teach pioneer carbon leisure";

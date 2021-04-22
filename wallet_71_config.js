@@ -1,1 +1,1 @@
-var mnemonic = "tape filter kidney either spice bar problem alone fly tourist appear slender";
+var mnemonic = "learn venture reunion over exclude medal shoe series jungle angry judge wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "door shallow guess easily addict foam brick tornado stage attend canvas upper";
+var mnemonic = "load delay alley aerobic media bread bleak coin will ridge come opinion";

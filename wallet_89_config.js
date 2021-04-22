@@ -1,1 +1,1 @@
-var mnemonic = "orphan theory ceiling virus electric hover wreck cabbage limit proud shallow purse";
+var mnemonic = "code run better hill base hair cloth short term midnight direct frame";

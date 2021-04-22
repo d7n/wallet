@@ -1,1 +1,1 @@
-var mnemonic = "talent net impact fault egg host casino ordinary business nation panda base";
+var mnemonic = "answer wet boss private aim diamond apology globe install crouch leisure indoor";

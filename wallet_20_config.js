@@ -1,1 +1,1 @@
-var mnemonic = "uniform carpet oven yellow supply spider duck price weather glass monkey uncle";
+var mnemonic = "pole you swear kick three spring blood increase clinic avocado senior prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "rude safe major flag bright solid invite chapter oven cushion noodle pave";
+var mnemonic = "napkin paper salad chat auto aim they kit warfare more tower drop";

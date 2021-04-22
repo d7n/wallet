@@ -1,1 +1,1 @@
-var mnemonic = "return parade negative unhappy reopen idea honey rhythm child size primary egg";
+var mnemonic = "hood private flash replace shoulder surge length cube liar drop cricket invite";

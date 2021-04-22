@@ -1,1 +1,1 @@
-var mnemonic = "blossom leaf spell way reunion dolphin ritual virus garage lemon soul embrace";
+var mnemonic = "fiber stand brick slice rapid audit liberty motor rebel pizza dinosaur bag";

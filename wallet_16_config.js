@@ -1,1 +1,1 @@
-var mnemonic = "inner roast piano swim exact black clever cable shell angry purchase language";
+var mnemonic = "kangaroo offer miss stem lucky chaos damage fall joke riot hazard clerk";

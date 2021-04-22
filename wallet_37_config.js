@@ -1,1 +1,1 @@
-var mnemonic = "domain measure teach tomato marriage sad waste sign twice sweet differ cattle";
+var mnemonic = "novel sunset priority urge donate budget ordinary unveil attend base fish lottery";

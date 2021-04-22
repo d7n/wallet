@@ -1,1 +1,1 @@
-var mnemonic = "timber love card drip hover minute foil one dream head audit husband";
+var mnemonic = "skin random shiver miracle canyon rocket lumber illegal melody napkin mom wonder";

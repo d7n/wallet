@@ -1,1 +1,1 @@
-var mnemonic = "coral grow switch about moral reflect shoe patch ethics goddess know below";
+var mnemonic = "erosion unfold hundred feel egg person sure pole eagle cloth identify cheap";

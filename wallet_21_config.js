@@ -1,1 +1,1 @@
-var mnemonic = "clay cushion call often stool agree ship uncover royal stumble relief tomorrow";
+var mnemonic = "thank chronic cool video infant pink game analyst indicate utility sister invite";

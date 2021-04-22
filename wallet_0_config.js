@@ -1,1 +1,1 @@
-var mnemonic = "dune approve photo black insect armor tired trumpet culture hip tragic cave";
+var mnemonic = "curve glove peanut mom drift fatigue slot shiver song split easily army";

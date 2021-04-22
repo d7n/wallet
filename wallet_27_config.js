@@ -1,1 +1,1 @@
-var mnemonic = "infant world consider rail park dolphin exhibit toward office erupt wonder top";
+var mnemonic = "dog agree cage soul siren ill calm cheese tiny frog demand bubble";

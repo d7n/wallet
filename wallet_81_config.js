@@ -1,1 +1,1 @@
-var mnemonic = "lounge forum essence ring mercy labor peace seminar stereo impose chalk sport";
+var mnemonic = "monkey close coconut jealous hidden palm holiday image behind people purchase eyebrow";

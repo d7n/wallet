@@ -1,1 +1,1 @@
-var mnemonic = "program pass tool stone reward puzzle clever pet mango render electric bracket";
+var mnemonic = "wet pair fabric lazy humble such lounge wise alcohol smile chuckle excess";

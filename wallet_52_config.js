@@ -1,1 +1,1 @@
-var mnemonic = "reward merit coral fade people normal rack banana air buyer cannon elevator";
+var mnemonic = "awkward true plastic sea foster desert predict odor diet hamster neck vintage";

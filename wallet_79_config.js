@@ -1,1 +1,1 @@
-var mnemonic = "slush gain surround antenna bullet science autumn leopard metal sock nest host";
+var mnemonic = "physical immense city wrong fashion correct oil awake rate unusual inhale attract";

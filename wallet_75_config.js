@@ -1,1 +1,1 @@
-var mnemonic = "surround sleep bench this service excess stock before tomato december avoid brush";
+var mnemonic = "drive item harvest tunnel tilt ahead hand diagram layer dizzy avoid bind";

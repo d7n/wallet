@@ -1,1 +1,1 @@
-var mnemonic = "mom coin flock fan chalk wheat man oxygen pudding engine evidence raven";
+var mnemonic = "holiday analyst wrist pink photo machine frame cousin practice bullet almost drift";

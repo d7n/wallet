@@ -1,1 +1,1 @@
-var mnemonic = "slot enable mammal receive close never file book ketchup jacket victory tobacco";
+var mnemonic = "price pill woman hood adjust laptop simple canyon diesel marine century focus";

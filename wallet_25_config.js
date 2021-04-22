@@ -1,1 +1,1 @@
-var mnemonic = "muffin stove butter ugly kitten ginger wrong lens clip rabbit bachelor eagle";
+var mnemonic = "drift angry obvious health today ship gather pen miss canyon bulb turn";

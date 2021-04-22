@@ -1,1 +1,1 @@
-var mnemonic = "unfair process winter such install cave yard rely advance robust clip bone";
+var mnemonic = "review funny clerk loop purse number stamp hub ancient unaware bracket divide";

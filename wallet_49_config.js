@@ -1,1 +1,1 @@
-var mnemonic = "swift school rotate index ride prevent rail voice inherit live involve obey";
+var mnemonic = "describe champion key grid draw coconut relax invest rotate feel deer position";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty trash donate fuel desert diamond coast impose time toddler mail radio";
+var mnemonic = "debris labor view pull front scale smooth panel swarm rail walk visual";

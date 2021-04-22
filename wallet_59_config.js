@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cabin tide guilt bird lecture veteran weapon fog discover behave common";
+var mnemonic = "network leopard ethics switch large notable boost upset anger trick clutch auction";

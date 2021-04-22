@@ -1,1 +1,1 @@
-var mnemonic = "tongue verb afford second vapor animal subway ceiling duck panel pioneer guess";
+var mnemonic = "kingdom rate huge seed edge vacuum tribe limb elite label glance fame";

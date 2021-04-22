@@ -1,1 +1,1 @@
-var mnemonic = "embody opinion fly alcohol kind pair advance town foam fitness replace army";
+var mnemonic = "trophy twenty hover twelve online width legend image select cute soup rigid";

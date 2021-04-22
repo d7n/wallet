@@ -1,1 +1,1 @@
-var mnemonic = "rabbit once sure erosion napkin year plug depend capital blush forum check";
+var mnemonic = "slide friend vessel endless elevator accident undo eye canoe lunch hen brush";

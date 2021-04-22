@@ -1,1 +1,1 @@
-var mnemonic = "sing guess lobster danger resist calm tape movie ripple device express noble";
+var mnemonic = "pull idea party eternal seminar tone glare silly submit asset over green";

@@ -1,1 +1,1 @@
-var mnemonic = "dust sea mystery rural dilemma daughter rich raw horror brush exchange scrap";
+var mnemonic = "base exhibit pass fantasy coin mercy fire fork furnace unlock bullet sound";

@@ -1,1 +1,1 @@
-var mnemonic = "permit entire frequent staff today mass head coral spoon rookie auto table";
+var mnemonic = "twelve lady moral area own flight later circle dry velvet winner speak";

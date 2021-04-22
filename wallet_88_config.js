@@ -1,1 +1,1 @@
-var mnemonic = "subway position whale thunder rib price topple still train option awful dolphin";
+var mnemonic = "differ hair lens age course convince honey wing hurdle own rare twist";

@@ -1,1 +1,1 @@
-var mnemonic = "impact cotton approve drink mimic motor case dune anger crystal farm fatigue";
+var mnemonic = "announce actress alarm rare organ grow unfair upgrade payment toddler pipe useless";

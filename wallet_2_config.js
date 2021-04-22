@@ -1,1 +1,1 @@
-var mnemonic = "cage welcome poet ordinary ordinary cinnamon pepper kidney ready laugh layer cable";
+var mnemonic = "adapt wrestle lobster next wonder merit hockey peasant tray add diamond indoor";

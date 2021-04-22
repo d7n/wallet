@@ -1,1 +1,1 @@
-var mnemonic = "sun dragon year clay race gallery apology describe genius case hamster violin";
+var mnemonic = "enter october fee auto coil bounce artist entire jungle medal hurt helmet";

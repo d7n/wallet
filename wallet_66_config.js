@@ -1,1 +1,1 @@
-var mnemonic = "carbon define finger brief announce boil token region original legal chief artist";
+var mnemonic = "hill scrap fringe speed age stairs tennis state wide wine subway skirt";

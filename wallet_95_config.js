@@ -1,1 +1,1 @@
-var mnemonic = "loan stamp worth tragic corn book furnace heavy eight prosper bean divorce";
+var mnemonic = "primary coil term flat daring tell slogan half rebel eight they ranch";

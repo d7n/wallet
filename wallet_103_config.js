@@ -1,1 +1,1 @@
-var mnemonic = "phone snap define soccer spell later age trial monkey wedding era ability";
+var mnemonic = "off demise ancient upset abandon tooth pledge bachelor spin blossom convince around";

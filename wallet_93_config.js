@@ -1,1 +1,1 @@
-var mnemonic = "shine smoke cram eight pilot life nothing toe wood extend order people";
+var mnemonic = "actual dragon glove dilemma exact very slogan lift diagram ivory keep circle";

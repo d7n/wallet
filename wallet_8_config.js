@@ -1,1 +1,1 @@
-var mnemonic = "puzzle cook drip accident useful title hurdle main impulse wrap cinnamon gap";
+var mnemonic = "rural mixed tone local work battle burst dove alcohol cost purity mule";

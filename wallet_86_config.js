@@ -1,1 +1,1 @@
-var mnemonic = "caution wasp moral village mountain huge another hill sing snake early axis";
+var mnemonic = "hurdle analyst slight laugh blame spin maple couple slam annual soon indicate";

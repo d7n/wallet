@@ -1,1 +1,1 @@
-var mnemonic = "ticket lake exercise desk sense weapon visual quarter midnight unaware aisle riot";
+var mnemonic = "shoe scan size insect ahead joke good execute assume today cupboard captain";

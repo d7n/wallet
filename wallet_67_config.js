@@ -1,1 +1,1 @@
-var mnemonic = "copper topple walk hole famous ski holiday remove artwork snack drink eager";
+var mnemonic = "rug curve empower affair wise toilet mother tortoise extra vicious ahead chat";

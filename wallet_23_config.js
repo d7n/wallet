@@ -1,1 +1,1 @@
-var mnemonic = "scale little budget predict better seed amateur stomach orange boost leaf zoo";
+var mnemonic = "lizard fury silly acquire risk flip notice mom say unlock engage vague";

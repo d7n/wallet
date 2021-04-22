@@ -1,1 +1,1 @@
-var mnemonic = "disorder slot supreme safe scrap truth disease theory rival gap style ginger";
+var mnemonic = "prosper rose expose sauce tomorrow grant anchor slam area rhythm access brave";

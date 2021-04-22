@@ -1,1 +1,1 @@
-var mnemonic = "offer shoot cave fade curve live tooth old practice elder move awful";
+var mnemonic = "carpet flock already talk company timber month shaft chaos name choose quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "silly survey grow film exhibit boy earth label spell bike panther series";
+var mnemonic = "aisle boss define educate weasel final blur unusual cushion hawk indicate speak";

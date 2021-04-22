@@ -1,1 +1,1 @@
-var mnemonic = "flavor few toddler gauge scheme unique check genius piece much also under";
+var mnemonic = "rain cycle absorb aisle equal lottery field crater pioneer pigeon torch equal";

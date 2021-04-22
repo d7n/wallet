@@ -1,1 +1,1 @@
-var mnemonic = "tissue history swarm palace world believe random desert keen style gun cradle";
+var mnemonic = "evoke portion chaos craft regret feel ticket skill craft giraffe mind depend";

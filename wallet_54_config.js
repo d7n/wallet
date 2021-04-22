@@ -1,1 +1,1 @@
-var mnemonic = "wrestle stable prevent enroll pilot auto detail unknown original desert despair sauce";
+var mnemonic = "milk cage father prefer fragile orient master join wreck student fetch kid";

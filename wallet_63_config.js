@@ -1,1 +1,1 @@
-var mnemonic = "purchase frequent dial oak prefer fortune trumpet team news west stereo weapon";
+var mnemonic = "dilemma cute dry roast wait cinnamon pipe solution bag yellow lobster must";

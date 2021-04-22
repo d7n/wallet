@@ -1,1 +1,1 @@
-var mnemonic = "fish area build alien thought voyage patrol since drive void vault whale";
+var mnemonic = "dose simple spin require join tiger estate abuse news smile dash apple";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome skate garage basket post spy lonely foam mix fabric siege logic";
+var mnemonic = "target thumb pepper fatigue reform turkey review sun vault embark fancy tool";

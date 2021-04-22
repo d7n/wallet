@@ -1,1 +1,1 @@
-var mnemonic = "term own defy hood frame pulp own source gesture taxi pink actual";
+var mnemonic = "goat nest process horse blue order surround ankle seat thumb celery vault";

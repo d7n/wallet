@@ -1,1 +1,1 @@
-var mnemonic = "produce park smoke eager local knife gravity abandon firm rubber close trust";
+var mnemonic = "mail clutch neck crop fence ethics aware carry measure roof wrap opinion";

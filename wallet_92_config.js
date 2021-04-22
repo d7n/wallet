@@ -1,1 +1,1 @@
-var mnemonic = "endorse exotic actress success bird bomb donor jump truly tent exchange rapid";
+var mnemonic = "shadow donate struggle whisper inquiry expand gain problem tired zebra valve relief";

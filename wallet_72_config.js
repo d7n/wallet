@@ -1,1 +1,1 @@
-var mnemonic = "else priority clerk satisfy lamp amount intact outside tenant magic bargain report";
+var mnemonic = "slab place deal fee knife route only ozone prepare happy path bulb";

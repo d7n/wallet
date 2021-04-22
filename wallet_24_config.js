@@ -1,1 +1,1 @@
-var mnemonic = "exact detail online moment drift angle humor little song hero year squirrel";
+var mnemonic = "pretty brick garage rocket tape attend imitate corn bright scorpion donor fancy";

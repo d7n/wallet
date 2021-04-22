@@ -1,1 +1,1 @@
-var mnemonic = "indoor able tip rotate hawk march ribbon insane network autumn depend helmet";
+var mnemonic = "actress book claw vacant beef hire ill property gate color toward donkey";

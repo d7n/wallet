@@ -1,1 +1,1 @@
-var mnemonic = "industry faint ancient crime hidden lens file wolf vague hen autumn heavy";
+var mnemonic = "hobby potato shadow demand butter forward diary carbon paddle film crisp social";

@@ -1,1 +1,1 @@
-var mnemonic = "slim warrior enact thought secret recall champion nerve wall ribbon orange book";
+var mnemonic = "chief viable biology adjust toilet vacant mistake wage dignity device video unveil";

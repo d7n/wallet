@@ -1,1 +1,1 @@
-var mnemonic = "later suit post arctic basic onion grit scrub caught simple track curve";
+var mnemonic = "prosper quiz blossom prefer dose rotate juice enough draw wasp avoid execute";

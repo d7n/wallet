@@ -1,1 +1,1 @@
-var mnemonic = "banner rug predict coast local undo state shift model hip water tunnel";
+var mnemonic = "coral siege mixture avocado veteran keen age combine crawl cute scan feature";

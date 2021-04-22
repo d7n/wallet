@@ -1,1 +1,1 @@
-var mnemonic = "whisper title symptom captain double express place play street age future okay";
+var mnemonic = "teach follow eternal ankle arm lunar day saddle unfold reduce recall movie";

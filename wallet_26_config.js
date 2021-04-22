@@ -1,1 +1,1 @@
-var mnemonic = "common reduce wasp scatter wish garden insane kingdom nerve first mango path";
+var mnemonic = "quit deer ship rack distance elder unlock dumb anger vital dust erase";

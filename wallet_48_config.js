@@ -1,1 +1,1 @@
-var mnemonic = "desk affair correct fog praise shop trial fragile near grid piece master";
+var mnemonic = "social pudding flock bright october sight fault borrow change carbon key joy";

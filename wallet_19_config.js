@@ -1,1 +1,1 @@
-var mnemonic = "rule enable safe abandon comfort point tube repair protect trigger gadget grant";
+var mnemonic = "catch orchard angle mesh pelican crumble recycle inner isolate portion kangaroo huge";

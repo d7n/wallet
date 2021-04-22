@@ -1,1 +1,1 @@
-var mnemonic = "uniform blade climb cook provide wall surface potato damp talk leaf exit";
+var mnemonic = "course kitchen powder zoo fluid plate satoshi clown poem gospel lamp goat";

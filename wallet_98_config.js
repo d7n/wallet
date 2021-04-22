@@ -1,1 +1,1 @@
-var mnemonic = "stable page arch country vault nasty trial bundle gossip volume accuse bid";
+var mnemonic = "broom follow rigid club forward pelican rotate split vendor genius switch glide";
