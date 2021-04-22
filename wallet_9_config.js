@@ -1,1 +1,1 @@
-var mnemonic = "forward brand bronze device polar crucial scare spread point violin february title";
+var mnemonic = "twin catch long museum race pitch radar unlock mass tree exit trash";

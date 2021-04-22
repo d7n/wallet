@@ -1,1 +1,1 @@
-var mnemonic = "work escape cycle market start race fruit forest alert cinnamon spot swift";
+var mnemonic = "trophy they sentence behind gravity merry romance basket spin swift garage ahead";

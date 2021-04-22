@@ -1,1 +1,1 @@
-var mnemonic = "tuna album rain quit tilt elevator ice express mention account ticket giraffe";
+var mnemonic = "onion canal they mass notable pistol goat screen frequent magnet cart replace";

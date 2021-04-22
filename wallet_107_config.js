@@ -1,1 +1,1 @@
-var mnemonic = "arrange celery boss area put express citizen jump target apart please tackle";
+var mnemonic = "skull twice bunker finger myth capable alone spy collect pioneer detail dust";

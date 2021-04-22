@@ -1,1 +1,1 @@
-var mnemonic = "avoid term bench convince select sample breeze mango margin main hand hour";
+var mnemonic = "patient reform manual roast all voyage ring clay wage tomato science renew";

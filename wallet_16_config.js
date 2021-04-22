@@ -1,1 +1,1 @@
-var mnemonic = "hospital benefit near globe today ancient debate fall butter eyebrow illness lumber";
+var mnemonic = "empower fluid mixture suggest basic dismiss artefact panel jaguar soup among silent";

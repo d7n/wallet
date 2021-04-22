@@ -1,1 +1,1 @@
-var mnemonic = "sorry shuffle canal ready bargain gold grocery emotion short fiber earn scheme";
+var mnemonic = "nasty chronic install liar crystal response resist bone walnut clog way area";

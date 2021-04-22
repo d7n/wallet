@@ -1,1 +1,1 @@
-var mnemonic = "submit donkey produce clean deputy opinion social collect volume trophy stumble talk";
+var mnemonic = "maid endorse toilet neither language bridge velvet artist nose assault job empty";

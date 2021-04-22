@@ -1,1 +1,1 @@
-var mnemonic = "stumble hard embody idle athlete hen chunk twenty sound silver royal couch";
+var mnemonic = "feature youth transfer rural soon color toddler fee inmate voyage kingdom thing";

@@ -1,1 +1,1 @@
-var mnemonic = "rent exhibit scorpion grab pen refuse wage estate trap fun tongue panic";
+var mnemonic = "marriage mosquito expect seminar buddy brief green wedding fault purchase witness canoe";

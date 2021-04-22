@@ -1,1 +1,1 @@
-var mnemonic = "rail top already old spike owner very april awesome hawk total truly";
+var mnemonic = "reject cotton boss hat patient express state arm lamp foil hold used";

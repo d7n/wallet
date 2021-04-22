@@ -1,1 +1,1 @@
-var mnemonic = "dizzy cover cluster empower group fragile host outer smile oblige region finger";
+var mnemonic = "remind onion shed antique protect monitor swamp brother you tree oven minor";

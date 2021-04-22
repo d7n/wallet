@@ -1,1 +1,1 @@
-var mnemonic = "speak camp pact effort unfold post palm donor festival extra omit market";
+var mnemonic = "hen street two snap moment industry clerk supreme able catalog grit local";

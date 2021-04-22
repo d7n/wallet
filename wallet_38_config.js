@@ -1,1 +1,1 @@
-var mnemonic = "faculty woman because equip enable approve magnet company gold sudden jeans season";
+var mnemonic = "march sleep end silent service main obvious claim door slice fish cat";

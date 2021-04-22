@@ -1,1 +1,1 @@
-var mnemonic = "gospel awkward else nasty danger joy urge saddle odor item silly kid";
+var mnemonic = "sound marriage clarify fatigue meadow merry match swamp boat rain retreat nothing";

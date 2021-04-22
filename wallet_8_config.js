@@ -1,1 +1,1 @@
-var mnemonic = "stuff rely simple bomb horror account produce phrase daughter liquid rotate mammal";
+var mnemonic = "also emerge frequent among clog pretty indicate end bamboo artist attract squirrel";

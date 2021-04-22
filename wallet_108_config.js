@@ -1,1 +1,1 @@
-var mnemonic = "humble weekend supply follow age escape loyal cover decrease luxury quote future";
+var mnemonic = "comic deposit potato payment load region dash lunch tourist decorate practice giraffe";

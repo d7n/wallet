@@ -1,1 +1,1 @@
-var mnemonic = "current bring kitten echo yellow jelly edit popular pioneer tube cram brass";
+var mnemonic = "risk hour harvest skirt snow clap model sign champion orchard document two";

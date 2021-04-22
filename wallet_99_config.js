@@ -1,1 +1,1 @@
-var mnemonic = "trigger blouse hard order cherry common hero return sight engine skin mouse";
+var mnemonic = "reflect join impulse december unfair swear arm rich glass candy margin certain";

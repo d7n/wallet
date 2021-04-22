@@ -1,1 +1,1 @@
-var mnemonic = "service clog swamp fossil dutch security motor legend garbage silly thing news";
+var mnemonic = "dance input carpet champion walk fish capable inject discover change rib valley";

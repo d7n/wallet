@@ -1,1 +1,1 @@
-var mnemonic = "walk despair circle ridge width treat enter dash hire cigar task avoid";
+var mnemonic = "image rubber athlete media say spider special win exhibit lyrics female word";

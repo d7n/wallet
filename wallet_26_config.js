@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo seminar tiny sunny own alien fabric age tray heart barrel gallery";
+var mnemonic = "journey escape return shrimp endless wash hair tent net potato inflict unique";

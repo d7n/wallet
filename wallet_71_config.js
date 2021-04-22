@@ -1,1 +1,1 @@
-var mnemonic = "exhibit deal very replace claw switch raise smoke try hint vibrant civil";
+var mnemonic = "tattoo together ensure fan concert infant mobile face very light galaxy trim";

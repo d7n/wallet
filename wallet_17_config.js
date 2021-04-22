@@ -1,1 +1,1 @@
-var mnemonic = "like eight sibling tomorrow panda puzzle antenna orange market guide bike glare";
+var mnemonic = "ghost small hybrid connect victory reason affair erode benefit swing goddess shoulder";

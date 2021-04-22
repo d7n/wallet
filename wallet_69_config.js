@@ -1,1 +1,1 @@
-var mnemonic = "space confirm process online alien ahead pen beauty hover type method garage";
+var mnemonic = "loyal scrub unit stomach paddle wrap engage sound any envelope neck cycle";

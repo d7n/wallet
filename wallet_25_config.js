@@ -1,1 +1,1 @@
-var mnemonic = "hospital kingdom eternal struggle tip treat become chest cash gym find owner";
+var mnemonic = "slow bachelor certain clutch equip ignore fun cement fury anger auction slogan";

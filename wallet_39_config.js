@@ -1,1 +1,1 @@
-var mnemonic = "timber congress fence process skull garlic recycle fiscal grant exile load visit";
+var mnemonic = "awful alley ethics barely segment riot travel clerk cream maple quick harvest";

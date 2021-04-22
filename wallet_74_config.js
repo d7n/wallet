@@ -1,1 +1,1 @@
-var mnemonic = "exclude matrix unfold visual tragic flee fresh monkey jealous rice improve science";
+var mnemonic = "sorry begin issue comfort someone canal chest one prefer patrol false assist";

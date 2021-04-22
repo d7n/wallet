@@ -1,1 +1,1 @@
-var mnemonic = "creek cluster dance resemble solution uphold lecture swarm output december crop like";
+var mnemonic = "marriage civil bottom picture uncle middle first aware island minute satoshi citizen";

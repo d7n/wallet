@@ -1,1 +1,1 @@
-var mnemonic = "network roast sock asthma clarify insane plunge inhale buyer aunt effort hamster";
+var mnemonic = "lawsuit roast flavor paper mimic coil awesome glare certain replace noise sign";

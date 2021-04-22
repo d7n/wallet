@@ -1,1 +1,1 @@
-var mnemonic = "also avocado check grape try weird mushroom cube twist mask below abstract";
+var mnemonic = "point helmet fame broom online deposit boy verb jelly farm input antenna";

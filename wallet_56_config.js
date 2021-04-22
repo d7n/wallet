@@ -1,1 +1,1 @@
-var mnemonic = "dragon antenna more plug cube peanut expose carry paper shoulder eye treat";
+var mnemonic = "crawl laptop cupboard bomb rose goat enable pact focus broken leopard hamster";

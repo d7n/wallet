@@ -1,1 +1,1 @@
-var mnemonic = "hover exotic fitness maze giant oval scatter pool member tree oxygen again";
+var mnemonic = "alcohol miss coyote room friend half gold alone fame focus clever duty";

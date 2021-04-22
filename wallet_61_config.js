@@ -1,1 +1,1 @@
-var mnemonic = "world rotate learn fossil margin olive faculty wage pear plate window color";
+var mnemonic = "gain clog bronze mushroom fog rescue stumble oyster rocket multiply envelope desert";

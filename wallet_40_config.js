@@ -1,1 +1,1 @@
-var mnemonic = "sadness supply near correct oval float leisure confirm mushroom dry wasp husband";
+var mnemonic = "leader online blush vivid bike casino bean alpha glide grain topic gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse simple pipe other wait swamp come twice result medal ready level";
+var mnemonic = "cave leader boil blanket beyond stuff large income aspect furnace bag bind";

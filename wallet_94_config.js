@@ -1,1 +1,1 @@
-var mnemonic = "head snack gadget live report loan denial receive shove author alarm lottery";
+var mnemonic = "knife neutral trick dial question idle nose avocado kingdom priority expect rely";

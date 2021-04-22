@@ -1,1 +1,1 @@
-var mnemonic = "noise assault luxury trend citizen city gate source bridge decade dwarf stuff";
+var mnemonic = "benefit lonely trip impact harsh bicycle okay clump shoe level force number";

@@ -1,1 +1,1 @@
-var mnemonic = "crash river fashion river finger industry pipe pink lamp hotel together venue";
+var mnemonic = "foam type stem test clip isolate april still fatigue pony speed screen";

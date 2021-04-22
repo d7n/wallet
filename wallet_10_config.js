@@ -1,1 +1,1 @@
-var mnemonic = "album term deposit lock cram moment office parade fetch worry expect smart";
+var mnemonic = "fire large beyond curve aware energy vintage naive vehicle spot major antique";

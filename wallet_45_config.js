@@ -1,1 +1,1 @@
-var mnemonic = "swing announce gap worth super horror betray input sword shove wet exhaust";
+var mnemonic = "swarm poem tissue urban spice unfair great elite dawn tone culture lunar";

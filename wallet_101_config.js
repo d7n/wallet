@@ -1,1 +1,1 @@
-var mnemonic = "file nurse maze allow focus diagram lion wire pilot theory where estate";
+var mnemonic = "tail major catch wealth mention wrestle lucky nose despair boss limit there";

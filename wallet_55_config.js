@@ -1,1 +1,1 @@
-var mnemonic = "another enhance route tiger stick round virtual sausage electric relax route asthma";
+var mnemonic = "child address height zone furnace brave bean dutch sense flavor cover tattoo";

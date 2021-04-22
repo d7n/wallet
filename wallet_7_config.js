@@ -1,1 +1,1 @@
-var mnemonic = "autumn into faculty dinner enhance else kiwi arrive decide van juice piano";
+var mnemonic = "deputy clip shoe case yellow gym like choose comfort sugar crisp chair";

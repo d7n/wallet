@@ -1,1 +1,1 @@
-var mnemonic = "feature achieve vapor balance blood lens guard aisle post index stay scout";
+var mnemonic = "exhibit lunch pave bottom settle razor okay raw boy skate luxury calm";

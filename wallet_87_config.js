@@ -1,1 +1,1 @@
-var mnemonic = "mirror similar tool grunt gold depart profit motor moral panic opinion cabin";
+var mnemonic = "poem crouch atom tonight buffalo pistol cube diagram rely spring spring fork";

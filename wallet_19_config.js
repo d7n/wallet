@@ -1,1 +1,1 @@
-var mnemonic = "casino fade load diary fuel blossom dune crop truth audit wear broom";
+var mnemonic = "spike cluster tube evil soldier kite picture sibling else citizen daughter clog";

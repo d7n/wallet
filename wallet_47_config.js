@@ -1,1 +1,1 @@
-var mnemonic = "punch blue cube tip neglect conduct scout faculty bomb thank page maid";
+var mnemonic = "result surround village crucial much absorb card camera cricket skill reason tunnel";

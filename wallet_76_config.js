@@ -1,1 +1,1 @@
-var mnemonic = "fancy service witness pupil bread merge glory mixture sister stove evidence suspect";
+var mnemonic = "loop goose dance menu frequent minor hockey episode measure toe slim grit";

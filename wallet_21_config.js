@@ -1,1 +1,1 @@
-var mnemonic = "reward repeat pattern army roof fatal scan roof never canoe account tip";
+var mnemonic = "unable page shoe cave crowd hurry cabbage still flag dinosaur strategy genuine";

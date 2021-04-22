@@ -1,1 +1,1 @@
-var mnemonic = "eye idle canvas review polar analyst auction canoe satoshi nasty tortoise wage";
+var mnemonic = "owner pull shy resource deny task victory oak eye baby session roast";

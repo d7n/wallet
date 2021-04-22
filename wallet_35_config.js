@@ -1,1 +1,1 @@
-var mnemonic = "fault dinner define urge door other right nation universe eager world cost";
+var mnemonic = "dizzy drink post stairs sunny all image private cousin easy around able";

@@ -1,1 +1,1 @@
-var mnemonic = "feature surprise dragon nurse blue renew false tired push riot easily image";
+var mnemonic = "ramp fantasy image broken lunar receive party motion enrich allow little fame";

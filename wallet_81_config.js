@@ -1,1 +1,1 @@
-var mnemonic = "state aerobic season fresh mule prevent galaxy rough orbit boss fashion topic";
+var mnemonic = "scatter half ethics key change edit trophy version spice entry swim joke";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran person much thumb hill close swim mask gift success solid rather";
+var mnemonic = "reform flip wasp night hobby social image language smile peanut push panther";

@@ -1,1 +1,1 @@
-var mnemonic = "trend quiz airport ancient wasp giggle lonely shop ask volcano mirror rude";
+var mnemonic = "dismiss angry unlock raccoon awesome black forest soap banana joke bus achieve";

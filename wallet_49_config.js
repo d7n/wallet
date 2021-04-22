@@ -1,1 +1,1 @@
-var mnemonic = "simple chicken gather riot quantum mixture hold marine fold abandon debate odor";
+var mnemonic = "purpose surprise almost purpose reveal field swamp board kitten force orbit narrow";

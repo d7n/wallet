@@ -1,1 +1,1 @@
-var mnemonic = "fiscal coast reduce piano call trim feed dish ripple embark clay split";
+var mnemonic = "exclude cry unfair castle fault double pause usual steak fabric faith door";

@@ -1,1 +1,1 @@
-var mnemonic = "wood episode tip decade deny mask educate poet alley away attack high";
+var mnemonic = "sunset mass couch inmate yellow amazing spare income later cool gravity spoon";

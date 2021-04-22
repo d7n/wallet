@@ -1,1 +1,1 @@
-var mnemonic = "scout artist combine crumble ginger ice pottery sheriff glare fun flower high";
+var mnemonic = "nominee chalk safe doctor wage hedgehog dad early orange always start hedgehog";

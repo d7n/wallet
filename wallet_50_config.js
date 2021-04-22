@@ -1,1 +1,1 @@
-var mnemonic = "siren flat net basket deer hawk consider unaware buyer rent skin clip";
+var mnemonic = "job couch mean negative enter bless walk fee plate birth organ smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "second brother afraid dutch scatter trick resemble claim song fit social into";
+var mnemonic = "mind correct snow stone buddy assault huge afford suggest timber dilemma frame";

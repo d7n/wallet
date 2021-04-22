@@ -1,1 +1,1 @@
-var mnemonic = "busy ask unveil drop acoustic dignity festival right lava tenant review fade";
+var mnemonic = "shell deal degree ugly judge senior surround defy area cable business rude";

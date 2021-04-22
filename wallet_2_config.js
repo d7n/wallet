@@ -1,1 +1,1 @@
-var mnemonic = "degree two split minute behave jewel yellow want provide bike tonight ramp";
+var mnemonic = "deal beef convince bundle repeat endorse oil dynamic immense rotate river mind";

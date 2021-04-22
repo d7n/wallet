@@ -1,1 +1,1 @@
-var mnemonic = "sting enlist people reopen acoustic matrix wire front daring bamboo suggest kit";
+var mnemonic = "include flower someone pencil paper chapter balance rely record verb oil over";

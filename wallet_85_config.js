@@ -1,1 +1,1 @@
-var mnemonic = "canoe swamp chair erase arrange spend heavy library gauge clinic clutch refuse";
+var mnemonic = "analyst equip nuclear vicious desert hint width inquiry bomb despair chair lion";

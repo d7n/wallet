@@ -1,1 +1,1 @@
-var mnemonic = "health muscle nature bridge industry sniff list fury fetch theme few hard";
+var mnemonic = "typical account runway essence observe spend wedding whip defy shuffle chest fringe";

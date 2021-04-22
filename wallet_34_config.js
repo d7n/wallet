@@ -1,1 +1,1 @@
-var mnemonic = "employ busy man sun sentence rate exhibit zero runway clog hazard sight";
+var mnemonic = "collect auto sadness civil banner pen aunt output grid electric business display";

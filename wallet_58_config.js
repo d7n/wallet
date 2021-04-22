@@ -1,1 +1,1 @@
-var mnemonic = "sphere pistol rate pluck camera flash rely crawl track cash fringe aware";
+var mnemonic = "remain another iron opera tooth spoon bachelor royal fatigue innocent noble improve";

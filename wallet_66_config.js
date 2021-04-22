@@ -1,1 +1,1 @@
-var mnemonic = "ostrich clap expire radar copper supply clog enact paper accident foot quarter";
+var mnemonic = "dream electric glide grit favorite limit empower drive monster yellow salon umbrella";

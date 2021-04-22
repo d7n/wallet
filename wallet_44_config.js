@@ -1,1 +1,1 @@
-var mnemonic = "horse fetch time digital alter slender crawl return govern error cash eyebrow";
+var mnemonic = "sort wrist swamp vacuum myself click tree gather input consider solve romance";

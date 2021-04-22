@@ -1,1 +1,1 @@
-var mnemonic = "bulb ceiling style idle fantasy clarify manual trouble hover junior post sentence";
+var mnemonic = "mountain heart spatial wish veteran box crowd blanket guitar fold eye fold";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese brown rude immense pumpkin grit video retreat title wrong nasty apple";
+var mnemonic = "agree noble nuclear present staff gift walk jaguar cry drum shy document";

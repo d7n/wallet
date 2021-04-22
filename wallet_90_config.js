@@ -1,1 +1,1 @@
-var mnemonic = "ecology pioneer deal license yard cash elegant bulb surge company share dry";
+var mnemonic = "type fortune hurry primary laugh license brown include monitor agent say giant";

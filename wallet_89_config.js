@@ -1,1 +1,1 @@
-var mnemonic = "upper east virtual wild supreme coral analyst chaos sleep yard quarter tilt";
+var mnemonic = "load seminar dress attend cat title open they humble spike carpet festival";

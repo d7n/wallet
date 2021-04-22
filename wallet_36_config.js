@@ -1,1 +1,1 @@
-var mnemonic = "already soul expect left slim tired jazz pluck script recall brain canoe";
+var mnemonic = "crowd float already crater unknown property gravity culture supreme bleak reform model";

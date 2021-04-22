@@ -1,1 +1,1 @@
-var mnemonic = "knee quiz gap tree figure leave flee fever elbow liquid lava method";
+var mnemonic = "hundred loud impose easily vessel raise coral flee sword beef start vote";

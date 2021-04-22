@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fragile away tank medal enlist rule until wrist child around hard";
+var mnemonic = "disease welcome invite husband thank glare whip drink box rice delay design";

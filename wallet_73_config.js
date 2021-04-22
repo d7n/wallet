@@ -1,1 +1,1 @@
-var mnemonic = "price flee you shed capital dash speed account rather middle fold course";
+var mnemonic = "huge vapor entire cool salad shock solid steak question below report alley";

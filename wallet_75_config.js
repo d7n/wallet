@@ -1,1 +1,1 @@
-var mnemonic = "similar report blind tattoo legend truck fiscal blind bargain broccoli tooth erupt";
+var mnemonic = "side catalog enforce grocery crush february bullet casual law hurry giggle hope";

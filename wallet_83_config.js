@@ -1,1 +1,1 @@
-var mnemonic = "seek master cloth garden style quantum inhale jealous symbol gym enroll innocent";
+var mnemonic = "strategy recall whip bargain business prison oil ride toe mother ride absurd";

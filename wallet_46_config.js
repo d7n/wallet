@@ -1,1 +1,1 @@
-var mnemonic = "teach wagon clap upper observe ripple egg client horn fatal ensure comic";
+var mnemonic = "genius sheriff hen pond crumble beyond motion pipe slam antique fragile excite";

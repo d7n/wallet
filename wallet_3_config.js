@@ -1,1 +1,1 @@
-var mnemonic = "assist bike artist pull credit eager knock confirm recycle grain employ isolate";
+var mnemonic = "toe canoe faculty hat guard atom fetch wheat world punch knee plunge";

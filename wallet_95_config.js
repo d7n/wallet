@@ -1,1 +1,1 @@
-var mnemonic = "kitchen carbon artwork meat naive conduct brass garlic clever coil measure million";
+var mnemonic = "drum liberty inquiry toddler impact bulb measure proof divide powder fuel material";

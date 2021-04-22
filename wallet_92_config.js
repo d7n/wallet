@@ -1,1 +1,1 @@
-var mnemonic = "brand dove flush dilemma beyond bird napkin help trip drastic sword team";
+var mnemonic = "armor minor bid video doctor vault join cover abstract note wait floor";

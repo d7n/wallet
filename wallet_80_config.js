@@ -1,1 +1,1 @@
-var mnemonic = "reunion crowd doll pledge before catch pony furnace example marine group explain";
+var mnemonic = "enroll magic knife moment cereal fever winter comfort memory hidden alien arena";

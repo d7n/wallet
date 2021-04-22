@@ -1,1 +1,1 @@
-var mnemonic = "skate artist material stage matrix solar pizza oppose critic gaze clerk plug";
+var mnemonic = "uniform era charge embrace virus item obscure elevator sense maple wasp sign";

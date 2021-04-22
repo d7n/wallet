@@ -1,1 +1,1 @@
-var mnemonic = "turtle omit alpha candy join almost grant wheat wrestle boost joy census";
+var mnemonic = "undo stairs stomach boat vanish horn make hole boil cotton cement bird";

@@ -1,1 +1,1 @@
-var mnemonic = "stick whisper giraffe sibling idle initial perfect anxiety order cool drastic staff";
+var mnemonic = "traffic govern north hybrid floor leader insane wagon cancel keep more pupil";

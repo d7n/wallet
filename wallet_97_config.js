@@ -1,1 +1,1 @@
-var mnemonic = "capital custom unknown exotic organ good monster select best fame frost metal";
+var mnemonic = "castle custom hint nothing tower method gather bounce sad moon cool sample";

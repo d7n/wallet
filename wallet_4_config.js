@@ -1,1 +1,1 @@
-var mnemonic = "just tissue holiday edge regret scout rack merge donor seed gather indicate";
+var mnemonic = "winter rare erupt test start riot unveil rescue erosion shy switch quote";

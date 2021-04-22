@@ -1,1 +1,1 @@
-var mnemonic = "first under hurdle slush inherit shaft waste they announce spell dismiss roast";
+var mnemonic = "wood enhance absurd abandon rigid hybrid unveil shrug undo frequent riot seat";

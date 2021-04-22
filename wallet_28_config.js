@@ -1,1 +1,1 @@
-var mnemonic = "visa mutual possible nurse target kitten afford entire final join share huge";
+var mnemonic = "time gown display install frown scare fashion ill crucial candy degree cat";
