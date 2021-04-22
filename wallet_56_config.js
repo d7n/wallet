@@ -1,1 +1,1 @@
-var mnemonic = "blanket tumble kitchen wreck wrist visa feel dawn sausage equip home lottery";
+var mnemonic = "erosion gate return palm spring chicken radio burden wire upset chronic artwork";

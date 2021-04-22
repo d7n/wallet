@@ -1,1 +1,1 @@
-var mnemonic = "taste humor sponsor believe enter kid dose subject rack exhaust pull task";
+var mnemonic = "group garden client mountain film radio iron forum warm cigar gain live";

@@ -1,1 +1,1 @@
-var mnemonic = "subway income frown layer fish flee cute curious like lady hamster blood";
+var mnemonic = "citizen wine square wet between deliver tone void reason hobby letter tunnel";

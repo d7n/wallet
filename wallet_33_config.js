@@ -1,1 +1,1 @@
-var mnemonic = "feel muffin possible pave equip cabin find angry lottery lake filter nerve";
+var mnemonic = "amateur inform blame give furnace uncover energy pool spy satoshi antique water";

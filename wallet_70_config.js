@@ -1,1 +1,1 @@
-var mnemonic = "stage lock shallow fine ask pumpkin toe nation sample test become search";
+var mnemonic = "gasp render first jungle basket sudden wear sport shadow chase amateur mix";

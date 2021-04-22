@@ -1,1 +1,1 @@
-var mnemonic = "coin hint wet shaft viable trend smile tobacco eternal private tongue infant";
+var mnemonic = "uphold sample text duty document warrior funny reopen forest there energy cinnamon";

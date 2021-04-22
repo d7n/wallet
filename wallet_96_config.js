@@ -1,1 +1,1 @@
-var mnemonic = "fringe surround immune abuse ceiling invite enrich second supply boss burst matrix";
+var mnemonic = "admit imitate elite melody volume extra town hobby obscure dilemma minimum never";

@@ -1,1 +1,1 @@
-var mnemonic = "visit differ useless chase help cram food onion circle hidden regret any";
+var mnemonic = "silk special joke post night fancy brown win already engine endless inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine heavy dash rude shine ostrich urge sound neglect success have throw";
+var mnemonic = "puppy else enforce olive captain verb change truth price manage song asthma";

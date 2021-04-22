@@ -1,1 +1,1 @@
-var mnemonic = "demise syrup valve want magnet wage shoulder defy dolphin mobile immune electric";
+var mnemonic = "security curious ozone affair unlock plug market yard exercise shield allow journey";

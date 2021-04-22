@@ -1,1 +1,1 @@
-var mnemonic = "crucial era point poet blur inherit arrow wise jacket prepare birth common";
+var mnemonic = "gravity light scene bamboo lyrics degree kite capital torch clinic submit base";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon depth note ribbon arrive absurd lyrics shift only chalk myself scissors";
+var mnemonic = "cake grocery success claim wrist vapor math mouse truck govern gun ski";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch left sight solid engine sorry hedgehog chef tourist result across laugh";
+var mnemonic = "buyer victory vital acquire eternal panda repeat gun zero quote grit potato";

@@ -1,1 +1,1 @@
-var mnemonic = "capital improve column clock garment recipe crash seven radar inquiry plate frog";
+var mnemonic = "distance they soldier erase require able lesson purse bird lucky truly reveal";

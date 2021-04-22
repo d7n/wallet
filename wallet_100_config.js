@@ -1,1 +1,1 @@
-var mnemonic = "giraffe year traffic spare detect box please way onion gather original flock";
+var mnemonic = "huge ensure initial lion lift powder plunge paper uncle urban carbon update";

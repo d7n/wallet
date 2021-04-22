@@ -1,1 +1,1 @@
-var mnemonic = "truth february elevator save soon resemble liberty board opera celery tenant burst";
+var mnemonic = "float brief account local liberty doll day path boil possible kidney elegant";

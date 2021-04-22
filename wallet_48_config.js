@@ -1,1 +1,1 @@
-var mnemonic = "knee coil beach guard liquid banana live enlist install emerge capital attend";
+var mnemonic = "crew issue flower icon deposit eager battle apart live fault denial reject";

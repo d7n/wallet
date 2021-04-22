@@ -1,1 +1,1 @@
-var mnemonic = "flock vibrant rather surround camp chef purse then sail pool twist slab";
+var mnemonic = "slot tumble cabin only alpha engage almost sing drill before happy switch";

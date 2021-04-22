@@ -1,1 +1,1 @@
-var mnemonic = "arctic cloth chalk solar this plug fit drift seed twin creek remove";
+var mnemonic = "army carbon security gesture all wave pioneer cute burst rescue elbow lucky";

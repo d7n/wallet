@@ -1,1 +1,1 @@
-var mnemonic = "reflect omit gentle glimpse custom taxi provide dash review music seminar steak";
+var mnemonic = "organ rigid ranch chat seat dynamic response regret alter choice gloom vacuum";

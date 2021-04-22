@@ -1,1 +1,1 @@
-var mnemonic = "move evil problem scatter involve patient theme rug analyst apology below joke";
+var mnemonic = "rally fox convince rely tool area market biology diary basket super wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost rice estate join bird dawn tone trouble holiday hub tumble green";
+var mnemonic = "capable deer embrace timber coconut call convince gown arrest sheriff midnight consider";

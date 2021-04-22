@@ -1,1 +1,1 @@
-var mnemonic = "stomach gain little music spike slush similar icon sea nurse gun rapid";
+var mnemonic = "float about letter holiday satoshi gaze morning sibling tone robot owner tray";

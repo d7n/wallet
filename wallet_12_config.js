@@ -1,1 +1,1 @@
-var mnemonic = "buzz shield oblige whip tube friend danger funny decline prison twin chair";
+var mnemonic = "elephant prevent what educate glad deliver spike chief fiction ensure auction repair";

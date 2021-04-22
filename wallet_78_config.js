@@ -1,1 +1,1 @@
-var mnemonic = "oblige scatter siege add shop federal practice length admit drastic blue canvas";
+var mnemonic = "kid woman entry deliver lyrics feed visa settle guide evoke tortoise monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "magic toddler blush forest object pulp elevator perfect grant gift utility olympic";
+var mnemonic = "search select play beyond puppy bubble clean daughter smoke crumble grief gospel";

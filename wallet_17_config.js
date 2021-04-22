@@ -1,1 +1,1 @@
-var mnemonic = "few oval kite shiver pretty strategy glare orbit silk essay make rubber";
+var mnemonic = "erase pigeon ship genuine major decorate jealous cover route negative toddler famous";

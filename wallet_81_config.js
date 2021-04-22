@@ -1,1 +1,1 @@
-var mnemonic = "access advance abandon split churn frog thought ensure child sustain gaze edit";
+var mnemonic = "gold cool feed patrol accident people any plate orange usual world weasel";

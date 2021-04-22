@@ -1,1 +1,1 @@
-var mnemonic = "recall sound rain comfort move blind novel tobacco deer point sign thunder";
+var mnemonic = "fatigue scheme head problem verify scrub travel rib extra inner logic ancient";

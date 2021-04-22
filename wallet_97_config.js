@@ -1,1 +1,1 @@
-var mnemonic = "there boost interest legend name stamp caution keep dirt debate hub mean";
+var mnemonic = "renew all amazing walnut wrong infant hunt burden museum brass inner end";

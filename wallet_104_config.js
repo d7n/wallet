@@ -1,1 +1,1 @@
-var mnemonic = "regular mail sketch despair raven head upset noise undo weekend parent satoshi";
+var mnemonic = "dish island patrol plastic obscure interest humble farm ring fetch fortune benefit";

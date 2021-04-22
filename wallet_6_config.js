@@ -1,1 +1,1 @@
-var mnemonic = "arena squeeze correct reopen about vintage divert cost daughter silent magnet coral";
+var mnemonic = "skill ladder quiz people churn goddess cricket risk gauge barrel survey warrior";

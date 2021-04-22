@@ -1,1 +1,1 @@
-var mnemonic = "harsh flag vague display recall impose father pupil knee find quote custom";
+var mnemonic = "august custom side prepare leaf fatigue emerge delay like long topple fade";

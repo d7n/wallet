@@ -1,1 +1,1 @@
-var mnemonic = "mixture knock tackle rural urban check cost vault suspect ankle deliver turkey";
+var mnemonic = "they canoe very photo jungle meadow web skate doctor divert alter patrol";

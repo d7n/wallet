@@ -1,1 +1,1 @@
-var mnemonic = "next total hub item green giggle height ethics tilt inform raise gather";
+var mnemonic = "pull scorpion pupil tragic ranch response forward will bomb praise knee copper";

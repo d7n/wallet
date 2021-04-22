@@ -1,1 +1,1 @@
-var mnemonic = "achieve erase dial fragile betray act dawn shrug decade add thumb spell";
+var mnemonic = "endless erase limb vehicle photo endorse flower moral rival affair drill cattle";

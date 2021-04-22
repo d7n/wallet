@@ -1,1 +1,1 @@
-var mnemonic = "fury mansion salad beach sting usage tag mango witness frame ring skin";
+var mnemonic = "case fix horror infant picture float hat patch blind ribbon course east";

@@ -1,1 +1,1 @@
-var mnemonic = "fade pupil cruise run host clog valid knock name future cry sand";
+var mnemonic = "mutual trip argue sleep empower picture jar liberty early giant equip ribbon";

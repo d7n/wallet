@@ -1,1 +1,1 @@
-var mnemonic = "alien insane salute pigeon estate joke problem dune skirt chronic olympic palace";
+var mnemonic = "shrug case vanish miracle field culture family purse apology venue motor fetch";

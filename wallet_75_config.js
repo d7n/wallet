@@ -1,1 +1,1 @@
-var mnemonic = "jaguar stomach soda pull vast cargo extend lab silent hover tiger baby";
+var mnemonic = "visit cheese unhappy absorb essay ten exercise warfare pen window year wise";

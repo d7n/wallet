@@ -1,1 +1,1 @@
-var mnemonic = "yellow crowd diagram wreck pig still unhappy orange violin broom ranch acoustic";
+var mnemonic = "demand artist own siren silent social obtain barrel dish print cushion satisfy";

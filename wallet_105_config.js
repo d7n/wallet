@@ -1,1 +1,1 @@
-var mnemonic = "frog gallery rail orphan metal keen insane also kingdom absurd prison rookie";
+var mnemonic = "magic legal sun crime arrive soap vendor library harbor bundle hawk upon";

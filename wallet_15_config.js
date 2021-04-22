@@ -1,1 +1,1 @@
-var mnemonic = "tray believe decrease shift armor vast soup wisdom can shrimp glad chase";
+var mnemonic = "brush fiber elder trade have nature traffic sock robot lion ripple parent";

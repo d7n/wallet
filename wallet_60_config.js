@@ -1,1 +1,1 @@
-var mnemonic = "universe tiny obey deputy network spirit cinnamon muscle inherit engage auction alpha";
+var mnemonic = "virus onion miracle vicious orphan gas lady mushroom smart regret sing slow";

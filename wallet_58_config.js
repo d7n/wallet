@@ -1,1 +1,1 @@
-var mnemonic = "lock uncle vessel liar begin credit wheat swift pencil initial tonight float";
+var mnemonic = "monitor peace stage region quantum frozen must crane peasant position cliff brisk";

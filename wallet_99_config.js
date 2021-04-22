@@ -1,1 +1,1 @@
-var mnemonic = "hand spike improve uphold measure raise dose pizza bar vibrant estate raw";
+var mnemonic = "announce kick erode abuse census fall moral mask float skirt match child";

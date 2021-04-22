@@ -1,1 +1,1 @@
-var mnemonic = "more huge flash twin stage promote truth nation guilt trick fiscal ripple";
+var mnemonic = "rent ivory swap benefit orphan awful return family kiss general produce elegant";

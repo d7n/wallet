@@ -1,1 +1,1 @@
-var mnemonic = "album fortune busy ride refuse salon expect notice flip pumpkin shop bacon";
+var mnemonic = "term drive cube village solve border strong auto organ sign remove ball";

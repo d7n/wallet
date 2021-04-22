@@ -1,1 +1,1 @@
-var mnemonic = "vacuum neglect credit laptop concert typical expand initial link october solution main";
+var mnemonic = "monitor balance total clump salmon evidence absorb firm era crouch cable stay";

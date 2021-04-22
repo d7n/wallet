@@ -1,1 +1,1 @@
-var mnemonic = "remove guard much tip tragic sudden rule donate file stock nephew arena";
+var mnemonic = "fish abstract unfold slot federal leader number scan face audit trigger snap";

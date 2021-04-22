@@ -1,1 +1,1 @@
-var mnemonic = "elegant frequent eyebrow february symbol maze six banana finish solve click quick";
+var mnemonic = "arrest dutch gap length bachelor life rural increase raccoon scare where supply";

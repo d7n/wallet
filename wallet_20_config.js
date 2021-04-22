@@ -1,1 +1,1 @@
-var mnemonic = "venue earn glove honey wrist chapter city loyal swim isolate enough glare";
+var mnemonic = "connect response settle gallery give network unit vital must false spider typical";

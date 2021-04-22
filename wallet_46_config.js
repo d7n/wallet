@@ -1,1 +1,1 @@
-var mnemonic = "arrive solve put section slice typical damage donor window balance quote leopard";
+var mnemonic = "mansion paddle winner shove bus expire legal east major fruit hunt enforce";

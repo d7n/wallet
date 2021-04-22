@@ -1,1 +1,1 @@
-var mnemonic = "crane inspire offer minute struggle rebuild present remind follow genius rice merit";
+var mnemonic = "good flight blood ancient salmon rifle hurdle coyote view lizard group useful";

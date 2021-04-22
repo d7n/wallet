@@ -1,1 +1,1 @@
-var mnemonic = "stadium cable team squeeze excite catch negative anger hawk donor skill stone";
+var mnemonic = "inject struggle upon bulb expire solid brave mimic welcome surge glare observe";

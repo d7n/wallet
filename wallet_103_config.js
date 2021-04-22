@@ -1,1 +1,1 @@
-var mnemonic = "major toy decide course rich draft knock decide hamster barrel habit unfair";
+var mnemonic = "young scrub pig under phone clever shoot vintage hunt ocean salmon lawn";

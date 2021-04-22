@@ -1,1 +1,1 @@
-var mnemonic = "sense robot memory scene swallow square worry inquiry unhappy nation adjust caught";
+var mnemonic = "ball legal rate arrow fashion trick lab donor orbit brush echo struggle";

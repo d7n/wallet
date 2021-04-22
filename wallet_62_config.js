@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hazard gather emerge flower timber december address friend lumber involve under";
+var mnemonic = "yellow receive joy mad load cover million virtual space design legal lock";

@@ -1,1 +1,1 @@
-var mnemonic = "smile consider suggest exchange write load verb carbon veteran onion sunset net";
+var mnemonic = "economy tuition birth bottom inject coil surge chuckle abstract gasp describe volcano";

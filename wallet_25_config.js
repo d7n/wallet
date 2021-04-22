@@ -1,1 +1,1 @@
-var mnemonic = "target feel there glory elevator glide oxygen have obvious trigger faculty sort";
+var mnemonic = "exhaust measure trust clown distance canyon tourist lens nominee truly reform title";

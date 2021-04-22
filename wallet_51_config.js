@@ -1,1 +1,1 @@
-var mnemonic = "spoon welcome congress course license keep icon sing reflect educate sock oak";
+var mnemonic = "believe arena alcohol fence joke summer orbit resource paddle hybrid shed toe";

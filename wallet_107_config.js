@@ -1,1 +1,1 @@
-var mnemonic = "tip nominee prosper motor crisp stuff capable tail worth scan clarify inherit";
+var mnemonic = "crawl cluster lens swim uphold invite slice stumble affair town stick flavor";

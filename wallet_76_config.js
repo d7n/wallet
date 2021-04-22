@@ -1,1 +1,1 @@
-var mnemonic = "differ galaxy shy horror wall radio include bullet chimney panic bunker alone";
+var mnemonic = "author rare twice loud leisure region away genre clutch fork tiny bid";

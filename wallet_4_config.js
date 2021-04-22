@@ -1,1 +1,1 @@
-var mnemonic = "upper immune loud update seven humble chunk predict fit crucial silver auto";
+var mnemonic = "benefit mule enact educate silver stool shield machine grit display banner bounce";

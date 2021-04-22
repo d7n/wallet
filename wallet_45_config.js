@@ -1,1 +1,1 @@
-var mnemonic = "steak language drastic that essay spatial shy spirit arm rabbit earth piano";
+var mnemonic = "orchard measure life garlic snack aware require key segment unit drip hospital";

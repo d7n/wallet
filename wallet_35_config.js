@@ -1,1 +1,1 @@
-var mnemonic = "float course garment blur board salmon flock core space fault planet record";
+var mnemonic = "breeze obscure ship paddle produce isolate brisk suffer travel alter ankle question";

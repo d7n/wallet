@@ -1,1 +1,1 @@
-var mnemonic = "harsh turkey else above paper what venue innocent call trash hurt egg";
+var mnemonic = "member foil crisp seed uncover wrong awful drastic firm dove boring monster";

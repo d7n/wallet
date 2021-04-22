@@ -1,1 +1,1 @@
-var mnemonic = "orange powder badge index night reason fence palace wheel boost boy shoot";
+var mnemonic = "patch bus shrimp cactus race pledge any hint push panel shy update";

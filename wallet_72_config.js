@@ -1,1 +1,1 @@
-var mnemonic = "gift kingdom upper gain rally dial float mistake quarter apple liberty client";
+var mnemonic = "amount that pulp silly truck virtual hip salon today century brain upset";

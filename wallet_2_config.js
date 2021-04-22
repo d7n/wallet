@@ -1,1 +1,1 @@
-var mnemonic = "pair erosion decrease soup course unfair drive body supreme tiny gun ready";
+var mnemonic = "tag fashion track sorry siege hungry average affair wise inch lawn nut";

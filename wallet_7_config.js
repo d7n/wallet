@@ -1,1 +1,1 @@
-var mnemonic = "powder brave olive come nature nuclear enable twin liar there account zone";
+var mnemonic = "deny rely gift copy will admit ride tent beef nut ginger winter";

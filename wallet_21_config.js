@@ -1,1 +1,1 @@
-var mnemonic = "critic rate gasp rack kidney evidence oil bike off post filter join";
+var mnemonic = "suit dismiss tank wise wagon wolf spring attract marriage burden busy enough";

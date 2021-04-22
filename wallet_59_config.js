@@ -1,1 +1,1 @@
-var mnemonic = "ritual outer best explain infant call noodle rely priority agree segment gun";
+var mnemonic = "buddy velvet color swim fork gun decide outer short vendor cry stamp";

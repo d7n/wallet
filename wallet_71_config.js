@@ -1,1 +1,1 @@
-var mnemonic = "found faith relax air eternal bundle luxury one fever slight year member";
+var mnemonic = "edge pistol person brother view pluck crop season impose derive cloth surprise";

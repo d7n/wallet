@@ -1,1 +1,1 @@
-var mnemonic = "act local spatial jealous make script mixed cram matter chimney clutch session";
+var mnemonic = "digital lonely gauge anger explain fringe depend can where apology inherit arrange";

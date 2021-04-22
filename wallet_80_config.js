@@ -1,1 +1,1 @@
-var mnemonic = "excuse relief swing park parent faint album gift retire river muffin lake";
+var mnemonic = "occur clever they junior blossom west symbol fire alcohol fancy cabbage camera";

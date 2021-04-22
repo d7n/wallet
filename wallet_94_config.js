@@ -1,1 +1,1 @@
-var mnemonic = "hazard neutral hire income boring puppy client zebra found opera burden image";
+var mnemonic = "brick shoe faculty flag path chest ability effort post model noble syrup";

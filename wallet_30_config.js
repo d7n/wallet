@@ -1,1 +1,1 @@
-var mnemonic = "during grass sorry achieve ostrich expand favorite curve fine science portion sleep";
+var mnemonic = "trash diesel warrior radio cigar wood pool current snow scan differ omit";

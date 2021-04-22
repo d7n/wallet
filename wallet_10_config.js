@@ -1,1 +1,1 @@
-var mnemonic = "able involve scout web few trigger sun debate rigid cancel gap oil";
+var mnemonic = "large catch casino unusual rhythm miracle atom flush random pretty safe lunar";

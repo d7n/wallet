@@ -1,1 +1,1 @@
-var mnemonic = "forward nominee insane force horror other essay kitten object feel place balcony";
+var mnemonic = "tray tomato crew drum few speed donkey enough impose dinosaur initial glad";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst glad ginger public grass asthma quarter wink egg position dream muffin";
+var mnemonic = "express hire wrong erosion staff draw flee spare eternal mean deer fringe";

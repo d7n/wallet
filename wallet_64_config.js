@@ -1,1 +1,1 @@
-var mnemonic = "chronic swing image bulk review action decorate adapt dove vessel muscle inmate";
+var mnemonic = "feed case ankle cart dragon volume bench perfect emotion winner anchor chimney";

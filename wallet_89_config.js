@@ -1,1 +1,1 @@
-var mnemonic = "surround level march case maximum drastic pact barely arctic major brother bronze";
+var mnemonic = "deputy load stumble drill roast need lumber outside service leopard sting normal";

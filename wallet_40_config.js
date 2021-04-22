@@ -1,1 +1,1 @@
-var mnemonic = "arena just student rule car flavor alien train orient mass purse cart";
+var mnemonic = "cattle visit sweet identify evolve clump honey eyebrow express trigger august rare";

@@ -1,1 +1,1 @@
-var mnemonic = "long fresh toilet shoulder payment garage novel claim forget stem yellow invest";
+var mnemonic = "letter alone river divorce message siege dove drift year call bomb volcano";

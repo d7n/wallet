@@ -1,1 +1,1 @@
-var mnemonic = "kiwi kitten gesture master cheap pen alcohol home obey letter useful giggle";
+var mnemonic = "battle wide odor slab you position disagree blade void desk draw mind";

@@ -1,1 +1,1 @@
-var mnemonic = "speak august parent grunt cat laundry apple turkey carbon raw lonely fatal";
+var mnemonic = "radar bunker provide letter slide lava canal glance devote slice property shiver";

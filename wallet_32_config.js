@@ -1,1 +1,1 @@
-var mnemonic = "rabbit unaware sorry egg inflict river avocado arm smart urban stomach amateur";
+var mnemonic = "wave weapon enlist half puzzle wild dizzy crater skate pig seminar mountain";

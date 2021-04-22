@@ -1,1 +1,1 @@
-var mnemonic = "hen clown cupboard south degree disagree entry brand vanish burst inspire tennis";
+var mnemonic = "lounge face column notice fish mixed pigeon move dune outdoor mix labor";

@@ -1,1 +1,1 @@
-var mnemonic = "place shield final oven enhance door piece desert demise ticket cotton shrug";
+var mnemonic = "force teach skill public this rhythm sister pear injury regular gaze else";

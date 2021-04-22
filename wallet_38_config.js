@@ -1,1 +1,1 @@
-var mnemonic = "gentle demise eagle firm chimney replace receive over world industry fluid person";
+var mnemonic = "junior yellow round worry suit naive style praise anchor venue subway chair";

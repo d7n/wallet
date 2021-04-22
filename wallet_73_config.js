@@ -1,1 +1,1 @@
-var mnemonic = "good maze second witness decorate empty west orchard educate walk style save";
+var mnemonic = "trust allow pupil sunset lava minimum offer dragon prepare notice lamp enrich";
