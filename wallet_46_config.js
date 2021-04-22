@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow away squeeze menu isolate quality genius aspect elegant together gloom edge";
+var mnemonic = "joy middle bonus select stick fit deny chimney exotic couch base earth";

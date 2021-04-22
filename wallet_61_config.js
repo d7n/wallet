@@ -1,1 +1,1 @@
-var mnemonic = "script journey reward ranch valley exclude level glimpse sure glove surprise tourist";
+var mnemonic = "drive immense age smoke any drop unlock wine scan monster jaguar jazz";

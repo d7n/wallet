@@ -1,1 +1,1 @@
-var mnemonic = "organ monkey rate squirrel search shed strong report hen spike situate hurry";
+var mnemonic = "exhibit acid allow charge biology lab mad rough crawl monitor blast truth";

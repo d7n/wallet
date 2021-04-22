@@ -1,1 +1,1 @@
-var mnemonic = "achieve odor slam rice erode omit blanket buddy such own merit actor";
+var mnemonic = "version century bag guide seminar pelican betray explain unknown combine torch green";

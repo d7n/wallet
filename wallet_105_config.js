@@ -1,1 +1,1 @@
-var mnemonic = "actress dry error glue destroy climb various ramp shop unable tip inside";
+var mnemonic = "dice blush achieve buyer seat lottery ancient mushroom witness spice cushion badge";

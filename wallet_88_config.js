@@ -1,1 +1,1 @@
-var mnemonic = "jelly double estate horror appear injury claim strategy school mimic clean antique";
+var mnemonic = "share ceiling host aspect emerge suggest whisper candy bullet pass remember cloth";

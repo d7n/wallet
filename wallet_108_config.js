@@ -1,1 +1,1 @@
-var mnemonic = "often cliff bike festival cargo pig paddle script biology tag doll guard";
+var mnemonic = "topic indoor deer style business blush kite post dinosaur own mesh scheme";

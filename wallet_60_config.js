@@ -1,1 +1,1 @@
-var mnemonic = "spoon thing gift mad trigger spend mansion can casual citizen input ankle";
+var mnemonic = "sick spoon token elbow loud foster table nose industry sound warm marble";

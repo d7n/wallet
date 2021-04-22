@@ -1,1 +1,1 @@
-var mnemonic = "warm burst blush day pottery reduce seek deer grow dirt push kangaroo";
+var mnemonic = "media raw kick flag target debris furnace tissue mouse case eyebrow injury";

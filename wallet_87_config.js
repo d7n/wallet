@@ -1,1 +1,1 @@
-var mnemonic = "relax found camp wage liar few absorb clerk that wild aunt month";
+var mnemonic = "advice juice benefit praise amazing leopard maple achieve hidden diet cave tent";

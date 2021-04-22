@@ -1,1 +1,1 @@
-var mnemonic = "special slender turn private salt force reject chimney exact level assume gossip";
+var mnemonic = "aunt original neck sea delay gun blast deliver cycle puppy sign divide";

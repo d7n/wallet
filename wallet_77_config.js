@@ -1,1 +1,1 @@
-var mnemonic = "buffalo adjust what frog whip fringe scrub curious frequent boy trade police";
+var mnemonic = "thumb cake leave quarter puppy crisp nut fish express someone erode lend";

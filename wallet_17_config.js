@@ -1,1 +1,1 @@
-var mnemonic = "harvest energy matter absurd sibling name habit obscure neck dutch minute funny";
+var mnemonic = "medal document salon stamp feel large vehicle glad obscure vessel kid pretty";

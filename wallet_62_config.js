@@ -1,1 +1,1 @@
-var mnemonic = "lion treat fragile enable talent typical crop cook attract salmon cargo alien";
+var mnemonic = "future canoe truth surface gossip artwork control practice kit broom slender lava";

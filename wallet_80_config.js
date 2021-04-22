@@ -1,1 +1,1 @@
-var mnemonic = "creek pledge life recall follow brick neck charge item swift doll sniff";
+var mnemonic = "oyster blade dad rack picnic useful forest apology loop area dish elephant";

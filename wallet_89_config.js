@@ -1,1 +1,1 @@
-var mnemonic = "repair bless repeat vast bachelor again blouse coach network collect erupt mother";
+var mnemonic = "silly remind valid smooth foam tribe oblige lunar cigar weasel afraid catalog";

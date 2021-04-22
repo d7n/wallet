@@ -1,1 +1,1 @@
-var mnemonic = "bitter focus sugar morning stage clarify pride peanut size arrest random drift";
+var mnemonic = "victory web local exclude flavor attract desk base floor gallery divide dumb";

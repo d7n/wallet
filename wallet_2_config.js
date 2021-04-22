@@ -1,1 +1,1 @@
-var mnemonic = "relax dad hurdle lobster live saddle clock addict advice agree club arctic";
+var mnemonic = "hero income coast card enforce lecture acquire sleep light denial source dress";

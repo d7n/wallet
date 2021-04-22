@@ -1,1 +1,1 @@
-var mnemonic = "under enter recipe property mystery hamster draw quantum foster economy armed core";
+var mnemonic = "million cute swarm hybrid public screen true burden crazy letter sugar cancel";

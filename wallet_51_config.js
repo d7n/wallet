@@ -1,1 +1,1 @@
-var mnemonic = "window tobacco exercise cheap dumb index pink exile reopen stomach engage baby";
+var mnemonic = "brave rug decrease off depth large code core artist index head salute";

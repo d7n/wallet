@@ -1,1 +1,1 @@
-var mnemonic = "cover flash grocery style solar engage priority police treat connect remain either";
+var mnemonic = "credit capable meat screen rapid stock wheat tongue neither unfair grit ordinary";

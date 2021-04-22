@@ -1,1 +1,1 @@
-var mnemonic = "announce saddle better praise caught sleep suffer duty limit slam approve hello";
+var mnemonic = "pact train obscure deer thunder hover route next wagon purpose unusual basic";

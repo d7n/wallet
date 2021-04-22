@@ -1,1 +1,1 @@
-var mnemonic = "enact shed response fall drastic hire cake wool buffalo birth abandon churn";
+var mnemonic = "dumb fox twist kind name used proof require snap radio viable trouble";

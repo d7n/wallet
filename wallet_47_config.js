@@ -1,1 +1,1 @@
-var mnemonic = "awake fantasy divert knock switch melt walnut bulk better favorite resource sing";
+var mnemonic = "burger cause brief like balcony gun firm steak medal powder spread job";

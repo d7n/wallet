@@ -1,1 +1,1 @@
-var mnemonic = "meat addict loop service special immune hat short thank monkey comic tenant";
+var mnemonic = "coral service figure kitten error nut obtain hair inspire emerge shrimp cotton";

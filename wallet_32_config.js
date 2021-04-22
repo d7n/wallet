@@ -1,1 +1,1 @@
-var mnemonic = "ahead salt genre loop joke own baby note sleep giggle crane marine";
+var mnemonic = "leg drive salad mansion follow belt whisper excite lamp direct search forest";

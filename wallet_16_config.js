@@ -1,1 +1,1 @@
-var mnemonic = "dirt tide tornado summer raccoon imitate slice actual globe nurse because success";
+var mnemonic = "correct pioneer bag orient display result midnight bulb february roof relax modify";

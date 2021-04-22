@@ -1,1 +1,1 @@
-var mnemonic = "carry breeze grant tackle drink sting mule submit garment eight tattoo mistake";
+var mnemonic = "elevator wrist unfair pretty slot segment around feed slender stadium move spread";

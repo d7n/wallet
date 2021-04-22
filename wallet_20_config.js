@@ -1,1 +1,1 @@
-var mnemonic = "spread eight trumpet below copy smooth traffic year palm question total swear";
+var mnemonic = "aerobic yard pudding destroy dolphin give monitor donkey seven female remind affair";

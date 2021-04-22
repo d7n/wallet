@@ -1,1 +1,1 @@
-var mnemonic = "festival weapon maple false company body meadow crisp soon toward brush dance";
+var mnemonic = "behave clock quick ball peasant lion response scissors cause coil eyebrow gown";

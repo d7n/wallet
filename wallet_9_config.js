@@ -1,1 +1,1 @@
-var mnemonic = "pioneer element slot teach march casual merit tiger victory flush nuclear raccoon";
+var mnemonic = "series supreme pool galaxy frozen track tip topic rebel item tribe tired";

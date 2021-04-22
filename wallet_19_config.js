@@ -1,1 +1,1 @@
-var mnemonic = "history awake cause peace scissors effort meat horn spoil erode erode share";
+var mnemonic = "educate life apology much where eyebrow young puppy coconut ramp frost depth";

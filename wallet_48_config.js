@@ -1,1 +1,1 @@
-var mnemonic = "add gorilla flip pupil sell smoke garlic walnut bus slight maid elbow";
+var mnemonic = "town lion goat adult piece pottery summer style one diagram try lady";

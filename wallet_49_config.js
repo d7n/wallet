@@ -1,1 +1,1 @@
-var mnemonic = "legend input never mail inquiry cupboard sad brief toward chase federal rocket";
+var mnemonic = "fork attend entire cupboard aim apology deer twist cherry strong prefer cost";

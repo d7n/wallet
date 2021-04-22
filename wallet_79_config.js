@@ -1,1 +1,1 @@
-var mnemonic = "appear fit awful helmet merge door story toss smart dice draft kitten";
+var mnemonic = "camp organ forest cloud always thrive bind bulb wrong club away deer";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract hope seed canal divert omit vibrant swarm used basic organ pull";
+var mnemonic = "grow tiny lava matrix crowd media menu blur below menu gorilla that";

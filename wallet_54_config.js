@@ -1,1 +1,1 @@
-var mnemonic = "any approve method cream glimpse invite edge camp enforce surround clog parade";
+var mnemonic = "demand call series smart crunch kit cover muscle name hour biology note";

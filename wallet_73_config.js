@@ -1,1 +1,1 @@
-var mnemonic = "rough lamp boss blouse enter try album warfare treat slide light enforce";
+var mnemonic = "olive praise husband primary always accident tennis verb diesel daughter drum easy";

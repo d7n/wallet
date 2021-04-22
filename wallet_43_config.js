@@ -1,1 +1,1 @@
-var mnemonic = "before rate stick price cause choice weather crash review warrior crash trumpet";
+var mnemonic = "raise gasp visual salute usage bacon symptom kitchen unhappy rule cluster practice";

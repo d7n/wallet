@@ -1,1 +1,1 @@
-var mnemonic = "bottom oppose hybrid primary memory west budget turn purchase burden post found";
+var mnemonic = "hockey decorate pistol jazz bracket saddle another betray hello topic potato list";

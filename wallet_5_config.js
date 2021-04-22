@@ -1,1 +1,1 @@
-var mnemonic = "broom together own knock cabin icon slogan situate voice into fork trim";
+var mnemonic = "south loop census first coconut tell embody rabbit carpet loop quick pepper";

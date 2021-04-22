@@ -1,1 +1,1 @@
-var mnemonic = "elevator arm grocery neutral version garment river attitude smart mind reopen fork";
+var mnemonic = "grid depth dog large again elevator learn message brisk good decide exchange";

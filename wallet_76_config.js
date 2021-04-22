@@ -1,1 +1,1 @@
-var mnemonic = "laundry oven capable flip shoot powder fresh sorry fade argue awkward popular";
+var mnemonic = "vote cake speed economy season detect scale tonight hawk quote adjust expect";

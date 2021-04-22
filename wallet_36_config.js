@@ -1,1 +1,1 @@
-var mnemonic = "anxiety earn object recycle trial public glory protect vehicle kite talent capital";
+var mnemonic = "improve alien together muffin wrist injury nuclear member invite proof whisper attack";

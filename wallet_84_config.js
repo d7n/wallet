@@ -1,1 +1,1 @@
-var mnemonic = "napkin swim style glance remain pig invest circle cotton innocent drink web";
+var mnemonic = "duck wall meadow once night spread zoo seminar square useless net minimum";

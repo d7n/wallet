@@ -1,1 +1,1 @@
-var mnemonic = "security earn grab boil copy twist exotic tumble pluck tenant prevent mixture";
+var mnemonic = "desert crumble office dust mix gesture fox gloom hen burger senior prize";

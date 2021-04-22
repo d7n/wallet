@@ -1,1 +1,1 @@
-var mnemonic = "clay couple snow oblige beef earn wood help main mandate collect nephew";
+var mnemonic = "another bracket amount ability crush pass zebra hen derive vault high funny";

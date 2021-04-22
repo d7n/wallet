@@ -1,1 +1,1 @@
-var mnemonic = "twice cabbage resemble domain walk already resource mention miracle bleak output clean";
+var mnemonic = "pause reason relief put debate fire fever future square knock mesh please";

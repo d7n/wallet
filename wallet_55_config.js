@@ -1,1 +1,1 @@
-var mnemonic = "put high carry record rude require labor drum boost knee army power";
+var mnemonic = "bicycle minute mechanic clerk image oyster hungry kangaroo capital engine switch spawn";

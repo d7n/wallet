@@ -1,1 +1,1 @@
-var mnemonic = "primary enough ice disagree logic shield cluster couple nephew wear intact put";
+var mnemonic = "swift endless slim slab ten ten road state glimpse exact ring polar";

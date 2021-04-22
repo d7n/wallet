@@ -1,1 +1,1 @@
-var mnemonic = "start clip wire shaft sauce decorate move merry need wine flip flavor";
+var mnemonic = "again jazz cross tenant salon ahead food engage govern couple hurry horror";

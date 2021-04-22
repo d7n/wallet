@@ -1,1 +1,1 @@
-var mnemonic = "message viable vicious husband regular beauty waste method essay describe edit smart";
+var mnemonic = "dwarf snow asset depth cannon paper mango favorite course come beauty spawn";

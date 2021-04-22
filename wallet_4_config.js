@@ -1,1 +1,1 @@
-var mnemonic = "boring give cotton social learn velvet artwork culture sting cabbage disease ribbon";
+var mnemonic = "practice void shed conduct narrow table habit hover track match void fix";

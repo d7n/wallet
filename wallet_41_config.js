@@ -1,1 +1,1 @@
-var mnemonic = "enable universe depart receive undo ready hungry brush bone wealth damage silver";
+var mnemonic = "wonder title farm material leaf present daring recall stairs click autumn virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle spirit exhaust nest document alley tank pulp domain dune pact post";
+var mnemonic = "satoshi blouse cliff else blouse museum kidney stem civil wrap furnace cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "point town month walnut true wisdom rice acquire slush master salon hill";
+var mnemonic = "auto taxi convince peasant common century notable right special scout shadow dose";

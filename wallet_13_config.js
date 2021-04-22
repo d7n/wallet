@@ -1,1 +1,1 @@
-var mnemonic = "amused suggest human express kit bus timber top bridge town unit outside";
+var mnemonic = "trouble lunch valley change life violin easily blind grape pear scrap tool";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic balance gesture wide quarter right muffin large marble grow theory push";
+var mnemonic = "deer vessel naive brand noodle gesture uniform couch little joke bicycle royal";

@@ -1,1 +1,1 @@
-var mnemonic = "test modify human able syrup reform upper code mask poem brush stick";
+var mnemonic = "seat frozen record unaware wrestle staff visit cotton able foam age moral";

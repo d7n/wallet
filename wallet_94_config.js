@@ -1,1 +1,1 @@
-var mnemonic = "clean radio foster trash glove squirrel raccoon rival zero brass planet limb";
+var mnemonic = "isolate push stumble increase topple large west net letter coach ski dawn";

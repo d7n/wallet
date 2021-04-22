@@ -1,1 +1,1 @@
-var mnemonic = "bulb front inmate recycle you leader razor share such proud fruit system";
+var mnemonic = "uniform frame debris bid wife feature all finish bicycle rotate practice equal";

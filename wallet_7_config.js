@@ -1,1 +1,1 @@
-var mnemonic = "aspect pumpkin play other fiber pyramid action scheme donkey love sight hip";
+var mnemonic = "typical kiwi draft material document end network trophy emotion gravity neither answer";

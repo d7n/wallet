@@ -1,1 +1,1 @@
-var mnemonic = "train knife symbol soap snap armor gallery observe deny piece appear gorilla";
+var mnemonic = "alien extend fly family garbage review toast palm list ugly pave fork";

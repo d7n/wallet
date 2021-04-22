@@ -1,1 +1,1 @@
-var mnemonic = "typical bag original energy south cram attack hip tiger street total model";
+var mnemonic = "caution office abstract banana forward ship august pitch combine theory impulse clean";

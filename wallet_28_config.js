@@ -1,1 +1,1 @@
-var mnemonic = "axis eye virus material west layer tumble maze earth open upset quarter";
+var mnemonic = "output race patient grant piece regular special shrimp vacant chat ice zone";

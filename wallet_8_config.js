@@ -1,1 +1,1 @@
-var mnemonic = "twelve need news tuna spread apple gossip admit own robust only series";
+var mnemonic = "coast hour tide uncle music pipe onion globe method pelican negative tape";

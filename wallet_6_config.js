@@ -1,1 +1,1 @@
-var mnemonic = "wash jelly require oppose arm price wine wrestle utility coast bullet spend";
+var mnemonic = "captain swap orphan roof wolf minimum rigid defense pilot raccoon tuition amused";

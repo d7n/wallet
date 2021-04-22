@@ -1,1 +1,1 @@
-var mnemonic = "unaware table arctic maze torch climb noble sting diet dash wash chalk";
+var mnemonic = "desert autumn sort toy much transfer rely spoon laptop unique inner settle";

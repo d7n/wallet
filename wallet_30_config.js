@@ -1,1 +1,1 @@
-var mnemonic = "song gym control congress piano betray palace pen lyrics velvet ripple reform";
+var mnemonic = "spoil wet earth remove wild crucial isolate ice another swing decorate figure";

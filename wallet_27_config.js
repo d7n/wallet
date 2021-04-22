@@ -1,1 +1,1 @@
-var mnemonic = "lab tomato increase grit airport expect list danger party element amazing labor";
+var mnemonic = "talk bring fossil three twice twelve memory satisfy picnic produce clay mansion";

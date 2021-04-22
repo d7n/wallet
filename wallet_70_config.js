@@ -1,1 +1,1 @@
-var mnemonic = "earth rare autumn remind frost proud spray gloom left bounce vocal above";
+var mnemonic = "diamond pizza alley cool retreat cruise history toilet legend narrow liar color";

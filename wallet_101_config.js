@@ -1,1 +1,1 @@
-var mnemonic = "magnet daring divert amazing vibrant offer blush great rate layer vendor loud";
+var mnemonic = "junior pistol obey slight unit foil use worry metal receive under carpet";

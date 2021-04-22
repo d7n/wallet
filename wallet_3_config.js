@@ -1,1 +1,1 @@
-var mnemonic = "live ethics tube spy lottery mind excite truck rubber acoustic avocado loop";
+var mnemonic = "dwarf nasty device game breeze grid spirit lake power offer swift topple";

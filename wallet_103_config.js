@@ -1,1 +1,1 @@
-var mnemonic = "win ready hospital wagon mother tray provide family spoon inject tell call";
+var mnemonic = "parrot cereal index junior toy jaguar multiply into hello gallery cannon oven";

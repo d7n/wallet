@@ -1,1 +1,1 @@
-var mnemonic = "elbow transfer pair seat mention mix peace crystal hobby curious index orange";
+var mnemonic = "match hero usual high device pet target isolate reflect solve bicycle citizen";

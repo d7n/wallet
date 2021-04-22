@@ -1,1 +1,1 @@
-var mnemonic = "inherit cushion dentist actor visa turn era cereal van inside music major";
+var mnemonic = "loud tumble outer equip ugly student suspect sense hedgehog curve cup allow";

@@ -1,1 +1,1 @@
-var mnemonic = "thought luggage cross concert settle reward power unusual couch enroll warfare mansion";
+var mnemonic = "sheriff audit multiply uncle kick alcohol practice cushion market nose buffalo stumble";

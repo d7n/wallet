@@ -1,1 +1,1 @@
-var mnemonic = "diary vessel mistake wrestle sausage state powder train violin business debate real";
+var mnemonic = "cream skull brass tuna trial during repeat fitness equip super fan bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics believe age coin video bubble unfold decide wrist first cigar rate";
+var mnemonic = "craft help tourist capable cook mandate suit apart fire voice more twin";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver practice bring shove where lake boring zebra arrange ripple fiber hour";
+var mnemonic = "believe fall rail shed dry clean become ostrich adult nephew cheese spider";

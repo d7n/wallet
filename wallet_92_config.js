@@ -1,1 +1,1 @@
-var mnemonic = "impact expire know letter deposit crystal offer double matter embody rose news";
+var mnemonic = "volcano admit enlist brief spray genuine wild tooth upset neither begin spatial";

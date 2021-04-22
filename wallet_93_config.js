@@ -1,1 +1,1 @@
-var mnemonic = "humor cash dinner uniform civil laundry during awkward giraffe rough head smoke";
+var mnemonic = "hello cancel noble loyal poem sunset wing powder tree ocean buzz regret";

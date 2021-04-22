@@ -1,1 +1,1 @@
-var mnemonic = "frozen eternal detail already tennis imitate frozen cruise puppy finger utility tomorrow";
+var mnemonic = "senior glad safe write hollow rail jeans venue vivid hungry garage lamp";

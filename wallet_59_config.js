@@ -1,1 +1,1 @@
-var mnemonic = "together music hood air document goose cool junk glare lobster divide small";
+var mnemonic = "loyal rent beauty that cute develop differ gold crater used rocket board";

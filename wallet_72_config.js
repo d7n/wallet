@@ -1,1 +1,1 @@
-var mnemonic = "civil alarm equal comfort shop chair novel wood rice action end garage";
+var mnemonic = "observe various evolve monkey tiger husband super aisle around finish verb lamp";

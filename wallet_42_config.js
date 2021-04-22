@@ -1,1 +1,1 @@
-var mnemonic = "object brain tilt team trim network wool sail human rose adapt blame";
+var mnemonic = "device visa ocean still bright what wink illegal park table phrase artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "nest mixed anxiety depend curious misery muscle three moon remind ignore theory";
+var mnemonic = "south fee square blade pill knock shrimp produce topple spare attitude strong";

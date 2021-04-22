@@ -1,1 +1,1 @@
-var mnemonic = "cushion catalog icon latin peace vehicle clown doll south west satisfy public";
+var mnemonic = "produce proud lab peanut damage first soul sausage honey laundry athlete wife";
