@@ -1,1 +1,1 @@
-var mnemonic = "sustain sell festival patch tray rapid invest vague faculty keep chat unit";
+var mnemonic = "local hawk same arm truck ahead copy below sunset wild gain noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "loud identify burden clown butter wish tribe escape afraid basic hand dignity";
+var mnemonic = "mass struggle minor build alley nature lyrics what random cup puppy bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt mimic lumber auction genre gas try enable idle vital cute improve";
+var mnemonic = "pizza book brush mouse admit mutual toddler nation case donkey harvest proof";

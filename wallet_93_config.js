@@ -1,1 +1,1 @@
-var mnemonic = "only flight like online tooth upon list decade village glance net pelican";
+var mnemonic = "crystal family audit talent note ride solid jungle sheriff infant walk motion";

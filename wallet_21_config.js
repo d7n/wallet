@@ -1,1 +1,1 @@
-var mnemonic = "nest brother friend ecology master accident harsh sister group pluck diet educate";
+var mnemonic = "evil hover welcome exclude usual bamboo depth traffic direct develop clown engine";

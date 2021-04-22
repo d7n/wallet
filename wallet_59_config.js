@@ -1,1 +1,1 @@
-var mnemonic = "walnut rabbit random slow lab obey grass still prison bring illegal recipe";
+var mnemonic = "feature lemon gesture hospital swift mutual crunch danger useless they swamp choice";

@@ -1,1 +1,1 @@
-var mnemonic = "coin wool ketchup giggle cable horse vote certain cart slab rain vast";
+var mnemonic = "govern vast absurd radio earn bachelor remove trick unknown wealth proof legal";

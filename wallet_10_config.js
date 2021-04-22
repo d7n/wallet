@@ -1,1 +1,1 @@
-var mnemonic = "sorry crane robot tell gaze spray acoustic foam alter pen drill cargo";
+var mnemonic = "chief coast leg vague image club rebel measure rotate glass rebuild cushion";

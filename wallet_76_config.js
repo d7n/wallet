@@ -1,1 +1,1 @@
-var mnemonic = "ordinary tornado kangaroo village involve frog chaos lottery enrich cart direct invest";
+var mnemonic = "buzz rely impulse forum bracket day pilot raven motor talk planet spell";

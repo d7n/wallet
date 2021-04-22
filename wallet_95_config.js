@@ -1,1 +1,1 @@
-var mnemonic = "human ivory ring maze phrase place sauce you circle burger response push";
+var mnemonic = "wink ride poem require arrow suggest number range fish stove version gossip";

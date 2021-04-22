@@ -1,1 +1,1 @@
-var mnemonic = "bomb legal solve dinner region hockey prefer report submit wasp energy know";
+var mnemonic = "fade wagon device disorder burden frown give picnic call need brass indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie mechanic reduce memory all alcohol bitter rude loud margin dutch carpet";
+var mnemonic = "road short document help mandate forget apart average defy smart fall solution";

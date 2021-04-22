@@ -1,1 +1,1 @@
-var mnemonic = "lecture gorilla affair injury famous whip object venue scan kitten home priority";
+var mnemonic = "whisper laugh latin hen plug cross mixture drink stomach army bus buffalo";

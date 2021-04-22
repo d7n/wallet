@@ -1,1 +1,1 @@
-var mnemonic = "drill ring dry beyond trophy utility purity stay dress century session critic";
+var mnemonic = "emotion picnic bless feature toy mean auction coach page claw lobster buyer";

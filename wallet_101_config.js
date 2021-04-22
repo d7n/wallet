@@ -1,1 +1,1 @@
-var mnemonic = "trick valley body airport intact poverty genre pluck east law normal dignity";
+var mnemonic = "consider sand shell move picture flight discover park possible urge repair tribe";

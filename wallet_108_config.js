@@ -1,1 +1,1 @@
-var mnemonic = "limit scheme nest obey alone account host blanket lyrics actor quote dust";
+var mnemonic = "genre enter vicious sleep become wire edge library oxygen anger ensure author";

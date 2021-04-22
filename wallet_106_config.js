@@ -1,1 +1,1 @@
-var mnemonic = "space blind deliver buyer unknown abstract odor stable ensure movie category tragic";
+var mnemonic = "trade gaze auction find jacket verb roast beach trick curve castle judge";

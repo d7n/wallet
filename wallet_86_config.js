@@ -1,1 +1,1 @@
-var mnemonic = "kingdom settle crawl memory ship wet citizen table tell scissors mule portion";
+var mnemonic = "execute reason brave sea key include decade toast luxury twice sting bacon";

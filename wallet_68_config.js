@@ -1,1 +1,1 @@
-var mnemonic = "mean audit coyote hour tube rival mandate salon element lucky analyst praise";
+var mnemonic = "permit lonely labor bag junk collect describe civil object jar jungle iron";

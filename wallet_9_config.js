@@ -1,1 +1,1 @@
-var mnemonic = "feature jealous bicycle parent access laundry sing wrist east cry sauce liar";
+var mnemonic = "indicate conduct awkward video kind multiply doctor hello stereo onion round diamond";

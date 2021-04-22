@@ -1,1 +1,1 @@
-var mnemonic = "left desk regret session notable paper reunion fish run rough innocent tell";
+var mnemonic = "vanish skirt major expect spin embrace ketchup raven visual poet final curtain";

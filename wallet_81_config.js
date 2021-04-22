@@ -1,1 +1,1 @@
-var mnemonic = "little tongue round quick stem fork scheme hill strong current sick honey";
+var mnemonic = "diagram album sea gesture long position suffer dice dune tape saddle theory";

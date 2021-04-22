@@ -1,1 +1,1 @@
-var mnemonic = "olympic girl stuff guitar aim typical uniform health hunt crane section attend";
+var mnemonic = "warfare like key tobacco donkey illness laundry tree room neglect hurdle toward";

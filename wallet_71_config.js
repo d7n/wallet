@@ -1,1 +1,1 @@
-var mnemonic = "glimpse relax cruel accident brave ski upset reflect resist aisle release any";
+var mnemonic = "hurt gossip champion pilot alarm pulse trouble nurse wonder indicate thunder keep";

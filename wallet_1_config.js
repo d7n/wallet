@@ -1,1 +1,1 @@
-var mnemonic = "reform pilot series blouse dice border improve bulb scene swim grow labor";
+var mnemonic = "jaguar obtain actor wrap supply romance crouch mango used orphan task lawsuit";

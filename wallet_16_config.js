@@ -1,1 +1,1 @@
-var mnemonic = "tribe farm behind smoke enlist sweet initial gap there organ decrease garage";
+var mnemonic = "ecology boring elder regret just mule scrap exist quality occur shift antique";

@@ -1,1 +1,1 @@
-var mnemonic = "claim march unable trap jealous shuffle mutual candy tackle prepare apart ripple";
+var mnemonic = "mix often soda fiber nurse prosper output ignore top ten february seek";

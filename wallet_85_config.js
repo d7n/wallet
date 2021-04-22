@@ -1,1 +1,1 @@
-var mnemonic = "purpose myself smile fuel napkin jewel learn exist unique spot pig pupil";
+var mnemonic = "marriage jump forward salt abandon maximum tattoo desert poet lens scrub parrot";

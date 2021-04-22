@@ -1,1 +1,1 @@
-var mnemonic = "ugly umbrella fury action ripple color extra brass skate know monkey coach";
+var mnemonic = "salt gesture stumble fox helmet possible swing oppose save hurry leaf sail";

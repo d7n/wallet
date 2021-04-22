@@ -1,1 +1,1 @@
-var mnemonic = "slam skull diet reward still library over then cover muscle crater embark";
+var mnemonic = "top cross viable pottery wedding search phone sample onion educate sketch live";

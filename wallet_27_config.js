@@ -1,1 +1,1 @@
-var mnemonic = "express cycle garment vacant attract donkey service sadness unlock tobacco pupil stumble";
+var mnemonic = "fabric sound indoor immense helmet since recall journey primary sudden display glad";

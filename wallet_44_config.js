@@ -1,1 +1,1 @@
-var mnemonic = "solution finger short please decline creek club camp machine brown hair maximum";
+var mnemonic = "mass enjoy gadget vocal vote ladder tree wrap earn mercy long mistake";

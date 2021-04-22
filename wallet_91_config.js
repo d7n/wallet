@@ -1,1 +1,1 @@
-var mnemonic = "tobacco bridge rule still truth business record inside empty improve joy equip";
+var mnemonic = "athlete scorpion goat month march rhythm rose consider grunt next act fame";

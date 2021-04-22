@@ -1,1 +1,1 @@
-var mnemonic = "glimpse grape tube caught barely zebra rule drill license mercy police paddle";
+var mnemonic = "struggle width argue that maze lyrics before van elegant blouse mansion hurt";

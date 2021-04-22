@@ -1,1 +1,1 @@
-var mnemonic = "length furnace identify mango brand birth rally library glare wage obscure strong";
+var mnemonic = "indoor ribbon soup pact connect proof gaze steak orient argue lazy damp";

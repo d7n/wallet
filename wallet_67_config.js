@@ -1,1 +1,1 @@
-var mnemonic = "just vibrant concert donor poverty identify skate clap limb teach punch morning";
+var mnemonic = "spike estate clog certain enact gallery ten letter car upset speak panic";

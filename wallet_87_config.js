@@ -1,1 +1,1 @@
-var mnemonic = "menu unhappy basket announce upper custom fall must leisure wage panel demise";
+var mnemonic = "adapt true normal unhappy canyon torch few ignore neutral way beach gossip";

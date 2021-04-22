@@ -1,1 +1,1 @@
-var mnemonic = "situate width awesome shove forest topple bracket walnut scrub wealth above genuine";
+var mnemonic = "maid west point draft special travel entire day need carbon crucial right";

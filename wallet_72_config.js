@@ -1,1 +1,1 @@
-var mnemonic = "benefit cat thrive abandon catch useful sponsor major eye bachelor stairs floor";
+var mnemonic = "style arena fabric avocado flush marine matrix magnet tooth dad jealous diamond";

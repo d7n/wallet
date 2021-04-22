@@ -1,1 +1,1 @@
-var mnemonic = "include spawn blind hover grief coin inch ensure brief axis tag alert";
+var mnemonic = "busy life vacuum man jacket fashion inspire earth hammer waste subject voice";

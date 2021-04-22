@@ -1,1 +1,1 @@
-var mnemonic = "rack moon educate cancel promote angle vibrant talk october kangaroo flock tornado";
+var mnemonic = "leader impose blur column often tank judge keep arm cloth fruit trash";

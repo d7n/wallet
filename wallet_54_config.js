@@ -1,1 +1,1 @@
-var mnemonic = "blade host slender hurdle body forest retire practice during hero top try";
+var mnemonic = "artwork draw fortune debate rule husband oil dizzy mountain enforce alpha cup";

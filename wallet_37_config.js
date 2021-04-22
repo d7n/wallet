@@ -1,1 +1,1 @@
-var mnemonic = "toast final rich smart devote cup raven pencil spoil exercise sphere duck";
+var mnemonic = "aunt spoon lend hope push gossip orphan genuine spawn volume trash vacuum";

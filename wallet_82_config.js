@@ -1,1 +1,1 @@
-var mnemonic = "surround that prepare swear zero dust pig upper ill consider mother confirm";
+var mnemonic = "salute spice adult wise happy shoe load artefact capital damp radio lunar";

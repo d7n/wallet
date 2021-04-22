@@ -1,1 +1,1 @@
-var mnemonic = "almost quick hollow naive evolve friend shuffle submit bounce cloud actress desk";
+var mnemonic = "edge cross route tuna eyebrow cry cattle cry type auction local crowd";

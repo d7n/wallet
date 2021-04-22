@@ -1,1 +1,1 @@
-var mnemonic = "venue grit release winter tail rebel patient grab wise dawn scrub soup";
+var mnemonic = "radio autumn often prize one measure whip buddy future march soul wall";

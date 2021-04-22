@@ -1,1 +1,1 @@
-var mnemonic = "festival erase demise relax above next cycle deposit journey exile drill story";
+var mnemonic = "forum coast permit foster finish thing vivid grant duck crunch found scale";

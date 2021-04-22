@@ -1,1 +1,1 @@
-var mnemonic = "cheap bike emotion dad keen float sniff security host fame ramp cabin";
+var mnemonic = "become prize ten charge time summer struggle bitter green ridge endorse artefact";

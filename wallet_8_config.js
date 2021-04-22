@@ -1,1 +1,1 @@
-var mnemonic = "table easy tiny innocent fame genre spin rival exotic forum congress diamond";
+var mnemonic = "reopen physical clump toward habit coral hawk begin dynamic turtle token lecture";

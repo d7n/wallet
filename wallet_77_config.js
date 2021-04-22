@@ -1,1 +1,1 @@
-var mnemonic = "hungry virus blur pride size clarify ensure point volcano ethics stay beyond";
+var mnemonic = "split sister absorb state bird ecology venue uncover below cupboard vivid fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "clay defense over scorpion onion group cause plunge battle sleep common length";
+var mnemonic = "fit argue army smooth february mixture dove will flock you evoke index";

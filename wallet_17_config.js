@@ -1,1 +1,1 @@
-var mnemonic = "sheriff visual light present donate input horn bacon disease label prevent wish";
+var mnemonic = "mammal render egg indicate leave slim fancy tail example actress tray clip";

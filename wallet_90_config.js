@@ -1,1 +1,1 @@
-var mnemonic = "exchange report spin elder object air cotton museum police learn chase laugh";
+var mnemonic = "dress occur icon mean license method limb cushion gather echo love swim";

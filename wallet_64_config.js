@@ -1,1 +1,1 @@
-var mnemonic = "artefact extra tooth disease vast grain mercy mirror riot faculty spider amateur";
+var mnemonic = "school lazy dice divorce moral dolphin claim expire improve net skull civil";

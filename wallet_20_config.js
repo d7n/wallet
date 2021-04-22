@@ -1,1 +1,1 @@
-var mnemonic = "position hair seed honey impact case scissors review limit magnet bless resemble";
+var mnemonic = "hunt consider genre need zebra foil harsh drift usage prepare galaxy desert";

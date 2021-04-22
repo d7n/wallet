@@ -1,1 +1,1 @@
-var mnemonic = "gorilla hedgehog silver large hundred copy behind medal ancient make usual field";
+var mnemonic = "quiz join wide design hero detect behind chef panda friend summer between";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter require worth orient vocal license alarm egg negative until task fuel";
+var mnemonic = "praise unit pulse orchard surprise differ daughter tribe race ugly seat thought";

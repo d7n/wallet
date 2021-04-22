@@ -1,1 +1,1 @@
-var mnemonic = "purchase argue april music defy nerve lawsuit relax female wreck swear shop";
+var mnemonic = "connect wink wood embark van lion dolphin become dog uncle tired assume";

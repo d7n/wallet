@@ -1,1 +1,1 @@
-var mnemonic = "wasp bulb jewel praise timber shadow stomach cart question pilot praise capital";
+var mnemonic = "risk rare satisfy clay baby rather alone leave gap elbow submit angry";

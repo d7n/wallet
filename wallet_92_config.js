@@ -1,1 +1,1 @@
-var mnemonic = "burden equip merge prevent elevator together fortune struggle way wave inquiry square";
+var mnemonic = "differ oil barrel dolphin wish stove gallery huge cabin emotion receive mail";

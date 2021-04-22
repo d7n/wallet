@@ -1,1 +1,1 @@
-var mnemonic = "today inject similar achieve steak inner kidney major cart festival miracle random";
+var mnemonic = "clerk valve skin visit begin inject mean network around blossom grief cliff";

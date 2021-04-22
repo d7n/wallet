@@ -1,1 +1,1 @@
-var mnemonic = "auction record genre vintage arm galaxy dizzy engage oxygen poet orient vibrant";
+var mnemonic = "hedgehog original glance bacon happy place worry stay asset own depart stand";

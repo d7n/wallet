@@ -1,1 +1,1 @@
-var mnemonic = "acoustic poet scan fade general cradle shoot affair push what catch shop";
+var mnemonic = "element vibrant wear include galaxy pepper hub chef table pretty history borrow";

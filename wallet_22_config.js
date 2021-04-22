@@ -1,1 +1,1 @@
-var mnemonic = "flight long short office remain fade devote manage twice early usual require";
+var mnemonic = "pencil grow replace miss avoid brand valid nature loan sniff steel congress";

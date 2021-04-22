@@ -1,1 +1,1 @@
-var mnemonic = "result defense near pepper mail bid viable horse unveil bright excuse stomach";
+var mnemonic = "state scheme filter glory bonus duty inspire over magic walnut design salt";

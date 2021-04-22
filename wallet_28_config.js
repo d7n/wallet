@@ -1,1 +1,1 @@
-var mnemonic = "relief before chest school legend auto write million picnic industry life game";
+var mnemonic = "chair second purse lake use paper blanket remind broom two dismiss answer";

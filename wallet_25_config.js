@@ -1,1 +1,1 @@
-var mnemonic = "attack green laptop please zoo lesson symbol legend verb fly way talk";
+var mnemonic = "miss barrel local order october quiz cinnamon tilt orphan item brand exchange";

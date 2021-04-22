@@ -1,1 +1,1 @@
-var mnemonic = "math lion thunder old behave dilemma still now panda engine flat friend";
+var mnemonic = "solve initial teach edit awful expand feel traffic comic snack soldier liquid";

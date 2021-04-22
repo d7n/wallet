@@ -1,1 +1,1 @@
-var mnemonic = "multiply expand produce account correct require stem present tail drill cotton evil";
+var mnemonic = "home spawn depart faculty entire fresh certain grace pledge lend unveil section";

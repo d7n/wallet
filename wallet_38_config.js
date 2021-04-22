@@ -1,1 +1,1 @@
-var mnemonic = "quantum spread cigar shy stone exhibit mixed smoke salmon stereo public lucky";
+var mnemonic = "plastic dolphin debris enemy simple saddle color wave evolve price excite dentist";

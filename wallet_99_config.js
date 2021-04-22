@@ -1,1 +1,1 @@
-var mnemonic = "useful radar report syrup grab eager master donor army human gossip annual";
+var mnemonic = "peace glue region mule little such flight salmon coral visual they sibling";

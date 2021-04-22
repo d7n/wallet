@@ -1,1 +1,1 @@
-var mnemonic = "raw burger volcano view cement honey pet lawsuit erode hollow volume margin";
+var mnemonic = "convince provide crumble grocery torch broken ill boost sample erosion country disagree";

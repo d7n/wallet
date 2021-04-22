@@ -1,1 +1,1 @@
-var mnemonic = "alarm edit dismiss month alert client solid bullet fabric garage advice envelope";
+var mnemonic = "icon illness present uphold erupt accident drama van neck fix almost inch";

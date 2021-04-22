@@ -1,1 +1,1 @@
-var mnemonic = "van gift ugly exhaust oval knife flush wife argue have wedding tomorrow";
+var mnemonic = "column strategy expand merry hobby enrich term obvious math ball insane detail";

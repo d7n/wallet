@@ -1,1 +1,1 @@
-var mnemonic = "fire scatter swallow matter burger property property kiss dove song armor flush";
+var mnemonic = "gas there already rice sick eager cricket else jewel glove attend hotel";

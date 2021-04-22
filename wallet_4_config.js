@@ -1,1 +1,1 @@
-var mnemonic = "thought panic sport jewel syrup floor apology surprise decline decide gospel estate";
+var mnemonic = "tube artist sick struggle love test prepare palace peasant toe pattern cross";

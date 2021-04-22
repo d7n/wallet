@@ -1,1 +1,1 @@
-var mnemonic = "valve moral impulse omit extend again receive nature penalty own image nuclear";
+var mnemonic = "ketchup warrior steak defy wisdom demand crack become snap dry suffer measure";

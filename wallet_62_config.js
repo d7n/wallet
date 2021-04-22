@@ -1,1 +1,1 @@
-var mnemonic = "chimney exit senior current range genre river side fly job flock click";
+var mnemonic = "people aunt dance supreme issue hen state plastic copper brother vendor nothing";

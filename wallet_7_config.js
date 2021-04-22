@@ -1,1 +1,1 @@
-var mnemonic = "angle visa below because review couple typical team jump random account segment";
+var mnemonic = "garlic foster boost neglect vibrant order practice degree hire marble funny orient";

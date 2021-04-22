@@ -1,1 +1,1 @@
-var mnemonic = "enough bread until today giraffe canoe sorry mountain unfair satisfy response miss";
+var mnemonic = "peace million duck flag review blast float fatal tonight trade spy quiz";

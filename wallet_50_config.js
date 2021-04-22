@@ -1,1 +1,1 @@
-var mnemonic = "clinic sense olive donate veteran aerobic voice plunge pulse whisper curve rocket";
+var mnemonic = "camp basket cave increase mean apple misery young purchase rug olympic fade";

@@ -1,1 +1,1 @@
-var mnemonic = "heart hollow garment blade forest ripple hour wish task poet expire digital";
+var mnemonic = "zebra practice february trigger raise chef enlist shine course drum law choice";

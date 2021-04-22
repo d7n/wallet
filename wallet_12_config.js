@@ -1,1 +1,1 @@
-var mnemonic = "edge keen unlock confirm nut dog ready second flock shy rack infant";
+var mnemonic = "rebuild hockey mimic tunnel olive ski control copper shoot comfort fury bread";

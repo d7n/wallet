@@ -1,1 +1,1 @@
-var mnemonic = "kitten skirt monster jar exercise athlete shuffle orbit midnight material alarm tunnel";
+var mnemonic = "double fly valid patch piano worry treat steel better across hill curious";

@@ -1,1 +1,1 @@
-var mnemonic = "remind scheme spike vanish potato canoe cruise verb flight truck call cabin";
+var mnemonic = "flight glad trick someone post faith step essay obey orchard stock govern";

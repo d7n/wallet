@@ -1,1 +1,1 @@
-var mnemonic = "force build peanut ramp craft deny hip lizard place glue imitate shadow";
+var mnemonic = "cluster pulp assume enter tragic cupboard stem immense depth diagram tobacco income";

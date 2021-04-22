@@ -1,1 +1,1 @@
-var mnemonic = "ensure object inject dial cabbage pink resemble abstract gospel tide lounge recycle";
+var mnemonic = "rough cable release section bronze yard edge orient evidence nothing film change";

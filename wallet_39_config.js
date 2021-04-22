@@ -1,1 +1,1 @@
-var mnemonic = "million nothing fiber project festival carpet decline alley ordinary ten recall liar";
+var mnemonic = "chaos ethics limit marriage hockey broom camp liquid aisle vague scatter sight";
