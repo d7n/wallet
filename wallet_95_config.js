@@ -1,1 +1,1 @@
-var mnemonic = "bench spike card bicycle tiny bid fuel onion fat practice force cable";
+var mnemonic = "face million quick neither merge fuel tide rescue feel table future talk";

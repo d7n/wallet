@@ -1,1 +1,1 @@
-var mnemonic = "recall orbit eye immune seek expand rib hill enable usage evil obvious";
+var mnemonic = "spray cruel autumn one peasant deal sound egg real radar video idle";

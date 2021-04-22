@@ -1,1 +1,1 @@
-var mnemonic = "crowd olive juice bar scare grocery glad oyster saddle pudding online keep";
+var mnemonic = "stereo concert own drift sorry avocado equip upset deny lottery pet bachelor";

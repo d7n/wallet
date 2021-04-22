@@ -1,1 +1,1 @@
-var mnemonic = "powder know caught dwarf tent kite urban egg park arena stay clean";
+var mnemonic = "tag famous mind company pelican drip net medal slide owner flame zero";

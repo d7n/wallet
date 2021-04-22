@@ -1,1 +1,1 @@
-var mnemonic = "finish abstract cradle neck donkey turtle spring news weather crash visual bomb";
+var mnemonic = "often tool taste guard vital catch climb wonder wear arctic stadium charge";

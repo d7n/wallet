@@ -1,1 +1,1 @@
-var mnemonic = "practice hundred harvest labor trigger client eye truly novel work humble hold";
+var mnemonic = "cram analyst diary lava method awkward future eyebrow hat light twice virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "salt idea spice manual scene recipe protect outer truly scorpion attend fan";
+var mnemonic = "issue foam tag once onion sphere please shadow layer middle flower walnut";

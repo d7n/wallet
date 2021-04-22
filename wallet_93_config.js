@@ -1,1 +1,1 @@
-var mnemonic = "mixture robot giggle print muffin exercise enforce number property jar wrist winter";
+var mnemonic = "pluck they enable broken scout believe again friend hundred point crane theory";

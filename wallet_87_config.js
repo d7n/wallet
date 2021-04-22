@@ -1,1 +1,1 @@
-var mnemonic = "creek relax whisper become clean volume image transfer zero make enrich crack";
+var mnemonic = "holiday cheese sea outside dilemma citizen chaos puppy force benefit direct blame";

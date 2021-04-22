@@ -1,1 +1,1 @@
-var mnemonic = "fringe immense wage gesture kit repair put swarm catalog stairs reopen arrow";
+var mnemonic = "supply arm infant reject truly chef margin endorse alley drift bracket brave";

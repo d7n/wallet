@@ -1,1 +1,1 @@
-var mnemonic = "undo hip treat prevent rain unfair panda certain calm scissors gravity hazard";
+var mnemonic = "few animal crack village rally elite heart absent crane celery walk law";

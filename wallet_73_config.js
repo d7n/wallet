@@ -1,1 +1,1 @@
-var mnemonic = "cook sign rate ritual control quantum pole sunny soon voice sentence cricket";
+var mnemonic = "proof arrange custom aunt novel garage leg setup pledge oyster feature video";

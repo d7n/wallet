@@ -1,1 +1,1 @@
-var mnemonic = "come census length ketchup nose stamp owner save alarm what hybrid dance";
+var mnemonic = "recall buffalo ugly video unfold random assume barrel unusual shock assume solve";

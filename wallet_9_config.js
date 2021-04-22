@@ -1,1 +1,1 @@
-var mnemonic = "oppose ridge very inside kiwi spike wear obscure figure mix tourist fiber";
+var mnemonic = "jacket machine benefit identify globe mixture own street success brain adapt unusual";

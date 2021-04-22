@@ -1,1 +1,1 @@
-var mnemonic = "also climb inmate expire rate worry elephant cute beauty decorate project steak";
+var mnemonic = "boil patch sphere focus negative muscle business census dirt position reflect ethics";

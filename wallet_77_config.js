@@ -1,1 +1,1 @@
-var mnemonic = "whip scrap forest crazy demand atom exotic rally become shop away moon";
+var mnemonic = "jacket coil jelly hold power vast toss air first ancient diagram cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt desert exchange sponsor glad kite october all practice depart priority subway";
+var mnemonic = "jacket winter wave member winner thunder brisk dream canoe crazy modify street";

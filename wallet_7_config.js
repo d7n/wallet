@@ -1,1 +1,1 @@
-var mnemonic = "sauce fame parade excess resource call visa fury festival library blossom spray";
+var mnemonic = "switch couple you neither check tomorrow other ball brand ski click december";

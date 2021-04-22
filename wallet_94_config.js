@@ -1,1 +1,1 @@
-var mnemonic = "trap dance interest parrot advance trust orphan struggle castle expose melt credit";
+var mnemonic = "casual churn fashion book zone width manual trial ugly flat birth palace";

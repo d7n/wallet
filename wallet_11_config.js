@@ -1,1 +1,1 @@
-var mnemonic = "enlist lava electric vacuum supply advice unlock bamboo disorder setup inch law";
+var mnemonic = "fruit coral wasp chalk say broccoli loan horn proud arrest tragic try";

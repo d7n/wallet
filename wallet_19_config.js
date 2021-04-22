@@ -1,1 +1,1 @@
-var mnemonic = "net shadow raccoon portion clap opera rich item nominee magic oppose anxiety";
+var mnemonic = "project whip uphold early feature rotate monster venue echo index fix lens";

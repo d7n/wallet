@@ -1,1 +1,1 @@
-var mnemonic = "spawn raise siege cushion drum tower estate lock trick dish equal combine";
+var mnemonic = "remember initial awake print toe later resemble coral beauty salute stove basket";

@@ -1,1 +1,1 @@
-var mnemonic = "supply globe copy shoulder october alcohol aunt news artist then immune face";
+var mnemonic = "stadium mandate depart rifle couch hammer obtain crater wet present arm animal";

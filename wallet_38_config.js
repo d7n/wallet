@@ -1,1 +1,1 @@
-var mnemonic = "device series coffee friend talent void rib cigar ill board mosquito intact";
+var mnemonic = "record order original field connect extra grain oppose whisper plastic paper boy";

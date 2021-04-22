@@ -1,1 +1,1 @@
-var mnemonic = "powder park attend fancy snap thrive loud float require combine level season";
+var mnemonic = "rural fruit hawk steel affair trumpet world ability swap spot cute spell";

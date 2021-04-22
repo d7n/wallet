@@ -1,1 +1,1 @@
-var mnemonic = "shine play gentle pool task fall bridge inspire sample train skill kitten";
+var mnemonic = "dune fly car rocket demand middle trouble correct excite grow picture civil";

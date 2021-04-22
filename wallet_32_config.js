@@ -1,1 +1,1 @@
-var mnemonic = "goddess crunch device gift chapter toast other onion imitate ignore manage north";
+var mnemonic = "furnace shadow nature yard obscure essay icon vendor female south knee include";

@@ -1,1 +1,1 @@
-var mnemonic = "despair image warrior donkey organ eye panther idle language number scissors unusual";
+var mnemonic = "scan scrub mutual expand adapt flat suffer harbor episode divide rifle boil";

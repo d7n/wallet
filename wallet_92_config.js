@@ -1,1 +1,1 @@
-var mnemonic = "undo zero prefer funny rely exact they squeeze run thank aunt grocery";
+var mnemonic = "column target olive situate weird heart occur city certain talk empty grain";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch unfold motor divorce traffic universe power soul mother comfort web early";
+var mnemonic = "age pass merry disease jealous burst evidence marriage alert pride worth scare";

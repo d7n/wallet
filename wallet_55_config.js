@@ -1,1 +1,1 @@
-var mnemonic = "educate zebra property attract vacant romance series move combine cluster twin dilemma";
+var mnemonic = "auction soda salmon eager raven play crowd spice cage exhibit gap device";

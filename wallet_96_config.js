@@ -1,1 +1,1 @@
-var mnemonic = "thank gold village expire analyst subway alcohol forward vintage job pulp naive";
+var mnemonic = "catalog worry remove fantasy adult taste sing toast derive snap winter draw";

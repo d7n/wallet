@@ -1,1 +1,1 @@
-var mnemonic = "sock tilt text matter pipe tilt limb abuse topple donor believe post";
+var mnemonic = "science caution response lock scare sing cheap wet love recycle hat such";

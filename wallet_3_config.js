@@ -1,1 +1,1 @@
-var mnemonic = "okay gadget edge yellow butter sock fresh online kid door midnight abuse";
+var mnemonic = "noodle hill major stuff punch oval toward rich surround genius daring media";

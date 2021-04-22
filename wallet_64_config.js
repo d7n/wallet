@@ -1,1 +1,1 @@
-var mnemonic = "bridge salad prevent spare garlic toddler solid pony roast fit crime alter";
+var mnemonic = "vacuum impulse hedgehog badge poem believe glory spice bid brush have grass";

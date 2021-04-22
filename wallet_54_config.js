@@ -1,1 +1,1 @@
-var mnemonic = "input erupt march holiday use blush private swarm trophy faint excite table";
+var mnemonic = "circle laptop elbow violin since script mango harsh floor ceiling acquire warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort come faint plastic code movie welcome forward ostrich access pond release";
+var mnemonic = "pitch nature present code unable mixture fashion artefact brother filter merit exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "rural way daring case language cousin size hair fly expand silver company";
+var mnemonic = "seat snow pitch broccoli hockey proud attack employ stairs mad dry dish";

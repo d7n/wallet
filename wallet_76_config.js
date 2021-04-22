@@ -1,1 +1,1 @@
-var mnemonic = "burst artist tongue pear ask steel path color dream feature square harsh";
+var mnemonic = "lesson drastic thing notable man eyebrow feed upset hockey oak stand there";

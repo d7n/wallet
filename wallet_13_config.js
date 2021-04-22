@@ -1,1 +1,1 @@
-var mnemonic = "awesome mass catch burden mushroom tag melody dove moral remain frequent under";
+var mnemonic = "clap sheriff excess protect soccer cause during butter ostrich fan day vague";

@@ -1,1 +1,1 @@
-var mnemonic = "sand better canyon debate guitar champion affair veteran blame ready spider buyer";
+var mnemonic = "afford mouse grab awkward insect burst detail coffee super stay cannon purity";

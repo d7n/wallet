@@ -1,1 +1,1 @@
-var mnemonic = "brass divorce flee deliver finish suggest bread situate cruise predict stadium arrive";
+var mnemonic = "wreck monkey butter pyramid item sell veteran oak area select board leg";

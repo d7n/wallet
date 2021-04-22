@@ -1,1 +1,1 @@
-var mnemonic = "can cattle increase joy inside episode diesel domain lottery box swamp unique";
+var mnemonic = "laugh clever man swallow autumn finger vintage exclude pond broken visit obvious";

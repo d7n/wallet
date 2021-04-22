@@ -1,1 +1,1 @@
-var mnemonic = "confirm gas cliff trust gloom honey risk deal hover leg agree cherry";
+var mnemonic = "drop wire learn unit helmet calm there bid husband poverty hub calm";

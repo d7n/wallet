@@ -1,1 +1,1 @@
-var mnemonic = "party stool finish decorate group almost lobster casino heavy pear nothing amazing";
+var mnemonic = "gravity erode avoid quality okay sing render armed beauty genius program average";

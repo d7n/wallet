@@ -1,1 +1,1 @@
-var mnemonic = "put barely address endless auction hurdle gift planet attitude grape warfare element";
+var mnemonic = "sustain undo steak confirm car photo decline beauty setup genius ecology dance";

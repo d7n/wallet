@@ -1,1 +1,1 @@
-var mnemonic = "upper picnic green husband circle exit chuckle junior interest measure sponsor shine";
+var mnemonic = "crunch permit gas then diagram bright average ketchup letter wreck machine prevent";

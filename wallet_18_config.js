@@ -1,1 +1,1 @@
-var mnemonic = "shine pudding nurse motor acquire real theme artwork tired squeeze beauty between";
+var mnemonic = "gaze utility mimic common ritual venture mouse speed theory fog bottom expand";

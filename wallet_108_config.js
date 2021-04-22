@@ -1,1 +1,1 @@
-var mnemonic = "report thunder when first ginger moon panel fiber deliver power february deny";
+var mnemonic = "earth upgrade give fold nothing tornado kiwi subway gauge ill couch certain";

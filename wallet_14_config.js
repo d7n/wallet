@@ -1,1 +1,1 @@
-var mnemonic = "rent margin excuse chronic embrace daring screen nut bid exhibit lizard gain";
+var mnemonic = "sunny cool phone canyon concert party panther idea air meadow board cover";

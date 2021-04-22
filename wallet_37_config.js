@@ -1,1 +1,1 @@
-var mnemonic = "cruel skill marble sketch wasp wall tumble scheme source size balance priority";
+var mnemonic = "mosquito satisfy around horror broken night item bullet orient ask abuse quote";

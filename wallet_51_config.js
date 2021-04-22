@@ -1,1 +1,1 @@
-var mnemonic = "artwork magic oblige vivid job rapid robot lawn fire hotel include love";
+var mnemonic = "special lock like trick body win glue truck wink again insect tobacco";

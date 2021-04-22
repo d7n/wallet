@@ -1,1 +1,1 @@
-var mnemonic = "knee where initial thank scheme awake soft dizzy melody moment deer topple";
+var mnemonic = "hand range topic glad dismiss pen across where wet vicious gossip start";

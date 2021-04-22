@@ -1,1 +1,1 @@
-var mnemonic = "body resist outer major entire ramp avocado rail able reunion define marriage";
+var mnemonic = "injury actor today core open green valve theory disorder nation rally vanish";

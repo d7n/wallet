@@ -1,1 +1,1 @@
-var mnemonic = "donor captain ordinary win act tell leave race remove sketch shuffle tree";
+var mnemonic = "sock today during violin episode service width either embrace lend teach become";

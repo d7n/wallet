@@ -1,1 +1,1 @@
-var mnemonic = "diary panel pluck benefit stereo awful win find shoulder beyond inherit property";
+var mnemonic = "inspire girl fossil stool sphere dish access stereo quiz throw during shoe";

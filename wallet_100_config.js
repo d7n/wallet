@@ -1,1 +1,1 @@
-var mnemonic = "phrase action other chalk cube retire camera hockey easily spike hospital tobacco";
+var mnemonic = "deputy merit gap boy assist divorce silly churn disagree faint breeze juice";

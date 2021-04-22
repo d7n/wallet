@@ -1,1 +1,1 @@
-var mnemonic = "loud habit any inner radio stand catalog knife brief recipe lake scene";
+var mnemonic = "slice uncle dilemma enough village major gate affair throw history comic access";

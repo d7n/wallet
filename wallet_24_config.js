@@ -1,1 +1,1 @@
-var mnemonic = "pride absurd early dirt obey nerve correct flip steel kangaroo amateur decline";
+var mnemonic = "ring license unique raise attitude swear question iron music day program sauce";

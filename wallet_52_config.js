@@ -1,1 +1,1 @@
-var mnemonic = "ticket intact mercy walnut dance lab destroy grocery lucky adapt wish alien";
+var mnemonic = "valley slice coast negative actress capable behind sun busy garbage giraffe canyon";

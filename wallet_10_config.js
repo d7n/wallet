@@ -1,1 +1,1 @@
-var mnemonic = "rubber round thing brave laptop ranch later congress tumble palm venture master";
+var mnemonic = "reject liberty work anchor broccoli eye fatigue protect ecology gesture consider sea";

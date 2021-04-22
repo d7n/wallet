@@ -1,1 +1,1 @@
-var mnemonic = "such quit cactus reform march path dumb twin salute man sentence purse";
+var mnemonic = "digital desert venture witness joke skirt desert win kid glimpse shed post";

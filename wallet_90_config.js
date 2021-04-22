@@ -1,1 +1,1 @@
-var mnemonic = "dawn cargo couple finger kind trade venue nice consider rare push useless";
+var mnemonic = "brush bottom neglect fork limit squeeze job wink gospel flavor will ride";

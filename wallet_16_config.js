@@ -1,1 +1,1 @@
-var mnemonic = "coin sweet extra ancient swear car else party number despair pave never";
+var mnemonic = "taste float found earth athlete jewel book squeeze gloom metal debris festival";

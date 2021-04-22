@@ -1,1 +1,1 @@
-var mnemonic = "mountain final adjust cancel dial main embrace soda betray orange lucky kidney";
+var mnemonic = "science chase pelican music crew sword girl master census upgrade explain shock";

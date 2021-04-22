@@ -1,1 +1,1 @@
-var mnemonic = "lounge gym venture autumn praise pave essay twice bulb claim match shove";
+var mnemonic = "dragon high ritual quote copper oven stone obvious rich biology twist solid";

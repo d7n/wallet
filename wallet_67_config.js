@@ -1,1 +1,1 @@
-var mnemonic = "chicken gallery black outside senior reopen between usage climb number jeans wealth";
+var mnemonic = "act conduct local seat lion scheme edit exchange license dignity define unknown";

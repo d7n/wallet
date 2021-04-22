@@ -1,1 +1,1 @@
-var mnemonic = "clump renew play minute approve tenant coach corn can crash pill icon";
+var mnemonic = "orchard hurt flag mystery gallery trick relax social fitness film torch soap";

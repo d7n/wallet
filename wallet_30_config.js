@@ -1,1 +1,1 @@
-var mnemonic = "vintage theme erupt exotic lift opinion round abandon neck sign fit exile";
+var mnemonic = "accident output capital clarify glass federal method body force urge robot lyrics";

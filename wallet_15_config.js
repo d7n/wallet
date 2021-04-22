@@ -1,1 +1,1 @@
-var mnemonic = "plunge galaxy pelican damage project cycle govern mom reward that festival never";
+var mnemonic = "office luggage worry excess model glass mammal ivory gasp illness market nasty";

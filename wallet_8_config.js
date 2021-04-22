@@ -1,1 +1,1 @@
-var mnemonic = "memory entry short march regret public source leisure bird script gas extra";
+var mnemonic = "birth edit cute liberty wear knock amount trick fun blast embrace lab";

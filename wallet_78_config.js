@@ -1,1 +1,1 @@
-var mnemonic = "gossip hawk mean exotic culture creek cattle only cactus arctic climb burst";
+var mnemonic = "hobby vast sadness heavy feel modify miss horn era garbage public hood";

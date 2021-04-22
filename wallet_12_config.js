@@ -1,1 +1,1 @@
-var mnemonic = "economy minute quote cattle jealous neglect trumpet enter flush science honey zebra";
+var mnemonic = "prison core critic august kite divorce black minimum mirror ride toward exclude";

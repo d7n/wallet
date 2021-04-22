@@ -1,1 +1,1 @@
-var mnemonic = "oil sun oblige voyage escape sentence pave large idea soul bird invest";
+var mnemonic = "ensure lonely potato video raise borrow horse timber trim ketchup divert cannon";

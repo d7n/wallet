@@ -1,1 +1,1 @@
-var mnemonic = "basket avocado glimpse garment awesome picture climb step drift badge zone nasty";
+var mnemonic = "voyage hip into any crisp confirm shrimp raccoon brass neither smooth hundred";

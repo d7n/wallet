@@ -1,1 +1,1 @@
-var mnemonic = "pipe chase organ slogan bar relief street humor myself peanut you wide";
+var mnemonic = "vanish sheriff extra family silent nation bubble chronic depend robot whip eagle";

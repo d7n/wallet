@@ -1,1 +1,1 @@
-var mnemonic = "spring focus name bird crime hour rigid blood exhaust sadness until math";
+var mnemonic = "answer whip dust mimic talent stay ranch vintage gym type risk combine";

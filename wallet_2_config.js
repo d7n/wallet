@@ -1,1 +1,1 @@
-var mnemonic = "student return cost shiver camp observe flag spoon ethics index energy fold";
+var mnemonic = "raven audit pond able report list allow frequent decide behave bulk good";

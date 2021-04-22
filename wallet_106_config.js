@@ -1,1 +1,1 @@
-var mnemonic = "inmate educate desk essay august prepare conduct stumble sponsor tail shrimp breeze";
+var mnemonic = "brush jelly deal middle soup height slide turtle vacant general gallery subway";

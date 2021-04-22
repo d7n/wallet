@@ -1,1 +1,1 @@
-var mnemonic = "winter victory tongue silent hub half denial fiscal brain effort earn acquire";
+var mnemonic = "grab lunch primary ship attend scissors garbage battle sport eight any during";

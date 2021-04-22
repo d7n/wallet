@@ -1,1 +1,1 @@
-var mnemonic = "gossip next basic private trophy oyster pipe number device arena fee celery";
+var mnemonic = "car dilemma park sorry purity trumpet pill summer ripple mind nuclear senior";

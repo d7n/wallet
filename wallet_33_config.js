@@ -1,1 +1,1 @@
-var mnemonic = "young always leader muscle point pipe video memory eyebrow family party lens";
+var mnemonic = "glory salon canyon cousin bottom daughter mountain chimney digital absurd infant parent";

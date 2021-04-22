@@ -1,1 +1,1 @@
-var mnemonic = "swim demand morning neither accuse witness clip notice clock valley talk purchase";
+var mnemonic = "empty churn custom monitor cruise whisper media brave ridge receive post lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "spy boil empty group champion lonely fury reason loop chaos elephant cousin";
+var mnemonic = "slide door retire radio wisdom swap elite resemble syrup limit strategy thunder";

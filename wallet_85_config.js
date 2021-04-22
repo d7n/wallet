@@ -1,1 +1,1 @@
-var mnemonic = "boy city treat identify true engage cluster above nurse cross picnic flat";
+var mnemonic = "vacuum mammal whale coffee city wasp alter spare parrot jar spray immune";

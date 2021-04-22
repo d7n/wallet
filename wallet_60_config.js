@@ -1,1 +1,1 @@
-var mnemonic = "misery add promote bleak roast coconut song island ride cancel bless control";
+var mnemonic = "afford local squirrel supply ladder noble human raven when crop oak love";

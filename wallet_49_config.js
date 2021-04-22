@@ -1,1 +1,1 @@
-var mnemonic = "evil bulk suffer labor purpose bronze stamp rate situate cross pull void";
+var mnemonic = "convince side toddler labor trial cousin audit ignore rough oak issue explain";

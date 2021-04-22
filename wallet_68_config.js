@@ -1,1 +1,1 @@
-var mnemonic = "pottery shove elephant always play reveal unit churn tooth mule gate aisle";
+var mnemonic = "proud inform scout tragic disease tape shine bubble sentence trade depth adjust";

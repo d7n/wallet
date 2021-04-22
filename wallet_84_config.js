@@ -1,1 +1,1 @@
-var mnemonic = "squirrel trigger mesh april index enforce orphan wear analyst magnet corn drip";
+var mnemonic = "bronze flash odor panel strategy symbol mammal panda vanish chimney drastic summer";

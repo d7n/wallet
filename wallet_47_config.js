@@ -1,1 +1,1 @@
-var mnemonic = "aim culture romance large begin into carbon grain sphere auto oyster agent";
+var mnemonic = "rule believe often hole level priority runway theme park dinner mixed inquiry";

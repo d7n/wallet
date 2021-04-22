@@ -1,1 +1,1 @@
-var mnemonic = "nut casual key unit photo panther tragic focus orange range common satoshi";
+var mnemonic = "now science fitness soccer grace fresh lucky course pass pistol person burden";

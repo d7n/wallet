@@ -1,1 +1,1 @@
-var mnemonic = "language version youth nest wire snake venue issue quantum split only fun";
+var mnemonic = "unusual allow fiction bus eye wide help record mushroom chalk phone grass";

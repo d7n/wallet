@@ -1,1 +1,1 @@
-var mnemonic = "ladder step east army breeze snake dilemma noble tuna essence hero boss";
+var mnemonic = "raise remove elegant march spy impact thunder save comic much woman path";

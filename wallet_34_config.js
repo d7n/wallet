@@ -1,1 +1,1 @@
-var mnemonic = "marble pet supreme eight nothing margin misery start reject refuse typical fringe";
+var mnemonic = "style paddle tragic leaf guide sight scan crane glance refuse suggest asthma";

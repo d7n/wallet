@@ -1,1 +1,1 @@
-var mnemonic = "term distance filter candy net decorate shoot finish bike ignore enemy knock";
+var mnemonic = "source sick admit raise design innocent trust confirm bunker close author home";

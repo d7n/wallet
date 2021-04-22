@@ -1,1 +1,1 @@
-var mnemonic = "special age chronic warm praise kid divide candy job napkin neck capable";
+var mnemonic = "swift gadget divert smooth furnace kind unhappy used race morning fiction ten";

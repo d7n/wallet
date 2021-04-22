@@ -1,1 +1,1 @@
-var mnemonic = "crack agree van melody husband work bike giraffe decade shoot short penalty";
+var mnemonic = "man repeat behind lamp dream pottery sight bottom chicken coin canvas tag";

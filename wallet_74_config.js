@@ -1,1 +1,1 @@
-var mnemonic = "next bleak expand example ridge rice inspire pride flower trumpet depth vapor";
+var mnemonic = "dinosaur ocean praise scheme achieve juice total champion gas swift attract ripple";

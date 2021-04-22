@@ -1,1 +1,1 @@
-var mnemonic = "journey will inquiry exist nothing sense lake later truth harsh vast arctic";
+var mnemonic = "first banner flower hurt throw explain giggle fitness check come warfare host";
