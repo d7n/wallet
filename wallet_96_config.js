@@ -1,1 +1,1 @@
-var mnemonic = "artefact crack year radio evoke sound undo utility weekend deliver toast stock";
+var mnemonic = "indoor able tip rotate hawk march ribbon insane network autumn depend helmet";

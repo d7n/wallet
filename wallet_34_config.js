@@ -1,1 +1,1 @@
-var mnemonic = "develop affair effort august village false shuffle nest female midnight session forum";
+var mnemonic = "marine banana famous embark zebra sand awesome vault electric kiwi awful north";

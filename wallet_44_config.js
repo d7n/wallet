@@ -1,1 +1,1 @@
-var mnemonic = "bread matter inmate live mystery add tomato grow major snow dance address";
+var mnemonic = "offer shoot cave fade curve live tooth old practice elder move awful";

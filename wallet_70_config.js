@@ -1,1 +1,1 @@
-var mnemonic = "train defy chicken deposit stereo green love glass tissue razor decline blue";
+var mnemonic = "cube wagon sport snake physical divorce city area advice volume frozen million";

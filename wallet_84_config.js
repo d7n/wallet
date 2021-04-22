@@ -1,1 +1,1 @@
-var mnemonic = "spawn father dune anxiety twice section saddle mule wine vote hire shuffle";
+var mnemonic = "blossom leaf spell way reunion dolphin ritual virus garage lemon soul embrace";

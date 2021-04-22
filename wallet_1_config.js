@@ -1,1 +1,1 @@
-var mnemonic = "wear knock absorb donkey host deliver crop repair paddle pupil echo state";
+var mnemonic = "indicate favorite knife tortoise caution chair alert auto favorite wheat elegant figure";

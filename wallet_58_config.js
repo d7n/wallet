@@ -1,1 +1,1 @@
-var mnemonic = "hazard inflict soft captain dentist index wise two envelope ghost laptop pledge";
+var mnemonic = "popular body tobacco exit jaguar beach ignore dance mad crime mind caution";

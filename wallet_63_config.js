@@ -1,1 +1,1 @@
-var mnemonic = "sunny knee country awkward vicious move sure solid giggle patrol powder critic";
+var mnemonic = "purchase frequent dial oak prefer fortune trumpet team news west stereo weapon";

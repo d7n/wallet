@@ -1,1 +1,1 @@
-var mnemonic = "define narrow toast matrix kangaroo snow cereal garden group mail also refuse";
+var mnemonic = "ankle ahead audit foot flavor wet rare grid quantum cabin grab chair";

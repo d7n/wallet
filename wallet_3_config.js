@@ -1,1 +1,1 @@
-var mnemonic = "please depend trumpet alone deliver payment clay stuff poverty lift heart split";
+var mnemonic = "coral grow switch about moral reflect shoe patch ethics goddess know below";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle rookie erupt dose finish drum together spot add direct core spring";
+var mnemonic = "uniform carpet oven yellow supply spider duck price weather glass monkey uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "interest tray gallery assume minute good genius stairs animal urban much leisure";
+var mnemonic = "silly survey grow film exhibit boy earth label spell bike panther series";

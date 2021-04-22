@@ -1,1 +1,1 @@
-var mnemonic = "gentle equal start quote wish pink border rotate step fold foam divert";
+var mnemonic = "slush gain surround antenna bullet science autumn leopard metal sock nest host";

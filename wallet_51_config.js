@@ -1,1 +1,1 @@
-var mnemonic = "rely cute quantum inform law neglect company observe limb group subject cargo";
+var mnemonic = "car market brain company scheme twelve acquire example wall human solar rookie";

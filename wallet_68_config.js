@@ -1,1 +1,1 @@
-var mnemonic = "agree omit youth truck spawn mother skill farm cancel slush print alone";
+var mnemonic = "harbor scan whisper neck clip twin wink elder elephant okay only dynamic";

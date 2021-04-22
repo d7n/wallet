@@ -1,1 +1,1 @@
-var mnemonic = "broom pair essay matrix hire caught rule rookie quit hawk rookie duck";
+var mnemonic = "slot enable mammal receive close never file book ketchup jacket victory tobacco";

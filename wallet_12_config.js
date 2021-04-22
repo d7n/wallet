@@ -1,1 +1,1 @@
-var mnemonic = "brush legend term accuse wagon help lucky library absorb six normal sphere";
+var mnemonic = "alone shove resist tray first rate awake merge village pudding salt peasant";

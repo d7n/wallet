@@ -1,1 +1,1 @@
-var mnemonic = "harbor blue wet long broken job owner gold clinic marble vicious armor";
+var mnemonic = "outside champion search rain room glare slot resource correct famous because chuckle";

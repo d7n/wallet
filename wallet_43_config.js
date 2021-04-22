@@ -1,1 +1,1 @@
-var mnemonic = "group promote state setup happy village drill cost side blame exit nuclear";
+var mnemonic = "rib today dune shoulder seminar tide fortune health hurdle capital frost space";

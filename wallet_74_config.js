@@ -1,1 +1,1 @@
-var mnemonic = "cash else member frame health devote hire dolphin tent easily special kid";
+var mnemonic = "betray trick crunch tiger undo car interest include scheme dilemma ensure fatigue";

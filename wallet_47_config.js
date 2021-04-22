@@ -1,1 +1,1 @@
-var mnemonic = "mesh rude loop dynamic sail bronze arch believe script child sound shrimp";
+var mnemonic = "nasty trash donate fuel desert diamond coast impose time toddler mail radio";

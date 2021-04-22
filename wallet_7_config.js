@@ -1,1 +1,1 @@
-var mnemonic = "pave hat recycle donor ring simple share federal awful burst sick electric";
+var mnemonic = "door shallow guess easily addict foam brick tornado stage attend canvas upper";

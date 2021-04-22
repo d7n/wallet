@@ -1,1 +1,1 @@
-var mnemonic = "cotton degree lumber error connect agree double concert hockey hundred remain beauty";
+var mnemonic = "reward merit coral fade people normal rack banana air buyer cannon elevator";

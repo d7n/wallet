@@ -1,1 +1,1 @@
-var mnemonic = "fish must market powder negative clump sound young define couple happy napkin";
+var mnemonic = "phone snap define soccer spell later age trial monkey wedding era ability";

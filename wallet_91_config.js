@@ -1,1 +1,1 @@
-var mnemonic = "nation blast never laugh dry together genuine increase master normal power wisdom";
+var mnemonic = "sure attract decrease pluck twin bag field element absorb eyebrow power wise";

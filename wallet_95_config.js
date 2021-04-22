@@ -1,1 +1,1 @@
-var mnemonic = "taste move loan current village foot surface hammer cry divide fetch culture";
+var mnemonic = "loan stamp worth tragic corn book furnace heavy eight prosper bean divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion equal reduce disagree kite bachelor october foil chicken asset border biology";
+var mnemonic = "tooth entry cargo cherry again wine human odor tragic crush pig blouse";

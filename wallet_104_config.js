@@ -1,1 +1,1 @@
-var mnemonic = "chalk sad angry pelican usual casino battle absorb moon need tongue antique";
+var mnemonic = "make shallow whisper hour novel rough topic rival battle trumpet mass early";

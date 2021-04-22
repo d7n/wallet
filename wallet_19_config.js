@@ -1,1 +1,1 @@
-var mnemonic = "awkward false flag rabbit unit vessel crime during random warm rally small";
+var mnemonic = "rule enable safe abandon comfort point tube repair protect trigger gadget grant";

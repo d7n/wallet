@@ -1,1 +1,1 @@
-var mnemonic = "happy civil walnut chronic appear cloth color script glide negative pink deer";
+var mnemonic = "unfair process winter such install cave yard rely advance robust clip bone";

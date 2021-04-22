@@ -1,1 +1,1 @@
-var mnemonic = "build recycle assault trim buzz degree chalk more light snap organ noble";
+var mnemonic = "volume cheap bottom indoor wisdom flat drip confirm vote banner luggage tunnel";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble squeeze ceiling design resemble annual result dinosaur betray acoustic chat find";
+var mnemonic = "subway position whale thunder rib price topple still train option awful dolphin";

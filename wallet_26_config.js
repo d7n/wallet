@@ -1,1 +1,1 @@
-var mnemonic = "review hello cake crouch carbon jazz shed treat fantasy grocery subway empty";
+var mnemonic = "common reduce wasp scatter wish garden insane kingdom nerve first mango path";

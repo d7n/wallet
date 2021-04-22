@@ -1,1 +1,1 @@
-var mnemonic = "advice vacant humor bird chunk capital spread elegant offer trophy nephew genius";
+var mnemonic = "swift school rotate index ride prevent rail voice inherit live involve obey";

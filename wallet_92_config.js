@@ -1,1 +1,1 @@
-var mnemonic = "increase oak fame obtain vault essence gloom credit pulse finish arch cactus";
+var mnemonic = "endorse exotic actress success bird bomb donor jump truly tent exchange rapid";

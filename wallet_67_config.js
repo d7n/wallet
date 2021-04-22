@@ -1,1 +1,1 @@
-var mnemonic = "firm rule sound cruise maid portion faint adult despair truck maple possible";
+var mnemonic = "copper topple walk hole famous ski holiday remove artwork snack drink eager";

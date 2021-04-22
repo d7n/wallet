@@ -1,1 +1,1 @@
-var mnemonic = "cabbage remind tunnel coin wine carpet scare virtual inner gold invite often";
+var mnemonic = "mom coin flock fan chalk wheat man oxygen pudding engine evidence raven";

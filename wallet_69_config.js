@@ -1,1 +1,1 @@
-var mnemonic = "purity like inspire clutch prefer garage hurt season isolate cupboard differ wonder";
+var mnemonic = "exclude session knee patient try jelly cloud glove confirm foster loan know";

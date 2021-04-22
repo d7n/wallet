@@ -1,1 +1,1 @@
-var mnemonic = "service nuclear skull athlete alter fabric sell oppose draw bright term snow";
+var mnemonic = "rabbit worth cliff city elevator skin call coast this outside hat discover";

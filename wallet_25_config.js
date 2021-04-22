@@ -1,1 +1,1 @@
-var mnemonic = "then account subject undo accident achieve wall enhance purpose soul message extend";
+var mnemonic = "muffin stove butter ugly kitten ginger wrong lens clip rabbit bachelor eagle";

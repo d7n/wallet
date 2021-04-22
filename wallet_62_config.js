@@ -1,1 +1,1 @@
-var mnemonic = "lounge cinnamon runway helmet dish airport impulse exclude task rail large slam";
+var mnemonic = "tissue history swarm palace world believe random desert keen style gun cradle";

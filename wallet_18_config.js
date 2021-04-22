@@ -1,1 +1,1 @@
-var mnemonic = "dune embrace robot differ boat manual youth equip mail measure parade arrest";
+var mnemonic = "mix draft benefit awful will proof rebuild wedding credit digital suit open";

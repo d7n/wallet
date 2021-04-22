@@ -1,1 +1,1 @@
-var mnemonic = "road motion hamster zoo pill woman fury often one word scout dynamic";
+var mnemonic = "slim warrior enact thought secret recall champion nerve wall ribbon orange book";

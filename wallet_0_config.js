@@ -1,1 +1,1 @@
-var mnemonic = "police check dune expand myself monster shell lawn fine inquiry trick trigger";
+var mnemonic = "dune approve photo black insect armor tired trumpet culture hip tragic cave";

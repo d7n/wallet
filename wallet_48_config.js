@@ -1,1 +1,1 @@
-var mnemonic = "mean riot verify diagram lake town plunge reward runway rotate cause payment";
+var mnemonic = "desk affair correct fog praise shop trial fragile near grid piece master";

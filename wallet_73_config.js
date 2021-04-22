@@ -1,1 +1,1 @@
-var mnemonic = "mom avoid slogan virtual neutral drink power survey drip entire upon slam";
+var mnemonic = "disorder slot supreme safe scrap truth disease theory rival gap style ginger";

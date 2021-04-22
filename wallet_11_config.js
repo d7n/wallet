@@ -1,1 +1,1 @@
-var mnemonic = "scan you depth foil because jazz hub program tenant menu coral square";
+var mnemonic = "ticket lake exercise desk sense weapon visual quarter midnight unaware aisle riot";

@@ -1,1 +1,1 @@
-var mnemonic = "depart bind burger differ blossom child mammal shadow certain mouse involve cricket";
+var mnemonic = "infant world consider rail park dolphin exhibit toward office erupt wonder top";

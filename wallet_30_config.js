@@ -1,1 +1,1 @@
-var mnemonic = "client donate primary situate absent regret raise focus useful dragon buzz lazy";
+var mnemonic = "uniform blade climb cook provide wall surface potato damp talk leaf exit";

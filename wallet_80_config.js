@@ -1,1 +1,1 @@
-var mnemonic = "solid hundred cupboard vicious cheese observe treat lemon pattern coil lion please";
+var mnemonic = "twist winner vendor smile cradle exact planet name motor purity medal output";

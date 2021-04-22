@@ -1,1 +1,1 @@
-var mnemonic = "space cliff speed kite ticket derive method dog love guard code close";
+var mnemonic = "term own defy hood frame pulp own source gesture taxi pink actual";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado pulse replace unfair grit upgrade detect horror sun cargo cream poet";
+var mnemonic = "hunt scrap multiply agree stadium task virus float local elite author devote";

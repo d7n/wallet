@@ -1,1 +1,1 @@
-var mnemonic = "merry social mom thrive phone shoe usage shrug teach liar assist ship";
+var mnemonic = "program pass tool stone reward puzzle clever pet mango render electric bracket";

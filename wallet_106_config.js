@@ -1,1 +1,1 @@
-var mnemonic = "patch surge scout crucial usual auto brief clean spatial rate pepper scale";
+var mnemonic = "topic atom ripple average royal believe day midnight disagree response fog drum";

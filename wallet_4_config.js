@@ -1,1 +1,1 @@
-var mnemonic = "decorate angle hub certain hockey fossil post merge shaft list sense romance";
+var mnemonic = "popular catalog vendor cage claim good bean strategy pass man slush van";

@@ -1,1 +1,1 @@
-var mnemonic = "whip prison tunnel float shine wealth input fresh dove bonus hammer crime";
+var mnemonic = "tongue verb afford second vapor animal subway ceiling duck panel pioneer guess";

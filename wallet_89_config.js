@@ -1,1 +1,1 @@
-var mnemonic = "green habit page east gossip blue example hard damage moment target slot";
+var mnemonic = "orphan theory ceiling virus electric hover wreck cabbage limit proud shallow purse";

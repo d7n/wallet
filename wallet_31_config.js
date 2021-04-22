@@ -1,1 +1,1 @@
-var mnemonic = "loan story copper reason pluck catch try impulse machine slush soup camera";
+var mnemonic = "permit entire frequent staff today mass head coral spoon rookie auto table";

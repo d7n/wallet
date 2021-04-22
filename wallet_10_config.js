@@ -1,1 +1,1 @@
-var mnemonic = "jeans abuse wave earn during sand fabric topic primary leaf major scorpion";
+var mnemonic = "invest utility disagree february skill reveal key use ghost veteran direct two";

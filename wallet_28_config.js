@@ -1,1 +1,1 @@
-var mnemonic = "liar mesh skull hello heavy army milk faint gospel lawn release keen";
+var mnemonic = "giant wide spice warrior uniform woman among cable nature chicken network seminar";

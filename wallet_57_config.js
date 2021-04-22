@@ -1,1 +1,1 @@
-var mnemonic = "cause half weather shrug fox wealth business victory empty gas juice unfold";
+var mnemonic = "country angry smooth stay smile autumn spatial diamond label attitude kiwi path";

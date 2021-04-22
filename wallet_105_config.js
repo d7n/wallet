@@ -1,1 +1,1 @@
-var mnemonic = "chest good charge grunt bright excuse fall result summer spare stadium song";
+var mnemonic = "input clutch measure vicious enrich vital cushion image imitate sketch turtle column";

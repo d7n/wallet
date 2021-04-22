@@ -1,1 +1,1 @@
-var mnemonic = "enrich eager again bottom audit hire maze hill stand organ want trial";
+var mnemonic = "else priority clerk satisfy lamp amount intact outside tenant magic bargain report";

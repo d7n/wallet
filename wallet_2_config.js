@@ -1,1 +1,1 @@
-var mnemonic = "abstract skirt velvet wink glare bench elephant slight renew pencil essence carbon";
+var mnemonic = "cage welcome poet ordinary ordinary cinnamon pepper kidney ready laugh layer cable";

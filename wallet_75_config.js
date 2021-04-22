@@ -1,1 +1,1 @@
-var mnemonic = "walk cave acid secret motion reunion fringe ticket metal juice bridge smoke";
+var mnemonic = "surround sleep bench this service excess stock before tomato december avoid brush";

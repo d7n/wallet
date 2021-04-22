@@ -1,1 +1,1 @@
-var mnemonic = "couple grace toddler perfect tomorrow keen dad price else lumber nominee jewel";
+var mnemonic = "sun dragon year clay race gallery apology describe genius case hamster violin";

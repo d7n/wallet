@@ -1,1 +1,1 @@
-var mnemonic = "giggle wash pair slender earth cabbage brush hill slam dice prefer face";
+var mnemonic = "exact detail online moment drift angle humor little song hero year squirrel";

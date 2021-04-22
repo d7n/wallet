@@ -1,1 +1,1 @@
-var mnemonic = "ankle lottery between oak coral artwork door response brush best again budget";
+var mnemonic = "return parade negative unhappy reopen idea honey rhythm child size primary egg";

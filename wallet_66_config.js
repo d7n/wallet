@@ -1,1 +1,1 @@
-var mnemonic = "tilt inner meadow fabric general quick cost truck wild machine curious predict";
+var mnemonic = "carbon define finger brief announce boil token region original legal chief artist";

@@ -1,1 +1,1 @@
-var mnemonic = "wife recall virus cheap ethics exit harsh just squeeze daughter equal pulse";
+var mnemonic = "domain measure teach tomato marriage sad waste sign twice sweet differ cattle";

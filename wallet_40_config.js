@@ -1,1 +1,1 @@
-var mnemonic = "giggle mountain whale together control witness inmate fiction reflect adapt alter actress";
+var mnemonic = "prepare dentist brief strike canal eternal glad certain sugar ring slide chicken";

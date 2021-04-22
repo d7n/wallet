@@ -1,1 +1,1 @@
-var mnemonic = "sibling argue law bunker grain crucial measure october smart situate diary either";
+var mnemonic = "auto rough ride cook village onion useful jaguar apart chair van wrap";

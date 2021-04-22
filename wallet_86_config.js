@@ -1,1 +1,1 @@
-var mnemonic = "scan rookie twin hedgehog winter print bread hockey throw hedgehog dentist festival";
+var mnemonic = "caution wasp moral village mountain huge another hill sing snake early axis";

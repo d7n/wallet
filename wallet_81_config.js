@@ -1,1 +1,1 @@
-var mnemonic = "vital someone frost property floor leave tenant invite soul winter woman tissue";
+var mnemonic = "lounge forum essence ring mercy labor peace seminar stereo impose chalk sport";

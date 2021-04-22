@@ -1,1 +1,1 @@
-var mnemonic = "author fiber amateur glove again release suggest cushion cloth cabin shed thought";
+var mnemonic = "child spoil butter ranch drive wet police response hen settle vivid tonight";

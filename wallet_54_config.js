@@ -1,1 +1,1 @@
-var mnemonic = "cousin artefact dice nurse truly silent milk drum boost cloud away detail";
+var mnemonic = "wrestle stable prevent enroll pilot auto detail unknown original desert despair sauce";

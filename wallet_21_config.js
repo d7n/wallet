@@ -1,1 +1,1 @@
-var mnemonic = "hammer mansion capital atom away nurse stereo kiwi first snow hint include";
+var mnemonic = "clay cushion call often stool agree ship uncover royal stumble relief tomorrow";

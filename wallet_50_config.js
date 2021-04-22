@@ -1,1 +1,1 @@
-var mnemonic = "clown harvest keep hair shaft space result innocent elder romance debate avoid";
+var mnemonic = "industry faint ancient crime hidden lens file wolf vague hen autumn heavy";

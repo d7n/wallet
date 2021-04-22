@@ -1,1 +1,1 @@
-var mnemonic = "order crop abandon solar shop cause fiction match reunion art unit traffic";
+var mnemonic = "whisper title symptom captain double express place play street age future okay";

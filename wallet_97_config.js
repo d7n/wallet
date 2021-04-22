@@ -1,1 +1,1 @@
-var mnemonic = "select viable fragile pudding notice source rare surprise legal equal monkey shop";
+var mnemonic = "rude safe major flag bright solid invite chapter oven cushion noodle pave";

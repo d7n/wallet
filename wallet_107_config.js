@@ -1,1 +1,1 @@
-var mnemonic = "shrug casual area soda kite coast hero industry crucial camera route visual";
+var mnemonic = "dust sea mystery rural dilemma daughter rich raw horror brush exchange scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe three clip scan myself marriage virtual system copy recall sunny atom";
+var mnemonic = "pen flat goddess lawn blouse scrub siege polar cereal aware birth stereo";

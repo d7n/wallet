@@ -1,1 +1,1 @@
-var mnemonic = "impact bullet soap bachelor flush swamp owner bitter rival subject nest toe";
+var mnemonic = "fish area build alien thought voyage patrol since drive void vault whale";

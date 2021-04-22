@@ -1,1 +1,1 @@
-var mnemonic = "spirit cabin farm hold craft service fade device another caught panda ten";
+var mnemonic = "oxygen cabin tide guilt bird lecture veteran weapon fog discover behave common";

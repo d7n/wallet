@@ -1,1 +1,1 @@
-var mnemonic = "valley smart pride balance proud apology brave bind paper depend hobby beach";
+var mnemonic = "embody opinion fly alcohol kind pair advance town foam fitness replace army";

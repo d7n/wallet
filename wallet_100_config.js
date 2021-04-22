@@ -1,1 +1,1 @@
-var mnemonic = "desk expand ready boss tree skull surface ketchup dynamic coffee flavor toward";
+var mnemonic = "faculty plug situate brave sentence imitate decline six hen federal bulk memory";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon upper stumble expect crime spirit there useful width empty year kid";
+var mnemonic = "globe carbon about stumble clap infant goose hat liquid matter renew uphold";

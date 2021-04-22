@@ -1,1 +1,1 @@
-var mnemonic = "undo kit glance tiger ahead stay aunt erosion harbor music return vehicle";
+var mnemonic = "talent net impact fault egg host casino ordinary business nation panda base";

@@ -1,1 +1,1 @@
-var mnemonic = "now observe fossil endless sick title belt cabin light genius flat quality";
+var mnemonic = "timber love card drip hover minute foil one dream head audit husband";

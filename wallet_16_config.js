@@ -1,1 +1,1 @@
-var mnemonic = "change elbow peanut tornado original modify sister source play ribbon morning later";
+var mnemonic = "inner roast piano swim exact black clever cable shell angry purchase language";

@@ -1,1 +1,1 @@
-var mnemonic = "flat aunt frame shift wink float insect deer deposit shove gentle seat";
+var mnemonic = "scale little budget predict better seed amateur stomach orange boost leaf zoo";
