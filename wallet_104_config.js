@@ -1,1 +1,1 @@
-var mnemonic = "army side arch legend output surface consider such dilemma keen paper window";
+var mnemonic = "switch leaf image zoo insect cause border raise empower garden unable slab";

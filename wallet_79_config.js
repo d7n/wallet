@@ -1,1 +1,1 @@
-var mnemonic = "cloud space plunge panda liquid spot foster oxygen question twenty stereo click";
+var mnemonic = "finish enable wrap prefer only dress chronic math claim wife leisure north";

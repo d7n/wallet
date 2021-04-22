@@ -1,1 +1,1 @@
-var mnemonic = "shallow slender attend company cry grid museum siege marriage real grape hazard";
+var mnemonic = "laugh smile tilt modify tree bottom pledge same ivory feature gift tone";

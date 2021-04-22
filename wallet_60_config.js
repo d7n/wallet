@@ -1,1 +1,1 @@
-var mnemonic = "lecture spray judge flock shiver glove coast gravity thunder absurd trip truck";
+var mnemonic = "pulp allow mistake glow hero gym believe pulse ivory glimpse shock increase";

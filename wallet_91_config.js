@@ -1,1 +1,1 @@
-var mnemonic = "ship vote snow rose pencil wedding fork put bright smoke scheme liberty";
+var mnemonic = "together tongue write egg disagree receive body convince salon shield stove tag";

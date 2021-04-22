@@ -1,1 +1,1 @@
-var mnemonic = "party steak stand praise fault person flush foil quote drift sketch lake";
+var mnemonic = "craft horror match replace odor bicycle column segment sauce reason board cargo";

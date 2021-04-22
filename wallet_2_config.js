@@ -1,1 +1,1 @@
-var mnemonic = "hover lyrics two hunt pretty certain movie coil cart badge liar donkey";
+var mnemonic = "doll nation high trick person sketch increase then soda inmate process galaxy";

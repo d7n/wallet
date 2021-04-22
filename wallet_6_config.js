@@ -1,1 +1,1 @@
-var mnemonic = "forward wreck question illness announce example mixed trumpet sand joke budget betray";
+var mnemonic = "asthma congress element fancy pistol priority frame blind job burden unfold hazard";

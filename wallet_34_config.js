@@ -1,1 +1,1 @@
-var mnemonic = "legend amazing clock mechanic hospital assault ready rookie regular spray offer spirit";
+var mnemonic = "exercise junior session super key extend fan analyst away term romance project";

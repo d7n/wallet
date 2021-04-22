@@ -1,1 +1,1 @@
-var mnemonic = "bullet furnace sure syrup proof tree fashion hard you weekend margin elder";
+var mnemonic = "cinnamon cradle certain muscle vocal endless bar divert effort detect frozen resemble";

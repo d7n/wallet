@@ -1,1 +1,1 @@
-var mnemonic = "fabric unveil purchase clown frost upgrade combine keen remind convince verify initial";
+var mnemonic = "display pass unit impose cube scrap fatigue hurry good frozen custom such";

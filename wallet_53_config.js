@@ -1,1 +1,1 @@
-var mnemonic = "random drastic nature office erode auto isolate injury sweet amount tell color";
+var mnemonic = "pretty away opera sorry sight proud until abandon mean hire dove major";

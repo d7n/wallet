@@ -1,1 +1,1 @@
-var mnemonic = "blue quality hedgehog glide moment march provide clean life hint orchard denial";
+var mnemonic = "original truth stage diamond video prosper memory reform purchase weather dad crew";

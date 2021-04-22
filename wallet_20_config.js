@@ -1,1 +1,1 @@
-var mnemonic = "effort scatter only soda unhappy fatal endless marble text mule domain bunker";
+var mnemonic = "suggest media rail myself return fancy submit discover force reunion stairs angry";

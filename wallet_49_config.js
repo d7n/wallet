@@ -1,1 +1,1 @@
-var mnemonic = "science primary moon forward blame mad agree resist height strategy appear inner";
+var mnemonic = "afford museum among gorilla valley team practice squeeze opera weasel skill merit";

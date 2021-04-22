@@ -1,1 +1,1 @@
-var mnemonic = "clock assault uncle trim surround kid dress express reduce loyal crunch success";
+var mnemonic = "off pledge miracle easy wait exotic around boy feed like liberty sell";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors blanket boil tragic enable diary action sample satisfy prefer hen resource";
+var mnemonic = "topic tennis peasant image miss announce primary general alter mystery shield apart";

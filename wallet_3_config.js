@@ -1,1 +1,1 @@
-var mnemonic = "reward alpha grain dash sugar canvas force fee near famous educate scene";
+var mnemonic = "twin sauce excite gossip boss auto photo acoustic black join marine abuse";

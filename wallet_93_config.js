@@ -1,1 +1,1 @@
-var mnemonic = "produce lizard sibling faculty wheel salt head pill young ozone hobby van";
+var mnemonic = "bench clean decorate again round wave antique stadium dragon course clap lunch";

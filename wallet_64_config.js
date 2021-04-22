@@ -1,1 +1,1 @@
-var mnemonic = "unable stamp erosion frog rocket doll photo curtain sniff curtain toward sadness";
+var mnemonic = "degree anchor visual example beauty maid oppose abandon dove hour mixed whisper";

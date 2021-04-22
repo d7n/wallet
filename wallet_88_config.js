@@ -1,1 +1,1 @@
-var mnemonic = "tornado office glad become maid evoke provide uncover text unit genre intact";
+var mnemonic = "fancy bronze wash scorpion salad ordinary twice power thought kit curious cool";

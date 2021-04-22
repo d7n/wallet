@@ -1,1 +1,1 @@
-var mnemonic = "absorb chaos snack excuse common barely certain bulk stable away labor clip";
+var mnemonic = "diet fluid moment eagle museum neck syrup return cruise offer camp vault";

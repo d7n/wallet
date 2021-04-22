@@ -1,1 +1,1 @@
-var mnemonic = "allow baby alert bomb endless pilot bottom badge milk fiber open fog";
+var mnemonic = "twelve young gym soul depart note absurd own parent salmon seminar there";

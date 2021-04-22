@@ -1,1 +1,1 @@
-var mnemonic = "amount naive digital cement judge cave sell tent shine yellow print have";
+var mnemonic = "fade crunch mandate confirm impact fee quantum until lift despair potato since";

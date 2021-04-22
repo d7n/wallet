@@ -1,1 +1,1 @@
-var mnemonic = "depth organ target pretty walk lizard pole olympic floor sausage sting glory";
+var mnemonic = "cereal gate defense agent garbage never globe fault time harsh anger trash";

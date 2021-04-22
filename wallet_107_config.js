@@ -1,1 +1,1 @@
-var mnemonic = "eagle stone stove limit mutual badge hat thank toilet about cabbage box";
+var mnemonic = "library equip slow amateur best turtle defense practice unknown lonely express trade";

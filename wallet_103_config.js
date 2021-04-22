@@ -1,1 +1,1 @@
-var mnemonic = "matrix patient van venue young valve wink load endless walk parent sense";
+var mnemonic = "thrive opera legal evil toddler slab lemon sister circle luxury option sentence";

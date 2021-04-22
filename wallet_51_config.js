@@ -1,1 +1,1 @@
-var mnemonic = "logic field erase move fluid skin margin fury armed unveil comic flavor";
+var mnemonic = "picnic hold lesson payment distance number skull kitchen napkin property light long";

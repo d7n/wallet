@@ -1,1 +1,1 @@
-var mnemonic = "sell roast fever absurd foil mad today adjust audit empty exhaust fruit";
+var mnemonic = "impose surface crumble episode olympic gain riot mixed gasp nothing drip engage";

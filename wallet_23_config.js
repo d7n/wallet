@@ -1,1 +1,1 @@
-var mnemonic = "portion ecology share scrap middle wire piano mimic mother ten govern pistol";
+var mnemonic = "divide offer reveal empty toy paper pig someone shine violin lunch way";

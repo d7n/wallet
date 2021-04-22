@@ -1,1 +1,1 @@
-var mnemonic = "nature tomato copper wife shiver amazing forward day remind utility change crunch";
+var mnemonic = "seat weird tunnel whale eager illness cruise birth brand relief number route";

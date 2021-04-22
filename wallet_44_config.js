@@ -1,1 +1,1 @@
-var mnemonic = "route found write fit organ same rent also shadow lobster name day";
+var mnemonic = "relief pelican steel recipe heart labor crew icon very fresh rescue arrest";

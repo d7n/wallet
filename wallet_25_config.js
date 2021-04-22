@@ -1,1 +1,1 @@
-var mnemonic = "shove moon fantasy logic dust refuse carbon material twenty other alone evil";
+var mnemonic = "make quit bomb below leader service laugh convince shaft vibrant famous treat";

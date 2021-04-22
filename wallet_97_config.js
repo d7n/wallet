@@ -1,1 +1,1 @@
-var mnemonic = "rose margin excuse rent margin garbage resemble melt coral grief frog answer";
+var mnemonic = "short hole aerobic notable service royal engine dish butter fossil among human";

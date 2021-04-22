@@ -1,1 +1,1 @@
-var mnemonic = "burst plug state glimpse gossip acid express goose cart bamboo romance length";
+var mnemonic = "memory clap ritual age remain desk camp glare cover dress opera visit";

@@ -1,1 +1,1 @@
-var mnemonic = "blur nothing jar fabric wrong abstract tomato ugly apology ivory valve never";
+var mnemonic = "excuse dash cactus orphan remind super turn worth august vintage aerobic olive";

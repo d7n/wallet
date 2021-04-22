@@ -1,1 +1,1 @@
-var mnemonic = "mystery rookie bread item vibrant elder switch pelican urban fat glad universe";
+var mnemonic = "naive mixed excess mountain response local solution library have public stuff sausage";

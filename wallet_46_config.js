@@ -1,1 +1,1 @@
-var mnemonic = "return matter slogan opinion demand flock poem garment lyrics mimic same jewel";
+var mnemonic = "escape heavy just grocery another trigger neutral prize tackle build scrap trip";

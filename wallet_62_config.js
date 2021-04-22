@@ -1,1 +1,1 @@
-var mnemonic = "reunion ticket bus sting vintage source submit pulp feel potato vessel fatigue";
+var mnemonic = "pause age vanish wave this unveil amused tomorrow engine comfort usage tent";

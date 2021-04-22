@@ -1,1 +1,1 @@
-var mnemonic = "erupt glove movie picture assault matrix stereo volume change about ketchup hint";
+var mnemonic = "true stamp rice deny judge exhaust gorilla announce gift quality chuckle million";

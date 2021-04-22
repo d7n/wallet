@@ -1,1 +1,1 @@
-var mnemonic = "bacon ready old erupt material trim stand carpet chicken sleep kangaroo way";
+var mnemonic = "drama cargo ten core auto behind gap ribbon blossom cinnamon laundry holiday";

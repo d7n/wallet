@@ -1,1 +1,1 @@
-var mnemonic = "stool brief mass chimney method mixture obey file twin depart paper win";
+var mnemonic = "credit will inform crew catch dignity observe silly skin net lend shield";

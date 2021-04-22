@@ -1,1 +1,1 @@
-var mnemonic = "document outside upset engine exile grunt soon group track front industry swing";
+var mnemonic = "mushroom endless differ wrestle example year sick clock whip able purpose addict";

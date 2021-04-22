@@ -1,1 +1,1 @@
-var mnemonic = "tone kiwi ten scrub melt aware street effort twist legal know moon";
+var mnemonic = "theme amazing panther garbage group pen pig release mercy change quote boring";

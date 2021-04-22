@@ -1,1 +1,1 @@
-var mnemonic = "tool subject figure carpet cart struggle auction because champion snow maze stumble";
+var mnemonic = "valve slight surge liquid rotate hidden select search table feature tissue demand";

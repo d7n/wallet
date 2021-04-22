@@ -1,1 +1,1 @@
-var mnemonic = "napkin eye shop want lucky orient much ensure pattern honey taste window";
+var mnemonic = "couple damp direct local rule february bachelor neglect coast when they bone";

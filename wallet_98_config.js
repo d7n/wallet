@@ -1,1 +1,1 @@
-var mnemonic = "brush airport twenty elephant jealous goat snack minute utility cargo local gate";
+var mnemonic = "east meat tank rice real call limit sunny envelope judge mushroom pupil";

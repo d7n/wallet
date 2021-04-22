@@ -1,1 +1,1 @@
-var mnemonic = "will soul start onion virus prefer sibling dash forum ready rural scan";
+var mnemonic = "pepper december social taste pulp rescue pair crater abandon tennis zoo raccoon";

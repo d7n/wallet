@@ -1,1 +1,1 @@
-var mnemonic = "vast fragile buzz secret remove fence visual custom meadow cargo scene quit";
+var mnemonic = "ethics mom magic memory hazard alone test marble daring scene smart always";

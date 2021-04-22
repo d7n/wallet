@@ -1,1 +1,1 @@
-var mnemonic = "second step rebel husband nation hello left joy glide pass uncover lawn";
+var mnemonic = "couple innocent this volcano grass cheese mad purity race explain vessel safe";

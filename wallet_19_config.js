@@ -1,1 +1,1 @@
-var mnemonic = "tilt glory argue staff easily sock drill carpet open fruit chicken raccoon";
+var mnemonic = "same rocket morning dress life relief dust result vintage dry sustain borrow";

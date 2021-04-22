@@ -1,1 +1,1 @@
-var mnemonic = "train gaze fog neutral year tail audit simple jaguar harbor demise middle";
+var mnemonic = "wool retire clinic unknown certain math side usage become section embark danger";

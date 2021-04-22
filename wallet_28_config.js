@@ -1,1 +1,1 @@
-var mnemonic = "tilt surge visual garage keep blue length unfold spend deputy appear rhythm";
+var mnemonic = "usage ring between lounge horse draw jelly rate capable mean reduce ugly";

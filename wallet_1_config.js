@@ -1,1 +1,1 @@
-var mnemonic = "layer birth tent into accident journey chapter charge riot federal gossip miracle";
+var mnemonic = "frost crush milk joke section exclude naive artefact much chronic ozone annual";

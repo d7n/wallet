@@ -1,1 +1,1 @@
-var mnemonic = "vacuum tunnel noodle into into street twin wash broccoli tourist sniff device";
+var mnemonic = "pottery ridge metal gate marine enroll use build vault slam blue angle";

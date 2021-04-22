@@ -1,1 +1,1 @@
-var mnemonic = "alert picture boss chalk couch injury ensure reveal lawsuit virtual figure wing";
+var mnemonic = "mandate tongue grocery describe parrot depth tomorrow arch toilet kit slim stand";

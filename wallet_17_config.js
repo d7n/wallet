@@ -1,1 +1,1 @@
-var mnemonic = "vacuum economy doll wasp demise access survey thrive afford seminar above mail";
+var mnemonic = "sight electric shield ticket feed next novel media abuse witness easy correct";

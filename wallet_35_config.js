@@ -1,1 +1,1 @@
-var mnemonic = "order beyond flee reward page keep empower upon mom yellow lunar network";
+var mnemonic = "method unfold voyage diet album spike uncover tuition employ river toss odor";

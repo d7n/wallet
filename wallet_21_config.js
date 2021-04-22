@@ -1,1 +1,1 @@
-var mnemonic = "desk cage machine crazy patch camp virus course collect peanut scorpion unhappy";
+var mnemonic = "practice amount drink romance live must solid potato hockey ahead hurdle swim";

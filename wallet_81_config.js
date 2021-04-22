@@ -1,1 +1,1 @@
-var mnemonic = "return kiwi dinosaur color tell hill age oblige manual pig spin tribe";
+var mnemonic = "ability material thrive scissors term cancel dolphin ramp valve raccoon history fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "mango second unaware grunt join parrot stairs ramp regular rely peanut festival";
+var mnemonic = "salute park cash chase cube stay toilet hobby split plastic unaware that";

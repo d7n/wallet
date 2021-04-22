@@ -1,1 +1,1 @@
-var mnemonic = "walnut copper hungry shy female conduct civil eager puppy seek fade barely";
+var mnemonic = "pass divide relief page mesh jealous drink glide like denial scout nuclear";

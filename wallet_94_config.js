@@ -1,1 +1,1 @@
-var mnemonic = "meat multiply vicious diary exhibit unfold lemon wild fetch nephew strike abstract";
+var mnemonic = "worth captain convince toilet box escape print clutch priority silk good eyebrow";

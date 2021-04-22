@@ -1,1 +1,1 @@
-var mnemonic = "few ship explain mistake subway become upon bar tool state piece design";
+var mnemonic = "afraid diet illness section athlete dream globe across sun infant rug short";

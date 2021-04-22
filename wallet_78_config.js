@@ -1,1 +1,1 @@
-var mnemonic = "enough focus cabin math much owner patch cherry dizzy brave goddess trumpet";
+var mnemonic = "want humor next dynamic skill mammal solution gossip lobster save retreat image";

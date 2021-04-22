@@ -1,1 +1,1 @@
-var mnemonic = "valid twist worth identify laundry office drift coyote focus essence credit immune";
+var mnemonic = "before spice lock ask lecture cat endless asthma reveal top any hover";

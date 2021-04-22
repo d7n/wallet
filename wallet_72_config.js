@@ -1,1 +1,1 @@
-var mnemonic = "clump discover number flush deposit adapt coyote virtual naive raven clarify govern";
+var mnemonic = "lounge response exercise remind truth curve farm emotion shop record announce game";

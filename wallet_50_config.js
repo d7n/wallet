@@ -1,1 +1,1 @@
-var mnemonic = "now sound blade category stable calm lecture melody crazy vote mixture close";
+var mnemonic = "bacon rich boil fuel start dove bicycle sick day denial maple manage";

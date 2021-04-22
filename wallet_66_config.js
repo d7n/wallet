@@ -1,1 +1,1 @@
-var mnemonic = "review employ raccoon rural claim prefer choice myself include era diet into";
+var mnemonic = "render dress owner enough dream bus inform syrup donate believe session hip";

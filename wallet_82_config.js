@@ -1,1 +1,1 @@
-var mnemonic = "symbol actress suffer level wisdom treat order run wing green warm birth";
+var mnemonic = "rude essence plunge beef outdoor squeeze session thumb pilot shed over present";

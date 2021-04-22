@@ -1,1 +1,1 @@
-var mnemonic = "crisp angry fault arrow erosion exit shoe spy lava dentist pigeon clip";
+var mnemonic = "cereal ostrich pact chimney write ability estate spoon twist budget side noise";

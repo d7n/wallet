@@ -1,1 +1,1 @@
-var mnemonic = "clump giant script ostrich slow script swap report april craft notice dignity";
+var mnemonic = "name talk mechanic aerobic clown double inflict tennis glance lesson galaxy nephew";

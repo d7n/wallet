@@ -1,1 +1,1 @@
-var mnemonic = "chicken attract behave appear panda flee ivory enroll art anchor desert frequent";
+var mnemonic = "across round leader south miss possible pond brown tube weird until safe";

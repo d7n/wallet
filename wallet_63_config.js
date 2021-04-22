@@ -1,1 +1,1 @@
-var mnemonic = "wedding phone join plastic spirit cliff dog please enroll tone sketch salon";
+var mnemonic = "beyond shaft lottery safe talk early turn tattoo annual engine pottery alcohol";

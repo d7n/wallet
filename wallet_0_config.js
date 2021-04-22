@@ -1,1 +1,1 @@
-var mnemonic = "occur jacket before few husband dad twin trap state response spike fabric";
+var mnemonic = "bicycle leaf divert enable machine bonus carbon enhance dwarf limb quarter bomb";

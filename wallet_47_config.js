@@ -1,1 +1,1 @@
-var mnemonic = "horror feature search silver silver wash among wish treat satoshi jacket slam";
+var mnemonic = "stand ball frost hawk assume candy sample gap asset poverty need put";

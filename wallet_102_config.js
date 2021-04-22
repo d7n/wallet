@@ -1,1 +1,1 @@
-var mnemonic = "jungle meadow guard ethics grace olive volcano police fabric able economy genre";
+var mnemonic = "bounce off rally cushion pact fringe bicycle imitate boil client emerge sugar";

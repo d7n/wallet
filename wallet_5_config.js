@@ -1,1 +1,1 @@
-var mnemonic = "farm snake move wild smoke birth such nothing slender tide blood father";
+var mnemonic = "clerk start cave world total broom loyal parent degree steel diamond fiction";

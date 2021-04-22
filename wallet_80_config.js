@@ -1,1 +1,1 @@
-var mnemonic = "panic clown country that thought can use dog alter climb goat spin";
+var mnemonic = "slam odor wasp result brisk swear coyote lyrics chimney element certain mom";

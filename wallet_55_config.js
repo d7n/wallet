@@ -1,1 +1,1 @@
-var mnemonic = "rude fox flash maximum arrow effort purchase paddle truly hawk wife grocery";
+var mnemonic = "news rubber inquiry maid angle budget law primary birth surround promote mail";

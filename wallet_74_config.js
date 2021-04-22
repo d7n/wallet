@@ -1,1 +1,1 @@
-var mnemonic = "sick spike media extend flip slide fatigue garden dish spatial surprise tonight";
+var mnemonic = "shallow unhappy coffee poet orient actor lemon tray noble gossip list pattern";

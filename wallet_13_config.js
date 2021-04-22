@@ -1,1 +1,1 @@
-var mnemonic = "camp avoid ill possible army force immense sadness educate eyebrow clown flush";
+var mnemonic = "brother sick police drip deposit warrior mango stamp access salmon pepper cliff";

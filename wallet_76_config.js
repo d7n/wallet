@@ -1,1 +1,1 @@
-var mnemonic = "invest reduce knife sea vendor fence monkey kid eagle open dose day";
+var mnemonic = "mule custom pass bone verb common before orange island time cactus short";

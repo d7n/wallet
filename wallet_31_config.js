@@ -1,1 +1,1 @@
-var mnemonic = "state fantasy provide engine seed grass purchase job loan response ugly bag";
+var mnemonic = "episode cake core ecology sleep clip arm ecology sweet weasel sound much";

@@ -1,1 +1,1 @@
-var mnemonic = "feel suspect cotton evil mammal moral negative palm actual seven lyrics jewel";
+var mnemonic = "clap sing fatal tuna review surge doll yellow afraid elevator assault run";

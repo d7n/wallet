@@ -1,1 +1,1 @@
-var mnemonic = "balcony nation resemble dress cereal novel slam cream kick adapt crop kidney";
+var mnemonic = "mandate dog ball usual critic search engage grief typical mouse various eagle";

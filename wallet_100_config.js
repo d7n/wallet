@@ -1,1 +1,1 @@
-var mnemonic = "gather toast love ride army must blanket earth first tuition better ship";
+var mnemonic = "spend receive forest outer okay palm assault online school tell inmate bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce swarm wrap snake ridge memory embody payment stamp bone duty novel";
+var mnemonic = "water inner portion hunt april room galaxy embody swallow ill zebra client";
