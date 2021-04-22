@@ -1,1 +1,1 @@
-var mnemonic = "total athlete thing orange already famous conduct physical charge toss filter damp";
+var mnemonic = "conduct dress burger fortune hurry run funny abandon today farm vault bullet";

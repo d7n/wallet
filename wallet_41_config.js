@@ -1,1 +1,1 @@
-var mnemonic = "demise equal burger duty illness panda alarm food hotel sheriff item joke";
+var mnemonic = "vivid space build spatial brand scrap debris tooth wild ridge fresh absorb";

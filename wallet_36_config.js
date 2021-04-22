@@ -1,1 +1,1 @@
-var mnemonic = "stairs vicious seat twenty thank soon indoor cabin flavor soft brave audit";
+var mnemonic = "stuff employ hard settle erosion boost impact month enrich empty cave question";

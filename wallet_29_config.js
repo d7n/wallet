@@ -1,1 +1,1 @@
-var mnemonic = "shield trial oven rough you mobile word crawl diamond cabin simple panda";
+var mnemonic = "seek wagon tragic balcony stomach peace artist kiwi rival digital unit holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch tree light inmate festival found prison search jump trouble people bitter";
+var mnemonic = "beauty belt ill negative mirror crack insane vapor ribbon evil derive equal";

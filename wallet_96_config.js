@@ -1,1 +1,1 @@
-var mnemonic = "build crime depend ability flower lumber rescue catch upset kitten senior spike";
+var mnemonic = "fiction zone fury raccoon lend borrow champion captain escape purity fall flight";

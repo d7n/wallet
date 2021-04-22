@@ -1,1 +1,1 @@
-var mnemonic = "talk recall element issue mammal panther million memory popular enrich poet cross";
+var mnemonic = "stumble sport phone nut guess response sight guilt flip moment merit hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "slender rival dinosaur daring core enroll soul never mesh scan execute such";
+var mnemonic = "hill lucky increase vessel invite impact margin already shoe shock ankle napkin";

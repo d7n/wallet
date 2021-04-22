@@ -1,1 +1,1 @@
-var mnemonic = "drift unique help boring elite ski faith apart cage melody crater pen";
+var mnemonic = "crumble era over unable creek resist maximum artist then behave else dutch";

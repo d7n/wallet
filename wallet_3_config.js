@@ -1,1 +1,1 @@
-var mnemonic = "ask kidney glory motion spy orchard order parade typical fall coach burger";
+var mnemonic = "gossip will disagree kitchen mom carbon stamp behind collect cycle judge adjust";

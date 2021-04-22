@@ -1,1 +1,1 @@
-var mnemonic = "ticket mind athlete enemy smile ritual young vapor miss cloth knee they";
+var mnemonic = "employ old wine manual announce age royal lunar remember please practice nose";

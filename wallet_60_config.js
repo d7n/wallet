@@ -1,1 +1,1 @@
-var mnemonic = "artist wild test page music violin hand biology advice phrase leave flat";
+var mnemonic = "cause cinnamon unique clip blush scheme hunt attract mail cabin camp resemble";

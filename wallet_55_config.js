@@ -1,1 +1,1 @@
-var mnemonic = "sea video forest access team diamond evil crater shed material pottery frame";
+var mnemonic = "weird top then adjust mandate oppose reduce able book place beauty equal";

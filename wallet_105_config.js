@@ -1,1 +1,1 @@
-var mnemonic = "reunion mind derive woman honey ignore mixture omit earn leaf wild deliver";
+var mnemonic = "bargain festival lawn omit priority vocal violin hen photo snake shock lottery";

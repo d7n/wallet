@@ -1,1 +1,1 @@
-var mnemonic = "assault seed cherry reopen animal ability fame floor donate candy capable deny";
+var mnemonic = "program hockey sad theme switch letter man picture napkin river token wise";

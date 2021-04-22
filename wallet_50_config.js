@@ -1,1 +1,1 @@
-var mnemonic = "rescue fatal tower derive december argue stage lemon magnet round boss size";
+var mnemonic = "echo festival margin trophy hair other sign bag risk gasp toilet sugar";

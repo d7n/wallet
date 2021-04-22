@@ -1,1 +1,1 @@
-var mnemonic = "talent digital flame permit parade like weird noodle sun universe where voice";
+var mnemonic = "gaze bind east express tooth horse dress wide urban brother diary avoid";

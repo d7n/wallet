@@ -1,1 +1,1 @@
-var mnemonic = "calm sunset daughter security wash sunset capable winner swear hard together damage";
+var mnemonic = "voice clay coach build cabbage tired debris donate expose cement idle taste";

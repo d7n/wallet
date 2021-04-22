@@ -1,1 +1,1 @@
-var mnemonic = "cube accident fringe model melody fat grace frequent document hidden pill melt";
+var mnemonic = "tail sight same ripple demise mom timber nose grow marriage core stamp";

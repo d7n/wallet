@@ -1,1 +1,1 @@
-var mnemonic = "until laptop drift aerobic gesture design catalog spatial loop awful output bar";
+var mnemonic = "frozen heart have half endless mad onion museum glad island flag black";

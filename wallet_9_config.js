@@ -1,1 +1,1 @@
-var mnemonic = "average help nest cool earth vault cattle exclude jacket decorate coral arrange";
+var mnemonic = "auto blouse zebra color learn head knife opinion surge swamp behave camp";

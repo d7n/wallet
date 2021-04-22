@@ -1,1 +1,1 @@
-var mnemonic = "pulse hunt scrap hip timber vessel angry select hybrid rebel depart shop";
+var mnemonic = "sugar clutch question sponsor census dinner crop job bullet bleak tumble victory";

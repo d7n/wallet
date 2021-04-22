@@ -1,1 +1,1 @@
-var mnemonic = "view fence chronic time evolve away laptop moon wrestle ill reveal below";
+var mnemonic = "vague certain liberty shiver biology aspect way vacuum logic gun wagon either";

@@ -1,1 +1,1 @@
-var mnemonic = "music wire emotion mad fossil best face exotic witness interest genius bird";
+var mnemonic = "fever festival luggage detect donate frame subject puzzle salon barely range sphere";

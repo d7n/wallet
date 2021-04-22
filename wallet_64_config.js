@@ -1,1 +1,1 @@
-var mnemonic = "track art ugly woman carpet moment penalty give lawn explain wool owner";
+var mnemonic = "ride tray drink myself dawn hedgehog warfare elder civil empty dice obtain";

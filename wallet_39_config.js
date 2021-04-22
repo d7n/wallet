@@ -1,1 +1,1 @@
-var mnemonic = "argue atom consider action increase teach diagram belt night fan unveil father";
+var mnemonic = "problem april grant swap pink awesome region alter three jaguar february bird";

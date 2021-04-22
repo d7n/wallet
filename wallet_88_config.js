@@ -1,1 +1,1 @@
-var mnemonic = "usual random exist tourist aim garden also gap elder monkey grit service";
+var mnemonic = "speak maple cave woman exhibit theme script citizen hero mesh sudden beyond";

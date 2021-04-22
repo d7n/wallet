@@ -1,1 +1,1 @@
-var mnemonic = "start raw wage palace enjoy rent layer decide battle awesome polar claw";
+var mnemonic = "fame stomach total game suspect rhythm ritual feel have grass online stumble";

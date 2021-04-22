@@ -1,1 +1,1 @@
-var mnemonic = "bullet diesel emerge tobacco scare become music surface little few body wire";
+var mnemonic = "coast bleak salt supreme good auction fever sleep maze drop afraid address";

@@ -1,1 +1,1 @@
-var mnemonic = "recall father phone seminar lobster seven critic outdoor village surge athlete adjust";
+var mnemonic = "someone teach disease barrel funny mouse sand undo mechanic dwarf drum nuclear";

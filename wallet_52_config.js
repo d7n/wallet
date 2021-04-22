@@ -1,1 +1,1 @@
-var mnemonic = "feature case second receive coil lawsuit kitten nephew pull exit ball fix";
+var mnemonic = "adapt mean arrow gaze busy welcome enjoy reflect onion wink ankle assault";

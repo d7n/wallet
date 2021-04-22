@@ -1,1 +1,1 @@
-var mnemonic = "domain tragic cliff autumn draft load apology enable luxury cigar elite minimum";
+var mnemonic = "elbow silk oval cover shift velvet fade rally slim moon you short";

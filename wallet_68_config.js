@@ -1,1 +1,1 @@
-var mnemonic = "super unable shed vacant cattle squirrel return clown scan home hint spice";
+var mnemonic = "plug dentist absorb wagon stomach illness settle knee empty measure rescue general";

@@ -1,1 +1,1 @@
-var mnemonic = "risk early voice juice economy treat boost wreck trend copy document tortoise";
+var mnemonic = "attract spider deliver easy close render gentle abandon october scare alcohol vote";

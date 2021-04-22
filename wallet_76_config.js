@@ -1,1 +1,1 @@
-var mnemonic = "come steel train soldier craft vague arrange endless faith canoe fun lyrics";
+var mnemonic = "gospel sleep lake just habit over inherit since illness rule kind upper";

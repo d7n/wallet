@@ -1,1 +1,1 @@
-var mnemonic = "convince promote sea profit spoon fragile bus episode rent discover surface strike";
+var mnemonic = "trumpet initial cattle zero shaft rent high degree winner chunk anger response";

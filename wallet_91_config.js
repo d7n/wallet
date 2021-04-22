@@ -1,1 +1,1 @@
-var mnemonic = "scale guard yard elite blur more please auction drive game bundle glory";
+var mnemonic = "you suffer fade cherry grit shock equal spell oppose burden cheese output";

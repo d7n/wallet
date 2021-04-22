@@ -1,1 +1,1 @@
-var mnemonic = "peanut buffalo space enrich oblige tell trim setup vibrant bamboo panther glass";
+var mnemonic = "word siege zero firm edit neutral truth wet rhythm joke almost junior";

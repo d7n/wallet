@@ -1,1 +1,1 @@
-var mnemonic = "attract giggle beach mystery collect detail grid art enforce account guess choose";
+var mnemonic = "thing olympic vault gossip easy exhibit chase torch unusual candy drift notable";

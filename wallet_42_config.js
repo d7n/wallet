@@ -1,1 +1,1 @@
-var mnemonic = "accident valid awake motor title peace stock seat private vanish base panel";
+var mnemonic = "beach daughter rookie quick champion awake envelope cricket ritual sun clutch letter";

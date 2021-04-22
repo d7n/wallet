@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur surface fat parrot meat patch patch advice spread ice echo salad";
+var mnemonic = "mix square tiny nation federal favorite desert bright excess render main fury";

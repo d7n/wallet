@@ -1,1 +1,1 @@
-var mnemonic = "thunder offer pear garage mother diet engine upper city surprise fancy scatter";
+var mnemonic = "liberty hundred demand popular tissue glory iron exchange coral autumn skirt scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "video people tenant famous play job skin traffic ticket improve live ship";
+var mnemonic = "average aisle slogan live tennis success purchase result quality legend moon find";

@@ -1,1 +1,1 @@
-var mnemonic = "fine produce kiss anchor cube timber fruit split fortune action false idea";
+var mnemonic = "scene marble glad peanut draft sense spider kidney quote eagle write noble";

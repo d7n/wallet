@@ -1,1 +1,1 @@
-var mnemonic = "cart adapt flame hill enjoy erase table throw wrong foot oak own";
+var mnemonic = "elder benefit barely allow dance front protect web domain music alley plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest garlic section spoil blur boil pretty green finish lucky pretty gate";
+var mnemonic = "wood cry lazy cement favorite usual any cattle melt farm chef giraffe";

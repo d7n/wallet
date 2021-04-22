@@ -1,1 +1,1 @@
-var mnemonic = "guilt enrich address nut actual measure cabin dress two undo piece wreck";
+var mnemonic = "output return organ sing text vessel kiss stamp together soda height organ";

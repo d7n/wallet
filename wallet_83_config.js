@@ -1,1 +1,1 @@
-var mnemonic = "bind tuna open lizard coconut badge foil cycle roast music surge bamboo";
+var mnemonic = "subject install movie cloud together reflect imitate caught giant olympic fury era";

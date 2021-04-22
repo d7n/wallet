@@ -1,1 +1,1 @@
-var mnemonic = "mail task april brief season swear measure bag option insane capable sing";
+var mnemonic = "clean infant guess border width combine kidney toss local common stomach present";

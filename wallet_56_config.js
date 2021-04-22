@@ -1,1 +1,1 @@
-var mnemonic = "surface unlock swear feel divert will amused grocery aspect tissue torch lunch";
+var mnemonic = "impose record eternal ripple fork task hire derive clap inside require mechanic";

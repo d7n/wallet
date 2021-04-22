@@ -1,1 +1,1 @@
-var mnemonic = "protect quiz behave afraid inspire bid rhythm coach celery rocket infant when";
+var mnemonic = "chase win shell horn day kitchen price screen occur ball head build";

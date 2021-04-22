@@ -1,1 +1,1 @@
-var mnemonic = "swamp unlock surround curve spot hungry smart sort wink crowd lesson neither";
+var mnemonic = "repeat garbage index divide degree whisper mind hub romance leaf decorate rich";

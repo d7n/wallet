@@ -1,1 +1,1 @@
-var mnemonic = "dinner noodle venue assist chest raise review cream heart call pulse estate";
+var mnemonic = "family pepper limit food minor upgrade donkey glory lift screen hockey ride";

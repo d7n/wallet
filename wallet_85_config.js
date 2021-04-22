@@ -1,1 +1,1 @@
-var mnemonic = "clap donate smooth buyer grid figure congress panda vendor armed lunch again";
+var mnemonic = "saddle sea swing language annual insane dust egg whip cloth empower balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect pool dad budget thunder keen seek menu senior picnic future six";
+var mnemonic = "aisle nose defy sheriff october jewel saddle split glass glory order inner";

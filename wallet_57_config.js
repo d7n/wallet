@@ -1,1 +1,1 @@
-var mnemonic = "stick method jacket thunder polar useful advance skill east emotion bright peasant";
+var mnemonic = "alert fee cook strategy tattoo typical canal flavor comfort culture pony meadow";

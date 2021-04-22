@@ -1,1 +1,1 @@
-var mnemonic = "enroll appear fitness point coil type depth feature erode patrol exit dry";
+var mnemonic = "valid bone come rival beef try spray diamond transfer pledge adapt bread";

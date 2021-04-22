@@ -1,1 +1,1 @@
-var mnemonic = "bracket trap mutual youth old twin swear weasel pudding satoshi kingdom endless";
+var mnemonic = "claw option rural empty giggle bamboo near lunch silent middle club more";

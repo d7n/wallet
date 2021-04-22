@@ -1,1 +1,1 @@
-var mnemonic = "cricket fury original ostrich leader verify glimpse vital struggle cargo talent able";
+var mnemonic = "dish ostrich badge library snake alien humble wool engine chalk wrap sister";

@@ -1,1 +1,1 @@
-var mnemonic = "scare service dignity square hill squeeze gaze twice assault noise purse brush";
+var mnemonic = "era remain photo joke live extend armor season bike word expose knife";

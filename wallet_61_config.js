@@ -1,1 +1,1 @@
-var mnemonic = "insane unknown illness price taste soon tragic tape stumble narrow left never";
+var mnemonic = "derive stereo brother tower expand eight crawl ribbon diesel sign mango chase";

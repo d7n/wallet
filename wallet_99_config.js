@@ -1,1 +1,1 @@
-var mnemonic = "army guilt ocean nothing office sphere guitar orbit puzzle wage girl soul";
+var mnemonic = "path scene artist exile person unfair admit remind sentence suit shrug tomorrow";

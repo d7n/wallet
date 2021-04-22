@@ -1,1 +1,1 @@
-var mnemonic = "devote tilt chat smile coil room rotate torch border swallow differ embody";
+var mnemonic = "lottery patrol solution bicycle sight rookie bulk brave matter gallery shaft mistake";

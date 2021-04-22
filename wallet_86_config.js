@@ -1,1 +1,1 @@
-var mnemonic = "empower lesson phone submit axis auto fog future obey beyond lunar quality";
+var mnemonic = "sketch push next matrix order asthma blouse sugar identify inhale level false";

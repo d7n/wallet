@@ -1,1 +1,1 @@
-var mnemonic = "okay avocado correct champion need coyote source link comic just virus nothing";
+var mnemonic = "grit crazy swarm clinic risk antenna law entire action firm glare pole";

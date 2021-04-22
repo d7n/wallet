@@ -1,1 +1,1 @@
-var mnemonic = "appear excite grass strong behave wagon march foil bicycle prison friend indicate";
+var mnemonic = "boost risk kit movie laundry exact present bullet spoil fashion library uphold";

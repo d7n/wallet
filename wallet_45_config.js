@@ -1,1 +1,1 @@
-var mnemonic = "dynamic person expose depart ripple ozone boring another juice elite tooth little";
+var mnemonic = "useful history diamond another piece great concert solid profit donor pill tobacco";

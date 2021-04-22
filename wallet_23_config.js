@@ -1,1 +1,1 @@
-var mnemonic = "crater kingdom satoshi small rose pledge noodle senior online couch poem sauce";
+var mnemonic = "candy pulp random stick promote wealth derive juice valley win embody matrix";

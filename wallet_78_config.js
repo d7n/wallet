@@ -1,1 +1,1 @@
-var mnemonic = "decide actress kick eagle lottery guess ahead easy magic rural valley blanket";
+var mnemonic = "jungle possible still agent defense memory advice awkward palace hover frame nature";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog increase nose gasp sound giraffe fetch portion erode average industry pink";
+var mnemonic = "stool grass beef hotel since path soda model smart start pizza twice";

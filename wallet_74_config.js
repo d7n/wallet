@@ -1,1 +1,1 @@
-var mnemonic = "cattle glare polar fury speak own elder quit key canvas control page";
+var mnemonic = "uniform ill rally best spice crop unveil soda coffee sun tiny evil";

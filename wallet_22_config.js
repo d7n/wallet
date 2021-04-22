@@ -1,1 +1,1 @@
-var mnemonic = "magic wash bunker fence once rifle talent tragic worry chat type pride";
+var mnemonic = "clip lottery aerobic scheme depth adjust cool rescue panel total high favorite";

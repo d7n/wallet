@@ -1,1 +1,1 @@
-var mnemonic = "diesel witness churn glass power bomb agree shallow door program bulb evil";
+var mnemonic = "multiply woman strategy giggle chase island put high soup core glance album";

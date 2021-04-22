@@ -1,1 +1,1 @@
-var mnemonic = "catch century property occur steel skate eyebrow tank theme wine reform bicycle";
+var mnemonic = "label canal mean document purse duty tenant equal chat brown cliff journey";

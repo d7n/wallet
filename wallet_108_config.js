@@ -1,1 +1,1 @@
-var mnemonic = "verb slice lock train enter guard uncle certain athlete dance flight car";
+var mnemonic = "merry unique perfect again fix enemy fatal heart scare anchor endless cable";

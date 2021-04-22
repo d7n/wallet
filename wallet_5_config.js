@@ -1,1 +1,1 @@
-var mnemonic = "horse art shaft mass foster together day load false rain crawl calm";
+var mnemonic = "payment abstract hole whip right verb around stadium abstract phrase reopen loud";

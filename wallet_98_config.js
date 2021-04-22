@@ -1,1 +1,1 @@
-var mnemonic = "enjoy coconut faculty liberty draft bless cross exercise abstract fit clap woman";
+var mnemonic = "segment group opera resemble tuna advance aware uphold sauce salmon economy add";

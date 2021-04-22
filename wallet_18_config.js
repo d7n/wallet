@@ -1,1 +1,1 @@
-var mnemonic = "copper luxury cook torch asset bid entry siege refuse rally disagree south";
+var mnemonic = "audit property stereo paddle diet version arrow super juice know differ people";

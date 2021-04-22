@@ -1,1 +1,1 @@
-var mnemonic = "special mouse topic indicate kick excuse human gather mansion museum loyal attack";
+var mnemonic = "biology hospital submit stadium hurry sustain only hollow swap toe bless sick";

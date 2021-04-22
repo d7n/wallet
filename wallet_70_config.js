@@ -1,1 +1,1 @@
-var mnemonic = "basic outer right nasty arrive vicious air uncle muffin rigid good shrug";
+var mnemonic = "front donkey dad lava ship giggle alert school that rebel degree require";

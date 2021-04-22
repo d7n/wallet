@@ -1,1 +1,1 @@
-var mnemonic = "salmon man pioneer under crane apology spring bike boss alpha border swing";
+var mnemonic = "city miracle service bounce speed purity leaf pretty flip pigeon screen select";

@@ -1,1 +1,1 @@
-var mnemonic = "early morning own page deputy fatal honey cover seminar mercy image raccoon";
+var mnemonic = "abandon heart reward armed cement hockey apology trip person left lake fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "river cliff aunt wall feel draw blind parent nut anger welcome pitch";
+var mnemonic = "neutral glance solar water hen wife similar dance arctic thrive penalty doll";

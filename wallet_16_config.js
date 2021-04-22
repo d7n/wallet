@@ -1,1 +1,1 @@
-var mnemonic = "ridge inner genuine around spring spoil fiction bullet wasp mango suspect blind";
+var mnemonic = "blast cotton wreck shell hospital satisfy text mix orange comfort great invite";

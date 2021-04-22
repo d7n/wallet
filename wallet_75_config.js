@@ -1,1 +1,1 @@
-var mnemonic = "treat coast all erosion genre hour left gravity mandate notable engage brass";
+var mnemonic = "kiwi acquire normal assume aware since slam awake chaos kiss any nephew";

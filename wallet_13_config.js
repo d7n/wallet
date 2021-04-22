@@ -1,1 +1,1 @@
-var mnemonic = "blouse recipe where prepare hair program affair dog census antenna argue ladder";
+var mnemonic = "patrol dove canyon fat edit coyote law eager hotel popular net assault";

@@ -1,1 +1,1 @@
-var mnemonic = "clump arm craft rail antenna rule stone black law stadium dose public";
+var mnemonic = "poem aspect tragic champion digital search matrix problem often album silver double";

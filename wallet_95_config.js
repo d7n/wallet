@@ -1,1 +1,1 @@
-var mnemonic = "skin fly butter ordinary waste hard bind blast say ignore orphan lazy";
+var mnemonic = "enter vocal sunny shoulder betray earth admit race august oblige index deer";

@@ -1,1 +1,1 @@
-var mnemonic = "park remain apology snack steak daring disagree spoil tuition gas ramp emerge";
+var mnemonic = "glare bicycle excite walk sniff useless hurry miss cinnamon side crater isolate";

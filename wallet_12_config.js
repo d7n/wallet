@@ -1,1 +1,1 @@
-var mnemonic = "chaos plastic blur knife toilet marriage budget face area soon glad monkey";
+var mnemonic = "mask enrich giggle drill desert coil purchase radar they laptop inner theory";
