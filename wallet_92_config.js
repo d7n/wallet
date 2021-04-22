@@ -1,1 +1,1 @@
-var mnemonic = "silly clip ladder bean north elegant silk expire animal normal push aerobic";
+var mnemonic = "song airport leg pet alcohol girl know emotion advance unable spawn slot";

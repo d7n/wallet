@@ -1,1 +1,1 @@
-var mnemonic = "okay better grid mutual tribe exhaust inject cute dune pave logic aerobic";
+var mnemonic = "cook supply brother unusual mountain powder second uncover tell beauty place oxygen";

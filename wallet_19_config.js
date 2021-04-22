@@ -1,1 +1,1 @@
-var mnemonic = "consider box derive valid source label portion imitate artefact sibling hope diamond";
+var mnemonic = "divert gloom balcony tortoise depart secret home own action key blouse abuse";

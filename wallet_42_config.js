@@ -1,1 +1,1 @@
-var mnemonic = "depart creek network chair magic salon polar income wet awkward hunt odor";
+var mnemonic = "cluster orient alcohol pluck fog accident trip sound affair cactus venture rural";

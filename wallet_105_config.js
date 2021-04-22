@@ -1,1 +1,1 @@
-var mnemonic = "village champion divert antique wear state chronic domain measure narrow garlic wet";
+var mnemonic = "wage comfort bounce image announce stereo else assist tag century suspect kite";

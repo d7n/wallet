@@ -1,1 +1,1 @@
-var mnemonic = "denial purpose economy prepare accuse hole spray vapor enrich forest volume action";
+var mnemonic = "test intact water mom hammer eye help faculty science around glare whip";

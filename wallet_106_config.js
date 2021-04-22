@@ -1,1 +1,1 @@
-var mnemonic = "process grace labor then brief priority prevent remain bone hat elder absorb";
+var mnemonic = "rebel admit usual artefact movie door shrug rice wave cigar wrap drill";

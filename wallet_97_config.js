@@ -1,1 +1,1 @@
-var mnemonic = "evidence rug family setup banana aunt discover snow chaos rescue have dignity";
+var mnemonic = "call list flash inject scare symbol able divide defy tower between catalog";

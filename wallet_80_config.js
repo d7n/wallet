@@ -1,1 +1,1 @@
-var mnemonic = "tip almost just bid talk glimpse concert knock dove december avocado upset";
+var mnemonic = "crawl equal enroll junk jacket view cycle coyote wealth correct make fit";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy enlist nut disagree laptop solve soft dentist profit pudding skull occur";
+var mnemonic = "solar curious evolve figure swear velvet sketch tomato comfort scissors recall phone";

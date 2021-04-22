@@ -1,1 +1,1 @@
-var mnemonic = "universe sign ice frost cart unit foot pattern poet ticket music tonight";
+var mnemonic = "hold success tuition devote predict tired tail sting donate goose curtain hint";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit muffin gold cricket warfare eternal they tide impulse van toe grit";
+var mnemonic = "sick analyst metal innocent derive prepare amateur auto collect oblige final marine";

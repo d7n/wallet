@@ -1,1 +1,1 @@
-var mnemonic = "empower bicycle jaguar about voyage cotton bunker birth exhaust mother sorry life";
+var mnemonic = "fresh elephant alcohol gun account powder peace trim topple connect over like";

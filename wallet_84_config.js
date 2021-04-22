@@ -1,1 +1,1 @@
-var mnemonic = "parade soft tumble junior race ugly collect oval opera seminar metal million";
+var mnemonic = "donkey return want aim injury confirm miss evolve attack mountain quick hello";

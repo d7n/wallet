@@ -1,1 +1,1 @@
-var mnemonic = "impact skull wire hammer congress fit oblige clutch clutch primary shed label";
+var mnemonic = "pig mango exhaust sample aunt gold alien slight parent bench aware vintage";

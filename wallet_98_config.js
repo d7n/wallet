@@ -1,1 +1,1 @@
-var mnemonic = "shed cause motion daring error divide siren convince involve rely doctor front";
+var mnemonic = "cream wire genius connect tragic word actress scout rural trim eagle liberty";

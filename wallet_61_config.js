@@ -1,1 +1,1 @@
-var mnemonic = "item accident toddler method predict final party coast amateur become secret poet";
+var mnemonic = "account filter amateur amateur glide brush aisle rough wait hundred spare artist";

@@ -1,1 +1,1 @@
-var mnemonic = "desk minor easily forum design autumn cruise ship nerve sorry carry layer";
+var mnemonic = "offer hospital abandon bottom month slush toward remove snap render biology six";

@@ -1,1 +1,1 @@
-var mnemonic = "physical insect solve occur often armor power six nut vital buffalo bachelor";
+var mnemonic = "rain extra file act lottery wedding present ceiling world tiger cup mother";

@@ -1,1 +1,1 @@
-var mnemonic = "differ print round decorate person wish rather exile eight manual marble idle";
+var mnemonic = "attack anxiety author ball drive file favorite size master blame fee bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "cross kingdom seven useless guilt distance target swamp exchange dance little favorite";
+var mnemonic = "vivid trouble barrel bring ugly dose convince run inquiry dose brick december";

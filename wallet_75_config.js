@@ -1,1 +1,1 @@
-var mnemonic = "capital riot kitten annual pottery physical poem snow gorilla column still isolate";
+var mnemonic = "envelope soup gentle tonight foam buddy umbrella sustain begin inhale sketch behind";

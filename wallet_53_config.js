@@ -1,1 +1,1 @@
-var mnemonic = "west funny retire sudden charge slight simple sight false quick border mystery";
+var mnemonic = "tilt merge actor bracket turkey illegal common grocery onion immune oblige trick";

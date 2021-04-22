@@ -1,1 +1,1 @@
-var mnemonic = "quiz include slender color evoke very maple liquid force color treat prosper";
+var mnemonic = "sauce sausage good keep web earth ship pride lemon swim track economy";

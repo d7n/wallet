@@ -1,1 +1,1 @@
-var mnemonic = "hamster infant nose fluid naive size manage present soda grit cash tourist";
+var mnemonic = "load wedding economy giggle apart birth buzz crouch happy glove kitten verb";

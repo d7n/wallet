@@ -1,1 +1,1 @@
-var mnemonic = "trial bar gospel cream seat bridge craft abstract slam maximum used shuffle";
+var mnemonic = "dune blouse edge demise peanut metal crunch carry horse rescue lunch swarm";

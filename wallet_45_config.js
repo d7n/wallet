@@ -1,1 +1,1 @@
-var mnemonic = "bullet begin wife sword arrest margin rotate clip canal later rent inmate";
+var mnemonic = "park adult hunt artefact devote weird orange elephant window dinosaur bundle bag";

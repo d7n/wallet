@@ -1,1 +1,1 @@
-var mnemonic = "drastic vault whale purity forward casual suit leg dizzy boring laugh category";
+var mnemonic = "assume answer speak tribe kite poverty phone lazy culture next width position";

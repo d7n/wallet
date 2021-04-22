@@ -1,1 +1,1 @@
-var mnemonic = "shoe sketch language pony catalog neglect gauge permit monster girl baby shield";
+var mnemonic = "hour swap wood gift there lake patrol grief drip dash start orbit";

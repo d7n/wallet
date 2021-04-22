@@ -1,1 +1,1 @@
-var mnemonic = "room hockey tunnel music learn glance genuine dry wise office marine cram";
+var mnemonic = "left embody swift diary theme name cactus clap retreat laundry sorry month";

@@ -1,1 +1,1 @@
-var mnemonic = "month win ketchup uphold rose tell file useless lazy check main among";
+var mnemonic = "torch denial urban fatal puppy category cereal piano pencil decide stadium forest";

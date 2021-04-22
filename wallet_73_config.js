@@ -1,1 +1,1 @@
-var mnemonic = "torch flower blossom pudding speed hazard much junior curious afford elder crush";
+var mnemonic = "one noise camera mystery wise actress lonely decide setup rule culture taste";

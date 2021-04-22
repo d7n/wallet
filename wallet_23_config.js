@@ -1,1 +1,1 @@
-var mnemonic = "october farm ugly dove sight endless bar truly task length spawn pilot";
+var mnemonic = "angle width pizza expire stumble funny fruit upgrade lab friend apple assault";

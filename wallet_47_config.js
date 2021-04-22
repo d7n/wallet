@@ -1,1 +1,1 @@
-var mnemonic = "kiwi season charge language female congress sea lucky clutch siren excite similar";
+var mnemonic = "giggle joy deal orange puzzle entry prize marine explain liberty rapid tribe";

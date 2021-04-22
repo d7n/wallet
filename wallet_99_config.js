@@ -1,1 +1,1 @@
-var mnemonic = "fiber sock pupil fuel model arch appear salad usage never hand fever";
+var mnemonic = "loyal bonus ticket ugly armed fever sail chalk admit speak input ticket";

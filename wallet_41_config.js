@@ -1,1 +1,1 @@
-var mnemonic = "debris path night toss endorse display wet sleep whale tuition law front";
+var mnemonic = "paper very stove upset entire daughter blouse cousin fringe common tag wheel";

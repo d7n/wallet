@@ -1,1 +1,1 @@
-var mnemonic = "brick pig exercise rotate ranch crawl project harsh absurd stove angle pistol";
+var mnemonic = "adult best option quantum since mad manual miss bridge glide elegant arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie drop field false fragile tennis tiny maple guitar swarm shock diagram";
+var mnemonic = "barrel dish summer blush hand violin essay helmet consider dirt junk equal";

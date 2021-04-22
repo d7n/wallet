@@ -1,1 +1,1 @@
-var mnemonic = "ginger canvas casino same embody list river bird scout kind salad friend";
+var mnemonic = "doll era tortoise deny animal puzzle ocean song rent media divorce excite";

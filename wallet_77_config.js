@@ -1,1 +1,1 @@
-var mnemonic = "seat margin merge nose quality yellow clarify marble educate hello father extra";
+var mnemonic = "remind fetch cycle ensure motion announce execute program remind tissue eager detect";

@@ -1,1 +1,1 @@
-var mnemonic = "echo clown antenna umbrella that afraid rapid slab all trumpet keen embark";
+var mnemonic = "moral tooth pool offer maximum diary achieve hat west debris sketch toward";

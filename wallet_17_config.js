@@ -1,1 +1,1 @@
-var mnemonic = "umbrella kingdom term casino fantasy town scissors dragon fragile impose gain chest";
+var mnemonic = "scan hope media endless cup tobacco cool proud captain start celery armor";

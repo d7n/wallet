@@ -1,1 +1,1 @@
-var mnemonic = "picnic ancient patrol flock tongue sponsor vocal frost approve shoe pole unable";
+var mnemonic = "direct industry almost proof transfer flee curious stage position impulse erode utility";

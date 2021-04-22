@@ -1,1 +1,1 @@
-var mnemonic = "suffer combine soldier acoustic congress kick impulse guitar pony level rain toward";
+var mnemonic = "bitter decorate zero tip cash ceiling cart rhythm figure trial topple cause";

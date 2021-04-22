@@ -1,1 +1,1 @@
-var mnemonic = "stereo trade moon tattoo rocket grant rail hover thumb govern stomach write";
+var mnemonic = "sweet leader little farm slender acid future sudden cotton wall urban pond";

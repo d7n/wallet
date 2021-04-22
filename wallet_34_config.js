@@ -1,1 +1,1 @@
-var mnemonic = "taxi bid brain actor still rude vibrant bird plunge century winner destroy";
+var mnemonic = "vault budget enact raise isolate express portion kick quick resource obvious attract";

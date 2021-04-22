@@ -1,1 +1,1 @@
-var mnemonic = "floor acquire zero gun blouse silk lava divide brief sick crew admit";
+var mnemonic = "soap sad taxi theory federal pass craft bread reunion brass gate cereal";

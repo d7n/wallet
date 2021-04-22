@@ -1,1 +1,1 @@
-var mnemonic = "hello hurt round thank candy junk scare ship crane wine strategy add";
+var mnemonic = "income exact lizard federal gravity genre cause heavy knock sample exit find";

@@ -1,1 +1,1 @@
-var mnemonic = "build six misery chief toss proof art cry olive west divorce boost";
+var mnemonic = "avoid radar mother find license off mango electric crowd enter describe hunt";

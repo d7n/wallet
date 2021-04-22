@@ -1,1 +1,1 @@
-var mnemonic = "nephew control eternal glow cinnamon whale simple sudden garage woman cute cloth";
+var mnemonic = "brain bone physical general clog explain taxi adapt ecology behind top copper";

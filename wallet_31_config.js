@@ -1,1 +1,1 @@
-var mnemonic = "valve morning banana taste laugh forget abuse concert announce super early member";
+var mnemonic = "skill deputy tomorrow just detail great usual morning never token sand gift";

@@ -1,1 +1,1 @@
-var mnemonic = "fee adjust conduct female session squeeze mistake level corn fat fury job";
+var mnemonic = "lottery slim second service repeat dignity rocket gallery muffin find alter crush";

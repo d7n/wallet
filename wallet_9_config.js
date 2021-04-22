@@ -1,1 +1,1 @@
-var mnemonic = "hard emerge water interest author rigid fish celery whip board write purity";
+var mnemonic = "awkward shop river aspect void cancel liberty flip casual anxiety kind because";

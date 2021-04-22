@@ -1,1 +1,1 @@
-var mnemonic = "stairs like just raccoon nerve hidden frame other enrich escape frame firm";
+var mnemonic = "fish start prison muscle link kid depart crop turkey hub shiver grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "make over inch social faint dance neck there stable program siege drama";
+var mnemonic = "cheese make pudding surround shove saddle prefer base acid fox more despair";

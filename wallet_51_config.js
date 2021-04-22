@@ -1,1 +1,1 @@
-var mnemonic = "demand document later tilt alone collect cluster affair domain disorder trust clinic";
+var mnemonic = "danger clerk expire there whale indoor volume rule depend upon fetch swallow";

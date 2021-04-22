@@ -1,1 +1,1 @@
-var mnemonic = "measure thrive deputy return choose pencil smoke copy road nest gasp hungry";
+var mnemonic = "bitter venture there decline amazing problem link public vessel modify yellow sausage";

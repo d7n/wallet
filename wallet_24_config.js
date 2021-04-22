@@ -1,1 +1,1 @@
-var mnemonic = "strategy review into heart inflict bread federal various just bar fog genuine";
+var mnemonic = "lift surface dash spot emerge pear decade funny royal list canvas hen";

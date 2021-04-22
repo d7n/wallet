@@ -1,1 +1,1 @@
-var mnemonic = "raccoon future upon miss pet artist cycle retire vintage diet check inner";
+var mnemonic = "candy slogan client sell outdoor august hat moral boss trouble lunch surface";

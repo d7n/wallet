@@ -1,1 +1,1 @@
-var mnemonic = "brush climb question shadow feature body gorilla anchor squeeze sketch involve trouble";
+var mnemonic = "position play write now acid pudding rough legend reject mule inject episode";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha regret disorder neck business share digital allow mom you remind beauty";
+var mnemonic = "virtual wrist noise you gossip sponsor crash involve shoot demise case eyebrow";

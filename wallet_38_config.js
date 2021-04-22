@@ -1,1 +1,1 @@
-var mnemonic = "shadow garden meadow wave tortoise tribe actor damage festival property author ship";
+var mnemonic = "gain craft leave annual expose doll pen afford glass tower hover uphold";

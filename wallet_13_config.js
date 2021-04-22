@@ -1,1 +1,1 @@
-var mnemonic = "plate wage amazing emerge casual tomato life rapid zebra lunar renew panel";
+var mnemonic = "wish boat banner work alert member crisp distance ski planet decrease ginger";

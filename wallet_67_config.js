@@ -1,1 +1,1 @@
-var mnemonic = "senior enrich card spare camera course drum pole service protect also garage";
+var mnemonic = "trumpet finish bamboo usual wolf volume blanket toddler much guilt conduct such";

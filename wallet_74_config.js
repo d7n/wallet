@@ -1,1 +1,1 @@
-var mnemonic = "manage able echo lawn gap upgrade raw intact injury luxury fresh weapon";
+var mnemonic = "envelope myth cat kitten wide include empty choose drastic effort sting student";

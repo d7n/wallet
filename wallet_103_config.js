@@ -1,1 +1,1 @@
-var mnemonic = "merit six slim glimpse rent mutual jazz exotic derive repair spice exact";
+var mnemonic = "addict school spin mosquito muffin script solar head swear old trick regular";

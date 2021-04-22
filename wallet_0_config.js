@@ -1,1 +1,1 @@
-var mnemonic = "pigeon angle grain ribbon amused trumpet forest session youth rapid grace scissors";
+var mnemonic = "own wire draw idle decline truly matrix rare middle creek kick maximum";

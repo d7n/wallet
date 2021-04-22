@@ -1,1 +1,1 @@
-var mnemonic = "cook other finger wheat test stadium early world neither talent hip grant";
+var mnemonic = "asset welcome transfer before will garment dice cry rate impose all cage";

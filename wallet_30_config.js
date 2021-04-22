@@ -1,1 +1,1 @@
-var mnemonic = "dad coil wide scare lounge accident royal veteran fame carpet wire unhappy";
+var mnemonic = "talent clown badge cannon learn torch true mushroom super control staff domain";

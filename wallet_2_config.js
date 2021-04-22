@@ -1,1 +1,1 @@
-var mnemonic = "adapt steak excite runway either swing stove sorry help praise private choice";
+var mnemonic = "tape wrap kangaroo deal perfect orphan upgrade behind resist dutch shove flat";

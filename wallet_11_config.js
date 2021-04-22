@@ -1,1 +1,1 @@
-var mnemonic = "joke coast horror salute trim ride vote ceiling minute another exhibit blue";
+var mnemonic = "rifle damage wood admit hand interest animal toddler oblige common liquid winner";

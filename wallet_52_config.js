@@ -1,1 +1,1 @@
-var mnemonic = "capable travel awake barrel version wheat abandon honey project upper indoor antique";
+var mnemonic = "mistake pony elbow shield evolve afford merry chunk antique fortune kingdom license";

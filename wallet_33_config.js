@@ -1,1 +1,1 @@
-var mnemonic = "siege nation like debate cloth suit deputy rice list also green lumber";
+var mnemonic = "reopen merge brass border merry chest prepare during rate good eager wreck";

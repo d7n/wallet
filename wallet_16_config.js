@@ -1,1 +1,1 @@
-var mnemonic = "business lift ensure merry curious split guide void embody burst small obtain";
+var mnemonic = "grace camera chalk bachelor crisp nasty own inform cart capital gadget leader";

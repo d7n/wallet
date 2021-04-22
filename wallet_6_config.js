@@ -1,1 +1,1 @@
-var mnemonic = "armed favorite wear social risk item when dice process magnet bright pretty";
+var mnemonic = "beauty trick sail mother tenant range shield now adult panda spray voice";

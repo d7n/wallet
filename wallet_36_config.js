@@ -1,1 +1,1 @@
-var mnemonic = "fitness blind peace chunk wonder famous awkward weasel language round good tiny";
+var mnemonic = "popular what plug endless miracle avoid eager liar plate swear dragon soda";

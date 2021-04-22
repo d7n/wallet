@@ -1,1 +1,1 @@
-var mnemonic = "dish torch erosion armed embark drop blouse undo enlist then report fuel";
+var mnemonic = "antique asset search noise census group wrestle regular artefact process hurdle blossom";

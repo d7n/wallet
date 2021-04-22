@@ -1,1 +1,1 @@
-var mnemonic = "youth assume start dwarf avocado hockey margin group guilt carpet pride avocado";
+var mnemonic = "ring fruit mask dove glance oven toilet pride ill muffin enemy network";

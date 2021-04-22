@@ -1,1 +1,1 @@
-var mnemonic = "proof guess wink soft erase only picnic critic gloom entry hello glide";
+var mnemonic = "key urge secret economy satisfy turn domain tortoise they have cereal suffer";

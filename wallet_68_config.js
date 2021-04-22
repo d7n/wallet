@@ -1,1 +1,1 @@
-var mnemonic = "uphold verb brother kite happy retreat gown arctic bargain liar divide tobacco";
+var mnemonic = "east clutch way use glance lumber train grocery holiday open chicken room";

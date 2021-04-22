@@ -1,1 +1,1 @@
-var mnemonic = "oil slow oval carry surround faint front come capital space suspect merry";
+var mnemonic = "ensure circle absurd favorite legend rib clump use able absorb lawsuit illegal";

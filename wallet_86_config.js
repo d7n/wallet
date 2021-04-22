@@ -1,1 +1,1 @@
-var mnemonic = "faint cabbage empower morning city clown disagree edge labor program nurse siege";
+var mnemonic = "badge aware wasp soon display rapid annual noise rubber design indoor erode";

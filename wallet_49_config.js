@@ -1,1 +1,1 @@
-var mnemonic = "bargain trumpet auto tortoise story favorite void royal chalk remind soul belt";
+var mnemonic = "female permit web olive cousin taste scale current want solve dirt tail";

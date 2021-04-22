@@ -1,1 +1,1 @@
-var mnemonic = "brush chicken nut winter response surge blanket bacon bonus purpose option shallow";
+var mnemonic = "wonder rival enforce rookie elegant seek evoke october message easily romance renew";

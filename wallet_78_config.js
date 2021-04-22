@@ -1,1 +1,1 @@
-var mnemonic = "issue fiction escape control game force jealous nothing impose this corn daring";
+var mnemonic = "shiver candy negative strategy faint rigid erode cancel artefact before quit exact";
