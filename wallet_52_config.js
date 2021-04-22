@@ -1,1 +1,1 @@
-var mnemonic = "lava assume dragon bless toe despair favorite thrive pottery marriage fever legal";
+var mnemonic = "final match horn wash park tide color code pink bike famous robust";

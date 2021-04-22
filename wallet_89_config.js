@@ -1,1 +1,1 @@
-var mnemonic = "garlic jump champion language style fatal sail combine poem silent game sword";
+var mnemonic = "wet suspect author toy way acquire cherry outdoor ecology edit salute beef";

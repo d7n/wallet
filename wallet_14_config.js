@@ -1,1 +1,1 @@
-var mnemonic = "corn account small sniff museum illegal north tip turkey orphan setup able";
+var mnemonic = "taxi midnight worry size feature apple kidney tribe cabin cluster identify also";

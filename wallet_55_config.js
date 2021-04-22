@@ -1,1 +1,1 @@
-var mnemonic = "biology fatal wreck water survey series rather couple burst bid series debris";
+var mnemonic = "pigeon noodle cause poem alpha drop remove desert evolve trim oven claim";

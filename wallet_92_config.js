@@ -1,1 +1,1 @@
-var mnemonic = "toy addict close rude virus ozone disagree they health large couple sand";
+var mnemonic = "praise point submit lizard nature keep crack miracle eight winter work day";

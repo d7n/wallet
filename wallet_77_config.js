@@ -1,1 +1,1 @@
-var mnemonic = "task gas bonus history honey consider among pause flame head genius chef";
+var mnemonic = "focus pulp scrub rely grass quote way grit feed youth oppose boil";

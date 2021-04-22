@@ -1,1 +1,1 @@
-var mnemonic = "kidney useful photo stock profit great give garlic lava civil evoke frown";
+var mnemonic = "electric buddy social nasty disorder hurdle raw oven bubble appear jungle story";

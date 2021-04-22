@@ -1,1 +1,1 @@
-var mnemonic = "orient easily still trumpet blame misery genre payment glance economy scrap flock";
+var mnemonic = "source planet neutral disorder dry sadness same captain arrest element apology hint";

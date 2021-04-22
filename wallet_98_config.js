@@ -1,1 +1,1 @@
-var mnemonic = "hard milk young girl swap dumb winner segment blur fashion resource salt";
+var mnemonic = "start property armed goose common stay barely piece lonely try verify enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "bring barrel major gallery jungle split soap electric exist abuse birth then";
+var mnemonic = "future cash divide world inhale slight anger spice length vessel switch buyer";

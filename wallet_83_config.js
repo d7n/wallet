@@ -1,1 +1,1 @@
-var mnemonic = "income cable gift feel home when police cabin term avoid film pave";
+var mnemonic = "trap wood mix vocal regret magic electric build silver castle film license";

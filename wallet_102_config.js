@@ -1,1 +1,1 @@
-var mnemonic = "purse toast nominee crack job strategy donkey poet copy upon lottery logic";
+var mnemonic = "sausage jump umbrella imitate near win bacon master festival fortune cargo skull";

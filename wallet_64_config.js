@@ -1,1 +1,1 @@
-var mnemonic = "timber involve draw coach script swing stick night garbage calm access spike";
+var mnemonic = "build mother vacuum roast link fiscal deputy laugh magic fantasy glimpse advice";

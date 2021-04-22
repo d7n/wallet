@@ -1,1 +1,1 @@
-var mnemonic = "balance scheme live chaos fragile anxiety round cube focus hero broccoli cup";
+var mnemonic = "peanut satisfy split pact uncle tell coffee reduce milk surround pumpkin core";

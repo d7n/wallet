@@ -1,1 +1,1 @@
-var mnemonic = "chicken permit rug bottom damp ordinary sail retire sauce blossom side expose";
+var mnemonic = "remain oil film strong lawsuit ignore frequent cradle open spike foot essay";

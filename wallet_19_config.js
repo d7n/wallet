@@ -1,1 +1,1 @@
-var mnemonic = "enroll slim merit claw phrase century volcano story jungle obtain add grit";
+var mnemonic = "parrot interest april fossil estate shed loud giraffe relief cart super budget";

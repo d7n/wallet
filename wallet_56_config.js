@@ -1,1 +1,1 @@
-var mnemonic = "involve include immense absorb water gas random scare provide gown rule salute";
+var mnemonic = "page identify gospel pink radio quit poet wood margin define reason disagree";

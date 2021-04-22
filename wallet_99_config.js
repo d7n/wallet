@@ -1,1 +1,1 @@
-var mnemonic = "jump board bachelor ostrich duck sea wild van cake health river venture";
+var mnemonic = "once deposit magic violin hover afraid approve ensure print denial cage logic";

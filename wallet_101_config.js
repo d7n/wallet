@@ -1,1 +1,1 @@
-var mnemonic = "media rule carpet head noodle modify twice fun guess regret song misery";
+var mnemonic = "sight measure claw stand garbage river mammal awful regret grief refuse run";

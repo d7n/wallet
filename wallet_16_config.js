@@ -1,1 +1,1 @@
-var mnemonic = "message long liberty dice increase office brand attract hub screen daughter cinnamon";
+var mnemonic = "room enough resource cannon panda child price slow actress govern tail high";

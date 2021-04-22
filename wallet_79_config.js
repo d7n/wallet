@@ -1,1 +1,1 @@
-var mnemonic = "digital rally false caution false hundred saddle long west six fox pass";
+var mnemonic = "eyebrow come talk traffic hard age regret decade poverty build sunny region";

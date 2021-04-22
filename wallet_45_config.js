@@ -1,1 +1,1 @@
-var mnemonic = "current crystal blossom slim swallow faint carbon dolphin want tackle clutch leg";
+var mnemonic = "ostrich foil deposit effort airport infant festival close sentence snow book luggage";

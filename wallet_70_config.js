@@ -1,1 +1,1 @@
-var mnemonic = "gun silk need control hunt security general husband exist office bench heart";
+var mnemonic = "grass one brush frost hurt move obtain often now brain luggage season";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco paper inherit sun flight december trade sample slide laugh giggle nurse";
+var mnemonic = "book repeat humble fringe layer acoustic uncle theory afford venue salt zone";

@@ -1,1 +1,1 @@
-var mnemonic = "turn talent car frozen twist odor sunset fitness side crawl case figure";
+var mnemonic = "venue soon educate usage upper rude speed old lazy feed slam again";

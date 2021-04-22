@@ -1,1 +1,1 @@
-var mnemonic = "first people novel until obey usual grunt submit general better cushion rubber";
+var mnemonic = "make raccoon scan palace quantum coconut seat dismiss believe neck oven accident";

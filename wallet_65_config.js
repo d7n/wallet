@@ -1,1 +1,1 @@
-var mnemonic = "term custom van circle better same toe process frozen asthma life wrestle";
+var mnemonic = "bargain situate rail predict return relax oven place faint dial original chest";

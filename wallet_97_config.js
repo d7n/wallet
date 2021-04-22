@@ -1,1 +1,1 @@
-var mnemonic = "kiss answer wash stamp fix because valley badge dirt obey team fringe";
+var mnemonic = "hold cram size million fly dragon chat gadget pig net blanket dignity";

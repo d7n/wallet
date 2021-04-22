@@ -1,1 +1,1 @@
-var mnemonic = "trim noodle trap ski wheel wool where outer live strike choice task";
+var mnemonic = "track survey always like future mutual crime first shine system hockey include";

@@ -1,1 +1,1 @@
-var mnemonic = "across dinosaur onion dragon bacon stumble pool this abandon view trial gold";
+var mnemonic = "hockey assist enable feature consider acoustic pizza cart urge rifle seed monster";

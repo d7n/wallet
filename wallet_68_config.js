@@ -1,1 +1,1 @@
-var mnemonic = "dose crisp swing entire cricket cram april margin fold tumble present buddy";
+var mnemonic = "cotton employ benefit ozone genuine sausage core local prepare potato crowd senior";

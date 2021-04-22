@@ -1,1 +1,1 @@
-var mnemonic = "ten boil mirror original nephew menu visual sponsor rice surface pattern surge";
+var mnemonic = "situate next extra also race start trash boost tone lawn swallow grid";

@@ -1,1 +1,1 @@
-var mnemonic = "vast unveil give banana park crane soap feature leopard hurry earn model";
+var mnemonic = "hundred also balcony bright crouch you hour tank damp eager victory bike";

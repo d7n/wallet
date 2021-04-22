@@ -1,1 +1,1 @@
-var mnemonic = "kit never tide crawl exclude chief diesel real victory income crystal exclude";
+var mnemonic = "pyramid torch clutch car stuff father poet inside bless resource hole tomato";

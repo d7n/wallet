@@ -1,1 +1,1 @@
-var mnemonic = "diet major scorpion tumble entire limit awesome wagon antenna pizza space warfare";
+var mnemonic = "hospital attitude tired aspect night banner shallow essence path skull below assume";

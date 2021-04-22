@@ -1,1 +1,1 @@
-var mnemonic = "shock pole lecture file fun message connect stadium enough basket swing layer";
+var mnemonic = "curious long trade draft spy mixture response evidence focus curve scare mesh";

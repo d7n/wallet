@@ -1,1 +1,1 @@
-var mnemonic = "match coconut purity light flush walk rebuild job possible carpet swift fruit";
+var mnemonic = "boil shoulder deal gas still submit multiply trash salad spare drill elephant";

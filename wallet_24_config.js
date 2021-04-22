@@ -1,1 +1,1 @@
-var mnemonic = "stage rug harbor tonight clean nuclear derive scrub alcohol usual monitor match";
+var mnemonic = "other choose throw table genuine suit kingdom proud until coin focus fitness";

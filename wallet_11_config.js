@@ -1,1 +1,1 @@
-var mnemonic = "tornado pair animal parent outdoor corn weather message question stand liquid cliff";
+var mnemonic = "spice child punch tragic seat arrive produce pen praise invest blur runway";

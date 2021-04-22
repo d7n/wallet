@@ -1,1 +1,1 @@
-var mnemonic = "between spread outside trash chuckle cover biology syrup taste damage main donkey";
+var mnemonic = "true almost clever furnace field topic enrich flavor drift peace wave sweet";

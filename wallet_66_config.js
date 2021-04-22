@@ -1,1 +1,1 @@
-var mnemonic = "elite exist wool infant erupt patrol slot try race initial nut sunset";
+var mnemonic = "tennis retire world ranch option model guard silly obtain cotton ill lamp";

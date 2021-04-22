@@ -1,1 +1,1 @@
-var mnemonic = "bird comfort attend crowd crowd team swarm whale inside cloth spot combine";
+var mnemonic = "mammal cattle ball found hill wear caution arena resemble spatial sadness size";

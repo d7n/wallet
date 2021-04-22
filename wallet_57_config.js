@@ -1,1 +1,1 @@
-var mnemonic = "pipe meadow milk health child staff neck nice erupt find tomorrow other";
+var mnemonic = "easy fabric dragon pigeon finish juice profit diagram grow school gadget happy";

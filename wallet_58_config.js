@@ -1,1 +1,1 @@
-var mnemonic = "modify awake story tongue plastic dash grow horn scene come gesture drill";
+var mnemonic = "purity emotion rare before term aim minimum crunch fatal enforce board melody";

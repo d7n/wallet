@@ -1,1 +1,1 @@
-var mnemonic = "cradle damp cloud token thunder antique captain ritual ivory ankle side govern";
+var mnemonic = "guide artist opinion another library lyrics exit file problem ordinary cancel medal";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan forward need farm bone earth shove marriage blossom patch used ugly";
+var mnemonic = "column boy goat portion drift remove decide middle twice tornado turkey hospital";

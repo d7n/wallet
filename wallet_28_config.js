@@ -1,1 +1,1 @@
-var mnemonic = "moon hover brick first valley damp mushroom glass escape glad hotel bus";
+var mnemonic = "tower course kidney assume injury come split know resource scissors fee hawk";

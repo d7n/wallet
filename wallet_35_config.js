@@ -1,1 +1,1 @@
-var mnemonic = "toss maid mansion immune tiger pencil evidence honey wage curious skate bachelor";
+var mnemonic = "cause judge fluid hard risk daughter birth effort enough much desk rely";

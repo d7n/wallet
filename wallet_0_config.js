@@ -1,1 +1,1 @@
-var mnemonic = "toy metal cause exhaust hope neither sun kid casual cover room swamp";
+var mnemonic = "cancel quarter afford cup evoke amount motor upgrade palm scatter boil swap";

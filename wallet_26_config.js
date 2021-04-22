@@ -1,1 +1,1 @@
-var mnemonic = "morning divert crowd boss since vacant tray mandate second buzz rose elite";
+var mnemonic = "canyon ecology evolve where high much together prefer judge become clinic ugly";

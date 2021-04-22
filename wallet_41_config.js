@@ -1,1 +1,1 @@
-var mnemonic = "spend bamboo city echo olympic venue face jazz now tissue patch chase";
+var mnemonic = "umbrella winner prefer evoke visual wood grab volume salt admit black airport";

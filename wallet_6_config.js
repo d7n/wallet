@@ -1,1 +1,1 @@
-var mnemonic = "potato supreme fragile pear frame three virus fun elbow repeat primary skirt";
+var mnemonic = "chat exchange marriage session slide mammal drift ostrich helmet fashion marine rose";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic slam skull history early trash double labor junior humble decline amount";
+var mnemonic = "argue cabbage enjoy drum decline jaguar blanket describe sun snake payment negative";

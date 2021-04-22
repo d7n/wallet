@@ -1,1 +1,1 @@
-var mnemonic = "fog minor gadget identify turkey hope round avoid rally coconut sight detect";
+var mnemonic = "long gauge scissors atom client twelve soon nominee punch rescue deposit shallow";

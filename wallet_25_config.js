@@ -1,1 +1,1 @@
-var mnemonic = "bubble behind claim regular furnace noodle misery diamond echo school outer attitude";
+var mnemonic = "make ridge battle height tenant girl typical cream trigger young sketch motor";

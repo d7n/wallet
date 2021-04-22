@@ -1,1 +1,1 @@
-var mnemonic = "payment riot pretty patient energy jacket knee imitate month that sugar trust";
+var mnemonic = "retreat base actor mechanic garlic mind cat creek business stand bundle tortoise";

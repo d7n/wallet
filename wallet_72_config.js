@@ -1,1 +1,1 @@
-var mnemonic = "tiny sheriff wood oven maze adapt educate subway second giant over outdoor";
+var mnemonic = "spoil island beyond slice clarify safe finish grocery luggage fee fence still";

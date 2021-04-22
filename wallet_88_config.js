@@ -1,1 +1,1 @@
-var mnemonic = "abstract grunt pupil hunt organ unit unable aim ill solution eagle tomorrow";
+var mnemonic = "fortune turn ceiling used deliver educate price meat order science seek inspire";

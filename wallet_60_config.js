@@ -1,1 +1,1 @@
-var mnemonic = "name panda glass casual horn proud badge tumble merry useless pulp moon";
+var mnemonic = "join goat three reason name gather feed become lunar history ride winner";

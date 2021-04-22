@@ -1,1 +1,1 @@
-var mnemonic = "bird diamond hurt diagram over drop diesel dog usage inhale wild upper";
+var mnemonic = "cement salmon ticket goat dust fruit call mirror later cake spike post";

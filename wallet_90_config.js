@@ -1,1 +1,1 @@
-var mnemonic = "fatal clog balance again chief warrior rule teach ocean magic flash humble";
+var mnemonic = "floor pill ozone ability web original purity cotton blossom render consider loyal";

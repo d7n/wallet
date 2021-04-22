@@ -1,1 +1,1 @@
-var mnemonic = "crop donor slender spot morning inherit expose chef sound brand distance biology";
+var mnemonic = "poem matrix lunch work ridge employ tenant danger math turn bind promote";

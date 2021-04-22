@@ -1,1 +1,1 @@
-var mnemonic = "sort cube dentist senior farm stand belt equip lyrics guard jump paddle";
+var mnemonic = "riot worry time arrow east dash now reopen ivory prevent bar future";

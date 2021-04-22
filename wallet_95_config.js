@@ -1,1 +1,1 @@
-var mnemonic = "seat vivid among iron sock crowd base now harbor submit satisfy visit";
+var mnemonic = "rookie spin betray another allow book urban pulse capable certain parent annual";

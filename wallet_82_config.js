@@ -1,1 +1,1 @@
-var mnemonic = "transfer ship million leg proof solid cloth range grid cycle bronze army";
+var mnemonic = "exile erosion spring business receive cabin quick broom garden void lake cabin";

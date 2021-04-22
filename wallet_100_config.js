@@ -1,1 +1,1 @@
-var mnemonic = "shell vacuum town galaxy regret isolate snake police find enjoy song supreme";
+var mnemonic = "black rich egg treat spare balance connect lock place ensure shiver human";

@@ -1,1 +1,1 @@
-var mnemonic = "snack achieve garage method letter peanut current daring myself strategy subject spirit";
+var mnemonic = "lake snow impact snack marriage spoon essay behind hub sorry chair purse";

@@ -1,1 +1,1 @@
-var mnemonic = "random during suspect near buzz craft crisp bullet other parade tissue engine";
+var mnemonic = "electric custom auto near pet breeze funny surface food muffin panda virtual";

@@ -1,1 +1,1 @@
-var mnemonic = "blue resource peanut raw civil cotton lake crystal depend bronze woman ladder";
+var mnemonic = "inspire core match prize mutual confirm lift quantum bicycle legal process broken";

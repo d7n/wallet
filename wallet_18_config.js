@@ -1,1 +1,1 @@
-var mnemonic = "toe trophy insect town virus hello empty script loop young merit fabric";
+var mnemonic = "push crime sunset begin cactus february vast october arrest cute woman scrub";

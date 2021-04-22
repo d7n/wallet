@@ -1,1 +1,1 @@
-var mnemonic = "divert tissue usual eager today winner vacuum celery bundle main turtle ranch";
+var mnemonic = "meat prepare voice foil cover silver leave normal flight blossom title ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "man yard surprise year primary state tooth myself antenna reduce carpet poverty";
+var mnemonic = "limit rebel youth hidden income model decide divorce barrel access input derive";

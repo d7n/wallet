@@ -1,1 +1,1 @@
-var mnemonic = "observe hurt swear toss crane seek february slab thunder maze merry bag";
+var mnemonic = "quarter visa siren option setup joy olympic drink wedding table peasant year";

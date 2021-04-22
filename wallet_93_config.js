@@ -1,1 +1,1 @@
-var mnemonic = "grass funny useful prison rifle family vibrant mixed bless section number anxiety";
+var mnemonic = "foot thought thumb fish that trash weasel proof tiny crater disorder invite";

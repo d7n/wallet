@@ -1,1 +1,1 @@
-var mnemonic = "fit ketchup cruel castle pole brick husband observe have giraffe keen auction";
+var mnemonic = "invite stereo crew random jacket antique emotion fitness wool clap want mechanic";

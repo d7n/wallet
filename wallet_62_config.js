@@ -1,1 +1,1 @@
-var mnemonic = "crystal book exact bubble imitate dawn couple donor square palace forest behave";
+var mnemonic = "fantasy hard arrive typical humble spoil stadium other method sport item mean";

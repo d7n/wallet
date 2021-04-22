@@ -1,1 +1,1 @@
-var mnemonic = "chef canvas ahead apple concert ugly letter they close useless above camera";
+var mnemonic = "bring forum employ cannon easily possible crash soup picnic antique close pact";

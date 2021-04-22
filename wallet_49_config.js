@@ -1,1 +1,1 @@
-var mnemonic = "master profit upon museum wreck aspect record rely noodle amazing kick witness";
+var mnemonic = "response worry icon soldier where melt anxiety vivid join dynamic neck climb";

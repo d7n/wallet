@@ -1,1 +1,1 @@
-var mnemonic = "common idle resist fine warm scissors pigeon rely come canal type rocket";
+var mnemonic = "autumn soda rally crisp mutual admit fiber pioneer gap glimpse fringe crew";

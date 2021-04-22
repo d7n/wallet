@@ -1,1 +1,1 @@
-var mnemonic = "dentist write spatial sight hello switch ability melt lab trial snack decide";
+var mnemonic = "junk try tackle grid dune fluid track situate must analyst width column";

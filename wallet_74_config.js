@@ -1,1 +1,1 @@
-var mnemonic = "project olympic purpose fringe target tobacco tooth option scorpion book caught boss";
+var mnemonic = "mechanic code daring erosion brave legend ask worth planet room once harbor";

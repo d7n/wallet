@@ -1,1 +1,1 @@
-var mnemonic = "fruit slim solid picnic taste large amount mistake wife vital shrimp know";
+var mnemonic = "tag law broken advice arrow sun glue blood shock mixed same wheel";

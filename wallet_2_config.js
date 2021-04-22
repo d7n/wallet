@@ -1,1 +1,1 @@
-var mnemonic = "venue ribbon couple lens focus enable country over wheat neglect menu canoe";
+var mnemonic = "elder beyond write seek property bird label will inch debate coast cheese";

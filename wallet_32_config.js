@@ -1,1 +1,1 @@
-var mnemonic = "charge release eagle unhappy before climb profit dutch tower puzzle barely winner";
+var mnemonic = "unaware kiss wise bacon despair better burden clarify matter easy novel agent";

@@ -1,1 +1,1 @@
-var mnemonic = "student company female coyote time jacket text leg cotton inspire kangaroo tornado";
+var mnemonic = "gown wise marriage slender warrior pave swallow today know upper demise erode";

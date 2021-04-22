@@ -1,1 +1,1 @@
-var mnemonic = "gas auto retire dentist soup rally photo uncle adjust dwarf label seed";
+var mnemonic = "iron life love network mercy insane public club surge curve lab roof";

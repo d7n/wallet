@@ -1,1 +1,1 @@
-var mnemonic = "town cost pride axis pledge position smile million argue when tip rely";
+var mnemonic = "whip crater civil family gorilla cinnamon shift buddy dance audit release auto";

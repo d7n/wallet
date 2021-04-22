@@ -1,1 +1,1 @@
-var mnemonic = "submit blossom bike blame agree refuse wreck act echo tree actress kiwi";
+var mnemonic = "remove sphere poverty nature mom miracle project isolate basic control hobby coast";

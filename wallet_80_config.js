@@ -1,1 +1,1 @@
-var mnemonic = "damp attitude dragon champion yard story wagon warrior length resist earn mirror";
+var mnemonic = "throw dwarf melt prepare despair income rather settle scout film burden fall";

@@ -1,1 +1,1 @@
-var mnemonic = "shell cricket menu grace limit swallow puzzle demand place host stick leopard";
+var mnemonic = "lounge enable swing push chest turtle wheel meadow slot pink barrel bright";

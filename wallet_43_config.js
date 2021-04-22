@@ -1,1 +1,1 @@
-var mnemonic = "initial permit include fee laugh love edge token nice away mixed rotate";
+var mnemonic = "theory flock about daughter today like clump venue curve march brave stick";

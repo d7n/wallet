@@ -1,1 +1,1 @@
-var mnemonic = "evil olive riot you fox leaf cheap mail food prevent manual act";
+var mnemonic = "execute hour tiny friend mixed hospital excuse print round deny spy total";

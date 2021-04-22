@@ -1,1 +1,1 @@
-var mnemonic = "shove tank transfer vehicle layer acquire scrub flush sunny slice paper jealous";
+var mnemonic = "work snack escape farm route concert unable exchange lock misery sunny sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "derive diary absorb kingdom grain history opinion surface napkin famous purpose spring";
+var mnemonic = "video leader skill love build matter sauce lend arm just year atom";

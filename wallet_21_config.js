@@ -1,1 +1,1 @@
-var mnemonic = "bottom album assume sword pool primary earn beach evoke budget episode stereo";
+var mnemonic = "couch harsh fancy enforce mail egg member kangaroo comic sentence aunt episode";

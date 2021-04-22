@@ -1,1 +1,1 @@
-var mnemonic = "short express spatial dilemma theme certain unusual boost casual congress measure window";
+var mnemonic = "dress various donate accuse match share dose beach capital pepper dignity shield";

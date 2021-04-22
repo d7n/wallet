@@ -1,1 +1,1 @@
-var mnemonic = "barely gossip chair width member wear crawl scan split useful nice exact";
+var mnemonic = "eyebrow discover hair wonder mirror century prepare excite inject improve alien crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset remain dress sunny trial strong green early wrong resemble feel welcome";
+var mnemonic = "bulb secret sustain alley fit predict gather family wire stick ceiling range";

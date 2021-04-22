@@ -1,1 +1,1 @@
-var mnemonic = "profit basket cool toy tenant fire disease name enable remember piano solid";
+var mnemonic = "lyrics sing company sphere consider produce drill end clown voice stamp doll";
