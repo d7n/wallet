@@ -1,1 +1,1 @@
-var mnemonic = "column target olive situate weird heart occur city certain talk empty grain";
+var mnemonic = "document outside upset engine exile grunt soon group track front industry swing";

@@ -1,1 +1,1 @@
-var mnemonic = "answer whip dust mimic talent stay ranch vintage gym type risk combine";
+var mnemonic = "lock able peanut push alarm claw wood silver combine main tool grocery";

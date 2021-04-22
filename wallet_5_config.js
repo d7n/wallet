@@ -1,1 +1,1 @@
-var mnemonic = "swift gadget divert smooth furnace kind unhappy used race morning fiction ten";
+var mnemonic = "farm snake move wild smoke birth such nothing slender tide blood father";

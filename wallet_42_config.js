@@ -1,1 +1,1 @@
-var mnemonic = "dragon high ritual quote copper oven stone obvious rich biology twist solid";
+var mnemonic = "pass cook this praise tenant alone aisle agent remain angle confirm find";

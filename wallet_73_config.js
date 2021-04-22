@@ -1,1 +1,1 @@
-var mnemonic = "proof arrange custom aunt novel garage leg setup pledge oyster feature video";
+var mnemonic = "stool brief mass chimney method mixture obey file twin depart paper win";

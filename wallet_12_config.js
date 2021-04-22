@@ -1,1 +1,1 @@
-var mnemonic = "prison core critic august kite divorce black minimum mirror ride toward exclude";
+var mnemonic = "fabric unveil purchase clown frost upgrade combine keen remind convince verify initial";

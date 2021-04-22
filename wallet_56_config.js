@@ -1,1 +1,1 @@
-var mnemonic = "frame second wash time sword term climb dignity project crumble stumble hole";
+var mnemonic = "allow baby alert bomb endless pilot bottom badge milk fiber open fog";

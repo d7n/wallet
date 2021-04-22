@@ -1,1 +1,1 @@
-var mnemonic = "few animal crack village rally elite heart absent crane celery walk law";
+var mnemonic = "volcano gasp voyage amateur follow attitude mystery joke memory glad town ceiling";

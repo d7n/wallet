@@ -1,1 +1,1 @@
-var mnemonic = "gravity erode avoid quality okay sing render armed beauty genius program average";
+var mnemonic = "bacon ready old erupt material trim stand carpet chicken sleep kangaroo way";

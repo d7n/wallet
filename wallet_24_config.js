@@ -1,1 +1,1 @@
-var mnemonic = "ring license unique raise attitude swear question iron music day program sauce";
+var mnemonic = "few ship explain mistake subway become upon bar tool state piece design";

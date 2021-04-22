@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur ocean praise scheme achieve juice total champion gas swift attract ripple";
+var mnemonic = "sick spike media extend flip slide fatigue garden dish spatial surprise tonight";

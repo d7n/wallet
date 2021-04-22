@@ -1,1 +1,1 @@
-var mnemonic = "found major tobacco express lounge decline spend turkey nurse deposit fold ice";
+var mnemonic = "balcony nation resemble dress cereal novel slam cream kick adapt crop kidney";

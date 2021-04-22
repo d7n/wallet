@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mammal whale coffee city wasp alter spare parrot jar spray immune";
+var mnemonic = "will soul start onion virus prefer sibling dash forum ready rural scan";

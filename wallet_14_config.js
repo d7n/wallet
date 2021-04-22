@@ -1,1 +1,1 @@
-var mnemonic = "sunny cool phone canyon concert party panther idea air meadow board cover";
+var mnemonic = "clump giant script ostrich slow script swap report april craft notice dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard hurt flag mystery gallery trick relax social fitness film torch soap";
+var mnemonic = "clump discover number flush deposit adapt coyote virtual naive raven clarify govern";

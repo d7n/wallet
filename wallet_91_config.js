@@ -1,1 +1,1 @@
-var mnemonic = "often tool taste guard vital catch climb wonder wear arctic stadium charge";
+var mnemonic = "ship vote snow rose pencil wedding fork put bright smoke scheme liberty";

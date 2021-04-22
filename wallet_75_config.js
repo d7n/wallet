@@ -1,1 +1,1 @@
-var mnemonic = "stereo concert own drift sorry avocado equip upset deny lottery pet bachelor";
+var mnemonic = "bread path sister squeeze beach above ability vast course relax unaware frost";

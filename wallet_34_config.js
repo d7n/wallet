@@ -1,1 +1,1 @@
-var mnemonic = "style paddle tragic leaf guide sight scan crane glance refuse suggest asthma";
+var mnemonic = "legend amazing clock mechanic hospital assault ready rookie regular spray offer spirit";

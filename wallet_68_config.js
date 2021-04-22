@@ -1,1 +1,1 @@
-var mnemonic = "proud inform scout tragic disease tape shine bubble sentence trade depth adjust";
+var mnemonic = "only teach sunset venue spend size render brown abstract feature memory favorite";

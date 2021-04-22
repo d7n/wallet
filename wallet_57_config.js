@@ -1,1 +1,1 @@
-var mnemonic = "country chuckle social upgrade bid scatter dust trust switch kingdom midnight race";
+var mnemonic = "mango second unaware grunt join parrot stairs ramp regular rely peanut festival";

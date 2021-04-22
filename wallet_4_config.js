@@ -1,1 +1,1 @@
-var mnemonic = "cram analyst diary lava method awkward future eyebrow hat light twice virtual";
+var mnemonic = "amount naive digital cement judge cave sell tent shine yellow print have";

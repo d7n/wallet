@@ -1,1 +1,1 @@
-var mnemonic = "lesson drastic thing notable man eyebrow feed upset hockey oak stand there";
+var mnemonic = "invest reduce knife sea vendor fence monkey kid eagle open dose day";

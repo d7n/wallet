@@ -1,1 +1,1 @@
-var mnemonic = "remember initial awake print toe later resemble coral beauty salute stove basket";
+var mnemonic = "chat injury census seven prevent merit scheme blush loyal predict coconut century";

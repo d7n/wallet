@@ -1,1 +1,1 @@
-var mnemonic = "furnace shadow nature yard obscure essay icon vendor female south knee include";
+var mnemonic = "blur nothing jar fabric wrong abstract tomato ugly apology ivory valve never";

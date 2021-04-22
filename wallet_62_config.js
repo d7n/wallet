@@ -1,1 +1,1 @@
-var mnemonic = "grab lunch primary ship attend scissors garbage battle sport eight any during";
+var mnemonic = "reunion ticket bus sting vintage source submit pulp feel potato vessel fatigue";

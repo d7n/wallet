@@ -1,1 +1,1 @@
-var mnemonic = "office luggage worry excess model glass mammal ivory gasp illness market nasty";
+var mnemonic = "valid twist worth identify laundry office drift coyote focus essence credit immune";

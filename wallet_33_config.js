@@ -1,1 +1,1 @@
-var mnemonic = "glory salon canyon cousin bottom daughter mountain chimney digital absurd infant parent";
+var mnemonic = "depth organ target pretty walk lizard pole olympic floor sausage sting glory";

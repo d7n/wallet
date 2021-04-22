@@ -1,1 +1,1 @@
-var mnemonic = "afford mouse grab awkward insect burst detail coffee super stay cannon purity";
+var mnemonic = "vacuum tunnel noodle into into street twin wash broccoli tourist sniff device";

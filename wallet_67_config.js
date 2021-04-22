@@ -1,1 +1,1 @@
-var mnemonic = "act conduct local seat lion scheme edit exchange license dignity define unknown";
+var mnemonic = "job hungry ostrich coast pretty evoke all accident forum proof vendor term";

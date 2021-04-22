@@ -1,1 +1,1 @@
-var mnemonic = "casual churn fashion book zone width manual trial ugly flat birth palace";
+var mnemonic = "meat multiply vicious diary exhibit unfold lemon wild fetch nephew strike abstract";

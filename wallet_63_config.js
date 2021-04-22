@@ -1,1 +1,1 @@
-var mnemonic = "digital desert venture witness joke skirt desert win kid glimpse shed post";
+var mnemonic = "wedding phone join plastic spirit cliff dog please enroll tone sketch salon";

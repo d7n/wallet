@@ -1,1 +1,1 @@
-var mnemonic = "pitch nature present code unable mixture fashion artefact brother filter merit exotic";
+var mnemonic = "clock assault uncle trim surround kid dress express reduce loyal crunch success";

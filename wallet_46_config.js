@@ -1,1 +1,1 @@
-var mnemonic = "spray cruel autumn one peasant deal sound egg real radar video idle";
+var mnemonic = "return matter slogan opinion demand flock poem garment lyrics mimic same jewel";

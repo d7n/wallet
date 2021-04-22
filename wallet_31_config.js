@@ -1,1 +1,1 @@
-var mnemonic = "verify retire pottery potato boat such echo item early rapid immense spell";
+var mnemonic = "state fantasy provide engine seed grass purchase job loan response ugly bag";

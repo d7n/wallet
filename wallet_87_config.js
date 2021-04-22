@@ -1,1 +1,1 @@
-var mnemonic = "holiday cheese sea outside dilemma citizen chaos puppy force benefit direct blame";
+var mnemonic = "fox outside youth toilet more crazy short battle portion luggage satoshi spend";

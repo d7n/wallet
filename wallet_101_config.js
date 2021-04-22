@@ -1,1 +1,1 @@
-var mnemonic = "science chase pelican music crew sword girl master census upgrade explain shock";
+var mnemonic = "erupt glove movie picture assault matrix stereo volume change about ketchup hint";

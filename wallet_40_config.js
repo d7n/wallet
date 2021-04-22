@@ -1,1 +1,1 @@
-var mnemonic = "rural fruit hawk steel affair trumpet world ability swap spot cute spell";
+var mnemonic = "attack innocent fly screen report load noble antenna nurse frown thunder spirit";

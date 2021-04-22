@@ -1,1 +1,1 @@
-var mnemonic = "recall buffalo ugly video unfold random assume barrel unusual shock assume solve";
+var mnemonic = "now sound blade category stable calm lecture melody crazy vote mixture close";

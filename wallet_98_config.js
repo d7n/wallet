@@ -1,1 +1,1 @@
-var mnemonic = "ensure lonely potato video raise borrow horse timber trim ketchup divert cannon";
+var mnemonic = "brush airport twenty elephant jealous goat snack minute utility cargo local gate";

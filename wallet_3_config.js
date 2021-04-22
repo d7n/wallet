@@ -1,1 +1,1 @@
-var mnemonic = "noodle hill major stuff punch oval toward rich surround genius daring media";
+var mnemonic = "reward alpha grain dash sugar canvas force fee near famous educate scene";

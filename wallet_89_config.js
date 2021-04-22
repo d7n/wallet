@@ -1,1 +1,1 @@
-var mnemonic = "age pass merry disease jealous burst evidence marriage alert pride worth scare";
+var mnemonic = "crisp angry fault arrow erosion exit shoe spy lava dentist pigeon clip";

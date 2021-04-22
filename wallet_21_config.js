@@ -1,1 +1,1 @@
-var mnemonic = "unusual allow fiction bus eye wide help record mushroom chalk phone grass";
+var mnemonic = "desk cage machine crazy patch camp virus course collect peanut scorpion unhappy";

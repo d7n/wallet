@@ -1,1 +1,1 @@
-var mnemonic = "mosquito satisfy around horror broken night item bullet orient ask abuse quote";
+var mnemonic = "feel suspect cotton evil mammal moral negative palm actual seven lyrics jewel";

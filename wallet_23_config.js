@@ -1,1 +1,1 @@
-var mnemonic = "injury actor today core open green valve theory disorder nation rally vanish";
+var mnemonic = "portion ecology share scrap middle wire piano mimic mother ten govern pistol";

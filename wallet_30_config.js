@@ -1,1 +1,1 @@
-var mnemonic = "accident output capital clarify glass federal method body force urge robot lyrics";
+var mnemonic = "bitter shoulder news race fitness display clutch breeze impulse fabric burger anchor";

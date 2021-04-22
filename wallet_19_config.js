@@ -1,1 +1,1 @@
-var mnemonic = "project whip uphold early feature rotate monster venue echo index fix lens";
+var mnemonic = "tilt glory argue staff easily sock drill carpet open fruit chicken raccoon";

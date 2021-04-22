@@ -1,1 +1,1 @@
-var mnemonic = "slide door retire radio wisdom swap elite resemble syrup limit strategy thunder";
+var mnemonic = "jungle meadow guard ethics grace olive volcano police fabric able economy genre";

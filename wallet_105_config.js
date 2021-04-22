@@ -1,1 +1,1 @@
-var mnemonic = "stadium mandate depart rifle couch hammer obtain crater wet present arm animal";
+var mnemonic = "alert picture boss chalk couch injury ensure reveal lawsuit virtual figure wing";

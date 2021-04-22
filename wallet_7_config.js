@@ -1,1 +1,1 @@
-var mnemonic = "switch couple you neither check tomorrow other ball brand ski click december";
+var mnemonic = "sauce swarm wrap snake ridge memory embody payment stamp bone duty novel";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket winter wave member winner thunder brisk dream canoe crazy modify street";
+var mnemonic = "shove moon fantasy logic dust refuse carbon material twenty other alone evil";

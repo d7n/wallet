@@ -1,1 +1,1 @@
-var mnemonic = "sock today during violin episode service width either embrace lend teach become";
+var mnemonic = "help stay lucky inch poverty entry sense can luxury gentle sausage inhale";

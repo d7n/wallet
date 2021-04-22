@@ -1,1 +1,1 @@
-var mnemonic = "slice uncle dilemma enough village major gate affair throw history comic access";
+var mnemonic = "mystery rookie bread item vibrant elder switch pelican urban fat glad universe";

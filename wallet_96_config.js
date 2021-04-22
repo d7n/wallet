@@ -1,1 +1,1 @@
-var mnemonic = "catalog worry remove fantasy adult taste sing toast derive snap winter draw";
+var mnemonic = "fancy fashion under embody magic february prefer unfold champion steel vacuum law";

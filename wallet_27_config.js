@@ -1,1 +1,1 @@
-var mnemonic = "first banner flower hurt throw explain giggle fitness check come warfare host";
+var mnemonic = "bullet furnace sure syrup proof tree fashion hard you weekend margin elder";

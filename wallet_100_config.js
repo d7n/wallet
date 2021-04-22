@@ -1,1 +1,1 @@
-var mnemonic = "deputy merit gap boy assist divorce silly churn disagree faint breeze juice";
+var mnemonic = "gather toast love ride army must blanket earth first tuition better ship";

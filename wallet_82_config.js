@@ -1,1 +1,1 @@
-var mnemonic = "issue foam tag once onion sphere please shadow layer middle flower walnut";
+var mnemonic = "symbol actress suffer level wisdom treat order run wing green warm birth";

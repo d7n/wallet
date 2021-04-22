@@ -1,1 +1,1 @@
-var mnemonic = "distance run layer floor festival leader drill execute extend announce spice day";
+var mnemonic = "shallow slender attend company cry grid museum siege marriage real grape hazard";

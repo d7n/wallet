@@ -1,1 +1,1 @@
-var mnemonic = "brush bottom neglect fork limit squeeze job wink gospel flavor will ride";
+var mnemonic = "reward feed bench nut truck first naive february shrimp badge snow flower";

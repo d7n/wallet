@@ -1,1 +1,1 @@
-var mnemonic = "supply arm infant reject truly chef margin endorse alley drift bracket brave";
+var mnemonic = "party steak stand praise fault person flush foil quote drift sketch lake";

@@ -1,1 +1,1 @@
-var mnemonic = "record order original field connect extra grain oppose whisper plastic paper boy";
+var mnemonic = "else blush enroll excuse monster predict ice aware fee relax usual answer";

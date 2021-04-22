@@ -1,1 +1,1 @@
-var mnemonic = "reject liberty work anchor broccoli eye fatigue protect ecology gesture consider sea";
+var mnemonic = "sell roast fever absurd foil mad today adjust audit empty exhaust fruit";

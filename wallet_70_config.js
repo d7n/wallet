@@ -1,1 +1,1 @@
-var mnemonic = "raise remove elegant march spy impact thunder save comic much woman path";
+var mnemonic = "burst plug state glimpse gossip acid express goose cart bamboo romance length";

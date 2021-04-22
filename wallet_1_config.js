@@ -1,1 +1,1 @@
-var mnemonic = "source sick admit raise design innocent trust confirm bunker close author home";
+var mnemonic = "layer birth tent into accident journey chapter charge riot federal gossip miracle";

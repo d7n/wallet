@@ -1,1 +1,1 @@
-var mnemonic = "empty churn custom monitor cruise whisper media brave ridge receive post lesson";
+var mnemonic = "eagle stone stove limit mutual badge hat thank toilet about cabbage box";

@@ -1,1 +1,1 @@
-var mnemonic = "clap sheriff excess protect soccer cause during butter ostrich fan day vague";
+var mnemonic = "camp avoid ill possible army force immense sadness educate eyebrow clown flush";

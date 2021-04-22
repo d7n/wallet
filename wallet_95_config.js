@@ -1,1 +1,1 @@
-var mnemonic = "face million quick neither merge fuel tide rescue feel table future talk";
+var mnemonic = "vast fragile buzz secret remove fence visual custom meadow cargo scene quit";

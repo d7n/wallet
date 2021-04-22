@@ -1,1 +1,1 @@
-var mnemonic = "laugh clever man swallow autumn finger vintage exclude pond broken visit obvious";
+var mnemonic = "cloud space plunge panda liquid spot foster oxygen question twenty stereo click";

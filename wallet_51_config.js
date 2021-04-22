@@ -1,1 +1,1 @@
-var mnemonic = "special lock like trick body win glue truck wink again insect tobacco";
+var mnemonic = "logic field erase move fluid skin margin fury armed unveil comic flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage hip into any crisp confirm shrimp raccoon brass neither smooth hundred";
+var mnemonic = "tilt surge visual garage keep blue length unfold spend deputy appear rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "boil patch sphere focus negative muscle business census dirt position reflect ethics";
+var mnemonic = "rose margin excuse rent margin garbage resemble melt coral grief frog answer";

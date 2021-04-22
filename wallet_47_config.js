@@ -1,1 +1,1 @@
-var mnemonic = "rule believe often hole level priority runway theme park dinner mixed inquiry";
+var mnemonic = "horror feature search silver silver wash among wish treat satoshi jacket slam";

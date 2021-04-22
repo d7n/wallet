@@ -1,1 +1,1 @@
-var mnemonic = "now science fitness soccer grace fresh lucky course pass pistol person burden";
+var mnemonic = "matrix patient van venue young valve wink load endless walk parent sense";

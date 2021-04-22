@@ -1,1 +1,1 @@
-var mnemonic = "dune fly car rocket demand middle trouble correct excite grow picture civil";
+var mnemonic = "army side arch legend output surface consider such dilemma keen paper window";

@@ -1,1 +1,1 @@
-var mnemonic = "afford local squirrel supply ladder noble human raven when crop oak love";
+var mnemonic = "lecture spray judge flock shiver glove coast gravity thunder absurd trip truck";

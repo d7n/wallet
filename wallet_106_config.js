@@ -1,1 +1,1 @@
-var mnemonic = "brush jelly deal middle soup height slide turtle vacant general gallery subway";
+var mnemonic = "stereo myself wasp fruit dove now badge cake blind trophy spirit trick";

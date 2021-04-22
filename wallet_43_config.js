@@ -1,1 +1,1 @@
-var mnemonic = "sustain undo steak confirm car photo decline beauty setup genius ecology dance";
+var mnemonic = "second step rebel husband nation hello left joy glide pass uncover lawn";

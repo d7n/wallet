@@ -1,1 +1,1 @@
-var mnemonic = "very life visit source matter witness isolate already mandate tell depend rifle";
+var mnemonic = "return kiwi dinosaur color tell hill age oblige manual pig spin tribe";

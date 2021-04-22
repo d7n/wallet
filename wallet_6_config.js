@@ -1,1 +1,1 @@
-var mnemonic = "science caution response lock scare sing cheap wet love recycle hat such";
+var mnemonic = "forward wreck question illness announce example mixed trumpet sand joke budget betray";

@@ -1,1 +1,1 @@
-var mnemonic = "earth upgrade give fold nothing tornado kiwi subway gauge ill couch certain";
+var mnemonic = "napkin eye shop want lucky orient much ensure pattern honey taste window";

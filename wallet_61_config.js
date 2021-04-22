@@ -1,1 +1,1 @@
-var mnemonic = "drop wire learn unit helmet calm there bid husband poverty hub calm";
+var mnemonic = "walnut copper hungry shy female conduct civil eager puppy seek fade barely";

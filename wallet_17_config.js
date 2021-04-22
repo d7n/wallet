@@ -1,1 +1,1 @@
-var mnemonic = "copy common country snack crumble void receive sure panel bright flash stamp";
+var mnemonic = "vacuum economy doll wasp demise access survey thrive afford seminar above mail";

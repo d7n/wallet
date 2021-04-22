@@ -1,1 +1,1 @@
-var mnemonic = "abandon issue drill cover pistol casual eagle brother short blur box inner";
+var mnemonic = "route found write fit organ same rent also shadow lobster name day";

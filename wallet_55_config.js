@@ -1,1 +1,1 @@
-var mnemonic = "auction soda salmon eager raven play crowd spice cage exhibit gap device";
+var mnemonic = "rude fox flash maximum arrow effort purchase paddle truly hawk wife grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "vanish sheriff extra family silent nation bubble chronic depend robot whip eagle";
+var mnemonic = "order beyond flee reward page keep empower upon mom yellow lunar network";

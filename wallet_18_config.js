@@ -1,1 +1,1 @@
-var mnemonic = "gaze utility mimic common ritual venture mouse speed theory fog bottom expand";
+var mnemonic = "cage liberty require matrix soul verify right orient peanut dinosaur crystal apology";

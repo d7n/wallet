@@ -1,1 +1,1 @@
-var mnemonic = "hobby vast sadness heavy feel modify miss horn era garbage public hood";
+var mnemonic = "enough focus cabin math much owner patch cherry dizzy brave goddess trumpet";

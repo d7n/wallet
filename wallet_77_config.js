@@ -1,1 +1,1 @@
-var mnemonic = "jacket coil jelly hold power vast toss air first ancient diagram cruel";
+var mnemonic = "puppy resource bless heart isolate dress defense siege crater adult pen labor";

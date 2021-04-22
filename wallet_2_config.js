@@ -1,1 +1,1 @@
-var mnemonic = "raven audit pond able report list allow frequent decide behave bulk good";
+var mnemonic = "hover lyrics two hunt pretty certain movie coil cart badge liar donkey";

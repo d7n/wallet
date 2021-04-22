@@ -1,1 +1,1 @@
-var mnemonic = "taste float found earth athlete jewel book squeeze gloom metal debris festival";
+var mnemonic = "blue quality hedgehog glide moment march provide clean life hint orchard denial";

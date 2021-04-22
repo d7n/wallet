@@ -1,1 +1,1 @@
-var mnemonic = "vacuum impulse hedgehog badge poem believe glory spice bid brush have grass";
+var mnemonic = "unable stamp erosion frog rocket doll photo curtain sniff curtain toward sadness";

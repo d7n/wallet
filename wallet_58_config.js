@@ -1,1 +1,1 @@
-var mnemonic = "man repeat behind lamp dream pottery sight bottom chicken coin canvas tag";
+var mnemonic = "tone kiwi ten scrub melt aware street effort twist legal know moon";

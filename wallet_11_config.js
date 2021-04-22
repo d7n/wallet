@@ -1,1 +1,1 @@
-var mnemonic = "fruit coral wasp chalk say broccoli loan horn proud arrest tragic try";
+var mnemonic = "absorb chaos snack excuse common barely certain bulk stable away labor clip";

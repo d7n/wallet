@@ -1,1 +1,1 @@
-var mnemonic = "crunch permit gas then diagram bright average ketchup letter wreck machine prevent";
+var mnemonic = "effort scatter only soda unhappy fatal endless marble text mule domain bunker";
