@@ -1,1 +1,1 @@
-var mnemonic = "hobby waste bullet dust owner sniff lyrics alone delay tissue oyster priority";
+var mnemonic = "purse wall chalk develop carry question iron shoulder cinnamon add ivory custom";

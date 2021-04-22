@@ -1,1 +1,1 @@
-var mnemonic = "street course doll alcohol clever move double electric time unaware embody dentist";
+var mnemonic = "street net echo empty romance talk couple record barely budget party odor";

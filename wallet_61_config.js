@@ -1,1 +1,1 @@
-var mnemonic = "rug whale derive language liquid crime net slot clown bracket virus diagram";
+var mnemonic = "peanut time during page plastic plastic million used page try attitude vicious";

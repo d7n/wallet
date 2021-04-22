@@ -1,1 +1,1 @@
-var mnemonic = "evoke possible length year throw real suspect error egg crouch mind movie";
+var mnemonic = "chef sail artist oppose wolf comfort avocado amused canal monster slogan device";

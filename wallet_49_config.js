@@ -1,1 +1,1 @@
-var mnemonic = "resist melody pipe safe struggle able rib cluster canyon match parent robust";
+var mnemonic = "decline spell page ten talent lyrics pave chimney attend depend ripple neutral";

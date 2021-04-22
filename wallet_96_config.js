@@ -1,1 +1,1 @@
-var mnemonic = "identify ripple sweet half lab service hurry heavy warm danger advice vicious";
+var mnemonic = "pass shop supply uncover purchase pipe crop violin matrix memory explain skin";

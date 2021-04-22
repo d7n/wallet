@@ -1,1 +1,1 @@
-var mnemonic = "kitchen fatal amateur lunch ghost thrive chapter harsh claim kind pipe claw";
+var mnemonic = "tomorrow misery height cave pill present basket sound minor type virus early";

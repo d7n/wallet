@@ -1,1 +1,1 @@
-var mnemonic = "hill siege broom cross dentist medal cloud abandon deer provide thrive hen";
+var mnemonic = "west infant inhale tourist blind behind genuine cram source address oblige grit";

@@ -1,1 +1,1 @@
-var mnemonic = "civil mesh south mention patient gift utility steak flip upgrade oyster two";
+var mnemonic = "gym nephew heart exact almost brother address false mesh deliver cluster expand";

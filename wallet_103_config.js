@@ -1,1 +1,1 @@
-var mnemonic = "food auto plastic soccer weekend little admit pluck mass magnet between flat";
+var mnemonic = "soup add valley sort olive mandate casual true build change love spawn";

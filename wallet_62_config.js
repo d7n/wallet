@@ -1,1 +1,1 @@
-var mnemonic = "ostrich yard flat bench coin mountain govern craft art spawn demise accident";
+var mnemonic = "ill swarm room alert pottery cigar exist siege grocery foot matrix kitten";

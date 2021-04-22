@@ -1,1 +1,1 @@
-var mnemonic = "stem circle oppose below borrow disagree muffin depend region wealth fog worry";
+var mnemonic = "prevent fiscal amateur skull net tag mix arctic coconut thought dose video";

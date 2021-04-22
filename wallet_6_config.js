@@ -1,1 +1,1 @@
-var mnemonic = "crowd issue empower right initial fatigue much lunar whisper auction thumb inject";
+var mnemonic = "among prevent upon miracle connect beauty math pizza spoil orange actor angry";

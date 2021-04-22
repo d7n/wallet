@@ -1,1 +1,1 @@
-var mnemonic = "try life link two quarter winter measure primary priority raise draft need";
+var mnemonic = "wolf drink trouble enable pipe critic pulse embrace trouble motor turkey actor";

@@ -1,1 +1,1 @@
-var mnemonic = "alley grow brisk actress sea top pilot audit saddle degree there piece";
+var mnemonic = "theory spy mansion elder select dawn electric bundle wool mountain ten pepper";

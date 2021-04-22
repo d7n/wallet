@@ -1,1 +1,1 @@
-var mnemonic = "sustain stadium become stand chapter true soccer little borrow hazard sniff link";
+var mnemonic = "hurdle urge couch ranch shop motor oblige man reward orange original home";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel bridge chair barely laundry quantum amount liar panic impact actual endorse";
+var mnemonic = "unfold bacon draw antenna state toss inside chimney lonely remember slender resist";

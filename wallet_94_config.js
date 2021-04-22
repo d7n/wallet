@@ -1,1 +1,1 @@
-var mnemonic = "pluck creek ridge express pretty unveil victory repair slight bone mixed limb";
+var mnemonic = "winner local lunch better stove kitten tourist seat tissue gap come gold";

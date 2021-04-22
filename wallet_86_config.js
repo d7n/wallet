@@ -1,1 +1,1 @@
-var mnemonic = "lend kidney remain impact pioneer receive wasp copper bar file saddle comfort";
+var mnemonic = "sadness harbor term equal swarm pole hunt chair figure play cage ecology";

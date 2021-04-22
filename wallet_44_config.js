@@ -1,1 +1,1 @@
-var mnemonic = "monkey cat laugh angry once close soft broom paper unveil core medal";
+var mnemonic = "eternal above december spoil donor slot suggest onion clap voyage turn awkward";

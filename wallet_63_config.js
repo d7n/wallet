@@ -1,1 +1,1 @@
-var mnemonic = "advice announce test disease rival picture hold cable idea employ sing float";
+var mnemonic = "armor exercise club kiwi young mansion evolve ivory guess weapon photo lemon";

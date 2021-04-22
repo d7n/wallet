@@ -1,1 +1,1 @@
-var mnemonic = "gain pyramid mistake away vote city toilet when goose like shuffle because";
+var mnemonic = "ability wait daughter typical weather grass matrix credit energy giant cricket door";

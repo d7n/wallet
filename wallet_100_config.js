@@ -1,1 +1,1 @@
-var mnemonic = "bacon gloom search achieve maple mystery urban damp lion zone birth creek";
+var mnemonic = "axis outside account sponsor dirt diesel credit album month mirror toss castle";

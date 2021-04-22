@@ -1,1 +1,1 @@
-var mnemonic = "believe yellow clap soup forward bike claw ecology monitor space toast patch";
+var mnemonic = "motor open swarm owner upon check about bamboo final what already suit";

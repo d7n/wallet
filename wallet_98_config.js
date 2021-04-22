@@ -1,1 +1,1 @@
-var mnemonic = "dream brief welcome problem imitate embody speed upon crystal wonder fossil ivory";
+var mnemonic = "avocado together fork struggle length drama flee ignore hurry tiger disease toast";

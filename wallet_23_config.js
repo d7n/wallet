@@ -1,1 +1,1 @@
-var mnemonic = "hill snake quality token tide urban start beauty print ostrich reward purpose";
+var mnemonic = "seat abstract soda flip midnight movie toy judge trim agent gap busy";

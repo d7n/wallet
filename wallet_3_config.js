@@ -1,1 +1,1 @@
-var mnemonic = "today panda mixed ring gap chief drama wash loan dwarf inside unveil";
+var mnemonic = "marriage glory cry bullet favorite wine pulp scheme swamp right clever exact";

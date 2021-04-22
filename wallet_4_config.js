@@ -1,1 +1,1 @@
-var mnemonic = "seven mountain auto picnic erupt feel shed crucial deliver barely local bleak";
+var mnemonic = "coil melody dragon crack cook move victory unusual strong wild property remove";

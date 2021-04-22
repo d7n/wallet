@@ -1,1 +1,1 @@
-var mnemonic = "twist choice army year collect escape payment nation private sight share spoil";
+var mnemonic = "major select very select online stage police route wide owner usual volume";

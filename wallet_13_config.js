@@ -1,1 +1,1 @@
-var mnemonic = "trim ring fever chronic slow bundle genuine labor depart material visit holiday";
+var mnemonic = "anchor kitten exclude kingdom relief grant ridge grit lock actor follow extra";

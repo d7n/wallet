@@ -1,1 +1,1 @@
-var mnemonic = "cloud flavor life alien robust post yellow argue differ swamp view allow";
+var mnemonic = "hope slab wet flip chef trap smart betray inform journey episode rib";

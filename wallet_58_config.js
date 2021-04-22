@@ -1,1 +1,1 @@
-var mnemonic = "clutch tennis goat member nation puppy swear marble fortune confirm buffalo web";
+var mnemonic = "divorce dumb agent abstract frequent prefer require soon worth lobster grace spy";

@@ -1,1 +1,1 @@
-var mnemonic = "tower basic february social empty nuclear rich alpha shallow strategy manual weather";
+var mnemonic = "parade turkey bachelor group remain word carry order raven flash slide grace";

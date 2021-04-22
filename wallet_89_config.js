@@ -1,1 +1,1 @@
-var mnemonic = "secret clarify shove farm educate evoke expect east color vital lift cattle";
+var mnemonic = "library hold elegant always crew unable ready hold wave connect better hold";

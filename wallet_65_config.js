@@ -1,1 +1,1 @@
-var mnemonic = "decline tide rabbit dish coach mom patrol dry traffic spray table novel";
+var mnemonic = "tag slow taste bench relax ski rhythm collect cool affair pet trouble";

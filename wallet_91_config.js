@@ -1,1 +1,1 @@
-var mnemonic = "shrimp foil soldier galaxy pact rate blossom gaze draft hair stool bright";
+var mnemonic = "mass soldier shuffle aware lend task idea seek forget wait deliver fabric";

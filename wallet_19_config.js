@@ -1,1 +1,1 @@
-var mnemonic = "sick volume elegant design inmate write baby exchange pole eyebrow order abuse";
+var mnemonic = "hurry spice bone citizen tube unaware wagon simple pledge monster material chalk";

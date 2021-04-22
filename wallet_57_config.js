@@ -1,1 +1,1 @@
-var mnemonic = "fury finish age clay soldier view minute void bargain assume gain hover";
+var mnemonic = "glue trigger jungle kiss marriage behind unusual doll fix behave asset unveil";

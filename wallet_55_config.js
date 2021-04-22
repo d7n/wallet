@@ -1,1 +1,1 @@
-var mnemonic = "door find victory memory skill market moral fever check gain crisp kangaroo";
+var mnemonic = "merit crime surge sea nice music nephew helmet only cup blame payment";

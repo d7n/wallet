@@ -1,1 +1,1 @@
-var mnemonic = "upset mystery naive fragile sound apology again rally cushion only debate famous";
+var mnemonic = "hope maximum buffalo fringe wall left view access fitness ask session sausage";

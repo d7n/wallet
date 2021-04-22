@@ -1,1 +1,1 @@
-var mnemonic = "power giant loop sing moon receive pudding margin turn economy blur nest";
+var mnemonic = "flock cruel donate panther anchor citizen neck merge you sample slush betray";

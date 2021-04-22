@@ -1,1 +1,1 @@
-var mnemonic = "pattern march narrow casino ride animal salt shift enter spare wage beauty";
+var mnemonic = "black mom stone next unveil spice shiver dizzy piano enlist relief output";

@@ -1,1 +1,1 @@
-var mnemonic = "armor armed nose trigger crowd copper carbon kiss start stay tragic fog";
+var mnemonic = "furnace gap assault mirror vast torch army select isolate crunch receive spray";

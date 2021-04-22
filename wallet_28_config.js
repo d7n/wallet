@@ -1,1 +1,1 @@
-var mnemonic = "roof front amateur almost aunt puppy point magic license arctic craft page";
+var mnemonic = "choice ball sausage toward brisk museum rhythm sound radar danger boy purse";

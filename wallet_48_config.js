@@ -1,1 +1,1 @@
-var mnemonic = "number topple picnic fall action valid note broken distance fan correct void";
+var mnemonic = "denial glare senior wrestle crystal miracle marble virtual extend shallow minute destroy";

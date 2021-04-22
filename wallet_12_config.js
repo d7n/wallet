@@ -1,1 +1,1 @@
-var mnemonic = "degree garbage twelve ecology angry cactus lyrics load brisk settle want always";
+var mnemonic = "hover demand rival exclude wealth stool matter zoo uncover lunch loud later";

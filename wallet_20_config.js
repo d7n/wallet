@@ -1,1 +1,1 @@
-var mnemonic = "approve believe guide spirit mask minimum tube now toy donkey image jelly";
+var mnemonic = "film film tennis village put orange pause extend enroll cat rally insane";

@@ -1,1 +1,1 @@
-var mnemonic = "annual limit betray decline clarify drill stomach audit chaos auto endless garment";
+var mnemonic = "beach solid drink whisper side radar borrow biology physical citizen share tiger";

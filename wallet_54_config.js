@@ -1,1 +1,1 @@
-var mnemonic = "weapon illness phone pledge fade afford spin adjust rack method pumpkin category";
+var mnemonic = "trial gown region include enemy copper snack salt universe village lava deposit";

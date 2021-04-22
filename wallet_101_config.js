@@ -1,1 +1,1 @@
-var mnemonic = "present hand addict brush foam coin chuckle member turkey vehicle supreme drive";
+var mnemonic = "visit yard gesture smart dust street tissue allow urban another idle devote";

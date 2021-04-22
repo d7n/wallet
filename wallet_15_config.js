@@ -1,1 +1,1 @@
-var mnemonic = "alley welcome angle female little service relief few nephew head dawn trick";
+var mnemonic = "trial nut sketch act mixture garbage double wild crumble cradle explain wolf";

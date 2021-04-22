@@ -1,1 +1,1 @@
-var mnemonic = "culture trend rotate border answer during purity isolate expire thought problem absorb";
+var mnemonic = "iron oppose dirt wheat shy poverty nation erode success tourist onion churn";

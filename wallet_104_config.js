@@ -1,1 +1,1 @@
-var mnemonic = "monkey source method execute scatter source faint bullet refuse moral document poverty";
+var mnemonic = "fall order orphan kit tail warm demise consider like light item only";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt sudden upgrade code culture film warfare silly nuclear filter aim sad";
+var mnemonic = "maze zone receive region increase twist humor staff join girl core ethics";

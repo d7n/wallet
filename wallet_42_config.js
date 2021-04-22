@@ -1,1 +1,1 @@
-var mnemonic = "original curious certain concert general outer legend final cross enforce increase effort";
+var mnemonic = "comic secret math salt index evolve jealous scissors noble body decorate thank";

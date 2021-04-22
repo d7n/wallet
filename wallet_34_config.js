@@ -1,1 +1,1 @@
-var mnemonic = "talk method oblige spatial merit blind umbrella arrest toast frozen vivid people";
+var mnemonic = "legend industry endorse strike secret thing gun height uniform match evoke gloom";

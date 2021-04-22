@@ -1,1 +1,1 @@
-var mnemonic = "stick idle mosquito observe service muffin welcome element photo youth possible inside";
+var mnemonic = "journey october bubble tumble recycle soda swarm divert identify lonely vast crack";

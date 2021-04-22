@@ -1,1 +1,1 @@
-var mnemonic = "tumble wolf occur invest outside upon chest ability enroll pudding fancy differ";
+var mnemonic = "lemon this ability say brisk liar people scissors lazy air romance nerve";

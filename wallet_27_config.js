@@ -1,1 +1,1 @@
-var mnemonic = "mind anchor credit canoe business blame funny mango crazy eternal guilt desert";
+var mnemonic = "crew left middle patch song youth zone reason camera fancy dance scatter";

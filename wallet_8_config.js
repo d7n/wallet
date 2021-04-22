@@ -1,1 +1,1 @@
-var mnemonic = "illegal ugly dawn expand seminar endless tragic gossip repeat torch great shed";
+var mnemonic = "entry author path strong sketch permit receive year feed village innocent silly";

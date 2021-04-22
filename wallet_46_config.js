@@ -1,1 +1,1 @@
-var mnemonic = "spatial baby spell lucky margin alter match pumpkin night limb cherry cake";
+var mnemonic = "jaguar filter nature maple idea owner power until library reopen follow force";

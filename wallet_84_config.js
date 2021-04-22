@@ -1,1 +1,1 @@
-var mnemonic = "slab world daring submit century wild ball parent peasant wild street fever";
+var mnemonic = "image palace pottery name crater wealth front year vault jealous before maze";

@@ -1,1 +1,1 @@
-var mnemonic = "element evolve weather furnace bulk flip palace catalog nothing carpet wheat raise";
+var mnemonic = "chaos rice crisp join side rabbit gesture menu attitude inhale near reunion";

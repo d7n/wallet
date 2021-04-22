@@ -1,1 +1,1 @@
-var mnemonic = "improve possible hollow flee build fame glass fish april case slogan typical";
+var mnemonic = "olympic frame change truly strategy buzz vivid issue topple wagon near regret";

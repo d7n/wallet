@@ -1,1 +1,1 @@
-var mnemonic = "diagram verify tip sun spend dawn width enrich card alarm gossip cash";
+var mnemonic = "when lounge beauty pioneer margin reason tennis myself certain merge trip chronic";

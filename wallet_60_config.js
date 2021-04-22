@@ -1,1 +1,1 @@
-var mnemonic = "punch join riot train kiwi feed cream core success this antenna exhibit";
+var mnemonic = "laundry dice luxury hurt essence margin lab gun apology holiday often alarm";

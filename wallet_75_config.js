@@ -1,1 +1,1 @@
-var mnemonic = "few program stool group multiply wall shoe birth helmet fiber have rescue";
+var mnemonic = "execute indoor happy taste include summer oppose right finish settle catalog grief";

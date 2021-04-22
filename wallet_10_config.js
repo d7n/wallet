@@ -1,1 +1,1 @@
-var mnemonic = "ice quit hint loan diet engine dolphin sock polar issue cupboard call";
+var mnemonic = "copy fury expand sugar belt sudden save good vibrant can make rebuild";

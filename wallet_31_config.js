@@ -1,1 +1,1 @@
-var mnemonic = "obtain fury torch fuel hood staff run stadium mirror grace iron try";
+var mnemonic = "silly drum slogan giraffe promote bright crew banner tonight squirrel view draft";

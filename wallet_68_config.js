@@ -1,1 +1,1 @@
-var mnemonic = "wall siege fiscal battle empty rate museum spring water obey reopen concert";
+var mnemonic = "same always need melody job occur family remove educate maze legal slim";

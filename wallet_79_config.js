@@ -1,1 +1,1 @@
-var mnemonic = "mosquito medal magnet crawl network resist similar drive scrub now label keep";
+var mnemonic = "visual aerobic poverty addict chapter brisk carbon method snake dish select traffic";

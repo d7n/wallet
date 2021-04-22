@@ -1,1 +1,1 @@
-var mnemonic = "jealous cover radar section market snow beauty syrup target liquid eye capital";
+var mnemonic = "amount multiply thrive south okay come hint gather purse tired town fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb dash bag duck renew gospel exit ticket behave battle worth blade";
+var mnemonic = "valve jump zone notice picture elevator card afford alone multiply girl match";

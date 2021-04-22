@@ -1,1 +1,1 @@
-var mnemonic = "involve lock simple fame snap purchase engage round citizen buffalo skill body";
+var mnemonic = "rebel hedgehog train raise borrow shine then mail volume domain super caught";

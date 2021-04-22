@@ -1,1 +1,1 @@
-var mnemonic = "welcome cross salon admit garlic unique sister wife volcano science flush laundry";
+var mnemonic = "animal bitter festival muscle zone pair permit taxi fault shallow steel syrup";

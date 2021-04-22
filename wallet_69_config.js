@@ -1,1 +1,1 @@
-var mnemonic = "size slow first sorry lock gauge symbol cruel tilt sister course ancient";
+var mnemonic = "strong price owner toilet shift isolate health lemon broom route hand audit";

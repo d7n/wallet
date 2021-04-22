@@ -1,1 +1,1 @@
-var mnemonic = "undo keep maximum learn come deer column tide miss couple weather tower";
+var mnemonic = "tool child wreck party reduce casino scatter donate normal notable wrong thank";

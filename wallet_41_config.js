@@ -1,1 +1,1 @@
-var mnemonic = "much bread gaze control update double harbor topic arctic clap keen shove";
+var mnemonic = "gather bus rabbit slice cinnamon eagle access awake other chimney transfer accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "quit next machine end dilemma twenty furnace saddle vocal topic midnight leaf";
+var mnemonic = "summer sugar approve marine impose increase major nice video super antique reform";

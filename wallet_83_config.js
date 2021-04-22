@@ -1,1 +1,1 @@
-var mnemonic = "yard lonely egg ski awesome home message volcano shrug harsh pioneer steak";
+var mnemonic = "sleep soldier slide notice wrong butter cover boring woman learn series total";

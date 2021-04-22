@@ -1,1 +1,1 @@
-var mnemonic = "resemble walk hurdle divert winter captain famous job vivid hello dose cloth";
+var mnemonic = "balcony satisfy control wrong rival arm order ceiling romance person shell double";

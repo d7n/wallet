@@ -1,1 +1,1 @@
-var mnemonic = "typical flavor mule toe tunnel erase wrong wine quantum find metal train";
+var mnemonic = "arrest prepare burden town super betray salt matter into voice laptop cool";

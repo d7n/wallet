@@ -1,1 +1,1 @@
-var mnemonic = "figure fitness grant theme gadget noodle tonight episode admit repeat valley pepper";
+var mnemonic = "system crawl ask strike begin shine champion tiny list forest cradle eight";

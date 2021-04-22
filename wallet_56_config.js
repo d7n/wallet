@@ -1,1 +1,1 @@
-var mnemonic = "interest bitter enable recipe wing fire credit flat tone salt found wash";
+var mnemonic = "unknown ship solution cable develop stand amount three title mammal security second";

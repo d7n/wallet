@@ -1,1 +1,1 @@
-var mnemonic = "bicycle liquid foam trend humor ride divorce elephant bulk menu gadget please";
+var mnemonic = "rural coil wrap exist essence normal say genius smart milk shop wise";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney narrow throw salute blade obvious rocket annual object firm nominee fine";
+var mnemonic = "sheriff permit abuse online merge siren deliver render spawn flip salt leave";
