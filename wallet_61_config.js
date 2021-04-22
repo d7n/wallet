@@ -1,1 +1,1 @@
-var mnemonic = "welcome shrimp you giant denial squeeze arrest type sense dog lunar blame";
+var mnemonic = "analyst glad ginger public grass asthma quarter wink egg position dream muffin";

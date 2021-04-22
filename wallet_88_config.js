@@ -1,1 +1,1 @@
-var mnemonic = "cloth depth sing elevator sorry lab genius tiny sure must ecology world";
+var mnemonic = "move evil problem scatter involve patient theme rug analyst apology below joke";

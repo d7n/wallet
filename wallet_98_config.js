@@ -1,1 +1,1 @@
-var mnemonic = "measure leader before sponsor post want sight rebuild game awesome wedding motor";
+var mnemonic = "speak august parent grunt cat laundry apple turkey carbon raw lonely fatal";

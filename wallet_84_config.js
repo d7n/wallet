@@ -1,1 +1,1 @@
-var mnemonic = "muffin true load spell mirror relax spirit shy shoe hockey six annual";
+var mnemonic = "album fortune busy ride refuse salon expect notice flip pumpkin shop bacon";

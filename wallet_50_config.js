@@ -1,1 +1,1 @@
-var mnemonic = "depart track learn timber already quote enable embark follow welcome promote praise";
+var mnemonic = "love very worth wool cycle tenant south kangaroo voyage clock destroy hill";

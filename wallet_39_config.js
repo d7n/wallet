@@ -1,1 +1,1 @@
-var mnemonic = "night palm explain panther affair cabin olympic between image such orphan sentence";
+var mnemonic = "tool endorse trust series case rug name route fee define consider equal";

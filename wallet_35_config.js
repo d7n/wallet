@@ -1,1 +1,1 @@
-var mnemonic = "ripple skull beyond theme miss position depart endorse blue aerobic explain slam";
+var mnemonic = "float course garment blur board salmon flock core space fault planet record";

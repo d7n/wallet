@@ -1,1 +1,1 @@
-var mnemonic = "hope strike then gate put coconut first practice cart mandate solid oven";
+var mnemonic = "mixture knock tackle rural urban check cost vault suspect ankle deliver turkey";

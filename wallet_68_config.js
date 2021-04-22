@@ -1,1 +1,1 @@
-var mnemonic = "essence polar will swing guess purity update museum target trumpet diamond card";
+var mnemonic = "fury mansion salad beach sting usage tag mango witness frame ring skin";

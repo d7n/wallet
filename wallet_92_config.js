@@ -1,1 +1,1 @@
-var mnemonic = "faint attract mammal food genre shoe smooth close hole dilemma fuel census";
+var mnemonic = "act local spatial jealous make script mixed cram matter chimney clutch session";

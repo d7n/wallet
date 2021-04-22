@@ -1,1 +1,1 @@
-var mnemonic = "alcohol present step fringe oak crew trophy night theme neutral okay wealth";
+var mnemonic = "save sad industry gain silver senior veteran target friend element man frequent";

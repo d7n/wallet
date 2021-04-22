@@ -1,1 +1,1 @@
-var mnemonic = "victory put clock review joy short busy unfold beef hobby uniform cactus";
+var mnemonic = "good maze second witness decorate empty west orchard educate walk style save";

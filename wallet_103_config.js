@@ -1,1 +1,1 @@
-var mnemonic = "april pitch pond crawl valley expect flock obey peanut chat lady table";
+var mnemonic = "major toy decide course rich draft knock decide hamster barrel habit unfair";

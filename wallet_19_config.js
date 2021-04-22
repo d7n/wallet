@@ -1,1 +1,1 @@
-var mnemonic = "answer cave silly bracket flavor owner brick dress until scene write april";
+var mnemonic = "off turkey sphere stadium valley immune circle pottery buzz lens twelve green";

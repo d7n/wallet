@@ -1,1 +1,1 @@
-var mnemonic = "brand people elephant yard goose seminar adapt hub abandon state dignity scale";
+var mnemonic = "vacuum neglect credit laptop concert typical expand initial link october solution main";

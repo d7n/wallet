@@ -1,1 +1,1 @@
-var mnemonic = "ranch special hurdle brush road uncle genius radio correct fatal knock long";
+var mnemonic = "bachelor hazard gather emerge flower timber december address friend lumber involve under";

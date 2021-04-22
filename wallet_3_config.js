@@ -1,1 +1,1 @@
-var mnemonic = "improve regret endless omit forget park stamp acoustic pelican chat visit target";
+var mnemonic = "fade pupil cruise run host clog valid knock name future cry sand";

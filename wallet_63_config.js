@@ -1,1 +1,1 @@
-var mnemonic = "enroll desk direct live level exchange sad fame viable game cram coyote";
+var mnemonic = "smile consider suggest exchange write load verb carbon veteran onion sunset net";

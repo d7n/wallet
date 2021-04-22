@@ -1,1 +1,1 @@
-var mnemonic = "sentence tent cupboard puzzle comic mesh dolphin impulse business inhale enlist when";
+var mnemonic = "gentle demise eagle firm chimney replace receive over world industry fluid person";

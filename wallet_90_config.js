@@ -1,1 +1,1 @@
-var mnemonic = "head pyramid quarter sadness ice struggle neck two matter science health ski";
+var mnemonic = "flock vibrant rather surround camp chef purse then sail pool twist slab";

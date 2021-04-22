@@ -1,1 +1,1 @@
-var mnemonic = "grow output outside senior craft drum sick type venture mobile hill ghost";
+var mnemonic = "tray believe decrease shift armor vast soup wisdom can shrimp glad chase";

@@ -1,1 +1,1 @@
-var mnemonic = "trash foot annual phone odor foot crumble announce tired now very public";
+var mnemonic = "alien insane salute pigeon estate joke problem dune skirt chronic olympic palace";

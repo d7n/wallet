@@ -1,1 +1,1 @@
-var mnemonic = "olive person alter giggle consider payment differ mango retire time toe market";
+var mnemonic = "differ galaxy shy horror wall radio include bullet chimney panic bunker alone";

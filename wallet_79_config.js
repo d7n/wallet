@@ -1,1 +1,1 @@
-var mnemonic = "cigar clown please cousin cliff dutch empty grunt cereal write marine access";
+var mnemonic = "capital improve column clock garment recipe crash seven radar inquiry plate frog";

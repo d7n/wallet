@@ -1,1 +1,1 @@
-var mnemonic = "bacon domain addict off polar shrimp proof rude rookie cricket old face";
+var mnemonic = "insect enact they own oyster nerve document club hurdle capable discover buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot portion pattern ship skill matrix blade glad into dragon produce soda";
+var mnemonic = "coin hint wet shaft viable trend smile tobacco eternal private tongue infant";

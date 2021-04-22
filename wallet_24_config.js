@@ -1,1 +1,1 @@
-var mnemonic = "comfort produce saddle brush select admit unit sketch truly evidence seven grace";
+var mnemonic = "skill spike junior board creek raccoon this universe glimpse brain weird toast";

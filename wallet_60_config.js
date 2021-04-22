@@ -1,1 +1,1 @@
-var mnemonic = "funny actor basic wood tree april dial tobacco gloom smart entry energy";
+var mnemonic = "universe tiny obey deputy network spirit cinnamon muscle inherit engage auction alpha";

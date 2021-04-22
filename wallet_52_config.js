@@ -1,1 +1,1 @@
-var mnemonic = "diet own alarm front awkward initial oyster basket stick gift day medal";
+var mnemonic = "subway income frown layer fish flee cute curious like lady hamster blood";

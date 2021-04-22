@@ -1,1 +1,1 @@
-var mnemonic = "stay universe glide bench idea exile mesh erosion husband document laugh battle";
+var mnemonic = "gift kingdom upper gain rally dial float mistake quarter apple liberty client";

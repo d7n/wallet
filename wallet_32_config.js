@@ -1,1 +1,1 @@
-var mnemonic = "since neutral nothing hidden buyer nothing humor order island total guilt spoon";
+var mnemonic = "rabbit unaware sorry egg inflict river avocado arm smart urban stomach amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra accident plate cool then very spatial egg initial valve nature custom";
+var mnemonic = "feel muffin possible pave equip cabin find angry lottery lake filter nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "garage dog path echo verb orange always skull blame uncle dragon picture";
+var mnemonic = "reflect omit gentle glimpse custom taxi provide dash review music seminar steak";

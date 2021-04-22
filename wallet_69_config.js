@@ -1,1 +1,1 @@
-var mnemonic = "explain display strategy mouse seed math health tank spring again wedding carbon";
+var mnemonic = "kiwi kitten gesture master cheap pen alcohol home obey letter useful giggle";

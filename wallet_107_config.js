@@ -1,1 +1,1 @@
-var mnemonic = "high equip reform rent vibrant dinosaur decrease wreck dream husband moral minute";
+var mnemonic = "tip nominee prosper motor crisp stuff capable tail worth scan clarify inherit";

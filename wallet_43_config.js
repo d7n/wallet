@@ -1,1 +1,1 @@
-var mnemonic = "fly buyer crumble tackle bomb pride hire mirror space metal boring dog";
+var mnemonic = "taste humor sponsor believe enter kid dose subject rack exhaust pull task";

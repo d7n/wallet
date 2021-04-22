@@ -1,1 +1,1 @@
-var mnemonic = "violin pilot spoil square diesel front because kind upgrade clock dwarf jealous";
+var mnemonic = "fringe surround immune abuse ceiling invite enrich second supply boss burst matrix";

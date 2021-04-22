@@ -1,1 +1,1 @@
-var mnemonic = "shoulder million fee useful future stereo rent october two grain small border";
+var mnemonic = "target feel there glory elevator glide oxygen have obvious trigger faculty sort";

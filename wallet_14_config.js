@@ -1,1 +1,1 @@
-var mnemonic = "matrix spend renew move ecology where age cook achieve giggle news valid";
+var mnemonic = "more huge flash twin stage promote truth nation guilt trick fiscal ripple";

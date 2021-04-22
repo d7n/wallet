@@ -1,1 +1,1 @@
-var mnemonic = "penalty axis ski empower cup obey dish young swarm green butter false";
+var mnemonic = "few oval kite shiver pretty strategy glare orbit silk essay make rubber";

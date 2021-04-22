@@ -1,1 +1,1 @@
-var mnemonic = "ticket end symptom cereal actor trouble similar slim romance mosquito trial oval";
+var mnemonic = "oblige scatter siege add shop federal practice length admit drastic blue canvas";

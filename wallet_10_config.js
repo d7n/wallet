@@ -1,1 +1,1 @@
-var mnemonic = "only local boost creek feed girl wheat token there fury repair crucial";
+var mnemonic = "able involve scout web few trigger sun debate rigid cancel gap oil";

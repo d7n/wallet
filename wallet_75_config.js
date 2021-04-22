@@ -1,1 +1,1 @@
-var mnemonic = "hood hedgehog flavor arrange artwork sketch oil lawn secret indoor mansion quarter";
+var mnemonic = "jaguar stomach soda pull vast cargo extend lab silent hover tiger baby";

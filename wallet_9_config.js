@@ -1,1 +1,1 @@
-var mnemonic = "improve meat plug glimpse feed fitness joke exchange conduct cigar country loan";
+var mnemonic = "forward nominee insane force horror other essay kitten object feel place balcony";

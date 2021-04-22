@@ -1,1 +1,1 @@
-var mnemonic = "ribbon box pulse angry achieve couch swarm distance plunge urge strategy cart";
+var mnemonic = "romance smart solve host screen guess various cactus stage ridge layer planet";

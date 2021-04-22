@@ -1,1 +1,1 @@
-var mnemonic = "fun promote loyal certain issue cattle window bulb thumb maximum squeeze force";
+var mnemonic = "chronic swing image bulk review action decorate adapt dove vessel muscle inmate";

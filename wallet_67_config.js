@@ -1,1 +1,1 @@
-var mnemonic = "belt viable custom accuse lab stereo window discover profit guard joke fox";
+var mnemonic = "demise syrup valve want magnet wage shoulder defy dolphin mobile immune electric";

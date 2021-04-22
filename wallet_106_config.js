@@ -1,1 +1,1 @@
-var mnemonic = "hen fire priority divert idea proud push version image uncle orbit fee";
+var mnemonic = "long fresh toilet shoulder payment garage novel claim forget stem yellow invest";

@@ -1,1 +1,1 @@
-var mnemonic = "provide monster dolphin roast bubble onion snow muscle nation impose insect pear";
+var mnemonic = "remove guard much tip tragic sudden rule donate file stock nephew arena";

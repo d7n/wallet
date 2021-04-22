@@ -1,1 +1,1 @@
-var mnemonic = "obvious soldier treat near blur furnace popular powder love lumber original armed";
+var mnemonic = "orange powder badge index night reason fence palace wheel boost boy shoot";

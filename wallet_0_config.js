@@ -1,1 +1,1 @@
-var mnemonic = "enrich select velvet cheese thumb toe sound still sadness churn juice drama";
+var mnemonic = "denial wet doctor copper poverty donor liar blade harsh supreme close degree";

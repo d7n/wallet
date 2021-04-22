@@ -1,1 +1,1 @@
-var mnemonic = "short culture call chalk amateur produce dwarf slide alone cluster mansion never";
+var mnemonic = "stomach gain little music spike slush similar icon sea nurse gun rapid";

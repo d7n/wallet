@@ -1,1 +1,1 @@
-var mnemonic = "wrist carbon improve afford amount invest hire enjoy develop ski grain museum";
+var mnemonic = "found faith relax air eternal bundle luxury one fever slight year member";

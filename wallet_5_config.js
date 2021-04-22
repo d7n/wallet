@@ -1,1 +1,1 @@
-var mnemonic = "shy cluster empower doctor kitchen seat hockey height rotate wealth marine evoke";
+var mnemonic = "spray feel grid dinner display video hour play peasant scrap black verb";

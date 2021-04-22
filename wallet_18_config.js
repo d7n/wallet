@@ -1,1 +1,1 @@
-var mnemonic = "ethics omit daughter already need focus nose exclude price book fancy together";
+var mnemonic = "dragon proud twist scale claim famous engine diamond velvet flame pelican cigar";

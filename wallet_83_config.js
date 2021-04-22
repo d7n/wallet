@@ -1,1 +1,1 @@
-var mnemonic = "six clog ladder tortoise identify group torch behave giggle document fix motion";
+var mnemonic = "power bulk swallow size video peasant speed predict toddler gown talk enact";

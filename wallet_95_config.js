@@ -1,1 +1,1 @@
-var mnemonic = "toy sea strong shift print path minimum erosion aim dose friend vacant";
+var mnemonic = "choice fancy struggle pulp fringe cart you clutch parrot unaware also cake";

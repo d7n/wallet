@@ -1,1 +1,1 @@
-var mnemonic = "armor decorate soldier foot outside cruise keep junior blame shiver evolve clarify";
+var mnemonic = "whisper response whale tomorrow auto dove august knee village risk scatter possible";

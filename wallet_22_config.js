@@ -1,1 +1,1 @@
-var mnemonic = "clever there adapt notice blue require rubber motion nature large hope two";
+var mnemonic = "dutch load banner circle onion vehicle clown nerve employ night leisure emerge";

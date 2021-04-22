@@ -1,1 +1,1 @@
-var mnemonic = "injury bench street enlist expire also test drive invite diamond crew pond";
+var mnemonic = "faculty escape tomato salon mystery air vivid inhale episode any thunder mask";

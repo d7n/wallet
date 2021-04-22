@@ -1,1 +1,1 @@
-var mnemonic = "lucky exact you dune burst saddle weird dragon original kingdom pigeon quarter";
+var mnemonic = "weapon depth note ribbon arrive absurd lyrics shift only chalk myself scissors";

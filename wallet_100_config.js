@@ -1,1 +1,1 @@
-var mnemonic = "boss use recall stem cool scout elegant slim equal shoe load canal";
+var mnemonic = "giraffe year traffic spare detect box please way onion gather original flock";

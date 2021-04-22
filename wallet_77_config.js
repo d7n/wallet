@@ -1,1 +1,1 @@
-var mnemonic = "argue ladder enough segment ocean subject aerobic nest position cotton unfold there";
+var mnemonic = "crane inspire offer minute struggle rebuild present remind follow genius rice merit";

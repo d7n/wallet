@@ -1,1 +1,1 @@
-var mnemonic = "away razor say skate bamboo rabbit faith police between heart lock detect";
+var mnemonic = "excuse relief swing park parent faint album gift retire river muffin lake";

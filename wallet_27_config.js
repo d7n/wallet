@@ -1,1 +1,1 @@
-var mnemonic = "slender stomach stage alien trumpet critic autumn rigid mother mistake shallow manage";
+var mnemonic = "recall sound rain comfort move blind novel tobacco deer point sign thunder";

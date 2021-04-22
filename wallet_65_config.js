@@ -1,1 +1,1 @@
-var mnemonic = "matter horror gallery else come fetch rhythm side father expose enact sword";
+var mnemonic = "arctic cloth chalk solar this plug fit drift seed twin creek remove";

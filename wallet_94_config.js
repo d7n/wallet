@@ -1,1 +1,1 @@
-var mnemonic = "harbor side license bean hundred abandon early sudden choice sketch sun busy";
+var mnemonic = "hazard neutral hire income boring puppy client zebra found opera burden image";

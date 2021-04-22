@@ -1,1 +1,1 @@
-var mnemonic = "parent polar craft clutch monkey limb reject tag move future mule discover";
+var mnemonic = "lock uncle vessel liar begin credit wheat swift pencil initial tonight float";

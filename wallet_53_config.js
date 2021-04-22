@@ -1,1 +1,1 @@
-var mnemonic = "predict fatigue siren upper fog demand practice spring pupil season argue soup";
+var mnemonic = "yellow crowd diagram wreck pig still unhappy orange violin broom ranch acoustic";

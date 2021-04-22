@@ -1,1 +1,1 @@
-var mnemonic = "sell magnet ride hint announce bubble have payment picnic exchange culture nephew";
+var mnemonic = "spoon welcome congress course license keep icon sing reflect educate sock oak";

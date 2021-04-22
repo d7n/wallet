@@ -1,1 +1,1 @@
-var mnemonic = "kidney ticket photo hero antique erosion wreck unit frame knock odor december";
+var mnemonic = "upper immune loud update seven humble chunk predict fit crucial silver auto";

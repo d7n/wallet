@@ -1,1 +1,1 @@
-var mnemonic = "area involve rose satoshi bicycle that boy soda message six rice session";
+var mnemonic = "capable frame stereo silk boy civil ridge property utility room amount source";

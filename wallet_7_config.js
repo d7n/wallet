@@ -1,1 +1,1 @@
-var mnemonic = "rhythm recipe dad wonder flee property stool upon symptom spare patient radar";
+var mnemonic = "powder brave olive come nature nuclear enable twin liar there account zone";

@@ -1,1 +1,1 @@
-var mnemonic = "mass kit humble rifle refuse chase invest save wish scorpion letter tide";
+var mnemonic = "arrive solve put section slice typical damage donor window balance quote leopard";

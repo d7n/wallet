@@ -1,1 +1,1 @@
-var mnemonic = "practice slogan float label trigger hub universe doctor convince develop fine note";
+var mnemonic = "arena just student rule car flavor alien train orient mass purse cart";

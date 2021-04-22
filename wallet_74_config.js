@@ -1,1 +1,1 @@
-var mnemonic = "truly spider quick breeze squeeze maximum patrol exact invite maze punch model";
+var mnemonic = "harsh flag vague display recall impose father pupil knee find quote custom";

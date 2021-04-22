@@ -1,1 +1,1 @@
-var mnemonic = "little glide future fever wisdom health juice easy saddle reflect tail squeeze";
+var mnemonic = "knee coil beach guard liquid banana live enlist install emerge capital attend";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork club crisp congress merry pulse raven sun force panic replace turn";
+var mnemonic = "visit differ useless chase help cram food onion circle hidden regret any";

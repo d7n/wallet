@@ -1,1 +1,1 @@
-var mnemonic = "dress search drift story hobby half pilot either enlist portion vast betray";
+var mnemonic = "ritual outer best explain infant call noodle rely priority agree segment gun";

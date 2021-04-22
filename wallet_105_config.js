@@ -1,1 +1,1 @@
-var mnemonic = "extend dry liquid reject glide acoustic birth hunt liquid very catch hazard";
+var mnemonic = "frog gallery rail orphan metal keen insane also kingdom absurd prison rookie";

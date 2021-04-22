@@ -1,1 +1,1 @@
-var mnemonic = "raccoon curious shift brass earn wait bus knock orient path prepare doctor";
+var mnemonic = "stadium cable team squeeze excite catch negative anger hawk donor skill stone";

@@ -1,1 +1,1 @@
-var mnemonic = "clay diagram film chuckle lawsuit square payment load tennis mail grunt leave";
+var mnemonic = "surround level march case maximum drastic pact barely arctic major brother bronze";

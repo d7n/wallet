@@ -1,1 +1,1 @@
-var mnemonic = "naive argue chuckle level enroll mountain coil cry road mention scare salon";
+var mnemonic = "buzz shield oblige whip tube friend danger funny decline prison twin chair";

@@ -1,1 +1,1 @@
-var mnemonic = "age near various wait transfer clay sunset soft admit night fatigue tomorrow";
+var mnemonic = "next total hub item green giggle height ethics tilt inform raise gather";

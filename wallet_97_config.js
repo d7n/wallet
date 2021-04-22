@@ -1,1 +1,1 @@
-var mnemonic = "giraffe resource price frozen evil manual flash grape world early box hill";
+var mnemonic = "there boost interest legend name stamp caution keep dirt debate hub mean";

@@ -1,1 +1,1 @@
-var mnemonic = "happy mom cloud hurdle share memory manual canoe topple adult month silver";
+var mnemonic = "crucial era point poet blur inherit arrow wise jacket prepare birth common";

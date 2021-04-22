@@ -1,1 +1,1 @@
-var mnemonic = "abandon above decide original leisure gallery when chunk surface knock essay dilemma";
+var mnemonic = "steak language drastic that essay spatial shy spirit arm rabbit earth piano";

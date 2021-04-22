@@ -1,1 +1,1 @@
-var mnemonic = "merge wreck submit high more prepare fall hood seed balance cancel menu";
+var mnemonic = "hen clown cupboard south degree disagree entry brand vanish burst inspire tennis";

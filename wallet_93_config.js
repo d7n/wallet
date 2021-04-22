@@ -1,1 +1,1 @@
-var mnemonic = "water indoor derive furnace example muscle satoshi consider fatigue impact kangaroo easily";
+var mnemonic = "crunch left sight solid engine sorry hedgehog chef tourist result across laugh";

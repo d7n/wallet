@@ -1,1 +1,1 @@
-var mnemonic = "tonight seminar purchase phone kid swim advance hen hood concert enlist panda";
+var mnemonic = "regular mail sketch despair raven head upset noise undo weekend parent satoshi";

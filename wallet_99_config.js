@@ -1,1 +1,1 @@
-var mnemonic = "yellow modify poem lawsuit poverty various easily include right spoon glass found";
+var mnemonic = "hand spike improve uphold measure raise dose pizza bar vibrant estate raw";
