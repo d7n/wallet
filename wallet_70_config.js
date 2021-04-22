@@ -1,1 +1,1 @@
-var mnemonic = "unfold bacon draw antenna state toss inside chimney lonely remember slender resist";
+var mnemonic = "silent keen angry brush minor lift work athlete hammer drum symbol couch";

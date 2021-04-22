@@ -1,1 +1,1 @@
-var mnemonic = "jaguar filter nature maple idea owner power until library reopen follow force";
+var mnemonic = "panda crash pony scheme middle frequent neither simple rare pluck suspect hair";

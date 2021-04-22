@@ -1,1 +1,1 @@
-var mnemonic = "marriage glory cry bullet favorite wine pulp scheme swamp right clever exact";
+var mnemonic = "attend split find absorb panther session cloud motor sick fox umbrella three";

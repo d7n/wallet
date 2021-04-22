@@ -1,1 +1,1 @@
-var mnemonic = "table rough arch chaos mom twenty guide argue place confirm caught ramp";
+var mnemonic = "axis wrist artwork power glimpse general merry title tourist glimpse much ability";

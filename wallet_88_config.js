@@ -1,1 +1,1 @@
-var mnemonic = "motor open swarm owner upon check about bamboo final what already suit";
+var mnemonic = "glance diary figure patrol dish tool world love athlete filter siege idle";

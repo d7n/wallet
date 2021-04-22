@@ -1,1 +1,1 @@
-var mnemonic = "execute indoor happy taste include summer oppose right finish settle catalog grief";
+var mnemonic = "cabin earth connect silk luggage wreck slogan peasant monster smart spread salon";

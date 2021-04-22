@@ -1,1 +1,1 @@
-var mnemonic = "ill swarm room alert pottery cigar exist siege grocery foot matrix kitten";
+var mnemonic = "limit knee sugar rack lava warfare ozone speed bulb wild lobster wire";

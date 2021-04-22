@@ -1,1 +1,1 @@
-var mnemonic = "flock cruel donate panther anchor citizen neck merge you sample slush betray";
+var mnemonic = "patient polar candy exotic sail tribe antenna bomb diet angle arrest grocery";

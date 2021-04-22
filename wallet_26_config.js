@@ -1,1 +1,1 @@
-var mnemonic = "obvious used sustain vendor urban paddle artwork eagle swear juice rug reopen";
+var mnemonic = "scout aisle phone attitude can intact animal young isolate lucky deal behind";

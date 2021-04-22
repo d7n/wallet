@@ -1,1 +1,1 @@
-var mnemonic = "same always need melody job occur family remove educate maze legal slim";
+var mnemonic = "move pelican letter silly slight exhibit rocket bean club sense guess upset";

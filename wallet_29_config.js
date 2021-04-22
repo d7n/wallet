@@ -1,1 +1,1 @@
-var mnemonic = "theory spy mansion elder select dawn electric bundle wool mountain ten pepper";
+var mnemonic = "brick bullet flower lion decade elbow inform usage time jaguar solar planet";

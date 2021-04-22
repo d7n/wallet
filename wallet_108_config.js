@@ -1,1 +1,1 @@
-var mnemonic = "yellow engage current food lion sing much apart gold naive note oven";
+var mnemonic = "bullet funny hammer hurt convince damage script skate soup spare confirm dance";

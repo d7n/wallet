@@ -1,1 +1,1 @@
-var mnemonic = "middle casino romance hat thank author jelly increase fix water abstract axis";
+var mnemonic = "acoustic estate tonight raccoon sibling pole couple scheme dinosaur size other flight";

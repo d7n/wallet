@@ -1,1 +1,1 @@
-var mnemonic = "silly drum slogan giraffe promote bright crew banner tonight squirrel view draft";
+var mnemonic = "exit topple setup useful stand student east solution cloth wasp reject save";

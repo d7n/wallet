@@ -1,1 +1,1 @@
-var mnemonic = "crawl east timber chase net material success equal bamboo ostrich oxygen adjust";
+var mnemonic = "cherry peanut zone shop sentence cheese spot evolve debris pulse smile screen";

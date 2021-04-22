@@ -1,1 +1,1 @@
-var mnemonic = "arrest prepare burden town super betray salt matter into voice laptop cool";
+var mnemonic = "enroll disease call chalk future metal general chat rack jewel oyster wet";

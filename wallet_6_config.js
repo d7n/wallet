@@ -1,1 +1,1 @@
-var mnemonic = "among prevent upon miracle connect beauty math pizza spoil orange actor angry";
+var mnemonic = "picnic vessel connect various rifle tooth pencil page range very bacon zero";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb snow cheap process risk evoke claim forget afraid orchard picture abstract";
+var mnemonic = "index bachelor blue bullet penalty destroy train blood history cup idea access";

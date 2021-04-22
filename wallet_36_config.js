@@ -1,1 +1,1 @@
-var mnemonic = "rural coil wrap exist essence normal say genius smart milk shop wise";
+var mnemonic = "census harbor cherry carpet decorate rule analyst salmon public main awful net";

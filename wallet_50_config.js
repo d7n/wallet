@@ -1,1 +1,1 @@
-var mnemonic = "amazing success venture above water amused surge worth embark silent exercise weasel";
+var mnemonic = "dilemma spare bracket version crane volume rookie memory catch spin runway galaxy";

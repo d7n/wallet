@@ -1,1 +1,1 @@
-var mnemonic = "visual aerobic poverty addict chapter brisk carbon method snake dish select traffic";
+var mnemonic = "legend dinner balance vacuum option marble wrestle home dish guilt still visual";

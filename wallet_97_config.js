@@ -1,1 +1,1 @@
-var mnemonic = "furnace gap assault mirror vast torch army select isolate crunch receive spray";
+var mnemonic = "genre soft ball resist garlic orphan material reward bar razor reason excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "animal bitter festival muscle zone pair permit taxi fault shallow steel syrup";
+var mnemonic = "friend barrel ill similar they shrug only hat joke shoot letter eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "trial gown region include enemy copper snack salt universe village lava deposit";
+var mnemonic = "dilemma much movie inmate this icon chair wash zero jar junior cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "choice ball sausage toward brisk museum rhythm sound radar danger boy purse";
+var mnemonic = "flame two soup chief reveal palace mail fence job hard borrow crash";

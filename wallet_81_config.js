@@ -1,1 +1,1 @@
-var mnemonic = "lawn tackle below avocado upper right shine must fame tuition doll elder";
+var mnemonic = "honey wrist across dress skill tackle reflect useless kitchen roof marine nominee";

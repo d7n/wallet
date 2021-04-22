@@ -1,1 +1,1 @@
-var mnemonic = "floor warm loan dignity welcome piece segment ice stove relief estate renew";
+var mnemonic = "mistake van mother divorce viable protect miss phone program return age involve";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry spice bone citizen tube unaware wagon simple pledge monster material chalk";
+var mnemonic = "rely brick hard reward minute exist helmet taste century discover vital enjoy";

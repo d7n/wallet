@@ -1,1 +1,1 @@
-var mnemonic = "coil melody dragon crack cook move victory unusual strong wild property remove";
+var mnemonic = "possible bargain still wasp fringe laptop bargain chapter erase draw ordinary spread";

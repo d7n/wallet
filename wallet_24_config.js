@@ -1,1 +1,1 @@
-var mnemonic = "hope slab wet flip chef trap smart betray inform journey episode rib";
+var mnemonic = "measure sniff screen type casual penalty lonely swear defense sport people bomb";

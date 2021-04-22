@@ -1,1 +1,1 @@
-var mnemonic = "film film tennis village put orange pause extend enroll cat rally insane";
+var mnemonic = "appear prevent scan pencil animal ethics ensure flush cash miss unfair hero";

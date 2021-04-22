@@ -1,1 +1,1 @@
-var mnemonic = "trial nut sketch act mixture garbage double wild crumble cradle explain wolf";
+var mnemonic = "leisure stadium thank soul athlete endorse oak warrior news shove provide must";

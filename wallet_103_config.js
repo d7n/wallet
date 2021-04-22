@@ -1,1 +1,1 @@
-var mnemonic = "soup add valley sort olive mandate casual true build change love spawn";
+var mnemonic = "enter confirm inject inhale shove slender crush pepper globe wise sister large";

@@ -1,1 +1,1 @@
-var mnemonic = "gather bus rabbit slice cinnamon eagle access awake other chimney transfer accuse";
+var mnemonic = "smoke sauce release essay lake planet accuse drift shaft veteran smoke admit";

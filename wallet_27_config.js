@@ -1,1 +1,1 @@
-var mnemonic = "crew left middle patch song youth zone reason camera fancy dance scatter";
+var mnemonic = "opera sentence stuff put horn hair chuckle valley ticket case method core";

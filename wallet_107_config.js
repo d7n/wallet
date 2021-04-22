@@ -1,1 +1,1 @@
-var mnemonic = "gym nephew heart exact almost brother address false mesh deliver cluster expand";
+var mnemonic = "general faint caution love element crisp time come shallow include gauge future";

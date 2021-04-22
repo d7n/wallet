@@ -1,1 +1,1 @@
-var mnemonic = "street net echo empty romance talk couple record barely budget party odor";
+var mnemonic = "giggle antique rotate among fitness dad property fish snake current spawn involve";

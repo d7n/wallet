@@ -1,1 +1,1 @@
-var mnemonic = "beach solid drink whisper side radar borrow biology physical citizen share tiger";
+var mnemonic = "auction traffic route maple twenty able live suspect large diamond body employ";

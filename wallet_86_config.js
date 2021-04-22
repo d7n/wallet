@@ -1,1 +1,1 @@
-var mnemonic = "sadness harbor term equal swarm pole hunt chair figure play cage ecology";
+var mnemonic = "genre toddler expect team nephew know sadness monster envelope target endless slab";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff permit abuse online merge siren deliver render spawn flip salt leave";
+var mnemonic = "lamp live phrase live repair panic smoke adjust speed kick shove property";

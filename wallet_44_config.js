@@ -1,1 +1,1 @@
-var mnemonic = "eternal above december spoil donor slot suggest onion clap voyage turn awkward";
+var mnemonic = "anxiety social year quit special input rotate next raccoon absurd extra flash";

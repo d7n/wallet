@@ -1,1 +1,1 @@
-var mnemonic = "chaos rice crisp join side rabbit gesture menu attitude inhale near reunion";
+var mnemonic = "item neutral dash more gloom interest faculty charge shop leave input ridge";

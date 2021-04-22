@@ -1,1 +1,1 @@
-var mnemonic = "hint tent borrow flame donor check sand orange addict movie solve plug";
+var mnemonic = "noodle hint raven job allow load arctic flag nature cloth frozen venture";

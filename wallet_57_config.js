@@ -1,1 +1,1 @@
-var mnemonic = "glue trigger jungle kiss marriage behind unusual doll fix behave asset unveil";
+var mnemonic = "view plastic parade phone push humor deal retire fashion inhale ivory hundred";

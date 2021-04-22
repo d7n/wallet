@@ -1,1 +1,1 @@
-var mnemonic = "aim group amused comic memory victory tourist trade caught supreme inform afraid";
+var mnemonic = "note sand exchange random tonight mention name token rely solution vacant kid";

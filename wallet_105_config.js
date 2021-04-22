@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow misery height cave pill present basket sound minor type virus early";
+var mnemonic = "diet coil practice depend label enable busy exist flag hamster unveil whisper";

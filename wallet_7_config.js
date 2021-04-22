@@ -1,1 +1,1 @@
-var mnemonic = "wolf drink trouble enable pipe critic pulse embrace trouble motor turkey actor";
+var mnemonic = "tunnel valley error crew industry slot what live define bike busy grain";

@@ -1,1 +1,1 @@
-var mnemonic = "tool child wreck party reduce casino scatter donate normal notable wrong thank";
+var mnemonic = "sport confirm furnace boil woman mansion fall zero easily infant push entire";

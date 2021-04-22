@@ -1,1 +1,1 @@
-var mnemonic = "hover demand rival exclude wealth stool matter zoo uncover lunch loud later";
+var mnemonic = "sweet unable brand drive region fall believe power verify fog dirt strike";

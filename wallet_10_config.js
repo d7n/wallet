@@ -1,1 +1,1 @@
-var mnemonic = "copy fury expand sugar belt sudden save good vibrant can make rebuild";
+var mnemonic = "rapid behind beyond fun silver lottery very board ramp custom strategy bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "system crawl ask strike begin shine champion tiny list forest cradle eight";
+var mnemonic = "exact mushroom shed caution steak dry saddle fold parrot box select agent";

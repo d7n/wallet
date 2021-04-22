@@ -1,1 +1,1 @@
-var mnemonic = "entry author path strong sketch permit receive year feed village innocent silly";
+var mnemonic = "shoe smile extend clerk orphan material butter glimpse sing include frame orient";

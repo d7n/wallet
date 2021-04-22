@@ -1,1 +1,1 @@
-var mnemonic = "denial glare senior wrestle crystal miracle marble virtual extend shallow minute destroy";
+var mnemonic = "museum opera margin forest dream steak riot game cook gallery identify record";

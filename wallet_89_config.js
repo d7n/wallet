@@ -1,1 +1,1 @@
-var mnemonic = "library hold elegant always crew unable ready hold wave connect better hold";
+var mnemonic = "axis monitor feed swing juice lawsuit very blur capable special pistol rapid";

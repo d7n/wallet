@@ -1,1 +1,1 @@
-var mnemonic = "seat abstract soda flip midnight movie toy judge trim agent gap busy";
+var mnemonic = "affair gauge thunder office require butter horror blossom again metal correct desk";

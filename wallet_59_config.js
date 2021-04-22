@@ -1,1 +1,1 @@
-var mnemonic = "hurdle urge couch ranch shop motor oblige man reward orange original home";
+var mnemonic = "mixed dismiss educate arch art tiny reveal west squirrel essay axis glove";

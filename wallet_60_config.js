@@ -1,1 +1,1 @@
-var mnemonic = "laundry dice luxury hurt essence margin lab gun apology holiday often alarm";
+var mnemonic = "glimpse mushroom thing scare prize frozen any young auction essence song bid";

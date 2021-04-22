@@ -1,1 +1,1 @@
-var mnemonic = "journey october bubble tumble recycle soda swarm divert identify lonely vast crack";
+var mnemonic = "stuff three journey two topic involve major toe argue outer allow six";

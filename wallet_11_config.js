@@ -1,1 +1,1 @@
-var mnemonic = "balcony satisfy control wrong rival arm order ceiling romance person shell double";
+var mnemonic = "always battle gold snack weather property mom sponsor remind six health hood";

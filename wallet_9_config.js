@@ -1,1 +1,1 @@
-var mnemonic = "chef sail artist oppose wolf comfort avocado amused canal monster slogan device";
+var mnemonic = "iron law real cargo model soccer near athlete insect dust patrol tuna";

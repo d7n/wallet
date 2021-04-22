@@ -1,1 +1,1 @@
-var mnemonic = "fall order orphan kit tail warm demise consider like light item only";
+var mnemonic = "battle crowd game hotel accuse moral elegant path waste banana wise blush";

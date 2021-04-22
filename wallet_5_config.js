@@ -1,1 +1,1 @@
-var mnemonic = "purse wall chalk develop carry question iron shoulder cinnamon add ivory custom";
+var mnemonic = "tail iron either apology market snow escape naive index whisper busy strike";

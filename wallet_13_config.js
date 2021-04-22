@@ -1,1 +1,1 @@
-var mnemonic = "anchor kitten exclude kingdom relief grant ridge grit lock actor follow extra";
+var mnemonic = "display tuna noble source close circle glow test custom move loan iron";

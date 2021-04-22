@@ -1,1 +1,1 @@
-var mnemonic = "elder thing remember slim pill bright east eager solution jelly useless bus";
+var mnemonic = "stable true thank window merry cabbage term ignore punch fury harsh grunt";

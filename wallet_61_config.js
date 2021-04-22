@@ -1,1 +1,1 @@
-var mnemonic = "peanut time during page plastic plastic million used page try attitude vicious";
+var mnemonic = "valve early forum never raw develop wage very spawn retreat bar suit";

@@ -1,1 +1,1 @@
-var mnemonic = "merit crime surge sea nice music nephew helmet only cup blame payment";
+var mnemonic = "garden quality accuse surprise wreck gospel depth chest vocal pony various radar";

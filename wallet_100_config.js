@@ -1,1 +1,1 @@
-var mnemonic = "axis outside account sponsor dirt diesel credit album month mirror toss castle";
+var mnemonic = "observe chef dinner vital neck abandon deer oppose gate kingdom pet knee";

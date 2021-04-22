@@ -1,1 +1,1 @@
-var mnemonic = "strong price owner toilet shift isolate health lemon broom route hand audit";
+var mnemonic = "swallow hand advance indoor since alien move great attend snap stumble pyramid";

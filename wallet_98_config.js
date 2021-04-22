@@ -1,1 +1,1 @@
-var mnemonic = "avocado together fork struggle length drama flee ignore hurry tiger disease toast";
+var mnemonic = "wish host zebra absent rather tube phone feed voice blood term crazy";

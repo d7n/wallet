@@ -1,1 +1,1 @@
-var mnemonic = "hope maximum buffalo fringe wall left view access fitness ask session sausage";
+var mnemonic = "immense business asset salt village tackle assault gentle town square dash fetch";

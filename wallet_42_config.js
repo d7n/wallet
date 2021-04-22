@@ -1,1 +1,1 @@
-var mnemonic = "comic secret math salt index evolve jealous scissors noble body decorate thank";
+var mnemonic = "swarm loud beach engine elite venture age act devote extra law sight";

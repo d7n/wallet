@@ -1,1 +1,1 @@
-var mnemonic = "flash noodle skate firm raccoon black option know picture open aware build";
+var mnemonic = "citizen artwork bonus another deputy lawn nation cave until tunnel mom tennis";

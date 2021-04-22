@@ -1,1 +1,1 @@
-var mnemonic = "olympic frame change truly strategy buzz vivid issue topple wagon near regret";
+var mnemonic = "inmate inflict inch journey essay sort blue invest detail room dose paper";

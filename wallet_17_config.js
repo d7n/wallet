@@ -1,1 +1,1 @@
-var mnemonic = "trial behind alter uphold engine toilet tooth pause brave pigeon moon motor";
+var mnemonic = "faculty meadow giraffe tilt cattle major income federal note satoshi rifle rack";

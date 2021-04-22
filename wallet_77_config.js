@@ -1,1 +1,1 @@
-var mnemonic = "major select very select online stage police route wide owner usual volume";
+var mnemonic = "blossom plug off canvas glance exit rose make city element media beauty";

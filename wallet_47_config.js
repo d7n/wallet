@@ -1,1 +1,1 @@
-var mnemonic = "summer sugar approve marine impose increase major nice video super antique reform";
+var mnemonic = "spend involve rib depend chat sun floor captain trumpet employ setup uniform";

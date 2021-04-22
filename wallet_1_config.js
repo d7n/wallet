@@ -1,1 +1,1 @@
-var mnemonic = "rebel hedgehog train raise borrow shine then mail volume domain super caught";
+var mnemonic = "decide warfare leave wrist stage please piece sting crush ready illegal large";

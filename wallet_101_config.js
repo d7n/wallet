@@ -1,1 +1,1 @@
-var mnemonic = "visit yard gesture smart dust street tissue allow urban another idle devote";
+var mnemonic = "leave offer dizzy umbrella unfair reform earth tennis patrol giggle upgrade trap";

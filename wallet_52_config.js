@@ -1,1 +1,1 @@
-var mnemonic = "west infant inhale tourist blind behind genuine cram source address oblige grit";
+var mnemonic = "fix afford weasel still nephew view pioneer afraid winter rich bone saddle";

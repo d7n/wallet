@@ -1,1 +1,1 @@
-var mnemonic = "armor exercise club kiwi young mansion evolve ivory guess weapon photo lemon";
+var mnemonic = "knife sheriff faint loyal eyebrow ghost winner lift aspect awake derive charge";

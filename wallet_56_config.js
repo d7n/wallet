@@ -1,1 +1,1 @@
-var mnemonic = "unknown ship solution cable develop stand amount three title mammal security second";
+var mnemonic = "arrange crew nest later rather super current reason mad aisle security wonder";

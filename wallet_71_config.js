@@ -1,1 +1,1 @@
-var mnemonic = "chief abandon run eager bundle pigeon energy script menu tissue cycle birth";
+var mnemonic = "cereal window apple fantasy super during grid series awesome describe tool service";

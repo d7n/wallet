@@ -1,1 +1,1 @@
-var mnemonic = "parade turkey bachelor group remain word carry order raven flash slide grace";
+var mnemonic = "start castle neutral say gather water remain almost explain legend all anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep soldier slide notice wrong butter cover boring woman learn series total";
+var mnemonic = "window immune identify jelly hello grass lawsuit elegant reject squeeze physical claim";

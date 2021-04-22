@@ -1,1 +1,1 @@
-var mnemonic = "maze zone receive region increase twist humor staff join girl core ethics";
+var mnemonic = "unveil exile glory exit dumb social apart express before artwork shed unable";

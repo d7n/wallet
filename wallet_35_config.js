@@ -1,1 +1,1 @@
-var mnemonic = "rate fire debate copy hunt total art vehicle there chaos net success";
+var mnemonic = "guard minute popular science ice chunk gate genre mesh again metal exact";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery excuse fork demand prevent devote cage degree enact nominee finish cruel";
+var mnemonic = "lyrics physical tube since winter disease drive wash express push brown pink";

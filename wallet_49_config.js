@@ -1,1 +1,1 @@
-var mnemonic = "decline spell page ten talent lyrics pave chimney attend depend ripple neutral";
+var mnemonic = "coffee have gate celery normal visit voyage junior dwarf doctor poet nothing";

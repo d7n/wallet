@@ -1,1 +1,1 @@
-var mnemonic = "ability wait daughter typical weather grass matrix credit energy giant cricket door";
+var mnemonic = "muscle garage tool insane inner glove glare weekend seed music double recycle";

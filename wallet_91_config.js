@@ -1,1 +1,1 @@
-var mnemonic = "mass soldier shuffle aware lend task idea seek forget wait deliver fabric";
+var mnemonic = "meadow auction valve ozone mean tooth evoke upon relax salute neck wagon";

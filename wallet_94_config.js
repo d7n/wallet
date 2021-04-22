@@ -1,1 +1,1 @@
-var mnemonic = "winner local lunch better stove kitten tourist seat tissue gap come gold";
+var mnemonic = "throw pumpkin roast desk romance spray acoustic exile camp fog dutch echo";
