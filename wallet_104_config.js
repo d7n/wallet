@@ -1,1 +1,1 @@
-var mnemonic = "cotton gossip insect run guard recall zero love swamp sudden gallery define";
+var mnemonic = "alarm edit dismiss month alert client solid bullet fabric garage advice envelope";

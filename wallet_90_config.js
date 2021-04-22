@@ -1,1 +1,1 @@
-var mnemonic = "odor soap useful this sea firm slight remain rude recipe neck snack";
+var mnemonic = "exchange report spin elder object air cotton museum police learn chase laugh";

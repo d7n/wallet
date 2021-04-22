@@ -1,1 +1,1 @@
-var mnemonic = "rabbit ginger bright pause cinnamon minor glide dice rapid violin blood hat";
+var mnemonic = "enough bread until today giraffe canoe sorry mountain unfair satisfy response miss";

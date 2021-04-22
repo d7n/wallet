@@ -1,1 +1,1 @@
-var mnemonic = "tape able later blame tape anchor inside knee erupt burger month marine";
+var mnemonic = "bitter require worth orient vocal license alarm egg negative until task fuel";

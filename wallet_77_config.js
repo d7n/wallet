@@ -1,1 +1,1 @@
-var mnemonic = "major all certain blur try luxury stumble select cradle bulb claw very";
+var mnemonic = "hungry virus blur pride size clarify ensure point volcano ethics stay beyond";

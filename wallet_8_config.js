@@ -1,1 +1,1 @@
-var mnemonic = "muffin doll about inform subject captain useless twin peace color outer cry";
+var mnemonic = "table easy tiny innocent fame genre spin rival exotic forum congress diamond";

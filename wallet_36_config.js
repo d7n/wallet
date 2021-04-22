@@ -1,1 +1,1 @@
-var mnemonic = "embark enough view leaf alley slot divorce print engine odor ketchup hollow";
+var mnemonic = "laptop genuine entry typical diamond rapid result cause ethics relief reveal snake";

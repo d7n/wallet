@@ -1,1 +1,1 @@
-var mnemonic = "mansion receive novel cute alarm adapt float idea student voyage weird select";
+var mnemonic = "benefit cat thrive abandon catch useful sponsor major eye bachelor stairs floor";

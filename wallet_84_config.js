@@ -1,1 +1,1 @@
-var mnemonic = "bench stable clock elder smart emerge enroll off level vocal trap rice";
+var mnemonic = "lecture gorilla affair injury famous whip object venue scan kitten home priority";

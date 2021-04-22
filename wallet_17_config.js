@@ -1,1 +1,1 @@
-var mnemonic = "debate betray consider stuff paper seed elbow crawl crouch machine error ten";
+var mnemonic = "sheriff visual light present donate input horn bacon disease label prevent wish";

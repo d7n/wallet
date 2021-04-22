@@ -1,1 +1,1 @@
-var mnemonic = "imitate birth like lounge fun sad place farm company foster ancient dove";
+var mnemonic = "exchange crew group satoshi traffic buzz now manage fade quarter divide merry";

@@ -1,1 +1,1 @@
-var mnemonic = "join current piano penalty odor nest slice knife okay enemy yellow rich";
+var mnemonic = "van gift ugly exhaust oval knife flush wife argue have wedding tomorrow";

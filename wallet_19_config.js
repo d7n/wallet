@@ -1,1 +1,1 @@
-var mnemonic = "abuse art payment sleep lend usage minimum month organ recall tired heavy";
+var mnemonic = "olympic girl stuff guitar aim typical uniform health hunt crane section attend";

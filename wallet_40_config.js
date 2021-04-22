@@ -1,1 +1,1 @@
-var mnemonic = "invest hint wood december joy soul mountain suspect churn expose appear eternal";
+var mnemonic = "dog hurt warrior enter between wine tooth kid device wise main skull";

@@ -1,1 +1,1 @@
-var mnemonic = "mind spike room lake claw joy avoid vivid apple enlist picnic bone";
+var mnemonic = "little tongue round quick stem fork scheme hill strong current sick honey";

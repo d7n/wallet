@@ -1,1 +1,1 @@
-var mnemonic = "scrub ramp trust elephant frame surge explain dance evoke hobby scene fortune";
+var mnemonic = "bacon wheel march source sample close name pride hidden mirror unlock garbage";

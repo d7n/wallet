@@ -1,1 +1,1 @@
-var mnemonic = "ring blur cheese smooth maple leg dream tip young dizzy cricket neither";
+var mnemonic = "asthma capable coast real budget badge canoe sauce reunion final certain luxury";

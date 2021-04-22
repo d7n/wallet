@@ -1,1 +1,1 @@
-var mnemonic = "tilt economy adjust hunt civil shrug sniff business position pair bamboo link";
+var mnemonic = "fall thing distance crawl skin victory sentence crumble marble betray decide depend";

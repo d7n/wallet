@@ -1,1 +1,1 @@
-var mnemonic = "pony acoustic tank blast orchard dismiss found pigeon excess hour boring caught";
+var mnemonic = "result defense near pepper mail bid viable horse unveil bright excuse stomach";

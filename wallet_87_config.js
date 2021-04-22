@@ -1,1 +1,1 @@
-var mnemonic = "flight affair minor undo carry hungry educate luggage inner win fortune success";
+var mnemonic = "menu unhappy basket announce upper custom fall must leisure wage panel demise";

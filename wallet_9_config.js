@@ -1,1 +1,1 @@
-var mnemonic = "radar rather mushroom sudden tower shift noodle usage dawn domain awake struggle";
+var mnemonic = "feature jealous bicycle parent access laundry sing wrist east cry sauce liar";

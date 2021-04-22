@@ -1,1 +1,1 @@
-var mnemonic = "emotion convince fence please radar must garbage agent nut talk evidence rather";
+var mnemonic = "artefact extra tooth disease vast grain mercy mirror riot faculty spider amateur";

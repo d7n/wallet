@@ -1,1 +1,1 @@
-var mnemonic = "forum dinosaur smart enjoy spot mixture payment beef velvet snack scheme snack";
+var mnemonic = "clinic sense olive donate veteran aerobic voice plunge pulse whisper curve rocket";

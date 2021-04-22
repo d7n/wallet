@@ -1,1 +1,1 @@
-var mnemonic = "blue crack unique dentist saddle rice chest unveil trophy mango quantum emotion";
+var mnemonic = "raw burger volcano view cement honey pet lawsuit erode hollow volume margin";

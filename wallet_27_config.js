@@ -1,1 +1,1 @@
-var mnemonic = "very title toy mother gossip route tennis target cost pelican excuse extra";
+var mnemonic = "express cycle garment vacant attract donkey service sadness unlock tobacco pupil stumble";

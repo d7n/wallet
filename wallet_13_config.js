@@ -1,1 +1,1 @@
-var mnemonic = "betray wait endless history unable infant coffee snow vanish capable trap dad";
+var mnemonic = "bomb legal solve dinner region hockey prefer report submit wasp energy know";

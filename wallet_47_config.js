@@ -1,1 +1,1 @@
-var mnemonic = "main clerk twist run style pioneer fancy amazing grape frog vehicle weird";
+var mnemonic = "rack moon educate cancel promote angle vibrant talk october kangaroo flock tornado";

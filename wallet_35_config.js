@@ -1,1 +1,1 @@
-var mnemonic = "resemble cry story bachelor vessel embody pupil ready sorry rabbit afraid fit";
+var mnemonic = "write rescue warrior winner pull bread clock wash canvas decline canoe bean";

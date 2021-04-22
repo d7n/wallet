@@ -1,1 +1,1 @@
-var mnemonic = "trigger can castle steel piano bright train language arrange correct involve jaguar";
+var mnemonic = "ugly umbrella fury action ripple color extra brass skate know monkey coach";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix curve destroy between inch wait measure wheat giraffe island reject century";
+var mnemonic = "tribe farm behind smoke enlist sweet initial gap there organ decrease garage";

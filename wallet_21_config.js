@@ -1,1 +1,1 @@
-var mnemonic = "jungle season virtual capable seed direct define amateur donor gown diary view";
+var mnemonic = "nest brother friend ecology master accident harsh sister group pluck diet educate";

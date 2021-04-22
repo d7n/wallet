@@ -1,1 +1,1 @@
-var mnemonic = "tree usage ticket tonight ring rhythm clean welcome liberty burden crowd delay";
+var mnemonic = "auction record genre vintage arm galaxy dizzy engage oxygen poet orient vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "present slam antenna detail harvest sea super calm harsh enter group swim";
+var mnemonic = "quantum spread cigar shy stone exhibit mixed smoke salmon stereo public lucky";

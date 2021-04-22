@@ -1,1 +1,1 @@
-var mnemonic = "imitate foam fortune evidence option window genuine any satoshi first cage divert";
+var mnemonic = "heart hollow garment blade forest ripple hour wish task poet expire digital";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge sketch want essence help bleak nature square there column erase knock";
+var mnemonic = "thought panic sport jewel syrup floor apology surprise decline decide gospel estate";

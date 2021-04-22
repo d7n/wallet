@@ -1,1 +1,1 @@
-var mnemonic = "habit cover put echo bus visit attract pact sponsor odor kidney confirm";
+var mnemonic = "valve moral impulse omit extend again receive nature penalty own image nuclear";

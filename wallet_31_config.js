@@ -1,1 +1,1 @@
-var mnemonic = "transfer senior mesh borrow letter midnight cry essence interest unknown grab coil";
+var mnemonic = "left desk regret session notable paper reunion fish run rough innocent tell";

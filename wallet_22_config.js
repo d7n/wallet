@@ -1,1 +1,1 @@
-var mnemonic = "glance there home blush army enter motion sad inmate banner refuse pioneer";
+var mnemonic = "flight long short office remain fade devote manage twice early usual require";

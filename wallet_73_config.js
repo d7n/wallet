@@ -1,1 +1,1 @@
-var mnemonic = "convince scissors raw know knee bike alley hammer napkin amazing climb endorse";
+var mnemonic = "clay defense over scorpion onion group cause plunge battle sleep common length";

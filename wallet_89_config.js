@@ -1,1 +1,1 @@
-var mnemonic = "photo deny jungle address remind nasty beyond finger rally combine arrange earth";
+var mnemonic = "lobster youth warm second hour brand expand sample clock chuckle utility success";

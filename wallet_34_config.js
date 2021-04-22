@@ -1,1 +1,1 @@
-var mnemonic = "achieve fame claw idea wheel umbrella apple plastic deny amused ladder six";
+var mnemonic = "sustain sell festival patch tray rapid invest vague faculty keep chat unit";

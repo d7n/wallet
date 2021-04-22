@@ -1,1 +1,1 @@
-var mnemonic = "remain stamp office donate success tornado shaft budget essay pipe miracle gun";
+var mnemonic = "response barrel there spirit crisp city lyrics betray wolf bronze gossip great";

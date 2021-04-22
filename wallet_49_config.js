@@ -1,1 +1,1 @@
-var mnemonic = "left vehicle total funny equal attitude stumble pony emotion report explain drip";
+var mnemonic = "adapt mimic lumber auction genre gas try enable idle vital cute improve";

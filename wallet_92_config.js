@@ -1,1 +1,1 @@
-var mnemonic = "diamond icon magnet pledge muscle original check dust stay tennis rubber sail";
+var mnemonic = "burden equip merge prevent elevator together fortune struggle way wave inquiry square";

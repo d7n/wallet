@@ -1,1 +1,1 @@
-var mnemonic = "potato sunset between enact permit shaft chronic glass destroy hover jacket velvet";
+var mnemonic = "wing piece aim harbor asthma velvet tower dice unit prosper cupboard tourist";

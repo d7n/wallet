@@ -1,1 +1,1 @@
-var mnemonic = "dwarf rich liberty autumn cry now rib liquid quarter butter praise relax";
+var mnemonic = "mean audit coyote hour tube rival mandate salon element lucky analyst praise";

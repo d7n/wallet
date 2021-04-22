@@ -1,1 +1,1 @@
-var mnemonic = "mushroom grit powder toilet margin voyage forum material leader differ soldier craft";
+var mnemonic = "venue grit release winter tail rebel patient grab wise dawn scrub soup";

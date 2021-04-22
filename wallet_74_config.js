@@ -1,1 +1,1 @@
-var mnemonic = "leg dial raccoon zebra keen rug demise bone amateur message shock seat";
+var mnemonic = "wasp bulb jewel praise timber shadow stomach cart question pilot praise capital";

@@ -1,1 +1,1 @@
-var mnemonic = "announce illness multiply sell bracket throw awful sunny matrix then legend beef";
+var mnemonic = "chimney exit senior current range genre river side fly job flock click";

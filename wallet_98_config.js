@@ -1,1 +1,1 @@
-var mnemonic = "hint skirt amount excess arrive sleep sort artwork inner scrub come opera";
+var mnemonic = "acoustic poet scan fade general cradle shoot affair push what catch shop";

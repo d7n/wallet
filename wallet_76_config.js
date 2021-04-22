@@ -1,1 +1,1 @@
-var mnemonic = "blush delay cool tape path elder tornado valve plug report armed immense";
+var mnemonic = "ordinary tornado kangaroo village involve frog chaos lottery enrich cart direct invest";

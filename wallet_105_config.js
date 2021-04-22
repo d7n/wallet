@@ -1,1 +1,1 @@
-var mnemonic = "uncover grape throw vital fall bleak metal hover worth voyage select surround";
+var mnemonic = "include spawn blind hover grief coin inch ensure brief axis tag alert";

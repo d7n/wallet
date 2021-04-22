@@ -1,1 +1,1 @@
-var mnemonic = "guilt recipe jar onion cigar casino pizza brand wood order lonely snow";
+var mnemonic = "useful radar report syrup grab eager master donor army human gossip annual";

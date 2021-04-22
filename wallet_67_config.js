@@ -1,1 +1,1 @@
-var mnemonic = "select quick gown walk stumble gasp arm feel receive burger divorce hip";
+var mnemonic = "just vibrant concert donor poverty identify skate clap limb teach punch morning";

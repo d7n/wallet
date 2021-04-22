@@ -1,1 +1,1 @@
-var mnemonic = "make faculty sound mom unfold resemble own palm stock ready liar cash";
+var mnemonic = "sorry crane robot tell gaze spray acoustic foam alter pen drill cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune cotton pave swing hole mule appear since alcohol clump flee smoke";
+var mnemonic = "purpose myself smile fuel napkin jewel learn exist unique spot pig pupil";

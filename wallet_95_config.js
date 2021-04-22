@@ -1,1 +1,1 @@
-var mnemonic = "print giraffe nasty become sun usual forget dry retire turkey reason rookie";
+var mnemonic = "human ivory ring maze phrase place sauce you circle burger response push";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial quote when water tip loan cheap hospital coin scheme emerge income";
+var mnemonic = "position hair seed honey impact case scissors review limit magnet bless resemble";

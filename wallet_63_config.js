@@ -1,1 +1,1 @@
-var mnemonic = "nothing truck again clean impact road wait garbage cabbage upgrade decline gossip";
+var mnemonic = "kitten skirt monster jar exercise athlete shuffle orbit midnight material alarm tunnel";

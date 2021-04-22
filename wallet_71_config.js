@@ -1,1 +1,1 @@
-var mnemonic = "security rebel tide ugly saddle dynamic grain journey ignore hawk shell blanket";
+var mnemonic = "glimpse relax cruel accident brave ski upset reflect resist aisle release any";

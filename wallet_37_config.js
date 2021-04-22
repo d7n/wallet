@@ -1,1 +1,1 @@
-var mnemonic = "expose muffin peasant police wedding battle artefact trip course tell cup uniform";
+var mnemonic = "toast final rich smart devote cup raven pencil spoil exercise sphere duck";

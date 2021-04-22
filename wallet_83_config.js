@@ -1,1 +1,1 @@
-var mnemonic = "latin clay warrior immune lake canyon slab whale into margin decrease napkin";
+var mnemonic = "today inject similar achieve steak inner kidney major cart festival miracle random";

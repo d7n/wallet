@@ -1,1 +1,1 @@
-var mnemonic = "control staff outside brass treat afford auction only broken fossil real admit";
+var mnemonic = "ensure object inject dial cabbage pink resemble abstract gospel tide lounge recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "potato guilt boy tragic swift ketchup nasty mutual kidney doctor cannon real";
+var mnemonic = "purchase argue april music defy nerve lawsuit relax female wreck swear shop";

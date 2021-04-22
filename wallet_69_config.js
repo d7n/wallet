@@ -1,1 +1,1 @@
-var mnemonic = "body wall detect fold punch physical muscle avoid arena remind mushroom laundry";
+var mnemonic = "gorilla hedgehog silver large hundred copy behind medal ancient make usual field";

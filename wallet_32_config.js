@@ -1,1 +1,1 @@
-var mnemonic = "forum main guitar already asthma person alpha pyramid neglect turn outdoor maximum";
+var mnemonic = "length furnace identify mango brand birth rally library glare wage obscure strong";

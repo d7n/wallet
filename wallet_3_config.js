@@ -1,1 +1,1 @@
-var mnemonic = "battle thought junk siren stock hunt evolve smoke steel journey vehicle island";
+var mnemonic = "angry glue claim current miracle fever humble twenty coral enemy admit view";

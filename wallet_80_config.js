@@ -1,1 +1,1 @@
-var mnemonic = "brown list brain happy return stairs train pig spring review coffee credit";
+var mnemonic = "annual board wait inject record sentence debate oil punch predict draw scare";

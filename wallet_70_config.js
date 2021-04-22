@@ -1,1 +1,1 @@
-var mnemonic = "rabbit gym taste essence elephant category famous chicken rescue average prepare void";
+var mnemonic = "note cousin left glove accident awake motion build defense increase wood icon";

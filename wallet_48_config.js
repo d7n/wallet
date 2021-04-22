@@ -1,1 +1,1 @@
-var mnemonic = "inspire surge index distance derive lemon weekend flavor disorder board sunny kite";
+var mnemonic = "glimpse grape tube caught barely zebra rule drill license mercy police paddle";

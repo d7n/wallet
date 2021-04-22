@@ -1,1 +1,1 @@
-var mnemonic = "mask upset runway mesh arctic agree motion boil depth opinion waste bench";
+var mnemonic = "tobacco bridge rule still truth business record inside empty improve joy equip";

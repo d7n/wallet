@@ -1,1 +1,1 @@
-var mnemonic = "erupt blur found defense cannon loan flame frozen general adapt reveal equip";
+var mnemonic = "claim march unable trap jealous shuffle mutual candy tackle prepare apart ripple";

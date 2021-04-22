@@ -1,1 +1,1 @@
-var mnemonic = "note legend eight dignity kitchen venture insect cup patient raise mirror sustain";
+var mnemonic = "trick valley body airport intact poverty genre pluck east law normal dignity";

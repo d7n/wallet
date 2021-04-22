@@ -1,1 +1,1 @@
-var mnemonic = "ramp invite gasp decline wing purity garbage level evoke frost bottom coffee";
+var mnemonic = "coin wool ketchup giggle cable horse vote certain cart slab rain vast";

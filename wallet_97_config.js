@@ -1,1 +1,1 @@
-var mnemonic = "syrup soldier celery obscure echo worth step safe enable time fiction garden";
+var mnemonic = "force build peanut ramp craft deny hip lizard place glue imitate shadow";

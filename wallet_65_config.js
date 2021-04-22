@@ -1,1 +1,1 @@
-var mnemonic = "boring air celery screen strong cabbage false shiver frame fruit switch foster";
+var mnemonic = "estate impose quote frown orphan below stable mass route option air grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "road farm reject unit few bar gorilla camp sponsor chalk attack lesson";
+var mnemonic = "cheap bike emotion dad keen float sniff security host fame ramp cabin";

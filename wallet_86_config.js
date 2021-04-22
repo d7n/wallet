@@ -1,1 +1,1 @@
-var mnemonic = "pull stem torch busy raven stay curtain news heart sugar badge fence";
+var mnemonic = "kingdom settle crawl memory ship wet citizen table tell scissors mule portion";

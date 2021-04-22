@@ -1,1 +1,1 @@
-var mnemonic = "uncle endorse winter lawsuit exclude glove render comic hover innocent metal general";
+var mnemonic = "slam skull diet reward still library over then cover muscle crater embark";

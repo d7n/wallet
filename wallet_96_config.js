@@ -1,1 +1,1 @@
-var mnemonic = "involve rent maze night produce control know coyote valid group hat equal";
+var mnemonic = "remind scheme spike vanish potato canoe cruise verb flight truck call cabin";

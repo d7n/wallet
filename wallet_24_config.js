@@ -1,1 +1,1 @@
-var mnemonic = "hammer more release next gallery text parent olympic baby unfold lobster baby";
+var mnemonic = "web arrow state aisle fury smoke beach scorpion lecture betray man chuckle";

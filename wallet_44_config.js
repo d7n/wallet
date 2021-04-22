@@ -1,1 +1,1 @@
-var mnemonic = "eager cream banana shove judge vast soda urban survey silk gift frozen";
+var mnemonic = "solution finger short please decline creek club camp machine brown hair maximum";

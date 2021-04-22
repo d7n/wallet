@@ -1,1 +1,1 @@
-var mnemonic = "liberty alpha faculty industry coral across blossom seat weekend surround struggle call";
+var mnemonic = "multiply expand produce account correct require stem present tail drill cotton evil";

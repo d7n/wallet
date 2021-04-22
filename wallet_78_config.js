@@ -1,1 +1,1 @@
-var mnemonic = "above inhale gorilla suggest chapter blast struggle simple idea keen desert return";
+var mnemonic = "situate width awesome shove forest topple bracket walnut scrub wealth above genuine";

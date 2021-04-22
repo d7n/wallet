@@ -1,1 +1,1 @@
-var mnemonic = "infant bridge trumpet denial page cross sponsor program clinic fun fit vivid";
+var mnemonic = "festival erase demise relax above next cycle deposit journey exile drill story";

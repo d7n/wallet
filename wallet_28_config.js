@@ -1,1 +1,1 @@
-var mnemonic = "route judge wealth tape firm avoid sugar beach west clip section teach";
+var mnemonic = "relief before chest school legend auto write million picnic industry life game";

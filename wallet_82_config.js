@@ -1,1 +1,1 @@
-var mnemonic = "throw minimum burden mercy again world marine betray large hurt mobile later";
+var mnemonic = "surround that prepare swear zero dust pig upper ill consider mother confirm";

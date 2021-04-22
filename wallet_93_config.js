@@ -1,1 +1,1 @@
-var mnemonic = "yard certain rural inform elegant midnight focus rent crawl quiz anchor sound";
+var mnemonic = "only flight like online tooth upon list decade village glance net pelican";

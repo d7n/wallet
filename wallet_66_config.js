@@ -1,1 +1,1 @@
-var mnemonic = "lemon tool castle truth rather hole crash adult diesel wrap kit prison";
+var mnemonic = "drill ring dry beyond trophy utility purity stay dress century session critic";

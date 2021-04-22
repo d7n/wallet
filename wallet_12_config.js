@@ -1,1 +1,1 @@
-var mnemonic = "ugly elegant friend sport various clog leader cliff heavy floor bullet employ";
+var mnemonic = "edge keen unlock confirm nut dog ready second flock shy rack infant";

@@ -1,1 +1,1 @@
-var mnemonic = "burden pattern phone merry major rice panic attend bottom hollow shoulder sentence";
+var mnemonic = "walnut rabbit random slow lab obey grass still prison bring illegal recipe";

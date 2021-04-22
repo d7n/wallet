@@ -1,1 +1,1 @@
-var mnemonic = "dwarf few save view staff voice rely slim describe install bracket sock";
+var mnemonic = "fire scatter swallow matter burger property property kiss dove song armor flush";

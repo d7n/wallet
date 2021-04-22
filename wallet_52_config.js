@@ -1,1 +1,1 @@
-var mnemonic = "since enemy airport chair egg claim hour bitter energy avoid purse spawn";
+var mnemonic = "breeze coast reopen unlock erosion urban symbol humor february gain case bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "must hockey hard fetch story mandate unfold dance canyon child letter print";
+var mnemonic = "space blind deliver buyer unknown abstract odor stable ensure movie category tragic";
