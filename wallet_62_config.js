@@ -1,1 +1,1 @@
-var mnemonic = "evoke portion chaos craft regret feel ticket skill craft giraffe mind depend";
+var mnemonic = "honey name donkey know palm buyer process waste stumble tunnel only lake";

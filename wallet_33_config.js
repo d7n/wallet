@@ -1,1 +1,1 @@
-var mnemonic = "enjoy amount april illegal dragon cereal aware box today conduct owner jacket";
+var mnemonic = "famous electric jacket van another stumble when brush ramp mammal advice average";

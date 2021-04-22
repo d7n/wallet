@@ -1,1 +1,1 @@
-var mnemonic = "off demise ancient upset abandon tooth pledge bachelor spin blossom convince around";
+var mnemonic = "april theory fantasy sphere ring guess various gun twenty patient wealth guide";

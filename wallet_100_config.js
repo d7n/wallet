@@ -1,1 +1,1 @@
-var mnemonic = "celery board orange leave among style grid brick skirt edit cram wash";
+var mnemonic = "lottery canoe around voyage lend dial lab under wise inherit office delay";

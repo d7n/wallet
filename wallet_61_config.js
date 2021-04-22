@@ -1,1 +1,1 @@
-var mnemonic = "target thumb pepper fatigue reform turkey review sun vault embark fancy tool";
+var mnemonic = "cry frequent figure mind mutual update hat absorb blade arctic sea engine";

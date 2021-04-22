@@ -1,1 +1,1 @@
-var mnemonic = "vague snow circle fat shed blade feel slam stool reopen excess fat";
+var mnemonic = "unveil donkey brush october away olympic seven dinner begin legend nephew globe";

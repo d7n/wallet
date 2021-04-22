@@ -1,1 +1,1 @@
-var mnemonic = "kingdom rate huge seed edge vacuum tribe limb elite label glance fame";
+var mnemonic = "control sunset bottom salmon dolphin adjust jewel ladder else chaos lift version";

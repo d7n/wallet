@@ -1,1 +1,1 @@
-var mnemonic = "height few dose wheel dwarf plastic pupil dinner require motor place tooth";
+var mnemonic = "atom fiber toast injury goose mercy daring garment boy excess famous gain";

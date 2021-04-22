@@ -1,1 +1,1 @@
-var mnemonic = "shoe scan size insect ahead joke good execute assume today cupboard captain";
+var mnemonic = "mammal lend arm spawn render team scrub swamp involve ripple obtain polar";

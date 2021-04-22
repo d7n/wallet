@@ -1,1 +1,1 @@
-var mnemonic = "foot install prefer decline robot mass diary orange muscle cart shield meadow";
+var mnemonic = "light uniform ticket fence oil useless above pilot seat garden outer school";

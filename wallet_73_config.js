@@ -1,1 +1,1 @@
-var mnemonic = "prosper rose expose sauce tomorrow grant anchor slam area rhythm access brave";
+var mnemonic = "truly client section excite order rice fortune tuna talk member material provide";

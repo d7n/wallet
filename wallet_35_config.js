@@ -1,1 +1,1 @@
-var mnemonic = "rain cycle absorb aisle equal lottery field crater pioneer pigeon torch equal";
+var mnemonic = "rain category have capable kiwi nice draw funny fence head pool blur";

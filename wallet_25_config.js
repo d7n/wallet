@@ -1,1 +1,1 @@
-var mnemonic = "drift angry obvious health today ship gather pen miss canyon bulb turn";
+var mnemonic = "lesson trumpet suspect reveal road around panther claw water voyage cruise upper";

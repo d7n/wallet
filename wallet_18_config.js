@@ -1,1 +1,1 @@
-var mnemonic = "beauty scrub reflect dragon abandon oval enjoy bench pair pitch glory pair";
+var mnemonic = "cushion valid door defense almost need catch ticket gloom elder strategy peanut";

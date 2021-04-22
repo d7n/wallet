@@ -1,1 +1,1 @@
-var mnemonic = "napkin paper salad chat auto aim they kit warfare more tower drop";
+var mnemonic = "vote step hybrid prize city armed lawn echo despair fashion trial unlock";

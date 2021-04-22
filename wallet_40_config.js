@@ -1,1 +1,1 @@
-var mnemonic = "net impose trumpet buzz lunar vessel second valley soul obvious silent smoke";
+var mnemonic = "gap hamster bind valve picture proud craft another pencil tourist dash perfect";

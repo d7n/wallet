@@ -1,1 +1,1 @@
-var mnemonic = "skin random shiver miracle canyon rocket lumber illegal melody napkin mom wonder";
+var mnemonic = "concert tortoise museum punch moment laptop mirror engine fiscal material flame bachelor";

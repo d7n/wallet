@@ -1,1 +1,1 @@
-var mnemonic = "catch orchard angle mesh pelican crumble recycle inner isolate portion kangaroo huge";
+var mnemonic = "prevent fury street drive typical chat crowd trumpet juice inmate column picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "pole you swear kick three spring blood increase clinic avocado senior prepare";
+var mnemonic = "fruit night exact scare burden decorate toast modify abuse opera dress dolphin";

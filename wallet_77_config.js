@@ -1,1 +1,1 @@
-var mnemonic = "prosper quiz blossom prefer dose rotate juice enough draw wasp avoid execute";
+var mnemonic = "tool winter coffee nature mushroom bright else give bread olympic spoon pumpkin";

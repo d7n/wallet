@@ -1,1 +1,1 @@
-var mnemonic = "urge foil slide rebuild language devote bean oak recipe uphold wire clever";
+var mnemonic = "poet hedgehog forest front entire ketchup access baby rare clarify rely reduce";

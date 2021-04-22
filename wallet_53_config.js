@@ -1,1 +1,1 @@
-var mnemonic = "mail clutch neck crop fence ethics aware carry measure roof wrap opinion";
+var mnemonic = "seminar street lunch today strong diary soft engage earth flat debate floor";

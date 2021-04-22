@@ -1,1 +1,1 @@
-var mnemonic = "review funny clerk loop purse number stamp hub ancient unaware bracket divide";
+var mnemonic = "belt enemy tissue faint crush tower hover crumble cushion snake pause clay";

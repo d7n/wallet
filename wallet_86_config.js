@@ -1,1 +1,1 @@
-var mnemonic = "hurdle analyst slight laugh blame spin maple couple slam annual soon indicate";
+var mnemonic = "fall popular hover attack omit invite final dune amazing opera lab squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday analyst wrist pink photo machine frame cousin practice bullet almost drift";
+var mnemonic = "where inject sail cushion forest isolate idea anchor crucial festival skate ocean";

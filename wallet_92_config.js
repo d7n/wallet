@@ -1,1 +1,1 @@
-var mnemonic = "shadow donate struggle whisper inquiry expand gain problem tired zebra valve relief";
+var mnemonic = "actor celery public staff nest bounce pupil royal ketchup smoke deer current";

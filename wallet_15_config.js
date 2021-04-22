@@ -1,1 +1,1 @@
-var mnemonic = "chief viable biology adjust toilet vacant mistake wage dignity device video unveil";
+var mnemonic = "asthma usual hold cream custom table undo must where switch magnet trophy";

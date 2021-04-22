@@ -1,1 +1,1 @@
-var mnemonic = "adapt wrestle lobster next wonder merit hockey peasant tray add diamond indoor";
+var mnemonic = "response saddle tomato immense scare divide vessel inflict meadow dance grid atom";

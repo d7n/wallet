@@ -1,1 +1,1 @@
-var mnemonic = "twelve lady moral area own flight later circle dry velvet winner speak";
+var mnemonic = "skin clip plastic eternal still bicycle mosquito stone soul replace chimney never";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate debate either legend fitness slab door wise train acid drop grab";
+var mnemonic = "average save hello trumpet mind online neglect prepare aisle apart pledge wish";

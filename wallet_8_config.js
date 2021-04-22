@@ -1,1 +1,1 @@
-var mnemonic = "rural mixed tone local work battle burst dove alcohol cost purity mule";
+var mnemonic = "shove pony biology divide damage property gym equal fade stock bring destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid pitch tenant reason morning fringe among crucial teach pioneer carbon leisure";
+var mnemonic = "ball truck doctor thought fine ancient acquire glare kit claim wide young";

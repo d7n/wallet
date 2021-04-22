@@ -1,1 +1,1 @@
-var mnemonic = "weasel eye essence water gravity sign jeans spot figure damp object trial";
+var mnemonic = "any fever catch twelve cliff bachelor dizzy two kitten never theory taxi";

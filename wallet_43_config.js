@@ -1,1 +1,1 @@
-var mnemonic = "vintage sick that float artefact nuclear attack width crack swamp display blade";
+var mnemonic = "broom toilet gadget knock grunt fluid mixed first pride home park fiction";

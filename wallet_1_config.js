@@ -1,1 +1,1 @@
-var mnemonic = "inform retreat velvet enter shine hip comfort giant trumpet outer enroll couch";
+var mnemonic = "loud fat physical merry link sword shoulder humor claw youth bus ginger";

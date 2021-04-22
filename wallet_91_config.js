@@ -1,1 +1,1 @@
-var mnemonic = "kiss carry symptom outdoor guess room adjust moon humor version enemy enemy";
+var mnemonic = "travel odor rug road tube divorce company blast canoe lock fix give";

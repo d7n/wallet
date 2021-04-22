@@ -1,1 +1,1 @@
-var mnemonic = "slab place deal fee knife route only ozone prepare happy path bulb";
+var mnemonic = "excess dynamic cricket coil wool spy afford piano trophy keep organ equal";

@@ -1,1 +1,1 @@
-var mnemonic = "network leopard ethics switch large notable boost upset anger trick clutch auction";
+var mnemonic = "horse roast private style famous shop start girl wrestle uncover payment blanket";

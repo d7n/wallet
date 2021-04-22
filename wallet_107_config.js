@@ -1,1 +1,1 @@
-var mnemonic = "base exhibit pass fantasy coin mercy fire fork furnace unlock bullet sound";
+var mnemonic = "napkin lift orange before distance addict strategy buzz buddy else cute velvet";

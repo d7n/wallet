@@ -1,1 +1,1 @@
-var mnemonic = "enter october fee auto coil bounce artist entire jungle medal hurt helmet";
+var mnemonic = "rescue leaf husband prosper increase slim moon snack have arena private wasp";

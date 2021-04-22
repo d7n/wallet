@@ -1,1 +1,1 @@
-var mnemonic = "course kitchen powder zoo fluid plate satoshi clown poem gospel lamp goat";
+var mnemonic = "bicycle demand fresh fabric goddess length degree slender scare country treat soft";

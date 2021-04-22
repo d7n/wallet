@@ -1,1 +1,1 @@
-var mnemonic = "ancient month nose wear moral clog slush scorpion penalty fish bus seed";
+var mnemonic = "soul scan decline wait cup scan ignore case armor badge brass sign";

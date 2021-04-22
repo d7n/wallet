@@ -1,1 +1,1 @@
-var mnemonic = "dog agree cage soul siren ill calm cheese tiny frog demand bubble";
+var mnemonic = "noble october man april tornado analyst guess alarm hockey carry feed switch";

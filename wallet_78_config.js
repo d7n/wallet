@@ -1,1 +1,1 @@
-var mnemonic = "used cactus enforce load term tag ability market anxiety coast school polar";
+var mnemonic = "uncover equip slam tomorrow message parade dinner dismiss honey faculty answer rally";

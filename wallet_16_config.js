@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo offer miss stem lucky chaos damage fall joke riot hazard clerk";
+var mnemonic = "example fat wet local clay begin hub melody wing mouse scan upper";

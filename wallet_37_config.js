@@ -1,1 +1,1 @@
-var mnemonic = "novel sunset priority urge donate budget ordinary unveil attend base fish lottery";
+var mnemonic = "imitate peasant deputy welcome hazard broken style wolf best movie police ritual";

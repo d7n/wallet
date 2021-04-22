@@ -1,1 +1,1 @@
-var mnemonic = "social pudding flock bright october sight fault borrow change carbon key joy";
+var mnemonic = "leader visit oven force photo middle crumble hobby hard all trigger stumble";

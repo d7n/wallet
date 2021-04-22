@@ -1,1 +1,1 @@
-var mnemonic = "answer wet boss private aim diamond apology globe install crouch leisure indoor";
+var mnemonic = "emerge solve bench cancel edit begin property light soul zero pyramid hospital";

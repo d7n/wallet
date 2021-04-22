@@ -1,1 +1,1 @@
-var mnemonic = "wait rookie keen decrease swarm tube swift camera dove bike cash scrub";
+var mnemonic = "garden paddle silent cricket push tip light lemon hint price february crouch";

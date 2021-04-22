@@ -1,1 +1,1 @@
-var mnemonic = "fiber stand brick slice rapid audit liberty motor rebel pizza dinosaur bag";
+var mnemonic = "net transfer reject become dumb parent vital there crucial what educate skull";

@@ -1,1 +1,1 @@
-var mnemonic = "sort bacon cash oblige join bronze table skill debris grocery long atom";
+var mnemonic = "very lyrics absent tattoo force ring october thumb faint order speed wisdom";

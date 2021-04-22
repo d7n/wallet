@@ -1,1 +1,1 @@
-var mnemonic = "pull idea party eternal seminar tone glare silly submit asset over green";
+var mnemonic = "cheap angry army vague begin super finger true slam flush pill shop";

@@ -1,1 +1,1 @@
-var mnemonic = "slab unaware orphan boil unveil client craft hungry prosper acid cover shallow";
+var mnemonic = "huge frozen frozen horn salon tent buyer skate butter rely cradle endorse";

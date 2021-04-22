@@ -1,1 +1,1 @@
-var mnemonic = "wire ivory strategy book build analyst later rare can tent youth useless";
+var mnemonic = "network comic brain sail exhaust bench sibling sad slush clock tag rack";

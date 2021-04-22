@@ -1,1 +1,1 @@
-var mnemonic = "curve glove peanut mom drift fatigue slot shiver song split easily army";
+var mnemonic = "smart famous energy acoustic globe buffalo suit square unique memory wrist prosper";

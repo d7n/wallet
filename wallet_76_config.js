@@ -1,1 +1,1 @@
-var mnemonic = "wet pair fabric lazy humble such lounge wise alcohol smile chuckle excess";
+var mnemonic = "fence seat exhibit concert egg member energy evil purse joy offer spirit";

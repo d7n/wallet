@@ -1,1 +1,1 @@
-var mnemonic = "code run better hill base hair cloth short term midnight direct frame";
+var mnemonic = "nation call oyster tent grass climb parrot fluid slight project nothing zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "load delay alley aerobic media bread bleak coin will ridge come opinion";
+var mnemonic = "indoor rocket small unusual connect flavor give comic network entire buddy expand";

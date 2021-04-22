@@ -1,1 +1,1 @@
-var mnemonic = "hobby potato shadow demand butter forward diary carbon paddle film crisp social";
+var mnemonic = "upgrade gold come license electric very caution diagram city truly ride surround";

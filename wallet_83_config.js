@@ -1,1 +1,1 @@
-var mnemonic = "goat nest process horse blue order surround ankle seat thumb celery vault";
+var mnemonic = "fantasy flee brass tone tennis weekend ski blur zebra olympic crane recall";

@@ -1,1 +1,1 @@
-var mnemonic = "pride satoshi clerk endorse hand fly sample visual fall loud nest fossil";
+var mnemonic = "solve bulk negative cart weapon lawn air movie alter vast busy churn";

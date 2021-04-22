@@ -1,1 +1,1 @@
-var mnemonic = "flat jaguar unhappy salon wreck amused excess ritual six object squirrel version";
+var mnemonic = "pattern horror distance process route pet poet radio news below need collect";

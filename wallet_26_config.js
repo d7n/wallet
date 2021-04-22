@@ -1,1 +1,1 @@
-var mnemonic = "quit deer ship rack distance elder unlock dumb anger vital dust erase";
+var mnemonic = "captain giggle enact later mushroom sentence method stomach outer hospital wasp mean";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk fragile notable answer build repair amount cousin liar surge similar month";
+var mnemonic = "spoil sing hurt cradle soap consider ship ripple face decline witness detect";

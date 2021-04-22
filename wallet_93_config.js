@@ -1,1 +1,1 @@
-var mnemonic = "actual dragon glove dilemma exact very slogan lift diagram ivory keep circle";
+var mnemonic = "false mango venue blouse input shuffle monster depart female sniff mechanic diet";

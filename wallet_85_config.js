@@ -1,1 +1,1 @@
-var mnemonic = "announce actress alarm rare organ grow unfair upgrade payment toddler pipe useless";
+var mnemonic = "rice source soft olympic december secret monkey settle ice dust large garage";

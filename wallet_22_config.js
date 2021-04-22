@@ -1,1 +1,1 @@
-var mnemonic = "coral siege mixture avocado veteran keen age combine crawl cute scan feature";
+var mnemonic = "teach tonight often system umbrella loud interest false ivory bounce defy bridge";

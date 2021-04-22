@@ -1,1 +1,1 @@
-var mnemonic = "erosion unfold hundred feel egg person sure pole eagle cloth identify cheap";
+var mnemonic = "bench hidden define better manual blame pipe amazing sock logic exclude still";

@@ -1,1 +1,1 @@
-var mnemonic = "teach follow eternal ankle arm lunar day saddle unfold reduce recall movie";
+var mnemonic = "lava disorder shaft raise solution setup penalty rare space trouble solar high";

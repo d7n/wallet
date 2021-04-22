@@ -1,1 +1,1 @@
-var mnemonic = "dose simple spin require join tiger estate abuse news smile dash apple";
+var mnemonic = "half immune excite pledge notable tourist join argue basket tip give frame";

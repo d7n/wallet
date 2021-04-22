@@ -1,1 +1,1 @@
-var mnemonic = "health brief electric recipe extend siren ugly list unable velvet spoil guide";
+var mnemonic = "scheme recycle hammer borrow popular problem box rookie negative pole note later";

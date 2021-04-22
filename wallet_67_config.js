@@ -1,1 +1,1 @@
-var mnemonic = "rug curve empower affair wise toilet mother tortoise extra vicious ahead chat";
+var mnemonic = "speed equip exit margin surround bag emerge mix vicious music mountain celery";

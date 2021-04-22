@@ -1,1 +1,1 @@
-var mnemonic = "rule sell merit debris sense any include frown evoke license antenna wine";
+var mnemonic = "tilt ceiling body pepper east child rural road cram distance only hospital";

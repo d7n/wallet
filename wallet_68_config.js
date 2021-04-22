@@ -1,1 +1,1 @@
-var mnemonic = "swarm winner water retire place fault jump ranch body average purpose humor";
+var mnemonic = "quantum matrix reopen hair question predict echo scout derive pelican afford tackle";

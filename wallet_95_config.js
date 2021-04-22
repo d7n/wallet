@@ -1,1 +1,1 @@
-var mnemonic = "primary coil term flat daring tell slogan half rebel eight they ranch";
+var mnemonic = "basket belt hair panic tomato menu black material absent remember anger fix";

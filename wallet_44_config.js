@@ -1,1 +1,1 @@
-var mnemonic = "carpet flock already talk company timber month shaft chaos name choose quiz";
+var mnemonic = "slice allow bubble escape scan kangaroo brother pass miracle sustain whip before";

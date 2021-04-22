@@ -1,1 +1,1 @@
-var mnemonic = "broom follow rigid club forward pelican rotate split vendor genius switch glide";
+var mnemonic = "nasty habit near engage raw expand lesson oxygen exercise explain light master";

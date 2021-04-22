@@ -1,1 +1,1 @@
-var mnemonic = "aisle boss define educate weasel final blur unusual cushion hawk indicate speak";
+var mnemonic = "soon spoon select distance bike nasty lemon air hybrid that road crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "actress book claw vacant beef hire ill property gate color toward donkey";
+var mnemonic = "ozone gadget script gallery antique scatter vague clarify three car shrug moral";

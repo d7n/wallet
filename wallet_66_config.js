@@ -1,1 +1,1 @@
-var mnemonic = "hill scrap fringe speed age stairs tennis state wide wine subway skirt";
+var mnemonic = "remove slush oblige pulp note frame arena reopen remind decide lounge bicycle";

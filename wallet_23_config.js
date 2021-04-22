@@ -1,1 +1,1 @@
-var mnemonic = "lizard fury silly acquire risk flip notice mom say unlock engage vague";
+var mnemonic = "pilot tent awful airport angle pact brown intact all practice pull correct";

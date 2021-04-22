@@ -1,1 +1,1 @@
-var mnemonic = "private citizen pudding build ten flock circle witness prepare win sad traffic";
+var mnemonic = "tissue blanket sting rail combine despair tomato explain diesel empty olive giraffe";

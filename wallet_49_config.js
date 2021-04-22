@@ -1,1 +1,1 @@
-var mnemonic = "describe champion key grid draw coconut relax invest rotate feel deer position";
+var mnemonic = "detect flame egg image shadow coral wisdom feature because weasel must now";

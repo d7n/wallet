@@ -1,1 +1,1 @@
-var mnemonic = "slide friend vessel endless elevator accident undo eye canoe lunch hen brush";
+var mnemonic = "offer avocado ticket near nephew night water blame found purity gauge apart";

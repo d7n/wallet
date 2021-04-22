@@ -1,1 +1,1 @@
-var mnemonic = "people math fashion all strategy question gown cabbage rigid list govern remain";
+var mnemonic = "badge bulk tackle essay fantasy audit pig wheat clean enact mule teach";

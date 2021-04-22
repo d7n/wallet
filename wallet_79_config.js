@@ -1,1 +1,1 @@
-var mnemonic = "physical immense city wrong fashion correct oil awake rate unusual inhale attract";
+var mnemonic = "pitch merit matter place kidney credit iron inject act anger park equip";
