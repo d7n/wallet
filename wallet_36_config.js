@@ -1,1 +1,1 @@
-var mnemonic = "coin into donor fitness spawn depend conduct apple public manage noodle cruel";
+var mnemonic = "flip culture that sample all wonder poverty host mesh gasp profit spawn";

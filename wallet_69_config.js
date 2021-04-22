@@ -1,1 +1,1 @@
-var mnemonic = "eternal write guitar journey split frown scrub begin garment gravity unlock flush";
+var mnemonic = "settle pretty thought fatal lava snake tiger black vast engine voice rally";

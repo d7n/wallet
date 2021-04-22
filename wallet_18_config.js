@@ -1,1 +1,1 @@
-var mnemonic = "cricket analyst holiday case flight grass write doctor pony neglect little father";
+var mnemonic = "index narrow three yard emerge category tool dizzy hundred young final trick";

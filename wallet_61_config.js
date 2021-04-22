@@ -1,1 +1,1 @@
-var mnemonic = "holiday economy inch conduct afraid flower electric unhappy render grab accident buzz";
+var mnemonic = "funny blush winter yellow bring call toe truth cement claw hybrid zero";

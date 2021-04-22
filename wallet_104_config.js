@@ -1,1 +1,1 @@
-var mnemonic = "cheese cheese buddy pelican poem unlock deputy phrase conduct hollow kit tooth";
+var mnemonic = "about language avocado borrow sketch ketchup surge drink dawn smooth magic quote";

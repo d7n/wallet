@@ -1,1 +1,1 @@
-var mnemonic = "chaos august monitor impose during aisle bubble acoustic step lobster chat glory";
+var mnemonic = "remember gravity exact shoulder total try animal milk together invest hazard defy";

@@ -1,1 +1,1 @@
-var mnemonic = "craft enrich skate average apology cloud clay eternal rotate between address wave";
+var mnemonic = "quantum menu ensure saddle uncover parade senior pitch permit muffin lonely spot";

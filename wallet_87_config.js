@@ -1,1 +1,1 @@
-var mnemonic = "trick resource message nuclear absent lunch total rain before decorate clap region";
+var mnemonic = "swift scout silent monster afraid faith autumn digital lunar remind diary dutch";

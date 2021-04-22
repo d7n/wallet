@@ -1,1 +1,1 @@
-var mnemonic = "inquiry cricket uniform clever powder cupboard fit clerk keen target warfare agent";
+var mnemonic = "pistol gloom census light rude blossom depend ginger eager garment switch once";

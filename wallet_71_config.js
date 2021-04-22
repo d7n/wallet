@@ -1,1 +1,1 @@
-var mnemonic = "put blade maximum gravity owner neither warm junk seek boat galaxy fun";
+var mnemonic = "volume road volume reform will copper exact cinnamon excite ring hip payment";

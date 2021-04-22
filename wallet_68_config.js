@@ -1,1 +1,1 @@
-var mnemonic = "lesson enforce length cupboard address camp arena follow dwarf insane debate keen";
+var mnemonic = "bridge property owner glide diary region rent census topic bottom garage marble";

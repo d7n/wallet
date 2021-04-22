@@ -1,1 +1,1 @@
-var mnemonic = "muffin switch treat panel arena hobby ozone fever name match buffalo churn";
+var mnemonic = "defy sun muscle liberty gap advice flush slam evolve surge power lyrics";

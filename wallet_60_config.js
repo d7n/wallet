@@ -1,1 +1,1 @@
-var mnemonic = "become flower crater hole bean manage improve awake illness offer plate dad";
+var mnemonic = "mom someone canvas insane abuse drink confirm menu black supreme online electric";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange very lawn consider dwarf amount bottom stock twenty drastic ride gorilla";
+var mnemonic = "nut when because inside mail silly wash account erode position gift water";

@@ -1,1 +1,1 @@
-var mnemonic = "execute asthma purse nice search bring tell canal crawl atom tourist trick";
+var mnemonic = "ethics drama material ready slot biology jungle any rescue stool nothing melody";

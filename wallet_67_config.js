@@ -1,1 +1,1 @@
-var mnemonic = "reopen wife banana axis timber void torch atom glove cake weasel wood";
+var mnemonic = "conduct vital door almost empty drift avocado fun thrive parrot marine myth";

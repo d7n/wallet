@@ -1,1 +1,1 @@
-var mnemonic = "goose draft uncover over slot number interest crop wise sniff napkin group";
+var mnemonic = "ginger transfer gallery defense member answer smile toss sponsor charge erode assume";

@@ -1,1 +1,1 @@
-var mnemonic = "snake deer future shrimp long fresh match key bottom right final inhale";
+var mnemonic = "chicken hat insane alarm diagram ivory curtain bunker awesome raccoon horror carbon";

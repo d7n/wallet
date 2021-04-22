@@ -1,1 +1,1 @@
-var mnemonic = "busy fiber anxiety credit damage weather only evolve ring crew narrow scissors";
+var mnemonic = "pottery bless interest mutual code clerk vacuum clip smoke human desert parade";

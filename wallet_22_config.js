@@ -1,1 +1,1 @@
-var mnemonic = "quick super whale argue loyal brush rifle when floor bounce palace sudden";
+var mnemonic = "author pigeon gain bench original bench circle cost cancel usage hotel any";

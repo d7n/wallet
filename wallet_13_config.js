@@ -1,1 +1,1 @@
-var mnemonic = "promote bulb burger laptop cover myself runway oil oxygen auto sleep decrease";
+var mnemonic = "interest bar pride decade umbrella machine fluid dragon split modify retreat visa";

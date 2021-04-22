@@ -1,1 +1,1 @@
-var mnemonic = "shiver goat pave attract enough slide tuna vicious dentist jacket syrup tip";
+var mnemonic = "vapor anger model cruel damage cheap junk book betray middle order flag";

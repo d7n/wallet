@@ -1,1 +1,1 @@
-var mnemonic = "figure topic weather oblige company sniff power globe stereo coconut spell tone";
+var mnemonic = "author tourist question old lemon squirrel spy finish clay fruit duty awful";

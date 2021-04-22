@@ -1,1 +1,1 @@
-var mnemonic = "weather olympic can little suit iron fragile gate labor goat census knife";
+var mnemonic = "correct quick security quote street snack debate hollow scrap protect badge raw";

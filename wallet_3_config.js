@@ -1,1 +1,1 @@
-var mnemonic = "wet elbow swap cushion casual pilot notice witness throw later motion warrior";
+var mnemonic = "merry feed tornado topple shrug rent verify toward round good cancel canvas";

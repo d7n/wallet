@@ -1,1 +1,1 @@
-var mnemonic = "table social element health fitness claw pyramid alter point what price chest";
+var mnemonic = "captain various plastic rapid bone alcohol sponsor pact comfort trial gate infant";

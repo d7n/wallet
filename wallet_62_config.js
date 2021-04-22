@@ -1,1 +1,1 @@
-var mnemonic = "minimum end assault mansion cry lens lazy mountain alley reflect dove danger";
+var mnemonic = "immune problem legal brass lend essay media volcano display fun patient find";

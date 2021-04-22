@@ -1,1 +1,1 @@
-var mnemonic = "spend peasant test also cluster elder quote decide fall kite cancel undo";
+var mnemonic = "account name basket damp tiny muffin movie smart fine cactus blush laptop";

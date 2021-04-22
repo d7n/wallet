@@ -1,1 +1,1 @@
-var mnemonic = "spoil public cheap crisp day assault gauge affair anchor jelly water cup";
+var mnemonic = "behind rookie cheap position holiday night real aim bulb abandon piece february";

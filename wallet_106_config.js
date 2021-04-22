@@ -1,1 +1,1 @@
-var mnemonic = "worry original woman uncle crazy member squeeze okay smooth subject hip extra";
+var mnemonic = "blur van village athlete science random wrong toddler season auction only long";

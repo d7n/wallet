@@ -1,1 +1,1 @@
-var mnemonic = "pull priority trap face buzz series nuclear hover armor discover orchard hammer";
+var mnemonic = "reward hazard glove item away nasty layer extra bullet elevator trim priority";

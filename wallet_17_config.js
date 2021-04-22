@@ -1,1 +1,1 @@
-var mnemonic = "fragile proof sure verify alter horror promote number basic version confirm slot";
+var mnemonic = "spring ritual erase make receive front stomach alcohol funny describe ring pigeon";

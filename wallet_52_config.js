@@ -1,1 +1,1 @@
-var mnemonic = "throw rain trigger forum motion stem scatter blue turn fee army shrimp";
+var mnemonic = "occur lobster obvious lion chase vendor sick bean enrich involve monster sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "search couch layer width foil fatigue credit faint blue media barely truly";
+var mnemonic = "slight wreck bright truly marble twelve atom pass sphere above attitude resemble";

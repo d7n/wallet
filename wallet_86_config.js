@@ -1,1 +1,1 @@
-var mnemonic = "valid fork damp pause trim middle ready uncle brush super female recycle";
+var mnemonic = "unhappy there help submit ahead road tide apart above aware link equip";

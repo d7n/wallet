@@ -1,1 +1,1 @@
-var mnemonic = "boss initial outside panel cotton vault spread modify erase glow peasant cover";
+var mnemonic = "margin wage tortoise weapon pudding festival erupt dog risk regular fluid bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur limb toss spoon hole arch civil cousin parrot library tenant journey";
+var mnemonic = "hobby alarm hero auto grid able churn pepper patch kitten cargo trim";

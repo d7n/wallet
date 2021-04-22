@@ -1,1 +1,1 @@
-var mnemonic = "coconut canyon doll dragon junk mercy exhibit iron notable holiday destroy hedgehog";
+var mnemonic = "offer slice biology claim prosper boss sail dinosaur flat home wedding abstract";

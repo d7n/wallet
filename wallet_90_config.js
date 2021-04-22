@@ -1,1 +1,1 @@
-var mnemonic = "mix tragic simple film oil way jewel jacket fashion trumpet aspect rude";
+var mnemonic = "settle auto spirit sausage ankle depend soap spoon remind ready method diagram";

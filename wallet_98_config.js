@@ -1,1 +1,1 @@
-var mnemonic = "edit finish rabbit urban online delay hazard sleep truth atom spirit subject";
+var mnemonic = "shed oven field mansion since bitter seat patch explain razor truly merit";

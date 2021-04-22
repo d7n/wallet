@@ -1,1 +1,1 @@
-var mnemonic = "welcome tail potato green congress fitness sing load enlist fiber alter lesson";
+var mnemonic = "castle kick spawn just favorite castle worry term cage doll water scheme";

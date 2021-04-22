@@ -1,1 +1,1 @@
-var mnemonic = "theme cage manual urge trophy picnic innocent vacant rain taxi predict index";
+var mnemonic = "ugly almost bulk intact skill blur average chunk consider empower door month";

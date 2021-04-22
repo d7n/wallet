@@ -1,1 +1,1 @@
-var mnemonic = "oven session record salt climb equip child snake resemble repair rib coconut";
+var mnemonic = "mouse monster bar quality keen buzz basic skin nurse dad carbon chalk";

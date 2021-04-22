@@ -1,1 +1,1 @@
-var mnemonic = "evolve skin finish motor share ginger uphold age wheel planet illness exotic";
+var mnemonic = "winner actor noodle census chair unique bar sibling voyage walk receive tenant";

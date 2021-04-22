@@ -1,1 +1,1 @@
-var mnemonic = "junk fever chuckle crop decrease health kidney orbit seven tool hood cheese";
+var mnemonic = "effort make tortoise carbon blossom announce divide brain grid retire gate normal";

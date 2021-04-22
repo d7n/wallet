@@ -1,1 +1,1 @@
-var mnemonic = "intact rapid still drift clock prepare remain swamp chunk essay opera cream";
+var mnemonic = "finish flee youth organ snake rate walnut caught visual public valid barrel";

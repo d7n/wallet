@@ -1,1 +1,1 @@
-var mnemonic = "universe problem drip margin bottom hurdle fresh hip tip until carbon interest";
+var mnemonic = "play hungry captain trick pave train vocal old pizza meat scissors ghost";

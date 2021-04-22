@@ -1,1 +1,1 @@
-var mnemonic = "fiber real midnight oppose skin exotic gas never chat medal way basket";
+var mnemonic = "judge eternal critic proof fix squirrel hazard perfect grow ahead latin size";

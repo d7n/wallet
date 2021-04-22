@@ -1,1 +1,1 @@
-var mnemonic = "canoe author boss order farm palm shock direct kingdom jar long salmon";
+var mnemonic = "guide artwork skill day risk twenty custom math pink trash law anger";

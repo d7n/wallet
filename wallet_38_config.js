@@ -1,1 +1,1 @@
-var mnemonic = "fire image fancy acoustic domain umbrella confirm rule rude lava pen slogan";
+var mnemonic = "stove embark peasant foster chat music amazing survey vault front same spawn";

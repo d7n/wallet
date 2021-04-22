@@ -1,1 +1,1 @@
-var mnemonic = "job scorpion midnight document ripple conduct approve year frozen pigeon saddle boss";
+var mnemonic = "any machine tape oak office bird help bulb okay good stove echo";

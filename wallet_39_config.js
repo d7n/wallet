@@ -1,1 +1,1 @@
-var mnemonic = "burden census enable pull offer quick breeze luggage push either citizen know";
+var mnemonic = "earth hurt brisk vote alert try divide various settle gadget balcony walnut";

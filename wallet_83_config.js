@@ -1,1 +1,1 @@
-var mnemonic = "inject equal item barrel later swallow immune noodle holiday invite danger false";
+var mnemonic = "spawn fantasy coral dad choose width dune parent wrong stadium jump olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery century soft assist mistake immune problem jaguar accident spoil life orange";
+var mnemonic = "taste interest drip input balcony category spread stairs mushroom upper vault warfare";

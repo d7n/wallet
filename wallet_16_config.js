@@ -1,1 +1,1 @@
-var mnemonic = "poverty concert average steel width curve hip picture genre biology oval census";
+var mnemonic = "feed hawk grunt chair motor tourist where must tumble agent victory citizen";

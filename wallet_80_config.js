@@ -1,1 +1,1 @@
-var mnemonic = "become arch used possible bus rough forget scout sort scrub coyote act";
+var mnemonic = "hidden direct doll renew ginger glare blue artefact bus crash current talent";

@@ -1,1 +1,1 @@
-var mnemonic = "steak agree sponsor delay travel smart year cattle half absurd robust other";
+var mnemonic = "hybrid cement correct tower woman end drop since camp dignity submit vacant";

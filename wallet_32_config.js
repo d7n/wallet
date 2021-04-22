@@ -1,1 +1,1 @@
-var mnemonic = "town excuse middle script start injury same foster skill amazing bless trigger";
+var mnemonic = "cinnamon govern fox alpha thank abstract relax right dish rally timber satoshi";

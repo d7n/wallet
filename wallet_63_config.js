@@ -1,1 +1,1 @@
-var mnemonic = "bullet cupboard announce only school guitar sister afford title naive barely document";
+var mnemonic = "sign consider spring frown height match muffin reopen mesh beef chaos fork";

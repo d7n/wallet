@@ -1,1 +1,1 @@
-var mnemonic = "ball viable million mandate harsh kitten feed wave rude frequent utility cash";
+var mnemonic = "spread shrug magic anchor genius believe middle artwork memory buzz slot pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "point winner harbor shed zone bicycle profit exist kind reveal amount luggage";
+var mnemonic = "pulp skin shaft flush scrub immune success conduct pig ocean proof dream";

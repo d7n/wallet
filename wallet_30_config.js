@@ -1,1 +1,1 @@
-var mnemonic = "review reason educate basic vendor cloth power add remind liquid viable bleak";
+var mnemonic = "release injury toilet powder pizza fiscal need pupil hammer chat menu magic";

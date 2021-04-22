@@ -1,1 +1,1 @@
-var mnemonic = "mesh fit coin fringe you flush wasp salute hero boat wagon north";
+var mnemonic = "load salad this fabric absorb rebuild demise safe half trial aunt unveil";

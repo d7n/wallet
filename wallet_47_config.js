@@ -1,1 +1,1 @@
-var mnemonic = "talent quiz thank easily payment engine please this field estate moment panther";
+var mnemonic = "wool coin consider census pioneer category wise arena minor honey anger bitter";

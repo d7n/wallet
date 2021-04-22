@@ -1,1 +1,1 @@
-var mnemonic = "game among mirror bullet work large balance hunt box axis robust enlist";
+var mnemonic = "twist kitchen improve begin hollow deposit aerobic agent claim lens track cherry";

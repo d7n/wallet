@@ -1,1 +1,1 @@
-var mnemonic = "cotton case lazy future tone bless caution execute mosquito canoe repeat disease";
+var mnemonic = "roof screen pigeon fury veteran ski hurry old gold museum pretty such";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition one fork want custom twin boss permit sentence system meadow strategy";
+var mnemonic = "health erase lock ankle three bus sad square piano disease marble sadness";

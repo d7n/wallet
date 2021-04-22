@@ -1,1 +1,1 @@
-var mnemonic = "picture metal oval ball tray game grid close spray runway before green";
+var mnemonic = "uphold magnet erode raise tank latin cycle abuse hole artist version giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "tray forward area bulb best few proud notable wise atom dentist hospital";
+var mnemonic = "loan pull pulp lemon hope vanish fortune mercy clinic coral trim daughter";

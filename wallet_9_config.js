@@ -1,1 +1,1 @@
-var mnemonic = "town sight claw accuse economy grow market cave divide bacon inhale produce";
+var mnemonic = "capable ranch crowd quick despair six attract toward sea valid volume dad";

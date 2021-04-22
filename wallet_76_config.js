@@ -1,1 +1,1 @@
-var mnemonic = "much glance also talk famous claw solution model okay yellow bag detect";
+var mnemonic = "often tobacco urban frog disagree abstract shine rigid hedgehog kangaroo erode glue";

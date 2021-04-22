@@ -1,1 +1,1 @@
-var mnemonic = "inmate spawn fault friend trade emotion board then visa gesture brave broken";
+var mnemonic = "glass federal fruit bless ship cart elder dune region couch patient example";

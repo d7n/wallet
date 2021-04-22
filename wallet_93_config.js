@@ -1,1 +1,1 @@
-var mnemonic = "actual already amount muffin burst rapid noise spin misery pretty stereo pole";
+var mnemonic = "devote immense brick giggle portion fuel confirm birth portion expand silver stairs";

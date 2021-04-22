@@ -1,1 +1,1 @@
-var mnemonic = "provide net wire barely speed initial marriage grid forest elbow stand blade";
+var mnemonic = "fancy dad other cost aspect win foam fiber pact dignity lyrics come";

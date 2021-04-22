@@ -1,1 +1,1 @@
-var mnemonic = "excite wheel denial wreck urban shop coyote shy snack milk omit industry";
+var mnemonic = "art curtain noble cream tent during mean issue elevator series type tail";

@@ -1,1 +1,1 @@
-var mnemonic = "cook depend rice knife emotion media forget matter hedgehog position liar body";
+var mnemonic = "fluid final steel employ resist pass rent knife desk gift wage couple";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp idea harbor general slab mystery buffalo silly claw spend since park";
+var mnemonic = "maximum actor clump deliver dance address hawk sick miss gown face month";

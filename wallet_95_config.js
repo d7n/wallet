@@ -1,1 +1,1 @@
-var mnemonic = "erase avoid hundred bid comfort another ten such initial fluid lamp dice";
+var mnemonic = "ignore joke garlic subject ladder surprise roast inside ice priority poem ceiling";

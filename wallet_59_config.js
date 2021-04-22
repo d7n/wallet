@@ -1,1 +1,1 @@
-var mnemonic = "bind basic legend worry monkey orange usual truth doll giant venture era";
+var mnemonic = "humble enable certain tube kiwi tell addict promote twist gasp write seven";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale fuel aim olive toy grit coach mean tonight embrace lens emotion";
+var mnemonic = "point fall fade size face now accuse wrist dial buffalo earn artist";

@@ -1,1 +1,1 @@
-var mnemonic = "supply month network struggle empty endorse orange fix gaze lunar spawn virtual";
+var mnemonic = "dentist still split detail wasp business group hour betray color purchase ancient";

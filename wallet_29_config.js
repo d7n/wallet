@@ -1,1 +1,1 @@
-var mnemonic = "crunch butter twist train civil poem squeeze corn impose attract photo evoke";
+var mnemonic = "bargain grass cinnamon route garlic pride adjust nasty repeat gospel dirt shield";

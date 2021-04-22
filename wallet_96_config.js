@@ -1,1 +1,1 @@
-var mnemonic = "silent bottom illness law gospel cliff pudding exist usual wear spy below";
+var mnemonic = "cat wonder blade shield firm half run alpha picture sheriff arrow woman";
