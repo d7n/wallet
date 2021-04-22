@@ -1,1 +1,1 @@
-var mnemonic = "snap mean kite scale ivory adapt buffalo salon tone filter six about";
+var mnemonic = "fiscal coast reduce piano call trim feed dish ripple embark clay split";

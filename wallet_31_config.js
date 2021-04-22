@@ -1,1 +1,1 @@
-var mnemonic = "surprise cloud smart write tent erupt resemble vague wedding honey undo jewel";
+var mnemonic = "letter allow joy print kingdom utility climb mirror trial hobby earn photo";

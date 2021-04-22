@@ -1,1 +1,1 @@
-var mnemonic = "idea august digital label genius system shop cradle bubble spare spy sniff";
+var mnemonic = "knee quiz gap tree figure leave flee fever elbow liquid lava method";

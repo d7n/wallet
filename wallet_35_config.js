@@ -1,1 +1,1 @@
-var mnemonic = "judge tired husband jump candy fruit survey merry have garden cherry hospital";
+var mnemonic = "fault dinner define urge door other right nation universe eager world cost";

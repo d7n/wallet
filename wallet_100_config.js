@@ -1,1 +1,1 @@
-var mnemonic = "code warfare flower crash ready now feature cup turtle priority sample wheel";
+var mnemonic = "mutual jazz pipe surge deposit surround slide affair south tomato eight enlist";

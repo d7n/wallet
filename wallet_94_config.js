@@ -1,1 +1,1 @@
-var mnemonic = "silly medal diet walk grief minute want spoon verb guide notice chronic";
+var mnemonic = "head snack gadget live report loan denial receive shove author alarm lottery";

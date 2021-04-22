@@ -1,1 +1,1 @@
-var mnemonic = "they crop caution basic sponsor way silver give enroll aspect helmet smart";
+var mnemonic = "health muscle nature bridge industry sniff list fury fetch theme few hard";

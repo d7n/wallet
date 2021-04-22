@@ -1,1 +1,1 @@
-var mnemonic = "best airport juice wealth grain another clip about front enter say acid";
+var mnemonic = "erase person nephew sniff piano teach differ age answer witness banner country";

@@ -1,1 +1,1 @@
-var mnemonic = "fault split cattle split dutch raise alter project mask cloth roast chalk";
+var mnemonic = "current bring kitten echo yellow jelly edit popular pioneer tube cram brass";

@@ -1,1 +1,1 @@
-var mnemonic = "detail glare misery weird drink wage salt idea medal flush two expect";
+var mnemonic = "tuna album rain quit tilt elevator ice express mention account ticket giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "theme story feed forward topic gate planet melt two spell emerge mansion";
+var mnemonic = "world rotate learn fossil margin olive faculty wage pear plate window color";

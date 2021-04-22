@@ -1,1 +1,1 @@
-var mnemonic = "lamp garment grunt same pet axis bottom broom truly bachelor cradle damage";
+var mnemonic = "swing announce gap worth super horror betray input sword shove wet exhaust";

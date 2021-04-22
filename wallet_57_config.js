@@ -1,1 +1,1 @@
-var mnemonic = "more grain deliver normal coast idea dignity post motion tilt area affair";
+var mnemonic = "father unlock surge lamp pumpkin trade bar album chief doll hockey hand";

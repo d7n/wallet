@@ -1,1 +1,1 @@
-var mnemonic = "similar clutch wait tired neither grab orange oven wine hobby seek trumpet";
+var mnemonic = "simple chicken gather riot quantum mixture hold marine fold abandon debate odor";

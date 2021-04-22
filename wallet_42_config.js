@@ -1,1 +1,1 @@
-var mnemonic = "moral shop alpha drastic blast analyst picnic often october patient direct surface";
+var mnemonic = "emerge open clever attract clean eight deliver illegal census sister often clump";

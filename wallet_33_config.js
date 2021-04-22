@@ -1,1 +1,1 @@
-var mnemonic = "bright cigar hungry staff civil discover quiz whip clean monkey program lady";
+var mnemonic = "speak such badge when patch barrel salt crane coach hamster always addict";

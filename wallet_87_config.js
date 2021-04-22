@@ -1,1 +1,1 @@
-var mnemonic = "bacon snap dog turtle steel dragon sign under squeeze yellow eager path";
+var mnemonic = "mirror similar tool grunt gold depart profit motor moral panic opinion cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat owner chat round purpose fatal length dad bamboo coffee enrich pelican";
+var mnemonic = "noise assault luxury trend citizen city gate source bridge decade dwarf stuff";

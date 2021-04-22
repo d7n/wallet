@@ -1,1 +1,1 @@
-var mnemonic = "next today pistol peanut ring scheme loud trap same brief wear curtain";
+var mnemonic = "submit donkey produce clean deputy opinion social collect volume trophy stumble talk";

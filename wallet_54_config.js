@@ -1,1 +1,1 @@
-var mnemonic = "museum human public silent oblige green oak place struggle crazy husband same";
+var mnemonic = "enjoy fragile away tank medal enlist rule until wrist child around hard";

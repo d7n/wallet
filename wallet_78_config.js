@@ -1,1 +1,1 @@
-var mnemonic = "unaware identify hollow repair grant jelly dash glow cheese bleak good next";
+var mnemonic = "work escape cycle market start race fruit forest alert cinnamon spot swift";

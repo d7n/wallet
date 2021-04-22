@@ -1,1 +1,1 @@
-var mnemonic = "escape impose farm convince slush name dove liberty bulb cheap drama add";
+var mnemonic = "avoid term bench convince select sample breeze mango margin main hand hour";

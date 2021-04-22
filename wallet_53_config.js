@@ -1,1 +1,1 @@
-var mnemonic = "act airport wish climb secret switch deer comic across average clown vote";
+var mnemonic = "also avocado check grape try weird mushroom cube twist mask below abstract";

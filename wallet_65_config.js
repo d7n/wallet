@@ -1,1 +1,1 @@
-var mnemonic = "any woman elegant require spatial gown image current truly illness piece exercise";
+var mnemonic = "turtle omit alpha candy join almost grant wheat wrestle boost joy census";

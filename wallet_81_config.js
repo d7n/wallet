@@ -1,1 +1,1 @@
-var mnemonic = "physical alley turkey paper honey daring happy loud luggage clean poet argue";
+var mnemonic = "state aerobic season fresh mule prevent galaxy rough orbit boss fashion topic";

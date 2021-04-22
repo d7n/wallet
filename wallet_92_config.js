@@ -1,1 +1,1 @@
-var mnemonic = "index garden title ordinary people detect unveil canal final office follow valid";
+var mnemonic = "brand dove flush dilemma beyond bird napkin help trip drastic sword team";

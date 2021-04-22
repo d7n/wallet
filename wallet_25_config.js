@@ -1,1 +1,1 @@
-var mnemonic = "protect eagle kiwi dust leisure fossil chest blouse dilemma sniff jungle find";
+var mnemonic = "hospital kingdom eternal struggle tip treat become chest cash gym find owner";

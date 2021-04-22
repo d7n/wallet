@@ -1,1 +1,1 @@
-var mnemonic = "twelve spice dune poet few tumble dumb habit mosquito puzzle insect jealous";
+var mnemonic = "hospital benefit near globe today ancient debate fall butter eyebrow illness lumber";

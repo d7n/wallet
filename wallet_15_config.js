@@ -1,1 +1,1 @@
-var mnemonic = "change vintage inmate lady purity crater ramp lounge inner maple follow hire";
+var mnemonic = "skate artist material stage matrix solar pizza oppose critic gaze clerk plug";

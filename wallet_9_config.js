@@ -1,1 +1,1 @@
-var mnemonic = "first truth coach switch tooth evoke gym fatal peasant aunt urge coin";
+var mnemonic = "forward brand bronze device polar crucial scare spread point violin february title";

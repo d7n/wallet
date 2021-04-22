@@ -1,1 +1,1 @@
-var mnemonic = "casual stomach leader oil various stove divorce rapid suggest kick voyage wealth";
+var mnemonic = "upper east virtual wild supreme coral analyst chaos sleep yard quarter tilt";

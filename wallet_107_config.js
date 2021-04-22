@@ -1,1 +1,1 @@
-var mnemonic = "tank helmet flat carry avocado never fatal pudding park robot ship dragon";
+var mnemonic = "arrange celery boss area put express citizen jump target apart please tackle";

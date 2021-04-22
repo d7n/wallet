@@ -1,1 +1,1 @@
-var mnemonic = "pitch again head enable awful orchard junior myself luxury credit during pear";
+var mnemonic = "pledge panic fetch knife shoulder bless sight decline canyon laptop mixed ghost";

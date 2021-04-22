@@ -1,1 +1,1 @@
-var mnemonic = "mom merge inspire afraid glove gap universe imitate broken replace sleep minute";
+var mnemonic = "faculty woman because equip enable approve magnet company gold sudden jeans season";

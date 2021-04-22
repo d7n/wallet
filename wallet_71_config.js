@@ -1,1 +1,1 @@
-var mnemonic = "verify penalty salute man sock desert recall yellow wood ability suspect accident";
+var mnemonic = "exhibit deal very replace claw switch raise smoke try hint vibrant civil";

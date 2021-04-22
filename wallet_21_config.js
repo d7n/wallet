@@ -1,1 +1,1 @@
-var mnemonic = "gain ill glance job deer later nerve enact decade shoulder come gesture";
+var mnemonic = "reward repeat pattern army roof fatal scan roof never canoe account tip";

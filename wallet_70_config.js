@@ -1,1 +1,1 @@
-var mnemonic = "boil afford idea never match price rib melody boss sea crucial tail";
+var mnemonic = "hover exotic fitness maze giant oval scatter pool member tree oxygen again";

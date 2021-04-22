@@ -1,1 +1,1 @@
-var mnemonic = "garlic extra firm again predict worth raise subject image limb dinner agent";
+var mnemonic = "already soul expect left slim tired jazz pluck script recall brain canoe";

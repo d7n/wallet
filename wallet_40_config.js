@@ -1,1 +1,1 @@
-var mnemonic = "ritual soft charge they hold toward gold letter panda couch satoshi knife";
+var mnemonic = "sadness supply near correct oval float leisure confirm mushroom dry wasp husband";

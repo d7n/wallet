@@ -1,1 +1,1 @@
-var mnemonic = "toast giraffe debris shallow deny noble orchard fiction portion diet blast rice";
+var mnemonic = "sorry shuffle canal ready bargain gold grocery emotion short fiber earn scheme";

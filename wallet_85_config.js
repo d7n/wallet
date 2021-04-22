@@ -1,1 +1,1 @@
-var mnemonic = "next steak upon indoor sibling few depend yellow thank device fan below";
+var mnemonic = "canoe swamp chair erase arrange spend heavy library gauge clinic clutch refuse";

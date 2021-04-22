@@ -1,1 +1,1 @@
-var mnemonic = "wish beyond chapter fiscal satisfy topple squirrel captain cradle ridge ribbon liberty";
+var mnemonic = "like eight sibling tomorrow panda puzzle antenna orange market guide bike glare";

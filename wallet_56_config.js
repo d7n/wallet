@@ -1,1 +1,1 @@
-var mnemonic = "pig spice pear scale midnight umbrella slam okay robot old sell swim";
+var mnemonic = "dragon antenna more plug cube peanut expose carry paper shoulder eye treat";

@@ -1,1 +1,1 @@
-var mnemonic = "maid deputy trigger pig receive pill any stumble tide inherit detect teach";
+var mnemonic = "degree two split minute behave jewel yellow want provide bike tonight ramp";

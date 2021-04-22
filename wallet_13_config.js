@@ -1,1 +1,1 @@
-var mnemonic = "alley rival help box pipe pilot special olympic spatial flush approve occur";
+var mnemonic = "dizzy cover cluster empower group fragile host outer smile oblige region finger";

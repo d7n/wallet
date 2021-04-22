@@ -1,1 +1,1 @@
-var mnemonic = "window unfold spice drive rural hat still tuna ceiling airport combine gas";
+var mnemonic = "casino fade load diary fuel blossom dune crop truth audit wear broom";

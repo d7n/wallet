@@ -1,1 +1,1 @@
-var mnemonic = "price few shed vessel tourist asset blood upgrade table affair census capital";
+var mnemonic = "autumn into faculty dinner enhance else kiwi arrive decide van juice piano";

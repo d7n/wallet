@@ -1,1 +1,1 @@
-var mnemonic = "junior afford hurt fork erosion reason ability rather they viable penalty crouch";
+var mnemonic = "ecology pioneer deal license yard cash elegant bulb surge company share dry";

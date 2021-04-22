@@ -1,1 +1,1 @@
-var mnemonic = "host gospel olympic gadget fly collect illegal book void address true exile";
+var mnemonic = "second brother afraid dutch scatter trick resemble claim song fit social into";

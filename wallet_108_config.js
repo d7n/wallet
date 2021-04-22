@@ -1,1 +1,1 @@
-var mnemonic = "match keen expire thing clown spoil upgrade myself explain fiscal moment engage";
+var mnemonic = "humble weekend supply follow age escape loyal cover decrease luxury quote future";

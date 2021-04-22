@@ -1,1 +1,1 @@
-var mnemonic = "upper love pupil people hen bird walk oil taxi network eye wire";
+var mnemonic = "album term deposit lock cram moment office parade fetch worry expect smart";

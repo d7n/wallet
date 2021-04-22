@@ -1,1 +1,1 @@
-var mnemonic = "spin scout wise love empower hub nature kitten copy scene cousin nature";
+var mnemonic = "seek master cloth garden style quantum inhale jealous symbol gym enroll innocent";

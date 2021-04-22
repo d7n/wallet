@@ -1,1 +1,1 @@
-var mnemonic = "garage long decide culture erase salon dust token cube wealth north select";
+var mnemonic = "feature surprise dragon nurse blue renew false tired push riot easily image";

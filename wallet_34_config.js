@@ -1,1 +1,1 @@
-var mnemonic = "draw pill regret modify horse pond beef rotate faith accuse chair waste";
+var mnemonic = "employ busy man sun sentence rate exhibit zero runway clog hazard sight";

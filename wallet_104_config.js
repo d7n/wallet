@@ -1,1 +1,1 @@
-var mnemonic = "kidney key cabbage swallow brass broom detect quantum define magnet feed together";
+var mnemonic = "rent exhibit scorpion grab pen refuse wage estate trap fun tongue panic";

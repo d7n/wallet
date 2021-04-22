@@ -1,1 +1,1 @@
-var mnemonic = "blind behind worth metal cattle kitchen lava turn good ordinary engine sad";
+var mnemonic = "trigger blouse hard order cherry common hero return sight engine skin mouse";

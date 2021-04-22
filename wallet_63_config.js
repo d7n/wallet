@@ -1,1 +1,1 @@
-var mnemonic = "blossom reward crouch company cannon tray explain gesture void warrior dove become";
+var mnemonic = "lab keen pole suffer foot enter castle guess sudden admit regret sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "wild toward idle injury assume staff oyster sauce exchange spatial dream husband";
+var mnemonic = "ostrich clap expire radar copper supply clog enact paper accident foot quarter";

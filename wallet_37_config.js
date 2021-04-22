@@ -1,1 +1,1 @@
-var mnemonic = "cupboard ramp breeze brush absent cliff asthma evolve harbor siren fence arch";
+var mnemonic = "blind spider left enhance photo dust rough remove cause census dream protect";

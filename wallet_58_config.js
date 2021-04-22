@@ -1,1 +1,1 @@
-var mnemonic = "eagle sweet science please diagram year diet garment wish dutch maid choice";
+var mnemonic = "sphere pistol rate pluck camera flash rely crawl track cash fringe aware";

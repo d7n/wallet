@@ -1,1 +1,1 @@
-var mnemonic = "carry donor topple manage good image diagram pipe keep nothing east monster";
+var mnemonic = "reunion crowd doll pledge before catch pony furnace example marine group explain";

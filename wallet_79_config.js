@@ -1,1 +1,1 @@
-var mnemonic = "castle august spoil pupil flame blur tip degree shed guard room pass";
+var mnemonic = "crash river fashion river finger industry pipe pink lamp hotel together venue";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious sunny romance sort text debate setup walk galaxy pave switch artwork";
+var mnemonic = "approve mule cover whisper review battle canoe gravity oil run play valve";

@@ -1,1 +1,1 @@
-var mnemonic = "will series pupil dynamic wall domain away raise lava humble sport room";
+var mnemonic = "kitchen carbon artwork meat naive conduct brass garlic clever coil measure million";

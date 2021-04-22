@@ -1,1 +1,1 @@
-var mnemonic = "bunker curious art fancy other arena wet inside camp bus electric blade";
+var mnemonic = "capital custom unknown exotic organ good monster select best fame frost metal";

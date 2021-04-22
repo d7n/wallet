@@ -1,1 +1,1 @@
-var mnemonic = "common gasp lend bunker enroll argue mind pride try outside fiber spell";
+var mnemonic = "main buddy beauty castle soap assume town access bachelor top crisp coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "world tape pact budget airport horror jungle awful degree finish retire fluid";
+var mnemonic = "creek cluster dance resemble solution uphold lecture swarm output december crop like";

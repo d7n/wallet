@@ -1,1 +1,1 @@
-var mnemonic = "supply result skull hill fossil runway mammal dentist add fame awake suggest";
+var mnemonic = "veteran person much thumb hill close swim mask gift success solid rather";

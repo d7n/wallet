@@ -1,1 +1,1 @@
-var mnemonic = "deputy dismiss invest urge castle notice where embark loyal section jungle water";
+var mnemonic = "feature achieve vapor balance blood lens guard aisle post index stay scout";

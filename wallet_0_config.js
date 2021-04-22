@@ -1,1 +1,1 @@
-var mnemonic = "turkey inspire object hole three regret rice fetch melt vapor dragon amused";
+var mnemonic = "eye idle canvas review polar analyst auction canoe satoshi nasty tortoise wage";

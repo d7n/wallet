@@ -1,1 +1,1 @@
-var mnemonic = "cancel monster profit swift leave shoe fringe unfair kidney climb dawn grunt";
+var mnemonic = "space confirm process online alien ahead pen beauty hover type method garage";

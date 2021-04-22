@@ -1,1 +1,1 @@
-var mnemonic = "have fit guess taste struggle host lunar pencil insect make share dress";
+var mnemonic = "visa mutual possible nurse target kitten afford entire final join share huge";

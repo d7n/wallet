@@ -1,1 +1,1 @@
-var mnemonic = "piece zebra drama human aisle hip detect wrap stamp view donate season";
+var mnemonic = "busy ask unveil drop acoustic dignity festival right lava tenant review fade";

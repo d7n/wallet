@@ -1,1 +1,1 @@
-var mnemonic = "menu inflict gas over kangaroo aunt rescue forget risk citizen wonder athlete";
+var mnemonic = "assist bike artist pull credit eager knock confirm recycle grain employ isolate";

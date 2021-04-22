@@ -1,1 +1,1 @@
-var mnemonic = "park offer core opinion involve pepper hammer produce faint wrap lucky acoustic";
+var mnemonic = "two settle bottom material update artefact assault exercise resemble result canyon fee";

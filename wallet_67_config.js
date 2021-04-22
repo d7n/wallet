@@ -1,1 +1,1 @@
-var mnemonic = "emotion mass glance file column width exclude effort twenty anger resist riot";
+var mnemonic = "network roast sock asthma clarify insane plunge inhale buyer aunt effort hamster";

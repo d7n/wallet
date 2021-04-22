@@ -1,1 +1,1 @@
-var mnemonic = "group twist boost destroy canvas bleak keen used cool abuse seminar correct";
+var mnemonic = "just tissue holiday edge regret scout rack merge donor seed gather indicate";

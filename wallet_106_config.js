@@ -1,1 +1,1 @@
-var mnemonic = "august cream deliver blast crucial clump soft prefer remind minor head quarter";
+var mnemonic = "cheese brown rude immense pumpkin grit video retreat title wrong nasty apple";

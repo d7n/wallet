@@ -1,1 +1,1 @@
-var mnemonic = "exact valley pistol betray source trumpet yard survey acid eyebrow ice cancel";
+var mnemonic = "price flee you shed capital dash speed account rather middle fold course";

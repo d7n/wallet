@@ -1,1 +1,1 @@
-var mnemonic = "monkey regular proof news pond spike reason evil shaft warfare stem scout";
+var mnemonic = "stumble hard embody idle athlete hen chunk twenty sound silver royal couch";

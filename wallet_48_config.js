@@ -1,1 +1,1 @@
-var mnemonic = "cash novel vendor violin across coral eager jewel speak excuse top mobile";
+var mnemonic = "stick whisper giraffe sibling idle initial perfect anxiety order cool drastic staff";

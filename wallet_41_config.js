@@ -1,1 +1,1 @@
-var mnemonic = "market harsh door zone kiss tobacco truck review tired grow reduce quantum";
+var mnemonic = "gospel awkward else nasty danger joy urge saddle odor item silly kid";

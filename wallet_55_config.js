@@ -1,1 +1,1 @@
-var mnemonic = "green report crunch nature endorse divert flame present buyer pulp acoustic spot";
+var mnemonic = "another enhance route tiger stick round virtual sausage electric relax route asthma";

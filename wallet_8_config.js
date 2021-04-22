@@ -1,1 +1,1 @@
-var mnemonic = "because order crisp harvest kite fitness child input blur mask camp claim";
+var mnemonic = "stuff rely simple bomb horror account produce phrase daughter liquid rotate mammal";

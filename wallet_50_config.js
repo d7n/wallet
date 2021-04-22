@@ -1,1 +1,1 @@
-var mnemonic = "leaf club useless decorate carpet search idea aware awesome blast zone crowd";
+var mnemonic = "siren flat net basket deer hawk consider unaware buyer rent skin clip";

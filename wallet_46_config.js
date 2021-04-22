@@ -1,1 +1,1 @@
-var mnemonic = "advance butter rapid share own target whale hand citizen daughter cliff inside";
+var mnemonic = "teach wagon clap upper observe ripple egg client horn fatal ensure comic";

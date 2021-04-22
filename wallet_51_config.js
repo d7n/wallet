@@ -1,1 +1,1 @@
-var mnemonic = "route prevent ticket city warrior silk onion nominee emerge license guitar afford";
+var mnemonic = "trend quiz airport ancient wasp giggle lonely shop ask volcano mirror rude";

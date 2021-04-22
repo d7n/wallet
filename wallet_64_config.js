@@ -1,1 +1,1 @@
-var mnemonic = "rail bundle snap dwarf sleep horn toast primary talk ready pen labor";
+var mnemonic = "sting enlist people reopen acoustic matrix wire front daring bamboo suggest kit";

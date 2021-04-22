@@ -1,1 +1,1 @@
-var mnemonic = "control broken entire glance frame flock fat noodle radar poem foil frozen";
+var mnemonic = "exclude matrix unfold visual tragic flee fresh monkey jealous rice improve science";

@@ -1,1 +1,1 @@
-var mnemonic = "also interest dismiss eternal shine wild forest awful grass prefer awesome display";
+var mnemonic = "conduct solve morning skill foster vault blur thunder bulb blame light cruise";

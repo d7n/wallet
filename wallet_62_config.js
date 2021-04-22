@@ -1,1 +1,1 @@
-var mnemonic = "valid length below weather town gather vault element wear lawsuit dish play";
+var mnemonic = "bulb ceiling style idle fantasy clarify manual trouble hover junior post sentence";

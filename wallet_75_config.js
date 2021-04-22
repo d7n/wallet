@@ -1,1 +1,1 @@
-var mnemonic = "empower dilemma slogan want hurdle lava spirit culture crane series proud sort";
+var mnemonic = "similar report blind tattoo legend truck fiscal blind bargain broccoli tooth erupt";

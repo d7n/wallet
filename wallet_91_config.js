@@ -1,1 +1,1 @@
-var mnemonic = "blanket wisdom velvet near parade defy element fury speed name banner father";
+var mnemonic = "wood episode tip decade deny mask educate poet alley away attack high";

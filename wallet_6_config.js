@@ -1,1 +1,1 @@
-var mnemonic = "cactus place struggle sing abstract glimpse voyage catalog soccer affair popular choose";
+var mnemonic = "walk despair circle ridge width treat enter dash hire cigar task avoid";

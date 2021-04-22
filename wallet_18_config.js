@@ -1,1 +1,1 @@
-var mnemonic = "replace aunt member odor unit razor subway immense method prefer dream mass";
+var mnemonic = "abuse simple pipe other wait swamp come twice result medal ready level";

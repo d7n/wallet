@@ -1,1 +1,1 @@
-var mnemonic = "safe world potato balance cupboard valid bullet coin mother quality dilemma unfold";
+var mnemonic = "punch blue cube tip neglect conduct scout faculty bomb thank page maid";
