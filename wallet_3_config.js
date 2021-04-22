@@ -1,1 +1,1 @@
-var mnemonic = "large poet hole paper siren violin rabbit female pair praise logic novel";
+var mnemonic = "sign chuckle trophy loop abstract ranch science suffer harbor wrestle shoe dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "view social orphan absent worth bomb credit topic true salad castle alert";
+var mnemonic = "item spatial cinnamon thank wolf still fit age cheese theme sword palm";

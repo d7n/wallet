@@ -1,1 +1,1 @@
-var mnemonic = "silk monkey author pitch birth reward trim couple sweet globe remove voice";
+var mnemonic = "fence inherit error blood cinnamon regret increase key sphere cube join erupt";

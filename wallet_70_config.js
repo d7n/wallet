@@ -1,1 +1,1 @@
-var mnemonic = "flag equal someone payment response order energy crowd fragile runway indicate crunch";
+var mnemonic = "december indicate concert ball rural become service proof rose net involve meadow";

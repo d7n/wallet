@@ -1,1 +1,1 @@
-var mnemonic = "only flat lend learn tattoo diesel bright jelly shallow era egg motion";
+var mnemonic = "marble chief frequent favorite never solar giant food practice skirt length panel";

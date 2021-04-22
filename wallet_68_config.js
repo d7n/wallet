@@ -1,1 +1,1 @@
-var mnemonic = "jar vibrant fine stand smile sock twin slight few mind hundred outside";
+var mnemonic = "category door taxi plastic begin small drink path butter winner upgrade salmon";

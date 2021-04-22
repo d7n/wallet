@@ -1,1 +1,1 @@
-var mnemonic = "economy photo valley grain public holiday dizzy smart drum mutual heart coast";
+var mnemonic = "sadness mask ski humble poem climb guitar deal caught civil stock imitate";

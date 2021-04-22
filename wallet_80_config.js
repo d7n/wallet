@@ -1,1 +1,1 @@
-var mnemonic = "decorate flip side small staff exercise spawn voyage wheel icon beach brand";
+var mnemonic = "wife field blanket off long arctic mom exercise marine glass resist idea";

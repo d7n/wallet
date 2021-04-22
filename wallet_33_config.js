@@ -1,1 +1,1 @@
-var mnemonic = "angle there churn tumble inner unusual hat fitness shell inner off sound";
+var mnemonic = "wait kitchen firm milk action blade keen asset poverty sound puppy gain";

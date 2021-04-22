@@ -1,1 +1,1 @@
-var mnemonic = "initial decide abuse food alarm plastic metal cream attend vague pig ginger";
+var mnemonic = "team rubber brand tackle anchor annual culture venture recall advice ramp eternal";

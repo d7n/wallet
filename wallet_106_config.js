@@ -1,1 +1,1 @@
-var mnemonic = "wear paddle ethics inform winter situate tooth artwork misery sniff ready absent";
+var mnemonic = "phone alcohol main often ethics equip trophy rent order matter marble tail";

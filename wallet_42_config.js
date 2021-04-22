@@ -1,1 +1,1 @@
-var mnemonic = "review truth trend gloom turn segment scale success parrot chat spawn dinner";
+var mnemonic = "choose youth first surround rude rug also gallery damp devote noble medal";

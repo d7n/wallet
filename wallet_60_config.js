@@ -1,1 +1,1 @@
-var mnemonic = "nephew excite club hero shine stick essay shop account quality artwork increase";
+var mnemonic = "fragile chef tag rather text forget hockey tonight analyst pen embrace cricket";

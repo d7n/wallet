@@ -1,1 +1,1 @@
-var mnemonic = "stairs aspect panel south more poverty unfair fly crowd drill okay ugly";
+var mnemonic = "peanut open below face caution system motion image major medal camera shrimp";

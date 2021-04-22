@@ -1,1 +1,1 @@
-var mnemonic = "junior remove tomato behind mistake space crunch grief correct uphold donor magic";
+var mnemonic = "nasty wife almost inject wait switch provide toilet profit radar friend beyond";

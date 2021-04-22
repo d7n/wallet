@@ -1,1 +1,1 @@
-var mnemonic = "soap hub laptop fabric harvest leisure plug weekend strike negative pear sudden";
+var mnemonic = "vacuum security will arena intact earn erase shiver cabin stadium hawk fatal";

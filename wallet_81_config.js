@@ -1,1 +1,1 @@
-var mnemonic = "famous tag asset access answer valve route grant car border cage ring";
+var mnemonic = "provide squirrel grant plastic garbage labor blossom wash ankle evoke vast phone";

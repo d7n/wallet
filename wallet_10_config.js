@@ -1,1 +1,1 @@
-var mnemonic = "theory horn enhance exit stove maid sting decrease load below pink topple";
+var mnemonic = "scrub coin walk clip beef giggle sword wrist art broccoli pyramid world";

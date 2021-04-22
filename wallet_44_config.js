@@ -1,1 +1,1 @@
-var mnemonic = "voice long social asset soda label since panic target lunch gauge strike";
+var mnemonic = "spare stone route twenty proud mass senior gas typical vicious network salute";

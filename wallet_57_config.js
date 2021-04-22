@@ -1,1 +1,1 @@
-var mnemonic = "chuckle clarify prepare code wool neutral arrive knock acquire spin arrow crater";
+var mnemonic = "deliver still clown engage airport talent useless foil spoon boy birth source";

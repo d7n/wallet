@@ -1,1 +1,1 @@
-var mnemonic = "powder reason call trip relax lottery glove silly romance random reward differ";
+var mnemonic = "blanket knee over tribe tattoo hire proud million edit chimney blanket goose";

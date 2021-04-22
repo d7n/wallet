@@ -1,1 +1,1 @@
-var mnemonic = "seed shell like pave style gas napkin lesson ginger fault any tower";
+var mnemonic = "joy strike hello crush soul bid vendor kick prison task kid regular";

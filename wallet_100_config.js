@@ -1,1 +1,1 @@
-var mnemonic = "science learn kangaroo arrange airport parrot retreat leopard depend clean empty stool";
+var mnemonic = "coast squeeze amount gather demand once mesh vocal exile wolf digital bone";

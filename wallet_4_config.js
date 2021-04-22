@@ -1,1 +1,1 @@
-var mnemonic = "example cost drive update rotate army health choice brass mushroom bread slam";
+var mnemonic = "federal tourist suspect myself silver resemble oval jelly diary panther kitten pride";

@@ -1,1 +1,1 @@
-var mnemonic = "rice impose powder hurdle retire keen few ball adjust example foot improve";
+var mnemonic = "judge tip outdoor artwork they wire desert file student travel lift banana";

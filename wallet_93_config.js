@@ -1,1 +1,1 @@
-var mnemonic = "stock crisp arrange empower sauce sort endorse wheel swarm mouse own pig";
+var mnemonic = "regular carbon wasp exile crisp setup major glove horn absent copper wrap";

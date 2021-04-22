@@ -1,1 +1,1 @@
-var mnemonic = "weather essence fence pride main design machine direct plunge accident mule surprise";
+var mnemonic = "device mandate blanket lift found video giraffe hill glimpse couch sunny raven";

@@ -1,1 +1,1 @@
-var mnemonic = "method spray solve tower spatial talk north sun fix present giraffe rich";
+var mnemonic = "indicate hand spatial fiction drink mind couple length rate office inmate arena";

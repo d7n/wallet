@@ -1,1 +1,1 @@
-var mnemonic = "energy quick inform pledge filter nerve estate retire elegant loan tourist tonight";
+var mnemonic = "resemble unique daughter erase alter blush kingdom ride burden asthma owner trophy";

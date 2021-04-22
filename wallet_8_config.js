@@ -1,1 +1,1 @@
-var mnemonic = "multiply model report wage dish wine charge census subway know dentist salad";
+var mnemonic = "news sort party remember piano wheat material dish cream silver script peanut";

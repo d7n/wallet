@@ -1,1 +1,1 @@
-var mnemonic = "way ability embark chat zero morning imitate crash treat rabbit upon twin";
+var mnemonic = "stick cigar accuse tool state air palm midnight plate monster law high";

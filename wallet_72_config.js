@@ -1,1 +1,1 @@
-var mnemonic = "thought door human maid memory nation earn address unable morning expire knock";
+var mnemonic = "evidence rack salt confirm north fork sudden buffalo chief power lumber flush";

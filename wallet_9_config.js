@@ -1,1 +1,1 @@
-var mnemonic = "twin phone borrow gather certain panic dream alcohol base relief elder omit";
+var mnemonic = "tennis produce clerk destroy exercise dragon attract crash perfect divert ice problem";

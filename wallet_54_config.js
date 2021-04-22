@@ -1,1 +1,1 @@
-var mnemonic = "dignity please scissors between stomach infant journey usual indoor vast equip morning";
+var mnemonic = "spot prevent panther predict garlic web beef knife mass tip bean despair";

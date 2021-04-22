@@ -1,1 +1,1 @@
-var mnemonic = "surface search open popular start bulb need hope foam wealth catalog lobster";
+var mnemonic = "penalty cake rotate rural void blame achieve congress swamp present inject quick";

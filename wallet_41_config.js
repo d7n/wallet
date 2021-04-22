@@ -1,1 +1,1 @@
-var mnemonic = "fantasy rent oxygen happy pact series afford appear zebra warrior crush force";
+var mnemonic = "purity into traffic act nose veteran project jeans unaware travel oblige crumble";

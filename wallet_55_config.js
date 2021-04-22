@@ -1,1 +1,1 @@
-var mnemonic = "reward detect sell nice sad pair excuse exhaust zero room angle toward";
+var mnemonic = "endorse luggage mystery light require peace fortune inflict horse opera proof main";

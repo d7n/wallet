@@ -1,1 +1,1 @@
-var mnemonic = "bicycle two rebel allow hobby exact travel drive paddle impose neglect what";
+var mnemonic = "hamster sunset oyster bottom mobile head future nothing mix victory job icon";

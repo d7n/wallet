@@ -1,1 +1,1 @@
-var mnemonic = "quote shoulder roast mimic impulse garment language flush unable execute spatial kind";
+var mnemonic = "wheat style quantum federal stable bar cabbage fitness trust dentist evil exact";

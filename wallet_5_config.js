@@ -1,1 +1,1 @@
-var mnemonic = "arctic flash guitar jar flame tiny cannon then transfer twice pioneer possible";
+var mnemonic = "roof cruise false upgrade cargo link recall warm reopen caution narrow echo";

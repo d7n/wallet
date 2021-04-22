@@ -1,1 +1,1 @@
-var mnemonic = "worry universe flavor pole chalk absent volume away vendor cancel fit ball";
+var mnemonic = "giraffe portion rookie brain swap keep frog extra explain name dragon primary";

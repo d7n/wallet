@@ -1,1 +1,1 @@
-var mnemonic = "jaguar before liar shrug blade frame horse year income fantasy face cigar";
+var mnemonic = "advice dragon hard raw clip undo adjust neglect fire horse end salute";

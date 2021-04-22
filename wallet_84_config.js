@@ -1,1 +1,1 @@
-var mnemonic = "slice kiwi own custom alpha away elephant alley hybrid food expire ladder";
+var mnemonic = "mechanic deer clever wasp canyon draw position suit planet follow forest want";

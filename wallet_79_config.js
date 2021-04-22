@@ -1,1 +1,1 @@
-var mnemonic = "cabbage neck person laugh satisfy silk able license cluster double fox riot";
+var mnemonic = "another author voice rally mistake spoil again liar tornado waste night define";

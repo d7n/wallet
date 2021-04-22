@@ -1,1 +1,1 @@
-var mnemonic = "moral bulk portion banana salt bulb guitar rebuild deal deer better dose";
+var mnemonic = "resemble manage tortoise offer cupboard liberty toe offer angle above client trash";

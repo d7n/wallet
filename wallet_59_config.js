@@ -1,1 +1,1 @@
-var mnemonic = "magic fly light wild wreck health begin appear science code mom allow";
+var mnemonic = "book decide math crunch march detail vessel space obtain eternal evidence cotton";

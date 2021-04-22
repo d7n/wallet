@@ -1,1 +1,1 @@
-var mnemonic = "finger health write predict effort mistake silver mix clip income invest snow";
+var mnemonic = "marriage jazz grab nasty belt echo tube peanut guilt coil protect copy";

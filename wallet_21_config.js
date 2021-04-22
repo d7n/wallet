@@ -1,1 +1,1 @@
-var mnemonic = "salmon badge draft veteran differ crawl account fit sugar powder field scorpion";
+var mnemonic = "gravity sleep when zone sport grape split deal mirror venture betray pluck";

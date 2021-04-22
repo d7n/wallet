@@ -1,1 +1,1 @@
-var mnemonic = "churn market bag rude apple can acid virus able trophy main pottery";
+var mnemonic = "burden load kite fall enact clip clerk unknown vanish bachelor critic sister";

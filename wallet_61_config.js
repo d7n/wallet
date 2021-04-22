@@ -1,1 +1,1 @@
-var mnemonic = "symbol around twenty drill wedding poverty doll buffalo suit trash polar bird";
+var mnemonic = "garlic steak autumn tree reward person sight what amount energy noble charge";

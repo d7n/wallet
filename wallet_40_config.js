@@ -1,1 +1,1 @@
-var mnemonic = "end lesson admit sail agent frost finish bacon flame innocent renew faint";
+var mnemonic = "genius sleep soul host exercise foam offer dragon rebuild pink saddle dolphin";

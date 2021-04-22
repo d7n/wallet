@@ -1,1 +1,1 @@
-var mnemonic = "because chase desk picture spike update wet hungry stone wreck dash museum";
+var mnemonic = "raw puppy slogan frequent fresh van mango reflect habit diary deer south";

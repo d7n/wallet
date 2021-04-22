@@ -1,1 +1,1 @@
-var mnemonic = "usage moral fabric short monkey puppy river screen exact accuse crack mammal";
+var mnemonic = "try rebel lamp broccoli truck giant eager pony baby song tired gift";

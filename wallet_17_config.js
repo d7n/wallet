@@ -1,1 +1,1 @@
-var mnemonic = "rhythm theme program craft reflect syrup secret sadness build truly noble surround";
+var mnemonic = "scene interest arrow farm husband book armor whale episode debate guide alert";

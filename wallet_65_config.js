@@ -1,1 +1,1 @@
-var mnemonic = "capital voyage theme depart sail service police foam undo crime security found";
+var mnemonic = "siren struggle embody head episode account profit able setup series you subject";

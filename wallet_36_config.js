@@ -1,1 +1,1 @@
-var mnemonic = "father section more video ginger maple increase distance give tobacco exotic electric";
+var mnemonic = "strike pluck sample mom degree topic fury usual lab chair anxiety wheel";

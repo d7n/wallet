@@ -1,1 +1,1 @@
-var mnemonic = "track goddess skin coyote width decade plate payment warrior gasp order angry";
+var mnemonic = "grief obvious enhance future glance finger fatigue reject wool calm shoulder gravity";

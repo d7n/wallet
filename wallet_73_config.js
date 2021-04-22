@@ -1,1 +1,1 @@
-var mnemonic = "oil amazing slight flavor cat goose ramp subway typical fabric denial meadow";
+var mnemonic = "reward ridge whale tower margin stuff hobby evidence fog sting rocket edit";

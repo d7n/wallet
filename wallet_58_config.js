@@ -1,1 +1,1 @@
-var mnemonic = "gadget need submit regular atom must sign draw salad success need possible";
+var mnemonic = "glow escape patient surface holiday area tribe panel slow health tribe ignore";

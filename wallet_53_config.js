@@ -1,1 +1,1 @@
-var mnemonic = "grief target smart clap refuse sheriff language recycle want proud afraid share";
+var mnemonic = "silly corn soldier pottery news shoe extra raven lottery fold dune govern";

@@ -1,1 +1,1 @@
-var mnemonic = "apart type identify deposit tool answer mention priority spoil accident soon turn";
+var mnemonic = "large enact ostrich discover purpose cake moon pave cancel bean know ordinary";

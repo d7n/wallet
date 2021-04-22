@@ -1,1 +1,1 @@
-var mnemonic = "mind diary thing chaos sell matter story slush meat horror loyal online";
+var mnemonic = "drastic kind glance bulb curtain vanish kiss fever depth nurse fetch multiply";

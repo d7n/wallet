@@ -1,1 +1,1 @@
-var mnemonic = "session phone cricket case scheme train fuel catalog leisure ghost session party";
+var mnemonic = "next swing farm blade vanish cool afraid come nuclear total add file";

@@ -1,1 +1,1 @@
-var mnemonic = "dash damage neither magnet surge dolphin public tilt fog person satoshi help";
+var mnemonic = "street mountain toilet clump student exhaust sword enrich sunny split filter feed";

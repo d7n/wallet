@@ -1,1 +1,1 @@
-var mnemonic = "bargain learn curtain luxury spread silk clay veteran day deputy clap enlist";
+var mnemonic = "slot dream margin imitate vessel laptop night alone fiscal weasel sport such";

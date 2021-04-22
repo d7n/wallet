@@ -1,1 +1,1 @@
-var mnemonic = "client hole glance payment tank present forest oblige major fatal boil surprise";
+var mnemonic = "rival turkey phone process license then silly merry price follow cactus invite";

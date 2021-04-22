@@ -1,1 +1,1 @@
-var mnemonic = "start dream mom wild orchard hospital naive club matrix corn struggle else";
+var mnemonic = "tackle tackle absurd social odor receive doctor witness voice afford surprise drift";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard salon jealous wise magic lion monkey wear net sugar ring nasty";
+var mnemonic = "swarm problem engage bachelor escape goddess voice scheme toss warfare region bread";

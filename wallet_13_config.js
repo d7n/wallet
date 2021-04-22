@@ -1,1 +1,1 @@
-var mnemonic = "forest effort huge rifle few accuse live skirt world polar pony farm";
+var mnemonic = "unique impulse sail insect alcohol cup shell permit tired survey direct open";

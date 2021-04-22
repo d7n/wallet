@@ -1,1 +1,1 @@
-var mnemonic = "ask cruel crisp broken gift north mushroom area brass cave deny garden";
+var mnemonic = "choose pet image stumble depth goddess gun riot hockey mutual million start";

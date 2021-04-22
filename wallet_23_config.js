@@ -1,1 +1,1 @@
-var mnemonic = "lyrics payment diary below useful tongue clog snow bulk husband expose happy";
+var mnemonic = "mutual famous rotate usual gorilla disease cousin disease cement boil claw rough";

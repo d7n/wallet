@@ -1,1 +1,1 @@
-var mnemonic = "city detail curve bird audit energy badge floor alter flash bridge acoustic";
+var mnemonic = "surround tent gas smile safe curious torch sibling ball genre draw clever";

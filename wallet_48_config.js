@@ -1,1 +1,1 @@
-var mnemonic = "chuckle donate spy can cave quit menu also used pretty weasel capital";
+var mnemonic = "already gate company race crane path charge lonely final satisfy punch bulb";

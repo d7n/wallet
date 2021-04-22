@@ -1,1 +1,1 @@
-var mnemonic = "suggest door grab bundle lucky robot unable arrow pluck space dragon drama";
+var mnemonic = "blur symbol position predict fetch gather garage zebra guilt vintage swallow use";

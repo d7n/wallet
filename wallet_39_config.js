@@ -1,1 +1,1 @@
-var mnemonic = "fine regret sphere sauce left crucial around close craft craft feel either";
+var mnemonic = "staff awful work ill video arctic plastic announce snake lottery idle bus";

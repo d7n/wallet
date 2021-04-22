@@ -1,1 +1,1 @@
-var mnemonic = "come super hair obtain source model trap pottery feature canvas sock taste";
+var mnemonic = "slender differ top crime stadium lounge smooth industry choose entire cattle rail";

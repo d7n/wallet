@@ -1,1 +1,1 @@
-var mnemonic = "setup sure travel deposit common head whale cricket damage version ski wool";
+var mnemonic = "arena hub patient middle duck option kiwi wide infant loop soup weird";

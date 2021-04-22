@@ -1,1 +1,1 @@
-var mnemonic = "order always dirt addict potato describe exile give grain fatigue close click";
+var mnemonic = "cliff hard hover vintage taxi capital hope brain wink chuckle abuse myself";

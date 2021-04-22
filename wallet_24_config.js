@@ -1,1 +1,1 @@
-var mnemonic = "defense winner view layer scrap ghost corn grace crumble tank swap asset";
+var mnemonic = "license cattle connect few argue front verb assist bomb holiday illness absorb";

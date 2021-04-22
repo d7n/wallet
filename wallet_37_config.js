@@ -1,1 +1,1 @@
-var mnemonic = "return embody heart develop large burden fox scare pave party quit sibling";
+var mnemonic = "argue borrow honey surround return holiday embrace inside pumpkin between rare crater";

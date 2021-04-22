@@ -1,1 +1,1 @@
-var mnemonic = "stool shock artefact property nurse demand embrace deer prosper quiz grunt stay";
+var mnemonic = "steak comic level ready stable key search type culture light talent rack";

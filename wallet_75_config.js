@@ -1,1 +1,1 @@
-var mnemonic = "island tag install strike victory sand want reopen flee orphan cable siren";
+var mnemonic = "tray supreme cement runway oblige west arctic reopen surface raccoon film cycle";

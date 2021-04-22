@@ -1,1 +1,1 @@
-var mnemonic = "scatter that school oblige tray salon empower apple laugh alone gym goddess";
+var mnemonic = "element course effort endorse stick chair settle any region rather spare october";

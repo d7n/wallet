@@ -1,1 +1,1 @@
-var mnemonic = "unusual warrior empty matter bridge area stem clog food energy priority mad";
+var mnemonic = "lunar acquire drive have during valley topple such light dash cup isolate";
