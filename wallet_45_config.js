@@ -1,1 +1,1 @@
-var mnemonic = "awkward barrel alarm engine test mirror mandate fancy conduct payment farm quality";
+var mnemonic = "bullet begin wife sword arrest margin rotate clip canal later rent inmate";

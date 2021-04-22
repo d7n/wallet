@@ -1,1 +1,1 @@
-var mnemonic = "broccoli slot celery diamond range whisper exclude seven sniff share mountain sea";
+var mnemonic = "differ print round decorate person wish rather exile eight manual marble idle";

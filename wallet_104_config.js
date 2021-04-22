@@ -1,1 +1,1 @@
-var mnemonic = "crawl regret ill teach brisk frequent velvet soul pupil put federal hat";
+var mnemonic = "cross kingdom seven useless guilt distance target swamp exchange dance little favorite";

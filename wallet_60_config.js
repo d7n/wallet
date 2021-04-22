@@ -1,1 +1,1 @@
-var mnemonic = "mountain lobster property torch reduce adapt fox film humor audit frozen you";
+var mnemonic = "guess exhaust method infant police brain auto chef brain coast mother pluck";

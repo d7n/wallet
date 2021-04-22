@@ -1,1 +1,1 @@
-var mnemonic = "verify flame hint inform fever garage carbon erosion melt middle actual lucky";
+var mnemonic = "hamster infant nose fluid naive size manage present soda grit cash tourist";

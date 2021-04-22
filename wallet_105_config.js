@@ -1,1 +1,1 @@
-var mnemonic = "provide guilt coral quit tackle scheme girl elegant extend rather huge confirm";
+var mnemonic = "village champion divert antique wear state chronic domain measure narrow garlic wet";

@@ -1,1 +1,1 @@
-var mnemonic = "double breeze orange shadow praise lady wonder ranch spray dinosaur rule tree";
+var mnemonic = "shadow garden meadow wave tortoise tribe actor damage festival property author ship";

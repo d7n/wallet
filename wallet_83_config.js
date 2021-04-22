@@ -1,1 +1,1 @@
-var mnemonic = "private hollow outside space evolve bicycle gossip absorb noble bubble label light";
+var mnemonic = "dish torch erosion armed embark drop blouse undo enlist then report fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "electric shove leaf raven jaguar junior odor mule twice divorce useless rebuild";
+var mnemonic = "consider box derive valid source label portion imitate artefact sibling hope diamond";

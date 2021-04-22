@@ -1,1 +1,1 @@
-var mnemonic = "grab core blur stay come exist sound flip excess loud scan radar";
+var mnemonic = "stairs like just raccoon nerve hidden frame other enrich escape frame firm";

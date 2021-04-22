@@ -1,1 +1,1 @@
-var mnemonic = "echo alien lyrics gorilla lion seven primary jelly swamp music left guitar";
+var mnemonic = "okay better grid mutual tribe exhaust inject cute dune pave logic aerobic";

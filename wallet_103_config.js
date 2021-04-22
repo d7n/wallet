@@ -1,1 +1,1 @@
-var mnemonic = "moral dragon into indicate budget admit rib spider road inform mix brand";
+var mnemonic = "merit six slim glimpse rent mutual jazz exotic derive repair spice exact";

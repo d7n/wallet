@@ -1,1 +1,1 @@
-var mnemonic = "join bright green hold athlete math language boy disease gap wrist episode";
+var mnemonic = "pigeon angle grain ribbon amused trumpet forest session youth rapid grace scissors";

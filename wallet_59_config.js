@@ -1,1 +1,1 @@
-var mnemonic = "measure toy west month silver soon unit canal fury dash matrix cruel";
+var mnemonic = "vicious fold earth extra program beef improve rule cycle gossip simple medal";

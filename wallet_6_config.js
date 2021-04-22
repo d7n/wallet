@@ -1,1 +1,1 @@
-var mnemonic = "alien elite deliver tribe initial eyebrow grocery tonight rely execute keep hover";
+var mnemonic = "armed favorite wear social risk item when dice process magnet bright pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "naive health walnut resource myself april true join job news dinner glue";
+var mnemonic = "silly clip ladder bean north elegant silk expire animal normal push aerobic";

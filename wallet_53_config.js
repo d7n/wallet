@@ -1,1 +1,1 @@
-var mnemonic = "double net suggest decide medal wisdom anchor fee patrol fiscal tuition embody";
+var mnemonic = "west funny retire sudden charge slight simple sight false quick border mystery";

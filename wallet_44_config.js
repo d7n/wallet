@@ -1,1 +1,1 @@
-var mnemonic = "claim spend oyster pioneer luxury urge thunder lottery amazing lion barrel need";
+var mnemonic = "jacket match unable total sauce dinosaur bag meat rival lobster gain helmet";

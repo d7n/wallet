@@ -1,1 +1,1 @@
-var mnemonic = "stick slender boss wrap wink subway web kitten spring income uncle task";
+var mnemonic = "umbrella kingdom term casino fantasy town scissors dragon fragile impose gain chest";

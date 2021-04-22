@@ -1,1 +1,1 @@
-var mnemonic = "shaft level faith wide verify slice sustain float cup jungle mistake ketchup";
+var mnemonic = "dad coil wide scare lounge accident royal veteran fame carpet wire unhappy";

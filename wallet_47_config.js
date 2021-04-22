@@ -1,1 +1,1 @@
-var mnemonic = "episode smart pelican vast swallow ugly valley garden cabbage defense stone power";
+var mnemonic = "kiwi season charge language female congress sea lucky clutch siren excite similar";

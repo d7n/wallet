@@ -1,1 +1,1 @@
-var mnemonic = "fan shield elite celery room symbol devote motion cherry blanket ecology wonder";
+var mnemonic = "manage able echo lawn gap upgrade raw intact injury luxury fresh weapon";

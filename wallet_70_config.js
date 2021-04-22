@@ -1,1 +1,1 @@
-var mnemonic = "repair camp song chef involve cruel opinion connect axis sunset noble puzzle";
+var mnemonic = "brush climb question shadow feature body gorilla anchor squeeze sketch involve trouble";

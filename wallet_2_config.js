@@ -1,1 +1,1 @@
-var mnemonic = "moral yellow filter depth catch section pilot tail special hood mix shop";
+var mnemonic = "adapt steak excite runway either swing stove sorry help praise private choice";

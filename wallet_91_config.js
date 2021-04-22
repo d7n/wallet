@@ -1,1 +1,1 @@
-var mnemonic = "filter penalty prize online ethics cradle squirrel strategy faint sort isolate loyal";
+var mnemonic = "record clarify arrest door tip prison can adult truth tooth busy online";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney inch artefact indoor invite pair place search cannon head ethics hedgehog";
+var mnemonic = "brush chicken nut winter response surge blanket bacon bonus purpose option shallow";

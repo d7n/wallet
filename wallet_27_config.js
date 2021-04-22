@@ -1,1 +1,1 @@
-var mnemonic = "sausage labor express loan hand bitter report demand old update another clock";
+var mnemonic = "upper vivid mad able million spider virus seminar magnet leg animal gorilla";

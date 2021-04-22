@@ -1,1 +1,1 @@
-var mnemonic = "typical swift calm woman rug tennis merge salad smooth real walnut solution";
+var mnemonic = "item accident toddler method predict final party coast amateur become secret poet";

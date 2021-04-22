@@ -1,1 +1,1 @@
-var mnemonic = "right chair problem original quiz weasel practice afford lumber indoor panel sheriff";
+var mnemonic = "suffer combine soldier acoustic congress kick impulse guitar pony level rain toward";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt please timber never final kit garden ignore supply across panel interest";
+var mnemonic = "october farm ugly dove sight endless bar truly task length spawn pilot";

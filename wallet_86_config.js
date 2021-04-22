@@ -1,1 +1,1 @@
-var mnemonic = "delay advance frame limit cotton athlete limit valley goat moment boost violin";
+var mnemonic = "faint cabbage empower morning city clown disagree edge labor program nurse siege";

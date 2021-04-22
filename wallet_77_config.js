@@ -1,1 +1,1 @@
-var mnemonic = "wisdom love begin page dilemma cheap wild brief sister main badge recipe";
+var mnemonic = "seat margin merge nose quality yellow clarify marble educate hello father extra";

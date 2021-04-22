@@ -1,1 +1,1 @@
-var mnemonic = "spy include unaware drift inspire swarm claim kingdom foil media grant cover";
+var mnemonic = "issue fiction escape control game force jealous nothing impose this corn daring";

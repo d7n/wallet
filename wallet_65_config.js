@@ -1,1 +1,1 @@
-var mnemonic = "basket planet bulk text february response expire net gallery avoid leave arrive";
+var mnemonic = "quiz include slender color evoke very maple liquid force color treat prosper";

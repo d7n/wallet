@@ -1,1 +1,1 @@
-var mnemonic = "someone vital blast bright north kite caught trick neutral odor legal retire";
+var mnemonic = "bargain trumpet auto tortoise story favorite void royal chalk remind soul belt";

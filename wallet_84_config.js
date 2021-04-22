@@ -1,1 +1,1 @@
-var mnemonic = "peace match top embark weekend dolphin wealth lizard yard merry goat diamond";
+var mnemonic = "parade soft tumble junior race ugly collect oval opera seminar metal million";

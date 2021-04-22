@@ -1,1 +1,1 @@
-var mnemonic = "risk cupboard ribbon oven dance paddle already mail all brother spatial swear";
+var mnemonic = "toilet scout main opinion can anchor gorilla tackle joke vital idle olympic";

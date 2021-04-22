@@ -1,1 +1,1 @@
-var mnemonic = "space crater decline fetch tragic board post powder jealous else case turn";
+var mnemonic = "fee adjust conduct female session squeeze mistake level corn fat fury job";

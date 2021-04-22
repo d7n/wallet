@@ -1,1 +1,1 @@
-var mnemonic = "excuse spring silent poem torch mail ask turtle alone rack cover distance";
+var mnemonic = "private matrix subway panther siren knife space faith scout entire boy antenna";

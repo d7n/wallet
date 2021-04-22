@@ -1,1 +1,1 @@
-var mnemonic = "slab retire hint split rough guard snap finger way tumble whale number";
+var mnemonic = "depart creek network chair magic salon polar income wet awkward hunt odor";

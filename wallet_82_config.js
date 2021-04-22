@@ -1,1 +1,1 @@
-var mnemonic = "shallow trumpet dice hedgehog spend zero feature innocent pretty mountain leave matter";
+var mnemonic = "hurdle occur strategy boy laptop essay whale file scissors reveal innocent drip";

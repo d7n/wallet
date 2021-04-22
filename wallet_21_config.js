@@ -1,1 +1,1 @@
-var mnemonic = "again jar foil mutual margin wage praise trim excess address ecology enroll";
+var mnemonic = "shoe sketch language pony catalog neglect gauge permit monster girl baby shield";

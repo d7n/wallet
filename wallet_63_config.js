@@ -1,1 +1,1 @@
-var mnemonic = "dizzy wonder mean upgrade region keen trend hawk rule size rug chief";
+var mnemonic = "drastic vault whale purity forward casual suit leg dizzy boring laugh category";

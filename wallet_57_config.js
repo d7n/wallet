@@ -1,1 +1,1 @@
-var mnemonic = "base inside table duck client problem velvet confirm then fatigue twice hair";
+var mnemonic = "echo clown antenna umbrella that afraid rapid slab all trumpet keen embark";

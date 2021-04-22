@@ -1,1 +1,1 @@
-var mnemonic = "struggle pulp wise sense maid fabric mail child receive shield seat tragic";
+var mnemonic = "cancel poet peasant tape correct blood knock key sting music hint among";

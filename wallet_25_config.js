@@ -1,1 +1,1 @@
-var mnemonic = "tumble defy casino jar develop blood inquiry spell scale machine furnace coil";
+var mnemonic = "nephew control eternal glow cinnamon whale simple sudden garage woman cute cloth";

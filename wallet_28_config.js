@@ -1,1 +1,1 @@
-var mnemonic = "arch law essence scrub chapter fresh elder morning broom vote car weekend";
+var mnemonic = "physical insect solve occur often armor power six nut vital buffalo bachelor";

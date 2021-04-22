@@ -1,1 +1,1 @@
-var mnemonic = "then arctic prize boy moment season globe cabin dash stand assault service";
+var mnemonic = "shed cause motion daring error divide siren convince involve rely doctor front";

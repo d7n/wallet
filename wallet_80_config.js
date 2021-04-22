@@ -1,1 +1,1 @@
-var mnemonic = "tool rough danger purity stay situate popular hover smoke ugly label curious";
+var mnemonic = "tip almost just bid talk glimpse concert knock dove december avocado upset";

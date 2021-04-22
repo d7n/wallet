@@ -1,1 +1,1 @@
-var mnemonic = "general hobby team donate render door like day grunt fix couch shrimp";
+var mnemonic = "picnic ancient patrol flock tongue sponsor vocal frost approve shoe pole unable";

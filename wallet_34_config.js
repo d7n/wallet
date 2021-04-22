@@ -1,1 +1,1 @@
-var mnemonic = "isolate core nature possible amount other case trigger identify keen avoid truck";
+var mnemonic = "taxi bid brain actor still rude vibrant bird plunge century winner destroy";

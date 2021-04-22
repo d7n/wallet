@@ -1,1 +1,1 @@
-var mnemonic = "utility diagram add develop license nothing inherit bean ranch banana time theory";
+var mnemonic = "seat find audit exile insane piano decorate cover audit lion control alter";

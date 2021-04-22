@@ -1,1 +1,1 @@
-var mnemonic = "treat owner drift input portion frozen artwork breeze shock inner lunch edge";
+var mnemonic = "youth assume start dwarf avocado hockey margin group guilt carpet pride avocado";

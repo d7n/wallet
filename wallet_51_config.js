@@ -1,1 +1,1 @@
-var mnemonic = "bracket company exact planet twelve theme gain aim short scare leisure shop";
+var mnemonic = "demand document later tilt alone collect cluster affair domain disorder trust clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "since affair series shrimp collect kid admit pet bike orchard power vote";
+var mnemonic = "siege nation like debate cloth suit deputy rice list also green lumber";

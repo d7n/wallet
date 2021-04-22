@@ -1,1 +1,1 @@
-var mnemonic = "chalk venture develop scrub cannon armor certain tag quote meat harbor voyage";
+var mnemonic = "alpha regret disorder neck business share digital allow mom you remind beauty";

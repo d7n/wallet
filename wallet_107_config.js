@@ -1,1 +1,1 @@
-var mnemonic = "visual tennis immune panther senior country connect private diagram surface heavy cup";
+var mnemonic = "month win ketchup uphold rose tell file useless lazy check main among";

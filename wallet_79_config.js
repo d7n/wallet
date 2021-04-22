@@ -1,1 +1,1 @@
-var mnemonic = "adult regular jump chronic clarify adjust sense sense source garbage fashion wrap";
+var mnemonic = "benefit muffin gold cricket warfare eternal they tide impulse van toe grit";

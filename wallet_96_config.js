@@ -1,1 +1,1 @@
-var mnemonic = "romance recycle distance garbage early silk outdoor frost organ flame wide elephant";
+var mnemonic = "day tortoise race make venue hundred such input live misery prepare bar";

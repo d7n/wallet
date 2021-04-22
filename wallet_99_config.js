@@ -1,1 +1,1 @@
-var mnemonic = "kick ugly chuckle medal mammal demise claim spring excuse history behind average";
+var mnemonic = "fiber sock pupil fuel model arch appear salad usage never hand fever";

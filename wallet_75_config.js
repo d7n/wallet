@@ -1,1 +1,1 @@
-var mnemonic = "tongue display oil brick brief video buffalo because anchor proof nose meadow";
+var mnemonic = "capital riot kitten annual pottery physical poem snow gorilla column still isolate";

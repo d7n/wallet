@@ -1,1 +1,1 @@
-var mnemonic = "picture silk witness grit eternal inform same expose recipe rain curious little";
+var mnemonic = "come random face normal theory language prevent clinic vote sorry shrug brain";

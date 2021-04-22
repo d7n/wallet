@@ -1,1 +1,1 @@
-var mnemonic = "room jelly ecology kind dignity able tourist cause scissors code dragon oblige";
+var mnemonic = "cook other finger wheat test stadium early world neither talent hip grant";

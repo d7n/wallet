@@ -1,1 +1,1 @@
-var mnemonic = "explain cannon cricket umbrella slab bar educate size worth evolve decade work";
+var mnemonic = "breeze distance bubble cram curious nation raccoon kidney guard sphere lumber moment";

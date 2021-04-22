@@ -1,1 +1,1 @@
-var mnemonic = "use panic water enemy jungle empty lock hurt inner pledge uncover title";
+var mnemonic = "coconut regret narrow web diet hood direct pride sing balcony edit invite";

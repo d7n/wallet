@@ -1,1 +1,1 @@
-var mnemonic = "beach cabbage naive pelican ask refuse crawl message shine jewel style human";
+var mnemonic = "oil slow oval carry surround faint front come capital space suspect merry";

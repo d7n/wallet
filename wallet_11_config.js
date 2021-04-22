@@ -1,1 +1,1 @@
-var mnemonic = "fix service course match volume laptop rebuild finish paddle lens mosquito sock";
+var mnemonic = "joke coast horror salute trim ride vote ceiling minute another exhibit blue";

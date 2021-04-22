@@ -1,1 +1,1 @@
-var mnemonic = "engage sense sphere grow govern leaf divorce rigid alley prefer orange sell";
+var mnemonic = "ginger canvas casino same embody list river bird scout kind salad friend";

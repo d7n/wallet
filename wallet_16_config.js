@@ -1,1 +1,1 @@
-var mnemonic = "prison echo friend journey eagle hurry face sibling photo decade brave hole";
+var mnemonic = "business lift ensure merry curious split guide void embody burst small obtain";

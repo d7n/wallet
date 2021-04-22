@@ -1,1 +1,1 @@
-var mnemonic = "crane club voyage worth certain catch fresh brick outer afraid echo imitate";
+var mnemonic = "medal portion slender crash admit icon cousin grace recipe canvas exit total";

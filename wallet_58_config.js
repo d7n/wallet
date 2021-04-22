@@ -1,1 +1,1 @@
-var mnemonic = "half layer peanut poem office harsh satisfy next bundle cancel tired puzzle";
+var mnemonic = "room hockey tunnel music learn glance genuine dry wise office marine cram";

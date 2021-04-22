@@ -1,1 +1,1 @@
-var mnemonic = "fossil web goose bacon tired come knee zone major model pair elder";
+var mnemonic = "make over inch social faint dance neck there stable program siege drama";

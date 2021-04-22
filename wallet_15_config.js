@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit ice tuition glory virtual area noble immense cargo tower destroy cement";
+var mnemonic = "news gospel whisper pen east apology clump game dumb because kangaroo hint";

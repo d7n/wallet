@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit journey soldier business glory reflect innocent achieve bind curtain real chief";
+var mnemonic = "capable travel awake barrel version wheat abandon honey project upper indoor antique";

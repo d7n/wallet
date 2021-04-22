@@ -1,1 +1,1 @@
-var mnemonic = "cricket crack blush busy later stairs gun craft river acid language sad";
+var mnemonic = "hard emerge water interest author rigid fish celery whip board write purity";

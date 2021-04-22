@@ -1,1 +1,1 @@
-var mnemonic = "tonight turtle obtain type path senior wife celery damp grid erode piece";
+var mnemonic = "debris path night toss endorse display wet sleep whale tuition law front";

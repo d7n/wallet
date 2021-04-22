@@ -1,1 +1,1 @@
-var mnemonic = "pair bleak topple tourist menu buddy throw country mass already essence fit";
+var mnemonic = "proof guess wink soft erase only picnic critic gloom entry hello glide";

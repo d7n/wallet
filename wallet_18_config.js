@@ -1,1 +1,1 @@
-var mnemonic = "salmon raw build during tower old save tool purchase cup goddess century";
+var mnemonic = "dog stairs silk panther rough abuse long satoshi myself pave drama float";

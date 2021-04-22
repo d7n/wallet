@@ -1,1 +1,1 @@
-var mnemonic = "arrive captain system beef corn cigar bargain spider ugly mind arrange bottom";
+var mnemonic = "stereo trade moon tattoo rocket grant rail hover thumb govern stomach write";

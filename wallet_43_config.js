@@ -1,1 +1,1 @@
-var mnemonic = "this essay toe sorry milk remain wrestle mobile mistake finish urge crucial";
+var mnemonic = "measure thrive deputy return choose pencil smoke copy road nest gasp hungry";

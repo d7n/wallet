@@ -1,1 +1,1 @@
-var mnemonic = "mirror chalk burden tired swamp execute shell focus stem speak silent number";
+var mnemonic = "uphold verb brother kite happy retreat gown arctic bargain liar divide tobacco";

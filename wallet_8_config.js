@@ -1,1 +1,1 @@
-var mnemonic = "pluck analyst squirrel sad liar food bullet ability intact female double collect";
+var mnemonic = "impact skull wire hammer congress fit oblige clutch clutch primary shed label";

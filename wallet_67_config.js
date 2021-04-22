@@ -1,1 +1,1 @@
-var mnemonic = "ten invite skill twice danger path horn slight dune now crane girl";
+var mnemonic = "senior enrich card spare camera course drum pole service protect also garage";

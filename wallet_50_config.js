@@ -1,1 +1,1 @@
-var mnemonic = "horse slice seat eight meat math spirit thought genre view rain usual";
+var mnemonic = "fantasy enlist nut disagree laptop solve soft dentist profit pudding skull occur";

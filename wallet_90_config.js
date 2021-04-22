@@ -1,1 +1,1 @@
-var mnemonic = "machine mask heavy wise future file journey wise episode puppy mesh buzz";
+var mnemonic = "convince panel zero sting vacuum doll train cable federal elite merry fabric";

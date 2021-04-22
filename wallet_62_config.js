@@ -1,1 +1,1 @@
-var mnemonic = "gentle tip boost depart idea faculty meadow front proud alpha year appear";
+var mnemonic = "napkin vocal rabbit bag shaft approve report weapon sock stumble win submit";

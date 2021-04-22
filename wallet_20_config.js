@@ -1,1 +1,1 @@
-var mnemonic = "exhaust excite topic bean soup spare fault physical hour exclude family promote";
+var mnemonic = "drill good desk version critic degree guard patient latin maid rival woman";

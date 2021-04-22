@@ -1,1 +1,1 @@
-var mnemonic = "monkey month drum delay puppy vacant cloud discover forum duty stamp pair";
+var mnemonic = "torch flower blossom pudding speed hazard much junior curious afford elder crush";

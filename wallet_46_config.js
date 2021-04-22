@@ -1,1 +1,1 @@
-var mnemonic = "output supply goat hair chat embody nice renew civil plastic mixed dream";
+var mnemonic = "universe sign ice frost cart unit foot pattern poet ticket music tonight";

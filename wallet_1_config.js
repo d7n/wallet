@@ -1,1 +1,1 @@
-var mnemonic = "shaft hunt please moon reject car expect remind allow path belt soft";
+var mnemonic = "number proof hint dinosaur waste consider intact layer only victory shy chalk";

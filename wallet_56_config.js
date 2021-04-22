@@ -1,1 +1,1 @@
-var mnemonic = "digital myself brief finish cool true myself danger glide easily sorry repair";
+var mnemonic = "build six misery chief toss proof art cry olive west divorce boost";

@@ -1,1 +1,1 @@
-var mnemonic = "drip envelope truly shrug seven odor hour remove vessel fossil screen session";
+var mnemonic = "hello hurt round thank candy junk scare ship crane wine strategy add";

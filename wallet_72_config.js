@@ -1,1 +1,1 @@
-var mnemonic = "dove father upset police camp oxygen such fancy receive cheese online myself";
+var mnemonic = "rookie drop field false fragile tennis tiny maple guitar swarm shock diagram";

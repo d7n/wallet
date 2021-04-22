@@ -1,1 +1,1 @@
-var mnemonic = "reward buffalo portion uphold limb boy pepper route void woman copy exotic";
+var mnemonic = "denial purpose economy prepare accuse hole spray vapor enrich forest volume action";

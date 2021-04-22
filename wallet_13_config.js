@@ -1,1 +1,1 @@
-var mnemonic = "consider lend elbow tag student access tortoise skirt fever what pencil evolve";
+var mnemonic = "plate wage amazing emerge casual tomato life rapid zebra lunar renew panel";
