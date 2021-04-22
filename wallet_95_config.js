@@ -1,1 +1,1 @@
-var mnemonic = "accident scout divorce cup elevator ring salon essence horn write dry flame";
+var mnemonic = "humble bamboo tonight bonus captain perfect fly rail rent surround syrup stamp";

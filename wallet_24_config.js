@@ -1,1 +1,1 @@
-var mnemonic = "bounce assault planet shrimp lemon version kingdom frown soon typical sense hole";
+var mnemonic = "almost gym shock casual glue dwarf cream hub absorb fog era zebra";

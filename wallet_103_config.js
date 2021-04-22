@@ -1,1 +1,1 @@
-var mnemonic = "notice calm camera autumn option fatal negative paper forest behave front common";
+var mnemonic = "enter pool stereo tank turn axis attitude phone creek quiz begin bind";

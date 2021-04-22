@@ -1,1 +1,1 @@
-var mnemonic = "lounge crew fold team panther gate abstract wink opera feed material you";
+var mnemonic = "frost business cinnamon soccer bundle ugly morning amateur movie citizen afraid eager";

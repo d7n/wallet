@@ -1,1 +1,1 @@
-var mnemonic = "disorder chief recycle earth client chaos word mention ocean sunset upset organ";
+var mnemonic = "cotton favorite possible alarm impulse fish copy celery march oxygen feed shoe";

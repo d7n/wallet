@@ -1,1 +1,1 @@
-var mnemonic = "intact alert flat penalty assume comic motor perfect cherry siege siege flat";
+var mnemonic = "jewel large spring option boat adjust artefact clutch fabric comfort capable firm";

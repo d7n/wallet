@@ -1,1 +1,1 @@
-var mnemonic = "miss video correct inhale plug congress finish nothing benefit emotion refuse travel";
+var mnemonic = "utility prevent tube misery various sleep lunch tree tiny october firm warfare";

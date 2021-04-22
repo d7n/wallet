@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow climb remove noise erosion fall head doctor antique twice museum water";
+var mnemonic = "picture group reunion bar turn maximum pilot silk father potato recall bullet";

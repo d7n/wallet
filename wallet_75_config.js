@@ -1,1 +1,1 @@
-var mnemonic = "ozone frown flavor shield night tomorrow flame cattle margin lottery asset ignore";
+var mnemonic = "cave track bracket virtual silver tornado stick cattle angry trumpet conduct fee";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect car ozone volcano hotel baby congress slot find post bunker melody";
+var mnemonic = "viable admit bachelor glory airport rapid health grass wood custom entire box";

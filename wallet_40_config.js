@@ -1,1 +1,1 @@
-var mnemonic = "behave bacon tobacco swallow text month round tornado panda poem lion odor";
+var mnemonic = "begin ugly cannon prison express pony bicycle mechanic arrange inject step curve";

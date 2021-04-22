@@ -1,1 +1,1 @@
-var mnemonic = "lens inmate special cry judge brand hammer nurse street salmon equal forget";
+var mnemonic = "hair pottery total glide aware actual animal water medal amazing credit laptop";

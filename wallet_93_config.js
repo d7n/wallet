@@ -1,1 +1,1 @@
-var mnemonic = "reveal smart mother review bounce bullet will private tortoise leopard ridge miss";
+var mnemonic = "enforce float kit patient deliver wisdom skin market visual witness decide shed";

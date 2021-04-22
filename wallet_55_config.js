@@ -1,1 +1,1 @@
-var mnemonic = "slice trip obtain cry couch then stay forward sea ship elegant humor";
+var mnemonic = "dose curtain soft elder wagon render iron asthma name alpha mandate usage";

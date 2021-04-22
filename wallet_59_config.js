@@ -1,1 +1,1 @@
-var mnemonic = "gasp rabbit busy pepper tower similar term village honey slender scorpion unfair";
+var mnemonic = "aisle outside result patient ancient public spray benefit accuse leopard nominee keep";

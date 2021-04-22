@@ -1,1 +1,1 @@
-var mnemonic = "awesome catalog afraid rubber section square load cherry gap broom category royal";
+var mnemonic = "enact soda tennis prevent high boy actual employ evil cart window noise";

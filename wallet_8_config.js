@@ -1,1 +1,1 @@
-var mnemonic = "test faith choose extra story age stomach document detect life rabbit wild";
+var mnemonic = "noise nose wrestle digital security comic grant virus board diesel goose win";

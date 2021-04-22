@@ -1,1 +1,1 @@
-var mnemonic = "whisper more angle there mix tool foil rapid adjust true sad purpose";
+var mnemonic = "guess pulp torch provide trouble evidence basic motion blush abstract theory magic";

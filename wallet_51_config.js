@@ -1,1 +1,1 @@
-var mnemonic = "spread correct pony possible jeans sweet spoon engine pull purpose vintage ball";
+var mnemonic = "ozone right smoke retire imitate invest combine life cannon certain feature improve";

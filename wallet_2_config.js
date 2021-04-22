@@ -1,1 +1,1 @@
-var mnemonic = "cream heavy amateur parade ordinary garlic know wise sponsor execute exit delay";
+var mnemonic = "topic gorilla later black denial dignity potato decide script stone river census";

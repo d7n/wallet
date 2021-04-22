@@ -1,1 +1,1 @@
-var mnemonic = "promote churn tuna relief ball ketchup special obey pulp settle swamp churn";
+var mnemonic = "opinion helmet chunk book artefact congress organ stand horse remove mean grocery";

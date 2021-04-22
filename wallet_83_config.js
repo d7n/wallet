@@ -1,1 +1,1 @@
-var mnemonic = "cube beyond garden tattoo omit beauty believe cream decrease escape question trophy";
+var mnemonic = "plastic draft drastic elephant surprise field employ tray kitchen dose pottery merge";

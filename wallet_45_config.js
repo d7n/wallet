@@ -1,1 +1,1 @@
-var mnemonic = "better ice legend mystery tissue canoe next keen devote modify desert crumble";
+var mnemonic = "oven divorce then merge claim journey subway usage pledge car cotton ring";

@@ -1,1 +1,1 @@
-var mnemonic = "output bind rug below lock place remember apology casual carbon tray expose";
+var mnemonic = "crystal deposit arrange silver blast forget minor hat kid disagree pigeon crunch";

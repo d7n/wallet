@@ -1,1 +1,1 @@
-var mnemonic = "truly fuel junk net inspire dice title near ordinary pumpkin bacon skull";
+var mnemonic = "joke cash leader walk monkey receive melt kidney indoor valid able knee";

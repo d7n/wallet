@@ -1,1 +1,1 @@
-var mnemonic = "segment grace segment shallow scan clarify street upon spot coach air turtle";
+var mnemonic = "useless maid resource illegal belt leave alter transfer that breeze trumpet prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "august cluster appear bean donate hospital buddy bunker wire lava alien expire";
+var mnemonic = "spend sorry pulse sell saddle theme spoon cactus inspire noise cricket degree";

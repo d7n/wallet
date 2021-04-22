@@ -1,1 +1,1 @@
-var mnemonic = "rail float sunny safe slab stay turkey mail senior bronze bleak must";
+var mnemonic = "betray modify bring thumb modify skull govern frost ivory duty typical lion";

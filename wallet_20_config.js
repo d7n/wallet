@@ -1,1 +1,1 @@
-var mnemonic = "pig steak pause faculty blind edit rescue credit special trip fire hero";
+var mnemonic = "holiday follow feel invite vague real bleak arrow scrub narrow envelope describe";

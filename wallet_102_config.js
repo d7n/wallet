@@ -1,1 +1,1 @@
-var mnemonic = "patient two fitness venture average fluid proud equip hobby nature season lend";
+var mnemonic = "street car wet obvious cluster resemble crazy slight copy drum demand capable";

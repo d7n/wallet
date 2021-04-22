@@ -1,1 +1,1 @@
-var mnemonic = "cause nominee hurry record bachelor tooth because dinner captain funny cash visual";
+var mnemonic = "mandate pulse next access possible eyebrow position birth lecture equal heavy oppose";

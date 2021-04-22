@@ -1,1 +1,1 @@
-var mnemonic = "found north better hen knee hair clever member belt kid cat shine";
+var mnemonic = "priority usual will hair source settle topic pet fog soldier crouch subway";

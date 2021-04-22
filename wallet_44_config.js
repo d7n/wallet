@@ -1,1 +1,1 @@
-var mnemonic = "knee web pull purity trade bind load spare toy slow have baby";
+var mnemonic = "tag festival energy diesel unknown blossom enough erase lake mention orient baby";

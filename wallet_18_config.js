@@ -1,1 +1,1 @@
-var mnemonic = "lab public sweet hollow prevent collect law month yellow chaos blue define";
+var mnemonic = "achieve acid author eagle loyal bring brick chunk ridge vehicle faint system";

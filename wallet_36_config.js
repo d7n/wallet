@@ -1,1 +1,1 @@
-var mnemonic = "future agree below quantum draft please fade labor mix choose embark wood";
+var mnemonic = "pitch club wild great discover renew sudden mother energy come pudding proof";

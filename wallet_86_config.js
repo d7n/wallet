@@ -1,1 +1,1 @@
-var mnemonic = "hair soccer reveal member labor member all argue iron invest artist warfare";
+var mnemonic = "pyramid favorite curious friend mutual interest wet sketch quick thunder deputy type";

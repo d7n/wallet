@@ -1,1 +1,1 @@
-var mnemonic = "habit among labor ignore prevent hen dial often captain divert soul laugh";
+var mnemonic = "galaxy domain crunch pumpkin pizza chair wealth exile climb captain remove deny";

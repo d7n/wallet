@@ -1,1 +1,1 @@
-var mnemonic = "error awesome they grunt ahead paddle shrimp orient fiction climb disorder despair";
+var mnemonic = "hire heart bundle length ahead candy brisk orient shoulder cause stem fury";

@@ -1,1 +1,1 @@
-var mnemonic = "salon edge parent remove morning swing smooth cloud era embody sock initial";
+var mnemonic = "ridge figure rib artwork pattern jump nerve ginger infant bonus dial empower";

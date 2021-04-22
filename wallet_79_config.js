@@ -1,1 +1,1 @@
-var mnemonic = "produce useless afraid plastic quality whip income cotton resemble universe habit alter";
+var mnemonic = "section security oxygen census enjoy clarify globe tomorrow include problem someone faint";

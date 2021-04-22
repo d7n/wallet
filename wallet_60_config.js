@@ -1,1 +1,1 @@
-var mnemonic = "corn enforce draw guard index announce tired snack update fitness shrug chat";
+var mnemonic = "rail three angry huge wrap way job equal puzzle clock promote slight";

@@ -1,1 +1,1 @@
-var mnemonic = "sister hospital happy refuse beauty cave whip moral okay rather aim menu";
+var mnemonic = "bind fragile frequent clean tuna parade viable night car lion laptop sustain";

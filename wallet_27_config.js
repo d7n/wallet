@@ -1,1 +1,1 @@
-var mnemonic = "city grape occur hole age lizard iron ensure skill pilot tray stamp";
+var mnemonic = "fee reveal mirror sentence clarify beach stable luxury offer junk satisfy leader";

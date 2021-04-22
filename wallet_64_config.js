@@ -1,1 +1,1 @@
-var mnemonic = "pact agent goose inner frost only exhibit hood target earn sleep picture";
+var mnemonic = "athlete argue arrow raccoon noble deposit action company example method hurdle mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "treat capital saddle degree stomach green forget leader pig resemble blouse much";
+var mnemonic = "dolphin pull jealous armor stem lake mule drift want spare latin danger";

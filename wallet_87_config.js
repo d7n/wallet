@@ -1,1 +1,1 @@
-var mnemonic = "force cinnamon runway assault lunch hold appear fashion popular genius popular gloom";
+var mnemonic = "half great between inquiry aspect panic debate boss wrong tilt law shell";

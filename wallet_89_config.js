@@ -1,1 +1,1 @@
-var mnemonic = "engine rain grass plunge uniform slide secret strategy payment ocean panel keen";
+var mnemonic = "denial language screen forest pledge blast ordinary burger employ estate ice lottery";

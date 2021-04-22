@@ -1,1 +1,1 @@
-var mnemonic = "burger party lawsuit panic face alley private prefer snack purity goddess perfect";
+var mnemonic = "poem mandate embody own awkward avocado grid dilemma pass narrow victory tilt";

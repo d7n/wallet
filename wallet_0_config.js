@@ -1,1 +1,1 @@
-var mnemonic = "edge file seek logic stumble rabbit benefit kitten search bacon spare meadow";
+var mnemonic = "patrol coast across income tuna attack finish weather cushion then tape aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "output soul antique limit treat hire supply produce weapon manual earn credit";
+var mnemonic = "absorb prison action spring wrap endless business end upgrade autumn elder patch";

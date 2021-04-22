@@ -1,1 +1,1 @@
-var mnemonic = "outer price math crouch radar venue toss tape leisure shaft sorry mutual";
+var mnemonic = "mean mass artefact tube naive model skirt unable still kingdom rich sunset";

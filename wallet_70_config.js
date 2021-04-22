@@ -1,1 +1,1 @@
-var mnemonic = "puppy wise smart trip sleep shoot liberty summer frequent brown caution buyer";
+var mnemonic = "around talent diet proud height ivory teach spider nominee nice brain liberty";

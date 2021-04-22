@@ -1,1 +1,1 @@
-var mnemonic = "child off hunt gain route flame surprise legal bounce salad satisfy hunt";
+var mnemonic = "fine improve come original clog sphere traffic ring kid scrub remember neglect";

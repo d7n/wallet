@@ -1,1 +1,1 @@
-var mnemonic = "wide vacuum olive crane forum endorse please clap monitor zoo achieve era";
+var mnemonic = "pool diamond seek egg earth cycle fancy dance undo lecture attitude ten";

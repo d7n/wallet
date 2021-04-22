@@ -1,1 +1,1 @@
-var mnemonic = "fiber jungle decade path celery scrub cat bean keep change same arena";
+var mnemonic = "lend primary pudding doll pencil actor dolphin mind cigar detect cliff foam";

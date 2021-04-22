@@ -1,1 +1,1 @@
-var mnemonic = "reject struggle track radio captain until notable radar okay boring cover helmet";
+var mnemonic = "mail any twist work ghost viable hurdle chronic dilemma onion strategy thought";

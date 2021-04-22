@@ -1,1 +1,1 @@
-var mnemonic = "coral gentle share rule step bike setup absent banner smoke cabin middle";
+var mnemonic = "oven monitor ankle exist soldier piece holiday fire opera kind another task";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme wasp draw napkin gesture shield unveil kite second want bottom army";
+var mnemonic = "noble right betray jar wagon fan surge wife woman coil expose disorder";

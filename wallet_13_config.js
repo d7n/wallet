@@ -1,1 +1,1 @@
-var mnemonic = "start fragile deputy fashion ill broom sadness brass stick image scare fit";
+var mnemonic = "try ancient robust month hybrid off cake kiss female olive nut habit";

@@ -1,1 +1,1 @@
-var mnemonic = "defy spider minute diary have pair misery orbit left mandate they dizzy";
+var mnemonic = "build art tomorrow identify share warm cannon just orient curious menu frown";

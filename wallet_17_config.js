@@ -1,1 +1,1 @@
-var mnemonic = "tragic defy nest accuse under pill under sample enforce author economy clever";
+var mnemonic = "fatigue more decrease tooth copy pitch until churn moon muffin cook cement";

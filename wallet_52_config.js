@@ -1,1 +1,1 @@
-var mnemonic = "fashion uncover orphan network plastic document name liquid permit extend pudding fresh";
+var mnemonic = "wear gift winner dinner mobile velvet feel citizen bracket lava pause idle";

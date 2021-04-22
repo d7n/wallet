@@ -1,1 +1,1 @@
-var mnemonic = "quiz orchard sentence clump cruel refuse toward strong stick fiction awkward rabbit";
+var mnemonic = "dawn display pole manual planet divert shove nice casino loop crack echo";

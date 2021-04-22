@@ -1,1 +1,1 @@
-var mnemonic = "index shoe bronze drift cute awesome lift grocery define narrow private rabbit";
+var mnemonic = "emotion expose brass glory blame olive success eternal awful eight nice middle";

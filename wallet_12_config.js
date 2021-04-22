@@ -1,1 +1,1 @@
-var mnemonic = "wait over urban vintage snake trick answer joy alien glimpse salute maid";
+var mnemonic = "seat spy brother lunch survey stage oblige lake chair swift parrot excite";

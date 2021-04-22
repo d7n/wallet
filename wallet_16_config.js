@@ -1,1 +1,1 @@
-var mnemonic = "rabbit again social tank glare unlock crane total man method warfare mom";
+var mnemonic = "mutual mansion vocal draft inform try frequent they buzz pig stomach ancient";

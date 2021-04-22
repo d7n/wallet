@@ -1,1 +1,1 @@
-var mnemonic = "index vocal champion cargo fossil civil arch firm orient dust crowd delay";
+var mnemonic = "credit gorilla output busy fiscal choice renew course include inside defy rain";

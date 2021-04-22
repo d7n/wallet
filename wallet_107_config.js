@@ -1,1 +1,1 @@
-var mnemonic = "siege exact usage razor jaguar deliver goose toss margin avoid north parent";
+var mnemonic = "flat cycle machine rain person caught flavor smooth globe stable mosquito garbage";

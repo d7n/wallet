@@ -1,1 +1,1 @@
-var mnemonic = "city security require fiction settle jacket verify frozen valid radar pave rabbit";
+var mnemonic = "twenty music buffalo walk differ paper bullet auto rabbit push congress army";

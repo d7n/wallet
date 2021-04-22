@@ -1,1 +1,1 @@
-var mnemonic = "rate check resemble crew kind boil drum grunt always jelly skull easily";
+var mnemonic = "slush cancel meat game scorpion seek isolate hammer divide lazy intact evidence";

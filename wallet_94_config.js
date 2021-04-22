@@ -1,1 +1,1 @@
-var mnemonic = "fence hood beach clown glance wide before goddess taste luggage unit trash";
+var mnemonic = "insane bounce into rice raven build tuition drop crater shy eye pave";

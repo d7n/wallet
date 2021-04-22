@@ -1,1 +1,1 @@
-var mnemonic = "fire scorpion anger dose autumn crucial lava paddle card night ostrich bone";
+var mnemonic = "title eagle milk pulse consider lens little between gadget pencil exclude panther";

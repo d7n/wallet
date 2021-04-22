@@ -1,1 +1,1 @@
-var mnemonic = "useless display tortoise forget ticket ball grief wasp shift vivid exist autumn";
+var mnemonic = "fiscal poverty cinnamon right define crawl inspire library tube glide people call";

@@ -1,1 +1,1 @@
-var mnemonic = "receive token cat glad human tree hunt path immune pipe hazard lab";
+var mnemonic = "churn long maze cook first culture robot movie bone shock short tennis";

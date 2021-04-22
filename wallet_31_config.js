@@ -1,1 +1,1 @@
-var mnemonic = "blue episode rigid buddy clip upper ripple supply organ cabbage honey survey";
+var mnemonic = "fragile impact jealous north pattern east morning bargain rural junk picture describe";

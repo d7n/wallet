@@ -1,1 +1,1 @@
-var mnemonic = "erase run pilot trumpet mechanic truth flag moon setup clap gasp rain";
+var mnemonic = "deposit midnight merry drop judge believe bleak client exhaust season apart build";

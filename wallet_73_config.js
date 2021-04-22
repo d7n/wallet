@@ -1,1 +1,1 @@
-var mnemonic = "various dry barrel prepare park shallow damage tongue width piece fix steak";
+var mnemonic = "permit street job match jealous hip fresh sleep reduce lonely can trash";

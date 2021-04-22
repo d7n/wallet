@@ -1,1 +1,1 @@
-var mnemonic = "novel pause hunt salad awkward rent bid maze green pulse victory embrace";
+var mnemonic = "desert cook describe fitness gather bless moon endorse soccer walnut flame zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "spider salute jelly recall craft cigar public enlist mistake left view silly";
+var mnemonic = "upgrade media chase estate disease exclude reduce glory gallery blur door pill";

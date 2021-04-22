@@ -1,1 +1,1 @@
-var mnemonic = "seat kitten tourist detail crouch excess rate twice rural lounge pave wish";
+var mnemonic = "make insect learn main visa winter onion sign differ power escape pottery";

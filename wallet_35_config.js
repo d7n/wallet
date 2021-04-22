@@ -1,1 +1,1 @@
-var mnemonic = "clever nothing labor settle public actor luggage globe spend remind trial head";
+var mnemonic = "modify input make lake tool wheat boring bacon ocean enter drum snack";

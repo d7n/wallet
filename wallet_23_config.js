@@ -1,1 +1,1 @@
-var mnemonic = "master gown taxi consider inside pizza barrel clinic tobacco snow behind obvious";
+var mnemonic = "old bag decrease century nature lock smoke quit large diamond nest six";

@@ -1,1 +1,1 @@
-var mnemonic = "win sister exclude language hello tonight wave olive pill mixture laptop fix";
+var mnemonic = "can game gate copper fancy ride face captain consider grape visit custom";

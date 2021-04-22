@@ -1,1 +1,1 @@
-var mnemonic = "submit behave wedding divide virus ordinary guilt injury earth episode airport become";
+var mnemonic = "smile opinion crew online robust number south lizard soon brush believe skirt";

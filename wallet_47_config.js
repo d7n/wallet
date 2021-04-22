@@ -1,1 +1,1 @@
-var mnemonic = "wrestle elegant cherry bargain there crane crew regular glue view squeeze awful";
+var mnemonic = "drip sense magic spray grocery balance bright under double pause inform unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "pact you essay search stove cage stumble town source force brass account";
+var mnemonic = "series payment diary turtle industry dawn blast demand oval cherry mirror senior";

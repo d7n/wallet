@@ -1,1 +1,1 @@
-var mnemonic = "depart tilt zoo until galaxy giraffe connect quote asthma long direct dirt";
+var mnemonic = "sustain chimney noble option novel siren fire filter machine fruit broken siege";

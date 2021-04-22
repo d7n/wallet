@@ -1,1 +1,1 @@
-var mnemonic = "quality group gun dismiss rib inside time swamp decade music shove canal";
+var mnemonic = "tackle easily drill add announce begin fragile joke bulb record figure style";
