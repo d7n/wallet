@@ -1,1 +1,1 @@
-var mnemonic = "script nest disagree verify fold author subway owner always air number husband";
+var mnemonic = "kitten piano luggage hour camera table lonely tube nurse connect age tunnel";

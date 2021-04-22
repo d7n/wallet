@@ -1,1 +1,1 @@
-var mnemonic = "parade panic detail merge argue decline insect million gadget path flock apple";
+var mnemonic = "maze human liar hybrid ridge talent inside concert laptop degree issue habit";

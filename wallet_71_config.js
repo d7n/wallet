@@ -1,1 +1,1 @@
-var mnemonic = "lecture midnight addict slot eager autumn service edit oval topic under mammal";
+var mnemonic = "purity boring bulk hand purchase can custom chair retire cable setup humor";

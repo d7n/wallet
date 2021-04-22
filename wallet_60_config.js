@@ -1,1 +1,1 @@
-var mnemonic = "lab rubber add dumb exist disagree become organ rare fruit modify edge";
+var mnemonic = "record garment cram tube hazard mind bag potato draft tortoise expect mind";

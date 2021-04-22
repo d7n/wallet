@@ -1,1 +1,1 @@
-var mnemonic = "present pause combine barely coconut stool finger state suspect shadow hint alcohol";
+var mnemonic = "doctor link shiver flight camera still immune special ranch good review crew";

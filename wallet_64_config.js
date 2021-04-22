@@ -1,1 +1,1 @@
-var mnemonic = "cloth ranch deny card include tunnel goat muscle fly else calm regret";
+var mnemonic = "load tooth aerobic panther come forest predict ripple antenna table motion scissors";

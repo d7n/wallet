@@ -1,1 +1,1 @@
-var mnemonic = "census autumn sell cry coach coyote borrow pigeon mom spy reunion bid";
+var mnemonic = "drift true thumb exhaust unveil brass cloud dust heart mercy dash almost";

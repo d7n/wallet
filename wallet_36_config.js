@@ -1,1 +1,1 @@
-var mnemonic = "stool lamp artwork ordinary evoke calm source volcano coconut test arrow pole";
+var mnemonic = "violin answer together patrol pull fog solution start erosion wonder cliff fantasy";

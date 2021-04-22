@@ -1,1 +1,1 @@
-var mnemonic = "print series shove ivory two purchase side piano tool hurry portion average";
+var mnemonic = "sight correct novel heart where risk special menu dawn rural gas improve";

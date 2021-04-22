@@ -1,1 +1,1 @@
-var mnemonic = "small smile quiz minimum parade zebra script slogan license teach hybrid search";
+var mnemonic = "enrich miracle case element object patient maximum crowd turkey movie cave vintage";

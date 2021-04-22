@@ -1,1 +1,1 @@
-var mnemonic = "surge ritual grid upon become organ robot figure peasant remind sight winner";
+var mnemonic = "food furnace quit silly dash bone eye credit pizza brain dwarf cherry";

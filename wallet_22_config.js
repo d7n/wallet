@@ -1,1 +1,1 @@
-var mnemonic = "hold great hover rifle corn caught sudden risk usual west future victory";
+var mnemonic = "lawsuit armed brisk thumb spawn desk width bar order cave cage paper";

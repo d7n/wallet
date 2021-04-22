@@ -1,1 +1,1 @@
-var mnemonic = "north brain rocket chair floor blade charge bamboo acid curve ethics lawn";
+var mnemonic = "deposit visit various stable hundred select initial exit mistake desert monkey one";

@@ -1,1 +1,1 @@
-var mnemonic = "robot vendor surprise fortune wedding gold heart dignity field blind expire dismiss";
+var mnemonic = "metal advice charge proud whale cave fog curve south neck snap damp";

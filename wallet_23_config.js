@@ -1,1 +1,1 @@
-var mnemonic = "mosquito genius lens enlist enough gallery language pill toast tank ancient choose";
+var mnemonic = "hamster wild apart sugar diamond process dose kiwi carpet uphold later ahead";

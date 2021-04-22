@@ -1,1 +1,1 @@
-var mnemonic = "pioneer add fat minimum cloth satisfy pause old beauty aisle bamboo round";
+var mnemonic = "chalk empty veteran girl news target want area amused walnut jacket lyrics";

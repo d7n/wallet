@@ -1,1 +1,1 @@
-var mnemonic = "message office result curve risk penalty rug wheat alone cement across husband";
+var mnemonic = "ship ship man jelly fiscal leaf cube shock bright clog entire tattoo";

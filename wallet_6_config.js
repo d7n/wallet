@@ -1,1 +1,1 @@
-var mnemonic = "tip nation valley resource model fetch obey turn shadow trick kitchen odor";
+var mnemonic = "genius order pear basket birth expire attract furnace pave hole chalk measure";

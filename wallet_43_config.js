@@ -1,1 +1,1 @@
-var mnemonic = "theory guilt fault truth supreme hunt joy spell road sugar radio jungle";
+var mnemonic = "detect they waste swamp step caught void sibling when apple possible they";

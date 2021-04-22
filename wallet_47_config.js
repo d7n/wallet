@@ -1,1 +1,1 @@
-var mnemonic = "confirm country neutral soup stone glue else taste traffic autumn urban spread";
+var mnemonic = "series equal radio ozone category usage check nut wasp budget guide sauce";

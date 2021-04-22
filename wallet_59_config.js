@@ -1,1 +1,1 @@
-var mnemonic = "proof duck fossil emotion method before caution issue purpose intact edge bulk";
+var mnemonic = "lamp camp eye olympic fortune tray medal joke surface table tomato what";

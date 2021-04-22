@@ -1,1 +1,1 @@
-var mnemonic = "excuse tail notable tower leg bring decide clarify amateur dash sauce photo";
+var mnemonic = "program pony fury deliver subject suffer plastic buyer south gap require escape";

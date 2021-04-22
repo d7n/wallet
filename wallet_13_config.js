@@ -1,1 +1,1 @@
-var mnemonic = "vessel oblige short author empty warrior clog circle trap maple core garage";
+var mnemonic = "budget human town master dismiss stem arm before because woman tooth such";

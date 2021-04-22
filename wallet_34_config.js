@@ -1,1 +1,1 @@
-var mnemonic = "pool vessel media sense angry race viable lonely suggest what penalty video";
+var mnemonic = "intact sunset wolf knife hat fabric oppose more noodle differ mention hunt";

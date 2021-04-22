@@ -1,1 +1,1 @@
-var mnemonic = "badge boss dinner body remove balance grass dance illegal robust boss debate";
+var mnemonic = "scatter dial multiply oil kidney beef network target orient champion remove girl";

@@ -1,1 +1,1 @@
-var mnemonic = "roof style door tortoise amused blanket among dinosaur true grab never lens";
+var mnemonic = "task cradle festival code appear foot total carry decline negative bean solve";

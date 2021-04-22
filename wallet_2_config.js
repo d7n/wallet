@@ -1,1 +1,1 @@
-var mnemonic = "box include enable budget pink pink hunt okay purse craft struggle place";
+var mnemonic = "glory book urge method lobster people income art tone smart strong limit";

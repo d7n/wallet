@@ -1,1 +1,1 @@
-var mnemonic = "track filter aisle female type summer hip paper fatigue rhythm flee arrive";
+var mnemonic = "ball wrestle deposit gauge shoot palm digital noble violin pact record catch";

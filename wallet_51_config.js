@@ -1,1 +1,1 @@
-var mnemonic = "summer fluid swing disagree orange arrive trumpet cup mule raven satoshi giggle";
+var mnemonic = "review destroy asset wrap win grape hero swing six when legal setup";

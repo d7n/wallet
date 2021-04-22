@@ -1,1 +1,1 @@
-var mnemonic = "giant success vanish voice economy banana lesson acoustic equal state sound west";
+var mnemonic = "debate slab glass nurse eyebrow immune proud garlic denial chuckle search stable";

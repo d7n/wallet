@@ -1,1 +1,1 @@
-var mnemonic = "follow page stamp athlete manage promote inflict gift trial uncover gentle grief";
+var mnemonic = "slice expect oval bomb sword light apple just shield tornado mask put";

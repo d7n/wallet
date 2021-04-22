@@ -1,1 +1,1 @@
-var mnemonic = "merit hurdle fiction tag document tube lunar word more bracket you sick";
+var mnemonic = "sweet cross prevent youth own law prize coast era banana time pride";

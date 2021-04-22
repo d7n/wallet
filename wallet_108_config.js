@@ -1,1 +1,1 @@
-var mnemonic = "letter scorpion mention sleep wine use wheat alley distance crawl man find";
+var mnemonic = "ready autumn canoe lobster hello salmon reason actress test blossom pledge organ";

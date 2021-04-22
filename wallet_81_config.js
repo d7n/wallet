@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit monster area fever near rescue fantasy great kiwi agree finish urge";
+var mnemonic = "math purse anger hurt night two hundred axis window enforce rotate protect";

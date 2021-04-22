@@ -1,1 +1,1 @@
-var mnemonic = "flock uncover wreck fashion swear letter swear come alpha leisure prosper typical";
+var mnemonic = "alter carpet need oxygen slogan violin drink exit industry young liar benefit";

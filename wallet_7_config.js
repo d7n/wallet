@@ -1,1 +1,1 @@
-var mnemonic = "bean climb stone junk where guilt fortune enter bird cushion craft one";
+var mnemonic = "inside hidden come siren frown frozen success soft naive sign inside print";

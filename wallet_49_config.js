@@ -1,1 +1,1 @@
-var mnemonic = "tip daring member dial search scan result grow box gloom text valid";
+var mnemonic = "tray fluid choice virus act charge ghost must supply foam suggest fee";

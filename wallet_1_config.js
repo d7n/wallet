@@ -1,1 +1,1 @@
-var mnemonic = "above annual scene fog market limb floor educate topic inch brave cruise";
+var mnemonic = "phrase attitude invest car jeans above cheap first smoke toward comfort swift";

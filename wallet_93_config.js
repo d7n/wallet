@@ -1,1 +1,1 @@
-var mnemonic = "proud kid dash behave file bless stick kite rely picture loyal review";
+var mnemonic = "ordinary elephant client drink sense gloom trial cattle afraid kingdom enhance drink";

@@ -1,1 +1,1 @@
-var mnemonic = "pill coach scare media often offer sketch milk market rigid size rose";
+var mnemonic = "vocal betray usual mandate trip transfer excite kid energy practice tent dance";

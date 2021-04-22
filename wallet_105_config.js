@@ -1,1 +1,1 @@
-var mnemonic = "remain super clump record core nasty midnight virtual series novel solution pumpkin";
+var mnemonic = "act toy wheat gadget normal toe grace animal share own label pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "road purity answer inquiry captain cattle wine motor fringe diesel endless symptom";
+var mnemonic = "will accident mushroom merry radar scale sudden series together jewel climb fade";

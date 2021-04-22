@@ -1,1 +1,1 @@
-var mnemonic = "process duck call staff dutch equal identify bag cook insect wasp music";
+var mnemonic = "dance mean tube entire wing enrich twist pelican sell hill group cousin";

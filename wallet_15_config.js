@@ -1,1 +1,1 @@
-var mnemonic = "aware suspect bright retire denial bright exhaust spike peace hurdle estate foil";
+var mnemonic = "bundle merit mass bargain world nuclear slam nuclear false blush boss trade";

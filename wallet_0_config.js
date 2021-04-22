@@ -1,1 +1,1 @@
-var mnemonic = "adjust suit piece peanut warrior wear piano chest kick certain wall empower";
+var mnemonic = "vital broom tortoise dice wheel net burden supply right valve assist embark";

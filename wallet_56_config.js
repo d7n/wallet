@@ -1,1 +1,1 @@
-var mnemonic = "clown pipe mimic oyster fatal anchor ice town alarm keen vacuum spirit";
+var mnemonic = "during guess example ripple afraid draft diagram cargo vital trumpet hybrid broken";

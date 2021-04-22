@@ -1,1 +1,1 @@
-var mnemonic = "movie window dolphin dial slender rack asthma play tobacco raccoon deputy kid";
+var mnemonic = "attitude abuse push history happy toast retreat then dog rose someone thought";

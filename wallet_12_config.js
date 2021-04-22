@@ -1,1 +1,1 @@
-var mnemonic = "neglect acoustic carpet balcony tomato knock flavor burden fantasy move second veteran";
+var mnemonic = "raise doctor say swamp remain robot arrow wheel initial sort curious proud";

@@ -1,1 +1,1 @@
-var mnemonic = "dust tube snap sample despair flip frown seat sunny reward afraid sense";
+var mnemonic = "category text deal suffer finger hero dinner hand light fold wood clown";

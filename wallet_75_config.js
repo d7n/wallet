@@ -1,1 +1,1 @@
-var mnemonic = "act desk jewel clump key mom oblige inhale reduce diagram picnic sausage";
+var mnemonic = "picnic winner crush olympic long shield bubble duck imitate forward behind engage";

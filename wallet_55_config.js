@@ -1,1 +1,1 @@
-var mnemonic = "penalty rural purity silk speed album elevator mesh mobile that nerve begin";
+var mnemonic = "reason slot tomato cabin menu myth ocean patient fever amount sun cave";

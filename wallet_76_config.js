@@ -1,1 +1,1 @@
-var mnemonic = "quantum squirrel way taxi bullet differ dial virtual benefit domain era clay";
+var mnemonic = "spike crash double lizard cruel finger enroll weekend grief increase bullet exist";

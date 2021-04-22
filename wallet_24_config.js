@@ -1,1 +1,1 @@
-var mnemonic = "myth path travel hurt clap theory frequent glue east unlock slam unfair";
+var mnemonic = "write tiger broom desk carry month rule soccer logic husband leg motor";

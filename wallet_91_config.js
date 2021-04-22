@@ -1,1 +1,1 @@
-var mnemonic = "curtain change curve napkin truck brain fatigue input ritual innocent dynamic twist";
+var mnemonic = "since medal dinosaur upper left used sunset bid garden there system virtual";

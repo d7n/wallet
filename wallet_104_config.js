@@ -1,1 +1,1 @@
-var mnemonic = "leave west afford cancel robot broom viable company giant gadget disagree merry";
+var mnemonic = "water cruise deal crack fancy spoil bring whale addict easy loud afford";

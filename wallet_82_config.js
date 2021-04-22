@@ -1,1 +1,1 @@
-var mnemonic = "coconut frost indoor cake enrich dove rebuild settle hammer later rescue goat";
+var mnemonic = "dynamic between lesson business oil patch boy pilot program vacant wheat rapid";

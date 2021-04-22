@@ -1,1 +1,1 @@
-var mnemonic = "attitude universe cat father clip taste age situate shift cute fitness name";
+var mnemonic = "degree cause know noodle approve two kick mutual crowd december mobile wink";

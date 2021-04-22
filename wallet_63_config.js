@@ -1,1 +1,1 @@
-var mnemonic = "rate place recipe cool lens parrot gentle crew tool balcony gap local";
+var mnemonic = "review lock leave choose vendor eager exhaust search mad transfer banana cube";

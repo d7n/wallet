@@ -1,1 +1,1 @@
-var mnemonic = "melody goat zoo avoid spirit reason design century area worth lawsuit idle";
+var mnemonic = "help cotton tip tiny glove lucky embark subway clever drop rude amazing";

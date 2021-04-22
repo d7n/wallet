@@ -1,1 +1,1 @@
-var mnemonic = "walnut million sleep fade conduct kidney payment aunt region board foster lonely";
+var mnemonic = "remember canyon crucial near basket artist page imitate genuine table someone false";

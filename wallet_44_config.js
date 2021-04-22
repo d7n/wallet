@@ -1,1 +1,1 @@
-var mnemonic = "liquid endorse beach between ghost deposit length victory era asthma arrow friend";
+var mnemonic = "taxi off slogan crack garment check cricket alien replace risk visa autumn";

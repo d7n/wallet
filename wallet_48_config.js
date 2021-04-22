@@ -1,1 +1,1 @@
-var mnemonic = "warrior wheat fuel goat gown voyage cinnamon subway rose seek ladder core";
+var mnemonic = "chunk arrow example medal spin tiny extend mystery divide call human airport";

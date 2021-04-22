@@ -1,1 +1,1 @@
-var mnemonic = "soft slow target increase sick train canal engage nature hold clog model";
+var mnemonic = "trophy shadow urge fiction occur ancient glare setup popular erase asthma food";

@@ -1,1 +1,1 @@
-var mnemonic = "nice hint fold volume regular merge better blood only smooth recycle seed";
+var mnemonic = "spell brisk critic cook already dwarf farm arm tape just embody market";

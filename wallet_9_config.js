@@ -1,1 +1,1 @@
-var mnemonic = "burden gossip evil cousin nasty brisk plug shed boost bicycle layer come";
+var mnemonic = "blind desk inspire split struggle okay foot muscle imitate culture lend save";

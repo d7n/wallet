@@ -1,1 +1,1 @@
-var mnemonic = "van cradle pledge west rain solar accuse void car wild easy stage";
+var mnemonic = "ride benefit impulse crowd motor tornado retire sense sense since fame bulk";

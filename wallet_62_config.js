@@ -1,1 +1,1 @@
-var mnemonic = "ship soup nature athlete lawsuit harvest pill budget vacuum worry kite ripple";
+var mnemonic = "turn always pepper logic crush stand cabin pigeon same punch arrive nose";

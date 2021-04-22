@@ -1,1 +1,1 @@
-var mnemonic = "zebra afford wine can much involve dune differ arrive endless copper expose";
+var mnemonic = "close review advance float hurry between myth across vague spoil festival close";

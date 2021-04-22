@@ -1,1 +1,1 @@
-var mnemonic = "foot twelve transfer capital lawn glove armed crumble typical loop insect oil";
+var mnemonic = "buddy mountain man lumber mass odor debate jump sadness pulp key gift";

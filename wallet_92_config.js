@@ -1,1 +1,1 @@
-var mnemonic = "capital frame paddle change fit cheese negative tomato home random ten bench";
+var mnemonic = "shed chair galaxy document quit proud laugh royal quote evolve weather minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "tank manage exhaust school mad average strong upper enhance attack throw cube";
+var mnemonic = "stomach afford eagle erupt tool exact fat wet this supreme become priority";

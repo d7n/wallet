@@ -1,1 +1,1 @@
-var mnemonic = "latin unaware common sail foster kidney pelican express tone industry circle sing";
+var mnemonic = "mother galaxy credit frame cheap sketch airport concert laptop dawn life come";

@@ -1,1 +1,1 @@
-var mnemonic = "torch bird tape six rude country spare inform patient source broom cotton";
+var mnemonic = "oppose above permit help leopard render this mouse visa runway moment pulse";

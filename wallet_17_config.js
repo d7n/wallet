@@ -1,1 +1,1 @@
-var mnemonic = "drive blanket wear van black blade apple uncover clutch mercy model funny";
+var mnemonic = "volume december fitness hint plastic clerk only year arrange wasp pony tide";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake shoe begin lesson exhibit absurd only circle pelican insect cool coffee";
+var mnemonic = "siren shield palm crumble outdoor grant peanut thrive allow enable bicycle wheel";

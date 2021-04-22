@@ -1,1 +1,1 @@
-var mnemonic = "old soft canal outside rookie nasty zoo luxury lazy legal party visa";
+var mnemonic = "mind switch advice festival energy disease mango essence join sponsor uniform enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "position adapt amazing broccoli burger unveil coconut scorpion wink warfare mistake area";
+var mnemonic = "run matter middle acquire verify escape weekend kind omit basket antique motor";

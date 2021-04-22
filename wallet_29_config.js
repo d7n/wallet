@@ -1,1 +1,1 @@
-var mnemonic = "crazy mom saddle decline segment that keep able start venue vital twin";
+var mnemonic = "hybrid traffic wave illness basic floor wisdom follow advice cargo share surprise";

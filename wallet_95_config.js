@@ -1,1 +1,1 @@
-var mnemonic = "until seven symbol nuclear actor clap rally bird victory rare adapt interest";
+var mnemonic = "festival oak scout wide bonus ripple certain debris upon bracket pony stadium";

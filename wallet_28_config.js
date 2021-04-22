@@ -1,1 +1,1 @@
-var mnemonic = "equip check able bright noble end ghost vacant cage cushion daring silk";
+var mnemonic = "armed cluster enable october crisp try game color have year stuff latin";

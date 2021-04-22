@@ -1,1 +1,1 @@
-var mnemonic = "execute outer night viable jacket pave cancel rack gather all girl lemon";
+var mnemonic = "ketchup share music warrior inspire camera mixed subway history horse latin salute";

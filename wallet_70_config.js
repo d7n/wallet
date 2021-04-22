@@ -1,1 +1,1 @@
-var mnemonic = "ahead boy brief snack style glory arrive bronze latin solution render immune";
+var mnemonic = "awake lock dismiss shock approve business master aunt seed ready exotic echo";

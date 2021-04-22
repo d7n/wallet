@@ -1,1 +1,1 @@
-var mnemonic = "boat elder dumb hint mouse hobby endorse midnight toilet elite garden member";
+var mnemonic = "sugar wolf van lamp pilot enhance fatal switch steak inmate smooth old";

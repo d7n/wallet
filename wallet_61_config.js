@@ -1,1 +1,1 @@
-var mnemonic = "fancy soap seven trick mistake lift fun parade floor frog hospital start";
+var mnemonic = "genuine copper brown priority emerge bitter resist symptom exile draw magnet minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "extend proof either stereo insect find joke damp liberty match task sugar";
+var mnemonic = "chase file hat patch tobacco wagon hawk chunk cinnamon pelican network usage";

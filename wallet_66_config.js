@@ -1,1 +1,1 @@
-var mnemonic = "stool oven sort time noise unveil seat rifle connect effort prefer route";
+var mnemonic = "turkey crowd minute magnet crush foam rhythm blanket mountain poverty symbol hold";

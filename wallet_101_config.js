@@ -1,1 +1,1 @@
-var mnemonic = "captain delay require almost toy refuse wine grass rose end brush attack";
+var mnemonic = "merge pact snack forget soda reunion disorder rhythm ivory forum recall text";
