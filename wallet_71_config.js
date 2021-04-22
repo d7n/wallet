@@ -1,1 +1,1 @@
-var mnemonic = "cook supply brother unusual mountain powder second uncover tell beauty place oxygen";
+var mnemonic = "soul swim cluster rhythm appear punch feed rack cost frown strategy action";

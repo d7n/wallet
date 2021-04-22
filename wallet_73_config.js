@@ -1,1 +1,1 @@
-var mnemonic = "one noise camera mystery wise actress lonely decide setup rule culture taste";
+var mnemonic = "way black deal fantasy such demand evidence shallow crop make library bargain";

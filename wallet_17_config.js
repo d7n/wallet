@@ -1,1 +1,1 @@
-var mnemonic = "scan hope media endless cup tobacco cool proud captain start celery armor";
+var mnemonic = "bless focus punch ketchup elephant oval pony split strong globe prepare wealth";

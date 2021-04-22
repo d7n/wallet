@@ -1,1 +1,1 @@
-var mnemonic = "chase over wish drama dutch double peanut song practice response clay program";
+var mnemonic = "alert swap guitar spoon unique crystal arch hand crime desert word live";

@@ -1,1 +1,1 @@
-var mnemonic = "popular what plug endless miracle avoid eager liar plate swear dragon soda";
+var mnemonic = "typical scare cheese dream dumb accuse track unaware plastic duck bachelor recall";

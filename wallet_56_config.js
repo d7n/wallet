@@ -1,1 +1,1 @@
-var mnemonic = "avoid radar mother find license off mango electric crowd enter describe hunt";
+var mnemonic = "avoid between bullet slight crucial alert battle conduct pepper same angle badge";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen merge brass border merry chest prepare during rate good eager wreck";
+var mnemonic = "empty hood open ketchup opera transfer idle affair imitate mirror scare lens";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope myth cat kitten wide include empty choose drastic effort sting student";
+var mnemonic = "rookie legal spoon tomato diet print maze wire roof palm base change";

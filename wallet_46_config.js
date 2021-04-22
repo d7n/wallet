@@ -1,1 +1,1 @@
-var mnemonic = "hold success tuition devote predict tired tail sting donate goose curtain hint";
+var mnemonic = "tourist loud viable indicate crawl diamond expire inspire crucial payment notable parade";

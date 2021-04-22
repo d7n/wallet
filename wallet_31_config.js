@@ -1,1 +1,1 @@
-var mnemonic = "skill deputy tomorrow just detail great usual morning never token sand gift";
+var mnemonic = "egg solve notable annual issue dose anxiety insect keep shove kiwi scatter";

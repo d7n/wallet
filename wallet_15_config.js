@@ -1,1 +1,1 @@
-var mnemonic = "ivory kit phrase okay muffin lens stay left boil climb crunch turtle";
+var mnemonic = "fee critic eagle juice ship lava execute minimum snack vicious method cabbage";

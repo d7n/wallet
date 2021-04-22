@@ -1,1 +1,1 @@
-var mnemonic = "wonder rival enforce rookie elegant seek evoke october message easily romance renew";
+var mnemonic = "tent harbor tunnel breeze bulb jeans weather lonely grain place liberty armor";

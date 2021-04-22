@@ -1,1 +1,1 @@
-var mnemonic = "loyal bonus ticket ugly armed fever sail chalk admit speak input ticket";
+var mnemonic = "transfer fever popular express rubber rose nurse divide swallow weekend sibling glance";

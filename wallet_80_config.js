@@ -1,1 +1,1 @@
-var mnemonic = "crawl equal enroll junk jacket view cycle coyote wealth correct make fit";
+var mnemonic = "actor wide zero fall chuckle cargo seminar soccer fashion fall glance click";

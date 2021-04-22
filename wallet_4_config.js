@@ -1,1 +1,1 @@
-var mnemonic = "dune blouse edge demise peanut metal crunch carry horse rescue lunch swarm";
+var mnemonic = "razor dash toe educate pitch knee idle plug armed creek fat rose";

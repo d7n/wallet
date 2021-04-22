@@ -1,1 +1,1 @@
-var mnemonic = "own wire draw idle decline truly matrix rare middle creek kick maximum";
+var mnemonic = "second fly caution gap thank father erode parent divorce orphan science carpet";

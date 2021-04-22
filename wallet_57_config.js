@@ -1,1 +1,1 @@
-var mnemonic = "moral tooth pool offer maximum diary achieve hat west debris sketch toward";
+var mnemonic = "arctic gauge exchange prefer deposit cement snake silent chapter awkward tired order";

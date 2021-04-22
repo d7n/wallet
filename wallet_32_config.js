@@ -1,1 +1,1 @@
-var mnemonic = "doll era tortoise deny animal puzzle ocean song rent media divorce excite";
+var mnemonic = "area calm aim inmate acid toward mouse enhance glass fame chair gauge";

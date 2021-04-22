@@ -1,1 +1,1 @@
-var mnemonic = "virtual wrist noise you gossip sponsor crash involve shoot demise case eyebrow";
+var mnemonic = "flavor diet castle remove episode interest toward uphold mushroom slice wish reason";

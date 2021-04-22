@@ -1,1 +1,1 @@
-var mnemonic = "song airport leg pet alcohol girl know emotion advance unable spawn slot";
+var mnemonic = "result inform swallow apart extra mandate drill belt scout topic airport fever";

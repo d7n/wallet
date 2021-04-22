@@ -1,1 +1,1 @@
-var mnemonic = "proud mutual rookie wife jealous juice drop laugh taxi bleak treat clip";
+var mnemonic = "rent gasp illness silent glimpse lazy title risk action salmon silly empty";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce sausage good keep web earth ship pride lemon swim track economy";
+var mnemonic = "nothing wool grunt kick toddler distance execute harvest drill easy first rug";

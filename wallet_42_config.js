@@ -1,1 +1,1 @@
-var mnemonic = "cluster orient alcohol pluck fog accident trip sound affair cactus venture rural";
+var mnemonic = "spread sort husband anchor danger lunch example mass science sea glove team";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel admit usual artefact movie door shrug rice wave cigar wrap drill";
+var mnemonic = "hood industry dirt wise garden old equal cradle install bounce entry latin";

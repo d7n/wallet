@@ -1,1 +1,1 @@
-var mnemonic = "mistake pony elbow shield evolve afford merry chunk antique fortune kingdom license";
+var mnemonic = "witness corn slogan pioneer adult pause transfer refuse genuine sister repair help";

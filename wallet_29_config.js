@@ -1,1 +1,1 @@
-var mnemonic = "hundred arrange border cruel tenant tube general gloom credit repair sad toilet";
+var mnemonic = "suffer paddle anxiety vivid attitude urban unusual special hope find wife bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward shop river aspect void cancel liberty flip casual anxiety kind because";
+var mnemonic = "source ramp ignore quick iron sell juice brown tongue present side panda";

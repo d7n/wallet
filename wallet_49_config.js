@@ -1,1 +1,1 @@
-var mnemonic = "female permit web olive cousin taste scale current want solve dirt tail";
+var mnemonic = "auto often artist page rapid awkward scale cover shy bind actual bring";

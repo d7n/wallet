@@ -1,1 +1,1 @@
-var mnemonic = "left embody swift diary theme name cactus clap retreat laundry sorry month";
+var mnemonic = "member note buffalo lawsuit rain miracle stay bonus sword together liquid lady";

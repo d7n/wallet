@@ -1,1 +1,1 @@
-var mnemonic = "parent crisp window web any supply victory try extra material they churn";
+var mnemonic = "cart kind snow notice crawl basket learn profit symptom shadow stone state";

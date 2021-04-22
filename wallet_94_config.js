@@ -1,1 +1,1 @@
-var mnemonic = "cannon enhance smile case issue prison cook cause monitor garlic alley fever";
+var mnemonic = "solar space lonely reflect abuse special awkward leg setup leg glad leave";

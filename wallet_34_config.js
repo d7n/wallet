@@ -1,1 +1,1 @@
-var mnemonic = "vault budget enact raise isolate express portion kick quick resource obvious attract";
+var mnemonic = "neck supreme hammer tackle output argue identify erupt square tissue indicate shuffle";

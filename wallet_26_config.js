@@ -1,1 +1,1 @@
-var mnemonic = "camp arrow hen case tissue together eternal afford venue winter endorse head";
+var mnemonic = "later disagree parent patient someone window recycle goat lecture elegant maze valid";

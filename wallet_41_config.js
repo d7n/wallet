@@ -1,1 +1,1 @@
-var mnemonic = "paper very stove upset entire daughter blouse cousin fringe common tag wheel";
+var mnemonic = "surprise naive little obvious curve puzzle fat kitchen spread caution insect grape";

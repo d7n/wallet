@@ -1,1 +1,1 @@
-var mnemonic = "fish start prison muscle link kid depart crop turkey hub shiver grocery";
+var mnemonic = "special muscle essay thrive broccoli spot ugly bronze label style behind minute";

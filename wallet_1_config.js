@@ -1,1 +1,1 @@
-var mnemonic = "elegant vacuum fine couch force dash trim frown tragic car visit pattern";
+var mnemonic = "own practice task recycle under rule endless current ordinary oak ritual huge";

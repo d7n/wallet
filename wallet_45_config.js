@@ -1,1 +1,1 @@
-var mnemonic = "park adult hunt artefact devote weird orange elephant window dinosaur bundle bag";
+var mnemonic = "option grow pelican easy solid hospital deny cabin poet abstract imitate kitten";

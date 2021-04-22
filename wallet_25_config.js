@@ -1,1 +1,1 @@
-var mnemonic = "brain bone physical general clog explain taxi adapt ecology behind top copper";
+var mnemonic = "rocket embark fitness hero old cable budget near shy island electric cave";

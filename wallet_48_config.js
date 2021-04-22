@@ -1,1 +1,1 @@
-var mnemonic = "have evil crop element ginger useless dumb double latin orchard prosper bitter";
+var mnemonic = "liquid exhibit zebra author mother mask drill impulse ramp guess best blush";

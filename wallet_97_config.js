@@ -1,1 +1,1 @@
-var mnemonic = "call list flash inject scare symbol able divide defy tower between catalog";
+var mnemonic = "dirt insane venue annual sea admit asset champion wait transfer neglect midnight";

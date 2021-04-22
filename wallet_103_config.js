@@ -1,1 +1,1 @@
-var mnemonic = "addict school spin mosquito muffin script solar head swear old trick regular";
+var mnemonic = "sphere filter window around gravity stable love clump dwarf climb mention asthma";

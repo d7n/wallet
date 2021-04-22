@@ -1,1 +1,1 @@
-var mnemonic = "tape wrap kangaroo deal perfect orphan upgrade behind resist dutch shove flat";
+var mnemonic = "hello profit rude equip talent flash shrimp balcony rude toy ginger delay";

@@ -1,1 +1,1 @@
-var mnemonic = "badge aware wasp soon display rapid annual noise rubber design indoor erode";
+var mnemonic = "teach oil credit lonely palm trash leaf such congress arm online act";

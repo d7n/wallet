@@ -1,1 +1,1 @@
-var mnemonic = "candy slogan client sell outdoor august hat moral boss trouble lunch surface";
+var mnemonic = "warfare strong exile fix chuckle lamp solid coach easy amount nasty labor";

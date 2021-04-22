@@ -1,1 +1,1 @@
-var mnemonic = "bitter venture there decline amazing problem link public vessel modify yellow sausage";
+var mnemonic = "unknown artwork gap stomach dignity fold surprise enact immense best tomorrow drift";

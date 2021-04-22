@@ -1,1 +1,1 @@
-var mnemonic = "camp sock two snap lounge monster stay picture virus talk unit woman";
+var mnemonic = "spoon nominee assault repair erosion medal hazard sphere ripple human gorilla glove";

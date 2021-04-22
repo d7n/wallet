@@ -1,1 +1,1 @@
-var mnemonic = "gain craft leave annual expose doll pen afford glass tower hover uphold";
+var mnemonic = "faith pupil accuse antique gallery cool vicious muscle emotion goat acoustic illegal";

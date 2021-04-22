@@ -1,1 +1,1 @@
-var mnemonic = "sweet leader little farm slender acid future sudden cotton wall urban pond";
+var mnemonic = "argue disease economy fine rebel flash arctic primary quit frost traffic robot";

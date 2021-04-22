@@ -1,1 +1,1 @@
-var mnemonic = "direct industry almost proof transfer flee curious stage position impulse erode utility";
+var mnemonic = "venue increase mass random end mask connect devote robust sheriff toddler purchase";

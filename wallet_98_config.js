@@ -1,1 +1,1 @@
-var mnemonic = "cream wire genius connect tragic word actress scout rural trim eagle liberty";
+var mnemonic = "skill acid health portion inspire loud squirrel cloud tray direct above mouse";

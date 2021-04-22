@@ -1,1 +1,1 @@
-var mnemonic = "antique asset search noise census group wrestle regular artefact process hurdle blossom";
+var mnemonic = "review connect network fashion census cliff embody click common lobster autumn bean";

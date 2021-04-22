@@ -1,1 +1,1 @@
-var mnemonic = "mobile number answer kit good lake team remove gadget advance write seed";
+var mnemonic = "retreat fabric risk portion kingdom reform birth pear royal seek brain candy";

@@ -1,1 +1,1 @@
-var mnemonic = "test intact water mom hammer eye help faculty science around glare whip";
+var mnemonic = "rude essay usage trash either thumb yard boy announce cup task acquire";

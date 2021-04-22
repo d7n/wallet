@@ -1,1 +1,1 @@
-var mnemonic = "sick analyst metal innocent derive prepare amateur auto collect oblige final marine";
+var mnemonic = "urban lesson neglect hero match delay silk title style tower gold draw";

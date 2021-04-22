@@ -1,1 +1,1 @@
-var mnemonic = "angle width pizza expire stumble funny fruit upgrade lab friend apple assault";
+var mnemonic = "chest around lesson alarm farm message tape knife horse parent tunnel boost";

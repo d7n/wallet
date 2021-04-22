@@ -1,1 +1,1 @@
-var mnemonic = "east clutch way use glance lumber train grocery holiday open chicken room";
+var mnemonic = "path ridge pair damp puppy differ ability enforce region culture cluster install";

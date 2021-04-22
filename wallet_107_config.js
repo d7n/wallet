@@ -1,1 +1,1 @@
-var mnemonic = "torch denial urban fatal puppy category cereal piano pencil decide stadium forest";
+var mnemonic = "liar glad trim fitness nephew eight cruise embark cook invite spice verify";

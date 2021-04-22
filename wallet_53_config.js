@@ -1,1 +1,1 @@
-var mnemonic = "tilt merge actor bracket turkey illegal common grocery onion immune oblige trick";
+var mnemonic = "diesel relief soccer battle waste frog gallery glow become small high blue";

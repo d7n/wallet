@@ -1,1 +1,1 @@
-var mnemonic = "danger clerk expire there whale indoor volume rule depend upon fetch swallow";
+var mnemonic = "dolphin icon prosper sock reunion canoe cliff virtual first diary reunion fetch";

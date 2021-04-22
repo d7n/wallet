@@ -1,1 +1,1 @@
-var mnemonic = "shiver candy negative strategy faint rigid erode cancel artefact before quit exact";
+var mnemonic = "smile banana question rich tuition dress sea practice crunch cram trade switch";

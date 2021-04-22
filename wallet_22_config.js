@@ -1,1 +1,1 @@
-var mnemonic = "stereo century lobster any suffer suffer pottery wisdom ginger time material educate";
+var mnemonic = "loop clump provide grid busy miss fever patch gloom apart grant balance";

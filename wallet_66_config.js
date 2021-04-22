@@ -1,1 +1,1 @@
-var mnemonic = "asset welcome transfer before will garment dice cry rate impose all cage";
+var mnemonic = "slight disagree enroll spider alcohol cloud vehicle cloth beach extra ecology detail";

@@ -1,1 +1,1 @@
-var mnemonic = "key urge secret economy satisfy turn domain tortoise they have cereal suffer";
+var mnemonic = "legal they fall wagon garage toward outside relief reason craft leg slot";

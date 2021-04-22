@@ -1,1 +1,1 @@
-var mnemonic = "beauty trick sail mother tenant range shield now adult panda spray voice";
+var mnemonic = "toe august radar digital cart rally symptom latin knock salad friend indicate";

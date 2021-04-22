@@ -1,1 +1,1 @@
-var mnemonic = "soap sad taxi theory federal pass craft bread reunion brass gate cereal";
+var mnemonic = "fringe ensure girl theme flag clock blame physical able spare tissue horror";

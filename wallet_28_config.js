@@ -1,1 +1,1 @@
-var mnemonic = "rain extra file act lottery wedding present ceiling world tiger cup mother";
+var mnemonic = "behind poet sniff hero attract fringe forum play salon spoil stay toward";

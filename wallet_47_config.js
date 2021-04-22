@@ -1,1 +1,1 @@
-var mnemonic = "giggle joy deal orange puzzle entry prize marine explain liberty rapid tribe";
+var mnemonic = "play disorder spatial skull claim odor primary ketchup slogan slam food amount";

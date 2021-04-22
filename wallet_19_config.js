@@ -1,1 +1,1 @@
-var mnemonic = "divert gloom balcony tortoise depart secret home own action key blouse abuse";
+var mnemonic = "remind work crowd mimic giggle spatial identify will clever feel tunnel expect";

@@ -1,1 +1,1 @@
-var mnemonic = "result outdoor acid wear dumb dust sleep audit lottery notable ridge sister";
+var mnemonic = "harvest aim admit horror lift nature slice shy relax canal hammer canal";

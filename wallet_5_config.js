@@ -1,1 +1,1 @@
-var mnemonic = "cheese make pudding surround shove saddle prefer base acid fox more despair";
+var mnemonic = "miss dignity price muffin where wealth once miss learn frozen relax collect";

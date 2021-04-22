@@ -1,1 +1,1 @@
-var mnemonic = "vivid trouble barrel bring ugly dose convince run inquiry dose brick december";
+var mnemonic = "engage hedgehog upper purpose tongue sadness subway feel match very upon follow";

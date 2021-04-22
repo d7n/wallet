@@ -1,1 +1,1 @@
-var mnemonic = "ensure circle absurd favorite legend rib clump use able absorb lawsuit illegal";
+var mnemonic = "ramp local task two couple dog write crucial immune child ribbon merge";

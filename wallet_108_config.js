@@ -1,1 +1,1 @@
-var mnemonic = "ordinary business december crew you flavor embark inquiry seminar clarify stadium door";
+var mnemonic = "brown travel security jewel uncle wall day breeze boost imitate manual please";

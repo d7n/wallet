@@ -1,1 +1,1 @@
-var mnemonic = "assume answer speak tribe kite poverty phone lazy culture next width position";
+var mnemonic = "federal ride earn pen asthma comic resist then moral walnut abuse require";

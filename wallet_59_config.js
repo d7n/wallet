@@ -1,1 +1,1 @@
-var mnemonic = "body summer mosquito canoe slight almost bleak nominee game tool verb network";
+var mnemonic = "vapor deny envelope genius draft photo emotion jaguar sad vital occur alarm";

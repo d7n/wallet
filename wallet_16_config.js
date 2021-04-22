@@ -1,1 +1,1 @@
-var mnemonic = "grace camera chalk bachelor crisp nasty own inform cart capital gadget leader";
+var mnemonic = "fever stuff day barrel margin this acoustic put beyond trash mad surprise";

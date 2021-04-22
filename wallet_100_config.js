@@ -1,1 +1,1 @@
-var mnemonic = "jacket horror basic street fade seat pupil tonight hospital vehicle desk satisfy";
+var mnemonic = "find image medal also add poverty suffer original dinner siege bread chalk";

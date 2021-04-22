@@ -1,1 +1,1 @@
-var mnemonic = "more cushion picnic gate disorder save view climb draw rude report sail";
+var mnemonic = "hobby property ramp hard essence more salute spell ball abuse famous test";

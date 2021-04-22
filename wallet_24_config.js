@@ -1,1 +1,1 @@
-var mnemonic = "lift surface dash spot emerge pear decade funny royal list canvas hen";
+var mnemonic = "pattern tone path segment leaf often license layer that exotic spend potato";

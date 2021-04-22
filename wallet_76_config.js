@@ -1,1 +1,1 @@
-var mnemonic = "offer hospital abandon bottom month slush toward remove snap render biology six";
+var mnemonic = "crater journey orphan figure traffic atom test suggest chuckle lens suffer short";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle damage wood admit hand interest animal toddler oblige common liquid winner";
+var mnemonic = "width thing believe damage trigger prosper tenant post differ steak black find";

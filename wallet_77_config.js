@@ -1,1 +1,1 @@
-var mnemonic = "remind fetch cycle ensure motion announce execute program remind tissue eager detect";
+var mnemonic = "talent own limb matrix possible tissue head hungry search ridge layer asset";

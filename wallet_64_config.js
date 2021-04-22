@@ -1,1 +1,1 @@
-var mnemonic = "horse absent return length ride below arrive figure whale seek armed pelican";
+var mnemonic = "rocket mango lottery decide meat laundry pumpkin noise talent shine visual owner";

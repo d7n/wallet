@@ -1,1 +1,1 @@
-var mnemonic = "attack anxiety author ball drive file favorite size master blame fee bomb";
+var mnemonic = "boss club economy afraid cable into thank caution slush meat any tower";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel dish summer blush hand violin essay helmet consider dirt junk equal";
+var mnemonic = "slice manage sound mirror spawn possible post horror example hope much cloth";

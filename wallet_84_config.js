@@ -1,1 +1,1 @@
-var mnemonic = "donkey return want aim injury confirm miss evolve attack mountain quick hello";
+var mnemonic = "trumpet dust zone vivid version range angle boy deal inform canoe garage";

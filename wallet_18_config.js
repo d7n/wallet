@@ -1,1 +1,1 @@
-var mnemonic = "before ethics myself oppose minute method cupboard mountain retreat release lizard borrow";
+var mnemonic = "program toilet render arch drip great castle message soccer utility security vault";

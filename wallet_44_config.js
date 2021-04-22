@@ -1,1 +1,1 @@
-var mnemonic = "banner switch very myth galaxy fringe add social city talk advance flag";
+var mnemonic = "change puzzle hen assault sound define undo output flee veteran flock vapor";

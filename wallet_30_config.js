@@ -1,1 +1,1 @@
-var mnemonic = "talent clown badge cannon learn torch true mushroom super control staff domain";
+var mnemonic = "gym east enjoy announce female portion task job decade upper exhaust frost";

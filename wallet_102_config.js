@@ -1,1 +1,1 @@
-var mnemonic = "fresh elephant alcohol gun account powder peace trim topple connect over like";
+var mnemonic = "pottery client warfare bag toe result become flash industry cross amateur hunt";
