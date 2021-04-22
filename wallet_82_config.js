@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bar love involve make equip echo shed summer garage injury narrow";
+var mnemonic = "exchange very lawn consider dwarf amount bottom stock twenty drastic ride gorilla";

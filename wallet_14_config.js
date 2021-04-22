@@ -1,1 +1,1 @@
-var mnemonic = "apple nose cable peace rival left inch tiny sand service update merit";
+var mnemonic = "inmate spawn fault friend trade emotion board then visa gesture brave broken";

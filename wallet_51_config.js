@@ -1,1 +1,1 @@
-var mnemonic = "luggage have economy heart bottom olympic stairs clutch burger candy local defy";
+var mnemonic = "isolate leader emotion super despair awake sure leave unfold city knock hint";

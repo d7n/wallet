@@ -1,1 +1,1 @@
-var mnemonic = "walk brick blanket hat super embrace dice theory school prosper alien fatal";
+var mnemonic = "boss initial outside panel cotton vault spread modify erase glow peasant cover";

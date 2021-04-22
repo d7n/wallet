@@ -1,1 +1,1 @@
-var mnemonic = "knee escape throw roast normal drift ladder antique business coral girl about";
+var mnemonic = "canoe author boss order farm palm shock direct kingdom jar long salmon";

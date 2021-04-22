@@ -1,1 +1,1 @@
-var mnemonic = "same enjoy mobile capable fancy bleak vivid impulse enjoy topic add what";
+var mnemonic = "become arch used possible bus rough forget scout sort scrub coyote act";

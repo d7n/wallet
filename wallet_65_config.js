@@ -1,1 +1,1 @@
-var mnemonic = "parade shaft heart ghost oyster shaft arrest nothing forward nasty type early";
+var mnemonic = "picture metal oval ball tray game grid close spray runway before green";

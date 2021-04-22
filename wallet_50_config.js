@@ -1,1 +1,1 @@
-var mnemonic = "insane lift render traffic treat resource bronze moon clinic idle weapon shadow";
+var mnemonic = "divert hospital opinion cabbage lend runway remember divert nice slide topic offer";

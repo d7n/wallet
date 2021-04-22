@@ -1,1 +1,1 @@
-var mnemonic = "morning between slice someone neglect reveal protect chaos museum angle maze steak";
+var mnemonic = "town sight claw accuse economy grow market cave divide bacon inhale produce";

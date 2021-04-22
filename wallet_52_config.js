@@ -1,1 +1,1 @@
-var mnemonic = "enforce sentence cigar cherry raise kitten invite monster legal soon stumble produce";
+var mnemonic = "throw rain trigger forum motion stem scatter blue turn fee army shrimp";

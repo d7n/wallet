@@ -1,1 +1,1 @@
-var mnemonic = "result female bubble dizzy style wall own soon caution another comic rich";
+var mnemonic = "reopen wife banana axis timber void torch atom glove cake weasel wood";

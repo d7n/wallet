@@ -1,1 +1,1 @@
-var mnemonic = "book then despair brief cloud beauty clock room bleak fade cargo minor";
+var mnemonic = "erase avoid hundred bid comfort another ten such initial fluid lamp dice";

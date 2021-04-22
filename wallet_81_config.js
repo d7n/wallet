@@ -1,1 +1,1 @@
-var mnemonic = "wide sample actress rural notable robot dynamic twin glory glass kitchen short";
+var mnemonic = "job scorpion midnight document ripple conduct approve year frozen pigeon saddle boss";

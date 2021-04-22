@@ -1,1 +1,1 @@
-var mnemonic = "hurry small jar lottery now fruit fiber steak history angry answer turkey";
+var mnemonic = "seven bronze daring length raw reflect mixed apple casino hawk wood dice";

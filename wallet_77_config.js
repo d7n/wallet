@@ -1,1 +1,1 @@
-var mnemonic = "notable stairs museum ripple quality desk congress next stamp cash bird spawn";
+var mnemonic = "lottery century soft assist mistake immune problem jaguar accident spoil life orange";

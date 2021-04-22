@@ -1,1 +1,1 @@
-var mnemonic = "punch coin lesson pluck cabin increase become business deliver captain dial actual";
+var mnemonic = "universe problem drip margin bottom hurdle fresh hip tip until carbon interest";

@@ -1,1 +1,1 @@
-var mnemonic = "drink knife render welcome borrow pitch volume slot calm flag coast magnet";
+var mnemonic = "pull priority trap face buzz series nuclear hover armor discover orchard hammer";

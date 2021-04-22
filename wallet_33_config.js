@@ -1,1 +1,1 @@
-var mnemonic = "motion spice seed produce loan ring also level morning pen top collect";
+var mnemonic = "perfect salad scrub fault depth history indoor multiply great silent climb exhaust";

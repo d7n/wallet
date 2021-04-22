@@ -1,1 +1,1 @@
-var mnemonic = "math daring benefit glare garage proof chase wheat south youth quality domain";
+var mnemonic = "talent quiz thank easily payment engine please this field estate moment panther";

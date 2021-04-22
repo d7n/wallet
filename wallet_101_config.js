@@ -1,1 +1,1 @@
-var mnemonic = "antenna again process hamster force because right plate require churn arrest walnut";
+var mnemonic = "cushion bunker thunder vital home clerk region absurd dumb hamster essence repair";

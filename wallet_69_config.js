@@ -1,1 +1,1 @@
-var mnemonic = "limit rely topic apology sound aunt congress secret dwarf novel sand mother";
+var mnemonic = "eternal write guitar journey split frown scrub begin garment gravity unlock flush";

@@ -1,1 +1,1 @@
-var mnemonic = "glory avocado street quality clown someone arena text love blur waste crunch";
+var mnemonic = "bind basic legend worry monkey orange usual truth doll giant venture era";

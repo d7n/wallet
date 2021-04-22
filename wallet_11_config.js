@@ -1,1 +1,1 @@
-var mnemonic = "alter great warm taste pact rural limb breeze net captain mercy term";
+var mnemonic = "cook depend rice knife emotion media forget matter hedgehog position liar body";

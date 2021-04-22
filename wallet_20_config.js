@@ -1,1 +1,1 @@
-var mnemonic = "butter slide derive plunge champion escape breeze apology power group giraffe desk";
+var mnemonic = "craft enrich skate average apology cloud clay eternal rotate between address wave";

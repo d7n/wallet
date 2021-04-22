@@ -1,1 +1,1 @@
-var mnemonic = "ostrich rocket genuine ball denial stadium thrive trim adult color degree wink";
+var mnemonic = "much glance also talk famous claw solution model okay yellow bag detect";

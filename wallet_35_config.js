@@ -1,1 +1,1 @@
-var mnemonic = "tail laundry equal feature stairs frequent spatial gown bridge couple matrix mixture";
+var mnemonic = "stove retire response wage joke midnight super sound million head chaos meadow";

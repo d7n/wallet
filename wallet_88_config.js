@@ -1,1 +1,1 @@
-var mnemonic = "idea matrix unable scissors clay laundry engage need earn tower language scene";
+var mnemonic = "provide net wire barely speed initial marriage grid forest elbow stand blade";

@@ -1,1 +1,1 @@
-var mnemonic = "surround private few youth birth large night shell resemble garlic arrest debate";
+var mnemonic = "figure topic weather oblige company sniff power globe stereo coconut spell tone";

@@ -1,1 +1,1 @@
-var mnemonic = "spice window celery stairs lawsuit chronic sport cabin power return clever truck";
+var mnemonic = "coin into donor fitness spawn depend conduct apple public manage noodle cruel";

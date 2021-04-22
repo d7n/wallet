@@ -1,1 +1,1 @@
-var mnemonic = "safe veteran fresh author decide shop cigar pigeon lab fancy account cage";
+var mnemonic = "poverty concert average steel width curve hip picture genre biology oval census";

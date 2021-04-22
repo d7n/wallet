@@ -1,1 +1,1 @@
-var mnemonic = "virtual leave sphere dial enable clay debate burger matter actual hunt food";
+var mnemonic = "online sight brave still quiz salon manual dad fluid learn person differ";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum replace gesture brisk oyster armor tornado inspire decade blame exotic mushroom";
+var mnemonic = "lamp idea harbor general slab mystery buffalo silly claw spend since park";

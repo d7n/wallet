@@ -1,1 +1,1 @@
-var mnemonic = "grape orphan stable indicate brain maximum always village skirt lucky able cage";
+var mnemonic = "burden census enable pull offer quick breeze luggage push either citizen know";

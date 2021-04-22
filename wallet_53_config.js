@@ -1,1 +1,1 @@
-var mnemonic = "often popular leader tiny banner trick truly obey convince girl urban manage";
+var mnemonic = "icon spread visual vacant warrior desert rapid average title wealth drive hour";

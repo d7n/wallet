@@ -1,1 +1,1 @@
-var mnemonic = "monster narrow argue tape olympic melody mimic door elder helmet execute genuine";
+var mnemonic = "minimum end assault mansion cry lens lazy mountain alley reflect dove danger";

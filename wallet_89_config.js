@@ -1,1 +1,1 @@
-var mnemonic = "message lottery churn mirror link legal couch usage spy pink eternal can";
+var mnemonic = "mesh fit coin fringe you flush wasp salute hero boat wagon north";

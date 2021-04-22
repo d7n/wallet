@@ -1,1 +1,1 @@
-var mnemonic = "tooth angle sense october possible limb motion host trick fancy hybrid link";
+var mnemonic = "weather olympic can little suit iron fragile gate labor goat census knife";

@@ -1,1 +1,1 @@
-var mnemonic = "divide account reflect mixed peace planet punch dinosaur front muscle crop track";
+var mnemonic = "table social element health fitness claw pyramid alter point what price chest";

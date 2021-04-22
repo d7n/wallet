@@ -1,1 +1,1 @@
-var mnemonic = "pledge stomach topic pole doctor suffer canvas blame donkey pool hood orchard";
+var mnemonic = "chaos august monitor impose during aisle bubble acoustic step lobster chat glory";

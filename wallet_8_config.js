@@ -1,1 +1,1 @@
-var mnemonic = "front humor video error cruise rescue bird length chef depend appear steel";
+var mnemonic = "stick path interest fancy chat bid candy reduce junior home claw describe";

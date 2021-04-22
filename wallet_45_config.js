@@ -1,1 +1,1 @@
-var mnemonic = "give hope normal dirt horn where total hood seminar mail success weekend";
+var mnemonic = "tuition one fork want custom twin boss permit sentence system meadow strategy";

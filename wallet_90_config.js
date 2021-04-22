@@ -1,1 +1,1 @@
-var mnemonic = "dentist quality add guitar phrase cost polar method room yard easy bird";
+var mnemonic = "mix tragic simple film oil way jewel jacket fashion trumpet aspect rude";

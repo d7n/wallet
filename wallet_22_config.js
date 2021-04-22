@@ -1,1 +1,1 @@
-var mnemonic = "bachelor dance appear weekend divorce hunt height hen prepare portion nominee donate";
+var mnemonic = "quick super whale argue loyal brush rifle when floor bounce palace sudden";

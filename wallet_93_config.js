@@ -1,1 +1,1 @@
-var mnemonic = "taxi crowd cram submit vintage verb couple federal ranch insane panel almost";
+var mnemonic = "actual already amount muffin burst rapid noise spin misery pretty stereo pole";

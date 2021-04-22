@@ -1,1 +1,1 @@
-var mnemonic = "bird skill hobby ice style suspect awful disagree flock donkey wild exit";
+var mnemonic = "banner stick swift deputy salute desert quit carbon release mad finish forget";

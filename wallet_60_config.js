@@ -1,1 +1,1 @@
-var mnemonic = "tiny tuna rigid swarm mail large turn pact year leaf rose logic";
+var mnemonic = "become flower crater hole bean manage improve awake illness offer plate dad";

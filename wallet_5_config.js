@@ -1,1 +1,1 @@
-var mnemonic = "typical catch daring light ostrich pitch woman eye olive card online recycle";
+var mnemonic = "cotton case lazy future tone bless caution execute mosquito canoe repeat disease";

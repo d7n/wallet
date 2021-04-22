@@ -1,1 +1,1 @@
-var mnemonic = "valid health abuse miracle tomorrow carry news comic recall toe umbrella glance";
+var mnemonic = "town excuse middle script start injury same foster skill amazing bless trigger";

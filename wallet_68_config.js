@@ -1,1 +1,1 @@
-var mnemonic = "cattle hockey nasty toward silent upon catch entry pole cube chunk holiday";
+var mnemonic = "lesson enforce length cupboard address camp arena follow dwarf insane debate keen";

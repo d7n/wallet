@@ -1,1 +1,1 @@
-var mnemonic = "winner never write organ tooth lounge divorce train vivid stage cactus wall";
+var mnemonic = "cheese cheese buddy pelican poem unlock deputy phrase conduct hollow kit tooth";

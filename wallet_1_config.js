@@ -1,1 +1,1 @@
-var mnemonic = "victory patient expose dress common hurry section save call penalty horror banana";
+var mnemonic = "excite wheel denial wreck urban shop coyote shy snack milk omit industry";

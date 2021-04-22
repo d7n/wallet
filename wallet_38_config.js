@@ -1,1 +1,1 @@
-var mnemonic = "bachelor easy frown flat face betray deal bracket warrior exclude brisk away";
+var mnemonic = "fire image fancy acoustic domain umbrella confirm rule rude lava pen slogan";

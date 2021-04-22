@@ -1,1 +1,1 @@
-var mnemonic = "slab fit warrior calm soon into elegant emerge gather father off dry";
+var mnemonic = "theme cage manual urge trophy picnic innocent vacant rain taxi predict index";

@@ -1,1 +1,1 @@
-var mnemonic = "category crouch urge pioneer truth true apart mixture before motion slender laugh";
+var mnemonic = "fiber real midnight oppose skin exotic gas never chat medal way basket";

@@ -1,1 +1,1 @@
-var mnemonic = "cake right father bench female talent inspire hint game bullet short kidney";
+var mnemonic = "enemy toilet cost mango token bracket robust loan among place jealous kiss";

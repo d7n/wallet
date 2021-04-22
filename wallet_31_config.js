@@ -1,1 +1,1 @@
-var mnemonic = "flash federal blouse sweet gown better size crawl crumble enroll mix steak";
+var mnemonic = "orange muffin bird affair hamster across scheme slab voyage adult fossil thrive";

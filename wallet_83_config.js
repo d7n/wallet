@@ -1,1 +1,1 @@
-var mnemonic = "often faint fine swamp soda change derive glimpse crunch good avoid crawl";
+var mnemonic = "inject equal item barrel later swallow immune noodle holiday invite danger false";

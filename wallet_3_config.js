@@ -1,1 +1,1 @@
-var mnemonic = "traffic alien fire track parrot drive cruise fiscal wheel vintage rapid barrel";
+var mnemonic = "wet elbow swap cushion casual pilot notice witness throw later motion warrior";

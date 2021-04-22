@@ -1,1 +1,1 @@
-var mnemonic = "spare trial sustain remain check infant morning short movie biology busy sort";
+var mnemonic = "inhale fuel aim olive toy grit coach mean tonight embrace lens emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "trade phone journey peasant still worth inflict slow impose lunar fence once";
+var mnemonic = "crucial swarm immune bottom category ready ahead inherit famous net enact dice";

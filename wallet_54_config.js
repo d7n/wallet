@@ -1,1 +1,1 @@
-var mnemonic = "taste knee cage cement prison pig wild begin memory vapor pizza all";
+var mnemonic = "dust cannon device sea hurt cook remain palace record want devote object";

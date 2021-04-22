@@ -1,1 +1,1 @@
-var mnemonic = "winter rug fish joke fantasy glance old chair chef actual advance ripple";
+var mnemonic = "bullet cupboard announce only school guitar sister afford title naive barely document";

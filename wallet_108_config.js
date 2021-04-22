@@ -1,1 +1,1 @@
-var mnemonic = "bounce pond glue bless leave tide picture charge fever funny allow drift";
+var mnemonic = "shiver goat pave attract enough slide tuna vicious dentist jacket syrup tip";

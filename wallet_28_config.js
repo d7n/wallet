@@ -1,1 +1,1 @@
-var mnemonic = "bachelor where true abandon door donor spoon milk barrel cook hammer flower";
+var mnemonic = "steak agree sponsor delay travel smart year cattle half absurd robust other";

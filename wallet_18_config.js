@@ -1,1 +1,1 @@
-var mnemonic = "margin evoke adapt meadow science lonely actress film between episode bean pledge";
+var mnemonic = "cricket analyst holiday case flight grass write doctor pony neglect little father";

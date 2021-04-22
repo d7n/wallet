@@ -1,1 +1,1 @@
-var mnemonic = "east exchange law fault split choose genius six ramp wrist oblige inherit";
+var mnemonic = "mixture birth oyster clap fuel reject crucial group stock side remember emerge";

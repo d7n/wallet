@@ -1,1 +1,1 @@
-var mnemonic = "choose entire jump start track festival thought use peasant woman catalog beauty";
+var mnemonic = "execute asthma purse nice search bring tell canal crawl atom tourist trick";

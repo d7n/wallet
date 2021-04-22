@@ -1,1 +1,1 @@
-var mnemonic = "popular powder swamp frost pigeon trigger crash caution twice quantum worry vessel";
+var mnemonic = "snake deer future shrimp long fresh match key bottom right final inhale";

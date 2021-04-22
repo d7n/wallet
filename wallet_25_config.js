@@ -1,1 +1,1 @@
-var mnemonic = "tattoo horn size mouse fatal alpha club syrup they civil verify tag";
+var mnemonic = "intact rapid still drift clock prepare remain swamp chunk essay opera cream";

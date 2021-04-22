@@ -1,1 +1,1 @@
-var mnemonic = "royal million usual supply dumb enable long sing student echo awake engage";
+var mnemonic = "junk fever chuckle crop decrease health kidney orbit seven tool hood cheese";

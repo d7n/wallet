@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog glimpse canal that patch ice need despair again silly lens mobile";
+var mnemonic = "goose draft uncover over slot number interest crop wise sniff napkin group";

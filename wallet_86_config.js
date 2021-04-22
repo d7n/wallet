@@ -1,1 +1,1 @@
-var mnemonic = "ripple merry wise maid second theme where million robot pause twenty icon";
+var mnemonic = "valid fork damp pause trim middle ready uncle brush super female recycle";

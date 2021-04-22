@@ -1,1 +1,1 @@
-var mnemonic = "vocal jelly despair soon there cloth ghost cute exist echo beach injury";
+var mnemonic = "sign recycle senior silver blue must kitten bread glance angry pond rhythm";

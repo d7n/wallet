@@ -1,1 +1,1 @@
-var mnemonic = "segment document pioneer meat wrestle replace myself hero bachelor frozen garden system";
+var mnemonic = "spend peasant test also cluster elder quote decide fall kite cancel undo";

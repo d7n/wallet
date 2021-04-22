@@ -1,1 +1,1 @@
-var mnemonic = "describe lift medal engine rally cattle hover execute puzzle arena want vendor";
+var mnemonic = "kingdom shuffle junk flower pulse blame brass later source art relief curve";

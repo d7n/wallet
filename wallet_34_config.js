@@ -1,1 +1,1 @@
-var mnemonic = "catalog kidney lizard pair vibrant try because include result jungle duck machine";
+var mnemonic = "supply month network struggle empty endorse orange fix gaze lunar spawn virtual";

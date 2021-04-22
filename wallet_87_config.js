@@ -1,1 +1,1 @@
-var mnemonic = "task equal brand differ rival laugh tackle harsh wrap divorce blouse fan";
+var mnemonic = "trick resource message nuclear absent lunch total rain before decorate clap region";

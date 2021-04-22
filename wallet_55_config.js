@@ -1,1 +1,1 @@
-var mnemonic = "grow connect orphan achieve enough apology brick tenant knock skirt dinner impact";
+var mnemonic = "welcome tail potato green congress fitness sing load enlist fiber alter lesson";

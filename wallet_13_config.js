@@ -1,1 +1,1 @@
-var mnemonic = "dream diesel duck employ observe poet draw snake enroll industry audit life";
+var mnemonic = "promote bulb burger laptop cover myself runway oil oxygen auto sleep decrease";

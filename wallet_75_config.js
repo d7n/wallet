@@ -1,1 +1,1 @@
-var mnemonic = "patrol panel will daring burden item thing room company pizza demise adapt";
+var mnemonic = "game among mirror bullet work large balance hunt box axis robust enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "solution issue twist accuse castle north repeat kite gift resist prefer ball";
+var mnemonic = "eight inhale differ edge shaft caution diesel pet cannon butter kiss divert";

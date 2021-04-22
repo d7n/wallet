@@ -1,1 +1,1 @@
-var mnemonic = "harbor genre concert mother opera quality sibling project language congress lumber reject";
+var mnemonic = "ball viable million mandate harsh kitten feed wave rude frequent utility cash";

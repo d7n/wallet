@@ -1,1 +1,1 @@
-var mnemonic = "fine crane blast umbrella amused romance spike expect body dwarf pluck voyage";
+var mnemonic = "point winner harbor shed zone bicycle profit exist kind reveal amount luggage";

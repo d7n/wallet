@@ -1,1 +1,1 @@
-var mnemonic = "owner grain distance middle deputy frost liar cereal fine shoulder renew index";
+var mnemonic = "scan valve work similar outer review grunt calm boost great street pigeon";

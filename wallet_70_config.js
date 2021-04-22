@@ -1,1 +1,1 @@
-var mnemonic = "wish tide hint shine castle indoor canvas noise ask found lounge prize";
+var mnemonic = "tray forward area bulb best few proud notable wise atom dentist hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "orient kiss jelly gospel castle square group develop obscure large uncover tiny";
+var mnemonic = "empty cradle moral veteran inquiry fault moral exact tooth drive hockey inherit";
