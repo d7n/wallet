@@ -1,1 +1,1 @@
-var mnemonic = "cushion enter theme menu upon envelope frost diesel thrive wait awkward melody";
+var mnemonic = "decide actress kick eagle lottery guess ahead easy magic rural valley blanket";

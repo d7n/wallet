@@ -1,1 +1,1 @@
-var mnemonic = "crouch share raven uncover harvest pilot essay decade knee swear rich seek";
+var mnemonic = "feature case second receive coil lawsuit kitten nephew pull exit ball fix";

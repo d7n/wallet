@@ -1,1 +1,1 @@
-var mnemonic = "tunnel appear embrace clutch farm sample gain ahead anchor already purity learn";
+var mnemonic = "harvest garlic section spoil blur boil pretty green finish lucky pretty gate";

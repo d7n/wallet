@@ -1,1 +1,1 @@
-var mnemonic = "else blanket apart squeeze panther ski spray nuclear have brain sketch rotate";
+var mnemonic = "crouch tree light inmate festival found prison search jump trouble people bitter";

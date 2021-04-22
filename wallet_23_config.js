@@ -1,1 +1,1 @@
-var mnemonic = "agent dentist elder leg idea jazz lemon snap drill atom clerk box";
+var mnemonic = "crater kingdom satoshi small rose pledge noodle senior online couch poem sauce";

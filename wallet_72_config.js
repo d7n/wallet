@@ -1,1 +1,1 @@
-var mnemonic = "level emerge feed universe there category climb swamp carpet hawk kitten able";
+var mnemonic = "talent digital flame permit parade like weird noodle sun universe where voice";

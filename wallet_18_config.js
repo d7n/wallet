@@ -1,1 +1,1 @@
-var mnemonic = "symbol myself budget speak column balance style since arch cattle aspect mountain";
+var mnemonic = "copper luxury cook torch asset bid entry siege refuse rally disagree south";

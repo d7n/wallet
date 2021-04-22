@@ -1,1 +1,1 @@
-var mnemonic = "lobster voyage differ smile afford cost budget cash clump fitness boy exact";
+var mnemonic = "video people tenant famous play job skin traffic ticket improve live ship";

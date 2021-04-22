@@ -1,1 +1,1 @@
-var mnemonic = "book pipe trophy valley pole farm clown flight together border party run";
+var mnemonic = "empower lesson phone submit axis auto fog future obey beyond lunar quality";

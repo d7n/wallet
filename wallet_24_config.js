@@ -1,1 +1,1 @@
-var mnemonic = "figure wave describe fork walk undo raven man warrior glad long dismiss";
+var mnemonic = "salmon man pioneer under crane apology spring bike boss alpha border swing";

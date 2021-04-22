@@ -1,1 +1,1 @@
-var mnemonic = "voice tomato inquiry soup unhappy trouble ahead lazy matrix excuse surface refuse";
+var mnemonic = "skin fly butter ordinary waste hard bind blast say ignore orphan lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "knee pact cushion empty eager diagram bacon system offer danger category flee";
+var mnemonic = "come steel train soldier craft vague arrange endless faith canoe fun lyrics";

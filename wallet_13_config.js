@@ -1,1 +1,1 @@
-var mnemonic = "shoulder science lawn cement joke sibling follow sense zebra boost idle seek";
+var mnemonic = "blouse recipe where prepare hair program affair dog census antenna argue ladder";

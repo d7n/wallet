@@ -1,1 +1,1 @@
-var mnemonic = "license nice real degree direct jewel faint hollow swift gesture scheme summer";
+var mnemonic = "stick method jacket thunder polar useful advance skill east emotion bright peasant";

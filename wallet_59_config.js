@@ -1,1 +1,1 @@
-var mnemonic = "fade music wrap rely awake poet regular relief edit way museum cruel";
+var mnemonic = "appear excite grass strong behave wagon march foil bicycle prison friend indicate";

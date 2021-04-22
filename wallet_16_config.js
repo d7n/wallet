@@ -1,1 +1,1 @@
-var mnemonic = "license robot small bag faint duck sea spring catalog guitar city drill";
+var mnemonic = "ridge inner genuine around spring spoil fiction bullet wasp mango suspect blind";

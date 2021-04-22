@@ -1,1 +1,1 @@
-var mnemonic = "drink announce cotton nice suffer upgrade claw similar shuffle unfold soft cram";
+var mnemonic = "insane unknown illness price taste soon tragic tape stumble narrow left never";

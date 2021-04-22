@@ -1,1 +1,1 @@
-var mnemonic = "flame blur offer type expose noise clutch valve end tragic second actor";
+var mnemonic = "okay avocado correct champion need coyote source link comic just virus nothing";

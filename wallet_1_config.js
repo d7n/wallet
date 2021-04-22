@@ -1,1 +1,1 @@
-var mnemonic = "lazy skull song glare record essay shock hand flight noodle shove pond";
+var mnemonic = "dinosaur surface fat parrot meat patch patch advice spread ice echo salad";

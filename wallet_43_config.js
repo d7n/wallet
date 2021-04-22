@@ -1,1 +1,1 @@
-var mnemonic = "hawk gather sleep cement fence empty rapid social symptom echo mom survey";
+var mnemonic = "rocket promote hour donkey accuse estate output series vivid cart people cluster";

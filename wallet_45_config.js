@@ -1,1 +1,1 @@
-var mnemonic = "kitchen claim basic hungry crucial donate tooth rhythm lens entire sentence salmon";
+var mnemonic = "dynamic person expose depart ripple ozone boring another juice elite tooth little";

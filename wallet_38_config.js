@@ -1,1 +1,1 @@
-var mnemonic = "butter mammal blame add bubble drop person bleak junior category response flat";
+var mnemonic = "half kingdom bounce lady number model visual used soldier violin seat cable";

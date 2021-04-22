@@ -1,1 +1,1 @@
-var mnemonic = "spend cancel shove slight virus voice day one boy divide amazing online";
+var mnemonic = "protect quiz behave afraid inspire bid rhythm coach celery rocket infant when";

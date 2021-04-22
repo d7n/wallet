@@ -1,1 +1,1 @@
-var mnemonic = "forest fan fossil woman swallow field doctor vocal ramp amount gentle accident";
+var mnemonic = "until laptop drift aerobic gesture design catalog spatial loop awful output bar";

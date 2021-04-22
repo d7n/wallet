@@ -1,1 +1,1 @@
-var mnemonic = "announce morning hurry tube luxury cruise collect energy fork diamond rule lamp";
+var mnemonic = "special mouse topic indicate kick excuse human gather mansion museum loyal attack";

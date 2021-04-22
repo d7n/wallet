@@ -1,1 +1,1 @@
-var mnemonic = "bullet ticket one curtain split spirit vote neglect antenna fan detail crater";
+var mnemonic = "clump arm craft rail antenna rule stone black law stadium dose public";

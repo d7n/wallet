@@ -1,1 +1,1 @@
-var mnemonic = "sell acquire network grass sad card skill extra number metal dune garden";
+var mnemonic = "accident valid awake motor title peace stock seat private vanish base panel";

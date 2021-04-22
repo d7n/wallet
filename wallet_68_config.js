@@ -1,1 +1,1 @@
-var mnemonic = "fitness initial inject rain dice glide voyage such dad clerk negative seed";
+var mnemonic = "super unable shed vacant cattle squirrel return clown scan home hint spice";

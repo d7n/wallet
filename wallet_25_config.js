@@ -1,1 +1,1 @@
-var mnemonic = "matrix retreat border uncover exhibit nation illegal gravity evil marine effort rapid";
+var mnemonic = "devote tilt chat smile coil room rotate torch border swallow differ embody";

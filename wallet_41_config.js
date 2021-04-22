@@ -1,1 +1,1 @@
-var mnemonic = "lesson hunt unlock crisp attend narrow blame long mail retreat sure credit";
+var mnemonic = "demise equal burger duty illness panda alarm food hotel sheriff item joke";

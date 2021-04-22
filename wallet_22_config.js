@@ -1,1 +1,1 @@
-var mnemonic = "uniform ginger seminar swallow seed scorpion morning glow faculty fruit mandate daughter";
+var mnemonic = "magic wash bunker fence once rifle talent tragic worry chat type pride";

@@ -1,1 +1,1 @@
-var mnemonic = "grape close angle reform sign gauge avoid sea aunt extra unique limit";
+var mnemonic = "assault seed cherry reopen animal ability fame floor donate candy capable deny";

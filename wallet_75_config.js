@@ -1,1 +1,1 @@
-var mnemonic = "illness lab host arrange camera skill jaguar south position sketch method steak";
+var mnemonic = "treat coast all erosion genre hour left gravity mandate notable engage brass";

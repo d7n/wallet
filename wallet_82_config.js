@@ -1,1 +1,1 @@
-var mnemonic = "rally december sponsor gym test sorry gravity canvas foam balance public above";
+var mnemonic = "pulse hunt scrap hip timber vessel angry select hybrid rebel depart shop";

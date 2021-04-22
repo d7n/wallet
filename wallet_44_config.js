@@ -1,1 +1,1 @@
-var mnemonic = "tell outdoor alert maximum display network dust pride economy short emerge key";
+var mnemonic = "catch century property occur steel skate eyebrow tank theme wine reform bicycle";

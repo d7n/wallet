@@ -1,1 +1,1 @@
-var mnemonic = "fitness observe brush jungle beach trouble assume coast medal extra garage vanish";
+var mnemonic = "ask kidney glory motion spy orchard order parade typical fall coach burger";

@@ -1,1 +1,1 @@
-var mnemonic = "plate close bag direct fan city ordinary just great napkin picture secret";
+var mnemonic = "company bright spring embody across hill roast fly nothing sign equal flush";

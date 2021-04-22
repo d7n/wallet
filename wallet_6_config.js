@@ -1,1 +1,1 @@
-var mnemonic = "chaos wisdom diamond merry capital praise popular cattle wage future dash empower";
+var mnemonic = "river cliff aunt wall feel draw blind parent nut anger welcome pitch";

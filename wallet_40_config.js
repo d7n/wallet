@@ -1,1 +1,1 @@
-var mnemonic = "video orange imitate border fan belt drift solid blood aim carbon equip";
+var mnemonic = "hint dignity barely year coil kit worth sudden slice guide act shoulder";

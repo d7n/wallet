@@ -1,1 +1,1 @@
-var mnemonic = "drum gentle pepper west good sorry decade awake injury giant earn vague";
+var mnemonic = "recall father phone seminar lobster seven critic outdoor village surge athlete adjust";

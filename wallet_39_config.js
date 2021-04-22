@@ -1,1 +1,1 @@
-var mnemonic = "cruel monkey accident ensure weird mercy episode erode blush stove table electric";
+var mnemonic = "argue atom consider action increase teach diagram belt night fan unveil father";

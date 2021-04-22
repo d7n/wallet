@@ -1,1 +1,1 @@
-var mnemonic = "settle alone gentle gadget illness penalty stay stem dust whale display awkward";
+var mnemonic = "scale guard yard elite blur more please auction drive game bundle glory";

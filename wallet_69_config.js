@@ -1,1 +1,1 @@
-var mnemonic = "jungle neck opera bunker start world rose guard staff bronze intact clog";
+var mnemonic = "cart adapt flame hill enjoy erase table throw wrong foot oak own";

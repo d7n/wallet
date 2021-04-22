@@ -1,1 +1,1 @@
-var mnemonic = "winter shift dial cycle only rib exact car hybrid fee rib grain";
+var mnemonic = "verb slice lock train enter guard uncle certain athlete dance flight car";

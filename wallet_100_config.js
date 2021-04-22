@@ -1,1 +1,1 @@
-var mnemonic = "cross street hockey awful offer silver toss melt vault artwork length trip";
+var mnemonic = "calm sunset daughter security wash sunset capable winner swear hard together damage";

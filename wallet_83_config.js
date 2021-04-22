@@ -1,1 +1,1 @@
-var mnemonic = "term casino window habit cover boring lunch infant index winner water reject";
+var mnemonic = "bind tuna open lizard coconut badge foil cycle roast music surge bamboo";

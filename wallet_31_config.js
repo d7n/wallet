@@ -1,1 +1,1 @@
-var mnemonic = "fury chapter smart ocean depart sand boost switch equip panel material blossom";
+var mnemonic = "fine produce kiss anchor cube timber fruit split fortune action false idea";

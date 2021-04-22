@@ -1,1 +1,1 @@
-var mnemonic = "gossip huge mandate roast hospital moon system funny replace coil because dinner";
+var mnemonic = "cricket fury original ostrich leader verify glimpse vital struggle cargo talent able";

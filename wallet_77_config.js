@@ -1,1 +1,1 @@
-var mnemonic = "expand glow margin mad jelly offer abuse toddler dad dove noodle bomb";
+var mnemonic = "flame cash citizen hundred trumpet attract carpet glove faint post suspect lumber";

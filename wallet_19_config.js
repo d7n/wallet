@@ -1,1 +1,1 @@
-var mnemonic = "guilt kick debate indicate ahead slow nation entire harvest danger muffin media";
+var mnemonic = "perfect pool dad budget thunder keen seek menu senior picnic future six";

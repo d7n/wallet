@@ -1,1 +1,1 @@
-var mnemonic = "connect scrap truly little tank match enjoy wish figure mandate shoulder enhance";
+var mnemonic = "reunion mind derive woman honey ignore mixture omit earn leaf wild deliver";

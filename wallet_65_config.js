@@ -1,1 +1,1 @@
-var mnemonic = "devote club track confirm air jeans sunset giggle venue solve thrive glide";
+var mnemonic = "success emerge chair mean melody grab asthma retreat exile random trigger orchard";

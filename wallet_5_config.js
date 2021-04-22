@@ -1,1 +1,1 @@
-var mnemonic = "trap artefact humble regret menu approve clump smile mean engine rocket bind";
+var mnemonic = "horse art shaft mass foster together day load false rain crawl calm";

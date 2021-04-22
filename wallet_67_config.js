@@ -1,1 +1,1 @@
-var mnemonic = "tag green route series clever tail liar moon bus burst imitate bamboo";
+var mnemonic = "peanut buffalo space enrich oblige tell trim setup vibrant bamboo panther glass";

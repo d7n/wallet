@@ -1,1 +1,1 @@
-var mnemonic = "fox genuine drama decorate purity head draw digital embrace whale ranch decide";
+var mnemonic = "coach shift update cover shed service uniform oval void success unknown mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "meat eternal april yellow trim parade vacant razor can venue talent reform";
+var mnemonic = "rescue fatal tower derive december argue stage lemon magnet round boss size";

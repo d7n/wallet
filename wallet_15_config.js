@@ -1,1 +1,1 @@
-var mnemonic = "rabbit nerve entire easy wear naive ancient senior cross stable enhance genre";
+var mnemonic = "guilt enrich address nut actual measure cabin dress two undo piece wreck";

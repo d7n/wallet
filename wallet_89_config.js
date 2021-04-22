@@ -1,1 +1,1 @@
-var mnemonic = "liquid play head senior total medal match any fish attract chuckle tilt";
+var mnemonic = "cube accident fringe model melody fat grace frequent document hidden pill melt";

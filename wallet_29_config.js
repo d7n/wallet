@@ -1,1 +1,1 @@
-var mnemonic = "planet outer loan bag dinner frog art clerk truck blind harvest impact";
+var mnemonic = "shield trial oven rough you mobile word crawl diamond cabin simple panda";

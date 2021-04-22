@@ -1,1 +1,1 @@
-var mnemonic = "social library tiny matter slam picnic jump pink rate thumb harvest direct";
+var mnemonic = "music wire emotion mad fossil best face exotic witness interest genius bird";

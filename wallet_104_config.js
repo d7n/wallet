@@ -1,1 +1,1 @@
-var mnemonic = "oyster slam oxygen bright dynamic battle school cheese auction ridge hobby liar";
+var mnemonic = "mandate measure garbage twelve rigid board midnight problem helmet farm hello gauge";

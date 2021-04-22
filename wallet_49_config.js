@@ -1,1 +1,1 @@
-var mnemonic = "script reunion ignore voyage audit cost left keep bunker silk assault six";
+var mnemonic = "enroll appear fitness point coil type depth feature erode patrol exit dry";

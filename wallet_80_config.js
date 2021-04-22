@@ -1,1 +1,1 @@
-var mnemonic = "slice tail scheme fiction spike skill require hair slam uphold hawk sibling";
+var mnemonic = "fluid secret vacuum seat initial early fabric happy olympic radar trip moment";

@@ -1,1 +1,1 @@
-var mnemonic = "math what celery renew sibling effort inner spice inmate atom isolate joke";
+var mnemonic = "domain tragic cliff autumn draft load apology enable luxury cigar elite minimum";

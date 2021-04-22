@@ -1,1 +1,1 @@
-var mnemonic = "someone wheat mom farm amused farm clap coast inner eagle mail swear";
+var mnemonic = "swamp unlock surround curve spot hungry smart sort wink crowd lesson neither";

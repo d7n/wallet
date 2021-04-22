@@ -1,1 +1,1 @@
-var mnemonic = "arrow park thunder trust trouble hip aerobic mirror mirror ceiling ranch flame";
+var mnemonic = "diesel witness churn glass power bomb agree shallow door program bulb evil";

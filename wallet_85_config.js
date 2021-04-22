@@ -1,1 +1,1 @@
-var mnemonic = "glass loop load drama bar mule smoke shell birth result control stereo";
+var mnemonic = "clap donate smooth buyer grid figure congress panda vendor armed lunch again";

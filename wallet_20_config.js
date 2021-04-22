@@ -1,1 +1,1 @@
-var mnemonic = "december rude this state page tennis one drip multiply sniff auction spoon";
+var mnemonic = "risk early voice juice economy treat boost wreck trend copy document tortoise";

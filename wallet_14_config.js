@@ -1,1 +1,1 @@
-var mnemonic = "comfort flash loud vanish flock glance perfect chest lesson scare diamond puzzle";
+var mnemonic = "catalog increase nose gasp sound giraffe fetch portion erode average industry pink";

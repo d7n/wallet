@@ -1,1 +1,1 @@
-var mnemonic = "audit cook merge rib wreck wreck silver outer pause high state truth";
+var mnemonic = "tilt ankle taste neither alone jeans element jar soap ceiling fitness peace";

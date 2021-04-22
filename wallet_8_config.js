@@ -1,1 +1,1 @@
-var mnemonic = "during immense struggle screen employ chair belt book copy math inhale help";
+var mnemonic = "economy keep blouse ordinary novel multiply choose rough hedgehog arrange neglect vast";

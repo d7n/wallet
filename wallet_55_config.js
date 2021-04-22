@@ -1,1 +1,1 @@
-var mnemonic = "paper mobile drip stadium cereal logic bachelor error empty verb mistake sight";
+var mnemonic = "sea video forest access team diamond evil crater shed material pottery frame";

@@ -1,1 +1,1 @@
-var mnemonic = "month member mail segment oppose cradle huge bracket weekend page three ostrich";
+var mnemonic = "kingdom gentle that response daughter fetch scene rare analyst seminar original clinic";

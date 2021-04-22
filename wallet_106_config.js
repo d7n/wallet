@@ -1,1 +1,1 @@
-var mnemonic = "give night barrel depart fiction elite absorb harsh giant sleep hero better";
+var mnemonic = "start raw wage palace enjoy rent layer decide battle awesome polar claw";

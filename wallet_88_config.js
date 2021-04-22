@@ -1,1 +1,1 @@
-var mnemonic = "taxi measure enemy chest pizza such bunker license frost job slight rely";
+var mnemonic = "usual random exist tourist aim garden also gap elder monkey grit service";

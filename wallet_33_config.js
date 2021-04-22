@@ -1,1 +1,1 @@
-var mnemonic = "street you say gallery morning dream solid silver seven split lawn inherit";
+var mnemonic = "drift unique help boring elite ski faith apart cage melody crater pen";

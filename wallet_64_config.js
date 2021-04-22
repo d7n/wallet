@@ -1,1 +1,1 @@
-var mnemonic = "pear you finger glide direct magic describe fire orchard clay index monkey";
+var mnemonic = "track art ugly woman carpet moment penalty give lawn explain wool owner";

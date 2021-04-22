@@ -1,1 +1,1 @@
-var mnemonic = "congress shuffle casino weapon liar envelope opinion fetch trim poet drop axis";
+var mnemonic = "basic outer right nasty arrive vicious air uncle muffin rigid good shrug";

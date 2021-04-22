@@ -1,1 +1,1 @@
-var mnemonic = "section menu segment either paddle slogan muffin nut october anxiety nerve quick";
+var mnemonic = "average help nest cool earth vault cattle exclude jacket decorate coral arrange";

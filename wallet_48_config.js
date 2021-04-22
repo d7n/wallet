@@ -1,1 +1,1 @@
-var mnemonic = "picnic young rigid cable hammer ridge guess accuse cricket endorse record salt";
+var mnemonic = "early morning own page deputy fatal honey cover seminar mercy image raccoon";

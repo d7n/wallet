@@ -1,1 +1,1 @@
-var mnemonic = "elite across blanket lumber device round dove together absurd suspect rebel moral";
+var mnemonic = "enjoy coconut faculty liberty draft bless cross exercise abstract fit clap woman";

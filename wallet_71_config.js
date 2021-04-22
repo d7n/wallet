@@ -1,1 +1,1 @@
-var mnemonic = "accuse language decorate stand what husband foot false clip sting remain reduce";
+var mnemonic = "bracket trap mutual youth old twin swear weasel pudding satoshi kingdom endless";

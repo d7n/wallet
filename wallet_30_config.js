@@ -1,1 +1,1 @@
-var mnemonic = "sister fiscal either picnic bundle fun cause where surface excite bike spread";
+var mnemonic = "novel model fold offer speak foot month original dice help logic lemon";

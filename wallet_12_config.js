@@ -1,1 +1,1 @@
-var mnemonic = "cage never tiny quality mix remember gauge top alien once asthma such";
+var mnemonic = "chaos plastic blur knife toilet marriage budget face area soon glad monkey";

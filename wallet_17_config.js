@@ -1,1 +1,1 @@
-var mnemonic = "ostrich marble emotion hill swallow drop tiny scale coil final improve liquid";
+var mnemonic = "thunder offer pear garage mother diet engine upper city surprise fancy scatter";

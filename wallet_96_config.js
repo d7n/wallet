@@ -1,1 +1,1 @@
-var mnemonic = "bid water noodle three report mix debris tooth twist step find viable";
+var mnemonic = "build crime depend ability flower lumber rescue catch upset kitten senior spike";

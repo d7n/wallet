@@ -1,1 +1,1 @@
-var mnemonic = "trigger disorder arrive mad wrestle labor sad couple town mirror magnet flush";
+var mnemonic = "stairs vicious seat twenty thank soon indoor cabin flavor soft brave audit";

@@ -1,1 +1,1 @@
-var mnemonic = "average calm survey setup siege clarify reflect sock knock stadium fabric judge";
+var mnemonic = "dish attack tattoo visit height abandon exotic lawn lesson desk swift mixed";
