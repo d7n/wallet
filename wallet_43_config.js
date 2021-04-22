@@ -1,1 +1,1 @@
-var mnemonic = "celery wasp defy liquid hint prepare address best genius gesture question filter";
+var mnemonic = "before rate stick price cause choice weather crash review warrior crash trumpet";

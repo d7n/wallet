@@ -1,1 +1,1 @@
-var mnemonic = "panda bus bus joy delay file upset help almost stumble fatal canal";
+var mnemonic = "orchard bike silly hello lumber mechanic abstract strategy agent suspect energy aim";

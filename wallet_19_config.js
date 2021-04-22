@@ -1,1 +1,1 @@
-var mnemonic = "immense habit memory risk truth crush cook enrich news abuse smile chicken";
+var mnemonic = "history awake cause peace scissors effort meat horn spoil erode erode share";

@@ -1,1 +1,1 @@
-var mnemonic = "ship identify canoe pudding ring seat pact oxygen sign affair surge bachelor";
+var mnemonic = "nest mixed anxiety depend curious misery muscle three moon remind ignore theory";

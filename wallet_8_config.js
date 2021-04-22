@@ -1,1 +1,1 @@
-var mnemonic = "ugly toward supreme spider water ocean always tree choice man tell fit";
+var mnemonic = "twelve need news tuna spread apple gossip admit own robust only series";

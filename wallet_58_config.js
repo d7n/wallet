@@ -1,1 +1,1 @@
-var mnemonic = "decorate unit suspect refuse curve cinnamon sell net gun armor pelican raise";
+var mnemonic = "sleep movie permit vapor chest village exact swim kick grow buyer glory";

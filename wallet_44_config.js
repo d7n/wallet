@@ -1,1 +1,1 @@
-var mnemonic = "scrap sketch coil talk enter rookie garment supply gain jeans setup senior";
+var mnemonic = "syrup attract access nasty mammal shoe web entry spot submit erase submit";

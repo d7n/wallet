@@ -1,1 +1,1 @@
-var mnemonic = "become mad castle behave march design argue suspect hollow volume caught family";
+var mnemonic = "bulb front inmate recycle you leader razor share such proud fruit system";

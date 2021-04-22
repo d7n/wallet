@@ -1,1 +1,1 @@
-var mnemonic = "spoil harvest fresh project merry behind elbow team polar expand soldier young";
+var mnemonic = "twice cabbage resemble domain walk already resource mention miracle bleak output clean";

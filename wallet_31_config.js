@@ -1,1 +1,1 @@
-var mnemonic = "knee exclude air sand rude circle keen violin since measure worth response";
+var mnemonic = "alone exchange wife degree unhappy quick earth frown term palace bench rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "advice merry survey humor have vast relax thumb vessel normal horse lady";
+var mnemonic = "song gym control congress piano betray palace pen lyrics velvet ripple reform";

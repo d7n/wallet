@@ -1,1 +1,1 @@
-var mnemonic = "together oil thrive grant thrive situate embrace ability humor body hole list";
+var mnemonic = "lab tomato increase grit airport expect list danger party element amazing labor";

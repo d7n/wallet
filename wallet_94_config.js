@@ -1,1 +1,1 @@
-var mnemonic = "design planet ensure business dawn vote around lend vessel jar dose planet";
+var mnemonic = "clean radio foster trash glove squirrel raccoon rival zero brass planet limb";

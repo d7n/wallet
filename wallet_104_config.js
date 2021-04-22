@@ -1,1 +1,1 @@
-var mnemonic = "giant special frog attract heavy gossip labor just island six book banner";
+var mnemonic = "bitter focus sugar morning stage clarify pride peanut size arrest random drift";

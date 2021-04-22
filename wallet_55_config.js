@@ -1,1 +1,1 @@
-var mnemonic = "lonely mad romance comfort odor pretty desert tag impose quantum same behave";
+var mnemonic = "put high carry record rude require labor drum boost knee army power";

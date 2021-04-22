@@ -1,1 +1,1 @@
-var mnemonic = "calm tissue version baby burden present scout fashion output three drip aisle";
+var mnemonic = "task wish honey country timber rough race night accident fault upset tooth";

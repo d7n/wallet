@@ -1,1 +1,1 @@
-var mnemonic = "engine pumpkin member animal canvas language mad clap draft glue tumble paddle";
+var mnemonic = "total buffalo spy gold piece couple curve slim syrup minimum there ritual";

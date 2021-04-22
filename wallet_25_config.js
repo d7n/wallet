@@ -1,1 +1,1 @@
-var mnemonic = "kitten orchard fault mean olive body regular panda vacant shoulder unhappy kiss";
+var mnemonic = "thought luggage cross concert settle reward power unusual couch enroll warfare mansion";

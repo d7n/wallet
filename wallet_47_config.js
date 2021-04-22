@@ -1,1 +1,1 @@
-var mnemonic = "ice review flight expire village giant uniform assume supreme hen design wide";
+var mnemonic = "awake fantasy divert knock switch melt walnut bulk better favorite resource sing";

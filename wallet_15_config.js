@@ -1,1 +1,1 @@
-var mnemonic = "consider appear maple crouch among receive clog enlist omit rose benefit bundle";
+var mnemonic = "meat addict loop service special immune hat short thank monkey comic tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "credit cinnamon miracle laugh second fossil evolve solve sphere pole box theme";
+var mnemonic = "script journey reward ranch valley exclude level glimpse sure glove surprise tourist";

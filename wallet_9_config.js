@@ -1,1 +1,1 @@
-var mnemonic = "urge purse alter suffer lemon goose royal emerge ancient token engine obscure";
+var mnemonic = "pioneer element slot teach march casual merit tiger victory flush nuclear raccoon";

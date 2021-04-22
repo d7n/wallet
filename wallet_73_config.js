@@ -1,1 +1,1 @@
-var mnemonic = "happy best lounge breeze gold visual hawk speak volume glare dash crouch";
+var mnemonic = "rough lamp boss blouse enter try album warfare treat slide light enforce";

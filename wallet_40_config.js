@@ -1,1 +1,1 @@
-var mnemonic = "frown else reopen oxygen muscle rack crowd harbor divert milk suffer worry";
+var mnemonic = "elbow transfer pair seat mention mix peace crystal hobby curious index orange";

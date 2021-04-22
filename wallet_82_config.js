@@ -1,1 +1,1 @@
-var mnemonic = "cliff common stomach essence gloom vague question link health police genius shy";
+var mnemonic = "lyrics believe age coin video bubble unfold decide wrist first cigar rate";

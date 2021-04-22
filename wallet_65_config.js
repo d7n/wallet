@@ -1,1 +1,1 @@
-var mnemonic = "salon nice valid equip doll sport stick future mom setup satisfy correct";
+var mnemonic = "mechanic festival real alone core book bid trouble allow earth antique female";

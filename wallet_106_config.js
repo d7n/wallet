@@ -1,1 +1,1 @@
-var mnemonic = "now side pattern swarm false roof garlic surprise home explain twelve october";
+var mnemonic = "clay couple snow oblige beef earn wood help main mandate collect nephew";

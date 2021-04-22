@@ -1,1 +1,1 @@
-var mnemonic = "endorse anxiety fever metal antique please slender mammal motion ball father sister";
+var mnemonic = "primary enough ice disagree logic shield cluster couple nephew wear intact put";

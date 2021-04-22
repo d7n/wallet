@@ -1,1 +1,1 @@
-var mnemonic = "phrase noise often material draw demise entry fashion credit police hero paddle";
+var mnemonic = "together music hood air document goose cool junk glare lobster divide small";

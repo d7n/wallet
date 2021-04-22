@@ -1,1 +1,1 @@
-var mnemonic = "fashion endorse broken spin pepper people steak stove vast adapt segment smile";
+var mnemonic = "elevator arm grocery neutral version garment river attitude smart mind reopen fork";

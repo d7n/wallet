@@ -1,1 +1,1 @@
-var mnemonic = "fit dress odor supply symptom thumb slot dress play aim allow coach";
+var mnemonic = "shiver practice bring shove where lake boring zebra arrange ripple fiber hour";

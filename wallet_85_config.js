@@ -1,1 +1,1 @@
-var mnemonic = "own climb believe bitter brown program doctor clean normal decrease inmate input";
+var mnemonic = "message viable vicious husband regular beauty waste method essay describe edit smart";

@@ -1,1 +1,1 @@
-var mnemonic = "tone normal zoo resource illness embody prize during employ diamond trouble vapor";
+var mnemonic = "magnet daring divert amazing vibrant offer blush great rate layer vendor loud";

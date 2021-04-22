@@ -1,1 +1,1 @@
-var mnemonic = "few sing uphold grant mule educate flash century patient teach usual milk";
+var mnemonic = "organ monkey rate squirrel search shed strong report hen spike situate hurry";

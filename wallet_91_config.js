@@ -1,1 +1,1 @@
-var mnemonic = "betray illness gorilla embrace game honey idle invite solar tobacco kid onion";
+var mnemonic = "diary vessel mistake wrestle sausage state powder train violin business debate real";

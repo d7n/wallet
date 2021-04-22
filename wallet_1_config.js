@@ -1,1 +1,1 @@
-var mnemonic = "equal tank rely sunny grant style reward tobacco spot cause like hundred";
+var mnemonic = "carry breeze grant tackle drink sting mule submit garment eight tattoo mistake";

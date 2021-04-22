@@ -1,1 +1,1 @@
-var mnemonic = "gadget across elbow core police sphere soul drip awful swallow congress turkey";
+var mnemonic = "train knife symbol soap snap armor gallery observe deny piece appear gorilla";

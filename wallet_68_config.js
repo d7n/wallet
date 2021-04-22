@@ -1,1 +1,1 @@
-var mnemonic = "helmet old define tenant enroll dentist rookie neglect actress angle brush text";
+var mnemonic = "test modify human able syrup reform upper code mask poem brush stick";

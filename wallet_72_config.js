@@ -1,1 +1,1 @@
-var mnemonic = "gravity quote diet sport genius tool regret easily short eight unlock erase";
+var mnemonic = "civil alarm equal comfort shop chair novel wood rice action end garage";

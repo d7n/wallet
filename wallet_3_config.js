@@ -1,1 +1,1 @@
-var mnemonic = "now venture pitch scheme blur width autumn elephant peasant grow still heart";
+var mnemonic = "live ethics tube spy lottery mind excite truck rubber acoustic avocado loop";

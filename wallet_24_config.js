@@ -1,1 +1,1 @@
-var mnemonic = "engine camera phone simple harbor sunny elder puppy donate improve slender question";
+var mnemonic = "eagle spirit exhaust nest document alley tank pulp domain dune pact post";

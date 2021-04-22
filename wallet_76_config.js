@@ -1,1 +1,1 @@
-var mnemonic = "simple shove plug main dream cinnamon survey pepper yellow remind cover science";
+var mnemonic = "laundry oven capable flip shoot powder fresh sorry fade argue awkward popular";

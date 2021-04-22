@@ -1,1 +1,1 @@
-var mnemonic = "border return near report door then museum regular wrist attract tide flight";
+var mnemonic = "enable universe depart receive undo ready hungry brush bone wealth damage silver";

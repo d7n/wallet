@@ -1,1 +1,1 @@
-var mnemonic = "thunder near file dawn scorpion love liquid virus toast box round slight";
+var mnemonic = "window tobacco exercise cheap dumb index pink exile reopen stomach engage baby";

@@ -1,1 +1,1 @@
-var mnemonic = "peace spider original mosquito elephant polar topple tribe boy lucky estate sun";
+var mnemonic = "warm burst blush day pottery reduce seek deer grow dirt push kangaroo";

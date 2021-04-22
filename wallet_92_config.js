@@ -1,1 +1,1 @@
-var mnemonic = "spoil guide hood pistol marriage pilot ordinary coral arrange film rule board";
+var mnemonic = "impact expire know letter deposit crystal offer double matter embody rose news";

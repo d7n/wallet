@@ -1,1 +1,1 @@
-var mnemonic = "tuition duty skirt fee flavor able chef setup atom distance candy divide";
+var mnemonic = "amused suggest human express kit bus timber top bridge town unit outside";

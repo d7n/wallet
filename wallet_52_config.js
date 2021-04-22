@@ -1,1 +1,1 @@
-var mnemonic = "three enrich badge jelly travel dilemma coffee clutch amateur hood stove describe";
+var mnemonic = "cover flash grocery style solar engage priority police treat connect remain either";

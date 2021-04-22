@@ -1,1 +1,1 @@
-var mnemonic = "scatter quick tuna always protect refuse cable bless enlist village orbit essay";
+var mnemonic = "sure base twist wrap stamp bracket under deliver prosper stomach remember access";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie poem change leaf cable enforce garlic mutual flush tired lend approve";
+var mnemonic = "anxiety earn object recycle trial public glory protect vehicle kite talent capital";

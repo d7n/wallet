@@ -1,1 +1,1 @@
-var mnemonic = "avocado wide cake exile tennis long hope rebel earth sustain save mandate";
+var mnemonic = "special slender turn private salt force reject chimney exact level assume gossip";

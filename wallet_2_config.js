@@ -1,1 +1,1 @@
-var mnemonic = "security win spend lens nature before odor render gather joke speak another";
+var mnemonic = "relax dad hurdle lobster live saddle clock addict advice agree club arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "animal gas check cabbage tennis key analyst narrow country holiday squirrel rich";
+var mnemonic = "under enter recipe property mystery hamster draw quantum foster economy armed core";

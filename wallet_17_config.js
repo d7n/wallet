@@ -1,1 +1,1 @@
-var mnemonic = "talent local can company there ticket produce major ridge slice old stage";
+var mnemonic = "harvest energy matter absurd sibling name habit obscure neck dutch minute funny";

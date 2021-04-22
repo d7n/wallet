@@ -1,1 +1,1 @@
-var mnemonic = "dynamic document mother island wolf cushion weather almost fish twenty device version";
+var mnemonic = "dynamic balance gesture wide quarter right muffin large marble grow theory push";

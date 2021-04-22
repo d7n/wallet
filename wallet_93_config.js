@@ -1,1 +1,1 @@
-var mnemonic = "market concert office mimic crisp undo quick task jar acid clever scare";
+var mnemonic = "humor cash dinner uniform civil laundry during awkward giraffe rough head smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "can point crazy cargo disease roast excess shoulder fox donkey vanish cactus";
+var mnemonic = "high quit mask flight neck sugar robust evolve summer trap usage disorder";

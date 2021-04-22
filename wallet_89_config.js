@@ -1,1 +1,1 @@
-var mnemonic = "please indicate together orient decorate pulse cake disagree warfare dizzy core leader";
+var mnemonic = "repair bless repeat vast bachelor again blouse coach network collect erupt mother";

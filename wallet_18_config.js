@@ -1,1 +1,1 @@
-var mnemonic = "calm scatter car jewel poet wine stumble engage chest sure glow cargo";
+var mnemonic = "point town month walnut true wisdom rice acquire slush master salon hill";

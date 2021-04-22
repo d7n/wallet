@@ -1,1 +1,1 @@
-var mnemonic = "reunion tunnel fruit prosper cargo shed chronic furnace fantasy category grab admit";
+var mnemonic = "frequent umbrella hawk embrace doll music bunker drip bicycle rotate brand purchase";

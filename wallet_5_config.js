@@ -1,1 +1,1 @@
-var mnemonic = "robust twelve uniform sure clap brave sentence scare enlist butter frost actor";
+var mnemonic = "broom together own knock cabin icon slogan situate voice into fork trim";

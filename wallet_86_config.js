@@ -1,1 +1,1 @@
-var mnemonic = "mass sample rain venue torch success sunny purchase alarm glare price mixed";
+var mnemonic = "knock mistake bless sun fetch modify pudding video anger annual mountain custom";

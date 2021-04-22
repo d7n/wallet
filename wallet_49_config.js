@@ -1,1 +1,1 @@
-var mnemonic = "pause slice radio feed orient argue path clinic often gold borrow again";
+var mnemonic = "legend input never mail inquiry cupboard sad brief toward chase federal rocket";

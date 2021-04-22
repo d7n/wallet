@@ -1,1 +1,1 @@
-var mnemonic = "used recipe hip squeeze bubble whisper minimum top address kidney gauge diary";
+var mnemonic = "hollow prison stereo toast love choice fluid drill junior jealous foster shy";

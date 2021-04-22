@@ -1,1 +1,1 @@
-var mnemonic = "capable cause reform climb nasty unique hazard like forest shaft horn topple";
+var mnemonic = "rate climb captain solution plastic embody estate cancel leopard desert result butter";

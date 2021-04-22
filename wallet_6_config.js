@@ -1,1 +1,1 @@
-var mnemonic = "hour bronze mask discover window shiver film frame piece tonight return twice";
+var mnemonic = "wash jelly require oppose arm price wine wrestle utility coast bullet spend";

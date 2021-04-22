@@ -1,1 +1,1 @@
-var mnemonic = "narrow custom tent remind force picnic speed trouble cool silver decorate glance";
+var mnemonic = "win ready hospital wagon mother tray provide family spoon inject tell call";

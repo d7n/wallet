@@ -1,1 +1,1 @@
-var mnemonic = "shed naive govern sick manual fragile rifle credit parade assume uncover artefact";
+var mnemonic = "abstract hope seed canal divert omit vibrant swarm used basic organ pull";

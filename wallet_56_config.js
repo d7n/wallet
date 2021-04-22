@@ -1,1 +1,1 @@
-var mnemonic = "call hazard lunch seven lunch vicious faculty dignity source burger pact toe";
+var mnemonic = "tank broccoli ostrich kidney section toast lion click inside shop cupboard other";

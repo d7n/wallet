@@ -1,1 +1,1 @@
-var mnemonic = "occur raise cushion begin long raccoon cricket left vacant observe expect fitness";
+var mnemonic = "object brain tilt team trim network wool sail human rose adapt blame";

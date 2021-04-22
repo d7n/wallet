@@ -1,1 +1,1 @@
-var mnemonic = "acid interest glimpse claw grief dignity woman typical drive govern call area";
+var mnemonic = "mansion uphold service slogan record matrix fat voice success hen sleep rather";

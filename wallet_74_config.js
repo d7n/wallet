@@ -1,1 +1,1 @@
-var mnemonic = "defense scare birth baby spot intact pulp limit upon dad lyrics focus";
+var mnemonic = "security earn grab boil copy twist exotic tumble pluck tenant prevent mixture";

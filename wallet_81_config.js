@@ -1,1 +1,1 @@
-var mnemonic = "card cradle detail whip panel artefact gossip cactus slight else frog issue";
+var mnemonic = "typical bag original energy south cram attack hip tiger street total model";

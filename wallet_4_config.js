@@ -1,1 +1,1 @@
-var mnemonic = "adjust easily trial immune replace ask there false horror drive rule shuffle";
+var mnemonic = "boring give cotton social learn velvet artwork culture sting cabbage disease ribbon";

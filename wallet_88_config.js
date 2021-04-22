@@ -1,1 +1,1 @@
-var mnemonic = "climb sick night wash lecture crumble neck hundred actress faint bread swing";
+var mnemonic = "jelly double estate horror appear injury claim strategy school mimic clean antique";

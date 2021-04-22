@@ -1,1 +1,1 @@
-var mnemonic = "pyramid scrub funny bachelor dinosaur pink north swear upset about dash name";
+var mnemonic = "frozen eternal detail already tennis imitate frozen cruise puppy finger utility tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "method wing execute title trial project mad alley round tide toe laugh";
+var mnemonic = "buffalo adjust what frog whip fringe scrub curious frequent boy trade police";

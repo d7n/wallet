@@ -1,1 +1,1 @@
-var mnemonic = "enemy wisdom east winner novel smart genius scissors say honey october kingdom";
+var mnemonic = "unaware table arctic maze torch climb noble sting diet dash wash chalk";

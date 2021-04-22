@@ -1,1 +1,1 @@
-var mnemonic = "enter swear ski author walk rubber extra cotton pulp idle birth athlete";
+var mnemonic = "aspect pumpkin play other fiber pyramid action scheme donkey love sight hip";

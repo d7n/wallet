@@ -1,1 +1,1 @@
-var mnemonic = "tobacco venue journey mad suffer online seat hen nuclear scorpion title skate";
+var mnemonic = "alpha author utility bring daughter long young quantum fantasy maple warm mystery";

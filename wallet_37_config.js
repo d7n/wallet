@@ -1,1 +1,1 @@
-var mnemonic = "expect energy light penalty buzz wear panda wrist crunch ship misery pelican";
+var mnemonic = "announce saddle better praise caught sleep suffer duty limit slam approve hello";

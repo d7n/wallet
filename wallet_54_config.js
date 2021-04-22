@@ -1,1 +1,1 @@
-var mnemonic = "field wreck table busy crazy flash issue naive leopard cycle salute jump";
+var mnemonic = "any approve method cream glimpse invite edge camp enforce surround clog parade";

@@ -1,1 +1,1 @@
-var mnemonic = "clog control insect help rabbit meadow never little traffic pudding rack because";
+var mnemonic = "ahead salt genre loop joke own baby note sleep giggle crane marine";

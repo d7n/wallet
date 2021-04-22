@@ -1,1 +1,1 @@
-var mnemonic = "special path sea security cover desk process hub entire language anxiety plate";
+var mnemonic = "actress dry error glue destroy climb various ramp shop unable tip inside";

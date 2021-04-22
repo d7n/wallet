@@ -1,1 +1,1 @@
-var mnemonic = "enjoy pride dynamic finish stage damage together color mosquito useful suspect ring";
+var mnemonic = "dirt tide tornado summer raccoon imitate slice actual globe nurse because success";

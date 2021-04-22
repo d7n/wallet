@@ -1,1 +1,1 @@
-var mnemonic = "cheap shiver erode elbow coffee token empower pulp slight blossom cute meadow";
+var mnemonic = "creek pledge life recall follow brick neck charge item swift doll sniff";

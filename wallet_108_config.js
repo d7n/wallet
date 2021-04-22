@@ -1,1 +1,1 @@
-var mnemonic = "cup degree nothing pitch behave panther talent math lawn merry wise elbow";
+var mnemonic = "often cliff bike festival cargo pig paddle script biology tag doll guard";

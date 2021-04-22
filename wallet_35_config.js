@@ -1,1 +1,1 @@
-var mnemonic = "piano direct change fiscal person hint connect abstract clean correct someone hospital";
+var mnemonic = "bottom oppose hybrid primary memory west budget turn purchase burden post found";

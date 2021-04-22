@@ -1,1 +1,1 @@
-var mnemonic = "brief stuff kiss route obey pony steel wild enforce radar satoshi final";
+var mnemonic = "relax found camp wage liar few absorb clerk that wild aunt month";

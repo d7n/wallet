@@ -1,1 +1,1 @@
-var mnemonic = "ripple report enforce sport axis tip work raise return now gloom grass";
+var mnemonic = "spread eight trumpet below copy smooth traffic year palm question total swear";

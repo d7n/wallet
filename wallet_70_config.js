@@ -1,1 +1,1 @@
-var mnemonic = "hello flight perfect version asthma early large worry theory throw cliff cover";
+var mnemonic = "earth rare autumn remind frost proud spray gloom left bounce vocal above";

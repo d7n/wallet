@@ -1,1 +1,1 @@
-var mnemonic = "strong scatter borrow begin output east jazz used design copper guess hat";
+var mnemonic = "lion treat fragile enable talent typical crop cook attract salmon cargo alien";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit draw until athlete easily minute mechanic debris record fantasy crash hollow";
+var mnemonic = "achieve odor slam rice erode omit blanket buddy such own merit actor";

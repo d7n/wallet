@@ -1,1 +1,1 @@
-var mnemonic = "snow deal engage session tennis inject during goat tortoise cart world defense";
+var mnemonic = "spoon thing gift mad trigger spend mansion can casual citizen input ankle";
