@@ -1,1 +1,1 @@
-var mnemonic = "soul sun opinion maple bind drift fog poet peace gorilla eternal shiver";
+var mnemonic = "salt idea spice manual scene recipe protect outer truly scorpion attend fan";

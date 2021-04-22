@@ -1,1 +1,1 @@
-var mnemonic = "fame convince cricket glare moral unveil little chest powder slender weapon monitor";
+var mnemonic = "rubber round thing brave laptop ranch later congress tumble palm venture master";

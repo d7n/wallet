@@ -1,1 +1,1 @@
-var mnemonic = "tent harbor tunnel breeze bulb jeans weather lonely grain place liberty armor";
+var mnemonic = "pipe chase organ slogan bar relief street humor myself peanut you wide";

@@ -1,1 +1,1 @@
-var mnemonic = "teach oil credit lonely palm trash leaf such congress arm online act";
+var mnemonic = "despair image warrior donkey organ eye panther idle language number scissors unusual";

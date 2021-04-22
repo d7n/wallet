@@ -1,1 +1,1 @@
-var mnemonic = "rocket mango lottery decide meat laundry pumpkin noise talent shine visual owner";
+var mnemonic = "bridge salad prevent spare garlic toddler solid pony roast fit crime alter";

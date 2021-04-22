@@ -1,1 +1,1 @@
-var mnemonic = "egg solve notable annual issue dose anxiety insect keep shove kiwi scatter";
+var mnemonic = "unveil join domain beyond canal supply bar shaft enlist mix toddler gloom";

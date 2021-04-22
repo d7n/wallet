@@ -1,1 +1,1 @@
-var mnemonic = "harvest aim admit horror lift nature slice shy relax canal hammer canal";
+var mnemonic = "sauce fame parade excess resource call visa fury festival library blossom spray";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic town card post solution sting supreme vintage connect merry liar gasp";
+var mnemonic = "awesome mass catch burden mushroom tag melody dove moral remain frequent under";

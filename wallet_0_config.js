@@ -1,1 +1,1 @@
-var mnemonic = "second fly caution gap thank father erode parent divorce orphan science carpet";
+var mnemonic = "then rebuild develop dragon party destroy bench annual broom lizard city cry";

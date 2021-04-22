@@ -1,1 +1,1 @@
-var mnemonic = "member note buffalo lawsuit rain miracle stay bonus sword together liquid lady";
+var mnemonic = "crack agree van melody husband work bike giraffe decade shoot short penalty";

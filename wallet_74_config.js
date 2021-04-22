@@ -1,1 +1,1 @@
-var mnemonic = "rookie legal spoon tomato diet print maze wire roof palm base change";
+var mnemonic = "next bleak expand example ridge rice inspire pride flower trumpet depth vapor";

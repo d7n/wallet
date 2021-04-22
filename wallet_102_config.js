@@ -1,1 +1,1 @@
-var mnemonic = "pottery client warfare bag toe result become flash industry cross amateur hunt";
+var mnemonic = "spy boil empty group champion lonely fury reason loop chaos elephant cousin";

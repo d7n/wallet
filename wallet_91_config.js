@@ -1,1 +1,1 @@
-var mnemonic = "hobby property ramp hard essence more salute spell ball abuse famous test";
+var mnemonic = "finish abstract cradle neck donkey turtle spring news weather crash visual bomb";

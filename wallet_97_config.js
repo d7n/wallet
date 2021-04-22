@@ -1,1 +1,1 @@
-var mnemonic = "dirt insane venue annual sea admit asset champion wait transfer neglect midnight";
+var mnemonic = "also climb inmate expire rate worry elephant cute beauty decorate project steak";

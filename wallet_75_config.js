@@ -1,1 +1,1 @@
-var mnemonic = "chalk elbow carpet bright credit acoustic axis mesh extra nerve void endless";
+var mnemonic = "crowd olive juice bar scare grocery glad oyster saddle pudding online keep";

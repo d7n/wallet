@@ -1,1 +1,1 @@
-var mnemonic = "avoid between bullet slight crucial alert battle conduct pepper same angle badge";
+var mnemonic = "champion journey utility taxi traffic volcano pencil road smooth submit can gadget";

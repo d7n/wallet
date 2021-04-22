@@ -1,1 +1,1 @@
-var mnemonic = "way black deal fantasy such demand evidence shallow crop make library bargain";
+var mnemonic = "cook sign rate ritual control quantum pole sunny soon voice sentence cricket";

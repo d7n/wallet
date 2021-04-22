@@ -1,1 +1,1 @@
-var mnemonic = "nothing wool grunt kick toddler distance execute harvest drill easy first rug";
+var mnemonic = "never floor type shy version buyer faint about erase rebel mom outside";

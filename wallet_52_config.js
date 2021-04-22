@@ -1,1 +1,1 @@
-var mnemonic = "witness corn slogan pioneer adult pause transfer refuse genuine sister repair help";
+var mnemonic = "ticket intact mercy walnut dance lab destroy grocery lucky adapt wish alien";

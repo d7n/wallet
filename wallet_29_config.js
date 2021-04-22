@@ -1,1 +1,1 @@
-var mnemonic = "suffer paddle anxiety vivid attitude urban unusual special hope find wife bonus";
+var mnemonic = "party stool finish decorate group almost lobster casino heavy pear nothing amazing";

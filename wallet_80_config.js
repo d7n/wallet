@@ -1,1 +1,1 @@
-var mnemonic = "actor wide zero fall chuckle cargo seminar soccer fashion fall glance click";
+var mnemonic = "diary panel pluck benefit stereo awful win find shoulder beyond inherit property";

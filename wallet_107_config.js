@@ -1,1 +1,1 @@
-var mnemonic = "liar glad trim fitness nephew eight cruise embark cook invite spice verify";
+var mnemonic = "swim demand morning neither accuse witness clip notice clock valley talk purchase";

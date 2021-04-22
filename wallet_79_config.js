@@ -1,1 +1,1 @@
-var mnemonic = "urban lesson neglect hero match delay silk title style tower gold draw";
+var mnemonic = "can cattle increase joy inside episode diesel domain lottery box swamp unique";

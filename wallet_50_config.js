@@ -1,1 +1,1 @@
-var mnemonic = "hockey child tribe capable rapid issue illness vocal language sense circle town";
+var mnemonic = "come census length ketchup nose stamp owner save alarm what hybrid dance";

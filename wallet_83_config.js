@@ -1,1 +1,1 @@
-var mnemonic = "review connect network fashion census cliff embody click common lobster autumn bean";
+var mnemonic = "fringe immense wage gesture kit repair put swarm catalog stairs reopen arrow";

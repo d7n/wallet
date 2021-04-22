@@ -1,1 +1,1 @@
-var mnemonic = "pattern tone path segment leaf often license layer that exotic spend potato";
+var mnemonic = "pride absurd early dirt obey nerve correct flip steel kangaroo amateur decline";

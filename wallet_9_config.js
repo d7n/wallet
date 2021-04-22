@@ -1,1 +1,1 @@
-var mnemonic = "source ramp ignore quick iron sell juice brown tongue present side panda";
+var mnemonic = "oppose ridge very inside kiwi spike wear obscure figure mix tourist fiber";

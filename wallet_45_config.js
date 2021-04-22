@@ -1,1 +1,1 @@
-var mnemonic = "option grow pelican easy solid hospital deny cabin poet abstract imitate kitten";
+var mnemonic = "brass divorce flee deliver finish suggest bread situate cruise predict stadium arrive";

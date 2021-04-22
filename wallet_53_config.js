@@ -1,1 +1,1 @@
-var mnemonic = "diesel relief soccer battle waste frog gallery glow become small high blue";
+var mnemonic = "rural way daring case language cousin size hair fly expand silver company";

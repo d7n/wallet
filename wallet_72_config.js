@@ -1,1 +1,1 @@
-var mnemonic = "slice manage sound mirror spawn possible post horror example hope much cloth";
+var mnemonic = "clump renew play minute approve tenant coach corn can crash pill icon";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon nominee assault repair erosion medal hazard sphere ripple human gorilla glove";
+var mnemonic = "thank gold village expire analyst subway alcohol forward vintage job pulp naive";

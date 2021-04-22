@@ -1,1 +1,1 @@
-var mnemonic = "find image medal also add poverty suffer original dinner siege bread chalk";
+var mnemonic = "phrase action other chalk cube retire camera hockey easily spike hospital tobacco";

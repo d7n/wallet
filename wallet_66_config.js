@@ -1,1 +1,1 @@
-var mnemonic = "slight disagree enroll spider alcohol cloud vehicle cloth beach extra ecology detail";
+var mnemonic = "gossip next basic private trophy oyster pipe number device arena fee celery";

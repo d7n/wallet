@@ -1,1 +1,1 @@
-var mnemonic = "play disorder spatial skull claim odor primary ketchup slogan slam food amount";
+var mnemonic = "aim culture romance large begin into carbon grain sphere auto oyster agent";

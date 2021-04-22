@@ -1,1 +1,1 @@
-var mnemonic = "hen above property unlock erupt divert dinosaur employ beyond cram female still";
+var mnemonic = "ladder step east army breeze snake dilemma noble tuna essence hero boss";

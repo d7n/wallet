@@ -1,1 +1,1 @@
-var mnemonic = "scene grab obtain agent they dentist drink obtain amazing mesh shop service";
+var mnemonic = "bench spike card bicycle tiny bid fuel onion fat practice force cable";

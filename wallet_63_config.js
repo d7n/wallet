@@ -1,1 +1,1 @@
-var mnemonic = "federal ride earn pen asthma comic resist then moral walnut abuse require";
+var mnemonic = "such quit cactus reform march path dumb twin salute man sentence purse";

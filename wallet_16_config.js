@@ -1,1 +1,1 @@
-var mnemonic = "fever stuff day barrel margin this acoustic put beyond trash mad surprise";
+var mnemonic = "coin sweet extra ancient swear car else party number despair pave never";

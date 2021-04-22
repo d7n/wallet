@@ -1,1 +1,1 @@
-var mnemonic = "gadget solid base oblige soft gauge pencil river obey wear hospital lunch";
+var mnemonic = "supply globe copy shoulder october alcohol aunt news artist then immune face";

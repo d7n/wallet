@@ -1,1 +1,1 @@
-var mnemonic = "spray chunk barrel among view bird canoe brother blind victory treat quick";
+var mnemonic = "chicken gallery black outside senior reopen between usage climb number jeans wealth";

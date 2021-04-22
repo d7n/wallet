@@ -1,1 +1,1 @@
-var mnemonic = "ramp local task two couple dog write crucial immune child ribbon merge";
+var mnemonic = "ranch unfold motor divorce traffic universe power soul mother comfort web early";

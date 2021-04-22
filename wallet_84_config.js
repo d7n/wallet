@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dust zone vivid version range angle boy deal inform canoe garage";
+var mnemonic = "squirrel trigger mesh april index enforce orphan wear analyst magnet corn drip";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist loud viable indicate crawl diamond expire inspire crucial payment notable parade";
+var mnemonic = "recall orbit eye immune seek expand rib hill enable usage evil obvious";

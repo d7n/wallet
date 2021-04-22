@@ -1,1 +1,1 @@
-var mnemonic = "behind poet sniff hero attract fringe forum play salon spoil stay toward";
+var mnemonic = "basket avocado glimpse garment awesome picture climb step drift badge zone nasty";

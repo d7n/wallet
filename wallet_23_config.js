@@ -1,1 +1,1 @@
-var mnemonic = "chest around lesson alarm farm message tape knife horse parent tunnel boost";
+var mnemonic = "body resist outer major entire ramp avocado rail able reunion define marriage";

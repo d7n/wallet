@@ -1,1 +1,1 @@
-var mnemonic = "hello profit rude equip talent flash shrimp balcony rude toy ginger delay";
+var mnemonic = "student return cost shiver camp observe flag spoon ethics index energy fold";

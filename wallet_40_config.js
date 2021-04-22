@@ -1,1 +1,1 @@
-var mnemonic = "squeeze antique kitchen stadium marriage first negative nation drift address planet coffee";
+var mnemonic = "powder park attend fancy snap thrive loud float require combine level season";

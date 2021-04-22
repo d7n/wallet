@@ -1,1 +1,1 @@
-var mnemonic = "surprise naive little obvious curve puzzle fat kitchen spread caution insect grape";
+var mnemonic = "sand better canyon debate guitar champion affair veteran blame ready spider buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "auto often artist page rapid awkward scale cover shy bind actual bring";
+var mnemonic = "evil bulk suffer labor purpose bronze stamp rate situate cross pull void";

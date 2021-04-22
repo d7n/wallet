@@ -1,1 +1,1 @@
-var mnemonic = "solar space lonely reflect abuse special awkward leg setup leg glad leave";
+var mnemonic = "trap dance interest parrot advance trust orphan struggle castle expose melt credit";

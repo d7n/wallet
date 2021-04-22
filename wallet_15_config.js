@@ -1,1 +1,1 @@
-var mnemonic = "fee critic eagle juice ship lava execute minimum snack vicious method cabbage";
+var mnemonic = "plunge galaxy pelican damage project cycle govern mom reward that festival never";

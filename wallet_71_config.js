@@ -1,1 +1,1 @@
-var mnemonic = "soul swim cluster rhythm appear punch feed rack cost frown strategy action";
+var mnemonic = "loud habit any inner radio stand catalog knife brief recipe lake scene";

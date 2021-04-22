@@ -1,1 +1,1 @@
-var mnemonic = "dish flight heavy scout quit old verb gain viable snow much town";
+var mnemonic = "upper picnic green husband circle exit chuckle junior interest measure sponsor shine";

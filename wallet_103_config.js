@@ -1,1 +1,1 @@
-var mnemonic = "sphere filter window around gravity stable love clump dwarf climb mention asthma";
+var mnemonic = "nut casual key unit photo panther tragic focus orange range common satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket embark fitness hero old cable budget near shy island electric cave";
+var mnemonic = "adapt desert exchange sponsor glad kite october all practice depart priority subway";

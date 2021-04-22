@@ -1,1 +1,1 @@
-var mnemonic = "result inform swallow apart extra mandate drill belt scout topic airport fever";
+var mnemonic = "undo zero prefer funny rely exact they squeeze run thank aunt grocery";

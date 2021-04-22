@@ -1,1 +1,1 @@
-var mnemonic = "retreat fabric risk portion kingdom reform birth pear royal seek brain candy";
+var mnemonic = "dawn cargo couple finger kind trade venue nice consider rare push useless";

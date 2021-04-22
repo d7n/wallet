@@ -1,1 +1,1 @@
-var mnemonic = "toe august radar digital cart rally symptom latin knock salad friend indicate";
+var mnemonic = "sock tilt text matter pipe tilt limb abuse topple donor believe post";

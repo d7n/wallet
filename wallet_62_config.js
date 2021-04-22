@@ -1,1 +1,1 @@
-var mnemonic = "shove ocean chaos copy initial snack chair ensure thought gun picture coyote";
+var mnemonic = "winter victory tongue silent hub half denial fiscal brain effort earn acquire";

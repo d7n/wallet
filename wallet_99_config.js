@@ -1,1 +1,1 @@
-var mnemonic = "transfer fever popular express rubber rose nurse divide swallow weekend sibling glance";
+var mnemonic = "powder know caught dwarf tent kite urban egg park arena stay clean";

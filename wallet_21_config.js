@@ -1,1 +1,1 @@
-var mnemonic = "win nature weasel know relax dismiss short wrist chapter nominee segment carry";
+var mnemonic = "language version youth nest wire snake venue issue quantum split only fun";

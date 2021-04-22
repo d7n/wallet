@@ -1,1 +1,1 @@
-var mnemonic = "typical scare cheese dream dumb accuse track unaware plastic duck bachelor recall";
+var mnemonic = "dismiss deliver best auto divorce slim eternal addict slot record exercise hawk";

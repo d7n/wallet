@@ -1,1 +1,1 @@
-var mnemonic = "rude essay usage trash either thumb yard boy announce cup task acquire";
+var mnemonic = "rent margin excuse chronic embrace daring screen nut bid exhibit lizard gain";

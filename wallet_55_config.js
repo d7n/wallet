@@ -1,1 +1,1 @@
-var mnemonic = "boss club economy afraid cable into thank caution slush meat any tower";
+var mnemonic = "educate zebra property attract vacant romance series move combine cluster twin dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "loop clump provide grid busy miss fever patch gloom apart grant balance";
+var mnemonic = "undo hip treat prevent rain unfair panda certain calm scissors gravity hazard";

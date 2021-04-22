@@ -1,1 +1,1 @@
-var mnemonic = "garden member vapor warm coil enjoy stove half mutual color measure cost";
+var mnemonic = "mixture robot giggle print muffin exercise enforce number property jar wrist winter";

@@ -1,1 +1,1 @@
-var mnemonic = "special muscle essay thrive broccoli spot ugly bronze label style behind minute";
+var mnemonic = "knee where initial thank scheme awake soft dizzy melody moment deer topple";

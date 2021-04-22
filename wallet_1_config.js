@@ -1,1 +1,1 @@
-var mnemonic = "own practice task recycle under rule endless current ordinary oak ritual huge";
+var mnemonic = "term distance filter candy net decorate shoot finish bike ignore enemy knock";

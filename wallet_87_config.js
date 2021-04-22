@@ -1,1 +1,1 @@
-var mnemonic = "fringe ensure girl theme flag clock blame physical able spare tissue horror";
+var mnemonic = "creek relax whisper become clean volume image transfer zero make enrich crack";

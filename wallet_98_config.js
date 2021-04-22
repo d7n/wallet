@@ -1,1 +1,1 @@
-var mnemonic = "skill acid health portion inspire loud squirrel cloud tray direct above mouse";
+var mnemonic = "oil sun oblige voyage escape sentence pave large idea soul bird invest";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare strong exile fix chuckle lamp solid coach easy amount nasty labor";
+var mnemonic = "crucial book valve offer woman design fiber minute science cousin near final";

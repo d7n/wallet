@@ -1,1 +1,1 @@
-var mnemonic = "change puzzle hen assault sound define undo output flee veteran flock vapor";
+var mnemonic = "leopard laptop child giraffe plunge edit please situate rural people law eagle";

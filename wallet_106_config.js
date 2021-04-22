@@ -1,1 +1,1 @@
-var mnemonic = "hood industry dirt wise garden old equal cradle install bounce entry latin";
+var mnemonic = "inmate educate desk essay august prepare conduct stumble sponsor tail shrimp breeze";

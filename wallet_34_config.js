@@ -1,1 +1,1 @@
-var mnemonic = "neck supreme hammer tackle output argue identify erupt square tissue indicate shuffle";
+var mnemonic = "marble pet supreme eight nothing margin misery start reject refuse typical fringe";

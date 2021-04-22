@@ -1,1 +1,1 @@
-var mnemonic = "area calm aim inmate acid toward mouse enhance glass fame chair gauge";
+var mnemonic = "goddess crunch device gift chapter toast other onion imitate ignore manage north";

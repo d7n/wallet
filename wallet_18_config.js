@@ -1,1 +1,1 @@
-var mnemonic = "program toilet render arch drip great castle message soccer utility security vault";
+var mnemonic = "shine pudding nurse motor acquire real theme artwork tired squeeze beauty between";

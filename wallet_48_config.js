@@ -1,1 +1,1 @@
-var mnemonic = "liquid exhibit zebra author mother mask drill impulse ramp guess best blush";
+var mnemonic = "spring focus name bird crime hour rigid blood exhaust sadness until math";

@@ -1,1 +1,1 @@
-var mnemonic = "razor dash toe educate pitch knee idle plug armed creek fat rose";
+var mnemonic = "practice hundred harvest labor trigger client eye truly novel work humble hold";

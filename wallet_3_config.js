@@ -1,1 +1,1 @@
-var mnemonic = "pair remain wasp unable fiction practice sand divide feature wreck crane wheel";
+var mnemonic = "okay gadget edge yellow butter sock fresh online kid door midnight abuse";

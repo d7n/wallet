@@ -1,1 +1,1 @@
-var mnemonic = "miss dignity price muffin where wealth once miss learn frozen relax collect";
+var mnemonic = "special age chronic warm praise kid divide candy job napkin neck capable";

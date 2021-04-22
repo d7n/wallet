@@ -1,1 +1,1 @@
-var mnemonic = "rent gasp illness silent glimpse lazy title risk action salmon silly empty";
+var mnemonic = "comfort come faint plastic code movie welcome forward ostrich access pond release";

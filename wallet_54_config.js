@@ -1,1 +1,1 @@
-var mnemonic = "legal they fall wagon garage toward outside relief reason craft leg slot";
+var mnemonic = "input erupt march holiday use blush private swarm trophy faint excite table";

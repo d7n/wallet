@@ -1,1 +1,1 @@
-var mnemonic = "brown travel security jewel uncle wall day breeze boost imitate manual please";
+var mnemonic = "report thunder when first ginger moon panel fiber deliver power february deny";

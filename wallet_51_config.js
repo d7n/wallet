@@ -1,1 +1,1 @@
-var mnemonic = "dolphin icon prosper sock reunion canoe cliff virtual first diary reunion fetch";
+var mnemonic = "artwork magic oblige vivid job rapid robot lawn fire hotel include love";

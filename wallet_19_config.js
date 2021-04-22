@@ -1,1 +1,1 @@
-var mnemonic = "remind work crowd mimic giggle spatial identify will clever feel tunnel expect";
+var mnemonic = "net shadow raccoon portion clap opera rich item nominee magic oppose anxiety";

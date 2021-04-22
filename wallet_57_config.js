@@ -1,1 +1,1 @@
-var mnemonic = "arctic gauge exchange prefer deposit cement snake silent chapter awkward tired order";
+var mnemonic = "record filter boss magic between lizard peanut require adapt extra arch avoid";

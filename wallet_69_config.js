@@ -1,1 +1,1 @@
-var mnemonic = "argue disease economy fine rebel flash arctic primary quit frost traffic robot";
+var mnemonic = "audit sniff token risk anger soon coil faith wear edge hybrid flock";

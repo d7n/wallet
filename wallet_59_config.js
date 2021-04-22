@@ -1,1 +1,1 @@
-var mnemonic = "vapor deny envelope genius draft photo emotion jaguar sad vital occur alarm";
+var mnemonic = "donor captain ordinary win act tell leave race remove sketch shuffle tree";

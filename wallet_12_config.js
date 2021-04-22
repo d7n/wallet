@@ -1,1 +1,1 @@
-var mnemonic = "town joy swear unique scatter engage ritual axis labor frown vanish range";
+var mnemonic = "economy minute quote cattle jealous neglect trumpet enter flush science honey zebra";

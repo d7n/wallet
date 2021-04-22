@@ -1,1 +1,1 @@
-var mnemonic = "cart kind snow notice crawl basket learn profit symptom shadow stone state";
+var mnemonic = "misery add promote bleak roast coconut song island ride cancel bless control";

@@ -1,1 +1,1 @@
-var mnemonic = "later disagree parent patient someone window recycle goat lecture elegant maze valid";
+var mnemonic = "spawn raise siege cushion drum tower estate lock trick dish equal combine";

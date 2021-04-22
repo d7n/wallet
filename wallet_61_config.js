@@ -1,1 +1,1 @@
-var mnemonic = "limb fancy power clinic tuna execute scorpion clap broom grant slam knife";
+var mnemonic = "confirm gas cliff trust gloom honey risk deal hover leg agree cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "spread sort husband anchor danger lunch example mass science sea glove team";
+var mnemonic = "lounge gym venture autumn praise pave essay twice bulb claim match shove";
