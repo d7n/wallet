@@ -1,1 +1,1 @@
-var mnemonic = "symptom mouse chef tragic fury penalty live dawn sweet humor govern grass";
+var mnemonic = "grape thank dad marriage common zone portion apart horror melt rate oxygen";

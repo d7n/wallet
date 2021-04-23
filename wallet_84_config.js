@@ -1,1 +1,1 @@
-var mnemonic = "plastic display tiny stove hotel insect penalty execute axis bench make cash";
+var mnemonic = "daughter soap table short shine inner matter crawl path cheese chaos sting";

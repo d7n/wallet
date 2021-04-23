@@ -1,1 +1,1 @@
-var mnemonic = "lyrics danger silly attend moral edit pottery blast announce ecology month manual";
+var mnemonic = "decade village crowd lamp enable depend salt rain inspire grocery inner gate";

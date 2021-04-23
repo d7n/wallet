@@ -1,1 +1,1 @@
-var mnemonic = "phone ginger jungle reason solve please display clerk convince session maximum brush";
+var mnemonic = "harsh clown skill metal cycle gym element snap dose ramp force field";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter clutch toward gadget work limit size proof duck document transfer because";
+var mnemonic = "aunt friend mad orphan topic catch drop arctic chimney grunt snack card";

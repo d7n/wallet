@@ -1,1 +1,1 @@
-var mnemonic = "crash balance output direct palace solid bird arena great bitter rookie echo";
+var mnemonic = "reopen width tone world slush caution music rug useful know dinner pencil";

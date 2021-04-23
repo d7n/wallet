@@ -1,1 +1,1 @@
-var mnemonic = "frozen gun client satoshi desert visa damage movie unit unfold keep thrive";
+var mnemonic = "track proof endorse metal earth wash trouble enroll release rent fancy brisk";

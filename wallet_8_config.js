@@ -1,1 +1,1 @@
-var mnemonic = "town odor clarify embody nothing dance hunt icon swamp term moon critic";
+var mnemonic = "cupboard ice normal wage cover lake output high limb demand inherit earth";

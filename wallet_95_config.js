@@ -1,1 +1,1 @@
-var mnemonic = "kiwi kidney dentist phone rib father grain scene sphere grab merry universe";
+var mnemonic = "leader shed slam scout recycle vital leader rent noise keen same soda";

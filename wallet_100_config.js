@@ -1,1 +1,1 @@
-var mnemonic = "pupil ignore language cry loyal ordinary dial range shaft sure filter access";
+var mnemonic = "project digital shrug check basket fiction answer income gadget pride level divide";

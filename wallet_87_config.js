@@ -1,1 +1,1 @@
-var mnemonic = "enemy visa elbow merit drive dentist pool receive drink van hard bunker";
+var mnemonic = "business venue donor love process reveal paddle device vicious baby imitate trend";

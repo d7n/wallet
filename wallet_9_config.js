@@ -1,1 +1,1 @@
-var mnemonic = "rely cereal problem glare life original myself kind profit process code orchard";
+var mnemonic = "absent flavor amazing oil arena average middle obtain cry poverty gospel toast";

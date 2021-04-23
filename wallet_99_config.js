@@ -1,1 +1,1 @@
-var mnemonic = "step eye clock twist swing canvas summer settle engage true fresh best";
+var mnemonic = "pool normal resist eyebrow liquid arena omit weasel disorder soul horse vintage";

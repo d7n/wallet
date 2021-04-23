@@ -1,1 +1,1 @@
-var mnemonic = "strong float floor avocado broccoli twelve actress eagle effort system panther session";
+var mnemonic = "actual zone able merry mother now garage tower rocket drip borrow ladder";

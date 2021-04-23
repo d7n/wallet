@@ -1,1 +1,1 @@
-var mnemonic = "bacon accident stool shrug vital trend special brush chimney shine obey pulp";
+var mnemonic = "sudden beauty wheat inside park know wide cereal fall ranch tape flame";

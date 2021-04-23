@@ -1,1 +1,1 @@
-var mnemonic = "hurry buddy donkey sad spoon merit season easy humor seat ticket ethics";
+var mnemonic = "foot clarify robot salt below better middle artwork february task actor control";

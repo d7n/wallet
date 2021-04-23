@@ -1,1 +1,1 @@
-var mnemonic = "orbit market evidence loyal village verify soldier winter ivory crunch rough suggest";
+var mnemonic = "orient brother emerge cart huge raccoon between future unknown right scrap crystal";

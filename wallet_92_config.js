@@ -1,1 +1,1 @@
-var mnemonic = "gorilla steak field term clock segment ribbon olympic access autumn clean liberty";
+var mnemonic = "direct salad safe boost swear urban jump increase silly egg animal tiger";

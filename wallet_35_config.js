@@ -1,1 +1,1 @@
-var mnemonic = "naive cheese endless finger tobacco fiber scissors february practice man summer bachelor";
+var mnemonic = "novel auto open gym mercy depend shaft guard simple giraffe industry coyote";

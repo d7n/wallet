@@ -1,1 +1,1 @@
-var mnemonic = "control slide medal dynamic tragic kangaroo poem high agree leg business already";
+var mnemonic = "engine hat mass agree cricket essay area photo today essence system carpet";

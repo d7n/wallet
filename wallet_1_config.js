@@ -1,1 +1,1 @@
-var mnemonic = "rebuild tone travel style huge venue pizza inspire mushroom slab engine evolve";
+var mnemonic = "usage already choice fame clay pilot puppy deal tape theme scorpion update";

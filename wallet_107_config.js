@@ -1,1 +1,1 @@
-var mnemonic = "brave say wealth base peasant pony scene green margin avocado woman dune";
+var mnemonic = "biology slab post parade actor lounge minute motion scrub dentist deputy unlock";

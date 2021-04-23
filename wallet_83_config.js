@@ -1,1 +1,1 @@
-var mnemonic = "mammal prison boat cloth noise legal furnace coast student salad swear divide";
+var mnemonic = "bubble super urge shop sand message basic shock hunt giggle salute suit";

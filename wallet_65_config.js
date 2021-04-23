@@ -1,1 +1,1 @@
-var mnemonic = "crouch lens churn soft slow team festival nation analyst helmet vault home";
+var mnemonic = "fly pass soldier swarm egg random write music parrot electric speed become";

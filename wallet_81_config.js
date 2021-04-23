@@ -1,1 +1,1 @@
-var mnemonic = "humor scatter cream can trouble hurry lumber square glare maximum miracle noise";
+var mnemonic = "young grant coach smooth stadium wrap guitar hunt correct boil display jump";

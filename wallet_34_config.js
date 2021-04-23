@@ -1,1 +1,1 @@
-var mnemonic = "deputy day napkin hero snap clip fashion sugar manual label neck now";
+var mnemonic = "detect slab twelve celery depart captain chuckle exist aisle copper evil seat";

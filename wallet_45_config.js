@@ -1,1 +1,1 @@
-var mnemonic = "safe dream oak slab clinic wheel spy ecology dust minor wheat spray";
+var mnemonic = "piece excite vital train observe vague live invite penalty bubble industry scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "armed wheat undo ketchup inform will job cup song grid forum lawsuit";
+var mnemonic = "fever organ depart spy worth stomach history hamster tenant vicious more clever";

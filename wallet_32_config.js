@@ -1,1 +1,1 @@
-var mnemonic = "side fetch switch season enact prison flame plug embody grid illness auto";
+var mnemonic = "victory example answer ride only dish kite resist broom pair law verify";

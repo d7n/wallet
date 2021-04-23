@@ -1,1 +1,1 @@
-var mnemonic = "quality spin female still bounce glare dinner pool birth cake muscle hurdle";
+var mnemonic = "tenant mansion candy master walnut elbow slender clutch deliver shoulder quarter slice";

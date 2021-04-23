@@ -1,1 +1,1 @@
-var mnemonic = "junk video flavor outer icon tooth helmet monitor lunch valley liquid economy";
+var mnemonic = "tackle motor leisure sentence wet visit aspect mixed all frequent frog salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "twice issue skate decide climb elevator enough tone hair find jacket dynamic";
+var mnemonic = "manual hood muscle bleak nerve impulse modify double fortune bench debate example";

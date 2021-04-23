@@ -1,1 +1,1 @@
-var mnemonic = "shift panda elegant wave naive mixed walk soda category relief vocal rural";
+var mnemonic = "camera dune model cute throw great ill floor clog modify swarm dove";

@@ -1,1 +1,1 @@
-var mnemonic = "enter artwork pair hello recall mail spread mushroom unaware onion acquire shoe";
+var mnemonic = "virtual exclude letter wife manage chief depend slow lunch fun timber rude";

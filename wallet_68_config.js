@@ -1,1 +1,1 @@
-var mnemonic = "toy destroy hungry rate puppy hole wrestle robust before jazz cash stable";
+var mnemonic = "barrel trial sibling online term mass current trust win mule girl prison";

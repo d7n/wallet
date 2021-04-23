@@ -1,1 +1,1 @@
-var mnemonic = "quantum rebel action access senior very attack spend guide chicken nest shine";
+var mnemonic = "hand analyst boy craft problem cabbage garment violin crumble between intact comfort";

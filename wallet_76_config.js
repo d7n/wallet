@@ -1,1 +1,1 @@
-var mnemonic = "uphold donate wrap theory dice name morning custom silk middle crazy blame";
+var mnemonic = "first fiscal ripple mistake essay light shiver ramp winner adult scheme decide";

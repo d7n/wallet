@@ -1,1 +1,1 @@
-var mnemonic = "safe daring canoe vehicle chair key useless mountain lab catalog runway similar";
+var mnemonic = "tattoo exile food fantasy broom advice city goddess case trophy twice apology";

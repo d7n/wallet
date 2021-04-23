@@ -1,1 +1,1 @@
-var mnemonic = "include waste cereal faith humble shove judge comfort toward sphere view close";
+var mnemonic = "wolf horn art bundle forest flee tissue fat rigid trash involve team";

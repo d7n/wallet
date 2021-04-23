@@ -1,1 +1,1 @@
-var mnemonic = "remove neck extend october wide vital public clarify dismiss update river wrist";
+var mnemonic = "exercise merit clarify blast penalty upset quiz clay hidden movie twin coral";

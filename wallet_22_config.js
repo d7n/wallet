@@ -1,1 +1,1 @@
-var mnemonic = "leader either celery glove liquid piece absent dose bubble atom agent rabbit";
+var mnemonic = "despair exclude pipe suspect grunt lawn output capable sugar bunker furnace yellow";

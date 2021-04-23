@@ -1,1 +1,1 @@
-var mnemonic = "frown walk purity brother awful poet trophy middle mango sign attitude flee";
+var mnemonic = "muscle frost target offer behave joy stomach attitude connect catch wrong swing";

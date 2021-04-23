@@ -1,1 +1,1 @@
-var mnemonic = "aerobic income exhibit harbor carbon help soul patch fence desert appear hair";
+var mnemonic = "indoor invest cotton display invite unit ticket marble economy salad immense pony";

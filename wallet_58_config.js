@@ -1,1 +1,1 @@
-var mnemonic = "quote century onion hockey ship version level math regret danger crumble olive";
+var mnemonic = "spike hammer win way innocent feed vanish cradle submit will crash orphan";

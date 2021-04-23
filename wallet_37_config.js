@@ -1,1 +1,1 @@
-var mnemonic = "time saddle depart holiday add must oil nice digital deny ritual harbor";
+var mnemonic = "own render vendor upset cute ghost vague sheriff critic little legend point";

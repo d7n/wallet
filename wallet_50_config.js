@@ -1,1 +1,1 @@
-var mnemonic = "carry wagon fit dish nature spin noodle achieve piano struggle thrive lock";
+var mnemonic = "crowd grass stamp despair butter fine region depend claim mouse camera intact";

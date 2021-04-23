@@ -1,1 +1,1 @@
-var mnemonic = "bulb color life hard swim slab stumble around off unit satoshi pigeon";
+var mnemonic = "control pill someone cat best update solve still harbor country near hard";

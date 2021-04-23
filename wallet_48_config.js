@@ -1,1 +1,1 @@
-var mnemonic = "coral blanket report school humble supreme sword huge speed buddy custom client";
+var mnemonic = "guard speed marble dragon gasp clog rifle bubble license produce arrow lazy";

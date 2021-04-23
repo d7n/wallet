@@ -1,1 +1,1 @@
-var mnemonic = "vendor act effort jazz unknown shiver snow camera provide rail start humor";
+var mnemonic = "peasant evoke crash blossom judge learn wait wink math elder settle arrow";

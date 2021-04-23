@@ -1,1 +1,1 @@
-var mnemonic = "decide draw waste strong cabbage chase join cupboard shadow boy empty giraffe";
+var mnemonic = "lion strategy robot today wrestle hello planet quit attend rail symbol razor";

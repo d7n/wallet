@@ -1,1 +1,1 @@
-var mnemonic = "price ring hub arch moment sausage autumn involve any rebel father guilt";
+var mnemonic = "crucial state injury mimic fog salt bulb disagree fringe muffin moment lecture";

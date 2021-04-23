@@ -1,1 +1,1 @@
-var mnemonic = "false grit thought drop doll maple essence gun ozone eagle awful stuff";
+var mnemonic = "best miss neither indicate talent expire stuff street discover embark gas police";

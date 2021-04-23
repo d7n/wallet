@@ -1,1 +1,1 @@
-var mnemonic = "pole toss entire weird major sure tent oval crime buddy digital exact";
+var mnemonic = "invest surround elevator deny purse elder deliver tackle object disorder voyage immense";

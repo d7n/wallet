@@ -1,1 +1,1 @@
-var mnemonic = "fly nation autumn float quit memory sadness rival average purse grit jaguar";
+var mnemonic = "shiver once cable eager grant amused result spread liquid satisfy during local";

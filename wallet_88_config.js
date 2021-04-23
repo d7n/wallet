@@ -1,1 +1,1 @@
-var mnemonic = "planet venue steak saddle coconut success join sister entry shine end advice";
+var mnemonic = "furnace stay fiber image crime describe cram awful mushroom tail idle segment";

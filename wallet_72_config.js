@@ -1,1 +1,1 @@
-var mnemonic = "vote figure cannon victory question badge fiscal hedgehog else creek analyst apple";
+var mnemonic = "cat clay borrow ribbon clump rain luxury alone bottom gospel require actress";

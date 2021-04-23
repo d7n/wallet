@@ -1,1 +1,1 @@
-var mnemonic = "extra yellow hazard catalog crash lazy thumb quick utility style lava echo";
+var mnemonic = "sample merge drop science blossom mention infant sword lunch recall piano merge";

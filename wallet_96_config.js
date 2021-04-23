@@ -1,1 +1,1 @@
-var mnemonic = "melody hold tiny object slender lizard nuclear huge system stadium fall trick";
+var mnemonic = "street beyond trust basic match bubble bird argue thumb negative neither sting";

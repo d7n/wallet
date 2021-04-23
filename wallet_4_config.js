@@ -1,1 +1,1 @@
-var mnemonic = "provide cradle eager choice alert gas aspect tribe venue buddy quarter clock";
+var mnemonic = "glass film rural mechanic broom test error couch behind fork senior reason";

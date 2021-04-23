@@ -1,1 +1,1 @@
-var mnemonic = "write give clinic butter grain ordinary clog siege fiscal tribe unlock suggest";
+var mnemonic = "ride feel eager start stereo solid shallow birth web horn void start";

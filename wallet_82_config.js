@@ -1,1 +1,1 @@
-var mnemonic = "grocery snap market tuna elephant clog bread fault nature online peasant innocent";
+var mnemonic = "elder sleep antenna tissue notice help system empty february color win eternal";

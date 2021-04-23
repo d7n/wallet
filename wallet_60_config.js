@@ -1,1 +1,1 @@
-var mnemonic = "matrix journey rapid squirrel chapter attend infant board close clip body gentle";
+var mnemonic = "cat level bid rule venture siren pretty world panther settle speak cup";

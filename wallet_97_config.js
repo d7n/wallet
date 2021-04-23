@@ -1,1 +1,1 @@
-var mnemonic = "property myth addict bracket velvet short shuffle account journey margin clay unusual";
+var mnemonic = "receive alter secret youth shift nuclear just despair clog cry focus quit";

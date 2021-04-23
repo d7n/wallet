@@ -1,1 +1,1 @@
-var mnemonic = "insane leg timber mixed excess exchange fortune round sadness kidney review grocery";
+var mnemonic = "pigeon glide pudding search amazing muscle install town tide shove call reject";

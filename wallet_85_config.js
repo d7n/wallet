@@ -1,1 +1,1 @@
-var mnemonic = "talent zone elder wish audit answer garlic exercise ecology home sail infant";
+var mnemonic = "deal call rebel park laptop abstract cotton find adult hollow poem museum";

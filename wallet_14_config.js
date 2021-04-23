@@ -1,1 +1,1 @@
-var mnemonic = "dwarf choice puzzle figure borrow route neglect lyrics fan lottery mean combine";
+var mnemonic = "arrest artist work emerge must leopard bracket doll ten van vessel vacuum";

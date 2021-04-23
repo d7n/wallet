@@ -1,1 +1,1 @@
-var mnemonic = "bless order mercy trigger inspire attract stable advance indicate youth nominee gym";
+var mnemonic = "regret limb venue nothing uphold input universe shove must sense all rescue";

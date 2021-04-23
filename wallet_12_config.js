@@ -1,1 +1,1 @@
-var mnemonic = "trend cart during leg puzzle awkward detail brain cool black ill celery";
+var mnemonic = "love good hundred spot chunk raw intact inner cluster woman stock chalk";

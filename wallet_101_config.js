@@ -1,1 +1,1 @@
-var mnemonic = "seven audit step digital capable write ticket direct exhaust crew pencil chunk";
+var mnemonic = "general crawl foil about bird length wire final oxygen merry bracket resource";

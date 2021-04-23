@@ -1,1 +1,1 @@
-var mnemonic = "wing hello attract million filter approve liberty wage evoke lamp problem celery";
+var mnemonic = "adapt champion swamp voyage prosper cross fortune feed canyon current ecology butter";

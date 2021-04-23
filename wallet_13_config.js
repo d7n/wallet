@@ -1,1 +1,1 @@
-var mnemonic = "forest plunge chaos off gauge desk gentle pair traffic random cheap brave";
+var mnemonic = "midnight duck reopen tide aisle moon lab visual sugar remain leader conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "genre upset one panic brief stairs purpose pair duty shell lab ramp";
+var mnemonic = "trigger panther world track about finger garden defy bread neutral ketchup wagon";

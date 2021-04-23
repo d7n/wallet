@@ -1,1 +1,1 @@
-var mnemonic = "trophy quit food summer funny burden strong dry coil host stadium color";
+var mnemonic = "helmet donor sail weasel barrel couple fluid forum wreck voice divide pilot";

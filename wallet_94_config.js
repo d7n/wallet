@@ -1,1 +1,1 @@
-var mnemonic = "strong measure sound assume harsh whale license tube ivory dutch height pumpkin";
+var mnemonic = "runway carpet idea unaware repeat agent owner rug dust wire ugly carbon";

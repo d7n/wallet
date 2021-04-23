@@ -1,1 +1,1 @@
-var mnemonic = "kitchen program leg safe unfold aunt thrive exist exile shop zebra force";
+var mnemonic = "spray adult step clutch alarm nation cinnamon quantum asthma tourist play cherry";

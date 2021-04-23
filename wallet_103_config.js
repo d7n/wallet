@@ -1,1 +1,1 @@
-var mnemonic = "phone bag virus lava lucky divorce artefact lounge vacuum spirit term offer";
+var mnemonic = "tissue spin bring fine noise inmate push century fault merry inherit ignore";

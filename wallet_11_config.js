@@ -1,1 +1,1 @@
-var mnemonic = "tongue lemon unusual approve phone humble write grace sword virtual junk limit";
+var mnemonic = "enough buffalo kiss orphan long promote embody dumb crane path relax saddle";

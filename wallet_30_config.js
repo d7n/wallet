@@ -1,1 +1,1 @@
-var mnemonic = "cruise drive churn strike rookie common barely mobile sport few pole actress";
+var mnemonic = "twist excuse hotel unique only monkey kidney egg good gentle shine swing";

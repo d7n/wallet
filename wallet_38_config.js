@@ -1,1 +1,1 @@
-var mnemonic = "sudden better food asthma kick trend jewel nest message danger brown client";
+var mnemonic = "stem hospital thought pattern energy cancel rare upon soft rescue educate spoil";

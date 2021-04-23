@@ -1,1 +1,1 @@
-var mnemonic = "find edge electric afraid entry again world coral ankle brisk cradle effort";
+var mnemonic = "shop credit entire student once cry build manual fury demise pact service";

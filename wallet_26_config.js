@@ -1,1 +1,1 @@
-var mnemonic = "scene jaguar bag absurd sure this dinosaur lizard auto person able photo";
+var mnemonic = "farm hold jewel noodle brief will similar pencil rabbit recipe mercy minimum";

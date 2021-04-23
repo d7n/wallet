@@ -1,1 +1,1 @@
-var mnemonic = "sure prison cup recipe anchor grocery execute trip diary vacuum canvas noise";
+var mnemonic = "supreme gentle goose clap large horror poem vintage behind weasel exit agent";

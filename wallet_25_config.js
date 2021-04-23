@@ -1,1 +1,1 @@
-var mnemonic = "core weather mix letter edit laugh shock skin matter horror delay drastic";
+var mnemonic = "dinosaur flower first busy escape later tiny anchor chase deny shadow scout";

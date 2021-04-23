@@ -1,1 +1,1 @@
-var mnemonic = "split hidden umbrella silk elegant never dad shuffle gym say nature swamp";
+var mnemonic = "rice twelve improve fiber island exotic bargain claim staff vital jeans phone";
