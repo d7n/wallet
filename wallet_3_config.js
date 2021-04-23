@@ -1,1 +1,1 @@
-var mnemonic = "engage cool label clever reject behave pistol swift huge people ankle post";
+var mnemonic = "verify assault leisure cannon mix two fall scale nominee unfold theme someone";

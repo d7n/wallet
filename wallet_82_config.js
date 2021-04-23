@@ -1,1 +1,1 @@
-var mnemonic = "answer south maze asthma pill today crane home pulse close ginger menu";
+var mnemonic = "lemon hundred ask mouse reform champion field timber sunset capable oak hair";

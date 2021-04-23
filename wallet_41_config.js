@@ -1,1 +1,1 @@
-var mnemonic = "minimum park weather come rain famous unfold trust thumb coral step wink";
+var mnemonic = "access risk essay canyon dish vessel initial major skate double slice capital";

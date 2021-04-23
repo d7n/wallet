@@ -1,1 +1,1 @@
-var mnemonic = "grass poem venue glove one father private weekend hello deputy mammal example";
+var mnemonic = "fantasy captain result produce pause future problem popular skill smile arrest direct";

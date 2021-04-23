@@ -1,1 +1,1 @@
-var mnemonic = "toe civil place monkey legal smile decade question fragile gain input depend";
+var mnemonic = "away enlist fortune utility rebel suit casual finish mystery awkward cereal leave";

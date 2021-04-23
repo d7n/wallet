@@ -1,1 +1,1 @@
-var mnemonic = "frog sister frame balance aware stand drift pumpkin eyebrow warrior crawl worry";
+var mnemonic = "lecture donkey husband undo vehicle family sea ski dress chase ankle shy";

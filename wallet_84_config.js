@@ -1,1 +1,1 @@
-var mnemonic = "gym advance tell raise loyal nerve candy load coin cheap boy extend";
+var mnemonic = "real ignore film add enroll advance smoke fatal reflect once concert party";

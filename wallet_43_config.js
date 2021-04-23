@@ -1,1 +1,1 @@
-var mnemonic = "nice acid angle citizen wolf tissue curve property embark leisure found genre";
+var mnemonic = "begin elevator original cost slam casual old maple child safe satisfy upon";

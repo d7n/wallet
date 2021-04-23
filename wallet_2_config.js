@@ -1,1 +1,1 @@
-var mnemonic = "hundred humble fog pledge goddess lion token pluck random accuse ancient drift";
+var mnemonic = "valve meadow erupt grid half save link embark physical usage enable slogan";

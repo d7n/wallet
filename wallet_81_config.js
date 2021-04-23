@@ -1,1 +1,1 @@
-var mnemonic = "opinion duck sad leisure habit ahead spatial cry sense shoulder crater boss";
+var mnemonic = "rally fetch machine mention snap produce rent swim weapon major drink insect";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm fault wedding weasel original predict relief ranch net pottery chunk skate";
+var mnemonic = "tribe replace property direct suffer already wide pond draft morning try wire";

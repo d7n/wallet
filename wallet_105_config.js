@@ -1,1 +1,1 @@
-var mnemonic = "robot saddle abstract loop average illness sunny ice topple blade minimum ride";
+var mnemonic = "kite put fox trip donate range army soon food alter harvest inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "still trial toe ethics potato cattle leaf cake march picture manual other";
+var mnemonic = "scatter long utility gap rule actual join limb garlic chair test disease";

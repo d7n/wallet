@@ -1,1 +1,1 @@
-var mnemonic = "goose cotton hen tomorrow output brain dash barrel priority other mixed company";
+var mnemonic = "relax hobby skill file elite gossip weather noise refuse seven found acoustic";

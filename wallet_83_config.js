@@ -1,1 +1,1 @@
-var mnemonic = "say crash exile fox item outer disorder now pool collect step gown";
+var mnemonic = "garbage brave zone faint live honey degree monster noodle wine hover grocery";

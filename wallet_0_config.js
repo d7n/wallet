@@ -1,1 +1,1 @@
-var mnemonic = "fantasy rocket wrong zero title move concert surface guide ranch radar spider";
+var mnemonic = "sand slogan save ghost never simple grain pride push fix diary gather";

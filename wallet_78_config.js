@@ -1,1 +1,1 @@
-var mnemonic = "oblige ginger slam protect drip nation music clerk antenna turtle hope issue";
+var mnemonic = "basket arrive captain then plug deny anchor glimpse pride dash noise wall";

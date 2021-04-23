@@ -1,1 +1,1 @@
-var mnemonic = "regular unfair trouble video mad feed bomb kid cream else vicious cup";
+var mnemonic = "mistake unhappy coconut tower army wash coach valve similar warrior era bicycle";

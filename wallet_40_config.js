@@ -1,1 +1,1 @@
-var mnemonic = "shiver elephant judge cash actor large leg liberty biology mouse decorate double";
+var mnemonic = "height father weird maple mimic pill pear during debate pluck kitten trophy";

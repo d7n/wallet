@@ -1,1 +1,1 @@
-var mnemonic = "normal nerve blue coil define live bread wear erase brass tiger gas";
+var mnemonic = "mercy small news idea trip leisure winter mechanic few excess infant annual";

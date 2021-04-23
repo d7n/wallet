@@ -1,1 +1,1 @@
-var mnemonic = "cabbage mistake milk solid labor laugh nasty trial unveil certain soon uncle";
+var mnemonic = "salad write alien alien unable teach side main sing female innocent muscle";

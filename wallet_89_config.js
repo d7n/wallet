@@ -1,1 +1,1 @@
-var mnemonic = "hire price vehicle camp friend balcony skill swim over fatal labor define";
+var mnemonic = "jar snack bronze length elevator monster guilt stereo arrive title host family";

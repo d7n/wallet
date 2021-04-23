@@ -1,1 +1,1 @@
-var mnemonic = "actress run domain pond couple rescue biology kiss hen risk rich shed";
+var mnemonic = "merge always citizen brass beyond liberty auction flavor style coast rug wine";

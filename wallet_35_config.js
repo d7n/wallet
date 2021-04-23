@@ -1,1 +1,1 @@
-var mnemonic = "target random kitten wheel night range panda city govern fiscal weather noble";
+var mnemonic = "file budget grace weird multiply ship olive phone praise tilt vacuum silk";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy kangaroo car lucky wall number gaze spider stuff valid bracket same";
+var mnemonic = "connect hub whip home daring ignore enhance lake such crane finish winner";

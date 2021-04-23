@@ -1,1 +1,1 @@
-var mnemonic = "length pull ivory dish month pool comic ask vintage ill answer nest";
+var mnemonic = "walnut unfold arrive firm inside hood annual possible such lizard truly fault";

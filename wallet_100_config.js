@@ -1,1 +1,1 @@
-var mnemonic = "give myself hello carbon talent nice hockey shuffle minimum fragile found tackle";
+var mnemonic = "bleak wrong reform oil coconut where shrimp drift price sun mobile earth";

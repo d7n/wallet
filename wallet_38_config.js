@@ -1,1 +1,1 @@
-var mnemonic = "torch combine beach lend spend know muffin blame puzzle laptop alpha first";
+var mnemonic = "color purchase suit dumb buddy phone west sock wait canoe tribe style";

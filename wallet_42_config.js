@@ -1,1 +1,1 @@
-var mnemonic = "carry fiction rail throw shadow donate amused very neglect essence bright zone";
+var mnemonic = "snow access breeze useless iron aunt cabbage sad fiber urge tenant betray";

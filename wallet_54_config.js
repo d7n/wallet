@@ -1,1 +1,1 @@
-var mnemonic = "rug swarm rotate stairs junior valid mobile spring essence upon tower knock";
+var mnemonic = "draw envelope dwarf shoe steel border shallow detail valve sort crouch design";

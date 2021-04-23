@@ -1,1 +1,1 @@
-var mnemonic = "park leaf credit noble home loop symptom heavy ticket shadow tomorrow soul";
+var mnemonic = "coach eye boil puzzle flush version accuse north sheriff era copy lock";

@@ -1,1 +1,1 @@
-var mnemonic = "secret student conduct wire escape another wave sense account umbrella wise marine";
+var mnemonic = "gloom moon swallow remain finger cabin manage champion food author burden hunt";

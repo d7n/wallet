@@ -1,1 +1,1 @@
-var mnemonic = "giggle bus wolf used arctic antenna toy pottery blur cactus obtain wool";
+var mnemonic = "car near can trim damage coin ten parade pistol egg tower rather";

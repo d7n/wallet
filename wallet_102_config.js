@@ -1,1 +1,1 @@
-var mnemonic = "ice prison design stock consider penalty manage debris oil consider carry tone";
+var mnemonic = "cable pencil assist average injury captain another ankle cruise extra hotel situate";

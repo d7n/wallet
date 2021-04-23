@@ -1,1 +1,1 @@
-var mnemonic = "sadness morning tuition dawn harsh buddy cigar nominee soul light eagle puzzle";
+var mnemonic = "eternal quality tobacco sentence erosion brave obscure opinion private word pulse noise";

@@ -1,1 +1,1 @@
-var mnemonic = "response exile flash virus effort keep shoulder group engage private brief prepare";
+var mnemonic = "pet pool photo scissors tiny sadness outdoor sugar fault skirt shoot divorce";

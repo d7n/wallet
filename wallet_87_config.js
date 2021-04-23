@@ -1,1 +1,1 @@
-var mnemonic = "profit lunar demand panda timber replace aware honey dog syrup grid term";
+var mnemonic = "elder assume top rough ramp much pupil nominee gallery gift proof coyote";

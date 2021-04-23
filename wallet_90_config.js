@@ -1,1 +1,1 @@
-var mnemonic = "scale because afford hospital very boy witness step blood banana mixture rough";
+var mnemonic = "mutual party tray access bulb prefer march social reform resemble fringe divert";

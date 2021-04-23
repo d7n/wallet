@@ -1,1 +1,1 @@
-var mnemonic = "sweet debate cupboard lab hollow practice embark cabin cement coffee need lazy";
+var mnemonic = "float ribbon work attend elder trouble toy pear license duty crime stomach";

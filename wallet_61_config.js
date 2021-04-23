@@ -1,1 +1,1 @@
-var mnemonic = "carry utility window music series basic decide absent captain symptom fine valid";
+var mnemonic = "slender misery begin abuse crop connect buffalo such wealth rhythm grocery spot";

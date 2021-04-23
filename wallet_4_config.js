@@ -1,1 +1,1 @@
-var mnemonic = "sniff infant royal cruel diary diagram color diesel peanut side until find";
+var mnemonic = "inject twelve street eternal laptop peanut ill fancy green gravity sister close";

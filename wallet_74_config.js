@@ -1,1 +1,1 @@
-var mnemonic = "visit notable like orient swift shift blame card govern pass crash melt";
+var mnemonic = "sniff round canal receive leg palace crawl giant drama volume wealth swarm";

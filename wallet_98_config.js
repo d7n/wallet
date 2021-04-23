@@ -1,1 +1,1 @@
-var mnemonic = "winner salmon benefit please youth lazy stick few grunt enforce clay inject";
+var mnemonic = "twist chest motion service owner case soap bunker sunset snack crawl nephew";

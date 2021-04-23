@@ -1,1 +1,1 @@
-var mnemonic = "notable chapter mobile woman present balance outside level runway market flip endorse";
+var mnemonic = "work ghost embark hire fortune differ mind spin second country thing define";

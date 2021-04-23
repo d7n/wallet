@@ -1,1 +1,1 @@
-var mnemonic = "faint wagon tragic olympic twelve ostrich pioneer crazy urban equal soldier result";
+var mnemonic = "also client essence fury admit use drop famous almost target youth example";

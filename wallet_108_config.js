@@ -1,1 +1,1 @@
-var mnemonic = "deposit equal never useful sleep early fiscal undo clay shell razor machine";
+var mnemonic = "reflect kick subject hint weekend shallow connect surge spare series reason lady";

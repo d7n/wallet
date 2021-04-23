@@ -1,1 +1,1 @@
-var mnemonic = "theme erosion table midnight stick dash snack unhappy process view lobster mutual";
+var mnemonic = "seminar airport ostrich rubber aunt vast main divorce grant peanut promote dance";

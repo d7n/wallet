@@ -1,1 +1,1 @@
-var mnemonic = "youth lonely hood party bright flip pyramid pride clip hidden column palm";
+var mnemonic = "acid barrel device transfer immune recycle hour assist nasty radio tell fresh";

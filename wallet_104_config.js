@@ -1,1 +1,1 @@
-var mnemonic = "salute praise hedgehog great era crop picture know picture bamboo they pride";
+var mnemonic = "weather prize hurry physical carbon friend soup reduce betray artist arena job";

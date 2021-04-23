@@ -1,1 +1,1 @@
-var mnemonic = "allow arch raw egg ceiling local orchard assist pitch outdoor tackle embark";
+var mnemonic = "tuition neck joke illegal want wing rally amount biology chalk actress code";

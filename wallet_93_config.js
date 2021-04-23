@@ -1,1 +1,1 @@
-var mnemonic = "craft gaze thank year palace hurt news rhythm cook cricket produce review";
+var mnemonic = "federal test wasp middle sample obey dentist fame canvas idea vessel bus";

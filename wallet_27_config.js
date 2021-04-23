@@ -1,1 +1,1 @@
-var mnemonic = "unfold inch noise blade approve river practice grain unhappy reward inmate capable";
+var mnemonic = "law law aim nest humble small odor payment world spend bubble voyage";

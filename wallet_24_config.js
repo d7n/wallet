@@ -1,1 +1,1 @@
-var mnemonic = "vintage tenant comfort host wood jar depart climb history gas pause syrup";
+var mnemonic = "receive ride hen waste salon when gate tape vapor honey race design";

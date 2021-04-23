@@ -1,1 +1,1 @@
-var mnemonic = "they mosquito wealth mad verb wave orchard lawn apart laugh glad adjust";
+var mnemonic = "cannon wool rude grit lock embark purchase sand tunnel tennis horn around";

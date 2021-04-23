@@ -1,1 +1,1 @@
-var mnemonic = "bullet crazy slam siren embrace bundle great recall chimney space butter bulb";
+var mnemonic = "chalk afraid please pyramid skill lab icon margin damage echo museum use";

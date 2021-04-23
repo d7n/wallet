@@ -1,1 +1,1 @@
-var mnemonic = "long reopen attitude busy mango pear clever rich planet broom sun satoshi";
+var mnemonic = "sudden exchange wave salon pig worry place illegal minute drift cousin primary";

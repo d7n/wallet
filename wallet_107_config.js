@@ -1,1 +1,1 @@
-var mnemonic = "alcohol ripple country accident tiger high fossil lemon aspect round impact random";
+var mnemonic = "swim cash slush stable strike chest trap slow coyote muscle when token";

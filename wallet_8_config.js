@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon sort protect broken where crop crew talent advance erupt usage mountain";
+var mnemonic = "skirt reason bike nasty place general guilt tennis baby child fly misery";

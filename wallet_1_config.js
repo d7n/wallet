@@ -1,1 +1,1 @@
-var mnemonic = "disagree amateur marriage kick youth napkin fiber diagram fly night focus device";
+var mnemonic = "canvas monster web target capital brand relax guilt fancy flag anxiety twelve";

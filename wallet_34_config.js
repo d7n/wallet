@@ -1,1 +1,1 @@
-var mnemonic = "spice toss answer fetch genius good cool barrel drink omit square crystal";
+var mnemonic = "royal crack lyrics neutral social pattern false only discover swear chair husband";

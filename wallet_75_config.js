@@ -1,1 +1,1 @@
-var mnemonic = "obey evidence drastic embark tide race sister hedgehog foil country grain high";
+var mnemonic = "say amazing jeans sure spell tuna claim bag hen wrong electric monkey";

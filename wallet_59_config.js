@@ -1,1 +1,1 @@
-var mnemonic = "quote boil wish flip fork tragic evidence eternal cake festival soon belt";
+var mnemonic = "mother bottom fat zoo lunar twenty prepare level question lucky bean supply";

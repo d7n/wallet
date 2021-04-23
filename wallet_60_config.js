@@ -1,1 +1,1 @@
-var mnemonic = "lobster again flame angle ignore ride hold sphere tube evil trouble pitch";
+var mnemonic = "oyster intact vanish couch rebuild school family toast auction excite direct globe";

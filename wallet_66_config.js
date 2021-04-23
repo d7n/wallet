@@ -1,1 +1,1 @@
-var mnemonic = "miracle rotate rich target dinner suffer dragon fringe tissue milk capable vintage";
+var mnemonic = "first vote drip manage language involve movie food bounce assume title below";

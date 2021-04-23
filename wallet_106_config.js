@@ -1,1 +1,1 @@
-var mnemonic = "box elevator love whisper forest bitter vacant vapor carry joy hockey pluck";
+var mnemonic = "viable cause horse cram nominee until radar panda chunk dragon tortoise loan";

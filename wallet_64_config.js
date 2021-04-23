@@ -1,1 +1,1 @@
-var mnemonic = "tag display split raw orphan cradle spice poem lamp opera flee replace";
+var mnemonic = "hand result divide any sibling shift exchange mango amount minute track belt";

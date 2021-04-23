@@ -1,1 +1,1 @@
-var mnemonic = "mention enjoy inherit village echo virtual abstract trend kangaroo tortoise destroy supply";
+var mnemonic = "parade arrange ability blue order flock glory recipe burden letter frown camp";

@@ -1,1 +1,1 @@
-var mnemonic = "rate caught cross bread engage expose laundry improve buyer kiwi post hen";
+var mnemonic = "cross upgrade issue crunch error quarter clock found horror gorilla loan lecture";

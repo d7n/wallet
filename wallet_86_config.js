@@ -1,1 +1,1 @@
-var mnemonic = "uphold tank manage pudding seek holiday attitude west spare alter skill shop";
+var mnemonic = "debris any cycle guess unhappy obscure afraid banner modify vacant olive sand";

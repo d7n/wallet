@@ -1,1 +1,1 @@
-var mnemonic = "leg source patch lounge title violin clown tortoise gauge midnight lemon muscle";
+var mnemonic = "current again prefer mule goat junior flower salmon neck equip version service";

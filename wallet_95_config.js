@@ -1,1 +1,1 @@
-var mnemonic = "property have wasp neither target task gallery cabbage topic spatial strategy lens";
+var mnemonic = "scout high sketch grief ignore prison under body myth champion great begin";

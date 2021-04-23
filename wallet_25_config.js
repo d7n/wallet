@@ -1,1 +1,1 @@
-var mnemonic = "picnic cabbage tide bring custom meadow midnight draw just noble cycle bacon";
+var mnemonic = "evidence dilemma interest act depend pluck bargain spy convince crop impose strategy";

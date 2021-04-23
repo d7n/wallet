@@ -1,1 +1,1 @@
-var mnemonic = "relief head buffalo bachelor desert rabbit crowd marine solution category few horn";
+var mnemonic = "visual uniform badge fire dinner glance announce mansion toe goose blade scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "camera depart weapon puppy fee resist expand rubber leg proof useless dilemma";
+var mnemonic = "reform rain access cute survey mirror name program robot improve focus way";

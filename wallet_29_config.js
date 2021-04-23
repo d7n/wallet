@@ -1,1 +1,1 @@
-var mnemonic = "reopen awesome celery expose faint intact audit quantum thank cricket alien shoulder";
+var mnemonic = "drama away foam dish next wink remove display stage cushion prison tribe";

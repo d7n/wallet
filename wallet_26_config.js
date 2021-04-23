@@ -1,1 +1,1 @@
-var mnemonic = "marble melody mandate tuition movie rabbit sphere brick sugar appear hood boss";
+var mnemonic = "broken gun lamp amazing aunt car give obey practice letter race tunnel";

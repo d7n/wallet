@@ -1,1 +1,1 @@
-var mnemonic = "vivid culture key call burden fatal dilemma village dash shiver poem eagle";
+var mnemonic = "science page secret wish punch weasel brain gorilla inner stand flavor seven";

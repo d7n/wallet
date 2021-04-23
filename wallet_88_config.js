@@ -1,1 +1,1 @@
-var mnemonic = "meat erode anxiety shock vendor deposit share satisfy category spike walk lesson";
+var mnemonic = "lunar cable ten medal inside arrow come winter yard scrub imitate budget";

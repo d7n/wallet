@@ -1,1 +1,1 @@
-var mnemonic = "hammer kit loop coconut seminar distance liar middle prepare ignore business dismiss";
+var mnemonic = "better lab hedgehog nut dune report diagram inspire lemon hedgehog glare quit";

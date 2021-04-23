@@ -1,1 +1,1 @@
-var mnemonic = "eternal novel kitten drum birth genuine subway piano polar cousin corn guitar";
+var mnemonic = "essence behind baby genuine whale laugh please napkin decorate warm tank pulp";

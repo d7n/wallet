@@ -1,1 +1,1 @@
-var mnemonic = "giant loan indoor satoshi bus switch survey canvas animal always staff gaze";
+var mnemonic = "finger love mutual exotic fitness face obscure myth spatial soap portion music";

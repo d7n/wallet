@@ -1,1 +1,1 @@
-var mnemonic = "able goat crucial pole keep innocent way panda black brain school way";
+var mnemonic = "where ill bleak idle task weird normal february parrot guilt claw absurd";

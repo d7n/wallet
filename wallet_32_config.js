@@ -1,1 +1,1 @@
-var mnemonic = "speed day aspect tortoise ugly torch junior ring surge later balance dawn";
+var mnemonic = "kitten copy filter remind ride yellow fiscal link zone belt father moral";

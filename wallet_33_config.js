@@ -1,1 +1,1 @@
-var mnemonic = "snack stamp pepper wish short cotton act satisfy faith addict carry liberty";
+var mnemonic = "hint fork satoshi steel sound crush pupil acoustic talent dress physical service";

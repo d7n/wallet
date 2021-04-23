@@ -1,1 +1,1 @@
-var mnemonic = "vacant winter genius often victory misery wrist depend finish seminar robot maid";
+var mnemonic = "thunder thumb wonder myth practice demand describe raccoon tide evolve math proof";

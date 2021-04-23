@@ -1,1 +1,1 @@
-var mnemonic = "valley vehicle female hobby february coral engine recycle length input scan apple";
+var mnemonic = "sauce simple hill trim tourist flat wasp advance mail remind myself else";

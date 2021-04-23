@@ -1,1 +1,1 @@
-var mnemonic = "pizza dish beach loop lunar truck aunt giggle phone damage forget stable";
+var mnemonic = "pilot dress slab dynamic rigid drip elder vapor say front cluster alter";

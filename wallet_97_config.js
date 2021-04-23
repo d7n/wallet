@@ -1,1 +1,1 @@
-var mnemonic = "trouble any pupil rough sound sphere water thumb embark bracket eight worth";
+var mnemonic = "witness parade analyst giggle arena monkey hood audit swap snake manage three";

@@ -1,1 +1,1 @@
-var mnemonic = "old pair cube burger perfect banner obscure kite april fringe decline silver";
+var mnemonic = "rack start battle venue zero click shy prize snack seminar away actress";

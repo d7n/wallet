@@ -1,1 +1,1 @@
-var mnemonic = "rose void speed bid thought coach method coyote chuckle interest morning hurt";
+var mnemonic = "autumn good cupboard pretty find reunion employ legend grab achieve achieve beyond";
