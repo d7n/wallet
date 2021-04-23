@@ -1,1 +1,1 @@
-var mnemonic = "garbage asthma eyebrow replace arrive bike ritual unable offer alcohol month critic";
+var mnemonic = "warfare cool hotel action rough kind document call chat draw vintage garbage";

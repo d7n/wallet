@@ -1,1 +1,1 @@
-var mnemonic = "cause thing bulb jealous sock yard egg metal frequent success satoshi ticket";
+var mnemonic = "ensure harsh potato advance sea decorate bubble expire holiday lady harsh okay";

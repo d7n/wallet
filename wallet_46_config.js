@@ -1,1 +1,1 @@
-var mnemonic = "settle rifle move drama team original mandate embark orbit awake girl drill";
+var mnemonic = "flight exclude vapor salon aspect near flip review access salad you vast";

@@ -1,1 +1,1 @@
-var mnemonic = "essence exile coconut digital discover cool evidence prepare glide flower salmon process";
+var mnemonic = "coil tackle obscure vague brown pear window prize swift diet vacuum globe";

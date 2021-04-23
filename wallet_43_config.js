@@ -1,1 +1,1 @@
-var mnemonic = "fan chief parent couple return category wheat wall easily near manage air";
+var mnemonic = "shrug mixed fever become couch example alcohol marriage erupt smooth lady crazy";

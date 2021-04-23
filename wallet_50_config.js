@@ -1,1 +1,1 @@
-var mnemonic = "dignity tissue river wrestle chronic hand pulse dragon balcony park leaf fashion";
+var mnemonic = "minute island elite orbit dynamic evoke display pattern attack toddler view gain";

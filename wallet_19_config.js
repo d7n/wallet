@@ -1,1 +1,1 @@
-var mnemonic = "stuff journey level silent salmon cheese major ginger ring tone baby remove";
+var mnemonic = "mistake garden install what glad emerge sad grief vocal park amazing air";

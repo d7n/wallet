@@ -1,1 +1,1 @@
-var mnemonic = "ten spawn dawn base agent dentist friend reflect evidence prepare dash universe";
+var mnemonic = "index giant illegal come lawn vivid erode charge gossip tuition squirrel basket";

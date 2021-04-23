@@ -1,1 +1,1 @@
-var mnemonic = "miracle modify sweet miracle brisk moment bench ranch tuna repair exclude legal";
+var mnemonic = "convince myth season box brother enjoy install east clay update wage segment";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent anger stumble oppose ice act beauty tourist cannon daring insect round";
+var mnemonic = "surround muffin gun barely kitchen rough anger cargo dirt mother tornado secret";

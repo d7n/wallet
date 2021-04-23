@@ -1,1 +1,1 @@
-var mnemonic = "impact dentist mansion canyon axis detect public entry bread hold skirt bonus";
+var mnemonic = "bulk whisper mansion fruit shaft car rabbit elephant symbol drama crime top";

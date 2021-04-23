@@ -1,1 +1,1 @@
-var mnemonic = "light bulk universe result curious soft humble family keen nuclear blush safe";
+var mnemonic = "taste shine radio visual tragic dial hole supreme beauty turn slight north";

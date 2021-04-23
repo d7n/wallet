@@ -1,1 +1,1 @@
-var mnemonic = "recycle jelly quit usage lucky below century dry wire immune master enforce";
+var mnemonic = "frog prison art evidence staff canyon cat civil blast trip dignity extra";

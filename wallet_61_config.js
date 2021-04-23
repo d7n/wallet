@@ -1,1 +1,1 @@
-var mnemonic = "flat draft sure resemble pole hybrid creek pulse truly dwarf used design";
+var mnemonic = "trade virus cancel guitar business credit abuse whisper area execute offer device";

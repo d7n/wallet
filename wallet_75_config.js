@@ -1,1 +1,1 @@
-var mnemonic = "rotate survey stadium garbage plate hockey found female infant pause lens account";
+var mnemonic = "club shine scout grain timber crazy false together behave auto piano antique";

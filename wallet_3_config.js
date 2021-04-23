@@ -1,1 +1,1 @@
-var mnemonic = "laugh ridge output slow survey young manual yellow jewel relax ten fine";
+var mnemonic = "spoil visa naive sorry crouch jewel canvas gold divide poverty whisper lava";

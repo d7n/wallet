@@ -1,1 +1,1 @@
-var mnemonic = "museum joke excuse purchase rocket reopen start deer glide magic pizza consider";
+var mnemonic = "garage reduce swear someone idle rule lens fitness spray demand wife roast";

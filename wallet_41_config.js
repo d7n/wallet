@@ -1,1 +1,1 @@
-var mnemonic = "verify square bean bread brisk embrace ten flock snake cycle service initial";
+var mnemonic = "fat fancy female stage unfair satisfy omit fresh dilemma tide turkey loan";

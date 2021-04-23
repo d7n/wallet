@@ -1,1 +1,1 @@
-var mnemonic = "level salt economy tag upgrade sing turn present pole cliff visit split";
+var mnemonic = "return pitch cup they coach sample clog town protect nominee light witness";

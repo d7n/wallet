@@ -1,1 +1,1 @@
-var mnemonic = "two device produce ozone square hood jealous scorpion shove clap awesome differ";
+var mnemonic = "excuse zero devote witness lion indicate field bamboo fan erosion lift wave";

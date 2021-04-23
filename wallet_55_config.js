@@ -1,1 +1,1 @@
-var mnemonic = "same chapter toy rhythm nothing obvious lumber green path endorse soldier quick";
+var mnemonic = "this lyrics little reduce right blouse census proof dinner invite belt engine";

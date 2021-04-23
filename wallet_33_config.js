@@ -1,1 +1,1 @@
-var mnemonic = "bunker pepper master bean extra purchase pigeon first daring inquiry tissue other";
+var mnemonic = "glance know thumb match unaware waste floor lumber popular silk evil dentist";

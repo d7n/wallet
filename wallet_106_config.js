@@ -1,1 +1,1 @@
-var mnemonic = "gate bachelor mechanic rally anchor invite jeans neither collect athlete truly crush";
+var mnemonic = "dice animal cook melt document valid uphold between poet lucky exotic sauce";

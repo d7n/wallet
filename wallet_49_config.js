@@ -1,1 +1,1 @@
-var mnemonic = "they drink empty skate front spawn public mercy huge fame oil appear";
+var mnemonic = "palm bar flash blur cereal monkey trophy concert oval tell state fix";

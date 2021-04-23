@@ -1,1 +1,1 @@
-var mnemonic = "ocean give trick arrange page artist hill round amount cricket scrap average";
+var mnemonic = "margin until worth glass shell obey cook grape salad sphere nerve pink";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato dress gym champion liberty prefer actor fiction priority blush prize evidence";
+var mnemonic = "guard science valley atom patch husband fan rebuild near tunnel cause message";

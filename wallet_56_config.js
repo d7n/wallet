@@ -1,1 +1,1 @@
-var mnemonic = "grit latin remember asthma choose obvious scare bind parrot armor girl lecture";
+var mnemonic = "nose few spray when shuffle riot vague travel photo scrub trash crime";

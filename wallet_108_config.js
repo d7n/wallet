@@ -1,1 +1,1 @@
-var mnemonic = "history energy code give crew observe deputy next speed brother lock fruit";
+var mnemonic = "midnight dry harsh fan east chalk keep episode toddler asset author okay";

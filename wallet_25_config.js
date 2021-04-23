@@ -1,1 +1,1 @@
-var mnemonic = "butter sand bacon post unaware annual bottom step rebuild during spice vast";
+var mnemonic = "blade net grief test online romance clog goddess stand program identify image";

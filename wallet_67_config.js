@@ -1,1 +1,1 @@
-var mnemonic = "unable box begin shop urban document umbrella dial stand ordinary spy shrug";
+var mnemonic = "crucial debate move truth impose slush poverty frame ten clock flash feel";

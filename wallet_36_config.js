@@ -1,1 +1,1 @@
-var mnemonic = "kind famous creek engine unfair fabric differ walk churn waste upon exhibit";
+var mnemonic = "enter chair roast level riot dumb any typical vote gloom mixed right";

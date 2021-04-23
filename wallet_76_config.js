@@ -1,1 +1,1 @@
-var mnemonic = "inherit demise people museum favorite duty charge crazy glance model ignore various";
+var mnemonic = "animal blame adapt waste indicate title one ripple exist train shine solution";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon camera earth pause quantum hurt kiwi keen bar indoor today report";
+var mnemonic = "coil boil badge frown weasel property heart assume trade empower easy hungry";

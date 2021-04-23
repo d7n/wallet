@@ -1,1 +1,1 @@
-var mnemonic = "image barrel sell caught unfair shove monster column army review afraid rich";
+var mnemonic = "original alpha elder helmet fork ensure nuclear review appear present hour century";

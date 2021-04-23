@@ -1,1 +1,1 @@
-var mnemonic = "always attack broccoli napkin million gallery web junior van clarify coffee chronic";
+var mnemonic = "term confirm youth scan you mesh blood birth always south happy skull";

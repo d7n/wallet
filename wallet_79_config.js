@@ -1,1 +1,1 @@
-var mnemonic = "pudding argue more comfort vault fade course dice knife similar welcome dial";
+var mnemonic = "bread aerobic sick jungle hockey antique void piano oil one grab small";

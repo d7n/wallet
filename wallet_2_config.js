@@ -1,1 +1,1 @@
-var mnemonic = "spirit become crunch hand near disorder supreme busy latin mom win blast";
+var mnemonic = "jump shed shield angry buffalo brisk feed check grape parade book select";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz clutch giraffe trick pull apple visa venture must present easily enough";
+var mnemonic = "tunnel remain good lonely rally reopen badge network garbage embody echo faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey atom index common elegant guitar cherry move say chicken lend chase";
+var mnemonic = "dish exclude symbol ginger praise absent segment trade extend swim day survey";

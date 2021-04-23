@@ -1,1 +1,1 @@
-var mnemonic = "cricket level else more domain hundred fat butter memory omit decrease arena";
+var mnemonic = "edit erase drip wheat brush enrich pyramid mad patient bundle nest flock";

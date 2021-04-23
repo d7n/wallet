@@ -1,1 +1,1 @@
-var mnemonic = "method absorb guitar circle fossil good laundry awkward dad laundry message leg";
+var mnemonic = "option whale beyond traffic light decide toy rather brisk uncle trim giraffe";

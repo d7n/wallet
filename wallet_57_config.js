@@ -1,1 +1,1 @@
-var mnemonic = "soft barrel behave reason actual sustain radar minute humor stock antenna usage";
+var mnemonic = "common capable clump fee chalk hobby small muscle spirit ticket pepper prison";

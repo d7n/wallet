@@ -1,1 +1,1 @@
-var mnemonic = "neglect tooth mushroom horn match equal civil wave then fault cause face";
+var mnemonic = "upgrade switch host milk strong cereal industry alley poet toddler tag load";

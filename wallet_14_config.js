@@ -1,1 +1,1 @@
-var mnemonic = "runway emotion cage rely blade wage memory tribe kangaroo seed gorilla air";
+var mnemonic = "venue evoke wash beach play assist shove nuclear marble put agent media";

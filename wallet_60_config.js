@@ -1,1 +1,1 @@
-var mnemonic = "traffic major remind comfort element print unit inflict manage snap age violin";
+var mnemonic = "pipe fruit grocery silly chronic same across symptom wasp brief taste grocery";

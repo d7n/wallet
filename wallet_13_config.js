@@ -1,1 +1,1 @@
-var mnemonic = "swing wool hill crunch gate mandate globe enable defy depend fetch energy";
+var mnemonic = "theory plunge comic panic priority snow pink afraid lazy intact bunker onion";

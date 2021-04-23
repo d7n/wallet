@@ -1,1 +1,1 @@
-var mnemonic = "viable wish crowd antique motion camp wine smile rapid pitch pride matrix";
+var mnemonic = "walnut debris cheap galaxy limit zoo sail index three surge tide flash";

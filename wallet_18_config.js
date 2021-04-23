@@ -1,1 +1,1 @@
-var mnemonic = "repeat perfect face female ivory unknown main length steel census clutch veteran";
+var mnemonic = "ghost garden wait cram satisfy potato avoid wish ready regret exotic galaxy";

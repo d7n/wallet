@@ -1,1 +1,1 @@
-var mnemonic = "exotic census myth culture green hobby proof nation leader wink father plastic";
+var mnemonic = "expect usage roast soda symbol gesture tongue find space tray nominee track";

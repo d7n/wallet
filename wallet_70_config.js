@@ -1,1 +1,1 @@
-var mnemonic = "police admit shrug pottery ride rare tiger follow skin harbor frozen drastic";
+var mnemonic = "dragon bird bag love toe pilot lunch tragic cave category income host";

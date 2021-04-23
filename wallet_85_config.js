@@ -1,1 +1,1 @@
-var mnemonic = "public license enhance tilt motor fatigue fan depart gravity maximum afraid brief";
+var mnemonic = "raw pet talk agree finish monster close kingdom clarify sword panic message";

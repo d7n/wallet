@@ -1,1 +1,1 @@
-var mnemonic = "head wash deliver act measure caught weather around impact kitten found convince";
+var mnemonic = "help resemble parrot mirror camera session morning lounge chuckle crime resource average";

@@ -1,1 +1,1 @@
-var mnemonic = "below target chuckle era loop exercise neither pottery bless sand there cherry";
+var mnemonic = "pyramid meat citizen alert wedding umbrella butter combine artist meat flip announce";

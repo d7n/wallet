@@ -1,1 +1,1 @@
-var mnemonic = "guess course hybrid hockey grab rib despair huge armed name search hamster";
+var mnemonic = "interest physical velvet toast staff rose engine bicycle elbow census embody mushroom";

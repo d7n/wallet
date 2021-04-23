@@ -1,1 +1,1 @@
-var mnemonic = "muscle kiwi angry rescue select hollow end romance picture envelope amazing easily";
+var mnemonic = "toss undo seed silk essay exile size divert image envelope mixed stove";

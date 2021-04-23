@@ -1,1 +1,1 @@
-var mnemonic = "hunt suggest strong tortoise target morning joke style kind spoon owner bronze";
+var mnemonic = "meat primary grape party robust hybrid hedgehog suspect pear tag apple swamp";

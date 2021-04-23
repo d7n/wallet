@@ -1,1 +1,1 @@
-var mnemonic = "welcome solid bubble school escape space wonder embody street team ill column";
+var mnemonic = "cricket improve aim chaos apple board arrange radio divorce drop pipe lady";

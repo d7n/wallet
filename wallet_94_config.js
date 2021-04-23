@@ -1,1 +1,1 @@
-var mnemonic = "ugly always window beyond divide toss across case scrub cave ride will";
+var mnemonic = "amused cake congress pink sand dutch spot enroll dust rescue avocado tank";

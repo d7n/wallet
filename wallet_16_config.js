@@ -1,1 +1,1 @@
-var mnemonic = "repair allow lottery risk once ghost hello couple nation journey hawk team";
+var mnemonic = "place junior goose toast stumble symbol coast mosquito marine width wrist method";

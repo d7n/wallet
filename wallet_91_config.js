@@ -1,1 +1,1 @@
-var mnemonic = "cradle believe margin rival derive obscure sister clock word oblige sponsor genre";
+var mnemonic = "honey judge gravity pulp athlete pattern label hard punch ten final menu";

@@ -1,1 +1,1 @@
-var mnemonic = "punch crime recipe sick evil cake lunar elbow process stand harsh such";
+var mnemonic = "lift unique vote neutral vacant loop add derive junk web bright loan";

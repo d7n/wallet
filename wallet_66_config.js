@@ -1,1 +1,1 @@
-var mnemonic = "loop tell scale acquire coyote liar nest devote fix change income spray";
+var mnemonic = "emerge bench wave keen fence act quantum chest syrup asset saddle pledge";

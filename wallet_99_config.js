@@ -1,1 +1,1 @@
-var mnemonic = "imitate also useful coast file enforce dust already million act glide trick";
+var mnemonic = "idle grant dune old cradle kangaroo material enter equal coconut life unable";

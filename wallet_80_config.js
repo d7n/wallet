@@ -1,1 +1,1 @@
-var mnemonic = "exhaust thing ecology angle casual over pig tonight raccoon drastic pen settle";
+var mnemonic = "deer decide still hobby alley indicate orange kiss theory spy decide purity";

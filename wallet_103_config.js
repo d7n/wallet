@@ -1,1 +1,1 @@
-var mnemonic = "sun canyon assist sorry abstract payment drop range maximum galaxy what stamp";
+var mnemonic = "bachelor loop denial copy road sail labor inside match chaos day ability";

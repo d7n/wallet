@@ -1,1 +1,1 @@
-var mnemonic = "moment pride knee flush pledge knife more alcohol accuse ranch code trash";
+var mnemonic = "syrup advance cube plastic step series dash suggest festival scale gym design";

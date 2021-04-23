@@ -1,1 +1,1 @@
-var mnemonic = "throw pepper memory music acoustic reduce ready session pull abandon uncover same";
+var mnemonic = "advice copper nation evidence property season soon coach rate gorilla spider turtle";

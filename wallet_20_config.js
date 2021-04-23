@@ -1,1 +1,1 @@
-var mnemonic = "brown tent spatial insane omit next bicycle talk spend note plug strike";
+var mnemonic = "public great innocent woman jeans uncover inside thank denial suffer ride cactus";

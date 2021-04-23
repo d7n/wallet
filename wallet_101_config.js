@@ -1,1 +1,1 @@
-var mnemonic = "matrix army rate bright since aspect will absorb narrow idea trick immune";
+var mnemonic = "syrup claw develop olympic involve lens about front romance shadow confirm lobster";

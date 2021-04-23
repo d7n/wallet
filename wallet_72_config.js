@@ -1,1 +1,1 @@
-var mnemonic = "cannon option rookie sentence resemble slight pretty burst ridge title panda topic";
+var mnemonic = "lazy step rail prepare kit announce shell magnet pony mandate brown where";

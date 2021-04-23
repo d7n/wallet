@@ -1,1 +1,1 @@
-var mnemonic = "limb prefer rocket couple negative saddle call nerve since seed huge foam";
+var mnemonic = "impulse blood answer prevent deliver brother about ugly pen crouch excite dumb";

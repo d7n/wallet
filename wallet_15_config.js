@@ -1,1 +1,1 @@
-var mnemonic = "van panel exact silly mixed click amateur notable elite crazy eagle lumber";
+var mnemonic = "thunder ginger guilt van fruit light outer submit doctor impose party misery";

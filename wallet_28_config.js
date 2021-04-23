@@ -1,1 +1,1 @@
-var mnemonic = "seven process purity waste thumb turtle wrist silver country wear people hockey";
+var mnemonic = "food bottom devote race charge crash file cook staff uncle online barrel";

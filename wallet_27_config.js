@@ -1,1 +1,1 @@
-var mnemonic = "certain purity school forget human derive twice awesome aerobic dry crystal organ";
+var mnemonic = "slim tower wise taste confirm toss script smile artwork smile pledge flash";

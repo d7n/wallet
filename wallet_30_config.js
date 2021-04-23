@@ -1,1 +1,1 @@
-var mnemonic = "parrot cook blame asthma keep wrestle fit indicate lend stereo vocal carpet";
+var mnemonic = "glue angle outside unit audit tenant inner miracle treat fee hen current";

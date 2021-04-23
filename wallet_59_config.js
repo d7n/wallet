@@ -1,1 +1,1 @@
-var mnemonic = "reject heavy easy trick tooth sniff badge air lava range unhappy child";
+var mnemonic = "sword nothing transfer acquire organ frame tortoise decorate off size farm desk";

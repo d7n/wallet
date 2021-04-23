@@ -1,1 +1,1 @@
-var mnemonic = "cigar syrup since chief figure novel fit put ticket undo crowd place";
+var mnemonic = "inherit reopen diet angry genre still debate report fall victory decline road";

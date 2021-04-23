@@ -1,1 +1,1 @@
-var mnemonic = "disorder smart country main cost pottery mule lunch office license pulp paper";
+var mnemonic = "spoil chapter release lift total suspect spread oxygen naive bleak settle pact";

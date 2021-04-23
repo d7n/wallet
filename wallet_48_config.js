@@ -1,1 +1,1 @@
-var mnemonic = "violin egg vocal symbol cash apology define allow traffic enemy mercy churn";
+var mnemonic = "spoil zero task present talk victory inquiry scrap language kiss advance october";

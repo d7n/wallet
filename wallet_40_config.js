@@ -1,1 +1,1 @@
-var mnemonic = "portion benefit come border mandate message crunch carpet step waste cricket lift";
+var mnemonic = "joy permit author install tomorrow acid hobby refuse either veteran frown there";

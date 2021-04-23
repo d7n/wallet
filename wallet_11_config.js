@@ -1,1 +1,1 @@
-var mnemonic = "pave around tiny black olive avocado cross amount shine cloud gap method";
+var mnemonic = "loan fold notice federal pitch picture luxury vast improve ocean water top";

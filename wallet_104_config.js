@@ -1,1 +1,1 @@
-var mnemonic = "sick curtain same soap busy scrap snap hard anchor amount awake barrel";
+var mnemonic = "near just angle invest menu town divide advance deliver pretty rocket one";

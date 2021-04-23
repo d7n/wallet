@@ -1,1 +1,1 @@
-var mnemonic = "salon upper travel level drama same wait middle betray burden wife mystery";
+var mnemonic = "female barrel coin glory insect exclude adult word tunnel prepare essence obtain";

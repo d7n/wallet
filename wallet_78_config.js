@@ -1,1 +1,1 @@
-var mnemonic = "fish gravity explain situate flat leisure motion sausage crush concert whip document";
+var mnemonic = "exotic wood defy hold gasp orient excite supreme chuckle sting forest craft";

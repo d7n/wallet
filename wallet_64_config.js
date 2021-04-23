@@ -1,1 +1,1 @@
-var mnemonic = "owner ranch pledge approve tobacco weekend spoon asset choose ladder panther into";
+var mnemonic = "patch mutual prison ribbon luxury quote feed innocent muffin people slide copper";

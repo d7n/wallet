@@ -1,1 +1,1 @@
-var mnemonic = "ready tail steak icon monitor ill glimpse base disagree gravity mention tiny";
+var mnemonic = "depart budget remain fever animal indoor venture fluid price fault boat lend";

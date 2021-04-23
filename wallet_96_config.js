@@ -1,1 +1,1 @@
-var mnemonic = "chat survey valley use expand swim cruel push field hen soft jacket";
+var mnemonic = "raise topple few release shrug scene drum riot gain night text day";
