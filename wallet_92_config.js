@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur album pledge sock essay certain win enjoy plate over grace flat";
+var mnemonic = "artwork wool network apart jaguar alter when almost hair pole empower inquiry";

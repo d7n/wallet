@@ -1,1 +1,1 @@
-var mnemonic = "humble team chapter road image pupil interest toss swing skill ten into";
+var mnemonic = "arrive mechanic nature history park trash wife bread script exhibit sound fluid";

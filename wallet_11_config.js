@@ -1,1 +1,1 @@
-var mnemonic = "caution swear dance diamond uphold potato lunch little gadget stick conduct battle";
+var mnemonic = "vocal zone rocket aware rough lottery bread flush buddy lab retreat amateur";

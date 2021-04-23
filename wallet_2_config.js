@@ -1,1 +1,1 @@
-var mnemonic = "honey electric junior faint pill mesh glide actual above thought virus sorry";
+var mnemonic = "either upon wisdom weasel appear crew coconut bicycle bridge method ensure that";

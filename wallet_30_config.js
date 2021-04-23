@@ -1,1 +1,1 @@
-var mnemonic = "melt message library act roast cousin yellow surface excuse top bone sport";
+var mnemonic = "panther annual pledge pipe auction opera fresh team inside horse later impose";

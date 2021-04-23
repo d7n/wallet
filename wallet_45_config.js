@@ -1,1 +1,1 @@
-var mnemonic = "bread lawn apart lucky stairs police knife raven glory mind area absurd";
+var mnemonic = "wild obey grocery swift lumber bounce demand tornado hold beach stumble chair";

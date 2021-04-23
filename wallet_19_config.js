@@ -1,1 +1,1 @@
-var mnemonic = "stem vocal trip chimney enact market piece day fortune charge bounce split";
+var mnemonic = "birth violin robot end meadow suggest electric rate joy regular stem ticket";

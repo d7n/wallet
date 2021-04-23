@@ -1,1 +1,1 @@
-var mnemonic = "modify main north clinic muffin snow business october rigid double light detail";
+var mnemonic = "math solar diesel scorpion chat trick maid tattoo enforce blue stone blast";

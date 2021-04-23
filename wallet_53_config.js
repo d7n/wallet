@@ -1,1 +1,1 @@
-var mnemonic = "desk fox pig range spider ability tooth ketchup gravity chef mushroom defy";
+var mnemonic = "boring actor cram already wrap normal soda else ball income room crisp";

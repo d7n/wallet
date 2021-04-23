@@ -1,1 +1,1 @@
-var mnemonic = "globe measure spell power extra distance mad chapter rate hen crack rib";
+var mnemonic = "lunar have body level net expand wheel already food excess early ozone";

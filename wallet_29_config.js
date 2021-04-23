@@ -1,1 +1,1 @@
-var mnemonic = "field dolphin nice olive moon close nerve tiny roast super essence trip";
+var mnemonic = "magnet aisle ranch endorse jaguar success else festival once vote alien sibling";

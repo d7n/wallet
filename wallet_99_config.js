@@ -1,1 +1,1 @@
-var mnemonic = "ten ice friend now cabin person gold order three purchase chef spy";
+var mnemonic = "era nose pepper source panic chat quiz leave total place jeans head";

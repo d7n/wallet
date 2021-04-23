@@ -1,1 +1,1 @@
-var mnemonic = "recall claw sad barely laptop payment garlic need burst movie vacant able";
+var mnemonic = "hover save hover paper frost struggle machine bike decide bleak regret suffer";

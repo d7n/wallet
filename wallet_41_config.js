@@ -1,1 +1,1 @@
-var mnemonic = "high assume kind call alarm spawn win stumble camp era shift arrest";
+var mnemonic = "ability library industry trade sleep winner canal gown simple perfect improve code";

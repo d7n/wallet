@@ -1,1 +1,1 @@
-var mnemonic = "punch vicious salad summer wear fee prize rug sight host sleep parrot";
+var mnemonic = "rule paddle regular globe swear tooth mandate exit hollow lazy reason potato";

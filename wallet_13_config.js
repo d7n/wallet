@@ -1,1 +1,1 @@
-var mnemonic = "more bench token metal marine rural race distance dad upset field imitate";
+var mnemonic = "acoustic shed letter question inflict mass elevator ready civil venture tourist course";

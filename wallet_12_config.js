@@ -1,1 +1,1 @@
-var mnemonic = "town kick brush lumber decline feed whale eternal chair manage walk margin";
+var mnemonic = "fault huge cushion ethics moment bleak phrase misery faint fruit turn load";

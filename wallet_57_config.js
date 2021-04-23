@@ -1,1 +1,1 @@
-var mnemonic = "float fatigue health today crunch basket supreme exclude put into amount joy";
+var mnemonic = "harvest depend maid bounce defy plate spin modify depth gift century math";

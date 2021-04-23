@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mule isolate black just degree umbrella eternal main orient safe muffin";
+var mnemonic = "sell fox episode idea else opinion myself educate drum acid breeze stable";

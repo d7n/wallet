@@ -1,1 +1,1 @@
-var mnemonic = "renew bar hybrid bottom excite busy weekend absent blame carpet file museum";
+var mnemonic = "pelican chuckle survey nurse cannon bus one spread twenty program hospital trumpet";

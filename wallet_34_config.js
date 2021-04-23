@@ -1,1 +1,1 @@
-var mnemonic = "useless undo animal raven wife lesson age code flee hunt together illegal";
+var mnemonic = "shrug cart leg copper also drum proud pet keep speed success lock";

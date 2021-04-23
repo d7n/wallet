@@ -1,1 +1,1 @@
-var mnemonic = "section auto kiwi avocado person reveal install voyage galaxy dove rebel poverty";
+var mnemonic = "medal glimpse erase place wrong extra cave later pen dawn potato banana";

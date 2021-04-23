@@ -1,1 +1,1 @@
-var mnemonic = "crystal audit fatal foil doll drive grain claim twice permit foster child";
+var mnemonic = "stairs habit genuine muffin crisp crop census forward egg normal expire rotate";

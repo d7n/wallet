@@ -1,1 +1,1 @@
-var mnemonic = "twice remove collect person view cake saddle below common stove ski cruel";
+var mnemonic = "seven escape lawsuit sorry sure welcome globe donate slab lamp moment delay";

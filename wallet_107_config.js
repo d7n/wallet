@@ -1,1 +1,1 @@
-var mnemonic = "globe fat pepper half sorry furnace reward pair romance alpha short box";
+var mnemonic = "wasp arena reflect medal chapter boat matter retreat behind duck shed tiny";

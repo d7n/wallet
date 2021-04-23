@@ -1,1 +1,1 @@
-var mnemonic = "lamp hunt guide soul anxiety benefit found clinic burst rubber pear frozen";
+var mnemonic = "army buyer harsh arrest disagree long much upper catalog diesel tackle hero";

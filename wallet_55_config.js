@@ -1,1 +1,1 @@
-var mnemonic = "demand online assume school food depth six orange grace thumb lift comic";
+var mnemonic = "champion position rare senior world version bench torch burst limb avoid egg";

@@ -1,1 +1,1 @@
-var mnemonic = "biology step pulp claw connect engage clip plug two moment bachelor zoo";
+var mnemonic = "fly hair enroll donkey manage sample angle admit firm husband resource glide";

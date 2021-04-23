@@ -1,1 +1,1 @@
-var mnemonic = "rely repeat machine own despair upon next tree myself doctor bronze wish";
+var mnemonic = "improve vessel tired olympic draw ten before indicate call wish daring hero";

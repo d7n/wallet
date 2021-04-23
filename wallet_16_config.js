@@ -1,1 +1,1 @@
-var mnemonic = "prefer begin powder imitate drift early bridge reject south sadness maximum february";
+var mnemonic = "health famous vote patient sorry garlic general rule squirrel protect until damage";

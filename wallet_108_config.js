@@ -1,1 +1,1 @@
-var mnemonic = "story plate blind muffin blush sadness limit daring scheme fat tape enable";
+var mnemonic = "best worth trade scene finish wink embody usual lens turtle pupil base";

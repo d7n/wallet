@@ -1,1 +1,1 @@
-var mnemonic = "black pass hen venue betray movie armor render drama hockey stay accident";
+var mnemonic = "celery term comic fitness photo ahead peace deny prosper nothing notable sail";

@@ -1,1 +1,1 @@
-var mnemonic = "april bread crouch avoid wrap cabin toy arena spare parent impact donor";
+var mnemonic = "helmet drip wise biology theme alpha space aim paper pause life sample";

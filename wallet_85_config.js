@@ -1,1 +1,1 @@
-var mnemonic = "else shallow parent grow brief absorb jealous debris success rent success liquid";
+var mnemonic = "wash spawn cover clip oval amateur brain thing dinosaur supply amazing remind";

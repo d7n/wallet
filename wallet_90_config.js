@@ -1,1 +1,1 @@
-var mnemonic = "winter reflect finish level today shadow silent pulse inform vague soon crouch";
+var mnemonic = "trap scissors upon scheme airport cake gorilla input employ celery file hip";

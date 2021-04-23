@@ -1,1 +1,1 @@
-var mnemonic = "space captain liquid danger attitude sand nest dolphin later jacket gravity regular";
+var mnemonic = "rapid word oven turtle good enrich blade large master away glass immense";

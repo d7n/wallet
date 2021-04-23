@@ -1,1 +1,1 @@
-var mnemonic = "debris hat cost little stove ostrich short way burst decide trouble people";
+var mnemonic = "tooth glance absurd parrot about muffin witness upgrade across number tooth doll";

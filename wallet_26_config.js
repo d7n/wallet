@@ -1,1 +1,1 @@
-var mnemonic = "increase memory entire mechanic salute hand dice oak oyster case pact artefact";
+var mnemonic = "reflect doll act drastic jar album net furnace rude add combine minute";

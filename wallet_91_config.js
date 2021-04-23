@@ -1,1 +1,1 @@
-var mnemonic = "romance quarter much moral comic ritual betray decide spike tide force march";
+var mnemonic = "connect novel sun buddy noise blame kid borrow swing talk insane blur";

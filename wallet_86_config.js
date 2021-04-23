@@ -1,1 +1,1 @@
-var mnemonic = "must pepper flower trumpet reflect patch icon bamboo duck prefer anger honey";
+var mnemonic = "vault demise humble neglect cotton marble meadow science burden convince kidney chat";

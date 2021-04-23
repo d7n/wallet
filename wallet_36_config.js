@@ -1,1 +1,1 @@
-var mnemonic = "cat assault bounce second mom marriage woman spy clap egg youth warrior";
+var mnemonic = "online entry viable fury right bubble bird glow tiny nest symptom minimum";

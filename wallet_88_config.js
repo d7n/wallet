@@ -1,1 +1,1 @@
-var mnemonic = "arrest embrace trust gaze hybrid exchange crumble range speak agree ready actress";
+var mnemonic = "sister gasp stadium match top sting rain crazy crazy cover toss claim";

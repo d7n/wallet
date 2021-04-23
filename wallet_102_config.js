@@ -1,1 +1,1 @@
-var mnemonic = "robot grid door control nerve remain clip jelly member drip scene tiny";
+var mnemonic = "degree describe wood make case label warfare off bean power setup water";

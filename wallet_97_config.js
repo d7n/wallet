@@ -1,1 +1,1 @@
-var mnemonic = "ball jewel guard pact sea shoe example empty unaware reduce nasty today";
+var mnemonic = "blast possible camp economy differ proof february because health okay winter birth";

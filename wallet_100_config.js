@@ -1,1 +1,1 @@
-var mnemonic = "citizen mutual obscure mercy arm reduce check few beauty bleak north mirror";
+var mnemonic = "scan girl shuffle soon vague face cancel hill initial creek horse wrong";

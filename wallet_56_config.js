@@ -1,1 +1,1 @@
-var mnemonic = "matrix female crop discover minimum salute tool cycle embrace spring stone suffer";
+var mnemonic = "letter smile asset lion property topic aisle real jump model permit mirror";

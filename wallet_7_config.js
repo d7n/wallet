@@ -1,1 +1,1 @@
-var mnemonic = "unable hidden sorry stomach three border thing problem protect episode paper party";
+var mnemonic = "stand all below program fantasy vote oil notable account blast elder seminar";

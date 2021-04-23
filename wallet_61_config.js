@@ -1,1 +1,1 @@
-var mnemonic = "bike inhale iron problem verb bless priority heavy endorse lemon hedgehog panther";
+var mnemonic = "above marble turtle gauge aunt ivory matrix foil avoid index ensure surprise";

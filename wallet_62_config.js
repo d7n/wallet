@@ -1,1 +1,1 @@
-var mnemonic = "hospital maze deer three because sea draft weird fiscal patient author cushion";
+var mnemonic = "narrow good wood plunge rubber system boy eight print drum injury success";

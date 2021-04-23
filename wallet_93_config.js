@@ -1,1 +1,1 @@
-var mnemonic = "summer index student remove gun success industry advance interest repair price team";
+var mnemonic = "sunny discover brave trouble tank worth board clog hover ticket rigid stay";

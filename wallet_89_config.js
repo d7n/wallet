@@ -1,1 +1,1 @@
-var mnemonic = "hockey desert expose script target venue multiply innocent write early burger rescue";
+var mnemonic = "vital slam easy laundry security tonight recall check adult stereo trial laugh";

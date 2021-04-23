@@ -1,1 +1,1 @@
-var mnemonic = "stool reduce save service color jealous pottery render tone camera roast term";
+var mnemonic = "offer audit imitate test ugly midnight reduce march text sort merit sun";

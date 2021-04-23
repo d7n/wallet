@@ -1,1 +1,1 @@
-var mnemonic = "position interest beach dash blossom knife toast around crane naive acid pig";
+var mnemonic = "bread muffin erase buffalo easily angle recall job spread wage menu kitten";

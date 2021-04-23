@@ -1,1 +1,1 @@
-var mnemonic = "assume artwork luggage matter brave record canoe leader write birth armed door";
+var mnemonic = "effort obvious hospital picture permit list endorse traffic habit essay define battle";

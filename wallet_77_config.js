@@ -1,1 +1,1 @@
-var mnemonic = "legend heavy capital industry reward trust era fix glory media park try";
+var mnemonic = "category crush ring type jaguar easy weapon okay system edit have atom";

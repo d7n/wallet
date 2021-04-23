@@ -1,1 +1,1 @@
-var mnemonic = "picture execute view over mule document initial carpet possible sport machine boil";
+var mnemonic = "fatal say body cabin inhale tired cotton receive around inquiry genre patient";

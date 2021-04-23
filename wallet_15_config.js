@@ -1,1 +1,1 @@
-var mnemonic = "oyster gloom idle defense veteran much lift affair staff vapor dwarf top";
+var mnemonic = "talk sell lion follow muffin afford talk visit truth perfect trouble toast";

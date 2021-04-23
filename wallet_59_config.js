@@ -1,1 +1,1 @@
-var mnemonic = "convince gun trumpet behave token such bamboo credit idle bridge admit rhythm";
+var mnemonic = "pill alcohol involve tennis drip crew notable hub impact outer wool swarm";

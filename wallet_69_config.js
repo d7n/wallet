@@ -1,1 +1,1 @@
-var mnemonic = "lumber web south file enjoy again panther fix machine nature multiply artwork";
+var mnemonic = "want bird reward distance buffalo injury people okay marine impulse post butter";

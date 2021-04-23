@@ -1,1 +1,1 @@
-var mnemonic = "basket switch secret topic enact supreme sadness amazing climb absurd skate average";
+var mnemonic = "chronic robust sunny nation test wisdom century soda wise green claim naive";

@@ -1,1 +1,1 @@
-var mnemonic = "motor permit this tube collect cattle artefact keep pole only topic collect";
+var mnemonic = "nut purchase chase gap satoshi omit rough conduct cradle duck expose auto";

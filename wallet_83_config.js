@@ -1,1 +1,1 @@
-var mnemonic = "vague update choice lock plastic smooth program rebel patrol service document jelly";
+var mnemonic = "auction antique art birth woman reflect net ceiling whale side lyrics rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "cook salt scheme unique cost layer fault siege elder remain orbit short";
+var mnemonic = "best decorate peanut giggle setup tomorrow isolate planet flash toward evil obvious";

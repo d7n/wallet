@@ -1,1 +1,1 @@
-var mnemonic = "gloom topple neutral balance pretty useless bean inside inside practice pull entry";
+var mnemonic = "hollow embark nuclear soul kitchen trend assist nice figure old stamp chair";

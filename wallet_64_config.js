@@ -1,1 +1,1 @@
-var mnemonic = "explain axis girl inner hobby roof share dwarf fatigue liquid squirrel split";
+var mnemonic = "appear ability issue garage adult differ topple swift opera sunset solid kick";

@@ -1,1 +1,1 @@
-var mnemonic = "used label ankle supply try notable moment timber city denial verb ginger";
+var mnemonic = "wet vacant prize candy awful upon scare truly industry battle again peace";

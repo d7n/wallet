@@ -1,1 +1,1 @@
-var mnemonic = "three else snow bubble nice spatial blossom rescue shuffle kiss half alley";
+var mnemonic = "public ribbon goat acoustic beyond sample before night juice cattle build unit";

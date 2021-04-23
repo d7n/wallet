@@ -1,1 +1,1 @@
-var mnemonic = "bright try phrase carpet smart fashion beef tomorrow quantum pig tree warm";
+var mnemonic = "confirm rib foam myself math gift debris diary ticket extend enrich install";

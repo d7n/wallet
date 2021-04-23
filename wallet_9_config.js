@@ -1,1 +1,1 @@
-var mnemonic = "cat normal gas pave thunder crisp annual pistol flee citizen record layer";
+var mnemonic = "fog collect pyramid door later marble tissue length taxi scrub modify light";

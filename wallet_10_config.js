@@ -1,1 +1,1 @@
-var mnemonic = "patient rule toy hollow tortoise own bone rubber garbage potato begin animal";
+var mnemonic = "business weather scout sadness sure obey bracket smart earn life cinnamon enact";

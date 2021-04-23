@@ -1,1 +1,1 @@
-var mnemonic = "bread harbor prize icon solution fly empower unable elegant observe nation wall";
+var mnemonic = "retire during village spatial rough pencil symptom travel primary box final ostrich";

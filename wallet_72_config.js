@@ -1,1 +1,1 @@
-var mnemonic = "leaf creek wild shed second episode diamond era off rate program truly";
+var mnemonic = "fresh rookie shove rally boring climb force fuel hair laundry amused network";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow crazy enforce desert olive sing ticket faith clock burst snake scrap";
+var mnemonic = "dune mesh solid theme skate because rare cause pottery elegant acquire absorb";

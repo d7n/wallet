@@ -1,1 +1,1 @@
-var mnemonic = "spread hobby tennis diary veteran code forget recipe mother recipe liberty obscure";
+var mnemonic = "cup discover inhale crop early cradle waste surprise decrease tail excuse oven";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey until canyon genre sense auto coin dial annual renew tenant theory";
+var mnemonic = "autumn seed lady sentence pulse pride tent warrior aim today mother plunge";

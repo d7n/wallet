@@ -1,1 +1,1 @@
-var mnemonic = "large hobby defense silly will oyster casual chimney jar earth surge beach";
+var mnemonic = "zero kitten view start write dad gaze wreck manage photo enact envelope";

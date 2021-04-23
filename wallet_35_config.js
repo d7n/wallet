@@ -1,1 +1,1 @@
-var mnemonic = "company liar nut tissue antenna grape pave wife describe artefact pave lyrics";
+var mnemonic = "violin camp spoil dentist across mother little subway crawl detect fatal trick";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic rug mobile world decide file middle kangaroo disease ritual gain salon";
+var mnemonic = "ship frog broken since deal science actual patrol rate lens remain age";

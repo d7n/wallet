@@ -1,1 +1,1 @@
-var mnemonic = "erase infant glance ivory exhaust fog entry head letter mean cycle vessel";
+var mnemonic = "genre piano festival ordinary slam raven dragon hurt inner crystal endorse nothing";

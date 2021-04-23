@@ -1,1 +1,1 @@
-var mnemonic = "conduct same try heavy width absorb hammer veteran off mutual little average";
+var mnemonic = "dose neglect license what bridge gown body foil deal child seminar second";

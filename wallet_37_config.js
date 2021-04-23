@@ -1,1 +1,1 @@
-var mnemonic = "close gather hollow forward group people profit wasp gift video still lava";
+var mnemonic = "drink inject art deliver safe chief abandon stool float work bid police";

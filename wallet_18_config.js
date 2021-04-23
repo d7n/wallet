@@ -1,1 +1,1 @@
-var mnemonic = "limb ugly cloth people burst flee beyond acquire piano grief bulb spawn";
+var mnemonic = "cook hospital token medal icon wall razor voice autumn rebel general correct";

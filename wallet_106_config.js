@@ -1,1 +1,1 @@
-var mnemonic = "question nephew yard mansion blind zoo castle swim pulp base orchard bid";
+var mnemonic = "unlock feed rate solar provide acid spatial head oval laugh confirm need";

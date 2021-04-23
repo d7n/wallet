@@ -1,1 +1,1 @@
-var mnemonic = "cross rose outdoor wisdom absorb huge useless dinosaur try spatial much shy";
+var mnemonic = "mixture armed spot neither spring butter hour habit okay aware awful apple";

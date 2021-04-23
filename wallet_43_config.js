@@ -1,1 +1,1 @@
-var mnemonic = "curious lizard hire brush trigger elegant pill fancy remember orphan merit face";
+var mnemonic = "joke hurt document blast margin pipe indoor hen fit waste arm draft";

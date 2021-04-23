@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bronze song traffic hockey guide ring adult upon moment pet wonder";
+var mnemonic = "afraid bring lava spread flag embody solar swing year logic occur glance";

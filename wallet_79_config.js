@@ -1,1 +1,1 @@
-var mnemonic = "vague moment exhibit access strike coffee fancy fly unfold visit rude sketch";
+var mnemonic = "toss abuse clarify wreck welcome ride capable buffalo alter width matter reopen";

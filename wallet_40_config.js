@@ -1,1 +1,1 @@
-var mnemonic = "round figure slush myself lady enlist work crowd air consider fault clock";
+var mnemonic = "source curious alpha depart wool hundred grief near indoor hand delay balance";

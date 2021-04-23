@@ -1,1 +1,1 @@
-var mnemonic = "question pigeon jaguar size country column bubble grit dance dune trap keen";
+var mnemonic = "air section sauce scheme rocket rate avocado cruel merry solid rigid column";

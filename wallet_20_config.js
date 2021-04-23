@@ -1,1 +1,1 @@
-var mnemonic = "learn object settle potato bitter pause turkey category half buddy income train";
+var mnemonic = "magnet screen shed spoil kitchen cancel pond predict develop plunge whale antique";
