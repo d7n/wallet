@@ -1,1 +1,1 @@
-var mnemonic = "ship claim clap force monster defy logic test alpha buddy soda device";
+var mnemonic = "service practice help treat banner utility picnic ensure raccoon caught lab head";

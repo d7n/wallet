@@ -1,1 +1,1 @@
-var mnemonic = "fault off cable nut thumb ensure domain equal book vacant frown random";
+var mnemonic = "own decorate orient camera birth company limit edit flip bridge tag chase";

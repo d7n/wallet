@@ -1,1 +1,1 @@
-var mnemonic = "load evil merit honey ranch world clean flavor visual tent neutral bulb";
+var mnemonic = "iron metal skirt force muscle trend life parade heavy sting special disagree";

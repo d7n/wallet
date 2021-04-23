@@ -1,1 +1,1 @@
-var mnemonic = "fuel prosper issue lottery glare auction place shine vital off refuse seven";
+var mnemonic = "true spray flight detail verify become kangaroo peasant guess tackle sting install";

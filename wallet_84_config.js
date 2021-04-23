@@ -1,1 +1,1 @@
-var mnemonic = "rhythm crazy worth alone cycle ceiling patrol kitchen rice notable remove hair";
+var mnemonic = "blue fame practice mesh mixture story shadow captain minor nest cross want";

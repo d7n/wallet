@@ -1,1 +1,1 @@
-var mnemonic = "weasel brave math island humble buffalo mask zebra crane forum exit plunge";
+var mnemonic = "sister ignore hundred disease quantum parent across monkey property field segment industry";

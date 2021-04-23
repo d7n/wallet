@@ -1,1 +1,1 @@
-var mnemonic = "reform poverty job bundle chunk during neglect equal disagree blanket syrup tomorrow";
+var mnemonic = "supply furnace believe track harvest media there surprise broccoli object hamster vocal";

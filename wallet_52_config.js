@@ -1,1 +1,1 @@
-var mnemonic = "poem master element office pupil image quote cloth random brother adult ignore";
+var mnemonic = "hamster tray elder loud bone syrup oyster snack stamp cram pluck fringe";

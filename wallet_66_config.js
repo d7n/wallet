@@ -1,1 +1,1 @@
-var mnemonic = "bitter sunny cover similar belt measure among strike rapid bridge labor accuse";
+var mnemonic = "recycle bind resemble cool thought endorse puzzle gallery digital child design board";

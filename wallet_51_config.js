@@ -1,1 +1,1 @@
-var mnemonic = "verb squirrel happy actor card monitor blood answer car consider debris acid";
+var mnemonic = "usage disease bullet observe champion second cereal heavy upgrade series virtual culture";

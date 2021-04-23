@@ -1,1 +1,1 @@
-var mnemonic = "kind excess they mobile certain defy bamboo brown course helmet advance pluck";
+var mnemonic = "fury kick tobacco actress seven easy grain fee fortune rate noodle waste";

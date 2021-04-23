@@ -1,1 +1,1 @@
-var mnemonic = "foam federal off prevent trouble want lucky direct stone stage fiber pave";
+var mnemonic = "can artist job antique enter infant step march inner village purchase win";

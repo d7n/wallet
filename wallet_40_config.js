@@ -1,1 +1,1 @@
-var mnemonic = "dismiss onion gorilla panel argue dignity detect then escape spare festival mean";
+var mnemonic = "sauce inhale sense neither wild prefer assume normal half review inspire surface";

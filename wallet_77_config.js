@@ -1,1 +1,1 @@
-var mnemonic = "permit deputy clip used decade silver lounge result reduce used fatigue scan";
+var mnemonic = "recycle clay floor tissue nuclear forget become turn forest motor glare immune";

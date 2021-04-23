@@ -1,1 +1,1 @@
-var mnemonic = "paper opinion innocent sport direct teach firm range suit bicycle pave mean";
+var mnemonic = "mistake old vicious decrease road uncover child earn hole bright wealth glory";

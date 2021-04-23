@@ -1,1 +1,1 @@
-var mnemonic = "belt census home debris gate farm thrive coin just flee endorse hurdle";
+var mnemonic = "sorry obvious crush only detail hip emerge absurd wedding artefact defy cruel";

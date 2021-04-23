@@ -1,1 +1,1 @@
-var mnemonic = "drift army west animal entire right impose trend task lazy donor cushion";
+var mnemonic = "apart oppose practice whisper future chunk jump alpha tower luxury artefact olympic";

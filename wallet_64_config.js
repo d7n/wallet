@@ -1,1 +1,1 @@
-var mnemonic = "eye obscure river frown liar later tennis bind fringe lift shiver jelly";
+var mnemonic = "round menu borrow trap afford spend inch box woman spawn short smooth";

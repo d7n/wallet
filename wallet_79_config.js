@@ -1,1 +1,1 @@
-var mnemonic = "speak table blue danger such major thought prepare rib leopard paper dress";
+var mnemonic = "empower cruise cliff couch border movie display leg combine ripple gorilla diet";

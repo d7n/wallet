@@ -1,1 +1,1 @@
-var mnemonic = "argue heavy river chunk net useless demand pull have reject lab quote";
+var mnemonic = "supply front strategy brief choice rude word disorder final march step photo";

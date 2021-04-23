@@ -1,1 +1,1 @@
-var mnemonic = "brother tide wool annual glory fruit confirm forget abstract pitch satisfy soccer";
+var mnemonic = "volume brisk dismiss bottom verify depth parade clap cushion cat pool maze";

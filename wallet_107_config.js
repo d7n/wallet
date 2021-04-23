@@ -1,1 +1,1 @@
-var mnemonic = "effort butter garment kiwi can sunset tortoise tent cave angry quality camera";
+var mnemonic = "wash similar employ hover give divide sudden knee ring captain spawn sausage";

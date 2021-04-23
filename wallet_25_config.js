@@ -1,1 +1,1 @@
-var mnemonic = "pause whale buffalo attack soon dawn magic museum valve moon provide angle";
+var mnemonic = "candy subject special public rice wagon fit december inch vehicle kitten expose";

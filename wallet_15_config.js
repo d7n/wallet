@@ -1,1 +1,1 @@
-var mnemonic = "bullet provide cube captain dumb boy drift sad budget nurse hurt asset";
+var mnemonic = "pretty fit blade message bike mammal dove next any transfer coin length";

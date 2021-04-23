@@ -1,1 +1,1 @@
-var mnemonic = "long wealth aisle salt birth use paddle exact pond belt cup sketch";
+var mnemonic = "twin panic license detail target electric crumble arctic hint online off sea";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect spare gun during laundry benefit crucial length observe reject demand liberty";
+var mnemonic = "diamond lemon second meadow border reduce opera happy broccoli direct useless forward";

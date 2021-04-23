@@ -1,1 +1,1 @@
-var mnemonic = "confirm pool sister weasel lake one thank side donate victory december armor";
+var mnemonic = "cattle donate ocean knock drastic river auto unit master message visit must";

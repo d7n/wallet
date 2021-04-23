@@ -1,1 +1,1 @@
-var mnemonic = "doll move habit track doctor grab letter hair box century cricket kiwi";
+var mnemonic = "ribbon level camera radar parade leader lunar stem seven only ahead explain";

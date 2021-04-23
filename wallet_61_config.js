@@ -1,1 +1,1 @@
-var mnemonic = "drink bleak render market eager scatter ready push smile current chest snap";
+var mnemonic = "earth source bind attend gadget used slender trophy dragon betray column night";

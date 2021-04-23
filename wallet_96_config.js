@@ -1,1 +1,1 @@
-var mnemonic = "ticket network course thank jealous army object coconut write surprise section garage";
+var mnemonic = "voice process churn spider chat sustain fire inflict route armor tonight sort";

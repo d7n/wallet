@@ -1,1 +1,1 @@
-var mnemonic = "critic water educate grape uncle wire yard dry sell liar dilemma move";
+var mnemonic = "stomach expand bird leg tip rival glad question sad cinnamon nut miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "next concert seat left daring soon vacuum parade invite spirit main nurse";
+var mnemonic = "blossom notice seed involve rib already jar slab pyramid angle gauge claw";

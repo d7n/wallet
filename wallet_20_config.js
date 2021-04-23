@@ -1,1 +1,1 @@
-var mnemonic = "decorate loyal drop blade ugly check lounge actor collect panic cradle frog";
+var mnemonic = "hen believe vicious donkey loan oak evidence equal dinosaur focus curve brand";

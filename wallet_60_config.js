@@ -1,1 +1,1 @@
-var mnemonic = "essence attitude unit meat ticket strategy provide album target endorse tone fuel";
+var mnemonic = "sustain cloud logic all cupboard echo fish around limb fish retire element";

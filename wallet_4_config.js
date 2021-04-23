@@ -1,1 +1,1 @@
-var mnemonic = "fancy lyrics aim prison cage foil clock favorite cost gown south slow";
+var mnemonic = "bid trigger skate plunge hen develop pyramid curious black observe bone fetch";

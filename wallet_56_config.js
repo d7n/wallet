@@ -1,1 +1,1 @@
-var mnemonic = "strong noodle fiber industry quality vault cinnamon fiscal news about zebra famous";
+var mnemonic = "resist vital plastic brother member grab hub negative canyon nut sure pink";

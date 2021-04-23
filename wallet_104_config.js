@@ -1,1 +1,1 @@
-var mnemonic = "sort release minute hour already bounce service rifle romance chalk lawsuit warfare";
+var mnemonic = "city confirm mother identify inject solve vanish initial prison rely biology gentle";

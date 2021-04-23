@@ -1,1 +1,1 @@
-var mnemonic = "friend poem tuna fetch virus bacon soldier increase rail gate oppose install";
+var mnemonic = "hover name rail joke hundred account moon mimic crazy never town damage";

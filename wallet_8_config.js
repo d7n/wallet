@@ -1,1 +1,1 @@
-var mnemonic = "clog ramp stable boring winter dry baby actual engine rain tonight woman";
+var mnemonic = "afford bacon choice lady nephew ankle erode vote draft burden brush teach";

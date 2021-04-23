@@ -1,1 +1,1 @@
-var mnemonic = "nut love vicious relax girl nut essence resource canyon element prepare floor";
+var mnemonic = "foot shrug add talent juice above menu antique sort noodle critic plate";

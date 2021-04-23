@@ -1,1 +1,1 @@
-var mnemonic = "behave pepper speak multiply nose spring actress silver satisfy hammer media term";
+var mnemonic = "man chimney tunnel physical carry box hub debris emotion lab that jelly";

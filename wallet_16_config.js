@@ -1,1 +1,1 @@
-var mnemonic = "unique stomach news solar way bleak state recipe trade brain square pink";
+var mnemonic = "then cruise wear hover tired check increase print surge gaze wing wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "melody buzz habit sunset fit spot immense virtual toss learn alley glance";
+var mnemonic = "luxury fortune mask glance balance enough tray erupt soul wheel state cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic disorder entry key fancy timber jazz father twenty note tonight sketch";
+var mnemonic = "jacket ugly volume solve mutual sweet spare obvious puzzle tiny life test";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom angle laptop render together dish swallow female inhale erode weird tiny";
+var mnemonic = "daughter purity short ill protect keen zero frost submit twist illegal eternal";

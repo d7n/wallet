@@ -1,1 +1,1 @@
-var mnemonic = "marine exile vendor medal grant urban volume gallery clutch love transfer dream";
+var mnemonic = "sail extend ginger harbor robot divorce identify idea village master abstract aspect";

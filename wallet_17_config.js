@@ -1,1 +1,1 @@
-var mnemonic = "item guitar across knock various lesson tip grid crush pledge robust party";
+var mnemonic = "slush twice exhibit blush embody crane head acquire antenna vocal lawsuit gas";

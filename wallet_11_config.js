@@ -1,1 +1,1 @@
-var mnemonic = "alien menu polar boy viable guitar way guess apple gown piano slow";
+var mnemonic = "slice beyond penalty panel shiver camp absent sure program exit universe drink";

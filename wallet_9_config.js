@@ -1,1 +1,1 @@
-var mnemonic = "fox any cat bird portion assist injury cactus upset source wood power";
+var mnemonic = "tell genre meat clever excess story creek frame now diesel crack biology";

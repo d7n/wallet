@@ -1,1 +1,1 @@
-var mnemonic = "sound stool museum demand afraid engine letter warm wing wrist timber paper";
+var mnemonic = "purpose anchor hard wisdom hold erode boost nest drift naive critic isolate";

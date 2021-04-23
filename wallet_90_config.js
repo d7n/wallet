@@ -1,1 +1,1 @@
-var mnemonic = "fun seek salt brown sound cart payment luggage guide asset daughter gather";
+var mnemonic = "way jar weird know mention walk swallow fitness submit trial flat caught";

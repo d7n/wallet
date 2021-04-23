@@ -1,1 +1,1 @@
-var mnemonic = "carpet enough boring indicate trouble soap crash term tower possible mobile medal";
+var mnemonic = "purpose album digital reason winter early episode giraffe state fluid first spoon";

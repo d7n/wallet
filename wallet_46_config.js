@@ -1,1 +1,1 @@
-var mnemonic = "divorce convince cat dilemma walnut nut often rebel thank couple river piece";
+var mnemonic = "tray metal region release claim census prevent sport awkward demise design improve";

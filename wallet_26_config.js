@@ -1,1 +1,1 @@
-var mnemonic = "cliff farm crunch matrix bomb token name eager equip play melt sponsor";
+var mnemonic = "category drive artefact skull badge lift flower fade head garment thunder type";

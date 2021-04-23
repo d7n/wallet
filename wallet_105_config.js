@@ -1,1 +1,1 @@
-var mnemonic = "magnet demand jacket minimum defense used system dilemma ability wine motion license";
+var mnemonic = "try island crystal climb afraid spend wink awake fine recall subway lottery";

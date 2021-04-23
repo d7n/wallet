@@ -1,1 +1,1 @@
-var mnemonic = "solar cherry sunny stomach horn act subway prison rotate brand also knee";
+var mnemonic = "silly pattern artefact dial recycle message surge vague flame morning secret script";

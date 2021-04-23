@@ -1,1 +1,1 @@
-var mnemonic = "network artwork neck jungle sauce fragile elevator start spare spice vanish bachelor";
+var mnemonic = "matter desk correct snow dial cute chat screen tone fee purpose pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "know actress common over simple state mention card ask mechanic adult work";
+var mnemonic = "oak badge ticket remember width toward middle nose gospel sphere fine combine";

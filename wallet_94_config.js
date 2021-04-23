@@ -1,1 +1,1 @@
-var mnemonic = "refuse zone gate virtual unusual layer limb still hybrid april tank seat";
+var mnemonic = "toddler bulb peasant proof blast pole cruel miss left legend orbit maximum";

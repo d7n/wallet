@@ -1,1 +1,1 @@
-var mnemonic = "same copper trick wall census sting polar tennis crush bicycle crane view";
+var mnemonic = "practice oak margin ethics wheat accuse between vapor raven service powder aunt";

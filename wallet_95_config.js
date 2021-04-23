@@ -1,1 +1,1 @@
-var mnemonic = "draw insane shock test bulb wasp celery club diesel amount hollow brisk";
+var mnemonic = "talent what video bean grunt anchor garment balcony episode cricket couch myself";

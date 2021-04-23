@@ -1,1 +1,1 @@
-var mnemonic = "upper nasty horror father juice talk quantum attack word edit infant spot";
+var mnemonic = "stock current shoot wisdom chuckle champion father purse damp muffin dry dream";

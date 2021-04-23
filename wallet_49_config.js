@@ -1,1 +1,1 @@
-var mnemonic = "legal stem aspect multiply cricket enough point medal credit equip congress satisfy";
+var mnemonic = "afford open manual virtual across decade plug simple depth faculty can eager";

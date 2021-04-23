@@ -1,1 +1,1 @@
-var mnemonic = "begin garage relax deliver system vast cover quality produce injury impact device";
+var mnemonic = "muffin large impact ozone cannon wing erosion zone angle brush escape divorce";

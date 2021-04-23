@@ -1,1 +1,1 @@
-var mnemonic = "uncover cube when raw flush region vicious chalk infant sport cruel spray";
+var mnemonic = "trap garbage expand kite outer excuse frown table behave trumpet dream speed";

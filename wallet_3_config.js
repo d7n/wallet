@@ -1,1 +1,1 @@
-var mnemonic = "clean cook science shadow matter resource food great crop arch hard opinion";
+var mnemonic = "latin hole glare hotel remain suggest era rookie when thank stock symbol";

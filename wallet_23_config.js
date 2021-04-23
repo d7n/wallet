@@ -1,1 +1,1 @@
-var mnemonic = "hammer hockey remember nominee olive accident end claim sell relief banana onion";
+var mnemonic = "entire city great garment rabbit garden fish invest yellow hub bacon orchard";

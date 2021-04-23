@@ -1,1 +1,1 @@
-var mnemonic = "three system travel mimic execute olympic edit glow glass orient know cabin";
+var mnemonic = "water pass notice trick latin mansion canyon vacuum audit force shed pact";

@@ -1,1 +1,1 @@
-var mnemonic = "awake shell federal annual body prefer piece edge before corn delay pledge";
+var mnemonic = "normal jealous buzz festival water float sail shell valley armed merry village";

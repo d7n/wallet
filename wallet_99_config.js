@@ -1,1 +1,1 @@
-var mnemonic = "lava youth inch giraffe rigid tunnel disagree damage solid angle addict artist";
+var mnemonic = "wool universe wool sing celery rule athlete science dash pitch cupboard cluster";

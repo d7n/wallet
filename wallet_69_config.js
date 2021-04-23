@@ -1,1 +1,1 @@
-var mnemonic = "rack silver embrace abuse minute result arena cup isolate spy fat crime";
+var mnemonic = "man jeans once nation victory sudden jungle strong silent health taxi borrow";

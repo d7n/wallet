@@ -1,1 +1,1 @@
-var mnemonic = "milk glass ivory sorry drift anchor high fever admit alter capital puzzle";
+var mnemonic = "logic time follow base fetch yellow noise sock vendor divert zebra sound";

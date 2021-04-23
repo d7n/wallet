@@ -1,1 +1,1 @@
-var mnemonic = "half become replace hamster improve cheese soup display achieve frost next bundle";
+var mnemonic = "exclude spy soda sketch maximum mixed opera stone jewel legal dream source";

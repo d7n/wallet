@@ -1,1 +1,1 @@
-var mnemonic = "genius talent outside snake purse where note library dizzy myth text bicycle";
+var mnemonic = "ordinary man heart rain mean kangaroo bronze winner color asset merry they";

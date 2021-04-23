@@ -1,1 +1,1 @@
-var mnemonic = "analyst excess staff boss kidney foil column disagree hair evolve sea hurry";
+var mnemonic = "advance finish walk ball situate session seven sister design because tag evidence";

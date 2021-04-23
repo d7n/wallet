@@ -1,1 +1,1 @@
-var mnemonic = "run always output tone good mother rigid erase risk salon zone orchard";
+var mnemonic = "palace omit island suggest message casual aspect unhappy ski waste wealth system";

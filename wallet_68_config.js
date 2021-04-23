@@ -1,1 +1,1 @@
-var mnemonic = "hawk iron obscure idle grow hidden vivid used wrist chair sentence adult";
+var mnemonic = "help define shine fresh material over more ghost door typical into around";

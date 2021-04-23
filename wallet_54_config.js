@@ -1,1 +1,1 @@
-var mnemonic = "find jump rural magnet stone skill measure guitar inhale coach grid load";
+var mnemonic = "pen soap other custom hundred anxiety flight symbol fortune table month space";

@@ -1,1 +1,1 @@
-var mnemonic = "august unknown empower habit pattern brain crucial month fade detail praise end";
+var mnemonic = "scatter faculty gas sense decline effort mad syrup coffee hockey imitate citizen";

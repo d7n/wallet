@@ -1,1 +1,1 @@
-var mnemonic = "wealth school permit snack own feed ranch plastic tomato barrel wet shiver";
+var mnemonic = "burden mixture health sugar oven cake tonight travel path gossip only kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "another quick latin final teach labor sauce sibling soda melody spare cost";
+var mnemonic = "wave fire rent spatial riot occur strong enact sudden scheme crumble foil";

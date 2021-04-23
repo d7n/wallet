@@ -1,1 +1,1 @@
-var mnemonic = "expand birth maid upon wink salmon almost rubber shield mother belt spoon";
+var mnemonic = "caution tunnel scan scissors afford sketch helmet athlete position dwarf roast benefit";

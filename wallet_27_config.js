@@ -1,1 +1,1 @@
-var mnemonic = "leisure safe address shift actual mirror trade diamond dumb modify address kingdom";
+var mnemonic = "execute trouble evoke casino hard twelve impact clinic engine vapor raw hat";

@@ -1,1 +1,1 @@
-var mnemonic = "alone ahead ski party into piano retreat elevator never penalty setup indoor";
+var mnemonic = "plug doctor future spice nut dirt try tree victory donkey supply kitchen";

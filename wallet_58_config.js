@@ -1,1 +1,1 @@
-var mnemonic = "odor govern neutral acoustic crop under true gravity level friend indicate predict";
+var mnemonic = "mom jazz version problem mirror armor clever interest merry meadow gift toward";

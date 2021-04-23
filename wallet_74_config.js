@@ -1,1 +1,1 @@
-var mnemonic = "try bunker okay blue tape winter cost lamp artist summer dirt false";
+var mnemonic = "punch unusual crime hammer salute mercy dentist give castle hobby soap flee";

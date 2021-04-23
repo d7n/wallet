@@ -1,1 +1,1 @@
-var mnemonic = "flag elbow police extend credit swarm metal again paper keen police dish";
+var mnemonic = "other supreme budget faculty image diesel day pass host chase panel place";
