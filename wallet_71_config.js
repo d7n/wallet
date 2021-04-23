@@ -1,1 +1,1 @@
-var mnemonic = "guard mango border off expect green tornado accuse kind excuse pigeon leg";
+var mnemonic = "uncover wealth diet token deputy desert suspect paddle orchard dizzy forest enforce";

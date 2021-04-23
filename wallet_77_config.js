@@ -1,1 +1,1 @@
-var mnemonic = "sample open indicate amateur fresh minor upon scrap fashion palace crack close";
+var mnemonic = "thought strategy sword trust mind rival stairs adjust box attend cube ice";

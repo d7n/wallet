@@ -1,1 +1,1 @@
-var mnemonic = "silly answer illness side appear arrange awake raven myth sauce blast when";
+var mnemonic = "rain surge cherry smile crowd build civil level pact slab entire title";

@@ -1,1 +1,1 @@
-var mnemonic = "medal expect leader major onion violin check grape oven stick region oven";
+var mnemonic = "crisp wish palm nephew tank hobby essence donkey banner razor arrive luggage";

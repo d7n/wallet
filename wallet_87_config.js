@@ -1,1 +1,1 @@
-var mnemonic = "exhibit planet assault burger length eye pudding bright repeat foil siege math";
+var mnemonic = "salmon lunar tourist hockey certain horn thing smart master album bronze bicycle";

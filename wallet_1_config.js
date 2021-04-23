@@ -1,1 +1,1 @@
-var mnemonic = "feel pretty game rifle enable this minor trade kitten year material diet";
+var mnemonic = "waste forget guilt farm venue before mix limit pigeon neglect test more";

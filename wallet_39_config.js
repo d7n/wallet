@@ -1,1 +1,1 @@
-var mnemonic = "champion blossom card crisp humble march human unfold cover breeze captain winter";
+var mnemonic = "until inch wire primary under month general fire muffin scene pair affair";

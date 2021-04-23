@@ -1,1 +1,1 @@
-var mnemonic = "brother quit place that during bonus jaguar suit control there life wood";
+var mnemonic = "oven slab pottery because enter search action slush giant tree flock equip";

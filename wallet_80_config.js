@@ -1,1 +1,1 @@
-var mnemonic = "fitness cotton coral raw strike uniform truth social near begin damage want";
+var mnemonic = "shy dynamic response adult uphold gas jump cable glad lumber oval evolve";

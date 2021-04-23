@@ -1,1 +1,1 @@
-var mnemonic = "furnace seek bullet trash traffic trial hat flat silk stool model grain";
+var mnemonic = "check leopard beyond say clerk essence today web suit industry change hurry";

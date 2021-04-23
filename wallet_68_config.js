@@ -1,1 +1,1 @@
-var mnemonic = "return crop brush cargo silent economy slab tree run roast scissors sleep";
+var mnemonic = "second eye fatal review february divide aisle cloud symptom isolate release ability";

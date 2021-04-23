@@ -1,1 +1,1 @@
-var mnemonic = "rib prevent film meadow village news cable select song spend local candy";
+var mnemonic = "edit glimpse violin leisure wealth mutual neck cereal together heart orbit pill";

@@ -1,1 +1,1 @@
-var mnemonic = "network warrior fog clever south position slender gesture buyer lava robust lion";
+var mnemonic = "until alarm wear obey little gloom poet leopard wool long demise that";

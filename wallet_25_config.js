@@ -1,1 +1,1 @@
-var mnemonic = "monkey patrol broken trophy taxi frown album fix confirm elevator stable vessel";
+var mnemonic = "ocean kick multiply require crouch mechanic siege poem grocery panther decline piece";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel kiss purse nut chunk step law spend field arrest buyer mercy";
+var mnemonic = "fatigue cable tiny daring raw orphan smooth noodle major love boy bomb";

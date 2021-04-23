@@ -1,1 +1,1 @@
-var mnemonic = "fork raise skill unusual tortoise action belt cable biology fee lamp lemon";
+var mnemonic = "volcano shine rotate battle click broom liquid vault symbol pipe exercise power";

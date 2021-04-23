@@ -1,1 +1,1 @@
-var mnemonic = "theory crush neither tennis vacant select frown moral example world drop steak";
+var mnemonic = "party satisfy clap review comic remember enemy cable assault result wolf brisk";

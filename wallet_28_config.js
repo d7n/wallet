@@ -1,1 +1,1 @@
-var mnemonic = "cricket ecology science month before knee okay grief garbage throw imitate act";
+var mnemonic = "near voyage anxiety treat prepare still phrase crop leader body myth excess";

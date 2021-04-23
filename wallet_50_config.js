@@ -1,1 +1,1 @@
-var mnemonic = "kind valid ginger piano mail muffin camp artefact pigeon elder addict tourist";
+var mnemonic = "wise tray crash auction flight connect barrel second analyst citizen sketch clinic";

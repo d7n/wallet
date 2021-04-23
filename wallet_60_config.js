@@ -1,1 +1,1 @@
-var mnemonic = "process whale topic custom salad hip sweet jewel category maze sad post";
+var mnemonic = "wasp pink timber dad certain twist cart concert among crush neither normal";

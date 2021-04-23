@@ -1,1 +1,1 @@
-var mnemonic = "ring ensure end arrive oblige fitness pave arrange taxi spider brass trim";
+var mnemonic = "lemon project proof cotton extra shift absorb supreme protect insect hundred juice";

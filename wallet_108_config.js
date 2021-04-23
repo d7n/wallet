@@ -1,1 +1,1 @@
-var mnemonic = "planet wild eyebrow mass panic skin board spy jump feature quarter prepare";
+var mnemonic = "plug shell limb radar frequent glimpse any stage rebel angry hint lemon";

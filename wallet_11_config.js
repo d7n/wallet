@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon sniff trick fatigue myself toe top basket relief rifle release equip";
+var mnemonic = "ancient enrich motion pulse method monkey purpose absent business burden town kind";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder neck abstract swift card evoke avocado price sock office unusual stool";
+var mnemonic = "state solar venue ginger safe chef spatial sort embody soul fault speed";

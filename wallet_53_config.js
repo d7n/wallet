@@ -1,1 +1,1 @@
-var mnemonic = "nurse mushroom gate attract baby hobby tissue match deer skull busy pride";
+var mnemonic = "hood surround eyebrow short remind letter neutral stereo hero method smart push";

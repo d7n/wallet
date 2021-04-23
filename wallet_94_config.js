@@ -1,1 +1,1 @@
-var mnemonic = "first crystal chat harbor sail media magic since village obtain cat retire";
+var mnemonic = "enough thrive raise roast shoulder obvious excess nose earn remain extend vacuum";

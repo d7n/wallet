@@ -1,1 +1,1 @@
-var mnemonic = "echo pizza cross oblige essence oblige ice bread force person session ordinary";
+var mnemonic = "festival page total teach number battle barely casual improve position giant wrestle";

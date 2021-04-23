@@ -1,1 +1,1 @@
-var mnemonic = "bronze spring target sad reduce puppy faculty unable kiss aim hospital order";
+var mnemonic = "adjust right eight must barrel indicate novel vendor safe siege install twice";

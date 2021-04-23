@@ -1,1 +1,1 @@
-var mnemonic = "device provide knock soldier anchor very silent consider recipe much old leisure";
+var mnemonic = "insect jazz betray coral myself recycle upper achieve typical merge margin report";

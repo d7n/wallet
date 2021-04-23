@@ -1,1 +1,1 @@
-var mnemonic = "curve valid coyote gospel faculty orange mystery title spare sick abandon rebuild";
+var mnemonic = "city usage cart result police quality once invite lamp remain poverty hub";

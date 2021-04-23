@@ -1,1 +1,1 @@
-var mnemonic = "neck what fold hill stadium ivory garage spider champion reunion breeze rally";
+var mnemonic = "corn squirrel shallow animal furnace rely copy any tower captain program stone";

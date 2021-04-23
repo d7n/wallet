@@ -1,1 +1,1 @@
-var mnemonic = "people belt crouch vintage hip blind slice february crowd color leave vast";
+var mnemonic = "track chase federal canyon weapon dune crop sword country order inject book";

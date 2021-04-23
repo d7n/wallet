@@ -1,1 +1,1 @@
-var mnemonic = "shoe legal clip father magnet dilemma build point diamond spend involve salon";
+var mnemonic = "exotic office begin transfer unaware eager fetch inquiry lobster kit comfort hat";

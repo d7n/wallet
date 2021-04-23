@@ -1,1 +1,1 @@
-var mnemonic = "hawk receive slender pistol solution parrot razor excess assume crazy impulse outside";
+var mnemonic = "assist frown mansion option torch cupboard guitar know short globe mesh rifle";

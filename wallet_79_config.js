@@ -1,1 +1,1 @@
-var mnemonic = "embody electric south ugly wheat employ float grain peasant coyote pear mix";
+var mnemonic = "carpet weapon grief slight piano average field evoke creek enhance random acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "raw boy goddess bag general hurry armed copy wheat cradle camera cherry";
+var mnemonic = "lend pull flavor pumpkin canoe mom fragile cliff spin leader park machine";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken eagle author promote trial unfold punch noise rich scout box install";
+var mnemonic = "error crew assist message waste chapter warm path honey combine above umbrella";

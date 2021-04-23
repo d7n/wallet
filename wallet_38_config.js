@@ -1,1 +1,1 @@
-var mnemonic = "defense train boring abuse truth seek shrimp fit arctic hat deny sketch";
+var mnemonic = "visa humor dismiss direct uniform cotton autumn library moon over cloth wave";

@@ -1,1 +1,1 @@
-var mnemonic = "army unknown awkward drastic awkward thumb palm else sun castle april track";
+var mnemonic = "stone able episode soccer deposit arena resource script food stadium clump section";

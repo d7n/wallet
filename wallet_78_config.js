@@ -1,1 +1,1 @@
-var mnemonic = "spawn degree tail asset noodle negative cause assault assault private walnut project";
+var mnemonic = "evidence orchard unique dwarf remind sudden bronze space level primary marine rabbit";

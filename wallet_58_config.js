@@ -1,1 +1,1 @@
-var mnemonic = "energy section tobacco client pencil birth program beyond hood spirit slender sell";
+var mnemonic = "boss reason expand relief need gun hood execute daring cliff swing payment";

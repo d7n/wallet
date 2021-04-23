@@ -1,1 +1,1 @@
-var mnemonic = "panther echo fix begin spawn rigid switch barrel cabin grace unusual large";
+var mnemonic = "post narrow custom review aspect fox neck smoke meadow parade quality fog";

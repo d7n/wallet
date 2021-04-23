@@ -1,1 +1,1 @@
-var mnemonic = "dilemma connect idle mechanic daughter save cycle merge pencil assist strong pulp";
+var mnemonic = "annual since code fault move orchard task zebra total belt enable original";

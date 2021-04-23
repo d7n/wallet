@@ -1,1 +1,1 @@
-var mnemonic = "donate gadget cherry square labor round sugar bright ivory major scissors rigid";
+var mnemonic = "false grunt danger live rifle cake vocal measure reward cool leg height";

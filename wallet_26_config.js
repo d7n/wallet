@@ -1,1 +1,1 @@
-var mnemonic = "prefer time only toast zoo hunt pioneer sport hole hover ritual across";
+var mnemonic = "exhibit wash laugh bridge talk village milk person shuffle keep hybrid blanket";

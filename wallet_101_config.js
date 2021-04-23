@@ -1,1 +1,1 @@
-var mnemonic = "hundred divert fresh tomato tube between south degree grunt cash equip average";
+var mnemonic = "two thumb wool mistake artwork gravity verify wrap walk junk tenant velvet";

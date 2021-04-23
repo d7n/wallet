@@ -1,1 +1,1 @@
-var mnemonic = "city festival ancient water unfair honey swamp lava ivory heart engine olympic";
+var mnemonic = "reunion person toast clutch vehicle dash impact survey plug cancel pave liar";

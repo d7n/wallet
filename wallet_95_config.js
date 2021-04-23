@@ -1,1 +1,1 @@
-var mnemonic = "forget father nature dismiss zone outside quote arctic ginger switch stumble spray";
+var mnemonic = "refuse cupboard result common erase discover fork avocado october stove grape broom";

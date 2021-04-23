@@ -1,1 +1,1 @@
-var mnemonic = "bubble patch window buddy dove garden inform angry approve laundry enable captain";
+var mnemonic = "cabbage chair bid document various bulb dilemma grit arena seven only stand";

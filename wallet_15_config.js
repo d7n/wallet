@@ -1,1 +1,1 @@
-var mnemonic = "build lake question atom earth retire certain deal morning erosion agree expire";
+var mnemonic = "deliver general devote trash view help fluid replace garlic idea another anger";

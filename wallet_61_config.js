@@ -1,1 +1,1 @@
-var mnemonic = "icon gallery elbow ordinary shoot curious beauty duck yard flush east blind";
+var mnemonic = "recall violin general village trust ask pizza memory still level tornado excite";

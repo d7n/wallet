@@ -1,1 +1,1 @@
-var mnemonic = "december flee upgrade mass hunt gentle drama obscure knife include obey kangaroo";
+var mnemonic = "flush ketchup analyst elbow castle chat census company surface drama ticket elevator";

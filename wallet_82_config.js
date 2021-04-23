@@ -1,1 +1,1 @@
-var mnemonic = "milk pupil bag person prefer raccoon avocado hundred return depth stuff sport";
+var mnemonic = "equip dove grass source put maximum excite grain hire tourist twist great";

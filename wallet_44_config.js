@@ -1,1 +1,1 @@
-var mnemonic = "lava abandon unlock vapor kind truck useless love name crack object uniform";
+var mnemonic = "hat mouse valley poet estate impact trim fan name average party amused";

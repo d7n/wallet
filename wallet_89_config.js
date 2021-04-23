@@ -1,1 +1,1 @@
-var mnemonic = "sketch hidden lunch inch market report detail merit error cabin select final";
+var mnemonic = "wrong enlist around flash deer muscle buddy dune they document call inch";

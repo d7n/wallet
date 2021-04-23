@@ -1,1 +1,1 @@
-var mnemonic = "expose taste desert puppy idea chair three eight reveal gap just alarm";
+var mnemonic = "insane knock chuckle pulp impose region inside pill push legal agent soda";

@@ -1,1 +1,1 @@
-var mnemonic = "trap level pass loyal check quit connect tiny exotic design bar replace";
+var mnemonic = "asset season close luxury bundle shrug agent fork ten elite will enforce";

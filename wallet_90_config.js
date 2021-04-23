@@ -1,1 +1,1 @@
-var mnemonic = "opinion zero anchor despair monitor mango drink floor spare alone palace thunder";
+var mnemonic = "jeans jewel alter exact trouble cycle rally tennis woman frog toast seed";

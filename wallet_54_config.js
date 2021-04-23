@@ -1,1 +1,1 @@
-var mnemonic = "source hockey below clock embody grass various cannon hidden master debris general";
+var mnemonic = "kite dinner board rebel shadow reward ugly exchange later tent maximum subject";

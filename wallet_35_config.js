@@ -1,1 +1,1 @@
-var mnemonic = "advice kind twelve figure deputy copy pilot fever clown eagle vital biology";
+var mnemonic = "build capable client enhance delay slab armor lonely frame error urge trigger";

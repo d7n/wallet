@@ -1,1 +1,1 @@
-var mnemonic = "puppy endless frame pigeon judge hurdle hollow today still curve swamp position";
+var mnemonic = "win hero limit ugly accuse olive dry tooth unfair fetch ordinary crew";

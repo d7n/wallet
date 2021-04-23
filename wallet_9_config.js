@@ -1,1 +1,1 @@
-var mnemonic = "apology repeat base foster crystal echo depth awesome mixture wrap blush seed";
+var mnemonic = "grief during that crazy hidden bunker execute possible cake radar two floor";

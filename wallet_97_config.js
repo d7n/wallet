@@ -1,1 +1,1 @@
-var mnemonic = "idle size syrup number deputy screen thank ribbon pledge panda amused dutch";
+var mnemonic = "critic among steel globe afford divorce between decide city desk exist control";

@@ -1,1 +1,1 @@
-var mnemonic = "siren empty armed drastic orbit gorilla alone aim slender emerge bulb cherry";
+var mnemonic = "paper scatter action life keep auction aisle dune differ sort outside desert";

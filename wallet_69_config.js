@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wish make federal cost guilt sister trophy tray copy chuckle train";
+var mnemonic = "depth arrive item hospital link fortune defense sentence notable throw program iron";

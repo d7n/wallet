@@ -1,1 +1,1 @@
-var mnemonic = "goose obtain hybrid scout warfare live parade soft peace depth course indicate";
+var mnemonic = "bread toast device shop camera today lemon act meat thought update seminar";

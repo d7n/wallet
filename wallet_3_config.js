@@ -1,1 +1,1 @@
-var mnemonic = "draw awkward prefer phrase sure feature say toilet time little daring blade";
+var mnemonic = "often stock ivory fire pear crazy ship crucial jeans ladder chaos asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber umbrella visual pig bracket stomach hero enlist focus rail estate ready";
+var mnemonic = "fury bid smile oak palace whip check mixture alone fruit fog dial";

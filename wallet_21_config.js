@@ -1,1 +1,1 @@
-var mnemonic = "basic hat bounce meadow youth item scene prize venture voice egg claw";
+var mnemonic = "crime october luggage crush tenant power vote copy rally next vivid two";

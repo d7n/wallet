@@ -1,1 +1,1 @@
-var mnemonic = "feel only crucial entire guess whip pluck acoustic mountain trash quantum parrot";
+var mnemonic = "hybrid mom slow glass catalog tray lecture trigger risk world theme advance";

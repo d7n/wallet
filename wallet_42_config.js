@@ -1,1 +1,1 @@
-var mnemonic = "ready display next wild garbage sad blade base bullet spot used sock";
+var mnemonic = "vacuum involve margin depart anchor grab nuclear math grape wedding industry bike";

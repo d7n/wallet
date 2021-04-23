@@ -1,1 +1,1 @@
-var mnemonic = "ski gravity dentist salmon panther aerobic page hotel zoo that scout weather";
+var mnemonic = "razor must fuel involve bottom buyer faith obtain bacon delay foster area";

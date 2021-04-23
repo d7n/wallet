@@ -1,1 +1,1 @@
-var mnemonic = "bounce sausage owner brush anxiety under donkey aspect today dog october swallow";
+var mnemonic = "festival clarify celery cart planet divert thought punch swim party glide interest";

@@ -1,1 +1,1 @@
-var mnemonic = "people swift vacant duty frog diary what ghost slide cash state attend";
+var mnemonic = "keep spare august abstract clown scene hip prosper staff tunnel smart lottery";

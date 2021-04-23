@@ -1,1 +1,1 @@
-var mnemonic = "deal magnet mimic silent dynamic peace avocado simple soon define outside forest";
+var mnemonic = "finish burden enforce wave cat mountain heavy depend picture lesson imitate add";

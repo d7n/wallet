@@ -1,1 +1,1 @@
-var mnemonic = "target jealous tongue shoot oil start ethics warrior word tenant idle victory";
+var mnemonic = "monitor flight box mad rude ten gift orchard ribbon joy cabin organ";

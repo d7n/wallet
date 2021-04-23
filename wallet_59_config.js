@@ -1,1 +1,1 @@
-var mnemonic = "prosper easily hidden pink dumb floor seat try fox tobacco joy ramp";
+var mnemonic = "work mother salmon element window cool now order opera cousin royal broccoli";

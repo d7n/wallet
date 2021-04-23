@@ -1,1 +1,1 @@
-var mnemonic = "cup method system world soda chicken avocado travel rebuild maze endless hint";
+var mnemonic = "medal behave fruit burden antique bid prosper assault armed aunt chaos alcohol";

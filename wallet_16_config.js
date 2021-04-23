@@ -1,1 +1,1 @@
-var mnemonic = "damage long fold bench faith finger bunker ranch grit ketchup lawn squeeze";
+var mnemonic = "position engage cement lawn junk potato tank welcome above illegal mimic flight";

@@ -1,1 +1,1 @@
-var mnemonic = "coast rail act place route oppose salt angry mobile object few assume";
+var mnemonic = "idea warrior fantasy gain feel plastic aim isolate leaf faculty between hammer";

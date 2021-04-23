@@ -1,1 +1,1 @@
-var mnemonic = "mercy only culture future lift ramp joke body zero wife wave brass";
+var mnemonic = "crystal dry census during napkin jump immense dragon hunt among engage index";

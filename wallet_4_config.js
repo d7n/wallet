@@ -1,1 +1,1 @@
-var mnemonic = "trade shoe salon else display flower round height wolf diamond flower cabbage";
+var mnemonic = "early rocket employ scare junk embrace glare famous option produce frozen card";

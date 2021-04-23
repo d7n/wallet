@@ -1,1 +1,1 @@
-var mnemonic = "response later awful sheriff magnet search noble board pool teach cute flat";
+var mnemonic = "swarm industry neck strong frame corn what noble invite rookie alone dumb";

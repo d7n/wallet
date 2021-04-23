@@ -1,1 +1,1 @@
-var mnemonic = "youth endorse category reform zebra gravity husband casual garage place lottery dish";
+var mnemonic = "traffic eagle give jewel media humble volume open uncover length pluck tattoo";

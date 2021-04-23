@@ -1,1 +1,1 @@
-var mnemonic = "arch produce child absorb lounge token crunch bulb absurd horse case impulse";
+var mnemonic = "depend laugh fit coast hard bitter setup rubber shallow critic picnic convince";

@@ -1,1 +1,1 @@
-var mnemonic = "blur animal present carpet buffalo organ common carbon sing ticket buddy kitten";
+var mnemonic = "nothing dynamic happy occur auction defense clap shrug barrel sauce stone later";

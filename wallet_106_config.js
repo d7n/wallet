@@ -1,1 +1,1 @@
-var mnemonic = "hint search favorite concert phone novel feel spice bottom viable cereal damage";
+var mnemonic = "lottery image uncle material mystery sunset sort fabric tragic box thumb property";

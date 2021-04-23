@@ -1,1 +1,1 @@
-var mnemonic = "tomato educate enhance ensure ketchup eager have essay hire small cruise smooth";
+var mnemonic = "elder lecture dawn place lazy future belt trumpet man replace own train";

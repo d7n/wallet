@@ -1,1 +1,1 @@
-var mnemonic = "account life loan screen wedding script steak soldier enroll long season dynamic";
+var mnemonic = "cinnamon match bicycle false senior bridge future series arrive bulb multiply satoshi";
