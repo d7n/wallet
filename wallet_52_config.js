@@ -1,1 +1,1 @@
-var mnemonic = "rare lunar panther post whip love history frame purity furnace amateur moral";
+var mnemonic = "beauty limit nose hint found blade admit scan interest next chef tongue";

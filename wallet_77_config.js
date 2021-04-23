@@ -1,1 +1,1 @@
-var mnemonic = "morning regret stairs fold ticket piano skill seven melt nuclear tail rule";
+var mnemonic = "busy lizard demise horse dilemma rubber analyst main symptom supreme sad doll";

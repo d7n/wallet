@@ -1,1 +1,1 @@
-var mnemonic = "vendor culture rose key bulb position satoshi lunar alone elevator endorse consider";
+var mnemonic = "fish candy insect wisdom sell gesture useful taste diary utility gate sugar";

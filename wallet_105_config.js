@@ -1,1 +1,1 @@
-var mnemonic = "rural crucial latin awesome ethics stereo goat city pink trade garage shuffle";
+var mnemonic = "nominee point transfer fly alpha grape party window unhappy remember maximum host";

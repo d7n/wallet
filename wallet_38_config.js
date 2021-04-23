@@ -1,1 +1,1 @@
-var mnemonic = "rival lounge require group tower live right saddle melt energy virtual poverty";
+var mnemonic = "senior judge ordinary price admit pledge warm switch twelve pizza wild actress";

@@ -1,1 +1,1 @@
-var mnemonic = "student squirrel survey pitch unfold seek thought canvas nuclear cream royal spy";
+var mnemonic = "pole craft practice camp orbit net light advice core hurt hip nephew";

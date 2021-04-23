@@ -1,1 +1,1 @@
-var mnemonic = "resemble badge stay round joy crush token spawn spoon garage success snow";
+var mnemonic = "fan design juice right section someone property pink upset topic warm tunnel";

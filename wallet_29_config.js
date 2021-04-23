@@ -1,1 +1,1 @@
-var mnemonic = "enact private hamster sweet fire pull ready ill night mechanic note throw";
+var mnemonic = "main luxury police category pottery fix dirt order company project hair garden";

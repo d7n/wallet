@@ -1,1 +1,1 @@
-var mnemonic = "grain find perfect nut pistol control wall roast drum salt symbol marine";
+var mnemonic = "cluster diet predict illegal solar wool wet vast panel gentle slow sorry";

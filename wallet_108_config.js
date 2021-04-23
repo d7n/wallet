@@ -1,1 +1,1 @@
-var mnemonic = "link lunar limb guess present cradle face conduct pattern avoid upon vibrant";
+var mnemonic = "grow blast document enhance random okay second educate island forget vast wealth";

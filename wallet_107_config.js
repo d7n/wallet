@@ -1,1 +1,1 @@
-var mnemonic = "index drip wide screen bubble remove forward depart write fix inherit scissors";
+var mnemonic = "world globe fruit civil topic uniform paper mirror silent garage comfort assault";

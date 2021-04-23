@@ -1,1 +1,1 @@
-var mnemonic = "track jaguar supply tuna actual tank garage true penalty possible brisk lazy";
+var mnemonic = "group fitness motion cute remain moral wrap sell dinner ring enroll palm";

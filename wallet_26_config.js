@@ -1,1 +1,1 @@
-var mnemonic = "hover host vote doctor pattern taste decide noble rookie scale toilet hint";
+var mnemonic = "cabbage kitchen fan harsh history alpha marine play walk input swamp weather";

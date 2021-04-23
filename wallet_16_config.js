@@ -1,1 +1,1 @@
-var mnemonic = "curious snake melt spoil lawn luxury year hospital purpose hire guitar decrease";
+var mnemonic = "carbon drill boat pulse possible shield satoshi rigid shadow spice fine lend";

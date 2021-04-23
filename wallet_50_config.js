@@ -1,1 +1,1 @@
-var mnemonic = "roast quality friend twelve swarm cook capable tobacco concert document whale accident";
+var mnemonic = "muscle skill muffin escape gift glare crunch green hammer silly fitness question";

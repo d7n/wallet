@@ -1,1 +1,1 @@
-var mnemonic = "allow diamond orbit mirror tomorrow transfer rigid pioneer advance fat flame safe";
+var mnemonic = "future draw pioneer desert also admit fog visual credit path faith idea";

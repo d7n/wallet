@@ -1,1 +1,1 @@
-var mnemonic = "entry sleep room dial young daughter verb pupil owner earn scare physical";
+var mnemonic = "wild rally ring tomorrow day own point minute blind wise just mechanic";

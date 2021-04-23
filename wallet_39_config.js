@@ -1,1 +1,1 @@
-var mnemonic = "shine throw dose liar myth glory clock tiger category alpha nasty tattoo";
+var mnemonic = "tent copper donate embody vivid lion manual ancient change eight base moment";

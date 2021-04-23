@@ -1,1 +1,1 @@
-var mnemonic = "front source start kind push wink dust proud swear humor toss have";
+var mnemonic = "move foil cheap vocal picture napkin dress dirt tennis abuse senior sign";

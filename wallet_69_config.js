@@ -1,1 +1,1 @@
-var mnemonic = "burden tool name treat twenty spoil scale federal alpha eagle dolphin sugar";
+var mnemonic = "crop unveil reward diagram broken away situate scheme head sorry smoke glue";

@@ -1,1 +1,1 @@
-var mnemonic = "appear equal episode upset yellow ecology trumpet harsh curve trumpet exhibit vapor";
+var mnemonic = "lonely income say rally use movie bounce cancel brain wrong parrot raw";

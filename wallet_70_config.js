@@ -1,1 +1,1 @@
-var mnemonic = "honey tunnel script gospel surge valid wrist attend crash win scatter tag";
+var mnemonic = "garlic roof indicate position lake upgrade task embark crash typical rabbit plastic";

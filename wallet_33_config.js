@@ -1,1 +1,1 @@
-var mnemonic = "glow dial volcano assault off enough sugar genre second street ecology census";
+var mnemonic = "latin coin release appear cement skate deal concert remember scale critic armed";

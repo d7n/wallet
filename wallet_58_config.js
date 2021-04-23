@@ -1,1 +1,1 @@
-var mnemonic = "crew race boost wrap leaf wall tray portion symbol coin vendor aim";
+var mnemonic = "cinnamon chase energy jump adjust typical scan jewel trouble infant normal organ";

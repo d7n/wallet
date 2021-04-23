@@ -1,1 +1,1 @@
-var mnemonic = "doctor word piano depend tray humble gown sorry glue pistol urban other";
+var mnemonic = "buyer bone pact arrive net remain speed response slice shoulder garage sail";

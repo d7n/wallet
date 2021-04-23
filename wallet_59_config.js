@@ -1,1 +1,1 @@
-var mnemonic = "supreme visa quit bachelor bus noodle wool frost essay message direct cage";
+var mnemonic = "build throw slide glass fortune select across coffee actual tip expand rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "shine already genius taxi cloth cheap there barely weather sorry craft caution";
+var mnemonic = "job solve bracket tag behave bone law critic upon ball mistake canoe";

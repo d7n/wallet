@@ -1,1 +1,1 @@
-var mnemonic = "infant north guitar arrow soft museum make frozen hurdle response remain around";
+var mnemonic = "mimic sting viable glory trick twice mobile gesture gym front derive payment";

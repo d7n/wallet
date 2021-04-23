@@ -1,1 +1,1 @@
-var mnemonic = "clean miss purchase abstract indoor sleep paper indoor eternal purchase fossil radar";
+var mnemonic = "smoke style foster path diet destroy rose bachelor fresh expect beyond lizard";

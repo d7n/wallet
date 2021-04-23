@@ -1,1 +1,1 @@
-var mnemonic = "pig trend weapon father evolve stomach grit noise crew initial source someone";
+var mnemonic = "celery pear rapid album genre kiwi unable crunch fantasy movie wise zero";

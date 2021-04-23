@@ -1,1 +1,1 @@
-var mnemonic = "tourist hotel eye census consider dice acid cute planet column half urge";
+var mnemonic = "remind disease praise bird ghost range cart elevator elbow melody salute joy";

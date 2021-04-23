@@ -1,1 +1,1 @@
-var mnemonic = "suspect riot amused fatigue accident shield swift globe mean victory local heart";
+var mnemonic = "drink ready bless sure shadow sense minor venture crumble jungle nut verb";

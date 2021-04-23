@@ -1,1 +1,1 @@
-var mnemonic = "decide always gospel voyage inspire cat small attack endless grunt fortune palm";
+var mnemonic = "tone deposit sorry idle build risk shock turkey turkey lock sudden entire";

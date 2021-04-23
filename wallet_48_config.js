@@ -1,1 +1,1 @@
-var mnemonic = "apology potato govern express lyrics erosion frequent genius acquire doctor panther victory";
+var mnemonic = "trial dragon riot bundle weather legend cook library salt proof above spell";

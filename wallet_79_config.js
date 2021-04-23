@@ -1,1 +1,1 @@
-var mnemonic = "random once movie icon visual humor garage size ask replace neck drip";
+var mnemonic = "key soon library canyon book noodle curtain repair decline appear volume three";

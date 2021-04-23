@@ -1,1 +1,1 @@
-var mnemonic = "olive lake muscle include armed trigger traffic machine move scissors hollow cushion";
+var mnemonic = "interest stone crumble coyote glove rare pen shove torch message more install";

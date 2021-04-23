@@ -1,1 +1,1 @@
-var mnemonic = "hour market motor limb stamp direct give valley danger nut utility awesome";
+var mnemonic = "question laugh grape erode robust dish other stand tank around festival cake";

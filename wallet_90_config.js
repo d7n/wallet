@@ -1,1 +1,1 @@
-var mnemonic = "unveil jelly bronze upset copper marriage melody raise credit flag myself panther";
+var mnemonic = "oyster guide violin high border pigeon intact critic grunt peasant appear net";

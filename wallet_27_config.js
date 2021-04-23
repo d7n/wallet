@@ -1,1 +1,1 @@
-var mnemonic = "meat advance truck smile water ahead liquid problem hero lava merge purse";
+var mnemonic = "live settle leisure afford radio person ketchup face primary poem just put";

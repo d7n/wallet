@@ -1,1 +1,1 @@
-var mnemonic = "remember one amateur stuff detect salute jungle nasty long media usage enforce";
+var mnemonic = "industry crowd usage ramp brain pilot window swift foam series certain wagon";

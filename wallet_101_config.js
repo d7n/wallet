@@ -1,1 +1,1 @@
-var mnemonic = "worry replace tuna stamp camp smart sample turkey gauge shock argue ripple";
+var mnemonic = "muscle short birth typical bunker account peasant civil hold deny candy witness";

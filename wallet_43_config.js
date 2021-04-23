@@ -1,1 +1,1 @@
-var mnemonic = "aware balcony night gate wait dose twice point million damage ten three";
+var mnemonic = "suit pilot kid dizzy gravity bunker worth vehicle nasty slush claim allow";

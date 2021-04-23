@@ -1,1 +1,1 @@
-var mnemonic = "core census wild dune brand recipe crawl where unhappy foot flee custom";
+var mnemonic = "trumpet congress abuse vocal lend great model faith echo arrest finish call";

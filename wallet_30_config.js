@@ -1,1 +1,1 @@
-var mnemonic = "affair lazy column crunch reflect bag river stand broom hotel purchase narrow";
+var mnemonic = "firm cupboard silk crumble drastic awkward over helmet maid tool close lunar";

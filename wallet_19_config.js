@@ -1,1 +1,1 @@
-var mnemonic = "gasp toe survey naive decade antique small waste mirror wedding display loyal";
+var mnemonic = "brass vacant glue fault barely grass muscle chase wrestle disease attack opera";

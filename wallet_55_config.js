@@ -1,1 +1,1 @@
-var mnemonic = "modify lion patrol frame idea stick rescue science strong burden exile ball";
+var mnemonic = "enough wool garden put chimney estate nominee such panther wild pencil pact";

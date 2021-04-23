@@ -1,1 +1,1 @@
-var mnemonic = "elbow acid hope game canoe vital coyote afraid erode wheel scrub enjoy";
+var mnemonic = "sleep move renew vocal half cannon snack enact tackle warm estate volcano";

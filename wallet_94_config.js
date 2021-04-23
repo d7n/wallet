@@ -1,1 +1,1 @@
-var mnemonic = "coin below mix account bonus aware awake alpha exercise dance attitude bench";
+var mnemonic = "number weird clog spend notice local kitchen virtual canal student battle finish";

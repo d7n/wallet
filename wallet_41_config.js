@@ -1,1 +1,1 @@
-var mnemonic = "strong pond color office basket inch negative piece among cherry step notable";
+var mnemonic = "pool fee ten razor boat swamp fine option infant squirrel find enough";

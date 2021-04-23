@@ -1,1 +1,1 @@
-var mnemonic = "reopen domain like walnut hole miracle random across system copper brain express";
+var mnemonic = "vault vessel phrase wool tobacco boss very network property peanut exhibit victory";

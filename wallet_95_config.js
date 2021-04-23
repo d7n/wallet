@@ -1,1 +1,1 @@
-var mnemonic = "section orbit cloth treat float egg hurry easy broom icon pitch coconut";
+var mnemonic = "stand initial sunset skate sentence language neutral genius crew apology live copy";

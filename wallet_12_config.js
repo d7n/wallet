@@ -1,1 +1,1 @@
-var mnemonic = "lamp owner unknown soup december paddle speak segment tenant color gold ostrich";
+var mnemonic = "license journey travel public ritual frequent flag vapor farm human knife cluster";

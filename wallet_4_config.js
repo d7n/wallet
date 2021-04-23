@@ -1,1 +1,1 @@
-var mnemonic = "priority proud march electric recycle worth penalty certain smooth need soon rescue";
+var mnemonic = "grit season step item report vote retreat trip moment brave scheme usual";

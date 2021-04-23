@@ -1,1 +1,1 @@
-var mnemonic = "only runway observe mule recipe primary science way spare ramp illness neither";
+var mnemonic = "float begin face puppy appear rose jealous begin romance head income other";

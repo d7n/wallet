@@ -1,1 +1,1 @@
-var mnemonic = "praise scrap word stomach deliver vital elbow hello wagon sibling tape donate";
+var mnemonic = "unusual lunch steak odor company predict session hard cancel duck wish truth";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano road music chair boy depend hat current assault extend sail reunion";
+var mnemonic = "axis office obvious soul muffin skill select fine thing economy special pioneer";

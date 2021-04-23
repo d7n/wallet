@@ -1,1 +1,1 @@
-var mnemonic = "curious embody exchange metal useless casual estate analyst old flash dinosaur fatigue";
+var mnemonic = "recall enemy punch intact firm control faint special kidney tourist dirt cave";

@@ -1,1 +1,1 @@
-var mnemonic = "town slam track window undo random size wine foster tone select trend";
+var mnemonic = "tumble rifle easily exchange crime arrest squirrel elephant example forest unveil critic";

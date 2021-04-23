@@ -1,1 +1,1 @@
-var mnemonic = "second buddy barrel obtain relief final aspect lonely caution giggle inflict lunar";
+var mnemonic = "street carbon jealous tree renew monitor dose prison phone lecture memory school";

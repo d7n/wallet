@@ -1,1 +1,1 @@
-var mnemonic = "cash pulse glance envelope celery gold poem brand visa abstract bounce key";
+var mnemonic = "all embody cannon luggage industry chimney stock wage mushroom employ day museum";

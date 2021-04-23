@@ -1,1 +1,1 @@
-var mnemonic = "keen lend fatal rule satoshi stand voice tide knife zero clap rule";
+var mnemonic = "truly utility shadow fold spatial boil worry swing toward matter inmate scale";

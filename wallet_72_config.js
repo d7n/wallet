@@ -1,1 +1,1 @@
-var mnemonic = "able scorpion agree cup whisper worth door camera boost crane distance arrow";
+var mnemonic = "point orchard cement actual net strike sausage great discover lyrics fatigue scout";

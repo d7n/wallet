@@ -1,1 +1,1 @@
-var mnemonic = "come thank eye victory emerge start utility misery aunt memory any amused";
+var mnemonic = "pause toe shadow suggest convince wrong exhibit unique mosquito near risk wrist";

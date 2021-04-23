@@ -1,1 +1,1 @@
-var mnemonic = "abuse attitude myth fiber camp dentist balance subway able blur crucial tobacco";
+var mnemonic = "hole sunny sand inquiry web medal auction alert fix member key gadget";

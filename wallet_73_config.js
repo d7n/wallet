@@ -1,1 +1,1 @@
-var mnemonic = "there plate wife lonely replace verb excuse alcohol annual soft produce virtual";
+var mnemonic = "item human weapon income caution truth nut slow any nominee accident warfare";

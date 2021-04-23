@@ -1,1 +1,1 @@
-var mnemonic = "hold source mammal sting odor obvious order hip butter lamp major asset";
+var mnemonic = "hover bless velvet tilt piece observe expand across speed present amused pulse";

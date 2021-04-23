@@ -1,1 +1,1 @@
-var mnemonic = "balcony brand open pride result excite rude general head repair inhale diagram";
+var mnemonic = "select edit elegant anger egg rare rate guess master vocal model capable";

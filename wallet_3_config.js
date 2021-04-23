@@ -1,1 +1,1 @@
-var mnemonic = "certain double hybrid churn stove solar apology dash crawl tree moral mouse";
+var mnemonic = "endless world debris country fall include cream prize opera bar cry middle";

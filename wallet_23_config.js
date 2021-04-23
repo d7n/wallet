@@ -1,1 +1,1 @@
-var mnemonic = "farm question skull axis drive essence reflect angle patch bus dentist bubble";
+var mnemonic = "essence jeans airport charge bunker clay project friend motion physical cradle upper";

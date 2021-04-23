@@ -1,1 +1,1 @@
-var mnemonic = "morning celery grain train target exclude luggage middle near gloom lyrics brand";
+var mnemonic = "mammal awake order reduce hire embrace crazy nurse weekend next protect what";

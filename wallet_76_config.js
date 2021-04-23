@@ -1,1 +1,1 @@
-var mnemonic = "name conduct smoke finger base shrug stamp student conduct curtain radio october";
+var mnemonic = "tray lens later code spray conduct exchange brand century luggage flip antenna";

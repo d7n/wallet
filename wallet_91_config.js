@@ -1,1 +1,1 @@
-var mnemonic = "pledge toy label snow length rude shed begin top bulb expect future";
+var mnemonic = "card demand found vacuum meat use park execute refuse burden gravity demise";

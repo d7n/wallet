@@ -1,1 +1,1 @@
-var mnemonic = "before cabin change relief duty giant square keep display goose beef skin";
+var mnemonic = "ticket faculty arena imitate job powder oppose banana copy card measure loud";

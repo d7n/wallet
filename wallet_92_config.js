@@ -1,1 +1,1 @@
-var mnemonic = "clump typical utility casual vast evolve wrestle found fish front shadow nest";
+var mnemonic = "poet near multiply same garment clap six short armor kit dial knife";

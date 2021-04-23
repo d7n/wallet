@@ -1,1 +1,1 @@
-var mnemonic = "party razor cherry belt tiny trouble during extend inquiry owner dutch ladder";
+var mnemonic = "conduct junk garment unknown truth aware evolve gown ticket news accuse furnace";

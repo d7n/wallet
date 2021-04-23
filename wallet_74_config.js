@@ -1,1 +1,1 @@
-var mnemonic = "exhibit minor critic upper ostrich cheese south border rebel indicate close sauce";
+var mnemonic = "debate behind track unfair language river coil business stock siege grocery dial";

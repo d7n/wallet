@@ -1,1 +1,1 @@
-var mnemonic = "wide vote noise gate book vague hire open garment order rule exotic";
+var mnemonic = "curtain tomato tooth cherry piece target disease noodle orchard hotel palace chaos";

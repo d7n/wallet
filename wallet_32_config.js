@@ -1,1 +1,1 @@
-var mnemonic = "pistol cotton oak modify fabric chief dinosaur during able wasp video spider";
+var mnemonic = "young say help hurdle shoe crane cradle debate kit wedding slab record";

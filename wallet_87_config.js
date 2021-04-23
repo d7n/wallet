@@ -1,1 +1,1 @@
-var mnemonic = "mass ginger hidden indoor achieve miss song echo process actress run load";
+var mnemonic = "awful engine rug wasp filter deliver swarm panel now acquire noise same";

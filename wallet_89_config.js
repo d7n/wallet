@@ -1,1 +1,1 @@
-var mnemonic = "doll order ugly deliver feel hello dismiss loud amateur spirit pear topple";
+var mnemonic = "oyster capable chat omit route summer cycle video radar gesture almost library";

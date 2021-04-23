@@ -1,1 +1,1 @@
-var mnemonic = "more medal novel music consider arena crazy exercise crew tobacco will silent";
+var mnemonic = "daughter cheese vanish wonder hammer equal recipe ask rabbit market giant gaze";

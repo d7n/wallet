@@ -1,1 +1,1 @@
-var mnemonic = "blush abuse sheriff heart electric family female empower episode spread solution van";
+var mnemonic = "lizard before spray save toward reunion circle girl clip ketchup hint best";

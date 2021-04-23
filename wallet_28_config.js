@@ -1,1 +1,1 @@
-var mnemonic = "deny sponsor left fatal valley muffin behind language security analyst affair carry";
+var mnemonic = "girl daughter recycle art embody exact phone render client execute beef sure";

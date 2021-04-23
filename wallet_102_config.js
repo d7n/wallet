@@ -1,1 +1,1 @@
-var mnemonic = "arch castle oyster mask nest range foil squeeze coil exist confirm stairs";
+var mnemonic = "common drink net exile ahead print wealth stock memory stem future comfort";

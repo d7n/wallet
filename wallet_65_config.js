@@ -1,1 +1,1 @@
-var mnemonic = "essence sample lock horse real gauge pretty input quarter lemon smile false";
+var mnemonic = "able model current metal casino chat army cram bullet wrestle later earth";

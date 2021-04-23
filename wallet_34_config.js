@@ -1,1 +1,1 @@
-var mnemonic = "balance uncover core fabric that insect flee memory fiscal ignore food local";
+var mnemonic = "arrow else rough gauge worry hub better possible address crouch sense outdoor";
