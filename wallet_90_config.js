@@ -1,1 +1,1 @@
-var mnemonic = "arctic coin salute rescue frequent there torch buzz plate hover hope people";
+var mnemonic = "decorate tattoo lady blast dog air company clutch number code blanket ticket";

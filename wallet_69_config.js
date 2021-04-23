@@ -1,1 +1,1 @@
-var mnemonic = "village law damage sponsor clay rack wing hat exhibit plate setup exhibit";
+var mnemonic = "work mean clay custom vote remain bitter broken purity whale shiver clinic";

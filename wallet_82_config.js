@@ -1,1 +1,1 @@
-var mnemonic = "chalk reason patient cable artist invite south dizzy mail boring session lock";
+var mnemonic = "section unknown shoe kid patch ridge unaware under citizen text notable hotel";

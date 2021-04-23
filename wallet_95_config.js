@@ -1,1 +1,1 @@
-var mnemonic = "music tourist beyond math neck famous mistake velvet forest control other artist";
+var mnemonic = "dentist yard evil entire wife eight sail still device parent wide monitor";

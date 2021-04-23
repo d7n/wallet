@@ -1,1 +1,1 @@
-var mnemonic = "kitchen oven grief play often radar hint follow ritual rail coffee nut";
+var mnemonic = "hen glide pole enable friend flame polar chimney become behind tool wear";

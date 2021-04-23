@@ -1,1 +1,1 @@
-var mnemonic = "transfer chair bone front camp elite life happy select ancient cloth tomato";
+var mnemonic = "matter palm volume furnace private raw response maximum clutch despair obscure silver";

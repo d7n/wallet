@@ -1,1 +1,1 @@
-var mnemonic = "rely aspect claw metal alarm small liquid drill crumble video sell because";
+var mnemonic = "census once disease coast solution family switch rate lady coral bulk axis";

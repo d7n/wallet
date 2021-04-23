@@ -1,1 +1,1 @@
-var mnemonic = "puppy dose end regular cliff bind heavy slam bundle develop tank own";
+var mnemonic = "vanish barrel name fee cluster bridge tourist under report occur can affair";

@@ -1,1 +1,1 @@
-var mnemonic = "filter broom bracket move taxi foil model unveil ripple escape guilt venture";
+var mnemonic = "source beef weather chat steel supreme ring crop assist choose tattoo air";

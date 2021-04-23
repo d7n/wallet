@@ -1,1 +1,1 @@
-var mnemonic = "winner report gesture exile marriage virus february cave vivid sentence animal rookie";
+var mnemonic = "story space shift upper point rough height zebra ticket gossip loop creek";

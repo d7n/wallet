@@ -1,1 +1,1 @@
-var mnemonic = "humor mom witness guide kind fish lecture next swim luxury ritual spawn";
+var mnemonic = "fresh sell merit purpose paper home glow sentence lesson elbow gold jeans";

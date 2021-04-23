@@ -1,1 +1,1 @@
-var mnemonic = "dream health waste base success pistol easy word bulb spare general diagram";
+var mnemonic = "skull original intact shell shuffle disease boss physical annual tunnel zoo sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist retire iron high finger treat need shrimp provide casino match first";
+var mnemonic = "equip interest mass panther park where chalk solar special first exclude like";

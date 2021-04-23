@@ -1,1 +1,1 @@
-var mnemonic = "tray define deliver injury primary jeans excess opera silent else pig reopen";
+var mnemonic = "glimpse envelope blast patient solar away family logic practice add camera lyrics";

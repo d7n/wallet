@@ -1,1 +1,1 @@
-var mnemonic = "skirt differ invite wire flame tuition gold tail salt enforce afraid chef";
+var mnemonic = "burger stove crawl bag accident depart fluid trust inner post catch quick";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond total leaf device glove prefer foster wreck alarm rescue elite devote";
+var mnemonic = "furnace inflict mesh news private catalog coin weekend race until curtain bleak";

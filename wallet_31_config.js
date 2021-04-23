@@ -1,1 +1,1 @@
-var mnemonic = "burden address pledge spray sleep mail apology client timber tobacco time increase";
+var mnemonic = "feel sibling cool load pepper alley force worth excuse close lunar symbol";

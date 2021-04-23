@@ -1,1 +1,1 @@
-var mnemonic = "castle box clerk shoe fruit senior bike about document proud alter abstract";
+var mnemonic = "dentist isolate basket secret glory typical infant airport aware scheme palm stick";

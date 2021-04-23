@@ -1,1 +1,1 @@
-var mnemonic = "where drill poem learn anchor clap tape pact primary clog pave turtle";
+var mnemonic = "sentence asthma million knife blur pig border sport image clog tiny lens";

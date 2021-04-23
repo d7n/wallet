@@ -1,1 +1,1 @@
-var mnemonic = "decide tool moon belt faculty donkey rug uncle dawn never arctic museum";
+var mnemonic = "permit picnic upgrade absurd dwarf peasant beach adjust guilt thought before renew";

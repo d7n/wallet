@@ -1,1 +1,1 @@
-var mnemonic = "girl because kiss trust cross gentle vicious tag unlock client trigger collect";
+var mnemonic = "pelican senior spike wing evoke blush combine bicycle purpose border bird loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor disease under matrix mass swift flush train winter detail garden festival";
+var mnemonic = "guess enjoy pepper length fortune more piece vehicle divert brand snap sure";

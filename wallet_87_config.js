@@ -1,1 +1,1 @@
-var mnemonic = "kidney wet dinosaur you tumble screen wrestle street quiz slot step color";
+var mnemonic = "decorate peanut seminar student funny off urge foam virus pair stem pill";

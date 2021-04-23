@@ -1,1 +1,1 @@
-var mnemonic = "miracle virus satisfy reveal rich warm ensure this fat trial impose eternal";
+var mnemonic = "silver input region make green agent bus caught recall room monitor neutral";

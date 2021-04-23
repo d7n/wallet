@@ -1,1 +1,1 @@
-var mnemonic = "staff door harsh page noodle there vicious fee tomorrow vendor warfare follow";
+var mnemonic = "oppose noise announce often gate churn rich play cruel pony suggest update";

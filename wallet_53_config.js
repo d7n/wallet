@@ -1,1 +1,1 @@
-var mnemonic = "define close tree upgrade lyrics recall cousin loyal foam now beach emotion";
+var mnemonic = "define board enable intact rhythm baby divide hollow armor cram ghost toilet";

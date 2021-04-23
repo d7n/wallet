@@ -1,1 +1,1 @@
-var mnemonic = "drink property drill parade innocent thrive service damp lake toward clever deputy";
+var mnemonic = "air sentence consider column barrel soap sight orphan wall rookie bachelor ripple";

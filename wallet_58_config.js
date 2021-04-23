@@ -1,1 +1,1 @@
-var mnemonic = "cube elegant slush burden slam kitchen choose side kiss actress symbol lyrics";
+var mnemonic = "attack balance labor east fog true impact useful orange fox birth forget";

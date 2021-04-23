@@ -1,1 +1,1 @@
-var mnemonic = "iron black icon siege turtle popular assault month verb spike honey enough";
+var mnemonic = "swarm critic bargain industry winner ignore during cart travel negative type task";

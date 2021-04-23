@@ -1,1 +1,1 @@
-var mnemonic = "onion hint like victory cable salmon replace bench claw runway credit crisp";
+var mnemonic = "record festival doctor alarm pluck right skill badge divorce infant buzz wink";

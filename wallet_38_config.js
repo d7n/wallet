@@ -1,1 +1,1 @@
-var mnemonic = "often aerobic must vicious asset salmon tower lake tuna conduct domain online";
+var mnemonic = "photo slam worry donor matrix turkey tortoise explain jealous scorpion fork agent";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest wrong hedgehog quick luxury brain piano kiwi inner input sunny erupt";
+var mnemonic = "disease home change barely small nerve alert crystal captain spice merry canyon";

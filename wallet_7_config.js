@@ -1,1 +1,1 @@
-var mnemonic = "satisfy blast confirm venue anchor fee ladder assume imitate wait mass demand";
+var mnemonic = "cereal host sock farm segment sing online two cave tennis round cereal";

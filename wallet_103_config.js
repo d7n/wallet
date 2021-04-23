@@ -1,1 +1,1 @@
-var mnemonic = "vintage recall robust tortoise april recycle clap door bleak rural siege slim";
+var mnemonic = "banana timber auto athlete glow step craft notable cabin maximum bid favorite";

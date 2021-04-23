@@ -1,1 +1,1 @@
-var mnemonic = "phrase deposit bacon return define fox science toe spirit collect finger high";
+var mnemonic = "cupboard surge someone enlist pass protect certain never power way cram glory";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster dizzy make cradle power violin excess fine cube announce word foam";
+var mnemonic = "around transfer primary traffic faith puzzle buddy bright across west fault spread";

@@ -1,1 +1,1 @@
-var mnemonic = "click mention box arrange fork arch health parent black surge include clever";
+var mnemonic = "path wrist fuel surge cherry firm save garage hood toe tenant raven";

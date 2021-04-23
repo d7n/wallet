@@ -1,1 +1,1 @@
-var mnemonic = "run public unlock bonus display orient plug begin express system want possible";
+var mnemonic = "lava frog law scale model where arrow mushroom maid test account cram";

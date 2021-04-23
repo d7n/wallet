@@ -1,1 +1,1 @@
-var mnemonic = "beef travel wrist behave cinnamon flat goose van hole present gravity practice";
+var mnemonic = "indoor wrestle shrug orbit goddess soft there manage check congress measure limit";

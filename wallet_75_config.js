@@ -1,1 +1,1 @@
-var mnemonic = "wrestle resemble muscle sadness memory nothing odor vocal typical thing improve mammal";
+var mnemonic = "degree goddess much soft dawn palace wet polar risk ripple stock junk";

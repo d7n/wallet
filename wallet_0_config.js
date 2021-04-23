@@ -1,1 +1,1 @@
-var mnemonic = "leader stand over journey tenant sleep month filter window element climb must";
+var mnemonic = "veteran problem ripple neck crystal knee clarify patrol various near clinic price";

@@ -1,1 +1,1 @@
-var mnemonic = "math sausage hospital hero virus media actor plate foot benefit frown zone";
+var mnemonic = "crater argue avocado bus pull blouse team company lounge spoon fever wage";

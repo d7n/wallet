@@ -1,1 +1,1 @@
-var mnemonic = "outdoor naive kit reward fantasy antenna chronic swim life sense clay better";
+var mnemonic = "kiss maximum celery glare domain market online syrup company drama vibrant cereal";

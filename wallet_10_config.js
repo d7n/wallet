@@ -1,1 +1,1 @@
-var mnemonic = "invite tomorrow candy wealth vapor crawl bread tone resist animal speed organ";
+var mnemonic = "magnet ugly judge struggle casino text legend track head oyster drama measure";

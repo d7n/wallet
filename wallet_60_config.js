@@ -1,1 +1,1 @@
-var mnemonic = "either dolphin rotate cheap vehicle song random vivid swing flavor smart junior";
+var mnemonic = "sadness sail fluid argue shrimp guard few supreme shed crawl parent cancel";

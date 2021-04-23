@@ -1,1 +1,1 @@
-var mnemonic = "actual bridge media pledge curve bronze parade apology goddess fire forest price";
+var mnemonic = "bacon ladder consider eternal bike tongue audit reject illegal admit world chunk";

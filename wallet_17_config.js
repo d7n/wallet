@@ -1,1 +1,1 @@
-var mnemonic = "copper slim noodle put luggage victory bone float circle song turn tissue";
+var mnemonic = "seed glue exile off razor bitter domain record lizard boil manual curve";

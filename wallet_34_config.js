@@ -1,1 +1,1 @@
-var mnemonic = "tail weird parent luggage action middle across tray pill festival hover giraffe";
+var mnemonic = "right feature village hen common innocent atom filter above auction tilt yellow";

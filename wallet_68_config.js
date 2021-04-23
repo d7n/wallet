@@ -1,1 +1,1 @@
-var mnemonic = "verb sun blame hobby ramp opinion spring card penalty mechanic retreat canal";
+var mnemonic = "mutual ticket fabric cook alarm rural aisle dice unveil keen venue can";

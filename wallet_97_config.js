@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ugly spin left chat music cry change behave notice obvious nature";
+var mnemonic = "diagram tiger rack album display drop toddler violin battle youth sing stomach";

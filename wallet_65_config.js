@@ -1,1 +1,1 @@
-var mnemonic = "degree orchard capital tragic lake index profit motor brisk age tiger surprise";
+var mnemonic = "alpha toe inquiry rocket review advance toddler enrich skin retreat pause replace";

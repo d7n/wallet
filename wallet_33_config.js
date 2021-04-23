@@ -1,1 +1,1 @@
-var mnemonic = "soap stool rare require black dance stove mimic solution vessel snack resource";
+var mnemonic = "artist flee possible online dolphin flip agree fruit easy sadness crush describe";

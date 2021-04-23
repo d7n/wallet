@@ -1,1 +1,1 @@
-var mnemonic = "aunt scene sheriff income novel find car unfair worry cloud opinion nerve";
+var mnemonic = "differ world drip quit piano people trigger kick hire math aisle industry";

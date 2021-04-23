@@ -1,1 +1,1 @@
-var mnemonic = "please mom aisle cabbage calm upgrade entry choose differ parade man hope";
+var mnemonic = "recall spend belt tide draft opinion dignity task undo step blush salute";

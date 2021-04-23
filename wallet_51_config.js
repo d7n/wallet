@@ -1,1 +1,1 @@
-var mnemonic = "unfold baby document small rule pill extra funny sibling tenant feature ramp";
+var mnemonic = "marriage token ridge cook tattoo major destroy ugly six own slice you";

@@ -1,1 +1,1 @@
-var mnemonic = "own waste clip ginger mad myself isolate hour merit ill clap tragic";
+var mnemonic = "inch whisper almost upgrade choice concert guard forest anchor coast broken prefer";

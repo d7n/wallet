@@ -1,1 +1,1 @@
-var mnemonic = "rice monkey practice never hello sport fancy text angle panel tomato dumb";
+var mnemonic = "scale furnace ladder jewel dwarf guide cactus style bamboo tortoise six soup";

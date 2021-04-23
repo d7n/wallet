@@ -1,1 +1,1 @@
-var mnemonic = "sponsor general brief gasp place six extra flip penalty rapid whisper globe";
+var mnemonic = "scorpion sell section rug impose spell enemy uniform put predict amused rent";

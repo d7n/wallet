@@ -1,1 +1,1 @@
-var mnemonic = "board target jeans area shield beach someone grow grape woman fresh opera";
+var mnemonic = "trumpet like traffic reject wheat exile fiction lumber ranch piano hobby flee";

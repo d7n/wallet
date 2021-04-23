@@ -1,1 +1,1 @@
-var mnemonic = "essence blossom spoon wise school denial peanut shoulder chest suit broom glance";
+var mnemonic = "thrive hand crane caution small gadget solve element below select spell item";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor patrol spy tone stamp spot loan few panic lava thrive across";
+var mnemonic = "winter walnut bless powder loan celery genuine rival banana exchange solve love";

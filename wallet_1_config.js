@@ -1,1 +1,1 @@
-var mnemonic = "dignity rabbit bring track photo crash weekend expire small slush taste aware";
+var mnemonic = "fiber ladder scatter ensure analyst problem frost online afraid enhance prize tone";

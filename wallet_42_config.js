@@ -1,1 +1,1 @@
-var mnemonic = "club cube lake prevent daring boost siren suggest wealth desert wait describe";
+var mnemonic = "toward devote nut situate air pluck curtain easily meat embrace resemble exclude";

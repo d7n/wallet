@@ -1,1 +1,1 @@
-var mnemonic = "pause butter mistake message noble hour useful hub reunion action tiger wealth";
+var mnemonic = "item home rubber slim mother bottom kingdom caught actress milk empower basket";

@@ -1,1 +1,1 @@
-var mnemonic = "royal faint recipe surface voyage pottery grief child shy arch mean vanish";
+var mnemonic = "topic labor check funny embark front memory viable agree slender inch choose";

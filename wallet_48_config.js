@@ -1,1 +1,1 @@
-var mnemonic = "warm uphold again open smart key hire fuel industry able unhappy crouch";
+var mnemonic = "prepare panel romance wedding fan expand expand ecology enemy interest table tuna";

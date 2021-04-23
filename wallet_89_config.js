@@ -1,1 +1,1 @@
-var mnemonic = "creek flag gallery cancel mammal admit magnet suspect pioneer day exercise soon";
+var mnemonic = "journey faculty dinosaur level cushion edge stereo ball help melt river task";

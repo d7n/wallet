@@ -1,1 +1,1 @@
-var mnemonic = "column staff alert example tape ankle vibrant antenna oyster crumble autumn slogan";
+var mnemonic = "ensure debate mosquito fee usage crumble hybrid enforce ethics recycle carpet deal";

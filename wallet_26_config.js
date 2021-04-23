@@ -1,1 +1,1 @@
-var mnemonic = "reward dilemma glare bind pottery foam social moment supply reward drill property";
+var mnemonic = "green easy canyon gun execute enemy reason guilt exclude boost dust imitate";

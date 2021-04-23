@@ -1,1 +1,1 @@
-var mnemonic = "leader duty slot cry cake clinic candy filter minute denial verb amazing";
+var mnemonic = "raise afraid basket civil cool laugh school rain bronze dose grocery patient";

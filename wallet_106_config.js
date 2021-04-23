@@ -1,1 +1,1 @@
-var mnemonic = "cotton explain come hollow coil giraffe deer blame burden gasp tissue gospel";
+var mnemonic = "tortoise wonder soccer bring immune ridge advice library erase wealth table wrist";

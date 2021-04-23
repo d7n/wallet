@@ -1,1 +1,1 @@
-var mnemonic = "valley flash urge tank coach hockey romance fault guilt trumpet club keen";
+var mnemonic = "foot innocent faculty bone spring blue cross awesome suspect column slender desk";

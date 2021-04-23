@@ -1,1 +1,1 @@
-var mnemonic = "member sibling rib skate decorate onion web social mix oak eager notice";
+var mnemonic = "shiver slam portion outside unable amateur start cradle same egg when celery";

@@ -1,1 +1,1 @@
-var mnemonic = "tag primary ball tongue ankle gloom spot style cream party modify chronic";
+var mnemonic = "bitter mandate wide moon marine rude large clerk tag sick between error";

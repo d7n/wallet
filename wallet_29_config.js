@@ -1,1 +1,1 @@
-var mnemonic = "step holiday struggle stone pride coin maximum carbon uncover february bracket island";
+var mnemonic = "there make orbit clip adjust midnight shop era similar poet globe behind";

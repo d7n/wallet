@@ -1,1 +1,1 @@
-var mnemonic = "load follow receive route claw heart horror vintage spare dream exhibit inch";
+var mnemonic = "smooth wish kangaroo olympic language diesel mask champion violin eye quantum warrior";

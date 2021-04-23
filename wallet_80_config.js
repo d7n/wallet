@@ -1,1 +1,1 @@
-var mnemonic = "used phone spoil improve float sail chair tag retire gauge garage rent";
+var mnemonic = "corn wink under orient cactus you wealth cricket onion face saddle zebra";

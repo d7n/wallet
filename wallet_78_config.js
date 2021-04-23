@@ -1,1 +1,1 @@
-var mnemonic = "title robust mask tortoise nature alien lady impose actor suspect ozone half";
+var mnemonic = "ocean cannon organ walk spike flush melody naive talk vacant this oak";

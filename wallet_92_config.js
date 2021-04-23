@@ -1,1 +1,1 @@
-var mnemonic = "swallow suspect tree auto tone churn begin cargo awesome match rate make";
+var mnemonic = "lecture fold link tank winner devote stem dress laundry wet company palm";

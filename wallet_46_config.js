@@ -1,1 +1,1 @@
-var mnemonic = "accuse logic stone start earn ship robust shed screen relief often when";
+var mnemonic = "stand cable begin flat great ill try fine position giant plate primary";

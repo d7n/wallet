@@ -1,1 +1,1 @@
-var mnemonic = "toilet yard meadow grace toy supreme shiver allow amazing secret rent doctor";
+var mnemonic = "degree supply supply total occur glance foster uncle symbol arrange flock accident";

@@ -1,1 +1,1 @@
-var mnemonic = "length fragile seek tennis cup vault badge action sudden evolve churn cage";
+var mnemonic = "fortune witness flower chief track initial lounge eager crisp upon accident immense";
