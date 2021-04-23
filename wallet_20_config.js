@@ -1,1 +1,1 @@
-var mnemonic = "floor maze public phrase thrive rack make chat stumble eyebrow solid erase";
+var mnemonic = "erase puppy inject verify possible fine virtual invite venue fine carry ecology";

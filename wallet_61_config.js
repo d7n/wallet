@@ -1,1 +1,1 @@
-var mnemonic = "unaware reason cloth reunion walk length breeze faint wild mansion chalk evil";
+var mnemonic = "hurdle depth cruise install super crawl cactus jeans unlock drive rabbit cash";

@@ -1,1 +1,1 @@
-var mnemonic = "throw scissors soft aerobic wear gauge width analyst swamp foot fish moment";
+var mnemonic = "ring vivid quarter detail danger ball favorite rain ignore opera proof legal";

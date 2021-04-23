@@ -1,1 +1,1 @@
-var mnemonic = "diesel floor upon secret rural thought capital install addict render eagle engage";
+var mnemonic = "twenty spy laundry web dirt machine liberty dragon scrub entire into solar";

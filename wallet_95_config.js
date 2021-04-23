@@ -1,1 +1,1 @@
-var mnemonic = "relief short what zebra size surface prosper talk bulb inflict easy pass";
+var mnemonic = "confirm clever depart marine rocket party finger crime layer suspect festival journey";

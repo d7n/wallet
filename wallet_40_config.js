@@ -1,1 +1,1 @@
-var mnemonic = "jeans nose punch safe blame offer code normal inquiry puzzle execute wash";
+var mnemonic = "dwarf style shuffle dance shine insect oil tomato dinner island noise congress";

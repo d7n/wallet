@@ -1,1 +1,1 @@
-var mnemonic = "entry october range swear forward warfare vote leaf trap brave live dinner";
+var mnemonic = "sample flush style tired setup success point unique diet basic private castle";

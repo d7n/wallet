@@ -1,1 +1,1 @@
-var mnemonic = "fatigue filter disease cave north ankle alarm crater motor butter solution grain";
+var mnemonic = "buzz sphere vault since silent essence run rule analyst crew sister local";

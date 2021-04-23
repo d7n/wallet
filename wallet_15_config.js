@@ -1,1 +1,1 @@
-var mnemonic = "arrest path joke letter normal antenna burger chief burden okay arrange source";
+var mnemonic = "check access cabbage problem over feed scale bring swallow accident bid burger";

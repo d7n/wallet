@@ -1,1 +1,1 @@
-var mnemonic = "disease old leisure pilot heavy bicycle need damp idea sauce fortune act";
+var mnemonic = "raise such sudden silver total innocent office laptop figure asset sudden evil";

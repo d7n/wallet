@@ -1,1 +1,1 @@
-var mnemonic = "fancy tortoise symptom flame doll water city illness bulb monitor notable else";
+var mnemonic = "between degree boss broccoli royal judge swamp solar narrow border brave erase";

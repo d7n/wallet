@@ -1,1 +1,1 @@
-var mnemonic = "poem bacon offer cannon depart devote rain remember nominee truth connect property";
+var mnemonic = "kick rigid visit caution ancient explain sugar sadness kidney just inside funny";

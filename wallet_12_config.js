@@ -1,1 +1,1 @@
-var mnemonic = "belt true start soccer crouch renew sibling atom joy swarm social pave";
+var mnemonic = "typical monitor eyebrow once vanish receive firm cup sell kitchen clean slim";

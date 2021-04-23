@@ -1,1 +1,1 @@
-var mnemonic = "depth color depth color coffee muscle kite eager oblige deal dice welcome";
+var mnemonic = "walk narrow priority mutual able yard better video pill silent lottery purse";

@@ -1,1 +1,1 @@
-var mnemonic = "town round narrow major swim current blame electric stage pave famous rude";
+var mnemonic = "hedgehog search office reform own lazy erosion royal school betray tuna vendor";

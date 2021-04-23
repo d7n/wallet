@@ -1,1 +1,1 @@
-var mnemonic = "brush finish best use float blouse dignity practice sight immense addict tower";
+var mnemonic = "now damage miracle depart exchange draft fantasy egg sea limit upper fix";

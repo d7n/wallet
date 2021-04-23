@@ -1,1 +1,1 @@
-var mnemonic = "eager zone critic shadow help confirm town since snow tag shrug girl";
+var mnemonic = "base doll artwork meadow picture festival friend axis sleep crime length number";

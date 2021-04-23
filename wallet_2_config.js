@@ -1,1 +1,1 @@
-var mnemonic = "page advance average response convince earth whip creek over cereal burden inside";
+var mnemonic = "grunt output melt snap luggage noble all burger letter exhaust crack bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform village mouse excess picture relief universe jewel carpet romance camera tide";
+var mnemonic = "blast police eyebrow truck news baby print rocket trip degree swear plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat program bitter brisk tomorrow rent behind turkey script entry dentist start";
+var mnemonic = "much outer law delay start club hedgehog over cancel elbow fault one";

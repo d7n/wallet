@@ -1,1 +1,1 @@
-var mnemonic = "move addict twin roast client pottery jacket fix top angle chaos pen";
+var mnemonic = "neither poverty label glue ensure thunder gravity install claw nuclear luxury guitar";

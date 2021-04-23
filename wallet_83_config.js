@@ -1,1 +1,1 @@
-var mnemonic = "resemble grid heart save plastic thumb live jungle federal thing essay toss";
+var mnemonic = "until weekend black holiday theme inner senior black awesome boss soap girl";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease west party permit reduce gesture spike grape marine sunset latin venue";
+var mnemonic = "crisp wage coach wealth drip expect roast maple indoor spin argue royal";

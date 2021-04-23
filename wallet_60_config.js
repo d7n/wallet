@@ -1,1 +1,1 @@
-var mnemonic = "maximum goat front burst behind excess token first orbit mansion river melody";
+var mnemonic = "bean code under combine viable allow fix crystal side harvest piano work";

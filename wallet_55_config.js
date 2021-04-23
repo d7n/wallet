@@ -1,1 +1,1 @@
-var mnemonic = "flavor elite fatal they industry barrel short today tree model remain above";
+var mnemonic = "slender holiday normal pipe finish nasty chef hungry swap crisp clinic inner";

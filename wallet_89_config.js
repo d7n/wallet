@@ -1,1 +1,1 @@
-var mnemonic = "glance mystery issue bird glance position kitchen decorate flight hold front canoe";
+var mnemonic = "right harsh pole pipe cram mind syrup patch mushroom envelope truth february";

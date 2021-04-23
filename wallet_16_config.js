@@ -1,1 +1,1 @@
-var mnemonic = "churn assault chimney reunion high cream regret immense choose example fog material";
+var mnemonic = "material antenna ice oven diesel evoke simple speak hen finger addict range";

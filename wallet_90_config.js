@@ -1,1 +1,1 @@
-var mnemonic = "panic lesson pudding device hair assist kidney seed owner motion amateur coach";
+var mnemonic = "entire nut drama claim wreck because advice junior host cruel asthma obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "palm design evolve borrow giraffe small flat choice blame retire place heavy";
+var mnemonic = "motion shield author battle slush pilot volcano depth code ginger virtual reject";

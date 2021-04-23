@@ -1,1 +1,1 @@
-var mnemonic = "course staff quality weapon finger neglect cereal fragile bring cupboard energy evolve";
+var mnemonic = "stuff midnight top cook enhance father card direct basic expect oil math";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal remove hour profit depth sheriff setup exact approve mixture cloth security";
+var mnemonic = "eternal approve anger flip battle amazing hub fox blossom weapon dismiss matrix";

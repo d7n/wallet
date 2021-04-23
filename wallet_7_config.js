@@ -1,1 +1,1 @@
-var mnemonic = "beauty snack enhance genre key thought armor crucial unveil jump decade among";
+var mnemonic = "switch silk rival quiz immune theory near cube interest witness student purse";

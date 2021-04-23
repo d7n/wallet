@@ -1,1 +1,1 @@
-var mnemonic = "hour tank course joke become cloud rookie april nasty flip clay festival";
+var mnemonic = "priority drill tape grid hard fence lemon tortoise right dad talent crumble";

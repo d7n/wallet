@@ -1,1 +1,1 @@
-var mnemonic = "belt emerge between knock truth detect speed hello smoke smart safe result";
+var mnemonic = "weather guilt august gloom inner harvest pottery basket frown ahead turkey similar";

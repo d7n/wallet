@@ -1,1 +1,1 @@
-var mnemonic = "sand vessel village this same undo thunder casino roof royal eternal coconut";
+var mnemonic = "chaos place boy orient water hamster fossil result enable medal cat expose";

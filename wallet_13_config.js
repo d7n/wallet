@@ -1,1 +1,1 @@
-var mnemonic = "edit apart tunnel city course garden broom hockey elegant fruit manage pitch";
+var mnemonic = "enact online toast throw drive leader rabbit amused dash stereo light myself";

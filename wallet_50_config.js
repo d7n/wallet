@@ -1,1 +1,1 @@
-var mnemonic = "below dignity dignity rose turn brand ignore acoustic aisle dance level setup";
+var mnemonic = "decorate smooth boring degree favorite cart run there hospital sister inner area";

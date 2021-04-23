@@ -1,1 +1,1 @@
-var mnemonic = "submit bless nut crouch gift original soon today huge distance blush stick";
+var mnemonic = "index jelly arena pepper scene sell dream goddess ladder urban taste rain";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon relief abandon dish month theory infant depend moment floor seed indicate";
+var mnemonic = "regular badge army retreat grant fence captain rubber decline special village clinic";

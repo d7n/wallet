@@ -1,1 +1,1 @@
-var mnemonic = "process hood outdoor animal emotion enemy orange vacant sunset dynamic brand usual";
+var mnemonic = "cattle humble lava pill brush convince glad marriage involve rabbit lake alcohol";

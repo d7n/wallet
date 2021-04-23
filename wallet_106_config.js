@@ -1,1 +1,1 @@
-var mnemonic = "hub tobacco arctic monitor initial between ugly report bullet salmon ordinary eyebrow";
+var mnemonic = "hungry carry color zoo motor speak eagle view inquiry urban draft height";

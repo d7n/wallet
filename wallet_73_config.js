@@ -1,1 +1,1 @@
-var mnemonic = "trap eagle venture snake act upper sphere opera song fine account taxi";
+var mnemonic = "auto conduct empty during manage unknown adjust power ill excite attack library";

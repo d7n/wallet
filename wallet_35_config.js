@@ -1,1 +1,1 @@
-var mnemonic = "draw tooth defense faint smile sibling hurry zoo divide remind lens habit";
+var mnemonic = "gap chronic remind soon crawl enroll music trophy improve fringe elevator bean";

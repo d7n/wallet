@@ -1,1 +1,1 @@
-var mnemonic = "embrace surge tonight since deal orphan shine measure valid develop vehicle worth";
+var mnemonic = "pear crisp express fame mix obscure gesture cigar nose crazy frequent accuse";

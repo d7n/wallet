@@ -1,1 +1,1 @@
-var mnemonic = "sauce ask mother gentle breeze ankle ability labor mercy eager search click";
+var mnemonic = "boost window spring trophy system outside desk cover equip online olympic indicate";

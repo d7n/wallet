@@ -1,1 +1,1 @@
-var mnemonic = "wasp obvious course shallow swap because dove kiss grace damage sock sport";
+var mnemonic = "slam powder deal speak absurd hotel ritual joke total trigger result debris";

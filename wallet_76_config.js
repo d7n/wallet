@@ -1,1 +1,1 @@
-var mnemonic = "awesome bird that sniff slide make hedgehog behind control prepare twist regular";
+var mnemonic = "squirrel hope glance melt grow daring worry cricket baby surge opinion service";

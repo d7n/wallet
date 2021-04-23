@@ -1,1 +1,1 @@
-var mnemonic = "gold owner tomato recycle hello pumpkin annual review torch rifle wave file";
+var mnemonic = "luxury trim long ticket foam dove visit lyrics afraid position battle magnet";

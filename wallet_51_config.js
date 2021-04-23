@@ -1,1 +1,1 @@
-var mnemonic = "raccoon bitter nose quiz wasp same tragic learn sibling eight butter useless";
+var mnemonic = "brief duty ranch wage tomorrow border saddle oval youth deposit cupboard permit";

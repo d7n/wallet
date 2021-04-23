@@ -1,1 +1,1 @@
-var mnemonic = "attract much echo taxi aunt design melody brave better purchase consider inherit";
+var mnemonic = "merge visit hole clip cattle empty desk popular play horror own ginger";

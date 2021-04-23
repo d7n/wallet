@@ -1,1 +1,1 @@
-var mnemonic = "tackle enhance yard staff kid grit stick autumn about decline romance vintage";
+var mnemonic = "border stage color country month blind ripple scorpion mind observe decrease grant";

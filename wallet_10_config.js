@@ -1,1 +1,1 @@
-var mnemonic = "exit ostrich usual repeat celery quantum cram opera disorder atom forget badge";
+var mnemonic = "together final crime hello grid joy replace pear tourist elder strike control";

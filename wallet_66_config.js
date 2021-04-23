@@ -1,1 +1,1 @@
-var mnemonic = "inquiry bless arena team vivid genuine top coffee hurry wine clerk pledge";
+var mnemonic = "jazz liquid actual hen fix choose cry brass ship mask toilet shell";

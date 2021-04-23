@@ -1,1 +1,1 @@
-var mnemonic = "cattle art slim cinnamon cigar method change fold upon win garbage nurse";
+var mnemonic = "mammal luggage cancel arch only call vapor afraid dinosaur figure broccoli wool";

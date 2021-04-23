@@ -1,1 +1,1 @@
-var mnemonic = "side aware strike impulse library half sword insect visa setup model soldier";
+var mnemonic = "piano bounce long height permit enlist fan column wrist uphold plug chapter";

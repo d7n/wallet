@@ -1,1 +1,1 @@
-var mnemonic = "glow happy home bring frozen clown world immune opera marriage correct crucial";
+var mnemonic = "clever hurry water inner wonder outdoor disorder lizard pact danger romance spread";

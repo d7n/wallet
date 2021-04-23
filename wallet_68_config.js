@@ -1,1 +1,1 @@
-var mnemonic = "mail weasel spy fitness filter ice bulk panel level cat knock rough";
+var mnemonic = "tooth enforce lottery turn hurdle cry leave old panda subject tray aim";

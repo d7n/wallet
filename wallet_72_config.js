@@ -1,1 +1,1 @@
-var mnemonic = "day ozone deny behind rib giraffe liberty zebra random ranch feature stadium";
+var mnemonic = "move canal remember vault surprise pupil purchase poem device congress armor near";

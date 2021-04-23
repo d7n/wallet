@@ -1,1 +1,1 @@
-var mnemonic = "electric oppose season close over cement patrol dust sure fantasy peanut debate";
+var mnemonic = "evil crowd diet atom fault situate blanket festival candy turn issue fiscal";

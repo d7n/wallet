@@ -1,1 +1,1 @@
-var mnemonic = "stomach wreck couple boat inside weather peasant curve check update few easily";
+var mnemonic = "correct soap air congress milk armed refuse lonely good order section help";

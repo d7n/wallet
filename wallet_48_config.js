@@ -1,1 +1,1 @@
-var mnemonic = "pledge image gloom wide scheme square wrist achieve jacket smoke assume update";
+var mnemonic = "live stuff trust reveal husband neutral fortune still grid train fence wait";

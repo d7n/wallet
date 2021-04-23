@@ -1,1 +1,1 @@
-var mnemonic = "swarm annual bamboo song renew sustain bachelor horror since gloom endorse suit";
+var mnemonic = "result news false jump broccoli spider crush artefact neutral impact piano purity";

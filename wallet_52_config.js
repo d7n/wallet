@@ -1,1 +1,1 @@
-var mnemonic = "erode friend around card honey satisfy flame day hip injury hour pulp";
+var mnemonic = "pill clerk exact spatial account wife simple canal slot assume pretty rely";

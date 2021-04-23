@@ -1,1 +1,1 @@
-var mnemonic = "online aunt diary moment mesh purpose business version monster science gain rate";
+var mnemonic = "dice frost nice enforce consider amateur silver language history pass blanket adjust";

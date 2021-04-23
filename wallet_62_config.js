@@ -1,1 +1,1 @@
-var mnemonic = "virus olympic scare logic flag fatigue usage always wet shoe choice chef";
+var mnemonic = "resist cover expect that grocery chuckle laptop frown private airport royal divide";

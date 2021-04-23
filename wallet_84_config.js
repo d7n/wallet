@@ -1,1 +1,1 @@
-var mnemonic = "destroy road surround trip what hour lamp wealth lab trap glass various";
+var mnemonic = "skill wealth tongue essay town atom embrace rural office vacuum moment solar";

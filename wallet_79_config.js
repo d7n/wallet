@@ -1,1 +1,1 @@
-var mnemonic = "discover diet demise weather dilemma security enjoy season upon basic jeans script";
+var mnemonic = "grain mobile fork innocent hurdle useful brisk omit elder day upon gasp";

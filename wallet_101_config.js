@@ -1,1 +1,1 @@
-var mnemonic = "diary train song before design inflict mix citizen squeeze month resist scrap";
+var mnemonic = "blame wait alone also kitten silly street orange bird garden talk draw";

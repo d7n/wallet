@@ -1,1 +1,1 @@
-var mnemonic = "castle knife addict pepper meadow area mixture auction merry crazy puppy decide";
+var mnemonic = "ring artwork junior march clock piece sorry sibling food cradle flower chapter";

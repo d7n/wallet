@@ -1,1 +1,1 @@
-var mnemonic = "asset scan spoil win valid cargo cable maid quality next issue sport";
+var mnemonic = "place logic aware afraid media area saddle sugar enough diet foster dog";

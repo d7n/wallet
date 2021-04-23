@@ -1,1 +1,1 @@
-var mnemonic = "firm zone client picture wage sort photo wreck unit stock clump process";
+var mnemonic = "portion cross firm laptop pet fade mistake pause network glue normal verb";

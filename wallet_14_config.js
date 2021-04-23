@@ -1,1 +1,1 @@
-var mnemonic = "again embrace wife library current deposit basket modify bargain dentist grass public";
+var mnemonic = "ripple fence trash coral fly often parent win venture perfect embody trumpet";

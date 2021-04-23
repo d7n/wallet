@@ -1,1 +1,1 @@
-var mnemonic = "anchor glide kangaroo lion still wrestle direct mansion test chat food betray";
+var mnemonic = "island bamboo hood test dentist wood tone sister film industry turtle borrow";

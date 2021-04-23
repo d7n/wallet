@@ -1,1 +1,1 @@
-var mnemonic = "ice tattoo evidence mask exhaust miss dash today tooth lake leaf meadow";
+var mnemonic = "raven mandate grain leg turtle conduct couch lion major patch boil crime";

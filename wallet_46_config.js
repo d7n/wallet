@@ -1,1 +1,1 @@
-var mnemonic = "liar bracket caution proof lesson canvas grab hungry destroy fence access squirrel";
+var mnemonic = "hammer turn small cherry develop wonder payment kangaroo involve road decide evoke";

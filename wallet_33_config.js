@@ -1,1 +1,1 @@
-var mnemonic = "until note flip alcohol panther broom ensure inhale recycle require forget normal";
+var mnemonic = "expect buffalo unknown drink piano submit armed tower sponsor today chief face";

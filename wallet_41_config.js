@@ -1,1 +1,1 @@
-var mnemonic = "noble polar ride attend thunder apple price theme solve split wire pepper";
+var mnemonic = "convince weapon calm edge viable way thunder lonely minute sort bean rotate";

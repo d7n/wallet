@@ -1,1 +1,1 @@
-var mnemonic = "ask puzzle snap hub mail maple actress fork sweet number castle blast";
+var mnemonic = "black artwork lizard tip range they boil issue episode torch abstract once";

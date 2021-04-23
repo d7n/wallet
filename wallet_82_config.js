@@ -1,1 +1,1 @@
-var mnemonic = "father theme rice siege film fork baby upset regular upgrade craft juice";
+var mnemonic = "panther vast save accident ahead canal brand aerobic possible pencil profit view";

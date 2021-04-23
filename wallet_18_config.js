@@ -1,1 +1,1 @@
-var mnemonic = "remain chase zebra scene dove nasty still enroll limit width use damp";
+var mnemonic = "lawn hover stairs thank addict eternal album final vault point hybrid argue";

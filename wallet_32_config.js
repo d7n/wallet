@@ -1,1 +1,1 @@
-var mnemonic = "couch increase actor virtual stumble leaf blame grass else census strategy basic";
+var mnemonic = "inch afraid split fury mosquito remain nerve seminar monitor plug guide scissors";

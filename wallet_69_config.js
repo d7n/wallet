@@ -1,1 +1,1 @@
-var mnemonic = "portion thumb analyst fold mention feature abandon other soul canyon exist judge";
+var mnemonic = "two swamp unique rocket jazz over again stove circle maximum enlist frequent";

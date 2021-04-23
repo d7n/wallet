@@ -1,1 +1,1 @@
-var mnemonic = "tag sport topple loop wood question assault solve plunge best outside bounce";
+var mnemonic = "fix sure insect cram attend tiny travel bind tongue length small debris";

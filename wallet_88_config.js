@@ -1,1 +1,1 @@
-var mnemonic = "client best width language turkey deal loan wrist plug frost apology design";
+var mnemonic = "embark erupt uncle spawn diet shove cram valve icon auction game soda";

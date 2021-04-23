@@ -1,1 +1,1 @@
-var mnemonic = "ensure kangaroo base either either sock room sibling put version mammal car";
+var mnemonic = "argue blossom puzzle execute blade betray setup trigger abuse label lab matrix";

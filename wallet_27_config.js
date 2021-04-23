@@ -1,1 +1,1 @@
-var mnemonic = "endorse ranch creek worth silk canyon wisdom critic identify more arrow safe";
+var mnemonic = "decade clean endless solid rough wash scare clock original drift mom question";

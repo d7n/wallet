@@ -1,1 +1,1 @@
-var mnemonic = "hurdle repeat fluid sweet bright idea skirt remove topic label green dentist";
+var mnemonic = "crawl pet language garden broom tilt birth mansion saddle copper bulb try";

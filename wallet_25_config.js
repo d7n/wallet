@@ -1,1 +1,1 @@
-var mnemonic = "human love burden shell safe camp surround grape often race supreme churn";
+var mnemonic = "sadness venture fork cherry buyer tell age shield tumble person hobby dumb";

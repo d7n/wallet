@@ -1,1 +1,1 @@
-var mnemonic = "bullet produce stairs avoid dance race minimum also venture organ eternal debris";
+var mnemonic = "truth alpha spring pet canvas inside bag unaware creek oxygen eager congress";

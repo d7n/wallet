@@ -1,1 +1,1 @@
-var mnemonic = "since aisle insane galaxy midnight mesh vanish puppy property retire rotate define";
+var mnemonic = "wide drastic divert blind verify doll speak cat reflect forward omit west";

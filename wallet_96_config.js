@@ -1,1 +1,1 @@
-var mnemonic = "thrive wolf jeans cinnamon dish vendor barrel wait chaos volume tragic nose";
+var mnemonic = "photo legal foot access napkin scare toast bean blind because shoulder trust";

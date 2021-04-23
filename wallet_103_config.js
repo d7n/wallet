@@ -1,1 +1,1 @@
-var mnemonic = "crawl analyst second debate topple myth double meat label upper beach ripple";
+var mnemonic = "service habit reduce enable erode inside leisure olympic matrix cruel luggage rebuild";
