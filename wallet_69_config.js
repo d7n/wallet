@@ -1,1 +1,1 @@
-var mnemonic = "skill sing buddy ginger gasp verify brush field stand grit sail jacket";
+var mnemonic = "custom math income actress mimic seven culture cabbage aisle inflict noodle over";

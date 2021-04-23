@@ -1,1 +1,1 @@
-var mnemonic = "wrap space defy absent book sport final judge juice remind solar gossip";
+var mnemonic = "shrug barely mean gain this deposit eagle mom shield river rate aunt";

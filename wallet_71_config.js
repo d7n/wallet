@@ -1,1 +1,1 @@
-var mnemonic = "rookie hope distance music walnut tag just drama absurd confirm canal deputy";
+var mnemonic = "bless artefact orphan between salt giggle wrist science soon issue story you";

@@ -1,1 +1,1 @@
-var mnemonic = "critic monitor fiber fade sort about brave frame people fancy arm broken";
+var mnemonic = "kingdom need hobby manage subway predict brain rookie diesel input width visa";

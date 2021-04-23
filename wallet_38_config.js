@@ -1,1 +1,1 @@
-var mnemonic = "good act clerk bullet poem senior push foil suspect ocean sail brisk";
+var mnemonic = "year setup kid ability evil regret scrap load tip mixture juice enhance";

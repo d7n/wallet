@@ -1,1 +1,1 @@
-var mnemonic = "office sauce kick depend judge large joy coast place acquire ship town";
+var mnemonic = "cry diet warm layer just trap pretty couch author morning park hungry";

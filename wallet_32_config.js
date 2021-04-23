@@ -1,1 +1,1 @@
-var mnemonic = "file hollow cherry repair matrix skill special spice parade tag unusual evil";
+var mnemonic = "mixture puppy seat valid labor finish point dumb arena dad skin fuel";

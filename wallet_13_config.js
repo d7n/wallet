@@ -1,1 +1,1 @@
-var mnemonic = "strike blind cement popular solve tray bean toward beauty nerve crazy dutch";
+var mnemonic = "item kiss pelican practice item vacuum dress jump awake approve uphold thing";

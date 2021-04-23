@@ -1,1 +1,1 @@
-var mnemonic = "awkward present behind provide debate elevator rib museum bachelor harsh dial cruise";
+var mnemonic = "series horror subway gallery narrow kid foot forest east suspect license vital";

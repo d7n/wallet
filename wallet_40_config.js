@@ -1,1 +1,1 @@
-var mnemonic = "diesel crowd idle lamp gravity dog visual bring victory mimic short grocery";
+var mnemonic = "protect pudding rally excess weekend exist jeans deputy lemon curve grape donor";

@@ -1,1 +1,1 @@
-var mnemonic = "brand royal scout pair powder praise timber forget bean sick please ancient";
+var mnemonic = "defy fatal fruit tonight eagle waste scatter spring skill expose tree peasant";

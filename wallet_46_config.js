@@ -1,1 +1,1 @@
-var mnemonic = "bleak praise cloth boil slush grid come tower embrace shaft gadget deer";
+var mnemonic = "party jealous ostrich aerobic acid sad hand cage seven fatigue eternal bulk";

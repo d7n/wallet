@@ -1,1 +1,1 @@
-var mnemonic = "evil slab kidney seven hockey fetch goose silly army human mix route";
+var mnemonic = "toss raw video ice metal maid sauce divert cycle gospel coil timber";

@@ -1,1 +1,1 @@
-var mnemonic = "soft gadget glory similar town learn glove steel win main leisure neutral";
+var mnemonic = "route banana range ceiling pilot fancy typical food slot twenty shift lizard";

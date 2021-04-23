@@ -1,1 +1,1 @@
-var mnemonic = "fit velvet token daring nothing tumble original first ridge shift penalty post";
+var mnemonic = "inch tuition great pulp warrior outer begin walnut still snow nuclear pipe";

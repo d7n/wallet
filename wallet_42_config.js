@@ -1,1 +1,1 @@
-var mnemonic = "fringe double advance outer comic negative name auto umbrella junk answer ring";
+var mnemonic = "achieve always topple more license mercy derive tourist ticket observe concert tape";

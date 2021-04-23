@@ -1,1 +1,1 @@
-var mnemonic = "arrange canoe melt hamster knife powder occur journey supreme defense stuff spoon";
+var mnemonic = "flame sibling guilt sting daughter century clay august setup search south fragile";

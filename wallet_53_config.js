@@ -1,1 +1,1 @@
-var mnemonic = "grab possible convince sugar summer feel space chronic liar butter humor uniform";
+var mnemonic = "stool panda penalty swift kitchen fork liar start vendor dust equal layer";

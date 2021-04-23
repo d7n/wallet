@@ -1,1 +1,1 @@
-var mnemonic = "undo travel broken cube absent consider pretty ancient hill swing quit hope";
+var mnemonic = "impulse dad august claim boat buzz ugly light antique save oven surround";

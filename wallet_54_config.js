@@ -1,1 +1,1 @@
-var mnemonic = "glimpse forest wet stairs rally tired shine margin face paddle stay baby";
+var mnemonic = "scan logic flavor success aerobic code supply anger sunset girl pumpkin receive";

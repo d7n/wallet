@@ -1,1 +1,1 @@
-var mnemonic = "rebuild idea wine gift door chest tent analyst heart original digital comfort";
+var mnemonic = "balance property because host love kite stadium vicious raw visual flash hub";

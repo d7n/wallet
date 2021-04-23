@@ -1,1 +1,1 @@
-var mnemonic = "huge category foil current jealous elevator tissue script lake cigar together cement";
+var mnemonic = "frozen double suffer carpet dune punch moon zero canoe clarify skirt use";

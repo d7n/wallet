@@ -1,1 +1,1 @@
-var mnemonic = "thrive voyage aisle use tunnel alcohol shoot verify bulb grant stone romance";
+var mnemonic = "wash velvet gloom alpha concert guard occur turkey glide cost tiger today";

@@ -1,1 +1,1 @@
-var mnemonic = "robot sadness sample ankle rug feel corn ketchup short finish gallery ability";
+var mnemonic = "hole above better merry member dwarf try section settle elder box matter";

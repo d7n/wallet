@@ -1,1 +1,1 @@
-var mnemonic = "tourist army extend warrior roast uphold fatigue fatigue link radio still very";
+var mnemonic = "peace rapid gasp shallow people snack clip panda roast spring evidence clay";

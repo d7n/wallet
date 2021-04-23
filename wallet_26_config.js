@@ -1,1 +1,1 @@
-var mnemonic = "grocery bright message nurse stadium champion admit forest humor pill later merit";
+var mnemonic = "canyon bomb quiz balance knock index kit render opera error page damp";

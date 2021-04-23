@@ -1,1 +1,1 @@
-var mnemonic = "planet tattoo insane whisper rabbit hole myth absent unfair cat same amazing";
+var mnemonic = "blade street record path april effort roast salute upper uniform feel enforce";

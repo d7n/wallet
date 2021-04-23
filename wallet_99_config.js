@@ -1,1 +1,1 @@
-var mnemonic = "midnight neutral talent wonder wasp dumb jar erode walk satisfy sing void";
+var mnemonic = "world nest media supply evil popular honey vague school just mimic sport";

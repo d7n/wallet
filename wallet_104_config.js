@@ -1,1 +1,1 @@
-var mnemonic = "target blast subject few legend wear vivid sense network either boat sibling";
+var mnemonic = "neck dune quit sting innocent forest eight hint husband reveal mammal toss";

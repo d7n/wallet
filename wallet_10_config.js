@@ -1,1 +1,1 @@
-var mnemonic = "sword orange endorse solution lamp convince oil vote object napkin creek wasp";
+var mnemonic = "indicate seven sort great desert affair unique key dirt key alcohol glory";

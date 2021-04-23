@@ -1,1 +1,1 @@
-var mnemonic = "photo usage assault address flag pencil dwarf glove ten autumn profit carpet";
+var mnemonic = "toddler night lift vibrant attitude bar cloth bamboo uncover render video convince";

@@ -1,1 +1,1 @@
-var mnemonic = "tree pull define search antenna guard light brave note erupt poem swap";
+var mnemonic = "electric unfold iron avocado pull suspect ice garden indoor reward tiger crawl";

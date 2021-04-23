@@ -1,1 +1,1 @@
-var mnemonic = "bitter during decline shoot express elephant biology noble sleep profit creek wish";
+var mnemonic = "horror pill kite pen unable audit similar swift tool shoulder appear fold";

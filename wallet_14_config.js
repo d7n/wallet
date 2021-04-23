@@ -1,1 +1,1 @@
-var mnemonic = "defy tag gift about venue outdoor filter pet fish ethics powder cabin";
+var mnemonic = "swallow gaze into rough anxiety joke prosper knock empty shiver snack august";

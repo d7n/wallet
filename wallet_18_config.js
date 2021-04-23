@@ -1,1 +1,1 @@
-var mnemonic = "match invite clock crash warm spy forget insect come chest unfair devote";
+var mnemonic = "spawn analyst joy social ensure fun punch birth message demand bubble family";

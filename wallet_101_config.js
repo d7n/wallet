@@ -1,1 +1,1 @@
-var mnemonic = "twist acid also future leopard actress deputy honey large mirror above eager";
+var mnemonic = "position harsh squirrel outside pistol crumble solution search critic return loyal little";

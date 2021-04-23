@@ -1,1 +1,1 @@
-var mnemonic = "gospel exit dawn mobile range guilt police replace include awake jungle movie";
+var mnemonic = "april kidney tenant harvest segment pact loyal casual hotel print grace ribbon";

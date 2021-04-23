@@ -1,1 +1,1 @@
-var mnemonic = "door spy airport vintage casino sweet bronze charge into sausage sunny switch";
+var mnemonic = "naive gain physical improve inject cliff truck border police lake find drama";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge outer film give unique envelope grass nice segment keep much inspire";
+var mnemonic = "tragic faint stairs reward off good wing situate rocket little eagle margin";

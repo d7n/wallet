@@ -1,1 +1,1 @@
-var mnemonic = "hundred lawn final biology fee palace essay crash sleep glad chronic inside";
+var mnemonic = "sphere damage chuckle amused acquire minor match outer mule attend couch lab";

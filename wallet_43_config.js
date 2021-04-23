@@ -1,1 +1,1 @@
-var mnemonic = "pepper cross loop liberty walk armed benefit oak cannon ancient only category";
+var mnemonic = "lesson faint fiscal poem baby shaft scare tide universe slogan wing man";

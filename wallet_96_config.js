@@ -1,1 +1,1 @@
-var mnemonic = "minimum replace submit express uniform boil creek twin room video summer excuse";
+var mnemonic = "chronic canvas barely stadium inject frame friend police text portion turkey innocent";

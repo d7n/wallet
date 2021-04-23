@@ -1,1 +1,1 @@
-var mnemonic = "inside umbrella supply when success twice melt human govern mirror plug library";
+var mnemonic = "flight toilet leave wait history inject split claw height hip baby color";

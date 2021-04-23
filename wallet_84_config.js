@@ -1,1 +1,1 @@
-var mnemonic = "talent jump employ present unable spring decorate soda error thrive dwarf enjoy";
+var mnemonic = "custom ship mass act awake dinosaur birth slide vessel engage answer mix";

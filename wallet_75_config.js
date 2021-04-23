@@ -1,1 +1,1 @@
-var mnemonic = "drift cable clerk derive fat above double violin nerve correct cup famous";
+var mnemonic = "cost trophy current oval apology economy allow weapon list flag tackle goddess";

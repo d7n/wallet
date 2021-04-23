@@ -1,1 +1,1 @@
-var mnemonic = "check hybrid strategy beach detect stock love stairs stable decide topple extra";
+var mnemonic = "quit poet hero drift sugar before already divorce daring jaguar sister picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "element aspect mail crime silver speed evolve sort toe ice clown monkey";
+var mnemonic = "argue hybrid egg palace beyond damp situate arch duty worth bleak smart";

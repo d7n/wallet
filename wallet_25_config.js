@@ -1,1 +1,1 @@
-var mnemonic = "spatial lab clap assault release pumpkin trick lonely reunion brass wonder property";
+var mnemonic = "choice govern belt desert talk famous canal govern entry similar hole fancy";

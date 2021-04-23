@@ -1,1 +1,1 @@
-var mnemonic = "moon swing ladder shoot attend churn three scrap pattern trap stand match";
+var mnemonic = "flavor tail distance sign climb random shift detect dial immune tag uncle";

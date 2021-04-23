@@ -1,1 +1,1 @@
-var mnemonic = "piano truth cloud equip banner orchard spot army aim gain repair peace";
+var mnemonic = "bonus stereo arch whisper gauge key proof gain hour turn wrong possible";

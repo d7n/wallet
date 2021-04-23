@@ -1,1 +1,1 @@
-var mnemonic = "letter viable horn project among kind race drastic leisure mad side round";
+var mnemonic = "hundred then protect scan decorate anchor welcome torch awful insane act media";

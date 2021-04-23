@@ -1,1 +1,1 @@
-var mnemonic = "isolate flavor shaft anchor allow minor stomach muscle crash surround crazy morning";
+var mnemonic = "zoo illegal slim answer aunt brave diet parade honey tank fever blanket";

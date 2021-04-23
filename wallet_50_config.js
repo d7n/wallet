@@ -1,1 +1,1 @@
-var mnemonic = "ritual fatal coach farm cliff fresh diary adapt balance puppy train conduct";
+var mnemonic = "visa glass clean cable topic swear real surprise gold feel prevent swift";

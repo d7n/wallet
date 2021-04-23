@@ -1,1 +1,1 @@
-var mnemonic = "animal uncle include abandon knock inside color gun atom clever matter crawl";
+var mnemonic = "alone spare skull eye wreck supreme already exit unfair end purpose syrup";

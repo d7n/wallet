@@ -1,1 +1,1 @@
-var mnemonic = "zero wide better wrist total solve survey ability subway endless over stairs";
+var mnemonic = "humble note mad wife nest pulp chase odor sample wish carbon admit";

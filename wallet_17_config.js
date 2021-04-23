@@ -1,1 +1,1 @@
-var mnemonic = "abandon chest veteran route rookie advice machine photo inhale cloth can curious";
+var mnemonic = "maple you genre drama hub mountain sudden minute grunt blouse detail raccoon";

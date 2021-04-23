@@ -1,1 +1,1 @@
-var mnemonic = "else social basic shadow novel debris flame miss cat life danger tank";
+var mnemonic = "denial carbon keen defy bulb mushroom sentence palace card traffic talk sword";

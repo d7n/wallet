@@ -1,1 +1,1 @@
-var mnemonic = "order stamp muscle network typical over sand brick century hazard brave expand";
+var mnemonic = "hand soldier human erode split pigeon rain cause space kid then crumble";

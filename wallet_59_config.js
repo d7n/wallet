@@ -1,1 +1,1 @@
-var mnemonic = "swim ankle oval erosion vast return crew salon employ draft august bargain";
+var mnemonic = "gospel drift segment recall tilt bullet cook celery often civil grab like";

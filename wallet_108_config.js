@@ -1,1 +1,1 @@
-var mnemonic = "soccer woman thunder fine town neck ice trust bomb attract comfort raise";
+var mnemonic = "corn truth mask crater small teach fork vintage license chicken detail tattoo";

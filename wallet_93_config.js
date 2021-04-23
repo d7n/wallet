@@ -1,1 +1,1 @@
-var mnemonic = "aspect film curtain amount hospital comfort actual planet artefact fee benefit over";
+var mnemonic = "hawk shock size carpet walk upper slab very bracket sorry negative leaf";

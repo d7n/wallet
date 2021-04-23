@@ -1,1 +1,1 @@
-var mnemonic = "pond toward chimney royal long final dash vast glow keen ripple bulk";
+var mnemonic = "boring carbon agent jacket ripple sea online infant egg web what praise";

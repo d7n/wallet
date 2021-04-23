@@ -1,1 +1,1 @@
-var mnemonic = "velvet happy sunny judge stock gentle adjust bicycle draft brand book budget";
+var mnemonic = "imitate genuine alone inside advice ozone vessel regular first need taste gaze";

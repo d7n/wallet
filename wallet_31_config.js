@@ -1,1 +1,1 @@
-var mnemonic = "jealous hamster luxury famous basket beyond quarter foster good plug twist exist";
+var mnemonic = "tube gold sell athlete alter cousin limit album health dignity divert buffalo";

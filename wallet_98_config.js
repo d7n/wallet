@@ -1,1 +1,1 @@
-var mnemonic = "make attract people market switch celery similar lunch fitness mass mail proof";
+var mnemonic = "unknown myth squeeze melody mandate idle menu topic drastic fluid bike nation";

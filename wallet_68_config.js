@@ -1,1 +1,1 @@
-var mnemonic = "anxiety ask mushroom speak divert sun wreck ivory wet young yellow wire";
+var mnemonic = "vocal scrap sausage foster awesome this rapid found fog float draw hungry";

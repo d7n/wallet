@@ -1,1 +1,1 @@
-var mnemonic = "method elbow assist easy rose divide rare person rain mean add cross";
+var mnemonic = "motion cluster buzz pole boat police spot ask meadow story swap require";

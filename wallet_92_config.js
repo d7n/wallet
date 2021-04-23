@@ -1,1 +1,1 @@
-var mnemonic = "relief east misery champion slice ancient forum blossom response party panic blur";
+var mnemonic = "quote panel scissors blanket sketch ceiling exile fire razor mimic sight tunnel";

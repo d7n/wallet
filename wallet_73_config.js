@@ -1,1 +1,1 @@
-var mnemonic = "sorry museum dance mother reform fault document mom client vehicle turn discover";
+var mnemonic = "near purse celery weapon collect easily drive brain oxygen crisp fringe live";

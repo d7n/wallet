@@ -1,1 +1,1 @@
-var mnemonic = "move potato nose lake high surprise display surprise tumble learn option paper";
+var mnemonic = "maze forum pigeon love mad shoot kingdom define axis slab repair window";

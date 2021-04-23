@@ -1,1 +1,1 @@
-var mnemonic = "wife palm rack either response legend ice rug eternal antique helmet strike";
+var mnemonic = "wrist glad deliver anger grab hover seek year gain what tragic pioneer";

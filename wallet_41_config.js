@@ -1,1 +1,1 @@
-var mnemonic = "adult gown grid earth attitude link crop actress topple october cancel force";
+var mnemonic = "member strategy ginger divide width swim valid profit snack panther elder apology";

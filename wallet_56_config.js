@@ -1,1 +1,1 @@
-var mnemonic = "brass joke tape leave bid vintage combine begin elevator wide farm prosper";
+var mnemonic = "service alpha inspire wild evidence biology ritual garment suggest plunge own empower";

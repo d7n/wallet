@@ -1,1 +1,1 @@
-var mnemonic = "novel book swing canvas bind lift answer sign cube indicate spice coil";
+var mnemonic = "match fruit leader nuclear dawn buzz adjust citizen hero print alley diesel";

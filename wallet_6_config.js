@@ -1,1 +1,1 @@
-var mnemonic = "buzz cool cheap bulk museum exhaust blur own place project sand palm";
+var mnemonic = "test size circle away embody field april ten shuffle across shove erosion";

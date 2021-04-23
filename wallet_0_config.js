@@ -1,1 +1,1 @@
-var mnemonic = "jump logic high project sport wide renew sausage rubber camera clap derive";
+var mnemonic = "maze switch own bachelor vault club bean gun face sunny junk rice";

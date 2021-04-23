@@ -1,1 +1,1 @@
-var mnemonic = "brass season clever hollow fatigue vintage judge rabbit risk spy vault leader";
+var mnemonic = "oven fault flight wild clean edge veteran boost mail rhythm salt reform";

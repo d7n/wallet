@@ -1,1 +1,1 @@
-var mnemonic = "steel among truly island trick forget chase liberty athlete bright fog media";
+var mnemonic = "brand north deer hammer balance elbow deliver color relief faith twist green";

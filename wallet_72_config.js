@@ -1,1 +1,1 @@
-var mnemonic = "cup skull direct hotel shine prosper define happy seven accident movie hen";
+var mnemonic = "pull hello bid table cruise mistake model scene cargo exit theory desert";

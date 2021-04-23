@@ -1,1 +1,1 @@
-var mnemonic = "feature robot music bulb age lunch young resemble soon grit boy cook";
+var mnemonic = "dash link laugh omit surprise hood unusual gas kind lab blue carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "amount win shoot cousin laptop witness vacuum rotate panel renew census track";
+var mnemonic = "cluster wide fit cherry pitch pluck speak snack awkward scout open consider";

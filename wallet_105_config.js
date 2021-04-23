@@ -1,1 +1,1 @@
-var mnemonic = "belt into affair stool skate wreck size where stuff mesh embrace group";
+var mnemonic = "again jaguar robot raise coral pause summer picture coil level knife gaze";

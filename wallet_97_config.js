@@ -1,1 +1,1 @@
-var mnemonic = "machine bird slogan silk trophy supreme suit hint spring total lyrics poem";
+var mnemonic = "father oil word treat face verb oppose exit mimic fluid senior unusual";

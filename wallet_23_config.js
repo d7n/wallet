@@ -1,1 +1,1 @@
-var mnemonic = "salon patrol gasp security sauce cattle radar quality pledge boy shop size";
+var mnemonic = "define around lock paper echo degree stool soap later lend nose impose";

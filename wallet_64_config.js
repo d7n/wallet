@@ -1,1 +1,1 @@
-var mnemonic = "pen head antenna now message seed pretty push cool squeeze stairs regular";
+var mnemonic = "short civil approve name someone present metal luggage crouch apology struggle squeeze";

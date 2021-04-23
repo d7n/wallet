@@ -1,1 +1,1 @@
-var mnemonic = "burden shuffle enrich again sentence guitar royal hockey scene glory digital dry";
+var mnemonic = "lawsuit cool walk since rural bomb refuse visit patch stable depend turtle";

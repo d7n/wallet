@@ -1,1 +1,1 @@
-var mnemonic = "hip lyrics only stove north jelly come waste gospel spring symptom marble";
+var mnemonic = "empty virus mixed dial iron antique ordinary recall enough another relief oil";

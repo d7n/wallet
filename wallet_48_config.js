@@ -1,1 +1,1 @@
-var mnemonic = "dragon output pupil castle edge sort cloth tortoise loan potato pony trial";
+var mnemonic = "dove earn nice reward lock mandate explain you refuse sniff april depart";

@@ -1,1 +1,1 @@
-var mnemonic = "fox era together stem essence prize random future slush business trim response";
+var mnemonic = "mobile sister input virus obey behind thank patient tissue undo cereal use";

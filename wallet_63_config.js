@@ -1,1 +1,1 @@
-var mnemonic = "crash curtain winter goat lawn space involve minute supreme athlete crumble visa";
+var mnemonic = "renew chest cotton venue bunker slender speed vibrant wink grow scrub sense";

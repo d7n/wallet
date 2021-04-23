@@ -1,1 +1,1 @@
-var mnemonic = "concert margin speed over upgrade cost yellow cricket happy leader just consider";
+var mnemonic = "color bitter always fit learn muffin blame emerge peanut pact shadow day";

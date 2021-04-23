@@ -1,1 +1,1 @@
-var mnemonic = "book demise indoor online noise subject deputy funny equal proof total icon";
+var mnemonic = "delay sorry confirm sunny differ diet initial humor mistake chase multiply invite";

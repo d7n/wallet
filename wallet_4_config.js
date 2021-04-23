@@ -1,1 +1,1 @@
-var mnemonic = "bus skill dove length panic derive mistake curve item trophy resource element";
+var mnemonic = "order strike quit helmet shine ritual orient ticket hospital holiday conduct move";

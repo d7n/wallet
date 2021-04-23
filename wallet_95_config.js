@@ -1,1 +1,1 @@
-var mnemonic = "battle number kangaroo chalk race song text guide aerobic food boring alley";
+var mnemonic = "erase visual slush donor marble amused know elite mango north element rookie";
