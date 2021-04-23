@@ -1,1 +1,1 @@
-var mnemonic = "vicious sand grant embody buzz brain tackle orchard behave cube program depth";
+var mnemonic = "zoo supreme gaze defense ostrich canoe defy catch grape entry taxi unique";

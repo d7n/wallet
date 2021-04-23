@@ -1,1 +1,1 @@
-var mnemonic = "depth action spell trip collect puzzle kit gain recipe album vocal twelve";
+var mnemonic = "burden address pledge spray sleep mail apology client timber tobacco time increase";

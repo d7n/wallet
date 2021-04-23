@@ -1,1 +1,1 @@
-var mnemonic = "mesh expire funny frequent food seven engine worry beef salmon tiger battle";
+var mnemonic = "onion hint like victory cable salmon replace bench claw runway credit crisp";

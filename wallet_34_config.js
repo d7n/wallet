@@ -1,1 +1,1 @@
-var mnemonic = "width cute relax food nature matter pumpkin unfair lesson twenty picture also";
+var mnemonic = "tail weird parent luggage action middle across tray pill festival hover giraffe";

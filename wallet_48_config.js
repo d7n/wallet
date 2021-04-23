@@ -1,1 +1,1 @@
-var mnemonic = "matter core stomach wear novel slush prison evolve absurd garment copper session";
+var mnemonic = "warm uphold again open smart key hire fuel industry able unhappy crouch";

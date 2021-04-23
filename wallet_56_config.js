@@ -1,1 +1,1 @@
-var mnemonic = "loyal unusual afford habit ball goat cruise life smile tent path iron";
+var mnemonic = "roast picture model find vote indoor pool off craft weasel fortune swarm";

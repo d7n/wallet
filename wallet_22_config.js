@@ -1,1 +1,1 @@
-var mnemonic = "delay old mother estate boost excite team turkey beef useful jaguar false";
+var mnemonic = "member sibling rib skate decorate onion web social mix oak eager notice";

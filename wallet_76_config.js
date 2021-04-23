@@ -1,1 +1,1 @@
-var mnemonic = "path cash convince pill road beauty render fever kit transfer worry renew";
+var mnemonic = "girl because kiss trust cross gentle vicious tag unlock client trigger collect";

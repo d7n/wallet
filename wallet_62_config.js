@@ -1,1 +1,1 @@
-var mnemonic = "idle oval half comfort suit observe sunny elegant winner wrist squeeze gown";
+var mnemonic = "diamond total leaf device glove prefer foster wreck alarm rescue elite devote";

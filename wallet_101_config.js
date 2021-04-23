@@ -1,1 +1,1 @@
-var mnemonic = "rival honey song hedgehog remove life panther test inherit grow carpet school";
+var mnemonic = "sponsor general brief gasp place six extra flip penalty rapid whisper globe";

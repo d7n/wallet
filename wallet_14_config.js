@@ -1,1 +1,1 @@
-var mnemonic = "jar cupboard nominee skin now language bleak under genius salute tourist degree";
+var mnemonic = "flag runway say answer plunge lift lucky correct bracket smoke cycle enact";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle stable flower place tiger net cash option lock ride warm spring";
+var mnemonic = "click mention box arrange fork arch health parent black surge include clever";

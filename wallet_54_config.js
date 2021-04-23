@@ -1,1 +1,1 @@
-var mnemonic = "actress moral engine marble release depend deposit spike wire peasant grant two";
+var mnemonic = "cheese minor rotate mention empower uphold brisk relax use zoo thumb drive";

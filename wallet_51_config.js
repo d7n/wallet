@@ -1,1 +1,1 @@
-var mnemonic = "lift absurd cinnamon duck scorpion title mask lens busy rice exhaust spike";
+var mnemonic = "unfold baby document small rule pill extra funny sibling tenant feature ramp";

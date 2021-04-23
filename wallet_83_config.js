@@ -1,1 +1,1 @@
-var mnemonic = "helmet eager inmate shaft owner dwarf mom fitness evoke napkin casino scare";
+var mnemonic = "length fragile seek tennis cup vault badge action sudden evolve churn cage";

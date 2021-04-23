@@ -1,1 +1,1 @@
-var mnemonic = "mask scan proof describe scale shoulder danger achieve hand coral spray ten";
+var mnemonic = "depth verb vague oxygen plate sponsor select monster patrol calm forget viable";

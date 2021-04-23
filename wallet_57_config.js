@@ -1,1 +1,1 @@
-var mnemonic = "kind swift process powder possible about category nominee frame fragile half glad";
+var mnemonic = "transfer chair bone front camp elite life happy select ancient cloth tomato";

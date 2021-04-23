@@ -1,1 +1,1 @@
-var mnemonic = "hat tongue fluid child repeat despair galaxy oppose motor main scheme desk";
+var mnemonic = "tag primary ball tongue ankle gloom spot style cream party modify chronic";

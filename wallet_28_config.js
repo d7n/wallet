@@ -1,1 +1,1 @@
-var mnemonic = "want lemon bubble wisdom unit defy grid decline butter increase coyote glory";
+var mnemonic = "skirt differ invite wire flame tuition gold tail salt enforce afraid chef";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer once recipe tissue evil valve media quarter urge cry canyon extend";
+var mnemonic = "pause butter mistake message noble hour useful hub reunion action tiger wealth";

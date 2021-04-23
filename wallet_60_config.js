@@ -1,1 +1,1 @@
-var mnemonic = "coffee mixture coyote peace spirit onion buzz silly october wood want uniform";
+var mnemonic = "either dolphin rotate cheap vehicle song random vivid swing flavor smart junior";

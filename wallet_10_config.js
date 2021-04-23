@@ -1,1 +1,1 @@
-var mnemonic = "say casino pigeon local artwork front simple common front slice slam arena";
+var mnemonic = "invite tomorrow candy wealth vapor crawl bread tone resist animal speed organ";

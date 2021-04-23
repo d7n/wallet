@@ -1,1 +1,1 @@
-var mnemonic = "boat rival recipe pitch pledge pride crash poem behind sudden bargain please";
+var mnemonic = "airport bullet devote now end travel satisfy pass today select truck panda";

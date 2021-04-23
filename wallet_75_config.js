@@ -1,1 +1,1 @@
-var mnemonic = "gossip boost tobacco knock artist wish work analyst mammal coyote depth lock";
+var mnemonic = "wrestle resemble muscle sadness memory nothing odor vocal typical thing improve mammal";

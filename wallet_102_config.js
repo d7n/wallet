@@ -1,1 +1,1 @@
-var mnemonic = "coin ankle stairs mammal toilet chunk hole coach purchase view abstract sweet";
+var mnemonic = "comfort stove knock club music explain raccoon crater nasty nurse train major";

@@ -1,1 +1,1 @@
-var mnemonic = "clay rather popular boost problem team dolphin crawl scrub pull elevator warrior";
+var mnemonic = "adapt boost analyst cruise beach exact actress never there exclude enter caution";

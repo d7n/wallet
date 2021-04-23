@@ -1,1 +1,1 @@
-var mnemonic = "pelican update actress run pupil gown climb job wall deputy clinic giggle";
+var mnemonic = "outdoor naive kit reward fantasy antenna chronic swim life sense clay better";

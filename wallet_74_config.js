@@ -1,1 +1,1 @@
-var mnemonic = "panther wild donor impose clever embark license garlic aerobic narrow antique come";
+var mnemonic = "puppy dose end regular cliff bind heavy slam bundle develop tank own";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger belt grass deal celery ten toss grant price example mass toast";
+var mnemonic = "enlist retire iron high finger treat need shrimp provide casino match first";

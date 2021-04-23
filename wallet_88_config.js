@@ -1,1 +1,1 @@
-var mnemonic = "blind interest fury garlic false cat merge embrace wonder glow much glow";
+var mnemonic = "laptop ridge organ ticket cake sketch lamp hockey curious become accident pupil";

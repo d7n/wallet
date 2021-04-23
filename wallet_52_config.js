@@ -1,1 +1,1 @@
-var mnemonic = "water rude vague town media easy orange empower tool record nation cabbage";
+var mnemonic = "wire bus vacuum now afford toy caution own simple silly curve spend";

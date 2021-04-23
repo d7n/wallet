@@ -1,1 +1,1 @@
-var mnemonic = "lady cheese scout caution have smoke this vocal visit topic flame vendor";
+var mnemonic = "dignity rabbit bring track photo crash weekend expire small slush taste aware";

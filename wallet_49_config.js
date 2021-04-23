@@ -1,1 +1,1 @@
-var mnemonic = "giggle tool vendor theme rely enable traffic invite loud tube sugar own";
+var mnemonic = "pitch oak tone ghost banana danger bright pride rocket slice tube puzzle";

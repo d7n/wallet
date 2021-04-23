@@ -1,1 +1,1 @@
-var mnemonic = "range eye crisp tilt shy talent envelope bomb faith engage bleak relief";
+var mnemonic = "often aerobic must vicious asset salmon tower lake tuna conduct domain online";

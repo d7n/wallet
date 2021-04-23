@@ -1,1 +1,1 @@
-var mnemonic = "morning blade service novel kitten arena quality walnut castle antique buddy involve";
+var mnemonic = "filter broom bracket move taxi foil model unveil ripple escape guilt venture";

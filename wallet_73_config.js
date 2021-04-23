@@ -1,1 +1,1 @@
-var mnemonic = "surface raccoon evil potato quality thrive gloom need shoulder country palm season";
+var mnemonic = "dream health waste base success pistol easy word bulb spare general diagram";

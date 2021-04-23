@@ -1,1 +1,1 @@
-var mnemonic = "narrow possible plate fury slim maze empower bone assume between offer youth";
+var mnemonic = "music tourist beyond math neck famous mistake velvet forest control other artist";

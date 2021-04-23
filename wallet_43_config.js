@@ -1,1 +1,1 @@
-var mnemonic = "top dish survey cycle sea fall decrease wing cool velvet ball frost";
+var mnemonic = "decide tool moon belt faculty donkey rug uncle dawn never arctic museum";

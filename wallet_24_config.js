@@ -1,1 +1,1 @@
-var mnemonic = "faint sweet animal tattoo gallery drink dignity diet deposit tray exist actual";
+var mnemonic = "please mom aisle cabbage calm upgrade entry choose differ parade man hope";

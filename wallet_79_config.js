@@ -1,1 +1,1 @@
-var mnemonic = "capital choice practice west coral cube salon inhale huge garlic bunker hip";
+var mnemonic = "valley flash urge tank coach hockey romance fault guilt trumpet club keen";

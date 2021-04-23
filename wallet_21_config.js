@@ -1,1 +1,1 @@
-var mnemonic = "horn below frame option cabin follow just upon crack stand invite risk";
+var mnemonic = "arrest wrong hedgehog quick luxury brain piano kiwi inner input sunny erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "habit scorpion cause mystery fiction sunny sting chair ramp ugly saddle decorate";
+var mnemonic = "satisfy blast confirm venue anchor fee ladder assume imitate wait mass demand";

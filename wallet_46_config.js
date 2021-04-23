@@ -1,1 +1,1 @@
-var mnemonic = "equip calm attitude lumber toast drip impose humble affair imitate universe cable";
+var mnemonic = "accuse logic stone start earn ship robust shed screen relief often when";

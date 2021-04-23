@@ -1,1 +1,1 @@
-var mnemonic = "antique admit float parade rival album moral aim give pact note harsh";
+var mnemonic = "where drill poem learn anchor clap tape pact primary clog pave turtle";

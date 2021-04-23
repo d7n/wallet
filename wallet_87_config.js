@@ -1,1 +1,1 @@
-var mnemonic = "current what vault absorb local income shield intact own motion sock say";
+var mnemonic = "kidney wet dinosaur you tumble screen wrestle street quiz slot step color";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade decide hollow energy oyster dash nose trend cruise tackle fox seven";
+var mnemonic = "bachelor patrol spy tone stamp spot loan few panic lava thrive across";

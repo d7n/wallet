@@ -1,1 +1,1 @@
-var mnemonic = "engage enable mimic assume similar toddler side nice virtual mobile silly camp";
+var mnemonic = "aunt scene sheriff income novel find car unfair worry cloud opinion nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat wing happy phone maximum easy reveal stand car sail tongue celery";
+var mnemonic = "globe price time ahead common glimpse party play together version load minor";

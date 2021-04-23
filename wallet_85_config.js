@@ -1,1 +1,1 @@
-var mnemonic = "must series what brick bean proof cream rally shield style brush crisp";
+var mnemonic = "toilet yard meadow grace toy supreme shiver allow amazing secret rent doctor";

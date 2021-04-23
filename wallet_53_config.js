@@ -1,1 +1,1 @@
-var mnemonic = "flight impose sister buzz audit jazz ball coconut route vanish pole point";
+var mnemonic = "define close tree upgrade lyrics recall cousin loyal foam now beach emotion";

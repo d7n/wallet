@@ -1,1 +1,1 @@
-var mnemonic = "recall sadness anchor base favorite split laugh sad velvet tag equal cry";
+var mnemonic = "vintage recall robust tortoise april recycle clap door bleak rural siege slim";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue use weekend steel radar proof amount element unveil trophy alone despair";
+var mnemonic = "rely aspect claw metal alarm small liquid drill crumble video sell because";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase near verb zebra giraffe life tray suit day blossom tank eight";
+var mnemonic = "traffic glass later concert model tip index moral uphold panda sand elephant";

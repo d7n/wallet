@@ -1,1 +1,1 @@
-var mnemonic = "hire soft scout inspire boss stairs squirrel pear luggage scorpion forest execute";
+var mnemonic = "step holiday struggle stone pride coin maximum carbon uncover february bracket island";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle load bitter place space chest garbage apple town math heavy coconut";
+var mnemonic = "castle box clerk shoe fruit senior bike about document proud alter abstract";

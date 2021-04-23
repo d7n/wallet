@@ -1,1 +1,1 @@
-var mnemonic = "cost cinnamon noodle sniff rabbit pigeon idle garlic pull system lottery outside";
+var mnemonic = "load follow receive route claw heart horror vintage spare dream exhibit inch";

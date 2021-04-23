@@ -1,1 +1,1 @@
-var mnemonic = "doll approve physical clever genre path valley shaft situate loud cousin job";
+var mnemonic = "creek flag gallery cancel mammal admit magnet suspect pioneer day exercise soon";

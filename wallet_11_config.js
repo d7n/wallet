@@ -1,1 +1,1 @@
-var mnemonic = "sudden gun track target require describe ritual autumn exclude category slender short";
+var mnemonic = "actual bridge media pledge curve bronze parade apology goddess fire forest price";

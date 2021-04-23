@@ -1,1 +1,1 @@
-var mnemonic = "impulse opera rug provide rapid relief patch dilemma record token clinic scorpion";
+var mnemonic = "leader duty slot cry cake clinic candy filter minute denial verb amazing";

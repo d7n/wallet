@@ -1,1 +1,1 @@
-var mnemonic = "arena paddle raven come release garage exit champion search veteran still monkey";
+var mnemonic = "cotton explain come hollow coil giraffe deer blame burden gasp tissue gospel";

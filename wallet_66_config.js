@@ -1,1 +1,1 @@
-var mnemonic = "cake unfair boring combine unusual inch core talent capital feature lunar awake";
+var mnemonic = "miracle virus satisfy reveal rich warm ensure this fat trial impose eternal";

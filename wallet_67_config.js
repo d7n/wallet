@@ -1,1 +1,1 @@
-var mnemonic = "myself salad wealth gorilla pelican blind document acoustic track twelve easy lazy";
+var mnemonic = "notable diamond mad know tag wrong sense museum distance error panel magic";

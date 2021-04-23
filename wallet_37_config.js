@@ -1,1 +1,1 @@
-var mnemonic = "cash design olive wonder balance ship tongue globe hello plug fly rocket";
+var mnemonic = "box blast tackle chat chuckle sort frozen giraffe degree arrow spoil village";

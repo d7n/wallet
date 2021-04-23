@@ -1,1 +1,1 @@
-var mnemonic = "panic trip magic mad pilot essence foster giraffe gloom peace rigid fancy";
+var mnemonic = "own waste clip ginger mad myself isolate hour merit ill clap tragic";

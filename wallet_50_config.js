@@ -1,1 +1,1 @@
-var mnemonic = "sadness repeat baby section ridge connect piano foil power evidence first pitch";
+var mnemonic = "rice monkey practice never hello sport fancy text angle panel tomato dumb";

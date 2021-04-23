@@ -1,1 +1,1 @@
-var mnemonic = "birth stairs mesh exhibit rent when fortune since cube life satisfy obtain";
+var mnemonic = "kitchen oven grief play often radar hint follow ritual rail coffee nut";

@@ -1,1 +1,1 @@
-var mnemonic = "destroy scout flower unable drum slice sentence later side laugh thought oval";
+var mnemonic = "swallow suspect tree auto tone churn begin cargo awesome match rate make";

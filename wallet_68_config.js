@@ -1,1 +1,1 @@
-var mnemonic = "reform frequent develop joke square spatial slab unable provide gallery diamond strike";
+var mnemonic = "verb sun blame hobby ramp opinion spring card penalty mechanic retreat canal";

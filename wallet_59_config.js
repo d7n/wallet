@@ -1,1 +1,1 @@
-var mnemonic = "clinic rapid avocado lamp history gown core hobby amazing method income expose";
+var mnemonic = "hamster dizzy make cradle power violin excess fine cube announce word foam";

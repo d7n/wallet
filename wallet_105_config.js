@@ -1,1 +1,1 @@
-var mnemonic = "proud slender light raccoon shoulder side young staff fox rapid coin cotton";
+var mnemonic = "vapor disease under matrix mass swift flush train winter detail garden festival";

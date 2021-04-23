@@ -1,1 +1,1 @@
-var mnemonic = "great indicate typical unveil they text observe anchor offer end love board";
+var mnemonic = "beef travel wrist behave cinnamon flat goose van hole present gravity practice";

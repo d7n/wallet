@@ -1,1 +1,1 @@
-var mnemonic = "alert miracle glide decrease crawl shift squeeze effort shift recycle express mimic";
+var mnemonic = "kingdom sign tumble impulse panic annual divorce mom magnet test scan own";

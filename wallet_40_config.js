@@ -1,1 +1,1 @@
-var mnemonic = "box sign mouse under talent bullet solar come defense palace youth butter";
+var mnemonic = "dilemma odor acoustic public pencil car say math win liberty absurd kind";

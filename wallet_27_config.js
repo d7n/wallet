@@ -1,1 +1,1 @@
-var mnemonic = "humble rally choose butter paper tell cheese tank knock uphold dilemma warfare";
+var mnemonic = "phrase deposit bacon return define fox science toe spirit collect finger high";

@@ -1,1 +1,1 @@
-var mnemonic = "help despair gorilla remember duty real nominee unique pony toward stem limit";
+var mnemonic = "humor mom witness guide kind fish lecture next swim luxury ritual spawn";

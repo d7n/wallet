@@ -1,1 +1,1 @@
-var mnemonic = "fashion ice crop aisle mother onion deposit acid tone flavor gather motor";
+var mnemonic = "vacuum ugly spin left chat music cry change behave notice obvious nature";

@@ -1,1 +1,1 @@
-var mnemonic = "movie endless amused ceiling peace settle filter boss siren inhale detect approve";
+var mnemonic = "copper slim noodle put luggage victory bone float circle song turn tissue";

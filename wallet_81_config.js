@@ -1,1 +1,1 @@
-var mnemonic = "weather symptom dad bounce flee employ weasel main column cross own word";
+var mnemonic = "math sausage hospital hero virus media actor plate foot benefit frown zone";

@@ -1,1 +1,1 @@
-var mnemonic = "health evolve fox law romance grid open entry advice vocal diesel choose";
+var mnemonic = "aerobic skirt mobile such guilt scrap summer junk congress act vanish carpet";

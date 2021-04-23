@@ -1,1 +1,1 @@
-var mnemonic = "attitude inquiry someone sleep brief bundle kiss kitten rubber guitar uncover number";
+var mnemonic = "board target jeans area shield beach someone grow grape woman fresh opera";

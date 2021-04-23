@@ -1,1 +1,1 @@
-var mnemonic = "plate route feel output cattle name surface dial iron street diesel poem";
+var mnemonic = "leader stand over journey tenant sleep month filter window element climb must";

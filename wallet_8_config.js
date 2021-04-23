@@ -1,1 +1,1 @@
-var mnemonic = "artist acoustic six era miracle avocado muscle piano release donkey believe field";
+var mnemonic = "column staff alert example tape ankle vibrant antenna oyster crumble autumn slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "have extend result lawsuit airport luggage physical pool fat member squirrel sister";
+var mnemonic = "drastic autumn under donkey meat cactus capital hour evolve curtain vocal gentle";

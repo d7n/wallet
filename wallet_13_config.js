@@ -1,1 +1,1 @@
-var mnemonic = "amazing hip impact waste retreat strategy debate insect tornado design brother nest";
+var mnemonic = "catalog retreat client expand upgrade source tank egg cargo injury mask burden";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom focus laugh release two plug omit mountain settle ranch weapon crucial";
+var mnemonic = "strategy general camera cream multiply patrol much question spin sort also armed";

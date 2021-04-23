@@ -1,1 +1,1 @@
-var mnemonic = "puzzle deliver game rabbit limit else maple attract day general mad thank";
+var mnemonic = "among sure pride jungle hundred crash rib leader hire add slab then";

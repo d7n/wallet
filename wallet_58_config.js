@@ -1,1 +1,1 @@
-var mnemonic = "margin client gasp detail vacant flight wheat erase nut pottery evil usual";
+var mnemonic = "cube elegant slush burden slam kitchen choose side kiss actress symbol lyrics";

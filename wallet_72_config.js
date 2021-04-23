@@ -1,1 +1,1 @@
-var mnemonic = "coffee tomato glimpse jump usual era forward poet hair curtain solve clown";
+var mnemonic = "royal faint recipe surface voyage pottery grief child shy arch mean vanish";

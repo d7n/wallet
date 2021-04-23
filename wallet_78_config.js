@@ -1,1 +1,1 @@
-var mnemonic = "foster cage indicate sock praise section usage cruel wheat denial ladder practice";
+var mnemonic = "title robust mask tortoise nature alien lady impose actor suspect ozone half";

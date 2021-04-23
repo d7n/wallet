@@ -1,1 +1,1 @@
-var mnemonic = "ethics any muffin always people clump urge enemy room puppy sell online";
+var mnemonic = "run public unlock bonus display orient plug begin express system want possible";

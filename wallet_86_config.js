@@ -1,1 +1,1 @@
-var mnemonic = "same label faculty weather audit sauce impact cat broccoli owner answer shoe";
+var mnemonic = "enact want lonely badge profit snap talent exchange skate seek news bind";

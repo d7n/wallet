@@ -1,1 +1,1 @@
-var mnemonic = "coast cinnamon cook copy agree blossom rebel damp immense rent donate update";
+var mnemonic = "reward dilemma glare bind pottery foam social moment supply reward drill property";

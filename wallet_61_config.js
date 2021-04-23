@@ -1,1 +1,1 @@
-var mnemonic = "cruel loan angle raccoon patient make burst evidence palm toddler pull scatter";
+var mnemonic = "number mountain nose luxury soup seed scale swim bundle rural dismiss frown";

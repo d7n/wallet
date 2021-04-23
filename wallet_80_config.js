@@ -1,1 +1,1 @@
-var mnemonic = "stairs breeze peasant dish buffalo eye twist anger talk total army private";
+var mnemonic = "used phone spoil improve float sail chair tag retire gauge garage rent";

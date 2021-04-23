@@ -1,1 +1,1 @@
-var mnemonic = "need cycle gossip artwork develop surface charge certain man once collect harvest";
+var mnemonic = "chalk reason patient cable artist invite south dizzy mail boring session lock";

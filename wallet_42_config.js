@@ -1,1 +1,1 @@
-var mnemonic = "decline quality town arch table cliff magnet avocado host garlic invest ankle";
+var mnemonic = "club cube lake prevent daring boost siren suggest wealth desert wait describe";

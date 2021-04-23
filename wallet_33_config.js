@@ -1,1 +1,1 @@
-var mnemonic = "liar unfold beach debate tragic walnut deliver town ride slot puzzle script";
+var mnemonic = "soap stool rare require black dance stove mimic solution vessel snack resource";

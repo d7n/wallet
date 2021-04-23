@@ -1,1 +1,1 @@
-var mnemonic = "special script identify aim unfair list toe there blossom donor over state";
+var mnemonic = "drink property drill parade innocent thrive service damp lake toward clever deputy";

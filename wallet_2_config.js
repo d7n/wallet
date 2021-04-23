@@ -1,1 +1,1 @@
-var mnemonic = "family aspect palm chimney post rifle valve install rice agree scissors film";
+var mnemonic = "essence blossom spoon wise school denial peanut shoulder chest suit broom glance";

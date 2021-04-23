@@ -1,1 +1,1 @@
-var mnemonic = "execute kingdom ceiling crunch lamp void increase wreck crouch enact loud erase";
+var mnemonic = "arctic coin salute rescue frequent there torch buzz plate hover hope people";
