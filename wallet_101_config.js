@@ -1,1 +1,1 @@
-var mnemonic = "spirit raw energy timber own moral hurdle above inch mean differ walk";
+var mnemonic = "supreme traffic they hover please notable easy hour indoor olympic praise silk";

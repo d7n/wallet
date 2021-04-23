@@ -1,1 +1,1 @@
-var mnemonic = "kidney wheat require razor wolf rabbit web cushion bubble index dinner mimic";
+var mnemonic = "danger catalog cargo frame slab stock firm control leisure task surge total";

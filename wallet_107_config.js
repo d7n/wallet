@@ -1,1 +1,1 @@
-var mnemonic = "bag combine quiz puppy zebra pull sting fever regular salmon limb three";
+var mnemonic = "critic spice vintage vacuum hotel design gaze dash hood start beauty day";

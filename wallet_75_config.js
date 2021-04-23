@@ -1,1 +1,1 @@
-var mnemonic = "acoustic across veteran enact renew secret device among analyst engage tornado rich";
+var mnemonic = "syrup spirit victory regular achieve sock amused worth symptom add use win";

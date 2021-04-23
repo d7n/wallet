@@ -1,1 +1,1 @@
-var mnemonic = "speak glare extra add surge sure sleep rent canvas uphold lava silly";
+var mnemonic = "maple situate ceiling mobile athlete visit unfold divorce deny clerk text deposit";

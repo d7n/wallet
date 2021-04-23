@@ -1,1 +1,1 @@
-var mnemonic = "series post diagram behind stage false budget room lumber sand since van";
+var mnemonic = "repeat alcohol fix fatigue lady runway jump volume dawn draft history hedgehog";

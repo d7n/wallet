@@ -1,1 +1,1 @@
-var mnemonic = "galaxy traffic quick gorilla denial cross visit garden purpose faculty dial left";
+var mnemonic = "cement interest sadness slender stadium list idle mesh shiver word fringe luxury";

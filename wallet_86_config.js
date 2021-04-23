@@ -1,1 +1,1 @@
-var mnemonic = "rabbit other ladder problem pear magnet aisle dish discover address term bachelor";
+var mnemonic = "process casino where trash carbon helmet culture ready budget frost glove leaf";

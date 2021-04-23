@@ -1,1 +1,1 @@
-var mnemonic = "kick neutral dad dream bamboo fury tuition wing nature pen blind milk";
+var mnemonic = "shield crane silver spider electric seminar bubble curious again chronic chat mobile";

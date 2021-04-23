@@ -1,1 +1,1 @@
-var mnemonic = "large weather suggest carpet topic flower jungle carbon try over domain luxury";
+var mnemonic = "state stamp night bleak soccer battle crack ball wine library response yellow";

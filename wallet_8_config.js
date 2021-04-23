@@ -1,1 +1,1 @@
-var mnemonic = "robot engage viable act recipe report sphere sight number light solid buddy";
+var mnemonic = "sunset unknown unhappy embody bachelor explain rice wall undo sample over capable";

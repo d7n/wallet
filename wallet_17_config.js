@@ -1,1 +1,1 @@
-var mnemonic = "gold effort acoustic space novel neck shiver sausage submit drift away pond";
+var mnemonic = "target dirt account method prevent sister puzzle museum promote special tired student";

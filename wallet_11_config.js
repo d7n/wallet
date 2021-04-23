@@ -1,1 +1,1 @@
-var mnemonic = "arena marriage ladder earth drop spin alarm blur black celery dumb vacuum";
+var mnemonic = "basket drama ball coffee minute earth strike wine hammer close risk nuclear";

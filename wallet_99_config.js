@@ -1,1 +1,1 @@
-var mnemonic = "social steel meadow assist daughter chapter stadium panic advance fall lazy blanket";
+var mnemonic = "token mention canyon permit allow swim cattle fuel limit outer total snow";

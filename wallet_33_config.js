@@ -1,1 +1,1 @@
-var mnemonic = "hotel shoulder sketch tone badge retreat gospel gentle drop north hope report";
+var mnemonic = "force kangaroo pizza file convince client among yellow rocket risk neutral crew";

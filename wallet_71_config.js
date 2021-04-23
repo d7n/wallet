@@ -1,1 +1,1 @@
-var mnemonic = "kitchen spell remember donate pear discover explain lawn couple cable buzz scorpion";
+var mnemonic = "they senior security ranch radio what drill other move rib inject absorb";

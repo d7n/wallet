@@ -1,1 +1,1 @@
-var mnemonic = "tennis rally job enhance analyst job myself fall high dad monitor depend";
+var mnemonic = "remind crop caught globe shoulder grass desk soul into clean maximum blush";

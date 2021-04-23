@@ -1,1 +1,1 @@
-var mnemonic = "surface muffin bubble screen increase burden bullet soup boat rib guard power";
+var mnemonic = "card consider primary hunt rebuild march cancel lucky result crush kiwi filter";

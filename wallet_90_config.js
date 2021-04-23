@@ -1,1 +1,1 @@
-var mnemonic = "panic sponsor rocket tag include cost mom fold ugly steak episode acquire";
+var mnemonic = "pottery fiction forum magnet above sunny remain yard announce vital library trumpet";

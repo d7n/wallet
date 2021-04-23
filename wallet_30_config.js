@@ -1,1 +1,1 @@
-var mnemonic = "grief bind orange hotel actual bird hockey tilt can shrimp hat latin";
+var mnemonic = "small assault day kind lobster bus rent castle sugar load rifle entire";

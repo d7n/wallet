@@ -1,1 +1,1 @@
-var mnemonic = "ability secret jump run know pitch pistol arrive lawsuit what purse unlock";
+var mnemonic = "mobile piano box remind three layer upper badge room impulse message system";

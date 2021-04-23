@@ -1,1 +1,1 @@
-var mnemonic = "lift sentence scan stand trophy stumble inhale trick believe order welcome evoke";
+var mnemonic = "seat ranch any pioneer sample dutch element comfort sunny unveil universe pluck";

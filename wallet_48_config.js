@@ -1,1 +1,1 @@
-var mnemonic = "hungry kit banana gate enemy grocery near error canyon nice same urge";
+var mnemonic = "fun relief quick erase neither pony inject sail math carbon title laptop";

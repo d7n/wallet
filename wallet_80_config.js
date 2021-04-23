@@ -1,1 +1,1 @@
-var mnemonic = "phrase harsh switch elite always festival goat scorpion blush waste tunnel bid";
+var mnemonic = "multiply dish senior coil bread zero guide ketchup few manage candy cereal";

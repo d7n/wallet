@@ -1,1 +1,1 @@
-var mnemonic = "hub public weapon accident stay april repeat problem topic catch uncover fluid";
+var mnemonic = "busy fiction long surge modify device valley gaze ritual two kidney crazy";

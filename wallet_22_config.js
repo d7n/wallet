@@ -1,1 +1,1 @@
-var mnemonic = "toward plunge combine addict keep dolphin muffin pact beach glimpse gift mass";
+var mnemonic = "man print frequent profit history liquid garlic learn march depend clock swing";

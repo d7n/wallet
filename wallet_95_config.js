@@ -1,1 +1,1 @@
-var mnemonic = "jar village dilemma sister hockey boring sheriff thought dumb among educate lock";
+var mnemonic = "cinnamon method friend parent fever boring pencil token catalog grain strike knock";

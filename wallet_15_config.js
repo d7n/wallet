@@ -1,1 +1,1 @@
-var mnemonic = "woman moral oven chef orient shoulder pipe only naive relax lift pepper";
+var mnemonic = "legal robust gold tomato donor female jewel theory submit jazz street famous";

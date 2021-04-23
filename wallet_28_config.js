@@ -1,1 +1,1 @@
-var mnemonic = "name proud believe admit rough spirit success wash someone myself noise recycle";
+var mnemonic = "jaguar segment possible used doctor guide panic beyond ice street believe usage";

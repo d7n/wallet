@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow leave once cattle manual ranch tonight double virus grief random casino";
+var mnemonic = "column brush pill guide mouse typical people solve laptop elephant brick spatial";

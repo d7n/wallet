@@ -1,1 +1,1 @@
-var mnemonic = "dinner space forward rice globe prepare cup intact social pole scissors cliff";
+var mnemonic = "stairs token lyrics young ugly rebuild token wisdom clutch valid sorry escape";

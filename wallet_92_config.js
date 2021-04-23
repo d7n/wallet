@@ -1,1 +1,1 @@
-var mnemonic = "lava monkey marriage economy gentle differ pledge sponsor brick time hat moon";
+var mnemonic = "ridge manage begin true shrimp rug seed session glare spoon memory biology";

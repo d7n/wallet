@@ -1,1 +1,1 @@
-var mnemonic = "menu lamp give language atom elevator expect put kitten hospital enjoy gasp";
+var mnemonic = "merge duty ceiling peanut honey wood genuine wreck country brand rib capable";

@@ -1,1 +1,1 @@
-var mnemonic = "net security target behave once patch awake tilt august cigar cherry control";
+var mnemonic = "track palm left chapter north bulb flock genuine left urban early hotel";

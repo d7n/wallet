@@ -1,1 +1,1 @@
-var mnemonic = "easy village panda tongue cave action develop wise slim version firm cost";
+var mnemonic = "armor timber like worry captain route sketch thank spare stable vanish program";

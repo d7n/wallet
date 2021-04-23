@@ -1,1 +1,1 @@
-var mnemonic = "hard comfort above screen sail outside mind hope draft cloth average planet";
+var mnemonic = "century puppy live day sea phrase cereal rain latin burden enable paper";

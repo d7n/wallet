@@ -1,1 +1,1 @@
-var mnemonic = "siren parent sad vault inner drum grow wait sad dynamic bless mango";
+var mnemonic = "else auction miracle letter doll borrow gift mind unknown crumble island harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak risk park super near maximum educate curious video barely memory fossil";
+var mnemonic = "pluck nuclear region change heart fatigue silver genre speed west amused daring";

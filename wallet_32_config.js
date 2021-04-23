@@ -1,1 +1,1 @@
-var mnemonic = "tribe soap security frame guard wait trophy wise hole soup taste draw";
+var mnemonic = "dream twice net music icon promote endless space future tornado jelly acquire";

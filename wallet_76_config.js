@@ -1,1 +1,1 @@
-var mnemonic = "fury boil rural beach game twist lumber keen fire artwork lemon expire";
+var mnemonic = "dinosaur atom cruise curtain claim robust crumble anxiety fall ship unaware crucial";

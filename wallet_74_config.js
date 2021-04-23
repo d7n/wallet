@@ -1,1 +1,1 @@
-var mnemonic = "rely squirrel assault arrive around grain marine glide pluck place meat post";
+var mnemonic = "private general embark debate rack spice theory child rocket debate various someone";

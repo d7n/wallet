@@ -1,1 +1,1 @@
-var mnemonic = "diesel below rabbit view sword damage crucial used begin usual attend rare";
+var mnemonic = "dune crumble jaguar later sphere scrub idle frost lens kangaroo mistake rich";

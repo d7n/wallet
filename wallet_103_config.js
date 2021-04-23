@@ -1,1 +1,1 @@
-var mnemonic = "win twenty cruise reform door base fantasy panel gossip neutral develop truth";
+var mnemonic = "lunar aunt chef grow blood govern level skate snack forget tag ketchup";

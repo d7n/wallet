@@ -1,1 +1,1 @@
-var mnemonic = "enrich need relax link bullet razor off pudding system across squeeze vivid";
+var mnemonic = "pioneer dilemma bike auction quit since patrol blame profit double social stock";

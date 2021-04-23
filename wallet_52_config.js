@@ -1,1 +1,1 @@
-var mnemonic = "settle begin tray addict flat frequent pistol seminar aim advice view right";
+var mnemonic = "innocent illness frog coyote issue mystery steak skin run silver ritual water";

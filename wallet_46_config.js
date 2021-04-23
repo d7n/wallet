@@ -1,1 +1,1 @@
-var mnemonic = "reflect valid cargo virtual consider valley item you faith define frown apple";
+var mnemonic = "nerve home fly sausage amount occur canvas strike hockey reason day tide";

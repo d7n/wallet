@@ -1,1 +1,1 @@
-var mnemonic = "gospel remember any glue grant typical usual episode soda coffee ridge grit";
+var mnemonic = "spy fury fragile tip poverty tuna skull assume toy purchase thank fog";

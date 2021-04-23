@@ -1,1 +1,1 @@
-var mnemonic = "vital blind recall planet exercise lumber bean giraffe ticket sunny carpet armed";
+var mnemonic = "impulse above wing pond card cupboard siege mobile jeans track carry release";

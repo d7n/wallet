@@ -1,1 +1,1 @@
-var mnemonic = "river review mouse gather chunk wreck immune cover solid ozone midnight index";
+var mnemonic = "spoon shrimp seat sketch wall leisure first enrich dose position diamond donkey";

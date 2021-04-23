@@ -1,1 +1,1 @@
-var mnemonic = "embark forum purity always journey wise often major year already awesome sister";
+var mnemonic = "setup chronic prosper music salad urge dwarf useless remember ozone because ocean";

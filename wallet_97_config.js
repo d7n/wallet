@@ -1,1 +1,1 @@
-var mnemonic = "come lizard boring stadium engage approve fragile release possible child abandon ready";
+var mnemonic = "usual hurry rally plug dial plug ocean mobile goddess original dwarf reveal";

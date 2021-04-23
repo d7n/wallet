@@ -1,1 +1,1 @@
-var mnemonic = "long almost child neglect erupt torch dolphin despair pond eager picnic coral";
+var mnemonic = "matrix rain brain double mixture rain liquid exercise satoshi code west utility";

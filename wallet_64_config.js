@@ -1,1 +1,1 @@
-var mnemonic = "you inspire pencil veteran upgrade fan video dash economy midnight under mansion";
+var mnemonic = "aunt isolate profit true usual girl into fury saddle tissue chat average";

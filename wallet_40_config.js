@@ -1,1 +1,1 @@
-var mnemonic = "parade travel average couple foam security grit subway old body nice cable";
+var mnemonic = "defense hazard source drive cluster copy infant zebra inherit work utility violin";

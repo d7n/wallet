@@ -1,1 +1,1 @@
-var mnemonic = "globe claim logic critic remain promote plate give erode mirror source easily";
+var mnemonic = "bridge dismiss protect net method peasant favorite drive improve client bless river";

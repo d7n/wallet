@@ -1,1 +1,1 @@
-var mnemonic = "orient sauce snack blanket dice card hockey witness joy suspect frame grit";
+var mnemonic = "goddess now treat process elegant enjoy auto hard name proud picnic text";

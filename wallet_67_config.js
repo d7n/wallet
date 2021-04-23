@@ -1,1 +1,1 @@
-var mnemonic = "shaft later paper inflict write dust ketchup possible practice skirt maximum moment";
+var mnemonic = "replace random broom fiscal rate slam upon appear know firm bamboo ride";

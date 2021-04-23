@@ -1,1 +1,1 @@
-var mnemonic = "car inmate giraffe blouse rail subway deal cook harsh upgrade give together";
+var mnemonic = "peasant adjust lock company twenty review still build inquiry hard bone valve";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff grit cross water coach limb interest kid hello later view jealous";
+var mnemonic = "remain sock heavy chaos endorse drive lamp include delay coyote law long";

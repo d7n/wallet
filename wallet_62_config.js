@@ -1,1 +1,1 @@
-var mnemonic = "shoulder kiss mammal aim stem cactus chicken square upper ridge slogan bleak";
+var mnemonic = "visual scrub trust slim promote small radio soon affair afraid explain flush";

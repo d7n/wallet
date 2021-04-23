@@ -1,1 +1,1 @@
-var mnemonic = "monkey merge age memory series table fringe egg inherit hand glory mandate";
+var mnemonic = "write broken sister ice trim swap endorse ribbon acoustic visual cement demand";

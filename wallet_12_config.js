@@ -1,1 +1,1 @@
-var mnemonic = "clip shell apple bus also day bench humor scheme base struggle office";
+var mnemonic = "smoke wedding remind exact food left crouch injury cliff earn sauce ask";

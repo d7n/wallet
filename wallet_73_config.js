@@ -1,1 +1,1 @@
-var mnemonic = "essay worth art wrist pole ice help wasp subject laugh issue isolate";
+var mnemonic = "guess talent equal boat soft jazz dance attitude lend annual student close";

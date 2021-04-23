@@ -1,1 +1,1 @@
-var mnemonic = "toe lazy soda erupt injury process asset mirror stomach salad drama above";
+var mnemonic = "whale shrimp rigid net blame resist crash pipe board immune unable permit";

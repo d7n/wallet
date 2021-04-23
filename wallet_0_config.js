@@ -1,1 +1,1 @@
-var mnemonic = "glue sauce inspire rebuild upgrade category thank organ chunk because jar obtain";
+var mnemonic = "physical gesture muffin company faint lunch chat salute divert abuse gorilla range";

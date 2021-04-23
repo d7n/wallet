@@ -1,1 +1,1 @@
-var mnemonic = "state upgrade together slight spin child session tenant assume today symbol chest";
+var mnemonic = "eyebrow chronic exotic over tail gown unique borrow spirit rate crumble toe";

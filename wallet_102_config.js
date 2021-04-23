@@ -1,1 +1,1 @@
-var mnemonic = "wealth someone decline deputy extra violin sweet style science myth license magic";
+var mnemonic = "base settle clown demise wood debris fruit know lazy deposit forum finish";

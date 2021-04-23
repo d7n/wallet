@@ -1,1 +1,1 @@
-var mnemonic = "mouse local live humor secret nasty weird switch barrel again enemy rival";
+var mnemonic = "valley coffee unfair lizard situate fabric quantum burden twist atom already runway";

@@ -1,1 +1,1 @@
-var mnemonic = "section axis fever credit physical all become pottery pole swap saddle witness";
+var mnemonic = "pool renew lawn fog deal receive seat crunch banner guitar apart horror";

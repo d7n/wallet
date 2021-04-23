@@ -1,1 +1,1 @@
-var mnemonic = "canyon jungle mandate space drill wrong tornado wheel private essence warfare goose";
+var mnemonic = "love soda cloud wrestle rally provide inquiry pattern trap vessel steak thrive";

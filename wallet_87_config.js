@@ -1,1 +1,1 @@
-var mnemonic = "cruise history parent hour try chief bitter solve always victory audit ribbon";
+var mnemonic = "parent genuine glow point mixture view horn hockey sand pull refuse jeans";

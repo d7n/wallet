@@ -1,1 +1,1 @@
-var mnemonic = "unit angry black chief patient evidence cushion citizen negative unhappy fantasy swift";
+var mnemonic = "proof bronze salon all network nice guess night save vast talk teach";

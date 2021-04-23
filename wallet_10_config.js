@@ -1,1 +1,1 @@
-var mnemonic = "immense treat other fitness inform drum just undo fatal cave tumble theory";
+var mnemonic = "bottom spin laugh furnace school between february stage army open hazard expire";

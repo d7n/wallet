@@ -1,1 +1,1 @@
-var mnemonic = "void sheriff family swamp nuclear return tiny step stay explain fox gas";
+var mnemonic = "chunk vapor jaguar bird laptop crack trend path canal answer author alley";

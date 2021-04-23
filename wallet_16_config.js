@@ -1,1 +1,1 @@
-var mnemonic = "absurd mistake daughter tourist prevent result original enter oak april view enable";
+var mnemonic = "tattoo afford anxiety penalty human airport main people laundry divorce build found";

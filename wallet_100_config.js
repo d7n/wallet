@@ -1,1 +1,1 @@
-var mnemonic = "rubber travel sniff sight dismiss mistake cousin assist music conduct anger attitude";
+var mnemonic = "apple exhibit amount heavy furnace text genius toward seed depth foster section";

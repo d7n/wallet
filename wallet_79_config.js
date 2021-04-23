@@ -1,1 +1,1 @@
-var mnemonic = "program arch hockey tooth asset sample name echo risk soda people health";
+var mnemonic = "tumble kid dumb tray reject assume border until quality high female afford";

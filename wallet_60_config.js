@@ -1,1 +1,1 @@
-var mnemonic = "random leisure reject rocket attitude monster mammal tourist tooth verb gift canvas";
+var mnemonic = "tortoise liquid uncle peasant naive check gesture host blanket expect myself favorite";

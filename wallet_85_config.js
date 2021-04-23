@@ -1,1 +1,1 @@
-var mnemonic = "duck render also cereal actress expand person pizza legal state gift hobby";
+var mnemonic = "garden vote connect develop method weekend address shadow issue clown good burden";

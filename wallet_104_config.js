@@ -1,1 +1,1 @@
-var mnemonic = "bulk market opinion gaze lava sail alcohol drill veteran treat hundred clever";
+var mnemonic = "river skate evoke pelican mystery erode tomato expect gauge vast noodle tape";

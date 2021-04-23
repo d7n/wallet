@@ -1,1 +1,1 @@
-var mnemonic = "purse space jewel rocket repair autumn street february quarter vehicle harvest ride";
+var mnemonic = "split income yard garlic apology hero blame cool away canyon ability poverty";

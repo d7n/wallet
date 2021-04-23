@@ -1,1 +1,1 @@
-var mnemonic = "symbol card grid final clown approve kitten comfort service rifle electric quote";
+var mnemonic = "supreme cause vehicle cake pause kid liquid law green auto unusual reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow pigeon great circle harvest trophy awesome wine boat fat desert dove";
+var mnemonic = "advice capital away stand foam near gadget quit element wonder pupil jar";

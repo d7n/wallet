@@ -1,1 +1,1 @@
-var mnemonic = "upon prefer woman bachelor unknown alone salad grit bless sun penalty federal";
+var mnemonic = "chest slice wife friend double ring pulp skill label jazz hotel hero";

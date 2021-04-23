@@ -1,1 +1,1 @@
-var mnemonic = "nuclear flash dune dose neutral grunt sock switch output boss task cake";
+var mnemonic = "famous jazz tragic decrease million solution service consider weekend deposit repeat inform";

@@ -1,1 +1,1 @@
-var mnemonic = "celery field smooth melody nation bid shoe stumble album know gloom visit";
+var mnemonic = "case prize brain upon slab pledge seven mercy logic connect mansion angry";

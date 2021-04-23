@@ -1,1 +1,1 @@
-var mnemonic = "phrase maple option check daring pear excess melody tourist lounge dry onion";
+var mnemonic = "install air quick thumb street pledge gorilla usual twenty robust caught fix";
