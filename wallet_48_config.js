@@ -1,1 +1,1 @@
-var mnemonic = "addict spoon fit regret phrase that repeat staff fashion hire team west";
+var mnemonic = "promote sheriff spring test broom blush layer soda coconut naive material rose";

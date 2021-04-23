@@ -1,1 +1,1 @@
-var mnemonic = "goat thrive decorate stomach soap cannon copper relief depth salmon grow knife";
+var mnemonic = "furnace give wasp daring kangaroo size caught silk hire obey keep pond";

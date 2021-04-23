@@ -1,1 +1,1 @@
-var mnemonic = "above runway hamster cable diagram giggle gaze source narrow talk sound flip";
+var mnemonic = "lunch edge embark cousin chair grant sad flag follow attack vapor orbit";

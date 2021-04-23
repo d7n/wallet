@@ -1,1 +1,1 @@
-var mnemonic = "enroll grass pottery cry asthma mosquito card genius chase cute rebel clog";
+var mnemonic = "inside treat soldier leader across address rain mercy chunk paddle alter oil";

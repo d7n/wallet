@@ -1,1 +1,1 @@
-var mnemonic = "program seat globe insect slice east demise embrace opera minute glue ghost";
+var mnemonic = "snack short stove hill maid upgrade quality poem laptop gather any humble";

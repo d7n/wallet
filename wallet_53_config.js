@@ -1,1 +1,1 @@
-var mnemonic = "sunset vacuum ten bargain suit various conduct endless library gather feed crew";
+var mnemonic = "avoid silver wife deer adult cement hotel island empty soon left post";

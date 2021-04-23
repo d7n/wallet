@@ -1,1 +1,1 @@
-var mnemonic = "section live host relief unaware coffee regular portion obey grow slot modify";
+var mnemonic = "true song drastic notice beach umbrella quantum vicious stairs lunch hotel endless";

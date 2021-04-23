@@ -1,1 +1,1 @@
-var mnemonic = "library stage list truck fee walk shed elegant coconut ritual salon split";
+var mnemonic = "connect dream advance jazz inject express mule unit speed whale flee response";

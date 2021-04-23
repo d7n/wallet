@@ -1,1 +1,1 @@
-var mnemonic = "illegal reform tail this flight barrel funny thing actual ritual assault prevent";
+var mnemonic = "web town patrol shine group all feature oblige antenna cart bike honey";

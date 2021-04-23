@@ -1,1 +1,1 @@
-var mnemonic = "tag census squirrel express describe danger anxiety simple enact emerge bamboo keep";
+var mnemonic = "animal whip believe edge spot paddle short lazy husband job chaos void";

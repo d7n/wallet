@@ -1,1 +1,1 @@
-var mnemonic = "quote when prosper logic silly conduct air chef grow bullet sheriff shrimp";
+var mnemonic = "million naive manual phone legend demand roof arena submit damage lend start";

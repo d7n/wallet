@@ -1,1 +1,1 @@
-var mnemonic = "cushion bachelor lizard youth hair talk immense hope taste spin render degree";
+var mnemonic = "wave small north inherit abandon ocean candy endless lecture between output crater";

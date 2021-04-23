@@ -1,1 +1,1 @@
-var mnemonic = "primary play sock float hockey devote menu flavor slush trade myself can";
+var mnemonic = "save frog parent dune silent plug ritual forget equip dismiss render assault";

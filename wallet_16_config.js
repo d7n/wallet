@@ -1,1 +1,1 @@
-var mnemonic = "brush dilemma discover slush above acid ketchup age absorb canyon answer mobile";
+var mnemonic = "onion pave hurry canyon crater task piece predict shuffle wealth install castle";

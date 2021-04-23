@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog room proud congress surprise three wrist bamboo insane orphan process trumpet";
+var mnemonic = "idea tag nuclear believe program order drum axis begin pledge lend color";

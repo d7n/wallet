@@ -1,1 +1,1 @@
-var mnemonic = "clever country maze steak avocado demand ensure elbow summer dinosaur rib pond";
+var mnemonic = "smile powder latin rather rely wreck coral title sentence seek cable weekend";

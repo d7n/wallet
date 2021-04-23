@@ -1,1 +1,1 @@
-var mnemonic = "rebel language paper tip output awful until dolphin oval dish peanut oppose";
+var mnemonic = "pride assault refuse hole broccoli swap alone aim aisle fame satoshi salute";

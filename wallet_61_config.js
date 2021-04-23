@@ -1,1 +1,1 @@
-var mnemonic = "pilot upper fame result type loop south length another theme obvious good";
+var mnemonic = "super beef depart voice repeat planet palace carbon strong enable youth giraffe";

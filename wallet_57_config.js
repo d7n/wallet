@@ -1,1 +1,1 @@
-var mnemonic = "cute disease bomb wheat extra fold elite cricket laundry legend hood mother";
+var mnemonic = "brief warm diesel stick crater exact puppy boil element walk logic govern";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore dress pen hello doctor cactus toe six exhaust timber assault staff";
+var mnemonic = "hurry suggest author hire suffer hill fever identify mosquito hammer acid foster";

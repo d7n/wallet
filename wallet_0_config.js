@@ -1,1 +1,1 @@
-var mnemonic = "margin solar nut sibling involve tray museum recipe pole mass ancient man";
+var mnemonic = "damp gas media fly rain stage dinner powder want tragic assault find";

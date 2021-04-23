@@ -1,1 +1,1 @@
-var mnemonic = "kitten valve never scrap punch birth timber nut hamster act paddle ritual";
+var mnemonic = "organ market real visa gospel front grocery quantum enhance opinion cheese fancy";

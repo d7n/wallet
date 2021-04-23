@@ -1,1 +1,1 @@
-var mnemonic = "destroy swamp adjust gain phrase wisdom space weapon height garden swing voyage";
+var mnemonic = "stove kid response impact suit chicken pear basket burst innocent off toy";

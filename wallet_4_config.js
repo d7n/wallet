@@ -1,1 +1,1 @@
-var mnemonic = "angry penalty want differ welcome monkey refuse upgrade habit tool tower round";
+var mnemonic = "frame multiply stay spirit else huge dismiss area loop problem blur deny";

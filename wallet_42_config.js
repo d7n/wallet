@@ -1,1 +1,1 @@
-var mnemonic = "excess level favorite sad champion skate crumble apart grunt enter whale proud";
+var mnemonic = "waste brisk robust mind popular tattoo also hard organ scrub knee reveal";

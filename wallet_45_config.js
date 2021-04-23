@@ -1,1 +1,1 @@
-var mnemonic = "tide worth allow spend pilot issue shock canoe spend fine viable episode";
+var mnemonic = "protect spare garage real layer pledge issue upon sword depth check session";

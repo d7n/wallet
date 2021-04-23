@@ -1,1 +1,1 @@
-var mnemonic = "memory trouble employ fee ten immense where angry ocean wink blood physical";
+var mnemonic = "loop virus latin garden trick weird awkward layer diesel immense control cousin";

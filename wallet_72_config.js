@@ -1,1 +1,1 @@
-var mnemonic = "appear story three supply south autumn estate guide write victory degree antique";
+var mnemonic = "float motor this manual mimic this sail secret will peanut amateur park";

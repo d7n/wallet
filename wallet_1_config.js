@@ -1,1 +1,1 @@
-var mnemonic = "surface buffalo clap victory gloom approve ketchup banana truly assist nose thrive";
+var mnemonic = "happy venue leisure spatial snow device toe actress holiday garage undo struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar always point universe erode camera enough odor gain pottery chapter undo";
+var mnemonic = "trash exile expire street noble below coconut garment ostrich grass frog carry";

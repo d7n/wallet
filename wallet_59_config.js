@@ -1,1 +1,1 @@
-var mnemonic = "vacant enact hire thing repeat bubble fault ice degree hard shield satisfy";
+var mnemonic = "hammer quote goat strike ocean leader critic sunset retire robust exact photo";

@@ -1,1 +1,1 @@
-var mnemonic = "receive fringe key address replace defense wonder level isolate body farm heavy";
+var mnemonic = "body fossil join family bacon edit put naive sniff bunker innocent kangaroo";

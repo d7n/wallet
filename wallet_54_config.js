@@ -1,1 +1,1 @@
-var mnemonic = "super meadow spike news soon escape recipe clinic chase moon deputy silent";
+var mnemonic = "caution tenant success right solar topic elephant later pulse elevator fashion license";

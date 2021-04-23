@@ -1,1 +1,1 @@
-var mnemonic = "comic hill luggage number appear victory another turn machine typical limit cotton";
+var mnemonic = "screen image cereal alarm conduct solve inject then crush exist hobby kiwi";

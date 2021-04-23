@@ -1,1 +1,1 @@
-var mnemonic = "cabin gold family scare margin inform margin inform glimpse truck ecology catalog";
+var mnemonic = "lava win steel cousin hill dentist puzzle crater frequent say peasant rack";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow venue market click abandon talent guess cave submit unit return suit";
+var mnemonic = "symbol dentist island carpet rescue taste equip edge volume capable primary cloth";

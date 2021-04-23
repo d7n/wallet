@@ -1,1 +1,1 @@
-var mnemonic = "feature result strategy edit feed super twenty helmet mystery sound square mango";
+var mnemonic = "change culture dutch amount ribbon name garment extra middle front bridge conduct";

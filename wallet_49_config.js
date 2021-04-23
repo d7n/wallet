@@ -1,1 +1,1 @@
-var mnemonic = "color sing truly choose question wage swear mosquito flash hair essence supreme";
+var mnemonic = "spike proof poverty jeans sudden luggage warm wing mystery satoshi alley else";

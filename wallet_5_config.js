@@ -1,1 +1,1 @@
-var mnemonic = "flip addict they lonely ten garden earth chalk reflect amateur save toddler";
+var mnemonic = "perfect know long cargo close dismiss desk volume kid despair dragon match";

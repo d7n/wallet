@@ -1,1 +1,1 @@
-var mnemonic = "valley rookie shop gravity laundry draft basic provide include follow duty this";
+var mnemonic = "wash wine sick noble fine method mention palm above smile build crisp";

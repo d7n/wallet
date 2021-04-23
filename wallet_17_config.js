@@ -1,1 +1,1 @@
-var mnemonic = "run piano security range arm loan never combine orange wonder utility doctor";
+var mnemonic = "market theme useless wealth cricket poet pull culture urban shoe plastic resource";

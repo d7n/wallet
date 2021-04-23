@@ -1,1 +1,1 @@
-var mnemonic = "apple cook affair shed blossom thunder cactus cause trade magnet acquire laundry";
+var mnemonic = "want century dish practice wasp humor govern ladder lounge six unique dinner";

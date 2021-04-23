@@ -1,1 +1,1 @@
-var mnemonic = "raw struggle flat hollow vibrant size also muscle path holiday wheat wool";
+var mnemonic = "muffin beyond fire torch decline stay three off wrap oval favorite close";

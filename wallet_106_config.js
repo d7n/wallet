@@ -1,1 +1,1 @@
-var mnemonic = "dynamic aunt math eye bar unhappy flee worry certain usual amazing lava";
+var mnemonic = "zoo kitten slender crouch someone view toe crazy digital entry drama grit";

@@ -1,1 +1,1 @@
-var mnemonic = "apple legend alien input wild coil rent never point nest extend shift";
+var mnemonic = "success yard guard visa strike color student wheel notice slot uphold slow";

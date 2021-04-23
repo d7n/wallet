@@ -1,1 +1,1 @@
-var mnemonic = "about game latin raise ritual weasel any long loop ridge muffin clarify";
+var mnemonic = "caution season extend debris crush reduce project seek ketchup pepper spot mule";

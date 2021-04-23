@@ -1,1 +1,1 @@
-var mnemonic = "midnight nerve rabbit head access scan cushion toast limb doll doctor wage";
+var mnemonic = "total renew betray congress goddess table trial glance switch comic group truly";

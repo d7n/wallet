@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog swift hero fetch describe predict scatter usage chuckle armed donkey near";
+var mnemonic = "tourist pull giggle bargain coin broom now opinion clip subject one income";

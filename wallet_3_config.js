@@ -1,1 +1,1 @@
-var mnemonic = "ecology square course warfare display arrive jump tube disease maple annual tonight";
+var mnemonic = "loud cluster captain sense worth seed wrap dance destroy cycle impulse clown";

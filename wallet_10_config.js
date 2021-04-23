@@ -1,1 +1,1 @@
-var mnemonic = "engage inside focus kite twelve satisfy execute fetch dose note inner picture";
+var mnemonic = "uniform space erode anxiety elbow cement purchase marble later airport apple million";

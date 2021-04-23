@@ -1,1 +1,1 @@
-var mnemonic = "trophy arm paper resource pass runway cake victory waste board artwork squeeze";
+var mnemonic = "cash slight elevator leave whisper nose dress home myself have beauty oblige";

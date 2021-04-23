@@ -1,1 +1,1 @@
-var mnemonic = "diagram dress swing head put share office offer picture chronic october sad";
+var mnemonic = "nut settle picnic lonely waste pepper just street siege grit angle slim";

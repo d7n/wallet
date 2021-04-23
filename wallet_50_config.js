@@ -1,1 +1,1 @@
-var mnemonic = "blur fresh defense army health inject round urge already cigar large business";
+var mnemonic = "toe mule globe decrease wheel sign curious tiny choice hybrid glory depth";

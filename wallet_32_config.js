@@ -1,1 +1,1 @@
-var mnemonic = "various climb column dune faint milk moral tumble total symptom peasant solid";
+var mnemonic = "awesome envelope scan fringe scout fitness angry rent govern luggage gap humor";

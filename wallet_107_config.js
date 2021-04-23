@@ -1,1 +1,1 @@
-var mnemonic = "scrub neither night regular upset material finish moral rather moment enlist helmet";
+var mnemonic = "upset myself this tip pumpkin proud system slush wrestle uncover smile invite";

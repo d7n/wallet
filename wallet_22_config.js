@@ -1,1 +1,1 @@
-var mnemonic = "loop behind amazing half phrase cabbage absurd tobacco defense utility dumb layer";
+var mnemonic = "dad fluid orange innocent bomb budget suggest hidden depth finish define three";

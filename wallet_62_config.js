@@ -1,1 +1,1 @@
-var mnemonic = "receive laugh fence link denial august tooth daughter pyramid bind mountain boil";
+var mnemonic = "mixed satisfy answer illegal hover trumpet gate senior salute romance live brave";

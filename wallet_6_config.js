@@ -1,1 +1,1 @@
-var mnemonic = "debris angry rose author canoe crush battle light seed region tiger other";
+var mnemonic = "digital expand winter ahead forest weapon until life parrot large asthma input";

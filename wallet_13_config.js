@@ -1,1 +1,1 @@
-var mnemonic = "bubble april stereo pen avoid tuna social either obtain obscure renew funny";
+var mnemonic = "battle school future feel thumb project ribbon roof virtual high poet demise";

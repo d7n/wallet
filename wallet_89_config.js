@@ -1,1 +1,1 @@
-var mnemonic = "maze invest view food because they begin edge remain toy iron ahead";
+var mnemonic = "delay allow glimpse wasp ritual device taste smile industry staff author maze";

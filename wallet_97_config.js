@@ -1,1 +1,1 @@
-var mnemonic = "wasp nest predict wasp own column taste brush banner tiny arch wide";
+var mnemonic = "green floor inform humor brisk desk govern wing milk gloom please match";

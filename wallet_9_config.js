@@ -1,1 +1,1 @@
-var mnemonic = "okay cabin occur wealth midnight margin brown badge vague pony clump bargain";
+var mnemonic = "high napkin chief demise despair smart elite behave diesel rough seed anger";

@@ -1,1 +1,1 @@
-var mnemonic = "agent scout sand lady rubber siege staff card street promote federal harbor";
+var mnemonic = "item card city try drive glove dolphin luxury forward rule sustain dismiss";

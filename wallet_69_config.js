@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow unaware leaf library stem mask gentle phrase wheel notable two proof";
+var mnemonic = "typical hunt wish believe magic exchange olive ability sand north rough page";

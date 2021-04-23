@@ -1,1 +1,1 @@
-var mnemonic = "member blur erase always surprise amused team transfer ship door pulp cruel";
+var mnemonic = "canoe night elephant essay water answer smart force poet wave route material";

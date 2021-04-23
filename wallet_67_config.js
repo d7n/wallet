@@ -1,1 +1,1 @@
-var mnemonic = "window wise jacket praise lock release february whip hobby cable stable stock";
+var mnemonic = "foil height work empower whale tumble eyebrow bike horn waste cliff ensure";

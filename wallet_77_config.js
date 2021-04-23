@@ -1,1 +1,1 @@
-var mnemonic = "monkey virus lyrics develop sister milk calm inspire purchase grab mention series";
+var mnemonic = "pattern rude iron rice phrase federal glass fashion recall job strategy melt";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual elegant sadness client green crystal have story diet bamboo service badge";
+var mnemonic = "bullet skull unveil kidney weasel museum case theme canal senior daring confirm";

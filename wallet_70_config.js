@@ -1,1 +1,1 @@
-var mnemonic = "usage carry glad manage rich enough choice horse scene top boss crop";
+var mnemonic = "bubble leopard slot fame close achieve pair soft health mountain tray bean";

@@ -1,1 +1,1 @@
-var mnemonic = "what forum surprise half quit fortune elephant metal bounce island pudding smart";
+var mnemonic = "issue mushroom index purse then cloud snow pact fashion race chase other";

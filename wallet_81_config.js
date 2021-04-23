@@ -1,1 +1,1 @@
-var mnemonic = "orbit peace penalty play luxury hunt edge thunder arrange two vanish alone";
+var mnemonic = "trigger youth punch alter hand inherit lyrics nation dish grain onion tuna";

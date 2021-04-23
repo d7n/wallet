@@ -1,1 +1,1 @@
-var mnemonic = "unit rhythm sunny pass time squirrel spirit immense initial cluster powder mask";
+var mnemonic = "apart aim train pond true display wash blouse thing bamboo auction height";

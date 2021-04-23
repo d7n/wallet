@@ -1,1 +1,1 @@
-var mnemonic = "hobby trust left ball bean flip pretty kitten material assume very brass";
+var mnemonic = "disagree antenna blood retreat cotton birth hard crawl because clown desert victory";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo bulk execute dash harbor since elegant depend vehicle seed fragile very";
+var mnemonic = "only arrive police shell cliff base cancel party benefit novel arch siege";

@@ -1,1 +1,1 @@
-var mnemonic = "key entire illegal ensure piano ramp illness hello reform dad what anchor";
+var mnemonic = "ten kiwi core rubber enough equal palace meadow toss embody boat intact";

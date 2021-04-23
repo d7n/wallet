@@ -1,1 +1,1 @@
-var mnemonic = "mixture blur noble employ deputy cloud earn mountain squeeze junior better fly";
+var mnemonic = "invite trigger organ together better tank primary great obey rescue nice cement";

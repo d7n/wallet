@@ -1,1 +1,1 @@
-var mnemonic = "people change buyer gossip level cushion two achieve recycle choice zebra genre";
+var mnemonic = "reform second solid creek diary option army wall knee stairs middle speak";

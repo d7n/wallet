@@ -1,1 +1,1 @@
-var mnemonic = "video second connect scrub electric glance express near outside soul half shaft";
+var mnemonic = "brown vault history evil feature hip liquid tenant author relax spell identify";

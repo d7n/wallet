@@ -1,1 +1,1 @@
-var mnemonic = "link adult dilemma kid pool outdoor banner act require allow tornado smile";
+var mnemonic = "remove ask kit tonight nephew two elephant aerobic illness fantasy finish fence";

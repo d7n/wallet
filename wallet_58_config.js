@@ -1,1 +1,1 @@
-var mnemonic = "defense fury gloom diary minute abandon peasant sting stand veteran dentist squeeze";
+var mnemonic = "entry ripple doll exist unlock body visual reason near kitten bean prison";

@@ -1,1 +1,1 @@
-var mnemonic = "inform husband foil share must arena lunar spawn hub profit wrist rally";
+var mnemonic = "high thumb omit update toast police marine ship pause torch combine clerk";

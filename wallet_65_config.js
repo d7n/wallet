@@ -1,1 +1,1 @@
-var mnemonic = "effort clog evidence detect arch else gold sister fringe family faith shuffle";
+var mnemonic = "online blue silly sleep modify mirror multiply advice picnic pretty million pencil";

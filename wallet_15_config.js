@@ -1,1 +1,1 @@
-var mnemonic = "depend they false tell rescue spike bench female direct phone upper bring";
+var mnemonic = "enter hole image top scorpion horn stadium apart economy spread dwarf tooth";

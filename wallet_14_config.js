@@ -1,1 +1,1 @@
-var mnemonic = "bomb feed cradle fire coyote cover margin fuel doll picnic spend toss";
+var mnemonic = "people sort tuition either debris deal pyramid drop fault hope jacket pumpkin";

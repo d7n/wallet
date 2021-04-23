@@ -1,1 +1,1 @@
-var mnemonic = "tell useless team enter lady result demise image rough eye lawsuit marriage";
+var mnemonic = "mixed come piece security poet cat bracket razor garage cradle goddess vendor";

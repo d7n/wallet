@@ -1,1 +1,1 @@
-var mnemonic = "lesson another penalty lumber empty lazy wing chuckle mystery believe filter rural";
+var mnemonic = "foster sight sport trumpet pretty second asthma small loyal stool word can";

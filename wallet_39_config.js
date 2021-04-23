@@ -1,1 +1,1 @@
-var mnemonic = "pig bomb sadness keep repair goat frost cruel hole divorce analyst tackle";
+var mnemonic = "visit satisfy lift mention neither salute volume such imitate robust shy face";

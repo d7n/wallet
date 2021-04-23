@@ -1,1 +1,1 @@
-var mnemonic = "ginger volume team replace addict lyrics scan seven mom slab interest attend";
+var mnemonic = "orbit immune survey soccer pilot water hurt inside away rent good split";

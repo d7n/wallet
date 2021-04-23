@@ -1,1 +1,1 @@
-var mnemonic = "move submit later social square midnight glare crop hobby style resemble polar";
+var mnemonic = "naive trick menu inject certain vague west special people weekend crumble climb";

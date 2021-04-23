@@ -1,1 +1,1 @@
-var mnemonic = "nation hurt champion knife caught uphold person rent vote appear sense marriage";
+var mnemonic = "item lazy news lava hat over violin sun fluid crisp need lab";

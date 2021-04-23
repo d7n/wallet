@@ -1,1 +1,1 @@
-var mnemonic = "chronic gloom cream gossip height walnut scare submit aunt fuel unusual gospel";
+var mnemonic = "doll burden daughter fiber base differ more digital wine tribe social flower";

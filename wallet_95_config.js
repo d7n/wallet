@@ -1,1 +1,1 @@
-var mnemonic = "puzzle awesome nominee gap virus rent oval pool kiwi easily ski mandate";
+var mnemonic = "list route among print pause degree scout force loan toe run skill";

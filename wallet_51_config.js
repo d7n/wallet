@@ -1,1 +1,1 @@
-var mnemonic = "such broccoli catch cradle fee movie desert level like wife own elevator";
+var mnemonic = "sell walnut field neglect glove process toilet cactus defense myself nephew bronze";

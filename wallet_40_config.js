@@ -1,1 +1,1 @@
-var mnemonic = "nose depend own online plate cluster negative among rough liberty occur trim";
+var mnemonic = "zebra inmate copy tent thank expire fall turn inherit mystery snow endless";
