@@ -1,1 +1,1 @@
-var mnemonic = "scrap frost wedding basket shop caught dose grief lizard flower dolphin sing";
+var mnemonic = "fiscal drive ranch priority energy release tiny goose again attract need bike";

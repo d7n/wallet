@@ -1,1 +1,1 @@
-var mnemonic = "elbow struggle act gesture erase planet pet tonight chronic blur disagree lens";
+var mnemonic = "mother skin proud certain shed canoe eagle toss all citizen cart radar";

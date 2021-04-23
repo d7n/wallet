@@ -1,1 +1,1 @@
-var mnemonic = "robot kitten ethics intact amateur dizzy creek track organ sea session deposit";
+var mnemonic = "love eyebrow floor tongue motor connect frost error shiver version scene column";

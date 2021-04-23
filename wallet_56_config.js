@@ -1,1 +1,1 @@
-var mnemonic = "seed ask cotton brave eager same unable follow cricket toddler noise decade";
+var mnemonic = "throw endorse vocal cable one ribbon town bacon wedding people year recall";

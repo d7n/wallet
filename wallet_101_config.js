@@ -1,1 +1,1 @@
-var mnemonic = "trip doctor aerobic refuse drift consider question universe foam photo ask output";
+var mnemonic = "rely galaxy spread appear betray vehicle tired donate hurry north leaf kiss";

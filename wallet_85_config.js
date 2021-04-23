@@ -1,1 +1,1 @@
-var mnemonic = "allow dial sponsor bean situate calm tumble there honey foster shoe call";
+var mnemonic = "wage sweet embark now youth warm chef tree arm inner aspect excess";

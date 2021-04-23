@@ -1,1 +1,1 @@
-var mnemonic = "wild upgrade window review tip thank grab execute increase neutral coffee gloom";
+var mnemonic = "orange jaguar rigid apple tenant often mail large coyote taxi story advice";

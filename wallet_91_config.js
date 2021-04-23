@@ -1,1 +1,1 @@
-var mnemonic = "merry improve example print wagon devote crack increase worry little adjust image";
+var mnemonic = "motion indoor pass reason side rare symptom inherit double reunion empower obvious";

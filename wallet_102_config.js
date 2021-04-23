@@ -1,1 +1,1 @@
-var mnemonic = "race coin winter tower wish lion near ramp strike chief idea giant";
+var mnemonic = "dust kidney execute web exhibit ostrich almost multiply have range lonely harvest";

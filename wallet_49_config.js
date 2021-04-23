@@ -1,1 +1,1 @@
-var mnemonic = "curtain embark run market crush fiscal present crucial nasty okay discover desk";
+var mnemonic = "peanut scrap club wing maid among purpose foster bid debate balance seminar";

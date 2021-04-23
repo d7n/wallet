@@ -1,1 +1,1 @@
-var mnemonic = "hospital sauce scatter beauty photo width anger obey target age wait quiz";
+var mnemonic = "erosion dolphin early duck key false cause brick simple end winter tape";

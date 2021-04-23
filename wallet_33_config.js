@@ -1,1 +1,1 @@
-var mnemonic = "adjust spoon walnut entry illegal young year inch bracket quantum unit size";
+var mnemonic = "admit face chat pyramid inspire beyond any afford real victory cheap cloud";

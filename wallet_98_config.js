@@ -1,1 +1,1 @@
-var mnemonic = "easily universe tree rude bring trash ability hood also industry cram door";
+var mnemonic = "depart border symptom great weasel entry material away salon coffee special hero";

@@ -1,1 +1,1 @@
-var mnemonic = "despair female race yard verb thrive sing gesture bid phrase clown balance";
+var mnemonic = "ginger acquire usual track then cheap claim cigar book grant upgrade hip";

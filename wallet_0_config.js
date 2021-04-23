@@ -1,1 +1,1 @@
-var mnemonic = "body income notable repeat rack announce obscure loan gain stereo dilemma crazy";
+var mnemonic = "certain burden orchard clump pull payment guilt north category agree calm fever";

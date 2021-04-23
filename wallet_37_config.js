@@ -1,1 +1,1 @@
-var mnemonic = "holiday report play relax coconut wrestle quick lucky parrot stairs exhibit junk";
+var mnemonic = "habit trade sunny axis romance any fork fruit episode guilt life stumble";

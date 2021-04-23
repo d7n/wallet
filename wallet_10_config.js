@@ -1,1 +1,1 @@
-var mnemonic = "bright engage innocent ribbon caution matter regular frown repeat replace inner absurd";
+var mnemonic = "blur trick harbor rabbit captain seek prevent lonely destroy naive sunset column";

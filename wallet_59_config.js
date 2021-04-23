@@ -1,1 +1,1 @@
-var mnemonic = "page iron letter whip bone genuine radio donor dry stamp network turn";
+var mnemonic = "shift fold can brush curtain sing drastic world rigid craft fat cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot stool decrease damp bus wing copper fun boil pride rigid riot";
+var mnemonic = "blue control army believe world joy top critic night acid outside unknown";

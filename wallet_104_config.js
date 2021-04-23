@@ -1,1 +1,1 @@
-var mnemonic = "west wrist direct party giggle clinic basket gate betray taste local robust";
+var mnemonic = "obey warfare crucial shield donate forward turn worth latin rural false vacuum";

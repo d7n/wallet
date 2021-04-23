@@ -1,1 +1,1 @@
-var mnemonic = "urban model dust cousin bulb average enjoy proof rally hire recall amused";
+var mnemonic = "club famous decade barrel peasant crawl ugly year faculty grain energy supply";

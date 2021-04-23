@@ -1,1 +1,1 @@
-var mnemonic = "immune clinic reason awesome element pear plug rail decide empower flight coconut";
+var mnemonic = "follow novel vital hurry silly any pipe spatial know music spend wolf";

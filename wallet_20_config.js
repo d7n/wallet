@@ -1,1 +1,1 @@
-var mnemonic = "cliff virus walk fiction ahead egg spell favorite onion concert balance latin";
+var mnemonic = "cram problem stuff sail leaf radio friend remember blue tissue milk apple";

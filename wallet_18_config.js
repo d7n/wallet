@@ -1,1 +1,1 @@
-var mnemonic = "market token fatigue motion range dust raw laptop select correct current alert";
+var mnemonic = "acoustic ostrich property depart patch uncover diary pink turtle total parrot moment";

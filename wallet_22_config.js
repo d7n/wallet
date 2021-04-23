@@ -1,1 +1,1 @@
-var mnemonic = "example example shell slot garment maximum notable rigid novel grant media steel";
+var mnemonic = "olympic tattoo gloom must must learn around chase draft unhappy bulk cannon";

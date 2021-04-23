@@ -1,1 +1,1 @@
-var mnemonic = "device pole note veteran vintage acquire purchase fix gun course reunion enforce";
+var mnemonic = "soap fat foot attend slush cupboard earth never expose orient pattern story";

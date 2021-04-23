@@ -1,1 +1,1 @@
-var mnemonic = "snap monster civil feature push romance letter wrap odor cabin crater auto";
+var mnemonic = "mushroom attend daring cat bulb snack spatial palm until topic project rice";

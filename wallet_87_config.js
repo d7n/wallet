@@ -1,1 +1,1 @@
-var mnemonic = "ankle ticket adult ozone despair tuition coffee mosquito ribbon rotate worth stomach";
+var mnemonic = "moment ahead nut glow scatter wet popular merit wealth exclude tumble skate";

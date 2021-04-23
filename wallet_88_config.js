@@ -1,1 +1,1 @@
-var mnemonic = "deliver cube second this lucky gain soldier panel fatigue stable nature ticket";
+var mnemonic = "primary umbrella march half ocean weather six marriage system danger kid patrol";

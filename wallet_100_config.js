@@ -1,1 +1,1 @@
-var mnemonic = "vast reject pumpkin gorilla sauce bullet obey ecology slam ski tiny indicate";
+var mnemonic = "wife razor energy jacket pizza wink parade blind roast segment hammer sniff";

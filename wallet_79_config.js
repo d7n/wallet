@@ -1,1 +1,1 @@
-var mnemonic = "unhappy reflect crime hurdle burst civil cover poverty firm vivid apology color";
+var mnemonic = "video auto lake kidney brass hand chest nothing measure wage ketchup erupt";

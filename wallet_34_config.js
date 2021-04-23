@@ -1,1 +1,1 @@
-var mnemonic = "clean unique become brother click slender gasp sand float kingdom blossom shift";
+var mnemonic = "venture excess reject sing crowd purity upgrade exercise grief tongue evolve robot";

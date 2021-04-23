@@ -1,1 +1,1 @@
-var mnemonic = "slab diary harvest reject clever copy ability under check snake admit jewel";
+var mnemonic = "myth zone admit cruel proud teach exit hazard keep ability citizen pole";

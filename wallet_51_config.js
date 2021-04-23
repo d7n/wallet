@@ -1,1 +1,1 @@
-var mnemonic = "cannon furnace gown else card domain garden bone expose sort snap minute";
+var mnemonic = "abuse picture atom magic language just afford welcome knock oppose muffin emerge";

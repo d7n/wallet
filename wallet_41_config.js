@@ -1,1 +1,1 @@
-var mnemonic = "review world just fix stone adult satoshi exclude sorry apple wrist happy";
+var mnemonic = "survey critic rookie demand damp trigger drop promote source lucky swing life";

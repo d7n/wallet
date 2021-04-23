@@ -1,1 +1,1 @@
-var mnemonic = "minimum destroy drill mention vicious wash help bread cupboard mistake discover render";
+var mnemonic = "express outer device naive choose cluster cargo chef muscle canoe rapid piece";

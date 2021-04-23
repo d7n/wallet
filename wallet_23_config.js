@@ -1,1 +1,1 @@
-var mnemonic = "jacket trigger knife joy dismiss day scare emotion achieve regular consider hover";
+var mnemonic = "pumpkin curtain master dinner pear install surge torch fork mind jaguar cotton";

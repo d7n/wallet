@@ -1,1 +1,1 @@
-var mnemonic = "crew mandate marine bread swap century device seat quit tragic emerge hair";
+var mnemonic = "crane hammer hockey dream diesel force wife remain hire train narrow level";

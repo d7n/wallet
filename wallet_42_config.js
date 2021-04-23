@@ -1,1 +1,1 @@
-var mnemonic = "banner purity ladder jewel bicycle wolf reflect bachelor electric absent imitate once";
+var mnemonic = "sting gesture federal dizzy pistol second when trip child anxiety sentence stool";

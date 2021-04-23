@@ -1,1 +1,1 @@
-var mnemonic = "frost inside bulb bamboo impulse mother maple attack left destroy soda scrap";
+var mnemonic = "world across surge cream primary unknown east violin reduce remove shoot abstract";

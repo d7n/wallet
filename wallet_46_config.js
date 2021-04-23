@@ -1,1 +1,1 @@
-var mnemonic = "armor media fluid spawn zone visit depart metal begin eyebrow despair fan";
+var mnemonic = "snack dumb good possible scene hat sail bargain purse liberty vivid mercy";

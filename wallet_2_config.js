@@ -1,1 +1,1 @@
-var mnemonic = "wrong extra great spy write whisper bind brisk sadness pledge invest runway";
+var mnemonic = "shallow useful advance expand opinion wood worth spend flip gun filter transfer";

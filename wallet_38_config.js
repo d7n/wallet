@@ -1,1 +1,1 @@
-var mnemonic = "juice casual boring shuffle fee drastic reason use list document room pair";
+var mnemonic = "match special planet ring gas bird garbage tourist spoon whisper spice amount";

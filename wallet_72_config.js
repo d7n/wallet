@@ -1,1 +1,1 @@
-var mnemonic = "cement suit entire nuclear prison inhale water logic traffic need purity all";
+var mnemonic = "curious cycle sweet wedding prefer album casino use surface year income real";

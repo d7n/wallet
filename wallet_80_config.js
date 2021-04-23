@@ -1,1 +1,1 @@
-var mnemonic = "kid sketch blouse pave sudden miracle renew survey crane claw edge fall";
+var mnemonic = "smart recipe flat bronze join fog base oval heart cool ozone situate";

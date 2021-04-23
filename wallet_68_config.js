@@ -1,1 +1,1 @@
-var mnemonic = "collect lamp stage scan aspect worry spell federal sadness work peanut pledge";
+var mnemonic = "congress actor message relief bubble best vast clap industry bright moon fancy";

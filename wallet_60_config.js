@@ -1,1 +1,1 @@
-var mnemonic = "diamond enable taste water love kid surface twelve install worth crunch abandon";
+var mnemonic = "access regret inmate horn result fox action rug cycle bulk cause say";

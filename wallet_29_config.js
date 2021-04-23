@@ -1,1 +1,1 @@
-var mnemonic = "satisfy ethics achieve mention squeeze sibling foil column draw target quick inherit";
+var mnemonic = "festival mutual olympic winter lion dinner brief grape loud stool smoke truck";

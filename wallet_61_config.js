@@ -1,1 +1,1 @@
-var mnemonic = "table letter lawsuit loud harbor twist alert napkin loan left poem sugar";
+var mnemonic = "settle rifle miss pelican elephant bar sentence robust rally lady canoe typical";

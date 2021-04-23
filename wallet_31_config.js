@@ -1,1 +1,1 @@
-var mnemonic = "hollow main trumpet blue universe seat bunker above rough cupboard rocket equip";
+var mnemonic = "gloom violin off arrest help excite vague stem excuse type arrange attack";

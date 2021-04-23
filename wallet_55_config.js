@@ -1,1 +1,1 @@
-var mnemonic = "rail crane gospel high scheme spider jungle process galaxy gravity tired usage";
+var mnemonic = "sting invest mechanic pioneer small wonder off boss walk swarm banana sword";

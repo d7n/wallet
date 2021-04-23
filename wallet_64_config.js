@@ -1,1 +1,1 @@
-var mnemonic = "fetch hazard blush reason remind turtle replace super vault portion runway humor";
+var mnemonic = "monkey dance since jacket pony season lava uphold photo now draw mouse";

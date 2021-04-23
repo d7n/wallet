@@ -1,1 +1,1 @@
-var mnemonic = "nothing penalty velvet renew build wheel pet arm reward blast fade allow";
+var mnemonic = "ecology expire force pink century uncle attend spoon canyon door cement abstract";

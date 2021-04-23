@@ -1,1 +1,1 @@
-var mnemonic = "silent vast absent magnet century enrich saddle nest memory inform coach jungle";
+var mnemonic = "amateur rate pizza clump price next attract pole own knife act wet";

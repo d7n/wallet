@@ -1,1 +1,1 @@
-var mnemonic = "black hill trophy foster grow famous scheme wrist trim work era fatigue";
+var mnemonic = "soft teach evolve symbol curious inject cattle deputy faint depth equal october";

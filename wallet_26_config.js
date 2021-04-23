@@ -1,1 +1,1 @@
-var mnemonic = "faint depth marble bronze wink celery slot people suggest lunar dizzy clarify";
+var mnemonic = "maid boat author seed affair reject artefact curve raven unlock often rather";

@@ -1,1 +1,1 @@
-var mnemonic = "purse loan term kite regular under oven random embark hope utility artwork";
+var mnemonic = "issue float morning donor assist exhibit predict best govern bundle company client";

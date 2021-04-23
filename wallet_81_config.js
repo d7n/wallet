@@ -1,1 +1,1 @@
-var mnemonic = "desert fresh inherit snap dismiss history woman crawl faint yellow eternal smile";
+var mnemonic = "raven embody tail drum expand frost rich cloth speak curtain web erase";

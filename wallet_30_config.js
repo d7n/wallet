@@ -1,1 +1,1 @@
-var mnemonic = "student attack reopen flower pioneer mistake snack engine hair major correct cook";
+var mnemonic = "deal habit vague couple thumb tired tip zebra pottery powder present soldier";

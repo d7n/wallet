@@ -1,1 +1,1 @@
-var mnemonic = "firm major large mask pelican damp miss draw universe rookie item health";
+var mnemonic = "object cloth people eagle casino home draft define web knock fun unusual";

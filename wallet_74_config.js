@@ -1,1 +1,1 @@
-var mnemonic = "fox decrease island reflect educate jeans pilot buffalo piano wait print junk";
+var mnemonic = "stone famous blame swim save wear kiss stick equip planet firm helmet";

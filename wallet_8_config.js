@@ -1,1 +1,1 @@
-var mnemonic = "first afford recipe birth betray surge drum outer coach script nest dizzy";
+var mnemonic = "spin reunion sure bulk letter best idle panic hammer slot roast below";

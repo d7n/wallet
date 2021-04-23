@@ -1,1 +1,1 @@
-var mnemonic = "evolve wire bid vanish result amazing crash assume dilemma pencil mouse thumb";
+var mnemonic = "unknown rebel globe window double beyond fix witness reveal current announce injury";

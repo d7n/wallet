@@ -1,1 +1,1 @@
-var mnemonic = "faculty box rule crisp absorb clinic bullet ski saddle life remember liberty";
+var mnemonic = "surround elevator produce yellow bottom twelve portion very fee street second grass";

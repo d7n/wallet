@@ -1,1 +1,1 @@
-var mnemonic = "fashion carry accident unit debris globe purse harvest auto title frog option";
+var mnemonic = "fiber box name act logic provide depend person shoe gasp shuffle never";

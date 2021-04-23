@@ -1,1 +1,1 @@
-var mnemonic = "car attend catch exercise fever movie property amount people crime network chair";
+var mnemonic = "parent opera hill bless tackle cinnamon doctor pretty million fan always destroy";

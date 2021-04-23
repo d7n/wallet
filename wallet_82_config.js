@@ -1,1 +1,1 @@
-var mnemonic = "avoid room chuckle help loop child notice vital rapid cheese swing broom";
+var mnemonic = "bracket anxiety custom cream useless pact usage juice step isolate gaze observe";

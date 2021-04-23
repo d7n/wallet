@@ -1,1 +1,1 @@
-var mnemonic = "control bullet ring fix cross chef brother skin code library model sense";
+var mnemonic = "powder push alien crisp style tortoise thought miss once organ under smile";

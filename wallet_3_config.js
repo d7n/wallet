@@ -1,1 +1,1 @@
-var mnemonic = "either science high sing cage live aware inside goddess aim great company";
+var mnemonic = "tail retire era message review dignity capable rose hello seven social bag";

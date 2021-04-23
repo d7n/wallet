@@ -1,1 +1,1 @@
-var mnemonic = "manual flock online slide whale stay coyote case prize toe refuse write";
+var mnemonic = "note omit captain impact note measure ensure wait surround erase sight snap";

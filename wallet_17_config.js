@@ -1,1 +1,1 @@
-var mnemonic = "cloud couple scan response column outside click lizard number property tomato vast";
+var mnemonic = "quiz mistake theory world drill retire exotic elegant steak warm tattoo city";

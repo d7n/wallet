@@ -1,1 +1,1 @@
-var mnemonic = "special dinner trick salt provide lawn case ski salad couple note token";
+var mnemonic = "stumble few quote thought walk wide access industry toward true egg tray";

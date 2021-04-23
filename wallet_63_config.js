@@ -1,1 +1,1 @@
-var mnemonic = "kitchen power comic radar gasp junior grief dress giant twist fame august";
+var mnemonic = "rule visual rough turtle basic grid stable fuel doctor woman ghost faint";

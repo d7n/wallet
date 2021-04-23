@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin lunch sea page great able cement moment wasp angle surprise bomb";
+var mnemonic = "bitter attend horse program alter decline code rubber point between assume useless";

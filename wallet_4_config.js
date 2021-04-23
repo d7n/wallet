@@ -1,1 +1,1 @@
-var mnemonic = "diamond speak blossom hobby jealous cousin attract bus absurd park still giraffe";
+var mnemonic = "warrior initial skirt egg unknown group trick enforce chapter dragon oval million";

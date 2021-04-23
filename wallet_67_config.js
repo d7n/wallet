@@ -1,1 +1,1 @@
-var mnemonic = "crater fetch range casino peace must palm learn about lamp bike lobster";
+var mnemonic = "column erupt human spawn shaft bright excuse random mammal grunt magic spike";

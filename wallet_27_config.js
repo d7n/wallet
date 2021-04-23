@@ -1,1 +1,1 @@
-var mnemonic = "early pulse depth tiger talk mask sign snap garbage voice sense power";
+var mnemonic = "allow box remain deal worry usual blue despair glue expire tongue voyage";

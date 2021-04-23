@@ -1,1 +1,1 @@
-var mnemonic = "split fly wet hobby decorate sort cushion error allow normal elevator length";
+var mnemonic = "useful another timber riot water dinner dolphin afraid version reveal cliff portion";

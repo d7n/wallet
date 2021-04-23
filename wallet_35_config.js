@@ -1,1 +1,1 @@
-var mnemonic = "lobster warm never choice carpet cargo famous stick edge busy job recall";
+var mnemonic = "spray dinner seed economy glimpse lock fade salmon lonely long exhibit warfare";

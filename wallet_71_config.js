@@ -1,1 +1,1 @@
-var mnemonic = "lift exist regret salute subway wasp symptom food rose demand bird word";
+var mnemonic = "patient can path margin kick attitude obscure parade lounge worth life drastic";

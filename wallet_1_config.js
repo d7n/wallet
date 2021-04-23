@@ -1,1 +1,1 @@
-var mnemonic = "one broccoli hover wood sure response soap retire real canal upon net";
+var mnemonic = "shock lend session exercise cinnamon leaf item infant kitten hollow luggage couch";

@@ -1,1 +1,1 @@
-var mnemonic = "mango hard hope medal loan toss sister sorry fire gate dwarf truly";
+var mnemonic = "cycle tide drift frog foot acid submit floor suggest insect click exist";

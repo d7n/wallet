@@ -1,1 +1,1 @@
-var mnemonic = "fetch before print taste stool hurdle advice sweet narrow custom finish audit";
+var mnemonic = "street rookie key sketch endorse solve cinnamon bridge ecology behind pencil net";

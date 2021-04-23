@@ -1,1 +1,1 @@
-var mnemonic = "bunker essay cook better woman park yellow carpet maximum budget clock blouse";
+var mnemonic = "average melody ramp orphan airport ivory hurry where tuition absurd theme daughter";

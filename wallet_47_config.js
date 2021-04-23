@@ -1,1 +1,1 @@
-var mnemonic = "wolf bird edge shine phrase hidden fantasy right awkward message dirt library";
+var mnemonic = "vivid settle invite basic lion improve memory oven evolve slow wine decade";

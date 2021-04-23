@@ -1,1 +1,1 @@
-var mnemonic = "casino celery sleep north run endless sunny rent strong collect smooth sleep";
+var mnemonic = "air hammer wash actor check addict hope lamp zero they rubber matter";

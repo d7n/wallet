@@ -1,1 +1,1 @@
-var mnemonic = "thank nuclear enter card pull easily tunnel junk float clog deposit first";
+var mnemonic = "either cat coyote upper scout fiber gym bachelor club drill devote smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "security mobile cube peace skull doll kingdom repeat craft poverty raccoon horse";
+var mnemonic = "short whale during similar people foil glare please cable worry neither bleak";

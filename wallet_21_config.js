@@ -1,1 +1,1 @@
-var mnemonic = "junk text sad entry ensure alley smart load toddler mansion fold lawsuit";
+var mnemonic = "guilt radar often scheme shed inmate confirm blush slight industry forest buzz";

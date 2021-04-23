@@ -1,1 +1,1 @@
-var mnemonic = "hen thumb message furnace dizzy since what wheat afraid quiz drastic bus";
+var mnemonic = "shy spoil install like camera punch item dune reflect beef scene symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics gain claim assault pear spider kitchen swamp blanket dial season alert";
+var mnemonic = "warrior nurse slim drill struggle sphere occur build gym rebuild cloth omit";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal tackle shadow jealous drum verb document spread quick night castle seat";
+var mnemonic = "clerk gauge beauty basket eternal famous bright prefer scheme injury oyster slam";

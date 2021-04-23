@@ -1,1 +1,1 @@
-var mnemonic = "churn blue today rare throw honey stem liar coyote secret off desert";
+var mnemonic = "trick surge razor core soul aerobic term glove finger movie legend hand";
