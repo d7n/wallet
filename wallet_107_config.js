@@ -1,1 +1,1 @@
-var mnemonic = "biology slab post parade actor lounge minute motion scrub dentist deputy unlock";
+var mnemonic = "deal panel seminar must enter adult hold enter stand whale work sibling";

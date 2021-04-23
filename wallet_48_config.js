@@ -1,1 +1,1 @@
-var mnemonic = "guard speed marble dragon gasp clog rifle bubble license produce arrow lazy";
+var mnemonic = "message denial bike mule remind plate trust laundry know sunset turn mobile";

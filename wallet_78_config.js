@@ -1,1 +1,1 @@
-var mnemonic = "flower family title media fly reveal engine uphold black oak certain never";
+var mnemonic = "energy wrist tumble wink fatigue boss police just flame unit flower issue";

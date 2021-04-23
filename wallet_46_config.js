@@ -1,1 +1,1 @@
-var mnemonic = "spray adult step clutch alarm nation cinnamon quantum asthma tourist play cherry";
+var mnemonic = "lawn tomorrow plate hill chalk display little upset friend comic barrel action";

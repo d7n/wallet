@@ -1,1 +1,1 @@
-var mnemonic = "piece excite vital train observe vague live invite penalty bubble industry scheme";
+var mnemonic = "absurd offer escape armed number speak evolve language casual state burst music";

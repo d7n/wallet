@@ -1,1 +1,1 @@
-var mnemonic = "love good hundred spot chunk raw intact inner cluster woman stock chalk";
+var mnemonic = "furnace valley pledge system obscure another palace donkey odor exotic basic else";

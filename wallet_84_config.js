@@ -1,1 +1,1 @@
-var mnemonic = "daughter soap table short shine inner matter crawl path cheese chaos sting";
+var mnemonic = "ecology disease tube price absorb youth turkey shell inform afford lonely tiger";

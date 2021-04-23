@@ -1,1 +1,1 @@
-var mnemonic = "aunt friend mad orphan topic catch drop arctic chimney grunt snack card";
+var mnemonic = "crew chuckle favorite talent crystal file unusual dirt render they open budget";

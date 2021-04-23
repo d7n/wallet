@@ -1,1 +1,1 @@
-var mnemonic = "direct salad safe boost swear urban jump increase silly egg animal tiger";
+var mnemonic = "library crop resource material envelope symptom quantum glass fever topic pen seven";

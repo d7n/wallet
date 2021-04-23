@@ -1,1 +1,1 @@
-var mnemonic = "liberty calm balcony test jeans off buffalo sustain cheap tortoise govern foot";
+var mnemonic = "already spy month ocean cool innocent gesture range seat panel gossip rifle";

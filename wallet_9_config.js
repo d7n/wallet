@@ -1,1 +1,1 @@
-var mnemonic = "absent flavor amazing oil arena average middle obtain cry poverty gospel toast";
+var mnemonic = "hub endless local rare suffer visual slogan apple stand master arrest skate";

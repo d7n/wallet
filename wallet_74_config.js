@@ -1,1 +1,1 @@
-var mnemonic = "film modify squeeze appear frequent open ugly celery crime trap vacuum fox";
+var mnemonic = "giant glance soul hood off benefit mansion stay armed hawk coyote trust";

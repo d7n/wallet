@@ -1,1 +1,1 @@
-var mnemonic = "universe primary clump engine peanut claw helmet sort scrap dragon antenna receive";
+var mnemonic = "lottery fuel soup theme main actress gap small minute joke round trust";

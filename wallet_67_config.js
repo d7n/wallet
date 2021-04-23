@@ -1,1 +1,1 @@
-var mnemonic = "post inform token syrup blanket spread poem radar jazz reunion damage tattoo";
+var mnemonic = "raven dance crack accuse embrace kiss limit buyer jazz color anxiety robust";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise merit clarify blast penalty upset quiz clay hidden movie twin coral";
+var mnemonic = "truth urge approve because kangaroo final police clerk brand all clip alley";

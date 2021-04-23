@@ -1,1 +1,1 @@
-var mnemonic = "victory example answer ride only dish kite resist broom pair law verify";
+var mnemonic = "pill faith since brown hope ribbon hat neither another explain photo regular";

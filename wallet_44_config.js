@@ -1,1 +1,1 @@
-var mnemonic = "swear steak recycle similar glad wagon blade kingdom tell hip old subway";
+var mnemonic = "later suffer uphold infant risk shell olympic work rib album protect stool";

@@ -1,1 +1,1 @@
-var mnemonic = "orient brother emerge cart huge raccoon between future unknown right scrap crystal";
+var mnemonic = "message enter metal crack three idle explain surge sick future ten purpose";

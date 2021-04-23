@@ -1,1 +1,1 @@
-var mnemonic = "receive alter secret youth shift nuclear just despair clog cry focus quit";
+var mnemonic = "dawn lumber wink habit door peasant hip opinion festival juice issue bunker";

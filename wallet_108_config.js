@@ -1,1 +1,1 @@
-var mnemonic = "best miss neither indicate talent expire stuff street discover embark gas police";
+var mnemonic = "dash time chest enjoy dutch enforce salmon begin act elbow robot door";

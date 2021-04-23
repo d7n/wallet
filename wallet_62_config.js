@@ -1,1 +1,1 @@
-var mnemonic = "behave ask elite clown slush vacant review electric win slab hope pretty";
+var mnemonic = "garbage common oxygen attract chalk steel case embark naive ankle onion wagon";

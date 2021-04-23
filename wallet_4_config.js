@@ -1,1 +1,1 @@
-var mnemonic = "glass film rural mechanic broom test error couch behind fork senior reason";
+var mnemonic = "shadow before rapid stone badge found dry celery title neglect rifle wrong";

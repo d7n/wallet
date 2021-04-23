@@ -1,1 +1,1 @@
-var mnemonic = "shop credit entire student once cry build manual fury demise pact service";
+var mnemonic = "child avocado first loyal evoke april promote poem glare oil move night";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble super urge shop sand message basic shock hunt giggle salute suit";
+var mnemonic = "choose believe inhale okay science shadow style diary rigid teach volcano gown";

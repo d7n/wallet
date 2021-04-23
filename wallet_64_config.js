@@ -1,1 +1,1 @@
-var mnemonic = "regret limb venue nothing uphold input universe shove must sense all rescue";
+var mnemonic = "job student language narrow loan indicate inquiry divert jungle enact assume please";

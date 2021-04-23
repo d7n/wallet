@@ -1,1 +1,1 @@
-var mnemonic = "cat clay borrow ribbon clump rain luxury alone bottom gospel require actress";
+var mnemonic = "utility first ahead bounce ranch quick shell vintage leg dragon fun jar";

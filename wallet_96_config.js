@@ -1,1 +1,1 @@
-var mnemonic = "street beyond trust basic match bubble bird argue thumb negative neither sting";
+var mnemonic = "lottery stamp vocal royal easy scan length pitch doll piano report noodle";

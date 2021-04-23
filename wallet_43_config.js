@@ -1,1 +1,1 @@
-var mnemonic = "negative toddler demand price open worth robot ski prepare toast minor title";
+var mnemonic = "kiwi left glimpse crack civil dinosaur home switch chronic enrich spawn way";

@@ -1,1 +1,1 @@
-var mnemonic = "cat level bid rule venture siren pretty world panther settle speak cup";
+var mnemonic = "multiply tongue dignity sadness assume inquiry dinner boil pitch profit keep song";

@@ -1,1 +1,1 @@
-var mnemonic = "elder sleep antenna tissue notice help system empty february color win eternal";
+var mnemonic = "patch rice close trouble hello boat scrub market bronze diet funny swift";

@@ -1,1 +1,1 @@
-var mnemonic = "camera dune model cute throw great ill floor clog modify swarm dove";
+var mnemonic = "unhappy combine repeat option element steel ripple repair fatigue cube anger web";

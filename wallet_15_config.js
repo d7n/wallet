@@ -1,1 +1,1 @@
-var mnemonic = "tackle motor leisure sentence wet visit aspect mixed all frequent frog salmon";
+var mnemonic = "insect manual quality jelly chest clip cousin pupil stone chicken plug move";

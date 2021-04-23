@@ -1,1 +1,1 @@
-var mnemonic = "tail local sport decide attack steak swing plunge estate over problem sense";
+var mnemonic = "spray cross van write pistol code spend zone master local orient worth";

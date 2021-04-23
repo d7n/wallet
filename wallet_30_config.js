@@ -1,1 +1,1 @@
-var mnemonic = "twist excuse hotel unique only monkey kidney egg good gentle shine swing";
+var mnemonic = "bubble grass drip excess rally focus school library item punch tumble waste";

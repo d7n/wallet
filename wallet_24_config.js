@@ -1,1 +1,1 @@
-var mnemonic = "fever organ depart spy worth stomach history hamster tenant vicious more clever";
+var mnemonic = "become smooth fan bonus agent horror sudden knee enable army hole orchard";

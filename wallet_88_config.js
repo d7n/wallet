@@ -1,1 +1,1 @@
-var mnemonic = "furnace stay fiber image crime describe cram awful mushroom tail idle segment";
+var mnemonic = "myself mad throw suspect oxygen kiss subway same dinner mango can axis";

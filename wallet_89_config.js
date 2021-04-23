@@ -1,1 +1,1 @@
-var mnemonic = "invest surround elevator deny purse elder deliver tackle object disorder voyage immense";
+var mnemonic = "tube jar satoshi you word shy involve cash certain eternal pony coffee";

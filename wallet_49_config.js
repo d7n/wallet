@@ -1,1 +1,1 @@
-var mnemonic = "often lemon soda ten wheel scrub gun permit depend vacant frame time";
+var mnemonic = "fashion machine humble melody team scrap vague ivory magnet flat palm gown";

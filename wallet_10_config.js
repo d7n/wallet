@@ -1,1 +1,1 @@
-var mnemonic = "peasant evoke crash blossom judge learn wait wink math elder settle arrow";
+var mnemonic = "delay fashion stumble aunt dose melt attend spider unfold autumn hope twice";

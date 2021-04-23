@@ -1,1 +1,1 @@
-var mnemonic = "actual zone able merry mother now garage tower rocket drip borrow ladder";
+var mnemonic = "fade keep private regular cry select stem vendor tooth bullet service solar";

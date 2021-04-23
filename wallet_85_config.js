@@ -1,1 +1,1 @@
-var mnemonic = "deal call rebel park laptop abstract cotton find adult hollow poem museum";
+var mnemonic = "priority involve struggle grain group journey predict profit burden charge bird okay";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest artist work emerge must leopard bracket doll ten van vessel vacuum";
+var mnemonic = "syrup better again web man town exhaust common device odor stay matter";

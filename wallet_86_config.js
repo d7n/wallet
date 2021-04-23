@@ -1,1 +1,1 @@
-var mnemonic = "tenant mansion candy master walnut elbow slender clutch deliver shoulder quarter slice";
+var mnemonic = "immense butter antique siren shell maze number shoulder leaf make evidence divorce";

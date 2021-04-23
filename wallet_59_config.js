@@ -1,1 +1,1 @@
-var mnemonic = "shiver once cable eager grant amused result spread liquid satisfy during local";
+var mnemonic = "high punch labor doctor pact used tuition wash cradle tomorrow ill cool";

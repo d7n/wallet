@@ -1,1 +1,1 @@
-var mnemonic = "rice twelve improve fiber island exotic bargain claim staff vital jeans phone";
+var mnemonic = "volume oval stadium surface wisdom delay come inner rifle raw shaft portion";

@@ -1,1 +1,1 @@
-var mnemonic = "leader shed slam scout recycle vital leader rent noise keen same soda";
+var mnemonic = "bag rude fuel action small staff entire weather among rigid creek churn";

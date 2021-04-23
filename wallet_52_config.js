@@ -1,1 +1,1 @@
-var mnemonic = "lion strategy robot today wrestle hello planet quit attend rail symbol razor";
+var mnemonic = "midnight sister army high mimic apart two clock teach judge bone chronic";

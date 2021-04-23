@@ -1,1 +1,1 @@
-var mnemonic = "despair exclude pipe suspect grunt lawn output capable sugar bunker furnace yellow";
+var mnemonic = "body empower theme food zebra shock clever indoor work virus tonight throw";

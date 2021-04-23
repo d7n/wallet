@@ -1,1 +1,1 @@
-var mnemonic = "supreme gentle goose clap large horror poem vintage behind weasel exit agent";
+var mnemonic = "tumble hello guess paddle resemble broccoli margin snow place aspect sheriff saddle";

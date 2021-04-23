@@ -1,1 +1,1 @@
-var mnemonic = "control pill someone cat best update solve still harbor country near hard";
+var mnemonic = "barely wagon soup degree flame tilt crane add into region daring differ";

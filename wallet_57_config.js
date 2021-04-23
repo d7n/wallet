@@ -1,1 +1,1 @@
-var mnemonic = "foot clarify robot salt below better middle artwork february task actor control";
+var mnemonic = "water cancel frost universe child daughter any prosper breeze rebuild rude cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard ice normal wage cover lake output high limb demand inherit earth";
+var mnemonic = "random wrist smooth canyon poem hood brother venue quantum lock utility equal";

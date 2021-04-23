@@ -1,1 +1,1 @@
-var mnemonic = "muscle frost target offer behave joy stomach attitude connect catch wrong swing";
+var mnemonic = "achieve pen ancient move omit roast online like caution dizzy gift salmon";

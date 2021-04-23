@@ -1,1 +1,1 @@
-var mnemonic = "invite hawk tide engine narrow fancy arm sugar broom news water wide";
+var mnemonic = "swift wise blue snake clarify pioneer romance require repeat bright memory plastic";

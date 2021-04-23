@@ -1,1 +1,1 @@
-var mnemonic = "alcohol nephew fever away wine choose auto stick track tumble draw meadow";
+var mnemonic = "lady bunker chicken again split novel gift blanket receive kind grief earn";

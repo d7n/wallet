@@ -1,1 +1,1 @@
-var mnemonic = "manual hood muscle bleak nerve impulse modify double fortune bench debate example";
+var mnemonic = "employ torch mule silly nephew review patient capital street beach attract maximum";

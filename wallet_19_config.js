@@ -1,1 +1,1 @@
-var mnemonic = "trigger panther world track about finger garden defy bread neutral ketchup wagon";
+var mnemonic = "tired ceiling sponsor clock correct jacket woman hero subway defense because luggage";

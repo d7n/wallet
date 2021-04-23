@@ -1,1 +1,1 @@
-var mnemonic = "harvest tragic uniform sea room birth range gospel depth paper pilot win";
+var mnemonic = "nominee extra eager uncover acquire salon over balcony embody garage upper book";

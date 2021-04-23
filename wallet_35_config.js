@@ -1,1 +1,1 @@
-var mnemonic = "novel auto open gym mercy depend shaft guard simple giraffe industry coyote";
+var mnemonic = "club one decorate raccoon list foam layer alley observe harbor orange green";

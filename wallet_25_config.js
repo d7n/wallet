@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur flower first busy escape later tiny anchor chase deny shadow scout";
+var mnemonic = "reason carry initial small cool forward size sail stove tornado pitch frame";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt champion swamp voyage prosper cross fortune feed canyon current ecology butter";
+var mnemonic = "wing steel dumb voyage cabbage scrub pepper inquiry diesel subject post spike";

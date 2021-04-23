@@ -1,1 +1,1 @@
-var mnemonic = "fly pass soldier swarm egg random write music parrot electric speed become";
+var mnemonic = "merit claim uncle together scheme visit found increase depart brand pave turn";

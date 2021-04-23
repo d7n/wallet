@@ -1,1 +1,1 @@
-var mnemonic = "indoor invest cotton display invite unit ticket marble economy salad immense pony";
+var mnemonic = "motion menu broccoli knife length edit toe animal juice quantum someone pitch";

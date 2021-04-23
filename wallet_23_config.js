@@ -1,1 +1,1 @@
-var mnemonic = "riot renew list recycle clip cruise visa initial mobile drive mom safe";
+var mnemonic = "bag scare dune alpha fitness spoon leisure cry uniform wing popular friend";

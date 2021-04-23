@@ -1,1 +1,1 @@
-var mnemonic = "business venue donor love process reveal paddle device vicious baby imitate trend";
+var mnemonic = "donor crew mistake embark transfer tobacco capital frame vibrant connect hobby scene";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight duck reopen tide aisle moon lab visual sugar remain leader conduct";
+var mnemonic = "divorce skill either mirror banner pepper waste shaft gentle decide syrup issue";

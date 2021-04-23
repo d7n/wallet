@@ -1,1 +1,1 @@
-var mnemonic = "hand analyst boy craft problem cabbage garment violin crumble between intact comfort";
+var mnemonic = "often quit science absurd pet hurdle depart aim taste sponsor bread minor";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup price armed stay clinic era behind else borrow helmet gloom oak";
+var mnemonic = "kingdom setup corn crunch rent piece ring spoil trouble mobile clay swing";

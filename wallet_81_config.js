@@ -1,1 +1,1 @@
-var mnemonic = "young grant coach smooth stadium wrap guitar hunt correct boil display jump";
+var mnemonic = "sugar dolphin winter waste rate upset april garden sock film woman huge";

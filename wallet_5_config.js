@@ -1,1 +1,1 @@
-var mnemonic = "engine hat mass agree cricket essay area photo today essence system carpet";
+var mnemonic = "result need know same ensure east wisdom vessel step silent inch obscure";

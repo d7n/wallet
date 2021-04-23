@@ -1,1 +1,1 @@
-var mnemonic = "virtual exclude letter wife manage chief depend slow lunch fun timber rude";
+var mnemonic = "body element volcano attack rough order surface away nice style prevent insect";

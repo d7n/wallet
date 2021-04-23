@@ -1,1 +1,1 @@
-var mnemonic = "first fiscal ripple mistake essay light shiver ramp winner adult scheme decide";
+var mnemonic = "funny virtual lucky dial gift airport model energy demise holiday taxi decorate";

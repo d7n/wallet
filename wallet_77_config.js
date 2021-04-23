@@ -1,1 +1,1 @@
-var mnemonic = "avoid copy unable trigger avocado lake fiber witness gauge radio hurdle shop";
+var mnemonic = "federal edit daring parrot erase print blur nephew idle old mean oxygen";

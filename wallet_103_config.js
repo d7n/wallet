@@ -1,1 +1,1 @@
-var mnemonic = "tissue spin bring fine noise inmate push century fault merry inherit ignore";
+var mnemonic = "moral object secret cart utility picture apart sadness meat wine below come";

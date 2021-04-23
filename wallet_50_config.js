@@ -1,1 +1,1 @@
-var mnemonic = "crowd grass stamp despair butter fine region depend claim mouse camera intact";
+var mnemonic = "mean snow notable pond side yard estate illness creek marine comic kit";

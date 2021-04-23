@@ -1,1 +1,1 @@
-var mnemonic = "own render vendor upset cute ghost vague sheriff critic little legend point";
+var mnemonic = "young own dentist joke dry volume cover timber recycle gaze gadget dance";

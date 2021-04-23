@@ -1,1 +1,1 @@
-var mnemonic = "shrug usual memory tumble flower wet evidence expose lawsuit reject sort suspect";
+var mnemonic = "invite cloth slender panic praise fetch dress awesome sorry all narrow fetch";

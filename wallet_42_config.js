@@ -1,1 +1,1 @@
-var mnemonic = "sudden beauty wheat inside park know wide cereal fall ranch tape flame";
+var mnemonic = "film cry rug ladder enact minimum great country leisure later rhythm tornado";

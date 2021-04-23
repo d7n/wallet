@@ -1,1 +1,1 @@
-var mnemonic = "barrel trial sibling online term mass current trust win mule girl prison";
+var mnemonic = "lounge vintage scatter gas rally van fantasy impulse evil empty surprise nut";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet donor sail weasel barrel couple fluid forum wreck voice divide pilot";
+var mnemonic = "attend depth whisper attend final pilot average convince flavor left burger basket";

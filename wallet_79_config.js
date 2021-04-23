@@ -1,1 +1,1 @@
-var mnemonic = "reopen width tone world slush caution music rug useful know dinner pencil";
+var mnemonic = "congress drastic weapon correct high apple auto post hire trip eyebrow gravity";

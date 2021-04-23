@@ -1,1 +1,1 @@
-var mnemonic = "orient spare tool saddle snow depart unfair sun leave message job arena";
+var mnemonic = "magic ranch forest resemble oven describe rookie powder night small open measure";

@@ -1,1 +1,1 @@
-var mnemonic = "farm hold jewel noodle brief will similar pencil rabbit recipe mercy minimum";
+var mnemonic = "mother mixture toy ladder maid grant manage friend collect layer van lock";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey symbol glide enact buffalo olympic huge skin citizen nerve focus simple";
+var mnemonic = "fame casino clutch coconut legal service man claw garlic often ankle dove";

@@ -1,1 +1,1 @@
-var mnemonic = "general crawl foil about bird length wire final oxygen merry bracket resource";
+var mnemonic = "spell snap bind budget false cash outer prefer imitate ocean badge tone";

@@ -1,1 +1,1 @@
-var mnemonic = "stem hospital thought pattern energy cancel rare upon soft rescue educate spoil";
+var mnemonic = "solution coral fix jump home chimney law tower evil organ square adult";

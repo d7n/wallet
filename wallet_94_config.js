@@ -1,1 +1,1 @@
-var mnemonic = "runway carpet idea unaware repeat agent owner rug dust wire ugly carbon";
+var mnemonic = "gospel resist sick bind slide mimic smooth punch state famous round zone";

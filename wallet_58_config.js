@@ -1,1 +1,1 @@
-var mnemonic = "spike hammer win way innocent feed vanish cradle submit will crash orphan";
+var mnemonic = "plate danger feed huge subject lottery immune snake hour six gun almost";
