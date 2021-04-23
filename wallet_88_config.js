@@ -1,1 +1,1 @@
-var mnemonic = "adult impact cluster identify minute spare love firm eyebrow mask want wisdom";
+var mnemonic = "arrest embrace trust gaze hybrid exchange crumble range speak agree ready actress";

@@ -1,1 +1,1 @@
-var mnemonic = "remove bless marble rhythm armed brain favorite tornado obtain melody limb fabric";
+var mnemonic = "renew bar hybrid bottom excite busy weekend absent blame carpet file museum";

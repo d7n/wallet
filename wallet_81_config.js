@@ -1,1 +1,1 @@
-var mnemonic = "have rain biology viable mammal umbrella jar sand vacant story grape enlist";
+var mnemonic = "question pigeon jaguar size country column bubble grit dance dune trap keen";

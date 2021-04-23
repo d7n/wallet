@@ -1,1 +1,1 @@
-var mnemonic = "banana panic cable kid club catch tent twenty convince prize slam innocent";
+var mnemonic = "three else snow bubble nice spatial blossom rescue shuffle kiss half alley";

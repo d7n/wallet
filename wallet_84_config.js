@@ -1,1 +1,1 @@
-var mnemonic = "coin supply subway drip gesture under dream advance ordinary october neither pool";
+var mnemonic = "punch vicious salad summer wear fee prize rug sight host sleep parrot";

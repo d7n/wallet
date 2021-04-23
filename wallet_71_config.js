@@ -1,1 +1,1 @@
-var mnemonic = "square curious outer churn route monkey improve bid guard gather keep wine";
+var mnemonic = "section auto kiwi avocado person reveal install voyage galaxy dove rebel poverty";

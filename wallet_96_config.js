@@ -1,1 +1,1 @@
-var mnemonic = "air hungry hotel size fat despair spy civil entire pretty ghost century";
+var mnemonic = "conduct same try heavy width absorb hammer veteran off mutual little average";

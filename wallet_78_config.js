@@ -1,1 +1,1 @@
-var mnemonic = "burden obvious wheel debris sauce tobacco now gate cave awake sock scheme";
+var mnemonic = "biology step pulp claw connect engage clip plug two moment bachelor zoo";

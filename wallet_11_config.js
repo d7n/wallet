@@ -1,1 +1,1 @@
-var mnemonic = "render fold stomach nest barrel scrap syrup pill mask stadium actor crumble";
+var mnemonic = "caution swear dance diamond uphold potato lunch little gadget stick conduct battle";

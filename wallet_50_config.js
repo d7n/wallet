@@ -1,1 +1,1 @@
-var mnemonic = "scheme jewel weird water slam guard left reduce ski layer satisfy where";
+var mnemonic = "space captain liquid danger attitude sand nest dolphin later jacket gravity regular";

@@ -1,1 +1,1 @@
-var mnemonic = "pen cruise during boring antenna dawn only potato cover glimpse today result";
+var mnemonic = "cook salt scheme unique cost layer fault siege elder remain orbit short";

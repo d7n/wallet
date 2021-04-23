@@ -1,1 +1,1 @@
-var mnemonic = "two fun broken bridge surround cave turkey ability wonder type bubble grit";
+var mnemonic = "curious lizard hire brush trigger elegant pill fancy remember orphan merit face";

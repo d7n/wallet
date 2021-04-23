@@ -1,1 +1,1 @@
-var mnemonic = "swallow struggle shift catch uncover sustain machine sorry across warfare visit ribbon";
+var mnemonic = "robot grid door control nerve remain clip jelly member drip scene tiny";

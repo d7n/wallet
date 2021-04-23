@@ -1,1 +1,1 @@
-var mnemonic = "arrest mad write ahead enforce kangaroo gown anxiety embrace device neglect slim";
+var mnemonic = "melt message library act roast cousin yellow surface excuse top bone sport";

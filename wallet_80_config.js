@@ -1,1 +1,1 @@
-var mnemonic = "pitch hungry borrow warrior merge fabric shadow baby sorry cherry dial copy";
+var mnemonic = "vibrant mule isolate black just degree umbrella eternal main orient safe muffin";

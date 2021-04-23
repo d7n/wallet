@@ -1,1 +1,1 @@
-var mnemonic = "acquire vote stadium reunion wine approve episode picnic wire action crop print";
+var mnemonic = "eyebrow crazy enforce desert olive sing ticket faith clock burst snake scrap";

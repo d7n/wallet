@@ -1,1 +1,1 @@
-var mnemonic = "black castle sock bundle maximum scout right polar catch fatigue trumpet fade";
+var mnemonic = "leaf creek wild shed second episode diamond era off rate program truly";

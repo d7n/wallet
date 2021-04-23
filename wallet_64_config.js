@@ -1,1 +1,1 @@
-var mnemonic = "balance solid surprise leg refuse will member yard entry tunnel jar undo";
+var mnemonic = "explain axis girl inner hobby roof share dwarf fatigue liquid squirrel split";

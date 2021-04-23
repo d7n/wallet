@@ -1,1 +1,1 @@
-var mnemonic = "orange bomb federal accuse lazy yard bleak family task arrow inspire race";
+var mnemonic = "position interest beach dash blossom knife toast around crane naive acid pig";

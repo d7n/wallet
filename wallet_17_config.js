@@ -1,1 +1,1 @@
-var mnemonic = "extra desert neck acid hand mammal prize relax borrow vapor wisdom large";
+var mnemonic = "traffic rug mobile world decide file middle kangaroo disease ritual gain salon";

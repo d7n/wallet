@@ -1,1 +1,1 @@
-var mnemonic = "target gold soccer warrior clock pelican tone marine together unaware rug beef";
+var mnemonic = "bike inhale iron problem verb bless priority heavy endorse lemon hedgehog panther";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote first still festival smart actress balance crucial discover field pipe friend";
+var mnemonic = "nice aerobic soul music coil caution gather post term allow faint outer";

@@ -1,1 +1,1 @@
-var mnemonic = "price together blade citizen drip chunk entry obey maid mechanic bonus oblige";
+var mnemonic = "increase memory entire mechanic salute hand dice oak oyster case pact artefact";

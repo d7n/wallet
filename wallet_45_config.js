@@ -1,1 +1,1 @@
-var mnemonic = "mention dice speed nothing resemble fish worth tree civil gain seat tiny";
+var mnemonic = "bread lawn apart lucky stairs police knife raven glory mind area absurd";

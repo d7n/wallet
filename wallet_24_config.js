@@ -1,1 +1,1 @@
-var mnemonic = "silk forest walk arrive salt scale similar cluster olive grocery violin repeat";
+var mnemonic = "tank cereal peasant expire fuel swarm scout leader sponsor hole thrive hybrid";

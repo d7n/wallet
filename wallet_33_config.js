@@ -1,1 +1,1 @@
-var mnemonic = "tackle imitate vanish chat real lift display shop mix bench mirror morning";
+var mnemonic = "bright try phrase carpet smart fashion beef tomorrow quantum pig tree warm";

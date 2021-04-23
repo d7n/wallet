@@ -1,1 +1,1 @@
-var mnemonic = "expand sweet squeeze young leave shift dutch screen slush tribe attend throw";
+var mnemonic = "rely repeat machine own despair upon next tree myself doctor bronze wish";

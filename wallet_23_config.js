@@ -1,1 +1,1 @@
-var mnemonic = "become faculty tragic fitness soap detect lazy true merge believe eight ocean";
+var mnemonic = "fatal then veteran tunnel view harvest mule under pumpkin scare sauce circle";

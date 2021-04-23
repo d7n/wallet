@@ -1,1 +1,1 @@
-var mnemonic = "jacket spy tilt run twin guard legend various oblige eagle ribbon real";
+var mnemonic = "more bench token metal marine rural race distance dad upset field imitate";

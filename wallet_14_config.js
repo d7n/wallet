@@ -1,1 +1,1 @@
-var mnemonic = "super style south oppose rich nephew arrow unveil draw laptop gather choice";
+var mnemonic = "senior cream pave walnut educate gather twelve noise anchor crash spot brush";

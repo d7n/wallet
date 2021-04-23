@@ -1,1 +1,1 @@
-var mnemonic = "sleep ocean rebel orange cool father dwarf rather already mom sister bounce";
+var mnemonic = "high assume kind call alarm spawn win stumble camp era shift arrest";

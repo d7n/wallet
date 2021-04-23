@@ -1,1 +1,1 @@
-var mnemonic = "cherry amount post surround battle expand job accuse match view issue electric";
+var mnemonic = "oyster gloom idle defense veteran much lift affair staff vapor dwarf top";

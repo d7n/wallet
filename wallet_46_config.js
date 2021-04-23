@@ -1,1 +1,1 @@
-var mnemonic = "risk harvest captain release special lunar dial yard image vendor source outside";
+var mnemonic = "minor domain cereal govern news near pair domain tomato culture mandate review";

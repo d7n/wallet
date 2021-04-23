@@ -1,1 +1,1 @@
-var mnemonic = "season almost equip certain combine yellow essay pumpkin decline absent that calm";
+var mnemonic = "field dolphin nice olive moon close nerve tiny roast super essence trip";

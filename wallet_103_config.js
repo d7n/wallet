@@ -1,1 +1,1 @@
-var mnemonic = "ordinary garment job matter tonight height hire stool arrest crack all ski";
+var mnemonic = "april bread crouch avoid wrap cabin toy arena spare parent impact donor";

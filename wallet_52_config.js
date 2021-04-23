@@ -1,1 +1,1 @@
-var mnemonic = "enough magnet rifle evolve like harbor loan utility prepare pistol dynamic orange";
+var mnemonic = "dice tiny pact chunk brisk lunch spoil priority hotel sell jewel poet";

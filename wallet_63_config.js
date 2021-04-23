@@ -1,1 +1,1 @@
-var mnemonic = "obscure satisfy cement topic rubber just nurse acid accident salon mother oblige";
+var mnemonic = "toddler coffee educate view artist child raw inmate battle alpha hedgehog display";

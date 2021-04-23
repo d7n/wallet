@@ -1,1 +1,1 @@
-var mnemonic = "clog neck travel shoe kiss glad decrease deny medal limb feature shop";
+var mnemonic = "cross rose outdoor wisdom absorb huge useless dinosaur try spatial much shy";

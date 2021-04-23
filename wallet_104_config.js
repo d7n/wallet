@@ -1,1 +1,1 @@
-var mnemonic = "remove april hill unit mutual horror tomorrow mixed impact agent pyramid inflict";
+var mnemonic = "horror answer foot hub garden ozone dizzy viable wheel display genre december";

@@ -1,1 +1,1 @@
-var mnemonic = "core pigeon winter risk suggest pupil erode home know identify clap program";
+var mnemonic = "ball jewel guard pact sea shoe example empty unaware reduce nasty today";

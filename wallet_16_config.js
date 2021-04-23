@@ -1,1 +1,1 @@
-var mnemonic = "power enter hunt prison immense express ritual east vital color before pizza";
+var mnemonic = "prefer begin powder imitate drift early bridge reject south sadness maximum february";

@@ -1,1 +1,1 @@
-var mnemonic = "apart ask inherit know mango genuine peanut either resource pottery blur pool";
+var mnemonic = "original adjust denial moon enough breeze coin pet view cannon simple sail";

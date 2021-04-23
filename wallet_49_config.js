@@ -1,1 +1,1 @@
-var mnemonic = "drop poverty badge bind east search guilt filter element reopen action inspire";
+var mnemonic = "sad column flavor spoil holiday hip arrest need adult swing fault pride";

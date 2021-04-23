@@ -1,1 +1,1 @@
-var mnemonic = "gospel suspect have shift isolate rural decide human such used creek behave";
+var mnemonic = "honey electric junior faint pill mesh glide actual above thought virus sorry";

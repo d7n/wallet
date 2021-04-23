@@ -1,1 +1,1 @@
-var mnemonic = "lyrics grass blood survey medal rare tattoo slab sample tired seat tomorrow";
+var mnemonic = "learn object settle potato bitter pause turkey category half buddy income train";

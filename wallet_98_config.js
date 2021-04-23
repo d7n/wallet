@@ -1,1 +1,1 @@
-var mnemonic = "bless oak unique wink nice alpha virtual poverty clean inmate cute stock";
+var mnemonic = "humble team chapter road image pupil interest toss swing skill ten into";

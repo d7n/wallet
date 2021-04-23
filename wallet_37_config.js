@@ -1,1 +1,1 @@
-var mnemonic = "police true arrow aspect hybrid blouse champion october already pioneer person plastic";
+var mnemonic = "close gather hollow forward group people profit wasp gift video still lava";

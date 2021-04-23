@@ -1,1 +1,1 @@
-var mnemonic = "alarm unable beyond visual buzz dream glance false venture robust capital disagree";
+var mnemonic = "crystal audit fatal foil doll drive grain claim twice permit foster child";

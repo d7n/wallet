@@ -1,1 +1,1 @@
-var mnemonic = "journey lazy race joy clinic ski toddler hand skirt mad blossom drum";
+var mnemonic = "unable hidden sorry stomach three border thing problem protect episode paper party";

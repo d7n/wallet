@@ -1,1 +1,1 @@
-var mnemonic = "net repair wave spray project wear zero elegant can candy basket eternal";
+var mnemonic = "tunnel phrase party knife head main donor sting hazard squeeze bronze square";

@@ -1,1 +1,1 @@
-var mnemonic = "appear make casual swear hood hurry taste sort pig squirrel hill basic";
+var mnemonic = "dinosaur album pledge sock essay certain win enjoy plate over grace flat";

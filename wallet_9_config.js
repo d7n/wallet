@@ -1,1 +1,1 @@
-var mnemonic = "bullet license broccoli cushion used subway annual flight question scorpion master hazard";
+var mnemonic = "cat normal gas pave thunder crisp annual pistol flee citizen record layer";

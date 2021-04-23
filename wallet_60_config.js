@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tackle route like orange notice bridge shallow hold error rare timber";
+var mnemonic = "glide hand load labor industry bus holiday virus modify egg brand client";

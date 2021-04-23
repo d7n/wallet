@@ -1,1 +1,1 @@
-var mnemonic = "describe hover camp calm human balcony casual cute walnut timber dwarf hotel";
+var mnemonic = "story plate blind muffin blush sadness limit daring scheme fat tape enable";

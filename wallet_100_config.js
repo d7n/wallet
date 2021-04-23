@@ -1,1 +1,1 @@
-var mnemonic = "copper tooth awkward height car deer mandate topple squirrel pudding curve soap";
+var mnemonic = "citizen mutual obscure mercy arm reduce check few beauty bleak north mirror";

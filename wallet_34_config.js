@@ -1,1 +1,1 @@
-var mnemonic = "spoon deal canvas first fetch fresh arrange syrup begin hurdle merry junior";
+var mnemonic = "useless undo animal raven wife lesson age code flee hunt together illegal";

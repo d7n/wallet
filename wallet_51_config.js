@@ -1,1 +1,1 @@
-var mnemonic = "wild pipe pizza alpha harbor ladder cargo lobster pipe roof theme engage";
+var mnemonic = "black pass hen venue betray movie armor render drama hockey stay accident";

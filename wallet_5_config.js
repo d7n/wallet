@@ -1,1 +1,1 @@
-var mnemonic = "ignore luxury aunt slam fluid bracket honey despair practice drama cook piano";
+var mnemonic = "motor permit this tube collect cattle artefact keep pole only topic collect";

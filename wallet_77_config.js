@@ -1,1 +1,1 @@
-var mnemonic = "autumn miracle ride palm typical copy humor visual luxury thunder orbit despair";
+var mnemonic = "legend heavy capital industry reward trust era fix glory media park try";

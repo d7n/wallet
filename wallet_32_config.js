@@ -1,1 +1,1 @@
-var mnemonic = "upper yard patch ask jazz distance elegant chicken radar screen chuckle arctic";
+var mnemonic = "bread harbor prize icon solution fly empower unable elegant observe nation wall";

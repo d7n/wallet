@@ -1,1 +1,1 @@
-var mnemonic = "shoe maid laptop high announce govern address about gospel foil glance embark";
+var mnemonic = "large hobby defense silly will oyster casual chimney jar earth surge beach";

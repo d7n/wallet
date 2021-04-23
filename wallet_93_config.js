@@ -1,1 +1,1 @@
-var mnemonic = "garden depth diet hill sell mass jungle shock smooth muscle gloom choose";
+var mnemonic = "summer index student remove gun success industry advance interest repair price team";

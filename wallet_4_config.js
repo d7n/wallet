@@ -1,1 +1,1 @@
-var mnemonic = "ivory valve upper veteran connect chest cotton supreme expire reject soccer prize";
+var mnemonic = "erase infant glance ivory exhaust fog entry head letter mean cycle vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "behind pause truck powder whip around organ crack innocent lonely round diamond";
+var mnemonic = "town kick brush lumber decline feed whale eternal chair manage walk margin";

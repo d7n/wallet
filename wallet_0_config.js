@@ -1,1 +1,1 @@
-var mnemonic = "outside garbage reform solve gown velvet push thunder february chief dynamic rate";
+var mnemonic = "recall claw sad barely laptop payment garlic need burst movie vacant able";

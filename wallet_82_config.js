@@ -1,1 +1,1 @@
-var mnemonic = "cart insane remove void saddle assault ski jacket addict current actress upgrade";
+var mnemonic = "agent rocket coin dune rabbit remember muscle saddle near whip cover plastic";

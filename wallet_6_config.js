@@ -1,1 +1,1 @@
-var mnemonic = "discover bleak fringe earn meadow replace alter skill inmate defy stomach version";
+var mnemonic = "stool reduce save service color jealous pottery render tone camera roast term";

@@ -1,1 +1,1 @@
-var mnemonic = "knock wheat cry shrimp exhibit someone remember poverty grab shoulder load fire";
+var mnemonic = "power purpose march actor rate abandon maximum maple unhappy someone crazy soda";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous spray grunt essence movie page smoke tide divert phone comic lucky";
+var mnemonic = "globe measure spell power extra distance mad chapter rate hen crack rib";

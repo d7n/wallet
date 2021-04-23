@@ -1,1 +1,1 @@
-var mnemonic = "picnic sword civil grow frost page about hand sting deny organ shy";
+var mnemonic = "basket switch secret topic enact supreme sadness amazing climb absurd skate average";

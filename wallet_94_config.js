@@ -1,1 +1,1 @@
-var mnemonic = "bounce faith onion scorpion glove shield move alone hockey depart describe senior";
+var mnemonic = "debris hat cost little stove ostrich short way burst decide trouble people";

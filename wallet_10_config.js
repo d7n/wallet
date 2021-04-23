@@ -1,1 +1,1 @@
-var mnemonic = "crawl waste century wrap gate manage scrub mind knee reunion drift high";
+var mnemonic = "patient rule toy hollow tortoise own bone rubber garbage potato begin animal";

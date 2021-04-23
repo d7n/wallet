@@ -1,1 +1,1 @@
-var mnemonic = "attract eternal oblige mirror beef foil response host tenant problem traffic imitate";
+var mnemonic = "company liar nut tissue antenna grape pave wife describe artefact pave lyrics";

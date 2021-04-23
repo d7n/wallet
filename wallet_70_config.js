@@ -1,1 +1,1 @@
-var mnemonic = "series buyer cycle fetch blame sell jealous bulb grace loan deny pistol";
+var mnemonic = "excite eight cute forest fancy detail flee humble machine table combine donkey";

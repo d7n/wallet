@@ -1,1 +1,1 @@
-var mnemonic = "marble thumb damage sell item wagon spring grow pizza guilt shine health";
+var mnemonic = "monkey until canyon genre sense auto coin dial annual renew tenant theory";

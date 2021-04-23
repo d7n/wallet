@@ -1,1 +1,1 @@
-var mnemonic = "raven educate scout document dance common impulse zone cheese diary burger lazy";
+var mnemonic = "round figure slush myself lady enlist work crowd air consider fault clock";

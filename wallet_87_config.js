@@ -1,1 +1,1 @@
-var mnemonic = "song muscle recycle during under curtain canyon spend gaze junior imitate shoot";
+var mnemonic = "lamp hunt guide soul anxiety benefit found clinic burst rubber pear frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "duty coil month ripple success weasel morning bring design vacant render vast";
+var mnemonic = "twice remove collect person view cake saddle below common stove ski cruel";

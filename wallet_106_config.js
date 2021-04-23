@@ -1,1 +1,1 @@
-var mnemonic = "service obvious dose edit mandate city spy feature pen skate discover choose";
+var mnemonic = "question nephew yard mansion blind zoo castle swim pulp base orchard bid";

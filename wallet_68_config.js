@@ -1,1 +1,1 @@
-var mnemonic = "doll submit skill bus three purse around reveal display happy fever rigid";
+var mnemonic = "gloom topple neutral balance pretty useless bean inside inside practice pull entry";

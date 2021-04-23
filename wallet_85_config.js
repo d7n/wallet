@@ -1,1 +1,1 @@
-var mnemonic = "debate vacant sample result amateur lonely identify skirt now slam pyramid beauty";
+var mnemonic = "else shallow parent grow brief absorb jealous debris success rent success liquid";

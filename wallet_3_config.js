@@ -1,1 +1,1 @@
-var mnemonic = "raccoon proof purity hollow job lion giraffe toward sheriff nut few seven";
+var mnemonic = "world right behind indoor witness major inquiry method field senior major match";

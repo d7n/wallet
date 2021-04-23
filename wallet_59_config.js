@@ -1,1 +1,1 @@
-var mnemonic = "hair lunar snow like husband design matrix student skill riot faculty pottery";
+var mnemonic = "convince gun trumpet behave token such bamboo credit idle bridge admit rhythm";

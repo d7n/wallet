@@ -1,1 +1,1 @@
-var mnemonic = "fashion tube grape explain employ quarter forget chuckle person clerk dutch decorate";
+var mnemonic = "stem vocal trip chimney enact market piece day fortune charge bounce split";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran rose stem type dilemma special sunny repair rotate table buyer sing";
+var mnemonic = "spread hobby tennis diary veteran code forget recipe mother recipe liberty obscure";

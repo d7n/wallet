@@ -1,1 +1,1 @@
-var mnemonic = "convince maple check horse lonely home film auto daring aware loop retreat";
+var mnemonic = "vague update choice lock plastic smooth program rebel patrol service document jelly";

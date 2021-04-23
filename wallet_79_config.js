@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow boil run mind tray opera raccoon cushion shoot cheese evoke wise";
+var mnemonic = "vague moment exhibit access strike coffee fancy fly unfold visit rude sketch";

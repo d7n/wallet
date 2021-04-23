@@ -1,1 +1,1 @@
-var mnemonic = "safe album rely brown load absurd aunt silver second traffic kite sleep";
+var mnemonic = "demand online assume school food depth six orange grace thumb lift comic";

@@ -1,1 +1,1 @@
-var mnemonic = "ice merry vehicle cannon perfect moment into present venue goddess convince radio";
+var mnemonic = "maple collect height goat drum flash tag reject moment gaze ship weather";

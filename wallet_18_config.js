@@ -1,1 +1,1 @@
-var mnemonic = "kind consider divorce clerk matter strategy mix lawsuit sibling ginger miss wrap";
+var mnemonic = "limb ugly cloth people burst flee beyond acquire piano grief bulb spawn";

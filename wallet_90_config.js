@@ -1,1 +1,1 @@
-var mnemonic = "chest shuffle creek like car town happy goat dinosaur discover camp favorite";
+var mnemonic = "winter reflect finish level today shadow silent pulse inform vague soon crouch";

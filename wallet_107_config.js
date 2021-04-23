@@ -1,1 +1,1 @@
-var mnemonic = "sight rug latin army lamp all foam horn risk cream hand response";
+var mnemonic = "globe fat pepper half sorry furnace reward pair romance alpha short box";

@@ -1,1 +1,1 @@
-var mnemonic = "capable glow ribbon spider divorce vacuum tone veteran child smart rain impulse";
+var mnemonic = "used label ankle supply try notable moment timber city denial verb ginger";

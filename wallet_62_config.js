@@ -1,1 +1,1 @@
-var mnemonic = "grunt unaware bus message verb circle remove crash seek depart audit dutch";
+var mnemonic = "hospital maze deer three because sea draft weird fiscal patient author cushion";
