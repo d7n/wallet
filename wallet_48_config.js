@@ -1,1 +1,1 @@
-var mnemonic = "lake salt shadow stereo update sugar manage bracket disease gospel crater group";
+var mnemonic = "cement quiz sorry garden bridge own pool zebra candy evolve love innocent";

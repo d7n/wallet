@@ -1,1 +1,1 @@
-var mnemonic = "jeans jewel alter exact trouble cycle rally tennis woman frog toast seed";
+var mnemonic = "attack drop frame drip taste tourist quality little cotton present modify photo";

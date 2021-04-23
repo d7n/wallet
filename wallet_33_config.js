@@ -1,1 +1,1 @@
-var mnemonic = "festival clarify celery cart planet divert thought punch swim party glide interest";
+var mnemonic = "loop settle talk slush poet identify air moral solid unveil decade citizen";

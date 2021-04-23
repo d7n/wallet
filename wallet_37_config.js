@@ -1,1 +1,1 @@
-var mnemonic = "victory vehicle doll will race bridge miracle payment fortune since salon blossom";
+var mnemonic = "hen motion category energy submit practice answer ketchup child dog video camp";

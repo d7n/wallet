@@ -1,1 +1,1 @@
-var mnemonic = "hood surround eyebrow short remind letter neutral stereo hero method smart push";
+var mnemonic = "rigid trip merge system cannon arm sock squeeze toward remind brave image";

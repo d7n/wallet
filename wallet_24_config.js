@@ -1,1 +1,1 @@
-var mnemonic = "promote suffer blame antique post gorilla autumn fee pony number weasel write";
+var mnemonic = "mountain position skate injury cigar celery waste right pudding more spoon churn";

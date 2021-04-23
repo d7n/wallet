@@ -1,1 +1,1 @@
-var mnemonic = "until alarm wear obey little gloom poet leopard wool long demise that";
+var mnemonic = "jacket panel afford offer guide noise prevent rival ramp reform device glimpse";

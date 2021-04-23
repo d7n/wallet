@@ -1,1 +1,1 @@
-var mnemonic = "insane knock chuckle pulp impose region inside pill push legal agent soda";
+var mnemonic = "actress field hover negative afford talent conduct quit tornado credit balcony remember";

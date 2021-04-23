@@ -1,1 +1,1 @@
-var mnemonic = "mystery coyote drama fat access tragic cycle unit laundry sword artist squeeze";
+var mnemonic = "park sell barely client argue nurse unique virtual kitchen castle play salon";

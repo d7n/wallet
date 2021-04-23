@@ -1,1 +1,1 @@
-var mnemonic = "asset speak entire tomorrow sort decide dial light truck erupt slogan fault";
+var mnemonic = "comic try manage ribbon usual level token vault lend mule robust tank";

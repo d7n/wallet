@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon match bicycle false senior bridge future series arrive bulb multiply satoshi";
+var mnemonic = "goat grunt practice heart lawn pudding finish orbit program fan tenant cancel";

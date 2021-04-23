@@ -1,1 +1,1 @@
-var mnemonic = "city usage cart result police quality once invite lamp remain poverty hub";
+var mnemonic = "again sibling wine dilemma satoshi century mixture milk prison swamp still degree";

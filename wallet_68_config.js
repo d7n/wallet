@@ -1,1 +1,1 @@
-var mnemonic = "second eye fatal review february divide aisle cloud symptom isolate release ability";
+var mnemonic = "rural negative nose peanut select game nephew deputy steak leaf add reward";

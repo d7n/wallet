@@ -1,1 +1,1 @@
-var mnemonic = "insect jazz betray coral myself recycle upper achieve typical merge margin report";
+var mnemonic = "witness broom funny badge sock nature absurd much camp pull segment absorb";

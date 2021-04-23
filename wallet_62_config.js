@@ -1,1 +1,1 @@
-var mnemonic = "nothing dynamic happy occur auction defense clap shrug barrel sauce stone later";
+var mnemonic = "chronic slogan remind income film panel merit someone purse helmet muffin domain";

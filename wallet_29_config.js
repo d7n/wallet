@@ -1,1 +1,1 @@
-var mnemonic = "bread toast device shop camera today lemon act meat thought update seminar";
+var mnemonic = "current rule december refuse album step connect cover scrub degree flame nurse";

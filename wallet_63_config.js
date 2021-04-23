@@ -1,1 +1,1 @@
-var mnemonic = "paper scatter action life keep auction aisle dune differ sort outside desert";
+var mnemonic = "play region good toe stem soda egg alone boring weather script sand";

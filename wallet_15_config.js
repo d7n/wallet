@@ -1,1 +1,1 @@
-var mnemonic = "deliver general devote trash view help fluid replace garlic idea another anger";
+var mnemonic = "sphere lecture debate symptom area juice argue fancy little useless route casual";

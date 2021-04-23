@@ -1,1 +1,1 @@
-var mnemonic = "boss reason expand relief need gun hood execute daring cliff swing payment";
+var mnemonic = "lunch sound trend hunt tip enjoy file sunset comfort invest deliver snap";

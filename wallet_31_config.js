@@ -1,1 +1,1 @@
-var mnemonic = "assist frown mansion option torch cupboard guitar know short globe mesh rifle";
+var mnemonic = "anxiety museum resist casual neglect unusual glimpse lift body surprise trophy cabbage";

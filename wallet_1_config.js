@@ -1,1 +1,1 @@
-var mnemonic = "waste forget guilt farm venue before mix limit pigeon neglect test more";
+var mnemonic = "purpose nuclear leader kingdom pact divorce soup category hero allow tissue surprise";

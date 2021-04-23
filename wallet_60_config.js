@@ -1,1 +1,1 @@
-var mnemonic = "wasp pink timber dad certain twist cart concert among crush neither normal";
+var mnemonic = "omit weapon wonder ski employ pepper boat adjust focus kiwi leaf book";

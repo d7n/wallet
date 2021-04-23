@@ -1,1 +1,1 @@
-var mnemonic = "depth arrive item hospital link fortune defense sentence notable throw program iron";
+var mnemonic = "occur edit spot glad desk tail this open veteran example issue boost";

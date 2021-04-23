@@ -1,1 +1,1 @@
-var mnemonic = "annual since code fault move orchard task zebra total belt enable original";
+var mnemonic = "fruit level pattern beauty miracle jump tuna tissue swallow morning ignore lion";

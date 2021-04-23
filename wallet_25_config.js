@@ -1,1 +1,1 @@
-var mnemonic = "ocean kick multiply require crouch mechanic siege poem grocery panther decline piece";
+var mnemonic = "normal air hen camp glare silent hope fetch mixed normal tone spatial";

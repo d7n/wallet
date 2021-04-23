@@ -1,1 +1,1 @@
-var mnemonic = "stone able episode soccer deposit arena resource script food stadium clump section";
+var mnemonic = "peace fiction magnet roast luggage grocery bean dinosaur visual ride tiny ice";

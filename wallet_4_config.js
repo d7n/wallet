@@ -1,1 +1,1 @@
-var mnemonic = "early rocket employ scare junk embrace glare famous option produce frozen card";
+var mnemonic = "gadget ostrich tragic sustain attitude simple wisdom rotate push skin rice control";

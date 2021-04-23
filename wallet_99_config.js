@@ -1,1 +1,1 @@
-var mnemonic = "vapor teach mind card sand occur early deer voyage come task weapon";
+var mnemonic = "immune soldier upset rose method prepare embody quote occur buzz hurt urban";

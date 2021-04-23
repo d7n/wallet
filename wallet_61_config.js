@@ -1,1 +1,1 @@
-var mnemonic = "recall violin general village trust ask pizza memory still level tornado excite";
+var mnemonic = "amused mom armed horse like stove path express exhibit tube lens note";

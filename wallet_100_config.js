@@ -1,1 +1,1 @@
-var mnemonic = "swarm industry neck strong frame corn what noble invite rookie alone dumb";
+var mnemonic = "damp quarter coach diet heavy more approve era any physical thumb market";

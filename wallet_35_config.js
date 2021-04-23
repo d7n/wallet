@@ -1,1 +1,1 @@
-var mnemonic = "build capable client enhance delay slab armor lonely frame error urge trigger";
+var mnemonic = "beach soup common visit insane couple demand limb panic fold fresh enemy";

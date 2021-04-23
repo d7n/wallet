@@ -1,1 +1,1 @@
-var mnemonic = "idea warrior fantasy gain feel plastic aim isolate leaf faculty between hammer";
+var mnemonic = "best oyster approve weasel fee soup surprise luggage apple supreme fame name";

@@ -1,1 +1,1 @@
-var mnemonic = "flush ketchup analyst elbow castle chat census company surface drama ticket elevator";
+var mnemonic = "offer phrase wagon canoe blouse load bone door knock chest west appear";

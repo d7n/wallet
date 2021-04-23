@@ -1,1 +1,1 @@
-var mnemonic = "position engage cement lawn junk potato tank welcome above illegal mimic flight";
+var mnemonic = "able mad solution churn awesome shaft shed stay tobacco advice venture mother";

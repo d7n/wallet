@@ -1,1 +1,1 @@
-var mnemonic = "vacuum involve margin depart anchor grab nuclear math grape wedding industry bike";
+var mnemonic = "express purpose type asset spy long stomach swear fashion city swallow embrace";

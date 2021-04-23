@@ -1,1 +1,1 @@
-var mnemonic = "concert kitten banner car inner afraid beyond pilot salt company action rent";
+var mnemonic = "together pumpkin cool category same bus sword usage shuffle system save art";

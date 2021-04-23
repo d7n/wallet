@@ -1,1 +1,1 @@
-var mnemonic = "rain surge cherry smile crowd build civil level pact slab entire title";
+var mnemonic = "weekend grow slow six present frog race club cloud zero oak burst";

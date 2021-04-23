@@ -1,1 +1,1 @@
-var mnemonic = "edit glimpse violin leisure wealth mutual neck cereal together heart orbit pill";
+var mnemonic = "world coffee enough salt bundle shield initial asthma confirm tilt prefer shell";

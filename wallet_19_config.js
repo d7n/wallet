@@ -1,1 +1,1 @@
-var mnemonic = "medal behave fruit burden antique bid prosper assault armed aunt chaos alcohol";
+var mnemonic = "walnut fix situate panda wet profit remain accident tide agree agent confirm";

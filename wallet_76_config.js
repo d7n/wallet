@@ -1,1 +1,1 @@
-var mnemonic = "corn squirrel shallow animal furnace rely copy any tower captain program stone";
+var mnemonic = "lawsuit treat panda balance air oven pass race key ankle arrive tower";

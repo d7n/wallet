@@ -1,1 +1,1 @@
-var mnemonic = "boring leisure long ordinary address goat direct result loop scene unveil like";
+var mnemonic = "cement crunch devote resource kidney lawsuit size replace primary swing certain purity";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage chair bid document various bulb dilemma grit arena seven only stand";
+var mnemonic = "celery pole agree topic soul layer deer reveal olympic dragon impose supply";

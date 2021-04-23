@@ -1,1 +1,1 @@
-var mnemonic = "state solar venue ginger safe chef spatial sort embody soul fault speed";
+var mnemonic = "gospel ancient call twenty eight truck congress jar matter acoustic blast horse";

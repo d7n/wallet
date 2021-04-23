@@ -1,1 +1,1 @@
-var mnemonic = "equip dove grass source put maximum excite grain hire tourist twist great";
+var mnemonic = "control program awful oblige execute tobacco rice menu actor remember pool shell";

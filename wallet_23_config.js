@@ -1,1 +1,1 @@
-var mnemonic = "asset season close luxury bundle shrug agent fork ten elite will enforce";
+var mnemonic = "system vicious apology rapid buffalo subject allow promote affair pride start wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse cupboard result common erase discover fork avocado october stove grape broom";
+var mnemonic = "cross sound erupt sense drama swarm kit simple zoo vicious forum dizzy";

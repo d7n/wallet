@@ -1,1 +1,1 @@
-var mnemonic = "keep spare august abstract clown scene hip prosper staff tunnel smart lottery";
+var mnemonic = "ankle sheriff build pear host feel royal project season lecture august oil";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito arena response interest embark essay beyond exotic noise picture zoo artwork";
+var mnemonic = "trumpet ancient float child fan honey run during kind lady resemble month";

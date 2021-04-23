@@ -1,1 +1,1 @@
-var mnemonic = "monitor flight box mad rude ten gift orchard ribbon joy cabin organ";
+var mnemonic = "become fiction near cable enter decorate boring attitude blouse awesome wood forward";

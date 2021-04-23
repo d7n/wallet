@@ -1,1 +1,1 @@
-var mnemonic = "two thumb wool mistake artwork gravity verify wrap walk junk tenant velvet";
+var mnemonic = "polar advice bamboo jar disorder spawn story innocent orbit swear leg live";

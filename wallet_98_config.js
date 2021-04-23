@@ -1,1 +1,1 @@
-var mnemonic = "crystal dry census during napkin jump immense dragon hunt among engage index";
+var mnemonic = "sniff security friend memory spin boy hurdle siren engine among skull immense";

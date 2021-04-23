@@ -1,1 +1,1 @@
-var mnemonic = "reunion person toast clutch vehicle dash impact survey plug cancel pave liar";
+var mnemonic = "marriage rapid fatigue family follow rotate online flower engage horse cactus dune";

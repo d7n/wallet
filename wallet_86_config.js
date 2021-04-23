@@ -1,1 +1,1 @@
-var mnemonic = "grant future goddess judge love error cactus quit cabbage file tell goat";
+var mnemonic = "convince discover lesson predict online deputy legend glue enter salute fatal plug";

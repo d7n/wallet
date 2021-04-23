@@ -1,1 +1,1 @@
-var mnemonic = "exhibit wash laugh bridge talk village milk person shuffle keep hybrid blanket";
+var mnemonic = "helmet faint romance east employ sentence dragon situate morning model title fold";

@@ -1,1 +1,1 @@
-var mnemonic = "error crew assist message waste chapter warm path honey combine above umbrella";
+var mnemonic = "curve stereo holiday produce stem extend coil tragic episode around section calm";

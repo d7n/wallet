@@ -1,1 +1,1 @@
-var mnemonic = "filter rug solar sight search real shine rural general innocent nice include";
+var mnemonic = "gym treat chaos again enough debate enact sad access exist candy guess";

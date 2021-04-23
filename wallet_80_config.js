@@ -1,1 +1,1 @@
-var mnemonic = "shy dynamic response adult uphold gas jump cable glad lumber oval evolve";
+var mnemonic = "erode twice trumpet web brand emerge craft claw south stuff claim turtle";

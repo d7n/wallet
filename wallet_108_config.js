@@ -1,1 +1,1 @@
-var mnemonic = "plug shell limb radar frequent glimpse any stage rebel angry hint lemon";
+var mnemonic = "gospel decide receive zoo next total odor machine used gauge bomb neither";

@@ -1,1 +1,1 @@
-var mnemonic = "finish burden enforce wave cat mountain heavy depend picture lesson imitate add";
+var mnemonic = "beyond better slogan orphan canoe kind approve toss purity music behind forward";

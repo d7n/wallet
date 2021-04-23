@@ -1,1 +1,1 @@
-var mnemonic = "razor must fuel involve bottom buyer faith obtain bacon delay foster area";
+var mnemonic = "fine length drop mention snake review gain rain machine survey start oak";

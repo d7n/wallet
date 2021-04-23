@@ -1,1 +1,1 @@
-var mnemonic = "depend laugh fit coast hard bitter setup rubber shallow critic picnic convince";
+var mnemonic = "skull seven stick lion outside twelve embark better spring bean ordinary anxiety";

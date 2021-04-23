@@ -1,1 +1,1 @@
-var mnemonic = "exotic office begin transfer unaware eager fetch inquiry lobster kit comfort hat";
+var mnemonic = "unaware hurdle situate silly potato during all concert funny furnace erode pizza";

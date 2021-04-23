@@ -1,1 +1,1 @@
-var mnemonic = "visa humor dismiss direct uniform cotton autumn library moon over cloth wave";
+var mnemonic = "initial country six pulp betray deputy round diamond monster hill best ankle";

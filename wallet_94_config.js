@@ -1,1 +1,1 @@
-var mnemonic = "enough thrive raise roast shoulder obvious excess nose earn remain extend vacuum";
+var mnemonic = "spend very soon famous can run problem note know inner remember clean";

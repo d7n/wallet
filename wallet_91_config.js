@@ -1,1 +1,1 @@
-var mnemonic = "noise general artefact actress blame aerobic crane survey hunt live foot luggage";
+var mnemonic = "erode agree monkey wrist cousin fold galaxy original decline want afraid fuel";

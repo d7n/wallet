@@ -1,1 +1,1 @@
-var mnemonic = "crisp wish palm nephew tank hobby essence donkey banner razor arrive luggage";
+var mnemonic = "quick plate love voice boost dumb above hire fame moral flee math";

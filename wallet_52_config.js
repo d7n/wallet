@@ -1,1 +1,1 @@
-var mnemonic = "lemon project proof cotton extra shift absorb supreme protect insect hundred juice";
+var mnemonic = "egg gate save recycle water unaware ostrich group curious boil mandate civil";

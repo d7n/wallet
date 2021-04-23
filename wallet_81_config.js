@@ -1,1 +1,1 @@
-var mnemonic = "post narrow custom review aspect fox neck smoke meadow parade quality fog";
+var mnemonic = "inject chunk blossom eyebrow burger accuse garment member shield album call play";

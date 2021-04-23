@@ -1,1 +1,1 @@
-var mnemonic = "rebuild certain legend early concert river damp output exotic curtain topple super";
+var mnemonic = "ankle wish staff next between kick shift surge razor tornado solar husband";

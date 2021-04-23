@@ -1,1 +1,1 @@
-var mnemonic = "critic among steel globe afford divorce between decide city desk exist control";
+var mnemonic = "civil winner buzz village rocket pass science celery angry provide swallow yard";

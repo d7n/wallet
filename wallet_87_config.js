@@ -1,1 +1,1 @@
-var mnemonic = "salmon lunar tourist hockey certain horn thing smart master album bronze bicycle";
+var mnemonic = "enroll nurse outside vacant basket hold bachelor initial scale combine able menu";

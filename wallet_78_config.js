@@ -1,1 +1,1 @@
-var mnemonic = "evidence orchard unique dwarf remind sudden bronze space level primary marine rabbit";
+var mnemonic = "crane hope illegal ginger diamond oblige copper photo impact merit kit ghost";

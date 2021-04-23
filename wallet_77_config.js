@@ -1,1 +1,1 @@
-var mnemonic = "thought strategy sword trust mind rival stairs adjust box attend cube ice";
+var mnemonic = "couch minimum early belt merry tobacco alcohol lion major gossip pupil describe";

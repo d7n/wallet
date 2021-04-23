@@ -1,1 +1,1 @@
-var mnemonic = "traffic eagle give jewel media humble volume open uncover length pluck tattoo";
+var mnemonic = "slight idle coin crystal cement kick wage dragon method stick lunar cinnamon";

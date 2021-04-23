@@ -1,1 +1,1 @@
-var mnemonic = "elder lecture dawn place lazy future belt trumpet man replace own train";
+var mnemonic = "clutch airport midnight furnace advice together pumpkin great immune faith member scrub";

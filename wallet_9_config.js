@@ -1,1 +1,1 @@
-var mnemonic = "grief during that crazy hidden bunker execute possible cake radar two floor";
+var mnemonic = "quantum cruise stereo run unveil custom crouch hand manual canal nasty swamp";

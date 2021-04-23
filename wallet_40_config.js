@@ -1,1 +1,1 @@
-var mnemonic = "chaos web junior hammer neglect river nasty basket village ensure yard refuse";
+var mnemonic = "coconut idle chimney describe aware kitchen imitate such dose credit purchase floor";

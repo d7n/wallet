@@ -1,1 +1,1 @@
-var mnemonic = "adjust right eight must barrel indicate novel vendor safe siege install twice";
+var mnemonic = "park future celery history remain vocal involve item elevator mansion pitch picture";

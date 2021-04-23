@@ -1,1 +1,1 @@
-var mnemonic = "wise tray crash auction flight connect barrel second analyst citizen sketch clinic";
+var mnemonic = "assume harsh upgrade crunch width point bless arctic web atom coyote brass";

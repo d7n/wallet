@@ -1,1 +1,1 @@
-var mnemonic = "false grunt danger live rifle cake vocal measure reward cool leg height";
+var mnemonic = "return surround nature detect side cube enroll sand shoe stove meat process";

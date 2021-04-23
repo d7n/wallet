@@ -1,1 +1,1 @@
-var mnemonic = "cloth pride security reveal close pigeon upgrade illness hood base language law";
+var mnemonic = "service describe punch member recall enter remind february energy tent certain tomato";

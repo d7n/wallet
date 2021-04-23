@@ -1,1 +1,1 @@
-var mnemonic = "wrong enlist around flash deer muscle buddy dune they document call inch";
+var mnemonic = "hire hobby shoe demand friend pilot owner sure emotion soon tackle camera";

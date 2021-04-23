@@ -1,1 +1,1 @@
-var mnemonic = "lend pull flavor pumpkin canoe mom fragile cliff spin leader park machine";
+var mnemonic = "salt latin spare equal cat zoo upgrade frequent remind canyon input gold";

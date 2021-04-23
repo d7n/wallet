@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cable tiny daring raw orphan smooth noodle major love boy bomb";
+var mnemonic = "solve hamster shallow wrist thunder order lonely become grief receive meat end";

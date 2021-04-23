@@ -1,1 +1,1 @@
-var mnemonic = "bottom mouse danger comic heavy pair flight unable cigar old excite report";
+var mnemonic = "oxygen unlock define cherry gorilla chef identify admit purity under charge zone";

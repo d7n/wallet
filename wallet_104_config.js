@@ -1,1 +1,1 @@
-var mnemonic = "hybrid mom slow glass catalog tray lecture trigger risk world theme advance";
+var mnemonic = "diagram resemble picnic wink rival cup else effort refuse term merry three";

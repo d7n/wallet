@@ -1,1 +1,1 @@
-var mnemonic = "crime october luggage crush tenant power vote copy rally next vivid two";
+var mnemonic = "nut depart amused catalog music nothing act satoshi soda method disorder corn";

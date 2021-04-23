@@ -1,1 +1,1 @@
-var mnemonic = "party satisfy clap review comic remember enemy cable assault result wolf brisk";
+var mnemonic = "cheese response myself siren quick steak merge sell midnight medal garden foot";

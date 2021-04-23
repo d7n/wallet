@@ -1,1 +1,1 @@
-var mnemonic = "oven slab pottery because enter search action slush giant tree flock equip";
+var mnemonic = "option acoustic coast galaxy volume hybrid wheel rhythm debris device kid patrol";
