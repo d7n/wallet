@@ -1,1 +1,1 @@
-var mnemonic = "leg meadow panda flock fiscal candy stairs rose laugh word pluck atom";
+var mnemonic = "prevent next bulk view nasty coast season select refuse prosper diagram ketchup";

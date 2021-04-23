@@ -1,1 +1,1 @@
-var mnemonic = "guess luggage uphold skull life silly escape knife soda solid breeze citizen";
+var mnemonic = "wood shoulder jungle into song meadow burger elbow want income horror final";

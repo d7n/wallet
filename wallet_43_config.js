@@ -1,1 +1,1 @@
-var mnemonic = "across bleak sunny inquiry pledge also true goddess inflict beach gift toddler";
+var mnemonic = "scorpion secret total busy nature below hockey torch token clean control deal";

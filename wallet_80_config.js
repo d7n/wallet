@@ -1,1 +1,1 @@
-var mnemonic = "wild error diet soda history pair fly machine sponsor current illegal blame";
+var mnemonic = "pull purity toilet armor clay lake flash eager brief excess bring deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb cage jump cause deny jelly perfect virtual sadness extend wall curve";
+var mnemonic = "afford chief reward cross figure sample glass office doll release amount better";

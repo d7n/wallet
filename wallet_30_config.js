@@ -1,1 +1,1 @@
-var mnemonic = "minor convince erase book reject draft total shiver music merry elephant whip";
+var mnemonic = "avoid aerobic noodle taxi skill crush finger taste cradle cactus duty wild";

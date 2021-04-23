@@ -1,1 +1,1 @@
-var mnemonic = "nothing spirit advance brave sail obtain bottom math nephew sadness celery gesture";
+var mnemonic = "nation visual ice february solid grain salad exist same aunt speak frost";

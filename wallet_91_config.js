@@ -1,1 +1,1 @@
-var mnemonic = "lake decade voice ball melt blame chief empty defense prize improve apple";
+var mnemonic = "glance december attract chuckle place slender paddle ill betray decorate shy prison";

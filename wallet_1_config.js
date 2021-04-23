@@ -1,1 +1,1 @@
-var mnemonic = "milk dentist unusual grass cradle emotion bird require gauge squirrel color mango";
+var mnemonic = "obtain chest liar wreck rate flame until strong convince impulse alley quantum";

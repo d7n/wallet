@@ -1,1 +1,1 @@
-var mnemonic = "control right believe bacon casino hurt leg year apology cake real enforce";
+var mnemonic = "possible toe enroll mountain gun knife room marriage travel apple opinion harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "drill cargo crawl soon office industry marine elephant husband scare can curve";
+var mnemonic = "burst between nest boy cherry virus guitar visa people gain spirit math";

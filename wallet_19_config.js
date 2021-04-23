@@ -1,1 +1,1 @@
-var mnemonic = "worry aim popular novel detect trouble potato garage fossil clap organ horn";
+var mnemonic = "busy umbrella pistol social runway myth pitch nephew depart entire amount erosion";

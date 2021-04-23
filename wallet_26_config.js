@@ -1,1 +1,1 @@
-var mnemonic = "elbow deer sweet tattoo unveil body you denial you rough render asthma";
+var mnemonic = "immune little bus frame state near pen fruit decide culture enjoy disagree";

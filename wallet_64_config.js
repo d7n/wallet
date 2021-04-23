@@ -1,1 +1,1 @@
-var mnemonic = "lazy this alert media guide tumble mango noble company genius west family";
+var mnemonic = "awesome reopen before update globe guess embrace man debate youth live tuna";

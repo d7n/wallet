@@ -1,1 +1,1 @@
-var mnemonic = "husband asset orchard club rack kit pioneer where join improve size bullet";
+var mnemonic = "word monkey vintage slim index arctic hair enact donate awful country place";

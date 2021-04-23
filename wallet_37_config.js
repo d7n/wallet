@@ -1,1 +1,1 @@
-var mnemonic = "spider gravity water joke wire regular sound people place escape rural casual";
+var mnemonic = "glove marriage vendor note raven chest october wreck exist detail shaft old";

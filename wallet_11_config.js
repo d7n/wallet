@@ -1,1 +1,1 @@
-var mnemonic = "shift theory admit rich right evil picture fancy chaos build need math";
+var mnemonic = "shock adult breeze wife head valley scatter grab edge where used wagon";

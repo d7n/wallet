@@ -1,1 +1,1 @@
-var mnemonic = "venture indicate spider because math noise snap polar hungry label pulp chef";
+var mnemonic = "unlock fiscal digital hole truth tree reduce follow few copy demand wage";

@@ -1,1 +1,1 @@
-var mnemonic = "lift shed access prefer swap husband spice today mad marine rice dove";
+var mnemonic = "purse viable radio burger decorate duck improve boost man music diary suspect";

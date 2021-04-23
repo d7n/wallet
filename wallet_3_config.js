@@ -1,1 +1,1 @@
-var mnemonic = "waste foam debate game output marble library industry garbage obscure genuine cram";
+var mnemonic = "payment envelope resource party stadium public slam impact reveal giraffe number place";

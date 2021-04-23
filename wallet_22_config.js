@@ -1,1 +1,1 @@
-var mnemonic = "govern gaze attack secret task eyebrow project mystery wedding violin judge hedgehog";
+var mnemonic = "ticket exact stable auction sunny example unique physical economy object glow satoshi";

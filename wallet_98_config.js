@@ -1,1 +1,1 @@
-var mnemonic = "bread unable interest culture chronic speed spin bike feel sentence pudding trial";
+var mnemonic = "hotel super birth aim again model legal wear diary dish also pilot";

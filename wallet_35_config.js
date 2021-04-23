@@ -1,1 +1,1 @@
-var mnemonic = "mix only garage morning auction feel dentist payment giraffe fragile cruise argue";
+var mnemonic = "furnace aisle unusual certain ketchup earth firm sort myth coral elbow faith";

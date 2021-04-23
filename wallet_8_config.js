@@ -1,1 +1,1 @@
-var mnemonic = "filter color tobacco sheriff pulp pact age pioneer tired ensure armed pear";
+var mnemonic = "very faint insane close disagree attitude champion used degree faculty drum dad";

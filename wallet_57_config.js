@@ -1,1 +1,1 @@
-var mnemonic = "term clip tiny famous despair physical maze gasp toe huge upset thank";
+var mnemonic = "please flash clay nominee soul deposit relax believe stone vast lab immense";

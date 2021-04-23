@@ -1,1 +1,1 @@
-var mnemonic = "panel super acid shift travel thunder elite shoe coconut spin cash close";
+var mnemonic = "regret visit winter luggage risk inch crater left scene talent spike donor";

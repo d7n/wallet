@@ -1,1 +1,1 @@
-var mnemonic = "scrap cram future differ cloud core curious dream hat fox march question";
+var mnemonic = "wrong select exist access three lawn vote solar settle beach burst vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "crop long crisp boss cattle rib wet snake recall disorder thank flag";
+var mnemonic = "drama gospel allow ramp able skin ladder true observe picnic cover door";

@@ -1,1 +1,1 @@
-var mnemonic = "surge sunset chicken useless identify slab opera wedding idle amused brush robust";
+var mnemonic = "effort settle average require duck trade bicycle become rescue behind auction year";

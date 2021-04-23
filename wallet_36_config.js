@@ -1,1 +1,1 @@
-var mnemonic = "hundred sudden mesh argue live half tired north jump sock walk upset";
+var mnemonic = "enrich lake ceiling alert flower cycle discover poverty mechanic dial awake doll";

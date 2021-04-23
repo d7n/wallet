@@ -1,1 +1,1 @@
-var mnemonic = "nasty journey job dragon soccer cluster six absurd avocado digital label social";
+var mnemonic = "venue seed please left nurse filter ramp spot camp cheese ugly title";

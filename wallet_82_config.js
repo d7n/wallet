@@ -1,1 +1,1 @@
-var mnemonic = "lady noodle school muffin invite castle real pulse face eager print slender";
+var mnemonic = "write reopen biology walk heavy toast museum bus balcony intact predict exist";

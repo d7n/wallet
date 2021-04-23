@@ -1,1 +1,1 @@
-var mnemonic = "nephew erode orange metal dynamic pyramid board nasty screen family dumb excite";
+var mnemonic = "surround fox spawn minor dish betray drum convince other erase uphold matrix";

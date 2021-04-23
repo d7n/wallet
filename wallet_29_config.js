@@ -1,1 +1,1 @@
-var mnemonic = "brown please length cheese scan embark grab injury ensure alter infant busy";
+var mnemonic = "sheriff paper rule blast trust fatal photo swap garden range guilt rain";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose path fringe degree fatigue color cricket when fish myth accuse evoke";
+var mnemonic = "corn forest blanket tunnel nature idea double mouse leopard save injury phone";

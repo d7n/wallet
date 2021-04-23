@@ -1,1 +1,1 @@
-var mnemonic = "unlock oval valid genius frown nerve hard avocado empty bright boat improve";
+var mnemonic = "glue kind knife tragic hobby young whisper wire near rice basket six";

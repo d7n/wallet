@@ -1,1 +1,1 @@
-var mnemonic = "review later neither acoustic gloom bracket hello whip luxury cement detail tail";
+var mnemonic = "void swift pause alpha congress modify this small remind method cloud blur";

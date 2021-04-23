@@ -1,1 +1,1 @@
-var mnemonic = "girl fall force swim kitchen base foot tank logic color found theme";
+var mnemonic = "capital above flee matter bracket join grow course march gauge frozen buddy";

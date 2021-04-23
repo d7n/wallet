@@ -1,1 +1,1 @@
-var mnemonic = "attend price simple basic earn way educate dwarf repair barely minute wreck";
+var mnemonic = "stomach fault empty park ride dune dwarf fetch transfer must always secret";

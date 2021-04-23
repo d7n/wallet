@@ -1,1 +1,1 @@
-var mnemonic = "truck clown verb tomorrow powder sleep crunch pole stomach kick congress humble";
+var mnemonic = "question ghost print frog organ misery void battle movie weapon alpha ice";

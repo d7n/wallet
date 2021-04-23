@@ -1,1 +1,1 @@
-var mnemonic = "junior aspect fault that always section glad replace work network half gap";
+var mnemonic = "tongue shy inform erosion finish devote question hole kit humble guess annual";

@@ -1,1 +1,1 @@
-var mnemonic = "income hold heavy calm cabbage enter danger canyon great cause suspect risk";
+var mnemonic = "lens nation render orient sail chief risk imitate cushion buyer hurt unusual";

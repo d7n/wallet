@@ -1,1 +1,1 @@
-var mnemonic = "define program call mushroom copy sustain lava sadness bracket end fold orange";
+var mnemonic = "empower design monitor coin blind eagle observe behind nurse furnace blouse fix";

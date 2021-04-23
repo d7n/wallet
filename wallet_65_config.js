@@ -1,1 +1,1 @@
-var mnemonic = "local unit nasty rose tent forest typical mansion lobster ill marble glue";
+var mnemonic = "caution spice famous catalog olympic correct text toe sketch moral person tired";

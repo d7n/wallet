@@ -1,1 +1,1 @@
-var mnemonic = "phrase enrich purchase dish amount detect cactus crisp brass easily tray copper";
+var mnemonic = "tail kiwi alarm forest hundred focus pave language orchard jump rapid tragic";

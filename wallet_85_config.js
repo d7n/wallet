@@ -1,1 +1,1 @@
-var mnemonic = "mirror frog trick thunder dismiss return frequent beyond tattoo sign slam hen";
+var mnemonic = "bag dune wire vote pupil garment safe join inquiry dose peanut veteran";

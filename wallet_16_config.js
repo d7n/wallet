@@ -1,1 +1,1 @@
-var mnemonic = "vague skull jealous supply boat deal satoshi change novel globe boost trial";
+var mnemonic = "siege dog chunk climb maximum hurdle animal renew rice tuition prefer swift";

@@ -1,1 +1,1 @@
-var mnemonic = "immense fame bleak initial cloud prosper tragic steel latin analyst camera dignity";
+var mnemonic = "time uncle penalty swim clerk foil park nephew fire harsh shaft gift";

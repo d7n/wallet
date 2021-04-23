@@ -1,1 +1,1 @@
-var mnemonic = "outdoor alcohol matter account funny proof toe client truly genuine what raccoon";
+var mnemonic = "again zebra topic theme business guitar custom easy scissors rack melody subway";

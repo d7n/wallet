@@ -1,1 +1,1 @@
-var mnemonic = "fee spy fence future wheel outdoor mean chair cheese dish journey light";
+var mnemonic = "ripple used cruel valve useful jacket baby vicious desert consider sing isolate";

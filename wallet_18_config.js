@@ -1,1 +1,1 @@
-var mnemonic = "lab coral profit mixture seat effort blossom morning sweet meadow friend payment";
+var mnemonic = "normal shift fit enlist neglect review image voice section nice magic quantum";

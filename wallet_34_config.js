@@ -1,1 +1,1 @@
-var mnemonic = "subject mail seminar parent height matter armor trade real soup foam worry";
+var mnemonic = "surge helmet deposit coin ethics kangaroo multiply huge science inner year switch";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn donkey save inspire plate digital wasp follow account assist turtle betray";
+var mnemonic = "erase consider web grant tissue flip device convince gym electric dawn interest";

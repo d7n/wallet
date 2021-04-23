@@ -1,1 +1,1 @@
-var mnemonic = "outer sight shield planet jungle original hazard gun snake recall sudden smoke";
+var mnemonic = "spin squeeze strike apple fragile doctor airport pudding bitter shoe fiscal raccoon";

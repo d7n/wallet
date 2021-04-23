@@ -1,1 +1,1 @@
-var mnemonic = "tide pact spend vessel input alone outside erosion local believe rose month";
+var mnemonic = "crack imitate strike refuse settle paper convince level client donor object tomato";

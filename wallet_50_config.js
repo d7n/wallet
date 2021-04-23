@@ -1,1 +1,1 @@
-var mnemonic = "buzz attitude clap egg diesel broom address initial unveil actual humor best";
+var mnemonic = "pool wave plug chat law mule girl repeat delay size infant pave";

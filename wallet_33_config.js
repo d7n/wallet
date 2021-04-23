@@ -1,1 +1,1 @@
-var mnemonic = "gold ginger aunt order jelly sphere destroy hungry gate attend young chest";
+var mnemonic = "warrior slab diesel team equal gate early lazy diary slab wool assault";

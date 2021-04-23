@@ -1,1 +1,1 @@
-var mnemonic = "army neck wrestle dinosaur artist fuel voice people crew various bag moon";
+var mnemonic = "come fire solution hair soldier mass coin oblige wave friend inner bring";

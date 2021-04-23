@@ -1,1 +1,1 @@
-var mnemonic = "shiver best peanut firm liquid trigger inside cup cereal novel depth raven";
+var mnemonic = "never noodle genuine loyal armed erupt strong into naive okay zero desk";

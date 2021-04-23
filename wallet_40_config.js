@@ -1,1 +1,1 @@
-var mnemonic = "spice length side orchard bamboo sort old enroll order trade choose combine";
+var mnemonic = "oak help equip yard fossil shift chapter shoulder lawn sense sing neglect";

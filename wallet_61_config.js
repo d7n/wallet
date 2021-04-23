@@ -1,1 +1,1 @@
-var mnemonic = "demand van job soup lab poverty onion poverty accident close shoulder install";
+var mnemonic = "wrong payment when cause discover pattern bargain pretty illegal lake couple submit";

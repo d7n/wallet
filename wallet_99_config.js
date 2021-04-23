@@ -1,1 +1,1 @@
-var mnemonic = "razor equal swallow bacon type giggle fox million trap upper bring smart";
+var mnemonic = "front gaze engine crawl keen gossip peasant youth nuclear produce abandon raccoon";

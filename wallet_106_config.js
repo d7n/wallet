@@ -1,1 +1,1 @@
-var mnemonic = "bless claim glue faith latin west dune despair leisure recycle supply cost";
+var mnemonic = "bag behind circle come media economy bean song hybrid floor phone stool";

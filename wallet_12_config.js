@@ -1,1 +1,1 @@
-var mnemonic = "embody cradle swarm music dignity moral dinner onion pond bulk water lava";
+var mnemonic = "laundry valve toward general alley broccoli cloud excess parrot ankle frost peasant";

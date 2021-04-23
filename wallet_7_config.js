@@ -1,1 +1,1 @@
-var mnemonic = "fault fringe venue perfect flight lesson sudden shift fetch faculty soup donate";
+var mnemonic = "disorder decline below banana silly stand claim indicate wreck equip happy sing";

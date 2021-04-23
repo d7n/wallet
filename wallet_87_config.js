@@ -1,1 +1,1 @@
-var mnemonic = "spend grab explain believe degree banner icon brass goose best mail any";
+var mnemonic = "repair alter brave else dress cheese never banana ginger leopard quick replace";

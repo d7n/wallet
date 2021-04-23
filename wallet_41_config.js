@@ -1,1 +1,1 @@
-var mnemonic = "bean carry life heart beach pride school oval slow unable flower relief";
+var mnemonic = "long shoulder wave strong lend adapt pet phrase silver fluid upon cousin";

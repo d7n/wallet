@@ -1,1 +1,1 @@
-var mnemonic = "two elevator ladder shell track whip forget october supply memory rule crowd";
+var mnemonic = "pulp title science intact lucky pigeon render want dawn swim stomach between";

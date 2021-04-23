@@ -1,1 +1,1 @@
-var mnemonic = "crouch dawn change myth risk divide basket paddle iron crouch smoke battle";
+var mnemonic = "card coast sail fetch remove picnic vibrant good code hockey sense opera";

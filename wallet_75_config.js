@@ -1,1 +1,1 @@
-var mnemonic = "lobster middle olympic chest double wife analyst reason figure album pitch tennis";
+var mnemonic = "lunar pluck enlist all collect bomb cattle taxi sketch myself time blood";

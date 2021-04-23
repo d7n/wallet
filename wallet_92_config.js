@@ -1,1 +1,1 @@
-var mnemonic = "denial crane define verify chest shoot shrimp lawsuit bargain entire depart volcano";
+var mnemonic = "achieve jewel oppose people test laugh funny load camp account response output";

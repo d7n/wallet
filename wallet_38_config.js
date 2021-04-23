@@ -1,1 +1,1 @@
-var mnemonic = "lumber stick plate perfect tonight spin they ostrich insane burger have okay";
+var mnemonic = "obey law lunar soon clump fan narrow genius human raise deliver system";

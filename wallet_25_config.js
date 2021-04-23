@@ -1,1 +1,1 @@
-var mnemonic = "response reunion sleep stomach various virus venture question forget expect mouse bronze";
+var mnemonic = "job vessel pupil viable aspect term parade valve vocal mushroom clay nut";

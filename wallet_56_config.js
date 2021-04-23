@@ -1,1 +1,1 @@
-var mnemonic = "cabbage song similar ignore figure volcano today mimic peace flame core way";
+var mnemonic = "salmon special poet mother print one lecture bulk river once canyon mask";

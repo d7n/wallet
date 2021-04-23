@@ -1,1 +1,1 @@
-var mnemonic = "cupboard spin traffic infant around peanut second tortoise coil collect whale alcohol";
+var mnemonic = "chalk exile card stage clean solve leader crash opera excuse want foster";

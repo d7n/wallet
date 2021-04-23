@@ -1,1 +1,1 @@
-var mnemonic = "wife scale sketch casual curve fish expire option treat quit teach ask";
+var mnemonic = "soda disorder grit craft trophy nephew issue sheriff indicate meadow fog slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern cycle royal impose garlic bleak antenna shop strong regret early scorpion";
+var mnemonic = "satoshi champion debate hill bright clever broken lunch dust sport brown horror";

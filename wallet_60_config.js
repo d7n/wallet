@@ -1,1 +1,1 @@
-var mnemonic = "globe lake grass resist cancel harvest empty stadium glad derive latin flag";
+var mnemonic = "dinner question write master cook dentist submit absorb hire pipe twin frown";

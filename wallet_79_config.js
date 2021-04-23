@@ -1,1 +1,1 @@
-var mnemonic = "salute drastic similar hero bulk bridge remind aspect area exact slush mind";
+var mnemonic = "parade pink forum frog purity library average maze reduce victory story useless";

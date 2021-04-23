@@ -1,1 +1,1 @@
-var mnemonic = "pave appear shop equip another duck chat output atom plug actor sibling";
+var mnemonic = "undo mask seminar planet bread ill plug cousin tone return cabbage decrease";

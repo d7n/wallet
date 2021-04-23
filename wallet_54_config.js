@@ -1,1 +1,1 @@
-var mnemonic = "easily absent argue burden medal beyond call angle spell atom rural farm";
+var mnemonic = "estate witness episode public cover trend black modify patrol derive forest crystal";

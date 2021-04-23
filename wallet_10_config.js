@@ -1,1 +1,1 @@
-var mnemonic = "wave chaos inject during sport weapon thunder involve range choice rate toy";
+var mnemonic = "consider resemble hard jeans monster fire smooth easily train ability crash destroy";

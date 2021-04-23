@@ -1,1 +1,1 @@
-var mnemonic = "drip enlist roast grocery suggest world coyote decorate six relief brain vintage";
+var mnemonic = "creek innocent hub model moon accuse calm usage tide story insane kind";

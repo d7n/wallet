@@ -1,1 +1,1 @@
-var mnemonic = "stove finish success bring churn chat rough equal title public desk oval";
+var mnemonic = "problem announce sauce swap allow casino height give icon among engage theme";

@@ -1,1 +1,1 @@
-var mnemonic = "seat canyon cattle absent unique immune edit tent guitar time fox skull";
+var mnemonic = "modify acoustic peace enroll clay office soldier subject grief bonus pull column";

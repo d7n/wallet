@@ -1,1 +1,1 @@
-var mnemonic = "salon effort pelican member idle mass sweet local refuse scale dirt person";
+var mnemonic = "unique lens card end weather start height excuse toward kingdom damage timber";

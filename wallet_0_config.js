@@ -1,1 +1,1 @@
-var mnemonic = "foam stomach grunt skate brick cushion fade faint bench stove cotton few";
+var mnemonic = "opera feed vacant enlist accuse group pipe choose market wear swift quality";

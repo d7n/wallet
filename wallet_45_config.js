@@ -1,1 +1,1 @@
-var mnemonic = "same history sudden stove lottery spot seed sugar vacant safe liberty finger";
+var mnemonic = "vital admit then crystal medal ridge random category humble guard absent notable";

@@ -1,1 +1,1 @@
-var mnemonic = "current mirror afraid amount together remain spray such angle sudden season oblige";
+var mnemonic = "shrimp reveal trim remind car bike blouse leopard clutch armor roast agent";

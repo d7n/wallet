@@ -1,1 +1,1 @@
-var mnemonic = "very neutral quarter sibling traffic finger museum hover risk couple summer cause";
+var mnemonic = "aware sand air benefit soccer horror proud resource junior fold act message";
