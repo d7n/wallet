@@ -1,1 +1,1 @@
-var mnemonic = "ancient hurt hobby pink machine eagle miss prevent remember drink end float";
+var mnemonic = "cannon option rookie sentence resemble slight pretty burst ridge title panda topic";

@@ -1,1 +1,1 @@
-var mnemonic = "antique pet table hunt paper lock nasty beef exile grab stuff sunny";
+var mnemonic = "normal urban quiz prosper stove economy board now thank dust cry copper";

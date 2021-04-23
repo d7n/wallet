@@ -1,1 +1,1 @@
-var mnemonic = "wait lazy hole rude gravity shock swallow inside trick surround glare network";
+var mnemonic = "head wash deliver act measure caught weather around impact kitten found convince";

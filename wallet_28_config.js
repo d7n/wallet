@@ -1,1 +1,1 @@
-var mnemonic = "mimic clown answer town cluster toy illness venue access ghost lift lady";
+var mnemonic = "seven process purity waste thumb turtle wrist silver country wear people hockey";

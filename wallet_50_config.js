@@ -1,1 +1,1 @@
-var mnemonic = "raw comfort drive camera car purpose yellow verb atom bulb industry have";
+var mnemonic = "dignity tissue river wrestle chronic hand pulse dragon balcony park leaf fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "between shove initial alpha retreat define boring leaf aware park amount asset";
+var mnemonic = "tomato dress gym champion liberty prefer actor fiction priority blush prize evidence";

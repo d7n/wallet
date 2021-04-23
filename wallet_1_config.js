@@ -1,1 +1,1 @@
-var mnemonic = "believe own click own clutch poverty thank enrich ocean kitten actual duty";
+var mnemonic = "muscle kiwi angry rescue select hollow end romance picture envelope amazing easily";

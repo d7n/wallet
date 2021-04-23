@@ -1,1 +1,1 @@
-var mnemonic = "way resemble soul observe image kid reject kid category connect hidden elevator";
+var mnemonic = "series bronze predict hundred festival allow mother talent still grow wonder apple";

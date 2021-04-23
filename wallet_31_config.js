@@ -1,1 +1,1 @@
-var mnemonic = "inherit bounce bullet derive deliver recall risk city taxi void gate promote";
+var mnemonic = "enact will announce scene tortoise clock medal service tennis outside whale chef";

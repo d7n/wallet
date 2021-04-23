@@ -1,1 +1,1 @@
-var mnemonic = "blossom lock ecology equip hire distance barrel salute faith aware venue usage";
+var mnemonic = "gate bachelor mechanic rally anchor invite jeans neither collect athlete truly crush";

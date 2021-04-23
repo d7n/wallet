@@ -1,1 +1,1 @@
-var mnemonic = "vague monkey ramp industry fat victory print unveil brown skill ten abuse";
+var mnemonic = "soft barrel behave reason actual sustain radar minute humor stock antenna usage";

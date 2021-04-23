@@ -1,1 +1,1 @@
-var mnemonic = "first throw talent essay blame century knock lottery urban man vote tourist";
+var mnemonic = "public license enhance tilt motor fatigue fan depart gravity maximum afraid brief";

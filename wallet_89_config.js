@@ -1,1 +1,1 @@
-var mnemonic = "learn merry else sign soap wild eight coral ten narrow debris solar";
+var mnemonic = "moment pride knee flush pledge knife more alcohol accuse ranch code trash";

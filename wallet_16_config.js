@@ -1,1 +1,1 @@
-var mnemonic = "waste mercy infant moon furnace forget accuse offer tragic pencil month view";
+var mnemonic = "repair allow lottery risk once ghost hello couple nation journey hawk team";

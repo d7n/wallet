@@ -1,1 +1,1 @@
-var mnemonic = "belt view year walk output garbage analyst unique prosper sense lion foot";
+var mnemonic = "flat draft sure resemble pole hybrid creek pulse truly dwarf used design";

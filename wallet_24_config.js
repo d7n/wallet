@@ -1,1 +1,1 @@
-var mnemonic = "proof actor chaos style echo trash hotel camp stay minimum code season";
+var mnemonic = "cricket level else more domain hundred fat butter memory omit decrease arena";

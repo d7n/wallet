@@ -1,1 +1,1 @@
-var mnemonic = "private club nurse cloth when magnet sauce chimney assume offer angry defy";
+var mnemonic = "cigar syrup since chief figure novel fit put ticket undo crowd place";

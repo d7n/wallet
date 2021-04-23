@@ -1,1 +1,1 @@
-var mnemonic = "dinner pair brisk ketchup runway ahead cruise park patrol cute faint build";
+var mnemonic = "spirit become crunch hand near disorder supreme busy latin mom win blast";

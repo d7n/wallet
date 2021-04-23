@@ -1,1 +1,1 @@
-var mnemonic = "oval armed toddler street royal assume rough chaos entire smile tilt alone";
+var mnemonic = "ten spawn dawn base agent dentist friend reflect evidence prepare dash universe";

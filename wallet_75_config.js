@@ -1,1 +1,1 @@
-var mnemonic = "bus connect action air put neck weather paper pistol advice lock leave";
+var mnemonic = "rotate survey stadium garbage plate hockey found female infant pause lens account";

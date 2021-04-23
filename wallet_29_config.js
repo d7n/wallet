@@ -1,1 +1,1 @@
-var mnemonic = "neglect annual corn country beauty bridge stuff glass regret angle radio purity";
+var mnemonic = "accuse used sail leopard rather bleak dune cushion voyage color wonder cup";

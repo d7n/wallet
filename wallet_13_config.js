@@ -1,1 +1,1 @@
-var mnemonic = "sketch vivid illegal correct furnace judge quarter above display fashion athlete sail";
+var mnemonic = "swing wool hill crunch gate mandate globe enable defy depend fetch energy";

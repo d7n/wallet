@@ -1,1 +1,1 @@
-var mnemonic = "rebel twist daughter enrich front aerobic put dial quantum supreme history desk";
+var mnemonic = "viable wish crowd antique motion camp wine smile rapid pitch pride matrix";

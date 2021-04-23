@@ -1,1 +1,1 @@
-var mnemonic = "system actual ticket wine plug minimum sister eagle cement fire hint autumn";
+var mnemonic = "fan chief parent couple return category wheat wall easily near manage air";

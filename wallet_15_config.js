@@ -1,1 +1,1 @@
-var mnemonic = "huge whisper onion behind arena govern virus plate estate way wealth seed";
+var mnemonic = "van panel exact silly mixed click amateur notable elite crazy eagle lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "task voyage rebel party disorder found sleep banner ordinary obscure chase glance";
+var mnemonic = "parrot cook blame asthma keep wrestle fit indicate lend stereo vocal carpet";

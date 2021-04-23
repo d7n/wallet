@@ -1,1 +1,1 @@
-var mnemonic = "process elite zebra illegal clog position moon robot emotion grant burden major";
+var mnemonic = "limb prefer rocket couple negative saddle call nerve since seed huge foam";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter become fork all width pepper until impulse dish toast base demand";
+var mnemonic = "inner spike shrimp debate speed trial frequent aim return write seek scene";

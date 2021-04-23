@@ -1,1 +1,1 @@
-var mnemonic = "early envelope lemon unlock fury dish brick gentle what filter tool water";
+var mnemonic = "pave around tiny black olive avocado cross amount shine cloud gap method";

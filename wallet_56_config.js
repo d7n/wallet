@@ -1,1 +1,1 @@
-var mnemonic = "echo slow bachelor decrease vibrant crater list inflict guide salad term expire";
+var mnemonic = "grit latin remember asthma choose obvious scare bind parrot armor girl lecture";

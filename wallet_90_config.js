@@ -1,1 +1,1 @@
-var mnemonic = "health absurd dilemma faith smooth enough orbit angle harsh modify idea ghost";
+var mnemonic = "salon upper travel level drama same wait middle betray burden wife mystery";

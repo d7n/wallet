@@ -1,1 +1,1 @@
-var mnemonic = "manual parade good pledge lion public advice horse skirt model slice adult";
+var mnemonic = "certain purity school forget human derive twice awesome aerobic dry crystal organ";

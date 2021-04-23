@@ -1,1 +1,1 @@
-var mnemonic = "room raise powder magnet random toward mother question benefit win cheap prize";
+var mnemonic = "imitate also useful coast file enforce dust already million act glide trick";

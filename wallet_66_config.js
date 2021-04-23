@@ -1,1 +1,1 @@
-var mnemonic = "angry divert hybrid bench rabbit dice flee nation reunion destroy simple awake";
+var mnemonic = "loop tell scale acquire coyote liar nest devote fix change income spray";

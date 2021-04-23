@@ -1,1 +1,1 @@
-var mnemonic = "april erupt remember tree crew frost help atom endorse bleak say talk";
+var mnemonic = "miracle modify sweet miracle brisk moment bench ranch tuna repair exclude legal";

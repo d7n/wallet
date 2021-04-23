@@ -1,1 +1,1 @@
-var mnemonic = "price refuse smile neither vast cheap toilet tomato balcony borrow excess enrich";
+var mnemonic = "skate winner second nominee claim rare jewel sustain because mountain reopen into";

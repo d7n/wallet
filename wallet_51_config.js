@@ -1,1 +1,1 @@
-var mnemonic = "blossom kiss discover tourist fit myself lamp swift trend wheel idea cupboard";
+var mnemonic = "view era omit plunge inch course sure audit general earth reason select";

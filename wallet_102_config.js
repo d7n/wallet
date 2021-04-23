@@ -1,1 +1,1 @@
-var mnemonic = "vicious grace notice borrow police lyrics egg post plug avocado wild behind";
+var mnemonic = "image barrel sell caught unfair shove monster column army review afraid rich";

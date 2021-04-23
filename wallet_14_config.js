@@ -1,1 +1,1 @@
-var mnemonic = "turtle gloom ketchup drama cat connect soft cattle lens journey marble hurry";
+var mnemonic = "runway emotion cage rely blade wage memory tribe kangaroo seed gorilla air";

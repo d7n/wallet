@@ -1,1 +1,1 @@
-var mnemonic = "make apple join pride glass need cry nurse illegal anxiety jeans leg";
+var mnemonic = "story where task elephant path piece frog coconut orchard devote ethics plunge";

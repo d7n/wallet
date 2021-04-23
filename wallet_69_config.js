@@ -1,1 +1,1 @@
-var mnemonic = "crazy gun latin magnet solve leave nurse voyage opera tobacco shock job";
+var mnemonic = "hunt suggest strong tortoise target morning joke style kind spoon owner bronze";

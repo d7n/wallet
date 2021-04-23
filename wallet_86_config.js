@@ -1,1 +1,1 @@
-var mnemonic = "example stem obvious fat garbage element flee kitchen isolate desert meat name";
+var mnemonic = "grab buddy wisdom legal swallow brush middle trick exhibit huge bacon eagle";

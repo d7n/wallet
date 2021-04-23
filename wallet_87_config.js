@@ -1,1 +1,1 @@
-var mnemonic = "sign acquire spatial skirt ask before entire divert grow salt quantum dinner";
+var mnemonic = "stomach easily rough drastic price magic floor walk gift health pledge sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "blade hunt invite shock valid shell track canvas midnight uncle write asset";
+var mnemonic = "will quit estate stove coffee exhibit two such hedgehog accident rally ring";

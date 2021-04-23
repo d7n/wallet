@@ -1,1 +1,1 @@
-var mnemonic = "weasel deliver decrease inner horror science puppy frost kiss wrong noble else";
+var mnemonic = "method absorb guitar circle fossil good laundry awkward dad laundry message leg";

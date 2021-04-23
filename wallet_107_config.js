@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow unknown require goat cushion dismiss fly transfer motor demand riot cruel";
+var mnemonic = "iron sentence turkey good aim until obey exile payment accuse reason divert";

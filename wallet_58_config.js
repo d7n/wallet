@@ -1,1 +1,1 @@
-var mnemonic = "chief clump someone high purchase cactus awkward dismiss banana more arch song";
+var mnemonic = "guess course hybrid hockey grab rib despair huge armed name search hamster";

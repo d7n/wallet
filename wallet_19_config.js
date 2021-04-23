@@ -1,1 +1,1 @@
-var mnemonic = "debate balcony clog blur defense all domain actor climb cover shock isolate";
+var mnemonic = "stuff journey level silent salmon cheese major ginger ring tone baby remove";

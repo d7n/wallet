@@ -1,1 +1,1 @@
-var mnemonic = "mesh switch baby good bone venue boat kitten void ceiling maid fire";
+var mnemonic = "ugly always window beyond divide toss across case scrub cave ride will";

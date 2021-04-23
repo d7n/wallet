@@ -1,1 +1,1 @@
-var mnemonic = "eager exit skirt divide shaft magnet sting proof olive cram swarm energy";
+var mnemonic = "settle rifle move drama team original mandate embark orbit awake girl drill";

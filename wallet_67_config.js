@@ -1,1 +1,1 @@
-var mnemonic = "obscure few coast dress warm mango scrub praise rib body repeat never";
+var mnemonic = "unable box begin shop urban document umbrella dial stand ordinary spy shrug";

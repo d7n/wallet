@@ -1,1 +1,1 @@
-var mnemonic = "bleak brush foot treat indoor wire flavor property identify age cheese doll";
+var mnemonic = "reject heavy easy trick tooth sniff badge air lava range unhappy child";

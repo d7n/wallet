@@ -1,1 +1,1 @@
-var mnemonic = "clock control wave spend romance ghost orphan close april endless isolate power";
+var mnemonic = "portion benefit come border mandate message crunch carpet step waste cricket lift";

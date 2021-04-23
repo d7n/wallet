@@ -1,1 +1,1 @@
-var mnemonic = "enforce budget also exist clock radar asthma split acoustic option poet hurry";
+var mnemonic = "water example palace announce enter naive name airport deliver pact rack siren";

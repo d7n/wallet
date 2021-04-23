@@ -1,1 +1,1 @@
-var mnemonic = "curve spirit total jacket vessel boost pilot senior view wheat grass artefact";
+var mnemonic = "cradle believe margin rival derive obscure sister clock word oblige sponsor genre";

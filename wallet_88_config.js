@@ -1,1 +1,1 @@
-var mnemonic = "muffin pelican phone write couch stay frost detect deal disease isolate nut";
+var mnemonic = "throw pepper memory music acoustic reduce ready session pull abandon uncover same";

@@ -1,1 +1,1 @@
-var mnemonic = "local lake jazz any boat gas abstract scrap march hard lion potato";
+var mnemonic = "chat survey valley use expand swim cruel push field hen soft jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "write bicycle parent sing chicken wear nuclear family midnight leave during cactus";
+var mnemonic = "frequent anger stumble oppose ice act beauty tourist cannon daring insect round";

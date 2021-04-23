@@ -1,1 +1,1 @@
-var mnemonic = "pyramid parent blanket bitter behave rare snow mango silk man range oyster";
+var mnemonic = "light bulk universe result curious soft humble family keen nuclear blush safe";

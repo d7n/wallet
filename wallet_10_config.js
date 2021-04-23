@@ -1,1 +1,1 @@
-var mnemonic = "motor amateur output cute remember response angry unveil program near speed pair";
+var mnemonic = "dinner eye cancel art visual jazz order legal february cheese matter unfold";

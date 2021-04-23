@@ -1,1 +1,1 @@
-var mnemonic = "gospel lucky rude moment excite mix amount prevent robot palace false capable";
+var mnemonic = "sun canyon assist sorry abstract payment drop range maximum galaxy what stamp";

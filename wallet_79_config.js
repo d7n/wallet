@@ -1,1 +1,1 @@
-var mnemonic = "used october effort into clown tissue post rally velvet below depend slush";
+var mnemonic = "pudding argue more comfort vault fade course dice knife similar welcome dial";

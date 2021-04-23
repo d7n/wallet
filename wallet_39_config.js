@@ -1,1 +1,1 @@
-var mnemonic = "panther glow degree crater marine become still talent genre pioneer round rival";
+var mnemonic = "exotic census myth culture green hobby proof nation leader wink father plastic";

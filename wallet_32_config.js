@@ -1,1 +1,1 @@
-var mnemonic = "tiny flame goddess despair distance local planet vendor someone jar labor mirror";
+var mnemonic = "ready tail steak icon monitor ill glimpse base disagree gravity mention tiny";

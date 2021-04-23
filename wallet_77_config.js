@@ -1,1 +1,1 @@
-var mnemonic = "shuffle holiday square wage oil egg outside kind better bus hip involve";
+var mnemonic = "fish predict feel inform once diamond trick ten purse situate room obtain";

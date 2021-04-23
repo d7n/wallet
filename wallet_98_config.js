@@ -1,1 +1,1 @@
-var mnemonic = "begin volcano upset dignity rural offer combine flash dolphin film invest kid";
+var mnemonic = "dragon camera earth pause quantum hurt kiwi keen bar indoor today report";

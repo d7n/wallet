@@ -1,1 +1,1 @@
-var mnemonic = "early protect fantasy tomato buyer usual cruise jeans clip answer grit toy";
+var mnemonic = "hockey atom index common elegant guitar cherry move say chicken lend chase";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster outside oil craft guard theory circle crowd bargain way spoon genre";
+var mnemonic = "exhaust thing ecology angle casual over pig tonight raccoon drastic pen settle";

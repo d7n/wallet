@@ -1,1 +1,1 @@
-var mnemonic = "fence rail steel flight keen smoke spare quarter artist mango coyote common";
+var mnemonic = "panda voyage candy leaf column sketch dismiss spring gown verify chest vast";

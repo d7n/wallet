@@ -1,1 +1,1 @@
-var mnemonic = "write water hand rail syrup still filter story play sure diet meadow";
+var mnemonic = "great forward cousin muscle parade trash ski gloom save useful few snack";

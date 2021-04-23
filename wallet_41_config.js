@@ -1,1 +1,1 @@
-var mnemonic = "tag remove outside area defy want camp ball alcohol olive rapid cave";
+var mnemonic = "verify square bean bread brisk embrace ten flock snake cycle service initial";

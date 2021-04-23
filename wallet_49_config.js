@@ -1,1 +1,1 @@
-var mnemonic = "armor city jealous machine garage equal relief penalty surprise various inject story";
+var mnemonic = "they drink empty skate front spawn public mercy huge fame oil appear";

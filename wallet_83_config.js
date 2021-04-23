@@ -1,1 +1,1 @@
-var mnemonic = "buyer rocket october leave harbor panther alley occur lend broccoli dirt cluster";
+var mnemonic = "museum joke excuse purchase rocket reopen start deer glide magic pizza consider";

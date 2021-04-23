@@ -1,1 +1,1 @@
-var mnemonic = "ship stay hollow glad walnut laundry salute royal grape nice ball true";
+var mnemonic = "traffic major remind comfort element print unit inflict manage snap age violin";

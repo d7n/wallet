@@ -1,1 +1,1 @@
-var mnemonic = "owner crumble double zebra drum test tray bunker link indoor chicken frame";
+var mnemonic = "lock suggest picnic merit slot market outdoor feed category aware olive duck";

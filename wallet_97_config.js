@@ -1,1 +1,1 @@
-var mnemonic = "either random guess accident supreme smooth swear torch rib mushroom mail maze";
+var mnemonic = "welcome solid bubble school escape space wonder embody street team ill column";

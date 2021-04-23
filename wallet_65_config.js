@@ -1,1 +1,1 @@
-var mnemonic = "actual office veteran rather pool horror offer embark crane cage usual plate";
+var mnemonic = "essence exile coconut digital discover cool evidence prepare glide flower salmon process";

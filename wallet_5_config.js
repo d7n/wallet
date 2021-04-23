@@ -1,1 +1,1 @@
-var mnemonic = "aerobic address fancy unfair circle decrease slush drill weapon venue dynamic slab";
+var mnemonic = "ocean give trick arrange page artist hill round amount cricket scrap average";

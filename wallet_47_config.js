@@ -1,1 +1,1 @@
-var mnemonic = "rude caught library blouse dose bid kiss bench bamboo cross crouch bronze";
+var mnemonic = "impact dentist mansion canyon axis detect public entry bread hold skirt bonus";
