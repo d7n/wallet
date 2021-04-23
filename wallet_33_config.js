@@ -1,1 +1,1 @@
-var mnemonic = "loop settle talk slush poet identify air moral solid unveil decade citizen";
+var mnemonic = "until note flip alcohol panther broom ensure inhale recycle require forget normal";

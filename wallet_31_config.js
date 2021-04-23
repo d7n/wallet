@@ -1,1 +1,1 @@
-var mnemonic = "anxiety museum resist casual neglect unusual glimpse lift body surprise trophy cabbage";
+var mnemonic = "bullet produce stairs avoid dance race minimum also venture organ eternal debris";

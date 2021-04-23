@@ -1,1 +1,1 @@
-var mnemonic = "chronic nice drastic fault vote decrease front mirror lucky swallow burden pen";
+var mnemonic = "flavor elite fatal they industry barrel short today tree model remain above";

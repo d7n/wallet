@@ -1,1 +1,1 @@
-var mnemonic = "language year detect cement clip approve unfair moral six soda moon ability";
+var mnemonic = "sting word lava slam tackle dawn tone broom crumble crane demand october";

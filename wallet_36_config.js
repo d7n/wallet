@@ -1,1 +1,1 @@
-var mnemonic = "marriage rapid fatigue family follow rotate online flower engage horse cactus dune";
+var mnemonic = "town round narrow major swim current blame electric stage pave famous rude";

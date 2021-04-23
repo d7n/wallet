@@ -1,1 +1,1 @@
-var mnemonic = "unaware hurdle situate silly potato during all concert funny furnace erode pizza";
+var mnemonic = "raccoon bitter nose quiz wasp same tragic learn sibling eight butter useless";

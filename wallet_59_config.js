@@ -1,1 +1,1 @@
-var mnemonic = "skate cute drama reason scare dismiss inject suit initial elephant lend dove";
+var mnemonic = "fancy tortoise symptom flame doll water city illness bulb monitor notable else";

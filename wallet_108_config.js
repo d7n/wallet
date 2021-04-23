@@ -1,1 +1,1 @@
-var mnemonic = "gospel decide receive zoo next total odor machine used gauge bomb neither";
+var mnemonic = "pave awful select piece adjust blanket clog ridge topic marriage pepper practice";

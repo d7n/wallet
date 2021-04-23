@@ -1,1 +1,1 @@
-var mnemonic = "curve stereo holiday produce stem extend coil tragic episode around section calm";
+var mnemonic = "page advance average response convince earth whip creek over cereal burden inside";

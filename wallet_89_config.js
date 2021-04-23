@@ -1,1 +1,1 @@
-var mnemonic = "hire hobby shoe demand friend pilot owner sure emotion soon tackle camera";
+var mnemonic = "glance mystery issue bird glance position kitchen decorate flight hold front canoe";

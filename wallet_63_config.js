@@ -1,1 +1,1 @@
-var mnemonic = "play region good toe stem soda egg alone boring weather script sand";
+var mnemonic = "entry october range swear forward warfare vote leaf trap brave live dinner";

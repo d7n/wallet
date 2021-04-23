@@ -1,1 +1,1 @@
-var mnemonic = "fine length drop mention snake review gain rain machine survey start oak";
+var mnemonic = "wheat program bitter brisk tomorrow rent behind turkey script entry dentist start";

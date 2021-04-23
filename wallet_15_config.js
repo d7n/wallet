@@ -1,1 +1,1 @@
-var mnemonic = "sphere lecture debate symptom area juice argue fancy little useless route casual";
+var mnemonic = "arrest path joke letter normal antenna burger chief burden okay arrange source";

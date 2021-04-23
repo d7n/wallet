@@ -1,1 +1,1 @@
-var mnemonic = "actress field hover negative afford talent conduct quit tornado credit balcony remember";
+var mnemonic = "course staff quality weapon finger neglect cereal fragile bring cupboard energy evolve";

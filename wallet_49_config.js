@@ -1,1 +1,1 @@
-var mnemonic = "polar slender among deposit sadness engage scare habit fatigue wing early trumpet";
+var mnemonic = "move addict twin roast client pottery jacket fix top angle chaos pen";

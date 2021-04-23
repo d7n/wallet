@@ -1,1 +1,1 @@
-var mnemonic = "civil winner buzz village rocket pass science celery angry provide swallow yard";
+var mnemonic = "disease old leisure pilot heavy bicycle need damp idea sauce fortune act";

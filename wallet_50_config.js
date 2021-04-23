@@ -1,1 +1,1 @@
-var mnemonic = "assume harsh upgrade crunch width point bless arctic web atom coyote brass";
+var mnemonic = "below dignity dignity rose turn brand ignore acoustic aisle dance level setup";

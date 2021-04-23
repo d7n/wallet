@@ -1,1 +1,1 @@
-var mnemonic = "diagram resemble picnic wink rival cup else effort refuse term merry three";
+var mnemonic = "ice tattoo evidence mask exhaust miss dash today tooth lake leaf meadow";

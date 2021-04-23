@@ -1,1 +1,1 @@
-var mnemonic = "sniff security friend memory spin boy hurdle siren engine among skull immense";
+var mnemonic = "animal decade error knife flock bracket ignore office twist settle tomorrow era";

@@ -1,1 +1,1 @@
-var mnemonic = "amused mom armed horse like stove path express exhibit tube lens note";
+var mnemonic = "unaware reason cloth reunion walk length breeze faint wild mansion chalk evil";

@@ -1,1 +1,1 @@
-var mnemonic = "become fiction near cable enter decorate boring attitude blouse awesome wood forward";
+var mnemonic = "forest impact illness february salt coach obtain whisper when put nice half";

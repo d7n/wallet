@@ -1,1 +1,1 @@
-var mnemonic = "current rule december refuse album step connect cover scrub degree flame nurse";
+var mnemonic = "winner stairs loud lemon eye nominee fruit actor public resemble bounce version";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid trip merge system cannon arm sock squeeze toward remind brave image";
+var mnemonic = "ask puzzle snap hub mail maple actress fork sweet number castle blast";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond better slogan orphan canoe kind approve toss purity music behind forward";
+var mnemonic = "whisper abstract design light bacon play pudding grant together hover inspire lucky";

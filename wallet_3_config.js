@@ -1,1 +1,1 @@
-var mnemonic = "online board fragile problem rapid drive ring timber detail kid table toward";
+var mnemonic = "museum firm clutch purpose setup banana turkey clever recipe fold bag kit";

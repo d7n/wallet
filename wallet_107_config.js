@@ -1,1 +1,1 @@
-var mnemonic = "peace fiction magnet roast luggage grocery bean dinosaur visual ride tiny ice";
+var mnemonic = "tag sport topple loop wood question assault solve plunge best outside bounce";

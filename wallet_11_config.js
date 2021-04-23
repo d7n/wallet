@@ -1,1 +1,1 @@
-var mnemonic = "reunion assist prefer fringe belt limit miracle admit inject attack burger shield";
+var mnemonic = "electric oppose season close over cement patrol dust sure fantasy peanut debate";

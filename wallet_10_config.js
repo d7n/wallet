@@ -1,1 +1,1 @@
-var mnemonic = "again sibling wine dilemma satoshi century mixture milk prison swamp still degree";
+var mnemonic = "exit ostrich usual repeat celery quantum cram opera disorder atom forget badge";

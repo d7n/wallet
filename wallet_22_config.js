@@ -1,1 +1,1 @@
-var mnemonic = "slight idle coin crystal cement kick wage dragon method stick lunar cinnamon";
+var mnemonic = "ensure kangaroo base either either sock room sibling put version mammal car";

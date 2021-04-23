@@ -1,1 +1,1 @@
-var mnemonic = "attack drop frame drip taste tourist quality little cotton present modify photo";
+var mnemonic = "panic lesson pudding device hair assist kidney seed owner motion amateur coach";

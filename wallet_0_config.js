@@ -1,1 +1,1 @@
-var mnemonic = "book mushroom mail caught first skate submit festival arctic mimic eternal ripple";
+var mnemonic = "vibrant during spread distance pumpkin race render hole long fit physical board";

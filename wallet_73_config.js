@@ -1,1 +1,1 @@
-var mnemonic = "world coffee enough salt bundle shield initial asthma confirm tilt prefer shell";
+var mnemonic = "trap eagle venture snake act upper sphere opera song fine account taxi";

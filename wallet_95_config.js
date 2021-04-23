@@ -1,1 +1,1 @@
-var mnemonic = "cross sound erupt sense drama swarm kit simple zoo vicious forum dizzy";
+var mnemonic = "relief short what zebra size surface prosper talk bulb inflict easy pass";

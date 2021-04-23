@@ -1,1 +1,1 @@
-var mnemonic = "coconut idle chimney describe aware kitchen imitate such dose credit purchase floor";
+var mnemonic = "jeans nose punch safe blame offer code normal inquiry puzzle execute wash";

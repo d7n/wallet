@@ -1,1 +1,1 @@
-var mnemonic = "quantum cruise stereo run unveil custom crouch hand manual canal nasty swamp";
+var mnemonic = "sunset wedding crash potato abandon episode always urban seven file raise deny";

@@ -1,1 +1,1 @@
-var mnemonic = "goat grunt practice heart lawn pudding finish orbit program fan tenant cancel";
+var mnemonic = "process hood outdoor animal emotion enemy orange vacant sunset dynamic brand usual";

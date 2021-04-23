@@ -1,1 +1,1 @@
-var mnemonic = "hen motion category energy submit practice answer ketchup child dog video camp";
+var mnemonic = "stomach wreck couple boat inside weather peasant curve check update few easily";

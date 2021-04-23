@@ -1,1 +1,1 @@
-var mnemonic = "able mad solution churn awesome shaft shed stay tobacco advice venture mother";
+var mnemonic = "churn assault chimney reunion high cream regret immense choose example fog material";

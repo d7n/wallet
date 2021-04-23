@@ -1,1 +1,1 @@
-var mnemonic = "normal air hen camp glare silent hope fetch mixed normal tone spatial";
+var mnemonic = "human love burden shell safe camp surround grape often race supreme churn";

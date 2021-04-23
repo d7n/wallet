@@ -1,1 +1,1 @@
-var mnemonic = "service describe punch member recall enter remind february energy tent certain tomato";
+var mnemonic = "edit apart tunnel city course garden broom hockey elegant fruit manage pitch";

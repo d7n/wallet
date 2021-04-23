@@ -1,1 +1,1 @@
-var mnemonic = "solve hamster shallow wrist thunder order lonely become grief receive meat end";
+var mnemonic = "crawl analyst second debate topple myth double meat label upper beach ripple";

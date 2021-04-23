@@ -1,1 +1,1 @@
-var mnemonic = "witness broom funny badge sock nature absurd much camp pull segment absorb";
+var mnemonic = "destroy road surround trip what hour lamp wealth lab trap glass various";

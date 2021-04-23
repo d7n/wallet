@@ -1,1 +1,1 @@
-var mnemonic = "erode agree monkey wrist cousin fold galaxy original decline want afraid fuel";
+var mnemonic = "explain toast fault apple describe again wrestle embrace bread unhappy shoulder couch";

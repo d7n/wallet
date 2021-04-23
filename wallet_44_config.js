@@ -1,1 +1,1 @@
-var mnemonic = "upset feature tenant swing fuel track cheese receive inmate track armor cute";
+var mnemonic = "cattle art slim cinnamon cigar method change fold upon win garbage nurse";

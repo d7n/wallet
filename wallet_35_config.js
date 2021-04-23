@@ -1,1 +1,1 @@
-var mnemonic = "beach soup common visit insane couple demand limb panic fold fresh enemy";
+var mnemonic = "draw tooth defense faint smile sibling hurry zoo divide remind lens habit";

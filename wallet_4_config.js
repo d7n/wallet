@@ -1,1 +1,1 @@
-var mnemonic = "gadget ostrich tragic sustain attitude simple wisdom rotate push skin rice control";
+var mnemonic = "firm zone client picture wage sort photo wreck unit stock clump process";

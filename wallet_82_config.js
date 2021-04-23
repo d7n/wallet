@@ -1,1 +1,1 @@
-var mnemonic = "control program awful oblige execute tobacco rice menu actor remember pool shell";
+var mnemonic = "father theme rice siege film fork baby upset regular upgrade craft juice";

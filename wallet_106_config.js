@@ -1,1 +1,1 @@
-var mnemonic = "neither side undo vocal field avocado kiwi danger envelope resemble lend topic";
+var mnemonic = "hub tobacco arctic monitor initial between ugly report bullet salmon ordinary eyebrow";

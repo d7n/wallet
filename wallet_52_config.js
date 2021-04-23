@@ -1,1 +1,1 @@
-var mnemonic = "egg gate save recycle water unaware ostrich group curious boil mandate civil";
+var mnemonic = "erode friend around card honey satisfy flame day hip injury hour pulp";

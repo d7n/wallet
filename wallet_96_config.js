@@ -1,1 +1,1 @@
-var mnemonic = "together pumpkin cool category same bus sword usage shuffle system save art";
+var mnemonic = "thrive wolf jeans cinnamon dish vendor barrel wait chaos volume tragic nose";

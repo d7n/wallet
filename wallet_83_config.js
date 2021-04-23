@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ancient float child fan honey run during kind lady resemble month";
+var mnemonic = "resemble grid heart save plastic thumb live jungle federal thing essay toss";

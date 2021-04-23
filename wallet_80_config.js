@@ -1,1 +1,1 @@
-var mnemonic = "erode twice trumpet web brand emerge craft claw south stuff claim turtle";
+var mnemonic = "hour tank course joke become cloud rookie april nasty flip clay festival";

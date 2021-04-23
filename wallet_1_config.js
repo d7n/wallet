@@ -1,1 +1,1 @@
-var mnemonic = "purpose nuclear leader kingdom pact divorce soup category hero allow tissue surprise";
+var mnemonic = "social armed engage loyal myself split amateur sock phrase retire school pizza";

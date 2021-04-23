@@ -1,1 +1,1 @@
-var mnemonic = "celery pole agree topic soul layer deer reveal olympic dragon impose supply";
+var mnemonic = "couch increase actor virtual stumble leaf blame grass else census strategy basic";

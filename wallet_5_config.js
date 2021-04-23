@@ -1,1 +1,1 @@
-var mnemonic = "cheese response myself siren quick steak merge sell midnight medal garden foot";
+var mnemonic = "eager zone critic shadow help confirm town since snow tag shrug girl";

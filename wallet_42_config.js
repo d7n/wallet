@@ -1,1 +1,1 @@
-var mnemonic = "express purpose type asset spy long stomach swear fashion city swallow embrace";
+var mnemonic = "fatigue filter disease cave north ankle alarm crater motor butter solution grain";

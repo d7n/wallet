@@ -1,1 +1,1 @@
-var mnemonic = "hover poem abuse fossil fall learn kangaroo device genius collect enter shoulder";
+var mnemonic = "hurdle repeat fluid sweet bright idea skirt remove topic label green dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut fix situate panda wet profit remain accident tide agree agent confirm";
+var mnemonic = "diesel floor upon secret rural thought capital install addict render eagle engage";

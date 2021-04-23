@@ -1,1 +1,1 @@
-var mnemonic = "salt latin spare equal cat zoo upgrade frequent remind canyon input gold";
+var mnemonic = "beauty snack enhance genre key thought armor crucial unveil jump decade among";

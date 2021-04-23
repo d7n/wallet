@@ -1,1 +1,1 @@
-var mnemonic = "quick plate love voice boost dumb above hire fame moral flee math";
+var mnemonic = "asset scan spoil win valid cargo cable maid quality next issue sport";

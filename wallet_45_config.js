@@ -1,1 +1,1 @@
-var mnemonic = "option acoustic coast galaxy volume hybrid wheel rhythm debris device kid patrol";
+var mnemonic = "belt emerge between knock truth detect speed hello smoke smart safe result";

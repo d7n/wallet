@@ -1,1 +1,1 @@
-var mnemonic = "mountain position skate injury cigar celery waste right pudding more spoon churn";
+var mnemonic = "throw scissors soft aerobic wear gauge width analyst swamp foot fish moment";

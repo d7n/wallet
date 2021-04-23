@@ -1,1 +1,1 @@
-var mnemonic = "park sell barely client argue nurse unique virtual kitchen castle play salon";
+var mnemonic = "again embrace wife library current deposit basket modify bargain dentist grass public";

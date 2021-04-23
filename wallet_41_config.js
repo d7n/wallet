@@ -1,1 +1,1 @@
-var mnemonic = "swear wear amateur clump target switch ball insect ensure wonder gold brief";
+var mnemonic = "noble polar ride attend thunder apple price theme solve split wire pepper";

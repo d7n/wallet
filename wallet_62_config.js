@@ -1,1 +1,1 @@
-var mnemonic = "chronic slogan remind income film panel merit someone purse helmet muffin domain";
+var mnemonic = "virus olympic scare logic flag fatigue usage always wet shoe choice chef";

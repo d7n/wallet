@@ -1,1 +1,1 @@
-var mnemonic = "omit weapon wonder ski employ pepper boat adjust focus kiwi leaf book";
+var mnemonic = "maximum goat front burst behind excess token first orbit mansion river melody";

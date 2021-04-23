@@ -1,1 +1,1 @@
-var mnemonic = "weekend grow slow six present frog race club cloud zero oak burst";
+var mnemonic = "poem bacon offer cannon depart devote rain remember nominee truth connect property";

@@ -1,1 +1,1 @@
-var mnemonic = "cement crunch devote resource kidney lawsuit size replace primary swing certain purity";
+var mnemonic = "nasty omit excuse tomato dinosaur broccoli escape bamboo profit until begin there";

@@ -1,1 +1,1 @@
-var mnemonic = "best oyster approve weasel fee soup surprise luggage apple supreme fame name";
+var mnemonic = "often hotel weather find organ green raven flag symptom charge ship lottery";

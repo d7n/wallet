@@ -1,1 +1,1 @@
-var mnemonic = "wheat language salad shy away dance ecology leader flight owner now sniff";
+var mnemonic = "remain chase zebra scene dove nasty still enroll limit width use damp";

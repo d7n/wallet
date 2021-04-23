@@ -1,1 +1,1 @@
-var mnemonic = "cost someone solid blanket blade fiscal theme illegal later humor position detect";
+var mnemonic = "inquiry bless arena team vivid genuine top coffee hurry wine clerk pledge";

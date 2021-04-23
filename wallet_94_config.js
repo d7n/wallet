@@ -1,1 +1,1 @@
-var mnemonic = "spend very soon famous can run problem note know inner remember clean";
+var mnemonic = "since aisle insane galaxy midnight mesh vanish puppy property retire rotate define";

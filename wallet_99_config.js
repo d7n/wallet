@@ -1,1 +1,1 @@
-var mnemonic = "immune soldier upset rose method prepare embody quote occur buzz hurt urban";
+var mnemonic = "embrace surge tonight since deal orphan shine measure valid develop vehicle worth";

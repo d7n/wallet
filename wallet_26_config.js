@@ -1,1 +1,1 @@
-var mnemonic = "helmet faint romance east employ sentence dragon situate morning model title fold";
+var mnemonic = "submit bless nut crouch gift original soon today huge distance blush stick";

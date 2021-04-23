@@ -1,1 +1,1 @@
-var mnemonic = "motion trade film inherit century permit shine quick material soon pact estate";
+var mnemonic = "above volcano embark ski bench define room sight corn curve dog jewel";

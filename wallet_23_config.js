@@ -1,1 +1,1 @@
-var mnemonic = "system vicious apology rapid buffalo subject allow promote affair pride start wedding";
+var mnemonic = "uniform village mouse excess picture relief universe jewel carpet romance camera tide";

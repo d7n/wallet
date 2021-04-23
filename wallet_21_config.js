@@ -1,1 +1,1 @@
-var mnemonic = "nut depart amused catalog music nothing act satoshi soda method disorder corn";
+var mnemonic = "sand vessel village this same undo thunder casino roof royal eternal coconut";

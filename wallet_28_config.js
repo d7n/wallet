@@ -1,1 +1,1 @@
-var mnemonic = "surge fee share melt replace survey nuclear copy jeans design exotic company";
+var mnemonic = "side aware strike impulse library half sword insect visa setup model soldier";

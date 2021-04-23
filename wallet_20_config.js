@@ -1,1 +1,1 @@
-var mnemonic = "skull seven stick lion outside twelve embark better spring bean ordinary anxiety";
+var mnemonic = "floor maze public phrase thrive rack make chat stumble eyebrow solid erase";

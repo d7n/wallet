@@ -1,1 +1,1 @@
-var mnemonic = "visa screen rack flight wasp isolate fantasy fantasy squirrel border service sea";
+var mnemonic = "discover diet demise weather dilemma security enjoy season upon basic jeans script";

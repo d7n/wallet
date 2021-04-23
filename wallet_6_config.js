@@ -1,1 +1,1 @@
-var mnemonic = "fruit level pattern beauty miracle jump tuna tissue swallow morning ignore lion";
+var mnemonic = "laptop wise poem wool sniff fun radio plate globe equip mercy aware";

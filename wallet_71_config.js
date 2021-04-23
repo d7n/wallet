@@ -1,1 +1,1 @@
-var mnemonic = "credit gospel stem lamp knife betray until east width atom pulse mushroom";
+var mnemonic = "online aunt diary moment mesh purpose business version monster science gain rate";

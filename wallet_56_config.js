@@ -1,1 +1,1 @@
-var mnemonic = "park future celery history remain vocal involve item elevator mansion pitch picture";
+var mnemonic = "canyon relief abandon dish month theory infant depend moment floor seed indicate";

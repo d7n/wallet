@@ -1,1 +1,1 @@
-var mnemonic = "initial country six pulp betray deputy round diamond monster hill best ankle";
+var mnemonic = "glow happy home bring frozen clown world immune opera marriage correct crucial";

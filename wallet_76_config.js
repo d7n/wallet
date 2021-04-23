@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit treat panda balance air oven pass race key ankle arrive tower";
+var mnemonic = "awesome bird that sniff slide make hedgehog behind control prepare twist regular";

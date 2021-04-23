@@ -1,1 +1,1 @@
-var mnemonic = "clutch airport midnight furnace advice together pumpkin great immune faith member scrub";
+var mnemonic = "liar bracket caution proof lesson canvas grab hungry destroy fence access squirrel";

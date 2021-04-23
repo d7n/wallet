@@ -1,1 +1,1 @@
-var mnemonic = "occur edit spot glad desk tail this open veteran example issue boost";
+var mnemonic = "portion thumb analyst fold mention feature abandon other soul canyon exist judge";
