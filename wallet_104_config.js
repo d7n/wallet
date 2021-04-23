@@ -1,1 +1,1 @@
-var mnemonic = "spread vibrant attract history broom assault history model grant kiwi person tumble";
+var mnemonic = "bulk market opinion gaze lava sail alcohol drill veteran treat hundred clever";

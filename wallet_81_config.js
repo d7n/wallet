@@ -1,1 +1,1 @@
-var mnemonic = "usage recipe armed common pill lesson between amazing loan pact buzz world";
+var mnemonic = "galaxy traffic quick gorilla denial cross visit garden purpose faculty dial left";

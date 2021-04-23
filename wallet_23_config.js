@@ -1,1 +1,1 @@
-var mnemonic = "brisk insane spoil brush gaze resist produce receive base fruit clever file";
+var mnemonic = "lift sentence scan stand trophy stumble inhale trick believe order welcome evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "recall sauce view system escape initial bean toast taste team author interest";
+var mnemonic = "program arch hockey tooth asset sample name echo risk soda people health";

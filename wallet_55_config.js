@@ -1,1 +1,1 @@
-var mnemonic = "initial exhibit promote slot useless owner audit cupboard expect oval joke rib";
+var mnemonic = "enrich need relax link bullet razor off pudding system across squeeze vivid";

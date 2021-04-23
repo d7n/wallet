@@ -1,1 +1,1 @@
-var mnemonic = "dog lunch scare hunt little side split cram spin adjust one book";
+var mnemonic = "random leisure reject rocket attitude monster mammal tourist tooth verb gift canvas";

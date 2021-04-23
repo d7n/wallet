@@ -1,1 +1,1 @@
-var mnemonic = "water time purse kidney fix punch energy lumber exile curtain conduct office";
+var mnemonic = "garden afford zebra casino foam feature girl cage off journey until coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic unknown clarify crunch staff student pen useful convince wool garment skirt";
+var mnemonic = "diesel below rabbit view sword damage crucial used begin usual attend rare";

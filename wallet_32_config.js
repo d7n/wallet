@@ -1,1 +1,1 @@
-var mnemonic = "raven harsh arrange shove write guess surge route rubber science carry sign";
+var mnemonic = "tribe soap security frame guard wait trophy wise hole soup taste draw";

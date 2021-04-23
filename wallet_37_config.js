@@ -1,1 +1,1 @@
-var mnemonic = "across decline broom solve loan orient oblige leopard void perfect welcome height";
+var mnemonic = "phrase maple option check daring pear excess melody tourist lounge dry onion";

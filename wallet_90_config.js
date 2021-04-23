@@ -1,1 +1,1 @@
-var mnemonic = "utility swamp elbow noble swarm curve gaze edit shaft leave front token";
+var mnemonic = "panic sponsor rocket tag include cost mom fold ugly steak episode acquire";

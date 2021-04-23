@@ -1,1 +1,1 @@
-var mnemonic = "throw congress antique recycle rigid author cattle history coin sketch bracket retreat";
+var mnemonic = "vicious huge siege fall major rural together enforce mushroom prosper opera surge";

@@ -1,1 +1,1 @@
-var mnemonic = "scare rhythm smooth pioneer regret pipe gift mushroom cycle grunt devote tenant";
+var mnemonic = "name proud believe admit rough spirit success wash someone myself noise recycle";

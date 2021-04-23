@@ -1,1 +1,1 @@
-var mnemonic = "embark predict grant fiction bonus involve brief apple spy brass basic isolate";
+var mnemonic = "duck render also cereal actress expand person pizza legal state gift hobby";

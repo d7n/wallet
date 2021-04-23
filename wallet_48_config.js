@@ -1,1 +1,1 @@
-var mnemonic = "scorpion cycle tree twin solve upgrade excite poet anchor say citizen remove";
+var mnemonic = "hungry kit banana gate enemy grocery near error canyon nice same urge";

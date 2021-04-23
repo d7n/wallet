@@ -1,1 +1,1 @@
-var mnemonic = "innocent sure tennis smooth clock pelican bubble fragile mechanic foil jungle indoor";
+var mnemonic = "globe claim logic critic remain promote plate give erode mirror source easily";

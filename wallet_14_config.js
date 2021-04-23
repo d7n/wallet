@@ -1,1 +1,1 @@
-var mnemonic = "myth blush term void absurd holiday fossil agree sting outdoor dress alter";
+var mnemonic = "celery field smooth melody nation bid shoe stumble album know gloom visit";

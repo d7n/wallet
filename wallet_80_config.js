@@ -1,1 +1,1 @@
-var mnemonic = "sick assume cliff security scene ill fat taste gap frost tool cotton";
+var mnemonic = "phrase harsh switch elite always festival goat scorpion blush waste tunnel bid";

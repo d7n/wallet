@@ -1,1 +1,1 @@
-var mnemonic = "imitate able dry admit wife cattle office novel theory fatal mimic cook";
+var mnemonic = "embark forum purity always journey wise often major year already awesome sister";

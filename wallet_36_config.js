@@ -1,1 +1,1 @@
-var mnemonic = "gesture fossil kiss village order flip sad more tragic there arctic moral";
+var mnemonic = "spring push used sign tackle skill ridge gift rhythm very broken cry";

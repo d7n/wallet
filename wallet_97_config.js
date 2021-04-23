@@ -1,1 +1,1 @@
-var mnemonic = "yellow sea crack elevator anger style grain bacon exile cattle month drip";
+var mnemonic = "come lizard boring stadium engage approve fragile release possible child abandon ready";

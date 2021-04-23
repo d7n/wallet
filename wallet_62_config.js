@@ -1,1 +1,1 @@
-var mnemonic = "cheese fantasy hint thank sorry myself expand child year december morning remain";
+var mnemonic = "shoulder kiss mammal aim stem cactus chicken square upper ridge slogan bleak";

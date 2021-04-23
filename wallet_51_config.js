@@ -1,1 +1,1 @@
-var mnemonic = "table trick bracket foot marble shed empower eye polar level observe session";
+var mnemonic = "state upgrade together slight spin child session tenant assume today symbol chest";

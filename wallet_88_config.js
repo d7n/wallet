@@ -1,1 +1,1 @@
-var mnemonic = "evidence celery foam hard book tent dry knee anxiety thank better keep";
+var mnemonic = "kick neutral dad dream bamboo fury tuition wing nature pen blind milk";

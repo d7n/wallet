@@ -1,1 +1,1 @@
-var mnemonic = "wagon gravity pumpkin uphold this alien pear start lock arrange chuckle orphan";
+var mnemonic = "radio daughter trust bulk physical egg enable cream margin run public betray";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn much slush dirt tag surround business toddler frog device web script";
+var mnemonic = "bleak risk park super near maximum educate curious video barely memory fossil";

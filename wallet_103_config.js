@@ -1,1 +1,1 @@
-var mnemonic = "wrong gown symptom lion text resource room math retire disorder fish drastic";
+var mnemonic = "win twenty cruise reform door base fantasy panel gossip neutral develop truth";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum price random script major screen upgrade breeze illegal auto hospital february";
+var mnemonic = "immense treat other fitness inform drum just undo fatal cave tumble theory";

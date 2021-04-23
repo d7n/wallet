@@ -1,1 +1,1 @@
-var mnemonic = "hospital pony invest arch path empty peasant nature glory bread struggle swing";
+var mnemonic = "habit ritual finger base merit female reduce baby fame salon media tuna";

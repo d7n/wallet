@@ -1,1 +1,1 @@
-var mnemonic = "member push jaguar pact donkey blade sort action mixture repeat damage female";
+var mnemonic = "provide nation goat cabbage industry physical error aisle chunk original midnight own";

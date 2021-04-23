@@ -1,1 +1,1 @@
-var mnemonic = "clarify gaze ugly kiss dutch there south heart daughter mutual system drift";
+var mnemonic = "essay worth art wrist pole ice help wasp subject laugh issue isolate";

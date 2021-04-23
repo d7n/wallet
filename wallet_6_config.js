@@ -1,1 +1,1 @@
-var mnemonic = "hub favorite shine science renew cable stamp pizza fault prison year regret";
+var mnemonic = "unit angry black chief patient evidence cushion citizen negative unhappy fantasy swift";

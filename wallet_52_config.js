@@ -1,1 +1,1 @@
-var mnemonic = "payment angle finish castle convince decline enroll curve angry slam phone depart";
+var mnemonic = "settle begin tray addict flat frequent pistol seminar aim advice view right";

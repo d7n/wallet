@@ -1,1 +1,1 @@
-var mnemonic = "like addict pelican team screen usual tube apart curtain soap cherry noble";
+var mnemonic = "insect feed about media job detect decide rocket wine venue lyrics birth";

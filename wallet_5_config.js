@@ -1,1 +1,1 @@
-var mnemonic = "deposit scan play student bomb boost effort depth marine pass mouse normal";
+var mnemonic = "toe lazy soda erupt injury process asset mirror stomach salad drama above";

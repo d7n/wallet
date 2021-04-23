@@ -1,1 +1,1 @@
-var mnemonic = "skate charge room genuine okay drama mention door boat alone bunker wild";
+var mnemonic = "easy village panda tongue cave action develop wise slim version firm cost";

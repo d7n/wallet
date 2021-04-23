@@ -1,1 +1,1 @@
-var mnemonic = "supreme material forum source distance eternal list rocket hamster actress public cruel";
+var mnemonic = "jar village dilemma sister hockey boring sheriff thought dumb among educate lock";

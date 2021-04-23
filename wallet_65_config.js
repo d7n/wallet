@@ -1,1 +1,1 @@
-var mnemonic = "push wood dice pool logic rose caught south alarm rebel salt improve";
+var mnemonic = "minute month wonder kit you chimney people point poet find laugh foot";

@@ -1,1 +1,1 @@
-var mnemonic = "aim rug plastic bachelor crater dolphin legal vanish flat decide sibling common";
+var mnemonic = "woman moral oven chef orient shoulder pipe only naive relax lift pepper";

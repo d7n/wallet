@@ -1,1 +1,1 @@
-var mnemonic = "exhaust company educate brain few harvest mask hip view consider what grow";
+var mnemonic = "reflect valid cargo virtual consider valley item you faith define frown apple";

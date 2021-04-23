@@ -1,1 +1,1 @@
-var mnemonic = "blanket wild slim boost session casino group guilt strike chicken spike head";
+var mnemonic = "symbol card grid final clown approve kitten comfort service rifle electric quote";

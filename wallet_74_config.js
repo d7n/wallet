@@ -1,1 +1,1 @@
-var mnemonic = "capital puppy taxi rotate verify cable wait borrow kit blouse industry miracle";
+var mnemonic = "rely squirrel assault arrive around grain marine glide pluck place meat post";

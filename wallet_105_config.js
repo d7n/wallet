@@ -1,1 +1,1 @@
-var mnemonic = "mountain depart true negative roast jealous demand spike congress luxury grunt puzzle";
+var mnemonic = "cross will oil wagon gallery power nation reduce scene orient fame snap";

@@ -1,1 +1,1 @@
-var mnemonic = "surge slide course elegant citizen marble arrest digital access rival apology nose";
+var mnemonic = "bag combine quiz puppy zebra pull sting fever regular salmon limb three";

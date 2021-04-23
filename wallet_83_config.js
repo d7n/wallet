@@ -1,1 +1,1 @@
-var mnemonic = "yard rich success satisfy casual black cigar obey fit series tiger where";
+var mnemonic = "long almost child neglect erupt torch dolphin despair pond eager picnic coral";

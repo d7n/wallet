@@ -1,1 +1,1 @@
-var mnemonic = "balcony grief zone destroy spawn venture hour pair laptop initial little visit";
+var mnemonic = "wealth someone decline deputy extra violin sweet style science myth license magic";

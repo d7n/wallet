@@ -1,1 +1,1 @@
-var mnemonic = "day witness away citizen heavy usage cause burst detail group anchor home";
+var mnemonic = "grief bind orange hotel actual bird hockey tilt can shrimp hat latin";

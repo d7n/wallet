@@ -1,1 +1,1 @@
-var mnemonic = "ride sentence can museum unveil acid silk february indoor disease box wire";
+var mnemonic = "arena marriage ladder earth drop spin alarm blur black celery dumb vacuum";

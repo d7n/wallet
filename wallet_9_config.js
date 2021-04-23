@@ -1,1 +1,1 @@
-var mnemonic = "valid truly child provide lounge verb amazing emerge isolate vintage voyage road";
+var mnemonic = "tennis rally job enhance analyst job myself fall high dad monitor depend";

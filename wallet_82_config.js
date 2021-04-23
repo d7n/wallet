@@ -1,1 +1,1 @@
-var mnemonic = "fine version nest tent upgrade behind able design swap rural little side";
+var mnemonic = "moment boring labor dentist home night ring siege crane firm charge rotate";

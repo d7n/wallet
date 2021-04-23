@@ -1,1 +1,1 @@
-var mnemonic = "spot fancy bless stay twice way soon world fun about educate chronic";
+var mnemonic = "shaft later paper inflict write dust ketchup possible practice skirt maximum moment";

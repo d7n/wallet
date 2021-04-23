@@ -1,1 +1,1 @@
-var mnemonic = "benefit salute lock model mobile unit voyage goose artist kidney general begin";
+var mnemonic = "tomorrow leave once cattle manual ranch tonight double virus grief random casino";

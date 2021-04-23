@@ -1,1 +1,1 @@
-var mnemonic = "educate swamp deer banner select civil swamp gravity second royal family police";
+var mnemonic = "yard arm yard point income attract frog north envelope rally shaft minor";

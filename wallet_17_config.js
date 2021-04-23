@@ -1,1 +1,1 @@
-var mnemonic = "cable slice document unfair tree current cloud desk print stage absent business";
+var mnemonic = "gold effort acoustic space novel neck shiver sausage submit drift away pond";

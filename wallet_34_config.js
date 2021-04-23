@@ -1,1 +1,1 @@
-var mnemonic = "choice spray gossip hollow neck plug become humble inner reopen border fortune";
+var mnemonic = "hard comfort above screen sail outside mind hope draft cloth average planet";

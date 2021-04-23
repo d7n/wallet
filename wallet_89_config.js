@@ -1,1 +1,1 @@
-var mnemonic = "hockey rule join monitor spice nut frown sea prevent notable hospital remember";
+var mnemonic = "purse space jewel rocket repair autumn street february quarter vehicle harvest ride";

@@ -1,1 +1,1 @@
-var mnemonic = "alert stick suffer upper panic fabric elbow knife alarm odor rent very";
+var mnemonic = "cruise history parent hour try chief bitter solve always victory audit ribbon";

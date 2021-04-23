@@ -1,1 +1,1 @@
-var mnemonic = "survey giggle vanish insane convince disorder steak clean flag orchard round chunk";
+var mnemonic = "surface muffin bubble screen increase burden bullet soup boat rib guard power";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator sphere bamboo history curtain police science such gossip guide share local";
+var mnemonic = "fury clean fall south lunch riot family minor popular excess describe hat";

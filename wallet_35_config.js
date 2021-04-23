@@ -1,1 +1,1 @@
-var mnemonic = "giant tower random bleak stay into load barely next song pluck into";
+var mnemonic = "swallow pigeon great circle harvest trophy awesome wine boat fat desert dove";

@@ -1,1 +1,1 @@
-var mnemonic = "iron curious cube until today snake window cable gauge decorate punch volcano";
+var mnemonic = "void sheriff family swamp nuclear return tiny step stay explain fox gas";

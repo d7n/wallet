@@ -1,1 +1,1 @@
-var mnemonic = "lift giraffe universe jewel mango orphan barrel useless scatter assist check fame";
+var mnemonic = "mouse local live humor secret nasty weird switch barrel again enemy rival";

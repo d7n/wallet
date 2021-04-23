@@ -1,1 +1,1 @@
-var mnemonic = "shoot whisper until work lemon valley chief salute robust verb connect appear";
+var mnemonic = "nuclear flash dune dose neutral grunt sock switch output boss task cake";

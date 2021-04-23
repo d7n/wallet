@@ -1,1 +1,1 @@
-var mnemonic = "menu eagle hard dry wheel visit wool broom genuine real ten priority";
+var mnemonic = "fury boil rural beach game twist lumber keen fire artwork lemon expire";

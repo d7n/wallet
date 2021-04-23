@@ -1,1 +1,1 @@
-var mnemonic = "gorilla sentence canyon smooth inhale apple infant medal eager lazy damage mountain";
+var mnemonic = "rabbit other ladder problem pear magnet aisle dish discover address term bachelor";

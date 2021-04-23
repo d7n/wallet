@@ -1,1 +1,1 @@
-var mnemonic = "depart friend mobile zebra blur wave crunch angry royal degree echo swallow";
+var mnemonic = "inside light canal addict under feed boil hen globe budget garage logic";

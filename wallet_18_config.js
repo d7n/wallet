@@ -1,1 +1,1 @@
-var mnemonic = "solve wonder exit scorpion theme amount february across federal deny hair task";
+var mnemonic = "sniff dinosaur exotic thought place slogan grief figure dirt rebuild frequent flower";

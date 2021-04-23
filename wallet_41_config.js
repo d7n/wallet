@@ -1,1 +1,1 @@
-var mnemonic = "plastic april frog error century alone tooth feature wink dumb cloud gift";
+var mnemonic = "car inmate giraffe blouse rail subway deal cook harsh upgrade give together";

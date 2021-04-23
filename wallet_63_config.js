@@ -1,1 +1,1 @@
-var mnemonic = "accident pelican repair surprise industry sketch doctor anchor giggle wide pilot dress";
+var mnemonic = "large weather suggest carpet topic flower jungle carbon try over domain luxury";

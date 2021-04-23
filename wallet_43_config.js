@@ -1,1 +1,1 @@
-var mnemonic = "arrange access live client burger roof rough slab just angry cram twenty";
+var mnemonic = "cargo helmet rule toward math wife neglect crash fever habit round scrap";

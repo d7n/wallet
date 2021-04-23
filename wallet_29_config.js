@@ -1,1 +1,1 @@
-var mnemonic = "clarify indicate exhibit jacket render junk river coconut green shiver orange pottery";
+var mnemonic = "dinner space forward rice globe prepare cup intact social pole scissors cliff";

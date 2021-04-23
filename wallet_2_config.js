@@ -1,1 +1,1 @@
-var mnemonic = "proof impulse tunnel shock famous left final reflect behind van decide version";
+var mnemonic = "ability secret jump run know pitch pistol arrive lawsuit what purse unlock";

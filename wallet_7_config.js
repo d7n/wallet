@@ -1,1 +1,1 @@
-var mnemonic = "slam sunset nasty inside crane pudding fence addict alert gadget eagle mammal";
+var mnemonic = "section axis fever credit physical all become pottery pole swap saddle witness";

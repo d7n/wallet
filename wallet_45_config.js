@@ -1,1 +1,1 @@
-var mnemonic = "mass still old chaos delay never approve pig cradle opera random this";
+var mnemonic = "hub public weapon accident stay april repeat problem topic catch uncover fluid";

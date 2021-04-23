@@ -1,1 +1,1 @@
-var mnemonic = "scene thunder autumn between current exact manual orient able cousin assume ranch";
+var mnemonic = "glue sauce inspire rebuild upgrade category thank organ chunk because jar obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy expand member flip win weasel deposit noise throw choice high stable";
+var mnemonic = "lava monkey marriage economy gentle differ pledge sponsor brick time hat moon";

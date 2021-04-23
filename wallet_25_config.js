@@ -1,1 +1,1 @@
-var mnemonic = "toss talk captain disagree reunion chapter trouble prize drip model flame track";
+var mnemonic = "gospel remember any glue grant typical usual episode soda coffee ridge grit";

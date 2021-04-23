@@ -1,1 +1,1 @@
-var mnemonic = "reduce detail gentle resist merit bag rubber jealous episode sugar spare stone";
+var mnemonic = "monkey merge age memory series table fringe egg inherit hand glory mandate";

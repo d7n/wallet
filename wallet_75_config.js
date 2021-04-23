@@ -1,1 +1,1 @@
-var mnemonic = "arrow great craft draw measure return section summer zero peace tool vague";
+var mnemonic = "acoustic across veteran enact renew secret device among analyst engage tornado rich";

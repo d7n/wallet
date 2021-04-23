@@ -1,1 +1,1 @@
-var mnemonic = "afford acquire monkey include hello game idle adjust cushion title little document";
+var mnemonic = "absurd mistake daughter tourist prevent result original enter oak april view enable";

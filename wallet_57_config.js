@@ -1,1 +1,1 @@
-var mnemonic = "steel ball supply iron diesel tree velvet buffalo below position industry casual";
+var mnemonic = "chat beach square solution unveil strategy winter rug hand employ stomach idea";

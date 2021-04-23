@@ -1,1 +1,1 @@
-var mnemonic = "draft plug slight follow alert yard reject rich explain derive beauty walnut";
+var mnemonic = "robot engage viable act recipe report sphere sight number light solid buddy";

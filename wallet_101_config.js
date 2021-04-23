@@ -1,1 +1,1 @@
-var mnemonic = "job true idea anxiety jealous truck badge broccoli dynamic warfare length emerge";
+var mnemonic = "spirit raw energy timber own moral hurdle above inch mean differ walk";

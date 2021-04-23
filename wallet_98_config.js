@@ -1,1 +1,1 @@
-var mnemonic = "slow narrow oyster urge where name love valve lumber decline force host";
+var mnemonic = "cube panic enjoy post sudden height pluck fashion blind any brain episode";

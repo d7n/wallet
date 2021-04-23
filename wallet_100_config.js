@@ -1,1 +1,1 @@
-var mnemonic = "thunder strategy rally snack hood below combine feature girl boy coffee cry";
+var mnemonic = "rubber travel sniff sight dismiss mistake cousin assist music conduct anger attitude";

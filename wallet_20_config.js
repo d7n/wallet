@@ -1,1 +1,1 @@
-var mnemonic = "okay enable correct chase lion wild grape razor pattern waste dirt learn";
+var mnemonic = "like idle arrive random news play dove bone reject gain range diet";

@@ -1,1 +1,1 @@
-var mnemonic = "ski hawk travel issue tank uphold blanket cupboard equip skirt rally bring";
+var mnemonic = "speak glare extra add surge sure sleep rent canvas uphold lava silly";

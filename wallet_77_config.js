@@ -1,1 +1,1 @@
-var mnemonic = "lobster cattle history amount gorilla river prize post cupboard sell squirrel attend";
+var mnemonic = "siren parent sad vault inner drum grow wait sad dynamic bless mango";

@@ -1,1 +1,1 @@
-var mnemonic = "never blue mail abuse blouse evolve crumble annual slab regular dog resist";
+var mnemonic = "you inspire pencil veteran upgrade fan video dash economy midnight under mansion";

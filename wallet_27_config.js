@@ -1,1 +1,1 @@
-var mnemonic = "army toddler endorse razor doll funny pipe voice frost very unhappy volcano";
+var mnemonic = "series post diagram behind stage false budget room lumber sand since van";

@@ -1,1 +1,1 @@
-var mnemonic = "system law assault often crystal rack client arrest dwarf banner achieve organ";
+var mnemonic = "orient sauce snack blanket dice card hockey witness joy suspect frame grit";

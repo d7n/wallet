@@ -1,1 +1,1 @@
-var mnemonic = "jewel hidden owner ocean lazy charge vintage twelve flock alcohol payment page";
+var mnemonic = "menu lamp give language atom elevator expect put kitten hospital enjoy gasp";

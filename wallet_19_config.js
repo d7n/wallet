@@ -1,1 +1,1 @@
-var mnemonic = "special fabric similar bird lady horn derive actress like pair share lottery";
+var mnemonic = "river review mouse gather chunk wreck immune cover solid ozone midnight index";

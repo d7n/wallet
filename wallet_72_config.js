@@ -1,1 +1,1 @@
-var mnemonic = "tackle arctic power border jazz news cradle series style reduce sure fine";
+var mnemonic = "harbor bag useless still extend aisle motor guitar wink equip budget clarify";
