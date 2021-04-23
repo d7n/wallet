@@ -1,1 +1,1 @@
-var mnemonic = "emerge bench wave keen fence act quantum chest syrup asset saddle pledge";
+var mnemonic = "bitter sunny cover similar belt measure among strike rapid bridge labor accuse";

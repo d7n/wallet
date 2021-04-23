@@ -1,1 +1,1 @@
-var mnemonic = "near just angle invest menu town divide advance deliver pretty rocket one";
+var mnemonic = "sort release minute hour already bounce service rifle romance chalk lawsuit warfare";

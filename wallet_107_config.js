@@ -1,1 +1,1 @@
-var mnemonic = "knife sun dial inch process session save glory episode skill list carpet";
+var mnemonic = "effort butter garment kiwi can sunset tortoise tent cave angry quality camera";

@@ -1,1 +1,1 @@
-var mnemonic = "jump shed shield angry buffalo brisk feed check grape parade book select";
+var mnemonic = "begin garage relax deliver system vast cover quality produce injury impact device";

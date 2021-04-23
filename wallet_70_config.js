@@ -1,1 +1,1 @@
-var mnemonic = "dragon bird bag love toe pilot lunch tragic cave category income host";
+var mnemonic = "alone ahead ski party into piano retreat elevator never penalty setup indoor";

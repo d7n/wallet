@@ -1,1 +1,1 @@
-var mnemonic = "coil boil badge frown weasel property heart assume trade empower easy hungry";
+var mnemonic = "dog raccoon subject monster monkey delay poet thank lab assist bright type";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk whisper mansion fruit shaft car rabbit elephant symbol drama crime top";
+var mnemonic = "genius talent outside snake purse where note library dizzy myth text bicycle";

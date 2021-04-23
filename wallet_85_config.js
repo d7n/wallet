@@ -1,1 +1,1 @@
-var mnemonic = "raw pet talk agree finish monster close kingdom clarify sword panic message";
+var mnemonic = "cruise primary save inhale lecture visual holiday wealth stairs escape shadow pattern";

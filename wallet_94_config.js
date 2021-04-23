@@ -1,1 +1,1 @@
-var mnemonic = "amused cake congress pink sand dutch spot enroll dust rescue avocado tank";
+var mnemonic = "refuse zone gate virtual unusual layer limb still hybrid april tank seat";

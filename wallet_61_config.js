@@ -1,1 +1,1 @@
-var mnemonic = "trade virus cancel guitar business credit abuse whisper area execute offer device";
+var mnemonic = "drink bleak render market eager scatter ready push smile current chest snap";

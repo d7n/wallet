@@ -1,1 +1,1 @@
-var mnemonic = "female barrel coin glory insect exclude adult word tunnel prepare essence obtain";
+var mnemonic = "fun seek salt brown sound cart payment luggage guide asset daughter gather";

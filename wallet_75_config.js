@@ -1,1 +1,1 @@
-var mnemonic = "club shine scout grain timber crazy false together behave auto piano antique";
+var mnemonic = "flock limb glue poverty pilot climb office affair any filter approve border";

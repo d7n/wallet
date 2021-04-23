@@ -1,1 +1,1 @@
-var mnemonic = "interest physical velvet toast staff rose engine bicycle elbow census embody mushroom";
+var mnemonic = "odor govern neutral acoustic crop under true gravity level friend indicate predict";

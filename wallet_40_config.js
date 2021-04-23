@@ -1,1 +1,1 @@
-var mnemonic = "joy permit author install tomorrow acid hobby refuse either veteran frown there";
+var mnemonic = "dismiss onion gorilla panel argue dignity detect then escape spare festival mean";

@@ -1,1 +1,1 @@
-var mnemonic = "this lyrics little reduce right blouse census proof dinner invite belt engine";
+var mnemonic = "gadget fragile end pill shrug enact bubble nuclear clap bike april jungle";

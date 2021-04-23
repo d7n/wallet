@@ -1,1 +1,1 @@
-var mnemonic = "impulse blood answer prevent deliver brother about ugly pen crouch excite dumb";
+var mnemonic = "reform poverty job bundle chunk during neglect equal disagree blanket syrup tomorrow";

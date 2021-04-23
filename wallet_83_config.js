@@ -1,1 +1,1 @@
-var mnemonic = "garage reduce swear someone idle rule lens fitness spray demand wife roast";
+var mnemonic = "carpet enough boring indicate trouble soap crash term tower possible mobile medal";

@@ -1,1 +1,1 @@
-var mnemonic = "neither sleep ginger subject quick meat nut verify thought cattle input tag";
+var mnemonic = "belt census home debris gate farm thrive coin just flee endorse hurdle";

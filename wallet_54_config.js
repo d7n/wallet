@@ -1,1 +1,1 @@
-var mnemonic = "guard science valley atom patch husband fan rebuild near tunnel cause message";
+var mnemonic = "find jump rural magnet stone skill measure guitar inhale coach grid load";

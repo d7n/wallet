@@ -1,1 +1,1 @@
-var mnemonic = "shrug mixed fever become couch example alcohol marriage erupt smooth lady crazy";
+var mnemonic = "half become replace hamster improve cheese soup display achieve frost next bundle";

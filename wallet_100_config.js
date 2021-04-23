@@ -1,1 +1,1 @@
-var mnemonic = "option whale beyond traffic light decide toy rather brisk uncle trim giraffe";
+var mnemonic = "snake empower afraid supreme push enemy company parent save mail exchange rhythm";

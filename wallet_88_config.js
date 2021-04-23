@@ -1,1 +1,1 @@
-var mnemonic = "advice copper nation evidence property season soon coach rate gorilla spider turtle";
+var mnemonic = "brother tide wool annual glory fruit confirm forget abstract pitch satisfy soccer";

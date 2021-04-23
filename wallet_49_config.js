@@ -1,1 +1,1 @@
-var mnemonic = "palm bar flash blur cereal monkey trophy concert oval tell state fix";
+var mnemonic = "legal stem aspect multiply cricket enough point medal credit equip congress satisfy";

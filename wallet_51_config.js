@@ -1,1 +1,1 @@
-var mnemonic = "bacon canvas other inside father embark mule judge salad jar fiber iron";
+var mnemonic = "verb squirrel happy actor card monitor blood answer car consider debris acid";

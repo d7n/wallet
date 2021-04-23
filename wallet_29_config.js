@@ -1,1 +1,1 @@
-var mnemonic = "foil marble session song around peace blue punch client couch hurt diary";
+var mnemonic = "drift army west animal entire right impose trend task lazy donor cushion";

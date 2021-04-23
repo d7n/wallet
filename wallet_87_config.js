@@ -1,1 +1,1 @@
-var mnemonic = "enlist silver clap agree lemon follow pet joke innocent wine worry turn";
+var mnemonic = "few glory cheese fat fancy divorce light curious visit dirt type recycle";

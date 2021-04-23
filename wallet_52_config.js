@@ -1,1 +1,1 @@
-var mnemonic = "walnut debris cheap galaxy limit zoo sail index three surge tide flash";
+var mnemonic = "poem master element office pupil image quote cloth random brother adult ignore";

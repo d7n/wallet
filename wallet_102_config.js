@@ -1,1 +1,1 @@
-var mnemonic = "original alpha elder helmet fork ensure nuclear review appear present hour century";
+var mnemonic = "foam federal off prevent trouble want lucky direct stone stage fiber pave";

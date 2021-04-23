@@ -1,1 +1,1 @@
-var mnemonic = "idle grant dune old cradle kangaroo material enter equal coconut life unable";
+var mnemonic = "lava youth inch giraffe rigid tunnel disagree damage solid angle addict artist";

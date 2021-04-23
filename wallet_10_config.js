@@ -1,1 +1,1 @@
-var mnemonic = "risk angle sudden kitchen talent ball ladder swift hard cook person term";
+var mnemonic = "load evil merit honey ranch world clean flavor visual tent neutral bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "coil tackle obscure vague brown pear window prize swift diet vacuum globe";
+var mnemonic = "same copper trick wall census sting polar tennis crush bicycle crane view";

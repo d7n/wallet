@@ -1,1 +1,1 @@
-var mnemonic = "public great innocent woman jeans uncover inside thank denial suffer ride cactus";
+var mnemonic = "decorate loyal drop blade ugly check lounge actor collect panic cradle frog";

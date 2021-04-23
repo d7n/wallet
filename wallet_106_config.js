@@ -1,1 +1,1 @@
-var mnemonic = "dice animal cook melt document valid uphold between poet lucky exotic sauce";
+var mnemonic = "wisdom angle laptop render together dish swallow female inhale erode weird tiny";

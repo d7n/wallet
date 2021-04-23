@@ -1,1 +1,1 @@
-var mnemonic = "food bottom devote race charge crash file cook staff uncle online barrel";
+var mnemonic = "next concert seat left daring soon vacuum parade invite spirit main nurse";

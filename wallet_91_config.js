@@ -1,1 +1,1 @@
-var mnemonic = "honey judge gravity pulp athlete pattern label hard punch ten final menu";
+var mnemonic = "analyst excess staff boss kidney foil column disagree hair evolve sea hurry";

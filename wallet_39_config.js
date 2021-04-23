@@ -1,1 +1,1 @@
-var mnemonic = "expect usage roast soda symbol gesture tongue find space tray nominee track";
+var mnemonic = "kind excess they mobile certain defy bamboo brown course helmet advance pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit prevent priority bottom rate indoor race zero pattern surface bulb punch";
+var mnemonic = "draw insane shock test bulb wasp celery club diesel amount hollow brisk";

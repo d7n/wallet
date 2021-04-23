@@ -1,1 +1,1 @@
-var mnemonic = "thunder ginger guilt van fruit light outer submit doctor impose party misery";
+var mnemonic = "bullet provide cube captain dumb boy drift sad budget nurse hurt asset";

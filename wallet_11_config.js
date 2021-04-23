@@ -1,1 +1,1 @@
-var mnemonic = "loan fold notice federal pitch picture luxury vast improve ocean water top";
+var mnemonic = "alien menu polar boy viable guitar way guess apple gown piano slow";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup advance cube plastic step series dash suggest festival scale gym design";
+var mnemonic = "friend poem tuna fetch virus bacon soldier increase rail gate oppose install";

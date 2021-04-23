@@ -1,1 +1,1 @@
-var mnemonic = "syrup claw develop olympic involve lens about front romance shadow confirm lobster";
+var mnemonic = "milk glass ivory sorry drift anchor high fever admit alter capital puzzle";

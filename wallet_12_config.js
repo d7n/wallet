@@ -1,1 +1,1 @@
-var mnemonic = "return pitch cup they coach sample clog town protect nominee light witness";
+var mnemonic = "august unknown empower habit pattern brain crucial month fade detail praise end";

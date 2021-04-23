@@ -1,1 +1,1 @@
-var mnemonic = "spoil visa naive sorry crouch jewel canvas gold divide poverty whisper lava";
+var mnemonic = "clean cook science shadow matter resource food great crop arch hard opinion";

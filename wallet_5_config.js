@@ -1,1 +1,1 @@
-var mnemonic = "margin until worth glass shell obey cook grape salad sphere nerve pink";
+var mnemonic = "three system travel mimic execute olympic edit glow glass orient know cabin";

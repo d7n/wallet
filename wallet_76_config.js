@@ -1,1 +1,1 @@
-var mnemonic = "animal blame adapt waste indicate title one ripple exist train shine solution";
+var mnemonic = "clever chimney drill seek divide fire beach snack sand nothing topic say";

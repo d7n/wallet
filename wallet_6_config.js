@@ -1,1 +1,1 @@
-var mnemonic = "dish exclude symbol ginger praise absent segment trade extend swim day survey";
+var mnemonic = "expand birth maid upon wink salmon almost rubber shield mother belt spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake garden install what glad emerge sad grief vocal park amazing air";
+var mnemonic = "fatigue farm normal engine expand goddess exotic actress drum slam next rely";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare cool hotel action rough kind document call chat draw vintage garbage";
+var mnemonic = "nut love vicious relax girl nut essence resource canyon element prepare floor";

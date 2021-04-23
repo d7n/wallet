@@ -1,1 +1,1 @@
-var mnemonic = "spoil zero task present talk victory inquiry scrap language kiss advance october";
+var mnemonic = "city dance pistol guitar pig federal april vote tourist soap trade observe";

@@ -1,1 +1,1 @@
-var mnemonic = "raise topple few release shrug scene drum riot gain night text day";
+var mnemonic = "ticket network course thank jealous army object coconut write surprise section garage";

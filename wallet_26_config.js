@@ -1,1 +1,1 @@
-var mnemonic = "frog prison art evidence staff canyon cat civil blast trip dignity extra";
+var mnemonic = "cliff farm crunch matrix bomb token name eager equip play melt sponsor";

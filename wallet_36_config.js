@@ -1,1 +1,1 @@
-var mnemonic = "enter chair roast level riot dumb any typical vote gloom mixed right";
+var mnemonic = "flag elbow police extend credit swarm metal again paper keen police dish";

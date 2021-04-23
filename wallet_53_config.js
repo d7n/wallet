@@ -1,1 +1,1 @@
-var mnemonic = "index giant illegal come lawn vivid erode charge gossip tuition squirrel basket";
+var mnemonic = "ocean hunt that render light beauty become fun short message emerge gun";

@@ -1,1 +1,1 @@
-var mnemonic = "fat fancy female stage unfair satisfy omit fresh dilemma tide turkey loan";
+var mnemonic = "awake shell federal annual body prefer piece edge before corn delay pledge";

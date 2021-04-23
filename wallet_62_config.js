@@ -1,1 +1,1 @@
-var mnemonic = "spoil chapter release lift total suspect spread oxygen naive bleak settle pact";
+var mnemonic = "draw museum label float maze glad castle rough you light true journey";

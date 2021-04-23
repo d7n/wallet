@@ -1,1 +1,1 @@
-var mnemonic = "meat primary grape party robust hybrid hedgehog suspect pear tag apple swamp";
+var mnemonic = "rack silver embrace abuse minute result arena cup isolate spy fat crime";

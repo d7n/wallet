@@ -1,1 +1,1 @@
-var mnemonic = "crucial debate move truth impose slush poverty frame ten clock flash feel";
+var mnemonic = "drastic disorder entry key fancy timber jazz father twenty note tonight sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "venue evoke wash beach play assist shove nuclear marble put agent media";
+var mnemonic = "network artwork neck jungle sauce fragile elevator start spare spice vanish bachelor";

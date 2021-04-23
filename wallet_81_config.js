@@ -1,1 +1,1 @@
-var mnemonic = "upgrade switch host milk strong cereal industry alley poet toddler tag load";
+var mnemonic = "wealth school permit snack own feed ranch plastic tomato barrel wet shiver";

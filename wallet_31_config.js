@@ -1,1 +1,1 @@
-var mnemonic = "left hood panther symptom adjust bulb zoo urban pyramid staff toy render";
+var mnemonic = "confirm pool sister weasel lake one thank side donate victory december armor";

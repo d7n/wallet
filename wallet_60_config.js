@@ -1,1 +1,1 @@
-var mnemonic = "pipe fruit grocery silly chronic same across symptom wasp brief taste grocery";
+var mnemonic = "essence attitude unit meat ticket strategy provide album target endorse tone fuel";

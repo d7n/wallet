@@ -1,1 +1,1 @@
-var mnemonic = "lift unique vote neutral vacant loop add derive junk web bright loan";
+var mnemonic = "age pretty habit ostrich lawn beef weather deputy artwork hole twin beach";

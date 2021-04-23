@@ -1,1 +1,1 @@
-var mnemonic = "inherit reopen diet angry genre still debate report fall victory decline road";
+var mnemonic = "fox any cat bird portion assist injury cactus upset source wood power";

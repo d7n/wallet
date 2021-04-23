@@ -1,1 +1,1 @@
-var mnemonic = "inside husband absurd rail comfort learn arrow tank hub twin soon proud";
+var mnemonic = "hammer hockey remember nominee olive accident end claim sell relief banana onion";

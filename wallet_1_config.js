@@ -1,1 +1,1 @@
-var mnemonic = "toss undo seed silk essay exile size divert image envelope mixed stove";
+var mnemonic = "argue heavy river chunk net useless demand pull have reject lab quote";

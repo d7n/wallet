@@ -1,1 +1,1 @@
-var mnemonic = "sword nothing transfer acquire organ frame tortoise decorate off size farm desk";
+var mnemonic = "long wealth aisle salt birth use paddle exact pond belt cup sketch";

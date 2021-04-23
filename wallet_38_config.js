@@ -1,1 +1,1 @@
-var mnemonic = "surround muffin gun barely kitchen rough anger cargo dirt mother tornado secret";
+var mnemonic = "prosper maple amateur outdoor exact license hill already donate spread ability fantasy";

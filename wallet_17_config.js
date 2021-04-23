@@ -1,1 +1,1 @@
-var mnemonic = "excuse zero devote witness lion indicate field bamboo fan erosion lift wave";
+var mnemonic = "item guitar across knock various lesson tip grid crush pledge robust party";

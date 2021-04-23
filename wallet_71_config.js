@@ -1,1 +1,1 @@
-var mnemonic = "focus tide fence hour dignity smooth note huge lion visit ugly olive";
+var mnemonic = "uncover cube when raw flush region vicious chalk infant sport cruel spray";

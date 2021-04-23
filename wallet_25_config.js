@@ -1,1 +1,1 @@
-var mnemonic = "blade net grief test online romance clog goddess stand program identify image";
+var mnemonic = "pause whale buffalo attack soon dawn magic museum valve moon provide angle";

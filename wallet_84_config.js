@@ -1,1 +1,1 @@
-var mnemonic = "time girl blind crunch monster nut apology risk please exile tag bullet";
+var mnemonic = "rhythm crazy worth alone cycle ceiling patrol kitchen rice notable remove hair";

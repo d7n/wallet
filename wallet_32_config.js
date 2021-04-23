@@ -1,1 +1,1 @@
-var mnemonic = "depart budget remain fever animal indoor venture fluid price fault boat lend";
+var mnemonic = "know actress common over simple state mention card ask mechanic adult work";

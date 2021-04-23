@@ -1,1 +1,1 @@
-var mnemonic = "edit erase drip wheat brush enrich pyramid mad patient bundle nest flock";
+var mnemonic = "marine exile vendor medal grant urban volume gallery clutch love transfer dream";

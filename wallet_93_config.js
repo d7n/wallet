@@ -1,1 +1,1 @@
-var mnemonic = "help resemble parrot mirror camera session morning lounge chuckle crime resource average";
+var mnemonic = "sound stool museum demand afraid engine letter warm wing wrist timber paper";

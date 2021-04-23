@@ -1,1 +1,1 @@
-var mnemonic = "upper invest obtain since snake elegant sample razor join junior dynamic gold";
+var mnemonic = "magnet demand jacket minimum defense used system dilemma ability wine motion license";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree monitor remove beach season report salon baby purse vivid blame put";
+var mnemonic = "paper opinion innocent sport direct teach firm range suit bicycle pave mean";

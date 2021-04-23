@@ -1,1 +1,1 @@
-var mnemonic = "patch mutual prison ribbon luxury quote feed innocent muffin people slide copper";
+var mnemonic = "eye obscure river frown liar later tennis bind fringe lift shiver jelly";

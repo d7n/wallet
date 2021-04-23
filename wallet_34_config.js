@@ -1,1 +1,1 @@
-var mnemonic = "amount spider rely learn game profit private frame leave casino future hurry";
+var mnemonic = "solar cherry sunny stomach horn act subway prison rotate brand also knee";

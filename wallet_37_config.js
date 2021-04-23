@@ -1,1 +1,1 @@
-var mnemonic = "front fiscal venue spy demise lecture satisfy unveil guard announce order desert";
+var mnemonic = "involve stool umbrella oppose safe slow make health simple replace leader pill";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor loop denial copy road sail labor inside match chaos day ability";
+var mnemonic = "wink tribe choice siren remind dawn margin sentence engage miss avocado glad";

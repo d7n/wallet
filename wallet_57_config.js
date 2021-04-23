@@ -1,1 +1,1 @@
-var mnemonic = "common capable clump fee chalk hobby small muscle spirit ticket pepper prison";
+var mnemonic = "ship claim clap force monster defy logic test alpha buddy soda device";

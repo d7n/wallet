@@ -1,1 +1,1 @@
-var mnemonic = "minute island elite orbit dynamic evoke display pattern attack toddler view gain";
+var mnemonic = "nurse glare text safe soap lonely negative craft stay toss boat cloth";
